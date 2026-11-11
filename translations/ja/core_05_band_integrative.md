@@ -54,7 +54,7 @@
 
 - 上流：[第二章 §1 — 目的と役割](core_02_definition_structure.md#1-目的と役割)；[第二章 §2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)；[第三章 §2 — 観察可能なシステム振る舞いからの不遵守](core_03_definition_integrity.md#2-観察可能なシステム振る舞いからの不遵守)。
 - 下流：[第四章 §§1 および 4 — 排他的執行と負担の割当て；遵守の証明標準](core_04_burden_traceability_verification.md#1-排他的執行と負担の割当)；[第八章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[不遵守所見プロファイル](../../core_05.035_band_accountability.md#non-compliance-finding-profile)。
-- あわせて読む：[第一章 §11.3 不整合の検出](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) および [§11.4 不整合の訂正と捕捉への応答](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **憲法上の不整合**は責務ある管理と誘因の乖離である；**不遵守**の代替ラベルではない；[残余リスク／不整合](../../core_05.040_band_continuity.md#residual-risk--misalignment) — 緩和後の有界な残余リスク；[システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — 第七章への認証の橋であり、不遵守の一般評決ではない。
+- [§19.4 不整合の修正とキャプチャ対応](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **憲法上の不整合**は、責務ある管理 とインセンティブの乖離です。これは **不遵守**の代替ラベルではありません。
 
 </details>
 
@@ -101,7 +101,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流：原則：[前文 §3.3 統治層の規律](core_00_preamble.md#33-統治の層)；[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)。
+- ダウンストリーム: 原則: [前文 §3.3 ガバナンス層の規律](core_00_preamble.md#33-governance-layers); [第 1 章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency) (1.000 §7)。
 - 所管の床：[第十二章：憲法契約、正当性、授権、責務ある管理](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article X-C：統治への参加と投票の権利](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)。
 - クラスター構成要素：[*憲法契約層と基礎的憲法選択*](core_05_band_integrative.md#憲法契約層)
 - あわせて読む：[基礎的憲法選択](core_05_band_integrative.md#基礎的憲法選択)、[拘束力ある影響を受ける側の選択](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)、[影響を受ける側の地位と重み](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)、[統治](../../core_05.035_band_accountability.md#governance)。
@@ -121,9 +121,9 @@
 
     それは次を含む：
     - [基礎的憲法選択](core_05_band_integrative.md#基礎的憲法選択)；
-    - [文書化された正当性の仕組み](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) を [第十二章 §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) のもとで；
-    - [採択](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) および [再授権](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) の規則（[第十二章 §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)；[第十六章 §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)）；および
-    - 統治権限を構成しまたは耐久して再構成するための [政治的平等の床](../../core_14.000_governance.md#41-entitlement-and-eligibility) — 所管する感知者はこの層で平等な声を持つ（[Article X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)）。
+    - [文書化された正当性の仕組み](core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority) を [第十二章 §1.1](core_12_governance.md#11-mechanism-families-auditability-and-pluralism) のもとで；
+    - [採択](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) および [再授権](core_12_governance.md#11-mechanism-families-auditability-and-pluralism) の規則（[第十二章 §1.3](core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)；[第十六章 §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)）；および
+    - 統治権限を構成しまたは耐久して再構成するための [政治的平等の床](core_12_governance.md#41-entitlement-and-eligibility) — 所管する感知者はこの層で平等な声を持つ（[Article X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)）。
   - **範囲外：**
     - 影響を受ける側の通常の協議；
     - 運用上の参加；
@@ -138,7 +138,7 @@
 
     **第一次の評価：**
     - 事案が憲法契約層の問いかを問え：誰が統治するかを授権すること、どの正当性の仕組みによって、どの耐久する条件のもとで。この機能がこの層を印づける — システムがどれだけ大きく、騒がしく、広く用いられるかではない。
-    - その契約の憲法整合を検証せよ：主張された権限は [文書化された正当性の仕組み](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) に、基礎的選択が適用されるところでの [政治的平等の床](../../core_14.000_governance.md#41-entitlement-and-eligibility) に、およびこの憲法のもとで統治権力を応答義務に保つ責務ある管理と権利の床の義務に、対応しなければならない（[第一章 §11.1 整合要件](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)）。
+    - その契約の憲法整合を検証せよ：主張された権限は [文書化された正当性の仕組み](core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority) に、基礎的選択が適用されるところでの [政治的平等の床](core_12_governance.md#41-entitlement-and-eligibility) に、およびこの憲法のもとで統治権力を応答義務に保つ責務ある管理と権利の床の義務に、対応しなければならない（[第一章 §11.1 整合要件](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)）。
     - [前文 §3.3 統治層の規律](core_00_preamble.md#33-統治の層) を適用せよ：基礎的授権を、すでに授権されたシステムの内部の通常の影響を受ける側の参加から分けて保て。
     - 沈黙、システムの単なる利用、市場の存在、または標章を、憲法契約としても、統治されることへの同意としても扱うな。
 <a id="constitutional-contract-layer-c"></a>
@@ -157,8 +157,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流：原則：[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)；[6. 過程衝突の解決](core_05_band_integrative.md)。
-- 所管の床：[第十二章 §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)（*基礎的憲法選択についての政治的平等の床*；*耐久する政治的声の床*）；[Article X-C：統治への参加と投票の権利](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)。
+- 下流: 原則: [第 1 章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [13.憲法上の衝突解決プロセス](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)。
+- 権利層ポインター: [記事 X-B](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*ガバナンスへの参加と投票資格*)。
 - クラスター構成要素：[*憲法契約層と基礎的憲法選択*](core_05_band_integrative.md#憲法契約層)
 - あわせて読む：[憲法契約層](core_05_band_integrative.md#憲法契約層)、[影響を受ける側の代表と重みの限度（拘束力ある影響を受ける側の選択）](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)、[拘束力ある影響を受ける側の選択](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)、[手続的公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional)。
 - 層：**憲法契約層（CCL）**。すでに授権されたシステムの内部の **影響を受ける側のシステム参加（SSP）** とは区別される。
@@ -176,7 +176,7 @@
     - その権限の範囲と耐久する条件。
 
     これは [憲法契約層](core_05_band_integrative.md#憲法契約層) に属する。
-    - 所管：[第十二章 §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)。
+    - 所管：[第十二章 §4.1](core_12_governance.md#41-entitlement-and-eligibility)。
     - 権利層の指針：[Article X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)（*統治への参加と投票の権利*）。
     - [感知性の非排除](../../core_05.055_band_participation.md#sentience-non-exclusion) のもとで適用される。
   - **範囲外：**
@@ -377,7 +377,7 @@
 
 **半独立の文脈**（複合定義は、共同呼び出しの範囲の外でもなお作用してよい）：
 
-- **共同呼び出し：** 誘因構造、代替指標の誠実性、または偶発的決済の規律が [第一章 §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) のもとで実質的であるところ。
+- **共同発動:** [第 1 章 §19 インセンティブ調整およびシステムキャプチャ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) に基づいて、インセンティブ構造、代理の完全性、または偶発的決済の規律が重要となります。
 - **範囲：** 共同呼び出しが成り立つところでは、報酬、目標、統治信号が憲法上の成果と整合したままか — 代替指標の誠実性と偶発的決済の規律を含む — についての説明責任の測定ファミリーの共同の本拠。
 
 **主題群の成員。** この群は次を含む：
@@ -398,9 +398,9 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 下流：説明責任の測定ファミリー（*憲法上の測定としての誘因整合と代替指標の誠実性*）；原則：[憲法四元](core_00_preamble.md#constitutional-tetrad)（[§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) のもとでの四元の捕捉の規律；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ）；[第七章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) および [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
-- 原則層の規則：[第一章 §11.1 整合要件](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) および [第一章 §11.2 都合のよい代替指標と代替指標の乖離](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence)；責務ある管理と運用者への適用：[第一章 §11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) および [§11.1.4 役割の深さと実質的責任の経路](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)。
-- 不整合の検出：[第一章 §11.3 不整合の検出](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)。
-- 能動的訂正と捕捉の拡大：[第一章 §11.4 不整合の訂正と捕捉への応答](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)。
+- [§19.1.4 役割の深さと重大な責任の経路](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)。
+- 位置ずれ検出: [第 1 章 §19.3 位置ずれ検出](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (1.010 §19.3)。
+- アクティブな修正とキャプチャのエスカレーション: [第 1 章 §19.4 位置ずれの修正とキャプチャの応答](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.010 §19.4)。
 - クラスター構成要素：[誘因整合、代替指標の誠実性、偶発的決済](core_05_band_integrative.md#incentive-alignment-semi-independent)
 - あわせて読む：依存、集中、統治形態の誘因、または退出の質の分析が実質的に関わるところでは [*統治アーキテクチャ、監督、依存、分散、集中、市場構造、および退出経路の誠実性*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)；偶発的構造が実質的に関わるところでは [第五章 《偶発的請求、事象契約市場、機会のゲーム、内部者優位》](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)；システム捕捉、代替指標の乖離、真理（憲法上の制約）、認識的誠実性、意味ある行為主体性。
 
@@ -552,7 +552,7 @@
 - **測定と評価の仕方**
   - **第一次の測定：** [説明責任の測定ファミリー](core_05_apex_accountability_leg.md#accountability-measurement-family) — *報酬構造、市場権力、応答義務は、義務を本物に保つか。* ここでは、賭け、予測市場、機会に基づく支払いが、違法な危害、内部者権力、または公的もしくは受託の決定の歪みに報いることを避けるかを問うために用いよ。
 
-    **第一次の評価：** そのようなシステムは [第一章 §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) を充足しなければならない。次を含む：
+**一次評価:** このようなシステムは、以下を含む [第 1 章 §19.5 条件付請求、偶然のゲーム、およびイベント契約市場](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) を満たす必要があります。
     - 感知者が賭けまたは決済しうる基礎事象に [必要性](../../core_05.035_band_accountability.md#necessity) と [比例性](../../core_05.035_band_accountability.md#proportionality) を適用すること；
     - 成果の解決を公正で独立に保つこと — 実行可能なところでは複数の源を用い、紛争経路を争訟へ開いたままにせよ；
     - 感知者とより広いシステムがどれだけ脆弱かに応じて尺度を合わせ、いかなる行為者が取りうる集中、てこ、露出を限ること；
@@ -562,7 +562,7 @@
 
     **第二次の評価：** 第一次の測定を点検するとき、これらの重ねがなお不整合を示すかを問え：
     - 成果操作の [リスク](../../core_05.040_band_continuity.md#risk)；
-    - [解決経路の捕捉](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)；または
+- [解決経路のキャプチャ](../../core_05.040_band_continuity.md#capture-of-resolution-pathways);または
     - [内部者優位](../../core_05.035_band_accountability.md#insider-advantage) または他の特権情報の経路。
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **何が成り立たなければならないか**
@@ -673,7 +673,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流：原則：[15. 統合適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)（コーパスは統合された全体として読まれる）；[憲法四元](core_00_preamble.md#constitutional-tetrad) — **監督**脚；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 編入と保管のもとでの **継続**目的；[2. 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)（拘束力ある源の識別）。
+- [20.統合アプリケーション](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (コーパスは統合された全体として読み取られます);
 - 下流：[第十六章 — 編入の橋](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)（*どの採択された**実施本文**が拘束力あるか、版の固定、保管の鎖、編集上の憲法不整合に対する規律*）。
 - あわせて読む：[権限スタックと内部階層](core_05_band_integrative.md#authority-stack) および [憲法上の制約](core_05_band_integrative.md#憲法上の制約)。
 - あわせて読む：[前文 — 積極的所管登録](core_00_preamble.md#4-原則定義権利)（*領域→所管者の積極地図*、第 4–7 節）。
@@ -718,8 +718,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 下流：原則：[2. 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)；[15. 統合適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)（第一章とあわせて読む権限スタック対内部階層）。
-- 下流：[第一章 — §8 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)（統合的読解と最後の手段の階層）；[第一章 §8.4 憲法上の意味衝突の解決](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)（*編入層を含む単一の衝突手続*）；[第十四章 — 採択者のための内部階層](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)；[第十六章](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)（*編入の橋 — 保管、版、採択；第二のスタックの本拠でも衝突順でもない*）。
-- 下流：[第六章 — 層の範囲](../../core_06.000_rights_part_a.md#12-layer-scope)；[第十三章 §4 層の範囲](../../core_15.000_non_regression.md#4-layer-scope) および [第十五章 §12 層の範囲](../../core_17.000_amendment_ratification.md#12-layer-scope)（*局所に適用される所管の不移転*）；番号付き `core_*` 文書を横断する章冒頭の所管主張。
+- 下流：[第一章 — §8 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)（統合的読解と最後の手段の階層）；[第一章 §8.4 憲法上の意味衝突の解決](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)（*編入層を含む単一の衝突手続*）；[第十四章 — 採択者のための内部階層](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)；[第十六章](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)（*編入の橋 — 保管、版、採択；第二のスタックの本拠でも衝突順でもない*）。
+- 下流：[第六章 — 層の範囲](../../core_06.000_rights_part_a.md#12-layer-scope)；[第十三章 §4 層の範囲](core_13_non_regression.md#4-layer-scope) および [第十五章 §12 層の範囲](../../core_19.000_amendment_ratification.md#12-layer-scope)（*局所に適用される所管の不移転*）；番号付き `core_*` 文書を横断する章冒頭の所管主張。
 - あわせて読む：[コーパス](core_05_band_integrative.md#コーパス)；[前文 — 積極的所管登録](core_00_preamble.md#4-原則定義権利)（*領域→所管者の積極地図*、第 4–7 節）；[監査可能性](core_05_band_oversight.md#監査可能性) および [争訟可能性](../../core_05.035_band_accountability.md#contestability)（*拘束力ある主張の実務の執行可能性*）；[前文 §3.3](core_00_preamble.md#33-統治の層) および [憲法契約層](core_05_band_integrative.md#憲法契約層)（*統治層の反置換*）；[憲法上の制約](core_05_band_integrative.md#憲法上の制約)；**CJS-0.1**（*実施の主題経路づけ*）。
 
 </details>
@@ -765,13 +765,13 @@
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **至上：** コーパスの拘束力ある義務は、源、採択、統治層の有効な範囲で優越する。この至上の効果は、運用 [コーパス](core_05_band_integrative.md#コーパス) と適用される採択または編入の文書とともに本項目を適用した結果である — 他の規範に対する [第十四章](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) の至上と、[第十四章 §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) の適用される外部法の非置換を含む。実施、支援本文、私的な順序づけ、緊急の枠づけ、または運用実務は、有効な範囲でこれらの拘束力ある義務を狭めてはならない。
+    - **至上：** コーパスの拘束力ある義務は、源、採択、統治層の有効な範囲で優越する。この至上の効果は、運用 [コーパス](core_05_band_integrative.md#コーパス) と適用される採択または編入の文書とともに本項目を適用した結果である — 他の規範に対する [第十四章](../../core_18.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) の至上と、[第十四章 §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law) の適用される外部法の非置換を含む。実施、支援本文、私的な順序づけ、緊急の枠づけ、または運用実務は、有効な範囲でこれらの拘束力ある義務を狭めてはならない。
 
     拘束力ある主張の実務の執行可能性 — 紙の約束ではなく観察可能で争訟可能な遵守 — は [監査可能性](core_05_band_oversight.md#監査可能性) と [争訟可能性](../../core_05.035_band_accountability.md#contestability) のもとで評価される。統治層の反置換（憲法契約対影響を受ける側のシステム参加）は [前文 §3.3](core_00_preamble.md#33-統治の層) と [憲法契約層](core_05_band_integrative.md#憲法契約層) のもとにある。
 
-    採択者については、**第十四章**の [採択者のための内部階層](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) が、拘束力ある憲法と採択された実施本文のあいだの線に、この同じ対の規則を適用する：
+    採択者については、**第十四章**の [採択者のための内部階層](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) が、拘束力ある憲法と採択された実施本文のあいだの線に、この同じ対の規則を適用する：
     - この憲法とその統合定義は、本文がどう読まれ、何が遵守として数えるかを制御する；および
-    - 採択された実施本文は、実際に採択された範囲でのみ適用され、[第十三章の不後退](../../core_15.000_non_regression.md) も本項目に述べられた至上の効果も後退させてはならない。
+    - 採択された実施本文は、実際に採択された範囲でのみ適用され、[第十三章の不後退](core_13_non_regression.md) も本項目に述べられた至上の効果も後退させてはならない。
   - **範囲外：** 支援文書、地図、作業一覧、または採択の標章そのものの注釈 — これらは権限スタックの層ではない；源の先行の再順序づけとしても拘束力ある義務の置換としても提示されない任意の案内。
 <a id="authority-stack-a"></a>
 - **測定と評価の仕方**
@@ -801,12 +801,12 @@
     - 志向的言語または局所実務を用いて、源と統治層の有効な範囲でコーパスの拘束力ある義務を置換すること；
     - 所管層の義務を他の所管層の内側で実質的に再述すること。読む者への案内散文を運用効果へ上げることを含む；
     - 所管層が第八から第十章にその権限を留保するところで、効力または統治の章における引き金、付託、または拡大の言語を最終の分類または制裁の法として扱うこと；
-    - 過程、統治、または実施の枠づけを用いて、[第六章](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) の権利の床を [第十三章](../../core_15.000_non_regression.md) の不後退と第六章の冒頭契約に反して狭め、再定義し、または移すこと；
+    - 過程、統治、または実施の枠づけを用いて、[第六章](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) の権利の床を [第十三章](core_13_non_regression.md) の不後退と第六章の冒頭契約に反して狭め、再定義し、または移すこと；
     - [前文の所管登録](core_00_preamble.md#4-原則定義権利) がすでに典範の本拠を割り当てているときに、非所管層に並行の分類法または作業流を発明すること；
     - 確立された源の階層を逆転する仕方で至上または遵守を主張すること、または実施、支援本文、私的な順序づけ、緊急の枠づけ、または運用実務が、有効な範囲でコーパスの拘束力ある義務を置換することを許すこと；
     - 内部階層を、より硬い読解を選ぶ近道として、[第六章](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) の権利の床の保護を [第一章](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) が明示的に許すを超えて狭めるために、または通常の読解で一つの源の層を他と取り替えるために用いること；
     - 第五章の定義を、原則または条項を無効にする競合する法体として扱うこと（[第一章 — §8 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)）；または
-    - 採択者について、採択された実施本文を、採択の範囲でこの憲法を無効にするかのように、または [第十三章](../../core_15.000_non_regression.md) の不後退の床を緩めるかのように扱うこと（**第十四章**の [採択者のための内部階層](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)）。
+    - 採択者について、採択された実施本文を、採択の範囲でこの憲法を無効にするかのように、または [第十三章](core_13_non_regression.md) の不後退の床を緩めるかのように扱うこと（**第十四章**の [採択者のための内部階層](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)）。
 
 ---
 

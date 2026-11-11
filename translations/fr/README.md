@@ -21,6 +21,8 @@
 
 **Couverture.** Ce pilote rassemble les traductions listées ci-dessous, dont le [Préambule](core_00_preamble.md), le [Chapitre un, Partie A](core_01_a_values_principles.md) et le [chapitre sept](core_07_charters.md). Le brouillon complet du chapitre sept a été préparé à partir de l’édition `SC-Corpus-2026.10.21` ; les autres fichiers peuvent refléter des versions anglaises antérieures. Toutes ces traductions restent non contraignantes et non certifiées. Une porte de lecture n’est pas une intervention politique.
 
+Des brouillons complets des chapitres onze et douze, établis d’après les sources anglaises actuelles, sont maintenant disponibles; ils n’ont pas encore fait l’objet d’une révision humaine indépendante.
+
 ## Fichiers
 
 | Fichier | Original anglais |
@@ -39,18 +41,23 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05.020_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05.025_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05.030_apex_timeliness_leg.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
 | [core_07_charters.md](core_07_charters.md) | [core_07.000_charters.md](../../core_07.000_charters.md) |
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
-| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_15.000_non_regression.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_13.000_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_14.000_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_16.000_governance.md](../../core_16.000_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_15.000_forum.md](../../core_15.000_forum.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_17.000_non_regression.md](../../core_17.000_non_regression.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 
 Les liens vers des documents qui ne sont pas traduits dans ce pilote pointent vers les fichiers anglais. Les ancres HTML (`id`) sont copiées de la source pour comparer les sections.
 

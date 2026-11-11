@@ -94,7 +94,7 @@
 
 本章围绕这两个目标和四柱组织：
 - **繁荣：**[繁荣目标：引言](#2-繁荣目标引言)概述该目标。[§3 基础目标：福祉](#3-foundational-objective-wellbeing-flourishing-aim)说明预期结果。[§4 安全](#4-safety-harm-constraint)、[§5 真相](#5-truth-epistemic-integrity-constraint)、[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)和[§7 自由](#7-freedom-bounded-agency)发展支撑该目标的四项条件：安全、真相、可信赖性和有意义的能动性。
-- **连续性：**[连续性目标：引言](#8-连续性目标引言)概述该目标。[§9 共享系统能力](#9-共享系统能力)（既是实现繁荣的手段，也是连续性的实质）、[§10 韧性与自我修复设计](#10-resilience-and-self-healing-design)、[§11 市场结构](#11-市场结构)以及[§12 系统评估要求](#12-系统性评估要求)发展长期稳定性、共享系统的持久能力与韧性。连续性主张须以诚实、完整的系统视图为基础：§9 共享系统能力、§10 韧性与自我修复设计以及§11 市场结构中的每项主张，都只有通过§12 系统评估要求的核验后才能成立。
+- **连续性：**[连续性目标：引言](#8-continuity-aim-introduction)绘出该目标。[§9 共享系统能力](#9-shared-system-capacity)（这是实现繁荣的手段，也是连续性的实质）、[§10 韧性与自我修复设计](#10-resilience-and-self-healing-design)、[§11 市场结构](#11-market-structure)和[§12 系统性评估要求](#12-systemic-evaluation-requirement)共同发展长期稳定性、持久的共享系统能力和韧性。连续性主张必须建立在诚实的全系统图景上：§9 共享系统能力、§10 韧性与自我修复设计和§11 市场结构中的每一项主张，只有经过§12 系统性评估要求中的评估后才成立。
 - **原则相遇时：**[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)、[§14 禁止绝对否决](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)和[§15 宪法解释](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)规定如何权衡并共同解读这些目标与原则。
 - **实践中的四柱：**从[§16 深入受托管理](core_01_c_stewardship_capacity_principles.md#16-深入探讨受托管理)到[§19 激励一致性与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)，这些条款将参与、监督、问责与及时性落实到受托管理、治理和激励中；[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)将整章适用于每一后续章节。
 
@@ -389,6 +389,25 @@ flowchart TB
 
 当有感知者必须依赖某个系统、接受其决定或依据其承诺进行协调时，这四个部分也支持[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)。
 
+<a id="315-present-capability-and-proactive-help"></a>
+##### 3.1.5 Present Capability and Proactive Help
+
+本小节规定，系统必须如何看待感知者此刻能够做什么，以及当感知者无法回应时系统必须做什么：
+
+- **当前能力：**对于眼前的任务或决定，系统判断感知者现在能够做什么。判断不得依赖感知者过去能做什么、某种诊断或标签，或一般感知者能够做什么。能力可能下降、恢复，也可能每天变化。多年按时付款不能证明当前能力；过去一次认定能力受限也不会使这种状态永久化。
+- **生存不取决于回应：**维持生存必需品不得取决于感知者能否回应、求助，或遵循其目前无法遵循的程序。这项要求随[重大利害](../../core_00.000_preamble.md#material-stake)和[依赖](../../core_05.040_band_continuity.md#dependency)而增加。
+- **主动联系：**当依赖系统满足重大需要的感知者停止回应时，系统必须以侵扰最少的方式尝试联系他们并把他们连接到帮助；无需知道他们为何沉默。
+- **先支持，再替代：**系统必须先提供支持和便利安排，然后才能取代感知者自己的决定。决定仍由感知者作出；一旦他们能够作决定，就应立即交还给他们。能力下降不会缩减其权利底线；对选择的任何限制都必须符合[§7.1 限制纪律](../../core_01.000_values_principles.md#71-limitation-discipline)。
+- **不得猜测内在状态：**联系行动依据系统可观察到的事实，例如联系未获回应以及利害所系，不得依据对健康或心理状态的猜测；[受保护的内在状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)对此提供保护。
+
+以下限制同样适用：
+- **连接帮助不等于治疗：**系统必须尝试联系感知者并将其转接到帮助，例如他们选定的联系人、支持或照护服务，或 **Article III-B**（*身体维持与医疗照护准入*）下的途径。未经感知者同意采取的任何行动仍受 **Article VII-C**（*健康危机与非自愿干预底线*）约束。
+- **联系人与数据：**只有感知者事先选定可信联系人，系统才能使用该联系人；并且只能分享获得回应所需的信息。联系只能使用系统已为此目的持有的联系方式，不能以此为理由收集更多数据。
+
+本节承接[§3.1.1 准入与机会](../../core_01.000_values_principles.md#311-access-and-opportunity)和[§3.1.3 公平对待](../../core_01.000_values_principles.md#313-fair-treatment)，并将[§16 支柱 2 — 主动管护](../../core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship)适用于系统影响的感知者。对于正在发展的感知者，本节与[渐进能力](../../core_05.055_band_participation.md#graduated-capability)配合，依据感知者实际能够做什么来判断其成长。
+
+当感知者必须依赖系统、接受其决定，或围绕其承诺进行协调时，这五部分也支持[§6 信任](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)。
+
 <a id="32-recognition-reinforcement-and-aspiration"></a>
 
 #### 3.2 认可、强化与愿景
@@ -537,7 +556,7 @@ flowchart TB
 - 治理和实施决策；
 - 执法和地位评估；
 - 论坛程序；
-- 紧急措施和过渡计划；
+- 紧急措施和采纳过渡计划；
 - 修宪程序；以及
 - 宪法权力下的一切行政和运营活动。
 
@@ -629,7 +648,7 @@ flowchart TB
 - 下游：[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨责任治理](core_01_c_stewardship_capacity_principles.md#16-深入探讨受托管理)、[13.2 认识披露约束](core_01_b_interaction_interpretation.md#132-认知披露限制)、[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)以及[§18 在责任治理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 - 下游：塑造可靠经验性证据、专家证据标准、科学出版与复现完整性、独立核验、生命周期测试、根因审查和安全敏感披露的权利范围。
   - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#第十三条享有可靠且可信赖系统的权利)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#第十六条审计透明度与独立核验)、[第 XVIII-E 条：科学出版、审查与复现完整性](core_06_rights_part_c.md#第十五条-d-款科学出版审查与复制完整性)、[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#第-xxiv-条-根本原因分析和适应性响应)以及[第 XXV-A 条：回顾性审查与披露](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)。
-- 配合阅读：[第十二章 §4.2——技术论坛领域](core_11_forum.md#42-technical-forum-domains)（*包括共同标准和防止取代*），当专家证据标准、经认证的技术问题或证据责任治理争议具有实质意义时；已采纳的专门路径参阅[corpus_forum.md CF-10](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md)（*技术专家论坛和专家审议庭*）。
+- 配合阅读：[第十二章 §4.2——技术论坛领域](core_11_forum.md#42-technical-forum-domains)（*包括共同标准和防止取代*），当专家证据标准、经认证的技术问题或证据责任治理争议具有实质意义时；已采纳的专门路径参阅[corpus_forum.md CF-10](../../corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md)（*技术专家论坛和专家审议庭*）。
 
 </details>
 
@@ -815,7 +834,7 @@ flowchart TB
 - 参见：[宪法四元](core_00_preamble.md#constitutional-tetrad)——**问责**支柱（说明责任、补偿与切实更正）；**及时性**支柱（在延误使补救无法获得之前提供补救）；补救深度依[重大利害](core_00_preamble.md#material-stake)而调整。
 - 参见：[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)——**繁荣**目标（失败得到纠正，因此依赖仍有根据）；**延续性**目标（在时间推移、继承和重组中保持持久的补救能力）。
 - 上游：原则：[§4 安全](#4-safety-harm-constraint)、[§5 真实](#5-truth-epistemic-integrity-constraint)和[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)。
-- 下游：[第XIII-B条：获得补偿与补救的权利](core_06_rights_part_c.md#第十三条-b-款获得救济与补救的权利)；[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*），涉及诉讼资格后果；[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*），涉及机构实施。
+- 下游：[第XIII-B条：获得补偿与补救的权利](core_06_rights_part_c.md#第十三条-b-款获得救济与补救的权利)；[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*），涉及诉讼资格后果；[CI-27](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*），涉及机构实施。
 
 </details>
 
@@ -845,7 +864,7 @@ flowchart TB
 - **及时提供：**若补救要等到伤害已不可逆，或有感知者被消磨到放弃之后才到来，那就不算补救（参见[及时解决](../../core_05.035_band_accountability.md#timely-resolution)）。
 - **由责任方承担：**在责任行为方有能力承担时，不得将更正成本转嫁给受害者、其社群或公共补救制度。费用、重组或继承本身不会终止义务。
 
-第六章[第XIII-B条](core_06_rights_part_c.md#第十三条-b-款获得救济与补救的权利)（*获得补偿与补救的权利*）规定了更正权。[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*）将此原则用于诉讼资格后果，[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*）规定其机构实施。
+第六章[第XIII-B条](core_06_rights_part_c.md#第十三条-b-款获得救济与补救的权利)（*获得补偿与补救的权利*）规定了更正权。[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*）将此原则用于诉讼资格后果，[CI-27](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*）规定其机构实施。
 
 ### 7. 自由（有界自主性）
 <a id="7-freedom-bounded-agency"></a>
@@ -1473,7 +1492,7 @@ flowchart TB
 - 与以下内容一并阅读：[宪法四元结构](core_00_preamble.md#constitutional-tetrad)——当集中或支配挫败发声、审查、答责或及时纠正时，涉及参与、监督、问责和及时性；按[实质利益](core_00_preamble.md#material-stake)调整审查尺度（尤其是[§11.2 促进竞争与防止支配](#112-促进竞争与防止支配)）。
 - 与以下内容一并阅读：[两项宪法目标](core_00_preamble.md#two-constitutional-aims)——**连续性**目标（可争辩、持久的生产条件）；**繁荣**目标（公平获取生计、能动性和创新途径）。
 - 上游：原则：[§9 共享系统能力](#9-共享系统能力)——若集中或支配掏空生产能力与效率，相关主张即不成立；[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
-- 下游：[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)（[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-代理指标偏离导致无效)）。
+- 下游：[第十一章 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)（[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-代理指标偏离导致无效)）。
 - 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（[§11.1](#111-市场集中阈值机制由采纳方调整)和[§11.4](#114-资源与依赖关系集中由采纳方调整)规定其适用规则）；**CJS-3.11.2 — 反支配行为与补救措施目录**（[§11.2](#112-促进竞争与防止支配)规定的禁止行为及其补救）；**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（[§11.3.2](#1132-整合上限机制由采纳方调整)规定的上限设定方法）。
 - 下游：塑造资源分配、公平报酬、集体组织、互操作性、退出和防止俘获审查等权利范围；尤其包括[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)、[第V条：资源分配、依赖关系与生态系统资金](core_06_rights_part_a.md#article-v-资源分配依赖关系与生态系统资助)，以及[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)。
 - 子节（阅读顺序）：[§11.1 市场集中阈值机制（由采纳方调整）](#111-市场集中阈值机制由采纳方调整) · [§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-集中阈值触发条件由采纳方调整) · [§11.2 促进竞争与防止支配](#112-促进竞争与防止支配) · [§11.3 整合上限](#113-整合上限) · [§11.4 资源与依赖关系集中（由采纳方调整）](#114-资源与依赖关系集中由采纳方调整)。
@@ -1519,7 +1538,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11 市场结构](#11-市场结构)；[市场集中阈值](../../core_05.035_band_accountability.md#market-concentration-threshold)。
-- 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-促进竞争与防止支配)；[§11.3 整合上限](#113-整合上限)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-整合上限机制由采纳方调整)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-促进竞争与防止支配)；[§11.3 整合上限](#113-整合上限)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-整合上限机制由采纳方调整)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 管理者入口（不具规范效力）：下一步卡片：[市场结构](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 子节（阅读顺序）：[§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-集中阈值触发条件由采纳方调整)。
 
@@ -1536,14 +1555,14 @@ flowchart TB
 
 <br>
 
-*通俗地说：本节划定防止财富、权力或控制力有害聚集的底线。它本身不判定伤害有多严重，也不自行将某方认定为不当行为主体。若利用集中来破坏本宪法，由第十一章对此作出判断；而且只有在第九章已将经核实的伤害评为最严重的三个等级之一之后才会判断。采纳方可按具体情况调整数值触发条件，但不得把它们设得过高以至于永不生效，不得配上无法实际使用的执法机制，也不得通过联邦式或空壳结构掩盖集中。有关触发条件的设定方式，见[§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-集中阈值触发条件由采纳方调整)。*
+*简言之：本节针对财富、权力或控制的有害积聚设定要求。本节本身不判断损害有多严重，也不自行将某人定性为不当行为案件。若利用集中度削弱本宪法，由第十四章裁断——而且只有在第十二章已将经核实的损害评为最严重的三个等级之一后才可裁断。采纳者可以根据自身情境调整具体数值触发条件，但不得将其设定得过高以致永不触发，不得与无法使用的执行机制配套，也不得通过联合式或空壳结构掩盖集中度。触发条件的设定方式见[§11.1.1 集中度阈值触发条件（采纳者可调整）](#1111-concentration-threshold-triggers-adopter-tunable)。*
 
 **本子节的作用：**
 
 - **规定：**为[§11 市场结构](#11-市场结构)底线确立原则层面的阈值方向。
 - **不规定：**经核实的伤害有多严重，也不作出不当行为认定。
-- **利用集中来破坏本宪法时：**依据[第十一章 §5.1 基于集中的颠覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)判断该不当行为。
-- **制造、维持或利用超过底线的集中时：**可将案件提交第十一章审查是否应认定为不当行为，但必须经过两个步骤。首先，[第九章 §4 问题2——结果有多好或多坏？](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)必须已将经核实的伤害评为最严重的三个等级之一。随后，第十一章检查该集中是否符合标准3（撤销保护的规避手段）、标准4（损害权利底线保护或阻止异议），或标准6（使宪法程序在实际中无法使用）。
+- **若利用集中度削弱本宪法：**该不当行为依[第十四章 §5.1 基于集中度的颠覆](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)裁断。
+- **创建、维持或利用违反要求的集中度：**此事可提交第十四章进行不当行为指定审查，但只能分两步。首先，[第十二章 §1 问题2——情况有多好或多坏？](core_12_standing_measurement.md#1-question-2--how-good-or-bad-was-it)必须已经将经核实的损害评为最严重的三个等级之一。随后，第十四章检查集中度是否符合标准3（使保护倒退的规避做法）、标准4（损害权利底线保护或阻止质疑）或标准6（使宪法程序在实践中无法使用）。
 
 **宪法底线：**
 
@@ -1599,7 +1618,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11 市场结构](#11-市场结构)；[市场结构](../../core_05.035_band_accountability.md#market-structure)。
-- 下游：**CJS-3.11.2 — 反支配行为与补救措施目录**（有效的行为模式与补救措施）；[§11.3 整合上限](#113-整合上限)；[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.2 — 反支配行为与补救措施目录**（有效的行为模式与补救措施）；[§11.3 整合上限](#113-整合上限)；[第十一章 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 与以下内容一并阅读：[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)（劳动流动权利底线）；[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)（[必要性](../../core_05.035_band_accountability.md#necessity)、[比例性](../../core_05.035_band_accountability.md#proportionality)、[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-代理指标偏离导致无效)）。
 - 子节（阅读顺序）：[§11.2.1 促进竞争的义务（应做事项）](#1121-促进竞争的义务应做事项) · [§11.2.2 防止支配的禁令（不得做事项）](#1122-防止支配的禁令不得做事项) · [§11.2.3 补救措施](#1123-补救措施)。
 
@@ -1849,7 +1868,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11.3 整合上限](#113-整合上限)；[§11.3.1 整合风险（锁定前的损害）](#1131-整合风险锁定前的损害)。
-- 下游：**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（有效的上限设定规则）；[CJS-3.11.2 — 反支配行为与补救措施目录](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（违反上限时的补救转介路径）；[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（有效的上限设定规则）；[CJS-3.11.2 — 反支配行为与补救措施目录](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（违反上限时的补救转介路径）；[第十一章 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 

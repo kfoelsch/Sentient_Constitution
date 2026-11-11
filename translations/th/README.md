@@ -21,6 +21,10 @@
 
 **Chapter Seven status.** [Chapter Seven charters](core_07_charters.md) is an AI-assisted translation draft without independent fluent-reader review. It is non-binding; the numbered English source controls.
 
+
+
+**อัปเดตความครอบคลุม (2026-11-11).** โฟลเดอร์นี้มีฉบับร่างแปลบทที่ 11 และ 12 ฉบับเต็มซึ่งจัดทำโดยใช้ AI และเทียบกับต้นฉบับภาษาอังกฤษในคอมมิต `05b7b839` แล้ว ฉบับร่างเหล่านี้ยังไม่ได้รับการตรวจทานโดยอิสระ คำแปลก่อนหน้าอาจอ้างอิงต้นฉบับรุ่นเก่ากว่า โดยให้ยึดต้นฉบับภาษาอังกฤษเป็นหลัก.
+
 ## ไฟล์
 
 | ไฟล์ | ต้นฉบับภาษาอังกฤษ |
@@ -44,9 +48,15 @@
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 | [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 
 ลิงก์ในโครงการนำร่องชี้ไปยังไฟล์ภาษาอังกฤษที่ยังไม่มีคำแปล สมอ HTML (`id`) คัดลอกจากต้นฉบับเพื่อให้เทียบได้ทีละช่วง

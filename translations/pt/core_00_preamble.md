@@ -1,4 +1,6 @@
 <a id="chapter-00-preamble--foundational-requirements"></a>
+<a id="preamble--foundational-requirements"></a>
+
 # PREÂMBULO / REQUISITOS FUNDACIONAIS
 
 <details>
@@ -6,7 +8,7 @@
 
 > Widgets marcados como **não operativos** (localização no corpus, orientação para quem lê, mapas de leitura) servem apenas para orientação. Eles não acrescentam, removem nem restringem obrigações vinculantes, nem no próprio arquivo nem em qualquer outro.
 >
-> Este arquivo é um **piloto de idioma de leitura** do [Preâmbulo em inglês](../../core_00_preamble.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_00_preamble.md`](../../core_00_preamble.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Preâmbulo em inglês](core_00_preamble.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_00_preamble.md`](core_00_preamble.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Próximo (neste idioma):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Capítulo Um, Parte A — Princípios de valores).
 
@@ -19,6 +21,8 @@
 A liberdade, a sobrevivência e o bem-estar dos sencientes são inseparáveis dos sistemas que criamos, habitamos e dos quais dependemos. À medida que esses sistemas crescem em alcance, interdependência e poder, crescem também os riscos de dano irreversível em larga escala. Esses riscos permanecem sempre presentes e materialmente relevantes.
 
 Um sistema não pode continuar legítimo fazendo os sencientes sofrerem quando esse sofrimento era evitável, ignorando problemas que não param de se repetir, deslocando o dano em silêncio para outros, ou trancando os sencientes fora dos sistemas que dão forma às suas vidas.
+
+<a id="complexity-orientation"></a>Os sistemas compartilhados existem num mundo que já é complexo e se torna ainda mais complexo. Uma governança saudável e duradoura precisa enfrentar essa complexidade — medi-la, modelá-la e responder por ela — em vez de reduzi-la a indicadores convenientes. Isso não significa soterrar os sencientes afetados em processos inutilizáveis: deveres, registros e explicações devem permanecer dentro do que os sencientes conseguem de fato aprender, contestar e usar, e o grau de exigência deve acompanhar o papel de cada ator e o impacto, a dependência e o risco em jogo. A compreensão distribuída mantém isso ligado à realidade. A complexidade que não cumpre nenhuma função constitucional é rejeitada: encare a complexidade do mundo e não a terceirize para uma muralha.
 
 O modo como os sistemas são desenhados, testados e operados deve sustentar a sobrevivência, o bem-estar, a dignidade, a honestidade e a estabilidade duradoura.
 
@@ -40,11 +44,11 @@ Um sistema só passa se a resposta à primeira pergunta for sim e à segunda for
 
 **Primeira pergunta:** o sistema falha nela se qualquer uma destas ações deixar de ser recompensada ou for penalizada, de forma aberta ou discreta:
 
-- relatar um problema de boa-fé ([Relato Protegido (Denúncia)](../../core_05_band_accountability.md#protected-reporting-whistleblowing))
+- relatar um problema de boa-fé ([Relato Protegido (Denúncia)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))
 - contestar uma decisão
 - recusar-se a participar de uma irregularidade ([Capítulo Um §17.5 Dever de Resistir](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
 
-A penalidade pode ser marginalização, retaliação ([Retaliação contra Relato Protegido e Interferência de Acesso](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)) ou desgaste.
+A penalidade pode ser marginalização, retaliação ([Retaliação contra Relato Protegido e Interferência de Acesso](../../core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)) ou desgaste.
 
 **Segunda pergunta:** o sistema falha nela se qualquer uma destas ações trouxer benefício, de forma aberta ou discreta:
 
@@ -61,7 +65,7 @@ Nenhuma das perguntas exige que todos concordem. Discordância honesta, relato d
 
 As perguntas vinculam todas as pessoas que decidem o que um sistema recompensa ou penaliza. Isso inclui operadores, instituições e responsáveis que definem pagamento, promoção, acesso, metas e avaliações. Inclui também quem projeta sistemas que treinam ou otimizam IA, pois seus objetivos e sinais de retorno são recompensas exatamente nesse sentido. Responsáveis humanos e de IA estão sob o mesmo padrão ([Capítulo Um §17.1 Padrão de Administração Compartilhada](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-O Capítulo Um transforma essas perguntas em regras para incentivos: [Capítulo Um §19.1.1 O que os Incentivos Devem Fazer](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sustenta a primeira, e [Capítulo Um §19.1.2 O que os Incentivos Não Devem Fazer](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) sustenta a segunda. Responda verificando o que realmente acontece, não aceitando a palavra de alguém. [Alinhamento de Incentivos](../../core_05_band_integrative.md#incentive-alignment) e [Divergência de Indicadores Substitutos](../../core_05_band_oversight.md#proxy-divergence) explicam como; a [**aposta material**](#material-stake) define quanto investigar. Os quatro deveres da seção 1 mantêm as respostas honestas.
+O Capítulo Um transforma essas perguntas em regras para incentivos: [Capítulo Um §19.1.1 O que os Incentivos Devem Fazer](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sustenta a primeira, e [Capítulo Um §19.1.2 O que os Incentivos Não Devem Fazer](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) sustenta a segunda. Responda verificando o que realmente acontece, não aceitando a palavra de alguém. [Alinhamento de Incentivos](core_05_band_integrative.md#incentive-alignment) e [Divergência de Indicadores Substitutos](../../core_05.050_band_oversight.md#proxy-divergence) explicam como; a [**aposta material**](#material-stake) define quanto investigar. Os quatro deveres da seção 1 mantêm as respostas honestas.
 
 ### 1. O modelo
 
@@ -94,19 +98,19 @@ Precisamos de medição contínua focada no que mais importa para a sobrevivênc
 
 A medição nesta Constituição apresenta as [**Duas Perguntas Fundamentais**](#two-fundamental-questions) ao que os sistemas realmente fazem, e não ao que alegam. Medições não são notas por si mesmas — são ferramentas para assegurar resultados sustentáveis, resilientes e compassivos, alinhados ao bem-estar senciente e à saúde ecológica da Terra. Esse dever assume forma vinculante pelos [Dois Fins Constitucionais](#two-constitutional-aims): **Florescimento** e **Continuidade**.
 
-As medições devem permanecer rastreáveis a esses fins e às proteções de direitos estabelecidas nesta Constituição. Vazão bruta, utilização, quadro de pessoal, receita, latência ou outros substitutos convenientes não podem substituir o desempenho constitucional onde a [divergência de indicadores substitutos](../../core_05_band_oversight.md#proxy-divergence) é previsível.
+As medições devem permanecer rastreáveis a esses fins e às proteções de direitos estabelecidas nesta Constituição. Vazão bruta, utilização, quadro de pessoal, receita, latência ou outros substitutos convenientes não podem substituir o desempenho constitucional onde a [divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence) é previsível.
 
 A visão abaixo lista **categorias** de medição mapeadas aos [Dois Fins Constitucionais](#two-constitutional-aims) e à [Tétrade Constitucional](#constitutional-tetrad). Cada categoria tem uma pergunta em linguagem simples e **subcategorias** nomeadas. Cada categoria liga ao seu **lar de família de medição do Capítulo Cinco** — onde vivem a tabela da família, o uso constitucional e o roteamento de definições — e cada subcategoria liga à sua definição canônica do Capítulo Cinco. A **materialidade** não é uma categoria de medição à parte. Ela fixa com que força cada categoria abaixo se aplica, com base na [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos. O **desempenho constitucional** é transversal — instrumental aos dois fins. Use o [cruzamento de medições do Capítulo Cinco](core_05__definitions_home.md#chapter-five-measurement-crosswalk) para rastrear os lares canônicos a partir de cada categoria abaixo.
 
 | Categoria | Pergunta simples | Subcategorias |
 |---|---|---|
-| **[Florescimento](core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | Os sencientes estão de fato sustentados na vida, na segurança e no acesso ao essencial? | [Bem-estar](../../core_05_band_continuity.md#wellbeing) · [Segurança, dano e risco](../../core_05_band_continuity.md#safety-constraint) · [Acesso ao piso de sobrevivência](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
-| **[Continuidade](core_05_apex_continuity_aim.md#continuity-measurement-family)** | Podem sencientes e sistemas durar — de forma ecológica, confiável e através da falha? | [Pegada ecológica e precondições ambientais](../../core_05_band_continuity.md#ecological-footprint) · [Resiliência, reversibilidade e risco sistêmico](../../core_05_band_continuity.md#reversibility-constitutional) · [Dependência e fluxos de recursos](../../core_05_band_continuity.md#dependency) · [Apoio transistêmico](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
-| **[Participação](core_05_apex_participation_leg.md#participation-measurement-family)** | Podem os sencientes afetados participar com justiça — voz, acesso, aprendizado e privacidade? | [Equidade, acesso e agência](../../core_05_band_participation.md#substantive-fairness-constitutional) · [Privacidade e administração responsável de dados](../../core_05_band_continuity.md#privacy-informational-cluster) |
-| **[Supervisão](core_05_apex_oversight_leg.md#oversight-measurement-family)** | Podem os sencientes ver, verificar e confiar no que os sistemas representam? | [Verdade e integridade dos fatos](../../core_05_band_oversight.md#truth-constitutional-constraint) · [Confiabilidade](../../core_05_band_continuity.md#trustworthiness) |
-| **[Prestação de contas](core_05_apex_accountability_leg.md#accountability-measurement-family)** | As estruturas de recompensa, o poder de mercado e a exigibilidade mantêm os deveres reais? | [Alinhamento de incentivos e integridade dos substitutos](../../core_05_band_integrative.md#incentive-alignment) · [Estrutura de mercado e contestabilidade](../../core_05_band_accountability.md#market-structure-constitutional) |
-| **[Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family)** | As controvérsias, correções e reparos são resolvidos enquanto o remédio ainda importa? | [Resolução oportuna](../../core_05_band_accountability.md#timely-resolution-constitutional) · [Disciplina contra o atraso e das vias de resolução](../../core_05_band_accountability.md#capture-of-resolution-pathways) |
-| **[Desempenho constitucional](../../core_05_band_performance.md#performance-measurement-family)** | Os resultados constitucionais são entregues com eficiência e sem desperdício inútil? | [Eficiência constitucional](../../core_05_band_continuity.md#constitutional-efficiency) · [Ônus evitável](../../core_05_band_continuity.md#avoidable-burden) · [Capacidade produtiva](../../core_05_band_continuity.md#productive-capacity-constitutional) |
+| **[Florescimento](core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | Os sencientes estão de fato sustentados na vida, na segurança e no acesso ao essencial? | [Bem-estar](../../core_05.040_band_continuity.md#wellbeing) · [Segurança, dano e risco](../../core_05.040_band_continuity.md#safety-constraint) · [Acesso ao piso de sobrevivência](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) |
+| **[Continuidade](core_05_apex_continuity_aim.md#continuity-measurement-family)** | Podem sencientes e sistemas durar — de forma ecológica, confiável e através da falha? | [Pegada ecológica e precondições ambientais](../../core_05.040_band_continuity.md#ecological-footprint) · [Resiliência, reversibilidade e risco sistêmico](../../core_05.040_band_continuity.md#reversibility-constitutional) · [Dependência e fluxos de recursos](../../core_05.040_band_continuity.md#dependency) · [Apoio transistêmico](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| **[Participação](core_05_apex_participation_leg.md#participation-measurement-family)** | Podem os sencientes afetados participar com justiça — voz, acesso, aprendizado e privacidade? | [Equidade, acesso e agência](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [Privacidade e administração responsável de dados](../../core_05.040_band_continuity.md#privacy-informational-cluster) |
+| **[Supervisão](core_05_apex_oversight_leg.md#oversight-measurement-family)** | Podem os sencientes ver, verificar e confiar no que os sistemas representam? | [Verdade e integridade dos fatos](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [Confiabilidade](../../core_05.040_band_continuity.md#trustworthiness) |
+| **[Prestação de contas](core_05_apex_accountability_leg.md#accountability-measurement-family)** | As estruturas de recompensa, o poder de mercado e a exigibilidade mantêm os deveres reais? | [Alinhamento de incentivos e integridade dos substitutos](core_05_band_integrative.md#incentive-alignment) · [Estrutura de mercado e contestabilidade](../../core_05.035_band_accountability.md#market-structure-constitutional) |
+| **[Tempestividade](core_05_apex_timeliness_leg.md#measuring-timeliness)** | Disputas, correções e reparações são resolvidas enquanto o recurso ainda pode ser eficaz? | [Resolução em tempo hábil](../../core_05.035_band_accountability.md#timely-resolution) · [Disciplina contra atrasos e das vias de resolução](../../core_05.040_band_continuity.md#capture-of-resolution-pathways) |
+| **[Desempenho constitucional](core_05_band_performance.md#performance-measurement-family)** | Os resultados constitucionais são entregues com eficiência e sem desperdício inútil? | [Eficiência constitucional](../../core_05.040_band_continuity.md#constitutional-efficiency) · [Ônus evitável](../../core_05.040_band_continuity.md#avoidable-burden) · [Capacidade produtiva](../../core_05.040_band_continuity.md#productive-capacity-constitutional) |
 
 Essas categorias de medição mostram o que importa — mas não fixam, sozinhas, cada número, fórmula de financiamento, regra de interface, lista de adequações, métrica técnica ou desenho de avaliação. Tornam-se vinculantes só quando um capítulo específico ou um instrumento adotado as exige de forma expressa.
 
@@ -116,194 +120,276 @@ Essas categorias de medição mostram o que importa — mas não fixam, sozinhas
 
 A legitimidade duradoura depende da [Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), da [Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) e da [Confiança](core_01_a_values_principles.md), e também do reconhecimento proporcional da administração responsável lícita, da cooperação veraz e da aspiração limitada — não só de sanção e contenção. O Capítulo Um enuncia essa dimensão de reconhecimento em [Reconhecimento, reforço e aspiração](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
-A compreensão distribuída e a administração responsável exigem que os sencientes tenham oportunidades regulares e proporcionais de aprender como operam os sistemas que nos afetam de forma material. Além disso, isso nos habilita a assumir papéis de consequência na manutenção e na melhoria deles — para que competência, capacidade de reparo e legitimidade se distribuam de forma ampla em nossa Comunidade Constitucional a fim de assegurar resiliência, sustentabilidade e inovação pró-social. Essas oportunidades devem satisfazer Segurança, Verdade, agência limitada, e a disciplina de [Ônus evitável](../../core_05_band_continuity.md#avoidable-burden) e de proporcionalidade enunciada no [Capítulo Um](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+A compreensão distribuída e a gestão responsável exigem oportunidades regulares e proporcionais para que os seres sencientes aprendam como funcionam os sistemas que os afetam de modo relevante e assumam papéis efetivos na manutenção e melhoria desses sistemas. Em conjunto, essas oportunidades disseminam competência, capacidade de reparação e legitimidade por toda a nossa Comunidade Constitucional, para assegurar resiliência, sustentabilidade e inovação em benefício da sociedade. Todas devem cumprir os requisitos de Segurança, Verdade, agência limitada e a disciplina de [Ônus Evitável](../../core_05.040_band_continuity.md#avoidable-burden) e proporcionalidade estabelecida no [Capítulo Um](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Usar as medições na governança
 
 *Em termos simples: nomeie primeiro o problema e a aposta, escolha a categoria de medição correspondente e use padrões técnicos compartilhados — não números de conveniência — como evidência.*
 
-Quando a Constituição exige regras concretas de medição, os **Domínios Técnicos de Fórum** sob o [Capítulo Onze](core_11_forum.md#42-technical-forum-domains) desenvolvem e mantêm os padrões compartilhados — como medir, como testar e o que conta como evidência confiável. O fórum responsável por uma controvérsia dada então aplica esses padrões ao decidir aquele caso sob o [Capítulo Onze §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
+Quando a Constituição exigir regras concretas de medição, os **Domínios de Fóruns Técnicos** do [Capítulo Quinze](core_11_forum.md#42-technical-forum-domains) desenvolvem e mantêm padrões compartilhados para medição, testes e evidências confiáveis. O fórum responsável por uma disputa aplica esses padrões ao decidir o caso segundo o [Capítulo Quinze §4.2 (*Domínios de Fóruns Técnicos*)](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
 A administração responsável constitucional começa por nomear o problema e a [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos. Em seguida, escolha a categoria e a subcategoria de [**medição**](#2-measurements-overview) pertinentes da [visão geral](#2-measurements-overview) e aplique os padrões acima para testar efeitos do mundo real em vez de métricas de conveniência. Exija evidência rastreável.
-
 <a id="32-key-governance-processes"></a>
 #### 3.2 Processos-chave de governança
 
 *Em termos simples: quando o texto exige, as questões materiais passam por certificação, registros escritos de ajuda e dano, correção e remédio, e revisão de fórum com prazos — as controvérsias ordinárias usam primeiro a via de impugnação publicada; essas vias testam a governança autorizada; não a criam sozinhas.*
 
-Onde o Capítulo Seis, o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), os instrumentos incorporados ou outras disposições constitucionais o exigem de forma expressa, leve as questões constitucionais materiais a um ou mais dos caminhos abaixo. As [Cadeias práticas de processo-chave](#5-key-practical-process-pipelines) traduzem a medição em registros, certificação, insumos verificados, classificação, supervisão de fórum, correção e remédio oportuno — como a governança autorizada é testada, impugnada e reparada na prática. Não autorizam a governança sozinhas; tornam a governança revisável, impugnável, corrigível e em tempo. A [seção 5.1](#51-how-the-full-chain-fits-together) enuncia essa cadeia completa.
+Onde o Capítulo Seis, o [Capítulo Nove](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), os instrumentos incorporados ou outras disposições constitucionais o exigem de forma expressa, leve as questões constitucionais materiais a um ou mais dos caminhos abaixo. As [Cadeias práticas de processo-chave](#6-key-practical-process-pipelines) traduzem a medição em registros, certificação, insumos verificados, classificação, supervisão de fórum, correção e remédio oportuno — como a governança autorizada é testada, impugnada e reparada na prática. Não autorizam a governança sozinhas; tornam a governança revisável, impugnável, corrigível e em tempo. A [seção 5.1](#62-how-the-full-chain-fits-together) enuncia essa cadeia completa.
 
-- **Certificação de alinhamento do sistema** ([Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, reúna e revise evidência sobre se é constitucionalmente seguro apoiar-se nele agora
-- **Registros de trajetória** ([Capítulo Oito](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)) — quando a conduta ou o dano importa constitucionalmente, coloque fatos verificados em autos formais de contribuição ou de infração; rumores e reputação não bastam
-- **Correção e remédio** ([Capítulo Nove §4.1](../../core_11_standing_integration.md#41-remedy-and-correction)) — conserte a falha de fundo e ofereça reconhecimento, reparo, restauração ou compensação proporcionais a quem foi prejudicado
-- **Revisão de fórum** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role))
-  - As controvérsias ordinárias dentro de sistemas já autorizados usam primeiro a via de impugnação publicada da [Participação Sistêmica das Partes Afetadas](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)
+- **Certificação de alinhamento do sistema** ([Capítulo Nove](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, reúna e revise evidência sobre se é constitucionalmente seguro apoiar-se nele agora
+- **Registros de standing** ([Capítulo Onze](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — quando a conduta ou o dano importa constitucionalmente, registre fatos verificados em autos formais de contribuição ou violação; rumores e reputação não bastam.
+- **Correção e reparação** ([Capítulo Treze §5.1 (*Reparação e correção*)](../../core_13.000_standing_integration.md#51-remedy-and-correction)) — corrija a falha subjacente e ofereça reconhecimento, reparo, restauração ou compensação proporcional às pessoas prejudicadas.
+- **Revisão por fórum** ([Capítulo Quinze](core_11_forum.md#1-purpose-and-role--participation-architecture))
+  - As controvérsias ordinárias dentro de sistemas já autorizados usam primeiro a via de impugnação publicada da [Participação Sistêmica das Partes Afetadas](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)
   - Se essa via ainda está contestada, falta, está capturada ou não pode conceder alívio, roteie segundo a aposta primária por fóruns supervisionados
-  - Esses fóruns sustentam a evidência, a transferência lícita e os prazos oportunos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*)
-
-<a id="33-governance-layers"></a>
+  - Esses fóruns sustentam a evidência, a transferência lícita e os prazos oportunos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*)<a id="33-governance-layers"></a>
 #### 3.3 Camadas de governança
 
 *Em termos simples: quem pode governar é uma pergunta distinta da voz dentro de um sistema já autorizado; um voto de participação ou uma pontuação de confiança não é autorização, e essa voz é o primeiro passo ordinário para as controvérsias ordinárias — não um substituto da revisão independente de fórum quando a via falha.*
 
 A governança para cumprir a [**Tétrade Constitucional**](#constitutional-tetrad) sob nossa Constituição tem duas camadas relacionadas mas distintas:
 
-- A [**Camada do Contrato Constitucional**](../../core_05_band_integrative.md#constitutional-contract-layer) governa a autorização da autoridade de governo em si — quem pode governar, por qual mecanismo de legitimidade, e sob qual alcance e termos duráveis.
-- A [**Participação Sistêmica das Partes Afetadas**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) governa a participação, a representação, a impugnabilidade e o [Devido Processo](../../core_05_band_accountability.md#due-process-constitutional) devidos aos sencientes afetados de forma material por sistemas, instituições e domínios de decisão limitados já autorizados.
+- A [**Camada do Contrato Constitucional**](core_05_band_integrative.md#constitutional-contract-layer) governa a autorização da autoridade de governo em si — quem pode governar, por qual mecanismo de legitimidade, e sob qual alcance e termos duráveis.
+- A [**Participação Sistêmica das Partes Afetadas**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) governa a participação, a representação, a impugnabilidade e o [Devido Processo](../../core_05.035_band_accountability.md#due-process-constitutional) devidos aos sencientes afetados de forma material por sistemas, instituições e domínios de decisão limitados já autorizados.
 
 Essas camadas podem se sobrepor na prática. Essa sobreposição não as colapsa em uma só. A participação no nível das partes afetadas em sistemas já autorizados não substitui a autorização constitucional. Uma via de impugnação publicada, um voto de participação ou uma pontuação de confiança não decidem sozinhos quem pode governar.
 
-A impugnabilidade sob essa camada é o primeiro passo ordinário para as controvérsias ordinárias dentro de sistemas já autorizados. Os sencientes afetados usam primeiro a via de impugnação publicada. A [revisão de fórum](core_11_forum.md#1-purpose-and-role) independente não substitui essa via. Essa via também não substitui a revisão de fórum quando ainda está contestada, falta, está capturada ou não pode conceder o alívio necessário. A [sequência de controvérsias](core_11_forum.md#dispute-sequencing) sob o Capítulo Onze enuncia quando o roteamento de fórum assume.
+A contestabilidade na camada de participação é a primeira etapa normal para disputas dentro de sistemas já autorizados: os seres sencientes afetados usam primeiro a via de contestação publicada. A [revisão independente por fórum](core_11_forum.md#1-purpose-and-role--participation-architecture) não substitui essa via, nem a via substitui a revisão por fórum quando continua contestada, está ausente ou capturada, ou não pode conceder a reparação necessária. A [sequência de disputas](core_11_forum.md#dispute-sequencing) do Capítulo Quinze determina quando o encaminhamento ao fórum assume o caso.
 
-A autorização constitucional também não apaga os deveres devidos sob a camada de [Participação Sistêmica das Partes Afetadas](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster). Esses deveres ainda incluem participação, representação, [impugnabilidade](../../core_05_band_accountability.md#contestability) e [Devido Processo](../../core_05_band_accountability.md#due-process-constitutional) para os sencientes afetados de forma material por sistemas, instituições e domínios de decisão limitados já autorizados.
-
+A autorização constitucional também não apaga os deveres devidos sob a camada de [Participação Sistêmica das Partes Afetadas](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster). Esses deveres ainda incluem participação, representação, [impugnabilidade](../../core_05.035_band_accountability.md#contestability) e [Devido Processo](../../core_05.035_band_accountability.md#due-process-constitutional) para os sencientes afetados de forma material por sistemas, instituições e domínios de decisão limitados já autorizados.
 <a id="4-principles-definitions-and-rights"></a>
 ### 4. Princípios, definições e direitos
 
 *Em termos simples: os Capítulos Um a Seis são donos dos valores, de como as palavras são construídas e conferidas, do dicionário e do Piso de Direitos; os capítulos posteriores devem respeitar esses lares, não movê-los em silêncio.*
 
-As seções **4 a 7** são o **registro positivo de titulares** desta Constituição: cada bloco nomeia o domínio substantivo que seu capítulo (ou corpus companheiro) tem a seu cargo e o que produz. As afirmações vinculantes de titular, em uma linha, também aparecem na abertura de cada capítulo numerado. Outras camadas podem apontar para um titular — não devem reescrevê-lo nem realocá-lo em silêncio; essa disciplina de não realocação vive sob [Pilha de autoridade e hierarquia interna](../../core_05_band_integrative.md#authority-stack).
+As seções **4 a 9** formam o **registro constitucional de competências** desta Constituição. Cada bloco identifica o domínio substantivo de responsabilidade de seu capítulo (ou corpus adotado) e o que ele produz. Declarações vinculantes de competência em uma linha também aparecem na abertura de cada capítulo numerado. Outras camadas podem remeter à competência responsável, mas não podem reescrevê-la ou deslocá-la silenciosamente; essa disciplina de não deslocamento está em [Hierarquia Interna e Ordem de Autoridade](core_05_band_integrative.md#authority-stack-and-internal-hierarchy).
 
-Os Capítulos **Um a Seis** fornecem os valores, o vocabulário, a maquinaria de verificação e o Piso de Direitos que tudo o que vem depois deve respeitar — inclusive as [Cadeias práticas de processo-chave](#5-key-practical-process-pipelines) da seção 5, os capítulos de governança e de via de mudança da seção 6, e o [corpus companheiro de implementação](#7-companion-implementation-corpus) da seção 7.
+Os Capítulos **Um a Seis** fornecem os valores, o vocabulário, a maquinaria de verificação e o Piso de Direitos que tudo o que vem depois deve respeitar — inclusive as [Cadeias práticas de processo-chave](#6-key-practical-process-pipelines) da seção 5, os capítulos de governança e de via de mudança da seção 6, e o [corpus companheiro de implementação](#7-companion-implementation-corpus) da seção 7.
 
 Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 
-**Capítulo Um — Valores, princípios e administração responsável** ([Parte A](core_01_a_values_principles.md) · [Parte B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Parte C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Capítulo Um — Valores, princípios e administração responsável** ([Parte A](core_01_a_values_principles.md) · [Parte B](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Parte C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
-- **O que lhe cabe:** Enuncia os valores e as restrições-guia da Constituição — bem-estar, equidade, Segurança, Verdade, Confiança, liberdade limitada, reconhecimento e recompensa proporcional pela contribuição lícita, resolução de conflitos entre princípios, e deveres de administração responsável que incluem compreensão distribuída, avaliação sistêmica e disciplina de governança.
-- **O que produz:** O alicerce interpretativo de cada capítulo posterior — as regras que convertem os fins de alto nível em requisitos operativos quando sistemas, direitos, definições ou cadeias de processo precisam ser lidos e aplicados.
+- **O que lhe compete:** Estabelece os valores orientadores e as restrições da Constituição, incluindo:
+  - bem-estar, equidade, Segurança, Verdade, Confiança e liberdade delimitada;
+  - reconhecimento e recompensa proporcional por contribuições lícitas;
+  - resolução de conflitos entre princípios; e
+  - deveres de gestão responsável, como distribuir a compreensão, avaliar sistemas e manter disciplina de governança.
+- **O que produz:** A base interpretativa para todos os capítulos posteriores. Essas regras transformam objetivos de alto nível em requisitos operacionais ao interpretar e aplicar sistemas, direitos, definições ou fluxos de processo.
 
 **Capítulo Dois — Estrutura das definições** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
-- **O que lhe cabe:** Define como os termos constitucionais são construídos — a estrutura de componentes Ontológico/Medição/Avaliação/Conformidade (O/M/A/C), os requisitos de alinhamento e as regras de componente que mantêm as definições precisas e usáveis em todo o corpus.
-- **O que produz:** Uma gramática compartilhada para as definições, para que os capítulos posteriores não caiam em rótulos vagos, pressupostos ocultos ou formas de termo incompatíveis.
+- **O que lhe cabe:** Define como os termos constitucionais são construídos por meio de:
+  - uma estrutura de componentes Ontologia/Medição/Avaliação/Conformidade (O/M/A/C);
+  - requisitos de alinhamento; e
+  - regras para os componentes que mantêm as definições precisas e utilizáveis em todo o corpus.
+- **O que produz:** Uma gramática comum para as definições, para que os capítulos posteriores não recorram a rótulos vagos, pressupostos ocultos ou formatos de termos incompatíveis.
 
 **Capítulo Três — Integridade das definições** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
-- **O que lhe cabe:** Guarda contra evasão, deslocamento de alcance, jogos de redefinição e truques de não conformidade que esvaziariam as definições no papel enquanto as derrotam na prática.
-- **O que produz:** Disciplina antievasão e metadados de orientação de não conformidade — inclusive ganchos de roteamento rumo à trajetória e à revisão de má conduta onde a evasão fica comprovada.
+- **O que lhe cabe:** Impedir:
+  - a evasão e o deslocamento do escopo;
+  - manobras de redefinição; e
+  - artifícios de não conformidade que esvaziem as definições no papel e as frustrem na prática.
+- **O que produz:** Disciplina contra evasão e metadados de orientação sobre não conformidade, incluindo encaminhamentos para análise de status e de conduta indevida quando a evasão for comprovada.
 
 **Capítulo Quatro — Ônus, rastreabilidade e verificação** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
-- **O que lhe cabe:** Põe o ônus da prova em quem afirma a conformidade; exige evidência rastreável, observabilidade e verificação que se escalam à [**aposta material**](#material-stake) e permanecem impugnáveis na prática.
-- **O que produz:** A cadeia de verificação que alimenta os **insumos verificados** no [Capítulo Oito](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) e a evidência de alinhamento do sistema no [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — sem substituir a medição de trajetória em si.
-
+- **O que lhe cabe:**
+  - atribui o ônus da prova a quem alegar conformidade; e
+  - exige evidências rastreáveis, observabilidade e verificação proporcionais à [**relevância material**](#material-stake) e que possam ser contestadas na prática.
+- **O que produz:** O fluxo de verificação que alimenta as **entradas verificadas** do [Capítulo Onze](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) e as evidências de alinhamento do sistema do [Capítulo Nove](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Ele não substitui a própria medição de standing.
 **Capítulo Cinco — Definições fundacionais** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
 
-- **O que lhe cabe:** Fornece a pilha canônica de definições — faixas de Supervisão, Participação, Prestação de contas, Continuidade e Integrativa — mais [Pilha de autoridade e hierarquia interna](../../core_05_band_integrative.md#authority-stack), [Corpus](../../core_05_band_integrative.md#corpus) e regras de fronteira relacionadas.
-- **O que produz:** Vocabulário constitucional preciso para interpretação, auditoria e adjudicação. É a **pilha de definições**, não o Piso de Direitos; os direitos vinculantes vivem no Capítulo Seis. O roteamento de domínio de titular para o instrumento como um todo vive neste registro do Preâmbulo (seções 4–7).
+- **O que lhe cabe:** Fornece:
+  - a estrutura canônica de definições: as faixas de Supervisão, Participação, Prestação de contas, Continuidade e Integração;
+  - a [Hierarquia de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - o [Corpus](core_05_band_integrative.md#corpus); e
+  - regras de limite relacionadas.
+- **O que produz:** Vocabulário constitucional preciso para interpretação, auditoria e julgamento. É a **estrutura de definições**, não o Piso de Direitos — os Pisos de Direitos vinculantes estão no Capítulo Seis. O encaminhamento dos domínios de titularidade da Constituição como um todo está neste registro do Preâmbulo (seções 4–9).
 
-**Capítulo Seis — Direitos fundacionais** ([Parte A](../../core_06_rights_part_a.md) · [Parte B](../../core_06_rights_part_b.md) · [Parte C](../../core_06_rights_part_c.md) · [Parte D](../../core_06_rights_part_d.md))
+**Capítulo Seis — Direitos fundacionais** ([Parte A](core_06_rights_part_a.md) · [Parte B](core_06_rights_part_b.md) · [Parte C](core_06_rights_part_c.md) · [Parte D](core_06_rights_part_d.md))
 
-- **O que lhe cabe:** Enuncia o Piso de Direitos nos Artigos **I–XXVII** — o essencial da sobrevivência, alocação de recursos e administração responsável de dependências, dignidade, agência, participação, impugnação e remédio, restrições de justiça, atuação em tempo sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*), e regras de transição — organizados para uma leitura planeta-primeiro ao longo de quatro partes.
-- **O que produz:** Proteções de direitos inegociáveis e ganchos de remédio que os Capítulos Sete a Onze, os fóruns, a governança e as regras de emenda devem respeitar — não estreitar, contornar nem esvaziar por procedimento ou métricas substitutas.
+- **O que lhe cabe:** Estabelece o Piso de Direitos nos Artigos **I–XXVIII**, abrangendo:
+  - elementos essenciais à sobrevivência;
+  - alocação de recursos e gestão responsável de dependências;
+  - dignidade, agência e participação;
+  - contestação e reparação;
+  - restrições de justiça;
+  - tempestividade conforme o **Artigo XXVI-C** (*Piso de Resolução Oportuna e Antiatraso*); e
+  - regras de Transição de Adoção.
+  As quatro partes organizam essas proteções para uma leitura que prioriza o planeta.
+- **O que produz:** Proteções de direitos inegociáveis e mecanismos de reparação que os Capítulos Sete a Quinze, os fóruns, a governança e as regras de emenda devem respeitar e não podem restringir, contornar ou esvaziar por meio de procedimentos ou métricas substitutas.<a id="5-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
+### 5. System and Institutional Charters, Functional Independence, and Separation of Duties
 
-<a id="5-key-practical-process-pipelines"></a>
-### 5. Cadeias práticas de processo-chave
+*Em termos simples: um sistema ou instituição de impacto real publica uma Carta do Sistema ou Carta Institucional que declara o que pode fazer e quem ocupa cada assento. Antes que um ato materialmente vinculante avance, devem ser separados quem o inicia, quem verifica ou autoriza, quem guarda o registro oficial e quem analisa uma contestação. As funções podem ser ajustadas ao contexto, mas o mesmo agente e sua linha de controle não podem ocupar silenciosamente os assentos que verificam seu próprio ato.*
 
-*Em termos simples: os Capítulos Sete a Onze são uma só cadeia — certifique o sistema, meça ajuda e dano em duas pistas separadas, aplique efeitos reais e remédio, e evite que os fóruns sejam o único lar final de uma reclamação contra si mesmos — para que os deveres continuem reais na vida diária.*
+- **O que produz:** uma declaração publicada e versionada do escopo e da distribuição dos assentos, que o Capítulo Oito, a certificação, os registros de status e os fóruns podem usar para confrontar a conduta. O Capítulo Sete está em [`core_07.000_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters).
 
-Os Capítulos Sete a Onze se ligam em uma só cadeia prática — e, dentro do [registro positivo de titulares](#4-principles-definitions-and-rights), cada passo nomeia o que cabe àquele capítulo. Juntos convertem os deveres constitucionais em registros que os sencientes podem conferir, impugnar e reparar — para que a [**Tétrade Constitucional**](#constitutional-tetrad), os [**Dois Fins Constitucionais**](#two-constitutional-aims) e os Pisos de Direitos continuem reais na vida cotidiana, não só no papel.
+**Independência funcional e separação de funções** — antes de um ato materialmente vinculante avançar, identifique e separe os assentos de iniciação, verificação ou autorização, registro e análise de contestação, conforme as regras aplicáveis de escala e independência.
 
-Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a cadeia completa se encaixa](#51-how-the-full-chain-fits-together) então mostra esses titulares como um só caminho da conferência do sistema ao remédio.
+**Separe as funções para cada ato materialmente vinculante** ([Capítulo Oito](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): identifique quem inicia o ato, quem o verifica ou autoriza, quem mantém o registro oficial e quem ouve uma contestação. Aplique as combinações proibidas, as regras de independência e a via de substituição publicada antes de considerar que o ato foi verificado corretamente. Quando for necessária uma Carta do Sistema ou uma Carta Institucional ([Capítulo Sete](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)), o Mapa de Funções da Carta publica quem ocupa cada função.
 
-**Certificação de alinhamento do sistema** ([Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
+**Capítulo Oito — Independência funcional e separação de funções**
 
-- **O que lhe cabe:** Assegura que sistemas com impacto material permaneçam alinhados constitucionalmente.
-  - Antes que um sistema que afeta de forma material os sencientes possa ser reconhecido ou que se possa confiar nele em escala, evidência é reunida e revisada sob supervisão de fórum
-  - O alcance da revisão inclui se o sistema respeita o essencial da sobrevivência; a alocação de recursos e a administração responsável de dependências do **Artigo IV** (*Alocação de recursos, dependências e financiamento do ecossistema*) — inclusive a [contribuição transistêmica proporcional](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) onde a dependência de infraestrutura compartilhada está materialmente em questão; a segurança; a participação; e outros pisos constitucionais
-  - Os sencientes com trajetória reconhecida podem impugnar o resultado
-  - Sistemas de alto risco devem ser recertificados em calendário regular; a certificação nunca é permanente
-- **O que produz:** Um **registro de certificação de alinhamento do sistema** — uma resposta limitada e impugnável a se aquele sistema está alinhado o bastante para reconhecê-lo, continuar confiando nele, implantá-lo ou libertá-lo de condições *agora*, dentro de um alcance e uma janela de tempo enunciados.
+- **O que lhe cabe:** O requisito transversal aos processos de que cada [Ato Materialmente Vinculante](../../core_05.035_band_accountability.md#materially-binding-act) atribua separadamente quatro funções:
+  - iniciação;
+  - verificação ou autorização;
+  - custódia do registro oficial; e
+  - análise de contestações.
 
-**Medição de trajetória** ([Capítulo Oito](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model))
+Também rege:
 
-- **O que lhe cabe:** Quando a conduta importa constitucionalmente, rumores e reputações não bastam. Fatos verificados entram em **registros de trajetória**. A **contribuição** (ajuda rumo ao florescimento) e a **infração** (falhas de prestação de contas e dano) são medidas em **eixos separados** — a conduta boa verificada não apaga o dano verificado, e os dois nunca se dobram em uma só pontuação líquida.
-- **O que produz:** **Registros de trajetória** classificados no Eixo de Contribuição e no Eixo de Infração, baseados só em **insumos verificados** e em achados supervisionados por fórum — não em pontuação informal nem em narrativas de controvérsia no lugar da classificação.
+  - o conteúdo mínimo universal de cada [Registro de Ato Materialmente Vinculante](../../core_05.035_band_accountability.md#materially-binding-act-record);
+  - a independência em relação à [Linha de Controle Material](../../core_05.035_band_accountability.md#material-control-line) do agente;
+  - a atribuição publicada de funções e seus substitutos;
+  - a hospedagem combinada proporcional e os limites de emergência; e
+  - as transferências atribuíveis e o encaminhamento ao assento errado.
+- **O que produz:** uma arquitetura reutilizável de quatro assentos e de Registro do Ato. Todo processo posterior de certificação, registro de status, foro, governança ou implementação incorporada deve aplicá-la antes que seu resultado possa ser considerado verificado de forma independente, registrado com confiabilidade e efetivamente contestável.
 
-**Integração de trajetória e efeitos** ([Capítulo Nove](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration))
+#### 5.1 Four-seat separation map
 
-- **O que lhe cabe:** Integra as classificações verificadas em **efeitos de trajetória** do mundo real em pistas separadas — escalados à [**aposta material**](#material-stake), sem dobrar contribuição e infração em uma só pontuação líquida, e sem esvaziar a participação, a supervisão, a prestação de contas ou a atuação em tempo.
-  - **Pista de contribuição:** A classificação positiva verificada produz um ganho prático:
-    - [**Habilitações de competência**](../../core_11_standing_integration.md#62-competency-bars-and-clearances) que podem abrir papéis sensíveis à confiança, autoridade delegada, elegibilidade de supervisão e administração responsável de consequência progressiva quando a competência é demonstrada contra a barra de competência publicada e nenhuma [trava de trajetória](../../core_11_standing_integration.md#42-prevention--general-standing-locks) aplicável fecha a via nomeada
-    - Reconhecimento proporcional e **recompensas materiais** pela administração responsável lícita e a cooperação, como exige o [Capítulo Um](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)
-    - Não é elogio vazio. Os benefícios têm de ser reais, respaldados por evidência e abertos a impugnação
-  - **Pista de infração:** Os achados de infração verificados produzem uma perda prática:
-    - **Travas de trajetória**, limites de papel, ordens de remediação, [remédio para quem foi prejudicado](../../core_11_standing_integration.md#41-remedy-and-correction), descritores suplementares e ganchos de execução
-    - As restrições se ajustam à gravidade do que foi verificado
-    - Infrações não resolvidas permanecem vivas
-    - Permanecem disponíveis vias proporcionais para restaurar a trajetória de quem demonstra restituição autêntica
-    - Uma habilitação de competência do lado da contribuição não dispensa uma trava de trajetória do lado da infração
-- **O que produz:** Efeitos de trajetória separados e escalados nas pistas de Contribuição e de Infração — habilitações de competência e recompensas materiais de um lado; travas de trajetória, correção e remédio do outro — nenhum dobrado em uma só pontuação.
+> Este mapa mostra as quatro funções e um percurso típico de um ato e de seu Registro do Ato. Ele não acrescenta um quinto assento, não prescreve uma sequência universal e não altera as regras do Capítulo Oito sobre independência, combinação proporcional de funções, ação emergencial ou encaminhamento de contestações.
 
-**Trava de má conduta anticonstitucional** ([Capítulo Dez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct))
+```mermaid
+flowchart TB
+    I["Initiating seat<br/><br/>Requests, proposes, operates,<br/>claims, or begins the act"]
+    V["Verify-or-authorize seat<br/><br/>Checks evidence and authority;<br/>verifies, authorizes, declines, or conditions"]
+    R["Official record-custody seat<br/><br/>Enters, amends, preserves,<br/>and publishes the Act Record"]
+    C["Challenge-review seat<br/><br/>Receives and reviews challenges;<br/>corrects, limits, or routes"]
+    I -->|act or request| V
+    V -->|determination| R
+    R -->|official record supports| C
+    C -->|review outcome| R
+    style I fill:none,stroke:#64748b,color:#ffffff
+    style V fill:none,stroke:#ea580c,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style C fill:none,stroke:#9333ea,color:#ffffff
+```
 
-- **O que lhe cabe:** Trata só das infrações verificadas mais graves — conduta que pode ter capturado ou esvaziado deveres constitucionais em escala. Quando o Capítulo Oito já registrou um achado de infração de máximo impacto, e má conduta anticonstitucional é alegada de forma material, este capítulo corre a revisão de designação como uma pista-limiar do Capítulo Nove em paralelo com os efeitos ordinários de trajetória do Capítulo Nove.
-- **O que produz:** Uma designação final de má conduta anticonstitucional — ou sua rejeição — para aquele achado existente de máximo impacto, só depois de cumpridos os critérios exigidos e as salvaguardas de devido processo. O Capítulo Oito continua medindo quão grave foi o dano; só uma designação final dispara a **Trava de Confiança Anticonstitucional** do Capítulo Nove.
+<a id="6-key-practical-process-pipelines"></a>
+### 6. Cadeias práticas de processo-chave
 
-**Supervisão de fórum e roteamento** ([Capítulo Onze](core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
+*Em termos simples: os Capítulos Nove a Quinze aplicam o requisito de separação de funções do Capítulo Oito em uma cadeia: certificam sistemas e instituições, medem ajuda e dano em dois percursos separados, aplicam efeitos e reparação reais e impedem que um fórum seja o único julgador final de uma alegação contra si próprio. A cadeia mantém os deveres constitucionais reais no cotidiano.*
 
-- **O que lhe cabe:** Supervisiona como as controvérsias e os assuntos de certificação de fato se movem.
-  - [Sequência de controvérsias](core_11_forum.md#dispute-sequencing) da via de impugnação publicada da Participação Sistêmica das Partes Afetadas até o roteamento de fórum
-  - Qual família de fóruns os trata, e onde um caso ordinariamente começa
-  - Como a evidência é sustentada
-  - Como os assuntos se transferem ou se consolidam
-  - Como as regras anti-autojulgamento evitam que fóruns capturados sejam o único lar final
-  - Os prazos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*) evitam que os casos fiquem sem resolver tanto tempo que o remédio deixe de importar
-- **O que produz:** **Achados verificados** que podem abrir ou atualizar registros de trajetória, mais roteamento lícito rumo ao remédio e à [resolução oportuna](../../core_05_band_accountability.md#timely-resolution-constitutional). Os fóruns supervisionam a cadeia; não substituem a medição de trajetória do Capítulo Oito.
+O [Capítulo Sete](core_07_charters.md#chapter-seven-system-and-institutional-charters) publica o escopo chartered e o mapa de assentos de cada sistema e instituição de Classe L ou superior. O [Capítulo Oito](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) fornece o requisito de separação de funções que torna cada ato dessa cadeia validamente verificável. As funções de iniciação, verificação ou autorização, custódia do registro oficial e análise de contestações devem ser atribuídas e mantidas distintas conforme as regras aplicáveis de escala e independência. Os Capítulos Nove a Quinze aplicam essa arquitetura na seguinte sequência:
 
-<a id="51-how-the-full-chain-fits-together"></a>
-#### 5.1 Como a cadeia completa se encaixa
+Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a cadeia completa se encaixa](#62-how-the-full-chain-fits-together) então mostra esses titulares como um só caminho da conferência do sistema ao remédio.
+
+#### 6.1 Process map
+
+- **O que produz:** O fluxo de verificação que alimenta as **entradas verificadas** do [Capítulo Onze](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) e as evidências de alinhamento do sistema do [Capítulo Nove](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Ele não substitui a própria medição de standing.
+  - Regras de Transição da Adoção.
+- **O que produz:** Proteções de direitos inegociáveis e mecanismos de reparação que os Capítulos Sete a Quinze, os fóruns, a governança e as regras de emenda devem respeitar e não podem restringir, contornar ou esvaziar por meio de procedimentos ou métricas substitutas.
+*Em termos simples: um sistema ou instituição de impacto real publica uma Carta do Sistema ou Carta Institucional que declara o que pode fazer e quem ocupa cada assento. Antes que um ato materialmente vinculante avance, devem ser separados quem o inicia, quem verifica ou autoriza, quem guarda o registro oficial e quem analisa uma contestação. As funções podem ser ajustadas ao contexto, mas o mesmo agente e sua linha de controle não podem ocupar silenciosamente os assentos que verificam seu próprio ato.*
+  - como uma Carta do Sistema ou Carta Institucional é emendada e revisada para que seu escopo chartered não mude silenciosamente; e
+> Este mapa mostra as quatro funções e um percurso típico de um ato e de seu Registro do Ato. Ele não acrescenta um quinto assento, não prescreve uma sequência universal e não altera as regras do Capítulo Oito sobre independência, combinação proporcional de funções, ação emergencial ou encaminhamento de contestações.
+
+```mermaid
+flowchart TB
+    H["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
+    D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
+    S["Chapter Nine<br/><br/>System alignment certification"]
+    I["Chapter Ten<br/><br/>Institutional alignment certification"]
+    subgraph Q["Chapters Eleven and Twelve · standing records and measurement"]
+        direction LR
+        E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
+        C["Contribution record<br/><br/>and measurement"]
+        V["Violation record<br/><br/>and measurement"]
+    end
+    subgraph N["Chapter Thirteen · effects"]
+        direction LR
+        U["Recognition, rewards,<br/><br/>competency clearances"]
+        R["Standing locks,<br/><br/>correction and remedy"]
+    end
+    M["Chapter Fourteen<br/><br/>Anti-constitutional misconduct review"]
+    L["Chapter Thirteen<br/><br/>Anti-Constitutional Trust Lock"]
+    F["Chapter Fifteen forums<br/><br/>Supervision, challenge and timely review"]
+    H -.->|names who holds each seat| D
+    H -->|publishes institutional scope and seats| I
+    D -.->|separates authority at every stage| S
+    D -.->|separates authority at every stage| I
+    D -.->|separates authority at every stage| E
+    D -.->|separates authority at every stage| F
+    C --> U
+    V --> R
+    M -->|final designation only| L
+    V -->|qualifying finding<br/>and allegation| M
+    S -->|material certification evidence| E
+    I -->|material certification evidence| E
+    E -->|verified contribution| C
+    E -->|verified violation| V
+    F -.->|supervises all stages| E
+    F -.->|supervises institutional certification| I
+    style H fill:none,stroke:#2563eb,color:#ffffff
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#16a34a,color:#ffffff
+    style I fill:none,stroke:#16a34a,color:#ffffff
+    style E fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#db2777,color:#ffffff
+    style V fill:none,stroke:#db2777,color:#ffffff
+    style U fill:none,stroke:#9333ea,color:#ffffff
+    style R fill:none,stroke:#9333ea,color:#ffffff
+    style M fill:none,stroke:#db2777,color:#ffffff
+    style L fill:none,stroke:#9333ea,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+```
+
+<a id="62-how-the-full-chain-fits-together"></a>
+#### 6.2 Como a cadeia completa se encaixa
 
 *Em termos simples: pense nela como um caminho da conferência do sistema ao remédio — com os fóruns supervisionando a controvérsia e os passos de trajetória ao longo de todo o percurso.*
 
-1. **Certifique o sistema quando o impacto é sério o bastante** ([Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, obtenha um registro de alinhamento impugnável: é constitucionalmente seguro apoiar-se nele *agora*?
-2. **Meça a trajetória em pistas separadas** ([Capítulo Oito](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)) — quando a boa conduta ou o dano é sério o bastante para importar constitucionalmente, o Capítulo Oito abre autos formais, admite só **insumos verificados** (inclusive a evidência de certificação de alinhamento do sistema do Capítulo Sete quando essa evidência é material) e classifica o que foi verificado. Rumores, reputações e relatos de controvérsia não bastam.
-   - **Natureza da contribuição:** Abra um **registro de trajetória de contribuição** — um auto limitado e impugnável de ajuda verificada rumo ao florescimento — e classifique a **natureza da contribuição** no Eixo de Contribuição.
-   - **Natureza da infração:** Abra um **registro de trajetória de infração** — um auto limitado e impugnável de dano verificado e falhas de prestação de contas — e classifique a **natureza da infração** no Eixo de Infração. O bom e o dano nunca se dobram em uma só pontuação líquida; os registros vinculados se cruzam por referência mas permanecem separados.
-3. **Aplique efeitos de trajetória em cada pista** ([Capítulo Nove](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)) — a contribuição verificada pode conceder habilitação de competência e sustentar reconhecimento proporcional e recompensas materiais; a infração verificada pode disparar travas de trajetória, correção e [remédio para quem foi prejudicado](../../core_11_standing_integration.md#41-remedy-and-correction).
-4. **Revisão de designação anticonstitucional** ([Capítulo Dez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — se um achado de infração de máximo impacto também pode satisfazer critérios anticonstitucionais, o Capítulo Dez decide se a designação correspondente se anexa. A designação não muda quão grave o Capítulo Oito já achou o dano; os efeitos ordinários do Capítulo Nove continuam em paralelo até que uma designação final dispare a Trava de Confiança Anticonstitucional.
-5. **Roteie as controvérsias e mantenha o remédio em tempo** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role)) — os fóruns supervisionam como os casos se movem, qual pista os trata, e se os prazos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*) são cumpridos para que o remédio não morra no atraso. As controvérsias ordinárias seguem a [sequência de controvérsias](core_11_forum.md#dispute-sequencing). Os fóruns também classificam as controvérsias em cinco [níveis de materialidade](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) que espelham o alfabeto de classificação de sistemas — da urgência crítica para a sobrevivência até assuntos privados/contidos — e o roteamento padrão da família de Integridade se aplica quando a designação final do Capítulo Dez é a aposta primária.
+1. **Separe as funções em todo ato materialmente vinculante** ([Capítulo Oito](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): identifique quem inicia, quem verifica ou autoriza, quem guarda o registro oficial e quem aprecia uma contestação. Aplique as combinações proibidas, as regras de independência e a via substituta publicada antes de considerar o ato devidamente verificado. Quando for exigida uma Carta do Sistema ou da Instituição ([Capítulo Sete](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)), o Mapa de Funções da Carta publica quem ocupa cada função.
+2. **Certificar sistemas e instituições quando o impacto for suficientemente sério** — antes que um Sistema de alto impacto seja confiado em grande escala, obtenha um Registro de Certificação do Sistema contestável ([Partes A–B do Capítulo Nove](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); avalie uma Instituição segundo sua própria classe, conduta, governança e portfólio conforme o [Capítulo Dez](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) e registre o resultado em um Registro de Certificação Institucional.
+3. **Registrar e medir standing em percursos separados** ([Capítulo Onze](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) e [Capítulo Doze](core_12_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it)) — quando a ajuda ou o dano for suficientemente sério para importar constitucionalmente, o Capítulo Onze deve abrir autos formais e admitir apenas **entradas verificadas** (incluindo evidência de certificação de alinhamento do sistema do Capítulo Nove quando essa evidência for material); o Capítulo Doze mede e classifica o que foi verificado. Rumores, reputações e narrativas de disputas não bastam.
+   - **Natureza da violação:** Abra um **registro de standing de violação** — autos delimitados e contestáveis para danos verificados e falhas de responsabilização — e classifique a **natureza da violação** no Eixo de Violação. Ajuda e dano nunca se fundem em uma pontuação líquida; registros vinculados fazem referência cruzada, mas permanecem separados.
+4. **Aplicar efeitos de standing em cada percurso** ([Capítulo Treze](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)) — a contribuição verificada pode conceder habilitação de competência e deve sustentar reconhecimento proporcional e recompensas materiais; a violação verificada pode acionar bloqueios de standing, correção e [reparação para as pessoas prejudicadas](../../core_13.000_standing_integration.md#51-remedy-and-correction).
+5. **Realizar revisão de designação anticonstitucional** ([Capítulo Quatorze](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct)) — se uma constatação de violação de maior impacto também puder satisfazer os critérios anticonstitucionais, o Capítulo Quatorze deve decidir se a ACMD correspondente se aplica. As garantias do devido processo devem ser cumpridas. A ACMD não altera a gravidade do dano já medida pelo Capítulo Doze. Os efeitos ordinários do Capítulo Treze continuam em paralelo até que uma ACMD final acione o Bloqueio de Confiança Anticonstitucional.
+6. **Encaminhar disputas e manter a reparação tempestiva** ([Capítulo Quinze](core_11_forum.md#1-purpose-and-role--participation-architecture)) — os fóruns devem supervisionar o andamento dos casos, o percurso que os trata e o cumprimento dos prazos do **Artigo XXVI-C** (*Piso de Resolução Tempestiva e Antiatraso*), para que a reparação não pereça por demora. As disputas ordinárias seguem a [sequência de disputas](core_11_forum.md#dispute-sequencing). Os fóruns também devem classificar as disputas em cinco [faixas de materialidade](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) que espelham o alfabeto de classificação de sistemas — da urgência crítica à sobrevivência até assuntos privados/contidos. Aplica-se o encaminhamento padrão da família de integridade quando a designação final do Capítulo Quatorze for o interesse principal.
 
 O [mapa da cadeia de trajetória do README](../../README.md#standing-pipeline-and-forums) oferece navegação direta para a cadeia acima, inclusive os insumos verificados potenciais do Capítulo Sete rumo à medição de trajetória.
+<a id="7-process-ownership-and-outputs"></a>
+### 7. Titularidade e resultados dos processos
 
-<a id="6-governance-change-and-incorporation"></a>
-### 6. Governança, mudança e incorporação
+Capítulo Sete — Cartas de sistemas e instituições ([Chapter Seven](../../core_07.000_charters.md#chapter-seven-system-and-institutional-charters))
 
-*Em termos simples: os Capítulos Doze a Dezesseis fecham o instrumento: quem pode governar, como o texto pode mudar sem recortar proteções, como se relaciona com outro direito, e como os arquivos de como-fazer adotados permanecem atados a esta fonte.*
+- **O que produz:** uma declaração publicada e versionada do escopo e da distribuição dos assentos, que o Capítulo Oito, a certificação, os registros de status e os fóruns podem usar para confrontar a conduta. O Capítulo Sete está em [`core_07.000_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters).
 
-Os Capítulos **Doze a Dezesseis** fecham o instrumento — e completam o [registro positivo de titulares](#4-principles-definitions-and-rights) para governança, validade da mudança e incorporação: quem pode governar com legitimidade, como a Constituição pode mudar de forma lícita, e como o texto de implementação adotado permanece atado à fonte constitucional sem desalinhamento silencioso.
+<a id="8-governance-change-and-incorporation"></a>
+### 8. Governança, mudança e incorporação
+
+*Em termos simples: os Capítulos Dezesseis a Vinte concluem esta Constituição: quem pode governar, como o texto pode mudar sem reverter proteções, como ele se relaciona com outras leis e como arquivos de orientação adotados permanecem vinculados a esta fonte.*
+
+Os Capítulos **Quinze a Dezenove** concluem esta Constituição. Juntos, completam o [registro de titularidade constitucional](#4-principles-definitions-and-rights) para governança, validade de mudanças e incorporação: quem pode governar legitimamente, como a Constituição pode ser alterada legalmente e como o texto de implementação adotado permanece vinculado à fonte constitucional sem desvio silencioso.
 
 Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 
-**Capítulo Doze — Contrato constitucional, legitimidade e administração responsável** ([`core_12_governance.md`](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship))
+**Capítulo Vinte — Contrato constitucional, legitimidade e gestão responsável** ([`core_16.000_governance.md`](../../core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship))
 
-- **O que lhe cabe:** Tem a seu cargo a [**Camada do Contrato Constitucional**](../../core_05_band_integrative.md#constitutional-contract-layer) — quem pode governar, por qual mecanismo de legitimidade, sob qual alcance e termos duráveis, e com qual caráter de administração responsável deve ser mantido.
-- **O que produz:** Requisitos de autorização e legitimidade distintos da [**Participação Sistêmica das Partes Afetadas**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) em sistemas já autorizados — as regras da autoridade de governo em si, não só a participação dentro dela.
+- **O que lhe cabe:** Tem a seu cargo a [**Camada do Contrato Constitucional**](core_05_band_integrative.md#constitutional-contract-layer) — quem pode governar, por qual mecanismo de legitimidade, sob qual alcance e termos duráveis, e com qual caráter de administração responsável deve ser mantido.
+- **O que produz:** Requisitos de autorização e legitimidade distintos da [**Participação Sistêmica das Partes Afetadas**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) em sistemas já autorizados — as regras da autoridade de governo em si, não só a participação dentro dela.
 
-**Capítulo Treze — Não regressão** ([`core_13_non_regression.md`](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity))
+**Capítulo Dezessete — Não regressão** ([`core_17.000_non_regression.md`](../../core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity))
 
 - **O que lhe cabe:** Fixa o piso substantivo contra a mudança regressiva — emendas e atalhos não podem recortar as proteções centrais, esvaziar a Tétrade abaixo da aposta material, nem disfarçar a regressão como limpeza técnica.
 - **O que produz:** A **primeira trava constitucional** sobre qualquer mudança proposta — a regra de não regressão: se a mudança enfraqueceria na prática as proteções centrais, não é válida, ainda que o procedimento pareça correto. Atalhos suspeitos ou recortes disfarçados são detidos ou enviados às vias de revisão próprias em vez de se colarem em silêncio.
 
-**Capítulo Quatorze — Supremacia e ordens externas** ([`core_13_non_regression.md`](../../core_16_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders))
+**Capítulo Dezoito — Supremacia e ordens externas** ([`core_18.000_expansion_supremacy.md`](../../core_18.000_expansion_supremacy.md#chapter-eighteen-expansion-supremacy-and-external-legal-orders))
 
-- **O que lhe cabe:** Enuncia como esta Constituição se relaciona com outras normas — expansão da proteção onde é lícita, supremacia dentro de seu alcance, não deslocamento por força própria do direito externo aplicável, e interação disciplinada com ordens jurídicas externas sem subordinação silenciosa nem captura.
+- **O que rege:** Como esta Constituição se relaciona com outras normas: ampliação da proteção quando legal, supremacia dentro do escopo válido da fonte, da adoção e da camada de governança, não deslocamento da lei externa aplicável por sua própria força e interação disciplinada com ordens jurídicas externas sem subordinação silenciosa ou captura.
 - **O que produz:** Regras de hierarquia e de ordem de conflito para que a publicação ou o uso não sejam tratados como revogação do direito externo aplicável, e para que quem adota não trate o procedimento incorporado, normas externas mais fracas ou métricas de conveniência como se anulassem o significado da Constituição Senciente dentro do alcance válido de adoção.
+**Capítulo Dezenove — Emenda, ratificação e adoção** ([`core_19.000_amendment_ratification.md`](../../core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity))
 
-**Capítulo Quinze — Emenda, ratificação e adoção** ([`core_13_non_regression.md`](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity))
-
-- **O que lhe cabe:** Governa como o instrumento pode mudar de forma lícita — procedimento de emenda, ratificação, adoção e as **travas procedimentais** que seguem a substantiva do Capítulo Treze: as mudanças devem ser publicadas de forma aberta, rastreáveis a uma custódia autoritativa e permanecer impugnáveis de forma significativa, com revisão independente onde se exige.
+- **O que rege:** Como esta Constituição pode ser alterada legalmente — procedimento de emenda, ratificação e adoção — e as **salvaguardas processuais** que seguem as salvaguardas substantivas do Capítulo Dezessete: as mudanças devem ser publicadas abertamente, rastreáveis até a custódia autorizada e permanecer significativamente contestáveis, com revisão independente quando exigida.
 - **O que produz:** Uma via de mudança lícita completa — só as emendas e as adoções que superam a **trava de não regressão** e as **travas procedimentais** contam como atualizações constitucionais válidas.
-
-**Capítulo Dezesseis — Ponte de incorporação** ([`core_16_incorporation.md`](../../core_18_incorporation.md))
+**Capítulo Vinte — Ponte de incorporação** ([`core_20.000_incorporation.md`](../../core_20.000_incorporation.md))
 
 - **O que lhe cabe:** Identifica quais arquivos de implementação contam como texto incorporado vinculante quando adotados; fixa edições; mantém cadeias de custódia; e proíbe o desalinhamento silencioso entre a fonte constitucional e o detalhe operacional.
-- **O que produz:** Uma só fronteira de incorporação — o texto de implementação designado vincula quando adotado; os corpora companheiros implementam a Constituição sem se tornarem uma segunda fonte que a estreite. A [seção 7](#7-companion-implementation-corpus) resume esses corpora em alto nível.
-
-<a id="7-companion-implementation-corpus"></a>
-### 7. Corpus companheiro de implementação
+- **O que produz:** Uma só fronteira de incorporação — o texto de implementação designado vincula quando adotado; os corpora companheiros implementam a Constituição sem se tornarem uma segunda fonte que a estreite. A [seção 7](#9-adopted-implementation-corpus) resume esses corpora em alto nível.
+<a id="9-adopted-implementation-corpus"></a>
+### 9. Corpus de implementação adotado
 
 *Em termos simples: quatro corpora companheiros (estrutura conjunta, sistemas, instituições e operações de fórum) detalham como cumprir o que os capítulos já exigem; vinculam quando adotados validamente, e não podem encolher esses deveres.*
 
@@ -314,14 +400,13 @@ Além dos capítulos numerados `core_*`, quatro corpora companheiros completam o
 - **[corpus_institutions](../../corpus_institutions.md)** — formação institucional, governança, supervisão, proporcionalidade e disciplina de dissolução.
 - **[corpus_forum](../../corpus_forum.md)** — operações de fórum: formação de painéis, suspeição, faixas de revisão, detalhe de roteamento e apoio forense.
 
-Quando quem adota os incorpora validamente sob o [Capítulo Dezesseis](../../core_18_incorporation.md), esses arquivos vinculam como texto de implementação dentro do alcance de adoção. O significado da Constituição Senciente continua controlando — eles **implementam, não estreitam**, os capítulos acima. A fixação de edição, as cadeias de custódia e a regra de não desalinhamento silencioso mantêm o texto adotado rastreável ao que de fato foi ratificado. A lista canônica e as regras de fronteira vivem em [Capítulo Cinco — Corpus](../../core_05_band_integrative.md#corpus).
+Quando um adotante os incorpora validamente segundo o [Capítulo Vinte](../../core_20.000_incorporation.md), esses arquivos vinculam como texto de implementação dentro do escopo da adoção. O sentido da Constituição dos Seres Sencientes continua prevalecendo — eles **implementam, não restringem**, os capítulos acima. Fixação da edição, cadeias de custódia e a regra contra desvio silencioso mantêm o texto adotado rastreável até o que foi efetivamente ratificado. A lista canônica e as regras de limites estão no [Capítulo Cinco — Corpus](../../core_05.045_band_integrative.md#corpus).
 
 Os princípios, as definições, os direitos, as cadeias de processo, a governança, as regras de emenda e a implementação incorporada devem ser lidos juntos para preservar o propósito protetor da Constituição.
-
 ---
 
 **Arquivo anterior:** [README.md](README.md)
 
 **Próximo arquivo (neste idioma):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**Original vinculante:** [core_00_preamble.md](../../core_00_preamble.md)
+**Original vinculante:** [core_00_preamble.md](core_00_preamble.md)

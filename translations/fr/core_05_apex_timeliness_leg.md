@@ -83,8 +83,8 @@ Les définitions feuille sous cette jambe héritent de sa portée à moins qu’
 
 **Feuilles de la famille de mesure Action en temps** — paliers de mesure opératoires :
 
-- [Résolution en temps](../../core_05.035_band_accountability.md#timely-resolution)
-- [Capture des voies de résolution](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- **Hors de portée :** détails de définition de feuille, couches de mesure et mécanismes de mise en œuvre appartenant à [Timely Resolution] (../../core_05.035_band_accountability.md#timely-resolution), aux feuilles sœurs et à CJS.
+- [Capture des voies de résolution](../../core_05.040_band_continuity.md#capture-of-resolution-pathways) ;
 
 **Transversal.** L’action en temps parcourt la participation, la supervision et la reddition de comptes ; ces jambes doivent se produire à temps pour être utiles.
 

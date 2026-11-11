@@ -126,7 +126,7 @@
 - 상류: 원칙: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — [실질 이해관계](core_00_preamble.md#material-stake)에 맞춘 세기 조절.
 - 무리 구성 요소: [*실질 영향, 실질성 인정, 분류에 맞춰 세기 조절된 거버넌스, 감독, 능력 요건*](core_05_band_oversight.md#materiality-semi-independent).
 - 함께 읽기: [의존](../../core_05.040_band_continuity.md#dependency), [실질 영향](core_05_band_oversight.md#실질-영향), [위험](../../core_05.040_band_continuity.md#risk), [체계 경계 완전성](../../core_05.040_band_continuity.md#system-boundary-integrity), 그리고 [감독](core_05_apex_oversight_leg.md#oversight-constitutional).
-- 하류: [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — 분류에 맞춰 세기 조절된 전체 체계 평가 의무.
+- 다운스트림: [제9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)(9.000 §3) ~ [§5 권한 층 및 도메인 평가](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) — 클래스 규모 전체 시스템 평가 의무.
 
 </details>
 
@@ -148,7 +148,7 @@
 - **어떻게 측정하고 평가하는가**
   - **일차 측정:** [감독 측정 가족](core_05_apex_oversight_leg.md#oversight-measurement-family) — *감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가?* 여기서는 감독 깊이와 확인 부담이 체계의 실제 이해관계, 영향, 의존, 위험에 맞는지 묻는다 — 스스로 붙인 낮은 등급이 아니다.
 
-    **일차 평가:** 구현 규칙 아래 실제 등급을 쓰라. [실질성 인정](core_05_band_oversight.md#실질성-인정)과 [체계 경계 완전성](../../core_05.040_band_continuity.md#system-boundary-integrity)과 함께 읽으라. 체계의 온전한 효과가 더 강한 [감독](core_05_apex_oversight_leg.md#oversight-constitutional)이나 거버넌스를 요구할 때, 스스로 붙이거나 비공식인 낮은 등급은 충분하지 않다. [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) 아래 전체 체계 검토는 등급에 따라 세기 조절된다:
+**1차 평가:** 구현 규칙에 따라 실제 클래스를 사용하고 [중요성](../../core_05.050_band_oversight.md#materiality) 및 [시스템 경계 무결성](../../core_05.040_band_continuity.md#system-boundary-integrity)을 읽어보세요. 시스템의 전체 효과가 더 강력한 [감독](core_05_apex_oversight_leg.md#oversight-constitutional) 또는 거버넌스를 요구할 때 자체 할당 또는 비공식 낮은 클래스만으로는 충분하지 않습니다. [제9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§4 관련 평가](../../core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) 및 [§5 권한 층 및 도메인 평가](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)에 따른 전체 시스템 검토는 클래스별로 확장됩니다.
     - **Class A**, **Class B**, **Class C** — 온전한 깊이, 의무;
     - **Class L** — 의무이되, 영향에 맞춰 크기 조절; 그리고
     - **Class P** — 체계가 유효하게 **Class P**인 동안 권장.
@@ -247,7 +247,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 통합 실질성 ([실질성 인정](core_05_band_oversight.md#실질성-인정)) (*헌법 측정으로서의 실질성*); 원칙: [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**실질성** DEC 스택; 평가 완전성); [10.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (실질 효과와 함께 읽는 비례 스택).
+- [제9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)(9.000 §3) ~
 - 함께 읽기: [실질 영향](core_05_band_oversight.md#실질-영향), [실질 위험](core_05_band_oversight.md#실질-위험), [체계 실질성](../../core_05.035_band_accountability.md), 그리고 [분류에 맞춰 세기 조절된 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스).
 
 </details>
@@ -383,7 +383,7 @@
 - **보관:** *운영 주체는 다른 사람들에게 중요한 것을 보관하며, 그들은 안전한 보관을 운영 주체에 의존하는가?*
   - **중요한 경우:** 운영 주체가 자체 활동을 위해 구성원들이 낸 기여분을 넘어 다른 감지자들의 자금, 자산, 자격 증명, 열쇠, 기록 또는 데이터를 보유하고, 다른 사람들이 그 안전성·정확성·이용 가능성을 운영 주체에 의존하는 경우; [상시 기록](../../core_05.035_band_accountability.md#standing-record)을 보관하거나 포럼, 인증 기관 또는 기록 사무소로 기능하는 경우. 비구성원의 개인 정보나 민감 정보도 포함한다.
   - **중요하지 않은 경우:** 집단 자체의 준비물을 사는 구성원 공동 기금, 그리고 구성원들이 알고 있는 집단 공지용 연락처 목록.
-  - **소관:** **제II-E조** (*데이터 처리와 네트워크 의존*), **제IX조** (*초상, 경험 데이터 및 공표권*), **제XVI조** (*감사, 투명성 및 독립 검증*), [제10장 §3.7 기록 보관과 열람 권한](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority).
+  - **소관:** **제II-E조** (*데이터 처리와 네트워크 의존*), **제IX조** (*초상, 경험 데이터 및 공표권*), **제XVI조** (*감사, 투명성 및 독립 검증*), [제10장 §3.7 기록 보관과 열람 권한](core_11_standing_assessment.md#5-record-custody-and-opening-authority).
 <a id="domain-specific-materiality-information"></a>
 - **정보와 진실:** *다른 사람들은 안전, 돈, 건강, 권리 또는 지위에 관한 결정을 내릴 때 이 운영 주체의 말을 사실로 믿고 의존하는가?*
   - **중요한 경우:** 운영 주체가 말하거나 공표하거나 평가하거나 인증한 내용을, 정보원을 아는 사람들의 범위를 넘어선 다른 사람들이 그러한 결정을 위해 사실로 의존할 것이 예견되는 경우; 또는 다른 사람들이 정보를 찾거나 판단하는 데 사용하는 [정보권](../../core_05.055_band_participation.md#info-sphere) 기반 시설(플랫폼, 색인 또는 평점 체계 등)을 운영하는 경우.
@@ -405,7 +405,7 @@
   - **지역 회복을 돕는 활동:** 식재, 서식지·하천 복구, 외래종 제거, 토양 재건, 정화 등 생태계를 적극 복원하는 활동은 훼손이 아니며, 이 질문만으로 운영 주체를 중요하다고 보지 않는다. 생태계가 감당할 수 있는 범위 안에서 수행하면 통상적인 공동체 활동이다. 다음 경우에만 중요하다.
     - 복원 자체가 위 세 판정 중 하나를 충족한다 (예: 퍼져 나가는 도입종, 하류 지역에 피해를 주는 물 흐름의 변화); 또는
     - 다른 영역의 기준선을 넘는다 (예: 다른 사람들이 의존하는 토지나 자금을 보유하거나, 다른 사람들이 의존하는 회복 성과를 공표함).
-  - **기여로서의 회복 작업:** 회복 작업은 [제10장 §4.3 기여 경로 설명자 목록과 측정 역할](../../core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles)에 따라 생태계 관리 책무로 인정된다. 각 구성원은 시스템 헌장이나 제도 헌장 없이 개인 청구인으로 그 기록을 요청할 수 있다 ([제10장 §3.7 기록 보관과 열람 권한](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)).
+  - **기여로서의 회복 작업:** 회복 작업은 [제10장 §4.3 기여 경로 설명자 목록과 측정 역할](../../core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles)에 따라 생태계 관리 책무로 인정된다. 각 구성원은 시스템 헌장이나 제도 헌장 없이 개인 청구인으로 그 기록을 요청할 수 있다 ([제10장 §3.7 기록 보관과 열람 권한](core_11_standing_assessment.md#5-record-custody-and-opening-authority)).
   - **소관:** **제I-A조** (*환경적 전제조건과 생태계 온전성*) 및 **제I-D조** (*존재론적 위험과 생태계 회복 능력*).
 <a id="domain-specific-materiality-systemic"></a>
 - **시스템적·비가역적 영향:** *활동이 단독으로 또는 다른 활동과 함께 권력을 집중하고, 공유 대상을 장악하고, 실패를 확산시키거나 되돌릴 수 없는 상태를 고착시킬 수 있는가?*
@@ -417,7 +417,7 @@
   - **관련 운영 주체를 함께 계산한다:** 실제로 하나의 운영인 운영 주체들의 활동은 합산한다. 같은 감지자, 사무실 또는 운영 주체가 각 주체의 활동(무엇을 누구에게 어떤 조건으로 제공하는지, 또는 계속할지)을 지시하거나 뒤집을 수 있거나, 같은 활동을 하나의 서비스의 일부로 수행하면 하나의 운영이다. 이는 운영 주체의 활동에 적용하는 별도의 실질적 공동 통제 기준이며, 한 행위 안에서 의석의 독립성을 판단하는 기준과 다르다. 자금 제공만, 시설이나 공급업체 공유, 구성원 중복, 공동 전문직 실무에서 같은 호스트의 도구를 채택하는 것(**CI-4.7**)만으로는 합산하지 않는다. 자금 제공자는 그 자금이 활동을 지시하거나 뒤집을 권한을 줄 때에만 운영에 포함한다.
   - **압박받는 공동 시스템:** 여러 운영 주체가 이미 압박받는 같은 강, 시장 또는 네트워크에 부담을 더하면, 각 주체를 따로 보지 말고 전체 부담에 대한 한계 기여분으로 평가한다. 의미 있는 기여는 실질적이다. 사소한 기여는 시스템 전체가 기준을 넘어도 실질적이지 않다.
 <a id="domain-specific-materiality-c"></a>
-- **이의제기 경로:** 기존 절차를 사용하며 새 기관, 포럼, 수수료를 만들지 않는다. System은 [§7.4 System Classification Record에 대한 이의제기](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability), Institution은 [제9장 D부 §14.2](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)와 [§14.4](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)를 따른다. 이의제기는 특정 영역에서 구체적으로 선을 넘은 사실을 지목해야 하며 운영 주체는 서면 근거로 답한다.
+- **이의제기 경로:** 기존 절차를 사용하며 새 기관, 포럼, 수수료를 만들지 않는다. System은 [§7.4 System Classification Record에 대한 이의제기](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability), Institution은 [제9장 D부 §14.2](core_10.000_institutional_alignment_certification.md#92-reopening-triggers)와 [§14.4](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)를 따른다. 이의제기는 특정 영역에서 구체적으로 선을 넘은 사실을 지목해야 하며 운영 주체는 서면 근거로 답한다.
   - 먼저 운영 주체의 공개된 경로가 [제XXVI-C조](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)의 기한 안에 답한다. 답이 없거나 해결되지 않으면 포럼에 가며, 지연이 권리·증거·독립성을 위태롭게 하면 곧바로 포럼에 갈 수 있다.
   - 구체적 초과를 지목하지 않은 이의제기는 보완을 위해 돌려보낸다. 이는 본안 판단이 아니며 신청인의 시한을 소진하지 않고 다시 제출할 수 있다. 포럼에서는 통상 접수 등급으로 배정하고 접수 단계에서 거부하지 않는다.
   - 같은 운영 주체, 또는 하나의 운영으로 계산되는 운영 주체들에 대한 동일한 초과 사유의 이의제기는 함께 심리한다.
@@ -435,7 +435,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 헌법적 틀: [헌법 테트라드](../../core_00.000_preamble.md#constitutional-tetrad), [두 가지 헌법적 목표](../../core_00.000_preamble.md#two-constitutional-aims), [중대한 이해관계](../../core_00.000_preamble.md#material-stake).
-- 후속 항목: [영역별 중요성](core_05_band_oversight.md#영역별-중요성), [제7장 §3 시스템 헌장과 기관 헌장이 필요한 경우](core_07_charters.md#1-when-system-and-institutional-charters-are-required), **CS-3**, [헌장 당사자](../../core_05.040_band_continuity.md#chartered-party).
+- 다운스트림: [도메인별 중요성](#domain-specific-materiality) (*9개의 질문은 운영 주체*에 배치됩니다); [7장 §1 시스템 및 기관 헌장이 필요한 경우](core_07_charters.md#1-when-system-and-institutional-charters-are-required) (7.000 §1) (*운영 주체가 시스템 헌장 또는 기관 헌장를 게시해야 하는지 여부*); **CS-9.305(*시스템 분류 기계*) 및 CS-9.310**(*시스템 영향 분류*)(*해당 클래스*); [헌장 당사자](../../core_05.040_band_continuity.md#chartered-party) (*시스템 헌장 또는 기관 헌장를 게시한 운영 주체 또는 필수*).
 - 운영 주체는 시스템, 기관 또는 더 작은 집단인지 확인하기 전에 영역별 중요성의 아홉 질문을 적용하는 대상이다. 모든 헌장 당사자는 운영 주체가지만, 헌장을 발행하지 않은 P등급 운영 주체는 헌장 당사자가 아니다. 이 명칭은 의무, 등급 또는 진입 장벽을 추가하지 않는다.
 
 </details>
@@ -459,7 +459,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (평가에서 합산과 경계 완전성); [§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (실질성을 조작할 수 있는 지표/현실 간극).
+- 다운스트림: 원칙: [9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)(9.000 §3) ~ [§5 권한 층 및 도메인 평가](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)(평가의 집계 및 경계 무결성); [제1장 §13.2.4 프록시 발산 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (중요성을 조작할 수 있는 측정법/현실 격차).
 - 함께 읽기: [실질성 인정](core_05_band_oversight.md#실질성-인정), [체계 경계](../../core_05.040_band_continuity.md#system-boundaries), [체계 경계 완전성](../../core_05.040_band_continuity.md#system-boundary-integrity), [체계 실질성](../../core_05.035_band_accountability.md), [감사 가능성](core_05_band_oversight.md#감사-가능성), 그리고 [책무](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -544,7 +544,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 통합 실질성 ([실질성 인정](core_05_band_oversight.md#실질성-인정)) (*헌법 측정으로서의 실질성*); 원칙: [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (꼬리 위험, 존재 위험 자세); [8.1.1 비례](core_01_b_interaction_interpretation.md#1313-proportionality) (**위험**, **되돌릴 수 없는 해**, **존재 위험** 지수).
+- [9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)(9.000 §3) ~
 - 함께 읽기: [해](../../core_05.035_band_accountability.md#harm), [되돌릴 수 없는 해](../../core_05.035_band_accountability.md#irreversible-harm), [위험](../../core_05.040_band_continuity.md#risk), [안전(제약)](../../core_05.040_band_continuity.md#safety-constraint), 그리고 [분류에 맞춰 세기 조절된 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스).
 
 </details>
@@ -590,7 +590,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [8.1.1 비례](core_01_b_interaction_interpretation.md#1313-proportionality) (불확실성 아래 가역성); [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (빠진 해에 대한 예방).
+- 다운스트림: 원칙: [13.1.3 비례성](core_01_b_interaction_interpretation.md#1313-proportionality)(불확실성 하에서 가역성); [제9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) ~ [§5 권리층 및 도메인 평가](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)(누락 피해에 대한 예방조치).
 - 함께 읽기: [실질 영향](core_05_band_oversight.md#실질-영향), [실질 위험](core_05_band_oversight.md#실질-위험), [되돌릴 수 없는 해](../../core_05.035_band_accountability.md#irreversible-harm), [안전(제약)](../../core_05.040_band_continuity.md#safety-constraint), 그리고 [분류에 맞춰 세기 조절된 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스).
 
 </details>
@@ -630,7 +630,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 감독 측정 가족 (*헌법 측정으로서의 진실과 인식 완전성*); 책무 측정 가족 (*헌법 측정으로서의 유인 정합과 대리지표 완전성*); 원칙: [§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- [책임 있는 관리 규율에 따른 제1장 §18 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)(1.010 §18).
 - 무리 구성 요소: [의존 무리 *실질 영향, 실질성 인정, 분류에 맞춰 세기 조절된 거버넌스, 감독, 능력 요건*](core_05_band_oversight.md#materiality-semi-independent).
 - 함께 읽기: [실질성 인정](core_05_band_oversight.md#실질성-인정), [실질성 완전성 제약](core_05_band_oversight.md#실질성-완전성-제약), [체계 경계 완전성](../../core_05.040_band_continuity.md#system-boundary-integrity), [유인 정합](core_05_band_integrative.md#유인-정합), [감사 가능성](core_05_band_oversight.md#감사-가능성), 그리고 [진실(헌법 제약)](core_05_band_oversight.md#진실헌법-제약).
 
@@ -701,7 +701,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. 협상 불가 제약: 안전과 진실](core_01_a_values_principles.md) (**안전** / **진실** 저하 경로).
+- 다운스트림: 원칙: [제9장 §3 전체 시스템 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)(9.000 §3) ~ [§5 권한 층 및 도메인 평가](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [2.1. 협상 불가능한 제약: 안전과 진실](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**안전** / **진실** 저하 경로).
 - 함께 읽기: [실질성 인정](core_05_band_oversight.md#실질성-인정), [체계 실질성](../../core_05.035_band_accountability.md), [위험](../../core_05.040_band_continuity.md#risk), [안전(제약)](../../core_05.040_band_continuity.md#safety-constraint), [인식 완전성](core_05_band_oversight.md#인식-완전성), 그리고 [의미 있는 행위주체성](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
@@ -803,7 +803,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 무리 구성 요소: [Def.O1 *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 하류: 원칙: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리; [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md), [10.2.1 인식 완전성 보존](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- 다운스트림: 원칙: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리; [제1장 §16 책임 있는 관리 심층](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)(1.010 §16), [13.2.1 인식적 무결성 보존](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
 - 함께 읽기: [인식 완전성](core_05_band_oversight.md#인식-완전성), [진실(헌법 제약)](core_05_band_oversight.md#진실헌법-제약), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [감사 가능성](core_05_band_oversight.md#감사-가능성), [공개 감독 기준선 공개](core_05_band_oversight.md#공개-감독-기준선-공개), [위험 공개](core_05_band_oversight.md#위험-공개), [확인 가능성](core_05_band_oversight.md#확인-가능성), 그리고 **[corpus_systems.md](../../corpus_systems.md), CS-2 — 정보 유형과 취급** (**Type O** — 열린 공개 감독 기준선 공개 데이터).
 
 </details>
@@ -943,7 +943,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 무리 구성 요소: [Def.O1 *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 하류: 감독 측정 가족 (*헌법 측정으로서의 공개와 보증*); 원칙: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리; [4.1 안전](core_01_a_values_principles.md#4-safety-harm-constraint); [제7장 §3.1 체계 범위와 위험 요인](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC 평가·공개 다리*); [제7장 B부분 §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*체계 인증 기록 위의 소견 — 따로 이름 붙은 위험 공개 기록이 아님*).
+- 하류: 감독 측정 가족 (*헌법 측정으로서의 공개와 보증*); 원칙: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리; [4.1 안전](core_01_a_values_principles.md#4-safety-harm-constraint); [제7장 §3.1 체계 범위와 위험 요인](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) (*SAC 평가·공개 다리*); [제7장 B부분 §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*체계 인증 기록 위의 소견 — 따로 이름 붙은 위험 공개 기록이 아님*).
 - 함께 읽기: [위험 평가](../../core_05.040_band_continuity.md#risk-evaluation), [위험](../../core_05.040_band_continuity.md#risk), [투명](core_05_band_oversight.md#투명), [공개 감독 기준선 공개](core_05_band_oversight.md#공개-감독-기준선-공개), [안전(제약)](../../core_05.040_band_continuity.md#safety-constraint), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [인식 완전성](core_05_band_oversight.md#인식-완전성), 그리고 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
@@ -955,7 +955,7 @@
 - **그것이 무엇인가**
   - **범위 안:** 평가된 체계 [위험](../../core_05.040_band_continuity.md#risk)을 그것이 필요한 이에게 알려, 이해하고, 다투고, 행동할 수 있게 함.
     - **계속되는 의무:** 의무는 인증 주기에 한정되지 않는다 — [투명](core_05_band_oversight.md#투명)이나 [안전(제약)](../../core_05.040_band_continuity.md#safety-constraint)이 평가된 위험이 그것이 필요한 감지자에게 닿기를 요구하는 곳마다 적용된다.
-    - **SAC 확인:** [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)이 돌아가고 체계 위험이 범위에 있는 곳, 이 공개는 [제7장 §3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) 아래 인증이 확인해야 하는 것의 일부다; 소견은 따로 이름 붙은 위험 공개 기록이 아니라 [체계 인증 기록](../../core_05.040_band_continuity.md#system-certification-record-constitutional) 위에 산다.
+    - **SAC 확인:** [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)이 돌아가고 체계 위험이 범위에 있는 곳, 이 공개는 [제7장 §3.1](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) 아래 인증이 확인해야 하는 것의 일부다; 소견은 따로 이름 붙은 위험 공개 기록이 아니라 [체계 인증 기록](../../core_05.040_band_continuity.md#system-certification-record-constitutional) 위에 산다.
   - **범위 밖:**
     - [위험 평가](../../core_05.040_band_continuity.md#risk-evaluation) 자체 — 체계 위험을 평가할 의무;
     - 더 넓은 공개 기준선 바닥으로서의 [공개 감독 기준선 공개](core_05_band_oversight.md#공개-감독-기준선-공개); 또는
@@ -988,7 +988,7 @@
 - 무리 구성 요소: [Def.O1 *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리; [책무](core_05_apex_accountability_leg.md#accountability), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [인식 완전성](core_05_band_oversight.md#인식-완전성), [투명](core_05_band_oversight.md#투명), [확인 가능성](core_05_band_oversight.md#확인-가능성), [증거 보존](core_05_band_oversight.md#증거-보존), 그리고 [평가 완전성 제약](core_05_band_oversight.md#평가-완전성-제약).
 - 함께 읽기: **제 XV조** (*감사, 투명, 독립 확인*); [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [core_02_definition_structure.md](core_02_definition_structure.md) 제2장부터 제4장의 주관 층 기계.
-- 책임 있는 관리 문 (비운영): 이 정의는 감사 스택의 속성 층이다. 구속력 있는 다음 단계 진술: [운영 책임 있는 관리 진술 (제 XV조)](core_06_rights_part_c.md). 세 층 그림: [제 XV조](../../core_06.010_rights_part_c.md#audit-three-layers).
+- 청지기 문(비작동): 다음 단계 카드: [감사](../../implementation/STEWARD_ENTRY_DOORS.md#audit). 이 정의는 감사 스택의 속성 계층입니다. 3계층 그림: [제XVI조](core_06_rights_part_c.md#audit-three-layers)(*감사, 투명성 및 독립적 검증*).
 
 </details>
 
@@ -1067,7 +1067,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [4. 협상 불가 제약: 안전과 진실](core_01_a_values_principles.md), [6. 과정 충돌 해결](core_05_apex_oversight_leg.md), 그리고 [10.2.1 인식 완전성 보존](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), 실질로 관련된 증거가 진실, 안전, 검토, 교정을 위해 가용한 채로 남아야 하는 곳.
+- 다운스트림: 원칙: [2.1. 협상 불가능한 제약: 안전과 진실](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth), [13. 헌법 충돌 해결 프로세스](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) 및 [13.2.1 인식적 무결성 보존](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), 여기서 중요한 관련 증거는 진실, 안전, 검토 및 수정을 위해 계속 사용할 수 있어야 합니다.
 - 무리 구성 요소: [Def.O1 *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - 함께 읽기: [감사 가능성](core_05_band_oversight.md#감사-가능성), [확인 가능성](core_05_band_oversight.md#확인-가능성), [투명](core_05_band_oversight.md#투명), [책무](core_05_apex_accountability_leg.md#accountability), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [절차 공정](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [보호 신고(내부고발)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), 그리고 [구제와 시정](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional).
 
@@ -1135,7 +1135,7 @@
     - 적대 경로.
   - **계속되는 의무:** 제약은 운영자, 책임 있는 관리자, 또는 검토자가 평가나 보증 일로 헌법 준수, 준비, 또는 안전한 의존을 주장하는 곳마다 적용된다 — 인증 주기 동안만이 아니다.
   - **범위 증서와 범위 과정:** 체계, 제도, 사업, 또는 견줄 수 있는 책임 있는 관리 형태에 주관하는 [범위 증서](../../core_05.040_band_continuity.md) (또는 동등한 공개 범위 기구)가 있는 곳, 평가는 증서된 목적과 범위 안/밖 한계를, 관찰된 [체계 경계](../../core_05.040_band_continuity.md#system-boundaries)와 그 범위 안과 가장자리의 그럴듯한 경로에 대해 시험해야 한다. 범위 증서 텍스트가 평가해야 할 경로를 줄이지 않는다.
-  - **SAC 확인:** [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)이 돌아가는 곳, 이 제약은 [제7장 §3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) 아래 인증이 확인해야 하는 것의 일부다 — [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) 아래 증서된 범위 대 기능 경계 점검과, [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) 아래 등급에 맞춰 세기 조절된 시험 / 회귀 덮임을 포함. 소견은 [체계 인증 기록](../../core_05.040_band_continuity.md#system-certification-record-constitutional) 위에 산다.
+  - **SAC 확인:** [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)이 돌아가는 곳, 이 제약은 [제7장 §3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) 아래 인증이 확인해야 하는 것의 일부다 — [§3.1](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) 아래 증서된 범위 대 기능 경계 점검과, [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) 아래 등급에 맞춰 세기 조절된 시험 / 회귀 덮임을 포함. 소견은 [체계 인증 기록](../../core_05.040_band_continuity.md#system-certification-record-constitutional) 위에 산다.
   - **범위 밖:**
     - 범위 기구로서의 [범위 증서](../../core_05.040_band_continuity.md) 텍스트만 — 범위 증서는 의도된 범위를 말한다; 그 자체가 평가 덮임이 아니다;
     - 그 자체로서의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) 과정 기계 — 인증이 이 제약을 확인할 수 있다; 제약이 적용되는 유일한 맥락이 아니다; 또는
@@ -1181,7 +1181,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 무리 구성 요소: [Def.O1 *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 주관 바닥: 실무 확인 접근을 위한 [제 XVI-C조](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility) (*확인 접근성*).
+- 소유자 층: 실제 검증 액세스를 위한 [제XVI-C조](core_06_rights_part_c.md#article-xvi-c-verification-accessibility)(*검증 접근성*).
 - 함께 읽기: [감사 가능성](core_05_band_oversight.md#감사-가능성), [투명](core_05_band_oversight.md#투명), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [비례](../../core_05.035_band_accountability.md#proportionality), [실행 가능성](../../core_05.035_band_accountability.md#feasibility), [진실(헌법 제약)](core_05_band_oversight.md#진실헌법-제약), 그리고 [적대적·규모화된·착취된 조건](core_05_band_oversight.md#적대적규모화된착취된-조건).
 
 </details>
@@ -1350,7 +1350,7 @@
 - **어떻게 측정하고 평가하는가**
   - **일차 측정:** [감독 측정 가족](core_05_apex_oversight_leg.md#oversight-measurement-family) — *감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가?* 여기서는 공개가 제한 데이터 규칙과 보호되는 내부상태 경계를 지키는지 묻는다 — 보호되는 인지 또는 감정 상태를 재구성하거나 노출하지 않는다.
 
-    **일차 평가:** 공개는 **[corpus_systems.md](../../corpus_systems.md), CS-2 — 정보 유형과 취급**, [프라이버시(정보)](../../core_05.040_band_continuity.md#privacy-informational), [보호되는 내부상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional), 또는 **Type N** 취급을 우회하면 안 된다. 이 헌법이 명시로 허용하는 곳이 아니면, 공개는 다른 감지자의 보호되는 내부 인지 또는 감정 상태를 재구성하고, 추론하고, 노출하면 안 된다.
+**1차 평가:** 출판물은 **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)(*정보 유형 및 처리*) 및 [CS-6.310 — 데이터 분류](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, [개인정보(정보)](../../core_05.040_band_continuity.md#privacy-informational), [보호됨]을 우회해서는 안 됩니다. 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary) 또는 **Type N** 처리. 본 헌법이 명시적으로 허용하는 경우를 제외하고 출판물은 다른 감각자의 보호된 내부 인지 또는 감정 상태를 재구성, 추론 또는 노출해서는 안 됩니다.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **무엇이 버티어야 하는가**
   - **일차 실패:** 제한 데이터 규칙을 어기고, CS-2 취급을 우회하고, 또는 [프라이버시(정보)](../../core_05.040_band_continuity.md#privacy-informational)와 [보호되는 내부상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional)에 반하여 보호되는 내부 상태를 노출하는 공개.

@@ -19,8 +19,13 @@ links that the link audit cannot resolve and rewrites only those links:
    the link goes to the English file instead.
 
 Dry run by default; ``--write`` applies the changes. The report lists every
-fragment that was dropped and every link sent to English because no aligned
-translated heading was found.
+fragment that would be dropped (or preserved with ``--keep-unmatched``) and
+every link sent to English because no aligned translated heading was found.
+
+Use ``--scope`` with repository-relative translation paths to restrict the
+source files processed. ``--keep-unmatched`` leaves links unchanged when a
+fragment has no current English heading match; links whose translated heading
+cannot be aligned still fall back to the current English source and fragment.
 """
 
 from __future__ import annotations
@@ -43,6 +48,32 @@ import translation_audit as ta  # noqa: E402
 
 ROOT = ta.ROOT
 SLUG_ALIASES = (("segregation", "separation"),)
+# Exact historical fragment migrations whose current targets were verified
+# against the numbered section or file lineage. Keep this list narrow; other
+# unmatched fragments remain review items.
+FRAGMENT_ALIASES = {
+    "core_09.010_system_alignment_certification_record_recertification.md": {
+        "82-transparency-and-auditability-of-the-record": "82-transparency-and-auditability-of-the-system-certification-record",
+        "91-recertification-schedule-and-the-new-record": "91-recertification-schedule-and-the-new-system-certification-record",
+    },
+    "core_10.000_institutional_alignment_certification.md": {
+        "135-remediation-readiness-denial-and-revocation-for-an-institution": "7-certification-outcomes",
+        "82-transparency-and-auditability-of-the-record": "82-transparency-and-auditability-of-the-institutional-certification-record",
+    },
+    "core_11.000_standing_assessment.md": {
+        "verified-inputs-for-standing": "25-verified-input-gate",
+    },
+    "core_13.000_standing_integration.md": {
+        "chapter-twelve-standing-effects-and-integration": "chapter-thirteen-standing-effects-and-integration",
+    },
+    "core_15.000_forum.md": {
+        "chapter-fourteen-forums-and-jurisdiction": "chapter-fifteen-forums-and-jurisdiction",
+        "5-escalation-and-certification": "5-escalation-and-questions-for-ruling",
+    },
+    "cf_15.415_routing_operations_transfer_certification_representative_treatment.md": {
+        "cf-14415-routing-operations-transfer-certification-and-representative-treatment": "cf-15415-routing-operations-transfer-questions-for-ruling-and-representative-treatment",
+    },
+}
 _PREFIX_RE = re.compile(r"^(?:[a-z]+-)?\d[0-9a-z]*-")  # "63-", "cjs-5125-", "113-"
 _NUM_HEAD_RE = re.compile(r"^(?:§\s*)?(\d+(?:\.\d+)*)\.?(?:\s|$)")
 _ROMAN_RE = re.compile(r"\b([IVXL]{1,6}(?:-[A-Z])?)\b")
@@ -164,11 +195,19 @@ def strip_prefix(slug: str) -> str:
     return slug
 
 
-def fix_fragment(frag: str, info: tuple[set[str], set[str], dict[str, str]]) -> str | None:
+def fix_fragment(
+    frag: str,
+    info: tuple[set[str], set[str], dict[str, str]],
+    english: Path | None = None,
+) -> str | None:
     """Return the current anchor for a stale English fragment, or None."""
     anchors, heading_slugs, _ids = info
     if frag in anchors:
         return frag
+    if english is not None:
+        migrated = FRAGMENT_ALIASES.get(english.name, {}).get(frag)
+        if migrated in anchors:
+            return migrated
     for old, new in SLUG_ALIASES:
         swapped = frag.replace(old, new)
         if swapped in anchors:
@@ -281,12 +320,20 @@ def locale_counterparts(locale: str) -> dict[Path, Path]:
     return {ROOT / p.source: ROOT / p.translation for p in pairs}
 
 
-def process_locale(locale: str, write: bool, report: list[str]) -> collections.Counter:
+def process_locale(
+    locale: str,
+    write: bool,
+    report: list[str],
+    scope: set[Path] | None = None,
+    keep_unmatched: bool = False,
+) -> collections.Counter:
     resolver, anchors, aligner = RESOLVER, ANCHORS, ALIGNER
     counterpart = locale_counterparts(locale)
     pairs, _ = ta.translation_pairs(locale)
     sources = {ROOT / p.translation: ROOT / p.source for p in pairs}
     files = [ROOT / p.translation for p in pairs] + [ROOT / "translations" / locale / "README.md"]
+    if scope is not None:
+        files = [path for path in files if path in scope]
     stats: collections.Counter = collections.Counter()
     injections: dict[Path, dict[str, int]] = collections.defaultdict(dict)  # file -> {id: heading line}
 
@@ -302,7 +349,12 @@ def process_locale(locale: str, write: bool, report: list[str]) -> collections.C
             rel = unquote(u.path)
             frag = unquote(u.fragment) if u.fragment else None
             target = (sp if not rel else sp.parent / rel).resolve()
-            target = ta.canonical_core_path(target)
+            # Do not canonicalize a missing locale-relative path into an
+            # English source before resolving it. That would make a broken
+            # `core_*.md` sibling link look valid merely because the English
+            # file with that basename exists elsewhere in the repository.
+            if target.is_file():
+                target = ta.canonical_core_path(target)
             if target.is_file():
                 ok = (not frag) or target.suffix.lower() != ".md" or frag in anchors.get(target)
                 if ok:
@@ -323,8 +375,12 @@ def process_locale(locale: str, write: bool, report: list[str]) -> collections.C
                 is_translation = False
             new_frag = None
             if frag:
-                new_frag = fix_fragment(frag, anchors.info(english)) if english.suffix == ".md" else frag
+                new_frag = fix_fragment(frag, anchors.info(english), english) if english.suffix == ".md" else frag
                 if new_frag is None:
+                    if keep_unmatched:
+                        stats["unmatched-preserved"] += 1
+                        report.append(f"PRESERVED {sp.relative_to(ROOT)}:{link.line} {raw} (no matching heading in {english.name})")
+                        continue
                     stats["fragment-dropped"] += 1
                     report.append(f"DROPPED {sp.relative_to(ROOT)}:{link.line} {raw} (no matching heading in {english.name})")
             # choose local translation or English
@@ -336,14 +392,15 @@ def process_locale(locale: str, write: bool, report: list[str]) -> collections.C
                     stats["to-translation"] += 1
                 else:
                     line_idx = aligner.align(english, local).get(new_frag)
-                    if line_idx is not None:
+                    if line_idx is not None and (scope is None or local in scope):
                         injections[local][new_frag] = line_idx
                         new_target = local_name + f"#{new_frag}"
                         stats["to-translation+anchor"] += 1
                     else:
                         new_target = rel_posix(english, sp.parent) + f"#{new_frag}"
                         stats["to-english(unaligned)"] += 1
-                        report.append(f"ENGLISH {sp.relative_to(ROOT)}:{link.line} {raw} -> {new_target}")
+                        reason = "translated heading is outside scope or unaligned"
+                        report.append(f"ENGLISH {sp.relative_to(ROOT)}:{link.line} {raw} -> {new_target} ({reason})")
             else:
                 new_target = rel_posix(english, sp.parent) + (f"#{new_frag}" if new_frag else "")
                 stats["to-english"] += 1
@@ -384,14 +441,40 @@ def main() -> int:
     global RESOLVER, ALIGNER, ANCHORS
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--locale", help="one locale (default: all)")
+    ap.add_argument("--scope", nargs="+", help="repo-relative translation files to process")
+    ap.add_argument("--keep-unmatched", action="store_true", help="leave links unchanged when the fragment has no current English heading match")
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--report", default="")
     args = ap.parse_args()
     RESOLVER, ALIGNER, ANCHORS = Resolver(), Aligner(), Anchors()
+    scope_by_locale: dict[str, set[Path]] = collections.defaultdict(set)
+    if args.scope:
+        for value in args.scope:
+            path = (ROOT / value).resolve()
+            try:
+                rel = path.relative_to(ROOT).as_posix()
+            except ValueError:
+                ap.error(f"scope path is outside repository: {value}")
+            if not path.is_file() or not rel.startswith("translations/"):
+                ap.error(f"scope path must be an existing file under translations/: {value}")
+            parts = Path(rel).parts
+            if len(parts) != 3:
+                ap.error(f"scope path must be a locale file: {value}")
+            locale = parts[1]
+            allowed = {ROOT / pair.translation for pair in ta.translation_pairs(locale)[0]}
+            allowed.add(ROOT / "translations" / locale / "README.md")
+            if path not in allowed:
+                ap.error(f"scope path is not a mapped translation or locale README: {value}")
+            if args.locale and args.locale != locale:
+                ap.error(f"scope locale {locale} conflicts with --locale {args.locale}")
+            scope_by_locale[locale].add(path)
     report: list[str] = []
     total: collections.Counter = collections.Counter()
     for directory in ta.locale_dirs(args.locale):
-        stats = process_locale(directory.name, args.write, report)
+        selected_scope = scope_by_locale.get(directory.name) if args.scope else None
+        if args.scope and selected_scope is None:
+            continue
+        stats = process_locale(directory.name, args.write, report, selected_scope, args.keep_unmatched)
         total.update(stats)
         print(directory.name, dict(stats))
     print("TOTAL", dict(total))

@@ -20,7 +20,7 @@
 > - **Chương Hai (tệp này)** — cấu trúc định nghĩa O/M/A/C và thẳng hàng thành phần: mỗi định nghĩa liên kết **Bản thể (O)** (nó là gì), sổ **Đo lường (M)** đan với nghĩa vụ **Đánh giá (A)** (cách phải đo và đánh giá), và **Tuân thủ (C)** (điều phải giữ) ([§1 Mục đích và vai trò](core_02_definition_structure.md#1-mục-đích-và-vai-trò); [§2 Yêu cầu tính toàn vẹn định nghĩa](core_02_definition_structure.md#2-yêu-cầu-tính-toàn-vẹn-định-nghĩa)).
 > - **Chương Ba** — tính toàn vẹn định nghĩa, lẩn tránh, và không tuân thủ ([Chương Ba](core_03_definition_integrity.md#chương-ba-tính-toàn-vẹn-định-nghĩa-lẩn-tránh-và-không-tuân-thủ)).
 > - **Chương Bốn** — gánh chứng minh, truy vết định nghĩa, khả năng quan sát, xác minh dưới giới hạn an ninh, và khả năng tiếp cận xác minh ([Chương Bốn — Gánh chứng minh, truy vết, và xác minh](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **Chương Năm** — từ vựng chung cho đo lường, đánh giá, và tuân thủ (định nghĩa độc lập, theo cụm, và theo gói ở các mục 1–3 xuyên năm tệp dải Tứ diện và các tệp mục tiêu hiến pháp: [Mục tiêu Hưng thịnh](core_05_apex_flourishing_aim.md), [Giám sát](../../core_05.050_band_oversight.md), [Tham gia](../../core_05.055_band_participation.md), [Trách nhiệm giải trình](../../core_05.035_band_accountability.md), [Liên tục](../../core_05.040_band_continuity.md), [Tích hợp](../../core_05.045_band_integrative.md)); thứ tự đọc và bản đồ ở [Phần A](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm).
+> - **Chương Năm** — từ vựng chung về đo lường, đánh giá và tuân thủ (định nghĩa độc lập, nhóm và gói trong các mục 1–3 của năm tệp dải Tetrad và các tệp mục tiêu hiến pháp: [Mục tiêu Phát triển Hưng thịnh](core_05_apex_flourishing_aim.md), [Giám sát](core_05_band_oversight.md), [Tham gia](../../core_05.055_band_participation.md), [Trách nhiệm giải trình](../../core_05.035_band_accountability.md), [Tính liên tục](../../core_05.040_band_continuity.md), [Tích hợp](core_05_band_integrative.md)); thứ tự đọc và sơ đồ có tại [Chương Năm Phần A](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — định nghĩa vận hành cho thuật ngữ xuyên triển khai ([CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) thư viện cụm vận hành); áp dụng các nhà chuẩn Chương Năm — không định nghĩa lại chúng. Phân loại miền và giao thức ở **CS**, **CI**, và **CF** theo cùng quy tắc.
 >
 > Điều hướng thêm:
@@ -62,7 +62,7 @@ Mọi định nghĩa hiến pháp **phải** được xây từ các phần liê
 
 Những phần đó **phải** giữ nhất quán trong mỗi định nghĩa. Cưỡng chế, quản trị, triển khai, vận hành đo lường, kiểm toán, và cơ chế phân loại ngoài phạm vi định nghĩa thuộc các chương sau; chúng **phải** tuân các [Ràng buộc hiến pháp](../../core_05.045_band_integrative.md#constitutional-constraint) lập ở đây.
 
-Mọi định nghĩa **phải** được thỏa cho toàn hệ thống như nó thực sự chạy — kể cả hệ thống trải trên hữu tri, máy, và địa điểm. Các phần O, M, A, và C **phải** đều đạt cùng nhau, trên cùng phạm vi và dưới cùng điều kiện thử. Đạt một phần bằng cách cắt lát hệ thống, thu hẹp điều được tính, hoặc làm yếu phần khác thì không được tính.
+Mọi định nghĩa **phải** được đáp ứng đối với toàn bộ hệ thống như nó thực sự vận hành — kể cả hệ thống trải rộng qua các sentients, máy móc và địa điểm. Tất cả phần O, M, A và C **phải** cùng đạt trong cùng phạm vi đánh giá và cùng điều kiện kiểm thử. Đạt một phần bằng cách loại bỏ phần của hệ thống, thu hẹp điều được tính hoặc làm yếu phần khác thì không được tính.
 
 <a id="11-ontological-components-o--what-it-is"></a>
 <a id="11-ontological-components-o-what-it-is"></a>
@@ -98,7 +98,7 @@ Phần Đo lường (M) nói thước nào áp dụng cho một thuật ngữ �
 Ở các định nghĩa lá Chương Năm, M được đan vào phần Đánh giá (A) dưới tiêu đề hướng người đọc **Cách đo và đánh giá**. Mỗi bậc nêu thước của nó trước, rồi đánh giá khớp trên dòng ngay dưới. Các trường làm việc như sau:
 
 - **Thước sơ cấp:** thứ chính cần nhìn trước — vết bằng chứng đầu người đánh giá nên theo cho thuật ngữ này trong ngữ cảnh này.
-- **Thước thứ cấp:** *(dùng khi áp dụng)* các thước thêm **phải** được gồm cạnh thước sơ cấp — không phải phần thêm tùy chọn. Chúng mở rộng kiểm để một vấn đề không thể ẩn sau một lát bằng chứng hẹp.
+- **Thước đo thứ cấp:** *(dùng khi áp dụng)* các thước đo bổ sung phải được tính cùng với thước đo chính — không phải phần tùy chọn. Chúng mở rộng đánh giá để vấn đề không thể ẩn sau một lát cắt chứng cứ hẹp.
 - **Thước tam cấp:** *(dùng khi áp dụng)* kiểm tính toàn vẹn trên chính các thước — đặc biệt nơi số, nhãn, tự báo cáo, hoặc hạng mục hình thức có thể đứng thay kết quả thực.
 
 Không mọi định nghĩa cần cả ba bậc. Một số thuật ngữ chỉ nêu thước sơ cấp; số khác thêm thước thứ cấp hoặc tam cấp khi thuật ngữ cần kiểm rộng hơn hoặc sâu hơn.
@@ -134,7 +134,7 @@ Phần Đánh giá (A) nói một định nghĩa phải được đánh giá th�
 
 Trong mục đó, mỗi bậc là một cặp: thước đi trước, và đánh giá cho thước đó nằm trên dòng ngay dưới. Các trường đánh giá là:
 
-- **Đánh giá sơ cấp:** cách xét thước sơ cấp — người đánh giá phải đánh giá gì trước, và kiểm đó phải thực sự với tới gì (nội dung, không chỉ nhãn hoặc giấy tờ).
+- **Đánh giá chính:** cách phán định thước đo chính — người đánh giá phải xem xét điều gì trước tiên và việc đánh giá đó thực sự phải bao quát đến đâu (bản chất, chứ không chỉ nhãn hay giấy tờ).
 - **Đánh giá thứ cấp:** *(dùng khi áp dụng)* cách xét các thước thứ cấp — điều phải được gồm khi thước sơ cấp trông ổn nhưng bằng chứng rộng hơn vẫn quan trọng.
 - **Đánh giá tam cấp:** *(dùng khi áp dụng)* cách xét các thước tam cấp — kiểm xem chỉ số thay thế, chỉ số, hoặc hạng mục hình thức còn theo dõi kết quả thực không.
 
@@ -168,7 +168,7 @@ Phần Tuân thủ (C) nêu các điều kiện thế giới thực phải đứ
 - **Thất bại thứ cấp:** *(dùng khi áp dụng)* khi thuật ngữ bị phá ở bậc thứ cấp — ví dụ khi kiểm sơ cấp trông ổn định nhưng thứ gì rộng hơn vẫn đánh bại thuật ngữ, như một đổ vỡ trong hệ thống nó phụ thuộc hoặc một hệ thống kết nối nó tương tác.
 - **Thất bại tam cấp:** *(dùng khi áp dụng)* khi thuật ngữ bị phá ở bậc tam cấp — ví dụ khi một chỉ số thay thế hoặc chỉ số được coi đủ một mình, hoặc khi lệch đã biết bị bỏ qua hoặc để không sửa.
 
-Không mọi định nghĩa liệt kê cả ba bậc thất bại. Một số thuật ngữ chỉ nêu thất bại sơ cấp; số khác thêm thất bại thứ cấp hoặc tam cấp khi thuật ngữ cần điều kiện phá khớp bậc.
+Không phải định nghĩa nào cũng liệt kê cả ba tầng thất bại. Một số thuật ngữ chỉ nêu thất bại chính; thuật ngữ khác bổ sung thất bại thứ cấp hoặc thứ ba khi cần điều kiện vi phạm tương ứng với từng tầng.
 
 Xuyên mọi bậc, phần C phải:
 
@@ -218,7 +218,7 @@ Một định nghĩa không được thỏa nếu cách nó được xây, đọ
 #### 2.3 Ràng buộc xây dựng
 Các định nghĩa phải được viết sao cho:
 - mọi phần (O, M, A, C) chỉ có thể được thỏa cùng nhau dưới điều kiện phản ánh cách hệ thống thực sự hành xử và điều nó thực sự sản sinh
-- không phần nào có thể được thỏa bằng khái quát hóa, tách sự vật, thu hẹp phạm vi, hoặc mô tả chúng theo cách bỏ ra phần tử hệ thống, tương tác, hoặc hiệu ứng thực sự quan trọng
+- Không phần nào được coi là đáp ứng bằng cách khái quát hóa, chia nhỏ, thu hẹp phạm vi đánh giá hoặc mô tả theo cách bỏ qua các yếu tố, tương tác hay tác động của hệ thống thực sự quan trọng
 - không thước nào đứng thay kết quả nó nhằm nắm; một thước lệch khỏi kết quả thế giới thực nó đại diện (xem [Lệch chỉ số thay thế](../../core_05.050_band_oversight.md#proxy-divergence)) không thể thỏa định nghĩa, và lựa chọn thước không được co điều phải được đánh giá hay điều phải đứng trong thực tế
 - không giả định không nêu, phụ thuộc ẩn, hoặc điều kiện bỏ sót được đổi hoặc làm yếu điều phải được đánh giá hay điều phải đứng trong thực tế
 
@@ -226,7 +226,7 @@ Các định nghĩa phải được viết sao cho:
 #### 2.4 Quy tắc diễn giải khi mơ hồ
 Khi một định nghĩa có thể được đọc hơn một cách hợp lý, dùng cách đọc giữ nghĩa đầy đủ của nó. Cách đọc đó quản trị cách định nghĩa được áp dụng. Cách đọc cũng phải giữ đánh giá nghiêm, và phải giữ nguyên các yêu cầu thế giới thực.
 
-Một định nghĩa không được dùng để xét hoặc quyết tuân thủ nếu áp dụng nó buộc một mâu thuẫn trong định nghĩa, một khe giữa phạm vi nó nêu và điều thực sự phải được phủ, hoặc một lần đạt trên một phần trong khi phần đòi khác bị lách.
+Không được dùng một định nghĩa để đánh giá hoặc quyết định tuân thủ nếu việc áp dụng định nghĩa đó buộc phải tạo ra mâu thuẫn bên trong định nghĩa, khoảng trống giữa phạm vi được nêu và nội dung thực sự phải bao quát, hoặc kết quả đạt ở một phần trong khi né tránh một phần bắt buộc khác.
 
 Một định nghĩa gãy là không tuân thủ tự nó. Điều đó đứng ngay khi hệ thống trông như đang hành xử ổn và ngay khi chưa có gì sai.
 

@@ -9,6 +9,7 @@
 > **前（本言語）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
 > **次（この言語）：** [core_05__definitions_home.md](core_05__definitions_home.md)
+> **下流：** [第九章 — システム整合認証](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十一章 — スタンディング記録](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)。
 > **読みの弧：** §1 負担の割当 → §2 追跡地図 → §3 観測可能性 → §4 安全限度 → §5 証拠標準 → §6 認証の層境界（非操作性）
 
 </details>
@@ -18,9 +19,9 @@
 
 > これが住むところ（案内）：
 > - **四元の地図：** 負担の割当、証拠、追跡可能性、観測可能性、および検証は、[前文](core_00_preamble.md#前文--基礎要件)で確立された[憲法四元](core_00_preamble.md#constitutional-tetrad)の**監督**脚と**説明責任**脚を実施する；**参加**は、第 **3** 節および第 **4** 節のもとでの実務上の観測可能性と独立した異議申し立てを通じて、実質的に求められるところで。要件は[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせる。
-> - **憲法上の所管者：** 負担の割当、遵守証拠、定義の追跡可能性、観測可能性、および安全保障に制約された検証。**第十章**は、本章とあわせて読む軌跡記録と検証済み入力の規律を所管する。
+> - **憲法上の所管：** 立証責任の配分、適合証拠、定義のトレーサビリティ、可観測性、セキュリティ制約付き検証。本章とあわせて読むスタンディング記録と検証済み入力の規律は**第十一章**が所管する。
 > - **実施の所管者：** 指名された実施ファイルにおける配備、データ取扱い、および保証の仕組みは、これらの規則と一貫したままでなければならず、コーパスがすでに、より厳しい規則の論理を提供するところでは、より厳しくてよい。
-> - **再配置禁止規則：** 本章は負担、追跡、観測可能性、安全限度、および証拠のみを統治する。第五章の定義、**第十章**の貢献または軌跡測定、または第十二章の反憲法的不正行為の基準を再述しない。軌跡への検証済み不遵守の経路づけは、[第三章 §3 — 不遵守所見プロファイル](core_03_definition_integrity.md#3-不遵守所見プロファイル)および[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)が統治する。**第 6 節**は、第二から第四章が[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)とどう異なるかを述べる。
+> - **所管移転禁止規則：** 本章が扱うのは立証責任、トレース、可観測性、セキュリティ上の制限、証拠のみである。第五章の定義、**第十二章**の貢献またはスタンディング測定、第十四章の反憲法的違反基準を再述しない。検証済み不適合のスタンディングへの経路づけは、[第三章 §3 — 不適合所見プロフィール](core_03_definition_integrity.md#3-non-compliance-finding-profiles)および[第十一章 — スタンディング記録](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)が定める。**第6節**は、第二章から第四章と[第九章 — システム整合認証](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)の違いを述べる。
 
 </details>
 
@@ -43,11 +44,11 @@
 
 | 段階 | 平たい仕事 | 節 |
 | --- | --- | --- |
-| **1 — 誰が証明するか** | 負担は遵守を主張する側に座る | [§1](#1-排他的執行と負担の割当) |
-| **2 — 地図を示す** | 定義から観察可能な振る舞いへの構造化された追跡 | [§2](#2-定義の追跡可能性要件) |
-| **3 — 点検できるようにする** | システムは地図を検証できるほどを晒さなければならない — 理論ではなく実務で | [§3](#3-追跡可能性の観測可能性要件) |
-| **4 — 安全限度** | 本物の安全保障の限度は許される；口実の遮断は許されない | [§4](#4-安全保障に制約された観測可能性と検証の規則) |
-| **5 — 何が数えるか** | 証拠は本物で、完全で、独立し、持続していなければならない | [§5](#5-遵守証拠の標準) |
+| **1 — 誰が立証するか** | 適合を主張する者が立証責任を負う | [§1 排他的執行と立証責任の配分](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — 地図を示す** | 定義から観察可能な行動までの構造化されたトレース | [§2 定義トレーサビリティ要件](#2-definition-traceability-requirement) |
+| **3 — 確認可能にする** | 理論上だけでなく実際に地図を検証できるだけの情報をシステムが開示する | [§3 トレーサビリティの可観測性要件](#3-observability-of-traceability-requirement) |
+| **4 — セキュリティ上の制限** | 実際のセキュリティ制限は認められるが、口実による遮断は認められない | [§4 セキュリティ制約付き可観測性・検証規則](#4-security-constrained-observability-and-verification-rule) |
+| **5 — 何が認められるか** | 証拠は実在し、完全で、独立しており、継続的でなければならない | [§5 適合証拠基準](#5-compliance-evidence-standard) |
 
 **平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05.035_band_accountability.md#contestability)または[Article XVI：監査、透明性、独立検証](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
 
@@ -157,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第四章、第 1 節から第 4 節](#1-排他的執行と負担の割当)；[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-目的と役割)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)；[第二章、§3 定義スタックを通じた一貫性](core_02_definition_structure.md#3-定義スタックを通じた一貫性)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-定義の誠実性と回避防止の制約)；[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](core_03_definition_integrity.md#2-観察可能なシステム振る舞いからの不遵守)；[第三章、§2.6 不確実性の誠実性と非搾取の制約](core_03_definition_integrity.md#26-不確実性の誠実性と非搾取の制約) — 実体的な定義と不遵守の規則；**§4** は証拠層の要件のみを述べ、それらの規則を再述しない。
-- 下流：[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 下流：[第十一章 — スタンディング記録](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（11.000）。
 - あわせて読む：[第四章、第 2 節 — 定義の追跡可能性要件](#2-定義の追跡可能性要件) — 実質的に求められるいかなる**第五章**定義の呼び出しまたは正しい適用の失敗も、関連する評価、証拠、および遵守判定を全面的に無効にする；[第一章、§6 — 過程衝突の解決](core_01_b_interaction_interpretation.md)；尺度合わせが感知者の福祉と長期地平の安定のあいだの取引に影響するところでは[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[第五章 安全（制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[第五章 真理（憲法上の制約）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)、および[第五章 認識的誠実性](../../core_05.050_band_oversight.md#epistemic-integrity) — 経験的、予測的、または因果的主張についての科学に基づく証拠の整合。
 
 </details>
@@ -191,8 +192,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第二章 — 定義の構造と構成要素の要件](core_02_definition_structure.md#第二章定義の構造と構成要素の要件)；[第三章 — 定義の誠実性、回避、不遵守](core_03_definition_integrity.md#第三章定義の誠実性回避不遵守)；[第四章、第 1 節から第 5 節](#1-排他的執行と負担の割当)。
-- 下流：[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
-- あわせて読む：[第九章 §7 — 認証結果](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二から第四章のもとでの検証済み不遵守は、以前の認証にかかわらず、認証を再開し、または打ち負かすことができる。
+- 下流：[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)（9.000）；[第十一章 — スタンディング記録](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（11.000）。
+- あわせて読む：[第九章 §7 — 認証結果](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)（9.005 §7）— 第二章から第四章に基づく検証済み不適合は、過去の認証の有無にかかわらず、認証を再開させるか無効にしうる。
 
 </details>
 
@@ -209,10 +210,10 @@
 
 これらは、遵守が評価されるときにはいつでも適用される — 認証の有無を問わず。
 
-**[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** は、実質的なところでフォーラム監督の**認証過程**を供給する：システム全体の評価領域、認証記録の義務、認証結果、再認証の周期、争訟可能性の鎖、および第十章への検証済み入力の橋。それは第二から第四章を**適用する**；それらを**再述しない**。
+**[第九章 — システム整合認証](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)**は、実質的に関係する場合、フォーラム監督下の**認証手続**を定める。これには、システム全体の評価領域、システムおよび機関の認証記録義務、認証結果、認証期間、争訟可能性の連鎖、第十一章への検証済み入力ブリッジが含まれる。同章は第二章から第四章を**適用**するが、再述はしない。
 
 読者は次のように扱ってはならない：
-- **認証記録**を、第二から第四章のもとでの継続する遵守の代替として
+- **システムまたは機関の認証記録**を、第二章から第四章に基づく継続的適合の代替とすること
 - **第九章**の認証、条件付き認証、または再認証を、本章の証明、追跡、または証拠の標準を下げるものとして
 - システムが以前に認証されたからといって、**第二から第四章**を任意として — それらの章のもとでの検証済み不遵守は、第九章のもとで認証を再開し、または打ち負かすことができる
 

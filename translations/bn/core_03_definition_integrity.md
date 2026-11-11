@@ -37,9 +37,10 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: নীতি: [অধ্যায় দুই, §1 — উদ্দেশ্য ও ভূমিকা](core_02_definition_structure.md#1-উদদশয-ও-ভমক); [অধ্যায় দুই, §2 সংজ্ঞা সততা প্রয়োজনীয়তা](core_02_definition_structure.md#2-সজঞ-সতত-পরযজনযত)।
-- অধঃ: [অধ্যায় তিন, ধারা 2 — পর্যবেক্ষণযোগ্য ব্যবস্থা আচরণ থেকে অ-অনুপালন](#2-পরযবকষণযগয-বযবসথ-আচরণ-থক-অ-অনপলন); [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#5-অনপলন-পরমণ-মন); [অধ্যায় দশ — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)।
-- সঙ্গে পড়ুন: [অধ্যায় এক, ধারা 4.2 — সত্য (জ্ঞানতাত্ত্বিক সততা বন্ধন)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — ঘোষিত গঠন বা অভিপ্রায়ের বদলে পর্যবেক্ষণযোগ্য আচরণের উপর ভিত্তি করে ব্যাখ্যা সংজ্ঞা-সততা স্তরে সাংবিধানিক সত্য বন্ধনকে কার্যকরী করে।
+- অধঃ: [অধ্যায় তিন, ধারা 2 — পর্যবেক্ষণযোগ্য ব্যবস্থা আচরণ থেকে অ-অনুপালন](#2-পরযবকষণযগয-বযবসথ-আচরণ-থক-অ-অনপলন); [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#5-অনপলন-পরমণ-মন); [অধ্যায় এগারো — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)।
+- সঙ্গে পড়ুন: [অধ্যায় এক, ধারা 3.2 — সত্য (জ্ঞানগত অখণ্ডতা সীমা)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000) — ঘোষিত কাঠামো বা অভিপ্রায়ের বদলে পর্যবেক্ষণযোগ্য আচরণের ভিত্তিতে ব্যাখ্যা করা সংজ্ঞা-অখণ্ডতার স্তরে সাংবিধানিক সত্য-সীমাকে কার্যকর করে।
 
+- [অধ্যায় এগারো — প্রস্থিতি রেকর্ড](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000)।
 </details>
 
 <details>
@@ -89,9 +90,10 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: নীতি: [অধ্যায় তিন, ধারা 1 — সংজ্ঞা সততা ও এড়ানো-নিরোধ বন্ধন](#1-সজঞ-সতত-ও-এডন-নরধ-বনধন); [অধ্যায় দুই, §2 সংজ্ঞা সততা প্রয়োজনীয়তা](core_02_definition_structure.md#2-সজঞ-সতত-পরযজনযত); [অধ্যায় দুই, §2.2 কাঠামোগত বা প্রয়োগকৃত দুর্বলকরণের দ্বারা অ-অনুপালন](core_02_definition_structure.md#22-কঠমগত-ব-পরযগকত-দরবলকরণর-দবর-অ-অনপলন)।
-- অধঃ: [2.1](#21-সধরণ-এডন-নকশ) থেকে [2.6](#26-অনশচযত-সতত-ও-অ-শষণ-বনধন) পর্যন্ত প্রকার তালিকা; [3. অ-অনুপালন নির্ণয় রূপরেখা](#3-অ-অনপলন-নরণয-রপরখ); [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#5-অনপলন-পরমণ-মন); [অধ্যায় চার, ধারা 3 — খুঁজে-পাওয়ার পর্যবেক্ষণযোগ্যতা প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#3-খজ-পওযর-পরযবকষণযগযত-পরযজনযত); [অধ্যায় নয় §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন পুনরায় খোলা ও এড়ানো-নিরোধ নির্দেশক*); [অধ্যায় দশ — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)।
+- অধঃ: [2.1](#21-সধরণ-এডন-নকশ) থেকে [2.6](#26-অনশচযত-সতত-ও-অ-শষণ-বনধন) পর্যন্ত প্রকার তালিকা; [3. অ-অনুপালন নির্ণয় রূপরেখা](#3-অ-অনপলন-নরণয-রপরখ); [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#5-অনপলন-পরমণ-মন); [অধ্যায় চার, ধারা 3 — খুঁজে-পাওয়ার পর্যবেক্ষণযোগ্যতা প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#3-খজ-পওযর-পরযবকষণযগযত-পরযজনযত); [অধ্যায় নয় §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন পুনরায় খোলা ও এড়ানো-নিরোধ নির্দেশক*); [অধ্যায় এগারো — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)।
 - সঙ্গে পড়ুন: [অধ্যায় দুই, §1 — উদ্দেশ্য ও ভূমিকা](core_02_definition_structure.md#1-উদদশয-ও-ভমক) পূর্ণ কার্যকরী ব্যবস্থা শর্তাবলির অধীনে যৌথ-পূরণ নিয়মের জন্য; [অধ্যায় দুই, §2.4 অস্পষ্টতার অধীনে ব্যাখ্যা নিয়ম](core_02_definition_structure.md#24-অসপষটতর-অধন-বযখয-নযম) — যে ব্যাখ্যা সুরক্ষা দুর্বল করে, কী মূল্যায়ন করতে হয় তা সংকুচিত করে, বা বাস্তব-জগতের ফল খারাপ করে সেগুলো অবৈধ; [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#5-অনপলন-পরমণ-মন) — প্রমাণকে এই ধারার নিয়মের অধীনে অনুপালন দেখাতে হয়; যে প্রমাণ এখানে অ-অনুপালনকারী হত তা প্রমাণভার ব্যর্থ করে; [অ-অনুপালন](../../core_05.045_band_integrative.md#non-compliance)।
 
+- [অধ্যায় এগারো — প্রস্থিতি রেকর্ড](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000)।
 </details>
 
 <br>
@@ -113,7 +115,7 @@
 - পূর্ণ কার্যকরী ব্যবস্থা শর্তাবলির অধীনে সংজ্ঞা পূর্ণভাবে পূরণ হয় না:
   - অর্থগত, পরিমাপ, মূল্যায়ন, ও অনুপালন পরিসর একসঙ্গে (O, M, A, এবং C)
   - সময়, মাপ, সংযুক্ত ব্যবস্থা, এবং পরিচালনা শর্ত জুড়ে সহ যেখানে সেগুলো মানে রাখে
-- সংজ্ঞা শুধু কাগজে পূরণ হয় যখন সেই পূর্ণ পরিসর পূরণ হয় না:
+- সংজ্ঞাটি শুধু কাগজে পূরণ হয়, অথচ সংজ্ঞার সম্পূর্ণ পরিসর পূরণ হয় না:
   - শুধু রূপ, উপস্থাপনা, গঠন, প্রক্রিয়া, বা সীমিত শর্তে
   - ফল যা সংজ্ঞার পূর্ণ সুরক্ষামূলক, মূল্যায়ন, বা অনুপালন পরিসরের সঙ্গে অসামঞ্জস্যপূর্ণ
   - সংজ্ঞা উপাদান শুধু সীমাবদ্ধ, অ-প্রতিনিধিত্বমূলক, বা নির্বাচিতভাবে গড়া শর্তে পূরণ
@@ -216,7 +218,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [অধ্যায় তিন, ধারা 2 — পর্যবেক্ষণযোগ্য ব্যবস্থা আচরণ থেকে অ-অনুপালন](#2-পরযবকষণযগয-বযবসথ-আচরণ-থক-অ-অনপলন); [অধ্যায় দুই, §2 সংজ্ঞা সততা প্রয়োজনীয়তা](core_02_definition_structure.md#2-সজঞ-সতত-পরযজনযত)।
-- অধঃ: [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় নয় — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [অধ্যায় দশ — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় এগারো — প্রস্থিতি প্রভাব ও একীকরণ](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 সাংবিধানিক কম্পাস ও গুচ্ছ মানচিত্র](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
+- অধঃ: [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় নয় — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [অধ্যায় তেরো — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened); [অধ্যায় তেরো — প্রস্থিতি প্রভাব ও একীকরণ](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration); [CJS-3.1 সাংবিধানিক কম্পাস ও গুচ্ছ মানচিত্র](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
 - সঙ্গে পড়ুন: [অ-অনুপালন নির্ণয় রূপরেখা](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — রূপরেখা ক্ষেত্রের প্রামাণিক O/M/A/C ঘর; [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)।
 
 </details>
@@ -230,14 +232,14 @@
 - নাম বলতে পারে কোন [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) পা এবং [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) অভিমুখ ব্যর্থতাকে সবচেয়ে ভালো বর্ণনা করে — উদাহরণস্বরূপ তত্ত্বাবধান, অংশগ্রহণ, বা জবাবদিহি সমুন্নতি বা সাতত্যের সঙ্গে ক্রস
 - অন্তর্নিহিত সংজ্ঞা পূরণ হয়েছে কি না তা বদলায় না
 - দ্বিতীয় সিদ্ধান্ত লেবেল তৈরি করে না
-- [অধ্যায় দশ](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)-এর অবদান বা লঙ্ঘন পরিমাপের স্থলাভিষিক্ত হয় না
+  - [অধ্যায় এগারো — প্রস্থিতি রেকর্ড](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000);
 
 প্রস্থিতি প্রভাব নির্ভর করে কাকে মূল্যায়ন করা হচ্ছে এবং ব্যবস্থা ইতিমধ্যে প্রত্যয়িত কি না তার উপর। নিচের উপধারা সেই ঘটনা সেট করে।
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 ইতিমধ্যে প্রত্যয়নপ্রাপ্ত ব্যবস্থার জন্য প্রস্থিতি প্রভাব
 
-কোনো ব্যবস্থা যদি ইতিমধ্যে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে চলে—এর মধ্যে প্রত্যয়ন, শর্তসাপেক্ষ প্রত্যয়ন, বা মেয়াদোত্তীর্ণ হয়নি এমন পুনঃপ্রত্যয়ন অন্তর্ভুক্ত—তবে সেই ব্যবস্থার কার্যকরী পরিসরে বস্তুগতভাবে যাচাইকৃত অ-অনুপালন **সেই ব্যবস্থার** জন্য [অধ্যায় দশ](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)-এর প্রস্থিতি পরিমাপে **অবশ্যই** অন্তর্ভুক্ত হবে। কেবল [যাচাইকৃত-ইনপুট দ্বার](../../core_10.000_standing_assessment.md#verified-inputs-for-standing) অতিক্রম করা তথ্যই অন্তর্ভুক্ত হতে পারে। [অধ্যায় দশ](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)-এর অধীনে প্রস্থিতি পরিমাপ করুন; [অধ্যায় এগারো](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)-এর অধীনে তার সমন্বয় ও প্রভাব প্রয়োগ করুন। পুনরায় খোলা, প্রত্যাহার বা অন্য প্রত্যয়ন-পরিণতি [অধ্যায় নয়](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)-এর অধীনে থাকবে। সেগুলো ওই ব্যবস্থার প্রস্থিতি নথির বিকল্প নয়।
+কোনো ব্যবস্থা যদি ইতিমধ্যে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে চলে—এর মধ্যে প্রত্যয়ন, শর্তসাপেক্ষ প্রত্যয়ন, বা মেয়াদোত্তীর্ণ হয়নি এমন পুনঃপ্রত্যয়ন অন্তর্ভুক্ত—তবে সেই ব্যবস্থার কার্যকরী পরিসরে বস্তুগতভাবে যাচাইকৃত অ-অনুপালন **সেই ব্যবস্থার** জন্য [অধ্যায় তেরো](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)-এর প্রস্থিতি পরিমাপে **অবশ্যই** অন্তর্ভুক্ত হবে। কেবল [যাচাইকৃত-ইনপুট দ্বার](core_11_standing_assessment.md#25-verified-input-gate) অতিক্রম করা তথ্যই অন্তর্ভুক্ত হতে পারে। [অধ্যায় তেরো](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)-এর অধীনে প্রস্থিতি পরিমাপ করুন; [অধ্যায় তেরো](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)-এর অধীনে তার সমন্বয় ও প্রভাব প্রয়োগ করুন। পুনরায় খোলা, প্রত্যাহার বা অন্য প্রত্যয়ন-পরিণতি [অধ্যায় নয়](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)-এর অধীনে থাকবে। সেগুলো ওই ব্যবস্থার প্রস্থিতি নথির বিকল্প নয়।
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 প্রথম প্রত্যয়নে প্রস্থিতি প্রভাব
@@ -258,7 +260,7 @@
 - গোপন
 - সম্ভব প্রতিরোধ ক্ষমতা
 
-কোনো প্রতিষ্ঠানের প্রস্থিতি প্রভাবিত হয় যখন প্রতিষ্ঠানটি মূল্যায়নের বিষয়, অথবা যখন তাকে অ-অনুপালন নকশার বাহন হিসেবে যাচাই করা হয়। প্রতিষ্ঠান নথি আলাদা সংজ্ঞ প্রাণীর নথি থেকে পৃথকভাবে খুঁজে পাওয়া যায় থাকে। সেই ঘটনা প্রয়োগ করুন [অধ্যায় দশ](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) এবং [অধ্যায় এগারো](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)-এর অধীনে। নির্ণয় রূপরেখা রাউটিং ও নিরীক্ষায় সাহায্য করে। এটি নিজে প্রস্থিতি ফল, স্লট, তালা, ফটক, বা প্রতিকার সেট করে না।
+কোনো প্রতিষ্ঠানের প্রস্থিতি প্রভাবিত হয় যখন প্রতিষ্ঠানটিই মূল্যায়নের বিষয়, অথবা যখন অ-অনুপালনের ধরনটি ওই প্রতিষ্ঠানের মাধ্যমে সংঘটিত হয়েছে বলে যাচাই করা হয়। প্রতিষ্ঠানের নথি পৃথক সংজ্ঞ প্রাণীর নথি থেকে আলাদাভাবে অনুসরণযোগ্য থাকে। এসব ক্ষেত্রে [অধ্যায় তেরো](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) এবং [অধ্যায় তেরো](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) অনুসারে ব্যবস্থা নিন। অনুসন্ধান-প্রোফাইল রাউটিং ও নিরীক্ষায় সহায়তা করে; এটি নিজে প্রস্থিতির ফল, স্লট, লক, গেট বা প্রতিকার নির্ধারণ করে না।
 
 <a id="34-operational-constraints"></a>
 #### 3.4 পরিচালনা বন্ধন

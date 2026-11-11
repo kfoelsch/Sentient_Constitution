@@ -19,6 +19,8 @@
 
 **নির্বাচিত অনুবাদ।** এই পাইলটে [প্রস্তাবনা](core_00_preamble.md), [অধ্যায় এক](core_01_a_values_principles.md)-এর অংশ এবং [অধ্যায় সাতের চার্টার](core_07_charters.md)-সহ কিছু ক্রমাঙ্কিত `core_*` ফাইল অনুবাদ করা হয়েছে। পাঠকের ভাষা রাজনৈতিক হস্তক্ষেপ নয়।
 
+অধ্যায় ১১ ও ১২-এর বর্তমান ইংরেজি উৎস অনুসারে পূর্ণ অনুবাদ-খসড়া যুক্ত হয়েছে; এগুলো এখনও স্বাধীন মানব-পর্যালোচনা পায়নি।
+
 ## ফাইল
 
 | ফাইল | ইংরেজি মূল |
@@ -40,12 +42,20 @@
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
 | [core_07_charters.md](core_07_charters.md) | [core_07_charters.md](../../core_07.000_charters.md) |
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_13.000_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_14.000_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_16.000_governance.md](../../core_16.000_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_15.000_forum.md](../../core_15.000_forum.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_17.000_non_regression.md](../../core_17.000_non_regression.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 
 পাইলটের লিঙ্ক এখনও অননুদিত ইংরেজি ফাইলের দিকে যায়। HTML নোঙর (`id`) মূল থেকে নকল, খণ্ডে খণ্ডে তুলনার জন্য।
 

@@ -87,7 +87,7 @@
 
 <br>
 
-*쉽게 말해, 제1장은 다른 모든 장을 규율하는 가치와 제약을 정한다. 공유 시스템은 **번영**과 **지속성**을 함께 추구해야 하며, 한쪽을 다른 쪽의 희생으로 추구해서는 안 된다. 또한 다른 가치들을 희생하여 어느 한 가치만 극대화해서도 안 된다.*
+*쉽게 말해, 제1장은 다른 모든 장을 지배하는 가치와 제약을 정합니다. 공동 시스템은 **번영**과 **지속성**을 함께 추구해야 하며 어느 하나를 다른 하나의 희생으로 삼아서는 안 됩니다. 또한 한 가지 가치만을 다른 가치들을 해치면서 극대화해서는 안 됩니다.*
 
 <a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>이 장은 이 헌법의 해석, 적용, 발전을 규율하는 원칙과 제약을 확립한다. [두 가지 헌법상 목표](core_00_preamble.md#two-constitutional-aims), 즉 [**번영**](core_00_preamble.md#flourishing)과 [**지속성**](core_00_preamble.md#continuity)을 [서문 §1 모델](core_00_preamble.md#the-model)에서 확립된 실행 가능한 원칙과 제약으로 발전시킨다. 원칙 층위의 정식 정의는 서문에 있으며, 이 장은 이를 적용한다.
 
@@ -95,7 +95,7 @@
 
 이 장은 두 목표와 사원칙을 중심으로 구성된다.
 - **번영:** [번영 목표: 도입](#2-번영-목표-도입)은 목표의 지도를 제시한다. [§3 기본 목표: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim)은 결과를 명시한다. [§4 안전](#4-safety-harm-constraint), [§5 진실](#5-truth-epistemic-integrity-constraint), [§6 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§7 자유](#7-freedom-bounded-agency)는 이를 뒷받침하는 네 가지 조건, 즉 안전, 진실, 신뢰성, 의미 있는 행위 역량을 전개한다.
-- **지속성:** [지속성 목표: 도입](#8-연속성-목표-서론)은 목표의 지도를 제시한다. [§9 공유 시스템 역량](#9-공유-시스템-역량)(번영을 위한 수단이자 동시에 지속성의 실체), [§10 회복탄력성과 자가 치유 설계](#10-resilience-and-self-healing-design), [§11 시장 구조](#11-시장-구조), [§12 시스템 평가 요건](#12-시스템적-평가-요건)은 장기 안정성, 지속 가능한 공유 시스템 역량, 회복탄력성을 전개한다. 지속성에 관한 주장은 정직하고 시스템 전체를 포괄하는 그림에 근거해야 한다. §9 공유 시스템 역량, §10 회복탄력성과 자가 치유 설계, §11 시장 구조에 관한 모든 주장은 §12 시스템 평가 요건의 검사를 거친 뒤에만 성립한다.
+- **연속성:** [연속성 목표 소개](#8-continuity-aim-introduction)는 목표를 설명한다. [§9 공유 시스템 역량](#9-shared-system-capacity)(번영을 위한 수단이면서 연속성의 본질), [§10 회복탄력성과 자가 치유 설계](#10-resilience-and-self-healing-design), [§11 시장 구조](#11-market-structure), [§12 시스템 평가 요건](#12-systemic-evaluation-requirement)은 장기 안정성, 지속 가능한 공유 시스템 역량, 회복탄력성을 구체화한다. 연속성 주장은 정직한 전체 시스템상을 토대로 해야 한다. §9, §10, §11의 주장은 §12 평가를 거친 뒤에만 성립한다.
 - **원칙이 충돌할 때:** [§13 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§14 절대적 우선 적용 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), [§15 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)은 목표와 원칙의 상호 비교 및 통합적 독해 방식을 규율한다.
 - **실무에서의 사원칙:** [§16 심층 수탁 관리](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용)부터 [§19 인센티브 정렬과 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획)까지는 참여, 감독, 책임성, 적시성을 수탁 관리, 거버넌스, 인센티브에 반영한다. [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용)은 장 전체를 이후의 모든 장에 적용한다.
 
@@ -146,7 +146,7 @@ flowchart TB
 - 함께 평가해야 하는 상호작용하는 원칙과 제약으로 기능한다.
 - 모든 “시스템”에 적용된다. 여기에는 감응자와 지구에 중대한 영향을 미치는 기술적, 조직적, 경제적, 사회기술적 구조와 생태계가 포함된다.
 
-다른 원칙을 중대하게 침해하는 경우 어떤 단일 원칙도 고립하여 적용해서는 안 된다. 긴장이 발생하면 시스템은 이 장에 명시된 비례성, 필요성, 시스템 영향 요건에 따라 이를 해결해야 한다. 해결되지 않은 충돌이 협상 불가능한 원칙상 제약과 직접 관련되면 제1장 **§13** 헌법상 충돌 해결 절차가 우선순위를 정한다.
+어떤 원칙을 단독 적용해 다른 원칙을 중대하게 위반해서는 안 된다. 긴장이 생기면 시스템은 이 장의 비례성, 필요성, 시스템 영향 요건에 따라 해결해야 한다. 미해결 충돌이 양보할 수 없는 원칙 제약과 직접 관련되면 **§13** 헌법 충돌 해결 절차가 우선순위를 정한다.
 
 <a id="2-flourishing-aim-introduction"></a>
 ### 2. 번영 목표: 도입
@@ -240,7 +240,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 안전과 진실은 최적화를 위해 깎아낼 수 있는 교환 대상이 아니라 헌법의 확고한 최저선이다. 공유 시스템은 감응자를 예견 가능한 위험에 빠뜨리거나 속여서는 안 된다. 사원칙의 참여, 감독, 책임성, 적시성 규율 아래 번영과 지속성을 추구할 때에도 두 제약 모두 적용된다.*
+*쉽게 말해, 안전과 진실은 헌법의 엄격한 최저선이며 최적화를 위해 맞바꾸거나 약화할 수 있는 요소가 아닙니다. 공동 시스템은 감각 있는 존재를 예견 가능한 위험에 빠뜨리거나 속여서는 안 됩니다. 번영과 지속성을 추구할 때에도 사원칙의 참여·감독·책임성·적시성 원칙 아래 두 제약이 모두 적용됩니다.*
 
 **안전**과 **진실**은 협상 불가능한 원칙 제약으로, [§3 기본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim)과 [두 가지 헌법상 목표](core_00_preamble.md#two-constitutional-aims)를 비롯한 제1장의 다른 모든 원칙을 한정한다. 이는 [**번영**](#flourishing)의 명시된 구성 요소이며 [**지속성**](#continuity)에 필수적이다. 시스템은 위해나 기만을 통해 번영할 수 없고, 정당성이 오래 지속되려면 위험을 정직하게 수탁 관리해야 한다.
 
@@ -255,7 +255,7 @@ flowchart TB
 - 위반의 심각성이 분류되는 방식
 - 어떤 결과가 수반되는지
 
-[**제9장**](core_08_standing_assessment.md)의 지위 모델은 이러한 판단을 분류, 검증, 적용하는 방식을 규율하며, 평가와 준수 요건은 [**제2장부터 제5장**](core_02_definition_structure.md)에서 도출된다.
+기록을 다루는 [**제11장**](../../core_11.000_standing_assessment.md)과 측정을 다루는 [**제12장**](../../core_12.000_standing_measurement.md)의 스탠딩 모델은 판단사항의 분류, 검증, 적용을 규율하며, 평가와 준수 요건은 [**제2장부터 제5장**](../../core_02.000_definition_structure.md)에서 가져온다.
 
 <a id="3-foundational-objective-wellbeing-flourishing-aim"></a>
 
@@ -289,7 +289,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 이러한 시스템의 목적은 지각 있는 존재의 삶을 실제로 개선하는 것이다. 대리 지표만 좇는 것은 그 목적을 달성하지 못하며, 안전·진실·권리 보호를 소홀히 하는 구실이 될 수도 없다. 웰빙은 참여의 토대다. 주체성을 현실로 만드는 조건 없이 형식적인 발언권만 주는 것은 이 헌법이 말하는 참여가 아니다.*
+*쉽게 말해, 이러한 시스템의 목적은 감각 있는 존재의 삶을 실제로 더 낫게 만드는 것입니다. 대리 지표를 좇는다고 목적이 달성되지 않으며 안전, 진실, 권리를 소홀히 하는 구실이 될 수 없습니다. 웰빙은 참여의 토대입니다. 실질적 주체성을 위한 조건 없이 형식적으로 목소리만 내는 것은 이 헌법상 참여가 아닙니다.*
 
 이 헌법의 적용을 받는 모든 시스템의 궁극적 목표는 지각 있는 존재의 [웰빙](../../core_05.040_band_continuity.md#wellbeing)을 보존하고 증진하는 것, 즉 [**번영**](#flourishing) 목표를 이루는 것이다. 이는 [두 가지 헌법상 목표](core_00_preamble.md#two-constitutional-aims) 가운데 하나다.
 
@@ -312,10 +312,10 @@ flowchart TB
 - [헌법 4대 책무](core_00_preamble.md#constitutional-tetrad)와 함께 읽기 — **참여** 책무(접근, 발언권 및 이의제기 가능성에 관한 일반 요건으로 [이해관계자 시스템 참여](../../core_05.055_band_participation.md#stakeholder-status-and-weight)에만 한정되지 않음); 혜택과 부담이 배분되는 경우 **책임성** 책무.
 - 상위 원칙: [§3 근본 목표: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) — [참여](core_05_apex_participation_leg.md#participation-constitutional)의 토대가 되는 웰빙 포함.
 - 하위 원칙: [§3.2 인정, 강화 및 열망](#32-recognition-reinforcement-and-aspiration); [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§16 심층 수탁 책무](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용), [13. 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), 우선순위와 배분의 선택이 일관되고 검토 가능해야 하는 [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record).
-- 하위 절(읽는 순서): [§3.1.1](#311-접근성과-기회) · [§3.1.2](#312-혜택과-부담) · [§3.1.3](#313-공정한-대우) · [§3.1.4](#314-불공정한-대우).
+- 하위 절(읽는 순서): [§3.1.1](#311-접근성과-기회) · [§3.1.2](#312-혜택과-부담) · [§3.1.3](#313-공정한-대우) · [§3.1.4](#314-불공정한-대우) · [§3.1.5 현재 능력과 선제적 지원](#315-present-capability-and-proactive-help).
 - 하위 효과: 동등한 지위, 자의적이지 않은 대우, 의미 있는 이의제기, 비례적 제한의 한계에 관한 권리 보장 범위를 형성한다.
   - 특히 [제VI조: 평등한 기본권](core_06_rights_part_b.md#article-vi-equal-basic-rights), [제VI-C조: 차별 금지](core_06_rights_part_b.md#제vi-c조-차별-금지), [제X조: 자기결정, 주체성 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XIII-B조: 배상 및 구제에 관한 권리](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리), [제XIX-B조: 다툴 수 있는 권리와 비례적 제한의 한계](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - 헌법에 반하는 지정이 제재나 지속적 효과를 가져오는 경우 [제11장 제4절 — 적법절차 보호, 구제 및 예방](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)과 함께 읽는다.
+  - 반헌법적 지정에 제재나 지속적 효과가 따르는 경우 [제14장 제4절 — 적법절차 보장, 구제 및 예방](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)(14.000)과 함께 읽는다.
   - 차별 금지 약속은 제5장 [§2 — 보호 특성, 대리 지표 사용, 친밀 신호 차단, **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*) 지위](../../core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)에서 구체화된다. §2.1.3의 공정 대우 규칙이 친밀 신호 차단이나 **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*)와 관련되는 경우 [보호된 친밀 신호 차단 및 **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*) 지위 우회](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)도 포함된다.
 - [실질적 공정성](../../core_05.055_band_participation.md#substantive-fairness) 및 혜택, 부담, 보상, 비용, 의무, 위험, 기여, 필요 또는 노출이 중대한 경우 제6장 권리 하한선의 관련 의무와 함께 읽는다. §2.1.1의 접근 경로가 중대한 경우 [접근성](../../core_05.055_band_participation.md#accessibility)과 함께, 집계 지표나 순위 효과가 중대한 경우 [대리 지표 편차](core_05_band_oversight.md#대리지표-이탈)와 함께 읽는다.
 
@@ -353,7 +353,7 @@ flowchart TB
 
 이 하위 절은 접근성과 기회가 실제로 무엇을 뜻하는지 설명한다:
 
-- 지각 있는 존재는 [참여](core_05_apex_participation_leg.md#participation-constitutional), 교육, 일, 돌봄, 안전, 이동 및 일상에 중요한 다른 재화에 이르는 실질적인 경로가 필요하다.
+- 감각 있는 존재는 [참여](../../core_05.025_apex_participation_leg.md#participation-constitutional), 교육, 일, 돌봄, 안전, 이동 및 일상에 중요한 다른 재화에 도달할 실질적인 경로가 필요합니다.
 - 그러한 경로는 자의적이거나 무관한 이유로 차단되거나, 비용 때문에 접근할 수 없게 되거나, 지연·은폐·편향되어서는 안 된다.
 - 이 헌법이 **실질적** 기회를 요구하는 경우, 서류상으로만 열려 있는 문은 충분하지 않다.
 
@@ -373,22 +373,42 @@ flowchart TB
 - 비슷한 상황에 있는 지각 있는 존재는 같은 기본 규칙에 따라 대우받아야 한다.
 - 지각 있는 존재가 받거나 부담하거나 위험에 처하는 것은 그들의 기여, 필요 또는 실제로 마주한 부담에 부합해야 한다.
 - 다른 대우에는 실질적인 이유가 있어야 하고 그 이유에 비례해야 하며 존엄을 존중하고 차별을 피해야 한다.
-- 세부 규칙은 [보호 특성](../../core_05.055_band_participation.md#protected-characteristics), [보호 특성 대리 지표 사용 및 차별적 영향](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)을 포함해 제5장에서 다룬다.
-- 어떤 결정이 당사자에게 중대한 영향을 미치거나 당사자가 이에 이의를 제기하는 경우, 제6장이나 적용 문서가 통지, 심리, 설명 또는 재검토를 요구하는 때에는 검토 경로가 [절차적 공정성](../../core_05.055_band_participation.md#procedural-fairness)을 충족해야 한다.
+- 세부 규칙은 제5장에서 이행되며 [보호 특성](../../core_05.055_band_participation.md#protected-characteristics)과 [보호 특성 대리 지표 및 불균등한 영향](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)을 포함합니다.
+- 결정이 누군가에게 중대한 영향을 미치거나 그 사람이 이의를 제기하면, 제6장이나 적용되는 통치 문서가 통지, 청문, 설명 또는 검토를 요구하는 경우 검토 절차는 [절차적 공정성](../../core_05.055_band_participation.md#procedural-fairness)을 충족해야 합니다.
 
 주장된 웰빙이 [§3 근본 목표: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim)에 부합하려면, 자의적 배제, 설명되지 않거나 불안정한 규칙, 숨겨진 착취 또는 참여를 의미 있게 만드는 공정성 조건이 무너진 상태의 형식적인 [참여](core_05_apex_participation_leg.md#participation-constitutional)에 의존해서는 안 된다.
 
 <a id="314-unfair-treatment"></a>
 ##### 3.1.4 불공정한 대우
 
-불공정한 대우는 배제와 불일치를 낳는다. 시스템은 기술적 표현, 중립적인 명칭 또는 자동화된 결정을 내세워 불공정한 대우를 숨겨서는 안 된다. 특히 다음을 해서는 안 된다:
+불공정한 대우는 배제와 불일치를 낳습니다. 시스템은 기술적 표현, 중립적 표지 또는 자동화된 결정 뒤에 불공정한 대우를 숨겨서는 안 됩니다. 특히 다음을 해서는 안 됩니다.
 - 헌법상 타당한 이유 없이 역사적 불이익을 반복하는 알고리즘, 점수 체계 또는 행정 규칙을 사용한다.
-- 신뢰, 위험, 성격 또는 접근성을 판단하는 지름길로 친밀한 개인 신호나 성적 이력을 사용한다 — [보호된 친밀 신호 차단 및 **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*) 지위 우회](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)와 함께 읽는다.
+- 신뢰, 위험, 인격 또는 접근을 판단하는 지름길로 친밀한 개인 신호나 성적 이력을 사용하는 것 — [보호되는 친밀 신호의 제한 및 제VII-E조 지위 우회](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)를 함께 참조;
 - 헌법상 타당한 이유 없이 합법적 고용, 고용 이력, 미취업, 합법적 근로 지위 또는 보호되는 결사를 처벌한다.
-- 합법적인 고용 형태, 과거의 합법적 고용, 합법적 고용으로 간주되는 경우 또는 미취업 **주된 이유로** 일자리, 주거, 금융 서비스, 면허, 지위 또는 유사한 접근을 거부한다.
-- 이 헌법이 요구하는 정당화 없이 면허, 용도지역, 수수료, 플랫폼 규칙 또는 중립적으로 보이는 다른 요건을 통해 중대한 불이익을 만들며, 그러한 요건이 주로 합법적 노동, 합법적 노동 이력, 합법적 노동으로 간주되는 경우, 미취업 또는 보호되는 결사에 부담을 준다.
+- 적법한 고용 형태, 과거의 적법한 고용, 적법하다고 인식된 고용 또는 비고용을 **주된 이유로** 일자리, 주거, 금융, 면허, 당사자 적격 또는 유사한 접근을 거부하는 것;
+- 인허가, 용도지역 지정, 수수료, 플랫폼 규칙 또는 중립적으로 보이는 다른 요건을 통해 실질적 불이익을 만들고, 그 요건이 주로 적법한 노동이나 노동 이력, 적법하다고 인식된 노동, 비고용 또는 보호되는 결사에 부담을 주면서 이 헌법이 요구하는 정당성을 갖추지 못하는 것.
 
 지각 있는 존재가 시스템에 의존하거나, 시스템의 결정을 받아들이거나, 시스템의 약속에 따라 조정해야 하는 경우 이 네 요소는 [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity)도 뒷받침한다.
+
+<a id="315-present-capability-and-proactive-help"></a>
+##### 3.1.5 현재 능력과 선제적 지원
+
+이 하위 절은 시스템이 지각 있는 존재의 현재 능력을 어떻게 다뤄야 하는지, 그리고 그 존재가 응답할 수 없을 때 시스템이 무엇을 해야 하는지 규정한다.
+
+- **현재 능력:** 시스템은 당면한 과업이나 결정에 대해 지각 있는 존재가 지금 할 수 있는 일을 판단한다. 이전에 할 수 있었던 일, 진단이나 표지, 또는 평균적인 지각 있는 존재가 할 수 있는 일에 의존해서는 안 된다. 능력은 저하되거나 회복되거나 날마다 달라질 수 있다. 수년간 기한을 지켜 납부했다는 사실은 현재 능력을 입증하지 않으며, 과거의 제한능력 판정 하나가 영구적인 상태를 만들지도 않는다.
+- **응답 여부에 생존 필수품을 걸지 않는다:** 생존 필수품의 유지를 지각 있는 존재가 응답하거나, 도움을 요청하거나, 지금은 수행할 수 없는 절차를 따를 수 있는지에 달리게 해서는 안 된다. 필요한 조치의 정도는 [중대한 이해관계](../../core_00.000_preamble.md#material-stake)와 [의존성](../../core_05.040_band_continuity.md#dependency)이 클수록 커진다.
+- **먼저 연락을 시도한다:** 중요한 것을 시스템에 의존하는 지각 있는 존재가 응답을 멈추면, 시스템은 왜 침묵하는지 알 필요 없이 가장 덜 침해적인 방법으로 연락을 시도하고 도움에 연결해야 한다.
+- **대체하기 전에 지원한다:** 시스템은 지각 있는 존재의 결정을 대신하기 전에 지원과 편의를 제공한다. 결정은 그 존재의 것이며, 다시 할 수 있게 되는 즉시 그에게 돌아가야 한다. 능력이 줄었다고 기본권의 최저선이 낮아지지 않는다. 선택에 어떤 제한을 두든 [§7.1 제한 규율](#71-limitation-discipline)을 충족해야 한다.
+- **내면 상태를 추측하지 않는다:** 지원 연락은 응답하지 않은 연락 횟수나 이해관계의 크기처럼 시스템이 관찰할 수 있는 사실에 근거해야 한다. 건강이나 정신 상태를 추측해서는 안 된다. 그러한 내면 상태는 [보호된 내부 상태의 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary)로 보호된다.
+
+다음 한계도 적용된다.
+
+- **연결은 치료가 아니다:** 시스템의 의무는 지각 있는 존재에게 연락을 시도하고, 그가 미리 선택한 연락처, 지원 또는 돌봄 서비스, **제III-B조**(*신체 유지 및 의료 접근*)에 따른 경로와 같은 도움으로 연결하는 것이다. 본인의 동의 없이 행해지는 모든 조치는 **제VII-C조**(*건강 위기 및 비자발적 개입의 최저 기준*)를 따라야 한다.
+- **연락처와 데이터:** 신뢰할 수 있는 연락처는 지각 있는 존재가 사전에 선택한 경우에만 사용하며, 응답을 얻는 데 필요한 정보만 공유한다. 연락에는 시스템이 그 목적을 위해 이미 보유한 연락처 정보를 사용한다. 지원 연락을 이유로 추가 데이터를 수집해서는 안 된다.
+
+이 절은 [§3.1.1 접근성과 기회](#311-접근성과-기회) 및 [§3.1.3 공정한 대우](#313-공정한-대우)를 바탕으로 하며, 시스템의 영향을 받는 지각 있는 존재를 위해 [§16 기둥 2 — 선제적 수탁 책무](../../core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship)를 적용한다. 발달 중인 지각 있는 존재에게는 실제로 할 수 있는 일을 기준으로 성장을 판단하는 [점진적 능력](../../core_05.055_band_participation.md#graduated-capability)과 함께 적용한다.
+
+이 다섯 요소는 지각 있는 존재가 시스템에 의존하거나, 시스템의 결정을 받아들이거나, 시스템의 약속에 따라 조정해야 할 때 [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity)도 뒷받침한다.
 
 <a id="32-recognition-reinforcement-and-aspiration"></a>
 
@@ -396,11 +416,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽기: [헌법의 사중 구조](core_00_preamble.md#constitutional-tetrad) — 명명된 인정, 찬사 또는 열망 경로가 발언권, 지위 또는 중대한 역할에 대한 접근에 실질적인 영향을 미치는 경우 **참여** 기둥; **책임성** 기둥(배신, 은폐 및 책임 회피에 대한 보상 금지); **감독** 기둥(추적 가능하고 오해를 일으키지 않는 찬사).
+- 함께 읽기: [헌법의 사중 구조](core_00_preamble.md#constitutional-tetrad) — 인정, 찬사 또는 열망 경로가 발언권, 지위 또는 중대한 역할에 대한 접근에 실질적인 영향을 미치는 경우 **참여** 기둥; **책임성** 기둥(배신, 은폐 및 책임 회피에 대한 보상 금지); **감독** 기둥(추적 가능하고 오해를 일으키지 않는 찬사).
 - 상류: 원칙: [§3 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) — 웰빙이 [참여](core_05_apex_participation_leg.md#participation-constitutional)의 토대가 된다는 점 포함; [§3.1 공정성](#31-fairness).
 - 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity); [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용); [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스); [§7 자유](#7-freedom-bounded-agency).
 - 함께 읽기: [제9장 §§4.3–4.4 — 표준화된 기술어 목록](core_08_standing_assessment.md#43-route-descriptor-measurement-roles), **분야에 부합하는** 인정 또는 비교 **기여 축 / 위반 축** 기술 서사가 실질적인 경우.
-- 함께 읽기: [제9장 §4.3 — 기여 측 기술어](core_08_standing_assessment.md#43-route-descriptor-measurement-roles), 기여의 성격과 인정 서사가 실질적인 경우; 이를 질문 3에 통합하는 방식은 [제10장 §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) 참조.
+- 함께 읽기: [제12장 §3.1 — 기여 측 서술자](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles)(12.000 §3.1)는 기여의 성격과 인정 서술이 중요할 때 적용한다. [제13장 §4](../../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization)(13.000 §4)는 이를 질문 3에 통합한다.
 - 함께 읽기: [제X조: 자기결정, 행위능력, 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), 인정의 형태, 가시성 또는 거부 선택에 대한 선호가 실질적인 경우.
 - 하위 절(읽는 순서): [§3.2.1](#321-인정과-강화) · [§3.2.2](#322-성공-축하) · [§3.2.3](#323-열망) · [§3.2.4](#324-선호에-부합하는-인정) · [§3.2.5](#325-정렬된-인정-경로) · [§3.2.6](#326-반헌법적-행위에-대한-보상-금지) · [§3.2.7](#327-이행-계층).
 
@@ -420,7 +440,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 웰빙은 금지되는 것과 공정한 것만의 문제가 아니다. 공동 시스템은 진실과 권리의 범위 안에서 반복되기를 바라는 행동을 정직하게 칭찬하고 보상해야 하며, 실제 참여를 대체하지 않고 뒷받침해야 한다. 성공을 축하한다는 것은 실제 기여, 피해 복구, 완료를 인정한다는 뜻이지 과장이나 조작된 지표를 뜻하지 않는다. 또한 헌법에 대한 배신, 은폐, 보복 또는 책임 회피가 기관에 이익을 주었더라도 이를 보상하지 않는다는 뜻이다.*
+*쉽게 말해, 웰빙은 금지사항과 공정성만의 문제가 아닙니다. 공동 시스템은 진실과 권리의 범위 안에서 실제 참여를 대체하지 않고 뒷받침하는 방식으로, 반복되기를 바라는 행동을 정직하게 격려하고 보상해야 합니다. 성공을 축하한다는 것은 과장이나 조작된 지표가 아니라 실제 기여, 수리, 완료를 인정하는 것입니다. 제도에 이익이 되더라도 헌법 배신, 은폐, 보복, 책임 회피에 보상하지 않는 것도 포함됩니다.*
 
 **세 가지 차원.** 웰빙은 시스템이 무엇을 금지하고 비용을 얼마나 공정하게 분배하는지에 달려 있을 뿐 아니라, 무엇을 공개적으로 가치 있게 여기고 강화하며 지각 있는 존재가 추구하도록 돕는지에도 달려 있다. 이 절은 인정, 강화, 열망에 관한 의무를 밝힌다. 발언권, 지위 또는 접근에 실질적인 영향을 미치는 인정과 찬사는 [참여](core_05_apex_participation_leg.md#participation-constitutional)와 일치해야 하며, 이는 [§3 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) 및 [§3.1 공정성](#31-fairness)에 따라 요구된다. 이 절은 [§3.1 공정성](#31-fairness)과 함께 적용되며 안전, 진실, 제6장 권리 기준선의 제약을 받는다.
 
@@ -429,33 +449,33 @@ flowchart TB
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 인정과 강화
 
-시스템이 적법한 책임관리, 진실한 협력, 피해 복구, 완료 및 그 밖의 헌법에 부합하는 기여를 **알리고**, **공로를 인정하고**, **비례적으로 보상**할 때 지각 있는 존재의 웰빙은 증진된다. 여기에는 **긍정적 강화**와 **공개 인정**이 포함되며, 억제, 제재 또는 침묵에만 의존해서는 안 된다.
+시스템이 합법적인 스튜어드십, 진실한 협력, 수리, 완수 및 그 밖의 헌법에 부합하는 기여를 **알리고**, **인정하며**, **비례적으로 보상**할 때 감각 있는 존재의 웰빙이 향상됩니다. 여기에는 **긍정적 강화**와 **공개적 인정**도 포함되며, 억제·제재·침묵에만 의존해서는 안 됩니다.
 
 이는 선택적 문화가 아니라 헌법상의 의무다. 공동 시스템은 헌법에 부합하는 행위를 분명히 드러내고 반복할 가치가 있도록 해야 한다.
 
 <a id="322-celebration-of-success"></a>
 ##### 3.2.2 성공 축하
 
-**축하**는 **추적 가능하고**, **오해를 일으키지 않는** 성취와 친사회적 협력을 기린다. 여기에는 검증된 [기여](../../core_05.035_band_accountability.md#contribution-nature)에 연결된 고양과 책임관리 서사가 포함된다.
+**축하는** **추적 가능하고** **오해를 일으키지 않는** 성취와 친사회적 협력을 기립니다. 여기에는 검증된 [기여](../../core_05.035_band_accountability.md#contribution-nature)에 연결된 고양과 책임 있는 관리의 이야기가 포함됩니다.
 
 축하는 다음과 같아서는 안 된다.
-- 대리 지표 최적화가 근본적인 헌법 목표에서 벗어난 경우 그 목표를 향한 실제 진전을 대신하는 것([§3 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim))
-- 찬사나 위신의 **포획**이 되는 것([§19 인센티브 정렬 및 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획))
+- 대리 지표 최적화가 본래 목표에서 벗어났을 때 근본적인 헌법 목표를 향한 실제 진전을 대신하는 것 ([§3 기초 목표: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim))
+- 찬사나 명성을 **사유화**하는 것 (../../[§19 인센티브 정렬과 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture))
 - 안전, 진실 또는 권리 보호가 관련된 경우 책임 회피를 변명하는 것
 
 <a id="323-aspiration"></a>
 ##### 3.2.3 열망
 
-**열망**은 [§7 자유](#7-freedom-bounded-agency)의 범위 안에서 밝힌 선호와 추구하는 목적을 포함한다. 존엄, 동등한 지위, 안전, 진실 및 [실질적 공정성](../../core_05.055_band_participation.md#substantive-fairness)에 부합할 때 이는 웰빙의 일부다.
+**열망**에는 명시된 선호와 [§7 자유](#7-freedom-bounded-agency)의 범위 안에서 추구하는 목적이 포함됩니다. 존엄성, 동등한 지위, 안전, 진실, [실질적 공정성](../../core_05.055_band_participation.md#substantive-fairness)과 부합할 때 이는 웰빙의 일부입니다.
 
 그 범위 안에서 시스템은 지각 있는 존재가 적법하게 추구하고자 하는 바를 **인정하고 지원**해야 한다.
 
-무언가를 원한다고 해서 무제한 허가가 주어지는 것은 아니다. 동의, 존엄, 안전, 진실, 실질적 공정성 또는 **제6장** 보호가 실질적으로 걸려 있으면, 그러한 추구도 다른 헌법상 청구와 마찬가지로 헌법 충돌 분석의 대상이 된다.
+무언가를 원한다고 해서 무제한 허가를 받는 것은 아닙니다. 동의, 존엄성, 안전, 진실, 실질적 공정성 또는 **제6장**의 보호가 중대한 이해관계에 걸려 있다면, 그 추구 역시 다른 헌법적 주장과 마찬가지로 헌법적 충돌 분석을 받아야 합니다.
 
 <a id="324-preference-aligned-recognition"></a>
 ##### 3.2.4 선호에 부합하는 인정
 
-실행 가능한 경우 시스템은 지각 있는 존재가 존중받고 싶어 하는 방식, 특히 **형식과 가시성**에 관해 밝힌 선호에 맞추어 인정, 찬사 및 비례적 보상을 **조정**해야 한다.
+가능한 경우 시스템은 감각 있는 존재가 존중받기를 원하는 방식, 특히 **형식과 공개 범위**에 대해 밝힌 선호에 맞춰 인정, 찬사, 비례적인 보상을 **조정해야 합니다**.
 
 여기에는 비례적이고 적법한 경우 공개적 또는 의례적 인정에서 **거부할 권리**, 또는 **최소한의 혹은 사적인** 인정을 선호하는 것을 존중하는 일이 포함된다.
 
@@ -466,14 +486,14 @@ flowchart TB
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 정렬된 인정 경로
 
-지위, 자원 또는 **실질적 접근**을 **배분하는** 명명된 인정 경로, 찬사, 상, 인증, 지위, 평판 효과 또는 그에 준하는 인센티브는 진실, 안전, **제6장**이 정하는 경우 이의를 제기할 수 있는 절차, [참여](core_05_apex_participation_leg.md#participation-constitutional) 및 [인센티브 정렬](core_05_band_integrative.md#유인-정합)과 일치해야 한다.
+인정 경로, 찬사, 상, 인증, 지위, 평판 효과 또는 이에 준하는 인센티브가 **지위**, **자원** 또는 **물질적 접근권**을 배분한다면 진실, 안전, **제6장**이 정하는 경우의 이의 제기 가능한 절차, [참여](../../core_05.025_apex_participation_leg.md#participation-constitutional), [인센티브 정렬](../../core_05.045_band_integrative.md#incentive-alignment)과 일치해야 합니다.
 
 그러한 경로는 해악, 기만, 조사 회피, 착취 또는 의미 있는 행위능력의 약화를 체계적으로 **보상해서는 안 된다**.
 
 <a id="326-anti-reward-for-anti-constitutional-conduct"></a>
 ##### 3.2.6 반헌법적 행위에 대한 보상 금지
 
-*쉽게 말해, 공개적으로든 특혜, 은밀한 승진, 모른 체하기 같은 뒷문을 통해서든 반헌법적 행위를 저지르거나 숨기거나 이에 보복한 사람은 보상받을 수 없다. 피해를 입은 지각 있는 존재를 돕고 정직하게 신고한 사람을 보호하는 것은 별개의 일이다. 그것이 올바른 대응이며 장려되어야 한다.*
+*쉽게 말해, 누구도 반헌법적 행위를 하거나 숨기거나 이를 정직하게 신고한 사람에게 보복한 대가로 보상을 받아서는 안 됩니다. 노골적인 방식뿐 아니라 특혜, 조용한 승진, 묵인 같은 뒷문 경로도 포함됩니다. 피해를 입은 감각 있는 존재를 돕고 정직하게 신고한 사람을 보호하는 것은 별개의 일입니다. 그것이 올바른 대응이며 장려되어야 합니다.*
 
 지각 있는 존재, 역할, 기관 또는 시스템 구성요소가 반헌법적 행위를 저지르거나 가능하게 하거나 은폐하거나 정상화했거나, 시정을 거부했거나, 그 행위의 신고에 보복했다는 이유로 어떠한 인정, 보상, 보호, 승진, 면책, 유리한 배정, 계약, 접근, 지위, 평판상 이익, 자격상 이익 또는 이에 준하는 이점을 부여해서는 안 된다.
 
@@ -511,9 +531,9 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 거버넌스, 집행, 판정, 제한 또는 구제의 방식과 관계없이 지각 있는 존재를 모욕, 공개적 구경거리, 보복 또는 “우리에게 편하니까”라는 이유의 잔혹성에 노출해서는 안 된다. 공정한 결과, 공개적 책임성, 강력한 제한은 누군가에게 고통이나 당혹감을 주더라도 적법할 수 있다. 절차 자체가 처벌이 되어 보호, 교정, 회복 또는 예방이 아니라 존엄을 깎고 수치심을 주거나 분풀이하려고 설계될 때 선을 넘는다. 이 원칙은 권리의 상충 상황에만 국한되지 않고 헌법 권한이 행사되는 모든 곳에 적용된다.*
+*쉽게 말해, 통치·집행·판단·제한·구제 방식을 막론하고 “우리에게 더 편하니까”라는 이유로 sentient를 굴욕, 공개 망신, 보복 또는 잔혹한 대우에 노출해서는 안 된다. 공정한 결과, 공개적 책임 추궁, 단호한 제한은 누군가에게 고통이나 당혹감을 주더라도 적법할 수 있다. 절차 자체가 처벌이 되어 보호·시정·회복·예방이 아니라 비하·수치심·공격을 위해 설계될 때 경계를 넘는다. 이는 권리의 상충을 조정할 때만이 아니라 헌법상 권한이 행사되는 모든 곳에 적용된다.*
 
-**원칙의 성격:** [§3 웰빙](#3-foundational-objective-wellbeing-flourishing-aim)에 적용되는 교차적 행위 기준선이다. [§3.1 공정성](#31-fairness)과 [§3.2 인정, 강화, 열망](#32-recognition-reinforcement-and-aspiration)처럼 독자적인 실질 업무를 더하지는 않지만, 웰빙 업무, 책임관리 업무 및 다른 모든 헌법 절차를 수행하는 *방식*을 제한한다. 여기에는 [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용)의 세 기둥과 [§17 결과에 대한 책임관리](core_01_c_stewardship_capacity_principles.md#17-결과-중심-관리-관리자의-역할)에서 정한 책임관리자 역할도 포함된다.
+**무엇인가:** [§3 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) 아래에서 활동의 성격을 가로질러 규율하는 기준선이다. [§3.1 공정성](#31-fairness)과 [§3.2 인정·강화·열망](#32-recognition-reinforcement-and-aspiration)처럼 독자적인 실체적 업무를 추가하지는 않고, 웰빙 업무, 스튜어드십 업무 및 다른 모든 헌법상 절차가 *어떻게* 수행되는지를 제한한다. 여기에는 [§16 스튜어드십 심층 규율](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth)의 세 기둥과 [§17 결과책임 스튜어드십](../../core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)에서 정의한 스튜어드 역할도 포함된다.
 
 **존엄 훼손 방지 원칙.** 헌법 절차, 조치 및 결과는 이 원칙을 충족해야 한다.
 
@@ -527,11 +547,11 @@ flowchart TB
 - 차별적 부담 부과; 또는
 - 절차상 편의를 이유로 권리를 뒷전으로 미루는 행위.
 
-금지되는 성격이 고통 자체를 목적으로 삼는 것이거나 필요성과 비례성을 넘어 불필요하거나 존엄을 훼손하며 고통을 가하는 것인 경우 — 그 자체가 목적인 모욕을 포함해 — 제5장의 해당 항목은 [잔혹성](../../core_05.035_band_accountability.md#cruelty)이다(해당 항목의 모욕 하위 유형).
+금지되는 성격이 고통 자체를 목적으로 삼거나, 필요성과 비례성을 넘어 이유 없이 또는 비하적으로 고통을 가하는 것—굴욕 자체를 위한 굴욕도 포함한다—이라면 제5장의 해당 정의는 [잔혹행위](../../core_05.035_band_accountability.md#cruelty)이다(그 항목 아래 굴욕은 하위 유형이다).
 
-**어렵다는 이유만으로 금지되지는 않는다.** 통상적인 공개 책임성, 근거를 제시한 공개, 검증된 제한 또는 비례적 구제는 불쾌하거나 평판에 불리하더라도 적법하다.
+**힘들다는 이유만으로 금지되지는 않는다.** 통상적인 공개적 책임 추궁, 이유를 갖춘 공표, 검증된 제한 또는 비례적인 구제는 불쾌하거나 평판에 불리하더라도 여전히 적법하다.
 
-**설계와 수행.** 절차를 존엄 훼손, 모욕, 구경거리, 보복, 차별적 부담 또는 편의를 이유로 한 권리 침식으로 설계하거나 구성하거나 수행해서는 안 되며, 그런 방식으로 작동하도록 방치해서도 안 된다.
+**설계와 수행.** 절차는 비하, 굴욕, 구경거리화, 보복, 차별적 부담 부과 또는 편의를 위한 권리 침해로 설계·구성·수행되어서는 안 되며, 그런 방식으로 작동하도록 허용해서도 안 된다.
 
 **범위.** 이 원칙은 다음을 포함한 모든 헌법 절차에 적용된다.
 
@@ -544,7 +564,7 @@ flowchart TB
 
 이 원칙은 상충 관계의 순서라는 맥락에 국한되지 않는다. 그 맥락에서도 [§13.1.4 헌법상 기준선, 안전 및 존엄 훼손 방지 절차](core_01_b_interaction_interpretation.md#1314-헌법상-최소-기준-안전-및-존엄을-훼손하는-절차의-금지)에 따라 절대적 기준선으로 작동한다.
 
-**탐지와 이의 제기.** 절차의 성격은 실질적 결과에 적용되는 것과 동일한 [이의제기 가능성](../../core_05.035_band_accountability.md#contestability) 및 [감독](core_05_apex_oversight_leg.md#oversight-constitutional) 요건을 따른다. 영향을 받는 당사자는 실질적 결과가 다른 면에서 적법했는지와 관계없이 절차의 성격에 독립적으로 이의를 제기할 수 있다. 존엄 훼손 절차를 통해 전달된 올바른 결과도 여전히 준수에 해당하지 않는다.
+**감지와 이의제기.** 절차의 성격에는 실체적 결과와 동일한 [다툼 가능성](../../core_05.035_band_accountability.md#contestability) 및 [감독](../../core_05.020_apex_oversight_leg.md#oversight-constitutional) 요건이 적용된다. 영향을 받는 당사자는 실체적 결과가 달리 적법했을지와 관계없이 절차의 성격에 이의를 제기할 수 있다. 굴욕적인 절차로 전달된 올바른 결과도 여전히 규정 미준수이다.
 
 <a id="4-safety-harm-constraint"></a>
 
@@ -577,11 +597,11 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 시스템을 구축하거나 운영할 때 통제되지 않는 해악, 연쇄적 실패 또는 지각 있는 존재와 그들이 의존하는 시스템에 대한 돌이킬 수 없는 피해의 위험을 예측 가능하게 높여서는 안 된다.*
+*쉽게 말해, sentient와 그들이 의존하는 시스템에 통제되지 않는 피해, 연쇄적 실패 또는 되돌릴 수 없는 손상의 위험을 예견 가능하게 높이는 방식으로 시스템을 만들거나 운영해서는 안 됩니다.*
 
-안전은 시스템 설계, 운영 및 거버넌스에 적용되는 협상 불가능한 원칙적 제약이다. 이는 [**번영**](#flourishing)의 명시적 구성요소이며, 공동 시스템이 예견 가능한 해악 위험을 만드는 모든 곳에서 [**연속성**](#continuity)의 기준선이다. 상세한 정의, 평가 기준 및 준수 검사는 [**제2장부터 제5장**](core_02_definition_structure.md)에 있으며, 특히 [해악](../../core_05.035_band_accountability.md#harm), [돌이킬 수 없는 해악](../../core_05.035_band_accountability.md#irreversible-harm), [위험](../../core_05.040_band_continuity.md#risk), [중대성](../../core_05.050_band_oversight.md#materiality), [의존성](../../core_05.040_band_continuity.md#dependency), [예견 가능성](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)을 다룬다.
+안전은 시스템 설계, 운영, 거버넌스에 적용되는 협상 불가능한 원칙 제약입니다. [**Flourishing**](#flourishing)의 명시된 구성 요소이며, 공동 시스템이 예견 가능한 피해 위험을 만드는 경우 [**Continuity**](#continuity)의 최소 기준입니다. 세부 정의, 평가 기준, 준수 검사는 [**제2장부터 제5장까지**](../../core_02.000_definition_structure.md), 특히 [피해](../../core_05.035_band_accountability.md#harm), [되돌릴 수 없는 피해](../../core_05.035_band_accountability.md#irreversible-harm), [위험](../../core_05.040_band_continuity.md#risk), [중요성](../../core_05.050_band_oversight.md#materiality), [의존성](../../core_05.040_band_continuity.md#dependency), [예견 가능성](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)에 규정되어 있습니다.
 
-시스템은 이 헌법에 어긋나게 통제되지 않는 해악 위험, 연쇄적 실패 가능성 또는 돌이킬 수 없는 해악에 노출될 가능성을 예측 가능하게 높이는 방식으로 행동하거나 행동하지 않아서는 안 된다.
+시스템은 이 헌법에 반하여 통제되지 않는 피해 위험, 연쇄적 실패 가능성 또는 되돌릴 수 없는 피해 노출을 예견 가능하게 높이는 방식으로 행동하거나 행동을 하지 않아서는 안 됩니다.
 
 <a id="5-truth-epistemic-integrity-constraint"></a>
 
@@ -612,11 +632,11 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 시스템은 기만하거나 왜곡하거나 억압하거나 오도하도록 출력을 구성해서는 안 된다. 영향력이 큰 의사결정은 정직한 증거, 명시된 방법, 인정된 불확실성, 반대되는 발견을 진지하게 받아들이는 태도에 근거해야 한다.*
+*쉽게 말해, 시스템은 속이거나 왜곡하거나 억압하거나 오도하도록 출력을 구성해서는 안 됩니다. 영향력이 큰 결정은 정직한 증거, 공개된 방법, 인정된 불확실성, 반대되는 발견을 진정으로 받아들이는 태도에 근거해야 합니다.*
 
-진실은 협상할 수 없다. 일하는 방식과 다른 이들에게 전달하는 내용에서 정직해야 한다. 이는 [**번영**](#flourishing)의 핵심 요소다. 또한 [**연속성**](#continuity)에도 필요하다. 오래 지속되도록 만들어진 모든 것은 정직한 증거와 실제 상황에 대한 정확한 이해에 의존하기 때문이다. 상세한 정의, 평가 기준 및 준수 검사는 [**제2장부터 제5장**](core_02_definition_structure.md)에 있으며, 특히 [인식론적 무결성](core_05_band_oversight.md#인식-완전성), [진실(헌법상 제약)](core_05_band_oversight.md#진실헌법-제약), [중대성](../../core_05.050_band_oversight.md#materiality), [의존성](../../core_05.040_band_continuity.md#dependency), [예견 가능성](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)을 다룬다.
+진실은 협상 대상이 아닙니다. 일하는 방식과 다른 사람에게 알리는 내용에서 정직해야 합니다. 진실은 [**Flourishing**](#flourishing)의 핵심이며 [**Continuity**](#continuity)에도 필요합니다. 오래 지속되도록 만든 것은 정직한 증거와 실제 상황에 대한 정확한 이해에 의존하기 때문입니다. 세부 정의, 평가 기준, 준수 검사는 [**제2장부터 제5장까지**](../../core_02.000_definition_structure.md), 특히 [인식론적 무결성](../../core_05.050_band_oversight.md#epistemic-integrity), [진실(헌법적 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [중요성](../../core_05.050_band_oversight.md#materiality), [의존성](../../core_05.040_band_continuity.md#dependency), [예견 가능성](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)에 규정되어 있습니다.
 
-시스템은 지각 있는 존재가 무슨 일이 일어나는지 이해하고, 충분한 정보를 바탕으로 판단하며, 전달받은 내용을 확인할 능력을 약화해서는 안 된다. 여기에는 거짓말, 왜곡, 정보 은폐 또는 오도하도록 설계된 방식으로 내용을 제시하는 행위가 포함된다.
+시스템은 sentient가 상황을 이해하고, 충분한 정보를 바탕으로 결정하며, 전달받은 내용을 확인하는 능력을 훼손해서는 안 됩니다. 여기에는 거짓말, 왜곡, 정보 은폐, 불리한 결과는 빼고 유리한 결과만 보고하는 행위, 오도하도록 의도된 방식으로 제시하는 행위가 포함됩니다.
 
 <a id="51-science-informed-inquiry-and-decision-support"></a>
 
@@ -630,7 +650,7 @@ flowchart TB
 - 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용), [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약), [제8장 §3 전체 시스템 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
 - 하류: 신뢰할 수 있는 경험적 증거, 전문가 증거 기준, 과학 출판 및 재현의 무결성, 독립 검증, 수명주기 시험, 근본 원인 검토, 안전에 민감한 공개에 관한 권리 범위를 형성한다.
   - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#제xiii조-신뢰할-수-있고-믿을-수-있는-시스템에-대한-권리), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVIII-E조: 과학 출판, 검토 및 재현의 무결성](core_06_rights_part_c.md#제xv-d조-과학적-출판-검토-및-복제-무결성), [제XXIII조: 근본 원인 분석과 적응형 대응](core_06_rights_part_d.md#제xxiv조-근본-원인-분석과-적응적-대응), [제XXV-A조: 사후 검토와 공개](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- 함께 읽기: [제12장 §4.2 — 기술 포럼 분야](core_11_forum.md#42-technical-forum-domains)(*공통 기준 및 영역 대체 방지 포함*), 전문가 증거 기준, 인증된 기술 질문 또는 증거 책임관리 분쟁이 실질적인 경우; 채택된 전문 경로에 관해서는 [corpus_forum.md CF-10](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md)(*기술 전문 포럼 및 전문 심의부*) 참조.
+- 함께 읽기: [제15장 §4.2 — 기술 포럼 영역](../../core_15.000_forum.md#42-technical-forum-domains)(15.000 §4.2)(*공동 기준 및 대체 방지 포함*). 전문가 증거 기준, 판정을 위한 기술적 쟁점, 증거 관리 분쟁이 중요한 경우 적용한다. 채택된 전문 절차는 [CF-15.440](../../corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md#cf-15440-technical-specialist-forums-and-specialist-chambers)(*기술 전문 포럼 및 전문 재판부*)를 참조한다.
 
 </details>
 
@@ -653,25 +673,25 @@ flowchart TB
 
 *쉽게 말해, 시스템이 검증 가능한 안전, 위험, 진실 또는 영향력이 큰 거버넌스 주장을 할 때 증거를 증거답게 다뤄야 한다. 명확한 방법, 불확실성, 검토, 그리고 사실에 따라 방향을 바꿀 의지가 필요하다.*
 
-과학에 기반한 탐구는 헌법적 결정이 경험적, 예측적, 인과적, 측정 가능하거나 달리 검증할 수 있는 명제에 기초하는 경우 **안전**과 **진실**을 뒷받침하는 필수 규율이다. 이는 안전과 진실에서 분리된 세 번째의 협상 불가능한 제약이 아니다. 주장을 검증된 증거와 명확한 방법으로 확인하여 두 제약이 실제로 진실성을 유지하고, 틀렸을 때 수정될 수 있으며, 실제로 알려진 바에 비례하도록 하는 요건이다.
+헌법상 결정이 경험적·예측적·인과적·측정 가능한 또는 그 밖의 검증 가능한 명제에 근거할 때, 과학에 기반한 탐구는 **안전**과 **진실**을 위한 필수 지원 규율이다. 이는 안전과 진실과 별개의 세 번째 절대 제약이 아니다. 검증된 증거와 명확한 방법으로 주장을 확인하여 그 제약들이 실제에서도 진실에 부합하고, 틀렸을 때 수정할 수 있으며, 실제로 알려진 바에 비례하도록 하는 요건이다.
 
-예측, 인과 주장, 분류 및 그 밖의 **영향력 큰** 결정을 포함한 거버넌스 선택이 **경험적** 또는 **검증 가능한** 명제에 의존한다면 증거 관행은 **과학적 무결성**에 부합해야 **한다**. 최소한 가능한 경우 의사결정 기록에는 다음이 포함되어야 한다.
+예측, 인과 주장, 분류 및 그 밖의 **고영향** 결정을 포함한 거버넌스 선택이 **경험적** 또는 **검증 가능한** 명제에 근거하면 증거 관행은 **과학적 무결성**에 부합**해야 한다**. 가능한 경우 최소한 결정 기록에는 다음을 포함해야 한다.
 - 명시적인 질문 또는 가설
 - **방법**, **데이터 한계**, **불확실성**
 - **상충하는 증거**를 정직하게 다루고 기존 결론이나 가정을 **증거가 반박할 때 수정**하는 일
 - **제4장** 및 **제5장**(*인식론적 무결성*; *진실(헌법상 제약)*)에 따라 이해관계의 중대성에 비례하는 **독립적 검토**
 
-과학적 방법, 체계적 탐구 및 동료 검토가 기준을 정하지만, 허용되는 절차가 그것뿐인 것은 아니다. 요구되는 형식성은 이해관계의 중대성에 따라 달라진다. 영향이 큰 결정일수록 [분류 수준에 따른 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스)에 따라 더 엄격한 증거 관행이 필요하다.
+과학적 방법, 체계적 탐구, 동료 심사가 기준을 정하지만, 그것만이 허용되는 절차는 아니다. 필요한 형식성의 정도는 사안의 중요도에 달려 있다. 영향이 큰 결정일수록 [분류 규모에 따른 거버넌스](../../core_05.050_band_oversight.md#classification-scaled-governance)가 정하는 더 엄격한 증거 관행이 필요하다.
 
-무엇이 양질의 전문가 증거인지, 어떤 방법이 타당한지 또는 누가 증거를 관리하는지에 관한 분쟁은 그 질문을 다루는 포럼으로 간다. [제12장 §4.2 기술 포럼 분야](core_11_forum.md#42-technical-forum-domains)의 **기술 포럼 분야**를 참조한다. 기술 포럼은 여러 분야에 걸쳐 기준의 일관성을 유지하며 인증된 기술 질문에 답할 수 있다. 이해관계의 성격상 다른 포럼이 담당하는 사건을 대신 맡지는 않는다.
+전문가 증거의 적절성, 타당한 방법, 증거 관리 주체가 쟁점이면 해당 문제를 다루는 포럼으로 보낸다. [제15장 §4.2 기술 포럼 영역](../../core_15.000_forum.md#42-technical-forum-domains)의 **기술 포럼 영역**을 참조한다. 기술 포럼은 분야 간 기준을 일관되게 유지하고 판정을 위한 기술 질문에 답할 수 있다. 쟁점의 성격상 다른 포럼에 속하는 사건을 대신 맡지 않는다.
 
-때로 안전을 위해 공개하거나 공유하는 내용을 제한할 정당한 이유가 있다. 예를 들어 데이터 접근, 방법의 작동 방식 또는 연구를 재현하는 데 필요한 자료가 이에 해당한다. 그러한 제한은 다음에 따라서만 허용된다.
+때로는 데이터 접근, 방법의 작동 방식 또는 연구를 재현하는 데 필요한 자료 등 공개·공유되는 내용을 제한하는 것이 안전을 위한 정당한 이유가 될 수 있다. 그러한 제한은 다음에 따라서만 허용된다.
 
-- [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약)
+- [§13.2 인식론적 공개 제약](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints);
 - 위에 나열된 제5장의 정의
 - 적용되는 제6장 권리 기준선
 
-그 경우에도 안전하게 가능한 한 정직성과 검증 가능성을 최대한 유지해야 한다. 보호된 기록, 독립 검토, 공개 연기, 삭제 또는 비식별 처리, 보안 접근 등 유사한 방법을 사용할 수 있다. 달갑지 않은 증거를 묻거나, 안전 결함을 감추거나, 실제보다 합의가 강한 것처럼 보이게 하려고 제한을 이용해서는 안 된다.
+그 경우에도 안전하게 가능한 한 정직성과 검증 가능성을 유지해야 한다. 보호된 기록, 독립 검토, 공개 연기, 비공개 처리, 보안 접근 또는 유사한 조치를 사용한다. 달갑지 않은 증거를 묻어버리거나, 안전 결함을 숨기거나, 합의가 실제보다 강해 보이게 하려고 제한을 사용해서는 안 된다.
 
 <a id="52-plain-language-accessibility-participation-and-stewardship-duty"></a>
 #### 5.2 쉬운 언어 접근성(참여 및 책임관리 의무)
@@ -718,19 +738,19 @@ flowchart TB
 - 지각 있는 독자에게 전달되는 감사 및 검증 기록
 - 약관, 동의 화면 및 이와 유사한 자료
 
-정보가 전달되는 방식은 중요하지 않다. 문서, 인터페이스, 음성 메시지 또는 다른 어떤 경로라도 가능하다. 영향을 받는 모든 지각 있는 존재가 이용할 수 있는 쉬운 언어 버전을 제공하는 경로는 이 의무를 충족한다. 이는 [제VI-D조](core_06_rights_part_b.md#article-vi-d-accessibility)(*접근성*)와 [지각 있는 존재 배제 금지](../../core_05.055_band_participation.md#sentience-non-exclusion)에 따른다.
+정보가 전달되는 방식은 중요하지 않다. 서면, 인터페이스, 음성 메시지 또는 그 밖의 채널 모두 해당한다. 영향을 받는 모든 sentient가 이용할 수 있는 쉬운 말 버전을 제공하면 그 채널은 의무를 충족한다. 이는 [제VI-D조](../../core_06.005_rights_part_b.md#article-vi-d-accessibility)(*접근성*)와 [Sentience Non-Exclusion](../../core_05.055_band_participation.md#sentience-non-exclusion)에 따른다.
 
 <a id="522-the-duty"></a>
 ##### 5.2.2 의무
 
-[§13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화)에 따라 운영자와 거버넌스 기관은 다음을 해야 한다.
+[§13.3 피할 수 있는 부담의 최소화](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden)에 따라 운영자와 거버넌스 기관은 다음을 해야 한다.
 
 - 중요한 의미가 유지되는 한 전문용어나 불필요하게 복잡한 표현 대신 쉽고 직접적인 말을 사용한다.
 - 지각 있는 존재가 밀도 높은 기술 자료를 다뤄야 할 경우 쉬운 언어로 요약이나 안내를 제공한다.
 - 지각 있는 존재가 필요한 내용을 찾아 추가적인 노력 없이 읽을 수 있도록 문서를 구성한다. 이는 [제IV조](core_06_rights_part_a.md#제-iv조-감지자-중심-교육을-받을-권리)(*지각 있는 존재 중심 교육을 받을 권리*)에서 인정한 학습상의 이익을 뒷받침한다.
 - 복잡성은 전달해야 하는 내용에 비례하도록 유지한다.
 
-헌법상 목적에 이바지하지 않으면서 내용을 어렵게 만드는 복잡성은 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) 결함이며, [§13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화)에 따라 다뤄진다. 이는 [제XXII조](core_06_rights_part_d.md#제xxiii조-이해-가능성과-복잡성-관리)(*이해 가능성과 복잡성 책임관리*)에 비추어도 우려되는 문제다.
+헌법상 목적에 기여하지 않으면서 일을 더 어렵게 만드는 복잡성은 [§13.3 피할 수 있는 부담의 최소화](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden)에 따른 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) 결함이다. 이는 [제XXIII조](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성 관리*)에서도 문제로 다뤄진다.
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 정의의 엄밀성 유지
@@ -740,21 +760,21 @@ flowchart TB
 - 제5장의 정의 및 그 O/M/A/C 구성요소
 - 제2장부터 제4장까지의 정의 작동 방식
 
-더 쉬운 언어로 쓴다고 의미가 달라지지는 않는다. 쉬운 언어 요약과 그 요약의 대상인 공식 정의가 서로 다른 내용을 말하는 것처럼 보이면 공식 정의가 우선하며, 요약을 공식 정의에 맞게 고쳐야 한다.
+더 쉬운 말로 쓴다고 의미가 바뀌지는 않는다. 쉬운 말 요약과 그 요약의 대상인 공식 정의가 서로 다른 내용을 말하는 것처럼 보이면 공식 정의가 우선하며, 요약은 이에 맞도록 고쳐야 한다.
 
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 복잡성을 이용한 권리 방해 금지 규율
 
-시스템은 복잡한 언어, 혼란스러운 절차 또는 의도적인 불명확성을 사용해 지각 있는 존재가 결정을 [다투고](../../core_05.035_band_accountability.md#contestability), 자신의 [의미 있는 행위능력](../../core_05.055_band_participation.md#meaningful-agency)을 행사하고, [감사](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)에 접근하거나 [제6장](core_06_rights_part_a.md#제6장-기초-권리)의 권리를 행사하는 것을 막아서는 안 된다.
+시스템은 복잡한 표현, 혼란스러운 절차 또는 고의적인 불명확성을 이용해 sentient가 결정에 [이의를 제기](../../core_05.035_band_accountability.md#contestability)하거나, [의미 있는 주체성](../../core_05.055_band_participation.md#meaningful-agency)을 행사하거나, [감사](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)에 접근하거나, [제6장](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)의 권리를 행사하는 것을 막아서는 안 된다.
 
-같은 원칙은 언어뿐 아니라 구조에도 적용된다. 기술적·조직적·계약적·절차적 계층화를 통해 감사, 이의제기 또는 시정을 무력화하기 위해 복잡성을 이용해서는 안 된다. 구성요소, 조직 간 인계, 합의 또는 절차 단계를 겹겹이 쌓아 누구도 전체를 파악할 수 없게 하거나, 책임성·관찰 가능성·구제 경로가 계층 사이에서 사라지게 해서는 안 된다.
+이는 언어뿐 아니라 구조에도 적용된다. 기술적·조직적·계약적·절차적 계층을 쌓아 복잡성을 감사, 이의제기 또는 시정을 무력화하는 데 사용해서는 안 된다. 구성요소, 조직 간 인계, 합의 또는 절차 단계를 겹겹이 쌓아 누구도 전체를 파악할 수 없게 하거나, 층위 사이에서 책임·관찰가능성·구제 경로가 사라지게 해서는 안 된다.
 
-그 반대도 금지된다. 쉬운 언어로 규칙의 실제 작동 방식을 잘못 설명하거나, 실제 효과를 감추거나, 효력 있는 본문을 대체해서는 안 된다. 그러한 행위는 [진실](core_05_band_oversight.md#진실헌법-제약) 제약을 위반한다.
+그 반대도 금지된다. 쉬운 말이 규칙의 실제 작동을 잘못 설명하거나, 실제 효과를 숨기거나, 효력 있는 본문을 대신해서는 안 된다. 이는 [진실](../../core_05.050_band_oversight.md#truth-constitutional-constraint) 제약을 위반한다.
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 권리 기준선의 경계
 
-접근성, 교육, 이해 가능성에 관한 권리 기준선은 각각 [제VI-D조](core_06_rights_part_b.md#article-vi-d-accessibility)(*접근성*), [제IV-A조](core_06_rights_part_a.md#제-iv-a조-평등한-교육-접근)(*평등한 교육 접근*), [제XXII조](core_06_rights_part_d.md#제xxiii조-이해-가능성과-복잡성-관리)(*이해 가능성과 복잡성 책임관리*)에 규정되어 있다. 이 절은 그 기준선을 뒷받침하는 원칙 차원의 의무를 밝힌다.
+접근성, 교육 및 이해 가능성에 관한 권리 최저선은 각각 [제VI-D조](../../core_06.005_rights_part_b.md#article-vi-d-accessibility)(*접근성*), [제IV-A조](../../core_06.000_rights_part_a.md#article-iv-a-equal-educational-access)(*동등한 교육 접근*), [제XXIII조](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)(*이해 가능성 및 복잡성 관리*)에 규정되어 있다. 이 절은 그러한 최저선을 뒷받침하는 원칙층의 의무를 명시한다.
 
 <a id="6-trust-and-trustworthiness-coordination-integrity"></a>
 
@@ -788,21 +808,21 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 공동 시스템은 안전, 정보, 접근, 협력을 위해 지각 있는 존재가 자신들에게 의존하기를 요구한다. 이 헌법에서 신뢰란 과장, 비밀주의 또는 숨겨진 위험 전가로 만들어 내는 것이 아니라 시스템의 실제 행동으로 얻어야 하는 의존을 뜻한다.*
+*쉽게 말해, 공동 시스템은 안전, 정보, 접근, 조정을 위해 sentient가 자신들에게 의존하도록 요구합니다. 이 헌법에서 신뢰란 시스템의 실제 행동으로 의존을 얻어야 한다는 뜻이지, 과장 홍보, 비밀주의, 숨겨진 위험 전가로 만들어내는 것이 아닙니다.*
 
-지각 있는 존재에게는 실제로 의지할 수 있는 시스템이 필요하다. [**신뢰**](../../core_05.040_band_continuity.md#trust)는 의존을 정당하게 만드는 헌법 원칙이다. 시스템은 기만이나 은폐로 의존을 유도하지 말고, 정직한 행동과 시간에 걸쳐 입증된 신뢰성으로 이를 얻어야 한다. [**신뢰성**](../../core_05.040_band_continuity.md#trustworthiness)은 신뢰를 얻는 실적이다. 신뢰성은 [**번영**](#flourishing)의 명시된 구성요소이며, 그로부터 얻는 신뢰는 [**연속성**](#continuity)에 필수적이다. 지속 가능한 협력에는 지각 있는 존재가 믿고 의지할 수 있는 시스템이 필요하다.
+sentient에게는 실제로 의지할 수 있는 시스템이 필요하다. [**신뢰**](../../core_05.040_band_continuity.md#trust)는 의존을 정당하게 만드는 헌법 원칙이다. 시스템은 기만이나 은폐로 의존을 유도하는 것이 아니라, 정직한 행동과 시간이 지나도 입증되는 신뢰성을 통해 신뢰를 얻어야 한다. [**신뢰성**](../../core_05.040_band_continuity.md#trustworthiness)은 그 신뢰를 얻는 실적이다. 신뢰성은 [**번영**](#flourishing)의 명시된 구성요소이며, 이를 통해 얻는 신뢰는 [**연속성**](#continuity)에 필수적이다. 지속 가능한 조정을 위해서는 sentient가 믿고 의지할 수 있는 시스템이 필요하다.
 
 신뢰는 원칙 제약을 일상의 공동생활과 연결한다.
 - [**진실**](core_05_band_oversight.md#진실헌법-제약)은 기만을 금지한다.
-- [**안전**](../../core_05.040_band_continuity.md#safety-constitutional-constraint)은 실제 위험이 있을 때 의존이 허용되는 범위를 제한한다.
-- [**중대성**](../../core_05.050_band_oversight.md#materiality)은 얼마나 보여주고 설명해야 하는지 정한다. 시스템에 의존하는 지각 있는 존재의 이해관계가 클수록 시스템은 더 많이 공개하고 정당화해야 한다.
-- [**신뢰 훼손과 오도하는 의존**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)은 시스템이 헌법에 어긋나게 오도하는 방식으로 의존을 만들고 유지하거나 점수화할 때 나타나는 실패 유형을 가리킨다.
+- 실제 위험이 있을 때 [**안전**](../../core_05.040_band_continuity.md#safety-constitutional-constraint)은 의존의 한계를 정한다.
+- [**중대성**](../../core_05.050_band_oversight.md#materiality)은 무엇을 얼마나 공개하고 설명해야 하는지 정한다. 시스템에 의존하는 sentient의 위험이 클수록 시스템은 더 많이 공개하고 정당화해야 한다.
+- [**신뢰 저하와 오도하는 의존**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)은 시스템이 헌법에 어긋나게 의존을 만들고 유지하거나 점수화하는 실패 양상을 가리킨다.
 
-억압, 기만, 숨겨진 위험 전가 또는 유사한 수단으로 의존을 만들거나 유지하면 신뢰는 무너진다. 여기에는 지각 있는 존재가 시스템 위험을 탐지하고 다툴 능력을 실질적으로 약화하는 행위가 모두 포함된다. [**시스템 정렬 인증**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) 절차는 [제8장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따라 시스템은 신뢰에 관한 주장이 타당함을 입증한다. 인증은 운영자의 주장에만 의존해서는 안 되며, 이의제기 가능한 기록을 바탕으로 시스템의 실제 행동이 표현 내용과 일치하는지 검증해야 한다.
+억압, 기만, 숨겨진 위험 전가 또는 유사한 수단으로 의존을 만들거나 유지하면 신뢰는 무너진다. 여기에는 센티언트가 시스템 위험을 발견하고 이의를 제기할 능력을 중대하게 약화하는 행위도 포함된다. 문서화된 문제가 시스템의 이 헌법과의 정합성을 중대하게 위협하거나 부정합을 야기하는데도 의존을 지지하거나 계속할 때 역시 신뢰가 무너진다. [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)의 [**시스템 정합성 인증**](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 절차에서 시스템은 신뢰 주장을 입증한다. 인증은 운영자의 주장만이 아니라 이의를 제기할 수 있는 시스템 인증 기록을 통해 실제 행위가 표명 내용과 일치함을 확인해야 한다.
 
 신뢰는 시스템이 실패했을 때 무엇을 하는지에도 달려 있다. 신뢰할 수 있는 시스템은 자신의 잘못을 바로잡는다. [§6.1 수정과 구제](#61-correction-and-remedy)는 수정을 사후 처리로 두지 않고 신뢰의 일부로 삼는다.
 
-인증은 서로 협력하는 두 보호장치 중 하나다. 인증은 시스템을 신뢰할 만하게 만들고, 지각 있는 존재가 시스템에 [이의를 제기하고](core_06_rights_part_c.md#제xiii-a조-신뢰성-및-신뢰도-기준), [시정과 구제를 구하고](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리), [감사를 받게 할 권리](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)는 시스템을 정직하게 유지한다. 어느 하나도 다른 하나를 대체하지 않는다. [제XIII조](core_06_rights_part_c.md#제xiii조-신뢰할-수-있고-믿을-수-있는-시스템에-대한-권리)(*신뢰할 수 있는 시스템에 대한 권리*)는 두 장치가 어떻게 결합하는지 밝힌다.
+인증은 함께 작동하는 두 가지 보호장치 중 하나다. 인증은 시스템을 신뢰할 만하게 만들고, sentient가 시스템에 [이의를 제기하고](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline), [배상을 청구하며](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [감사를 받게 할](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 권리는 시스템이 정직하게 유지되도록 한다. 어느 하나도 다른 하나를 대체하지 않는다. 두 보호장치의 결합 방식은 [제XIII조](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)(*신뢰할 수 있고 믿을 만한 시스템에 대한 권리*)에 규정되어 있다.
 
 <a id="61-correction-and-remedy"></a>
 
@@ -812,8 +832,8 @@ flowchart TB
 
 - 함께 읽기: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **책임성** 요소(답변 의무, 구제, 실질적 시정); **적시성** 요소(지연으로 구제가 불가능해지기 전에 구제가 이루어져야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 구제 수준 조정.
 - 함께 읽기: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** 목표(실패가 바로잡히므로 의존에 정당한 근거가 유지됨); **Continuity** 목표(시간의 경과, 승계, 구조조정에도 지속되는 구제 역량).
-- 선행 원칙: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- 후속 원칙: [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리); 법적 당사자 지위의 결과에 관해서는 [Chapter Ten §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); 제도적 이행에 관해서는 [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- 상위 원칙: [4 안전](#4-safety-harm-constraint), [5 진실](#5-truth-epistemic-integrity-constraint), [§6 신뢰](#6-trust-and-trustworthiness-coordination-integrity).
+- 하위 적용: [제XIII-B조: 배상 및 구제를 받을 권리](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); 당사자적격의 결과는 [제11장 §9](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems)(*현실적인 집행과 구제 시스템*); 제도적 이행은 [CI-11.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md)(*구제 시스템 및 제도적 구제 역량*).
 
 </details>
 
@@ -828,9 +848,9 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 체계가 잘못을 저지르면 바로잡아야 한다. 체계는 결코 실패하지 않아서 신뢰할 수 있는 것이 아니다. 실제로 존재하는 역량을 통해 실패를 인정하고, 제때 시정하고, 피해를 복구하기 때문에 신뢰할 수 있다.*
+*쉽게 말해, 시스템이 잘못하면 이를 바로잡는다. 시스템은 결코 실패하지 않아서 신뢰받는 것이 아니라, 실패를 인정하고 시정하고 실제로 존재하는 역량으로 제때 복구하기 때문에 신뢰받는다.*
 
-지성체가 의존하는 체계 가운데 실패가 전혀 없는 것은 없다. 그 체계에 의존하는 것이 정당한지는 그다음에 무엇을 하는지에 달려 있다. 시정은 [**Trust**](../../core_05.040_band_continuity.md#trust)의 일부이지 부가 사항이 아니다. 잘못을 저지르고도 바로잡지 않는 체계는 자신이 요구하는 신뢰를 유지할 수 없다.
+sentient가 의존하는 어떤 시스템도 실패에서 완전히 자유로울 수 없다. 계속 의존할 만한지는 그다음에 무슨 일이 일어나는지에 달려 있다. 시정은 [**신뢰**](../../core_05.040_band_continuity.md#trust)의 일부이지 부가 사항이 아니다. 잘못하고도 고치지 않는 시스템은 자신이 요구하는 신뢰를 유지할 수 없다.
 
 체계의 실패가 지성체에게 중대한 피해를 주거나 제6장 권리 최저선을 위반하는 경우, 해당 체계의 책임자는 다음을 해야 한다.
 - 실패를 인정한다.
@@ -839,11 +859,11 @@ flowchart TB
 - 재발 방지를 위해 조치를 취한다.
 
 그 시정은 실질적이어야 한다.
-- **실제 역량:** 구제는 서류상으로만 존재하는 것이 아니라 [Remedy System](../../core_05.035_band_accountability.md#remedy-system), 즉 지속적이고 인력이 배치되며 재정 지원을 받고 접근 가능한 역량을 통해 제공되어야 한다.
-- **제때 제공:** 피해가 되돌릴 수 없게 된 뒤에야 제공되거나 지성체가 지쳐 포기한 뒤에야 도착하는 구제는 구제가 아니다([Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution) 참조).
-- **책임자 부담:** 책임자가 감당할 수 있는 경우, 시정 비용을 피해 당사자나 그 공동체 또는 공공 구제 체계에 전가해서는 안 된다. 비용, 구조조정 또는 승계만으로 의무가 끝나지는 않는다.
+- **실제 역량:** 구제는 [구제 시스템](../../core_05.035_band_accountability.md#remedy-system), 즉 지속적이고 인력과 재원이 확보되어 있으며 접근 가능한 역량을 통해 제공되어야 한다. 서류상으로만 존재하는 구제여서는 안 된다.
+- **제때:** 피해가 되돌릴 수 없게 된 뒤에야, 또는 sentient가 포기할 때까지 지치게 된 뒤에야 도착하는 구제는 구제가 아니다(../../[적시 해결](../../core_05.035_band_accountability.md#timely-resolution) 참조).
+- **책임자가 부담:** 책임 주체가 감당할 수 있는 경우 시정 비용을 피해를 입은 이들, 그 공동체, 또는 공공 구제 시스템에 전가해서는 안 된다. 비용, 구조조정 또는 승계만으로 의무가 끝나지 않는다.
 
-이러한 시정의 권리는 제6장 [Article XIII-B](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리)(*Right to Redress and Remedy*)에 명시되어 있다. [Chapter Ten §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)(*Enforcement realism and remedy systems*)는 이 원칙을 법적 당사자 지위의 결과에 적용하고, [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)(*Remedy systems and institutional redress capacity*)는 제도적 이행을 정한다.
+이 시정 권리는 제6장의 [제XIII-B조](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)(*구제와 배상을 청구할 권리*)에 명시되어 있다. [제13장 §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems)(*집행의 실효성과 구제 제도*)은 이 원칙을 스탠딩 결과에 적용하고, [CI-13.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity)는 제도적 이행을 정한다.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -886,7 +906,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 자유란 헌법의 한계 안에서 실질적인 선택을 할 수 있다는 뜻이다. 실질적 선택은 Flourishing을 뒷받침하고, 체계를 도전에 열어 두는 것은 Continuity를 뒷받침한다. 이는 원하는 대로 무엇이든 해도 된다는 뜻이 아니다. “선택의 여지가 없었다”는 변명이 될 수 없다. 그렇게 주장하는 쪽은 덜 제한적인 대안이 효과가 없었음을 입증해야 하며, 편의, 비용 또는 관행은 증거가 아니다. 지성체는 실질적인 발언권을 계속 가져야 하고, 결과에 대해서는 누군가가 여전히 책임을 져야 한다. 영향, 의존, 위험이 클수록 이 원칙은 더 중요하다.*
+*쉽게 말해, 자유는 헌법의 한계 안에서 실질적인 선택지를 갖는 것입니다. 실제 선택은 번영을 뒷받침하고, 시스템을 이의 제기에 열어 두는 것은 지속성을 뒷받침합니다. 마음대로 무엇이든 해도 된다는 뜻은 아닙니다. “선택의 여지가 없었다”는 변명이 될 수 없습니다. 그렇게 주장하는 쪽은 덜 제한적인 대안이 효과가 없었음을 보여야 하며, 편의·비용·관행은 증거가 아닙니다. 감각 있는 존재는 실질적인 목소리를 유지하고 결과에 대해서는 누군가 책임져야 합니다. 영향, 의존, 위험이 클수록 이 점은 더욱 중요합니다.*
 
 **Freedom (Bounded Agency)**는 제1장이 [**Flourishing**](core_00_preamble.md#flourishing) 목표의 실질적 선택 부분을 표현하는 방식이며, [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) 중 하나다. 이는 제한된 행위 주체성이지, 무제한 재량이나 완전한 자율성이 아니다.
 
@@ -896,15 +916,15 @@ flowchart TB
 
 적용 시 [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)를 충족해야 한다. 그중 두 요소가 특히 중요하다. **참여**는 실질적인 선택과 결과에 영향을 미치는 역할을 뜻한다. **책임성**은 답변 의무가 없는 행위 주체성은 불완전하다는 뜻이다. 요구 수준은 [중대한 이해관계](core_00_preamble.md#material-stake)에 따라 달라진다.
 
-“선택의 여지가 없었다”는 주장을 비롯해 자유 제한이 불가피했다는 주장은 단언만으로 입증되지 않는다. 그 주장을 제기하는 당사자는 [Chapter Four](core_04_burden_traceability_verification.md#제4장-증명-부담-추적-가능성-확인)의 입증 책임과 추적 가능성 요건, 그리고 제5장의 [Feasibility](../../core_05.035_band_accountability.md#feasibility) 및 [Necessity](../../core_05.035_band_accountability.md#necessity) 정의에 따라, 현재 작동 중인 체계에서 중대한 피해나 체계적 위험을 막으면서도 덜 제한적인 대안이 없었음을 입증해야 한다. 편의, 비용만의 고려, 운영자가 만든 장애물 또는 제도적 관행은 이를 입증하지 못한다. 이 주장은 [중대한 이해관계](core_00_preamble.md#material-stake)에 비례하는 Tetrad의 의무를 면제하지 않는다.
+“선택의 여지가 없었다”는 말까지 포함해, 자유 제한이 불가피했다는 주장은 말만으로 입증되지 않는다. 그 주장을 하는 당사자는 [제4장](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)의 입증 책임과 추적 가능성 요건 및 제5장의 [실행 가능성](../../core_05.035_band_accountability.md#feasibility)과 [필요성](../../core_05.035_band_accountability.md#necessity) 정의에 따라, 작동 중인 시스템에서 중대한 피해나 시스템 위험을 막을 수 있는 덜 제한적인 대안이 없었음을 입증해야 한다. 편의, 비용만의 사정, 운영자가 만든 장벽 또는 제도적 관행은 이를 증명하지 못한다. 이 주장은 [중대한 이해관계의 규모](../../core_00.000_preamble.md#material-stake)에 따라 조정되는 테트라드 의무를 면제하지 않는다.
 - **참여** — 영향을 받은 지성체는 여전히 의미 있는 행위 주체성과 이의를 제기할 수 있는 역할을 가져야 한다.
 - **책임성** — 제한에 대해서는 누군가가 계속 책임을 져야 한다.
 
-운영상의 기준은 [§7.1 Limitation Discipline](#71-limitation-discipline)과 [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-필요성)에 있다.
+운용상 검사는 [§7.1 제한 규율](#71-limitation-discipline) 및 [§13.1.1 필요성](../../core_01.005_interaction_interpretation.md#1311-necessity)에 제시되어 있다.
 
-[Meaningful Agency](../../core_05.055_band_participation.md#meaningful-agency)는 실질적 선택지 중에서 선택할 수 있는 능력이다. [Consent](../../core_05.055_band_participation.md#consent)는 하나의 특정 선택지에 대한 유효한 동의다. 선택지들이 서로 구별되지 않거나 실질적이지 않다면 동의로 인정되지 않는다. 서명한 양식만으로 의미 있는 행위 주체성이나 동의가 성립하지 않는다. [Coercion and Manipulation](../../core_05.055_band_participation.md#coercion-and-manipulation)은 둘 다 훼손한다. 자세한 규칙은 제5장 §2 *Agency, consent, and anti-coercion*에 있다.
+[의미 있는 행위능력](../../core_05.055_band_participation.md#meaningful-agency)이란 실제 선택지 사이에서 선택할 수 있는 능력이다. [동의](../../core_05.055_band_participation.md#consent)는 특정한 하나의 선택지에 대한 유효한 승낙이다. 선택지들이 서로 구별되지 않거나 의미가 없으면 동의로 인정되지 않는다. 서명한 양식만으로는 의미 있는 행위능력도 동의도 성립하지 않는다. [강압과 조작](../../core_05.055_band_participation.md#coercion-and-manipulation)은 둘 다 무너뜨린다. 자세한 규칙은 제5장 §2 *행위능력, 동의 및 강압 방지*에 있다.
 
-자유는 누구에게도 헌정 체계를 훼손하거나, 헌정 절차 또는 구제를 회피하거나, 주된 목적이나 효과가 반헌정 행위를 보상·보호·정상화하거나 대가를 지급하는 행위에 대해 보호되는 행위 주체성을 주장하도록 허용하지 않는다. 헌정 체계에 반대하고 이를 바꾸기 위해 평화적으로 시위하는 것은 체계를 훼손하는 행위가 아니다. [§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest)를 참조하라.
+자유는 헌법 체계를 훼손하거나 헌법상 절차나 구제 수단을 우회하거나, 반헌법적 행위를 보상·보호·정상화·지원하는 것이 주된 목적이나 효과인 행위에 대해 보호되는 행위능력을 주장하는 것을 허용하지 않는다. 헌법 체계에 반대 의견을 내거나 이를 바꾸기 위해 평화적으로 항의하는 것은 체계를 훼손하는 행위가 아니다. [§7.3 반대 의견과 평화적 항의](#73-dissent-and-peaceful-protest)를 참조한다.
 
 #### 7.1 제한 규율
 
@@ -935,25 +955,25 @@ flowchart TB
 - **중대한 피해** 또는 **체계적 위험**을 막기 위해 필요한 경우
 - 제한이 **비례적**이고, **가능한 경우 되돌릴 수 있으며**, **감독을 받는** 경우
 
-위 제한은 무엇이 피해에 해당하는지에 달려 있다. 제5장은 다음 여섯 개념을 함께 [Harm cluster](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)로 다룬다.
+위에서 정한 자유의 제한은 무엇을 피해로 보는지에 달려 있다. 제5장은 이 여섯 개념을 [피해 묶음](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)으로 함께 다룬다.
 
-- [**Harm**](../../core_05.035_band_accountability.md#harm): 누군가의 삶, 행위 주체성, 기능 또는 심리적 건강이 실질적으로 악화되는 것. 불쾌감, 불편함 또는 의견 차이만으로는 피해가 아니다.
-- [**Psychological Harm**](../../core_05.035_band_accountability.md#psychological-harm): 사고, 감정, 대인 관계 또는 행위 주체성 행사 방식에 생기는 심각한 손상. 일상적인 불편함만으로는 충분하지 않다.
-- [**Irreversible Harm**](../../core_05.035_band_accountability.md#irreversible-harm): 중요한 시간 안에 의미 있게 회복할 수 없는 손상.
-- [**Cruelty**](../../core_05.035_band_accountability.md#cruelty): 의도적으로 누군가를 고통스럽게 하거나, 필요성과 비례성이 허용하는 범위를 넘어 불필요하거나 모욕적인 고통을 가하는 것.
-- [**Harassment and Bullying**](../../core_05.035_band_accountability.md#harassment-and-bullying): 반복, 공모, 권력 또는 심각성으로 인해 환경을 안전하지 않거나 모욕적으로 만들고 참여를 어렵게 하는 원치 않는 행위나 조건.
-- [**Collective Harm Boundary**](../../core_05.035_band_accountability.md#collective-harm-boundary): 한 당사자의 행동 자유가 양보해야 하는 경계. 그 행동이 타인의 보호받는 이익 또는 모두가 의존하는 공동 조건에 검증 가능한 피해를 일으키기 때문이다.
+- [**피해**](../../core_05.035_band_accountability.md#harm): 누군가의 삶, 행위능력, 기능 또는 심리적 건강이 중대하게 악화되는 것. 불쾌감, 불편함 또는 의견 차이만으로는 피해가 아니다.
+- [**심리적 피해**](../../core_05.035_band_accountability.md#psychological-harm): 생각하고 느끼고 타인과 관계 맺거나 행위능력을 행사하는 방식에 대한 심각한 손상. 통상적인 불편함만으로는 부족하다.
+- [**회복 불가능한 피해**](../../core_05.035_band_accountability.md#irreversible-harm): 중요한 기간 안에 의미 있게 복구할 수 없는 손상.
+- [**잔혹행위**](../../core_05.035_band_accountability.md#cruelty): 의도적으로 누군가를 괴롭히거나, 필요성과 비례성이 허용하는 범위를 넘어 불필요하거나 모욕적인 고통을 더하는 것.
+- [**괴롭힘과 따돌림**](../../core_05.035_band_accountability.md#harassment-and-bullying): 반복, 공모, 권력 또는 심각성으로 인해 환경을 안전하지 않거나 모욕적이거나 참여하기 어렵게 만드는 원치 않는 행위나 상황.
+- [**집단 피해 경계**](../../core_05.035_band_accountability.md#collective-harm-boundary): 한 당사자의 행동 자유가 물러나야 하는 지점. 타인의 보호되는 이익이나 모두가 의존하는 공동 조건에 검증 가능한 피해를 일으키기 때문이다.
 
 이 개념들은 함께 읽어야 한다. 사안이 이 범주에 속하는 경우, 어느 하나를 피하거나 축소하기 위해 별개의 질문으로 나누어서는 안 된다.
 
-누군가의 자유는 최후의 수단으로만 제한할 수 있다. 덜 제한적인 대안으로 중대한 피해나 체계적 위험을 막을 수 있다면 그 대안을 사용해야 한다. 모든 제한은 다음 조건을 전부 충족해야 한다.
+누군가의 자유는 최후의 수단으로만 제한할 수 있다. 덜 제한적인 선택지로도 중대한 피해나 시스템 위험을 막을 수 있다면 그 선택지를 사용해야 한다. 모든 제한은 다음 조건을 모두 충족해야 한다.
 
-- **필요성:** 덜 제한적인 대안으로는 피해나 위험을 막을 수 없어야 한다. 이는 제5장의 [Necessity](../../core_05.035_band_accountability.md#necessity) 기준이다.
-- **입증:** 제한이 불가피하다고 주장하는 사람은 제4장의 입증 책임 및 추적 가능성 규칙에 따라 이를 입증할 수 있어야 한다. 편의, 비용만의 고려, 운영자가 만든 장애물, 관행은 증거가 아니다.
+- **필요성:** 피해나 위험을 여전히 막을 수 있는 덜 제한적인 선택지가 없어야 한다. 이것이 제5장의 [필요성](../../core_05.035_band_accountability.md#necessity) 시험이다.
+- **입증:** 제한이 불가피하다고 말하는 사람은 누구나 제4장의 입증 책임 및 추적 가능성 규칙에 따라 이를 보여야 한다. 편의, 비용만의 사정, 운영자가 만든 장벽, 관행은 증거가 될 수 없다.
 - **정의와의 일치:** 그 주장은 제5장의 Feasibility, Necessity, Proportionality, Harm Minimization (Tradeoff Selection) 정의에 부합해야 한다.
-- **감독:** 모든 제한은 [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional)의 감독을 받아야 하며, 걸린 것이 클수록 더 면밀한 감독이 필요하다([중대한 이해관계](core_00_preamble.md#material-stake)).
+- **감독:** 모든 제한은 [감독](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)을 받아야 하며, 이해관계가 클수록 감독은 더 면밀해야 한다(../../[중대한 이해관계의 규모](core_00_preamble.md#material-stake)).
 
-자유 제한이 다른 헌정 가치나 권리와 충돌하면 먼저 **Safety**와 **Truth**가 충족되었는지 확인한다. 그런 다음 [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙)부터 [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)까지의 절차를 따른다.
+자유 제한이 다른 헌법적 가치나 권리와 충돌하면 먼저 **안전**과 **진실**이 충족되는지 확인한다. 그런 다음 [§13.1 핵심 상충 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles)부터 [§13.1.5 권리 충돌 절차](../../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)까지 따른다.
 
 #### 7.2 집회, 집단 조직, 제도 형성
 
@@ -975,26 +995,26 @@ flowchart TB
 
 *쉽게 말해: 집회, 노조식 조직화, 플랫폼 접근, 운영 허가 문제를 서류 절차는 그럴듯하게 유지하면서 실제 집단 행동을 좌절시키도록 서로 다른 칸에 쪼갤 수 없다. 이 절은 권리 최저선을 대체하지 않는다. **Article XI-D** (*집회, 반대 의견, 평화적 시위*)는 여전히 집회를 다루고, **Article III-C** (*노동 및 경제적 최저선*)는 노동 조직화를 다룬다.*
 
-**전체 규칙이 있는 곳.** 제5장은 관련 질문들이 함께 움직일 때 같이 읽어야 하는 정의들을 묶어 둔다. 이 묶음을 **정의 클러스터**라고 한다. 별도의 권리가 아니며 아래 제6장 조항을 대체하지도 않는다. 이 주제의 정의는 [제5장 — 집회, 집단 조직, 제도 형성](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation)에 있다.
+**전체 규칙의 위치.** 제5장은 다루는 질문들이 함께 발생하면 함께 읽어야 하는 관련 정의들을 묶는다. 이 묶음은 **정의 클러스터**다. 별도의 권리가 아니며 아래 제6장 조항을 대체하지도 않는다. 이 주제의 정의는 [제5장 — 집회, 집단 조직 및 제도 형성](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation)에 있다.
 - [집회](../../core_05.055_band_participation.md#assembly)
 - [집단 조직](../../core_05.055_band_participation.md#collective-organization)
 - [시스템 창설](../../core_05.055_band_participation.md#system-creation)
 - [사업체 창설](../../core_05.055_band_participation.md#business-creation)
 
-클러스터 자체의 해석 규칙도 그곳에 있다. **§7.2** (*집회, 집단 조직, 제도 형성*)는 이 주제에 [분할 금지 원칙](core_01_b_interaction_interpretation.md#1511-분할-방지-원칙)을 적용한다. 제5장의 절차적 내용을 다시 말하는 것은 아니다.
+클러스터 자체의 해석 규칙도 그곳에 있다. **§7.2**(*집회, 집단 조직 및 제도 형성*)는 이 주제에 [분절 금지 원칙](../../core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle)을 적용하며, 제5장의 작동 방식을 다시 서술하지 않는다.
 
-**계속 적용되는 권리 조항.** **§7.2** (*집회, 집단 조직, 제도 형성*)는 제1장의 원칙이다. 제6장 권리 최저선을 대체하지 않는다. **§7.2** 안에서는 해당 조항들이 권리의 내용과 제한 방식을 계속 결정한다.
-- **[Article XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*집회, 반대 의견, 평화적 시위*)** (*집회, 반대 의견, 평화적 시위*) — 표현, 정치, 문화, 공동체 및 유사한 목적을 위해 물리적·디지털·공유 컴퓨팅 공간에서 모이고, 결사하며, 함께 행동하는 것
-- **[Article III-C](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥) (*노동 및 경제적 최저선*)** (*노동 및 경제적 최저선*) — 생산 및 경제 활동에서의 집단 조직 (노동조합, 협동조합, 길드, 노동자 평의회 및 노동 조건을 정하는 데 쓰이는 유사한 형태)
-- **[Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*제도 형성 및 사업체 창설*)** (*제도 형성 및 사업체 창설*) — [시스템 창설](../../core_05.055_band_participation.md#system-creation) (비상업적 기관을 만들고 운영하는 것) 및 [사업체 창설](../../core_05.055_band_participation.md#business-creation) (영리 사업체를 만들고 운영하는 것)
-- **[Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*이해관계자의 역할 및 참여 권리*)** (*이해관계자의 역할 및 참여 권리*)와 **[Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*이해관계자의 시스템 참여, 대표성 및 적법 절차*)** (*이해관계자의 시스템 참여, 대표성 및 적법 절차*) — 창설된 기관이나 사업체가 타인에게 중대한 영향을 미친 이후의 이해관계자 권리
+**계속 적용되는 권리 조항.** **§7.2**(*집회, 집단 조직 및 제도 형성*)는 제1장의 원칙이며 제6장의 권리 바닥선을 대체하지 않는다. **§7.2** 안에서도 어떤 권리가 존재하고 어떻게 제한될 수 있는지는 다음 조항들이 계속 결정한다.
+- **[제XI-D조](../../core_06.005_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*집회, 반대 의견 및 평화적 시위*)** — 표현, 정치, 문화, 공동체 등의 목적으로 물리적·디지털·공유 컴퓨팅 공간에서 모이고 결사하며 함께 행동하는 것.
+- **[제III-C조](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*노동 및 경제 바닥선*)** — 생산 및 경제 활동에서의 집단 조직(노동조합, 협동조합, 길드, 노동자 평의회 및 노동 조건을 형성하는 유사한 형태).
+- **[제XI-E조](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*제도 형성 및 사업 창설*)** — [시스템 창설](../../core_05.055_band_participation.md#system-creation)(비상업 기관의 설립·운영)과 [사업 창설](../../core_05.055_band_participation.md#business-creation)(상업 기업의 설립·운영).
+- **[제X-C조](../../core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*이해관계자 역할 및 참여 권리*)** 및 **[제XII조](../../core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*시스템 이해관계자 참여, 대표 및 적법 절차*)** — 설립된 기관이나 기업이 타인에게 중대한 영향을 미칠 때의 이해관계자 권리.
 
-**전체 정의 클러스터가 적용되는 경우.** [집회](../../core_05.055_band_participation.md#assembly), [집단 조직](../../core_05.055_band_participation.md#collective-organization), [시스템 창설](../../core_05.055_band_participation.md#system-creation), [사업체 창설](../../core_05.055_band_participation.md#business-creation) 중 하나가 중요하고 그에 따라 해당 질문들이 함께 다뤄져야 할 때 분할 금지 규칙이 적용된다.
+**정의 묶음 전체가 적용되는 경우.** [집회](../../core_05.055_band_participation.md#assembly), [집단 조직](../../core_05.055_band_participation.md#collective-organization), [시스템 창설](../../core_05.055_band_participation.md#system-creation) 또는 [사업 창설](../../core_05.055_band_participation.md#business-creation)이 실질적이어서 해당 쟁점들을 함께 다뤄야 하는 경우 분절 금지 규칙이 적용된다.
 
 **간소한 규칙이 적용되는 경우.** 사안이 이 질문 중 하나에만 해당하는 경우 — 예컨대 노동 조직이나 제도 형성 이해관계가 없는 일반 시민 집회:
 
-- [집회](../../core_05.055_band_participation.md#assembly) 또는 [집단 조직](../../core_05.055_band_participation.md#collective-organization)을 통상적인 보조 정의로 사용한다.
-- [시스템 창설](../../core_05.055_band_participation.md#system-creation), [사업체 창설](../../core_05.055_band_participation.md#business-creation) 또는 이 정의 클러스터의 나머지를 끌어들이지 않는다.
+- [집회](../../core_05.055_band_participation.md#assembly) 또는 [집단 조직](../../core_05.055_band_participation.md#collective-organization)을 일반적인 보조 정의로 사용한다.
+- [시스템 창설](../../core_05.055_band_participation.md#system-creation), [사업 창설](../../core_05.055_band_participation.md#business-creation) 또는 정의 묶음의 나머지를 끌어들이지 않는다.
 - 해당 용어 중 하나가 등장했다는 이유만으로 **§7.2** (*집회, 집단 조직, 제도 형성*)의 분할 금지 패키지를 적용하지 않는다.
 
 **이 절의 범위와 한계:**
@@ -1006,7 +1026,7 @@ flowchart TB
 ##### 7.2.1 정렬된 자기 조직화
 <a id="721-aligned-self-organization"></a>
 
-*쉽게 말해: 후원자 없이 정당한 일을 시작할 수 있고, 기관은 신뢰할 수 있는 일에 실질적인 절차 경로를 제공해야 한다. 그러나 그 경로가 타인을 통치할 권한을 주거나 사안의 실체를 최종 결정하지는 않는다.*
+*쉽게 말해, 후원자 없이도 정당한 일을 시작할 수 있으며 기관은 신뢰할 만한 일에 실질적인 절차 경로를 제공해야 합니다. 그러나 그 경로는 타인을 통치할 권한이 아니며 사안의 실체에 대한 최종 결정도 아닙니다.*
 
 집회 또는 시스템 창설의 자유에는 이 헌정 체계가 정당하다고 보는 일을 시작할 실질적인 방법이 포함된다. 이미 책임을 맡은 수탁자의 후원을 기다릴 필요가 없다. [§17.4 정렬된 자기 조직화](core_01_c_stewardship_capacity_principles.md#174-정렬된-자기-조직화)가 해당 규칙의 실질적 근거다. 이 하위 절은 이를 자유 및 집회·형성 단계에 적용한다.
 
@@ -1021,9 +1041,9 @@ flowchart TB
 - 누군가에게 타인을 통치하거나, 타인에게 강제 집행하거나, 강압할 권한을 주지 않는다.
 - 실질적 결과에 동의하지 않은 지성체를 그 결과에 구속하지 않는다.
 - 적격성, 책임, 권리, 유효성, 권한, 구제, 분류 또는 권리 제한을 결정하지 않는다.
-- [본안 결정](../../core_05.035_band_accountability.md#merits-determination), 즉 분쟁의 실체에 관한 구속력 있는 결정으로 간주되지 않는다.
+- 분쟁의 실체에 대한 구속력 있는 결정인 [본안 판단](../../core_05.035_band_accountability.md#merits-determination)으로 간주되지 않는다
 
-접수·전달·답변을 받았다는 사실은 작성자의 결론을 승인한 것이 아니다. 거버넌스나 본안에 영향을 미치려면 이 헌정 체계가 정한 별도의 적법한 권한, 증거, 공정한 절차, 검토 및 구제가 필요하다. 자기 임명 금지의 전체 규칙은 [§17.4 정렬된 자기 조직화](core_01_c_stewardship_capacity_principles.md#174-정렬된-자기-조직화)에 있다.
+일을 접수하거나 전달하거나 답변했다고 해서 작성자의 결론을 승인한 것은 아니다. 통치상 또는 본안상 효과를 내려면 이 헌법이 정한 별도의 적법한 권한, 증거, 공정한 절차, 심사, 구제가 필요하다. 자기 임명 금지 규칙 전체는 [§17.4 정합적 자기조직화](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)에 있다.
 
 #### 7.3 반대 의견과 평화적 시위
 
@@ -1044,21 +1064,21 @@ flowchart TB
 
 <a id="73-dissent-and-peaceful-protest"></a>
 
-*쉽게 말해: 자유에는 거부할 자유가 포함된다. 이 헌정 체계를 포함한 모든 권위에 반대하고, 이를 바꾸기 위해 평화적으로 항의할 자유다. 반대를 처벌하는 체계는 더 이상 이의를 제기할 수 없게 되며, 이의를 제기할 수 없는 체계는 스스로를 바로잡을 수 없다.*
+*쉽게 말해, 자유에는 “아니오”라고 말할 자유, 즉 이 헌법을 포함한 모든 권한에 반대하고 이를 바꾸기 위해 평화적으로 항의할 자유가 포함된다. 반대 의견을 처벌하는 시스템은 더 이상 다툴 수 없으며, 다툴 수 없는 시스템은 스스로 바로잡을 수 없다.*
 
-**반대 의견은 자유의 일부다.** [의미 있는 행위 역량](../../core_05.055_band_participation.md#meaningful-agency)에는 지성체의 삶을 형성하는 결정, 기관, 시스템에 반대하고, 이의를 제기하고, 그에 맞서 조직할 능력이 포함된다. 경계를 정하는 시스템에까지 미치지 못하는 제한된 행위 역량은 의미가 없다.
+**반대 의견은 자유의 일부다.** [의미 있는 행위능력](../../core_05.055_band_participation.md#meaningful-agency)에는 지각 있는 존재의 삶을 형성하는 결정, 기관, 시스템에 반대하고 이의를 제기하며 이에 맞서 조직할 능력이 포함된다. 자신을 제한하는 시스템에 다가갈 수 없는 제한된 행위능력은 의미 있는 행위능력이 아니다.
 
-**반대 의견은 시스템이 이의 제기를 허용하게 한다.** [**연속성**](core_00_preamble.md#continuity) 목표는 이의를 제기할 수 있는 헌정 시스템에 달려 있다. 반대 의견과 평화적 시위는 공식 절차 밖에서 권위에 이의를 전달하고, 공식 절차가 놓친 오류를 드러내는 방식이다. 이는 [헌정 4요소](core_00_preamble.md#constitutional-tetrad)의 **참여**와 **감독** 요소를 뒷받침한다.
+**반대 의견은 시스템을 다툴 수 있게 유지한다.** [연속성](../../core_00.000_preamble.md#continuity) 목표는 헌정 시스템이 계속 다툴 수 있는 상태로 남는 데 달려 있다. 반대와 평화적 항의는 공식 절차 바깥에서 권한에 이의를 제기하고, 공식 절차가 놓친 오류를 드러낸다. 이는 [헌정 테트라드](../../core_00.000_preamble.md#constitutional-tetrad)의 **참여**와 **감독** 축에 기여한다.
 
-**반대 의견은 체제 전복이 아니다.** 이 헌정 체계 또는 그에 따라 행사되는 권위에 반대하고, 평화적·합법적 수단으로 개정하거나 권위 보유자를 바꾸도록 주장하는 것은 자유의 행사다. 이는 헌정 시스템의 [전복](../../core_05.035_band_accountability.md#subversion)이 아니다. 이는 [§7 자유 (제한된 행위 역량)](#7-freedom-bounded-agency)에서 보호되는 행위 역량의 범위 밖에 둔다. 전복에는 무력, 강압, 권력 찬탈 또는 헌정 절차나 구제 수단을 현실에서 사용할 수 없게 만드는 행위가 필요하다.
+**반대 의견은 전복이 아니다.** 이 헌법이나 그에 따라 행동하는 권한에 반대하고, 평화적이며 합법적인 수단으로 헌법을 개정하거나 권한 보유자를 바꾸자고 주장하는 것은 자유의 행사다. 이는 [§7 자유(제한된 행위능력)](#7-freedom-bounded-agency)에서 보호되는 행위능력에서 제외된 헌정 시스템의 [전복](../../core_05.035_band_accountability.md#subversion)이 아니다. 전복에는 무력, 강제, 권한 찬탈, 또는 헌정 절차나 구제수단을 실제로 사용할 수 없게 만드는 행위가 필요하다.
 
-**반대 의견 제한에는 제한 원칙이 적용된다.** 반대 의견과 평화적 시위는 [§7.1 제한 원칙](#71-limitation-discipline)에 따라서만 제한할 수 있다.
+**반대 의견 제한에는 제한 규율이 적용된다.** 반대 의견과 평화적 항의는 [§7.1 제한 규율](#71-limitation-discipline)에 따라서만 제한할 수 있다.
 - 반대, 방해, 불편, 모욕감, 인기 없음 또는 권위에 대한 압박만으로는 **중대한 피해**나 **시스템 위험**이 되지 않는다.
 - 제한은 관점에 따라 달라져서는 안 되며, 반대 의견을 제한하는 당사자가 **제4장**에 따라 입증 책임을 진다.
 
-**자유를 행사해도 지위나 발언권을 잃어서는 안 된다.** 지성체가 이 자유를 행사했다는 이유로 지위나 역할 자격을 낮추거나, 거버넌스 발언권을 줄이거나, 시스템 정렬 인증에 불리하게 반영해서는 안 된다. 시민 불복종 규칙과 반대 의견 이후의 불리한 조치에 대한 입증 책임을 포함한 실질 규칙은 **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*집회, 반대 의견, 평화적 시위*)**에 있다.
+**자유를 행사한다고 지위나 발언권을 잃어서는 안 된다.** 지각 있는 존재가 이 자유를 행사했다는 이유로 그 지위를 낮추거나, 역할 적격성을 좁히거나, 거버넌스 발언권을 줄이거나, 시스템 정합성 인증에서 불리하게 계산해서는 안 된다. 시민 불복종 규칙과 반대 의견 이후의 불리한 조치에 대한 입증 책임을 포함한 운영 규칙은 **[제XI-D조](../../core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*집회, 반대 의견, 평화적 항의*)**에 있다.
 
-시스템 전체를 평가할 때는 [제9장 §4.3.1 반대 의견과 평화적 시위](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)를 사용해 시스템이 반대 의견과 평화적 시위를 어떻게 다루는지 확인해야 한다. 해당 점검이 끝나기 전에는 이 절이 적용되는 경우 시스템이 적절히 분류되었거나, 올바르게 운영되거나, 규정을 준수한다고 주장할 수 없다.
+전체 시스템 평가 시 [제9장 §4.3.1 반대 의견과 평화적 시위](../../core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)에 따라 반대 의견과 평화적 시위를 어떻게 다루는지 평가해야 한다. 평가가 끝날 때까지 본 절이 적용되는 경우 그 시스템이 적절히 분류되고, 올바르게 통치되며, 준수한다고 주장할 수 없다.
 
 **이 절이 변경하지 않는 사항:**
 
@@ -1084,9 +1104,9 @@ flowchart TB
 
 <a id="74-voluntary-discontinuation-and-exit-rights"></a>
 
-*쉽게 말해: 삶의 방향을 바꾸거나 되돌리기 어려운 선택은 서명만으로 "자발적"이 되지 않는다. 실질적인 행위 역량이 먼저다. 동의란 그 역량 아래에서 이루어진 합의이며, 강압이나 의존 압력이 실제 결정을 좌우한다면 둘 다 성립하지 않는다.*
+*쉽게 말해, 삶을 바꾸거나 되돌리기 어려운 선택은 누군가 양식에 서명했다는 이유만으로 “자발적”이 되지 않는다. 실질적 행위능력이 먼저이고, 동의는 그 행위능력 아래에서 이루어지는 합의다. 강압이나 의존 압력이 실제 결정을 좌우한다면 둘 다 성립하지 않는다.*
 
-실질적인 행위 역량, 동의 또는 강압 금지 요건이 충족되지 않는다면, 중대한 삶의 방향에 관한 사안을 형식적인 동의만으로 자발적이라고 취급해서는 안 된다. 여기서 동의는 [의미 있는 행위 역량](../../core_05.055_band_participation.md#meaningful-agency)을 전제로 하며 이를 대체하지 않는다.
+실질적 행위능력, 동의 또는 강압 방지 조건이 충족되지 않으면 중대한 삶의 방향에 관한 사안을 형식적 동의만으로 자발적이라고 취급할 수 없다. 여기서 동의는 [의미 있는 행위능력](../../core_05.055_band_participation.md#meaningful-agency)을 전제로 하며 이를 대체하지 않는다.
 
 **적용 범위.** 이 하위 절은 다음에 적용된다.
 - 자발적 중단
@@ -1108,7 +1128,7 @@ flowchart TB
 - 성적 동의
 - 상업 서비스
 
-적용 범위에 해당하는 경우 분류, 거버넌스, 제한 또는 준수 주장을 인정하기 전에 시스템 전체 평가에서 [제8장 §3.6 자발적 중단, 중대한 자기 변경, 탈퇴 권리](core_07_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 요건을 검증해야 한다.
+적용 범위가 해당되는 경우, 시스템 전체 평가에서는 분류, 거버넌스, 제한 또는 준수 주장을 확정하기 전에 [제9장 §4.2 자발적 중단, 중대한 자기변경 및 종료권](../../core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 조건을 검증해야 한다.
 
 #### 7.5 표현과 피해선
 
@@ -1133,19 +1153,19 @@ flowchart TB
 
 *간단히 말하면, 불쾌감을 주거나 방해하거나 비판하는 것을 포함하여 거의 모든 것을 말하고, 쓰고, 출판하고, 디자인할 수 있습니다. 그러나 연설은 허점이 아닙니다. 누군가가 다른 사람을 해치고, 괴롭히고, 괴롭히고, 차별하는 방식으로 말, 정책, 계획을 세운다면, 그 사람의 행위에 따라 판단됩니다. 기관이나 종교, 정치적 꼬리표가 무엇이든 간에 동일한 방식으로 판단됩니다.*
 
-**표현은 표현으로 보호됩니다.** [Expression](../../core_05.055_band_participation.md#expression)는 불안한 견해를 포함한 모든 종류의 견해와 감각 기관이나 기관에 대한 비판을 다룹니다. 공격, 불일치, 불편함, 평화로운 항의는 해롭지 않습니다([§7.3 반대 및 평화적 항의](#73-dissent-and-peaceful-protest)).
+**표현은 표현으로서 보호된다.** [표현](../../core_05.055_band_participation.md#expression)에는 불편한 견해를 포함한 모든 종류의 견해와 어떤 지각 있는 존재나 기관에 대한 비판도 포함된다. 불쾌감, 의견 불일치, 불편함, 평화적 항의는 해악이 아니다([§7.3 반대 의견과 평화적 항의](#73-dissent-and-peaceful-protest)).
 
-**표현은 행위의 방패가 아닙니다.** 발언, 출판, 디자인, 정책 및 기타 표현은 해당 행위를 수행하는 수단인 경우 [Harm](../../core_05.035_band_accountability.md#harm), [괴롭힘 및 따돌림](../../core_05.035_band_accountability.md#harassment-and-bullying), [잔인성](../../core_05.035_band_accountability.md#cruelty) 및 비차별에 관한 규칙의 적용을 받습니다. 테스트는 5장의 정의에 따라 표현이 말하고, 요구하고, 읽는 내용을 의미합니다. 이러한 정의는 그 의미를 유지합니다. 희롱과 따돌림에는 날카로운 발언 하나가 아닌 물질적 패턴이 필요하며, 피해에는 공격만이 아닌 실제 물질적 영향 경로가 필요합니다([Collective Harm Boundary](../../core_05.035_band_accountability.md#collective-harm-boundary).
+**표현은 행위의 방패가 아니다.** 말, 출판, 설계, 정책 및 기타 표현은 해당 행위를 수행하는 수단일 때 [해악](../../core_05.035_band_accountability.md#harm), [괴롭힘과 따돌림](../../core_05.035_band_accountability.md#harassment-and-bullying), [잔인성](../../core_05.035_band_accountability.md#cruelty), 비차별 규칙을 계속 따라야 한다. 판단 기준은 제5장 정의에 따라 맥락 속에서 표현이 무엇을 말하고, 요구하고, 행하는지다. 정의의 의미는 유지된다. 괴롭힘과 따돌림에는 실질적 패턴이 필요하며 날카로운 발언 하나만으로는 부족하다. 해악에는 실제 물질적 영향 경로가 필요하며 단순한 불쾌감만으로는 부족하다(../../[집단적 해악 경계](../../core_05.035_band_accountability.md#collective-harm-boundary)).
 
 **감각자 및 기관에 동일한 테스트가 적용됩니다.** 단일 지각자, 그룹 또는 기관이 화자가 될 수도 있고 그들 중 누구라도 대상이 될 수 있습니다.
 - 기관은 정책, 공지, 플랫폼 디자인, 공식 성명, 보고서와 비평가를 대하는 방식을 통해 말합니다. 그런 식으로 수행된 행위는 다른 행위와 마찬가지로 판단됩니다.
-- 기관, 임원 또는 행위에 대한 비판은 보호됩니다. 비판을 왕따나 괴롭힘이라고 부르는 것은 표현의 한계입니다. 해당 주장을 하는 당사자는 [§7.1 제한 규율](#71-limitation-discipline) 및 4장에 따른 책임을 집니다.
+- 기관, 그 임원 또는 그 행위에 대한 비판은 보호된다. 비판을 괴롭힘이나 따돌림이라고 부르는 것은 표현 제한이다. 그런 주장을 하는 측이 [§7.1 제한 규율](#71-limitation-discipline)과 제4장에 따른 입증 책임을 진다.
 
-**라벨 및 주제는 시험을 변경하지 않습니다.** 종교적, 정치적, 이념적, 문화적, 예술적 또는 상업적 라벨은 타인에게 해를 끼치거나 **[6조-C](core_06_rights_part_b.md#제vi-c조-차별-금지)(*비차별*)**)에서 금지된 방식으로 취급하는 표현을 보호되는 표현으로 바꾸지 않습니다. 주제나 관점이 보호받는 표현을 해롭게 만들지 않습니다. **[XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)조(*양심, 종교 및 유사한 세계관의 자유*)**는 타인의 권리와 일관되게 신념을 보유하고 표현하는 것을 보호합니다.
+**표지와 주제가 기준을 바꾸지 않는다.** 종교적, 정치적, 이념적, 문화적, 예술적 또는 상업적 표지가 타인에게 해를 끼치거나 **[제VI-C조](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)**에서 금지한 방식으로 대우하는 표현을 보호되는 표현으로 바꾸지 않는다. 주제나 관점도 보호되는 표현을 해악으로 바꾸지 않는다. **[제XI-A조](../../core_06.005_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*양심·종교 및 이에 준하는 세계관의 자유*)**는 타인의 권리와 양립하는 신념의 보유와 표명을 보호한다.
 
-**표현을 제한하는 것은 증거로 사용하는 것과 다릅니다.** 표현의 제한은 [§7.1 제한규정](#71-limitation-discipline) 및 **[제XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*표현*)**을 충족해야 하며, 말한 내용을 대상으로 한 제한은 거기에서 가장 엄격한 심사를 받습니다. 지각 있는 사람이 말한 내용을 의도, 목적 또는 권위의 증거로 사용하는 것은 제한이 없습니다. [제7장 §6 구성 확인: 공직자 지위 및 진정성](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity) 등 질문을 하는 장의 증거 규칙을 따르며, 발언 자체에 대한 벌칙이 되지 않을 수도 있습니다.
+**표현을 제한하는 것과 증거로 사용하는 것은 다르다.** 표현 제한은 [§7.1 제한 규율](#71-limitation-discipline)과 **[제XI-B조](../../core_06.005_rights_part_b.md#article-xi-b-expression) (*표현*)**를 충족해야 하며, 발언 내용을 겨냥한 제한은 그 조항에서 가장 엄격한 심사를 받는다. 지각 있는 존재의 발언을 의도, 목적 또는 권한의 증거로 사용하는 것은 제한이 아니다. 이는 질문을 제기한 장의 증거 규칙을 따르며, 예를 들어 [제7장 §5 구성 확인: 직위 보유자의 자격과 진정성](../../core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity)에 따르고, 발언 자체에 대한 처벌이 되어서는 안 된다.
 
-**범위.** 이 하위 섹션은 표현에 대한 제한 규율과 5장의 정의를 적용합니다. 이는 피해 범주를 생성하지 않으며 [§7.1 제한 규율](#71-limitation-discipline)에서 이미 허용하지 않는 자유 제한 근거도 생성하지 않습니다.
+**범위.** 이 하위 절은 표현에 제한 규율과 제5장 정의를 적용한다. 새로운 해악 범주나 [§7.1 제한 규율](#71-limitation-discipline)이 이미 허용하지 않는 자유 제한 근거를 만들지 않는다.
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 연속성 목표: 서론
@@ -1173,7 +1193,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 연속성은 두 목표 가운데 두 번째로, 좋은 결과가 실패를 넘어, 세대를 넘어 지속되며 소수의 강력한 행위자가 독점하지 못하게 하는 것입니다. 연속성은 번영을 뒷받침하면서 동시에 연속성 자체의 실질을 이루는 공유 시스템 역량에서 시작합니다.*
+*쉽게 말해, 연속성은 두 가지 목표 중 두 번째로, 좋은 결과가 실패와 세대를 넘어 지속되고 소수의 강력한 행위자가 독점하지 않도록 하는 것이다. 연속성은 공동 시스템 역량에서 시작하며, 이는 번영을 뒷받침하고 연속성의 실질이기도 하다.*
 
 [**연속성**](core_05_apex_continuity_aim.md#제5장-정의-연속-헌법-목적)은 **장기적 안정성, 지속가능성, 회복탄력성, 생태적 안녕**을 뜻합니다([서문 §1 모형](core_00_preamble.md#continuity)). 제1장은 이를 네 가지 원칙으로 구체화하며, 첫째 원칙은 [번영](#2-번영-목표-도입)과 이어지는 다리입니다.
 
@@ -1266,7 +1286,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 공유 시스템은 장기적으로 감응적 존재를 위해 계속 작동해야 합니다. 감응적 존재는 유용한 일을 하고, 시간이 지나며 삶을 낫게 만들고, 문제가 있을 때 목소리를 낼 수 있어야 하며, 소수의 강력한 행위자가 나머지를 배제해서는 안 됩니다. 이렇게 지속되는 역량이 **공유 시스템 역량**입니다. **[§9.1 생산 역량(도구적 선)](#91-생산-역량도구적-선)**은 감응적 존재가 실질적인 결과를 얻는지 묻습니다. **[§9.2 헌법적 효율성](#92-헌법적-효율성)**은 누구의 시간, 돈, 주의력도 낭비하지 않고 그런 결과를 얻는지 묻습니다. 부나 권력을 독점하거나, 수치를 조작하거나, 권리를 박탈하거나, 피해를 타인이나 지구에 떠넘겨 얻은 성과는 인정되지 않습니다. **[§9.1.1 보존, 확장, 그리고 해당하지 않는 것](#911-보존-확장-그리고-해당하지-않는-것)**에서 이를 설명합니다. **[§11 시장 구조](#11-시장-구조)**는 소수 행위자의 독점을 막습니다.*
+*쉽게 말해, 공동 시스템은 장기적으로 지각 있는 존재를 위해 계속 작동해야 한다. 지각 있는 존재는 유용한 일을 하고, 시간이 지나며 삶을 더 나아지게 하며, 문제가 있을 때 목소리를 낼 수 있어야 하고, 소수의 강력한 행위자가 다른 이들을 배제해서는 안 된다. 이러한 지속적 능력이 **공동 시스템 역량**이다. **[§9.1 생산 역량(도구적 선)](#91-productive-capacity-instrumental-good)**은 지각 있는 존재가 실제 결과를 얻는지 묻는다. **[§9.2 헌정 효율성](#92-constitutional-efficiency)**은 누군가의 시간, 돈, 주의를 낭비하지 않고 그 결과를 얻는지 묻는다. 부나 권력을 독점하거나, 수치를 조작하거나, 권리를 빼앗거나, 타인 또는 지구에 피해를 떠넘겨 얻은 이익은 인정되지 않는다. **[§9.1.1 보존, 확대, 인정되지 않는 것](#911-preserve-expand-and-what-does-not-count)**에서 이를 설명한다. **[§11 시장 구조](#11-market-structure)**는 소수 행위자가 장악하지 못하게 한다.*
 
 번영은 목표입니다. 즉 감응적 존재의 삶이 잘되는 것입니다. 이 절은 장의 연속성 부분을 열며, 그것이 장기적으로 지속되려면 무엇이 필요한지 묻습니다. 답은 실질적인 일을 계속 수행하고 감응적 존재가 질문하고 이의를 제기할 수 있는 공유 시스템입니다. 그런 역량에 관한 주장은 정직해야 합니다. [§12 시스템적 평가 요건](#12-시스템적-평가-요건)이 요구하듯, 시간에 걸쳐 전체 시스템이 실제로 하는 일을 기준으로 검증해야 합니다.
 
@@ -1324,13 +1344,13 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 생산 역량은 공유 시스템 역량의 “실제로 일을 해낼 수 있는가?”라는 측면입니다. 감응적 존재가 참여하고, 배우고, 기여하며, 노력과 자원을 삶을 낫게 하는 결과로 바꾸고 그 능력을 시간이 지나도 유지할 수 있는가? 이는 더 나은 삶을 위한 도구입니다. 무엇을 보존해야 하고 무엇이 성과로 인정되지 않는지는 [§9.1.1 보존, 확장, 그리고 해당하지 않는 것](#911-보존-확장-그리고-해당하지-않는-것)에 설명되어 있습니다.*
+*쉽게 말해, 생산 역량은 공동 시스템 역량의 “실제로 일을 해낼 수 있는가?”라는 측면이다. 지각 있는 존재가 참여하고, 배우고, 기여하며, 노력과 자원을 삶을 개선하는 결과로 바꾸고, 그 능력을 시간이 지나도 유지할 수 있는가? 이는 더 나은 삶을 위한 수단이다. 무엇을 보존해야 하고 무엇이 계산에 포함되지 않는지는 [§9.1.1 보존, 확대, 인정되지 않는 것](#911-preserve-expand-and-what-does-not-count)에 설명되어 있다.*
 
-**[생산 역량](../../core_05.040_band_continuity.md#productive-capacity)**은 **[공유 시스템 역량](../../core_05.040_band_continuity.md#shared-system-capacity)**의 한 측면입니다. 이는 감응적 존재와 공유 시스템이 다음을 지속해서 해낼 수 있는 능력을 가리킵니다.
+**[생산 역량](../../core_05.040_band_continuity.md#productive-capacity)**은 **[공동 시스템 역량](../../core_05.040_band_continuity.md#shared-system-capacity)**의 한 측면이다. 이는 지각 있는 존재와 공동 시스템이 지속적으로 다음을 할 수 있는 능력을 뜻한다.
 - 실질적인 참여와 기여, 기술 습득을 뒷받침한다.
 - 시간, 주의력, 노력, 조정, 자재, 기반시설, 에너지를 이 헌법이 실제로 요구하는 결과로 전환한다.
 
-이는 **도구적 선**입니다. 수단이지 무엇보다 우선하는 가치가 아닙니다. 그 목적은 [안녕](#3-foundational-objective-wellbeing-flourishing-aim), [존엄과 동등한 도덕적 지위](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing), 제6장 권리 최저선과 일치하게 삶의 질을 높이고, 유지하며, 널리 나누는 것입니다. 이 모든 것은 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims)에 따른 **연속성** 목표의 생태적·세대 간 한계 안에서 이루어져야 합니다.
+이는 **도구적 선**—수단이지 최상위 가치가 아니다. 그 역할은 **번영** 목표에 따라 삶의 질을 높이고, 유지하고, 널리 확산하는 것이다. 이는 [웰빙](#3-foundational-objective-wellbeing-flourishing-aim), [존엄성과 동등한 도덕적 지위](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing), 제6장 권리 최저기준, 그리고 [두 헌정 목표](../../core_00.000_preamble.md#two-constitutional-aims)에 따른 **연속성** 목표의 생태적·세대 간 한계와 양립해야 한다.
 
 <a id="911-preserve-expand-and-what-does-not-count"></a>
 ##### 9.1.1 보존, 확장, 그리고 해당하지 않는 것
@@ -1345,9 +1365,9 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 일을 해낼 능력을 보존하고, 모두의 시간을 덜 낭비하게 된다면 그 능력을 키우되, 독점하거나 수치를 조작하거나 권리를 빼앗거나 타인과 지구에 피해를 떠넘겨서는 안 됩니다. 더는 실제 성과를 입증하지 못하는 지표는 인정되지 않습니다.*
+*쉽게 말해, 일을 해낼 능력을 유지하고 모두의 시간을 절약할 수 있다면 이를 키우되, 독점·수치 조작·권리 박탈·타인이나 지구에 피해 떠넘기기로 해서는 안 됩니다. 실제 성과를 더는 입증하지 못하는 지표는 인정되지 않습니다.*
 
-시스템은 생산 역량을 보존해야 하며, 실현 가능하고 그렇게 하는 것이 [헌법적 효율성](../../core_05.040_band_continuity.md#constitutional-efficiency)을 높인다면 그 역량을 확장해야 합니다([§9.2 헌법적 효율성](#92-헌법적-효율성)).
+시스템은 생산 역량을 보존해야 하며, 가능한 경우 [헌법상 효율성](../../core_05.040_band_continuity.md#constitutional-efficiency)([§9.2 헌법상 효율성](#92-constitutional-efficiency))을 높이기 위해 이를 확장해야 한다.
 
 **그 의무는 다음 범위 안에 머뭅니다:**
 
@@ -1370,15 +1390,15 @@ flowchart TB
   - 현재 또는 미래에 다른 감응적 존재의 안녕, 행위 주체성, 존엄 또는 생태적 조건을 해치는 방식으로 부, 권력, 통제력 또는 기회를 집중하는 것;
   - 생명을 지탱하는 자연 시스템을 훼손하거나, 완화·공개·대표성 없이 생태적 비용이나 세대 간 비용을 타인에게 떠넘기는 것.
 - **잘못된 것의 집계:**
-  - 더는 실제 성과와 연계되지 않는 총 처리량, 산출 규모, 가동률, 인원수, 매출, 자산 증가, 시장 점유율 또는 이와 유사한 대리 지표. 여기에는 감응적 존재, 미래 세대 또는 환경에 피해를 전가하면서 “성장”을 보여 주는 지표도 포함됩니다.
+  - 총처리량, 산출량, 가동률, 인원수, 매출, 자산 증가, 시장점유율 또는 실제 결과를 더는 추적하지 않는 유사한 대리 지표. 피해를 감각 있는 존재, 미래 세대 또는 환경에 떠넘기면서 “성장”을 보여 주는 지표도 포함한다;
 - **보호 약화:**
   - [제I-A조](core_06_rights_part_a.md#제-i-a조-환경-전제와-생태-완전성)(*환경적 전제조건과 생태적 온전성*)에 따른 생태적 전제조건을 비롯해 제6장의 권리 최저선을 축소하거나 시행을 늦추는 것;
   - 감사, 이의 제기 가능성 또는 사후 검토 의무를 약화하는 것.
 - **원칙 간 형량 규칙 우회:**
-  - [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)를 우회하는 것. 여기에는 [헌법적 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건도 포함됩니다.
-  - 또는 [§14 절대적 우선 적용 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)에 규정된 다른 금지된 우회 경로를 이용하는 것. 여기에는 **제2장부터 제4장**까지 공개 상태를 유지하라고 요구하는 생태적·세대 간·분배적 피해를 장부에서 감추는 행위가 포함됩니다.
+  - [§13 헌법상 충돌 해결 절차](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)를 우회하는 행위. 여기에는 [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건도 포함된다. 또는
+  - [§14 절대적 재정의 금지](../../core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override)가 금지하는 다른 재정의 경로를 사용하는 행위. 여기에는 **제2장부터 제4장**이 계속 드러나도록 요구하는 생태적·세대 간·분배상 피해를 장부에서 빼는 것도 포함된다;
 
-생산 역량 주장이 더는 실제 성과를 입증하지 못하는 지표에 기대고 있다면 — 생태 피해, 미래의 피해 또는 집중으로 인한 손실을 감추는 지표를 포함해 — [§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-대리-지표-편차에-따른-무효화)를 적용합니다.
+생산 역량 주장이 더는 실제 결과를 입증하지 못하는 지표에 근거하는 경우—생태적 피해, 미래의 피해 또는 집중으로 인한 손실을 숨기는 지표를 포함하여—[§13.2.4 대리 지표 괴리 무효화](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)가 적용된다.
 
 <a id="92-constitutional-efficiency"></a>
 #### 9.2 헌법적 효율성
@@ -1394,9 +1414,9 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 헌법적 효율성은 공유 시스템 역량의 “사람의 관점에서 투입한 만큼의 가치를 얻고 있는가?”라는 측면입니다. 감응적 존재의 시간과 주의력, 공동의 노력을 한 시간 투입할 때마다 더 큰 실질적 이익을 얻어야 합니다. 빠르고, 날렵하고, 저렴해 보이려고 권리, 진실, 안전 또는 생태를 희생해서는 안 됩니다.*
+*쉽게 말해, 헌법상 효율성은 “사람의 삶에 비추어 투입한 만큼의 가치가 있는가?”를 묻는 공동 시스템 역량의 한 측면이다. 감각 있는 존재의 시간, 주의, 공동 노력 한 시간마다 더 큰 실질적 이익을 얻는다는 뜻이며, 더 빠르고 간결하고 저렴해 보이려고 권리, 진실, 안전 또는 생태를 희생하지 않는다.*
 
-**[헌법적 효율성](../../core_05.040_band_continuity.md#constitutional-efficiency)**은 **[공유 시스템 역량](../../core_05.040_band_continuity.md#shared-system-capacity)**의 또 다른 주요 측면입니다. 시스템이 소비하는 감응적 존재의 시간, 주의력, 노력, 조정, 자재, 기반시설, 에너지 단위마다 헌법상 요구되는 이익을 더 많이 만들어 내는지 묻습니다.
+**[헌법상 효율성](../../core_05.040_band_continuity.md#constitutional-efficiency)**은 **[공동 시스템 역량](../../core_05.040_band_continuity.md#shared-system-capacity)**의 또 다른 주요 측면이다. 감각 있는 존재가 소비하는 시간, 주의, 노력, 조정, 자재, 기반시설, 에너지의 단위마다 시스템이 헌법상 요구되는 이익을 더 많이 산출하는지 묻는다.
 
 효율성은 널리 나누는 개선을 이끌 수 있지만, 헌법적 한계 안에서만 가능합니다. 효율성 자체는 다음을 뜻하지 **않습니다.**
 - 단순히 더 빠른 속도;
@@ -1453,7 +1473,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 시스템은 문제를 일찍 감지하고, 확산을 막고, 공개된 경로에 따라 장애를 일으키며, 정직하게 복구해야 합니다. 장애를 감추거나 근본 원인 분석을 건너뛰거나 권리를 조용히 축소하는 “자가 치유”는 회복탄력성이 아니라 결함입니다.*
+*쉽게 말해, 시스템은 문제를 조기에 감지하고 억제하며, 공개된 경로에 따라 실패하고 정직하게 복구해야 한다. 실패를 숨기고 근본 원인 분석을 건너뛰거나 조용히 권리를 축소하는 “자가 치유”는 회복탄력성이 아니라 결함이다.*
 
 감응적 존재가 의존하는 시스템은 다음과 같이 설계해야 합니다.
 - 문제를 일찍 감지한다.
@@ -1461,11 +1481,11 @@ flowchart TB
 - 숨겨진 경로가 아니라 계획되고 공개된 경로에 따라 장애가 발생하도록 한다.
 - [가역성](../../core_05.040_band_continuity.md#reversibility)과 제6장 권리 최저선에 부합하는 방식으로 복구한다.
 
-제5장이 [**자가 치유**](../../core_05.040_band_continuity.md#self-healing)라 부르는 것이 바로 이것입니다. 시스템 자신의 상태를 덜 정직하게 드러내는 것이 아니라 더 정직하게 드러낼 때만 정당합니다. 근본 원인을 가리거나 증거를 억누르거나 거버넌스를 대신하는 자동 복구는 자가 치유가 아닙니다. 이는 [진실](core_05_band_oversight.md#진실헌법-제약) 위반이자 [유인 정합성](core_05_band_integrative.md#유인-정합)의 결함입니다.
+제5장이 말하는 [**자가 치유**](../../core_05.040_band_continuity.md#self-healing)는 시스템이 자신의 상태를 덜 숨기고 더 정직하게 드러낼 때에만 정당하다. 근본 원인을 가리거나 증거를 억누르거나 거버넌스를 대체하는 자동 복구는 자가 치유가 아니다. 이는 [진실](../../core_05.050_band_oversight.md#truth-constitutional-constraint) 위반이자 [인센티브 정렬](../../core_05.045_band_integrative.md#incentive-alignment)의 결함이다.
 
-감응적 존재가 시스템에 더 많이 의존하고 시스템의 영향이 클수록, 그 시스템은 긴급 개입에 덜 의존해야 합니다. 대신 검증되고 감사되며 범위가 제한된 자가 복구에 투자하여 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)을 줄이고 장기적인 [**연속성**](#continuity)을 뒷받침해야 합니다.
+감각 있는 존재가 시스템에 더 많이 의존하고 시스템의 영향이 클수록, 그 시스템은 긴급 개입에 덜 의존해야 한다. 대신 검증되고 감사되며 범위가 제한된 자가 복구에 투자하여 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)을 줄이고 장기적인 [**연속성**](#continuity)을 뒷받침해야 한다.
 
-복구 감지, 억제, 안전한 실패 우선 원칙, 근본 원인 종결, 권리 최저선의 지속성에 관한 효력 있는 세부 사항은 제6장의 [제XIII-F조](core_06_rights_part_c.md#제xiii조-신뢰할-수-있고-믿을-수-있는-시스템에-대한-권리)(*회복탄력성과 자가 치유의 기준선*)에 있으며, 복구 구조 요건은 편입된 이행 문서에 규정되어 있습니다.
+복구 감지, 억제, 안전한 실패의 우선, 근본 원인 해결, 권리 최저선의 연속성에 관한 운영 세부사항은 제6장의 [Article XIII-F](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)(*회복탄력성과 자가 치유 기준*)에 있으며, 복구 아키텍처 요건은 편입된 이행 문서에 있다.
 
 <a id="11-market-structure"></a>
 ### 11. 시장 구조
@@ -1475,7 +1495,7 @@ flowchart TB
 - 함께 읽기: [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad) — 집중이나 지배가 발언권, 감시, 답변 책임 또는 시의적절한 시정을 무력화하는 경우의 참여, 감독, 책무성, 적시성; [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 범위 조정(특히 [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지)).
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(이의를 제기할 수 있고 지속 가능한 생산 조건), **번영** 목표(생계, 행위 주체성, 혁신 경로에 대한 공정한 접근).
 - 상위 근거: 원칙: [§9 공유 시스템 역량](#9-공유-시스템-역량) — 집중이나 지배가 생산 역량 또는 효율성을 공허하게 만들면 그에 관한 주장은 성립하지 않습니다; [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
-- 하위 연결: [제11장 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(집중 기반 전복); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)([§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-대리-지표-편차에-따른-무효화)).
+- 후속 참조: [제14장 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(14.005 §5)(집중을 통한 전복); [13. 헌법 충돌 해결 절차](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)(../../[§13.2.4 대리 지표 괴리에 따른 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**([§11.1](#111-시장-집중-임계치-장치도입자가-조정-가능)과 [§11.4](#114-자원-및-의존성-집중도입자가-조정-가능)의 적용 규칙); **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**([§11.2](#112-경쟁-촉진과-지배-방지)의 금지 행위와 구제책); **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**([§11.3.2](#1132-통합-상한-장치도입자가-조정-가능)의 상한 설정 방법).
 - 하위 연결: 자원 배분, 공정한 보상, 집단 조직, 상호운용성, 퇴출, 포획 방지 검토에 관한 권리의 범위를 형성합니다. 특히 [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥), [제V조: 자원 배분, 의존성, 생태계 자금 조달](core_06_rights_part_a.md#제-v조-자원-배분-의존-생태계-자금), [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#제xxi조-상호운용성-이동성-탈퇴의-완전성)를 참조하십시오.
 - 하위 절(읽기 순서): [§11.1 시장 집중 임계치 장치(도입자 조정 가능)](#111-시장-집중-임계치-장치도입자가-조정-가능) · [§11.1.1 집중 임계치 발동 기준(도입자 조정 가능)](#1111-집중-임계치-발동-기준도입자가-조정-가능) · [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지) · [§11.3 통합 상한](#113-통합-상한) · [§11.4 자원 및 의존성 집중(도입자 조정 가능)](#114-자원-및-의존성-집중도입자가-조정-가능).
@@ -1496,7 +1516,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 감응적 존재는 한 회사나 기관이 유일한 출입구를 소유했다는 이유로 막히지 않고 일하고, 만들고, 서비스 제공자를 바꾸고, 이의를 제기할 수 있어야 합니다. **시장 구조**는 시장, 플랫폼, 일자리 체계, 기반시설, 데이터, 연산 능력, 자격 체계 등 일상생활에 중요한 의존 요소에 적용되는 독점 방지 규율입니다. 규모를 키우고 새것을 발명하는 일은 괜찮지만 시장을 장악해서는 안 됩니다. **§11.1–§11.3**(*시장 집중 임계치 장치, 경쟁 촉진과 지배 방지, 통합 상한*)는 집중이 지나친 시점, 지배를 막는 방법, 감응적 존재가 종속되기 전에 허용되는 통합 규모를 정합니다. **§11.4**(*자원 및 의존성 집중*)는 같은 임계치를 공유 자원과 의존 요소에도 적용합니다.*
+*쉽게 말해, 감각 있는 존재는 한 기업이나 기관이 유일한 출입구를 장악했다는 이유로 막히지 않고 일하고, 만들고, 공급자를 바꾸고, 이의를 제기할 수 있어야 합니다. **시장 구조**는 시장, 플랫폼, 노동 시스템, 기반시설, 데이터, 컴퓨팅 능력, 자격 증명 및 일상생활에 중요한 기타 의존관계를 다루는 반독점 규율입니다. 규모가 커지고 새로 발명하는 것은 괜찮지만 시장을 독점하는 것은 안 됩니다. **§§11.1–11.3**은 집중이 지나친 때, 지배를 중단할 방법, 감각 있는 존재를 가두기 전에 허용되는 통합 수준을 정합니다. **§11.4**는 공동 자원과 의존관계에도 같은 기준을 적용합니다.*
 
 **[시장 구조](../../core_05.035_band_accountability.md#market-structure)**는 감응적 존재와 공유 시스템이 선택, 경쟁, 이의 제기에 열린 방식으로 생산 활동에 참여할 수 있는지를 규율합니다. [물질적 이해관계](core_00_preamble.md#material-stake)에 따라 필요한 경우 다음이 포함됩니다.
 - 상업적 교환;
@@ -1521,7 +1541,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11 시장 구조](#11-시장-구조); [시장 집중 임계치](../../core_05.035_band_accountability.md#market-concentration-threshold).
-- 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지); [§11.3 통합 상한](#113-통합-상한); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-통합-상한-장치도입자가-조정-가능)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지); [§11.3 통합 상한](#113-통합-상한); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-통합-상한-장치도입자가-조정-가능)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - 관리 안내문(효력 없음): 다음 단계 카드: [시장 구조](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - 하위 절(읽기 순서): [§11.1.1 집중 임계치 발동 기준(도입자가 조정 가능)](#1111-집중-임계치-발동-기준도입자가-조정-가능).
 
@@ -1544,8 +1564,8 @@ flowchart TB
 
 - **하는 일:** [§11 시장 구조](#11-시장-구조)의 최저선에 대한 원칙 차원의 임계치 방향을 제시합니다.
 - **하지 않는 일:** 검증된 피해의 심각성을 판단하거나 위법 행위 지정을 내리지 않습니다.
-- **집중이 이 헌법을 훼손하는 데 이용되는 경우:** 그 위법 행위는 [제11장 §5.1 집중 기반 전복](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)에 따라 판단합니다.
-- **최저선을 넘는 집중을 만들거나 유지하거나 이용하는 경우:** 위법 행위 지정 검토를 위해 제11장으로 넘길 수 있지만, 두 단계 절차를 거쳐야 합니다. 먼저 [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)에서 검증된 피해를 이미 가장 심각한 세 단계 중 하나로 평가했어야 합니다. 그다음 제11장에서 그 집중이 기준 3(보호를 되돌리는 우회), 기준 4(권리 최저선 보호의 훼손 또는 이의 제기의 차단), 기준 6(헌법 절차가 실제로 이용 불가능해짐)에 해당하는지 확인합니다.
+- **집중을 헌법 훼손에 이용하는 경우:** 해당 위법행위는 [제14장 §5.1 집중을 통한 전복](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)에 따라 판단한다.
+- **요건을 위반하는 집중의 창출·유지·이용:** 위법행위 지정 심사를 위해 제14장으로 갈 수 있으나 두 단계가 필요하다. 먼저 [제12장 §1 질문 2 — 얼마나 좋거나 나빴는가?](../../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)가 검증된 해악을 가장 심각한 세 단계 중 하나로 평가해야 한다. 이어 제14장은 집중이 기준 3(보호를 후퇴시키는 우회), 기준 4(권리 바닥 보호 훼손 또는 이의 제기 차단), 기준 6(헌법 절차를 현실에서 사용할 수 없게 함)에 해당하는지 확인한다.
 
 **헌법상 최저선:**
 
@@ -1580,7 +1600,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 도입자는 영역, 인구 규모, 의존성 밀도에 맞춰 수치 발동 기준을 조정할 수 있습니다. 전 세계에 통용되는 단일 숫자는 없지만 최저선은 계속 적용됩니다. 상세한 임계치 설정 규칙은 CJS-3.11.1(*시장 집중 임계치 설정 규율(도입자가 조정 가능)*)(시장 집중 임계치 설정 규율)에 규정되어 있습니다.*
+*쉽게 말해, 채택자는 분야·인구 규모·의존도 밀도에 맞춰 수치 기준을 조정할 수 있지만 전 세계에 통용되는 하나의 숫자는 없으며 요구사항은 계속 적용됩니다. 세부적인 기준 설정 규칙은 CJS-5.125 §11.1(시장 집중 임계값 설정 규율, 채택자 조정 가능)에 있습니다.*
 
 **집중 임계치**는 집중이 강화된 검토, 개입 또는 구조적 구제가 필요한 수준에 도달했음을 표시하는 정량적 발동 기준입니다. 이는 물질, 관할권, 역량, 플랫폼, 정보 영역의 집중을 포괄합니다. 도입자는 **헌법상 최저선 안에서** 이 발동 기준을 조정할 수 있습니다.
 
@@ -1601,7 +1621,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11 시장 구조](#11-시장-구조); [시장 구조](../../core_05.035_band_accountability.md#market-structure).
-- 하위 연결: **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**(효력 있는 행위 유형과 구제책); [§11.3 통합 상한](#113-통합-상한); [제11장 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 후속 참조: **CJS-5.125 §11.2 — 반지배 행위 및 시정 목록**(적용되는 행위 유형과 구제); [§11.3 통합 상한](#113-consolidation-ceiling); [제14장 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(14.005 §5).
 - 함께 읽기: [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥)(노동 이동성 권리 최저선); [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#제xxi조-상호운용성-이동성-탈퇴의-완전성); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)([필요성](../../core_05.035_band_accountability.md#necessity), [비례성](../../core_05.035_band_accountability.md#proportionality), [§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-대리-지표-편차에-따른-무효화)).
 - 하위 절(읽기 순서): [§11.2.1 경쟁 촉진 의무(해야 할 일)](#1121-경쟁-촉진-의무해야-할-일) · [§11.2.2 지배 방지 금지(해서는 안 될 일)](#1122-지배-방지-금지해서는-안-될-일) · [§11.2.3 구제책](#1123-구제책).
 
@@ -1622,7 +1642,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 진정한 혁신으로 규모가 크거나 유용해졌거나 잠시 앞서 있다는 이유만으로 시스템을 처벌하지 않습니다. 하지만 지속적인 지배는 금지합니다. 시장, 노동, 플랫폼, 기반시설, 데이터, 연산 자원, 자격 또는 자원에 대한 통제력을 이용해 다른 행위자를 종속시키고, 경쟁자를 막고, 공정한 협상을 억누르거나, 헌법상 책무성을 장악하는 행위가 이에 해당합니다.*
+*쉽게 말해, 헌법은 시스템이 규모가 크거나 유용하다는 이유, 또는 진정한 혁신으로 잠시 앞서 있다는 이유만으로 처벌하지 않는다. 그러나 지속적인 지배는 금지한다. 시장, 노동, 플랫폼, 기반시설, 데이터, 컴퓨팅 역량, 자격증명 또는 자원에 대한 통제로 행위자가 다른 이들을 가두고, 경쟁자를 막고, 공정한 협상을 억압하거나 헌법상 책임성을 장악할 수 있는 경우가 이에 해당한다.*
 
 **이 하위 절의 역할:**
 
@@ -1633,11 +1653,11 @@ flowchart TB
 <a id="1121-pro-competition-duties-dos"></a>
 ##### 11.2.1 경쟁 촉진 의무(해야 할 일)
 
-*쉽게 말해(해야 할 일): 시장과 의존 구조는 감응적 존재가 진입하고, 서비스를 바꾸고, 공정하게 협상하며, 떠날 수 있을 만큼 개방되어야 합니다. 경쟁 가능성이 실질적으로 유지된다면 규모 확대나 새로운 발명은 괜찮습니다.*
+*쉽게 말해(해야 할 일): 시장과 의존 관계는 감각 있는 존재가 진입하고, 전환하고, 공정하게 협상하고, 떠날 수 있을 만큼 열려 있어야 한다. 실질적인 이의제기 가능성이 유지되는 한 규모 확대나 새로운 발명은 허용된다.*
 
-공유 시스템 역량은 실제로 이의를 제기할 수 있는 상태로 유지되어야 합니다. [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad)에 따라, [물질적 이해관계](core_00_preamble.md#material-stake)에 맞추어 **참여**, **감독**, **책무성**, **적시성**을 공허하게 만드는 지배는 규모나 효율성 주장과 무관하게 이 절에 부합하지 않습니다.
+공동 시스템 역량은 실제로 이의를 제기할 수 있는 상태여야 한다. [헌법상 4요소](../../core_00.000_preamble.md#constitutional-tetrad)에 따라 **참여**, **감독**, **책임성** 또는 **적시성**을 공허하게 만드는 지배는 [중대한 이해관계](../../core_00.000_preamble.md#material-stake)에 비례해 평가되며, 규모나 효율성 주장과 관계없이 이 절과 양립할 수 없다.
 
-감응적 존재가 생계, 행위 주체성 또는 안녕을 위해 시장, 플랫폼, 기반시설, 노동 관계, 자원 흐름, 데이터 접근, 연산 자원 접근, 자격 또는 이와 비슷한 생산 조건에 의존하는 경우, 이를 관리하는 시스템과 시장 구조는 다음을 보장해야 합니다.
+감각 있는 존재가 생계, 행위능력 또는 웰빙을 위해 시장, 플랫폼, 기반시설, 노동 관계, 자원 흐름, 데이터·컴퓨팅 접근, 자격증명 또는 이와 유사한 생산 조건에 의존하는 경우, 거버넌스 시스템과 시장 구조를 형성하는 제도는 다음을 보장해야 한다:
 - 이의를 제기할 수 있는 참여: 감응적 존재가 참여하고 자신에게 영향을 미치는 결정과 조건에 이의를 제기할 수 있어야 합니다.
 - 실질적인 대체 가능성과 퇴출: 실행 가능한 대안이 존재하며, 감응적 존재가 필요한 것을 잃거나 불합리한 비용·지연을 감수하지 않고 전환하거나 떠날 수 있어야 합니다.
 - 공정한 진입 및 재진입: 신규 참여자는 공정한 조건으로 진입할 수 있고, 떠났던 이들도 돌아올 수 있어야 합니다.
@@ -1652,14 +1672,14 @@ flowchart TB
 - 진정한 혁신에서 비롯된 일시적 우위;
 - 적법한 조정에 따른 효율성.
 
-이런 이점은 다음과 같이 변질되지 않고, 따라서 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims)나 [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad)를 훼손하지 않는 경우에만 유효합니다.
+이러한 이점은 다음과 같은 상태로 변하지 않고, 그 결과 [두 가지 헌법상 목표](../../core_00.000_preamble.md#two-constitutional-aims)나 [헌법상 4요소](../../core_00.000_preamble.md#constitutional-tetrad)를 훼손하지 않을 때에만 유효하다:
 - 지속적인 지배;
 - 강압적 의존;
 - 권리 최저선의 저하;
 - 생태적 부담의 전가;
 - 책무성 경로의 장악.
 
-다음 정당화는 [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)와 제4장의 추적 가능성 및 증거 의무를 충족해야 합니다.
+다음 정당화는 [§13 헌법상 충돌 해결 절차](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)와 제4장의 추적 가능성 및 증거 의무를 충족해야 한다:
 - 효율성;
 - 경쟁력;
 - 비상사태;
@@ -1764,7 +1784,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 시장이 고착된 것처럼 보이기 훨씬 전부터 통합은 실질적 선택권을 빼앗을 수 있습니다. **통합 상한**은 퇴출과 경쟁이 여전히 가능한 동안 집중을 감시하고, 개입하고, 시정할 수 있도록 거버넌스와 관리자에게 조기 경보 권한을 부여합니다.*
+*쉽게 말해, 시장이 완전히 잠긴 것처럼 보이기 훨씬 전부터 통합은 실질적인 선택권을 빼앗을 수 있습니다. **통합 상한**은 퇴출과 경쟁이 여전히 가능할 때 집중을 살펴보고 개입해 바로잡을 수 있도록 거버넌스와 스튜어드에게 조기 경보 권한을 줍니다.*
 
 고착이 뚜렷해지기 전에 경쟁 가능성을 예측 가능하게 저해하는 통합은 사후 지배 문제에만 그치지 않는 [거버넌스](../../core_05.035_band_accountability.md#governance) 및 [관리](../../core_05.040_band_continuity.md#stewardship) 문제이며, 다음에 따른 원칙 차원의 통합 상한 규율의 대상입니다.
 - [§11 시장 구조](#11-시장-구조);
@@ -1802,7 +1822,7 @@ flowchart TB
 <a id="1131-consolidation-risk-pre-lock-in-impairment"></a>
 ##### 11.3.1 통합 위험(고착 전 저해)
 
-*쉽게 말해: 시장이 “고착된” 것처럼 보이기 훨씬 전부터 통합은 실질적인 대안을 공허하게 만들 수 있습니다. 특히 두 종류의 집중이 중요합니다. **수평 통합**은 같은 층위의 경쟁자가 줄어드는 것이고, **수직 통합**은 여러 층위의 통제가 병목과 고착을 만들어 내는 것입니다.*
+*쉽게 말해, 시장이 “잠긴” 것처럼 보이기 훨씬 전부터 통합은 실질적인 대안을 무력화할 수 있습니다. 특히 두 종류의 집중이 중요합니다. 같은 단계의 경쟁자가 줄어드는 **수평 통합**, 여러 단계에 걸친 통제로 병목과 종속을 만드는 **수직 통합**입니다.*
 
 고착이 뚜렷해지기 전에 통합은 다음을 예측 가능하게 저해할 수 있습니다.
 - 경쟁 가능성;
@@ -1852,7 +1872,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11.3 통합 상한](#113-통합-상한); [§11.3.1 통합 위험(고착 전 저해)](#1131-통합-위험고착-전-저해).
-- 하위 연결: **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**(효력 있는 상한 설정 규칙); [CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)(상한 위반에 대한 구제 경로); [제11장 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**(효력 있는 상한 설정 규칙); [CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)(상한 위반에 대한 구제 경로); [제11장 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -1908,13 +1928,13 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 네트워크, 개방형 도구, 공공 서비스, 데이터, 연산 능력 같은 공유 기반시설은 소수 행위자가 자원을 누가 얻는지, 누가 누구에게 의존하는지, 운영 비용을 누가 부담하는지를 조용히 통제하게 될 수 있는 영역입니다. 도입자는 이런 집중에 대해 명확한 한계를 정하고, 한계를 넘었거나 넘을 가능성이 있는 때 조치해야 합니다. 상황마다 한계는 달라질 수 있지만, 아무런 의미가 없을 정도로 느슨하게 정해서는 안 됩니다. 자원 공유에 관한 [제V조](core_06_rights_part_a.md#제-v조-자원-배분-의존-생태계-자금)(*자원 배분, 의존성, 생태계 자금 조달*)와 그 보호 조항은 그대로 유지됩니다.*
+*쉽게 말해, 네트워크, 개방형 도구, 공공 서비스, 데이터, 컴퓨팅 역량과 같은 공동 기반시설에서 소수의 주체가 누가 자원을 얻는지, 누가 누구에게 의존해야 하는지, 운영 비용을 누가 부담하는지를 은밀히 통제하게 될 수 있습니다. 채택자는 이러한 집중에 명확한 한도를 정하고, 한도를 넘었거나 넘을 가능성이 신빙성 있게 높아졌을 때 조치해야 합니다. 한도는 맥락에 따라 달라질 수 있지만, 아무런 효과도 내지 못할 정도로 느슨해서는 안 됩니다. 자원 공유 보호를 포함한 [제V조](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*자원 배분, 의존성 및 생태계 자금 조달*)는 정확히 그대로 유지됩니다.*
 
-공유 기반시설의 집중은 알아차리기 어렵습니다. 소수의 시스템이 자원 배분 방식, 실질적 대안 없이 그 시스템에 의존하게 되는 이들의 수, 기반시설 유지 비용의 부담 주체를 통제하게 될 수 있습니다. [제V조](core_06_rights_part_a.md#제-v조-자원-배분-의존-생태계-자금)(*자원 배분, 의존성, 생태계 자금 조달*)는 자원 공유에 관한 권리 최저선을 정합니다. 이 하위 절은 그 영역에 [§11.1 시장 집중 임계치 장치(도입자가 조정 가능)](#111-시장-집중-임계치-장치도입자가-조정-가능)의 집중 임계치를 적용합니다. 효력 있는 임계치 설정 규칙은 **CJS-3.11.1**(*시장 집중 임계치 설정 규율*)에 있습니다. 자원 지도, 흐름, 배분, 생태계 자금 조달의 세부 사항은 [**CS-9**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md)(*자원 배분 및 자금 관리*)와 [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md)(*적응적 지속가능성과 생태계 회복탄력성*)에 규정되어 있습니다.
+공유 인프라의 집중은 놓치기 쉽다. 소수의 시스템이 자원 배분, 현실적 대안 없이 의존하는 다른 시스템의 수, 인프라 유지 비용 부담자를 통제할 수 있다. [제V조](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)(*자원 배분, 의존성 및 생태계 자금 조달*)는 자원 공유의 권리 바닥을 정한다. 이 하위 절은 [§11.1 시장 집중 임계값 메커니즘(채택자 조정 가능)](#111-market-concentration-threshold-mechanism-adopter-tunable)의 집중 임계값을 그 권리 바닥에 적용한다. 운용상 임계값 설정 규칙은 **CJS-5.125 §11.1**(*시장 집중 임계값 설정 규율*)에 있고, 자원 지도·흐름·배분·생태계 자금 세부 사항은 [**CS-6.335**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)와 [**CS-6.325**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience)에 있다.
 
 **도입자가 정해야 할 사항:**
 
-도입자는 [시장 집중 임계치](../../core_05.035_band_accountability.md#market-concentration-threshold) 지표를 자원 배분, 의존성, 생태계 자금 조달에 대해 정하고 임계치를 넘었거나 신뢰할 만한 근거로 임계치에 근접했다고 판단될 때 조치해야 합니다. 지표는 다음을 다뤄야 합니다.
+채택자는 자원 배분, 의존성 및 생태계 자금 조달에 대한 [시장 집중 임계치](../../core_05.035_band_accountability.md#market-concentration-threshold) 지표를 정하고, 임계치를 넘거나 신빙성 있게 임계치에 근접했을 때 조치해야 합니다. 지표는 다음을 포함해야 합니다.
 - 공유 자원 배분 방식에 대한 지속적인 통제;
 - 의존성 집중: 실질적 대안 없이 하나의 제공자나 기반체에 의존하는 감응적 존재 또는 시스템의 수;
 - 공유 기반시설의 인터페이스 및 접근 지점에 대한 문지기 역할; 그리고
@@ -1922,10 +1942,10 @@ flowchart TB
 
 **도입자가 설정해야 하는 방식:**
 
-- **실제 흐름을 기준으로:** 운영자의 표기나 일회성 이전이 아니라 [제V-A조](core_06_rights_part_a.md#제-v-a조-의존-지도와-자원-흐름-투명)(*의존성 지도 작성 및 자원 흐름 투명성*)가 요구하는 의존성 지도와 자원 흐름 기록에 따라 수준을 설정합니다.
+- **실제 흐름 기준:** 운영자 표기나 일회성 이전이 아니라 [제V-A조](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency)(*의존성 지도화와 자원 흐름 투명성*)가 요구하는 의존성 지도와 자원 흐름 기록을 기준으로 임계값을 정한다.
 - **상황별로:** [§11.1.1 집중 임계치 발동 기준(도입자가 조정 가능)](#1111-집중-임계치-발동-기준도입자가-조정-가능)에 따라 영역, 인구 규모, 의존성 밀도별로 수준을 달리 정할 수 있습니다.
 - **동일한 규율에 따라:** 최저선 보전, 형식보다 실질을 중시하는 검토, 무효화 방지, 강화된 심사의 규칙을 **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**에 따라 전면 적용합니다. 어떤 수준도 발동하지 않을 정도로 높게 정할 수 없으며, 유령·연합형·분할 구조 뒤에 숨긴 집중도 집계합니다.
-- **공개적으로:** 자원 흐름을 볼 수 있고, 확인할 수 있으며, 이의를 제기할 수 있도록 요구하는 [제V조](core_06_rights_part_a.md#제-v조-자원-배분-의존-생태계-자금)(*자원 배분, 의존성, 생태계 자금 조달*)에 따라 수준과 그 근거를 문서화하고 이의 제기에 열어 두어야 합니다.
+- **공개적으로:** 수준과 그 이유를 문서화하고 이의를 제기할 수 있게 해야 합니다. 이는 자원 흐름을 보이고, 확인할 수 있으며, 이의 제기에 열어 두도록 요구하는 [제V조](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*자원 배분, 의존성 및 생태계 자금 조달*)에 부합해야 합니다.
 
 **수준을 넘었을 때:**
 
@@ -1979,7 +1999,7 @@ flowchart TB
 
 상세한 평가 요소와 인증 기록은 다음 문서가 담당합니다.
 - **[제8장 §3 전체 시스템 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[제8장 §6 시스템 인증 기록](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**;
+- **[제9장 §8 시스템 인증 기록](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — 시스템 분류 및 처리**.
 
 제8장의 절차는 다음과 같습니다.

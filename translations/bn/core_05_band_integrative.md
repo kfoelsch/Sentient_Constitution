@@ -54,7 +54,7 @@
 
 - ঊর্ধ্ব: [অধ্যায় দুই §1 — উদ্দেশ্য ও ভূমিকা](core_02_definition_structure.md#1-উদদশয-ও-ভমক); [অধ্যায় দুই §2 সংজ্ঞা সততা প্রয়োজনীয়তা](core_02_definition_structure.md#2-সজঞ-সতত-পরযজনযত); [অধ্যায় তিন §2 — পর্যবেক্ষণযোগ্য ব্যবস্থা আচরণ থেকে অ-অনুপালন](core_03_definition_integrity.md#2-পরযবকষণযগয-বযবসথ-আচরণ-থক-অ-অনপলন)।
 - অধঃ: [অধ্যায় চার §§1 ও 4 — একমাত্র বলবৎ ও ভার বরাদ্দ; অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#1-একমতর-বলবৎ-ও-ভর-বরদদ); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অ-অনুপালন নির্ণয় রূপরেখা](../../core_05.035_band_accountability.md#non-compliance-finding-profile)।
-- সঙ্গে পড়ুন: [অধ্যায় এক §11.3 অসারিবদ্ধতা শনাক্তকরণ](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) ও [§11.4 অসারিবদ্ধতা সংশোধন ও দখল প্রতিক্রিয়া](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **সাংবিধানিক অসারিবদ্ধতা** দায়িত্বশীল ব্যবস্থাপনা ও প্রণোদনার বিচ্যুতি; এটি **অ-অনুপালন**-এর স্থলাভিষিক্ত লেবেল নয়; [অবশিষ্ট ঝুঁকি / অসারিবদ্ধতা](../../core_05.040_band_continuity.md#residual-risk--misalignment) — প্রশমনের পর আবদ্ধ অবশিষ্ট ঝুঁকি; [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — অধ্যায় সাতের প্রত্যয়ন সেতু, সাধারণ অ-অনুপালন রায় নয়।
+- [§19.4 মিসালাইনমেন্ট কারেকশন এবং ক্যাপচার রেসপন্স](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **সাংবিধানিক মিসলাইনমেন্ট** হল দায়িত্বশীল ব্যবস্থাপনা এবং ইনসেনটিভ ডাইভারজেন্স; এটি **অ-সম্মতি** জন্য একটি বিকল্প লেবেল নয়;
 
 </details>
 
@@ -101,7 +101,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: নীতি: [প্রস্তাবনা §3.3 শাসন-স্তর শৃঙ্খলা](core_00_preamble.md#33-শসন-সতর); [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency)।
+- ডাউনস্ট্রিম: নীতিগুলি: [প্রস্তাবনা §3.3 গভর্নেন্স-লেয়ার ডিসিপ্লিন](core_00_preamble.md#33-governance-layers); [চ্যাপ্টার ওয়ান §7 ফ্রিডম](core_01_a_values_principles.md#7-freedom-bounded-agency) (1.000 §7)।
 - স্বত্বাধিকারী তল: [অধ্যায় বারো: সাংবিধানিক চুক্তি, বৈধতা, অনুমোদন ও দায়িত্বশীল ব্যবস্থাপনা](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [অনুচ্ছেদ X-C: শাসনে অংশগ্রহণ ও ভোটের অধিকার](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)।
 - গুচ্ছ উপাদান: [*সাংবিধানিক চুক্তি স্তর ও ভিত্তিগত সাংবিধানিক পছন্দ*](core_05_band_integrative.md#সবধনক-চকত-সতর)
 - সঙ্গে পড়ুন: [ভিত্তিগত সাংবিধানিক পছন্দ](core_05_band_integrative.md#ভততগত-সবধনক-পছনদ), [বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [প্রভাবিত পক্ষের অবস্থা ও ওজন](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster), [শাসন](../../core_05.035_band_accountability.md#governance)।
@@ -121,9 +121,9 @@
 
     এতে আছে:
     - [ভিত্তিগত সাংবিধানিক পছন্দ](core_05_band_integrative.md#ভততগত-সবধনক-পছনদ);
-    - [নথিভুক্ত বৈধতা যন্ত্র](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) [অধ্যায় বারো §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism)-এর অধীনে;
-    - [গ্রহণ](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) ও [পুনঃঅনুমোদন](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) নিয়ম ([অধ্যায় বারো §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [অধ্যায় ষোল §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); এবং
-    - শাসন-কর্তৃত্ব গঠন বা স্থায়ীভাবে পুনর্গঠনের [রাজনৈতিক-সমতা তল](../../core_14.000_governance.md#41-entitlement-and-eligibility) — অধিকারী সংজ্ঞ প্রাণীর সেই স্তরে সমান কণ্ঠ আছে ([অনুচ্ছেদ X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))।
+    - [নথিভুক্ত বৈধতা যন্ত্র](core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority) [অধ্যায় বারো §1.1](core_12_governance.md#11-mechanism-families-auditability-and-pluralism)-এর অধীনে;
+    - [গ্রহণ](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) ও [পুনঃঅনুমোদন](core_12_governance.md#11-mechanism-families-auditability-and-pluralism) নিয়ম ([অধ্যায় বারো §1.3](core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [অধ্যায় ষোল §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); এবং
+    - শাসন-কর্তৃত্ব গঠন বা স্থায়ীভাবে পুনর্গঠনের [রাজনৈতিক-সমতা তল](core_12_governance.md#41-entitlement-and-eligibility) — অধিকারী সংজ্ঞ প্রাণীর সেই স্তরে সমান কণ্ঠ আছে ([অনুচ্ছেদ X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))।
   - **পরিসরের বাইরে:**
     - প্রভাবিত পক্ষের সাধারণ পরামর্শ;
     - কার্যকরী অংশগ্রহণ;
@@ -138,7 +138,7 @@
 
     **প্রাথমিক মূল্যায়ন:**
     - জিজ্ঞাসা করুন বিষয়টি কি সাংবিধানিক চুক্তি স্তরের প্রশ্ন: কে শাসন করে তা অনুমোদন, কোন বৈধতা-যন্ত্রে, এবং কোন স্থায়ী শর্তে। সেই কাজ এই স্তর চিহ্নিত করে — ব্যবস্থা কত বড়, সোচ্চার বা ব্যাপক ব্যবহৃত তা নয়।
-    - সেই চুক্তির সাংবিধানিক সারিবদ্ধতা যাচাই করুন: দাবি করা কর্তৃত্বকে মিলতে হয় একটি [নথিভুক্ত বৈধতা যন্ত্র](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority)-এর সঙ্গে, ভিত্তিগত পছন্দ প্রযোজ্য হলে [রাজনৈতিক-সমতা তল](../../core_14.000_governance.md#41-entitlement-and-eligibility)-এর সঙ্গে, এবং দায়িত্বশীল ব্যবস্থাপনা ও অধিকার-তল কর্তব্যের সঙ্গে যা এই সংবিধানের অধীনে শাসন ক্ষমতাকে জবাব দিতে বাধ্য রাখে ([অধ্যায় এক §11.1 সারিবদ্ধতা প্রয়োজনীয়তা](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement))।
+    - সেই চুক্তির সাংবিধানিক সারিবদ্ধতা যাচাই করুন: দাবি করা কর্তৃত্বকে মিলতে হয় একটি [নথিভুক্ত বৈধতা যন্ত্র](core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority)-এর সঙ্গে, ভিত্তিগত পছন্দ প্রযোজ্য হলে [রাজনৈতিক-সমতা তল](core_12_governance.md#41-entitlement-and-eligibility)-এর সঙ্গে, এবং দায়িত্বশীল ব্যবস্থাপনা ও অধিকার-তল কর্তব্যের সঙ্গে যা এই সংবিধানের অধীনে শাসন ক্ষমতাকে জবাব দিতে বাধ্য রাখে ([অধ্যায় এক §11.1 সারিবদ্ধতা প্রয়োজনীয়তা](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement))।
     - [প্রস্তাবনা §3.3 শাসন-স্তর শৃঙ্খলা](core_00_preamble.md#33-শসন-সতর) প্রয়োগ করুন: ভিত্তিগত অনুমোদনকে ইতিমধ্যে অনুমোদিত ব্যবস্থার ভিতরের সাধারণ প্রভাবিত-পক্ষ অংশগ্রহণ থেকে আলাদা রাখুন।
     - নীরবতা, শুধু ব্যবস্থা ব্যবহার, বাজার উপস্থিতি বা ব্র্যান্ডকে সাংবিধানিক চুক্তি বা শাসিত হওয়ার সম্মতি গণ্য করবেন না।
 <a id="constitutional-contract-layer-c"></a>
@@ -157,8 +157,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: নীতি: [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. প্রক্রিয়া দ্বন্দ্ব নিষ্পত্তি](core_05_band_integrative.md)।
-- স্বত্বাধিকারী তল: [অধ্যায় বারো অধ্যায় এক §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*ভিত্তিগত সাংবিধানিক পছন্দের রাজনৈতিক-সমতা তল*; *স্থায়ী রাজনৈতিক-কণ্ঠ তল*); [অনুচ্ছেদ X-C: শাসনে অংশগ্রহণ ও ভোটের অধিকার](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)।
+- ডাউনস্ট্রিম: নীতিগুলি: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [১৩. সাংবিধানিক সংঘর্ষের সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)।
+- রাইটস-লেয়ার পয়েন্টার: [আর্টিকেল X-B](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*শাসনের অংশগ্রহণ এবং ভোটের এনটাইটেলমেন্ট*)।
 - গুচ্ছ উপাদান: [*সাংবিধানিক চুক্তি স্তর ও ভিত্তিগত সাংবিধানিক পছন্দ*](core_05_band_integrative.md#সবধনক-চকত-সতর)
 - সঙ্গে পড়ুন: [সাংবিধানিক চুক্তি স্তর](core_05_band_integrative.md#সবধনক-চকত-সতর), [প্রভাবিত পক্ষের প্রতিনিধিত্ব ও ওজন সীমা (বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [প্রক্রিয়াগত ন্যায্যতা](../../core_05.055_band_participation.md#procedural-fairness-constitutional)।
 - স্তর: **সাংবিধানিক চুক্তি স্তর (CCL)**। ইতিমধ্যে অনুমোদিত ব্যবস্থার ভিতরের **প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ (SSP)** থেকে পৃথক।
@@ -176,7 +176,7 @@
     - সেই কর্তৃত্বের পরিসর ও স্থায়ী শর্ত।
 
     এটি [সাংবিধানিক চুক্তি স্তর](core_05_band_integrative.md#সবধনক-চকত-সতর)-এর।
-    - স্বত্বাধিকারী: [অধ্যায় বারো অধ্যায় এক §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)।
+    - স্বত্বাধিকারী: [অধ্যায় বারো অধ্যায় এক §4.1](core_12_governance.md#41-entitlement-and-eligibility)।
     - অধিকার-স্তর পয়েন্টার: [অনুচ্ছেদ X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*শাসনে অংশগ্রহণ ও ভোটের অধিকার*)।
     - [সংজ্ঞতা অ-বহিষ্কার](../../core_05.055_band_participation.md#sentience-non-exclusion)-এর অধীনে প্রযোজ্য।
   - **পরিসরের বাইরে:**
@@ -212,7 +212,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- সঙ্গে পড়ুন: [উৎপাদন ক্ষমতা](../../core_05.040_band_continuity.md#productive-capacity-constitutional), [সাংবিধানিক দক্ষতা](../../core_05.040_band_continuity.md#constitutional-efficiency) ও [এড়ানো যায় এমন ভার](../../core_05.040_band_continuity.md#avoidable-burden) — [অধ্যায় এক §11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)-এর অধীনে বৈধ পুরস্কার খুঁজে-পাওয়ার সাংবিধানিক ওয়ারেন্ট; যেখানে কোনো দাবিদার ক্ষমতা বা দক্ষতা লাভে একচেটিয়া ন্যায্য করে, সেই দাবি [§11.1.5 সাংবিধানিক ফল দাবি শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)-এর অধীনে ফলে খুঁজে পাওয়া যায় এমন থাকতে হয়।
+- [অধ্যায় এক §19.1.3 দায়িত্বশীল ব্যবস্থাপনা এবং অপারেটর অ্যাপ্লিকেশন](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (1.010 §19.1.3); যেখানে একজন দাবিদার ক্ষমতা বা দক্ষতা লাভের দ্বারা এক্সক্লুসিভিটিকে ন্যায্যতা দেয়, সেই দাবিগুলি অবশ্যই ফলাফল-অনুসন্ধানযোগ্য থাকবে
 - সরাসরি সাংবিধানিক প্রভাবের উদ্ভাবনে, জনস্বার্থ [জীবনকাল সমতুল্য একক (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) দিয়ে অধ্যায় আটের অধীনে অবদানের মাত্রার এক মাপ হিসেবে মূল্যায়ন করা যেতে পারে।
 
 </details>
@@ -223,7 +223,7 @@
 
 - **এটি কী**
   - **পরিসরে:** বস্তুগতভাবে নতুন ও সামাজিকভাবে উপকারী আবিষ্কার, গবেষণা, নির্মাণ ও সৃষ্টিকে পুরস্কৃত করার সাংবিধানিক নিয়ম — সেই পুরস্কারকে স্থায়ী ঘেরাও হতে না দিয়ে।
-    - সাংবিধানিক ওয়ারেন্ট: [অধ্যায় এক §11.1.3](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)-এর অধীনে পুরস্কার বৈধভাবে [উৎপাদন ক্ষমতা](../../core_05.040_band_continuity.md#productive-capacity-constitutional) ও [সাংবিধানিক দক্ষতা](../../core_05.040_band_continuity.md#constitutional-efficiency) খুঁজে পেতে পারে; [এড়ানো যায় এমন ভার](../../core_05.040_band_continuity.md#avoidable-burden) ফাঁকা কাজ, মজুদ বা ঘেরাও ঘর্ষণ পুরস্কৃত করা থেকে রক্ষা করে যা কোনো সাংবিধানিক উদ্দেশ্য সেবা করে না।
+    - **সাংবিধানিক ভিত্তি:** [Chapter One §19.1.3 তত্ত্বাবধান ও পরিচালকের প্রয়োগ](../../core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) অনুসারে, পুরস্কার বৈধভাবে [উৎপাদনক্ষমতা](../../core_05.040_band_continuity.md#productive-capacity) ও [সাংবিধানিক দক্ষতা](../../core_05.040_band_continuity.md#constitutional-efficiency)-র সঙ্গে যুক্ত হতে পারে; [এড়ানোযোগ্য বোঝা](../../core_05.040_band_continuity.md#avoidable-burden) সাংবিধানিক উদ্দেশ্যহীন ব্যস্ততার কাজ, মজুত করে রাখা বা বেষ্টনী-সংক্রান্ত বাধার পুরস্কার দেওয়া ঠেকায়।
     - পুরস্কার অবদান, উন্নয়ন ভার ও প্রকাশ স্বীকার করতে পারে।
     - অস্থায়ী বহিষ্করণ থাকতে পারে শুধু যখন সেই বহিষ্করণ:
       - সংকীর্ণ;
@@ -303,7 +303,7 @@
 
 **আধা-স্বাধীন প্রসঙ্গ** (উপাদান সংজ্ঞা যৌথ-আহ্বান পরিসরের বাইরেও চলতে পারে):
 
-- **যৌথ আহ্বান:** যেখানে প্রণোদনা কাঠামো, স্থলাভিষিক্ত সততা, বা শর্তসাপেক্ষ-নিষ্পত্তি শৃঙ্খলা [অধ্যায় এক §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)-এর অধীনে বস্তুগত।
+- **যৌথ আহ্বান:** যেখানে প্রণোদনা কাঠামো, প্রক্সি অখণ্ডতা, বা কন্টিনজেন্ট-সেটেলমেন্ট শৃঙ্খলা [অধ্যায় এক §19 ইনসেনটিভ অ্যালাইনমেন্ট এবং সিস্টেম ক্যাপচার](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) এর অধীনে উপাদান।
 - **পরিসর:** যৌথ আহ্বান পূরণ হলে, পুরস্কার, লক্ষ্য ও শাসন সংকেত সাংবিধানিক ফলের সঙ্গে সারিবদ্ধ থাকে কি না তার জবাবদিহি পরিমাপ পরিবারের যৌথ ঘর — স্থলাভিষিক্ত সততা ও শর্তসাপেক্ষ-নিষ্পত্তি শৃঙ্খলা সহ।
 
 **বিষয়-দল সদস্য।** এই দলে আছে:
@@ -324,9 +324,9 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - অধঃ: জবাবদিহি পরিমাপ পরিবার (*সাংবিধানিক পরিমাপ হিসেবে প্রণোদনা সারিবদ্ধতা ও স্থলাভিষিক্ত সততা*); নীতি: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)-এর অধীনে চতুষ্ক দখল শৃঙ্খলা; [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং); [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ও [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
-- নীতি-স্তর নিয়ম: [অধ্যায় এক §11.1 সারিবদ্ধতা প্রয়োজনীয়তা](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) ও [অধ্যায় এক §11.2 সুবিধাজনক স্থলাভিষিক্ত ও স্থলাভিষিক্ত বিচ্যুতি](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ: [অধ্যায় এক §11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) ও [§11.1.4 ভূমিকা-গভীরতা ও বস্তুগত-দায়িত্ব পথ](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)।
-- অসারিবদ্ধতা শনাক্তকরণ: [অধ্যায় এক §11.3 অসারিবদ্ধতা শনাক্তকরণ](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)।
-- সক্রিয় সংশোধন ও দখল উত্তরণ: [অধ্যায় এক §11.4 অসারিবদ্ধতা সংশোধন ও দখল প্রতিক্রিয়া](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)।
+- [§19.1.4 ভূমিকা-গভীরতা এবং উপাদান-দায়িত্বের পথ](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)।
+- ডাউনস্ট্রিম: নীতিগুলি: [অধ্যায় এক §19.3 মিসালাইনমেন্ট সনাক্তকরণ](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (1.010 §19.3)।
+- ডাউনস্ট্রিম: নীতিগুলি: [অধ্যায় এক §19.4 ভুল সংশোধন এবং ক্যাপচার প্রতিক্রিয়া](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.010 §19.4)।
 - গুচ্ছ উপাদান: [প্রণোদনা সারিবদ্ধতা, স্থলাভিষিক্ত সততা ও শর্তসাপেক্ষ নিষ্পত্তি](core_05_band_integrative.md#incentive-alignment-semi-independent)
 - সঙ্গে পড়ুন: [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, ঘনত্ব, বাজার কাঠামো ও প্রস্থান-পথ সততা*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) যেখানে নির্ভরতা, ঘনত্ব, শাসন-রূপ প্রণোদনা, বা প্রস্থান-গুণ বিশ্লেষণ বস্তুগতভাবে জড়িত; [অধ্যায় পাঁচ *শর্তসাপেক্ষ দাবি, ঘটনা-চুক্তি বাজার, সুযোগের খেলা ও অভ্যন্তরীণ সুবিধা*](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) যেখানে শর্তসাপেক্ষ কাঠামো বস্তুগতভাবে জড়িত; ব্যবস্থা দখল, স্থলাভিষিক্ত-সংকেত বিচ্যুতি, সত্য (সাংবিধানিক বন্ধন), জ্ঞানতাত্ত্বিক সততা ও অর্থপূর্ণ কর্তৃত্ব।
 
@@ -478,7 +478,7 @@
 - **কীভাবে পরিমাপ ও মূল্যায়ন করতে হয়**
   - **প্রাথমিক মাপ:** [জবাবদিহি পরিমাপ পরিবার](core_05_apex_accountability_leg.md#accountability-measurement-family) — *পুরস্কার কাঠামো, বাজার ক্ষমতা ও জবাব দেওয়ার বাধ্যবাধকতা কি কর্তব্যকে আসল রাখে?* এখানে জিজ্ঞাসা করতে ব্যবহার করুন বাজি, পূর্বাভাস বাজার ও সুযোগভিত্তিক পেমেন্ট কি অবৈধ ক্ষতি, অভ্যন্তরীণ ক্ষমতা, বা জন বা বিশ্বস্ত সিদ্ধান্ত মোচড়ানো পুরস্কৃত করা এড়ায়।
 
-    **প্রাথমিক মূল্যায়ন:** এমন ব্যবস্থাকে [অধ্যায় এক §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) পূরণ করতে হয়, সহ:
+**প্রাথমিক মূল্যায়ন:** এই ধরনের সিস্টেমগুলি অবশ্যই [অধ্যায় এক §19.5 আনুষঙ্গিক দাবি, গেমস অফ চান্স, এবং ইভেন্ট-কন্ট্রাক্ট মার্কেটস](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets), সহ:
     - সংজ্ঞ প্রাণী যে অন্তর্নিহিত ঘটনায় বাজি ধরতে বা নিষ্পত্তি করতে পারে তাতে [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) ও [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) প্রয়োগ;
     - ফল নিষ্পত্তি ন্যায্য ও স্বাধীন রাখা — সম্ভব হলে একাধিক উৎস ব্যবহার, এবং বিরোধ পথ চ্যালেঞ্জের জন্য খোলা রাখা;
     - যেকোনো কর্তা কত ঘনত্ব, লিভারেজ ও এক্সপোজার নিতে পারে তা সীমাবদ্ধ করা, সংজ্ঞ প্রাণী ও বিস্তৃত ব্যবস্থা কত নাজুক তার স্কেলে;
@@ -620,8 +620,8 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - অধঃ: নীতি: [2. সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (কর্তৃত্ব স্তূপ বনাম অভ্যন্তরীণ ক্রম অধ্যায় একের সঙ্গে পড়া)।
-- অধঃ: [অধ্যায় এক — §8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (সমন্বিত পাঠ ও শেষ-আশ্রয় ক্রম); [অধ্যায় এক §8.4 সাংবিধানিক অর্থ দ্বন্দ্ব নিষ্পত্তি](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*একক দ্বন্দ্ব পদ্ধতি, অন্তর্ভুক্তি স্তর সহ*); [অধ্যায় চৌদ্দ — গ্রহণকারীদের জন্য অভ্যন্তরীণ ক্রম](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [অধ্যায় ষোল](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*অন্তর্ভুক্তি সেতু — হেফাজত, সংস্করণ, গ্রহণ; দ্বিতীয় স্তূপ বা দ্বন্দ্ব-ক্রম ঘর নয়*)।
-- অধঃ: [অধ্যায় ছয় — স্তর পরিসর](../../core_06.000_rights_part_a.md#12-layer-scope); [অধ্যায় তেরো §4 স্তর পরিসর](../../core_15.000_non_regression.md#4-layer-scope) ও [অধ্যায় পনেরো §12 স্তর পরিসর](../../core_17.000_amendment_ratification.md#12-layer-scope) (*স্বত্বাধিকারী অ-স্থানান্তর স্থানীয়ভাবে প্রয়োগ*); ক্রমাঙ্কিত `core_*` যন্ত্র জুড়ে অধ্যায়-উদ্বোধন স্বত্বাধিকারী বক্তব্য।
+- অধঃ: [অধ্যায় এক — §8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (সমন্বিত পাঠ ও শেষ-আশ্রয় ক্রম); [অধ্যায় এক §8.4 সাংবিধানিক অর্থ দ্বন্দ্ব নিষ্পত্তি](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*একক দ্বন্দ্ব পদ্ধতি, অন্তর্ভুক্তি স্তর সহ*); [অধ্যায় চৌদ্দ — গ্রহণকারীদের জন্য অভ্যন্তরীণ ক্রম](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [অধ্যায় ষোল](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*অন্তর্ভুক্তি সেতু — হেফাজত, সংস্করণ, গ্রহণ; দ্বিতীয় স্তূপ বা দ্বন্দ্ব-ক্রম ঘর নয়*)।
+- অধঃ: [অধ্যায় ছয় — স্তর পরিসর](../../core_06.000_rights_part_a.md#12-layer-scope); [অধ্যায় তেরো §4 স্তর পরিসর](core_13_non_regression.md#4-layer-scope) ও [অধ্যায় পনেরো §12 স্তর পরিসর](../../core_19.000_amendment_ratification.md#12-layer-scope) (*স্বত্বাধিকারী অ-স্থানান্তর স্থানীয়ভাবে প্রয়োগ*); ক্রমাঙ্কিত `core_*` যন্ত্র জুড়ে অধ্যায়-উদ্বোধন স্বত্বাধিকারী বক্তব্য।
 - সঙ্গে পড়ুন: [করপাস](core_05_band_integrative.md#করপস); [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-নত-সজঞ-ও-অধকর) (*ধনাত্মক ক্ষেত্র→স্বত্বাধিকারী মানচিত্র*, ধারা 4–7); [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) ও [চ্যালেঞ্জ-যোগ্যতা](../../core_05.035_band_accountability.md#contestability) (*বাধ্যতামূলক দাবির ব্যবহারিক বলবৎযোগ্যতা*); [প্রস্তাবনা §3.3](core_00_preamble.md#33-শসন-সতর) ও [সাংবিধানিক চুক্তি স্তর](core_05_band_integrative.md#সবধনক-চকত-সতর) (*শাসন-স্তর স্থলাভিষিক্ত-নিরোধ*); [সাংবিধানিক বন্ধন](core_05_band_integrative.md#সবধনক-বনধন); **CJS-0.1** (*বাস্তবায়ন বিষয় রাউটার*)।
 
 </details>
@@ -667,13 +667,13 @@
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **শ্রেষ্ঠত্ব:** করপাসের বাধ্যতামূলক কর্তব্য তাদের বৈধ উৎস, গ্রহণ ও শাসন-স্তর পরিসরে প্রাধান্য পায়। সেই শ্রেষ্ঠত্ব ফল এই এন্ট্রি কার্যকরী [করপাস](core_05_band_integrative.md#করপস) ও প্রযোজ্য গ্রহণ বা অন্তর্ভুক্তি যন্ত্রের সঙ্গে প্রয়োগের ফল — [অধ্যায় চৌদ্দ](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms)-এর অন্য নর্মের তুলনায় শ্রেষ্ঠত্ব এবং [অধ্যায় চৌদ্দ §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)-এর প্রযোজ্য বাহ্যিক আইনের অ-স্থানচ্যুতি সহ। বাস্তবায়ন, সহায়ক পাঠ, ব্যক্তিগত শৃঙ্খলা, জরুরি ফ্রেমিং, বা কার্যকরী অনুশীলন সেই বাধ্যতামূলক কর্তব্য তাদের বৈধ পরিসরে সংকুচিত করতে পারে না।
+    - **শ্রেষ্ঠত্ব:** করপাসের বাধ্যতামূলক কর্তব্য তাদের বৈধ উৎস, গ্রহণ ও শাসন-স্তর পরিসরে প্রাধান্য পায়। সেই শ্রেষ্ঠত্ব ফল এই এন্ট্রি কার্যকরী [করপাস](core_05_band_integrative.md#করপস) ও প্রযোজ্য গ্রহণ বা অন্তর্ভুক্তি যন্ত্রের সঙ্গে প্রয়োগের ফল — [অধ্যায় চৌদ্দ](../../core_18.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms)-এর অন্য নর্মের তুলনায় শ্রেষ্ঠত্ব এবং [অধ্যায় চৌদ্দ §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)-এর প্রযোজ্য বাহ্যিক আইনের অ-স্থানচ্যুতি সহ। বাস্তবায়ন, সহায়ক পাঠ, ব্যক্তিগত শৃঙ্খলা, জরুরি ফ্রেমিং, বা কার্যকরী অনুশীলন সেই বাধ্যতামূলক কর্তব্য তাদের বৈধ পরিসরে সংকুচিত করতে পারে না।
 
     বাধ্যতামূলক দাবির ব্যবহারিক বলবৎযোগ্যতা — কাগজের প্রতিশ্রুতির বদলে পর্যবেক্ষণযোগ্য, চ্যালেঞ্জযোগ্য অনুপালন — [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) ও [চ্যালেঞ্জ-যোগ্যতা](../../core_05.035_band_accountability.md#contestability)-এর অধীনে মূল্যায়িত হয়। শাসন-স্তর স্থলাভিষিক্ত-নিরোধ (সাংবিধানিক চুক্তি বনাম প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ) থাকে [প্রস্তাবনা §3.3](core_00_preamble.md#33-শসন-সতর) ও [সাংবিধানিক চুক্তি স্তর](core_05_band_integrative.md#সবধনক-চকত-সতর)-এর অধীনে।
 
-    গ্রহণকারীদের জন্য, **অধ্যায় চৌদ্দ**-এর [গ্রহণকারীদের জন্য অভ্যন্তরীণ ক্রম](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) বাধ্যতামূলক সংবিধান ও গৃহীত বাস্তবায়ন পাঠের রেখায় এই একই জোড়া নিয়ম প্রয়োগ করে:
+    গ্রহণকারীদের জন্য, **অধ্যায় চৌদ্দ**-এর [গ্রহণকারীদের জন্য অভ্যন্তরীণ ক্রম](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) বাধ্যতামূলক সংবিধান ও গৃহীত বাস্তবায়ন পাঠের রেখায় এই একই জোড়া নিয়ম প্রয়োগ করে:
     - এই সংবিধান ও তার সমন্বিত সংজ্ঞা পাঠ কীভাবে পড়া হয় এবং অনুপালন কী গণ্য হয় তা নিয়ন্ত্রণ করে; এবং
-    - গৃহীত বাস্তবায়ন পাঠ শুধু সত্যি যে পরিসর গৃহীত হয়েছে তার ভিতরে প্রযোজ্য, এবং [অধ্যায় তেরোর অ-পশ্চাদগমন](../../core_15.000_non_regression.md) বা এই এন্ট্রিতে বলা শ্রেষ্ঠত্ব ফল পিছু হঠাতে পারে না।
+    - গৃহীত বাস্তবায়ন পাঠ শুধু সত্যি যে পরিসর গৃহীত হয়েছে তার ভিতরে প্রযোজ্য, এবং [অধ্যায় তেরোর অ-পশ্চাদগমন](core_13_non_regression.md) বা এই এন্ট্রিতে বলা শ্রেষ্ঠত্ব ফল পিছু হঠাতে পারে না।
   - **পরিসরের বাইরে:** সহায়ক-নথির গ্লস, মানচিত্র, কাজের তালিকা, বা গ্রহণ ব্র্যান্ড যেমন — সেগুলো কর্তৃত্ব স্তূপের স্তর নয়; ঐচ্ছিক নির্দেশনা যা উৎস অগ্রাধিকার পুনর্বিন্যাস বা বাধ্যতামূলক কর্তব্য স্থানচ্যুত করার প্রস্তাব নয়।
 <a id="authority-stack-a"></a>
 - **কীভাবে পরিমাপ ও মূল্যায়ন করতে হয়**
@@ -704,12 +704,12 @@
     - আকাঙ্ক্ষামূলক ভাষা বা স্থানীয় অনুশীলন ব্যবহার করে বৈধ উৎস ও শাসন-স্তর পরিসরে করপাসের বাধ্যতামূলক কর্তব্য স্থানচ্যুত করা;
     - এক স্বত্বাধিকারী স্তরের কর্তব্য অন্য স্বত্বাধিকারী স্তরের ভিতরে সারবস্তু পুনর্ব্যক্ত করা, পাঠক-নির্দেশনা গদ্যকে কার্যকরী ফলে তোলা সহ;
     - বৈধতা বা শাসন অধ্যায়ের ট্রিগার, রেফারাল, বা উত্তরণ ভাষাকে চূড়ান্ত শ্রেণিবিন্যাস বা শাস্তি আইন গণ্য করা যেখানে স্বত্বাধিকারী স্তর সেই কর্তৃত্ব অধ্যায় আট থেকে দশে সংরক্ষণ করে;
-    - প্রক্রিয়া, শাসন, বা বাস্তবায়ন ফ্রেমিং ব্যবহার করে [অধ্যায় ছয়](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)-এর অধিকার-তল সংকুচিত, পুনঃসংজ্ঞায়িত, বা স্থানান্তর করা [অধ্যায় তেরো](../../core_15.000_non_regression.md)-এর অ-পশ্চাদগমন ও অধ্যায় ছয়ের উদ্বোধন চুক্তির বিপরীতে;
+    - প্রক্রিয়া, শাসন, বা বাস্তবায়ন ফ্রেমিং ব্যবহার করে [অধ্যায় ছয়](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)-এর অধিকার-তল সংকুচিত, পুনঃসংজ্ঞায়িত, বা স্থানান্তর করা [অধ্যায় তেরো](core_13_non_regression.md)-এর অ-পশ্চাদগমন ও অধ্যায় ছয়ের উদ্বোধন চুক্তির বিপরীতে;
     - অ-স্বত্বাধিকারী স্তরে সমান্তরাল শ্রেণিবিন্যাস বা কর্মপ্রবাহ উদ্ভাবন যখন [প্রস্তাবনার স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-নত-সজঞ-ও-অধকর) ইতিমধ্যে প্রামাণিক ঘর বরাদ্দ করে;
     - শ্রেষ্ঠত্ব বা অনুপালন দাবি করা এমনভাবে যা প্রতিষ্ঠিত উৎস ক্রম উল্টে দেয়, বা বাস্তবায়ন, সহায়ক পাঠ, ব্যক্তিগত শৃঙ্খলা, জরুরি ফ্রেমিং, বা কার্যকরী অনুশীলনকে বৈধ পরিসরে করপাসের বাধ্যতামূলক কর্তব্য স্থানচ্যুত করতে দেয়;
     - অভ্যন্তরীণ ক্রমকে শর্টকাট হিসেবে ব্যবহার করে কঠোরতর পাঠ বেছে নেওয়া, [অধ্যায় ছয়](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)-এর অধিকার-তল সুরক্ষা [অধ্যায় এক](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) যা স্পষ্ট অনুমতি দেয় তার বাইরে সংকুচিত করা, বা সাধারণ পাঠে এক উৎস স্তর অন্যটির সঙ্গে বদলানো;
     - অধ্যায় পাঁচের সংজ্ঞাকে প্রতিদ্বন্দ্বী আইনদেহ গণ্য করা যা নীতি বা অনুচ্ছেদ বাতিল করে ([অধ্যায় এক — §8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); বা
-    - গ্রহণকারীদের জন্য, গৃহীত বাস্তবায়ন পাঠকে গ্রহণ পরিসরের ভিতরে এই সংবিধান বাতিলকারী গণ্য করা, বা [অধ্যায় তেরো](../../core_15.000_non_regression.md)-এর অ-পশ্চাদগমন তল শিথিলকারী গণ্য করা (**অধ্যায় চৌদ্দ**-এর [গ্রহণকারীদের জন্য অভ্যন্তরীণ ক্রম](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters))।
+    - গ্রহণকারীদের জন্য, গৃহীত বাস্তবায়ন পাঠকে গ্রহণ পরিসরের ভিতরে এই সংবিধান বাতিলকারী গণ্য করা, বা [অধ্যায় তেরো](core_13_non_regression.md)-এর অ-পশ্চাদগমন তল শিথিলকারী গণ্য করা (**অধ্যায় চৌদ্দ**-এর [গ্রহণকারীদের জন্য অভ্যন্তরীণ ক্রম](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters))।
 
 ---
 
@@ -720,7 +720,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: [অধ্যায় এক §3 অ-আলোচনাযোগ্য বন্ধন: নিরাপত্তা ও সত্য](core_01_a_values_principles.md); [অধ্যায় এক §6 প্রক্রিয়া দ্বন্দ্ব নিষ্পত্তি](core_01_b_interaction_interpretation.md)।
+- আপস্ট্রিম: নীতিগুলি: [অধ্যায় এক §2.1 অ-আলোচনাযোগ্য সীমাবদ্ধতা: নিরাপত্তা এবং সত্য](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (1.000 §2.1); [অধ্যায় এক §13 সাংবিধানিক সংঘর্ষের সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.005 §13)।
 - সঙ্গে পড়ুন: [নিরাপত্তা (বন্ধন)](../../core_05.040_band_continuity.md#safety-constraint), [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#সতয-সবধনক-বনধন), [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#authority-stack), এবং [ক্ষতি](../../core_05.035_band_accountability.md#harm)।
 
 </details>

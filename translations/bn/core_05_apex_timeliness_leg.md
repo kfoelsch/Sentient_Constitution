@@ -81,8 +81,8 @@
 
 **সময়ানুবর্তিতা পরিমাপ পরিবারের পাতা** — কার্যকরী পরিমাপ স্তর:
 
-- [সময়মতো সমাধান](../../core_05.035_band_accountability.md#timely-resolution)
-- [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- **আউট অফ স্কোপ:** পাতা-সংজ্ঞা বিবরণ, পরিমাপ স্তর, এবং বাস্তবায়ন মেকানিক্স মালিকানাধীন [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution), ভাইবোন পাতা এবং CJS।
+- [রেজোলিউশন পাথওয়ের ক্যাপচার](../../core_05.040_band_continuity.md#capture-of-resolution-pathways);
 
 **আড়াআড়ি।** সময়ানুবর্তিতা অংশগ্রহণ, তত্ত্বাবধান ও জবাবদিহি দিয়ে চলে; সেই পাগুলো কাজে লাগতে সময়মতো ঘটতে হবে।
 
@@ -100,7 +100,7 @@
 
 - অধঃ: সময়ানুবর্তিতা পরিমাপ পরিবার — শুধু-লিঙ্ক রোলআপ; পদ অনুসারে স্তর পাতা সংজ্ঞায় থাকে — দেখুন [সময়মতো সমাধান](../../core_05.035_band_accountability.md#timely-resolution), [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) এবং [সময়ানুবর্তিতা](#timeliness-constitutional) (শুধু-লিঙ্ক পা-প্রধান রোলআপ)।
 - সঙ্গে পড়ুন: [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional), [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) এবং [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) — সময়ানুবর্তিতা অন্য তিন চতুষ্কের পা দিয়েও চলে; সেই পাগুলো কাজে লাগতে সময়মতো ঘটতে হবে।
-- সঙ্গে পড়ুন: [অধ্যায় এগারো §6](../../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)।
+- সঙ্গে পড়ুন: [অধ্যায় এগারো §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)।
 
 </details>
 

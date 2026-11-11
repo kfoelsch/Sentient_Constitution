@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">পাঠক নির্দেশনা (অ-কার্যকরী): পড়ার ক্রম ও সহজ-ভাষার নোট</span></strong></summary>
 
-> সহজ-ভাষার পড়ার নোট: উচ্চ-স্তরের মূল্য ও দিকের জন্য **অধ্যায় এক** পড়ুন; সংজ্ঞার গঠন, সততা ও যাচাই যন্ত্রের জন্য **অধ্যায় দুই থেকে চার**; এবং ভিত্তিগত **অধিকার**-তলের জন্য **অধ্যায় ছয়**, তারপর ব্যাখ্যা, নিরীক্ষা ও নিষ্পত্তিতে পদের নির্ভুলতার জন্য এই অধ্যায়ে ফিরুন। (অন্য অধ্যায়, **অধ্যায় দশ** *অসদাচরণ* ও **অধ্যায় আট** *প্রস্থিতি* সহ, নিজেদের পড়ার পথে প্রযোজ্য; তারা অধ্যায় ছয়ের অধিকার-তল বা অধ্যায় দুই থেকে চারের সংজ্ঞা যন্ত্রের স্থলাভিষিক্ত নয়।)
+> সহজ ভাষায় পাঠ-নোট: উচ্চস্তরের মূল্যবোধ ও দিকনির্দেশনার জন্য **অধ্যায় এক** পড়ুন; সংজ্ঞার কাঠামো, অখণ্ডতা ও যাচাই-পদ্ধতির জন্য **অধ্যায় দুই থেকে চার**; এবং মৌলিক **অধিকার**-সুরক্ষার জন্য **অধ্যায় ছয়**—তারপর ব্যাখ্যা, নিরীক্ষা ও বিচার-নিষ্পত্তিতে পরিভাষার নির্ভুলতার জন্য এই অধ্যায়ে ফিরে আসুন। (অন্যান্য অধ্যায়ও নিজস্ব পাঠপথে প্রযোজ্য; এর মধ্যে **অধ্যায় চৌদ্দ** *অসদাচরণ* এবং **অধ্যায় এগারো** *অবস্থান* রয়েছে। এগুলো অধ্যায় ছয়ের অধিকার-সুরক্ষা বা অধ্যায় দুই থেকে চারের সংজ্ঞা-পদ্ধতির বিকল্প নয়।)
 
 </details>
 
@@ -77,7 +77,7 @@
 #### 2.1 যৌথ আহ্বান ও পূরণ
 যদি কোনো সংজ্ঞা — বা তার কোনো অংশ — কোনো নির্ভরশীল গুচ্ছের হয়, তাকে একা প্রয়োগ, পূরণ, বা বিচার করা চলে না। যখন গুচ্ছের সদস্য একই প্রয়োজনীয়তার টুকরো, সবাইকে পূরণ করতে হয়। শুধু কিছু পূরণ অনুপালন নয়।
 
-এই নিয়মের গুচ্ছ-স্থানীয় প্রয়োগ **বাইপাস-নিরোধ**-এর অধীনে থাকে (দ্বিতীয় «যৌথ আহ্বান» শিরোনাম নয়)। সেই বুলেট গুচ্ছ-নির্দিষ্ট খণ্ডন-নিরোধ নিয়ম বলে এবং `See this section` দিয়ে শেষ হতে পারে। তারা `Under Joint invocation and satisfaction, …` দিয়ে আবার খুলতে পারে না।
+এটি [অ্যান্টি-সেগমেন্টেশন প্রিন্সিপল](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) এর ক্লাস্টার ফর্ম। ক্লাস্টার-স্থানীয় অ্যাপ্লিকেশনগুলি **অ্যান্টি-বাইপাস** এর অধীনে উপস্থিত হয় (একটি দ্বিতীয় "যৌথ আহ্বান" শিরোনাম নয়)। প্রতিটি ক্লাস্টারের কম্পার্টমেন্ট এবং সুরক্ষিত দায়িত্বের তালিকা করে এবং সেই নীতির একটি উদ্ধৃতি দিয়ে শেষ হয়। তারা অবশ্যই `Under Joint invocation and satisfaction, …` দিয়ে আবার খুলবে না।
 
 <a id="22-standalone-definitions-interaction-and-full-context"></a>
 
@@ -144,7 +144,7 @@
 - [যোদ্ধা / অযোদ্ধা পার্থক্য](../../core_05.035_band_accountability.md#combatant--non-combatant-distinction)
 - [দক্ষতা দণ্ড](../../core_05.035_band_accountability.md#competency-bar)
 - [দক্ষতা ছাড়পত্র](../../core_05.035_band_accountability.md#competency-clearance)
-- [সম্মতি](../../core_05.055_band_participation.md#consent)
+- [বাণিজ্যিক সম্মতি](../../core_05.055_band_participation.md#commercial-compliance)
 - [সম্মতি, যৌন](../../core_05.055_band_participation.md#consent-sexual)
 - [সাংবিধানিক সংঘর্ষ](../../core_05.045_band_integrative.md#constitutional-collision)
 - [সাংবিধানিক সংঘর্ষ নথি](../../core_05.045_band_integrative.md#constitutional-collision-record)
@@ -300,7 +300,7 @@
 - [প্রকাশনার সত্যতা ও বেপরোয়া তল](../../core_05.050_band_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [যুক্তিসঙ্গতভাবে পূর্বদৃশ্য](../../core_05.050_band_oversight.md#reasonably-foreseeable)
 - [নথি আসন](../../core_05.035_band_accountability.md#record-seat)
-- [প্রতিকার ও সংশোধন](../../core_05.035_band_accountability.md#redress-and-remediation)
+- [প্রতিকার প্রস্তুতি](../../core_05.035_band_accountability.md#remediation-readiness)
 - [অ-অনুপালন থেকে আশ্রয়](../../core_05.055_band_participation.md#refuge-from-non-compliance)
 - [প্রতিকার ব্যবস্থা](../../core_05.035_band_accountability.md#remedy-system)
 - [প্রজনন স্বায়ত্তশাসন](../../core_05.055_band_participation.md#reproductive-autonomy)
@@ -453,8 +453,8 @@
 | [সাতত্য পরিমাপ পরিবার](core_05_apex_continuity_aim.md#continuity-measurement-family) | সংজ্ঞ প্রাণী ও ব্যবস্থা কি টিকতে পারে — পরিবেশগতভাবে, নির্ভরযোগ্যভাবে, এবং ব্যর্থতার ওপার দিয়ে? | [সাতত্য উদ্দেশ্য](core_05_apex_continuity_aim.md), [সাতত্য](../../core_05.040_band_continuity.md) | **সাতত্য** এক সাংবিধানিক **উদ্দেশ্য**, চতুষ্কের পা নয় — [সাংবিধানিক উদ্দেশ্য বিভাজন মানচিত্র](core_05_apex_continuity_aim.md#continuity-aim-decomposition); **সাতত্য** পটির পাতা প্রাথমিকে নিরেট মাপ: [পরিবেশগত পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint), [নির্ভরতা](../../core_05.040_band_continuity.md#dependency), [উল্টানো যায় এমনতা](../../core_05.040_band_continuity.md#reversibility), [স্থায়িত্ব](../../core_05.040_band_continuity.md#sustainability), [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05.040_band_continuity.md#proportionate-cross-system-support) |
 | [অংশগ্রহণ পরিমাপ পরিবার](core_05_apex_participation_leg.md#participation-measurement-family) | প্রভাবিত সংজ্ঞ প্রাণী কি ন্যায্যভাবে অংশ নিতে পারে — কণ্ঠ, পথ, শেখা ও গোপনীয়তা? | [অংশগ্রহণ](../../core_05.055_band_participation.md), [সাতত্য](../../core_05.040_band_continuity.md) | ন্যায্যতা, পথ ও কর্তৃত্বের পদ **অংশগ্রহণ** পটিতে; [গোপনীয়তা (তথ্যগত)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) গুচ্ছ **সাতত্য** পটিতে কারণ গোপনীয়তা অধিকার অনুচ্ছেদ জুড়ে বণ্টিত |
 | [তত্ত্বাবধান পরিমাপ পরিবার](core_05_apex_oversight_leg.md#oversight-measurement-family) | সংজ্ঞ প্রাণী কি দেখতে, যাচাই করতে ও বিশ্বাস করতে পারে ব্যবস্থা কী দেখায়? | [তত্ত্বাবধান](../../core_05.050_band_oversight.md), [সাতত্য](../../core_05.040_band_continuity.md) | সত্য ও জ্ঞানতাত্ত্বিক সততার প্রাথমিক **তত্ত্বাবধান** পটিতে (শুধু-লিঙ্ক পা-প্রধান রোলআপ [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional)); [বিশ্বাসযোগ্যতা](../../core_05.040_band_continuity.md#trustworthiness) ও [বিশ্বাস অবনতি ও বিভ্রান্তিকর নির্ভরতা](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) **সাতত্য** পটিতে (**Def.C4**) |
-| [জবাবদিহি পরিমাপ পরিবার](core_05_apex_accountability_leg.md#accountability-measurement-family) | পুরস্কার কাঠামো, বাজার ক্ষমতা ও জবাব দেওয়ার বাধ্যবাধকতা কি কর্তব্যকে আসল রাখে? | [জবাবদিহি](../../core_05.035_band_accountability.md), [সমন্বিত](../../core_05.045_band_integrative.md) | বাজার কাঠামো ও চ্যালেঞ্জ-যোগ্যতার প্রাথমিক **জবাবদিহি** পটিতে (শুধু-লিঙ্ক পা-প্রধান রোলআপ [জবাবদিহি](core_05_apex_accountability_leg.md#accountability)); প্রাথমিক স্তর [প্রণোদনা সারিবদ্ধতা, স্থলাভিষিক্ত সততা ও শর্তসাপেক্ষ নিষ্পত্তি](../../core_05.045_band_integrative.md#incentive-alignment-semi-independent) **সমন্বিত** পটিতে কারণ প্রণোদনা চতুষ্কের পা পেরিয়ে যায় |
-| [সময়ানুবর্তিতা পরিমাপ পরিবার](core_05_apex_timeliness_leg.md#timeliness-measurement-family) | বিরোধ, সংশোধন ও মেরামত কি তখন মিটে যখন প্রতিকার এখনও মানে রাখে? | [জবাবদিহি](../../core_05.035_band_accountability.md) | শুধু-লিঙ্ক পা-প্রধান রোলআপ [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional); নিরেট মাপ [সময়মতো সমাধান](../../core_05.035_band_accountability.md#timely-resolution) ও [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)-এ — সময়ানুবর্তিতা চতুষ্কের এক পা যার বাস্তবায়ন পাতা আজ জবাবদিহি পটিতে থাকে |
+| [জবাবদিহি পরিমাপ পরিবার](core_05_apex_accountability_leg.md#measuring-accountability) | পুরষ্কার কাঠামো, বাজার ক্ষমতা এবং জবাবদিহিতা কি কর্তব্যকে বাস্তব রাখে? | [জবাবদিহি](../../core_05.035_band_accountability.md), [ইন্টিগ্রেটিভ](core_05_band_integrative.md) | বাজারের কাঠামো এবং চ্যালেঞ্জ-যোগ্যতা প্রাইমারি **জবাবদিহি** ব্যান্ডে (../../[জবাবদিহি](core_05_apex_accountability_leg.md#accountability) লিঙ্ক-শুধুমাত্র লেগ-হেড রোলআপ); [ইনসেনটিভ অ্যালাইনমেন্ট, প্রক্সি ইন্টিগ্রিটি, এবং কন্টিনজেন্ট সেটেলমেন্ট](core_05_band_integrative.md#incentive-alignment-semi-independent) **ইন্টিগ্রেটিভ** ব্যান্ডে প্রাথমিক স্তর কারণ ইনসেনটিভগুলি টেট্রাডের পা ছড়িয়ে দেয় |
+| [সময়ানুবর্তিতা পরিমাপ পরিবার](core_05_apex_timeliness_leg.md#measuring-timeliness) | বিবাদ, সংশোধন, এবং মেরামতের সমাধান করা হয় যখন প্রতিকার এখনও গুরুত্বপূর্ণ? | [জবাবদিহি](../../core_05.035_band_accountability.md) | [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional) শুধুমাত্র-লেগ-হেড রোলআপ; [সময়োপযোগী রেজোলিউশন](../../core_05.035_band_accountability.md#timely-resolution) এবং [ক্যাপচার অফ রেজোলিউশন পাথওয়েজ](../../core_05.040_band_continuity.md#capture-of-resolution-pathways) এর উপর কংক্রিট ব্যবস্থা — সময়ানুবর্তিতা হল একটি টেট্র্যাড লেগ যার বাস্তবায়নের পাতাগুলি বর্তমানে জবাবদিহিband এ বাস করে |
 | [সাংবিধানিক কর্মক্ষমতা পরিমাপ পরিবার](../../core_05.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | সাংবিধানিক ফল কি নিরর্থক অপচয় ছাড়া দক্ষতার সঙ্গে দেওয়া হয়? | [সাতত্য](../../core_05.040_band_continuity.md) | পরিবার ঘর [`core_05_band_performance.md`](../../core_05.060_band_performance.md)-এ; সব পাতা দেহ আজ **সাতত্য**-এ কারণ তারা সাতত্য পটির গুচ্ছ সদস্য (দায়িত্বশীল ব্যবস্থাপনা / ভাগ করা ব্যবস্থার ক্ষমতা / আনুপাতিকতা–ভার–দক্ষতা) — দুই উদ্দেশ্যেরই যন্ত্র; চতুষ্কের পা নয়। সময়ানুবর্তিতার সমান্তরাল: পরিবার ঘর ≠ পাতা ঘর |
 
 </details>

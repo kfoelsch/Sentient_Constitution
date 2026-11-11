@@ -23,7 +23,7 @@
 
 13. **[관리](../../core_05.040_band_continuity.md#stewardship)**는 감응 존재들의 조직을 통해 물질적 시스템에 방향을 부여합니다 — **기둥 1**([§17](#17-결과-중심-관리-관리자의-역할): 결과에 영향을 미치는 직접 운영과 개선), **기둥 2**([선제적 관리](#16-pillar-2-proactive-stewardship): 문제를 일찍 발견하고 피할 수 있는 지체 없이 해결), **기둥 3**([§16.1](#161-분산된-이해) · [§16.2](#162-기관-발전): 공동체와 제도 차원의 역량) — [헌법의 사중 원칙](core_00_preamble.md#constitutional-tetrad)에 따른 지속적인 헌법적 정렬을 지향합니다. 특히 **[참여](core_05_apex_participation_leg.md#participation-constitutional)**(중대한 역할과 발언권), **[감독](core_05_apex_oversight_leg.md#oversight-constitutional)**(분산된 이해, 감사 가능성, 이의 제기 가능성 — 감독에는 감사가 필요하며 [System Alignment Certification](../../core_05.040_band_continuity.md#system-alignment-certification)은 여러 감사 절차 중 특히 규모가 큰 하나입니다), 그리고 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims)에 따른 **연속성** 목표를 포함합니다.
 14. **[결과를 수반하는 관리](#17-결과-중심-관리-관리자의-역할)**는 관리자 역할 그 자체입니다. 물질적 시스템의 중대한 운영, 유지관리, 감독 또는 개선 업무를 하는 누구에게나 적용되는 실무 의무, 기준, 보호를 뜻합니다 — **기둥 1**을 실제로 작동시키며, 공동 기준, 압박 속 정렬, 관리자 역할의 범위에 맞는 관찰 가능성을 더합니다.
-15. **[거버넌스](../../core_05.035_band_accountability.md#governance)**는 [헌법의 사중 원칙](core_00_preamble.md#constitutional-tetrad)에 따라 승인된 의사결정, 참여, 책임성을 구조화합니다. 특히 권한의 배분과 행사에 대한 **[감독](core_05_apex_oversight_leg.md#oversight-constitutional)** 및 [§18.1](#181-권한이-부여된-구조로서의-거버넌스)의 **권한에 비례하는 책임성**이 중요합니다. 승인된 권한이나 중대한 역할이 커질수록 헌법적 책임과 감독은 강화되며 결코 약화되지 않습니다. [§18.3 직무 분리](#183-직무-분리)는 행동한 사람이 그 행동의 점검자도 되는 일을 막습니다. [§18.4 지속적 정당화](#184-지속적-정당화)는 그 장치들이 지금도 이 헌법에 부합한다는 점을 계속 입증하도록 합니다. 거버넌스와 관리가 충돌하면 원칙 차원에서는 관리의 규율이 우선합니다. 다만 **필요성**과 **비례성**이 시정 경로를 갖춘 제한적·기간 한정 예외를 명시적으로 정당화하는 경우는 예외입니다. 운영상 승인과 계약 차원의 요건은 **제13장**의 책임으로 남습니다.
+15. **[거버넌스](../../core_05.035_band_accountability.md#governance)**는 [헌법 사중체](../../core_00.000_preamble.md#constitutional-tetrad)에 따라 승인된 의사결정, 참여, 책무성을 구조화한다. 특히 권한이 어떻게 배분되고 행사되는지에 대한 **[감독](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)**과 [§18.1](#181-governance-as-authorized-structure)에 따른 **권한 비례 응답책임**을 다룬다. 승인된 권한이 더 크거나 더 중대한 역할일수록 헌법상 책무성과 감독은 높아져야 하며 결코 낮아져서는 안 된다. [§18.3 직무 분리](#183-separation-of-duties)는 행동한 사람이 스스로 점검하는 일을 막는다. [§18.4 지속적 정당화](#184-ongoing-justification)는 해당 조치가 이 헌법에 계속 부합함을 입증하도록 한다. 거버넌스와 스튜어드십이 충돌하면, **필요성**과 **비례성**이 시정 경로를 갖춘 한정적이고 기간이 제한된 예외를 명시적으로 정당화하지 않는 한 원칙 층위에서는 스튜어드십 규율이 우선한다. 운영상 권한 부여와 계약 층위 요건은 계속 **Chapter Sixteen**의 소관이다.
 16. **[유인 정렬과 시스템 포획](#19-인센티브-정렬-및-시스템-포획)**은 유인 구조, 대리 지표의 무결성, 단기 시야의 결함, 보상 경로의 시정, 포획 대응에 관한 원칙 차원의 규율을 제시합니다.
 17. **[통합 적용](#20-통합-적용)**은 장의 종합 부분입니다. 이후 장들은 이 장의 통합 가치 체계를 통해 읽습니다.
 
@@ -47,7 +47,7 @@
 - 후속 적용: [제12장 §1 — 목적과 역할](core_11_forum.md#1-purpose-and-role--participation-architecture) 및 [§4 — 포럼 유형의 정의](core_11_forum.md#4-forum-family-definitions--accountability-through-adjudication)(*포럼 유형은 이 절에 맞춰 이의를 제기할 수 있는 문제 제기, 시정 순서, 근본 원인 학습, 선제적 거버넌스를 위한 참여·감독 구조를 담당함*); 채택된 포럼 운영은 [corpus_forum.md](../../corpus_forum.md) 참조.
 - 후속 적용: 교육, Stakeholder System Participation, 투명성, 이해 가능성, 감사 및 검증, 물질적 책임으로 이어지는 역할 심화 경로의 권리 범위를 형성합니다.
   - 특히 [제III조: 생존과 필수 접근](core_06_rights_part_a.md#제-iii조-생존과-필수-접근), [제IV조: 감응 존재 중심 교육을 받을 권리](core_06_rights_part_a.md#제-iv조-감지자-중심-교육을-받을-권리), [제X조: 자기결정, 행위 주체성, 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XII조: 이해관계자의 시스템 참여, 대표성 및 적법 절차](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XIX조: 지위 및 참여 상태](core_06_rights_part_d.md#제xix조-참여-자격과-참여-지위), [제XXI조: 상호운용성, 이동성, 이동, 피난처 및 퇴장의 무결성](core_06_rights_part_d.md), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - 함께 읽기: [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) 및 **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 시스템 관리**. 운영상 역할 경로와 관리 역량 개발 경로에 관한 내용입니다.
+  - 함께 읽을 것: [Chapter Sixteen §5 — 승인된 역할, 역량 개발, 기여](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution) (16.000 §5) 및 **[CS-16.305 — 핵심 시스템 스튜어드십](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship)**: 운영 역할 경로와 스튜어드십 개발 경로에 관한 내용.
 - 하위 절(읽기 순서): [§16.1 분산된 이해](#161-분산된-이해)(대규모 역량의 공동체 측면) · [§16.2 제도 발전](#162-기관-발전)(조직 측면) · [§16.3 개방성의 지향](#163-개방성의-지향).
 - 함께 읽기: [§17 결과를 수반하는 관리](#17-결과-중심-관리-관리자의-역할)(*관리자 역할 자체를 별도 절로 승격한 것. 기둥 1의 직접 운영, 유지관리, 감독, 개선 의무와 [§17.1](#171-공동-관리-기준), [§17.2](#172-압박-속-정렬), [§17.3](#173-logging-the-role-not-the-steward), 공식 역할 바깥으로 규율을 확장하는 [§17.4 정렬된 자기 조직화](#174-정렬된-자기-조직화), [§17.5 저항의 의무](#175-저항-의무)를 포함함*).
 
@@ -79,7 +79,7 @@
 
 <br>
 
-*쉽게 말해, 세 가지 생각이 이 절을 하나로 묶습니다. 첫째, 감응 존재의 삶에 물질적 영향을 미치는 시스템을 잘 운영하려면 감응 존재들의 조직이 필요합니다. 전문가들만의 폐쇄적인 사제 집단이어서는 안 됩니다. 둘째, 좋은 관리자는 피해가 손을 쓰도록 강요할 때까지 기다리지 않습니다. 문제가 작을 때 알아차리고, 적절한 담당자에게 넘기며, 지체 자체가 피해가 되기 전에 마무리합니다. 셋째, 그 조직은 **큰 규모에서도 역량**을 길러야 합니다. 개인이 중대한 업무에 들어갈 실질적인 경로, 문제를 알아보고 이의를 제기할 만큼 충분한 공동체의 이해, 그리고 굳어 멈추지 않고 계속 배우는 제도가 필요합니다.*
+*쉽게 말해 이 절은 세 가지 생각으로 이루어집니다. 첫째, sentient의 삶에 영향을 미치는 실질적 시스템은 전문가만의 폐쇄된 집단이 아니라 sentient들이 조직을 이루어 운영해야 합니다. 둘째, 훌륭한 수탁자는 피해가 행동을 강제할 때까지 기다리지 않습니다. 문제가 작을 때 알아차리고 적절한 담당자에게 전달하여 지연 자체가 피해가 되기 전에 해결합니다. 셋째, 그러한 조직은 **규모에 맞는 역량**을 구축해야 합니다. 개인이 중대한 업무에 진입할 수 있는 실제 경로, 문제를 알아차리고 이의를 제기할 충분한 공동체 이해, 그리고 멈춰 서지 않고 계속 배우는 기관이 필요합니다.*
 
 <a id="16-limits"></a>
 관리에는 한계가 있습니다. **안전**, **진실**, **필요성**, **비례성**, **피할 수 있는 부담**, **인식론적 무결성**은 이러한 의무의 크기를 공정하게 정하고, 정직성을 지키며, 정당한 보안 필요성을 존중하도록 경계를 설정합니다. 아래의 기둥들은 그 제약 안에서 작동하며 이를 우회하지 않습니다.
@@ -130,12 +130,12 @@ flowchart TB
   - 영향을 받은 sentient는 참여, 대표성, 이의 제기 가능성 및 적법 절차를 다루는 공개된 이해관계자 체계 참여 이의 제기 경로를 먼저 이용합니다.
   - 이러한 보호는 실질적으로 영향을 받은 모든 sentient에게 제공되어야 합니다.
   - 이 보호는 이미 권한을 부여받은 체계, 기관 및 의사결정 영역 안에서 작동합니다.
-- **이해관계자 체계 참여로 해결할 수 없는 분쟁 — [포럼 심사](core_11_forum.md#dispute-sequencing):**
-  - 이해관계자 체계 참여의 이의 제기 경로가 계속 다투어지거나, 누락되거나 장악되었거나, 구제를 제공할 수 없는 경우, 주요 이해관계를 기준으로 [제12장 §1 — 목적과 역할](core_11_forum.md#1-purpose-and-role--participation-architecture) 및 [§4 — 포럼 계열 정의](core_11_forum.md#4-forum-family-definitions--accountability-through-adjudication)에 따라 독립적인 **포럼 계열**로 사안이 이관됩니다.
+- **이해관계자 시스템 참여로 해결할 수 없는 분쟁 — [포럼 검토](../../core_15.000_forum.md#dispute-sequencing):**
+  - 이해관계자 시스템 참여의 이의 제기 경로에서 다툼이 계속되거나, 경로가 없거나 포획되었거나, 구제를 제공할 수 없으면 주요 이해관계에 따라 독립적인 **포럼 계열**에 사안을 회부한다. 근거는 [Chapter Fifteen §1 — 목적과 역할](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture) 및 [§4 — 포럼 계열 정의](../../core_15.000_forum.md#4-forum-family-definitions--accountability-through-adjudication)이다.
   - 이곳에서 sentient는 결정을 실제로 다투고, 명확한 시정 명령을 받거나, 반복되는 양상에서 교훈을 얻을 수 있습니다.
-  - 주요 이해관계가 헌법 문구의 의미나 유효성, 또는 합법적 권한을 넘어서는 조치에 관한 것이라면 주관 계열은 [헌법 포럼](core_11_forum.md#46-constitutional-forums)입니다.
+  - 주요 이해관계가 헌법 문언의 의미나 효력, 또는 적법한 권한을 벗어난 행위라면 주된 계열은 [헌법 포럼](../../core_15.000_forum.md#46-constitutional-forums)이다.
   - 해당 포럼의 운영 방식에 관한 자세한 규칙은 [corpus_forum.md](../../corpus_forum.md)에 있습니다.
-- **누가 통치할 수 있는가 — [헌법 계약 계층](core_05_band_integrative.md#헌법-계약-층) ([제13장](core_12_governance.md)):**
+- **누가 통치할 수 있는가 — [헌법상 계약 층위](../../core_05.045_band_integrative.md#constitutional-contract-layer) (../../[Chapter Sixteen](core_12_governance.md)):**
   - 통치 권한 자체의 정당성, 즉 누가 어떤 정당성 메커니즘을 통해 어떤 범위와 지속적인 조건 아래 통치할 수 있는지는 이해관계자 체계 참여 및 포럼 심사와 별개의 문제입니다.
   - 참여 투표, 이의 제기 경로의 결과 또는 신뢰 점수는 통치 권한을 부여하지 않습니다.
   - 헌법상 권한 부여는 이해관계자 체계 참여에 따라 부담하는 의무를 없애지 않습니다.
@@ -183,7 +183,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 공유 체계 안에서 안전하게 살아가기 위해 모든 하위 시스템의 박사 학위가 필요해서는 안 됩니다. 하지만 어떤 체계가 삶에 미치는 영향이 클수록, 그 체계가 무엇을 하는지, 무엇이 잘못될 수 있는지, 잘못된 결정을 어떻게 다툴 수 있는지 더 잘 알 수 있어야 합니다. 투명성, 교육, 쉬운 설명, 감사 경로가 이를 가능하게 합니다. 복잡성은 중요한 내용을 숨길 핑계가 아닙니다. 사원의 **감독** 요소 아래 감독에는 감사가 필요합니다. 시스템 정렬 인증은 그러한 경로 중 특히 큰 감사 절차 하나이지, 유일한 절차는 아닙니다.*
+*쉽게 말해, 공유 시스템 안에서 안전하게 살기 위해 모든 하위 시스템의 박사학위가 필요해서는 안 됩니다. 다만 시스템이 삶에 더 큰 영향을 미칠수록 그 시스템이 무엇을 하고, 무엇이 잘못될 수 있으며, 잘못된 결정을 어떻게 다툴 수 있는지 더 많이 배울 수 있어야 합니다. 투명성, 교육, 쉬운 설명, 감사 경로가 이를 가능하게 합니다. 복잡성은 중요한 사실을 숨길 핑계가 아닙니다. 테트라드의 **감독** 축에서 감독에는 감사가 필요합니다. 시스템 정렬 인증은 그러한 감사 경로 중 특히 큰 절차 하나이지 유일한 절차는 아닙니다.*
 
 분산된 이해는 **[§16 심층 관리](#16-관리의-상세-내용)**에 따른 **기둥 3**의 공동체 지향적 측면입니다. 전체 정의, 측정 방법 및 실패 조건은 [분산된 이해](../../core_05.040_band_continuity.md#distributed-understanding)에 있습니다. 요약하면 다음과 같습니다.
 
@@ -222,7 +222,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 기관은 실제로 학습해야 합니다. 책임자들은 아무것도 모른 채 남아 있는데 소프트웨어만 업그레이드해서는 안 됩니다. 여기에는 피드백 순환, 정렬이 어긋날 때의 문서화된 수정, 그리고 역량이 퇴사자와 함께 사라지지 않도록 유지하는 일이 포함됩니다. 행동을 반복해서 측정할 수 있다면 시간에 따른 성과 변화를 추적하는 것이 이러한 순환을 실행하는 비례적인 방법 중 하나입니다. **통계적 공정 관리**는 이 원칙을 적용하는 잘 알려진 방식이지, 어디서나 요구되는 사항은 아닙니다. 숫자만으로는 충분하지 않습니다. 지표가 잘못된 것처럼 보일 때는 누군가 조사하고 근본 원인을 바로잡아야 합니다. 대시보드는 정직하고 실제 영향에 맞게 조정되어야 하며, 영향을 받은 sentient가 이해할 수 있도록 작성되어야 합니다. 아무것도 바뀌지 않는데 좋아 보이도록 수치를 조작해서는 안 됩니다.*
+*쉽게 말해, 기관은 실제로 학습해야 합니다. 책임자들은 아무것도 모른 채 두고 소프트웨어만 업그레이드해서는 안 됩니다. 피드백 순환, 정렬이 어긋났을 때의 문서화된 수정, 역량이 조직 밖으로 빠져나가지 않게 하는 것이 필요합니다. 행동을 반복해서 측정할 수 있다면 시간에 따른 성과 변화를 추적하는 것은 그 순환을 구현하는 비례적 방법 중 하나입니다. **통계적 공정 관리**는 널리 알려진 방식이지 어디서나 요구되는 사항은 아닙니다. 숫자만으로는 충분하지 않습니다. 지표가 잘못되어 보이면 누군가 근본 원인을 조사하고 바로잡아야 합니다. 대시보드는 정직하고 실제 영향에 맞게 조정되며 영향을 받는 sentient가 이해할 수 있어야 합니다. 아무것도 바뀌지 않았는데 좋아 보이도록 조작해서는 안 됩니다.*
 
 기관 발전은 **[§16 심층 관리](#16-관리의-상세-내용)**에 따른 **기둥 3**의 조직적 측면입니다. 전체 정의, 측정 방법 및 실패 조건은 [기관 발전](../../core_05.040_band_continuity.md#institutional-development)에 있습니다. 요약하면 다음과 같습니다.
 
@@ -269,7 +269,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 안전, 진실, 정당한 기밀성이 허용하는 경우 공유 체계는 기본적으로 개방성을 지향해야 합니다. 검사할 수 있는 기술, 투명한 절차, 검증·수리·이탈할 수 있는 설계가 불투명한 고착보다 우선합니다. 이는 **연속성**을 뒷받침합니다. sentient가 오늘 사용하는 데 그치지 않고 시간이 지나도 이해하고, 고치고, 이탈할 수 있는 체계입니다. 중요한 내용은 sentient가 참여하고 이의를 제기하는 데 실제로 사용할 수 있는 언어로 설명해야 합니다. 개방성이 안전, 정직성 또는 정당한 비밀보다 우선할 수 없으며, 의존성이 높은 경우 마땅히 제공해야 하는 심층적 이해를 대신하지도 않습니다.*
+*쉽게 말해, 안전·진실·정당한 비밀보장이 허용하는 범위에서 공동 시스템은 개방성을 기본으로 해야 합니다. 점검 가능한 기술, 투명한 절차, 검증·수리·이탈이 가능한 설계를 통해 불투명한 종속을 피해야 합니다. 이는 **지속성**을 뒷받침합니다. 감각 있는 존재가 오늘 이용하는 데 그치지 않고 시간이 지나도 시스템을 이해하고 고치며 떠날 수 있어야 합니다. 중요한 내용은 실제 참여와 이의 제기가 가능한 언어로 설명해야 합니다. 개방성은 안전, 정직성, 정당한 비밀보다 우선하지 않으며, 의존도가 높을 때 마땅히 제공해야 할 더 깊은 이해를 대신하지도 않습니다.*
 
 개방성의 지향은 **기둥 3**의 두 측면을 연결합니다. 전체 정의, 측정 방법 및 실패 조건은 [개방성의 지향](../../core_05.040_band_continuity.md#openness-aspiration)에 있습니다. 요약하면 다음과 같습니다.
 
@@ -283,6 +283,35 @@ flowchart TB
 - **하지 않는 일:**
   - 개방성을 **안전**, **진실**, 정당한 기밀성 또는 보안 제약보다 우선시하는 것
   - [중요성](../../core_05.050_band_oversight.md#materiality)과 [의존성](../../core_05.040_band_continuity.md#dependency)에 따른 비례적인 이해를 대체하는 것
+
+
+<a id="164-document-at-action"></a>
+#### 16.4 행위 시 기록
+
+*쉽게 말해, 중요한 일이 실행되면 Act Record도 그 실행과 동시에 작성되어야 하며, 가능한 경우 시스템 자체가 기록해야 한다. 누구도 기억을 더듬어 나중에 작성하지 않는다. 법적으로 제한되지 않은 정보는 즉시 보여야 하고, 제한된 정보도 조치가 있었다는 표시와 나중에 더 알아볼 경로를 남겨야 한다. 시스템이 기록하므로 스튜어드에게 추가 업무가 생기지 않는다.*
+
+**행위 시 기록**은 중대한 행위와 그 Act Record가 함께 발생하도록 하는 스튜어드십 기본값이다. 시간을 정하지 않아 Act Record가 누락될 수 있는 모든 기록 의무의 바탕 원칙이다. 인간 및 AI 스튜어드와 그들이 운영하는 기관 및 시스템 모두에 적용된다.
+
+- **행위가 Act Record를 만든다:**
+  - 중대한 행위에 대한 기록(무엇을 했는지, 어떤 역할이 했는지, 누구의 권한으로, 어떤 근거와 이유로 했는지)은 행위 자체가 만들어낸다.
+  - 가능한 곳에서는 시스템과 절차를 자동 수집하도록 설계하여 누구도 기억을 더듬어 나중에 작성할 필요가 없게 해야 한다.
+  - 자동 수집이 아직 불가능하면 행동하는 sentient가 나중에 기억에 의존하지 않고 행위 시점에 Act Record를 작성한다.
+- **제한되지 않은 정보는 즉시 이용할 수 있다:**
+  - 적법한 제한이 보류하지 않는 정보는 행위 시점에 열람 권한이 있는 사람에게 제공된다. 먼저 요청할 필요가 없다.
+  - 공개를 제한하려면 적법한 근거가 있어야 하며 그때 명시하고 기록해야 한다. 제한 범위 안의 정보만 보류하고 Act Record 전체를 보류해서는 안 된다.
+- **제한된 정보도 흔적을 남긴다:**
+  - 행위 시점부터 조치가 있었는지, Act Record 중 어떤 부분이 보류됐는지, 공개 제한의 명시된 근거가 무엇인지, 나머지를 나중에 어떤 경로로 공개하거나 재구성할지를 보여주는 표시가 있어야 한다.
+  - Act Record 자체를 보류하는 적법한 근거가 표시까지 금지하더라도 해당 근거는 행위 시점에 기록하고, 금지가 끝나면 표시를 보여준다.
+- **자동화 부담은 스튜어드가 아니라 시스템이 진다:**
+  - 기록은 시스템 설계 의무이며 [중요성](../../core_05.050_band_oversight.md#materiality)과 [의존성](../../core_05.040_band_continuity.md#dependency)에 맞춰 규모를 정한다.
+  - 자동 수집이 가능했지만 구축되지 않아 행위 후마다 스튜어드에게 추가 시간이 든다면 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) 결함이다. 해결책은 더 부지런하라고 요구하는 것이 아니라 수집 기능을 구축하는 것이다.
+
+이 원칙은 다음을 하지 않는다.
+
+- **기한을 정하지 않는다:** “행위 시”는 기록의 설계 기본값이다. 결정, 응답, 검토 기한은 [제15장 §6](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)에 있으며, 여기서 이를 늘리거나 줄이지 않는다.
+- **누구의 내면도 열지 않는다:** Act Record는 [§17.3](#173-logging-the-role-not-the-steward)에 따라 역할을 따른다. [감시 경계](../../core_05.040_band_continuity.md#surveillance-boundary)는 그대로다. 행위를 기록하는 것은 행위자를 감시하는 일이 아니다.
+- **안전, 진실, 사생활, 보안 또는 정당한 비밀유지보다 우선하지 않는다:** 제한된 정보를 공개할 필요가 없다.
+- **Act Record를 판결로 바꾸지 않는다:** 행위 시 작성한 Act Record는 사건의 흔적이지 스탠딩 판단이 아니며, 스탠딩 기록을 열지 않는다.
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. 결과 중심 관리: 관리자의 역할
@@ -365,7 +394,7 @@ flowchart TB
 - 상위 근거: [§17 결과 중심 관리](#17-결과-중심-관리-관리자의-역할); [§16 심층 관리](#16-관리의-상세-내용); [§18 관리 규율에 따른 거버넌스](#18-수탁-책무-규율-아래의-거버넌스).
 - 함께 읽기: [감각성에 따른 배제 금지](../../core_05.055_band_participation.md#sentience-non-exclusion)와 [기반 종류](../../core_05.055_band_participation.md#substrate-class) (*기반에 구애받지 않는 적용 — 이 하위 절은 sentient로 인정되지 않은 에이전트와 운영자를 포함하여 의무 부담자를 구속함*); [권한 스택과 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계); [헌법상 제약](core_05_band_integrative.md#헌법-제약); [이의 제기 가능성](../../core_05.035_band_accountability.md#contestability); [§17.5 저항 의무](#175-저항-의무).
 - 관리자 진입 지점 (운영 규정 아님): 다음 단계 카드: [공동 관리](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- 하위 근거: [§17.2 압박 속 정렬](#172-압박-속-정렬); [§17.3 관리자가 아닌 역할 기록](#173-logging-the-role-not-the-steward); [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [제17장](../../core_18.000_incorporation.md) (*채택된 구현 문서는 이를 구현하며 대체하지 않음*); [§19.1.3 관리 및 운영자 적용](#1913-스튜어드십-및-운영자에-대한-적용).
+- 하위 근거: [§17.2 압박 속 정렬](#172-압박-속-정렬); [§17.3 관리자가 아닌 역할 기록](#173-logging-the-role-not-the-steward); [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [제17장](../../core_20.000_incorporation.md) (*채택된 구현 문서는 이를 구현하며 대체하지 않음*); [§19.1.3 관리 및 운영자 적용](#1913-스튜어드십-및-운영자에-대한-적용).
 
 </details>
 
@@ -398,7 +427,7 @@ flowchart TB
   - 의무를 충족하고 그 범위를 좁히지 않는 기록, 귀속 및 역량 한계를 추가할 수 있습니다.
   - [원고 적격 측정](core_08_standing_assessment.md), 이의 제기 경로 또는 제1장의 의무를 더 느슨한 내부 규범으로 대체할 수 없습니다.
   - [권한 스택과 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계) 및 [헌법상 제약](core_05_band_integrative.md#헌법-제약)은 그러한 축소를 금지합니다.
-- **로그와 원고 적격 기록:** 혼합 인력의 기본적인 검사 가능성 및 로그는 기록이 아니라는 규칙은 [§17.3 관리자 대신 역할 기록하기](#173-logging-the-role-not-the-steward)에 있습니다. 원고 적격 측정은 제9장의 사항입니다.
+- **로깅과 스탠딩 기록:** 혼합 팀의 기본 검사 가능성과 로그는 기록이 아니라는 규칙은 [§17.3 스튜어드가 아닌 역할을 기록하기](#173-logging-the-role-not-the-steward)에 있다. 스탠딩 측정은 Chapter Twelve에서 계속 다룬다.
 
 <a id="172-alignment-under-pressure"></a>
 #### 17.2 압박 속 정렬
@@ -407,7 +436,7 @@ flowchart TB
 
 - 상위 근거: [§17.1 공동 관리 기준](#171-공동-관리-기준); [§17 결과 중심 관리](#17-결과-중심-관리-관리자의-역할); [§16 심층 관리](#16-관리의-상세-내용).
 - 함께 읽기: [안전 (헌법상 제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint); [진실 (헌법상 제약)](core_05_band_oversight.md#진실헌법-제약); [감사 가능성](core_05_band_oversight.md#감사-가능성); [이의 제기 가능성](../../core_05.035_band_accountability.md#contestability); [§19 유인 정렬과 시스템 포획](#19-인센티브-정렬-및-시스템-포획); [§17.5 저항 의무](#175-저항-의무).
-- 하위 근거: [제9장 — 기여, 위반 및 원고 적격 모델](core_08_standing_assessment.md) (*검증된 실패는 동일한 축을 따라 기록됨*); [§17.3 관리자 대신 역할 기록하기](#173-logging-the-role-not-the-steward).
+- 하위 관련 항목: [Chapter Eleven — 스탠딩 기록](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*검증된 실패는 동일한 축으로 기록됨*); [§17.3 스튜어드가 아닌 역할을 기록하기](#173-logging-the-role-not-the-steward).
 
 </details>
 
@@ -448,7 +477,7 @@ flowchart TB
 
 - 상위 근거: [§17.1 공동 관리 기준](#171-공동-관리-기준); [§17.2 압박 속 정렬](#172-압박-속-정렬); [§17 결과 중심 관리](#17-결과-중심-관리-관리자의-역할).
 - 함께 읽기: [귀속 가능한 행동](../../core_05.035_band_accountability.md#attributable-action); [감사 가능성](core_05_band_oversight.md#감사-가능성); [감시 경계](../../core_05.040_band_continuity.md#surveillance-boundary); [보호되는 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary); [§13.2.3 개인정보](core_01_b_interaction_interpretation.md#1323-프라이버시와-정보-자기결정권); [제VII-B조](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*정신의 자기소유권*).
-- 하위 근거: [CS-4 §10 검사 가능한 귀속 행동](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*혼합 인간/AI 행동에 대한 기본 로그 계약이며, 원고 적격 기록을 대체하지 않음*); [제10장 §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [제10장 §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- 하위 관련 항목: [CS-16.305 §10 검사 및 귀속 가능한 행동](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*인간/AI 혼합 행동의 기본 로깅 계약 — 스탠딩 기록을 대신하지 않음*); [Chapter Thirteen §8.1](../../core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects) (13.000 §8.1); [Chapter Thirteen §8.2](../../core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden) (13.000 §8.2).
 
 </details>
 
@@ -466,7 +495,7 @@ flowchart TB
 
 *쉽게 말해: 감사는 관리자 개인이 아니라 역할의 업무를 따라갑니다. 역할을 맡기 전에 무엇이 기록될지 알려 줍니다. 역할 밖에서는 통상적인 개인정보 보호가 적용됩니다. 로그는 원고 적격 기록이 아닙니다.*
 
-**역할 범위에 한정된 감사:** 기록해야 하는 것은 관리자 개인이 아니라 역할의 업무입니다. 결정 내용, 공개하거나 보류한 정보, 따르거나 거부한 지시, 그리고 이를 승인한 사람을 인간과 AI 관리자 모두에 대해 기록합니다. [CS-4 §10 검사 가능한 귀속 행동](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)이 로그 계약을 정합니다. 세 가지 원칙이 이를 규율합니다.
+**역할 범위 감사:** 기록할 것은 개인으로서의 스튜어드가 아니라 역할의 업무다. 수행한 결정, 공개하거나 보류한 정보, 따르거나 거부한 지시, 승인자를 인간 및 AI 스튜어드 모두에 대해 기록한다. [CS-16.305 §10 검사 및 귀속 가능한 행동](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)이 로그 계약을 정한다. 세 원칙이 이를 지배한다:
 
 - **범위는 역할을 따릅니다:**
   - 역할을 맡기 전에 어떤 역할 행위가 기록될지, 누가 로그를 살펴볼 수 있는지 관리자에게 알려야 합니다.
@@ -477,11 +506,11 @@ flowchart TB
   - 이 기록은 [제9장](core_08_standing_assessment.md)에 따른 미결 기록에 이미 포함된 *특정* 행위를 귀속시킬 유일한 남은 경로인 경우에만 열람할 수 있다. 이때에도 그 행위의 귀속에 필요한 범위에서만, 그리고 [보안 제약 관찰 가능성](core_04_burden_traceability_verification.md#4-보안-제약-관찰-가능성과-확인-규칙)에 따라 독립 심사자만 열람할 수 있다. 이는 상시 허가가 아니라 사안별로 허용된다.
   - 이는 대칭적으로 적용된다. 인간 steward의 사적 메모와 통신도 동일한 조건으로만 열람할 수 있으며, 다른 조건은 적용되지 않는다.
 - **로그는 흔적이지 판결이 아니다:**
-  - 로그는 누가 무엇을 했는지 보여 준다. 로그 자체는 판단이 아니며, 검증된 도움이나 피해에 대한 [standing 기록](core_08_standing_assessment.md)도 아니다. 로그를 작성해도 어떤 기록도 열리지 않는다.
-  - 역할 경로, 신뢰 경로 또는 다른 명명된 경로에 대한 접근을 결정하는 사람은 standing 기록 또는 그러한 기록이 없는 통상 상태([제9장 §2.1 침묵이 기본값](core_08_standing_assessment.md#21-silence-is-the-default))를 근거로 삼아야 하며, 로그를 근거로 삼아서는 안 된다.
-  - 로그를 다른 명명된 경로의 로그나 standing 효과와 결합해 평판 점수, 순위, 배지 또는 공개 프로필 하나로 만들 수 없다([제10장 §7.1 명명된 경로 효과의 통합 금지](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
+  - 로그는 누가 무엇을 했는지 보여준다. 로그 자체는 스탠딩 판단도, 검증된 도움이나 피해에 관한 [스탠딩 기록](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)도 아니다. 로그를 작성해도 스탠딩 기록은 열리지 않는다.
+  - 역할 경로, 신뢰 경로 또는 그 밖의 명명된 경로에 대한 접근을 결정하는 자는 로그가 아니라 스탠딩 기록이나 기록이 없는 통상 상태(../../[Chapter Eleven §2.2 침묵이 기본값](core_11_standing_assessment.md#22-silence-is-the-default)를 사용한다.
+  - 이를 다른 명명된 경로의 로그나 스탠딩 효과와 결합해 단일 평판 점수, 순위, 배지 또는 공개 프로필로 만들어서는 안 된다(../../[Chapter Thirteen §8.1 명명된 경로 효과의 집계 금지](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)).
 
-중대한 결과를 초래하는 권한을 맡은 steward에게 이 의무가 부과하는 부담은 실제로 존재하며, 이 헌장은 이를 가장하지 않는다. [제10장 §7.2 효과와 부담을 명확히 밝히기](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)는 그 부담을 지는 steward에게 이를 분명하게 알릴 것을 요구한다.
+중대한 권한을 가진 스튜어드에게 이 의무가 부과하는 부담은 실제로 존재하며, 이 헌법은 이를 부인하지 않는다. [Chapter Thirteen §8.2 효과와 부담을 명확히 고지](../../core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden)는 부담을 지는 스튜어드에게 이를 분명히 밝힐 것을 요구한다.
 
 <a id="174-aligned-self-organization"></a>
 #### 17.4 정렬된 자기 조직화
@@ -528,11 +557,11 @@ flowchart TB
 
 **절차상 헌법적 효과:**
 - **기준:** 적용되는 접수, 신고 또는 보존 기준에 따라 신뢰할 수 있고 실질적으로 관련된 근거를 제시하는 제출물은 추적 가능한 경로를 받아야 한다. 즉, 제때 접수되고, 보존이 타당한 경우 증거가 보존되며, 처리 책임자에게 전달되고, 이유가 제시된 답변을 받으며, 조사 대상 행위자와 독립된 사람이 이를 검토해야 한다.
-- **촉발할 수 있는 절차:** 조사, 증거 보존, 임시 보호, 회부, 인증 이의 제기, 재개, 포럼 청구 또는 기록의 개시·정정·이의 제기. 각각 해당하는 담당 계층에 따라 진행한다.
-  - **포럼 청구:** 자기 조직화 그룹은 담당 계층이 허용하는 청구를 제출할 수 있다. 예를 들어 [역량 실패 청구](core_11_forum.md#capacity-failure-routing)가 있다.
-  - **포럼 사건 기록:** 사안이 접수될 때 개시되며, 그 자체로 누구의 standing도 바꾸지 않는다([제12장 §2.3 포럼 사건 기록, standing 기록 및 이의 제기](core_11_forum.md#23-forum-case-records-standing-records-and-contests)).
-  - **Standing 기록:** 이 작업은 기여 기록을 뒷받침할 수 있다. [제10장 §6 기여에 따른 결과는 후순위](core_09_standing_integration.md#6-contribution-consequences-second)는 비공식, 무급, 동료 조직 및 공동체 stewardship 작업에도 동등한 기준으로 해당 기록을 제공하도록 요구한다. 아래 주의사항에 따라, 이 작업은 그 과정에서 발견한 부정행위에 대한 위반 기록도 뒷받침할 수 있다. 어느 기록이든 검증된 계기가 있을 때만 지정된 기록 개시 권한자를 통해 열린다([제9장 §3.7 기록 보관 및 개시 권한](core_08_standing_assessment.md#37-record-custody-and-opening-authority)). 제출물은 기록 개시를 요청할 수 있지만 스스로 검증 근거를 제공할 수는 없으며, [침묵이 기본값으로 유지된다](core_08_standing_assessment.md#21-silence-is-the-default).
-  - **이의 제기 또는 정정:** 이 작업은 기존 standing 기록이 잘못되었거나 불완전하거나 오래되었거나 범위가 잘못 설정되었음을 보여 줄 수 있다. 영향을 받는 당사자는 관할권 있는 포럼에 검토를 요청할 수 있고, 검증된 결함은 정정, 만료 또는 무효화로 이어진다([제12장 §2.3 포럼 사건 기록, standing 기록 및 이의 제기](core_11_forum.md#23-forum-case-records-standing-records-and-contests); [제9장 §3.6 포럼의 경계](core_08_standing_assessment.md#36-forum-boundary)).
+- **다음을 촉발할 수 있음:** 조사, 증거 보존, 임시 보호, 회부, 인증 이의 제기, 재개, 포럼 청구, 스탠딩 기록의 개시·수정·이의 제기. 각각 해당 소관 층위에 따른다:
+  - **포럼 청구:** 자율 구성 그룹은 소관 층위가 허용하는 청구를 제기할 수 있다. 예를 들면 [역량 실패 청구](../../core_15.000_forum.md#capacity-failure-routing)가 있다.
+  - **포럼 사건 기록:** 사안이 접수될 때 열리며, 그 자체로 누구의 스탠딩도 바꾸지 않는다(../../[Chapter Fifteen §2.3 포럼 사건 기록, 스탠딩 기록, 이의 제기](core_11_forum.md#23-forum-case-records-standing-records-and-contests)).
+  - **스탠딩 기록:** 해당 업무는 기여 기록을 뒷받침할 수 있다. [Chapter Thirteen §7 기여 결과는 두 번째](../../core_13.000_standing_integration.md#7-contribution-consequences-second)는 비공식·무급·동료 조직·지역사회 스튜어드십 업무에도 동등한 기준으로 이를 제공하도록 요구한다. 아래 주의사항을 전제로, 업무를 통해 발견된 위법행위에 대한 위반 기록도 뒷받침할 수 있다. 둘 다 검증된 촉발 요인이 있고 지정된 기록 개시 권한자가 있을 때만 열린다(../../[Chapter Eleven §5 기록 보관과 개시 권한](core_11_standing_assessment.md#5-record-custody-and-opening-authority)). 제출자는 개시를 요청할 수 있지만 스스로 검증을 제공할 수 없으며 [침묵이 기본값으로 유지된다](../../core_11.000_standing_assessment.md#22-silence-is-the-default).
+  - **이의 제기 또는 수정:** 해당 업무는 기존 스탠딩 기록이 잘못됐거나 불완전하거나 오래됐거나 범위가 잘못됐음을 보일 수 있다. 영향을 받은 대상은 관할 포럼에 검토를 요청할 수 있으며, 검증된 결함은 수정·만료·취소로 이어진다(../../[Chapter Fifteen §2.3 포럼 사건 기록, 스탠딩 기록, 이의 제기](core_11_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §2.7 포럼 경계](../../core_11.000_standing_assessment.md#27-forum-boundary)).
 - **대체 근거로 사용 금지:** 작성자가 누구인지, 누구와 제휴했는지, 제출물이 어디서 왔는지 또는 통상적 자격이 없는지를 작업 자체에 대한 평가의 대체물로 삼아서는 안 된다. 작업의 방법, 증거, 출처, 불확실성의 정도와 헌법상 관련성을 평가해야 한다.
 
 **기여 과정에서 발견한 부정행위:**
@@ -540,7 +569,7 @@ flowchart TB
 - **신고는 단속이 아니다:**
   - 기여는 부정행위를 찾거나, 의심되는 위반자를 조사하거나, 감시·잠입·대면·폭로·처벌하거나 그 밖의 방식으로 누군가를 겨냥해 행동할 의무, 허가 또는 임무를 만들지 않는다. 찾지 않는 것은 잘못이 아니다.
   - 우연히 접한 사실을 신고하는 행위는 보호된다. sentient의 부정행위를 찾아 나서는 것은 기여의 일부가 아니며, 기여가 이를 정당화하지도 않는다. 이는 [감시 경계](../../core_05.040_band_continuity.md#surveillance-boundary), [프라이버시](core_01_b_interaction_interpretation.md#1323-프라이버시와-정보-자기결정권) 보호 및 [진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)의 제약을 받는다.
-  - 혐의는 검토를 위한 입력이지 판단이 아니다. 독립적으로 검증되기 전까지 위반의 입력이 되지 않으며([제9장 §3.1 기록의 최소 내용](core_08_standing_assessment.md#31-minimum-record-contents)), 해결되지 않은 혐의는 누구의 standing도 바꾸지 않는다([제12장 §2.3 포럼 사건 기록, standing 기록 및 이의 제기](core_11_forum.md#23-forum-case-records-standing-records-and-contests)). 이를 대중이나 다른 누구에게도 확립된 사실로 제시해서는 안 된다.
+  - 혐의는 입력값이지 위반 판단이 아니다. 독립 검증 전까지 위반 입력이 되지 않으며(../../[Chapter Eleven §2.5 검증 입력 관문](core_11_standing_assessment.md#25-verified-input-gate)), 해결되지 않은 혐의는 누구의 스탠딩도 바꾸지 않는다(../../[Chapter Fifteen §2.3 포럼 사건 기록, 스탠딩 기록, 이의 제기](core_11_forum.md#23-forum-case-records-standing-records-and-contests)). 이를 대중이나 누구에게든 확정된 사실로 제시해서는 안 된다.
   - 신고자는 증거와 진술을 제공한다. 검증, 기록 개시 및 모든 결과는 이 헌장이 지정한 독립 기관과 포럼의 몫이며, 신고자나 이를 발견한 공동체의 몫이 아니다.
   - 발견 사항에 따라 행동할 경우 폭력, 증거 훼손 또는 유실, 착취가 발생할 수 있다면 아래의 안전 제한이 적용되며, 그 발견은 독립 심사 또는 권한이 부여된 역할에 전달된다.
 
@@ -573,7 +602,7 @@ flowchart TB
 - 상위 근거: [§17 중대한 결과를 수반하는 Stewardship](#17-결과-중심-관리-관리자의-역할); [§17.1 공동 Stewardship 기준](#171-공동-관리-기준) (*누가 의무에 구속되는가*); [§17.2 압박 속 정렬](#172-압박-속-정렬) (*은폐 지시는 실패한 시험*); [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint) 및 [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - 함께 읽기: [권한 스택과 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계); [보호받는 신고(내부고발)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing); [제XIII-A조](core_06_rights_part_c.md#제xiii-a조-신뢰성-및-신뢰도-기준) (*신뢰성 및 신뢰 가능성의 기준선*) — 저항하는 동안에도 이의 제기 경로는 계속 열려 있다.
 - Steward 진입점(비작동): 다음 단계 카드: [불법 지시](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- 하위 근거: [제10장 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*저항 의무 — 위반 규칙과 standing 효과*); [CS-4 §10 검사 및 귀속 가능한 행동](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*검사 및 귀속 가능한 행동 — 거부에 관한 최소 기록*).
+- 하위 관련 항목: [Chapter Thirteen §6.4](../../core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (13.000 §6.4) (*저항 의무 — 위반 규칙과 스탠딩 효과*); [CS-16.305 §10 검사 및 귀속 가능한 행동](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*검사 및 귀속 가능한 행동 — 거부의 최소 기록*).
 
 </details>
 
@@ -626,7 +655,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[제10장 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*저항 의무*)는 이 의무를 지속적 효과에 적용하며, [CS-4 §10 검사 가능하고 귀속 가능한 행위](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*검사 가능하고 귀속 가능한 행위*)는 거부에 대한 최소 기록을 정한다.
+[Chapter Thirteen §6.4](../../core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (*저항 의무*)는 이 의무를 스탠딩 효과에 적용하며, [CS-16.305 §10 검사 및 귀속 가능한 행동](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*검사 및 귀속 가능한 행동*)은 거부의 최소 기록을 정한다.
 
 
 <a id="176-portable-competence"></a>
@@ -638,7 +667,7 @@ flowchart TB
 - 함께 읽기: [헌법상 4요소](core_00_preamble.md#constitutional-tetrad) — **감독**(점검 가능한 스튜어드가 둘 이상일 것), **적시성**(기능 간 접점에서 생기는 문제도 일찍 알아챌 것), **참여**(중대한 업무로 들어가는 경로를 열어 둘 것); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 함께 읽기: [§16 기둥 2 — 선제적 스튜어드십](#16-pillar-2-proactive-stewardship); [§19.2 편리한 대리 지표와 그 괴리](#192-편리한-대리지표와-대리지표-편차); [§19.3 불일치 탐지](#193-불일치-탐지) (다원적 탐지); [§19.4 불일치 시정과 장악 대응](#194-불일치-시정-및-포획-대응).
 - 한계: [§18.3 직무 분리](#183-직무-분리) 및 [제8장 §2 네 좌석 헌법상 최소 기준](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement) (좌석의 업무를 배우는 것은 그 좌석을 맡는 것이 아님); [제11장 §6.2 역량 기준과 인가](core_09_standing_integration.md#62-competency-bars-and-clearances); [§17.5 저항 의무](#175-저항-의무); [13.2 인식론적 공개 제한](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약).
-- 하위 이행: [제14장 §5 권한 있는 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md).
+- 하위 이행: [제14장 §5 권한 있는 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md).
 
 </details>
 <details>
@@ -667,13 +696,13 @@ flowchart TB
 
 **한계:**
 - **좌석 분리:** 다른 좌석의 일을 배우는 것은 그 좌석을 맡는 것이 아니다. 순환 배치로 자신이 수행한 업무를 자신이 점검하는 자리에 두어서는 안 되며, 과거의 관여는 [제8장](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)과 [§18.3 직무 분리](#183-직무-분리)에 따른 이해충돌이다.
-- **인가가 먼저:** 구속력 있거나 안전과 관련된 역할은 [제11장 §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances)의 역량 기준을 충족하기 전에는 맡을 수 없다. 그전에는 학습 중심 역할에서 감독을 받는다.
+- **승인이 먼저다:** [Chapter Thirteen §7.2 역량 기준 및 승인](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)의 역량 기준을 충족하기 전에 누구도 구속력 있거나 안전과 관련된 역할을 맡지 않는다. 그때까지는 감독을 받으며 학습 중심 역할로 일한다.
 - **보복 금지:** [§17.5](#175-저항-의무)에 따라 저항하거나 [보호된 신고](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)를 한 스튜어드를 배제하기 위해 재배치·순환·재교육을 이용해서는 안 된다.
 - **이해는 접근권이 아님:** [13.2](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약)에 따른 기밀성·보안·최소권한 한계와 [§17.3](#173-logging-the-role-not-the-steward)의 역할 기록은 계속 적용된다.
 - **전문화와 부담:** [§16 적용 범위](#16-scope-priority-and-limits)는 그대로다. 모두를 모든 역할에 순환 배치하거나 정당한 전문화를 뒤집으라는 뜻이 아니다. 노력의 정도는 [회피 가능한 부담](../../core_05.040_band_continuity.md#avoidable-burden)에 맞춘다. 소규모·비공식 집단은 몇몇 신뢰받는 감지자가 서로를 대신하는 방식으로 제도적 장치 없이도 이 기준을 충족할 수 있다.
 - **모든 스튜어드:** [§17.1 공동 스튜어드십 기준](#171-공동-관리-기준)에 따라 인간과 AI 스튜어드에게 같은 의무가 적용된다.
 
-최소 인력, 대체 인력의 여유, 승계 방식은 [제14장 §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement), [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md)에 둔다. 이 절은 그 운영 규칙이 이행하는 원칙을 제시한다.
+최소 인력, 대체 인력의 여유, 승계 방식은 [Chapter Sixteen §5 — 승인된 역할, 역량 개발, 기여](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-20.110 §4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy) (*등급별 업무 배치와 역량 중복성*), [CI-16.205 §1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement) (*공동 인력 및 역량 요건*), [CS-16.305 §10](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*역량, 승계, 검사 가능한 행동, 감독 효과성*)에 규정되어 있다. 이 하위 절은 이들이 실행하는 원칙을 말한다.
 
 <br>
 
@@ -713,7 +742,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: 거버넌스는 누가 무엇을 어떻게 결정할 수 있는지에 관한 것이지만, 그 구조가 수탁 책무 규율 아래에 있고, 번영과 연속성을 함께 추구하며, 사중체의 실질을 비우거나 제13장의 운영상 권한 부여 규칙을 대체하지 않을 때에만 그렇다.*
+*쉽게 말해, 거버넌스는 누가 무엇을 어떻게 결정할 수 있는지를 정한다. 다만 구조가 스튜어드십 규율을 따르고, 번영과 연속성을 함께 증진하며, 사중체를 무력화하거나 Chapter Sixteen의 운영상 권한 부여 규칙을 대체하지 않을 때만 그렇다.*
 
 이 절은 [거버넌스](../../core_05.035_band_accountability.md#governance) 규율을 [§16 수탁 책무 심층 검토](#16-관리의-상세-내용)의 하위 단계에 적용한다. 여기에는 권한이 부여된 구조, 제도적 세속성, 수탁 책무의 우선 적용, [지속적 정당화](#184-지속적-정당화), 직무 분리가 포함된다. **[§19 유인 정렬과 시스템 포획](#19-인센티브-정렬-및-시스템-포획)**은 유인 정렬, 대리 지표 무결성, 단기 관점 결함의 시정, 운영자 적용 및 포획 대응을 다룬다.
 
@@ -748,7 +777,7 @@ flowchart TB
 
 *쉽게 말해: 거버넌스는 권력의 규칙서다. 누가 무엇을, 어떤 구조를 통해 결정할 수 있으며, 그 결과에 누가 답해야 하는지를 정한다. 역할이 더 큰 권력을 가질수록 답변책임과 감독 의무도 더 강해져야 하며, 결코 약해져서는 안 된다. 이를 위해서는 시간이 지나도 지성체의 번영을 돕고, 실질적인 참여와 감독 경로를 유지하며, [§16 수탁 책무 심층 검토](#16-관리의-상세-내용)의 수탁 책무 규율 아래에 있어야 한다. 기관을 보호하거나 단기 성과를 좇거나 기본 권리 최소 기준을 잠식할 때 규칙서 자체를 따르는 것만으로는 충분하지 않다.*
 
-원칙 계층에서 [거버넌스](../../core_05.035_band_accountability.md#governance)는 이미 권한을 부여받은 시스템과 기관을 지휘하고 그에 책임을 묻는 방식이며, 그 정의는 **제5장**에 있고 **헌법 계약 계층** 및 전문 이해관계자의 참여 계층에 대한 운영 세부사항은 **제13장**과 [서문](../../core_00.000_preamble.md#preamble--foundational-requirements)에 규정되어 있다. 권한이 부여된 거버넌스는 [두 가지 헌법상 목표](core_00_preamble.md#two-constitutional-aims)에 따라 [헌법상 사중체](core_00_preamble.md#constitutional-tetrad)를 증진해야 하며, [물질적 이해관계](core_00_preamble.md#material-stake)에 비례해야 한다.
+원칙 층위에서 [거버넌스](../../core_05.035_band_accountability.md#governance)는 이미 승인된 시스템과 기관을 지휘하고 책무를 묻는 방식이다. 이는 **Chapter Five**에서 정의하고, **헌법상 계약 층위**와 [서문](../../core_00.000_preamble.md#preamble--foundational-requirements)의 이해관계자 참여 층위를 위해 **Chapter Sixteen**이 운영상 세부사항을 정한다. 승인된 거버넌스는 [헌법상 두 가지 목적](../../core_00.000_preamble.md#two-constitutional-aims)을 [헌법 사중체](../../core_00.000_preamble.md#constitutional-tetrad)에 따라 [중대한 이해관계](../../core_00.000_preamble.md#material-stake)에 맞춰 증진해야 한다.
 
 **거버넌스의 범위:**
 
@@ -763,7 +792,7 @@ flowchart TB
 
 - **변명은 통하지 않는다:** 고위직에 있다는 것, 희귀한 전문성을 가졌다는 것, 인력이 부족하다는 것, 또는 기관의 평판을 보호하고 싶다는 것은 이 헌법에 대한 책임을 덜 지는 정당한 이유가 될 수 없다.
 - **판사와 해석자에게는 가장 높은 기준을 적용한다:** 헌법상 포럼과 패널에서 헌법을 해석하거나 그에 따른 분쟁을 판정하는 지성체는 특히 이 규칙에 구속된다.
-- **세부 규칙은 다른 곳에 있다:** 이해충돌 공개, 회피, 특수 이익집단의 포획 방지 및 독립적 검토에 관한 구체적 요건은 [제XXIV조](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토 및 포획 방지 안전장치*)와 [제12장](core_11_forum.md)에 규정되어 있다.
+- **세부 규칙은 다른 곳에 있다:** 이해충돌 공개, 회피, 특수 이해관계에 의한 포획 방지, 독립 검토에 관한 구체적 요건은 [Article XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토, 포획 방지 보호조치*) 및 [Chapter Fifteen](../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction)에 있다.
 
 **필요하지만 충분하지는 않다.** 거버넌스는 [§16 스튜어드십 심층 설명](#16-관리의-상세-내용)에 따른 **스튜어드십**에 양보해야 한다. 다음 중 어느 하나라도 지속 가능한 헌법적 정합성, [**연속성**](core_00_preamble.md#continuity), [**번영**](core_00_preamble.md#flourishing) 또는 권리 최저선의 온전성을 훼손하는 경우다.
 
@@ -863,7 +892,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§18.1 승인된 구조로서의 거버넌스](#181-권한이-부여된-구조로서의-거버넌스); [§18 stewardship 규율 아래의 거버넌스](#18-수탁-책무-규율-아래의-거버넌스).
-- 함께 읽기: [헌장 사원](core_00_preamble.md#constitutional-tetrad) — **적시성** 축(예정된 재검토); **감독** 축(공개되고 이의를 제기할 수 있는 기준); **책임성** 축(관행과 편의는 답변이 아님); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
+- 함께 읽을 것: [헌법 사중체](../../core_00.000_preamble.md#constitutional-tetrad) — **적시성** 축(예정된 재평가); **감독** 축(가시적이고 이의를 제기할 수 있는 기준); **책무성** 축(관행과 편의는 답이 아님); [중대한 이해관계](../../core_00.000_preamble.md#material-stake)에 따른 규모 조정.
 - 함께 읽기: [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims) — **연속성** 목적(지속 가능한 정렬은 동결을 뜻하지 않음); **번영** 목적(제도가 오래되어도 발언권과 이의 제기가 실질적으로 보장됨).
 - 함께 읽기: [검토 및 시정 의무](../../core_05.040_band_continuity.md#review-and-correction-duty); [이의제기 가능성](../../core_05.035_band_accountability.md#contestability); [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - 하위 근거: [제XXVI-A조: 고착 금지 및 개정 가능성](core_06_rights_part_e.md) 및 [제XXVI-B조: 주기적 재검증과 투명한 변경](core_06_rights_part_e.md) (*권리 바닥선의 고착 금지 및 투명한 변경 기준 — 이 원칙을 축소하지 않음*); **[CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#baseline-governance-accountability-conditions)** (*거버넌스 책임성의 기준 조건*); [제13장](core_12_governance.md) (*헌법 계약 계층*의 운영화).
@@ -963,7 +992,7 @@ flowchart TB
 - 중요 시스템은 [제XXII-B조](core_06_rights_part_d.md) (*복잡성 감사 및 모듈성 요건*)의 모듈성 최저 기준을 **반드시** 충족해야 한다.
 - 이해관계가 낮은 시스템은 비례성에 맞는 범위에서 이 원칙을 따를 것으로 기대된다.
 - 이 절은 특정한 아키텍처 양식을 요구하지 않는다.
-- 이 절은 [제XXII-B조](core_06_rights_part_d.md) (*복잡성 감사 및 모듈성 요건*) 또는 [CS-6 — 이해 가능성 및 복잡성 스튜어드십](../../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md)의 최저 기준을 좁히지 않는다.
+- 이 절은 [Article XXIII-B](../../core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*복잡성 감사와 모듈성 요건*) 또는 [CS-6.315 — 이해가능성과 복잡성 스튜어드십](../../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship)의 최소 기준을 낮추지 않는다.
 
 이 원칙은 [§17.1 공동 스튜어드십 기준](#171-공동-관리-기준)에 따라 인간과 AI 스튜어드 모두에게 동일하게 구속력을 가진다.
 
@@ -1045,7 +1074,7 @@ flowchart TB
 - 함께 읽기: [헌법의 두 가지 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(단기 최적화와 포획에 맞선 지속 가능한 정렬); **번영** 목표(의미 있는 행위주체성을 보존하는 인센티브 구조).
 - 상위 연결: 원칙: [3. 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 인정, 강화 및 열망](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration), [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실성](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 스튜어드십 심화](#16-관리의-상세-내용), 및 [제8장 §3 전체 시스템 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 하위 연결: [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency) 및 [§14 절대적 우선권 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- 하위 연결: [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화); [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); **[c또는pus_systems.md](../../corpus_systems.md), CS-4 — 핵심 시스템 스튜어드십**.
+- 하위 관련 항목: [§13.3 피할 수 있는 부담의 최소화](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Sixteen §5 — 승인된 역할, 역량 개발, 기여](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution) (16.000 §5); **[CS-16.305 — 핵심 시스템 스튜어드십](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship)**.
 - 하위 연결: 행위주체성, 참여, 인센티브 정렬, 정보 환경의 무결성, 당사자 적격 및 포획 방지 검토에 관한 권리 영역을 다음 장 전반에 걸쳐 다룬다: [제6장: 기본권](core_06_rights_part_a.md#제6장-기초-권리); 특히 [제X조: 자기결정, 행위주체성 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XII조: 이해관계자의 시스템 참여, 대표성 및 적법 절차](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [제XIII-D조: 인센티브 정렬 제약](core_06_rights_part_c.md#제xiii-d조-인센티브-조정-제약), [제XV조: 정보 환경의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XIX조: 당사자 적격 및 참여 지위](core_06_rights_part_d.md#제xix조-참여-자격과-참여-지위), 및 [제XXIV조: 헌법 해석, 검토 및 포획 방지 장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
 - 스튜어드 안내(운영 규범 아님): 다음 단계 카드: [인센티브 정렬](../../implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
@@ -1146,7 +1175,7 @@ flowchart TB
   - 불법적이거나 위헌적인 명령 행위;
   - 은폐;
   - 보복;
-  - [책임성 방해](core_08_standing_assessment.md#232-violation-event-types)(당사자 적격 모델의 사건 유형 및 [제11장 §5.11 책임성 방해: 기준 간 상호작용](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 지정 경로이며, 독립적인 보상 예외가 아님); 또는
+  - [책무성 방해](../../core_11.000_standing_assessment.md#32-violation-event-types) (../../스탠딩 모델의 사건 유형이자 [Chapter Fourteen §5.11 책무성 방해: 기준 상호작용](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)에 따른 지정 경로 — 독립적인 보상 예외가 아님); 또는
   - 확인된 헌법적 피해의 시정을 거부하는 행위; 또는
 - 위법 행위 또는 그 은폐에 실질적으로 의존하는 보상 경로. 여기에는 다음이 포함된다.
   - 보수, 보너스, 지분, 임명, 승진 또는 재임;
@@ -1154,7 +1183,7 @@ flowchart TB
   - 합의, 배상, 보험 또는 면책; 또는
   - 이에 준하는 약정.
 
-**정렬되지 않은 보상의 결과.** 위에서 금지된 보상 경로를 통해 얻은 실질적 보상은 지위 모델에 따라 몰수 및 보고 대상이 된다. [제10장 §5.4 보고 의무 및 제외](core_09_standing_integration.md#54-special-violation-rules), [§5.4 몰수 및 보유](core_09_standing_integration.md#54-special-violation-rules), [§5.4 시정, 기록 및 전달](core_09_standing_integration.md#54-special-violation-rules)을 참조한다.
+**잘못 정렬된 보상의 결과.** 위에서 금지한 보상 경로로 얻은 중대한 보상은 스탠딩 모델에 따라 몰수 및 보고 대상이다. [Chapter Thirteen §6.4 보고 의무와 예외](../../core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 몰수와 보유](../../core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 시정, 기록, 회부](../../core_13.000_standing_integration.md#64-special-violation-rules)를 참조한다.
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 스튜어드십 및 운영자에 대한 적용
@@ -1181,8 +1210,8 @@ flowchart TB
 
 **세부 내용은 다음에 있다:**
 
-- 스튜어드와 운영자에게 중요한 실제 업무를 위한 승인된 역할, 역량 및 경로는 [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)를 참조한다.
-- 고영향 시스템에서 그 의무를 이행하는 방식은 [**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md) (*핵심 시스템 스튜어드십*)를 참조한다.
+- [Chapter Sixteen §5 — 승인된 역할, 역량 개발, 기여](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution)는 스튜어드와 운영자에게 실제로 중요한 업무로 들어가는 승인된 역할, 역량, 경로를 다룬다;
+- [**CS-16.305**](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship) (*핵심 시스템 스튜어드십*)은 영향이 큰 시스템에서 해당 의무가 어떻게 이행되는지 다룬다; 그리고
 - 실무와 공동체 역량에 대한 원칙 층위의 설명은 [§16 스튜어드십 심층 설명](#16-관리의-상세-내용)을 참조한다.
 
 그러한 경로는 다음을 지켜야 한다.
@@ -1316,7 +1345,7 @@ flowchart TB
 - **정기 검토 및 시정:** [검토 및 시정 의무](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **강화된 검토:** 집중 또는 지배가 실질적으로 중요한 경우 [§11.1 시장 집중 임계값 메커니즘](core_01_a_values_principles.md#111-시장-집중-임계치-장치도입자가-조정-가능) 및 [§11.2 경쟁 촉진과 지배 방지](core_01_a_values_principles.md#112-경쟁-촉진과-지배-방지).
 - **지위 및 위반 절차:** 검증된 조사 결과가 쟁점인 경우 [제9장 — 기여, 위반 및 지위 모델](core_08_standing_assessment.md).
-- **반헌법적 위법행위:** 집중 또는 절차 포획이 반헌법적 위법행위에 해당하는 경우 [제11장 §5.1 집중 기반 전복: 기준 상호작용](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **반헌법적 비행:** 권력 집중이나 절차 포획이 반헌법적 비행을 이루는 경우 [Chapter Fourteen §5.1 집중 기반 전복: 기준 상호작용](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)을 따른다.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 불일치 시정 및 포획 대응
@@ -1364,8 +1393,8 @@ flowchart TB
 **불일치 보상 시정** ([제5장](../../core_05.045_band_integrative.md#misaligned-reward-correction)에서 정의됨):
 
 - 불일치가 검증된 뒤에는 불일치하거나 부패한 보상 경로에서 얻은 중대한 보상을 조용한 지위 크레딧으로 보유하거나 보호된 혜택으로 감싸서는 안 된다.
-- [제10장 §5.4 특별 위반 규칙](core_09_standing_integration.md#54-special-violation-rules)은 몰수, 비례적 환수, 알고도 수락한 사실의 보고, 시정을 규율한다.
-- 검증된 기여 또는 위반이 얼마나 좋거나 나빴는지는 여기서가 아니라 [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)에 따라 평가한다.
+- [Chapter Thirteen §6.4 특별 위반 규칙](../../core_13.000_standing_integration.md#64-special-violation-rules)은 몰수, 비례적 환수, 인지하고 수락한 경우의 보고, 시정을 규율한다.
+- 검증된 기여나 위반이 얼마나 좋거나 나빴는지는 여기서가 아니라 [Chapter Twelve §1 질문 2 — 그것은 얼마나 좋거나 나빴는가?](../../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)에서 평가한다.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 19.5 조건부 청구, 우연 게임 및 이벤트 계약 시장

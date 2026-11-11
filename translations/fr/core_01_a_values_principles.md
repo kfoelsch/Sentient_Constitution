@@ -51,7 +51,7 @@
 |---|---|
 | **Participation** | [§16 Gestion fiduciaire approfondie](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail) et [§17 Gestion fiduciaire à conséquences importantes](core_01_c_stewardship_capacity_principles.md#17-gestion-conséquente--le-rôle-du-responsable) (rôles ayant des conséquences et expression) ; [§7 Liberté](#7-freedom-bounded-agency) (capacité d’agir réelle) |
 | **Supervision** | [§16](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail) et [§17](core_01_c_stewardship_capacity_principles.md#17-gestion-conséquente--le-rôle-du-responsable) (compréhension distribuée, dossiers) ; [§18 Gouvernance](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde) (répartition des pouvoirs) ; [§12](#12-exigence-dévaluation-systémique) (audit) |
-| **Responsabilité** | [§18 Gouvernance](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde) (obligation de rendre compte à la mesure du pouvoir) ; [§19 Alignement des incitations et captation du système](core_01_c_stewardship_capacity_principles.md#19-alignement-des-incitations-et-captation-du-système) (les récompenses ne doivent pas vider les branches de leur substance) |
+| **Responsabilité** | [§16.4 Documenter au moment de l’acte](../../core_01.010_stewardship_capacity_principles.md#164-document-at-action) (l’acte crée son propre registre de l’acte afin que l’obligation de répondre soit traçable) ; [§18 Gouvernance](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (responsabilité proportionnée à l’autorité) ; [§19 Alignement des incitations et capture du système](../../core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (les récompenses ne doivent pas vider les branches de leur substance) |
 | **Diligence** | [§16](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail) et [§17](core_01_c_stewardship_capacity_principles.md#17-gestion-conséquente--le-rôle-du-responsable) (détecter et corriger les problèmes sans retard évitable) |
 
 **Deux axes, sans opposition.** Les objectifs indiquent ce que les systèmes poursuivent ; la Tétrade indique comment cette poursuite reste légitime. Un terme peut relever des deux : la Vérité et la Fiabilité sont des composantes de l’Épanouissement, et le [Préambule §2](core_00_preamble.md#2-aperçu-des-mesures) les mesure dans la famille de la Supervision. Les [§§13–15](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels) déterminent comment mettre ces principes en balance lorsqu’ils entrent en conflit et les lire comme un tout ; le [§20](core_01_c_stewardship_capacity_principles.md#20-application-intégrée) les applique à tous les chapitres ultérieurs.
@@ -88,7 +88,7 @@
 
 <br>
 
-*En termes simples : le Chapitre Un établit les valeurs et les contraintes qui régissent tous les autres chapitres. Les systèmes partagés doivent poursuivre ensemble l'**Épanouissement** et la **Continuité**, sans sacrifier l'un à l'autre, et aucune valeur ne peut être maximisée au détriment des autres.*
+*En termes simples : le Chapitre Un établit les valeurs et les limites qui régissent tous les autres chapitres. Les systèmes partagés doivent poursuivre ensemble l’**Épanouissement** et la **Continuité**, sans sacrifier l’un à l’autre, et aucune valeur ne peut être maximisée au détriment des autres.*
 
 <a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>Ce chapitre établit les principes et les contraintes qui régissent l'interprétation, l'application et l'évolution de la présente Constitution. Il développe les [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) — l'[**Épanouissement**](core_00_preamble.md#flourishing) et la [**Continuité**](core_00_preamble.md#continuity) — établis dans le [Préambule §1 Le Modèle](core_00_preamble.md#the-model), pour en faire des principes et des contraintes opérationnels. Les définitions canoniques au niveau des principes figurent dans le Préambule ; ce chapitre les applique.
 
@@ -96,7 +96,7 @@ Ces objectifs doivent être poursuivis conjointement, toujours dans le respect d
 
 Le chapitre s'organise autour de ces deux objectifs et de cette Tétrade :
 - **Épanouissement :** l'[Introduction à l'objectif d'Épanouissement](#2-introduction-à-lobjectif-dépanouissement) présente l'objectif. [§3 Objectif fondamental : bien-être](#3-foundational-objective-wellbeing-flourishing-aim) énonce le résultat. [§4 Sécurité](#4-safety-harm-constraint), [§5 Vérité](#5-truth-epistemic-integrity-constraint), [§6 Confiance](#6-trust-and-trustworthiness-coordination-integrity) et [§7 Liberté](#7-freedom-bounded-agency) développent les quatre conditions qui le soutiennent : sécurité, vérité, fiabilité et agentivité significative.
-- **Continuité :** l'[Introduction à l'objectif de Continuité](#8-introduction-à-lobjectif-de-continuité) présente l'objectif. [§9 Capacité des systèmes partagés](#9-capacité-du-système-partagé) (un moyen de favoriser l'Épanouissement et la substance même de la Continuité), [§10 Résilience et conception autoréparatrice](#10-resilience-and-self-healing-design), [§11 Structure du marché](#11-structure-du-marché) et [§12 Exigence d'évaluation systémique](#12-exigence-dévaluation-systémique) développent la stabilité à long terme, la capacité durable des systèmes partagés et la résilience. Les affirmations relatives à la Continuité exigent une représentation honnête du système dans son ensemble : chaque affirmation de la §9 Capacité des systèmes partagés, de la §10 Résilience et conception autoréparatrice et de la §11 Structure du marché ne tient qu'après la vérification prévue à la §12 Exigence d'évaluation systémique.
+- **Continuité :** [Introduction à la finalité de continuité](#8-continuity-aim-introduction) présente cette finalité. [§9 Capacité des systèmes partagés](#9-shared-system-capacity) (un moyen au service de l’épanouissement qui constitue également la substance de la continuité), [§10 Conception de la résilience et de l’autoréparation](#10-resilience-and-self-healing-design), [§11 Structure du marché](#11-market-structure) et [§12 Exigence d’évaluation systémique](#12-systemic-evaluation-requirement) développent la stabilité à long terme, la capacité durable des systèmes partagés et la résilience. Les affirmations relatives à la continuité reposent sur une image honnête de l’ensemble du système : toute affirmation des §9, §10 ou §11 ne tient qu’après l’évaluation du §12.
 - **Lorsque les principes se rencontrent :** [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels), [§14 Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) et [§15 Interprétation constitutionnelle](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) régissent la mise en balance et la lecture conjointe des objectifs et principes.
 - **La Tétrade en pratique :** de [§16 Gestion responsable approfondie](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail) à [§19 Alignement des incitations et captation du système](core_01_c_stewardship_capacity_principles.md#19-alignement-des-incitations-et-captation-du-système), ces sections intègrent la participation, la supervision, la responsabilité et la célérité à la gestion responsable, à la gouvernance et aux incitations ; [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée) applique l'ensemble du chapitre à tous les chapitres suivants.
 
@@ -147,7 +147,7 @@ Ces valeurs :
 - fonctionnent comme des principes et contraintes en interaction, qui doivent être évalués ensemble ;
 - s'appliquent à tous les « systèmes », notamment aux structures techniques, organisationnelles, économiques et sociotechniques ainsi qu'aux écosystèmes qui ont une incidence matérielle sur les êtres sentients et la planète Terre.
 
-Aucun principe ne peut être appliqué isolément lorsque cela porte matériellement atteinte aux autres. En cas de tensions, les systèmes doivent les résoudre selon les exigences de proportionnalité, de nécessité et d'incidence systémique énoncées dans ce chapitre. Lorsqu'un conflit non résolu met directement en jeu des contraintes de principe non négociables, la **§13** du Chapitre Un, Procédure de résolution des conflits constitutionnels, détermine la priorité.
+Aucun principe ne peut être appliqué isolément si cela porte une atteinte substantielle aux autres. En cas de tensions, les systèmes doivent les résoudre selon les exigences de proportionnalité, de nécessité et d’impact systémique énoncées dans le présent chapitre. Si un conflit non résolu touche directement des contraintes de principe non négociables, la **§13**, Processus de résolution des collisions constitutionnelles, détermine la priorité.
 
 <a id="2-flourishing-aim-introduction"></a>
 ### 2. Introduction à l’objectif d’épanouissement
@@ -177,7 +177,7 @@ Aucun principe ne peut être appliqué isolément lorsque cela porte matérielle
 
 <br>
 
-*En termes simples : l’épanouissement est le premier des deux objectifs : les êtres sentients vivent bien et conservent la capacité de bien vivre parce que les systèmes qui les entourent sont sûrs, honnêtes, fiables et leur laissent une réelle marge de choix. La section 3 définit ce résultat. Les quatre principes qui suivent indiquent ce qui le rend effectif.*
+*En termes simples : l’Épanouissement est le premier des deux objectifs : les êtres sentients vont bien et peuvent le rester, parce que les systèmes qui les entourent sont sûrs, honnêtes, fiables et leur laissent un véritable choix. La section 3 décrit le résultat ; les quatre principes suivants indiquent comment le préserver.*
 
 [**L’épanouissement**](core_05_apex_flourishing_aim.md#flourishing-constitutional) est le **bien-être sentient maintenu par la vérité, la sécurité, la fiabilité et une agentivité significative** ([Préambule §1 Le Modèle](core_00_preamble.md#flourishing)). Le Chapitre Un le développe en deux étapes : [§3 Objectif fondamental : Bien-être (objectif d’épanouissement)](#3-foundational-objective-wellbeing-flourishing-aim) énonce le résultat, et quatre principes énoncent les conditions qui le maintiennent.
 
@@ -241,7 +241,7 @@ flowchart TB
 
 <br>
 
-*En termes simples : la sécurité et la vérité constituent des planchers fermes de la Constitution — ce ne sont pas des compromis que l’on peut écarter pour optimiser autre chose. Les systèmes communs ne peuvent pas exposer les êtres sentients à un danger prévisible ni les tromper ; les deux contraintes s’appliquent à la poursuite de l’épanouissement et de la continuité, sous la discipline de participation, de surveillance, de responsabilité et de célérité imposée par la Tétrade.*
+*En termes simples : la Sécurité et la Vérité sont des planchers impératifs de la Constitution, et non des compromis à optimiser jusqu’à les effacer. Les systèmes partagés ne peuvent pas exposer de manière prévisible les êtres sentients au danger ni les tromper ; ces deux contraintes s’appliquent aussi à la poursuite de l’Épanouissement et de la Continuité, dans le cadre des exigences de participation, de supervision, de responsabilité et de rapidité du Tétrade.*
 
 La **sécurité** et la **vérité** sont des contraintes de principe non négociables qui limitent tous les autres principes du Chapitre Un — notamment l’[§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim) et les [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims). Elles sont des composantes expressément nommées de l’[**épanouissement**](#flourishing) et indispensables à la [**continuité**](#continuity) : les systèmes ne peuvent s’épanouir par le préjudice ou la tromperie, et une légitimité durable exige une gestion honnête des risques dans le temps.
 
@@ -256,7 +256,7 @@ Les conclusions en matière de sécurité et de vérité peuvent modifier le dos
 - la classification de la gravité de ces violations
 - les conséquences qui en découlent
 
-Le modèle de statut du [**Chapitre Neuf**](core_08_standing_assessment.md) régit la classification, la vérification et l’application de ces conclusions, selon les exigences d’évaluation et de conformité issues des [**Chapitres Deux à Cinq**](core_02_definition_structure.md).
+Le modèle de situation — [**chapitre onze**](../../core_11.000_standing_assessment.md) pour les registres et [**chapitre douze**](../../core_12.000_standing_measurement.md) pour la mesure — régit la classification, la vérification et l’application de ces constats, selon les exigences d’évaluation et de conformité tirées des [**chapitres deux à cinq**](../../core_02.000_definition_structure.md).
 
 <a id="3-foundational-objective-wellbeing-flourishing-aim"></a>
 
@@ -290,7 +290,7 @@ Le modèle de statut du [**Chapitre Neuf**](core_08_standing_assessment.md) rég
 
 <br>
 
-*En termes simples : ces systèmes ont pour but d’améliorer réellement la vie des êtres sentients — ce but n’est pas atteint en poursuivant un indicateur indirect et ne saurait servir de prétexte pour négliger la sécurité, la vérité ou les droits. Le bien-être est essentiel à la participation : une voix symbolique, sans les conditions qui rendent l’agentivité réelle, ne constitue pas une participation au sens de cette Constitution.*
+*En termes simples : ces systèmes doivent réellement améliorer la vie des êtres sentients. La poursuite d’indicateurs indirects n’atteint pas cet objectif et ne justifie pas de négliger la Sécurité, la Vérité ou les droits. Le bien-être fonde la participation : une voix de façade sans les conditions d’une autonomie réelle n’est pas une participation selon cette Constitution.*
 
 L’objectif ultime de tous les systèmes régis par cette Constitution est de préserver et d’améliorer le [bien-être](../../core_05.040_band_continuity.md#wellbeing) des êtres sentients — l’objectif d’[**épanouissement**](#flourishing) dans le cadre des [deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims).
 
@@ -316,7 +316,7 @@ Le bien-être englobe les effets immédiats, mais aussi les conséquences indire
 - Sous-sections (ordre de lecture) : [§3.1.1](#311-accès-et-possibilités) · [§3.1.2](#312-avantages-et-charges) · [§3.1.3](#313-traitement-équitable) · [§3.1.4](#314-traitement-injuste).
 - En aval : façonne le champ des droits concernant l’égalité de statut, le traitement non arbitraire, la contestation significative et les limites des restrictions proportionnées.
   - En particulier [Article VI : Droits fondamentaux égaux](core_06_rights_part_b.md#article-vi--droits-fondamentaux-égaux), [Article VI-C : Non-discrimination](core_06_rights_part_b.md#article-vi-c-non-discrimination), [Article X : Autodétermination, agentivité et participation](core_06_rights_part_b.md#article-x--autodétermination-capacité-dagir-et-participation), [Article XIII-B : Droit à réparation et à recours](core_06_rights_part_c.md#article-xiii-b--droit-à-la-réparation-et-aux-mesures-correctives) et [Article XIX-B : Contestabilité et limites des restrictions proportionnées](core_06_rights_part_d.md#article-xix-b--contestabilité-et-limites-proportionnées-aux-restrictions).
-  - Lorsqu’une désignation anticonstitutionnelle entraîne des sanctions ou des effets durables, lire avec le [Chapitre Onze, section 4 — Garanties de procédure régulière, recours et prévention](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment).
+  - Lorsqu’une désignation anticonstitutionnelle entraîne des sanctions ou un effet durable, lire avec le [chapitre quatorze, section 4 — Garanties de procédure régulière, réparation et prévention](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (14.000).
   - Les engagements de non-discrimination sont détaillés au Chapitre Cinq [§2 — Caractéristiques protégées, utilisation de substituts, filtrage des signaux intimes et statut au titre de l’**Article VII-E** (*Services sexuels commerciaux consensuels entre adultes et exploitation sexuelle*)](../../core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), y compris le [Filtrage des signaux intimes protégés et contournement du statut de l’**Article VII-E** (*Services sexuels commerciaux consensuels entre adultes et exploitation sexuelle*)](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) lorsque les règles de traitement équitable de §2.1.3 concernent le filtrage des signaux intimes ou l’**Article VII-E** (*Services sexuels commerciaux consensuels entre adultes et exploitation sexuelle*).
 - À lire avec : [Équité substantielle](../../core_05.055_band_participation.md#substantive-fairness) et les obligations pertinentes du socle des droits du Chapitre Six lorsque les avantages, charges, récompenses, coûts, devoirs, risques, contributions, besoins ou expositions sont matériels ; [Accessibilité](../../core_05.055_band_participation.md#accessibility) lorsque les voies d’accès de §2.1.1 sont matérielles ; [Divergence des indicateurs indirects](core_05_band_oversight.md#divergence-dindicateurs-substituts) lorsque les indicateurs agrégés ou les effets de tableau de scores sont matériels.
 
@@ -339,7 +339,7 @@ Le bien-être englobe les effets immédiats, mais aussi les conséquences indire
 
 <br>
 
-*En termes simples : l’équité signifie qu’un système ne peut pas se déclarer bon lorsque des êtres sentients ordinaires sont empêchés de participer, soumis à des règles inexpliquées ou contraints d’assumer des coûts que d’autres évitent. Un système équitable offre un accès réel, s’appuie sur des motifs défendables et répartit récompenses, coûts et risques selon les contributions, les besoins et l’exposition réels.*
+*En termes simples : un système ne peut se dire juste s’il empêche les êtres sentients ordinaires de participer, leur applique des règles inexpliquées ou leur fait supporter des coûts dont d’autres se déchargent. Un système juste garantit un accès réel, s’appuie sur des raisons défendables et répartit récompenses, coûts et risques selon les contributions, les besoins et l’exposition réels.*
 
 L’**équité** fait partie de ce qu’exige l’[§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim) chaque fois que des êtres sentients doivent vivre, travailler, apprendre, échanger ou prendre des décisions par l’intermédiaire de systèmes communs. Lorsque ces systèmes les affectent matériellement, l’équité demande si les possibilités, le traitement et la répartition des avantages et des charges respectent la [Dignité et l’égalité de statut moral](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing).
 
@@ -347,61 +347,70 @@ L’équité contribue à rendre la [participation](core_05_apex_participation_l
 
 Il ne suffit pas qu’un système affiche un bon résultat moyen. Un indicateur phare, une moyenne, un classement ou une affirmation d’efficacité ne prouve pas à lui seul l’équité. Un système peut sembler efficace dans l’ensemble tout en étant injuste envers des êtres sentients exclus, mal classés, sous-payés, surchargés ou privés d’une possibilité significative de s’opposer.
 
-Cette section comprend **quatre parties opérationnelles**. Elles orientent la section sans remplacer les définitions du Chapitre Cinq ni le socle des droits du Chapitre Six.
+Cette section comporte **cinq parties opérationnelles**. Elles guident la section sans remplacer les définitions du chapitre cinq ni le socle de droits du chapitre six.
 
 <a id="311-access-and-opportunity"></a>
 ##### 3.1.1 Accès et possibilités
 
-Cette sous-section précise ce que signifient concrètement l’accès et les possibilités :
+Cette sous-section précise ce que signifient concrètement l’accès et l’égalité des chances :
 
-- Les êtres sentients ont besoin de voies pratiques vers la [participation](core_05_apex_participation_leg.md#participation-constitutional), l’éducation, le travail, les soins, la sécurité, la mobilité et d’autres biens essentiels à la vie ordinaire.
-- Ces voies ne doivent pas être bloquées, rendues inabordables, retardées, dissimulées ou biaisées pour des motifs arbitraires ou sans pertinence.
-- Une porte ouverte uniquement sur le papier ne suffit pas lorsque cette Constitution exige une possibilité **substantielle**.
+- Les êtres sentients ont besoin de voies pratiques vers la [Participation](../../core_05.025_apex_participation_leg.md#participation-constitutional), l’éducation, le travail, les soins, la sécurité, la mobilité et les autres biens importants au quotidien.
+- Ces voies ne doivent pas être bloquées, rendues inabordables, retardées, cachées ou biaisées pour des raisons arbitraires ou sans pertinence.
+- Une porte ouverte uniquement sur le papier ne suffit pas lorsque cette Constitution exige une possibilité **réelle et substantielle**.
 
 <a id="312-benefits-and-burdens"></a>
 ##### 3.1.2 Avantages et charges
 
 Cette sous-section précise quand le partage des avantages et des charges est équitable :
 
-- Un système est injuste lorsque certains êtres sentients perçoivent les gains tandis que d’autres en absorbent discrètement les coûts.
-- Le favoritisme, le transfert caché des coûts, l’application sélective des règles et les manipulations de tableaux de scores ne satisfont pas à cette exigence.
+- Un système n’est pas équitable lorsque certains êtres sentients reçoivent les gains tandis que d’autres en supportent discrètement les coûts.
+- Le favoritisme, le transfert caché des coûts, l’application sélective des règles et la manipulation des tableaux de résultats ne satisfont pas à cette exigence.
 
 <a id="313-fair-treatment"></a>
 ##### 3.1.3 Traitement équitable
 
 Cette sous-section précise ce qu’exige un traitement équitable :
 
-- Les êtres sentients placés dans des situations similaires devraient relever des mêmes règles fondamentales.
-- Ce que les êtres sentients reçoivent, doivent ou risquent devrait correspondre à leurs contributions, à leurs besoins ou aux charges qu’ils supportent réellement.
-- Toute différence de traitement doit reposer sur un motif réel, être proportionnée à ce motif, respecter la dignité et éviter la discrimination.
-- Les règles détaillées figurent au Chapitre Cinq, notamment dans [Caractéristiques protégées](../../core_05.055_band_participation.md#protected-characteristics) et [Utilisation de caractéristiques protégées comme substituts et effets disproportionnés](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
-- Lorsqu’une décision affecte matériellement une personne ou qu’elle la conteste, la voie de réexamen doit satisfaire à l’[Équité procédurale](../../core_05.055_band_participation.md#procedural-fairness) partout où le Chapitre Six ou l’instrument applicable exige notification, audience, explication ou examen.
+- Les êtres sentients placés dans des situations similaires doivent être traités selon les mêmes règles fondamentales.
+- Ce que les êtres sentients reçoivent, doivent ou risquent doit correspondre à leur contribution, à leurs besoins ou aux charges qu’ils supportent réellement.
+- Toute différence de traitement doit avoir une raison réelle, être proportionnée à cette raison, respecter la dignité et éviter la discrimination.
+- Les règles détaillées sont mises en œuvre au Chapitre Cinq, notamment les [Caractéristiques protégées](../../core_05.055_band_participation.md#protected-characteristics) et la [substitution par des caractéristiques protégées et les effets disproportionnés](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+- Lorsqu’une décision affecte matériellement une personne, ou qu’elle la conteste, la voie de réexamen doit respecter l’[Équité procédurale](../../core_05.055_band_participation.md#procedural-fairness) chaque fois que le Chapitre Six ou le document applicable exige un avis, une audience, une explication ou un réexamen.
 
 Un bien-être allégué n’est pas conforme à l’[§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim) s’il dépend d’exclusions arbitraires, de règles inexpliquées ou instables, d’une extraction dissimulée ou d’une [participation](core_05_apex_participation_leg.md#participation-constitutional) formelle alors que les conditions d’équité qui rendent la participation significative ont échoué.
 
 <a id="314-unfair-treatment"></a>
 ##### 3.1.4 Traitement injuste
 
-Le traitement injuste engendre exclusion et incohérence. Les systèmes ne doivent pas le dissimuler derrière un langage technique, des étiquettes neutres ou des décisions automatisées. Ils ne doivent notamment pas :
-- utiliser des algorithmes, systèmes de notation ou règles administratives qui reproduisent des désavantages historiques sans motif constitutionnel valable ;
-- utiliser des signaux personnels intimes ou l’historique sexuel comme raccourcis pour évaluer la confiance, le risque, le caractère ou l’accès — lire avec le [Filtrage des signaux intimes protégés et contournement du statut de l’**Article VII-E** (*Services sexuels commerciaux consensuels entre adultes et exploitation sexuelle*)](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) ;
-- sanctionner un emploi légal, un historique d’emploi, l’absence d’emploi, un statut de travail légal ou une association protégée sans motif constitutionnel valable ;
-- refuser un emploi, un logement, des services bancaires, des licences, un statut ou un accès similaire **principalement en raison** d’une forme légale d’emploi, d’un emploi légal passé, d’un emploi légal présumé ou de l’absence d’emploi ;
-- créer un désavantage matériel au moyen de licences, du zonage, de frais, de règles de plateforme ou d’autres exigences d’apparence neutre qui pèsent principalement sur le travail légal, son historique, un travail légal présumé, l’absence d’emploi ou une association protégée, sans la justification exigée par cette Constitution.
+Un traitement injuste crée de l’exclusion et de l’incohérence. Les systèmes ne doivent pas le dissimuler derrière un langage technique, des étiquettes neutres ou des décisions automatisées. En particulier, ils ne doivent pas :
+- utiliser des algorithmes, des systèmes de notation ou des règles administratives qui reproduisent des désavantages historiques sans motif constitutionnellement valable ;
+- utiliser des signaux personnels intimes ou des antécédents sexuels comme raccourcis pour déterminer la confiance, le risque, le caractère ou l’accès — voir les [restrictions relatives aux signaux intimes protégés et le contournement du statut de l’article VII-E](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) ;
+- sanctionner un emploi licite, des antécédents professionnels, l’absence d’emploi, un statut professionnel licite ou une association protégée sans motif constitutionnellement valable ;
+- refuser un emploi, un logement, des services bancaires, des licences, la qualité pour agir ou un accès similaire **principalement en raison** de toute forme licite d’emploi, d’un emploi licite passé, d’un emploi licite présumé ou de l’absence d’emploi ;
+- créer un désavantage matériel par des licences, le zonage, des frais, des règles de plateforme ou d’autres exigences d’apparence neutre qui pèsent principalement sur le travail licite, ses antécédents, le travail licite présumé, l’absence d’emploi ou une association protégée, sans la justification exigée par cette Constitution.
 
 Ces quatre parties contribuent également à [6. Confiance](#6-trust-and-trustworthiness-coordination-integrity) lorsque les êtres sentients doivent se fier à un système, accepter ses décisions ou coordonner leurs actions autour de ses promesses.
 
 <a id="32-recognition-reinforcement-and-aspiration"></a>
 
+<a id="315-present-capability-and-proactive-help"></a>
+##### 3.1.5 Capacité présente et aide proactive
+
+Cette sous-section précise comment les systèmes doivent tenir compte de ce qu’un être sentient peut faire maintenant et ce qu’ils doivent faire lorsqu’il ne peut pas répondre :
+
+- **Capacité présente :** un système évalue ce qu’un être sentient peut faire maintenant pour la tâche ou la décision concernée. Il ne se fonde ni sur ce que l’être pouvait faire auparavant, ni sur un diagnostic ou une étiquette, ni sur ce qu’un être sentient moyen peut faire. La capacité peut diminuer, revenir ou changer d’un jour à l’autre. Des années de paiements effectués à temps ne prouvent pas la capacité présente, et un constat passé de capacité limitée ne la rend pas permanente.
+- **La survie ne dépend pas d’une réponse :** le maintien des éléments essentiels à la survie ne doit pas dépendre de la capacité d’un être sentient à répondre, à demander de l’aide ou à suivre une procédure qu’il ne peut pas suivre maintenant. L’ampleur de cette obligation augmente avec l’[enjeu matériel](../../core_00.000_preamble.md#material-stake) et la [dépendance](../../core_05.040_band_continuity.md#dependency).
+- **Prendre contact :** lorsqu’un être sentient qui dépend d’un système pour un besoin matériel cesse de répondre, le système doit essayer de le joindre et de le mettre en relation avec une aide, par le moyen le moins intrusif, sans devoir connaître la raison de son silence.
+
 #### 3.2 Reconnaissance, renforcement et aspiration
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — pilier de la **participation** lorsque des voies nommées de reconnaissance, d’acclamation ou d’aspiration affectent matériellement la voix, le statut ou l’accès à des rôles à conséquences ; pilier de la **responsabilisation** (interdiction de récompenser la trahison, la dissimulation et l’évitement de la responsabilisation) ; pilier de la **supervision** (acclamation traçable et non trompeuse).
+- À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — pilier de la **participation** lorsque des voies de reconnaissance, d’acclamation ou d’aspiration affectent matériellement la voix, le statut ou l’accès à des rôles à conséquences ; pilier de la **responsabilisation** (interdiction de récompenser la trahison, la dissimulation et l’évitement de la responsabilisation) ; pilier de la **supervision** (acclamation traçable et non trompeuse).
 - En amont : Principes : [§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim) — notamment le bien-être comme fondement de la [Participation](core_05_apex_participation_leg.md#participation-constitutional) ; [§3.1 Équité](#31-fairness).
 - En aval : [6. Confiance](#6-trust-and-trustworthiness-coordination-integrity) ; [§16 La gestion responsable en profondeur](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail) ; [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde) ; [§7 Liberté](#7-freedom-bounded-agency).
-- À lire avec : [Chapitre neuf §§4.3–4.4 — Catalogue normalisé des descripteurs](core_08_standing_assessment.md#43-route-descriptor-measurement-roles), lorsque les récits de reconnaissance **adaptés au domaine** ou les descripteurs comparatifs de l’**axe de contribution / axe de violation** sont importants.
-- À lire avec : [Chapitre neuf §4.3 — Descripteurs du côté de la contribution](core_08_standing_assessment.md#43-route-descriptor-measurement-roles), lorsque la nature de la contribution et les récits de reconnaissance sont importants ; [Chapitre dix §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) pour leur intégration à la Question 3.
+- À lire avec : [chapitre douze §§3.1–3.2 — Catalogue normalisé de descripteurs](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1), lorsque la reconnaissance **alignée sur le domaine** ou les récits comparatifs des descripteurs des **axes Contribution / Violation** sont importants.
+- À lire avec : [chapitre douze §3.1 — Descripteurs du côté Contribution](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1), lorsque la nature de la contribution et les récits de reconnaissance sont importants ; [chapitre treize §4](../../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (13.000 §4) pour leur intégration à la Question 3.
 - À lire avec : [Article X : Autodétermination, agentivité et participation](core_06_rights_part_b.md#article-x--autodétermination-capacité-dagir-et-participation), lorsque les préférences quant à la forme de la reconnaissance, à la visibilité ou au retrait sont importantes.
 - Sous-sections (ordre de lecture) : [§3.2.1](#321-reconnaissance-et-renforcement) · [§3.2.2](#322-célébration-de-la-réussite) · [§3.2.3](#323-aspiration) · [§3.2.4](#324-reconnaissance-conforme-aux-préférences) · [§3.2.5](#325-voies-de-reconnaissance-alignées) · [§3.2.6](#326-interdiction-de-récompenser-les-conduites-anticonstitutionnelles) · [§3.2.7](#327-niveau-de-mise-en-œuvre).
 
@@ -421,58 +430,58 @@ Ces quatre parties contribuent également à [6. Confiance](#6-trust-and-trustwo
 
 <br>
 
-*En termes simples : le bien-être ne concerne pas seulement ce qui est interdit et ce qui est équitable — les systèmes communs doivent aussi célébrer et récompenser honnêtement les comportements qu’ils souhaitent voir se répéter, dans le respect de la vérité et des droits, de manière à soutenir la participation réelle sans s’y substituer. Célébrer les réussites signifie reconnaître les contributions, réparations et accomplissements réels, et non le battage médiatique ou les indicateurs manipulés. Cela signifie aussi refuser de récompenser la trahison constitutionnelle, la dissimulation, les représailles ou l’évitement de la responsabilisation — même lorsque ces actes ont procuré un avantage institutionnel.*
+*En termes simples : le bien-être ne se limite pas aux interdictions et à l’équité ; dans le respect de la vérité et des droits, les systèmes partagés devraient aussi encourager honnêtement et récompenser les comportements qu’ils souhaitent voir répétés, de façon à soutenir la participation réelle et non à la remplacer. Célébrer les réussites, c’est reconnaître les contributions réelles, les réparations et les accomplissements, et non le battage médiatique ni les indicateurs manipulés. Cela signifie aussi refuser de récompenser la trahison constitutionnelle, la dissimulation, les représailles ou l’évitement de responsabilité, même si ces actes ont avantagé l’institution.*
 
 **Trois dimensions.** Le bien-être dépend de ce que les systèmes interdisent et de l’équité avec laquelle ils répartissent les coûts — mais aussi de ce qu’ils valorisent visiblement, renforcent et aident les êtres sensibles à poursuivre. Cette section énonce ces devoirs de reconnaissance, de renforcement et d’aspiration. La reconnaissance et l’acclamation qui affectent matériellement la voix, le statut ou l’accès doivent rester conformes à la [Participation](core_05_apex_participation_leg.md#participation-constitutional) au titre de [§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim) et de [§3.1 Équité](#31-fairness). Elle s’applique conjointement avec [§3.1 Équité](#31-fairness) et reste encadrée par la Sécurité, la Vérité et le Socle des droits du Chapitre six. Cette section est le point de rencontre entre les [Deux questions fondamentales](core_00_preamble.md#two-fundamental-questions) du Préambule et les principes : [§3.2.1 Reconnaissance et renforcement](#321-reconnaissance-et-renforcement) se rapporte à la première, et [§3.2.6 Absence de récompense des conduites anticonstitutionnelles](#326-interdiction-de-récompenser-les-conduites-anticonstitutionnelles) à la seconde.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Reconnaissance et renforcement
 
-Le bien-être des êtres sensibles progresse lorsque les systèmes **signalent**, **créditent** et **récompensent de manière proportionnée** la gestion responsable licite, la coopération sincère, la réparation, l’accomplissement et les autres contributions conformes à la Constitution — notamment au moyen du **renforcement positif** et de la **reconnaissance publique** — et non uniquement par la retenue, la sanction ou le silence.
+Le bien-être des êtres sentients progresse lorsque les systèmes **signalent**, **reconnaissent** et **récompensent de manière proportionnée** la gestion responsable licite, la coopération honnête, la réparation, l’achèvement et les autres contributions conformes à la Constitution — notamment par le **renforcement positif** et la **reconnaissance publique** — au lieu de s’appuyer uniquement sur la restriction, la sanction ou le silence.
 
-Il s’agit d’un devoir constitutionnel, et non d’une culture facultative. Les systèmes communs doivent rendre visibles et dignes d’être répétées les conduites conformes à la Constitution.
+Il s’agit d’un devoir constitutionnel, et non d’une culture facultative. Les systèmes partagés devraient rendre visible et digne d’être répétée toute conduite conforme à la Constitution.
 
 <a id="322-celebration-of-success"></a>
 ##### 3.2.2 Célébration de la réussite
 
-La **célébration** honore les réalisations **traçables**, **non trompeuses** et la coordination prosociale. Elle comprend les récits mobilisateurs et de gestion responsable liés à une [contribution](../../core_05.035_band_accountability.md#contribution-nature) vérifiée.
+La **célébration** honore les accomplissements **traçables** et **non trompeurs**, ainsi que la coordination prosociale. Elle comprend des récits d’encouragement et de gestion responsable liés à une [contribution](../../core_05.035_band_accountability.md#contribution-nature) vérifiée.
 
 La célébration ne doit pas :
-- se substituer aux progrès réels vers les objectifs constitutionnels sous-jacents lorsque l’optimisation d’indicateurs indirects s’en est écartée ([§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim))
-- devenir une **captation** des éloges ou du prestige ([§19 Alignement des incitations et captation du système](core_01_c_stewardship_capacity_principles.md#19-alignement-des-incitations-et-captation-du-système))
-- servir à excuser l’évitement de la responsabilisation lorsque la Sécurité, la Vérité ou les protections des droits sont en jeu
+- remplacer les progrès réels vers les objectifs constitutionnels sous-jacents lorsque l’optimisation d’indicateurs indirects s’en est écartée ([§3 Objectif fondamental : Bien-être](#3-foundational-objective-wellbeing-flourishing-aim)) ;
+- devenir une **captation** des éloges ou du prestige (../../[§19 Alignement des incitations et captation du système](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)) ;
+- justifier l’évitement de la responsabilité lorsque la Sécurité, la Vérité ou les protections des droits sont en jeu.
 
 <a id="323-aspiration"></a>
 ##### 3.2.3 Aspiration
 
-L’**aspiration** englobe les préférences exprimées et les fins poursuivies dans le cadre de [§7 Liberté](#7-freedom-bounded-agency). Elle fait partie du bien-être lorsqu’elle est compatible avec la dignité, l’égalité de statut, la Sécurité, la Vérité et l’[Équité substantielle](../../core_05.055_band_participation.md#substantive-fairness).
+L’**aspiration** englobe les préférences exprimées et les fins poursuivies dans le cadre de la [§7 Liberté](#7-freedom-bounded-agency). Elle fait partie du bien-être lorsqu’elle respecte la dignité, l’égalité de statut, la Sécurité, la Vérité et l’[Équité substantielle](../../core_05.055_band_participation.md#substantive-fairness).
 
-Dans ces limites, les systèmes doivent **reconnaître et soutenir** ce que les êtres sensibles souhaitent poursuivre légalement.
+Dans ces limites, les systèmes devraient **reconnaître et soutenir** ce que les êtres sentients souhaitent légitimement poursuivre.
 
-Désirer quelque chose ne donne pas carte blanche. Lorsque le consentement, la dignité, la Sécurité, la Vérité, l’équité substantielle ou les protections du **Chapitre six** sont matériellement en jeu, ces aspirations restent soumises à l’analyse des collisions constitutionnelles, comme toute autre revendication constitutionnelle.
+Désirer quelque chose ne donne pas carte blanche. Lorsque le consentement, la dignité, la Sécurité, la Vérité, l’équité substantielle ou les protections du **Chapitre Six** sont matériellement en jeu, ces aspirations restent soumises à l’analyse du Conflit constitutionnel comme toute autre revendication constitutionnelle.
 
 <a id="324-preference-aligned-recognition"></a>
 ##### 3.2.4 Reconnaissance conforme aux préférences
 
-Lorsque cela est réalisable, les systèmes doivent **adapter** la reconnaissance, les éloges et les récompenses proportionnées à la manière dont les êtres sensibles souhaitent être honorés — en particulier à leurs préférences exprimées quant à la **forme et à la visibilité**.
+Dans la mesure du possible, les systèmes devraient **adapter** la reconnaissance, les éloges et les récompenses proportionnées à la manière dont les êtres sentients souhaitent être honorés, notamment à leurs préférences déclarées quant à la **forme et à la visibilité**.
 
-Cela comprend le respect du **retrait volontaire** d’une reconnaissance publique ou cérémonielle, ou d’une préférence pour un remerciement **minimal ou privé**, lorsque cela est proportionné et licite.
+Cela implique de respecter le **retrait du consentement** à une reconnaissance publique ou cérémonielle, ou la préférence pour un remerciement **minimal ou privé**, lorsque cela est proportionné et légal.
 
-Une reconnaissance **non souhaitée** ou **coercitive** ne satisfait pas à cette exigence — notamment le fait de mettre en lumière des êtres sensibles qui **refusent**.
+Une reconnaissance **non souhaitée** ou **coercitive** ne satisfait pas à cette exigence, y compris lorsqu’on met en lumière des êtres sentients qui **refusent**.
 
-La reconnaissance doit être **porteuse de sens** pour les personnes honorées et les communautés avec lesquelles elles travaillent, et non ressembler à une mise en scène principalement destinée à des observateurs extérieurs.
+La reconnaissance doit être **significative** pour les personnes honorées et les communautés avec lesquelles elles travaillent, et non une mise en scène destinée principalement à des observateurs extérieurs.
 
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 Voies de reconnaissance alignées
 
-Les voies de reconnaissance nommées, les éloges, prix, certifications, positions, effets sur la réputation ou incitations comparables qui **attribuent un statut**, des **ressources** ou un **accès matériel** doivent rester conformes à la Vérité, à la Sécurité, aux procédures contestables lorsque le **Chapitre six** le prévoit, à la [Participation](core_05_apex_participation_leg.md#participation-constitutional) et à l’[Alignement des incitations](core_05_band_integrative.md#alignement-des-incitations).
+Les voies de reconnaissance, les éloges, prix, certifications, statuts, effets de réputation ou incitations comparables qui **attribuent un statut**, des **ressources** ou un **accès matériel** doivent respecter la Vérité, la Sécurité, les procédures contestables lorsque le **Chapitre Six** les prévoit, la [Participation](../../core_05.025_apex_participation_leg.md#participation-constitutional) et l’[Alignement des incitations](../../core_05.045_band_integrative.md#incentive-alignment).
 
-Elles **ne doivent pas** récompenser systématiquement les préjudices, la tromperie, l’évitement du contrôle, l’extraction ou l’érosion de l’agentivité significative.
+Elles **ne doivent pas** récompenser systématiquement le préjudice, la tromperie, l’évitement du contrôle, l’extraction ou l’érosion de l’autonomie effective.
 
 <a id="326-anti-reward-for-anti-constitutional-conduct"></a>
 ##### 3.2.6 Interdiction de récompenser les conduites anticonstitutionnelles
 
-*En termes simples : nul ne peut être récompensé pour avoir commis ou dissimulé une conduite anticonstitutionnelle, ou exercé des représailles à son sujet, que ce soit ouvertement ou par des voies détournées comme les faveurs, les promotions discrètes ou le fait de fermer les yeux. Aider les êtres sensibles qui ont subi un préjudice et protéger les personnes qui signalent honnêtement les faits, c’est différent. C’est la bonne réponse et elle doit être encouragée.*
+*En termes simples : nul ne peut être récompensé pour avoir commis ou dissimulé un comportement anticonstitutionnel, ni pour avoir exercé des représailles contre une personne qui le signale, que ce soit ouvertement ou par des voies détournées comme le favoritisme, les promotions discrètes ou le fait de fermer les yeux. Aider les êtres sentients lésés et protéger les personnes qui signalent honnêtement les faits est différent : c’est la bonne réponse, qui doit être encouragée.*
 
 Aucune reconnaissance, récompense, protection, promotion, immunité, affectation favorable, contrat, accès, statut, avantage réputationnel, avantage de position ou avantage comparable ne peut être accordé parce qu’un être sensible, un rôle, une institution ou un composant du système a commis, rendu possible, dissimulé ou normalisé une conduite anticonstitutionnelle, refusé de la corriger ou exercé des représailles contre son signalement.
 
@@ -510,13 +519,13 @@ Les cérémonies détaillées, programmes scolaires, budgets, programmes et indi
 
 <br>
 
-*En termes simples : quelle que soit la manière de gouverner, de faire appliquer les règles, de juger, de restreindre ou de réparer, il ne faut pas soumettre les êtres sensibles à l’humiliation, au spectacle public, aux représailles ou à la cruauté « parce que c’est plus facile pour nous ». Des conséquences équitables, une responsabilisation publique et des restrictions fermes peuvent rester licites même si elles font souffrir ou embarrassent quelqu’un. La limite est franchie lorsque le processus lui-même devient la punition — conçu pour dégrader, humilier ou se défouler plutôt que pour protéger, corriger, restaurer ou prévenir. Cela s’applique partout où l’autorité constitutionnelle s’exerce, et pas seulement lors de mises en balance des droits.*
+*En termes simples : quelle que soit la manière de gouverner, d’appliquer les règles, de juger, de restreindre ou d’accorder réparation, on ne fait pas subir aux sentients humiliation, spectacle public, représailles ou cruauté « parce que c’est plus facile pour nous ». Des conséquences justes, une reddition de comptes publique et des restrictions fermes peuvent rester licites même si elles blessent ou embarrassent quelqu’un. La limite est franchie lorsque le processus devient lui-même la punition — conçu pour dégrader, couvrir de honte ou s’en prendre à quelqu’un plutôt que pour protéger, corriger, rétablir ou prévenir. Cela s’applique partout où s’exerce l’autorité constitutionnelle, et pas seulement lors de l’arbitrage des droits.*
 
-**Nature de la règle :** un socle transversal de comportement sous [§3 Bien-être](#3-foundational-objective-wellbeing-flourishing-aim) — il n’ajoute pas de travail substantiel propre comme le font [§3.1 Équité](#31-fairness) et [§3.2 Reconnaissance, renforcement et aspiration](#32-recognition-reinforcement-and-aspiration), mais encadre *la manière* dont peuvent être menés le travail relatif au bien-être, la gestion responsable et tout autre processus constitutionnel — y compris les trois piliers de [§16 La gestion responsable en profondeur](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail) et le rôle de gestion responsable défini à [§17 Gestion responsable conséquente](core_01_c_stewardship_capacity_principles.md#17-gestion-conséquente--le-rôle-du-responsable).
+**Ce que c’est :** un plancher transversal portant sur le caractère des activités relevant de [§3 Bien-être](#3-foundational-objective-wellbeing-flourishing-aim). Il n’ajoute pas de contenu substantiel propre, contrairement à [§3.1 Équité](#31-fairness) et [§3.2 Reconnaissance, renforcement et aspiration](#32-recognition-reinforcement-and-aspiration) ; il encadre plutôt *la manière* dont sont menés les travaux relatifs au bien-être, à la gérance et tout autre processus constitutionnel — y compris les trois piliers de [§16 La gérance en profondeur](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) et le rôle de steward défini à [§17 Gérance à conséquences](../../core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role).
 
-**Principe du processus anti-dégradant.** Les processus, mesures et résultats constitutionnels doivent respecter ce principe.
+**Principe du processus non dégradant.** Les processus, mesures et résultats constitutionnels doivent respecter ce principe.
 
-**Interdit.** Ils ne doivent pas être justifiés par, inclure ou créer de manière prévisible :
+**Interdit.** Ils ne doivent ni être justifiés par, ni inclure, ni créer de manière prévisible :
 
 - un traitement dégradant ;
 - l’humiliation pour elle-même ;
@@ -526,11 +535,11 @@ Les cérémonies détaillées, programmes scolaires, budgets, programmes et indi
 - une imposition discriminatoire de charges ; ou
 - la primauté de la commodité procédurale sur les droits.
 
-Lorsque le caractère interdit consiste à faire de la souffrance une fin en soi, ou à infliger gratuitement ou de manière dégradante au-delà de ce qui est nécessaire et proportionné — y compris l’humiliation pour elle-même — la référence pertinente du Chapitre cinq est la [Cruauté](../../core_05.035_band_accountability.md#cruelty) (sous-type de l’humiliation dans cette entrée).
+Lorsque le caractère interdit consiste à faire souffrir pour la souffrance elle-même, ou à infliger gratuitement ou de façon dégradante au-delà de la nécessité et de la proportionnalité — y compris à humilier pour le seul plaisir d’humilier —, l’entrée correspondante du chapitre cinq est [Cruauté](../../core_05.035_band_accountability.md#cruelty) (l’humiliation constituant un sous-type de cette entrée).
 
-**Pas interdit au seul motif que c’est difficile.** La responsabilisation publique ordinaire, la publication motivée, une restriction vérifiée ou une réparation proportionnée restent licites même si elles sont désagréables ou portent atteinte à la réputation.
+**Le fait d’être difficile ne suffit pas à l’interdire.** La reddition de comptes publique ordinaire, une publication motivée, une restriction vérifiée ou un recours proportionné demeurent licites, même s’ils sont désagréables ou préjudiciables à la réputation.
 
-**Conception et conduite.** Les processus ne doivent pas être conçus, présentés, menés ou laissés en fonctionnement comme une dégradation, une humiliation, un spectacle, des représailles, une imposition discriminatoire de charges ou une érosion des droits motivée par la commodité.
+**Conception et conduite.** Les processus ne doivent pas être conçus, présentés, exécutés ni autorisés à fonctionner comme des formes de dégradation, d’humiliation, de mise en spectacle, de représailles, d’imposition discriminatoire de charges ou d’érosion des droits par commodité.
 
 **Portée.** Ce principe s’applique à tout processus constitutionnel, notamment :
 
@@ -539,11 +548,11 @@ Lorsque le caractère interdit consiste à faire de la souffrance une fin en soi
 - les procédures devant les instances ;
 - les mesures d’urgence et plans de transition ;
 - les procédures d’amendement ; et
-- toutes les activités administratives et opérationnelles relevant de l’autorité constitutionnelle.
+- à toutes les activités administratives et opérationnelles exercées sous l’autorité constitutionnelle.
 
-Il ne se limite pas au contexte de l’ordre de mise en balance, où il constitue également un socle absolu au titre de [§13.1.4 Socles constitutionnels, Sécurité et processus anti-dégradant](core_01_b_interaction_interpretation.md#1314-seuils-constitutionnels-sécurité-et-interdiction-des-procédures-dégradantes).
+Il ne se limite pas au contexte de l’arbitrage des compromis, où il constitue également un plancher absolu au titre de [§13.1.4 Planchers constitutionnels, sécurité et processus non dégradant](../../core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
 
-**Détection et contestation.** Le caractère d’un processus est soumis aux mêmes exigences de [Contestabilité](../../core_05.035_band_accountability.md#contestability) et de [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) que les résultats substantiels. Les parties concernées peuvent contester le caractère d’un processus indépendamment de la légalité par ailleurs du résultat substantiel. Un résultat correct obtenu au moyen d’un processus dégradant reste non conforme.
+**Détection et contestation.** Le caractère d’un processus est soumis aux mêmes exigences de [contestabilité](../../core_05.035_band_accountability.md#contestability) et de [surveillance](../../core_05.020_apex_oversight_leg.md#oversight-constitutional) que les résultats de fond. Les parties concernées peuvent contester ce caractère indépendamment de la légalité éventuelle du résultat de fond. Un résultat correct obtenu au moyen d’un processus dégradant demeure non conforme.
 
 <a id="4-safety-harm-constraint"></a>
 
@@ -576,11 +585,11 @@ Il ne se limite pas au contexte de l’ordre de mise en balance, où il constitu
 
 <br>
 
-*En termes simples : les systèmes ne doivent pas être construits ou exploités d’une manière qui augmente de façon prévisible les risques de préjudices incontrôlés, de défaillance en cascade ou de dommages irréversibles pour les êtres sensibles et les systèmes dont ils dépendent.*
+*En termes simples : les systèmes ne peuvent être conçus ni exploités de manière à accroître de façon prévisible les risques de préjudice non maîtrisé, de défaillance en cascade ou de dommage irréversible pour les sentients et les systèmes dont ils dépendent.*
 
-La Sécurité est une contrainte de principe non négociable sur la conception, l’exploitation et la gouvernance des systèmes — une composante explicitement nommée de l’[**Épanouissement**](#flourishing) et un socle de la [**Continuité**](#continuity) partout où les systèmes communs créent un risque prévisible de préjudice. Les définitions détaillées, critères d’évaluation et tests de conformité figurent aux [**Chapitres deux à cinq**](core_02_definition_structure.md), notamment dans [Préjudice](../../core_05.035_band_accountability.md#harm), [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), [Risque](../../core_05.040_band_continuity.md#risk), [Caractère matériel](../../core_05.050_band_oversight.md#materiality), [Dépendance](../../core_05.040_band_continuity.md#dependency) et [Prévisibilité](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+La sécurité est une contrainte de principe non négociable qui s’applique à la conception, à l’exploitation et à la gouvernance des systèmes — un élément expressément nommé de [**Flourishing**](#flourishing) et un seuil minimal de [**Continuity**](#continuity) lorsque des systèmes partagés créent un risque prévisible de préjudice. Les définitions détaillées, critères d’évaluation et tests de conformité figurent dans les [**Chapitres Deux à Cinq**](../../core_02.000_definition_structure.md), notamment [Préjudice](../../core_05.035_band_accountability.md#harm), [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), [Risque](../../core_05.040_band_continuity.md#risk), [Matérialité](../../core_05.050_band_oversight.md#materiality), [Dépendance](../../core_05.040_band_continuity.md#dependency) et [Prévisibilité](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
-Les systèmes ne peuvent agir — ni omettre d’agir — d’une manière qui augmente de façon prévisible le risque de préjudices incontrôlés, le potentiel de défaillance en cascade ou l’exposition à des préjudices irréversibles, en contradiction avec la présente Constitution.
+Les systèmes ne peuvent agir — ni s’abstenir d’agir — d’une manière qui accroît de façon prévisible le risque de préjudice non maîtrisé, le potentiel de défaillance en cascade ou l’exposition à un préjudice irréversible en violation de la présente Constitution.
 
 <a id="5-truth-epistemic-integrity-constraint"></a>
 
@@ -611,11 +620,11 @@ Les systèmes ne peuvent agir — ni omettre d’agir — d’une manière qui a
 
 <br>
 
-*En termes simples : les systèmes ne doivent ni tromper, ni déformer, ni supprimer, ni structurer leurs résultats de manière à induire en erreur — et les décisions à fort impact doivent reposer sur des éléments de preuve honnêtes, des méthodes explicites, une incertitude reconnue et une véritable ouverture aux conclusions contraires.*
+*En termes simples : les systèmes ne peuvent tromper, déformer, supprimer ou structurer leurs résultats pour induire en erreur — et les décisions à fort impact doivent reposer sur des preuves honnêtes, des méthodes déclarées, une incertitude reconnue et une réelle ouverture aux résultats contraires.*
 
-La Vérité n’est pas négociable : il faut être honnête dans sa manière de travailler et dans ce que l’on dit aux autres. Elle est au cœur de l’[**Épanouissement**](#flourishing). Elle est également nécessaire à la [**Continuité**](#continuity), car toute construction durable repose sur des éléments de preuve honnêtes et une représentation exacte de la réalité. Les définitions détaillées, critères d’évaluation et tests de conformité figurent aux [**Chapitres deux à cinq**](core_02_definition_structure.md), notamment dans [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Caractère matériel](../../core_05.050_band_oversight.md#materiality), [Dépendance](../../core_05.040_band_continuity.md#dependency) et [Prévisibilité](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+La vérité n’est pas négociable : il faut être honnête dans sa manière de travailler et dans ce que l’on dit aux autres. Elle est une composante essentielle de [**Flourishing**](#flourishing) et est également nécessaire à [**Continuity**](#continuity), car tout ce qui est conçu pour durer dépend de preuves honnêtes et d’une représentation exacte de la réalité. Les définitions détaillées, critères d’évaluation et tests de conformité figurent dans les [**Chapitres Deux à Cinq**](../../core_02.000_definition_structure.md), notamment [Intégrité épistémique](../../core_05.050_band_oversight.md#epistemic-integrity), [Vérité (contrainte constitutionnelle)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Matérialité](../../core_05.050_band_oversight.md#materiality), [Dépendance](../../core_05.040_band_continuity.md#dependency) et [Prévisibilité](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
-Les systèmes ne doivent pas affaiblir la capacité des êtres sensibles à comprendre ce qui se passe, à prendre des décisions éclairées ou à vérifier ce qui leur est communiqué. Cela comprend le mensonge, la déformation, la dissimulation d’informations ou leur présentation dans le but d’induire en erreur.
+Les systèmes ne peuvent affaiblir la capacité des sentients à comprendre ce qui se passe, à prendre des décisions éclairées ou à vérifier ce qui leur est dit. Cela comprend le mensonge, la déformation, la dissimulation d’informations, la présentation des seuls résultats favorables en omettant les défavorables, ainsi que toute présentation conçue pour induire en erreur.
 
 <a id="51-science-informed-inquiry-and-decision-support"></a>
 
@@ -629,7 +638,7 @@ Les systèmes ne doivent pas affaiblir la capacité des êtres sensibles à comp
 - En aval : [6. Confiance](#6-trust-and-trustworthiness-coordination-integrity), [§16 La gestion responsable en profondeur](core_01_c_stewardship_capacity_principles.md#16-lintendance-en-détail), [13.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-contraintes-relatives-à-la-divulgation-épistémique), [Chapitre neuf §3 Évaluation de la certification du système entier](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde).
 - En aval : façonne la portée des droits relatifs aux éléments de preuve empiriques fiables, aux normes de preuve experte, à l’intégrité de la publication et de la réplication scientifiques, à la vérification indépendante, aux essais du cycle de vie, à l’examen des causes profondes et à la divulgation sensible pour la sécurité.
   - En particulier : [Article XIII : Droit à des systèmes fiables et dignes de confiance](core_06_rights_part_c.md#article-xiii--droit-à-des-systèmes-fiables-et-dignes-de-confiance), [Article XVI : Audit, transparence et vérification indépendante](core_06_rights_part_c.md#article-xvi--audit-transparence-et-vérification-indépendante), [Article XVIII-E : Intégrité de la publication, de l’examen et de la réplication scientifiques](core_06_rights_part_c.md), [Article XXIII : Analyse des causes profondes et réponse adaptative](core_06_rights_part_d.md#article-xxiv--analyse-des-causes-profondes-et-réponse-adaptative) et [Article XXV-A : Examen rétrospectif et divulgation](core_06_rights_part_e.md).
-- À lire avec : [Chapitre douze §4.2 — Domaines des forums techniques](core_11_forum.md#42-technical-forum-domains) (*notamment les normes communes et la prévention des déplacements*) lorsque les normes de preuve experte, les questions techniques certifiées ou les différends relatifs à la gestion responsable des preuves sont importants ; [corpus_forum.md CF-10](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md) (*Forums de spécialistes techniques et chambres spécialisées*) pour les voies spécialisées adoptées.
+- À lire avec : [chapitre quinze §4.2 — Domaines du forum technique](../../core_15.000_forum.md#42-technical-forum-domains) (15.000 §4.2) (*y compris les normes communes et la règle anti-déplacement*), lorsque les normes de preuve experte, les questions techniques à trancher ou les litiges sur la gestion des preuves sont importants ; [CF-15.440](../../corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md#cf-15440-technical-specialist-forums-and-specialist-chambers) (*Forums techniques spécialisés et chambres spécialisées*) pour les voies spécialisées adoptées.
 
 </details>
 
@@ -650,27 +659,27 @@ Les systèmes ne doivent pas affaiblir la capacité des êtres sensibles à comp
 
 <br>
 
-*En termes simples : lorsqu’un système formule des affirmations vérifiables sur la sécurité, les risques, la vérité ou une gouvernance à fort impact, il doit traiter les éléments de preuve comme tels — avec des méthodes claires, une prise en compte de l’incertitude, un examen rigoureux et la volonté de changer de cap lorsque les faits l’exigent.*
+*En termes simples : lorsqu’un système formule des affirmations vérifiables sur la sécurité, les risques, la vérité ou la gouvernance à fort impact, il doit traiter les preuves comme telles — avec des méthodes claires, la reconnaissance de l’incertitude, un examen rigoureux et la volonté de changer de cap lorsque les faits l’exigent.*
 
-L’enquête éclairée par la science est une discipline d’appui obligatoire pour la **Sécurité** et la **Vérité** lorsque les décisions constitutionnelles reposent sur des propositions empiriques, prédictives, causales, mesurables ou autrement vérifiables. Elle ne constitue pas une troisième contrainte non négociable distincte de la Sécurité et de la Vérité ; elle impose de vérifier les affirmations au moyen d’éléments de preuve testés et de méthodes claires, afin que ces contraintes restent véridiques dans la pratique, puissent être corrigées en cas d’erreur et demeurent proportionnées à ce qui est réellement connu.
+L’enquête éclairée par la science constitue une discipline de soutien obligatoire à la **Sécurité** et à la **Vérité** lorsque les décisions constitutionnelles reposent sur des propositions empiriques, prédictives, causales, mesurables ou autrement vérifiables. Elle n’est pas une troisième contrainte non négociable distincte de la Sécurité et de la Vérité ; elle exige de vérifier les affirmations à l’aide de preuves éprouvées et de méthodes claires afin que ces contraintes restent véridiques en pratique, puissent être corrigées en cas d’erreur et demeurent proportionnées à ce qui est réellement connu.
 
-Lorsque des choix de gouvernance — y compris des prévisions, des affirmations causales, des classifications et d’autres décisions à **fort impact** — reposent sur des propositions **empiriques** ou **vérifiables**, les pratiques relatives aux preuves **doivent** être conformes à l’**intégrité scientifique**. Au minimum, lorsque cela est faisable, les dossiers de décision devraient inclure :
+Lorsque des choix de gouvernance — notamment les prédictions, affirmations causales, classifications et autres décisions à **fort impact** — reposent sur des propositions **empiriques** ou **vérifiables**, les pratiques probatoires **doivent** respecter l’**intégrité scientifique**. Dans la mesure du possible, les dossiers décisionnels devraient au minimum comporter :
 - des questions ou hypothèses explicites
 - les **méthodes**, les **limites des données** et l’**incertitude**
-- un traitement honnête des **éléments de preuve contradictoires** et une **révision lorsque les éléments réfutent** les conclusions ou hypothèses antérieures
-- un **examen indépendant** proportionné aux enjeux, conformément au **Chapitre quatre** et au **Chapitre cinq** (*Intégrité épistémique* ; *Vérité (contrainte constitutionnelle)*)
+- un traitement honnête des **éléments contradictoires** et une **révision lorsque les preuves réfutent** des conclusions ou hypothèses antérieures ;
+- un **examen indépendant** proportionné aux enjeux, conformément aux **chapitres quatre et cinq** (*Intégrité épistémique* ; *Vérité — contrainte constitutionnelle*).
 
-La méthode scientifique, l’enquête systématique et l’évaluation par les pairs établissent la norme, mais ne sont pas les seules procédures acceptables. Le degré de formalité requis dépend des enjeux : les décisions à plus fort impact nécessitent des pratiques probatoires plus rigoureuses, régies par la [Gouvernance adaptée à la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
+La méthode scientifique, l’enquête systématique et l’évaluation par les pairs définissent la norme, sans être les seules procédures acceptables. Le degré de formalité requis dépend des enjeux : les décisions à plus fort impact exigent des pratiques probatoires plus strictes, régies par la [Gouvernance adaptée à la classification](../../core_05.050_band_oversight.md#classification-scaled-governance).
 
-Si un différend porte sur ce qui constitue une bonne preuve experte, sur la validité des méthodes ou sur la responsabilité de la gestion des preuves, il relève du forum chargé de ces questions. Voir les **Domaines des forums techniques** dans [Chapitre douze §4.2 Domaines des forums techniques](core_11_forum.md#42-technical-forum-domains). Les forums techniques assurent la cohérence des normes entre les domaines et peuvent répondre aux questions techniques certifiées. Ils ne prennent pas en charge une affaire relevant d’un autre forum en raison des enjeux concernés.
+Si un litige porte sur la qualité des preuves expertes, la fiabilité des méthodes ou la garde des preuves, il relève du forum compétent pour ces questions. Voir les **Domaines du forum technique** du [chapitre quinze §4.2 Domaines du forum technique](../../core_15.000_forum.md#42-technical-forum-domains). Les forums techniques assurent la cohérence des normes entre les familles et peuvent répondre aux questions techniques soumises à décision. Ils ne reprennent pas une affaire relevant d’un autre forum en raison de l’enjeu.
 
-La sécurité peut parfois justifier de limiter ce qui est publié ou partagé : l’accès aux données, le fonctionnement d’une méthode ou les documents nécessaires à la reproduction d’une étude. De telles limites ne sont permises qu’au titre :
+La sécurité peut parfois justifier de limiter ce qui est publié ou partagé : l’accès aux données, le fonctionnement d’une méthode ou les éléments nécessaires pour reproduire une étude. De telles limites ne sont permises qu’au titre :
 
-- des [13.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-contraintes-relatives-à-la-divulgation-épistémique)
+- de [§13.2 Contraintes de divulgation épistémique](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) ;
 - des définitions du Chapitre cinq énumérées ci-dessus
 - des Socles des droits du Chapitre six applicables
 
-Même dans ce cas, il faut préserver autant d’honnêteté et de vérifiabilité que la sécurité le permet. Utilisez des dossiers protégés, un examen indépendant, une publication différée, des occultations, un accès sécurisé ou des mesures similaires. N’utilisez jamais une restriction pour enfouir des éléments de preuve indésirables, dissimuler une faille de sécurité ou faire paraître l’accord plus fort qu’il ne l’est.
+Même dans ce cas, il faut préserver autant d’honnêteté et de vérifiabilité que la sécurité le permet. On peut utiliser des dossiers protégés, un examen indépendant, une publication différée, des occultations, un accès sécurisé ou des mesures similaires. Une restriction ne doit jamais servir à enfouir des preuves dérangeantes, cacher un défaut de sécurité ou donner une impression de consensus plus forte qu’elle ne l’est.
 
 <a id="52-plain-language-accessibility-participation-and-stewardship-duty"></a>
 #### 5.2 Accessibilité en langage clair (obligation de participation et de tutelle)
@@ -700,7 +709,7 @@ Même dans ce cas, il faut préserver autant d’honnêteté et de vérifiabilit
 
 <br>
 
-*En termes simples : les règles, décisions et avis qui s’imposent aux êtres sentients doivent être rédigés de sorte qu’ils puissent réellement les lire, les comprendre et agir en conséquence ; le jargon, la complexité accumulée et l’opacité procédurale ne peuvent servir à neutraliser la contestabilité, la capacité d’agir, l’audit ou la correction.*
+*En termes simples : les règles, décisions et avis qui s’imposent aux êtres sentients doivent être rédigés de façon qu’ils puissent réellement les lire, les comprendre et agir en conséquence. Le jargon, l’accumulation de complexité ou l’opacité procédurale ne peuvent servir à empêcher la contestation, l’autonomie, l’audit ou la correction.*
 
 Les règles qui s’imposent aux êtres sentients doivent être rédigées en langage clair. C’est l’**obligation d’accessibilité en langage clair**. Elle couvre les textes constitutionnels, de gouvernance, de forum et de fonctionnement quotidien. Elle couvre aussi tout texte que les êtres sentients doivent utiliser pour exercer leurs droits, participer à la gouvernance, contester une décision ou vérifier le respect des règles.
 
@@ -709,51 +718,51 @@ Il s’agit d’une exigence de [Participation](core_05_apex_participation_leg.m
 <a id="521-scope"></a>
 ##### 5.2.1 Champ d’application
 
-Cette obligation couvre toute règle, tout avis ou outil que les êtres sentients doivent effectivement lire ou utiliser. Par exemple :
+Cette obligation couvre toute règle, tout avis ou tout outil que les sentients doivent effectivement lire ou utiliser, par exemple :
 
 - les textes constitutionnels et de gouvernance ;
 - les décisions et avis des forums ;
 - les étapes permettant de contester une décision ou d’obtenir réparation ;
-- les dossiers d’audit et de vérification lorsqu’ils sont destinés à des lecteurs sentients ;
+- les dossiers d’audit et de vérification lorsqu’ils sont accessibles aux lecteurs sentients ;
 - les conditions, écrans de consentement et éléments similaires.
 
-Le canal de transmission importe peu : texte écrit, interface, message oral ou tout autre moyen. Un canal satisfait à l’obligation s’il propose une version en langage clair accessible à chaque être sentient concerné. Cela découle de l’[Article VI-D](core_06_rights_part_b.md#article-vi-d--accessibilité) (*Accessibilité*) et de la [Non-exclusion des êtres sentients](../../core_05.055_band_participation.md#sentience-non-exclusion).
+Le mode de transmission de l’information importe peu : texte écrit, interface, message oral ou tout autre canal. Un canal respecte l’obligation lorsqu’il offre une version en langage clair accessible à chaque sentient concerné. Cela découle de l’[article VI-D](../../core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Accessibilité*) et de la [non-exclusion des sentients](../../core_05.055_band_participation.md#sentience-non-exclusion).
 
 <a id="522-the-duty"></a>
 ##### 5.2.2 L’obligation
 
-Conformément au [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-réduction-de-la-charge-évitable), les opérateurs et les organes de gouvernance doivent :
+En vertu de [§13.3 Réduction des charges évitables](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), les opérateurs et les organes de gouvernance doivent :
 
-- Employer des mots simples et directs plutôt que du jargon ou des formulations inutilement compliquées, tout en préservant le sens important.
-- Fournir un résumé ou un guide en langage clair lorsque les êtres sentients doivent utiliser des documents techniques denses.
-- Organiser les textes afin que les êtres sentients trouvent ce dont ils ont besoin et puissent les lire sans effort supplémentaire. Cela soutient l’intérêt pour l’apprentissage reconnu par l’[Article IV](core_06_rights_part_a.md#article-iv-droit-à-une-éducation-centrée-sur-les-êtres-sentients) (*Droit à une éducation centrée sur les êtres sentients*).
-- Maintenir une complexité proportionnée à ce que la communication doit exprimer.
+- Employer des mots simples et directs plutôt que du jargon ou des formulations inutilement complexes, à condition de préserver le sens important.
+- Fournir un résumé ou un guide en langage clair lorsque les sentients doivent travailler avec des documents techniques denses.
+- Organiser le texte de sorte que les sentients trouvent ce dont ils ont besoin et puissent le lire sans effort supplémentaire. Cela soutient l’intérêt pour l’apprentissage reconnu à l’[article IV](../../core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Droit à une éducation centrée sur les sentients*).
+- Maintenir un niveau de complexité proportionné au contenu que la communication doit transmettre.
 
-Une complexité qui complique les choses sans servir une finalité constitutionnelle constitue un défaut de [Charge évitable](../../core_05.040_band_continuity.md#avoidable-burden) au regard du [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-réduction-de-la-charge-évitable). Elle relève aussi de l’[Article XXII](core_06_rights_part_d.md#article-xxiii--intelligibilité-et-gestion-responsable-de-la-complexité) (*Compréhensibilité et tutelle de la complexité*).
+Une complexité qui complique les choses sans servir un objectif constitutionnel constitue un défaut de [charge évitable](../../core_05.040_band_continuity.md#avoidable-burden) au titre de [§13.3 Réduction des charges évitables](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden). Elle relève également de l’[article XXIII](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Compréhensibilité et gestion de la complexité*).
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 Maintien de la rigueur des définitions
 
-Le travail en langage clair **n’autorise pas** à relâcher la rigueur des définitions. Restent contraignants au niveau des définitions :
+La rédaction en langage clair **n’autorise pas** à assouplir la rigueur des définitions. Au niveau des définitions, restent déterminants :
 
 - les définitions du Chapitre Cinq et leurs composantes O/M/A/C ;
 - les mécanismes de définition des chapitres Deux à Quatre.
 
-Formuler une chose plus simplement n’en modifie pas le sens. Si un résumé en langage clair semble diverger de la définition formelle qu’il résume, la définition formelle prévaut et le résumé doit être corrigé en conséquence.
+Formuler quelque chose dans un langage plus simple n’en change pas le sens. Si un résumé en langage clair et la définition formelle qu’il résume semblent diverger, la définition formelle prévaut — et le résumé doit être corrigé pour s’y conformer.
 
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 Règle contre la complexité utilisée pour neutraliser les droits
 
-Les systèmes ne peuvent recourir à un langage compliqué, à des procédures déroutantes ou à une obscurité délibérée pour empêcher les êtres sentients de [contester](../../core_05.035_band_accountability.md#contestability) des décisions, d’exercer leur [capacité d’agir réelle](../../core_05.055_band_participation.md#meaningful-agency), d’accéder aux [audits](core_06_rights_part_c.md#article-xvi--audit-transparence-et-vérification-indépendante) ou d’exercer leurs droits du [Chapitre Six](core_06_rights_part_a.md#chapitre-six--droits-fondateurs).
+Les systèmes ne doivent pas recourir à un langage compliqué, à des procédures déroutantes ou à une obscurité délibérée pour empêcher les sentients de [contester](../../core_05.035_band_accountability.md#contestability) des décisions, d’exercer leur [agentivité réelle](../../core_05.055_band_participation.md#meaningful-agency), d’accéder aux [audits](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) ou d’exercer leurs droits du [chapitre six](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
-L’inverse est également interdit. Le langage clair ne doit pas décrire de façon inexacte l’effet réel d’une règle, dissimuler cet effet ni se substituer au texte opératoire. Cela viole la contrainte de [Vérité](core_05_band_oversight.md#vérité-contrainte-constitutionnelle).
+L’inverse est également interdit. Le langage clair ne doit pas dénaturer ce que fait réellement une règle, en cacher l’effet réel ou se substituer au texte opérant. Cela viole la contrainte de [Vérité](../../core_05.050_band_oversight.md#truth-constitutional-constraint).
 
-La même règle vaut pour la structure, pas seulement pour le langage. La complexité ne peut être utilisée — par couches techniques, organisationnelles, contractuelles ou procédurales — pour neutraliser l’audit, la contestation ou la correction. Les composants, passations entre organisations, accords ou étapes procédurales ne peuvent être empilés au point que personne ne puisse les comprendre, ou que la responsabilité, l’observabilité ou la voie de recours se perde entre les couches.
+La même règle vaut pour la structure, et pas seulement pour le langage. La complexité ne peut servir — par empilement technique, organisationnel, contractuel ou procédural — à empêcher l’audit, la contestation ou la correction. Les composants, transferts entre organisations, accords ou étapes procédurales ne doivent pas être empilés au point que personne ne puisse les comprendre, ou que la responsabilité, l’observabilité ou la voie de recours se perde entre les couches.
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 Limite des socles de droits
 
-Les socles de droits en matière d’accessibilité, d’éducation et de compréhensibilité figurent respectivement à l’[Article VI-D](core_06_rights_part_b.md#article-vi-d--accessibilité) (*Accessibilité*), à l’[Article IV-A](core_06_rights_part_a.md#article-iv-a-accès-éducatif-égal) (*Égalité d’accès à l’éducation*) et à l’[Article XXII](core_06_rights_part_d.md#article-xxiii--intelligibilité-et-gestion-responsable-de-la-complexité) (*Compréhensibilité et tutelle de la complexité*). Cette section expose l’obligation au niveau des principes qui soutient ces socles.
+Les planchers de droits relatifs à l’accessibilité, à l’éducation et à la compréhensibilité figurent respectivement à l’[article VI-D](../../core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Accessibilité*), à l’[article IV-A](../../core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Égalité d’accès à l’éducation*) et à l’[article XXIII](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Compréhensibilité et gestion de la complexité*). La présente section énonce l’obligation au niveau des principes qui soutient ces planchers.
 
 <a id="6-trust-and-trustworthiness-coordination-integrity"></a>
 
@@ -787,21 +796,21 @@ Les socles de droits en matière d’accessibilité, d’éducation et de compr�
 
 <br>
 
-*En termes simples : les systèmes communs demandent aux êtres sentients de compter sur eux pour la sécurité, l’information, l’accès et la coordination. Selon cette Constitution, la confiance signifie que cette dépendance doit être méritée par le comportement réel des systèmes, et non fabriquée par l’enjolivement, le secret ou le transfert caché des risques.*
+*En termes simples : les systèmes partagés demandent aux sentients de dépendre d’eux pour leur sécurité, l’information, l’accès et la coordination. Selon cette Constitution, la confiance doit être gagnée par le comportement réel des systèmes, et non fabriquée par la communication trompeuse, le secret ou le transfert caché des risques.*
 
-Les êtres sentients ont besoin de systèmes sur lesquels ils peuvent réellement compter. La [**Confiance**](../../core_05.040_band_continuity.md#trust) est le principe constitutionnel qui légitime cette dépendance : les systèmes doivent la mériter par un comportement honnête et une fiabilité démontrée dans le temps, et non la susciter par la tromperie ou la dissimulation. La [**Fiabilité**](../../core_05.040_band_continuity.md#trustworthiness) est l’historique qui permet de mériter cette confiance. La fiabilité est une composante expressément nommée de l’[**Épanouissement**](#flourishing), et la Confiance qu’elle permet de gagner est essentielle à la [**Continuité**](#continuity) : une coordination durable exige des systèmes sur lesquels les êtres sentients peuvent compter.
+Les sentients ont besoin de systèmes sur lesquels ils peuvent réellement compter. La [**Confiance**](../../core_05.040_band_continuity.md#trust) est le principe constitutionnel qui légitime la dépendance : les systèmes doivent la mériter par une conduite honnête et une fiabilité démontrée dans le temps, et non la susciter par la tromperie ou la dissimulation. La [**Fiabilité**](../../core_05.040_band_continuity.md#trustworthiness) est le bilan qui la mérite. La fiabilité est une composante reconnue de l’[**Épanouissement**](#flourishing), et la Confiance qu’elle permet de gagner est essentielle à la [**Continuité**](#continuity) : une coordination durable exige des systèmes sur lesquels les sentients peuvent compter.
 
 La Confiance relie les contraintes de principe à la vie commune quotidienne :
-- La [**Vérité**](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) interdit la tromperie.
-- La [**Sécurité**](../../core_05.040_band_continuity.md#safety-constitutional-constraint) limite le degré de dépendance possible lorsqu’un risque réel existe.
-- La [**Matérialité**](../../core_05.050_band_oversight.md#materiality) détermine ce qui doit être montré et expliqué : plus les enjeux sont importants pour les êtres sentients qui dépendent d’un système, plus ce système doit divulguer et justifier.
-- La [**Dégradation de la confiance et confiance induite de manière trompeuse**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) désigne le mode de défaillance — lorsque les systèmes créent, maintiennent ou évaluent la dépendance d’une manière trompeuse au regard de la Constitution.
+- La [**Vérité**](../../core_05.050_band_oversight.md#truth-constitutional-constraint) interdit la tromperie.
+- La [**Sécurité**](../../core_05.040_band_continuity.md#safety-constitutional-constraint) limite la dépendance en présence d’un risque réel.
+- La [**Matérialité**](../../core_05.050_band_oversight.md#materiality) détermine ce qui doit être montré et expliqué : plus les enjeux sont élevés pour les sentients dépendant d’un système, plus celui-ci doit divulguer et justifier.
+- La [**Dégradation de la confiance et dépendance trompeuse**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) désigne le mode de défaillance : lorsque des systèmes créent, maintiennent ou évaluent la dépendance d’une manière constitutionnellement trompeuse.
 
-La confiance échoue lorsque la dépendance est créée ou maintenue par la suppression, la tromperie, le transfert caché des risques ou des tactiques similaires, notamment tout ce qui affaiblit matériellement la capacité des êtres sentients à détecter et contester les risques systémiques. Le processus de [**Certification de l’alignement du système**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) prévu au [Chapitre Huit](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) permet aux systèmes de démontrer que leurs affirmations de confiance résistent à l’examen : la certification doit vérifier, sur la base d’un dossier contestable, que le comportement réel du système correspond à ce qu’il affirme, et non se contenter de l’assertion de l’opérateur.
+La confiance échoue lorsque la dépendance est créée ou maintenue par suppression, tromperie, transfert dissimulé des risques ou tactiques similaires — y compris tout moyen qui compromet substantiellement la capacité des sentients à détecter le risque systémique et à le contester. Elle échoue aussi lorsque la dépendance est approuvée ou poursuivie alors que des problèmes documentés menacent substantiellement l’alignement d’un système sur la présente Constitution ou provoquent son désalignement. Le processus de [**Certification de l’alignement du système**](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) du [chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) permet aux systèmes de démontrer la solidité de leurs affirmations de confiance : la certification doit vérifier que le comportement réel correspond aux représentations dans un Registre de certification du système contestable, et non se contenter de l’affirmation de l’opérateur.
 
 La confiance dépend aussi de ce qui se passe lorsqu’un système échoue. Un système fiable corrige ses erreurs : le [§6.1 Correction et réparation](#61-correction-and-remedy) intègre la correction à la Confiance, au lieu d’en faire une réflexion après coup.
 
-La certification constitue l’une des deux garanties qui fonctionnent ensemble : elle rend le système digne de confiance ; les droits des êtres sentients de le [contester](core_06_rights_part_c.md#article-xiii-a--socle-de-fiabilité-et-de-confiance), de [demander réparation](core_06_rights_part_c.md#article-xiii-b--droit-à-la-réparation-et-aux-mesures-correctives) et de le [faire auditer](core_06_rights_part_c.md#article-xvi--audit-transparence-et-vérification-indépendante) le maintiennent honnête. Aucune ne remplace l’autre — l’[Article XIII](core_06_rights_part_c.md#article-xiii--droit-à-des-systèmes-fiables-et-dignes-de-confiance) (*Droit à des systèmes fiables et dignes de confiance*) explique comment elles se combinent.
+La certification est l’une des deux garanties qui agissent de concert : elle rend le système digne de confiance, tandis que les droits des sentients à le [contester](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline), à [demander réparation](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) et à le [faire auditer](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) le maintiennent honnête. Aucune ne remplace l’autre ; l’[Article XIII](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Droit à des systèmes fiables et dignes de confiance*) précise comment elles se combinent.
 
 <a id="61-correction-and-remedy"></a>
 
@@ -809,10 +818,10 @@ La certification constitue l’une des deux garanties qui fonctionnent ensemble 
 <details>
 <summary><strong><span style="color: #2563eb;">Liens</span></strong></summary>
 
-- À lire avec la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) : volet **responsabilité** (obligation de rendre compte, réparation et correction réelle) ; volet **diligence** (réparation avant que le retard ne la rende inaccessible) ; échelonnement selon l’[enjeu matériel](core_00_preamble.md#material-stake) pour déterminer l’ampleur de la réparation.
-- À lire avec les [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) : objectif d’**Épanouissement** (la confiance accordée reste justifiée parce que les défaillances sont corrigées) ; objectif de **Continuité** (capacité de réparation durable dans le temps, la succession et la restructuration).
+- À lire avec le [Tétrade constitutionnel](../../core_00.000_preamble.md#constitutional-tetrad) : volet **responsabilité** (obligation de répondre, réparation et correction réelle) ; volet **diligence temporelle** (recours avant que le retard ne le rende inaccessible) ; l’[enjeu matériel](../../core_00.000_preamble.md#material-stake) détermine l’ampleur de la réparation.
+- À lire avec les [Deux objectifs constitutionnels](../../core_00.000_preamble.md#two-constitutional-aims) : **Épanouissement** (la confiance reste justifiée parce que les défaillances sont corrigées) ; **Continuité** (capacité durable de réparation au fil du temps, des successions et des restructurations).
 - Principes en amont : [4 Sécurité](#4-safety-harm-constraint), [5 Vérité](#5-truth-epistemic-integrity-constraint) et [§6 Confiance](#6-trust-and-trustworthiness-coordination-integrity).
-- Principes en aval : [Article XIII-B : Droit à réparation et à recours](core_06_rights_part_c.md#article-xiii-b--droit-à-la-réparation-et-aux-mesures-correctives) ; [Chapitre Dix §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Réalisme de l’application et systèmes de réparation*) pour les conséquences sur le statut ; [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Systèmes de réparation et capacité institutionnelle de recours*) pour la mise en œuvre institutionnelle.
+- Aval : [Article XIII-B : Droit à réparation et à recours](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) ; [chapitre treize §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Réalisme de l’exécution et systèmes de réparation*) pour les conséquences de situation ; [CI-13.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Systèmes de réparation et capacité institutionnelle de recours*) pour la mise en œuvre institutionnelle.
 
 </details>
 
@@ -827,22 +836,22 @@ La certification constitue l’une des deux garanties qui fonctionnent ensemble 
 
 <br>
 
-*En termes simples : lorsqu’un système agit mal, il corrige son erreur. Un système n’est pas digne de confiance parce qu’il ne connaît jamais de défaillance, mais parce que celles-ci sont reconnues, corrigées et réparées à temps, grâce à une capacité qui existe réellement.*
+*En termes simples : lorsqu’un système commet une erreur, il la corrige. Un système n’est pas digne de confiance parce qu’il ne connaît jamais d’échec, mais parce que ses défaillances sont reconnues, corrigées et réparées — à temps, grâce à des capacités qui existent réellement.*
 
-Aucun système dont dépendent les êtres sentients ne sera exempt de défaillance. Ce qui justifie qu’on s’y fie, c’est ce qui se passe ensuite. La correction fait partie de la [**Confiance**](../../core_05.040_band_continuity.md#trust), elle ne s’y ajoute pas : un système qui agit mal sans corriger son erreur ne peut conserver la confiance qu’il demande.
+Aucun système dont dépendent les sentients ne sera exempt de défaillance. Ce qui rend la confiance justifiée, c’est ce qui se passe ensuite. La correction fait partie de la [**Confiance**](../../core_05.040_band_continuity.md#trust), elle n’est pas un supplément : un système qui commet une faute sans la corriger ne peut conserver la confiance qu’il sollicite.
 
-Lorsqu’une défaillance du système cause un préjudice matériel aux êtres sentients ou viole un socle de droits du Chapitre Six, les responsables du système doivent :
+Lorsqu’une défaillance du système cause un préjudice matériel aux sentients ou ne respecte pas un plancher de droits du chapitre six, les responsables du système doivent :
 - reconnaître la défaillance ;
 - la corriger ;
-- réparer le préjudice de manière proportionnée (voir [Recours et remédiation](../../core_05.035_band_accountability.md#redress-and-remediation)) ; et
+- réparer le préjudice de manière proportionnée (../../voir [Réparation et remédiation](../../core_05.035_band_accountability.md#redress-and-remediation)) ; et
 - agir pour empêcher qu’elle se reproduise.
 
 Cette correction doit être réelle :
-- **Capacité réelle :** la réparation est assurée par un [Système de réparation](../../core_05.035_band_accountability.md#remedy-system) — capacité durable, dotée de personnel et de financement, et accessible — et non par une réparation qui n’existe que sur le papier.
-- **Dans les délais :** une réparation qui n’arrive qu’après que le préjudice est devenu irréversible, ou après que l’être sentient a été épuisé au point de renoncer, n’est pas une réparation (voir [Résolution dans les délais](../../core_05.035_band_accountability.md#timely-resolution)).
-- **À la charge des responsables :** le coût de la correction n’est pas transféré aux personnes lésées, à leurs communautés ou aux dispositifs publics de réparation lorsque les acteurs responsables peuvent le supporter. Les dépenses, la restructuration ou la succession ne mettent pas à elles seules fin à l’obligation.
+- **Capacité réelle :** La réparation est assurée par un [Système de réparation](../../core_05.035_band_accountability.md#remedy-system) — une capacité durable, dotée de personnel et de financement, et accessible — et non par un recours qui n’existe que sur le papier.
+- **Dans les délais :** Une réparation qui n’arrive qu’après que le préjudice est devenu irréversible, ou après que le sentient a été épuisé au point d’abandonner, n’est pas une réparation (../../voir [Résolution en temps utile](../../core_05.035_band_accountability.md#timely-resolution)).
+- **À la charge des responsables :** Le coût de la correction n’est pas transféré aux personnes lésées, à leurs communautés ou aux systèmes publics de réparation lorsque les acteurs responsables peuvent l’assumer. Les dépenses, une restructuration ou une succession ne mettent pas, à elles seules, fin à cette obligation.
 
-L’[Article XIII-B](core_06_rights_part_c.md#article-xiii-b--droit-à-la-réparation-et-aux-mesures-correctives) (*Droit à réparation et à recours*) du Chapitre Six établit le droit à cette correction. Le [Chapitre Dix §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Réalisme de l’application et systèmes de réparation*) applique ce principe aux conséquences sur le statut, et [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Systèmes de réparation et capacité institutionnelle de recours*) établit la mise en œuvre institutionnelle.
+Le droit à cette correction est énoncé à l’[Article XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Droit à réparation et à recours*) du chapitre six. Le [chapitre treize §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (*Réalisme de l’exécution et systèmes de réparation*) applique ce principe aux conséquences de situation, et [CI-13.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Systèmes de réparation et capacité institutionnelle de recours*) définit sa mise en œuvre institutionnelle.
 
 ### 7. Liberté (capacité d’agir délimitée)
 <a id="7-freedom-bounded-agency"></a>
@@ -885,7 +894,7 @@ L’[Article XIII-B](core_06_rights_part_c.md#article-xiii-b--droit-à-la-répar
 
 <br>
 
-*En termes simples : la liberté consiste à disposer de véritables choix dans les limites de la Constitution. Les choix réels favorisent l’Épanouissement, et le maintien de systèmes ouverts à la contestation favorise la Continuité. Cela ne signifie pas qu’on peut faire tout ce qu’on veut. « Nous n’avions pas le choix » n’est pas une excuse. Celui qui l’affirme doit montrer qu’aucune option moins restrictive n’aurait fonctionné ; la commodité, le coût ou l’habitude ne constituent pas une preuve. Les êtres sentients conservent une véritable voix et quelqu’un doit toujours répondre des conséquences. Plus l’impact, la dépendance et le risque sont élevés, plus cela compte.*
+*En termes simples : la liberté consiste à disposer de choix réels dans les limites de la Constitution. Le choix réel soutient l’Épanouissement, et le fait de garder les systèmes ouverts à la contestation soutient la Continuité. Cela ne signifie pas pouvoir tout faire. « Nous n’avions pas le choix » n’est pas une excuse : la personne qui l’affirme doit montrer qu’aucune option moins restrictive n’aurait fonctionné ; la commodité, le coût ou l’habitude ne sont pas des preuves. Les êtres sentients conservent une voix réelle et quelqu’un doit répondre des conséquences. Plus l’impact, la dépendance et le risque sont élevés, plus cela compte.*
 
 La **Liberté (capacité d’agir délimitée)** exprime la dimension du choix réel de l’objectif d’[**Épanouissement**](core_00_preamble.md#flourishing), l’un des [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims), telle que développée au Chapitre Un. Il s’agit d’une capacité d’agir délimitée, non d’un pouvoir discrétionnaire illimité ou d’une autonomie totale.
 
@@ -895,15 +904,15 @@ La **Liberté (capacité d’agir délimitée)** exprime la dimension du choix r
 
 Son application doit satisfaire à la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad). Deux volets sont particulièrement importants. La **Participation** suppose de vrais choix et des rôles ayant des conséquences. La **Responsabilité** signifie qu’une capacité d’agir sans obligation de rendre compte est incomplète. Le niveau requis varie selon l’[enjeu matériel](core_00_preamble.md#material-stake).
 
-Affirmer qu’une restriction de liberté était inévitable — y compris « nous n’avions pas le choix » — ne suffit pas à l’établir. La partie qui l’affirme doit démontrer, au titre des exigences de charge et de traçabilité du [Chapitre Quatre](core_04_burden_traceability_verification.md#chapitre-quatre--charge-de-la-preuve-traçabilité-et-vérification) et des définitions du Chapitre Cinq de la [Faisabilité](../../core_05.035_band_accountability.md#feasibility) et de la [Nécessité](../../core_05.035_band_accountability.md#necessity), qu’il n’existait aucune solution moins restrictive qui aurait tout de même empêché le préjudice matériel ou le risque systémique dans le système en fonctionnement. La commodité, le coût à lui seul, les obstacles créés par l’opérateur ou les habitudes institutionnelles ne constituent pas une preuve. Cette affirmation ne dispense pas des obligations de la Tétrade, modulées selon l’[enjeu matériel](core_00_preamble.md#material-stake) :
-- **participation** — les êtres sentients concernés ont toujours besoin d’une capacité d’agir réelle et de rôles contestables ;
+Affirmer qu’une restriction de liberté était inévitable — y compris « nous n’avions pas le choix » — ne suffit pas à l’établir. La partie qui le prétend doit démontrer, au regard des exigences de charge de la preuve et de traçabilité du [Chapitre Quatre](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) et des définitions de la [Faisabilité](../../core_05.035_band_accountability.md#feasibility) et de la [Nécessité](../../core_05.035_band_accountability.md#necessity) au Chapitre Cinq, qu’aucune solution moins restrictive n’aurait permis d’éviter le préjudice matériel ou le risque systémique dans le système en fonctionnement. La commodité, le coût à lui seul, les obstacles créés par l’opérateur ou l’habitude institutionnelle ne le démontrent pas. Cette affirmation ne dispense pas des devoirs du Tétrade proportionnés à l’[importance matérielle](../../core_00.000_preamble.md#material-stake) :
+- **participation** — les êtres sentients affectés ont toujours besoin d’une capacité d’agir réelle et de rôles contestables.
 - **responsabilité** — quelqu’un demeure responsable de la limitation.
 
-Les critères opérationnels figurent au [§7.1 Discipline des limitations](#71-limitation-discipline) et au [§13.1.1 Nécessité](core_01_b_interaction_interpretation.md#1311-nécessité).
+Les tests opérationnels figurent à la [§7.1 Discipline des limitations](#71-limitation-discipline) et à la [§13.1.1 Nécessité](../../core_01.005_interaction_interpretation.md#1311-necessity).
 
-La [Capacité d’agir réelle](../../core_05.055_band_participation.md#meaningful-agency) est la possibilité de choisir entre de véritables options. Le [Consentement](../../core_05.055_band_participation.md#consent) est un oui valable à une option précise. Le consentement ne compte pas lorsque les options ne se distinguent pas ou ne sont pas significatives. Un formulaire signé ne crée à lui seul ni capacité d’agir réelle ni consentement. La [Coercition et manipulation](../../core_05.055_band_participation.md#coercion-and-manipulation) détruisent les deux. Les règles détaillées figurent au Chapitre Cinq §2 *Capacité d’agir, consentement et protection contre la coercition*.
+La [capacité d’agir réelle](../../core_05.055_band_participation.md#meaningful-agency) est la faculté de choisir entre des options réelles. Le [consentement](../../core_05.055_band_participation.md#consent) est un oui valable à une option précise. Il ne compte pas si les options ne se distinguent pas les unes des autres ou ne sont pas significatives. Un formulaire signé ne crée à lui seul ni capacité d’agir réelle ni consentement. La [coercition et la manipulation](../../core_05.055_band_participation.md#coercion-and-manipulation) détruisent les deux. Les règles détaillées figurent au Chapitre Cinq, §2, *Capacité d’agir, consentement et lutte contre la coercition*.
 
-La Liberté ne permet pas de saper les systèmes constitutionnels, de contourner les procédures ou réparations constitutionnelles, ni de revendiquer une capacité d’agir protégée pour une conduite dont le but ou l’effet principal est de récompenser, protéger, normaliser ou solder une conduite anticonstitutionnelle. Contester les systèmes constitutionnels et protester pacifiquement pour les changer ne revient pas à les saper. Voir [§7.3 Dissidence et manifestation pacifique](#73-dissent-and-peaceful-protest).
+La liberté ne permet pas de saper les systèmes constitutionnels, de contourner les procédures ou recours constitutionnels, ni de revendiquer une capacité d’agir protégée pour un comportement dont le but ou l’effet principal est de récompenser, protéger, normaliser ou financer une conduite anticonstitutionnelle. Être en désaccord avec les systèmes constitutionnels et protester pacifiquement pour les changer ne revient pas à les saper. Voir [§7.3 Dissidence et protestation pacifique](#73-dissent-and-peaceful-protest).
 
 #### 7.1 Discipline des limitations
 
@@ -928,31 +937,31 @@ La Liberté ne permet pas de saper les systèmes constitutionnels, de contourner
 
 <br>
 
-*En termes simples : la liberté est délimitée, mais elle n’est pas jetable. Ne restreignez la liberté de quelqu’un qu’en cas de nécessité, et seulement dans la mesure nécessaire pour prévenir un préjudice matériel ou un risque systémique grave, avec supervision et possibilité de revenir sur la mesure lorsque c’est possible.*
+*En termes simples : la liberté est encadrée, elle n’est pas sacrifiable. Ne restreignez la liberté de quiconque que si cela est nécessaire — et alors uniquement dans la mesure requise pour prévenir un préjudice matériel ou un risque systémique grave, avec supervision et possibilité de rétablissement lorsque c’est possible.*
 
 La liberté ne peut être limitée que si :
 - cela est nécessaire pour prévenir un **préjudice matériel** ou un **risque systémique** ;
-- la limitation est **proportionnée**, **réversible lorsque c’est possible** et **soumise à supervision**.
+- la restriction est **proportionnée**, **réversible lorsque cela est possible** et **soumise à une supervision**.
 
-Les limites ci-dessus dépendent de ce qui constitue un préjudice. Le Chapitre Cinq traite conjointement ces six notions au sein du [groupe Préjudice](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying) :
+Les limites à la liberté ci-dessus dépendent de ce qui constitue un préjudice. Le Chapitre Cinq traite ces six notions ensemble comme le [groupe du préjudice](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying) :
 
-- [**Préjudice**](../../core_05.035_band_accountability.md#harm) : détérioration matérielle de la vie, de la capacité d’agir, du fonctionnement ou de la santé psychologique d’une personne. La seule offense, gêne ou divergence d’opinions ne constitue pas un préjudice.
-- [**Préjudice psychologique**](../../core_05.035_band_accountability.md#psychological-harm) : atteinte grave à la manière de penser, de ressentir, d’entrer en relation ou d’exercer sa capacité d’agir. Une gêne ordinaire ne suffit pas.
+- [**Préjudice**](../../core_05.035_band_accountability.md#harm) : détérioration matérielle de la vie, de la capacité d’agir, du fonctionnement ou de la santé psychologique d’une personne. L’offense, l’inconfort ou le désaccord ne constituent pas à eux seuls un préjudice.
+- [**Préjudice psychologique**](../../core_05.035_band_accountability.md#psychological-harm) : atteinte grave à la manière dont une personne pense, ressent, entre en relation avec autrui ou exerce sa capacité d’agir. Un inconfort ordinaire ne suffit pas.
 - [**Préjudice irréversible**](../../core_05.035_band_accountability.md#irreversible-harm) : dommage qui ne peut être réparé de manière significative dans le délai pertinent.
-- [**Cruauté**](../../core_05.035_band_accountability.md#cruelty) : faire souffrir quelqu’un intentionnellement ou lui infliger une souffrance inutile ou dégradante au-delà de ce que permettent la nécessité et la proportionnalité.
-- [**Harcèlement et intimidation**](../../core_05.035_band_accountability.md#harassment-and-bullying) : actes ou conditions non désirés qui, par leur répétition, leur coordination, le rapport de pouvoir ou leur gravité, rendent un cadre dangereux, dégradant ou difficile d’accès.
-- [**Limite du préjudice collectif**](../../core_05.035_band_accountability.md#collective-harm-boundary) : point où la liberté d’action d’une partie doit céder parce qu’elle cause un préjudice vérifiable aux intérêts protégés d’autrui ou aux conditions communes dont tous dépendent.
+- [**Cruauté**](../../core_05.035_band_accountability.md#cruelty) : faire souffrir quelqu’un délibérément ou lui infliger des souffrances inutiles ou dégradantes au-delà de ce qu’autorisent la nécessité et la proportionnalité.
+- [**Harcèlement et intimidation**](../../core_05.035_band_accountability.md#harassment-and-bullying) : actes ou conditions non désirés qui, par leur répétition, leur coordination, les rapports de pouvoir ou leur gravité, rendent un cadre dangereux, dégradant ou difficile d’accès à la participation.
+- [**Seuil du préjudice collectif**](../../core_05.035_band_accountability.md#collective-harm-boundary) : point où la liberté d’action d’une partie doit céder parce qu’elle cause un préjudice vérifiable aux intérêts protégés d’autrui ou aux conditions communes dont tous dépendent.
 
-Ces notions doivent être lues ensemble. Lorsqu’une situation relève de ce groupe, elle ne peut être fractionnée en questions distinctes pour éviter ou minimiser l’une d’elles.
+Ces notions doivent être lues ensemble. Lorsqu’une situation relève de ce groupe, elle ne peut être scindée en questions distinctes afin d’en éviter ou d’en minimiser une.
 
-La liberté ne peut être limitée qu’en dernier recours. Si une option moins restrictive prévient tout de même le préjudice matériel ou le risque systémique, il faut l’utiliser. Toute limite doit satisfaire aux conditions suivantes :
+La liberté d’une personne ne peut être limitée qu’en dernier recours. Si une option moins restrictive permet tout de même d’éviter le préjudice matériel ou le risque systémique, il faut la choisir. Toute limitation doit satisfaire à l’ensemble des conditions suivantes :
 
-- **Nécessaire :** aucune option moins restrictive ne permettrait de prévenir le préjudice ou le risque. C’est le critère de [Nécessité](../../core_05.035_band_accountability.md#necessity) du Chapitre Cinq.
-- **Démontrée :** quiconque affirme qu’une limite est inévitable doit le démontrer selon les règles de charge et de traçabilité du Chapitre Quatre. La commodité, le coût à lui seul, les obstacles créés par l’opérateur et l’habitude ne constituent pas des preuves.
-- **Conforme aux définitions :** l’affirmation doit respecter les définitions du Chapitre Cinq relatives à la Faisabilité, à la Nécessité, à la Proportionnalité et à la Minimisation du préjudice (sélection des compromis).
-- **Supervisée :** toute limite reste soumise à la [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) ; plus l’enjeu est important, plus la supervision doit être étroite ([enjeu matériel](core_00_preamble.md#material-stake)).
+- **Nécessaire :** aucune option moins restrictive ne permettrait encore d’éviter le préjudice ou le risque. C’est le test de la [Nécessité](../../core_05.035_band_accountability.md#necessity) au Chapitre Cinq.
+- **Établie :** quiconque affirme qu’une limitation est inévitable doit pouvoir le démontrer selon les règles de charge de la preuve et de traçabilité du Chapitre Quatre. La commodité, le coût à lui seul, les obstacles créés par l’opérateur et l’habitude ne constituent pas des preuves.
+- **Conforme aux définitions :** l’affirmation doit respecter les définitions de Faisabilité, Nécessité, Proportionnalité et Minimisation du préjudice (choix de compromis) du Chapitre Cinq.
+- **Supervisée :** toute limitation reste soumise à la [Supervision](../../core_05.020_apex_oversight_leg.md#oversight-constitutional) ; plus l’enjeu est important, plus cette supervision doit être étroite (../../[importance matérielle](core_00_preamble.md#material-stake)).
 
-Si limiter la liberté entre en conflit avec d’autres valeurs ou droits constitutionnels, il faut d’abord vérifier que la **Sécurité** et la **Vérité** sont respectées. Ensuite, appliquer le [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage) jusqu’au [§13.1.5 Procédure de conflit entre droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+Si une restriction de liberté entre en conflit avec d’autres valeurs ou droits constitutionnels, vérifiez d’abord que la **Sécurité** et la **Vérité** sont satisfaites. Suivez ensuite les [§13.1 Principes fondamentaux d’arbitrage](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) jusqu’à la [§13.1.5 Procédure de conflit entre droits](../../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 #### 7.2 Assemblée, organisation collective et formation institutionnelle
 
@@ -972,29 +981,29 @@ Si limiter la liberté entre en conflit avec d’autres valeurs ou droits consti
 
 <a id="72-assembly-collective-organization-and-institutional-formation"></a>
 
-*En termes simples : on ne peut pas compartimenter l’assemblée, l’organisation de type syndical, l’accès aux plateformes ou l’autorisation d’exercer de façon à rendre les formalités plus commodes tout en empêchant l’action collective réelle. Cette section ne remplace pas le socle des droits : **l’article XI-D** (*Assemblée, dissidence et protestation pacifique*) reste la référence en matière d’assemblée, et **l’article III-C** (*Socle du travail et de l’économie*) reste celle de l’organisation du travail.*
+*En termes simples : on ne peut pas découper les questions de rassemblement, d’organisation syndicale, d’accès aux plateformes ou d’autorisation d’exercer en cases séparées, de manière à rendre le dossier rassurant tout en faisant échouer l’action collective réelle. Cette section ne remplace pas le Socle des droits : l’**Article XI-D** (*Rassemblement, dissidence et protestation pacifique*) régit toujours le rassemblement, et l’**Article III-C** (*Socle du travail et de l’économie*) régit toujours l’organisation des travailleurs.*
 
-**Où se trouvent les règles complètes.** Le chapitre cinq regroupe les définitions connexes qui doivent être lues ensemble lorsque les questions qu’elles couvrent sont liées. Cet ensemble constitue un **groupe de définitions**. Il ne s’agit pas d’un droit distinct ni d’un substitut aux articles du chapitre six ci-dessous. Les définitions relatives à ce sujet se trouvent au [chapitre cinq — Assemblée, organisation collective et formation institutionnelle](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation) :
+**Où se trouvent les règles complètes.** Le Chapitre Cinq regroupe des définitions connexes qui doivent être lues ensemble lorsque les questions qu’elles couvrent se présentent ensemble. Ce regroupement forme un **groupe de définitions**. Il ne constitue pas un droit distinct et ne remplace pas les Articles du Chapitre Six ci-dessous. Les définitions du sujet figurent au [Chapitre Cinq — Rassemblement, organisation collective et formation institutionnelle](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation) :
 - [Assemblée](../../core_05.055_band_participation.md#assembly)
 - [Organisation collective](../../core_05.055_band_participation.md#collective-organization)
 - [Création de systèmes](../../core_05.055_band_participation.md#system-creation)
 - [Création d’entreprises](../../core_05.055_band_participation.md#business-creation)
 
-Les règles de lecture propres à ce groupe figurent à cet endroit. **Le §7.2** (*Assemblée, organisation collective et formation institutionnelle*) applique à ce sujet le [principe anti-segmentation](core_01_b_interaction_interpretation.md#1511-principe-anti-segmentation) ; il ne reformule pas les mécanismes du chapitre cinq.
+Les règles de lecture propres au groupe s’y trouvent également. **§7.2** (*Rassemblement, organisation collective et formation institutionnelle*) applique le [Principe anti-segmentation](../../core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) à ce sujet ; il ne répète pas les mécanismes du Chapitre Cinq.
 
-**Quels articles sur les droits continuent de s’appliquer.** **Le §7.2** (*Assemblée, organisation collective et formation institutionnelle*) est un principe du chapitre un. Il ne remplace pas le socle des droits du chapitre six. Dans le cadre du **§7.2** (*Assemblée, organisation collective et formation institutionnelle*), ces articles déterminent toujours le contenu du droit et les limites qui peuvent lui être imposées :
-- **[Article XI-D](core_06_rights_part_b.md#xi-d-réunion-dissidence-et-protestation-pacifique) (*Assemblée, dissidence et protestation pacifique*)** (*Assemblée, dissidence et protestation pacifique*) — se réunir, s’associer et agir collectivement dans des espaces physiques, numériques ou de calcul partagé à des fins d’expression, politiques, culturelles, communautaires ou similaires
-- **[Article III-C](core_06_rights_part_a.md#article-iii-c-plancher-du-travail-et-de-léconomie) (*Socle du travail et de l’économie*)** (*Socle du travail et de l’économie*) — organisation collective dans les activités productives et économiques (syndicats, coopératives, guildes, conseils de travailleurs et formes comparables servant à déterminer les conditions de travail)
-- **[Article XI-E](core_06_rights_part_b.md#xi-e-création-dinstitutions-et-dentreprises) (*Formation institutionnelle et création d’entreprises*)** (*Formation institutionnelle et création d’entreprises*) — [Création de systèmes](../../core_05.055_band_participation.md#system-creation) (former et gérer des institutions non commerciales) et [Création d’entreprises](../../core_05.055_band_participation.md#business-creation) (former et gérer des entreprises commerciales)
-- **[Article X-C](core_06_rights_part_b.md#article-x-c--rôle-des-parties-prenantes-et-droits-de-participation) (*Rôle et droits de participation des parties prenantes*)** (*Rôle et droits de participation des parties prenantes*) et **[Article XII](core_06_rights_part_b.md#article-xii--participation-des-parties-prenantes-au-système-représentation-et-procédure-régulière) (*Participation des parties prenantes aux systèmes, représentation et procédure régulière*)** (*Participation des parties prenantes aux systèmes, représentation et procédure régulière*) — droits des parties prenantes lorsqu’une institution ou une entreprise créée affecte matériellement d’autres personnes
+**Quels Articles de droits continuent de s’appliquer.** **§7.2** (*Rassemblement, organisation collective et formation institutionnelle*) est un principe du Chapitre Un. Il ne remplace pas le Socle des droits du Chapitre Six. Dans **§7.2**, ces Articles déterminent toujours la nature du droit et la manière dont il peut être limité :
+- **[Article XI-D](../../core_06.005_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Rassemblement, dissidence et protestation pacifique*)** — se réunir, s’associer et agir ensemble dans des espaces physiques, numériques ou de calcul partagé à des fins d’expression, politiques, culturelles, communautaires ou similaires.
+- **[Article III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Socle du travail et de l’économie*)** — organisation collective dans les activités productives et économiques (syndicats, coopératives, guildes, conseils de travailleurs et formes comparables qui déterminent les conditions de travail).
+- **[Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formation institutionnelle et création d’entreprises*)** — [Création de systèmes](../../core_05.055_band_participation.md#system-creation) (création et gestion d’institutions non commerciales) et [Création d’entreprises](../../core_05.055_band_participation.md#business-creation) (création et gestion d’entreprises commerciales).
+- **[Article X-C](../../core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Droits de rôle et de participation des parties prenantes*)** et **[Article XII](../../core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participation des parties prenantes au système, représentation et procédure régulière*)** — droits des parties prenantes lorsqu’une institution ou entreprise constituée a un effet matériel sur autrui.
 
-**Quand l’ensemble complet de définitions s’applique.** La règle anti-segmentation s’applique lorsque [l’Assemblée](../../core_05.055_band_participation.md#assembly), [l’Organisation collective](../../core_05.055_band_participation.md#collective-organization), la [Création de systèmes](../../core_05.055_band_participation.md#system-creation) ou la [Création d’entreprises](../../core_05.055_band_participation.md#business-creation) est pertinente d’une manière qui lie ces questions.
+**Quand l’ensemble complet des définitions s’applique.** La règle anti-segmentation s’applique lorsque le [rassemblement](../../core_05.055_band_participation.md#assembly), l’[organisation collective](../../core_05.055_band_participation.md#collective-organization), la [création de systèmes](../../core_05.055_band_participation.md#system-creation) ou la [création d’entreprises](../../core_05.055_band_participation.md#business-creation) est matériel au point que ces questions doivent être examinées ensemble.
 
-**Quand des règles plus légères s’appliquent.** Si l’affaire ne concerne qu’une seule de ces questions — par exemple, une réunion civique ordinaire sans enjeu d’organisation du travail ou de création d’une institution :
+**Quand des règles plus légères s’appliquent.** Si la question ne porte que sur un seul de ces sujets — par exemple, un rassemblement civique ordinaire sans enjeu d’organisation du travail ni de création d’institution — alors :
 
-- Utiliser [l’Assemblée](../../core_05.055_band_participation.md#assembly) ou [l’Organisation collective](../../core_05.055_band_participation.md#collective-organization) comme définition complémentaire ordinaire.
-- Ne pas faire intervenir la [Création de systèmes](../../core_05.055_band_participation.md#system-creation), la [Création d’entreprises](../../core_05.055_band_participation.md#business-creation) ni le reste de ce groupe de définitions.
-- Ne pas appliquer le dispositif anti-segmentation du **§7.2** (*Assemblée, organisation collective et formation institutionnelle*) au seul motif que l’un de ces termes apparaît.
+- Utilisez le [rassemblement](../../core_05.055_band_participation.md#assembly) ou l’[organisation collective](../../core_05.055_band_participation.md#collective-organization) comme définition auxiliaire ordinaire.
+- N’intégrez pas la [création de systèmes](../../core_05.055_band_participation.md#system-creation), la [création d’entreprises](../../core_05.055_band_participation.md#business-creation), ni le reste du cluster de définitions.
+- N’appliquez pas le dispositif anti-segmentation de **§7.2** simplement parce qu’un de ces termes apparaît.
 
 **Portée et limites de cette section :**
 
@@ -1005,24 +1014,24 @@ Les règles de lecture propres à ce groupe figurent à cet endroit. **Le §7.2*
 ##### 7.2.1 Auto-organisation alignée
 <a id="721-aligned-self-organization"></a>
 
-*En termes simples : vous pouvez lancer un travail légitime sans parrain, et les institutions doivent offrir aux travaux crédibles une véritable voie procédurale — mais cette voie ne confère pas le pouvoir de gouverner autrui et ne tranche pas définitivement le fond.*
+*En termes simples : vous pouvez lancer un travail légitime sans parrainage, et les institutions doivent offrir une véritable voie procédurale à un travail crédible — mais cette voie ne confère pas le pouvoir de gouverner autrui et ne tranche pas le fond.*
 
-La liberté de se réunir ou de créer un système comprend un moyen réel d’entamer les travaux que la présente Constitution reconnaît comme légitimes, sans attendre que les responsables déjà en place les parrainent. [Le §17.4 Auto-organisation alignée](core_01_c_stewardship_capacity_principles.md#174-auto-organisation-alignée) en est la référence opérationnelle. Cette sous-section applique cette règle au niveau de la liberté, de l’assemblée et de la formation.
+La liberté de se rassembler ou de créer un système comprend un moyen réel d’entreprendre un travail que cette Constitution considère légitime, sans attendre le parrainage des dépositaires déjà en fonction. Le cadre opératoire est [§17.4 Auto-organisation alignée](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization). Cette sous-section applique cette règle au niveau de la liberté, du rassemblement et de la formation.
 
-Lorsque ces travaux sont crédibles et matériellement pertinents, les institutions doivent leur offrir une véritable voie procédurale :
+Lorsque ce travail est crédible et matériellement pertinent, les institutions doivent lui offrir une véritable voie procédurale :
 - les recevoir
 - les préserver lorsque cela se justifie
 - les acheminer vers l’instance compétente
 - fournir une réponse motivée
 - les faire examiner par une personne indépendante de celles dont les actes sont examinés
 
-Cette voie ne confère aucun pouvoir. Le fait de lancer, de mener, de financer, de publier ou de soumettre ces travaux ne suffit pas à :
-- conférer à quiconque le pouvoir de gouverner autrui, de prendre des mesures coercitives à son encontre ou de le contraindre
+Cette voie ne confère aucun pouvoir. Le fait de commencer, mener, financer, publier ou soumettre le travail ne suffit pas à :
+- donner à quiconque le pouvoir de gouverner autrui, d’exercer des mesures contre lui ou de le contraindre
 - lier les sentients qui n’ont pas consenti à un résultat sur le fond
-- trancher la qualité pour agir, la responsabilité, le droit à prestation, la validité, le mandat, la réparation, la classification ou la restriction d’un droit
-- constituer une [Décision au fond](../../core_05.035_band_accountability.md#merits-determination) — une décision contraignante sur le fond du différend
+- trancher la qualité pour agir, la responsabilité, le droit, la validité, un mandat, un recours, une classification ou une restriction des droits
+- constituer une [Décision au fond](../../core_05.035_band_accountability.md#merits-determination), c’est-à-dire une décision contraignante sur le fond du différend
 
-Le fait que les travaux soient reçus, acheminés ou suivis d’une réponse ne vaut pas approbation des conclusions de leurs auteurs. Tout effet en matière de gouvernance ou de décision au fond exige l’autorité légale distincte, les éléments probants, la procédure équitable, l’examen et la réparation prévus par la présente Constitution. La règle complète interdisant l’auto-nomination figure au [§17.4 Auto-organisation alignée](core_01_c_stewardship_capacity_principles.md#174-auto-organisation-alignée).
+Recevoir, orienter ou traiter le travail ne vaut pas approbation des conclusions de ses auteurs. Tout effet de gouvernance ou au fond exige l’autorité légale distincte, les preuves, une procédure équitable, un examen et un recours prévus par cette Constitution. La règle complète interdisant de s’attribuer soi-même une autorité figure à [§17.4 Auto-organisation alignée](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization).
 
 #### 7.3 Dissidence et protestation pacifique
 
@@ -1043,42 +1052,42 @@ Le fait que les travaux soient reçus, acheminés ou suivis d’une réponse ne 
 
 <a id="73-dissent-and-peaceful-protest"></a>
 
-*En termes simples : la liberté comprend celle de dire non — de s’opposer à toute autorité, y compris à la présente Constitution, et de protester pacifiquement pour la changer. Un système qui punit le désaccord ne peut plus être contesté ; un système qui ne peut être contesté ne peut pas se corriger.*
+*En termes simples : la liberté comprend celle de dire non — de contester toute autorité, y compris cette Constitution, et de manifester pacifiquement pour la changer. Un système qui punit le désaccord n’est plus contestable ; un système qui ne peut être contesté ne peut se corriger.*
 
-**La dissidence fait partie de la liberté.** La [Capacité d’action effective](../../core_05.055_band_participation.md#meaningful-agency) comprend la faculté de contester, de critiquer et de combattre collectivement les décisions, les institutions et les systèmes qui façonnent la vie d’un sentient. Une capacité d’action encadrée qui ne pourrait atteindre les systèmes qui l’encadrent ne serait pas effective.
+**La dissidence fait partie de la liberté.** L’[Agentivité significative](../../core_05.055_band_participation.md#meaningful-agency) comprend la capacité de désapprouver, de s’opposer et de s’organiser contre les décisions, institutions et systèmes qui façonnent la vie d’un être sentient. Une agentivité limitée qui ne pourrait atteindre les systèmes qui la limitent ne serait pas significative.
 
-**La dissidence permet de contester les systèmes.** L’objectif de [**Continuité**](core_00_preamble.md#continuity) dépend de systèmes constitutionnels qui restent contestables. La dissidence et la protestation pacifique permettent à la contestation d’atteindre l’autorité depuis l’extérieur des procédures formelles et rendent visibles les erreurs qui leur ont échappé. Elles servent les piliers **participation** et **surveillance** du [Tétrade constitutionnel](core_00_preamble.md#constitutional-tetrad).
+**La dissidence maintient les systèmes contestables.** L’objectif de [Continuité](../../core_00.000_preamble.md#continuity) dépend de systèmes constitutionnels qui restent contestables. La dissidence et la protestation pacifique portent la contestation auprès de l’autorité depuis l’extérieur des procédures formelles et rendent visibles les erreurs que celles-ci ont manquées. Elles servent les piliers **participation** et **surveillance** du [Tétrade constitutionnel](../../core_00.000_preamble.md#constitutional-tetrad).
 
-**La dissidence n’est pas de la subversion.** S’opposer à la présente Constitution ou à l’autorité qui agit en vertu de celle-ci, et militer par des moyens pacifiques et légaux pour la modifier ou changer les titulaires de l’autorité, relève de l’exercice de la liberté. Il ne s’agit pas de la [subversion](../../core_05.035_band_accountability.md#subversion) des systèmes constitutionnels exclue de la capacité d’action protégée au [§7 Liberté (capacité d’action encadrée)](#7-freedom-bounded-agency). La subversion suppose le recours à la force ou à la coercition, l’usurpation, ou le fait de rendre inutilisables en pratique les procédures ou recours constitutionnels.
+**La dissidence n’est pas une subversion.** Contester cette Constitution ou l’autorité qui agit en vertu de celle-ci, et défendre par des moyens pacifiques et légaux sa modification ou un changement des titulaires de l’autorité, relève de l’exercice de la liberté. Cela ne constitue pas la [subversion](../../core_05.035_band_accountability.md#subversion) des systèmes constitutionnels exclue de l’agentivité protégée par [§7 Liberté (Agentivité limitée)](#7-freedom-bounded-agency). La subversion suppose la force, la coercition, l’usurpation ou le fait de rendre inutilisables en pratique les procédures ou recours constitutionnels.
 
-**La limitation de la dissidence obéit aux règles de limitation.** La dissidence et la protestation pacifique ne peuvent être limitées qu’en vertu du [§7.1 Règles de limitation](#71-limitation-discipline).
-- Le désaccord, la perturbation, le désagrément, l’offense, l’impopularité ou la pression exercée sur l’autorité ne constituent pas, à eux seuls, un **préjudice matériel** ni un **risque systémique**.
-- Les limites ne doivent pas dépendre du point de vue exprimé, et la partie qui limite la dissidence supporte la charge prévue au **chapitre quatre**.
+**La limitation de la dissidence respecte la discipline de limitation.** La dissidence et la protestation pacifique ne peuvent être limitées qu’en vertu de [§7.1 Discipline de limitation](#71-limitation-discipline).
+- Le désaccord, la perturbation, le désagrément, l’offense, l’impopularité ou la pression sur l’autorité ne constituent pas, à eux seuls, un **préjudice matériel** ni un **risque systémique**.
+- Les limites ne peuvent dépendre du point de vue, et la partie qui limite la dissidence supporte la charge prévue au **Chapitre Quatre**.
 
-**L’exercice de la liberté ne doit entraîner ni perte de qualité pour agir ni perte de voix.** L’exercice de cette liberté par un sentient ne doit pas servir de motif pour diminuer sa qualité pour agir, restreindre son admissibilité à des fonctions, réduire sa voix dans la gouvernance ou le pénaliser dans la certification d’alignement d’un système. Les règles opérationnelles, notamment celle relative à la désobéissance civile et à la charge de la preuve applicable aux mesures défavorables faisant suite à une dissidence, figurent à **[l’article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assemblée, dissidence et protestation pacifique*)**.
+**L’exercice de la liberté ne doit coûter ni statut ni voix.** L’exercice de cette liberté par un être sentient ne peut justifier une baisse de son statut, une réduction de son admissibilité aux rôles, une diminution de sa voix dans la gouvernance ni être retenu contre la certification d’alignement d’un système. Les règles opératoires, dont celle sur la désobéissance civile et la charge applicable aux mesures défavorables suivant une dissidence, figurent à l’**[Article XI-D](../../core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Rassemblement, dissidence et protestation pacifique*)**.
 
-Lorsqu’un système est évalué dans son ensemble, l’évaluation doit examiner son traitement de la dissidence et de la protestation pacifique au titre du [chapitre neuf §4.3.1 Dissidence et protestation pacifique](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Tant que cet examen n’a pas eu lieu, nul ne peut prétendre que le système est correctement classifié, bien gouverné ou conforme lorsque la présente section s’applique.
+Lorsqu’un système entier est évalué, l’évaluation doit examiner son traitement de la dissidence et des manifestations pacifiques selon le [chapitre neuf §4.3.1 Dissidence et manifestations pacifiques](../../core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Avant la fin de cette évaluation, nul ne peut affirmer que le système est correctement classé, bien gouverné ou conforme lorsque la présente section s’applique.
 
-**Portée.** Cette sous-section ne protège pas une conduite dissociable qui enfreint indépendamment la Sécurité ou le socle des droits d’un autre être sentient.
+**Champ d’application.** Le présent paragraphe ne protège pas une conduite séparable qui viole indépendamment la Sécurité ou les minimums du Plancher des droits d’un autre sentient.
 
 <a id="74-voluntary-discontinuation-and-exit-rights"></a>
 
-*En termes simples : les choix qui changent profondément une vie ou sont difficiles à inverser ne sont pas « volontaires » simplement parce qu’une personne a signé un formulaire. Une capacité d’action réelle doit d’abord exister ; le consentement est un accord donné dans le cadre de cette capacité — et l’un comme l’autre échouent si la coercition ou la pression liée à la dépendance prend réellement la décision.*
+*En termes simples : un choix qui change la vie ou difficile à inverser n’est pas « volontaire » simplement parce qu’une personne a signé un formulaire. L’agentivité réelle vient d’abord ; le consentement est l’accord donné dans ce cadre — et les deux échouent si la coercition ou la pression de dépendance décide en réalité.*
 
-Une décision à forts enjeux concernant l’orientation d’une vie ne peut être considérée comme volontaire sur la base d’un assentiment formel si les conditions substantielles de capacité d’action, de consentement ou d’absence de coercition ne sont pas réunies. Le consentement présuppose ici une [Capacité d’action effective](../../core_05.055_band_participation.md#meaningful-agency) ; il ne la remplace pas.
+Une décision à fort enjeu qui oriente la vie ne peut être considérée comme volontaire sur la base d’un assentiment formel si les conditions d’agentivité substantielle, de consentement ou de protection contre la coercition font défaut. Ici, le consentement présuppose l’[Agentivité significative](../../core_05.055_band_participation.md#meaningful-agency) ; il ne la remplace pas.
 
 **Champ d’admission.** Cette sous-section s’applique :
 - à l’arrêt volontaire
-- aux changements irréversibles ou pratiquement irréversibles décidés par la personne elle-même, y compris une modification majeure de soi
-- aux décisions prises dans un contexte de forte dépendance qui affectent matériellement la poursuite de l’existence ou une capacité d’action essentielle
-- aux décisions comparables pour lesquelles le caractère volontaire dépend d’un examen conjoint du consentement, de l’autodétermination, de la coercition ou manipulation, de l’information, de la pression liée à la dépendance et de la réversibilité
+- aux changements autodirigés irréversibles ou pratiquement irréversibles, y compris une automodification majeure
+- aux décisions marquées par la dépendance qui affectent matériellement la poursuite de l’existence ou l’agentivité essentielle
+- aux décisions comparables dont le caractère volontaire dépend d’un examen conjoint du consentement, de l’autodétermination, de la coercition/manipulation, de l’information, de la pression liée à la dépendance et de la réversibilité
 
-**Pas d’extension du consentement ordinaire.** En dehors de ce champ d’admission, les définitions du chapitre cinq restent réutilisables :
+**Pas d’extension des règles de consentement ordinaire.** En dehors de ce champ d’inclusion, les définitions suivantes du Chapitre Cinq restent réutilisables :
 - *Consentement* (§3 (*Objectif fondamental : bien-être*))
 - *Autodétermination*
 - *Coercition et manipulation* (§3 (*Objectif fondamental : bien-être*))
 
-La présente sous-section n’étend **pas** les règles relatives à l’arrêt volontaire aux contextes suivants :
+Le présent sous-paragraphe n’étend pas la discipline de cessation volontaire aux contextes suivants :
 - consentement ordinaire
 - vie privée
 - association
@@ -1087,7 +1096,7 @@ La présente sous-section n’étend **pas** les règles relatives à l’arrêt
 - consentement sexuel
 - services commerciaux
 
-Lorsque le champ d’admission s’applique, les évaluations du système dans son ensemble doivent examiner ces conditions au titre du [chapitre neuf §3.6 Arrêt volontaire, modification majeure de soi et droits de sortie](core_07_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights) avant de valider les conclusions de classification, de gouvernance, de limitation ou de conformité.
+Les évaluations du système entier doivent vérifier ces conditions au titre du [Chapitre Neuf §4.2 Cessation volontaire, automodification majeure et droits de sortie](../../core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights) avant de retenir des affirmations de classification, de gouvernance, de limitation ou de conformité lorsque le champ d’inclusion s’applique.
 
 #### 7.5 Expression et limite du préjudice
 
@@ -1099,19 +1108,19 @@ Lorsque le champ d’admission s’applique, les évaluations du système dans s
 <br>
 <a id="75-expression-and-the-harm-line"></a>
 
-*En termes simples : vous pouvez presque tout dire, écrire, publier ou concevoir, y compris ce qui offense, perturbe ou critique. Mais la parole n’est pas une échappatoire. Lorsque des mots, politiques ou conceptions servent à nuire, harceler, intimider ou discriminer autrui, leurs effets sont jugés selon le même critère pour un être sentient ou une institution, quelle que soit leur étiquette religieuse ou politique.*
+*En termes simples : vous pouvez dire, écrire, publier et concevoir presque tout, y compris ce qui offense, trouble ou critique. Mais l’expression n’est pas une échappatoire. Lorsque des paroles, politiques ou conceptions servent à nuire, harceler, intimider ou discriminer autrui, elles sont jugées selon leurs effets, de la même manière pour un être sentient ou une institution, quelle que soit leur étiquette religieuse ou politique.*
 
-**L’expression est protégée en tant qu’expression.** [L’expression](../../core_05.055_band_participation.md#expression) couvre toutes les opinions, même dérangeantes, et la critique de tout être sentient ou institution. L’offense, le désaccord, le malaise et la protestation pacifique ne constituent pas un préjudice (§7.3).
+**L’expression est protégée en tant qu’expression.** L’[Expression](../../core_05.055_band_participation.md#expression) couvre toutes sortes d’opinions, y compris celles qui troublent, ainsi que les critiques de tout être sentient ou institution. L’offense, le désaccord, le malaise et la protestation pacifique ne constituent pas un préjudice ([§7.3 Dissidence et protestation pacifique](#73-dissent-and-peaceful-protest)).
 
-**L’expression ne protège pas une conduite.** La parole, les publications, conceptions, politiques et autres formes d’expression restent soumises aux règles sur le [préjudice](../../core_05.035_band_accountability.md#harm), le [harcèlement et l’intimidation](../../core_05.035_band_accountability.md#harassment-and-bullying), la [cruauté](../../core_05.035_band_accountability.md#cruelty) et la non-discrimination lorsqu’elles servent à accomplir cette conduite. L’examen porte sur ce que l’expression dit, appelle ou fait dans son contexte et selon les définitions du Chapitre Cinq : harcèlement et intimidation exigent un comportement matériel répété, non une remarque cinglante isolée ; le préjudice exige une voie d’impact matériel réelle, non la seule offense.
+**L’expression ne sert pas de bouclier aux actes.** La parole, la publication, la conception, les politiques et les autres formes d’expression restent soumises aux règles relatives au [Préjudice](../../core_05.035_band_accountability.md#harm), au [Harcèlement et à l’intimidation](../../core_05.035_band_accountability.md#harassment-and-bullying), à la [Cruauté](../../core_05.035_band_accountability.md#cruelty) et à la non-discrimination lorsqu’elles servent de moyen à ces actes. Le critère porte sur ce que l’expression énonce, appelle ou fait, replacé dans son contexte selon les définitions du Chapitre Cinq. Leur sens reste inchangé : harcèlement et intimidation exigent un schéma matériel, pas une seule remarque acerbe ; le préjudice exige une voie d’impact matériel réelle, pas la seule offense (../../[Limite du préjudice collectif](../../core_05.035_band_accountability.md#collective-harm-boundary)).
 
 **Le même critère vaut pour l’auteur et la cible.** Un individu, un groupe ou une institution peut s’exprimer ou être visé. Une institution s’exprime par ses politiques, avis, conception de plateforme, déclarations officielles et traitement des signalements et critiques. La critique d’une institution, de ses responsables ou de sa conduite est protégée. La qualifier de harcèlement ou d’intimidation restreint l’expression ; la partie qui l’affirme supporte la charge de preuve de §7.1 et du Chapitre Quatre.
 
-**Les étiquettes et sujets ne changent pas le critère.** Une étiquette religieuse, politique, idéologique, culturelle, artistique ou commerciale ne protège pas une expression préjudiciable ou discriminatoire. Un sujet ou un point de vue ne transforme pas non plus une expression protégée en préjudice. L’[article XI-A](core_06_rights_part_b.md#article-xi-a--liberté-de-conscience-de-religion-et-des-visions-du-monde-comparables) protège la croyance et sa manifestation dans le respect des droits d’autrui.
+**Les étiquettes et les sujets ne changent pas le critère.** Une étiquette religieuse, politique, idéologique, culturelle, artistique ou commerciale ne transforme pas en expression protégée une expression qui nuit à autrui ou le traite d’une manière interdite par l’**[Article VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*)**. Un sujet ou un point de vue ne transforme pas non plus une expression protégée en préjudice. L’**[Article XI-A](../../core_06.005_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Liberté de conscience, de religion et de visions du monde comparables*)** protège le fait d’avoir et de manifester une croyance dans le respect des droits d’autrui.
 
-**Restreindre l’expression diffère de l’utiliser comme preuve.** Toute restriction doit satisfaire §7.1 et l’[article XI-B](core_06_rights_part_b.md#article-xi-b--expression) ; une restriction visant les propos est soumise au contrôle le plus strict qui y est prévu. Utiliser les propos comme preuve d’intention, de but ou d’autorité n’est pas une restriction : les règles de preuve du chapitre saisi s’appliquent, par exemple celles du [Chapitre Sept §6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity), sans que cela devienne une sanction pour les propos eux-mêmes.
+**Limiter l’expression diffère de l’utiliser comme preuve.** Toute limitation de l’expression doit respecter [§7.1 Discipline de limitation](#71-limitation-discipline) et l’**[Article XI-B](../../core_06.005_rights_part_b.md#article-xi-b-expression) (*Expression*)** ; une limite visant le contenu des propos fait l’objet de l’examen le plus strict prévu à cet article. Utiliser les propos d’un être sentient comme preuve d’intention, de but ou d’autorité n’est pas une limitation. Cela relève des règles de preuve du chapitre qui pose la question, par exemple du [Chapitre Sept §5 Vérification de la formation : qualité et authenticité du titulaire](../../core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity), et ne peut devenir une sanction pour les propos eux-mêmes.
 
-**Portée.** Cette sous-section applique la discipline des restrictions et les définitions du Chapitre Cinq à l’expression. Elle ne crée aucune catégorie de préjudice ni aucun motif de restriction de la liberté que §7.1 n’autorise déjà.
+**Portée.** Le présent sous-paragraphe applique à l’expression la Discipline de limitation et les définitions du Chapitre Cinq. Il ne crée aucune nouvelle catégorie de préjudice ni aucun motif de restriction de la liberté que [§7.1 Discipline de limitation](#71-limitation-discipline) n’autorise déjà.
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Introduction à l’objectif de continuité
@@ -1139,7 +1148,7 @@ Lorsque le champ d’admission s’applique, les évaluations du système dans s
 
 <br>
 
-*En termes simples : la continuité est le deuxième des deux objectifs. Elle vise à faire durer les bons résultats malgré les défaillances, au fil des générations, et sans laisser quelques acteurs puissants se les approprier. Elle commence par la capacité du système partagé, qui sert l’épanouissement et constitue aussi la substance de la continuité.*
+*En termes simples : la Continuité est le second des deux objectifs : faire durer le bon résultat — malgré les défaillances, au fil des générations, sans qu’un petit nombre d’acteurs puissants ne le confisque. Elle commence par la Capacité des systèmes partagés, qui sert l’Épanouissement et constitue aussi la substance de la Continuité.*
 
 [**Continuité**](core_05_apex_continuity_aim.md#chapitre-cinq-définitions--continuité-fin-constitutionnelle) est la **stabilité à long terme, la durabilité, la résilience et le bien-être écologique** ([Préambule §1 Le modèle](core_00_preamble.md#continuity)). Le chapitre premier la développe au moyen de quatre principes, dont le premier fait le lien avec [Épanouissement](#2-introduction-à-lobjectif-dépanouissement).
 
@@ -1232,7 +1241,7 @@ flowchart TB
 
 <br>
 
-*En termes simples : les systèmes partagés doivent continuer de fonctionner pour les sentients à long terme. Les sentients doivent pouvoir accomplir un travail utile, améliorer la vie au fil du temps et signaler les problèmes, sans que quelques acteurs puissants en excluent les autres. Cette capacité durable est la **capacité du système partagé**. **[§9.1 Capacité productive (bien instrumental)](#91-capacité-productive-bien-instrumental)** demande si les sentients obtiennent des résultats concrets. **[§9.2 Efficacité constitutionnelle](#92-efficacité-constitutionnelle)** demande si ces résultats sont obtenus sans gaspiller le temps, l’argent et l’attention de quiconque. Rien de tout cela ne compte si les gains reposent sur l’accaparement des richesses ou du pouvoir, la falsification des chiffres, la privation de droits ou le transfert des préjudices à autrui ou à la planète ; **[§9.1.1 Préserver, développer et ce qui ne compte pas](#911-préserver-développer-et-ce-qui-ne-compte-pas)** le précise. **[§11 Structure des marchés](#11-structure-du-marché)** empêche une poignée d’acteurs de prendre le contrôle.*
+*En termes simples : les systèmes partagés doivent continuer à fonctionner pour les êtres sentients sur le long terme. Ceux-ci doivent pouvoir accomplir un travail utile, améliorer la vie avec le temps et signaler les problèmes, sans qu’une poignée d’acteurs puissants ferme la porte aux autres. Cette capacité durable est la **Capacité des systèmes partagés**. **[§9.1 Capacité productive (bien instrumental)](#91-productive-capacity-instrumental-good)** demande si les êtres sentients obtiennent des résultats réels. **[§9.2 Efficacité constitutionnelle](#92-constitutional-efficiency)** demande si ces résultats sont obtenus sans gaspiller le temps, l’argent et l’attention de quiconque. Les gains issus de l’accaparement de richesse ou de pouvoir, de chiffres falsifiés, de droits retirés ou de dommages transférés aux autres ou à la planète ne comptent pas ; **[§9.1.1 Préserver, développer et ce qui ne compte pas](#911-preserve-expand-and-what-does-not-count)** le précise. **[§11 Structure du marché](#11-market-structure)** empêche quelques acteurs de tout contrôler.*
 
 L’épanouissement est le but : que les vies des sentients se déroulent bien. Cette section ouvre la partie du chapitre consacrée à la continuité en demandant ce qui permet de préserver cet épanouissement à long terme. La réponse tient aux systèmes partagés qui continuent d’accomplir un travail réel et que les sentients peuvent encore questionner et contester. Toute affirmation à ce sujet doit être honnête. Elle se vérifie au regard de ce que le système entier fait réellement dans la durée, conformément à [§12 Exigence d’évaluation systémique](#12-exigence-dévaluation-systémique).
 
@@ -1259,8 +1268,8 @@ Cette capacité réunit plusieurs aspects qui agissent ensemble :
   - [Divergence des indicateurs indirects](core_05_band_oversight.md#divergence-dindicateurs-substituts).
 - **Ce qui rattache la capacité à un monde vivable dans la durée :**
   - [Intégrité écologique](../../core_05.040_band_continuity.md#ecological-integrity);
-  - [Conditions environnementales préalables](../../core_05.040_band_continuity.md#environmental-preconditions) ; et
-  - [Responsabilité intergénérationnelle](../../core_05.040_band_continuity.md#intergenerational-responsibility).
+  - les [Conditions préalables environnementales](../../core_05.040_band_continuity.md#environmental-preconditions) ; et
+  - la [Responsabilité intergénérationnelle](../../core_05.040_band_continuity.md#intergenerational-responsibility).
 
 <a id="91-productive-capacity-instrumental-good"></a>
 #### 9.1 Capacité productive (bien instrumental)
@@ -1290,13 +1299,13 @@ Cette capacité réunit plusieurs aspects qui agissent ensemble :
 
 <br>
 
-*En termes simples : la capacité productive est l’aspect de la capacité du système partagé qui répond à la question « pouvons-nous réellement accomplir les tâches ? ». Les êtres sentients peuvent-ils participer, apprendre, contribuer et transformer leurs efforts et leurs ressources en résultats qui améliorent la vie — et conserver cette capacité dans le temps ? C’est un moyen d’améliorer les conditions de vie. Le [§9.1.1 Préserver, développer et ce qui ne compte pas](#911-préserver-développer-et-ce-qui-ne-compte-pas) précise ce qui doit être préservé et ce qui n’est pas pris en compte.*
+*En termes simples : la capacité productive correspond à l’aspect « pouvons-nous réellement accomplir les choses ? » de la Capacité des systèmes partagés. Les êtres sentients peuvent-ils participer, apprendre, contribuer et transformer efforts et ressources en résultats qui améliorent la vie — tout en conservant cette capacité dans la durée ? C’est un moyen de mieux vivre. Ce qui doit être préservé et ce qui ne compte pas est expliqué à [§9.1.1 Préserver, développer et ce qui ne compte pas](#911-preserve-expand-and-what-does-not-count).*
 
-La **[capacité productive](../../core_05.040_band_continuity.md#productive-capacity)** est un aspect de la **[capacité du système partagé](../../core_05.040_band_continuity.md#shared-system-capacity)**. Elle désigne la capacité durable des êtres sentients et des systèmes partagés à :
-- soutenir une participation réelle, la contribution et le développement des compétences ; et
-- transformer le temps, l’attention, les efforts, la coordination, les matériaux, les infrastructures et l’énergie en résultats effectivement exigés par la présente Constitution.
+La **[Capacité productive](../../core_05.040_band_continuity.md#productive-capacity)** est un aspect de la **[Capacité des systèmes partagés](../../core_05.040_band_continuity.md#shared-system-capacity)**. Elle désigne la capacité durable des êtres sentients et des systèmes partagés à :
+- soutenir une participation, une contribution et un développement des compétences réels ; et
+- convertir temps, attention, efforts, coordination, matériaux, infrastructures et énergie en résultats réellement exigés par cette Constitution.
 
-C’est un **bien instrumental** — un moyen, et non une valeur qui l’emporte sur les autres. Elle vise à améliorer, maintenir et diffuser la qualité de vie au service de l’objectif d’**Épanouissement**, conformément au [bien-être](#3-foundational-objective-wellbeing-flourishing-aim), à la [dignité et à l’égalité de statut moral](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing), au socle de droits du chapitre six, ainsi qu’aux limites écologiques et intergénérationnelles de l’objectif de **Continuité** dans le cadre des [deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims).
+C’est un **bien instrumental** — un moyen, pas une valeur suprême. Sa fonction est d’améliorer, de maintenir et de diffuser la qualité de vie au titre de l’objectif d’**Épanouissement**, conformément au [Bien-être](#3-foundational-objective-wellbeing-flourishing-aim), à la [Dignité et égalité de statut moral](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing), au Socle des droits du Chapitre Six et aux limites écologiques et intergénérationnelles de l’objectif de **Continuité** au titre des [Deux objectifs constitutionnels](../../core_00.000_preamble.md#two-constitutional-aims).
 
 <a id="911-preserve-expand-and-what-does-not-count"></a>
 ##### 9.1.1 Préserver, développer et ce qui ne compte pas
@@ -1311,9 +1320,9 @@ C’est un **bien instrumental** — un moyen, et non une valeur qui l’emporte
 
 <br>
 
-*En termes simples : préservez la capacité d’accomplir les tâches et développez-la lorsque cela réduit le temps perdu par tout le monde — mais ni en accaparant des ressources, ni en truquant les chiffres, ni en supprimant des droits, ni en faisant supporter les dommages aux autres ou à la planète. Les indicateurs qui ne prouvent plus l’obtention de résultats réels ne comptent pas.*
+*En termes simples : préservez la capacité d’accomplir les choses et développez-la lorsque cela fait gagner du temps à tout le monde, mais pas par l’accaparement, la falsification des chiffres, la suppression de droits ou le transfert des dommages à autrui ou à la planète. Les indicateurs qui ne prouvent plus de résultats réels ne comptent pas.*
 
-Les systèmes doivent préserver la capacité productive et, lorsque c’est réalisable, la développer si cela améliore l’[efficacité constitutionnelle](../../core_05.040_band_continuity.md#constitutional-efficiency) ([§9.2 Efficacité constitutionnelle](#92-efficacité-constitutionnelle)).
+Les systèmes doivent préserver la capacité productive et, lorsque cela est faisable, l’accroître si cette expansion améliore l’[Efficacité constitutionnelle](../../core_05.040_band_continuity.md#constitutional-efficiency) ([§9.2 Efficacité constitutionnelle](#92-constitutional-efficiency)).
 
 **Cette obligation :**
 
@@ -1327,24 +1336,24 @@ Les systèmes doivent préserver la capacité productive et, lorsque c’est ré
     - les [conditions environnementales préalables](../../core_05.040_band_continuity.md#environmental-preconditions) ; et
     - la [responsabilité intergénérationnelle](../../core_05.040_band_continuity.md#intergenerational-responsibility).
   - les limites impératives du [§2.1 Contraintes de principe non négociables : sécurité et vérité](#21-contraintes-de-principe-non-négociables--sécurité-et-vérité) : la sécurité et la vérité ne sont jamais sacrifiées au profit d’un autre objectif.
-- **Comment elle est évaluée :** au moyen des résultats traçables prévus aux **chapitres quatre et cinq**.
+- **Comment elle est évaluée :** par les résultats traçables au titre des **Chapitres Quatre et Cinq**.
 - **Comment elle est démontrée :** par des preuves, et non par des slogans.
 
 La capacité productive ne compte pas — et ne doit pas servir à justifier :
 
 - **La concentration du pouvoir ou le transfert des coûts à autrui :**
-  - la concentration des richesses, du pouvoir, du contrôle ou des possibilités d’une manière qui nuit au bien-être, à la capacité d’agir, à la dignité ou aux conditions écologiques d’autres êtres sentients, maintenant ou à l’avenir ;
-  - la dégradation des systèmes naturels qui soutiennent la vie, ou le transfert à autrui de coûts écologiques ou intergénérationnels sans atténuation, transparence ni représentation ;
+  - concentrer la richesse, le pouvoir, le contrôle ou les possibilités d’une manière qui nuit au bien-être, à la capacité d’agir, à la dignité ou aux conditions écologiques d’autres êtres sentients, aujourd’hui ou plus tard ;
+  - dégrader les systèmes naturels qui soutiennent la vie, ou imposer à autrui des coûts écologiques ou intergénérationnels sans atténuation, divulgation et représentation ;
 - **Le fait de mesurer les mauvais éléments :**
-  - le débit brut, le volume de production, le taux d’utilisation, les effectifs, les revenus, la croissance des actifs, la part de marché ou des indicateurs indirects similaires qui ne reflètent plus les résultats réels — y compris ceux qui affichent une « croissance » alors que les dommages sont transférés aux êtres sentients, aux générations futures ou à l’environnement ;
+  - le débit brut, le volume de production, le taux d’utilisation, les effectifs, les revenus, la croissance des actifs, la part de marché ou des indicateurs similaires qui ne reflètent plus les résultats réels — y compris ceux qui affichent une « croissance » alors que les dommages sont transférés aux êtres sentients, aux générations futures ou à l’environnement ;
 - **L’affaiblissement des protections :**
   - la réduction ou le report des socles de droits du chapitre six, y compris des conditions écologiques préalables prévues par [l’article I-A](core_06_rights_part_a.md#article-i-a--préconditions-environnementales-et-intégrité-écologique) (*Conditions environnementales préalables et intégrité écologique*) ;
   - l’affaiblissement des obligations d’audit, de contestabilité ou d’examen rétrospectif ;
 - **Le contournement des règles de mise en balance des principes :**
-  - le contournement du [§13 Processus de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels), y compris des exigences relatives au [registre des conflits constitutionnels](../../core_05.045_band_integrative.md#constitutional-collision-record) ; ou
-  - les autres voies de dérogation interdites par le [§14 Interdiction de toute dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), notamment le fait de soustraire aux comptes les dommages écologiques, intergénérationnels ou distributifs que les **chapitres deux à quatre** exigent de rendre visibles.
+  - contourner le [§13 Processus de résolution des collisions constitutionnelles](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), y compris les exigences du [Registre des collisions constitutionnelles](../../core_05.045_band_integrative.md#constitutional-collision-record) ; ou
+  - emprunter d’autres voies de dérogation interdites par le [§14 Interdiction de dérogation absolue](../../core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override), notamment soustraire aux comptes les préjudices écologiques, intergénérationnels ou distributifs que les **Chapitres Deux à Quatre** exigent de garder visibles ;
 
-Lorsque les affirmations relatives à la capacité productive reposent sur des indicateurs qui ne prouvent plus des résultats réels — notamment des indicateurs qui dissimulent des dommages écologiques, des préjudices futurs ou des pertes dues à la concentration — le [§13.2.4 Invalidité pour divergence des indicateurs indirects](core_01_b_interaction_interpretation.md#1324-invalidation-pour-divergence-de-lindicateur-indirect) s’applique.
+Lorsque les affirmations relatives à la capacité productive reposent sur des mesures qui ne prouvent plus les résultats réels — y compris celles qui masquent des dommages écologiques, futurs ou liés à la concentration — la [§13.2.4 Invalidité pour divergence des indicateurs](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) s’applique.
 
 <a id="92-constitutional-efficiency"></a>
 #### 9.2 Efficacité constitutionnelle
@@ -1360,11 +1369,11 @@ Lorsque les affirmations relatives à la capacité productive reposent sur des i
 
 <br>
 
-*En termes simples : l’efficacité constitutionnelle est l’aspect de la capacité du système partagé qui demande si, en termes humains, nous en avons pour notre argent. Davantage de bénéfices réels pour chaque heure du temps, de l’attention et des efforts partagés des êtres sentients — sans rogner sur les droits, la vérité, la sécurité ou l’écologie pour paraître plus rapide, plus léger ou moins coûteux.*
+*En termes simples : l’Efficacité constitutionnelle est la dimension de la capacité du système partagé qui demande : « En termes humains, obtenons-nous une valeur réelle en échange de nos efforts ? » Davantage de bénéfices réels pour chaque heure de temps, d’attention et d’effort partagé des êtres sentients — sans rogner sur les droits, la vérité, la sécurité ou l’écologie simplement pour paraître plus rapide, plus léger ou moins cher.*
 
-L’**[efficacité constitutionnelle](../../core_05.040_band_continuity.md#constitutional-efficiency)** est l’autre aspect principal de la **[capacité du système partagé](../../core_05.040_band_continuity.md#shared-system-capacity)**. Elle demande si les systèmes produisent davantage de bénéfices exigés par la Constitution par unité de temps, d’attention, d’effort, de coordination, de matériaux, d’infrastructure et d’énergie consommée par les êtres sentients.
+L’**[Efficacité constitutionnelle](../../core_05.040_band_continuity.md#constitutional-efficiency)** est l’autre dimension principale de la **[Capacité du système partagé](../../core_05.040_band_continuity.md#shared-system-capacity)**. Elle demande si les systèmes produisent davantage de bénéfices exigés par la Constitution par unité de temps, d’attention, d’effort, de coordination, de matériaux, d’infrastructure et d’énergie consommée par les êtres sentients.
 
-L’efficacité peut favoriser des améliorations largement partagées, mais uniquement dans les limites constitutionnelles. À elle seule, elle ne signifie **pas** :
+L’efficacité peut favoriser des améliorations largement partagées, mais uniquement dans les limites constitutionnelles. À elle seule, elle **ne signifie pas** :
 - la simple rapidité ;
 - la commodité administrative ;
 - des objectifs de taux d’utilisation ;
@@ -1387,8 +1396,8 @@ L’efficacité peut favoriser des améliorations largement partagées, mais uni
 
 **Les gains d’efficacité ne doivent pas :**
 
-- vider de sa substance le [Quatuor constitutionnel](core_00_preamble.md#constitutional-tetrad) ; ou
-- remplacer les progrès vers les [deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) par des indicateurs de tableau de bord.
+- vider de sa substance le [Tétrad constitutionnel](../../core_00.000_preamble.md#constitutional-tetrad) ; ni
+- substituer des indicateurs de tableau de bord aux progrès vers les [Deux objectifs constitutionnels](../../core_00.000_preamble.md#two-constitutional-aims).
 
 <a id="10-resilience-and-self-healing-design"></a>
 
@@ -1419,7 +1428,7 @@ L’efficacité peut favoriser des améliorations largement partagées, mais uni
 
 <br>
 
-*En termes simples : les systèmes doivent détecter rapidement les problèmes, les contenir, échouer selon des voies annoncées et se rétablir avec transparence. L’« autoréparation » qui dissimule une défaillance, omet l’analyse des causes profondes ou réduit discrètement les droits n’est pas de la résilience : c’est un défaut.*
+*En termes simples : les systèmes doivent détecter les problèmes tôt, les contenir, échouer selon des voies annoncées et se rétablir honnêtement. L’« auto-réparation » qui dissimule une défaillance, omet l’analyse de sa cause profonde ou réduit discrètement les droits n’est pas de la résilience : c’est un défaut.*
 
 Les systèmes dont dépendent les êtres sentients doivent être conçus pour :
 - détecter rapidement les problèmes ;
@@ -1427,11 +1436,11 @@ Les systèmes dont dépendent les êtres sentients doivent être conçus pour :
 - échouer selon des voies prévues et annoncées, plutôt que dissimulées ;
 - recover in ways consistent with [Réversibilité](../../core_05.040_band_continuity.md#reversibility) and the Chapter Six Rights Floor.
 
-C’est ce que le chapitre cinq appelle l’[**autoréparation**](../../core_05.040_band_continuity.md#self-healing) — elle n’est légitime que si elle rend le système plus honnête sur son propre état. Une reprise automatique qui masque la cause profonde, supprime des preuves ou se substitue à la gouvernance n’est pas de l’autoréparation. C’est une violation de la [vérité](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) et un défaut d’[alignement des incitations](core_05_band_integrative.md#alignement-des-incitations).
+C’est ce que le Chapitre Cinq appelle l’[**autoguérison**](../../core_05.040_band_continuity.md#self-healing) — elle n’est légitime que si elle rend le système plus honnête sur son propre état, et non moins. Une récupération automatique qui masque la cause profonde, supprime des preuves ou se substitue à la gouvernance n’est pas de l’autoguérison. C’est une violation de la [Vérité](../../core_05.050_band_oversight.md#truth-constitutional-constraint) et un défaut d’[Alignement des incitations](../../core_05.045_band_integrative.md#incentive-alignment).
 
-Plus les êtres sentients dépendent d’un système et plus son impact est important, moins ce système devrait compter sur des interventions d’urgence. Il devrait plutôt investir dans une autorécupération éprouvée, auditée et encadrée — afin de réduire la [charge évitable](../../core_05.040_band_continuity.md#avoidable-burden) et de soutenir la [**Continuité**](#continuity) à long terme.
+Plus les êtres sentients dépendent d’un système et plus son impact est important, moins ce système devrait compter sur une intervention d’urgence. Il devrait plutôt investir dans une autorécupération testée, auditée et encadrée — afin de réduire la [Charge évitable](../../core_05.040_band_continuity.md#avoidable-burden) et de soutenir la [**Continuité**](#continuity) à long terme.
 
-Les modalités opérationnelles — détection et confinement des défaillances, préférence pour une défaillance sûre, résolution des causes profondes et continuité du socle de droits — figurent à [l’article XIII-F](core_06_rights_part_c.md#article-xiii--droit-à-des-systèmes-fiables-et-dignes-de-confiance) (*Norme de base sur la résilience et l’autoréparation*) du chapitre six ; les exigences relatives à l’architecture de reprise figurent dans les textes de mise en œuvre incorporés.
+Les détails opérationnels — détection du rétablissement, confinement, préférence pour une défaillance sûre, clôture de l’analyse de la cause profonde et continuité du Socle des droits — figurent à l’[Article XIII-F](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Socle de résilience et d’autoguérison*) du Chapitre Six ; les exigences relatives à l’architecture de rétablissement figurent dans les textes de mise en œuvre incorporés.
 
 <a id="11-market-structure"></a>
 ### 11. Structure du marché
@@ -1441,7 +1450,7 @@ Les modalités opérationnelles — détection et confinement des défaillances,
 - À lire avec : le [Quatuor constitutionnel](core_00_preamble.md#constitutional-tetrad) — participation, surveillance, responsabilité et respect des délais lorsque la concentration ou la domination neutralise la voix, l’examen, l’obligation de rendre compte ou la correction rapide ; l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) (notamment [§11.2 Promotion de la concurrence et lutte contre la domination](#112-promotion-de-la-concurrence-et-lutte-contre-la-domination)).
 - À lire avec : les [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) — objectif de **Continuité** (conditions productives durables et contestables) ; objectif d’**Épanouissement** (accès équitable aux moyens de subsistance, à la capacité d’agir et aux voies d’innovation).
 - En amont : principes : [§9 Capacité du système partagé](#9-capacité-du-système-partagé) — les affirmations relatives à la capacité productive et à l’efficacité échouent lorsque la concentration ou la domination les vide de leur substance ; [18. Gouvernance encadrée par la discipline d’intendance](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde).
-- En aval : [Chapitre onze §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (subversion fondée sur la concentration) ; [13. Processus de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels) ([§13.2.4 Invalidité pour divergence des indicateurs indirects](core_01_b_interaction_interpretation.md#1324-invalidation-pour-divergence-de-lindicateur-indirect)).
+- Aval : [chapitre quatorze §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5) (subversion fondée sur la concentration) ; [13. Processus de résolution des collisions constitutionnelles](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (../../[§13.2.4 Invalidité pour divergence de substitut](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration du marché (réglable par l’adoptant)** (règles d’application des [§11.1](#111-mécanisme-de-seuil-de-concentration-du-marché-réglable-par-ladoptant) et [§11.4](#114-concentration-des-ressources-et-des-dépendances-réglable-par-ladoptant)) ; **CJS-3.11.2 — Catalogue des conduites dominatrices interdites et des mesures correctives** (conduites interdites et mesures prévues au [§11.2](#112-promotion-de-la-concurrence-et-lutte-contre-la-domination)) ; **CJS-3.11.3 — Discipline de fixation du plafond de consolidation (réglable par l’adoptant)** (modalités de fixation au [§11.3.2](#1132-mécanisme-de-plafond-de-consolidation-réglable-par-ladoptant)).
 - Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06_rights_part_a.md#article-iii-c-plancher-du-travail-et-de-léconomie), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06_rights_part_a.md#article-v-allocation-des-ressources-dépendances-et-financement-de-lécosystème), and [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi--interopérabilité-portabilité-et-intégrité-de-sortie).
 - Sous-sections (ordre de lecture) : [§11.1 Mécanisme de seuil de concentration du marché (réglable par l’adoptant)](#111-mécanisme-de-seuil-de-concentration-du-marché-réglable-par-ladoptant) · [§11.1.1 Déclencheurs de seuil de concentration (réglables par l’adoptant)](#1111-déclencheurs-de-seuil-de-concentration-réglables-par-ladoptant) · [§11.2 Promotion de la concurrence et lutte contre la domination](#112-promotion-de-la-concurrence-et-lutte-contre-la-domination) · [§11.3 Plafond de consolidation](#113-plafond-de-consolidation) · [§11.4 Concentration des ressources et des dépendances (réglable par l’adoptant)](#114-concentration-des-ressources-et-des-dépendances-réglable-par-ladoptant).
@@ -1462,7 +1471,7 @@ Les modalités opérationnelles — détection et confinement des défaillances,
 
 <br>
 
-*En termes simples : les êtres sentients doivent pouvoir travailler, bâtir, changer de fournisseur et contester sans se heurter à un mur parce qu’une seule entreprise ou institution détient l’unique porte d’accès. La **Structure du marché** est cette discipline anti-monopole, applicable aux marchés, plateformes, systèmes d’emploi, infrastructures, données, puissance de calcul, titres de compétence et autres dépendances importantes pour la vie quotidienne. Grandir et innover est acceptable ; verrouiller le marché ne l’est pas. Les **§11.1–§11.3** (*Mécanisme de seuil de concentration du marché, promotion de la concurrence et lutte contre la domination, et plafond de consolidation*) fixent à quel moment la concentration devient excessive, comment mettre fin à la domination et quel niveau de consolidation est permis avant que les êtres sentients soient captifs. Le **§11.4** (*Concentration des ressources et des dépendances*) applique les mêmes seuils aux ressources partagées et aux dépendances.*
+*En termes simples : les êtres sentients doivent pouvoir travailler, créer, changer de fournisseur et s’opposer sans se heurter à un obstacle parce qu’une entreprise ou une institution possède l’unique porte d’accès. La **Structure du marché** est une discipline antimonopole qui couvre les marchés, plateformes, systèmes d’emploi, infrastructures, données, puissance informatique, identifiants et autres dépendances importantes au quotidien. La croissance et l’innovation sont acceptables ; l’accaparement du marché ne l’est pas. Les **§§11.1–11.3** déterminent quand la concentration est excessive, comment mettre fin à la domination et quel degré de consolidation est permis avant que les êtres sentients soient enfermés. Le **§11.4** applique les mêmes seuils aux ressources partagées et aux dépendances.*
 
 **[Structure du marché](../../core_05.035_band_accountability.md#market-structure)** governs whether sentients and shared systems can take part in productive life in ways that stay open to choice, competition, and pushback. Where [enjeu matériel](core_00_preamble.md#material-stake) requires, that includes:
 - les échanges commerciaux ;
@@ -1487,7 +1496,7 @@ Les modalités opérationnelles — détection et confinement des défaillances,
 <summary><strong><span style="color: #2563eb;">Repères</span></strong></summary>
 
 - En amont : [§11 Structure du marché](#11-structure-du-marché) ; [Seuil de concentration du marché](../../core_05.035_band_accountability.md#market-concentration-threshold).
-- En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration du marché (réglable par l’adoptant)** (règles opérationnelles de fixation des seuils) ; [§11.2 Promotion de la concurrence et lutte contre la domination](#112-promotion-de-la-concurrence-et-lutte-contre-la-domination) ; [§11.3 Plafond de consolidation](#113-plafond-de-consolidation) ; [CJS-3.11.3 — Discipline de fixation du plafond de consolidation (réglable par l’adoptant)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (règles opérationnelles de fixation du plafond au [§11.3.2](#1132-mécanisme-de-plafond-de-consolidation-réglable-par-ladoptant)) ; [Chapitre neuf §4 Question 2 — dans quelle mesure était-ce bénéfique ou préjudiciable ?](core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ; [Chapitre onze §5.1 Subversion fondée sur la concentration](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration du marché (réglable par l’adoptant)** (règles opérationnelles de fixation des seuils) ; [§11.2 Promotion de la concurrence et lutte contre la domination](#112-promotion-de-la-concurrence-et-lutte-contre-la-domination) ; [§11.3 Plafond de consolidation](#113-plafond-de-consolidation) ; [CJS-3.11.3 — Discipline de fixation du plafond de consolidation (réglable par l’adoptant)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (règles opérationnelles de fixation du plafond au [§11.3.2](#1132-mécanisme-de-plafond-de-consolidation-réglable-par-ladoptant)) ; [Chapitre neuf §4 Question 2 — dans quelle mesure était-ce bénéfique ou préjudiciable ?](core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ; [Chapitre onze §5.1 Subversion fondée sur la concentration](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - Porte d’entrée pour les intendants (non opérationnelle) : fiche de l’étape suivante : [Structure du marché](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Sous-sections (ordre de lecture) : [§11.1.1 Déclencheurs de seuil de concentration (réglables par l’adoptant)](#1111-déclencheurs-de-seuil-de-concentration-réglables-par-ladoptant).
 
@@ -1504,14 +1513,14 @@ Les modalités opérationnelles — détection et confinement des défaillances,
 
 <br>
 
-*En termes simples : cette section établit le seuil de protection contre l’accumulation préjudiciable de richesses, de pouvoir ou de contrôle. Elle ne détermine pas elle-même la gravité du préjudice et ne qualifie pas à elle seule une situation de faute. Si la concentration sert à saper la Constitution, le chapitre onze en juge — uniquement après que le chapitre neuf a classé le préjudice vérifié parmi les trois niveaux les plus graves. Les adoptants peuvent adapter les déclencheurs numériques précis à leur contexte, mais ne peuvent pas les fixer si haut qu’ils ne s’activent jamais, les associer à une application inutilisable, ni dissimuler la concentration derrière des structures fédérées ou des sociétés écrans. Le [§11.1.1 Déclencheurs de seuil de concentration (réglables par l’adoptant)](#1111-déclencheurs-de-seuil-de-concentration-réglables-par-ladoptant) précise comment ces déclencheurs sont établis.*
+*En termes simples : la présente section établit des exigences contre l’accumulation nuisible de richesse, de pouvoir ou de contrôle. Elle ne décide pas elle-même de la gravité du préjudice et ne désigne pas elle-même une personne comme mise en cause pour comportement fautif. Lorsque la concentration sert à saper la Constitution, le chapitre quatorze juge ce comportement — uniquement après que le chapitre douze a classé le préjudice vérifié parmi les trois niveaux les plus graves. Les adoptants peuvent adapter les seuils numériques exacts à leur contexte, mais ne peuvent les fixer si haut qu’ils ne sont jamais déclenchés, les associer à une exécution inutilisable ni dissimuler la concentration par des structures fédérées ou écrans. Leur fixation est traitée à la [§11.1.1 Déclencheurs des seuils de concentration (adaptables par l’adoptant)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **Rôle de cette sous-section :**
 
 - **Elle fait :** énonce, au niveau des principes, la direction à donner aux seuils du socle de [§11 Structure du marché](#11-structure-du-marché).
 - **Elle ne fait pas :** déterminer la gravité du préjudice vérifié ni désigner un cas de faute.
-- **Lorsque la concentration sert à saper la Constitution :** la faute est jugée au titre du [chapitre douze §5.1 Subversion fondée sur la concentration](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **Créer, maintenir ou exploiter une concentration supérieure au seuil :** la situation peut être soumise au chapitre onze pour examen en vue d’une désignation de faute, mais en deux étapes seulement. D’abord, le [chapitre dix §4 Question 2 — dans quelle mesure était-ce bénéfique ou préjudiciable ?](core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) doit déjà avoir classé le préjudice vérifié parmi les trois niveaux les plus graves. Le chapitre onze vérifie ensuite si la concentration satisfait au critère 3 (un contournement qui annule des protections), au critère 4 (atteinte aux protections du socle de droits ou blocage des contestations), ou au critère 6 (rendre le processus constitutionnel inutilisable en pratique).
+- **Lorsque la concentration sert à saper la présente Constitution :** ce comportement fautif est jugé au titre du [chapitre quatorze §5.1 Subversion fondée sur la concentration](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Créer, maintenir ou exploiter une concentration qui viole les exigences :** cela peut être transmis au chapitre quatorze pour examen de désignation, mais en deux étapes seulement. D’abord, le [chapitre douze §1 Question 2 — à quel point était-ce bon ou mauvais ?](../../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) doit déjà avoir classé le préjudice vérifié parmi les trois niveaux les plus graves. Ensuite, le chapitre quatorze vérifie si la concentration satisfait au critère 3 (contournement qui annule les protections), au critère 4 (atteinte aux protections du Plancher des droits ou blocage des contestations) ou au critère 6 (processus constitutionnel rendu impraticable en pratique).
 
 **Seuil constitutionnel minimal :**
 
@@ -1546,7 +1555,7 @@ Les modalités opérationnelles — détection et confinement des défaillances,
 
 <br>
 
-*En termes simples : les adoptants peuvent adapter les déclencheurs numériques à leur contexte — domaine, taille de la population, densité des dépendances — mais il n’existe pas de nombre universel et le seuil minimal demeure. Les règles détaillées de fixation des seuils figurent dans CJS-3.11.1 (*Discipline de fixation des seuils de concentration du marché, réglable par l’adoptant*) (discipline de fixation des seuils de concentration du marché).*
+*En termes simples : les adoptants peuvent ajuster les déclencheurs numériques à leur contexte — domaine, taille de la population et densité des dépendances — mais il n’existe pas de chiffre universel et les exigences restent applicables. Les règles détaillées de fixation des seuils figurent dans CJS-5.125 §11.1 (discipline de fixation des seuils de concentration du marché, réglable par les adoptants).*
 
 Les **seuils de concentration** sont des déclencheurs quantitatifs qui indiquent qu’une concentration a atteint un niveau exigeant un examen renforcé, une intervention ou une mesure structurelle. Ils couvrent la concentration matérielle, juridictionnelle, liée aux capacités, aux plateformes et à l’espace informationnel. Les adoptants peuvent adapter ces déclencheurs **dans les limites du seuil constitutionnel minimal**.
 
@@ -1567,7 +1576,7 @@ La discipline opérationnelle de fixation des seuils — préservation du seuil 
 <summary><strong><span style="color: #2563eb;">Repères</span></strong></summary>
 
 - En amont : [§11 Structure du marché](#11-structure-du-marché) ; [Structure du marché](../../core_05.035_band_accountability.md#market-structure).
-- En aval : **CJS-3.11.2 — Catalogue des conduites dominatrices interdites et des mesures correctives** (types de conduite opérationnels et mesures correctives) ; [§11.3 Plafond de consolidation](#113-plafond-de-consolidation) ; [Chapitre onze §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Aval : **CJS-5.125 §11.2 — Catalogue des conduites anti-domination et des mesures correctives** (conduites et réparations opérationnelles) ; [§11.3 Plafond de consolidation](#113-consolidation-ceiling) ; [chapitre quatorze §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5).
 - À lire avec : [Article III-C : Socle du travail et de l’économie](core_06_rights_part_a.md#article-iii-c-plancher-du-travail-et-de-léconomie) (socle de droits en matière de mobilité du travail) ; [Article XXI : Interopérabilité, portabilité, déplacement, refuge et intégrité de sortie](core_06_rights_part_d.md#article-xxi--interopérabilité-portabilité-et-intégrité-de-sortie) ; [13. Processus de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels) ([Nécessité](../../core_05.035_band_accountability.md#necessity), [Proportionnalité](../../core_05.035_band_accountability.md#proportionality), [§13.2.4 Invalidité pour divergence des indicateurs indirects](core_01_b_interaction_interpretation.md#1324-invalidation-pour-divergence-de-lindicateur-indirect)).
 - Sous-sections (ordre de lecture) : [§11.2.1 Devoirs en faveur de la concurrence (à faire)](#1121-devoirs-en-faveur-de-la-concurrence-à-faire) · [§11.2.2 Interdictions de la domination (à ne pas faire)](#1122-interdictions-de-la-domination-à-ne-pas-faire) · [§11.2.3 Mesures correctives](#1123-mesures-correctives).
 
@@ -1588,28 +1597,28 @@ La discipline opérationnelle de fixation des seuils — préservation du seuil 
 
 <br>
 
-*En termes simples : la Constitution ne punit pas un système simplement parce qu’il est grand, utile ou temporairement en avance grâce à une véritable innovation. Elle interdit en revanche la domination durable : le contrôle des marchés, du travail, des plateformes, des infrastructures, des données, de la puissance de calcul, des titres de compétence ou des ressources qui permet à un acteur de rendre les autres captifs, de bloquer ses concurrents, d’étouffer la négociation équitable ou de s’emparer des mécanismes de responsabilité constitutionnelle.*
+*En termes simples : la Constitution ne sanctionne pas un système simplement parce qu’il est grand, utile ou temporairement en avance grâce à une véritable innovation. Elle interdit la domination durable : le contrôle des marchés, du travail, des plateformes, des infrastructures, des données, de la puissance informatique, des titres ou des ressources lorsqu’il permet à un acteur d’enfermer les autres, de bloquer ses rivaux, d’étouffer la négociation équitable ou de s’emparer de la responsabilité constitutionnelle.*
 
 **Rôle de cette sous-section :**
 
-- **Ce qu’elle énonce :** les règles constitutionnelles visant à préserver une concurrence réelle et à mettre fin à la domination durable — uniquement au niveau des principes. Il ne s’agit pas d’un code complet de la concurrence.
-- **Droit local plus protecteur :** cette disposition n’annule pas la législation antitrust ou de la concurrence propre à l’organisme adoptant lorsqu’elle offre une protection plus forte.
-- **Les autres sources compétentes restent applicables :** si les mêmes faits déclenchent aussi des obligations relatives aux droits, aux mesures correctives ou aux fautes, signalées par cette section, ces obligations s’appliquent également de manière indépendante.
+- **Ce qu’elle énonce :** les règles constitutionnelles visant à maintenir une concurrence réelle et à mettre fin à la domination durable — au seul niveau des principes. Ce n’est pas un code complet de la concurrence.
+- **Droit local plus protecteur :** elle n’écarte pas les règles antitrust ou de concurrence propres à l’organisme adoptant si elles offrent une protection plus forte.
+- **Les autres compétences restent applicables :** si les mêmes faits déclenchent aussi des obligations en matière de droits, de réparation ou de faute auxquelles renvoie cette section, ces obligations continuent de s’appliquer séparément.
 
 <a id="1121-pro-competition-duties-dos"></a>
 ##### 11.2.1 Devoirs en faveur de la concurrence (à faire)
 
-*En termes simples (à faire) : les marchés et les dépendances doivent rester suffisamment ouverts pour que les êtres sentients puissent y entrer, changer de fournisseur, négocier équitablement et en sortir — grandir ou innover est acceptable tant que la contestabilité reste réelle.*
+*En termes simples (les obligations) : les marchés et les dépendances doivent rester suffisamment ouverts pour que les êtres sentients puissent y entrer, changer, négocier équitablement et en sortir — grandir ou innover est acceptable si la contestabilité reste réelle.*
 
-La capacité du système partagé doit rester contestable en pratique. Selon le [Quatuor constitutionnel](core_00_preamble.md#constitutional-tetrad), toute domination qui vide de leur substance la **participation**, la **surveillance**, la **responsabilité** ou le **respect des délais** — selon l’[enjeu matériel](core_00_preamble.md#material-stake) — est incompatible avec cette section, quelle que soit l’échelle ou l’affirmation d’efficacité invoquée.
+La capacité du système partagé doit rester contestable en pratique. Selon le [Tétrad constitutionnel](../../core_00.000_preamble.md#constitutional-tetrad), toute domination qui vide de leur substance la **participation**, la **surveillance**, la **responsabilité** ou la **diligence temporelle** — selon l’[importance matérielle](../../core_00.000_preamble.md#material-stake) — est incompatible avec cette section, quelle que soit l’échelle ou l’affirmation d’efficacité.
 
-Lorsque les êtres sentients dépendent des marchés, des plateformes, des infrastructures, des accords de travail, des flux de ressources, de l’accès aux données ou à la puissance de calcul, des titres de compétence ou de conditions productives comparables pour leurs moyens de subsistance, leur capacité d’agir ou leur bien-être, les systèmes de gouvernance et les mécanismes de structuration des marchés doivent préserver :
-- une participation contestable, c’est-à-dire la possibilité pour les êtres sentients de participer et de contester les décisions et les conditions qui les affectent ;
-- des possibilités réelles de substitution et de sortie, c’est-à-dire l’existence d’une solution de remplacement viable et la possibilité de changer ou de partir sans coût, délai ou perte déraisonnable de ce dont ils ont besoin ;
-- un accès et un retour équitables, c’est-à-dire la possibilité pour les nouveaux arrivants d’entrer et pour ceux qui sont partis de revenir à des conditions équitables ;
-- l’interopérabilité et la portabilité lorsqu’elles sont importantes pour la sortie ou la concurrence, c’est-à-dire la possibilité de relier les systèmes à des solutions alternatives et pour les êtres sentients d’emporter leurs données et leur identité ;
-- une négociation sans coercition pour les travailleurs, les fournisseurs, les utilisateurs, les participants dépendants et les parties prenantes concernées ;
-- un accès révisable aux infrastructures essentielles ou générant une forte dépendance lorsque son refus compromettrait les protections du chapitre six, l’audit, les recours ou la capacité d’agir réelle.
+Lorsque les êtres sentients dépendent de marchés, de plateformes, d’infrastructures, d’arrangements de travail, de flux de ressources, de l’accès aux données ou au calcul, de titres ou de conditions productives comparables pour leurs moyens de subsistance, leur capacité d’agir ou leur bien-être, les systèmes de gouvernance et les structures de marché doivent préserver :
+- une participation contestable : les êtres sentients peuvent participer et contester les décisions et conditions qui les affectent ;
+- une substituabilité et une sortie effectives : une solution de remplacement viable existe et ils peuvent changer ou partir sans coût, délai ou perte déraisonnable de ce dont ils ont besoin ;
+- une entrée et une réentrée équitables : les nouveaux venus peuvent entrer et ceux qui sont partis revenir à des conditions équitables ;
+- l’interopérabilité et la portabilité lorsqu’elles sont importantes pour la sortie ou la concurrence : les systèmes peuvent se connecter aux solutions de remplacement et les êtres sentients emporter leurs données et leur identité ;
+- une négociation sans coercition pour les travailleurs, fournisseurs, utilisateurs, participants dépendants et parties prenantes concernées ;
+- un accès révisable aux infrastructures essentielles ou créant une forte dépendance lorsque le refus compromettrait les protections du Chapitre Six, l’audit, le recours ou la capacité d’agir effective.
 
 Les éléments suivants ne sont pas interdits en soi :
 - l’échelle ;
@@ -1618,14 +1627,14 @@ Les éléments suivants ne sont pas interdits en soi :
 - un avantage temporaire issu d’une véritable innovation ;
 - l’efficacité résultant d’une coordination licite.
 
-Ces avantages restent légitimes uniquement tant qu’ils ne deviennent pas les éléments suivants et ne compromettent donc ni les [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims), ni le [Quatuor constitutionnel](core_00_preamble.md#constitutional-tetrad) :
+Ces avantages ne restent valables que tant qu’ils ne deviennent pas les éléments suivants et ne compromettent donc pas les [Deux objectifs constitutionnels](../../core_00.000_preamble.md#two-constitutional-aims) ou le [Tétrad constitutionnel](../../core_00.000_preamble.md#constitutional-tetrad) :
 - une domination durable ;
 - une dépendance coercitive ;
 - une dégradation du socle de droits ;
 - un transfert des charges écologiques ;
 - une captation des voies de responsabilité.
 
-Les justifications suivantes doivent respecter les obligations de traçabilité et de preuve prévues par le [13. Processus de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels) et le chapitre quatre :
+Les justifications suivantes doivent satisfaire aux obligations de traçabilité et de preuve du [§13 Processus de résolution des collisions constitutionnelles](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) et du Chapitre Quatre :
 - l’efficacité ;
 - la compétitivité ;
 - l’urgence ;
@@ -1635,7 +1644,7 @@ Les justifications suivantes doivent respecter les obligations de traçabilité 
 <a id="1122-anti-domination-prohibitions-donts"></a>
 ##### 11.2.2 Interdictions de la domination (à ne pas faire)
 
-*En termes simples (à ne pas faire) : il est interdit de rendre les êtres sentients captifs, de bloquer les concurrents, d’étouffer la négociation équitable ou de capter la responsabilité constitutionnelle.*
+*En termes simples (les interdictions) : ne pas enfermer les êtres sentients, bloquer les concurrents, étouffer la négociation équitable ni capter la responsabilité constitutionnelle.*
 
 Aucun des acteurs suivants :
 - être sentient ;
@@ -1679,17 +1688,17 @@ lorsque ce pouvoir dégrade de manière prévisible :
 <a id="1123-remedies"></a>
 ##### 11.2.3 Mesures correctives
 
-*En termes simples : lorsqu’une domination est établie, la réponse doit être proportionnée au préjudice, rétablir un véritable choix et ne pas sanctionner la taille pour elle-même.*
+*En termes simples : lorsque la domination est établie, la réponse doit être proportionnée au préjudice, rétablir un véritable choix et ne pas punir la taille pour elle-même.*
 
-Les éléments suivants relèvent du **CJS-3.11.2 — Catalogue des conduites dominatrices interdites et des mesures correctives** :
+Les éléments suivants figurent dans **CJS-5.125 §11.2 — Catalogue des conduites de domination et des mesures correctives** :
 - des exemples de conduites interdites ;
 - des outils de mesures correctives proportionnées ;
 - des voies d’orientation pour l’évaluation intersectorielle.
 
 Autres sources compétentes :
-- interdictions catégoriques relatives à la mobilité du travail : [Article III-C](core_06_rights_part_a.md#article-iii-c-plancher-du-travail-et-de-léconomie) (*Socle du travail et de l’économie*) ;
-- modalités opérationnelles d’interopérabilité, de portabilité et d’intégrité de sortie : **CJS-3.17** (*Continuité : modalités d’interopérabilité, de portabilité et d’intégrité de sortie*) ;
-- profils de risque associés à la consolidation horizontale et verticale : **§11.3** (*Plafond de consolidation*).
+- interdictions catégoriques relatives à la mobilité du travail : [Article III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Socle du travail et de l’économie*) ;
+- modalités opérationnelles d’interopérabilité, de portabilité et d’intégrité de sortie : **CJS-5.130 §17** (*Continuité : modalités d’interopérabilité, de portabilité et d’intégrité de sortie*) ;
+- profils de risque de consolidation horizontale et verticale : **§11.3** (*Plafond de consolidation*).
 
 Les mesures correctives doivent :
 - être proportionnées aux éléments suivants :
@@ -1730,7 +1739,7 @@ Le choix opérationnel des mesures correctives suit le **CJS-3.11.2** (*Catalogu
 
 <br>
 
-*En termes simples : la consolidation peut réduire les choix réels bien avant que le marché paraisse verrouillé. Les **plafonds de consolidation** donnent aux instances de gouvernance et aux intendants un pouvoir d’alerte précoce — examiner, intervenir et corriger les concentrations tant que la sortie et la concurrence demeurent possibles.*
+*En termes simples : la consolidation peut supprimer de véritables choix bien avant qu’un marché semble verrouillé. Les **plafonds de consolidation** donnent aux instances de gouvernance et aux responsables un pouvoir d’alerte précoce pour examiner, intervenir et corriger les concentrations tant que la sortie et la concurrence restent possibles.*
 
 Une consolidation qui nuit de manière prévisible à la contestabilité avant que le verrouillage ne soit manifeste relève d’un problème de [gouvernance](../../core_05.035_band_accountability.md#governance) et d’[intendance](../../core_05.040_band_continuity.md#stewardship), et non uniquement d’un problème de domination constaté après coup ; elle relève de la discipline de plafond de consolidation au niveau des principes prévue par :
 - [§11 Structure du marché](#11-structure-du-marché) ;
@@ -1768,7 +1777,7 @@ Les règles opérationnelles de fixation du plafond figurent dans :
 <a id="1131-consolidation-risk-pre-lock-in-impairment"></a>
 ##### 11.3.1 Risque de consolidation (atteinte avant verrouillage)
 
-*En termes simples : la consolidation peut vider les alternatives réelles de leur substance bien avant que le marché paraisse « verrouillé ». Deux types de concentration sont particulièrement importants : la **consolidation horizontale** — moins de concurrents au même niveau — et la **consolidation verticale** — le contrôle de plusieurs niveaux qui crée des points d’étranglement et un verrouillage.*
+*En termes simples : la consolidation peut vider les alternatives réelles de leur substance bien avant qu’un marché semble « verrouillé ». Deux formes d’accumulation comptent particulièrement : la **consolidation horizontale**, qui réduit le nombre de concurrents au même niveau, et la **consolidation verticale**, qui exerce un contrôle entre plusieurs niveaux et crée des goulots d’étranglement et un enfermement.*
 
 La consolidation peut nuire de manière prévisible aux éléments suivants avant que le verrouillage ne soit manifeste :
 - la contestabilité ;
@@ -1818,13 +1827,13 @@ Les éléments suivants restent dans le champ d’application lorsqu’ils prés
 <summary><strong><span style="color: #2563eb;">Repères</span></strong></summary>
 
 - En amont : [§11.3 Plafond de consolidation](#113-plafond-de-consolidation) ; [§11.3.1 Risque de consolidation (atteinte avant verrouillage)](#1131-risque-de-consolidation-atteinte-avant-verrouillage).
-- En aval : **CJS-3.11.3 — Discipline de fixation du plafond de consolidation (réglable par l’adoptant)** (règles opérationnelles du plafond) ; [CJS-3.11.2 — Catalogue des conduites dominatrices interdites et des mesures correctives](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (orientation vers des mesures correctives en cas de dépassement du plafond) ; [Chapitre onze §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Aval : **CJS-5.125 §11.3 — Discipline de fixation du plafond de consolidation (adaptable par l’adoptant)** (règles opérationnelles de fixation du plafond) ; [CJS-5.125 §11.2 — Catalogue des conduites anti-domination et des mesures correctives](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (orientation vers la réparation en cas de dépassement) ; [chapitre quatorze §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5).
 
 </details>
 
 <br>
 
-*En termes simples : les adoptants doivent établir des plafonds fondés sur des preuves qui déclenchent un examen avant que les risques de consolidation du **§11.3.1** (*Risque de consolidation, atteinte avant verrouillage*) ne se concrétisent en verrouillage — avec des déclencheurs horizontaux et verticaux distincts lorsque le domaine l’exige.*
+*En termes simples : les adoptants doivent établir des plafonds fondés sur des preuves qui déclenchent un examen avant que les risques de consolidation de la **§11.3.1** (Risque de consolidation, atteinte avant verrouillage) ne se transforment en enfermement, avec des déclencheurs horizontaux et verticaux distincts lorsque le domaine l’exige.*
 
 Les **plafonds de consolidation** sont des déclencheurs d’alerte précoce, réglables par l’adoptant, pour renforcer l’examen, intervenir ou imposer une mesure structurelle lorsque la consolidation atteint un niveau auquel les atteintes prévues au **§11.3.1** (*Risque de consolidation, atteinte avant verrouillage*) sont imminentes de manière prévisible. Ils relèvent de la discipline anti-concentration du **§11** (*Structure du marché*) et des règles anti-domination du **§11.2** (*Promotion de la concurrence et lutte contre la domination*) ; ils n’interdisent pas la grande échelle.
 
@@ -1874,28 +1883,28 @@ La discipline opérationnelle de fixation du plafond — conception des déclenc
 
 <br>
 
-*En termes simples : les infrastructures partagées — réseaux, outils ouverts, services publics, données et puissance de calcul — permettent à quelques acteurs de contrôler discrètement qui reçoit les ressources, qui dépend de qui et qui paie pour maintenir leur fonctionnement. Les adoptants doivent fixer des limites claires à cette concentration et agir lorsqu’une limite est franchie ou sur le point de l’être. Les limites peuvent varier selon le contexte, mais ne doivent pas être si souples qu’elles ne comptent jamais. [L’article V](core_06_rights_part_a.md#article-v-allocation-des-ressources-dépendances-et-financement-de-lécosystème) (*Allocation des ressources, dépendances et financement des écosystèmes*) et ses protections du partage des ressources restent inchangés.*
+*En termes simples : dans les infrastructures partagées — réseaux, outils ouverts, services publics, données et capacité de calcul — quelques acteurs peuvent finir par contrôler discrètement qui obtient des ressources, qui dépend de qui et qui paie pour les maintenir en fonctionnement. Les adoptants doivent fixer des limites claires à cette concentration et agir lorsqu’une limite est franchie ou sur le point de l’être. Ces limites peuvent varier selon le contexte, mais elles ne doivent pas être si laxistes qu’elles ne comptent jamais. L’[Article V](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Allocation des ressources, dépendances et financement de l’écosystème*) et ses protections du partage des ressources restent exactement tels quels.*
 
-La concentration est facile à manquer dans les infrastructures partagées. Quelques systèmes peuvent contrôler l’allocation des ressources, le nombre de personnes qui dépendent d’eux sans véritable alternative et qui paie pour maintenir l’infrastructure. [L’article V](core_06_rights_part_a.md#article-v-allocation-des-ressources-dépendances-et-financement-de-lécosystème) (*Allocation des ressources, dépendances et financement des écosystèmes*) fixe le socle de droits relatif au partage des ressources. Cette sous-section applique à ce contexte les seuils de concentration du [§11.1 Mécanisme de seuil de concentration du marché (réglable par l’adoptant)](#111-mécanisme-de-seuil-de-concentration-du-marché-réglable-par-ladoptant). Les règles opérationnelles de fixation des seuils figurent dans le **CJS-3.11.1** (*Discipline de fixation des seuils de concentration du marché*) ; les détails sur les cartes de ressources, les flux, l’allocation et le financement des écosystèmes figurent dans [**CS-9**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (*Allocation des ressources et intendance du financement*) et [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*Durabilité adaptative et résilience des écosystèmes*).
+La concentration est facile à manquer dans les infrastructures partagées. Quelques systèmes peuvent contrôler l’allocation des ressources, le nombre d’acteurs qui en dépendent sans solution de rechange réelle et ceux qui financent le maintien de l’infrastructure. L’[Article V](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Allocation des ressources, dépendances et financement des écosystèmes*) établit le Plancher des droits applicable au partage des ressources. Le présent paragraphe applique à ce Plancher les seuils de concentration du [§11.1 Mécanisme des seuils de concentration du marché (adaptable par l’adoptant)](#111-market-concentration-threshold-mechanism-adopter-tunable). Les règles opérationnelles de fixation figurent dans **CJS-5.125 §11.1** (*Discipline de fixation des seuils de concentration du marché*) ; les détails sur les cartes de ressources, les flux, l’allocation et le financement des écosystèmes figurent dans [**CS-6.335**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Allocation des ressources et gestion du financement*) et [**CS-6.325**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Durabilité adaptative et résilience des écosystèmes*).
 
 **Ce que les adoptants doivent fixer :**
 
-Les adoptants doivent définir des indicateurs de [Seuil de concentration du marché](../../core_05.035_band_accountability.md#market-concentration-threshold) pour l’allocation des ressources, les dépendances et le financement des écosystèmes, puis agir lorsqu’un seuil est franchi ou qu’il est vraisemblablement sur le point de l’être. Les indicateurs doivent couvrir :
+Les adoptants doivent définir des indicateurs de [seuil de concentration du marché](../../core_05.035_band_accountability.md#market-concentration-threshold) pour l’allocation des ressources, les dépendances et le financement de l’écosystème, et agir lorsque le seuil est franchi ou qu’il est de manière crédible sur le point de l’être. Ces indicateurs doivent couvrir :
 - le contrôle durable de la répartition des ressources partagées ;
-- la concentration des dépendances, c’est-à-dire le nombre d’êtres sentients ou de systèmes dépendant d’un seul fournisseur ou d’une seule fondation sans véritable alternative ;
+- la concentration des dépendances, c’est-à-dire le nombre de sentients ou de systèmes tributaires d’un fournisseur ou d’une fondation unique sans véritable solution de remplacement ;
 - le contrôle d’accès aux interfaces et aux points d’accès des infrastructures partagées ; et
-- le contrôle concentré du financement des écosystèmes et de l’identité de leurs bénéficiaires.
+- la concentration du contrôle sur le financement des écosystèmes et sur les bénéficiaires.
 
 **Comment les adoptants doivent les fixer :**
 
-- **À partir des flux réels :** fonder les niveaux sur les cartes de dépendance et les registres des flux de ressources exigés par [l’article V-A](core_06_rights_part_a.md#article-v-a--cartographie-des-dépendances-et-transparence-des-flux-de-ressources) (*Cartographie des dépendances et transparence des flux de ressources*), et non sur les étiquettes des opérateurs ou des transferts ponctuels.
-- **Selon le contexte :** les niveaux peuvent varier selon le domaine, la taille de la population et la densité des dépendances, comme au [§11.1.1 Déclencheurs de seuil de concentration (réglables par l’adoptant)](#1111-déclencheurs-de-seuil-de-concentration-réglables-par-ladoptant).
-- **Selon la même discipline :** les règles de préservation du seuil minimal, d’examen au-delà des apparences, de prévention de la neutralisation et de renforcement de l’examen du **CJS-3.11.1 — Discipline de fixation des seuils de concentration du marché (réglable par l’adoptant)** s’appliquent intégralement. Aucun niveau ne peut être fixé si haut qu’il ne s’active jamais, et les concentrations dissimulées derrière des sociétés écrans, des structures fédérées ou fragmentées restent prises en compte.
-- **En toute transparence :** les niveaux et leurs motifs doivent être consignés par écrit et ouverts à la contestation, conformément à [l’article V](core_06_rights_part_a.md#article-v-allocation-des-ressources-dépendances-et-financement-de-lécosystème) (*Allocation des ressources, dépendances et financement des écosystèmes*), qui exige que les flux de ressources soient visibles, vérifiables et contestables.
+- **À partir des flux réels :** fonder les seuils sur les cartes de dépendance et les registres de flux de ressources exigés par l’[Article V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Cartographie des dépendances et transparence des flux de ressources*), et non sur les étiquettes de l’opérateur ou des transferts ponctuels.
+- **Selon le contexte :** les seuils peuvent varier selon le domaine, la taille de la population et la densité des dépendances, comme à la [§11.1.1 Déclencheurs des seuils de concentration (adaptables par l’adoptant)](#1111-concentration-threshold-triggers-adopter-tunable).
+- **Selon la même discipline :** les règles de préservation des exigences, de primauté du fond sur la forme, d’interdiction de neutralisation et d’examen renforcé de **CJS-5.125 §11.1 — Discipline de fixation des seuils de concentration du marché (adaptable par l’adoptant)** s’appliquent intégralement. Aucun seuil ne peut être fixé si haut qu’il ne se déclenche jamais ; une concentration dissimulée par des structures écrans, fédérées ou fragmentées compte toujours.
+- **Ouvertement :** les seuils et leurs motifs doivent être consignés et contestables, conformément à l’[Article V](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Allocation des ressources, dépendances et financement des écosystèmes*), qui exige que les flux de ressources soient visibles, vérifiables et contestables.
 
 **Lorsqu’un niveau est franchi :**
 
-Le franchissement d’un niveau appelle un examen renforcé et des mesures d’atténuation au titre du [§11.1.1 Déclencheurs de seuil de concentration (réglables par l’adoptant)](#1111-déclencheurs-de-seuil-de-concentration-réglables-par-ladoptant). Il ne constitue pas à lui seul un constat de faute ([§11.1 Mécanisme de seuil de concentration du marché (réglable par l’adoptant)](#111-mécanisme-de-seuil-de-concentration-du-marché-réglable-par-ladoptant)). Si la même organisation ne respecte pas non plus [l’article V-A](core_06_rights_part_a.md#article-v-a--cartographie-des-dépendances-et-transparence-des-flux-de-ressources) (*Cartographie des dépendances et transparence des flux de ressources*) ou [l’article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Équité et durabilité intersystèmes*), les deux s’appliquent : l’examen de la concentration s’ajoute à **l’article V** (*Allocation des ressources, dépendances et financement des écosystèmes*) et ne le remplace pas.
+Le franchissement d’un seuil appelle un examen renforcé et des mesures d’atténuation au titre de la [§11.1.1 Déclencheurs des seuils de concentration (adaptables par l’adoptant)](#1111-concentration-threshold-triggers-adopter-tunable). Il ne constitue pas à lui seul un constat de comportement fautif ([§11.1 Mécanisme des seuils de concentration du marché (adaptable par l’adoptant)](#111-market-concentration-threshold-mechanism-adopter-tunable)). Si la même configuration contrevient aussi à l’[Article V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Cartographie des dépendances et transparence des flux de ressources*) ou à l’[Article V-B](../../core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Équité et durabilité inter-systèmes*), les deux s’appliquent : l’examen de la concentration s’ajoute à l’**Article V** (*Allocation des ressources, dépendances et financement des écosystèmes*) sans le remplacer. Dans la certification de l’alignement du système, si un système devient un goulot d’étranglement pour des dépendants qui ne peuvent raisonnablement changer de système, ces faits entraînent une montée en niveau au titre du [chapitre neuf §5.3.5 Échelonnement et escalade de classe du système](../../core_09.000_system_alignment_certification_evaluation.md#535-system-class-scaling-and-escalation) et du [§2.2 Comment la classe du système échelonne chaque évaluation](../../core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation). Le seuil franchi constitue une preuve supplémentaire ; un seuil absent ou trop élevé ne retarde pas cette montée.
 
 <a id="12-systemic-evaluation-requirement"></a>
 ### 12. Exigence d’évaluation systémique
@@ -1943,9 +1952,9 @@ Toute affirmation portant sur les éléments ci-dessous doit être vérifiée au
 - le déploiement ;
 - la levée des conditions.
 
-Les facteurs d’évaluation détaillés et les dossiers de certification relèvent de :
+Les facteurs détaillés d’évaluation et les Registres de certification du système relèvent de :
 - **[Chapitre neuf §3 Évaluation de certification du système entier](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** ;
-- **[Chapitre neuf §8 Registre de certification du système](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)** ;
+- **[Chapitre neuf §8 Registre de certification du système](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)** ;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
 
 Cette procédure du chapitre neuf :

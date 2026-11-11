@@ -37,9 +37,10 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: [अध्याय दो, §1 — उद्देश्य और भूमिका](core_02_definition_structure.md#1-उददशय-और-भमक); [अध्याय दो, §2 परिभाषा अखंडता अपेक्षा](core_02_definition_structure.md#2-परभष-अखडत-अपकष)।
-- अधो: [अध्याय तीन, अनुभाग 2 — प्रेक्षणीय प्रणाली आचरण से गैर-अनुपालन](#2-परकषणय-परणल-आचरण-स-गर-अनपलन); [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](core_04_burden_traceability_verification.md#5-अनपलन-सकषय-मनक); [अध्याय दस — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)।
+- अधो: [अध्याय तीन, अनुभाग 2 — प्रेक्षणीय प्रणाली आचरण से गैर-अनुपालन](#2-परकषणय-परणल-आचरण-स-गर-अनपलन); [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](core_04_burden_traceability_verification.md#5-अनपलन-सकषय-मनक); [अध्याय ग्यारह — योगदान, उल्लंघन और प्रस्थिति मॉडल](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)।
 - साथ पढ़ें: [अध्याय एक, अनुभाग 4.2 — सत्य (ज्ञानमीमांसीय अखंडता बंधन)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — प्रेक्षणीय आचरण पर आधारित व्याख्या, कथित संरचना या आशय पर नहीं, परिभाषा-अखंडता परत पर संवैधानिक सत्य बंधन को संक्रियात्मक बनाती है।
 
+- [अध्याय ग्यारह — प्रस्थिति अभिलेख](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000)।
 </details>
 
 <details>
@@ -89,9 +90,10 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: [अध्याय तीन, अनुभाग 1 — परिभाषा अखंडता और बचाव-निरोध बंधन](#1-परभष-अखडत-और-बचव-नरध-बधन); [अध्याय दो, §2 परिभाषा अखंडता अपेक्षा](core_02_definition_structure.md#2-परभष-अखडत-अपकष); [अध्याय दो, §2.2 संरचनात्मक या लागू कमज़ोरी से गैर-अनुपालन](core_02_definition_structure.md#22-सरचनतमक-य-लग-कमजर-स-गर-अनपलन)।
-- अधो: अनुभाग [2.1](#21-समनय-बचव-पटरन) से [2.6](#26-अनशचतत-अखडत-और-शषण-नषध-बधन) तक प्रकार सूची; [3. गैर-अनुपालन निष्कर्ष प्रोफ़ाइल](#3-गर-अनपलन-नषकरष-परफइल); [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](core_04_burden_traceability_verification.md#5-अनपलन-सकषय-मनक); [अध्याय चार, अनुभाग 3 — पता-योग्यता की प्रेक्षणीयता अपेक्षा](core_04_burden_traceability_verification.md#3-पत-यगयत-क-परकषणयत-अपकष); [अध्याय नौ §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*प्रणाली-संरेखण प्रमाणन पुनर्खोलना और बचाव-निरोध संकेतक*); [अध्याय दस — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)।
+- अधो: अनुभाग [2.1](#21-समनय-बचव-पटरन) से [2.6](#26-अनशचतत-अखडत-और-शषण-नषध-बधन) तक प्रकार सूची; [3. गैर-अनुपालन निष्कर्ष प्रोफ़ाइल](#3-गर-अनपलन-नषकरष-परफइल); [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](core_04_burden_traceability_verification.md#5-अनपलन-सकषय-मनक); [अध्याय चार, अनुभाग 3 — पता-योग्यता की प्रेक्षणीयता अपेक्षा](core_04_burden_traceability_verification.md#3-पत-यगयत-क-परकषणयत-अपकष); [अध्याय नौ §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*प्रणाली-संरेखण प्रमाणन पुनर्खोलना और बचाव-निरोध संकेतक*); [अध्याय ग्यारह — योगदान, उल्लंघन और प्रस्थिति मॉडल](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)।
 - साथ पढ़ें: पूर्ण कार्यात्मक प्रणाली शर्तों के अधीन संयुक्त-संतुष्टि नियम के लिए [अध्याय दो, §1 — उद्देश्य और भूमिका](core_02_definition_structure.md#1-उददशय-और-भमक); [अध्याय दो, §2.4 अस्पष्टता के अधीन व्याख्या नियम](core_02_definition_structure.md#24-असपषटत-क-अधन-वयखय-नयम) — व्याख्याएँ जो सुरक्षाओं को कमज़ोर करें, जो आकलन होना चाहिए उसे सिकोड़ें, या वास्तविक-विश्व परिणाम बिगाड़ें, अमान्य हैं; [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](core_04_burden_traceability_verification.md#5-अनपलन-सकषय-मनक) — साक्ष्य को इस अनुभाग के नियमों के अधीन अनुपालन दिखाना चाहिए; प्रमाण जो यहाँ गैर-अनुपालक हो प्रमाण भार असफल करता है; [गैर-अनुपालन](../../core_05.045_band_integrative.md#non-compliance)।
 
+- [अध्याय ग्यारह — प्रस्थिति अभिलेख](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000)।
 </details>
 
 <br>
@@ -113,7 +115,7 @@
 - परिभाषा पूर्ण कार्यात्मक प्रणाली शर्तों के अधीन पूर्ण रूप से पूरी न हो:
   - अर्थगत, मापन, आकलन, और अनुपालन दायरा साथ (O, M, A, और C)
   - समय, पैमाने, जुड़ी प्रणालियों, और संचालन शर्तों के आर-पार सहित जहाँ वे मायने रखें
-- परिभाषा केवल कागज़ पर पूरी हो जबकि वह पूर्ण दायरा पूरा न हो:
+- कोई परिभाषा केवल कागज़ पर पूरी होती है, जबकि उस परिभाषा का पूरा दायरा पूरा नहीं होता:
   - केवल रूप, प्रतिनिधित्व, संरचना, प्रक्रिया, या सीमित शर्तों में
   - परिणाम जो परिभाषा के पूर्ण सुरक्षा, आकलन, या अनुपालन दायरे से असंगत हों
   - परिभाषा घटक केवल प्रतिबंधित, गैर-प्रतिनिधि, या चयनात्मक रूप से गढ़ी शर्तों के अधीन संतुष्ट
@@ -129,7 +131,7 @@
 निम्नलिखित बचाव रूप निषिद्ध हैं:
 
 - **नकली माप और कागज़ी काम** — परिभाषा जो परिणाम माँगती है उसके बजाय जो मापा, रिपोर्ट, या अभिलेखित है उसके माध्यम से अनुपालन दावा करना:
-  - माप, संकेतक, या वर्णन बैठाना जो परिभाषा जिस बारे में है उससे विचलित हों, फिर भी उत्तीर्ण दावा करना
+  - ऐसे माप, संकेतक या विवरण अपनाना जो परिभाषा की वास्तविक विषयवस्तु से अलग हों, और फिर भी उत्तीर्ण परिणाम का दावा करना
   - अंक या माप का ऐसे अनुकूलन करना जो उस वास्तविक-विश्व परिणाम को बिगाड़े जिसे परिभाषा माँगती है
   - अभिलेख, कलाकृतियाँ, या साक्ष्य प्रस्तुत करना जो तात्विक रूप से गलत बताएँ कि प्रणाली वास्तव में क्या करती है या वह अनुपालन करती है या नहीं
   - नाम, संरचना, या प्रक्रिया में अपेक्षाएँ पूरी करना बिना उस वास्तविक-विश्व प्रभाव के जिसे परिभाषा माँगती है (देखें भी [§2.1.1](#211-औपचरक-लबल-और-परतनधतव-खल))
@@ -216,7 +218,8 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [अध्याय तीन, अनुभाग 2 — प्रेक्षणीय प्रणाली आचरण से गैर-अनुपालन](#2-परकषणय-परणल-आचरण-स-गर-अनपलन); [अध्याय दो, §2 परिभाषा अखंडता अपेक्षा](core_02_definition_structure.md#2-परभष-अखडत-अपकष)।
-- अधो: [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय नौ — प्रणाली-संरेखण प्रमाणन](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय दस — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय ग्यारह — प्रस्थिति प्रभाव और एकीकरण](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 संवैधानिक दिक्सूचक और समूह मानचित्र](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
+- [अध्याय ग्यारह](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) के योगदान या उल्लंघन मापन का स्थान नहीं लेता
+- अधो: [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय नौ — प्रणाली-संरेखण प्रमाणन](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय तेरह — योगदान, उल्लंघन और प्रस्थिति मॉडल](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened); [अध्याय तेरह — प्रस्थिति प्रभाव और एकीकरण](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration); [CJS-3.1 संवैधानिक दिक्सूचक और समूह मानचित्र](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
 - साथ पढ़ें: [गैर-अनुपालन निष्कर्ष प्रोफ़ाइल](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — प्रोफ़ाइल क्षेत्रों का प्रामाणिक O/M/A/C घर; [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
 
 </details>
@@ -230,14 +233,14 @@
 - नाम ले सकती है कि [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) की कौन-सी टाँग और [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) की कौन-सी अभिमुखता विफलता का सबसे अच्छा वर्णन करे — उदाहरण के लिए निगरानी, सहभागिता, या जवाबदेही का समुन्नति या सातत्य से क्रॉस
 - यह नहीं बदलती कि अंतर्निहित परिभाषा पूरी हुई या नहीं
 - दूसरा निर्णय लेबल नहीं बनाती
-- [अध्याय दस](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) योगदान या उल्लंघन मापन की जगह नहीं लेती
+- [अध्याय ग्यारह](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) के योगदान या उल्लंघन मापन का स्थान नहीं लेता
 
 प्रस्थिति प्रभाव इस पर निर्भर करते हैं कि किसका आकलन हो रहा है और प्रणाली पहले से प्रमाणित है या नहीं। नीचे के उपखंड वे मामले तय करते हैं।
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 पहले से प्रमाणित प्रणालियों के लिए प्रस्थिति प्रभाव
 
-यदि कोई प्रणाली पहले से [प्रणाली-संरेखण प्रमाणन](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) के अधीन चल रही है—जिसमें प्रमाणन, सशर्त प्रमाणन, या ऐसा पुनःप्रमाणन शामिल है जिसकी अवधि समाप्त नहीं हुई—तो उस प्रणाली के कार्यात्मक दायरे में तात्विक सत्यापित गैर-अनुपालन को **उस प्रणाली** के लिए [अध्याय दस](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) के प्रस्थिति मापन में **अवश्य** शामिल किया जाना चाहिए। केवल वे तथ्य शामिल हो सकते हैं जो [सत्यापित-इनपुट द्वार](../../core_10.000_standing_assessment.md#verified-inputs-for-standing) पार करते हैं। [अध्याय दस](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) के अधीन प्रस्थिति मापें; उसका एकीकरण और प्रभाव [अध्याय ग्यारह](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) के अधीन लागू करें। पुनःखोलना, वापस लेना, या प्रमाणन के अन्य परिणाम [अध्याय नौ](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) के अधीन रहते हैं। वे उस प्रणाली के प्रस्थिति अभिलेखों का स्थान नहीं लेते।
+यदि कोई प्रणाली पहले से [प्रणाली-संरेखण प्रमाणन](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) के अधीन चल रही है—जिसमें प्रमाणन, सशर्त प्रमाणन, या ऐसा पुनःप्रमाणन शामिल है जिसकी अवधि समाप्त नहीं हुई—तो उस प्रणाली के कार्यात्मक दायरे में तात्विक सत्यापित गैर-अनुपालन को **उस प्रणाली** के लिए [अध्याय तेरह](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) के प्रस्थिति मापन में **अवश्य** शामिल किया जाना चाहिए। केवल वे तथ्य शामिल हो सकते हैं जो [सत्यापित-इनपुट द्वार](core_11_standing_assessment.md#25-verified-input-gate) पार करते हैं। [अध्याय तेरह](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) के अधीन प्रस्थिति मापें; उसका एकीकरण और प्रभाव [अध्याय तेरह](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) के अधीन लागू करें। पुनःखोलना, वापस लेना, या प्रमाणन के अन्य परिणाम [अध्याय नौ](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) के अधीन रहते हैं। वे उस प्रणाली के प्रस्थिति अभिलेखों का स्थान नहीं लेते।
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 प्रथम प्रमाणन पर प्रस्थिति प्रभाव
@@ -258,7 +261,7 @@
 - छिपाव
 - व्यवहार्य रोकथाम क्षमता
 
-किसी संस्था की प्रस्थिति तब प्रभावित होती है जब संस्था आकलन का विषय हो, या जब वह गैर-अनुपालन पैटर्न के वाहन के रूप में सत्यापित हो। संस्था अभिलेख व्यक्तिगत संज्ञ अभिलेखों से अलग पता-योग्य रहते हैं। वे मामले [अध्याय दस](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) और [अध्याय ग्यारह](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) के अधीन लागू करें। निष्कर्ष प्रोफ़ाइल मार्गन और लेखापरीक्षा में मदद करती है। वह स्वयं प्रस्थिति परिणाम, स्लॉट, ताले, द्वार, या उपचार तय नहीं करती।
+किसी संस्था की प्रस्थिति तब प्रभावित होती है जब संस्था स्वयं आकलन का विषय हो, या जब यह सत्यापित हो कि गैर-अनुपालन पैटर्न उसके माध्यम से संचालित हुआ। संस्था के अभिलेख व्यक्तिगत संज्ञ प्राणियों के अभिलेखों से अलग पता लगाने योग्य रहते हैं। इन मामलों को [अध्याय तेरह](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) और [अध्याय तेरह](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) के अंतर्गत लागू करें। निष्कर्ष प्रोफ़ाइल मार्गन और लेखापरीक्षा में सहायता करती है। वह स्वयं प्रस्थिति-परिणाम, स्लॉट, ताले, द्वार या उपचार तय नहीं करती।
 
 <a id="34-operational-constraints"></a>
 #### 3.4 संक्रियात्मक बंधन

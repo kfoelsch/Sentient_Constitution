@@ -118,7 +118,7 @@ flowchart TB
 
 [참여 자격](../../core_05.035_band_accountability.md#participant-standing-constitutional)은 헌법상 유효한 자격 기록, 자격 효과, 또는 지정 경로에 대한 [역량 기준](../../core_05.035_band_accountability.md#competency-bar)으로 인정되는 참여 지위 또는 역할 적격성이다. 이는 평판이나 사회적 명성이 아니며 그 자체로 접근을 제한하지 않는다. 제한 결과는 지정된 특권 경로에 대한 [자격 효과](../../core_05.035_band_accountability.md#standing-effect-chapter-six) 및 [자격 잠금](../../core_05.035_band_accountability.md#standing-lock)을 통해서만 발생한다.
 
-이 조항에 따른 자격 규율은 [헌법 사분면](core_00_preamble.md#constitutional-tetrad), [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims), [시스템 정합성 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), 그리고 [제9장부터 제12장까지의 자격 및 포럼 감독 연계](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)를 함께 이행한다. 이 상위 계층 절차는 검증된 기여와 위반을 측정하고 구제를 감독한다. 이를 **제III-A조**(*생존*)의 생존 필수 요소나 이 장의 다른 권리 기본선을 무력화하는 데 사용해서는 안 된다.
+이 Article의 standing 규율은 [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad)와 [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims)를 [System Alignment Certification](../../core_05.040_band_continuity.md#system-alignment-certification) 및 [Chapters Eleven–Fifteen standing 및 forum 감독 pipeline](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)과 함께 구현한다. 이 owner-layer 절차는 검증된 기여와 violation을 측정하고 구제를 감독한다. 이를 **Article III-A** (*Survival*)의 생존 필수 요건이나 이 장의 다른 Rights Floor를 무력화하는 데 사용해서는 안 된다.
 
 다음은 서로 구별되어야 한다.
 - 고유한 존엄성;
@@ -182,7 +182,7 @@ flowchart TB
   - 역할 지위를 권리 기본선의 최저 보장이나 시스템이 실제로 영향을 미쳐 누군가가 이해관계자인지 판단하는 일의 대체물로 삼는 것;
   - <a id="anti-substitution-sentience-status-xviii"></a>지성체 지위 판단을 대체하는 것. 지성체 지위는 **제VI-B조**(*지성체 지위 판정 기본선*)에 따라서만 결정된다;
   - 자격 기록이 없다는 점을 불리한 사실로 취급하거나, 생존 필수 요소, 통상 거래, 영향받은 당사자로서의 참여 조건으로 기록 또는 "기록 없음" 확인을 요구하는 것 — [제9장 §2.1](core_08_standing_assessment.md#21-silence-is-the-default)(*침묵이 기본값*)에 따라 기록이 없는 것이 통상 상태다;
-  - **제XI-D조**([*반대 의견 및 평화적 항의 기본선*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest))에 따른 반대 의견이나 평화적 항의를 지정 경로의 불리한 사실 또는 가중 요소로 삼는 것; 또는
+  - **Article XI-D** (*집회, dissent 및 평화적 항의*)에 따른 dissent 또는 평화적 항의를 (../../[*dissent 및 평화적 항의 하한선*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) 어떤 gated pathway에서도 불리한 사실 또는 가중 요소로 취급해서는 안 된다. 또는
   - 지정 경로의 효과를 프로필, 순위, 공개 표시로 합산하는 것 — [제10장 §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)(*지정 경로 효과의 합산 금지*).
 
 <a id="article-xix-b-contestability-and-proportional-restriction-limits"></a>
@@ -221,7 +221,7 @@ flowchart TB
 이 조항은 자격 제한의 이의 제기 가능성과 비례성 한계를 정한다.
 
 - **검증 입력 요건 및 기록 이의 제기:** 자격, 신뢰, 역할, 인정 또는 인정받을 자격에 영향을 주는 결정은 [제9장 §2 질문 1 — 무슨 일이 있었는가?](core_08_standing_assessment.md#2-question-1--what-happened)에 따라 축별로 순수한 **기여 자격 기록** 또는 **위반 자격 기록**의 검증된 입력만 사용해야 한다. 혐의, 판결되지 않은 주장, 잠정 경로 표지, 접수 단계의 진술만으로는 위반 성격 또는 기여 성격의 근거가 되지 않는다.
-  - 모든 자격 기록은 이의를 제기하는 방법, 검토 포럼 또는 권한, [제9장 §3.1 기록의 최소 내용](core_08_standing_assessment.md#31-minimum-record-contents)에 따른 시정·복원·만료·정기 검토 조건을 밝혀야 한다.
+  - 모든 standing record에는 [Chapter Eleven §4.1 Minimum record contents](../../core_11.000_standing_assessment.md#41-minimum-record-contents)에 따라 이의를 제기하는 방법, 검토하는 forum 또는 기관, 수정·복원·만료·정기 검토 조건이 명시되어야 한다.
   - 연결된 기여 기록과 위반 기록은 필요한 경우 서로를 참조하고, 감사 가능하고 이의 제기에 열려 있어야 하며, 하나의 점수나 섞인 장단점 판단 또는 구분되지 않는 자격 표지로 합쳐져서는 안 된다.
 - **다원성과 이의 제기 가능성:** 자격 평가는 다원적이고 감사 가능해야 하며, 의미 있는 검토에 충분히 투명하고 이의를 제기할 수 있어야 한다.
   - 단일 권한, 데이터 집합, 평판 경로, 불투명한 알고리즘 시스템이 의미 있는 검토를 막는 방식으로 자격을 일방적으로 결정해서는 안 된다.
@@ -314,7 +314,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
 - 상위 원칙: 제1장 [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
-- 하위 연계: [제11장 §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks)(*자격 잠금*), [제11장 §8](core_09_standing_integration.md#8-restoration-and-reassessment)(*복권과 재평가*).
+- 후속 연계: [Chapter Thirteen §5.2](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*standing lock*); [Chapter Thirteen §9](../../core_13.000_standing_integration.md#9-restoration-and-reassessment) (13.000 §9) (*복원 및 재평가*).
 - 함께 읽기: [제XIX-E조](#제xix-e조-투표-및-특별-잠금)(*투표 및 특별 잠금*), [제10장 §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)(*통합 척도*), **제XX-B조**(*제한의 기본선*), [제XXII-D조](#제xxii-d조-제한구금비상-규율)(*자격은 국경이 아니다*).
 
 </details>
@@ -339,7 +339,7 @@ flowchart TB
 
 - **검증된 판단만 위반 성격의 근거로 사용:** [위반 성격](../../core_05.035_band_accountability.md#violation-nature)은 **제2장부터 제4장**과 [제10장](core_08_standing_assessment.md#verified-inputs-for-standing)을 충족하는 감사 가능하고 이의 제기 가능한 판단에 근거할 때만 자격에 영향을 줄 수 있습니다. 고발, 접수 단계의 표지, 잠정 분류, 포럼 절차 단계의 서술만으로는 부족합니다.
   - 중요한 의무와 역량이 있었는데도 불법 또는 위헌 지시에 동조해 참여하거나 저항하지 못한 경우를 **제5장**(*집단 책임 실패*)에 따라 자격과 잠금에 반영해야 합니다.
-- **자격 잠금:** [자격 잠금](../../core_05.035_band_accountability.md#standing-lock)은 역량 승인에 대응하는 제한 조치입니다. 검증된 위반 판단이 해결되지 않았거나 실질적으로 시정되지 않은 동안 [제11장 §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks)(*일반 자격 잠금*)에 따라 신뢰, 역할, 권한, 신용, 감독, 인정, **거버넌스 투표**, **이해관계자 참여** 경로를 막거나 제한할 수 있습니다. 제한적 결과는 명시된 특권 경로에 자격 잠금을 설정하는 경우에만 발생합니다. 검증된 위험이 요구하면 [제11장 §5.1](../../core_11.000_standing_integration.md#51-separation-limits)(*정의와 부과*)의 분리 한도 안에서 특정 환경, 네트워크, 지성체로부터 분리하는 조치도 포함될 수 있습니다.
+- **자격 잠금:** [자격 잠금](../../core_05.035_band_accountability.md#standing-lock)은 역량 승인에 대응하는 제한 조치입니다. 검증된 위반 판단이 해결되지 않았거나 실질적으로 시정되지 않은 동안 [제11장 §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks)(*일반 자격 잠금*)에 따라 신뢰, 역할, 권한, 신용, 감독, 인정, **거버넌스 투표**, **이해관계자 참여** 경로를 막거나 제한할 수 있습니다. 제한적 결과는 명시된 특권 경로에 자격 잠금을 설정하는 경우에만 발생합니다. 검증된 위험이 요구하면 [제11장 §5.1](../../core_13.000_standing_integration.md#615-separation-limits)(*정의와 부과*)의 분리 한도 안에서 특정 환경, 네트워크, 지성체로부터 분리하는 조치도 포함될 수 있습니다.
   - 자격 잠금은 존엄의 서열, 권리 기본선의 축소, 자동 보복, 통합된 공로 점수가 아니다.
   - 모든 잠금에는 차단되는 접근, 보호 대상, 해제 전에 필요한 시정 조건, 이의 제기·재검토 경로, 재평가 시점을 명시해야 합니다. [제XIX-B조](#article-xix-b-contestability-and-proportional-restriction-limits)에 따라 필요성, 비례성, 감사 가능성, 이의 제기 가능성을 유지해야 합니다.
   - 역량 승인은 적용되는 자격 잠금을 면제하지 않으며, 선한 기여도 해결되지 않은 검증 위반 판단을 지우지 않습니다.
@@ -347,7 +347,7 @@ flowchart TB
   - 자격 잠금은 개인별 사법 절차를 대체하지 않으며, **그 자체만으로** 이동, 피난처, 이동성, 탈퇴를 제한하지 않습니다([제XXI조](#제xxi조-상호운용성-이동성-탈퇴의-완전성) 및 [제XXII조](#article-xxii-movement-migration-refuge-and-non-statelessness)).
 - **피해에 맞는 잠금:** 잠금은 검증된 피해의 심각성, 보호하려는 구체적인 역할 또는 특권, 복구 진행 정도에 맞아야 합니다.
   - **과거의 기여:** 지성체가 피해를 복구하거나 안전장치를 유지하거나 재발을 막을 수 있음을 보여 주거나 재평가 때 더 가벼운 제한을 뒷받침할 때만 고려할 수 있습니다([제10장 §2](core_08_standing_assessment.md#2-question-1--what-happened)). 해결되지 않은 피해 판단을 상쇄·면제·평균화하거나 대체할 수 없습니다.
-  - **덜 심각한 피해:** [제10장 §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)의 통합 비례 LEQU 척도상 덜 심각한 피해 판단은 반복 양상, 회피, 중대한 피해와의 연계가 없는 한 장기 배제를 정당화하지 않습니다.
+  - **덜 심각한 해악:** [Chapter Twelve §6](../../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*통합 비례 LEQU 척도*)에 따라 측정한 덜 심각한 해악 finding은 반복 패턴, 회피 또는 material harm과의 연결이 없는 한 장기 배제를 정당화하지 않는다.
   - **행위 방식:** 부주의, 은폐, 강압, 반복 여부는 검토에 반영될 수 있지만 피해 자체의 심각성 등급을 바꾸지는 않습니다.
   - **반복 또는 은폐 행위:** 반복이나 책임 은폐를 이유로 더 엄격한 제한을 두더라도 필요성, 비례성, 재검토 가능성, 검증된 판단과의 연계를 갖춰야 합니다.
 - **복권 및 고착 방지:** 위반 판단 때문에 자격이 낮아졌다면 시스템은 [제11장 §8](core_09_standing_integration.md#8-restoration-and-reassessment)(*복권과 재평가*)에 따라 명확한 재검토 조건, 시정에 근거한 복원, 정기 재평가를 제공해야 합니다.
@@ -361,7 +361,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
 - 상위 원칙: 제1장 [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency) 및 [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
-- 하위 연계: [제11장 §5.5](core_09_standing_integration.md#55-special-locks)(*특별 잠금*), [제14장 §4.1](core_12_governance.md#41-entitlement-and-eligibility)(*권리와 자격*).
+- 후속 연계: [Chapter Thirteen §6.5](../../core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5) (*특별 lock*); [Chapter Sixteen §4.1](../../core_16.000_governance.md#41-entitlement-and-eligibility) (16.000 §4.1) (*Entitlement and eligibility*).
 - 함께 읽기: [제XIX-D조](#제xix-d조-위반과-자격-잠금)(*위반과 자격 잠금*), **제X-B조**(*거버넌스 참여 및 투표 자격*), **제12장**(*반헌법적 위법 행위*).
 
 </details>
@@ -409,7 +409,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
 - 상위 원칙: 제1장 [§3 기본 목적: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
-- 하위 계층: [제10장 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)(*위반, 시정, 예방*); [제11장 §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)(*분류 절차의 보호, 구제, 예방*).
+- 후속 연계: [Chapter Thirteen §5](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention) (13.000 §5) (*Violation, correction, and prevention*); [Chapter Fourteen §4](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (14.000 §4) (*적법 절차 safeguards, 구제 및 예방*).
 
 </details>
 
@@ -430,7 +430,7 @@ flowchart TB
 *인접 조항:*
 
 - **분쟁 해결, 검토, 적시성:** 헌법상 권리 기본선, 사후 검토, 권리 충돌, 지연 방지에 관한 분쟁은 [**제XXV조**](core_06_rights_part_e.md)(*적시 사후 검토와 회복적 정합*)가 규율한다.
-- **비상 조치:** [제12장 §6.1 비상 조치와 계속 부담](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)에 따른다. 비상 조치가 부과하는 제한은 **제XX-B조**(*제한의 기본선*)와 함께 읽는다.
+- **긴급 조치:** [Chapter Fifteen §6.1 Emergency measures and continuation burden](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)이 규율하며, 긴급 조치가 부과하는 제한은 **Article XX-B** (*Restriction Floors*)와 함께 읽는다.
 - **참여 자격:** [**제XIX조**](core_06_rights_part_d.md#제xix조-참여-자격과-참여-지위)(*참여 자격과 참여 지위*)가 참여 자격을 규율한다. 이 조항의 정의 조치는 별개이며 자격 표지를 우회 수단으로 삼지 않는다.
 - **적시 구제:** [**제XIII-B조**(*구제 및 시정 권리*)](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리)(*적시에 구제받을 접근*)와 함께 읽는다.
 
@@ -513,7 +513,7 @@ flowchart TB
   - 비례적인 배상 또는 구제;
   - 가능한 경우 재활 또는 재발 감소;
   - **제2장부터 제4장까지**에 따라 누구나 감사할 수 있는 증거로 공로와 결과를 올바른 행위자에게 귀속한다.
-- **개별화된 부담:** 조치는 집단 표지나 대리 변수가 아니라 해당 지성체 또는 역할을 대상으로 해야 하며 이의 제기와 독립 검토가 가능해야 한다. 가혹한 표지, 공개 비난, 행정상 지름길은 위의 공동 요건을 입증하는 일을 대신하지 않는다. 잠금 설계와 집행은 [제10장 §5 잠금 설계와 집행](core_09_standing_integration.md#5-lock-design-and-enforcement)이 규율한다.
+- **개별화된 부담:** 모든 조치는 관련된 특정 sentient 또는 역할을 대상으로 해야 하며 — 집단 label이나 proxy가 아니라 — 이의 제기 및 독립 검토에 열려 있어야 한다. 가혹한 label, 공개 비난 또는 행정적 shortcut은 위의 모든 공동 요건을 입증하는 일을 대신하지 못한다. Lock 설계 및 집행은 [Chapter Thirteen §6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement)이 규율한다.
 - **최소 제한 및 시한 기본선:** 정의, 격리, 회복적 책임 조치에는 [**최소 제한·시한·검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)이 적용된다. 개입이 필요하면 각 조치에 다음을 포함해야 한다.
   - 명시적인 기간 한도;
   - 정기 검토 일정;
@@ -976,7 +976,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: **제XXIV조**(*근본 원인 분석과 적응적 대응*)는 진짜 문제를 찾아 제대로 고치는 기본선이다. 무언가가 고장 나거나 저하되거나 계속 실패하면 보도자료나 임시방편 이상의 대응을 받을 권리가 있다. 시스템은 뒤늦게 나타나거나 시간이 지나며 쌓이는 원인까지 포함해 피해의 실제 원인을 찾아야 한다. 가능한 경우 그 원인을 다루고, 다른 사람이 확인하고 이의를 제기할 수 있는 기록을 남겨야 한다. 신속한 격리는 허용되지만 정직한 진단 없는 영구 해결책은 허용되지 않는다.*
+*쉽게 말해 **Article XXIV** (*근본 원인 분석과 적응적 대응*)는 실제 문제를 찾아 제대로 고치는 하한선이다. 무엇인가 망가지거나 저하되거나 계속 실패할 때 보도자료나 임시방편 이상의 조치를 받을 권리가 있다. system은 늦게 드러나거나 시간이 지나 쌓이는 원인을 포함해 실제 피해 원인을 찾아 가능한 범위에서 해결하고, 다른 사람이 확인하고 이의를 제기할 수 있는 공식 기록을 남겨야 한다. 신속한 containment는 허용되지만 정직한 진단 없는 영구 해결은 허용되지 않는다.*
 
 이 조항은 [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims)에 따라 근본 원인 분석과 적응적 대응의 **헌법상 기본선**을 정한다.
 
@@ -1158,7 +1158,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
 - 상위 원칙: 제1장 [§13.1.5 권리 충돌 판단 기준](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
-- 함께 읽기: [제10장 §5.5](core_09_standing_integration.md#55-special-locks)(*포럼 공개 누락과 회피 절차의 영향*); [제11장 §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)(*지정 위법행위 패턴*); [제12장 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 및 [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)(*무결성 우선 배정 및 자기 판단 금지*).
+- 함께 읽기: [제10장 §5.5](core_09_standing_integration.md#55-special-locks)(*포럼 공개 누락과 회피 절차의 영향*); [제11장 §5.10](../../core_14.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)(*지정 위법행위 패턴*); [제12장 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 및 [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)(*무결성 우선 배정 및 자기 판단 금지*).
 
 </details>
 

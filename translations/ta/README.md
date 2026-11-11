@@ -19,6 +19,10 @@
 
 **முதல் வெட்டு, கட்டமைப்பின்படி.** அனுப்பும் வரிசை முதலில் எளிய-நுழைவுச் சுருக்கங்களையும், உரிமைத் தளத் தாளையும், பொதுக் கதவையும் கேட்கிறது. இந்த முன்னோடி வேண்டுமென்றே [முகவுரை](core_00_preamble.md) மற்றும் [அத்தியாயம் ஒன்று, பகுதி அ](core_01_a_values_principles.md) ஆகியவற்றை மொழிபெயர்க்கிறது, எண்ணிடப்பட்ட ஒரு `core_*` எவ்வளவு செலவாகும் என்பதை அளக்க. அத்தியாயம் ஒன்று, பகுதி ஆவும் இங்கு சேர்க்கப்பட்டுள்ளது.
 
+
+
+**உள்ளடக்க வரம்பு புதுப்பிப்பு (2026-11-11).** இந்தக் கோப்புறையில் `05b7b839` commit-இல் உள்ள ஆங்கில மூலத்தை ஒட்டி தயாரிக்கப்பட்ட அத்தியாயங்கள் 11 மற்றும் 12-இன் முழுமையான, AI உதவியுடன் உருவாக்கப்பட்ட வரைவு மொழிபெயர்ப்புகள் உள்ளன. அவை இன்னும் தனித்துச் சரிபார்க்கப்படவில்லை. முந்தைய மொழிபெயர்ப்புகள் பழைய மூலப் பதிப்புகளைப் பிரதிபலிக்கலாம்; ஆங்கில மூலமே தீர்மானிக்கும் உரை.
+
 ## கோப்புகள்
 
 | கோப்பு | ஆங்கில மூலம் |
@@ -42,9 +46,15 @@
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 | [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 
 முன்னோடியின் இணைப்புகள் இன்னும் மொழிபெயர்க்கப்படாத ஆங்கிலக் கோப்புகளையே சுட்டுகின்றன. HTML நங்கூரங்கள் (`id`) மூலத்திலிருந்து நகலெடுக்கப்பட்டவை, பகுதிக்குப் பகுதி ஒப்பீடு செய்ய.

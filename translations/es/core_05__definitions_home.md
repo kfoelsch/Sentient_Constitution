@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): orden de lectura y nota de lenguaje llano</span></strong></summary>
 
-> Nota de lectura en lenguaje llano: lea el **Capítulo Uno** para valores y dirección de alto nivel; los **capítulos Dos a Cuatro** para estructura de las definiciones, integridad y mecánica de verificación; y el **Capítulo Seis** para el piso fundacional de **derechos**, luego vuelva a este capítulo para precisión de términos en interpretación, auditoría y adjudicación. (Otros capítulos, incluidos el **Capítulo Diez** *Inconducta* y el **Capítulo Ocho** *Trayectoria*, aplican en sus propias vías de lectura; no sustituyen el Piso de Derechos del Capítulo Seis ni la mecánica de definiciones de los capítulos Dos a Cuatro.)
+> Nota de lectura en lenguaje sencillo: Lea el **Capítulo Uno** para conocer los valores y la orientación generales; los **Capítulos Dos a Cuatro** para la estructura de las definiciones, su integridad y los mecanismos de verificación; y el **Capítulo Seis** para el piso fundamental de **derechos**. Después, vuelva a este capítulo para precisar los términos en la interpretación, la auditoría y la adjudicación. (Otros capítulos también se aplican por sus propias rutas de lectura, incluido el **Capítulo Catorce**, *Conducta indebida*, y el **Capítulo Once**, *Situación*; no sustituyen el Piso de Derechos del Capítulo Seis ni los mecanismos de definición de los Capítulos Dos a Cuatro.)
 
 </details>
 

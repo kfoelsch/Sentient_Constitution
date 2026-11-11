@@ -126,7 +126,7 @@
 - 上流： 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — [実質的利害](core_00_preamble.md#material-stake) scaling.
 - クラスター構成要素： [実質性、影響、リスク、および代替指標の誠実性](core_05_band_oversight.md#materiality-semi-independent).
 - あわせて読む： [依存](../../core_05.040_band_continuity.md#dependency), [実質的影響](core_05_band_oversight.md#実質的影響), [リスク](../../core_05.040_band_continuity.md#risk), [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity), and [監督](core_05_apex_oversight_leg.md#oversight-constitutional).
-- 下流： [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
+- 下流: [第 9 章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) ～ [§5 権利フロアおよびドメインの評価](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) — クラス規模のシステム全体の評価義務。
 
 </details>
 
@@ -148,7 +148,7 @@
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **第一次の評価：** Use the real class under the implementation rules, read with [実質性の判定](core_05_band_oversight.md#実質性の判定) and [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [監督](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
+**一次評価:** [マテリアリティ](../../core_05.050_band_oversight.md#materiality) および [システム境界整合性](../../core_05.040_band_continuity.md#system-boundary-integrity) を参照して、実装ルールに基づいて実際のクラスを使用します。システムの完全な効果がより強力な [監督](core_05_apex_oversight_leg.md#oversight-constitutional) またはガバナンスを必要とする場合、自己割り当てまたは非公式の下位クラスでは十分ではありません。 [第 9 章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§4 関係する評価](../../core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated)、および [§5 権利フロアとドメインの評価](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) に基づくシステム全体のレビューは、クラスごとにスケールされます。
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -376,7 +376,7 @@ Implication can exist without misalignment. Misalignment always implies material
 - **保管：** *運営当事者は他者にとって重要なものを保管し、その他者は安全な管理を運営当事者に依存しているか。*
   - **重要となる場合：** 運営当事者自身の活動のため構成員が拠出したものを越えて、資金、資産、認証情報、鍵、または他の感知者に関する記録・データを運営当事者が保管し、他者が安全性、正確性、または利用可能性を運営当事者に依存している場合。[恒久記録](../../core_05.035_band_accountability.md#standing-record)を保管する場合、またはフォーラム、認証機関、記録所として機能する場合も含む。非構成員に関する個人情報または機微情報も数える。
   - **重要でない場合：** 集団自身の備品購入に使う構成員の共同会計、および集団の連絡に使い、構成員が把握している連絡先一覧。
-  - **所管：****第二条E**（*データ取扱いとネットワーク依存*）、**第九条**（*肖像、経験データ、公表権*）、**第十六条**（*監査、透明性、独立検証*）、[第十章§3.7 記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)。
+  - **所管：****第二条E**（*データ取扱いとネットワーク依存*）、**第九条**（*肖像、経験データ、公表権*）、**第十六条**（*監査、透明性、独立検証*）、[第十章§3.7 記録の保管と開示権限](core_11_standing_assessment.md#5-record-custody-and-opening-authority)。
 <a id="domain-specific-materiality-information"></a>
 - **情報と真実：** *他者は安全、金銭、健康、権利、地位を決める際に、運営当事者の発言を真実として頼るか。*
   - **重要となる場合：** 運営当事者が、発言、公表、評価、認証した内容を、情報源を知る者の範囲を越える他者が、上記の判断に際して真実として依拠すると予見できる場合。または他者が情報の発見・評価に使う[情報圏](../../core_05.055_band_participation.md#info-sphere)基盤（プラットフォーム、索引、評価システムなど）を運営する場合。
@@ -399,7 +399,7 @@ Implication can exist without misalignment. Misalignment always implies material
       - **地域の回復を助ける活動：** 再植林、生息地・小川の修復、侵入種の除去、土壌の再生、清掃など、生態系を積極的に回復する作業は損傷ではなく、この問いにおいて運営当事者を重要にしない。生態系が支えられる範囲で行われるなら、通常の地域活動である。次の場合に限って重要となる。
         - 回復作業自体が上記三つのテストのいずれかを満たす（例：導入種が広がる、または水流の変更が下流域に害を及ぼす）。または
         - 別の領域の線を越える（例：他者が依存する土地・資金を保有する、または回復に関する他者が依拠する主張を公表する）。
-      - **貢献としての回復作業：** 回復作業は[第十章§4.3 貢献経路記述子カタログと測定上の役割](../../core_10.000_standing_assessment.md#43-contribution-route-descriptor-catalog-and-measurement-roles)に基づきEcological Stewardshipとして認識される。各構成員はSystem CharterまたはInstitutional Charterなしに、個人の申立人としてその記録を請求できる（[第十章§3.7 記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)）。
+      - **貢献としての回復作業：** 回復作業は[第十章§4.3 貢献経路記述子カタログと測定上の役割](../../core_10.000_standing_assessment.md#43-contribution-route-descriptor-catalog-and-measurement-roles)に基づきEcological Stewardshipとして認識される。各構成員はSystem CharterまたはInstitutional Charterなしに、個人の申立人としてその記録を請求できる（[第十章§3.7 記録の保管と開示権限](core_11_standing_assessment.md#5-record-custody-and-opening-authority)）。
       - **所管：** **第一条A**（*環境上の前提条件と生態系の健全性*）および**第一条D**（*存亡リスクと生態学的回復能力*）。
     - <a id="domain-specific-materiality-systemic"></a>**システム全体および不可逆の影響。** *活動は単独で、または他者とともに、権力を集中させ、共有物を掌握し、障害を波及させ、または元に戻せない状態を固定する可能性があるか。*
       - **重要となる場合：** 運営当事者の活動が、単独で、共通の管理下にある他者とともに、または同じ共有システム上で、権力を集中させ、共有機能を掌握し、システム間で障害を連鎖させ、もしくは実質的に覆せない状態を固定する可能性がある場合。または[存亡リスク](../../core_05.040_band_continuity.md#existential-risk)への信頼できる因果経路を生み出す場合。
@@ -410,7 +410,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **関連する運営当事者を合算する：** 実質的に一つの運営である運営当事者の活動は合算する。同じ感知者、事務所、または運営当事者が各当事者の活動（何を提供し、誰に、どの条件で提供するか、または継続するか）を指示または覆す権限を持つ場合、あるいは同じ活動を一つのサービスの一部として行う場合、それらは一つの運営である。これは共通の実務上の支配に関する独立した判定であり、運営当事者の活動に適用し、一つの行為における席の独立性とは区別する。資金提供だけ、施設・業者の共有、構成員の重複、または共同専門職実務で同じ受入側の手段を使うこと（**CI-4.7**）だけでは合算しない。資金提供者を含めるのは、その資金が活動を指示または覆す権限を与える場合に限る。
   - **負荷がかかった共有システム：** 複数の運営当事者が、すでに逼迫している同じ河川、市場、またはネットワークに負荷を加える場合、各当事者を単独ではなく全体の負荷への限界寄与で評価する。意味のある寄与は実質的であり、些細な寄与は、システム全体が閾値を超えていても実質的ではない。
 <a id="domain-specific-materiality-c"></a>
-- **異議申立ての経路：** 既存の手続を用い、この項目は新たな機関、フォーラム、料金を設けない。システムは[§7.4 システム分類記録への異議申立て](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability)、制度は[第九章D部§14.2](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)と[§14.4](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)。申立てでは、特定領域の具体的な閾値超過を示し、運営当事者は書面の根拠で応答する。
+- **異議申立ての経路：** 既存の手続を用い、この項目は新たな機関、フォーラム、料金を設けない。システムは[§7.4 システム分類記録への異議申立て](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability)、制度は[第九章D部§14.2](core_10.000_institutional_alignment_certification.md#92-reopening-triggers)と[§14.4](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)。申立てでは、特定領域の具体的な閾値超過を示し、運営当事者は書面の根拠で応答する。
   - まず運営当事者の公表済み手続が[第二十六条C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限内に応答する。解決しない、または応答がない場合にフォーラムへ進み、遅延が権利・証拠・独立性を危うくする場合は直接申し立てられる。
   - 具体的な閾値超過を示さない申立ては補完のため返される。これは本案判断ではなく、申立人の期限を消費せず、再提出できる。フォーラムでは通常の受付区分に回し、受付時に却下しない。
   - 同じ運営当事者、または一つの運営とみなされる運営当事者に対する同じ閾値の申立ては併合して審理する。
@@ -428,7 +428,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
 - 憲法上の枠組み：[憲法上の四分法](../../core_00.000_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](../../core_00.000_preamble.md#two-constitutional-aims)、[実質的利害](../../core_00.000_preamble.md#material-stake)。
-- 下流：[領域別の重要性](core_05_band_oversight.md#領域別の重要性)、[第七章 §3 システム憲章および制度憲章が必要となる場合](core_07_charters.md#1-when-system-and-institutional-charters-are-required)、**CS-3**、[憲章当事者](../../core_05.040_band_continuity.md#chartered-party)。
+- 下流: [ドメイン固有の重要性](#domain-specific-materiality) (*9 つの質問は 運営主体*); [第 7 章 §1 システム憲章および制度憲章が必要な場合](core_07_charters.md#1-when-system-and-institutional-charters-are-required) (7.000 §1) (*運営主体 が システム憲章 または 機関憲章 を発行する必要があるかどうか*); **CS-9.305 (*システム分類機構*) および CS-9.310** (*システム影響分類*) (*そのクラス*)。 [憲章主体](../../core_05.040_band_continuity.md#chartered-party) (*システム憲章 または 機関憲章 を発行した 運営主体、または必須*)。
 - 運営当事者とは、システム、制度、またはより小さな集団のいずれかが判明する前に、領域別の重要性に関する九つの問いを適用する相手をいう。すべての憲章当事者は運営当事者だが、憲章を公表していないクラスPの運営当事者は憲章当事者ではない。この名称は義務、分類、門戸を追加しない。
 
 </details>
@@ -452,7 +452,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- ダウンストリーム: 原則: [第 9 章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) から [§5 権利フロアとドメインの評価](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (評価における集約と境界の整合性)。 [第 1 章 §13.2.4 プロキシダイバージェンスの無効化](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (重要性を操作できる指標と現実のギャップ)。
 - あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [システムの境界](../../core_05.040_band_continuity.md#system-boundaries), [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity), [システム的実質性](../../core_05.035_band_accountability.md), [監査可能性](core_05_band_oversight.md#監査可能性), and [説明責任](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -583,7 +583,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [6.1.3 比例](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- ダウンストリーム: 原則: [13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality) (不確実性の下での可逆性)。 [第 9 章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) から [§5 権利フロアおよびドメインの評価](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (漏洩被害に対する予防措置)。
 - あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
 
 </details>
@@ -694,7 +694,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- ダウンストリーム: 原則: [第 9 章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) から [§5 権利フロアおよびドメインの評価](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)。 [2.1.交渉不可能な制約: 安全性と真実](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**安全性** / **真実** 劣化パス)。
 - あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [システム的実質性](../../core_05.035_band_accountability.md), [リスク](../../core_05.040_band_continuity.md#risk), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and [意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
@@ -796,7 +796,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 責務ある管理と分散理解](core_01_c_stewardship_capacity_principles.md), [6.2.1 認識的誠実性の保全](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- ダウンストリーム: 原則: [憲法四元](core_00_preamble.md#constitutional-tetrad) — **監督** レッグ; [第 1 章 §16 責務ある管理 の詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16)、[13.2.1 認識整合性の保持](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
 - あわせて読む： [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [監査可能性](core_05_band_oversight.md#監査可能性), [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示), [リスク開示](core_05_band_oversight.md#リスク開示), [検証可能性](core_05_band_oversight.md#検証可能性), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
@@ -936,7 +936,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： Oversight measurement family (*disclosure and assurance as constitutional measurement*); 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Safety](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- 下流： Oversight measurement family (*disclosure and assurance as constitutional measurement*); 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Safety](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
 - あわせて読む： [リスク評価](../../core_05.040_band_continuity.md#risk-evaluation), [リスク](../../core_05.040_band_continuity.md#risk), [透明性](core_05_band_oversight.md#透明性), [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
@@ -948,7 +948,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **それが何か**
   - **範囲内：** Communicating evaluated systemic [リスク](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
     - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [透明性](core_05_band_oversight.md#透明性) or [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **SAC verification:** Where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors); findings live on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **範囲外：**
     - [リスク評価](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示) as the broader public baseline floor; or
@@ -1128,7 +1128,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
   - **Charter and scope process:** Where a governing [チャーター](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [システムの境界](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **範囲外：**
     - [チャーター](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1174,7 +1174,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- オーナーフロア: [条項 XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*検証アクセシビリティ*) 実用的な検証アクセス用。
 - あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [透明性](core_05_band_oversight.md#透明性), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [比例性](../../core_05.035_band_accountability.md#proportionality), [実行可能性](../../core_05.035_band_accountability.md#feasibility), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件).
 
 </details>

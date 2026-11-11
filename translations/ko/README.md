@@ -19,6 +19,8 @@
 
 **아키텍처에 따른 첫 조각.** 배포 순서는 쉬운 입문 안내, 권리 바닥 한 장, 공개 문을 먼저 요구한다. 이 시험본은 번호 `core_*` 하나의 비용을 재려고, 일부러 [전문](core_00_preamble.md), [제1장 A부분](core_01_a_values_principles.md), [제1장 B부분](core_01_b_interaction_interpretation.md), [제1장 C부분](core_01_c_stewardship_capacity_principles.md)을 옮긴다.
 
+현행 영어 원문에 따른 제11장과 제12장의 전체 번역 초안을 추가했습니다. 두 초안 모두 독립적인 사람의 검토를 아직 받지 않았습니다.
+
 ## 파일
 
 | 파일 | 영어 원문 |
@@ -37,15 +39,23 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05.020_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05.025_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05.030_apex_timeliness_leg.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
 | [core_07_charters.md](core_07_charters.md) | [core_07_charters.md](../../core_07.000_charters.md) |
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_13.000_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_14.000_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_15.000_forum.md](../../core_15.000_forum.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_16.000_governance.md](../../core_16.000_governance.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_17.000_non_regression.md](../../core_17.000_non_regression.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 
 시험본의 링크는 아직 번역이 없는 영어 파일을 가리킨다. HTML 앵커(`id`)는 원문에서 복사해 단락마다 대조할 수 있게 한다.
 

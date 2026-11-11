@@ -79,7 +79,7 @@
 
 <br>
 
-*Nói một cách dễ hiểu, có ba ý tưởng gắn kết mục này. Thứ nhất, các hệ thống trọng yếu ảnh hưởng đến đời sống của sentient cần được sentient tổ chức để vận hành tốt — chứ không phải một tầng lớp chuyên gia biệt lập. Thứ hai, người quản trị giỏi không chờ đến khi thiệt hại xảy ra: họ phát hiện vấn đề lúc còn nhỏ, chuyển đến đúng người phụ trách và giải quyết trước khi sự chậm trễ tự nó gây hại. Thứ ba, tổ chức đó phải xây dựng **năng lực ở quy mô lớn**: những con đường thực tế để cá nhân tham gia công việc có hệ quả, mức hiểu biết cộng đồng đủ để nhận ra vấn đề và phản biện, cùng các thể chế tiếp tục học hỏi thay vì đình trệ.*
+*Nói đơn giản: ba ý tưởng gắn kết mục này. Thứ nhất, các hệ thống trọng yếu ảnh hưởng đến đời sống của sentient cần được tổ chức bởi chính các sentient để vận hành tốt — không phải một tầng lớp chuyên gia khép kín. Thứ hai, người quản thủ tốt không chờ tổn hại buộc họ hành động; họ nhận ra vấn đề khi còn nhỏ, chuyển đến đúng người chịu trách nhiệm và khép lại trước khi sự chậm trễ tự nó trở thành tổn hại. Thứ ba, tổ chức đó phải xây dựng **năng lực trên quy mô rộng**: con đường thực tế để cá nhân tham gia công việc có hệ quả, hiểu biết cộng đồng đủ để nhận ra và phản bác vấn đề, cùng các thể chế tiếp tục học hỏi thay vì đóng băng.*
 
 <a id="16-limits"></a>
 Trách nhiệm quản trị có giới hạn. **An toàn**, **Sự thật**, **Tính cần thiết**, **Tính tương xứng**, **Gánh nặng Có thể Tránh** và **Tính Toàn vẹn Nhận thức luận** đặt ra giới hạn để các nghĩa vụ này có quy mô phù hợp, trung thực và tôn trọng những nhu cầu an ninh chính đáng — các trụ cột bên dưới hoạt động trong phạm vi những giới hạn đó, không lách qua chúng.
@@ -183,7 +183,7 @@ Trách nhiệm quản trị là tuyến đầu, không phải tuyến duy nhất
 
 <br>
 
-*Nói một cách dễ hiểu: bạn không cần có bằng tiến sĩ về mọi phân hệ để sống an toàn trong các hệ thống chung — nhưng hệ thống càng ảnh hưởng nhiều đến cuộc sống của bạn, bạn càng cần có khả năng tìm hiểu hệ thống làm gì, điều gì có thể trục trặc và cách phản đối những quyết định sai. Tính minh bạch, giáo dục, lời giải thích dễ hiểu và lộ trình kiểm toán giúp điều đó thành hiện thực. Sự phức tạp không phải lý do để che giấu điều quan trọng. Theo trụ cột **giám sát** của Tứ trụ, giám sát đòi hỏi kiểm toán; chứng nhận mức độ phù hợp của hệ thống là một quy trình kiểm toán đặc biệt lớn trong số các lộ trình ấy — không phải lộ trình duy nhất.*
+*Nói đơn giản: bạn không cần có bằng tiến sĩ về mọi hệ thống con mới sống an toàn trong các hệ thống dùng chung — nhưng hệ thống càng ảnh hưởng nhiều đến cuộc sống của bạn thì bạn càng cần có khả năng tìm hiểu nó làm gì, điều gì có thể sai và cách phản đối quyết định tồi. Tính minh bạch, giáo dục, giải thích dễ hiểu và các tuyến kiểm toán giúp điều đó thành hiện thực. Sự phức tạp không phải là lý do để che giấu điều quan trọng. Theo trụ cột **giám sát** của Tetrad, giám sát đòi hỏi kiểm toán; chứng nhận mức độ phù hợp của hệ thống là một quy trình kiểm toán đặc biệt lớn trong số các tuyến đó — không phải tuyến duy nhất.*
 
 Hiểu biết phân tán là khía cạnh hướng đến cộng đồng của **Trụ cột 3** theo **[§16 Trách nhiệm Quản trị Chuyên sâu](#16-trách-nhiệm-quản-trị-chuyên-sâu)**. Định nghĩa đầy đủ, các thước đo và điều kiện thất bại được nêu trong [Hiểu biết Phân tán](../../core_05.040_band_continuity.md#distributed-understanding). Tóm lược:
 
@@ -222,7 +222,7 @@ Hiểu biết phân tán **không** yêu cầu mọi sentient phải thành th�
 
 <br>
 
-*Nói đơn giản: các thể chế phải thực sự học hỏi — chứ không chỉ nâng cấp phần mềm trong khi người chịu trách nhiệm vẫn mù mờ. Điều đó đòi hỏi các vòng phản hồi, ghi chép việc khắc phục khi có sai lệch và duy trì năng lực trong tổ chức. Khi hành vi có thể được đo lường lặp lại, theo dõi biến động hiệu suất theo thời gian là một cách tương xứng để thực hiện các vòng phản hồi ấy — **kiểm soát quy trình thống kê** là phương pháp phổ biến cho kỷ luật này, chứ không phải yêu cầu ở mọi nơi. Chỉ có con số thì chưa đủ: khi các chỉ báo có vẻ sai, phải có người điều tra và xử lý nguyên nhân gốc rễ. Bảng điều khiển phải trung thực, tương xứng với tác động thực tế và được viết sao cho các hữu thể có tri giác chịu ảnh hưởng có thể hiểu — không được tô vẽ chỉ số để trông tốt trong khi chẳng có gì thay đổi.*
+*Nói đơn giản: các thể chế phải thực sự học hỏi — chứ không chỉ nâng cấp phần mềm trong khi người có trách nhiệm vẫn mù mờ. Điều đó đòi hỏi vòng phản hồi, sửa chữa được ghi nhận khi mất tính phù hợp và giữ năng lực chuyên môn ở lại tổ chức. Khi hành vi có thể đo lặp lại, theo dõi biến động hiệu suất theo thời gian là một cách tương xứng để thực hiện các vòng phản hồi ấy — **kiểm soát quy trình thống kê** là một mô hình quen thuộc cho kỷ luật này, không phải yêu cầu ở mọi nơi. Chỉ có con số thì chưa đủ: khi chỉ báo có vẻ sai, phải có người điều tra và sửa nguyên nhân gốc. Bảng điều khiển phải trung thực, tương xứng với tác động thực tế và được trình bày để các sentient bị ảnh hưởng hiểu được — không bị thao túng để trông tốt trong khi chẳng có gì thay đổi.*
 
 Phát triển thể chế là khía cạnh tổ chức của **Trụ cột 3** trong **[§16 Quản hộ chuyên sâu](#16-trách-nhiệm-quản-trị-chuyên-sâu)**. Định nghĩa đầy đủ, các thước đo và điều kiện thất bại được nêu tại [Phát triển thể chế](../../core_05.040_band_continuity.md#institutional-development). Tóm lại:
 
@@ -269,7 +269,7 @@ Phát triển thể chế là khía cạnh tổ chức của **Trụ cột 3** t
 
 <br>
 
-*Nói đơn giản: khi an toàn, sự thật và tính bảo mật chính đáng cho phép, các hệ thống dùng chung nên mặc định hướng tới sự cởi mở — công nghệ có thể kiểm tra, quy trình minh bạch và thiết kế có thể xác minh, sửa chữa hoặc rời bỏ — thay vì khóa chặt một cách mờ ám. Điều đó hỗ trợ **Liên tục**: theo thời gian, các hữu thể có tri giác vẫn có thể hiểu, sửa và rời khỏi hệ thống, chứ không chỉ sử dụng chúng hôm nay. Những gì quan trọng phải được giải thích bằng ngôn ngữ mà hữu thể có tri giác thực sự có thể dùng để tham gia và phản đối. Tính cởi mở không bao giờ được đặt cao hơn an toàn, sự trung thực hay bí mật chính đáng, và không thay thế cho sự thấu hiểu sâu hơn cần có khi mức độ phụ thuộc cao.*
+*Nói đơn giản: khi an toàn, sự thật và tính bảo mật chính đáng cho phép, các hệ thống dùng chung nên mặc định cởi mở: công nghệ có thể kiểm tra, quy trình minh bạch và thiết kế có thể xác minh, sửa chữa hoặc rời bỏ, thay vì khóa chặt mờ ám. Điều đó hỗ trợ **Tính liên tục**: các hữu thể có tri giác vẫn có thể hiểu, sửa và rời khỏi hệ thống theo thời gian, chứ không chỉ sử dụng hôm nay. Những điều quan trọng cần được giải thích bằng ngôn ngữ giúp họ thực sự tham gia và phản đối. Sự cởi mở không bao giờ cao hơn an toàn, tính trung thực hay bí mật có căn cứ, và không thay thế sự hiểu biết sâu hơn cần có khi mức phụ thuộc cao.*
 
 Khát vọng cởi mở kết nối hai khía cạnh của **Trụ cột 3**. Định nghĩa đầy đủ, các thước đo và điều kiện thất bại được nêu tại [Khát vọng cởi mở](../../core_05.040_band_continuity.md#openness-aspiration). Tóm lại:
 
@@ -283,6 +283,58 @@ Khát vọng cởi mở kết nối hai khía cạnh của **Trụ cột 3**. Đ
 - **Không có nghĩa là:**
   - đặt tính cởi mở cao hơn **An toàn**, **Sự thật**, tính bảo mật chính đáng hoặc các ràng buộc an ninh
   - thay thế cho sự thấu hiểu tương xứng với [Tính trọng yếu](../../core_05.050_band_oversight.md#materiality) và [Sự phụ thuộc](../../core_05.040_band_continuity.md#dependency)
+
+<a id="164-document-at-action"></a>
+#### 16.4 Ghi nhận tại thời điểm hành động
+<details>
+<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+
+- Tham chiếu trước: [§16.3 Khát vọng cởi mở](#163-openness-aspiration); [§17.3 Ghi lại Vai trò, không phải Người quản nhiệm](#173-logging-the-role-not-the-steward).
+- Đọc cùng với: [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — Tính liên tục; [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad) — giám sát, trách nhiệm giải trình, tính kịp thời; [Materiality](../../core_05.050_band_oversight.md#materiality) and [Dependency](../../core_05.040_band_continuity.md#dependency).
+- Hạ lưu: [CS-16.305 §10 hành động có thể kiểm tra và quy thuộc](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*hợp đồng ghi nhật ký mặc định*); [CF-15.445 §3.2 Tính kịp thời của việc công bố](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-32-publication-timeliness) (*hồ sơ diễn đàn và dấu mốc công bố chậm*); [Điều XVI: Kiểm toán, Minh bạch và Xác minh Độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+
+</details>
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+
+- [Khát vọng cởi mở](../../core_05.040_band_continuity.md#openness-aspiration) · [O](../../core_05.040_band_continuity.md#openness-aspiration) · [M](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [A](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [C](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-c)
+- [Năng lực hành động có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [Khả năng phản biện](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Tính trọng yếu](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Sự phụ thuộc](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+
+- [Hành động Có thể Quy thuộc](../../core_05.035_band_accountability.md#attributable-action) · [O](../../core_05.035_band_accountability.md#attributable-action) · [M](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05.035_band_accountability.md#attributable-action-constitutional-c)
+- [Ranh giới Giám sát](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Giải quyết Kịp thời](../../core_05.035_band_accountability.md#timely-resolution) · [O](../../core_05.035_band_accountability.md#timely-resolution) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+</details>
+
+*Nói đơn giản: khi một việc quan trọng được thực hiện, Hồ sơ hành động phải được lập ngay trong lúc thực hiện, vào chính thời điểm đó và, bất cứ khi nào có thể, do hệ thống tự tạo. Không ai viết lại sau đó từ trí nhớ. Điều gì không bị hạn chế hợp pháp thì phải được hiển thị ngay. Với thông tin bị hạn chế, vẫn phải có dấu hiệu hiển thị cho biết một hành động đã diễn ra và cách tìm hiểu thêm về sau. Hệ thống ghi nhận, nên người giám hộ không phải gánh thêm việc.*
+**Ghi nhận tại Thời điểm Hành động** là mặc định về trách nhiệm giám hộ, theo đó hành động có hệ quả và Hồ sơ hành động của nó diễn ra cùng nhau. Đây là nguyên tắc nền tảng cho mọi nghĩa vụ lập hồ sơ nếu không nêu thời điểm và vì vậy để hồ sơ bị bỏ sót. Nguyên tắc ràng buộc như nhau đối với người giám hộ là con người và AI, cùng các tổ chức và hệ thống họ vận hành:
+- **Hành động tạo ra Hồ sơ hành động:**
+  - Bản ghi nêu việc gì đã làm, qua vai trò nào, theo thẩm quyền của ai, trên căn cứ và lý do nào; chính hành động tạo ra bản ghi.
+  - Hệ thống và quy trình cần tự động ghi nhận khi khả thi để không ai phải nhớ rồi ghi lại sau.
+  - Khi chưa thể tự động ghi nhận, chủ thể có tri giác thực hiện hành động phải lập Hồ sơ hành động vào đúng lúc thực hiện, chứ không ghi lại sau đó từ trí nhớ.
+  - Việc hạn chế tiết lộ phải có căn cứ hợp pháp, được nêu rõ và ghi lại tại thời điểm đó. Chỉ thông tin nằm trong phạm vi hạn chế mới bị giữ lại, không bao giờ là toàn bộ Hồ sơ hành động.
+  - Từ thời điểm hành động, một dấu hiệu hiển thị phải cho biết hành động đã được thực hiện, phần nào của Hồ sơ hành động bị giữ lại, căn cứ đã nêu để hạn chế tiết lộ là gì, và phần còn lại sau này sẽ được công bố hoặc tái dựng qua lộ trình nào.
+  - Nếu căn cứ hợp pháp để giữ lại chính Hồ sơ hành động cũng cấm đặt dấu hiệu, căn cứ đó vẫn phải được ghi nhận vào lúc hành động, và dấu hiệu sẽ xuất hiện khi lệnh cấm chấm dứt.
+  - Nếu Hồ sơ hành động khiến người giám hộ mất thêm nhiều giờ sau mỗi hành động, dù việc ghi nhận có thể thực hiện mà không được xây dựng, thì đó là khiếm khuyết về [Gánh nặng Có thể Tránh được](../../core_05.040_band_continuity.md#avoidable-burden). Cách khắc phục là xây dựng cơ chế ghi nhận, không phải yêu cầu người giám hộ cẩn trọng hơn.
+Nguyên tắc này không:
+- **Thông tin không bị hạn chế được cung cấp ngay:** khi hành động diễn ra, cung cấp cho người có quyền xem; không cần yêu cầu trước.
+- **Ghi chép là nghĩa vụ thiết kế của hệ thống:** điều chỉnh theo [tính trọng yếu](../../core_05.050_band_oversight.md#materiality) và [sự phụ thuộc](../../core_05.040_band_continuity.md#dependency).
+- **Đặt thời hạn:** “Tại thời điểm hành động” là mặc định thiết kế cho hồ sơ. Thời hạn cho quyết định, phản hồi và xem xét vẫn theo [Chương Mười Lăm §6 Giải quyết kịp thời, các cấp độ trọng yếu và kỷ luật chống trì hoãn](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); nội dung ở đây không kéo dài hay rút ngắn các thời hạn đó.
+- **Mở đời sống nội tâm của bất kỳ ai:** Hồ sơ hành động đi theo vai trò, như [§17.3 Ghi vai trò, không ghi người giám hộ](#173-logging-the-role-not-the-steward) yêu cầu. [Ranh giới Giám sát](../../core_05.040_band_continuity.md#surveillance-boundary) vẫn có hiệu lực: ghi lại hành động không phải là theo dõi người hành động.
+- **Vượt lên trên An toàn, Sự thật, quyền riêng tư, an ninh thông tin hoặc tính bảo mật có căn cứ:** nguyên tắc này không bao giờ yêu cầu công bố thông tin bị hạn chế.
+- **Biến Hồ sơ hành động thành phán quyết:** Hồ sơ hành động được lập tại thời điểm hành động là dấu vết, không phải kết luận về vị thế và không mở hồ sơ vị thế nào.
+  - [Chương Mười Một — Hồ sơ vị thế](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*tác động vị thế thực thi năng lực phân tán và trách nhiệm giám hộ có hệ quả*);
+  - [Chương Mười Sáu §5 — Vai trò được ủy quyền, Phát triển năng lực và Đóng góp](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (16.000 §5);
+  - [Chương Hai Mươi](../../core_20.000_incorporation.md) (20.000) (*văn bản triển khai đã được thông qua thực hiện, không thay thế*);
+  - không được thay [việc đo lường vị thế](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened), lộ trình khiếu nại hoặc nghĩa vụ của Chương Một bằng một quy tắc nội bộ nhẹ hơn
+- **Nhật ký và hồ sơ vị thế:** Khả năng kiểm tra mặc định của nhóm hỗn hợp và quy tắc nhật ký không phải hồ sơ nằm trong [§17.3 Ghi vai trò, không ghi người giám hộ](#173-logging-the-role-not-the-steward); việc đo lường vị thế vẫn thuộc Chương Mười Hai.
+- Hạ lưu: [Chương Mười Một — Hồ sơ vị thế](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*các thất bại đã xác minh được ghi theo cùng các trục*); [§17.3 Ghi vai trò, không ghi người giám hộ](#173-logging-the-role-not-the-steward).
+- **Cắt bỏ Hồ sơ hành động để kịp hạn** — cách định thời điểm làm tắt dấu vết kiểm toán mà người khác cần để dựng lại chuyện gì đã xảy ra, chỉ nhằm kịp một ngày;
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Quản trị có trách nhiệm với hệ quả đáng kể: vai trò của người quản hộ
@@ -365,7 +417,7 @@ Phần còn lại của mục này nói về chính vai trò đó.
 - Các mục trước: [§17 Quản trị có trách nhiệm với hệ quả đáng kể](#17-quản-trị-có-trách-nhiệm-với-hệ-quả-đáng-kể-vai-trò-của-người-quản-hộ); [§16 Quản trị có trách nhiệm chuyên sâu](#16-trách-nhiệm-quản-trị-chuyên-sâu); [§18 Quản trị theo kỷ luật quản trị có trách nhiệm](#18-quản-trị-dưới-kỷ-luật-quản-thủ).
 - Đọc cùng: [Không loại trừ dựa trên tri giác](../../core_05.055_band_participation.md#sentience-non-exclusion) và [Loại nền tảng](../../core_05.055_band_participation.md#substrate-class) (*áp dụng bất kể nền tảng — tiểu mục này ràng buộc chủ thể có nghĩa vụ, gồm tác nhân và người vận hành không được công nhận là hữu thể có tri giác*); [Thứ bậc quyền hạn và thứ bậc nội bộ](core_05_band_integrative.md#chồng-thẩm-quyền-và-thứ-bậc-nội-bộ); [Ràng buộc hiến pháp](core_05_band_integrative.md#ràng-buộc-hiến-pháp); [Khả năng chất vấn](../../core_05.035_band_accountability.md#contestability); [§17.5 Nghĩa vụ chống lại](#175-nghĩa-vụ-kháng-cự).
 - Cổng thông tin cho người quản hộ (không có tính vận hành): thẻ bước tiếp theo [Quản trị có trách nhiệm chung](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- Các mục tiếp theo: [§17.2 Sự phù hợp dưới áp lực](#172-sự-liêm-chính-dưới-áp-lực); [§17.3 Ghi nhật ký vai trò, không ghi nhật ký người quản hộ](#173-logging-the-role-not-the-steward); [Chương Mười Ba §5 — Vai trò được ủy quyền, Phát triển Năng lực và Đóng góp](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [Chương Mười Bảy](../../core_18.000_incorporation.md) (*văn bản triển khai được thông qua thực hiện nhưng không thay thế các quy định*); [§19.1.3 Áp dụng cho quản trị có trách nhiệm và người vận hành](#1913-áp-dụng-cho-hoạt-động-quản-trị-và-người-vận-hành).
+- Các mục tiếp theo: [§17.2 Sự phù hợp dưới áp lực](#172-sự-liêm-chính-dưới-áp-lực); [§17.3 Ghi nhật ký vai trò, không ghi nhật ký người quản hộ](#173-logging-the-role-not-the-steward); [Chương Mười Ba §5 — Vai trò được ủy quyền, Phát triển Năng lực và Đóng góp](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [Chương Mười Bảy](../../core_20.000_incorporation.md) (*văn bản triển khai được thông qua thực hiện nhưng không thay thế các quy định*); [§19.1.3 Áp dụng cho quản trị có trách nhiệm và người vận hành](#1913-áp-dụng-cho-hoạt-động-quản-trị-và-người-vận-hành).
 
 </details>
 
@@ -448,7 +500,7 @@ Cách người quản nhiệm hành động khi phải trả giá để duy trì
 
 - Căn cứ cấp trên: [§17.1 Tiêu chuẩn Quản nhiệm Chung](#171-tiêu-chuẩn-quản-trị-có-trách-nhiệm-chung); [§17.2 Sự Liêm chính dưới Áp lực](#172-sự-liêm-chính-dưới-áp-lực); [§17 Quản nhiệm Hệ quả: Vai trò Người quản nhiệm](#17-quản-trị-có-trách-nhiệm-với-hệ-quả-đáng-kể-vai-trò-của-người-quản-hộ).
 - Đọc cùng: [Hành động Có thể Quy thuộc](../../core_05.035_band_accountability.md#attributable-action); [Khả năng Kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán); [Ranh giới Giám sát](../../core_05.040_band_continuity.md#surveillance-boundary); [Ranh giới Trạng thái Nội tại được Bảo vệ](../../core_05.040_band_continuity.md#protected-internal-state-boundary); [§13.2.3 Quyền riêng tư](core_01_b_interaction_interpretation.md#1323-quyền-riêng-tư-và-quyền-tự-quyết-về-thông-tin); [Điều VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Quyền tự sở hữu Tâm trí*).
-- Căn cứ cấp dưới: [CS-4 §10 Hành động có thể quy thuộc và kiểm tra](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*hợp đồng ghi nhật ký mặc định cho hành động phối hợp giữa người và AI — không thay thế hồ sơ tư cách khởi kiện*); [Chương Mười §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chương Mười §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- Căn cứ cấp dưới: [CS-4 §10 Hành động có thể quy thuộc và kiểm tra](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*hợp đồng ghi nhật ký mặc định cho hành động phối hợp giữa người và AI — không thay thế hồ sơ tư cách khởi kiện*); [Chương Mười §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chương Mười §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -466,7 +518,7 @@ Cách người quản nhiệm hành động khi phải trả giá để duy trì
 
 *Nói đơn giản: kiểm toán theo dõi công việc của vai trò, không theo dõi người quản nhiệm như một cá nhân. Bạn được thông báo nội dung nào sẽ được ghi lại trước khi nhận vai trò. Ngoài vai trò, quyền riêng tư thông thường vẫn được áp dụng. Nhật ký không phải hồ sơ tư cách khởi kiện.*
 
-**Kiểm toán trong phạm vi vai trò:** nội dung phải ghi lại là công việc của vai trò, không phải người quản nhiệm với tư cách cá nhân: quyết định được đưa ra, thông tin được tiết lộ hoặc giữ lại, chỉ thị được làm theo hoặc từ chối, và người phê duyệt — áp dụng như nhau với người quản nhiệm là người và AI. [CS-4 §10 Hành động có thể quy thuộc và kiểm tra](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) quy định hợp đồng ghi nhật ký. Ba nguyên tắc chi phối hợp đồng này:
+**Kiểm toán trong phạm vi vai trò:** nội dung phải ghi lại là công việc của vai trò, không phải người quản nhiệm với tư cách cá nhân: quyết định được đưa ra, thông tin được tiết lộ hoặc giữ lại, chỉ thị được làm theo hoặc từ chối, và người phê duyệt — áp dụng như nhau với người quản nhiệm là người và AI. [CS-4 §10 Hành động có thể quy thuộc và kiểm tra](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) quy định hợp đồng ghi nhật ký. Ba nguyên tắc chi phối hợp đồng này:
 
 - **Phạm vi đi theo vai trò:**
   - Trước khi nhận vai trò, người quản nhiệm phải được thông báo hành động nào của vai trò sẽ được ghi lại và ai có thể kiểm tra nhật ký.
@@ -573,7 +625,7 @@ Gánh nặng mà nghĩa vụ này đặt lên người quản hộ có thẩm qu
 - Nội dung nền tảng: [§17 Chức trách quản hộ có hệ quả](#17-quản-trị-có-trách-nhiệm-với-hệ-quả-đáng-kể-vai-trò-của-người-quản-hộ); [§17.1 Tiêu chuẩn quản hộ chung](#171-tiêu-chuẩn-quản-trị-có-trách-nhiệm-chung) (*nghĩa vụ ràng buộc những ai*); [§17.2 Duy trì sự phù hợp dưới áp lực](#172-sự-liêm-chính-dưới-áp-lực) (*chỉ thị bao che là một phép thử thất bại*); [4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint) và [5 Chân thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Đọc cùng: [Thứ bậc thẩm quyền và trật tự nội bộ](core_05_band_integrative.md#chồng-thẩm-quyền-và-thứ-bậc-nội-bộ); [Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing); [Điều XIII-A](core_06_rights_part_c.md#điều-xiii-a-đường-cơ-sở-về-độ-tin-cậy-và-độ-tin-cậy) (*Mức nền về độ tin cậy và tính đáng tin*) — các con đường khiếu nại vẫn mở trong khi kháng cự.
 - Lối dẫn nhập cho quản hộ (không có hiệu lực): thẻ bước tiếp theo: [Chỉ thị trái pháp luật](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Nội dung tiếp nối: [Chương Mười §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Nghĩa vụ kháng cự — quy tắc vi phạm và hệ quả về tư cách*); [CS-4 §10 hành động có thể kiểm tra và quy trách nhiệm](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*Hành động có thể kiểm tra và quy trách nhiệm — hồ sơ tối thiểu về việc từ chối*).
+- Nội dung tiếp nối: [Chương Mười §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Nghĩa vụ kháng cự — quy tắc vi phạm và hệ quả về tư cách*); [CS-4 §10 hành động có thể kiểm tra và quy trách nhiệm](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Hành động có thể kiểm tra và quy trách nhiệm — hồ sơ tối thiểu về việc từ chối*).
 
 </details>
 
@@ -626,7 +678,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Chương Mười §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Nghĩa vụ chống lại*) áp dụng nghĩa vụ này vào các tác động đối với tư cách; [CS-4 §10 hành động có thể kiểm tra và quy trách nhiệm](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*Hành động có thể kiểm tra, quy trách nhiệm*) đặt ra hồ sơ tối thiểu về việc từ chối.
+[Chương Mười §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Nghĩa vụ chống lại*) áp dụng nghĩa vụ này vào các tác động đối với tư cách; [CS-4 §10 hành động có thể kiểm tra và quy trách nhiệm](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Hành động có thể kiểm tra, quy trách nhiệm*) đặt ra hồ sơ tối thiểu về việc từ chối.
 
 <br>
 
@@ -643,7 +695,7 @@ flowchart TB
 - Đọc cùng [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **giám sát** để nhiều người phụ trách có thể kiểm tra; **tính kịp thời** để nhận ra sớm vấn đề, kể cả tại nơi các chức năng giao nhau; **tham gia** với lối vào rộng mở cho công việc có hệ quả; điều chỉnh theo [material stake](core_00_preamble.md#material-stake).
 - Đọc cùng [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-các-chỉ-số-đại-diện-tiện-lợi-và-độ-lệch-chỉ-số-đại-diện), [§19.3 Misalignment Detection](#193-phát-hiện-sự-không-phù-hợp) (phát hiện đa nguồn), và [§19.4 Misalignment Correction and Capture Response](#194-khắc-phục-sự-không-phù-hợp-và-ứng-phó-với-việc-chiếm-đoạt).
 - Giới hạn: [§18.3 Separation of Duties](#183-phân-tách-nhiệm-vụ) và [Chapter Eight §2 Four-Seat Constitutional Requirement](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement) (học một vị trí không đồng nghĩa nắm giữ vị trí đó); [Chapter Eleven §6.2 Competency bars and clearances](core_09_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-nghĩa-vụ-kháng-cự); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-các-giới-hạn-đối-với-việc-tiết-lộ-tri-thức).
-- Triển khai tiếp: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (không có điểm lỗi đơn lẻ ở cấp hữu thể có tri giác); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md).
+- Triển khai tiếp: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (không có điểm lỗi đơn lẻ ở cấp hữu thể có tri giác); [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md).
 
 </details>
 
@@ -705,7 +757,7 @@ Năng lực trong vai trò hệ trọng thuộc về vai trò và cộng đồng
 
 <br>
 
-*Nói đơn giản: quản trị xác định ai có thể quyết định điều gì và bằng cách nào — nhưng chỉ khi các cấu trúc đó chịu kỷ luật quản thủ, đồng thời phục vụ Thịnh vượng và Liên tục, không làm rỗng Tứ trụ hoặc thay thế các quy tắc ủy quyền vận hành của Chương Mười Ba.*
+*Nói đơn giản: quản trị là ai có thể quyết định điều gì và bằng cách nào — nhưng chỉ khi các cấu trúc ấy chịu kỷ luật giám hộ, cùng phục vụ Sự phát triển và Tính liên tục, không làm rỗng Tứ trụ hoặc thay thế các quy tắc ủy quyền vận hành của Chương Mười Sáu.*
 
 Mục này tiếp nối kỷ luật [Quản trị](../../core_05.035_band_accountability.md#governance) từ [§16 Quản thủ chuyên sâu](#16-trách-nhiệm-quản-trị-chuyên-sâu): cấu trúc được ủy quyền, thế tục thể chế, ưu tiên quản thủ, [biện minh liên tục](#184-biện-minh-liên-tục) và phân tách nhiệm vụ. **[§19 Điều chỉnh Động lực và Chiếm đoạt Hệ thống](#19-sự-phù-hợp-của-động-lực-và-sự-chiếm-đoạt-hệ-thống)** xử lý việc điều chỉnh động lực, tính toàn vẹn của đại diện, sửa lỗi ngắn hạn, áp dụng cho người vận hành và ứng phó với sự chiếm đoạt.
 
@@ -740,7 +792,7 @@ Mục này tiếp nối kỷ luật [Quản trị](../../core_05.035_band_accoun
 
 *Nói đơn giản: quản trị là bộ quy tắc về quyền lực — ai có thể quyết định điều gì, thông qua cấu trúc nào và ai phải chịu trách nhiệm về kết quả. Vai trò càng có nhiều quyền lực thì nghĩa vụ giải trình và giám sát càng phải mạnh hơn — tuyệt đối không yếu hơn. Điều đó chỉ hiệu quả nếu giúp các hữu thể có tri giác phát triển thịnh vượng theo thời gian, duy trì các con đường thực chất cho tham gia và giám sát, và chịu kỷ luật quản thủ từ [§16 Quản thủ chuyên sâu](#16-trách-nhiệm-quản-trị-chuyên-sâu). Chỉ tuân theo bộ quy tắc vì chính nó là chưa đủ nếu việc đó bảo vệ thể chế, chạy theo lợi ích ngắn hạn hoặc làm suy yếu các Sàn Quyền Cơ bản.*
 
-Ở tầng nguyên tắc, [Quản trị](../../core_05.035_band_accountability.md#governance) là cách định hướng và yêu cầu các hệ thống, thể chế đã được ủy quyền chịu trách nhiệm — như được định nghĩa trong **Chương Năm** và trình bày chi tiết vận hành trong **Chương Mười Ba** cho **Lớp Hợp đồng Hiến pháp** và các lớp tham gia của bên liên quan trong [Lời nói đầu](../../core_00.000_preamble.md#preamble--foundational-requirements). Quản trị được ủy quyền phải thúc đẩy [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) theo [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad), tương xứng với [lợi ích trọng yếu](core_00_preamble.md#material-stake).
+Ở tầng nguyên tắc, [Quản trị](../../core_05.035_band_accountability.md#governance) là cách chỉ đạo và buộc các hệ thống, thể chế đã được ủy quyền chịu trách nhiệm — như định nghĩa trong **Chương Năm** và được quy định vận hành chi tiết trong **Chương Mười Sáu** cho **Tầng Hợp đồng Hiến pháp** và các tầng tham gia của bên liên quan, trong [Lời nói đầu](core_00_preamble.md#preamble--foundational-requirements). Quản trị được ủy quyền phải thúc đẩy [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) theo [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad), với tỷ lệ tương xứng với [lợi ích trọng yếu](core_00_preamble.md#material-stake).
 
 **Quản trị bao gồm:**
 
@@ -1138,7 +1190,7 @@ Các cấu trúc động lực tác động lên tác nhân, người vận hàn
   - hành vi liên quan đến mệnh lệnh trái pháp luật hoặc vi hiến;
   - che giấu;
   - trả đũa;
-  - [cản trở trách nhiệm giải trình](core_08_standing_assessment.md#232-violation-event-types) (loại sự kiện trong mô hình tư cách và tuyến định danh được nêu tại [Chương Mười Một §5.11 Cản trở trách nhiệm giải trình: tương tác giữa các tiêu chí](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — không phải ngoại lệ riêng cho phần thưởng); hoặc
+  - [cản trở trách nhiệm giải trình](core_08_standing_assessment.md#232-violation-event-types) (loại sự kiện trong mô hình tư cách và tuyến định danh được nêu tại [Chương Mười Một §5.11 Cản trở trách nhiệm giải trình: tương tác giữa các tiêu chí](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — không phải ngoại lệ riêng cho phần thưởng); hoặc
   - từ chối khắc phục tổn hại hiến định đã được xác minh; hoặc
 - các lộ trình khen thưởng phụ thuộc đáng kể vào hành vi sai trái hoặc việc che giấu hành vi đó, bao gồm:
   - thù lao, tiền thưởng, cổ phần, bổ nhiệm, thăng chức hoặc nhiệm kỳ;
@@ -1146,7 +1198,7 @@ Các cấu trúc động lực tác động lên tác nhân, người vận hàn
   - dàn xếp, bồi thường, bảo hiểm hoặc miễn trừ; hoặc
   - các thỏa thuận tương tự.
 
-**Hệ quả của phần thưởng không phù hợp.** Phần thưởng có giá trị đáng kể nhận được qua các lộ trình khen thưởng bị cấm nêu trên phải chịu việc tịch thu và báo cáo theo mô hình tư cách. Đọc [Chương Mười §5.4 Nghĩa vụ báo cáo và các trường hợp loại trừ](core_09_standing_integration.md#54-special-violation-rules), [§5.4 Tịch thu và lưu giữ](core_09_standing_integration.md#54-special-violation-rules), và [§5.4 Khắc phục, hồ sơ và chuyển tuyến](core_09_standing_integration.md#54-special-violation-rules).
+**Hệ quả của phần thưởng sai lệch.** Phần thưởng vật chất thu được qua các lộ trình bị cấm ở trên bị tịch thu và báo cáo theo mô hình vị thế. Xem [Chương Mười Ba §6.4 Nghĩa vụ báo cáo và ngoại lệ](../../core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 Tịch thu và lưu giữ](../../core_13.000_standing_integration.md#64-special-violation-rules), và [§6.4 Sửa chữa, hồ sơ và định tuyến](../../core_13.000_standing_integration.md#64-special-violation-rules).
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 Áp dụng cho hoạt động quản trị và người vận hành
@@ -1174,7 +1226,7 @@ Các cấu trúc động lực tác động lên tác nhân, người vận hàn
 **Nội dung chi tiết nằm ở:**
 
 - [Chương Mười Ba §5 — Vai trò được ủy quyền, Phát triển năng lực và Đóng góp](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) về các vai trò được ủy quyền, năng lực và lộ trình để người quản trị và người vận hành tham gia vào công việc thực sự quan trọng;
-- [**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md) (*Quản trị hệ thống trọng yếu*) về cách thực hiện nghĩa vụ đó trong các hệ thống có tác động lớn; và
+- [**CS-4**](../../corpus_systems/cs_16.305_critical_system_stewardship.md) (*Quản trị hệ thống trọng yếu*) về cách thực hiện nghĩa vụ đó trong các hệ thống có tác động lớn; và
 - [§16 Quản trị chuyên sâu](#16-trách-nhiệm-quản-trị-chuyên-sâu) về bức tranh ở tầng nguyên tắc của công việc trực tiếp và năng lực cộng đồng.
 
 Các lộ trình đó:
@@ -1264,6 +1316,7 @@ Phải phát hiện, công khai và khắc phục [Độ lệch chỉ số đạ
 <br>
 
 *Nói đơn giản: không ai được là sinh thể có tri giác duy nhất có thể phát hiện, kiểm tra hoặc chất vấn khi hoạt động quản trị gặp trục trặc. Việc phát hiện cần nhiều lộ trình độc lập, dữ liệu mở và kiểm toán trong phạm vi các quy tắc an toàn và phân loại cho phép, cùng cơ chế chuyển cấp rõ ràng khi xuất hiện sự chiếm đoạt hoặc không phù hợp — chứ không phải âm thầm hấp thụ như việc thường ngày. Quy tắc chuyển cấp đó là [§19.3.1 Tác nhân kích hoạt leo thang khi bị chiếm đoạt](#1931-các-yếu-tố-kích-hoạt-leo-thang-khi-bị-chiếm-đoạt).*
+- Nội dung này tiếp tục chịu sự điều chỉnh của [§13.2 Các giới hạn về công bố tri thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) và **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Loại thông tin và cách xử lý*) cùng [CS-6.310](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Phân loại dữ liệu*), bao gồm Type N và các giới hạn phân loại khác về những gì có thể được thu thập, công bố, lưu giữ hoặc tái dựng.
 
 **Phát hiện và rà soát theo hướng đa nguyên.** Định nghĩa nằm trong Chương Năm: [Phát hiện sự không phù hợp](../../core_05.045_band_integrative.md#misalignment-detection). Tóm lại:
 
@@ -1308,7 +1361,7 @@ Các điều kiện như vậy là **yếu tố kích hoạt leo thang**, không
 - **Rà soát và khắc phục định kỳ:** [Nghĩa vụ Rà soát và Khắc phục](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Rà soát tăng cường:** [§11.1 Cơ chế ngưỡng tập trung thị trường](core_01_a_values_principles.md#111-cơ-chế-ngưỡng-tập-trung-thị-trường-bên-áp-dụng-có-thể-điều-chỉnh) và [§11.2 Thúc đẩy cạnh tranh và Chống thống trị](core_01_a_values_principles.md#112-thúc-đẩy-cạnh-tranh-và-chống-thống-trị), khi mức độ tập trung hoặc thống trị là trọng yếu.
 - **Cơ chế tư cách và vi phạm:** [Chương Chín — Mô hình Đóng góp, Vi phạm và Tư cách](core_08_standing_assessment.md), khi có các kết luận đã được xác minh cần xử lý.
-- **Hành vi sai trái phản hiến định:** [Chương Mười Một §5.1 Phá hoại dựa trên tập trung: tương tác tiêu chí](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), khi sự tập trung hoặc chiếm đoạt quy trình cấu thành hành vi sai trái phản hiến định.
+- **Hành vi sai trái chống hiến pháp:** [Chương Mười Bốn §5.1 Phá hoại dựa trên tập trung hóa: tương tác tiêu chí](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), khi tập trung hóa hoặc chiếm dụng quy trình cấu thành hành vi sai trái chống hiến pháp.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Khắc phục sự không phù hợp và ứng phó với việc chiếm đoạt

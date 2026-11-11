@@ -79,7 +79,7 @@
 
 <br>
 
-*通俗地说：三项理念支撑本节。第一，影响感知者生活的重大系统，需要由感知者组织起来妥善运作，而不是交给与外界隔绝的专家祭司团。第二，良好的受托者不会等到伤害迫使自己行动；他们会趁问题仍小时发现它，将其及时交到适当角色手中，并在拖延本身造成伤害之前妥善解决。第三，这种组织必须建立**规模化能力**：让个人有真实路径进入具有实质后果的工作；让社群有足够理解力发现问题并提出质疑；让机构持续学习，而非停滞不前。*
+*简而言之，本节由三个理念支撑。第一，影响有感知者生活的重要系统，需要由有感知者组织起来才能良好运作，而不是交给封闭的专家集团。第二，良好的管理者不会等到伤害迫使他们行动；他们会趁问题尚小时发现问题，交由适当人员处理，并在拖延本身造成伤害之前解决。第三，这种组织必须建立**规模化能力**：让个人进入重要工作的真实途径、足以发现问题并提出异议的社区理解，以及不断学习而非停滞不前的机构。*
 
 <a id="16-limits"></a>
 受托管理有边界。**安全**、**真理**、**必要性**、**比例性**、**可避免负担**与**认识论完整性**共同设定界限，使这些义务的尺度公平、内容诚实，并尊重正当的安全需求——下述各支柱都在这些约束之内运作，而不是绕过它们。
@@ -183,7 +183,7 @@ flowchart TB
 
 <br>
 
-*简言之：在共享系统中安全生活，不应要求每个人都拥有每个子系统的博士学位；但系统对你的生活影响越大，你就越应能够了解它的作用、可能出错之处，以及如何质疑不当决定。透明度、教育、通俗解释和审计路径使之成为可能。复杂性不能成为隐瞒重要事项的借口。在四元的**监督**支柱下，监督要求开展审计；系统对齐认证是这些路径中特别大型的一项审计流程，但并非唯一一项。*
+*简而言之，在共享系统中安全生活，不应要求你精通每一个子系统；但系统对你生活影响越大，你就越应能够了解它的运作方式、可能出现的问题，以及如何质疑错误决定。透明度、教育、清楚易懂的说明和审计渠道都能帮助实现这一点。复杂性不能成为隐瞒重要信息的借口。按照四元职责中的**监督**一项，监督要求审计；系统一致性认证是这些渠道中规模特别大的审计流程之一，但不是唯一渠道。*
 
 分布式理解是**[§16 深入治理](#16-深入探讨受托管理)**项下**支柱 3**面向社区的一面。完整定义、衡量方式和失效条件见[分布式理解](../../core_05.040_band_continuity.md#distributed-understanding)。概要如下：
 
@@ -222,7 +222,7 @@ flowchart TB
 
 <br>
 
-*简言之：机构必须真正学习，而不是只升级软件，却让掌权者依旧一无所知。这意味着建立反馈循环，在出现偏离时记录纠正措施，并留住专业能力，避免人才离开时能力也随之流失。如果行为可以重复测量，跟踪绩效随时间的变化是落实这些循环的一种合乎比例的做法；**统计过程控制**是这一管理方法中广为人知的一种模式，并非处处都必须采用。数字本身并不算数：指标看起来不对时，必须有人调查并修正根本原因。仪表板必须诚实、与实际影响相称，并采用受影响的 sentients 能够理解的表述；不能通过操纵数据制造良好观感，却不作任何改变。*
+*简而言之，机构必须真正学习，而不能只升级软件、却让负责人仍然一无所知。这意味着要建立反馈循环，在出现偏离时记录纠正措施，并留住专业能力。如果某种行为可以重复测量，跟踪绩效随时间的变化是落实反馈循环的一种合乎比例的方式；**统计过程控制**是这类纪律的一个知名模式，并非处处强制要求。光有数字不够：指标看起来不对时，必须有人调查并纠正根本原因。仪表板必须诚实、与实际影响相称，并以受影响的有感知者能够理解的方式呈现；不得为了看起来良好而操纵数据、掩盖毫无变化的事实。*
 
 机构发展是**支柱 3**的组织层面，属于**[§16 深入治理](#16-深入探讨受托管理)**。完整定义、衡量方式和失效条件见[机构发展](../../core_05.040_band_continuity.md#institutional-development)。概要如下：
 
@@ -269,7 +269,7 @@ flowchart TB
 
 <br>
 
-*简言之：在安全、真理和正当保密允许的情况下，共享系统默认应倾向开放：采用可检查的技术、透明的流程，以及可核验、可修复或可退出的设计，而不是不透明的锁定。这支持**连续性**：系统应让 sentients 能够随着时间推移持续理解、修复和退出，而不只是今天能使用。重要事项应以 sentients 真正能够使用、从而参与和提出异议的语言加以说明。开放性绝不凌驾于安全、诚实或正当保密之上；在依赖程度较高时，它也不能取代应提供的深入理解。*
+*简而言之：在安全、真实和正当保密允许的范围内，共享系统应以开放为默认：技术可供检查，流程透明，设计可供验证、修复或退出，而不是以不透明方式锁定使用者。这有助于实现**持续性**：有感知能力的存在能够随着时间推移理解、修复并退出系统，而不只是今天使用它。重要事项应以他们能够实际参与和提出异议的语言加以说明。开放性绝不能凌驾于安全、诚实或正当保密之上；在依赖程度高时，它也不能替代应提供的更深入理解。*
 
 开放愿景将**支柱 3**的两个方面连接起来。完整定义、衡量方式和失效条件见[开放愿景](../../core_05.040_band_continuity.md#openness-aspiration)。概要如下：
 
@@ -283,6 +283,58 @@ flowchart TB
 - **不得：**
   - 将开放性置于**安全**、**真理**、正当保密或安全限制之上
   - 取代以[实质性](core_05_band_oversight.md#实质性)和[依赖性](../../core_05.040_band_continuity.md#dependency)为依据的合乎比例的理解
+
+<a id="164-document-at-action"></a>
+#### 16.4 在行动发生时记录
+<details>
+<summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
+
+- 上游: [§16.3 开放愿景](#163-openness-aspiration); [§17.3 记录角色，而非治理者](#173-logging-the-role-not-the-steward).
+- 一并阅读: [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — 连续性; [宪法四元组](core_00_preamble.md#constitutional-tetrad) — 监督, 问责, 及时性; [Materiality](../../core_05.050_band_oversight.md#materiality) and [Dependency](../../core_05.040_band_continuity.md#dependency).
+- 下游：[CS-16.305 §10 可检查且可归责的行动](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)（*默认记录契约*）；[CF-15.445 §3.2 发布时效](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-32-publication-timeliness)（*论坛记录和延迟发布标记*）；[第十六条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)。
+
+</details>
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+
+- [开放愿景](../../core_05.040_band_continuity.md#openness-aspiration) · [O](../../core_05.040_band_continuity.md#openness-aspiration) · [M](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [A](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [C](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-c)
+- [实质性自主能力](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [可争辩性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [实质性](core_05_band_oversight.md#实质性) · [O](core_05_band_oversight.md#实质性) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [依赖性](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+
+- [可归属行动](../../core_05.035_band_accountability.md#attributable-action) · [O](../../core_05.035_band_accountability.md#attributable-action) · [M](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05.035_band_accountability.md#attributable-action-constitutional-c)
+- [监控边界](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [及时解决](../../core_05.035_band_accountability.md#timely-resolution) · [O](../../core_05.035_band_accountability.md#timely-resolution) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+</details>
+
+*通俗地说：重要事项一经实施，就应在实施过程中、当时并尽可能由系统本身形成行动记录。无人事后凭记忆补写。依法未受限制的信息应立即可见。受限信息仍应留下可见标记，说明行动已发生，并提供日后进一步了解的路径。由系统完成记录，因此管理者无需承担额外工作。*
+**行动发生时记录**是管理责任的默认规则：后果重大的行动及其行动记录同时发生。任何未写明时间的记录义务都可能让记录遗漏；本原则正是此类义务的基础。它同样约束人类和 AI 管理者，以及其运营的机构和系统：
+- **行动生成行动记录：**
+  - 行动记录应说明做了什么、由什么角色实施、依据谁的授权、基于什么依据及理由，并由行动本身生成。
+  - 在可行时，系统和流程应自动捕获记录，避免任何人事后凭记忆补写。
+  - 若目前尚不能自动采集，实施行动的感知主体应在行动发生时形成行动记录，而非事后凭记忆补写。
+  - 限制披露必须有合法依据，并在当时说明和记录。它只扣留落在该限制范围内的信息，绝不扣留整份行动记录。
+  - 从行动发生之时起，可见标记应说明行动已执行、行动记录的哪一部分被扣留、限制披露所依据的理由，以及其余内容今后将通过何种路径发布或重建。
+  - 若扣留行动记录本身的合法依据连标记也禁止，则仍须在行动发生时记录该依据，并在禁令终止时显示标记。
+  - 若每次行动后整理行动记录都让管理者额外花费数小时，而采集本可行却未建设，这就是[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)缺陷。解决办法是建设采集机制，而非要求管理者更加勤勉。
+本原则不：
+- **未受限制的信息立即可用：**行动发生时提供给有权查看者，无需先行申请。
+- **记录是系统的设计义务：**按[重大性](../../core_05.050_band_oversight.md#materiality)和[依赖关系](../../core_05.040_band_continuity.md#dependency)调整。
+- **设定期限：**“行动发生时”是记录的设计默认值。决策、答复和审查的时限仍由[第十五章 §6 及时解决、重要性等级和反拖延纪律](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)规定；此处不会延长或缩短这些期限。
+- **揭露任何人的内心生活：**[§17.3 记录角色，而非管理者](#173-logging-the-role-not-the-steward)要求行动记录跟随角色。[监视边界](../../core_05.040_band_continuity.md#surveillance-boundary)仍然有效：记录行动不等于监视行动者。
+- **凌驾于安全、真实、隐私、信息安全或有正当理由的保密之上：**本原则绝不要求公开受限信息。
+- **把行动记录变成裁决：**行动发生时形成的行动记录只是轨迹，不是地位认定，也不会开启地位记录。
+  - [第十一章——地位记录](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（11.000）（*地位影响实施分布式能力和后果重大的管理责任*）；
+  - [第十六章 §5——授权角色、能力发展与贡献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)（16.000 §5）；
+  - [第二十章](../../core_20.000_incorporation.md)（20.000）（*采纳的实施文本负责实施，不负责取代*）；
+  - 不得用较宽松的内部守则取代[地位衡量](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)、争议途径或第一章义务
+- **日志与地位记录：**混合团队的默认可检查性以及“日志不是记录”的规则见[§17.3 记录角色，而非管理者](#173-logging-the-role-not-the-steward)；地位衡量仍属于第十二章。
+- 下游：[第十一章——地位记录](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（11.000）（*经核实的失败沿相同轴线记录*）；[§17.3 记录角色，而非管理者](#173-logging-the-role-not-the-steward)。
+- **为赶期限而削减行动记录**——仅为赶上日期而停止审计轨迹，使他人无法据此重建发生了什么；
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. 后果导向的治理：治理者的角色
@@ -365,7 +417,7 @@ flowchart TB
 - 上游依据：[§17 后果导向的治理](#17-后果导向的治理治理者的角色)；[§16 深入治理](#16-深入探讨受托管理)；[§18 受托管纪律约束的治理](#18-受托责任纪律下的治理)。
 - 搭配阅读：[不因感知能力而排除](../../core_05.055_band_participation.md#sentience-non-exclusion)和[基底类别](../../core_05.055_band_participation.md#substrate-class)（*不依赖基底的适用方式——本小节约束义务承担者，包括未被承认为 sentients 的代理和运营者*）；[权限栈与内部层级](core_05_band_integrative.md#权威栈与内部层级)；[宪法约束](core_05_band_integrative.md#宪法约束)；[可争辩性](../../core_05.035_band_accountability.md#contestability)；[§17.5 抵制义务](#175-抵制义务)。
 - 治理者入口（非操作性）：下一步卡片：[共同治理](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- 下游依据：[§17.2 压力下保持一致](#172-压力下保持一致)；[§17.3 记录角色，而非治理者](#173-logging-the-role-not-the-steward)；[第十三章 §5——授权角色、能力发展与贡献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十七章](../../core_18.000_incorporation.md)（*经采纳的实施文本负责落实，而不是取代*）；[§19.1.3 治理与运营者适用条款](#1913-对监管者与操作人员的适用)。
+- 下游依据：[§17.2 压力下保持一致](#172-压力下保持一致)；[§17.3 记录角色，而非治理者](#173-logging-the-role-not-the-steward)；[第十三章 §5——授权角色、能力发展与贡献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十七章](../../core_20.000_incorporation.md)（*经采纳的实施文本负责落实，而不是取代*）；[§19.1.3 治理与运营者适用条款](#1913-对监管者与操作人员的适用)。
 
 </details>
 
@@ -448,7 +500,7 @@ flowchart TB
 
 - 上游依据：[§17.1 共同治理标准](#171-共同治理标准)；[§17.2 压力下保持一致](#172-压力下保持一致)；[§17 后果导向的治理](#17-后果导向的治理治理者的角色)。
 - 搭配阅读：[可归属行动](../../core_05.035_band_accountability.md#attributable-action)；[可审计性](core_05_band_oversight.md#可审计性)；[监控边界](../../core_05.040_band_continuity.md#surveillance-boundary)；[受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)；[§13.2.3 隐私](core_01_b_interaction_interpretation.md#1323-隐私与信息自决)；[第七-B条](core_06_rights_part_b.md#第-vii-b-条心智的自我所有权)（*心智自主权*）。
-- 下游依据：[CS-4 §10 可检查的可归属行动](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*混合人类/AI行动的默认日志合同，并非诉讼资格记录的替代品*）；[第十章 §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第十章 §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)。
+- 下游依据：[CS-4 §10 可检查的可归属行动](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)（*混合人类/AI行动的默认日志合同，并非诉讼资格记录的替代品*）；[第十章 §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第十章 §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)。
 
 </details>
 
@@ -466,7 +518,7 @@ flowchart TB
 
 *简言之：审计追踪的是角色工作，而不是治理者个人。承担角色前，你会被告知哪些内容将被记录。在角色之外，仍适用通常的隐私保护。日志不是诉讼资格记录。*
 
-**按角色范围开展审计：**必须记录的是角色工作，而非治理者个人：所作决定、披露或未披露的信息、遵循或拒绝的指令，以及授权者；这对人类和 AI 治理者同样适用。[CS-4 §10 可检查的可归属行动](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)规定日志合同。以下三项原则对其进行约束：
+**按角色范围开展审计：**必须记录的是角色工作，而非治理者个人：所作决定、披露或未披露的信息、遵循或拒绝的指令，以及授权者；这对人类和 AI 治理者同样适用。[CS-4 §10 可检查的可归属行动](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)规定日志合同。以下三项原则对其进行约束：
 
 - **范围随角色而定：**
   - 承担角色前，必须告知治理者该角色的哪些行动会被记录，以及谁可以检查日志。
@@ -573,7 +625,7 @@ flowchart TB
 - 上游：[§17 重大后果 stewardship](#17-后果导向的治理治理者的角色)；[§17.1 共同 stewardship 标准](#171-共同治理标准)（*义务约束哪些人*）；[§17.2 压力下的对齐](#172-压力下保持一致)（*掩盖指令作为一次失败的测试*）；[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)与[5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)。
 - 配合阅读：[权限栈与内部层级](core_05_band_integrative.md#权威栈与内部层级)；[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)；[第十三-A 条](core_06_rights_part_c.md#第十三条-a-款可靠性与可信赖性基线)（*可靠性与可信赖性基线*）——抵制期间，异议途径仍然开放。
 - Steward 入口（非操作性）：下一步卡片：[非法指令](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- 下游：[第十章 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵制义务——违规规则与 standing 效果*）；[CS-4 §10 可检查、可归因的行动](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*可检查、可归因的行动——拒绝行为的最低记录*）。
+- 下游：[第十章 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵制义务——违规规则与 standing 效果*）；[CS-4 §10 可检查、可归因的行动](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)（*可检查、可归因的行动——拒绝行为的最低记录*）。
 
 </details>
 
@@ -626,7 +678,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[第十章 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵制义务*）将此义务适用于地位影响；[CS-4 §10 可检查、可归责的行动](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*可检查、可归责的行动*）规定了拒绝行为的最低记录要求。
+[第十章 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵制义务*）将此义务适用于地位影响；[CS-4 §10 可检查、可归责的行动](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)（*可检查、可归责的行动*）规定了拒绝行为的最低记录要求。
 
 <br>
 
@@ -643,7 +695,7 @@ flowchart TB
 - 结合阅读[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)：多名管理者能够相互核查的**监督**；及早发现问题（包括职能交界处问题）的**及时性**；进入重要工作的开放**参与**渠道；并按[material stake](core_00_preamble.md#material-stake)调整尺度。
 - 结合阅读[§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship)、[§19.2 Convenient Proxies and Proxy Divergence](#192-便利的代理指标与代理指标偏离)、[§19.3 Misalignment Detection](#193-错位检测)（多方检测）和[§19.4 Misalignment Correction and Capture Response](#194-错位纠正与系统俘获应对)。
 - 限制：[§18.3 Separation of Duties](#183-职责分离)及[Chapter Eight §2 Four-Seat Constitutional Requirement](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)（学习某席位不等于担任该席位）；[Chapter Eleven §6.2 Competency bars and clearances](core_09_standing_integration.md#62-competency-bars-and-clearances)；[§17.5 Duty to Resist](#175-抵制义务)；[13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-认知披露限制)。
-- 后续落实：[Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)（避免在有感知生命层面出现单点失效）；[CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy)；[CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement)；[CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md).
+- 后续落实：[Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)（避免在有感知生命层面出现单点失效）；[CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy)；[CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement)；[CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md).
 
 </details>
 
@@ -705,7 +757,7 @@ flowchart TB
 
 <br>
 
-*简单来说：治理决定谁可以决定什么以及如何决定——但前提是这些结构始终受受托责任纪律约束，同时服务于繁荣与连续性，不掏空四元原则，也不取代第十三章的操作性授权规则。*
+*通俗地说：治理决定谁可以决定什么、如何决定——但前提是这些结构持续遵守管理责任纪律，共同服务于繁荣和延续，不掏空四元组，也不取代第十六章的运行授权规则。*
 
 本节将[治理](../../core_05.035_band_accountability.md#governance)纪律延续至[§16 深入探讨受托责任](#16-深入探讨受托管理)之后：授权结构、制度世俗主义、受托责任优先、[持续论证](#184-持续论证)以及职责分离。**[§19 激励协调与系统俘获](#19-激励协调与系统俘获)**负责激励协调、代理完整性、短期缺陷纠正、对运营者的适用以及对俘获的响应。
 
@@ -740,7 +792,7 @@ flowchart TB
 
 *简单来说：治理是权力规则手册——谁可以决定什么、通过哪些结构，以及谁必须对结果负责。一个角色权力越大，其问责与监督义务就应越强——绝不能更弱。只有在治理帮助感知者随时间繁荣、保留真正的参与和监督途径，并受[§16 深入探讨受托责任](#16-深入探讨受托管理)中的受托责任纪律约束时，这套规则才有效。若规则手册本身会保护机构、追逐短期收益或侵蚀基本权利底线，那么仅仅遵守它并不足够。*
 
-在原则层面，[治理](../../core_05.035_band_accountability.md#governance)是指导并问责已获授权的系统与机构的方式——其定义见**第五章**；关于**宪法契约层**和[序言](../../core_00.000_preamble.md#preamble--foundational-requirements)中的利益相关者参与层，其操作细节载于**第十三章**。授权治理必须在[两项宪法目标](core_00_preamble.md#two-constitutional-aims)下、依照[宪法四元原则](core_00_preamble.md#constitutional-tetrad)推进，并按[重大利害关系](core_00_preamble.md#material-stake)调整尺度。
+在原则层面，[治理](../../core_05.035_band_accountability.md#governance)是指导并要求已获授权的系统和机构承担责任的方式——如**第五章**所定义，并由**第十六章**针对**宪法契约层**和利益相关方参与层作出具体运行规定，见[序言](core_00_preamble.md#preamble--foundational-requirements)。经授权的治理必须推进[两项宪法目标](core_00_preamble.md#two-constitutional-aims)，在[宪法四元组](core_00_preamble.md#constitutional-tetrad)之下按[重大利害关系](core_00_preamble.md#material-stake)的程度调整。
 
 **治理涵盖：**
 
@@ -1138,7 +1190,7 @@ flowchart TB
   - 违法或违宪的命令行为；
   - 隐瞒；
   - 报复；
-  - [妨碍问责](core_08_standing_assessment.md#232-violation-event-types)（资格模型中的事件类型，以及[第十一章 §5.11 妨碍问责：标准交互](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)指定的路由——并非独立的奖励例外）；或
+  - [妨碍问责](core_08_standing_assessment.md#232-violation-event-types)（资格模型中的事件类型，以及[第十一章 §5.11 妨碍问责：标准交互](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)指定的路由——并非独立的奖励例外）；或
   - 拒绝补救经核实的宪制伤害；或
 - 实质上依赖不当行为或其隐瞒的奖励途径，包括：
   - 薪酬、奖金、股权、任命、晋升或任期；
@@ -1146,7 +1198,7 @@ flowchart TB
   - 和解、赔偿、保险或豁免；或
   - 类似安排。
 
-**激励错位的后果。** 通过上述禁止的奖励途径获得的实质性奖励，须根据资格地位模型予以没收并报告。请参阅[第十章 §5.4 报告义务与排除事项](core_09_standing_integration.md#54-special-violation-rules)、[§5.4 没收与保留](core_09_standing_integration.md#54-special-violation-rules)以及[§5.4 纠正、记录与转送](core_09_standing_integration.md#54-special-violation-rules)。
+**奖励错位的后果。**通过上述禁止奖励路径获得的重大报酬，应依地位模型予以没收和报告。参见[第十三章 §6.4 报告义务和排除事项](../../core_13.000_standing_integration.md#64-special-violation-rules)、[§6.4 没收与保留](../../core_13.000_standing_integration.md#64-special-violation-rules)以及[§6.4 更正、记录和路由](../../core_13.000_standing_integration.md#64-special-violation-rules)。
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 对监管者与操作人员的适用
@@ -1174,7 +1226,7 @@ flowchart TB
 **详情见：**
 
 - 关于授权角色、能力以及监管者和操作人员进入真正重要工作的路径，请参阅[第十三章 §5——授权角色、能力发展与贡献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；
-- 关于在高影响系统中如何履行该义务，请参阅[**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md)（*关键系统监管*）；以及
+- 关于在高影响系统中如何履行该义务，请参阅[**CS-4**](../../corpus_systems/cs_16.305_critical_system_stewardship.md)（*关键系统监管*）；以及
 - 关于实际工作和社区能力的原则层面说明，请参阅[§16 深入探讨监管](#16-深入探讨受托管理)。
 
 这些路径：
@@ -1264,6 +1316,7 @@ flowchart TB
 <br>
 
 *简而言之：治理出错时，不能只有一个感知者能够发现、核查或质疑问题。检测需要多个相互独立的检测途径；在安全与分类规则允许的范围内开放数据并进行审计；出现俘获或错位时明确升级处理——不能悄然当作日常业务吸收掉。该升级规则见[§19.3.1 俘获升级触发条件](#1931-系统俘获升级触发因素)。*
+- 它仍受[§13.2 认识披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)以及**[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)（*信息类型与处理*）和[CS-6.310](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**（*数据分类*）约束，包括Type N及其他关于可收集、发布、保留或重构内容的分类限制。
 
 **多元检测与审查。**其定义见第五章：[错位检测](core_05_band_integrative.md#失配检测)。概括如下：
 
@@ -1308,7 +1361,7 @@ flowchart TB
 - **定期审查与纠正：**[审查与纠正义务](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **强化审查：**[§11.1 市场集中度阈值机制](core_01_a_values_principles.md#111-市场集中阈值机制由采纳方调整)以及 [§11.2 促进竞争与反支配](core_01_a_values_principles.md#112-促进竞争与防止支配)，当市场集中或支配具有重大影响时适用。
 - **资格与违规机制：**[第九章——贡献、违规与资格模型](core_08_standing_assessment.md)，当涉及经核实的认定时适用。
-- **反宪法不当行为：**[第十一章 §5.1 基于集中的颠覆：标准交互](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)，当集中或程序俘获构成反宪法不当行为时适用。
+- **违宪不当行为：**[第十四章 §5.1 基于权力集中的颠覆：标准互动](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)，权力集中或程序俘获构成违宪不当行为时适用。
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 错位纠正与系统俘获应对

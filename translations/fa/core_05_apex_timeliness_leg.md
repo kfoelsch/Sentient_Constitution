@@ -82,7 +82,7 @@
 **برگ‌های خانوادهٔ اندازه‌گیری به‌هنگامی** — سطح‌های اندازه‌گیری عملیاتی:
 
 - [حل به‌هنگام](../../core_05.035_band_accountability.md#timely-resolution)
-- [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- [گرفتن مسیرهای وضوح] (../../core_05.040_band_continuity.md#capture-of-resolution-pathways)؛
 
 **عرضی.** به‌هنگامی از مشارکت، نظارت و پاسخگویی می‌گذرد؛ آن پاها باید به‌موقع رخ دهند تا مفید باشند.
 

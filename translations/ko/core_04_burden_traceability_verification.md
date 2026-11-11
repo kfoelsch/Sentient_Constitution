@@ -9,6 +9,7 @@
 > **이전(이 언어):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
 > **다음(이 언어):** [core_05__definitions_home.md](core_05__definitions_home.md)
+> **하위:** [제9장 — 시스템 정렬 인증](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제11장 — 지위 기록](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 > **읽기 호:** §1 부담 배분 → §2 추적 지도 → §3 관찰 가능성 → §4 보안 한도 → §5 증거 표준 → §6 인증 층 경계 (비운영)
 
 </details>
@@ -18,9 +19,9 @@
 
 > 이것이 사는 곳 (안내):
 > - **사원(四元) 지도:** 부담 배분, 증거, 추적 가능성, 관찰 가능성, 확인은 [전문](core_00_preamble.md#전문--기초-요건)에서 세운 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **감독** 다리와 **책무** 다리를 시행한다; **참여**는 **3**절과 **4**절 아래의 실무 관찰 가능성과 독립 이의를 통해, 실질로 요구되는 곳에서. 요건은 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된다.
-> - **헌법 주관자:** 부담 배분, 준수 증거, 정의 추적 가능성, 관찰 가능성, 보안 제약 확인. **제10장**은 이 장과 함께 읽는 궤적 기록과 확인된 입력 규율을 주관한다.
+> - **헌법상 담당:** 입증 부담 배분, 준수 증거, 정의 추적성, 관찰 가능성, 보안 제약을 받는 검증. 이 장과 함께 읽는 지위 기록 및 검증된 입력 규율은 **제11장**이 담당한다.
 > - **시행 주관자:** 지정된 시행 파일에서의 배치, 데이터 취급, 보증 기계는 이 규칙과 일관되게 남아야 하며, 코퍼스가 이미 더 엄격한 규칙 논리를 제공하는 곳에서는 더 엄격해도 된다.
-> - **자리 옮김 금지 규칙:** 이 장은 부담, 추적, 관찰 가능성, 보안 한도, 증거만 다스린다. 제5장 정의, **제10장** 기여 또는 궤적 측정, 또는 제12장 반헌법 부당행위 기준을 다시 말하지 않는다. 확인된 비준수의 궤적으로의 라우팅은 [제3장 §3 — 비준수 소견 프로필](core_03_definition_integrity.md#3-비준수-소견-프로필)과 [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)이 다스린다. **6절**은 제2장부터 제4장이 [제9장 — 체계 정합 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 어떻게 다른지를 말한다.
+> - **관할 이전 금지 규칙:** 이 장은 입증 부담, 추적, 관찰 가능성, 보안 한계, 증거만을 다룬다. 제5장 정의, **제12장**의 기여 또는 지위 측정, 제14장의 반헌법적 위법행위 기준을 다시 서술하지 않는다. 검증된 비준수의 지위 절차 회부는 [제3장 §3 — 비준수 판단 프로필](core_03_definition_integrity.md#3-non-compliance-finding-profiles)과 [제11장 — 지위 기록](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)이 정한다. **§6**은 제2장에서 제4장까지와 [제9장 — 시스템 정렬 인증](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)의 차이를 밝힌다.
 
 </details>
 
@@ -43,11 +44,11 @@
 
 | 단계 | 쉬운 일 | 절 |
 | --- | --- | --- |
-| **1 — 누가 증명하는가** | 부담은 준수를 주장하는 쪽에 놓인다 | [§1](#1-전속-집행과-부담-배분) |
-| **2 — 지도를 보이라** | 정의에서 관찰 가능한 행위로의 구조화된 추적 | [§2](#2-정의-추적-가능성-요건) |
-| **3 — 점검할 수 있게 하라** | 체계는 지도를 확인할 만큼을 드러내야 한다 — 이론이 아니라 실무에서 | [§3](#3-추적-가능성의-관찰-가능성-요건) |
-| **4 — 보안 한도** | 실제 보안 한도는 허용된다; 구실인 차단은 허용되지 않는다 | [§4](#4-보안-제약-관찰-가능성과-확인-규칙) |
-| **5 — 무엇이 세는가** | 증거는 실제이고, 완전하고, 독립하고, 지속되어야 한다 | [§5](#5-준수-증거-표준) |
+| **1 — 누가 입증하는가** | 준수를 주장하는 쪽에 입증 부담이 있다 | [§1 배타적 집행과 입증 부담 배분](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — 지도를 제시하라** | 정의에서 관찰 가능한 행동까지의 구조화된 추적 | [§2 정의 추적성 요건](#2-definition-traceability-requirement) |
+| **3 — 확인 가능하게 하라** | 이론이 아니라 실제로 지도를 검증할 수 있도록 시스템이 충분한 정보를 드러내야 한다 | [§3 추적성 관찰 가능성 요건](#3-observability-of-traceability-requirement) |
+| **4 — 보안 한계** | 실제 보안 한계는 허용되지만, 구실로 만든 차단은 허용되지 않는다 | [§4 보안 제약형 관찰 가능성 및 검증 규칙](#4-security-constrained-observability-and-verification-rule) |
+| **5 — 무엇이 증거인가** | 증거는 실재하고 완전하며 독립적이고 지속적이어야 한다 | [§5 준수 증거 기준](#5-compliance-evidence-standard) |
 
 **쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
 
@@ -96,7 +97,7 @@
 
 <strong><span style="color: #2563eb;">정의:</span></strong> [예견 가능성](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
-*쉬운 말로: 2절은 추적 지도를 요구합니다 — 이 절은 수권되었거나 영향받는 당사자가 이론이 아니라 실무에서 지도를 점검할 만큼, 체계가 자신을 드러낼 것을 요구합니다. 불투명한 아키텍처, 바깥 의존, 블랙박스 구성에 통과증은 없습니다.*
+*쉽게 말해: §2는 추적 지도를 요구한다. 이 절은 권한이 있는 당사자나 영향을 받는 당사자가 이론뿐 아니라 실제로도 지도를 확인할 수 있도록 시스템이 충분히 드러내야 한다고 요구한다. 불투명한 구조, 외부 의존성, 블랙박스 구성요소는 면책되지 않는다.*
 
 2절은 추적 지도를 요구한다; 이 절은 그 지도가 실무에서 점검되도록, 체계가 자신을 충분히 드러낼 것을 요구한다.
 
@@ -122,7 +123,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [제4장, 3절 — 추적 가능성의 관찰 가능성 요건](#3-추적-가능성의-관찰-가능성-요건); [제1장, 8.2절 — 인식 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- 상위 원칙: [제4장 §3 — 추적성 관찰 가능성 요건](#3-observability-of-traceability-requirement); [제1장 §6.2 — 인식론적 공개 제약](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
 - 하류: [제4장, 5절 — 준수 증거 표준](#5-준수-증거-표준); [corpus_systems.md](../../corpus_systems.md), **CS-2 — 정보 유형과 취급**, 및 **CS-5** — 운영 암호, 자격 정보, 정보 유형 취급.
 - 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05.050_band_oversight.md#foreseeability) — 합리적으로 예견 가능한 조건 아래에서 확인을 예측 가능하게 막는 설계 선택은, 말해진 보안 근거와 관계없이 비준수다; [제5장 진실(헌법 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)과 [제5장 안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — 암호와 정보 유형 취급은 **2**절, **3**절, 또는 **5**절을 대체해서는 안 된다; 환경 분리 제약이 실질인 곳에서 **Articles VII-A**, **VII-B**, **XVI-A**, **XVII-A**.
 
@@ -157,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제4장, 1절부터 4절](#1-전속-집행과-부담-배분); [제2장, §1 — 목적과 역할](core_02_definition_structure.md#1-목적과-역할); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-정의-완전성-요건); [제2장, §3 정의 스택에 걸친 일관성](core_02_definition_structure.md#3-정의-스택에-걸친-일관성); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-정의-완전성과-회피-금지-제약); [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](core_03_definition_integrity.md#2-관찰-가능한-체계-행위에서-오는-비준수); [제3장, §2.6 불확실성 완전성과 착취 금지 제약](core_03_definition_integrity.md#26-불확실성-완전성과-착취-금지-제약) — 실체 정의와 비준수 규칙; **§4**는 증거 층 요건만 말하며 그 규칙을 다시 말하지 않는다.
-- 하류: [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- 하위: [제11장 — 지위 기록](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
 - 함께 읽기: [제4장, 2절 — 정의 추적 가능성 요건](#2-정의-추적-가능성-요건) — 실질로 요구되는 어떤 **제5장** 정의든 불러내지 않거나 바르게 적용하지 못하면, 관련된 평가, 증거, 준수 인정을 온전히 무효로 한다; [제1장, §6 — 과정 충돌 해결](core_01_b_interaction_interpretation.md); 세기 조절이 감지자 복지와 긴 지평 안정 사이의 교환에 영향을 미치는 곳에서 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [제5장 안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [제5장 진실(헌법 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [제5장 인식 완전성](../../core_05.050_band_oversight.md#epistemic-integrity) — 경험적, 예측적, 또는 인과적 주장에 대한 과학에 정통한 증거 정합.
 
 </details>
@@ -191,8 +192,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제2장 — 정의 구조와 구성 요건](core_02_definition_structure.md#제2장-정의-구조와-구성-요건); [제3장 — 정의 완전성, 회피, 비준수](core_03_definition_integrity.md#제3장-정의-완전성-회피-비준수); [제4장, 1절부터 5절](#1-전속-집행과-부담-배분).
-- 하류: [제9장 — 체계 정합 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- 함께 읽기: [제9장 §7 — 인증 결과](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인증과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
+- 하위: [제9장 — 시스템 정렬 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [제11장 — 지위 기록](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- 함께 읽기: [제9장 §7 — 인증 결과](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — 제2장부터 제4장까지에 따른 검증된 비준수는 이전 인증 여부와 관계없이 인증을 재개하거나 무효화할 수 있다.
 
 </details>
 
@@ -209,10 +210,10 @@
 
 이것들은 준수가 평가될 때마다 적용된다 — 인증이 있든 없든.
 
-**[제9장 — 체계 정합 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 은 실질인 곳에서 포럼 감독 **인증 과정**을 공급한다: 전체 체계 평가 영역, 인증 기록 의무, 인증 결과, 재인증 주기, 다툴 수 있음 사슬, 제10장으로의 확인된 입력 다리. 그것은 제2장부터 제4장을 **적용한다**; 그것들을 **다시 말하지 않는다**.
+**[제9장 — 시스템 정렬 인증](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)**은 중대한 경우 포럼 감독을 받는 **인증 절차**를 제공한다. 여기에는 시스템 전체 평가 영역, 시스템 및 기관 인증 기록 의무, 인증 결과, 인증 간격, 이의제기 가능성 경로, 제11장으로 이어지는 검증 입력 연결고리가 포함된다. 이 장은 제2장에서 제4장까지를 **적용**하며 이를 다시 서술하지는 않는다.
 
 독자는 다음처럼 다루어서는 안 된다:
-- **인증 기록**을 제2장부터 제4장 아래의 계속되는 준수의 대체로
+- **시스템 또는 기관 인증 기록**을 제2장에서 제4장까지에 따른 지속적 준수의 대체물로 취급하는 것
 - **제9장** 인증, 조건부 인증, 또는 재인증을 이 장의 증명, 추적, 또는 증거 표준을 낮추는 것으로
 - 체계가 이전에 인증되었다고 **제2장부터 제4장**을 선택으로 — 그 장들 아래의 확인된 비준수는 제9장 아래에서 인증을 재개방하거나 무너뜨릴 수 있다
 

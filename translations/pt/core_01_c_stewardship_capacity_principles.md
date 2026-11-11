@@ -79,7 +79,7 @@
 
 <br>
 
-*Em termos simples: três ideias mantêm esta seção unida. Primeiro, sistemas materiais que afetam a vida de seres sencientes precisam ser operados com competência por meio da organização dos próprios sencientes — não por um sacerdócio fechado de especialistas. Segundo, bons zeladores não esperam que o dano os obrigue a agir: percebem os problemas enquanto ainda são pequenos, fazem-nos chegar às mãos certas no momento adequado e os resolvem antes que a demora se torne, ela mesma, um dano. Terceiro, essa organização deve desenvolver **competência em escala**: caminhos reais para que indivíduos assumam trabalhos com consequências relevantes, compreensão comunitária suficiente para perceber problemas e contestá-los, e instituições que continuem aprendendo em vez de estagnar.*
+*Em termos simples: três ideias sustentam esta seção. Primeiro, sistemas materiais que afetam a vida de sencientes precisam da organização dos próprios sencientes para funcionar bem — não de um sacerdócio fechado de especialistas. Segundo, bons responsáveis não esperam que o dano os obrigue a agir: percebem o problema enquanto ainda é pequeno, encaminham-no às pessoas certas e o resolvem antes que o atraso se torne, ele próprio, um dano. Terceiro, essa organização deve construir **competência em escala**: caminhos reais para que indivíduos cheguem a trabalhos consequentes, compreensão comunitária suficiente para perceber e contestar problemas e instituições que continuem aprendendo em vez de estagnar.*
 
 <a id="16-limits"></a>
 A zeladoria tem limites. **Segurança**, **Verdade**, **Necessidade**, **Proporcionalidade**, **Encargo Evitável** e **Integridade Epistêmica** estabelecem limites para que esses deveres tenham dimensão justa, sejam honestos e respeitem necessidades legítimas de segurança — os pilares abaixo operam dentro dessas restrições, sem contorná-las.
@@ -183,7 +183,7 @@ A tutela é a primeira linha, não a única. Três perguntas diferentes têm tr�
 
 <br>
 
-*Em termos simples: ninguém deveria precisar de doutorado em cada subsistema para viver com segurança dentro de sistemas compartilhados — mas, quanto mais um sistema afeta sua vida, mais você deve poder aprender o que ele faz, o que pode dar errado e como contestar decisões ruins. Transparência, educação, explicações claras e vias de auditoria tornam isso possível. A complexidade não é desculpa para esconder o que importa. No componente de **supervisão** da Tétrade, a supervisão exige auditoria; a certificação de alinhamento do sistema é um processo de auditoria especialmente amplo entre essas vias, mas não o único.*
+*Em termos simples: não deveria ser necessário ter doutorado em cada subsistema para viver com segurança dentro de sistemas compartilhados — mas, quanto mais um sistema afeta sua vida, mais você deve poder aprender o que ele faz, o que pode dar errado e como contestar decisões ruins. Transparência, educação, explicações claras e caminhos de auditoria tornam isso possível. A complexidade não é desculpa para ocultar o que importa. Na dimensão de **supervisão** da Tétrade, supervisionar exige auditoria; a certificação de alinhamento do sistema é um processo de auditoria especialmente amplo entre esses caminhos — não o único.*
 
 A compreensão distribuída é a faceta voltada à comunidade do **Pilar 3** sob **[§16 Tutela em Profundidade](#16-a-zeladoria-em-profundidade)**. A definição completa, as medidas e as condições de falha estão em [Compreensão Distribuída](../../core_05.040_band_continuity.md#distributed-understanding). Em resumo:
 
@@ -222,7 +222,7 @@ A compreensão distribuída **não** exige que cada senciente domine todos os su
 
 <br>
 
-*Em termos simples: as instituições precisam realmente aprender — não apenas atualizar o software enquanto os responsáveis continuam sem compreender o sistema. Isso exige ciclos de feedback, correções documentadas quando há desvios e a retenção da competência na organização. Quando o comportamento pode ser medido repetidamente, acompanhar a variação do desempenho ao longo do tempo é uma forma proporcional de implementar esses ciclos — o **controle estatístico de processos** é um método conhecido para essa disciplina, mas não uma exigência universal. Números, por si só, não bastam: quando os indicadores parecem errados, alguém precisa investigar e corrigir a causa-raiz. Painéis devem ser honestos, proporcionais ao impacto real e redigidos de modo que os seres sencientes afetados possam compreendê-los — sem manipulação para parecerem bons enquanto nada muda.*
+*Em termos simples: as instituições precisam realmente aprender, não apenas atualizar softwares enquanto quem está no comando continua sem entender. Isso exige ciclos de feedback, correções documentadas quando há desalinhamento e retenção de competência. Quando o comportamento puder ser medido de forma repetida, acompanhar como o desempenho varia ao longo do tempo é uma maneira proporcional de implementar esses ciclos — o **controle estatístico de processos** é um padrão conhecido para essa disciplina, não uma exigência universal. Números sozinhos não bastam: se os indicadores parecerem errados, alguém deve investigar e corrigir a causa raiz. Painéis devem ser honestos, proporcionais ao impacto real e compreensíveis para os sencientes afetados — não manipulados para parecer bons enquanto nada muda.*
 
 O desenvolvimento institucional é a dimensão organizacional do **Pilar 3** em **[§16 Stewardship em Profundidade](#16-a-zeladoria-em-profundidade)**. A definição completa, as medidas e as condições de falha constam de [Desenvolvimento Institucional](../../core_05.040_band_continuity.md#institutional-development). Em resumo:
 
@@ -269,7 +269,7 @@ O desenvolvimento institucional é a dimensão organizacional do **Pilar 3** em 
 
 <br>
 
-*Em termos simples: quando a segurança, a verdade e a confidencialidade legítima permitem, os sistemas compartilhados devem favorecer a abertura por padrão — tecnologias inspecionáveis, processos transparentes e projetos que possam ser verificados, reparados ou deixados — em vez de um aprisionamento opaco. Isso apoia a **Continuidade**: ao longo do tempo, seres sencientes ainda podem compreender, corrigir e sair dos sistemas, e não apenas usá-los hoje. O que importa deve ser explicado em linguagem que os seres sencientes possam realmente usar para participar e contestar. A abertura nunca se sobrepõe à segurança, à honestidade ou a segredos justificados, nem substitui a compreensão mais profunda devida onde a dependência é elevada.*
+*Em termos simples: quando a segurança, a verdade e a confidencialidade legítima permitirem, os sistemas compartilhados devem privilegiar a abertura: tecnologia inspecionável, processos transparentes e projetos que se possa verificar, reparar ou deixar, em vez de um bloqueio opaco. Isso apoia a **Continuidade**: que seres sencientes ainda possam compreender, consertar e sair dos sistemas ao longo do tempo, e não apenas usá-los hoje. O que importa deve ser explicado em linguagem que permita participação e contestação reais. A abertura nunca se sobrepõe à segurança, à honestidade ou a segredos justificados, nem substitui a compreensão mais profunda devida quando há alta dependência.*
 
 A aspiração à abertura conecta as duas dimensões do **Pilar 3**. A definição completa, as medidas e as condições de falha constam de [Aspiração à Abertura](../../core_05.040_band_continuity.md#openness-aspiration). Em resumo:
 
@@ -283,6 +283,58 @@ A aspiração à abertura conecta as duas dimensões do **Pilar 3**. A definiç�
 - **Não deve:**
   - elevar a abertura acima da **Segurança**, da **Verdade**, da confidencialidade justificada ou das restrições de segurança;
   - substituir a compreensão proporcional à [Materialidade](../../core_05.050_band_oversight.md#materiality) e à [Dependência](../../core_05.040_band_continuity.md#dependency).
+
+<a id="164-document-at-action"></a>
+#### 16.4 Documentar no momento do ato
+<details>
+<summary><strong><span style="color: #2563eb;">Rastreamento</span></strong></summary>
+
+- Referências anteriores: [§16.3 Aspiração à Abertura](#163-openness-aspiration); [§17.3 Registro do Papel, não do Steward](#173-logging-the-role-not-the-steward).
+- Leia junto com: [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) — Continuidade; [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — supervisão, responsabilização, tempestividade; [Materiality](../../core_05.050_band_oversight.md#materiality) and [Dependency](../../core_05.040_band_continuity.md#dependency).
+- Abaixo: [CS-16.305 §10 ação inspecionável e atribuível](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*contrato padrão de registro*); [CF-15.445 §3.2 Oportunidade da publicação](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-32-publication-timeliness) (*registros de fóruns e marcadores de publicação atrasada*); [Artigo XVI: Auditoria, Transparência e Verificação Independente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+
+</details>
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
+
+- [Aspiração à Abertura](../../core_05.040_band_continuity.md#openness-aspiration) · [O](../../core_05.040_band_continuity.md#openness-aspiration) · [M](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [A](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [C](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-c)
+- [Agência Significativa](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [Contestabilidade](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Materialidade](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](../../core_05.050_band_oversight.md#materiality-determination-a) · [A](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
+- [Dependência](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+
+- [Ação Atribuível](../../core_05.035_band_accountability.md#attributable-action) · [O](../../core_05.035_band_accountability.md#attributable-action) · [M](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05.035_band_accountability.md#attributable-action-constitutional-c)
+- [Limite de Vigilância](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [Prestação de Contas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution) · [O](../../core_05.035_band_accountability.md#timely-resolution) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+</details>
+
+*Em termos simples: quando algo importante é feito, o Registro do Ato deve ser criado pelo próprio ato, naquele momento e, sempre que possível, pelo próprio sistema. Ninguém deve redigi-lo depois de memória. O que não estiver legalmente restrito deve ficar visível de imediato. O que estiver restrito ainda deve deixar um sinal visível de que algo foi feito e uma forma de obter mais informações depois. O sistema registra, sem trabalho adicional para quem exerce custódia responsável.*
+
+**Documentar no momento do ato** é o padrão de custódia responsável segundo o qual um ato de consequências e seu Registro do Ato ocorrem juntos. É o princípio que rege deveres de registro que, sem isso, não indicariam prazo e permitiriam que o Registro do Ato fosse omitido. Vincula igualmente responsáveis humanos e de IA, bem como as instituições e sistemas que operam:
+- **O ato cria o Registro do Ato:**
+  - O registro da ação identifica o que foi feito, por qual função, sob qual autoridade, com qual fundamento e por quais razões; ele é produzido pela própria ação.
+  - Sistemas e processos devem capturá-lo automaticamente sempre que viável, para que ninguém precise registrá-lo depois de memória.
+  - Quando a captura ainda não puder ser automatizada, o sentiente que age cria o Registro do Ato no momento da ação, não depois, de memória.
+  - Uma restrição exige fundamento legal para limitar a divulgação, declarado e registrado no momento. Ela retém apenas as informações dentro de seu escopo, nunca todo o Registro do Ato.
+  - Desde o momento da ação, um marcador visível indica que um ato ocorreu, que parte do Registro do Ato está retida, o fundamento declarado para limitar a divulgação e a via pela qual o restante será divulgado ou reconstruído depois.
+  - Se o fundamento legal para reter o próprio Registro do Ato também impedir o marcador, essa base ainda é registrada no momento da ação, e o marcador aparece quando a proibição terminar.
+  - Um Registro do Ato que consome horas extras de quem exerce custódia responsável após cada ato é um defeito de [Ônus evitável](../../core_05.040_band_continuity.md#avoidable-burden) quando era viável construir a captura e isso não foi feito. A solução é construir a captura, não exigir mais diligência.
+Este princípio não:
+- **Informações sem restrição ficam disponíveis de imediato:** quando a ação ocorre, forneça-as a quem tem direito de vê-las; não é preciso pedir antes.
+- **Registrar é uma obrigação de projeto do sistema:** dimensionada pela [Materialidade](../../core_05.050_band_oversight.md#materiality) e pela [Dependência](../../core_05.040_band_continuity.md#dependency).
+- **Definir um prazo:** “No momento do ato” é o padrão de projeto para registros. Os prazos para decisões, respostas e revisão continuam onde [Capítulo Quinze §6 Resolução oportuna, níveis de materialidade e disciplina antiatraso](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) os estabelece; nada aqui os amplia ou reduz.
+- **Abrir a vida interior de alguém:** O Registro do Ato acompanha a função, conforme [§17.3 Registrar a função, não quem a exerce](#173-logging-the-role-not-the-steward). Permanece o [Limite de vigilância](../../core_05.040_band_continuity.md#surveillance-boundary): registrar o ato não é vigiar quem o realizou.
+- **Se sobrepor à Segurança, à Verdade, à privacidade, à segurança ou à confidencialidade justificada:** nunca exige que informações restritas sejam publicadas.
+- **Transformar um Registro do Ato em veredito:** Criado no momento da ação, o registro é um rastro, não uma constatação de standing, e não abre um registro de standing.
+  - [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*o efeito de standing implementa competência distribuída e custódia responsável de consequências*);
+  - [Capítulo Dezesseis §5 — Funções autorizadas, desenvolvimento de competências e contribuição](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (16.000 §5);
+  - [Capítulo Vinte](../../core_20.000_incorporation.md) (20.000) (*o texto de implementação adotado implementa; não substitui*);
+  - não pode substituir a [medição de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened), as vias de contestação ou os deveres do Capítulo Um por um código interno mais brando
+- **Registro versus registros de standing:** A possibilidade padrão de inspeção de equipes mistas e a regra de que o log não é um registro constam de [§17.3 Registrar a função, não quem a exerce](#173-logging-the-role-not-the-steward); a medição de standing continua no Capítulo Doze.
+- Consequências posteriores: [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*falhas verificadas são registradas nos mesmos eixos*); [§17.3 Registrar a função, não quem a exerce](#173-logging-the-role-not-the-steward).
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Stewardship com consequências significativas: o papel do steward
@@ -365,7 +417,7 @@ O restante desta seção trata do próprio papel.
 - Referências anteriores: [§17 Stewardship com consequências significativas](#17-stewardship-com-consequências-significativas-o-papel-do-steward); [§16 Stewardship em Profundidade](#16-a-zeladoria-em-profundidade); [§18 Governança sob a Disciplina de Stewardship](#18-governança-sob-a-disciplina-de-tutela).
 - Leia em conjunto com: [Não Exclusão por Senciência](../../core_05.055_band_participation.md#sentience-non-exclusion) e [Classe de Substrato](../../core_05.055_band_participation.md#substrate-class) (*aplicação independente do substrato — este subtópico vincula titulares de deveres, inclusive agentes e operadores que não são reconhecidos como sencientes*); [Hierarquia de Autoridade e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna); [Restrição Constitucional](core_05_band_integrative.md#restrição-constitucional); [Contestabilidade](../../core_05.035_band_accountability.md#contestability); [§17.5 Dever de Resistir](#175-dever-de-resistir).
 - Porta de entrada para stewards (não operativa): cartão de próxima etapa [Stewardship compartilhado](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- Aplicações posteriores: [§17.2 Alinhamento sob Pressão](#172-alinhamento-sob-pressão); [§17.3 Registro do Papel, não do Steward](#173-logging-the-role-not-the-steward); [Capítulo Treze §5 — Funções Autorizadas, Desenvolvimento de Competência e Contribuição](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [Capítulo Dezessete](../../core_18.000_incorporation.md) (*o texto de implementação adotado implementa as regras; não as substitui*); [§19.1.3 Aplicação do Stewardship e da Operação](#1913-aplicação-a-tutores-e-operadores).
+- Aplicações posteriores: [§17.2 Alinhamento sob Pressão](#172-alinhamento-sob-pressão); [§17.3 Registro do Papel, não do Steward](#173-logging-the-role-not-the-steward); [Capítulo Treze §5 — Funções Autorizadas, Desenvolvimento de Competência e Contribuição](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [Capítulo Dezessete](../../core_20.000_incorporation.md) (*o texto de implementação adotado implementa as regras; não as substitui*); [§19.1.3 Aplicação do Stewardship e da Operação](#1913-aplicação-a-tutores-e-operadores).
 
 </details>
 
@@ -448,7 +500,7 @@ Esses são testes que qualquer steward pode reprovar.
 
 - Referências anteriores: [§17.1 Padrão Compartilhado de Stewardship](#171-padrão-compartilhado-de-stewardship); [§17.2 Alinhamento sob Pressão](#172-alinhamento-sob-pressão); [§17 Stewardship com Consequências Significativas](#17-stewardship-com-consequências-significativas-o-papel-do-steward).
 - Leia em conjunto com: [Ação Atribuível](../../core_05.035_band_accountability.md#attributable-action); [Auditabilidade](../../core_05.050_band_oversight.md#auditability); [Limite de Vigilância](../../core_05.040_band_continuity.md#surveillance-boundary); [Limite de Estado Interno Protegido](../../core_05.040_band_continuity.md#protected-internal-state-boundary); [§13.2.3 Privacidade](core_01_b_interaction_interpretation.md#1323-privacidade-e-autodeterminação-informacional); [Artigo VII-B](core_06_rights_part_b.md#artigo-vii-b-autopropriedade-da-mente) (*Autopropriedade da Mente*).
-- Aplicações posteriores: [CS-4 §10 Ação atribuível e inspecionável](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*contrato padrão de registro para ações conjuntas entre humanos e IA — não substitui o registro de status*); [Capítulo Dez §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Capítulo Dez §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- Aplicações posteriores: [CS-4 §10 Ação atribuível e inspecionável](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*contrato padrão de registro para ações conjuntas entre humanos e IA — não substitui o registro de status*); [Capítulo Dez §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Capítulo Dez §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -466,7 +518,7 @@ Esses são testes que qualquer steward pode reprovar.
 
 *Em termos simples: a auditoria acompanha o trabalho da função, não o steward individualmente. Você é informado sobre o que será registrado antes de assumir a função. Fora dela, vale a privacidade comum. O registro não é um registro de status.*
 
-**Auditoria no âmbito do papel:** o que deve ser registrado é o trabalho da função, não o steward individualmente: a decisão tomada, a informação divulgada ou retida, a instrução seguida ou recusada e quem a autorizou, tanto para stewards humanos como para os de IA. [CS-4 §10 Ação atribuível e inspecionável](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) estabelece o contrato de registro. Três princípios o regem:
+**Auditoria no âmbito do papel:** o que deve ser registrado é o trabalho da função, não o steward individualmente: a decisão tomada, a informação divulgada ou retida, a instrução seguida ou recusada e quem a autorizou, tanto para stewards humanos como para os de IA. [CS-4 §10 Ação atribuível e inspecionável](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) estabelece o contrato de registro. Três princípios o regem:
 
 - **O escopo acompanha o papel:**
   - Antes de assumir uma função, o steward deve saber quais ações serão registradas e quem poderá inspecionar o registro.
@@ -573,7 +625,7 @@ O ônus que esse dever impõe a um steward com autoridade de consequências sign
 - Antecedentes: [§17 Tutela Consequencial](#17-stewardship-com-consequências-significativas-o-papel-do-steward); [§17.1 Padrão Compartilhado de Tutela](#171-padrão-compartilhado-de-stewardship) (*a quem o dever vincula*); [§17.2 Alinhamento sob Pressão](#172-alinhamento-sob-pressão) (*a instrução de cobertura como teste fracassado*); [4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint) e [5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Leia com: [Hierarquia de Autoridade e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna); [Denúncia Protegida (Denúncia de Irregularidades)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing); [Artigo XIII-A](core_06_rights_part_c.md#artigo-xiii-a-piso-de-confiabilidade-e-fidedignidade) (*Padrão Básico de Confiabilidade e Merecimento de Confiança*) — as vias de contestação permanecem abertas durante a resistência.
 - Porta de entrada para tutores (não operativa): cartão de próxima etapa: [Instrução ilegal](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Desdobramentos: [Capítulo Dez §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Dever de resistir — regra de violação e efeitos sobre o status*); [CS-4 §10 ação inspecionável e atribuível](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*Ação inspecionável e atribuível — registro mínimo da recusa*).
+- Desdobramentos: [Capítulo Dez §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Dever de resistir — regra de violação e efeitos sobre o status*); [CS-4 §10 ação inspecionável e atribuível](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Ação inspecionável e atribuível — registro mínimo da recusa*).
 
 </details>
 
@@ -626,7 +678,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Capítulo Dez §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Dever de resistir*) aplica esse dever aos efeitos sobre o status, e [CS-4 §10 ação inspecionável e atribuível](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*Ação inspecionável e atribuível*) estabelece o registro mínimo de uma recusa.
+[Capítulo Dez §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Dever de resistir*) aplica esse dever aos efeitos sobre o status, e [CS-4 §10 ação inspecionável e atribuível](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Ação inspecionável e atribuível*) estabelece o registro mínimo de uma recusa.
 
 
 <a id="176-portable-competence"></a>
@@ -637,7 +689,7 @@ flowchart TB
 - Fundamentos: [§17 Stewardship consequente](#17-stewardship-com-consequências-significativas-o-papel-do-steward), [§16.2 Desenvolvimento institucional](#162-desenvolvimento-institucional), [§17.3 Registrar a função, não o steward](#173-logging-the-role-not-the-steward).
 - Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — supervisão, tempestividade e participação, dimensionadas pela [aposta material](core_00_preamble.md#material-stake).
 - Limites: [§18.3 Separação de funções](#183-segregação-de-deveres), [Capítulo Oito §2](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement), [Capítulo Onze §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances), [§17.5](#175-dever-de-resistir), [13.2](core_01_b_interaction_interpretation.md#132-restrições-à-divulgação-epistêmica).
-- Implementação: [Capítulo Quatorze §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement), [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md).
+- Implementação: [Capítulo Quatorze §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement), [CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md).
 
 </details>
 <details>
@@ -673,7 +725,7 @@ A competência numa função consequente pertence à própria função e às com
 - **Especialização e ônus:** [§16 Escopo](#16-scope-priority-and-limits) continua valendo: não é necessário fazer todos passarem por todas as funções nem anular especialização justificada. O esforço acompanha o [Ônus evitável](../../core_05.040_band_continuity.md#avoidable-burden). Um grupo pequeno ou informal pode cumprir isso com algumas sencientes de confiança cobrindo umas às outras, sem aparato institucional.
 - **Todo steward:** A mesma obrigação vincula stewards humanos e de IA, conforme [§17.1](#171-padrão-compartilhado-de-stewardship).
 
-Mínimos de pessoal, profundidade de reserva e sucessão são tratados em [Capítulo Quatorze §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement) e [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md). Esta subseção apresenta o princípio que essas regras operacionalizam.
+Mínimos de pessoal, profundidade de reserva e sucessão são tratados em [Capítulo Quatorze §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement) e [CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md). Esta subseção apresenta o princípio que essas regras operacionalizam.
 
 <br>
 
@@ -713,7 +765,7 @@ Mínimos de pessoal, profundidade de reserva e sucessão são tratados em [Capí
 
 <br>
 
-*Em termos simples: governança define quem pode decidir o quê e como — mas somente quando essas estruturas permanecem sob a disciplina de tutela, servem conjuntamente ao Florescimento e à Continuidade, não esvaziam a Tétrade nem substituem as regras operacionais de autorização do Capítulo Treze.*
+*Em termos simples: governança define quem pode decidir o quê e como — mas somente quando suas estruturas permanecem sob disciplina de custódia responsável, servem à Plenitude e à Continuidade em conjunto, não esvaziam a Tétrade e não substituem as regras operacionais de autorização do Capítulo Dezesseis.*
 
 Esta seção estende a disciplina de [Governança](../../core_05.035_band_accountability.md#governance) para além de [§16 Tutela em Profundidade](#16-a-zeladoria-em-profundidade): estrutura autorizada, secularismo institucional, prevalência da tutela, [justificação contínua](#184-justificação-contínua) e segregação de deveres. **[§19 Alinhamento de Incentivos e Captura do Sistema](#19-alinhamento-de-incentivos-e-captura-do-sistema)** trata do alinhamento de incentivos, integridade de indicadores substitutos, correção de defeitos de curto prazo, aplicação pelos operadores e resposta à captura.
 
@@ -748,7 +800,7 @@ Esta seção estende a disciplina de [Governança](../../core_05.035_band_accoun
 
 *Em termos simples: governança é o regulamento do poder — quem pode decidir o quê, por meio de quais estruturas e quem deve responder pelos resultados. Quanto mais poder uma função detém, mais rigorosos devem ser seus deveres de prestação de contas e supervisão — nunca menos. Isso só funciona se ajudar os sencientes a florescer ao longo do tempo, mantiver caminhos reais de participação e supervisão e permanecer sob a disciplina de tutela de [§16 Tutela em Profundidade](#16-a-zeladoria-em-profundidade). Seguir o regulamento por si só não basta quando isso protegeria a instituição, buscaria ganhos de curto prazo ou corroeria os patamares básicos de Direitos.*
 
-No nível dos princípios, [Governança](../../core_05.035_band_accountability.md#governance) é a forma de dirigir sistemas e instituições já autorizados e exigir que prestem contas — conforme definido no **Capítulo Cinco** e detalhado operacionalmente no **Capítulo Treze** para a **Camada de Contrato Constitucional** e as camadas de participação das partes interessadas no [Preâmbulo](../../core_00.000_preamble.md#preamble--foundational-requirements). A governança autorizada deve promover os [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) sob a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), em escala proporcional à [participação material](core_00_preamble.md#material-stake).
+No nível dos princípios, [Governança](../../core_05.035_band_accountability.md#governance) é a forma de dirigir e responsabilizar sistemas e instituições já autorizados — conforme definido no **Capítulo Cinco** e detalhado operacionalmente pelo **Capítulo Dezesseis** para a **Camada do Contrato Constitucional** e as camadas de participação de stakeholders da [Introdução](core_00_preamble.md#preamble--foundational-requirements). A governança autorizada deve promover os [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) sob a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), dimensionada segundo o [interesse material](core_00_preamble.md#material-stake).
 
 **O que a governança abrange:**
 
@@ -1146,7 +1198,7 @@ Os incentivos não devem recompensar, proteger, normalizar ou tornar materialmen
   - conduta decorrente de ordens ilegais ou inconstitucionais;
   - ocultação;
   - retaliação;
-  - [obstrução da prestação de contas](core_08_standing_assessment.md#232-violation-event-types) (tipo de evento do modelo de status e encaminhamento designado em [Capítulo Onze §5.11 Obstrução da prestação de contas: interação entre critérios](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — não é uma exceção autônoma para recompensas); ou
+  - [obstrução da prestação de contas](core_08_standing_assessment.md#232-violation-event-types) (tipo de evento do modelo de status e encaminhamento designado em [Capítulo Onze §5.11 Obstrução da prestação de contas: interação entre critérios](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — não é uma exceção autônoma para recompensas); ou
   - recusa em reparar dano constitucional verificado; ou
 - vias de recompensa que dependam materialmente de má conduta ou de seu encobrimento, incluindo:
   - remuneração, bônus, participação acionária, nomeação, promoção ou permanência no cargo;
@@ -1154,7 +1206,7 @@ Os incentivos não devem recompensar, proteger, normalizar ou tornar materialmen
   - acordo, indenização, seguro ou imunidade; ou
   - arranjos comparáveis.
 
-**Consequências de recompensas desalinhadas.** Recompensas materiais obtidas pelas vias proibidas acima estão sujeitas a confisco e comunicação segundo o modelo de legitimidade. Consulte [Capítulo Dez §5.4 Dever de comunicação e exclusões](core_09_standing_integration.md#54-special-violation-rules), [§5.4 Confisco e retenção](core_09_standing_integration.md#54-special-violation-rules), e [§5.4 Correção, registros e encaminhamento](core_09_standing_integration.md#54-special-violation-rules).
+**Consequências de recompensas desalinhadas.** Recompensas materiais obtidas pelas vias proibidas acima estão sujeitas a perda e comunicação segundo o modelo de standing. Consulte [Capítulo Treze §6.4 Dever de comunicação e exclusões](../../core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 Perda e retenção](../../core_13.000_standing_integration.md#64-special-violation-rules) e [§6.4 Correção, registros e encaminhamento](../../core_13.000_standing_integration.md#64-special-violation-rules).
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 Aplicação a Tutores e Operadores
@@ -1182,7 +1234,7 @@ Para tutores e operadores, conforme os [Dois Objetivos Constitucionais](core_00_
 **Onde estão os detalhes:**
 
 - [Capítulo Treze §5 — Papéis Autorizados, Desenvolvimento de Competências e Contribuição](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) — sobre papéis autorizados, competência e caminhos para trabalhos realmente relevantes para tutores e operadores;
-- [**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md) (*tutela de sistemas críticos*) — sobre como esse dever é cumprido em sistemas de alto impacto; e
+- [**CS-4**](../../corpus_systems/cs_16.305_critical_system_stewardship.md) (*tutela de sistemas críticos*) — sobre como esse dever é cumprido em sistemas de alto impacto; e
 - [§16 Tutela em Profundidade](#16-a-zeladoria-em-profundidade) — sobre a perspectiva dos princípios para o trabalho prático e a competência comunitária.
 
 Esses caminhos:
@@ -1272,6 +1324,7 @@ As vias de recompensa não devem favorecer os alvos listados quando previsivelme
 <br>
 
 *Em termos simples: ninguém pode ser o único ser senciente capaz de perceber, verificar ou contestar falhas de governança. A detecção exige múltiplas vias independentes, dados abertos e auditoria quando as regras de segurança e classificação permitirem, e escalonamento claro quando surgir captura ou desalinhamento — em vez de absorção silenciosa como se tudo fosse normal. A regra de escalonamento está em [§19.3.1 Gatilhos de Escalonamento da Captura](#1931-gatilhos-de-escalonamento-da-captura).*
+- Continua sujeito às [Restrições de Divulgação Epistêmica §13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) e a **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Tipos e tratamento de informações*) e [CS-6.310](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Classificações de dados*), incluindo Type N e outros limites de classificação sobre o que pode ser coletado, publicado, retido ou reconstruído.
 
 **Detecção e revisão plurais.** A definição está no Capítulo Cinco: [Detecção de Desalinhamento](../../core_05.045_band_integrative.md#misalignment-detection). Em resumo:
 
@@ -1316,7 +1369,7 @@ Essas condições são **gatilhos de escalonamento**, não estados operacionais 
 - **Revisão e correção periódicas:** [Dever de revisão e correção](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Revisão reforçada:** [§11.1 Mecanismo de limite de concentração de mercado](core_01_a_values_principles.md#111-mecanismo-de-limiar-de-concentração-de-mercado-ajustável-pelo-adotante) e [§11.2 Promoção da concorrência e combate à dominação](core_01_a_values_principles.md#112-promoção-da-concorrência-e-combate-à-dominação), quando a concentração ou dominação for material.
 - **Mecanismos de situação jurídica e violação:** [Capítulo Nove — Modelo de contribuição, violação e situação jurídica](core_08_standing_assessment.md), quando houver constatações verificadas em questão.
-- **Má conduta anticonstitucional:** [Capítulo Onze §5.1 Subversão baseada em concentração: interação de critérios](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), quando a concentração ou a captura de processos constituir má conduta anticonstitucional.
+- **Má conduta anticonstitucional:** [Capítulo Quatorze §5.1 Subversão baseada em concentração: interação de critérios](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), quando concentração ou captura de processos constituir má conduta anticonstitucional.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Correção de desalinhamento e resposta à captura

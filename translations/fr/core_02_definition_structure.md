@@ -58,15 +58,15 @@ Le Chapitre deux est le titulaire constitutionnel de la **structure des définit
 
 *En termes simples : cette section est la description de travail du Chapitre deux. Il est titulaire de la première couche de la pile de définitions : chaque définition constitutionnelle est construite à partir de parties liées — ce qu’est un terme (O), comment il doit être mesuré et évalué (le registre de Mesure entrelacé avec l’évaluation, M/A), et ce qui doit tenir en pratique (C) — et ces parties doivent rester alignées. Satisfaire l’une en contournant l’autre ne compte pas. Les opérations d’exécution, de gouvernance et de mesure vivent dans les chapitres ultérieurs et doivent se conformer à ce que ce chapitre établit.*
 
-Toute définition constitutionnelle doit être construite à partir de parties liées, chacune avec exactement un travail :
+Toute définition constitutionnelle DOIT être construite à partir de parties liées, chacune ayant exactement une fonction :
 - **Ontologique (O) :** de quoi traite le terme.
-- **Mesure (M) :** quelle mesure s’applique à chaque niveau. Le routage de la mesure oriente l’évaluation ; il ne fixe pas les résultats de réussite ou d’échec.
+- **Mesure (M)** — quelle mesure s’applique à chaque couche. L’orientation de la mesure dirige l’évaluation vers les éléments de preuve pertinents ; elle ne détermine pas les résultats de réussite ou d’échec.
 - **Évaluation (A) :** comment le terme doit être évalué. Sur les définitions feuille du Chapitre cinq, le registre de **Mesure (M)** est tissé dans la composante d’**Évaluation (A)**. Voir [§1.3 Composantes d’évaluation](#13-assessment-components).
 - **Conformité (C) :** ce qui doit être vrai en pratique.
 
 Ces parties doivent rester cohérentes à l’intérieur de chaque définition. L’exécution, la gouvernance, la mise en œuvre, les opérations de mesure, l’audit et la mécanique de classification au-delà de la portée définitionnelle appartiennent aux chapitres ultérieurs ; ils doivent se conformer aux [Contraintes constitutionnelles](../../core_05.045_band_integrative.md#constitutional-constraint) établies ici.
 
-Toute définition doit être satisfaite pour le système entier tel qu’il fonctionne réellement — y compris les systèmes étendus à travers les êtres sentients, les machines et les lieux. Les parties O, M, A et C doivent toutes passer ensemble, sur la même portée et sous les mêmes conditions de test. Faire passer une partie en retranchant des morceaux du système, en resserrant ce qui compte, ou en affaiblissant une autre partie ne compte pas.
+Chaque définition DOIT être respectée pour l’ensemble du système tel qu’il fonctionne réellement — y compris les systèmes répartis entre sentients, machines et lieux. Les parties O, M, A et C DOIVENT toutes réussir ensemble, selon le même périmètre d’évaluation et dans les mêmes conditions de test. Réussir une partie en excluant des éléments du système, en restreignant ce qui compte ou en affaiblissant une autre partie ne vaut pas réussite.
 
 <a id="11-ontological-components-o--what-it-is"></a>
 <a id="11-ontological-components-o-what-it-is"></a>
@@ -132,14 +132,14 @@ Les définitions feuille du Chapitre cinq doivent porter ces exigences M en util
 
 *En termes simples : la partie A répond à une question simple — **comment ce terme doit-il être jugé ?** Elle dit ce que ceux qui évaluent doivent regarder, sous quelles conditions, et comment traiter l’incertitude. Elle ne dit pas si le terme réussit ou échoue ; cela vient ensuite.*
 
-La partie Évaluation (A) dit comment une définition doit être évaluée. Elle ne doit pas dire ce qui compte comme réussite ou échec — cela appartient seulement à la partie Conformité (C).
+La partie Évaluation (A) indique comment une définition doit être évaluée. Elle ne doit pas définir ce qui constitue une réussite ou un échec : cela relève uniquement de la partie Conformité (C).
 
-Dans les définitions de termes individuels du Chapitre cinq, la mesure (M) et l’évaluation (A) apparaissent ensemble dans une section intitulée **Comment mesurer et évaluer**.
+Dans les définitions individuelles des termes du Chapitre Cinq, la Mesure (M) et l’Évaluation (A) apparaissent ensemble dans une section intitulée **Comment mesurer et évaluer**.
 
-Dans cette section, chaque niveau est une paire : la mesure vient d’abord, et l’évaluation de cette mesure se situe à la ligne immédiatement au-dessous. Les champs d’évaluation sont :
+Dans cette section, chaque couche forme une paire : la mesure vient d’abord, puis son évaluation figure juste à la ligne suivante. Les champs d’évaluation sont :
 
 - **Évaluation primaire :** comment juger la mesure primaire — ce que ceux qui évaluent doivent évaluer d’abord, et ce que ce contrôle doit réellement atteindre (le fond, pas seulement les étiquettes ou la paperasse).
-- **Évaluation secondaire :** *(utilisé lorsque cela s’applique)* comment juger les mesures secondaires — ce qui doit être inclus lorsque la mesure primaire paraît bonne mais que la preuve plus large importe encore.
+- **Évaluation secondaire :** *(lorsqu’elle s’applique)* comment juger les mesures secondaires et ce qui doit être inclus lorsque la mesure primaire semble satisfaisante, mais que des éléments de preuve plus larges restent pertinents.
 - **Évaluation tertiaire :** *(utilisé lorsque cela s’applique)* comment juger les mesures tertiaires — contrôles sur le point de savoir si les substituts, les métriques ou les catégories formelles suivent encore les résultats réels.
 
 À tous les niveaux, la partie A doit :
@@ -156,7 +156,7 @@ Certaines choses, à dessein, **ne** vont **pas** dans la partie A :
 
 Les définitions feuille du Chapitre cinq doivent porter ces exigences A en utilisant la forme de composante d’Évaluation énoncée dans cette section.
 
-Lorsque ces règles d’évaluation sont mises à l’épreuve, le jugement doit reposer sur une preuve réelle suffisante — non sur des revendications ou de la paperasse seules — et les mêmes règles doivent s’appliquer partout où le terme s’applique.
+Lors de la mise à l’épreuve de ces règles d’évaluation, le jugement doit s’appuyer sur suffisamment de preuves réelles — et pas uniquement sur des affirmations ou des documents — et les mêmes règles doivent s’appliquer partout où le terme s’applique.
 
 <a id="14-compliance-components-c--what-must-be-true-in-practice"></a>
 <a id="14-compliance-components-c-what-must-be-true-in-practice"></a>
@@ -166,9 +166,9 @@ Lorsque ces règles d’évaluation sont mises à l’épreuve, le jugement doit
 
 La partie Conformité (C) énonce les conditions du monde réel qui doivent tenir pour qu’un terme soit satisfait. Elle doit travailler à partir de la conduite et des effets observables — non à partir des revendications du système lui-même, de la paperasse ou de l’intention déclarée.
 
-Dans les définitions de termes individuels du Chapitre cinq, la partie Conformité (C) apparaît sous l’en-tête **Ce qui doit tenir**. Les champs fonctionnent ainsi :
+Dans les définitions individuelles des termes du Chapitre Cinq, la partie Conformité (C) figure sous le titre **Ce qui doit être respecté**. Les champs fonctionnent ainsi :
 
-- **Défaillance primaire :** lorsque le terme est rompu au niveau primaire — par exemple lorsque la mesure principale est creuse, non traçable, ou contredite par la façon dont le système fonctionne réellement.
+- **Défaillance primaire :** lorsque le terme est enfreint à la couche primaire — par exemple lorsque la mesure principale est creuse, impossible à retracer ou contredite par le fonctionnement réel du système.
 - **Défaillance secondaire :** *(utilisé lorsque cela s’applique)* lorsque le terme est rompu au niveau secondaire — par exemple lorsque le contrôle primaire semble stable mais que quelque chose de plus large fait encore échec au terme, comme une rupture dans un système dont il dépend ou un système connecté avec lequel il interagit.
 - **Défaillance tertiaire :** *(utilisé lorsque cela s’applique)* lorsque le terme est rompu au niveau tertiaire — par exemple lorsqu’un substitut ou une métrique est traité comme suffisant à lui seul, ou lorsqu’une divergence connue est ignorée ou laissée sans correction.
 
@@ -221,10 +221,10 @@ Une définition n’est pas satisfaite si la façon dont elle est construite, lu
 <a id="23-construction-constraints"></a>
 #### 2.3 Contraintes de construction
 Les définitions doivent être écrites de sorte que :
-- toutes les parties (O, M, A, C) ne puissent être satisfaites ensemble que sous des conditions qui reflètent comment le système se comporte réellement et ce qu’il produit réellement
+- toutes les parties (O, M, A, C) ne peuvent être satisfaites qu’ensemble et dans des conditions qui reflètent le comportement réel du système et ce qu’il produit effectivement.
 - aucune partie ne puisse être satisfaite en généralisant, en fractionnant, en resserrant la portée, ou en les décrivant d’une façon qui laisse de côté des éléments du système, des interactions ou des effets qui importent réellement
-- aucune mesure ne tienne lieu du résultat qu’elle est destinée à saisir ; une mesure qui s’écarte du résultat du monde réel qu’elle représente (voir [Divergence d’indicateurs substituts](../../core_05.050_band_oversight.md#proxy-divergence)) ne peut pas satisfaire la définition, et le choix des mesures ne doit pas rétrécir ce qui doit être évalué ni ce qui doit tenir en pratique
-- aucune hypothèse non énoncée, dépendance cachée ou condition omise ne change ou n’affaiblisse ce qui doit être évalué ou ce qui doit tenir en pratique
+- aucune mesure ne remplace le résultat qu’elle est censée saisir ; une mesure qui s’écarte du résultat réel qu’elle représente (../../voir [Divergence des indicateurs indirects](core_05_band_oversight.md#proxy-divergence)) ne peut satisfaire la définition, et le choix des mesures ne doit pas réduire ce qui doit être évalué ni ce qui doit être respecté en pratique.
+- aucune hypothèse non énoncée, dépendance cachée ou condition omise ne doit modifier ni affaiblir ce qui doit être évalué ou ce qui doit être respecté en pratique.
 
 <a id="24-interpretation-rule-under-ambiguity"></a>
 #### 2.4 Règle d’interprétation en cas d’ambiguïté
@@ -232,7 +232,7 @@ Lorsqu’une définition peut se lire de plus d’une façon raisonnable, utilis
 
 Une définition ne doit pas servir à juger ou décider de la conformité si l’appliquer force une contradiction à l’intérieur de la définition, un écart entre la portée qu’elle énonce et ce qui doit réellement être couvert, ou une réussite sur une partie pendant qu’une autre partie exigée est contournée.
 
-Une définition brisée est non conforme à elle seule. Cela vaut même lorsque le système semble se comporter correctement et même lorsqu’il ne s’est encore rien passé de mal.
+Une définition défectueuse est non conforme en elle-même. Cela vaut même si le système semble fonctionner correctement et qu’aucun problème ne s’est encore produit.
 
 Si une lecture raisonnable affaiblirait les garde-fous, resserrerait ce qui doit être vérifié, ou abaisserait les résultats du monde réel exigés par rapport à une autre lecture que le libellé et la structure permettent, cette lecture plus faible n’est pas permise.
 

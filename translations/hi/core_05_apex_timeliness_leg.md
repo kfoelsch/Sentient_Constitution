@@ -82,7 +82,7 @@
 **समयबद्धता मापन परिवार की पत्तियाँ** — संक्रियात्मक मापन स्तर:
 
 - [समयबद्ध समाधान](../../core_05.035_band_accountability.md#timely-resolution)
-- [समाधान-मार्गों का कब्ज़ा](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- [रिज़ॉल्यूशन पाथवेज़ का कैप्चर](../../core_05.040_band_continuity.md#capture-of-resolution-pathways);
 
 **अनुप्रस्थ।** समयबद्धता सहभागिता, निगरानी और जवाबदेही से होकर चलती है; उन टाँगों का समय पर घटित होना उपयोगी होने के लिए ज़रूरी है।
 
