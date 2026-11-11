@@ -19,6 +19,10 @@
 
 **Próximo agrupamento, segundo a arquitetura.** Depois das cinco línguas de envio: português (brasileiro), bengali, depois francês, depois urdu. Este piloto inclui o [Preâmbulo](core_00_preamble.md), o [Capítulo Um, Parte A](core_01_a_values_principles.md) e um rascunho assistido por IA do [Capítulo Sete](core_07_charters.md), para medir o custo e o método de traduzir arquivos `core_*` numerados. O rascunho do Capítulo Sete ainda aguarda revisão independente fluente em português. Uma porta de leitura não é intervenção política.
 
+
+
+**Atualização da cobertura (2026-11-11).** Esta pasta agora inclui rascunhos completos dos Capítulos 11 e 12, assistidos por IA e alinhados à fonte inglesa no commit `05b7b839`. Eles ainda não passaram por revisão independente. As traduções anteriores podem refletir versões mais antigas; a fonte em inglês prevalece.
+
 ## Arquivos
 
 | Arquivo | Original em inglês |
@@ -42,10 +46,16 @@
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
 | [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 | [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 
 Os links do piloto apontam para arquivos em inglês ainda sem tradução. As âncoras HTML (`id`) são copiadas do original para comparar trecho a trecho.

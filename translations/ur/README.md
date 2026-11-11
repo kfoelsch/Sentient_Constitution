@@ -21,6 +21,10 @@
 
 **Chapter Seven status.** [Chapter Seven charters](core_07_charters.md) is an AI-assisted translation draft without independent fluent-reader review. It is non-binding; the numbered English source controls.
 
+
+
+**دائرۂ کار کی تازہ کاری (2026-11-11):** اس فولڈر میں اب `05b7b839` کمیٹ کے انگریزی ماخذ کے مطابق تیار کردہ ابواب 11 اور 12 کے مکمل، AI کی مدد سے بنائے گئے مسودے شامل ہیں۔ ان کا آزادانہ جائزہ نہیں لیا گیا۔ پہلے کے تراجم پرانے ماخذی نسخوں کی عکاسی کر سکتے ہیں؛ فیصلہ کن متن انگریزی ماخذ ہے۔
+
 ## فائلیں
 
 | فائل | انگریزی اصل |
@@ -44,10 +48,16 @@
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
 | [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 | [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 | [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
 | [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_15.000_non_regression.md) |

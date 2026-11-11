@@ -179,7 +179,7 @@
 - **前提条件、誠実性、持続可能性：** 第五章の**環境的前提条件**、**生態的誠実性**、**持続可能性**は本条のもとで操作性である。
   - 生命を支える自然システムはそれ自身の継続と誠実性の利益を持つ。それらの利益は感知者の利益と並べて解釈を知らせる。
   - 本条に違反する実質的危害 — **環境的前提条件**、**生態的誠実性**、**持続可能性**のもとで判断される — は不遵守である。
-  - 採択者の[採択文書](../../core_17.000_amendment_ratification.md)または採択範囲内の編入された実施本文に名指された環境要件に違反する危害も不遵守である。
+  - 採択者の[採択文書](../../core_19.000_amendment_ratification.md)または採択範囲内の編入された実施本文に名指された環境要件に違反する危害も不遵守である。
 - **動物の生命の相互作用：** [動物の生命](../../core_05.055_band_participation.md#animal-life)は**自然システムの軌跡**と感知者のための第六章の権利の床の間の福祉保護の領域を占める。
   - 福祉様の危害が実質的に含意されるところでは、**感知性の非排除**のもとで動物の生命について残虐と福祉の最小床を定める。
   - 記録がそれらの問いを実質的に含意するところでは、高められたコミュニケーション上の取扱いや感知性地位の裁定の代替ではない。
@@ -301,7 +301,7 @@
   決定記録は不確かさ、仮定、証拠の限度、不一致、および実質的な隙間を公に述べなければならない。
 - **立証負担と記録の具体的基準：** 審査の発動条件が満たされたとき、認可、継続、拡大を求める行為者は第四章 §1 の負担を負い、最高水準の審査を満たさなければならない。不確実性、証拠の争い、推定確率の低さで負担は免除されない。第四章 §5 の適合証拠基準に従い、実質的により安全な各代替案について、審査対象の活動に採用するか、正当な目的を達成しない、または利用できないことを示す。検討したとの記録だけでは足りない。緩和策と中断策は想定被害の規模に比例しなければならない。監視は被害が不可逆になる前に因果経路を中断できるだけ早く検知し、指名された行為者が中断する権限と実際の能力の両方を持たなければならない。重要な新証拠、拡大、リスクに比例した間隔ごとに負担を満たし直す。満たさなければ活動は不適合となり、第三章 §3 の帰結が適用される。認可、継続、拡大の各決定は実質的拘束力を持つ行為であり、その記録は行為者の立証と審査者の評価を結び、 不確実性、仮定、証拠の限界、見解の相違、重要な欠落を明示しなければならない。
 - **現在の便益の限度：** 現在の便益は、将来の感知者、生態的回復に不可欠なシステム、または生命を支える生態条件を、文明規模または生存に致命的な危害へ不均衡にさらすことを正当化しない。また、いかなる自然生態系も、どの規模であれ、その[生態的回復能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity)の不可逆な喪失にさらすことを正当化しない。
-- **名指された措置：** 本条のもとで認可、継続、または拡大を求める行為者は、[採択文書](../../core_17.000_amendment_ratification.md)または採択範囲内の編入された実施本文において、経路に比例した削減、上限、または中断の措置を名指していなければならない — 気候システムへの危害を[環境的前提条件](../../core_05.040_band_continuity.md#environmental-preconditions)要因として含む。本条はなお数値目標を定めない。**Article I-B**（《生態的足跡と透明性》）は足跡帰属の分節のままであり、なおそれ自体では削減を求めない。本条のもとで信頼できる経路が開いたまま、それらの名指された措置なしに継続することは不遵守である。
+- **名指された措置：** 本条のもとで認可、継続、または拡大を求める行為者は、[採択文書](../../core_19.000_amendment_ratification.md)または採択範囲内の編入された実施本文において、経路に比例した削減、上限、または中断の措置を名指していなければならない — 気候システムへの危害を[環境的前提条件](../../core_05.040_band_continuity.md#environmental-preconditions)要因として含む。本条はなお数値目標を定めない。**Article I-B**（《生態的足跡と透明性》）は足跡帰属の分節のままであり、なおそれ自体では削減を求めない。本条のもとで信頼できる経路が開いたまま、それらの名指された措置なしに継続することは不遵守である。
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### Article II：物質の責務ある管理と耐久使用の誠実性
@@ -474,7 +474,7 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流： 原則： 第一章 [§4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 中核の取引原則](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [第九章 §3 システム全体の認証評価](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- あわせて読む： [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [第一章 §19.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#196-所有権または組織構造が変わっても責任を維持する); [第九章 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- あわせて読む： [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [第一章 §19.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#196-所有権または組織構造が変わっても責任を維持する); [第九章 §9.1](../../core_13.000_standing_integration.md#101-remediation-capacity-and-funding) and [§9.4](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -493,7 +493,7 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 *平たい言葉で言えば：製品が運用者のサーバを必要とするとき、運用者は前もってそう言わなければならず、機密が真に求めるところを除き輸出できない形に継続に不可欠なデータを閉じ込めてはならず、サービスが止まるときに何が起きるかを計画し、破産や売却にそれらの継続義務を消させてはならない。*
 
-- **データの取扱い：** 運用者は、本条のデータを[CS-2 — 情報の種類と取扱い](../../corpus_systems/cs_06.305_information_types_and_handling.md)に従って分類・処理しなければならない（[第十八章](../../core_18.000_incorporation.md)に従って組み込まれている場合）。これには[§1.3](../../corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)の通知・削除規則と、[§1.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)の継続性に不可欠なデータのエクスポート規則が含まれる。
+- **データの取扱い:** 本条のデータは、[CS-6.305 — 情報の種類と取扱い](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)が求めるとおりに分類・取扱いしなければならず、[第二十章](../../core_20.000_incorporation.md)に基づいて組み込まれる。の要求どおりにデータを分類・取扱いしなければならない。これには[CS-6.305 §1.3 収集通知と削除](../../corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)の通知・削除規則と、[CS-6.305 §1.2 継続性に不可欠な収集と可搬性](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)の輸出規則が含まれる。
 - **最低基準:** For products whose lawful core use depends on operator-controlled network services, operators must disclose — before any 実質的に binding commitment, and in proportion to **Materiality** and dependency — all of the following:
   - what requires ongoing operator access;
   - what degrades or fails if service ends;
@@ -519,7 +519,7 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
   - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
 
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under 第五章 — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
-- **承継者および形式構造の義務:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [第一章 §19.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#196-所有権または組織構造が変わっても責任を維持する) and [第九章 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority) および **Article II-E**（*データ取扱いとネットワーク依存*）に定める義務も.
+- **承継者および形式構造の義務:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [第一章 §19.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#196-所有権または組織構造が変わっても責任を維持する) and [第九章 §9.1](../../core_13.000_standing_integration.md#101-remediation-capacity-and-funding) / [§9.4](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority) および **Article II-E**（*データ取扱いとネットワーク依存*）に定める義務も.
 
 *隣接条：* **Remediation**のための**Article II**（《物質の責務ある管理と耐久使用の誠実性》） follows the **interpretive hubs** stated at the opening 本章の (challenge and redress; justice and escalation).
 
@@ -607,7 +607,7 @@ This Article states **constitutional floors** for survival and equal access unde
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern 感知者 society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation.
   - Any limit on that access must satisfy [必要性](../../core_05.035_band_accountability.md#necessity), [比例性](../../core_05.035_band_accountability.md#proportionality), and [安全（制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) where security, safety, or lawful operational limits 実質的に require narrower access.
-Cross-reference: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **第五章** [占有の継続](../../core_05.040_band_continuity.md#occupancy-continuity), [必須環境の非商品化](../../core_05.040_band_continuity.md#essential-environment-non-commodification),とjoint-invocation cluster at [**§3.7** *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where applicable.
+Cross-reference: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [[**CI-14.1**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **第五章** [占有の継続](../../core_05.040_band_continuity.md#occupancy-continuity), [必須環境の非商品化](../../core_05.040_band_continuity.md#essential-environment-non-commodification),とjoint-invocation cluster at [**§3.7** *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where applicable.
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### Article III-B： 身体維持と医療へのアクセス

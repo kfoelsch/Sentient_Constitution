@@ -39,9 +39,10 @@ Le Chapitre trois est le titulaire constitutionnel de l’**intégrité de la d�
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : [Chapitre deux, §1 — Objet et rôle](core_02_definition_structure.md#1-objet-et-rôle) ; [Chapitre deux, §2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-exigence-dintégrité-de-la-définition).
-- En aval : [Chapitre trois, section 2 — Non-conformité à partir de la conduite observable du système](#2-non-conformité-à-partir-de-la-conduite-observable-du-système) ; [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre quatre, section 5 — Norme de preuve de conformité](core_04_burden_traceability_verification.md#5-norme-de-preuve-de-conformité) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Lire avec : [Chapitre un, section 4.2 — Vérité (contrainte d’intégrité épistémique)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — l’interprétation fondée sur la conduite observable plutôt que sur la structure ou l’intention déclarées opérationnalise la contrainte constitutionnelle de vérité à la couche d’intégrité de la définition.
+- En aval : [Chapitre trois, section 2 — Non-conformité à partir de la conduite observable du système](#2-non-conformité-à-partir-de-la-conduite-observable-du-système) ; [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre quatre, section 5 — Norme de preuve de conformité](core_04_burden_traceability_verification.md#5-norme-de-preuve-de-conformité) ; [Chapitre onze — Modèle de contribution, d’infraction et de trajectoire](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
+- À lire avec : [chapitre Un, section 3.2 — Vérité (contrainte d’intégrité épistémique)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000) — fonder l’interprétation sur les comportements observables plutôt que sur la structure ou l’intention déclarée met en œuvre la contrainte constitutionnelle de vérité au niveau de l’intégrité des définitions.
 
+- [Chapitre onze — Registres de trajectoire](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
 </details>
 
 <details>
@@ -91,9 +92,10 @@ Cette section ne définit pas les normes d’évaluation, la suffisance de preuv
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : [Chapitre trois, section 1 — Intégrité de la définition et contraintes anti-évasion](#1-intégrité-de-la-définition-et-contraintes-anti-évasion) ; [Chapitre deux, §2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-exigence-dintégrité-de-la-définition) ; [Chapitre deux, §2.2 Non-conformité par affaiblissement structurel ou appliqué](core_02_definition_structure.md#22-non-conformité-par-affaiblissement-structurel-ou-appliqué).
-- En aval : catalogues de types aux sections [2.1](#21-schémas-dévasion-courants) à [2.6](#26-contrainte-dintégrité-de-lincertitude-et-de-non-exploitation) ; [3. Profils de constatation de non-conformité](#3-profils-de-constatation-de-non-conformité) ; [Chapitre quatre, section 5 — Norme de preuve de conformité](core_04_burden_traceability_verification.md#5-norme-de-preuve-de-conformité) ; [Chapitre quatre, section 3 — Exigence d’observabilité de la traçabilité](core_04_burden_traceability_verification.md#3-exigence-dobservabilité-de-la-traçabilité) ; [Chapitre neuf §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*réouverture de la certification d’alignement du système et pointeur anti-évasion*) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- En aval : catalogues de types aux sections [2.1](#21-schémas-dévasion-courants) à [2.6](#26-contrainte-dintégrité-de-lincertitude-et-de-non-exploitation) ; [3. Profils de constatation de non-conformité](#3-profils-de-constatation-de-non-conformité) ; [Chapitre quatre, section 5 — Norme de preuve de conformité](core_04_burden_traceability_verification.md#5-norme-de-preuve-de-conformité) ; [Chapitre quatre, section 3 — Exigence d’observabilité de la traçabilité](core_04_burden_traceability_verification.md#3-exigence-dobservabilité-de-la-traçabilité) ; [Chapitre neuf §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*réouverture de la certification d’alignement du système et pointeur anti-évasion*) ; [Chapitre onze — Modèle de contribution, d’infraction et de trajectoire](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 - Lire avec : [Chapitre deux, §1 — Objet et rôle](core_02_definition_structure.md#1-objet-et-rôle) pour la règle de satisfaction conjointe sous conditions fonctionnelles complètes du système ; [Chapitre deux, §2.4 Règle d’interprétation en cas d’ambiguïté](core_02_definition_structure.md#24-règle-dinterprétation-en-cas-dambiguïté) — les interprétations qui affaiblissent les garde-fous, resserrent ce qui doit être évalué, ou aggravent les résultats du monde réel sont invalides ; [Chapitre quatre, section 5 — Norme de preuve de conformité](core_04_burden_traceability_verification.md#5-norme-de-preuve-de-conformité) — la preuve doit démontrer la conformité sous les règles de cette section ; une preuve qui serait non conforme ici fait échec à la charge de la preuve ; [Non-conformité](../../core_05.045_band_integrative.md#non-compliance).
 
+- [Chapitre onze — Registres de trajectoire](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
 </details>
 
 <br>
@@ -115,7 +117,7 @@ Un système est non conforme lorsque ces observables violeraient une définition
 - une définition n’est pas satisfaite en entier sous conditions fonctionnelles complètes du système :
   - portée sémantique, de mesure, d’évaluation et de conformité ensemble (O, M, A et C)
   - y compris à travers le temps, l’échelle, les systèmes connectés et les conditions d’exploitation là où elles importent
-- une définition n’est satisfaite que sur le papier tandis que cette portée complète n’est pas satisfaite :
+- une définition n’est satisfaite que sur le papier alors que toute la portée de cette définition ne l’est pas :
   - seulement en forme, représentation, structure, processus ou conditions limitées
   - des résultats inconsistants avec la portée protectrice, d’évaluation ou de conformité complète d’une définition
   - des composantes de définition satisfaites seulement sous des conditions restreintes, non représentatives ou sélectivement construites
@@ -131,7 +133,7 @@ Les sous-sections de types ci-dessous cataloguent des schémas courants. Elles n
 Les formes d’évasion suivantes sont prohibées :
 
 - **Mesures et paperasse fictives** — revendiquer la conformité par ce qui est mesuré, rapporté ou enregistré plutôt que par le résultat qu’exige la définition :
-  - substituer des mesures, indicateurs ou descriptions qui divergent de ce dont traite la définition, tout en revendiquant encore une réussite
+  - substituer des mesures, des indicateurs ou des descriptions qui s’écartent de l’objet de la définition tout en revendiquant un résultat satisfaisant
   - optimiser un score ou une mesure d’une façon qui rend pire le résultat du monde réel qu’exige la définition
   - présenter des registres, artefacts ou preuves qui dénaturent matériellement ce que le système fait réellement ou s’il se conforme
   - satisfaire des exigences de nom, de structure ou de processus sans produire l’effet du monde réel qu’exige la définition (voir aussi [§2.1.1](#211-jeux-détiquettes-formelles-et-de-représentation))
@@ -155,7 +157,7 @@ C’est une forme ciblée de **Mesures et paperasse fictives**. Les systèmes ne
 - un renommage formel, une restructuration ou une reclassification d’entité qui fait tomber des devoirs sans transférer la responsabilité en pratique
 - des choix taxonomiques de convenance qui effacent des distinctions qu’exige la définition
 
-Lorsque le changement de structure formelle est matériel, appliquer [Chapitre un §19.6 Maintenir la responsabilité lorsque la propriété ou la structure change](core_01_c_stewardship_capacity_principles.md#196-maintenir-la-responsabilité-lorsque-la-propriété-ou-la-structure-change).
+Lorsque le changement de structure formelle est important, appliquer [Chapitre un §19.6 Maintenir la responsabilité lors d’un changement de propriété ou de structure](../../core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 Évasion réductrice
@@ -218,7 +220,7 @@ Lorsque l’incertitude empêche une démonstration définitive de la conformit�
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [Chapitre trois, section 2 — Non-conformité à partir de la conduite observable du système](#2-non-conformité-à-partir-de-la-conduite-observable-du-système) ; [Chapitre deux, §2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-exigence-dintégrité-de-la-définition).
-- En aval : [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre neuf — Certification d’alignement du système](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) ; [Chapitre onze — Effets de trajectoire et intégration](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) ; [CJS-3.1 Boussole constitutionnelle et carte des groupes](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- En aval : [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre neuf — Certification d’alignement du système](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [Chapitre treize — Modèle de contribution, d’infraction et de trajectoire](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) ; [Chapitre treize — Effets de trajectoire et intégration](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) ; [CJS-3.1 Boussole constitutionnelle et carte des groupes](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Lire avec : [Profil de constatation de non-conformité](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — foyer canonique O/M/A/C pour les champs de profil ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -232,14 +234,14 @@ Les constatations matérielles de **non-conformité** sous ce chapitre ou sous d
 - peut nommer quelle jambe de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) et quelle orientation des [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) décrivent le mieux la défaillance — par exemple **supervision**, **participation** ou **reddition de comptes** croisées avec **Épanouissement** ou **Continuité**
 - ne change pas si la définition sous-jacente est satisfaite
 - ne crée pas une seconde étiquette de verdict
-- ne remplace pas la mesure de contribution ou d’infraction du [Chapitre dix](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)
+- ne remplace pas la mesure de contribution ou d’infraction du [Chapitre onze](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)
 
 Les effets de trajectoire dépendent de qui est évalué et de si le système est déjà certifié. Les sous-sections ci-dessous fixent ces cas.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 Effets sur la trajectoire des systèmes déjà certifiés
 
-Si un système fonctionne déjà sous une [certification d’alignement du système](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — y compris une certification, une certification conditionnelle ou une recertification qui n’a pas expiré —, la non-conformité matérielle vérifiée dans le périmètre fonctionnel de ce système **doit** entrer dans la mesure de trajectoire du [Chapitre dix](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) pour **ce système**. Seuls les faits qui passent la [porte d’entrée des éléments vérifiés](../../core_10.000_standing_assessment.md#verified-inputs-for-standing) peuvent entrer. Mesurez la trajectoire selon le [Chapitre dix](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) ; appliquez son intégration et ses effets selon le [Chapitre onze](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). La réouverture, le retrait ou les autres conséquences de certification relèvent du [Chapitre neuf](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). Ces conséquences ne remplacent pas les registres de trajectoire de ce système.
+Si un système fonctionne déjà sous une [certification d’alignement du système](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — y compris une certification, une certification conditionnelle ou une recertification qui n’a pas expiré —, la non-conformité matérielle vérifiée dans le périmètre fonctionnel de ce système **doit** entrer dans la mesure de trajectoire du [Chapitre treize](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) pour **ce système**. Seuls les faits qui passent la [porte d’entrée des éléments vérifiés](core_11_standing_assessment.md#25-verified-input-gate) peuvent entrer. Mesurez la trajectoire selon le [Chapitre treize](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) ; appliquez son intégration et ses effets selon le [Chapitre treize](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). La réouverture, le retrait ou les autres conséquences de certification relèvent du [Chapitre neuf](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). Ces conséquences ne remplacent pas les registres de trajectoire de ce système.
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 Effets sur la trajectoire lors de la première certification
@@ -260,7 +262,7 @@ La trajectoire d’un être sentient n’est affectée que lorsqu’un lien vér
 - la dissimulation
 - la capacité de prévention faisable
 
-La trajectoire d’une institution est affectée lorsque l’institution est le sujet évalué, ou lorsqu’elle est vérifiée comme le véhicule du schéma de non-conformité. Les registres d’institution restent séparément traçables des registres d’êtres sentients individuels. Appliquer ces cas sous le [Chapitre dix](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) et le [Chapitre onze](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Le profil de constatation aide à router et à auditer. Il ne fixe pas lui-même les résultats de trajectoire, les créneaux, les verrous, les portes d’entrée ni les recours.
+La situation d’une institution est affectée lorsque l’institution elle-même est le sujet évalué, ou lorsqu’il est vérifié que le schéma de non-conformité a été exécuté par son intermédiaire. Les registres institutionnels restent traçables séparément des registres des êtres sentients individuels. Appliquer ces cas selon le [Chapitre treize](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) et le [Chapitre treize](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). Le profil de constatation aide à orienter et à auditer. Il ne fixe pas lui-même les résultats de situation, les créneaux, les verrous, les portes ni les recours.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 Contraintes opérationnelles

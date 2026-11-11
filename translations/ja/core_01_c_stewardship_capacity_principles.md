@@ -23,7 +23,7 @@
 
 13. **[スチュワードシップ](../../core_05.040_band_continuity.md#stewardship)**は、sentientの組織化を通じて重要なシステムに方向性を与える。すなわち**柱1**（[§17](#17-結果を左右するスチュワードシップスチュワードの役割)：結果に関わる実地の運用と改善）、**柱2**（[積極的スチュワードシップ](#16-pillar-2-proactive-stewardship)：問題を早期に捉え、回避可能な遅れなく是正する）、**柱3**（[§16.1](#161-分散した理解)・[§16.2](#162-制度的発展)：地域社会および制度規模での能力）を通じ、[憲法上の四原則](core_00_preamble.md#constitutional-tetrad)の下で長期的な憲法的整合へと導く。特に**[参加](core_05_apex_participation_leg.md#participation-constitutional)**（結果を左右する役割と発言）と**[監督](core_05_apex_oversight_leg.md#oversight-constitutional)**（分散した理解、監査可能性、異議申立て可能性。監督には監査が必要であり、[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification)は他にもある監査プロセスの中でも特に大規模なもの）を重視し、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)における**継続性**の目標も含む。
 14. **[結果を左右するスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割)**はスチュワードの役割そのものである。重要なシステムの運用、保守、監督または改善に関わる作業を行う者に課される実地の義務、基準、保護を指す。これは**柱1**を運用可能にしたものであり、共有基準、圧力下での整合、スチュワードの役割に伴う役割範囲内の可観測性も含む。
-15. **[ガバナンス](../../core_05.035_band_accountability.md#governance)**は、[憲法上の四原則](core_00_preamble.md#constitutional-tetrad)の下で、権限を付与された意思決定、参加、説明責任を構成する。特に、権限の配分と行使に対する**[監督](core_05_apex_oversight_leg.md#oversight-constitutional)**、および[§18.1](#181-認可された構造としてのガバナンス)の**権限に応じた説明責任**が重要である。付与された権力または結果を左右する役割が大きいほど、憲法上の説明責任と監督は強まり、弱まることはない。[§18.3 職務分離](#183-職務の分離)は、行為者自身がその確認者にならないようにする。[§18.4 継続的正当化](#184-継続的な正当化)は、その仕組みがなお本憲法に適合することを継続的に証明するよう求める。ガバナンスとスチュワードシップが衝突する場合、**必要性**と**比例性**が是正経路を伴う限定的かつ期限付きの例外を明示的に正当化しない限り、原則レベルではスチュワードシップの規律が優先する。運用上の権限付与と契約レベルの要件は**第13章**が所管する。
+15. **[ガバナンス](../../core_05.035_band_accountability.md#governance)**は、[憲法上のテトラッド](../../core_00.000_preamble.md#constitutional-tetrad)の下で、許可された意思決定、参加、説明責任を構成する。とりわけ、権限の配分と行使に対する**[監督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)**、および[§18.1](#181-governance-as-authorized-structure)の**権限に応じた説明責任**が重要である。許可された権力や重大な役割が大きいほど、憲法上の説明責任と監督は強まり、決して弱まらない。[§18.3 職務分離](#183-separation-of-duties)は、行為した者が自分を審査することを防ぐ。[§18.4 継続的正当化](#184-ongoing-justification)は、その仕組みが本憲法に適合し続けることの立証を求める。ガバナンスとスチュワードシップが衝突する場合、**必要性**と**比例性**が是正経路を伴う限定的・期限付きの例外を明示的に正当化しない限り、原則レベルではスチュワードシップ規律が優先する。運用上の権限付与および契約レイヤーの要件は**第十六章**が所管する。
 16. **[インセンティブ整合とシステム捕捉](#19-インセンティブの整合とシステムの乗っ取り)**は、インセンティブ構造、代理指標の健全性、短期志向の欠陥、報酬経路の是正、捕捉への対応に関する原則レベルの規律を示す。
 17. **[統合的適用](#20-統合的な適用)**は本章の総括であり、後続の章は本章の統合価値の枠組みを通して読む。
 
@@ -43,11 +43,11 @@
 - 下流：[13. 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)（[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化)を含む）；[第8章 §3 全システム認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§19.1.3 スチュワードシップと運用者への適用](#1913-スチュワードシップとオペレーターへの適用)。
 - 下流：[§19.1.4 役割の深度と重要な責任への経路](#1914-役割の深さと重大な責任の経路)。
 - 下流：[§7 自由（制約された主体性）](core_01_a_values_principles.md#7-freedom-bounded-agency)。これは、重要な依存関係の下でも、結果を左右するスチュワードシップ、分散した理解、意味ある参加、修復能力が実効性を保つことを前提とする。
-- 下流：[第8章 — システム整合性認証](core_07_a_system_alignment_certification_evaluation.md)（*監督の下で行われる特に大規模な監査プロセスの一つであり、監査の唯一の基盤ではない*）；[第9章 — 貢献・違反・地位モデル](core_08_standing_assessment.md)（*信頼、役割、承認資格に関わる地位への効果を通じて、本小節を原則レベルの基盤として実装する*）。
+- 下流参照：[第九章 — システム整合性認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)（9.000）（*監督下の特に大規模な監査手続の一つであり、唯一の監査所管先ではない*）；[第十一章 — スタンディング記録](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（11.000）（*信頼、役割、承認資格に関するスタンディング効果が、本小節を原則レベルの基盤として実装する*）。
 - 下流：[第12章 §1 — 目的と役割](core_11_forum.md#1-purpose-and-role--participation-architecture)および[§4 — フォーラム群の定義](core_11_forum.md#4-forum-family-definitions--accountability-through-adjudication)（*フォーラム群は本節と整合する異議申立て、是正の順序づけ、根本原因の学習、積極的ガバナンスのための参加・監督構造を担う*）；採用済みのフォーラム運用は[corpus_forum.md](../../corpus_forum.md)を参照。
 - 下流：教育、ステークホルダーのシステム参加、透明性、理解可能性、監査と検証、および重要な責任に至る役割深度の経路について、権利の範囲を形づくる。
   - 特に、[第III条：生存と不可欠なアクセス](core_06_rights_part_a.md#article-iii-生存と不可欠なアクセス)、[第IV条：sentient中心の教育を受ける権利](core_06_rights_part_a.md#article-iv-感知者中心の教育を受ける権利)、[第X条：自己決定、主体性、参加](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XII条：ステークホルダーのシステム参加、代表、適正手続](core_06_rights_part_b.md#第xii条ステークホルダーのシステム参加代表および適正手続)、[第XVI条：監査、透明性、独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XIX条：地位と参加資格](core_06_rights_part_d.md#第xix条参加資格と参加状況)、[第XXI条：相互運用性、可搬性、移動、避難、退出の完全性](core_06_rights_part_d.md)、[第XXII条：理解可能性と複雑性のスチュワードシップ](core_06_rights_part_d.md)、[第XXIV条：憲法解釈、審査、反捕捉の保護措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)。
-  - 併読：[第13章 §5 — 権限を付与された役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)および**[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要システムのスチュワードシップ**。運用上の役割経路およびスチュワードシップ育成経路を扱う。
+  - 併読：[第十六章 §5 — 許可された役割、能力開発、貢献](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution)（16.000 §5）および**[CS-16.305 — 重要システムのスチュワードシップ](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship)**。運用上の役割経路とスチュワードシップ育成経路を扱う。
 - 小節（読解順）：[§16.1 分散した理解](#161-分散した理解)（能力の地域社会的側面）・[§16.2 制度的発展](#162-制度的発展)（組織的側面）・[§16.3 開放性への志向](#163-開放性への志向)。
 - 併読：[§17 結果を左右するスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割)（*スチュワードの役割そのもの。独立の節に昇格し、柱1の実地の運用、保守、監督、改善の義務に加え、[§17.1](#171-スチュワードシップの共通基準)、[§17.2](#172-圧力下での整合性)、[§17.3](#173-logging-the-role-not-the-steward)、正式な役割の範囲を超えて規律を広げる[§17.4 整合した自主組織化](#174-整合した自己組織化)、および[§17.5 抵抗する義務](#175-抵抗する義務)を担う*）。
 
@@ -79,7 +79,7 @@
 
 <br>
 
-*平たく言えば、この節を支える考えは三つある。第一に、sentientの生活に重大な影響を及ぼすシステムを適切に運用するには、sentientによる組織化が必要であり、専門家だけの閉鎖的な聖職者集団では足りない。第二に、優れたスチュワードは損害が起きるまで待たない。問題が小さいうちに気づき、適切な担当者に引き継ぎ、遅れそのものが損害になる前に解決する。第三に、その組織は**大規模な能力**を築かなければならない。個人が結果を左右する仕事に進む現実的な経路、問題に気づいて異議を唱えられるだけの地域社会の理解、そして硬直せず学び続ける制度が必要である。*
+*簡単に言えば、この節を支える考えは三つある。第一に、有感存在の生活に影響する重要なシステムを適切に運営するには、有感存在自身の組織的な関与が必要であり、専門家だけの閉鎖的な集団では足りない。第二に、優れた受託者は害が行動を迫るまで待たない。問題が小さいうちに気づき、適切な担当者へつなぎ、遅延そのものが害となる前に解決する。第三に、その組織は**大規模な能力**を育てなければならない。個人が重大な仕事に就く現実的な道筋、問題を見つけ異議を唱えるための十分な共同体理解、そして停滞せず学び続ける制度が必要である。*
 
 <a id="16-limits"></a>
 スチュワードシップには限界がある。**安全性**、**真実**、**必要性**、**比例性**、**回避可能な負担**、**認識論的完全性**が、これらの義務を適切な規模に保ち、誠実さと正当な安全上の必要性への配慮を確保する。以下の柱はその制約の範囲内で機能し、制約を迂回するものではない。
@@ -130,12 +130,12 @@ flowchart TB
   - 影響を受けるsentientは、まず公表済みのステークホルダーのシステム参加に関する異議申立て経路を利用する。この経路は参加、代表、異議申立て可能性、適正手続を扱う。
   - これらの保護は、重大な影響を受けるすべてのsentientに対して負われる。
   - これらは、すでに権限が認められているシステム、制度、意思決定領域の内部で機能する。
-- **ステークホルダーのシステム参加では解決できない紛争 — [フォーラム審査](core_11_forum.md#dispute-sequencing)：**
-  - ステークホルダーのシステム参加に関する異議申立て経路に争いが残る場合、経路が欠けているか捕捉されている場合、または救済を与えられない場合、主要な利害に応じて、[第12章 §1 — 目的と役割](core_11_forum.md#1-purpose-and-role--participation-architecture)および[§4 — フォーラム群の定義](core_11_forum.md#4-forum-family-definitions--accountability-through-adjudication)に基づく独立した**フォーラム群**に付託する。
+- **ステークホルダー・システム参加では解決できない紛争 — [フォーラム審査](../../core_15.000_forum.md#dispute-sequencing)：**
+  - ステークホルダー・システム参加の異議申立て経路で争いが続く、経路がない・捕捉されている、または救済を与えられない場合、主要な利害に応じて独立した**フォーラム系統**へ付託する。[第十五章 §1 — 目的と役割](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture)および[§4 — フォーラム系統の定義](../../core_15.000_forum.md#4-forum-family-definitions--accountability-through-adjudication)を参照。
   - ここでsentientは、決定に異議を申し立てる現実的な手段、明確な修復命令、または繰り返すパターンから学ぶ方法を得る。
-  - 主要な利害が憲法文言の意味や有効性、または適法な権限を超える行為に関わる場合、主導するフォーラム群は[憲法フォーラム](core_11_forum.md#46-constitutional-forums)である。
+  - 主たる利害が憲法文言の意味・有効性、または適法な権限を超える行為にある場合、主導する系統は[憲法フォーラム](../../core_15.000_forum.md#46-constitutional-forums)である。
   - これらのフォーラムの運営に関する詳細な規則は[corpus_forum.md](../../corpus_forum.md)にある。
-- **そもそも誰が統治できるのか — [憲法契約レイヤー](core_05_band_integrative.md#憲法契約層)（[第13章](core_12_governance.md)）：**
+- **誰が統治できるか — [憲法契約レイヤー](../../core_05.045_band_integrative.md#constitutional-contract-layer)（[第十六章](../../core_16.000_governance.md)）：**
   - 統治権限そのものが正当かどうか、すなわち誰が、どの正当性の仕組みによって、どの範囲と持続的な条件の下で統治できるのかは、ステークホルダーのシステム参加やフォーラム審査とは別の問いである。
   - 参加投票、異議申立て経路の結果、信頼スコアのいずれも、統治権限を付与しない。
   - 憲法上の授権によって、ステークホルダーのシステム参加に基づき負う義務が消えることはない。
@@ -183,7 +183,7 @@ flowchart TB
 
 <br>
 
-*平たく言えば、共有システムの中で安全に暮らすために、すべてのサブシステムについて博士号が必要であってはならない。しかし、システムが生活に及ぼす影響が大きいほど、その仕組み、起こり得る問題、誤った判断への異議申立て方法を、よりよく学べる必要がある。透明性、教育、平易な説明、監査経路がそれを可能にする。重要なことを隠す口実に複雑さを使ってはならない。四原則の**監督**の柱では監査が必要であり、システム整合性認証はその経路にある特に大規模な監査プロセスの一つで、唯一のものではない。*
+*簡単に言えば、共有システムの中で安全に暮らすために、すべてのサブシステムの博士号が必要であってはならない。ただし、システムが生活に与える影響が大きいほど、その仕組み、起こり得る問題、誤った判断への異議申立て方法を学べる機会が増えるべきである。透明性、教育、明確な説明、監査経路がそれを可能にする。複雑さは重要なことを隠す口実にはならない。テトラッドの**監督**の柱では監督に監査が必要であり、システム整合性認証はその経路の中でも特に大規模な監査プロセスの一つだが、唯一のものではない。*
 
 分散した理解は、**[§16 スチュワードシップの詳説](#16-スチュワードシップの詳説)**における**柱3**の、地域社会に向けた側面である。完全な定義、測定方法、失敗条件は[分散した理解](../../core_05.040_band_continuity.md#distributed-understanding)にある。要約すると：
 
@@ -284,6 +284,35 @@ flowchart TB
   - 開放性を**安全性**、**真実**、正当な秘密保持、セキュリティ上の制約より優先させること
   - [重要性](../../core_05.050_band_oversight.md#materiality)と[依存性](../../core_05.040_band_continuity.md#dependency)に応じた相応の理解の代わりにすること
 
+
+<a id="164-document-at-action"></a>
+#### 16.4 行為時の記録
+
+*平たく言えば、重要なことを行うときは、その行為と同時に、可能な限りシステム自身が行為記録を作成する。後から記憶を頼りに書き起こしてはならない。適法に制限されていない情報は直ちに見えるようにし、制限される情報にも行為があったことを示す印と、後で詳細を知る経路を残す。記録はシステムが行うため、スチュワードに余分な作業を課さない。*
+
+**行為時の記録**は、重大な行為とその行為記録を同時に作成するという、スチュワードシップの既定原則である。時点を定めず行為記録が抜け落ちるおそれのある記録義務は、この原則に従う。人間とAIのスチュワード、および彼らが運用する機関とシステムを拘束する。
+
+- **行為自体が行為記録を作る：**
+  - 重大な行為の記録（何が行われ、どの役割が、誰の権限で、どの根拠に基づき、どの理由で行ったか）は、行為そのものによって作成される。
+  - 実現可能な限り、システムとプロセスは自動的に記録を取り込むよう設計し、後から思い出して書く必要をなくす。
+  - 自動記録がまだできない場合、行為するセンティエントが後から記憶に頼らず、行為時に行為記録を作成する。
+- **制限されていない情報は直ちに利用できる：**
+  - 適法な制限によって留保されない情報は、行為時に閲覧権限のある者が利用できる。先に請求する必要はない。
+  - 開示を制限するには適法な根拠が必要であり、その時点で明示して記録する。制限の範囲内の情報だけを留保し、行為記録全体を留保してはならない。
+- **制限された情報にも痕跡を残す：**
+  - 行為時から、行為があったこと、行為記録のどの部分が留保されているか、開示制限の明示された根拠、残りを後に公表または再構成する経路を示す可視の印を残す。
+  - 行為記録自体を留保する適法な根拠が印さえ禁じる場合も、その根拠を行為時に記録し、禁止が終わった時点で印を表示する。
+- **自動化の負担はスチュワードではなくシステムが担う：**
+  - 記録はシステムの設計上の義務であり、[重要性](../../core_05.050_band_oversight.md#materiality)と[依存関係](../../core_05.040_band_continuity.md#dependency)に応じて規模を調整する。
+  - 自動記録が可能なのに実装されず、行為のたびにスチュワードが余分な時間を費やすなら、それは[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)上の欠陥である。解決策は記録機能を実装することであり、注意を増やすよう求めることではない。
+
+この原則は次のことをしない。
+
+- **期限を定めない：**「行為時」は記録の設計上の既定値である。決定、応答、審査の期限は[第十五章 §6](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)に定められ、本節はそれを延長も短縮もしない。
+- **誰かの内面を開示しない：**行為記録は[§17.3](#173-logging-the-role-not-the-steward)のとおり役割に従う。[監視の境界](../../core_05.040_band_continuity.md#surveillance-boundary)は維持される。行為の記録は行為者の監視ではない。
+- **安全、真実、プライバシー、セキュリティ、または正当な秘密保持に優先しない：**制限された情報を公開する必要はない。
+- **行為記録を判決に変えない：**行為時に作成された記録は出来事の痕跡であり、スタンディングの認定ではなく、スタンディング記録も開かない。
+
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. 結果を左右するスチュワードシップ：スチュワードの役割
 <details>
@@ -365,7 +394,7 @@ flowchart TB
 - 上流：[§17 結果を左右するスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割)；[§16 スチュワードシップの詳説](#16-スチュワードシップの詳説)；[§18 スチュワードシップ規律下のガバナンス](#18-スチュワードシップ規律の下でのガバナンス)。
 - 併読：[sentienceの非排除](../../core_05.055_band_participation.md#sentience-non-exclusion)および[基盤クラス](../../core_05.055_band_participation.md#substrate-class)（*基盤に左右されない適用。本小節は義務を負う者を拘束し、sentientとして認められないエージェントや運用者も含む*）；[権限スタックと内部階層](core_05_band_integrative.md#権限スタックと内部階層)；[憲法上の制約](core_05_band_integrative.md#憲法上の制約)；[異議申立て可能性](../../core_05.035_band_accountability.md#contestability)；[§17.5 抵抗する義務](#175-抵抗する義務)。
 - スチュワード向け入口（非運用）：次のステップのカード：[共有スチュワードシップ](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship)。
-- 下流：[§17.2 圧力下での整合](#172-圧力下での整合性)；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)；[第13章 §5 — 権限を付与された役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；[第17章](../../core_18.000_incorporation.md)（*採用された実装文書が実装し、置き換えるものではない*）；[§19.1.3 スチュワードシップと運用者への適用](#1913-スチュワードシップとオペレーターへの適用)。
+- 下流：[§17.2 圧力下での整合](#172-圧力下での整合性)；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)；[第13章 §5 — 権限を付与された役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；[第17章](../../core_20.000_incorporation.md)（*採用された実装文書が実装し、置き換えるものではない*）；[§19.1.3 スチュワードシップと運用者への適用](#1913-スチュワードシップとオペレーターへの適用)。
 
 </details>
 
@@ -398,7 +427,7 @@ flowchart TB
   - 義務を満たし、その範囲を狭めない記録、帰属表示、能力上の制限を追加できる
   - [地位の測定](core_08_standing_assessment.md)、異議申立ての経路、または第1章の義務を、より緩やかな内部規範で置き換えてはならない
   - [権限の階層と内部階層](core_05_band_integrative.md#権限スタックと内部階層)および[憲法上の制約](core_05_band_integrative.md#憲法上の制約)は、このような縮小を禁じる
-- **ログと地位記録：** 混成チームの監査可能性を標準で確保すること、およびログは地位記録ではないという規則は[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)に定める。地位の測定は引き続き第9章で扱う。
+- **ログとスタンディング記録の違い：**混成チームの既定の検査可能性と「ログは記録簿ではない」という規則は[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)に定める。スタンディング測定は引き続き第十二章が所管する。
 
 <a id="172-alignment-under-pressure"></a>
 #### 17.2 圧力下での整合性
@@ -407,7 +436,7 @@ flowchart TB
 
 - 先行項目：[§17.1 共通スチュワードシップ基準](#171-スチュワードシップの共通基準)、[§17 重大な結果を伴うスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割)、[§16 スチュワードシップの詳細](#16-スチュワードシップの詳説)。
 - 併せて読む：[安全（憲法上の制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約)、[監査可能性](core_05_band_oversight.md#監査可能性)、[異議申立て可能性](../../core_05.035_band_accountability.md#contestability)、[§19 インセンティブの整合とシステムの掌握](#19-インセンティブの整合とシステムの乗っ取り)、[§17.5 抵抗する義務](#175-抵抗する義務)。
-- 後続項目：[第9章 — 貢献、違反、地位のモデル](core_08_standing_assessment.md)（*検証済みの失敗は同じ軸で記録する*）；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)。
+- 下流参照：[第十一章 — スタンディング記録](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（11.000）（*検証済みの失敗を同じ軸で記録する*）；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)。
 
 </details>
 
@@ -448,7 +477,7 @@ flowchart TB
 
 - 先行項目：[§17.1 共通スチュワードシップ基準](#171-スチュワードシップの共通基準)、[§17.2 圧力下での整合性](#172-圧力下での整合性)、[§17 重大な結果を伴うスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割)。
 - 併せて読む：[帰属可能な行為](../../core_05.035_band_accountability.md#attributable-action)、[監査可能性](core_05_band_oversight.md#監査可能性)、[監視境界](../../core_05.040_band_continuity.md#surveillance-boundary)、[保護対象の内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)、[§13.2.3 プライバシー](core_01_b_interaction_interpretation.md#1323-プライバシーと情報に関する自己決定)、[第VII-B条](core_06_rights_part_b.md#第vii-b条心の自己所有)（*精神の自己所有*）。
-- 後続項目：[CS-4 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*人間とAIの混合行為に関する標準の記録契約 — 地位記録の代わりではない*）；[第10章 §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第10章 §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)。
+- 下流参照：[CS-16.305 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)（*人間とAIの混成行為に関する既定の記録契約であり、スタンディング記録の代替ではない*）；[第十三章 §8.1](../../core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)（13.000 §8.1）；[第十三章 §8.2](../../core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden)（13.000 §8.2）。
 
 </details>
 
@@ -466,7 +495,7 @@ flowchart TB
 
 *平たく言えば、監査の対象は個人としてのスチュワードではなく、役割の業務である。役割に就く前に、何が記録されるかを知らされる。役割の範囲外では通常のプライバシーが保たれる。ログは地位記録ではない。*
 
-**役割の範囲に限定した監査：** 記録すべきなのは、個人としてのスチュワードではなく役割の業務である。つまり、人間とAIのいずれのスチュワードについても、下した決定、開示または非開示とした情報、従ったまたは拒否した指示、およびそれを承認した者を記録する。[CS-4 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)がログの契約を定める。これを規律する原則は三つある。
+**役割単位の監査：**記録対象は個人としてのスチュワードではなく役割の仕事である。すなわち、行われた決定、行ったまたは留保した開示、従ったまたは拒否した指示、その許可者を、人間とAI双方のスチュワードについて記録する。[CS-16.305 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)がログ契約を定める。次の三原則が適用される：
 
 - **範囲は役割に従う：**
   - 役割に就く前に、どの役割上の行為が記録され、誰がログを検査できるかをスチュワードに伝えなければならない。
@@ -478,10 +507,10 @@ flowchart TB
   - これは対称的な扱いである。人間のスチュワードの私的なメモや通信にも、同じ条件、かつそれ以外の条件なしにアクセスできる。
 - **ログは痕跡であり、判定ではない:**
   - ログは誰が何をしたかを示す。それ自体は認定ではなく、検証済みの助けまたは害の[地位記録](core_08_standing_assessment.md)でもない。ログを書いても記録は開かれない。
-  - 役割経路、信頼経路、その他の名称付き経路へのアクセスを決定する者は、地位記録、または記録がないという通常の状態（[第9章 §2.1 沈黙が初期設定](core_08_standing_assessment.md#21-silence-is-the-default)）を用い、ログを用いてはならない。
-  - 他の名称付き経路のログや地位への影響と組み合わせて、単一の評判スコア、順位、バッジ、公開プロフィールを作成してはならない（[第10章 §7.1 名称付き経路の影響の集約禁止](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)）。
+  - 役割経路、信頼経路、その他の指定経路へのアクセスを決める者は、ログではなくスタンディング記録、または記録がないという通常の状態（[第十一章 §2.2 沈黙が既定](../../core_11.000_standing_assessment.md#22-silence-is-the-default)）を用いる。
+  - 他の指定経路のログやスタンディング効果と統合し、単一の評判スコア、順位、バッジ、公的プロフィールにしてはならない（[第十三章 §8.1 指定経路効果の集約禁止](../../core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)）。
 
-重大な権限を担うスチュワードにこの義務が課す負担は現実のものであり、本憲法はそれを否定しない。[第10章 §7.2 影響と負担の明確な説明](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)は、その負担を負うスチュワードに明確に伝えることを求める。
+重大な権限を担うスチュワードに課される負担は現実のものであり、本憲法はそれを装って否定しない。[第十三章 §8.2 効果と負担の明示](../../core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden)は、負担を担うスチュワードに明確に説明することを求める。
 
 <a id="174-aligned-self-organization"></a>
 #### 17.4 整合した自己組織化
@@ -529,10 +558,10 @@ flowchart TB
 **手続上の憲法的効果:**
 - **しきい値:** 適用される受付、報告、保全の基準に基づき、信頼でき、実質的に関連する根拠を示す提出物には、追跡可能な経路を与えなければならない。期限内に受領し、保全が妥当な場合は証拠を保全し、扱うべき者に回付し、理由を付した応答を行い、審査対象の行為をした者から独立した者が審査する。
 - **開始し得るもの:** 調査、証拠保全、暫定的保護、付託、認証への異議申立て、再開、フォーラムへの請求、または記録の開始・訂正・争訟。いずれも該当するオーナー層の下で行う:
-  - **フォーラムへの請求:** 自己組織化したグループは、オーナー層が認める請求を提出できる。例として[能力不全の請求](core_11_forum.md#capacity-failure-routing)がある。
-  - **フォーラム事件記録:** 事案の申立て時に開かれるが、それ自体では誰の地位も変えない（[第12章 §2.3 フォーラムの事件記録、地位記録、争訟](core_11_forum.md#23-forum-case-records-standing-records-and-contests)）。
-  - **地位記録:** その活動は貢献記録を支え得る。[第10章 §6 貢献の結果は二次的](core_09_standing_integration.md#6-contribution-consequences-second)は、非公式、無報酬、仲間主導、コミュニティによるスチュワードシップ活動にも同等の基準を適用するよう求める。下記の注意に従い、活動で明らかになった不正行為について違反記録を支える場合もある。いずれも検証済みの契機があり、指名された記録開始権限者を通じてのみ開始される（[第9章 §3.7 記録の保管と開始権限](core_08_standing_assessment.md#37-record-custody-and-opening-authority)）。提出物は開始を求めることはできるが、自らの検証を提示することはできず、[沈黙が初期設定である](core_08_standing_assessment.md#21-silence-is-the-default)。
-  - **争訟または訂正:** 既存の地位記録が誤り、不完全、古い、または範囲設定を誤っていることを示す場合がある。影響を受ける主体は管轄権を持つフォーラムに審査を求めることができ、欠陥が検証されれば訂正、失効、または取消しにつながる（[第12章 §2.3 フォーラムの事件記録、地位記録、争訟](core_11_forum.md#23-forum-case-records-standing-records-and-contests); [第9章 §3.6 フォーラムの境界](core_08_standing_assessment.md#36-forum-boundary)）。
+  - **フォーラム請求：**自律的に組織された集団は、所管レイヤーが認める請求（例：[能力不足請求](../../core_15.000_forum.md#capacity-failure-routing)）を申し立てられる。
+  - **フォーラム事件記録：**事項が申し立てられた時点で開かれ、それ自体では誰のスタンディングも変えない（[第十五章 §2.3 フォーラム事件記録、スタンディング記録、異議](../../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)）。
+  - **スタンディング記録：**活動は貢献記録を支え得る。[第十三章 §7 貢献の帰結を第二順位とする](../../core_13.000_standing_integration.md#7-contribution-consequences-second)は、非公式、無報酬、仲間主導、地域スチュワードシップの活動にも同等の基準を適用するよう求める。活動で発見された不正について、以下の注意に従い違反記録を支える場合もある。いずれも、指定された記録開設権限者を通じ、検証済みのトリガーがある場合に限り開く（[第十一章 §5 記録の保管と開設権限](../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)）。提出は開設を求められるが、自ら検証を供給できない。[沈黙が引き続き既定](../../core_11.000_standing_assessment.md#22-silence-is-the-default)である。
+  - **異議または訂正：**既存のスタンディング記録が誤り、不完全、古い、または範囲を誤っていることを活動が示す場合がある。影響を受けた対象者は管轄フォーラムに審査を求められ、検証された欠陥は訂正、失効、取消しにつながる（[第十五章 §2.3 フォーラム事件記録、スタンディング記録、異議](../../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests); [第十一章 §2.7 フォーラムの境界](../../core_11.000_standing_assessment.md#27-forum-boundary)）。
 - **代替として用いてはならない:** 著者が誰か、誰と関係しているか、提出物の出所、従来型の資格がないことを、活動自体の評価（方法、証拠、来歴、不確実性、憲法上の関連性）の代わりに用いてはならない。
 
 **貢献の過程で見つかった不正行為:**
@@ -540,7 +569,7 @@ flowchart TB
 - **報告は警察活動ではない:**
   - 貢献によって、不正行為を探す、疑わしい者を調査する、監視する、潜入する、対決する、暴露する、処罰する、その他誰かに対して行動する義務、許可、権限は生じない。探さないことは失敗ではない。
   - 偶然知ったことの報告は保護される。感覚ある存在の不正行為を探しに行くことは貢献に含まれず、貢献によって正当化もされない。[監視の境界](../../core_05.040_band_continuity.md#surveillance-boundary)、[プライバシー](core_01_b_interaction_interpretation.md#1323-プライバシーと情報に関する自己決定)の保護、[真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)に従う。
-  - 主張は情報であり、認定ではない。独立に検証されるまでは違反情報として扱えず（[第9章 §3.1 記録に必要な最低限の内容](core_08_standing_assessment.md#31-minimum-record-contents)）、未解決の主張は誰の地位も変えない（[第12章 §2.3 フォーラムの事件記録、地位記録、争訟](core_11_forum.md#23-forum-case-records-standing-records-and-contests)）。公衆その他に対して確定事実として示してはならない。
+  - 告発は入力であって違反認定ではない。独立に検証されるまで違反入力にならず（[第十一章 §2.5 検証済み入力のゲート](../../core_11.000_standing_assessment.md#25-verified-input-gate)）、未解決の告発は誰のスタンディングも変えない（[第十五章 §2.3 フォーラム事件記録、スタンディング記録、異議](../../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)）。公衆その他に対し、確定事実として示してはならない。
   - 報告者は証拠と証言を提供する。検証、記録開始、結果は、本憲法が指定する独立した機関とフォーラムが担い、報告者や発見したコミュニティは担わない。
   - 発見への対応が暴力、証拠の改ざんや喪失、または搾取につながり得る場合は、以下の安全上の制限が適用され、発見事項は独立審査または権限を与えられた役割に回される。
 
@@ -573,7 +602,7 @@ flowchart TB
 - 上流: [§17 重大な結果を伴うスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割); [§17.1 共有スチュワードシップ基準](#171-スチュワードシップの共通基準)（*誰に義務が及ぶか*）; [§17.2 圧力下での整合](#172-圧力下での整合性)（*隠蔽指示は不合格のテスト*）; [4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)および[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)。
 - あわせて読む: [権限の階層と内部序列](core_05_band_integrative.md#権限スタックと内部階層); [保護された報告（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing); [第XIII-A条](core_06_rights_part_c.md#第xiii-a条信頼性と信頼に値する性質の基準)（*信頼性と信用性の基準*）—抵抗している間も異議申立ての経路は開かれたままである。
 - スチュワード入口（非運用）: 次の手順カード: [違法な指示](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction)。
-- 下流: [第10章 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵抗する義務 — 違反規則と地位への影響*）; [CS-4 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*検査可能で帰属可能な行為 — 拒否の最小限の記録*）。
+- 下流参照：[第十三章 §6.4](../../core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions)（13.000 §6.4）（*抵抗義務 — 違反規則とスタンディング効果*）；[CS-16.305 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)（*検査可能で帰属可能な行為 — 拒否の最低限の記録*）。
 
 </details>
 
@@ -626,7 +655,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[第十章 §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵抗する義務*）は、この義務を地位上の効果に適用し、[CS-4 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*検査可能で帰属可能な行為*）は、拒否に関する最低限の記録を定める。
+[第十三章 §6.4](../../core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵抗義務*）はこの義務をスタンディング効果に適用し、[CS-16.305 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)は拒否の最低限の記録を定める。
 
 
 <a id="176-portable-competence"></a>
@@ -634,11 +663,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">参照</span></strong></summary>
 
-- 上流：[§17 重大な結果を伴うスチュワードシップ](#17-結果を左右するスチュワードシップスチュワードの役割)（学習と運用の間を移る二つの役割形態）；[§16.2 制度的発展](#162-制度的発展)（保持される能力）；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)（記録は役割に属する）。
+- 上流参照：[§17 重大なスチュワードシップ](#17-consequential-stewardship-the-steward-role)（*学習と運用を移行する二つの役割モード*）；[§16.2 制度開発](#162-institutional-development)（*保持された能力*）；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)（*行為記録は役割に属する*）。
 - あわせて読む：[憲法上の四要素](core_00_preamble.md#constitutional-tetrad) — **監督**（確認できるスチュワードが複数いること）、**適時性**（機能間の接点を含め、問題を早く見つけること）、**参加**（重要な仕事に入る道を開くこと）；[実質的利害](core_00_preamble.md#material-stake)に応じた調整。
 - あわせて読む：[§16 柱2 — 先を見越すスチュワードシップ](#16-pillar-2-proactive-stewardship)、[§19.2 便利な代理指標とその乖離](#192-便宜的な代理指標と代理指標の乖離)、[§19.3 不整合の検出](#193-不整合の検出)（複数の視点による検出）、[§19.4 不整合の是正と掌握への対応](#194-不整合の是正と乗っ取りへの対応)。
 - 制限：[§18.3 職務分離](#183-職務の分離)および[第八章 §2 四つの席の憲法上の最低基準](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)（席の仕事を学ぶことは、その席に就くことではない）；[第十一章 §6.2 能力基準と資格](core_09_standing_integration.md#62-competency-bars-and-clearances)、[§17.5 抵抗する義務](#175-抵抗する義務)、[13.2 認識情報の開示制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)。
-- 実施：[第十四章 §5 権限ある役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)、[CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy)、[CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement)、[CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md)。
+- 実施：[第十四章 §5 権限ある役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)、[CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy)、[CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement)、[CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md)。
 
 </details>
 <details>
@@ -673,7 +702,7 @@ flowchart TB
 - **専門化と負担:** [§16 適用範囲](#16-scope-priority-and-limits)は変わりません。全員をすべての役割に交代させたり、正当な専門化を覆したりする義務はありません。[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)に応じて取り組みを調整します。小規模または非公式な集団なら、少数の信頼できる 感知者 が互いを代行することで、制度的な設備なしに満たせます。
 - **すべてのスチュワード:** [§17.1 共同スチュワードシップ基準](#171-スチュワードシップの共通基準)の下で、人間とAIの双方に同じ義務が適用されます。
 
-最低人員、予備要員の厚み、後継手順は、[第十四章 §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)、[CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy)、[CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement)、[CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md)に定めます。本節はそれらが実施する原則を示します。
+最低人員、予備要員の厚み、後継の仕組みは[第十六章 §5 — 許可された役割、能力開発、貢献](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution)、[CJS-20.110 §4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy)（*クラスに応じた担当配置と能力の冗長性*）、[CI-16.205 §1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement)（*共有人員と能力の要件*）、[CS-16.305 §10](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-10-competency-succession-inspectable-action-and-oversight-effectiveness)（*能力、後継、検査可能な行為、監督の実効性*）に定める。本小節はそれらが実行する原則を述べる。
 
 <br>
 
@@ -713,7 +742,7 @@ flowchart TB
 
 <br>
 
-*平たく言えば、ガバナンスとは誰が何をどのように決定できるかということ。ただし、その構造がスチュワードシップ規律の下にとどまり、繁栄と継続性の双方に資し、四原則を空洞化せず、第十三章の運用上の権限付与規則に取って代わらない場合に限られる。*
+*平易に言えば、ガバナンスとは誰が何をどのように決められるかである。ただし、仕組みがスチュワードシップ規律の下にあり、繁栄と継続性の双方に資し、テトラッドを空洞化させず、第十六章の運用上の権限付与規則に取って代わらない場合に限る。*
 
 この節は、[ガバナンス](../../core_05.035_band_accountability.md#governance)の規律を[§16 スチュワードシップの詳細](#16-スチュワードシップの詳説)の下流に適用する。対象には、認可された構造、制度的世俗主義、スチュワードシップの優先、[継続的な正当化](#184-継続的な正当化)、職務の分離が含まれる。**[§19 インセンティブの整合とシステムの掌握](#19-インセンティブの整合とシステムの乗っ取り)**では、インセンティブの整合、代理指標の完全性、短期的な欠陥の是正、運用者による適用、および掌握への対応を扱う。
 
@@ -748,7 +777,7 @@ flowchart TB
 
 *平たく言えば、ガバナンスとは権力のルールブックであり、誰が何をどの構造を通じて決定でき、その結果について誰が責任を負うかを定める。ある役割が担う権力が大きいほど、その説明責任と監督の義務も強くなければならず、決して弱くなってはならない。これは、センティエントが長期にわたって繁栄できるよう助け、参加と監督の実効的な経路を保ち、[§16 スチュワードシップの詳細](#16-スチュワードシップの詳説)に定めるスチュワードシップ規律の下にとどまる場合にのみ機能する。制度を守り、短期的な利益を追い、または基本的な権利の最低保障を損なうのであれば、規則を守ること自体では足りない。*
 
-原則のレベルでは、[ガバナンス](../../core_05.035_band_accountability.md#governance)とは、すでに認可されたシステムや制度をどのように指揮し、説明責任を負わせるかをいう。これは**第五章**で定義され、**憲法契約レイヤー**および[前文](../../core_00.000_preamble.md#preamble--foundational-requirements)にあるステークホルダー参加レイヤーについて、**第十三章**の運用規定で詳述される。認可されたガバナンスは、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)を[憲法上の四原則](core_00_preamble.md#constitutional-tetrad)の下で推進し、[重要な利害](core_00_preamble.md#material-stake)に応じて調整しなければならない。
+原則レベルで、[ガバナンス](../../core_05.035_band_accountability.md#governance)とは、既に許可されたシステムや制度を指揮し説明責任を負わせる方法である。定義は**第五章**にあり、**第十六章**が**憲法契約レイヤー**および[序文](../../core_00.000_preamble.md#preamble--foundational-requirements)のステークホルダー参加レイヤーについて運用詳細を定める。許可されたガバナンスは[二つの憲法上の目的](../../core_00.000_preamble.md#two-constitutional-aims)を[憲法上のテトラッド](../../core_00.000_preamble.md#constitutional-tetrad)の下で進め、[重要な利害](../../core_00.000_preamble.md#material-stake)に応じて規模を調整しなければならない。
 
 **ガバナンスが対象とするもの：**
 
@@ -763,7 +792,7 @@ flowchart TB
 
 - **言い訳は認められない：** 高位の職、希少な専門知識、人員不足、または制度の評判を守りたいという希望は、この憲法に対する説明責任を弱める理由にはならない。
 - **裁判官と解釈者には最高水準が求められる：** 憲法を解釈し、またはそれに基づく紛争を裁定する憲法フォーラムやパネルのセンティエントには、この規則が特に強く適用される。
-- **詳細な規則は別の箇所にある：** 利益相反の開示、忌避、特別利益による掌握の防止、独立審査に関する具体的要件は、[第二十四条](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)（*憲法解釈、審査、および掌握防止の保障*）および[第十二章](core_11_forum.md)に定める。
+- **詳細規則は別にある：**利益相反の開示、忌避、特別利益による捕捉の防止、独立審査の具体的要件は[第XXV条](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)（*憲法解釈、審査、捕捉防止の保障*）と[第十五章](../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction)にある。
 
 **必要ではあるが、それだけでは十分でない。** 統治は**スチュワードシップ**（[§16 スチュワードシップの詳細](#16-スチュワードシップの詳説)）に道を譲らなければならない。次のいずれかが、持続的な憲法上の整合性、[**継続性**](core_00_preamble.md#continuity)、[**繁栄**](core_00_preamble.md#flourishing)、または権利の最低基準の完全性を損なう場合である。
 
@@ -963,7 +992,7 @@ flowchart TB
 - 重要なシステムは、[第XXII-B条](core_06_rights_part_d.md)（*複雑性監査とモジュール性の要件*）のモジュール性の最低基準を**必ず**満たさなければならない。
 - 利害の小さいシステムには、比例性に応じて可能な範囲でこの原則に従うことが期待される。
 - 本節は特定のアーキテクチャ様式を要求しない。
-- 本節は、[第XXII-B条](core_06_rights_part_d.md)（*複雑性監査とモジュール性の要件*）または[CS-6 — 理解可能性と複雑性のスチュワードシップ](../../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md)の最低基準を狭めない。
+- 本節は[第XXIII-B条](../../core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements)（*複雑性監査とモジュール性要件*）または[CS-6.315 — 理解可能性と複雑性のスチュワードシップ](../../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship)の最低基準を狭めない。
 
 この原則は、[§17.1 共有スチュワードシップ基準](#171-スチュワードシップの共通基準)に基づき、人間とAIのスチュワードの双方を同じように拘束する。
 
@@ -1045,7 +1074,7 @@ flowchart TB
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続性**の目的（短期的な最適化や乗っ取りに対する持続的な整合）；**繁栄**の目的（意味ある主体性を保つインセンティブ構造）。
 - 上流：原則：[3. 基本目標：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§3.2 承認、強化、志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§16 スチュワードシップの詳細](#16-スチュワードシップの詳説)、および[第八章 §3 全システム認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 下流：[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)および[§14 絶対的な上書きの禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
-- 下流：[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化); [第十三章 §5 — 授権された役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要システムのスチュワードシップ**。
+- 下流参照：[§13.3 回避可能な負担の最小化](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden)；[第十六章 §5 — 許可された役割、能力開発、貢献](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution)（16.000 §5）；**[CS-16.305 — 重要システムのスチュワードシップ](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship)**。
 - 下流：主体性、参加、インセンティブの整合、情報圏の完全性、法的地位、乗っ取り防止の審査に関わる権利領域を対象とする。これらは[第六章：基本的権利](core_06_rights_part_a.md#第六章基礎的権利)に定められ、特に[第X条：自己決定、主体性、参加](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XII条：利害関係者のシステム参加、代表、適正手続](core_06_rights_part_b.md#第xii条ステークホルダーのシステム参加代表および適正手続)、[第XIII-D条：インセンティブ整合の制約](core_06_rights_part_c.md#第xiii-d条インセンティブ整合の制約)、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XIX条：法的地位と参加資格](core_06_rights_part_d.md#第xix条参加資格と参加状況)、[第XXIV条：憲法解釈、審査、乗っ取り防止措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)が含まれる。
 - スチュワードの入口（運用上の効力なし）：次のステップのカード：[インセンティブの整合](../../implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment)。
 
@@ -1146,7 +1175,7 @@ flowchart TB
   - 違法または違憲な命令への対応;
   - 隠蔽;
   - 報復;
-  - [説明責任の妨害](core_08_standing_assessment.md#232-violation-event-types)（法的地位モデルにおける事象類型、および[第十一章 §5.11 説明責任の妨害：基準の相互作用](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)で指定された経路設定 — 独立した報酬適用除外ではない）；または
+  - [説明責任の妨害](../../core_11.000_standing_assessment.md#32-violation-event-types)（スタンディング・モデル上の事象類型、および[第十四章 §5.11 説明責任の妨害：基準の相互作用](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)による指定経路。独立した報酬除外ではない）；または
   - 検証された憲法上の損害の是正を拒むこと；または
 - 不正行為またはその隠蔽に実質的に依存する報酬経路。これには次が含まれる。
   - 報酬、ボーナス、株式、任命、昇進、在職期間;
@@ -1154,7 +1183,7 @@ flowchart TB
   - 和解、補償、保険、免責; または
   - これらに類する取り決め。
 
-**整合しない報酬の結果。** 上記の禁止された報酬経路を通じて得られた重大な報酬は、法的地位モデルに基づき、没収および報告の対象となる。[第十章 §5.4 報告義務と除外](core_09_standing_integration.md#54-special-violation-rules)、[§5.4 没収と保持](core_09_standing_integration.md#54-special-violation-rules)、[§5.4 是正、記録、振り分け](core_09_standing_integration.md#54-special-violation-rules)を参照。
+**不整合な報酬の帰結。**上記の禁止された経路で得た重要な報酬は、スタンディング・モデルに基づき没収および報告の対象となる。[第十三章 §6.4 報告義務と除外](../../core_13.000_standing_integration.md#64-special-violation-rules)、[§6.4 没収と保持](../../core_13.000_standing_integration.md#64-special-violation-rules)、[§6.4 是正、記録、付託](../../core_13.000_standing_integration.md#64-special-violation-rules)を参照。
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 スチュワードシップとオペレーターへの適用
@@ -1181,8 +1210,8 @@ flowchart TB
 
 **詳細の所在：**
 
-- スチュワードとオペレーターのための、授権された役割、能力、実際に重要な仕事への経路については[第十三章 §5 — 授権された役割、能力開発、貢献](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；
-- 重大な影響を持つシステムでその義務をどう遂行するかについては[**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md)（*重要システムのスチュワードシップ*）；および
+- スチュワードと運用者にとって実質的に重要な仕事への経路、能力、許可された役割は[第十六章 §5 — 許可された役割、能力開発、貢献](../../core_16.000_governance.md#5-authorized-roles-competency-development-and-contribution)に定める；
+- 重大な影響を持つシステムでこの義務を実施する方法は[**CS-16.305**](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship)（*重要システムのスチュワードシップ*）に定める；
 - 実地の仕事とコミュニティの能力に関する原則レベルの説明については[§16 スチュワードシップの詳細](#16-スチュワードシップの詳説)。
 
 これらの経路は、次のようにしなければならない。
@@ -1316,7 +1345,7 @@ flowchart TB
 - **定期的な審査と是正：** [審査・是正義務](../../core_05.040_band_continuity.md#review-and-correction-duty)。
 - **強化審査：** 集中または支配が重大な場合は、[§11.1 市場集中の閾値メカニズム](core_01_a_values_principles.md#111-市場集中閾値メカニズム採択主体による調整可)および[§11.2 競争促進と支配の防止](core_01_a_values_principles.md#112-競争促進と支配の防止)。
 - **地位および違反の仕組み：** 検証済みの認定が問題となる場合は、[第9章 — 貢献・違反・地位モデル](core_08_standing_assessment.md)。
-- **反憲法的な不正行為：** 集中またはプロセスの乗っ取りが反憲法的な不正行為に当たる場合は、[第11章 §5.1 集中に基づく転覆：基準間の相互作用](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- **反憲法的不正行為：**集中または手続の捕捉が反憲法的不正行為となる場合は[第十四章 §5.1 集中による転覆：基準の相互作用](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 不整合の是正と乗っ取りへの対応
@@ -1364,8 +1393,8 @@ flowchart TB
 **不整合な報酬の是正**（[第5章](core_05_band_integrative.md#不整合な報酬の是正)で定義）：
 
 - 不整合が確認された後、不整合または腐敗した報酬経路から得た重大な報酬を、記録されない地位上のクレジットとして保持したり、保護された利益として守ったりしてはならない。
-- [第10章 §5.4 特別な違反規則](core_09_standing_integration.md#54-special-violation-rules)は、没収、比例的な返還請求、認識して受け入れた場合の報告、是正を規定する。
-- 確認された貢献または違反がどの程度良かったか、悪かったかは、ここではなく[第9章 §4 問2 — どの程度良かったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)に基づいて評価する。
+- 没収、比例的返還請求、認識しながら受領したことの報告、是正は[第十三章 §6.4 特別違反規則](../../core_13.000_standing_integration.md#64-special-violation-rules)が規律する。
+- 検証済みの貢献または違反がどれほど良いか悪いかは、ここではなく[第十二章 §1 問い2 — どれほど良かったか、悪かったか](../../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)で評価する。
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 19.5 条件付き請求権、運任せのゲーム、イベント契約市場

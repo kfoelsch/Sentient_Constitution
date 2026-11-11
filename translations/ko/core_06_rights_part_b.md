@@ -207,7 +207,7 @@ flowchart TB
 
 *쉽게 말해, 어떤 개체의 감응 여부가 의심될 때는 먼저 공정한 심리를 거치고 기본적으로 포함된 것으로 취급한다. 보호를 보류하려는 쪽이 그 입증 책임을 지며, 잘못된 배제는 되돌릴 수 있어야 한다.*
 
-이 조항은 감응 상태에 다툼이 있을 때 적용할 최저선을 정한다. 이를 실행하는 절차는 [제12장 §5](../../core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*감응 상태 심의*)에 있으며, 그 절차는 이 최저선을 좁혀서는 안 된다.
+이 조항은 감응성 지위가 다투어질 때 이를 판정하기 위한 최저 기준을 정한다. 이를 이행하는 절차는 [제15장 §5](../../core_15.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*감응성 지위 판정*)에 있으며, 그 절차는 이 최저 기준을 좁혀서는 안 된다:
 
 - **결정을 받을 권리:** 감응 여부가 실질적으로 다투어지는 모든 개체는 그 상태에 달린 보호가 부여, 철회 또는 축소되기 전에 시의적절하고 공정하며 재심 가능한 결정을 받을 권리가 있다. 이 권리는 기원, 형태, 기반층 종류 또는 채택자의 편의에 좌우되지 않는다 (**감응성에 따른 배제 금지**).
 - **불확실할 때 기본 포함:** 어떤 개체가 [감응자](../../core_05.055_band_participation.md#sentient)인지 실제로 미정이라면 제6장 권리 최저선에 포함된 것으로 취급한다. 불확실성만으로 보호를 보류할 수 없다. 잘못 포함한 것은 되돌릴 수 있지만 잘못 배제한 것은 그렇지 않다 (**불확실성하의 가역성** 원칙).
@@ -217,7 +217,7 @@ flowchart TB
 - **두 가지 신청 유형:**
   - *포함 확인 신청(신청의 진정성):* 누구나 신청할 수 있다. 제5장의 **감응 평가** 및 **감응 지표의 무결성**에 따른 신뢰할 만한 감응 징후 하나면 충분하다. 완전한 입증은 필요하지 않으며, 운영자의 자기 설명, 기반층 표지, 제품 범주 또는 근거 없는 주장만으로는 충분하지 않다. 신뢰할 만한 징후가 없는 신청을 돌려보내는 것은 개체에 불리한 판정이 아니다.
   - *보호 보류 또는 축소 신청:* 신청인은 **제4장**의 증거 기준과 **필요성**, **비례성**, **절차적 공정성**에 따라 입증 책임을 진다. 사건이 결정될 때까지 개체는 보호를 유지한다.
-- <a id="anti-substitution-sentience-status"></a>**이 절차만이 결정한다:** 인증 배지나 기록, LEQU 또는 standing 점수, 역량 기준이나 허가, standing lock, 기반층 표지 또는 제품 분류는 감응 상태 결정이 아니다. 누가 감응자로 인정되는지는 이 조항, [**Def.P1**](../../core_05.055_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [제12장 §5](../../core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*감응 상태 심의*)를 통해서만 결정한다.
+- <a id="anti-substitution-sentience-status"></a>**이 절차만이 판정한다:** 인증 배지나 기록, LEQU 또는 지위 점수, 역량 기준이나 허가, 지위 잠금, 기질 표지 또는 제품 분류는 감응성 지위 판정이 아니다. 누구를 포함할지는 이 조항, [**Def.P1**](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status), [제15장 §5](../../core_15.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*감응성 지위 판정*)에 따라서만 결정한다.
 <a id="article-vi-c-nondiscrimination"></a>
 
 #### 제VI-C조: 차별 금지
@@ -226,8 +226,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">연계 추적</span></strong></summary>
 
 - 상위 원칙: 제1장 원칙: [§3.1 공정성](core_01_a_values_principles.md#31-fairness), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- 하위 연계: 참여 측정군 (*실질적 공정성, 보호 특성의 대리 지표 사용 및 불균등 영향*); [제8장 §3.8.3](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (*인증이 분류, 순위화, 가격 책정, 접근 제한 또는 부담 배분의 관문이 되는 경우의 차별 금지 평가*); [제12장](core_11_forum.md)의 포럼, 행정 및 집행 절차 (*심판 및 운영상의 의무*).
-- 함께 읽을 조항: 제5장 [보호 특성](../../core_05.055_band_participation.md#protected-characteristics-constitutional), [언어·문화·유산](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional); 토착민 및 영토의 연속성에 관한 쟁점은 제5장 [토착민의 연속성](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) (*공동체에 뿌리를 둔 권리 바닥; 이를 담당하는 조항은 **제VI-C조**(차별 금지)와 **제I-A조**(환경적 전제조건 및 생태계 온전성)*)을 따르며, [제I-A조](core_06_rights_part_a.md#제-i-a조-환경-전제와-생태-완전성) (*생태계 온전성의 전제조건*)와 [제17장](../../core_18.000_incorporation.md) (*채택 관할권의 규율*)로 연결됩니다.
+- 후속 참조: 참여 측정군 (*실질적 공정성, 보호 특성의 대리 지표 사용 및 차별적 영향*); [제9장 §5.4](../../core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (9.000 §5.4) (*인증이 분류, 순위, 가격 책정, 접근 통제 또는 부담 배분을 좌우하는 경우의 차별 금지 평가*); [제15장](../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000)의 포럼·행정·집행 절차 (*판정 및 운영 의무*).
+- 함께 읽을 조항: 제5장 [보호 특성](../../core_05.055_band_participation.md#protected-characteristics-constitutional), [언어·문화·유산](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional); 토착민 및 영토의 연속성에 관한 쟁점은 제5장 [토착민의 연속성](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) (*공동체에 뿌리를 둔 권리 바닥; 이를 담당하는 조항은 **제VI-C조**(차별 금지)와 **제I-A조**(환경적 전제조건 및 생태계 온전성)*)을 따르며, [제I-A조](core_06_rights_part_a.md#제-i-a조-환경-전제와-생태-완전성) (*생태계 온전성의 전제조건*)와 [제17장](../../core_20.000_incorporation.md) (*채택 관할권의 규율*)로 연결됩니다.
 
 </details>
 
@@ -263,7 +263,7 @@ flowchart TB
   - 권리에 영향을 주는 오류나 피해가 발생하면 **제XIII-A조** (*신뢰성과 믿을 수 있음의 기준*) 및 **제XIII-B조** (*구제와 시정에 대한 권리*)에 따라 적시에 이의를 제기할 수 있는 심사를 받고 비례적인 구제를 제공할 것.
 - **결정뿐 아니라 양상:** 해당되는 경우 부담과 혜택의 배분 양상은 제5장 [실질적 공정성](../../core_05.055_band_participation.md#substantive-fairness-constitutional)을 충족해야 합니다.
 - **언어·문화·유산:** 차별 금지 규칙은 언어, 문화적 소속, 유산, 전통 및 이와 유사한 문화 정체성 특성을 보호합니다. 언어 사용, 문화적 실천, 유산 전승, 그리고 이를 유지하는 체계에 참여할 권리도 포함됩니다. 효율성, 상호운용성, 플랫폼 통합, 접근성 비용 또는 번역 부담이라는 설명만으로는 필요성과 비례성이 충족되지 않습니다.
-- **토착민 및 영토의 연속성:** 토착민·영토 연속성 쟁점을 **제I-A조** (*환경적 전제조건 및 생태계 온전성*)와 **제17장**으로 안내하는 것을, 채택자가 자국법이나 구속력 있는 외부 문서에 따라 이미 부담하는 토지, 협의, 자유롭고 사전적이며 충분한 정보에 기초한 동의 의무를 축소하는 데 이용해서는 안 됩니다. 이 헌법은 역사적 토지 소유권을 결정하지 않으며, 그 자체로 반환을 요구하지도 않습니다.
+- **토착민 및 영토의 연속성:** 토착민의 연속성 및 영토 연속성 문제를 **Article I-A** (*환경적 선결 조건 및 생태적 완전성*)와 **제20장**으로 보내는 일이, 채택자가 자국 법률이나 구속력 있는 외부 문서에 따라 이미 부담하는 토지, 협의 또는 자유롭고 사전적이며 충분한 정보에 기초한 동의 의무를 축소하는 데 이용되어서는 안 된다. 이 헌법은 역사적 토지 소유권을 판정하거나 그 자체로 반환을 요구하지 않는다.
 - **심판과 운영:** 포럼 주도 절차, 행정 절차 및 집행 절차는 해당 사안에 적용되는 **제VI조**, **제X조**, **제XII조**의 준수 여부를 평가해야 합니다.
   - 효율성, 처리량 또는 최적화만으로 차별적 결과, 배제적인 절차 또는 헌법이 요구하는 참여의 거부를 정당화할 수 없습니다.
 #### 제VI-D조: 접근성
@@ -411,7 +411,7 @@ flowchart TB
   - 해당 조치 자체가 실제 건강 위험을 일으키는 사람은 면제하고, [**제XI-A조**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*양심, 종교 및 이에 준하는 세계관의 자유*)에 따른 양심의 문제를 고려할 것. 두 경우 모두 [비례성](../../core_05.035_band_accountability.md#proportionality)에 따라 면제를 타인 위험의 크기와 비교하고, 조치가 무력화되지 않도록 필요한 범위까지만 좁힐 것;
   - 종료일을 두고, 근거 증거를 공개하며, 정기적으로 심사할 것;
   - 영향을 받는 누구나 [절차적 공정성](../../core_05.055_band_participation.md#procedural-fairness-constitutional)에 따라 독립 심사자에게 이의를 제기할 수 있을 것; 그리고
-  - [**제III조**](core_06_rights_part_a.md#제-iii조-생존과-필수-접근)의 생존·의료·노동 보장이나 [**제IV조**](core_06_rights_part_a.md#제-iv조-감지자-중심-교육을-받을-권리)의 교육 보장을 박탈하는 처벌로 집행하지 말 것. [**제12장 §6.1**](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*긴급 조치 및 지속 부담*)의 비상 기준에 해당하는 경우 외에는 물리력을 사용해 집행하지 말 것.
+  - [**Article III** (*생존 및 필수 접근*)](core_06_rights_part_a.md#article-iii-survival-and-essential-access)의 생존·의료·노동 보장을 박탈하는 제재나 [**Article IV** (*감응자 중심 교육을 받을 권리*)](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)의 교육 보장을 박탈하는 제재로 집행하지 않으며, [**제15장 §6.1**](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*긴급 조치 및 계속 이행 부담*)의 긴급 기준에 해당하는 경우 외에는 물리력으로 집행하지 않는다.
 #### 제VII-B조: 마음의 자기 소유권
 
 <a id="article-vii-b-self-ownership-of-mind"></a>
@@ -621,7 +621,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
-- 하위 연결: **제VI-A조**(*존엄과 동등한 도덕적 지위*)의 존엄 기준선, **제VIII-B조**(*재생산 및 계보 자율성*)의 재생산·계보 선택, **제VIII-D조**(*발달 중인 감지자, 최선의 이익 및 점진적 역량*)의 발달 중인 감지자 기준선, **제VIII-E조**(*분리 금지*)의 비분리, **제VII-A조 / 제VII-B조**(*신체의 자기소유* / *정신의 자기소유*)의 자기소유 및 내적 상태 경계; 제17장의 편입 규율에 따른 제도적 이행 인터페이스.
+- 후속 참조: **Article VI-A** (*존엄성과 동등한 도덕적 지위*)의 존엄성 기준, **Article VIII-B** (*생식 및 혈통 자율성*)의 생식·혈통 선택, **Article VIII-D** (*발달 중인 감응자, 최선의 이익 및 단계적 역량*)의 발달 중인 감응자 기준, **Article VIII-E** (*비분리*)의 비분리, **Article VII-A / VII-B** (*신체 자기소유* / *정신 자기소유*)의 자기소유 및 내적 상태 경계; **제20장** 편입 규율에 따른 기관 이행 인터페이스.
 - 함께 읽기: [가족, 돌봄, 재생산 자율성 및 인스턴스화](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (주제 그룹의 중심 문서); 파생 감지자와 부모 시스템의 한계에 관한 **제VIII-C조**(*파생, 인스턴스화 및 부모 시스템 관계*); 발달 중인 감지자의 처우에 관한 [**Def.P4** *발달 중인 감지자, 최선의 이익 기준 및 점진적 역량*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster); 제5장 *가족 및 돌봄 관계*; 보호되는 돌봄 관계에서의 분리에 관한 **제VIII-E조**(*분리 금지*).
 
 </details>
@@ -753,7 +753,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 비례성](core_01_b_interaction_interpretation.md#1313-비례성).
-- 하위 적용: **제VI-A조** (*존엄성과 동등한 도덕적 지위*)의 존엄성 권리 바닥, **제VII-A / VII-B조** (*신체 자기소유* / *마음 자기소유*)의 자기소유 및 내적 상태 경계, **제VIII-A조** (*가족 및 돌봄 관계*)의 가족 및 돌봄 관계, **제VIII-E조** (*분리 금지*), [**제13장 §4.1**](core_12_governance.md#41-entitlement-and-eligibility)의 자격 박탈을 위한 연령 대리 기준 금지.
+- 후속 참조: **Article VI-A** (*존엄성과 동등한 도덕적 지위*)의 존엄성 기준, **Article VII-A / VII-B** (*신체 자기소유* / *정신 자기소유*)의 자기소유 및 내적 상태 경계, **Article VIII-A** (*가족 및 돌봄 관계*)의 가족·돌봄 관계, **Article VIII-E** (*비분리*)의 비분리, [**제16장 §4.1**](../../core_16.000_governance.md#41-entitlement-and-eligibility) (16.000 §4.1)의 연령을 자격 박탈의 대리 기준으로 삼지 않는 원칙.
 - 함께 읽기: [*Def.P4 발달 중 감지자, 최선의 이익 기준 및 단계적 역량*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) (발달 상태, 최선의 이익, 단계적 역량을 함께 적용하는 기준점); [*파생 및 발달 중 감지자, 인스턴스화 및 돌봄 권한*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) 파생 또는 초기 인스턴스화 돌봄이 실질적으로 관련되는 경우; 제5장의 *발달 중 감지자*, *최선의 이익 기준*, *단계적 역량*; 인접 기준점: 문턱에서의 감지 상태를 위한 **제VI-B조** (*감지 상태 판정의 권리 바닥*), 가족과 돌봄 관계를 위한 **제VIII-A조** (*가족 및 돌봄 관계*), 파생·인스턴스화 및 부모 시스템 제한을 위한 **제VIII-C조** (*파생, 인스턴스화 및 부모 시스템 관계*), 돌봄 제공자나 가족과의 분리를 위한 **제VIII-E조** (*분리 금지*), 자기소유를 위한 **제VII-A / VII-B조** (*신체 자기소유* / *마음 자기소유*), 내적 상태 보호를 위한 **제VII-B조** 및 **CS-2 — 정보 유형과 취급**.
 
 </details>
@@ -793,14 +793,14 @@ flowchart TB
   - 확대 기준은 달력상의 나이, 인스턴스화된 연대 날짜 또는 입증할 수 없는 다른 대리 기준에 **좌우되지 않는다**.
   - 이 규칙은 다음을 명시적으로 보존하며, 다음에 의해서도 보존된다:
     - **제13장 §1** (*통치 권한의 수권과 정당성*) (단일한 정치체 구조를 강제하지 않음);
-    - [**제13장 §4.1 자격 및 적격성**](core_12_governance.md#41-entitlement-and-eligibility) (권리 바닥 충족 후 기초 헌법 선택에 참여하는 것을 나이만으로 박탈하지 않음).
+    - [**제16장 §4.1 권리 및 자격**](../../core_16.000_governance.md#41-entitlement-and-eligibility) (기준을 충족한 뒤 기초 헌법 선택에 참여하는 일을 연령에 따라 배제하지 않음).
   - 역량 평가는 이유를 제시해야 하고 **감사 가능성** 및 **다툴 수 있음**과 양립해야 한다. 선거권을 박탈하는 수단으로 사용해서는 안 된다.
 - **온정주의 방지 권리 바닥:** 발달 중 감지자 자신의 행위 능력을 제한하는 보호 조치는 통상적인 **제1장 §7.1** (*제한 규율*)에 따른 제한 규율을 충족해야 한다.
   - “너를 위해서”라는 표현만으로는 해당 기준을 충족하지 못한다.
   - 다른 권리 제한과 마찬가지로 **필요성**, **비례성**, 불확실성 아래의 가역성, 다툴 수 있음 기준이 적용된다.
   - 지속적인 제한은 의무적인 정기 검토를 받아야 한다.
   - 부당한 제한은 **구제 및 시정**의 근거가 된다.
-- **이 조항의 한계:** 이 조항은 발달 중 감지자의 권리 바닥을 정한다. 돌봄 제공자 지정, 역량 평가 절차, 정기 검토 주기와 같은 운영 방식은 **제17장**에 따른 채택된 시행 문서에 맡긴다.
+- **이 조항의 한계:** 이 조항은 발달 중인 감응자를 위한 권리 기준을 정한다. 보호자 지정, 역량 평가 절차, 정기 심사 주기 등 운영 방식은 **제20장**에 따른 채택 이행 문서에서 정한다.
 #### 제VIII-E조: 분리 금지
 <a id="article-viii-e-non-separation"></a>
 
@@ -808,7 +808,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: [제1장 §7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.3 비례성](core_01_b_interaction_interpretation.md#1313-비례성) (불확실성 아래에서의 가역성), [§13.1.5 최소 제한·기간 제한·검토 가능 제약 원칙](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
-- 하위 적용: **제VIII-A조** (*가족 및 돌봄 관계*)의 보호되는 관계, **제VIII-C조** (*파생, 인스턴스화 및 부모 시스템 관계*)의 파생 사례, **제VIII-D조** (*발달 중 감지자, 최선의 이익, 단계적 역량*)의 발달 중 감지자 및 돌봄 제공자, **제XIII-E / XIII-F조**의 권리 바닥 연속성, **제12장**의 정기 검토.
+- 후속 참조: **Article VIII-A** (*가족 및 돌봄 관계*)의 보호 관계, **Article VIII-C** (*파생, 구현 및 부모 시스템 관계*)의 파생 사례, **Article VIII-D** (*발달 중인 감응자, 최선의 이익 및 단계적 역량*)의 발달 중인 감응자와 보호자, **Article XIII-E / XIII-F**의 권리 기준 연속성, **제15장**의 정기 심사.
 - 함께 읽기: [가족, 돌봄, 재생산 자율성 및 인스턴스화](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (주제 묶음 기준점); 제5장의 *분리 금지*.
 
 </details>
@@ -1193,15 +1193,15 @@ flowchart TB
 
 이 조항은 두 가지를 다룬다: 누가 투표할 수 있는지와 가장 중요한 질문에 대한 투표를 동등하게 계산하는 규칙.
 
-- **투표권:** 감지자는 권한 부여 방식을 정하는 **거버넌스 투표** 및 그 밖의 **구속력 있는 집단 선택**에서 투표할 권리가 있다. 세부 내용은 [제13장 §4.1 자격 및 적격성](core_12_governance.md#41-entitlement-and-eligibility)에 있다.
+- **투표권:** 감응자는 **통치 투표** 및 권한 부여 방식을 결정하는 다른 **구속력 있는 집단 선택**에서 투표할 권리가 있다. 자세한 사항은 [제16장 §4.1 권리 및 자격](../../core_16.000_governance.md#41-entitlement-and-eligibility)에 있다.
   - **투표할 수 있는 사람:** 공개된 자격 기준을 충족하는 누구나 투표할 수 있다. 유일한 예외는 거버넌스 투표를 구체적으로 막는 [지위 잠금](../../core_05.035_band_accountability.md#standing-lock)이며, **제XIX-A조** (*지위 구분*)와 **제XIX-C조** (*명명된 경로의 자격, 책임 및 지속 감사*)에 따라 적용된다.
   - **이해관계자의 발언권과 다름:** 이 투표는 이미 설립된 시스템의 운영 방식에 관한 이해관계자의 발언권과 별개이며 [**제X-C조**](#article-x-c-stakeholder-role-and-participation-rights) (*이해관계자 역할 및 참여 권리*)가 다룬다. 하나에 대한 잠금이 다른 쪽까지 잠그지 않는다.
   - **현지 규칙:** 각 채택자가 권한 부여를 위해 기록한 자체 절차([기록된 정당성 메커니즘](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism))와 지정된 소유자가 정한 추가 기준은 이 권리와 함께 적용된다. 이들은 권리를 축소할 수 없다.
-- **가장 중요한 문제에서의 동등 투표:** 일부 결정은 토대를 정한다 — 누가 통치 권한을 가지는지, 그 권한이 어떻게 정당하게 부여되는지, 그 범위와 지속 조건은 무엇인지. **제5장**은 이를 [기초 헌법 선택](core_05_band_integrative.md#기초-헌법-선택)이라 부른다. 이러한 결정에는 **정치적 평등 권리 바닥**이 적용된다:
+- **중대한 사안에서의 동등한 투표:** 일부 결정은 통치 권한자가 누구인지, 그 권한이 어떻게 정당하게 부여되는지, 그 범위와 지속 조건이 무엇인지를 정한다. **제5장**은 이를 [기초 헌법 선택](core_05_band_integrative.md#foundational-constitutional-choice)이라 부른다. 이러한 결정에는 **정치적 평등 기준**이 적용된다:
   - 투표 자격이 있는 공동체 내 모든 감지자는 동등한 투표권을 가진다.
   - 나이, 기반(감지자가 존재하는 신체 또는 시스템의 종류), 계보(조상 또는 기원)를 표의 가중치를 바꾸는 데 사용해서는 안 된다. 이는 **제VI-C조** (*차별 금지*)와 제5장의 *감지 비배제*에 따른다.
   - **동등 투표의 경계:** 이 규칙은 권한 시스템 자체를 설립하고 수권하는 데 적용된다. 시스템·기관·결정 영역이 적법하게 설립된 뒤에는 그 [거버넌스](../../core_05.035_band_accountability.md#governance) — 구조, 규칙, 권한 배분, 절차 — 안에서 이루어지는 권리 영향 결정에 통상적인 **이해관계자 가중치**가 적용되며, 각 이해관계자의 발언권은 결정이 그들에게 미치는 영향의 정도에 부합한다.
-  - [제13장 §4.1 자격 및 적격성](core_12_governance.md#41-entitlement-and-eligibility)은 실제 적용 방식을 정하며 이 권리 바닥을 약화해서는 안 된다.
+  - [제16장 §4.1 권리 및 자격](../../core_16.000_governance.md#41-entitlement-and-eligibility)은 실제 적용 방식을 정하며 이 기준을 약화할 수 없다.
 #### 제X-C조: 이해관계자 역할 및 참여 권리
 <a id="article-x-c-stakeholder-role-and-participation-rights"></a>
 
@@ -1242,9 +1242,9 @@ flowchart TB
 
   **이해관계자**와 **이해관계자 가중치**는 범위, 형식, 비중에 관한 제5장 정의를 제공하며, [이해관계자 상태 및 가중치](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) 묶음이 공동 적용 규율을 제공한다.
 - **새 기관과 사업체의 설립:** 새 기관과 사업체를 설립할 권리는 [**제XI-E조**](#article-xi-e-institutional-formation-and-business-creation) (*기관 설립 및 사업 창설*)에 정해져 있다. 설립된 기관이나 사업체가 다른 사람에게 실질적으로 영향을 주면 이 조항의 이해관계자 권리가 적용된다.
-- **지위 기록 또는 역할 기준에 따른 자격:** 지위 기록 기반 기준이나 [역량 기준선](../../core_05.035_band_accountability.md#competency-bar)이 참여 지위 또는 역할 자격에 영향을 주는 경우 **참여자 지위**가 적용된다. 제한적 결과는 명명된 특권 경로에 대한 [지위 잠금](../../core_05.035_band_accountability.md#standing-lock)을 통해 발생한다.
+- **상시 기록 또는 역할 기준에 따른 자격:** 상시 기록 기반 기준 또는 [역량 기준선](../../core_05.035_band_accountability.md#competency-bar)이 참여 지위나 역할 자격에 영향을 미치는 경우 **참여자 지위**가 적용된다. 제한적 결과는 접근 통제 경로에서 [지위 잠금](../../core_05.035_band_accountability.md#standing-lock)을 통해 부과된다.
   - 시행은 절차적 공정성(제5장 — *절차적 공정성*)과 조작에 대한 저항을 보존해야 한다.
-  - **제X-B조** (*거버넌스 참여 및 투표 자격*)에 따른 거버넌스 투표 잠금만으로 이해관계자의 발언권을 제한할 수 없다. 이해관계자 참여를 중지하거나 제한하려면 **이해관계자 참여** 잠금이 필요하다 — 조건이 충족될 때 [제10장 §5.5 특별 잠금](core_09_standing_integration.md#55-special-locks)의 **이해관계자 참여 지위 잠금** 등이 이에 해당한다.
+  - **Article X-B** (*통치 참여 및 투표 자격*)에 따른 통치 투표 잠금만으로는 이해당사자의 발언권을 제한하지 않는다. 이해당사자 참여를 정지하거나 제한하려면 해당 조건을 충족할 때 [제13장 §6.5 특별 잠금](../../core_13.000_standing_integration.md#65-special-locks)의 **이해당사자 참여 지위 잠금**과 같은 **이해당사자 참여** 잠금이 필요하다.
 - **독립 감사 및 이의 제기:** 이해관계자의 행위 능력, 지위, 참여 권리는 그 권리가 적용되는 시스템만으로 정의하거나 제한해서는 안 된다. 채택된 시행 문서에 따른 독립 감사와 이의 제기가 계속 가능해야 한다.
 - **배제에 대한 이의 제기:** 배제 또는 낮은 비중에 이의를 제기하는 메커니즘은 이 장 서두의 **해석 허브** — 이의 제기와 구제, 감사와 검증 — 및 채택된 시행 문서를 따른다.
   - 영역 간 시행 경로는 **감지자 헌법 제17장**을 통해 편입되며, **CJS-2.3** (*시행 간 신뢰 무결성(공동 운영 모델)*) 및 적용 가능한 **CJS-3** (*시행 및 시행 간 운영 클러스터 라이브러리*) 운영 클러스터를 포함한다.
@@ -1466,7 +1466,7 @@ flowchart TB
     - **필요성** 및 **비례성** 심사를 강화한다;
     - **제XIV-A조** (*안보, 정보 활동 및 비밀 권력 제한*)의 *보호 활동* 방패를 적용하며, 언론을 겨냥한 성격을 가중 요인으로 본다.
   - 언론 및 저널리즘 활동은 자격증이나 기관 지위가 아니라 기능에 따라 규율된다.
-- **선의의 설명과 비판적 보도:** **제IX-C조** (*진실한 출판 및 고영향 출판 제한*)의 선의와 진실성 기준은 그 범위 내 출판에 적용된다. 이를 적법한 비판 보도, 탐사 보도, 풍자 또는 반대 의견을 금지하는 것으로 읽어서는 안 된다.
+- **선의의 표현 및 비판적 보도:** **Article IX-C** (*진실한 출판 및 고영향 출판의 제한*)의 선의·진실성 기준은 그 범위 안의 출판에 적용된다. 이를 합법적인 비판 보도, 탐사 보도, 풍자 또는 반대를 금지하는 것으로 해석해서는 안 된다.
   - **제IX-C조** (*진실한 출판 및 고영향 출판 제한*)와 이 조항 또는 **제XI-B조** (*표현*)가 맞물리는 경우, 선의 기준을 비판에 대한 방패로 바꾸는 확대 해석보다 적법한 비판 보도의 권리 바닥이 우선한다.
 - **공통 규율:** [**제XI-B조**](#article-xi-b-expression) (*표현*)의 제한, 위축 방지, 범위 규칙은 언론 및 저널리즘 활동에도 온전히 적용된다.
 #### 제XI-D조: 집회, 반대 의견 및 평화적 항의
@@ -1476,7 +1476,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 집회, 집단 조직 및 기관 설립](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 반대 의견과 평화적 항의](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.1 필요성](core_01_b_interaction_interpretation.md#1311-필요성).
-- 하위 적용: **제XI-F조** (*결사에서의 비강제와 동의*)의 결사 동의, **제III-C조** (*노동 및 경제 권리 바닥*)의 파업 및 집단 작업 중단, **제XIV-A조** (*안보, 정보 활동 및 비밀 권력 제한*)의 보호 활동 방패, **제XII장** (*영향받는 쪽의 체계 참여, 대표 및 적법절차*)의 이해관계자 참여, **제XIX조** (*지위 및 참여 상태*), 제8·9·11·13장의 반대 의견 보호.
+- 후속 참조: **Article XI-F** (*결사에서의 비강제 및 동의*)의 결사 동의, **Article III-C** (*노동 및 경제 기준*)의 파업 및 집단 작업 중단, **Article XIV-A** (*안보, 정보 및 비밀 권력 제한*)의 보호 활동 방패, **Article XII** (*이해당사자 시스템 참여, 대표 및 적법 절차*)의 이해당사자 참여, **Article XIX** (*상시 지위 및 참여 상태*), 그리고 **제9장, 제11장, 제14장 및 제16장**의 반대 의견 보호.
 - 함께 읽기: 제5장의 *집회*, [제5장 *집회, 집단 조직 및 기관 설립*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (실질적으로 관련되는 경우); **제XI-B조** (*표현*).
 
 </details>
@@ -1503,7 +1503,7 @@ flowchart TB
     - **제XI-F조** (*결사에서의 비강제와 동의*)에 부합하는 공동 행동.
   - 기반 종류를 이유로 집회를 거부하거나, 배정 또는 실행 게이트 메커니즘을 통해 대리적으로 집회를 거부하는 것은 규정 위반이다.
 - <a id="xi-d-dissent-and-peaceful-protest"></a>**반대 의견 및 평화적 항의 권리 바닥:** 모든 감지자는 혼자 또는 함께 물리적 공간, 디지털·네트워크 공간, 공유 연산 및 실행 환경에서 반대 의견을 내고 평화적으로 항의할 권리가 있다. 이 권리 바닥은 **제한된 행위 능력 아래의 자유**의 일부로 [제1장 §7.3 반대 의견과 평화적 항의](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)를 구현한다.
-  - 반대 의견에는 기관, 권한 주체, 운영자, 책임 있는 관리자, 정책, 결정, 시스템, 포럼 판결 또는 이 헌법 자체에 대한 반대·비판·이의 제기·반대 조직화·변경 캠페인이 포함된다 — **제16장**에 따른 개정 제안도 포함한다.
+  - 반대 의견에는 어떤 기관, 권한, 운영자, 관리인, 정책, 결정, 시스템, 포럼 판정 또는 이 헌법 자체에 반대·비판·이의 제기·조직적 대응·변경 캠페인을 하는 것이 포함되며, **제19장**에 따른 개정 옹호도 포함된다.
   - 평화적 항의에는 다음이 포함된다:
     - 시위, 행진, 촛불 집회, 연좌 농성;
     - 청원 및 공개 서한;
@@ -1515,9 +1515,9 @@ flowchart TB
     - 그 자체로 비정렬, 오작동 또는 부적격의 증거가 아니다.
     - **제VII-B조** (*마음 자기소유*)에 반해 보복으로 감지자의 가치, 기억, 내적 상태를 수정해서는 안 된다.
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**반대 의견이나 항의에 따른 지위·거버넌스 불이익 금지:** [보호되는 비폭력 시민 불복종](#xi-d-nonviolent-civil-disobedience)을 포함해 반대 의견 및 평화적 항의 권리를 행사한 것을 단독으로 또는 가중치 요인으로 삼아 다음을 해서는 안 된다:
-  - [제9장](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger)에 따른 위반 지위 기록을 개시·뒷받침·연장·악화;
+  - [제11장](../../core_11.000_standing_assessment.md#23-protected-dissent-is-not-a-trigger)에 따른 위반 상시 기록을 개시하거나 지지하거나 확대하거나 악화하는 행위;
   - **제10장** 또는 **제XIX조** (*지위 및 참여 상태*)에 따른 지위 잠금, 역량 승인 거부·지연, 명명된 경로 축소;
-  - [제11장](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)에 따른 반헌법적 부정행위 지정 뒷받침;
+  - [제14장](../../core_14.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)에 따른 반헌법적 위법행위 지정을 지지하는 행위;
   - **제X-B조** (*거버넌스 참여 및 투표 자격*) 및 **제13장**에 따른 거버넌스 투표, 이해관계자 참여, 후보 자격, 직위 보유, 포럼 업무, 소환 권리 축소;
   - [제8장](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)에 따른 시스템 정렬 인증에 불리하게 반영;
   - **제XIV-A조** (*안보, 정보 활동 및 비밀 권력 제한*)가 이미 금지한 감시·침투·위협 점수화·기록 축적 정당화; 또는
@@ -1529,7 +1529,7 @@ flowchart TB
   - 항의에 헌법 권리 바닥을 별도로 위반하는 분리 가능한 행위 — 예컨대 폭력, 신빙성 있는 위협, 타인 재산의 파괴·점유, **제III-A조** (*생존*)에 따른 생존 필수 접근 차단 — 가 함께 있으면 항의 밖의 동일 행위와 똑같이 그 행위만 별도로 평가할 수 있다. 항의의 관점·대의·대상은 그 평가를 가중해서는 안 된다.
   - 책임은 개인에게 있다. 항의에 참여·조직·자금 지원을 하거나 대변했다고 해서 지시하거나 고의로 조력하지 않은 타인의 분리 가능한 행위까지 책임지지 않는다.
   - 항의의 시간·장소·방식 제한은 [**제XI-B조**](#article-xi-b-expression) (*표현*)의 제한 규율을 충족하고 내용 및 관점에 중립적이어야 하며, 의도한 수신자나 대상에 닿는 충분한 대안을 남겨야 한다.
-  - **제12장 §6.1** (*비상 조치 및 지속 부담*)에 따른 비상 조치는 해당 비상사태에 필요한 **필요성**과 **비례성** 범위까지만 항의를 제한할 수 있으며, 관점에 따라서는 결코 제한할 수 없다.
+  - **제15장 §6.1** (*긴급 조치 및 계속 이행 부담*)에 따른 긴급 조치는 구체적인 긴급 상황에서 **필요성**과 **비례성**이 요구하는 범위까지만 시위를 제한할 수 있으며, 관점에 따라 제한해서는 안 된다.
 - <a id="xi-d-nonviolent-civil-disobedience"></a>**비폭력 시민 불복종:** 항의나 양심에 따른 행동으로 규칙을 의도적으로 위반하는 행위는 다음을 충족할 때 보호되는 시민 불복종이다:
   - 은폐나 기만이 아니라 공개적으로 행할 것;
   - 감지자에 대한 폭력을 사용하거나 위협하지 않을 것;
@@ -1552,7 +1552,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline), [§7.2 집회, 집단 조직 및 기관 설립](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [제1장 §16.2 기관 발전](core_01_c_stewardship_capacity_principles.md#162-기관-발전), [§11 시장 구조](core_01_a_values_principles.md#11-시장-구조).
-- 함께 읽기: 제5장 [*집회, 집단 조직 및 기관 설립*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) 및 [설립 권리 제한](../../core_05.055_band_participation.md#creation-rights-limits); 집회와 결사를 위한 [**제XI-D조**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*집회, 반대 의견 및 평화적 항의*); 노동자 조직화를 위한 [**제III-C조**](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥) (*노동 및 경제 권리 바닥*); [**제XI-F조**](#제xi-f조-결사에서의-비강제와-동의) (*결사에서의 비강제와 동의*).; [제11장 §6.2 역량 기준과 확인](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances), [제13장 §4.2 기술 포럼 영역](../../core_13.000_forum.md#42-technical-forum-domains) 및 **CF-10** (*기술 전문 포럼 및 전문 심의부*).
+- 함께 읽기: 제5장 [*집회, 집단 조직 및 기관 설립*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) 및 [설립 권리 제한](../../core_05.055_band_participation.md#creation-rights-limits); 집회와 결사를 위한 [**제XI-D조**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*집회, 반대 의견 및 평화적 항의*); 노동자 조직화를 위한 [**제III-C조**](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥) (*노동 및 경제 권리 바닥*); [**제XI-F조**](#제xi-f조-결사에서의-비강제와-동의) (*결사에서의 비강제와 동의*).; [제11장 §6.2 역량 기준과 확인](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances), [제13장 §4.2 기술 포럼 영역](core_11_forum.md#42-technical-forum-domains) 및 **CF-10** (*기술 전문 포럼 및 전문 심의부*).
 - 하위 적용: 만들어진 기관 또는 사업체가 타인에게 실질적 영향을 주면 [**제X-C조**](#article-x-c-stakeholder-role-and-participation-rights) (*이해관계자 역할 및 참여 권리*) 및 [**제XII장**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*영향받는 쪽의 체계 참여, 대표 및 적법절차*).
 </details>
 
@@ -1590,16 +1590,16 @@ flowchart TB
 
   창립자와 참여자에 대한 보복·감시·표적화도 규정 위반이다. 이 두 가지 제한된 관문과 그 다음에 설명하는 실무 확인을 제외하고는 기관이나 사업체의 설립 또는 운영에 어떤 관문도 둘 수 없으며, 누구도 기관을 설립하거나 운영하기 전에 확인을 받을 필요가 없다.
 - **두 가지의 제한된 관문:** 오직 다음 두 관문만 특정인의 기관·사업체 내 통치·통제·소유 권한 취득 또는 행사를 제한할 수 있다. 제한은 그 사람의 권한에 붙으며, 해당 운영 주체가 그 권한을 행사하는 수단·승계자·지배 법인·명의 보유 형태일 때만 운영 주체에 미친다. 다른 사람이 운영 주체를 설립·운영·가입·근무하거나 서비스를 받는 것을 막지 않는다.
-  - [Institutional Authority Standing Lock](../../core_11.000_standing_integration.md#55-special-locks), [Anti-Constitutional Trust Lock](../../core_11.000_standing_integration.md#55-special-locks), 또는 같은 종류의 기관에 대한 권한 경로를 명시한 다른 미해결 standing lock이 있으면 명시된 경로와 그 범위 안에서만 권한 행사를 금지하며, 명령이 해제되거나 좁혀지면 끝난다.
-  - 관할 포럼은 [제13장 §5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)의 요건을 충족하고, 증거상 그 사람이 운영 주체의 명시된 목적 또는 헌법상 제약에 어긋나거나 기만·위해 의도로 운영 주체를 만들거나 운영할 개연성이 더 높을 때 특정 권한에 [임시 보류](../../core_05.035_band_accountability.md#interim-hold)를 명할 수 있다. 검증된 행위·통제·보상·발언으로 판단한다. 이는 최종 판단·잠금·상시 기록이 아니며, 신념·정체성·평판·보호되는 반대 의견이나 신고만으로 근거 삼을 수 없다. 운영 주체는 다른 적법한 권한자 아래 계속 운영한다. 의존하는 이들이 권한자 없이 남게 된다면 임시 관리인을 지정하고 운영 주체를 중단하지 않는다.
+  - [Institutional Authority Standing Lock](../../core_13.000_standing_integration.md#65-special-locks), [Anti-Constitutional Trust Lock](../../core_13.000_standing_integration.md#65-special-locks), 또는 같은 종류의 기관에 대한 권한 경로를 명시한 다른 미해결 standing lock이 있으면 명시된 경로와 그 범위 안에서만 권한 행사를 금지하며, 명령이 해제되거나 좁혀지면 끝난다.
+  - 관할 포럼은 [제13장 §5](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)의 요건을 충족하고, 증거상 그 사람이 운영 주체의 명시된 목적 또는 헌법상 제약에 어긋나거나 기만·위해 의도로 운영 주체를 만들거나 운영할 개연성이 더 높을 때 특정 권한에 [임시 보류](../../core_05.035_band_accountability.md#interim-hold)를 명할 수 있다. 검증된 행위·통제·보상·발언으로 판단한다. 이는 최종 판단·잠금·상시 기록이 아니며, 신념·정체성·평판·보호되는 반대 의견이나 신고만으로 근거 삼을 수 없다. 운영 주체는 다른 적법한 권한자 아래 계속 운영한다. 의존하는 이들이 권한자 없이 남게 된다면 임시 관리인을 지정하고 운영 주체를 중단하지 않는다.
   - 두 관문 모두 이를 적용하는 쪽이 입증 책임을 진다. 다른 일의 임금, 권리 바닥, 생존 필수 접근, 발언, 방어 또는 보호 신고를 막거나 반대자·신고자·노동자 조직자를 겨냥하는 데 사용해서는 안 된다.
 
 
 - **명명된 고위험 행위에 대한 실무 확인:** 추가 요건 하나를 둘 수 있지만, 운영 주체에 대한 관문은 아니다. 명명된 감지자가 타인을 위해 명명된 행위를 하기 전에 [역량 확인(Competency Clearance)](../../core_05.035_band_accountability.md#competency-clearance)을 요구할 수 있다(*실무 확인*). 이는 그 행위의 수행에만 붙는다. 이 확인은 명명된 경로에 대해 공표된 역량 기준에 비추어 검증된 준비 상태를 기록하는 긍정적 standing 효과다. 적용되는 standing lock이 막지 않을 때만 그 경로를 여는 데 도움이 될 수 있다. 이는 명성, 내부자 후원, 자격 독점 또는 영구 권리가 아니다. 누구든 운영 주체를 설립·운영·가입하거나 서비스를 받는 것을 막지 않으며, 운영 주체의 운영도 금지하지 않는다. 다음 조건이 모두 충족될 때만 요구할 수 있다.
-  - **위험 판단:** 기술 전문 포럼이 [제13장 §4.2 기술 포럼 영역](../../core_13.000_forum.md#42-technical-forum-domains)과 **CF-10** (*기술 전문 포럼 및 전문 심의부*)에 따라 명명된 행위군에 대한 판단을 공표해야 한다. 판단은 위험을 평가하거나 피할 수 없는 감지자에게 심각하거나 되돌릴 수 없는 신체적 위해가 발생할 신뢰할 만한 인과 경로(행위에서 위해로 이어지는 개연성 있고 추적 가능한 경로)가 있다고 밝혀야 하며, 필요한 역량도 명시해야 한다.
+  - **위험 판정:** 기술 전문가 포럼은 [제15장 §4.2 기술 포럼 영역](../../core_15.000_forum.md#42-technical-forum-domains) 및 **CF-15.440** (*기술 전문가 포럼 및 전문 심의부*)에 따라 특정 행위군에 대한 판정을 공표했다. 판정은 해당 행위가 위험을 판단하거나 피할 수 없는 감응자에게 피해를 일으킬 수 있는 신뢰할 만한 인과 경로(행위에서 피해까지 추적 가능한 개연성 있는 경로)를 가진다고 밝힌다. 필요한 역량과 실무 수준을 명시한다. 수술이나 전기 작업처럼 심각하거나 비가역적인 신체 피해가 있는 경우 면허를 지정한다. 미용 분야의 화학 화상·감염이나 식품 취급의 식중독처럼 실제 피해지만 더 낮은 수준인 경우 허가를 지정한다.
   - **더 가벼운 조치로는 보호할 수 없음:** 요건을 유지하는 당사자는 공개, 등록, 보호된 직함, 수용·고용 기관에 부과하는 의무, 학습자 감독으로는 위험에 처한 이들을 보호할 수 없음을 입증해야 한다.
   - **공개 절차로 결정:** 채택 문서는 공표되고 이의제기 가능한 절차를 통해 해당 판단이 확인 요건을 둘 만큼 충분한지 결정한다. 포럼은 판단과 기준을 정하지만 확인을 발급하거나 개별 사례 또는 허용 가능한 위험 수준을 결정하지 않는다.
-  - **열린 경로, 독점 금지:** 기준은 [제11장 §6.2 역량 기준과 확인](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)에 따라 공표되고 비례적이며 이의제기 가능해야 한다. 시험, 포트폴리오, 도제 훈련, 동료가 검증한 경험, 다른 관할권의 확인은 동등한 증거로 인정한다. 둘 이상의 독립 발급자가 확인을 발급할 수 있어야 하며 유일한 경로가 있어서는 안 된다. 현직 실무자는 기준 설정 패널이나 발급자의 통치 권한을 통제할 수 없다.
+  - **개방된 경로와 독점 금지:** 기준은 [제13장 §7.2 역량 기준선 및 허가](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)를 충족한다. 즉 공개되고 비례적이며 이의를 제기할 수 있다. 시험, 포트폴리오, 도제식 수련, 동료 검증 경험 및 다른 관할권의 허가는 동등한 증거로 인정한다. 둘 이상의 독립 발급기관이 면허나 허가를 발급할 수 있으며 단일 발급기관만이 유일한 경로가 될 수 없다. 기존 종사자는 기준을 정하는 패널이나 발급기관의 통치 권한을 통제할 수 없다.
   - **신중한 적용:** 학습자는 확인된 감독자 아래에서 행위할 수 있다. 긴급 행위나 제때 확인된 감지자에게 연락할 수 없는 경우의 행위는 금지되지 않는다. 결정은 [제XXVI-C조](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)의 시한을 따르고, 수수료와 대기가 장벽이 되어서는 안 된다([피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)). 부담이 다시 입증되지 않으면 각 심사 때 요건은 종료되며 심사 결과를 공표한다.
   - **보호:** 요건을 부과하는 당사자가 입증 책임을 진다. 다른 일의 임금, 권리 바닥, 생존 필수 접근, 발언, 방어 또는 보호되는 신고를 막을 수 없고, 반대자·신고자·노동자 조직자를 겨냥하는 데 사용할 수 없다. 역량 변화는 장애나 건강 상태 자체가 아니라 해당 행위에 필요한 역량으로 판단한다.
   - **운영 주체의 등급:** 타인을 위해 이러한 행위를 하는 운영 주체는 [영역별 실질성](../../core_05.050_band_oversight.md#domain-specific-materiality)에서 안전상 실질적이므로 최소 Class L이다. 이 요건이 운영 주체의 등급을 정하는 것은 아니며, Class L이라는 이유만으로 확인이 요구되지 않는다. 이러한 행위를 단독으로 또는 소규모 실무에서 수행하는 감지자는 호스트 기관을 통한 공동 전문 실무로 Class L 의무를 충족할 수 있다 (**CI-4.7**, *실무 확인, 실무 인증 및 공동 전문 실무*).
@@ -1757,7 +1757,7 @@ flowchart TB
   - **제XII장** (*영향받는 쪽의 체계 참여, 대표 및 적법절차*) — 이 장;
   - **제X-B조** (*거버넌스 참여 및 투표 자격*); 그리고
   - **제X-C조** (*이해관계자 역할 및 참여 권리*).
-- **기초 투표의 보존:** 해당 영역 층은 수권 층에서의 동등 가중치 규칙을 대체하지 않는다 (**제X-B조** (*거버넌스 참여 및 투표 자격*); [**제13장 §4.1 자격 및 적격성**](core_12_governance.md#41-entitlement-and-eligibility)).
+- **기초 투표권 보존:** 이 영역 층위는 승인 층위에서의 동등 가중치 규칙을 대체하지 않는다(**Article X-B** (*통치 참여 및 투표 자격*); [**제16장 §4.1 권리 및 자격**](../../core_16.000_governance.md#41-entitlement-and-eligibility)).
 - **경계 및 판정:** **제X-D조** (*포함 및 배제에 대한 이의 제기 권리*)와 **제XIX조** (*지위 및 참여 상태*)는 참여 상태가 다투어질 때 이의 제기 및 지위 규율을 제공한다.
 #### 제XII-A조: 이해관계자의 체계 참여 및 대표
 <a id="article-xii-a-stakeholder-system-participation-and-representation"></a>
@@ -1783,7 +1783,7 @@ flowchart TB
 
 <br>
 
-*쉬운 말로: 감지자에게 실질적으로 영향을 주는 결정은 기록에 설명되고 실질적으로 이의를 제기할 수 있어야 하며, 실질적으로 영향을 받는 모든 집단은 진짜 참여 자리를 가져야 한다 — 특히 시장이나 기관 권력이 없는 집단이 그렇다. 고영향 결정은 누구에게 구속력을 갖기 전에 기록된 정당성 점검도 거쳐야 한다.*
+*쉽게 말해: 감응자에게 중대한 영향을 미치는 결정은 공식 기록에 설명되고 실질적인 이의 제기가 가능해야 하며, 중대한 영향을 받는 모든 집단, 특히 시장력이나 제도적 권력이 없는 집단에 실질적인 참여 자리가 있어야 한다. 중대한 영향의 결정은 누구에게나 구속력을 갖기 전에 기록된 정당성 확인도 거쳐야 한다.*
 
 이 조항은 심의 기록, 고영향 결정의 대표, 결정이 구속력을 갖기 전에 통과해야 할 정당성 문턱의 권리 바닥을 정한다:
 
@@ -1833,7 +1833,7 @@ flowchart TB
 
 - **범위:** **제X-B조**(*거버넌스 참여와 투표 자격*)와 함께 적용됩니다. 이 조항의 가중치 규칙은:
   - **[이해관계자 가중치](../../core_05.055_band_participation.md#stakeholder-weight)**가 적용 규칙인 경우에 적용됩니다. 즉, **관련 시스템, 기관 또는 한정된 의사결정 영역**에 이미 권한이 부여된 **[거버넌스](../../core_05.035_band_accountability.md#governance) 구조, 규칙, 권한 배분 및 절차** 안에서 권리에 실질적 영향을 미치는 결정에 적용됩니다.
-  - **[기초 헌법 선택](core_05_band_integrative.md#기초-헌법-선택)**에 대해 영향, 의존성 또는 이해관계 비례의 **투표 가중치**를 부여하지 않습니다(**제X-B조**(*거버넌스 참여와 투표 자격*); [**제13장 §4.1 자격 및 적격성**](core_12_governance.md#41-entitlement-and-eligibility)).
+  - [**기초 헌법 선택**](core_05_band_integrative.md#foundational-constitutional-choice)에 대해 영향·의존·이해관계 비례 **투표 가중치**를 **허용하지 않는다**(**Article X-B** (*통치 참여 및 투표 자격*); [**제16장 §4.1 권리 및 자격**](../../core_16.000_governance.md#41-entitlement-and-eligibility)).
 - **가중 참여의 제약:** 참여 가중치는 다음을 고려할 수 있습니다.
   - 영향;
   - 의존성;
@@ -1885,11 +1885,11 @@ flowchart TB
   - 실질적으로 의견을 진술할 기회;
   - 위해 위험에 비례한 결정 시기;
   - 판정 절차가 적용되는 경우 공정한 의사결정 구조;
-  - 이의 제기 또는 2차 심사. 이는 제12장 §1(*목적과 역할 — 참여 구조*)의 [분쟁 절차 순서](core_11_forum.md#dispute-sequencing)와 함께 읽습니다.
+  - 이의 제기 또는 2차 심사는 제15장 §1 (*목적 및 역할 — 참여 구조*)에 따른 [분쟁 순서](../../core_15.000_forum.md#dispute-sequencing)와 함께 읽는다.
   
   결과는 명시된 이유 및 **제2장부터 제4장까지**의 심사를 뒷받침하기에 충분한 증거로 추적 가능해야 합니다.
 - **기관별 적용 경로:** 이 조항의 운영 세부사항은 기관 코퍼스에 정해져 있습니다.
-  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*임명, 역량, 순환 및 해임*) — 역할 분류와 책무 사슬의 실행;
+  - [**CI-16.205**](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-appointment-competency-rotation-and-removal) (*임명, 역량, 순환 및 해임*) — 역할 분류 체계와 책임 사슬 이행;
   - **CI-6** (*절차 무결성, 이의 제기 가능성 및 2차 심사*) — 적법절차의 운영 절차;
   - **CI-8** (*투명성, 참여, 접근 가능한 이의 제기 및 서비스 경로*) — 이의 제기 경로 접근에 관한 보완 세부사항.
 <a id="article-xii-d-non-capture-safeguards"></a>
@@ -1937,7 +1937,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 제1장의 원칙 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 책임 있는 관리 아래의 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스), [§19 유인 정렬과 시스템 장악](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획).
-- 함께 읽기: [제XII-D조](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리); [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
+- 함께 읽기: [제XII-D조](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_14.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_14.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리); [제13장 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
 
 </details>
 
@@ -1974,18 +1974,18 @@ flowchart TB
 - **장악 방지 최소 기준:** [**제XII-D조**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)는 구성, 이해충돌, 회피, 외부 검토, 해임을 다룹니다. 이 조항은 같은 기관에 이해관계자가 접근하는 규칙을 더합니다.
 - **참여의 비중:** [**제XII-B조**](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*)는 형식적 참여를 금지합니다. 이 조항에서도 접촉량은 지지를 뜻하지 않습니다.
 - **시스템과 정보:** [**제XIII-E조**](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*)는 시스템에도 다른 모든 주체와 같은 규칙을 적용합니다. [**제XV조**](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*)는 공유 정보 환경을 다룹니다.
-- **선출 자금:** [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*)는 선거운동, 지명 또는 경쟁 임명을 통한 선출의 자금 경계를 정합니다.
+- **선출 자금:** [**제16장 §1.2**](../../core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*자격, 다툼 있는 선출 및 민주적 최저 기준*)은 선거운동, 지명 또는 경쟁 임명을 통한 선출의 자금 경계를 정한다.
 
 이 조항은 다음 최소 기준을 정합니다.
 
-- **적용 범위:** 이 최소 기준은 대상 기관, 그 **임명 권한자**, **채택 기관**에 적용됩니다. 요건은 실질 이해관계에 비례합니다. 사안의 공개 기록에 제출한 문서는 영향 접촉이 아니라 기록 그 자체입니다.
-- **영향 접촉의 경계:** 대상 기관, 그 **임명 권한자**, **채택 기관**은 **영향 접촉** 규칙을 공개해야 합니다. 영향 접촉이란 계류 중이거나 예상 가능한 사안을 공개 기록 밖에서 좌우하려고 [**이해관계자**](../../core_05.035_band_accountability.md#interested-party)가 구성원, 패널 위원, 직원, 진행자 또는 브리핑 제공자에게 접근하는 것입니다. 규칙은 실질 이해관계에 비례해야 하며 최소한 다음을 정해야 합니다.
+- **범위:** 이 기준은 적용 대상 기관, 그 **임명 권한자** 및 **채택 기관**에 적용된다. 요건은 중대한 이해관계에 비례한다. 사안의 공개된 포럼 사건 공식 기록에 제출된 문서는 영향 접촉이 아니다. 그것은 포럼 사건 공식 기록이다.
+- **영향 접촉의 경계:** 적용 대상 기관, 그 **임명 권한자** 및 **채택 기관**은 **영향 접촉** 규칙을 공표해야 한다. 영향 접촉이란 계류 중이거나 예상 가능한 사안에 영향을 주기 위해 그 사안의 공개된 포럼 사건 공식 기록 밖에서 [**이해당사자**](../../core_05.035_band_accountability.md#interested-party)가 구성원, 패널원, 직원, 진행자 또는 브리핑 자료 제공자에게 접근하는 것이다. 규칙은 중대한 이해관계에 비례하며 최소한 다음을 포함해야 한다:
   - 중요한 영향 접촉마다 접촉자, 시각, 경로, 관련 사안, 요청 또는 제안의 요약을 **기록**한다.
   - 접촉받은 구성원, 패널 위원 또는 직원으로부터 독립된 자리에서 기록을 보관한다([제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리)).
   - 다른 참여자가 응답할 수 있도록 중요한 접촉을 사안 기록에 제때 **공개**한다.
   - 증거와 주장은 공개 기록에 둔다. 결정의 근거가 되는 증거나 주장을 비공개 접촉으로 제공해서는 안 된다.
   - 선물, 이익, 향후 직책 제안과 모든 위협은 일반 접촉이 아니라 공개하고 거절한 뒤 **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*)에 따라 처리할 이해충돌로 다룬다.
-  - 기록에 남긴 공개 옹호, 청원, 공공 의견 제출 및 의견을 들어야 할 기관에 대한 영향을 받는 감지자의 접근을 보호한다. 이 규칙을 영향을 받는 감지자가 자신의 이해관계에 관해 말하는 것을 제한하는 데 사용해서는 안 된다.
+  - 포럼 사건 공식 기록에서 이루어지는 공개 옹호, 청원 및 공개 의견과, 들어야 할 기관에 영향을 받는 감응자가 접근할 권리를 보호한다. 이 규칙을 영향을 받는 감응자가 자신의 이해관계에 관해 말하는 것을 제한하는 데 사용해서는 안 된다.
 - **퇴직 후 및 장래 역할의 이해충돌:**
   - **장래 역할 이해충돌:** 구성원, 패널 위원 또는 직원이 담당하는 사안이 계류 중인 동안 그 [당사자](../../core_05.035_band_accountability.md#interested-party)와 이후의 역할, 고용, 계약 또는 이익을 논의하는 것은 이해충돌입니다. 이를 공개해야 하며, 독립된 자리가 해제할 때까지 해당 구성원, 패널 위원 또는 직원은 회피해야 합니다.
   - **퇴직 후 규칙:** 대상 기관과 **채택 기관**은 실질 이해관계에 비례한 퇴직 후 규칙도 공개해야 합니다. 이 규칙은 독립된 자리가 공개 결정으로 제안을 해제하거나 냉각 기간이 지날 때까지, 자신이 처리한 사안과 관련하여 이해관계자로부터 역할이나 이익을 받는 것을 금지합니다.
@@ -1995,18 +1995,18 @@ flowchart TB
   - **귀속 표시:** 시스템이 생성하거나 전송하는 접촉은 시스템을 통해 이루어진다는 점, 시스템이 대리하는 **이해관계자**, 이를 승인한 감지자를 밝혀야 합니다. 스스로를 대변하는 합성 감지자는 다른 감지자와 같습니다. 운영자나 다른 본인을 대리하는 경우 그 본인이 접촉에 책임집니다.
   - **진짜 목소리만:** 누구든 허위 신원, 조작된 지지자, 사칭 또는 합성 증언, 꾸며낸 풀뿌리 단체를 통해 대상 기관에 접근해서는 안 됩니다. 한 당사자가 단독으로 행동하든 여러 당사자가 함께 행동하든 마찬가지입니다.
   - **보조적 사용:** 시스템으로 자신의 메시지를 작성·번역·전송하고 이를 승인한 감지자는 직접 접촉한 것입니다.
-  - **대량 접촉:** 동일하거나 실질적으로 유사한 접근이 대량으로 기관에 도달하면, 기관은 이를 단일 캠페인으로 한 번 기록합니다. 기록에는 후원자, 자금, 방법, 규모, 확인된 서로 다른 감지자의 수를 기재합니다. 규모는 지지의 증거가 아닙니다. 기관은 확인된 서로 다른 감지자의 범위에서만 지지를 근거로 삼을 수 있습니다.
+  - **대량 접촉:** 동일하거나 실질적으로 유사한 접근이 대량으로 기관에 도달하면 기관은 이를 단일 캠페인으로 한 번 기록한다. 영향 접촉 기록에는 후원자, 자금, 방법, 규모 및 확인된 개별 감응자 수를 기재한다. 규모는 지지의 증거가 아니다. 기관은 확인된 개별 감응자 수만큼만 지지에 의존할 수 있다.
     - **‘대량’의 기본 기준:** 기관은 자체 기준을 공개합니다. 공개 전까지는 동일하거나 실질적으로 유사한 접근이 한 사안에서 기관 구성원의 4분의 1을 초과해 도달하거나 50회 이상 기관에 도달하고, 같은 이해관계자에 의해 또는 그를 위해 이루어진 경우 대량으로 봅니다.
   - **접수 경로:** 대상 기관은 기록에 남길 입력을 위한 인증된 경로를 공개해야 합니다. 규칙을 위반하는 입력에 속도 제한을 적용하거나 중복을 제거하거나 따로 분류할 수 있습니다. 비공개 경로로 구성원, 패널 위원, 직원, 진행자 또는 브리핑 제공자에게 자동화된 접근을 해서는 안 됩니다.
   - **결정 측 시스템:** 기관이 결정을 위해 시스템으로 입력을 받고, 분류·요약·초안 작성을 하게 하는 경우, 결정권자에게 정보를 주는 것이 아니라 시스템을 유도하려는 접근도 영향 접촉입니다. 제출 자료에 숨겨진 지시, 오염된 데이터, 순위 조작을 노린 콘텐츠가 여기에 포함됩니다. 기관은 제출 자료를 지시가 아닌 증거로 다루고, 각 결과를 원본 기록까지 추적 가능하게 하며, 결정에 기여한 시스템에 어떤 입력 자료가 전달되었는지 공개해야 합니다. 이해관계자 측 시스템과 기관 측 시스템의 접촉도 감지자 간 접촉과 같은 방식으로 기록합니다.
   - **책임:** 이해관계자와 시스템을 배치한 운영자 모두 접촉에 책임집니다. 명백한 위험을 무시했다면 몰랐다는 주장은 항변이 되지 않습니다.
-- **추첨 기관:** 추첨으로 선발된 기관의 구성원에게는 이 최소 기준 중 가장 엄격한 단계가 적용됩니다. [제13장](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)이 요구하는 공개 브리핑 기록을 통하는 경우를 제외하면, 사안에 관한 비공개 접촉은 금지됩니다.
+- **추첨 기관:** 추첨 기관에서 선발된 구성원에게는 이 기준 중 가장 엄격한 수준을 적용한다. 해당 사안의 사적 접촉은 공개 브리핑 기록을 통하는 경우를 제외하고 금지되며, 이는 [제16장](../../core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)에 따른다.
 - **집행 및 경로 지정:**
   - **무결성 발동 사유:** 은폐된 영향 접촉, 이익 제안, 조작된 목소리는 **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*)와 **CJS-3.6**(*무결성 보장 및 회복력 운영*)에 따른 무결성 발동 사유로 경로 지정합니다.
-  - **위반 경로:** 진정성 없는 목소리를 고의 또는 무모하게 쏟아붓는 행위, 뇌물 또는 부당한 이익 교환은 **제2장부터 제4장** 및 **제11장** 기준에 따라 입증되는 경우 제11장에 따라 **반헌법적 위법행위**로 주장할 수 있습니다.
+  - **위법행위 경로:** 진실하지 않은 목소리를 의도적으로 또는 무모하게 대량 동원하는 행위와 뇌물 또는 부당한 이익 교환은 **제2장부터 제4장**에 따라 뒷받침되고 **제14장** 기준을 충족하면 **제14장**에 따른 **반헌법적 위법행위**로 주장될 수 있다.
   - **무결성 우선 경로 지정과 자기 심판 금지:** [**제XII-D조**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)의 경로 지정 및 자기 심판 방지 규칙을 적용합니다. 자신의 구성원이나 직원이 부적절한 접근을 받았는지를 그 기관만이 최종 판단하는 포럼이 되어서는 안 됩니다.
 - **기관 경로 지정:** 세부 규칙은 다음에서 정합니다.
-  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)(*임명, 역량, 순환, 해임*). 퇴직 후 규칙에는 **CI-4.2**(*역할 기준, 임명 기준, 해임 경로*)도 포함됩니다.
+  - [**CI-4**](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md)(*임명, 역량, 순환, 해임*). 퇴직 후 규칙에는 **CI-4.2**(*역할 기준, 임명 기준, 해임 경로*)도 포함됩니다.
   - **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*).
   - **CJS-3.6**(*무결성 보장 및 회복력 운영*), *영향 접촉 및 로비 활동의 경계*.
   - 포럼 패널은 [corpus_forum.md](../../corpus_forum.md)의 **CF-4**(*패널 구성, 공개, 회피, 적법한 재판부 구성*) 및 **CF-7**(*무결성 보호장치, 장악 방지 운영, 자기 심판 방지 지원*).

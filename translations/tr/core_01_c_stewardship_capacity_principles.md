@@ -79,7 +79,7 @@
 
 <br>
 
-*Basitçe anlatmak gerekirse, bu bölümü üç fikir bir arada tutar. Birincisi, duyarlı varlıkların yaşamını etkileyen maddi sistemlerin iyi işletilmesi için duyarlı varlıkların örgütlenmesi gerekir; kapalı bir uzmanlar zümresi değil. İkincisi, iyi emanetçiler zararın harekete geçmelerini zorlamasını beklemez: sorunları küçükken fark eder, doğru kişilere iletir ve gecikme başlı başına zarara dönüşmeden çözüme kavuştururlar. Üçüncüsü, bu örgütlenme **ölçekli yetkinlik** geliştirmelidir: bireylerin önemli sonuçlar doğuran çalışmalara katılması için gerçek yollar, toplulukların sorunları fark edip itiraz edebilmesi için yeterli anlayış ve yerinde saymak yerine öğrenmeye devam eden kurumlar.*
+*Basitçe: bu bölümü üç fikir bir arada tutar. Birincisi, sentientlerin yaşamını etkileyen maddi sistemlerin iyi işlemesi için kapalı bir uzmanlar kastı değil, sentientlerin örgütlü katılımı gerekir. İkincisi, iyi emanetçiler zararın harekete geçmeye zorlamasını beklemez; sorun küçükken fark eder, doğru sorumlulara aktarır ve gecikme başlı başına zarara dönüşmeden çözer. Üçüncüsü, bu örgütlenme **ölçekli yetkinlik** oluşturmalıdır: bireylerin sonuç doğuran işlere girmesi için gerçek yollar, sorunları görüp karşı çıkmaya yetecek topluluk anlayışı ve donup kalmak yerine öğrenmeyi sürdüren kurumlar.*
 
 <a id="16-limits"></a>
 Emanetçiliğin sınırları vardır. **Güvenlik**, **Hakikat**, **Gereklilik**, **Orantılılık**, **Önlenebilir Yük** ve **Epistemik Dürüstlük**, bu görevlerin ölçülü, dürüst ve meşru güvenlik ihtiyaçlarına saygılı kalmasını sağlar; aşağıdaki temel direkler bu kısıtlar içinde işler.
@@ -183,7 +183,7 @@ Emanetçilik ilk başvurulacak yoldur, ancak tek yol değildir. Üç ayrı sorun
 
 <br>
 
-*Basitçe anlatmak gerekirse: ortak sistemlerde güvenle yaşayabilmek için her alt sistemde doktora derecesine sahip olmanız gerekmemelidir; ancak bir sistem yaşamınızı ne kadar çok etkiliyorsa, ne yaptığını, neyin ters gidebileceğini ve hatalı kararlara nasıl itiraz edilebileceğini o kadar iyi öğrenebilmelisiniz. Bu; şeffaflık, eğitim, açık anlatımlar ve denetim yolları sayesinde mümkün olur. Karmaşıklık, önemli bilgileri gizlemek için mazeret değildir. Dörtlü’nün **gözetim** bileşeni uyarınca gözetim denetim gerektirir; sistem uyum sertifikasyonu bu yollardaki özellikle kapsamlı denetim süreçlerinden biridir, ancak tek süreç değildir.*
+*Basitçe: paylaşılan sistemlerde güvenle yaşayabilmek için her alt sistemde doktora derecesi gerekmemelidir — ancak bir sistem hayatınızı ne kadar çok etkiliyorsa ne yaptığını, nelerin ters gidebileceğini ve kötü kararların nasıl sorgulanacağını öğrenebilmeniz de o kadar mümkün olmalıdır. Şeffaflık, eğitim, açık açıklamalar ve denetim yolları bunu sağlar. Karmaşıklık, önemli olanı gizlemek için mazeret değildir. Tetrad’in **gözetim** ayağı uyarınca gözetim denetim gerektirir; sistem uyumu sertifikasyonu bu yollar içindeki özellikle büyük denetim süreçlerinden biridir, tek olanı değil.*
 
 Dağıtık anlayış, **[§16 Emanetçiliğe Yakından Bakış](#16-emanetçiliğe-yakından-bakış)** kapsamındaki **3. Temel Direk**’in topluluklara dönük boyutudur. Tam tanım, ölçütler ve başarısızlık koşulları [Dağıtık Anlayış](../../core_05.040_band_continuity.md#distributed-understanding) içinde yer alır. Özetle:
 
@@ -222,7 +222,7 @@ Dağıtık anlayış, her duyarlı varlığın her alt sistemde uzmanlaşmasın�
 
 <br>
 
-*Basitçe ifade etmek gerekirse: kurumlar gerçekten öğrenmelidir; yalnızca sorumlular hiçbir şey anlamazken yazılımı yükseltmek yeterli değildir. Bu, geri bildirim döngüleri kurmayı, hizalanma bozulduğunda düzeltmeleri belgelendirmeyi ve uzmanlığın kurumdan ayrılanlarla birlikte gitmesini önlemeyi gerektirir. Davranış tekrar edilebilir biçimde ölçülebiliyorsa, performansın zaman içindeki değişimini izlemek bu döngüleri uygulamanın orantılı bir yoludur; **istatistiksel süreç kontrolü** bu disiplinin bilinen bir örüntüsüdür, her yerde zorunlu değildir. Sayılar tek başına yeterli olmaz: göstergeler yanlış görünüyorsa biri araştırmalı ve temel nedeni gidermelidir. Gösterge panoları dürüst olmalı, gerçek etkiye göre ölçeklenmeli ve etkilenen sentientlerin anlayacağı şekilde yazılmalıdır; hiçbir şey değişmezken iyi görünmek için manipüle edilmemelidir.*
+*Basitçe: kurumlar gerçekten öğrenmelidir; yöneticiler bilgisiz kalırken yalnızca yazılım yükseltmek yetmez. Bu, geri bildirim döngüleri, uyum bozulduğunda belgelenmiş düzeltmeler ve yetkinliğin kurumda tutulması demektir. Davranış tekrarlı biçimde ölçülebiliyorsa performansın zaman içindeki değişimini izlemek bu döngüleri uygulamanın orantılı yollarından biridir — **istatistiksel süreç kontrolü** bu disiplinin bilinen bir örneğidir, her yerde zorunlu değildir. Yalnızca sayılar yetmez: göstergeler yanlış görünüyorsa biri kök nedeni araştırıp düzeltmelidir. Gösterge panoları dürüst olmalı, gerçek etkiyle ölçeklenmeli ve etkilenen sentientlerin anlayacağı biçimde sunulmalıdır; hiçbir şey değişmediği hâlde iyi görünmesi için oynanmamalıdır.*
 
 Kurumsal Gelişim, **[§16 Derinlemesine Yönetim](#16-emanetçiliğe-yakından-bakış)** kapsamında **Sütun 3**'ün örgütsel boyutudur. Tam tanım, ölçütler ve başarısızlık koşulları [Kurumsal Gelişim](../../core_05.040_band_continuity.md#institutional-development) bölümündedir. Özetle:
 
@@ -269,7 +269,7 @@ Kurumsal Gelişim, **[§16 Derinlemesine Yönetim](#16-emanetçiliğe-yakından-
 
 <br>
 
-*Basitçe ifade etmek gerekirse: güvenlik, doğruluk ve meşru gizlilik izin verdiğinde, paylaşılan sistemler varsayılan olarak açıklığa yönelmelidir — incelenebilir teknoloji, şeffaf süreçler ve doğrulanabilen, onarılabilen ya da terk edilebilen tasarımlar; opak kilitlenme yerine. Bu, **Sürekliliği** destekler: sentientlerin yalnızca bugün kullanabildiği değil, zaman içinde anlayıp düzeltebildiği ve çıkabildiği sistemler. Önemli olanlar, sentientlerin katılım ve itiraz için gerçekten kullanabileceği bir dille açıklanmalıdır. Açıklık güvenlikten, dürüstlükten veya haklı gizlilikten asla üstün değildir; bağımlılığın yüksek olduğu yerde borçlu olunan daha derin anlayışın da yerini tutmaz.*
+*Basitçe: güvenlik, doğruluk ve meşru gizlilik izin verdiğinde ortak sistemler varsayılan olarak açık olmalıdır: incelenebilir teknoloji, şeffaf süreçler ve doğrulanabilen, onarılabilen ya da terk edilebilen tasarımlar; kapalı ve anlaşılmaz bir bağımlılık yerine. Bu, **Sürekliliği** destekler: duyarlı varlıklar sistemleri yalnızca bugün kullanmakla kalmayıp zaman içinde anlayabilmeli, düzeltebilmeli ve sistemden çıkabilmelidir. Önemli konular, onların gerçekten katılmasını ve itiraz etmesini sağlayan bir dille açıklanmalıdır. Açıklık güvenlikten, dürüstlükten veya gerekçeli sır saklamadan asla üstün değildir; bağımlılık yüksek olduğunda borçlu olunan daha derin anlayışın yerini de tutmaz.*
 
 Açıklık ideali **Sütun 3**'ün iki yönünü birbirine bağlar. Tam tanım, ölçütler ve başarısızlık koşulları [Açıklık İdeali](../../core_05.040_band_continuity.md#openness-aspiration) bölümündedir. Özetle:
 
@@ -283,6 +283,58 @@ Açıklık ideali **Sütun 3**'ün iki yönünü birbirine bağlar. Tam tanım, 
 - **Şunları yapmaz:**
   - açıklığı **Güvenliğin**, **Doğruluğun**, haklı gizliliğin veya güvenlik kısıtlarının üstüne çıkarmak
   - [Önemlilik](../../core_05.050_band_oversight.md#materiality) ve [Bağımlılığa](../../core_05.040_band_continuity.md#dependency) göre belirlenen orantılı anlayışın yerini almak
+
+<a id="164-document-at-action"></a>
+#### 16.4 Eylem Anında Belgeleme
+<details>
+<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+
+- Üst bağlantılar: [§16.3 Açıklık İdeali](#163-openness-aspiration); [§17.3 Emiri Değil, Rolü Kaydetmek](#173-logging-the-role-not-the-steward).
+- Birlikte okuyun: [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — Süreklilik; [Anayasal Tetrat](core_00_preamble.md#constitutional-tetrad) — gözetim, hesap verebilirlik, zamanlılık; [Materiality](../../core_05.050_band_oversight.md#materiality) and [Dependency](../../core_05.040_band_continuity.md#dependency).
+- Alt akış: [CS-16.305 §10 incelenebilir ve atfedilebilir eylem](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*varsayılan kayıt sözleşmesi*); [CF-15.445 §3.2 Yayınlama zamanlaması](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-32-publication-timeliness) (*forum kayıtları ve gecikmeli yayın işaretleri*); [XVI. Madde: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+
+</details>
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
+
+- [Açıklık İdeali](../../core_05.040_band_continuity.md#openness-aspiration) · [O](../../core_05.040_band_continuity.md#openness-aspiration) · [M](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [A](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [C](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-c)
+- [Anlamlı Eyleyicilik](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [İtiraz Edilebilirlik](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Önemlilik](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Bağımlılık](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+
+- [Atfedilebilir Eylem](../../core_05.035_band_accountability.md#attributable-action) · [O](../../core_05.035_band_accountability.md#attributable-action) · [M](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05.035_band_accountability.md#attributable-action-constitutional-c)
+- [Gözetim Sınırı](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [Hesap Verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution) · [O](../../core_05.035_band_accountability.md#timely-resolution) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+</details>
+
+*Sade bir dille: Önemli bir iş yapıldığında Eylem Kaydı, iş yapılırken, o anda ve mümkün olduğunda sistemin kendisi tarafından oluşturulmalıdır. Kimse sonradan hafızasından yazmaz. Hukuken kısıtlanmayan bilgiler hemen görünür olmalıdır. Kısıtlanan bilgiler için de bir eylemin yapıldığını gösteren görünür bir işaret ve daha sonra bilgi edinmenin bir yolu kalmalıdır. Kaydı sistem tutar; gözetmene ek iş yükü düşmez.*
+**Eylem Anında Belgeleme**, sonuç doğuran eylem ile onun Eylem Kaydının birlikte meydana gelmesini öngören gözetim varsayılanıdır. Zaman belirtmeyen bir kayıt yükümlülüğünün kaydın atlanmasına yol açmasını önleyen ilkedir. İnsan ve yapay zekâ gözetmenleri ile onların işlettiği kurum ve sistemleri aynı şekilde bağlar:
+- **Eylem Eylem Kaydını oluşturur:**
+  - Kayıt ne yapıldığını, hangi rol aracılığıyla, kimin yetkisiyle, hangi dayanak ve gerekçelerle yapıldığını gösterir; eylemin kendisiyle oluşur.
+  - Sistemler ve süreçler mümkün olduğunda kaydı otomatik tutmalı; kimsenin sonradan hatırlayıp yazması gerekmemelidir.
+  - Otomatik kayıt henüz mümkün değilse, eylemi yapan sentient varlık Eylem Kaydını sonradan hafızasından değil, eylem anında oluşturur.
+  - Açıklamanın kısıtlanması için hukuka uygun bir gerekçe gerekir; bu gerekçe o anda belirtilip kaydedilir. Yalnızca kısıtlamanın kapsamındaki bilgileri tutar, Eylem Kaydının tamamını asla değil.
+  - Eylem anından itibaren görünür bir işaret, eylemin yapıldığını, Eylem Kaydının bir bölümünün tutulduğunu, açıklamayı kısıtlamanın belirtilen gerekçesini ve geri kalanının daha sonra hangi yolla yayımlanacağını veya yeniden oluşturulacağını gösterir.
+  - Eylem Kaydını tutmanın hukuka uygun gerekçesi işaret konmasını bile yasaklıyorsa, gerekçe yine eylem anında kaydedilir ve engel sona erince işaret görünür.
+  - Her eylemden sonra Eylem Kaydı gözetmene ek saatler harcatıyorsa ve kayıt mümkün olduğu hâlde kurulmamışsa, bu [Önlenebilir Yük](../../core_05.040_band_continuity.md#avoidable-burden) kusurudur. Çözüm daha fazla özen istemek değil, kayıt mekanizmasını kurmaktır.
+Bu ilke şunları yapmaz:
+- **Kısıtlanmayan bilgi hemen erişilebilir:** Eylem sırasında görme hakkı olanlara sunulur; önceden istenmesi gerekmez.
+- **Kayıt sistemin tasarım görevidir:** [maddi çıkar](../../core_05.050_band_oversight.md#materiality) ve [bağımlılık](../../core_05.040_band_continuity.md#dependency) ölçüsünde ölçeklenir.
+- **Son tarih belirlemek:** “Eylem anında” kayıtlar için tasarım varsayılanıdır. Karar, yanıt ve inceleme süreleri [On Beşinci Bölüm §6 Zamanında çözüm, önem dereceleri ve gecikme karşıtı disiplin](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) kapsamında kalır; burada hiçbir şey bunları uzatmaz veya kısaltmaz.
+- **Birinin iç dünyasını açığa çıkarmak:** [§17.3 Gözetmeni Değil Rolü Kaydetme](#173-logging-the-role-not-the-steward) gereği Eylem Kaydı rolü izler. [Gözetim Sınırı](../../core_05.040_band_continuity.md#surveillance-boundary) geçerlidir: eylemi kaydetmek, eyleyeni izlemek değildir.
+- **Güvenlik, Doğruluk, mahremiyet, bilgi güvenliği veya gerekçeli gizliliğin önüne geçmek:** kısıtlı bilgilerin yayımlanmasını asla gerektirmez.
+- **Eylem Kaydını hükme dönüştürmek:** Eylem anında oluşturulan Eylem Kaydı bir izdir, statü bulgusu değildir ve hiçbir statü kaydı açmaz.
+  - [On Birinci Bölüm — Statü Kayıtları](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*statü etkisi, dağıtılmış yetkinliği ve sonuç doğuran gözetimi uygular*);
+  - [On Altıncı Bölüm §5 — Yetkilendirilmiş Roller, Yetkinlik Geliştirme ve Katkı](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (16.000 §5);
+  - [Yirminci Bölüm](../../core_20.000_incorporation.md) (20.000) (*kabul edilmiş uygulama metni uygular; yerine geçmez*);
+  - [statü ölçümünün](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened), itiraz yollarının veya Birinci Bölüm yükümlülüklerinin yerine daha yumuşak bir iç kural konamaz
+- **Kayıt ile statü kayıtları arasındaki fark:** Karma ekiplerde varsayılan inceleme imkânı ve kaydın kayıt olmadığı kuralı [§17.3 Gözetmeni Değil Rolü Kaydetme](#173-logging-the-role-not-the-steward) bölümündedir; statü ölçümü On İkinci Bölümde kalır.
+- Alt akış: [On Birinci Bölüm — Statü Kayıtları](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*doğrulanmış başarısızlıklar aynı eksenlerde kaydedilir*); [§17.3 Gözetmeni Değil Rolü Kaydetme](#173-logging-the-role-not-the-steward).
+- **Son tarihi yetiştirmek için Eylem Kaydını kesmek** — sırf bir tarihe yetişmek için başkalarının ne olduğunu yeniden kurmasına yarayan denetim izini kapatan zamanlama;
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Önemli Sonuçlar Doğuran Emanetçilik: Emanetçinin Rolü
@@ -365,7 +417,7 @@ Bu bölümün geri kalanı rolün kendisini ele alır.
 - Önceki bölümler: [§17 Önemli Sonuçlar Doğuran Emanetçilik](#17-önemli-sonuçlar-doğuran-emanetçilik-emanetçinin-rolü); [§16 Derinlemesine Emanetçilik](#16-emanetçiliğe-yakından-bakış); [§18 Emanetçilik Disiplini Altında Yönetişim](#18-stewardship-disiplini-altında-yönetişim).
 - Birlikte okuyun: [Sentience Nedeniyle Dışlamama](../../core_05.055_band_participation.md#sentience-non-exclusion) ve [Altyapı Sınıfı](../../core_05.055_band_participation.md#substrate-class) (*altyapıdan bağımsız uygulama — bu alt bölüm, sentient olarak tanınmayan ajanlar ve operatörler dâhil yükümlülük sahiplerini bağlar*); [Yetki Hiyerarşisi ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi); [Anayasal Kısıt](core_05_band_integrative.md#anayasal-kısıt); [İtiraz Edilebilirlik](../../core_05.035_band_accountability.md#contestability); [§17.5 Direnme Yükümlülüğü](#175-direnme-görevi).
 - Emanetçi giriş kapısı (işlemsel değildir): sonraki adım kartı [Ortak emanetçilik](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- Sonraki bölümler: [§17.2 Baskı Altında Uyum](#172-baskı-altında-uyum); [§17.3 Emanetçiyi Değil, Rolü Kaydetme](#173-logging-the-role-not-the-steward); [On Üçüncü Bölüm §5 — Yetkilendirilmiş Roller, Yetkinlik Geliştirme ve Katkı](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [On Yedinci Bölüm](../../core_18.000_incorporation.md) (*kabul edilmiş uygulama metni uygular; onun yerini almaz*); [§19.1.3 Emanetçilik ve Operatör Uygulaması](#1913-emanetçilik-ve-operatörlere-uygulama).
+- Sonraki bölümler: [§17.2 Baskı Altında Uyum](#172-baskı-altında-uyum); [§17.3 Emanetçiyi Değil, Rolü Kaydetme](#173-logging-the-role-not-the-steward); [On Üçüncü Bölüm §5 — Yetkilendirilmiş Roller, Yetkinlik Geliştirme ve Katkı](core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [On Yedinci Bölüm](../../core_20.000_incorporation.md) (*kabul edilmiş uygulama metni uygular; onun yerini almaz*); [§19.1.3 Emanetçilik ve Operatör Uygulaması](#1913-emanetçilik-ve-operatörlere-uygulama).
 
 </details>
 
@@ -448,7 +500,7 @@ Bunlar her emir için başarısızlık sınamalarıdır.
 
 - Önceki bölümler: [§17.1 Ortak Emanetçilik Standardı](#171-ortak-emanetçilik-standardı); [§17.2 Baskı Altında Uyum](#172-baskı-altında-uyum); [§17 Sonuç Doğuran Emanetçilik](#17-önemli-sonuçlar-doğuran-emanetçilik-emanetçinin-rolü).
 - Birlikte okuyun: [Atfedilebilir Eylem](../../core_05.035_band_accountability.md#attributable-action); [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik); [Gözetim Sınırı](../../core_05.040_band_continuity.md#surveillance-boundary); [Korunan İç Durum Sınırı](../../core_05.040_band_continuity.md#protected-internal-state-boundary); [§13.2.3 Gizlilik](core_01_b_interaction_interpretation.md#1323-mahremiyet-ve-bilgisel-özerklik); [VII-B Maddesi](core_06_rights_part_b.md#madde-vii-b-zihin-öz-sahipliği) (*Zihin Üzerinde Öz Sahiplik*).
-- Sonraki bölümler: [CS-4 §10 incelenebilir atfedilebilir eylem](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*karma insan/AI eylemi için varsayılan kayıt sözleşmesi — statü kaydının yerine geçmez*); [Onuncu Bölüm §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Onuncu Bölüm §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- Sonraki bölümler: [CS-4 §10 incelenebilir atfedilebilir eylem](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*karma insan/AI eylemi için varsayılan kayıt sözleşmesi — statü kaydının yerine geçmez*); [Onuncu Bölüm §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Onuncu Bölüm §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -466,7 +518,7 @@ Bunlar her emir için başarısızlık sınamalarıdır.
 
 *Açıkça söylemek gerekirse: Denetim, emirin birey olarak kendisini değil, rolün işini izler. Rolü üstlenmeden önce nelerin kaydedileceği size bildirilir. Rol dışındayken olağan gizlilik geçerlidir. Kayıt, statü kaydı değildir.*
 
-**Rol kapsamındaki denetim:** Kaydedilmesi gereken, birey olarak emir değil rolün işidir: alınan karar, yapılan ya da saklı tutulan açıklama, izlenen veya reddedilen talimat ve buna kimin yetki verdiği; hem insan hem AI emirler için. [CS-4 §10 incelenebilir atfedilebilir eylem](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) kayıt sözleşmesini belirler. Üç ilke bunu yönetir:
+**Rol kapsamındaki denetim:** Kaydedilmesi gereken, birey olarak emir değil rolün işidir: alınan karar, yapılan ya da saklı tutulan açıklama, izlenen veya reddedilen talimat ve buna kimin yetki verdiği; hem insan hem AI emirler için. [CS-4 §10 incelenebilir atfedilebilir eylem](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) kayıt sözleşmesini belirler. Üç ilke bunu yönetir:
 
 - **Kapsam rolü izler:**
   - Bir göreve başlamadan önce emire, rolün hangi eylemlerinin kaydedileceği ve kaydın kimlerce incelenebileceği bildirilmelidir.
@@ -573,7 +625,7 @@ Bunlar her emir için başarısızlık sınamalarıdır.
 - Önceki hükümler: [§17 Sonuç Doğuran Vasilik](#17-önemli-sonuçlar-doğuran-emanetçilik-emanetçinin-rolü); [§17.1 Ortak Vasilik Standardı](#171-ortak-emanetçilik-standardı) (*görevin kimleri bağladığı*); [§17.2 Baskı Altında Uyum](#172-baskı-altında-uyum) (*örtbas talimatının başarısız bir sınama olması*); [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint) ve [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Birlikte okuyun: [Yetki Katmanı ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi); [Korunan Bildirim (İhbar)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing); [XIII-A Maddesi](core_06_rights_part_c.md#xiii-a-madde-güvenilirlik-ve-güven-verilebilirlik-tabanı) (*Güvenilirlik ve Güven Telkin Etme Temel Standardı*) — direnme sürerken itiraz yolları açık kalır.
 - Vasi kapısı (işlemsel değildir): Sonraki adım kartı: [Hukuka aykırı talimat](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Sonraki hükümler: [Onuncu Bölüm §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Direnme görevi — ihlal kuralı ve statü etkileri*); [CS-4 §10 incelenebilir ve atfedilebilir eylem](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*İncelenebilir ve atfedilebilir eylem — reddin asgari kaydı*).
+- Sonraki hükümler: [Onuncu Bölüm §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Direnme görevi — ihlal kuralı ve statü etkileri*); [CS-4 §10 incelenebilir ve atfedilebilir eylem](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*İncelenebilir ve atfedilebilir eylem — reddin asgari kaydı*).
 
 </details>
 
@@ -626,7 +678,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Onuncu Bölüm §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Direnme görevi*) bu görevi standing etkilerine uygular; [CS-4 §10 incelenebilir ve atfedilebilir eylem](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*İncelenebilir, atfedilebilir eylem*) ise bir ret için asgari kaydı belirler.
+[Onuncu Bölüm §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Direnme görevi*) bu görevi standing etkilerine uygular; [CS-4 §10 incelenebilir ve atfedilebilir eylem](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*İncelenebilir, atfedilebilir eylem*) ise bir ret için asgari kaydı belirler.
 
 <br>
 
@@ -643,7 +695,7 @@ flowchart TB
 - [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) ile birlikte okuyun: birden fazla gözetmenin denetleyebilmesi (**gözetim**); işlevlerin kesiştiği yerler dâhil sorunları erken fark etme (**zamanlılık**); sonuç doğuran işlere açık erişim yolları (**katılım**); [material stake](core_00_preamble.md#material-stake) ölçüsünde ölçekleme.
 - [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-kolaycı-vekil-ölçütler-ve-vekil-ölçüt-sapması), [§19.3 Misalignment Detection](#193-hizalanma-bozukluğunun-tespiti) (çoğul tespit) ve [§19.4 Misalignment Correction and Capture Response](#194-uyumsuzluğun-düzeltilmesi-ve-ele-geçirmeye-yanıt) ile birlikte okuyun.
 - Sınırlar: [§18.3 Separation of Duties](#183-görevlerin-ayrılığı) ve [Chapter Eight §2 Four-Seat Constitutional Requirement](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement) (bir koltuğu öğrenmek o koltuğu üstlenmek değildir); [Chapter Eleven §6.2 Competency bars and clearances](core_09_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-direnme-görevi); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları).
-- Sonraki uygulama: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (sentient düzeyinde tek hata noktası olmaması); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md).
+- Sonraki uygulama: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (sentient düzeyinde tek hata noktası olmaması); [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md).
 
 </details>
 
@@ -705,7 +757,7 @@ flowchart TB
 
 <br>
 
-*Sade bir ifadeyle: yönetişim, kimin neye ve nasıl karar verebileceğidir — ancak bu yapılar stewardship disiplini altında kaldığında, Serpilme ve Süreklilik amaçlarına birlikte hizmet ettiğinde, Dörtlü'yü içini boşaltmadığında ve On Üçüncü Bölüm'ün işler yetkilendirme kurallarının yerini almadığında.*
+*Sade bir dille: yönetişim, kimin neye ve nasıl karar verebileceğidir — ancak bu yapılar gözetim disiplini altında kaldığında, Gelişme ile Sürekliliğe birlikte hizmet ettiğinde, Dörtlüyü içini boşaltmadığında ve On Altıncı Bölümün operasyonel yetkilendirme kurallarının yerini almadığında.*
 
 Bu bölüm, [Yönetişim](../../core_05.035_band_accountability.md#governance) disiplinini [§16 Stewardship Derinlemesine](#16-emanetçiliğe-yakından-bakış) sonrasında devam ettirir: yetkilendirilmiş yapı, kurumsal laiklik, stewardship önceliği, [sürekli gerekçelendirme](#184-sürekli-gerekçelendirme) ve görevlerin ayrılığı. **[§19 Teşvik Uyumu ve Sistem Ele Geçirme](#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi)** ise teşvik uyumunu, vekil göstergelerin bütünlüğünü, kısa vadeli kusur düzeltmesini, operatör uygulamasını ve ele geçirilme girişimlerine yanıtı ele alır.
 
@@ -740,7 +792,7 @@ Bu bölüm, [Yönetişim](../../core_05.035_band_accountability.md#governance) d
 
 *Sade bir ifadeyle: yönetişim, gücün kural kitabıdır — kimin neye, hangi yapılar aracılığıyla karar verebileceği ve sonuçlar için kimin hesap vermesi gerektiği. Bir rol ne kadar fazla güç taşıyorsa, hesap verme ve gözetim yükümlülükleri o kadar güçlü olmalıdır — asla daha zayıf değil. Bunun işe yaraması için sentient’ların zaman içinde gelişmesine yardım etmeli, katılım ve gözetim için gerçek yolları korumalı ve [§16 Stewardship Derinlemesine](#16-emanetçiliğe-yakından-bakış) hükümlerindeki stewardship disiplini altında kalmalıdır. Kurumları koruyacak, kısa vadeli kazanımların peşinden gidecek veya Temel Haklar Tabanı'nı aşındıracaksa, kural kitabını kendi başına takip etmek yeterli değildir.*
 
-İlke katmanında [Yönetişim](../../core_05.035_band_accountability.md#governance), **Beşinci Bölüm**'de tanımlandığı ve [Önsöz](../../core_00.000_preamble.md#preamble--foundational-requirements) içindeki **Anayasal Sözleşme Katmanı** ve paydaş katılımı katmanları için **On Üçüncü Bölüm**'de işler ayrıntılarıyla açıklandığı üzere, önceden yetkilendirilmiş sistem ve kurumların nasıl yönlendirildiği ve hesap verebilir tutulduğudur. Yetkilendirilmiş yönetişim, [İki Anayasal Amacı](core_00_preamble.md#two-constitutional-aims) [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) uyarınca, [Maddi Çıkar](core_00_preamble.md#material-stake) ölçeğine göre ilerletmelidir.
+İlke katmanında [Yönetişim](../../core_05.035_band_accountability.md#governance), önceden yetkilendirilmiş sistem ve kurumların yönlendirilip hesap verebilir tutulma biçimidir — **Beşinci Bölüm**de tanımlandığı ve **Anayasal Sözleşme Katmanı** ile paydaş katılım katmanları için **On Altıncı Bölüm**de operasyonel olarak ayrıntılandırıldığı üzere, [Önsöz](core_00_preamble.md#preamble--foundational-requirements) kapsamında. Yetkili yönetişim, [İki Anayasal Amacı](core_00_preamble.md#two-constitutional-aims), [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) altında, [maddi menfaat](core_00_preamble.md#material-stake) ile orantılı olarak ilerletmelidir.
 
 **Yönetişimin kapsadığı konular:**
 
@@ -1138,7 +1190,7 @@ Teşvikler aşağıdakileri ödüllendirmemeli, korumamalı, normalleştirmemeli
   - hukuka aykırı veya anayasaya aykırı emir davranışı;
   - gizleme;
   - misilleme;
-  - [hesap verebilirliği engelleme](core_08_standing_assessment.md#232-violation-event-types) (statü modeli olay türü ve [On Birinci Bölüm §5.11 Hesap verebilirliğin engellenmesi: ölçütlerin etkileşimi](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) sınıflandırma yönlendirmesi — bağımsız bir ödül istisnası değildir); veya
+  - [hesap verebilirliği engelleme](core_08_standing_assessment.md#232-violation-event-types) (statü modeli olay türü ve [On Birinci Bölüm §5.11 Hesap verebilirliğin engellenmesi: ölçütlerin etkileşimi](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) sınıflandırma yönlendirmesi — bağımsız bir ödül istisnası değildir); veya
   - doğrulanmış anayasal zararı gidermeyi reddetme; veya
 - suistimale veya bunun gizlenmesine maddi ölçüde dayanan ödül yolları; bunlara şunlar dahildir:
   - ücret, ikramiye, hisse, atama, terfi veya görev süresi;
@@ -1146,7 +1198,7 @@ Teşvikler aşağıdakileri ödüllendirmemeli, korumamalı, normalleştirmemeli
   - uzlaşma, tazminat, sigorta veya dokunulmazlık; ya da
   - benzer düzenlemeler.
 
-**Uyumsuz ödüllerin sonuçları.** Yukarıdaki yasaklı ödül yolları üzerinden elde edilen maddi ödüller, statü modeli kapsamında müsadere ve bildirim hükümlerine tabidir. [Onuncu Bölüm §5.4 Bildirim yükümlülüğü ve istisnalar](core_09_standing_integration.md#54-special-violation-rules), [§5.4 Müsadere ve elde tutma](core_09_standing_integration.md#54-special-violation-rules) ve [§5.4 Düzeltme, kayıtlar ve yönlendirme](core_09_standing_integration.md#54-special-violation-rules) bölümlerini okuyun.
+**Uyumsuz ödül sonuçları.** Yukarıdaki yasaklı ödül yollarından elde edilen maddi ödüller, statü modeli uyarınca geri alma ve raporlamaya tabidir. [On Üçüncü Bölüm §6.4 Raporlama görevi ve istisnalar](../../core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 Geri alma ve elde tutma](../../core_13.000_standing_integration.md#64-special-violation-rules) ve [§6.4 Düzeltme, kayıtlar ve yönlendirme](../../core_13.000_standing_integration.md#64-special-violation-rules) bölümlerine bakın.
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 Emanetçilik ve Operatörlere Uygulama
@@ -1174,7 +1226,7 @@ Emanetçiler ve operatörler için [İki Anayasal Amaç](core_00_preamble.md#two
 **Ayrıntılar nerede:**
 
 - emanetçiler ve operatörler için yetkili roller, yetkinlik ve gerçekten önem taşıyan işlere geçiş yolları konusunda [On Üçüncü Bölüm §5 — Yetkili Roller, Yetkinlik Geliştirme ve Katkı](core_12_governance.md#5-authorized-roles-competency-development-and-contribution);
-- bu görevin yüksek etkili sistemlerde nasıl yerine getirildiği konusunda [**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md) (*Kritik sistem emanetçiliği*); ve
+- bu görevin yüksek etkili sistemlerde nasıl yerine getirildiği konusunda [**CS-4**](../../corpus_systems/cs_16.305_critical_system_stewardship.md) (*Kritik sistem emanetçiliği*); ve
 - uygulamalı çalışma ve topluluk yetkinliğinin ilke düzeyindeki görünümü için [§16 Emanetçilik Ayrıntılı](#16-emanetçiliğe-yakından-bakış).
 
 Bu yollar:
@@ -1264,6 +1316,7 @@ Katılım gibi görünen puanlama araçları ve koltuklar da bu sınırlara uyma
 <br>
 
 *Basitçe söylemek gerekirse: hiç kimse, yönetişim yanlış gittiğinde bunu fark edebilen, kontrol edebilen veya sorgulayabilen tek sentient olamaz. Tespit için birden fazla bağımsız tespit yolu, güvenlik ve sınıflandırma kurallarının izin verdiği ölçüde açık veri ve denetim, ayrıca ele geçirme veya hizalanma bozukluğu ortaya çıktığında sessizce olağan işleyişe dahil etmek yerine açık bir yükseltme süreci gerekir. Bu yükseltme kuralı [§19.3.1 Ele Geçirme Tırmanma Tetikleyicileri](#1931-ele-geçirme-eskalasyon-tetikleyicileri) bölümündedir.*
+- [§13.2 Epistemik Açıklama Kısıtlamaları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ile **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Bilgi türleri ve işleme*) ve [CS-6.310](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Veri sınıflandırmaları*) hükümlerine tabi olmaya devam eder; bunlara Type N ve hangi bilgilerin toplanabileceği, yayımlanabileceği, saklanabileceği veya yeniden oluşturulabileceğine ilişkin diğer sınıflandırma sınırları dâhildir.
 
 **Çoğul tespit ve inceleme.** Tanım Beşinci Bölümde yer alır: [Hizalanma Bozukluğunun Tespiti](../../core_05.045_band_integrative.md#misalignment-detection). Özetle:
 
@@ -1308,7 +1361,7 @@ Bu tür koşullar olağan işletim durumları değil, **eskalasyon tetikleyicile
 - **Düzenli inceleme ve düzeltme:** [İnceleme ve Düzeltme Yükümlülüğü](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Güçlendirilmiş inceleme:** yoğunlaşma veya hâkimiyetin maddi önem taşıdığı durumlarda [§11.1 Piyasa Yoğunlaşması Eşik Mekanizması](core_01_a_values_principles.md#111-piyasa-yoğunlaşma-eşik-mekanizması-uygulayıcı-ayarlı) ve [§11.2 Rekabet Yanlısı ve Hâkimiyet Karşıtı İlkeler](core_01_a_values_principles.md#112-rekabeti-teşvik-ve-tahakküme-karşı-koyma).
 - **Ehliyet ve ihlal mekanizmaları:** doğrulanmış bulgular söz konusu olduğunda [Dokuzuncu Bölüm — Katkı, İhlal ve Ehliyet Modeli](core_08_standing_assessment.md).
-- **Anayasa karşıtı suistimal:** yoğunlaşma veya süreç ele geçirmesi anayasa karşıtı suistimal oluşturduğunda [On Birinci Bölüm §5.1 Yoğunlaşmaya Dayalı Yıkım: Ölçütlerin Etkileşimi](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Anayasaya aykırı suistimal:** [On Dördüncü Bölüm §5.1 Yoğunlaşmaya dayalı yıkıcılık: ölçüt etkileşimi](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), yoğunlaşma veya süreçlerin ele geçirilmesi anayasaya aykırı suistimal oluşturduğunda.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Uyumsuzluğun Düzeltilmesi ve Ele Geçirmeye Yanıt

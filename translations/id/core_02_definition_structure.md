@@ -54,15 +54,15 @@ Bab Dua adalah pemilik konstitusional atas **struktur definisi dan keselarasan k
 
 *Dalam bahasa sederhana: bagian ini adalah uraian kerja Bab Dua. Ia pemilik lapisan pertama tumpukan definisi: setiap definisi konstitusional dibangun dari bagian-bagian tertaut — apa suatu istilah (O), cara harus diukur dan dinilai (daftar Pengukuran yang dijalin dengan evaluasi, M/A), dan apa yang harus berlaku dalam praktik (C) — dan bagian itu harus tetap selaras. Memenuhi satu sambil mengelak yang lain tidak dihitung. Operasi penegakan, tata kelola, dan pengukuran hidup di bab kemudian dan harus patuh pada apa yang ditetapkan bab ini.*
 
-Setiap definisi konstitusional harus dibangun dari bagian-bagian tertaut, masing-masing dengan tepat satu pekerjaan:
+Setiap definisi konstitusional WAJIB dibangun dari bagian-bagian terkait, dengan tepat satu tugas untuk setiap bagian:
 - **Ontologis (O)** — tentang apa istilah itu.
-- **Pengukuran (M)** — ukuran mana yang berlaku pada setiap tingkatan. Perutean pengukuran menunjuk penilaian; ia tidak menetapkan hasil lulus/gagal.
+- **Pengukuran (M)** — ukuran mana yang berlaku pada setiap lapisan. Perutean pengukuran mengarahkan penilaian ke bukti yang tepat; perutean ini tidak menetapkan hasil lulus atau gagal.
 - **Penilaian (A)** — cara istilah itu harus dinilai. Pada definisi daun Bab Lima, daftar **Pengukuran (M)** dijalin ke dalam komponen **Penilaian (A)**. Lihat [§1.3 Komponen Penilaian](#13-assessment-components).
 - **Kepatuhan (C)** — apa yang harus benar dalam praktik.
 
 Bagian itu harus tetap konsisten di dalam setiap definisi. Penegakan, tata kelola, implementasi, operasi pengukuran, audit, dan mekanika klasifikasi di luar cakupan definisional milik bab kemudian; mereka harus patuh pada [Batasan Konstitusional](../../core_05.045_band_integrative.md#constitutional-constraint) yang ditetapkan di sini.
 
-Setiap definisi harus dipenuhi bagi seluruh sistem sebagaimana ia benar-benar berjalan — termasuk sistem yang tersebar lintas makhluk sadar, mesin, dan lokasi. Bagian O, M, A, dan C harus semua lulus bersama, pada cakupan yang sama dan di bawah kondisi uji yang sama. Meluluskan satu bagian dengan memotong potongan sistem, mempersempit apa yang dihitung, atau melemahkan bagian lain tidak dihitung.
+Setiap definisi HARUS dipenuhi untuk keseluruhan sistem sebagaimana benar-benar beroperasi — termasuk sistem yang tersebar di antara sentient, mesin, dan lokasi. Bagian O, M, A, dan C HARUS lulus bersama-sama, pada lingkup evaluasi dan kondisi pengujian yang sama. Lulus pada satu bagian dengan mengecualikan bagian sistem, mempersempit hal yang diperhitungkan, atau melemahkan bagian lain tidaklah memadai.
 
 <a id="11-ontological-components-o--what-it-is"></a>
 <a id="11-ontological-components-o-what-it-is"></a>
@@ -128,15 +128,15 @@ Definisi daun Bab Lima harus membawa persyaratan M itu memakai bentuk komponen P
 
 *Dalam bahasa sederhana: bagian A menjawab satu pertanyaan sederhana — **cara istilah ini harus dinilai?** Ia mengatakan apa yang harus dilihat penilai, di bawah kondisi apa, dan cara menangani ketidakpastian. Ia tidak mengatakan apakah istilah itu lulus atau gagal; itu datang kemudian.*
 
-Bagian Penilaian (A) mengatakan cara suatu definisi harus dinilai. Ia tidak boleh mengatakan apa yang dihitung sebagai lulus atau gagal — itu milik hanya bagian Kepatuhan (C).
+Bagian Penilaian (A) menyatakan bagaimana suatu definisi harus dinilai. Bagian ini tidak boleh menetapkan apa yang dianggap lulus atau gagal—hal itu hanya termasuk dalam Bagian Kepatuhan (C).
 
-Pada definisi istilah individual di Bab Lima, pengukuran (M) dan penilaian (A) muncul bersama dalam satu bagian berjudul **Cara mengukur dan menilai**.
+Dalam definisi istilah individual di Bab Lima, Pengukuran (M) dan Penilaian (A) muncul bersama dalam satu bagian berjudul **Cara mengukur dan menilai**.
 
-Di dalam bagian itu, setiap tingkatan adalah pasangan: ukuran datang lebih dulu, dan penilaian bagi ukuran itu duduk pada baris langsung di bawahnya. Ruas penilaian adalah:
+Dalam bagian tersebut, setiap lapisan berupa pasangan: ukuran dicantumkan lebih dahulu, lalu penilaian atas ukuran itu berada tepat pada baris di bawahnya. Bidang penilaiannya adalah:
 
-- **Penilaian primer:** cara menilai ukuran primer — apa yang harus dinilai penilai lebih dulu, dan apa yang harus benar-benar dicapai pemeriksaan itu (substansi, bukan hanya label atau dokumen administrasi).
-- **Penilaian sekunder:** *(dipakai ketika berlaku)* cara menilai ukuran sekunder — apa yang harus disertakan ketika ukuran primer tampak baik tetapi bukti yang lebih luas masih penting.
-- **Penilaian tersier:** *(dipakai ketika berlaku)* cara menilai ukuran tersier — pemeriksaan apakah indikator pengganti, metrik, atau kategori formal masih menelusuri hasil nyata.
+- **Penilaian primer:** cara menilai ukuran primer—apa yang harus dinilai evaluator terlebih dahulu dan apa yang benar-benar harus dicapai oleh pemeriksaan tersebut (substansi, bukan sekadar label atau dokumen).
+- **Penilaian sekunder:** *(jika berlaku)* cara menilai ukuran sekunder—apa yang harus disertakan ketika ukuran primer tampak baik, tetapi bukti yang lebih luas tetap penting.
+- **Penilaian tersier:** *(jika berlaku)* cara menilai ukuran tersier—memeriksa apakah proksi, metrik, atau kategori formal masih mencerminkan hasil nyata.
 
 Lintas semua tingkatan, bagian A harus:
 
@@ -152,7 +152,7 @@ Beberapa hal dengan sengaja **tidak** masuk bagian A:
 
 Definisi daun Bab Lima harus membawa persyaratan A itu memakai bentuk komponen Penilaian yang dinyatakan dalam bagian ini.
 
-Ketika aturan penilaian ini diuji, putusan harus bersandar pada cukup bukti nyata — bukan pada klaim atau dokumen administrasi semata — dan aturan yang sama harus berlaku di mana pun istilah itu berlaku.
+Saat aturan penilaian ini diuji, penilaian harus bertumpu pada bukti nyata yang memadai—bukan hanya klaim atau dokumen—dan aturan yang sama harus berlaku di mana pun istilah tersebut berlaku.
 
 <a id="14-compliance-components-c--what-must-be-true-in-practice"></a>
 <a id="14-compliance-components-c-what-must-be-true-in-practice"></a>
@@ -162,9 +162,9 @@ Ketika aturan penilaian ini diuji, putusan harus bersandar pada cukup bukti nyat
 
 Bagian Kepatuhan (C) menyatakan kondisi dunia nyata yang harus berlaku agar suatu istilah dipenuhi. Ia harus bekerja dari perilaku dan efek yang dapat diamati — bukan dari klaim sistem sendiri, dokumen administrasi, atau maksud yang dinyatakan.
 
-Pada definisi istilah individual di Bab Lima, bagian Kepatuhan (C) muncul di bawah tajuk **Apa yang harus berlaku**. Ruas bekerja seperti ini:
+Dalam definisi istilah individual di Bab Lima, Bagian Kepatuhan (C) muncul di bawah judul **Apa yang harus terpenuhi**. Bidang-bidangnya bekerja sebagai berikut:
 
-- **Kegagalan primer:** ketika istilah itu dipatahkan pada tingkatan primer — misalnya ketika ukuran utama kosong, tidak dapat ditelusuri, atau dikontradiksi oleh cara sistem benar-benar bekerja.
+- **Kegagalan primer:** ketika istilah dilanggar pada lapisan primer—misalnya ketika ukuran utama hampa, tidak dapat ditelusuri, atau bertentangan dengan cara sistem benar-benar bekerja.
 - **Kegagalan sekunder:** *(dipakai ketika berlaku)* ketika istilah itu dipatahkan pada tingkatan sekunder — misalnya ketika pemeriksaan primer tampak stabil tetapi sesuatu yang lebih luas masih mengalahkan istilah itu, seperti kerusakan pada sistem yang diandalkannya atau sistem terhubung yang berinteraksi dengannya.
 - **Kegagalan tersier:** *(dipakai ketika berlaku)* ketika istilah itu dipatahkan pada tingkatan tersier — misalnya ketika suatu indikator pengganti atau metrik diperlakukan sebagai cukup sendirian, atau ketika divergensi yang sudah diketahui diabaikan atau dibiarkan tanpa koreksi.
 
@@ -217,10 +217,10 @@ Suatu definisi tidak dipenuhi jika cara ia dibangun, dibaca, atau diterapkan mem
 <a id="23-construction-constraints"></a>
 #### 2.3 Batasan Penyusunan
 Definisi harus ditulis sehingga:
-- semua bagian (O, M, A, C) hanya dapat dipenuhi bersama di bawah kondisi yang mencerminkan cara sistem benar-benar berperilaku dan apa yang benar-benar dihasilkannya
+- semua bagian (O, M, A, C) hanya dapat dipenuhi secara bersamaan dalam kondisi yang mencerminkan perilaku sistem yang sebenarnya dan hasil yang benar-benar dihasilkannya.
 - tidak ada bagian yang dapat dipenuhi dengan menggeneralisasi, memecah-mecah, mempersempit cakupan, atau menggambarkannya dengan cara yang meninggalkan unsur sistem, interaksi, atau efek yang benar-benar penting
-- tidak ada ukuran yang menggantikan hasil yang dimaksudkan untuk ditangkapnya; suatu ukuran yang menyimpang dari hasil dunia nyata yang diwakilinya (lihat [Divergensi Indikator Pengganti](../../core_05.050_band_oversight.md#proxy-divergence)) tidak dapat memenuhi definisi, dan pilihan ukuran tidak boleh menyusutkan apa yang harus dinilai atau apa yang harus berlaku dalam praktik
-- tidak ada asumsi yang tidak dinyatakan, ketergantungan tersembunyi, atau kondisi yang ditinggalkan yang mengubah atau melemahkan apa yang harus dinilai atau apa yang harus berlaku dalam praktik
+- tidak ada ukuran yang boleh menggantikan hasil yang seharusnya ditangkapnya; ukuran yang menyimpang dari hasil nyata yang diwakilinya (../../lihat [Divergensi Proksi](core_05_band_oversight.md#proxy-divergence)) tidak dapat memenuhi definisi, dan pilihan ukuran tidak boleh mempersempit hal yang harus dinilai atau dipenuhi dalam praktik.
+- tidak ada asumsi yang tidak dinyatakan, ketergantungan tersembunyi, atau kondisi yang dihilangkan yang boleh mengubah atau melemahkan hal yang harus dinilai atau dipenuhi dalam praktik.
 
 <a id="24-interpretation-rule-under-ambiguity"></a>
 #### 2.4 Aturan Tafsir di bawah Ambiguitas
@@ -228,7 +228,7 @@ Ketika suatu definisi dapat dibaca dengan lebih dari satu cara yang wajar, pakai
 
 Suatu definisi tidak boleh dipakai untuk menilai atau memutuskan kepatuhan jika menerapkannya memaksa kontradiksi di dalam definisi, celah antara cakupan yang dinyatakannya dan apa yang sebenarnya harus dicakup, atau kelulusan pada satu bagian sementara bagian wajib lain dikelak.
 
-Definisi yang rusak sudah tidak patuh dengan sendirinya. Itu berlaku bahkan ketika sistem tampak berperilaku baik dan bahkan ketika belum ada yang salah.
+Definisi yang rusak dengan sendirinya tidak patuh. Hal ini tetap berlaku sekalipun sistem tampak berfungsi baik dan belum terjadi masalah apa pun.
 
 Jika satu bacaan wajar akan melemahkan pagar pengaman, mempersempit apa yang harus diperiksa, atau menurunkan hasil dunia nyata yang dituntut dibanding bacaan lain yang diizinkan rumusan dan struktur, bacaan yang lebih lemah itu tidak diizinkan.
 

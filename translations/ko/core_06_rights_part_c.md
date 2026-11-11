@@ -194,7 +194,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
 - 업스트림: 원칙: 1장 [§6.1 정정 및 구제](core_01_a_values_principles.md#61-correction-and-remedy) (원칙층), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), 그리고 [1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- 함께 읽어보세요: [**XIII-A조**](#제xiii-a조-신뢰성-및-신뢰도-기준) (*신뢰성 및 신뢰성 기준*) — 시정의 길을 여는 경합 가능성 보장, 이의제기 권리 및 보호된 보고입니다. **제III-A조** (*활착*); [시스템 정렬 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) 시스템 오류나 정렬 불량으로 인해 생존에 필수적인 접근이 불가능해지는 경우 [서문 §6.2 전체 체인이 어떻게 결합되는지](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*확인된 분류 및 시기적절한 구제*) [제10장 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*집행 현실주의 및 구제 시스템*); [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*구제 시스템 및 제도적 구제 역량*).
+- 함께 읽어보세요: [**XIII-A조**](#제xiii-a조-신뢰성-및-신뢰도-기준) (*신뢰성 및 신뢰성 기준*) — 시정의 길을 여는 경합 가능성 보장, 이의제기 권리 및 보호된 보고입니다. **제III-A조** (*활착*); [시스템 정렬 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) 시스템 오류나 정렬 불량으로 인해 생존에 필수적인 접근이 불가능해지는 경우 [서문 §6.2 전체 체인이 어떻게 결합되는지](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*확인된 분류 및 시기적절한 구제*) [제10장 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*집행 현실주의 및 구제 시스템*); [CI-27](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md) (*구제 시스템 및 제도적 구제 역량*).
 
 </details>
 
@@ -349,7 +349,7 @@ flowchart TB
   - 지각있는 사람에게 책임을 묻다 **11장**; 그리고
   - **제XX-B조** (*Restriction Floors*)는 *시스템*이 아닌 *지각자*에 대한 제한을 관리하고 지각자의 생명을 빼앗는 것을 금지합니다(참조 [되돌릴 수 없는 박탈 조치](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)).
 
-  시스템에 대한 조치는 모든 지각에 적용되는 동일한 위반 및 잠금 규칙을 따릅니다. 위반 사항은 아래의 기록에서 확인되어야 합니다. **9장**, 각 측정값은 다음에 따라 설계되고 보정된 잠금 장치입니다. [10장 §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*정의 및 첨부*) 및 [10장 §5.2](core_09_standing_integration.md#52-proportionality-and-calibration) (*비례성 및 교정*).
+  시스템에 대한 조치는 모든 감지자에게 적용되는 것과 같은 위반 및 잠금 규칙을 따른다. 위반은 **제12장**에 따라 지위 기록에서 검증되어야 하며, 각 조치는 [제13장 §6.1](../../core_13.000_standing_integration.md#61-definition-and-attachment) (*정의와 부착*) 및 [제13장 §6.2](../../core_13.000_standing_integration.md#62-proportionality-and-calibration) (*비례성과 조정*)에 따라 설계되고 조정되는 잠금이다.
 
   두 트랙 모두 동일한 사실에 적용될 수 있습니다. 이 기사의 어떤 내용도 시스템을 파괴하는 힘을 감각 있는 생명에 대한 힘으로 바꾸는 내용은 없습니다.
 - **그 반대도 성립합니다:** 배포된 시스템에 지각력이 있다고 주장하는 경우(주장에 대한 이의가 제기되거나 수락되더라도) 누구도 유해한 배포를 계속 실행하는 것을 허용하지 않습니다.
@@ -556,7 +556,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
 - 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 필요성](core_01_b_interaction_interpretation.md#1311-필요성), [§7.1 제한 징계](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 권리 충돌 결정 테스트](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제XIV조 절대우선 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- 하류: **제I-A조** (*환경 전제조건 및 생태학적 완전성*) 환경 전제조건, **제I-D조** (*실존적 위험 및 생태학적 회복 능력*) 실존적 위험 조사, **제VI-A조** (*존엄성과 평등한 도덕적 지위*) 존엄성, **제XIV-A조** (*보안, 정보 및 비밀 권력 제한*) 비밀 권력 제한(명백한 권력 대응), **12장 §6.1** (*긴급조치 및 지속부담*) 긴급조치 한도, **제XXV조** (*시기적절한 회고적 검토 및 복원 조정*) 갈등 해결, **제XXVII조** (*전환 거버넌스, 연속성 및 기준 재설정*) 전환 거버넌스. 상호 참조: **제XX-B조** (*제한 층*) 및 5장 *[되돌릴 수 없는 박탈 조치](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **제XIV조** (*보안, 정보, 무력 및 자율 강압 시스템*) *비융합* 규율이 적용됩니다.
+- 후속 연결: **제I-A조** (*환경 전제조건과 생태계 무결성*)의 환경 전제조건, **제I-D조** (*존립 위험과 생태 회복 역량*)의 존립 위험 심사, **제VI-A조** (*존엄과 동등한 도덕적 지위*)의 존엄, **제XIV-A조** (*안보, 정보 활동 및 은밀 권력의 한계*)의 은밀 권력 제한(공개 권력의 대응 규정), **제15장 §6.1** (*비상 조치와 지속 부담*)의 비상 조치 한계, **제XXVI조** (*적시 사후 심사와 회복적 정렬*)의 갈등 해결, **제XXVIII조** (*채택 전환 거버넌스, 연속성 및 기준선 재설정*)의 채택 전환 거버넌스. 교차 참조: **제XX-B조** (*제한 바닥*) 및 제5장의 *[회복 불가능한 박탈 조치](../../core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **제XIV조** (*안보, 정보 활동, 무력 및 자율 강압 시스템*)의 *비혼동* 규율이 적용된다.
 - 함께 읽어보세요: [**Def.A4** *무력 사용, 자율 강압, 자율 살상 시스템, 대량 피해 무기*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (중요하게 관련된 경우 공동 발동) 제 5장 *무력 사용*, *대량 피해 무기*, *전투원/비전투원 구별*, *[되돌릴 수 없는 박탈 조치](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *존재적 위험*, *가역성*, *시정 및 교정*.
 
 </details>
@@ -1463,7 +1463,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 
 - **공개 우선:** 보상에는 독립적 이해, 감사 및 후속 재현에 충분한 공개가 필요합니다. 다만 제1장과 제XVII-A조에 따라 정당화되는 임시 제한은 허용됩니다. 공개란 설명이 비밀이 아닌 방식으로 대중에게 처음 제공되는 것입니다. 비밀로 유지한 발명은 이 조항에 따른 배타권을 얻지 못합니다.
 - **두 단계 기간:** 두 단계 모두 공개 시점부터 계산합니다. 독점 단계는 최대 `disclosure+15`년이며 그동안 권리자는 타인의 허락을 거부할 수 있습니다. 그 뒤 최대 `disclosure+30`년까지는 누구나 허락 없이 LEQU 기반 사용료를 내고 이용할 수 있고, 권리자는 사용료 외의 거부·지연·조건을 붙일 수 없습니다. 기간이 지나면 누구나 자유롭게 이용하며 저작자 표시와 출처 이력은 남을 수 있습니다.
-- **LEQU 기반 사용료:** 공개 라이선스 사용료는 발명이 기여한 검증된 헌법적 이익에 비례해야 하며, [수명 등가 단위(LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) 기여 축의 값으로 [제10장 §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)에 따라 산정합니다.
+- **LEQU 기반 수수료:** 공개 라이선스 수수료는 발명이 기여한 검증된 헌법상 이익에 비례하여 정해야 한다. 기여 축에서 [수명 등가 단위(LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)로 측정하고 [제12장 §6](../../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*통합 비례 LEQU 척도*)에 따른다.
   - 검증된 이익은 공정 임금을 받는 감지자의 시간으로 평가하여 사용료로 바꿉니다. 생산성 향상은 이용자가 절약한 노동시간 또는 추가된 생산시간으로, 다른 이익은 LEQU가 나타내는 수명 상당 시간으로 측정합니다. 임금은 [공정 보상](../../core_05.040_band_continuity.md#fair-compensation)을 충족해야 합니다. 생산성이나 복지의 검증된 개선이 클수록 보상도 커질 수 있습니다.
   - 사용료는 이용자에게 실질적 이익이 남도록 검증된 이익의 일부만 취해야 합니다. 그 비율은 이익의 절반을 넘을 수 없고, 실제 수혜 감지자가 늘수록 낮아져야 합니다(라이선스 사용자 수가 아니라 실제 수혜자 수로 계산). 단, 이용 확대에 따라 총 보상액까지 줄어들 만큼 급격히 낮춰서는 안 됩니다. 사용료가 부과되면 비율은 1% 미만일 수 없습니다. 이 최저선은 이 조항이나 채택 문서가 상금, 공동 접근, 공공 매입 또는 공개 접근을 정한 경우 사용료를 강제하지 않습니다.
   - 사용료는 시장 지배력, 희소성, 전환 비용 또는 사용자에게 강요할 수 있는 금액을 기준으로 해서는 안 됩니다. 시간 추정과 임금률을 포함한 요율표를 공개하고, 비교 가능한 상황의 이용자에게 동일하게 적용하며, 이의를 제기할 수 있어야 합니다. 아래 상시 개방 이용을 감당 불가능하게 해서는 안 됩니다. 이는 최대 한도이며 개별 청구는 여전히 비례해야 하고 기간이 더 짧을 수 있습니다.

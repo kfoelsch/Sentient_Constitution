@@ -45,14 +45,20 @@
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
-| [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md) | [core_10_b_misconduct_pattern_applications.md](../../core_12.005_misconduct_pattern_applications.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
-| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_15.000_non_regression.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md) | [core_10_b_misconduct_pattern_applications.md](../../core_14.005_misconduct_pattern_applications.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_15.000_forum.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_16.000_governance.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_17.000_non_regression.md) |
 
 Los enlaces de la tabla identifican la fuente en inglés correspondiente. Los anclajes HTML (`id`) se conservan del original para poder comparar sección por sección. Algunas traducciones anteriores siguen desactualizadas.
 

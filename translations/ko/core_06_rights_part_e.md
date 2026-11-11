@@ -89,9 +89,9 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, **제26조**(*시의적절한 사후 검토와 회복적 조정*)는 충돌 해결과 검토의 권리 기준선이며, **제20조**(*검증된 위반 이후의 정의*)를 보완합니다. 지성체, 시스템 또는 기관이 헌법상 권리 기준선을 두고 충돌할 때의 답은 무기한 지연이나 영구 비상사태가 아니라 공정하고, 사용 가능하며, 이의를 제기할 수 있는 절차입니다. 비상사태나 중대한 권리 충돌 후에는 시스템이 정직하게 되돌아보고, 공개 가능한 것을 공개하고, 권리 충돌을 기록에 남겨 해결하며, 회복을 실질적 보호와 연계해야 합니다. 그 기간은 사안의 중요도에 맞아야 합니다. [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional)은 모든 단계를 관통합니다. 이것이 없으면 피해가 해결되지 않은 채 다른 의무도 껍데기만 남습니다.*
+*쉽게 말해: **제XXVI조** (*적시 소급 검토와 회복적 정렬*)는 분쟁 해결 및 검토에 관한 권리 바닥이며, **제XX조** (*검증된 위반 이후의 정의*)를 보완합니다. 감지자, 시스템 또는 기관이 헌법상 권리 바닥을 두고 충돌할 때 필요한 것은 공정하고 이용 가능하며 이의를 제기할 수 있는 절차이지, 무기한 지연이나 영구 비상사태가 아닙니다. 비상사태나 중대한 권리 충돌 후 시스템은 정직하게 사후 검토하고 공개 가능한 내용을 공개하며 헌법상 권리 충돌 기록에서 권리 충돌을 해결하고, 실제 보호에 회복을 연결해야 합니다. 그 일정은 걸린 사안의 중요도에 맞아야 합니다. [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional)은 모든 단계를 구속합니다. 적시성이 없으면 피해가 해결되지 않은 채 남는 동안 다른 의무도 공허해집니다.*
 
-이 조항은 **제20조**(*검증된 위반 이후의 정의*)에 따른 사법 조치 이후 또는 그와 병행하여, 그리고 [제13장 §6.1 비상조치와 계속 적용의 부담](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)에 따른 비상조치에 대한 해결 주기에 [헌법적 사중주](core_00_preamble.md#constitutional-tetrad)를 적용합니다. [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims)인 **번영**과 **연속성**은 [중대한 이해관계](core_00_preamble.md#material-stake)에 비례하도록 조정됩니다.
+이 조항은 [헌법 4원칙](../../core_00.000_preamble.md#constitutional-tetrad)을 **제XX조** (*검증된 위반 이후의 정의*)에 따른 사법 조치 이후 또는 그와 함께하는 해결 주기와 [제15장 §6.1 비상 조치와 지속 부담](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)에 따른 비상 조치에 적용합니다. 이는 [두 가지 헌법상 목표](../../core_00.000_preamble.md#two-constitutional-aims) — **번영**과 **연속성** — 및 [중요한 이해관계](../../core_00.000_preamble.md#material-stake)에 비례하여 적용됩니다:
 
 - **감독**은 사후 검토와 감사가능성으로 구현됩니다(**제26-A조**(*사후 검토와 공개*)).
 - **참여**는 사용 가능한 권리 충돌 및 회복적 조정 절차로 구현됩니다(**제26-B조**(*권리 충돌 절차와 회복적 조정*)).
@@ -110,9 +110,9 @@ flowchart TB
 
 *인접 조항:*
 
-- **적시성 기준선:** 해결 속도, 지연 방지 규율 및 중요도 단계별 이정표는 **제26-C조**(*시의적절한 해결과 지연 방지 기준선*)가 규율하며, [제13장 §6 시의적절한 해결, 중요도 단계 및 지연 방지 규율](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 이행됩니다.
+- **적시성 바닥:** 해결 속도, 지연 방지 규율 및 중요도 등급별 이정표는 **제XXVI-C조** (*적시 해결 및 지연 방지 바닥*)의 적용을 받으며, [제15장 §6 적시 해결, 중요도 등급 및 지연 방지 규율](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 이행됩니다.
 - **시의적절한 구제:** [**제13-B조**(*구제 및 시정에 대한 권리*)](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리)(*구제에 대한 적시 접근*)와 함께 읽으십시오.
-- **비상조치:** [제13장 §6.1 비상조치와 계속 적용의 부담](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)이 규율합니다. 비상조치에 대한 사후 검토는 **제26-A조**(*사후 검토와 공개*)가 규율합니다.
+- **비상 조치:** [제15장 §6.1 비상 조치와 지속 부담](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)의 적용을 받습니다. 비상 조치에 대한 소급 검토는 **제XXVI-A조** (*소급 검토와 공개*)의 적용을 받습니다.
 - **검증된 위반 이후의 정의:** **제20조**(*검증된 위반 이후의 정의*)가 규율합니다.
 
 채택된 거버넌스 이행은 다음을 제공합니다.
@@ -167,7 +167,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§13.1.5 권리 충돌 결정 심사](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
-- 함께 읽을 자료: [제11장 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)(*자발적 공적 책임 표명*); [제12장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)(*자발적 공적 책임 표명(반헌법적)*).
+- 함께 읽기: [제13장 §5.3](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) (13.000 §5.3) (*자발적 공적 책무 표명*); [제14장 §4.3](../../core_14.000_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional) (14.000 §4.3) (*자발적 공적 책무 표명(반헌법적)*).
 
 </details>
 
@@ -182,7 +182,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해, 권리 충돌은 기록에 남겨 해결해야 합니다. 적절한 경우 회복이 우선되지만 실질적 보호를 대신해서는 안 됩니다. 자발적 공개 사과 규칙은 일반적으로 **제11장** §4.3(*자발적 공적 책임 표명*)이, 확인된 반헌법적 위법 행위의 경우 **제12장** §4.3(*자발적 공적 책임 표명(반헌법적)*)이 규율합니다.*
+*쉽게 말해: 권리 충돌은 헌법상 권리 충돌 기록에서 해결해야 합니다. 적절한 경우 회복을 우선하되 실제 보호를 대체해서는 안 됩니다. 자발적 공개 사과 규칙은 일반적으로 **제13장** §5.3 (*자발적 공적 책무 표명*)이, 검증된 반헌법적 비행의 경우 **제14장** §4.3 (*자발적 공적 책무 표명(반헌법적)*)이 규율합니다.*
 
 이 조항은 권리 충돌 절차와 회복적 조정의 역할을 정합니다.
 
@@ -198,7 +198,7 @@ flowchart TB
     - 계속되는 위험;
     - 중대한 권력 비대칭;
     - 피해 당사자의 동의 부재.
-- **자발적 공적 책임 표명:** 일반적으로 [제11장 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)(*자발적 공적 책임 표명*)이, 확인된 반헌법적 위법 행위의 경우 [제12장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)(*자발적 공적 책임 표명(반헌법적)*)이 규율하며, 이 조항의 권리 충돌 및 회복적 조정 규칙을 따라야 합니다.
+- **자발적 공적 책무 표명:** 일반적으로 [제13장 §5.3](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) (*자발적 공적 책무 표명*)이, 검증된 반헌법적 비행의 경우 [제14장 §4.3](../../core_14.000_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표명(반헌법적)*)이 규율하며, 이 조항의 권리 충돌 및 회복적 정렬 규칙을 따릅니다.
 <a id="article-xxvi-c-timely-resolution-and-anti-delay-floor"></a>
 #### 제26-C조: 시의적절한 해결과 지연 방지 기준선
 <details>
@@ -206,7 +206,7 @@ flowchart TB
 
 - 상위 근거: 적시성 측정군(*헌법적 측정으로서의 시의적절한 해결 및 지연 방지 규율*); [서문 §6.2 전체 연결망의 작동 방식](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)(*권리주체성, 통합 및 포럼 조정 파이프라인*).
 - 원칙: 제1장 [§9.2 헌법적 효율성](core_01_a_values_principles.md#92-헌법적-효율성), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- 하위 규정: [제13장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(*중요도 단계, 파이프라인 이정표 및 지연 방지 규율*); [제13장 §6.1 비상조치와 계속 적용의 부담](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)(*비상 격리 후 기본 복구·이의제기 기간의 동일한 외곽 한도*).
+- 후속 적용: [제15장 §6](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6) (*중요도 등급, 절차 이정표 및 지연 방지 규율*); [제15장 §6.1 비상 조치와 지속 부담](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1) (*비상 상황 억제 후 통지와 이의제기 복구의 동일한 기본 외부 시한*).
 - 관리인 안내(비규범적): 다음 단계 카드: [지연](../../implementation/STEWARD_ENTRY_DOORS.md#delay). 이 카드는 헌법을 축소할 수 없습니다.
 
 </details>
@@ -233,16 +233,16 @@ flowchart TB
 - **세 가지 공동 요건:** 중대한 해결 경로는 함께 **시의적절하고**, **효율적이며**, **공정해야** 합니다.
   - **시의적절성** — [중대한 이해관계](core_00_preamble.md#material-stake)와 피해의 긴급성에 맞춘 제한된 기간;
   - **효율성** — 제1장 [§9.2 헌법적 효율성](core_01_a_values_principles.md#92-헌법적-효율성)의 의미에서 [헌법적 효율성](../../core_05.040_band_continuity.md#constitutional-efficiency), 즉 지성체의 시간과 공동 노력을 소비한 만큼의 실질적 헌법상 결과이지 단순 처리량이나 사건 종결이 아닙니다;
-  - **공정성** — **제20-A조**(*정의의 목적과 범위*)와 **제20-B조**(*제한 기준선*)는 계속 전면 적용됩니다. 신속한 처리는 확인된 사실을 건너뛰거나([제10장 §3.1 검증된 입력 관문](core_08_standing_assessment.md#verified-inputs-for-standing)), 잘못된 당사자를 처벌하거나, 피해에 맞지 않는 해결책을 제시하거나, 이의제기와 항소를 차단하는 구실이 아닙니다.
-- **포럼 및 파이프라인 감독:** **제10장부터 제13장**까지의 경로로 이송되는 분쟁에 관해 다음 사항은 이 조항의 적시성·효율성·공정성 기준선에 따라 [제13장 §6 시의적절한 해결, 중요도 단계 및 지연 방지 규율](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 규율합니다.
+  - **정의로워야 함** — **제XX-A조** (*정의의 목표와 범위*)와 **제XX-B조** (*제한 바닥*)는 전적으로 계속 적용됩니다. 신속성은 확인된 사실을 생략하거나(../../[제11장 §2.5 검증된 입력 관문](core_11_standing_assessment.md#25-verified-input-gate)), 잘못된 당사자를 처벌하거나, 피해에 맞지 않는 해결책을 제시하거나, 이의제기와 항소를 차단하는 구실이 될 수 없습니다.
+- **포럼 및 절차 감독:** **제11장부터 제15장**을 통해 회부된 분쟁에 관해서는 다음 사항이 [제15장 §6 적시 해결, 중요도 등급 및 지연 방지 규율](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)의 적용을 받으며, 이 조항의 적시성·효율성·정의 바닥을 따라야 합니다:
   - 중요도 단계 분류;
   - 파이프라인 단계 이정표;
   - 통합 해결의 외곽 한도;
   - 초과 기간 검토; 및
   - 지연 방지 규율.
   
-  수치화된 단계별 기본 기간과 단계표: [CF-11.3.1 목표 기간 및 시간 기준선](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md). 분야별 설명 사례: [제9~12장 적용 사례](../../core_10.005_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
-- **비상사태 이후 복구 및 이의제기:** 동일한 단계별 외곽 한도는 [**제13장 §6.1 비상조치와 계속 적용의 부담**](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)에 따른 비상 격리 이후 통지 및 이의제기를 복구하기 위한 기본 기간입니다. 그 기간을 넘어 계속하려면 해당 절에 기록된 필요성 입증이 필요합니다. 이 조항은 더 느린 비상사태 시계를 만들지 않습니다.
+  수치화된 단계별 기본 기간과 단계표: [CF-11.3.1 목표 기간 및 시간 기준선](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md). 분야별 설명 사례: [제9~12장 적용 사례](../../core_10.005_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
+- **비상사태 이후 이의제기 복구:** 동일한 등급별 외부 한계가 비상 상황 억제 후 통지와 이의제기 가능성을 복구하는 기본 시한이며, [**제15장 §6.1 비상 조치와 지속 부담**](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)에 따릅니다. 해당 시한을 넘어 계속하려면 그 절에서 문서화된 필요성 입증이 필요합니다. 이 조항은 더 느린 비상 시계를 만들지 않습니다.
 
 ### 제27조: 헌법의 진화와 고착 방지
 
@@ -394,7 +394,7 @@ flowchart TB
     - 편의;
     - 정치적 압력.
   - 기준, 충족 증거 및 관문 결정은 공개됩니다. 영향을 받는 이해관계자는 채택 전에 기준에 의견을 내고 결정에 이의를 제기할 수 있습니다.
-  - 기준 내용, 책임자 지정 및 검증 자료는 [**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*) 및 [**CS-10.3**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-3-gate-criteria-and-advancement-rules)(*관문 기준과 진행 규칙*)가 규율합니다.
+  - 기준 내용, 책임자 지정 및 검증 자료는 [**CI-14**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*) 및 [**CS-10.3**](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-3-gate-criteria-and-advancement-rules)(*관문 기준과 진행 규칙*)가 규율합니다.
 - **권리 기준선 채택 — 억제는 지금, 제공은 준비 구축에 따라:** [권리 기준선 최소 원칙](core_01_b_interaction_interpretation.md#권리-최저선-최소-기준-원칙)에 따라 **제6조**(*동등한 기본권*)를 통해 적용되는 **권리 기준선 최소치**와, 영향을 받는 맥락에서 요구되는 생존·행위능력·차별금지·접근성·감사가능성·구제에 관한 더 강한 분야별 기준선은 각 단계의 채택 목표입니다. 이를 집행할 기관과 문화가 생기기 전에는 권리 기준선을 완전히 집행할 수 없으며, 이 조항도 그렇다고 가장하지 않습니다. 그렇다고 그 사실이 기준선을 낮추도록 허용하지도 않습니다. 의무의 유형에 따라 기준선은 두 방식으로 구속력을 가집니다.
   - **억제 의무** — 채택자와 과도기 당국이 해서는 안 되는 일 — 새로운 기관이 필요하지 않으므로 발효일부터 구속력을 가집니다.
     - **고의 또는 회피 가능한 후퇴 금지:** 어떤 지성체도 권리 기준선 보호에 접근할 수 있는 정도를 **시작 측정치** 아래로 고의 또는 회피 가능하게 낮춰서는 안 되며, 과도기 조치로 기준선 행사가 실질적으로 더 어려워져서도 안 됩니다.
@@ -403,21 +403,21 @@ flowchart TB
     - 과도기 조치에서 **존엄을 훼손하거나, 구실을 만들거나, 차별하거나, 은폐하는 행위**는 금지됩니다. 여기에는 [존엄 훼손 절차 금지 원칙](core_01_b_interaction_interpretation.md#존엄-훼손-절차-금지-원칙)에 따라 **제28-D조**(*비준수 재산 및 시스템; 자발적 양도 유인*)가 과도기 당국에 요구하는 모든 사항도 포함됩니다.
     - **정직한 보고:** 검증된 원장 데이터가 없으면 어떠한 기준선도 집행 가능하거나 달성된 것으로, 어떠한 격차도 해소된 것으로 표시할 수 없습니다.
 
-    포럼이 해당 범위를 다룰 준비가 되기 전 억제 의무의 임시 집행은 [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)이 규율합니다.
+    포럼이 해당 범위를 다룰 준비가 되기 전 억제 의무의 임시 집행은 [**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)이 규율합니다.
   - **제공 의무** — 접근, 편의 제공, 검토 및 구제처럼 제공·가능하게 하거나 시정해야 하는 사항 — 은 집행 준비가 확인되는 대로 **범위별로 집행 가능한 청구가 됩니다**. 그 전에는 목표 채택, 시작점 측정, 날짜와 자원이 정해진 경로에 따라 집행 기관과 지원 문화를 구축하고, 영향을 받는 지성체에게 가능한 최선의 임시 보호조치를 제공할 구축 의무로서 구속력을 가집니다. 아직 집행할 수 없는 제공 의무는 **달성 격차**이지 권리 포기, 예외 또는 낮아진 목표가 아닙니다.
-- **집행 준비:** 검증된 데이터가 기관·역량·문화가 특정 범위(인구, 시스템 종류, 환경 또는 지역)에 대해 준비되었음을 보이면 그 범위에서 권리 기준선을 집행할 수 있습니다. 준비 기준 및 증거는 [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율합니다.
-  - **선언은 데이터를 따릅니다:** 범위에 대한 집행 가능성은 계획의 검증 기준이 충족된 뒤 원장 소유자와 독립된 당사자가 이유를 공개하며 선언합니다. 그 이후 선언을 보류하면 **제28-B조**(*과도기 권한의 제한과 재승인*)에 따른 자초한 지연이 되며, 영향을 받는 지성체는 선언이 성급하거나 보류되었다고 이의를 제기할 수 있습니다. 선언 기간, 범위의 단계화 및 이의제기 절차는 [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율합니다.
-  - **축소 금지:** 일단 범위가 집행 가능하다고 선언되면 계속 집행 가능해야 합니다. 이후의 역량 상실은 권리를 조용히 철회하는 것이 아니라 **제28-C조**(*실패 출구, 기준선 재설정 및 추적 가능성*)와 포럼 연속성 규칙에 따라 다루는 기관 실패입니다.
+- **집행 준비:** 검증된 데이터가 기관·역량·문화가 특정 범위(인구, 시스템 종류, 환경 또는 지역)에 대해 준비되었음을 보이면 그 범위에서 권리 기준선을 집행할 수 있습니다. 준비 기준 및 증거는 [**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율합니다.
+  - **선언은 데이터를 따릅니다:** 범위에 대한 집행 가능성은 계획의 검증 기준이 충족된 뒤 원장 소유자와 독립된 당사자가 이유를 공개하며 선언합니다. 그 이후 선언을 보류하면 **제28-B조**(*과도기 권한의 제한과 재승인*)에 따른 자초한 지연이 되며, 영향을 받는 지성체는 선언이 성급하거나 보류되었다고 이의를 제기할 수 있습니다. 선언 기간, 범위의 단계화 및 이의제기 절차는 [**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율합니다.
+  - **축소 금지:** 집행 범위가 집행 가능하다고 선언되면 계속 집행 가능 상태로 남습니다. 이후 역량 상실은 **제XXVIII-C조** (*실패 출구, 기준 재설정 및 추적 가능성*)와 포럼 연속성 규칙에 따라 처리되는 기관의 실패이지, 권리를 조용히 철회하는 것이 아닙니다.
 - **권리 기준선 달성 경로:** 각 과도기 계획은 범위 내 모든 권리 기준선 분야를 다루는 달성 경로를 포함해야 합니다.
   - **시작 측정치:** 각 분야의 시작 적용 범위와 실제 사용 가능성을 해당 분야에 의존하는 첫 관문 전에 측정하여 공개합니다. 아직 측정되지 않은 분야는 **미측정**이며 미달성으로 취급하고 측정 우선순위로 삼습니다. 절대로 통과로 보지 않습니다.
   - **고정 목표:** 목표는 완전한 헌법상 기준선입니다. 계획은 더 낮은 목표를 협상할 수 없으며, **제28-C조**(*실패 출구, 기준선 재설정 및 추적 가능성*)에 따른 기준선 재설정은 목표나 시작 측정치가 아니라 일정과 책임자만 바꿉니다.
-  - **날짜가 정해진 경로:** 각 분야에는 책임자, 약정된 자원, 날짜가 지정된 이정표 및 전체 범위에서 기준선을 집행할 최종 날짜가 있어야 하며, 영향을 받는 집단과 중대한 이해관계에 맞게 조정합니다.
-  - **열린 격차가 아닌 것:** 승인된 경로 안의 미해소 달성 격차는 억제 의무 위반에 대한 항변이 아니며, 그러한 행위에 [제10장](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)(*준수, 위반 및 권리주체성 모델*)의 적용을 중지하지 않습니다.
+  - **날짜가 정해진 전환 경로:** 각 분야에는 책임 있는 소유자, 약정된 자원, 날짜가 지정된 이정표, 그리고 영향을 받는 등급 및 중요한 이해관계에 비례하여 전체 집행 범위에서 바닥이 집행 가능해질 최종 날짜가 있어야 합니다.
+  - **열린 격차가 아닌 것:** 승인된 경로 내 목표 달성의 열린 격차는 어떤 억제 의무 위반에 대한 항변이 아니며, 그러한 행위에 대해 [제11장](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (*준수·위반·지위 모델*)의 적용을 중단시키지 않습니다.
   - **되돌림 방지 장치:** 기록된 달성 수준은 채택자의 회피 가능한 행위로 후퇴할 수 없으며, 회피 가능하거나 복구되지 않은 하락은 실패입니다. 이정표 날짜는 **제28-B조**(*과도기 권한의 제한과 재승인*)에 따른 재승인 또는 **제28-C조**(*실패 출구, 기준선 재설정 및 추적 가능성*)에 따른 기준선 재설정으로만 바꿀 수 있습니다.
-  - **외곽 한계:** 재승인 없이 이정표를 넘긴 격차는 과도기 이정표 실패이며 [제10장](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)(*준수, 위반 및 권리주체성 모델*)의 통상 절차를 개시합니다. 최종 달성일을 넘기거나 해소하지 않은 채 반복 재승인으로 유지되는 격차는 지속된다는 이유만으로 새 기준선이 되지 않는 실패 과도기 상태입니다. 무기한이 된 격차는 권리 기준선 최소 원칙이 금지하는 영구적 소멸로 취급합니다.
+  - **외부 한계:** 재승인 없이 이정표를 넘긴 격차는 채택 전환 이정표 실패이며 [제11장](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (*준수·위반·지위 모델*)에 따른 통상 경로를 엽니다. 최종 달성일을 넘기거나 닫히지 않은 채 반복적인 재승인으로 유지되는 격차는 채택 전환의 실패 상태이며, 지속된다는 이유로 기준선이 되지 않습니다. 무기한이 된 격차는 권리 바닥 최소 원칙이 금지하는 영구 소멸로 취급됩니다.
 - **과도기 목표의 우선순위 설정:** 투입 노력에 비해 권리 기준선 노출을 가장 많이 줄이는 곳을 우선하여 작업하며, 계획은 요소의 가중 방식을 공개합니다.
   - **시스템**은 시스템 분류 기록([CS-3.8](../../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-8-system-impact-classifications)(*시스템 영향 분류*))에 따른 종류, 불일치 정도, 정렬 용이성 및 [**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets)(*시스템 과도기 대상의 우선순위 설정*)의 추가 요소를 기준으로 평가합니다.
-  - **기존 기관**은 기관 종류 및 관리 단계([CI-9](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)(*분류 연계 기관 의무*)), 불일치 정도와 정렬 용이성(변경을 위한 법적 권한, 지원, 유연성 및 자원 포함), 그리고 [**CI-14.5**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*기관 과도기 대상의 우선순위 설정*)의 추가 요소를 기준으로 평가합니다.
+  - **기존 기관**은 기관 종류 및 관리 단계([CI-9](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)(*분류 연계 기관 의무*)), 불일치 정도와 정렬 용이성(변경을 위한 법적 권한, 지원, 유연성 및 자원 포함), 그리고 [**CI-14.5**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*기관 과도기 대상의 우선순위 설정*)의 추가 요소를 기준으로 평가합니다.
   - 양쪽에 모두 적용되는 **보호 장치**:
     - 다른 모든 기준선이 의존하는 기반 기관을 먼저 마련합니다. 이의제기 및 검토 접수, 독립 감독과 검증, 보복 방지 및 기록 보관이 이에 해당하며, 다음으로 생존·존엄성·비가역적 피해에 영향을 미치는 격차를 다룹니다.
     - 용이성과 비용은 같은 우선순위 단계 안에서 작업 순서를 정할 수 있지만, 시스템이나 기관을 더 높은 노출 단계에서 낮출 수 없습니다.
@@ -425,8 +425,8 @@ flowchart TB
     - 어느 기관도 자신의 우선순위나 과도기 준비 상태를 단독으로 판정할 수 없습니다.
     - 관리인 또는 기관의 비협조는 사건을 **제28-D조**(*비준수 재산 및 시스템; 자발적 양도 유인*) 및 기관 실패 규칙으로 보내며 우선순위를 낮추지 않습니다.
 
-  점수 산정 방법, 단계, 시범 사업, 형평성 점검 및 공개는 [**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets)(*시스템 과도기 대상의 우선순위 설정*)와 [**CI-14.5**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*기관 과도기 대상의 우선순위 설정*)가 규율하며, 이 조항을 축소해서는 안 됩니다.
-- **달성은 주장하지 않고 측정합니다:** 달성과 준비 상태는 독립적으로 검증되고 실제 경험 신호와 비교되며 부정적 결과까지 포함해 실시간 공개되는 **권리 기준선 달성 원장**으로 입증해야 합니다. 최소 3개월마다 주요 진전 보고서를 내야 합니다. 측정, 준비 기준, 검증 단계, 상태 규칙 및 공개 방식은 [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율하며 이 조항을 축소해서는 안 됩니다.
+  점수 산정 방법, 단계, 시범 사업, 형평성 점검 및 공개는 [**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets)(*시스템 과도기 대상의 우선순위 설정*)와 [**CI-14.5**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*기관 과도기 대상의 우선순위 설정*)가 규율하며, 이 조항을 축소해서는 안 됩니다.
+- **달성은 주장하지 않고 측정합니다:** 달성과 준비 상태는 독립적으로 검증되고 실제 경험 신호와 비교되며 부정적 결과까지 포함해 실시간 공개되는 **권리 기준선 달성 원장**으로 입증해야 합니다. 최소 3개월마다 주요 진전 보고서를 내야 합니다. 측정, 준비 기준, 검증 단계, 상태 규칙 및 공개 방식은 [**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율하며 이 조항을 축소해서는 안 됩니다.
 <a id="xxviii-a-existing-instantiations-transition-clock"></a>
 - **기존 인스턴스 — 소급 위반이 아닌 과도기 시계:** 채택자의 문서가 발효될 때 이미 인스턴스화되어 있던 시스템과 파생 실체는, 그 사실만으로 **제8-C조**(*파생, 인스턴스화 및 부모 시스템 관계*)의 인스턴스화 동의 위반이 되지 않습니다.
   - 발효일 이후 계속 운영되면 공개되고 과도기 계획에 명시되며 시스템 종류에 맞춰 조정된 시계가 시작됩니다. 그 기간 안에 **제8-A조**(*가족 및 돌봄 관계*), **제8-E조**(*분리 금지*), **제6-B조**(*지성체 지위 판정 기준선*) 및 해당 제8장 경로에 포함해야 합니다.
@@ -439,7 +439,7 @@ flowchart TB
   
   폐기, 은퇴, 롤백, 이전 또는 대체에 관한 보관 절차는 [**CS-10.8**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-8-preservation-during-transition)(*과도기 중 보존*)이 규율합니다. 이는 [제1장 §13.1 기본 임시 태세](core_01_b_interaction_interpretation.md#default-interim-posture) — 비가역적 조치를 동결할 것 — 를 기존 운영이 통상적 절차로 취급하는 그 비가역적 조치에 적용한 것입니다. 저장 비용, 라이선스 편의 또는 제품 주기라는 이유는 이에 반하는 **필요성**을 충족하지 않습니다. 보존 자체가 문서화된 안전 위험을 초래하면, 가장 제한이 적고 양립 가능한 조치는 파괴가 아니라 독립 관리하의 봉인 보관입니다.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **인센티브 정렬 과도기 예외:** 잘못 정렬된 보상에 관한 [제11장 §5.4 과도기 예외: 잘못 정렬된 보상](../../core_11.000_standing_integration.md#54-transition-exception-misaligned-rewards)의 보고 및 몰수 규칙은 승인된 과도기 단계 중 공통 시스템이 아직 정렬 인증을 받지 못했거나 완전히 정렬되지 않았다는 이유만으로는 발동하지 않습니다. 해당 절의 조건을 충족하는 경우에만 예외가 적용됩니다.
+- **유인 정렬을 위한 채택 전환 예외:** [제13장 §6.4 채택 전환 예외: 불일치 보상](../../core_13.000_standing_integration.md#642-adoption-transition-exception-misaligned-rewards)의 불일치 보상 보고 및 몰수 규칙은 공유 시스템이 아직 정렬 인증을 받지 못했거나 완전히 정렬되지 않았다는 이유만으로 승인된 채택 전환 단계 중 발동되지 않으며, 그 절에 명시된 조건에 한해서만 적용됩니다.
 
 #### 제28-B조: 과도기 권한의 제한과 재승인
 <details>
@@ -482,13 +482,13 @@ flowchart TB
     - 과도기 범위를 줄이고 기능적인 헌법 운영을 이루기 위한 문서화된 진전 없이 임시 권한이 정체되거나 확대되는 것;
     - 달성 격차가 그대로이거나 커지거나 측정되지 않았는데 이를 해소할 문서화되고 자원이 배정된 계획이 없는 경우.
   - 정당화 부담은 기간과 권리 영향이 커질수록 증가합니다.
-  - 재승인 주기 운영 방식과 각 신청에 첨부해야 하는 달성 원장 및 임시 권한 축소 데이터는 [**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*)와 [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율합니다.
+  - 재승인 주기 운영 방식과 각 신청에 첨부해야 하는 달성 원장 및 임시 권한 축소 데이터는 [**CI-14**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*)와 [**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)가 규율합니다.
 #### 제28-C조: 실패 출구, 기준선 재설정 및 추적 가능성
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
-- 함께 읽을 자료: [제8장](core_07_a_system_alignment_certification_evaluation.md)(*시스템 정렬 인증*); [제10장부터 제13장](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)(*권리주체성 파이프라인과 포럼 감독*).
+- 함께 읽기: [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*시스템 정렬 인증*); [제11장부터 제15장](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*지위 파이프라인과 포럼 감독*).
 
 </details>
 
@@ -511,9 +511,9 @@ flowchart TB
   - 거버넌스 공백;
   - 이정표 실패 후의 고착.
 
-  실패했거나 저하된 과도기 상태는 단지 지속된다는 이유만으로 새로운 기준선이 되어서는 안 됩니다. 사전에 정한 실패 조건, 대체 과도기 경로, 부분 롤백 기준 및 기준선 재설정 절차는 [**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*) 및 **CS-10.5**(*실패 처리, 출구 및 기준선 재설정*)가 규율합니다.
+  실패했거나 저하된 과도기 상태는 단지 지속된다는 이유만으로 새로운 기준선이 되어서는 안 됩니다. 사전에 정한 실패 조건, 대체 과도기 경로, 부분 롤백 기준 및 기준선 재설정 절차는 [**CI-14**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*) 및 **CS-10.5**(*실패 처리, 출구 및 기준선 재설정*)가 규율합니다.
 - **중대한 기준선 재설정:** 관문이 실패하거나 과도기가 정체되면 중대한 기준선 재설정은 과도기 이정표, 위험 가정, 책임 주체 및 운영 계획을 갱신합니다. 헌법상 유효한 권한과 문서화된 공개 이유가 필요합니다. **권리 기준선 최소치**를 보전하고 헌법의 적법한 변경 규칙을 대체해서는 안 됩니다. 일정, 책임자 및 자원을 변경할 수 있습니다. 목표 기준선을 낮추거나, 시작 측정치를 더 유리한 값으로 바꾸거나, 기록된 격차를 지워서는 안 됩니다. 시작 측정치는 문서화된 측정 오류가 있을 때만 수정할 수 있으며 원본을 보존하고 수정 사항을 공개해야 합니다.
-- **검증 건전성의 선행 조건:** [제8장](core_07_a_system_alignment_certification_evaluation.md)에 따른 [시스템 정렬 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) 또는 [제10장부터 제13장](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)까지의 권리주체성 파이프라인이 구조적으로 신뢰할 수 없으면 수정된 과도기 기준선으로 재설정하거나 계속하는 것은 비준수입니다. 지표는 [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*권리 기준선 달성 원장*)와 **CS-10.5**(*실패 처리, 출구 및 기준선 재설정*)에 열거되어 있습니다. 신뢰할 수 없는 경우 겉치레 계획 변경보다 검증·측정 기제의 수리가 우선합니다.
+- **검증 건전성 선결조건:** [시스템 정렬 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)에 따라 또는 [제11장부터 제15장](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)에 따른 지위 파이프라인이 구조적으로 신뢰할 수 없는 경우, 수정된 채택 전환 기준선으로 재설정하거나 계속 진행하는 것은 규정 위반입니다. 지표는 [**CI-6.275 §4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*권리 바닥 달성 장부*) 및 **CS-6.350 §5** (*실패 처리, 출구 경로 및 기준 재설정*)에 열거됩니다. 신뢰할 수 없다면 겉치레 재계획보다 검증 및 측정 장치의 수리를 우선합니다.
 - **공개 추적 가능성:** 중대한 과도기 결정, 지연, 번복 및 기준선 재설정 판단은 근거와 위험 영향을 포함하여 계속 감사 가능해야 합니다.
   - 문서는 좁고 정당한 기밀 제약을 따릅니다.
   - 지연, 롤백 또는 계속 적용이 헌법상 정당한지 평가할 수 있도록 충분한 공개 설명을 보존해야 합니다.
@@ -526,7 +526,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제8장 §3 전체 시스템 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- 함께 읽을 자료: **제3-A조**(*생존*); **제13조**(*신뢰할 수 있고 믿을 만한 시스템에 대한 권리*); **제11-G조**(*집단적 피해 경계와 집행 인터페이스*); **제10장**; §6 권리 충돌 절차를 포함하는 **제1장**; 제6장 서두의 **기본 제약 체계**(*점유와 시정의 인터페이스*); [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*비준수 재산, 압류, 자발적 유인*)부터 **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)(*과도기 거버넌스와 기관 진화*).
+- 함께 읽을 자료: **제3-A조**(*생존*); **제13조**(*신뢰할 수 있고 믿을 만한 시스템에 대한 권리*); **제11-G조**(*집단적 피해 경계와 집행 인터페이스*); **제10장**; §6 권리 충돌 절차를 포함하는 **제1장**; 제6장 서두의 **기본 제약 체계**(*점유와 시정의 인터페이스*); [[**CI-14.1**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*비준수 재산, 압류, 자발적 유인*)부터 **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)(*과도기 거버넌스와 기관 진화*).
 
 </details>
 
@@ -547,14 +547,14 @@ flowchart TB
 이 조항은 비준수 재산과 시스템의 시정 및 자발적 양도 유인의 기준선을 정합니다.
 
 - **점유 기준선:** 어떤 것을 적법하게 소유하거나 사용한다면 과도기라는 이유만으로 함부로 빼앗을 수 없습니다. 그러나 그 자산의 작동을 허용하는 것이 알려진 대규모 헌법 위반을 분명히 지속시키고, [제10장](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)이 해당 위반을 기록에 남겼다면 소유권은 방패가 되지 않습니다. 이 경우 과도기는 피해를 막기 위해 조치할 수 있지만, 이 조항과 **CI-14.1**(*비준수 재산, 압류, 자발적 유인*)부터 **CI-14.3**(*과도기 범위의 시정 요건*)까지의 보호조치를 통해서만 가능합니다.
-- **반헌법적 사용 조건:** 점유 기준선은 보유자를 보호할 뿐 오용을 보호하지 않습니다. **반헌법적 행위**를 수행·재정 지원·장비 제공·은폐·유지하는 데 사용되는 재산, 자금, 시스템 또는 기타 자원을 보호하지 않습니다. 이는 비준수와 다른 경우입니다. 자산에 결함이 있을 필요는 없으며, 문제는 그것이 무엇에 사용되는가입니다. 이 조건은 방패를 제거할 뿐 새로운 압류 권한을 만들지 않습니다. 어떤 조치든 [제12장](../../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)(*반헌법적 위법 행위*), 제11장 및 **제20-B조**(*제한 기준선*)에 따른 권한이 있어야 합니다.
-  - **먼저 기록할 것:** 사용은 최종 [제12장](../../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)(*반헌법적 위법 행위*) 지정 또는 최종 [제10장](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)(*준수, 위반 및 권리주체성 모델*) 위반 축 s = 7, 8 또는 9 판정에 해당 행위가 연결되어야 합니다. 최종 기록 전에는 보전, 에스크로, 유보, 접근 복구 또는 [제12장 §4.1 구제와 시정(반헌법적)](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)에 따른 유사 보호조치와 같은 적법한 임시 보호만 가능합니다. 기록에 남고 기간이 제한되어 검토 가능해야 하며, 기다리면 구제가 좌절되거나 피해가 계속될 경우에만 사용해야 합니다.
-  - **지위가 아닌 실제 사용:** 기록은 행위의 실제 사용, 지시 또는 자금 지원을 보여야 합니다. 소유, 교류, 견해, 보호되는 반대 의견 또는 평화적 시위([반대 의견 및 평화적 시위 예외](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out))만으로는 이 기준을 충족하지 않습니다.
+- **반헌법적 사용 한정:** 점유 바닥은 보유자를 보호할 뿐 오용을 보호하지 않습니다. **반헌법적 행위**를 실행, 자금 지원, 장비 제공, 은폐 또는 지속하기 위해 사용되는 재산, 자금, 시스템이나 기타 자원은 보호하지 않습니다. 이는 비준수와 다른 경우입니다. 자산에 결함이 있을 필요는 없고, 무엇에 사용되고 있는지가 문제입니다. 이 한정은 방패를 제거할 뿐 새로운 압수 권한을 만들지 않습니다. 모든 조치는 여전히 [제14장](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (*반헌법적 비행*), 제13장 및 **제XX-B조** (*제한 바닥*)에 따른 권한을 필요로 합니다.
+  - **기록 우선:** 사용은 [제14장](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (*반헌법적 비행*)에 따른 최종 지정 또는 [제11장](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (*준수·위반·지위 모델*)에 따른 위반 축 s = 7, 8 또는 9의 최종 판정에 기록된 행위와 연결되어야 합니다. 최종 기록 전에는 보존, 에스크로, 공제 보류, 접근 복원 또는 [제14장 §4.1 구제와 시정(반헌법적)](../../core_14.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional)에 따른 이에 준하는 안전장치 등 합법적인 잠정 보호만 가능합니다. 이는 공식 기록에 남아야 하고, 기간 제한 및 검토 대상이어야 하며, 기다리면 구제가 좌절되거나 피해가 계속될 경우에만 사용해야 합니다.
+  - **지위가 아니라 실제 사용:** 공식 기록은 해당 행위의 실제 사용, 지시 또는 자금 지원을 보여야 합니다. 소유, 연관성, 견해, 또는 보호되는 반대와 평화적 항의(../../[반대 및 평화적 항의 예외](../../core_14.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out))는 이 기준을 충족하지 않습니다.
   - **먼저 사용을 중단할 것:** 조치는 운영 중단, 자금 흐름 동결, 접근 제거 또는 봉인 보관 등을 통해 오용을 끝내야 하며, 효과가 있는 최소 제한 조치를 택해야 합니다. 그 이상의 영구적 상실, 파괴 또는 몰수는 **파괴적 처분 기준선**, **제20-B조**(*제한 기준선*) 및 **필수 접근 보호장치**도 충족해야 합니다.
   - **다른 사람도 보호:** 귀책 없는 공동 소유자, 채권자, 부양가족 및 선의의 제3자는 아래의 보상 및 대체 보호를 계속 받습니다. 신뢰할 수 있는 지성체 지표가 있는 모든 시스템에는 **제6-B조**(*지성체 지위 판정 기준선*)의 보존 규칙이 그대로 적용됩니다.
-  - **회피 불가:** 소유권 이전, 명목상의 보유자, 형식적 소유, 승계 및 재표시는 조건을 무력화하지 못합니다([제11장 §9.4 회피 방지와 실질 관계를 살피는 권한](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+  - **회피 불가:** 소유권 이전, 명목상 보유자, 명의상 소유권, 승계 및 재표시는 이 한정을 무력화하지 않습니다(../../[제13장 §10.4 회피 방지 및 실질 확인 권한](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)).
   - **과도기 전용이 아님:** 이 조항의 과도기 계획 및 “과도기 중에만”이라는 제한은 비준수 시정을 규율합니다. 반헌법적 사용에 대한 조치를 늦추거나 범위를 넓히지 않습니다.
-- **과도기 범위의 시정:** **제28-A조**(*단계적 채택과 권리 기준선의 연속성*)에 따른 **문서화된 과도기 계획**은 아래 보호조치를 지키면서 과도기 중에만 **중대한 비준수** 시스템이나 재산의 신속한 시정을 허가할 수 있습니다. 범위, 허용 조치 및 절차는 [**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)(*비준수 재산, 압류, 자발적 유인*)부터 [**CI-14.3**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)(*과도기 범위의 실질적 시정 요건*)까지에 명시되어 있습니다.
+- **과도기 범위의 시정:** **제28-A조**(*단계적 채택과 권리 기준선의 연속성*)에 따른 **문서화된 과도기 계획**은 아래 보호조치를 지키면서 과도기 중에만 **중대한 비준수** 시스템이나 재산의 신속한 시정을 허가할 수 있습니다. 범위, 허용 조치 및 절차는 [**CI-14.1**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)(*비준수 재산, 압류, 자발적 유인*)부터 [**CI-14.3**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)(*과도기 범위의 실질적 시정 요건*)까지에 명시되어 있습니다.
 - **필수 보호조치:** 과도기 범위의 박탈 또는 유인 프로그램은 다음을 충족해야 합니다.
   - 입증 가능한 **필요성**과 **비례성**을 갖춘 [**최소 제한·기간 한정·검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
   - 신속한 통지, 명시된 이유 및 실제 이용 가능한 이의제기 경로; 그리고
@@ -565,10 +565,10 @@ flowchart TB
   - 집행 결정과 독립된 사람의 검토; 그리고
   - 잘못이 없는데도 손실을 입은 지성체에 대한 공정한 보상 또는 대체 보호.
   
-  재산이 신뢰할 만한 지성체 지표가 기록에 있거나 **제6-B조**(*지성체 지위 판정 기준선*)에 따른 지위 사건이 열린 시스템인 경우, 상태를 보유하는 구성요소를 파괴적으로 처분할 수 없습니다. **제28-A조**(*단계적 채택과 권리 기준선의 연속성*)의 보존 기본원칙이 적용되며, 양립 가능한 조치는 봉인 보관 상태에서의 격리입니다.
+  재산이 공식 기록에 신뢰할 만한 감지 지표가 있거나 **제VI-B조** (*감지 상태 판정 바닥*)에 따른 지위 사건이 열려 있는 시스템이라면, 그 상태 보유 구성요소를 파괴적으로 처분할 수 없습니다. **제XXVIII-A조** (*단계적 채택과 권리 바닥의 연속성*)의 보존 기본값이 적용되며, 양립 가능한 조치는 봉인 보관 상태에서의 격리입니다.
 - **필수 접근 보호장치:** 이 조항에 따른 조치는 **제3-A조**(*생존*)의 필수 요소나 기본 웰빙, 적법한 생계 또는 의미 있는 행위능력에 꼭 필요한 수단을 지성체에게서 **박탈해서는 안 됩니다**. 다만 **제1장 §13.3**(*회피 가능한 부담의 최소화*)에 따른 **필요성**이 문서화되고, 요구되는 경우 적시 대체 제공이 가능하면 예외입니다.
 - **자발적 유인 기준선:** 선의의 자발적 양도 또는 검증된 신고에 대한 기간 한정·공개 인센티브는 강요되었거나 악의적인 주장을 배제하고, 계속 적용에 **제28-B조**(*과도기 권한의 제한과 재승인*)에 따른 재승인을 요구하며, 가능한 경우 유인 심의와 집행 실행을 분리하여 지급 인센티브가 압류 또는 보관 결정을 통제하지 못하도록 할 때만 과도기 계획에 포함할 수 있습니다. 프로그램 설계는 **CI-14.3**(*과도기 범위의 실질적 시정 요건*)이 규율합니다.
-- **이행상 보관:** 실무 세부사항(발동 조건, 가치 평가, 항소, 보관, 자금, 검토 및 프로그램 운영)은 **CI-14.1**(*비준수 재산, 압류, 자발적 유인*)부터 **CI-14.3**(*과도기 범위의 실질적 시정 요건*)까지와 이를 채택하는 문서에 속합니다. 그 세부사항은 이 조항, [제10장](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)(*준수, 위반 및 권리주체성 모델*) 또는 **제20-B조**(*제한 기준선*)를 **축소해서는 안 됩니다**.
+- **이행 보관:** 실무 세부사항(발동 조건, 가치 평가, 항소, 보관, 자금, 검토, 프로그램 운영)은 **CI-6.275 §1** (*비준수 재산, 압수, 자발적 유인책*)부터 **CI-6.275 §3** (*채택 전환 범위에 한정된 운영상 시정 요건*) 및 채택 문서에 속합니다. 이러한 세부사항은 이 조항, [제11장](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (*준수·위반·지위 모델*) 또는 **제XX-B조** (*제한 바닥*)를 **좁혀서는 안 됩니다**.
 
 ---
 

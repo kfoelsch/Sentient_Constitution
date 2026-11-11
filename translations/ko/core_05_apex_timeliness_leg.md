@@ -81,8 +81,8 @@
 
 **적시성 측정 가족 잎** — 운영 측정 단계:
 
-- [제때 해결](../../core_05.035_band_accountability.md#timely-resolution)
-- [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- **범위 외:** [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution), 형제 리프 및 CJS가 소유한 리프 정의 세부 정보, 측정 레이어 및 구현 메커니즘입니다.
+- [해결 경로 캡처](../../core_05.040_band_continuity.md#capture-of-resolution-pathways);
 
 **가로지름.** 적시성은 참여, 감독, 책무를 가로지른다; 그 다리들은 쓰임이 있으려면 제때에 일어나야 한다.
 

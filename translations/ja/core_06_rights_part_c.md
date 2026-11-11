@@ -193,7 +193,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連根拠</span></strong></summary>
 
 - 上位根拠：第一章[§6.1 是正と救済](core_01_a_values_principles.md#61-correction-and-remedy)（原則上の最低基準）、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 併せて読む：[**第XIII-A条**](#第xiii-a条信頼性と信頼に値する性質の基準)（*信頼性と信頼に値する性質の基準*）—救済への道を開く異議申立て可能性の保証、異議申立ての権利、保護された通報、**第III-A条**（*生存*）、システムの失敗や不整合により生存必需アクセスが失われる場合の[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)、[前文 §6.2 全体の連鎖の仕組み](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)（*検証された分類と適時の救済*）、[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*現実的な執行と救済制度*）、[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救済制度と制度的救済能力*）。
+- 併せて読む：[**第XIII-A条**](#第xiii-a条信頼性と信頼に値する性質の基準)（*信頼性と信頼に値する性質の基準*）—救済への道を開く異議申立て可能性の保証、異議申立ての権利、保護された通報、**第III-A条**（*生存*）、システムの失敗や不整合により生存必需アクセスが失われる場合の[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)、[前文 §6.2 全体の連鎖の仕組み](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)（*検証された分類と適時の救済*）、[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*現実的な執行と救済制度*）、[CI-27](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md)（*救済制度と制度的救済能力*）。
 
 </details>
 
@@ -350,7 +350,7 @@ flowchart TB
   - **第十一章**に基づくセンティエントの責任追及。
   - **第XX-B条**（*制限の最低基準*）。同条は*センティエント*への制限を規律し、*システム*への制限を規律するものではありません。また、センティエントの生命を奪うことを常に禁じます（[不可逆的剥奪措置](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)参照）。
 
-  システムへの措置には、すべてのセンティエントに適用される違反およびロックのルールと同じものが適用されます。違反は**第九章**に基づき記録上で検証されなければなりません。各措置は、[第十章 §5.1](core_09_standing_integration.md#51-definition-and-attachment)（*定義と付与*）および[第十章 §5.2](core_09_standing_integration.md#52-proportionality-and-calibration)（*比例性と調整*）に従って設計・調整されたロックです。
+  システムに対する措置には、すべてのセンティエントに適用されるものと同じ違反およびロックの規則が適用される。違反は**第十二章**に基づきスタンディング記録上で検証されなければならず、各措置は[第十三章§6.1](../../core_13.000_standing_integration.md#61-definition-and-attachment)（*定義および付着*）ならびに[第十三章§6.2](../../core_13.000_standing_integration.md#62-proportionality-and-calibration)（*比例性および調整*）に従って設計・調整されるロックである。
 
   同一の事実に両方の経路が適用されることがあります。本条のいかなる規定も、システム破壊の権限をセンティエントの生命に対する権限に変えるものではありません。
 - **逆もまた同じです：**導入済みシステムがセンティエントであるとの主張が争われていても認められていても、有害な導入を続けることは許されません。
@@ -555,7 +555,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連根拠</span></strong></summary>
 
 - 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-必要性)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.5 権利衝突の判断基準](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 絶対的な上書きの禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
-- 下位根拠：**第I-A条**（*環境上の前提条件と生態系の完全性*）の環境前提条件、**第I-D条**（*存亡リスクと生態系回復能力*）の存亡リスク審査、**第VI-A条**（*尊厳と平等な道徳的地位*）の尊厳、**第XIV-A条**（*安全保障、情報活動、秘密権力の限界*）の秘密権力の限界（公然たる権力の対応規定）、**第十二章 §6.1**（*緊急措置と継続の負担*）の緊急措置の限界、**第XXV条**（*適時の事後審査と回復的整合*）の紛争解決、**第XXVII条**（*移行統治、継続性、基準の再設定*）の移行統治。相互参照：**第XX-B条**（*制限の最低基準*）および第五章の*[不可逆的剥奪措置](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**第XIV条**の*混同禁止*規律が適用されます。
+- 下流への接続: **第I-A条**（*環境上の前提条件および生態系の完全性*）の環境上の前提条件、**第I-D条**（*存亡リスクおよび生態系回復能力*）の存亡リスク審査、**第VI-A条**（*尊厳と等しい道徳的地位*）の尊厳、**第XIV-A条**（*安全保障、情報活動および秘密権力の制限*）の秘密権力の制限（公然たる権力の対応規定）、**第十五章§6.1**（*緊急措置および継続負担*）の緊急措置の制限、**第XXVI条**（*適時な事後審査および修復的整合*）の紛争解決、**第XXVIII条**（*採択移行の統治、継続性および基準の再設定*）の採択移行ガバナンス。相互参照: **第XX-B条**（*制限の最低基準*）および第五章の*[不可逆的剥奪措置](../../core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **第XIV条**（*安全保障、情報活動、武力および自律型強制システム*）の*混同禁止*規律が適用される。
 - 併せて読む：[**Def.A4 武力行使、自律的強制、自律型致死システム、大量危害兵器**](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)（重大な関与がある場合は併用）。第五章の*武力行使*、*大量危害兵器*、*戦闘員・非戦闘員の区別*、*[不可逆的剥奪措置](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*、*存亡リスク*、*可逆性*、*救済と修復*。
 
 </details>
@@ -603,7 +603,7 @@ flowchart TB
   - 強制は**保護特性**またはその重大な代理指標に基づいてはなりません。
   - 良心的兵役拒否、同等の世界観、良心に基づく拒否は、**第XI-A条**（*良心、宗教、同等の世界観の自由*）と整合して保護されます。
   - 基盤の種類だけを理由に合成センティエントを戦闘任務に割り当てるなど、基盤クラスに基づく強制は、**センティエンス非排除**に反し不遵守です。
-- **緊急事態を装った常態化：**公然たる武力を実質的に常態化する緊急事態という説明は、**第十二章 §6.1**（*緊急措置と継続の負担*）の規律および本条の*承認と比例性*に反し不遵守です。対象例：
+- **緊急事態を装った常態化:** 公然たる武力を実質的に常態化する緊急事態の枠付けは、**第十五章§6.1**（*緊急措置および継続負担*）の緊急措置規律および本条の*承認および比例性*の箇条に照らして不適合となる。対象となる例:
   - 無期限の延長。
   - 実質審査を伴わない定型的な再承認。
   - 非緊急行為への範囲拡大。
@@ -1464,7 +1464,7 @@ flowchart TB
 
 - **開示が先：** 報奨には、独立した理解、監査、後日の再現に足る公的開示が必要である。ただし第1章および第XVII-A条に基づき正当化される一時的制限を除く。公的開示は説明が初めて秘密でない形で公衆に提供された時点をいう。秘密に保たれた発明は本条の排他権を得ない。
 - **二段階の期間：** 両段階とも公的開示から数える。排他段階は最長 `disclosure+15` 年で、その間、権利者は他者の許諾を拒める。その終了後から遅くとも `disclosure+30` 年までは、誰でも許可なくLEQUに基づく料金を払って利用でき、権利者は料金以外の拒否、遅延、条件追加をしてはならない。期間後は誰でも自由に使え、帰属と来歴は存続し得る。
-- **LEQU連動料金：** オープンライセンス料金は、発明がもたらす検証済みの憲法上の利益に比例し、[寿命相当単位（LEQU）](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)の貢献軸上の値として[第十章§7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)に従う。
+- **LEQUに基づく料金:** オープンライセンス料は、発明がもたらす検証済みの憲法上の便益に比例して設定する。便益は[寿命等価単位（LEQU）](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)で測定し、[第十二章§6](../../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes)（*統一比例LEQU尺度*）に基づき貢献軸上で測る。
   - 検証済みの利益は、公正賃金で評価するセンティエントの時間として料金に換算する。生産性の利益は利用者が節約した労働時間または追加された生産時間、その他の利益はLEQUが示す寿命相当時間を用いる。賃金は[公正な報酬](../../core_05.040_band_continuity.md#fair-compensation)を満たす。生産性または福祉の検証済み向上が大きいほど報奨は大きくなり得る。
   - 利用者にも実益が残るよう、料金は検証済み利益の一部に限る。その割合は利益の半分を超えず、実際に利益を得るセンティエントが増えるにつれて低下しなければならない（ライセンシー数でなく受益者数で数える）。ただし利用拡大時に総報奨まで縮小するほど急に下げてはならない。料金を課す場合の割合は1％を下回らない。この下限は、本条または採用文書が賞金、共同アクセス、公的買上げ、オープンアクセスを定める場合に料金を義務づけない。
   - 料金は市場支配力、希少性、切替費用、または利用者に強要できる金額に基づけてはならない。時間見積りと賃金率を含む料金表は公表し、同等の状況の利用者には同じものとし、異議申立て可能にする。後述の常時開放利用を価格で排除してはならない。これらは上限であり、個別の権利はなお比例的で、期間短縮も可能である。

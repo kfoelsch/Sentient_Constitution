@@ -54,7 +54,7 @@
 
 - 상류: [제2장 §1 — 목적과 역할](core_02_definition_structure.md#1-목적과-역할); [제2장 §2 정의 완전성 요건](core_02_definition_structure.md#2-정의-완전성-요건); [제3장 §2 — 관찰 가능한 체계 행위에서 오는 비준수](core_03_definition_integrity.md#2-관찰-가능한-체계-행위에서-오는-비준수).
 - 하류: [제4장 §§1과 4 — 전속 집행과 부담 배분; 준수 증거 표준](core_04_burden_traceability_verification.md#1-전속-집행과-부담-배분); [제8장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [비준수 소견 프로필](../../core_05.035_band_accountability.md#non-compliance-finding-profile).
-- 함께 읽기: [제1장 §11.3 어긋남 탐지](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)와 [§11.4 어긋남 교정과 포획 응답](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **헌법 어긋남**은 책임 있는 관리와 유인의 갈라짐이며; **비준수**의 대체 꼬리표가 아니다; [잔여 위험 / 어긋남](../../core_05.040_band_continuity.md#residual-risk--misalignment) — 완화 뒤의 한정된 잔여 위험; [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — 제7장의 인증 다리이지, 일반 비준수 판결이 아니다.
+- [§19.4 오정렬 수정 및 캡처 응답](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **헌법적 오정렬**은 책임 있는 관리 및 인센티브 발산입니다. **비준수**에 대한 대체 라벨이 아닙니다.
 
 </details>
 
@@ -101,7 +101,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [전문 §3.3 거버넌스 층 규율](core_00_preamble.md#33-거버넌스-층); [제1장 §5 자유](core_01_a_values_principles.md#7-freedom-bounded-agency).
+- 다운스트림: 원칙: [서문 §3.3 거버넌스 계층 규율](core_00_preamble.md#33-governance-layers); [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency)(1.000 §7).
 - 주관 바닥: [제12장: 헌법 계약, 정당성, 수권, 책임 있는 관리](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [제 X-C조: 거버넌스 참여와 투표 자격](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - 무리 구성 요소: [*헌법 계약 층과 기초 헌법 선택*](core_05_band_integrative.md#헌법-계약-층)
 - 함께 읽기: [기초 헌법 선택](core_05_band_integrative.md#기초-헌법-선택), [구속력 있는 영향받는 쪽 선택](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [영향받는 쪽 지위와 무게](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster), [거버넌스](../../core_05.035_band_accountability.md#governance).
@@ -121,9 +121,9 @@
 
     그것은 다음을 포함한다:
     - [기초 헌법 선택](core_05_band_integrative.md#기초-헌법-선택);
-    - [문서화된 정당성 메커니즘](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) ([제12장 §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) 아래);
-    - [채택](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption)과 [재수권](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) 규칙 ([제12장 §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [제16장 §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); 그리고
-    - 통치 권한을 구성하거나 오래가게 재구조화하기 위한 [정치 평등 바닥](../../core_14.000_governance.md#41-entitlement-and-eligibility) — 자격 있는 감지자는 그 층에서 같은 목소리를 갖는다 ([제 X-C조](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
+    - [문서화된 정당성 메커니즘](core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority) ([제12장 §1.1](core_12_governance.md#11-mechanism-families-auditability-and-pluralism) 아래);
+    - [채택](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption)과 [재수권](core_12_governance.md#11-mechanism-families-auditability-and-pluralism) 규칙 ([제12장 §1.3](core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [제16장 §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); 그리고
+    - 통치 권한을 구성하거나 오래가게 재구조화하기 위한 [정치 평등 바닥](core_12_governance.md#41-entitlement-and-eligibility) — 자격 있는 감지자는 그 층에서 같은 목소리를 갖는다 ([제 X-C조](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **범위 밖:**
     - 보통의 영향받는 쪽 자문;
     - 운영 참여;
@@ -138,7 +138,7 @@
 
     **일차 평가:**
     - 그 일이 헌법 계약 층 질문인지 묻라: 누가 통치하는지를, 어떤 정당성 메커니즘으로, 어떤 오래가는 조건 아래에서 수권하는가. 그 기능이 이 층을 표시한다 — 체계가 얼마나 크고, 크고, 널리 쓰이는지가 아니다.
-    - 그 계약의 헌법 정합을 점검하라: 주장된 권한은 [문서화된 정당성 메커니즘](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority), 기초 선택이 적용되는 곳의 [정치 평등 바닥](../../core_14.000_governance.md#41-entitlement-and-eligibility), 그리고 이 헌법 아래 통치 권력이 답을 묻게 하는 책임 있는 관리와 권리 바닥 의무와 맞아야 한다 ([제1장 §11.1 정합 요건](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)).
+    - 그 계약의 헌법 정합을 점검하라: 주장된 권한은 [문서화된 정당성 메커니즘](core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority), 기초 선택이 적용되는 곳의 [정치 평등 바닥](core_12_governance.md#41-entitlement-and-eligibility), 그리고 이 헌법 아래 통치 권력이 답을 묻게 하는 책임 있는 관리와 권리 바닥 의무와 맞아야 한다 ([제1장 §11.1 정합 요건](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)).
     - [전문 §3.3 거버넌스 층 규율](core_00_preamble.md#33-거버넌스-층)을 적용하라: 창설 수권을, 이미 수권된 체계 안의 보통 영향받는 쪽 참여와 따로 두라.
     - 침묵, 체계를 그저 쓰는 것, 시장 존재, 브랜드를 헌법 계약이나 통치에 대한 동의로 다루지 말라.
 <a id="constitutional-contract-layer-c"></a>
@@ -157,8 +157,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [제1장 §5 자유](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. 과정 충돌 해결](core_05_band_integrative.md).
-- 주관 바닥: [제12장 제1장 §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*기초 헌법 선택을 위한 정치 평등 바닥*; *오래가는 정치 목소리 바닥*); [제 X-C조: 거버넌스 참여와 투표 자격](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- 다운스트림: 원칙: [1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [13. 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- 권리 계층 포인터: [X-B조](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)(*거버넌스 참여 및 투표 자격*).
 - 무리 구성 요소: [*헌법 계약 층과 기초 헌법 선택*](core_05_band_integrative.md#헌법-계약-층)
 - 함께 읽기: [헌법 계약 층](core_05_band_integrative.md#헌법-계약-층), [영향받는 쪽 대표와 무게 한도 (구속력 있는 영향받는 쪽 선택)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [구속력 있는 영향받는 쪽 선택](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [절차 공정](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - 층: **헌법 계약 층 (CCL)**. 이미 수권된 체계 안의 **영향받는 쪽의 체계 참여 (SSP)** 와 구별된다.
@@ -176,7 +176,7 @@
     - 그 권한의 범위와 오래가는 조건.
 
     이것은 [헌법 계약 층](core_05_band_integrative.md#헌법-계약-층)에 속한다.
-    - 주관자: [제12장 제1장 §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
+    - 주관자: [제12장 제1장 §4.1](core_12_governance.md#41-entitlement-and-eligibility).
     - 권리 층 포인터: [제 X-C조](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*거버넌스 참여와 투표 자격*).
     - [감지 비배제](../../core_05.055_band_participation.md#sentience-non-exclusion) 아래에서 적용된다.
   - **범위 밖:**
@@ -212,7 +212,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽기: [생산 능력](../../core_05.040_band_continuity.md#productive-capacity-constitutional), [헌법 효율](../../core_05.040_band_continuity.md#constitutional-efficiency), [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) — [제1장 §11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) 아래 정당한 보상 추적을 위한 헌법 근거; 청구인이 능력이나 효율 이득으로 배타를 정당화하는 곳에서, 그 주장은 [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) 아래 결과에 추적 가능하게 남아야 한다.
+- 헌법 보증: [1장 §19.1.3 책임 있는 관리 및 운영자 신청](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)에 따라 보상은 [생산 능력](../../core_05.040_band_continuity.md#productive-capacity) 및 [헌법적 효율성](../../core_05.040_band_continuity.md#constitutional-efficiency)을 합법적으로 추적할 수 있습니다. [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)은 바쁜 업무에 대한 보상, 창고 보관 또는 헌법상 목적에 부합하지 않는 인클로저 마찰로부터 보호합니다.
 - 직접 헌법 영향이 있는 혁신에 대해, 공익은 제8장 아래 기여 크기의 한 측정으로 [수명 등가 단위 (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)를 써서 평가할 수 있다.
 
 </details>
@@ -303,7 +303,7 @@
 
 **준독립 맥락** (구성 정의는 공동 호출 범위 밖에서도 여전히 작동할 수 있다):
 
-- **공동 호출:** 유인 구조, 대리지표 완전성, 또는 조건 결제 규율이 [제1장 §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) 아래 실질인 곳.
+- **공동 호출:** [1장 §19 인센티브 조정 및 시스템 캡처](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)에 따라 인센티브 구조, 대리 무결성 또는 조건부 결제 규율이 중요한 경우.
 - **범위:** 공동 호출이 충족되는 곳, 보상, 목표, 거버넌스 신호가 헌법 결과에 정합된 채로 남는지 — 대리지표 완전성과 조건 결제 규율을 포함 — 를 위한 책무 측정 가족의 공동 거처.
 
 **주제 무리 구성원.** 이 무리는 다음으로 이루어진다:
@@ -324,9 +324,9 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 책무 측정 가족 (*헌법 측정으로서의 유인 정합과 대리지표 완전성*); 원칙: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) 아래 사원(四元) 포획 규율; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절); [제7장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)와 [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- 원칙 층 규칙: [제1장 §11.1 정합 요건](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)과 [제1장 §11.2 편한 대리지표와 대리지표 이탈](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); 책임 있는 관리와 운영자 적용: [제1장 §11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)과 [§11.1.4 역할 깊이와 실질 책임 경로](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
-- 어긋남 탐지: [제1장 §11.3 어긋남 탐지](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
-- 능동 교정과 포획 확대: [제1장 §11.4 어긋남 교정과 포획 응답](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
+- [§19.1.4 역할 깊이 및 물질적 책임 경로](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
+- 다운스트림: 원칙: [1장 §19.3 정렬 불량 감지](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)(1.010 §19.3).
+- 다운스트림: 원칙: [1장 §19.4 오정렬 수정 및 캡처 응답](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)(1.010 §19.4).
 - 무리 구성 요소: [유인 정합, 대리지표 완전성, 조건 결제](core_05_band_integrative.md#incentive-alignment-semi-independent)
 - 함께 읽기: [*거버넌스 구조, 감독, 의존, 분권, 집중, 시장 구조, 출구 경로 완전성*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) — 의존, 집중, 거버넌스 형태 유인, 또는 출구 품질 분석이 실질로 연루되는 곳; [제5장 *조건 청구, 사건 계약 시장, 우연 게임, 내부자 이점*](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) — 조건 구조가 실질로 연루되는 곳; 체계 포획, 대리지표 이탈, 진실(헌법 제약), 인식 완전성, 의미 있는 행위주체성.
 
@@ -478,7 +478,7 @@
 - **어떻게 측정하고 평가하는가**
   - **일차 측정:** [책무 측정 가족](core_05_apex_accountability_leg.md#accountability-measurement-family) — *보상 구조, 시장 힘, 답할 의무는 의무를 실제로 유지하는가?* 여기서는 내기, 예측 시장, 우연 기반 지급이 불법 해, 내부자 권력, 또는 공적·수탁 결정의 비틀기를 보상하지 않는지 묻는다.
 
-    **일차 평가:** 그런 체계는 [제1장 §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)를 충족해야 하며, 다음을 포함한다:
+**1차 평가:** 이러한 시스템은 다음을 포함하여 [제1장 §19.5 불확정 클레임, 확률 게임 및 이벤트 계약 시장](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)을 충족해야 합니다.
     - 감지자가 내기하거나 결제할 수 있는 바탕 사건에 [필요성](../../core_05.035_band_accountability.md#necessity)과 [비례](../../core_05.035_band_accountability.md#proportionality)를 적용하라;
     - 결과 해결을 공정하고 독립으로 유지하라 — 실행 가능한 곳에서 원천을 둘 이상 쓰고, 다툼 경로를 열려 두라;
     - 어떤 행위자가 맡을 수 있는 집중, 지렛대, 노출을, 감지자와 더 넓은 체계가 얼마나 취약한지에 맞춰 세기 조절해 한정하라;
@@ -488,7 +488,7 @@
 
     **이차 평가:** 일차 측정을 점검할 때, 이 겹침이 여전히 어긋남을 보이는지 묻라:
     - 결과 조작 [위험](../../core_05.040_band_continuity.md#risk);
-    - [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); 또는
+- [해결 경로 캡처](../../core_05.040_band_continuity.md#capture-of-resolution-pathways); 또는
     - [내부자 이점](../../core_05.035_band_accountability.md#insider-advantage)이나 다른 특권 정보 경로.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **무엇이 버티어야 하는가**
@@ -575,7 +575,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 하류: 원칙: [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (코퍼스를 통합된 전체로 읽음); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리; [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — 편입과 보관 아래 **연속** 목적; [2. 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (구속 원천 식별).
+- [20. 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (통합된 전체로 읽기 자료);
 - 하류: [제16장 — 편입 다리](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*어느 채택된 **시행 텍스트**가 구속하는지, 판본 고정, 보관 사슬, 고요한 어긋남 금지 규율*).
 - 함께 읽기: [권위 스택과 내부 위계](core_05_band_integrative.md#authority-stack)와 [헌법 제약](core_05_band_integrative.md#헌법-제약).
 - 함께 읽기: [전문 — 헌법 주관자 등록](core_00_preamble.md#4-원칙-정의-권리) (*양의 영역→주관자 지도*, 4–7절).
@@ -620,8 +620,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 원칙: [2. 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (권위 스택 대 내부 위계를 제1장과 함께 읽음).
-- 하류: [제1장 — §8 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (통합 읽기와 최후 수단 위계); [제1장 §8.4 헌법 의미 충돌 해결](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*편입 층을 포함한 단일 충돌 절차*); [제14장 — 채택하는 이를 위한 내부 위계](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [제16장](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*편입 다리 — 보관, 판본, 채택; 두 번째 스택이나 충돌 순서 거처가 아님*).
-- 하류: [제6장 — 층 범위](../../core_06.000_rights_part_a.md#12-layer-scope); [제13장 §4 층 범위](../../core_15.000_non_regression.md#4-layer-scope)와 [제15장 §12 층 범위](../../core_17.000_amendment_ratification.md#12-layer-scope) (*주관자 자리 옮김 금지를 국소에 적용*); 번호 `core_*` 문서 전체에 걸친 장 열림 주관 주장.
+- 하류: [제1장 — §8 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (통합 읽기와 최후 수단 위계); [제1장 §8.4 헌법 의미 충돌 해결](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*편입 층을 포함한 단일 충돌 절차*); [제14장 — 채택하는 이를 위한 내부 위계](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [제16장](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*편입 다리 — 보관, 판본, 채택; 두 번째 스택이나 충돌 순서 거처가 아님*).
+- 하류: [제6장 — 층 범위](../../core_06.000_rights_part_a.md#12-layer-scope); [제13장 §4 층 범위](core_13_non_regression.md#4-layer-scope)와 [제15장 §12 층 범위](../../core_19.000_amendment_ratification.md#12-layer-scope) (*주관자 자리 옮김 금지를 국소에 적용*); 번호 `core_*` 문서 전체에 걸친 장 열림 주관 주장.
 - 함께 읽기: [코퍼스](core_05_band_integrative.md#코퍼스); [전문 — 헌법 주관자 등록](core_00_preamble.md#4-원칙-정의-권리) (*양의 영역→주관자 지도*, 4–7절); [감사 가능성](core_05_band_oversight.md#감사-가능성)과 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability) (*구속 주장의 실무 집행 가능성*); [전문 §3.3](core_00_preamble.md#33-거버넌스-층)과 [헌법 계약 층](core_05_band_integrative.md#헌법-계약-층) (*거버넌스 층 대체 금지*); [헌법 제약](core_05_band_integrative.md#헌법-제약); **CJS-0.1** (*시행 주제 라우터*).
 
 </details>
@@ -667,13 +667,13 @@
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **최고효력:** 구속 코퍼스 의무는 그 유효한 원천, 채택, 거버넌스 층 범위 안에서 이긴다. 그 최고효력 효과는 이 항목을 운영 [코퍼스](core_05_band_integrative.md#코퍼스)와 적용되는 채택 또는 편입 문서와 함께 적용한 결과다 — [제14장](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms)의 다른 규범에 대한 최고효력과 [제14장 §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)의 적용되는 외부법을 밀어내지 않음을 포함한다. 시행, 지원 텍스트, 사적 질서, 비상 틀, 또는 운영 관행은 그 구속 의무를 그 유효 범위 안에서 좁혀서는 안 된다.
+    - **최고효력:** 구속 코퍼스 의무는 그 유효한 원천, 채택, 거버넌스 층 범위 안에서 이긴다. 그 최고효력 효과는 이 항목을 운영 [코퍼스](core_05_band_integrative.md#코퍼스)와 적용되는 채택 또는 편입 문서와 함께 적용한 결과다 — [제14장](../../core_18.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms)의 다른 규범에 대한 최고효력과 [제14장 §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)의 적용되는 외부법을 밀어내지 않음을 포함한다. 시행, 지원 텍스트, 사적 질서, 비상 틀, 또는 운영 관행은 그 구속 의무를 그 유효 범위 안에서 좁혀서는 안 된다.
 
     구속 주장의 실무 집행 가능성 — 종이 약속이 아니라 관찰 가능하고 다툴 수 있는 준수 — 는 [감사 가능성](core_05_band_oversight.md#감사-가능성)과 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability) 아래에서 평가된다. 거버넌스 층 대체 금지 (헌법 계약 대 영향받는 쪽의 체계 참여)는 [전문 §3.3](core_00_preamble.md#33-거버넌스-층)과 [헌법 계약 층](core_05_band_integrative.md#헌법-계약-층) 아래에 산다.
 
-    채택하는 이에게, **제14장**의 [채택하는 이를 위한 내부 위계](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)가 구속력 있는 헌법과 채택된 시행 텍스트 사이의 선에서 이 같은 짝 규칙을 적용한다:
+    채택하는 이에게, **제14장**의 [채택하는 이를 위한 내부 위계](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)가 구속력 있는 헌법과 채택된 시행 텍스트 사이의 선에서 이 같은 짝 규칙을 적용한다:
     - 이 헌법과 그 통합 정의가 텍스트가 어떻게 읽히고 무엇이 준수로 세는지를 통제하고; 그리고
-    - 채택된 시행 텍스트는 실제로 채택된 범위 안에서만 적용되며, [제13장 비회귀](../../core_15.000_non_regression.md)나 이 항목에 말해진 최고효력 효과를 되돌릴 수 없다.
+    - 채택된 시행 텍스트는 실제로 채택된 범위 안에서만 적용되며, [제13장 비회귀](core_13_non_regression.md)나 이 항목에 말해진 최고효력 효과를 되돌릴 수 없다.
   - **범위 밖:** 그 자체로서의 지원 문서 주석, 지도, 작업 목록, 또는 채택 브랜드 — 그것들은 권위 스택 층이 아니다; 원천 선행을 다시 배열하거나 구속 의무를 밀어내는 것으로 내세워지지 않은 선택 안내.
 <a id="authority-stack-a"></a>
 - **어떻게 측정하고 평가하는가**
@@ -682,8 +682,8 @@
     **일차 평가:**
     - 먼저 권위 스택 아래 운영 판본/보관 사슬과 원천 층을 식별하라.
     - 그다음 [전문 — 헌법 주관자 등록](core_00_preamble.md#4-원칙-정의-권리) (과 장 열림 주관 주장)에서 주관 거처를 식별하라; 실체는 그 주관 거처에서만 적용하라 — 다른 곳에서는 포인터만 쓰라.
-    - 그다음 [제1장 — §8 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) 아래 통합 읽기를 적용하라.
-    - 통합된 전체로서의 헌법의 가장 온전한 보호 효과와 [제6장](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)의 축소 금지 기본값을 지키라.
+- [제1장 §15.3 모호성 해결](core_01_b_interaction_interpretation.md#153-ambiguity-resolution)의 모호성 규칙;
+- [6장](core_06_rights_part_a.md#chapter-six-foundational-rights) 비축약 기본값이 여전히 유지됩니다.
     - 내부 위계는 최후 수단 잔여 규칙으로만 쓰라; 보통의 통합 읽기를 바꾸거나, 정전 용어 의미에 대한 단순한 이견을 푸는 데 쓰지 말라.
     - 다툼이 용어 의미이면, 제5장 정전 정의가 모든 층에서 다스린다.
     - CS, CI, CF, CJS에 걸쳐 라우팅된 시행 주제에 대해, 주관자 식별 뒤 **CJS-0.1** (주제 라우터)를 적용하라.
@@ -703,12 +703,12 @@
     - 열망 말이나 국소 관행을 써서 유효한 원천과 거버넌스 층 범위 안의 구속 코퍼스 의무를 밀어내는 것;
     - 한 주관 층의 의무를 다른 주관 층 안에 실체로 다시 쓰는 것, 독자 안내 산문을 운영 효과로 올리는 것을 포함;
     - 주관 층이 그 권한을 제8장부터 제10장에 유보한 곳에서, 효력이나 거버넌스 장의 방아쇠, 회부, 또는 확대 말을 최종 분류나 제재법으로 다루는 것;
-    - 과정, 거버넌스, 또는 시행 틀을 써서 [제6장](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) 권리 바닥을 [제13장](../../core_15.000_non_regression.md) 비회귀와 제6장 열림 계약에 반해 좁히거나, 다시 정의하거나, 자리를 옮기는 것;
+    - 과정, 거버넌스, 또는 시행 틀을 써서 [제6장](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) 권리 바닥을 [제13장](core_13_non_regression.md) 비회귀와 제6장 열림 계약에 반해 좁히거나, 다시 정의하거나, 자리를 옮기는 것;
     - [전문 주관자 등록](core_00_preamble.md#4-원칙-정의-권리)이 이미 정전 거처를 붙인 곳에서 비주관 층에 평행 분류나 작업 흐름을 만드는 것;
     - 확립된 원천 위계를 뒤집거나, 시행, 지원 텍스트, 사적 질서, 비상 틀, 또는 운영 관행이 유효 범위 안의 구속 코퍼스 의무를 밀어내게 하는 방식으로 최고효력이나 준수를 주장하는 것;
     - 내부 위계를 지름길로 써서 더 가혹한 읽기를 고르거나, [제6장](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) 권리 바닥 보호를 [제1장](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)이 명시로 허용하는 것 밖으로 줄이거나, 보통 읽기에서 한 원천 층을 다른 층과 바꾸는 것;
     - 제5장 정의를 원칙이나 조를 덮는 경쟁 법체로 다루는 것 ([제1장 — §8 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); 또는
-    - 채택하는 이에게, 채택된 시행 텍스트가 채택 범위 안에서 이 헌법을 덮거나 [제13장](../../core_15.000_non_regression.md) 비회귀 바닥을 느슨하게 한다고 다루는 것 (**제14장**의 [채택하는 이를 위한 내부 위계](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)).
+    - 채택하는 이에게, 채택된 시행 텍스트가 채택 범위 안에서 이 헌법을 덮거나 [제13장](core_13_non_regression.md) 비회귀 바닥을 느슨하게 한다고 다루는 것 (**제14장**의 [채택하는 이를 위한 내부 위계](../../core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)).
 
 ---
 
@@ -719,7 +719,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [제1장 §3 타협 불가 원칙 제약: 안전과 진실](core_01_a_values_principles.md); [제1장 §6 과정 충돌 해결](core_01_b_interaction_interpretation.md).
+- 업스트림: 원칙: [제1장 §2.1 협상 불가능한 제약 조건: 안전 및 진실](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)(1.000 §2.1); [제1장 §13 헌법충돌해결절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)(1.005 §13).
 - 함께 읽기: [안전(제약)](../../core_05.040_band_continuity.md#safety-constraint), [진실(헌법 제약)](core_05_band_oversight.md#진실헌법-제약), [권위 스택과 내부 위계](core_05_band_integrative.md#authority-stack), [해](../../core_05.035_band_accountability.md#harm).
 
 </details>

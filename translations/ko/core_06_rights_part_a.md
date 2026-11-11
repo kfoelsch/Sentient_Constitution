@@ -179,7 +179,7 @@
 - **전제, 완전성, 지속가능성:** 제5장의 **환경 전제**, **생태 완전성**, **지속가능성**은 이 조 아래에서 운영된다.
   - 생명을 받치는 자연 체계는 자신의 연속과 완전성 이익을 가진다. 그 이익은 감지자 이익과 함께 해석을 알린다.
   - 이 조를 어기는 실질 해 — **환경 전제**, **생태 완전성**, **지속가능성** 아래에서 판단 — 는 비준수다.
-  - 채택 주체의 [채택 문서](../../core_17.000_amendment_ratification.md) 또는 채택 범위 안의 편입된 시행 텍스트가 이름 붙인 환경 요건을 어기는 해도 비준수다.
+  - 채택 주체의 [채택 문서](../../core_19.000_amendment_ratification.md) 또는 채택 범위 안의 편입된 시행 텍스트가 이름 붙인 환경 요건을 어기는 해도 비준수다.
 - **동물 생명 상호작용:** [동물 생명](../../core_05.055_band_participation.md#animal-life)은 **자연 체계의 궤적**과 감지자를 위한 제6장 권리 바닥 사이의 복지 보호 영역을 차지한다.
   - 복지와 같은 해가 실질로 걸리는 곳에서 **감지 비배제** 아래 동물 생명에 대한 최소 잔혹·복지 바닥을 세운다.
   - 기록이 그 질문을 실질로 걸면, 높아진 소통 대우나 감지 지위 재결의 대체가 아니다.
@@ -301,7 +301,7 @@
   결정 기록은 불확실성, 가정, 증거 한도, 불일치, 실질 공백을 공개로 말해야 한다.
 - **부담과 기록의 구체 기준:** 검토 발동 조건이 충족되면 인가, 계속 또는 확대를 구하는 행위자가 제4장 §1에 따른 부담을 지고 최고 수준의 검토를 충족해야 한다. 불확실성, 증거 다툼 또는 낮은 추정 확률로 부담이 면제되지 않는다. 제4장 §5의 준수 증거 기준에 따라 실질적으로 더 안전한 각 대안은 검토 대상 활동에 채택하거나, 정당한 목적을 달성하지 못하거나 이용할 수 없음을 보여야 한다. 대안을 검토했다는 기록만으로는 충분하지 않다. 완화와 중단 조치는 가능한 피해 규모에 비례해야 한다. 감시는 피해가 되돌릴 수 없게 되기 전에 원인 경로를 중단할 수 있도록 충분히 일찍 탐지해야 하며, 지명된 행위자는 중단 권한과 실제 역량을 모두 가져야 한다. 중요한 새 증거, 확대, 위험에 비례한 주기마다 부담을 다시 충족해야 한다. 이를 충족하지 못하면 비준수이며 제3장 §3의 결과가 따른다. 인가, 계속 또는 확대 결정은 각각 실질적 구속력이 있는 행위다. 그 기록은 행위자의 입증과 검토자의 평가를 연결하고 불확실성, 가정, 증거 한계, 이견, 중요한 공백을 공개해야 한다.
 - **현재 이익 한도:** 현재 이익은 미래 감지자, 생태 회복에 결정적인 체계, 또는 생명을 받치는 생태 조건을 문명 규모 또는 생존 결정적 해에 불균형하게 노출하는 것을 정당화하지 않는다. 또한 어떤 자연 생태계든 규모와 관계없이 그 [생태 회복 능력](../../core_05.040_band_continuity.md#ecological-recovery-capacity)의 비가역 상실에 노출하는 것을 정당화하지 않는다.
-- **명명된 조치:** 이 조 아래 인가, 계속, 또는 확대를 구하는 행위자는 [채택 문서](../../core_17.000_amendment_ratification.md) 또는 채택 범위 안의 편입된 시행 텍스트에서, 경로에 비례하는 감축, 상한, 또는 중단 조치를 이름 붙여야 한다 — [환경 전제](../../core_05.040_band_continuity.md#environmental-preconditions) 요인으로서 기후 체계에 대한 해를 포함. 이 조는 여전히 숫자 목표를 정하지 않는다. **제 I-B조** (*생태 발자국과 투명*)는 발자국 귀속 하위절로 남으며, 홀로 감축을 요구하지 않는다. 이 조 아래 믿을 수 있는 경로가 열린 채로 그 명명된 조치 없이 계속하는 것은 비준수다.
+- **명명된 조치:** 이 조 아래 인가, 계속, 또는 확대를 구하는 행위자는 [채택 문서](../../core_19.000_amendment_ratification.md) 또는 채택 범위 안의 편입된 시행 텍스트에서, 경로에 비례하는 감축, 상한, 또는 중단 조치를 이름 붙여야 한다 — [환경 전제](../../core_05.040_band_continuity.md#environmental-preconditions) 요인으로서 기후 체계에 대한 해를 포함. 이 조는 여전히 숫자 목표를 정하지 않는다. **제 I-B조** (*생태 발자국과 투명*)는 발자국 귀속 하위절로 남으며, 홀로 감축을 요구하지 않는다. 이 조 아래 믿을 수 있는 경로가 열린 채로 그 명명된 조치 없이 계속하는 것은 비준수다.
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### 제 II조: 물질의 책임 있는 관리와 오래 쓰는 사용 완전성
@@ -477,7 +477,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- 함께 읽기: [제 XXI-A조](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*이식권*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**; **CJS-3.17** (*상호운용, 이식, 출구 완전성 조건*)과 **CJS-3.18** (*데이터 보존과 수명주기 완전성 조건*); [제1장 §19.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#196-소유권-또는-구조가-바뀌어도-책임-유지); [제9장 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding)과 [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- 함께 읽기: [제 XXI-A조](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*이식권*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**; **CJS-3.17** (*상호운용, 이식, 출구 완전성 조건*)과 **CJS-3.18** (*데이터 보존과 수명주기 완전성 조건*); [제1장 §19.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#196-소유권-또는-구조가-바뀌어도-책임-유지); [제9장 §9.1](../../core_13.000_standing_integration.md#101-remediation-capacity-and-funding)과 [§9.4](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -496,7 +496,7 @@
 
 *쉬운 말로: 제품이 작동하려면 운영자의 서버가 필요할 때, 운영자는 앞에서 말하고, 비밀이 참으로 요구하는 곳을 빼고는 연속 결정적 데이터를 내보낼 수 없는 형태로 가두지 말고, 서비스가 끊기면 무슨 일이 일어나는지를 계획하고, 파산이나 매각이 그 연속 의무를 지우게 해서는 안 됩니다.*
 
-- **데이터 처리:** 운영자는 이 조의 데이터를 [CS-2 — 정보 유형과 처리](../../corpus_systems/cs_06.305_information_types_and_handling.md)에 따라 분류·처리해야 한다([제18장](../../core_18.000_incorporation.md)에 따라 편입된 경우). 여기에는 [§1.3](../../corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)의 고지·삭제 규칙과 [§1.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)의 연속성 핵심 데이터 내보내기 규칙이 포함된다.
+- **데이터 처리:** 운영자는 [CS-6.305 — 정보 유형 및 처리](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)의 요구에 따라 분류하고 처리해야 하며, [제20장](../../core_20.000_incorporation.md)에 따라 편입한다.의 요구에 따라 이 조의 데이터를 분류하고 처리해야 한다. 여기에는 [CS-6.305 §1.3 수집 고지 및 삭제](../../corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)의 고지·삭제 규칙과 [CS-6.305 §1.2 연속성 핵심 데이터 수집 및 내보내기 가능성](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)의 내보내기 규칙이 포함된다.
 - **바닥:** 합법 핵심 사용이 운영자가 통제하는 망 서비스에 의존하는 제품에 대해, 운영자는 실질로 구속하는 약속 전에, **실질성**과 의존에 비례하여, 다음 전부를 공개해야 한다:
   - 무엇이 계속 운영자 접근을 요구하는지;
   - 서비스가 끝나면 무엇이 저하되거나 실패하는지;
@@ -522,7 +522,7 @@
   - 공개된 내보내기 경로 아래 연속 결정적 데이터의 쓸 수 있는 내보내기 또는 인수인계, 중단과 이전 창을 가로질러 보존 — 시도하겠다는 재량 약속만이 아니다.
 
   운영자는 제5장 아래 행위가 **과실**로 자격을 갖출 때 — 유지, 지원, 또는 연속 의무를 소홀히 해서 시간에 걸쳐 쌓이는 해를 포함 — 여전히 헌법 표준에 묶일 수 있다.
-- **승계와 형식 구조 의무:** 구조조정, 매각, 관리, 또는 지급불능은 그 자체로 이 조가 말한 연속 의무를 소멸시키지 않는다. [제1장 §19.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#196-소유권-또는-구조가-바뀌어도-책임-유지)과 [제9장 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)와 함께 읽으라 및 **제 II-E조** (*데이터 처리와 네트워크 의존*)의 의무도.
+- **승계와 형식 구조 의무:** 구조조정, 매각, 관리, 또는 지급불능은 그 자체로 이 조가 말한 연속 의무를 소멸시키지 않는다. [제1장 §19.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#196-소유권-또는-구조가-바뀌어도-책임-유지)과 [제9장 §9.1](../../core_13.000_standing_integration.md#101-remediation-capacity-and-funding) / [§9.4](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)와 함께 읽으라 및 **제 II-E조** (*데이터 처리와 네트워크 의존*)의 의무도.
 
 *조의 이웃:* **제 II조** (*물질의 책임 있는 관리와 오래 쓰는 사용 완전성*)의 **시정**은 이 장 열림에 말한 **해석 허브**를 따른다 (다툼과 구제; 정의와 격상).
 
@@ -610,7 +610,7 @@
 - **연결:** 정보권과 핵심 정보·통신 체계에 대한 접근은 현대 감지자 사회 참여의 기초 요건이다.
   - 감지자는 행위주체성, 인식, 의미 있는 참여를 유지하기에 충분한 접근을 가져야 한다.
   - 그 접근에 대한 어떤 한도든, 보안, 안전, 또는 합법 운영 한도가 실질로 더 좁은 접근을 요구하는 곳에서 [필요성](../../core_05.035_band_accountability.md#necessity), [비례](../../core_05.035_band_accountability.md#proportionality), [안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)을 충족해야 한다.
-교차 참조: **제 XXVIII-D조** (*비준수 재산과 체계; 자발적 인도 유인*) 이행을 가로지른 필수 환경 연속을 위한 이행 책임 있는 관리 규율 — 운영 세부는 [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **제5장** [*점유 연속*](../../core_05.040_band_continuity.md#occupancy-continuity), [*필수 환경 상품화 금지*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), 해당하는 곳에서 [**§3.7** *신체 유지 접근, 안전 조건, 점유 연속, 환경 전제, 문화 연속, 휴식, 축출 금지 바닥*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)의 공동 호출 무리.
+교차 참조: **제 XXVIII-D조** (*비준수 재산과 체계; 자발적 인도 유인*) 이행을 가로지른 필수 환경 연속을 위한 이행 책임 있는 관리 규율 — 운영 세부는 [[**CI-14.1**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **제5장** [*점유 연속*](../../core_05.040_band_continuity.md#occupancy-continuity), [*필수 환경 상품화 금지*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), 해당하는 곳에서 [**§3.7** *신체 유지 접근, 안전 조건, 점유 연속, 환경 전제, 문화 연속, 휴식, 축출 금지 바닥*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)의 공동 호출 무리.
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### 제 III-B조: 신체 유지와 건강 돌봄 접근

@@ -19,6 +19,10 @@
 
 **पहिला तुकडा, वास्तुकलेनुसार.** प्रेषण क्रम आधी सोप्या-प्रवेश सारांश, अधिकार-तळ पत्रक आणि सार्वजनिक द्वार मागतो. हा पायलट जाणूनबुजून [प्रस्तावना](core_00_preamble.md) आणि [अध्याय एक, भाग अ](core_01_a_values_principles.md) अनुवादित करतो, जेणेकरून एका क्रमांकित `core_*` चा खर्च मोजता येईल. वाचक-द्वार राजकीय हस्तक्षेप नाही.
 
+
+
+**अद्यतन व्याप्ती (2026-11-11).** या फोल्डरमध्ये इंग्रजी स्रोत कमिट `05b7b839` वर आधारित अध्याय 11 आणि 12 चे सध्याच्या स्रोताशी जुळवलेले, AI-सहाय्यित मसुदे आहेत. त्यांचे स्वतंत्र पुनरावलोकन झालेले नाही. आधीचे अनुवाद जुन्या स्रोत-स्नॅपशॉटवर आधारित असू शकतात; इंग्रजी मूळ निर्णायक आहे.
+
 ## फाइल
 
 | फाइल | इंग्रजी मूळ |
@@ -42,9 +46,15 @@
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 
 पायलटच्या दुव्या अजून अननुवादित इंग्रजी फाइलकडे जातात. HTML अँकर (`id`) मूळापासून नकल आहेत, जेणेकरून खंड-खंड तुलना करता येईल.
 

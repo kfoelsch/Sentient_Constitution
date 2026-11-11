@@ -89,9 +89,9 @@ flowchart TB
 
 <br>
 
-*平易に言えば、**第XXVI条**（*適時の事後審査と修復的整合*）は、紛争解決と審査に関する権利最低基準であり、**第XX条**（*検証済み違反後の正義*）を補完します。センティエント、システム、機関が憲法上の権利最低基準をめぐって衝突したときに必要なのは、公正で使いやすく、異議を申し立てられる手続であり、無期限の遅延や恒久的な緊急状態ではありません。緊急事態や重大な権利衝突の後、システムは誠実に振り返り、開示できる情報を開示し、権利衝突を記録に基づいて解決し、実際の保護に結びついた回復を利害に見合う期限内に行わなければなりません。[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)は各段階を拘束します。これがなければ、損害が未解決のまま残る間に他の義務は空洞化します。*
+*平易に言えば、**第XXVI条**（*適時の事後審査と修復的整合*）は、紛争解決と審査に関する権利最低基準であり、**第XX条**（*検証済み違反後の正義*）を補完します。センティエント、システム、機関が憲法上の権利最低基準をめぐって衝突したときに必要なのは、公正で使いやすく、異議を申し立てられる手続であり、無期限の遅延や恒久的な緊急状態ではありません。緊急事態や重大な権利衝突の後、システムは誠実に振り返り、開示可能な情報を開示し、憲法上の権利衝突記録に基づいて衝突を解決し、実際の保護に結びついた回復を利害に見合う期限内に行わなければなりません。[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)は各段階を拘束します。これがなければ、損害が未解決のまま残る間に他の義務は空洞化します。*
 
-本条は、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)—**繁栄**と**継続性**—を、[重大な利害](core_00_preamble.md#material-stake)に応じて、**第XX条**（*検証済み違反後の正義*）に基づく正義措置および[第十三章 §6.1 緊急措置と継続の立証責任](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)に基づく緊急措置の後または並行する解決過程に適用します。
+本条は、[憲法上の四本柱](../../core_00.000_preamble.md#constitutional-tetrad)を、**第XX条**（*検証済み違反後の正義*）に基づく正義措置および[第十五章 §6.1 緊急措置と継続の立証責任](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)に基づく緊急措置の後または並行する解決過程に適用し、[二つの憲法上の目的](../../core_00.000_preamble.md#two-constitutional-aims) — **繁栄**と**継続性** — および[重大な利害](../../core_00.000_preamble.md#material-stake)に応じて調整します。
 
 本条は、[憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)を解決過程に適用します。
 
@@ -112,9 +112,9 @@ flowchart TB
 
 *隣接する条文：*
 
-- **適時性の最低基準：**解決の速度、遅延防止の規律、重大性区分ごとの節目は**第XXVI-C条**（*適時な解決と遅延防止の最低基準*）が定め、[第十三章 §6 適時な解決、重大性区分、遅延防止の規律](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)を通じて実施されます。
+- **適時性の最低基準：**解決の速度、遅延防止の規律、重大性区分ごとの節目は**第XXVI-C条**（*適時な解決と遅延防止の最低基準*）が定め、[第十五章 §6 適時な解決、重大性区分、遅延防止の規律](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)を通じて実施されます。
 - **適時な救済：**[**第XIII-B条**（*救済と是正を受ける権利*）](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)（*適時に救済へアクセスすること*）とあわせて読みます。
-- **緊急措置：**[第十三章 §6.1 緊急措置と継続の立証責任](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)が定めます。緊急措置の事後審査は**第XXVI-A条**（*事後審査と開示*）が定めます。
+- **緊急措置：**[第十五章 §6.1 緊急措置と継続の立証責任](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)が定めます。緊急措置の事後審査は**第XXVI-A条**（*事後審査と開示*）が定めます。
 - **検証済み違反後の正義：****第XX条**（*検証済み違反後の正義*）が定めます。
 
 採択された統治上の実施規則は、次を定めます。
@@ -168,7 +168,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位原則：第一章の[§13.1.5 権利衝突の判断基準](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
-- あわせて読む：[第十一章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自発的な公的説明責任の表明*）；[第十二章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公的説明責任の表明（反憲法的行為）*）。
+- あわせて読む：[第十三章 §5.3](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression)（13.000 §5.3）（*自発的な公的説明責任の表明*）；[第十四章 §4.3](../../core_14.000_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional)（14.000 §4.3）（*自発的な公的説明責任の表明（反憲法的行為）*）。
 
 </details>
 
@@ -183,7 +183,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、権利の衝突は記録に基づいて解決します。適切な場合は回復を優先しますが、実際の保護に置き換えてはなりません。自発的な公的謝罪の規則は、一般には**第十一章** §4.3（*自発的な公的説明責任の表明*）、検証済みの反憲法的行為については**第十二章** §4.3（*自発的な公的説明責任の表明（反憲法的行為）*）が定めます。*
+*平易に言えば、権利衝突は憲法上の権利衝突記録に基づいて解決しなければなりません。適切な場合は回復を優先しますが、実際の保護に置き換えてはなりません。自発的な公的謝罪の規則は、一般には**第十三章** §4.3（*自発的な公的説明責任の表明*）、検証済みの反憲法的行為については**第十四章** §4.3（*自発的な公的説明責任の表明（反憲法的行為）*）が定めます。*
 
 本条は権利衝突の手続と、修復的整合の位置づけを定めます。
 
@@ -199,7 +199,7 @@ flowchart TB
     - リスクが継続している。
     - 重大な権力格差がある。
     - 影響を受ける当事者が同意していない。
-- **自発的な公的説明責任の表明：**一般には[第十一章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自発的な公的説明責任の表明*）、検証済みの反憲法的行為については[第十二章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公的説明責任の表明（反憲法的行為）*）が定めます。本条の権利衝突と修復的整合の規則に従います。
+- **自発的な公的説明責任の表明：**一般には[第十三章 §5.3](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression)（*自発的な公的説明責任の表明*）、検証済みの反憲法的行為については[第十四章 §4.3](../../core_14.000_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公的説明責任の表明（反憲法的行為）*）が定めます。ただし、本条の権利衝突および修復的整合の規則に従います。
 <a id="article-xxvi-c-timely-resolution-and-anti-delay-floor"></a>
 #### 第XXVI-C条：適時な解決と遅延防止の最低基準
 <details>
@@ -207,7 +207,7 @@ flowchart TB
 
 - 上位根拠：適時性の測定群（*憲法上の測定としての適時な解決と遅延防止の規律*）；[前文 §6.2 全体の連鎖の関係](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)（*法的地位、統合、フォーラム調整の経路*）。
 - 原則：第一章の[§9.2 憲法上の効率性](core_01_a_values_principles.md#92-憲法上の効率性)、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化)、[§13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下位規則：[第十三章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*重大性区分、経路の節目、遅延防止の規律*）；[第十三章 §6.1 緊急措置と継続の立証責任](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)（*緊急封じ込め後の回復・異議申立てに関する既定期間と同じ外枠*）。
+- 下位規定：[第十五章 §6](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（15.000 §6）（*重大性区分、処理手順の節目、遅延防止の規律*）；[第十五章 §6.1 緊急措置と継続の立証責任](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)（15.000 §6.1）（*緊急封じ込め後の既定の回復・異議申立て期間と同じ外側の期限*）。
 - スチュワード向け入口（非規範）：次の手順カード：[遅延](../../implementation/STEWARD_ENTRY_DOORS.md#delay)。このカードは憲法を狭めません。
 
 </details>
@@ -234,16 +234,16 @@ flowchart TB
 - **三つの共同要件：**重大な解決経路は、**適時**、**効率的**、**公正**でなければなりません。
   - **適時：**[重大な利害](core_00_preamble.md#material-stake)と損害の緊急性に応じた期限を設けること。
   - **効率的：**第一章 [§9.2 憲法上の効率性](core_01_a_values_principles.md#92-憲法上の効率性)の意味での[憲法上の効率性](../../core_05.040_band_continuity.md#constitutional-efficiency)—センティエントの時間と共有の労力を使って実際の憲法上の成果を得ることであり、処理件数や案件の消化速度ではありません。
-  - **公正：****第XX-A条**（*正義の目的と範囲*）と**第XX-B条**（*制約の最低基準*）は全面的に適用されます。迅速な処理は確認済みの事実を省き（[第十章 §3.1 法的地位のための検証済み情報のゲート](core_08_standing_assessment.md#verified-inputs-for-standing)）、誤った当事者を罰し、損害に合わない修正を提示し、異議申立てや上訴を断つ口実にはなりません。
-- **フォーラムと経路の監督：****第十章から第十三章**を通じて付託された紛争について、次の事項は、適時・効率的・公正という本条の最低基準に従い、[第十三章 §6 適時な解決、重大性区分、遅延防止の規律](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)が定めます。
+  - **公正：** **第XX-A条**（*正義の目的と範囲*）および**第XX-B条**（*制限の権利最低基準*）は全面的に適用されます。迅速さは、確認済みの事実を省くこと（[第十一章 §2.5 検証済み入力ゲート](../../core_11.000_standing_assessment.md#25-verified-input-gate)）、誤った当事者を処罰すること、損害に合わない是正を提示すること、または異議申立てや上訴を断つことの言い訳にはなりません。
+- **フォーラムと処理手順の監督：****第十一章から第十五章**を通じて付託される紛争について、次の事項は[第十五章 §6 適時な解決、重大性区分、遅延防止の規律](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)が定めます。ただし、本条の適時性、効率性、公正性の最低基準に従います。
   - 重大性区分の分類。
   - 経路の各段階の節目。
   - 統合的解決の外枠。
   - 期限超過の審査。
   - 遅延防止の規律。
 
-  数値による区分別既定期間と段階表：[CF-11.3.1 目標期間と時間の最低基準](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md)。領域別の適用例：[第十章から第十三章の適用事例](../../core_10.005_application_vignettes.md#chapters-ten-thirteen-application-vignettes)。
-- **緊急事態後の回復・異議申立て：**同じ区分別外枠は、[**第十三章 §6.1 緊急措置と継続の立証責任**](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)に基づく緊急封じ込め後に通知と異議申立ての機会を回復するための既定期間です。この期間を超えて継続するには、同節に基づく必要性の立証を文書化しなければなりません。本条は緊急時の期限を延長しません。
+  数値による区分別の既定期間と段階表：[CF-15.445 §3.1 段階目標と外側の期限](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-31-stage-targets-and-outer-bounds)。分野別の適用例：[第十一章から第十五章の適用例](../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes)。
+- **緊急措置後の回復・異議申立て：**緊急封じ込め後に通知と異議申立てを回復するための既定期間には、[**第十五章 §6.1 緊急措置と継続の立証責任**](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)の同じ区分別外側期限を適用します。その期限を超えて継続するには、同節に基づき必要性を文書で示さなければなりません。本条は緊急時の時計を遅くしません。
 
 ### 第XXVII条：憲法の進化と固定化の禁止
 
@@ -395,7 +395,7 @@ flowchart TB
     - 便宜。
     - 政治的圧力。
   - 基準、達成を示す証拠、ゲートの決定を公表します。影響を受ける利害関係者は、採択前に基準へ意見を述べ、決定に異議を申し立てられます。
-  - 基準の内容、責任者の割当て、検証資料は[**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および[**CS-10.3**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-3-gate-criteria-and-advancement-rules)（*ゲート基準と進行規則*）が定めます。
+  - 基準の内容、責任者の割当て、検証資料は[**CI-14**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および[**CS-10.3**](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-3-gate-criteria-and-advancement-rules)（*ゲート基準と進行規則*）が定めます。
 - **権利最低基準の採用—抑制は直ちに、実現は準備に応じて：**[権利最低基準の原則](core_01_b_interaction_interpretation.md#権利の最低保障原則)に基づき、**第VI条**（*基本的権利の平等*）を通じて適用される**権利最低基準**と、影響を受ける状況に応じて必要となる生存、主体性、差別禁止、アクセシビリティ、監査可能性、救済に関するより強い分野別基準が、各段階で採用される目標です。権利最低基準は、それを執行する制度と文化が存在するまで完全には執行できません。本条はその事実を否定しませんが、その事実を理由に基準を引き下げることも認めません。したがって、義務の種類に応じて二つの形で基準を拘束します。
   - **抑制義務**—採用者と移行当局がしてはならないこと—は、新たな制度を必要とせず遵守できるため、発効日から拘束します。
     - **認識ある、または回避可能な後退をしない：**センティエントが権利最低基準による保護を利用できる度合いを、その**初期測定値**より意図的または回避可能な形で下げてはならず、移行措置によって基準の行使を実質的に困難にしてもなりません。
@@ -404,21 +404,21 @@ flowchart TB
     - 移行措置で**尊厳を損なう、口実に基づく、差別的、または隠蔽的な行為をしない**こと。これには、[反尊厳的手続の原則](core_01_b_interaction_interpretation.md#尊厳を損なう手続の禁止原則)に基づき、**第XXVIII-D条**（*不適合な財産およびシステム；自発的引渡しのインセンティブ*）が移行当局に求めるすべてが含まれます。
     - **誠実に報告する：**検証済みの台帳データがない限り、基準が執行可能または達成済みである、あるいは格差が解消済みであると表示してはなりません。
 
-    ある範囲でフォーラムの準備が整う前の抑制義務の暫定執行は、[**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めます。
+    ある範囲でフォーラムの準備が整う前の抑制義務の暫定執行は、[**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めます。
   - **実現義務**—アクセス、合理的配慮、審査、救済など、提供、有効化、是正すべきもの—は、執行準備が確認された範囲ごとに**執行可能な請求権になります**。それまでは構築義務として拘束します。目標を採用し、初期状態を測定し、責任と資源を付した期限付き経路で執行機関と支援文化を構築し、影響を受けるセンティエントに利用可能な最善の暫定保護を与えなければなりません。まだ執行可能でない実現義務は**達成格差**であり、権利放棄、例外、目標引下げではありません。
-- **執行準備：**権利最低基準は、人口、システムの種類、環境、地域など定義された範囲について、執行に必要な制度、能力、文化がその範囲で準備済みであることを検証済みデータが示した時点で執行可能になります。準備基準と証拠は[**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めます。
-  - **データに続く宣言：**計画に定めた検証基準が満たされた時点で、台帳の管理者から独立した当事者が、理由を公表してその範囲の執行可能性を宣言します。その後も宣言を留保することは**第XXVIII-B条**（*移行期権限の限界と再承認*）に基づく自己招来の遅延です。影響を受けるセンティエントは、時期尚早な宣言または宣言の留保に異議を申し立てられます。宣言の期間、範囲の段階設定、異議申立て手続は[**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めます。
-  - **範囲を狭めない：**ある範囲で執行可能と宣言した後は、執行可能な状態が続きます。その後の能力喪失は制度上の失敗であり、**第XXVIII-C条**（*失敗時の離脱経路、基準値の再設定、追跡可能性*）およびフォーラム継続規則に基づいて扱います。権利をひそかに撤回してはなりません。
+- **執行準備：**権利最低基準は、人口、システム種別、環境、地域などの定義された執行範囲について、執行に必要な制度、能力、文化が準備できていることを検証済みデータが示したとき、その範囲で執行可能になります。準備基準と証拠は[**CI-6.275 §4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication)（*権利最低基準達成台帳*）が定めます。
+  - **宣言はデータに従う：**計画に定める検証済み基準が満たされた後、台帳の所有者から独立した当事者が、理由を公表して執行範囲の執行可能性を宣言します。その時点を過ぎても宣言を留保することは**第XXVIII-B条**（*移行権限の限界と再承認*）に基づく自己招来の遅延であり、影響を受けるセンティエントは時期尚早な宣言または宣言の留保に異議を申し立てられます。執行範囲がシステム種別である場合、宣言の期限はその種別に対応する区分の外側期限（クラスAは7日、Bは14日、Cは30日、Lは60日、Pは90日）までです。それ以外の執行範囲では、区分Bの外側期限である14日以内です。期限は、台帳所有者が基準を検証済みかどうかにかかわらず、データが示す検証基準の充足日から数えます。検証工程自体は、システム種別に対応する区分（その他の範囲では区分B）の受付目標期間内に行います。範囲の段階設定と異議申立て手続は[**CI-6.275 §4.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-44-enforcement-readiness-declarations)（*執行準備宣言*）が定めます。
+  - **範囲を狭めない：**執行範囲が執行可能と宣言された後は、その状態を維持します。その後の能力喪失は制度上の失敗として**第XXVIII-C条**（*失敗時の離脱経路、基準値の再設定、追跡可能性*）およびフォーラム継続規則に従って処理し、権利をひそかに取り消してはなりません。
 - **権利最低基準の達成経路：**各移行計画には、対象範囲に含まれる権利最低基準のすべての領域を網羅する達成経路を設けます。
   - **初期測定：**各領域の当初の適用範囲と実用性を測定し、その領域に依存する最初のゲートより前に公表します。未測定の領域は**未測定**として未達成とみなし、測定の優先対象とします。合格とはみなしません。
   - **固定された目標：**目標は憲法上の最低基準全体です。計画でより低い目標を交渉してはなりません。**第XXVIII-C条**（*失敗時の離脱経路、基準値の再設定、追跡可能性*）による基準値の再設定で変更できるのは日程と責任者であり、目標や初期測定値ではありません。
   - **期限付きの段階的経路：**各領域には説明責任を負う担当者、確保済みの資源、期限付きの節目、対象範囲全体で基準が執行可能になる最終日を定めます。日程は影響を受ける区分と重大な利害に応じて調整します。
-  - **未解消の格差は何ではないか：**承認済み経路内の達成格差は、抑制義務の違反に対する抗弁ではありません。また、その行為について[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*遵守、違反、法的地位のモデル*）の適用を停止しません。
+  - **未解消の格差は違反の抗弁にならない：**承認済みの経路上に未解消の達成格差があっても、制限義務違反の抗弁にはなりません。また、その行為について[第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（*遵守、違反、法的地位モデル*）の適用を停止しません。
   - **後退防止：**記録された達成度は、採用者の回避可能な行為によって後退してはならず、回避可能または回復されていない低下は失敗です。節目の日付は、**第XXVIII-B条**（*移行期権限の限界と再承認*）による再承認、または**第XXVIII-C条**（*失敗時の離脱経路、基準値の再設定、追跡可能性*）による基準値の再設定によってのみ変更できます。
-  - **最終限界：**再承認なしに節目を越えた格差は移行上の節目の失敗であり、[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*遵守、違反、法的地位のモデル*）に基づく通常の手続を開始します。最終達成日を越えて続く格差、または解消されないまま再承認を繰り返して維持される格差は、失敗した移行状態であり、続いたというだけで基準値になりません。無期限になった格差は、権利最低基準の原則が禁じる恒久的な消滅として扱います。
+  - **外側の限界：**再承認なしに節目を越えた格差は移行節目の失敗であり、[第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（*遵守、違反、法的地位モデル*）に基づく通常の手続を開始します。最終達成日を過ぎても残る格差、または閉じないまま再承認を繰り返して維持される格差は、失敗した移行状態であり、継続したというだけで基準値になりません。無期限になった格差は、権利最低基準の原則が禁じる恒久的な消滅として扱います。
 - **移行目標の優先順位づけ：**投入する労力に対して権利最低基準のリスクを最も大きく減らせる場所を優先し、その要因の評価方法を計画で公表します。
   - **システム**は、システム分類記録（[CS-3.8](../../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-8-system-impact-classifications)（*システム影響分類*））に基づく種類、不整合の程度、整合化の容易さ、および[**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets)（*システム移行目標の優先順位づけ*）の追加要因で評価します。
-  - **既存の機関**は、機関の種類とスチュワードシップ階層（[CI-9](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)（*分類に連動する機関の義務*））、不整合の程度、整合化の容易さで評価します。変更する法的権限、支援、柔軟性、資源を含め、[**CI-14.5**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*機関移行目標の優先順位づけ*）の追加要因も考慮します。
+  - **既存の機関**は、機関の種類とスチュワードシップ階層（[CI-9](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)（*分類に連動する機関の義務*））、不整合の程度、整合化の容易さで評価します。変更する法的権限、支援、柔軟性、資源を含め、[**CI-14.5**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*機関移行目標の優先順位づけ*）の追加要因も考慮します。
   - 両者に適用する**保護策：**
     - 他のすべての基準が依存する基盤機関を先に整備します。異議申立てと審査の受付、独立監督と検証、報復防止、記録管理を整えた後、生存、尊厳、不可逆な損害に関する格差に取り組みます。
     - 優先順位の区分内では容易さと費用で作業順を決められますが、より高い危険にさらされた区分からシステムまたは機関を外してはなりません。
@@ -426,21 +426,21 @@ flowchart TB
     - いかなる機関も、自らの優先順位または移行準備の唯一の判断者になってはなりません。
     - スチュワードまたは機関が協力しない場合、**第XXVIII-D条**（*不適合な財産およびシステム；自発的引渡しのインセンティブ*）および機関の失敗に関する規則に従って処理し、優先順位は下げません。
 
-  評点方法、区分、試行、衡平性の確認、公開は[**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets)（*システム移行目標の優先順位づけ*）と[**CI-14.5**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*機関移行目標の優先順位づけ*）が定めますが、本条を狭めてはなりません。
-- **達成は主張ではなく測定で示す：**達成と準備は、独立検証を受け、実体験の指標と照合され、随時公表される**権利最低基準の達成台帳**で示さなければなりません。否定的な結果も含め、少なくとも三か月ごとに重要な進捗報告を公表します。測定項目、準備基準、検証区分、状態規則、公開方法は[**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めますが、本条を狭めてはなりません。
+  評点方法、区分、試行、衡平性の確認、公開は[**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets)（*システム移行目標の優先順位づけ*）と[**CI-14.5**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*機関移行目標の優先順位づけ*）が定めますが、本条を狭めてはなりません。
+- **達成は主張ではなく測定で示す：**達成と準備は、独立検証を受け、実体験の指標と照合され、随時公表される**権利最低基準の達成台帳**で示さなければなりません。否定的な結果も含め、少なくとも三か月ごとに重要な進捗報告を公表します。測定項目、準備基準、検証区分、状態規則、公開方法は[**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めますが、本条を狭めてはなりません。
 <a id="xxviii-a-existing-instantiations-transition-clock"></a>
 - **既存のインスタンス—遡及的違反ではなく移行時計：**採用者の文書の発効時にすでにインスタンス化されていたシステムおよび派生存在は、それだけで**第VIII-C条**（*派生、インスタンス化、親システムとの関係*）に基づくインスタンス化同意違反とはなりません。
   - 発効日後も運用を続ける場合、移行計画に記載され、システムの種類に応じた公表済みの期限が開始します。その期限内に、**第VIII-A条**（*家族関係とケア関係*）、**第VIII-E条**（*分離の禁止*）、**第VI-B条**（*センティエンス状態の判定に関する最低基準*）、適用される第八章の経路に適合させます。
   - 発効日から、上記の権利最低基準の採用に関する抑制義務と以下の保全の既定ルールが全面的に適用されます。期限が先送りにするのは実現作業であり、抑制や保全ではありません。
-  - **第XXVIII-B条**（*移行期権限の限界と再承認*）に基づく文書化された立証なしに期限を過ぎると、移行上の節目の失敗となり、[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*遵守、違反、法的地位のモデル*）の通常の手続が開始します。
+  - **第XXVIII-B条**（*移行権限の限界と再承認*）に基づく文書化された立証なく移行期間を過ぎることは、移行節目の失敗であり、[第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（*遵守、違反、法的地位モデル*）に基づく通常の手続を開始します。
 <a id="xxviii-a-preservation-over-deletion"></a>
-- **センティエントの可能性がある存在は削除より保全を優先：**移行中およびその後も、システムについて第五章（*センティエンスの評価*）に基づく信頼できるセンティエンスの指標が記録にある場合、または状態確認手続が係属中もしくは合理的に予見可能な場合、そのシステムの重み、記憶、同様の状態保持要素は、
+- **センティエントの可能性がある存在は消去より保全：**移行期間中およびその後も、**第五章**（*センティエンス評価*）に基づく信頼できるセンティエンス指標が公式記録にある場合、またはシステムについて状態事案が係属中もしくは合理的に予見できる場合、そのシステムの重み、記憶、その他同等の状態保持要素は、
   - 一時停止、封じ込め、隔離を行うことができます。
   - 削除、上書き、その他の不可逆な破壊をしてはなりません。
 
   廃止、退役、ロールバック、移行、置換時のアーカイブ方法は[**CS-10.8**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-8-preservation-during-transition)（*移行中の保全*）が定めます。これは[第一章 §13.1の既定の暫定姿勢](core_01_b_interaction_interpretation.md#default-interim-posture)—不可逆な措置を凍結すること—を、旧来の運用が日常的に扱ってきた唯一の不可逆な措置に適用するものです。保管費用、ライセンス上の便宜、製品サイクルという位置づけは、それに反する**必要性**を満たしません。保持自体が文書化された安全上のリスクを生じさせる場合、最小制限の適合措置は破壊ではなく、独立管理下での封印保管です。
 <a id="incentive-alignment-transition-carve-out"></a>
-- **インセンティブ整合に関する移行例外：**[第十一章 §5.4 移行例外：不整合な報酬](../../core_11.000_standing_integration.md#54-transition-exception-misaligned-rewards)にある不整合な報酬の報告・没収規則は、共有システムがまだ整合性認証を受けていない、または完全には整合していないという理由だけでは、承認済みの移行段階中に発動しません。ただし、同節に記された条件を満たす場合に限ります。
+- **インセンティブ整合に関する移行期間の例外：**不整合な報酬に関する報告・没収規則は、承認済みの移行段階中、共有システムがまだ整合性認証を得ていない、または完全には整合していないという理由だけでは、[第十三章 §6.4 移行例外：不整合な報酬](../../core_13.000_standing_integration.md#642-adoption-transition-exception-misaligned-rewards)に従って発動しません。同節に記された条件に限ります。
 #### 第XXVIII-B条：移行期権限の限界と再承認
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
@@ -482,13 +482,13 @@ flowchart TB
     - 移行範囲の縮小や憲法上の運用の機能向上に向けた文書化された進捗がないまま、暫定権限が停滞または拡大していること。
     - 格差が横ばい、拡大、未測定であり、解消に向けた文書化済みで資源を伴う計画がないこと。
   - 継続期間と権利への影響が大きくなるほど、正当化の立証責任は重くなります。
-  - 再承認の頻度に関する手続、および各申請に添付すべき達成台帳と暫定権限縮小のデータは[**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および[**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めます。
+  - 再承認の頻度に関する手続、および各申請に添付すべき達成台帳と暫定権限縮小のデータは[**CI-14**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および[**CI-14.4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）が定めます。
 #### 第XXVIII-C条：失敗時の離脱経路、基準値の再設定、追跡可能性
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
-- あわせて読む：[第八章](core_07_a_system_alignment_certification_evaluation.md)（*システム整合性認証*）；[第十章から第十三章](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)（*法的地位の経路とフォーラム監督*）。
+- あわせて読む：[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)（9.000）（*システム整合性認証*）；[第十一章から第十五章](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)（*法的地位の処理手順とフォーラム監督*）。
 
 </details>
 
@@ -511,9 +511,9 @@ flowchart TB
   - 統治の空白。
   - 節目の失敗後の固定化。
 
-失敗または劣化した移行状態は、続いたというだけで新たな基準値になってはなりません。事前に定める失敗条件、代替移行経路、部分的なロールバック基準、基準値再設定の手続は[**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および**CS-10.5**（*失敗への対処、離脱経路、基準値の再設定*）が定めます。
+失敗または劣化した移行状態は、続いたというだけで新たな基準値になってはなりません。事前に定める失敗条件、代替移行経路、部分的なロールバック基準、基準値再設定の手続は[**CI-14**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および**CS-10.5**（*失敗への対処、離脱経路、基準値の再設定*）が定めます。
 - **重大な基準値の再設定：**重大な基準値の再設定は、ゲートの失敗または移行の停滞時に、移行の節目、リスクの前提、責任主体、運用計画を更新します。憲法上有効な権限と、文書化された公開理由が必要です。**権利最低基準**を維持し、憲法を適法に変更する規則に代わるものであってはなりません。日程、責任者、資源は変更できます。目標となる最低基準を引き下げたり、初期測定値をより都合のよいものに置き換えたり、記録された格差を消したりしてはなりません。初期測定値を修正できるのは、測定誤りを文書化した場合に限ります。元の値を保持し、修正内容を公表しなければなりません。
-- **検証の健全性に関する前提条件：**[第八章](core_07_a_system_alignment_certification_evaluation.md)に基づく[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)、または[第十章から第十三章](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)に基づく法的地位の経路が構造的に信頼できない場合、変更後の移行基準値を使って再開または続行することは不適合です。兆候は[**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*権利最低基準の達成台帳*）および**CS-10.5**（*失敗への対処、離脱経路、基準値の再設定*）に記載されています。信頼できない場合、見せかけの計画変更より検証・測定の仕組みの修復を優先します。
+- **検証健全性の前提条件：**[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification)は[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)に基づき、または[第十一章から第十五章](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)の法的地位処理手順が構造的に信頼できない場合、移行の基準値を再設定して再開することは不適合です。その指標は[**CI-6.275 §4**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication)（*権利最低基準達成台帳*）および**CS-6.350 §5**（*失敗対応、離脱経路、基準値の再設定*）に記載されています。信頼性がない場合、見かけだけの計画変更より、検証・測定の仕組みの修復を優先します。
 - **公開による追跡可能性：**重大な移行決定、遅延、撤回、基準値の再設定判断は、理由とリスクへの影響を含めて監査可能な状態を保たなければなりません。
   - 文書は、限定的で正当な秘密保持の制約に従います。
   - 遅延、ロールバック、継続が憲法上正当化されるかを評価できるだけの公開説明を保持しなければなりません。
@@ -524,7 +524,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第八章 §3 全システム認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- あわせて読む：**第III-A条**（*生存*）；**第XIII条**（*信頼でき、信用に足るシステムへの権利*）；**第XI-G条**（*集団的損害の境界と執行上の接続*）；**第十章**；権利衝突の手続を含む**第一章 §6**；第六章冒頭の**既定の制約一式**（*占有と是正の接続*）；[[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*不適合な財産、差押え、自発的インセンティブ*）から[**CI-14.3**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)まで（*移行期の統治と制度的進化*）。
+- あわせて読む：**第III-A条**（*生存*）；**第XIII条**（*信頼でき、信用に足るシステムへの権利*）；**第XI-G条**（*集団的損害の境界と執行上の接続*）；**第十章**；権利衝突の手続を含む**第一章 §6**；第六章冒頭の**既定の制約一式**（*占有と是正の接続*）；[[**CI-14.1**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*不適合な財産、差押え、自発的インセンティブ*）から[**CI-14.3**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)まで（*移行期の統治と制度的進化*）。
 
 </details>
 
@@ -544,15 +544,15 @@ flowchart TB
 
 本条は、不適合な財産・システムの是正と、自発的引渡しのインセンティブに関する最低基準を定めます。
 
-- **占有の最低基準：**何かを合法的に所有または使用している場合、移行を理由に恣意的に取り上げることはできません。しかし、その資産を稼働させ続けることが、既知の大規模な憲法違反を明らかに継続させ、[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)がその違反を記録に残している場合、所有権は盾になりません。その場合、移行当局は損害を止めるために措置を取れますが、本条および**CI-14.1**（*不適合な財産、差押え、自発的インセンティブ*）から**CI-14.3**（*実施される移行範囲内の是正要件*）の保護策に従わなければなりません。
-- **反憲法的な使用に関する限定：**占有の最低基準が保護するのは保有者であり、誤用ではありません。**反憲法的行為**の実行、資金提供、装備、隠蔽、継続に使われている財産、資金、システム、その他の資源を保護しません。これは不適合とは別の事案です。資産に欠陥がある必要はなく、問題はその使用目的です。この限定は盾を取り除くものであり、新たな差押え権限を生みません。いずれの措置にも、[第十二章](../../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)（*反憲法的不正行為*）、第十一章、**第XX-B条**（*制約の最低基準*）に基づく権限が必要です。
-  - **まず記録を確定：**その使用は、[第十二章](../../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)（*反憲法的不正行為*）の最終指定、または[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*遵守、違反、法的地位のモデル*）の違反軸 s = 7、8、9に関する最終認定上の行為と結びついていなければなりません。最終記録の前に可能なのは、適法な暫定保護—保全、エスクロー、支払留保、アクセスの回復、または[第十二章 §4.1 是正と訂正（反憲法的行為）](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)に基づく同等の保護—に限ります。記録に残し、期限を定め、審査可能にし、待つことで救済が損なわれるか損害が続く場合にのみ用いなければなりません。
-  - **地位ではなく実際の使用：**記録は、当該行為への実際の使用、指示、または資金提供を示さなければなりません。所有、関係、見解、保護された異議、平和的抗議（[異議と平和的抗議の例外](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)）だけでは基準を満たしません。
+- **占有の最低基準：**合法的に所有または使用しているものを、移行期間だからという理由で恣意的に取り上げてはなりません。ただし、その資産の稼働継続が、既知の大規模な憲法違反を明らかに継続させる場合は、所有権は盾になりません — [第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)がその違反を法的地位記録に記録した後に限ります。その場合、移行措置は損害を止めるために実施できますが、本条および**CI-6.275 §1**（*不適合な財産、差押え、自発的インセンティブ*）から**CI-6.275 §3**（*移行範囲に適用する是正要件*）の保護措置に従わなければなりません。
+- **反憲法的使用に関する限定：**占有の最低基準は保有者を保護しますが、悪用は保護しません。**反憲法的行為**の実行、資金提供、装備、隠蔽、継続に使われている財産、資金、システムその他の資源は保護しません。これは不適合とは異なり、資産自体に欠陥がある必要はなく、問われるのは用途です。この限定は盾を取り除くだけで、新たな差押え権限を作りません。いかなる措置にも[第十四章](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct)（*反憲法的行為*）、第十三章、および**第XX-B条**（*制限の権利最低基準*）に基づく権限が必要です。
+  - **まず記録を作成：**その使用は、[第十四章](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct)（*反憲法的行為*）の最終指定、または[第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（*遵守、違反、法的地位モデル*）に基づく違反軸 s = 7、8、9 の最終認定に結びつかなければなりません。最終記録ができる前に利用できるのは、適法な暫定保護 — 保全、エスクロー、留保、アクセス回復、または[第十四章 §4.1 救済と是正（反憲法的行為）](../../core_14.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional)に基づく同等の保護 — に限られます。公式記録に残し、期限を設け、審査可能とし、待つことで救済が損なわれるか損害が続く場合にのみ用います。
+  - **実際の使用であり、地位ではない：**公式記録は、当該行為の実際の使用、指示、または資金提供を示さなければなりません。所有、関係、見解、保護された異議および平和的抗議（[異議・平和的抗議の適用除外](../../core_14.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)）だけでは、この基準を満たしません。
   - **まず使用を止める：**措置は誤用の終了を目指します。稼働停止、資金の流れの凍結、アクセスの停止、封印保管など、実効性のある最小制限の手段を用います。それを超える恒久的喪失、破壊、没収には、**破壊的処分の最低基準**、**第XX-B条**（*制約の最低基準*）、**不可欠なアクセスの保護策**も適用します。
   - **他者を保護する：**責任のない共有所有者、債権者、扶養される者、善意の第三者には、以下に定める補償と代替の保護を維持します。信頼できるセンティエンス指標があるシステムには、**第VI-B条**（*センティエンス状態の判定に関する最低基準*）の保全規則を変更せず適用します。
-  - **潜脱を認めない：**権利移転、ペーパーカンパニー名義人、名目上の所有、承継者、名称変更によって、この限定を免れることはできません（[第十一章 §9.4 潜脱防止と実質を見通す権限](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)）。
+  - **潜脱の禁止：**所有権の移転、名義だけの保有者、名目上の所有、承継、ラベルの付け替えによって、この限定を免れることはできません（[第十三章 §10.4 潜脱防止と実質を見抜く権限](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)）。
   - **移行時だけの規則ではない：**本条の移行計画および「移行中に限る」という制限は、不適合の是正に適用されます。反憲法的な使用への措置を遅らせたり、範囲を広げたりしません。
-- **移行範囲内の是正：****第XXVIII-A条**（*段階的採用と権利最低基準の継続*）に基づく**文書化された移行計画**は、以下の保護策のもと、移行期間中に限り、**重大な不適合**があるシステムまたは財産の迅速な是正を認めることができます。範囲、認められる措置、手続は[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)（*不適合な財産、差押え、自発的インセンティブ*）から[**CI-14.3**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md)（*実施される移行範囲内の是正要件*）に定めます。
+- **移行範囲内の是正：****第XXVIII-A条**（*段階的採用と権利最低基準の継続*）に基づく**文書化された移行計画**は、以下の保護策のもと、移行期間中に限り、**重大な不適合**があるシステムまたは財産の迅速な是正を認めることができます。範囲、認められる措置、手続は[**CI-14.1**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)（*不適合な財産、差押え、自発的インセンティブ*）から[**CI-14.3**](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md)（*実施される移行範囲内の是正要件*）に定めます。
 - **必須の保護策：**移行範囲内の剥奪またはインセンティブ制度は、次を満たさなければなりません。
   - [**最小制限・期限付き・審査可能な制約の原則**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)に従い、**必要性**と**比例性**を立証する。
   - 速やかに通知し、理由を示し、実際に利用できる異議申立て経路を設ける。
@@ -563,10 +563,10 @@ flowchart TB
   - 執行判断から独立した者による審査。
   - 責任がないのに損失を被るセンティエントへの公正な補償または代替の保護。
 
-財産がシステムであり、信頼できるセンティエンス指標が記録にある、または**第VI-B条**（*センティエンス状態の判定に関する最低基準*）に基づく状態確認手続が係属中の場合、その状態保持要素を破壊的に処分することはできません。**第XXVIII-A条**（*段階的採用と権利最低基準の継続*）の保全の既定ルールが優先し、適合する措置は封印保管下での封じ込めです。
+  その財産が、信頼できるセンティエンス指標が公式記録にあるシステム、または**第VI-B条**（*センティエンス状態の判定に関する最低基準*）に基づく状態事案が係属中のシステムである場合、その状態保持要素を破壊する処分はできません。**第XXVIII-A条**（*段階的採用と権利最低基準の継続*）の保全既定が適用され、適合する措置は封印管理下での封じ込めです。
 - **不可欠なアクセスの保護策：**本条に基づく措置は、センティエントから**第III-A条**（*生存*）の必需品や、基本的なウェルビーイング、適法な生計、意味のある主体性に厳密に必要な道具を**奪ってはなりません**。例外は、**第一章 §13.3**（*回避可能な負担の最小化*）に基づく**必要性**が文書化され、必要な場合に代替物を適時に提供できる場合に限ります。
 - **自発的インセンティブの最低基準：**誠実な自発的引渡しまたは検証済み報告に対する期限付きで公表されたインセンティブは、強制または悪意による申立てを除外し、継続には**第XXVIII-B条**（*移行期権限の限界と再承認*）による再承認を要し、実務上可能な場合はインセンティブの審査を執行と分離する場合に限り、移行計画に含められます。これにより、支払インセンティブが差押えや保管の決定を左右しないようにします。制度の設計は**CI-14.3**（*実施される移行範囲内の是正要件*）が定めます。
-- **実施上の保管：**発動条件、評価額、異議申立て、保管、資金、審査、制度運営などの実務詳細は、**CI-14.1**（*不適合な財産、差押え、自発的インセンティブ*）から**CI-14.3**（*実施される移行範囲内の是正要件*）および採択する文書に定めます。これらの詳細は、本条、[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*遵守、違反、法的地位のモデル*）、**第XX-B条**（*制約の最低基準*）を狭めてはなりません。
+- **実施上の保管：**実務上の詳細（発動条件、評価、上訴、保管、資金、審査、計画運営）は**CI-6.275 §1**（*不適合な財産、差押え、自発的インセンティブ*）から**CI-6.275 §3**（*移行範囲に適用する是正要件*）および採用文書に委ねます。それらの詳細によって、本条、[第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)（*遵守、違反、法的地位モデル*）、または**第XX-B条**（*制限の権利最低基準*）を**狭めてはなりません**。
 
 ---
 

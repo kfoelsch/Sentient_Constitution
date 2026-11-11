@@ -6,10 +6,10 @@
 
 > 이 파일은 **Sentient Constitution의 일부**이며, 하나의 문서로 함께 읽는 다른 번호가 붙은 `core_*` 파일들과 **함께 읽을 때에만 구속력**을 가집니다. 이 파일에는 **제7장**이 담겨 있습니다. 즉, 기능적 독립성과 직무 분리에 관해 모든 절차에 공통으로 적용되는 기준선입니다. 이 장은 제6장의 권리 기준선 다음에 오며, [제8장 시스템 정렬 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)으로 시작하는 헌법 절차 장들보다 앞섭니다.
 >
-> - **헌법상 소관:** 실질적으로 구속력 있는 행위를 위한 별도 좌석 기준선, 모든 [실질적 구속 행위 기록](../../core_05_band_accountability.md#materially-binding-act-record)의 보편적 최소 내용, 행위자와 행위자의 [중요 통제선](../../core_05_band_accountability.md#material-control-line)으로부터의 독립성, 공표된 경로 및 역할 배치, 이해충돌·공석·대체 및 잘못된 좌석으로의 이관, 비례적인 통합 운영, 귀속 가능한 인계, 그리고 이후 모든 헌법 절차가 적용해야 하는 최소 독립 조건.
-> - **원칙 계층의 출처:** [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)은 통치가 기능적 독립성을 보존하도록 요구하며, 실행 좌석 구조를 이 장에 맡깁니다.
-> - **이행 소관:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries)은 좌석을 배치하고 운영화합니다. 이들은 더 엄격한 규칙을 두거나 범위가 제한된 특별 권한 좌석 유형을 추가할 수 있지만, 이 장을 축소할 수는 없습니다.
-> - **절차별 적용은 후속 규정에 둡니다:** 제8장은 이 기준선을 시스템 정렬 인증에 적용하고, [제9장 §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties)은 지위 기록에 적용하며, 제12장과 [corpus_forum.md](../../corpus_forum.md)는 포럼 절차에 적용합니다. 이 장들은 주제에 필요한 보호 장치를 추가할 수 있지만, 더 약한 대체 기준을 만들 수는 없습니다.
+> - **헌법상 소관:** 실질적으로 구속력 있는 행위를 위한 별도 좌석 기준선, 모든 [실질적 구속 행위 기록](../../core_05.035_band_accountability.md#materially-binding-act-record)의 보편적 최소 내용, 행위자와 행위자의 [중요 통제선](../../core_05.035_band_accountability.md#material-control-line)으로부터의 독립성, 공표된 경로 및 역할 배치, 이해충돌·공석·대체 및 잘못된 좌석으로의 이관, 비례적인 통합 운영, 귀속 가능한 인계, 그리고 이후 모든 헌법 절차가 적용해야 하는 최소 독립 조건.
+> - **원칙 계층의 출처:** [제1장 §18.3](core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)은 통치가 기능적 독립성을 보존하도록 요구하며, 실행 좌석 구조를 이 장에 맡깁니다.
+> - **이행 책임:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)(*헌법적 레인과 기능 분리*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), [CI-16.205 §6](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries)이 좌석을 배치하고 운영한다. 더 엄격하게 하거나 범위가 제한된 특별 권한 좌석 유형을 추가할 수 있지만 이 장을 좁혀서는 안 된다.
+> - **절차별 적용은 후속 장에서 계속된다:** 제9장은 이 요건을 시스템 정렬 인증과 기관 정렬 인증에 적용하고, [제11장 §5.1](../../core_11.000_standing_assessment.md#51-separation-of-duties)은 지위 기록에 적용한다. 제15장과 [corpus_forum.md](../../corpus_forum.md)는 포럼 절차에 적용한다. 해당 장은 주제상 필요한 보호를 추가할 수 있지만 더 약한 대체 규칙을 만들 수 없다.
 >
 > 읽기 순서: §1 목적·범위·소관 경계 → §2 4좌석 헌법 기준선 → §3 독립성 및 이해충돌 → §4 잘못된 좌석으로의 이관 → §5 공표된 배치와 대체자 → §6 비례적 확장 → §7 비상 상황 → §8 행위 기록과 귀속 가능한 인계 → §9 후속 절차와의 관계.
 
@@ -18,10 +18,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [헌법 4중 구조](../../core_00_preamble.md#constitutional-tetrad) — 특히 **감독**과 **책임성**; [중요 이해관계](../../core_00_preamble.md#material-stake); [제1장 §17.1 공동 책무 기준](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [책무 규율하의 통치, 제1장 §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [제XVI조](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명성 및 독립 검증*).
+- 상위 근거: [헌법 4중 구조](core_00_preamble.md#constitutional-tetrad) — 특히 **감독**과 **책임성**; [중요 이해관계](core_00_preamble.md#material-stake); [제1장 §17.1 공동 책무 기준](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [책무 규율하의 통치, 제1장 §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [제XVI조](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명성 및 독립 검증*).
 - 하위 절: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
 - 하위 규정: [제8장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제9장](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제12장](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [제13장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); 위에 지정된 이행 문서.
-- 함께 읽을 문서: [불일치 감지, 제1장 §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*다원적 감지와 검토*); [귀속 가능한 조치](../../core_05_band_accountability.md#attributable-action); [귀속 무결성](../../core_05_band_accountability.md#attribution-integrity); [감사 가능성](../../core_05_band_oversight.md#auditability); [이의제기 가능성](../../core_05_band_accountability.md#contestability); [비례성](../../core_05_band_accountability.md#proportionality).
+- 함께 읽을 문서: [불일치 감지, 제1장 §19.3](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*다원적 감지와 검토*); [귀속 가능한 조치](../../core_05.035_band_accountability.md#attributable-action); [귀속 무결성](../../core_05.035_band_accountability.md#attribution-integrity); [감사 가능성](core_05_band_oversight.md#auditability); [이의제기 가능성](../../core_05.035_band_accountability.md#contestability); [비례성](../../core_05.035_band_accountability.md#proportionality).
 
 </details>
 
@@ -35,17 +35,17 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: 장 서두의 소관 주장; [제1장 §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional); [책임성](../../core_05_apex_accountability_leg.md#accountability).
+- 상위 근거: 장 서두의 소관 주장; [제1장 §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [감독](core_05_apex_oversight_leg.md#oversight-constitutional); [책임성](core_05_apex_accountability_leg.md#accountability).
 - 하위 규정: [§2](#2-four-seat-constitutional-requirement)부터 [§9](#9-relationship-to-later-processes)까지; 실질적으로 구속력 있는 행위를 만들거나 변경하는 모든 후속 절차.
-- 함께 읽을 문서: 검증 기반에 관한 [제4장](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); 이의제기 및 구제를 위한 [제XIII-A조](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*신뢰성 및 신뢰 가능성 기준*)와 [제XIII-B조](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*시정 및 구제받을 권리*); 독립 검증 권리 기준선에 관한 [제XVI조](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명성 및 독립 검증*).
+- 함께 읽을 문서: 검증 기반에 관한 [제4장](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); 이의제기 및 구제를 위한 [제XIII-A조](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*신뢰성 및 신뢰 가능성 기준*)와 [제XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*시정 및 구제받을 권리*); 독립 검증 권리 기준선에 관한 [제XVI조](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명성 및 독립 검증*).
 
 </details>
 
 <br>
 
-*쉽게 말해, 헌법 절차 또는 이미 승인된 시스템·기관·제한된 의사결정 영역 내부의 이해관계자 수준 결정을 신뢰하려면 그 안의 업무를 분리해야 합니다. 이 기준선은 [헌법 계약 계층](../../core_05_band_integrative.md#constitutional-contract-layer)과 [이해관계자의 시스템 참여](../../core_05_band_participation.md#stakeholder-status-and-weight) 모두에 적용됩니다. 결과를 추구하는 지각 있는 존재, 직위, AI 시스템, 이해관계자 단체 또는 대표자는 독립적이라고 여겨지는 검사를 직접 수행하거나, 그 검사의 공식 기록을 통제하거나, 그 검사에 대한 이의를 결정할 수 없습니다.*
+*쉽게 말해, 헌법 절차 또는 이미 승인된 시스템·기관·제한된 의사결정 영역 내부의 이해관계자 수준 결정을 신뢰하려면 그 안의 업무를 분리해야 합니다. 이 기준선은 [헌법 계약 계층](core_05_band_integrative.md#constitutional-contract-layer)과 [이해관계자의 시스템 참여](../../core_05.055_band_participation.md#stakeholder-status-and-weight) 모두에 적용됩니다. 결과를 추구하는 지각 있는 존재, 직위, AI 시스템, 이해관계자 단체 또는 대표자는 독립적이라고 여겨지는 검사를 직접 수행하거나, 그 검사의 공식 기록을 통제하거나, 그 검사에 대한 이의를 결정할 수 없습니다.*
 
-이 장은 제5장이 정의한 모든 [실질적으로 구속력 있는 행위](../../core_05_band_accountability.md#materially-binding-act)에 적용되며, 다음을 포함합니다.
+이 장은 제5장이 정의한 모든 [실질적으로 구속력 있는 행위](../../core_05.035_band_accountability.md#materially-binding-act)에 적용되며, 다음을 포함합니다.
 
 - 결정;
 - 승인 또는 인증;
@@ -55,7 +55,7 @@
 - 지급 또는 배분; 및
 - 이의제기 처리.
 
-이 장의 좌석은 특정 행위에 대해 누가 무엇을 할 수 있는지 정의합니다. 직함을 뜻하는 것은 아닙니다. 동일한 지각 있는 존재, 직위 또는 시스템이 행위별로 다른 좌석을 맡을 수 있습니다. 직함, 위임, 기술적 역량 또는 특정 단계를 수행할 능력만으로 해당 행위에서 보유한 좌석의 범위가 확대되지는 않습니다.
+이 장의 좌석은 특정 행위에서 누가 무엇을 할 수 있는지 정하며 직함이 아닙니다. 동일한 sentient, 사무실 또는 시스템이 행위마다 서로 다른 좌석을 맡을 수 있습니다. 직함, 위임, 기술적 능력 또는 단계를 수행할 수 있는 능력은 해당 행위에서 맡은 좌석의 범위를 넓히지 않습니다.
 
 이 장은 절차 전반에 적용되는 직무 분리 기준선을 규정합니다. 다음 사항의 소관을 옮기지 않습니다.
 
@@ -71,8 +71,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§1](#1-purpose-scope-and-owner-boundary); [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [제1장 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- 하위 규정: [§3](#3-independence-conflict-and-control-lines)부터 [§9](#9-relationship-to-later-processes)까지; [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*좌석 목록 — 절차 역할 유형 및 운영 경계*).
+- 상위 근거: [§1](#1-purpose-scope-and-owner-boundary); [제1장 §18.3](core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [제1장 §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+- 후속 규정: [§3](#3-independence-conflict-and-control-lines)부터 [§9](#9-relationship-to-later-processes)까지; [CI-16.205 §6](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries)(*좌석 목록 — 절차 역할 원형 및 운영 경계*).
 - 허용되는 유일한 통합 운영 경로에 관해서는 [§6](#6-proportional-scaling-and-merged-hosting)을 함께 읽으십시오.
 
 </details>
@@ -139,10 +139,10 @@ flowchart TB
 
 모든 실질적으로 구속력 있는 행위에는 기능적으로 구분된 네 좌석이 있습니다. 제5장은 각 좌석의 정본적 의미를 제시하며, 이 절은 절차 전반에 걸친 배치 및 양립 불가 규칙을 정합니다.
 
-1. **[개시 좌석](../../core_05_band_accountability.md#initiating-seat)** — 행위를 요청·제안·운영·주장하거나 그 밖의 방식으로 시작합니다.
-2. **[검증 또는 승인 좌석](../../core_05_band_accountability.md#verify-or-authorize-seat)** — 적용 기준에 따라 증거와 권한을 확인하고, 행위를 검증·승인·거부하거나 조건을 부과합니다.
-3. **[기록 좌석](../../core_05_band_accountability.md#record-seat)** — 검증 또는 승인 좌석이 결정한 사항에 관한 [행위 기록](../../core_05_band_accountability.md#materially-binding-act-record)을 입력하고, 버전 관리·보유·보존·공개합니다.
-4. **[이의 좌석](../../core_05_band_accountability.md#contest-seat)** — 이의를 접수하고 검토하며, 권한이 있는 경우 수정 또는 제한을 명하고, 권한 밖의 사안은 전달합니다.
+1. **[개시 좌석](../../core_05.035_band_accountability.md#initiating-seat)** — 행위를 요청·제안·운영·주장하거나 그 밖의 방식으로 시작합니다.
+2. **[검증 또는 승인 좌석](../../core_05.035_band_accountability.md#verify-or-authorize-seat)** — 적용 기준에 따라 증거와 권한을 확인하고, 행위를 검증·승인·거부하거나 조건을 부과합니다.
+3. **[기록 좌석](../../core_05.035_band_accountability.md#record-seat)** — 검증 또는 승인 좌석이 결정한 사항에 관한 [행위 기록](../../core_05.035_band_accountability.md#materially-binding-act-record)을 입력하고, 버전 관리·보유·보존·공개합니다.
+4. **[이의 좌석](../../core_05.035_band_accountability.md#contest-seat)** — 이의를 접수하고 검토하며, 권한이 있는 경우 수정 또는 제한을 명하고, 권한 밖의 사안은 전달합니다.
 
 이 좌석은 인간과 AI 보호자 모두에게 똑같이 적용됩니다. 시스템이 행위를 수행하고 승인한 다음 자기 로그를 증거로 사용하면, 개시·검증·기록 좌석을 동시에 차지하고 있는 것입니다. 절차를 자동화한다고 검증이 독립적으로 바뀌지는 않습니다.
 
@@ -163,26 +163,26 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [권한에 비례한 책임성](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [제XXIV조](core_06_rights_part_d.md) (*헌법 해석, 검토 및 포획 방지 장치*).
-- 하위 규정: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); 제8장 인증 구성요소 역할; 제9장 기록 보관; 제12장 포럼의 자기판단 방지.
-- 함께 읽을 문서: [중요 통제선](../../core_05_band_accountability.md#material-control-line); 운영상 이해충돌 및 자기판단 방지 장치에 관한 [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*이해충돌 무결성, 포획 방지 및 반부패*)와 [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*무결성 보호, 포획 방지 운영 및 자기판단 방지 지원*).
+- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [권한에 비례한 책임성](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [제XXIV조](core_06_rights_part_d.md) (*헌법 해석, 검토 및 포획 방지 장치*).
+- 후속 규정: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); 제9장의 인증 구성요소 역할; 제11장의 기록 보관; 제15장 포럼의 자기판단 금지.
+- 함께 보기: [실질 통제선](../../core_05.035_band_accountability.md#material-control-line); 운영상 이해충돌 및 자기판단 방지책은 [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)(*이해충돌 무결성, 포획 방지, 반부패*) 및 [CF-15.425](../../corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-15425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)(*무결성 보호, 포획 방지 운영, 자기판단 방지 지원*)를 참조한다.
 
 </details>
 
 <br>
 
-*쉽게 말해, 책상 이름표를 바꾼다고 독립성이 생기지는 않습니다. 결과를 원하는 지각 있는 존재나 직위가 특정 행위와 관련해 검증자나 검토자에게 지시하거나, 해임하거나, 보상하거나, 처벌하거나, 은밀히 결정을 뒤집을 수 있다면 그들은 독립적이지 않습니다.*
+*쉽게 말해, 책상 위 명칭을 바꾼다고 독립성이 생기지는 않습니다. 결과를 원하는 지각 있는 존재나 부서가 해당 행위와 관련해 검증 권한자 또는 검토자를 지휘·해임·보상·처벌하거나 조용히 결정을 뒤집을 수 있다면, 그들은 독립적이지 않습니다.*
 
 기능적 독립성은 명칭이 아니라 실제 권한과 통제를 기준으로 판단합니다. 동일한 행위에서:
 
-- 검증 또는 승인 좌석과 이의 좌석은 개시 좌석의 [중요 통제선](../../core_05_band_accountability.md#material-control-line) 밖에 있어야 합니다.
+- 검증 또는 승인 좌석과 이의 좌석은 개시 좌석의 [중요 통제선](../../core_05.035_band_accountability.md#material-control-line) 밖에 있어야 합니다.
 - 행위가 자신의 이해관계를 결정하는 당사자는 검증 또는 승인 좌석이나 이의 좌석을 맡아서는 안 됩니다.
-- 이해충돌이 있는 기록 보유자는 충돌을 판단하거나 보관을 포기하는 대신, 전체 감사 추적과 함께 기록을 공개된 대체자에게 넘겨야 합니다.
+- 이해충돌이 있는 기록 보유자는 전체 감사 추적과 함께 해당 공식 기록을 공개된 대체 보유자에게 넘겨야 하며, 스스로 이해충돌을 판단하거나 보관을 포기해서는 안 된다. 그리고
 - 회피는 해당 행위에 대한 권한을 없앱니다. 좌석을 요청자나 요청자의 보고 계통 또는 가장 가까운 사람에게 넘기는 것이 아닙니다.
 
-해당 행위에 대한 [중요 통제선](../../core_05_band_accountability.md#material-control-line)을 추적하십시오. 공동 기반시설, 행정 지원 또는 임명 이력만으로 그 통제선이 성립하는 것은 아니지만, 그러한 방식이 실제로 독립적 판단을 무력화해서는 안 됩니다.
+해당 행위에 대한 [Material Control Line](../../core_05.035_band_accountability.md#material-control-line)을 추적하십시오. 공유 인프라, 행정 지원 또는 임명 이력만으로 그 통제선을 확정할 수는 없지만, 그러한 조치가 실제로 독립적 판단을 훼손해서는 안 됩니다.
 
-두 번째 서명, 명목상 위원회, 내부 명칭 또는 도구가 생성한 증명만으로는 독립성이 충족되지 않습니다. 해당 검증에 권한, 증거 접근권, 중요 통제로부터의 자유 또는 거부하고 전달할 실질적 능력이 없으면 독립적이라고 할 수 없습니다.
+두 번째 서명, 명목상의 위원회, 내부 표지 또는 도구가 생성한 확인만으로는 독립성이 충족되지 않습니다. 검증을 맡은 것으로 간주되는 주체에게 권한, 증거 접근성, 실질적 통제로부터의 자유, 또는 실제로 거부하고 이관할 능력이 없으면 그렇습니다.
 
 <a id="4-wrong-seat-routing"></a>
 ### 4. 잘못된 좌석으로의 이관
@@ -191,8 +191,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
 - 상위 근거: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- 하위 규정: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 공동 좌석 규칙](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
-- 함께 읽을 문서: [저항의 의무, 제1장 §17.5](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
+- 후속 규정: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-16.205 §6 공유 좌석 규칙](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- 함께 읽을 문서: [저항의 의무, 제1장 §17.5](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
 
@@ -208,7 +208,7 @@ flowchart TB
 4. 증거와 이미 접수한 기록의 무결성을 보존합니다.
 5. 피할 수 있는 지연 없이 전달합니다.
 
-이 대응은 행위를 포기하는 것이 아니라 의무를 수행하는 것입니다. 행위는 올바른 좌석을 통해 진행됩니다. 보호자가 가장 가깝거나, 가장 빠르거나, 선임이거나, 유일한 전문가라는 이유로 단계를 맡아도 좌석 부재가 해결되지는 않습니다.
+그 대응은 의무의 이행이지 행위의 포기가 아닙니다. 행위는 올바른 좌석을 통해 진행됩니다. 스튜어드가 가장 가까이 있거나, 가장 빠르거나, 가장 선임이거나, 유일하게 잘 안다는 이유로 그 단계를 맡는 것은 비어 있는 좌석의 해결책이 아닙니다.
 
 <a id="5-published-placement-vacancy-and-substitution"></a>
 ### 5. 공표된 배치, 공석 및 대체
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [투명성](../../core_05_band_oversight.md#transparency); [감사 가능성](../../core_05_band_oversight.md#auditability).
-- 하위 규정: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*기능적 분리 경로*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*승인된 역할 및 책임 계통*); 제8장 및 제9장 기록.
-- 함께 읽을 문서: [헌장](../../core_05.040_band_continuity.md) 및 [제13장 §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [투명성](core_05_band_oversight.md#transparency); [감사 가능성](core_05_band_oversight.md#auditability).
+- 후속 규정: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)(*기능 분리 레인*); [CI-16.205 §5](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-5-authorized-roles-and-accountability-chains)(*승인된 역할과 책무 연쇄*); 제9장과 제11장의 기록.
+- 함께 읽을 문서: [헌장](../../core_05.040_band_continuity.md) 및 [제13장 §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -234,18 +234,18 @@ flowchart TB
 - 부재·배제·포획 또는 이해충돌 상태인 담당자의 대체자; 및
 - 자격 있는 대체자가 없을 때의 독립 경로.
 
-배치되지 않았거나 공석이거나 이해충돌이 있는 좌석은 기록하고 시정해야 하는 통치상 결함입니다. 해당 좌석이 개시 좌석, 이해관계자, 운영자 또는 그들의 [중요 통제선](../../core_05_band_accountability.md#material-control-line)상 상급자에게 자동으로 넘어가지는 않습니다. 시정될 때까지 행위는 공표된 대체자나 독립 경로로 전달됩니다. 급하다는 이유만으로 독립성 요건을 우회할 수 없습니다.
+배치되지 않았거나 공석이거나 이해충돌이 있는 좌석은 기록하고 시정해야 하는 통치상 결함입니다. 해당 좌석이 개시 좌석, 이해관계자, 운영자 또는 그들의 [중요 통제선](../../core_05.035_band_accountability.md#material-control-line)상 상급자에게 자동으로 넘어가지는 않습니다. 시정될 때까지 행위는 공표된 대체자나 독립 경로로 전달됩니다. 급하다는 이유만으로 독립성 요건을 우회할 수 없습니다.
 
-위임은 동일한 좌석 경계, 증거 의무, 기록 및 시계를 유지하며 [중요 통제선](../../core_05_band_accountability.md#material-control-line)의 적용을 받습니다. 위임은 새 좌석을 만들거나 좌석을 통합하지 않으며, 위임하는 좌석이 할 수 없는 일을 수임자가 하도록 허용하지 않습니다. 등급별 권고나 4좌석 완전 분리 요건을 통합 허가로 바꾸는 것도 허용되지 않습니다.
+위임은 동일한 좌석 경계, 증거 의무, 기록 및 시계를 유지하며 [중요 통제선](../../core_05.035_band_accountability.md#material-control-line)의 적용을 받습니다. 위임은 새 좌석을 만들거나 좌석을 통합하지 않으며, 위임하는 좌석이 할 수 없는 일을 수임자가 하도록 허용하지 않습니다. 등급별 권고나 4좌석 완전 분리 요건을 통합 허가로 바꾸는 것도 허용되지 않습니다.
 <a id="6-proportional-scaling-and-merged-hosting"></a>
 ### 6. 비례적 확장 및 통합 운영
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [중요 이해관계](../../core_00_preamble.md#material-stake); [필요성](../../core_05_band_accountability.md#necessity); [비례성](../../core_05_band_accountability.md#proportionality).
-- 하위 규정: [제9장 §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*등급별 경로 인력 배치 및 역량 중복성*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*기능적 분리 경로*).
-- 함께 읽을 문서: [피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden) 및 제1장 [§3.3 비굴욕적 절차](../../core_01_a_values_principles.md#33-anti-degrading-process).
+- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [중요 이해관계](core_00_preamble.md#material-stake); [필요성](../../core_05.035_band_accountability.md#necessity); [비례성](../../core_05.035_band_accountability.md#proportionality).
+- 후속 규정: [제11장 §5.9](../../core_11.000_standing_assessment.md#59-informal-and-small-scope-records)(11.000 §5.9); [CJS-20.110 §4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy)(*등급별 레인 인력 배치와 역량 중복성*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)(*기능 분리 레인*).
+- 함께 읽을 문서: [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) 및 제1장 [§3.3 비굴욕적 절차](core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
 
@@ -274,9 +274,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [제12장 §6.1 비상 조치와 지속 부담](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [기본 임시 입장](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- 상위 근거: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [제12장 §6.1 비상 조치와 지속 부담](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden); [기본 임시 입장](core_01_b_interaction_interpretation.md#default-interim-posture).
 - 하위 규정: 지정된 이행 문서의 사고, 억제, 공개, 지속 및 사후 검토 절차.
-- 함께 읽을 문서: [적시성](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [증거 보존](../../core_05_band_oversight.md#evidence-preservation), [CI-4.6 좌석 목록 — 절차 역할 유형 및 운영 경계](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- 함께 보기: [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [증거 보존](core_05_band_oversight.md#evidence-preservation), [CI-16.205 §6 좌석 목록 — 절차 역할 원형 및 운영 경계](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -284,12 +284,12 @@ flowchart TB
 
 *쉽게 말해, 실제 비상사태라면 통상적인 확인이 끝나기 전에 행동할 수 있습니다. 바뀌는 것은 순서이지, 좌석의 소유권이나 등급별 분리 기준이 아닙니다. 행위자가 자기 지속을 인증하거나, 기록을 지우거나, 이후 최종 검토자가 되는 것을 허용하지 않습니다.*
 
-지연이 심각하고 임박한 피해의 합리적으로 예측 가능한 위험을 만든다면, 승인된 개시 또는 억제 좌석은 통상적인 사전 검증이 끝나기 전에 필요한 최소한의 가역적 조치를 취할 수 있습니다. 단, 다음 조건을 충족해야 합니다.
+지연이 심각하고 임박한 피해의 합리적으로 예견 가능한 위험을 초래하는 경우, 권한 있는 개시 또는 억제 좌석은 통상적인 사전 검증이 끝나기 전에 필요한 최소한의 가역적 조치를 취할 수 있습니다. 단, 다음 조건을 충족해야 합니다.
 
-- 비상 권한, 범위, 시작, 만료 및 이유를 즉시 또는 물리적으로 가능한 한 빨리 기록할 것;
+- 긴급 권한, 범위, 시작, 만료 및 사유를 즉시 또는 물리적으로 가능한 한 빨리 기록한다.
 - 증거와 이의를 보존할 것;
 - 적용되는 헌법상 시한 내에 통지와 참여를 회복할 것;
-- 즉각적인 한계를 넘어서는 지속 여부를 독립적인 검증 또는 승인 좌석이 심사할 것; 그리고
+- 독립적인 검증 또는 승인 좌석이 즉각적 한계를 넘는 모든 지속 조치를 검토한다.
 - 해당 행위가 독립적인 사후 검토를 받을 것.
 
 비상 조치는 다음을 허용하지 않습니다.
@@ -313,9 +313,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§2](#2-four-seat-constitutional-requirement)부터 [§7](#7-emergency-and-urgent-action)까지; [실질적 구속 행위 기록](../../core_05_band_accountability.md#materially-binding-act-record); [귀속 가능한 조치](../../core_05_band_accountability.md#attributable-action); [귀속 무결성](../../core_05_band_accountability.md#attribution-integrity).
-- 하위 규정: [CS-4 §10 점검 가능한 귀속 행위](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-4.6 공동 좌석 규칙](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8이 규율하는 모든 절차 기록; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*기본 기계 검증 가능 형식; 절차 지원이지 두 번째 정의가 아님*).
-- 함께 읽을 문서: [§4 잘못된 좌석으로의 이관](#4-wrong-seat-routing) 및 [제4장 §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- 상위 근거: [§2](#2-four-seat-constitutional-requirement)부터 [§7](#7-emergency-and-urgent-action)까지; [실질적 구속 행위 기록](../../core_05.035_band_accountability.md#materially-binding-act-record); [귀속 가능한 조치](../../core_05.035_band_accountability.md#attributable-action); [귀속 무결성](../../core_05.035_band_accountability.md#attribution-integrity).
+- 후속 규정: [CS-16.305 §10 검사 가능하고 귀속 가능한 행위](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action); [CI-16.205 §6 공유 좌석 규칙](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8의 규율을 받는 모든 절차 기록; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json)(*기계 검사 가능한 기본 양식; 절차 지원이지 두 번째 정의가 아님*).
+- 함께 읽을 문서: [§4 잘못된 좌석으로의 이관](#4-wrong-seat-routing) 및 [제4장 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>
 
@@ -323,25 +323,25 @@ flowchart TB
 
 *쉽게 말해, 모든 실질적으로 구속력 있는 행위에는 무슨 일이 있었는지, 각 좌석을 누가 맡았는지, 무엇이 결정되었는지, 이의를 어디로 제기할지 보여주는 행위 기록이 있어야 합니다.*
 
-모든 실질적으로 구속력 있는 행위에는 식별 가능한 [실질적 구속 행위 기록](../../core_05_band_accountability.md#materially-binding-act-record)(**행위 기록**)이 있어야 합니다. 행위 기록은 적용 가능한 하나의 절차별 공식 기록 안에 포함되거나, 귀속 가능하고 무결성을 보존하는 공식 기록의 연결 집합으로 구성될 수 있습니다. 기존 공식 기록 또는 연결된 기록 집합이 필요한 요소를 모두 명확히 식별하고, 연결 관계와 버전 이력을 보존하며, 승인된 공식 기록 경로를 통해 이용 가능하다면 별도의 중복 문서는 필요하지 않습니다.
+실질적으로 구속력 있는 모든 행위에는 식별 가능한 [Materially Binding Act Record](../../core_05.035_band_accountability.md#materially-binding-act-record)(**행위 기록**)가 있어야 합니다. 행위 기록은 적용되는 절차별 공식 기록 하나에 담거나, 귀속 가능하고 무결성을 보존하는 연결된 공식 기록 집합으로 구성할 수 있습니다. 기존 공식 기록 또는 연결된 집합이 모든 필수 요소를 명확히 식별하고, 링크와 버전 이력을 보존하며, 승인된 공식 기록 경로를 통해 계속 접근 가능하다면 별도의 중복 문서는 필요하지 않습니다.
 
 행위 기록은 최소한 다음을 식별해야 합니다.
 
 - 안정적인 기록 식별자, 현재 버전, 중요한 생성 및 변경 시각;
 - 행위, 그 실질적 범위, 상태 및 적용 권한;
 - 개시 좌석, 담당자 및 권한;
-- 검증 또는 승인 좌석, 담당자, 적용 기준, 결정, 중요한 조건이나 이유 및 결정 시점;
+- 검증 또는 승인 좌석, 보유자, 적용 기준, 결정, 중요한 조건이나 이유 및 결정 시각;
 - 기록 좌석, 담당자, 보관 권한 및 입력된 버전;
 - 이의 좌석 또는 공표된 이의 경로와 현재의 이의 또는 정정 상태;
 - 모든 위임, 회피, 대체, 허용된 통합 또는 비상 이탈; 그리고
-- 행위를 재구성하는 데 필요한 중요한 증거와 기록 링크, 인계, 거부, 조건, 해결되지 않은 이의, 시한, 대체된 버전 및 정정.
+- 행위를 재구성하는 데 필요한 중요한 증거와 기록 링크, 인계, 거부, 조건, 미해결 이의, 기한, 대체된 버전 및 정정 사항.
 
 절차별 기록은 더 엄격하거나 영역별인 필드를 추가할 수 있습니다. 이 최소 요건을 누락하거나 모순되게 하거나 재구성할 수 없게 해서는 안 됩니다. 적법한 개인정보 보호, 비밀유지 및 보안 통제는 보호되는 자료에 대한 접근과 공개 방식을 정하지만, 승인된 검증·이의제기·정정·구제에 공식 추적 기록을 삭제하거나 쓸 수 없게 만드는 것을 허용하지 않습니다.
 
-로그는 누가 무엇을 했는지 보여주지만, 그 자체로 행동이 유효했음을 입증하지는 않습니다. 조치를 취하는 지각 있는 존재나 시스템이 만든 로그, 서명, 모델 추적, 점검표 또는 증명은 제한된 역할만 합니다.
+로그는 누가 무엇을 했는지 보여 주지만, 그것만으로 행위가 유효했음을 증명하지는 않습니다. 행위를 수행한 sentient 또는 system이 작성한 로그, 서명, 모델 추적, 점검표 또는 확인서는 제한된 역할만 합니다:
 
 - 이러한 자료는 증거를 제공하거나 행위 기록에 연결될 수 있습니다.
-- 이러한 자료는 독립적인 검토 및 결정이나 공식 행위 기록 자체를 대체할 수 없습니다.
+- 이 자료는 독립적인 검토와 결정 또는 공식 Act Record 자체를 대체할 수 없습니다.
 
 <a id="9-relationship-to-later-processes"></a>
 ### 9. 후속 절차와의 관계
@@ -351,7 +351,7 @@ flowchart TB
 
 - 상위 근거: [§1](#1-purpose-scope-and-owner-boundary)부터 [§8](#8-act-records-and-attributable-handoffs)까지.
 - 하위 규정: [제8장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제9장](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제12장](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [제13장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
-- 함께 읽을 문서: [권한 체계와 내부 위계](../../core_05_band_integrative.md#owner-non-relocation) 및 [서문 소관 등록부](../../core_00_preamble.md#4-principles-definitions-and-rights).
+- 함께 읽을 문서: [권한 체계와 내부 위계](core_05_band_integrative.md#owner-non-relocation) 및 [서문 소관 등록부](core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
 
@@ -377,6 +377,6 @@ flowchart TB
 
 ---
 
-**이전 파일:** [core_05_band_performance.md](../../core_05_band_performance.md)
+**이전 파일:** [core_07.000_charters.md](core_07_charters.md)
 
-**다음 파일:** [core_08_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**다음 파일:** [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)

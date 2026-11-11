@@ -20,7 +20,7 @@
 > - **Capítulo Dois (este arquivo)** — estrutura das definições O/M/A/C e alinhamento de componentes: cada definição liga **Ontológico (O)** (o que é), o registro de **Medição (M)** entretecido com o dever de **Avaliação (A)** (como deve ser medido e avaliado), e **Conformidade (C)** (o que deve sustentar-se) ([§1 Propósito e papel](core_02_definition_structure.md#1-propósito-e-papel); [§2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição)).
 > - **Capítulo Três** — integridade da definição, evasão e não conformidade ([Capítulo Três](core_03_definition_integrity.md#capítulo-três-integridade-da-definição-evasão-e-não-conformidade)).
 > - **Capítulo Quatro** — ônus da prova, rastreabilidade das definições, observabilidade, verificação sob limites de segurança e acessibilidade da verificação ([Capítulo Quatro — Ônus da prova, rastreabilidade e verificação](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **Capítulo Cinco** — vocabulário compartilhado para medição, avaliação e conformidade (definições independentes, agrupadas e de pacote nas seções 1–3 ao longo dos cinco arquivos de faixa da Tétrade e dos arquivos de fim constitucional: [Fim Florescimento](core_05_apex_flourishing_aim.md), [Supervisão](../../core_05.050_band_oversight.md), [Participação](../../core_05.055_band_participation.md), [Prestação de contas](../../core_05.035_band_accountability.md), [Continuidade](../../core_05.040_band_continuity.md), [Integrativa](../../core_05.045_band_integrative.md)); ordem de leitura e mapa na [Parte A](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco).
+> - **Capítulo Cinco** — vocabulário compartilhado para medição, avaliação e conformidade (definições independentes, agrupadas e em pacotes nas seções 1–3 dos cinco arquivos de faixas do Tetrad e dos arquivos de objetivos constitucionais: [Objetivo de Florescimento](core_05_apex_flourishing_aim.md), [Supervisão](core_05_band_oversight.md), [Participação](../../core_05.055_band_participation.md), [Responsabilização](../../core_05.035_band_accountability.md), [Continuidade](../../core_05.040_band_continuity.md), [Integrativo](core_05_band_integrative.md)); a ordem de leitura e o mapa estão na [Parte A do Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — definições operacionais para termos de transimplementação ([CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) biblioteca operacional de aglomerados); aplicar os lares canônicos do Capítulo Cinco — não redefini-los. As taxonomias de domínio e os protocolos em **CS**, **CI** e **CF** seguem a mesma regra.
 >
 > Navegação adicional:
@@ -62,7 +62,7 @@ Toda definição constitucional DEVE ser construída a partir de partes ligadas,
 
 Essas partes DEVEM permanecer consistentes dentro de cada definição. A execução, a governança, a implementação, as operações de medição, a auditoria e a mecânica de classificação além do âmbito definicional pertencem a capítulos posteriores; DEVEM cumprir as [Restrições constitucionais](../../core_05.045_band_integrative.md#constitutional-constraint) estabelecidas aqui.
 
-Toda definição DEVE ser cumprida para o sistema inteiro como realmente opera — inclusive os sistemas estendidos por sencientes, máquinas e lugares. As partes O, M, A e C DEVEM aprovar juntas, no mesmo âmbito e sob as mesmas condições de teste. Aprovar uma parte recortando pedaços do sistema, estreitando o que conta ou enfraquecendo outra parte não conta.
+Cada definição DEVE ser atendida pelo sistema inteiro tal como realmente opera — inclusive sistemas distribuídos entre seres sencientes, máquinas e locais. As partes O, M, A e C DEVEM ser aprovadas em conjunto, no mesmo escopo de avaliação e sob as mesmas condições de teste. Aprovar uma parte excluindo componentes do sistema, estreitando o que conta ou enfraquecendo outra parte não é suficiente.
 
 <a id="11-ontological-components-o--what-it-is"></a>
 <a id="11-ontological-components-o-what-it-is"></a>
@@ -98,7 +98,7 @@ A parte de Medição (M) diz que medida se aplica a um termo em cada nível. Apo
 Nas definições-folha do Capítulo Cinco, M está entretecido na parte de Avaliação (A) sob o cabeçalho de leitura **Como medir e avaliar**. Cada nível nomeia primeiro sua medida, depois sua avaliação correspondente na linha imediatamente abaixo. Os campos funcionam assim:
 
 - **Medida primária:** o principal a olhar primeiro — o primeiro rastro de evidência que quem avalia deve seguir para este termo neste contexto.
-- **Medida secundária:** *(usa-se quando se aplica)* medidas adicionais que devem ser incluídas junto da primária — não extras opcionais. Alargam a verificação para que um problema não possa esconder-se atrás de um recorte estreito de evidência.
+- **Medida secundária:** *(usada quando aplicável)* medidas adicionais que devem ser incluídas junto à medida principal — não são extras opcionais. Elas ampliam a avaliação para que um problema não possa se esconder atrás de uma fatia estreita de evidências.
 - **Medida terciária:** *(usa-se quando se aplica)* verificações de integridade sobre as medidas mesmas — sobretudo onde números, rótulos, autorrelatos ou categorias formais poderiam substituir resultados reais.
 
 Nem toda definição precisa dos três níveis. Alguns termos declaram só uma medida primária; outros acrescentam medidas secundárias ou terciárias quando o termo precisa de uma verificação mais ampla ou mais profunda.
@@ -134,7 +134,7 @@ Nas definições de termo individuais do Capítulo Cinco, a medição (M) e a av
 
 Dentro dessa seção, cada nível é um par: a medida vem primeiro, e a avaliação dessa medida se situa na linha imediatamente abaixo. Os campos de avaliação são:
 
-- **Avaliação primária:** como julgar a medida primária — o que quem avalia deve avaliar primeiro, e o que essa verificação deve de fato alcançar (substância, não só rótulos ou papelada).
+- **Avaliação principal:** como julgar a medida principal — o que os avaliadores devem avaliar primeiro e até onde essa avaliação deve realmente chegar (à substância, não apenas a rótulos ou papelada).
 - **Avaliação secundária:** *(usa-se quando se aplica)* como julgar as medidas secundárias — o que deve ser incluído quando a medida primária parece bem, mas a evidência mais ampla ainda importa.
 - **Avaliação terciária:** *(usa-se quando se aplica)* como julgar as medidas terciárias — verificações de se os proxies, as métricas ou as categorias formais ainda rastreiam resultados reais.
 
@@ -168,7 +168,7 @@ Nas definições de termo individuais do Capítulo Cinco, a parte de Conformidad
 - **Falha secundária:** *(usa-se quando se aplica)* quando o termo se rompe no nível secundário — por exemplo quando a verificação primária parece estável, mas algo mais amplo ainda derrota o termo, como uma ruptura num sistema do qual depende ou num sistema conectado com o qual interage.
 - **Falha terciária:** *(usa-se quando se aplica)* quando o termo se rompe no nível terciário — por exemplo quando um proxy ou uma métrica é tratado como suficiente por si só, ou quando uma divergência conhecida é ignorada ou deixada sem correção.
 
-Nem toda definição enumera os três níveis de falha. Alguns termos declaram só uma falha primária; outros acrescentam falhas secundárias ou terciárias quando o termo precisa de condições de ruptura alinhadas por nível.
+Nem toda definição enumera as três camadas de falha. Alguns termos declaram apenas uma falha primária; outros acrescentam falhas secundárias ou terciárias quando o termo exige condições de violação alinhadas às camadas.
 
 Em todos os níveis, a parte C deve:
 
@@ -218,7 +218,7 @@ Uma definição não é cumprida se o modo como é construída, lida ou aplicada
 #### 2.3 Restrições de construção
 As definições devem ser escritas de modo que:
 - todas as partes (O, M, A, C) só possam ser cumpridas juntas sob condições que reflitam como o sistema realmente se comporta e o que realmente produz
-- nenhuma parte possa ser cumprida generalizando, partindo as coisas, estreitando o âmbito ou descrevendo-as de um modo que deixe de fora elementos do sistema, interações ou efeitos que realmente importam
+- nenhuma parte pode ser considerada atendida por generalização, divisão de elementos, redução do escopo de avaliação ou descrição que omita elementos, interações ou efeitos do sistema que realmente importam
 - nenhuma medida substitua o resultado que está destinada a capturar; uma medida que se afasta do resultado do mundo real que representa (veja [Divergência de proxy](../../core_05.050_band_oversight.md#proxy-divergence)) não pode cumprir a definição, e a escolha de medidas não deve encolher o que tem de ser avaliado nem o que tem de sustentar-se na prática
 - nenhum pressuposto não enunciado, dependência oculta ou condição omitida mude ou enfraqueça o que deve ser avaliado ou o que deve sustentar-se na prática
 
@@ -226,7 +226,7 @@ As definições devem ser escritas de modo que:
 #### 2.4 Regra de interpretação sob ambiguidade
 Quando uma definição puder ser lida de mais de um modo razoável, use a leitura que conserva seu significado completo. Essa leitura governa como a definição é aplicada. A leitura também deve manter rigorosa a avaliação, e deve manter intactos os requisitos do mundo real.
 
-Uma definição não deve ser usada para julgar ou decidir a conformidade se aplicá-la força uma contradição dentro da definição, uma lacuna entre o âmbito que enuncia e o que realmente tem de ser coberto, ou uma aprovação numa parte enquanto se contorna outra parte exigida.
+Uma definição não deve ser usada para avaliar ou decidir conformidade se sua aplicação impuser uma contradição dentro da definição, uma lacuna entre o escopo declarado e o que precisa ser coberto na prática, ou um resultado aprovado em uma parte enquanto outra parte obrigatória é contornada.
 
 Uma definição rompida é não conforme por si só. Isso vale mesmo quando o sistema parece comportar-se bem e mesmo quando ainda não deu nada errado.
 

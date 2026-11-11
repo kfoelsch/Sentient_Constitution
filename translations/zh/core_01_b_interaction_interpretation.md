@@ -337,7 +337,7 @@ flowchart TB
 
 <br>
 
-*简言之：比例原则用于核实限制的尺度是否符合其所应对伤害的尺度。即使某个选项必要且能最大限度减少伤害，若其范围、持续时间或强度与实际利害不相称，仍然不合格。风险越不可逆、越具系统性或越会造成依赖，所需的正当理由和审查就越有力。同一项治理不足规则也适用于权力：经授权的权力或重要角色越大，问责和监督就必须越强，而不能减弱。*
+*简言之：比例性用于核验限制的规模是否符合其所应对损害的规模。即使某选项必要且能最大限度降低损害，如果其范围、期限或强度与实际利害不成比例，该选项仍不合格。风险越不可逆、越具系统性或越会产生依赖，正当理由和审查就必须越有力。相同的治理不足规则也适用于权力：授权权力越大或角色后果越重大，问责和监督就应越强，而不是越弱。*
 
 对宪法**价值**的限制——包括**第六章**权利底线保护，以及依照[§13 宪法冲突解决程序](#13-宪法冲突解决程序)可权衡的其他原则和保护——必须与其正当应对的**伤害**或**系统性影响**的程度和可能性相称，并符合**第五章**中的[比例原则](../../core_05.035_band_accountability.md#proportionality)。
 
@@ -388,7 +388,7 @@ flowchart TB
 
 ###### 尊严原则
 
-**尊严原则**包括以下两个原则：[权利底线最低保障原则](#权利底线最低保障原则)和[禁止贬损性程序原则](#禁止贬损性程序原则)。二者共同将[尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)落实为绝对底线：任何有感知能力的存在者都不得被永久剥夺什么，以及任何程序都不得如何对待任何有感知能力的存在者。最低生存资源获取权以及核心质疑、复核和上诉权属于尊严原则，因为这些是将某人视为其地位应受重视者的最低条件。平等地位本身，以及不得否认该地位的依据，载于[第 VI-A 条](core_06_rights_part_b.md#第-vi-a-条尊严与平等道德地位)（*尊严与平等道德地位*）。
+**尊严原则**是以下两个原则：[权利底线最低标准原则](#rights-floor-minimums-principle)和[反贬损程序原则](#anti-degrading-process-principle)。二者共同将[尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)落实为绝对底线：任何 sentient 永远不得被永久剥夺什么，以及不得在任何程序中以何种方式对待任何 sentient。最低生存保障获取权以及核心质疑、复核和上诉权属于尊严原则，因为它们是将一个人视为其地位受到重视者的最低条件。平等地位本身及不得据以否认平等地位的受保护理由，规定于[第VI-A条](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（*尊严与平等道德地位*）。
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -396,8 +396,9 @@ flowchart TB
 
 本原则以下列方式保护权利底线：
 
-- 任何宪法程序、措施、过渡、修正案、地位后果、紧急行动或司法相关结果，均不得永久剥夺或放弃**权利底线的最低保障**：即[第 VI-A 条](core_06_rights_part_b.md#第-vi-a-条尊严与平等道德地位)（*尊严与平等道德地位*）和[禁止贬损性程序原则](#禁止贬损性程序原则)所规定的基本尊严保障、最低生存资源获取权，或核心质疑、复核和上诉权。
-- 只有在符合[最小限制、限时且可复核的约束原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及[第十二章 §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)紧急规则（*紧急措施与继续实施的举证责任*）时，才可暂时限制特定权利——也就是说，任何限制都必须有正当理由、限于最低程度、形成记录、设定期限并接受独立复核。具体条款可以增设更强保障，但不得缩小本原则范围，也不得借便利、效率、分类、紧急状态、过渡、地位、修正案、合同或实施等名目规避本原则。
+- 任何宪法程序、措施、采纳过渡、修正、状态后果、紧急行动或司法相关结果，均不得永久消灭或放弃[第VI-A条](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（*尊严与平等道德地位*）及[反贬损程序原则](#anti-degrading-process-principle)规定的基本尊严保护之**权利底线最低标准**，也不得消灭最低生存保障获取权或核心质疑、复核和上诉权。
+- 只有满足[限制性最小、期限明确且可复核的约束原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及[第十五章 §6.1](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)（*紧急措施与持续负担*）的紧急规则，才允许暂时限制特定权利——也就是说，每项限制都必须有正当理由、限于最低程度、留有记录、设定期限并可由独立方复核。具体条款可以增加更强的保障，但不得缩小本原则，也不得借便利、效率、分类、紧急状态、采纳过渡、状态、修正、合同或实施等名目绕过本原则。
+- 下游：[第XXVI-B条：权利冲突程序与恢复性协调](../../core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment)（论坛适用此决策检验）；[第XXVI-C条：及时解决与反拖延底线](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)；[第十五章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（15.000 §6）（*及时解决、物质性等级与反拖延纪律*）。
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -459,7 +460,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - **保存证据：** 不得通过删除、泄露或不可逆发布使宪法冲突失去实际意义。
 - **冻结不可逆步骤**，以免冲突中的某一种解释因此无法继续适用——如果某一步无法撤销，且会终结宪法冲突、使一方立场失去实际意义，或在解释问题解决前制造胜方，就不得采取。
 - **继续采取可逆且经同意的步骤**，以保留两种解释的适用可能——在获得同意时，也包括依照[受安全约束的可观察性](core_04_burden_traceability_verification.md#4-受安全约束的可观察性与核验规则)向独立审查者开放访问。
-- **通知**受影响方和解释程序：哪些事项被冻结、哪些事项继续，以及适用的时限（争议提交论坛处理时，适用[第十二章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*及时解决、重要性等级与反拖延规范*）规定的分级时限和最长期限）。
+- **通知：**告知受影响方及解释路径哪些事项被冻结、哪些继续进行以及适用的时限（争议转交论坛时，包括[第十五章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*及时解决、物质性等级与反拖延纪律*）规定的层级时限和外部上限）。
 
 这种临时处置方式不裁定哪一方正确。冻结无法撤销的事项，以免排除任何一种解释；[§13 宪法冲突解决程序](#13-宪法冲突解决程序)仍须对宪法冲突作出回答。[§13.1.5 限制最小、期限明确且可审查的限制原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)说明了原因：可逆且经同意的步骤保留两种解释；不可逆步骤则不会。
 
@@ -516,7 +517,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 任何正当限制都必须维护[宪法四元组](core_00_preamble.md#constitutional-tetrad)的**监督**支柱，可通过受保护的记录（包括针对该限制本身的[宪法冲突记录](core_05_band_integrative.md#宪法冲突记录collision-record)）、独立审查、安全访问、删节、延迟发布或类似保障实现。不得**妨碍**知情的[质疑](../../core_05.035_band_accountability.md#contestability)或适用的**第六章**透明度、审计或审查义务，除非[§13.2.1 维护认知完整性](#1321-维护认知完整性)明确允许。
 
-本节以及[第一章 §5.1 科学知情的探究与决策支持](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support)共同管辖对出版、数据访问、方法披露或复现材料设置的安全敏感型限制。此类限制**不得**成为压制不利证据、隐瞒安全缺陷或制造表面共识的手段。
+涉及安全敏感的发布、数据访问、方法披露或复制材料限制，适用本节和[§5.1 科学知情的探究与决策支持](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support)。此类限制**不得**成为压制不利证据、隐瞒安全缺陷或制造表面共识的手段。
 
 <a id="1321-preservation-of-epistemic-integrity"></a>
 ##### 13.2.1 维护认知完整性
@@ -545,7 +546,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 <br>
 
-*简而言之：只有当披露会直接造成可预见的伤害，且不存在限制更少的替代方案时，才可隐瞒或延迟披露真实信息。每项限制都必须范围狭窄、有时限、接受审计，并在正当条件不再适用后披露。*
+*简言之：对 sentients 可知信息的限制应属例外，而非默认规则。若披露可能直接造成严重损害，且没有更温和的可行方案，就应在官方记录中以尽可能小的范围、尽可能短的时间加以限制；危险过去后即应公开信息。不允许为了让 sentients 保持平静而隐瞒问题。*
 
 除非符合以下情形，否则不得压制或歪曲真实信息：
 - 披露会**直接且实质性地**造成迫近或合理可预见的伤害，包括系统性或连锁风险
@@ -658,7 +659,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 <br>
 
-*简言之：当一项指标偏离其原本要衡量的对象时，继续依赖该指标就不再算作合规。必须将偏离情况记入记录，并通过有记录的升级处理和审查予以纠正。*
+*简言之：当某项指标偏离其原本要衡量的对象时，继续依赖该指标便不再算作合规。必须在官方记录中纠正偏差，并记录上报和复核过程。*
 
 指标、分数或勾选框都只是某个真实事物的替代指标。如果具有实质相关性的证据表明，替代指标已不再追踪其原本要衡量的对象（即宪法真正关注的事项），则依赖该指标的合规主张不成立。这一差距称为[代理偏离](core_05_band_oversight.md#代理指标偏离)。问题得到纠正之前，该主张始终无效。
 
@@ -754,7 +755,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - 下游：[§15.1 宪法禁止规避原则](#151-constitutional-no-bypass-principle)（[§15.1.1](#1511-反拆分原则)）、[§15.2 定义层与必要的专业规范](#152-定义层与必要规范)、[§15.3 歧义消解](#153-歧义的解决)、[§15.4 宪法意义冲突解决](#154-宪法含义冲突的解决)（[§15.4.1](#1541-综合解读) · [§15.4.2](#1542-最后手段内部层级) · [§15.4.3](#1543-纳入层) · [§15.4.4](#1544-共同适用的纳入义务的合并履行)）；从[3. 基础目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)到[20. 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)；宪法冲突程序参见[13. 宪法冲突解决程序](#13-宪法冲突解决程序)；[第六章：基础权利](core_06_rights_part_a.md#第六章基础权利)规定不得缩减的默认规则。
 - 配合阅读：[第二至第四章](core_02_definition_structure.md)和[第五章](core_05__definitions_home.md#第五章基础定义)——本章每个术语的解释与证据层。
 - 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)和[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)——综合价值框架的解释背景；在具有实质相关性时，按[实质利害](core_00_preamble.md#material-stake)确定比例要求。
-- 配合阅读：[权威层级与内部位阶](core_05_band_integrative.md#权威栈与内部层级)（*来源层级状态*）；[第十七章](../../core_18.000_incorporation.md)（*保管、版本、采纳框架——并非第二个冲突顺序依据*）；[第十四章](core_13_non_regression.md)和[第十五章](../../core_16.000_expansion_supremacy.md)（*[§15.4 宪法意义冲突解决](#154-宪法含义冲突的解决)项下的不倒退与采纳者层级门槛*）。
+- 配合阅读：[权威层级与内部位阶](core_05_band_integrative.md#权威栈与内部层级)（*来源层级状态*）；[第十七章](../../core_20.000_incorporation.md)（*保管、版本、采纳框架——并非第二个冲突顺序依据*）；[第十四章](core_13_non_regression.md)和[第十五章](../../core_18.000_expansion_supremacy.md)（*[§15.4 宪法意义冲突解决](#154-宪法含义冲突的解决)项下的不倒退与采纳者层级门槛*）。
 - 配合阅读：[第二十四条：宪法解释、审查与防俘获保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)，了解机构解释保障（不能替代本节）。
 - 配合阅读：[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md)——席位架构的底线；[§15.1 宪法禁止规避原则](#151-constitutional-no-bypass-principle)的禁止规避清单保护这一底线（此处不再重述）。
 
@@ -998,7 +999,7 @@ flowchart TB
   - 有约束力的宪法来源（整合后的 `core_*` 文书）内部；以及
   - 纳入层，其中纳入文本依照[最充分的保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect)选定。
 - 来源层级状态依照第五章中的[权限栈与内部层级](core_05_band_integrative.md#权威栈与内部层级)确定。
-- [第十七章](../../core_18.000_incorporation.md)规定保管、版本锁定和采纳框架。它**不**重述本程序。
+- [第十七章](../../core_20.000_incorporation.md)规定保管、版本锁定和采纳框架。它**不**重述本程序。
 - 对于运行中的**宪法冲突**——而非文本层级优先顺序——适用**[§13 宪法冲突解决程序](#13-宪法冲突解决程序)**。
 
 **操作顺序。** 按照以下**顺序**适用：
@@ -1029,7 +1030,7 @@ flowchart TB
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 纳入层
 
-在按照**§15.4.1**（*综合解读*）和**§15.4.2**（*最后手段内部层级*）完成宪法解读后，适用已采纳实施文本中的**指定义务**——即采纳行为实际使其生效的具名操作职责。仅在依照**[第十七章](../../core_18.000_incorporation.md)**所规定的**有效采纳与纳入范围**内适用这些职责（由谁保管记录、固定哪个版本，以及如何表述采纳）。
+在按照**§15.4.1**（*综合解读*）和**§15.4.2**（*最后手段内部层级*）完成宪法解读后，适用已采纳实施文本中的**指定义务**——即采纳行为实际使其生效的具名操作职责。仅在依照**[第十七章](../../core_20.000_incorporation.md)**所规定的**有效采纳与纳入范围**内适用这些职责（由谁保管记录、固定哪个版本，以及如何表述采纳）。
 
 以下规则根据[最充分保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect)在纳入的文本中作出选择；这与**[§15.3 歧义消解](#153-歧义的解决)**中歧义规则使用的标准相同。绝不根据[抽象严苛性](core_05_band_integrative.md#抽象严苛性abstract-strictness)作出选择。
 
@@ -1043,7 +1044,7 @@ flowchart TB
   - 这**不是**通过[抽象严苛性](core_05_band_integrative.md#抽象严苛性abstract-strictness)来消解实质性宪法歧义。
 - **跨文件最充分保护效果：**如果两个或多个已采纳的实施文件对同一具有实质范围的风险设定不同标准，则具有[最充分保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect)的明确采纳规则具有支配效力，并应符合上述两项规则。
   - 来源层状态仍由[权限栈与内部层级](core_05_band_integrative.md#权威栈与内部层级)支配。
-  - 保管、版本和采纳表述仍由**[第十七章](../../core_18.000_incorporation.md)**支配。
+  - 保管、版本和采纳表述仍由**[第十七章](../../core_20.000_incorporation.md)**支配。
   - 如果被引用的配置文件与被引用的实施标签似乎就该风险发生冲突，也适用同一规则。
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1063,7 +1064,7 @@ flowchart TB
 - 纳入的联合结构文本中某个**单一**操作簇的规则：只完成该簇的一部分不算合规——参见**[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)**（*操作簇*）；或
 - 第五章关于**依赖簇**定义必须一并满足的规则——参见**[第五章 §2.1 联合援引与满足](core_05__definitions_home.md#21-联合调用与满足)**。
 
-**本小节的适用情形。**在以下任一情形中，这些规则均适用于依照**[第十七章](../../core_18.000_incorporation.md)**的有效采纳与纳入范围：
+**本小节的适用情形。**在以下任一情形中，这些规则均适用于依照**[第十七章](../../core_20.000_incorporation.md)**的有效采纳与纳入范围：
 
 1. **一种情形，多个文件：**事实要求适用多个纳入的实施文件——例如系统、机构、论坛或联合结构文本。适用哪些文件由采纳范围以及这些文件针对相关事实提供的主题路由决定，而不是只选择最容易满足的文件。
 2. **采纳使联合结构文件集生效：**采纳文书将指定的联合结构实施文本（**CJS**文件夹及采纳链中列出的其他联合结构文件）适用于采纳者。

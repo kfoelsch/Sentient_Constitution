@@ -10,6 +10,7 @@
 >
 > **Sonraki (bu dilde):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Okuma yayı:** §1 yük tahsisi → §2 iz haritası → §3 gözlemlenebilirlik → §4 güvenlik sınırları → §5 kanıt standardı → §6 belgelendirme katmanı sınırı (işlemsel değil)
+> **Sonraki etkiler:** [Dokuzuncu Bölüm — Sistem Uyum Sertifikasyonu](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [On Birinci Bölüm — Durum Kayıtları](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 
 </details>
 
@@ -18,9 +19,9 @@
 
 > Nerede yaşar (gezinme):
 > - **Dörtlü haritası:** Yük tahsisi, kanıt, izlenebilirlik, gözlemlenebilirlik ve doğrulama, [Önsöz](core_00_preamble.md#önsöz--temel-gerekler)de kurulan [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **gözetim** ve **hesap verebilirlik** bacaklarını işlemsel kılar; maddi olarak gerektiğinde **katılım**, **3** ve **4**. kesitler altında pratik gözlemlenebilirlik ve bağımsız itiraz yoluyla. Gerekler [maddi pay](core_00_preamble.md#material-stake) ile ölçeklenir.
-> - **Anayasal sahip:** yük tahsisi, uyum kanıtı, tanım izlenebilirliği, gözlemlenebilirlik ve güvenlik-kısıtlı doğrulama. **Onuncu Bölüm** bu bölümle birlikte okunan güzergâh-kayıt ve doğrulanmış-girdi disiplinini sahiplenir.
+> - **Anayasal sorumluluk sahibi:** yükün dağıtımı, uyum kanıtı, tanım izlenebilirliği, gözlemlenebilirlik ve güvenlik kısıtlarına bağlı doğrulama. On Birinci Bölüm, bu bölümle birlikte okunan durum kaydı ve doğrulanmış girdi disiplininin sahibidir.
 > - **Uygulama sahibi:** belirlenmiş uygulama dosyalarındaki dağıtım, veri-işleme ve güvence mekaniği bu kurallarla tutarlı kalmalıdır ve corpus zaten daha sıkı-kural mantığı sağladığında daha sıkı olabilir.
-> - **Yer-değiştirmeme kuralı:** bu bölüm yalnızca yükü, izi, gözlemlenebilirliği, güvenlik sınırlarını ve kanıtı yönetir. Beşinci Bölüm tanımlarını, **Onuncu Bölüm** katkı ya da güzergâh ölçümünü ya da On İkinci Bölüm anayasa karşıtı kötü davranış ölçütlerini yeniden belirtmez. Doğrulanmış uyumsuzluğun güzergâha yönlendirilmesi [Üçüncü Bölüm §3 — Uyumsuzluk bulgu profilleri](core_03_definition_integrity.md#3-uyumsuzluk-bulgu-profilleri) ve [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) tarafından yönetilir. **6. kesit**, İkinci Bölümden Dördüncü Bölümün [Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)nden nasıl ayrıldığını belirtir.
+> - **Yer değiştirmeyi önleme kuralı:** Bu bölüm yalnızca yükü, izi, gözlemlenebilirliği, güvenlik sınırlarını ve kanıtı düzenler. Beşinci Bölüm tanımlarını, **On İkinci Bölüm** katkı veya durum ölçümünü ya da On Dördüncü Bölüm anayasa karşıtı kötü davranış ölçütlerini yeniden ifade etmez. Doğrulanmış uyumsuzluğun duruma yönlendirilmesini [Üçüncü Bölüm §3 — Uyumsuzluk Bulgusu Profilleri](core_03_definition_integrity.md#3-non-compliance-finding-profiles) ve [On Birinci Bölüm — Durum Kayıtları](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) düzenler. **Bölüm 6**, İkinci ila Dördüncü Bölümlerin [Dokuzuncu Bölüm — Sistem Uyum Sertifikasyonundan](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nasıl ayrıldığını belirtir.
 
 </details>
 
@@ -43,13 +44,13 @@ Sırayla okuyun. Her adım bir öncekinin üzerine kurulur; hiçbirini atlamayı
 
 | Adım | Yalın iş | Kesit |
 | --- | --- | --- |
-| **1 — Kim kanıtlar** | Yük, uyumu kim iddia ediyorsa onun üzerindedir | [§1](#1-münhasır-yaptırım-ve-yük-tahsisi) |
-| **2 — Haritayı göster** | Tanımlardan gözlemlenebilir davranışa yapılandırılmış iz | [§2](#2-tanım-izlenebilirliği-gereği) |
-| **3 — Denetlenebilir kıl** | Sistemler haritayı doğrulayacak kadarını açmalıdır — pratikte, kuramda değil | [§3](#3-izlenebilirliğin-gözlemlenebilirliği-gereği) |
-| **4 — Güvenlik sınırları** | Gerçek güvenlik sınırlarına izin vardır; bahaneli engeller yoktur | [§4](#4-güvenlik-kısıtlı-gözlemlenebilirlik-ve-doğrulama-kuralı) |
-| **5 — Ne sayılır** | Kanıt gerçek, tam, bağımsız ve süregelen olmalıdır | [§5](#5-uyum-kanıtı-standardı) |
+| **1 — Kim kanıtlar** | Yük, uyum iddiasında bulunana aittir | [§1 Münhasır Yaptırım ve Yük Dağılımı](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — Haritayı göster** | Tanımlardan gözlemlenebilir davranışa yapılandırılmış iz | [§2 Tanım İzlenebilirliği Gereği](#2-definition-traceability-requirement) |
+| **3 — Denetlenebilir kıl** | Sistemler, haritanın yalnızca teoride değil uygulamada da doğrulanmasına yetecek kadarını açığa çıkarmalıdır | [§3 İzlenebilirliğin Gözlemlenebilirliği Gereği](#3-observability-of-traceability-requirement) |
+| **4 — Güvenlik sınırları** | Gerçek güvenlik sınırlarına izin verilir; bahane olarak engellemelere verilmez | [§4 Güvenlik Kısıtlı Gözlemlenebilirlik ve Doğrulama Kuralı](#4-security-constrained-observability-and-verification-rule) |
+| **5 — Ne sayılır** | Kanıt gerçek, eksiksiz, bağımsız ve süreklilik taşıyan nitelikte olmalıdır | [§5 Uyum Kanıtı Standardı](#5-compliance-evidence-standard) |
 
-**Yalın dil erişimi.** [Birinci Bölüm §3.4 — Yalın dil erişilebilirliği sorumlu yönetim ödevi](core_01_a_values_principles.md) algılayanların hakları kullanmak, kararlara itiraz etmek ya da uyumu doğrulamak için kullandığı yönetişim, hükme bağlama ve işlemsel malzemelere uygulanır. Yalın dil, İkinci Bölümden Dördüncü Bölüme gerekeni **değiştirmez** ya da azaltmaz. Bir yalın dil sürümü buradaki tanım ya da doğrulama kurallarıyla ayrışırsa, o kurallar yönetir. Jargon, yığılmış karmaşıklık ya da opaklığı [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) ya da [Madde XVI: Denetim, şeffaflık ve bağımsız doğrulama](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) erişimini engellemek için kullanmak bu bölüm ve **Birinci Bölüm §3.4** altında uyumsuzluktur.
+**Sade dile erişim.** [Birinci Bölüm §5.2 — Sade Dilde Erişilebilirlik (Katılım ve Emanet Sorumluluğu Görevi)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), sentient'ların haklarını kullanmak, kararlara itiraz etmek veya uyumu doğrulamak için kullandığı yönetişim, yargılama ve işletim materyallerine uygulanır. Sade dil, İkinci ila Dördüncü Bölümlerin gerekliliklerini **değiştirmez veya azaltmaz**. Sade dil sürümü buradaki tanım ya da doğrulama kurallarıyla çelişirse o kurallar geçerlidir. [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) veya [Madde XVI: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) erişimini engellemek için jargon, katmanlı karmaşıklık veya kapalılık kullanılması, bu bölüm ve **Birinci Bölüm §5.2 Sade Dilde Erişilebilirlik (Katılım ve Emanet Sorumluluğu Görevi)** kapsamında uyumsuzluktur.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. Tanım izlenebilirliği gereği
@@ -68,7 +69,7 @@ Sırayla okuyun. Her adım bir öncekinin üzerine kurulur; hiçbirini atlamayı
 Bu kesit bir **yapılandırılmış iz haritası** ister. Sistem davranışına maddi olarak uygulanan her tanım için — maddi olarak gereken her **Beşinci Bölüm** tanımı dahil — harita her parçayı **gözlemlenebilir** davranışa ve gerçek-dünya etkilerine bağlamalıdır:
 
 - **nedir (O)** — terimin ne hakkında olduğu
-- **nasıl ölçülür (M)** — her kademede hangi ölçünün uygulandığı
+- **Nasıl ölçülür (M)** — her katmanda hangi ölçütün uygulandığı
 - **nasıl yargılanır (A)** — terimin nasıl değerlendirilmesi gerektiği
 - **neyin geçerli kalması gerekir (C)** — pratikte neyin doğru olması gerektiği
 
@@ -87,8 +88,8 @@ Maddi olarak gereken herhangi bir **Beşinci Bölüm** tanımını çağırmamak
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](#2-tanım-izlenebilirliği-gereği).
-- Aşağı: [Dördüncü Bölüm, kesit 4 — Güvenlik-kısıtlı gözlemlenebilirlik ve doğrulama kuralı](#4-güvenlik-kısıtlı-gözlemlenebilirlik-ve-doğrulama-kuralı); [Dördüncü Bölüm, kesit 5 — Uyum kanıtı standardı](#5-uyum-kanıtı-standardı).
+- Üst kaynak: İlkeler: [Dördüncü Bölüm, bölüm 3 — İzlenebilirliğin Gözlemlenebilirliği Gereği](#3-observability-of-traceability-requirement); [Birinci Bölüm, bölüm 6.2 — Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
+- Alt kaynak: [Dördüncü Bölüm, bölüm 5 — Uyum Kanıtı Standardı](#5-compliance-evidence-standard); **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Bilgi türleri ve işleme*) ve [CS-6.310 — Veri sınıflandırmaları](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** ve **[CS-6.340](../../corpus_systems/cs_06.340_system_requirements.md#cs-6340-system-requirements)** (*Sistem gereklilikleri*) — kullanıcıya dönük yetenek yüzeyleri, kimlik bilgileri ve bilgi türlerinin işlenmesi.
 - Birlikte oku: [Beşinci Bölüm kümelenmiş tanımları (Öngörülebilirlik özeni)](../../core_05.050_band_oversight.md#foreseeability) — makul öngörülebilir koşullar altında pratikte ulaşılabilir olmayan kuramsal doğrulanabilirlik uyumsuzluktur.
 - Birlikte oku: [Beşinci Bölüm kümelenmiş tanımları (Öngörülebilirlik özeni)](../../core_05.050_band_oversight.md#foreseeability) — tasarım-kaynaklı opaklık, en iyi durum işletimine değil, makul öngörülebilir koşullara karşı değerlendirilmelidir.
 
@@ -108,7 +109,7 @@ Maddi olarak gereken herhangi bir **Beşinci Bölüm** tanımını çağırmamak
 - sistem tasarımı, mimari opaklık, dış bağımlılıklar ya da üçüncü-taraf bileşenlerden gelen sınırlamaları, değişiklik, kısıt ya da dışlama yoluyla ele alınacak **tasarım başarısızlıkları** saymak
 - tam izleme başarılamadığında etkilenen tanım parçalarını ve herhangi bir bağımlı uyum iddiasını **uyumsuz** saymak
 
-**Sistemler şunları yapmamalıdır:**
+*Sade ifadeyle: Bölüm 2 bir iz haritası ister — bu bölüm ise yetkili veya etkilenen tarafların haritayı uygulamada, yalnızca teoride değil, denetleyebilmesi için sistemin kendisinin yeterli bölümünü açığa çıkarmasını ister. Kapalı mimari, dış bağımlılıklar ve kara kutu bileşenler mazur görülmez.*
 - bu gereğin **makul öngörülebilir** koşullar altında karşılanmasını engelleyen bileşenlere ya da bağımlılıklara bel bağlamak
 - tasarım sınırlamalarını, mimari opaklığı, dış bağımlılıkları ya da üçüncü-taraf bileşenleri bu gereğin muafiyetleri saymak
 - bağımsız doğrulamayı maddi olarak bozan maliyet, karmaşıklık, gecikme, erişim kısıtları ya da bilgisel koşullar dayatmak
@@ -149,7 +150,7 @@ Bir sınır anlamlı bağımsız geçerlemeyi engellediğinde, ilişkili uyum id
 - o belirleme bağımsız gerekçelendirilmiş ve denetlenebilirdir
 - kalan yöntem uyum belirlemesi için yeterli epistemik bütünlüğü korur
 
-Kriptografi ve bilgi-türü işleme bu Anayasa ve **[corpus_systems.md](../../corpus_systems.md), CS-2 — Bilgi türleri ve işleme** ile hizalı olmalıdır; maddi olarak ilgili yerde, bu bölüm altında tam uyum doğrulamasına hâlâ izin vermelidirler. Kriptografik ve bilgi-türü işleme [Doğruluk (Anayasal kısıt)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)ın ya da [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)ın, ya da **2**, **3** ya da **5**. kesitlerdeki ödevlerin yerine geçmemelidir.
+Kriptografi ve bilgi türlerinin işlenmesi Anayasa ile **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Bilgi türleri ve işleme*) ve [CS-6.310 — Veri sınıflandırmaları](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** ile uyumlu olmalı; önemli olduğu durumlarda bu bölüm kapsamında tam uyum doğrulamasına yine de izin vermelidir. Kriptografi ve bilgi türlerinin işlenmesi [Doğruluk (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) veya [Güvenlik (Anayasal Kısıt)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) yerine ya da **2**, **3** veya **5. bölümlerdeki** yükümlülüklerin yerine geçemez.
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. Uyum kanıtı standardı
@@ -157,8 +158,8 @@ Kriptografi ve bilgi-türü işleme bu Anayasa ve **[corpus_systems.md](../../co
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Dördüncü Bölüm, 1 ile 4. kesitler](#1-münhasır-yaptırım-ve-yük-tahsisi); [İkinci Bölüm, §1 — Amaç ve rol](core_02_definition_structure.md#1-amaç-ve-rol); [İkinci Bölüm, §2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-tanım-bütünlüğü-gereği); [İkinci Bölüm, §3 Tanım yığını boyunca tutarlılık](core_02_definition_structure.md#3-tanım-yığını-boyunca-tutarlılık); [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](core_03_definition_integrity.md#1-tanım-bütünlüğü-ve-kaçınma-karşıtı-kısıtlar); [Üçüncü Bölüm, kesit 2 — Gözlemlenebilir sistem davranışından uyumsuzluk](core_03_definition_integrity.md#2-gözlemlenebilir-sistem-davranışından-uyumsuzluk); [Üçüncü Bölüm, §2.6 Belirsizlik bütünlüğü ve sömürmeme kısıtı](core_03_definition_integrity.md#26-belirsizlik-bütünlüğü-ve-sömürmeme-kısıtı) — maddi tanım ve uyumsuzluk kuralları; **§4** yalnızca kanıt-katmanı gereklerini belirtir ve o kuralları yeniden belirtmez.
-- Aşağı: [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Birlikte oku: [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](#2-tanım-izlenebilirliği-gereği) — maddi olarak gereken herhangi bir **Beşinci Bölüm** tanımını çağırmamak ya da doğru uygulamamak, ilişkili değerlendirmeyi, kanıtı ve uyum belirlemesini bütünüyle geçersiz kılar; [Birinci Bölüm, §6 — Süreç çatışması çözümü](core_01_b_interaction_interpretation.md); ölçekleme, algılayan esenliği ile uzun ufuklu istikrar arasındaki ödünleri etkilediğinde [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [Beşinci Bölüm Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Beşinci Bölüm Doğruluk (Anayasal kısıt)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) ve [Beşinci Bölüm Epistemik bütünlük](../../core_05.050_band_oversight.md#epistemic-integrity) — empirik, öngörücü ya da nedensel iddialar için bilim-bilgili kanıt hizalaması.
+- Alt kaynak: [On Birinci Bölüm — Durum Kayıtları](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- [Birinci Bölüm, §13 — Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.005 §13);
 
 </details>
 
@@ -174,7 +175,7 @@ Kriptografi ve bilgi-türü işleme bu Anayasa ve **[corpus_systems.md](../../co
 - **gözlemlenebilir**, **doğrulanabilir**, gereken kapsama görece **tam**, zaman boyunca **süregelen** ve sistem etkisi, bağımlılık ve riske orantılı titizlikte **yeterli** olmak ki bağımsız denetime ve karşıt sınamaya dayansın
 - makul biçimde ulaşılabilir olduğunda **bağımsız geçerleme** kullanmak; yokluğu orantılılık kısıtları altında gerekçelendirilmelidir
 - kanıt üretimi, açıklama ve doğrulama üzerindeki **4. kesit** kısıtlarına uymak, uygulandığında kriptografik ve bilgi-türü işleme dahil
-- aynı değerlendirmede anayasal değerler ya da kısıtlar çatıştığında [Birinci Bölüm, §6 — Süreç çatışması çözümü](core_01_b_interaction_interpretation.md) ile tutarlı kalmak
+- Aynı değerlendirmede anayasal değerler veya kısıtlar çatıştığında [Birinci Bölüm, §13 — Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ile tutarlı kalın
 - uyum, sınıflama ya da yönetişim için maddi **empirik**, **öngörücü** ya da **nedensel** iddialarda, orantılı olduğunda **bilimsel bütünlük** yansıtmak — denenebilir ya da incelenebilir yöntemler, belgelenmiş varsayımlar ve sınırlamalar, kararları ilgilendirdikleri yerde boş sonuçların ya da başarısız yinelemelerin bastırılmaması ve sonuçların yeni kanıtta revize edilebilir olması
 
 **Aşağıdakiler 1. kesit altındaki kanıt yükünü karşılamaz:**
@@ -190,8 +191,8 @@ Belirsizlik, maddi olarak ilgili tanım bileşenleri için kesin uyum gösterimi
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [İkinci Bölüm — Tanım yapısı ve bileşen gerekleri](core_02_definition_structure.md#ikinci-bölüm-tanim-yapisi-ve-bileşen-gerekleri); [Üçüncü Bölüm — Tanım bütünlüğü, kaçınma ve uyumsuzluk](core_03_definition_integrity.md#üçüncü-bölüm-tanim-bütünlüğü-kaçinma-ve-uyumsuzluk); [Dördüncü Bölüm, 1 ile 5. kesitler](#1-münhasır-yaptırım-ve-yük-tahsisi).
-- Aşağı: [Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Alt kaynak: [Dokuzuncu Bölüm — Sistem Uyum Sertifikasyonu](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [On Birinci Bölüm — Durum Kayıtları](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- Şununla birlikte okuyun: [Dokuzuncu Bölüm §7 — Sertifikasyon Sonuçları](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — İkinci ila Dördüncü Bölümler kapsamındaki doğrulanmış uyumsuzluk, önceki sertifikasyondan bağımsız olarak sertifikasyonu yeniden açabilir veya geçersiz kılabilir.
 - Birlikte oku: [Dokuzuncu Bölüm §7 — Belgelendirme sonuçları](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — İkinci Bölümden Dördüncü Bölüme doğrulanmış uyumsuzluk, önceki belgelendirmeden bağımsız olarak belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir.
 
 </details>
@@ -209,10 +210,10 @@ Bu kesit **işlemsel değildir**. Yalnızca bir **katman sınırı** belirtir.
 
 Bunlar uyumun değerlendirildiği her yerde uygulanır — belgelendirme olsun ya da olmasın.
 
-**[Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** maddi olduğunda forum-gözetimli **belgelendirme sürecini** sağlar: bütün-sistem değerlendirme alanları, belgelendirme-kayıt ödevleri, belgelendirme sonuçları, yeniden belgelendirme temposu, itiraz edilebilirlik zinciri ve Onuncu Bölüme doğrulanmış-girdi köprüsü. İkinci Bölümden Dördüncü Bölüme **uygular**; onları yeniden **belirtmez**.
+**[Dokuzuncu Bölüm — Sistem Uyum Sertifikasyonu](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** ilgili olduğu ölçüde forum gözetimindeki **sertifikasyon sürecini** sağlar: tüm sistem değerlendirme alanları, Sistem ve Kurum Sertifikasyon Kaydı görevleri, sertifikasyon sonuçları, sertifikasyon aralığı, itiraz edilebilirlik zinciri ve On Birinci Bölüme doğrulanmış girdi köprüsü. İkinci ila Dördüncü Bölümleri **uygular**; onları **yeniden ifade etmez**.
 
 Okurlar şunları saymamalıdır:
-- bir **belgelendirme kaydını** İkinci Bölümden Dördüncü Bölüme süregelen uyumun yerine geçen bir şey olarak
+- İkinci ila Dördüncü Bölümler kapsamındaki devam eden uyumun yerine bir **Sistem veya Kurum Sertifikasyon Kaydını** kullanmak
 - **Dokuzuncu Bölüm** belgelendirmesini, koşullu belgelendirmesini ya da yeniden belgelendirmesini bu bölümdeki kanıtlama, iz ya da kanıt standartlarını düşüren şey olarak
 - **İkinci Bölümden Dördüncü Bölümü** bir sistemin daha önce belgelendirilmiş olması nedeniyle isteğe bağlı olarak — o bölümler altında doğrulanmış uyumsuzluk, Dokuzuncu Bölüm altında belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir
 

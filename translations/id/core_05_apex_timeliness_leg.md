@@ -82,7 +82,7 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 **Daun keluarga pengukuran Ketepatan waktu** — tingkatan pengukuran operatif:
 
 - [Penyelesaian tepat waktu](../../core_05.035_band_accountability.md#timely-resolution)
-- [Penguasaan jalur resolusi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- [Penangkapan Jalur Resolusi](../../core_05.040_band_continuity.md#capture-of-resolution-pathways);
 
 **Lintas-potong.** Ketepatan waktu berjalan melalui partisipasi, pengawasan, dan pertanggungjawaban; kaki itu harus terjadi tepat waktu agar berguna.
 

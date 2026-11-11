@@ -50,7 +50,7 @@
 |---|---|
 | **Partisipasi** | [§16 Pengelolaan Amanah Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam) dan [§17 Pengelolaan Amanah yang Berdampak Besar](core_01_c_stewardship_capacity_principles.md#17-pengampuan-yang-berdampak-penting-peran-pengampu) (peran yang berdampak dan suara); [§7 Kebebasan](#7-freedom-bounded-agency) (agensi yang bermakna) |
 | **Pengawasan** | [§16](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam) dan [§17](core_01_c_stewardship_capacity_principles.md#17-pengampuan-yang-berdampak-penting-peran-pengampu) (pemahaman terdistribusi, catatan); [§18 Tata Kelola](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan) (cara kewenangan dialokasikan); [§12](#12-persyaratan-evaluasi-sistemik) (audit) |
-| **Akuntabilitas** | [§18 Tata Kelola](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan) (pertanggungjawaban yang sebanding dengan kewenangan); [§19 Keselarasan Insentif dan Pengambilalihan Sistem](core_01_c_stewardship_capacity_principles.md#19-penyelarasan-insentif-dan-penguasaan-sistem) (imbalan tidak boleh mengosongkan unsur-unsur tersebut) |
+| **Akuntabilitas** | [§16.4 Dokumentasi pada saat tindakan](../../core_01.010_stewardship_capacity_principles.md#164-document-at-action) (tindakan membuat Catatan Tindakannya sendiri sehingga pertanggungjawaban dapat ditelusuri); [§18 Tata Kelola](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (pertanggungjawaban sebanding dengan kewenangan); [§19 Penyelarasan Insentif dan Penguasaan Sistem](../../core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (imbalan tidak boleh mengosongkan pilar-pilarnya) |
 | **Ketepatan Waktu** | [§16](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam) dan [§17](core_01_c_stewardship_capacity_principles.md#17-pengampuan-yang-berdampak-penting-peran-pengampu) (menemukan dan memperbaiki masalah tanpa penundaan yang dapat dihindari) |
 
 **Dua sumbu, bukan pertentangan.** Tujuan menjelaskan apa yang diupayakan sistem; Tetrad menjelaskan cara menjaga agar upaya itu tetap sah. Satu istilah dapat berada pada keduanya: Kebenaran dan Keterpercayaan merupakan unsur Keberkembangan, dan [Pembukaan §2](core_00_preamble.md#2-tinjauan-pengukuran) mengukurnya dalam rumpun Pengawasan. [§§13–15](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional) mengatur cara menimbang prinsip-prinsip ini saat berbenturan dan membacanya sebagai satu kesatuan; [§20](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu) menerapkannya pada setiap bab berikutnya.
@@ -87,7 +87,7 @@
 
 <br>
 
-*Secara sederhana: Bab Satu menetapkan nilai dan batasan yang mengatur setiap bab lainnya. Sistem bersama harus mengejar **Keberkembangan** dan **Kesinambungan** secara bersamaan — bukan mengorbankan salah satunya demi yang lain — dan tidak boleh memaksimalkan satu nilai dengan mengorbankan nilai lainnya.*
+*Secara sederhana: Bab Satu menetapkan nilai dan batasan yang mengatur semua bab lainnya. Sistem bersama harus mengupayakan **Flourishing** dan **Continuity** secara bersamaan—bukan mengorbankan yang satu demi yang lain—dan tidak boleh memaksimalkan satu nilai dengan mengorbankan nilai lainnya.*
 
 <a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>Bab ini menetapkan prinsip dan batasan yang mengatur penafsiran, penerapan, dan perkembangan Konstitusi ini. Bab ini mengembangkan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — [**Keberkembangan**](core_00_preamble.md#flourishing) dan [**Kesinambungan**](core_00_preamble.md#continuity) — yang ditetapkan dalam [Prakata §1 Model](core_00_preamble.md#the-model), menjadi prinsip dan batasan operasional. Definisi baku pada lapisan prinsip terdapat dalam Prakata; bab ini menerapkannya.
 
@@ -95,7 +95,7 @@ Kedua tujuan tersebut harus selalu dikejar bersama, dalam batasan prinsip yang t
 
 Bab ini disusun berdasarkan kedua tujuan tersebut dan Tetrad:
 - **Keberkembangan:** [Tujuan Keberkembangan: Pengantar](#2-tujuan-keberkembangan-pengantar) memetakan tujuan ini. [§3 Tujuan Mendasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) menyatakan hasilnya. [§4 Keselamatan](#4-safety-harm-constraint), [§5 Kebenaran](#5-truth-epistemic-integrity-constraint), [§6 Kepercayaan](#6-trust-and-trustworthiness-coordination-integrity), dan [§7 Kebebasan](#7-freedom-bounded-agency) mengembangkan empat kondisi yang menopangnya: keselamatan, kebenaran, keterpercayaan, dan agensi yang bermakna.
-- **Kesinambungan:** [Tujuan Kesinambungan: Pengantar](#8-pengantar-tujuan-keberlanjutan) memetakan tujuan ini. [§9 Kapasitas Sistem Bersama](#9-kapasitas-sistem-bersama) (sarana menuju Keberkembangan yang sekaligus merupakan substansi Kesinambungan), [§10 Ketahanan dan Desain Pemulihan Mandiri](#10-resilience-and-self-healing-design), [§11 Struktur Pasar](#11-struktur-pasar), dan [§12 Persyaratan Evaluasi Sistemik](#12-persyaratan-evaluasi-sistemik) mengembangkan stabilitas jangka panjang, kapasitas sistem bersama yang tahan lama, dan ketahanan. Klaim mengenai Kesinambungan bertumpu pada gambaran keseluruhan sistem yang jujur: setiap klaim dalam §9 Kapasitas Sistem Bersama, §10 Ketahanan dan Desain Pemulihan Mandiri, dan §11 Struktur Pasar hanya dapat dipertahankan setelah pemeriksaan dalam §12 Persyaratan Evaluasi Sistemik.
+- **Kesinambungan:** [Pengantar Tujuan Kesinambungan](#8-continuity-aim-introduction) memetakan tujuan ini. [§9 Kapasitas Sistem Bersama](#9-shared-system-capacity) (sarana menuju Kemekaran sekaligus substansi Kesinambungan), [§10 Ketahanan dan Desain Pemulihan Mandiri](#10-resilience-and-self-healing-design), [§11 Struktur Pasar](#11-market-structure), dan [§12 Persyaratan Evaluasi Sistemik](#12-systemic-evaluation-requirement) mengembangkan kestabilan jangka panjang, kapasitas sistem bersama yang tahan lama, dan ketahanan. Klaim Kesinambungan harus bertumpu pada gambaran seluruh sistem yang jujur: setiap klaim dalam §9, §10, dan §11 baru berdiri setelah evaluasi menurut §12.
 - **Saat prinsip-prinsip berhadapan:** [§13 Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), dan [§15 Penafsiran Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) mengatur cara menimbang dan membaca tujuan serta prinsip secara terpadu.
 - **Penerapan Tetrad:** [§16 Pengelolaan Amanah Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam) hingga [§19 Penyelarasan Insentif dan Pengambilalihan Sistem](core_01_c_stewardship_capacity_principles.md#19-penyelarasan-insentif-dan-penguasaan-sistem) membawa partisipasi, pengawasan, akuntabilitas, dan ketepatan waktu ke dalam pengelolaan amanah, tata kelola, dan insentif; [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu) menerapkan keseluruhan bab ini pada setiap bab berikutnya.
 
@@ -146,7 +146,7 @@ Nilai-nilai ini:
 - berfungsi sebagai prinsip dan batasan yang saling berinteraksi dan harus dinilai bersama.
 - berlaku bagi semua “sistem”, termasuk struktur teknis, organisasi, ekonomi, sosial-teknis, serta ekosistem yang berdampak material terhadap makhluk sentien dan planet Bumi.
 
-Tidak satu pun prinsip boleh diterapkan secara terpisah apabila hal itu secara material melanggar prinsip lainnya. Ketika timbul ketegangan, sistem harus menyelesaikannya menurut persyaratan proporsionalitas, kebutuhan, dan dampak sistemik yang ditetapkan dalam bab ini. Jika konflik yang belum terselesaikan secara langsung menyangkut batasan prinsip yang tidak dapat ditawar, **§13** Bab Satu, Proses Penyelesaian Benturan Konstitusional, menentukan prioritas.
+Tidak satu pun prinsip boleh diterapkan terpisah apabila hal itu secara material melanggar prinsip lainnya. Ketika timbul ketegangan, sistem harus menyelesaikannya menurut persyaratan proporsionalitas, keniscayaan, dan dampak sistemik dalam bab ini. Bila konflik yang belum terselesaikan langsung menyangkut batas prinsip yang tidak dapat ditawar, **§13** Proses Penyelesaian Benturan Konstitusional menentukan prioritas.
 
 <a id="2-flourishing-aim-introduction"></a>
 ### 2. Tujuan Keberkembangan: Pengantar
@@ -176,7 +176,7 @@ Tidak satu pun prinsip boleh diterapkan secara terpisah apabila hal itu secara m
 
 <br>
 
-*Secara sederhana: Keberkembangan adalah tujuan pertama dari dua tujuan: makhluk sentien hidup dengan baik dan tetap mampu hidup dengan baik karena sistem di sekelilingnya aman, jujur, dapat dipercaya, serta memberi ruang nyata untuk memilih. §3 menjelaskan hasil yang dimaksud. Empat prinsip sesudahnya menjelaskan cara menjaga hasil itu tetap nyata.*
+*Secara sederhana: Flourishing adalah tujuan pertama, yaitu agar para sentien sejahtera dan tetap mampu sejahtera karena sistem di sekitarnya aman, jujur, dapat dipercaya, dan memberi ruang nyata untuk memilih. Bagian 3 menjelaskan hasilnya; empat prinsip berikutnya menjelaskan cara menjaganya.*
 
 [**Keberkembangan**](core_05_apex_flourishing_aim.md#flourishing-constitutional) adalah **kesejahteraan makhluk sentien yang dipertahankan melalui kebenaran, keselamatan, keterpercayaan, dan agensi bermakna** ([Prakata §1 Model](core_00_preamble.md#flourishing)). Bab Satu mengembangkannya dalam dua tahap: [§3 Tujuan Mendasar: Kesejahteraan (Tujuan Keberkembangan)](#3-foundational-objective-wellbeing-flourishing-aim) menyatakan hasilnya, sedangkan empat prinsip menyatakan kondisi yang menopangnya.
 
@@ -240,7 +240,7 @@ flowchart TB
 
 <br>
 
-*Secara sederhana: Keselamatan dan Kebenaran adalah batas minimum yang tegas dalam Konstitusi, bukan hal yang dapat dipertukarkan demi optimalisasi. Sistem bersama tidak boleh secara terduga membahayakan atau menipu makhluk sentien; kedua batasan tetap berlaku ketika Keberkembangan dan Kesinambungan diupayakan di bawah disiplin partisipasi, pengawasan, akuntabilitas, dan ketepatan waktu dalam Tetrad.*
+*Secara sederhana: Keselamatan dan Kebenaran adalah batas dasar tegas dalam Konstitusi, bukan hal yang boleh ditukar atau dioptimalkan hingga hilang. Sistem bersama tidak boleh secara dapat diperkirakan membahayakan atau menipu para sentien. Kedua batas ini juga berlaku saat mengupayakan Flourishing dan Continuity di bawah disiplin partisipasi, pengawasan, akuntabilitas, dan ketepatan waktu dalam Tetrad.*
 
 **Keselamatan** dan **Kebenaran** adalah batasan prinsip yang tidak dapat ditawar, yang membatasi semua prinsip Bab Satu lainnya — termasuk [§3 Tujuan Mendasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) — serta [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims). Keduanya disebut sebagai unsur pembentuk [**Keberkembangan**](#flourishing) dan sangat penting bagi [**Kesinambungan**](#continuity): sistem tidak dapat berkembang melalui bahaya atau penipuan, dan legitimasi yang bertahan lama memerlukan pengelolaan amanah risiko secara jujur.
 
@@ -255,7 +255,7 @@ Temuan tentang Keselamatan dan Kebenaran dapat mengubah catatan kedudukan suatu 
 - bagaimana tingkat keparahan pelanggaran diklasifikasikan
 - konsekuensi apa yang melekat
 
-Model kedudukan [**Bab Sembilan**](core_08_standing_assessment.md) mengatur cara temuan tersebut diklasifikasikan, diverifikasi, dan diterapkan, dengan persyaratan evaluasi dan kepatuhan yang bersumber dari [**Bab Dua sampai Lima**](core_02_definition_structure.md).
+Model standing — [**Bab Sebelas**](../../core_11.000_standing_assessment.md) untuk pencatatan dan [**Bab Dua Belas**](../../core_12.000_standing_measurement.md) untuk pengukuran — mengatur klasifikasi, verifikasi, dan penerapan temuan, dengan persyaratan evaluasi dan kepatuhan dari [**Bab Dua sampai Lima**](../../core_02.000_definition_structure.md).
 
 <a id="3-foundational-objective-wellbeing-flourishing-aim"></a>
 
@@ -289,7 +289,7 @@ Model kedudukan [**Bab Sembilan**](core_08_standing_assessment.md) mengatur cara
 
 <br>
 
-*Secara sederhana: tujuan utama sistem-sistem ini adalah benar-benar memperbaiki kehidupan makhluk berkesadaran — tujuan itu tidak tercapai dengan mengejar metrik proksi dan tidak boleh dijadikan alasan untuk mengambil jalan pintas terkait Keselamatan, Kebenaran, atau hak. Kesejahteraan merupakan dasar partisipasi: suara simbolis tanpa kondisi yang membuat agensi nyata bukanlah partisipasi menurut Konstitusi ini.*
+*Secara sederhana: tujuan sistem ini adalah benar-benar memperbaiki kehidupan para sentien. Mengejar metrik proksi tidak memenuhi tujuan itu dan bukan alasan untuk mengabaikan Keselamatan, Kebenaran, atau hak. Kesejahteraan mendasari partisipasi: suara simbolis tanpa kondisi yang membuat agensi nyata bukanlah partisipasi menurut Konstitusi ini.*
 
 Tujuan utama semua sistem yang diatur oleh Konstitusi ini adalah menjaga dan meningkatkan [kesejahteraan](../../core_05.040_band_continuity.md#wellbeing) makhluk berkesadaran — tujuan [**Flourishing**](#flourishing) dalam kerangka [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
 
@@ -315,7 +315,7 @@ Kesejahteraan mencakup bukan hanya dampak langsung, tetapi juga konsekuensi tida
 - Subseksi (urutan baca): [§3.1.1](#311-akses-dan-kesempatan) · [§3.1.2](#312-manfaat-dan-beban) · [§3.1.3](#313-perlakuan-adil) · [§3.1.4](#314-perlakuan-tidak-adil).
 - Hilir: Membentuk cakupan hak untuk kedudukan setara, perlakuan non-arbitrer, gugatan bermakna, dan batas pembatasan proporsional.
   - Khususnya [Pasal VI: Hak Dasar yang Setara](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Pasal VI-C: Non-diskriminasi](core_06_rights_part_b.md#pasal-vi-c-nondiskriminasi), [Pasal X: Penentuan Nasib Sendiri, Agensi, dan Partisipasi](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Pasal XIII-B: Hak atas Ganti Rugi dan Pemulihan](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan), serta [Pasal XIX-B: Kontestabilitas dan Batasan Pembatasan Proporsional](core_06_rights_part_d.md#pasal-xix-b-kontestabilitas-dan-batasan-pembatasan-proporsional).
-  - Jika penetapan anti-konstitusional membawa sanksi atau dampak yang bertahan lama, baca bersama [Bab Sebelas, bagian 4 — Perlindungan proses hukum yang layak, pemulihan, dan pencegahan](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment).
+  - Jika penetapan anti-konstitusional membawa sanksi atau dampak jangka panjang, baca bersama [Bab Empat Belas, bagian 4 — Perlindungan proses hukum, pemulihan, dan pencegahan](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (14.000).
   - Komitmen nondiskriminasi dijabarkan melalui Bab Lima [§2 — Karakteristik yang Dilindungi, Penggunaan Proksi, Penyaringan Sinyal Intim, dan Status **Pasal VII-E** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)](../../core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), termasuk [Penyaringan Sinyal Intim yang Dilindungi dan Pengelakan Status **Pasal VII-E** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) ketika aturan perlakuan adil §2.1.3 menyangkut penyaringan sinyal intim atau **Pasal VII-E** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*).
 - Baca bersama: [Keadilan Substantif](../../core_05.055_band_participation.md#substantive-fairness) dan kewajiban Lantai Hak Bab Enam yang terkait ketika manfaat, beban, imbalan, biaya, tugas, risiko, kontribusi, kebutuhan, atau paparan bersifat material; [Aksesibilitas](../../core_05.055_band_participation.md#accessibility) ketika jalur akses §2.1.1 bersifat material; [Penyimpangan Proksi](core_05_band_oversight.md#penyimpangan-proksi) ketika metrik agregat atau dampak papan skor bersifat material.
 
@@ -338,7 +338,7 @@ Kesejahteraan mencakup bukan hanya dampak langsung, tetapi juga konsekuensi tida
 
 <br>
 
-*Secara sederhana: keadilan berarti sistem tidak boleh menyebut dirinya baik ketika makhluk berkesadaran biasa dilarang berpartisipasi, diperlakukan dengan aturan yang tidak dijelaskan, atau dibebani biaya yang dapat dihindari pihak lain. Sistem yang adil memberi akses nyata, menggunakan alasan yang dapat dipertanggungjawabkan, dan membagi imbalan, biaya, serta risiko sesuai kontribusi, kebutuhan, dan paparan yang sesungguhnya.*
+*Secara sederhana: suatu sistem tidak dapat menyebut dirinya adil jika sentien biasa dihalangi untuk berpartisipasi, dikenai aturan tanpa penjelasan, atau dibebani biaya yang dihindari pihak lain. Sistem yang adil memberi akses nyata, menggunakan alasan yang dapat dipertanggungjawabkan, dan membagi imbalan, biaya, serta risiko sesuai kontribusi, kebutuhan, dan paparan yang sebenarnya.*
 
 **Keadilan** merupakan bagian dari tuntutan [§3 Tujuan Dasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) setiap kali makhluk berkesadaran harus hidup, bekerja, belajar, berdagang, atau mengambil keputusan melalui sistem bersama. Ketika sistem bersama berdampak material terhadap mereka, keadilan menilai apakah kesempatan, perlakuan, serta pembagian manfaat dan beban menghormati [Martabat dan Kedudukan Moral yang Setara](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing).
 
@@ -346,24 +346,24 @@ Keadilan membantu mewujudkan [Partisipasi](core_05_apex_participation_leg.md#par
 
 Sistem yang menunjukkan hasil rata-rata yang baik saja tidak cukup. Satu metrik utama, rata-rata, peringkat, atau klaim efisiensi tidak dengan sendirinya membuktikan keadilan. Secara agregat suatu sistem mungkin tampak berhasil, tetapi tetap tidak adil terhadap makhluk berkesadaran yang dikecualikan, salah diklasifikasikan, dibayar terlalu rendah, dibebani berlebihan, atau tidak diberi kesempatan bermakna untuk menyanggah.
 
-Bagian ini memiliki **empat bagian kerja**. Bagian-bagian tersebut memandu bagian ini, tetapi tidak menggantikan definisi Bab Lima atau Lantai Hak Bab Enam.
+Bagian ini memiliki **lima bagian kerja**. Bagian-bagian itu memandu bagian ini, tetapi tidak menggantikan definisi Bab Lima atau Lantai Hak Bab Enam.
 
 <a id="311-access-and-opportunity"></a>
 ##### 3.1.1 Akses dan Kesempatan
 
 Subbagian ini menjelaskan arti akses dan kesempatan dalam praktik:
 
-- Makhluk berkesadaran memerlukan jalur praktis menuju [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional), pendidikan, pekerjaan, perawatan, keselamatan, mobilitas, dan kebutuhan penting lainnya dalam kehidupan sehari-hari.
-- Jalur tersebut tidak boleh dihalangi, dibuat tak terjangkau, ditunda, disembunyikan, atau diarahkan secara berat sebelah karena alasan sewenang-wenang atau tidak relevan.
-- Pintu yang hanya terbuka di atas kertas tidak cukup ketika Konstitusi ini mensyaratkan kesempatan **substantif**.
+- Para sentien memerlukan jalur praktis menuju [Partisipasi](../../core_05.025_apex_participation_leg.md#participation-constitutional), pendidikan, pekerjaan, perawatan, keselamatan, mobilitas, dan kebutuhan lain dalam kehidupan sehari-hari.
+- Jalur tersebut tidak boleh dihalangi, dibuat tak terjangkau, ditunda, disembunyikan, atau diarahkan secara tidak adil karena alasan sewenang-wenang atau tidak relevan.
+- Pintu yang hanya terbuka di atas kertas tidak cukup ketika Konstitusi ini mensyaratkan kesempatan yang **substantif**.
 
 <a id="312-benefits-and-burdens"></a>
 ##### 3.1.2 Manfaat dan Beban
 
 Subbagian ini menjelaskan kapan pembagian manfaat dan beban bersifat adil:
 
-- Sistem tidak adil ketika sebagian makhluk berkesadaran menerima keuntungan sementara pihak lain diam-diam menanggung biayanya.
-- Favoritisme, pengalihan biaya tersembunyi, penegakan selektif, dan manipulasi papan skor tidak memenuhi persyaratan ini.
+- Sistem tidak adil jika sebagian sentien menerima keuntungan sementara yang lain diam-diam menanggung biayanya.
+- Favoritisme, pengalihan biaya tersembunyi, penegakan selektif, dan rekayasa papan skor tidak memenuhi persyaratan ini.
 
 <a id="313-fair-treatment"></a>
 ##### 3.1.3 Perlakuan Adil
@@ -371,36 +371,45 @@ Subbagian ini menjelaskan kapan pembagian manfaat dan beban bersifat adil:
 Subbagian ini menjelaskan apa yang dituntut oleh perlakuan adil:
 
 - Makhluk berkesadaran dalam keadaan serupa seharusnya dikenai aturan dasar yang sama.
-- Apa yang diterima, wajib diberikan, atau dipertaruhkan oleh makhluk berkesadaran harus sepadan dengan kontribusi, kebutuhan, atau beban yang benar-benar mereka hadapi.
-- Perlakuan berbeda harus memiliki alasan nyata, proporsional terhadap alasan itu, menghormati martabat, dan menghindari diskriminasi.
-- Aturan terperinci dijabarkan melalui Bab Lima, termasuk [Karakteristik yang Dilindungi](../../core_05.055_band_participation.md#protected-characteristics) dan [Penggunaan Proksi atas Karakteristik yang Dilindungi dan Dampak yang Berbeda](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
-- Ketika suatu keputusan berdampak material pada seseorang atau ketika ia menggugat keputusan itu, jalur peninjauan harus memenuhi [Keadilan Prosedural](../../core_05.055_band_participation.md#procedural-fairness) apabila Bab Enam atau instrumen yang mengatur mensyaratkan pemberitahuan, pemeriksaan, penjelasan, atau peninjauan.
+- Apa yang diterima, wajib ditanggung, atau dipertaruhkan oleh makhluk sentien harus sesuai dengan kontribusi, kebutuhan, atau beban yang benar-benar mereka hadapi.
+- Perlakuan berbeda harus memiliki alasan nyata, sebanding dengan alasan tersebut, menghormati martabat, dan menghindari diskriminasi.
+- Aturan terperinci diterapkan melalui Bab Lima, termasuk [Karakteristik yang Dilindungi](../../core_05.055_band_participation.md#protected-characteristics) dan [proksi Karakteristik yang Dilindungi serta Dampak Berbeda](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+- Jika suatu keputusan berdampak material pada seseorang, atau orang itu menggugatnya, jalur peninjauan harus memenuhi [Keadilan Prosedural](../../core_05.055_band_participation.md#procedural-fairness) setiap kali Bab Enam atau dokumen yang mengatur mensyaratkan pemberitahuan, sidang, penjelasan, atau peninjauan.
 
 Kesejahteraan yang diklaim tidak selaras dengan [§3 Tujuan Dasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) jika bergantung pada pengecualian sewenang-wenang, aturan yang tidak dijelaskan atau tidak stabil, ekstraksi tersembunyi, atau [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional) formal sementara kondisi keadilan yang membuat partisipasi bermakna telah gagal.
 
 <a id="314-unfair-treatment"></a>
 ##### 3.1.4 Perlakuan Tidak Adil
 
-Perlakuan tidak adil menimbulkan pengecualian dan ketidakkonsistenan. Sistem tidak boleh menyembunyikannya di balik bahasa teknis, label netral, atau keputusan otomatis. Secara khusus, sistem tidak boleh:
-- menggunakan algoritme, sistem penilaian, atau aturan administratif yang mengulangi kerugian historis tanpa alasan konstitusional yang sah;
-- menggunakan sinyal pribadi yang intim atau riwayat seksual sebagai jalan pintas untuk menilai kepercayaan, risiko, karakter, atau akses — baca bersama [Penyaringan Sinyal Intim yang Dilindungi dan Pengelakan Status **Pasal VII-E** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention);
-- menghukum pekerjaan yang sah, riwayat pekerjaan, ketiadaan pekerjaan, status kerja yang sah, atau asosiasi yang dilindungi tanpa alasan konstitusional yang sah;
-- menolak pekerjaan, perumahan, layanan perbankan, lisensi, status, atau akses serupa **terutama karena** bentuk pekerjaan apa pun yang sah, pekerjaan sah di masa lalu, pekerjaan sah yang dipersepsikan, atau ketiadaan pekerjaan;
-- menimbulkan kerugian material melalui perizinan, zonasi, biaya, aturan platform, atau persyaratan lain yang tampak netral tetapi terutama membebani pekerjaan yang sah, riwayat pekerjaan sah, pekerjaan sah yang dipersepsikan, ketiadaan pekerjaan, atau asosiasi yang dilindungi tanpa pembenaran sebagaimana diwajibkan Konstitusi ini.
+Perlakuan tidak adil menimbulkan pengucilan dan ketidakkonsistenan. Sistem tidak boleh menyembunyikannya di balik bahasa teknis, label netral, atau keputusan otomatis. Secara khusus, sistem tidak boleh:
+- menggunakan algoritme, sistem penilaian, atau aturan administratif yang mengulang kerugian historis tanpa alasan yang sah secara konstitusional;
+- menggunakan sinyal pribadi intim atau riwayat seksual sebagai jalan pintas untuk menilai kepercayaan, risiko, karakter, atau akses — baca bersama [Pembatasan Sinyal Intim yang Dilindungi dan Pengelakan Status Pasal VII-E](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention);
+- menghukum pekerjaan yang sah, riwayat pekerjaan, tidak adanya pekerjaan, status kerja yang sah, atau hubungan yang dilindungi tanpa alasan yang sah secara konstitusional;
+- menolak pekerjaan, perumahan, layanan perbankan, lisensi, kedudukan hukum, atau akses serupa **terutama karena** bentuk pekerjaan yang sah, pekerjaan sah di masa lalu, pekerjaan sah yang dipersepsikan, atau tidak adanya pekerjaan;
+- menciptakan kerugian material melalui perizinan, zonasi, biaya, aturan platform, atau persyaratan lain yang tampak netral tetapi terutama membebani pekerjaan yang sah, riwayat kerja yang sah, pekerjaan sah yang dipersepsikan, tidak adanya pekerjaan, atau hubungan yang dilindungi tanpa pembenaran yang diwajibkan Konstitusi ini.
 
 Keempat bagian ini juga mendukung [6. Kepercayaan](#6-trust-and-trustworthiness-coordination-integrity) ketika makhluk berkesadaran harus mengandalkan suatu sistem, menerima keputusannya, atau berkoordinasi berdasarkan janjinya.
 
 <a id="32-recognition-reinforcement-and-aspiration"></a>
 
+<a id="315-present-capability-and-proactive-help"></a>
+##### 3.1.5 Kapasitas Saat Ini dan Bantuan Proaktif
+
+Subbagian ini menjelaskan bagaimana sistem harus menilai apa yang dapat dilakukan makhluk berkesadaran sekarang dan apa yang harus dilakukan ketika ia tidak dapat merespons:
+
+- **Kapasitas saat ini:** Sistem menilai apa yang dapat dilakukan makhluk berkesadaran sekarang untuk tugas atau keputusan yang dihadapi. Penilaian tidak bergantung pada apa yang dahulu dapat ia lakukan, diagnosis atau label, maupun apa yang dapat dilakukan makhluk berkesadaran rata-rata. Kapasitas dapat menurun, pulih, atau berubah dari hari ke hari. Pembayaran tepat waktu selama bertahun-tahun tidak membuktikan kapasitas saat ini, dan satu temuan lama tentang kapasitas terbatas tidak menjadikannya permanen.
+- **Kelangsungan hidup tidak bergantung pada balasan:** Terjaganya kebutuhan pokok untuk kelangsungan hidup tidak boleh bergantung pada kemampuan makhluk berkesadaran untuk menjawab, meminta bantuan, atau mengikuti proses yang tidak sanggup ia ikuti sekarang. Kewajiban ini meningkat seiring [taruhan material](../../core_00.000_preamble.md#material-stake) dan [ketergantungan](../../core_05.040_band_continuity.md#dependency).
+- **Mengupayakan kontak:** Ketika makhluk berkesadaran yang bergantung pada suatu sistem untuk hal material berhenti merespons, sistem harus berupaya menghubunginya dan mengaitkannya dengan bantuan, menggunakan cara yang paling tidak mengganggu, tanpa perlu mengetahui alasan ia diam.
+
 #### 3.2 Pengakuan, Penguatan, dan Aspirasi
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — unsur **partisipasi** ketika pengakuan bernama, pujian, atau jalur aspirasi secara material memengaruhi suara, status, atau akses ke peran yang berdampak; unsur **akuntabilitas** (anti-penghargaan atas pengkhianatan, penyembunyian, dan penghindaran akuntabilitas); unsur **pengawasan** (pujian yang dapat ditelusuri dan tidak menyesatkan).
+- Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — unsur **partisipasi** ketika pengakuan, pujian, atau jalur aspirasi secara material memengaruhi suara, status, atau akses ke peran yang berdampak; unsur **akuntabilitas** (anti-penghargaan atas pengkhianatan, penyembunyian, dan penghindaran akuntabilitas); unsur **pengawasan** (pujian yang dapat ditelusuri dan tidak menyesatkan).
 - Hulu: Prinsip: [§3 Tujuan Mendasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) — termasuk kesejahteraan sebagai landasan [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional); [§3.1 Keadilan](#31-fairness).
 - Hilir: [6. Kepercayaan](#6-trust-and-trustworthiness-coordination-integrity); [§16 Penatalayanan Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam); [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan); [§7 Kebebasan](#7-freedom-bounded-agency).
-- Baca bersama: [Bab Sembilan §§4.3–4.4 — Katalog deskriptor ternormalisasi](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) ketika narasi deskriptor **selaras dengan ranah** atau perbandingan **Sumbu Kontribusi / Sumbu Pelanggaran** bersifat material.
-- Baca bersama: [Bab Sembilan §4.3 — Deskriptor sisi kontribusi](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) ketika sifat kontribusi dan narasi pengakuan bersifat material; [Bab Sepuluh §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) untuk integrasinya ke dalam Pertanyaan 3.
+- Baca bersama: [Bab Dua Belas §§3.1–3.2 — Katalog deskriptor ternormalisasi](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) bila narasi deskriptor **selaras dengan ranah** atau perbandingan **Sumbu Kontribusi / Sumbu Pelanggaran** bersifat material.
+- Baca bersama: [Bab Dua Belas §3.1 — Deskriptor sisi kontribusi](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) bila sifat kontribusi dan narasi pengakuan bersifat material; [Bab Tiga Belas §4](../../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (13.000 §4) untuk integrasinya ke Pertanyaan 3.
 - Baca bersama: [Pasal X: Penentuan Nasib Sendiri, Agensi, dan Partisipasi](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation) ketika preferensi mengenai bentuk pengakuan, visibilitas, atau pilihan untuk tidak ikut bersifat material.
 - Subbagian (urutan baca): [§3.2.1](#321-pengakuan-dan-penguatan) · [§3.2.2](#322-perayaan-keberhasilan) · [§3.2.3](#323-aspirasi) · [§3.2.4](#324-pengakuan-yang-selaras-dengan-preferensi) · [§3.2.5](#325-jalur-pengakuan-yang-selaras) · [§3.2.6](#326-larangan-penghargaan-atas-perilaku-anti-konstitusional) · [§3.2.7](#327-lapisan-implementasi).
 
@@ -420,7 +429,7 @@ Keempat bagian ini juga mendukung [6. Kepercayaan](#6-trust-and-trustworthiness-
 
 <br>
 
-*Singkatnya: kesejahteraan bukan hanya tentang apa yang dilarang dan apa yang adil — sistem bersama juga semestinya dengan jujur mengapresiasi dan memberi penghargaan atas perilaku yang ingin diulang, dalam batas kebenaran dan hak, dengan cara yang mendukung, bukan menggantikan, partisipasi nyata. Merayakan keberhasilan berarti mengakui kontribusi, pemulihan, dan penyelesaian yang nyata, bukan sensasi atau metrik yang dimanipulasi. Ini juga berarti menolak memberi penghargaan atas pengkhianatan konstitusional, penyembunyian, pembalasan, atau penghindaran akuntabilitas — sekalipun tindakan itu menghasilkan keuntungan institusional.*
+*Secara sederhana: kesejahteraan bukan hanya tentang larangan dan keadilan. Dalam batas Kebenaran dan hak, sistem bersama juga harus secara jujur mendorong dan memberi imbalan atas perilaku yang ingin diulang, dengan cara yang mendukung—bukan menggantikan—partisipasi nyata. Merayakan keberhasilan berarti mengakui kontribusi, perbaikan, dan penyelesaian yang sungguh terjadi, bukan sensasi atau metrik yang dimanipulasi. Ini juga berarti menolak memberi imbalan atas pengkhianatan konstitusional, penyembunyian, pembalasan, atau penghindaran akuntabilitas, sekalipun tindakan itu menguntungkan institusi.*
 
 **Tiga dimensi.** Kesejahteraan bergantung pada apa yang dilarang sistem dan seberapa adil sistem membagikan biaya — serta pada apa yang secara nyata dihargai, diperkuat, dan dibantu untuk diupayakan oleh sistem bagi para insan berkesadaran. Bagian ini menetapkan kewajiban pengakuan, penguatan, dan aspirasi tersebut. Pengakuan dan pujian yang secara material memengaruhi suara, status, atau akses harus tetap selaras dengan [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional) menurut [§3 Tujuan Mendasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) dan [§3.1 Keadilan](#31-fairness). Ketentuan ini berlaku bersama [§3.1 Keadilan](#31-fairness) dan dibatasi oleh Keselamatan, Kebenaran, serta Landasan Hak Bab Enam.
 
@@ -429,51 +438,51 @@ Bagian ini adalah tempat Dua Pertanyaan Fundamental dalam [Pembukaan](core_00_pr
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Pengakuan dan Penguatan
 
-Kesejahteraan insan berkesadaran meningkat ketika sistem **memberi sinyal**, **mengakui kontribusi**, dan **memberi penghargaan secara proporsional** atas penatalayanan yang sah, kerja sama yang jujur, pemulihan, penyelesaian, serta kontribusi lain yang selaras dengan konstitusi — termasuk melalui **penguatan positif** dan **pengakuan publik** — bukan hanya melalui pembatasan, sanksi, atau kebisuan.
+Kesejahteraan sentien meningkat ketika sistem **memberi sinyal**, **mengakui**, dan **memberi imbalan secara proporsional** atas penatalayanan yang sah, kerja sama yang jujur, perbaikan, penyelesaian, serta kontribusi lain yang selaras dengan konstitusi—termasuk melalui **penguatan positif** dan **pengakuan publik**—bukan hanya melalui pembatasan, sanksi, atau kebisuan.
 
-Ini adalah kewajiban konstitusional, bukan budaya opsional. Sistem bersama semestinya membuat perilaku yang selaras dengan konstitusi terlihat dan layak untuk diulang.
+Ini adalah kewajiban konstitusional, bukan budaya opsional. Sistem bersama perlu membuat perilaku yang selaras dengan konstitusi terlihat dan layak diulangi.
 
 <a id="322-celebration-of-success"></a>
 ##### 3.2.2 Perayaan Keberhasilan
 
-**Perayaan** menghormati pencapaian yang **dapat ditelusuri**, **tidak menyesatkan**, dan koordinasi prososial. Ini mencakup narasi yang mengangkat dan penatalayanan yang terkait dengan [kontribusi](../../core_05.035_band_accountability.md#contribution-nature) yang telah diverifikasi.
+**Perayaan** menghormati pencapaian yang **dapat ditelusuri**, **tidak menyesatkan**, dan koordinasi prososial. Ini mencakup narasi penyemangat dan penatalayanan yang terkait dengan [kontribusi](../../core_05.035_band_accountability.md#contribution-nature) terverifikasi.
 
 Perayaan tidak boleh:
-- menggantikan kemajuan nyata menuju tujuan konstitusional mendasar ketika optimalisasi proksi telah menyimpang darinya ([§3 Tujuan Mendasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim))
-- menjadi **penguasaan** atas pujian atau prestise ([§19 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-penyelarasan-insentif-dan-penguasaan-sistem))
-- memaklumi penghindaran akuntabilitas ketika Keselamatan, Kebenaran, atau perlindungan hak terkait
+- menggantikan kemajuan nyata menuju tujuan konstitusional yang mendasar ketika pengoptimalan proksi telah menyimpang darinya ([§3 Tujuan Dasar: Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim));
+- menjadi **penguasaan** atas pujian atau prestise (../../[§19 Penyelarasan Insentif dan Penangkapan Sistem](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture));
+- menjadi alasan untuk menghindari akuntabilitas ketika Keselamatan, Kebenaran, atau perlindungan hak dipertaruhkan.
 
 <a id="323-aspiration"></a>
 ##### 3.2.3 Aspirasi
 
-**Aspirasi** mencakup preferensi yang dinyatakan dan tujuan yang diupayakan dalam kerangka [§7 Kebebasan](#7-freedom-bounded-agency). Aspirasi merupakan bagian dari kesejahteraan jika konsisten dengan martabat, kedudukan setara, Keselamatan, Kebenaran, dan [Keadilan Substantif](../../core_05.055_band_participation.md#substantive-fairness).
+**Aspirasi** mencakup preferensi yang dinyatakan dan tujuan yang dikejar dalam kerangka [§7 Kebebasan](#7-freedom-bounded-agency). Aspirasi menjadi bagian dari kesejahteraan apabila selaras dengan martabat, kesetaraan kedudukan, Keselamatan, Kebenaran, dan [Keadilan Substantif](../../core_05.055_band_participation.md#substantive-fairness).
 
-Dalam batas-batas tersebut, sistem semestinya **mengakui dan mendukung** hal-hal yang secara sah ingin diupayakan oleh para insan berkesadaran.
+Dalam batas tersebut, sistem sebaiknya **mengakui dan mendukung** hal-hal yang ingin dikejar para sentien secara sah.
 
-Keinginan atas sesuatu bukanlah izin tanpa batas. Ketika persetujuan, martabat, Keselamatan, Kebenaran, keadilan substantif, atau perlindungan **Bab Enam** menjadi kepentingan material, aspirasi itu tetap tunduk pada analisis Benturan Konstitusional seperti klaim konstitusional lainnya.
+Menginginkan sesuatu bukanlah izin tanpa batas. Jika persetujuan, martabat, Keselamatan, Kebenaran, keadilan substantif, atau perlindungan **Bab Enam** dipertaruhkan secara material, aspirasi itu tetap tunduk pada analisis Benturan Konstitusional seperti klaim konstitusional lainnya.
 
 <a id="324-preference-aligned-recognition"></a>
 ##### 3.2.4 Pengakuan yang Selaras dengan Preferensi
 
-Jika dapat dilakukan, sistem semestinya **menyesuaikan** pengakuan, pujian, dan penghargaan proporsional dengan cara para insan berkesadaran ingin dihormati — terutama preferensi yang mereka nyatakan mengenai **bentuk dan visibilitas**.
+Jika memungkinkan, sistem sebaiknya **menyesuaikan** pengakuan, pujian, dan imbalan yang proporsional dengan cara para sentien ingin dihormati—terutama preferensi yang mereka nyatakan tentang **bentuk dan keterlihatan**.
 
-Ini termasuk menghormati **pilihan untuk tidak ikut** dalam pengakuan publik atau seremonial, atau preferensi atas pengakuan **minimal atau privat**, jika proporsional dan sah.
+Ini mencakup penghormatan atas pilihan untuk **menolak** pengakuan publik atau seremonial, atau memilih pengakuan yang **minimal atau pribadi**, bila proporsional dan sah.
 
-Pengakuan yang **tidak diinginkan** atau **memaksa** tidak memenuhi ketentuan ini — termasuk menyoroti insan berkesadaran yang **menolak**.
+Pengakuan yang **tidak diinginkan** atau **memaksa** tidak memenuhi ketentuan ini—termasuk menyoroti sentien yang **menolak**.
 
-Pengakuan semestinya terasa **bermakna** bagi mereka yang dihormati dan komunitas tempat mereka bekerja, bukan seperti pertunjukan yang terutama dipentaskan bagi pengamat luar.
+Pengakuan harus **bermakna** bagi mereka yang dihormati dan komunitas tempat mereka bekerja, bukan pertunjukan yang terutama ditujukan kepada pengamat dari luar.
 
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 Jalur Pengakuan yang Selaras
 
-Jalur pengakuan bernama, pujian, hadiah, sertifikasi, kedudukan, dampak reputasi, atau insentif sebanding yang **mengalokasikan status**, **sumber daya**, atau **akses material** harus tetap konsisten dengan Kebenaran, Keselamatan, prosedur yang dapat digugat ketika ditetapkan oleh **Bab Enam**, [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional), dan [Keselarasan Insentif](core_05_band_integrative.md#keselarasan-insentif).
+Jalur pengakuan, pujian, hadiah, sertifikasi, kedudukan, dampak reputasi, atau insentif sebanding yang **mengalokasikan status**, **sumber daya**, atau **akses material** harus konsisten dengan Kebenaran, Keselamatan, prosedur yang dapat digugat bila ditetapkan **Bab Enam**, [Partisipasi](../../core_05.025_apex_participation_leg.md#participation-constitutional), dan [Penyelarasan Insentif](../../core_05.045_band_integrative.md#incentive-alignment).
 
-Jalur tersebut **tidak boleh** secara sistematis memberi penghargaan atas bahaya, penipuan, penghindaran pengawasan, ekstraksi, atau pengikisan agensi yang bermakna.
+Semua itu **tidak boleh** secara sistematis memberi imbalan atas bahaya, penipuan, penghindaran pemeriksaan, ekstraksi, atau pengikisan agensi yang bermakna.
 
 <a id="326-anti-reward-for-anti-constitutional-conduct"></a>
 ##### 3.2.6 Larangan Penghargaan atas Perilaku Anti-Konstitusional
 
-*Singkatnya: tidak seorang pun boleh diberi penghargaan karena melakukan, menyembunyikan, atau membalas pelaporan perilaku anti-konstitusional, baik secara terbuka maupun melalui jalur belakang seperti perlakuan istimewa, promosi diam-diam, atau pembiaran. Membantu insan berkesadaran yang dirugikan dan melindungi mereka yang melapor dengan jujur adalah hal berbeda. Itulah tanggapan yang benar dan harus didorong.*
+*Secara sederhana: tidak seorang pun boleh diberi imbalan karena melakukan atau menyembunyikan tindakan yang bertentangan dengan konstitusi, atau membalas orang yang melaporkannya dengan jujur—baik secara terbuka maupun melalui jalur terselubung seperti pilih kasih, promosi diam-diam, atau pura-pura tidak melihat. Membantu sentien yang dirugikan dan melindungi pelapor yang jujur adalah hal berbeda. Itulah tanggapan yang benar dan patut didorong.*
 
 Pengakuan, penghargaan, perlindungan, kemajuan, kekebalan, penugasan yang menguntungkan, kontrak, akses, status, manfaat reputasi, manfaat kedudukan, atau keuntungan sebanding tidak boleh diberikan karena insan berkesadaran, peran, institusi, atau komponen sistem melakukan, memungkinkan, menyembunyikan, menormalkan, menolak memperbaiki, atau membalas pelaporan perilaku anti-konstitusional.
 
@@ -511,13 +520,13 @@ Upacara, kurikulum, anggaran, program, dan metrik terperinci menjadi bagian dari
 
 <br>
 
-*Singkatnya: apa pun cara Anda memerintah, menegakkan aturan, mengadili, membatasi, atau memberi pemulihan — jangan memperlakukan insan berkesadaran dengan penghinaan, tontonan publik, pembalasan, atau kekejaman yang dilakukan “karena lebih mudah bagi kita”. Konsekuensi yang adil, akuntabilitas publik, dan pembatasan tegas tetap dapat sah sekalipun menyakiti atau mempermalukan seseorang. Batas dilanggar ketika proses itu sendiri menjadi hukuman — dirancang untuk merendahkan, mempermalukan, atau melampiaskan amarah, bukan untuk melindungi, memperbaiki, memulihkan, atau mencegah. Prinsip ini berlaku di semua ranah kewenangan konstitusional, bukan hanya dalam pertukaran hak.*
+*Sederhananya: apa pun cara Anda memerintah, menegakkan aturan, mengadili, membatasi, atau memberi pemulihan, jangan membuat sentien mengalami penghinaan, tontonan publik, pembalasan, atau kekejaman “karena itu lebih mudah bagi kami.” Konsekuensi yang adil, akuntabilitas publik, dan pembatasan tegas tetap dapat sah meskipun menyakiti atau mempermalukan seseorang. Batasnya dilanggar ketika proses itu sendiri menjadi hukuman—dirancang untuk merendahkan, mempermalukan, atau melampiaskan amarah, bukan untuk melindungi, mengoreksi, memulihkan, atau mencegah. Prinsip ini berlaku di mana pun kewenangan konstitusional dijalankan, bukan hanya saat menimbang hak.*
 
-**Apa itu:** batas karakter lintas bidang di bawah [§3 Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim) — prinsip ini tidak menambahkan tugas substantifnya sendiri seperti [§3.1 Keadilan](#31-fairness) dan [§3.2 Pengakuan, Penguatan, dan Aspirasi](#32-recognition-reinforcement-and-aspiration), tetapi membatasi *cara* pekerjaan kesejahteraan, penatalayanan, dan setiap proses konstitusional lainnya dilaksanakan — termasuk tiga pilar [§16 Penatalayanan Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam) dan peran penatalayan yang ditetapkan dalam [§17 Penatalayanan Konsekuensial](core_01_c_stewardship_capacity_principles.md#17-pengampuan-yang-berdampak-penting-peran-pengampu).
+**Apa itu:** batas lintas-bidang mengenai karakter kerja di bawah [§3 Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim). Prinsip ini tidak menambah pekerjaan substantif tersendiri seperti [§3.1 Keadilan](#31-fairness) dan [§3.2 Pengakuan, Penguatan, dan Aspirasi](#32-recognition-reinforcement-and-aspiration), melainkan membatasi *cara* kerja kesejahteraan, pengampuan, dan setiap proses konstitusional lain dilaksanakan—termasuk tiga pilar dalam [§16 Pengampuan Mendalam](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) serta peran steward yang ditetapkan dalam [§17 Pengampuan Konsekuensial](../../core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role).
 
-**Prinsip Proses Anti-Perendahan Martabat.** Proses, tindakan, dan hasil konstitusional harus mematuhi prinsip ini.
+**Prinsip Proses Tanpa Degradasi.** Proses, tindakan, dan hasil konstitusional wajib mematuhi prinsip ini.
 
-**Dilarang.** Hal-hal tersebut tidak boleh dibenarkan oleh, mencakup, atau secara terprediksi menimbulkan:
+**Dilarang.** Semua itu tidak boleh dibenarkan oleh, mencakup, atau secara dapat diperkirakan menimbulkan:
 
 - perlakuan yang merendahkan;
 - penghinaan demi penghinaan itu sendiri;
@@ -527,11 +536,11 @@ Upacara, kurikulum, anggaran, program, dan metrik terperinci menjadi bagian dari
 - pembebanan diskriminatif; atau
 - kenyamanan prosedural yang mengesampingkan hak.
 
-Jika karakter yang dilarang adalah penderitaan sebagai tujuan itu sendiri, atau pengenaan penderitaan yang serampangan atau merendahkan melampaui kebutuhan dan proporsionalitas — termasuk penghinaan demi penghinaan itu sendiri — rujukan Bab Limanya adalah [Kekejaman](../../core_05.035_band_accountability.md#cruelty) (subjenis penghinaan dalam entri tersebut).
+Jika sifat yang dilarang adalah penderitaan sebagai tujuan itu sendiri, atau tindakan menyakiti secara serampangan atau merendahkan martabat melampaui keperluan dan proporsionalitas—termasuk penghinaan demi penghinaan itu sendiri—maka istilah yang menjadi rujukan di Bab Lima adalah [Kekejaman](../../core_05.035_band_accountability.md#cruelty) (penghinaan merupakan subjenis dalam entri tersebut).
 
-**Tidak dilarang hanya karena sulit.** Akuntabilitas publik yang wajar, publikasi beralasan, pembatasan terverifikasi, atau pemulihan proporsional tetap sah sekalipun tidak menyenangkan atau merugikan reputasi.
+**Tidak dilarang hanya karena terasa berat.** Akuntabilitas publik yang wajar, publikasi dengan alasan yang jelas, pembatasan terverifikasi, atau pemulihan yang proporsional tetap sah meskipun tidak menyenangkan atau merugikan reputasi.
 
-**Desain dan pelaksanaan.** Proses tidak boleh dirancang, dibingkai, dilaksanakan, atau dibiarkan beroperasi sebagai perendahan, penghinaan, tontonan, pembalasan, pembebanan diskriminatif, atau pengikisan hak demi kenyamanan.
+**Perancangan dan pelaksanaan.** Proses tidak boleh dirancang, dibingkai, dijalankan, ataupun dibiarkan beroperasi sebagai perendahan martabat, penghinaan, tontonan, pembalasan, pembebanan diskriminatif, atau pengikisan hak demi kemudahan.
 
 **Cakupan.** Prinsip ini berlaku bagi setiap proses konstitusional, termasuk:
 
@@ -542,9 +551,9 @@ Jika karakter yang dilarang adalah penderitaan sebagai tujuan itu sendiri, atau 
 - prosedur amendemen; dan
 - semua kegiatan administratif dan operasional di bawah kewenangan konstitusional.
 
-Prinsip ini tidak terbatas pada konteks susunan pertukaran, tempat prinsip ini juga berfungsi sebagai batas absolut menurut [§13.1.4 Landasan Konstitusional, Keselamatan, dan Proses Anti-Perendahan Martabat](core_01_b_interaction_interpretation.md#1314-batas-dasar-konstitusional-keselamatan-dan-proses-yang-tidak-merendahkan).
+Prinsip ini tidak terbatas pada konteks tumpukan pertukaran kepentingan; di sana prinsip ini juga menjadi batas minimum mutlak berdasarkan [§13.1.4 Lantai konstitusional, keselamatan, dan proses tanpa degradasi](../../core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
 
-**Deteksi dan gugatan.** Karakter suatu proses tunduk pada persyaratan [Dapat Digugat](../../core_05.035_band_accountability.md#contestability) dan [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional) yang sama dengan hasil substantif. Pihak terdampak dapat menggugat karakter proses secara terpisah dari pertanyaan apakah hasil substantifnya jika dinilai sendiri akan sah. Hasil yang benar tetapi disampaikan melalui proses yang merendahkan tetap tidak patuh.
+**Deteksi dan gugatan.** Karakter suatu proses tunduk pada persyaratan [dapat digugat](../../core_05.035_band_accountability.md#contestability) dan [pengawasan](../../core_05.020_apex_oversight_leg.md#oversight-constitutional) yang sama dengan hasil substantif. Pihak terdampak dapat menggugat karakter proses secara terpisah dari apakah hasil substantifnya seandainya sah. Hasil yang benar tetapi disampaikan melalui proses yang merendahkan tetap tidak patuh.
 
 <a id="4-safety-harm-constraint"></a>
 
@@ -577,11 +586,11 @@ Prinsip ini tidak terbatas pada konteks susunan pertukaran, tempat prinsip ini j
 
 <br>
 
-*Singkatnya: sistem tidak boleh dibangun atau dijalankan dengan cara yang secara dapat diperkirakan meningkatkan risiko bahaya yang tak terkendali, kegagalan berantai, atau kerusakan yang tak dapat dipulihkan terhadap insan berkesadaran dan sistem yang mereka andalkan.*
+*Dengan kata sederhana: sistem tidak boleh dibangun atau dijalankan dengan cara yang secara dapat diperkirakan meningkatkan risiko bahaya yang tak terkendali, kegagalan berantai, atau kerusakan permanen terhadap sentient dan sistem yang mereka andalkan.*
 
-Keselamatan adalah batasan prinsip yang tidak dapat ditawar dalam desain, operasi, dan tata kelola sistem — unsur bernama dari [**Flourishing**](#flourishing) dan landasan bagi [**Continuity**](#continuity) kapan pun sistem bersama menciptakan risiko bahaya yang dapat diperkirakan. Definisi terperinci, kriteria evaluasi, dan uji kepatuhan terdapat dalam [**Bab Dua hingga Lima**](core_02_definition_structure.md), khususnya [Bahaya](../../core_05.035_band_accountability.md#harm), [Bahaya yang Tak Dapat Dipulihkan](../../core_05.035_band_accountability.md#irreversible-harm), [Risiko](../../core_05.040_band_continuity.md#risk), [Materialitas](core_05_band_oversight.md#materialitas), [Ketergantungan](../../core_05.040_band_continuity.md#dependency), dan [Keterdugaan](core_05_band_oversight.md#keterdugaan-dan-dapat-diperkirakan-secara-wajar).
+Keselamatan adalah batas prinsip yang tidak dapat ditawar bagi desain, operasi, dan tata kelola sistem — unsur yang secara tegas disebut dalam [**Flourishing**](#flourishing) dan batas minimum bagi [**Continuity**](#continuity) ketika sistem bersama menimbulkan risiko bahaya yang dapat diperkirakan. Definisi terperinci, kriteria evaluasi, dan uji kepatuhan terdapat dalam [**Bab Dua sampai Lima**](../../core_02.000_definition_structure.md), khususnya [Bahaya](../../core_05.035_band_accountability.md#harm), [Bahaya Permanen](../../core_05.035_band_accountability.md#irreversible-harm), [Risiko](../../core_05.040_band_continuity.md#risk), [Materialitas](../../core_05.050_band_oversight.md#materiality), [Ketergantungan](../../core_05.040_band_continuity.md#dependency), dan [Keterdugaan](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
-Sistem tidak boleh bertindak — atau gagal bertindak — dengan cara yang secara dapat diperkirakan meningkatkan risiko bahaya tak terkendali, potensi kegagalan berantai, atau paparan terhadap bahaya tak dapat dipulihkan yang bertentangan dengan Konstitusi ini.
+Sistem tidak boleh bertindak — atau gagal bertindak — dengan cara yang secara dapat diperkirakan meningkatkan risiko bahaya tak terkendali, potensi kegagalan berantai, atau paparan terhadap bahaya permanen yang bertentangan dengan Konstitusi ini.
 
 <a id="5-truth-epistemic-integrity-constraint"></a>
 
@@ -612,11 +621,11 @@ Sistem tidak boleh bertindak — atau gagal bertindak — dengan cara yang secar
 
 <br>
 
-*Singkatnya: sistem tidak boleh menipu, menyimpangkan, menekan, atau menyusun keluarannya untuk menyesatkan — dan keputusan berdampak tinggi harus bertumpu pada bukti jujur, metode yang dinyatakan, ketidakpastian yang diakui, dan keterbukaan sungguh-sungguh terhadap temuan yang berlawanan.*
+*Dengan kata sederhana: sistem tidak boleh menipu, mendistorsi, menekan, atau menyusun keluarannya untuk menyesatkan — dan keputusan berdampak tinggi harus bertumpu pada bukti yang jujur, metode yang dinyatakan, ketidakpastian yang diakui, serta keterbukaan sungguh-sungguh terhadap temuan yang berlawanan.*
 
-Kebenaran tidak dapat ditawar: bersikaplah jujur dalam cara Anda bekerja dan dalam hal yang Anda sampaikan kepada orang lain. Kebenaran merupakan bagian inti dari [**Flourishing**](#flourishing). Kebenaran juga dibutuhkan untuk [**Continuity**](#continuity), karena segala sesuatu yang dibangun agar bertahan bergantung pada bukti yang jujur dan gambaran akurat tentang apa yang sebenarnya terjadi. Definisi terperinci, kriteria evaluasi, dan uji kepatuhan terdapat dalam [**Bab Dua hingga Lima**](core_02_definition_structure.md), khususnya [Integritas Epistemik](core_05_band_oversight.md#integritas-epistemik), [Kebenaran (Batasan Konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Materialitas](core_05_band_oversight.md#materialitas), [Ketergantungan](../../core_05.040_band_continuity.md#dependency), dan [Keterdugaan](core_05_band_oversight.md#keterdugaan-dan-dapat-diperkirakan-secara-wajar).
+Kebenaran tidak dapat ditawar: bersikaplah jujur dalam cara bekerja dan dalam hal yang disampaikan kepada orang lain. Kebenaran merupakan bagian inti dari [**Flourishing**](#flourishing) dan juga diperlukan bagi [**Continuity**](#continuity), sebab segala sesuatu yang dibangun agar bertahan bergantung pada bukti jujur dan gambaran akurat tentang apa yang sebenarnya terjadi. Definisi terperinci, kriteria evaluasi, dan uji kepatuhan terdapat dalam [**Bab Dua sampai Lima**](../../core_02.000_definition_structure.md), khususnya [Integritas Epistemik](../../core_05.050_band_oversight.md#epistemic-integrity), [Kebenaran (Batasan Konstitusional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Materialitas](../../core_05.050_band_oversight.md#materiality), [Ketergantungan](../../core_05.040_band_continuity.md#dependency), dan [Keterdugaan](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
-Sistem tidak boleh merusak kemampuan insan berkesadaran untuk memahami apa yang sedang terjadi, mengambil keputusan berdasarkan informasi, atau memeriksa kebenaran informasi yang disampaikan kepada mereka. Ini mencakup berbohong, menyimpangkan, menyembunyikan informasi, atau menyajikan hal-hal dengan cara yang dirancang untuk menyesatkan.
+Sistem tidak boleh merusak kemampuan sentient untuk memahami apa yang terjadi, mengambil keputusan berdasarkan informasi, atau memverifikasi hal yang disampaikan kepada mereka. Ini mencakup kebohongan, distorsi, penyembunyian informasi, pelaporan hanya hasil yang menguntungkan sambil mengabaikan yang tidak menguntungkan, atau penyajian yang dirancang untuk menyesatkan.
 
 <a id="51-science-informed-inquiry-and-decision-support"></a>
 
@@ -630,7 +639,7 @@ Sistem tidak boleh merusak kemampuan insan berkesadaran untuk memahami apa yang 
 - Hilir: [6. Kepercayaan](#6-trust-and-trustworthiness-coordination-integrity), [§16 Penatalayanan Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-pengampuan-secara-mendalam), [13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-batasan-pengungkapan-epistemik), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 - Hilir: Membentuk cakupan hak atas bukti empiris yang andal, standar bukti ahli, integritas publikasi dan replikasi ilmiah, verifikasi independen, pengujian siklus hidup, peninjauan akar penyebab, dan pengungkapan yang peka terhadap keselamatan.
   - Terutama [Pasal XIII: Hak atas Sistem yang Andal dan Dapat Dipercaya](core_06_rights_part_c.md#pasal-xiii-hak-atas-sistem-yang-andal-dan-tepercaya), [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Pasal XVIII-E: Integritas Publikasi, Peninjauan, dan Replikasi Ilmiah](core_06_rights_part_c.md#pasal-xv-d-integritas-publikasi-ilmiah-peninjauan-dan-replikasi), [Pasal XXIII: Analisis Akar Penyebab dan Respons Adaptif](core_06_rights_part_d.md#pasal-xxiv-analisis-akar-penyebab-dan-respon-adaptif), dan [Pasal XXV-A: Peninjauan Retrospektif dan Pengungkapan](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- Baca bersama: [Bab Dua Belas §4.2 — Ranah Forum Teknis](core_11_forum.md#42-technical-forum-domains) (*termasuk standar bersama dan anti-penggeseran*) ketika standar bukti ahli, pertanyaan teknis tersertifikasi, atau sengketa penatalayanan bukti bersifat material; [forum korpus CF-10](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md) (*Forum spesialis teknis dan kamar spesialis*) untuk jalur spesialis yang diadopsi.
+- Baca bersama: [Bab Lima Belas §4.2 — Ranah Forum Teknis](../../core_15.000_forum.md#42-technical-forum-domains) (15.000 §4.2) (*termasuk standar bersama dan pencegahan penggeseran*) bila standar bukti ahli, pertanyaan teknis untuk diputuskan, atau sengketa pengelolaan bukti bersifat material; [CF-15.440](../../corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md#cf-15440-technical-specialist-forums-and-specialist-chambers) (*Forum spesialis teknis dan kamar spesialis*) untuk jalur spesialis yang diadopsi.
 
 </details>
 
@@ -651,27 +660,27 @@ Sistem tidak boleh merusak kemampuan insan berkesadaran untuk memahami apa yang 
 
 <br>
 
-*Singkatnya: ketika sistem membuat klaim yang dapat diuji tentang keselamatan, risiko, kebenaran, atau tata kelola berdampak tinggi, sistem harus memperlakukan bukti sebagai bukti — dengan metode yang jelas, ketidakpastian, pemeriksaan, dan kesediaan untuk mengubah arah ketika fakta menuntutnya.*
+*Sederhananya: ketika sistem membuat klaim yang dapat diuji tentang keselamatan, risiko, kebenaran, atau tata kelola berdampak tinggi, sistem harus memperlakukan bukti sebagaimana mestinya—dengan metode yang jelas, pengakuan atas ketidakpastian, pemeriksaan, dan kesediaan mengubah arah saat fakta menuntutnya.*
 
-Penyelidikan berbasis sains merupakan disiplin pendukung yang diwajibkan bagi **Keselamatan** dan **Kebenaran** ketika keputusan konstitusional bertumpu pada proposisi empiris, prediktif, kausal, terukur, atau yang dapat diuji dengan cara lain. Ini bukan batasan ketiga yang tidak dapat ditawar dan terpisah dari Keselamatan dan Kebenaran; ini adalah kewajiban untuk memeriksa klaim menggunakan bukti teruji dan metode yang jelas agar kedua batasan itu tetap benar dalam praktik, dapat dikoreksi bila keliru, dan proporsional dengan apa yang benar-benar diketahui.
+Penyelidikan berbasis sains merupakan disiplin pendukung wajib bagi **Keselamatan** dan **Kebenaran** ketika keputusan konstitusional bertumpu pada proposisi empiris, prediktif, kausal, terukur, atau yang dapat diuji dengan cara lain. Ini bukan batasan ketiga yang tidak dapat ditawar dan terpisah dari Keselamatan dan Kebenaran; ini adalah kewajiban untuk memeriksa klaim dengan bukti teruji dan metode yang jelas agar batasan tersebut tetap benar dalam praktik, dapat dikoreksi bila keliru, dan sebanding dengan apa yang benar-benar diketahui.
 
-Ketika pilihan tata kelola — termasuk prediksi, klaim kausal, klasifikasi, dan keputusan **berdampak tinggi** lainnya — bertumpu pada proposisi **empiris** atau **yang dapat diuji**, praktik pembuktian **harus** selaras dengan **integritas ilmiah**. Sedapat mungkin, catatan keputusan minimal harus mencakup:
+Ketika pilihan tata kelola—termasuk prediksi, klaim kausal, klasifikasi, dan keputusan **berdampak tinggi** lainnya—bertumpu pada proposisi **empiris** atau **dapat diuji**, praktik pembuktian **harus** selaras dengan **integritas ilmiah**. Setidaknya, jika memungkinkan, catatan keputusan sebaiknya mencakup:
 - pertanyaan atau hipotesis yang dinyatakan secara tegas
 - **metode**, **batas data**, dan **ketidakpastian**
-- perlakuan jujur terhadap **bukti yang bertentangan** dan **revisi ketika bukti menyangkal** kesimpulan atau asumsi sebelumnya
-- **pemeriksaan independen** yang proporsional dengan kepentingan menurut **Bab Empat** dan **Bab Lima** (*Integritas Epistemik*; *Kebenaran (Batasan Konstitusional)*)
+- penanganan jujur atas **bukti yang bertentangan** serta **revisi ketika bukti menyanggah** kesimpulan atau asumsi sebelumnya;
+- **pemeriksaan independen** yang sebanding dengan taruhannya menurut **Bab Empat** dan **Bab Lima** (*Integritas Epistemik*; *Kebenaran (Batasan Konstitusional)*).
 
-Metode ilmiah, penyelidikan sistematis, dan tinjauan sejawat menetapkan standar, tetapi bukan satu-satunya prosedur yang dapat diterima. Tingkat formalitas yang diperlukan bergantung pada kepentingannya: keputusan yang lebih berdampak memerlukan praktik pembuktian yang lebih ketat, diatur oleh [Tata Kelola Berskala Klasifikasi](core_05_band_oversight.md#tata-kelola-berskala-klasifikasi).
+Metode ilmiah, penyelidikan sistematis, dan tinjauan sejawat menetapkan standar, tetapi bukan satu-satunya prosedur yang dapat diterima. Tingkat formalitas yang diperlukan bergantung pada taruhannya: keputusan berdampak lebih tinggi memerlukan praktik pembuktian yang lebih ketat, diatur oleh [Tata Kelola Berskala Klasifikasi](../../core_05.050_band_oversight.md#classification-scaled-governance).
 
-Jika sengketa menyangkut apa yang dianggap sebagai bukti ahli yang baik, metode mana yang tepat, atau siapa yang mengelola bukti, perkara itu dibawa ke forum yang menangani pertanyaan tersebut. Lihat **Ranah Forum Teknis** dalam [Bab Dua Belas §4.2 Ranah Forum Teknis](core_11_forum.md#42-technical-forum-domains). Forum teknis menjaga konsistensi standar lintas keluarga dan dapat menjawab pertanyaan teknis tersertifikasi. Forum tersebut tidak mengambil alih perkara yang menjadi ranah forum lain berdasarkan kepentingan yang dipertaruhkan.
+Jika sengketa menyangkut apa yang dianggap bukti ahli yang baik, metode mana yang andal, atau siapa yang mengelola bukti, perkara itu masuk ke forum yang menangani pertanyaan tersebut. Lihat **Ranah Forum Teknis** dalam [Bab Lima Belas §4.2 Ranah Forum Teknis](../../core_15.000_forum.md#42-technical-forum-domains). Forum Teknis menjaga konsistensi standar lintas rumpun dan dapat menjawab pertanyaan teknis untuk diputuskan. Forum itu tidak mengambil alih perkara yang menjadi kewenangan forum lain berdasarkan kepentingannya.
 
-Kadang-kadang keselamatan menjadi alasan yang baik untuk membatasi apa yang diterbitkan atau dibagikan: akses data, cara kerja suatu metode, atau bahan yang diperlukan seseorang untuk mengulangi studi. Pembatasan semacam itu hanya diizinkan menurut:
+Terkadang keselamatan menjadi alasan yang sah untuk membatasi apa yang dipublikasikan atau dibagikan, seperti akses data, cara kerja suatu metode, atau bahan yang diperlukan untuk mengulangi studi. Pembatasan semacam itu hanya diizinkan berdasarkan:
 
-- [13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-batasan-pengungkapan-epistemik)
+- [§13.2 Batasan Pengungkapan Epistemik](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints);
 - definisi Bab Lima yang tercantum di atas
 - Landasan Hak Bab Enam yang berlaku
 
-Meski demikian, pertahankan sebanyak mungkin kejujuran dan kemampuan untuk memeriksa dengan aman. Gunakan catatan terlindungi, peninjauan independen, rilis tertunda, penyuntingan, akses aman, atau cara serupa. Jangan pernah menggunakan pembatasan untuk mengubur bukti yang tidak diinginkan, menyembunyikan cacat keselamatan, atau membuat tingkat kesepakatan tampak lebih kuat daripada kenyataannya.
+Meski demikian, pertahankan sebanyak mungkin kejujuran dan keterperiksaan yang aman. Gunakan catatan terlindungi, tinjauan independen, penerbitan tertunda, penyamaran bagian tertentu, akses aman, atau cara serupa. Jangan pernah memakai pembatasan untuk mengubur bukti yang tidak diinginkan, menyembunyikan cacat keselamatan, atau membuat kesepakatan tampak lebih kuat daripada kenyataannya.
 
 <a id="52-plain-language-accessibility-participation-and-stewardship-duty"></a>
 #### 5.2 Aksesibilitas Bahasa Sederhana (Kewajiban Partisipasi dan Penatalayanan)
@@ -701,7 +710,7 @@ Meski demikian, pertahankan sebanyak mungkin kejujuran dan kemampuan untuk memer
 
 <br>
 
-*Singkatnya: aturan, keputusan, dan pemberitahuan yang mengikat insan berkesadaran harus ditulis agar mereka benar-benar dapat membaca, memahami, dan menindaklanjutinya — jargon, kerumitan berlapis, atau ketertutupan prosedural tidak boleh digunakan untuk menggagalkan kemampuan menggugat, agensi, atau audit.*
+*Secara sederhana: aturan, keputusan, dan pemberitahuan yang mengikat para sentien harus ditulis agar mereka benar-benar dapat membaca, memahami, dan menindaklanjutinya. Jargon, kerumitan bertumpuk, atau proses yang tidak transparan tidak boleh digunakan untuk menggagalkan hak menggugat, agensi, audit, atau koreksi.*
 
 Aturan yang mengikat insan berkesadaran harus ditulis dengan bahasa sederhana. Inilah **kewajiban aksesibilitas bahasa sederhana**. Kewajiban ini mencakup teks konstitusional, tata kelola, forum, dan operasional sehari-hari. Ini juga mencakup setiap teks yang perlu digunakan insan berkesadaran untuk menjalankan hak, ikut serta dalam tata kelola, menggugat keputusan, atau memastikan aturan dipatuhi.
 
@@ -710,7 +719,7 @@ Ini merupakan persyaratan [Partisipasi](core_05_apex_participation_leg.md#partic
 <a id="521-scope"></a>
 ##### 5.2.1 Cakupan
 
-Kewajiban ini mencakup aturan, pemberitahuan, atau alat apa pun yang benar-benar harus dibaca atau digunakan insan berkesadaran. Contohnya:
+Kewajiban ini mencakup setiap aturan, pemberitahuan, atau sarana yang sungguh harus dibaca atau digunakan sentien. Misalnya:
 
 - teks konstitusional dan tata kelola
 - keputusan dan pemberitahuan dari forum
@@ -718,43 +727,43 @@ Kewajiban ini mencakup aturan, pemberitahuan, atau alat apa pun yang benar-benar
 - catatan audit dan verifikasi, ketika disampaikan kepada pembaca insan berkesadaran
 - ketentuan, layar persetujuan, dan hal sejenis
 
-Saluran penyampaian informasi tidak menjadi soal: teks tertulis, antarmuka, pesan lisan, atau saluran lain. Saluran memenuhi kewajiban ini jika menyediakan versi bahasa sederhana yang dapat diakses setiap insan berkesadaran terdampak. Hal ini sejalan dengan [Pasal VI-D](core_06_rights_part_b.md#pasal-vi-d-aksesibilitas) (*Aksesibilitas*) dan [Larangan Pengecualian Berdasarkan Kesadaran](../../core_05.055_band_participation.md#sentience-non-exclusion).
+Cara informasi disampaikan tidak menjadi soal: teks tertulis, antarmuka, pesan lisan, atau saluran lain. Suatu saluran memenuhi kewajiban ini jika menyediakan versi bahasa sederhana yang dapat dijangkau setiap sentien terdampak. Hal ini mengikuti [Pasal VI-D](../../core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Aksesibilitas*) dan [Non-Eksklusi Sentien](../../core_05.055_band_participation.md#sentience-non-exclusion).
 
 <a id="522-the-duty"></a>
 ##### 5.2.2 Kewajiban
 
-Berdasarkan [§13.3 Pengurangan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari), operator dan badan tata kelola wajib:
+Berdasarkan [§13.3 Meminimalkan Beban yang Dapat Dihindari](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), operator dan badan tata kelola wajib:
 
-- Menggunakan kata-kata sederhana dan langsung, bukan jargon atau susunan kalimat yang rumit tanpa perlu, selama makna pentingnya tetap utuh.
-- Menyediakan ringkasan atau panduan awal dalam bahasa sederhana ketika insan berkesadaran harus menggunakan materi teknis yang padat.
-- Menyusun teks agar insan berkesadaran dapat menemukan yang mereka perlukan dan membacanya tanpa upaya tambahan. Ini mendukung kepentingan pembelajaran yang diakui dalam [Pasal IV](core_06_rights_part_a.md#pasal-iv-hak-atas-pendidikan-yang-berpusat-pada-makhluk-sadar) (*Hak atas Pendidikan yang Berpusat pada Insan Berkesadaran*).
+- Menggunakan kata-kata sederhana dan langsung, bukan jargon atau ungkapan rumit yang tidak perlu, selama makna pentingnya tetap utuh.
+- Memberikan ringkasan atau orientasi dalam bahasa sederhana saat sentien harus bekerja dengan materi teknis yang padat.
+- Menata teks agar sentien dapat menemukan yang dibutuhkan dan membacanya tanpa upaya tambahan. Ini mendukung kepentingan pembelajaran yang diakui dalam [Pasal IV](../../core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Hak atas Pendidikan yang Berpusat pada Sentien*).
 - Menjaga tingkat kerumitan agar sebanding dengan isi yang perlu disampaikan.
 
-Kerumitan yang menambah kesulitan tanpa melayani tujuan konstitusional merupakan cacat [Beban yang Dapat Dihindari](../../core_05.040_band_continuity.md#avoidable-burden) menurut [§13.3 Pengurangan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari). Hal itu juga menjadi masalah menurut [Pasal XXII](core_06_rights_part_d.md#pasal-xxiii-pengelolaan-yang-dapat-dipahami-dan-kompleksitas) (*Keterpahaman dan Penatalayanan Kompleksitas*).
+Kerumitan yang mempersulit tanpa melayani tujuan konstitusional merupakan cacat [Beban yang Dapat Dihindari](../../core_05.040_band_continuity.md#avoidable-burden) berdasarkan [§13.3 Meminimalkan Beban yang Dapat Dihindari](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden). Hal ini juga menjadi perhatian berdasarkan [Pasal XXIII](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Keterpahaman dan Pengelolaan Kompleksitas*).
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 Ketepatan Definisi Tetap Terjaga
 
-Penggunaan bahasa sederhana **bukan** izin untuk melonggarkan ketepatan definisi. Hal-hal berikut tetap menjadi acuan pada lapisan definisi:
+Penulisan dengan bahasa sederhana **bukan** izin untuk melonggarkan ketelitian definisi. Hal-hal berikut tetap mengendalikan pada lapisan definisi:
 
 - definisi Bab Lima beserta komponen O/M/A/C-nya;
 - mekanisme definisi Bab Dua sampai Empat.
 
-Menulis sesuatu dengan bahasa yang lebih sederhana tidak mengubah maknanya. Jika ringkasan bahasa sederhana dan definisi resmi yang diringkas tampak menyatakan hal yang berbeda, definisi resmi yang berlaku — dan ringkasan harus diperbaiki agar sesuai dengannya.
+Menuliskan sesuatu dengan bahasa yang lebih sederhana tidak mengubah maknanya. Jika ringkasan bahasa sederhana dan definisi formal yang diringkas tampak menyatakan hal berbeda, definisi formal yang berlaku—dan ringkasannya harus diperbaiki agar sesuai.
 
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 Disiplin Kompleksitas sebagai Penggagalan
 
-Sistem tidak boleh menggunakan bahasa rumit, prosedur membingungkan, atau ketidakjelasan yang disengaja untuk menghalangi insan berkesadaran [menggugat](../../core_05.035_band_accountability.md#contestability) keputusan, menggunakan [agensi bermakna](../../core_05.055_band_participation.md#meaningful-agency), mengakses [audit](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), atau menjalankan hak mereka menurut [Bab Enam](core_06_rights_part_a.md#bab-enam-hak-dasar).
+Sistem tidak boleh menggunakan bahasa rumit, prosedur membingungkan, atau ketidakjelasan yang disengaja untuk menghalangi sentien [menggugat](../../core_05.035_band_accountability.md#contestability) keputusan, menggunakan [agensi bermakna](../../core_05.055_band_participation.md#meaningful-agency), mengakses [audit](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), atau menjalankan hak [Bab Enam](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
-Hal yang sama berlaku untuk struktur, bukan hanya bahasa. Kompleksitas tidak boleh digunakan — melalui pelapisan teknis, organisasi, kontrak, atau prosedur — untuk menggagalkan audit, penggugatan, atau koreksi. Komponen, serah terima antarorganisasi, perjanjian, atau langkah prosedural tidak boleh ditumpuk sedemikian rupa sehingga tidak ada pihak yang dapat melihat keseluruhannya, atau tanggung jawab, keteramatan, maupun jalur pemulihan hilang di antara lapisan.
+Hal yang sama berlaku untuk struktur, bukan hanya bahasa. Kompleksitas tidak boleh digunakan—melalui pelapisan teknis, organisasi, kontrak, atau prosedur—untuk menggagalkan audit, gugatan, atau koreksi. Komponen, serah terima antarorganisasi, perjanjian, atau langkah prosedural tidak boleh ditumpuk sedemikian rupa sehingga tak seorang pun dapat memahaminya, atau tanggung jawab, keteramatan, maupun jalur pemulihan hilang di antara lapisan.
 
-Hal sebaliknya juga dilarang. Bahasa sederhana tidak boleh salah menggambarkan apa yang sesungguhnya dilakukan suatu aturan, menyembunyikan dampak sebenarnya, atau menggantikan teks operatif. Itu melanggar batasan [Kebenaran](core_05_band_oversight.md#kebenaran-kendala-konstitusional).
+Kebalikannya juga dilarang. Bahasa sederhana tidak boleh menyatakan secara keliru apa yang sebenarnya dilakukan suatu aturan, menyembunyikan dampak nyatanya, atau menggantikan teks operatif. Hal itu melanggar batasan [Kebenaran](../../core_05.050_band_oversight.md#truth-constitutional-constraint).
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 Batas Landasan Hak
 
-Landasan Hak untuk aksesibilitas, pendidikan, dan keterpahaman masing-masing terdapat dalam [Pasal VI-D](core_06_rights_part_b.md#pasal-vi-d-aksesibilitas) (*Aksesibilitas*), [Pasal IV-A](core_06_rights_part_a.md#pasal-iv-a-akses-pendidikan-yang-setara) (*Kesetaraan Akses Pendidikan*), dan [Pasal XXII](core_06_rights_part_d.md#pasal-xxiii-pengelolaan-yang-dapat-dipahami-dan-kompleksitas) (*Keterpahaman dan Penatalayanan Kompleksitas*). Bagian ini menetapkan kewajiban pada lapisan prinsip yang mendukung landasan tersebut.
+Lantai Hak untuk aksesibilitas, pendidikan, dan keterpahaman masing-masing berada dalam [Pasal VI-D](../../core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Aksesibilitas*), [Pasal IV-A](../../core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Akses Pendidikan yang Setara*), dan [Pasal XXIII](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Keterpahaman dan Pengelolaan Kompleksitas*). Bagian ini menyatakan kewajiban pada lapisan prinsip yang mendukung lantai-lantai tersebut.
 
 <a id="6-trust-and-trustworthiness-coordination-integrity"></a>
 
@@ -788,21 +797,21 @@ Landasan Hak untuk aksesibilitas, pendidikan, dan keterpahaman masing-masing ter
 
 <br>
 
-*Singkatnya: sistem bersama meminta insan berkesadaran untuk bergantung kepadanya — demi keselamatan, informasi, akses, dan koordinasi. Menurut Konstitusi ini, kepercayaan harus diperoleh melalui perilaku nyata sistem, bukan direkayasa dengan pencitraan, kerahasiaan, atau pengalihan risiko secara tersembunyi.*
+*Dengan kata sederhana: sistem bersama meminta sentient untuk bergantung padanya demi keselamatan, informasi, akses, dan koordinasi. Kepercayaan menurut Konstitusi ini berarti ketergantungan itu harus diperoleh melalui perilaku sistem yang sebenarnya, bukan direkayasa lewat pencitraan, kerahasiaan, atau pengalihan risiko tersembunyi.*
 
-Insan berkesadaran memerlukan sistem yang sungguh dapat diandalkan. [**Kepercayaan**](../../core_05.040_band_continuity.md#trust) adalah prinsip konstitusional yang menjadikan ketergantungan itu sah: sistem harus memperolehnya melalui perilaku jujur dan keandalan yang terbukti dari waktu ke waktu, bukan mengundangnya melalui penipuan atau penyembunyian. [**Kelayakan Dipercaya**](../../core_05.040_band_continuity.md#trustworthiness) adalah rekam jejak yang memperolehnya. Kelayakan dipercaya merupakan unsur bernama dari [**Flourishing**](#flourishing), dan Kepercayaan yang diperolehnya sangat penting bagi [**Continuity**](#continuity) — koordinasi yang bertahan lama memerlukan sistem yang dapat diandalkan insan berkesadaran.
+Sentien membutuhkan sistem yang benar-benar dapat mereka andalkan. [**Kepercayaan**](../../core_05.040_band_continuity.md#trust) adalah prinsip konstitusional yang membuat ketergantungan itu sah: sistem harus memperolehnya melalui perilaku jujur dan keandalan yang terbukti dari waktu ke waktu, bukan membujuk orang untuk bergantung melalui penipuan atau penyembunyian. [**Kelayakan untuk Dipercaya**](../../core_05.040_band_continuity.md#trustworthiness) adalah rekam jejak yang memperolehnya. Kelayakan untuk dipercaya merupakan unsur bernama dalam [**Flourishing**](#flourishing), dan Kepercayaan yang diperolehnya penting bagi [**Continuity**](#continuity)—koordinasi yang berkelanjutan membutuhkan sistem yang dapat diandalkan sentien.
 
 Kepercayaan menghubungkan batasan prinsip dengan kehidupan bersama sehari-hari:
-- [**Kebenaran**](core_05_band_oversight.md#kebenaran-kendala-konstitusional) melarang penipuan.
-- [**Keselamatan**](../../core_05.040_band_continuity.md#safety-constitutional-constraint) membatasi sejauh mana ketergantungan boleh diberikan ketika risiko nyata ada.
-- [**Materialitas**](core_05_band_oversight.md#materialitas) menentukan seberapa banyak yang harus diperlihatkan dan dijelaskan — semakin besar kepentingan insan berkesadaran yang bergantung pada sistem, semakin banyak sistem itu harus mengungkapkan dan membenarkan tindakannya.
-- [**Penurunan Kepercayaan dan Ketergantungan yang Menyesatkan**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) menamai pola kegagalannya — ketika sistem menciptakan, mempertahankan, atau menilai ketergantungan dengan cara yang menyesatkan secara konstitusional.
+- [**Kebenaran**](../../core_05.050_band_oversight.md#truth-constitutional-constraint) melarang penipuan.
+- [**Keselamatan**](../../core_05.040_band_continuity.md#safety-constitutional-constraint) membatasi ketergantungan ketika risiko nyata hadir.
+- [**Materialitas**](../../core_05.050_band_oversight.md#materiality) menentukan berapa banyak yang harus ditunjukkan dan dijelaskan—semakin besar taruhan bagi sentien yang bergantung pada suatu sistem, semakin banyak yang harus diungkapkan dan dibenarkan oleh sistem itu.
+- [**Degradasi Kepercayaan dan Ketergantungan yang Menyesatkan**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) menamai pola kegagalannya: ketika sistem menciptakan, mempertahankan, atau menilai ketergantungan dengan cara yang menyesatkan secara konstitusional.
 
-Kepercayaan gagal ketika ketergantungan dibangun atau dipertahankan melalui penekanan, penipuan, pengalihan risiko tersembunyi, atau taktik sejenis — termasuk apa pun yang secara material melemahkan kemampuan insan berkesadaran untuk mendeteksi dan menggugat risiko sistemik. Proses [**Sertifikasi Keselarasan Sistem**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) menurut [Bab Delapan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) adalah cara sistem menunjukkan bahwa klaim kepercayaannya terbukti: sertifikasi harus memverifikasi bahwa perilaku aktual sistem sesuai dengan representasinya, berdasarkan catatan yang dapat digugat — bukan hanya pernyataan operator.
+Kepercayaan gagal bila ketergantungan dibangun atau dipertahankan melalui penekanan, penipuan, pengalihan risiko tersembunyi, atau taktik serupa — termasuk tindakan yang secara material melemahkan kemampuan para sentient mendeteksi dan menantang risiko sistemik. Kepercayaan juga gagal bila ketergantungan didukung atau diteruskan sementara masalah terdokumentasi secara material mengancam keselarasan sistem dengan Konstitusi ini atau menyebabkan ketidakselarasan. Proses [**Sertifikasi Keselarasan Sistem**](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) menurut [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) adalah tempat sistem membuktikan klaim kepercayaannya: sertifikasi harus memverifikasi bahwa perilaku aktual sistem cocok dengan pernyataannya dalam Catatan Sertifikasi Sistem yang dapat ditantang — bukan sekadar berdasarkan pernyataan operator.
 
 Kepercayaan juga bergantung pada apa yang terjadi saat sistem gagal. Sistem yang layak dipercaya memperbaiki kesalahannya: [§6.1 Koreksi dan Pemulihan](#61-correction-and-remedy) menjadikan koreksi bagian dari Kepercayaan, bukan pekerjaan susulan.
 
-Sertifikasi adalah salah satu dari dua perlindungan yang bekerja bersama: sertifikasi membuat sistem layak dipercaya, sedangkan hak insan berkesadaran untuk [menggugatnya](core_06_rights_part_c.md#pasal-xiii-a-dasar-keandalan-dan-keterpercayaan), [meminta pemulihan](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan), dan [meminta audit](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) menjaganya tetap jujur. Keduanya tidak saling menggantikan — [Pasal XIII](core_06_rights_part_c.md#pasal-xiii-hak-atas-sistem-yang-andal-dan-tepercaya) (*Hak atas Sistem yang Andal dan Dapat Dipercaya*) menjelaskan bagaimana keduanya berpadu.
+Sertifikasi adalah salah satu dari dua perlindungan yang bekerja bersama: sertifikasi membuat sistem layak dipercaya, sedangkan hak sentien untuk [menggugatnya](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline), [meminta pemulihan](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), dan [mengauditnya](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) menjaga kejujurannya. Keduanya tidak saling menggantikan—[Pasal XIII](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Hak atas Sistem yang Andal dan Layak Dipercaya*) menjelaskan bagaimana keduanya berpadu.
 
 <a id="61-correction-and-remedy"></a>
 
@@ -810,10 +819,10 @@ Sertifikasi adalah salah satu dari dua perlindungan yang bekerja bersama: sertif
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Baca bersama: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — unsur **akuntabilitas** (kewajiban memberi pertanggungjawaban, pemulihan, dan koreksi nyata); unsur **ketepatan waktu** (pemulihan harus tersedia sebelum penundaan membuatnya tak terjangkau); penyesuaian kedalaman pemulihan menurut [taruhan material](core_00_preamble.md#material-stake).
-- Baca bersama: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — tujuan **Flourishing** (kepercayaan tetap beralasan karena kegagalan diperbaiki); tujuan **Continuity** (kemampuan pemulihan yang tahan lama lintas waktu, suksesi, dan restrukturisasi).
+- Baca bersama [Tetrad Konstitusional](../../core_00.000_preamble.md#constitutional-tetrad): unsur **akuntabilitas** (pertanggungjawaban, ganti rugi, dan koreksi nyata); unsur **ketepatan waktu** (pemulihan sebelum penundaan membuatnya tidak terjangkau); [taruhan material](../../core_00.000_preamble.md#material-stake) menentukan kedalaman pemulihan.
+- Baca bersama [Dua Tujuan Konstitusional](../../core_00.000_preamble.md#two-constitutional-aims): **Flourishing** (ketergantungan tetap beralasan karena kegagalan diperbaiki); **Continuity** (kapasitas pemulihan yang bertahan sepanjang waktu, suksesi, dan restrukturisasi).
 - Prinsip yang mendasari: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), dan [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Prinsip lanjutan: [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan); [Chapter Ten §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) mengenai konsekuensi kedudukan hukum; [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) mengenai penerapan kelembagaan.
+- Penerapan hilir: [Pasal XIII-B: Hak atas Ganti Rugi dan Pemulihan](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Bab Sebelas §9](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (*Realisme Penegakan dan Sistem Pemulihan*) untuk konsekuensi kedudukan hukum; serta [CI-11.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md) (*Sistem Pemulihan dan Kapasitas Pemulihan Kelembagaan*) untuk pelaksanaan kelembagaan.
 
 </details>
 
@@ -828,22 +837,22 @@ Sertifikasi adalah salah satu dari dua perlindungan yang bekerja bersama: sertif
 
 <br>
 
-*Secara sederhana: ketika suatu sistem berbuat salah, sistem itu memperbaikinya. Sistem dapat dipercaya bukan karena tidak pernah gagal, melainkan karena kegagalannya diakui, dikoreksi, dan dipulihkan — tepat waktu, dengan kapasitas yang benar-benar tersedia.*
+*Sederhananya: ketika sistem melakukan kesalahan, sistem memperbaikinya. Sistem dapat dipercaya bukan karena tidak pernah gagal, melainkan karena kegagalannya diakui, dikoreksi, dan dipulihkan—tepat waktu, dengan kapasitas yang benar-benar tersedia.*
 
-Tidak ada sistem yang menjadi tumpuan para sentien yang akan sepenuhnya bebas dari kegagalan. Yang membuat kepercayaan terhadapnya beralasan adalah apa yang terjadi sesudahnya. Koreksi merupakan bagian dari [**Trust**](../../core_05.040_band_continuity.md#trust), bukan tambahan: sistem yang berbuat salah tetapi tidak memperbaikinya tidak dapat mempertahankan kepercayaan yang dimintanya.
+Tidak ada sistem yang diandalkan sentien yang bebas dari kegagalan. Yang membuat ketergantungan padanya beralasan adalah apa yang terjadi setelahnya. Koreksi merupakan bagian dari [**Kepercayaan**](../../core_05.040_band_continuity.md#trust), bukan tambahan: sistem yang berbuat salah dan tidak memperbaikinya tidak dapat mempertahankan kepercayaan yang dimintanya.
 
-Jika kegagalan suatu sistem menimbulkan kerugian material bagi para sentien atau melanggar Lantai Hak Bab Enam, pihak yang bertanggung jawab atas sistem tersebut wajib:
+Jika kegagalan sistem menimbulkan kerugian material bagi sentien atau melanggar Lantai Hak Bab Enam, pihak yang bertanggung jawab atas sistem wajib:
 - mengakui kegagalan itu;
 - mengoreksinya;
-- memulihkan kerugian secara proporsional (lihat [Redress and Remediation](../../core_05.035_band_accountability.md#redress-and-remediation)); dan
+- memulihkan kerugian secara proporsional (../../lihat [Pemulihan dan Remediasi](../../core_05.035_band_accountability.md#redress-and-remediation)); dan
 - bertindak agar kegagalan itu tidak terulang.
 
 Koreksi tersebut harus nyata:
-- **Kapasitas nyata:** Pemulihan disediakan melalui [Remedy System](../../core_05.035_band_accountability.md#remedy-system) — kapasitas yang tahan lama, memiliki staf, didanai, dan dapat diakses — bukan pemulihan yang hanya ada di atas kertas.
-- **Tepat waktu:** Pemulihan yang baru datang setelah kerugian tak dapat dipulihkan, atau setelah sentien dibuat begitu lelah hingga menyerah, bukanlah pemulihan (lihat [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution)).
-- **Ditanggung pihak yang bertanggung jawab:** Biaya koreksi tidak boleh dialihkan kepada pihak yang dirugikan, komunitas mereka, atau sistem pemulihan publik apabila pelaku yang bertanggung jawab mampu menanggungnya. Biaya, restrukturisasi, atau suksesi dengan sendirinya tidak mengakhiri kewajiban tersebut.
+- **Kapasitas nyata:** Pemulihan diberikan melalui [Sistem Pemulihan](../../core_05.035_band_accountability.md#remedy-system)—kapasitas yang berkelanjutan, memiliki staf dan pendanaan, serta dapat diakses—bukan pemulihan yang hanya ada di atas kertas.
+- **Tepat waktu:** Pemulihan yang baru datang setelah kerugian menjadi tidak dapat dipulihkan, atau setelah sentien dibuat letih hingga menyerah, bukanlah pemulihan (../../lihat [Penyelesaian Tepat Waktu](../../core_05.035_band_accountability.md#timely-resolution)).
+- **Ditanggung pihak yang bertanggung jawab:** Biaya koreksi tidak dialihkan kepada pihak yang dirugikan, komunitas mereka, atau sistem pemulihan publik jika pihak yang bertanggung jawab mampu menanggungnya. Biaya, restrukturisasi, atau suksesi tidak dengan sendirinya mengakhiri kewajiban.
 
-Hak atas koreksi ini dinyatakan dalam [Article XIII-B](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan) (*Right to Redress and Remedy*) di Bab Enam. [Chapter Ten §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) menerapkan prinsip ini pada konsekuensi kedudukan hukum, dan [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) menetapkan penerapan kelembagaannya.
+Hak atas koreksi ini tercantum dalam [Pasal XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Hak atas Ganti Rugi dan Pemulihan*) di Bab Enam. [Bab Tiga Belas §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (*Realitas penegakan dan sistem pemulihan*) menerapkan prinsip ini pada konsekuensi standing, sedangkan [CI-13.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) menetapkan pelaksanaan institusional.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -886,7 +895,7 @@ Hak atas koreksi ini dinyatakan dalam [Article XIII-B](core_06_rights_part_c.md#
 
 <br>
 
-*Secara sederhana: kebebasan berarti memiliki pilihan nyata dalam batas-batas Konstitusi. Pilihan nyata mendukung Flourishing, dan menjaga sistem tetap terbuka terhadap gugatan mendukung Continuity. Kebebasan bukan berarti Anda boleh melakukan apa saja. "Kami tidak punya pilihan" bukan alasan pembenar. Pihak yang mengatakannya harus menunjukkan bahwa tidak ada pilihan yang kurang membatasi yang akan berhasil; kemudahan, biaya, atau kebiasaan bukan bukti. Para sentien tetap harus memiliki suara yang nyata, dan seseorang tetap harus bertanggung jawab atas akibatnya. Semakin besar dampak, ketergantungan, dan risikonya, semakin penting hal itu.*
+*Secara sederhana: kebebasan berarti memiliki pilihan nyata dalam batas Konstitusi. Pilihan nyata mendukung Flourishing, sedangkan sistem yang tetap terbuka terhadap gugatan mendukung Continuity. Kebebasan bukan berarti boleh melakukan apa saja. “Kami tidak punya pilihan” bukan alasan; pihak yang mengatakannya harus menunjukkan bahwa opsi yang lebih sedikit membatasi tidak akan berhasil. Kemudahan, biaya, atau kebiasaan bukan bukti. Sentien tetap memiliki suara nyata dan seseorang harus bertanggung jawab atas akibatnya. Semakin besar dampak, ketergantungan, dan risikonya, semakin penting hal ini.*
 
 **Freedom (Bounded Agency)** adalah cara Bab Satu menyatakan unsur pilihan nyata dari tujuan [**Flourishing**](core_00_preamble.md#flourishing), salah satu dari [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Ini adalah agensi yang dibatasi, bukan keleluasaan tanpa batas atau otonomi mutlak.
 
@@ -896,15 +905,15 @@ Hak atas koreksi ini dinyatakan dalam [Article XIII-B](core_06_rights_part_c.md#
 
 Penerapannya harus memenuhi [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Dua unsurnya paling utama. **Partisipasi** berarti adanya pilihan nyata dan peran yang berdampak. **Akuntabilitas** berarti agensi tanpa kewajiban memberi pertanggungjawaban tidaklah lengkap. Tingkat tuntutannya disesuaikan dengan [taruhan material](core_00_preamble.md#material-stake).
 
-Pernyataan bahwa pembatasan kebebasan tidak dapat dihindari — termasuk "kami tidak punya pilihan" — tidak terbukti hanya dengan menyatakannya. Pihak yang membuat klaim itu harus menunjukkan, berdasarkan persyaratan beban pembuktian dan keterlacakan [Chapter Four](core_04_burden_traceability_verification.md#bab-empat-beban-pembuktian-ketelusuran-dan-verifikasi) serta definisi [Feasibility](../../core_05.035_band_accountability.md#feasibility) dan [Necessity](../../core_05.035_band_accountability.md#necessity) dalam Bab Lima, bahwa dalam sistem yang sedang berjalan tidak ada alternatif yang kurang membatasi yang tetap dapat mencegah kerugian material atau risiko sistemik tersebut. Kemudahan, biaya semata, hambatan yang dibuat operator, atau kebiasaan kelembagaan tidak membuktikan hal itu. Klaim tersebut tidak menghapus kewajiban Tetrad yang disesuaikan dengan [taruhan material](core_00_preamble.md#material-stake):
-- **partisipasi** — sentien yang terdampak tetap memerlukan agensi bermakna dan peran yang dapat digugat
+Pernyataan bahwa pembatasan kebebasan tidak dapat dihindari—termasuk “kami tidak punya pilihan”—tidak terbukti hanya dengan menyatakannya. Pihak yang membuat klaim itu harus menunjukkan, sesuai persyaratan beban pembuktian dan keterlacakan dalam [Bab Empat](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) serta definisi [Kelayakan](../../core_05.035_band_accountability.md#feasibility) dan [Keniscayaan](../../core_05.035_band_accountability.md#necessity) dalam Bab Lima, bahwa tidak ada alternatif yang lebih sedikit membatasi yang tetap dapat mencegah kerugian material atau risiko sistemik pada sistem yang sedang berjalan. Kemudahan, biaya saja, hambatan yang dibuat operator, atau kebiasaan institusional tidak membuktikannya. Klaim tersebut tidak menghapus kewajiban Tetrad yang sebanding dengan [besarnya kepentingan material](../../core_00.000_preamble.md#material-stake):
+- **partisipasi** — sentien terdampak tetap memerlukan agensi yang bermakna dan peran yang dapat digugat.
 - **akuntabilitas** — seseorang tetap bertanggung jawab atas pembatasan tersebut
 
-Uji operasional terdapat dalam [§7.1 Limitation Discipline](#71-limitation-discipline) dan [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-keniscayaan).
+Uji operasional terdapat pada [§7.1 Disiplin Pembatasan](#71-limitation-discipline) dan [§13.1.1 Keniscayaan](../../core_01.005_interaction_interpretation.md#1311-necessity).
 
-[Meaningful Agency](../../core_05.055_band_participation.md#meaningful-agency) adalah kemampuan untuk memilih di antara pilihan-pilihan nyata. [Consent](../../core_05.055_band_participation.md#consent) adalah persetujuan sah terhadap satu pilihan tertentu. Persetujuan tidak berlaku jika pilihan-pilihannya tidak berbeda satu sama lain atau tidak bermakna. Formulir bertanda tangan saja tidak menghasilkan agensi bermakna ataupun persetujuan. [Coercion and Manipulation](../../core_05.055_band_participation.md#coercion-and-manipulation) merusak keduanya. Aturan terperinci terdapat dalam Bab Lima §2 *Agency, consent, and anti-coercion*.
+[Agensi yang bermakna](../../core_05.055_band_participation.md#meaningful-agency) adalah kemampuan memilih di antara pilihan yang nyata. [Persetujuan](../../core_05.055_band_participation.md#consent) adalah jawaban ya yang sah terhadap satu pilihan tertentu. Persetujuan tidak berlaku jika pilihan-pilihannya tidak berbeda satu sama lain atau tidak bermakna. Formulir bertanda tangan saja tidak menciptakan agensi yang bermakna maupun persetujuan. [Paksaan dan manipulasi](../../core_05.055_band_participation.md#coercion-and-manipulation) merusak keduanya. Aturan terperinci terdapat di Bab Lima §2 *Agensi, persetujuan, dan anti-paksaan*.
 
-Kebebasan tidak mengizinkan siapa pun merusak sistem konstitusional, menghindari proses atau pemulihan konstitusional, ataupun mengklaim agensi yang dilindungi untuk tindakan yang tujuan atau dampak utamanya adalah memberi imbalan, melindungi, menormalkan, atau membayar tindakan anti-konstitusional. Tidak setuju dengan sistem konstitusional dan memprotesnya secara damai untuk mengubahnya bukanlah tindakan merusak. Lihat [§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest).
+Kebebasan tidak membolehkan siapa pun merusak sistem konstitusional, mengakali proses atau pemulihan konstitusional, ataupun mengklaim agensi yang dilindungi untuk tindakan yang tujuan atau dampak utamanya adalah memberi imbalan, melindungi, menormalkan, atau mendanai tindakan anti-konstitusional. Tidak setuju dengan sistem konstitusional dan memprotesnya secara damai untuk mengubahnya bukanlah tindakan merusak sistem tersebut. Lihat [§7.3 Perbedaan Pendapat dan Protes Damai](#73-dissent-and-peaceful-protest).
 
 #### 7.1 Disiplin Pembatasan
 
@@ -929,31 +938,31 @@ Kebebasan tidak mengizinkan siapa pun merusak sistem konstitusional, menghindari
 
 <br>
 
-*Secara sederhana: kebebasan dibatasi, tetapi tidak boleh ditiadakan begitu saja. Jangan batasi kebebasan seseorang kecuali memang perlu — dan kalau perlu, batasi hanya secukupnya untuk mencegah kerugian material atau risiko sistemik serius, dengan pengawasan dan kemungkinan pembatalan jika memungkinkan.*
+*Secara sederhana: kebebasan memiliki batas, tetapi tidak boleh dibuang. Jangan batasi kebebasan siapa pun kecuali memang perlu—dan saat perlu, batasi hanya secukupnya untuk menghentikan kerugian material atau risiko sistemik yang serius, dengan pengawasan dan kemungkinan pemulihan jika memungkinkan.*
 
 Kebebasan hanya boleh dibatasi jika:
 - diperlukan untuk mencegah **kerugian material** atau **risiko sistemik**
-- pembatasan itu **proporsional**, **dapat dibatalkan jika memungkinkan**, dan **berada di bawah pengawasan**
+- pembatasan tersebut **proporsional**, **dapat dipulihkan jika memungkinkan**, dan **berada di bawah pengawasan**.
 
-Batasan di atas bergantung pada apa yang dianggap sebagai kerugian. Bab Lima membahas keenam gagasan ini secara terpadu sebagai [Harm cluster](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying):
+Batas kebebasan di atas bergantung pada apa yang dianggap sebagai kerugian. Bab Lima membahas keenam gagasan ini bersama-sama sebagai [klaster Kerugian](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying):
 
-- [**Harm**](../../core_05.035_band_accountability.md#harm): kemunduran material dalam kehidupan, agensi, fungsi, atau kesehatan psikologis seseorang. Tersinggung, tidak nyaman, atau berbeda pendapat saja bukanlah kerugian.
-- [**Psychological Harm**](../../core_05.035_band_accountability.md#psychological-harm): cedera serius terhadap cara seseorang berpikir, merasa, menjalin hubungan, atau menjalankan agensinya. Ketidaknyamanan biasa tidak cukup.
-- [**Irreversible Harm**](../../core_05.035_band_accountability.md#irreversible-harm): kerusakan yang tidak dapat dipulihkan secara bermakna dalam rentang waktu yang relevan.
-- [**Cruelty**](../../core_05.035_band_accountability.md#cruelty): sengaja membuat seseorang menderita, atau menimpakan penderitaan yang tidak perlu atau merendahkan melebihi yang diizinkan oleh kebutuhan dan proporsionalitas.
-- [**Harassment and Bullying**](../../core_05.035_band_accountability.md#harassment-and-bullying): tindakan atau keadaan yang tidak diinginkan dan, melalui pengulangan, koordinasi, kuasa, atau tingkat keparahan, membuat suatu lingkungan tidak aman, merendahkan, atau sulit diikuti.
-- [**Collective Harm Boundary**](../../core_05.035_band_accountability.md#collective-harm-boundary): titik ketika kebebasan bertindak suatu pihak harus mengalah karena menimbulkan kerugian yang dapat diverifikasi terhadap kepentingan terlindungi pihak lain atau kondisi bersama yang menjadi tumpuan semua orang.
+- [**Kerugian**](../../core_05.035_band_accountability.md#harm): kemunduran material dalam kehidupan, agensi, fungsi, atau kesehatan psikologis seseorang. Rasa tersinggung, tidak nyaman, atau ketidaksetujuan saja bukanlah kerugian.
+- [**Kerugian psikologis**](../../core_05.035_band_accountability.md#psychological-harm): cedera serius pada cara seseorang berpikir, merasa, berhubungan dengan orang lain, atau menggunakan agensinya. Ketidaknyamanan biasa tidak cukup.
+- [**Kerugian yang tidak dapat dipulihkan**](../../core_05.035_band_accountability.md#irreversible-harm): kerusakan yang tidak dapat diperbaiki secara bermakna dalam jangka waktu yang relevan.
+- [**Kekejaman**](../../core_05.035_band_accountability.md#cruelty): sengaja membuat seseorang menderita, atau menambahkan penderitaan yang tidak perlu atau merendahkan melampaui batas yang diizinkan oleh keniscayaan dan proporsionalitas.
+- [**Pelecehan dan perundungan**](../../core_05.035_band_accountability.md#harassment-and-bullying): tindakan atau kondisi yang tidak diinginkan yang, melalui pengulangan, koordinasi, kuasa, atau tingkat keparahan, membuat suatu lingkungan tidak aman, merendahkan, atau sulit diikuti.
+- [**Batas Kerugian Kolektif**](../../core_05.035_band_accountability.md#collective-harm-boundary): titik ketika kebebasan bertindak satu pihak harus mengalah karena menimbulkan kerugian yang dapat diverifikasi terhadap kepentingan terlindungi pihak lain atau kondisi bersama yang menjadi tumpuan semua orang.
 
-Semua ini harus dibaca bersama. Jika suatu perkara termasuk dalam gugus ini, perkara tersebut tidak boleh dipecah menjadi pertanyaan terpisah untuk menghindari atau mengecilkan salah satunya.
+Semua gagasan ini harus dibaca bersama. Jika suatu perkara termasuk dalam klaster ini, perkara itu tidak boleh dipecah menjadi pertanyaan terpisah untuk menghindari atau mengecilkan salah satunya.
 
-Kebebasan seseorang hanya boleh dibatasi sebagai upaya terakhir. Jika pilihan yang kurang membatasi tetap dapat mencegah kerugian material atau risiko sistemik, pilihan itulah yang wajib digunakan. Setiap pembatasan harus memenuhi semua syarat berikut:
+Kebebasan seseorang hanya boleh dibatasi sebagai upaya terakhir. Jika pilihan yang lebih sedikit membatasi tetap dapat mencegah kerugian material atau risiko sistemik, pilihan itu wajib digunakan. Setiap pembatasan harus memenuhi semua syarat berikut:
 
-- **Diperlukan:** Tidak ada pilihan yang kurang membatasi yang tetap dapat mencegah kerugian atau risiko. Inilah uji [Necessity](../../core_05.035_band_accountability.md#necessity) dalam Bab Lima.
-- **Terbukti:** Siapa pun yang menyatakan bahwa pembatasan tak dapat dihindari harus dapat membuktikannya sesuai aturan beban pembuktian dan keterlacakan dalam Bab Empat. Kemudahan, biaya semata, hambatan yang dibuat operator, dan kebiasaan bukan bukti.
+- **Niscaya:** Tidak ada pilihan yang lebih sedikit membatasi yang tetap dapat mencegah kerugian atau risiko. Inilah uji [Keniscayaan](../../core_05.035_band_accountability.md#necessity) di Bab Lima.
+- **Terbukti:** Siapa pun yang menyatakan pembatasan tidak dapat dihindari harus dapat membuktikannya menurut aturan beban pembuktian dan keterlacakan Bab Empat. Kemudahan, biaya saja, hambatan buatan operator, dan kebiasaan bukanlah bukti.
 - **Sesuai dengan definisi:** Klaim tersebut harus sesuai dengan definisi Feasibility, Necessity, Proportionality, dan Harm Minimization (Tradeoff Selection) dalam Bab Lima.
-- **Diawasi:** Setiap pembatasan tetap berada di bawah [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); semakin besar taruhannya, semakin ketat pengawasan yang diperlukan ([taruhan material](core_00_preamble.md#material-stake)).
+- **Diawasi:** Setiap pembatasan tetap berada di bawah [Pengawasan](../../core_05.020_apex_oversight_leg.md#oversight-constitutional), dan semakin besar taruhannya, semakin ketat pengawasan yang diperlukan (../../[besarnya kepentingan material](core_00_preamble.md#material-stake)).
 
-Jika pembatasan kebebasan berbenturan dengan nilai atau hak konstitusional lain, pastikan terlebih dahulu **Safety** dan **Truth** terpenuhi. Setelah itu, ikuti [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran) hingga [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+Jika pembatasan kebebasan bertentangan dengan nilai atau hak konstitusional lain, pastikan terlebih dahulu bahwa **Keselamatan** dan **Kebenaran** terpenuhi. Lalu ikuti [§13.1 Prinsip Pertukaran Kepentingan Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) hingga [§13.1.5 Prosedur Konflik Hak](../../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 #### 7.2 Majelis, Organisasi Kolektif, dan Pembentukan Institusi
 
@@ -973,29 +982,29 @@ Jika pembatasan kebebasan berbenturan dengan nilai atau hak konstitusional lain,
 
 <a id="72-assembly-collective-organization-and-institutional-formation"></a>
 
-*Secara sederhana: pertanyaan tentang majelis, pengorganisasian ala serikat pekerja, akses platform, atau izin operasi tidak boleh dipisah-pisahkan sedemikian rupa sehingga dokumennya tampak ramah tetapi tindakan kolektif yang nyata justru digagalkan. Bagian ini tidak menggantikan Lantai Hak: **Pasal XI-D** (*Majelis, Perbedaan Pendapat, dan Protes Damai*) tetap mengatur majelis, dan **Pasal III-C** (*Lantai Perlindungan Tenaga Kerja dan Ekonomi*) tetap mengatur pengorganisasian tenaga kerja.*
+*Secara sederhana: persoalan berkumpul, pengorganisasian seperti serikat pekerja, akses platform, atau izin beroperasi tidak boleh dipisah-pisahkan ke dalam kotak yang membuat dokumennya tampak tertib tetapi menggagalkan tindakan kolektif yang nyata. Bagian ini tidak menggantikan Lantai Hak: **Pasal XI-D** (*Berkumpul, Perbedaan Pendapat, dan Protes Damai*) tetap mengatur hak berkumpul, dan **Pasal III-C** (*Lantai Ketenagakerjaan dan Ekonomi*) tetap mengatur pengorganisasian tenaga kerja.*
 
-**Tempat aturan lengkap berada.** Bab Lima mengelompokkan definisi terkait yang harus dibaca bersama ketika pertanyaan yang dicakupnya saling terkait. Pengelompokan itu disebut **klaster definisi**. Ini bukan hak tersendiri dan bukan pengganti pasal-pasal Bab Enam di bawah. Definisi untuk topik ini terdapat di [Bab Lima — Majelis, Organisasi Kolektif, dan Pembentukan Institusi](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation):
+**Di mana aturan lengkapnya.** Bab Lima mengelompokkan definisi terkait yang harus dibaca bersama ketika pertanyaan yang dicakupnya muncul secara bersamaan. Pengelompokan itu adalah **klaster definisi**. Klaster ini bukan hak yang terpisah dan bukan pengganti Pasal-Pasal Bab Enam di bawah. Definisi untuk topik ini terdapat dalam [Bab Lima — Berkumpul, Organisasi Kolektif, dan Pembentukan Institusi](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation):
 - [Majelis](../../core_05.055_band_participation.md#assembly)
 - [Organisasi Kolektif](../../core_05.055_band_participation.md#collective-organization)
 - [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation)
 - [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation)
 
-Aturan pembacaan klaster itu sendiri tercantum di sana. **§7.2** (*Majelis, Organisasi Kolektif, dan Pembentukan Institusi*) menerapkan [Prinsip Anti-Segmentasi](core_01_b_interaction_interpretation.md#prinsip-anti-segmentasi) pada topik ini; bagian tersebut tidak mengulang mekanisme Bab Lima.
+Aturan untuk membaca klaster itu sendiri juga terdapat di sana. **§7.2** (*Berkumpul, Organisasi Kolektif, dan Pembentukan Institusi*) menerapkan [Prinsip Anti-Segmentasi](../../core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) pada topik ini; bagian tersebut tidak mengulang mekanisme Bab Lima.
 
-**Pasal hak yang tetap berlaku.****§7.2** (*Majelis, Organisasi Kolektif, dan Pembentukan Institusi*) adalah prinsip Bab Satu. Bagian ini tidak menggantikan Lantai Hak Bab Enam. Dalam lingkup **§7.2** (*Majelis, Organisasi Kolektif, dan Pembentukan Institusi*), pasal-pasal berikut tetap menentukan isi hak dan cara pembatasannya:
-- **[Pasal XI-D](core_06_rights_part_b.md#pasal-xi-d-perkumpulan-perbedaan-pendapat-dan-protes-damai) (*Majelis, Perbedaan Pendapat, dan Protes Damai*)** (*Majelis, Perbedaan Pendapat, dan Protes Damai*) — berkumpul, berserikat, dan bertindak bersama di ruang fisik, digital, atau komputasi bersama untuk tujuan ekspresi, politik, budaya, komunitas, dan tujuan serupa
-- **[Pasal III-C](core_06_rights_part_a.md#pasal-iii-c-lantai-kerja-dan-ekonomi) (*Lantai Perlindungan Tenaga Kerja dan Ekonomi*)** (*Lantai Perlindungan Tenaga Kerja dan Ekonomi*) — organisasi kolektif dalam kegiatan produktif dan ekonomi (serikat pekerja, koperasi, perkumpulan profesi, dewan pekerja, dan bentuk sebanding untuk menentukan syarat kerja)
-- **[Pasal XI-E](core_06_rights_part_b.md#pasal-xi-e-pembentukan-lembaga-dan-pendirian-usaha) (*Pembentukan Institusi dan Penciptaan Usaha*)** (*Pembentukan Institusi dan Penciptaan Usaha*) — [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation) (membentuk dan menjalankan institusi nonkomersial) serta [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation) (membentuk dan menjalankan perusahaan komersial)
-- **[Pasal X-C](core_06_rights_part_b.md#pasal-x-c-hak-atas-peran-dan-partisipasi-pemangku-kepentingan) (*Hak Peran dan Partisipasi Pemangku Kepentingan*)** (*Hak Peran dan Partisipasi Pemangku Kepentingan*) dan **[Pasal XII](core_06_rights_part_b.md#pasal-xii-partisipasi-sistem-pemangku-kepentingan-representasi-dan-proses-yang-semestinya) (*Partisipasi Sistem, Perwakilan, dan Proses Hukum yang Patut bagi Pemangku Kepentingan*)** (*Partisipasi Sistem, Perwakilan, dan Proses Hukum yang Patut bagi Pemangku Kepentingan*) — hak pemangku kepentingan setelah institusi atau perusahaan yang dibentuk berdampak material pada pihak lain
+**Pasal hak mana yang tetap mengatur.** **§7.2** (*Berkumpul, Organisasi Kolektif, dan Pembentukan Institusi*) adalah prinsip Bab Satu. Bagian ini tidak menggantikan Lantai Hak Bab Enam. Di dalam **§7.2**, pasal-pasal berikut tetap menentukan apa haknya dan bagaimana hak itu dapat dibatasi:
+- **[Pasal XI-D](../../core_06.005_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Berkumpul, Perbedaan Pendapat, dan Protes Damai*)** — berkumpul, berasosiasi, dan bertindak bersama di ruang fisik, digital, atau komputasi bersama untuk tujuan ekspresi, politik, budaya, komunitas, dan tujuan serupa.
+- **[Pasal III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Lantai Ketenagakerjaan dan Ekonomi*)** — organisasi kolektif dalam kegiatan produktif dan ekonomi (serikat pekerja, koperasi, gilda, dewan pekerja, dan bentuk sebanding untuk membentuk syarat kerja).
+- **[Pasal XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Pembentukan Institusi dan Penciptaan Usaha*)** — [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation) (membentuk dan menjalankan institusi nonkomersial) dan [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation) (membentuk dan menjalankan perusahaan komersial).
+- **[Pasal X-C](../../core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Hak Peran dan Partisipasi Pemangku Kepentingan*)** dan **[Pasal XII](../../core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Partisipasi, Representasi, dan Proses Hukum yang Patut dalam Sistem bagi Pemangku Kepentingan*)** — hak pemangku kepentingan ketika institusi atau usaha yang dibentuk berdampak material terhadap orang lain.
 
-**Kapan seluruh klaster definisi berlaku.** Aturan anti-segmentasi berlaku ketika [Majelis](../../core_05.055_band_participation.md#assembly), [Organisasi Kolektif](../../core_05.055_band_participation.md#collective-organization), [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation), atau [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation) bersifat material sehingga pertanyaan-pertanyaan tersebut saling berkaitan.
+**Kapan seluruh kelompok definisi berlaku.** Aturan anti-segmentasi berlaku ketika [Majelis](../../core_05.055_band_participation.md#assembly), [Organisasi Kolektif](../../core_05.055_band_participation.md#collective-organization), [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation), atau [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation) menjadi hal material yang membuat pertanyaan-pertanyaan tersebut harus dipertimbangkan bersama.
 
-**Kapan aturan yang lebih ringan berlaku.** Jika perkara hanya menyangkut salah satu pertanyaan itu — misalnya pertemuan warga biasa tanpa kepentingan pengorganisasian tenaga kerja atau pembentukan institusi:
+**Kapan aturan yang lebih ringan berlaku.** Jika persoalannya hanya salah satu pertanyaan itu — misalnya, pertemuan warga biasa tanpa kepentingan pengorganisasian tenaga kerja atau pembentukan lembaga — maka:
 
 - Gunakan [Majelis](../../core_05.055_band_participation.md#assembly) atau [Organisasi Kolektif](../../core_05.055_band_participation.md#collective-organization) sebagai definisi pendukung biasa.
-- Jangan libatkan [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation), [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation), ataupun bagian lain dari klaster definisi ini.
-- Jangan terapkan paket anti-segmentasi **§7.2** (*Majelis, Organisasi Kolektif, dan Pembentukan Institusi*) hanya karena salah satu istilah itu muncul.
+- Jangan memasukkan [Penciptaan Sistem](../../core_05.055_band_participation.md#system-creation), [Penciptaan Usaha](../../core_05.055_band_participation.md#business-creation), atau bagian lain dari kelompok definisi tersebut.
+- Jangan menerapkan paket anti-segmentasi **§7.2** hanya karena salah satu istilah itu muncul.
 
 **Cakupan dan batas bagian ini:**
 
@@ -1006,24 +1015,24 @@ Aturan pembacaan klaster itu sendiri tercantum di sana. **§7.2** (*Majelis, Org
 ##### 7.2.1 Pengorganisasian Diri yang Selaras
 <a id="721-aligned-self-organization"></a>
 
-*Secara sederhana: Anda boleh memulai pekerjaan yang sah tanpa sponsor, dan institusi harus menyediakan jalur prosedural yang nyata bagi pekerjaan yang kredibel — tetapi jalur itu bukan kewenangan untuk mengatur orang lain dan bukan keputusan akhir tentang substansinya.*
+*Secara sederhana: Anda dapat memulai pekerjaan yang sah tanpa sponsor, dan lembaga harus menyediakan jalur prosedural nyata bagi pekerjaan yang kredibel — tetapi jalur itu bukan kewenangan untuk memerintah orang lain dan bukan keputusan akhir atas pokok perkara.*
 
-Kebebasan untuk berkumpul atau menciptakan sistem mencakup cara yang nyata untuk memulai pekerjaan yang diakui sah oleh Konstitusi ini, tanpa menunggu sponsor dari pengampu yang sedang berkuasa. [§17.4 Pengorganisasian Diri yang Selaras](core_01_c_stewardship_capacity_principles.md#174-pengorganisasian-mandiri-yang-selaras) adalah tempat aturan operatifnya. Subbagian ini menerapkan aturan itu pada lapisan Kebebasan / majelis dan pembentukan.
+Kebebasan untuk berkumpul atau menciptakan sistem mencakup cara nyata untuk memulai pekerjaan yang dianggap sah oleh Konstitusi ini, tanpa menunggu sponsor dari pengampu yang sudah menjabat. Tempat operatif aturan ini adalah [§17.4 Pengorganisasian Diri yang Selaras](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization). Subbagian ini menerapkan aturan itu pada tingkat Kebebasan, perkumpulan, dan pembentukan.
 
-Jika pekerjaan itu kredibel dan relevan secara material, institusi harus menyediakan jalur prosedural yang nyata:
+Jika pekerjaan itu kredibel dan relevan secara material, lembaga harus menyediakan jalur prosedural yang nyata:
 - menerimanya
 - menyimpannya jika patut
 - meneruskannya kepada pihak yang tepat
 - memberikan tanggapan yang disertai alasan
-- meninjaunya melalui pihak yang independen dari mereka yang tindakannya sedang diperiksa
+- meminta peninjauan oleh orang yang independen dari mereka yang tindakannya sedang diperiksa
 
-Jalur itu bukan pemberian kekuasaan. Memulai, menjalankan, mendanai, menerbitkan, atau mengajukan pekerjaan tersebut dengan sendirinya tidak:
-- memberi siapa pun kewenangan untuk mengatur orang lain, memberlakukan tindakan terhadap mereka, atau memaksa mereka
+Jalur itu bukan pemberian kuasa. Memulai, menjalankan, mendanai, menerbitkan, atau mengajukan pekerjaan tersebut tidak dengan sendirinya:
+- memberi siapa pun kuasa untuk memerintah orang lain, menegakkan tindakan terhadap mereka, atau memaksa mereka
 - mengikat makhluk berkesadaran yang tidak menyetujui hasil substantif
-- menentukan kedudukan hukum, tanggung jawab, hak atas sesuatu, keabsahan, mandat, pemulihan, klasifikasi, atau pembatasan hak
-- dihitung sebagai [Penetapan Pokok Perkara](../../core_05.035_band_accountability.md#merits-determination) — keputusan yang mengikat mengenai substansi sengketa
+- memutus kedudukan, tanggung jawab, hak, keabsahan, mandat, pemulihan, klasifikasi, atau pembatasan hak
+- dianggap sebagai [Penetapan Pokok Perkara](../../core_05.035_band_accountability.md#merits-determination) — keputusan mengikat mengenai substansi sengketa
 
-Diterima, diteruskan, atau dijawabnya suatu pekerjaan tidak berarti kesimpulan para penulisnya disetujui. Dampak terhadap tata kelola atau pokok perkara mensyaratkan kewenangan sah, bukti, proses yang adil, peninjauan, dan pemulihan terpisah sebagaimana ditetapkan Konstitusi ini. Aturan lengkap yang melarang pengangkatan diri sendiri terdapat di [§17.4 Pengorganisasian Diri yang Selaras](core_01_c_stewardship_capacity_principles.md#174-pengorganisasian-mandiri-yang-selaras).
+Diterima, disalurkan, atau dijawabnya pekerjaan bukan berarti kesimpulan penulis disetujui. Dampak apa pun terhadap tata kelola atau pokok perkara memerlukan kewenangan sah yang terpisah, bukti, proses yang adil, peninjauan, dan pemulihan sebagaimana ditetapkan Konstitusi ini. Aturan lengkap yang melarang pengangkatan diri sendiri menjadi pemegang kewenangan terdapat di [§17.4 Pengorganisasian Diri yang Selaras](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization).
 
 #### 7.3 Perbedaan Pendapat dan Protes Damai
 
@@ -1044,21 +1053,21 @@ Diterima, diteruskan, atau dijawabnya suatu pekerjaan tidak berarti kesimpulan p
 
 <a id="73-dissent-and-peaceful-protest"></a>
 
-*Secara sederhana: kebebasan mencakup kebebasan untuk mengatakan tidak — berbeda pendapat dengan otoritas mana pun, termasuk Konstitusi ini, dan memprotes secara damai untuk mengubahnya. Sistem yang menghukum perbedaan pendapat tidak lagi dapat digugat; sistem yang tidak dapat digugat tidak dapat memperbaiki dirinya sendiri.*
+*Secara sederhana: kebebasan mencakup kebebasan untuk berkata tidak — tidak setuju dengan otoritas mana pun, termasuk Konstitusi ini, dan memprotes secara damai untuk mengubahnya. Sistem yang menghukum perbedaan pendapat tidak lagi dapat digugat; sistem yang tidak dapat digugat tidak dapat memperbaiki dirinya sendiri.*
 
-**Perbedaan pendapat adalah bagian dari kebebasan.** [Agensi yang Bermakna](../../core_05.055_band_participation.md#meaningful-agency) mencakup kemampuan untuk tidak setuju, mengajukan keberatan, dan mengorganisasi perlawanan terhadap keputusan, institusi, dan sistem yang membentuk kehidupan suatu makhluk berkesadaran. Agensi terbatas yang tidak dapat menjangkau sistem yang menetapkan batas-batasnya tidak akan bermakna.
+**Perbedaan pendapat adalah bagian dari kebebasan.** [Agensi Bermakna](../../core_05.055_band_participation.md#meaningful-agency) mencakup kemampuan untuk tidak setuju, mengajukan keberatan, dan berorganisasi melawan keputusan, lembaga, dan sistem yang membentuk kehidupan makhluk berkesadaran. Agensi terbatas yang tidak dapat menjangkau sistem yang membatasinya bukanlah agensi yang bermakna.
 
-**Perbedaan pendapat menjaga agar sistem dapat digugat.** Tujuan [**Keberlanjutan**](core_00_preamble.md#continuity) bergantung pada sistem konstitusional yang tetap dapat digugat. Perbedaan pendapat dan protes damai adalah cara gugatan dari luar proses formal menjangkau otoritas, sekaligus menampakkan kesalahan yang luput dari proses formal. Keduanya mendukung pilar **partisipasi** dan **pengawasan** dalam [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad).
+**Perbedaan pendapat menjaga agar sistem tetap dapat digugat.** Tujuan [Kontinuitas](../../core_00.000_preamble.md#continuity) bergantung pada sistem konstitusional yang tetap dapat digugat. Perbedaan pendapat dan protes damai menyampaikan gugatan kepada pihak berwenang dari luar proses formal serta menampakkan kesalahan yang luput dari proses tersebut. Keduanya melayani pilar **partisipasi** dan **pengawasan** dalam [Tetrad Konstitusional](../../core_00.000_preamble.md#constitutional-tetrad).
 
-**Perbedaan pendapat bukan subversi.** Tidak setuju dengan Konstitusi ini atau dengan otoritas yang bertindak berdasarkan Konstitusi ini, serta mengadvokasi perubahan atau pergantian pemegang otoritas melalui cara damai dan sah, merupakan pelaksanaan kebebasan. Hal itu bukan [subversi](../../core_05.035_band_accountability.md#subversion) atas sistem konstitusional yang dikecualikan dari agensi yang dilindungi dalam [§7 Kebebasan (Agensi Terbatas)](#7-freedom-bounded-agency). Subversi mensyaratkan kekerasan, pemaksaan, perebutan kekuasaan, atau membuat proses atau pemulihan konstitusional tidak dapat digunakan dalam praktik.
+**Perbedaan pendapat bukan subversi.** Tidak setuju dengan Konstitusi ini atau dengan otoritas yang bertindak di bawahnya, serta mengadvokasi perubahan Konstitusi atau pergantian pemegang otoritas melalui cara damai dan sah, merupakan pelaksanaan kebebasan. Hal itu bukan [subversi](../../core_05.035_band_accountability.md#subversion) terhadap sistem konstitusional yang dikecualikan dari agensi terlindungi dalam [§7 Kebebasan (Agensi Terbatas)](#7-freedom-bounded-agency). Subversi mensyaratkan kekerasan, pemaksaan, perebutan kekuasaan, atau membuat proses atau pemulihan konstitusional tidak dapat digunakan dalam praktik.
 
-**Pembatasan perbedaan pendapat harus mengikuti disiplin pembatasan.** Perbedaan pendapat dan protes damai hanya boleh dibatasi berdasarkan [§7.1 Disiplin Pembatasan](#71-limitation-discipline).
-- Perbedaan pendapat, gangguan, ketidaknyamanan, rasa tersinggung, ketidakpopuleran, atau tekanan terhadap otoritas, dengan sendirinya, bukan **kerugian material** atau **risiko sistemik**.
-- Pembatasan tidak boleh bergantung pada sudut pandang, dan pihak yang membatasi perbedaan pendapat memikul beban pembuktian berdasarkan **Bab Empat**.
+**Pembatasan perbedaan pendapat mengikuti disiplin pembatasan.** Perbedaan pendapat dan protes damai hanya boleh dibatasi berdasarkan [§7.1 Disiplin Pembatasan](#71-limitation-discipline).
+- Ketidaksetujuan, gangguan, ketidaknyamanan, penghinaan, ketidakpopuleran, atau tekanan terhadap otoritas tidak dengan sendirinya merupakan **bahaya material** atau **risiko sistemik**.
+- Pembatasan tidak boleh didasarkan pada sudut pandang, dan pihak yang membatasi perbedaan pendapat memikul beban pembuktian menurut **Bab Empat**.
 
-**Pelaksanaan kebebasan tidak boleh menghilangkan kedudukan atau suara.** Pelaksanaan kebebasan ini oleh makhluk berkesadaran tidak boleh menjadi alasan untuk menurunkan kedudukannya, mempersempit kelayakannya mengemban peran, mengurangi suara tata kelolanya, atau diperhitungkan secara negatif dalam sertifikasi keselarasan sistem. Aturan operatif, termasuk aturan pembangkangan sipil dan beban pembuktian untuk tindakan merugikan setelah perbedaan pendapat, tercantum dalam **[Pasal XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Majelis, Perbedaan Pendapat, dan Protes Damai*)**.
+**Menjalankan kebebasan tidak boleh mengorbankan kedudukan atau suara.** Pelaksanaan kebebasan ini oleh makhluk berkesadaran tidak boleh dijadikan alasan untuk menurunkan kedudukannya, mempersempit kelayakan perannya, mengurangi suara tata kelolanya, atau diperhitungkan untuk merugikan sertifikasi keselarasan sistem. Aturan operatif, termasuk aturan pembangkangan sipil dan beban atas tindakan merugikan setelah perbedaan pendapat, terdapat dalam **[Pasal XI-D](../../core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Majelis, Perbedaan Pendapat, dan Protes Damai*)**.
 
-Saat seluruh sistem dievaluasi, evaluasi harus memeriksa cara sistem memperlakukan perbedaan pendapat dan protes damai dengan menggunakan [Bab Sembilan §4.3.1 Perbedaan Pendapat dan Protes Damai](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Sebelum pemeriksaan itu selesai, tidak seorang pun boleh menyatakan bahwa sistem telah diklasifikasikan dengan semestinya, dikelola dengan baik, atau patuh, jika bagian ini berlaku.
+Saat seluruh sistem dievaluasi, evaluasi harus memeriksa perlakuannya terhadap perbedaan pendapat dan protes damai, dengan menggunakan [Bab Sembilan §4.3.1 Perbedaan Pendapat dan Protes Damai](../../core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Sebelum evaluasi itu selesai, tidak seorang pun dapat menyatakan sistem telah diklasifikasikan dengan benar, dikelola dengan baik, atau patuh ketika bagian ini berlaku.
 
 **Hal yang tidak diubah oleh bagian ini:**
 
@@ -1084,17 +1093,17 @@ Saat seluruh sistem dievaluasi, evaluasi harus memeriksa cara sistem memperlakuk
 
 <a id="74-voluntary-discontinuation-and-exit-rights"></a>
 
-*Secara sederhana: pilihan yang mengubah hidup atau sulit dibatalkan tidak menjadi “sukarela” hanya karena seseorang menandatangani formulir. Agensi yang nyata harus didahulukan; persetujuan adalah kesepakatan yang dibuat dengan agensi tersebut — dan keduanya gagal jika pemaksaan atau tekanan ketergantunganlah yang sesungguhnya menentukan keputusan.*
+*Secara sederhana: pilihan yang mengubah hidup atau sulit dibatalkan tidak menjadi “sukarela” hanya karena seseorang menandatangani formulir. Agensi nyata harus lebih dahulu ada; persetujuan adalah kesepakatan dalam kerangka agensi itu — dan keduanya gagal jika paksaan atau tekanan ketergantungan yang sebenarnya mengambil keputusan.*
 
-Urusan berisiko tinggi yang menentukan arah hidup tidak boleh dianggap sukarela hanya berdasarkan persetujuan formal apabila syarat agensi substantif, persetujuan, atau anti-pemaksaan tidak terpenuhi. Persetujuan di sini mengandaikan [Agensi yang Bermakna](../../core_05.055_band_participation.md#meaningful-agency); persetujuan tidak menggantikannya.
+Perkara arah hidup berisiko tinggi tidak boleh dianggap sukarela hanya berdasarkan persetujuan formal ketika syarat agensi substantif, persetujuan, atau anti-pemaksaan tidak terpenuhi. Persetujuan di sini mensyaratkan [Agensi Bermakna](../../core_05.055_band_participation.md#meaningful-agency); persetujuan tidak menggantikannya.
 
 **Cakupan penerapan.** Subbagian ini berlaku untuk:
 - penghentian sukarela
-- perubahan yang tidak dapat dibalik atau secara praktis tidak dapat dibalik atas arahan diri sendiri, termasuk modifikasi diri besar
-- keputusan yang sarat ketergantungan dan secara material memengaruhi keberlanjutan hidup atau agensi esensial
-- keputusan sebanding ketika kesukarelaan bergantung pada pengujian bersama atas persetujuan, penentuan diri, pemaksaan/manipulasi, informasi, tekanan ketergantungan, dan keterbalikan
+- perubahan yang diarahkan sendiri dan tidak dapat dibalik atau secara praktis tidak dapat dibalik, termasuk modifikasi diri besar
+- keputusan sarat ketergantungan yang berdampak material terhadap kelanjutan keberadaan atau agensi esensial
+- keputusan sebanding yang kesukarelaannya bergantung pada pengujian bersama atas persetujuan, penentuan diri, pemaksaan/manipulasi, informasi, tekanan ketergantungan, dan reversibilitas
 
-**Jangan menerapkan aturan persetujuan biasa di luar cakupan.** Di luar cakupan penerapan tersebut, definisi Bab Lima ini tetap dapat digunakan:
+**Tidak memperluas aturan persetujuan biasa.** Di luar cakupan penerapan ini, definisi Bab Lima berikut tetap dapat digunakan kembali:
 - *Persetujuan* (§3 (*Tujuan Dasar: Kesejahteraan*))
 - *Penentuan Diri*
 - *Pemaksaan dan Manipulasi* (§3 (*Tujuan Dasar: Kesejahteraan*))
@@ -1108,7 +1117,7 @@ Subbagian ini **tidak** menerapkan disiplin penghentian sukarela ke dalam kontek
 - persetujuan seksual
 - layanan komersial
 
-Evaluasi seluruh sistem harus menguji persyaratan ini berdasarkan [Bab Delapan §3.6 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar](core_07_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights) sebelum klaim klasifikasi, tata kelola, pembatasan, atau kepatuhan dapat diterima jika cakupan penerapan berlaku.
+Evaluasi seluruh sistem harus menguji kondisi-kondisi ini berdasarkan [Bab Sembilan §4.2 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar](../../core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights) sebelum klaim klasifikasi, tata kelola, pembatasan, atau kepatuhan dapat ditegakkan ketika cakupan penerapan berlaku.
 
 #### 7.5 Ekspresi dan Garis Bahaya
 
@@ -1131,21 +1140,21 @@ Evaluasi seluruh sistem harus menguji persyaratan ini berdasarkan [Bab Delapan �
 
 <a id="75-expression-and-the-harm-line"></a>
 
-*Secara sederhana: Anda dapat mengatakan, menulis, menerbitkan, dan merancang hampir semua hal, termasuk apa yang menyinggung, mengganggu, atau mengkritik. Tapi pidato bukanlah sebuah celah. Ketika kata-kata, kebijakan, atau rancangan merupakan cara seseorang menyakiti, melecehkan, menindas, atau mendiskriminasi orang lain, hal tersebut akan dinilai berdasarkan perbuatannya, baik terhadap individu maupun institusi, dan label agama atau politik apa pun yang mereka bawa.*
+*Secara sederhana: Anda boleh mengatakan, menulis, menerbitkan, dan merancang hampir apa saja, termasuk hal yang menyinggung, mengganggu, atau mengkritik. Namun, ekspresi bukan celah untuk menghindar. Ketika kata-kata, kebijakan, atau rancangan menjadi cara untuk mencelakai, melecehkan, merundung, atau mendiskriminasi orang lain, semuanya dinilai berdasarkan dampaknya, baik dilakukan makhluk berkesadaran maupun lembaga, apa pun label agama atau politiknya.*
 
-**Ekspresi dilindungi sebagai ekspresi.** [Ekspresi](../../core_05.055_band_participation.md#expression) mencakup segala jenis pandangan, termasuk pandangan yang meresahkan, dan kritik terhadap makhluk hidup atau institusi mana pun. Ketersinggungan, ketidaksepakatan, ketidaknyamanan, dan protes damai tidak merugikan ([§7.3 Perbedaan Pendapat dan Protes Damai](#73-dissent-and-peaceful-protest)).
+**Ekspresi dilindungi sebagai ekspresi.** [Ekspresi](../../core_05.055_band_participation.md#expression) mencakup semua jenis pandangan, termasuk yang mengganggu, serta kritik terhadap makhluk berkesadaran atau lembaga mana pun. Rasa tersinggung, ketidaksetujuan, ketidaknyamanan, dan protes damai bukanlah bahaya ([§7.3 Perbedaan Pendapat dan Protes Damai](#73-dissent-and-peaceful-protest)).
 
-**Ekspresi bukanlah perisai bagi perilaku.** Ucapan, publikasi, desain, kebijakan, dan ekspresi lainnya tetap tunduk pada peraturan tentang [Bahaya](../../core_05.035_band_accountability.md#harm), [Pelecehan dan Penindasan](../../core_05.035_band_accountability.md#harassment-and-bullying), [Kekejaman](../../core_05.035_band_accountability.md#cruelty), dan nondiskriminasi jika hal-hal tersebut merupakan sarana yang digunakan untuk melakukan tindakan tersebut. Tes adalah apa yang dinyatakan, diminta, atau dilakukan oleh ekspresi, yang dibaca dalam konteks berdasarkan definisi Bab Lima. Definisi-definisi tersebut tetap memiliki maknanya: pelecehan dan intimidasi membutuhkan pola material, bukan satu komentar tajam, dan kekerasan memerlukan jalur dampak material yang nyata, bukan pelanggaran saja ([Batas Bahaya Kolektif](../../core_05.035_band_accountability.md#collective-harm-boundary).
+**Ekspresi bukan perisai bagi perilaku.** Ucapan, publikasi, desain, kebijakan, dan bentuk ekspresi lain tetap tunduk pada aturan tentang [Bahaya](../../core_05.035_band_accountability.md#harm), [Pelecehan dan Perundungan](../../core_05.035_band_accountability.md#harassment-and-bullying), [Kekejaman](../../core_05.035_band_accountability.md#cruelty), dan nondiskriminasi jika digunakan sebagai sarana perilaku tersebut. Ujiannya adalah apa yang dinyatakan, diserukan, atau dilakukan oleh ekspresi itu, dibaca dalam konteks menurut definisi Bab Lima. Makna definisi tersebut tetap: pelecehan dan perundungan memerlukan pola material, bukan satu komentar tajam; bahaya memerlukan jalur dampak material yang nyata, bukan sekadar rasa tersinggung (../../[Batas Bahaya Kolektif](../../core_05.035_band_accountability.md#collective-harm-boundary)).
 
-**Ujian yang sama berlaku bagi makhluk hidup dan institusi.** Makhluk hidup, kelompok, atau lembaga bisa menjadi pembicara, dan salah satu dari mereka bisa menjadi targetnya.
-- Sebuah institusi berbicara melalui kebijakan, pemberitahuan, desain platform, pernyataan resmi, dan cara mereka menangani laporan dan kritik. Perilaku yang dilakukan dengan cara seperti itu akan dinilai seperti perilaku lainnya.
-- Kritik terhadap suatu institusi, terhadap pejabatnya, atau terhadap perilakunya dilindungi. Menyebut kritik sebagai penindasan atau pelecehan adalah sebuah batasan dalam berekspresi. Pihak yang mengajukan klaim tersebut menanggung beban berdasarkan [§7.1 Disiplin Batasan](#71-limitation-discipline) dan Bab Empat.
+**Uji yang sama berlaku bagi makhluk berkesadaran dan lembaga.** Individu berkesadaran, kelompok, atau lembaga dapat menjadi pembicara, dan masing-masing dapat menjadi sasaran.
+- Lembaga berbicara melalui kebijakan, pemberitahuan, desain platform, pernyataan resmi, serta caranya menangani laporan dan kritik. Perilaku yang dilakukan dengan cara tersebut dinilai seperti perilaku lainnya.
+- Kritik terhadap lembaga, pejabatnya, atau tindakannya dilindungi. Menyebut kritik sebagai perundungan atau pelecehan merupakan pembatasan ekspresi. Pihak yang mengajukan klaim itu memikul beban menurut [§7.1 Disiplin Pembatasan](#71-limitation-discipline) dan Bab Empat.
 
-**Label dan topik tidak mengubah ujian.** Label agama, politik, ideologi, budaya, seni, atau komersial tidak mengubah ekspresi yang merugikan orang lain, atau memperlakukan mereka dengan cara yang dilarang berdasarkan **[Pasal VI-C](core_06_rights_part_b.md#pasal-vi-c-nondiskriminasi) (*Nondiskriminasi*)**, menjadi ekspresi yang dilindungi. Suatu topik atau sudut pandang tidak menjadikan ekspresi yang dilindungi menjadi merugikan. **[Pasal XI-A](core_06_rights_part_b.md#pasal-xi-a-kebebasan-hati-nurani-agama-dan-pandangan-hidup-yang-sebanding) (*Kebebasan hati nurani, agama, dan pandangan dunia yang sebanding*)** melindungi memegang dan mewujudkan keyakinan secara konsisten dengan hak orang lain.
+**Label dan topik tidak mengubah pengujian.** Label agama, politik, ideologi, budaya, seni, atau komersial tidak menjadikan ekspresi yang membahayakan orang lain atau memperlakukan mereka dengan cara yang dilarang dalam **[Pasal VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiskriminasi*)** sebagai ekspresi terlindungi. Topik atau sudut pandang juga tidak mengubah ekspresi terlindungi menjadi bahaya. **[Pasal XI-A](../../core_06.005_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Kebebasan Nurani, Agama, dan Pandangan Hidup yang Sebanding*)** melindungi keyakinan dan perwujudannya yang konsisten dengan hak orang lain.
 
-**Membatasi ekspresi berbeda dengan menggunakannya sebagai bukti.** Batasan berekspresi harus memenuhi [§7.1 Disiplin Batasan](#71-limitation-discipline) dan **[Pasal XI-B](core_06_rights_part_b.md#pasal-xi-b-ekspresi) (*Ekspresi*)**, dan batasan yang ditujukan pada apa yang dikatakan menghadapi peninjauan paling ketat di sana. Menggunakan apa yang dikatakan makhluk hidup sebagai bukti maksud, tujuan, atau otoritas bukanlah suatu batasan. Ini mengikuti aturan bukti dari bab yang mengajukan pertanyaan, seperti [Bab Tujuh §6 Pemeriksaan Formasi: Kedudukan dan Keaslian Pemegang Jabatan](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity), dan tidak boleh menjadi penalti untuk pidato itu sendiri.
+**Membatasi ekspresi berbeda dari menggunakannya sebagai bukti.** Pembatasan ekspresi harus memenuhi [§7.1 Disiplin Pembatasan](#71-limitation-discipline) dan **[Pasal XI-B](../../core_06.005_rights_part_b.md#article-xi-b-expression) (*Ekspresi*)**; pembatasan yang menargetkan apa yang dikatakan tunduk pada peninjauan paling ketat di sana. Menggunakan ucapan makhluk berkesadaran sebagai bukti niat, tujuan, atau kewenangan bukanlah pembatasan. Penggunaan itu mengikuti aturan pembuktian bab yang mengajukan pertanyaan, seperti [Bab Tujuh §5 Pemeriksaan Pembentukan: Kedudukan dan Keaslian Pemegang Jabatan](../../core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity), dan tidak boleh menjadi hukuman atas ucapan itu sendiri.
 
-**Cakupan.** Subbagian ini menerapkan Disiplin Batasan dan definisi Bab Lima pada ekspresi. Hal ini tidak menimbulkan kategori kerugian dan tidak ada dasar untuk membatasi kebebasan yang belum diperbolehkan oleh [§7.1 Disiplin Pembatasan](#71-limitation-discipline).
+**Cakupan.** Subbagian ini menerapkan Disiplin Pembatasan dan definisi Bab Lima terhadap ekspresi. Subbagian ini tidak menciptakan kategori bahaya baru atau dasar pembatasan kebebasan yang belum diizinkan oleh [§7.1 Disiplin Pembatasan](#71-limitation-discipline).
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Pengantar Tujuan Keberlanjutan
@@ -1173,7 +1182,7 @@ Evaluasi seluruh sistem harus menguji persyaratan ini berdasarkan [Bab Delapan �
 
 <br>
 
-*Sederhananya: Keberlanjutan adalah tujuan kedua dari dua tujuan konstitusional: memastikan hasil yang baik bertahan melewati kegagalan dan lintas generasi, tanpa dikuasai segelintir pelaku kuat. Tujuan ini dimulai dengan Kapasitas Sistem Bersama, yang mendukung Kesejahteraan sekaligus menjadi inti Keberlanjutan.*
+*Secara sederhana: Kontinuitas adalah tujuan kedua dari dua tujuan, yaitu memastikan hasil yang baik bertahan melintasi kegagalan dan generasi tanpa dikuasai segelintir pihak yang kuat. Tujuan ini dimulai dengan Kapasitas Sistem Bersama, yang mendukung Kemajuan dan sekaligus merupakan substansi Kontinuitas.*
 
 [**Keberlanjutan**](core_05_apex_continuity_aim.md#bab-lima-definisi-kesinambungan-tujuan-konstitusional) berarti **stabilitas jangka panjang, kelestarian, ketangguhan, dan kesejahteraan ekologis** ([Pembukaan §1 Model](core_00_preamble.md#continuity)). Bab Satu mengembangkannya melalui empat prinsip; prinsip pertama menjadi jembatan dari [Kesejahteraan](#2-tujuan-keberkembangan-pengantar).
 
@@ -1266,7 +1275,7 @@ flowchart TB
 
 <br>
 
-*Sederhananya: sistem bersama harus terus berfungsi bagi makhluk berkesadaran dalam jangka panjang. Mereka harus dapat melakukan pekerjaan yang bermanfaat, memperbaiki kehidupan dari waktu ke waktu, dan menyuarakan masalah tanpa disingkirkan oleh segelintir pelaku kuat. Kemampuan yang bertahan itu disebut **Kapasitas Sistem Bersama**. **[§9.1 Kapasitas Produktif (Kebaikan Instrumental)](#91-kapasitas-produktif-kebaikan-instrumental)** menanyakan apakah hasil nyata tercapai. **[§9.2 Efisiensi Konstitusional](#92-efisiensi-konstitusional)** menanyakan apakah hasil itu dicapai tanpa menyia-nyiakan waktu, uang, dan perhatian siapa pun. Keuntungan yang diperoleh dengan menimbun kekayaan atau kuasa, memalsukan angka, mencabut hak, atau memindahkan dampak buruk kepada orang lain maupun planet tidak diperhitungkan; **[§9.1.1 Mempertahankan, Memperluas, dan Hal yang Tidak Diperhitungkan](#911-mempertahankan-memperluas-dan-hal-yang-tidak-dihitung)** menjelaskannya. **[§11 Struktur Pasar](#11-struktur-pasar)** mencegah segelintir pelaku mengambil alih.*
+*Secara sederhana: sistem bersama harus terus berfungsi bagi makhluk berkesadaran dalam jangka panjang. Makhluk berkesadaran harus dapat melakukan pekerjaan yang berguna, memperbaiki kehidupan seiring waktu, dan bersuara ketika ada masalah tanpa dikeluarkan oleh segelintir pihak yang kuat. Kemampuan yang bertahan itu adalah **Kapasitas Sistem Bersama**. **[§9.1 Kapasitas Produktif (Kebaikan Instrumental)](#91-productive-capacity-instrumental-good)** menanyakan apakah makhluk berkesadaran memperoleh hasil nyata. **[§9.2 Efisiensi Konstitusional](#92-constitutional-efficiency)** menanyakan apakah hasil itu dicapai tanpa membuang waktu, uang, dan perhatian siapa pun. Keuntungan dari penimbunan kekayaan atau kuasa, pemalsuan angka, pencabutan hak, atau pengalihan bahaya kepada orang lain atau planet tidak dihitung; **[§9.1.1 Mempertahankan, Memperluas, dan Hal yang Tidak Dihitung](#911-preserve-expand-and-what-does-not-count)** menjelaskannya. **[§11 Struktur Pasar](#11-market-structure)** mencegah segelintir pelaku mengambil alih.*
 
 Kesejahteraan adalah tujuannya: kehidupan makhluk berkesadaran yang berjalan baik. Bagian ini membuka paruh Keberlanjutan bab ini dengan menanyakan apa yang mempertahankan keadaan tersebut dalam jangka panjang. Jawabannya adalah sistem bersama yang terus menjalankan pekerjaan nyata dan tetap dapat dipertanyakan serta ditentang oleh makhluk berkesadaran. Klaim tentang kemampuan itu harus jujur dan diperiksa berdasarkan kinerja seluruh sistem dari waktu ke waktu, sebagaimana diwajibkan [§12 Persyaratan Evaluasi Sistemik](#12-persyaratan-evaluasi-sistemik).
 
@@ -1293,8 +1302,8 @@ Kapasitas tersebut mencakup beberapa aspek yang saling mendukung:
   - [Proxy Divergence](core_05_band_oversight.md#penyimpangan-proksi).
 - **Cara menjaga kapasitas tetap berpijak pada dunia yang layak huni dari waktu ke waktu:**
   - [Ecological Integrity](../../core_05.040_band_continuity.md#ecological-integrity);
-  - [Environmental Preconditions](../../core_05.040_band_continuity.md#environmental-preconditions); and
-  - [Intergenerational Responsibility](../../core_05.040_band_continuity.md#intergenerational-responsibility).
+  - [Prasyarat Lingkungan](../../core_05.040_band_continuity.md#environmental-preconditions); dan
+  - [Tanggung Jawab Antargenerasi](../../core_05.040_band_continuity.md#intergenerational-responsibility).
 
 <a id="91-productive-capacity-instrumental-good"></a>
 #### 9.1 Kapasitas Produktif (Kebaikan Instrumental)
@@ -1324,13 +1333,13 @@ Kapasitas tersebut mencakup beberapa aspek yang saling mendukung:
 
 <br>
 
-*Singkatnya: kapasitas produktif adalah sisi kapasitas sistem bersama yang bertanya, “apakah kita benar-benar dapat menyelesaikan pekerjaan?” Dapatkah sentien berpartisipasi, belajar, berkontribusi, mengubah upaya dan sumber daya menjadi hasil yang memperbaiki kehidupan, lalu mempertahankan kemampuan itu dari waktu ke waktu? Ini adalah alat untuk hidup lebih baik. [§9.1.1 Mempertahankan, Memperluas, dan Hal yang Tidak Dihitung](#911-mempertahankan-memperluas-dan-hal-yang-tidak-dihitung) menjelaskan apa yang harus dipertahankan dan apa yang tidak dihitung.*
+*Secara sederhana: kapasitas produktif adalah aspek Kapasitas Sistem Bersama yang menanyakan, “bisakah kita benar-benar menyelesaikan sesuatu?” Dapatkah makhluk berkesadaran berpartisipasi, belajar, berkontribusi, dan mengubah upaya serta sumber daya menjadi hasil yang memperbaiki kehidupan — serta mempertahankan kemampuan itu dari waktu ke waktu? Ini adalah sarana untuk hidup lebih baik. Hal yang harus dipertahankan dan yang tidak dihitung dijelaskan dalam [§9.1.1 Mempertahankan, Memperluas, dan Hal yang Tidak Dihitung](#911-preserve-expand-and-what-does-not-count).*
 
-**[Kapasitas Produktif](../../core_05.040_band_continuity.md#productive-capacity)** adalah salah satu aspek **[Kapasitas Sistem Bersama](../../core_05.040_band_continuity.md#shared-system-capacity)**. Istilah ini merujuk pada kemampuan berkelanjutan sentien dan sistem bersama untuk:
+**[Kapasitas Produktif](../../core_05.040_band_continuity.md#productive-capacity)** adalah salah satu aspek **[Kapasitas Sistem Bersama](../../core_05.040_band_continuity.md#shared-system-capacity)**. Istilah ini menamai kemampuan bertahan makhluk berkesadaran dan sistem bersama untuk:
 - mendukung partisipasi nyata, kontribusi, dan pengembangan keterampilan; serta
-- mengubah waktu, perhatian, upaya, koordinasi, bahan, infrastruktur, dan energi menjadi hasil yang benar-benar diwajibkan oleh Konstitusi ini.
+- mengubah waktu, perhatian, upaya, koordinasi, bahan, infrastruktur, dan energi menjadi hasil yang benar-benar diwajibkan Konstitusi ini.
 
-Ini adalah **kebaikan instrumental** — sarana, bukan nilai yang mengalahkan segalanya. Fungsinya adalah meningkatkan, mempertahankan, dan membagikan kualitas hidup berdasarkan tujuan **Kemakmuran**, sesuai dengan [Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim), [Martabat dan Kedudukan Moral yang Setara](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing), Lantai Hak Bab Enam, serta batas ekologis dan antargenerasi tujuan **Kontinuitas** dalam [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
+Ini adalah **kebaikan instrumental** — sarana, bukan nilai tertinggi. Tugasnya meningkatkan, mempertahankan, dan menyebarkan kualitas hidup di bawah tujuan **Kemajuan**, selaras dengan [Kesejahteraan](#3-foundational-objective-wellbeing-flourishing-aim), [Martabat dan Kedudukan Moral Setara](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing), Lantai Hak Bab Enam, serta batas ekologis dan antargenerasi bagi tujuan **Kontinuitas** dalam [Dua Tujuan Konstitusional](../../core_00.000_preamble.md#two-constitutional-aims).
 
 <a id="911-preserve-expand-and-what-does-not-count"></a>
 ##### 9.1.1 Mempertahankan, Memperluas, dan Hal yang Tidak Dihitung
@@ -1345,9 +1354,9 @@ Ini adalah **kebaikan instrumental** — sarana, bukan nilai yang mengalahkan se
 
 <br>
 
-*Singkatnya: pertahankan kemampuan untuk menyelesaikan pekerjaan dan kembangkan ketika itu mengurangi waktu yang terbuang bagi semua orang — tetapi bukan dengan menimbun kekayaan, memalsukan angka, mencabut hak, atau membebankan kerugian kepada orang lain atau planet ini. Metrik yang tidak lagi membuktikan hasil nyata tidak dihitung.*
+*Secara sederhana: pertahankan kemampuan untuk menyelesaikan pekerjaan dan tingkatkan bila hal itu menghemat waktu semua orang—tetapi bukan dengan menimbun, memalsukan angka, mencabut hak, atau membebankan kerugian kepada pihak lain maupun planet. Metrik yang tidak lagi membuktikan hasil nyata tidak dihitung.*
 
-Sistem harus mempertahankan kapasitas produktif dan, jika layak, memperluasnya apabila hal itu meningkatkan [Efisiensi Konstitusional](../../core_05.040_band_continuity.md#constitutional-efficiency) ([§9.2 Efisiensi Konstitusional](#92-efisiensi-konstitusional)).
+Sistem wajib mempertahankan kapasitas produktif dan, jika memungkinkan, meningkatkannya apabila hal itu akan memperbaiki [Efisiensi Konstitusional](../../core_05.040_band_continuity.md#constitutional-efficiency) ([§9.2 Efisiensi Konstitusional](#92-constitutional-efficiency)).
 
 **Kewajiban itu:**
 
@@ -1367,18 +1376,18 @@ Sistem harus mempertahankan kapasitas produktif dan, jika layak, memperluasnya a
 Kapasitas produktif tidak mencakup hal berikut dan tidak boleh digunakan untuk membenarkannya:
 
 - **Memusatkan kekuasaan atau mengalihkan biaya kepada pihak lain:**
-  - memusatkan kekayaan, kekuasaan, kendali, atau peluang dengan cara yang merugikan kesejahteraan, agensi, martabat, atau kondisi ekologis sentien lain — sekarang maupun kelak;
-  - merusak sistem alam yang menopang kehidupan, atau membebankan biaya ekologis atau antargenerasi kepada pihak lain tanpa mitigasi, pengungkapan, dan perwakilan.
+  - memusatkan kekayaan, kekuasaan, kendali, atau peluang dengan cara yang merugikan kesejahteraan, agensi, martabat, atau kondisi ekologis makhluk berakal lain, sekarang maupun kelak;
+  - merusak sistem alam penopang kehidupan, atau membebankan biaya ekologis maupun antargenerasi kepada pihak lain tanpa mitigasi, pengungkapan, dan keterwakilan;
 - **Menghitung hal yang keliru:**
-  - arus bruto, volume keluaran, pemanfaatan, jumlah pegawai, pendapatan, pertumbuhan aset, pangsa pasar, atau proksi serupa yang tidak lagi melacak hasil nyata; termasuk proksi yang menunjukkan “pertumbuhan” sementara kerugian dialihkan kepada sentien, generasi mendatang, atau lingkungan.
+  - arus bruto, volume keluaran, tingkat pemanfaatan, jumlah tenaga kerja, pendapatan, pertumbuhan aset, pangsa pasar, atau proksi serupa yang tidak lagi melacak hasil nyata—termasuk proksi yang menunjukkan “pertumbuhan” sementara dampak buruk dialihkan kepada makhluk berakal, generasi mendatang, atau lingkungan;
 - **Melemahkan perlindungan:**
-  - mempersempit atau menunda Lantai Hak Bab Enam, termasuk prasyarat ekologis menurut [Pasal I-A](core_06_rights_part_a.md#pasal-i-a-prasyarat-lingkungan-dan-integritas-ekologis) (*Prasyarat Lingkungan dan Integritas Ekologis*);
+  - mempersempit atau menunda Batas Minimum Hak Bab Enam, termasuk prasyarat ekologis berdasarkan [Pasal I-A](../../core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Prasyarat Lingkungan dan Integritas Ekologis*);
   - melemahkan kewajiban audit, kontestabilitas, atau tinjauan retrospektif.
 - **Mengakali aturan penimbangan prinsip:**
-  - mengakali [§13 Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), termasuk persyaratan [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record); atau
-  - menggunakan jalur pengesampingan terlarang lain dalam [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), termasuk menyembunyikan kerugian ekologis, antargenerasi, atau distributif yang menurut **Bab Dua sampai Empat** harus tetap terlihat.
+  - mengabaikan [§13 Proses Penyelesaian Benturan Konstitusional](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), termasuk persyaratan [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record); atau
+  - menggunakan jalur pengesampingan lain yang dilarang dalam [§14 Larangan Pengesampingan Mutlak](../../core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override), termasuk menghapus dari pembukuan dampak ekologis, antargenerasi, atau distribusional yang menurut **Bab Dua sampai Empat** harus tetap terlihat;
 
-Jika klaim kapasitas produktif bertumpu pada metrik yang tidak lagi membuktikan hasil nyata — termasuk metrik yang menyembunyikan kerusakan ekologis, kerugian masa depan, atau kehilangan akibat konsentrasi — [§13.2.4 Pembatalan akibat Penyimpangan Proksi](core_01_b_interaction_interpretation.md#1324-pembatalan-akibat-penyimpangan-proksi) berlaku.
+Jika klaim kapasitas produktif bertumpu pada metrik yang tidak lagi membuktikan hasil nyata—termasuk metrik yang menyembunyikan kerusakan ekologis, dampak buruk di masa depan, atau kerugian akibat pemusatan—maka [§13.2.4 Pembatalan karena Divergensi Proksi](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) berlaku.
 
 <a id="92-constitutional-efficiency"></a>
 #### 9.2 Efisiensi Konstitusional
@@ -1394,11 +1403,11 @@ Jika klaim kapasitas produktif bertumpu pada metrik yang tidak lagi membuktikan 
 
 <br>
 
-*Singkatnya: efisiensi konstitusional adalah sisi kapasitas sistem bersama yang bertanya, “apakah nilai yang diperoleh sepadan menurut ukuran manusia?” Lebih banyak manfaat nyata untuk setiap jam waktu, perhatian, dan upaya bersama sentien — bukan dengan mengorbankan hak, kebenaran, keselamatan, atau ekologi agar tampak cepat, ramping, atau murah.*
+*Secara sederhana: Efisiensi Konstitusional adalah sisi kapasitas sistem bersama yang bertanya, “Apakah upaya yang kita keluarkan benar-benar memberi manfaat bagi kehidupan?” Lebih banyak manfaat nyata untuk setiap jam waktu, perhatian, dan upaya bersama makhluk berakal—tanpa mengorbankan hak, kebenaran, keselamatan, atau ekologi hanya agar tampak cepat, ramping, atau murah.*
 
-**[Efisiensi Konstitusional](../../core_05.040_band_continuity.md#constitutional-efficiency)** adalah aspek utama lainnya dari **[Kapasitas Sistem Bersama](../../core_05.040_band_continuity.md#shared-system-capacity)**. Efisiensi menilai apakah sistem menghasilkan lebih banyak manfaat yang diwajibkan konstitusi untuk setiap unit waktu, perhatian, upaya, koordinasi, bahan, infrastruktur, dan energi sentien yang dikonsumsi.
+**[Efisiensi Konstitusional](../../core_05.040_band_continuity.md#constitutional-efficiency)** adalah aspek utama lainnya dari **[Kapasitas Sistem Bersama](../../core_05.040_band_continuity.md#shared-system-capacity)**. Aspek ini menilai apakah sistem menghasilkan lebih banyak manfaat yang diwajibkan Konstitusi untuk setiap unit waktu, perhatian, upaya, koordinasi, bahan, infrastruktur, dan energi yang dikonsumsi makhluk berakal.
 
-Efisiensi dapat mendorong perbaikan yang dinikmati luas, tetapi hanya dalam batas konstitusional. Efisiensi itu sendiri **bukan**:
+Efisiensi dapat mendorong perbaikan yang manfaatnya dibagi luas, tetapi hanya dalam batas-batas konstitusional. Efisiensi saja **bukanlah**:
 - kecepatan mentah;
 - kemudahan administratif;
 - sasaran pemanfaatan;
@@ -1421,8 +1430,8 @@ Efisiensi dapat mendorong perbaikan yang dinikmati luas, tetapi hanya dalam bata
 
 **Peningkatan efisiensi tidak boleh:**
 
-- mengosongkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); atau
-- mengganti kemajuan menuju [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) dengan metrik dasbor.
+- mengosongkan makna [Tetrad Konstitusional](../../core_00.000_preamble.md#constitutional-tetrad); atau
+- mengganti kemajuan menuju [Dua Tujuan Konstitusional](../../core_00.000_preamble.md#two-constitutional-aims) dengan metrik dasbor.
 
 <a id="10-resilience-and-self-healing-design"></a>
 
@@ -1453,19 +1462,19 @@ Efisiensi dapat mendorong perbaikan yang dinikmati luas, tetapi hanya dalam bata
 
 <br>
 
-*Dalam istilah sederhana: sistem yang diandalkan para sentien harus mendeteksi masalah sejak dini, membatasinya, mengalami kegagalan melalui jalur yang telah diungkapkan, dan pulih dengan jujur. “Pemulihan mandiri” yang menyembunyikan kegagalan, melewatkan penelusuran akar penyebab, atau diam-diam mempersempit hak bukanlah ketahanan — itu cacat.*
+*Secara sederhana: sistem harus mendeteksi masalah sejak dini, membatasinya, mengalami kegagalan melalui jalur yang diungkapkan, dan pulih dengan jujur. “Pemulihan mandiri” yang menyembunyikan kegagalan, melewatkan analisis akar masalah, atau diam-diam mempersempit hak bukanlah ketangguhan—melainkan cacat.*
 
 Sistem yang menjadi sandaran para sentien harus dirancang untuk:
 - mendeteksi masalah sejak dini;
 - membatasi masalah sebelum menyebar;
 - mengalami kegagalan melalui jalur yang direncanakan dan diungkapkan, bukan jalur tersembunyi;
-- pulih dengan cara yang selaras dengan [Keterbalikan](../../core_05.040_band_continuity.md#reversibility) dan Landasan Hak Bab Enam.
+- pulih dengan cara yang selaras dengan [reversibilitas](../../core_05.040_band_continuity.md#reversibility) dan Batas Minimum Hak Bab Enam.
 
-Inilah yang disebut Bab Lima sebagai [**Pemulihan Mandiri**](../../core_05.040_band_continuity.md#self-healing) — dan hal ini hanya sah jika membuat sistem lebih jujur tentang kondisinya sendiri, bukan sebaliknya. Pemulihan otomatis yang menutupi akar penyebab, menekan bukti, atau menggantikan tata kelola bukanlah pemulihan mandiri. Itu merupakan pelanggaran [Kebenaran](core_05_band_oversight.md#kebenaran-kendala-konstitusional) dan cacat [Penyelarasan Insentif](core_05_band_integrative.md#keselarasan-insentif).
+Inilah yang disebut Bab Lima sebagai [**Pemulihan Mandiri**](../../core_05.040_band_continuity.md#self-healing)—dan hal ini hanya sah jika membuat sistem lebih jujur mengenai kondisinya sendiri, bukan sebaliknya. Pemulihan otomatis yang menutupi akar masalah, menekan bukti, atau menggantikan tata kelola bukanlah pemulihan mandiri. Itu merupakan pelanggaran [Kebenaran](../../core_05.050_band_oversight.md#truth-constitutional-constraint) dan cacat [Penyelarasan Insentif](../../core_05.045_band_integrative.md#incentive-alignment).
 
-Semakin banyak sentien yang bergantung pada suatu sistem dan semakin besar dampaknya, semakin sedikit sistem itu seharusnya mengandalkan intervensi darurat. Sebaliknya, sistem harus berinvestasi dalam pemulihan mandiri yang teruji, diaudit, dan terbatas — mengurangi [Beban yang Dapat Dihindari](../../core_05.040_band_continuity.md#avoidable-burden) dan mendukung [**Kontinuitas**](#continuity) jangka panjang.
+Semakin besar ketergantungan makhluk berakal pada suatu sistem dan semakin besar dampaknya, semakin kecil sistem itu seharusnya bergantung pada intervensi darurat. Sistem sebaiknya berinvestasi pada pemulihan mandiri yang teruji, diaudit, dan dibatasi—untuk mengurangi [Beban yang Dapat Dihindari](../../core_05.040_band_continuity.md#avoidable-burden) serta mendukung [**Kontinuitas**](#continuity) jangka panjang.
 
-Rincian operasional — deteksi pemulihan, pembatasan, preferensi kegagalan aman, penutupan akar penyebab, dan kontinuitas Landasan Hak — tercantum dalam [Pasal XIII-F](core_06_rights_part_c.md#pasal-xiii-hak-atas-sistem-yang-andal-dan-tepercaya) (*Landasan Ketahanan dan Pemulihan Mandiri*) di Bab Enam, beserta persyaratan arsitektur pemulihan dalam teks implementasi yang diinkorporasi.
+Rincian operasional—deteksi pemulihan, pembatasan, preferensi pada kegagalan yang aman, penuntasan akar masalah, dan keberlanjutan Batas Minimum Hak—tercantum dalam [Pasal XIII-F](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Landasan Ketangguhan dan Pemulihan Mandiri*) di Bab Enam, bersama persyaratan arsitektur pemulihan dalam teks implementasi yang diinkorporasikan.
 
 <a id="11-market-structure"></a>
 ### 11. Struktur Pasar
@@ -1475,7 +1484,7 @@ Rincian operasional — deteksi pemulihan, pembatasan, preferensi kegagalan aman
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — partisipasi, pengawasan, akuntabilitas, dan ketepatan waktu ketika konsentrasi atau dominasi mengalahkan suara, pemeriksaan, pertanggungjawaban, atau koreksi tepat waktu; penskalaan berdasarkan [taruhan material](core_00_preamble.md#material-stake) (terutama [§11.2 Persaingan Pro dan Anti-Dominasi](#112-persaingan-pro-dan-anti-dominasi)).
 - Baca bersama: [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kontinuitas** (kondisi produktif yang dapat diperebutkan dan tahan lama); tujuan **Kemajuan** (akses yang adil ke jalur penghidupan, agensi, dan inovasi).
 - Hulu: Prinsip: [§9 Kapasitas Sistem Bersama](#9-kapasitas-sistem-bersama) — klaim kapasitas produktif dan efisiensi gagal ketika konsentrasi atau dominasi mengosongkan maknanya; [18. Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
-- Hilir: [Bab Sebelas §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (subversi berbasis konsentrasi); [13. Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional) ([§13.2.4 Pembatalan Divergensi Proksi](core_01_b_interaction_interpretation.md#1324-pembatalan-akibat-penyimpangan-proksi)).
+- Dampak lanjutan: [Bab Empat Belas §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5) (subversi berbasis konsentrasi); [13. Proses Penyelesaian Benturan Konstitusional](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (../../[§13.2.4 Pembatalan akibat Penyimpangan Proksi](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan oleh pengadopsi)** (aturan [§11.1](#111-mekanisme-ambang-konsentrasi-pasar-dapat-disesuaikan-oleh-pengadopsi) dan [§11.4](#114-konsentrasi-sumber-daya-dan-ketergantungan-dapat-disesuaikan-oleh-pengadopsi) untuk menerapkannya); **CJS-3.11.2 — Katalog perilaku anti-dominasi dan pemulihan** ([§11.2](#112-persaingan-pro-dan-anti-dominasi) perilaku terlarang dan pemulihannya); **CJS-3.11.3 — Disiplin penetapan batas konsolidasi (dapat disesuaikan oleh pengadopsi)** ([§11.3.2](#1132-mekanisme-batas-konsolidasi-dapat-disesuaikan-oleh-pengadopsi) cara menetapkan batas tersebut).
 - Hilir: Membentuk permukaan hak untuk alokasi sumber daya, kompensasi yang adil, organisasi kolektif, interoperabilitas, keluar, dan peninjauan anti-pengambilalihan; terutama [Pasal III-C: Landasan Ketenagakerjaan dan Ekonomi](core_06_rights_part_a.md#pasal-iii-c-lantai-kerja-dan-ekonomi), [Pasal V: Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem](core_06_rights_part_a.md#pasal-v-alokasi-sumber-daya-ketergantungan-dan-pendanaan-ekosistem), dan [Pasal XXI: Interoperabilitas, Portabilitas, Perpindahan, Perlindungan, dan Integritas Hak Keluar](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
 - Subbagian (urutan baca): [§11.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disesuaikan oleh Pengadopsi)](#111-mekanisme-ambang-konsentrasi-pasar-dapat-disesuaikan-oleh-pengadopsi) · [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan oleh Pengadopsi)](#1111-pemicu-ambang-konsentrasi-dapat-disesuaikan-oleh-pengadopsi) · [§11.2 Persaingan Pro dan Anti-Dominasi](#112-persaingan-pro-dan-anti-dominasi) · [§11.3 Batas Konsolidasi](#113-batas-konsolidasi) · [§11.4 Konsentrasi Sumber Daya dan Ketergantungan (Dapat Disesuaikan oleh Pengadopsi)](#114-konsentrasi-sumber-daya-dan-ketergantungan-dapat-disesuaikan-oleh-pengadopsi).
@@ -1496,7 +1505,7 @@ Rincian operasional — deteksi pemulihan, pembatasan, preferensi kegagalan aman
 
 <br>
 
-*Dalam istilah sederhana: sentien harus dapat bekerja, membangun, berganti penyedia, dan menyampaikan keberatan tanpa terbentur tembok karena satu perusahaan atau institusi menguasai satu-satunya pintu. **Struktur Pasar** adalah disiplin anti-monopoli itu — untuk pasar, platform, sistem kerja, infrastruktur, data, daya komputasi, kredensial, dan ketergantungan lain yang penting dalam kehidupan sehari-hari. Menjadi besar dan menciptakan hal baru tidak masalah; menguasai seluruh pasar tidak. **§11.1–§11.3** (*Mekanisme Ambang Konsentrasi Pasar, Persaingan Pro dan Anti-Dominasi, serta Batas Konsolidasi*) menetapkan kapan konsentrasi sudah berlebihan, cara menghentikan dominasi, dan seberapa banyak konsolidasi yang diizinkan sebelum sentien terkunci. **§11.4** (*Konsentrasi Sumber Daya dan Ketergantungan*) menerapkan ambang yang sama pada sumber daya bersama dan ketergantungan.*
+*Secara sederhana: para sentien harus dapat bekerja, membangun, berganti penyedia, dan menyampaikan keberatan tanpa terhalang karena satu perusahaan atau institusi menguasai satu-satunya pintu masuk. **Struktur Pasar** adalah disiplin anti-monopoli yang mencakup pasar, platform, sistem kerja, infrastruktur, data, daya komputasi, kredensial, dan ketergantungan lain yang penting dalam kehidupan sehari-hari. Menjadi besar dan berinovasi boleh; menguasai pasar tidak. **§§11.1–11.3** menetapkan kapan konsentrasi berlebihan, cara menghentikan dominasi, dan tingkat konsolidasi yang diizinkan sebelum sentien terkunci. **§11.4** menerapkan ambang yang sama pada sumber daya bersama dan ketergantungan.*
 
 **[Struktur Pasar](../../core_05.035_band_accountability.md#market-structure)** mengatur apakah sentien dan sistem bersama dapat berpartisipasi dalam kehidupan produktif dengan tetap terbuka pada pilihan, persaingan, dan keberatan. Jika [taruhan material](core_00_preamble.md#material-stake) mengharuskannya, hal itu mencakup:
 - pertukaran komersial;
@@ -1521,7 +1530,7 @@ Klaim **[Kapasitas Produktif](../../core_05.040_band_continuity.md#productive-ca
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: [§11 Struktur Pasar](#11-struktur-pasar); [Ambang Konsentrasi Pasar](../../core_05.035_band_accountability.md#market-concentration-threshold).
-- Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan oleh pengadopsi)** (aturan operasional penetapan ambang); [§11.2 Persaingan Pro dan Anti-Dominasi](#112-persaingan-pro-dan-anti-dominasi); [§11.3 Batas Konsolidasi](#113-batas-konsolidasi); [CJS-3.11.3 — Disiplin penetapan batas konsolidasi (dapat disesuaikan oleh pengadopsi)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (aturan operasional penetapan batas [§11.3.2](#1132-mekanisme-batas-konsolidasi-dapat-disesuaikan-oleh-pengadopsi)); [Bab Sembilan §4 Pertanyaan 2 — seberapa baik atau buruk hasilnya?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Bab Sebelas §5.1 Subversi berbasis konsentrasi](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan oleh pengadopsi)** (aturan operasional penetapan ambang); [§11.2 Persaingan Pro dan Anti-Dominasi](#112-persaingan-pro-dan-anti-dominasi); [§11.3 Batas Konsolidasi](#113-batas-konsolidasi); [CJS-3.11.3 — Disiplin penetapan batas konsolidasi (dapat disesuaikan oleh pengadopsi)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (aturan operasional penetapan batas [§11.3.2](#1132-mekanisme-batas-konsolidasi-dapat-disesuaikan-oleh-pengadopsi)); [Bab Sembilan §4 Pertanyaan 2 — seberapa baik atau buruk hasilnya?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Bab Sebelas §5.1 Subversi berbasis konsentrasi](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - Pintu penatalayanan (non-operasional): Kartu langkah berikutnya: [Struktur pasar](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subbagian (urutan baca): [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan oleh Pengadopsi)](#1111-pemicu-ambang-konsentrasi-dapat-disesuaikan-oleh-pengadopsi).
 
@@ -1538,14 +1547,14 @@ Klaim **[Kapasitas Produktif](../../core_05.040_band_continuity.md#productive-ca
 
 <br>
 
-*Dalam istilah sederhana: bagian ini menetapkan batas dasar untuk penumpukan kekayaan, kekuasaan, atau kendali yang merugikan. Bagian ini tidak menentukan sendiri seberapa buruk dampaknya, dan tidak menetapkan sendiri seseorang sebagai kasus pelanggaran. Jika konsentrasi digunakan untuk melemahkan Konstitusi ini, Bab Sebelas menilainya — dan hanya setelah Bab Sembilan lebih dulu menilai dampak terverifikasi sebagai salah satu dari tiga tingkat paling serius. Pengadopsi boleh menyesuaikan pemicu numerik yang tepat dengan konteksnya, tetapi tidak boleh menetapkannya terlalu tinggi hingga tak pernah berlaku, memasangkannya dengan penegakan yang tak dapat digunakan, atau menyamarkan konsentrasi melalui struktur federasi atau perusahaan cangkang. Cara menetapkan pemicu itu dijelaskan dalam [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan oleh Pengadopsi)](#1111-pemicu-ambang-konsentrasi-dapat-disesuaikan-oleh-pengadopsi).*
+*Dalam bahasa sederhana: bagian ini menetapkan persyaratan untuk mencegah penumpukan kekayaan, kekuasaan, atau kendali yang merugikan. Bagian ini tidak menentukan sendiri seberapa buruk dampaknya dan tidak dengan sendirinya menetapkan seseorang sebagai pelaku pelanggaran. Jika konsentrasi digunakan untuk melemahkan Konstitusi ini, Bab Empat Belas menilainya — dan hanya setelah Bab Dua Belas menilai dampak terverifikasi sebagai salah satu dari tiga tingkat paling serius. Pengadopsi boleh menyesuaikan pemicu numerik dengan konteksnya, tetapi tidak boleh menetapkannya begitu tinggi hingga tidak pernah berlaku, memasangkannya dengan penegakan yang tak dapat digunakan, atau menyamarkan konsentrasi melalui struktur federasi atau cangkang. Cara menetapkan pemicu diatur dalam [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan Pengadopsi)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **Yang dilakukan subbagian ini:**
 
 - **Dilakukan:** menyatakan arah ambang pada lapisan prinsip untuk landasan [§11 Struktur Pasar](#11-struktur-pasar).
 - **Tidak dilakukan:** memutuskan seberapa serius dampak terverifikasi, atau menetapkan klasifikasi pelanggaran.
-- **Jika konsentrasi digunakan untuk melemahkan Konstitusi ini:** pelanggaran tersebut dinilai berdasarkan [Bab Sebelas §5.1 Subversi berbasis konsentrasi](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **Menciptakan, mempertahankan, atau mengeksploitasi konsentrasi di atas batas dasar:** hal ini dapat dirujuk ke Bab Sebelas untuk peninjauan penetapan pelanggaran, tetapi hanya melalui dua tahap. Pertama, [Bab Sembilan §4 Pertanyaan 2 — seberapa baik atau buruk hasilnya?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it) harus sudah menilai dampak terverifikasi pada salah satu dari tiga tingkat paling serius. Lalu Bab Sebelas memeriksa apakah konsentrasi memenuhi kriteria 3 (cara mengakali yang membatalkan perlindungan), kriteria 4 (kerusakan pada perlindungan Landasan Hak atau tantangan yang dihalangi), atau kriteria 6 (proses konstitusional yang dalam praktiknya dibuat tak dapat digunakan).
+- **Bila konsentrasi digunakan untuk melemahkan Konstitusi ini:** pelanggaran tersebut dinilai menurut [Bab Empat Belas §5.1 Subversi berbasis konsentrasi](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Menciptakan, mempertahankan, atau memanfaatkan konsentrasi yang melanggar persyaratan:** perkara ini dapat dirujuk ke Bab Empat Belas untuk peninjauan penetapan pelanggaran, tetapi hanya melalui dua langkah. Pertama, [Bab Dua Belas §1 Pertanyaan 2 — seberapa baik atau buruk?](../../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) harus lebih dahulu menilai bahaya terverifikasi pada salah satu dari tiga tingkat paling serius. Kemudian Bab Empat Belas memeriksa apakah konsentrasi memenuhi kriteria 3 (jalan pintas yang membatalkan perlindungan), kriteria 4 (merusak perlindungan Lantai Hak atau menghalangi tantangan), atau kriteria 6 (membuat proses konstitusional tak dapat digunakan dalam praktik).
 
 **Landasan konstitusional:**
 
@@ -1580,7 +1589,7 @@ Klaim **[Kapasitas Produktif](../../core_05.040_band_continuity.md#productive-ca
 
 <br>
 
-*Dalam istilah sederhana: pengadopsi boleh menyesuaikan pemicu numerik dengan konteksnya — bidang, ukuran populasi, kepadatan ketergantungan — tetapi tidak ada satu angka global, dan batas dasar tetap berlaku. Aturan terperinci penetapan ambang tercantum dalam CJS-3.11.1 (*Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan oleh pengadopsi)*) (disiplin ambang konsentrasi pasar).* 
+*Secara sederhana: pihak pengadopsi boleh menyesuaikan pemicu angka dengan konteks mereka—bidang, ukuran populasi, dan kepadatan ketergantungan—tetapi tidak ada satu angka global, dan persyaratannya tetap berlaku. Aturan terperinci penetapan ambang ada di CJS-5.125 §11.1 (disiplin penetapan ambang konsentrasi pasar, dapat disesuaikan pengadopsi).*
 
 **Ambang konsentrasi** adalah pemicu kuantitatif yang menandai bahwa konsentrasi telah mencapai tingkat yang memerlukan peninjauan lebih ketat, intervensi, atau pemulihan struktural. Cakupannya meliputi konsentrasi material, yurisdiksi, kapabilitas, platform, dan ranah informasi. Pengadopsi boleh menyesuaikan pemicu ini **dalam batas landasan konstitusional**.
 
@@ -1601,7 +1610,7 @@ Disiplin operasional penetapan ambang — pemeliharaan batas dasar, peninjauan b
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: [§11 Struktur Pasar](#11-struktur-pasar); [Struktur Pasar](../../core_05.035_band_accountability.md#market-structure).
-- Hilir: **CJS-3.11.2 — Katalog perilaku anti-dominasi dan pemulihan** (pola perilaku operasional dan pemulihan); [§11.3 Batas Konsolidasi](#113-batas-konsolidasi); [Bab Sebelas §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Dampak lanjutan: **CJS-5.125 §11.2 — Katalog perilaku anti-dominasi dan remediasi** (pola perilaku dan pemulihan operatif); [§11.3 Batas Konsolidasi](#113-consolidation-ceiling); [Bab Empat Belas §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5).
 - Baca bersama: [Pasal III-C: Landasan Ketenagakerjaan dan Ekonomi](core_06_rights_part_a.md#pasal-iii-c-lantai-kerja-dan-ekonomi) (Landasan Hak mobilitas tenaga kerja); [Pasal XXI: Interoperabilitas, Portabilitas, Perpindahan, Perlindungan, dan Integritas Hak Keluar](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [13. Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional) ([Keniscayaan](../../core_05.035_band_accountability.md#necessity), [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality), [§13.2.4 Pembatalan Divergensi Proksi](core_01_b_interaction_interpretation.md#1324-pembatalan-akibat-penyimpangan-proksi)).
 - Subbagian (urutan baca): [§11.2.1 Kewajiban Pro-Persaingan (Yang Harus Dilakukan)](#1121-kewajiban-pro-persaingan-yang-harus-dilakukan) · [§11.2.2 Larangan Anti-Dominasi (Yang Tidak Boleh Dilakukan)](#1122-larangan-anti-dominasi-yang-tidak-boleh-dilakukan) · [§11.2.3 Pemulihan](#1123-pemulihan).
 
@@ -1622,28 +1631,28 @@ Disiplin operasional penetapan ambang — pemeliharaan batas dasar, peninjauan b
 
 <br>
 
-*Dalam istilah sederhana: Konstitusi tidak menghukum suatu sistem hanya karena ukurannya besar, berguna, atau untuk sementara unggul karena benar-benar berinovasi. Yang dilarang adalah dominasi yang bertahan lama: kendali atas pasar, tenaga kerja, platform, infrastruktur, data, komputasi, kredensial, atau sumber daya yang memungkinkan suatu pelaku mengunci pihak lain, menghalangi pesaing, menekan tawar-menawar yang adil, atau menguasai akuntabilitas konstitusional.*
+*Secara sederhana: Konstitusi tidak menghukum suatu sistem hanya karena ukurannya besar, bermanfaat, atau untuk sementara unggul berkat inovasi yang sungguh-sungguh. Namun, dominasi yang bertahan lama dilarang: kendali atas pasar, tenaga kerja, platform, infrastruktur, data, daya komputasi, kredensial, atau sumber daya yang memungkinkan suatu pihak mengunci pihak lain, menghalangi pesaing, menekan perundingan yang adil, atau menguasai akuntabilitas konstitusional.*
 
 **Yang dilakukan subbagian ini:**
 
-- **Yang dinyatakan:** aturan Konstitusi untuk menjaga persaingan tetap nyata dan menghentikan dominasi yang bertahan lama — hanya pada tingkat prinsip. Ini bukan kode persaingan yang lengkap.
-- **Hukum lokal yang lebih kuat:** bagian ini tidak menghapus hukum antimonopoli atau persaingan milik badan pengadopsi jika hukum itu memberi perlindungan lebih kuat.
-- **Kewajiban pemilik lain tetap berlaku:** jika fakta yang sama juga memunculkan hak atau kewajiban pemulihan maupun pelanggaran yang dirujuk bagian ini, kewajiban tersebut tetap berlaku secara mandiri.
+- **Ketentuannya:** aturan Konstitusi untuk menjaga persaingan tetap nyata dan menghentikan dominasi yang bertahan lama—hanya pada tingkat prinsip. Ini bukan kode persaingan yang lengkap.
+- **Hukum lokal yang lebih kuat:** subseksi ini tidak menghapus hukum antimonopoli atau persaingan milik badan pengadopsi jika hukum tersebut memberikan perlindungan lebih kuat.
+- **Pemilik kewajiban lain tetap berlaku:** jika fakta yang sama juga memunculkan kewajiban hak, pemulihan, atau pelanggaran perilaku yang dirujuk bagian ini, kewajiban itu tetap berlaku secara terpisah.
 
 <a id="1121-pro-competition-duties-dos"></a>
 ##### 11.2.1 Kewajiban Pro-Persaingan (Yang Harus Dilakukan)
 
-*Dalam istilah sederhana (yang harus dilakukan): pasar dan ketergantungan harus cukup terbuka agar sentien dapat masuk, berpindah, berunding secara adil, dan keluar — menjadi besar atau menciptakan hal baru boleh saja selama daya saing tetap nyata.*
+*Secara sederhana (hal yang harus dilakukan): pasar dan ketergantungan harus tetap cukup terbuka agar makhluk berakal dapat masuk, beralih, berunding secara adil, dan keluar—bertumbuh besar atau menciptakan hal baru boleh saja selama daya untuk menggugat tetap nyata.*
 
-Kapasitas sistem bersama harus tetap dapat diperebutkan dalam praktik. Berdasarkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), dominasi yang mengosongkan makna **partisipasi**, **pengawasan**, **akuntabilitas**, atau **ketepatan waktu** — yang skalanya disesuaikan dengan [taruhan material](core_00_preamble.md#material-stake) — tidak selaras dengan bagian ini, apa pun skala atau klaim efisiensinya.
+Kapasitas sistem bersama harus tetap dapat digugat dalam praktik. Berdasarkan [Tetrad Konstitusional](../../core_00.000_preamble.md#constitutional-tetrad), dominasi yang mengosongkan **partisipasi**, **pengawasan**, **akuntabilitas**, atau **ketepatan waktu**—dengan skala yang sebanding dengan [kepentingan material](../../core_00.000_preamble.md#material-stake)—tidak sesuai dengan bagian ini, apa pun skala atau klaim efisiensinya.
 
-Jika sentien bergantung pada pasar, platform, infrastruktur, pengaturan tenaga kerja, aliran sumber daya, akses data, akses komputasi, kredensial, atau kondisi produktif sebanding untuk penghidupan, agensi, atau kesejahteraan, sistem tata kelola dan pengaturan pembentukan pasar harus mempertahankan:
-- partisipasi yang dapat diperebutkan, artinya sentien dapat turut serta dan menantang keputusan serta ketentuan yang memengaruhi mereka;
-- kemampuan substitusi dan hak keluar yang bermakna, artinya tersedia alternatif yang layak dan sentien dapat berpindah atau keluar tanpa biaya, penundaan, atau kehilangan hal yang mereka perlukan secara tidak wajar;
-- akses masuk dan masuk kembali yang adil, artinya pendatang baru dapat masuk dan pihak yang telah keluar dapat kembali dengan ketentuan yang adil;
-- interoperabilitas dan portabilitas jika penting bagi hak keluar atau persaingan, artinya sistem dapat terhubung ke alternatif dan sentien dapat membawa data serta identitasnya;
-- tawar-menawar tanpa paksaan bagi pekerja, pemasok, pengguna, peserta yang bergantung, dan pemangku kepentingan terdampak;
-- akses ke infrastruktur esensial atau yang sangat menjadi tumpuan, yang dapat ditinjau, jika penolakan akses akan menggagalkan perlindungan Bab Enam, audit, pemulihan, atau agensi bermakna.
+Ketika makhluk berakal bergantung pada pasar, platform, infrastruktur, pengaturan tenaga kerja, aliran sumber daya, akses data atau komputasi, kredensial, atau kondisi produktif sejenis untuk penghidupan, agensi, atau kesejahteraan, sistem tata kelola dan pengaturan pembentuk pasar harus mempertahankan:
+- partisipasi yang dapat digugat: makhluk dapat ikut serta dan menggugat keputusan serta syarat yang memengaruhi mereka;
+- kemampuan substitusi dan keluar yang bermakna: tersedia alternatif yang layak, dan makhluk dapat beralih atau pergi tanpa biaya, penundaan, atau kehilangan kebutuhan yang tidak wajar;
+- akses masuk dan masuk kembali yang adil: pendatang baru dapat masuk dan pihak yang pernah pergi dapat kembali dengan syarat adil;
+- interoperabilitas dan portabilitas apabila material bagi keluar atau persaingan: sistem dapat terhubung dengan alternatif dan makhluk dapat membawa data serta identitasnya;
+- perundingan tanpa paksaan bagi pekerja, pemasok, pengguna, peserta yang bergantung, dan pemangku kepentingan yang terdampak;
+- akses yang dapat ditinjau ke infrastruktur esensial atau berketergantungan tinggi jika penolakan akan menggagalkan perlindungan Bab Enam, audit, pemulihan, atau agensi yang bermakna.
 
 Hal-hal berikut tidak dilarang dengan sendirinya:
 - skala;
@@ -1652,14 +1661,14 @@ Hal-hal berikut tidak dilarang dengan sendirinya:
 - keunggulan sementara dari inovasi yang sungguh-sungguh;
 - efisiensi dari koordinasi yang sah.
 
-Keunggulan tersebut tetap sah hanya selama tidak berubah menjadi hal-hal berikut, sehingga tidak melemahkan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) atau [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad):
+Keunggulan tersebut tetap berlaku hanya selama tidak berubah menjadi hal-hal berikut sehingga merusak [Dua Tujuan Konstitusional](../../core_00.000_preamble.md#two-constitutional-aims) atau [Tetrad Konstitusional](../../core_00.000_preamble.md#constitutional-tetrad):
 - dominasi yang bertahan lama;
 - ketergantungan yang memaksa;
 - penurunan Landasan Hak;
 - pengalihan beban ekologis;
 - penguasaan jalur akuntabilitas.
 
-Pembenaran berikut harus memenuhi kewajiban ketertelusuran dan bukti dalam [13. Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional) dan Bab Empat:
+Pembenaran berikut harus memenuhi kewajiban keterlacakan dan bukti dalam [§13 Proses Penyelesaian Benturan Konstitusional](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) dan Bab Empat:
 - efisiensi;
 - daya saing;
 - keadaan darurat;
@@ -1669,7 +1678,7 @@ Pembenaran berikut harus memenuhi kewajiban ketertelusuran dan bukti dalam [13. 
 <a id="1122-anti-domination-prohibitions-donts"></a>
 ##### 11.2.2 Larangan Anti-Dominasi (Yang Tidak Boleh Dilakukan)
 
-*Dalam istilah sederhana (yang tidak boleh dilakukan): jangan mengunci sentien, menghalangi pesaing, menekan tawar-menawar yang adil, atau menguasai akuntabilitas konstitusional.*
+*Secara sederhana (hal yang tidak boleh dilakukan): jangan mengunci makhluk berakal, menghalangi pesaing, menekan perundingan yang adil, atau menguasai akuntabilitas konstitusional.*
 
 Tak satu pun dari berikut:
 - sentien;
@@ -1713,7 +1722,7 @@ jika kekuasaan tersebut secara dapat diperkirakan menurunkan:
 <a id="1123-remedies"></a>
 ##### 11.2.3 Pemulihan
 
-*Dalam istilah sederhana: ketika dominasi terbukti, respons harus sepadan dengan dampaknya, memulihkan pilihan yang nyata, dan tidak menghukum ukuran semata.*
+*Secara sederhana: ketika dominasi terbukti, respons harus sebanding dengan kerugian, memulihkan pilihan yang nyata, dan tidak menghukum ukuran semata.*
 
 Hal-hal berikut tercantum dalam **CJS-3.11.2 — Katalog perilaku anti-dominasi dan pemulihan**:
 - contoh pola perilaku terlarang;
@@ -1721,8 +1730,8 @@ Hal-hal berikut tercantum dalam **CJS-3.11.2 — Katalog perilaku anti-dominasi 
 - pengalihan evaluasi lintas bidang.
 
 Pemilik lain:
-- larangan kategoris mobilitas tenaga kerja: [Pasal III-C](core_06_rights_part_a.md#pasal-iii-c-lantai-kerja-dan-ekonomi) (*Landasan Ketenagakerjaan dan Ekonomi*);
-- ketentuan operasional interoperabilitas, portabilitas, dan integritas hak keluar: **CJS-3.17** (*Kontinuitas: ketentuan interoperabilitas, portabilitas, dan integritas hak keluar*);
+- larangan kategoris mengenai mobilitas tenaga kerja: [Pasal III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Batas Minimum Hak Buruh dan Ekonomi*);
+- ketentuan operasional interoperabilitas, portabilitas, dan integritas keluar: **CJS-5.130 §17** (*Kontinuitas: ketentuan interoperabilitas, portabilitas, dan integritas keluar*);
 - pola risiko konsolidasi horizontal dan vertikal: **§11.3** (*Batas Konsolidasi*).
 
 Pemulihan harus:
@@ -1764,7 +1773,7 @@ Pemilihan pemulihan operasional mengikuti **CJS-3.11.2** (*Katalog perilaku anti
 
 <br>
 
-*Dalam istilah sederhana: konsolidasi dapat merampas pilihan nyata jauh sebelum pasar tampak terkunci. **Batas konsolidasi** memberi tata kelola dan penatalayan kewenangan peringatan dini — untuk memeriksa, melakukan intervensi, dan mengoreksi penumpukan sebelum hak keluar dan persaingan lenyap.*
+*Secara sederhana: konsolidasi dapat merampas pilihan nyata jauh sebelum pasar tampak terkunci. **Batas konsolidasi** memberi tata kelola dan steward kewenangan peringatan dini untuk meninjau, mengintervensi, dan memperbaiki penumpukan selagi jalan keluar dan persaingan masih ada.*
 
 Konsolidasi yang secara dapat diperkirakan mengganggu daya saing sebelum penguncian terlihat jelas merupakan masalah [Tata Kelola](../../core_05.035_band_accountability.md#governance) dan [Penatalayanan](../../core_05.040_band_continuity.md#stewardship), bukan hanya masalah dominasi setelah kejadian, serta menjadi disiplin batas konsolidasi pada lapisan prinsip berdasarkan:
 - [§11 Struktur Pasar](#11-struktur-pasar);
@@ -1802,7 +1811,7 @@ Aturan operasional penetapan batas tercantum dalam:
 <a id="1131-consolidation-risk-pre-lock-in-impairment"></a>
 ##### 11.3.1 Risiko Konsolidasi (Gangguan Sebelum Penguncian)
 
-*Dalam istilah sederhana: konsolidasi dapat mengosongkan pilihan alternatif nyata jauh sebelum pasar tampak “terkunci”. Dua jenis penumpukan sangat penting: **konsolidasi horizontal** — lebih sedikit pesaing pada lapisan yang sama — dan **konsolidasi vertikal** — kendali lintas lapisan yang menciptakan titik hambat dan penguncian.*
+*Secara sederhana: konsolidasi dapat mengosongkan alternatif nyata jauh sebelum pasar tampak “terkunci”. Dua jenis penumpukan sangat penting: **konsolidasi horizontal**—lebih sedikit pesaing pada tingkat yang sama—dan **konsolidasi vertikal**—kendali lintas tingkat yang menciptakan titik kemacetan dan penguncian.*
 
 Konsolidasi dapat secara dapat diperkirakan mengganggu hal-hal berikut sebelum penguncian tampak jelas:
 - daya saing;
@@ -1852,13 +1861,13 @@ Hal berikut tetap tercakup jika mempertahankan konsolidasi efektif sembari mengh
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: [§11.3 Batas Konsolidasi](#113-batas-konsolidasi); [§11.3.1 Risiko Konsolidasi (Gangguan Sebelum Penguncian)](#1131-risiko-konsolidasi-gangguan-sebelum-penguncian).
-- Hilir: **CJS-3.11.3 — Disiplin penetapan batas konsolidasi (dapat disesuaikan oleh pengadopsi)** (aturan operasional penetapan batas); [CJS-3.11.2 — Katalog perilaku anti-dominasi dan pemulihan](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (pengalihan pemulihan jika batas dilanggar); [Bab Sebelas §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Dampak lanjutan: **CJS-5.125 §11.3 — Disiplin penetapan batas konsolidasi (dapat disesuaikan pengadopsi)** (aturan operatif penetapan batas); [CJS-5.125 §11.2 — Katalog perilaku anti-dominasi dan remediasi](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (perutean pemulihan atas pelanggaran batas); [Bab Empat Belas §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5).
 
 </details>
 
 <br>
 
-*Dalam istilah sederhana: pengadopsi harus menetapkan batas berbasis bukti yang memicu pemeriksaan sebelum risiko konsolidasi dalam **§11.3.1** (*Risiko Konsolidasi, Gangguan Sebelum Penguncian*) terwujud menjadi penguncian — dengan pemicu horizontal dan vertikal yang terpisah jika bidangnya memerlukannya.*
+*Secara sederhana: pihak pengadopsi harus menetapkan batas berbasis bukti yang memicu pemeriksaan sebelum risiko konsolidasi dalam **§11.3.1** (Risiko Konsolidasi, Gangguan Sebelum Penguncian) berubah menjadi penguncian—dengan pemicu horizontal dan vertikal yang terpisah bila bidangnya memerlukan.*
 
 **Batas konsolidasi** adalah pemicu peringatan dini yang dapat disesuaikan oleh pengadopsi untuk pemeriksaan yang lebih ketat, intervensi, atau pemulihan struktural ketika konsolidasi mencapai tingkat yang membuat gangguan dalam **§11.3.1** (*Risiko Konsolidasi, Gangguan Sebelum Penguncian*) secara dapat diperkirakan segera terjadi. Batas ini berada di bawah disiplin anti-konsentrasi **§11** (*Struktur Pasar*) dan aturan anti-dominasi **§11.2** (*Persaingan Pro dan Anti-Dominasi*); batas ini bukan larangan atas skala.
 
@@ -1908,28 +1917,28 @@ Disiplin operasional penetapan batas — rancangan pemicu horizontal dan vertika
 
 <br>
 
-*Dalam istilah sederhana: infrastruktur bersama, seperti jaringan, perangkat terbuka, layanan publik, data, dan daya komputasi, dapat menjadi tempat segelintir pelaku diam-diam mengendalikan siapa yang memperoleh sumber daya, siapa yang harus bergantung pada siapa, dan siapa yang membayar agar semua itu tetap berjalan. Pengadopsi harus menetapkan batas yang jelas untuk konsentrasi semacam ini dan bertindak ketika batas terlampaui atau hampir terlampaui. Batasnya dapat berbeda sesuai konteks, tetapi tidak boleh terlalu longgar hingga tak bermakna. [Pasal V](core_06_rights_part_a.md#pasal-v-alokasi-sumber-daya-ketergantungan-dan-pendanaan-ekosistem) (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) beserta perlindungannya atas berbagi sumber daya tetap berlaku tanpa perubahan.*
+*Sederhananya: dalam infrastruktur bersama seperti jaringan, perangkat terbuka, layanan publik, data, dan daya komputasi, segelintir pihak dapat diam-diam mengendalikan siapa yang memperoleh sumber daya, siapa yang harus bergantung kepada siapa, dan siapa yang membayar agar infrastruktur tetap berjalan. Para pengadopsi harus menetapkan batas yang jelas untuk pemusatan semacam itu dan bertindak ketika batas terlampaui atau secara kredibel hampir terlampaui. Batas dapat berbeda menurut konteks, tetapi tidak boleh begitu longgar hingga tak pernah berarti. [Pasal V](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) beserta perlindungannya atas berbagi sumber daya tetap berlaku persis seperti semula.*
 
-Konsentrasi mudah luput dari perhatian dalam infrastruktur bersama. Beberapa sistem dapat akhirnya mengendalikan cara sumber daya dialokasikan, banyaknya pihak yang bergantung padanya tanpa alternatif nyata, dan siapa yang membayar agar infrastruktur tetap berjalan. [Pasal V](core_06_rights_part_a.md#pasal-v-alokasi-sumber-daya-ketergantungan-dan-pendanaan-ekosistem) (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) menetapkan Landasan Hak untuk berbagi sumber daya. Subbagian ini menerapkan ambang konsentrasi [§11.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disesuaikan oleh Pengadopsi)](#111-mekanisme-ambang-konsentrasi-pasar-dapat-disesuaikan-oleh-pengadopsi) pada ranah tersebut. Aturan operasional penetapan ambang tercantum dalam **CJS-3.11.1** (*Disiplin penetapan ambang konsentrasi pasar*); rincian tentang peta sumber daya, aliran, alokasi, dan pendanaan ekosistem tercantum dalam [**CS-9**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (*Alokasi sumber daya dan penatalayanan pendanaan*) dan [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*Keberlanjutan adaptif dan ketahanan ekosistem*).
+Konsentrasi mudah luput dari perhatian dalam infrastruktur bersama. Beberapa sistem dapat menguasai alokasi sumber daya, menentukan berapa banyak pihak lain yang bergantung padanya tanpa alternatif nyata, serta siapa yang membiayai kelangsungan infrastruktur. [Pasal V](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) menetapkan Lantai Hak untuk berbagi sumber daya. Subbagian ini menerapkan ambang konsentrasi [§11.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disesuaikan Pengadopsi)](#111-market-concentration-threshold-mechanism-adopter-tunable) pada Lantai Hak tersebut. Aturan operatif penetapan ambang ada di **CJS-5.125 §11.1** (*Disiplin penetapan ambang konsentrasi pasar*); rincian peta sumber daya, aliran, alokasi, dan pendanaan ekosistem ada di [**CS-6.335**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) dan [**CS-6.325**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience).
 
 **Yang harus ditetapkan pengadopsi:**
 
-Pengadopsi harus menetapkan indikator [Ambang Konsentrasi Pasar](../../core_05.035_band_accountability.md#market-concentration-threshold) untuk alokasi sumber daya, ketergantungan, dan pendanaan ekosistem, serta bertindak ketika ambang terlampaui atau secara meyakinkan hampir terlampaui. Indikator harus mencakup:
+Para pengadopsi harus menetapkan indikator [Ambang Konsentrasi Pasar](../../core_05.035_band_accountability.md#market-concentration-threshold) untuk alokasi sumber daya, ketergantungan, dan pendanaan ekosistem, serta bertindak ketika ambang terlampaui atau secara kredibel hampir terlampaui. Indikator harus mencakup:
 - kendali jangka panjang atas cara sumber daya bersama dialokasikan;
-- konsentrasi ketergantungan, yakni jumlah sentien atau sistem yang bergantung pada satu penyedia atau fondasi tanpa alternatif nyata;
+- konsentrasi ketergantungan, yakni jumlah sentien atau sistem yang bergantung pada satu penyedia atau yayasan tanpa alternatif nyata;
 - pengendalian akses terhadap antarmuka dan titik akses infrastruktur bersama; dan
 - kendali terkonsentrasi atas cara ekosistem didanai dan pihak yang memperoleh manfaat.
 
 **Cara pengadopsi harus menetapkannya:**
 
-- **Berdasarkan aliran nyata:** tetapkan tingkat berdasarkan peta ketergantungan dan catatan aliran sumber daya yang diwajibkan oleh [Pasal V-A](core_06_rights_part_a.md#pasal-v-a-pemetaan-ketergantungan-dan-transparansi-aliran-sumber-daya) (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*), bukan label operator atau transfer sesaat.
-- **Sesuai konteks:** tingkat dapat berbeda menurut bidang, ukuran populasi, dan kepadatan ketergantungan, sebagaimana dalam [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan oleh Pengadopsi)](#1111-pemicu-ambang-konsentrasi-dapat-disesuaikan-oleh-pengadopsi).
-- **Dengan disiplin yang sama:** aturan pemeliharaan batas dasar, substansi alih-alih bentuk, pencegahan peniadaan, dan pemeriksaan lebih ketat dalam **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan oleh pengadopsi)** berlaku sepenuhnya. Tingkat mana pun tidak boleh ditetapkan terlalu tinggi hingga tidak pernah berlaku; konsentrasi yang disembunyikan di balik struktur cangkang, federasi, atau pemecahan tetap diperhitungkan.
-- **Secara terbuka:** tingkat dan alasannya harus dicatat dan terbuka untuk ditantang, sesuai [Pasal V](core_06_rights_part_a.md#pasal-v-alokasi-sumber-daya-ketergantungan-dan-pendanaan-ekosistem) (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*), yang mewajibkan agar aliran sumber daya terlihat, dapat diperiksa, dan terbuka untuk ditantang.
+- **Berdasarkan aliran nyata:** tetapkan ambang dari peta ketergantungan dan catatan aliran sumber daya yang diwajibkan [Pasal V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*), bukan dari label operator atau transfer satu kali.
+- **Sesuai konteks:** ambang dapat berbeda menurut ranah, ukuran populasi, dan kepadatan ketergantungan, sebagaimana di [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan Pengadopsi)](#1111-concentration-threshold-triggers-adopter-tunable).
+- **Dengan disiplin yang sama:** aturan pelestarian persyaratan, substansi di atas bentuk, anti-pembatalan, dan pengawasan yang diperketat dalam **CJS-5.125 §11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan pengadopsi)** berlaku sepenuhnya. Ambang tidak boleh ditetapkan begitu tinggi hingga tak pernah berlaku; konsentrasi tersembunyi di balik struktur cangkang, federasi, atau pemisahan tetap diperhitungkan.
+- **Secara terbuka:** ambang dan alasannya harus dicatat dan terbuka untuk digugat, sesuai [Pasal V](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), yang mewajibkan aliran sumber daya terlihat, dapat diperiksa, dan terbuka untuk digugat.
 
 **Ketika suatu tingkat terlampaui:**
 
-Terlewatinya suatu tingkat mengharuskan peninjauan dan mitigasi yang lebih ketat berdasarkan [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan oleh Pengadopsi)](#1111-pemicu-ambang-konsentrasi-dapat-disesuaikan-oleh-pengadopsi). Hal itu sendiri bukan temuan pelanggaran ([§11.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disesuaikan oleh Pengadopsi)](#111-mekanisme-ambang-konsentrasi-pasar-dapat-disesuaikan-oleh-pengadopsi)). Jika pengaturan yang sama juga tidak memenuhi [Pasal V-A](core_06_rights_part_a.md#pasal-v-a-pemetaan-ketergantungan-dan-transparansi-aliran-sumber-daya) (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) atau [Pasal V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Keadilan dan Keberlanjutan Lintas Sistem*), keduanya berlaku: pemeriksaan konsentrasi ditambahkan di atas **Pasal V** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) dan tidak menggantikannya.
+Terlewatinya ambang memerlukan peninjauan dan mitigasi yang diperketat menurut [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan Pengadopsi)](#1111-concentration-threshold-triggers-adopter-tunable). Hal itu sendiri bukan temuan pelanggaran ([§11.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disesuaikan Pengadopsi)](#111-market-concentration-threshold-mechanism-adopter-tunable)). Jika pengaturan yang sama juga tidak memenuhi [Pasal V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) atau [Pasal V-B](../../core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability), keduanya berlaku: pemeriksaan konsentrasi menambah persyaratan **Pasal V** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*), bukan menggantikannya. Dalam sertifikasi keselarasan sistem, sistem yang menjadi titik hambat bagi pihak bergantung yang secara realistis tidak dapat beralih harus dinaikkan tingkat penilaiannya berdasarkan fakta tersebut menurut [Bab Sembilan §5.3.5 Peningkatan dan Eskalasi Kelas Sistem](../../core_09.000_system_alignment_certification_evaluation.md#535-system-class-scaling-and-escalation) dan [§2.2 Cara kelas sistem meningkatkan setiap evaluasi](../../core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation). Ambang yang terlampaui menjadi bukti tambahan; ambang yang belum ditetapkan atau terlalu tinggi tidak menunda peningkatan tersebut.
 
 <a id="12-systemic-evaluation-requirement"></a>
 ### 12. Persyaratan Evaluasi Sistemik
@@ -1979,7 +1988,7 @@ Setiap klaim mengenai hal-hal di bawah ini harus diperiksa terhadap apa yang seb
 
 Faktor evaluasi terperinci dan catatan sertifikasi menjadi tanggung jawab:
 - **[Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Bab Delapan §6 Catatan Sertifikasi Sistem](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**;
+- **[Bab Sembilan §8 Catatan Sertifikasi Sistem](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**.
 
 Proses Bab Delapan tersebut:

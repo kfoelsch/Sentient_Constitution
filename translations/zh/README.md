@@ -21,6 +21,10 @@
 
 **按架构的第一片。** 发送顺序要求先做易入摘要、权利底线单页和公共入口。本试点特意翻译[序言](core_00_preamble.md)和[第一章 A 部分](core_01_a_values_principles.md)，以测量一份编号 `core_*` 的成本。普通话是五语中的第（5）槽。
 
+
+
+**覆盖范围更新（2026-11-11）。** 本文件夹现包含第 11 章和第 12 章的完整 AI 辅助草稿，依据提交 `05b7b839` 的英文源文校对。草稿尚未经过独立审阅。较早的译文可能对应旧版源文；以英文源文为准。
+
 ## 文件
 
 | 文件 | 英语原文 |
@@ -44,9 +48,15 @@
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 | [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 | [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
 

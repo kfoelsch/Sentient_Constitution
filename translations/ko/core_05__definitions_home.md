@@ -295,7 +295,7 @@
 - [공개의 진실성과 무모함 바닥](../../core_05.050_band_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [합리적으로 예견 가능한](../../core_05.050_band_oversight.md#reasonably-foreseeable)
 - [기록 담당석](../../core_05.035_band_accountability.md#record-seat)
-- [구제와 시정](../../core_05.035_band_accountability.md#redress-and-remediation)
+- [수정 준비](../../core_05.035_band_accountability.md#remediation-readiness)
 - [비준수로부터의 피난](../../core_05.055_band_participation.md#refuge-from-non-compliance)
 - [구제 체계](../../core_05.035_band_accountability.md#remedy-system)
 - [생식 자율](../../core_05.055_band_participation.md#reproductive-autonomy)
@@ -325,7 +325,7 @@
 - [영향받는 쪽 무게](../../core_05.055_band_participation.md#stakeholder-weight)
 - [표준화](../../core_05.035_band_accountability.md#standardization)
 - [지위 효과](../../core_05.035_band_accountability.md#standing-effect)
-- [궤적 잠금](../../core_05.035_band_accountability.md#standing-lock)
+- [기관 기관 상설 잠금 장치](../../core_05.035_band_accountability.md#institutional-authority-standing-lock)
 - [지위 기록](../../core_05.035_band_accountability.md#standing-record)
 - [정지](../../core_05.035_band_accountability.md#stay)
 - [책임 있는 관리](../../core_05.040_band_continuity.md#stewardship)
@@ -447,8 +447,8 @@
 | [연속 측정 가족](core_05_apex_continuity_aim.md#continuity-measurement-family) | 감지자와 체계는 견딜 수 있는가 — 생태적으로, 믿을 수 있게, 실패를 가로질러? | [연속 목적](core_05_apex_continuity_aim.md), [연속](../../core_05.040_band_continuity.md) | **연속**은 헌법 **목적**이지 사원(四元) 다리가 아니다 — [헌법 목적 분해 지도](core_05_apex_continuity_aim.md#continuity-aim-decomposition); 구체 측정은 **연속** 띠의 잎 일차에: [생태 발자국](../../core_05.040_band_continuity.md#ecological-footprint), [의존](../../core_05.040_band_continuity.md#dependency), [가역성](../../core_05.040_band_continuity.md#reversibility), [지속가능성](../../core_05.040_band_continuity.md#sustainability), [비례하는 체계 간 기여](../../core_05.040_band_continuity.md#proportionate-cross-system-support) |
 | [참여 측정 가족](core_05_apex_participation_leg.md#participation-measurement-family) | 영향받는 감지자는 공정하게 참여할 수 있는가 — 목소리, 접근, 배움, 프라이버시? | [참여](../../core_05.055_band_participation.md), [연속](../../core_05.040_band_continuity.md) | 공정, 접근, 행위주체성 용어는 **참여** 띠에; [프라이버시(정보)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) 무리는 **연속** 띠에 — 프라이버시가 권리 조에 걸쳐 퍼져 있기 때문 |
 | [감독 측정 가족](core_05_apex_oversight_leg.md#oversight-measurement-family) | 감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가? | [감독](../../core_05.050_band_oversight.md), [연속](../../core_05.040_band_continuity.md) | 진실과 인식 완전성 일차는 **감독** 띠에 (링크만인 다리 머리 롤업 [감독](core_05_apex_oversight_leg.md#oversight-constitutional)); [신뢰성](../../core_05.040_band_continuity.md#trustworthiness)과 [신뢰 저하와 오도하는 의존](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)은 **연속** 띠에 (**Def.C4**) |
-| [책무 측정 가족](core_05_apex_accountability_leg.md#accountability-measurement-family) | 보상 구조, 시장 힘, 답할 의무는 의무를 실제로 유지하는가? | [책무](../../core_05.035_band_accountability.md), [통합](../../core_05.045_band_integrative.md) | 시장 구조와 다툴 수 있음 일차는 **책무** 띠에 (링크만인 다리 머리 롤업 [책무](core_05_apex_accountability_leg.md#accountability)); [유인 정합, 대리지표 완전성, 조건 결제](../../core_05.045_band_integrative.md#incentive-alignment-semi-independent) 일차 층은 **통합** 띠에 — 유인이 사원(四元) 다리를 가로지르기 때문 |
-| [적시성 측정 가족](core_05_apex_timeliness_leg.md#timeliness-measurement-family) | 다툼, 교정, 수리는 구제가 아직 중요할 때 해결되는가? | [책무](../../core_05.035_band_accountability.md) | 링크만인 다리 머리 롤업 [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional); 구체 측정은 [제때 해결](../../core_05.035_band_accountability.md#timely-resolution)과 [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)에 — 적시성은 사원(四元) 다리이며, 그 시행 잎은 지금 책무 띠에 산다 |
+| [책무 측정 제품군](core_05_apex_accountability_leg.md#measuring-accountability) | 보상 구조, 시장 지배력 및 책임감이 의무를 현실로 유지합니까? | [책무](../../core_05.035_band_accountability.md), [통합](core_05_band_integrative.md) | **책무** 밴드(../../[책무](core_05_apex_accountability_leg.md#accountability) 링크 전용 레그-헤드 롤업)의 시장 구조 및 다툴 수 있음 프라이머리; 인센티브가 Tetrad 레그에 걸쳐 있기 때문에 **통합** 밴드의 [인센티브 정렬, 프록시 무결성 및 조건부 정산](core_05_band_integrative.md#incentive-alignment-semi-independent) 기본 레이어 |
+| [적시성 측정 제품군](core_05_apex_timeliness_leg.md#measuring-timeliness) | 해결이 여전히 중요한데 분쟁, 수정 및 수리가 해결됩니까? | [책무](../../core_05.035_band_accountability.md) | [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional) 링크 전용 다리 머리 롤업; [적시 해결](../../core_05.035_band_accountability.md#timely-resolution) 및 [해결 경로 캡처](../../core_05.040_band_continuity.md#capture-of-resolution-pathways)에 대한 구체적인 측정 — 적시성는 구현 리프가 현재 책무 밴드에 있는 Tetrad 레그입니다.
 | [헌법 성과 측정 가족](../../core_05.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | 헌법 결과는 헛된 낭비 없이 효율적으로 전달되는가? | [연속](../../core_05.040_band_continuity.md) | 가족 거처는 [`core_05_band_performance.md`](../../core_05.060_band_performance.md); 모든 잎 본문은 지금 **연속**에 — 연속 띠 무리 구성원(책임 있는 관리 / 공유 체계 능력 / 비례–부담–효율)이기 때문 — 두 목적 모두에 도구다; 사원(四元) 다리가 아니다. 적시성과 평행: 가족 거처 ≠ 잎 거처 |
 
 </details>

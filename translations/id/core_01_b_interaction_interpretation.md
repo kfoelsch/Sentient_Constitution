@@ -38,7 +38,7 @@
 - [Korpus dan Tumpukan Otoritas](core_05_band_integrative.md#defi1-korpus-dan-tumpukan-wewenang)
 - [Akuntabilitas, Kontestabilitas, dan Kegagalan Akuntabilitas Kolektif](core_05_apex_accountability_leg.md#accountability)
 
-**CJS-3** (*pustaka kelompok operasional (oDef)*) — kompas kelompok operasional untuk istilah operasional bersama lintas implementasi; baca bersama Tetrad, Tujuan, dan skala taruhan material bab ini:
+**CJS-5.105 (*Pustaka klaster operasional (oDef)*) hingga CJS-5.135 (*Operasi lintas-kaki integratif (oDef.22–oDef.23)*)** (*pustaka klaster operasional*) — kompas istilah operasional bersama lintas pelaksanaan; baca bersama Tetrad, Tujuan, dan penskalaan kepentingan material dalam bab ini:
 
 - [CJS-3.1 Kompas konstitusional dan peta kelompok](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — pintu masuk utama untuk kelompok **CJS-3.2** (*Pengawasan: transparansi refleksif dan istilah akuntabilitas*) hingga **CJS-3.23** (*Integratif: istilah integritas intervensi dan pengesampingan*), yang disusun berdasarkan komponen Tetrad, tujuan Kesinambungan, dan pita integratif lintas komponen
 
@@ -101,7 +101,7 @@
 
 <br>
 
-*Secara sederhana: Benturan Konstitusional akan terjadi — **Keselamatan** dan **Kebenaran** didahulukan. Setelah itu, pembatasan harus proporsional, diperlukan, meminimalkan bahaya, dan seringan mungkin. Kebenaran tidak boleh disembunyikan demi kenyamanan; privasi tidak boleh dicabut demi kemudahan; pembatasan kebebasan berlaku menurut [§7.1 Disiplin Pembatasan](core_01_a_values_principles.md#71-limitation-discipline); Benturan Konstitusional mengenai hak memerlukan uji keputusan yang terdokumentasi; dan metrik yang memberikan gambaran keliru tentang kepatuhan tidak diperhitungkan. Optimalisasi jangka pendek tidak dapat lolos evaluasi berdasarkan [Kendala Konsistensi Waktu Bab Delapan §3.2](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). **§13.1** (*Prinsip Inti Pertukaran*) sampai **§13.3** (*Meminimalkan Beban yang Dapat Dihindari*) memuat aturan pertukaran, kendala pengungkapan dan privasi, serta prosedur Benturan Konstitusional.*
+*Sederhananya: Benturan Konstitusional akan terjadi — **Keselamatan** dan **Kebenaran** didahulukan. Setelah itu, pembatasan harus proporsional, perlu, mengurangi bahaya, dan seringan mungkin. Kebenaran tidak boleh disembunyikan demi kenyamanan; privasi tidak boleh dicabut demi kemudahan; batas kebebasan mengikuti [§7.1 Disiplin Pembatasan](../../core_01.000_values_principles.md#71-limitation-discipline). Benturan Konstitusional mengenai hak memerlukan uji keputusan yang terdokumentasi; metrik yang memalsukan kepatuhan tidak dihitung. Optimalisasi jangka pendek tidak lulus evaluasi menurut [Bab Sembilan §3.3 Kendala Konsistensi Waktu](../../core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint). **§13.1** (*Prinsip Inti Pertukaran*) hingga **§13.3** (*Meminimalkan Beban yang Dapat Dihindari*) memuat aturan pertukaran, batas pengungkapan dan privasi, serta prosedur Benturan Konstitusional.*
 
 Bagian B menjaga Tetrad tetap utuh dalam tiga situasi:
 - **[Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision) (bagian ini):** menyelesaikannya tanpa melemahkan unsur mana pun.
@@ -175,7 +175,7 @@ flowchart TB
 
 <br>
 
-*Secara sederhana: saat sesuatu harus dibatasi, sesuaikan pemulihan dengan masalahnya — gunakan langkah paling ringan yang tetap efektif, pilih opsi yang paling sedikit menimbulkan bahaya, dan sesedikit mungkin membuang waktu makhluk berkesadaran setelah Keselamatan, Kebenaran, dan hak-hak terpenuhi. Ambang pembuktian meningkat cepat ketika bahaya mungkin tidak dapat dipulihkan atau dapat mengunci sistem ke dalam keadaan tertentu.*
+*Sederhananya: ketika sesuatu harus dibatasi, sesuaikan pemulihan dengan masalahnya — gunakan langkah paling ringan yang tetap efektif, pilih opsi yang paling sedikit menimbulkan bahaya, dan buang sesedikit mungkin waktu sentien setelah Keselamatan, Kebenaran, dan hak terpenuhi. Standarnya meningkat cepat bila kerugian dapat menjadi tak dapat dipulihkan atau mengunci sistem.*
 
 **Cara membaca rangkaian:** Terapkan aturan ini sebagai satu urutan, bukan sebagai izin yang berdiri sendiri.
 - **[§13.1.1 Keniscayaan](#1311-keniscayaan)** menanyakan apakah pembatasan memang diperlukan, atau apakah alternatif yang lebih sedikit membatasi masih dapat mencegah bahaya material atau risiko sistemik. Pihak yang membatasi menanggung beban pembuktian.
@@ -237,9 +237,9 @@ flowchart TB
 
 <br>
 
-*Secara sederhana: pembatasan hanya dapat diberlakukan jika tidak ada alternatif yang kurang membatasi tetapi tetap dapat mencegah kerugian material atau risiko sistemik. Pihak yang memberlakukan pembatasan menanggung beban untuk membuktikannya, bukan pihak yang kebebasannya dibatasi. Kemudahan, kebiasaan institusional, dan alasan “kami selalu melakukannya seperti ini” tidak membuktikan keniscayaan. Jika pilihan yang lebih ringan dapat berfungsi, pilihan yang lebih berat tidak patuh.*
+*Sederhananya: pembatasan hanya dapat diberlakukan jika tidak ada alternatif yang lebih ringan yang tetap mampu mencegah kerugian material atau risiko sistemik. Pihak yang memberlakukan pembatasan harus membuktikannya—bukan pihak yang kebebasannya dibatasi. Kenyamanan, kebiasaan institusional, dan “dari dulu kami selalu begini” tidak membuktikan keniscayaan. Jika opsi yang lebih ringan dapat bekerja, opsi yang lebih berat tidak patuh.*
 
-**Beban pembuktian.** Pihak yang memberlakukan atau mempertahankan pembatasan konstitusional menanggung beban untuk menunjukkan bahwa, dalam keadaan yang ada, tidak tersedia alternatif yang kurang membatasi tetapi tetap dapat mencegah kerugian material atau risiko sistemik. Pihak yang kebebasan, agensi, atau aksesnya dibatasi tidak menanggung beban untuk membuktikan bahwa alternatif tersedia.
+**Beban pembuktian.** Pihak yang memberlakukan atau mempertahankan pembatasan konstitusional memikul beban untuk menunjukkan bahwa, dalam keadaan tersebut, tidak ada alternatif yang lebih ringan yang tetap dapat mencegah kerugian material atau risiko sistemik. Pihak yang kebebasan, agensi, atau aksesnya dibatasi tidak memikul beban untuk membuktikan adanya alternatif.
 
 **Persyaratan analisis alternatif.** Klaim keniscayaan harus didukung oleh analisis terdokumentasi mengenai:
 - alternatif yang secara wajar tersedia, termasuk tidak mengambil tindakan;
@@ -278,7 +278,7 @@ Pernyataan bahwa tidak ada alternatif, tanpa analisis terdokumentasi, tidak meme
 
 <br>
 
-*Secara sederhana: ketika masih ada beberapa opsi yang diperlukan setelah [§13.1.1 Keniscayaan](#1311-keniscayaan) dipenuhi, pilih opsi yang menimbulkan bahaya total paling kecil — dengan memperhitungkan semua pihak yang terdampak, ekosistem dan sistem kehidupan, semua sistem yang tersentuh, serta semua cakrawala waktu yang relevan. Mengoptimalkan secara lokal sambil menimbulkan kerusakan sistemik atau ekologis, atau mengoptimalkan jangka pendek sambil menimbulkan bahaya jangka panjang, tidak lulus uji ini. Minimalisasi bahaya tidak pernah mengizinkan tindakan di bawah batas minimum konstitusional dalam [§13.1.4 Batas Minimum Konstitusional, Keselamatan, dan Proses Anti-Degradasi](#1314-batas-dasar-konstitusional-keselamatan-dan-proses-yang-tidak-merendahkan).*
+*Sederhananya: bila beberapa opsi yang diperlukan masih tersedia setelah [§13.1.1 Keniscayaan](#1311-necessity) dipenuhi, pilih opsi yang menimbulkan total kerugian paling kecil — dengan menghitung semua pihak terdampak, ekosistem dan sistem kehidupan, semua sistem yang tersentuh, serta seluruh cakrawala waktu yang relevan. Optimalisasi lokal yang menimbulkan kerusakan sistemik atau ekologis, atau optimalisasi jangka pendek yang menimbulkan kerugian jangka panjang, gagal dalam uji ini. Minimisasi kerugian tidak pernah membolehkan pelanggaran terhadap lantai konstitusional dalam [§13.1.4 Lantai Konstitusional, Keselamatan, dan Proses Anti-Degradasi](#1314-constitutional-floors-safety-and-anti-degrading-process).*
 
 **Cakupan perbandingan.** Jika beberapa opsi yang memadai secara konstitusional memenuhi [Keselamatan (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [Kebenaran (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), dan [§13.1.1 Keniscayaan](#1311-keniscayaan), pemilihan harus mengutamakan opsi yang meminimalkan total [Bahaya](../../core_05.035_band_accountability.md#harm) terhadap:
 - makhluk sentien yang terdampak secara langsung maupun tidak langsung;
@@ -335,7 +335,7 @@ Minimalisasi bahaya memilih di antara opsi yang sudah memenuhi batas minimum ter
 
 <br>
 
-*Secara sederhana: proporsionalitas memastikan bahwa skala pembatasan sesuai dengan skala kerugian yang ditanganinya. Opsi yang diperlukan dan meminimalkan kerugian tetap gagal jika cakupan, durasi, atau intensitasnya tidak sebanding dengan taruhan yang sebenarnya. Semakin tidak dapat dipulihkan, sistemik, atau menciptakan ketergantungan suatu risiko, semakin kuat pembenaran yang diperlukan dan semakin ketat pengawasannya. Aturan yang sama tentang tata kelola yang tidak memadai berlaku bagi kuasa: kuasa yang lebih besar dan diotorisasi atau peran yang berdampak besar harus meningkatkan akuntabilitas dan pengawasan, bukan menurunkannya.*
+*Dalam bahasa sederhana: proporsionalitas memastikan skala pembatasan sesuai dengan skala bahaya yang ditangani. Pilihan yang perlu dan meminimalkan bahaya tetap gagal jika cakupan, durasi, atau intensitasnya tidak sebanding dengan kepentingan sebenarnya. Semakin tak dapat dipulihkan, sistemik, atau menciptakan ketergantungan risikonya, semakin kuat pembenaran dan pengawasan yang diperlukan. Aturan kurangnya tata kelola yang sama berlaku pada kekuasaan: kewenangan yang lebih besar atau peran yang lebih menentukan harus meningkatkan akuntabilitas dan pengawasan, bukan menguranginya.*
 
 Pembatasan atas **nilai-nilai** konstitusional — termasuk perlindungan **Lantai Hak** dalam **Bab Enam** serta prinsip dan perlindungan lain yang dapat dipertukarkan berdasarkan [§13 Proses Penyelesaian Konflik Konstitusional](#13-proses-penyelesaian-benturan-konstitusional) — harus sebanding dengan besaran dan kemungkinan **kerugian** atau **dampak sistemik** yang secara sah ditangani, sesuai dengan [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality) dalam **Bab Lima**.
 
@@ -378,15 +378,15 @@ Pembatasan atas **nilai-nilai** konstitusional — termasuk perlindungan **Lanta
 
 *Secara sederhana: minimalisasi kerugian memiliki batas mutlak. Betapapun proporsional, niscaya, atau dirancang dengan baik suatu pembatasan, hal-hal tertentu tidak boleh dihilangkan secara permanen, dan cara-cara tertentu dalam menjalankan proses selalu dilarang. Keselamatan menjadi dasar batas-batas ini: keselamatan membenarkan tindakan untuk mencegah kerugian serius, tetapi juga membatasi tindakan — alasan keselamatan tidak boleh dijadikan kedok untuk menghapus hak, merendahkan martabat, atau mengakali batas-batas yang ditetapkan di sini.*
 
-**Keselamatan sebagai pembenaran dan kendala.** [Keselamatan (§4)](core_01_a_values_principles.md#4-safety-harm-constraint) merupakan kendala yang tidak dapat ditawar dan dapat membenarkan pembatasan kepentingan konstitusional lainnya. Namun, Keselamatan juga *membatasi* cara pembatasan tersebut diterapkan:
+**Keamanan sebagai pembenaran sekaligus batasan.** [Keamanan (§4)](../../core_01.000_values_principles.md#4-safety-harm-constraint) merupakan batasan yang tidak dapat ditawar dan dapat membenarkan pembatasan kepentingan konstitusional lainnya. Namun, Keamanan juga **membatasi** cara pembatasan tersebut dijalankan:
 - Alasan keselamatan tidak mengizinkan penghapusan permanen atas minimum Lantai Hak.
-- Jika Keselamatan mengharuskan pembatasan, pembatasan itu tetap harus mematuhi batas-batas di bawah ini dan, dalam bentuknya, [§13.1.5 Prinsip Pembatasan Paling Sedikit, Berbatas Waktu, dan Dapat Ditinjau](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- Jika Keamanan mengharuskan pembatasan, pembatasan itu tetap harus mematuhi batas minimum di bawah dan, dari segi bentuk, [§13.1.5 Prinsip Pembatasan Paling Sedikit Membatasi, Berjangka Waktu, dan Dapat Ditinjau](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 <a id="dignity-principles"></a>
 
 ###### Prinsip Martabat
 
-**Prinsip Martabat** adalah dua prinsip berikut: [Prinsip Minimum Lantai Hak](#prinsip-minimum-lantai-hak) dan [Prinsip Proses yang Tidak Merendahkan](#prinsip-proses-yang-tidak-merendahkan). Keduanya menjadikan [Martabat dan Kedudukan Moral yang Setara](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) sebagai batas mutlak yang operasional: apa yang tidak boleh diambil secara permanen dari makhluk berkesadaran mana pun, serta bagaimana makhluk berkesadaran mana pun tidak boleh diperlakukan dalam proses apa pun. Akses minimum untuk memenuhi kebutuhan hidup serta hak inti untuk menggugat, meninjau, dan mengajukan banding termasuk dalam Prinsip Martabat karena merupakan syarat minimum untuk memperlakukan seseorang sebagai pihak yang kedudukan moralnya diperhitungkan. Kesetaraan kedudukan itu sendiri, serta dasar-dasar yang melarang penyangkalannya, dinyatakan dalam [Pasal VI-A](core_06_rights_part_b.md#pasal-vi-a-martabat-dan-kedudukan-moral-yang-setara) (*Martabat dan Kedudukan Moral yang Setara*).
+**Prinsip Martabat** adalah dua prinsip berikut: [Prinsip Minimum Lantai Hak](#rights-floor-minimums-principle) dan [Prinsip Proses Anti-Penghinaan](#anti-degrading-process-principle). Keduanya menjadikan [Martabat dan Kedudukan Moral Setara](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) sebagai batas mutlak: hal yang tidak boleh dicabut secara permanen dari sentient mana pun, dan cara setiap sentient harus diperlakukan dalam semua proses. Akses minimum untuk bertahan hidup serta hak inti untuk menggugat, meninjau, dan mengajukan banding termasuk dalam Prinsip Martabat karena menjadi syarat minimum agar seseorang diperlakukan sebagai pihak yang standing-nya diperhitungkan. Kedudukan setara itu sendiri dan dasar terlindungi yang tidak boleh menjadi alasan penyangkalan tercantum dalam [Pasal VI-A](../../core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Martabat dan Kedudukan Moral Setara*).
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -394,8 +394,8 @@ Pembatasan atas **nilai-nilai** konstitusional — termasuk perlindungan **Lanta
 
 Prinsip ini melindungi Lantai Hak sebagai berikut:
 
-- Tidak ada proses konstitusional, tindakan, transisi, amendemen, konsekuensi kedudukan, tindakan darurat, atau hasil terkait keadilan yang boleh menghapus atau mengesampingkan secara permanen **minimum Lantai Hak**: perlindungan martabat dasar berdasarkan [Pasal VI-A](core_06_rights_part_b.md#pasal-vi-a-martabat-dan-kedudukan-moral-yang-setara) (*Martabat dan Kedudukan Moral yang Setara*) dan [Prinsip Proses yang Tidak Merendahkan](#prinsip-proses-yang-tidak-merendahkan), akses minimum untuk memenuhi kebutuhan hidup, ataupun hak inti untuk menggugat, meninjau, dan mengajukan banding.
-- Pembatasan sementara atas hak tertentu hanya diperbolehkan jika memenuhi [Prinsip Pembatasan Paling Sedikit, Berbatas Waktu, dan Dapat Ditinjau](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) serta aturan darurat dalam [Bab Dua Belas §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*Tindakan darurat dan beban kelanjutan*) — artinya, setiap pembatasan harus beralasan, seminimal mungkin, terdokumentasi, dibatasi waktu, dan dapat ditinjau secara independen. Pasal-pasal tertentu dapat menambahkan perlindungan yang lebih kuat, tetapi tidak boleh mempersempit prinsip ini atau menggunakan label kemudahan, efisiensi, klasifikasi, keadaan darurat, transisi, kedudukan, amendemen, kontrak, atau implementasi untuk mengakalinya.
+- Tidak ada proses atau ukuran konstitusional, Transisi Adopsi, amendemen, konsekuensi standing, tindakan darurat, atau hasil terkait keadilan yang boleh secara permanen menghapus atau melepaskan **minimum Lantai Hak** berupa perlindungan martabat dasar menurut [Pasal VI-A](../../core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Martabat dan Kedudukan Moral Setara*) dan [Prinsip Proses Anti-Penghinaan](#anti-degrading-process-principle), akses minimum untuk bertahan hidup, atau hak inti menggugat, meninjau, dan mengajukan banding.
+- Pembatasan sementara atas hak tertentu hanya diperbolehkan jika memenuhi [Prinsip Pembatasan Paling Sedikit, Berbatas Waktu, dan Dapat Ditinjau](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) serta aturan darurat [Bab Lima Belas §6.1](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*Tindakan darurat dan beban kelanjutan*): pembatasan harus beralasan, minimal, terdokumentasi, berbatas waktu, dan dapat ditinjau secara independen. Pasal tertentu boleh menambahkan perlindungan lebih kuat, tetapi tidak boleh mempersempit prinsip ini atau menghindarinya dengan dalih kemudahan, efisiensi, klasifikasi, keadaan darurat, Transisi Adopsi, standing, amendemen, kontrak, atau pelaksanaan.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -414,7 +414,7 @@ Prinsip ini melindungi Lantai Hak sebagai berikut:
 <summary><strong><span style="color: #2563eb;">Penelusuran</span></strong></summary>
 
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — keempat dimensinya: **pengawasan** (pembatasan tetap dapat ditinjau secara independen; bukti dipertahankan dan peninjau independen tetap memperoleh akses selama Kolisi Konstitusional masih tertunda); **akuntabilitas** (Catatan Kolisi Konstitusional yang terdokumentasi dan dapat diaudit menyebutkan aturan, alternatif, bukti, dan dasar pemilihan); **partisipasi** (pihak terdampak dapat memahami, menggugat, dan merekonstruksi keputusan serta diberi tahu apa yang dibekukan); **ketepatan waktu** (pembatasan bersifat sementara kecuali aturan Lantai Hak yang lebih kuat menyatakan lain, mencakup durasi atau jadwal peninjauan serta jalur pemulihan, dan Kolisi Konstitusional yang tertunda mengikuti tenggat waktu yang berlaku); penskalaan menurut [kepentingan material](core_00_preamble.md#material-stake) (beban pembuktian meningkat sesuai tingkat keparahan, ketakterbalikan, pemusatan ketergantungan, dan ketidakpastian).
-- Tindak lanjut: [Pasal XXV-B: Prosedur Benturan Hak dan Penyelarasan Restoratif](core_06_rights_part_e.md) (forum menerapkan uji keputusan ini); [Pasal XXV-C: Penyelesaian Tepat Waktu dan Batas Anti-Penundaan](core_06_rights_part_e.md); [Bab Dua Belas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Penyelesaian tepat waktu, tingkat materialitas, dan disiplin anti-penundaan*).
+- Dampak lanjutan: [Pasal XXVI-B: Prosedur Benturan Hak dan Penyelarasan Restoratif](../../core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (forum menerapkan uji keputusan ini); [Pasal XXVI-C: Penyelesaian Tepat Waktu dan Lantai Anti-Penundaan](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Bab Lima Belas §6](../../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6) (*Penyelesaian tepat waktu, tingkat materialitas, dan disiplin anti-penundaan*).
 
 </details>
 
@@ -438,7 +438,7 @@ Pembatasan konstitusional harus memenuhi semua hal berikut:
 - **Sementara kecuali secara tegas diizinkan:** pembatasan harus bersifat sementara kecuali aturan Lantai Hak yang lebih kuat secara tegas mengizinkan pembatasan yang bertahan lama.
 - **Jalur pemulihan:** jika memungkinkan, pembatasan harus mencantumkan durasi atau jadwal peninjauan, serta syarat pemulihan, pembatalan, atau evaluasi ulang yang dikaitkan dengan bukti, perubahan keadaan, atau penyimpangan hasil yang diamati dari hasil yang diharapkan.
 <a id="1315-rights-collision-decision-test"></a>
-**Catatan Benturan Konstitusional dan kemampuan merekonstruksi keputusan.** Ketika rangkaian pertimbangan (§13.1.1 (*Kebutuhan*) hingga §13.1.5 (*Prinsip Pembatasan yang Paling Sedikit Membatasi, Berbatas Waktu, dan Dapat Ditinjau*)) diterapkan pada pembatasan material atau Benturan Konstitusional, penyelesaiannya harus menghasilkan [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record) yang terdokumentasi dan dapat diaudit (selanjutnya disingkat **Catatan Benturan**) dengan kejelasan yang memadai agar pihak terdampak dan peninjau dapat memahami, menggugat, dan merekonstruksi keputusan secara independen. Sekurang-kurangnya, catatan tersebut harus memuat:
+**Catatan Benturan Konstitusional dan kemampuan rekonstruksi.** Jika rangkaian pertimbangan (§13.1.1 (*Keniscayaan*) sampai §13.1.5 (*Prinsip Pembatasan Paling Sedikit, Berbatas Waktu, dan Dapat Ditinjau*)) diterapkan pada pembatasan material atau Benturan Konstitusional, keputusan harus menghasilkan [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record) terdokumentasi dan dapat diaudit (bentuk singkat **Catatan Benturan**) yang cukup jelas agar pihak terdampak dan peninjau dapat memahami, menggugat, dan merekonstruksi keputusan secara mandiri. Setidaknya, catatan tersebut harus mencakup:
 - **Aturan operatif dan prasyarat:** ketentuan konstitusional yang dijadikan dasar serta fakta material yang memicunya.
 - **Alternatif yang dipertimbangkan:** alternatif yang secara material layak dilaksanakan, termasuk tidak bertindak, beserta alasan penolakannya secara eksplisit — untuk memenuhi persyaratan analisis alternatif dalam [§13.1.1 Kebutuhan](#1311-keniscayaan).
 - **Bukti dan penanganan ketidakpastian:** bukti yang mendukung kebutuhan, profil bahaya, dan proporsionalitas opsi yang dipilih, termasuk cara ketidakpastian ditangani.
@@ -457,7 +457,7 @@ Pembatasan kerahasiaan atas Catatan Benturan harus memenuhi [§13.2 Batasan Peng
 - **Pertahankan bukti:** Jangan menggugurkan Benturan Konstitusional melalui penghapusan, kebocoran, atau publikasi yang tidak dapat dibatalkan.
 - **Bekukan langkah yang tidak dapat dibatalkan** jika langkah itu akan membuat salah satu penafsiran yang berbenturan tidak lagi tersedia — jangan mengambil langkah yang tidak dapat dibatalkan apabila langkah itu akan menutup Benturan Konstitusional, menggugurkan salah satu pihak, atau mengada-adakan pemenang sebelum penafsiran diputuskan.
 - **Lanjutkan langkah yang dapat dibatalkan dan disetujui** yang mempertahankan ketersediaan kedua penafsiran — termasuk akses bagi peninjau independen berdasarkan [keteramatan yang dibatasi keamanan](core_04_burden_traceability_verification.md#4-aturan-observabilitas-dan-verifikasi-berbatas-keamanan) jika ada persetujuan.
-- **Beri tahu** pihak terdampak dan jalur penafsiran mengenai hal yang dibekukan, hal yang tetap berjalan, serta tenggat waktu yang berlaku (untuk sengketa yang dirujuk ke forum, batas waktu tiap tingkat dan batas keseluruhan dalam [Bab Dua Belas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Penyelesaian tepat waktu, tingkat materialitas, dan disiplin anti-penundaan*)).
+- **Beri tahu** pihak terdampak dan jalur interpretasi tentang hal yang dibekukan, yang dilanjutkan, dan jam yang berlaku (../../untuk sengketa yang diarahkan ke forum, tenggat tingkat dan batas luar dalam [Bab Lima Belas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Penyelesaian tepat waktu, tingkat materialitas, dan disiplin anti-penundaan*)).
 
 Pola penangguhan ini bukan keputusan tentang pihak mana yang benar. Bekukan hal yang tidak dapat dibatalkan agar tidak satu pun penafsiran dikesampingkan; [§13 Proses Penyelesaian Benturan Konstitusional](#13-proses-penyelesaian-benturan-konstitusional) tetap harus menjawab Benturan Konstitusional tersebut. Itulah alasan [§13.1.5 Prinsip Pembatasan yang Paling Sedikit Membatasi, Berbatas Waktu, dan Dapat Ditinjau](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle): langkah yang disetujui dan dapat dibatalkan mempertahankan ketersediaan kedua penafsiran, sedangkan langkah yang tidak dapat dibatalkan tidak demikian.
 
@@ -490,7 +490,7 @@ Setelah rangkaian pertimbangan terpenuhi, [§13.3 Minimisasi Beban yang Dapat Di
 
 <br>
 
-*Secara sederhana: pembatasan atas apa yang dapat diketahui oleh makhluk berkesadaran merupakan pengecualian, bukan aturan. Jika pengungkapan dapat langsung menimbulkan bahaya serius dan tidak ada alternatif yang lebih ringan, batasi sesedikit dan sesingkat mungkin, dengan pencatatan — lalu ungkapkan informasinya setelah bahaya berlalu. Masalah tidak boleh disembunyikan demi menenangkan makhluk berkesadaran.*
+*Dalam bahasa sederhana: pembatasan atas hal yang boleh diketahui sentient adalah pengecualian, bukan aturan umum. Jika pengungkapan dapat langsung menimbulkan bahaya serius dan tidak ada pilihan yang lebih ringan, batasi sesedikit dan sesingkat mungkin dalam catatan resmi — lalu buka informasi setelah bahaya berlalu. Menyembunyikan masalah agar sentient tetap tenang tidak diperbolehkan.*
 
 **Batasan pengungkapan epistemik** mengatur konflik antara **Kebenaran**, kewajiban transparansi, dan **Keselamatan** ketika pengungkapan segera atau sepenuhnya akan secara langsung dan material memungkinkan terjadinya bahaya. Ketiga subbagiannya masing-masing menyatakan satu bagian:
 - **[§13.2.1 Pemeliharaan Integritas Epistemik](#1321-pemeliharaan-integritas-epistemik):** menjelaskan kapan batasan pengungkapan yang beralasan diizinkan.
@@ -514,7 +514,7 @@ Bagian ini membedakan tiga pola:
 
 Setiap batasan yang beralasan harus mempertahankan unsur **pengawasan** dalam [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) melalui catatan terlindungi (termasuk [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record) untuk batasan itu sendiri), peninjauan independen, akses aman, penyuntingan, pelepasan tertunda, atau perlindungan sebanding. Batasan itu **tidak boleh** menggagalkan [kemampuan menggugat](../../core_05.035_band_accountability.md#contestability) secara terinformasi atau kewajiban transparansi, audit, maupun peninjauan yang berlaku menurut **Bab Enam**, kecuali sejauh yang secara tegas diizinkan oleh [§13.2.1 Pemeliharaan Integritas Epistemik](#1321-pemeliharaan-integritas-epistemik).
 
-Batasan atas publikasi, akses data, pengungkapan metode, atau bahan replikasi yang sensitif terhadap keselamatan diatur di sini dan dalam [Bab Satu §5.1 Penyelidikan Berbasis Sains dan Dukungan Pengambilan Keputusan](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support). Batasan tersebut **tidak boleh** menjadi cara untuk menekan bukti yang tidak menguntungkan, menyembunyikan kekurangan keselamatan, atau menciptakan kesan adanya konsensus.
+Pembatasan publikasi, akses data, pengungkapan metode, atau bahan replikasi yang berkaitan dengan keselamatan diatur di sini dan dalam [§5.1 Penyelidikan Berbasis Sains dan Dukungan Keputusan](../../core_01.000_values_principles.md#51-science-informed-inquiry-and-decision-support). Pembatasan tersebut **tidak boleh** menjadi sarana menekan bukti yang tidak menguntungkan, menyembunyikan cacat keselamatan, atau merekayasa kesan adanya konsensus.
 
 <a id="1321-preservation-of-epistemic-integrity"></a>
 ##### 13.2.1 Pemeliharaan Integritas Epistemik
@@ -618,7 +618,7 @@ Kepercayaan tidak boleh dipertahankan melalui penipuan atau penekanan kebenaran.
 
 Ketersediaan, keteramatan, publikasi sebelumnya, penguasaan oleh platform, atau aksesibilitas teknis tidak menghapus kepentingan privasi atau memenuhi disiplin di atas.
 
-**Integrasi klasifikasi data.** Lapisan operasional bagi disiplin ini adalah sistem tipe data dalam **[CS-2 — Jenis dan penanganan informasi](../../corpus_systems/cs_06.305_information_types_and_handling.md)**. Sistem tersebut menetapkan informasi ke satu atau lebih dari sebelas tipe — lingkungan dan koordinasi kelangsungan hidup (**Type E**), tata kelola dan sumber operasional (**Type G**), pengungkapan pengawasan publik terbuka (**Type O**), historis, relasional, dan partisipasi (**Type H**), identitas dan atribusi (**Type I**), neurokognitif dan internal (**Type N**), keselamatan, keamanan, dan penyelidikan terbatas (**Type S**), karya yang dibuat makhluk berkesadaran saat privat atau dibagikan (**Type Y**) dan setelah diterbitkan (**Type W**), serta karya berdasarkan lisensi komersial (**Type U**) atau pengalihan hak (**Type T**) — masing-masing dengan akses bawaan dan batasan penanganannya sendiri. Sebagian besar penanganan privasi terkait dengan **Types H, I, N, S, dan Y**; pemetaan tiap kategori privasi ke tipenya tersedia pada [Privasi (Informasional)](../../core_05.040_band_continuity.md#privacy-informational). Disiplin pengumpulan, penyimpanan, dan penggunaan di atas berlaku *pada tingkat yang diwajibkan oleh klasifikasi data paling ketat yang berlaku*, bukan pada batas generik. Jika data dapat direkonstruksi, ditransformasikan, atau digabungkan menjadi klasifikasi yang lebih sensitif, perlindungan klasifikasi yang lebih sensitif berlaku. Salah klasifikasi, penataan yang mengelak, atau pengelakan fungsional atas perlindungan tipe data melanggar prinsip ini.
+**Integrasi klasifikasi data.** Lapisan operasional disiplin ini adalah sistem jenis data dalam **[CS-6.305 — Jenis dan penanganan informasi](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)**. Sistem itu menetapkan informasi ke satu atau lebih dari sebelas jenis — lingkungan dan koordinasi kelangsungan (**Jenis E**), sumber tata kelola dan operasional (**Jenis G**), pengungkapan pengawasan publik terbuka (**Jenis O**), sejarah, relasi, dan partisipasi (**Jenis H**), identitas dan atribusi (**Jenis I**), neurokognitif dan internal (**Jenis N**), keselamatan, keamanan, dan investigasi terbatas (**Jenis S**), karya yang dibuat sentient saat privat atau bersama (**Jenis Y**) dan setelah diterbitkan (**Jenis W**), serta karya berlisensi komersial (**Jenis U**) atau dialihkan (**Jenis T**) — masing-masing dengan standar akses dan batas penanganannya. Kebanyakan penanganan privasi melewati **Jenis H, I, N, S, dan Y**; pemetaan kategori privasi ke jenisnya ada di [Privasi (Informasional)](../../core_05.040_band_continuity.md#privacy-informational). Disiplin pengumpulan, penyimpanan, dan penggunaan di atas berlaku *pada tingkat yang diwajibkan klasifikasi data paling ketat yang berlaku*, bukan tingkat umum. Jika data dapat direkonstruksi, diubah, atau digabung menjadi klasifikasi yang lebih sensitif, perlindungan klasifikasi yang lebih sensitif berlaku. Salah klasifikasi, pengaturan mengelak, atau penghindaran fungsional atas perlindungan jenis data melanggar prinsip ini.
 
 **Pengawasan dan pemantauan.** Sistem pemantauan, pengamatan, pencatatan, dan penyimpulan yang berdampak material pada agensi, perkumpulan, atau ekspresi makhluk berakal harus memenuhi [**Prinsip Pembatasan Paling Sedikit Membatasi, Berjangka Waktu, dan Dapat Ditinjau**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Pemantauan tidak boleh bersifat tanpa pembedaan, terselubung, tanpa batas waktu, atau dijadikan syarat penggunaan sistem yang diandalkan makhluk berakal apabila metode yang lebih ringan dapat digunakan. Pemantauan dilarang jika membuat makhluk berakal enggan berbicara, berkumpul, atau menggunakan kebebasan lain yang dilindungi Konstitusi ini.
 
@@ -656,7 +656,7 @@ Ketersediaan, keteramatan, publikasi sebelumnya, penguasaan oleh platform, atau 
 
 <br>
 
-*Secara sederhana: ketika metrik menyimpang dari hal yang seharusnya diukurnya, mengandalkan metrik itu tidak lagi dihitung sebagai kepatuhan. Penyimpangan tersebut harus diperbaiki dalam catatan, dengan eskalasi dan peninjauan yang terdokumentasi.*
+*Dalam bahasa sederhana: ketika metrik menyimpang dari hal yang seharusnya diukur, mengandalkannya tidak lagi dihitung sebagai kepatuhan. Penyimpangan harus diperbaiki dalam catatan resmi disertai eskalasi dan peninjauan terdokumentasi.*
 
 Metrik, skor, atau kotak centang hanyalah pengganti bagi sesuatu yang nyata. Jika bukti yang relevan secara material menunjukkan bahwa pengganti tersebut tidak lagi mengukur hal yang seharusnya diukurnya (hal yang benar-benar dipedulikan Konstitusi), klaim kepatuhan yang bertumpu padanya tidak berlaku. Kesenjangan ini disebut [penyimpangan proksi](core_05_band_oversight.md#penyimpangan-proksi). Klaim tersebut tetap tidak sah sampai masalahnya diperbaiki.
 
@@ -702,7 +702,7 @@ Untuk bagian ini:
 Bagian ini:
 - berlaku **hanya di dalam** kumpulan opsi yang telah memenuhi Keselamatan, Kebenaran, Lantai Hak, dan prinsip pertukaran dalam §13.1 (*Prinsip-prinsip Pertukaran Inti*). Bagian ini **tidak** mengizinkan pengurangan beban dengan melemahkan perlindungan tersebut.
 - berjalan bersama persyaratan **Pemilihan Efektif yang Paling Sedikit Membatasi** dalam [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record). Jika bagian ini berlaku, tindakan yang dipilih harus sekaligus menjadi opsi efektif yang paling sedikit membatasi dan paling ringan bebannya.
-- menganggap proses berlebihan, pembatasan berlebihan, dan beban berlebihan tanpa kaitan yang dapat diperiksa dengan manfaat konstitusional sebagai cacat konstitusional. Cacat tersebut dapat ditinjau berdasarkan **Bab Sembilan** dan diperbaiki melalui keterlacakan definisi ke hasil sebagaimana disyaratkan **Bab Empat**.
+- memperlakukan proses berlebihan, pembatasan berlebihan, dan beban berlebihan tanpa hubungan yang dapat diperiksa dengan manfaat konstitusional sebagai cacat konstitusional. Cacat tersebut dapat ditinjau menurut **Bab Sebelas** dan diperbaiki melalui ketertelusuran definisi ke hasil dalam **Bab Empat**.
 
 Klaim bahwa suatu beban tertentu diwajibkan secara konstitusional harus memenuhi persyaratan bukti dan keterlacakan **Bab Empat**. Kemudahan, kelembaman institusional, tradisi, atau preferensi semata tidak cukup untuk mempertahankan beban yang tidak memiliki kaitan yang dapat diperiksa dengan hasil konstitusional, sesuai dengan persyaratan [Catatan Benturan Konstitusional](../../core_05.045_band_integrative.md#constitutional-collision-record).
 
@@ -735,7 +735,7 @@ Jika struktur insentif memengaruhi pengampu atau operator, bagian ini memperkuat
 
 <br>
 
-*Secara sederhana: tidak ada satu nilai pun dalam bab ini yang dapat dijadikan kartu truf — dan Kesejahteraan maupun Keberlanjutan tidak boleh dikejar dengan mengorbankan yang lain. Kesejahteraan tidak dapat membenarkan pemaksaan, keselamatan tidak dapat membenarkan penguncian tanpa batas waktu, kepercayaan tidak dapat dipertahankan dengan kebohongan, dan kebebasan tidak dapat membenarkan bahaya terhadap sistem yang menjadi tumpuan orang lain. Tidak ada pengesampingan yang boleh mengosongkan dimensi **partisipasi**, **pengawasan**, **akuntabilitas**, atau **ketepatan waktu** dalam Tetrad hingga berada di bawah tingkat yang disyaratkan oleh kepentingan material.*
+*Sederhananya: tidak ada satu nilai pun dalam bab ini yang menjadi kartu truf — dan **Flourishing** maupun **Continuity** tidak boleh dikejar dengan mengorbankan yang lain. Kesejahteraan tidak membenarkan pemaksaan; keselamatan tidak membenarkan penguncian tanpa batas waktu; kepercayaan tidak dapat dipertahankan melalui kebohongan; dan kebebasan tidak membenarkan kerusakan pada sistem yang diandalkan pihak lain. Tidak ada pengesampingan yang boleh mengosongkan **partisipasi**, **pengawasan**, **akuntabilitas**, atau **ketepatan waktu** dalam Tetrad di bawah tuntutan kepentingan material.*
 
 Tidak satu pun nilai yang didefinisikan dalam bab ini boleh digunakan sebagai pembenaran universal atau tanpa batas untuk mengesampingkan nilai lainnya — termasuk salah satu dari [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) dengan mengorbankan yang lain. Semua penerapan tetap tunduk pada [§13.1 Prinsip Inti Kompromi](#131-prinsip-inti-pertukaran), [§13.2 Batasan Pengungkapan Epistemik](#132-batasan-pengungkapan-epistemik), dan [§13.3 Minimisasi Beban yang Dapat Dihindari](#133-meminimalkan-beban-yang-dapat-dihindari), serta harus mempertahankan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) pada tingkat yang disyaratkan oleh [kepentingan material](core_00_preamble.md#material-stake). Secara khusus:
 - kesejahteraan tidak boleh digunakan untuk membenarkan pemaksaan yang tidak proporsional atau manipulasi epistemik
@@ -752,7 +752,7 @@ Tidak satu pun nilai yang didefinisikan dalam bab ini boleh digunakan sebagai pe
 - Selanjutnya: [§15.1 Prinsip Konstitusional Anti-Pengelakan](#151-constitutional-no-bypass-principle) ([§15.1.1](#prinsip-anti-segmentasi)), [§15.2 Lapisan Definisi dan Disiplin yang Diwajibkan](#152-lapisan-definisional-dan-disiplin-yang-diwajibkan), [§15.3 Penyelesaian Ambiguitas](#153-penyelesaian-ambiguitas), [§15.4 Penyelesaian Konflik Makna Konstitusional](#154-penyelesaian-konflik-makna-konstitusional) ([§15.4.1](#1541-pembacaan-terpadu) · [§15.4.2](#1542-hierarki-internal-sebagai-upaya-terakhir) · [§15.4.3](#1543-lapisan-penginkorporasian) · [§15.4.4](#1544-pemenuhan-gabungan-atas-kewajiban-terinkorporasi-yang-berlaku-bersama)); [3. Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) hingga [20. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu); [13. Proses Penyelesaian Benturan Konstitusional](#13-proses-penyelesaian-benturan-konstitusional) untuk prosedur Benturan Konstitusional; [Bab Enam: Hak-Hak Dasar](core_06_rights_part_a.md#bab-enam-hak-dasar), ketentuan bawaan untuk tidak mengurangi.
 - Baca bersama: [Bab Dua sampai Empat](core_02_definition_structure.md) dan [Bab Lima](core_05__definitions_home.md#bab-lima-definisi-fondasional) — lapisan interpretatif dan pembuktian untuk setiap istilah dalam bab ini.
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) dan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — latar interpretatif bagi kerangka nilai terpadu; penskalaan [kepentingan material](core_00_preamble.md#material-stake) bila relevan secara material.
-- Baca bersama: [Tumpukan Otoritas dan Hierarki Internal](core_05_band_integrative.md#tumpukan-wewenang-dan-hierarki-internal) (*status lapisan sumber*); [Bab Tujuh Belas](../../core_18.000_incorporation.md) (*penitipan, edisi, kerangka adopsi* — bukan tempat kedua bagi urutan penyelesaian konflik); [Bab Empat Belas](core_13_non_regression.md) dan [Bab Lima Belas](../../core_16.000_expansion_supremacy.md) (*gerbang nonregresi dan hierarki pengadopsi berdasarkan [§15.4 Penyelesaian Konflik Makna Konstitusional](#154-penyelesaian-konflik-makna-konstitusional)*).
+- Baca bersama: [Tumpukan Otoritas dan Hierarki Internal](core_05_band_integrative.md#tumpukan-wewenang-dan-hierarki-internal) (*status lapisan sumber*); [Bab Tujuh Belas](../../core_20.000_incorporation.md) (*penitipan, edisi, kerangka adopsi* — bukan tempat kedua bagi urutan penyelesaian konflik); [Bab Empat Belas](core_13_non_regression.md) dan [Bab Lima Belas](../../core_18.000_expansion_supremacy.md) (*gerbang nonregresi dan hierarki pengadopsi berdasarkan [§15.4 Penyelesaian Konflik Makna Konstitusional](#154-penyelesaian-konflik-makna-konstitusional)*).
 - Baca bersama: [Pasal XXIV: Penafsiran Konstitusional, Peninjauan, dan Perlindungan Anti-Pengambilalihan](core_06_rights_part_d.md#pasal-xxv-interpretasi-konstitusi-peninjauan-kembali-dan-perlindungan-anti-penangkapan) untuk perlindungan penafsiran institusional (bukan pengganti bagian ini).
 - Baca bersama: [Bab Tujuh: Kemandirian Fungsional dan Pemisahan Tugas](core_07_functional_independence_segregation_of_duties.md) — batas minimum arsitektur kursi yang dilindungi oleh daftar anti-pengelakan dalam [§15.1 Prinsip Konstitusional Anti-Pengelakan](#151-constitutional-no-bypass-principle) (tidak diuraikan ulang di sini).
 
@@ -810,7 +810,7 @@ Mengemas tindakan yang sama sebagai proses khusus tidak menghapus persyaratan te
 - penetapan keadaan darurat;
 - perencanaan transisi;
 - rincian implementasi;
-- pengalihan penitipan (perubahan pihak yang memegang catatan, sistem, atau makhluk sentien);
+- pengalihan penguasaan (perubahan pihak yang memegang catatan resmi, sistem, atau sentient);
 - sertifikasi (label selaras atau tersertifikasi);
 - kontrak (perjanjian privat, termasuk mengontrakkan pekerjaan kepada pihak lain);
 - konsekuensi tetap;
@@ -835,11 +835,11 @@ Lapisan implementasi yang diadopsi dapat menambahkan rincian pada perlindungan i
 <a id="1511-anti-segmentation-principle"></a>
 ##### Prinsip Anti-Segmentasi
 
-*Singkatnya: No-Bypass menyatakan bahwa mengganti label tidak menghapus suatu persyaratan. Bagian ini menyatakan hal yang sama tentang pemecahan. Jika pertanyaan dalam satu perkara saling berkaitan, Anda tidak boleh memisahkannya ke dalam kotak, jalur, atau catatan tersendiri sehingga tiap kotak lolos sementara keseluruhan perkara gagal.*
+*Sederhananya: No-Bypass menyatakan bahwa mengganti label tidak menghapus persyaratan. Bagian ini menyatakan hal yang sama tentang pemecahan. Jika pertanyaan dalam suatu perkara saling berkaitan, perkara itu tidak boleh dipecah menjadi kotak, jalur, atau catatan terpisah sehingga tiap kotak lulus sementara keseluruhan perkara gagal. Menyatukan kembali bagian-bagian itu tidak menurunkan standar mana pun: setiap bagian tetap tunduk pada standarnya sendiri.*
 
 Jika pertanyaan yang timbul dalam suatu perkara secara material saling berkaitan, nilailah perkara itu sebagai satu kesatuan. Ini berlaku bagi gugus definisi yang dipanggil bersama berdasarkan [Bab Lima §2.1 Pemanggilan dan pemenuhan bersama](core_05__definitions_home.md#21-pemanggilan-dan-pemenuhan-bersama), serta perkara lain yang kewajibannya saling bergantung secara material.
 
-Perkara dalam cakupan tersebut tidak boleh dibagi ke dalam hal-hal berikut dengan cara yang memenuhi satu bagian tetapi menggagalkan bagian lain yang secara material terkait:
+Suatu hal yang harus dinilai sebagai satu kesatuan tidak boleh dipecah dalam keadaan berikut dengan cara yang memenuhi satu bagiannya sambil menggagalkan bagian lain yang terdampak material:
 - pembingkaian, kategori, atau klasifikasi yang terpisah;
 - pertanyaan, komponen, atau pengujian yang terpisah;
 - saluran, catatan, atau prosedur yang terpisah;
@@ -861,7 +861,7 @@ Evaluasi seluruh sistem harus menguji anti-segmentasi berdasarkan [Bab Delapan �
 
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — unsur **partisipasi** (privasi menopang agensi dan ekspresi, yang akan dirusak oleh rekonstruksi dari data gabungan); unsur **akuntabilitas** (pihak yang mengandalkan label tanpa identitas atau agregat menunjukkan bahwa informasi tersebut memang demikian); penskalaan berdasarkan [taruhan material](core_00_preamble.md#material-stake).
 - Hulu: [§15.1 Prinsip Konstitusional No-Bypass](#151-constitutional-no-bypass-principle); [§15.1.1 Prinsip Anti-Segmentasi](#prinsip-anti-segmentasi).
-- Hilir: [§13.2.3 Privasi dan Penentuan Nasib Sendiri Secara Informasional](#1323-privasi-dan-penentuan-nasib-sendiri-atas-informasi); [CS-2 — Jenis dan penanganan informasi](../../corpus_systems/cs_06.305_information_types_and_handling.md).
+- Dampak lanjutan: [§13.2.3 Privasi dan Penentuan Diri Informasional](#1323-privacy-and-informational-self-determination); [CS-6.305 — Jenis dan penanganan informasi](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling).
 
 </details>
 
@@ -876,7 +876,7 @@ Evaluasi seluruh sistem harus menguji anti-segmentasi berdasarkan [Bab Delapan �
 
 <br>
 
-*Singkatnya: No-Bypass menyatakan bahwa mengganti label tidak menghapus persyaratan, dan Anti-Segmentasi menyatakan bahwa memecah-belah juga tidak. Bagian ini menyatakan hal yang sama tentang penggabungan. Informasi diperlakukan berdasarkan apa yang diungkapkannya, bukan berdasarkan cara pembuatannya: potongan yang tampak tidak berbahaya tetapi jika digabungkan mengungkap sesuatu yang sensitif tetaplah sensitif, dan label “tanpa identitas” atau “agregat” tidak menjadikannya aman selama sentien masih dapat diidentifikasi atau sesuatu yang dilindungi masih dapat direkonstruksi.*
+*Secara sederhana: prinsip Anti-Penghindaran menyatakan bahwa mengganti label tidak menghapus kewajiban, dan prinsip Anti-Segmentasi menyatakan bahwa memecahnya juga tidak. Bagian ini menerapkan hal yang sama pada penggabungan informasi. Informasi dinilai dari apa yang diungkapkannya, bukan cara pembuatannya: potongan yang tampak tidak berbahaya tetapi jika digabung mengungkap sesuatu yang sensitif tetap bersifat sensitif. Label “tanpa identitas” atau “agregat” tidak menjadikannya aman selama sentien masih dapat dikenali atau sesuatu yang dilindungi masih dapat direkonstruksi.*
 
 Informasi diperlakukan pada tingkat perlindungan yang sesuai dengan apa yang diungkapkannya, bagaimanapun informasi itu diturunkan. [Informasi Turunan](../../core_05.045_band_integrative.md#derived-information) tunduk pada disiplin yang berlaku bagi hal yang diungkapkan atau dimungkinkannya, bukan disiplin yang lebih rendah yang berlaku bagi masukan informasinya.
 
@@ -895,7 +895,7 @@ Tidak adanya niat tidak mengecualikan informasi turunan yang tercakup dari prins
 Prinsip ini tidak:
 - berlaku bagi agregat biasa, seperti jumlah lalu lintas anonim, yang tidak mengungkapkan apa pun yang dilindungi dan tidak dapat digunakan secara wajar untuk mengidentifikasi kembali siapa pun atau merekonstruksi sesuatu yang dilindungi;
 - menciptakan, memperluas, atau mempersempit ketentuan Rights-Floor Bab Enam; atau
-- menggantikan aturan jenis data dalam [CS-2 — Jenis dan penanganan informasi](../../corpus_systems/cs_06.305_information_types_and_handling.md), yang menerapkan prinsip ini.
+- menggantikan aturan jenis data dalam [CS-6.305 — Jenis dan penanganan informasi](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling), yang menerapkannya.
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 Lapisan definisional dan disiplin yang diwajibkan
 
@@ -996,12 +996,12 @@ Subbagian ini merupakan **prosedur kanonis tunggal** untuk menyelesaikan ketegan
   - di dalam sumber konstitusional yang mengikat (instrumen `core_*` terpadu); dan
   - pada lapisan inkorporasi, ketika teks yang diinkorporasikan dipilih berdasarkan [Dampak perlindungan sepenuhnya](../../core_05.045_band_integrative.md#fullest-protective-effect).
 - Status lapisan sumber diidentifikasi dalam [Tumpukan Otoritas dan Hierarki Internal](core_05_band_integrative.md#tumpukan-wewenang-dan-hierarki-internal) pada Bab Lima.
-- [Bab Tujuh Belas](../../core_18.000_incorporation.md) menetapkan kustodi, penguncian edisi, dan kerangka adopsi. Bab tersebut **tidak** menyatakan ulang prosedur ini.
+- [Bab Dua Puluh](../../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) mengatur penitipan, penguncian edisi, dan kerangka adopsi. Bab itu **tidak** menyatakan ulang prosedur ini.
 - Untuk **Benturan Konstitusional dalam operasi** — bukan prioritas lapisan tekstual — terapkan **[§13 Proses Penyelesaian Benturan Konstitusional](#13-proses-penyelesaian-benturan-konstitusional)**.
 
 **Urutan operasional.** Terapkan hal berikut **dalam urutan ini**:
 
-1. **Konstitusi, larangan regresi, dan hierarki pengadopsi terlebih dahulu:** terapkan supremasi Konstitusi Sentient, batasan larangan regresi **Bab Empat Belas**, dan aturan hierarki internal **Bab Lima Belas** sebelum menyelesaikan lapisan yang lebih rendah.
+1. **Dahulukan Konstitusi, non-regresi, dan hierarki pengadopsi:** terapkan supremasi Konstitusi Sentient, batas non-regresi **Bab Tujuh Belas**, dan aturan hierarki internal **Bab Delapan Belas** sebelum menyelesaikan lapisan yang lebih rendah.
 2. **Pembacaan konstitusional yang mengikat:** di dalam sumber konstitusional yang mengikat, terapkan **[§15.4.1 Pembacaan terpadu](#1541-pembacaan-terpadu)** dan, hanya jika ketidakcocokan residual yang nyata masih ada, **[§15.4.2 Hierarki internal sebagai upaya terakhir](#1542-hierarki-internal-sebagai-upaya-terakhir)**.
 3. **Kewajiban yang diinkorporasikan:** selanjutnya terapkan kewajiban yang diinkorporasikan berdasarkan **[§15.4.3 Lapisan inkorporasi](#1543-lapisan-penginkorporasian)** dan **[§15.4.4 Pemenuhan gabungan atas kewajiban terinkorporasi yang berlaku bersama](#1544-pemenuhan-gabungan-atas-kewajiban-terinkorporasi-yang-berlaku-bersama)**.
 <a id="1541-integrated-reading"></a>
@@ -1015,7 +1015,7 @@ Terapkan terlebih dahulu **[§15.2 Lapisan definisi dan disiplin yang diwajibkan
 <a id="1542-last-resort-internal-hierarchy"></a>
 ##### 15.4.2 Hierarki internal sebagai upaya terakhir
 
-Dalam sumber konstitusional yang mengikat, **prinsip Bab Satu** mengatur arah konstitusional tingkat tinggi. **Kewajiban tingkat pasal dan Lantai Hak** mengatur persyaratan operasional yang spesifik. Rumusan kanonis aturan ini — termasuk batasnya terhadap kewenangan lapisan sumber dan penerapannya kepada pengadopsi berdasarkan **Bab Lima Belas** (*Hierarki Internal bagi Pengadopsi*) — terdapat dalam klaster [Tumpukan Kewenangan dan Hierarki Internal](core_05_band_integrative.md#tumpukan-wewenang-dan-hierarki-internal) di Bab Lima.
+Dalam sumber konstitusional yang mengikat, **prinsip Bab Satu** mengatur arah konstitusional tingkat tinggi. **Kewajiban tingkat pasal dan Lantai Hak** mengatur persyaratan operatif tertentu. Pernyataan kanonis aturan ini — termasuk batasnya dengan kewenangan lapisan sumber dan penerapannya pada pengadopsi menurut **Bab Delapan Belas** (*Hierarki Internal bagi Pengadopsi*) — terdapat dalam klaster [Tumpukan Kewenangan dan Hierarki Internal](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) di Bab Lima.
 
 Jika ketidakcocokan yang nyata masih tersisa setelah pembacaan terpadu berdasarkan **§15.4.1** (*Pembacaan terpadu*):
 - prinsip mengungguli pasal;
@@ -1027,21 +1027,21 @@ Hierarki ini merupakan aturan interpretatif sebagai upaya terakhir. Aturan ini h
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Lapisan penginkorporasian
 
-Setelah pembacaan konstitusional berdasarkan **§15.4.1** (*Pembacaan terpadu*) dan **§15.4.2** (*Hierarki internal sebagai upaya terakhir*), terapkan **kewajiban yang ditetapkan** dalam teks implementasi yang diadopsi — yakni tugas tata cara bernama yang benar-benar diberlakukan oleh adopsi. Terapkan kewajiban tersebut hanya dalam **cakupan adopsi dan penginkorporasian yang sah** berdasarkan **[Bab Tujuh Belas](../../core_18.000_incorporation.md)** (siapa yang memegang catatan, edisi mana yang dipatok, dan bagaimana adopsi dirumuskan).
+Setelah pembacaan konstitusional menurut **§15.4.1** (*Pembacaan Terpadu*) dan **§15.4.2** (*Hierarki internal sebagai pilihan terakhir*), terapkan **kewajiban yang ditetapkan** dalam teks pelaksanaan yang diadopsi — kewajiban cara-kerja yang disebut dan benar-benar diberlakukan oleh adopsi. Terapkan hanya dalam **cakupan adopsi dan inkorporasi yang sah** menurut **[Bab Dua Puluh](../../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge)** (siapa yang memegang catatan resmi, edisi yang dikunci, dan kerangka adopsi).
 
 Aturan di bawah ini memilih di antara teks yang diinkorporasikan berdasarkan [Efek Perlindungan Paling Penuh](../../core_05.045_band_integrative.md#fullest-protective-effect), standar yang sama dengan yang digunakan aturan **ambiguitas** dalam **[§15.3 Penyelesaian ambiguitas](#153-penyelesaian-ambiguitas)**. Aturan ini tidak pernah memilih berdasarkan [Kekakuan Abstrak](../../core_05.045_band_integrative.md#abstract-strictness).
 
 - **Efek Perlindungan Paling Penuh di antara teks yang diinkorporasikan:** Terapkan kewajiban yang diinkorporasikan pada tingkat yang memiliki Efek Perlindungan Paling Penuh dan konsisten dengan pembacaan konstitusional tersebut.
-  - Tingkat itu adalah **teks** yang diinkorporasikan yang mempertahankan persyaratan **perlindungan, keselamatan, akuntabilitas, dan keterlacakan** terkuat untuk kewajiban yang sama dalam cakupan material.
+  - Itulah **teks** yang diinkorporasikan yang mempertahankan persyaratan **perlindungan, keselamatan, akuntabilitas, dan ketertelusuran terkuat** untuk kewajiban dengan cakupan material yang sama.
   - Pilih di antara alternatif yang tetap selaras dengan pembacaan konstitusional berdasarkan [Tumpukan Kewenangan dan Hierarki Internal](core_05_band_integrative.md#tumpukan-wewenang-dan-hierarki-internal).
   - Ini **bukan** [Kekakuan Abstrak](../../core_05.045_band_integrative.md#abstract-strictness).
 - **Baseline yang diadopsi secara jelas:** Jika **pengenal edisi atau catatan penguasaan** untuk artefak yang diinkorporasikan hilang, bertentangan, atau secara material tidak dapat diandalkan:
-  - **baseline yang diadopsi secara jelas** dengan [Efek Perlindungan Paling Penuh](../../core_05.045_band_integrative.md#fullest-protective-effect) berlaku sampai validitas dipulihkan berdasarkan **Bab Dua Belas dan Tiga Belas**;
-  - **Baseline yang diadopsi secara jelas** berarti edisi atau **baseline** yang diinkorporasikan dan **dapat dilacak ke adopsi**, yang **secara jelas didukung** oleh rantai adopsi ketika catatan tidak dapat diandalkan (disiplin penguasaan dan **anti-pergeseran** berdasarkan Bab Tujuh Belas);
+  - **dasar adopsi yang dinyatakan dengan jelas** dengan [Efek Perlindungan Terkuat](../../core_05.045_band_integrative.md#fullest-protective-effect) berlaku sampai keabsahan dipulihkan menurut **Bab Lima Belas dan Enam Belas**;
+  - **Dasar adopsi yang dinyatakan dengan jelas** berarti edisi atau **dasar** yang diinkorporasikan dan **dapat ditelusuri ke adopsi**, yang **jelas didukung** rantai adopsi bila catatan tidak dapat diandalkan (disiplin penitipan dan **anti-pergeseran** menurut Bab Dua Puluh);
   - ini **bukan** penyelesaian ambiguitas konstitusional substantif melalui [Kekakuan Abstrak](../../core_05.045_band_integrative.md#abstract-strictness).
 - **Efek Perlindungan Paling Penuh lintas berkas:** Jika dua atau lebih berkas implementasi yang diadopsi menetapkan standar berbeda untuk risiko yang sama dengan cakupan yang bermakna, aturan yang diadopsi secara jelas dengan [Efek Perlindungan Paling Penuh](../../core_05.045_band_integrative.md#fullest-protective-effect) berlaku, selaras dengan dua aturan di atas.
   - Status lapisan sumber tetap diatur oleh [Tumpukan Kewenangan dan Hierarki Internal](core_05_band_integrative.md#tumpukan-wewenang-dan-hierarki-internal).
-  - Penguasaan, edisi, dan perumusan adopsi tetap diatur oleh **[Bab Tujuh Belas](../../core_18.000_incorporation.md)**.
+  - Penitipan, edisi, dan kerangka adopsi tetap diatur oleh **[Bab Dua Puluh](../../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge)**.
   - Aturan yang sama berlaku ketika profil yang dikutip dan label implementasi yang dikutip tampak bertentangan mengenai risiko tersebut.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1061,7 +1061,7 @@ Aturan pemenuhan gabungan dalam subbagian ini menyangkut penerapan **lebih dari 
 - aturan untuk satu klaster operasional **tunggal** dalam teks struktur bersama yang diinkorporasikan, ketika hanya menjalankan sebagian klaster itu tidak dihitung sebagai kepatuhan — lihat **[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*Klaster operasional*); atau
 - aturan Bab Lima bahwa definisi **klaster dependen** harus dipenuhi bersama — lihat **[Bab Lima §2.1 Pemanggilan dan pemenuhan bersama](core_05__definitions_home.md#21-pemanggilan-dan-pemenuhan-bersama)**.
 
-**Kapan subbagian ini berlaku.** Aturan ini berlaku dalam cakupan adopsi dan penginkorporasian yang sah berdasarkan **[Bab Tujuh Belas](../../core_18.000_incorporation.md)** dalam salah satu dari dua keadaan berikut:
+**Kapan subbagian ini berlaku.** Aturan ini berlaku dalam cakupan adopsi dan inkorporasi sah menurut **[Bab Dua Puluh](../../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge)** dalam salah satu dari keadaan berikut:
 
 1. **Satu situasi, lebih dari satu berkas:** Fakta mengharuskan penerapan lebih dari satu berkas implementasi yang diinkorporasikan — misalnya teks sistem, institusi, forum, atau struktur bersama. Berkas yang berlaku ditentukan oleh cakupan adopsi dan perutean topik yang disediakan berkas tersebut untuk fakta, bukan dengan hanya memilih berkas yang paling mudah dipenuhi.
 2. **Adopsi memberlakukan kumpulan struktur bersama:** Instrumen adopsi menerapkan teks implementasi struktur bersama yang ditetapkan (folder **CJS** dan berkas struktur bersama lain yang tercantum dalam rantai adopsi) kepada pengadopsi.

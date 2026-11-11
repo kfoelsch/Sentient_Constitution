@@ -79,7 +79,7 @@
 
 <br>
 
-*سادہ الفاظ میں: تین خیالات اس حصے کو جوڑتے ہیں۔ اول، حساس ہستیوں کی زندگیوں پر مادی اثر ڈالنے والے نظاموں کو اچھی طرح چلانے کے لیے حساس ہستیوں کی تنظیم درکار ہے — ماہرین کی بند الگ تھلگ جماعت نہیں۔ دوم، اچھے نگہبان نقصان کے مجبور کرنے کا انتظار نہیں کرتے — وہ مسئلے کو چھوٹا ہوتے ہوئے دیکھتے ہیں، اسے مناسب ہاتھوں تک پہنچاتے ہیں، اور اس سے پہلے حل کرتے ہیں کہ تاخیر خود نقصان بن جائے۔ سوم، اس تنظیم کو **بڑے پیمانے پر اہلیت** پیدا کرنی چاہیے: افراد کے لیے نتائج خیز کام تک پہنچنے کے حقیقی راستے، مسائل پہچاننے اور مخالفت کرنے کے لیے کافی برادری فہم، اور ایسے ادارے جو جامد ہونے کے بجائے مسلسل سیکھتے رہیں۔*
+*سادہ الفاظ میں: تین خیالات اس حصے کو جوڑتے ہیں۔ اول، sentients کی زندگی پر اثرانداز ہونے والے مادی نظاموں کو بہتر چلانے کے لیے sentients کی منظم شرکت چاہیے — بند ماہرین کا طبقہ نہیں۔ دوم، اچھے نگران نقصان کے مجبور کرنے تک انتظار نہیں کرتے؛ مسئلہ چھوٹا ہو تو پہچانتے ہیں، اسے مناسب ذمہ داروں تک پہنچاتے ہیں، اور تاخیر خود نقصان بننے سے پہلے نمٹا دیتے ہیں۔ سوم، اس تنظیم کو **وسیع پیمانے پر اہلیت** بنانی چاہیے: افراد کے لیے اثرانداز کام تک پہنچنے کے حقیقی راستے، مسائل سمجھنے اور ان پر اعتراض کرنے کے لیے کمیونٹی کی کافی آگاہی، اور ایسے ادارے جو جمود کا شکار ہونے کے بجائے سیکھتے رہیں۔*
 
 <a id="16-limits"></a>
 نگہبانی کی حدود ہیں۔ **حفاظت**، **سچائی**، **ضرورت**، **تناسب**، **قابلِ اجتناب بوجھ** اور **علمی سالمیت** ایسی حدیں مقرر کرتے ہیں جو ان فرائض کو منصفانہ مقدار میں، دیانت دارانہ اور جائز حفاظتی ضروریات کا احترام کرنے والا رکھیں — ذیل کے ستون انہی پابندیوں کے اندر کام کرتے ہیں، ان سے بچ کر نہیں۔
@@ -183,7 +183,7 @@ flowchart TB
 
 <br>
 
-*سادہ الفاظ میں: مشترکہ نظاموں میں محفوظ زندگی گزارنے کے لیے کسی کو ہر ذیلی نظام میں پی ایچ ڈی کی ضرورت نہیں ہونی چاہیے — لیکن جتنا زیادہ کوئی نظام آپ کی زندگی پر اثر انداز ہو، اتنا ہی آپ کو یہ جاننے کے قابل ہونا چاہیے کہ وہ کیا کرتا ہے، کیا غلط ہو سکتا ہے، اور غلط فیصلوں کو کیسے چیلنج کیا جائے۔ شفافیت، تعلیم، واضح تشریحات اور آڈٹ کے راستے یہی ممکن بناتے ہیں۔ پیچیدگی اہم باتیں چھپانے کا بہانہ نہیں۔ تتراڈ کے **نگرانی** والے جزو کے تحت نگرانی آڈٹ کا تقاضا کرتی ہے؛ نظامی مطابقت کی توثیق ان راستوں میں آڈٹ کا ایک خاصا وسیع عمل ہے، واحد نہیں۔*
+*سادہ الفاظ میں: مشترکہ نظاموں میں محفوظ زندگی گزارنے کے لیے ہر ذیلی نظام میں پی ایچ ڈی درکار نہیں ہونی چاہیے — لیکن کوئی نظام آپ کی زندگی پر جتنا زیادہ اثر ڈالے، آپ کو اتنا ہی زیادہ سیکھنے کے قابل ہونا چاہیے کہ وہ کیا کرتا ہے، کیا غلط ہو سکتا ہے، اور غلط فیصلوں کو کیسے چیلنج کرنا ہے۔ شفافیت، تعلیم، واضح تشریحات اور آڈٹ کے راستے یہ ممکن بناتے ہیں۔ پیچیدگی اہم بات چھپانے کا عذر نہیں۔ Tetrad کے **نگرانی** والے پہلو کے تحت نگرانی کے لیے آڈٹ لازم ہے؛ نظامی ہم آہنگی کی تصدیق ان راستوں میں ایک بڑا آڈٹ عمل ہے، واحد نہیں۔*
 
 تقسیم شدہ فہم **ستون 3** کا برادری سے متعلق پہلو ہے، جو **[§16 نگہداشت کی گہرائی](#16-نگہبانی-کی-تفصیل)** کے تحت آتا ہے۔ مکمل تعریف، پیمائشیں اور ناکامی کی شرائط [تقسیم شدہ فہم](../../core_05.040_band_continuity.md#distributed-understanding) میں ہیں۔ خلاصہ:
 
@@ -222,7 +222,7 @@ flowchart TB
 
 <br>
 
-*سادہ الفاظ میں: اداروں کو حقیقتاً سیکھنا چاہیے — صرف سافٹ ویئر اپ گریڈ نہ کریں جبکہ ذمہ دار لوگ نظام کو نہ سمجھتے ہوں۔ اس کے لیے فیڈبیک کے چکر، عدم مطابقت کی صورت میں درج شدہ اصلاحات، اور ادارے میں مہارت برقرار رکھنا ضروری ہے۔ جہاں رویے کو بار بار ناپا جا سکتا ہو، وہاں وقت کے ساتھ کارکردگی میں تبدیلی کا سراغ لگانا ان چکروں پر عمل کا ایک متناسب طریقہ ہے — **شماریاتی عمل کا کنٹرول** اس نظم کا معروف طریقہ ہے، ہر جگہ لازمی تقاضا نہیں۔ صرف اعداد کافی نہیں: اشارے غلط لگیں تو کسی کو تحقیق کرکے بنیادی سبب درست کرنا ہوگا۔ ڈیش بورڈ دیانت دار ہوں، حقیقی اثر کے مطابق ہوں اور اس طرح لکھے جائیں کہ متاثرہ ذی شعور مخلوقات انہیں سمجھ سکیں — انہیں اچھا دکھانے کے لیے اعداد و شمار میں ہیر پھیر نہ ہو جبکہ کچھ بھی تبدیل نہ ہو۔*
+*سادہ الفاظ میں: اداروں کو واقعی سیکھنا چاہیے — صرف سافٹ ویئر اپ گریڈ کرنا کافی نہیں جبکہ ذمہ دار افراد بے خبر رہیں۔ اس کا مطلب تاثراتی چکر، ہم آہنگی بگڑنے پر دستاویزی اصلاح، اور مہارت کو ادارے میں برقرار رکھنا ہے۔ جہاں رویے کو بار بار ناپا جا سکے، وہاں وقت کے ساتھ کارکردگی کے تغیر کا سراغ لگانا ان چکروں کو نافذ کرنے کا ایک متناسب طریقہ ہے — **شماریاتی عمل کا کنٹرول** اس نظم کی معروف مثال ہے، ہر جگہ لازمی شرط نہیں۔ صرف اعداد کافی نہیں: اشارے غلط لگیں تو کسی کو بنیادی وجہ کی تحقیق اور اصلاح کرنی ہوگی۔ ڈیش بورڈز دیانت دار، حقیقی اثر کے مطابق، اور متاثرہ sentients کے لیے قابلِ فہم ہونے چاہییں — انہیں اس لیے نہ بنایا جائے کہ کچھ بدلے بغیر سب اچھا نظر آئے۔*
 
 ادارہ جاتی ترقی **ستون 3** کا تنظیمی پہلو ہے، **[§16 گہری سرپرستی](#16-نگہبانی-کی-تفصیل)** کے تحت۔ مکمل تعریف، پیمانے اور ناکامی کی شرائط [ادارہ جاتی ترقی](../../core_05.040_band_continuity.md#institutional-development) میں درج ہیں۔ خلاصہ یہ ہے:
 
@@ -269,7 +269,7 @@ flowchart TB
 
 <br>
 
-*سادہ الفاظ میں: جب حفاظت، سچائی اور جائز رازداری اجازت دیں تو مشترکہ نظاموں میں بنیادی طور پر کشادگی ہونی چاہیے — ایسی ٹیکنالوجی جس کا معائنہ ہو سکے، شفاف عمل، اور ایسے ڈیزائن جن کی تصدیق، اصلاح یا جن سے علیحدگی ممکن ہو — مبہم قید کے بجائے۔ اس سے **تسلسل** کو مدد ملتی ہے: ذی شعور مخلوقات وقت کے ساتھ نظاموں کو سمجھ، درست اور چھوڑ سکتی ہیں، صرف آج استعمال نہیں کرتیں۔ اہم امور ایسی زبان میں سمجھائے جائیں جسے ذی شعور مخلوقات شرکت اور اعتراض کے لیے واقعی استعمال کر سکیں۔ کشادگی کبھی حفاظت، دیانت یا جائز راز داری پر فوقیت نہیں رکھتی، اور زیادہ انحصار کی صورت میں واجب گہری سمجھ کا بدل نہیں۔*
+*سادہ الفاظ میں: جہاں حفاظت، سچائی اور جائز رازداری اجازت دیں، مشترکہ نظاموں میں کھلا پن معمول ہونا چاہیے—ایسی ٹیکنالوجی جس کا معائنہ ہو سکے، شفاف طریقۂ کار، اور ایسے ڈیزائن جن کی تصدیق، مرمت یا ان سے علیحدگی ممکن ہو؛ مبہم طور پر باندھ رکھنے کے بجائے۔ اس سے **تسلسل** کو تقویت ملتی ہے: ذی شعور ہستیاں وقت کے ساتھ نظاموں کو سمجھ، درست اور چھوڑ سکیں، صرف آج استعمال نہ کریں۔ اہم باتیں ایسی زبان میں بیان ہوں جس سے وہ حقیقتاً شریک ہو سکیں اور اعتراض کر سکیں۔ کھلا پن حفاظت، دیانت یا جائز راز داری سے کبھی بالاتر نہیں، اور زیادہ انحصار کی صورت میں واجب گہری سمجھ بوجھ کا متبادل بھی نہیں۔*
 
 کشادگی کی آرزو **ستون 3** کے دونوں پہلوؤں کو جوڑتی ہے۔ اس کی مکمل تعریف، پیمانے اور ناکامی کی شرائط [کشادگی کی آرزو](../../core_05.040_band_continuity.md#openness-aspiration) میں درج ہیں۔ خلاصہ یہ ہے:
 
@@ -283,6 +283,58 @@ flowchart TB
 - **اس کا مطلب یہ نہیں کہ:**
   - کشادگی کو **حفاظت**، **سچائی**، جائز رازداری یا سلامتی کی پابندیوں سے بالاتر رکھنا
   - [مادیت](../../core_05.050_band_oversight.md#materiality) اور [انحصار](../../core_05.040_band_continuity.md#dependency) کے مطابق متناسب فہم کا بدل نہ بننا
+
+<a id="164-document-at-action"></a>
+#### 16.4 عمل کے وقت دستاویز بنانا
+<details>
+<summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
+
+- بالائی حوالہ: [§16.3 کشادگی کی آرزو](#163-openness-aspiration); [§17.3 امین کے بجائے کردار کی لاگنگ](#173-logging-the-role-not-the-steward).
+- ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — تسلسل; [آئینی چہارگانہ](core_00_preamble.md#constitutional-tetrad) — نگرانی, جوابدہی, بروقتی; [Materiality](../../core_05.050_band_oversight.md#materiality) and [Dependency](../../core_05.040_band_continuity.md#dependency).
+- زیریں حوالہ: [CS-16.305 §10 قابلِ معائنہ اور قابلِ نسبت عمل](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*پہلے سے طے شدہ لاگنگ معاہدہ*); [CF-15.445 §3.2 اشاعت کی بروقتی](../../corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-32-publication-timeliness) (*فورم ریکارڈز اور مؤخر اشاعت کے نشان*); [Article XVI: آڈٹ، شفافیت اور آزادانہ توثیق](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)۔
+
+</details>
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
+
+- [کشادگی کی آرزو](../../core_05.040_band_continuity.md#openness-aspiration) · [O](../../core_05.040_band_continuity.md#openness-aspiration) · [M](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [A](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-a) · [C](../../core_05.040_band_continuity.md#openness-aspiration-constitutional-c)
+- [بامعنی اختیار](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [قابلِ اعتراض ہونا](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [مادیت](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+
+- [قابلِ انتساب عمل](../../core_05.035_band_accountability.md#attributable-action) · [O](../../core_05.035_band_accountability.md#attributable-action) · [M](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05.035_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05.035_band_accountability.md#attributable-action-constitutional-c)
+- [نگرانی کی حد](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution) · [O](../../core_05.035_band_accountability.md#timely-resolution) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+</details>
+
+*سادہ الفاظ میں: جب کوئی اہم کام کیا جائے تو Act Record بھی اسی عمل کے ساتھ، اسی وقت، اور جہاں ممکن ہو نظام کے ذریعے بننا چاہیے۔ کوئی اسے بعد میں یادداشت سے نہیں لکھتا۔ جو چیز قانوناً محدود نہیں، فوراً دکھائی دینی چاہیے۔ محدود چیز بھی یہ نظر آنے والا نشان چھوڑے کہ عمل ہوا تھا، اور بعد میں مزید جاننے کا راستہ دے۔ ریکارڈ نظام بناتا ہے، اس لیے نگران پر اضافی کام نہیں پڑتا۔*
+**عمل کے وقت دستاویز بنانا** نگہداشت کا پہلے سے طے شدہ اصول ہے کہ نتیجہ خیز عمل اور اس کا Act Record ساتھ ساتھ واقع ہوں۔ یہ ہر اس ریکارڈ کی ذمہ داری کا اصول ہے جو وقت مقرر نہ کرے اور یوں Act Record کو رہ جانے دے۔ یہ انسانی اور AI نگہبانوں، اور ان کے زیرِ انتظام اداروں اور نظاموں پر یکساں لاگو ہے:
+- **عمل Act Record بناتا ہے:**
+  - ریکارڈ بتاتا ہے کہ کیا کیا گیا، کس کردار کے ذریعے، کس کے اختیار سے، کس بنیاد اور وجوہ کے ساتھ؛ یہ خود عمل سے بنتا ہے۔
+  - جہاں ممکن ہو نظام اور طریقۂ کار خودکار طور پر ریکارڈ کریں تاکہ بعد میں یاد کرکے لکھنا نہ پڑے۔
+  - جہاں خودکار اندراج ابھی ممکن نہ ہو، عمل کرنے والا sentient عمل کے وقت Act Record بنائے، بعد میں یادداشت سے نہیں۔
+  - افشا محدود کرنے کے لیے قانونی بنیاد درکار ہے، جسے اسی وقت بیان اور درج کیا جائے۔ صرف پابندی کے دائرے میں آنے والی معلومات روکی جائیں، پورا Act Record نہیں۔
+  - عمل کے لمحے سے ایک نمایاں نشان بتائے کہ عمل ہوا، Act Record کا کون سا حصہ روکا گیا، افشا محدود کرنے کی بیان کردہ بنیاد کیا ہے، اور باقی حصہ بعد میں کس راستے سے جاری یا دوبارہ تشکیل دیا جائے گا۔
+  - اگر Act Record کو روکنے کی قانونی بنیاد نشان تک کو روکتی ہو تو بھی وہ بنیاد عمل کے وقت درج کی جائے، اور ممانعت ختم ہونے پر نشان ظاہر ہو۔
+  - اگر ہر عمل کے بعد Act Record نگہبان کے کئی اضافی گھنٹے لیتا ہے جبکہ اندراج ممکن تھا مگر بنایا نہیں گیا تو یہ [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) کا نقص ہے۔ حل اندراج کا نظام بنانا ہے، مزید مستعدی کا مطالبہ نہیں۔
+یہ اصول یہ کام نہیں کرتا:
+- **غیر محدود معلومات فوراً دستیاب ہوتی ہیں:** عمل کے وقت دیکھنے کے مجاز افراد کو دیں؛ پہلے درخواست دینا ضروری نہیں۔
+- **ریکارڈنگ نظام کی ڈیزائن ذمہ داری ہے:** [مادی مفاد](../../core_05.050_band_oversight.md#materiality) اور [انحصار](../../core_05.040_band_continuity.md#dependency) کے مطابق۔
+- **آخری تاریخ مقرر کرنا:** “عمل کے وقت” ریکارڈز کے لیے ڈیزائن کا بنیادی اصول ہے۔ فیصلوں، جوابات اور نظرثانی کی مدتیں وہیں رہیں گی جہاں [Chapter Fifteen §6 بروقت حل، مادی اہمیت کے درجے، اور تاخیر مخالف نظم](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) انہیں رکھتا ہے؛ یہاں کوئی بات انہیں بڑھاتی یا گھٹاتی نہیں۔
+- **کسی کی باطنی زندگی کھولنا:** [§17.3 نگران کے بجائے کردار کا اندراج](#173-logging-the-role-not-the-steward) کے مطابق Act Record کردار کی پیروی کرتا ہے۔ [نگرانی کی حد](../../core_05.040_band_continuity.md#surveillance-boundary) برقرار ہے: عمل درج کرنا، عمل کرنے والے کی نگرانی نہیں۔
+- **حفاظت، سچائی، رازداری، معلوماتی سلامتی یا جائز رازداری پر غالب آنا:** یہ کبھی بھی محدود معلومات کی اشاعت کا تقاضا نہیں کرتا۔
+- **Act Record کو فیصلہ بنانا:** عمل کے وقت بنایا گیا Act Record ایک سراغ ہے، اسٹینڈنگ کا فیصلہ نہیں، اور کوئی اسٹینڈنگ ریکارڈ نہیں کھولتا۔
+  - [Chapter Eleven — اسٹینڈنگ ریکارڈز](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*اسٹینڈنگ اثر تقسیم شدہ اہلیت اور نتیجہ خیز نگہداشت نافذ کرتا ہے*)؛
+  - [Chapter Sixteen §5 — مجاز کردار، اہلیت کی ترقی اور تعاون](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (16.000 §5)؛
+  - [Chapter Twenty](../../core_20.000_incorporation.md) (20.000) (*منظور شدہ نفاذی متن نافذ کرتا ہے؛ اس کی جگہ نہیں لیتا*)؛
+  - کسی نرم داخلی ضابطے کے ذریعے [اسٹینڈنگ پیمائش](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)، اعتراض کے راستوں یا Chapter One کی ذمہ داریوں کو تبدیل نہیں کیا جا سکتا۔
+- **لاگنگ بمقابلہ اسٹینڈنگ ریکارڈز:** مخلوط عملے کے لیے پہلے سے طے شدہ معائنہ پذیری اور لاگ کے ریکارڈ نہ ہونے کا اصول [§17.3 نگران کے بجائے کردار کا اندراج](#173-logging-the-role-not-the-steward) میں ہے؛ اسٹینڈنگ پیمائش Chapter Twelve میں رہتی ہے۔
+- زیریں حوالہ: [Chapter Eleven — اسٹینڈنگ ریکارڈز](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*تصدیق شدہ ناکامیاں انہی محوروں پر درج ہوتی ہیں*); [§17.3 نگران کے بجائے کردار کا اندراج](#173-logging-the-role-not-the-steward)۔
+- **آخری تاریخ پوری کرنے کے لیے Act Record کاٹنا** — محض تاریخ پوری کرنے کے لیے ایسا وقت چننا جو دوسروں کو واقعہ دوبارہ تشکیل دینے کے لیے درکار آڈٹ سراغ بند کر دے؛
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. اہم نتائج کی ذمہ دارانہ سرپرستی: سرپرست کا کردار
@@ -365,7 +417,7 @@ flowchart TB
 - سابقہ روابط: [§17 اہم نتائج کی ذمہ دارانہ سرپرستی](#17-اہم-نتائج-کی-ذمہ-دارانہ-سرپرستی-سرپرست-کا-کردار)؛ [§16 سرپرستی کی گہری تفصیل](#16-نگہبانی-کی-تفصیل)؛ [§18 سرپرستی کے نظم کے تحت حکمرانی](#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی)۔
 - ساتھ پڑھیں: [ذی شعور ہونے کی بنیاد پر عدم اخراج](../../core_05.055_band_participation.md#sentience-non-exclusion) اور [مادّی بنیاد کی قسم](../../core_05.055_band_participation.md#substrate-class) (*مادّی بنیاد سے قطع نظر اطلاق — یہ ذیلی حصہ ذمہ دار فریقوں پر لازم ہے، بشمول ایسے ایجنٹوں اور آپریٹروں کے جنہیں ذی شعور مخلوق تسلیم نہیں کیا گیا*); [اختیارات کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب)؛ [آئینی پابندی](core_05_band_integrative.md#آئینی-پابندی)؛ [قابلِ اعتراض ہونا](../../core_05.035_band_accountability.md#contestability)؛ [§17.5 مزاحمت کا فرض](#175-مزاحمت-کا-فرض)۔
 - سرپرست کے لیے دروازہ (غیر عملی): اگلے مرحلے کا کارڈ [مشترکہ سرپرستی](../../implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- بعد کے روابط: [§17.2 دباؤ میں ہم آہنگی](#172-دباؤ-میں-ہم-آہنگی)؛ [§17.3 سرپرست نہیں، کردار کی لاگنگ](#173-logging-the-role-not-the-steward)؛ [باب سیزدہم §5 — مجاز کردار، اہلیت کی ترقی اور شراکت](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [باب ہفدہم](../../core_18.000_incorporation.md) (*منظور شدہ نفاذی متن لاگو کرتا ہے؛ اس کی جگہ نہیں لیتا*); [§19.1.3 سرپرستی اور آپریٹر کا اطلاق](#1913-نگہبانی-اور-منتظمین-پر-اطلاق)۔
+- بعد کے روابط: [§17.2 دباؤ میں ہم آہنگی](#172-دباؤ-میں-ہم-آہنگی)؛ [§17.3 سرپرست نہیں، کردار کی لاگنگ](#173-logging-the-role-not-the-steward)؛ [باب سیزدہم §5 — مجاز کردار، اہلیت کی ترقی اور شراکت](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [باب ہفدہم](../../core_20.000_incorporation.md) (*منظور شدہ نفاذی متن لاگو کرتا ہے؛ اس کی جگہ نہیں لیتا*); [§19.1.3 سرپرستی اور آپریٹر کا اطلاق](#1913-نگہبانی-اور-منتظمین-پر-اطلاق)۔
 
 </details>
 
@@ -448,7 +500,7 @@ flowchart TB
 
 - سابقہ: [§17.1 مشترکہ نگرانی کا معیار](#171-مشترکہ-سرپرستی-کا-معیار)؛ [§17.2 دباؤ میں ہم آہنگی](#172-دباؤ-میں-ہم-آہنگی)؛ [§17 نتائج خیز نگرانی](#17-اہم-نتائج-کی-ذمہ-دارانہ-سرپرستی-سرپرست-کا-کردار).
 - ساتھ مطالعہ کریں: [قابلِ انتساب عمل](../../core_05.035_band_accountability.md#attributable-action)؛ [قابلِ آڈٹ ہونا](core_05_band_oversight.md#آڈٹ-پذیری)؛ [نگرانی کی حد](../../core_05.040_band_continuity.md#surveillance-boundary)؛ [محفوظ اندرونی حالت کی حد](../../core_05.040_band_continuity.md#protected-internal-state-boundary)؛ [§13.2.3 رازداری](core_01_b_interaction_interpretation.md#1323-رازداری-اور-معلوماتی-خود-اختیاری)؛ [آرٹیکل VII-B](core_06_rights_part_b.md#آرٹیکل-vii-b-ذہن-پر-خود-اختیاری) (*ذہن پر خود اختیاری*).
-- بعد ازاں: [CS-4 §10 قابلِ معائنہ قابلِ انتساب عمل](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*انسان اور AI کے مشترکہ عمل کے لیے طے شدہ لاگنگ معاہدہ — مقام کے ریکارڈ کا متبادل نہیں*)؛ [باب دہم §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [باب دہم §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- بعد ازاں: [CS-4 §10 قابلِ معائنہ قابلِ انتساب عمل](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*انسان اور AI کے مشترکہ عمل کے لیے طے شدہ لاگنگ معاہدہ — مقام کے ریکارڈ کا متبادل نہیں*)؛ [باب دہم §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [باب دہم §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -466,7 +518,7 @@ flowchart TB
 
 *سادہ الفاظ میں: آڈٹ کردار کے کام کا سراغ لیتا ہے، امین کا بطور فرد نہیں۔ کردار سنبھالنے سے پہلے آپ کو بتایا جاتا ہے کہ کیا لاگ ہوگا۔ کردار سے باہر معمول کی رازداری برقرار رہتی ہے۔ لاگ مقام کا ریکارڈ نہیں۔*
 
-**کردار تک محدود آڈٹ:** جس چیز کو لاگ کرنا ضروری ہے وہ کردار کا کام ہے، امین کا بطور فرد نہیں: کیا گیا فیصلہ، کیا گیا یا روکا گیا انکشاف، مانی یا رد کی گئی ہدایت، اور اسے کس نے منظور کیا—انسانی اور AI امینوں دونوں کے لیے۔ [CS-4 §10 قابلِ معائنہ قابلِ انتساب عمل](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) لاگنگ کا معاہدہ متعین کرتا ہے۔ اس پر تین اصول حاکم ہیں:
+**کردار تک محدود آڈٹ:** جس چیز کو لاگ کرنا ضروری ہے وہ کردار کا کام ہے، امین کا بطور فرد نہیں: کیا گیا فیصلہ، کیا گیا یا روکا گیا انکشاف، مانی یا رد کی گئی ہدایت، اور اسے کس نے منظور کیا—انسانی اور AI امینوں دونوں کے لیے۔ [CS-4 §10 قابلِ معائنہ قابلِ انتساب عمل](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) لاگنگ کا معاہدہ متعین کرتا ہے۔ اس پر تین اصول حاکم ہیں:
 
 - **دائرہ کار کردار کے تابع ہے:**
   - کردار سنبھالنے سے پہلے امین کو بتایا جانا چاہیے کہ کردار کے کون سے اعمال لاگ ہوں گے اور کون لاگ کا معائنہ کر سکتا ہے۔
@@ -573,7 +625,7 @@ flowchart TB
 - سابقہ دفعات: [§17 نتیجہ خیز نگہداشت](#17-اہم-نتائج-کی-ذمہ-دارانہ-سرپرستی-سرپرست-کا-کردار)؛ [§17.1 نگہداشت کا مشترکہ معیار](#171-مشترکہ-سرپرستی-کا-معیار) (*یہ فرض کن پر لاگو ہوتا ہے*)؛ [§17.2 دباؤ میں ہم آہنگی](#172-دباؤ-میں-ہم-آہنگی) (*پردہ ڈالنے والی ہدایت بطور ناکام آزمائش*)؛ [4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint) اور [5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)۔
 - ساتھ پڑھیں: [اختیارات کی ترتیب اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب)؛ [محفوظ رپورٹنگ (بدعنوانی کی اطلاع)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)؛ [آرٹیکل XIII-A](core_06_rights_part_c.md#آرٹیکل-xiii-a-وشوسنییتا-اور-قابل-اعتمادی-کی-بنیاد) (*قابلِ اعتماد ہونے کی بنیادی حد*) — مزاحمت کے دوران بھی اعتراض کے راستے کھلے رہتے ہیں۔
 - نگہبان کے لیے رہنمائی (غیر عملی): اگلے قدم کا کارڈ: [غیر قانونی ہدایت](../../implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- بعد کی دفعات: [باب دس §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*مزاحمت کا فرض — خلاف ورزی کا اصول اور حیثیتی اثرات*)؛ [CS-4 §10 قابلِ معائنہ اور قابلِ نسبت عمل](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*قابلِ معائنہ اور قابلِ نسبت عمل — انکار کا کم از کم ریکارڈ*)۔
+- بعد کی دفعات: [باب دس §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*مزاحمت کا فرض — خلاف ورزی کا اصول اور حیثیتی اثرات*)؛ [CS-4 §10 قابلِ معائنہ اور قابلِ نسبت عمل](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*قابلِ معائنہ اور قابلِ نسبت عمل — انکار کا کم از کم ریکارڈ*)۔
 
 </details>
 
@@ -626,7 +678,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[باب دہم §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*مزاحمت کا فرض*) اس فرض کو مقام کے اثرات پر لاگو کرتا ہے، اور [CS-4 §10 قابلِ معائنہ قابلِ انتساب عمل](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*قابلِ معائنہ، قابلِ انتساب عمل*) انکار کا کم از کم ریکارڈ مقرر کرتا ہے۔
+[باب دہم §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*مزاحمت کا فرض*) اس فرض کو مقام کے اثرات پر لاگو کرتا ہے، اور [CS-4 §10 قابلِ معائنہ قابلِ انتساب عمل](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*قابلِ معائنہ، قابلِ انتساب عمل*) انکار کا کم از کم ریکارڈ مقرر کرتا ہے۔
 
 <br>
 
@@ -643,7 +695,7 @@ flowchart TB
 - [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) کے ساتھ پڑھیں: متعدد نگرانوں کے ذریعے جانچ کی **نگرانی**؛ افعال کے جوڑ سمیت مسئلے کو جلد دیکھنے کی **بروقتی**؛ بااثر کام تک کھلے راستوں کی **شرکت**؛ [material stake](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
 - [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship)، [§19.2 Convenient Proxies and Proxy Divergence](#192-سہل-قائم-مقام-پیمانے-اور-قائم-مقام-پیمانے-کا-انحراف)، [§19.3 Misalignment Detection](#193-عدم-ہم-آہنگی-کی-شناخت) (متعدد ذرائع سے شناخت)، اور [§19.4 Misalignment Correction and Capture Response](#194-عدم-مطابقت-کی-اصلاح-اور-قبضے-کا-جواب) کے ساتھ پڑھیں۔
 - حدود: [§18.3 Separation of Duties](#183-فرائض-کی-علیحدگی) اور [Chapter Eight §2 Four-Seat Constitutional Requirement](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement) (کسی نشست کو سیکھنا اسے سنبھالنا نہیں); [Chapter Eleven §6.2 Competency bars and clearances](core_09_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-مزاحمت-کا-فرض); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں).
-- آگے عمل درآمد: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (سنجیدہ جاندار کی سطح پر ناکامی کا واحد نقطہ نہ ہو); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_14.305_critical_system_stewardship.md).
+- آگے عمل درآمد: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_12_governance.md#5-authorized-roles-competency-development-and-contribution) (سنجیدہ جاندار کی سطح پر ناکامی کا واحد نقطہ نہ ہو); [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-1-shared-staffing-and-competency-requirement); [CS-4.10](../../corpus_systems/cs_16.305_critical_system_stewardship.md).
 
 </details>
 
@@ -705,7 +757,7 @@ flowchart TB
 
 <br>
 
-*سادہ الفاظ میں: حکمرانی طے کرتی ہے کہ کون کیا اور کیسے طے کر سکتا ہے—لیکن صرف اسی وقت جب یہ ڈھانچے امانت داری کے نظم کے تابع رہیں، فروغ اور تسلسل دونوں کی خدمت کریں، اور چہارگانہ کو کھوکھلا نہ کریں یا باب سیزدہم کے عملی اجازت کے قواعد کی جگہ نہ لیں۔*
+*سادہ الفاظ میں: حکمرانی یہ طے کرتی ہے کہ کون کیا اور کیسے فیصلہ کر سکتا ہے — مگر صرف تب جب یہ ڈھانچے نگہداشت کے نظم کے تابع ہوں، نشوونما اور تسلسل دونوں کو آگے بڑھائیں، چہارگانہ کو کھوکھلا نہ کریں اور Chapter Sixteen کے عملی اجازت نامے کے اصولوں کی جگہ نہ لیں۔*
 
 یہ حصہ [حکمرانی](../../core_05.035_band_accountability.md#governance) کے نظم کو [§16 امانت داری کی تفصیل](#16-نگہبانی-کی-تفصیل) کے بعد آگے بڑھاتا ہے: مجاز ڈھانچہ، ادارہ جاتی سیکولرزم، امانت داری کی فوقیت، [مسلسل جواز](#184-مسلسل-جواز)، اور فرائض کی علیحدگی۔ **[§19 ترغیبات کی ہم آہنگی اور نظام پر قبضہ](#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ)** ترغیبات کی ہم آہنگی، متبادل کی سالمیت، قلیل مدتی نقص کی اصلاح، آپریٹر پر اطلاق اور قبضے کے جواب کو آگے بڑھاتا ہے۔
 
@@ -740,7 +792,7 @@ flowchart TB
 
 *سادہ الفاظ میں: حکمرانی اختیار کی قواعد نامہ ہے—کون کیا طے کر سکتا ہے، کن ڈھانچوں کے ذریعے، اور نتائج کے لیے کسے جواب دینا ہوگا۔ کسی کردار میں جتنی زیادہ طاقت ہو، اس کی جواب دہی اور نگرانی کے فرائض اتنے ہی مضبوط ہونے چاہییں—کبھی کمزور نہیں۔ یہ اسی وقت کام کرتا ہے جب اس سے ذی شعور ہستیاں وقت کے ساتھ پھلیں پھولیں، شرکت اور نگرانی کے حقیقی راستے قائم رہیں، اور حکمرانی [§16 امانت داری کی تفصیل](#16-نگہبانی-کی-تفصیل) کے امانت داری کے نظم کے تابع رہے۔ قواعد نامے پر اسی کی خاطر عمل کرنا کافی نہیں اگر اس سے ادارے کا تحفظ ہو، مختصر مدتی فائدے کا تعاقب ہو یا بنیادی حقوق کی کم از کم سطح گھٹے۔*
 
-اصولی سطح پر [حکمرانی](../../core_05.035_band_accountability.md#governance) پہلے سے مجاز نظاموں اور اداروں کی رہنمائی اور جواب دہی کا طریقہ ہے—جیسا کہ **باب پنجم** میں تعریف کی گئی ہے اور **باب سیزدہم** میں **آئینی معاہدے کی پرت** اور [دیباچہ](../../core_00.000_preamble.md#preamble--foundational-requirements) میں فریقین کی شرکت کی پرتوں کے لیے عملی تفصیل دی گئی ہے۔ مجاز حکمرانی کو [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کو [آئینی چہارگانہ](core_00_preamble.md#constitutional-tetrad) کے تحت آگے بڑھانا ہوگا، اور اسے [اہم داؤ](core_00_preamble.md#material-stake) کے مطابق ڈھالنا ہوگا۔
+اصولی سطح پر [حکمرانی](../../core_05.035_band_accountability.md#governance) یہ ہے کہ پہلے سے مجاز نظاموں اور اداروں کو کیسے ہدایت دی جائے اور جواب دہ رکھا جائے — جیسا کہ **Chapter Five** میں متعین اور **Chapter Sixteen** میں **آئینی معاہداتی پرت** اور [تمہید](core_00_preamble.md#preamble--foundational-requirements) کے فریقین کی شرکت کی پرتوں کے لیے عملی طور پر واضح کیا گیا ہے۔ مجاز حکمرانی کو [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کو [آئینی چہارگانہ](core_00_preamble.md#constitutional-tetrad) کے تحت، [مادی مفاد](core_00_preamble.md#material-stake) کے مطابق آگے بڑھانا چاہیے۔
 
 **حکمرانی میں کیا شامل ہے:**
 
@@ -1138,7 +1190,7 @@ flowchart TB
   - غیر قانونی یا غیر آئینی احکامات پر عمل؛
   - چھپانا؛
   - انتقامی کارروائی؛
-  - [جوابدہی میں رکاوٹ ڈالنا](core_08_standing_assessment.md#232-violation-event-types) (قانونی حیثیت کے نمونے میں واقعے کی قسم اور [باب گیارہ §5.11 جوابدہی میں رکاوٹ: معیاروں کا تعامل](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) کی نامزدگی اور راستہ بندی — یہ بذاتِ خود انعام سے استثنا نہیں)؛ یا
+  - [جوابدہی میں رکاوٹ ڈالنا](core_08_standing_assessment.md#232-violation-event-types) (قانونی حیثیت کے نمونے میں واقعے کی قسم اور [باب گیارہ §5.11 جوابدہی میں رکاوٹ: معیاروں کا تعامل](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) کی نامزدگی اور راستہ بندی — یہ بذاتِ خود انعام سے استثنا نہیں)؛ یا
   - تصدیق شدہ آئینی نقصان کا ازالہ کرنے سے انکار؛ یا
 - ایسے انعامی راستے جو مادی طور پر بدعملی یا اسے چھپانے پر منحصر ہوں، ان میں شامل ہیں:
   - معاوضہ، بونس، ایکویٹی، تقرری، ترقی یا مدتِ ملازمت؛
@@ -1146,7 +1198,7 @@ flowchart TB
   - تصفیہ، تلافی، بیمہ یا استثنا؛ یا
   - تقابلی انتظامات۔
 
-**غیر ہم آہنگ انعامات کے نتائج۔** اوپر ممنوع انعامی راستوں سے حاصل کیے گئے مادی انعامات، قانونی حیثیت کے نمونے کے تحت ضبطی اور رپورٹنگ کے تابع ہیں۔ ملاحظہ کریں [باب دس §5.4 رپورٹنگ کا فرض اور استثنا](core_09_standing_integration.md#54-special-violation-rules)، [§5.4 ضبطی اور برقرار رکھنا](core_09_standing_integration.md#54-special-violation-rules)، اور [§5.4 اصلاح، ریکارڈ اور رہنمائی](core_09_standing_integration.md#54-special-violation-rules)۔
+**غیر ہم آہنگ انعامات کے نتائج۔** اوپر ممنوعہ انعامی راستوں سے حاصل اہم انعامات اسٹینڈنگ ماڈل کے تحت ضبطی اور رپورٹنگ کے تابع ہیں۔ [Chapter Thirteen §6.4 رپورٹنگ کا فرض اور استثنا](../../core_13.000_standing_integration.md#64-special-violation-rules)، [§6.4 ضبطی اور برقرار رکھنا](../../core_13.000_standing_integration.md#64-special-violation-rules)، اور [§6.4 اصلاح، ریکارڈز اور روٹنگ](../../core_13.000_standing_integration.md#64-special-violation-rules) ملاحظہ کریں۔
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 نگہبانی اور منتظمین پر اطلاق
@@ -1174,7 +1226,7 @@ flowchart TB
 **تفصیل کہاں ہے:**
 
 - نگہبانوں اور منتظمین کے لیے مجاز کردار، مہارت اور واقعی اہم کام تک پہنچنے کے راستوں کے لیے [باب تیرہ §5 — مجاز کردار، مہارت کی نشوونما اور حصہ داری](core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛
-- بلند اثر والے نظاموں میں اس فرض کو پورا کرنے کے لیے [**CS-4**](../../corpus_systems/cs_14.305_critical_system_stewardship.md) (*اہم نظام کی نگہبانی*)؛ اور
+- بلند اثر والے نظاموں میں اس فرض کو پورا کرنے کے لیے [**CS-4**](../../corpus_systems/cs_16.305_critical_system_stewardship.md) (*اہم نظام کی نگہبانی*)؛ اور
 - عملی کام اور کمیونٹی کی مہارت کی اصولی سطح کی تصویر کے لیے [§16 نگہبانی کی تفصیل](#16-نگہبانی-کی-تفصیل)۔
 
 ان راستوں کو:
@@ -1264,6 +1316,7 @@ flowchart TB
 <br>
 
 *سادہ الفاظ میں: کسی ایک حساس جاندار کو حکمرانی میں خرابی کا پتہ لگانے، جانچنے یا چیلنج کرنے کا واحد اختیار نہیں ہونا چاہیے۔ شناخت کے کئی آزاد راستے، حفاظت اور درجہ بندی کے قواعد کے مطابق کھلا ڈیٹا اور آڈٹ، اور قبضہ یا عدم ہم آہنگی سامنے آنے پر واضح طور پر معاملہ آگے بڑھانے کا طریقہ درکار ہے — اسے معمول سمجھ کر خاموشی سے جذب نہیں کرنا چاہیے۔ یہ درجہ بندی کا اصول [§19.3.1 قبضے میں شدت کے محرکات](#1931-قبضے-کے-تصعیدی-محرکات) ہے۔*
+- یہ [§13.2 علم سے متعلق افشا کی پابندیوں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) اور **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*معلومات کی اقسام اور ان کا نظم*) اور [CS-6.310](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*ڈیٹا کی درجہ بندیاں*) کے تابع رہے گا، جن میں Type N اور اس بارے میں دوسری درجہ بندی کی پابندیاں شامل ہیں کہ کیا جمع، شائع، محفوظ یا دوبارہ تشکیل دیا جا سکتا ہے۔
 
 **کثیر فریقی شناخت اور جائزہ۔** تعریف باب پنجم میں ہے: [عدم ہم آہنگی کی شناخت](../../core_05.045_band_integrative.md#misalignment-detection)۔ خلاصہ یہ ہے:
 
@@ -1308,7 +1361,7 @@ flowchart TB
 - **دورانی جائزہ اور اصلاح:** [جائزے اور اصلاح کا فرض](../../core_05.040_band_continuity.md#review-and-correction-duty)۔
 - **اضافی جائزہ:** [§11.1 منڈی کے ارتکاز کی حد کا طریقۂ کار](core_01_a_values_principles.md#111-منڈی-کے-ارتکاز-کی-حد-کا-طریقۂ-کار-اختیار-کرنے-والا-حسب-حال-بدل-سکتا-ہے) اور [§11.2 مسابقت کا فروغ اور غلبے کے خلاف اقدام](core_01_a_values_principles.md#112-مقابلے-کا-فروغ-اور-غلبے-کی-روک-تھام)، جہاں ارتکاز یا غلبہ مادی ہو۔
 - **حیثیت اور خلاف ورزی کے طریقۂ کار:** [باب نہم — تعاون، خلاف ورزی، اور حیثیت کا ماڈل](core_08_standing_assessment.md)، جہاں تصدیق شدہ نتائج داؤ پر ہوں۔
-- **آئین مخالف بدعملی:** [باب یازدہم §5.1 ارتکاز پر مبنی تخریب: معیارات کا باہمی اثر](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، جہاں ارتکاز یا طریقۂ کار پر قبضہ آئین مخالف بدعملی بنے۔
+- **آئین مخالف بدعملی:** جہاں ارتکاز یا عمل پر قبضہ آئین مخالف بدعملی بنتا ہو وہاں [Chapter Fourteen §5.1 ارتکاز پر مبنی تخریب کاری: معیار کا باہمی تعلق](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 عدم مطابقت کی اصلاح اور قبضے کا جواب

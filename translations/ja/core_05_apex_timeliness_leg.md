@@ -81,8 +81,8 @@
 
 **適時性の測定ファミリーの葉** — 操作的測定段階：
 
-- [適時の解決](../../core_05.035_band_accountability.md#timely-resolution)
-- [解決経路の捕捉](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- **範囲外:** [Timely Resolution](../../core_05.035_band_accountability.md#timely-resolution)、兄弟リーフ、および CJS が所有するリーフ定義の詳細、測定レイヤー、および実装メカニズム。
+- [解決経路のキャプチャ](../../core_05.040_band_continuity.md#capture-of-resolution-pathways);
 
 **横断的。** 適時性は参加、監督、説明責任を貫く；それらの脚は役に立つために適時に起きなければならない。
 

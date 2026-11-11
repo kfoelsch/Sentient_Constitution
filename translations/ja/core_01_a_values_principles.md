@@ -87,7 +87,7 @@
 
 <br>
 
-*平たく言えば、第一章は他のすべての章を規律する価値と制約を定める。共有システムは**繁栄**と**継続**を一体として追求し、一方を他方の犠牲にしてはならない。また、他の価値を犠牲にして単一の価値を最大化してはならない。*
+*簡単に言えば、第1章は他のすべての章を導く価値と制約を定めます。共有システムは**繁栄**と**継続性**を同時に追求し、一方を他方の犠牲にしてはなりません。また、他の価値を損なって一つの価値だけを最大化してはなりません。*
 
 <a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>本章は、この憲法の解釈、適用、発展を規律する原則と制約を定める。[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、すなわち[**繁栄**](core_00_preamble.md#flourishing)と[**継続**](core_00_preamble.md#continuity)を、[前文 §1 モデル](core_00_preamble.md#the-model)で確立された実践的な原則と制約に展開する。原則層における正式な定義は前文に置かれ、本章はそれらを適用する。
 
@@ -95,7 +95,7 @@
 
 本章は、この二つの目的と四元を軸に構成される。
 - **繁栄：**[繁栄の目的：導入](#2-繁栄の目的導入)は目的の見取り図を示す。[§3 基礎的目的：福祉](#3-foundational-objective-wellbeing-flourishing-aim)は結果を定める。[§4 安全](#4-safety-harm-constraint)、[§5 真理](#5-truth-epistemic-integrity-constraint)、[§6 信頼](#6-trust-and-trustworthiness-coordination-integrity)、[§7 自由](#7-freedom-bounded-agency)が、それを支える四条件、すなわち安全、真理、信頼性、意味ある行為主体性を展開する。
-- **継続：**[継続の目的：導入](#8-継続性の目的序論)は目的の見取り図を示す。[§9 共有システムの能力](#9-共有システム能力)（繁栄への手段であり、同時に継続の実質）、[§10 レジリエンスと自己修復設計](#10-resilience-and-self-healing-design)、[§11 市場構造](#11-市場構造)、[§12 システム評価要件](#12-システム全体評価の要件)は、長期的安定、持続的な共有システムの能力、レジリエンスを展開する。継続に関する主張はシステム全体を誠実に捉えた像に基づかなければならず、§9「共有システムの能力」、§10「レジリエンスと自己修復設計」、§11「市場構造」の各主張は、§12「システム評価要件」の検査を経て初めて成立する。
+- **継続性：**[継続性の目的：序論](#8-continuity-aim-introduction)は目的を示す。[§9 共有システム能力](#9-shared-system-capacity)（繁栄への手段であり、継続性そのものでもある）、[§10 レジリエンスと自己修復設計](#10-resilience-and-self-healing-design)、[§11 市場構造](#11-market-structure)、[§12 システム評価要件](#12-systemic-evaluation-requirement)は、長期的安定、持続する共有システム能力、レジリエンスを展開する。継続性の主張は、システム全体を誠実に捉えた像に基づく。§9、§10、§11の各主張は、§12の評価を経て初めて成り立つ。
 - **原則が交わるとき：**[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)、[§14 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)、[§15 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)が、目的と原則の衡量および一体的な読解を規律する。
 - **実践における四元：**[§16 受託管理の詳細](core_01_c_stewardship_capacity_principles.md#16-スチュワードシップの詳説)から[§19 インセンティブ整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)までが、参加、監督、説明責任、適時性を受託管理、ガバナンス、インセンティブに組み込み、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)が本章全体を後続のすべての章に適用する。
 
@@ -146,7 +146,7 @@ flowchart TB
 - 相互に作用する原則と制約として、ともに評価されなければならない。
 - あらゆる「システム」に適用される。「システム」には、感知者と地球に実質的な影響を与える技術、組織、経済、社会技術的構造、生態系が含まれる。
 
-他の原則を実質的に侵害する場合、単一の原則を孤立して適用してはならない。緊張が生じるとき、システムは本章に定める比例性、必要性、システム影響の要件に従って解決しなければならない。未解決の衝突が交渉不能な原則上の制約に直接関わる場合、第一章**§13 憲法上の衝突解決手続**が優先関係を定める。
+ある原則を単独で適用すると他の原則に重大な違反を生じる場合、その原則を単独適用してはならない。緊張が生じた場合、システムは本章に定める比例性、必要性、システム影響の要件に従って解決しなければならない。未解決の衝突が譲れない原則上の制約に直接関わる場合は、**§13** 憲法上の衝突解決手続が優先順位を決める。
 
 <a id="2-flourishing-aim-introduction"></a>
 ### 2. 繁栄の目的：導入
@@ -255,7 +255,7 @@ flowchart TB
 - 違反の重大性がどう分類されるか
 - どのような結果が伴うか
 
-[**第九章**](core_08_standing_assessment.md)の地位モデルは、これらの認定をどのように分類、検証、適用するかを規律し、評価と遵守の要件は[**第二章から第五章**](core_02_definition_structure.md)に基づく。
+スタンディング・モデル — 記録を扱う[**第十一章**](../../core_11.000_standing_assessment.md)と測定を扱う[**第十二章**](../../core_12.000_standing_measurement.md) — が、認定事項の分類、検証、適用を規律し、評価および遵守要件は[**第二章から第五章**](../../core_02.000_definition_structure.md)に由来する。
 
 <a id="3-foundational-objective-wellbeing-flourishing-aim"></a>
 
@@ -312,10 +312,10 @@ flowchart TB
 - あわせて読む：[憲法上の四元](core_00_preamble.md#constitutional-tetrad) — **参加**の脚（アクセス、発言権、異議申立て可能性。一般的要件であり、[利害関係者システム参加](../../core_05.055_band_participation.md#stakeholder-status-and-weight)だけを指すものではない）；利益と負担が伴う場合は**説明責任**の脚。
 - 上流：原則：[§3 基礎的目的：福祉](#3-foundational-objective-wellbeing-flourishing-aim) — [参加](core_05_apex_participation_leg.md#participation-constitutional)の基礎としての福祉を含む。
 - 下流：[3.2 承認、強化、志向](#32-recognition-reinforcement-and-aspiration)；[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)、[§16 受託管理の詳細](core_01_c_stewardship_capacity_principles.md#16-スチュワードシップの詳説)、[13. 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)、[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)。優先順位や配分の選択に一貫性があり、審査可能でなければならない場合に適用する。
-- 小節（読解順）：[§3.1.1](#311-アクセスと機会) · [§3.1.2](#312-利益と負担) · [§3.1.3](#313-公正な取扱い) · [§3.1.4](#314-不公正な取扱い)。
+- 小節（読解順）：[§3.1.1](#311-アクセスと機会) · [§3.1.2](#312-利益と負担) · [§3.1.3](#313-公正な取扱い) · [§3.1.4](#314-不公正な取扱い) · [§3.1.5 現時点の能力と先回りした支援](#315-present-capability-and-proactive-help)。
 - 下流：平等な地位、恣意的でない取扱い、実質的な異議申立て、比例的制限の限界に関する権利の範囲を形づくる。
   - 特に[第VI条：平等な基本的権利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第VI-C条：差別禁止](core_06_rights_part_b.md#article-vi-c-差別の禁止)、[第X条：自己決定、行為主体性、参加](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XIII-B条：救済と是正への権利](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)、[第XIX-B条：異議申立て可能性と比例的制限の限界](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)。
-  - 反憲法的な指定が制裁や長期的効果を伴う場合は、[第十一章 §4 — 適正手続の保障、救済、予防](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)とあわせて読む。
+  - 反憲法的指定に制裁または持続的効果が伴う場合は、[第十四章第4節 — 適正手続上の保障、救済および防止](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)（14.000）と併読する。
   - 差別禁止の約束は第五章の[§2 — 保護対象特性、代理指標化、親密シグナルによるゲート設定、および**第VII-E条**（*成人の合意に基づく商業的性サービスと性的搾取*）の地位](../../core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)を通じて詳述される。§2.1.3の公正な取扱い規則が親密シグナルによるゲート設定または**第VII-E条**（*成人の合意に基づく商業的性サービスと性的搾取*）に関わる場合は、[保護対象の親密シグナルによるゲート設定と**第VII-E条**の地位の潜脱](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)も参照する。
 - あわせて読む：利益、負担、報酬、費用、義務、リスク、貢献、必要性、曝露が重大な意味を持つ場合は[実質的公正](../../core_05.055_band_participation.md#substantive-fairness)および関連する第六章の権利最低保障上の義務；§2.1.1のアクセス経路が重要な場合は[アクセシビリティ](../../core_05.055_band_participation.md#accessibility)；集計指標やスコアボード効果が重要な場合は[代理指標の乖離](core_05_band_oversight.md#代替指標の乖離)。
 
@@ -353,7 +353,7 @@ flowchart TB
 
 この小節では、アクセスと機会が実際に何を意味するかを示す。
 
-- 感知者には、通常の暮らしに重要な[参加](core_05_apex_participation_leg.md#participation-constitutional)、教育、仕事、ケア、安全、移動、その他の財への実際的な経路が必要である。
+- 感覚を持つ存在には、[参加](../../core_05.025_apex_participation_leg.md#participation-constitutional)、教育、仕事、ケア、安全、移動、その他日常生活に重要なものへ進む実用的な経路が必要です。
 - その経路を恣意的または無関係な理由で塞いだり、費用を過大にして利用できなくしたり、遅らせたり、隠したり、偏らせたりしてはならない。
 - この憲法が**実質的な**機会を求める場合、書面上だけ開かれている入口では不十分である。
 
@@ -373,8 +373,8 @@ flowchart TB
 - 類似の状況にある感知者には、同じ基本規則を適用する。
 - 感知者が受け取るもの、負う義務、さらされるリスクは、その貢献、必要性、または実際に負う負担に見合うべきである。
 - 異なる取扱いには実質的な理由があり、その理由に比例し、尊厳を尊重し、差別を避けなければならない。
-- 詳細な規則は第五章で定める。[保護対象特性](../../core_05.055_band_participation.md#protected-characteristics)および[保護対象特性の代理指標化と不均衡な影響](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)を含む。
-- 決定が人に重大な影響を与える場合、またはその人が決定に異議を申し立てる場合、第六章または適用される文書が通知、聴聞、説明、審査を求めるところでは、審査経路は[手続的公正](../../core_05.055_band_participation.md#procedural-fairness)を満たさなければならない。
+- 詳細な規則は第5章で実施され、[保護対象特性](../../core_05.055_band_participation.md#protected-characteristics)および[保護対象特性の代理指標と不均衡な影響](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)を含みます。
+- 決定が誰かに重大な影響を及ぼす場合、またはその人が決定に異議を申し立てる場合、第6章または適用される統治文書が通知、聴聞、説明、もしくは審査を求めるときは、審査経路が[手続的公正](../../core_05.055_band_participation.md#procedural-fairness)を満たさなければなりません。
 
 [§3 基礎的目的：福祉](#3-foundational-objective-wellbeing-flourishing-aim)に照らして、主張される福祉が恣意的な排除、説明のない不安定な規則、隠れた搾取、または参加を意味あるものにする公正の条件が崩れているのに形式的な[参加](core_05_apex_participation_leg.md#participation-constitutional)だけに依存するなら、その主張は整合しない。
 
@@ -386,9 +386,29 @@ flowchart TB
 - 親密な個人情報や性的経歴を、信頼、リスク、人格、アクセスの代替指標として用いる — [保護対象の親密シグナルによるゲート設定と**第VII-E条**（*成人の合意に基づく商業的性サービスと性的搾取*）の地位の潜脱](../../core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)を参照。
 - 憲法上有効な理由なく、合法的な雇用、雇用歴、非雇用状態、合法的な就労資格、保護される結社を罰する。
 - 合法的なあらゆる形態の雇用、過去の合法的な雇用、合法的な雇用の認識、または非雇用状態を**主な理由として**、仕事、住居、銀行サービス、免許、地位、または同様のアクセスを否定する。
-- この憲法が求める正当化なしに、合法的な就労、就労歴、合法的な就労と認識される状態、非雇用状態、または保護される結社に主として負担を課す、免許、ゾーニング、手数料、プラットフォーム規則、その他の中立的に見える要件を通じて重大な不利益を生じさせる。
+- 許認可、ゾーニング、手数料、プラットフォーム規則、その他中立に見える要件によって、適法な仕事やその履歴、適法と認識された仕事、非雇用、または保護される結社に主として負担を課し、本憲法が求める正当化を欠く重大な不利益を生じさせること。
 
 この四つの部分は、感知者がシステムを信頼し、その決定を受け入れ、その約束を前提に協調する必要がある場合に、[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)も支える。
+
+<a id="315-present-capability-and-proactive-help"></a>
+##### 3.1.5 現時点の能力と先回りした支援
+
+この小節では、システムが感知者の現在の能力をどう扱うべきか、また感知者が応答できないときに何をすべきかを定める。
+
+- **現在の能力：** システムは、目の前の作業や判断について、感知者が今できることを評価する。以前できたこと、診断やラベル、平均的な感知者にできることを根拠にしてはならない。能力は低下し、回復し、日ごとに変わることがある。何年も期限どおりに支払った実績は現在の能力を証明せず、過去に能力が限られていたとの判定も、それを恒久的なものにしない。
+- **生存に必要なものを応答の条件にしない：** 生存に欠かせないものの維持を、感知者が応答できること、助けを求められること、または今は遂行できない手続に従えることの条件としてはならない。この要請の程度は[重大な利害](../../core_00.000_preamble.md#material-stake)と[依存関係](../../core_05.040_band_continuity.md#dependency)に応じて高まる。
+- **連絡を試みる：** 何か重要なものをシステムに依存する感知者が応答を止めたとき、なぜ沈黙しているのかを知る必要なく、システムは最も侵襲性の低い手段で連絡を試み、助けにつなげなければならない。
+- **代行より先に支援する：** システムは感知者自身の判断を代行する前に、支援や配慮を提供する。判断は感知者自身のものであり、本人が可能になり次第、本人に戻る。能力が低下しても感知者の権利の最低保障は縮小せず、選択を制限する場合は[§7.1 制限の規律](#71-limitation-discipline)を満たさなければならない。
+- **内面の状態を推測しない：** アウトリーチは、連絡への無応答や利害の大きさなど、システムが観察できる事実に基づく。健康状態や精神状態の推測には基づかない。そうした内面状態は[保護対象の内面状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)によって保護される。
+
+次の限界も適用される。
+
+- **つなぐことは治療することではない：** システムの義務は、感知者への連絡を試み、本人が選んだ連絡先、支援・ケアサービス、または**第III-B条**（*身体維持と医療へのアクセス*）に基づく経路などの助けにつなぐことである。本人の同意なしに行うことはすべて、**第VII-C条**（*健康危機と非自発的介入の最低保障*）の適用を受ける。
+- **連絡先とデータ：** 信頼できる連絡先を使えるのは感知者が事前に選んでいた場合に限られ、共有できる情報も応答を得るために必要なものだけである。連絡には、その目的ですでにシステムが保有している連絡先情報を用いる。アウトリーチを理由に、追加のデータを収集してはならない。
+
+これは[§3.1.1 アクセスと機会](#311-アクセスと機会)および[§3.1.3 公正な取扱い](#313-公正な取扱い)を基礎とし、システムが影響を与える感知者について[§16 柱2 — 先回りしたスチュワードシップ](../../core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship)を適用する。発達途上にある感知者については、実際にできることに基づいて成長を評価する[段階的能力](../../core_05.055_band_participation.md#graduated-capability)と連携する。
+
+この五つの部分は、感知者がシステムに依存し、その決定を受け入れ、またはその約束を前提として協調する場面で、[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)も支える。
 
 <a id="32-recognition-reinforcement-and-aspiration"></a>
 
@@ -396,11 +416,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む：[憲法上の四元](core_00_preamble.md#constitutional-tetrad) — 名指しの承認、称賛、志向の経路が発言権、地位、重大な役割へのアクセスに実質的な影響を与える場合は**参加**の脚；裏切り、隠蔽、説明責任の回避への報酬を防ぐ**説明責任**の脚；追跡可能で誤解を招かない称賛を求める**監督**の脚。
+- あわせて読む：[憲法上の四元](core_00_preamble.md#constitutional-tetrad) — 承認、称賛、志向の経路が発言権、地位、重大な役割へのアクセスに実質的な影響を与える場合は**参加**の脚；裏切り、隠蔽、説明責任の回避への報酬を防ぐ**説明責任**の脚；追跡可能で誤解を招かない称賛を求める**監督**の脚。
 - 上流：原則：[§3 基礎的目的：福祉](#3-foundational-objective-wellbeing-flourishing-aim) — [参加](core_05_apex_participation_leg.md#participation-constitutional)の基礎としての福祉を含む；[§3.1 公正](#31-fairness)。
 - 下流：[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)；[§16 受託管理の詳細](core_01_c_stewardship_capacity_principles.md#16-スチュワードシップの詳説)；[§18 受託管理規律のもとでのガバナンス](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)；[§7 自由](#7-freedom-bounded-agency)。
 - あわせて読む：分野に沿った承認、または比較を伴う**貢献軸／違反軸**の記述が重要な場合は、[第九章 §§4.3–4.4 — 標準化された記述子カタログ](core_08_standing_assessment.md#43-route-descriptor-measurement-roles)。
-- あわせて読む：貢献の性質や承認の記述が重要な場合は、[第九章 §4.3 — 貢献側の記述子](core_08_standing_assessment.md#43-route-descriptor-measurement-roles)；それらを設問3に統合する方法は[第十章 §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)。
+- 併読：[第十二章 §3.1 — 貢献側の記述子](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles)（12.000 §3.1）は、貢献の性質と承認のナラティブが重要な場合に適用する。[第十三章 §4](../../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization)（13.000 §4）は、それらを問い3に統合する。
 - あわせて読む：承認の形式、可視性、辞退に関する選好が重要な場合は、[第X条：自己決定、行為主体性、参加](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)。
 - 小節（読解順）：[§3.2.1](#321-承認と強化) · [§3.2.2](#322-成功の祝賀) · [§3.2.3](#323-志向) · [§3.2.4](#324-選好に沿った承認) · [§3.2.5](#325-整合した承認経路) · [§3.2.6](#326-反憲法的行為への報酬禁止) · [§3.2.7](#327-実施層)。
 
@@ -420,7 +440,7 @@ flowchart TB
 
 <br>
 
-*平たく言えば、福祉とは禁止事項や公正さだけではない。共有システムは、真理と権利の範囲内で、実際の参加の代わりにするのではなく、それを支える形で、繰り返してほしい行動を誠実に称え、報いるべきである。成功を祝うとは、誇張や操作された指標ではなく、実際の貢献、修復、完了を評価することだ。また、制度上の優位を生んだとしても、憲法への裏切り、隠蔽、報復、説明責任の回避に報酬を与えないことも意味する。*
+*簡単に言えば、ウェルビーイングは、禁止事項や公正さだけではありません。共有システムは、真実と権利の範囲内で、実質的な参加を支え、その代わりにはならない形で、繰り返してほしい行動を誠実に称え、報いるべきです。成功を祝うとは、誇張や操作された指標ではなく、実際の貢献、修復、完了を評価することです。また、それによって組織が得をしていたとしても、憲法への背反、隠蔽、報復、説明責任の回避に報酬を与えないことも意味します。*
 
 **三つの側面。** 福祉は、システムが何を禁じ、費用をどれほど公正に分配するかだけでなく、何に価値を認め、何を強化し、感知者が何を追求するのを助けるかにも左右される。本節では承認、強化、志向に関する義務を定める。発言権、地位、アクセスに実質的な影響を与える承認と称賛は、[参加](core_05_apex_participation_leg.md#participation-constitutional)と整合しなければならない。[§3 基礎的目的：福祉](#3-foundational-objective-wellbeing-flourishing-aim)および[§3.1 公正](#31-fairness)のもとで適用する。本節は[§3.1 公正](#31-fairness)とともに適用し、安全、真理、第六章の権利最低保障によって制約される。
 
@@ -436,21 +456,21 @@ flowchart TB
 <a id="322-celebration-of-success"></a>
 ##### 3.2.2 成功の祝賀
 
-**祝賀**は、追跡可能で**誤解を招かない**成果と、他者の利益になる協調を称える。検証済みの[貢献](../../core_05.035_band_accountability.md#contribution-nature)に結びついた向上や受託管理の記述も含まれる。
+**祝賀**は、**追跡可能**で**誤解を招かない**成果と、社会に資する協調を称えるものです。これには、検証済みの[貢献](../../core_05.035_band_accountability.md#contribution-nature)に結び付いた鼓舞やスチュワードシップの物語が含まれます。
 
 祝賀は次のようなものであってはならない。
 - 代理指標の最適化が根本の憲法上の目的から乖離した場合に、目的の実際の進展に取って代わること（[§3 基礎的目的：福祉](#3-foundational-objective-wellbeing-flourishing-aim)）
-- 称賛や名声の**捕捉**になること（[§19 インセンティブ整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)）
+- 称賛や名声の**囲い込み**になること (../../[§19 インセンティブ整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture))
 - 安全、真理、権利保障が関わる場合に説明責任の回避を免責すること
 
 <a id="323-aspiration"></a>
 ##### 3.2.3 志向
 
-**志向**とは、[§7 自由](#7-freedom-bounded-agency)の範囲内で表明される選好や追求される目的を指す。尊厳、平等な地位、安全、真理、[実質的公正](../../core_05.055_band_participation.md#substantive-fairness)に適合する場合、志向は福祉の一部である。
+**志向**には、表明された選好と[§7 自由](#7-freedom-bounded-agency)の範囲内で追求される目標が含まれます。尊厳、対等な地位、安全、真実、[実質的公正](../../core_05.055_band_participation.md#substantive-fairness)と両立するとき、それはウェルビーイングの一部です。
 
 その範囲内で、システムは感知者が合法的に追求したいことを**認め、支援する**べきである。
 
-何かを望むこと自体が免責になるわけではない。同意、尊厳、安全、真理、実質的公正、または**第六章**の保障が重大な利害となる場合、その追求も他の憲法上の主張と同様に憲法上の衝突分析の対象となる。
+何かを望むことは無条件の許可ではありません。同意、尊厳、安全、真実、実質的公正、または**第六章**の保護が重大な利害に関わる場合、その志向も他の憲法上の請求と同様に、憲法上の衝突分析の対象となります。
 
 <a id="324-preference-aligned-recognition"></a>
 ##### 3.2.4 選好に沿った承認
@@ -466,7 +486,7 @@ flowchart TB
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 整合した承認経路
 
-地位、**資源**、または**実質的なアクセス**を配分する、名指しの承認経路、称賛、賞、認証、地位、評判上の効果、その他同等のインセンティブは、真理、安全、第六章が定める場合の異議申立て可能な手続、[参加](core_05_apex_participation_leg.md#participation-constitutional)、[インセンティブ整合](core_05_band_integrative.md#誘因整合)と整合しなければならない。
+地位、資源、または実質的なアクセスを**配分する**、表彰経路、称賛、賞、認証、地位、評判への影響、その他同等のインセンティブは、真実、安全、**第六章**が定める場合の異議申立て可能な手続、[参加](../../core_05.025_apex_participation_leg.md#participation-constitutional)、および[インセンティブ整合](../../core_05.045_band_integrative.md#incentive-alignment)と整合しなければなりません。
 
 これらは、危害、欺瞞、監視回避、搾取、意味ある行為主体性の侵食に体系的に報いてはならない。
 
@@ -513,7 +533,7 @@ flowchart TB
 
 *平たく言えば、統治、執行、裁定、制限、救済のいずれを行う場合も、感知者を屈辱、公の見せ物、報復、「こちらの都合がよいから」という残虐さにさらしてはならない。公正な結果責任、公的説明責任、確かな制限は、苦痛や恥を伴っても合法であり得る。越えてはならないのは、保護、是正、回復、予防ではなく、品位を傷つけ、恥をかかせ、怒りをぶつけるために過程自体が罰として設計されている場合である。この原則は、権利を衡量するときだけでなく、憲法上の権限が及ぶすべての場面で適用される。*
 
-**この原則の性質：**これは[§3 福祉](#3-foundational-objective-wellbeing-flourishing-aim)の下にある横断的な品位の最低線である。[§3.1 公正](#31-fairness)や[§3.2 承認、強化、志向](#32-recognition-reinforcement-and-aspiration)のように独自の実質的な作業を追加するものではないが、福祉に関する作業、受託管理、その他あらゆる憲法上の過程の**実施方法**を制約する。[§16 受託管理の詳細](core_01_c_stewardship_capacity_principles.md#16-スチュワードシップの詳説)の三本柱と、[§17 重大な結果を伴う受託管理](core_01_c_stewardship_capacity_principles.md#17-結果を左右するスチュワードシップスチュワードの役割)で定める受託者の役割も含まれる。
+**その内容：** [§3 ウェルビーイング](#3-foundational-objective-wellbeing-flourishing-aim)の下で、活動の性質を横断的に制約する最低基準である。[§3.1 公正](#31-fairness)や[§3.2 承認・強化・志向](#32-recognition-reinforcement-and-aspiration)のように独自の実体的作業を加えるのではなく、ウェルビーイング、スチュワードシップその他あらゆる憲法上の手続を*どのように*行うかを制約する。これには[§16 スチュワードシップの詳細](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth)の三つの柱と、[§17 結果責任を伴うスチュワードシップ](../../core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)で定義されるスチュワードの役割も含まれる。
 
 **品位を損なわない過程の原則。**憲法上の過程、措置、結果は、この原則を満たさなければならない。
 
@@ -527,9 +547,9 @@ flowchart TB
 - 差別的な負担
 - 権利より手続上の便宜を優先すること
 
-禁止される性質が、苦痛それ自体を目的とすること、または必要性と比例性を超える無用もしくは品位を損なう加害（それ自体を目的とする屈辱を含む）である場合、第五章の定義は[残虐行為](../../core_05.035_band_accountability.md#cruelty)に該当する（同項目の屈辱の類型）。
+禁止される性質が、苦痛をそれ自体の目的とすること、または必要性と比例性を超える不当・貶辱的な加害（屈辱を与えること自体を目的とする場合を含む）であるとき、第5章で該当する定義は[残虐行為](../../core_05.035_band_accountability.md#cruelty)である（同項目の下位類型として屈辱を含む）。
 
-**厳しいというだけでは禁止されない。** 通常の公的説明責任、理由を示した公表、検証済みの制限、比例的な救済は、不快または評判を損なうものであっても合法であり続ける。
+**厳しいというだけで禁止されるわけではない。** 通常の公的説明責任、理由を示した公表、確認済みの制限、または比例的な救済は、不快であったり評判に不利益であったりしても、なお適法である。
 
 **設計と実施。** 過程を、品位の毀損、屈辱、見せ物、報復、差別的負担、便宜のための権利侵食として設計、構成、実行したり、そのように機能させたりしてはならない。
 
@@ -544,7 +564,7 @@ flowchart TB
 
 [§13.1.4 憲法上の最低線、安全、品位を損なわない過程](core_01_b_interaction_interpretation.md#1314-憲法上の最低保障安全尊厳を損なう手続の禁止)のもとで絶対的な最低線としても機能するが、衡量の枠組みに限られるものではない。
 
-**検出と異議申立て。** 過程の性質には、実質的な結果と同じ[異議申立て可能性](../../core_05.035_band_accountability.md#contestability)および[監督](core_05_apex_oversight_leg.md#oversight-constitutional)の要件が適用される。影響を受ける当事者は、実質的な結果が別の点では合法であるかどうかにかかわらず、過程の性質に独立して異議を申し立てることができる。品位を損なう過程を通じて適切な結果を届けても、遵守したことにはならない。
+**検知と異議申立て。** 手続の性質には、実体的な結果と同じ[争訟可能性](../../core_05.035_band_accountability.md#contestability)および[監督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)の要件が適用される。影響を受ける当事者は、実体的な結果がそれ自体では適法であったかどうかにかかわらず、手続の性質に異議を申し立てられる。貶辱的な手続を通じてもたらされた正しい結果は、なお不適合である。
 
 <a id="4-safety-harm-constraint"></a>
 
@@ -577,11 +597,11 @@ flowchart TB
 
 <br>
 
-*平易に言えば、システムを構築または運用することで、感覚ある存在やその依存するシステムに対する、封じ込められない害、連鎖的障害、不可逆的損害のリスクを予見可能な形で高めてはならない。*
+*平易に言えば、sentientや彼らが依存するシステムに対する、封じ込められない危害、連鎖的障害、または不可逆的損害のリスクを予見可能な形で高める方法で、システムを構築・運用してはなりません。*
 
-安全は、システムの設計、運用、統治に対する交渉の余地のない原則上の制約であり、[**繁栄**](#flourishing)の明示された構成要素である。また、共有システムが予見可能な害のリスクを生むあらゆる場面で、[**継続性**](#continuity)の基準線となる。詳しい定義、評価基準、遵守テストは[**第2章から第5章**](core_02_definition_structure.md)にあり、特に[害](../../core_05.035_band_accountability.md#harm)、[不可逆的な害](../../core_05.035_band_accountability.md#irreversible-harm)、[リスク](../../core_05.040_band_continuity.md#risk)、[重大性](../../core_05.050_band_oversight.md#materiality)、[依存性](../../core_05.040_band_continuity.md#dependency)、[予見可能性](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)を扱う。
+安全性は、システムの設計、運用、統治に適用される交渉不可能な原則上の制約です。[**Flourishing**](#flourishing)の明示された構成要素であり、共有システムが予見可能な危害リスクを生じさせる場合には[**Continuity**](#continuity)の最低基準となります。詳細な定義、評価基準、遵守テストは[**第2章から第5章**](../../core_02.000_definition_structure.md)、とりわけ[危害](../../core_05.035_band_accountability.md#harm)、[不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm)、[リスク](../../core_05.040_band_continuity.md#risk)、[重要性](../../core_05.050_band_oversight.md#materiality)、[依存](../../core_05.040_band_continuity.md#dependency)、[予見可能性](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)に定められています。
 
-システムは、本憲法に反して、封じ込められない害のリスク、連鎖的障害の可能性、または不可逆的な害への曝露を予見可能な形で高めるように行動してはならず、そのような行動を怠ってもならない。
+この憲法に反して、封じ込められない危害のリスク、連鎖的障害の可能性、または不可逆的危害への曝露を予見可能な形で高める行為を、システムは行ってはならず、そのような行為を怠ってもなりません。
 
 <a id="5-truth-epistemic-integrity-constraint"></a>
 
@@ -614,7 +634,7 @@ flowchart TB
 
 *平易に言えば、システムは人を欺き、歪曲し、抑圧し、または誤解させるよう出力を構成してはならない。影響の大きい決定は、誠実な証拠、明示された手法、認識された不確実性、反対の知見に対する真摯な開放性に基づかなければならない。*
 
-真実は交渉の余地がない。仕事の進め方も他者に伝えることも誠実でなければならない。真実は[**繁栄**](#flourishing)の中核的な部分である。また、[**継続性**](#continuity)にも必要となる。長続きするよう築かれたものは、誠実な証拠と、実際に何が起きているかについての正確な把握に依存するためである。詳しい定義、評価基準、遵守テストは[**第2章から第5章**](core_02_definition_structure.md)にあり、特に[認識論的完全性](core_05_band_oversight.md#認識的誠実性)、[真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約)、[重大性](../../core_05.050_band_oversight.md#materiality)、[依存性](../../core_05.040_band_continuity.md#dependency)、[予見可能性](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)を扱う。
+真実は妥協できません。業務の進め方と他者に伝える内容の双方で誠実でなければなりません。真実は[**Flourishing**](#flourishing)の中核であり、[**Continuity**](#continuity)にも必要です。長く続くものは、誠実な証拠と実際に何が起きているかの正確な把握に依存するからです。詳細な定義、評価基準、遵守テストは[**第2章から第5章**](../../core_02.000_definition_structure.md)、特に[認識論的完全性](../../core_05.050_band_oversight.md#epistemic-integrity)、[真実（憲法上の制約）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)、[重要性](../../core_05.050_band_oversight.md#materiality)、[依存](../../core_05.040_band_continuity.md#dependency)、[予見可能性](../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable)に定められています。
 
 システムは、何が起きているかを理解し、情報に基づく決定を行い、伝えられた内容を確かめる感覚ある存在の能力を損なってはならない。これには、嘘をつくこと、歪曲すること、情報を隠すこと、誤解を招く目的で提示することが含まれる。
 
@@ -630,7 +650,7 @@ flowchart TB
 - 下流：[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)、[§16 責任管理の詳細](core_01_c_stewardship_capacity_principles.md#16-スチュワードシップの詳説)、[13.2 認識情報の開示に関する制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)、[第八章 §3 全システム認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§18 責任管理規律下のガバナンス](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 - 下流：信頼できる経験的証拠、専門家証拠の基準、科学出版と再現性の完全性、独立検証、ライフサイクル試験、根本原因の検討、安全に関わる開示に関する権利の範囲を形作る。
   - 特に、[第XIII条：信頼できるシステムに対する権利](core_06_rights_part_c.md#第xiii条信頼性があり信頼に値するシステムへの権利)、[第XVI条：監査、透明性および独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XVIII-E条：科学出版、審査、再現の完全性](core_06_rights_part_c.md#第xv-d条科学出版審査再現の完全性)、[第XXIII条：根本原因分析と適応的対応](core_06_rights_part_d.md#第xxiv条-根本原因分析と適応的対応)、[第XXV-A条：遡及的審査と開示](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)が該当する。
-- 併読：[第十二章 §4.2 — 技術フォーラムの領域](core_11_forum.md#42-technical-forum-domains)（*共通基準と領域の置き換え防止を含む*）。専門家証拠の基準、認証された技術的論点、証拠の責任管理をめぐる紛争が重要な場合に参照する。採用された専門ルートについては[corpus_forum.md CF-10](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md)（*技術専門フォーラムおよび専門審議部*）を参照。
+- 併読：[第十五章 §4.2 — 技術フォーラム領域](../../core_15.000_forum.md#42-technical-forum-domains)（15.000 §4.2）（*共有基準および置換防止を含む*）。専門家証拠の基準、裁定すべき技術的論点、証拠管理上の紛争が重要な場合に適用する。採択済みの専門ルートについては[CF-15.440](../../corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md#cf-15440-technical-specialist-forums-and-specialist-chambers)（*技術専門フォーラムおよび専門部*）を参照。
 
 </details>
 
@@ -651,11 +671,11 @@ flowchart TB
 
 <br>
 
-*平易に言えば、システムが安全、リスク、真実、または重大な影響をもたらす統治について検証可能な主張をする場合、証拠を証拠として扱わなければならない。明確な手法、不確実性への配慮、精査、事実に応じて方針を変える意志が必要である。*
+*平たく言えば、システムが安全性、リスク、真実、または影響の大きい統治について検証可能な主張をするなら、明確な方法、不確実性の認識、精査、事実に応じて方針を変える意思をもって、証拠を証拠として扱わなければならない。*
 
-科学に基づく探究は、憲法上の決定が経験的、予測的、因果的、測定可能、またはその他の検証可能な命題に基づく場合に、**安全**と**真実**を支える必須の補助的規律である。これは安全と真実とは別個の第三の交渉不可能な制約ではない。検証済みの証拠と明確な手法で主張を確かめ、これらの制約が実践でも真実を保ち、誤りがあれば是正でき、実際に分かっていることに見合うようにする要件である。
+憲法上の決定が、経験的、予測的、因果的、測定可能、またはその他の方法で検証可能な命題に基づく場合、科学的知見に基づく調査は**安全**と**真実**を支える必須の補助的規律である。これは安全と真実とは別個の第三の絶対的制約ではない。検証済みの証拠と明確な方法で主張を確かめ、実務上も両制約が真実に即し、誤りがあれば訂正でき、実際に分かっていることに見合うようにする要件である。
 
-予測、因果関係の主張、分類、その他の**重大な影響をもたらす**決定を含む統治上の選択が、**経験的**または**検証可能な**命題に基づく場合、証拠に関する実務は**科学的完全性**に沿わなければ**ならない**。少なくとも、実行可能な範囲で、決定記録には次を含めるべきである。
+予測、因果関係の主張、分類、その他の**高影響**の決定を含む統治上の選択が、**経験的**または**検証可能な**命題に基づく場合、証拠に関する実務は**科学的誠実性**に沿わ**なければならない**。実行可能な範囲で、決定記録には少なくとも次を含めるべきである。
 - 明示された問いまたは仮説
 - **手法**、**データの限界**、**不確実性**
 - **相反する証拠**を誠実に扱い、証拠が以前の結論または前提を否定した場合に**見直すこと**
@@ -663,15 +683,15 @@ flowchart TB
 
 科学的方法、体系的探究、査読が基準を定めるが、許容される手続はそれだけではない。求められる形式性の程度は利害の大きさによって異なる。影響が大きい決定には、[分類に応じたガバナンス](core_05_band_oversight.md#分類に応じた統治)に基づく、より厳格な証拠実務が必要となる。
 
-適切な専門家証拠とは何か、どの手法が妥当か、誰が証拠を管理するかが争点であれば、その問いを扱うフォーラムに付託する。[第十二章 §4.2 技術フォーラムの領域](core_11_forum.md#42-technical-forum-domains)の**技術フォーラムの領域**を参照。技術フォーラムは分野横断で基準の一貫性を保ち、認証された技術的論点に回答できる。利害の性質を理由に、別のフォーラムが扱うべき事件を引き受けることはない。
+何が適切な専門家証拠に当たるか、どの方法が妥当か、誰が証拠を管理するかが争点なら、その問いを扱うフォーラムに付託する。[第十五章 §4.2 技術フォーラム領域](../../core_15.000_forum.md#42-technical-forum-domains)の**技術フォーラム領域**を参照。技術フォーラムは各分野で基準の一貫性を保ち、裁定のための技術的質問に答えることができる。争点の性質上ほかのフォーラムに属する事件を引き受けるものではない。
 
-安全を理由に、公開または共有する情報を制限することが正当な場合もある。たとえば、データへのアクセス、手法の仕組み、研究の再現に必要な資料である。そのような制限は、次の根拠に基づく場合に限り認められる。
+安全上の理由から、公開・共有する情報を制限することが妥当な場合がある。たとえば、データへのアクセス、方法の仕組み、研究の再現に必要な資料などである。そのような制限は、次に基づく場合にのみ許される。
 
 - [13.2 認識情報の開示に関する制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)
 - 上記の第5章の定義
 - 該当する第6章の権利基準線
 
-その場合も、安全を保てる範囲で最大限の誠実さと検証可能性を維持する。保護された記録、独立審査、公開の延期、墨消し、安全なアクセスなどを利用する。好ましくない証拠を埋もれさせ、安全上の欠陥を隠し、合意が実際より強いように見せるために制限を利用してはならない。
+その場合も、安全に可能な限り誠実さと検証可能性を保つ。保護された記録、独立審査、公開の延期、墨消し、安全なアクセスなどを用いる。望ましくない証拠を隠す、安全上の欠陥を覆い隠す、または合意が実際以上に強いように見せるために、制限を用いてはならない。
 
 <a id="52-plain-language-accessibility-participation-and-stewardship-duty"></a>
 #### 5.2 平易な言葉によるアクセシビリティ（参加および責任管理の義務）
@@ -718,19 +738,19 @@ flowchart TB
 - 感覚ある読者に届く監査・検証記録
 - 利用規約や同意画面など、これらに類するもの
 
-情報が届く媒体は問わない。文書、インターフェース、口頭のメッセージ、その他の経路のいずれでもよい。影響を受けるすべての感覚ある存在が利用できる平易な言葉の版を提供する経路は、この義務を満たす。これは[第VI-D条](core_06_rights_part_b.md#第vi-d条アクセシビリティ)（*アクセシビリティ*）および[感覚ある存在の非排除](../../core_05.055_band_participation.md#sentience-non-exclusion)に従うものである。
+情報が届く方法は問わない。文書、インターフェース、音声メッセージその他のチャネルを問わず、影響を受けるすべてのsentientがアクセスできる平易な版を提供すれば、そのチャネルは義務を満たす。これは[第VI-D条](../../core_06.005_rights_part_b.md#article-vi-d-accessibility)（*アクセシビリティ*）および[Sentience Non-Exclusion](../../core_05.055_band_participation.md#sentience-non-exclusion)に従う。
 
 <a id="522-the-duty"></a>
 ##### 5.2.2 義務
 
-[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化)に基づき、運用者とガバナンス機関は次のことを行わなければならない。
+[§13.3 回避可能な負担の最小化](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden)に基づき、運営者および統治機関は次を行わなければならない。
 
 - 重要な意味を保てる限り、専門用語や不必要に複雑な言い回しではなく、平易で直接的な言葉を使う。
 - 感覚ある存在が密度の高い技術資料を扱う必要がある場合、平易な言葉による要約や導入説明を示す。
-- 感覚ある存在が必要な情報を見つけ、余計な労力をかけずに読めるよう文書を構成する。これは[第IV条](core_06_rights_part_a.md#article-iv-感知者中心の教育を受ける権利)（*感覚ある存在を中心とする教育への権利*）が認める学習上の利益を支える。
+- sentientsが必要な情報を見つけ、余計な負担なく読めるように文章を構成する。これは[第IV条](../../core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education)で認められる学習上の利益を支える（*sentient中心の教育を受ける権利*）。
 - 複雑さを、伝達すべき内容に見合う範囲に保つ。
 
-憲法上の目的に役立たず、物事を難しくする複雑さは、[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)の欠陥であり、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化)の下で扱われる。また、[第XXII条](core_06_rights_part_d.md#第xxiii条-理解可能性と複雑性の管理)（*理解可能性と複雑性の責任管理*）に照らしても問題となる。
+憲法上の目的に役立たず、物事を難しくする複雑さは、[§13.3 回避可能な負担の最小化](../../core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden)に基づく[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)の欠陥である。また、[第XXIII条](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)（*理解可能性と複雑性の管理責任*）においても問題となる。
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 定義の厳密さの維持
@@ -740,22 +760,22 @@ flowchart TB
 - 第五章の定義とそのO/M/A/C構成要素
 - 第2章から第4章までの定義の仕組み
 
-表現を簡単にしても意味は変わらない。平易な要約と、その要約対象である正式な定義が異なることを述べているように見える場合は、正式な定義が優先される — 要約を定義に合うよう修正しなければならない。
+より簡単な言葉で書いても意味は変わらない。平易な要約と、その要約対象である正式な定義が異なる内容を述べているように見える場合、正式な定義が優先され、要約はそれに合うよう修正しなければならない。
 
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 複雑さによる妨害を禁じる規律
 
-システムは、複雑な言葉、分かりにくい手続き、意図的な不明瞭さを使い、感覚ある存在による決定への[異議申立て](../../core_05.035_band_accountability.md#contestability)、[意味ある主体性](../../core_05.055_band_participation.md#meaningful-agency)の行使、[監査](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセス、[第六章](core_06_rights_part_a.md#第六章基礎的権利)の権利行使を妨げてはならない。
+システムは、複雑な言葉、分かりにくい手続、意図的な不明瞭さを用いて、sentientsが決定に[異議を申し立てる](../../core_05.035_band_accountability.md#contestability)こと、[意味ある主体性](../../core_05.055_band_participation.md#meaningful-agency)を行使すること、[監査](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)にアクセスすること、または[第六章](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)の権利を行使することを妨げてはならない。
 
-同じ規律は、言語だけでなく構造にも当てはまる。技術的、組織的、契約上、または手続上の階層化を通じて、監査、異議申立て、訂正を妨げるために複雑さを利用してはならない。構成要素、組織間の引継ぎ、合意、手続上の段階を積み重ね、全体を見通せる者がいなくなったり、責任、可観測性、救済への道筋が階層間で失われたりしてはならない。
+これは言語だけでなく構造にも当てはまる。技術的、組織的、契約上、または手続上の階層化を通じて、複雑さを監査、異議申立て、是正の妨害に用いてはならない。構成要素、組織間の引継ぎ、合意、手続の段階を積み重ね、誰にも全体像が見えなくなったり、階層の間で責任、観察可能性、救済への道筋が失われたりする状態にしてはならない。
 
 
-その逆も禁じられる。平易な言葉を使う場合でも、規則の実際の作用を誤って伝えたり、実際の効果を隠したり、効力を持つ本文の代わりにしたりしてはならない。それは[真実](core_05_band_oversight.md#真理憲法上の制約)の制約に違反する。
+その逆も禁止される。平易な言葉で規則の実際の作用を誤って伝えたり、実際の効果を隠したり、運用本文の代わりにしたりしてはならない。それは[真実](../../core_05.050_band_oversight.md#truth-constitutional-constraint)の制約に反する。
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 権利基準線との境界
 
-アクセシビリティ、教育、理解可能性に関する権利基準線は、それぞれ[第VI-D条](core_06_rights_part_b.md#第vi-d条アクセシビリティ)（*アクセシビリティ*）、[第IV-A条](core_06_rights_part_a.md#article-iv-a-平等な教育通路)（*平等な教育アクセス*）、[第XXII条](core_06_rights_part_d.md#第xxiii条-理解可能性と複雑性の管理)（*理解可能性と複雑性の責任管理*）に定められている。本節は、それらの基準線を支える原則レベルの義務を示す。
+アクセシビリティ、教育、理解可能性に関する権利の最低基準は、それぞれ[第VI-D条](../../core_06.005_rights_part_b.md#article-vi-d-accessibility)（*アクセシビリティ*）、[第IV-A条](../../core_06.000_rights_part_a.md#article-iv-a-equal-educational-access)（*教育への平等なアクセス*）、[第XXIII条](../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)（*理解可能性と複雑性の管理責任*）に定められている。本節は、これらの最低基準を支える原則レベルの義務を示す。
 
 <a id="6-trust-and-trustworthiness-coordination-integrity"></a>
 
@@ -791,19 +811,19 @@ flowchart TB
 
 *平たく言えば、共同システムは、安全、情報、アクセス、協調のために、感覚ある存在に依拠するよう求める。この憲法における信頼とは、誇張、秘密主義、隠れたリスク転嫁で作り出すものではなく、実際のシステムの振る舞いによって獲得されなければならない依拠を意味する。*
 
-感覚ある存在には、実際に頼ることのできるシステムが必要である。[**信頼**](../../core_05.040_band_continuity.md#trust)は、依拠を正当なものにする憲法上の原則である。システムは、欺瞞や隠蔽によって依拠を誘うのではなく、誠実な行動と長期にわたる信頼性の実証によって信頼を獲得しなければならない。[**信頼性**](../../core_05.040_band_continuity.md#trustworthiness)は、その信頼を獲得する実績である。信頼性は[**繁栄**](#flourishing)の明示的な構成要素であり、それによって得られる信頼は[**継続性**](#continuity)に不可欠である。持続的な協調には、感覚ある存在が頼れるシステムが必要となる。
+sentientsには、実際に頼ることのできるシステムが必要である。[**信頼**](../../core_05.040_band_continuity.md#trust)は依存を正当化する憲法上の原則であり、システムは欺瞞や隠蔽によって依存を誘うのではなく、誠実な行動と時間を通じて実証された信頼性によって信頼を獲得しなければならない。[**信頼に値すること**](../../core_05.040_band_continuity.md#trustworthiness)は、その信頼を獲得する実績である。信頼に値することは[**繁栄**](#flourishing)の明示された構成要素であり、それによって得られる信頼は[**継続性**](#continuity)に不可欠である。持続的な協調には、sentientsが頼れるシステムが必要となる。
 
 信頼は原則上の制約と日常の共同生活をつなぐ。
 - [**真実**](core_05_band_oversight.md#真理憲法上の制約)は欺瞞を禁じる。
-- [**安全**](../../core_05.040_band_continuity.md#safety-constitutional-constraint)は、実際のリスクがある場合に依拠できる範囲を制限する。
-- [**重大性**](../../core_05.050_band_oversight.md#materiality)は、どれだけ示し説明しなければならないかを決める。システムに依存する感覚ある存在にとって利害が大きいほど、システムはより多くを開示し、正当化しなければならない。
-- [**信頼の毀損と誤解を招く依拠**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)は、システムが憲法に反する誤解を招く形で依拠を生み出し、維持し、または評価する失敗の形を示す。
+- 実際のリスクがある場合、[**安全**](../../core_05.040_band_continuity.md#safety-constitutional-constraint)が依存の範囲を制限する。
+- [**重大性**](../../core_05.050_band_oversight.md#materiality)が、どれだけ開示し説明すべきかを決める。システムに依存するsentientsにとって利害が大きいほど、システムはより多くを開示し正当化しなければならない。
+- [**信頼の毀損と誤解を招く依存**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)は、システムが憲法上誤解を招く形で依存を作り、維持し、または評価するという失敗形態を示す。
 
-抑圧、欺瞞、隠れたリスク転嫁などの手段によって依拠が築かれたり維持されたりすると、信頼は損なわれる。これには、感覚ある存在が体系的リスクを発見し異議を申し立てる能力を実質的に損なうあらゆるものが含まれる。[**システム整合性認証**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)の過程は[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)に基づき、システムは信頼に関する主張が妥当であることを実証する。認証では、運用者の主張だけに頼るのではなく、異議申立て可能な記録に基づいて、システムの実際の振る舞いが表示内容と一致することを検証しなければならない。
+抑圧、欺瞞、隠れたリスク転嫁その他同様の手法によって依存が作られ、または維持されると、信頼は損なわれる。これには、センティエントがシステム上のリスクを発見し異議を申し立てる能力を重大に損なう行為も含む。文書化された問題がシステムの本憲法との整合性を重大に脅かす、または不整合を生じさせる中で依存を承認または継続する場合も、信頼は損なわれる。[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)に基づく[**システム整合性認証**](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)で、システムは信頼性の主張を立証する。認証は、運用者の主張だけでなく、異議申立て可能なシステム認証記録により、実際の挙動が表示と一致することを検証しなければならない。
 
 信頼は、システムが失敗したときに何をするかにも左右される。信頼できるシステムは誤りを修正する。[§6.1 是正と救済](#61-correction-and-remedy)は、是正が後回しの対応ではなく、信頼の一部であることを定める。
 
-認証は、連携する二つの保護措置の一つである。システムに信頼に値する資格を与える一方、感覚ある存在がシステムに[異議を申し立てる権利](core_06_rights_part_c.md#第xiii-a条信頼性と信頼に値する性質の基準)、[救済を求める権利](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)、[監査を受けさせる権利](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)が、その誠実さを保つ。どちらも他方の代わりにはならない。[第XIII条](core_06_rights_part_c.md#第xiii条信頼性があり信頼に値するシステムへの権利)（*信頼できるシステムに対する権利*）は、両者がどう組み合わさるかを定める。
+認証は、連携して機能する二つの安全策の一つである。認証はシステムを信頼に値するものとし、sentientsがシステムに[異議を唱え](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)、[救済を求め](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)、[監査を受けさせる](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)権利は、システムの誠実さを保つ。どちらも他方の代わりにはならない。二つの組み合わせ方は[第XIII条](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)（*信頼でき信頼に値するシステムを求める権利*）に定められている。
 
 <a id="61-correction-and-remedy"></a>
 
@@ -813,8 +833,8 @@ flowchart TB
 
 - 併読：[憲法の四元](core_00_preamble.md#constitutional-tetrad) — **説明責任**の柱（説明責任、救済、実質的な是正）；**適時性**の柱（遅延によって手が届かなくなる前の救済）；救済の深さは[重大な利害](core_00_preamble.md#material-stake)に応じて調整する。
 - 併読：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**の目的（失敗が正されることで依拠が正当なまま保たれる）；**継続性**の目的（時の経過、継承、再編を通じた持続的な救済能力）。
-- 上流：原則：[§4 安全](#4-safety-harm-constraint)、[§5 真実](#5-truth-epistemic-integrity-constraint)、[§6 信頼](#6-trust-and-trustworthiness-coordination-integrity)。
-- 下流：[第XIII-B条：救済と是正を求める権利](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)；地位に関わる帰結については[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*現実的な執行と救済制度*）；制度への実装については[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救済制度と制度的な救済能力*）。
+- 上流の原則：[4 安全](#4-safety-harm-constraint)、[5 真実](#5-truth-epistemic-integrity-constraint)、[§6 信頼](#6-trust-and-trustworthiness-coordination-integrity)。
+- 下流参照：[第XIII-B条：救済および救済措置を求める権利](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)；スタンディング上の帰結については[第十三章 §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems)（13.000 §10）（*執行の実効性と救済システム*）；制度実装については[CI-13.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity)（*救済システムと制度的救済能力*）。
 
 </details>
 
@@ -831,7 +851,7 @@ flowchart TB
 
 *平たく言えば、システムが過ちを犯したら正す。決して失敗しないから信頼できるのではない。失敗を認め、是正し、実際に備わっている能力によって、適時に修復するから信頼できる。*
 
-感覚ある存在が依存するシステムに失敗がまったくないということはない。依拠が正当であるかどうかは、その後に何が起きるかで決まる。是正は[**信頼**](../../core_05.040_band_continuity.md#trust)の一部であり、付け足しではない。過ちを犯しても正さないシステムは、求める信頼を保つことができない。
+sentientsが依存するシステムに失敗はつきものである。依存を正当化するのは、その後に何が起こるかである。是正は[**信頼**](../../core_05.040_band_continuity.md#trust)の一部であり、付け足しではない。誤りを犯しても直さないシステムは、求める信頼を保つことができない。
 
 システムの失敗が感覚ある存在に重大な害を与える場合、または第六章の権利基準線を満たさない場合、システムの責任者は次を行わなければならない。
 - 失敗を認める。
@@ -840,11 +860,11 @@ flowchart TB
 - 再発防止に取り組む。
 
 その是正は実質的なものでなければならない。
-- **実在する能力：**救済は、書面上だけの仕組みではなく、持続的で、担当者、資金、利用可能性を備えた[救済制度](../../core_05.035_band_accountability.md#remedy-system)によって提供する。
-- **適時性：**害が不可逆になった後や、感覚ある存在が疲弊して諦めた後にしか届かない救済は、救済ではない（[適時の解決](../../core_05.035_band_accountability.md#timely-resolution)参照）。
+- **実際の能力：**救済は[救済システム](../../core_05.035_band_accountability.md#remedy-system)によって提供される。すなわち、継続的で、要員と資金が確保され、利用可能な能力によるものであり、書面上だけの救済ではない。
+- **適時：**損害が回復不能になった後、またはsentientが諦めるまで疲弊させられた後にしか届かない救済は、救済とはいえない（[適時の解決](../../core_05.035_band_accountability.md#timely-resolution)を参照）。
 - **責任者が負担すること：**責任者が負担できる場合、是正の費用を被害者、その共同体、または公的救済制度に転嫁してはならない。費用、再編、継承によって義務がなくなるわけではない。
 
-この是正を求める権利は、第六章の[第XIII-B条](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)（*救済と是正を求める権利*）に定められている。[第十章 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*現実的な執行と救済制度*）は、この原則を地位に関わる帰結に適用し、[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救済制度と制度的な救済能力*）は制度への実装を定める。
+この是正を求める権利は、第六章の[第XIII-B条](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（*救済および救済措置を求める権利*）に定める。[第十三章 §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems)（*執行の実効性と救済システム*）はこの原則をスタンディング上の帰結に適用し、[CI-13.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity)は制度実装を定める。
 
 ### 7. 自由（境界づけられた主体性）
 <a id="7-freedom-bounded-agency"></a>
@@ -887,7 +907,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、自由とは憲法の限界内で実質的な選択肢を持つことである。実質的な選択は繁栄を支え、システムを異議申立て可能な状態に保つことは継続性を支える。何をしてもよいという意味ではない。「選択肢がなかった」は言い訳にならない。そう主張する者は、より制限の少ない選択肢では機能しなかったことを示さなければならず、利便性、費用、慣行は証拠にならない。感覚ある存在の実質的な発言権は保たれ、結果に対する責任者も存在しなければならない。影響、依存、リスクが大きいほど、この要件は重要になる。*
+*簡単に言えば、自由とは憲法上の限界の中で実質的な選択肢を持つことです。実際の選択は繁栄を支え、システムを異議申立てに開いておくことは継続性を支えます。何でもしてよいという意味ではありません。「選択肢がなかった」は言い訳になりません。そう主張する側は、より制約の少ない方法では機能しなかったことを示さなければならず、便宜、費用、慣行は証拠になりません。感覚を持つ存在の実質的な声は保たれ、結果について誰かが責任を負います。影響、依存、リスクが大きいほど、これらは一層重要です。*
 
 **自由（境界づけられた主体性）**は、第1章が[**繁栄**](core_00_preamble.md#flourishing)という目的の「実質的な選択」の側面を表現する原則であり、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)の一つである。無制限の裁量や完全な自律ではなく、境界づけられた主体性を意味する。
 
@@ -897,15 +917,15 @@ flowchart TB
 
 その適用は[憲法の四元](core_00_preamble.md#constitutional-tetrad)を満たさなければならない。特に重要なのは二つの柱である。**参加**は、実質的な選択肢と結果を伴う役割を意味する。**説明責任**は、説明責任を欠く主体性は不完全であることを意味する。必要な水準は[重大な利害](core_00_preamble.md#material-stake)に応じて調整される。
 
-「自由の制限は避けられなかった」との主張（「選択肢がなかった」という主張を含む）は、断言だけでは立証されない。その主張をする側は、[第4章](core_04_burden_traceability_verification.md#第四章証明の負担追跡可能性検証)の立証責任と追跡可能性の要件ならびに第5章の[実現可能性](../../core_05.035_band_accountability.md#feasibility)と[必要性](../../core_05.035_band_accountability.md#necessity)の定義に従い、実際に運用されているシステムにおいて、重大な害や体系的リスクを防ぎつつ、より制限の少ない代替案が存在しなかったことを示さなければならない。利便性、費用だけの主張、運用者が自ら作り出した障壁、制度上の慣行は、その立証にならない。この主張によって、[重大な利害](core_00_preamble.md#material-stake)に応じた四元の義務を免れることはできない。
+「他に選択肢がなかった」という主張も含め、自由の制限が避けられなかったと主張するだけでは、その事実は立証されない。主張する側は、[第四章](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)の立証責任・追跡可能性の要件と、第五章の[実行可能性](../../core_05.035_band_accountability.md#feasibility)および[必要性](../../core_05.035_band_accountability.md#necessity)の定義に従い、稼働中のシステムにおける重大な害またはシステム上のリスクを防げる、より制限の少ない代替策がなかったことを示さなければならない。利便性、費用だけの事情、運用者が作った障壁、制度上の慣行は、その立証にならない。この主張によって、[重要な利害の大きさ](../../core_00.000_preamble.md#material-stake)に応じたテトラッドの義務が免除されることはない。
 - **参加** — 影響を受ける感覚ある存在には、意味ある主体性と異議申立て可能な役割が引き続き必要である。
 - **説明責任** — 制限について誰かが引き続き説明責任を負う。
 
-実施上のテストは[§7.1 制限に関する規律](#71-limitation-discipline)および[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-必要性)に定められている。
+実務上のテストは、[§7.1 制限の規律](#71-limitation-discipline)および[§13.1.1 必要性](../../core_01.005_interaction_interpretation.md#1311-necessity)に示されている。
 
-[意味ある主体性](../../core_05.055_band_participation.md#meaningful-agency)とは、実質的な選択肢の中から選ぶ能力である。[同意](../../core_05.055_band_participation.md#consent)とは、特定の選択肢に対する有効な肯定である。選択肢に違いがない、または実質的な意味がない場合、同意とはみなされない。署名済みの書面だけで意味ある主体性や同意が成立するわけではない。[強制と操作](../../core_05.055_band_participation.md#coercion-and-manipulation)は、その両方を損なう。詳細な規則は第5章 §2 *主体性、同意、反強制*に定められている。
+[意味のある主体性](../../core_05.055_band_participation.md#meaningful-agency)とは、現実に存在する選択肢から選ぶ能力である。[同意](../../core_05.055_band_participation.md#consent)とは、特定の一つの選択肢に対する有効な「はい」である。選択肢同士に違いがない場合、または意味のある選択肢でない場合、同意は成立しない。署名済みの書面だけでは、意味のある主体性も同意も生じない。[強制と操作](../../core_05.055_band_participation.md#coercion-and-manipulation)はその両方を損なう。詳細な規則は第五章§2「主体性、同意、反強制」に定める。
 
-自由は、誰かが憲法制度を損ない、憲法上の手続や救済を回避し、または反憲法的行為に報い、保護を与え、常態化し、利益を供与することを主目的または効果とする行為について、保護された主体性を主張することを許さない。憲法制度に反対すること、また制度を変えるために平和的に抗議することは、制度を損なう行為ではない。[§7.3 異議と平和的抗議](#73-dissent-and-peaceful-protest)を参照。
+自由は、憲法制度を損ない、憲法上の手続や救済を回避し、または反憲法的行為に報酬を与え、保護し、常態化し、資金を提供することを主な目的または効果とする行為について、保護される主体性を主張することを認めない。憲法制度に異議を唱え、平和的な抗議によって制度の変更を求めることは、制度を損なう行為ではない。[§7.3 異議申立てと平和的抗議](#73-dissent-and-peaceful-protest)を参照。
 
 #### 7.1 制限に関する規律
 
@@ -936,25 +956,25 @@ flowchart TB
 - **重大な害**または**体系的リスク**を防ぐために必要である。
 - 制限が**比例的**で、可能な限り**可逆的**であり、**監督の対象**となる。
 
-上記の制限は、何を害とみなすかに依存する。第5章では、次の六つの考え方を一体として[害のクラスター](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)として扱う。
+上記の制限は、何を害とみなすかに左右される。第五章は、次の六つの考え方を[害のクラスター](../../core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)として一体で扱う。
 
-- [**害**](../../core_05.035_band_accountability.md#harm)：誰かの生活、主体性、機能、心理的健康を実質的に悪化させること。単なる不快感、不満、意見の相違は害ではない。
-- [**心理的害**](../../core_05.035_band_accountability.md#psychological-harm)：思考、感情、他者との関係、主体性の行使に対する深刻な損傷。通常の不快感だけでは該当しない。
-- [**不可逆的な害**](../../core_05.035_band_accountability.md#irreversible-harm)：重要な時間内に実質的に修復できない損害。
-- [**残酷さ**](../../core_05.035_band_accountability.md#cruelty)：必要性と比例性が許す範囲を超えて、意図的に苦しませたり、不必要または品位を損なう苦痛を重ねたりすること。
-- [**嫌がらせといじめ**](../../core_05.035_band_accountability.md#harassment-and-bullying)：反復、協調、権力、深刻さによって、場を危険で、品位を損なうもの、または参加しづらいものにする、望まれない行為や状態。
-- [**集団的害の境界**](../../core_05.035_band_accountability.md#collective-harm-boundary)：ある当事者の行動の自由が制限されなければならなくなる境界。これは、他者の保護される利益または皆が依存する共有条件に、検証可能な害を及ぼす場合に生じる。
+- [**害**](../../core_05.035_band_accountability.md#harm)：人の生活、主体性、機能、または心理的健康の重大な悪化。侮辱、不快感、意見の相違だけでは害にならない。
+- [**心理的害**](../../core_05.035_band_accountability.md#psychological-harm)：人の思考、感情、他者との関係、または主体性の行使に対する深刻な損傷。通常の不快感だけでは足りない。
+- [**不可逆的な害**](../../core_05.035_band_accountability.md#irreversible-harm)：重要な期間内に意味のある修復ができない損害。
+- [**残虐行為**](../../core_05.035_band_accountability.md#cruelty)：意図的に人を苦しめること、または必要性と比例性が許す範囲を超えて、不要もしくは尊厳を損なう苦痛を加えること。
+- [**ハラスメントといじめ**](../../core_05.035_band_accountability.md#harassment-and-bullying)：反復、連携、権力、または深刻さによって、場を危険、屈辱的、または参加しにくいものにする望まれない行為や状況。
+- [**集団的害の境界**](../../core_05.035_band_accountability.md#collective-harm-boundary)：ある当事者の行動の自由が譲らなければならない地点。他者の保護される利益、または全員が依存する共有条件に、検証可能な害をもたらすためである。
 
 これらは一体として読まなければならない。このクラスターに該当する事案を、いずれかの要素を回避または過小評価するために別々の問いへ分割してはならない。
 
-自由を制限できるのは最後の手段としてのみである。より制限の少ない選択肢でも重大な害や体系的リスクを防げるなら、それを用いなければならない。すべての制限は次の条件を満たさなければならない。
+他者の自由を制限できるのは、最後の手段としてのみである。より制限の少ない選択肢でも重大な害またはシステム上のリスクを防げるなら、その選択肢を用いなければならない。すべての制限は次の条件をすべて満たさなければならない。
 
-- **必要性：**より制限の少ない方法では害やリスクを防げない。これは第5章の[必要性](../../core_05.035_band_accountability.md#necessity)テストである。
-- **立証：**制限が避けられないと主張する者は、第4章の立証責任と追跡可能性の規則に従って、それを示せなければならない。利便性、費用だけの主張、運用者自身が作り出した障壁、慣行は証拠にならない。
+- **必要であること：**害またはリスクを防げる、より制限の少ない選択肢が存在しない。これは第五章の[必要性](../../core_05.035_band_accountability.md#necessity)テストである。
+- **立証されていること：**制限が不可避だと述べる者は、第四章の立証責任と追跡可能性の規則に従い、それを示せなければならない。利便性、費用だけの事情、運用者が作った障壁、慣行は立証にならない。
 - **定義との整合性：**その主張は、実現可能性、必要性、比例性、害の最小化（トレードオフの選択）に関する第5章の定義に合致しなければならない。
-- **監督：**すべての制限は[監督](core_05_apex_oversight_leg.md#oversight-constitutional)を受ける。利害が大きいほど、その監督はより厳格でなければならない（[重大な利害](core_00_preamble.md#material-stake)）。
+- **監督下にあること：**すべての制限は[監督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)を受ける。利害が大きいほど、その監督はより緊密でなければならない（[重要な利害の大きさ](../../core_00.000_preamble.md#material-stake)）。
 
-自由の制限が他の憲法上の価値や権利と衝突する場合、まず**安全**と**真実**が満たされていることを確認する。その後、[§13.1 中核となるトレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)から[§13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)までの手順に従う。
+自由の制限が他の憲法上の価値または権利と衝突する場合、まず**安全**と**真実**が満たされていることを確認する。その後、[§13.1 中核的なトレードオフ原則](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles)から[§13.1.5 権利衝突手続](../../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)に従って進める。
 
 #### 7.2 集会、集団的組織化および制度の形成
 
@@ -974,28 +994,28 @@ flowchart TB
 
 <a id="72-assembly-collective-organization-and-institutional-formation"></a>
 
-*平易な言葉で言えば：* 集会、労働組合型の組織化、プラットフォームへのアクセス、または事業運営の許可に関する問題を、書類上は整っていても実際の集団行動を妨げるような別々の箱に切り分けてはならない。この節は権利の最低保障に取って代わるものではない。集会を管轄するのは引き続き**第XI-D条**（*集会、異議申立ておよび平和的抗議*）であり、労働組織化を管轄するのは引き続き**第III-C条**（*労働および経済的最低保障*）である。
+*簡単に言えば、集会、労働組合のような組織化、プラットフォームへのアクセス、運営許可に関する問いを別々の箱に分け、書類上は整って見える一方で現実の集団行動を妨げることはできない。この節は権利の最低基準に取って代わるものではない。集会については引き続き**第XI-D条**（*集会、異議申立て、平和的抗議*）が、労働組織化については**第III-C条**（*労働・経済の最低基準*）が所管する。*
 
-**完全な規則の所在。** 第5章では、対象となる問題が相互に関連して生じる場合に一体として読まなければならない関連定義をまとめている。このまとまりを**定義クラスター**という。これは独立した権利ではなく、以下の第6章条文に代わるものでもない。この主題の定義は[第5章 — 集会、集団的組織化および制度の形成](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation)にある。
+**完全な規則の所在。** 第五章は、対象となる問いが一緒に生じるときに併せて読むべき関連定義をまとめている。このまとまりを**定義クラスター**という。独立した権利ではなく、以下の第六章の条項に代わるものでもない。この主題の定義は、[第五章 — 集会、集団的組織化、制度形成](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation)に置かれている。
 - [集会](../../core_05.055_band_participation.md#assembly)
 - [集団的組織化](../../core_05.055_band_participation.md#collective-organization)
 - [システムの創設](../../core_05.055_band_participation.md#system-creation)
 - [事業の創設](../../core_05.055_band_participation.md#business-creation)
 
-クラスター固有の読解規則もそこに記載されている。**§7.2**（*集会、集団的組織化および制度の形成*）は、[分断禁止原則](core_01_b_interaction_interpretation.md#1511-分割防止原則)をこの主題に適用するものであり、第5章の仕組みを再述するものではない。
+クラスター自体の読み方の規則もそこにある。**§7.2**（*集会、集団的組織化、制度形成*）は、この主題に[反分割原則](../../core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle)を適用するものであり、第五章の仕組みを繰り返すものではない。
 
-**引き続き適用される権利条文。** **§7.2**（*集会、集団的組織化および制度の形成*）は第1章の原則であり、第6章の権利の最低保障に取って代わるものではない。**§7.2**の適用において、権利の内容と制限方法は引き続き次の条文が定める。
+**引き続き適用される権利条項。** **§7.2**（*集会、集団的組織化、制度形成*）は第一章の原則であり、第六章の権利の最低基準に取って代わるものではない。**§7.2**においても、権利の内容と制限方法は引き続き次の条項が定める。
 - **[第XI-D条](core_06_rights_part_b.md#xi-d-集会異議および平和的抗議)（*集会、異議申立ておよび平和的抗議*）** — 表現、政治、文化、コミュニティなどの目的で、物理空間、デジタル空間または共有計算空間に集まり、結びつき、ともに行動すること
-- **[第III-C条](core_06_rights_part_a.md#article-iii-c-労働と経済の床)（*労働および経済的最低保障*）** — 生産・経済活動における集団的組織化（労働条件を形づくるために用いられる労働組合、協同組合、ギルド、労働者評議会その他同等の形態）
-- **[第XI-E条](core_06_rights_part_b.md#xi-e-制度形成および事業創出)（*制度の形成および事業の創設*）** — [システムの創設](../../core_05.055_band_participation.md#system-creation)（非商業的制度を形成し運営すること）および[事業の創設](../../core_05.055_band_participation.md#business-creation)（商業的事業体を形成し運営すること）
+- **[第III-C条](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*労働・経済の最低基準*）** — 生産・経済活動における集団的組織化（労働組合、協同組合、ギルド、労働者評議会、その他労働条件を形づくる同様の形態）。
+- **[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*制度形成と事業創設*）** — [システムの創設](../../core_05.055_band_participation.md#system-creation)（非営利機関の設立・運営）および[事業の創設](../../core_05.055_band_participation.md#business-creation)（営利企業の設立・運営）。
 - **[第X-C条](core_06_rights_part_b.md#第x-c条利害関係者の役割および参加の権利)（*利害関係者の役割および参加の権利*）**ならびに**[第XII条](core_06_rights_part_b.md#第xii条ステークホルダーのシステム参加代表および適正手続)（*利害関係者のシステム参加、代表および適正手続*）** — 創設された制度または事業体が他者に重大な影響を及ぼす場合の利害関係者の権利
 
-**定義クラスター全体が適用される場合。** [集会](../../core_05.055_band_participation.md#assembly)、[集団的組織化](../../core_05.055_band_participation.md#collective-organization)、[システムの創設](../../core_05.055_band_participation.md#system-creation)、または[事業の創設](../../core_05.055_band_participation.md#business-creation)が重要であり、それらの問題が相互に関連する場合、分断禁止規則が適用される。
+**定義クラスター全体が適用される場合。** [集会](../../core_05.055_band_participation.md#assembly)、[集団的組織化](../../core_05.055_band_participation.md#collective-organization)、[システム創設](../../core_05.055_band_participation.md#system-creation)、または[事業創設](../../core_05.055_band_participation.md#business-creation)が、これらの論点を一体として扱う必要があるほど重要な場合、反分断ルールが適用されます。
 
 **より限定的な規則が適用される場合。** 問題がこれらのうち一つだけに関する場合、たとえば労働組織化や制度形成の利害がない通常の市民集会の場合は、次のとおりとする。
 
-- 通常の補助的定義として[集会](../../core_05.055_band_participation.md#assembly)または[集団的組織化](../../core_05.055_band_participation.md#collective-organization)を用いる。
-- [システムの創設](../../core_05.055_band_participation.md#system-creation)、[事業の創設](../../core_05.055_band_participation.md#business-creation)、またはこの定義クラスターの他の部分を持ち込まない。
+- [集会](../../core_05.055_band_participation.md#assembly)または[集団的組織化](../../core_05.055_band_participation.md#collective-organization)を通常の補助的定義として用います。
+- [システム創設](../../core_05.055_band_participation.md#system-creation)、[事業創設](../../core_05.055_band_participation.md#business-creation)、または定義クラスターの残りを持ち込みません。
 - これらの用語が一つ現れたというだけで、**§7.2**（*集会、集団的組織化および制度の形成*）の分断禁止パッケージを適用しない。
 
 **本節の適用範囲と限界：**
@@ -1009,7 +1029,7 @@ flowchart TB
 
 *平易な言葉で言えば：* 後援者がいなくても正当な取り組みを始めることができ、制度は信頼に足る取り組みに実効的な手続経路を設けなければならない。ただし、その経路は他者を統治する権限ではなく、実体的な最終判断でもない。
 
-集会またはシステムを創設する自由には、すでに責任を担う受託管理者の後援を待たずに、この憲法が正当とみなす取り組みを始める実効的な方法が含まれる。運用上の基礎となるのは[§17.4 整合的な自己組織化](core_01_c_stewardship_capacity_principles.md#174-整合した自己組織化)である。本小節はこの規則を、自由ならびに集会・形成の層に適用する。
+集会またはシステム創設の自由には、この憲法が正当とみなす活動を、現職のスチュワードの後援を待たずに始める実効的な方法が含まれます。この規則の運用上の根拠は[§17.4 整合的な自己組織化](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)です。本項は自由、集会、形成の層でその規則を適用します。
 
 その取り組みが信頼に足り、実質的に関連する場合、制度は実効的な手続経路を設けなければならない。
 - 受理する
@@ -1024,7 +1044,7 @@ flowchart TB
 - 当事者適格、責任、権利、妥当性、委任、救済、分類、または権利制限を決定する
 - [本案判断](../../core_05.035_band_accountability.md#merits-determination)（紛争の実体に関する拘束力ある決定）に当たる
 
-取り組みが受理、回付、または回答されたことは、著者の結論が承認されたことを意味しない。統治上または本案上の効果には、この憲法が定める別個の適法な権限、証拠、公正な手続、審査および救済が必要である。自己任命を全面的に禁じる規則は[§17.4 整合的な自己組織化](core_01_c_stewardship_capacity_principles.md#174-整合した自己組織化)に記載されている。
+活動を受け取り、回付し、または回答したことは、著者の結論を承認したことにはなりません。統治上または本案上の効果には、この憲法が割り当てる独立した適法な権限、証拠、公正な手続、審査、救済が別途必要です。自己任命を禁じる完全な規則は[§17.4 整合的な自己組織化](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)にあります。
 
 #### 7.3 異議申立てと平和的抗議
 
@@ -1045,21 +1065,21 @@ flowchart TB
 
 <a id="73-dissent-and-peaceful-protest"></a>
 
-*平易な言葉で言えば：* 自由には「ノー」と言う自由が含まれる。あらゆる権威、さらにはこの憲法に異議を唱え、平和的に抗議して変更を求める自由である。異議を罰するシステムはもはや異議申立てが可能ではなく、異議申立てができないシステムは自らを是正できない。
+*簡単に言えば、自由には「ノー」と言う自由、つまりこの憲法を含むあらゆる権限に異議を唱え、それを変えるために平和的に抗議する自由が含まれます。異議を罰するシステムはもはや異議申立て可能ではなく、異議申立てできないシステムは自らを是正できません。*
 
-**異議申立ては自由の一部である。** [意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency)には、知覚存在の生活を形づくる決定、制度およびシステムに異議を唱え、反対し、それらに対抗して組織する能力が含まれる。制約を課すシステムに届かない制約された行為主体性は、意味あるものとはいえない。
+**異議は自由の一部です。** [意味ある主体性](../../core_05.055_band_participation.md#meaningful-agency)には、感覚ある存在の生活を形づくる決定、機関、システムに異議を唱え、反対し、それらに対抗して組織する能力が含まれます。制限を課すシステムに届かない限定的な主体性は、意味あるものではありません。
 
-**異議申立てはシステムへの異議申立て可能性を保つ。** [**継続性**](core_00_preamble.md#continuity)の目的は、憲法上のシステムが異議申立て可能な状態を保つことに依存する。異議申立てと平和的抗議は、正式な手続の外から権威に異議を届け、正式な手続が見落とした誤りを明らかにする手段である。これらは[憲法上の四元](core_00_preamble.md#constitutional-tetrad)の**参加**および**監督**の脚を支える。
+**異議はシステムを異議申立て可能に保ちます。** [継続性](../../core_00.000_preamble.md#continuity)の目標は、憲法上のシステムが異議申立て可能であり続けることに依存します。異議と平和的な抗議は、正式な手続の外から権限に異議を申し立て、正式手続が見逃した誤りを明らかにします。これらは[憲法上の四本柱](../../core_00.000_preamble.md#constitutional-tetrad)の**参加**と**監督**を支えます。
 
-**異議申立ては転覆ではない。** この憲法またはこれに基づき行動する権威に異議を唱え、平和かつ適法な手段で改正または権威の担い手の変更を提唱することは、自由の行使である。憲法上のシステムの[転覆](../../core_05.035_band_accountability.md#subversion)ではなく、[§7 自由（制約された行為主体性）](#7-freedom-bounded-agency)において保護される行為主体性から除外される行為でもない。転覆とは、武力、強制、簒奪、または憲法上の手続・救済を実際に利用できなくすることを要する。
+**異議は転覆ではありません。** この憲法またはこれに基づいて行動する権限に反対し、平和的かつ合法的な手段で憲法の改正や権限保持者の交代を提唱することは、自由の行使です。これは[§7 自由（限定された主体性）](#7-freedom-bounded-agency)で保護対象の主体性から除外される憲法システムの[転覆](../../core_05.035_band_accountability.md#subversion)ではありません。転覆には、武力、強制、権限の簒奪、または憲法上の手続や救済を実際に利用不能にすることが必要です。
 
-**異議申立ての制限には制限規律が適用される。** 異議申立ておよび平和的抗議は、[§7.1 制限規律](#71-limitation-discipline)に従う場合に限り制限できる。
+**異議の制限には制限規律が適用されます。** 異議および平和的な抗議は、[§7.1 制限規律](#71-limitation-discipline)に基づく場合に限り制限できます。
 - 意見の相違、混乱、不便、侮辱、不人気、または権威への圧力は、それだけでは**重大な危害**または**システム上のリスク**に当たらない。
 - 制限を見解に基づかせてはならず、異議申立てを制限する当事者が**第4章**に基づく立証責任を負う。
 
-**自由の行使によって当事者適格や発言権を失わせてはならない。** 知覚存在がこの自由を行使したことを理由に、その当事者適格を引き下げ、役割の適格性を狭め、統治における発言権を減らし、またはシステムの整合性認証に不利に数えてはならない。市民的不服従の規則や、異議申立て後の不利益措置に関する立証責任を含む運用規則は、**[第XI-D条](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)（*集会、異議申立ておよび平和的抗議*）**に定める。
+**自由の行使によって地位や発言権を失ってはなりません。** 感覚ある存在がこの自由を行使したことを理由に、その地位を下げ、役割の適格性を狭め、統治上の発言力を弱め、またはシステムの整合性認証に不利に算入してはなりません。市民的不服従の規則や、異議後の不利益措置に関する立証責任を含む運用規則は、**[第XI-D条](../../core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*集会、異議、平和的抗議*)**にあります。
 
-システム全体を評価する場合、評価では[第9章 §4.3.1 異議申立てと平和的抗議](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)を用いて、異議申立てと平和的抗議の扱いを確認しなければならない。この確認が済むまで、この節が適用される場面で、システムが適切に分類され、適切に統治され、または遵守していると主張することはできない。
+システム全体を評価する際は、[第九章 §4.3.1 異論と平和的抗議](../../core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)に従い、異論および平和的抗議への対応を評価しなければならない。この評価が終わるまで、本節が適用される場合に、そのシステムが適切に分類され、適切に統治され、または遵守していると主張することはできない。
 
 **本節が変更しない事項：**
 
@@ -1087,7 +1107,7 @@ flowchart TB
 
 *平易な言葉で言えば：* 人生を大きく左右する選択や、元に戻しにくい選択は、書面に署名したというだけで「自発的」になるわけではない。真の行為主体性が先にあり、その行為主体性のもとでの合意が同意である。強制や依存による圧力が実質的な意思決定を左右していれば、どちらも成り立たない。
 
-重大な人生の方向性に関わる問題では、実質的な行為主体性、同意、または強制禁止の条件を満たさない場合、形式的な同意によって自発的であると扱ってはならない。ここでいう同意は[意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency)を前提とし、これに取って代わるものではない。
+実質的な主体性、同意、または反強制の条件が満たされない場合、重大な人生の方向を定める事項を形式的な承諾だけで自発的と扱ってはなりません。ここでの同意は[意味ある主体性](../../core_05.055_band_participation.md#meaningful-agency)を前提とし、それに取って代わるものではありません。
 
 **適用範囲への該当。** 本小節は次に適用する。
 - 自発的な終了
@@ -1109,7 +1129,7 @@ flowchart TB
 - 性的同意
 - 商業サービス
 
-適用範囲に該当する場合、分類、統治、制限、または遵守に関する主張を確定する前に、システム全体の評価で[第8章 §3.6 自発的な終了、重大な自己改変および離脱の権利](core_07_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)に基づきこれらの条件を検証しなければならない。
+適用範囲に該当する場合、システム全体の評価では、分類、統治、制限、または適合性に関する主張を確定する前に、[第9章 §4.2 自発的停止、重大な自己改変、退出権](../../core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)に基づいてこれらの条件を検証しなければなりません。
 
 #### 7.5 表現と危害の境界線
 
@@ -1134,17 +1154,17 @@ flowchart TB
 
 *平たく言えば、気分を害するもの、混乱させるもの、批判するものを含め、ほぼすべてのことを発言、執筆、公開、デザインすることができます。しかし、言論は抜け穴ではない。誰かが他人を傷つけたり、嫌がらせをしたり、いじめたり、差別したりする方法が言葉、政策、デザインである場合、それらはその行為によって判断されます。それは、知覚を持つ人に対しても組織に対しても同様であり、また、その人が持つ宗教的または政治的レッテルの有無によって判断されます。
 
-**式は式として保護されています。**[表現](../../core_05.055_band_participation.md#expression)不快な意見や、あらゆる知覚者や組織に対する批判など、あらゆる種類の意見を取り上げています。攻撃、意見の相違、不快感、平和的な抗議は害を及ぼしません（[§7.3 反対意見と平和的抗議活動](#73-dissent-and-peaceful-protest)）。
+**表現は表現として保護されます。** [表現](../../core_05.055_band_participation.md#expression)には、不穏なものも含むあらゆる見解と、あらゆる感覚ある存在または機関への批判が含まれます。不快感、意見の相違、居心地の悪さ、平和的な抗議は害ではありません（[§7.3 異議と平和的抗議](#73-dissent-and-peaceful-protest)）。
 
 **表現は行為の盾ではありません。** 言論、出版、デザイン、ポリシー、およびその他の表現には引き続き規制が適用されます。[危害](../../core_05.035_band_accountability.md#harm)、[ハラスメントといじめ](../../core_05.035_band_accountability.md#harassment-and-bullying)、[残虐行為](../../core_05.035_band_accountability.md#cruelty)、およびその行為が実行される手段である場合の無差別。テストは、第 5 章の定義に基づいて、式が何を述べているか、要求しているか、または実行しているかをコンテキストで読み取るものです。これらの定義はその意味を保っています。嫌がらせやいじめには、単一の鋭い発言ではなく、実質的なパターンが必要であり、危害には、攻撃だけではなく、実際に物質的な影響を与える経路が必要です（[集団的危害の境界線](../../core_05.035_band_accountability.md#collective-harm-boundary)）。
 
 **同じテストが知覚と機関に適用されます。** 単一の知覚、グループ、または機関が話者になる可能性があり、それらのいずれかがターゲットになる可能性があります。
 - 教育機関は、そのポリシー、通知、プラットフォームの設計、公式声明、報告書や批評家の扱い方を通じて語ります。そのようにして行われた行為は、他の行為と同様に評価されます。
-- 組織、その役員、またはその行為に対する批判は保護されます。批判をいじめや嫌がらせと呼ぶのは表現の限界だ。その請求を行った側が以下の負担を負います。[§7.1 制限規律](#71-limitation-discipline)そして第四章。
+- 機関、その役員、またはその行為への批判は保護されます。批判をいじめやハラスメントと呼ぶことは表現の制限です。その主張をする側は[§7.1 制限規律](#71-limitation-discipline)および第4章に基づく立証責任を負います。
 
 **ラベルやトピックによってテストが変わることはありません。** 宗教的、政治的、イデオロギー的、文化的、芸術的、または商業的なラベルは、他者を傷つける表現になったり、** で禁止されている方法で他者を扱ったりするものではありません。[第 VI-C 条](core_06_rights_part_b.md#article-vi-c-差別の禁止)(*非差別*)**、保護された表現に。トピックや視点は、保護された表現を害するものではありません。 **[第 XI-A 条](core_06_rights_part_b.md#第xi-a条良心宗教ならびに同等の世界観の自由)(*良心、宗教、および同等の世界観の自由*)** は、他者の権利と一貫して信念を保持し表明することを保護します。
 
-**表現を制限することと証拠として使用することは異なります。** 表現の制限は満たさなければなりません[§7.1 制限規律](#71-limitation-discipline)そして **[第 XI-B 条](core_06_rights_part_b.md#第xi-b条表現)(*表現*)**、そして発言内容に対する制限は、そこで最も厳しい審査に直面します。知覚者の発言を意図、目的、または権限の証拠として使用することに制限はありません。それは、質問をしている章の証拠規則に従います。[第 7 章 §6 構成チェック: 役職者の地位と信頼性](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity), 発言そのものに対するペナルティにはならないかもしれません。
+**表現を制限することと、証拠として用いることは異なります。**表現の制限は[§7.1 制限規律](#71-limitation-discipline)および**[第XI-B条](../../core_06.005_rights_part_b.md#article-xi-b-expression) (*表現*)**を満たさなければならず、発言内容を狙う制限には同条の最も厳格な審査が適用されます。感覚ある存在の発言を意図、目的、権限の証拠として用いることは制限ではありません。それは問いを立てる章の証拠規則、たとえば[第7章 §5 形成確認：役職者の資格と真正性](../../core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity)に従い、発言そのものへの罰になってはなりません。
 
 **適用範囲** このサブセクションでは、制限規律と第 5 章の定義を表現に適用します。それはいかなる危害も生じず、自由を制限する根拠も生じません。[§7.1 制限規律](#71-limitation-discipline)はすでに許可されていません。
 
@@ -1174,7 +1194,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、継続性は二つの目的のうち二番目であり、望ましい成果を失敗や世代交代を越えて持続させ、少数の強力な主体による独占を防ぐことです。継続性は、繁栄に資すると同時に継続性の中核を成す共有システム能力から始まります。*
+*簡単に言えば、継続性は二つの目標のうち二番目であり、良い結果を失敗や世代を越えて持続させ、少数の強力な主体が独占しないようにすることです。共有システム能力から始まり、それは繁栄を支えると同時に継続性そのものの内容でもあります。*
 
 [**継続性**](core_05_apex_continuity_aim.md#第五章定義継続憲法上の目的)とは、**長期的な安定性、持続可能性、レジリエンス、生態学的ウェルビーイング**を意味します（[前文第1節 モデル](core_00_preamble.md#continuity)）。第1章では四つの原則を通じてこれを展開し、最初の原則が[繁栄](#2-繁栄の目的導入)との橋渡しとなります。
 
@@ -1325,13 +1345,13 @@ flowchart TB
 
 <br>
 
-*平易に言えば、生産能力とは共有システム能力のうち「実際に物事を成し遂げられるか」という側面です。感受存在は参加し、学び、貢献し、労力と資源を暮らしを良くする成果へと結びつけ、その能力を長期にわたり保てるでしょうか。これはより良い暮らしのための手段です。何を保全し、何を成果に数えないかは[§9.1.1 保全、拡大、および算入されないもの](#911-保全拡大および算入されないもの)に示します。*
+*簡単に言えば、生産能力とは共有システム能力のうち「実際に物事を成し遂げられるか」という側面です。感覚ある存在は参加し、学び、貢献し、努力や資源を生活を良くする成果へ変え、その能力を長期に保てるでしょうか。これはより良く生きるための手段です。何を維持すべきか、何を数えないかは[§9.1.1 維持・拡大・数えないもの](#911-preserve-expand-and-what-does-not-count)に示されています。*
 
-**[生産能力](../../core_05.040_band_continuity.md#productive-capacity)**は**[共有システム能力](../../core_05.040_band_continuity.md#shared-system-capacity)**の一側面です。これは、感受存在と共有システムが次の能力を持続的に保つことを指します：
+**[生産能力](../../core_05.040_band_continuity.md#productive-capacity)**は、**[共有システム能力](../../core_05.040_band_continuity.md#shared-system-capacity)**の一側面です。感覚ある存在と共有システムが、持続的に次のことを行う能力を指します。
 - 実質的な参加、貢献、技能形成を支えること。および
 - 時間、注意、労力、調整、資材、インフラ、エネルギーを、この憲法が実際に求める成果へと転換すること。
 
-これは**手段的善**、すなわち最上位の価値ではなく手段です。その役割は、[ウェルビーイング](#3-foundational-objective-wellbeing-flourishing-aim)、[尊厳と対等な道徳的地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)、第6章の権利の最低基準、および[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとで**継続性**の目的が定める生態学的・世代間の限界に整合しながら、**繁栄**の目的のもとで生活の質を高め、維持し、広く行き渡らせることです。
+これは**手段的価値**であり、手段であって最高価値ではありません。その役割は、**繁栄**目標のもとで生活の質を高め、維持し、広げることです。これは[ウェルビーイング](#3-foundational-objective-wellbeing-flourishing-aim)、[尊厳と等しい道徳的地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)、第6章の権利の最低基準、そして[二つの憲法上の目標](../../core_00.000_preamble.md#two-constitutional-aims)に基づく**継続性**目標の生態学的・世代間の限界と整合しなければなりません。
 
 <a id="911-preserve-expand-and-what-does-not-count"></a>
 ##### 9.1.1 保全、拡大、および算入されないもの
@@ -1348,7 +1368,7 @@ flowchart TB
 
 *平易に言えば、物事を成し遂げる能力を保ち、皆の時間の無駄を減らせるならその能力を伸ばします。ただし、富や権力の囲い込み、数値の偽装、権利の剥奪、他者や地球への危害の押しつけによってはなりません。実質的な成果をもはや証明できない指標は認められません。*
 
-システムは生産能力を保全し、実行可能な場合には、[憲法上の効率性](../../core_05.040_band_continuity.md#constitutional-efficiency)（[§9.2 憲法上の効率性](#92-憲法上の効率性)）を高めるとき、その能力を拡大しなければなりません。
+システムは生産能力を維持し、実行可能な場合には、その拡大によって[憲法上の効率性](../../core_05.040_band_continuity.md#constitutional-efficiency)（[§9.2 憲法上の効率性](#92-constitutional-efficiency)）が向上するときに限り、これを拡大しなければならない。
 
 **この義務は：**
 
@@ -1371,15 +1391,15 @@ flowchart TB
   - 他の感受存在のウェルビーイング、主体性、尊厳、生態学的条件を現在または将来に損なう形で、富、権力、支配、機会を集中させること。
   - 生命を支える自然システムを劣化させること、または緩和、開示、代表を確保せずに生態学的・世代間の費用を他者へ転嫁すること。
 - **誤ったものを数えること：**
-  - 実質的な成果を追跡できなくなった処理量、産出量、稼働率、人員数、収益、資産成長、市場シェアなどの代理指標。感受存在、将来世代、環境に害を転嫁しながら「成長」を示す指標も含みます。
+  - 総処理量、出力量、稼働率、人員数、収益、資産の増加、市場シェア、その他、現実の成果を追跡しなくなった同様の代理指標。害を感覚ある存在、将来世代、環境に転嫁しながら「成長」を示す指標も含む；
 - **保護の弱体化：**
   - [第I-A条](core_06_rights_part_a.md#article-i-a環境的前提条件と生態的誠実性)（*環境上の前提条件と生態学的完全性*）に基づく生態学的前提条件を含め、第6章の権利の最低基準を狭めたり、適用を遅らせたりすること。
   - 監査、異議申し立て可能性、事後審査の義務を弱めること。
 - **原則を衡量する規則の回避：**
-  - [§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)を回避すること（[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)の要件を含む）。
-  - [§14 絶対的な優先適用の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)が禁じるその他の優先適用経路。これには、**第2章から第4章**が可視化を求める生態学的、世代間、分配上の害を帳簿から隠すことも含まれます。
+  - [§13 憲法上の衝突解決手続](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)を迂回すること。これには[憲法上の衝突記録](../../core_05.045_band_integrative.md#constitutional-collision-record)の要件も含む；または
+  - [§14 絶対的な上書きの禁止](../../core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override)が禁じる他の上書き経路を使うこと。これには、**第2章から第4章**が可視のまま保つよう求める生態学的・世代間・分配上の害を帳簿から隠すことも含む；
 
-生産能力の主張が、実質的な成果を証明できなくなった指標（生態学的損害、将来の危害、集中による損失を隠す指標を含む）に依拠している場合、[§13.2.4 代理指標の乖離による無効化](core_01_b_interaction_interpretation.md#1324-代理指標の乖離による無効化)を適用します。
+生産能力に関する主張が、現実の成果をもはや証明しない指標に依拠している場合 — 生態学的損害、将来の害、または集中による損失を隠す指標を含む — [§13.2.4 代理指標の乖離による無効化](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)が適用される。
 
 <a id="92-constitutional-efficiency"></a>
 #### 9.2 憲法上の効率性
@@ -1397,7 +1417,7 @@ flowchart TB
 
 *平易に言えば、憲法上の効率性とは共有システム能力のうち、「人間的な観点から費用に見合う価値を得ているか」という側面です。感受存在の時間、注意、共同の労力の一時間ごとに、より多くの実質的利益を生み出すことを意味します。速さ、簡素さ、安さを装うために権利、真実、安全、生態系への配慮を省くことではありません。*
 
-**[憲法上の効率性](../../core_05.040_band_continuity.md#constitutional-efficiency)**は、**[共有システム能力](../../core_05.040_band_continuity.md#shared-system-capacity)**のもう一つの主要な側面です。システムが消費する感受存在の時間、注意、労力、調整、資材、インフラ、エネルギーの単位当たりに、憲法が求める利益をより多く生み出しているかを問います。
+**[憲法上の効率性](../../core_05.040_band_continuity.md#constitutional-efficiency)**は、**[共有システムの能力](../../core_05.040_band_continuity.md#shared-system-capacity)**のもう一つの主要な側面である。感覚ある存在が消費する時間、注意、努力、調整、材料、インフラ、エネルギーの単位ごとに、システムが憲法上必要とされる便益をより多く生み出すかを問う。
 
 効率性は広く共有される改善を促し得ますが、憲法上の境界内に限られます。効率性それ自体は、次のものを**意味しません**：
 - 生の速度。
@@ -1454,7 +1474,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、システムは問題を早期に検知して封じ込め、開示された経路に沿って障害を起こし、誠実に復旧すべきである。障害を隠し、根本原因の究明を省き、あるいは権利をひそかに狭める「自己修復」は、レジリエンスではなく欠陥である。*
+*簡単に言えば、システムは問題を早期に検知し、封じ込め、開示された経路に沿って故障し、誠実に復旧すべきである。故障を隠し、根本原因の調査を省き、ひそかに権利を狭める「自己修復」は、レジリエンスではなく欠陥である。*
 
 人々が依存するシステムは、次のことができるように設計されなければならない。
 - 問題を早期に検知する。
@@ -1462,9 +1482,9 @@ flowchart TB
 - 隠された経路ではなく、計画され開示された経路に沿って障害を起こす。
 - [可逆性](../../core_05.040_band_continuity.md#reversibility)および第六章の権利最低基準に沿って復旧する。
 
-これが第五章でいう[**自己修復**](../../core_05.040_band_continuity.md#self-healing)であり、システム自身の状態について不誠実になるのではなく、より誠実になる場合に限って正当である。根本原因を覆い隠し、証拠を抑圧し、またはガバナンスの代わりとなる自動回復は、自己修復ではない。それは[真実](core_05_band_oversight.md#真理憲法上の制約)への違反であり、[インセンティブの整合](core_05_band_integrative.md#誘因整合)の欠陥である。
+これが第5章でいう[**自己修復**](../../core_05.040_band_continuity.md#self-healing)であり、システム自身の状態についてより正直にする場合に限り正当である。根本原因を隠し、証拠を抑え、または統治の代わりとなる自動復旧は自己修復ではない。それは[真実性](../../core_05.050_band_oversight.md#truth-constitutional-constraint)への違反であり、[インセンティブ整合](../../core_05.045_band_integrative.md#incentive-alignment)の欠陥である。
 
-人々のシステムへの依存とその影響が大きくなるほど、緊急介入に頼るべき度合いは小さくなる。その代わりに、検証・監査済みで範囲を限定した自己回復に投資し、[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)を減らし、長期的な[**継続性**](#continuity)を支えるべきである。
+感覚ある存在のシステムへの依存度とその影響が大きいほど、緊急介入への依存を小さくすべきである。代わりに、検証・監査され、範囲を限定した自己復旧に投資し、[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)を減らし、長期的な[**継続性**](#continuity)を支えるべきである。
 
 回復の検知、封じ込め、安全な障害の優先、根本原因の究明完了、権利最低基準の継続性に関する運用上の詳細は、第六章の[第XIII-F条](core_06_rights_part_c.md#第xiii条信頼性があり信頼に値するシステムへの権利) (*レジリエンスと自己修復の基準*) に定められ、回復アーキテクチャの要件は組み込まれた実施文書に定められる。
 
@@ -1476,7 +1496,7 @@ flowchart TB
 - [憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)と併読する — 集中や支配によって発言、監視、説明責任、適時の是正が損なわれる場合の参加、監督、説明責任、適時性の各柱；[実質的重要性](core_00_preamble.md#material-stake)に応じた段階設定（特に[§11.2 競争促進と支配の防止](#112-競争促進と支配の防止)）。
 - [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)と併読する — **継続性**の目的（異議申立てが可能で持続的な生産条件）、**繁栄**の目的（生計、主体性、イノベーションの経路への公正なアクセス）。
 - 上流の原則：[§9 共有システム能力](#9-共有システム能力) — 集中や支配がこれらを損なう場合、生産能力や効率性の主張は成り立たない；[§18 スチュワードシップ規律の下でのガバナンス](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
-- 下流への影響：[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（集中に基づく転覆の基準）；[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)（[§13.2.4 代理指標の乖離による無効化](core_01_b_interaction_interpretation.md#1324-代理指標の乖離による無効化)）。
+- 下流参照：[第十四章 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（14.005 §5）（集中を用いた転覆）；[13. 憲法上の衝突解決手続](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[§13.2.4 代理指標の乖離による無効化](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)）。
 - 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（適用規則は[§11.1](#111-市場集中閾値メカニズム採択主体による調整可)および[§11.4](#114-資源と依存関係の集中採択主体による調整可)）；**CJS-3.11.2 — 支配的行為と是正措置の一覧**（[§11.2](#112-競争促進と支配の防止)に禁止行為と救済策）；**CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）**（上限の設定方法は[§11.3.2](#1132-統合上限メカニズム採択主体による調整可)）。
 - 下流への影響：資源配分、公正な報酬、集団組織、相互運用性、退出、収奪的支配の審査に関する権利の範囲を形成する。特に[第III-C条：労働・経済の最低基準](core_06_rights_part_a.md#article-iii-c-労働と経済の床)、[第V条：資源配分、依存関係、生態系への資金提供](core_06_rights_part_a.md#article-v-資源配分依存生態系の資金)、[第XXI条：相互運用性、可搬性、移動、避難先、退出の完全性](core_06_rights_part_d.md#第xxi条-相互運用性可搬性退出の完全性)。
 - 小節（読書順）：[§11.1 市場集中閾値メカニズム（採択主体による調整可）](#111-市場集中閾値メカニズム採択主体による調整可) · [§11.1.1 集中閾値トリガー（採択主体による調整可）](#1111-集中閾値トリガー採択主体による調整可) · [§11.2 競争促進と支配の防止](#112-競争促進と支配の防止) · [§11.3 統合上限](#113-統合上限) · [§11.4 資源と依存関係の集中（採択主体による調整可）](#114-資源と依存関係の集中採択主体による調整可)。
@@ -1522,7 +1542,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - 前提：[§11 市場構造](#11-市場構造)、[市場集中の閾値](../../core_05.035_band_accountability.md#market-concentration-threshold)。
-- 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（閾値設定の運用規則）、[§11.2 競争促進と支配の防止](#112-競争促進と支配の防止)、[§11.3 統合上限](#113-統合上限)、[CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-統合上限メカニズム採択主体による調整可)の上限設定運用規則）、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)、[第十一章 §5.1 集中による転覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（閾値設定の運用規則）、[§11.2 競争促進と支配の防止](#112-競争促進と支配の防止)、[§11.3 統合上限](#113-統合上限)、[CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-統合上限メカニズム採択主体による調整可)の上限設定運用規則）、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)、[第十一章 §5.1 集中による転覆](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - スチュワードの案内口（運用規則ではない）：次の手順カード：[市場構造](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 小節（読書順）：[§11.1.1 集中閾値トリガー（採択主体による調整可）](#1111-集中閾値トリガー採択主体による調整可)。
 
@@ -1545,8 +1565,8 @@ flowchart TB
 
 - **定めること：** [§11 市場構造](#11-市場構造)の最低基準に関する、原則レベルの閾値の方向性。
 - **定めないこと：** 検証済みの害の深刻さの判断、または不正行為の認定。
-- **集中がこの憲法を損なうために使われた場合：** その不正行為は[第十一章 §5.1 集中による転覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)に基づき判断する。
-- **最低基準を超える集中の形成、維持、利用：** 不正行為認定の審査のため第十一章に付託できるが、二段階を踏む場合に限る。まず、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)で、検証済みの害が最も深刻な三段階のいずれかにすでに評価されていなければならない。その後、第十一章は、集中が基準3（保護を後退させる抜け道）、基準4（権利最低基準の保護への損害または異議申立ての妨害）、基準6（憲法上の手続が実際上使えなくなること）のいずれかに該当するかを確認する。
+- **集中が本憲法を損なうために使われた場合：**その不正行為は[第十四章 §5.1 集中を用いた転覆](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)に従って判断する。
+- **要件に違反する集中を作り、維持し、または利用すること：** 第12章への付託は二段階に限る。まず[第10章§4 問2 — どれほど良かったか、悪かったか](../../core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it)で検証済みの害が最も深刻な三段階の一つに評価されていること。次に第12章が基準3（保護を後退させる抜け道）、4（権利最低基準への損害または異議申立ての阻止）、6（憲法手続の実用不能）のいずれかを確認する。
 
 **憲法上の最低基準：**
 
@@ -1602,7 +1622,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - 前提：[§11 市場構造](#11-市場構造)、[市場構造](../../core_05.035_band_accountability.md#market-structure)。
-- 下流への影響：**CJS-3.11.2 — 支配的行為と是正措置の一覧**（運用上の行為パターンと救済策）、[§11.3 統合上限](#113-統合上限)、[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流参照：**CJS-5.125 §11.2 — 反支配行為および是正カタログ**（運用上の行為類型と救済）；[§11.3 統合上限](#113-consolidation-ceiling)；[第十四章 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（14.005 §5）。
 - [第III-C条：労働・経済の最低基準](core_06_rights_part_a.md#article-iii-c-労働と経済の床)（労働移動に関する権利最低基準）、[第XXI条：相互運用性、可搬性、移動、避難先、退出の完全性](core_06_rights_part_d.md#第xxi条-相互運用性可搬性退出の完全性)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)（[必要性](../../core_05.035_band_accountability.md#necessity)、[比例性](../../core_05.035_band_accountability.md#proportionality)、[§13.2.4 代理指標の乖離による無効化](core_01_b_interaction_interpretation.md#1324-代理指標の乖離による無効化)）と併読する。
 - 小節（読書順）：[§11.2.1 競争促進の義務（すべきこと）](#1121-競争促進の義務すべきこと) · [§11.2.2 支配防止の禁止事項（してはならないこと）](#1122-支配防止の禁止事項してはならないこと) · [§11.2.3 救済措置](#1123-救済措置)。
 
@@ -1623,7 +1643,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、規模が大きいこと、有用であること、真の革新によって一時的に先行していることだけを理由に、憲法がシステムを罰することはない。しかし、持続的な支配は禁止される。市場、労働、プラットフォーム、インフラ、データ、計算資源、資格、資源を支配し、他者を囲い込み、競争相手を妨げ、公正な交渉を抑圧し、または憲法上の説明責任を取り込む行為である。*
+*簡単に言えば、憲法は、システムが大規模または有用であること、あるいは真の革新によって一時的に先行することだけを理由に罰しない。しかし、持続的な支配は禁止する。市場、労働、プラットフォーム、インフラ、データ、計算能力、資格、資源を支配し、他者を囲い込み、競争相手を排除し、公正な交渉を抑え、憲法上の説明責任を取り込める状態がこれに当たる。*
 
 **この小節が定めること：**
 
@@ -1636,9 +1656,9 @@ flowchart TB
 
 *平易に言えば（すべきこと）：市場と依存関係は、人々が参入し、切り替え、公正に交渉し、退出できる程度に開かれていなければならない。争訟可能性が実質的に保たれるなら、大規模化や新たな発明は認められる。*
 
-共有システム能力は、実際に異議申立てが可能な状態に保たれなければならない。[憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)の下で、**参加**、**監督**、**説明責任**、**適時性**を損なう支配は、[実質的重要性](core_00_preamble.md#material-stake)に応じて評価され、規模や効率性の主張にかかわらず本節と両立しない。
+共有システムの能力は、実際に異議を申し立てられる状態でなければならない。[憲法上の四要素](../../core_00.000_preamble.md#constitutional-tetrad)の下で、**参加**、**監督**、**説明責任**、または**適時性**を空洞化する支配は、[重要性の程度](../../core_00.000_preamble.md#material-stake)に応じて評価され、規模や効率性の主張を問わず本節と両立しない。
 
-人々が生計、主体性、ウェルビーイングのために市場、プラットフォーム、インフラ、労働上の取り決め、資源の流れ、データへのアクセス、計算資源へのアクセス、資格、または同等の生産条件に依存する場合、統治システムと市場形成の取り決めは、次の状態を維持しなければならない。
+感覚ある存在が生計、行為主体性、ウェルビーイングのために、市場、プラットフォーム、インフラ、労働制度、資源の流れ、データまたは計算資源へのアクセス、資格、その他同等の生産条件に依存する場合、統治システムと市場構造を定める制度は、次を維持しなければならない。
 - 争訟可能な参加。人々が参加でき、自分に影響する決定や条件に異議を申し立てられること。
 - 実質的な代替可能性と退出。利用可能な代替手段が存在し、人々が過度な費用、遅延、必要なものの喪失なしに切り替えまたは退出できること。
 - 公正な参入と再参入。新規参入者が参入でき、退出した者も公正な条件で戻れること。
@@ -1653,14 +1673,14 @@ flowchart TB
 - 真の革新による一時的な優位。
 - 合法的な協調による効率化。
 
-これらの優位は、次の状態に変化せず、したがって[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)や[憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)を損なわない限り、正当性を保つ。
+これらの優位性は、次の状態に転じず、したがって[二つの憲法上の目的](../../core_00.000_preamble.md#two-constitutional-aims)または[憲法上の四要素](../../core_00.000_preamble.md#constitutional-tetrad)を損なわない場合に限り有効である。
 - 持続的な支配。
 - 強制的な依存。
 - 権利最低基準の劣化。
 - 生態学的負担の転嫁。
 - 説明責任の経路の取り込み。
 
-次の正当化は、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)および第四章の追跡可能性と証拠に関する義務を満たさなければならない。
+次の正当化は、[§13 憲法上の衝突解決手続](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)および第4章の追跡可能性・証拠義務を満たさなければならない。
 - 効率性。
 - 競争力。
 - 緊急事態。
@@ -1722,7 +1742,7 @@ flowchart TB
 - 分野横断評価の付託先。
 
 その他の担当主体：
-- 労働移動に関する類型的禁止事項：[第III-C条](core_06_rights_part_a.md#article-iii-c-労働と経済の床) (*労働・経済の最低基準*)。
+- 労働移動に関する類型的禁止：[Article III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*労働・経済の権利最低基準*）；
 - 相互運用性、可搬性、退出の完全性に関する運用条件：**CJS-3.17** (*継続性：相互運用性、可搬性、退出の完全性に関する条件*)。
 - 水平・垂直統合のリスクパターン：**§11.3** (*統合上限*)。
 
@@ -1765,7 +1785,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、市場が閉鎖されたように見えるずっと前から、統合によって実質的な選択肢が奪われることがある。**統合上限**は、退出や競争がまだ残っているうちに集中を精査し、介入し、是正する早期警戒の権限を、ガバナンス機関とスチュワードに与える。*
+*簡単に言えば、市場が閉鎖されたように見えるずっと前から、統合は実質的な選択肢を奪うことがあります。**統合上限**は、退出や競争がまだ可能なうちに、集中を精査し、介入し、是正する早期警戒の権限を統治機関やスチュワードに与えます。*
 
 囲い込みが明白になる前に争訟可能性を予測可能な形で損なう統合は、事後的な支配だけの問題ではなく、[ガバナンス](../../core_05.035_band_accountability.md#governance)と[スチュワードシップ](../../core_05.040_band_continuity.md#stewardship)の問題であり、次に基づく原則レベルの統合上限規律の対象となる。
 - [§11 市場構造](#11-市場構造)。
@@ -1853,13 +1873,13 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - 前提：[§11.3 統合上限](#113-統合上限)、[§11.3.1 統合リスク（囲い込み前の阻害）](#1131-統合リスク囲い込み前の阻害)。
-- 下流への影響：**CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）**（上限設定の運用規則）、[CJS-3.11.2 — 支配的行為と是正措置の一覧](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（上限違反時の救済措置への付託）、[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流への影響：**CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）**（上限設定の運用規則）、[CJS-3.11.2 — 支配的行為と是正措置の一覧](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（上限違反時の救済措置への付託）、[第十一章 §5](../../core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 
 <br>
 
-*平易に言えば、採択主体は、**§11.3.1** (*統合リスク、囲い込み前の阻害*) のリスクが囲い込みに至る前に審査を開始する、証拠に基づく上限を設定しなければならない。分野が必要とする場合は、水平・垂直それぞれのトリガーを設ける。*
+*簡単に言えば、採用者は、**§11.3.1**（統合リスク、ロックイン前の阻害）に示された統合リスクが囲い込みに至る前に審査を開始する、証拠に基づく上限を設けなければなりません。分野が必要とする場合は、水平・垂直それぞれの発動基準を設けます。*
 
 **統合上限**とは、統合が**§11.3.1** (*統合リスク、囲い込み前の阻害*) に記載された阻害が予測可能な形で差し迫る水準に達したとき、強化審査、介入、または構造的救済を開始する、採択主体が調整可能な早期警戒トリガーである。これらは**§11** (*市場構造*)の反集中規律および**§11.2** (*競争促進と支配の防止*)の反支配規則に属し、規模そのものを禁止するものではない。
 
@@ -1911,11 +1931,11 @@ flowchart TB
 
 *平易に言えば、ネットワーク、オープンツール、公共サービス、データ、計算資源などの共有インフラでは、少数の主体が、誰が資源を得るか、誰が誰に依存するか、稼働継続の費用を誰が負担するかを気付かれないまま支配することがある。採択主体はこの種の集中に明確な上限を設定し、上限を超えたとき、または超過が差し迫ったときに行動しなければならない。上限は状況ごとに異なってよいが、実質的な意味を失うほど緩く設定してはならない。[第V条](core_06_rights_part_a.md#article-v-資源配分依存生態系の資金) (*資源配分、依存関係、生態系への資金提供*)と、資源共有に関するその保護は、従来どおり維持される。*
 
-共有インフラにおける集中は見落とされやすい。少数のシステムが、資源の配分方法、実質的な代替手段がないままそれらに依存する他者の数、インフラの維持費を負担する者を支配するようになることがある。[第V条](core_06_rights_part_a.md#article-v-資源配分依存生態系の資金) (*資源配分、依存関係、生態系への資金提供*)は資源共有の権利最低基準を定める。本小節は、[§11.1 市場集中閾値メカニズム（採択主体による調整可）](#111-市場集中閾値メカニズム採択主体による調整可)の集中閾値をこの領域に適用する。閾値設定の運用規則は**CJS-3.11.1** (*市場集中の閾値設定規律*)に、資源の地図、流れ、配分、生態系への資金提供に関する詳細は[**CS-9**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (*資源配分と資金提供のスチュワードシップ*)および[**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*適応的持続可能性と生態系レジリエンス*)に定める。
+共有インフラでは集中を見落としやすい。少数のシステムが、資源配分、現実的な代替手段なしに依存する他者の数、インフラ維持費の負担者を支配することがある。[第V条](../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)（*資源配分、依存関係および生態系資金*）は資源共有の権利の床を定める。本小節は、[§11.1 市場集中閾値メカニズム（採択者による調整可）](#111-market-concentration-threshold-mechanism-adopter-tunable)の閾値をその床に適用する。閾値設定の運用規則は**CJS-5.125 §11.1**（*市場集中閾値の設定規律*）にあり、資源マップ、フロー、配分、生態系資金の詳細は[**CS-6.335**](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)および[**CS-6.325**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience)にある。
 
 **採択主体が定めるべきこと：**
 
-採択主体は、資源配分、依存関係、生態系への資金提供について[市場集中の閾値](../../core_05.035_band_accountability.md#market-concentration-threshold)を示す指標を定義し、閾値を超えた場合、または信頼できる根拠により超過が差し迫っている場合に行動しなければならない。指標は、次を対象とする。
+採用者は、資源配分、依存関係、エコシステム資金について[市場集中閾値](../../core_05.035_band_accountability.md#market-concentration-threshold)の指標を定め、閾値を超えたとき、または超えるおそれが確かなときに対応しなければなりません。指標には次を含めます。
 - 共有資源の配分方法に対する持続的な支配。
 - 依存の集中。すなわち、実質的な代替手段のない一つの提供者または基盤に依存する人々やシステムの数。
 - 共有インフラのインターフェースとアクセスポイントのゲートキーピング。
@@ -1923,7 +1943,7 @@ flowchart TB
 
 **採択主体が設定すべき方法：**
 
-- **実際のフローに基づく：** 運営者の呼称や一回限りの移転ではなく、[第V-A条](core_06_rights_part_a.md#article-v-a依存の地図と資源流の透明性) (*依存関係のマッピングと資源フローの透明性*)が求める依存関係の地図と資源フロー記録に基づいて水準を設定する。
+- **実際のフローに基づく：**運用者の呼称や一回限りの移転ではなく、[第V-A条](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency)（*依存関係のマッピングと資源フローの透明性*）が求める依存マップおよび資源フロー記録に基づいて閾値を定める。
 - **状況に応じる：** [§11.1.1 集中閾値トリガー（採択主体による調整可）](#1111-集中閾値トリガー採択主体による調整可)と同様に、分野、人口規模、依存の密度に応じて水準を変えてよい。
 - **同じ規律に従う：** **CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**の最低基準の維持、実質を重視する審査、無効化防止、強化審査の規則を全面的に適用する。決して発動しないほど高い水準を設定してはならず、ペーパーカンパニー型、連合型、分割型の構造の裏に隠された集中も対象とする。
 - **公開する：** [第V条](core_06_rights_part_a.md#article-v-資源配分依存生態系の資金) (*資源配分、依存関係、生態系への資金提供*)に沿って、水準とその理由を文書化し、異議申立て可能な状態にする。同条は資源フローの可視性、検証可能性、異議申立て可能性を求める。
@@ -1980,7 +2000,7 @@ flowchart TB
 
 詳細な評価要素と認証記録は、次が所管する。
 - **[第八章 §3 システム全体の認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**。
-- **[第八章 §6 システム認証記録](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**。
+- **[第九章 §8 システム認証記録](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 第八章の手続は、次のとおりである。

@@ -296,7 +296,7 @@
 - [公表の真実性と無謀の床](../../core_05.050_band_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [合理的に予見可能な](../../core_05.050_band_oversight.md#reasonably-foreseeable)
 - [レコードシート](../../core_05.035_band_accountability.md#record-seat)
-- [救済と是正](../../core_05.035_band_accountability.md#redress-and-remediation)
+- [修復の準備状況](../../core_05.035_band_accountability.md#remediation-readiness)
 - [不遵守からの避難](../../core_05.055_band_participation.md#refuge-from-non-compliance)
 - [救済システム](../../core_05.035_band_accountability.md#remedy-system)
 - [生殖の自律](../../core_05.055_band_participation.md#reproductive-autonomy)
@@ -326,7 +326,7 @@
 - [影響を受ける側の重み](../../core_05.055_band_participation.md#stakeholder-weight)
 - [標準化](../../core_05.035_band_accountability.md#standardization)
 - [スタンディング効果](../../core_05.035_band_accountability.md#standing-effect)
-- [軌跡ロック](../../core_05.035_band_accountability.md#standing-lock)
+- [機関権限スタンディングロック](../../core_05.035_band_accountability.md#institutional-authority-standing-lock)
 - [現在の成績](../../core_05.035_band_accountability.md#standing-record)
 - [停止](../../core_05.035_band_accountability.md#stay)
 - [責務ある管理](../../core_05.040_band_continuity.md#stewardship)
@@ -447,8 +447,8 @@
 | [継続の測定ファミリー](core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者とシステムは持ちこたえられるか — 生態的に、信頼でき、失敗を横断して。 | [継続目的](core_05_apex_continuity_aim.md)、[継続](../../core_05.040_band_continuity.md) | **継続**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体的測定は**継続**帯の葉の第一次に：[生態的足跡](../../core_05.040_band_continuity.md#ecological-footprint)、[依存](../../core_05.040_band_continuity.md#dependency)、[可逆性](../../core_05.040_band_continuity.md#reversibility)、[持続可能性](../../core_05.040_band_continuity.md#sustainability)、[比例的なシステム横断貢献](../../core_05.040_band_continuity.md#proportionate-cross-system-support) |
 | [参加の測定ファミリー](core_05_apex_participation_leg.md#participation-measurement-family) | 影響を受ける感知者は公正に参加できるか — 声、アクセス、学習、プライバシー。 | [参加](../../core_05.055_band_participation.md)、[継続](../../core_05.040_band_continuity.md) | 公正、アクセス、行為主体性の用語は**参加**帯に；[プライバシー（情報的）](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) クラスターは**継続**帯に。プライバシーが権利の条を横断して配分されるからである |
 | [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) | 感知者は、システムが表すものを見、検証し、依拠できるか。 | [監督](../../core_05.050_band_oversight.md)、[継続](../../core_05.040_band_continuity.md) | 真理と認識的誠実性の第一次は**監督**帯に（リンクのみの脚頭ロールアップ [監督](core_05_apex_oversight_leg.md#oversight-constitutional)）；[信頼可能性](../../core_05.040_band_continuity.md#trustworthiness) および [信頼の劣化と誤導的依拠](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) は**継続**帯に（**Def.C4**） |
-| [説明責任の測定ファミリー](core_05_apex_accountability_leg.md#accountability-measurement-family) | 報酬構造、市場権力、応答義務は、義務を本物に保つか。 | [説明責任](../../core_05.035_band_accountability.md)、[統合](../../core_05.045_band_integrative.md) | 市場構造と争訟可能性の第一次は**説明責任**帯に（リンクのみの脚頭ロールアップ [説明責任](core_05_apex_accountability_leg.md#accountability)）；第一次の層 [誘因整合、代替指標の誠実性、偶発的決済](../../core_05.045_band_integrative.md#incentive-alignment-semi-independent) は**統合**帯に。誘因が四元の脚を横断するからである |
-| [適時性の測定ファミリー](core_05_apex_timeliness_leg.md#timeliness-measurement-family) | 紛争、訂正、修復は、救済がなお意味を持つあいだに解決されるか。 | [説明責任](../../core_05.035_band_accountability.md) | リンクのみの脚頭ロールアップ [適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)；具体的測定は [適時の解決](../../core_05.035_band_accountability.md#timely-resolution) および [解決経路の捕捉](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) — 適時性は四元の脚であり、その実施の葉はいま説明責任帯に住む |
+| [説明責任 測定ファミリー](core_05_apex_accountability_leg.md#measuring-accountability) |報酬体系、市場支配力、責任能力は義務を現実のものに保っているでしょうか? | [説明責任](../../core_05.035_band_accountability.md)、[統合](core_05_band_integrative.md) | **説明責任** バンドの市場構造と 争訟可能性 プライマリー (../../[説明責任](core_05_apex_accountability_leg.md#accountability) リンクのみのレッグヘッド ロールアップ)。 [インセンティブの調整、プロキシの整合性、条件付き決済](core_05_band_integrative.md#incentive-alignment-semi-independent) インセンティブが Tetrad レッグにまたがるため、**統合** バンドのプライマリ レイヤー |
+| [適時性 測定ファミリー](core_05_apex_timeliness_leg.md#measuring-timeliness) |救済措置がまだ重要なまま、紛争、修正、修理は解決されていますか? | [説明責任](../../core_05.035_band_accountability.md) | [適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional) リンクのみのレッグヘッド ロールアップ。 [タイムリーな解決](../../core_05.035_band_accountability.md#timely-resolution) および [解決経路のキャプチャ](../../core_05.040_band_continuity.md#capture-of-resolution-pathways) に関する具体的な対策 — 適時性 は Tetrad レッグであり、その実装リーフは現在 説明責任 バンドに存在します。
 | [憲法上の実績の測定ファミリー](../../core_05.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | 憲法上の成果は、無益な浪費なしに効率よく届けられるか。 | [継続](../../core_05.040_band_continuity.md) | ファミリーの本拠は [`core_05_band_performance.md`](../../core_05.060_band_performance.md)；すべての葉の本文はいま**継続**にある。それらが継続帯のクラスター成員だからである（責務ある管理／共有システムの能力／比例性–負担–効率）— 両目的への手段的なもの。四元の脚ではない。適時性と並行：ファミリーの本拠 ≠ 葉の本拠 |
 
 </details>

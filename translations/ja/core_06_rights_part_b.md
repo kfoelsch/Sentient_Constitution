@@ -203,7 +203,7 @@ flowchart TB
 
 *平たく言えば、ある存在が感知者かどうか疑われるときは、まず公正な審理を受け、原則として包摂される。保護を与えない責任は、保護を差し控えようとする側が負い、誤った排除は取り消せなければならない。*
 
-本条は、感知者としての地位に争いがある場合の判断の最低基準を定める。これを実施する手続は[第十二章 §5](../../core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知者の地位に関する裁定*）に定められ、その手続によって本基準を狭めてはならない。
+本条は、センティエンス状態に争いがある場合に適用する最低基準を定める。これを実施する手続きは[第十五章§5](../../core_15.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*センティエンス状態の判定*）にあり、その手続きによってこの最低基準を狭めてはならない:
 
 - **決定を受ける権利：**感知者性が実質的に争われている存在は、その地位に依存する保護が付与、撤回または縮小される前に、適時、公平で、審査可能な決定を受ける権利を有する。この権利は出自、形態、基盤クラスまたは採用者の都合に左右されない（**感知者の排除禁止**）。
 - **不確実な場合の原則的包摂：**ある存在が[感知者](../../core_05.055_band_participation.md#sentient)であるかが真に未確定の場合、その存在は第六章の権利の床に包摂されているものとして扱う。不確実であることだけを理由に保護を差し控えてはならない。誤った包摂は取り消せるが、誤った排除は取り消せない（**不確実性下の可逆性**の規則）。
@@ -213,15 +213,15 @@ flowchart TB
 - **二種類の申立て：**
   - *包摂を確認する申立て（申立ての誠実性）：*誰でも申立てができる。第五章の**感知者評価**および**感知指標の完全性**に照らして、信頼に足る感知の兆候が一つあれば足りる。確証は不要であり、運営者の自己記述、基盤ラベル、製品分類または根拠のない主張だけでは足りない。信頼に足る兆候のない申立てを受け付けないことは、その存在に不利な判断ではない。
   - *保護を差し控える、または縮小する申立て：*申立人が、**第四章**の証拠基準ならびに**必要性**、**比例性**および**手続的公正**に基づく立証責任を負う。事件の判断が下るまで、存在の保護は維持される。
-- <a id="anti-substitution-sentience-status"></a>**決定を行うのはこの手続だけ：**認証バッジや記録、LEQUまたは地位スコア、能力基準や許可、地位ロック、基盤ラベル、製品分類は、感知者の地位に関する決定ではない。誰が包摂されるかは、本条、[**Def.P1**](../../core_05.055_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)、および[第十二章 §5](../../core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知者の地位に関する裁定*）だけに基づいて決定する。
+- <a id="anti-substitution-sentience-status"></a>**決定を行うのはこの手続きだけ:** 認証バッジまたは記録、LEQUまたはスタンディング・スコア、能力基準または資格認定、スタンディング・ロック、基盤ラベル、製品分類は、センティエンス状態の決定ではない。誰がセンティエントに該当するかは、本条、[**Def.P1**](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)、および[第十五章§5](../../core_15.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*センティエンス状態の判定*）によってのみ決定される。
 <a id="article-vi-c-nondiscrimination"></a>
 #### Article VI-C: 差別の禁止
 <details>
 <summary><strong><span style="color: #2563eb;">根拠と連関</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 公正](core_01_a_values_principles.md#31-fairness)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下流：参加測定群（*実質的公正、保護特性の代理指標化および不均衡な影響*）；[第八章 §3.8.3](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)（*認証が分類、順位付け、価格設定、利用制限または負担配分の条件となる場合の差別禁止評価*）；[第十二章](core_11_forum.md)のフォーラム、行政および執行の手続（*裁定および運用上の義務*）。
-- あわせて読む：第五章の[保護特性](../../core_05.055_band_participation.md#protected-characteristics-constitutional)および[言語、文化、遺産](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional)；先住民の継続性および領域の継続性に関する問いについては、第五章の[先住民の継続性](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional)（*コミュニティに根ざした権利の床；所管する床は**Article VI-C**（差別の禁止）および**Article I-A**（環境上の前提条件と生態系の完全性）*）を参照する。これらの問いは[Article I-A](core_06_rights_part_a.md#article-i-a環境的前提条件と生態的誠実性)（*生態系の完全性という前提条件*）および[第十七章](../../core_18.000_incorporation.md)（*採用主体の管轄規律*）に導かれる。
+- 下流への接続: 参加測定ファミリー（*実質的公正、保護特性の代理指標化、格差影響*）；[第九章§5.4](../../core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)（9.000 §5.4）（*認証が分類、順位付け、価格設定、アクセス制御、負担配分のゲートとなる場合の差別禁止評価*）；[第十五章](../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction)（15.000）のフォーラム、行政、執行の各手続き（*判定および運用上の義務*）。
+- あわせて読む：第五章の[保護特性](../../core_05.055_band_participation.md#protected-characteristics-constitutional)および[言語、文化、遺産](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional)；先住民の継続性および領域の継続性に関する問いについては、第五章の[先住民の継続性](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional)（*コミュニティに根ざした権利の床；所管する床は**Article VI-C**（差別の禁止）および**Article I-A**（環境上の前提条件と生態系の完全性）*）を参照する。これらの問いは[Article I-A](core_06_rights_part_a.md#article-i-a環境的前提条件と生態的誠実性)（*生態系の完全性という前提条件*）および[第十七章](../../core_20.000_incorporation.md)（*採用主体の管轄規律*）に導かれる。
 
 </details>
 
@@ -257,7 +257,7 @@ flowchart TB
   - 権利に影響する誤りまたは害が生じた場合、**Article XIII-A**（*信頼性と信頼に値することの基準*）および**Article XIII-B**（*救済および是正を受ける権利*）に基づく、適時で争訟可能な審査と比例的な救済の対象となること。
 - **個々の決定だけでなく傾向も対象とする：** 負担と便益の分布傾向は、該当する場合、第五章の[実質的公正](../../core_05.055_band_participation.md#substantive-fairness-constitutional)を満たさなければならない。
 - **言語、文化、遺産：** 差別禁止の規則は、言語、文化的帰属、遺産、伝統およびこれらに類する文化的アイデンティティの特性を対象とする。これには、言語の使用、文化的実践、遺産の継承、それらを支えるシステムへの参加が含まれる。効率性、相互運用性、プラットフォーム統合、アクセシビリティ費用または翻訳負担を持ち出すだけでは、必要性と比例性を満たしたことにならない。
-- **先住民および領域の継続性：** 先住民または領域の継続性に関する問いを**Article I-A**（*環境上の前提条件と生態系の完全性*）および**第十七章**に付託しても、採用主体が自国法または拘束力ある外部文書に基づき負う土地、協議、自由意思による事前の十分な情報に基づく同意の義務を縮小してはならない。本憲法は歴史的な土地所有権を決定せず、それ自体で返還を義務づけない。
+- **先住民族および領域の継続性:** 先住民族の継続性および領域の継続性に関する問いを**第I-A条**（*環境上の前提条件および生態系の完全性*）と**第二十章**に付託することを、採択主体が自国法または拘束力ある外部文書に基づきすでに負っている土地、協議、自由意思による事前の十分な情報に基づく同意の義務を縮小するために用いてはならない。本憲法は歴史的な土地所有を決定せず、それ自体で返還を要求するものでもない。
 - **裁定と運用：** フォーラム主導の手続、行政手続および執行手続は、扱う案件に応じて**Articles VI**, **X**, **XII**の遵守を評価しなければならない。
   - 効率性、処理量または最適化だけを理由として、差別的な結果、排他的な手続、または憲法上必要とされる参加の拒否を正当化してはならない。
 <a id="article-vi-d-accessibility"></a>
@@ -401,7 +401,7 @@ flowchart TB
   - その措置自体が現実の健康リスクとなる者を免除し、[**第XI-A条**](#第xi-a条良心宗教ならびに同等の世界観の自由)（*良心、宗教および同等の世界観の自由*）に基づく良心上の事情に配慮すること。いずれも[比例性](../../core_05.035_band_accountability.md#proportionality)に従い、免除は他者への危険の大きさと衡量し、措置を無効化しないために必要な範囲でのみ狭められること；
   - 終了日を定め、根拠となる証拠を公表し、定期的に見直すこと；
   - 影響を受ける者が誰でも、[手続的公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional)に基づき独立した審査者に異議を申し立てられること；および
-  - [**第III条**](core_06_rights_part_a.md#article-iii-生存と不可欠なアクセス)の生存、医療、就労の保障、または[**第IV条**](core_06_rights_part_a.md#article-iv-感知者中心の教育を受ける権利)の教育の保障を奪う制裁によって執行されないこと。また[**第十二章 §6.1**](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急基準に該当する場合を除き、物理的な力によって執行されないこと。
+  - [**第III条**（*生存および必須アクセス*）](core_06_rights_part_a.md#article-iii-survival-and-essential-access)に定める生存、医療、就労の保障、または[**第IV条**（*センティエント中心の教育を受ける権利*）](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)に定める教育の保障を奪う制裁によって執行してはならず、[**第十五章§6.1**](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置および継続負担*）の緊急基準に基づく場合を除き、物理的な力によって執行してはならない。
 <a id="article-vii-b-self-ownership-of-mind"></a>
 #### 第VII-B条：心の自己所有
 <details>
@@ -671,7 +671,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
 - 上流：原則：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)。
-- 下流：**第VI-A条**（*尊厳と平等な道徳的地位*）の尊厳の下限、**第VIII-B条**（*生殖と系譜の自律*）の生殖・系譜の選択、**第VIII-D条**（*発達中の感知者、最善の利益および段階的能力*）の発達中の感知者に関する下限、**第VIII-E条**（*分離の禁止*）の非分離、**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）の自己所有と内的状態の境界；第十七章の組込み規律に基づく制度的実施のインターフェース。
+- 下流への接続: **第VI-A条**（*尊厳と等しい道徳的地位*）の尊厳に関する最低基準、**第VIII-B条**（*生殖および系譜に関する自律*）の生殖および系譜に関する選択、**第VIII-D条**（*発達中のセンティエント、最善の利益、段階的能力*）の発達中センティエントに関する最低基準、**第VIII-E条**（*非分離*）の非分離、**第VII-A条／第VII-B条**（*身体の自己所有*／*精神の自己所有*）の自己所有権および内的状態の境界；制度的実施との接続は**第二十章**の組込み規律に従う。
 - 関連して読む：[家族、ケア、生殖の自律、インスタンス化](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（トピック群の中心）；派生した感知者と親システムの限界について**第VIII-C条**（*派生、インスタンス化、親システムとの関係*）；発達中の感知者の扱いについて[**Def.P4** *発達中の感知者、最善の利益基準、段階的能力*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)；第五章 *家族関係とケア関係*；保護されたケア関係からの分離について**第VIII-E条**（*分離の禁止*）。
 
 </details>
@@ -810,7 +810,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
 - 上流：原則：第一章[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)。
-- 下流：**第VI-A条**（*尊厳と平等な道徳的地位*）の尊厳の下限、**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）の自己所有および内的状態の境界、**第VIII-A条**（*家族関係とケア関係*）、**第VIII-E条**（*分離の禁止*）、発達中の感知者に関する下限、および[**第十三章 §4.1**](core_12_governance.md#41-entitlement-and-eligibility)（*権利付与と適格性*）の年齢を資格剥奪の代理指標に用いない原則。
+- 下流への接続: **第VI-A条**（*尊厳と等しい道徳的地位*）の尊厳に関する最低基準、**第VII-A条／第VII-B条**（*身体の自己所有*／*精神の自己所有*）の自己所有権および内的状態の境界、**第VIII-A条**（*家族およびケア関係*）の家族およびケア関係、**第VIII-E条**（*非分離*）の非分離、[**第十六章§4.1**](../../core_16.000_governance.md#41-entitlement-and-eligibility)（16.000 §4.1）の年齢を代理指標とする資格剥奪の禁止。
 - 関連して読む：[*Def.P4 発達中の感知者、最善の利益基準、段階的能力*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（発達段階、最善の利益、段階的能力の共同適用の中心）；派生や初期インスタンス化のケアが重大に関わる場合は[*派生・発達中の感知者、インスタンス化、ケア権限*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)；第五章 *発達中の感知者*、*最善の利益基準*、*段階的能力*；関連する条項：初期の感知性判定は**第VI-B条**（*感知性の地位認定の下限*）、家族・ケア関係は**第VIII-A条**、派生・インスタンス化・親システムの限界は**第VIII-C条**、養育者や家族からの分離は**第VIII-E条**、自己所有は**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）、内的状態の保護は**第VII-B条**および**CS-2 — 情報の種類と取扱い**を参照。
 
 </details>
@@ -850,14 +850,14 @@ flowchart TB
   - 調整は、暦年齢、インスタンス化の暦上の日付、その他実証できない代理指標に**依拠してはならない**。
   - この規則は、次の内容を明示的に維持し、それらによっても維持される。
     - **第十三章 §1**（*統治権限の承認と正当性*）（単一の政治体制を義務づけない）。
-    - [**第十三章 §4.1 権利付与と適格性**](core_12_governance.md#41-entitlement-and-eligibility)（下限が満たされた後、基本的な憲法上の選択への参加を年齢によって失格にしない）。
+    - [**第十六章§4.1 権利および適格性**](../../core_16.000_governance.md#41-entitlement-and-eligibility)（最低基準を満たした後、基礎的な憲法上の選択への参加を年齢に基づいて失格としてはならない）。
   - 能力評価は理由を示し、**監査可能性**と**異議申立可能性**に適合しなければならず、参政権を奪う手段にしてはならない。
 - **反パターナリズムの下限：**発達中の感知者自身の主体性を制限する保護措置は、**第一章 §7.1**（*制限の規律*）の通常の制限規律を満たさなければならない。
   - 「あなたのため」という説明だけでは要件を満たさない。
   - 他の権利制限と同じく、**必要性**、**比例性**、不確実性下の可逆性、異議申立可能性の基準を適用する。
   - 長期的な制限には定期的な再審査を義務づける。
   - 不当な制限には**救済と是正**が認められる。
-- **本条の限界：**本条は発達中の感知者の権利の下限を定める。養育者の指定、能力評価の手続、定期審査の頻度などの運用方法は、**第十七章**に基づき採択される実施文書に委ねる。
+- **本条の限界:** 本条は発達中のセンティエントに関する権利最低基準を定める。介護者の指定、能力評価の手続き、定期審査の頻度などの運用上の仕組みは、**第二十章**に基づき採択された実施文書に委ねる。
 <a id="article-viii-e-non-separation"></a>
 #### 第VIII-E条：分離の禁止
 
@@ -865,7 +865,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
 - 上流：原則：[第一章 §7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)（不確実性下の可逆性）、[§13.1.5 最小限で、期間が限定され、審査可能な制約の原則](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
-- 下流：**第VIII-A条**（*家族関係とケア関係*）で保護される関係、**第VIII-C条**（*派生、インスタンス化、親システムとの関係*）の派生事例、**第VIII-D条**（*発達中の感知者、最善の利益および段階的能力*）の発達中の感知者と養育者、**第XIII-E条／第XIII-F条**の権利の下限の継続性、第十二章の定期審査。
+- 下流への接続: **第VIII-A条**（*家族およびケア関係*）の保護される関係、**第VIII-C条**（*派生、インスタンス化、親システムとの関係*）の派生事例、**第VIII-D条**（*発達中のセンティエント、最善の利益、段階的能力*）の発達中センティエントおよびその介護者、**第XIII-E条／第XIII-F条**の権利最低基準の継続性、ならびに**第十五章**の定期審査。
 - 関連して読む：[家族、ケア、生殖の自律、インスタンス化](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（トピック群の中心）；第五章 *分離の禁止*。
 
 </details>
@@ -1246,15 +1246,15 @@ flowchart TB
 
 本条は、誰が投票できるか、および最重要事項に関する投票を平等に扱う規則の二点を扱います。
 
-- **投票権：** 感覚ある存在は、権限の付与方法を決める**統治投票**およびその他の**拘束力ある集団的選択**に投票する権利を有します。詳細は[第13章 §4.1 権利と適格性](core_12_governance.md#41-entitlement-and-eligibility)に定められています。
+- **投票権:** センティエントは、**統治投票**および権限の付与方法を決める他の**拘束力ある集団的選択**で投票する権利を有する。詳細は[第十六章§4.1 権利および適格性](../../core_16.000_governance.md#41-entitlement-and-eligibility)に定める。
   - **投票できる人：** 公開された適格基準を満たす者は誰でも投票できます。唯一の例外は、統治投票を特に禁止する[参加資格ロック](../../core_05.035_band_accountability.md#standing-lock)であり、**第XIX-A条**（*参加資格の区別*）および**第XIX-C条**（*指定経路の適格性、責任、継続的監査*）に従って適用されます。
   - **利害関係者の意見とは別の権利：** この投票権は、既設システムの運営について利害関係者が意見を述べる権利とは別であり、その権利は[**第X-C条**](#第x-c条利害関係者の役割および参加の権利)（*利害関係者の役割および参加の権利*）が定めます。一方に対するロックが他方をロックすることはありません。
   - **地域ごとの規則：** 各採択者が権限を付与するために記録した手続（その[文書化された正当性メカニズム](core_05_band_integrative.md#文書化された正統性の仕組み)）および指定所有者が定める追加基準は、この権利に加えて適用されます。これらによって権利を狭めることはできません。
-- **最重要事項における平等な票：** 統治権限を誰が持つのか、その権限がどのように正当に付与されるのか、その範囲や永続的条件は何かという基盤を定める決定があります。**第5章**はこれらを[基本的な憲法上の選択](core_05_band_integrative.md#基礎的憲法選択)と呼びます。これらには**政治的平等の最低基準**が適用されます。
+- **最も重要な問いに対する平等な投票:** 統治権限を誰が持つか、その権限がどのように正当に付与されるか、権限の範囲および継続条件は何かなど、基盤を定める決定がある。**第五章**はこれらを[基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice)と呼ぶ。これらの決定には**政治的平等の最低基準**が適用される:
   - 投票権を有する共同体内のすべての感覚ある存在は、平等な一票を持ちます。
   - 年齢、基盤（感覚ある存在が存在する身体またはシステムの種類）、系譜（祖先や出自）を、票の重みの変更に用いてはなりません。これは**第VI-C条**（*非差別*）および**第5章**の*感覚性に基づく排除の禁止*に従います。
   - **平等な票の適用範囲：** この規則は、権限システム自体の設置と承認に適用されます。システム、機関、意思決定領域が適切に設立された後、その[統治](../../core_05.035_band_accountability.md#governance) — 構造、規則、権限配分、プロセス — の内部で行われる権利に影響する決定には通常の**利害関係者の重み**が適用されます。各利害関係者の発言権は、その決定が及ぼす影響の大きさに応じます。
-  - [第13章 §4.1 権利と適格性](core_12_governance.md#41-entitlement-and-eligibility)は実際の適用方法を定め、この最低基準を弱めてはなりません。
+  - [第十六章§4.1 権利および適格性](../../core_16.000_governance.md#41-entitlement-and-eligibility)は実務上の方法を定め、この最低基準を弱めてはならない。
 <a id="article-x-c-stakeholder-role-and-participation-rights"></a>
 #### 第X-C条：利害関係者の役割および参加の権利
 <details>
@@ -1294,7 +1294,7 @@ flowchart TB
 
   **利害関係者**および**利害関係者の重み**は、範囲、形式、重みに関する第5章の定義を提供し、共同適用の規律は[利害関係者の地位と重み](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)のクラスターが定めます。
 - **新しい機関・企業の設立：** 新しい機関や事業を設立する権利は[**第XI-E条**](#xi-e-制度形成および事業創出)（*機関の設立と事業の創出*）に定められています。設立された機関や事業が他者に実質的な影響を及ぼすようになれば、本条の利害関係者の権利が適用されます。
-- **参加記録または役割基準による適格性：** 参加資格記録または[能力基準](../../core_05.035_band_accountability.md#competency-bar)に基づく基準が参加者の地位や役割の適格性に影響する場合、**参加者としての資格**が適用されます。制限的な結果は、指定された特権経路に対する[参加資格ロック](../../core_05.035_band_accountability.md#standing-lock)を通じて付与されます。
+- **スタンディング記録または役割基準による適格性:** スタンディング記録に基づく基準または[能力基準](../../core_05.035_band_accountability.md#competency-bar)が参加資格または役割適格性に影響する場合、**参加者スタンディング**が適用される。制限的な結果は、ゲート付き経路において[スタンディング・ロック](../../core_05.035_band_accountability.md#standing-lock)を通じて適用される。
   - 実施では、手続の公正（第5章 — *手続の公正*）と操作への耐性を維持しなければなりません。
   - **第X-B条**（*統治への参加と投票権*）に基づく統治投票ロックは、それだけで利害関係者の発言権を制限しません。利害関係者の参加を停止または制限するには、条件を満たす場合、[第10章 §5.5 特別ロック](core_09_standing_integration.md#55-special-locks)の**利害関係者参加資格ロック**など、**利害関係者参加**のロックが必要です。
 - **独立した監査および異議申立て：** 利害関係者の主体性、地位、参加の権利を、それが適用されるシステムだけで定義または制限してはなりません。これらの権利は、採択された実施文書に基づく独立した監査および異議申立ての対象です。
@@ -1517,7 +1517,7 @@ flowchart TB
     - **Necessity** および **Proportionality** の審査を強化する。
     - **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) の *Protected Activity* による保護を適用し、報道を狙った性質を加重要因として扱う。
   - 報道機関およびジャーナリズム活動は、資格証や組織上の地位ではなく、その機能によって判断する。
-- **誠実な姿勢と批判的報道：** **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) の誠実性および真実性の基準は、その適用範囲内の出版を規律する。これらを、適法な批判的報道、調査報道、風刺、または異議申し立てを禁じるものと解釈してはならない。
+- **誠実な枠付けと批判的報道:** **第IX-C条**（*真実に即した出版および高影響出版の制限*）の誠実性および真実性の基準は、その適用範囲内の出版を規律する。これらを、適法な批判報道、調査報道、風刺、または異議表明を禁じるものと解釈してはならない。
   - **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) と本条または **Article XI-B** (*Expression*) が交わる場合、適法な批判的報道の最低保障が優先し、誠実性基準を批判への盾に変える拡張解釈を認めない。
 - **共通の規律：** [**Article XI-B**](#第xi-b条表現) (*Expression*) の制限、萎縮効果の防止、および適用範囲に関する規則は、報道機関およびジャーナリズム活動に全面的に適用される。
 <a id="article-xi-d-assembly-dissent-and-peaceful-protest"></a>
@@ -1567,9 +1567,9 @@ flowchart TB
     - それだけで不整合、故障または不適格の証拠とはならない。
     - **Article VII-B** (*Self-Ownership of Mind*) に反して、報復としてセンティエントの価値観、記憶または内部状態を変更してはならない。
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**異議または抗議による地位・統治上の不利益の禁止：**異議および平和的抗議の最低保障（[保護される非暴力の市民的不服従](#xi-d-nonviolent-civil-disobedience)を含む）を行使したことは、それ自体または評価要素として、次の根拠にしてはならない。
-  - [Chapter Nine](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger) に基づく違反の地位記録を開始、支持、延長または加重すること。
+  - [第十一章](../../core_11.000_standing_assessment.md#23-protected-dissent-is-not-a-trigger)に基づき、違反スタンディング記録を開始し、支援し、延長し、または悪化させること;
   - **Chapter Ten** または **Article XIX** (*Standing and Participation Status*) に基づき、地位ロックを支持し、能力認証を拒否・遅延し、指定経路を狭めること。
-  - [Chapter Eleven](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) に基づく反憲法的非行指定を支持すること。
+  - [第十四章](../../core_14.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)に基づく反憲法的違法行為の指定を支援すること;
   - **Article X-B** (*Governance Participation and Voting Entitlement*) および **Chapter Thirteen** に基づく統治投票、利害関係者参加、立候補、役職就任、フォーラムでの職務、解任請求の権利を減らすこと。
   - [Chapter Eight](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest) に基づくシステムの整合性認証に不利に算入すること。
   - **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) がすでに禁じる監視、潜入、脅威スコアリングまたは記録蓄積を正当化すること。
@@ -1604,7 +1604,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
 - 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-制度的発展)、[§11 Market Structure](core_01_a_values_principles.md#11-市場構造)。
-- 併読事項：第五章 [*Assembly, collective organization, and institutional formation*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) およびその[創設権の限界](../../core_05.055_band_participation.md#creation-rights-limits)；集会と結社については[**Article XI-D**](#xi-d-集会異議および平和的抗議) (*Assembly, Dissent, and Peaceful Protest*)；労働者の組織化については[**Article III-C**](core_06_rights_part_a.md#article-iii-c-労働と経済の床) (*Labor and Economic Floor*)；[**Article XI-F**](#xi-f-結社における不押し付けと同意) (*Non-Imposition and Consent in Association*)。; [第十一章 §6.2 能力基準と確認](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)、[第十三章 §4.2 技術フォーラムの領域](../../core_13.000_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）。
+- 併読事項：第五章 [*Assembly, collective organization, and institutional formation*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) およびその[創設権の限界](../../core_05.055_band_participation.md#creation-rights-limits)；集会と結社については[**Article XI-D**](#xi-d-集会異議および平和的抗議) (*Assembly, Dissent, and Peaceful Protest*)；労働者の組織化については[**Article III-C**](core_06_rights_part_a.md#article-iii-c-労働と経済の床) (*Labor and Economic Floor*)；[**Article XI-F**](#xi-f-結社における不押し付けと同意) (*Non-Imposition and Consent in Association*)。; [第十一章 §6.2 能力基準と確認](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)、[第十三章 §4.2 技術フォーラムの領域](core_11_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）。
 - 下位への適用：創設された制度または事業が他者に実質的な影響を及ぼす場合、[**Article X-C**](#第x-c条利害関係者の役割および参加の権利) (*Stakeholder Role and Participation Rights*) および[**Article XII**](#第xii条ステークホルダーのシステム参加代表および適正手続) (*Stakeholder System Participation, Representation, and Due Process*)。
 </details>
 
@@ -1639,14 +1639,14 @@ flowchart TB
   
   創設者や参加者への報復、監視、標的化も本条に適合しない。 この二つの限定的な門と、その後に示す実践確認を除き、制度または事業の設立・運営に門を設けてはならず、設立または運営の前に確認を求めてはならない。
 - **権限への門は二つだけ：** 名指しされたセンティエントが制度・事業で統治・支配・所有の権限を得る、または行使することを妨げ得る門は、以下の二つに限る。門はその者の権限取得・行使に付される。制度・事業に及ぶのは、それが当人の権限行使の手段、承継者、支配下の実体、または名義上の形態である場合だけである。他者による設立、運営、参加、就労、サービス利用は決して止めない。
-  - **[未解除のロック](../../core_11.000_standing_integration.md#55-special-locks)：** 同種の制度・事業に対する権限の経路を明示する未解決の制度権限資格ロック、反憲法的信託ロック、または他の資格ロックの対象である間、その経路で権限を得たり行使したりできない。範囲はロックを超えず、解除・縮小に応じて終了・縮小する。
-  - **不整合の相当理由による[暫定保留](../../core_05.035_band_accountability.md#interim-hold)：** 管轄権を持つフォーラムは、[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)の根拠が満たされ、具体的事実から、当人が目的または憲法上の制約と不整合である、あるいは目的・支配・利益・受益者について他者を欺く意図または害する意図がある可能性が高い場合、名指しの権限経路に[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)に基づく[暫定保留](../../core_05.035_band_accountability.md#interim-hold)を命じ得る。[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)に従い、検証された行為、支配、報酬から判断する。保留は同条の全手続に従い、認定、ロック、資格記録、資格上の効果ではない。信念、属性、集団所属、評判、害や差別を求めない異議、保護された報告だけを根拠にしてはならない。発言・行為は「真正な形成」の基準で判断する。別の適法な権限者が制度を継続運営し、後任がなく他者が依存する場合は暫定管理人を任命し、制度を停止しない。
+  - **[未解除のロック](../../core_13.000_standing_integration.md#65-special-locks)：** 同種の制度・事業に対する権限の経路を明示する未解決の制度権限資格ロック、反憲法的信託ロック、または他の資格ロックの対象である間、その経路で権限を得たり行使したりできない。範囲はロックを超えず、解除・縮小に応じて終了・縮小する。
+  - **不整合の相当理由による[暫定保留](../../core_05.035_band_accountability.md#interim-hold)：** 管轄権を持つフォーラムは、[第十三章§5](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)の根拠が満たされ、具体的事実から、当人が目的または憲法上の制約と不整合である、あるいは目的・支配・利益・受益者について他者を欺く意図または害する意図がある可能性が高い場合、名指しの権限経路に[第十三章§5](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)に基づく[暫定保留](../../core_05.035_band_accountability.md#interim-hold)を命じ得る。[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)に従い、検証された行為、支配、報酬から判断する。保留は同条の全手続に従い、認定、ロック、資格記録、資格上の効果ではない。信念、属性、集団所属、評判、害や差別を求めない異議、保護された報告だけを根拠にしてはならない。発言・行為は「真正な形成」の基準で判断する。別の適法な権限者が制度を継続運営し、後任がなく他者が依存する場合は暫定管理人を任命し、制度を停止しない。
   - **両方の門に共通する保護：** 門を課す側が立証責任を負う。他の仕事の賃金、権利の最低保障、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者を標的にしてはならない。
 - **名指しされた高リスク行為の実践確認：** 追加要件を一つ設けることができるが、運営当事者に対する門ではない。名指しされたセンティエントが他者のために名指しされた行為を行う前に、[Competency Clearance（能力確認）](../../core_05.035_band_accountability.md#competency-clearance)を求めることができる（*実践確認*）。要件はその行為の実施に付く。 この確認は、名指しされた経路について公表された能力基準に照らし、検証済みの準備能力を記録する肯定的な資格効果である。適用される資格ロックが妨げない場合に限り、その経路を開く助けとなる。名声、内部者の後援、資格の独占、恒久的権利ではない。運営当事者の設立、運営、参加、サービス利用を妨げず、運営当事者の運営も禁止しない。次の条件をすべて満たす場合に限り求められる。
-  - **リスク認定：** 技術専門フォーラムが、[第十三章 §4.2 技術フォーラムの領域](../../core_13.000_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）に基づき、名指しされた行為群について認定を公表していること。認定は、リスクを判断または回避できないセンティエントに重大または不可逆な身体的危害をもたらす、信頼できる因果経路（行為から危害に至る、もっともらしく追跡可能な道筋）があると述べ、必要な能力も明示する。
+  - **リスク認定:** 技術専門フォーラムは、[第十五章§4.2 技術フォーラムの管轄領域](../../core_15.000_forum.md#42-technical-forum-domains)および**CF-15.440**（*技術専門フォーラムおよび専門部会*）に基づき、特定の行為類型について認定を公表している。その認定は、当該行為から危害に至る信頼できる因果経路（行為から危害への、もっともらしく追跡可能な道筋）があり、リスクを判断または回避できないセンティエントに危害を及ぼすと述べる。必要な能力と実務水準を明示する。手術や電気工事のように重大または不可逆的な身体的危害がある場合は免許を指定する。美容施術における化学火傷や感染、食品取扱いにおける食中毒のように、危害が現実的だがより軽度の場合は資格認定を指定する。
   - **より軽い保護策では足りないこと：** 要件を維持する側が、開示、登録、保護された職名、受入れ先・雇用運営当事者への義務、学習者への監督では危険にさらされる者を守れないと示す。
   - **公開された手続で決定：** 採用する文書が、公表され異議申立て可能な手続で、認定を確認要件に十分とするかを決める。フォーラムは認定と基準を定めるが、確認を発行せず、個別案件や許容されるリスク水準も決めない。
-  - **開かれた経路、独占なし：** 基準は[第十一章 §6.2 能力基準と確認](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)に従い、公表され、比例的で、異議申立て可能であること。試験、ポートフォリオ、徒弟訓練、同業者が検証した経験、他の管轄区域の確認は同等の証拠として扱う。複数の独立した発行者が確認でき、唯一の経路があってはならない。現職実務者は基準を定めるパネルまたは発行者の統治機関を支配してはならない。
+  - **開かれた経路と独占の禁止:** 基準は[第十三章§7.2 能力基準および資格認定](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)を満たさなければならず、公表され、比例的で、異議申立てが可能であることを要する。試験、ポートフォリオ、徒弟制度、同業者が検証した経験、他の管轄区域による資格認定は、同等の証明として扱う。複数の独立した発行主体が免許または資格認定を行うことができ、唯一の経路となる発行主体があってはならない。現職の実務者が、基準設定パネルまたは発行主体の統治権限を支配してはならない。
   - **安全な実施：** 学習者は確認済みの監督者の下で行為を実施できる。緊急の行為、または適時に確認済みのセンティエントへ連絡できない場合の行為は禁止されない。決定は[Article XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限に従い、料金や待ち時間が障壁になってはならない（[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)）。負担が改めて示されない限り、各審査で要件は終了し、審査結果は公表される。
   - **保護措置：** 要件を課す側が立証責任を負う。他の仕事の賃金、権利の床、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者に対して用いてはならない。能力の変化は、その行為が求める能力に基づいて判断し、障害や健康状態そのものを基準にしない。
   - **運営当事者のクラス：** 他者のためにこの種の行為を行う運営当事者は、[領域別重要性](../../core_05.050_band_oversight.md#domain-specific-materiality)の安全性の下で重要であり、少なくともクラスLとなる。この要件自体が運営当事者のクラスを決めるものではなく、クラスLであることだけで確認が必要になるわけでもない。 単独または小規模な実務でこの行為を行うセンティエントは、受入れ先を通じた共同専門職実務によってクラスLの義務を満たすことができる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
@@ -1830,7 +1830,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、センティエントに実質的な影響を及ぼす決定は記録上で説明され、実際に異議を申し立てられなければならない。実質的な影響を受ける各集団には、特に市場または制度上の権力を持たない集団に、実質的な参加の場が必要である。影響の大きい決定は、誰かを拘束する前に、記録された正当性の確認も受けなければならない。*
+*平易に言えば、センティエントに重大な影響を及ぼす決定は公式記録で説明され、実効的な異議申立てに開かれていなければならない。重大な影響を受ける各集団には、特に市場または制度上の力を持たない人々にも、実質的な席が必要である。高影響の決定は、誰かを拘束する前に、正当性の確認を記録する必要もある。*
 
 本条は、審議記録、影響の大きい決定における代表、および決定が拘束力を持つ前に通過すべき正当性の関門の最低保障を定める。
 
@@ -1881,7 +1881,7 @@ flowchart TB
 
 - **適用範囲：** **Article X-B** (*Governance Participation and Voting Entitlement*) と組み合わせて適用する。本条の重み付け規則は、次のとおりである。
   - **適用される**のは、**[Stakeholder Weight](../../core_05.055_band_participation.md#stakeholder-weight)** が支配的な規則となる場合、すなわち、**関連するシステム、制度または限定された決定領域**について既に承認済みの **[Governance](../../core_05.035_band_accountability.md#governance) の構造、規則、権限配分、手続の内部**で、権利に実質的な影響を及ぼす決定である。
-  - **適用されない**のは、**[Foundational Constitutional Choice](core_05_band_integrative.md#基礎的憲法選択)** について、影響、依存または利害に比例した**投票の重み**を認めること（**Article X-B** (*Governance Participation and Voting Entitlement*)；[**Chapter Thirteen §4.1 Entitlement and eligibility**](core_12_governance.md#41-entitlement-and-eligibility)）。
+  - [基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice)について、影響、依存、利害に比例する**投票重み**を認めては**ならない**（**第X-B条**（*統治への参加および投票資格*）；[**第十六章§4.1 権利および適格性**](../../core_16.000_governance.md#41-entitlement-and-eligibility)）。
 - **重み付け参加の制約：**重み付けでは次を考慮できる。
   - 影響。
   - 依存。
@@ -1938,7 +1938,7 @@ flowchart TB
   
   結果は、明示された理由および **Chapters Two through Four** に基づく審査を支える十分な証拠に結び付けられなければならない。
 - **制度上の参照先：**本条の運用上の詳細は制度コーパスに定める。
-  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) — 役割の分類と説明責任連鎖の実施。
+  - [**CI-4**](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) — 役割の分類と説明責任連鎖の実施。
   - **CI-6** (*Procedure integrity, contestability, and secondary review*) — 適正手続の運用手順。
   - **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) — 異議申立て経路へのアクセスに関する補足。
 <a id="article-xii-d-non-capture-safeguards"></a>
@@ -1986,7 +1986,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 スチュワードシップの規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)、および[§19 インセンティブの整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)。
-- あわせて読む：[第XII-D条](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
+- あわせて読む：[第XII-D条](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_14.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_14.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
 
 </details>
 
@@ -2027,10 +2027,10 @@ flowchart TB
 
 本条は、次の最低基準を定めます。
 
-- **適用範囲：**これらの最低基準は、対象機関、その**任命権者**、および**採択機関**に適用されます。要件は実質的利害に応じて調整されます。案件の公開記録に提出された文書は影響接触ではなく、それ自体が記録です。
-- **影響接触の境界：**対象機関、その**任命権者**、および**採択機関**は、**影響接触**に関する規則を公開しなければなりません。[**利害関係者**](../../core_05.035_band_accountability.md#interested-party)が、係属中または予見可能な案件をその公開記録の外から形づくるため、構成員、パネリスト、職員、進行役、または説明提供者に接触することを影響接触といいます。規則は実質的利害に応じて調整し、少なくとも次を定めます。
+- **適用範囲:** これらの最低基準は、対象となる団体、その**任命権者**、および**採択機関**に適用される。要件は重要な利害に応じて段階化する。案件の公開フォーラム事件記録に提出された文書は影響接触ではなく、それ自体がフォーラム事件記録である。
+- **影響接触の境界:** 対象となる団体、その**任命権者**、および**採択機関**は、**影響接触**に関する規則を公表しなければならない。影響接触とは、係属中または予見可能な案件に影響を及ぼすため、その案件の公開フォーラム事件記録の外で、[**利害関係者**](../../core_05.035_band_accountability.md#interested-party)がメンバー、パネリスト、職員、進行役、または説明資料の情報源に接触することである。規則は重要な利害に応じて段階化し、少なくとも次を満たさなければならない:
   - 重要な影響接触ごとに、接触者、日時、経路、案件、求めたことや提案したことの概要を**記録**する。
-  - その記録を、接触された構成員、パネリスト、職員から独立した席で保管する（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)）。
+  - 影響接触記録を、接触を受けたメンバー、パネリスト、職員から独立した席に保管する（[第八章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)）;
   - 他の参加者が応答できる時点までに、案件記録で重要な接触を**開示**する。
   - 証拠と主張を公開記録に置く。非公開接触によって、決定が依拠する証拠や主張を提供してはならない。
   - 贈答、利益、将来の役職の申し出、および脅迫はすべて利益相反として扱い、通常の接触ではなく、開示、拒否のうえ**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）に従って処理する。
@@ -2052,10 +2052,10 @@ flowchart TB
 - **くじ引きで選ばれる機関：**くじ引きで選ばれる機関の選任メンバーには、これらの最低基準の最も厳しい段階が適用されます。[第十三章](core_12_governance.md#12-適格争われる選出民主的な最低限)が求める公開ブリーフィング記録を通じる場合を除き、案件に関する非公開接触は禁止されます。
 - **執行と経路づけ：**
   - **完全性の発動要件：**隠された影響接触、利益の申し出、捏造された声は、**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）と**CJS-3.6**（*完全性保証とレジリエンス運用*）の下で完全性の発動要件として処理します。
-  - **不正行為の経路：**真正でない声を意図的または無謀に大量投入すること、贈収賄や不適切な利益交換は、**第二章から第四章**および**第十一章**の基準で裏付けられる場合、**反憲法的不正行為**として第十一章の下で申し立てることができます。
+  - **違法行為の経路:** 偽りの声を意図的または無謀に大量投入すること、贈収賄、不適切な利益交換は、**第二章から第四章**および**第十四章**の基準群に照らして立証される場合、**第十四章**に基づく**反憲法的違法行為**として申し立てることができる。
   - **完全性を先行させ、自己審理をしない：**[**第XII-D条**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）の経路づけと自己審理防止の規則が適用されます。自らの構成員や職員が不適切な接触を受けたかどうかを、その機関だけが最終判断する場となってはなりません。
 - **制度上の経路づけ：**詳細な規則は次によって定められます。
-  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（*任命、能力、交代、解任*）。退任後の規則については **CI-4.2**（*役割基準、任命基準、解任経路*）を含みます。
+  - [**CI-16.205**](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-appointment-competency-rotation-and-removal)（*任命、能力、交代および解任*）、職務終了後の規則に関する**CI-16.205 §2**（*役割基準、任命基準および解任経路*）を含む;
   - **CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）。
   - **CJS-3.6**（*完全性保証とレジリエンス運用*）、*影響接触とロビー活動の境界*。
   - フォーラムのパネルについては、[corpus_forum.md](../../corpus_forum.md)の**CF-4**（*パネルの構成、開示、忌避、適法な法廷構成*）および**CF-7**（*完全性保護策、捕捉防止運用、自己審理防止の支援*）。

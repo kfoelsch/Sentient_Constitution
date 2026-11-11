@@ -10,6 +10,8 @@
 >
 > **Próximo (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Arco de leitura:** §1 alocação do ônus → §2 mapa de rastro → §3 observabilidade → §4 limites de segurança → §5 padrão de evidência → §6 fronteira da camada de certificação (não operativa)
+> **A jusante:** [Capítulo Nove — Certificação de Alinhamento do Sistema](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
+> **A jusante:** [Capítulo Nove — Certificação de Alinhamento do Sistema](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 
 </details>
 
@@ -18,9 +20,9 @@
 
 > Onde isto vive (navegação):
 > - **Mapa da Tétrade:** A alocação do ônus, a evidência, a rastreabilidade, a observabilidade e a verificação implementam as pernas de **supervisão** e **prestação de contas** da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) estabelecidas no [Preâmbulo](core_00_preamble.md#preâmbulo--requisitos-fundacionais); **participação** onde for materialmente exigida por meio de observabilidade prática e impugnação independente sob as seções **3** e **4**. Os requisitos se escalam à [aposta material](core_00_preamble.md#material-stake).
-> - **Titular constitucional:** alocação do ônus, evidência de conformidade, rastreabilidade da definição, observabilidade e verificação sob restrições de segurança. O **Capítulo Dez** é titular da disciplina de registros de trajetória e de insumo verificado, lida juntamente com este capítulo.
+> - **Titularidade constitucional:** alocação do ônus da prova, evidência de conformidade, rastreabilidade das definições, observabilidade e verificação sujeita a restrições de segurança. O **Capítulo Onze** é responsável pelos registros de standing e pela disciplina de entrada verificada lidos com este capítulo.
 > - **Titular de implementação:** a mecânica de implantação, manejo de dados e garantia nos arquivos de implementação designados deve permanecer consistente com estas regras e pode ser mais estrita onde o corpus já fornece lógica de regra mais estrita.
-> - **Regra antirrealocação:** este capítulo governa só o ônus, o rastro, a observabilidade, os limites de segurança e a evidência. Não reitera as definições do Capítulo Cinco, a medição de contribuição ou de trajetória do **Capítulo Dez**, nem os critérios de má conduta anticonstitucional do Capítulo Doze. O roteamento da não conformidade verificada rumo à trajetória é governado por [Capítulo Três §3 — Perfis de achado de não conformidade](core_03_definition_integrity.md#3-perfis-de-achado-de-não-conformidade) e [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). A **seção 6** enuncia como os Capítulos Dois a Quatro diferem do [Capítulo Nove — Certificação de alinhamento do sistema](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Regra contra deslocamento de competência:** este capítulo rege apenas ônus, rastreabilidade, observabilidade, limites de segurança e evidências. Ele não repete as definições do Capítulo Cinco, a medição de contribuição ou standing do **Capítulo Doze**, nem os critérios de conduta anticonstitucional do Capítulo Quatorze. O encaminhamento de não conformidade verificada para standing é regido por [Capítulo Três §3 — Perfis de constatação de não conformidade](core_03_definition_integrity.md#3-non-compliance-finding-profiles) e [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened). A **seção 6** explica como os Capítulos Dois a Quatro diferem do [Capítulo Nove — Certificação de Alinhamento do Sistema](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -43,13 +45,13 @@ Leia em ordem. Cada passo se constrói sobre o anterior; não pule nenhum.
 
 | Passo | Trabalho simples | Seção |
 | --- | --- | --- |
-| **1 — Quem prova** | O ônus recai sobre quem afirma conformidade | [§1](#1-execução-exclusiva-e-alocação-do-ônus) |
-| **2 — Mostre o mapa** | Rastro estruturado das definições até a conduta observável | [§2](#2-exigência-de-rastreabilidade-da-definição) |
-| **3 — Torne conferível** | Os sistemas devem expor o bastante para verificar o mapa — na prática, não na teoria | [§3](#3-exigência-de-observabilidade-da-rastreabilidade) |
-| **4 — Limites de segurança** | Limites reais de segurança são permitidos; bloqueios pretextuais não | [§4](#4-regra-de-observabilidade-e-verificação-sob-restrições-de-segurança) |
-| **5 — O que conta** | A evidência deve ser real, completa, independente e sustentada | [§5](#5-padrão-de-evidência-de-conformidade) |
+| **1 — Quem deve provar** | O ônus recai sobre quem alega conformidade | [§1 Aplicação exclusiva e alocação do ônus da prova](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — Mostre o mapa** | Rastreabilidade estruturada das definições ao comportamento observável | [§2 Requisito de rastreabilidade das definições](#2-definition-traceability-requirement) |
+| **3 — Torne verificável** | O sistema deve expor o suficiente para verificar o mapa — na prática, não apenas em teoria | [§3 Requisito de observabilidade da rastreabilidade](#3-observability-of-traceability-requirement) |
+| **4 — Limites de segurança** | Limites de segurança reais são permitidos; bloqueios pretextuais, não | [§4 Regra de observabilidade e verificação sujeitas a restrições de segurança](#4-security-constrained-observability-and-verification-rule) |
+| **5 — O que conta** | A evidência deve ser real, completa, independente e contínua | [§5 Padrão de evidência de conformidade](#5-compliance-evidence-standard) |
 
-**Acesso em linguagem simples.** [Capítulo Um §3.4 — Acessibilidade em linguagem simples (dever de participação e de administração responsável)](core_01_a_values_principles.md) aplica-se aos materiais de governança, adjudicativos e operacionais que os sencientes usam para exercer direitos, impugnar decisões ou verificar conformidade. A linguagem simples **não** muda nem reduz o que os Capítulos Dois a Quatro exigem. Se uma versão em linguagem simples discordar das regras de definição ou verificação aqui, essas regras controlam. Usar jargão, complexidade empilhada ou opacidade para bloquear o acesso à [impugnabilidade](../../core_05.035_band_accountability.md#contestability) ou ao [Artigo XVI: Auditoria, transparência e verificação independente](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) é não conforme sob este capítulo e o **Capítulo Um §3.4**.
+**Acesso em linguagem simples.** [Capítulo Um §5.2 — Acessibilidade em linguagem simples (dever de participação e gestão responsável)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) aplica-se aos materiais de governança, adjudicação e operação que seres sencientes usam para exercer direitos, contestar decisões ou verificar conformidade. A linguagem simples **não** altera nem reduz o que os Capítulos Dois a Quatro exigem. Se uma versão em linguagem simples divergir das regras de definição ou verificação aqui, essas regras prevalecem. Usar jargão, complexidade acumulada ou opacidade para impedir o acesso à [contestabilidade](../../core_05.035_band_accountability.md#contestability) ou ao [Artigo XVI: Auditoria, Transparência e Verificação Independente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) constitui não conformidade segundo este capítulo e o **Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de participação e gestão responsável)**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. Exigência de rastreabilidade da definição
@@ -68,7 +70,7 @@ Leia em ordem. Cada passo se constrói sobre o anterior; não pule nenhum.
 Esta seção exige um **mapa de rastro estruturado**. Para toda definição que se aplica de forma material à conduta do sistema — inclusive toda definição do **Capítulo Cinco** materialmente exigida — o mapa deve ligar cada parte à conduta **observável** e aos efeitos do mundo real:
 
 - **o que é (O)** — de que trata o termo
-- **como é medido (M)** — que medida se aplica em cada nível
+- **como é medido (M)** — qual medida se aplica em cada camada
 - **como é avaliado (A)** — como o termo deve ser avaliado
 - **o que deve sustentar-se (C)** — o que deve ser verdade na prática
 
@@ -87,8 +89,8 @@ Deixar de invocar ou aplicar corretamente qualquer definição do **Capítulo Ci
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](#2-exigência-de-rastreabilidade-da-definição).
-- Destino: [Capítulo Quatro, seção 4 — Regra de observabilidade e verificação sob restrições de segurança](#4-regra-de-observabilidade-e-verificação-sob-restrições-de-segurança); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](#5-padrão-de-evidência-de-conformidade).
+- A montante — Princípios: [Capítulo Quatro, seção 3 — Requisito de observabilidade da rastreabilidade](#3-observability-of-traceability-requirement); [Capítulo Um, seção 6.2 — Restrições de divulgação epistêmica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
+- A jusante: [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](#5-compliance-evidence-standard); [CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Tipos e tratamento de informações*) e [CS-6.310 — Classificações de dados](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications), e [CS-6.340](../../corpus_systems/cs_06.340_system_requirements.md#cs-6340-system-requirements) (*Requisitos do sistema*) — interfaces de capacidade voltadas ao usuário, credenciais e tratamento de tipos de informação.
 - Ler com: [Definições agrupadas do Capítulo Cinco (Diligência de previsibilidade)](../../core_05.050_band_oversight.md#foreseeability) — a verificabilidade teórica que não é praticamente alcançável sob condições razoavelmente previsíveis é não conforme.
 - Ler com: [Definições agrupadas do Capítulo Cinco (Diligência de previsibilidade)](../../core_05.050_band_oversight.md#foreseeability) — a opacidade imposta pelo desenho deve ser avaliada contra condições razoavelmente previsíveis, não contra a operação no melhor caso.
 
@@ -108,7 +110,7 @@ A seção 2 exige um mapa de rastro; esta seção exige que o sistema exponha o 
 - tratar limitações de desenho do sistema, opacidade arquitetural, dependências externas ou componentes de terceiros como **falhas de desenho** a serem enfrentadas por modificação, restrição ou exclusão
 - tratar as partes da definição afetadas e quaisquer pretensões de conformidade dependentes como **não conformes** onde o rastreamento pleno não puder ser alcançado
 
-**Os sistemas não devem:**
+*Em termos simples: a seção 2 exige um mapa de rastreabilidade; esta seção exige que o sistema revele o suficiente sobre si para que partes autorizadas ou afetadas possam verificar esse mapa na prática, não apenas em teoria. Arquitetura opaca, dependências externas e componentes de caixa-preta não são isentos.*
 - apoiar-se em componentes ou dependências que impedem a satisfação deste requisito sob condições **razoavelmente previsíveis**
 - tratar limitações de desenho, opacidade arquitetural, dependências externas ou componentes de terceiros como isenções deste requisito
 - impor custo, complexidade, atraso, restrições de acesso ou condições informacionais que prejudiquem de forma material a verificação independente
@@ -149,7 +151,7 @@ Onde um limite bloqueia a validação independente significativa, as pretensões
 - essa determinação é justificada de forma independente e auditável
 - o método restante preserva integridade epistêmica suficiente para a determinação de conformidade
 
-A criptografia e o manejo de tipos de informação devem alinhar-se a esta Constituição e a **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de informação e manejo**; onde forem materialmente pertinentes, ainda devem permitir a verificação plena de conformidade sob este capítulo. O manejo criptográfico e de tipos de informação não deve substituir a [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) nem a [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), nem os deveres das **seções 2**, **3** ou **5**.
+A criptografia e o tratamento de tipos de informação devem estar alinhados à Constituição e a **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Tipos e tratamento de informações*) e [CS-6.310 — Classificações de dados](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**; quando materialmente relevantes, ainda devem permitir a verificação completa de conformidade segundo este capítulo. A criptografia e o tratamento de tipos de informação não devem substituir [Verdade (Restrição Constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) ou [Segurança (Restrição Constitucional)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), nem os deveres das **seções 2**, **3** ou **5**.
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. Padrão de evidência de conformidade
@@ -157,8 +159,8 @@ A criptografia e o manejo de tipos de informação devem alinhar-se a esta Const
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Capítulo Quatro, seções 1 a 4](#1-execução-exclusiva-e-alocação-do-ônus); [Capítulo Dois, §1 — Propósito e papel](core_02_definition_structure.md#1-propósito-e-papel); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição); [Capítulo Dois, §3 Consistência ao longo da pilha de definições](core_02_definition_structure.md#3-consistência-ao-longo-da-pilha-de-definições); [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-integridade-da-definição-e-restrições-antievasão); [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](core_03_definition_integrity.md#2-não-conformidade-a-partir-de-conduta-observável-do-sistema); [Capítulo Três, §2.6 Restrição de integridade da incerteza e de não exploração](core_03_definition_integrity.md#26-restrição-de-integridade-da-incerteza-e-de-não-exploração) — regras substantivas de definição e de não conformidade; **§4** enuncia só os requisitos da camada de evidência e não reitera essas regras.
-- Destino: [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Ler com: [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](#2-exigência-de-rastreabilidade-da-definição) — deixar de invocar ou aplicar corretamente qualquer definição do **Capítulo Cinco** materialmente exigida invalida por completo a avaliação, a evidência e a determinação de conformidade associadas; [Capítulo Um, §6 — Resolução de conflitos de processo](core_01_b_interaction_interpretation.md); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) onde a escalada afeta compensações entre o bem-estar senciente e a estabilidade de horizonte longo; [Segurança (restrição) do Capítulo Cinco](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Verdade (restrição constitucional) do Capítulo Cinco](../../core_05.050_band_oversight.md#truth-constitutional-constraint) e [Integridade epistêmica do Capítulo Cinco](../../core_05.050_band_oversight.md#epistemic-integrity) — alinhamento de evidência informado pela ciência para pretensões empíricas, preditivas ou causais.
+- A jusante: [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- [Capítulo Um, §13 — Processo de Resolução de Conflitos Constitucionais](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.005 §13);
 
 </details>
 
@@ -174,7 +176,7 @@ As seções **2** a **4** fixam rastro, observabilidade e limites de segurança;
 - ser **observável**, **verificável**, **completa** em relação ao âmbito exigido, **sustentada** ao longo do tempo e **suficiente** em rigor proporcional ao impacto, à dependência e ao risco do sistema para resistir a auditoria independente e a testes adversários
 - usar **validação independente** onde for razoavelmente alcançável; a ausência deve ser justificada sob restrições de proporcionalidade
 - cumprir as restrições da **seção 4** sobre geração, divulgação e verificação de evidência, inclusive o manejo criptográfico e de tipos de informação onde for aplicável
-- onde valores ou restrições constitucionais conflitarem na mesma avaliação, permanecer consistente com [Capítulo Um, §6 — Resolução de conflitos de processo](core_01_b_interaction_interpretation.md)
+- quando valores ou restrições constitucionais entrarem em conflito na mesma avaliação, mantenha a consistência com [Capítulo Um, §13 — Processo de Resolução de Conflitos Constitucionais](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)
 - para pretensões **empíricas**, **preditivas** ou **causais** materiais à conformidade, à classificação ou à governança, refletir **integridade científica** onde for proporcional — métodos testáveis ou revisáveis, pressupostos e limitações documentados, sem supressão de resultados nulos ou de replicações falhas onde incidam sobre decisões, e conclusões revisáveis diante de nova evidência
 
 **O seguinte não cumpre o ônus da prova sob a seção 1:**
@@ -191,8 +193,8 @@ Onde a incerteza impede a demonstração definitiva de conformidade para compone
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Capítulo Dois — Estrutura das definições e requisitos dos componentes](core_02_definition_structure.md#capítulo-dois-estrutura-das-definições-e-requisitos-dos-componentes); [Capítulo Três — Integridade da definição, evasão e não conformidade](core_03_definition_integrity.md#capítulo-três-integridade-da-definição-evasão-e-não-conformidade); [Capítulo Quatro, seções 1 a 5](#1-execução-exclusiva-e-alocação-do-ônus).
-- Destino: [Capítulo Nove — Certificação de alinhamento do sistema](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Ler com: [Capítulo Nove §7 — Resultados da certificação](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — a não conformidade verificada sob os Capítulos Dois a Quatro pode reabrir ou derrotar a certificação independentemente de certificação prévia.
+- A jusante: [Capítulo Nove — Certificação de Alinhamento do Sistema](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [Capítulo Onze — Registros de standing](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- Leia também: [Capítulo Nove §7 — Resultados da certificação](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — a não conformidade verificada segundo os Capítulos Dois a Quatro pode reabrir ou impedir a certificação, independentemente de certificação anterior.
 
 </details>
 
@@ -209,10 +211,10 @@ Os **Capítulos Dois, Três e Quatro** fornecem o substrato vigente de definiç�
 
 Estas se aplicam sempre que a conformidade é avaliada — com ou sem certificação.
 
-O **[Capítulo Nove — Certificação de alinhamento do sistema](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** fornece o **processo de certificação** supervisionado por fórum onde for material: domínios de avaliação do sistema inteiro, deveres de registro de certificação, resultados da certificação, periodicidade de recertificação, cadeia de impugnabilidade e ponte de insumo verificado rumo ao Capítulo Dez. Ele **aplica** os Capítulos Dois a Quatro; **não** os reitera.
+**[Capítulo Nove — Certificação de Alinhamento do Sistema](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** fornece o **processo de certificação** supervisionado pelo fórum quando houver relevância material: domínios de avaliação de todo o sistema, deveres dos Registros de Certificação do Sistema e da Instituição, resultados da certificação, intervalo de certificação, cadeia de contestabilidade e ponte de entrada verificada para o Capítulo Onze. Ele **aplica** os Capítulos Dois a Quatro; não os reescreve.
 
 Quem lê não deve tratar:
-- um **registro de certificação** como substituto da conformidade contínua sob os Capítulos Dois a Quatro
+- tratar um **Registro de Certificação do Sistema ou da Instituição** como substituto da conformidade contínua exigida pelos Capítulos Dois a Quatro
 - a certificação, a certificação condicional ou a recertificação do **Capítulo Nove** como rebaixamento dos padrões de prova, rastro ou evidência deste capítulo
 - os **Capítulos Dois a Quatro** como opcionais porque um sistema foi certificado antes — a não conformidade verificada sob esses capítulos pode reabrir ou derrotar a certificação sob o Capítulo Nove
 

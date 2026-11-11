@@ -19,6 +19,8 @@
 
 **चयनित अनुवाद।** यह पायलट [प्रस्तावना](core_00_preamble.md), [अध्याय एक](core_01_a_values_principles.md) के भागों और [अध्याय सात के चार्टर](core_07_charters.md) समेत कुछ क्रमांकित `core_*` फ़ाइलों का अनुवाद करता है। प्रेषण क्रम में हिंदी स्पेनिश के बाद आती है।
 
+अध्याय ग्यारह और बारह के वर्तमान अंग्रेज़ी स्रोतों पर आधारित पूर्ण मसौदे अब उपलब्ध हैं; उनकी स्वतंत्र मानवीय समीक्षा अभी नहीं हुई है।
+
 ## फ़ाइलें
 
 | फ़ाइल | अंग्रेज़ी मूल |
@@ -40,13 +42,20 @@
 | [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
 | [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md) | [core_09.005_system_alignment_certification_record_process.md](../../core_09.005_system_alignment_certification_record_process.md) |
+| [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md) | [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) |
 | [core_07_charters.md](core_07_charters.md) | [core_07_charters.md](../../core_07.000_charters.md) |
 | [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.000_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md) | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_13.000_standing_integration.md](../../core_13.000_standing_integration.md) |
+| [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md) | [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_14.000_misconduct_designation.md](../../core_14.000_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_16.000_governance.md](../../core_16.000_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_15.000_forum.md](../../core_15.000_forum.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_17.000_non_regression.md](../../core_17.000_non_regression.md) |
+| [core_11_standing_assessment.md](core_11_standing_assessment.md) | [core_11.000_standing_assessment.md](../../core_11.000_standing_assessment.md) |
+| [core_12_standing_measurement.md](core_12_standing_measurement.md) | [core_12.000_standing_measurement.md](../../core_12.000_standing_measurement.md) |
 
 पायलट की कड़ियाँ अभी अननुवादित अंग्रेज़ी फ़ाइलों की ओर जाती हैं। HTML अटकाव (`id`) मूल से नकल हैं, ताकि खंड-दर-खंड तुलना हो सके।
 

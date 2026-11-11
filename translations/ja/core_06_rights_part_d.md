@@ -119,7 +119,7 @@ flowchart TB
 
 [参加資格](../../core_05.035_band_accountability.md#participant-standing-constitutional)とは、憲法上有効な資格記録、資格の効果、または指名経路の[能力基準](../../core_05.035_band_accountability.md#competency-bar)により認められる参加状況または役割適格性です。評判や社会的評価ではなく、それ自体でアクセス制限を課すものではありません。制限的な効果は、指名された特権経路に対する[資格効果](../../core_05.035_band_accountability.md#standing-effect-chapter-six)と[資格ロック](../../core_05.035_band_accountability.md#standing-lock)を通じてのみ生じます。
 
-本条の資格規律は、[憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)と[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)を、[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)および[第九章から第十二章の資格・フォーラム監督パイプライン](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)とともに実施します。これらの所管層の手続は、検証済みの貢献と違反を測定し救済を監督しますが、**第III-A条**（*生存*）の生存必需や本章の他の権利最低基準を損なうために用いてはなりません。
+本条の資格規律は、[憲法上の四本柱](../../core_00.000_preamble.md#constitutional-tetrad)および[二つの憲法上の目的](../../core_00.000_preamble.md#two-constitutional-aims)を、[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification)および[第十一章から第十五章の資格記録・フォーラム監督処理手順](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)とともに実施します。これらの所管層の手続は検証済みの貢献と違反を測定し、救済を監督しますが、**第III-A条**（*生存*）の生存必需または本章の他の権利最低基準を損なうために用いてはなりません。
 
 次の事項とは区別されなければなりません。
 - 固有の尊厳；
@@ -129,7 +129,7 @@ flowchart TB
 
 *隣接条文：*
 
-- **所管層：**[第九章](core_08_standing_assessment.md)および[第十章](core_09_standing_integration.md)は参加資格の記録とその効果を測定します。本条は、それらの層が狭めてはならない権利最低基準上の限界を定めます。
+- **所管層：**[第十一章](../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)および[第十三章](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)は資格記録と資格効果を測定します。本条は、これらの層が狭めてはならない権利最低基準の限界を定めます。
 - **併せて読む：**
   - **第VI-A条**（*尊厳と平等な道徳的地位*）および**第XII条**（*ステークホルダー・システムへの参加、代表、適正手続*）— 資格基準は尊厳またはステークホルダーの存在に代わるものであってはなりません。
   - **第III-A条**（*生存*）— 参加資格だけを理由に生存に不可欠なアクセスを閉ざしてはなりません。
@@ -182,9 +182,9 @@ flowchart TB
   - 役割に適格な者と固有の尊厳または平等な道徳的地位を持つ者を混同すること；
   - 役割の地位を権利最低基準の代わりにしたり、システムが実際に影響を及ぼしている者をステークホルダーと判断する代わりにしたりすること；
   - <a id="anti-substitution-sentience-status-xviii"></a>感知性地位の判定に代わること（その判定は**第VI-B条**（*感知性地位裁定の最低基準*）に限られる）；
-  - 資格記録がないことを不利な事実として扱うこと、また生存必需、通常の商取引、影響を受けた当事者としての参加の条件として記録または「記録なし」の証明を求めること — [第九章 §2.1](core_08_standing_assessment.md#21-silence-is-the-default)（*沈黙が既定*）のもとでは記録がないことが通常の状態です；
-  - **第XI-D条**（[*異議と平和的抗議の最低基準*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)）の異議または平和的抗議を、指名経路の不利益な事実または重み付け要因として扱うこと；または
-  - 指名経路の効果を一つのプロフィール、順位、公開表示にまとめること — [第十章 §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)（*指名経路の効果の集約禁止*）。
+  - 資格記録がないことを不利な事実として扱うこと、または生存必需、通常の商取引、影響を受ける当事者としての参加条件として資格記録や「記録なし」の証明を要求すること。[第十一章 §2.2](../../core_11.000_standing_assessment.md#22-silence-is-the-default)（*沈黙が既定値*）に基づき、資格記録がないことは通常の状態です。
+  - **第XI-D条**（*集会、異議、平和的抗議*）に基づく異議や平和的抗議（[*異議・平和的抗議の権利最低基準*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)）を、ゲート付き経路における不利な事実または加重要素として扱うこと。または
+  - ゲート付き経路の効果をまとめてプロファイル、ランキング、公開表示にすること — [第十三章 §8.1](../../core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects)（*ゲート付き経路の効果の集約禁止*）。
 
 <a id="article-xix-b-contestability-and-proportional-restriction-limits"></a>
 
@@ -193,7 +193,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：第一章の原則[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下位根拠：[第九章 §2](core_08_standing_assessment.md#2-question-1--what-happened)（*資格記録、検証済み入力のゲート、最低記録内容*）；[第九章 §3.6](core_08_standing_assessment.md#36-forum-boundary)（*フォーラム境界*）；[第十章 §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances)（*能力基準と認可*）；[第十章 §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks)（*資格ロック*）；[第十章 §8](core_09_standing_integration.md#8-restoration-and-reassessment)（*復帰と審査*）。
+- 下位規定：[第十一章 §2](../../core_11.000_standing_assessment.md#2-question-1--what-happened)（11.000 §2）（*資格記録、検証済み入力ゲート、記録の最低内容*）；[第十一章 §2.7](../../core_11.000_standing_assessment.md#27-forum-boundary)（11.000 §2.7）（*フォーラムの境界*）；[第十三章 §9](../../core_13.000_standing_integration.md#9-restoration-and-reassessment)（13.000 §9）（*復帰と再審査*）。
 - 併せて読む：**第III-A条**（*生存*）；**第XIII-A条**（*信頼性と信頼に値する性質の基準*）および**第XIII-B条**（*救済と是正への権利*）；[前文 §6.2 全体の連鎖のつながり](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)；[システム整合性認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)；[憲法上の四本柱](core_00_preamble.md#constitutional-tetrad) — **第XXVI-C条**（*適時の解決と遅延防止の最低基準*）および**第XX-B条**（*制限の最低基準*）における**参加**、**監督**、**説明責任**、**適時性**。
 
 </details>
@@ -221,14 +221,14 @@ flowchart TB
 
 本条は資格制限に対する争訟可能性と比例性の限界を定めます。
 
-- **検証済み入力のゲートと記録への異議申立て：**参加資格、信頼、役割、承認、承認資格に影響する決定は、[第九章 §2 問1 — 何が起きたか](core_08_standing_assessment.md#2-question-1--what-happened)に従う、軸が混在しない**貢献資格記録**または**違反資格記録**の検証済み入力だけを用いることができます。告発、未裁定の主張、暫定的な振り分けタグ、受付段階だけの説明、その他の紛争段階の資料だけでは、資格について違反の性質または貢献の性質を示しません。
-  - 各資格記録は、異議申立ての方法、審査するフォーラムまたは権限主体、訂正、復帰、失効、予定審査の条件を[第九章 §3.1 最低記録内容](core_08_standing_assessment.md#31-minimum-record-contents)に従って記載しなければなりません。
+- **検証済み入力ゲートと記録への異議申立て：**資格、信頼、役割、承認、または承認適格性に影響する判断は、[第十一章 §2 質問1 — 何が起きたか？](../../core_11.000_standing_assessment.md#2-question-1--what-happened)に基づく軸純粋な**貢献資格記録**または**違反資格記録**からの検証済み入力のみを使用できます。申立て、未裁定の主張、暫定的な振分けタグ、受付時の物語だけの情報、その他の紛争段階の資料は、それだけでは資格判断における違反の性質や貢献の性質を示しません（この規則は[第十一章 §2.5 検証済み入力ゲート](../../core_11.000_standing_assessment.md#25-verified-input-gate)が所管します）。
+  - すべての資格記録に、異議申立ての方法、審査するフォーラムまたは権限者、[第十一章 §4.1 記録の最低内容](../../core_11.000_standing_assessment.md#41-minimum-record-contents)に基づく訂正、回復、失効、または予定審査の条件を明記しなければなりません。
   - 関連する貢献記録と違反記録は必要な場合に相互参照し、監査可能で異議申立て可能な状態を保ち、統合スコア、混合された功績判断、区別のない資格ラベルにまとめてはなりません。
 - **多元性と争訟可能性：**参加資格の評価は多元性、監査可能性、意味ある審査に十分な透明性、争訟可能性を保たなければなりません。
   - 単一の権限主体、データセット、評判経路、不透明なアルゴリズム・システムが、一方的に資格を決めて意味ある審査を閉ざしてはなりません。
   - [能力基準と認可](core_09_standing_integration.md#62-competency-bars-and-clearances)および肯定的な資格認定は、争訟可能で、審査可能で、非独占的でなければなりません。
 - **フォーラムの監督と記録への異議：**[第十二章](core_11_forum.md)のフォーラム群は、利用可能な異議申立てを監督します。第二章から第四章に基づき事実が検証された場合、次を行えます。
-  - [第九章 §3.1 最低記録内容](core_08_standing_assessment.md#31-minimum-record-contents)に従い、資格記録を**開設、更新、訂正**する；または
+  - [第十一章 §4.1 記録の最低内容](../../core_11.000_standing_assessment.md#41-minimum-record-contents)に基づき、資格記録を**開始、更新、または訂正**する。または
   - 異議申立てにより**不適切な記録を退ける**。
 
   - 事件が申し立てられただけでは資格になりません。
@@ -315,8 +315,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠と参照</span></strong></summary>
 
 - 上流：原則：第一章 [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的な衡量原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§18 スチュワードシップ規律下のガバナンス](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
-- 下流：[第十一章 §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks)（*参加資格ロック*）、[第十一章 §8](core_09_standing_integration.md#8-restoration-and-reassessment)（*復帰と再評価*）。
-- 併せて読む：[第XIX-E条](#第xix-e条投票と特別ロック)（*投票と特別ロック*）、[第十章 §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)（*統合尺度*）、**第XX-B条**（*制限の下限*）、[第XXII-D条](#第xxii-d条制限拘束緊急時の規律)（*参加資格は国境ではない*）。
+- 下位規定：[第十三章 §5.2](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)（13.000 §5.2）（*資格ロック*）；[第十三章 §9](../../core_13.000_standing_integration.md#9-restoration-and-reassessment)（13.000 §9）（*復帰と再審査*）。
+- あわせて読む：[第XIX-E条](#article-xix-e-voting-and-special-locks)（*投票ロックと特別ロック*）；[第十二章 §6](../../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes)（12.000 §6）（*統一尺度*）；**第XX-B条**（*制限の権利最低基準*）；[第XXII-D条](#article-xxii-d-limitation-custody-and-emergency-discipline)（*資格は境界ではない*）。
 
 </details>
 
@@ -340,7 +340,7 @@ flowchart TB
 
 - **検証済みの認定に限る違反の性質：**[違反の性質](../../core_05.035_band_accountability.md#violation-nature)が参加資格に影響するのは、**第二章から第四章**および[第十章](core_08_standing_assessment.md#verified-inputs-for-standing)を満たす、監査可能で異議申立て可能な認定に基づく場合だけです。申立て、受付ラベル、暫定的な振り分け、フォーラム審理段階の説明だけでは足りません。
   - 重要な義務と能力があったのに、違法または違憲の指示に同調して参加したことや抵抗しなかったことを、**第五章**（*集団的説明責任の不履行*）に沿って適格性とロックに反映しなければなりません。
-- **参加資格ロック：**[参加資格ロック](../../core_05.035_band_accountability.md#standing-lock)は能力認可の制限側に当たります。検証済みの違反認定が未解決、または重大な是正を受けていない間は、[第十一章 §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks)（*一般的な参加資格ロック*）に基づき、信頼、役割、権限、信用、監督、承認、**governance-voting**、**stakeholder-participation**の経路を防止または制限できます。制限的な結果は、指定された特権経路へのロックによってのみ生じます。検証済みのリスクが求める場合は、[第十一章 §5.1](../../core_11.000_standing_integration.md#51-separation-limits)（*定義と適用*）の分離限度内で、特定の環境、ネットワーク、センティエントから分離することも含みます。
+- **資格ロック：**[資格ロック](../../core_05.035_band_accountability.md#standing-lock)は、能力認定に対応する制限手段です。検証済み違反の認定が未解決または実質的に未是正の間、[第十三章 §5.2](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)（*一般的な資格ロック*）に基づき、信頼、役割、権限、信用、監督、承認、**統治投票**、または**ステークホルダー参加**の経路を禁止または制限できます。制限的な効果はゲート付き経路の資格ロックを通じてのみ生じます。検証済みリスクが求める場合は、第十三章 §6.1（*定義と付加*）の[分離制限](../../core_13.000_standing_integration.md#615-separation-limits)の範囲内で、特定の場所、ネットワーク、またはセンティエントから分離することも含みます。
   - ロックは尊厳の順位、権利下限の引下げ、自動報復、または功績を合算した点数ではありません。
   - ロックごとに、遮断するアクセス、保護する対象、解除前に必要な是正、異議申立て・審査経路、再評価時期を明記しなければなりません。[第XIX-B条](#article-xix-b-contestability-and-proportional-restriction-limits)に従い、必要かつ比例的で、監査可能かつ異議申立て可能な状態を保たなければなりません。
   - 能力認可があっても適用中のロックは免除されません。良い貢献も未解決の検証済み違反認定を消しません。
@@ -348,7 +348,7 @@ flowchart TB
   - 参加資格ロックは個別の正義手続に代わるものではなく、それ**だけで**移動、避難、可搬性、退出を制限しません（[第XXI条](#第xxi条-相互運用性可搬性退出の完全性)および[第XXII条](#article-xxii-movement-migration-refuge-and-non-statelessness)）。
 - **損害に応じたロック：**ロックは検証された損害の重大さ、保護対象の具体的な役割・特権、修復の進み具合に見合わなければなりません。
   - **過去の貢献：**センティエントが修復できること、安全措置を維持できること、再発を防げることを示す場合、または再評価時に制限を軽くする根拠となる場合だけ考慮できます（[第十章 §2](core_08_standing_assessment.md#2-question-1--what-happened)）。未解決の損害認定を相殺、免除、平均化、置換することはできません。
-  - **比較的軽微な損害：**[第十章 §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)の統合的な比例LEQU尺度で比較的軽微とされた損害は、反復、回避、または重大な損害との関連がない限り、長期排除の根拠になりません。
+  - **比較的軽微な損害：**[第十二章 §6](../../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes)（*統一比例LEQU尺度*）に基づき測定された比較的軽微な損害の認定は、反復的なパターン、回避、または重大な損害との関連がない限り、長期排除を正当化しません。
   - **行為の態様：**不注意、隠蔽、強制、反復は審査に影響し得ますが、損害そのものの重大度評価を変えません。
   - **反復または隠された行為：**行為の反復または責任の隠蔽を理由に制限を強める場合も、必要性、比例性、審査可能性、および検証済み認定との結び付きを満たさなければなりません。
 - **復帰と固定化の防止：**違反認定によって参加資格が低下した場合、システムは明確な審査条件、是正に基づく復帰、定期的な再評価を[第十一章 §8](core_09_standing_integration.md#8-restoration-and-reassessment)（*復帰と再評価*）に従って設けなければなりません。
@@ -362,7 +362,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠と参照</span></strong></summary>
 
 - 上流：原則：第一章 [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)および[§18 スチュワードシップ規律下のガバナンス](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
-- 下流：[第十一章 §5.5](core_09_standing_integration.md#55-special-locks)（*特別ロック*）、[第十四章 §4.1](core_12_governance.md#41-entitlement-and-eligibility)（*権利と適格性*）。
+- 下位規定：[第十三章 §6.5](../../core_13.000_standing_integration.md#65-special-locks)（13.000 §6.5）（*特別ロック*）；[第十六章 §4.1](../../core_16.000_governance.md#41-entitlement-and-eligibility)（16.000 §4.1）（*権原と適格性*）。
 - 併せて読む：[第XIX-D条](#第xix-d条違反と参加資格ロック)（*違反と参加資格ロック*）、**第X-B条**（*ガバナンス参加と投票資格*）、**第十二章**（*反憲法的不正行為*）。
 
 </details>
@@ -385,7 +385,7 @@ flowchart TB
 
 - **投票ロックは指定経路ごとに適用：**一方の投票経路に対するロックが他方へ自動的に及ぶことはありません。二つの経路は次のとおりです。
   - **governance-voting**は、正統性メカニズムによって統治権限を承認する基礎的なガバナンス投票です。
-  - **stakeholder-participation**は、既に承認されたシステム、機関、意思決定領域における、持分加重の影響力と拘束力のあるステークホルダーの選択です。
+  - **stakeholder-participation**は、すでに認可されたシステム、機関、または意思決定領域における、ステークに応じた加重投票と拘束力のあるステークホルダー選択です。
 
   **governance-voting**ロックだけで持分加重のステークホルダーの発言を奪うことはありません。**stakeholder-participation**ロックだけで**governance-voting**を奪うことはなく、[ステークホルダー](../../core_05.055_band_participation.md#stakeholder)の地位を消すこともありません。
 - **政治的発言の規律：**統治権限の承認への参加を制限するためにロックを用いる場合、次のすべてを満たさなければなりません。
@@ -399,7 +399,7 @@ flowchart TB
   - **保護対象特性**またはその重大な代理指標に沿ってロックを適用すること。
 
   **唯一の例外：**本憲法への最重大の検証済み攻撃に限定される[第十二章](core_10_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct-designation)（*反憲法的不正行為*）の最終指定は、**完全な返還**まで基礎的なガバナンス投票を停止します。この停止は参加資格ロックではないため、上記の四要件は適用されません。規則と保護措置は[**第十四章 §4.1**](core_12_governance.md#41-entitlement-and-eligibility)（*権利と適格性*）に定めます。
-- **特別ロック：**[第十一章 §5.5](core_09_standing_integration.md#55-special-locks)（*特別ロック*）に次を定めます。
+- **特別ロック：**これらのロックは[第十三章 §6.5](../../core_13.000_standing_integration.md#65-special-locks)（*特別ロック*）に定めます。
   - **フォーラム服務参加資格ロック：**忌避が必要なフォーラムの役割で忌避しなかったことが検証され、公平性が重大に損なわれた場合に適用します。フォーラム業務への復帰には厳格で独立した回復が必要です。通常の謝罪、過去の貢献、評判、専門性の希少さ、人員配置の必要だけでは足りません。
   - **ステークホルダー参加資格ロック：**ステークホルダー参加経路の腐敗、捕獲、虚偽の利害の濫用、強制、その他これに類する重大な濫用が検証された場合に適用します。影響を受ける領域で、持分加重の影響力と拘束力のある選択を制限します。それだけで**governance-voting**、基礎的憲法選択、ステークホルダーの地位を奪うものではありません。通常の謝罪、過去の貢献、持分の大きさ、運用者の不可欠性だけでは解除できません。
   - **反憲法的信頼ロック：****第十二章**の反憲法的不正行為が最終認定された場合に適用します。有効な間、厳格で独立した回復が検証されるまで、**Class A**、**Class B**、**Class C**システム、憲法フォーラム、憲法整合性認定、重要システムのスチュワードシップ、反憲法的説明責任の経路に関する役割または重大な影響力を禁止します。
@@ -409,7 +409,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：第一章の原則[§3 基礎的目的：福利](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§18 管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
-- 下位根拠：[第十章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*違反、是正、予防*）；[第十一章 §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)（*適正手続の保護、救済、予防*）。
+- 下位規定：[第十三章 §5](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention)（13.000 §5）（*違反、是正、予防*）；[第十四章 §4](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)（14.000 §4）（*適正手続の保護、救済、予防*）。
 
 </details>
 
@@ -423,14 +423,14 @@ flowchart TB
 
 <br>
 
-*平易に言えば、**第XX条**（*検証済み違反後の正義*）は正義の権利最低基準です。違反が検証された後に必要なのは報復や残虐行為ではありません。利害の大きさに応じた公正な**違反**・**是正**・**予防**の過程、すなわち危害を止め、損傷を修復し、再発を減らすことです。重大な制限にはそれぞれ最低基準があります。証明された安全上の必要、期限と復帰経路、そして決して殺さないことです。紛争、エスカレーション、審査、適時の解決は**第XXV条**が規律します。緊急措置は**第十二章 §6.1**（*緊急措置と継続の負担*）が規律します。*
+*平易に言えば、**第XX条**（*検証済み違反後の正義*）は正義に関する権利最低基準です。違反が検証された後の答えは復讐や残虐行為ではなく、**違反**、**是正**、**予防**の公正な過程です — 損害を止め、被害を修復し、再発を減らし、利害の大きさに応じて対応します。重大な制限には独自の最低基準があります。証明された安全上の必要性、期間と復帰経路、殺害の禁止です。紛争、エスカレーション、審査、適時な解決は**第XXVI条**（*適時な事後審査と修復的整合*）に定められます。緊急措置は**第十五章 §6.1**（*緊急措置と継続の立証責任*）に定められます。*
 
 本条は違反が検証された後に適用される正義の最低基準を定めます。正義の目的と範囲は**第XX-A条**、重大な制限の最低基準は**第XX-B条**に定めます。
 
 *隣接条文：*
 
 - **紛争解決、審査、適時性：**憲法上の権利最低基準、遡及的審査、権利衝突、遅延防止規律に関する紛争は、[**第XXV条**](core_06_rights_part_e.md)（*適時の遡及審査と修復的整合*）が規律します。
-- **緊急措置：**[第十二章 §6.1 緊急措置と継続の負担](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)が規律します。緊急措置が課す制限については**第XX-B条**（*制限の最低基準*）と併せて読みます。
+- **緊急措置：**[第十五章 §6.1 緊急措置と継続の立証責任](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)に基づきます。緊急措置が課す制限には**第XX-B条**（*制限の権利最低基準*）をあわせて適用します。
 - **参加資格：**[**第XIX条**](core_06_rights_part_d.md#第xix条参加資格と参加状況)（*参加資格と参加状況*）が参加資格を規律します。本条に基づく正義措置はこれとは別個であり、資格ラベルを迂回路に使うものではありません。
 - **適時の救済：**[**第XIII-B条**（*救済と是正への権利*）](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)（*適時の救済へのアクセス*）と併せて読みます。
 
@@ -441,7 +441,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第一章 §3.3 尊厳を損なわない過程](core_01_a_values_principles.md#33-品位を損なわない過程)、[§20 統合適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
-- 下位根拠：[第十章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*違反、是正、予防*）；[第XX-B条](#第xx-b条制限の最低基準)。
+- 下位規定：[第十三章 §5](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention)（13.000 §5）（*違反、是正、予防*）；[第XX-B条](#article-xx-b-restriction-floors)（*制限の権利最低基準*）。
 - 併せて読む：[残虐行為](../../core_05.035_band_accountability.md#cruelty)（*苦痛を目的そのものとすることを禁じる最低基準の第五章における位置*）。
 
 </details>
@@ -474,8 +474,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
-- 下位根拠：[第十章 §5 ロックの設計と執行](core_09_standing_integration.md#5-lock-design-and-enforcement)、[§5.4 特別違反規則](core_09_standing_integration.md#54-special-violation-rules)（*検証済み暴力に対する必要な収監、および他の強制または自由制限上の保護策*）；[第十一章 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*；収監に関する特則）。
-- 併せて読む：[第XXVI-C条](core_06_rights_part_e.md)（*適時の解決と遅延防止の最低基準*）；[第十二章 §5 エスカレーションと認証](core_11_forum.md#5-escalation-and-certification)。
+- 下位規定：[第十三章 §6 ロックの設計と執行](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement)（13.000 §6）および[§6.4 特別違反規則](../../core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards)（*検証済み暴力に対する必須収監およびその他の強制的・自由制限的な保護策*）；[第十四章 §4.2](../../core_14.000_misconduct_designation.md#42-prevention--anti-constitutional-locks)（14.000 §4.2）（*予防 — 反憲法的ロック*；収監の特則）。
+- あわせて読む：[第XXVI-C条](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)（*適時な解決と遅延防止の最低基準*）；[第十五章 §5 エスカレーションと裁定を求める質問](../../core_15.000_forum.md#5-escalation-and-questions-for-ruling)（15.000 §5）。
 
 </details>
 
@@ -494,7 +494,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、これはあらゆる重大な制限に適用される最低基準です。センティエントへの重大な制限には、現実の安全上の必要、公正な修復経路、誰もが監査できる証拠が必要です。さらに期限、審査、復帰の道も必要です。他者を守るために必要な場合、暴力を行ったセンティエントは収監されなければなりません。正義措置として殺してはなりません。ロックの設計は**第十章**の規則が定めます。*
+*平易に言えば、あらゆる重大な制限にこの権利最低基準が適用されます。センティエントに対する重大な制限には、現実の安全上の必要性、公正な修復経路、誰もが監査できる証拠が必要です。期限、審査、復帰経路も必要です。他者を守るために必要な場合は、暴力を行うセンティエントを収監しなければならず、殺害は決して正義の手段ではありません。ロックの設計は**第十三章**のロック設計規則が定めます。*
 
 本条は制限の最低基準を定めます。運用規則は各基準に併記した章に定めます。
 
@@ -511,7 +511,7 @@ flowchart TB
   - 比例的な返還または是正；
   - 実行可能な場合のリハビリテーションまたは再発低減；
   - **第二章から第四章**に従い、誰もが監査できる証拠によって、功績と結果を適切な主体に帰属させること。
-- **個別化された立証負担：**そのような措置は、集団ラベルや代理指標ではなく、関係する特定のセンティエントまたは役割を対象とし、異議申立てと独立審査に開かれていなければなりません。厳しいラベル、公的非難、行政上の近道は、上記の各要件を証明する代わりになりません。ロックの設計と執行は[第十章 §5 ロックの設計と執行](core_09_standing_integration.md#5-lock-design-and-enforcement)が規律します。
+- **個別化された負担：**このような措置は、集団ラベルや代理対象ではなく、関係する特定のセンティエントまたは役割に向けられ、異議申立てと独立審査が可能な状態を保たなければなりません。厳しいラベル、公的非難、行政上の近道は、上記の共同要件を一つずつ立証する代わりにはなりません。ロックの設計と執行は[第十三章 §6 ロックの設計と執行](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement)が定めます。
 - **最小制限・期限付きの最低基準：**正義、封じ込め、修復的説明責任の措置には[**最小制限・期限付き・審査可能な制約の原則**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)が適用されます。介入が必要な場合、各措置には次を含めなければなりません。
   - 明示的な期間制限；
   - 審査の頻度；
@@ -530,9 +530,9 @@ flowchart TB
     - エスカレーションと審査経路を使えるだけの実用的な記録アクセス。
 
   上記を制限できるのは**第一章**に基づく限定的で正当化された制限のみです。フォーラムへの振分けと認証は[第十二章 §5 エスカレーションと認証](core_11_forum.md#5-escalation-and-certification)が規律します。
-- **暴力に対する収監：**収監は自由を制限する措置であり、資格ロックとは別個です。資格ロックと同じ付帯記載欄を使って記録します（[第十章 §5.1 定義と付帯記載](core_09_standing_integration.md#51-definition-and-attachment)）。明示的な期間制限、審査頻度、回復条件を含め、本条のすべての最低基準を満たさなければなりません。検証済みの暴力を行った、または暴力の脅威を継続してもたらすセンティエントは、さらなる危害から他者を守るために収監が必要な場合、収監されなければなりません。生命の剥奪に置き換えること、または本基準が収監を求めるのに収監を課さないことは不遵守です。条件は[第十章 §5.4 特別違反規則](core_09_standing_integration.md#54-special-violation-rules)（*検証済み暴力に対する必要な収監*）が規律します。検証済みの反憲法的不正行為に対する収監も、[第十一章 §4.2 予防 — 反憲法的ロック](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*；収監特則）により同じ条件で規律されます。
+- **暴力に対する収監：**収監は資格ロックとは別の自由制限措置であり、ロックと同じ付加項目を用いて記録します（[第十三章 §6.1 定義と付加](../../core_13.000_standing_integration.md#61-definition-and-attachment)）。明示的な期間制限、審査周期、回復条件を含む本条のあらゆる権利最低基準を満たさなければなりません。検証済みの暴力を行ったセンティエント、または継続的な暴力の脅威をもたらすセンティエントは、他者をさらなる損害から守るために収監が必要なら収監しなければなりません。生命を奪うことによる代替、またはこの最低基準が収監を求めるのに収監を課さないことは不適合です。条件は[第十三章 §6.4 特別違反規則](../../core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards)（*検証済み暴力に対する必須収監*）が定めます。検証済みの反憲法的行為に対する収監も、[第十四章 §4.2 予防 — 反憲法的ロック](../../core_14.000_misconduct_designation.md#42-prevention--anti-constitutional-locks)（*予防 — 反憲法的ロック*；収監の特則）に基づき同じ条件で規律されます。
 - **正義措置としての不可逆的な生命剥奪に対する権利最低基準：**国家、運営者、または同等の司法制度は、不可逆的な生命剥奪を刑罰、制裁、公衆安全措置として課してはなりません。
-  - 収監が必要な場合、本条の**暴力に対する収監**および**第十一章 §4.1**（*反憲法的不正行為の救済と是正*）に基づく収監が必要な保護措置です。生命の剥奪は禁止されます。
+  - 収監が必要な場合、本条に基づく**暴力に対する収監**および**第十四章** §4.1（*救済と是正（反憲法的行為）*）に基づく収監が必要な保護措置です。生命の剥奪は禁止されます。
   - この最低基準は、**第VII-D条**（*自らの存在を自発的に終了すること*）に基づく、センティエント自身の自由意思による決定には適用されません。強制、再ラベル付け、国家または運営者による選択の強制結果への転換があれば、本最低基準に戻ります。
 
 <a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
@@ -730,7 +730,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)。
-- 下位根拠：**第VI-A条**（*尊厳と平等な道徳的地位*）の尊厳最低基準、**第VI-C条**（*差別禁止*）の非差別、**第XII条**（*ステークホルダー・システムへの参加、代表、適正手続*）の参加、**第XIX条**（*参加資格と参加状況*）の資格と参加状況の振分け、緊急措置の制限に関する**第十三章 §6.1**（*緊急措置と継続の負担*）、移行統治に関する**第XXVIII条**（*移行統治、継続、再基線化*）。
+- 下位規定：**第VI-A条**（*尊厳と対等な道徳的地位*）の尊厳に関する最低基準、**第VI-C条**（*差別禁止*）の非差別、**第XII条**（*ステークホルダーのシステム参加、代表、適正手続*）のステークホルダー参加、**第XIX条**（*参加資格と参加状況*）の資格および参加状況の振分け、**第十五章 §6.1**（*緊急措置と継続の立証責任*）の緊急措置の限界、**第XXVIII条**（*移行の統治、継続性、基準値の再設定*）の採用移行の統治。
 - 併せて読む：[第五章 *移動、避難、無国籍化防止、退出の完全性*](core_05_band_oversight.md#movement-refuge-semi-independent)；*移動と移転*、*不遵守からの避難*、*無国籍化防止*、*感知者の排除禁止*；退出、ホスティング終了、立退き、実質的な移転が重大に関わる場合は*システムによる囲い込み*と*占有の継続性*；システムまたはプロジェクトが居住不能な場所を生み出した場合は**第I-A条**（*環境上の前提条件と生態系の完全性*）；基盤可搬性と退出完全性の仕組みについては**第XXI-A条**（*可搬性の権利*）から**第XXI-C条**（*囲い込み禁止*）；移行期承認の仕組みについては**第XXVIII条**（*移行統治、継続、再基線化*）。
 
 </details>
@@ -811,7 +811,7 @@ flowchart TB
   - そのような措置は**第XX-B条**（*制限の最低基準*）および[第十一章 §5.4 特別違反規則](core_09_standing_integration.md#54-special-violation-rules)が発動する該当する刑事手続その他同等の保護を満たさなければなりません。
   - **無国籍化防止**との整合性を保たなければなりません。拘禁その他同等の制限中も、基礎的な権利最低基準を認め、参加資格を裁定し、**救済と是正**経路を提供する体制がない状態にしてはなりません。
   - **第XIX条**（*参加資格と参加状況*）および[第十一章 §4.2 予防 — 一般資格ロック](core_09_standing_integration.md#42-prevention--general-standing-locks)の資格ロックは、それ**自体では**そのような措置を認めません。各措置がそれぞれの憲法上の要件を満たす場合、併存できます。
-- **緊急措置の限界：**移動、移住、避難を制限する緊急措置には、**第十三章 §6.1**（*緊急措置と継続の負担*）に定める緊急措置の規律が適用されます。具体的には次を含みます。
+- **緊急措置の限界：**移動、移住、避難を制限する緊急措置は、**第十五章 §6.1**（*緊急措置と継続の立証責任*）の規律に従います。これには次が含まれます。
   - 期限の設定；
   - 個別的要件；
   - 比例的審査；
@@ -971,7 +971,7 @@ flowchart TB
 
 <br>
 
-*平易に言えば、**第XXIV条**（*根本原因分析と適応的対応*）は、真の問題を見つけ正しく直すための最低基準です。何かが壊れ、劣化し、または繰り返し故障するとき、記者発表や応急処置だけでは不十分です。システムは、遅れて表面化する原因や時間とともに蓄積する原因も含め、危害の実際の原因を突き止め、可能な範囲で対処し、他者が確認し異議を申し立てられる記録を残さなければなりません。迅速な封じ込めは許されますが、誠実な診断なしの恒久修正は許されません。*
+*平易に言えば、**第XXIV条**（*根本原因分析と適応的対応*）は、真の問題を見つけて適切に是正するための権利最低基準です。何かが壊れ、劣化し、または繰り返し失敗するとき、報道発表や応急処置だけで済ませてはなりません。システムは、遅れて顕在化する原因や時間とともに蓄積する原因を含め、損害の真の原因を突き止め、可能な範囲でそれを是正し、他者が確認し異議を申し立てられる公式記録を残さなければなりません。迅速な封じ込めは認められますが、誠実な診断を伴わない恒久的解決は認められません。*
 
 本条は[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもと、根本原因分析と適応的対応に関する**憲法上の最低基準**を定めます。
 
@@ -1102,7 +1102,7 @@ flowchart TB
 
 *隣接条文：*
 
-- **フォーラムの監督：**[第十二章](core_11_forum.md)—憲法上のフォーラム群の振分けと監督は、本条に定める解釈上の最低基準をフォーラム手続で置き換えることなく、本条を実施します。
+- **フォーラム監督：**[第十五章](../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) — 憲法フォーラム群の振分けと監督は、本条に定める解釈上の最低基準に代えてフォーラム手続を用いることなく、本条を実施します。
 - **異議申立てと正義：****第XIII-A条**（*信頼性と信用性の基準*）および[**第XX条**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)（*違反確認後の正義*）—解釈審査は、異議申立ての権利と正義の制約を維持し、これらの最低基準を狭めてはなりません。
 - **固定化の防止：**[**第XXVI-A条**（*非固定化と改定可能性*）](core_06_rights_part_e.md)—本条の正当事由による解任規定に基づく定期的な再検証は、非固定化の規律と併せて解釈します。
 - **制度上の振分け：****[corpus_institutions.md](../../corpus_institutions.md)、CI-4**（*任命、能力、交代、解任*）および**CI-5**（*利益相反の健全性、捕獲防止、腐敗防止*）—本条の権利上の最低基準に置き換わることなく、構成と利益相反の管理を実施します。
@@ -1151,7 +1151,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：原則：第1章 [§13.1.5 権利衝突の判断基準](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§18 スチュワードシップ規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)、[§20 統合適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
-- 併せて読む：[第十章 §5.5](core_09_standing_integration.md#55-special-locks)（*フォーラムでの開示漏れと忌避手続への影響*）；[第十一章 §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*特定された不正行為パターン*）；[第十二章 §2](core_11_forum.md#2-default-venue-and-primary-stakes)および[§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)（*完全性を優先する振分けと自己判断の禁止*）。
+- 併せて読む：[第十章 §5.5](core_09_standing_integration.md#55-special-locks)（*フォーラムでの開示漏れと忌避手続への影響*）；[第十一章 §5.10](../../core_14.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*特定された不正行為パターン*）；[第十二章 §2](core_11_forum.md#2-default-venue-and-primary-stakes)および[§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)（*完全性を優先する振分けと自己判断の禁止*）。
 
 </details>
 
@@ -1221,7 +1221,7 @@ flowchart TB
   - 審査は別の機関が行い、当初の判断を下した同じ参加者や部会が行ってはなりません。
   - 記録から重大な誤り、捕獲、または権利上の最低基準への違反が認められる場合、審査人は判断を是正、一時停止、または取り消せなければなりません。
   - **憲法上の**フォーラムの判断に明白な憲法上の誤りがある場合、審査人は**CF-6.2.5**（*上訴の結果、救済、審査可能な記録*）に基づき特別に構成される**憲法審査部会**とします。この部会は、**CF-16**に基づき維持される公表済みの憲法審査予備名簿から任命され、原判断部会と重複する判断者を含まず、公表済みの交代、忌避、能力、予備人員の確保、利益相反審査の保護策を備えます。この部会は**憲法上の**フォーラム群の内部にある限定的な審査部会であり、別のフォーラム群でも一般的な上訴機関でもありません。捕獲、忌避不履行、または自己判断の申立ては、実体審査に先立ち**CF-7**を通じて振り分けます。
-- **義務的な外部審査：****憲法上のフォーラム**に対する独立した外部審査は、定められた間隔で必ず行われなければなりません。既定では、[**第十二章 §2 既定の裁判地と主要な利害**](core_11_forum.md#2-default-venue-and-primary-stakes)および[**第十二章 §3 移送、併合、調整—継続性と捕獲防止**](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)に定める**フォーラム横断の自己判断禁止規則**に基づき、**完全性**フォーラムが審査します。審査を行う**完全性**フォーラムは、審査対象の**憲法上の**フォーラムから構造的に分離され、審査対象機関の最近の解釈部会と判断者が重複してはなりません。**完全性**フォーラム自体の健全性が重大な争点となる場合は、第十二章§3の代替振分けを適用しますが、この義務を狭めてはなりません。審査では次を評価しなければなりません。
+- **必須の外部審査：****憲法フォーラム**は、定められた間隔で独立した外部審査を受けなければならず、重大性の規模調整によってその頻度を減らせません。既定では、**完全性**フォーラムが[第十五章 §2](../../core_15.000_forum.md#2-default-venue-and-primary-stakes)（*既定の法廷地と主要な利害*）および[第十五章 §3](../../core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)（*移送、併合、調整 — 継続性と捕獲防止*）の**フォーラム間の自己審理防止規則**に基づき審査します。審査を行う**完全性**フォーラムは対象の**憲法**フォーラムから構造的に分離し、対象機関の最近の解釈パネルから意思決定者が重複してはなりません。**完全性**フォーラム自体の完全性に重大な疑義がある場合、この義務を狭めることなく、**第十五章 §3**（*移送、併合、調整 — 継続性と捕獲防止*）に基づく代替振分けを適用します。審査では次を評価しなければなりません。
   - 捕獲の兆候。
   - 判断の質。
   - 権利上の最低基準の健全性。

@@ -20,7 +20,7 @@
 > - **İkinci Bölüm (bu dosya)** — O/M/A/C tanım yapısı ve bileşen hizalaması: her tanım **Ontolojik (O)** (nedir) ile **Ölçüm (M)** sicilini **Değerlendirme (A)** ödevine örülü (nasıl ölçülmeli ve değerlendirilmeli) ve **Uyum (C)** (neyin geçerli kalması gerekir) ile bağlar ([§1 Amaç ve rol](core_02_definition_structure.md#1-amaç-ve-rol); [§2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-tanım-bütünlüğü-gereği)).
 > - **Üçüncü Bölüm** — tanım bütünlüğü, kaçınma ve uyumsuzluk ([Üçüncü Bölüm](core_03_definition_integrity.md#üçüncü-bölüm-tanim-bütünlüğü-kaçinma-ve-uyumsuzluk)).
 > - **Dördüncü Bölüm** — kanıt yükü, tanım izlenebilirliği, gözlemlenebilirlik, güvenlik sınırları altında doğrulama ve doğrulama erişilebilirliği ([Dördüncü Bölüm — Kanıt yükü, izlenebilirlik ve doğrulama](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **Beşinci Bölüm** — ölçüm, değerlendirme ve uyum için paylaşılan sözlük (beş Dörtlü bant dosyası ve anayasal amaç dosyaları boyunca 1–3. kesitlerdeki bağımsız, gruplanmış ve paket tanımlar: [Gelişim amacı](core_05_apex_flourishing_aim.md), [Gözetim](../../core_05.050_band_oversight.md), [Katılım](../../core_05.055_band_participation.md), [Hesap verebilirlik](../../core_05.035_band_accountability.md), [Süreklilik](../../core_05.040_band_continuity.md), [Bütünleştirici](../../core_05.045_band_integrative.md)); okuma sırası ve harita [A Kısmı](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası)nde.
+> - **Beşinci Bölüm** — ölçüm, değerlendirme ve uyum için ortak söz varlığı (beş Tetrad bant dosyası ile anayasal amaç dosyalarının 1–3. bölümlerindeki bağımsız, gruplandırılmış ve paket tanımları: [Serpilme amacı](core_05_apex_flourishing_aim.md), [Gözetim](core_05_band_oversight.md), [Katılım](../../core_05.055_band_participation.md), [Hesap Verebilirlik](../../core_05.035_band_accountability.md), [Süreklilik](../../core_05.040_band_continuity.md), [Bütünleştirici](core_05_band_integrative.md)); okuma sırası ve harita [Beşinci Bölüm Kısım A](core_05__definitions_home.md#chapter-five-compass-and-definition-map) içindedir.
 > - **CJS** — çapraz-uygulama terimleri için işlemsel tanımlar ([CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) işlemsel küme kitaplığı); Beşinci Bölüm kanonik evlerini uygulayın — onları yeniden tanımlamayın. **CS**, **CI** ve **CF**deki alan taksonomileri ve protokoller aynı kuralı izler.
 >
 > Ek gezinme:
@@ -62,7 +62,7 @@ Her anayasal tanım bağlı parçalardan kurulmalıdır; her birinin tam olarak 
 
 O parçalar her tanım içinde tutarlı kalmalıdır. Yaptırım, yönetişim, uygulama, ölçüm işlemleri, denetim ve tanımsal kapsamın ötesindeki sınıflama mekaniği sonraki bölümlerdedir; burada kurulan [Anayasal kısıtlar](../../core_05.045_band_integrative.md#constitutional-constraint)a uymak zorundadırlar.
 
-Her tanım, gerçekten işlediği haliyle bütün sistem için karşılanmalıdır — algılayanlara, makinelere ve yerlere yayılmış sistemler dahil. O, M, A ve C parçaları aynı kapsamda ve aynı test koşulları altında hep birlikte geçmelidir. Sistemin parçalarını keserek, neyin sayıldığını daraltarak ya da başka bir parçayı zayıflatarak bir parçayı geçirmek sayılmaz.
+Her tanım, sistemin fiilen çalıştığı hâliyle bütün sistem için karşılanmalıdır — sentient'lara, makinelere ve konumlara yayılmış sistemler de dâhil. O, M, A ve C bileşenlerinin tümü aynı değerlendirme kapsamı ve aynı test koşulları altında birlikte **geçmelidir**. Sistemin parçalarını dışarıda bırakarak, neyin sayıldığını daraltarak veya başka bir bileşeni zayıflatarak tek bir bileşeni geçirmek geçerli değildir.
 
 <a id="11-ontological-components-o--what-it-is"></a>
 <a id="11-ontological-components-o-what-it-is"></a>
@@ -98,7 +98,7 @@ Beşinci Bölüm yaprak tanımları, bu kesitte belirtilen Ontolojik bileşen bi
 Beşinci Bölüm yaprak tanımlarında M, **Nasıl ölçülür ve değerlendirilir** okura dönük başlığı altında Değerlendirme parçasına (A) örülüdür. Her kademe önce ölçüsünü adlandırır, sonra hemen alt satırda ona uyan değerlendirmesini. Alanlar şöyle işler:
 
 - **Birincil ölçü:** ilk bakılacak asıl şey — değerlendiricilerin bu terim için bu bağlamda izlemesi gereken ilk kanıt izi.
-- **İkincil ölçü:** *(uygulandığında kullanılır)* birincilin yanında dahil edilmesi gereken ek ölçüler — isteğe bağlı ekstralar değil. Denetimi genişletirler ki bir sorun dar bir kanıt diliminin ardına gizlenemesin.
+- **İkincil ölçü:** *(uygulanıyorsa kullanılır)* birincil ölçünün yanında yer alması gereken ek ölçüler — isteğe bağlı ekler değildir. Sorunun dar bir kanıt kesitinin arkasına gizlenememesi için değerlendirmeyi genişletir.
 - **Üçüncül ölçü:** *(uygulandığında kullanılır)* ölçülerin kendileri üzerindeki bütünlük denetimleri — özellikle sayıların, etiketlerin, öz-bildirimlerin ya da resmi kategorilerin gerçek sonuçların yerine geçebileceği yerlerde.
 
 Her tanımın üç kademeye de ihtiyacı yoktur. Bazı terimler yalnızca bir birincil ölçü bildirir; diğerleri, terim daha geniş ya da daha derin bir denetim istediğinde ikincil ya da üçüncül ölçüler ekler.
@@ -134,7 +134,7 @@ Beşinci Bölümdeki tekil terim tanımlarında ölçüm (M) ve değerlendirme (
 
 O kesit içinde her kademe bir çifttir: ölçü önce gelir ve o ölçü için değerlendirme hemen alt satırda durur. Değerlendirme alanları şunlardır:
 
-- **Birincil değerlendirme:** birincil ölçünün nasıl yargılanacağı — değerlendiricilerin önce neyi değerlendirmesi gerektiği ve o denetimin gerçekten neye ulaşması gerektiği (öz, yalnızca etiketler ya da evrak değil).
+- **Birincil değerlendirme:** birincil ölçünün nasıl yargılanacağı — değerlendiricilerin önce neyi değerlendirmesi gerektiği ve bu değerlendirmenin gerçekte neleri kapsaması gerektiği (öz, yalnızca etiketler veya evrak değil).
 - **İkincil değerlendirme:** *(uygulandığında kullanılır)* ikincil ölçülerin nasıl yargılanacağı — birincil ölçü iyi göründüğünde ama daha geniş kanıt hâlâ önem taşıdığında neyin dahil edilmesi gerektiği.
 - **Üçüncül değerlendirme:** *(uygulandığında kullanılır)* üçüncül ölçülerin nasıl yargılanacağı — vekillerin, ölçütlerin ya da resmi kategorilerin hâlâ gerçek sonuçları izleyip izlemediğine dair denetimler.
 
@@ -168,7 +168,7 @@ Beşinci Bölümdeki tekil terim tanımlarında Uyum parçası (C), **Neyin geç
 - **İkincil başarısızlık:** *(uygulandığında kullanılır)* terimin ikincil kademede kırıldığı zaman — örneğin birincil denetim durağan göründüğünde ama daha geniş bir şey terimi yine de boşa çıkardığında, bağımlı olduğu bir sistemde ya da etkileştiği bağlı bir sistemde bir çökme gibi.
 - **Üçüncül başarısızlık:** *(uygulandığında kullanılır)* terimin üçüncül kademede kırıldığı zaman — örneğin bir vekil ya da ölçüt tek başına yeterli sayıldığında ya da bilinen sapma yok sayıldığında veya düzeltilmeden bırakıldığında.
 
-Her tanım üç başarısızlık kademesini de listelemez. Bazı terimler yalnızca bir birincil başarısızlık bildirir; diğerleri, terim kademeye hizalı ihlal koşulları istediğinde ikincil ya da üçüncül başarısızlıklar ekler.
+Her tanım üç başarısızlık katmanının tümünü listelemez. Bazı terimler yalnızca birincil başarısızlığı belirtir; diğerleri terimin katmanla uyumlu ihlal koşulları gerektirdiği durumlarda ikincil veya üçüncül başarısızlıklar ekler.
 
 Tüm kademeler boyunca C parçası şunları yapmalıdır:
 
@@ -218,7 +218,7 @@ Bir tanım, kurulma, okunma ya da uygulanma biçimi bir parçanın karşılanmas
 #### 2.3 Kuruluş kısıtları
 Tanımlar şöyle yazılmalıdır:
 - tüm parçalar (O, M, A, C) ancak sistemin gerçekten nasıl davrandığını ve gerçekten ne ürettiğini yansıtan koşullar altında birlikte karşılanabilsin
-- hiçbir parça genelleştirerek, şeyleri bölerek, kapsamı daraltarak ya da gerçekten önem taşıyan sistem öğelerini, etkileşimleri ya da etkileri dışarıda bırakan bir betimlemeyle karşılanamasın
+- Gerçekte önemli olan sistem unsurlarını, etkileşimleri veya etkileri dışarıda bırakan genelleme, bölme, değerlendirme kapsamını daraltma ya da betimleme yoluyla hiçbir bileşen karşılanmış sayılamaz
 - hiçbir ölçü yakalaması gereken sonucun yerine geçemesin; temsil ettiği gerçek-dünya sonucundan sapan bir ölçü (bkz. [Vekil sapması](../../core_05.050_band_oversight.md#proxy-divergence)) tanımı karşılayamaz ve ölçü seçimi, değerlendirilmesi gerekeni ya da pratikte geçerli kalması gerekeni daraltmamalıdır
 - hiçbir belirtilmemiş varsayım, gizli bağımlılık ya da dışarıda bırakılmış koşul, değerlendirilmesi gerekeni ya da pratikte geçerli kalması gerekeni değiştirmesin ya da zayıflatmasın
 
@@ -226,7 +226,7 @@ Tanımlar şöyle yazılmalıdır:
 #### 2.4 Belirsizlik altında yorum kuralı
 Bir tanım birden çok makul yolda okunabildiğinde, tam anlamını koruyan okumayı kullanın. O okuma, tanımın nasıl uygulandığını yönetir. Okuma ayrıca değerlendirmeyi titiz tutmalı ve gerçek-dünya gereklerini sağlam tutmalıdır.
 
-Bir tanım, uygulanması tanım içinde bir çelişki, belirttiği kapsam ile gerçekten kapsanması gereken arasında bir boşluk ya da gereken başka bir parça atlatılırken bir parçanın geçmesi zorluyorsa, uyumu yargılamak ya da karara bağlamak için kullanılmamalıdır.
+Bir tanımın uygulanması tanımın içinde çelişki, belirttiği kapsam ile gerçekte kapsanması gerekenler arasında boşluk veya gerekli başka bir bileşen atlanırken bir bileşenin geçtiği sonucu doğuruyorsa, uyumu yargılamak ya da karara bağlamak için o tanım kullanılmamalıdır.
 
 Bozuk bir tanım kendi başına uyumsuzdur. Bu, sistem iyi davranıyor görünse ve henüz bir şey ters gitmemiş olsa bile geçerlidir.
 

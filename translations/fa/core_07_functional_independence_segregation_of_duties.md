@@ -6,10 +6,10 @@
 
 > این فایل **بخشی از قانون اساسی سِنتینت** است و تنها **در کنار** سایر فایل‌های شماره‌دار `core_*` که به‌عنوان یک سند واحد خوانده می‌شوند الزام‌آور است. این فایل شامل **فصل هفتم** است: کفِ میان‌فرایندی برای استقلال کارکردی و تفکیک وظایف. این فصل پس از کف حقوق فصل ششم و پیش از فصل‌های فرایند قانون اساسی قرار می‌گیرد که با [گواهی هم‌راستایی سامانه در فصل هشتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) آغاز می‌شوند.
 >
-> - **متولی قانون اساسی:** کفِ جایگاه‌های متمایز برای اعمال الزام‌آور مادی؛ حداقل محتوای همگانی هر [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ استقلال از کنشگر و [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) کنشگر؛ انتشار عمومی تخصیص مسیر و نقش؛ مسیریابی تعارض، جای خالی، جانشینی و جایگاه نادرست؛ میزبانی ادغام‌شدهٔ متناسب؛ تحویل‌های قابل انتساب؛ و حداقل شرایط استقلالی که هر فرایند قانون اساسی بعدی باید اعمال کند.
-> - **منبع در لایهٔ اصول:** [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) از حکمرانی می‌خواهد استقلال کارکردی را حفظ کند و معماری عملیاتی جایگاه‌ها را به اینجا ارجاع می‌دهد.
-> - **متولی اجرا:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) و [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) جایگاه‌ها را تخصیص می‌دهند و عملیاتی می‌کنند. آن‌ها می‌توانند سخت‌گیرانه‌تر باشند و انواع محدودِ جایگاه‌های اختیار ویژه را بیفزایند؛ اما نمی‌توانند این فصل را محدود کنند.
-> - **کاربرد ویژهٔ هر فرایند همچنان در مراحل بعدی انجام می‌شود:** فصل هشتم این کف را برای گواهی هم‌راستایی سامانه اعمال می‌کند؛ [فصل نهم §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) آن را برای سوابق وضعیت اعمال می‌کند؛ فصل دوازدهم و [corpus_forum.md](../../corpus_forum.md) آن را برای فرایند انجمن اعمال می‌کنند. آن فصل‌ها می‌توانند پادمان‌های لازم برای موضوع خود را بیفزایند؛ اما نمی‌توانند جایگزینی ضعیف‌تر ایجاد کنند.
+> - **متولی قانون اساسی:** کفِ جایگاه‌های متمایز برای اعمال الزام‌آور مادی؛ حداقل محتوای همگانی هر [سابقهٔ عمل الزام‌آور مادی](../../core_05.035_band_accountability.md#materially-binding-act-record)؛ استقلال از کنشگر و [خط کنترل مادی](../../core_05.035_band_accountability.md#material-control-line) کنشگر؛ انتشار عمومی تخصیص مسیر و نقش؛ مسیریابی تعارض، جای خالی، جانشینی و جایگاه نادرست؛ میزبانی ادغام‌شدهٔ متناسب؛ تحویل‌های قابل انتساب؛ و حداقل شرایط استقلالی که هر فرایند قانون اساسی بعدی باید اعمال کند.
+> - **منبع در لایهٔ اصول:** [فصل یکم §18.3](core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) از حکمرانی می‌خواهد استقلال کارکردی را حفظ کند و معماری عملیاتی جایگاه‌ها را به اینجا ارجاع می‌دهد.
+> - **متولی اجرا:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*مسیر قانون اساسی و تفکیک کارکردی*)، [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) و [CI-16.205 §6](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) جایگاه‌ها را تعیین و عملیاتی می‌کنند. می‌توانند سخت‌گیرانه‌تر باشند و انواع محدودِ جایگاه با اختیار ویژه بیفزایند؛ اما نمی‌توانند این فصل را محدود کنند.
+> - **کاربرد ویژهٔ هر فرایند در فصل‌های بعدی باقی می‌ماند:** فصل نهم این الزام را دربارهٔ گواهی هم‌راستایی سیستم و گواهی هم‌راستایی نهادی اعمال می‌کند؛ [فصل یازدهم §5.1](../../core_11.000_standing_assessment.md#51-separation-of-duties) آن را دربارهٔ سوابق ردپا به کار می‌برد؛ فصل پانزدهم و [corpus_forum.md](../../corpus_forum.md) آن را دربارهٔ فرایند مجمع اعمال می‌کنند. این فصل‌ها می‌توانند تضمین‌های لازم برای موضوع خود را بیفزایند؛ اما نمی‌توانند جایگزینی ضعیف‌تر بسازند.
 >
 > ترتیب خواندن: §1 هدف و دامنه → §2 کف چهار جایگاه → §3 استقلال و تعارض‌ها → §4 مسیریابی جایگاه نادرست → §5 تخصیص منتشرشده و جایگزین‌ها → §6 مقیاس‌بندی متناسب → §7 وضعیت اضطراری → §8 سوابق عمل و تحویل‌های قابل انتساب → §9 کاربردهای بعدی.
 
@@ -18,10 +18,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادستی: [چهارگانهٔ قانون اساسی](../../core_00_preamble.md#constitutional-tetrad) — به‌ویژه **نظارت** و **پاسخ‌گویی**؛ [ذی‌نفعی مادی](../../core_00_preamble.md#material-stake)؛ [استاندارد سرپرستی مشترک فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [حکمرانی تحت انضباط سرپرستی فصل یکم §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [مادهٔ شانزدهم](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*).
+- بالادستی: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — به‌ویژه **نظارت** و **پاسخ‌گویی**؛ [ذی‌نفعی مادی](core_00_preamble.md#material-stake)؛ [استاندارد سرپرستی مشترک فصل یکم §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [حکمرانی تحت انضباط سرپرستی فصل یکم §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [مادهٔ شانزدهم](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*).
 - زیربخش‌ها: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
 - پایین‌دستی: [فصل هشتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ متن اجرایی مشخص‌شده در بالا.
-- همراه با: [کشف ناهم‌راستایی فصل یکم §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*کشف و بازبینی چندگانه*)؛ [اقدام قابل انتساب](../../core_05_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity)؛ [ممیزی‌پذیری](../../core_05_band_oversight.md#auditability)؛ [اعتراض‌پذیری](../../core_05_band_accountability.md#contestability)؛ [تناسب](../../core_05_band_accountability.md#proportionality).
+- همراه با: [کشف ناهم‌راستایی فصل یکم §19.3](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*کشف و بازبینی چندگانه*)؛ [اقدام قابل انتساب](../../core_05.035_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05.035_band_accountability.md#attribution-integrity)؛ [ممیزی‌پذیری](core_05_band_oversight.md#auditability)؛ [اعتراض‌پذیری](../../core_05.035_band_accountability.md#contestability)؛ [تناسب](../../core_05.035_band_accountability.md#proportionality).
 
 </details>
 
@@ -35,17 +35,17 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادستی: ادعای متولی در آغاز فصل؛ [فصل یکم §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional)؛ [پاسخ‌گویی](../../core_05_apex_accountability_leg.md#accountability).
+- بالادستی: ادعای متولی در آغاز فصل؛ [فصل یکم §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional)؛ [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability).
 - پایین‌دستی: از [§2](#2-four-seat-constitutional-requirement) تا [§9](#9-relationship-to-later-processes)؛ هر فرایند بعدی که عمل الزام‌آور مادی را ایجاد یا تغییر می‌دهد.
-- همراه با: [فصل چهارم](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) برای بستر راستی‌آزمایی؛ [مادهٔ XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*کف قابلیت اتکا و اعتمادپذیری*) و [مادهٔ XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*حق جبران و راهکار*) برای اعتراض و جبران؛ [مادهٔ شانزدهم](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*) برای کف‌های حقوق راستی‌آزمایی مستقل.
+- همراه با: [فصل چهارم](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) برای بستر راستی‌آزمایی؛ [مادهٔ XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*کف قابلیت اتکا و اعتمادپذیری*) و [مادهٔ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*حق جبران و راهکار*) برای اعتراض و جبران؛ [مادهٔ شانزدهم](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*) برای کف‌های حقوق راستی‌آزمایی مستقل.
 
 </details>
 
 <br>
 
-*به زبان ساده: پیش از آنکه بتوان به یک فرایند قانون اساسی — یا تصمیمی در سطح ذی‌نفع درون یک سامانه، نهاد یا حوزهٔ تصمیم‌گیری محدود و ازپیش‌مجاز — اعتماد کرد، کارهای درون آن باید از هم جدا باشند. این کف هم بر [لایهٔ قرارداد قانون اساسی](../../core_05_band_integrative.md#constitutional-contract-layer) و هم بر [مشارکت ذی‌نفع در سامانه](../../core_05_band_participation.md#stakeholder-status-and-weight) اعمال می‌شود. یک سِنتینت، مقام، سامانهٔ هوش مصنوعی، بدنهٔ ذی‌نفعان یا نماینده‌ای که در پی نتیجه است نمی‌تواند هم‌زمان بررسیِ ظاهراً مستقل را فراهم کند، سابقهٔ رسمی آن بررسی را کنترل کند یا اعتراض به آن را تصمیم‌گیری کند.*
+*به زبان ساده: پیش از آنکه بتوان به یک فرایند قانون اساسی — یا تصمیمی در سطح ذی‌نفع درون یک سامانه، نهاد یا حوزهٔ تصمیم‌گیری محدود و ازپیش‌مجاز — اعتماد کرد، کارهای درون آن باید از هم جدا باشند. این کف هم بر [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer) و هم بر [مشارکت ذی‌نفع در سامانه](../../core_05.055_band_participation.md#stakeholder-status-and-weight) اعمال می‌شود. یک سِنتینت، مقام، سامانهٔ هوش مصنوعی، بدنهٔ ذی‌نفعان یا نماینده‌ای که در پی نتیجه است نمی‌تواند هم‌زمان بررسیِ ظاهراً مستقل را فراهم کند، سابقهٔ رسمی آن بررسی را کنترل کند یا اعتراض به آن را تصمیم‌گیری کند.*
 
-این فصل بر هر [عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act) طبق تعریف فصل پنجم اعمال می‌شود، از جمله:
+این فصل بر هر [عمل الزام‌آور مادی](../../core_05.035_band_accountability.md#materially-binding-act) طبق تعریف فصل پنجم اعمال می‌شود، از جمله:
 
 - یک تصمیم؛
 - یک مجوز یا گواهی؛
@@ -55,7 +55,7 @@
 - پرداخت یا تخصیص؛ و
 - رسیدگی به اعتراض.
 
-جایگاه‌های این فصل مشخص می‌کنند چه کسی برای یک عمل خاص چه کاری می‌تواند انجام دهد؛ آن‌ها عنوان شغلی نیستند. یک سِنتینت، مقام یا سامانه می‌تواند برای اعمال مختلف جایگاه‌های مختلفی داشته باشد. عنوان، تفویض اختیار، توانایی فنی یا قابلیت انجام یک گام، جایگاه فرد برای آن عمل را گسترش نمی‌دهد.
+جایگاه‌های این فصل مشخص می‌کنند چه کسی برای یک اقدام خاص مجاز به انجام چه کاری است؛ آن‌ها عنوان شغلی نیستند. یک کائن هوشمند، دفتر یا سامانه می‌تواند در اقدامات مختلف جایگاه‌های متفاوتی داشته باشد. عنوان، تفویض اختیار، توانایی فنی یا توانایی انجام یک مرحله، جایگاهِ دارنده برای آن اقدام را گسترش نمی‌دهد.
 
 این فصل کف میان‌فرایندی تفکیک وظایف را بیان می‌کند. این فصل موارد زیر را جابه‌جا نمی‌کند:
 
@@ -71,8 +71,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادستی: [§1](#1-purpose-scope-and-owner-boundary)؛ [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- پایین‌دستی: از [§3](#3-independence-conflict-and-control-lines) تا [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*فهرست جایگاه‌ها — الگوهای نقش فرایند و مرزهای عملیاتی*).
+- بالادستی: [§1](#1-purpose-scope-and-owner-boundary)؛ [فصل یکم §18.3](core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [فصل یکم §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+- پایین‌دستی: از [§3](#3-independence-conflict-and-control-lines) تا [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*فهرست جایگاه‌ها — الگوهای نقش فرایند و مرزهای عملیاتی*).
 - همراه با: [§6](#6-proportional-scaling-and-merged-hosting) برای تنها مسیر مجاز میزبانی ادغام‌شده.
 
 </details>
@@ -139,10 +139,10 @@ flowchart TB
 
 هر عمل الزام‌آور مادی چهار جایگاه متمایز از نظر کارکرد دارد. فصل پنجم معانی معیار آن‌ها را فراهم می‌کند؛ این بخش قواعد تخصیص و ناسازگاری میان‌فرایندی را بیان می‌کند:
 
-1. **[جایگاه آغازگر](../../core_05_band_accountability.md#initiating-seat)** — عمل را درخواست، پیشنهاد، اجرا، ادعا یا به‌نحوی دیگر آغاز می‌کند.
-2. **[جایگاه راستی‌آزمایی یا مجوزدهی](../../core_05_band_accountability.md#verify-or-authorize-seat)** — شواهد و اختیار را با معیار حاکم می‌سنجد و عمل را راستی‌آزمایی، مجاز، رد یا مشروط می‌کند.
-3. **[جایگاه ثبت](../../core_05_band_accountability.md#record-seat)** — [سابقهٔ عمل](../../core_05_band_accountability.md#materially-binding-act-record) از تصمیم جایگاه راستی‌آزمایی یا مجوزدهی را ثبت، نسخه‌بندی، نگهداری و منتشر می‌کند.
-4. **[جایگاه اعتراض](../../core_05_band_accountability.md#contest-seat)** — اعتراض را دریافت و بررسی می‌کند، هرجا مجاز باشد دستور اصلاح یا محدودیت می‌دهد، و هر موضوع خارج از اختیار خود را مسیریابی می‌کند.
+1. **[جایگاه آغازگر](../../core_05.035_band_accountability.md#initiating-seat)** — عمل را درخواست، پیشنهاد، اجرا، ادعا یا به‌نحوی دیگر آغاز می‌کند.
+2. **[جایگاه راستی‌آزمایی یا مجوزدهی](../../core_05.035_band_accountability.md#verify-or-authorize-seat)** — شواهد و اختیار را با معیار حاکم می‌سنجد و عمل را راستی‌آزمایی، مجاز، رد یا مشروط می‌کند.
+3. **[جایگاه ثبت](../../core_05.035_band_accountability.md#record-seat)** — [سابقهٔ عمل](../../core_05.035_band_accountability.md#materially-binding-act-record) از تصمیم جایگاه راستی‌آزمایی یا مجوزدهی را ثبت، نسخه‌بندی، نگهداری و منتشر می‌کند.
+4. **[جایگاه اعتراض](../../core_05.035_band_accountability.md#contest-seat)** — اعتراض را دریافت و بررسی می‌کند، هرجا مجاز باشد دستور اصلاح یا محدودیت می‌دهد، و هر موضوع خارج از اختیار خود را مسیریابی می‌کند.
 
 این جایگاه‌ها به‌یکسان بر سرپرستان انسانی و هوش مصنوعی اعمال می‌شوند. اگر سامانه‌ای عملی را اجرا کند، آن را تأیید کند و سپس گزارش خودش را به‌عنوان مدرک به‌کار ببرد، هم‌زمان جایگاه آغازگر، راستی‌آزما و ثبت را در اختیار دارد. خودکارسازی فرایند بررسی را مستقل نمی‌کند.
 
@@ -155,7 +155,7 @@ flowchart TB
 
 فصل‌های بعدی یا متن اجراییِ درون‌گنجانده‌شده می‌توانند برای فرایندی خاص، جفت‌های بیشتری را ممنوع کنند. آن‌ها نمی‌توانند جفتِ ممنوع‌شده در اینجا را مجاز کنند.
 
-کف کارکردی چهار جایگاه در همهٔ طبقات اعمال می‌شود. پرسش متناسب با طبقه این است که آیا می‌توان جایگاه‌ها را ادغام کرد یا دارندهٔ مشترک داشت: برای نهادی یا سامانه‌ای در دامنهٔ طبقهٔ C، جداسازی کامل چهار جایگاه همیشه توصیه می‌شود؛ برای دامنهٔ طبقهٔ B، تقریباً همیشه باید لازم باشد؛ و برای دامنهٔ طبقهٔ A، همیشه الزامی است. اگر دامنه ترکیبی یا طبقه‌بندی نامطمئن باشد، تا زمانی که سابقه موضع پایین‌تری را پشتیبانی کند، سخت‌گیرانه‌ترین موضع قابل‌اعمال اجرا می‌شود.
+الزام تفکیک وظایف در همه رده‌ها اعمال می‌شود و چهار جایگاه راه تحقق آن است. پرسشِ متناسب با رده این است که آیا می‌توان این جایگاه‌ها را ادغام کرد یا یک دارنده چند جایگاه را بر عهده بگیرد. برای نهادی یا سامانه‌ای که در محدودهٔ زیر فعالیت می‌کند:
 
 <a id="3-independence-conflict-and-control-lines"></a>
 ### ۳. استقلال، تعارض و خطوط کنترل
@@ -163,26 +163,26 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [پاسخ‌گویی متناسب با اختیار](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [مادهٔ XXIV](core_06_rights_part_d.md) (*تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتسخیر*).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [پاسخ‌گویی متناسب با اختیار](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [مادهٔ XXIV](core_06_rights_part_d.md) (*تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتسخیر*).
 - پایین‌دست: [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ نقش‌های مؤلفهٔ گواهی فصل هشتم؛ نگهداری سوابق فصل نهم؛ منع داوری دربارهٔ خود در مراجع فصل دوازدهم.
-- همراه با این بخش بخوانید: [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line)؛ [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*یکپارچگی تعارض، ضدتسخیر و ضدفساد*) و [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*تضمین‌های یکپارچگی، عملیات ضدتسخیر و پشتیبانی ضدداوری دربارهٔ خود*) برای تضمین‌های عملیاتیِ تعارض و منع داوری دربارهٔ خود.
+- همراه با این بخش بخوانید: [خط کنترل مادی](../../core_05.035_band_accountability.md#material-control-line)؛ [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*یکپارچگی تعارض، ضدتسخیر و ضدفساد*) و [CF-7](../../corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*تضمین‌های یکپارچگی، عملیات ضدتسخیر و پشتیبانی ضدداوری دربارهٔ خود*) برای تضمین‌های عملیاتیِ تعارض و منع داوری دربارهٔ خود.
 
 </details>
 
 <br>
 
-*به زبان ساده: عوض‌کردن نام روی میز، استقلال ایجاد نمی‌کند. راستی‌آزما یا بازبین مستقل نیست اگر ذی‌شعور یا دفتری که خواهان نتیجه است بتواند در آن عمل او را هدایت، برکنار، پاداش، مجازات یا بی‌سروصدا نقض کند.*
+*به زبان ساده: تغییر نامِ جایگاه استقلال ایجاد نمی‌کند. مرجع راستی‌آزمایی یا بازبین مستقل نیست اگر موجودِ صاحب‌احساس یا دفتری که در پی نتیجه است بتواند در آن اقدام او را هدایت کند، برکنار کند، پاداش دهد، مجازات کند یا بی‌سروصدا تصمیمش را نقض کند.*
 
 استقلال کارکردی بر اساس اختیار و کنترل واقعی سنجیده می‌شود، نه عنوان‌ها. در مورد یک عمل واحد:
 
-- جایگاه راستی‌آزمایی یا مجوزدهی و جایگاه اعتراض باید بیرون از [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) جایگاه آغازگر باشند؛
+- جایگاه راستی‌آزمایی یا مجوزدهی و جایگاه اعتراض باید بیرون از [خط کنترل مادی](../../core_05.035_band_accountability.md#material-control-line) جایگاه آغازگر باشند؛
 - طرفی که منفعت خود او با آن عمل تعیین می‌شود نباید جایگاه راستی‌آزمایی یا مجوزدهی یا جایگاه اعتراض را در اختیار داشته باشد؛
 - دارندهٔ متعارض جایگاه ثبت باید آن سابقه را همراه با مسیر کامل ممیزی به جانشینِ منتشرشده بسپارد، نه اینکه تعارض را خود حل کند یا نگهداری سابقه را رها کند؛ و
 - کناره‌گیری اختیار نسبت به عمل را برمی‌دارد؛ جایگاه را به درخواست‌کننده، خط گزارش‌دهی او یا نزدیک‌ترین فرد منتقل نمی‌کند.
 
-[خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) را برای عمل موردنظر دنبال کنید. زیرساخت مشترک، پشتیبانی اداری یا سابقهٔ انتصاب به‌تنهایی این خط را ایجاد نمی‌کند، اما این ترتیبات نباید در عمل مانع داوری مستقل شوند.
+برای عمل موردنظر، [Material Control Line](../../core_05.035_band_accountability.md#material-control-line) را ردیابی کنید. زیرساخت مشترک، پشتیبانی اداری یا سابقه انتصاب به‌تنهایی این خط را برقرار نمی‌کند، اما این ترتیبات نباید در عمل قضاوت مستقل را تضعیف کنند.
 
-وجود امضای دوم، کمیته‌ای اسمی، عنوان داخلی یا گواهی ساخته‌شده با ابزار، استقلال را ثابت نمی‌کند اگر بررسی ادعایی اختیار، دسترسی به شواهد، آزادی از کنترل مادی یا توان واقعی برای رد و ارجاع را نداشته باشد.
+استقلال با امضای دوم، کمیته‌ای صوری، برچسبی داخلی یا گواهی تولیدشده با ابزار محقق نمی‌شود، اگر مرجعِ ظاهراً بررسی‌کننده اختیار، دسترسی به شواهد، رهایی از کنترل مادی یا توان واقعی برای رد کردن و ارجاع دادن را نداشته باشد.
 
 <a id="4-wrong-seat-routing"></a>
 ### ۴. ارجاع به جایگاه نادرست
@@ -191,14 +191,14 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines).
-- پایین‌دست: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
-- همراه با این بخش بخوانید: [فصل یکم §17.5 وظیفهٔ مقاومت](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
+- پایین‌دست: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- همراه با این بخش بخوانید: [فصل یکم §17.5 وظیفهٔ مقاومت](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
 
 <br>
 
-*به زبان ساده: اگر گامی در حوزهٔ وظیفهٔ شما نیست، بی‌سروصدا آن را برندارید و صرفاً کنار نکشید. خلأ را ثبت کنید و موضوع را به جایگاه درست بسپارید.*
+*به زبان ساده: اگر گامی در حوزه مسئولیت شما نیست، بی‌سروصدا آن را بر عهده نگیرید و صرفاً کنار نکشید. شکاف را ثبت کنید و موضوع را به جای درست بسپارید. بهتر آن است که فرایند طوری طراحی شود که هر گام، بی‌نیاز از تشخیص کسی، به محل درست برسد.*
 
 سرپرستی که از او خواسته می‌شود گامی بیرون از جایگاه خود بردارد باید:
 
@@ -208,7 +208,7 @@ flowchart TB
 4. شواهد و یکپارچگی هر سابقه‌ای را که دریافت کرده حفظ کند؛ و
 5. بدون تأخیر قابل‌اجتناب ارجاع دهد.
 
-این پاسخ انجام وظیفه است، نه رهاکردن عمل. عمل از جایگاه درست پیش می‌رود. برداشتن گام صرفاً به این دلیل که سرپرست نزدیک‌تر، سریع‌تر، ارشدتر یا تنها فردِ آگاه است، جای خالی یک جایگاه را برطرف نمی‌کند.
+این پاسخ انجام وظیفه است، نه رها کردن عمل. عمل از جایگاه درست ادامه می‌یابد. برداشتن گام صرفاً به این دلیل که سرپرست نزدیک‌تر، سریع‌تر، ارشدتر یا تنها فردِ آگاه است، جای خالیِ یک جایگاه را برطرف نمی‌کند.
 
 <a id="5-published-placement-vacancy-and-substitution"></a>
 ### ۵. تعیین جایگاه منتشرشده، خلأ و جانشینی
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [شفافیت](../../core_05_band_oversight.md#transparency)؛ [ممیزی‌پذیری](../../core_05_band_oversight.md#auditability).
-- پایین‌دست: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*)؛ [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*نقش‌های مجاز و زنجیره‌های پاسخ‌گویی*)؛ سوابق فصل هشتم و نهم.
-- همراه با این بخش بخوانید: [منشور](../../core_05.040_band_continuity.md) و [فصل سیزدهم §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [شفافیت](core_05_band_oversight.md#transparency)؛ [ممیزی‌پذیری](core_05_band_oversight.md#auditability).
+- پایین‌دست: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*)؛ [CI-4.5](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-5-authorized-roles-and-accountability-chains) (*نقش‌های مجاز و زنجیره‌های پاسخ‌گویی*)؛ سوابق فصل هشتم و نهم.
+- همراه با این بخش بخوانید: [منشور](../../core_05.040_band_continuity.md) و [فصل سیزدهم §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -234,9 +234,9 @@ flowchart TB
 - جانشینِ دارندهٔ غایب، کنارگذاشته‌شده، تسخیرشده یا دچار تعارض؛ و
 - مسیر مستقل در صورت در دسترس نبودن جانشین واجد صلاحیت.
 
-جایگاهِ تعیین‌نشده، خالی یا دچار تعارض، نقصی در حکمرانی است که باید ثبت و اصلاح شود. این جایگاه خودبه‌خود به جایگاه آغازگر، طرف ذی‌نفع، بهره‌بردار یا مافوقی در [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) او منتقل نمی‌شود. تا زمان اصلاح، عمل به جانشین منتشرشده یا مسیر مستقل ارجاع می‌شود. صرف عجله مجوز دورزدن الزام استقلال نیست.
+جایگاهِ تعیین‌نشده، خالی یا دچار تعارض، نقصی در حکمرانی است که باید ثبت و اصلاح شود. این جایگاه خودبه‌خود به جایگاه آغازگر، طرف ذی‌نفع، بهره‌بردار یا مافوقی در [خط کنترل مادی](../../core_05.035_band_accountability.md#material-control-line) او منتقل نمی‌شود. تا زمان اصلاح، عمل به جانشین منتشرشده یا مسیر مستقل ارجاع می‌شود. صرف عجله مجوز دورزدن الزام استقلال نیست.
 
-تفویض، همان مرز جایگاه، وظایف مربوط به شواهد، سابقه و مهلت را حفظ می‌کند و همچنان تابع [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) است. تفویض جایگاه تازه‌ای ایجاد یا جایگاه‌ها را ادغام نمی‌کند و به نماینده اجازه نمی‌دهد کاری را انجام دهد که جایگاه تفویض‌کننده نمی‌توانست انجام دهد؛ از جمله تبدیل توصیه یا الزام متناسب با طبقه برای جداسازی کامل چهار جایگاه به اجازهٔ ادغام.
+تفویض، همان مرز جایگاه، وظایف مربوط به شواهد، سابقه و مهلت را حفظ می‌کند و همچنان تابع [خط کنترل مادی](../../core_05.035_band_accountability.md#material-control-line) است. تفویض جایگاه تازه‌ای ایجاد یا جایگاه‌ها را ادغام نمی‌کند و به نماینده اجازه نمی‌دهد کاری را انجام دهد که جایگاه تفویض‌کننده نمی‌توانست انجام دهد؛ از جمله تبدیل توصیه یا الزام متناسب با طبقه برای جداسازی کامل چهار جایگاه به اجازهٔ ادغام.
 
 <a id="6-proportional-scaling-and-merged-hosting"></a>
 ### ۶. تناسب مقیاس و میزبانی ادغام‌شده
@@ -244,9 +244,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [ذی‌نفعی مادی](../../core_00_preamble.md#material-stake)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality).
-- پایین‌دست: [فصل نهم §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*نیروی انسانی مسیر و افزونگی صلاحیت متناسب با طبقه*)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*).
-- همراه با این بخش بخوانید: [بار قابل‌اجتناب](../../core_05_band_continuity.md#avoidable-burden) و [فصل یکم §3.3 فرایند ضدتحقیر](../../core_01_a_values_principles.md#33-anti-degrading-process).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [ذی‌نفعی مادی](core_00_preamble.md#material-stake)؛ [ضرورت](../../core_05.035_band_accountability.md#necessity)؛ [تناسب](../../core_05.035_band_accountability.md#proportionality).
+- پایین‌دست: [فصل نهم §3.7](core_11_standing_assessment.md#59-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy) (*نیروی انسانی مسیر و افزونگی صلاحیت متناسب با طبقه*)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*).
+- همراه با این بخش بخوانید: [بار قابل‌اجتناب](../../core_05.040_band_continuity.md#avoidable-burden) و [فصل یکم §3.3 فرایند ضدتحقیر](core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
 
@@ -275,9 +275,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [فصل دوازدهم §6.1 اقدامات اضطراری و بار ادامه‌دادن](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [موضع موقت پیش‌فرض](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [فصل دوازدهم §6.1 اقدامات اضطراری و بار ادامه‌دادن](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)؛ [موضع موقت پیش‌فرض](core_01_b_interaction_interpretation.md#default-interim-posture).
 - پایین‌دست: فرایندهای رخداد، مهار، انتشار، ادامه و بازبینی پس از رخداد در متن اجراییِ تعیین‌شده.
-- همراه با این بخش بخوانید: [به‌موقع‌بودن](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)، [حفظ شواهد](../../core_05_band_oversight.md#evidence-preservation) و [فهرست جایگاه CI-4.6 — گونه‌های نقش فرایندی و مرزهای عملیاتی](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- همراه با این بخش بخوانید: [به‌موقع‌بودن](core_05_apex_timeliness_leg.md#timeliness-constitutional)، [حفظ شواهد](core_05_band_oversight.md#evidence-preservation) و [فهرست جایگاه CI-4.6 — گونه‌های نقش فرایندی و مرزهای عملیاتی](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -285,23 +285,23 @@ flowchart TB
 
 *به زبان ساده: اضطرار واقعی ممکن است اقدام پیش از پایان بررسی معمول را توجیه کند. این وضعیت توالی را عوض می‌کند، نه مالکیت جایگاه یا موضع جداسازی متناسب با طبقه را. عامل را مجاز نمی‌کند ادامهٔ اقدام خودش را تأیید کند، ردپا را پاک کند یا بعداً بازبین نهایی شود.*
 
-هرگاه تأخیر خطرِ به‌طور معقول قابل‌پیش‌بینیِ زیان جدی و قریب‌الوقوع ایجاد کند، جایگاه آغازگر یا مهارِ مجاز می‌تواند پیش از تکمیل راستی‌آزمایی معمولِ قبلی، فقط در صورتی حداقل اقدام برگشت‌پذیرِ لازم را انجام دهد که:
+هرگاه تأخیر خطرِ قابل‌پیش‌بینیِ معقولِ آسیب جدی و قریب‌الوقوع ایجاد کند، جایگاه آغازگر یا مهارِ مجاز می‌تواند پیش از تکمیل راستی‌آزمایی پیشینی معمول، حداقل اقدام برگشت‌پذیر لازم را انجام دهد، اما فقط در صورتی که:
 
-- اختیار اضطراری، دامنه، زمان آغاز، انقضا و دلیل فوراً یا در نخستین فرصت عملی ثبت شود؛
+- اختیار اضطراری، دامنه، زمان آغاز، انقضا و دلیل آن فوراً یا در نخستین زمان ممکن از نظر فیزیکی ثبت شود؛
 - شواهد و اعتراض‌ها حفظ شوند؛
-- اطلاع‌رسانی و مشارکت در مهلت قانون اساسیِ مربوط بازگردانده شوند؛
-- جایگاه مستقل راستی‌آزمایی یا مجوزدهی هر ادامه‌ای فراتر از حد فوری را بررسی کند؛ و
+- اطلاع‌رسانی و مشارکت در مهلت قانون اساسیِ مربوط دوباره برقرار شوند؛
+- جایگاه مستقل راستی‌آزمایی یا اجازه‌دهی هر ادامه‌ای فراتر از حد فوری را بررسی کند؛ و
 - عمل پس از رخداد مستقلاً بازبینی شود.
 
 اقدام اضطراری:
 
-- به عامل اجازه نمی‌دهد ادامهٔ اقدام خود را راستی‌آزمایی کند؛
+- به کنشگر اجازه نمی‌دهد ادامهٔ اقدام خود را راستی‌آزمایی کند؛
 - عامل را متولیِ سابقهٔ متعارض نمی‌کند؛
-- اجازه نمی‌دهد عامل به اعتراض به عمل خود رسیدگی کند؛
+- به کنشگر اجازه نمی‌دهد به اعتراض نسبت به اقدام خود رسیدگی کند؛
 - ضرورت موقت را به اختیار دائمی تبدیل نمی‌کند؛
-- ادغام هیچ‌یک از چهار جایگاه را برای نهاد یا سامانهٔ طبقهٔ A مجاز نمی‌کند.
+- اجازهٔ ادغام هیچ‌یک از چهار جایگاه را در یک نهاد یا سامانهٔ ردهٔ A نمی‌دهد.
 
-هیچ‌یک از موارد زیر به‌تنهایی اضطرار محسوب نمی‌شود:
+هیچ‌یک از موارد زیر به‌تنهایی وضعیت اضطراری نیست:
 
 - مهلت;
 - هدف انتشار;
@@ -314,9 +314,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: از [§2](#2-four-seat-constitutional-requirement) تا [§7](#7-emergency-and-urgent-action)؛ [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ [اقدام قابل‌انتساب](../../core_05_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity).
-- پایین‌دست: [CS-4 §10 اقدام قابل‌انتسابِ قابل‌بازرسی](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ هر سابقهٔ فرایندی که §8 بر آن حاکم است؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*قالب پایهٔ قابل‌بررسی ماشینی؛ پشتیبانی فرایندی، نه تعریفی دوم*).
-- همراه با این بخش بخوانید: [§4 ارجاع به جایگاه نادرست](#4-wrong-seat-routing) و [فصل چهارم §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- بالادست: از [§2](#2-four-seat-constitutional-requirement) تا [§7](#7-emergency-and-urgent-action)؛ [سابقهٔ عمل الزام‌آور مادی](../../core_05.035_band_accountability.md#materially-binding-act-record)؛ [اقدام قابل‌انتساب](../../core_05.035_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05.035_band_accountability.md#attribution-integrity).
+- پایین‌دست: [CS-4 §10 اقدام قابل‌انتسابِ قابل‌بازرسی](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ هر سابقهٔ فرایندی که §8 بر آن حاکم است؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*قالب پایهٔ قابل‌بررسی ماشینی؛ پشتیبانی فرایندی، نه تعریفی دوم*).
+- همراه با این بخش بخوانید: [§4 ارجاع به جایگاه نادرست](#4-wrong-seat-routing) و [فصل چهارم §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>
 
@@ -324,25 +324,25 @@ flowchart TB
 
 *به زبان ساده: هر عمل الزام‌آور مادی سابقهٔ عملی دارد که نشان می‌دهد چه رخ داده، چه کسی هر جایگاه را در اختیار داشته، چه چیزی تصمیم‌گیری شده و اعتراض به کجا می‌رود.*
 
-برای هر عمل الزام‌آور مادی باید [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record) (**سابقهٔ عمل**) قابل‌شناسایی وجود داشته باشد. سابقهٔ عمل می‌تواند در یک سابقهٔ رسمیِ فرایندمحورِ قابل‌اعمال یا مجموعه‌ای پیوندی از سوابق رسمیِ قابل‌انتساب و حافظ یکپارچگی ثبت شود. اگر سابقهٔ رسمی موجود یا مجموعهٔ پیوندی همهٔ عناصر لازم را روشن مشخص کند، پیوندها و تاریخچهٔ نسخه را حفظ کند و از مسیر رسمی مجاز در دسترس بماند، سند تکراری جداگانه لازم نیست.
+هر عمل الزام‌آور مادی باید [Materially Binding Act Record](../../core_05.035_band_accountability.md#materially-binding-act-record) (**سابقهٔ عمل**) قابل‌شناسایی داشته باشد. سابقهٔ عمل می‌تواند در یک سابقهٔ رسمیِ خاصِ فرایند مربوط یا در مجموعه‌ای از سوابق رسمیِ مرتبط، قابل‌انتساب و حافظ یکپارچگی ثبت شود. اگر سابقهٔ رسمی موجود یا مجموعهٔ پیوندخورده همهٔ عناصر لازم را روشن مشخص کند، پیوندها و تاریخچهٔ نسخه‌ها را حفظ کند و از مسیر رسمی مجاز در دسترس بماند، سند تکراری جداگانه لازم نیست.
 
-سابقهٔ عمل دست‌کم باید موارد زیر را مشخص کند:
+سابقهٔ عمل باید دست‌کم موارد زیر را مشخص کند:
 
-- شناسهٔ پایدار سابقه، نسخهٔ جاری و زمان‌های مادی ایجاد و تغییر؛
+- شناسهٔ پایدار سابقه، نسخهٔ جاری و زمان‌مهرهای مهم ایجاد و تغییر؛
 - عمل، دامنهٔ مادی، وضعیت و اختیار حاکم بر آن؛
 - جایگاه آغازگر، دارنده و اختیار؛
-- جایگاه راستی‌آزمایی یا مجوزدهی، دارنده، معیار حاکم، تعیین تکلیف، شروط یا دلایل مادی و زمان تعیین تکلیف؛
+- جایگاه راستی‌آزمایی یا اجازه‌دهی، دارنده، معیار حاکم، تصمیم، شروط یا دلایل مهم و زمان تصمیم؛
 - جایگاه ثبت، دارنده، اختیار نگهداری و نسخهٔ ثبت‌شده؛
-- جایگاه اعتراض یا مسیر منتشرشدهٔ اعتراض و وضعیت جاری اعتراض یا اصلاح؛
-- هر تفویض، کناره‌گیری، جانشینی، ادغام مجاز یا انحراف اضطراری؛ و
-- شواهد مادی و پیوندهای سوابق، واگذاری‌ها، امتناع‌ها، شروط، اعتراض‌های حل‌نشده، مهلت‌ها، نسخه‌های جایگزین‌شده و اصلاح‌های لازم برای بازسازی عمل.
+- جایگاه اعتراض یا مسیر منتشرشدهٔ چالش و وضعیت فعلی چالش یا اصلاح؛
+- هر تفویض، کناره‌گیری، جایگزینی، ادغام مجاز یا عدول اضطراری؛ و
+- شواهد و پیوندهای مهم سوابق، تحویل‌ها، ردها، شروط، اعتراض‌های حل‌نشده، مهلت‌ها، نسخه‌های جایگزین‌شده و اصلاحات لازم برای بازسازی عمل.
 
 سوابق ویژهٔ فرایند می‌توانند فیلدهای سخت‌گیرانه‌تر یا مختص حوزه اضافه کنند. نباید این حداقل را حذف یا نقض کنند یا بازسازی آن را ناممکن سازند. کنترل‌های قانونیِ حریم خصوصی، محرمانگی و امنیت بر نحوهٔ دسترسی یا افشای مواد حفاظت‌شده حاکم‌اند؛ اما اجازه نمی‌دهند ردپای رسمی پاک شود یا برای راستی‌آزمایی، اعتراض، اصلاح یا جبرانِ مجاز بی‌استفاده گردد.
 
-گزارش‌ها نشان می‌دهند چه کسی چه کاری کرده است، اما به‌تنهایی اعتبار اقدام را ثابت نمی‌کنند. گزارش، امضا، ردپای مدل، فهرست بررسی یا گواهی‌ای که ذی‌شعور یا سامانهٔ انجام‌دهندهٔ اقدام ایجاد کرده است، نقشی محدود دارد:
+گزارش‌ها نشان می‌دهند چه کسی چه کاری انجام داده است، اما به‌تنهایی ثابت نمی‌کنند که اقدام معتبر بوده است. گزارش، امضا، ردپای مدل، فهرست بررسی یا گواهی‌ای که توسط کائن هوشمند یا سامانهٔ انجام‌دهندهٔ اقدام ایجاد شده باشد، نقشی محدود دارد:
 
-- این مواد می‌توانند مدرک فراهم کنند یا به سابقهٔ عمل پیوند داده شوند.
-- این مواد نمی‌توانند جای بررسی و تصمیم مستقل یا خودِ سابقهٔ رسمی عمل را بگیرند.
+- این موارد می‌توانند مدرک ارائه کنند یا به Act Record پیوند داده شوند.
+- این موارد نمی‌توانند جایگزین بررسی و تصمیم مستقل یا خودِ Act Record رسمی شوند.
 
 <a id="9-relationship-to-later-processes"></a>
 ### ۹. رابطه با فرایندهای بعدی
@@ -352,7 +352,7 @@ flowchart TB
 
 - بالادست: از [§1](#1-purpose-scope-and-owner-boundary) تا [§8](#8-act-records-and-attributable-handoffs).
 - پایین‌دست: [فصل هشتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
-- همراه با این بخش بخوانید: [سلسله‌مراتب داخلی و پشتهٔ اختیارات](../../core_05_band_integrative.md#owner-non-relocation) و [دفتر ثبت مالکیت دیباچه](../../core_00_preamble.md#4-principles-definitions-and-rights).
+- همراه با این بخش بخوانید: [سلسله‌مراتب داخلی و پشتهٔ اختیارات](core_05_band_integrative.md#owner-non-relocation) و [دفتر ثبت مالکیت دیباچه](core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
 
@@ -374,10 +374,10 @@ flowchart TB
 - **فصل دوازدهم — مراجع رسیدگی:** ثبت دادخواست، تحقیق، بررسی ماهوی، نگهداری سابقه، تجدیدنظر و بررسی ادعای جانبداری یا سوءاستفادهٔ فرایندیِ خود مرجع باید مرزهای قابل‌اعمال جایگاه و منع داوری دربارهٔ خود را حفظ کند.
 - **فصل سیزدهم — حکمرانی:** تعریف نقش‌ها، برنامه‌های صلاحیت، تفویض، جانشینی و طراحی نهادی باید جایگاه‌ها را مستقر و پایدار کنند، نه اینکه فقط نامشان را تکرار کنند.
 
-فصل بعدی ممکن است به‌دلیل خطر بیشتر یا متفاوتِ فرایند خود، الزامات قوی‌تری برای استقلال، کناره‌گیری، جداسازی، نگهداری، هیئت یا بازبینی مقرر کند. اما نمی‌تواند این کف را محدود کند، برچسب مختص فرایند را معافیت بداند یا از سکوت نتیجه بگیرد که جایگاه به عامل منتقل شده است.
+یک فصل بعدی می‌تواند به‌دلیل خطر بیشتر یا متفاوت در فرایند خود، الزامات قوی‌تری برای استقلال، کناره‌گیری، تفکیک، نگهداری، هیئت یا بازبینی بیفزاید. اما نمی‌تواند الزامات این فصل را محدودتر کند؛ و جایگاهی که تعیین نشده، طبق [§5.3 جایگاهی که نقشه بدون متصدی می‌گذارد، یا متصدری که نمی‌تواند خدمت کند](../../core_08.000_functional_independence_separation_of_duties.md#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) به کنشگر منتقل نمی‌شود.
 
 ---
 
-**فایل پیشین:** [core_05_band_performance.md](../../core_05_band_performance.md)
+**فایل پیشین:** [core_07.000_charters.md](core_07_charters.md)
 
-**فایل بعدی:** [core_08_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**فایل بعدی:** [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)

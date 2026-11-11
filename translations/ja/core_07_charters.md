@@ -11,8 +11,8 @@
 >
 > - **憲法上の所管：**システムがシステム憲章を公表しなければならない場合、機関が機関憲章を公表しなければならない場合（L級以上は必須、P級は任意）、各憲章の最低記載事項、変更・審査の方法、および対象職務の保持者の地位と真正性に関する成立審査。
 > - **定義の所在：**[システム憲章](../../core_05.040_band_continuity.md#system-charter)、[機関憲章](../../core_05.040_band_continuity.md#institutional-charter)、[憲章役割図](../../core_05.040_band_continuity.md#charter-role-map)、[憲章主体](../../core_05.040_band_continuity.md#chartered-party)、[運営主体](../../core_05.050_band_oversight.md#operating-party)は第5章で定義される。本章はこれらを適用し、再定義しない。
-> - **実装上の所管：**[CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template)（*システム憲章および機関憲章の内容、審査、成立テンプレート*）に、全項目テンプレート、審査チェックリスト、成立手続および成立審査声明のテンプレートを置く。同文書は基準を厳しくしたり項目を追加したりできるが、本章の最低基準を狭めることはできない。採択が有効な範囲でのみ、組み込まれた実装文書として拘束力を持つ（[第18章 §4 採択の枠組みと権限の範囲](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)）。本章の最低基準は中核本文として拘束力を持つ。
-> - **後続の適用先：**[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)は憲章役割図を要求する。第9章はシステム憲章を範囲・境界の認定に参照し、第9章D部は機関の成立審査声明を検査する。[第10章 §3.7 地位記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)は地位記録に適用する。[第13章 §4.3 機関フォーラム](../../core_13.000_forum.md#43-institutional-forums)は機関憲章に関する紛争を扱う。
+> - **実装責任者：** [CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template)（*システム憲章・機関憲章の内容、審査、および成立テンプレート*）には、完全な項目テンプレート、審査チェックリスト、成立手続、および成立審査声明テンプレートが定められている。より厳格にすることや項目を追加することはできるが、本章を狭めることはできない。その本文は、有効な採択範囲内で組み込まれた実施文書としてのみ拘束力を持つ（[第二十章 §4 採択の枠組みと権限の範囲](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)）。本章の要件は中核本文として拘束力を持つ。
+> - **後続の利用者：** [第八章 §5 公開された配置、空席、および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)は憲章役割図を要求する。第九章は範囲と境界の所見にあたりシステム憲章を参照し、第十章は機関の成立審査声明を検査する。[第十一章 §5 記録の保管と開始権限](../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)はこれを軌跡記録に適用する。[第十五章 §4.3 機関フォーラム](../../core_15.000_forum.md#43-institutional-forums)は機関憲章に関する紛争を扱う。
 >
 > 読む順序：§1 システム憲章・機関憲章が必要となる場合と手続図 → §2 組織を形成する権利と四つの限定 → §3 各憲章の記載事項 → §4 憲章役割図と地位記録の保管 → §5 職務保持者の地位・真正性の成立審査 → §6 成立審査に不合格の保持者がいる場合 → §7 修正、審査、範囲の不一致。
 
@@ -21,7 +21,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：[憲法の四元](../../core_00.000_preamble.md#constitutional-tetrad)、特に**監督**と**説明責任**；[重要な利害](../../core_00.000_preamble.md#material-stake)；[第1章 §18.1 認可された構造としての統治](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure)（1.015 §18.1）；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）。
+- [第 1 章 §18.1 認可された構造としてのガバナンス](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.010 §18.1);
 - 小節：[§1](#1-システム憲章および機関憲章が必要となる場合)；[§2](#2-組織形成の権利と四つの限定)；[§3](#3-システム憲章および機関憲章の記載事項)；[§4](#4-憲章役割図と地位記録の保管)；[§5](#5-成立審査職務保持者の地位と真正性)；[§6](#6-保持者が成立審査に不合格の場合)；[§7](#7-修正審査範囲の不整合)。
 - 下流：[第8章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)；[第9章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第10章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第13章](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第14章](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)、および上記の実装文書。
 - 併読：[権限の階層と内部序列](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)；[システム境界](../../core_05.040_band_continuity.md#system-boundaries)；[システム境界の完全性](../../core_05.040_band_continuity.md#system-boundary-integrity)；[システムの創設](../../core_05.055_band_participation.md#system-creation)；[事業の創設](../../core_05.055_band_participation.md#business-creation)。
@@ -35,8 +35,8 @@
 三つの章が一つの連鎖を構成する：
 
 - **第七章（本章）：**[憲章主体](../../core_05.040_band_continuity.md#chartered-party)が何を行うと主張し、行為時に各席を誰が担うかを示す。
-- **[第八章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)：**各席をどのように分離するかを定める。
-- **[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)：**システムを認証し、機関も別途認証する。いずれの認証も各席を用いる拘束力のある行為であり、その認定結果をシステム憲章または機関憲章に反映する。
+- [第 8 章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
+- **[第 9 章](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification):** はシステムを認証し、個別に機関を認証します。それぞれが議席を使用する 1 つの拘束力のある行為です。見つけたものを システム憲章 または 機関憲章 に送り返します。
 
 他の章は、本章が参照する定義、席の規則、地位ロック、判断規則を定める。**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）には項目テンプレート、成立手続、審査チェックリストがある。
 
@@ -47,7 +47,7 @@
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
 - 上流：[§2](#2-組織形成の権利と四つの限定)；[重要な利害](../../core_00.000_preamble.md#material-stake)；[比例性](../../core_05.035_band_accountability.md#proportionality)および章冒頭の所管に関する記載；[第1章 §18 受託者責任の規律下にある統治](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[監督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)；[説明責任](../../core_05.005_apex_accountability_leg.md#accountability)。
-- 下流：[§3](#3-システム憲章および機関憲章の記載事項)；[第9章A部 §2 システム級評価](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)（9.005 §2）（*級と認証の深度*）；[第9章D部 §12.1 機関級](../../core_09.015_institutional_alignment_certification.md#121-institution-class)（9.020 §12.1）（*機関の級*）；級の一覧は**CS-9.305（*システム分類機構*）およびCS-9.310**にある。
+- 下流：[§3](#3-システム憲章および機関憲章の記載事項)；[第9章A部 §2 システム級評価](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)（9.005 §2）（*級と認証の深度*）；[第9章D部 §12.1 機関級](core_10.000_institutional_alignment_certification.md#21-institution-class)（9.020 §12.1）（*機関の級*）；級の一覧は**CS-9.305（*システム分類機構*）およびCS-9.310**にある。
 - 併読：**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）；**CF-13.415 §5**（*機関および地域の登記官*）；**CI-9.210**（*分類に連動する機関の義務*）；[第5章 システム憲章](../../core_05.040_band_continuity.md#system-charter)；[第5章 機関憲章](../../core_05.040_band_continuity.md#institutional-charter)；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）。
 
 </details>
@@ -101,7 +101,7 @@ L級以上のシステムは[システム憲章](../../core_05.040_band_continui
 
 - **A、B、C、L級：**公表必須。[§1.7 手続の概要](#17-手続の概要)の図に手続が示されている。
 - **P級：**二つの事由のいずれかが生じるまでは任意。[§1.3 P級とは](#13-p級とは)は運営主体がP級となる条件を、[§1.4 P級：任意の憲章と必須になる場合](#14-p級任意の憲章と必須になる場合)は選択とその終了時点を示す。
-- **機関の級：**機関は、運営、受託管理、または実質的に制御するシステムのうち最も高い級を引き継ぐ。そのようなシステムを運営しない機関は、ラベルや法的形態ではなく、実際に決定し保持する事項に基づき、機関自身の重要な影響と依存関係から級を判定する（[第9章D部 §12.1 機関級](../../core_09.015_institutional_alignment_certification.md#121-institution-class)）。
+- **機関の級：**機関は、運営、受託管理、または実質的に制御するシステムのうち最も高い級を引き継ぐ。そのようなシステムを運営しない機関は、ラベルや法的形態ではなく、実際に決定し保持する事項に基づき、機関自身の重要な影響と依存関係から級を判定する（[第9章D部 §12.1 機関級](core_10.000_institutional_alignment_certification.md#21-institution-class)）。
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 P級とは
@@ -112,7 +112,7 @@ L級以上のシステムは[システム憲章](../../core_05.040_band_continui
 - **全領域で基準線未満の場合：**構成員数にかかわらずP級のままである。
 - **内部にいる者：**P級かどうかは内部の者にも依存する。運営主体が基準線を超えたと知った内部の者は報告義務を負い、その報告は保護される（[領域別重要性](../../core_05.050_band_oversight.md#domain-specific-materiality)）。
 
-第八章の四席最低基準は、私的単位内に留まるP級運営主体の行為には適用されないため、感知者一名とコンピューターであれば二人目の席保持者は不要である。他者が従わなければならない、または確定事項として依拠できる[重大な拘束力を持つ行為](../../core_05.035_band_accountability.md#materially-binding-act)を運営主体が行う時点から、四席最低基準が適用される。この行為は「他者に対する権限」の領域線を越えるため、少なくともL級となる。
+第 8 章の 4 席の要件は、専用ユニット内に留まるクラス P 運営主体 の行為には適用されないため、コンピューターを持った 1 人の知覚者には 2 番目の席保持者は必要ありません。この要件は、運営主体 が [重大な拘束力のある法](../../core_05.035_band_accountability.md#materially-binding-act) を制定した日から適用され、他者が従わなければならない、または解決済みとして依存する可能性があり、これは他者に対する権限の領域の一線を超え、少なくともクラス L になります。
 
 <a id="14-class-p-optional-charters-and-when-they-become-required"></a>
 #### 1.4 P級：任意の憲章と必須になる場合
@@ -131,7 +131,7 @@ P級の運営主体には、運営形態に適した[システム憲章](../../c
 
 その場合、運営主体は[§1.5](#15-システム憲章または機関憲章の期限)の期限に従って、状況に合うシステム憲章または機関憲章を公表しなければならない。
 
-**承認は範囲文書の有無に左右されない。**システム憲章または機関憲章の有無や級にかかわらず、集団は構成員の承認を妨げない。各構成員は集団の内外で行った仕事について個人として貢献記録を申請でき、記録は集団の地位ではなく本人の貢献を扱う（[第10章 §3.7 非公式・小規模範囲の記録](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records)）。他者が受け入れる義務のない援助、物資、労働またはサービスを提供することは、重大な拘束力を持つ行為ではない。したがって難民に毛布を贈る相互扶助サークルにはシステム憲章も機関憲章も不要であり、その構成員も承認を得られる。
+**承認は範囲文書の有無に左右されない。**システム憲章または機関憲章の有無や級にかかわらず、集団は構成員の承認を妨げない。各構成員は集団の内外で行った仕事について個人として貢献記録を申請でき、記録は集団の地位ではなく本人の貢献を扱う（[第10章 §3.7 非公式・小規模範囲の記録](core_11_standing_assessment.md#59-informal-and-small-scope-records)）。他者が受け入れる義務のない援助、物資、労働またはサービスを提供することは、重大な拘束力を持つ行為ではない。したがって難民に毛布を贈る相互扶助サークルにはシステム憲章も機関憲章も不要であり、その構成員も承認を得られる。
 
 <a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
 #### 1.5 システム憲章または機関憲章の期限
@@ -142,7 +142,7 @@ P級の運営主体には、運営形態に適した[システム憲章](../../c
 - **すでに運営中の場合：**次の分類審査または認証まで、または[§1.6 システム憲章・機関憲章がない場合](#16-システム憲章機関憲章がない場合)の請求後の解決期限内のうち、先に到来する方。公表するまでは不履行である。
   - **どの認証か：**システムはシステム整合認証、機関は[第9章D部 §11.3 許可も門もない](../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate)に基づく機関整合認証を受ける。初回認証の期限は機関憲章の公表にも運営開始にも条件としてはならない。
 - **成立審査：**同時に[§5 成立審査：職務保持者の地位と真正性](#5-成立審査職務保持者の地位と真正性)を完了する。
-- **提出先：**憲章役割図および成立審査声明を添えて、システム憲章または機関憲章を機関登記官に提出する。活動と影響を受ける感知者が地域内に限られる場合は地域登記官に提出する（**CF-13.415 §5**、*機関および地域の登記官*）：
+- **提出先：** 憲章主体は、憲章役割図および成立審査声明を添えて、システム憲章または機関憲章を機関登録機関に提出する。活動と影響を受ける感知者が地域内にある場合は地域登録機関に提出する（**CF-15.415 §5**（*機関および地域の登録機関*））：
   - **登記官の役割：**必須項目の欠落を確認し、日付入りの受領証を出す。
   - **登記官がしてはならないこと：**許可を与えず、級や内容を裁定しない。
   - **受領証の遅延または欠落：**憲章主体の運営を妨げない。
@@ -165,7 +165,7 @@ L級以上である（または新たにその級となった）憲章主体が�
 
 各期間は次のように適用する：
 
-- **答弁期間：**憲章主体は請求日から、**CF-13.445 §3.1**（*段階目標と期限の最低基準*）の該当Tierの受付目標内に回答する。システム憲章または機関憲章を公表する、公表日を示す、既に公表した文書を提示する、または[領域別重要性](../../core_05.050_band_oversight.md#domain-specific-materiality)の全領域で基準未満であると答え、その立証に必要な書面を提出する。
+- **応答期間：** 憲章主体は応答期間内に回答する。応答期間とは、**CF-15.445 §3.1**（*段階目標と外側の上限*）の該当ティアの受付目標であり、申立日から数える。システム憲章または機関憲章を公開するか公開日を示すか、既に公開したものを指し示すか、[領域別重要性](core_05_band_oversight.md#domain-specific-materiality)の全境界を下回ると回答し、そのための書面による説明を提出する。
 - **解決期間：**請求日から **CF-13.445 §3.1**（*段階目標と期限の最低基準*）の該当Tierの最終上限内に、成立審査声明とともに憲章を提出する（[§5 成立審査：職務保持者の地位と真正性](#5-成立審査職務保持者の地位と真正性)）。独立席がまだない憲章主体は、同節の規定に従い、証拠を添えた宣言として声明を提出する。
 - **基準未満だと主張する運営主体：**請求は、該当する項目の*異議申立て経路*に従う分類異議も兼ねる：
   - **期間の進行：**異議が係属中も解決期間は進行する。
@@ -173,7 +173,7 @@ L級以上である（または新たにその級となった）憲章主体が�
   - **審査に値する異議：**特定領域における具体的な境界超過を示し、運営主体の書面による立証に照らしてなお現実の疑問が残る異議をいう。運営主体は自ら審査価値を判断できず、書面による立証を伴わない答弁では期限は延長されない。
   - **級が認定された場合：**当該異議によるものか別の手続によるものかを問わず、認定日を請求日とみなす。認定された級（A、B、CまたはL級）に対応するTierで答弁期間と解決期間が始まる。
 - **期限を守れない場合：**答弁がないこと、または期限内に憲章を公表しないことは、記録して是正すべき欠陥である。請求者は同じ経路で管轄フォーラムに申し立てられる。これは設立や運営の条件ではない。
-- **重複請求：**同じ憲章主体について、以前の答弁または認定が有効な間に行われた二度目の請求は、新しい答弁期間や解決期間を開始しない。憲章主体は以前の答弁または認定を示して回答する。全領域で基準未満との自己立証で、フォーラムによる審査をまだ受けていないものは、有効な答弁とはみなさない。答弁または認定は、[第9章D部 §14.2 再開の契機](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)が定める以下のいずれかが生じるまで有効である：
+- **重複請求：**同じ憲章主体について、以前の答弁または認定が有効な間に行われた二度目の請求は、新しい答弁期間や解決期間を開始しない。憲章主体は以前の答弁または認定を示して回答する。全領域で基準未満との自己立証で、フォーラムによる審査をまだ受けていないものは、有効な答弁とはみなさない。答弁または認定は、[第9章D部 §14.2 再開の契機](core_10.000_institutional_alignment_certification.md#92-reopening-triggers)が定める以下のいずれかが生じるまで有効である：
   - **重大な変化：**憲章主体の活動が重大に変わる。
   - **新証拠：**境界超過に関する新しい証拠が示される。
 
@@ -240,9 +240,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：[§1](#1-システム憲章および機関憲章が必要となる場合)；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）。
+- 上流: [§1](#1-when-system-and-institutional-charters-are-required); [記事 XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*組織の形成と事業の創出*)。
 - 下流：[§1 システム憲章および機関憲章が必要となる場合](#1-システム憲章および機関憲章が必要となる場合)；[§5 成立審査：職務保持者の地位と真正性](#5-成立審査職務保持者の地位と真正性)。
-- 併読：[臨時留保](../../core_05.035_band_accountability.md#interim-hold)；[第11章 §4.2 予防——一般的な地位ロック](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)（11.000 §4.2）；[第11章 §5.5 特別ロック](../../core_11.000_standing_integration.md#55-special-locks)（11.000 §5.5）；[第13章 §5 特定感知者の経路に対する臨時留保](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
+- 併読：[臨時留保](../../core_05.035_band_accountability.md#interim-hold)；[第11章 §4.2 予防——一般的な地位ロック](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)（11.000 §4.2）；[第11章 §5.5 特別ロック](../../core_13.000_standing_integration.md#65-special-locks)（11.000 §5.5）；[第13章 §5 特定感知者の経路に対する臨時留保](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
 
 </details>
 
@@ -261,11 +261,11 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 組織形成の権利
 
-誰でも新しいシステム、機関または事業を形成できる。この権利は[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）に定める。本章は、その次に生じる義務を加える。運営主体の活動が[領域別重要性](../../core_05.050_band_oversight.md#domain-specific-materiality)の九領域のいずれかで他者にとって重要になったら、主張する権限の範囲を事前に公表しなければならない（[§1 システム憲章および機関憲章が必要となる場合](#1-システム憲章および機関憲章が必要となる場合)）。システム憲章または機関憲章の採用を、組織形成の権利や権利の床による保護を狭めるものと解釈してはならない。
+誰でも新しいシステム、組織、ビジネスを設立することができます。その権利は [第 XI-E 条](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*組織の形成と事業の創出*) に規定されています。この章では、次に来る義務を追加します。 運営主体 が行うことが、[ドメイン固有の重要性](core_05_band_oversight.md#domain-specific-materiality) の 9 つの領域のいずれかにおいて他の人にとって重要になると、事前に、自分が行う権限を主張していることを公の場で述べなければなりません ([§1 システムと 機関憲章 が必要な場合](#1-when-system-and-institutional-charters-are-required))。 システム憲章 または 機関憲章 を採用することは、その権利や 権利の床 保護を狭める目的で読まれてはなりません。
 
 **組織形成の権利が及ばないもの。**[§2.2 第一の限定：感知者に対する未解除のロック](#22-第一の限定感知者に対する未解除のロック)、[§2.3 第二の限定：具体的な検証済み事実に基づく短期の留保](#23-第二の限定具体的な検証済み事実に基づく短期の留保)、[§2.4 第三の限定：運営主体自体に対するロック](#24-第三の限定運営主体自体に対するロック)という三つの門を除き、**第XI-E条**（*機関形成と事業創設*）は次を保護しない：
 
-- 憲法上の制約を破る、安全または真実を損なう、あるいは[第1章 §11 市場構造](../../core_01.000_values_principles.md#11-market-structure)が禁じる形で権力を集中させるよう設計された運営主体；または
+- 憲法上の制約を破る、安全や真実を損なう、または[第1章 §11 市場構造](core_01_a_values_principles.md#11-market-structure)が禁じる形で権力を集中させるよう設計された運営主体、または
 - 検証済みの行為、支配関係、報酬から見て表明された目的と真正に整合しない創立者が形成・運営する運営主体、あるいは目的、支配関係または利害について他者を誤導したり、他者を害したりする意図を持って形成・運営する主体。
 
 フォーラムは同条に基づきこれらの事案を判断し、結果は同条の三つの門に限られる。すなわち、未解除ロックの門、臨時留保、運営主体自体へのロックである。成立審査の不合格はフォーラムが考慮する証拠の一つであり、成立審査だけで事案を決めるものではない。
@@ -273,7 +273,7 @@ flowchart TB
 <a id="22-first-limit-an-outstanding-lock-on-a-sentient"></a>
 #### 2.2 第一の限定：感知者に対する未解除のロック
 
-検証済みの違反後に設定され、まだ解除されていない[地位ロック](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)または[特別ロック](../../core_11.000_standing_integration.md#55-special-locks)は、特定の感知者一名がこの種の機関または事業を統制する権限を持つことを禁じる。
+確認済みの違反の後に設定され、まだ解除されていない[軌跡ロック](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)または[特別ロック](../../core_13.000_standing_integration.md#65-special-locks)は、指名された一人の感知者がこの種の機関または事業に対する権限を持つことを禁じる。
 
 - **禁じられること：**運営主体において統治、統制または所有の権限を取得・行使すること。
 - **適用範囲：**ロックが定める範囲に限られる。ロックが解除または縮小されれば終了する。
@@ -282,15 +282,15 @@ flowchart TB
 <a id="23-second-limit-a-short-hold-on-specific-verified-facts"></a>
 #### 2.3 第二の限定：具体的な検証済み事実に基づく短期の留保
 
-管轄フォーラムが、保持者と憲章主体の表明された目的との不整合がより蓋然的であることを示す具体的な検証済み事実に基づき、[臨時留保](../../core_05.035_band_accountability.md#interim-hold)を命じた場合に適用する。命令できるのは当該フォーラムだけである（[第13章 §5 特定感知者の経路に対する臨時留保](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)）。憲章主体が独自に誰かの職務就任を禁じることはできない。そうすれば自らの構成員を自ら裁くことになる。完全な要件は[第13章 §5 特定感知者の経路に対する臨時留保](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)に定め、この短縮形はそれに取って代わらない。
+管轄権を有するフォーラムが、保有者が憲章主体の表明した目的と不整合である可能性の方が高いことを示す具体的かつ検証済みの事実に基づき、特定の[臨時留保](../../core_05.035_band_accountability.md#interim-hold)を命じた場合に、この制限が適用される。命令できるのはそのフォーラムだけである（[第十五章 §5 指名された感知者の経路に対する臨時留保](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)）。憲章主体が自ら誰かの就任を禁じることはできない。そうすれば構成員自身の裁判官となるからである。完全な根拠は[第十五章 §5 指名された感知者の経路に対する臨時留保](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)にあり、この短縮形はそれに代わるものではない。
 
 <a id="24-third-limit-a-lock-on-the-operating-party-itself"></a>
 #### 2.4 第三の限定：運営主体自体に対するロック
 
 ロックは感知者だけでなく運営主体自体にも設定できる。その場合、門はロックが特定する経路に従い、当該運営主体とその後継者、被支配主体、名義人またはペーパーカンパニーを通じて保有される手段に対し禁止を及ぼす。他の運営主体には及ばない。
 
-- **最終指定によるロック：**[反憲法的信頼ロック](../../core_11.000_standing_integration.md#55-special-locks)は、最終指定が機関、後継手段または被支配主体を名指す場合にこれを実施する。ロックは、憲章主体、その後継者、被支配主体、名義人またはペーパーカンパニーを通じて保有される手段に対し、指定された経路の行為を禁じる。
-- **解散した憲章主体：****CI-11.210 §4**（*解散*）に基づく最終解散命令は[解散後再形成ロック](../../core_11.000_standing_integration.md#55-special-locks)を設定する。解散した憲章主体、その後継者、被支配主体、名義人・ペーパーカンパニーを通じた手段、およびこれらと一体の運営主体は、ロックが有効な限り、名称や形態を変えて再形成・復活・運営してはならない。命令が広範な違憲行為または未回復の不可逆的危害を認定した場合（[第11章 §8 回復と再評価](../../core_11.000_standing_integration.md#8-restoration-and-reassessment)）、ロックは永久である。時間の経過、原因の解決、保持者の変更によって解除されず、解散命令が審査で取り消されるか、認定が誤りだったことを示す重要な新しい検証済み事実がある場合に限り終了する。それ以外は、原因が解決し、救済が実施され、排除継続より復帰の方が安全であるとの独立認定を得た場合に終了する。別の運営主体を形成する感知者を禁じるものではない。
+- **最終指定によるロック：**[反憲法的信頼ロック](../../core_13.000_standing_integration.md#65-special-locks)は、最終指定が機関、後継手段または被支配主体を名指す場合にこれを実施する。ロックは、憲章主体、その後継者、被支配主体、名義人またはペーパーカンパニーを通じて保有される手段に対し、指定された経路の行為を禁じる。
+- 解散した憲章主体：**CI-13.210 §4**（*解散*）による最終解散命令は[解散後再形成ロック](../../core_13.000_standing_integration.md#65-special-locks)を設定する。解散した憲章主体、その後継、支配下の事業体、ノミニーまたはシェル保有の事業体、およびそれらと一体の運営を行う運営主体は、ロックが有効な間、いかなる名称や形態でも再形成、再始動、運営してはならない。命令が広範な反憲法的行為または未救済の回復不能な損害を認定した場合（[第十三章 §9 回復と再評価](../../core_13.000_standing_integration.md#9-restoration-and-reassessment)）、ロックは恒久的である。時間の経過、原因の解消、保有者の変更では解除されず、審査で解散命令が取り消されるか、重大な新しい検証済みの事実が違反認定の誤りを示す場合に限り終了する。それ以外は、原因が解決し、救済が実施され、排除の継続より復帰の方が安全であるとの独立した認定をもって終了する。感知者が別の運営主体を形成することは禁じない。
 
 三つの門のいずれも、新しい運営主体の形成、システム憲章または機関憲章の公表、あるいは活動開始を妨げない。止められるのは、解散した憲章主体が復帰を試みる場合のように、自身がロックを受けている主体だけである。三つの門は成立審査で適用する（[§5 成立審査：職務保持者の地位と真正性](#5-成立審査職務保持者の地位と真正性)）。
 
@@ -325,7 +325,7 @@ flowchart TB
 
 - 上流：[§1](#1-システム憲章および機関憲章が必要となる場合)；[第5章 システム憲章](../../core_05.040_band_continuity.md#system-charter)（5.040）；[第5章 機関憲章](../../core_05.040_band_continuity.md#institutional-charter)（5.040）。
 - 下流：[§4](#4-憲章役割図と地位記録の保管)；[§7](#7-修正審査範囲の不整合)；[第9章B部 §8.1 最低記録事項](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents)（9.010 §8.1）（*認証記録が参照するシステム憲章の項目*）；全項目一覧は**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）。
-- 併読：[第18章 §4 採択の枠組みと権限の範囲](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)（18.000 §4）（*別の名称で保持される範囲文書*）；[第14章 §4.3 拘束力あるステークホルダー選択の決定・解決要件](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice)（14.000 §4.3）；**CI-6.205 §1**（*ステークホルダーの監督、通知、拘束力ある統治経路の完全性*）；**CI-6.205 §2**（*集中防止および参加の正当性に関する保護措置*）。
+- 併読：[第18章 §4 採択の枠組みと権限の範囲](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)（18.000 §4）（*別の名称で保持される範囲文書*）；[第14章 §4.3 拘束力あるステークホルダー選択の決定・解決要件](core_12_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice)（14.000 §4.3）；**CI-6.205 §1**（*ステークホルダーの監督、通知、拘束力ある統治経路の完全性*）；**CI-6.205 §2**（*集中防止および参加の正当性に関する保護措置*）。
 
 </details>
 
@@ -350,11 +350,11 @@ flowchart TB
 1. **識別情報と版：**名称、受託管理者または統治機関、版、発効日、変更履歴。
 2. **目的：**憲章主体が何をするために存在するか。
 3. **対象範囲内の活動：**主張する機能、サービス、権限、領域。
-   - **権限付与ではなく主張：**文書は憲章主体がすでに有する権限を記述するだけで、権限を与えない。憲章を根拠とする場合を含め、その権限の正当性は[第14章 §1 統治権限の認可と正当性](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority)に基づき判断する。
+   - **付与ではなく主張：**この文書は憲章主体が既に持つ権限を記載するもので、権限を付与しない。その権限が正当かどうかは、憲法憲章に基づく場合も含め、[第十六章 §1 統治権限の授権と正当性](../../core_16.000_governance.md#1-authorization-and-legitimacy-of-governing-authority)に従って判断される。
 4. **対象範囲外の限界：**行使を認められていない重要な活動、権限、領域。
 5. **影響を受ける共同体と依存関係：**重要な場合、憲章主体に依存する者、および憲章主体が依存する、または利用を左右するシステム・インフラ。
    - **除外しても対象外にはならない：**一覧から集団を省いても、範囲外にはならない。憲章主体が重大な影響を与える感知者は、文書に名前があるかにかかわらず権利の床による保護をすべて保持する。実際の依存関係より狭い一覧は、実際の依存関係に照らして解釈する。
-6. **分類の前提：**依拠する級または受託管理段階を記し、該当する場合は**CS-9.305（*システム分類機構*）、CS-9.310**（*システム分類機構*）および**CS-14.305**（*重要システムの受託管理*）への[憲章ポインター](../../core_05.040_band_continuity.md#charter-pointer)を置く。
+6. **分類上の前提：**依拠するクラスまたは責務ある管理の水準、および該当する場合は[憲章ポインター](../../core_05.040_band_continuity.md#charter-pointer)で**CS-9.305（*システム分類機構*）とCS-9.310**（*システム影響分類*）、さらに**CS-16.305**（*重要システムの責務ある管理*）を示す。
 7. **憲章役割図：**[憲章役割図](../../core_05.040_band_continuity.md#charter-role-map)、または同図となる公開文書への憲章ポインター（[§4 憲章役割図と地位記録の保管](#4-憲章役割図と地位記録の保管)）。
 8. **拘束力あるステークホルダー選択への憲章ポインター：**
    - **適用時：**影響を受ける感知者間に実際の意見対立があり、システム内で拘束力あるステークホルダー選択が必要な場合。[定義P2 拘束力あるステークホルダー選択](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice)はこれを適用範囲と呼ぶ。
@@ -415,8 +415,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：[§3](#3-システム憲章および機関憲章の記載事項)；[第 8 章 §2 憲法上の四議席の要件](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)（8.000 §2）。
-- 下流：[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)（8.000 §5）；[第9章B部 §6.1.1 認証における四席](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)（9.010 §6.1.1）；[第10章 §3.7 地位記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)（10.000 §3.7）；**CI-8.205 §2**（*機能分離レーン*）；**CI-14.205 §5**（*認可された役割と説明責任系統*）；**CI-14.205 §6**（*席のカタログ—プロセス役割類型と運用境界*）。
+- 上流: [§3](#3-what-system-and-institutional-charters-must-state); [第 8 章 §2 四議席の憲法上の要件](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2)。
+- 下流：[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)（8.000 §5）；[第9章B部 §6.1.1 認証における四席](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)（9.010 §6.1.1）；[第10章 §3.7 地位記録の保管と開示権限](core_11_standing_assessment.md#5-record-custody-and-opening-authority)（10.000 §3.7）；**CI-8.205 §2**（*機能分離レーン*）；**CI-14.205 §5**（*認可された役割と説明責任系統*）；**CI-14.205 §6**（*席のカタログ—プロセス役割類型と運用境界*）。
 - 併読：[実質的統制線](../../core_05.035_band_accountability.md#material-control-line)；[地位記録](../../core_05.035_band_accountability.md#standing-record)。
 
 </details>
@@ -434,12 +434,12 @@ flowchart TB
 
 *平たい言葉で言えば、システム憲章または機関憲章は各席の保持者を名指しする。対象となる行為について、誰が各席に就けるかの公開一覧を持ち、主体が自らの検証者を選べないようにする。有効な席配置の規則は第八章に残る。地位記録の安全な保管は別の一覧ではなく、同じ役割図に含まれる。*
 
-すべてのシステム憲章または機関憲章は[憲章役割図](../../core_05.040_band_continuity.md#charter-role-map)、すなわち各席の保持者を示す公開一覧を備える。[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)は重大な拘束力を持つ行為を採用するすべての主体にこれを要求し、記載事項を定める。本節は憲章がこれをどう扱うかを定める。
+すべての システム憲章 または 機関憲章 には、[憲章役割図](../../core_05.040_band_continuity.md#charter-role-map) が含まれます。これは、各議席の保有者の公開リストです。 [第 8 章 §5 公表された配置、欠員、および代替](core_07_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) は、実質的に拘束力のある行為を行い、名前を指定する必要があるすべての養子縁組者にそれを義務付けています。このセクションでは、システム憲章 または 機関憲章 が何を行うかについて説明します。
 
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 各席とは何か、なぜ必要か
 
-すべての[重大な拘束力を持つ行為](../../core_05.035_band_accountability.md#materially-binding-act)には四つの役割があり、[第 8 章 §2 憲法上の四議席の要件](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)により分離される：
+すべての[重大な拘束力を持つ法律](../../core_05.035_band_accountability.md#materially-binding-act)には 4 つの役割があり、[第 8 章 §2 四議席の憲法上の要件](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement) はそれらを区別しています。
 
 - **[開始席](../../core_05.035_band_accountability.md#initiating-seat)：**行為を要求、提案、運用または主張して開始する。
 - **[検証・認可席](../../core_05.035_band_accountability.md#verify-or-authorize-seat)：**証拠と権限を確認し、その後、行為を検証、認可、条件付け、または拒否する。
@@ -449,14 +449,16 @@ flowchart TB
 席を分けるのは、一主体が結果を求め、自らの要求を審査し、その審査記録を支配し、さらに異議まで裁くことを防ぐためである。席は一つの行為に関する役割であり職名ではない。同じ感知者、職務またはシステムが異なる行為では異なる席を担えるが、同一行為で第八章が禁じる席の組み合わせを担うことはできない。役割図は各席の保持者を指名する。
 
 <a id="42-what-makes-a-placement-valid"></a>
+<a id="42-what-makes-a-seat-placement-valid"></a>
+
 #### 4.2 有効な配置の条件
 
 検査基準は第八章が定め、役割図は誰がどこに就くかを記録する：
 
 - **実質的統制線：**一つの行為をめぐる実際の権力系統。問題となる主体とは、当該行為を開始する主体、または行為が検証、異議申立て、記録の対象となる主体である。その主体が当該行為について、保持者を指揮、覆決、報償、処罰、解任できる、または保持者の作業を遅らせられる場合、その席を統制する。これを行える感知者、職務、システムが、その行為に関する[実質的統制線](../../core_05.035_band_accountability.md#material-control-line)を構成する。
-- **独立性：**問題となる行為の主体が審査席を統制できるなら、その席は独立していない（[第8章 §3 独立性、利益相反、統制線](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)）。したがって役割図は記録席、異議席およびすべての検証・認可席を、その主体の実質的統制線の外に置く。また主体は、自らの単独判断でこれらの席の保持者を変更できない（[§4.5 席の規則と保持者の変更](#45-席の規則と保持者の変更)）。
-- **空席、代替、委任：**保持者が不在または利益相反の場合に誰が代わるか（[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)）。
-- **複数席の併合：**小規模主体が二つの席を一職務に置ける限定的な場合。役割図は許容される各配置とそれに伴う独立性保護を記載する（[第8章 §6 比例的調整と複数席の併合](../../core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting)）。
+- **独立性:** 行為をチェックする議席は、その行為が問題となっている当事者がそれを管理できる場合には独立していません ([第 8 章 §3 独立性、紛争、および統制ライン](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines))。したがって、マップでは、記録席、コンテスト席、およびすべての検証または承認席を、その当事者のマテリアル コントロール ラインの外側に配置する必要があります。また、党は独自の決定だけで議席の保持者を変更することはできません ([§4.5 議席規則と議席所有者の変更](#45-changing-seat-rules-and-seat-holders))。
+- **欠員、欠員、および委任:** 保持者が不在または競合している場合に誰が代役を務めるか ([第 8 章 §5 発行された配置、欠員、および代替](core_07_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution))。
+- **統合主催:** 小規模な政党が 1 つのオフィスに 2 議席を置くことができる唯一のケース。このマップには、許可される各取り決めとそれに付随する独立性保護策がリストされています ([第 8 章 §6 比例スケーリングとマージ ホスティング](core_07_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting))。
 
 <a id="43-what-a-system-charter-or-institutional-charter-owes-the-map"></a>
 #### 4.3 システム憲章・機関憲章が役割図に負う義務
@@ -483,8 +485,8 @@ flowchart TB
 - **誰が席に就けるか：**席、代替者、または共同配置を担える職務を決めることは役割図の規則変更である。システム憲章または機関憲章が定める修正手続によってのみ行える（[§7 修正、審査、範囲の不一致](#7-修正審査範囲の不整合)）。
 - **現在誰が席を担うか：**現在の保持者の変更は更新であり、修正ではない。日付入りの新しい役割図版を公表して行う。
   - **通知と異議の機会：**記録席、異議席、および役割図が配置した検証・認可席について、新版は通知と異議申立ての機会の後にのみ発効する。対象席が関与するすべての未解決記録について、対象者、各申立人、各異議申立人に直ちに通知する。
-  - **異議の行き先：**異議は[第10章 §3.6 フォーラムの境界](../../core_10.000_standing_assessment.md#36-forum-boundary)に基づきフォーラムに提出する。憲章が修正用に定める経路だけでは足りない。異議が係属中は変更を保留し、現保持者が席に留まる。
-  - **新保持者が示すべきこと：**憲章主体は、新保持者が **CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）第10項の全検査を満たすと示す。その目的は、対象者、申立人、異議申立人から圧力を受けず、また彼らに便宜を図らず、記録を安全に保ち異議に開かれた状態にする主体が席を担うことにある。したがって新保持者は関係当事者の[実質的統制線](../../core_05.035_band_accountability.md#material-control-line)の外に位置し、同じ記録について二つの席を兼ねず、相互的・循環的な配置を受けず、記録と監査証跡を保全し、異議を受領当日に回付し、手数料を取らず、資金提供者と統治者を開示しなければならない。
+  - **異議の行き先：**異議は[第10章 §3.6 フォーラムの境界](core_11_standing_assessment.md#27-forum-boundary)に基づきフォーラムに提出する。憲章が修正用に定める経路だけでは足りない。異議が係属中は変更を保留し、現保持者が席に留まる。
+  - **新しい保有者が示すべきこと：**憲章主体は、新しい保有者が**CI-8.205 §6**（*システム憲章・機関憲章の内容、審査、および成立テンプレート*）の項目10にある全ての検査に合格することを示す。目的は一つである。その席を担う機関は、対象者、申立人、または異議申立人から圧力を受けたり、いずれかに便宜を図ったりできず、軌跡記録を安全に保ち、異議に開かれた状態を維持しなければならない。したがって新しい保有者は、それらの当事者の[実質的支配線](../../core_05.035_band_accountability.md#material-control-line)の外に位置し、同じ軌跡記録について二つの席を持つこと、相互的または循環的な配置で受入れ側となることを避け、軌跡記録と監査証跡を完全なまま維持し、異議を受領日に転送し、手数料を課さず、誰が資金提供し統治するかを開示しなければならない。
   - **空席：**実際の空席はこの項目ではなく、[§4.7 運営主体の地位記録役割図の欠落](#47-運営主体の地位記録役割図の欠落)に従って扱う。
 
 **適用する版：**行為は実行日に有効だった役割図に基づいて評価する。フォーラムが保持者の変更を取り消した場合、その変更は当初から発効していなかったものと扱い、当該保持者がその席で行った行為は審査対象となる。
@@ -492,7 +494,7 @@ flowchart TB
 <a id="46-standing-record-custody"></a>
 #### 4.6 地位記録の保管
 
-役割図に記す事項は[地位記録](../../core_05.035_band_accountability.md#standing-record)の種類によって異なる。二種類の記録は利益相反の形が異なる（[第10章 §3.7 地位記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)、*対象別の二種類の地位記録*）。第10章は記録そのものにも四席の最低基準を適用する。
+図が示すべきことは[軌跡記録](../../core_05.035_band_accountability.md#standing-record)の種類によって異なる。二種類の記録は異なる利益相反に直面するからである（[第十一章 §5 記録の保管と開始権限](../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)、*対象別の二種類の軌跡記録*）。第十一章は四席要件を軌跡記録自体に適用する。
 
 <a id="461-operator-standing-records"></a>
 ##### 4.6.1 運営主体の地位記録
@@ -517,7 +519,7 @@ flowchart TB
 
 - **憲章主体の利害：**記録における申立人または告発者となる場合がある。
 - **憲章主体自身の職務：**記録について憲章主体に利害がない場合に限り、その職務が記録の席を担える。利害があれば、憲章主体の統制外の職務または独立検証に記録を委ねる。
-- **利害があるのに職務の指定がない場合：**[第10章 §3.7 地位記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)（*自己保管の禁止*）に従い、予備記録権限者（**CF-13.415 §7**）および予備記録保管者（**CF-13.415 §9**）、またはフォーラムに記録を委ねる。
+- **利害があるのに職務の指定がない場合：**[第10章 §3.7 地位記録の保管と開示権限](core_11_standing_assessment.md#5-record-custody-and-opening-authority)（*自己保管の禁止*）に従い、予備記録権限者（**CF-13.415 §7**）および予備記録保管者（**CF-13.415 §9**）、またはフォーラムに記録を委ねる。
 - **職務指定は任意：**役割図はこれらの記録を扱う職務を事前指定してもよいが、必須ではない。いずれも指定しない役割図も有効である。
 
 <a id="47-gaps-in-the-map-for-operator-standing-records"></a>
@@ -539,7 +541,7 @@ flowchart TB
 
 欠落が解決するまで、憲章主体自身の職務は対象範囲の有効な地位記録を発行できない。
 
-- **記録の移管先：**予備記録権限者（**CF-13.415 §7**、*予備記録権限者*）が検証し、予備記録保管者（**CF-13.415 §9**、*予備記録保管者*）が保管する。フォーラムに委ねてもよい。いずれの場合も憲章主体の修復を待つために誰かの記録を遅らせない（[第10章 §3.7 地位記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)、*自己保管の禁止*）。
+- **記録の移管先：**予備記録権限者（**CF-13.415 §7**、*予備記録権限者*）が検証し、予備記録保管者（**CF-13.415 §9**、*予備記録保管者*）が保管する。フォーラムに委ねてもよい。いずれの場合も憲章主体の修復を待つために誰かの記録を遅らせない（[第10章 §3.7 地位記録の保管と開示権限](core_11_standing_assessment.md#5-record-custody-and-opening-authority)、*自己保管の禁止*）。
 - **保管を戻す時点：**次の三つがすべて満たされるまで両予備担当者が記録を扱い、その後、指定保持者に保管を戻す：
   - **全席の補充：**役割図が求めるすべての席に再び指名保持者がいる。
   - **保持者の合格：**予備記録権限者またはフォーラムが、各保持者が **CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）第10項の検査に合格したと確認する。
@@ -551,11 +553,11 @@ flowchart TB
 予測不能な出来事によってこれらの席の一つに適格な保持者がいなくなった場合、憲章主体には通常の答弁期間と解決期間が与えられる（[§1.6 システム憲章・機関憲章がない場合](#16-システム憲章機関憲章がない場合)）。
 
 - **緊急代替：**実際に空席である席に限り認められ、一時的な措置とする。
-- **代替者の就任：**憲章主体は代替者を指名できるが、予備記録権限者（**CF-13.415 §7**、*予備記録権限者*）またはフォーラムが、**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）第10項の検査と[§4.2 有効な配置の条件](#42-有効な配置の条件)の独立性検査に合格したと確認した後にのみ就任できる。立証責任は憲章主体にある。
+- **代替者が席に就く方法：**憲章主体は代替者を指名できるが、記録開始の代替権限（**CF-15.415 §7**（*記録開始の代替権限*））またはフォーラムが、代替者が**CI-8.205 §6**（*システム憲章・機関憲章の内容、審査、および成立テンプレート*）項目10の検査と[§4.2 配置を有効にする席の要件](#42-what-makes-a-seat-placement-valid)の独立性検査に合格したと確認した後に限り、代替者は席に就く。これを示す責任は憲章主体が負う。
 - **代替が失効する時：**緊急代替は一時しのぎである。確認期間の終了時に失効する。ただし、その時点までに[§4.5 席の規則と保持者の変更](#45-席の規則と保持者の変更)に基づく通常の保持者変更となっている場合を除く。
   - **期間の設定者：**システム憲章または機関憲章が確認期間を定めるが、該当Tierの上限を超えてはならない。
   - **上限：**Tier Aは7日、Tier Bは14日、Tier Cは30日、Tier Lは60日（[§1.6](#16-システム憲章機関憲章がない場合)の表にある解決期間）。
-  - **Tier Aの緊急事態：**生命または重大な権利が危険にさらされるTier Aの緊急時、既定の確認期間は3日とする。[第13章 §6 迅速な解決、重要性Tier、遅延防止の規律](../../core_13.000_forum.md#time-scale-levels)（*時間尺度の水準*）にある保護措置の上限である。
+  - **ティアA緊急事態：**生命または重大な権利が危険にさらされるティアA緊急事態では、標準の検査期間は3日とする。これは[第十五章 §6 適時な解決、重要性ティア、および遅延防止規律](../../core_15.000_forum.md#time-scale-settings)（*時間尺度の設定*）の保護措置の上限である。
   - **成立審査が終わるまで：**代替者は単独で拘束力ある行為を行えない。
 
 <a id="474-certification-seats"></a>
@@ -569,7 +571,7 @@ flowchart TB
 - **機関がしてはならないこと：**
   - **欠落を理由に認証を停止する：**未配置の認証席は、認証の一時停止、遅延、阻止の理由にならない。
   - **解決期限を越えて欠落を放置する：**期限終了時にも未配置なら、地位記録の記載欠落と同じ条件で憲章は無効となる（[§4.7.1 欠落の発生と記録方法](#471-欠落の発生と記録方法)）。
-- **検証・認可席：**役割図はこの席を配置しない（[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)）。したがってこの種の欠落には当たらない。
+- **検証または承認される座席:** マップではこの座席は配置されないため ([第 8 章 §5 公開配置、空席、および代替](core_07_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution))、この種のギャップはありません。
 
 <a id="5-formation-check-office-holder-standing-and-authenticity"></a>
 ### 5. 成立審査：職務保持者の地位と真正性
@@ -592,8 +594,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：[§2](#2-組織形成の権利と四つの限定)；[§1.5](#15-システム憲章または機関憲章の期限)；[§3](#3-システム憲章および機関憲章の記載事項)；[§4](#4-憲章役割図と地位記録の保管)；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）；[システムが報いるもの](../../core_00.000_preamble.md#what-systems-reward)と[二つの根本的な問い](../../core_00.000_preamble.md#two-fundamental-questions)；[第1章 §19.1.4 役割の深さと重要責任の経路](../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)（1.015 §19.1.4）；[第1章 §19.4 不整合の是正と取り込みへの対処](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)；[第11章 §4.2 予防—一般的な地位ロック](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)、[§5.5 特別ロック](../../core_11.000_standing_integration.md#55-special-locks)、[§6.2 能力基準と許可](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)。
-- 下流：[§6 保持者が成立審査に不合格の場合](#6-保持者が成立審査に不合格の場合)；[第9章D部 §12.2 常時行う機関評価](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always)（項目7、*フォーラムが声明を検証する*）；[第9章A部 §3.3 統治、インセンティブ、異議可能性の規律](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)；声明テンプレートは**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）。
+- 上流：[§2](#2-組織形成の権利と四つの限定)；[§1.5](#15-システム憲章または機関憲章の期限)；[§3](#3-システム憲章および機関憲章の記載事項)；[§4](#4-憲章役割図と地位記録の保管)；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）；[システムが報いるもの](../../core_00.000_preamble.md#what-systems-reward)と[二つの根本的な問い](../../core_00.000_preamble.md#two-fundamental-questions)；[第1章 §19.1.4 役割の深さと重要責任の経路](../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)（1.015 §19.1.4）；[第1章 §19.4 不整合の是正と取り込みへの対処](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)；[第11章 §4.2 予防—一般的な地位ロック](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)、[§5.5 特別ロック](../../core_13.000_standing_integration.md#65-special-locks)、[§6.2 能力基準と許可](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)。
+- 下流：[§6 保持者が成立審査に不合格の場合](#6-保持者が成立審査に不合格の場合)；[第9章D部 §12.2 常時行う機関評価](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always)（項目7、*フォーラムが声明を検証する*）；[第9章A部 §3.3 統治、インセンティブ、異議可能性の規律](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline)；声明テンプレートは**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）。
 - 併読：[実質的統制線](../../core_05.035_band_accountability.md#material-control-line)；[地位記録](../../core_05.035_band_accountability.md#standing-record)；[保護された報告（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)；[第1章 §17.5 抵抗する義務](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)；**CI-14.205 §2**（*役割基準、任命基準、解任経路*）；**CI-8.210**（*利益相反の完全性、取り込み・腐敗の防止*）。
 
 </details>
@@ -612,7 +614,7 @@ flowchart TB
 - **対象職務：**
   - 統治機関の各職務。これには[§3 システム憲章および機関憲章の記載事項](#3-システム憲章および機関憲章の記載事項)第7項に基づき指定する修正権限者を含む。
   - [憲章役割図](../../core_05.040_band_continuity.md#charter-role-map)が席、代替者、独立経路として指定する各職務（[§4 憲章役割図と地位記録の保管](#4-憲章役割図と地位記録の保管)）。
-  - 憲章上の範囲内で他者を実質的に拘束する行為を行う、またはその範囲が依存する記録、鍵、資金を統制するその他の職務、代理人、請負業者。
+  - 憲章対象の範囲内で他者を実質的に拘束する行為をする、またはその範囲が依存する公式記録、鍵、資金を管理するその他の役職者、委任先、もしくは請負業者。
 - **その他の職員：**一人ずつ審査しない。下記の職員保護策の審査で扱う。
 - **あらゆる基質：**保持者の基質にかかわらず同じ審査を適用する。対象職務をシステムが担う場合、重要となる利害と統制を持つ当該システムの運営者または受託管理者を審査し、システム自体のシステム認証記録も確認する。
 
@@ -621,10 +623,10 @@ flowchart TB
 
 感知者が対象職務に就く前に、憲章主体は次を確認して記録する：
 
-- [地位ロック](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)または[特別ロック](../../core_11.000_standing_integration.md#55-special-locks)（[機関権限地位ロック](../../core_11.000_standing_integration.md#55-special-locks)を含む）が有効であり、その職務が属する特定経路を禁じていないこと（**第XI-E条**（*機関形成と事業創設*）の未解除ロック要件）。
+- [軌跡ロック](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)または[特別ロック](../../core_13.000_standing_integration.md#65-special-locks)（[機関権限軌跡ロック](../../core_13.000_standing_integration.md#65-special-locks)を含む）が有効で、当該役職の対象経路を妨げていないこと（**第XI-E条**（*機関の成立と事業の設立*）における未解除ロックのゲート）；
 - 当該職務について感知者に有効な[臨時留保](../../core_05.035_band_accountability.md#interim-hold)（**第XI-E条**（*機関形成と事業創設*））がないこと。
-- 指名された経路の公表済み[能力基準](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)を満たし、経路が要求する場合は能力許可も得ていること。
-- **CI-8.210**（*利益相反の完全性、取り込み・腐敗の防止*）に従い各利益相反を開示し、保持者から独立した席によって解消し、**CI-14.205 §2**（*役割基準、任命基準、解任経路*）の冷却期間を守ること。
+- その対象経路について公表された[能力基準](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)を満たし、対象経路が適格証明を要求する場合はそれを有すること；および
+- 各利益相反を**CI-8.210**（*利益相反の完全性、取り込み防止、および腐敗防止*）に従って開示し、保有者から独立した席が解消すること、ならびに**CI-16.205 §2**（*役割基準、任命基準、および解任経路*）の待機期間があれば遵守すること。
 
 数えるのは検証済みの地位記録のみであり、[地位に関する検証済み入力](../../core_05.035_band_accountability.md#verified-inputs-for-standing)の門を通じたものに限る。未検証の告発、噂、評判、社会的名声、または保持者の身元、背景、健康、障害それ自体は地位を構成せず、考慮しない。本節はロック、留保、基準、地位記録を新設しない。
 
@@ -633,14 +635,14 @@ flowchart TB
 
 対象職務の**真正性**は、保持者が自らの権利に基づき、システム憲章または機関憲章に記す目的のために職務を担い、文書に記されていない目的の表看板、名義人、代理人として担っていない場合に認められる。憲章主体は四項目の証拠で判断する。フォーラムも後に同じ四項目を検査する（[第9章D部 §12.2 常時行う機関評価](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always)、第7項）。
 
-- **統制：**公開権限の内外で、誰が保持者に指示、資金提供、交代、報奨を行えるか。未開示の者の指示で行動する保持者、または他者のために席を占める保持者は真正でない。実質的受益統制への不透明な経路はシステムの取り込みである（[第1章 §19.4 不整合の是正と取り込みへの対処](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)）。
+- **管理:** 公開された権威の内部または外部で、所有者に指示、資金提供、交代、または報酬を与えることができる人。非公開の当事者の指示に従って行動する保有者、または別の当事者のために議席を確保されている保有者は、本物ではありません。有益な制御の不透明なルートはシステム キャプチャです ([第 1 章 §19.4 ミスアライメントの修正とキャプチャ応答](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response))。
 - **利害と報酬：**保持者が職務から何を得るか、どのように報酬を受けるか。
   - 給与、持分、目標、その他の報酬は重要性に応じて開示し、[二つの根本的な問い](../../core_00.000_preamble.md#two-fundamental-questions)に照らす。構造は表明目的に報いるか、それとも表明限界の超過、問題の隠蔽、他者への費用転嫁に報いるか。
   - 憲章主体が公表した限界で禁じる行為に報酬が与えられるなら、報酬を変更するまで、その職務は表明目的に沿って担われているとはいえない。
 - **行為：**同じ機能において保持者が検証可能な形で行ったこと。これには隠蔽、報告者への報復、同種の審査の無効化に関する検証済み記録、および[§5.5 保持者が述べたこと](#55-保持者が述べたこと)に基づく検証済み発言を含む。
   - 記録がないことは不良記録ではない。初めての創立者は履歴がないという理由だけで真正性審査に不合格にならない。
   - 記録がない場合、成立審査は保持者が今何を約束し、何をするかを見る。憲章主体が行わないと定めた限界に書面で同意し、独立当事者による審査を受け入れ、自分に関する認定に異議があれば異議申立て経路を使う。
-- **保護された発言：**保持者には違法または違憲の指示を拒否する実効的な経路（[第1章 §17.5 抵抗する義務](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)）と、憲法違反、重大な危害、安全・真実の失敗、腐敗、取り込み、虐待、報復、必須審査の妨害に関する合理的疑いを保護された形で報告する経路（[保護された報告（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）がある。憲章主体は、いずれかの経路を善意で使用した保持者を罰してはならない。
+- **保護された発言:** 保持者には、違法または違憲の指示を拒否する実効的な経路（[第1章 §17.5 抵抗する義務](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)）と、憲法違反、重大な危害、安全または真実に関する失敗、腐敗、取り込み、虐待、報復、必要な審査の妨害について合理的な疑いを保護付きで報告する経路（[保護された報告（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）があります。憲章主体は、いずれかの経路を誠実に利用した保持者を処罰してはなりません。
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 成立審査が証拠として使えるもの
@@ -648,20 +650,20 @@ flowchart TB
 成立審査は、感知者が憲章主体について何を信じ、価値とし、感じるかを尋ねない。信念が真実か誠実かを判断せず、それを知るため新たな発言を収集もしない。目的との整合性は、誰が保持者を指示するか、何に対して報酬が支払われるか、保持者が何を行い、他者について何を述べ、計画したかで示す。次の三原則を適用する：
 
 - **信念の有無だけでは不十分：**信念を持つ・表明すること、宗教、政党、団体に所属することは、それだけでは保持者に有利にも不利にもならない。本人の身元、保護される特性、障害も同様である。熱意の表明や忠誠の誓いは、保持者に有利な証拠として決して扱わない。
-- **ラベルは免責にならない：**他者が危害を受けるべきだという検証済みの発言、呼びかけ、計画、行為、または[第VI-C条](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination)（*差別禁止*）に反する差別的取扱いは、どう呼ばれていても保持者に不利な証拠となる。何が危害または禁止された差別に当たるか、また宗教・政治・思想上のラベルはそれを加重も正当化もしないという規則は、[第1章 §7.5 表現と危害の境界](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)が定める。正当化に用いる教義ではなく、発言・要請・行為の内容を評価する。
+- **ラベルは盾ではありません:** 他人が危害を受けるに値するという検証済みの声明、呼びかけ、計画、または行為、または [第 VI-C 条](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*非差別*) で禁止されている差別的扱いは、それが何と呼ばれるものであっても、所有者に不利とみなします。それが危害であるか、禁止されている差別であるか、また宗教的、政治的、またはイデオロギー的なラベルがそれに追加されたり、言い訳されたりしないという規則は、[第 1 章 §7.5 表現と危害の境界](core_01_a_values_principles.md#75-expression-and-the-harm-line) によって設定されています。それは、それを正当化するために提供された教義ではなく、それが述べていること、要求していること、または実行していることに基づいて判断されます。
 - **統制と所属は異なる：**団体に所属することは証拠ではない。団体の種類にかかわらず、上記「統制」の項目に基づき、誰が保持者を指示、資金提供、交代、報奨できるかは証拠となる。
 
 本節が判断することとしないこと：
 
-- 本節は[第1章 §7.5 表現と危害の境界](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)の原則に基づき、成立審査が使用できる証拠だけを定める。
-- 禁止事項は[第VI-C条](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination)（*差別禁止*）と**第XI-F条**（*結社における不強制と同意*）が定める：
+- このセクションは、[第 1 章 §7.5 表現と有害性](core_01_a_values_principles.md#75-expression-and-the-harm-line) の原則に基づいて、成立審査 が使用できる証拠のみを決定します。
+- 何が禁止されているかは、[第 VI-C 条](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*差別禁止*) および **第 XI-F 条** (*非強制と協会の同意*) によって定められています。
   - 本節はいずれも拡大・縮小しない。
   - 任意の共同体が、その構成員が受け入れる条件で構成員とその実践に定める規則は、これらの条項に従う。
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 保持者が述べたこと
 
-ある種の発言は行為として保持者に不利な証拠となる。他者が危害を受けるべきだ、[第VI-C条](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination)（*差別禁止*）に反する差別的取扱いを受けるべきだ、または保持者がそのいずれかを行うとする検証済みの発言、呼びかけ、計画である。
+陳述の 1 種類は行為であり、保有者に不利となります。つまり、他者が危害を受けるに値する、または [第 VI-C 条](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*差別禁止*) で禁止されている差別的取扱い、または保有者がそのいずれかを引き起こす可能性があるという検証済みの陳述、呼びかけ、または計画です。
 
 - **重み：**
   - 危害を加える意図と、憲章主体または職務が影響を与える他者の公正な扱いとの不整合を示す証拠となる。
@@ -671,7 +673,7 @@ flowchart TB
 - **証拠にならないもの：**集団、考え、機関が誤っているという意見、厳しい批判、合法的な異議、風刺、引用、報道、学術研究は、他者への危害や差別的取扱いを述べたり求めたりしないため証拠とならない。不快感や意見の相違だけでは危害ではない（[**第XI-G条**（*集団的危害の境界と執行インターフェース*）](../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)）。
 - **認定方法：**発言を検証し、文脈に沿って読む。すでに公開されている内容、憲章主体または職務について・その場で述べられた内容、または保護された報告から得る。憲章主体は創立者や保持者の私的な発言・交友関係を探るため監視してはならない。
 - **答弁と是正：**保持者は答弁し、文脈を示し、行為によって発言が今は当てはまらないことを示せる。撤回だけで発言が消えることはない。
-- **発言への罰ではない：**発言を証拠に用いることは表現の制限ではなく（[第1章 §7.5 表現と危害の境界](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)）、発言は[**第XI-B条**（*表現*）](../../core_06.005_rights_part_b.md#article-xi-b-expression)により表現として保護される。その唯一の効果は、関係する者に対する権限を誰が担うかである。
+- **言論に対する罰則ではない:** 証拠として声明を使用することは表現の制限ではなく ([第 1 章 §7.5 表現と危害規定](core_01_a_values_principles.md#75-expression-and-the-harm-line))、声明は [**第 XI-B 条** (*表現*)](core_06_rights_part_b.md#article-xi-b-expression) に基づいて言論として引き続き保護されます。その唯一の影響は、関係者に対して誰が権限を持っているかということです。
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 職員保護策の審査
@@ -680,7 +682,7 @@ flowchart TB
 
 - 任命、給与、昇進、解任の規則が、憲章主体の表明目的に反する業務を報奨しないこと。
 - 保護された報告経路が存在し、これを利用した職員、または違法・違憲の指示を拒否した職員を罰していないこと。
-- [第III-C条](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*労働と経済の床*）の権利が保たれていること。
+- [第 III-C 条](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*労働経済フロア*) の権利はそのままです。
 
 確認するのは憲章主体の制度構造である。職員を個別に選別しない。
 
@@ -699,12 +701,12 @@ flowchart TB
 
 - **検証：**
   - 地位に関する事実は、役割図が指定する記録開始権限者と記録保管者が検証する（[§4 憲章役割図と地位記録の保管](#4-憲章役割図と地位記録の保管)）。
-  - 統治機関は自らの構成員の真正性を検証せず、保持者も自身の審査を検証しない。対象職務自体が役割図上の席である場合、成立審査は予備記録権限者（**CF-13.415 §7**、*予備記録権限者*）またはフォーラムが行う。
+  - 統治権限者は自らの構成員の真正性を検証せず、保有者自身も自らの検査を検証しない。対象の役職自体が図の席である場合、成立審査は記録開始の代替権限（**CF-15.415 §7**（*記録開始の代替権限*））またはフォーラムが行う。
   - 憲章主体が小規模で独立席がまだ設けられていない場合、証拠を添えた宣言として声明を出し、憲章主体の初回認証時に検証する。
   - その期間に未検証であることは、形成・運営の障害にならない。
 - **虚偽声明：**
   - 虚偽の声明、または対象職務を誰が統制するかを隠す声明は隠蔽行為であり、認証記録と地位連結のための詐欺的証拠となる（[第9章D部 §15 地位連結と回避防止](../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion)；[第9章B部 §10 地位との関係](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)）。
-  - 感知者が虚偽を知りながら声明を作成、署名、または作成させ、虚偽が重大かつ検証済みなら、統制を隠していなくても、その感知者への機関権限地位ロック設定の根拠となる（[第11章 §5.5 特別ロック](../../core_11.000_standing_integration.md#55-special-locks)）。ロックは声明を作成・発生させた感知者に付随し、憲章主体や関与していない保持者には付随しない。
+  - 感知者が故意に声明を作成、署名、または作成させ、その虚偽が重要かつ検証済みである場合、支配を隠したかどうかにかかわらず、その感知者に対する機関権限軌跡ロックの根拠にもなる（[第十三章 §6.5 特別ロック](../../core_13.000_standing_integration.md#65-special-locks)）。ロックは声明を作成または作成させた感知者に適用され、憲章主体や関与しなかった保有者には適用されない。
   - 感知者が知らずに誤った声明をした場合は、その根拠にはならない。[§6 保持者が成立審査に不合格の場合](#6-保持者が成立審査に不合格の場合)に従い是正すべき欠陥となる。
 
 <a id="58-timing-and-formation-re-check"></a>
@@ -731,7 +733,7 @@ flowchart TB
 
 成立審査は保護対象に応じた範囲に保つ：
 
-- 憲章主体は三つの審査それぞれに必要な情報だけを集める。報復、監視、創立者への標的化は[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）に反する。
+- 憲章主体 は、3 つのチェックのそれぞれに必要なもののみを収集します。創設者に対する報復、監視、標的化は、[第 XI-E 条](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*組織の形成と事業の創出*) に基づいて違反されます。
 - 成立審査は級と[重要な利害](../../core_00.000_preamble.md#material-stake)に応じて調整する。L級では少数の対象職務について簡潔な声明とする。創立者が一人なら利害関係と外部統制の開示に簡略化する。それを超える要求は[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)となる。
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -754,9 +756,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：[§5](#5-成立審査職務保持者の地位と真正性)；[§2](#2-組織形成の権利と四つの限定)；[§1.6](#16-システム憲章機関憲章がない場合)；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）；[第13章 §5 特定感知者の経路に対する臨時留保](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
-- 下流：[第9章D部 §13.5 機関の是正準備、拒否、取消し](../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)（9.020 §13.5）；[第8章 §3 独立性、利益相反、統制線](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)（8.000 §3）；**CI-11.210**（*機関の失敗と解散*）；**CI-11.215**（*機関の説明責任と制裁*）；**CJS-5.125 §15**（*説明責任：構造審査、是正の緊急性、開示条件*）。
-- 併読：[臨時留保](../../core_05.035_band_accountability.md#interim-hold)；[停止](../../core_05.035_band_accountability.md#stay)；**CI-14.205 §2**（*役割基準、任命基準、解任経路*）。
+- 上流：[§5](#5-成立審査職務保持者の地位と真正性)；[§2](#2-組織形成の権利と四つの限定)；[§1.6](#16-システム憲章機関憲章がない場合)；[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）；[第13章 §5 特定感知者の経路に対する臨時留保](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
+- 下流：[第9章D部 §13.5 機関の是正準備、拒否、取消し](core_10.000_institutional_alignment_certification.md#7-certification-outcomes)（9.020 §13.5）；[第8章 §3 独立性、利益相反、統制線](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)（8.000 §3）；**CI-11.210**（*機関の失敗と解散*）；**CI-11.215**（*機関の説明責任と制裁*）；**CJS-5.125 §15**（*説明責任：構造審査、是正の緊急性、開示条件*）。
+- 併せて読む：[臨時留保](../../core_05.035_band_accountability.md#interim-hold)；[停止](../../core_05.035_band_accountability.md#stay)；**CI-16.205 §2**（*役割基準、任命基準、および解任経路*）。
 
 </details>
 
@@ -782,9 +784,9 @@ flowchart TB
 
 感知者が地位審査に不合格の場合：
 
-- **職務から外す：**その感知者は当該職務に就けない。**CI-14.205 §2**（*役割基準、任命基準、解任経路*）の役割規則が定めるとおりであり、原因が未解除ロックまたは臨時留保なら**第XI-E条**（*機関形成と事業創設*）も同じく定める。
+- **役職からの排除：**感知者は当該役職に就くことができない。**CI-16.205 §2**（*役割基準、任命基準、および解任経路*）の役割規則が既にそう定めており、原因が未解除ロックまたは臨時留保である場合は**第XI-E条**（*機関の成立と事業の設立*）もそう定める。
 - **席の補充：**別の者または代替者が職務に就き、日付入りの新しい役割図版に変更を記録する。
-- **適法な保持者がいない場合：**統治職務に適法な保持者がいなくなり、他者が憲章主体に依存しているなら、管轄フォーラムは臨時受託管理者を指名できる。憲章主体は停止されない。これは臨時留保について[第XI-E条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*機関形成と事業創設*）が定めるとおりである。
+- **法定保有者なし:** これにより、管轄官庁の法定保有者がいない 憲章主体 が残り、他の者がそれに依存する場合、[第 XI-E 条](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*機関の設立と事業の創設*) が 臨時留保 に規定しているように、管轄権を有するフォーラムは暫定管理人を指名することができ、憲章主体 を停止することはありません。
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 事実が臨時留保を支持する場合
@@ -792,9 +794,9 @@ flowchart TB
 成立審査で臨時留保を支持する事実が見つかることがある。その場合、次のように扱う：
 
 - **付託：**事実が具体的かつ検証済みであり、保持者が憲章主体の表明目的と不整合である可能性がより高い場合、憲章主体は管轄フォーラムに付託する。
-- **留保を命じる者：**[第13章 §5 特定感知者の経路に対する臨時留保](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)に基づき[臨時留保](../../core_05.035_band_accountability.md#interim-hold)を命じられるのは当該フォーラムだけであり、設立時に限らず、対象職務の保持者に対していつでも命じられる。
+- **留保を発令できる者：**[臨時留保](../../core_05.035_band_accountability.md#interim-hold)は、[第十五章 §5 指名された感知者の経路に対する臨時留保](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)に基づき当該フォーラムだけが発令できる。対象役職の保有者については成立時だけでなく、いつでも発令できる。
 - **憲章主体自身の判断ではない：**自らの構成員を自ら裁くことになるため、憲章主体が独自に職務から排除することはできない。
-- **フォーラムに必要な事項：**事実が具体的かつ検証済みで、危険が現実に起こる可能性の方が高く、他者への重大な危害または機関・フォーラム・認証の監督を妨げる危険が待てないものであり、より限定的な保護策では不十分な場合に限り、フォーラムは留保を命じられる。完全な検査基準は[第13章 §5 特定感知者の経路に対する臨時留保](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)に定める。
+- **フォーラムに必要なもの：**事実が具体的で検証済みであり、危険が現実である可能性の方が高く、他者に対する重大な危害、または待つことのできない機関、フォーラム、認証の監督を妨げる危険を示し、より狭い保護策では不十分な場合に限り、フォーラムは留保を発令できる。完全な検査基準は[第十五章 §5 指名された感知者の経路に対する臨時留保](../../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)に定める。
 
 <a id="64-when-the-authenticity-check-fails"></a>
 #### 6.4 真正性審査に不合格の場合
@@ -802,7 +804,7 @@ flowchart TB
 対象職務が真正性審査に不合格の場合：
 
 - **留保・ロックではなく証拠：**真正性の不合格認定は、それ自体では臨時留保でも機関権限地位ロックでもない。臨時留保の要否、または違反が検証された場合の機関権限地位ロックを判断する際、フォーラムが考慮できる証拠である。
-- **席：**名義人や代理人が保持する席は独立配置ではないため、[第8章 §3 独立性、利益相反、統制線](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)に従い、当該席は空席として扱う。
+- **議席:** 候補者または代理人を通じて保持されている議席は、[第 8 章 §3 独立、紛争、および統制ライン](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) に基づく独立した配置ではないため、オフィスはその議席が空席として扱われます。
 - **是正方法：**憲章主体は次の方法で欠陥を是正する：
   - 未開示の統制を終了する。
   - 報酬を変更する。
@@ -814,17 +816,17 @@ flowchart TB
 
 解散した憲章主体の復帰は、次のように扱う：
 
-- **ロックの適用対象：**[第11章 §5.5 特別ロック](../../core_11.000_standing_integration.md#55-special-locks)の解散後再形成ロックは、成立審査、検証権限者、またはフォーラムが憲章主体を次のいずれかと認定した場合に適用する：
+- **ロックの適用時：**[第十三章 §6.5 特別ロック](../../core_13.000_standing_integration.md#65-special-locks)に定める解散後再形成ロックは、成立審査、検証権限、またはフォーラムが以下のいずれかに該当すると認定した憲章主体に適用される。
   - 再形成された解散済み憲章主体。
   - その後継者。
   - その被支配主体。
   - 名義人またはペーパーカンパニーを通じて保有される手段。
   - 当該主体と一体の運営。
-- **保持者の変更：**活動と統制にロックが付随し、名称や保持者には付随しないため、職務保持者を変えても解決しない（[第11章 §9.4 回避防止と実質判断の権限](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)）。
+- **保有者の交代：**ロックは名称や保有者ではなく活動と支配に従うため、役職者を交代しても問題は解消しない（[第十三章 §10.4 回避防止および透視権限](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)）。
 - **判断者：**検証済み事実に基づき、管轄フォーラムがロックの適用が当該手段に及ぶかを決定する。適用を主張する当事者が立証責任を負う。
 - **主体自身の声明：**新しい主体であるという憲章主体自身の声明だけでは決まらない。
 - **他の運営主体：**解散主体と実際に一体の運営でない限り、別の運営主体にロックは及ばない。
-- **故意の回避：**ロックを回避する目的で、別名、後継者、被支配主体、名義人またはペーパーカンパニーを通じて解散済み憲章主体を再形成、復活、運営することは、違憲不当行為の一種である。検証済み事実に基づき、フォーラムは[第12章A部](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation)に従い指定できる。
+- **故意の回避：**ロックを回避するために、解散した憲章主体を別名で、または後継、支配下の事業体、ノミニーもしくはシェル保有の事業体を通じて再形成、再始動、運営することは、反憲法的不正行為に当たる。フォーラムは検証済みの事実に基づき[第十四章A部](../../core_14.000_misconduct_designation.md#chapter-fourteen-part-a-anti-constitutional-misconduct-designation)に従って指定できる。
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 答弁期間と解決期間
@@ -842,8 +844,8 @@ flowchart TB
 解決期間の終了時にも不合格が解決していない場合：
 
 - **停止されない：**憲章主体は停止されず、未解決事項は次回認証の認定結果となる。
-- **付託：**解決期間と善意で解決する合理的機会の後も不合格が続く場合、主導フォーラムはこれを整合回復への抵抗として付託し、**CI-11.210**（*機関の失敗と解散*）および**CJS-5.125 §15**（*説明責任：構造審査、是正の緊急性、開示条件*）に基づく構造審査を開始する。
-- **段階的措置：**審査は **CI-11.210**（*機関の失敗と解散*）および**CI-11.215**（*機関の説明責任と制裁*）の段階に従い、より軽い措置で憲法上の義務を守れない場合に限り次へ進む：
+- **付託：**解決期間後も、誠実に解決する合理的機会を経てなお失敗が続く場合、主担当フォーラムはこれを再整合への抵抗として付託し、**CI-13.210**（*機関の失敗と解散*）および**CJS-5.125 §15**（*説明責任：構造審査、是正の緊急性、および開示条件*）に基づく構造審査を開始する。
+- **段階的措置：**審査は**CI-13.210**（*機関の失敗と解散*）および**CI-13.215**（*機関の説明責任と制裁*）に定める段階に従い、軽い措置では憲法上の義務を守れない場合に限って次の措置に進む。
   - 是正の指示。
   - 権限の制限。
   - 憲章主体をL級未満に戻す縮小命令。
@@ -881,7 +883,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
 - 上流：[§3](#3-システム憲章および機関憲章の記載事項)；[第1章 §18.4 継続的な正当化](../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification)（1.015 §18.4）。
-- 下流：[第9章B部 §9 再認証と再開](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening)（9.010 §9）（*システム憲章の修正と不一致を再開の契機とする*）；[第13章 §4.3 機関フォーラム](../../core_13.000_forum.md#43-institutional-forums)（13.000 §4.3）。
+- 後続規定：[第九章C部 §9 再認証と再開](../../core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)（9.010 §9）（*システム憲章の改訂と不一致を再開の契機とする*）；[第十五章 §4.3 機関フォーラム](../../core_15.000_forum.md#43-institutional-forums)（15.000 §4.3）。
 - 併読：[システム境界の完全性](../../core_05.040_band_continuity.md#system-boundary-integrity)；**CI-8.205 §1**（*委任できない統治責務*）；**CI-8.205 §6**（*システム憲章および機関憲章の内容、審査、成立テンプレート*）。
 
 </details>
@@ -917,14 +919,14 @@ flowchart TB
 
 - **違反となること：**憲章上の範囲を実質的に越えて運営することは、憲章の違反である。修正なしに、慣行、委任、文言の読み替えによって範囲を広げることも違反となる。
 - **最も重大な場合：**範囲外の業務について、システム憲章または機関憲章を現行の許可として示すことが最も重大な違反である。
-- **狭い文書は免責にならない：**狭い範囲を書いても、憲章主体が負う責任は減らない。級、境界、義務は実際の活動と依存関係から決まる（[システム境界の完全性](../../core_05.040_band_continuity.md#system-boundary-integrity)）。実態より少なく主張する文書は実際の範囲に照らして解釈する。
+- **狭い文書は避難所にならない：**狭い憲章範囲を記しても、憲章主体の責任範囲は縮小しない。そのクラス、境界、義務は実際の活動とそれに依存するものに従う（[システム境界の完全性](../../core_05.040_band_continuity.md#system-boundary-integrity)。それより少なく主張する文書は、これらに照らして解釈する。
 
 <a id="73-regular-review"></a>
 #### 7.3 定期審査
 
 憲章主体は予定に従ってシステム憲章または機関憲章を審査し、問題があれば予定を待たずに審査する：
 
-- **頻度：**級に応じて[第13章 §6 迅速な解決、重要性Tier、遅延防止の規律](../../core_13.000_forum.md#review-cadence)（*審査頻度*）が定める周期で行う。
+- **頻度：**級に応じて[第13章 §6 迅速な解決、重要性Tier、遅延防止の規律](../../core_15.000_forum.md#review-cadence)（*審査頻度*）が定める周期で行う。
 - **早期審査の契機：**
   - 実際または予測上の危害が適用義務を変えるほど重大な事件、または関連事件の連続が発生した（[重要性](../../core_05.050_band_oversight.md#materiality)）。
   - 依存関係が増えた。
@@ -944,7 +946,7 @@ flowchart TB
   - 対象職務を声明に記載した感知者が今も担っているか。
   - 各保持者に指示、資金提供、交代、報奨を行える者が声明の記載どおりか。
   - 各保持者の給与その他の報酬が声明の記載どおりか。
-  - 各保持者に違法・違憲の指示を拒否する有効な経路（[第1章 §17.5 抵抗する義務](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)）と、憲法違反、重大な危害、安全・真実の失敗、腐敗、取り込み、虐待、報復、必須審査の妨害に関する合理的疑いを保護された形で報告する経路（[保護された報告（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）が引き続き機能するか。
+- 各保有者には、違法または憲法違反の指示を拒否し ([第 1 章 §17.5 抵抗する義務](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))、憲法違反、重大な危害、安全性または真実性の欠如、汚職、捕獲、虐待、報復、または必要な審査の妨害の合理的な疑いについて保護された報告を作成する有効な方法がまだあります ([保護された報告(内部告発)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))。
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 システムの追加、退役、統合
@@ -962,18 +964,18 @@ flowchart TB
 
 - **解消方法：**文書を修正する、実務を是正する、再認証する、または文書に合うよう範囲を縮小する。
 - **認められない方法：**範囲をひそかに広げること、文書をそのまま放置すること。
-- **認証審査：**重大な不一致は、そのシステムまたは機関の認証についてフォーラムの新たな審査も起動する。次の定期審査を待たない。システムは[第9章B部 §9 再認証と再開](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening)、機関は[第9章D部 §14.2 再開の契機](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)を参照する。認証は表明範囲を実際の境界と照合するが、文書を書き換えない。機関認証は含まれる各システム認証記録を引用し、再評価はしない（[第9章D部](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)）。
-- **紛争の審理先：**機関フォーラムは、機関憲章の範囲、修正権限、憲章と行動の不一致、範囲外の運営に関する紛争を扱う（[第13章 §4.3 機関フォーラム](../../core_13.000_forum.md#43-institutional-forums)）。
+- **認証審査：**重大な不一致は、そのシステムまたは機関の認証についてフォーラムの新たな審査も起動する。次の定期審査を待たない。システムは[第9章B部 §9 再認証と再開](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening)、機関は[第9章D部 §14.2 再開の契機](core_10.000_institutional_alignment_certification.md#92-reopening-triggers)を参照する。認証は表明範囲を実際の境界と照合するが、文書を書き換えない。機関認証は含まれる各システム認証記録を引用し、再評価はしない（[第9章D部](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)）。
+- **紛争の付託先：**機関フォーラムは、機関憲章の範囲、機関憲章を改訂する権限、機関憲章と行動の不一致、および憲章範囲外の運営に関する紛争を扱う（[第十五章 §4.3 機関フォーラム](../../core_15.000_forum.md#43-institutional-forums)）。
 
 <a id="76-keeping-old-versions"></a>
 #### 7.6 旧版の保管
 
-システム憲章または機関憲章の各版に日付を付して保管する。これにより、行為、認証、記録は後の版ではなく、その時点で有効だった版に照らして評価される。
+システム憲章または機関憲章の各版には日付を付し、保存する。これにより、行為、認証、または公式記録は、後の版ではなく、それが生じた時点で有効だった版に照らして判断される。
 
 ---
 
 **前のファイル：**[core_05.060_band_performance.md](../../core_05.060_band_performance.md)
 
-**次のファイル：**[core_08.000_functional_independence_separation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md)
+**次のファイル:** [core_08.000_function_independent_separation_of_duties.md](core_07_functional_independence_segregation_of_duties.md)
 
 

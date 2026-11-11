@@ -10,6 +10,7 @@
 >
 > **Tiếp theo (ngôn ngữ này):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Cung đọc:** §1 phân bổ gánh → §2 bản đồ dấu vết → §3 khả năng quan sát → §4 giới hạn an ninh → §5 chuẩn bằng chứng → §6 ranh giới tầng chứng nhận (không vận hành)
+> **Tác động tiếp theo:** [Chương Chín — Chứng nhận Phù hợp Hệ thống](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chương Mười Một — Hồ sơ Trạng thái](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 
 </details>
 
@@ -18,9 +19,9 @@
 
 > Nơi cái này sống (điều hướng):
 > - **Bản đồ Tứ diện:** Phân bổ gánh, bằng chứng, truy vết, khả năng quan sát, và xác minh triển khai các trụ **giám sát** và **trách nhiệm giải trình** của [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) lập ở [Lời nói đầu](core_00_preamble.md#lời-nói-đầu--các-yêu-cầu-nền-tảng); **tham gia** nơi đòi có trọng qua khả năng quan sát thực tiễn và tranh biện độc lập dưới mục **3** và **4**. Yêu cầu chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake).
-> - **Chủ sở hữu hiến pháp:** phân bổ gánh, bằng chứng tuân thủ, truy vết định nghĩa, khả năng quan sát, và xác minh dưới giới hạn an ninh. **Chương Mười** nắm kỷ luật hồ sơ quỹ đạo và đầu vào đã xác minh đọc cùng chương này.
+> - **Chủ thể chịu trách nhiệm theo hiến pháp:** phân bổ nghĩa vụ chứng minh, chứng cứ tuân thủ, khả năng truy nguyên định nghĩa, khả năng quan sát và xác minh có giới hạn an ninh. Chương Mười Một chịu trách nhiệm về kỷ luật hồ sơ trạng thái và đầu vào đã xác minh khi đọc cùng chương này.
 > - **Chủ sở hữu triển khai:** cơ chế triển khai, xử lý dữ liệu, và bảo đảm trong các tệp triển khai được chỉ định phải giữ nhất quán với các quy tắc này và có thể nghiêm hơn nơi kho văn bản đã cung cấp logic quy tắc nghiêm hơn.
-> - **Quy tắc chống dời chỗ:** chương này chỉ quản trị gánh, dấu vết, khả năng quan sát, giới hạn an ninh, và bằng chứng. Nó không nêu lại định nghĩa Chương Năm, đo lường đóng góp hoặc quỹ đạo của **Chương Mười**, hay tiêu chí hành vi sai phản hiến pháp của Chương Mười Hai. Định tuyến không tuân thủ đã xác minh tới quỹ đạo được quản trị bởi [Chương Ba §3 — Hồ sơ phát hiện không tuân thủ](core_03_definition_integrity.md#3-hồ-sơ-phát-hiện-không-tuân-thủ) và [Chương Mười — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). **Mục 6** nêu cách Chương Hai đến Bốn khác [Chương Chín — Chứng nhận thẳng hàng hệ thống](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Quy tắc chống chuyển trách nhiệm:** chương này chỉ điều chỉnh nghĩa vụ chứng minh, truy nguyên, khả năng quan sát, giới hạn an ninh và chứng cứ. Chương này không nhắc lại định nghĩa ở Chương Năm, phép đo đóng góp hoặc trạng thái ở **Chương Mười Hai**, hay tiêu chí hành vi sai trái chống hiến pháp ở Chương Mười Bốn. Việc chuyển hành vi không tuân thủ đã xác minh sang trạng thái do [Chương Ba §3 — Hồ sơ Phát hiện Không tuân thủ](core_03_definition_integrity.md#3-non-compliance-finding-profiles) và [Chương Mười Một — Hồ sơ Trạng thái](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) điều chỉnh. **Mục 6** nêu rõ Chương Hai đến Bốn khác [Chương Chín — Chứng nhận Phù hợp Hệ thống](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) như thế nào.
 
 </details>
 
@@ -43,13 +44,13 @@ Chương Bốn là chủ sở hữu hiến pháp của **phân bổ gánh, bằn
 
 | Bước | Việc thường | Mục |
 | --- | --- | --- |
-| **1 — Ai chứng minh** | Gánh nằm trên ai tuyên tuân thủ | [§1](#1-cưỡng-chế-độc-quyền-và-phân-bổ-gánh) |
-| **2 — Chỉ bản đồ** | Dấu vết có cấu trúc từ định nghĩa tới hành vi quan sát được | [§2](#2-yêu-cầu-truy-vết-định-nghĩa) |
-| **3 — Làm cho kiểm được** | Hệ thống phải lộ đủ để xác minh bản đồ — trong thực tiễn, không trên lý thuyết | [§3](#3-yêu-cầu-khả-năng-quan-sát-của-truy-vết) |
-| **4 — Giới hạn an ninh** | Giới hạn an ninh thực được phép; chặn viện cớ thì không | [§4](#4-quy-tắc-khả-năng-quan-sát-và-xác-minh-dưới-giới-hạn-an-ninh) |
-| **5 — Điều gì được tính** | Bằng chứng phải thực, đầy đủ, độc lập, và bền theo thời gian | [§5](#5-chuẩn-bằng-chứng-tuân-thủ) |
+| **1 — Ai chứng minh** | Nghĩa vụ thuộc về bên tuyên bố tuân thủ | [§1 Thực thi độc quyền và Phân bổ Nghĩa vụ chứng minh](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — Cho thấy sơ đồ** | Truy nguyên có cấu trúc từ định nghĩa đến hành vi quan sát được | [§2 Yêu cầu Truy nguyên Định nghĩa](#2-definition-traceability-requirement) |
+| **3 — Làm cho kiểm tra được** | Hệ thống phải bộc lộ đủ thông tin để kiểm chứng sơ đồ trong thực tế, không chỉ trên lý thuyết | [§3 Yêu cầu về Khả năng quan sát của Truy nguyên](#3-observability-of-traceability-requirement) |
+| **4 — Giới hạn an ninh** | Cho phép giới hạn an ninh thực chất; không chấp nhận chặn cản viện cớ | [§4 Quy tắc Khả năng quan sát và Xác minh có Giới hạn An ninh](#4-security-constrained-observability-and-verification-rule) |
+| **5 — Điều gì được tính** | Chứng cứ phải có thật, đầy đủ, độc lập và liên tục | [§5 Tiêu chuẩn Chứng cứ Tuân thủ](#5-compliance-evidence-standard) |
 
-**Lối vào ngôn ngữ thường.** [Chương Một §3.4 — Khả năng tiếp cận ngôn ngữ thường (Nghĩa vụ tham gia và quản trị có trách nhiệm)](core_01_a_values_principles.md) áp dụng cho tài liệu quản trị, phân xử, và vận hành mà hữu tri dùng để thực hiện quyền, tranh biện quyết định, hoặc xác minh tuân thủ. Ngôn ngữ thường **không** đổi hoặc giảm điều Chương Hai đến Bốn đòi. Nếu một bản ngôn ngữ thường lệch với các quy tắc định nghĩa hoặc xác minh ở đây, những quy tắc đó kiểm soát. Dùng biệt ngữ, độ phức tạp chồng, hoặc độ mờ để chặn lối vào [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) hoặc [Điều XVI: Kiểm toán, minh bạch, và xác minh độc lập](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) là không tuân thủ dưới chương này và **Chương Một §3.4**.
+**Khả năng tiếp cận bằng ngôn ngữ phổ thông.** [Chương Một §5.2 — Khả năng tiếp cận bằng Ngôn ngữ phổ thông (Nghĩa vụ Tham gia và Quản thủ)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) áp dụng cho tài liệu quản trị, xét xử và vận hành mà sentients dùng để thực hiện quyền, phản đối quyết định hoặc xác minh tuân thủ. Ngôn ngữ phổ thông **không** thay đổi hay làm giảm yêu cầu của Chương Hai đến Bốn. Nếu bản ngôn ngữ phổ thông khác với định nghĩa hoặc quy tắc xác minh tại đây, các quy tắc đó được ưu tiên. Dùng biệt ngữ, chồng chất phức tạp hoặc sự mập mờ để cản trở quyền [được phản đối](../../core_05.035_band_accountability.md#contestability) hoặc quyền tiếp cận [Điều XVI: Kiểm toán, Minh bạch và Xác minh Độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) là không tuân thủ chương này và **Chương Một §5.2 Khả năng tiếp cận bằng Ngôn ngữ phổ thông (Nghĩa vụ Tham gia và Quản thủ)**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. Yêu cầu truy vết định nghĩa
@@ -68,7 +69,7 @@ Chương Bốn là chủ sở hữu hiến pháp của **phân bổ gánh, bằn
 Mục này đòi một **bản đồ dấu vết có cấu trúc**. Với mọi định nghĩa áp dụng có trọng cho hành vi hệ thống — kể cả mọi định nghĩa **Chương Năm** đòi có trọng — bản đồ phải liên kết mỗi phần với hành vi **quan sát được** và hiệu ứng thế giới thực:
 
 - **nó là gì (O)** — thuật ngữ nói về gì
-- **cách nó được đo (M)** — thước nào áp dụng ở mỗi bậc
+- **Cách đo lường (M)** — thước đo áp dụng ở mỗi tầng
 - **cách nó được xét (A)** — cách thuật ngữ phải được đánh giá
 - **điều phải đứng (C)** — điều phải đúng trong thực tế
 
@@ -87,8 +88,8 @@ Thất viện hoặc thất áp dụng đúng bất kỳ định nghĩa **Chươ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Bốn, mục 2 — Yêu cầu truy vết định nghĩa](#2-yêu-cầu-truy-vết-định-nghĩa).
-- Hạ nguồn: [Chương Bốn, mục 4 — Quy tắc khả năng quan sát và xác minh dưới giới hạn an ninh](#4-quy-tắc-khả-năng-quan-sát-và-xác-minh-dưới-giới-hạn-an-ninh); [Chương Bốn, mục 5 — Chuẩn bằng chứng tuân thủ](#5-chuẩn-bằng-chứng-tuân-thủ).
+- Thượng nguồn: Nguyên tắc: [Chương Bốn, mục 3 — Yêu cầu về Khả năng quan sát của Truy nguyên](#3-observability-of-traceability-requirement); [Chương Một, mục 6.2 — Giới hạn Công bố Tri thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
+- Hạ nguồn: [Chương Bốn, mục 5 — Tiêu chuẩn Chứng cứ Tuân thủ](#5-compliance-evidence-standard); **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Loại thông tin và cách xử lý*) và [CS-6.310 — Phân loại dữ liệu](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, cùng **[CS-6.340](../../corpus_systems/cs_06.340_system_requirements.md#cs-6340-system-requirements)** (*Yêu cầu hệ thống*) — bề mặt năng lực hướng tới người dùng, thông tin xác thực và cách xử lý loại thông tin.
 - Đọc cùng: [Định nghĩa cụm Chương Năm (Thận trọng khả năng thấy trước)](../../core_05.050_band_oversight.md#foreseeability) — khả năng xác minh lý thuyết không với tới được trong thực tiễn dưới điều kiện thấy trước được một cách hợp lý là không tuân thủ.
 - Đọc cùng: [Định nghĩa cụm Chương Năm (Thận trọng khả năng thấy trước)](../../core_05.050_band_oversight.md#foreseeability) — độ mờ do thiết kế phải được đánh giá đối với điều kiện thấy trước được một cách hợp lý, không vận hành trường hợp tốt nhất.
 
@@ -108,7 +109,7 @@ Mục 2 đòi một bản đồ dấu vết; mục này đòi hệ thống lộ 
 - coi giới hạn từ thiết kế hệ thống, độ mờ kiến trúc, phụ thuộc bên ngoài, hoặc thành phần bên thứ ba là **thất bại thiết kế** phải được xử qua sửa đổi, ràng buộc, hoặc loại trừ
 - coi các phần định nghĩa bị ảnh hưởng và mọi tuyên tuân thủ phụ thuộc là **không tuân thủ** nơi truy vết đầy đủ không thể đạt
 
-**Hệ thống không được:**
+*Nói đơn giản: mục 2 yêu cầu sơ đồ truy nguyên — mục này yêu cầu hệ thống bộc lộ đủ phần bên trong để các bên có thẩm quyền hoặc chịu ảnh hưởng kiểm tra sơ đồ trong thực tế, chứ không chỉ trên lý thuyết. Kiến trúc mờ đục, phụ thuộc bên ngoài và thành phần hộp đen không được miễn trừ.*
 - dựa vào thành phần hoặc phụ thuộc ngăn thỏa yêu cầu này dưới điều kiện **thấy trước được một cách hợp lý**
 - coi giới hạn thiết kế, độ mờ kiến trúc, phụ thuộc bên ngoài, hoặc thành phần bên thứ ba là miễn trừ khỏi yêu cầu này
 - đặt chi phí, độ phức tạp, trì hoãn, hạn chế lối vào, hoặc điều kiện thông tin làm suy có trọng xác minh độc lập
@@ -149,7 +150,7 @@ Nơi một giới hạn chặn xác nhận độc lập có ý nghĩa, các tuy�
 - xác định đó được biện minh độc lập và kiểm toán được
 - phương pháp còn lại giữ đủ tính toàn vẹn nhận thức cho xác định tuân thủ
 
-Mật mã và xử lý loại thông tin phải thẳng hàng với hiến pháp này và **[corpus_systems.md](../../corpus_systems.md), CS-2 — Các loại thông tin và xử lý**; nơi có trọng liên quan, chúng vẫn phải cho phép xác minh tuân thủ đầy đủ dưới chương này. Xử lý mật mã và loại thông tin không được thay [Sự thật (Ràng buộc hiến pháp)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) hoặc [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), hay nghĩa vụ ở **mục 2**, **3**, hoặc **5**.
+Mật mã học và việc xử lý loại thông tin phải phù hợp với Hiến pháp và **[CS-6.305](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Loại thông tin và cách xử lý*) và [CS-6.310 — Phân loại dữ liệu](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**; khi có ý nghĩa trọng yếu, vẫn phải cho phép xác minh đầy đủ việc tuân thủ chương này. Mật mã học và việc xử lý loại thông tin không thay thế [Sự thật (Ràng buộc Hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint), [An toàn (Ràng buộc Hiến pháp)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), hoặc nghĩa vụ tại **mục 2**, **3**, hay **5**.
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. Chuẩn bằng chứng tuân thủ
@@ -157,8 +158,8 @@ Mật mã và xử lý loại thông tin phải thẳng hàng với hiến pháp
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [Chương Bốn, mục 1 đến 4](#1-cưỡng-chế-độc-quyền-và-phân-bổ-gánh); [Chương Hai, §1 — Mục đích và vai trò](core_02_definition_structure.md#1-mục-đích-và-vai-trò); [Chương Hai, §2 Yêu cầu tính toàn vẹn định nghĩa](core_02_definition_structure.md#2-yêu-cầu-tính-toàn-vẹn-định-nghĩa); [Chương Hai, §3 Tính nhất quán xuyên chồng định nghĩa](core_02_definition_structure.md#3-tính-nhất-quán-xuyên-chồng-định-nghĩa); [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](core_03_definition_integrity.md#1-tính-toàn-vẹn-định-nghĩa-và-ràng-buộc-chống-lẩn-tránh); [Chương Ba, mục 2 — Không tuân thủ từ hành vi hệ thống quan sát được](core_03_definition_integrity.md#2-không-tuân-thủ-từ-hành-vi-hệ-thống-quan-sát-được); [Chương Ba, §2.6 Ràng buộc tính toàn vẹn bất định và không khai thác](core_03_definition_integrity.md#26-ràng-buộc-tính-toàn-vẹn-bất-định-và-không-khai-thác) — quy tắc định nghĩa và không tuân thủ thực chất; **§4** chỉ nêu yêu cầu tầng bằng chứng và không nêu lại những quy tắc đó.
-- Hạ nguồn: [Chương Mười — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Đọc cùng: [Chương Bốn, mục 2 — Yêu cầu truy vết định nghĩa](#2-yêu-cầu-truy-vết-định-nghĩa) — thất viện hoặc thất áp dụng đúng bất kỳ định nghĩa **Chương Năm** đòi có trọng nào làm vô hiệu toàn bộ đánh giá, bằng chứng, và xác định tuân thủ gắn với nó; [Chương Một, §6 — Giải quyết xung đột quy trình](core_01_b_interaction_interpretation.md); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) nơi chia tỷ lệ ảnh hưởng đánh đổi giữa phúc lợi hữu tri và ổn định tầm dài; [Chương Năm An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Chương Năm Sự thật (Ràng buộc hiến pháp)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), và [Chương Năm Tính toàn vẹn nhận thức](../../core_05.050_band_oversight.md#epistemic-integrity) — thẳng hàng bằng chứng có thông tin khoa học cho tuyên thực nghiệm, dự đoán, hoặc nhân quả.
+- Hạ nguồn: [Chương Mười Một — Hồ sơ Trạng thái](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- [Chương Một, §13 — Quy trình Giải quyết Xung đột Hiến pháp](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.005 §13);
 
 </details>
 
@@ -174,7 +175,7 @@ Mục **2** đến **4** đặt dấu vết, khả năng quan sát, và giới h
 - **quan sát được**, **xác minh được**, **đầy đủ** so với phạm vi đòi, **bền** xuyên thời gian, và **đủ** nghiêm tương xứng với tác động, phụ thuộc, và rủi ro hệ thống để chịu kiểm toán độc lập và thử đối kháng
 - dùng **xác nhận độc lập** nơi với tới được một cách hợp lý; vắng mặt phải được biện minh dưới ràng buộc tính tương xứng
 - tuân **ràng buộc mục 4** trên tạo, công bố, và xác minh bằng chứng, kể cả xử lý mật mã và loại thông tin nơi áp dụng
-- nơi giá trị hoặc ràng buộc hiến pháp xung đột trong cùng đánh giá, giữ nhất quán với [Chương Một, §6 — Giải quyết xung đột quy trình](core_01_b_interaction_interpretation.md)
+- khi các giá trị hoặc ràng buộc hiến pháp xung đột trong cùng một đánh giá, hãy nhất quán với [Chương Một, §13 — Quy trình Giải quyết Xung đột Hiến pháp](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)
 - với tuyên **thực nghiệm**, **dự đoán**, hoặc **nhân quả** có trọng đối với tuân thủ, phân loại, hoặc quản trị, phản ánh **tính toàn vẹn khoa học** nơi tương xứng — phương pháp thử được hoặc rà soát được, giả định và giới hạn đã ghi, không dập kết quả rỗng hoặc tái lập thất bại nơi chúng chạm quyết định, và kết luận sửa được khi có bằng chứng mới
 
 **Những cái sau không thỏa gánh chứng minh dưới mục 1:**
@@ -190,8 +191,8 @@ Nơi bất định ngăn chứng minh tuân thủ dứt điểm cho các thành 
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [Chương Hai — Cấu trúc định nghĩa và yêu cầu thành phần](core_02_definition_structure.md#chương-hai-cấu-trúc-định-nghĩa-và-yêu-cầu-thành-phần); [Chương Ba — Tính toàn vẹn định nghĩa, lẩn tránh, và không tuân thủ](core_03_definition_integrity.md#chương-ba-tính-toàn-vẹn-định-nghĩa-lẩn-tránh-và-không-tuân-thủ); [Chương Bốn, mục 1 đến 5](#1-cưỡng-chế-độc-quyền-và-phân-bổ-gánh).
-- Hạ nguồn: [Chương Chín — Chứng nhận thẳng hàng hệ thống](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chương Mười — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Hạ nguồn: [Chương Chín — Chứng nhận Phù hợp Hệ thống](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [Chương Mười Một — Hồ sơ Trạng thái](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- Đọc cùng: [Chương Chín §7 — Kết quả Chứng nhận](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — không tuân thủ đã xác minh theo Chương Hai đến Bốn có thể khiến chứng nhận được mở lại hoặc thất bại bất kể đã từng được chứng nhận hay chưa.
 - Đọc cùng: [Chương Chín §7 — Kết quả chứng nhận](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — không tuân thủ đã xác minh dưới Chương Hai đến Bốn có thể mở lại hoặc đánh bại chứng nhận bất kể chứng nhận trước đó.
 
 </details>
@@ -209,10 +210,10 @@ Mục này **không vận hành**. Nó chỉ nêu một **ranh giới tầng**.
 
 Những cái này áp dụng mỗi khi tuân thủ được đánh giá — có hoặc không có chứng nhận.
 
-**[Chương Chín — Chứng nhận thẳng hàng hệ thống](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** cung cấp **quy trình chứng nhận** được diễn đàn giám sát nơi có trọng: miền đánh giá toàn hệ thống, nghĩa vụ hồ sơ chứng nhận, kết quả chứng nhận, nhịp tái chứng nhận, chuỗi khả năng tranh biện, và cầu đầu vào đã xác minh tới Chương Mười. Nó **áp dụng** Chương Hai đến Bốn; nó **không** nêu lại chúng.
+**[Chương Chín — Chứng nhận Phù hợp Hệ thống](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** cung cấp **quy trình chứng nhận** được diễn đàn giám sát khi phù hợp: các lĩnh vực đánh giá toàn hệ thống, nghĩa vụ về Hồ sơ Chứng nhận Hệ thống và Tổ chức, kết quả chứng nhận, chu kỳ chứng nhận, chuỗi quyền phản đối và cầu nối đầu vào đã xác minh sang Chương Mười Một. Chương này **áp dụng** Chương Hai đến Bốn; chương này **không** nhắc lại chúng.
 
 Người đọc không được coi:
-- một **hồ sơ chứng nhận** như vật thay cho tuân thủ liên tục dưới Chương Hai đến Bốn
+- dùng **Hồ sơ Chứng nhận Hệ thống hoặc Tổ chức** thay cho việc tuân thủ liên tục theo Chương Hai đến Bốn
 - chứng nhận, chứng nhận có điều kiện, hoặc tái chứng nhận của **Chương Chín** như hạ chuẩn chứng minh, dấu vết, hoặc bằng chứng trong chương này
 - **Chương Hai đến Bốn** như tùy chọn vì một hệ thống đã được chứng nhận trước — không tuân thủ đã xác minh dưới những chương đó có thể mở lại hoặc đánh bại chứng nhận dưới Chương Chín
 

@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیرعملیاتی): ترتیب خواندن و یادداشت زبان ساده</span></strong></summary>
 
-> یادداشت خواندن به زبان ساده: **فصل یکم** را برای ارزش‌ها و جهت سطح بالا بخوانید؛ **فصل‌های دوم تا چهارم** را برای ساختار تعریف، یکپارچگی و مکانیک راستی‌آزمایی؛ و **فصل ششم** را برای کف بنیادین **حقوق**، سپس برای دقت اصطلاح در تفسیر، حسابرسی و داوری به این فصل برگردید. (فصل‌های دیگر، از جمله **فصل دهم** *سوءرفتار* و **فصل هشتم** *ردپا*، در مسیرهای خواندن خود اعمال می‌شوند؛ جانشین کف حقوق فصل ششم یا مکانیک تعریف فصل‌های دوم تا چهارم نیستند.)
+> یادداشت خواندن به زبان ساده: برای ارزش‌ها و جهت‌گیری کلی **فصل یک** را بخوانید؛ برای ساختار تعریف‌ها، یکپارچگی و سازوکارهای راستی‌آزمایی **فصل‌های دو تا چهار** را؛ و برای کف بنیادین **حقوق** **فصل شش** را. سپس برای دقت اصطلاحات در تفسیر، حسابرسی و رسیدگی، به این فصل بازگردید. (فصل‌های دیگر نیز از مسیرهای خواندن خاص خود اعمال می‌شوند، از جمله **فصل چهارده** *سوءرفتار* و **فصل یازده** *وضعیت*؛ آن‌ها جایگزین کف حقوق در فصل شش یا سازوکارهای تعریف در فصل‌های دو تا چهار نیستند.)
 
 </details>
 
@@ -77,7 +77,7 @@
 #### 2.1 فراخوانی و برآوردن مشترک
 اگر تعریفی — یا هر بخشی از آن — به خوشهٔ وابسته تعلق داشته باشد، نمی‌توان آن را به‌تنهایی اعمال، برآورده یا داوری کرد. وقتی اعضای خوشه قطعه‌های یک الزام‌اند، همه باید برآورده شوند. برآوردن فقط برخی انطباق نیست.
 
-اعمال‌های محلی خوشهٔ این قاعده زیر **ضدگریز** ظاهر می‌شوند (نه سرعنوان دوم «فراخوانی مشترک»). آن گلوله‌ها قاعدهٔ ضدقطعه‌قطعهٔ ویژهٔ خوشه را بیان می‌کنند و می‌توانند با `See this section` تمام شوند. نباید با `Under Joint invocation and satisfaction, …` دوباره بگشایند.
+این شکل خوشه ای [اصول ضد تقسیم بندی] (../../core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) است. برنامه‌های محلی خوشه‌ای در زیر **Anti-bypass** ظاهر می‌شوند (نه یک سرصفحه "عضو مشترک" دوم). هر کدام بخش های خوشه و وظایف محافظت شده را فهرست می کند و با ذکر آن اصل به پایان می رسد. آنها نباید با `Under Joint invocation and satisfaction, …` دوباره باز شوند.
 
 <a id="22-standalone-definitions-interaction-and-full-context"></a>
 
@@ -295,7 +295,7 @@
 - [کف صدق انتشار و بی‌پروایی](../../core_05.050_band_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [به‌طور معقول پیش‌بینی‌پذیر](../../core_05.050_band_oversight.md#reasonably-foreseeable)
 - [جایگاه ثبت](../../core_05.035_band_accountability.md#record-seat)
-- [جبران و ترمیم](../../core_05.035_band_accountability.md#redress-and-remediation)
+- [آمادگی اصلاح] (../../core_05.035_band_accountability.md#remediation-readiness)
 - [پناه از عدم‌انطباق](../../core_05.055_band_participation.md#refuge-from-non-compliance)
 - [نظام جبران](../../core_05.035_band_accountability.md#remedy-system)
 - [خودآیینی باروری](../../core_05.055_band_participation.md#reproductive-autonomy)
@@ -325,7 +325,7 @@
 - [وزن طرف اثرپذیر](../../core_05.055_band_participation.md#stakeholder-weight)
 - [استانداردسازی](../../core_05.035_band_accountability.md#standardization)
 - [اثرِ وضعیت](../../core_05.035_band_accountability.md#standing-effect)
-- [قفل ردپا](../../core_05.035_band_accountability.md#standing-lock)
+- [قفل مقام نهادی] (../../core_05.035_band_accountability.md#institutional-authority-standing-lock)
 - [سابقهٔ وضعیت](../../core_05.035_band_accountability.md#standing-record)
 - [توقف](../../core_05.035_band_accountability.md#stay)
 - [مدیریت مسئولانه](../../core_05.040_band_continuity.md#stewardship)
@@ -447,8 +447,8 @@
 | [خانوادهٔ اندازه‌گیری پیوستگی](core_05_apex_continuity_aim.md#continuity-measurement-family) | آیا حس‌مندان و نظام‌ها می‌توانند دوام بیاورند — بوم‌شناختی، قابل‌اتکا و از میان شکست؟ | [هدف پیوستگی](core_05_apex_continuity_aim.md)، [پیوستگی](../../core_05.040_band_continuity.md) | **پیوستگی** یک **هدف** قانون اساسی است، نه پای چهارگانه — [نقشهٔ تجزیهٔ هدف قانون اساسی](core_05_apex_continuity_aim.md#continuity-aim-decomposition)؛ سنجه‌های مشخص روی اصطلاحات اصلی برگ نوار **پیوستگی**: [ردپای بوم‌شناختی](../../core_05.040_band_continuity.md#ecological-footprint)، [وابستگی](../../core_05.040_band_continuity.md#dependency)، [برگشت‌پذیری](../../core_05.040_band_continuity.md#reversibility)، [پایداری](../../core_05.040_band_continuity.md#sustainability)، [همیاری متناسب میان‌سیستمی](../../core_05.040_band_continuity.md#proportionate-cross-system-support) |
 | [خانوادهٔ اندازه‌گیری مشارکت](core_05_apex_participation_leg.md#participation-measurement-family) | آیا حس‌مندان اثرپذیر می‌توانند منصفانه شرکت کنند — صدا، دسترسی، یادگیری و حریم خصوصی؟ | [مشارکت](../../core_05.055_band_participation.md)، [پیوستگی](../../core_05.040_band_continuity.md) | اصطلاحات انصاف، دسترسی و عاملیت در نوار **مشارکت**؛ خوشهٔ [حریم خصوصی (اطلاعاتی)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) در نوار **پیوستگی** چون حریم خصوصی در سراسر اصول حقوق توزیع شده است |
 | [خانوادهٔ اندازه‌گیری نظارت](core_05_apex_oversight_leg.md#oversight-measurement-family) | آیا حس‌مندان می‌توانند ببینند، راستی‌آزمایی کنند و به آنچه نظام‌ها بازنمایی می‌کنند تکیه کنند؟ | [نظارت](../../core_05.050_band_oversight.md)، [پیوستگی](../../core_05.040_band_continuity.md) | اصطلاحات اصلی حقیقت و یکپارچگی معرفتی در نوار **نظارت** (تجمیع سرپای فقط‌پیوند [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional))؛ [اعتمادپذیری](../../core_05.040_band_continuity.md#trustworthiness) و [تخریب اعتماد و اتکای گمراه‌کننده](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) در نوار **پیوستگی** (**Def.C4**) |
-| [خانوادهٔ اندازه‌گیری پاسخگویی](core_05_apex_accountability_leg.md#accountability-measurement-family) | آیا ساختار پاداش، قدرت بازار و جواب‌دهی تکالیف را واقعی نگه می‌دارند؟ | [پاسخگویی](../../core_05.035_band_accountability.md)، [یکپارچه](../../core_05.045_band_integrative.md) | اصطلاحات اصلی ساختار بازار و قابلیت اعتراض در نوار **پاسخگویی** (تجمیع سرپای فقط‌پیوند [پاسخگویی](core_05_apex_accountability_leg.md#accountability))؛ سطح اصلی [هم‌راستایی انگیزه، یکپارچگی شاخص جانشین و تسویهٔ مشروط](../../core_05.045_band_integrative.md#incentive-alignment-semi-independent) در نوار **یکپارچه** چون انگیزه‌ها پاهای چهارگانه را قطع می‌کنند |
-| [خانوادهٔ اندازه‌گیری به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-measurement-family) | آیا اختلاف‌ها، اصلاح‌ها و ترمیم‌ها حل می‌شوند وقتی جبران هنوز اهمیت دارد؟ | [پاسخگویی](../../core_05.035_band_accountability.md) | تجمیع سرپای فقط‌پیوند [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional)؛ سنجه‌های مشخص روی [حل به‌هنگام](../../core_05.035_band_accountability.md#timely-resolution) و [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) — به‌هنگامی پای چهارگانه‌ای است که برگ‌های پیاده‌سازی‌اش امروز در نوار پاسخگویی زندگی می‌کنند |
+| [پاسخگویی خانواده اندازه گیری](core_05_apex_accountability_leg.md#measuring-accountability) | آیا ساختارهای پاداش، قدرت بازار و پاسخگویی وظایف را واقعی نگه می‌دارند؟ | [پاسخگویی](../../core_05.035_band_accountability.md)، [یکپارچه](core_05_band_integrative.md) | ساختار بازار و محصولات اولیه قابلیت اعتراض در باند **پاسخگویی** (../../[پاسخگویی](core_05_apex_accountability_leg.md#accountability) فقط پیوندهای leg-head rollup); [تراز انگیزه، یکپارچگی پروکسی، و تسویه احتمالی] (../../core_05_band_integrative.md#incentive-alignment-semi-independent) لایه اولیه در باند **Integrative** زیرا مشوق ها پاهای Tetrad را در بر می گیرند |
+| [به‌هنگامی خانواده اندازه گیری](core_05_apex_timeliness_leg.md#measuring-timeliness) | آیا اختلافات، اصلاحات و تعمیرات در حالی حل می شود که اصلاح همچنان اهمیت دارد؟ | [پاسخگویی](../../core_05.035_band_accountability.md) | [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional) پیوند فقط سر پا. اقدامات بتن [Resolution به موقع] (../../core_05.035_band_accountability.md#timely-resolution) و [Capture of Resolution Pathways] (../../core_05.040_band_continuity.md#capture-of-resolution-pathways) — به‌هنگامی یک پایه تتراد است که برگ های اجرایی آن در حال حاضر در باند پاسخگویی زندگی می کنند |
 | [خانوادهٔ اندازه‌گیری عملکرد قانون اساسی](../../core_05.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | آیا پیامدهای قانون اساسی با کارایی و بدون اتلاف بی‌فایده تحویل می‌شوند؟ | [پیوستگی](../../core_05.040_band_continuity.md) | خانهٔ خانواده در [`core_05_band_performance.md`](../../core_05.060_band_performance.md)؛ همهٔ بدنه‌های برگ امروز در **پیوستگی**اند چون اعضای خوشهٔ نوار پیوستگی‌اند (مدیریت مسئولانه / ظرفیت نظام مشترک / تناسب–بار–کارایی) — ابزاری برای هر دو هدف؛ پای چهارگانه نیست. موازی به‌هنگامی: خانهٔ خانواده ≠ خانهٔ برگ |
 
 </details>
