@@ -18,7 +18,7 @@
 - Downstream: Principles:
   - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7);
-  - [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
+  - [Chapter One §16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
   - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
   - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);
@@ -28,7 +28,7 @@
   - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
   - [Chapter One §15.1.2 Derived-Information Principle](core_01.005_interaction_interpretation.md#1512-derived-information-principle) (1.005 §15.1.2);
   - [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight) where the stakeholder layer applies;
-  - [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in
+  - [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in
   - [core_05.055_band_participation.md](core_05.055_band_participation.md).
 - Read with:
   - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency),
@@ -62,7 +62,7 @@ Chapter Five, Participation Tetrad leg, is the constitutional owner of the **Par
     - contestable decision pathways; and
     - proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](core_00.000_preamble.md#material-stake).
     Distinct from the [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight) operational layer where governing authority is already authorized.
-  - **Depends on:** the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition):
+  - **Depends on:** the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition):
     - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency);
     - [Accessibility](core_05.055_band_participation.md#accessibility);
     - [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness); and
@@ -71,7 +71,7 @@ Chapter Five, Participation Tetrad leg, is the constitutional owner of the **Par
 <a id="participation-constitutional-m"></a>
 <a id="participation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Can affected sentients actually be heard, treated fairly, and take part? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition).
+  - **Primary measure:** Can affected sentients actually be heard, treated fairly, and take part? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
     - Distinguish substantive from symbolic participation — ask whether affected parties can actually:
@@ -95,7 +95,7 @@ Chapter Five, Participation Tetrad leg, is the constitutional owner of the **Par
 <a id="participation-tetrad-leg-decomposition"></a>
 <a id="participation-leg-decomposition"></a>
 
-### Tetrad Leg decomposition
+### Tetrad Leg Decomposition
 
 *In plain terms: this map lists the Participation clusters; leaf definitions inherit this leg's scope unless they say otherwise.*
 
@@ -112,13 +112,13 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
     - [Educational Agency](core_05.055_band_participation.md#educational-agency); and
     - [Volitional Integrity](core_05.055_band_participation.md#volitional-integrity).
 
-**Independent terms** live under [Participation: Independent terms](core_05.055_band_participation.md#participation-independent-terms).
+**Independent terms** live under [Participation: Independent Terms](core_05.055_band_participation.md#participation-independent-terms).
 
 ---
 
 <a id="participation-measurement-family"></a>
 
-### Measuring Participation (Preamble measurement family)
+### Measuring Participation (Preamble Measurement Family)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

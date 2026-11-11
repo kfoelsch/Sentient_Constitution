@@ -172,7 +172,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Protected Internal-State Boundary | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
-| Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
+| Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Reproductive Autonomy | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Self-Determination | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
@@ -214,7 +214,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Material Impact | approved | primary_secondary | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
 | Material Risk | approved | primary_secondary | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
 | Materiality Integrity Constraint | approved | primary_secondary | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
-| Materiality Under Uncertainty | approved | primary_secondary | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
+| Materiality under Uncertainty | approved | primary_secondary | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
 | Misalignment Detection | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Open Systems, Data, and Auditing | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Operating Party | approved | primary_secondary | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
@@ -277,9 +277,9 @@ Approved progress: **304/304** terms pass tier audit.
 | Governance | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Harm Minimization (Tradeoff Selection) | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Incentive Alignment | approved | full | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
-| Incentive Alignment — baseline constitutional alignment | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
-| Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
-| Incentive Alignment — strategic, scaled, and adversarial evaluation | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
+| Incentive Alignment — Baseline Constitutional Alignment | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
+| Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
+| Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Incentive Alignment, Proxy Integrity, and Contingent Settlement | approved | primary_secondary | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Independence | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Initiating Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

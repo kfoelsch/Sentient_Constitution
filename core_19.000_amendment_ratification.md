@@ -204,7 +204,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - Upstream: [§5](#5-test-3--authority-chain-and-custody-validity) custody validity; [Chapter Eighteen §3.1](core_18.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) (18.000 §3.1) internal hierarchy for adopters.
 - Subsections: [§10.1](#101-deliberate-adoption)–[§10.3](#103-joining-by-additional-parties).
 - Downstream: [§11](#11-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** classification referenced in §10.1; [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045).
+- Read with: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** classification referenced in §10.1; [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045).
 
 </details>
 
@@ -218,7 +218,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 - Upstream: [§10](#10-ratification-and-adoption) ratification frame.
 - Downstream: [§10.2](#102-adoption-document) document requirements; [§10.3](#103-joining-by-additional-parties) joining rules.
-- Read with: [Chapter Sixteen §1](core_16.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) (16.000 §1) documented legitimacy mechanism alongside deliberate adoption; [Chapter Twenty §4 Adoption framing and scope of authority](core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (20.000 §4) (*who may adopt* — a steward bound by valid adoption is not themselves a qualifying adopter).
+- Read with: [Chapter Sixteen §1](core_16.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) (16.000 §1) documented legitimacy mechanism alongside deliberate adoption; [Chapter Twenty §4 Adoption Framing and Scope of Authority](core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (20.000 §4) (*who may adopt* — a steward bound by valid adoption is not themselves a qualifying adopter).
 
 </details>
 
@@ -226,11 +226,11 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 *In plain terms: binding adoption has to be explicit, recorded, and auditable to the scale of the system — quiet or partial "we kind of follow it" does not let an operator claim constitutional protection while dodging obligations, and a steward's own-conduct note is not adoption.*
 
-This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
+This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
 
-A steward is bound when a qualifying adopter records a valid adoption document under this section and [Chapter Twenty §4 Adoption framing and scope of authority](core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
+A steward is bound when a qualifying adopter records a valid adoption document under this section and [Chapter Twenty §4 Adoption Framing and Scope of Authority](core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
 
-When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Sixteen §1.2 Eligibility, contested selection, and democratic minimums](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive document, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
+When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Sixteen §1.2 Eligibility, Contested Selection, and Democratic Minimums](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive document, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
 
 #### 10.2 Adoption Document
 <details>
@@ -253,7 +253,7 @@ Adopters must maintain an identifiable adoption document. Examples include **joi
 - be consistent with **Corpus** in Chapter Five ([core_05.000_definitions_home.md](core_05.045_band_integrative.md#corpus)).
 - where [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the adoption document or in incorporated implementation it pins — not a core-chosen numeric target.
 
-#### 10.3 Joining by additional parties
+#### 10.3 Joining by Additional Parties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -319,19 +319,19 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <a id="12-scope-limit-and-layer-discipline"></a>
 <a id="12-layer-scope"></a>
 
-### 12. Layer scope
+### 12. Layer Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Seventeen §4](core_17.000_non_regression.md#4-layer-scope) (17.000 §4) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) and [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Six — Layer scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Six — Layer Scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>
 
 <br>
 
-*In plain terms: Chapter Nineteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Twelve §6 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Fourteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
+*In plain terms: Chapter Nineteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Twelve §6 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Fourteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
 
 Under [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
@@ -345,7 +345,7 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the procedural change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Twelve** in [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md); **standing effects and integration** — **Chapter Thirteen** in [core_13.000_standing_integration.md](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Twelve §6 unified scale**, with separate standing records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Fourteen** in [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct); and
-> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Seventeen §4 Layer scope](core_17.000_non_regression.md#4-layer-scope) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
+> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Seventeen §4 Layer Scope](core_17.000_non_regression.md#4-layer-scope) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>
 

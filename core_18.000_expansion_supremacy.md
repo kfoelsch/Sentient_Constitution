@@ -64,7 +64,7 @@ Chapter Eighteen is the constitutional owner of **additive expansion of protecti
 
 Constitutional change may add new rights, safeguards, accountability mechanisms, representational guarantees, or protected classes and protected characteristics. Additions are permitted where they increase substantive protection, inclusion, or binding effect consistent with **Chapters One through Five** and **Chapter Seventeen**.
 
-### 2. Continuity of Supremacy and Challenge Rights During Amendment
+### 2. Continuity of Supremacy and Challenge Rights during Amendment
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -149,7 +149,7 @@ Where external requirements appear irreconcilable with constitutional Rights Flo
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
-Cross-jurisdiction coordination and anti-evasion execution follow **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*). **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) **§9** (*Cross-jurisdiction execution and anti-evasion controls*) includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Thirteen §10 — *Enforcement realism*](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems), where applicable.
+Cross-jurisdiction coordination and anti-evasion execution follow **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*). **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) **§9** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*) includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Thirteen §10 — *Enforcement realism*](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems), where applicable.
 
 ### 4. Disputes Involving External Legal Orders
 <details>
@@ -237,7 +237,7 @@ This Constitution does not, of its own force, repeal, displace, override, or ren
 
 Publication, distribution, citation, forking, operations-guide use, or any statement that a body “follows” this Constitution is not adoption and does not create supremacy over applicable external law.
 
-This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Nineteen §10** (*Ratification and Adoption*) and **Chapter Twenty §4** (*Adoption framing and scope of authority*). Binding effect is limited to:
+This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Nineteen §10** (*Ratification and Adoption*) and **Chapter Twenty §4** (*Adoption Framing and Scope of Authority*). Binding effect is limited to:
 
 - the adopting entity;
 - the systems under that entity's authority; and
@@ -250,7 +250,7 @@ Valid adoption does not, by itself, repeal, displace, or render inoperative othe
 
 Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation) continue to apply.
 
-#### 5.2 Alignment When Used Within External Legal Frameworks
+#### 5.2 Alignment When Used within External Legal Frameworks
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 

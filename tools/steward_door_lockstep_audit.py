@@ -215,10 +215,10 @@ def corpus_edition(readme: str) -> str:
 
 
 def costly_bullets(core: str) -> list[str]:
-    marker = "#### 17.2 Alignment Under Pressure"
+    marker = "#### 17.2 Alignment under Pressure"
     start = core.find(marker)
     if start < 0:
-        raise ValueError(f"{CORE_REL} is missing Alignment Under Pressure")
+        raise ValueError(f"{CORE_REL} is missing Alignment under Pressure")
     lead = core.find("Every steward must refuse:", start)
     if lead < 0:
         raise ValueError(f"{CORE_REL} is missing the costly-case lead-in")

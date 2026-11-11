@@ -34,7 +34,7 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Upstream: [Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (1.010 §19).
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000).
-- Downstream: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [§1.2 Layer scope](#12-layer-scope).
+- Downstream: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [§1.2 Layer Scope](#12-layer-scope).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights); [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*).
 - Read with: [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Read with: [Article XIX-B](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
@@ -146,14 +146,14 @@ Enforcement depends on real checks, not just rules on paper:
 
 **Disputes and timely process**
 - **Justice, restitution, and restriction boundaries** — **Article XX** (*Justice After Verified Violation*)
-- **Conflict resolution, rights collisions, and emergencies** — **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **Key Practical Process Pipelines** — **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together)
+- **Conflict resolution, rights collisions, and emergencies** — **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Fifteen §6.1** (*Emergency Measures and Continuation Burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **Key Practical Process Pipelines** — **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
 <a id="12-layer-scope"></a>
 
-#### 1.2 Layer scope
+#### 1.2 Layer Scope
 
 *In plain terms: Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation).*
 
@@ -163,7 +163,7 @@ This rule covers all of Chapter Six — Articles **I** through **XXVIII**:
 - **No sneaking rules in through the back door:** You cannot import obligations from other chapters into Chapter Six by copying text, treating reader notes as real rules, or reading too much into a cross-reference. And other chapters or implementation files cannot shrink, redefine, or move a Chapter Six Rights Floor either — that violates **Chapter Seventeen** non-regression.
 - **If new language sounds like process or governance, point to the real owner:** Any future addition to Chapter Six that touches process, governance, or implementation must include a note pointing to where the actual rule lives — the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and, where relevant, the matching [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) definition.
 
-### Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources
+### Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part A article map</span></strong></summary>
@@ -220,7 +220,7 @@ flowchart TB
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
-  - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+  - [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -388,7 +388,7 @@ This Article sets out the floor that protects future generations:
   - [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity),
   - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility), and
   - [Existential Risk](core_05.040_band_continuity.md#existential-risk).
-- Downstream: **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
+- Downstream: **Chapter Fifteen §6.1** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
 
@@ -443,7 +443,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth), and
+  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth), and
   - [§16.1 Distributed Understanding](core_01.010_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -555,7 +555,7 @@ This Article sets out the repair and independent-servicing floors:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -587,7 +587,7 @@ This Article sets out the floors against designed obsolescence and their excepti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -627,7 +627,7 @@ This Article sets out the floors for post-sale access and subscriptions:
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 - Read with: [Article XXI-A](core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*).
-- Read with: **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, especially [§1.2](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Read with: **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, especially [§1.2](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Read with: **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Article IX-B](core_06.005_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) — records that deletion must not defeat.
@@ -662,7 +662,7 @@ This Article sets out the floors for product data handling, collection notice, d
   
   The depth of the notice scales with **Materiality** and the sensitivity of the data, but no data-collecting product is exempt. Data must not be used for a purpose that was not disclosed. A new purpose requires new notice first and, where **Consent** is required, new consent.
 - **Right to deletion:** Sentients may require the deletion of data about them, including data derived or inferred from it. On request, the operator must:
-  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
+  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_15.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
   - pass the request on to everyone it shared the data with; and
   - confirm what was deleted.
   
@@ -746,7 +746,7 @@ This Article sets out the operator's continuity duties before, during, and after
   - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
-  - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
+  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
 - Upstream: Principles applied throughout **Articles III-A** through **III-F**: Chapter One
   - [§3.1 Fairness](core_01.000_values_principles.md#31-fairness) (especially
   - [§3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) and
@@ -797,7 +797,7 @@ Those rules may structure delivery. They must not be used to defeat any floor in
 - Read with: [**Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*)](core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) for how essential environments are kept running and cared for during the Adoption Transition. The detailed rules are in [**CI-6.275 §1**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through [**CI-6.275 §3**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-adoption-transition-scoped-remediation-requirements) (*operative Adoption Transition-scoped remediation requirements*).
 - Read with: [**Article III-F** (*Safe Products and Health Information*)](#article-iii-f-safe-products-and-health-information) for the safety of food, water, and other essentials as supplied.
 - Read with: Chapter Five [*Occupancy Continuity*](core_05.040_band_continuity.md#occupancy-continuity) and [*Essential-Environment Non-Commodification*](core_05.040_band_continuity.md#essential-environment-non-commodification); where applicable, the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment).
-- Downstream: [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) where systems gate or sustain delivery; **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*); **Article XIX-B** (*Contestability and Proportional Restriction Limits*); [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
+- Downstream: [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) where systems gate or sustain delivery; **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*); **Article XIX-B** (*Contestability and Proportional Restriction Limits*); [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
 
 </details>
 
@@ -884,7 +884,7 @@ This Article sets out the right to care, the rules that keep it from being denie
   - public-health measures such as vaccination requirements, which must meet the safeguards in [**Article VII-A** (*Self-Ownership of Body*)](core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*, *Public-health requirements*); and
   - intervention without consent during a physical or mental health crisis — for example, where a sentient is unconscious, or is a danger to themselves or others — which is governed by [**Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)](core_06.005_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) and must be the least intrusion necessary, time-limited, independently reviewed, and reversible.
   
-  Emergency measures are also subject to [**Chapter Fifteen §6.1**](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind).
+  Emergency measures are also subject to [**Chapter Fifteen §6.1**](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
   - Cost, distribution, workforce, and system design are handled by the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Twenty** discipline.
   - None of that text may be read to narrow this right.
@@ -953,7 +953,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
 - **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §11** (*Market Structure*) non-concentration discipline, **§11.2** (*Pro-Competition and Anti-Domination*) pro-competition / anti-domination discipline, and **§11.3** (*Consolidation Ceiling*) consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
   - A market structure that satisfies non-concentration while failing Fair Compensation or Collective Organization is non-compliant under this Article; one that fails Safe Conditions or Leisure and Rest is non-compliant under [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions) or [**Article III-E** (*Rest and Recuperation*)](#article-iii-e-rest-and-recuperation).
   - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter One §11** (*Market Structure*) is non-compliant under that section.
-  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-5.125 §11.2 Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#distributed-and-proportional-authority-terms-c)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
+  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-5.125 §11.2 Anti-Domination Conduct and Remediation Catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#distributed-and-proportional-authority-terms-c)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
   - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Twenty** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
@@ -1043,7 +1043,7 @@ This Article sets out the right to rest, the rules that keep it from being defea
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [§3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help).
-- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks; [Chapter Nine §5.6.1 Evaluation Requirement](core_09.000_system_alignment_certification_evaluation.md#561-evaluation-requirement) (9.000 §5.6.1); [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: disclosure sufficiency and observability terms*); [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: structural review, correction urgency, and disclosure terms*).
+- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks; [Chapter Nine §5.6.1 Evaluation Requirement](core_09.000_system_alignment_certification_evaluation.md#561-evaluation-requirement) (9.000 §5.6.1); [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*); [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
 - Read with:
   - [**Article III-A** (*Survival*)](#article-iii-a-survival) for safe food, water, and other essentials;
   - [**Article III-B** (*Bodily-Maintenance and Healthcare Access*)](#article-iii-b-bodily-maintenance-and-healthcare-access) and [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions);
@@ -1086,7 +1086,7 @@ This Article sets out the safe-products floor, the information floor, the duty t
 - **Honest promotion:** Reviews, ratings, and endorsements must be genuine, paid placement must be disclosed, and where health or safety is at stake, recommendations must not be tilted toward a product by what the offering party earns (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIII-D** (*Incentive-Alignment Constraint*)).
 - **Conditions of offering, not compelled speech:** The duties in this Article are conditions of offering and are judged as [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance). They require facts about the thing offered, never opinion or endorsement. They cannot be used to silence warnings, criticism, or protected reports, and they cannot be enforced by cutting off survival-critical access. Proprietary formulas need not be disclosed. Hazards and allergens must be, and proprietary detail can go to an independent verifying authority.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on this floor must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
-  - Standards, thresholds, and notice times route to [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: disclosure sufficiency and observability terms*), [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: structural review, correction urgency, and disclosure terms*), and adopted implementation text under [Chapter Twenty](core_20.000_incorporation.md).
+  - Standards, thresholds, and notice times route to [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*), [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*), and adopted implementation text under [Chapter Twenty](core_20.000_incorporation.md).
   - Those texts must not be read to narrow this floor.
 
 ### Article IV: Right to Sentient-Centered Education
@@ -1223,7 +1223,7 @@ This Article sets out the right to capability-building education:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1313,7 +1313,7 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18).
+  - [Chapter One §18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18).
 - Read with: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XVI-A** (*Auditability and Observable Evidence*); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (visible cost-and-benefit allocation) and **Continuity** (durable dependency visibility across changing systems).
 - Downstream:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and

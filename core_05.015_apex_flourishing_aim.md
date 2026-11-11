@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Flourishing** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for constituents, measurement families, and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05.000_definitions_home.md](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Flourishing** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for constituents, measurement families, and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim Decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05.000_definitions_home.md](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -15,7 +15,7 @@
   - [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (1.000 §2.1);
   - [Chapter One §6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (1.000 §6);
   - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5);
-  - [Constitutional Aim decomposition](#constitutional-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per
+  - [Constitutional Aim Decomposition](#constitutional-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per
   - [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000).
 - Read with:
   - [Wellbeing](core_05.040_band_continuity.md#wellbeing),
@@ -44,8 +44,8 @@ Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing*
 
 - **What it is**
   - Protect and improve sentient wellbeing — the constitutional aim this entry names.
-  - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#constitutional-aim-decomposition).
-  - **Depends on:** the building blocks named in [Preamble §1 The Model](core_00.000_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#constitutional-aim-decomposition):
+  - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim Decomposition](#constitutional-aim-decomposition).
+  - **Depends on:** the building blocks named in [Preamble §1 The Model](core_00.000_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim Decomposition](#constitutional-aim-decomposition):
     - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint);
     - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint);
     - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness); and
@@ -56,7 +56,7 @@ Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing*
 - **How to measure and assess**
   - **Primary measure:** How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition.
     - **Main outcome measure:** [Wellbeing](core_05.040_band_continuity.md#wellbeing).
-    - **Topic map:** [Constitutional Aim decomposition](#constitutional-aim-decomposition).
+    - **Topic map:** [Constitutional Aim Decomposition](#constitutional-aim-decomposition).
     - **Searchable index:** [Chapter Five alphabetical directory](core_05.000_definitions_home.md#chapter-five-alphabetical-directory-non-operative).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
@@ -73,7 +73,7 @@ Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing*
 
 <a id="flourishing-aim-decomposition"></a>
 
-### Constitutional Aim decomposition
+### Constitutional Aim Decomposition
 
 *In plain terms: this map lists Flourishing's building blocks — truth, safety, trustworthiness, and meaningful agency — and where each leaf lives.*
 
@@ -101,7 +101,7 @@ Leaf definitions under this aim inherit this aim's scope unless they expressly n
 
 <a id="flourishing-measurement-family"></a>
 
-### Measuring Flourishing (Preamble measurement family)
+### Measuring Flourishing (Preamble Measurement Family)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

@@ -1,9 +1,9 @@
-# CJS-5.140: oDef parse mechanics
+# CJS-5.140: oDef Parse Mechanics
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef parse mechanics*) and **CJS-5.140 §14**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef Parse Mechanics*) and **CJS-5.140 §14**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). General readers may defer this file until cross-domain **oDef** clusters are in scope.
 
@@ -13,12 +13,12 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
-  - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes;
+  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
+  - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*) section identifiers and **Def.*** / **oDef** homes;
   - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*Operational structure and subsection-local terminology*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational clusters*).
-- Read with: **CJS-5.140 §13** (*Operational structure and subsection-local terminology*); **CJS-5.140 §14** (*Operational clusters*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
+- Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational Clusters*).
+- Read with: **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-5.140 §14** (*Operational Clusters*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -33,23 +33,23 @@
 
 Core home: 05
 
-This file is the joint-structure implementation home for **CJS-5.140 §13** (*Operational structure and subsection-local terminology*) and **CJS-5.140 §14** (*Operational clusters*), together the oDef parse mechanics.
+This file is the joint-structure implementation home for **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*) and **CJS-5.140 §14** (*Operational Clusters*), together the oDef parse mechanics.
 
 *In plain terms: these sections say how to read each **oDef** entry and how to treat a cluster of entries as one compound definition.*
 
 A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry). The subsections below are the binding parse rules for **oDef** entries in **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**).
 
-## CJS-5.140 §13: Operational structure and subsection-local terminology
+## CJS-5.140 §13: Operational Structure and Subsection-Local Terminology
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
-  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
   - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Read with: **CJS-5.140 §13** (*Operational structure and subsection-local terminology*); **CJS-5.140 §14** (*Operational clusters*).
+- Read with: **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-5.140 §14** (*Operational Clusters*).
 
 </details>
 
@@ -79,17 +79,17 @@ Constitutional terms used under **What it is**, **How to measure and assess**, o
 
 Subsection-local shorthand applies only inside the subsection where it appears, unless another corpus file defines the phrase and cites that subsection.
 
-## CJS-5.140 §14: Operational clusters
+## CJS-5.140 §14: Operational Clusters
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
-  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
   - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Read with: **CJS-5.140 §14** (*Operational clusters*); **CJS-5.140 §13** (*Operational structure and subsection-local terminology*).
+- Read with: **CJS-5.140 §14** (*Operational Clusters*); **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*).
 
 </details>
 
@@ -99,7 +99,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05.045_band_integrative.md#constitutional-constraint) · [O](../core_05.045_band_integrative.md#constitutional-constraint) · [M](../core_05.045_band_integrative.md#constitutional-constraint-a) · [A](../core_05.045_band_integrative.md#constitutional-constraint-a) · [C](../core_05.045_band_integrative.md#constitutional-constraint-c)
 
-Some subsections are structured as an **oDef** operational cluster (see **CJS-0.110 §1** (*Section identifiers and article references*) for the **oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n*** rule).
+Some subsections are structured as an **oDef** operational cluster (see **CJS-0.110 §1** (*Section Identifiers and Article References*) for the **oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n*** rule).
 
 In an **oDef** cluster, the head entry and the component entries in the same subsection work together as one compound operational definition.
 
@@ -114,9 +114,9 @@ Application rules are strict:
 - partial satisfaction is not compliance,
 - no component may be used, satisfied, or evaluated on its own in a way that changes the compliance result.
 
-That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*).
+That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
 
-By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five §2.1 Joint invocation and satisfaction](../core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction).
+By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five §2.1 Joint Invocation and Satisfaction](../core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction).
 
 **oDef** clusters remain local to this implementation layer:
 - they are not **Chapter Five** **Def.*** Clustered Definitions,

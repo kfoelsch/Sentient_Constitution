@@ -1,4 +1,4 @@
-# How constitutional records hold action accountable
+# How Constitutional Records Hold Action Accountable
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use this overview</span></strong></summary>
@@ -16,7 +16,7 @@ The Constitution uses records to make consequential action traceable, contestabl
 
 *The map shows selected relationships. It is not a universal workflow: not every matter has every record, and arrows identify possible source-grounded links rather than automatic permission or a required sequence.*
 
-## The basic distinction: input, record, and effect
+## The Basic Distinction: Input, Record, and Effect
 
 ```mermaid
 flowchart TB
@@ -50,15 +50,15 @@ Inputs can be important evidence, but they are not automatically official determ
 
 An **effect** is likewise not its source record. A later standing effect must trace to the relevant records, but it does not become part of a standing record merely because it relies on one ([Chapter Eleven §2](../core_11.000_standing_assessment.md#2-question-1--what-happened)).
 
-## The record families
+## The Record Families
 
-### 1. The common official trail: Act Records
+### 1. The Common Official Trail: Act Records
 
 Every materially binding act has an identifiable Act Record. It identifies the act and governing authority, the required seats, determination, custody, material handoffs, current challenge route and status, and the links needed to reconstruct it. A process-specific record—such as a certification record, standing record, or forum case record—may satisfy this role for the act it records if those elements remain attributable, linked, versioned, preserved, and accessible ([Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)).
 
 Think of an Act Record as the **accountability spine**, not as a separate record family that must duplicate every other file.
 
-### 2. System context and certification records
+### 2. System Context and Certification Records
 
 Two context records describe a materially impactful system before or alongside certification:
 
@@ -73,7 +73,7 @@ A [Forum Case Record](../core_15.000_forum.md#23-forum-case-records-standing-rec
 
 Its boundary is crucial. Filing a case, choosing a forum, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or applying a provisional routing label does **not** by itself create a standing record or change standing, role eligibility, trust status, recognition, or a final standing effect. A forum outcome can feed a standing record only through the applicable verified, bounded, traceable, and contestable route.
 
-### 4. Standing Records: a bounded account of what happened
+### 4. Standing Records: A Bounded Account of What Happened
 
 Chapter Eleven uses a [standing record](../core_11.000_standing_assessment.md#2-question-1--what-happened) to establish a bounded and contestable account before rating or consequence: subject, event or pattern, time and place, verified and disputed facts, evidence and attribution, challenge path, and current review/correction/supersession status.
 
@@ -84,7 +84,7 @@ There are two distinct tracks:
 
 They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](../core_11.000_standing_assessment.md#22-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
 
-### 5. Integration Records and gated-pathway-specific effects
+### 5. Integration Records and Gated-Pathway-Specific Effects
 
 When an applicable Chapter Eleven record is opened, updated, corrected, or superseded, Chapter Thirteen requires a distinct [integration record](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity). It cross-references current source records, measurements, applicable correction/remedy/safeguard information, gated pathways, review routes, and reassessment triggers.
 
@@ -95,9 +95,9 @@ Its two central limits keep the architecture intelligible:
 
 The integration record states the final standing effect for each gated pathway. That effect remains bounded by the Rights Floor, which standing decisions cannot change ([Chapter Thirteen](../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)).
 
-## How records remain answerable
+## How Records Remain Answerable
 
-### Four distinct seats
+### Four Distinct Seats
 
 For a materially binding act, Chapter Eight separates four functions:
 
@@ -118,13 +118,13 @@ These are functions for a particular act, not permanent job titles. The point is
 
 For standing records, the [custody and opening rules](../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required ([handling a standing record](../core_11.000_standing_assessment.md#6-handling-a-standing-record)).
 
-### Version, correction, preservation, and continuity
+### Version, Correction, Preservation, and Continuity
 
 The official trail must let an affected party and an authorized reviewer reconstruct what was relied on, what changed, why it changed, who acted under what authority, and where a challenge goes. This includes material evidence links, handoffs, refusals, clocks, superseded versions, and corrections—not simply the latest result ([Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)).
 
 Correction and contest are not afterthoughts. A forum reviewing a standing record may confirm it, require correction, order a new version, limit or pause reliance, or route the underlying issue; the record remains a bounded matter rather than a general reputation trial ([Chapter Fifteen §2.3](../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)). For integration, an outage does not permit silent overwrite: manual continuity preserves the applicable fields, evidence custody, review rights, time limits, and both audit trails when electronic operation returns ([Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)).
 
-## The boundaries worth remembering
+## The Boundaries Worth Remembering
 
 - **Evidence, logs, and attestations are inputs, not automatically official records or valid determinations** ([Act Record](../core_05.035_band_accountability.md#materially-binding-act-record)).
 - **An Act Record is an accountability trail, not a substitute for a process-specific record’s independent requirements** ([Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)).

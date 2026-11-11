@@ -473,7 +473,7 @@ def check_links(root: Path) -> list[str]:
 
 def section_text(text: str, heading_re: str) -> str:
     """Return the body under the first heading matching heading_re, up to the next same-or-higher heading."""
-    match = re.search(rf"^(#{{1,6}})\s+{heading_re}.*$", text, re.M)
+    match = re.search(rf"^(#{{1,6}})\s+{heading_re}.*$", text, re.M | re.I)
     if not match:
         return ""
     level = len(match.group(1))

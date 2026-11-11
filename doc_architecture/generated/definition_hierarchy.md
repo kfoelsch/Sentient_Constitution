@@ -137,9 +137,9 @@ CH5-HIER-01 tag vocabulary: [doc_architecture.md](../../doc_architecture.md) sec
 | High-Impact and Systemic Harm Publication Constraint | `core_05.050_band_oversight.md` | cluster_member | cross-cutting | Oversight | 3.5 Oversight | — |
 | Identity Data Protection | `core_05.040_band_continuity.md` | cluster_member | Flourishing | Continuity | 3.4 Participation | Def.C3 Privacy (Informational) — peer-level cluster head |
 | Incentive Alignment | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
-| Incentive Alignment — baseline constitutional alignment | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
-| Incentive Alignment — contingent claims, games of chance, and event-contract markets | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
-| Incentive Alignment — strategic, scaled, and adversarial evaluation | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
+| Incentive Alignment — Baseline Constitutional Alignment | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
+| Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
+| Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
 | Incentive Alignment, Proxy Integrity, and Contingent Settlement | `core_05.045_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
 | Independence | `core_05.035_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Indigenous Continuity | `core_05.040_band_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
@@ -177,7 +177,7 @@ CH5-HIER-01 tag vocabulary: [doc_architecture.md](../../doc_architecture.md) sec
 | Material Risk | `core_05.050_band_oversight.md` | cluster_member | cross-cutting | Integrative | 3.5 Oversight | — |
 | Materiality | `core_05.050_band_oversight.md` | measurement_family_member | cross-cutting | Integrative | — | — |
 | Materiality Integrity Constraint | `core_05.050_band_oversight.md` | cluster_member | cross-cutting | Integrative | 3.5 Oversight | — |
-| Materiality Under Uncertainty | `core_05.050_band_oversight.md` | cluster_member | cross-cutting | Integrative | 3.5 Oversight | — |
+| Materiality under Uncertainty | `core_05.050_band_oversight.md` | cluster_member | cross-cutting | Integrative | 3.5 Oversight | — |
 | Materially Binding Act | `core_05.035_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Materially Binding Act Record | `core_05.035_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Meaningful Agency | `core_05.055_band_participation.md` | constituent | Flourishing | Participation | 3.4 Participation · 3.2 Flourishing | Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
@@ -221,7 +221,7 @@ CH5-HIER-01 tag vocabulary: [doc_architecture.md](../../doc_architecture.md) sec
 | Protected Characteristics | `core_05.055_band_participation.md` | cluster_member | cross-cutting | Participation | 3.4 Participation | — |
 | Protected Data and Internal-State Publication Constraint | `core_05.050_band_oversight.md` | cluster_member | cross-cutting | Oversight | 3.5 Oversight | — |
 | Protected Internal-State Boundary | `core_05.040_band_continuity.md` | cluster_member | Flourishing | Continuity | 3.4 Participation | Def.C3 Privacy (Informational) — peer-level cluster head |
-| Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | `core_05.055_band_participation.md` | cluster_member | cross-cutting | Participation | 3.4 Participation | — |
+| Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention | `core_05.055_band_participation.md` | cluster_member | cross-cutting | Participation | 3.4 Participation | — |
 | Protected Reporting (Whistleblowing) | `core_05.035_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Protected Reporting Retaliation and Access Interference | `core_05.035_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Provisional Certification | `core_05.040_band_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |

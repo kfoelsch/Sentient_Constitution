@@ -49,7 +49,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
   - [§2 Definition Integrity Requirement](#2-definition-integrity-requirement);
   - [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000);
   - [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000);
-  - [Chapter Five compass and definition map](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000).
+  - [Chapter Five Compass and Definition Map](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000).
 - Read with:
   - [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy);
@@ -191,8 +191,8 @@ Chapter Five leaf definitions must carry those C requirements using the Complian
 
 - Upstream: [§1 Purpose and Role](#1-purpose-and-role) — O/M/A/C component structure and whole-system joint-satisfaction rule.
 - Downstream:
-  - [§2.4 Interpretation Rule Under Ambiguity](#24-interpretation-rule-under-ambiguity);
-  - [§3 Consistency Across the Definition Stack](#3-consistency-across-the-definition-stack);
+  - [§2.4 Interpretation Rule under Ambiguity](#24-interpretation-rule-under-ambiguity);
+  - [§3 Consistency across the Definition Stack](#3-consistency-across-the-definition-stack);
   - [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000);
   - [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000);
   - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000).
@@ -225,7 +225,7 @@ Definitions must be written so that:
 - no measure stands in for the result it is meant to capture; a measure that drifts from the real-world result it represents (see [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence)) cannot meet the definition, and the choice of measures must not shrink what has to be assessed or what has to hold in practice
 - no unstated assumptions, hidden dependencies, or left-out conditions change or weaken what must be assessed or what must hold in practice
 
-#### 2.4 Interpretation Rule Under Ambiguity
+#### 2.4 Interpretation Rule under Ambiguity
 When a definition can be read in more than one reasonable way, use the reading that keeps its full meaning. That reading governs how the definition is applied. The reading must also keep assessment rigorous, and it must keep the real-world requirements intact.
 
 A definition must not be used to judge or decide compliance if applying it forces a contradiction within the definition, a gap between the scope it states and what actually has to be covered, or a passing result on one part while another required part is sidestepped.
@@ -234,7 +234,7 @@ A broken definition is non-compliant on its own. That holds even when the system
 
 If one reasonable reading would weaken safeguards, narrow what must be checked, or lower the required real-world results compared with another reading the wording and structure allow, that weaker reading is not allowed.
 
-### 3. Consistency Across the Definition Stack
+### 3. Consistency across the Definition Stack
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 

@@ -1,4 +1,4 @@
-# Systems and data
+# Systems and Data
 
 *In plain terms: rules for how systems and data are typed, classified, tested, stewarded, and operated — so they stay aligned with the Sentient Constitution without rewriting it.*
 
@@ -8,7 +8,7 @@
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How Adoption Transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named **CS-6.345** (*System lifecycle*)–**CS-6.340** (*System requirements*) families and **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data classifications*)–**CS-16.305** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
+- Named **CS-6.345** (*System lifecycle*)–**CS-6.340** (*System requirements*) families and **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data Classifications*)–**CS-16.305** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -25,7 +25,7 @@
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
 - [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
-- [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
+- [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
 **Binding:** When an adopter incorporates this layer under [Chapter Twenty](core_20.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
@@ -58,7 +58,7 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-0.310: Scope, purpose, and boundary interface | [cs_00.310_scope_purpose_identifier_rules.md](corpus_systems/cs_00.310_scope_purpose_identifier_rules.md) |
+| CS-0.310: Scope, Purpose, and Boundary Interface | [cs_00.310_scope_purpose_identifier_rules.md](corpus_systems/cs_00.310_scope_purpose_identifier_rules.md) |
 
 ### Taxonomy
 
@@ -72,7 +72,7 @@
 | CS-9.320 — System alignment certification illustrations | [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) |
 | CS-16.305 — Critical system stewardship | [cs_16.305_critical_system_stewardship.md](corpus_systems/cs_16.305_critical_system_stewardship.md) |
 
-### Engineering protocols
+### Engineering Protocols
 
 | Stable family | Authoritative subfile |
 |---|---|

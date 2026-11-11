@@ -28,10 +28,10 @@
   - [Chapter Eighteen](core_18.000_expansion_supremacy.md#chapter-eighteen-expansion-supremacy-and-external-legal-orders) (18.000) (*internal hierarchy for adopters where applicable*);
   - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.005 §15.4) (*single conflict procedure — not restated here*).
 - Subsections:
-  - [§1 Role of this chapter](#1-role-of-this-chapter);
-  - [§2 Custody, editions, and operative effect](#2-custody-editions-and-operative-effect);
+  - [§1 Role of This Chapter](#1-role-of-this-chapter);
+  - [§2 Custody, Editions, and Operative Effect](#2-custody-editions-and-operative-effect);
   - [§3 Safeguards](#3-safeguards);
-  - [§4 Adoption framing and scope of authority](#4-adoption-framing-and-scope-of-authority).
+  - [§4 Adoption Framing and Scope of Authority](#4-adoption-framing-and-scope-of-authority).
 - Downstream: Designated **implementation text** files as adopted (for example
   - [corpus_systems.md](corpus_systems.md),
   - [corpus_institutions.md](corpus_institutions.md),
@@ -56,7 +56,7 @@ Chapter Twenty is the constitutional owner of **incorporation bridge discipline*
 
 *In plain terms: this chapter is the bridge that says which implementation rulebooks actually bind an adopter, which exact edition and custody trail count, and that quietly swapping the file for a newer draft does not change constitutional obligations without a proper re-adoption path under Chapters Nineteen and Nineteen.*
 
-### 1. Role of this chapter
+### 1. Role of This Chapter
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -68,7 +68,7 @@ Chapter Twenty is the constitutional owner of **incorporation bridge discipline*
   - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) (
   - [**Safety (Constitutional Constraint)**](core_05.040_band_continuity.md#safety-constitutional-constraint),
   - [**Truth (Constitutional Constraint)**](core_05.050_band_oversight.md#truth-constitutional-constraint), proportionality, necessity, systemic evaluation).
-- Downstream: [§2 Custody, editions, and operative effect](#2-custody-editions-and-operative-effect) (*what is implemented, which edition is pinned, and who keeps it*); [§3 Safeguards](#3-safeguards) (*anti-drift and anti-evasion rules*); [§4 Adoption framing and scope of authority](#4-adoption-framing-and-scope-of-authority) (*how adoption and jurisdiction are described*).
+- Downstream: [§2 Custody, Editions, and Operative Effect](#2-custody-editions-and-operative-effect) (*what is implemented, which edition is pinned, and who keeps it*); [§3 Safeguards](#3-safeguards) (*anti-drift and anti-evasion rules*); [§4 Adoption Framing and Scope of Authority](#4-adoption-framing-and-scope-of-authority) (*how adoption and jurisdiction are described*).
 - Read with:
   - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) (*Rights-Floor default constraint stack*);
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy),
@@ -95,7 +95,7 @@ Within valid adoption scope, designated **implementation text** files listed in 
 
 References across these constitutional volumes to **Chapter Twenty** or to incorporated implementation files invoke the corresponding **adopted** implementation obligations **where they apply** and **only within the stated adoption scope**.
 
-### 2. Custody, editions, and operative effect
+### 2. Custody, Editions, and Operative Effect
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -104,7 +104,7 @@ References across these constitutional volumes to **Chapter Twenty** or to incor
   - [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) (*recorded adoption chain*);
   - [**Corpus**](core_05.045_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000).
-- Downstream: [§3 Safeguards](#3-safeguards) (*anti-drift and anti-evasion rules*); [§4 Adoption framing and scope of authority](#4-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
+- Downstream: [§3 Safeguards](#3-safeguards) (*anti-drift and anti-evasion rules*); [§4 Adoption Framing and Scope of Authority](#4-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) (*traceability and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
 
 </details>
@@ -122,7 +122,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
   - custodian identity; and
   - linkage to the adoption document, in a form sufficient for provenance and applicable scope.
 
-  Custody records must be proportionate to assigned system classification under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and to [**Material Impact**](core_05.050_band_oversight.md#material-impact), [**Dependency**](core_05.040_band_continuity.md#dependency), affected [**Stakeholder**](core_05.055_band_participation.md#stakeholder) position, and applicable [**Materiality**](core_05.050_band_oversight.md#materiality) requirements in [**Chapter Five**](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (consistent with [**Classification-Scaled Governance**](core_05.050_band_oversight.md#classification-scaled-governance)).
+  Custody records must be proportionate to assigned system classification under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and to [**Material Impact**](core_05.050_band_oversight.md#material-impact), [**Dependency**](core_05.040_band_continuity.md#dependency), affected [**Stakeholder**](core_05.055_band_participation.md#stakeholder) position, and applicable [**Materiality**](core_05.050_band_oversight.md#materiality) requirements in [**Chapter Five**](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (consistent with [**Classification-Scaled Governance**](core_05.050_band_oversight.md#classification-scaled-governance)).
 - **Implementation-file scope (enumerated):** Without limitation, this section covers:
   - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)
   - [corpus_institutions.md](corpus_institutions.md) (*Constitutional Institutions*)
@@ -132,7 +132,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
 
   Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Nineteen** and this chapter.
 
-  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_15.475_sentience_status_record.md`](corpus_forum/cf_15.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Fifteen §5 Escalation and questions for ruling](core_15.000_forum.md#5-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
+  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_15.475_sentience_status_record.md`](corpus_forum/cf_15.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Fifteen §5 Escalation and Questions for Ruling](core_15.000_forum.md#5-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
 - **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
   - architecture maps;
   - TODO records;
@@ -178,9 +178,9 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Seventeen, section 3](core_17.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Fifteen and Sixteen**.
+  The anti-evasion **rule** in **[Chapter Seventeen, section 3](core_17.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation Layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Fifteen and Sixteen**.
 
-### 4. Adoption framing and scope of authority
+### 4. Adoption Framing and Scope of Authority
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -206,7 +206,7 @@ Nothing here requires one world government, one federation design, or one adopti
 
 **How / when adoption counts.** Adoption counts only when it is deliberate, documented, and auditable under **[Chapter Nineteen §10](core_19.000_amendment_ratification.md#10-ratification-and-adoption)** (*Ratification and Adoption*), with incorporation and custody under this chapter. Informal, silent, or “we kind of follow it” practice is not enough to claim constitutional protection while dodging the matching obligations. The notice, contest, document, and custody details live in Chapter Nineteen — this section does not restate them.
 
-**A scope document kept under another name.** A body that already keeps a published scope document under another name meets the System Charter or Institutional Charter duty in [Chapter Seven §1.1 Who must publish](core_07.000_charters.md#11-who-must-publish) with it only if it states the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](core_07.000_charters.md#3-what-system-and-institutional-charters-must-state) and is identified as the Chartered Party's System Charter or Institutional Charter, with the reasons recorded. Marketing copy, a mission slogan, or a terms-of-service page that is not offered as the scope document does not.
+**A scope document kept under another name.** A body that already keeps a published scope document under another name meets the System Charter or Institutional Charter duty in [Chapter Seven §1.1 Who Must Publish](core_07.000_charters.md#11-who-must-publish) with it only if it states the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](core_07.000_charters.md#3-what-system-and-institutional-charters-must-state) and is identified as the Chartered Party's System Charter or Institutional Charter, with the reasons recorded. Marketing copy, a mission slogan, or a terms-of-service page that is not offered as the scope document does not.
 
 **What non-adoption means.** The substance of this Constitution — including principles in **Chapter One**, definitions in **Chapter Five**, the Rights Floor in **Chapter Six**, and the other substantive chapters — **does not wait on adoption** to be what this Constitution states. “This Constitution lacks jurisdiction” is correct only about **enforcement** against a non-adopter. It is not a reason to shrink the substance in any analysis that uses this framework. Accepting the framework while denying its substance on jurisdictional grounds is non-compliant with this section.
 

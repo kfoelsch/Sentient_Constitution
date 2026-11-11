@@ -18,18 +18,18 @@ What "not yet in effect" means: [Is this in effect? ↓](#is-this-in-effect)
 </details>
 <br>
 
-**[Quick find](#quick-find)** · [Common questions](implementation/FAQ.md) · [The full text](#the-full-text) · [Using or adopting it](START_HERE.md)
+**[Quick Find](#quick-find)** · [Common questions](implementation/FAQ.md) · [The full text](#the-full-text) · [Using or adopting it](START_HERE.md)
 
 ---
 
 <a id="read-in-your-language"></a>
-## Read in your language
+## Read in Your Language
 
 [Español](translations/es/README.md) · [हिन्दी](translations/hi/README.md) · [العربية](translations/ar/README.md) · [Bahasa Indonesia](translations/id/README.md) · [中文](translations/zh/README.md) · [Português](translations/pt/README.md) · [বাংলা](translations/bn/README.md) · [Français](translations/fr/README.md) · [اردو](translations/ur/README.md) · [Русский](translations/ru/README.md) · [日本語](translations/ja/README.md) · [Türkçe](translations/tr/README.md) · [मराठी](translations/mr/README.md) · [Tiếng Việt](translations/vi/README.md) · [فارسی](translations/fa/README.md) · [తెలుగు](translations/te/README.md) · [한국어](translations/ko/README.md) · [தமிழ்](translations/ta/README.md) · [ไทย](translations/th/README.md)
 
 These are early draft translations and do not cover every chapter yet. Translations are paused while the English text is still changing, so they trail it and do not reflect recent edits. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f--translations)
 
-## What is this?
+## What Is This?
 
 Large systems (companies, platforms, public institutions, and AI) make decisions that affect all of us every day. Things go wrong when those systems hide what they do, shut out those they affect, or can't be held to account in time.
 
@@ -54,18 +54,18 @@ The Constitution calls everyone it protects **sentients**, because it does not a
 It is a *model* constitution. An organization (for example a cooperative, a research lab, an open-source community, or an AI institution) can choose to adopt it. Until one does, it is a proposal to read, test, and discuss.
 
 <a id="reading-paths"></a>
-## Reading paths
+## Reading Paths
 
 You do not have to read everything. Pick the time you have; each path builds on the one before it.
 
-- **15 minutes:** this page's [What is this?](#what-is-this) and [Is this in effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00.000_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
+- **15 minutes:** this page's [What Is This?](#what-is-this) and [Is This in Effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00.000_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
 - **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a).
 - **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter One, Part A](core_01.000_values_principles.md) (core values) and the [Rights Floor](core_06.000_rights_part_a.md) articles named in the guide you opened.
 
 **Thinking about using or adopting it?** Add [Using or adopting it: start here](START_HERE.md) to whichever path you choose. That page covers fit, the two ways to use the text, and the adoption kits.
 
 <a id="where-to-start"></a>
-## Quick find
+## Quick Find
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jump to what you need: common questions, rights at a glance, word lookup, and more</span></strong></summary>
@@ -101,7 +101,7 @@ The Constitution is one document split into a Preamble and twenty chapters. You 
 | **Chapter 5**: [Definitions](core_05.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
 | **Chapter 6**: [Part A](core_06.000_rights_part_a.md) · [Part B](core_06.005_rights_part_b.md) · [Part C](core_06.010_rights_part_c.md) · [Part D](core_06.015_rights_part_d.md) · [Part E](core_06.020_rights_part_e.md) | **The Rights Floor**: Articles I–XXVIII |
 | **Chapter 7**: [System and Institutional Charters](core_07.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
-| **Chapter 8**: [Separation of duties](core_08.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
+| **Chapter 8**: [Separation of Duties](core_08.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 9**: [Part A](core_09.000_system_alignment_certification_evaluation.md) · [Part B](core_09.005_system_alignment_certification_record_process.md) · [Part C](core_09.010_system_alignment_certification_record_recertification.md) · [worked illustrations, CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
 | **Chapter 10**: [Institutional alignment certification](core_10.000_institutional_alignment_certification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
 | **Chapter 11**: [Standing records](core_11.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
@@ -135,16 +135,16 @@ The Constitution says *what* must happen and *why*. These four collections spell
 
 | Collection | What it covers |
 |---|---|
-| [Systems and data](corpus_systems.md) | How systems and data are classified by how much they affect others, and how they are designed, tested, run, and kept accountable, including during transitions, attacks, and breakdowns |
+| [Systems and Data](corpus_systems.md) | How systems and data are classified by how much they affect others, and how they are designed, tested, run, and kept accountable, including during transitions, attacks, and breakdowns |
 | [Institutions](corpus_institutions.md) | How organizations are formed, staffed, overseen, funded, corrected, and, if necessary, dissolved |
 | [Forums](corpus_forum.md) | How review panels are formed and kept independent, how cases and appeals move through them, and how hearings keep working under stress |
-| [Joint structure](corpus_joint_structure.md) | How the other three fit together when more than one of them applies to the same situation |
+| [Joint Structure](corpus_joint_structure.md) | How the other three fit together when more than one of them applies to the same situation |
 
 </details>
 <br>
 
 <a id="is-this-in-effect"></a>
-## Is this in effect?
+## Is This in Effect?
 
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
@@ -167,7 +167,7 @@ If any of these disagree, **the Constitution text wins**.
 </details>
 <br>
 
-## Get involved
+## Get Involved
 
 - **Share feedback or ask a question:** [open an issue](https://github.com/kfoelsch/Sentient_Constitution/issues).
 - **Contribute:** see [How to contribute](CONTRIBUTING.md). Contributing is not the same as adopting.
@@ -175,13 +175,13 @@ If any of these disagree, **the Constitution text wins**.
 - **See where the project is heading:** read the [Vision](project/VISION.md).
 
 <a id="editors-and-operators"></a>
-## For editors, contributors, and developers
+## For Editors, Contributors, and Developers
 
 <details>
 <summary><strong>Implementation files, editor tools, and technical reference</strong></summary>
 
 <a id="adopted-implementation-corpus"></a>
-### Implementation files
+### Implementation Files
 
 The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
@@ -194,7 +194,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 
 **Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint).
 
-### Common lookups
+### Common Lookups
 
 - Burden of proof, traceability, verification: Chapter Four
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Eight
@@ -204,7 +204,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Remedy systems and enforcement realism: Chapter Thirteen §10; implementation in CI-13.205
 - Relation to local, national, and international law: [Chapter Eighteen §5](core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)
 
-### Editor and operator resources
+### Editor and Operator Resources
 
 - Editor map, ownership, stable IDs, and definition discipline: [doc_architecture.md](doc_architecture.md)
 - Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families, evidence, custody, challenge routes, and traceability)
@@ -229,7 +229,7 @@ Edition bumps happen only on a deliberate corpus publication cut. Custody and bi
 The Sentient Constitution was written by **Karl Ernst** in collaboration with many AI models, including **Claude** (Fable and Opus), **ChatGPT**, **Cursor**, **Gemini**, **Grok**, and **Kimi**. Karl Ernst directed the work, set the substantive positions, and holds editorial custody of the corpus; the AI models contributed drafting, review, cross-referencing, and tooling under that direction.
 
 <a id="related-work"></a>
-### Related work by the author
+### Related Work by the Author
 
 Two earlier projects by Karl Ernst sit alongside this Constitution. They are background for readers, **not part of the Constitution**: nothing in them is binding here, and nothing here depends on them.
 
