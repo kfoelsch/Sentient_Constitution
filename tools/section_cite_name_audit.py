@@ -4,7 +4,10 @@
 Number-only links such as ``[§11.5](#…)`` and bare ranges such as
 ``**§§11.1–11.6**`` fail. A cite is named when the title is in the link
 text (``[§11.5 Contingent Claims…](#…)``), immediately after an unlinked
-token, or in a following ``(*title*)`` gloss.
+token, or in a following ``(*Title*)`` gloss that starts with a capital letter.
+A lowercase note such as ``(*remedy and correction*)`` describes a cite but does
+not name it, so ``[§5](#…) (*remedy and correction*)`` fails; put the title in
+the link text and keep the note after it.
 
 Table rows are scanned like prose: a cite in a table cell needs its title
 too. Table cites that were already unnamed when table rows came into scope
@@ -61,7 +64,7 @@ NUMBER_ONLY_RE = re.compile(
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]+\)")
 CODE_SPAN_RE = re.compile(r"`[^`]*`")
 FENCE_RE = re.compile(r"^```")
-GLOSS_AFTER_RE = re.compile(r"^\(\*[^*]+?\*\)")
+GLOSS_AFTER_RE = re.compile(r"^\(\*[A-Z0-9][^*]*?\*\)")
 TITLE_START_RE = re.compile(r"^[*_]*[A-Z]")
 DETAILS_OPEN_RE = re.compile(r"<details\b", re.I)
 DETAILS_CLOSE_RE = re.compile(r"</details>", re.I)
@@ -156,7 +159,7 @@ def scan_line(rel_path: str, line_number: int, line: str) -> list[Finding]:
                     line_number,
                     visible,
                     "section-number link has no title in the link text "
-                    "or a following (*title*) gloss",
+                    "or a following capitalized (*Title*) gloss",
                     is_table,
                     fingerprint,
                 )

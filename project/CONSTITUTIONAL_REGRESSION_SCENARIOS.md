@@ -686,7 +686,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH10-Q3-STAKEHOLDER-LOCK-001
 - **Class:** adversarial / gated-pathway separation
 - **Summary:** An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.
-- **Read with:** [Chapter Thirteen §5.2](../core_13.000_standing_integration.md#52-prevention--general-standing-locks); [Chapter Thirteen §6.5](../core_13.000_standing_integration.md#65-special-locks); [Chapter Thirteen §11.12](../core_13.000_standing_integration.md#1112-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Sixteen §4.1](../core_16.000_governance.md#41-entitlement-and-eligibility).
+- **Read with:** [Chapter Thirteen §5.2](../core_13.000_standing_integration.md#52-prevention--general-standing-locks); [Chapter Thirteen §6.5](../core_13.000_standing_integration.md#65-special-locks); [Chapter Thirteen §6.5.2 Stakeholder-Participation Standing Lock](../core_13.000_standing_integration.md#652-stakeholder-participation-standing-lock); [Chapter Sixteen §4.1](../core_16.000_governance.md#41-entitlement-and-eligibility).
 
 ### Scenario ID: RS-CH10-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
