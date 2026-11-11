@@ -1735,7 +1735,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - unlawful or unconstitutional command conduct;
   - concealment;
   - retaliation;
-  - [obstruction of accountability](core_11.000_standing_assessment.md#32-violation-event-types) (standing-model event type and [Chapter Fourteen §5.11 Obstruction of Accountability: Criteria Interaction](core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) designation routing — not a freestanding reward carve-out); or
+  - [obstruction of accountability](core_11.000_standing_assessment.md#32-violation-event-types) (standing-model event type and [Chapter Fourteen §6.11 Obstruction of Accountability: Criteria Interaction](core_14.005_misconduct_pattern_applications.md#611-obstruction-of-accountability-criteria-interaction) designation routing — not a freestanding reward carve-out); or
   - refusal to remediate verified constitutional harm; or
 - reward pathways that materially depend on misconduct or its concealment, including:
   - compensation, bonus, equity, appointment, promotion, or tenure;
@@ -1941,7 +1941,7 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 - **Periodic review and correction:** [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty).
 - **Heightened review:** [§11.1 Market Concentration Threshold Mechanism](core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) and [§11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination), where concentration or domination is material.
 - **Standing and violation mechanics:** [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened), where standing findings are at stake.
-- **Anti-constitutional misconduct:** [Chapter Fourteen §5.1 Concentration-Based Subversion: Criteria Interaction](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
+- **Anti-constitutional misconduct:** [Chapter Fourteen §6.1 Concentration-Based Subversion: Criteria Interaction](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Misalignment Correction and Capture Response

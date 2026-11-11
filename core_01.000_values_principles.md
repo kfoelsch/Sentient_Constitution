@@ -398,7 +398,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
     - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
     - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Fourteen, section 4 — Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (14.000).
+  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Fourteen, section 5 — Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (14.000).
   - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), including [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05.055_band_participation.md#accessibility) where §2.1.1 access paths are material; [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
@@ -1966,7 +1966,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00.000_preamble.md#material-stake) scaling (especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination)).
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [18. Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Fourteen §5](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- Downstream: [Chapter Fourteen §6](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - Downstream: **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (
   - [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) and
   - [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (
@@ -2040,7 +2040,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - [CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (
   - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
   - [Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (12.000 §1);
-  - [Chapter Fourteen §5.1 Concentration-based subversion](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5.1).
+  - [Chapter Fourteen §6.1 Concentration-based subversion](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6.1).
 - Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subsections (reading order): [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
 
@@ -2080,7 +2080,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 - **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Fourteen §5.1 Concentration-based subversion](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Fourteen §6.1 Concentration-based subversion](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction).
 - **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Fourteen for misconduct designation review, but only in two steps. First, [Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Fourteen checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
 
 **Constitutional requirements:**
@@ -2137,7 +2137,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11 Market Structure](#11-market-structure); [Market Structure](core_05.035_band_accountability.md#market-structure).
-- Downstream: **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Fourteen §5](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5).
+- Downstream: **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Fourteen §6](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6).
 - Read with:
   - [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (labor mobility Rights Floor);
   - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity);
@@ -2424,7 +2424,7 @@ The following remain in scope where they preserve effective consolidation while 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment).
-- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (remedy routing on ceiling violation); [Chapter Fourteen §5](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5).
+- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (remedy routing on ceiling violation); [Chapter Fourteen §6](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6).
 
 </details>
 
