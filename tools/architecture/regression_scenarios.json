@@ -1607,7 +1607,7 @@
     {
       "id": "RS-XXIV-C-DISC-001",
       "class": "implementation / timely-resolution vignette",
-      "summary": "Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institution-level locks follow under Q3; no contribution offset. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-2-employment-discrimination--participation-barrier-injury-tier-b).",
+      "summary": "Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; a restriction lock follows under Q3, with an institution-level consequence under **CI-13.215 §3** (*Supervised Operation and Receivership*) if policy cannot be fixed short of receivership; no contribution offset. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-2-employment-discrimination--participation-barrier-injury-tier-b).",
       "read_with": "[Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIII-B](../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); **CF-15.445 §3.1**."
     },
     {

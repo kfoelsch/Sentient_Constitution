@@ -111,14 +111,11 @@ See the [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 - [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
 - [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
 
-### Chapter Thirteen, Chapter Fourteen, and vignette wording — items carried from the archived move log (2026-11-11)
+### Chapter Thirteen §6.5.3 retaliation case — open decision (carried from the archived move log, 2026-11-11)
 
-These were flagged for the custodian in moves now archived in [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md). Each is a wording or alignment question, not a new duty.
+This was flagged for the custodian in the 421st move, now archived in [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md). The other three wording and alignment items carried from that archive were resolved in the 467th move.
 
-- [ ] Chapter Thirteen §6.5.3, retaliation case (421st move): the case reads "retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used" and no longer says what ties the retaliation to the institution, enterprise, or office; the lead still requires real use of one. Decide whether to restore the tie.
-- [ ] CJS-11.105 employment-discrimination row 5 (430th move): the lock is described as applying "if policy is structurally unremediable without receivership-level change", which reads more like an institution-level consequence than a lock; check on the next sweep.
-- [ ] Chapter Thirteen §8 (435th move): "every gated pathway under a lock or hold" leaves out limited and restoration-only pathways, and "hold" is not defined in the chapter; decide whether "restricted" is the safer word.
-- [ ] Chapter Thirteen §9 starting reserve (436th move): CI-13.205 *Funding minimum* still states the removed "must not stand up lock machinery" rule and does not mention the starting reserve; check the parity and Remedy rows of the [minimum viable adopter profiles](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) too, and decide whether to align them with §9.
+- [ ] Chapter Thirteen §6.5.3, retaliation case (421st move): the case reads "retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used" and no longer says what ties the retaliation to the institution, enterprise, or office; the lead still requires real use of one. The custodian asked that the means not matter, so no tie was added. Decide whether to add one, for example "using the institution's or enterprise's authority, resources, or position" after "regardless of the means used".
 
 ### P1 — Regression and evidence
 
