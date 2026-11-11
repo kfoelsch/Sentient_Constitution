@@ -5131,7 +5131,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     Routing and read-with:
     - Route territorial-continuity questions:
       - to **Article I-A** (*Environmental Preconditions and Ecological Integrity*); and
-      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Twenty](core_20.000_incorporation.md) §2 (*custody and editions*), §3 (*safeguards*), and §4 (*adoption framing*), without this entry making the adjudication.
+      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Twenty](core_20.000_incorporation.md) §2 (*Custody, editions, and operative effect*), §3 (*Safeguards*), and §4 (*Adoption framing and scope of authority*), without this entry making the adjudication.
     - If an adopter already recognizes indigenous or comparable community-continuity rights, apply [Chapter Seventeen non-regression](core_17.000_non_regression.md). This entry does not create that recognition; non-regression only prevents the adopter from rolling it back.
     - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) applies where community-continuity transmission across generations is materially implicated.
     - [Natural Systems Standing](core_05.055_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.

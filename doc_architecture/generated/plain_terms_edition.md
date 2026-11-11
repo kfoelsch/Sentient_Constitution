@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **811** of **1261** headings carry a gloss (64%).
+Coverage: **810** of **1246** headings carry a gloss (65%).
 
 ## Contents
 
@@ -38,7 +38,7 @@ Coverage: **811** of **1261** headings carry a gloss (64%).
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
-- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (72/94 glossed)
+- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (71/79 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
@@ -5435,7 +5435,7 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 72/94 headings glossed
+Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 71/79 headings glossed
 
 #### 1. Purpose and Role
 
@@ -5904,96 +5904,6 @@ standing consequences and redress count only when real institutions can deliver 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_13.000_standing_integration.md#105-timely-implementation)
-
-#### 11. Pattern applications and Question 3 routing
-
-these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Fourteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers gated pathway prevention from the verified standing record; Chapter Fourteen separately answers designation criteria routing.
-
-[Source](../../core_13.000_standing_integration.md#11-named-applications)
-
-##### 11.1 Informal ecological stewardship / competency clearance
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#111-informal-ecological-stewardship-competency-clearance)
-
-##### 11.2 Ecological negligence with concealment
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#112-ecological-negligence-with-concealment)
-
-##### 11.3 Forum-integrity deception or recusal failure
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#113-forum-integrity-deception-or-recusal-failure)
-
-##### 11.4 Recurrence after completed restitution
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#114-recurrence-after-completed-restitution)
-
-##### 11.5 Champion repair while a lock remains active
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#115-champion-repair-while-a-lock-remains-active)
-
-##### 11.6 Institutional misuse and successor evasion
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#116-institutional-misuse-and-successor-evasion)
-
-##### 11.7 Misaligned reward retention
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#117-misaligned-reward-retention)
-
-##### 11.8 Anti-constitutional misconduct allegation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#118-top-slot-anti-constitutional-allegation)
-
-##### 11.9 Rights-Floor waiver or unconstitutional contract devices
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#119-rights-floor-waiver-or-unconstitutional-contract-devices)
-
-##### 11.10 Contest-pathway or info-sphere flooding
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1110-contest-pathway-or-info-sphere-flooding)
-
-##### 11.11 Infrastructure denial or dependency cutoff
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1111-infrastructure-denial-or-dependency-cutoff)
-
-##### 11.12 Stakeholder-participation corruption or false-stake abuse
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1112-stakeholder-participation-corruption-or-false-stake-abuse)
-
-##### 11.13 Obstruction of accountability
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1113-obstruction-of-accountability)
-
-##### 11.14 Verified cruelty character
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1114-verified-cruelty-character)
 
 ## CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION
 

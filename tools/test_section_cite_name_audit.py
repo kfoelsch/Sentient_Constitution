@@ -43,6 +43,30 @@ class SectionCiteNameTests(unittest.TestCase):
             [],
         )
 
+    def test_flags_lowercase_description_gloss_after_link(self) -> None:
+        # A lowercase (*...*) note describes the cite; it does not name it.
+        self.assertEqual(
+            self._cites(
+                "- [§4](#4-descriptor-integration) (*descriptors and attachments orient response*);"
+            ),
+            ["§4"],
+        )
+
+    def test_flags_lowercase_description_gloss_after_bare_token(self) -> None:
+        self.assertEqual(
+            self._cites("see §2 (*custody and editions*) for the rule."),
+            ["§2"],
+        )
+
+    def test_accepts_title_link_followed_by_lowercase_description(self) -> None:
+        self.assertEqual(
+            self._cites(
+                "- [§4 Descriptor integration and attachment normalization](#4-descriptor-integration) "
+                "(*descriptors and attachments orient response*);"
+            ),
+            [],
+        )
+
     def test_flags_bare_bold_range(self) -> None:
         self.assertEqual(
             self._cites("the rules in **§§11.1–11.6** and **§§13.1–13.3**."),
