@@ -183,7 +183,7 @@
       "status": "approved",
       "ch00_category": "3.5 Oversight"
     },
-    "Materiality Under Uncertainty": {
+    "Materiality under Uncertainty": {
       "tier_depth": "primary_secondary",
       "status": "approved",
       "ch00_category": "3.5 Oversight"
@@ -793,12 +793,12 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment — baseline constitutional alignment": {
+    "Incentive Alignment — Baseline Constitutional Alignment": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment — contingent claims, games of chance, and event-contract markets": {
+    "Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -938,7 +938,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention": {
+    "Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -1373,7 +1373,7 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
-    "Incentive Alignment — strategic, scaled, and adversarial evaluation": {
+    "Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"

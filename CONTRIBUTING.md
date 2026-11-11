@@ -5,7 +5,7 @@ This page is **process / operations-guide support** — **not** binding constitu
 Where the corpus is and where it is going: [VISION.md](project/VISION.md). The working backlog: [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
 <a id="who"></a>
-## 1. Who may contribute
+## 1. Who May Contribute
 
 - **Humans and AI agents alike**, under the same standard ([Chapter One §17.1](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)). An AI agent contributing under a human operator's direction is a contributor; the operator is accountable for what is submitted. Say which you are in the pull request.
 - **License.** Everything in this repository is [CC BY 4.0](LICENSE). By contributing you agree your contribution is released under the same license. There is no contributor license agreement to sign.
@@ -13,7 +13,7 @@ Where the corpus is and where it is going: [VISION.md](project/VISION.md). The w
 - **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Nineteen, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).
 
 <a id="before"></a>
-## 2. Before you start
+## 2. Before You Start
 
 1. Read [README.md](README.md) (the public door) and [START_HERE.md](START_HERE.md) (the adopter start page). Know the difference between binding core (`core_*`), binding incorporated implementation (`corpus_*`), and process support (everything else).
 2. Skim [doc_architecture.md](doc_architecture.md) §1–§4: owner table, boundary rules, definitions protocol, and the [vocabulary guardrails](doc_architecture.md#plain-language-vocabulary-guardrails).
@@ -34,7 +34,7 @@ Where the corpus is and where it is going: [VISION.md](project/VISION.md). The w
 5. Recommended for anyone who will act as a steward while working here (refusing, logging, escalating): sit the self-application fitness screen once, [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md). It is not required to submit a pull request and it is not adoption.
 
 <a id="lanes"></a>
-## 3. Contribution lanes
+## 3. Contribution Lanes
 
 Pick one lane per pull request. Lanes A–E cover the English corpus and its tools; Lane F covers translations. Each lane has an entry point, a bar, a gate, a place where the output lands, and a hand-off row naming the work that belongs to a neighboring lane.
 
@@ -54,7 +54,7 @@ Typical findings: dead or wrong links; an adopted implementation file that contr
 | **Not this lane** | A fix that changes what a section says → Lane C (adopted implementation) or Lane D (core). A defect in a generated index, an audit, or `tools/` output → Lane E. Report the defect here; do not rewrite the passage around it while you are there |
 
 <a id="lane-b"></a>
-### Lane B — Evaluation results
+### Lane B — Evaluation Results
 
 *Sit a pack and file what happened. This is the largest current gap, especially for human operators.*
 
@@ -70,7 +70,7 @@ Typical findings: dead or wrong links; an adopted implementation file that contr
 A results file is not a Chapter Eleven standing record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
 
 <a id="lane-c"></a>
-### Lane C — Adopted implementation maturation
+### Lane C — Adopted Implementation Maturation
 
 *Take an adopted implementation file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](project/VISION.md#3-what-mature-means-here) without changing what the core requires.*
 
@@ -83,7 +83,7 @@ A results file is not a Chapter Eleven standing record and does not make you an 
 | **Not this lane** | Anything that alters what the core requires, including narrowing a definition or standing gate → Lane D. A single wrong link or defective sentence → Lane A. An audit the adopted implementation text trips that is itself wrong → Lane E |
 
 <a id="lane-d"></a>
-### Lane D — Core text proposals
+### Lane D — Core Text Proposals
 
 *Change what a numbered `core_*` file says. Highest bar. Expect this lane to be slow.*
 
@@ -98,7 +98,7 @@ A results file is not a Chapter Eleven standing record and does not make you an 
 Core proposals that read as taste ("I would have phrased this differently") will be closed. Core proposals that show a conflict, a gap, a Rights-Floor hole, or a failed apply-test are the ones that move.
 
 <a id="lane-e"></a>
-### Lane E — Tooling and audits
+### Lane E — Tooling and Audits
 
 *Improve `tools/`, the `Makefile`, or the AI lookup layer.*
 
@@ -132,7 +132,7 @@ Core proposals that read as taste ("I would have phrased this differently") will
 A translation is help for readers, never a second constitution. Where a translation and the English text differ, the English text counts.
 
 <a id="rules"></a>
-## 4. Rules of the road
+## 4. Rules of the Road
 
 1. **Core wins.** Never resolve a conflict by bending a `core_*` file toward adopted implementation text or a process page.
 2. **One home per meaning.** Do not define a term twice, restate an obligation in a second file, or paraphrase a core rule inside adopted implementation text. Point instead ([doc_architecture.md §3](doc_architecture.md)).
@@ -223,6 +223,6 @@ Moving between roles happens by doing the work in the row above and being asked,
 **Related:** [VISION.md](project/VISION.md) · [README.md](README.md) · [START_HERE.md](START_HERE.md) · [translations/README.md](translations/README.md) · [doc_architecture.md](doc_architecture.md) · [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) · [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md)
 
 
-### Chapter numbering
+### Chapter Numbering
 
 Chapter and part numbers are registry-driven. Before adding, moving, splitting, or retiring a chapter, update `tools/architecture/chapter_numbers.json` and the crosswalk, then regenerate manifests, indexes, page outputs, and the print pack. Preserve existing numbers as retired; never reuse a number. Run `make chapter-number-audit`, `make chapter-number-audit-test`, and the applicable link and regression audits.

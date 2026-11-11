@@ -16,7 +16,7 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
+  - [Chapter One §18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
   - [Chapter One §13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (1.005 §13.1.3);
@@ -25,7 +25,7 @@
   - [Chapter One §13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (1.005 §13.2.1);
   - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
   - [Chapter One §15.1.2 Derived-Information Principle](core_01.005_interaction_interpretation.md#1512-derived-information-principle) (1.005 §15.1.2);
-  - [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in
+  - [Tetrad Leg Decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in
   - [core_05.035_band_accountability.md](core_05.035_band_accountability.md).
 - Sibling Tetrad leg: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional).
 - Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own Act Record, so the chain of answerability exists when review is needed*).
@@ -55,12 +55,12 @@ Chapter Five, Accountability Tetrad leg, is the constitutional owner of the **Ac
 - **What it is**
   - Hold actors answerable — the Tetrad leg this entry names.
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05.035_band_accountability.md#redress-and-remediation), or correction proportional to impact.
-  - **Depends on:** [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), and [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
+  - **Depends on:** [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), and [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#accountability-tetrad-leg-decomposition).
   - **Out of scope:** the leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS.
 <a id="accountability-m"></a>
 <a id="accountability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** How to tell whether answerability is real in practice. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
+  - **Primary measure:** How to tell whether answerability is real in practice. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg Decomposition](#accountability-tetrad-leg-decomposition).
   - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake). Ask whether accountability is real — attribution chains, records, and functional recourse work under normal, degraded, and adversarial conditions — not just ceremony.
 <a id="accountability-c"></a>
 - **What must hold**
@@ -77,7 +77,7 @@ Chapter Five, Accountability Tetrad leg, is the constitutional owner of the **Ac
 <a id="accountability-tetrad-leg-decomposition"></a>
 <a id="accountability-leg-decomposition"></a>
 
-### Tetrad Leg decomposition
+### Tetrad Leg Decomposition
 
 *In plain terms: this map lists the Accountability clusters and sibling homes; leaf definitions inherit this leg's scope unless they say otherwise.*
 
@@ -92,7 +92,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 **Sibling Tetrad leg:** [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional).
 
-**Independent and semi-independent terms** live under [Accountability: Independent terms](core_05.035_band_accountability.md#accountability-independent-terms) and [Accountability: Semi-independent terms](core_05.035_band_accountability.md#accountability-semi-independent-terms).
+**Independent and semi-independent terms** live under [Accountability: Independent Terms](core_05.035_band_accountability.md#accountability-independent-terms) and [Accountability: Semi-Independent Terms](core_05.035_band_accountability.md#accountability-semi-independent-terms).
 
 ---
 

@@ -17,17 +17,17 @@
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream:
   - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
-  - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
-  - [Tetrad Leg decomposition](#tetrad-leg-decomposition); Timeliness-implementing leaf definitions in
+  - [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
+  - [Tetrad Leg Decomposition](#tetrad-leg-decomposition); Timeliness-implementing leaf definitions in
   - [core_05.035_band_accountability.md](core_05.035_band_accountability.md).
 - Downstream: Principles:
-  - [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
+  - [Chapter One §16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
   - [Chapter One §17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (1.010 §17); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
   - [Chapter One §13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (1.005 §13.2.1);
   - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3);
   - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
-  - [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
+  - [Chapter One §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
 - Read with:
   - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -59,7 +59,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
     - remediation; and
     - stewardship correction
     in the constitutional coordination lifecycle.
-  - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition):
+  - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#timeliness-tetrad-leg-decomposition):
     - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution);
     - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways);
     - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency); and
@@ -68,7 +68,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
 <a id="timeliness-constitutional-m"></a>
 <a id="timeliness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
+  - **Primary measure:** Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg Decomposition](#timeliness-tetrad-leg-decomposition).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
     - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
@@ -88,7 +88,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
 <a id="timeliness-tetrad-leg-decomposition"></a>
 <a id="timeliness-leg-decomposition"></a>
 
-### Tetrad Leg decomposition
+### Tetrad Leg Decomposition
 
 *In plain terms: this map lists the Timeliness leaves; they inherit this leg's scope unless they say otherwise.*
 

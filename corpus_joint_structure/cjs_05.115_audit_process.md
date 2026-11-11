@@ -1,5 +1,5 @@
 
-# CJS-5.115: Audit process home (oDef.3)
+# CJS-5.115: Audit Process Home (oDef.3)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
@@ -15,18 +15,18 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
-  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
   - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md) (**CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) auditability terms, **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*), **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*)).
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*); **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*).
+- Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md) (**CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*) auditability terms, **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*), **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)).
+- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*); **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor; this file owns cross-implementation *how* / *when*
-- Read with: **[CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: transparency levels and audit-access terms*)** (*transparency levels and audit-access terms* — annex for access levels and audit-output disclosure)
-- Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
+- Read with: **[CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)** (*transparency levels and audit-access terms* — annex for access levels and audit-output disclosure)
+- Read with: **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
+- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -50,17 +50,17 @@
 
 Core home: 05
 
-This file is the joint-structure implementation home for **CJS-5.115 §3** (*Audit process home*). The auditability and reconstructability annex of **CJS-5.110 §3** (*Oversight: auditability and reconstructability terms (annex)*) is in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex).
+This file is the joint-structure implementation home for **CJS-5.115 §3** (*Audit process home*). The auditability and reconstructability annex of **CJS-5.110 §3** (*Oversight: Auditability and Reconstructability Terms (Annex)*) is in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex).
 
-*In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XVI** (*Audit, Transparency, and Independent Verification*); the machine-facing checklists live in the **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) OP annexes.*
+*In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XVI** (*Audit, Transparency, and Independent Verification*); the machine-facing checklists live in the **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) OP annexes.*
 
-**Cluster identity.** Stable citation **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex) under the same cluster ID — annex, not the front door.
+**Cluster identity.** Stable citation **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*) names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex) under the same cluster ID — annex, not the front door.
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
 **Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05.040_band_continuity.md#system-alignment-certification) (Chapter Nine) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** (*Audit, Transparency, and Independent Verification*) floors into Chapter Nine or into any single CS / CI / CF file.
 
-## CJS-5.115 §3 Audit process home (oDef.3)
+## CJS-5.115 §3 Audit Process Home (oDef.3)
 
-### What auditing is
+### What Auditing Is
 
 *In plain terms: auditing is an independent check of real behavior and evidence against what a system, institution, or forum claims — not a stamp, a popularity score, or a private club.*
 
@@ -81,7 +81,7 @@ Auditing **is not**:
 
 
 
-### Why we audit
+### Why We Audit
 
 *In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so sentients can challenge and fix what went wrong.*
 
@@ -95,7 +95,7 @@ Depth and frequency scale with [material stake](../core_00.000_preamble.md#mater
 
 
 
-### How we audit
+### How We Audit
 
 *In plain terms: keep honest evidence, pick the right access level, get an independent check, publish usable results as openly as you can, and leave a path to challenge.*
 
@@ -103,19 +103,19 @@ A working audit process follows this chain:
 
 1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-5.110 §3 Auditability and reconstructability terms (annex)](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex); **Article XVI-A** (*Auditability and Observable Evidence*)).
 2. **Choose the access path:** Use the access level that fits the data and the question:
-   - **public baseline** where [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*))
+   - **public baseline** where [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data Classifications*))
    - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
    - **forensic depth** when harm, dispute, or credible risk requires full reconstruction
-   - Access-level mechanics live in **[CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: transparency levels and audit-access terms*)**; typing lives in **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*).
+   - Access-level mechanics live in **[CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)**; typing lives in **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data Classifications*).
 3. **Run an independent check:** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-5.110 §5** (*independent verification and claim-integrity terms*); **Article XVI-B** (*Distributed Oversight and Anti-Monopoly Review*) / **XVI-C**).
-4. **Publish usable outputs:** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** level: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted levels only as justified — see **[CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: transparency levels and audit-access terms*)**.
+4. **Publish usable outputs:** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** level: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted levels only as justified — see **[CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)**.
 5. **Leave challenge and correction open:** Audit supports contest under **Article XIII-A** (*Reliability and Trustworthiness Baseline*); it does not replace it. Material findings must be correctable and reviewable.
 
 Privacy and internal-state protections (**Article VII-B** (*Self-Ownership of Mind*)) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
 
 
 
-### When we audit
+### When We Audit
 
 *In plain terms: audit when impact is material, when something important changes, on the schedule its class sets, and whenever harm or dispute requires reconstruction — not only when certification is due.*
 
@@ -128,11 +128,11 @@ Audit when any of the following applies (often more than one):
 - **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-6.345 (*System lifecycle*) ACA), without treating monitoring alone as a complete audit
 - **Certification or recertification cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
 
-"Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*)).
+"Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*)).
 
 
 
-### Sibling audit modes (owner map)
+### Sibling Audit Modes (Owner Map)
 
 *In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in **Article XVI** (*Audit, Transparency, and Independent Verification*)](../core_06.010_rights_part_c.md#audit-three-layers): **Article XVI** (*Audit, Transparency, and Independent Verification*) floor, Auditability property, this file as how/when). They are not extra homes.*
 
@@ -146,15 +146,15 @@ Audit when any of the following applies (often more than one):
 | Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-16.305** (*Critical system stewardship*) §CS-16.305 §8 *Conduct, conflicts of interest, and independence* and §CS-16.305 §11 *Integrated risk governance (Class A/B)* |
 | Continuous audit (systems layer: automated constitutional auditing) | **CS-6.345** (*System lifecycle*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), not this row |
 | Complexity audits (systems profile) | **CS-6.315**; **Article XXIII-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-16.305** (*Critical system stewardship*) §CS-16.305 §5 *Comprehensibility and complexity stewardship* |
-| Claim verification (material-claim verification scope, structured claim-testing, and correction integrity) | **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **Article XVI-C** (*Verification Accessibility*) |
+| Claim verification (material-claim verification scope, structured claim-testing, and correction integrity) | **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **Article XVI-C** (*Verification Accessibility*) |
 | Institutional transparency and accessible challenge and service pathways | **CI-6.205** (read with **CI-8.215 §3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-15.445** |
 | Cross-implementation trust when layers combine | **CJS-20.110 §3** / **CJS-R17** |
 
 **Machine-facing annexes (not this file):**
 - Auditability and reconstructability OP terms → [CJS-5.110 §3 annex](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex)
-- Access levels and audit-output disclosure → [CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: transparency levels and audit-access terms*)
-- Independent claim verification → **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md)
+- Access levels and audit-output disclosure → [CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)
+- Independent claim verification → **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md)
 
 ---
 

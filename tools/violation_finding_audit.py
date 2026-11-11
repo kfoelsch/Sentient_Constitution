@@ -17,7 +17,7 @@ The audit reads each line, not the file (AUDIT-SCOPE-01). It flags the noun
 * **Bare.** The word before it is a determiner or a bare modifier (a, the, this,
   that, each, any, no, its, verified, adverse, unresolved, ...). A qualified
   form (violation finding, component finding, non-compliance finding, cause
-  finding, "Violation Axis s = 7 finding") is not matched.
+  finding, "Violation Axis slot 7 finding") is not matched.
 * **Violation line.** The same line speaks of violations, standing locks,
   Interim Holds, misconduct, sanctions, wrongdoing, allegations, or a merits
   matter.

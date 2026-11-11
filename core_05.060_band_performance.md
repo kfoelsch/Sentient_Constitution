@@ -32,7 +32,7 @@ Chapter Five, Constitutional Performance band, is the constitutional owner of th
 
 <a id="performance-measurement-family"></a>
 
-### Measuring Constitutional Performance (Preamble measurement family)
+### Measuring Constitutional Performance (Preamble Measurement Family)
 
 *In plain terms: these questions ask whether constitutional outcomes are actually delivered without wasting sentient time, effort, or materials.*
 

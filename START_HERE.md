@@ -1,4 +1,4 @@
-# Using or adopting the Sentient Constitution — start here
+# Using or Adopting the Sentient Constitution — Start Here
 
 **Who this page is for:** people who run, found, or build systems, and are thinking about using this Constitution in their own work or formally adopting it. That includes AI labs, platform operators, cooperatives, commons, research bodies, and their human and AI stewards.
 
@@ -7,14 +7,14 @@
 > This page is reader support, not constitutional text. It cannot change or narrow what the numbered `core_*` files say.
 
 <a id="what-adoption-means"></a>
-## 1. What adoption means
+## 1. What Adoption Means
 
 This is a **model constitution**. It becomes **enforceable** for a particular body only after that body validly adopts it under [Chapter Nineteen](core_19.000_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Twenty §4](core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference; it has no power to enforce against anyone who has not adopted it. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework ([Chapter Eighteen §5](core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 Four duties (**participation**, **oversight**, **accountability**, and **timeliness**) grow stronger as a system's [material stake](core_00.000_preamble.md#material-stake) grows ([Preamble §1](core_00.000_preamble.md#constitutional-tetrad)). Human and AI stewards are held to one shared standard ([Chapter One §17.1](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)): there is no AI-only rulebook, and no exemption for humans.
 
 <a id="pre-release-status"></a><a id="core-vs-operational"></a>
-### Pre-release status, and which parts are mature
+### Pre-Release Status, and Which Parts Are Mature
 
 Edition, status, and license are kept in one place: the [release details](README.md#edition) at the top of the README; what pre-release means is under [*Is this in effect?*](README.md#is-this-in-effect). Two points matter most for anyone planning to use the text:
 
@@ -23,7 +23,7 @@ Edition, status, and license are kept in one place: the [release details](README
 - The shared standard for human and AI stewards has so far been tested only on AI models. No human operator has yet sat the same costly scenarios, so treat that claim as designed, not demonstrated. See [Horizon two in the Vision](project/VISION.md#42-horizon-two--handoff-and-human-symmetry).
 
 <a id="two-modes"></a>
-## 2. Two ways to use it
+## 2. Two Ways to Use It
 
 Named in [PRE_PUBLICATION_SPEC.md §3.1](implementation/PRE_PUBLICATION_SPEC.md) and [FIT_SITUATIONS.md §2](implementation/adoption/FIT_SITUATIONS.md#2-two-modes). This page does not add a third.
 
@@ -33,7 +33,7 @@ Named in [PRE_PUBLICATION_SPEC.md §3.1](implementation/PRE_PUBLICATION_SPEC.md)
 | **Full adoption** | A qualifying body records a Chapter Nineteen adoption document and keeps it in its own custody under Chapter Twenty | Only after that adoption document exists in **that body's** custody |
 
 <a id="fit-tests"></a>
-## 3. Does it fit your situation?
+## 3. Does It Fit Your Situation?
 
 A situation is a good fit when **several** of these are true. The full table lives in [FIT_SITUATIONS.md §1](implementation/adoption/FIT_SITUATIONS.md#1-fit-tests); this is the short version, and passing it is not adoption.
 
@@ -47,7 +47,7 @@ A situation is a good fit when **several** of these are true. The full table liv
 If you cannot bind the systems, or cannot name independent review that is not the founding crew, stop at operations-guide use plus a declaration about your own conduct. Do not move on to building oversight, certification, or other constitutional-function bodies (what the institution kit calls "Track B"; see [FIT_SITUATIONS.md §3](implementation/adoption/FIT_SITUATIONS.md#3-how-to-route)).
 
 <a id="ranked-situations"></a>
-## 4. Where it fits best
+## 4. Where It Fits Best
 
 Full ranking and sketches: [FIT_SITUATIONS.md §4](implementation/adoption/FIT_SITUATIONS.md#4-ranked-situations-near-term-first). A sketch is not adoption.
 
@@ -63,7 +63,7 @@ Full ranking and sketches: [FIT_SITUATIONS.md §4](implementation/adoption/FIT_S
 10. [New polities or special-purpose jurisdictions](implementation/adoption/FIT_SITUATIONS.md#410-new-polities-or-special-purpose-jurisdictions) — long-horizon, not a 2026 first adopter
 
 <a id="honest-non-fits"></a>
-## 5. Where it does not fit
+## 5. Where It Does Not Fit
 
 Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5-honest-non-fits):
 
@@ -79,7 +79,7 @@ Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5
 If any "cannot bind" row in the first-adopter kit's [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block describes your situation, do not claim Chapter Nineteen adoption.
 
 <a id="where-to-go-next"></a>
-## 6. Where to go next
+## 6. Where to Go Next
 
 | If you need to… | Open |
 |---|---|
@@ -93,15 +93,15 @@ If any "cannot bind" row in the first-adopter kit's [scope honesty](implementati
 | See how certification, standing records, forums, and remedy connect | [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md) |
 | Understand how the whole design fits together before committing | [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md) (about 40 minutes) |
 | Trace which records hold an action accountable | [Record overview](guides/RECORD_OVERVIEW.md) |
-| Everything else for general readers (FAQ, Rights Floor, word lookup, print pack, full text) | [README: Quick find](README.md#quick-find) |
+| Everything else for general readers (FAQ, Rights Floor, word lookup, print pack, full text) | [README: Quick Find](README.md#quick-find) |
 
 <a id="reading-paths"></a>
-### Reading paths
+### Reading Paths
 
 The timed reading paths (15 minutes, 45 minutes, 2 hours) are in the [README](README.md#reading-paths). For adopters, add this page and [FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md) to whichever path you choose.
 
 <a id="adopter-resources"></a>
-## 7. Adopter resources
+## 7. Adopter Resources
 
 | | |
 |---|---|

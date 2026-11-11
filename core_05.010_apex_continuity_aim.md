@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Five** canonical home and hierarchy map for the **Continuity** constitutional aim. Read the definition below first (**What it is** / **How to measure and assess** / **What must hold**). Detailed definitions for Continuity topics and measurement families live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05.000_definitions_home.md](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Five** canonical home and hierarchy map for the **Continuity** constitutional aim. Read the definition below first (**What it is** / **How to measure and assess** / **What must hold**). Detailed definitions for Continuity topics and measurement families live in the Tetrad **band files** linked from [Constitutional Aim Decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05.000_definitions_home.md](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -19,7 +19,7 @@
   - [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) (1.000 §11);
   - [Chapter One §12 Systemic Evaluation Requirement](core_01.000_values_principles.md#12-systemic-evaluation-requirement) (1.000 §12);
   - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5);
-  - [Constitutional Aim decomposition](#constitutional-aim-decomposition); Continuity topic groups in
+  - [Constitutional Aim Decomposition](#constitutional-aim-decomposition); Continuity topic groups in
   - [core_05.040_band_continuity.md](core_05.040_band_continuity.md).
 - Read with:
   - [Stewardship](core_05.040_band_continuity.md#stewardship),
@@ -46,8 +46,8 @@ Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** 
 *In plain terms: keep sentients and the living systems they depend on going for the long run — stable, sustainable, able to bounce back, and ecologically sound — not just looking fine for now.*
 
 - **What it is**
-  - **In scope:** Judging systems against this aim using the Continuity building blocks and measurement families listed in [Constitutional Aim decomposition](#constitutional-aim-decomposition). The aim is long-horizon stability, sustainability, resilience, and ecological wellbeing for sentients and the life-supporting systems they depend on.
-  - **Depends on:** the themes named in [Preamble §1 The Model](core_00.000_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#constitutional-aim-decomposition):
+  - **In scope:** Judging systems against this aim using the Continuity building blocks and measurement families listed in [Constitutional Aim Decomposition](#constitutional-aim-decomposition). The aim is long-horizon stability, sustainability, resilience, and ecological wellbeing for sentients and the life-supporting systems they depend on.
+  - **Depends on:** the themes named in [Preamble §1 The Model](core_00.000_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim Decomposition](#constitutional-aim-decomposition):
     - [Stewardship](core_05.040_band_continuity.md#stewardship);
     - [Self-Healing](core_05.040_band_continuity.md#self-healing);
     - [Sustainability](core_05.040_band_continuity.md#sustainability);
@@ -60,7 +60,7 @@ Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** 
 <a id="continuity-aim-constitutional-m"></a>
 <a id="continuity-aim-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* See also [Constitutional Aim decomposition](#constitutional-aim-decomposition). This line only points to the measures; the how-to-measure rules sit on each linked definition.
+  - **Primary measure:** [Continuity measurement family](#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* See also [Constitutional Aim Decomposition](#constitutional-aim-decomposition). This line only points to the measures; the how-to-measure rules sit on each linked definition.
   - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#constitutional-aim-decomposition) conditions, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="continuity-aim-constitutional-c"></a>
 - **What must hold**
@@ -74,7 +74,7 @@ Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** 
 
 <a id="continuity-aim-decomposition"></a>
 
-### Constitutional Aim decomposition
+### Constitutional Aim Decomposition
 
 *In plain terms: this map lists Continuity's building blocks — stability, sustainability, ecological wellbeing, dependency, and cross-system support — and where each leaf lives.*
 
@@ -114,7 +114,7 @@ Definitions under this aim inherit this aim's scope unless they expressly narrow
 
 <a id="continuity-measurement-family"></a>
 
-### Measuring Continuity (Preamble measurement family)
+### Measuring Continuity (Preamble Measurement Family)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

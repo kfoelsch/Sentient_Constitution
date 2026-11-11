@@ -21,7 +21,7 @@
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Chapter One §17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.010 §17.1);
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
+  - [Chapter One §18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections:
   - [§1](#1-purpose-scope-and-owner-boundary);
@@ -83,12 +83,12 @@ This chapter applies to every [Materially Binding Act](core_05.035_band_accounta
 - a disbursement or allocation; and
 - a disposition of a challenge.
 
-This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
+This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 The seats in this chapter define who may do what for a particular act; they are not job titles. The same sentient, office, or system may hold different seats for different acts. A title, delegation, technical capability, or ability to perform a step does not enlarge the seat held for that act.
 
 <a id="11-why-the-jobs-are-separated"></a>
-#### 1.1 Why the jobs are separated
+#### 1.1 Why the Jobs Are Separated
 
 *In plain terms: the same lesson has been learned again and again in business, government, and nuclear security. When one party can start an act, approve it, write it down, and judge any complaint about it, no one else is in a position to catch a mistake or a lie.*
 
@@ -104,7 +104,7 @@ Several fields reached the same idea on their own:
 These examples do not show that any one system is flawless. They show that the idea is old and widely used, and that missing separation is a recurring cause of failure. They are reasons, not authority.
 
 <a id="12-why-four-seats"></a>
-#### 1.2 Why four seats
+#### 1.2 Why Four Seats
 
 *In plain terms: two jobs are too few and three leave a gap. Four jobs cover starting the act, checking it, keeping the official record, and hearing a challenge.*
 
@@ -123,7 +123,7 @@ This subsection explains the reasons for the number four. It is non-operative: t
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §18.3](core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.010 §18.3); [Chapter One §17.1](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.010 §17.1).
-- Downstream: [§3](#3-independence-conflict-and-control-lines) through [§9](#9-relationship-to-later-processes); [CI-16.205 §6](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog — process-role archetypes and operational boundaries*).
+- Downstream: [§3](#3-independence-conflict-and-control-lines) through [§9](#9-relationship-to-later-processes); [CI-16.205 §6](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Read with: [§6](#6-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 
 </details>
@@ -261,7 +261,7 @@ Wrong-seat routing should be built into the process wherever practicable. An int
 
 - follows the seat placement published under [§5 Published Placement, Vacancy, and Substitution](#5-published-placement-vacancy-and-substitution) and routes on seat, not on the merits of the act;
 - logs each route as item 3 below requires;
-- follows the published substitute or independent path under [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) when a holder cannot serve, and holds the matter and logs the gap when no seat, substitute, or independent path is placed, rather than sending it to the nearest, fastest, or most senior seat; and
+- follows the published substitute or independent path under [§5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) when a holder cannot serve, and holds the matter and logs the gap when no seat, substitute, or independent path is placed, rather than sending it to the nearest, fastest, or most senior seat; and
 - is not itself a seat-holder and cannot change who holds a seat; only the published placement does.
 
 Where routing is not automated, or fails, the duty below applies to the steward. A steward asked to take a step outside the steward's seat must:
@@ -280,9 +280,9 @@ That response is performance of duty, not abandonment of the act. The act procee
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
-- [§5.1 What the map must say](#51-what-the-map-must-say) lists what the Charter Role Map names: who hosts each seat, for which acts, the permitted mergers, the substitute, the independent route, and the version.
-- [§5.2 Where the map is kept](#52-where-the-map-is-kept) says the map sits in or with the System Charter or Institutional Charter, that a member of a group may adopt the group's shared map by reference, and that a Class P adopter need not publish one.
-- [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) says that a gap is a defect to log and correct, that the seat does not pass to the actor or the actor's control line, and that the act routes to the substitute or independent path meanwhile.
+- [§5.1 What the Map Must Say](#51-what-the-map-must-say) lists what the Charter Role Map names: who hosts each seat, for which acts, the permitted mergers, the substitute, the independent route, and the version.
+- [§5.2 Where the Map Is Kept](#52-where-the-map-is-kept) says the map sits in or with the System Charter or Institutional Charter, that a member of a group may adopt the group's shared map by reference, and that a Class P adopter need not publish one.
+- [§5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) says that a gap is a defect to log and correct, that the seat does not pass to the actor or the actor's control line, and that the act routes to the substitute or independent path meanwhile.
 - [§5.4 Delegation](#54-delegation) says that a seat may be delegated only to a deputy or substitute the map names, and that delegation keeps the seat boundary and cannot create, merge, or widen a seat.
 
 </details>
@@ -295,7 +295,7 @@ That response is performance of duty, not abandonment of the act. The act procee
   - [§3](#3-independence-conflict-and-control-lines);
   - [Transparency](core_05.050_band_oversight.md#transparency);
   - [Auditability](core_05.050_band_oversight.md#auditability).
-- Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*); [CI-16.205 §5](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-5-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Nine and Chapter Eleven records.
+- Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional Separation Lanes*); [CI-16.205 §5](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-5-authorized-roles-and-accountability-chains) (*Authorized Roles and Accountability Chains*); Chapter Nine and Chapter Eleven records.
 - Read with:
   - [System Charter](core_05.040_band_continuity.md#system-charter),
   - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter);
@@ -309,7 +309,7 @@ That response is performance of duty, not abandonment of the act. The act procee
 *In plain terms: an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.*
 
 <a id="51-what-the-map-must-say"></a>
-#### 5.1 What the map must say
+#### 5.1 What the Map Must Say
 
 Every adopter of Class L or higher that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) that identifies:
 
@@ -321,27 +321,27 @@ Every adopter of Class L or higher that takes materially binding acts must maint
 - its version and effective date, so that an act is judged against the map in force when it was taken.
 
 <a id="52-where-the-map-is-kept"></a>
-#### 5.2 Where the map is kept
+#### 5.2 Where the Map Is Kept
 
 The map is kept in or with the adopter's [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter).
 
-A member of a group that publishes a shared map for the seats it hosts may adopt that map by reference ([§6.3 Seats held in common](#63-seats-held-in-common)), and still names its own substitute and independent route.
+A member of a group that publishes a shared map for the seats it hosts may adopt that map by reference ([§6.3 Seats Held in Common](#63-seats-held-in-common)), and still names its own substitute and independent route.
 
 A Class P adopter is outside this chapter ([§1 Purpose, Scope, and Owner Boundary](#1-purpose-scope-and-owner-boundary)) and need not publish a map. It may still publish one, alone or with a voluntary System or Institutional Charter ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)).
 
 <a id="53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve"></a>
-#### 5.3 A seat the map leaves unplaced, or a holder who cannot serve
+#### 5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve
 
 An unplaced seat, or a holder who is absent, excluded, captured, or conflicted, is a governance defect to log and correct.
 
 - The seat does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_05.035_band_accountability.md#material-control-line).
 - Until corrected, the act routes to the published substitute or independent path, however urgent the act.
-- For a certification seat that the Charter Role Map leaves unplaced, the correction must meet the response and resolution windows, counted from the logged notice of the gap, as set out in [Chapter Seven §4.7.4 Certification seats](core_07.000_charters.md#474-certification-seats).
+- For a certification seat that the Charter Role Map leaves unplaced, the correction must meet the response and resolution windows, counted from the logged notice of the gap, as set out in [Chapter Seven §4.7.4 Certification Seats](core_07.000_charters.md#474-certification-seats).
 
 <a id="54-delegation"></a>
 #### 5.4 Delegation
 
-A seat holder may delegate the seat only to a deputy or substitute that the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names. A delegation to anyone else leaves the seat unplaced, and [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) applies. Naming a new deputy or substitute changes the map ([Chapter Seven §4.5 Changing seat rules and seat holders](core_07.000_charters.md#45-changing-seat-rules-and-seat-holders)). A delegation cannot do it.
+A seat holder may delegate the seat only to a deputy or substitute that the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names. A delegation to anyone else leaves the seat unplaced, and [§5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) applies. Naming a new deputy or substitute changes the map ([Chapter Seven §4.5 Changing Seat Rules and Seat Holders](core_07.000_charters.md#45-changing-seat-rules-and-seat-holders)). A delegation cannot do it.
 
 A delegation keeps the same seat boundary, evidence duties, record, and clock, and the delegate stays subject to the [Material Control Line](core_05.035_band_accountability.md#material-control-line). It does not create a new seat, merge seats, or allow a delegate to do what the delegating seat could not do. A delegate who holds a second seat on the same act is a merger, and only the merged-hosting arrangements the map lists under [§6 Proportional Scaling and Merged Hosting](#6-proportional-scaling-and-merged-hosting) allow one.
 
@@ -353,12 +353,12 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
-- [§6.1 How separation scales](#61-how-separation-scales) says that the strength, staffing, redundancy, and formality of separation scale with stake, class, dependency, and foreseeable harm, while the four seats stay distinct.
-- [§6.2 Merging two seats in one office](#62-merging-two-seats-in-one-office) lists the conditions under which a small or informal adopter may place two seats in one office, and the pairings that stay barred.
-- [§6.3 Seats held in common](#63-seats-held-in-common) says how a small business places a seat with a cooperative, association, or other independent body, and the independence rules that apply.
-- [§6.4 Joint professional practice](#64-joint-professional-practice) says how a sentient or small practice of Class L or higher may place its seats with a host and adopt the host's documents, for any work, and what more applies to acts that need a practice licence or practice clearance.
-- [§6.5 Informal and community work](#65-informal-and-community-work) says that such work may use an independent relying body with published authority for the verification.
-- [§6.6 Stake, class, and what does not justify a merger](#66-stake-class-and-what-does-not-justify-a-merger) says that high stake keeps the presumption of separate offices, and that staffing, speed, or convenience alone never justify a merger.
+- [§6.1 How Separation Scales](#61-how-separation-scales) says that the strength, staffing, redundancy, and formality of separation scale with stake, class, dependency, and foreseeable harm, while the four seats stay distinct.
+- [§6.2 Merging Two Seats in One Office](#62-merging-two-seats-in-one-office) lists the conditions under which a small or informal adopter may place two seats in one office, and the pairings that stay barred.
+- [§6.3 Seats Held in Common](#63-seats-held-in-common) says how a small business places a seat with a cooperative, association, or other independent body, and the independence rules that apply.
+- [§6.4 Joint Professional Practice](#64-joint-professional-practice) says how a sentient or small practice of Class L or higher may place its seats with a host and adopt the host's documents, for any work, and what more applies to acts that need a practice licence or practice clearance.
+- [§6.5 Informal and Community Work](#65-informal-and-community-work) says that such work may use an independent relying body with published authority for the verification.
+- [§6.6 Stake, Class, and What Does Not Justify a Merger](#66-stake-class-and-what-does-not-justify-a-merger) says that high stake keeps the presumption of separate offices, and that staffing, speed, or convenience alone never justify a merger.
 
 </details>
 
@@ -370,7 +370,7 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Necessity](core_05.035_band_accountability.md#necessity);
   - [Proportionality](core_05.035_band_accountability.md#proportionality).
-- Downstream: [Chapter Eleven §5.9](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) (11.000 §5.9); [CJS-20.110 §4](corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
+- Downstream: [Chapter Eleven §5.9](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) (11.000 §5.9); [CJS-20.110 §4](corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional Separation Lanes*).
 - Read with: [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and Chapter One [§3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -380,12 +380,12 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
 *In plain terms: small and informal groups do not need four large departments. They do need a real independent check, a usable record, and a challenge path. Scale changes the staffing method, not the protected separation.*
 
 <a id="61-how-separation-scales"></a>
-#### 6.1 How separation scales
+#### 6.1 How Separation Scales
 
 The strength, staffing, redundancy, and formality of separation scale with material stake, system class, dependency, and reasonably foreseeable harm.
 
 <a id="62-merging-two-seats-in-one-office"></a>
-#### 6.2 Merging two seats in one office
+#### 6.2 Merging Two Seats in One Office
 
 A small or informal adopter may place two seats in one office or sentient only where all of the following hold:
 
@@ -397,7 +397,7 @@ A small or informal adopter may place two seats in one office or sentient only w
 - an independent route remains available when conflict, material harm, or challenge exceeds the merged holder's lawful boundary.
 
 <a id="63-seats-held-in-common"></a>
-#### 6.3 Seats held in common
+#### 6.3 Seats Held in Common
 
 A business run by a single sentient or a few may place its verify-or-authorize, record, or contest seat with a local cooperative or association of such businesses, or with any other independent relying body. This is not a merger, because the seats stay with separate holders. It is how a business too small to staff four seats still meets the separation-of-duties requirement in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement). The same independence rules apply as to any seat placement, together with these rules for the group:
 
@@ -411,11 +411,11 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
 - **No compulsion:** No business is required to join, and no group is the only route.
 - **Admission limits:** A group may refuse or defer an applicant for a reason tied to what the group can serve, so that it is never forced to take on more than it can carry. Such reasons include:
   - **Capacity:** the applicant's expected volume of material acts would use up capacity that existing members rely on. The group may cap the volume it takes from any one member or keep a waiting list;
-  - **Fit:** the applicant's kind of acts or class is outside what the group's seat holders are qualified and staffed to serve, such as work that needs more competency redundancy than the group has ([§6.6 Stake, class, and what does not justify a merger](#66-stake-class-and-what-does-not-justify-a-merger));
+  - **Fit:** the applicant's kind of acts or class is outside what the group's seat holders are qualified and staffed to serve, such as work that needs more competency redundancy than the group has ([§6.6 Stake, Class, and What Does Not Justify a Merger](#66-stake-class-and-what-does-not-justify-a-merger));
   - **Independence:** the group's holders could not serve the applicant's acts independently, because the applicant is inside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of one of them; and
   - **Conduct:** the applicant has broken the group's published terms before, or will not accept them.
 - **How the limits are applied:** Every admission limit:
-  - is stated in the group's System Charter or Institutional Charter ([Chapter Seven §3.1 What a System Charter states](core_07.000_charters.md#31-what-a-system-charter-states)), so it is published before it is applied;
+  - is stated in the group's System Charter or Institutional Charter ([Chapter Seven §3.1 What a System Charter States](core_07.000_charters.md#31-what-a-system-charter-states)), so it is published before it is applied;
   - applies the same way to like applicants;
   - is not used to shield members from competition or to make the group the only route to a seat in its area;
   - is explained in writing to a refused applicant; and
@@ -425,7 +425,7 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
   - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([CS-6.305 §1.2 Continuity-critical collection and exportability](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
   - hands the record seat for those acts to the holder the member names, and stays the record seat holder until the member names one, so the Act Records stay reconstructable while a challenge, correction, or remedy is open ([§8 Act Records and Attributable Handoffs](#8-act-records-and-attributable-handoffs)); and
   - keeps only what its own duties still require, such as the Act Record of an act it hosted for another member or of an act still under challenge, and only for the retention period it disclosed ([CS-6.305 §1.3 Collection notice and deletion](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)).
-- **Data kept by the group:** What the group keeps is handled by data type under [CS-6.310 §9 Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-9-data-classifications):
+- **Data kept by the group:** What the group keeps is handled by data type under [CS-6.310 §9 Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-9-data-classifications):
   - **Identity and attribution data (Type I):** used only to verify who held each seat and who acted;
   - **Participation and transaction data (Type H):** used only for the official record, audit, and challenge duties of the act;
   - **Governance source data (Type G):** open to audit and not public by default;
@@ -433,27 +433,27 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
   - **The member's own works (Type Y and Type W):** returned to the member, and deleted from the group's copies when the member directs.
 
 <a id="64-joint-professional-practice"></a>
-#### 6.4 Joint professional practice
+#### 6.4 Joint Professional Practice
 
 A sentient or small practice of Class L or higher may place its seats with a host and adopt the host's documents:
 
 - **Who the host may be:** A professional association, cooperative, employer, or public registry, wherever it is based.
 - **What the practice adopts:** The host's published map and Institutional Charter, by reference, for the acts they cover.
 - **Any work:** This route is open for all of the practice's acts, whether or not they need a practice licence or practice clearance, so a practice with both kinds of work can use one host for all of it.
-- **The same rules:** The rules in [§6.3 Seats held in common](#63-seats-held-in-common) apply to the host and the practice, including the host's independence from the practice, the four seats and an independent route for the host's own acts, published admission limits, and the rule for a member that leaves.
-- **Listed acts:** For an act listed for a practice licence or practice clearance under [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), the host's standards also come from a technical forum finding, the host checks that each practitioner holds the licence or clearance, and a public host of last resort admits any holder. For other work, the host admits and refuses only under the admission limits in [§6.3 Seats held in common](#63-seats-held-in-common), and it may not write competence criteria that keep a sentient out of work the Constitution does not gate.
-- **The host's added duties:** **CI-16.205 §7** (*Practice licence, practice clearance, and joint professional practice*) states the host's added duties and the safeguards against capture.
+- **The same rules:** The rules in [§6.3 Seats Held in Common](#63-seats-held-in-common) apply to the host and the practice, including the host's independence from the practice, the four seats and an independent route for the host's own acts, published admission limits, and the rule for a member that leaves.
+- **Listed acts:** For an act listed for a practice licence or practice clearance under [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), the host's standards also come from a technical forum finding, the host checks that each practitioner holds the licence or clearance, and a public host of last resort admits any holder. For other work, the host admits and refuses only under the admission limits in [§6.3 Seats Held in Common](#63-seats-held-in-common), and it may not write competence criteria that keep a sentient out of work the Constitution does not gate.
+- **The host's added duties:** **CI-16.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*) states the host's added duties and the safeguards against capture.
 - **Meets the requirement:** Joining a host this way meets the separation-of-duties requirement in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) for the acts the host's documents cover.
 
 <a id="65-informal-and-community-work"></a>
-#### 6.5 Informal and community work
+#### 6.5 Informal and Community Work
 
 Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](core_05.035_band_accountability.md#independence) relying body with published authority for the relevant verification. The Constitution does not require such work to build formal offices, staffing, or procedures beyond what its size and means can reasonably support, as long as the verification runs through a genuinely independent and accountable route.
 
 <a id="66-stake-class-and-what-does-not-justify-a-merger"></a>
-#### 6.6 Stake, class, and what does not justify a merger
+#### 6.6 Stake, Class, and What Does Not Justify a Merger
 
-The higher the stakes, the stronger the starting expectation that each seat sits in its own office and that each job has a qualified backup, meaning more than one sentient able to do it (competency redundancy). Sharing a seat through a group under [§6.3 Seats held in common](#63-seats-held-in-common) does not lower that expectation.
+The higher the stakes, the stronger the starting expectation that each seat sits in its own office and that each job has a qualified backup, meaning more than one sentient able to do it (competency redundancy). Sharing a seat through a group under [§6.3 Seats Held in Common](#63-seats-held-in-common) does not lower that expectation.
 
 Being short of staff, in a hurry, or wanting convenience is not enough to justify putting two seats in one office. Neither is having one expert who knows more than anyone else. The class rules in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) apply:
 
@@ -471,10 +471,10 @@ The more harm that could follow and the more others depend on the work, the hard
 - Upstream:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [Chapter Fifteen §6.1 Emergency measures and continuation burden](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1);
+  - [Chapter Fifteen §6.1 Emergency Measures and Continuation Burden](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1);
   - [default interim posture](core_01.005_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
-- Read with: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [CI-16.205 §6 Seat catalog — process-role archetypes and operational boundaries](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Read with: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [CI-16.205 §6 Seat Catalog — Process-Role Archetypes and Operational Boundaries](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -576,7 +576,7 @@ Every later constitutional process must explain how it assigns and uses all four
 - A separate duplicate Act Record is not required when the official record path remains complete and traceable.
 - Giving a process a different name does not exempt it from [§4 Wrong-Seat Routing](#4-wrong-seat-routing) or [§8 Act Records and Attributable Handoffs](#8-act-records-and-attributable-handoffs), including their handoff and wrong-seat rules.
 
-A later chapter may add stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this chapter's requirements, and a seat that is unplaced does not pass to the actor under [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve).
+A later chapter may add stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this chapter's requirements, and a seat that is unplaced does not pass to the actor under [§5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve).
 
 ---
 

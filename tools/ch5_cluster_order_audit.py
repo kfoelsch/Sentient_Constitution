@@ -18,7 +18,7 @@ from ch5_paths import CH5_BANDS, CH5_INDEX
 
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
-    "#### Accountability, contestability, and redress pathways": [
+    "#### Accountability, Contestability, and Redress Pathways": [
         # Accountability and Timeliness leg heads live in core_05.005_apex_accountability_leg.md
         "Attributable Action",
         "Attribution Integrity",
@@ -40,38 +40,38 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Restorative Justice",
         "Force Majeure",
     ],
-    "#### Assembly, collective organization, and institutional formation": [
+    "#### Assembly, Collective Organization, and Institutional Formation": [
         "Assembly",
         "Collective Organization",
         "System Creation",
         "Business Creation",
         "Commercial Compliance",
     ],
-    "#### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty": [
+    "#### Constitutional Efficiency, Productive Capacity, Avoidable Burden, and Burden-Reduction Duty": [
         "Shared-System Capacity",
         "Constitutional Efficiency",
         "Productive Capacity",
         "Avoidable Burden",
         "Burden-Reduction Duty",
     ],
-    "#### Agency, consent, and anti-coercion": [
+    "#### Agency, Consent, and Anti-Coercion": [
         "Meaningful Agency",
         "Consent",
         "Consent, Sexual",
         "Coercion and Manipulation",
     ],
-    "#### Emergency and contingency": [
+    "#### Emergency and Contingency Cluster": [
         "Emergency and Contingency",
         "Constitutional Emergency and Contingency",
         "Stakeholder Emergency and Contingency",
         "Emergency Pre-Deliberation Action (Binding Collective Choice)",
     ],
-    "#### Movement, refuge, and non-statelessness": [
+    "#### Movement, Refuge, and Non-Statelessness": [
         "Movement and Relocation",
         "Refuge from Non-Compliance",
         "Non-Statelessness",
     ],
-    "#### Governance architecture, decentralization, and concentration": [
+    "#### Governance Architecture, Decentralization, and Concentration": [
         "Governance",
         "Material Control Line",
         "Interested Party",
@@ -89,7 +89,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Market Structure",
         "Market Concentration Threshold",
     ],
-    "#### Systemic effects and capture": [
+    "#### Systemic Effects and Capture": [
         "Systemic",
         "Systemic Materiality",
         "System Capture",
@@ -98,16 +98,16 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
 }
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
-    "#### Protected reporting and anti-retaliation",
-    "#### Fairness, protected characteristics, and nondiscrimination",
-    "#### Family, care, reproductive autonomy, and instantiation",
-    "#### Ecological integrity, footprint, and sustainability",
-    "#### System boundaries, integrity, and exit",
-    "#### Stakeholder status and weight",
+    "#### Protected Reporting and Anti-Retaliation",
+    "#### Fairness, Protected Characteristics, and Nondiscrimination",
+    "#### Family, Care, Reproductive Autonomy, and Instantiation",
+    "#### Ecological Integrity, Footprint, and Sustainability",
+    "#### System Boundaries, Integrity, and Exit",
+    "#### Stakeholder Status and Weight",
     "#### Survival-floor continuity: bodily maintenance, tenure, and environment",
-    "#### Community-anchored continuity: indigenous, language, culture, and heritage",
-    "#### Materiality, impact, risk, and proxy integrity",
-    "#### Dependency and cross-system support",
+    "#### Community-Anchored Continuity: Indigenous, Language, Culture, and Heritage",
+    "#### Materiality, Impact, Risk, and Proxy Integrity",
+    "#### Dependency and Cross-System Support",
 }
 
 
@@ -128,7 +128,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Sixteen §4.3 Decision-resolution requirements for binding stakeholder choice",
+        "Chapter Sixteen §4.3 Decision-Resolution Requirements for Binding Stakeholder Choice",
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",

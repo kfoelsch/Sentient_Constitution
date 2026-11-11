@@ -13,7 +13,7 @@
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
 - Create new forum families beyond those authorized in [Chapter Fifteen](core_15.000_forum.md)
-- Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and data](corpus_systems.md))
+- Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and Data](corpus_systems.md))
 
 **Implements from the core files:**
 - [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
@@ -24,8 +24,8 @@
 **Siblings:**
 - Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Fifteen](core_15.000_forum.md)) before operational detail
 - [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
-- [Systems and data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
-- [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
+- [Systems and Data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
+- [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
 **Binding:** When an adopter incorporates this layer under [Chapter Twenty](core_20.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
@@ -58,41 +58,41 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-0.410: Scope, authority, and boundary rules | [cf_00.410_scope_authority_boundary_rules.md](corpus_forum/cf_00.410_scope_authority_boundary_rules.md) |
+| CF-0.410: Scope, Authority, and Boundary Rules | [cf_00.410_scope_authority_boundary_rules.md](corpus_forum/cf_00.410_scope_authority_boundary_rules.md) |
 | CF-2 (reserved) | Retired family ID. Domain routing formerly labeled CF-2 lives in the CF-0.405 registry annex. See [cf_00.405_registry_and_reading_rules.md](corpus_forum/cf_00.405_registry_and_reading_rules.md#forums-domain-routing-integrator-annex). |
 
-### Constitution and panels
+### Constitution and Panels
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-15.405: Forum formation, forum-structure mapping, and chamber structure | [cf_15.405_forum_formation_chamber_structure.md](corpus_forum/cf_15.405_forum_formation_chamber_structure.md) |
-| CF-15.410: Panel formation, disclosure, recusal, and lawful bench constitution | [cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md](corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md) |
+| CF-15.405: Forum Formation, Forum-Structure Mapping, and Chamber Structure | [cf_15.405_forum_formation_chamber_structure.md](corpus_forum/cf_15.405_forum_formation_chamber_structure.md) |
+| CF-15.410: Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution | [cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md](corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md) |
 
 ### Process
 
 | Stable family | Authoritative subfile |
 |---|---|
 | CF-15.415: Routing operations, transfer, certification, and representative treatment | [cf_15.415_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md) |
-| CF-15.420: Appeal, secondary review, and exhaustion pathways | [cf_15.420_appeal_secondary_review_exhaustion_pathways.md](corpus_forum/cf_15.420_appeal_secondary_review_exhaustion_pathways.md) |
-| CF-15.425: Integrity safeguards, anti-capture operations, and anti-self-judging support | [cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md](corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md) |
+| CF-15.420: Appeal, Secondary Review, and Exhaustion Pathways | [cf_15.420_appeal_secondary_review_exhaustion_pathways.md](corpus_forum/cf_15.420_appeal_secondary_review_exhaustion_pathways.md) |
+| CF-15.425: Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support | [cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md](corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md) |
 
-### Specialist support
+### Specialist Support
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-15.430: Forum forensic and analytical support | [cf_15.430_forum_forensic_analytical_support.md](corpus_forum/cf_15.430_forum_forensic_analytical_support.md) |
-| CF-15.435: Independent investigative service and prosecution interface | [cf_15.435_independent_investigative_service_prosecution_interface.md](corpus_forum/cf_15.435_independent_investigative_service_prosecution_interface.md) |
-| CF-15.440: Technical specialist forums and specialist chambers | [cf_15.440_technical_specialist_forums_specialist_chambers.md](corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md) |
+| CF-15.430: Forum Forensic and Analytical Support | [cf_15.430_forum_forensic_analytical_support.md](corpus_forum/cf_15.430_forum_forensic_analytical_support.md) |
+| CF-15.435: Independent Investigative Service and Prosecution Interface | [cf_15.435_independent_investigative_service_prosecution_interface.md](corpus_forum/cf_15.435_independent_investigative_service_prosecution_interface.md) |
+| CF-15.440: Technical Specialist Forums and Specialist Chambers | [cf_15.440_technical_specialist_forums_specialist_chambers.md](corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md) |
 
-### Continuity under stress
+### Continuity under Stress
 
 | Stable family | Authoritative subfile |
 |---|---|
 | CF-15.445: Forum performance, backlog, publication timeliness, and accessibility | [cf_15.445_performance_backlog_publication_accessibility.md](corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md) |
-| CF-15.450: Forum continuity | [cf_15.450_forum_continuity.md](corpus_forum/cf_15.450_forum_continuity.md) |
-| CF-15.455: Fallback operation | [cf_15.455_fallback_operation.md](corpus_forum/cf_15.455_fallback_operation.md) |
-| CF-15.460: Emergency adjudication | [cf_15.460_emergency_adjudication.md](corpus_forum/cf_15.460_emergency_adjudication.md) |
-| CF-15.465: Standard records, forms, and evidence artifacts | [cf_15.465_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_15.465_standard_records_forms_evidence_artifacts.md) |
+| CF-15.450: Forum Continuity | [cf_15.450_forum_continuity.md](corpus_forum/cf_15.450_forum_continuity.md) |
+| CF-15.455: Fallback Operation | [cf_15.455_fallback_operation.md](corpus_forum/cf_15.455_fallback_operation.md) |
+| CF-15.460: Emergency Adjudication | [cf_15.460_emergency_adjudication.md](corpus_forum/cf_15.460_emergency_adjudication.md) |
+| CF-15.465: Standard Records, Forms, and Evidence Artifacts | [cf_15.465_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_15.465_standard_records_forms_evidence_artifacts.md) |
 | CF-15.470: Forum staffing, reserve capacity, shared administration, and structural records | [cf_15.470_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_15.470_staffing_reserve_capacity_structural_records.md) |
 <!-- END GENERATED FAMILY INDEX -->
 </details>

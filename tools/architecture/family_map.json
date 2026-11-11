@@ -33,7 +33,7 @@
       "groups": [
         {
           "id": "reader_guide",
-          "title": "Reader guide (non-operative)",
+          "title": "Reader Guide (Non-Operative)",
           "entries": [
             {
               "id": "CJS-RG",
@@ -59,7 +59,7 @@
         },
         {
           "id": "scope",
-          "title": "Scope and contract",
+          "title": "Scope and Contract",
           "entries": [
             {
               "id": "CJS-0.110",
@@ -71,7 +71,7 @@
         },
         {
           "id": "drafting",
-          "title": "Drafting contracts",
+          "title": "Drafting Contracts",
           "entries": [
             {
               "id": "CJS-20.105",
@@ -83,7 +83,7 @@
         },
         {
           "id": "odef_parse",
-          "title": "oDef parse mechanics",
+          "title": "oDef Parse Mechanics",
           "entries": [
             {
               "id": "CJS-5.140",
@@ -99,7 +99,7 @@
           "entries": [
             {
               "id": "CJS-20.110",
-              "label": "CJS-20.110: Specific joint interlocks and shared abstractions",
+              "label": "CJS-20.110: Specific Joint Interlocks and Shared Abstractions",
               "file": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
               "status": "active"
             },
@@ -113,7 +113,7 @@
         },
         {
           "id": "worked_examples",
-          "title": "Worked examples",
+          "title": "Worked Examples",
           "entries": [
             {
               "id": "CJS-11.105",
@@ -125,7 +125,7 @@
         },
         {
           "id": "odef",
-          "title": "oDef library (CJS-5.105–CJS-5.135)",
+          "title": "oDef Library (CJS-5.105–CJS-5.135)",
           "entries": [
             {
               "id": "CJS-5.105",
@@ -196,7 +196,7 @@
           "entries": [
             {
               "id": "CS-0.310",
-              "label": "CS-0.310: Scope, purpose, and boundary interface",
+              "label": "CS-0.310: Scope, Purpose, and Boundary Interface",
               "file": "corpus_systems/cs_00.310_scope_purpose_identifier_rules.md",
               "status": "active"
             }
@@ -252,7 +252,7 @@
         },
         {
           "id": "protocols",
-          "title": "Engineering protocols",
+          "title": "Engineering Protocols",
           "entries": [
             {
               "id": "CS-6.345",
@@ -335,7 +335,7 @@
           "entries": [
             {
               "id": "CI-0.210",
-              "label": "CI-0.210: Scope, purpose, and legitimacy interface",
+              "label": "CI-0.210: Scope, Purpose, and Legitimacy Interface",
               "file": "corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md",
               "status": "active"
             },
@@ -351,17 +351,17 @@
         },
         {
           "id": "formation",
-          "title": "Formation and custody",
+          "title": "Formation and Custody",
           "entries": [
             {
               "id": "CI-8.205",
-              "label": "CI-8.205: Institutional design, separation of powers, and authority custody",
+              "label": "CI-8.205: Institutional Design, Separation of Powers, and Authority Custody",
               "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md",
               "status": "active"
             },
             {
               "id": "CI-16.205",
-              "label": "CI-16.205: Appointment, competency, rotation, and removal",
+              "label": "CI-16.205: Appointment, Competency, Rotation, and Removal",
               "file": "corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md",
               "status": "active"
             }
@@ -369,17 +369,17 @@
         },
         {
           "id": "integrity",
-          "title": "Integrity and procedure",
+          "title": "Integrity and Procedure",
           "entries": [
             {
               "id": "CI-8.210",
-              "label": "CI-8.210: Conflict integrity, anti-capture, and anti-corruption",
+              "label": "CI-8.210: Conflict Integrity, Anti-Capture, and Anti-Corruption",
               "file": "corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md",
               "status": "active"
             },
             {
               "id": "CI-15.205",
-              "label": "CI-15.205: Procedure integrity, contestability, and secondary review",
+              "label": "CI-15.205: Procedure Integrity, Contestability, and Secondary Review",
               "file": "corpus_institutions/ci_15.205_procedure_integrity_contestability_secondary_review.md",
               "status": "active"
             }
@@ -387,23 +387,23 @@
         },
         {
           "id": "oversight",
-          "title": "Oversight and participation",
+          "title": "Oversight and Participation",
           "entries": [
             {
               "id": "CI-8.215",
-              "label": "CI-8.215: Oversight, assurance, controls, and evidence",
+              "label": "CI-8.215: Oversight, Assurance, Controls, and Evidence",
               "file": "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md",
               "status": "active"
             },
             {
               "id": "CI-6.205",
-              "label": "CI-6.205: Transparency, participation, and accessible challenge and service pathways",
+              "label": "CI-6.205: Transparency, Participation, and Accessible Challenge and Service Pathways",
               "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md",
               "status": "active"
             },
             {
               "id": "CI-9.210",
-              "label": "CI-9.210: Classification-linked institutional obligations",
+              "label": "CI-9.210: Classification-Linked Institutional Obligations",
               "file": "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md",
               "status": "active"
             }
@@ -411,23 +411,23 @@
         },
         {
           "id": "resources",
-          "title": "Resources and coordination",
+          "title": "Resources and Coordination",
           "entries": [
             {
               "id": "CI-6.210",
-              "label": "CI-6.210: Public revenue, fees, recurring charges, and billing integrity",
+              "label": "CI-6.210: Public Revenue, Fees, Recurring Charges, and Billing Integrity",
               "file": "corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md",
               "status": "active"
             },
             {
               "id": "CI-6.215",
-              "label": "CI-6.215: Resource stewardship and incentive integrity",
+              "label": "CI-6.215: Resource Stewardship and Incentive Integrity",
               "file": "corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md",
               "status": "active"
             },
             {
               "id": "CI-15.210",
-              "label": "CI-15.210: Cross-institution coordination and escalation",
+              "label": "CI-15.210: Cross-Institution Coordination and Escalation",
               "file": "corpus_institutions/ci_15.210_cross_institution_coordination_escalation.md",
               "status": "active"
             }
@@ -439,19 +439,19 @@
           "entries": [
             {
               "id": "CI-13.210",
-              "label": "CI-13.210: Institutional failure and dissolution",
+              "label": "CI-13.210: Institutional Failure and Dissolution",
               "file": "corpus_institutions/ci_13.210_institutional_failure_dissolution.md",
               "status": "active"
             },
             {
               "id": "CI-13.215",
-              "label": "CI-13.215: Institutional accountability and sanctions",
+              "label": "CI-13.215: Institutional Accountability and Sanctions",
               "file": "corpus_institutions/ci_13.215_institutional_accountability_sanctions.md",
               "status": "active"
             },
             {
               "id": "CI-6.275",
-              "label": "CI-6.275: Adoption Transition governance and institutional evolution",
+              "label": "CI-6.275: Adoption Transition Governance and Institutional Evolution",
               "file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
               "status": "active"
             }
@@ -459,29 +459,29 @@
         },
         {
           "id": "domain-care",
-          "title": "Domain interfaces — care and sentients",
+          "title": "Domain Interfaces — Care and Sentients",
           "entries": [
             {
               "id": "CI-6.220",
-              "label": "CI-6.220: Neurodiversity, disability justice, and trauma-informed participation",
+              "label": "CI-6.220: Neurodiversity, Disability Justice, and Trauma-Informed Participation",
               "file": "corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md",
               "status": "active"
             },
             {
               "id": "CI-6.225",
-              "label": "CI-6.225: Care labor, dependent support, respite, and care-economy fairness",
+              "label": "CI-6.225: Care Labor, Dependent Support, Respite, and Care-Economy Fairness",
               "file": "corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md",
               "status": "active"
             },
             {
               "id": "CI-6.230",
-              "label": "CI-6.230: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
+              "label": "CI-6.230: End-of-Life Continuity, Memorial Dignity, and Posthumous-Data Stewardship",
               "file": "corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md",
               "status": "active"
             },
             {
               "id": "CI-6.235",
-              "label": "CI-6.235: Collective public health, epidemic response, and addiction-informed care",
+              "label": "CI-6.235: Collective Public Health, Epidemic Response, and Addiction-Informed Care",
               "file": "corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md",
               "status": "active"
             }
@@ -489,7 +489,7 @@
         },
         {
           "id": "domain-commons",
-          "title": "Domain interfaces — markets, commons, and place",
+          "title": "Domain Interfaces — Markets, Commons, and Place",
           "entries": [
             {
               "id": "CI-6.240",
@@ -499,25 +499,25 @@
             },
             {
               "id": "CI-6.245",
-              "label": "CI-6.245: Relational coercive control, intimate power, and anti-domination routing",
+              "label": "CI-6.245: Relational Coercive Control, Intimate Power, and Anti-Domination Routing",
               "file": "corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md",
               "status": "active"
             },
             {
               "id": "CI-6.250",
-              "label": "CI-6.250: Community life, voluntary association, and non-instrumental time",
+              "label": "CI-6.250: Community Life, Voluntary Association, and Non-Instrumental Time",
               "file": "corpus_institutions/ci_06.250_community_life_voluntary_association_non_instrumental_time.md",
               "status": "active"
             },
             {
               "id": "CI-6.255",
-              "label": "CI-6.255: Commons, cooperatives, mutual aid, and non-market community governance",
+              "label": "CI-6.255: Commons, Cooperatives, Mutual Aid, and Non-Market Community Governance",
               "file": "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md",
               "status": "active"
             },
             {
               "id": "CI-6.260",
-              "label": "CI-6.260: Place-based stewardship, Indigenous continuity, and consultation routes",
+              "label": "CI-6.260: Place-Based Stewardship, Indigenous Continuity, and Consultation Routes",
               "file": "corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md",
               "status": "active"
             }
@@ -525,17 +525,17 @@
         },
         {
           "id": "domain-knowledge",
-          "title": "Domain interfaces — knowledge",
+          "title": "Domain Interfaces — Knowledge",
           "entries": [
             {
               "id": "CI-6.265",
-              "label": "CI-6.265: Innovation reward, disclosure, and anti-enclosure",
+              "label": "CI-6.265: Innovation Reward, Disclosure, and Anti-Enclosure",
               "file": "corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md",
               "status": "active"
             },
             {
               "id": "CI-6.270",
-              "label": "CI-6.270: Scientific publication, peer review, replication, and evidence stewardship",
+              "label": "CI-6.270: Scientific Publication, Peer Review, Replication, and Evidence Stewardship",
               "file": "corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md",
               "status": "active"
             }
@@ -543,17 +543,17 @@
         },
         {
           "id": "registry-remedy",
-          "title": "Registry and remedy",
+          "title": "Registry and Remedy",
           "entries": [
             {
               "id": "CI-0.215",
-              "label": "CI-0.215: Compliance mapping and stable registry",
+              "label": "CI-0.215: Compliance Mapping and Stable Registry",
               "file": "corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md",
               "status": "active"
             },
             {
               "id": "CI-13.205",
-              "label": "CI-13.205: Remedy systems and institutional redress capacity",
+              "label": "CI-13.205: Remedy Systems and Institutional Redress Capacity",
               "file": "corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md",
               "status": "active"
             }
@@ -584,7 +584,7 @@
           "entries": [
             {
               "id": "CF-0.410",
-              "label": "CF-0.410: Scope, authority, and boundary rules",
+              "label": "CF-0.410: Scope, Authority, and Boundary Rules",
               "file": "corpus_forum/cf_00.410_scope_authority_boundary_rules.md",
               "status": "active"
             },
@@ -600,17 +600,17 @@
         },
         {
           "id": "constitution",
-          "title": "Constitution and panels",
+          "title": "Constitution and Panels",
           "entries": [
             {
               "id": "CF-15.405",
-              "label": "CF-15.405: Forum formation, forum-structure mapping, and chamber structure",
+              "label": "CF-15.405: Forum Formation, Forum-Structure Mapping, and Chamber Structure",
               "file": "corpus_forum/cf_15.405_forum_formation_chamber_structure.md",
               "status": "active"
             },
             {
               "id": "CF-15.410",
-              "label": "CF-15.410: Panel formation, disclosure, recusal, and lawful bench constitution",
+              "label": "CF-15.410: Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution",
               "file": "corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md",
               "status": "active"
             }
@@ -628,13 +628,13 @@
             },
             {
               "id": "CF-15.420",
-              "label": "CF-15.420: Appeal, secondary review, and exhaustion pathways",
+              "label": "CF-15.420: Appeal, Secondary Review, and Exhaustion Pathways",
               "file": "corpus_forum/cf_15.420_appeal_secondary_review_exhaustion_pathways.md",
               "status": "active"
             },
             {
               "id": "CF-15.425",
-              "label": "CF-15.425: Integrity safeguards, anti-capture operations, and anti-self-judging support",
+              "label": "CF-15.425: Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support",
               "file": "corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md",
               "status": "active"
             }
@@ -642,23 +642,23 @@
         },
         {
           "id": "specialist",
-          "title": "Specialist support",
+          "title": "Specialist Support",
           "entries": [
             {
               "id": "CF-15.430",
-              "label": "CF-15.430: Forum forensic and analytical support",
+              "label": "CF-15.430: Forum Forensic and Analytical Support",
               "file": "corpus_forum/cf_15.430_forum_forensic_analytical_support.md",
               "status": "active"
             },
             {
               "id": "CF-15.435",
-              "label": "CF-15.435: Independent investigative service and prosecution interface",
+              "label": "CF-15.435: Independent Investigative Service and Prosecution Interface",
               "file": "corpus_forum/cf_15.435_independent_investigative_service_prosecution_interface.md",
               "status": "active"
             },
             {
               "id": "CF-15.440",
-              "label": "CF-15.440: Technical specialist forums and specialist chambers",
+              "label": "CF-15.440: Technical Specialist Forums and Specialist Chambers",
               "file": "corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md",
               "status": "active"
             }
@@ -666,7 +666,7 @@
         },
         {
           "id": "continuity",
-          "title": "Continuity under stress",
+          "title": "Continuity under Stress",
           "entries": [
             {
               "id": "CF-15.445",
@@ -676,25 +676,25 @@
             },
             {
               "id": "CF-15.450",
-              "label": "CF-15.450: Forum continuity",
+              "label": "CF-15.450: Forum Continuity",
               "file": "corpus_forum/cf_15.450_forum_continuity.md",
               "status": "active"
             },
             {
               "id": "CF-15.455",
-              "label": "CF-15.455: Fallback operation",
+              "label": "CF-15.455: Fallback Operation",
               "file": "corpus_forum/cf_15.455_fallback_operation.md",
               "status": "active"
             },
             {
               "id": "CF-15.460",
-              "label": "CF-15.460: Emergency adjudication",
+              "label": "CF-15.460: Emergency Adjudication",
               "file": "corpus_forum/cf_15.460_emergency_adjudication.md",
               "status": "active"
             },
             {
               "id": "CF-15.465",
-              "label": "CF-15.465: Standard records, forms, and evidence artifacts",
+              "label": "CF-15.465: Standard Records, Forms, and Evidence Artifacts",
               "file": "corpus_forum/cf_15.465_standard_records_forms_evidence_artifacts.md",
               "status": "active"
             },
