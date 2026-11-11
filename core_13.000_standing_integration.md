@@ -1522,26 +1522,51 @@ This subsection sets out what the subject must be told when an effect attaches:
 
 Every non-permanent lock must provide a real route to review. Restoration may require completed correction, restitution, remedy, evidence preservation, safeguard implementation, monitoring, requalification, supervised lower-risk service, or another verified reduction in recurrence risk. Historical status alone cannot justify indefinite exclusion.
 
+The subsections below cover how reassessment works, when a lock may be permanent, and when a resolved violation record leaves active integration.
+
+<a id="91-reassessment-and-restoration-outcomes"></a>
+#### 9.1 Reassessment and restoration outcomes
+
+*In plain terms: reassessment asks whether the repair was really delivered and the risk really went down. Restoration can be partial, and it is not forgiveness or erasure of the violation record.*
+
 Reassessment begins when the integration record's stated trigger is met or when material new verified facts require review. It asks:
 
-1. whether remedy and correction obligations were actually completed;
-2. whether affected sentients and interests received practical redress;
-3. whether recurrence, evasion, dependency, and gated pathway risks materially declined;
-4. whether current competence and reliability satisfy any applicable bar and support clearance;
-5. whether continued restriction remains needed and proportionate; and
-6. whether renewed access is compatible with the Rights Floor and the protected constitutional interests.
+- **Delivery:**
+  - whether remedy and correction obligations were actually completed;
+  - whether affected sentients and interests received practical redress;
+- **Risk and readiness:**
+  - whether recurrence, evasion, dependency, and gated pathway risks materially declined;
+  - whether current competence and reliability satisfy any applicable bar and support clearance;
+- **Continued restriction and renewed access:**
+  - whether continued restriction remains needed and proportionate; and
+  - whether renewed access is compatible with the Rights Floor and the protected constitutional interests.
 
-Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for Forum-Service, Stakeholder-Participation, Institutional Authority, and Anti-Constitutional Trust Locks control over this general rule. The Dissolution Reformation Lock follows the permanence rule below.
+Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Completed remedy does not end the need for prevention. If the same harm or pattern is verified to repeat after the remedy was otherwise completed, or verified recurrence risk otherwise remains live, a general standing lock under [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks) may be set or continued (a recurrence-persistence lock). It is not a separate lock type, and it must still meet [§6 Lock design and enforcement](#6-lock-design-and-enforcement). The special restoration rules for Forum-Service, Stakeholder-Participation, Institutional Authority, and Anti-Constitutional Trust Locks control over this general rule. The Dissolution Reformation Lock follows the permanence rule in [§9.2 Permanent locks](#92-permanent-locks).
 
-**Permanent locks.** A lock is permanent only where the forum that sets it records, in the lock record and on the verified violation findings, one of two permanent-lock grounds:
+<a id="92-permanent-locks"></a>
+#### 9.2 Permanent locks
+
+*In plain terms: a lock is permanent only when the forum records one of two specific grounds, and even then it stays open to review for error.*
+
+A lock is permanent only where the forum that sets it records, in the lock record and on the verified violation findings, one of two permanent-lock grounds:
 
 - **Pervasive anti-constitutional conduct:** a final [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) designation, with a finding that the conduct runs through the subject's control, operation, or purpose, so that no part of the subject can be separated from it and trusted; or
 - **Unremedied Irreversible Harm:** verified [Irreversible Harm](core_05.035_band_accountability.md#irreversible-harm) for which the remedy owed has not been delivered and cannot be delivered by restitution or lawful substitute restoration. Insolvency of the subject is not, by itself, a remedy that cannot be delivered, and this Unremedied Irreversible Harm ground is recorded or confirmed at the final accounting, when the outcome of the liquidation is known, and not at the order.
 
-Any other lock is non-permanent and keeps the restoration route above. Passage of time, apology, prior contribution, capital, or a change of holders, name, or form cannot lift a permanent lock. It stays open to review for error: a set-aside of the violation finding it rests on, or material new verified facts, can end it. Where later verified facts show that the remedy was in fact delivered, a lock set on the Unremedied Irreversible Harm ground is reassessed as a non-permanent lock. A permanent lock never cuts what [§6.1 Definition and attachment](#61-definition-and-attachment) says a lock does not restrict. Only the Dissolution Reformation Lock is defined here as able to be permanent. No other special lock is, and the Anti-Constitutional Trust Lock keeps its exceptional restoration route.
+- **Which locks can be permanent:**
+  - Only the Dissolution Reformation Lock is defined here as able to be permanent.
+  - No other special lock is, and the Anti-Constitutional Trust Lock keeps its exceptional restoration route.
+- **Ending a permanent lock:**
+  - Passage of time, apology, prior contribution, capital, or a change of holders, name, or form cannot lift a permanent lock.
+  - A permanent lock stays open to review for error: a set-aside of the violation finding it rests on, or material new verified facts, can end it.
+  - Where later verified facts show that the remedy was in fact delivered, a lock set on the Unremedied Irreversible Harm ground is reassessed as a non-permanent lock.
 
-<a id="91-rest-state-and-archival"></a>
-**Rest state and archival.** Contribution has a currentness half-life under [§7.1 Recency and currentness](#71-recency-and-currentness); a violation record must also have a rest state, or a resolved finding follows a sentient indefinitely and becomes the permanent status [Chapter Eleven §2.1 Standing records: kinds and subjects](core_11.000_standing_assessment.md#21-standing-records-kinds-and-subjects) forbids. Once restoration is complete and no lock, remedy duty, or correction duty remains open, the violation record leaves active integration:
+<a id="93-rest-state-and-archival"></a>
+#### 9.3 Rest state and archival
+
+*In plain terms: once restoration is complete and nothing remains open, most violation records leave active use and are archived, not deleted; the most serious findings stay active.*
+
+Contribution has a currentness half-life under [§7.1 Recency and currentness](#71-recency-and-currentness); a violation record must also have a rest state, or a resolved finding follows a sentient indefinitely and becomes the permanent status [Chapter Eleven §2.1 Standing records: kinds and subjects](core_11.000_standing_assessment.md#21-standing-records-kinds-and-subjects) forbids. Once restoration is complete and no lock, remedy duty, or correction duty remains open, the violation record leaves active integration:
 
 - slot **1**, **2**, or **3** findings are archived on completed restoration;
 - slot **4**, **5**, or **6** findings are archived after a published period that may not exceed the [§7.1 Recency and currentness](#71-recency-and-currentness) contribution half-life;
@@ -1554,9 +1579,27 @@ Archival is not deletion. [Evidence Preservation](core_05.050_band_oversight.md#
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Thirteen applies [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) to standing effects: Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05.035_band_accountability.md#remedy-system) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Redress and Remedy*) and [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) for forum supervision.
+Consequences under this chapter only count if real institutions can carry them out. This applies [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) to standing effects, including the redress that goes with them.
 
-Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
+- **What a Remedy System is:** a [Remedy System](core_05.035_band_accountability.md#remedy-system) is lasting, working capacity, not a remedy that exists only on paper. It must be able to:
+  - let sentients challenge a standing effect and receive their cases;
+  - preserve records and evidence;
+  - review cases;
+  - repair harm;
+  - monitor follow-through;
+  - enforce safeguards; and
+  - review locks.
+- **Where the details live:** [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
+- **Read with:** **Article XIII-B** (*Right to Redress and Remedy*), and [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) for forum supervision.
+
+Standing integration fails if consequences exist only on paper. Adopters must keep the practical capacity, and keep it timely, to:
+
+- carry out corrections;
+- fund remedies;
+- review restrictions;
+- preserve records;
+- enforce safeguards; and
+- stop anyone from escaping through cost, delay, borders, restructuring, or a change of formal identity.
 
 <a id="101-remediation-capacity-and-funding"></a>
 #### 10.1 Remediation capacity and funding
@@ -1576,7 +1619,7 @@ Costs must not be externalized onto:
 - ecological subjects; or
 - public remedy systems
 
-where responsible actors can lawfully bear them.
+where the responsible actors under a verified violation finding, and their successors, estates, receivers, and comparable transferees, can lawfully bear them.
 
 <a id="102-remedy-system-durability"></a>
 #### 10.2 Remedy-system durability
@@ -1604,7 +1647,14 @@ Child protection, environmental enforcement, benefits administration, detention 
 - review; and
 - enforcement.
 
-Those systems must meet [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows. They must also meet published capacity, measurement, and milestone standards under [Technical Forum Domains](core_15.000_forum.md#42-technical-forum-domains). Technical Forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions. Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_15.000_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](core_15.000_forum.md#43-institutional-forums), or [Integrity](core_15.000_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Institutional implementation detail for remedy-system capacity is owned by [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+Those systems must meet the standards below, and each body has its own role:
+
+- **Timing:** the [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows.
+- **Capacity and measurement:** the published capacity, measurement, and milestone standards under [Technical Forum Domains](core_15.000_forum.md#42-technical-forum-domains). Technical Forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
+- **Who answers for performance:** accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_15.000_forum.md#2-default-venue-and-primary-stakes) forum family:
+  - ordinarily [Institutional](core_15.000_forum.md#43-institutional-forums) forums; or
+  - [Integrity](core_15.000_forum.md#45-integrity-forums) forums where capture, process failure, or system-alignment collapse is primary.
+- **Implementation detail:** [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
 
 The following violate this rule where they foreseeably nullify challenge or remedy:
 
@@ -1617,7 +1667,18 @@ The following violate this rule where they foreseeably nullify challenge or reme
 Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Sixteen §1.2 Eligibility, contested selection, and democratic minimums](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="102-remedy-parity-funding-minimum"></a>
-**Remedy-parity funding minimum.** For each system class an adopter administers, the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class. The ratio must be published with the [§5.4 Remedy parity and lock preconditions](#54-remedy-parity-and-lock-preconditions) tripwire figures. An adopter that departs from parity must record the reasons under [Chapter Sixteen §3.1 Stewardship Direction](core_16.000_governance.md#31-stewardship-direction) and show, on the integration record, that remedy commencement and restoration review are nonetheless meeting their tier windows; budget parity does not excuse a tripped [§5.4 Remedy parity and lock preconditions](#54-remedy-parity-and-lock-preconditions) tripwire, and a met tripwire does not excuse silent departure from parity. An adopter that cannot fund remedy for a class of systems must not stand up lock machinery for that class.
+**Remedy-parity funding minimum.** For each system class an adopter administers:
+
+- **The minimum:** the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class.
+- **Public figures:** the ratio must be published with the [§5.4 Remedy parity and lock preconditions](#54-remedy-parity-and-lock-preconditions) tripwire figures.
+- **Departing from parity:** an adopter that departs from parity must:
+  - record the reasons under [Chapter Sixteen §3.1 Stewardship Direction](core_16.000_governance.md#31-stewardship-direction); and
+  - show, on the integration record, that remedy commencement and restoration review are nonetheless meeting their tier windows.
+- **Parity and the tripwire stay separate:**
+  - budget parity does not excuse a tripped [§5.4 Remedy parity and lock preconditions](#54-remedy-parity-and-lock-preconditions) tripwire; and
+  - a met tripwire does not excuse silent departure from parity.
+- **Starting reserve:** when an adopter first stands up lock machinery for a class of systems, it must hold a reserve for remedy, restoration, and reassessment on that class. The reserve must be enough to meet the parity minimum until ongoing funding is in place.
+- **Ongoing funding:** revenue from a class of systems should support the necessary remedies that arise from their use. Where it does not, that points to misaligned funding levels, misaligned governance, or both.
 
 <a id="103-cross-jurisdiction-continuity"></a>
 #### 10.3 Cross-jurisdiction continuity

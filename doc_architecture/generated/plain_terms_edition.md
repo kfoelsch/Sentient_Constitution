@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **804** of **1254** headings carry a gloss (64%).
+Coverage: **811** of **1261** headings carry a gloss (64%).
 
 ## Contents
 
@@ -38,7 +38,7 @@ Coverage: **804** of **1254** headings carry a gloss (64%).
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
-- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (65/87 glossed)
+- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (72/94 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
@@ -5435,7 +5435,7 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 65/87 headings glossed
+Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 72/94 headings glossed
 
 #### 1. Purpose and Role
 
@@ -5803,6 +5803,30 @@ a competency bar is the published standard for a gated pathway. Competency clear
 
 [Source](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)
 
+###### 7.2.1 What a bar requires
+
+a bar says what readiness a gated pathway needs, shown by evidence that fits the role. It is only as demanding as the role's reach, others' reliance on it, and the foreseeable risk justify. Informal work can meet it as well as a formal credential can.
+
+[Source](../../core_13.000_standing_integration.md#721-what-a-bar-requires)
+
+###### 7.2.2 Guarding against gatekeeping
+
+a bar tests readiness; it does not screen sentients out. Formal and informal experience meet the same demonstrability standard, and the integration record must show how access, fit, and review were handled.
+
+[Source](../../core_13.000_standing_integration.md#722-guarding-against-gatekeeping)
+
+###### 7.2.3 Continuity, retesting, and capacity change
+
+once clearance is granted and the gated pathway is open, it stays open by default. It is reopened, limited, or withdrawn only on published retesting, a real change in role-relevant capacity, a standing lock, or another reassessment trigger.
+
+[Source](../../core_13.000_standing_integration.md#723-continuity-retesting-and-capacity-change)
+
+###### 7.2.4 What the clearance record must say
+
+every clearance result must be readable on its face: what was decided, against which bar, on what evidence, who can contest it, and what would trigger reassessment.
+
+[Source](../../core_13.000_standing_integration.md#724-what-the-clearance-record-must-say)
+
 #### 8. Final standing effect
 
 when the earlier steps are done, the system must state — one gated pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.
@@ -5826,6 +5850,24 @@ no one should learn what a standing effect does to them from its consequences. T
 a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.
 
 [Source](../../core_13.000_standing_integration.md#9-restoration-and-reassessment)
+
+##### 9.1 Reassessment and restoration outcomes
+
+reassessment asks whether the repair was really delivered and the risk really went down. Restoration can be partial, and it is not forgiveness or erasure of the violation record.
+
+[Source](../../core_13.000_standing_integration.md#91-reassessment-and-restoration-outcomes)
+
+##### 9.2 Permanent locks
+
+a lock is permanent only when the forum records one of two specific grounds, and even then it stays open to review for error.
+
+[Source](../../core_13.000_standing_integration.md#92-permanent-locks)
+
+##### 9.3 Rest state and archival
+
+once restoration is complete and nothing remains open, most violation records leave active use and are archived, not deleted; the most serious findings stay active.
+
+[Source](../../core_13.000_standing_integration.md#93-rest-state-and-archival)
 
 #### 10. Enforcement realism and remedy systems
 
