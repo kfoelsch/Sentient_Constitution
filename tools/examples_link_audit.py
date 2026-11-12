@@ -5,7 +5,8 @@ The registry ``tools/architecture/example_files.json`` names each example file a
 the core files it illustrates. For every ``core_*`` file the audit requires:
 
 * a core file the registry lists links to the example file in its Trace widget
-  and in a closing ``*Worked examples`` line placed above the footer rule;
+  and in a closing ``*Worked examples`` line placed directly under the footer rule,
+  above Previous/Next (a file with no footer keeps the line at the end of the file);
 * the two places agree for every core file, listed or not (a Trace link with no
   closing line, or a closing line with no Trace link, fails);
 * each example file links back to every core file it is registered to illustrate;
@@ -74,19 +75,41 @@ def targets(text: str, base_dir: str) -> set[str]:
     return found
 
 
-def closing_links(lines: list[str], outside: list[tuple[int, str]]) -> tuple[bool, set[str]]:
-    """Find the closing '*Worked examples' line in the last paragraphs before the footer."""
-    footer = len(lines)
+def footer_index(lines: list[str]) -> int | None:
     for index, raw in enumerate(lines):
         if raw.startswith("**Previous file:**") or raw.startswith("**Next file:**"):
-            footer = index
-            break
-    window_start = max(0, footer - CLOSING_WINDOW - 4)
+            return index
+    return None
+
+
+def closing_links(lines: list[str], outside: list[tuple[int, str]]) -> tuple[bool, set[str], bool]:
+    """Find the closing '*Worked examples' line.
+
+    Returns (found, link targets, above_rule). With a footer, the line must sit
+    directly under the footer rule, above Previous/Next; a line found in the
+    paragraphs above the rule is reported through ``above_rule`` and does not
+    count. With no footer, the line is read from the end of the file.
+    """
     outside_numbers = {number for number, _ in outside}
-    for index in range(footer - 1, window_start - 1, -1):
+    footer = footer_index(lines)
+    if footer is None:
+        end = len(lines)
+        for index in range(end - 1, max(0, end - CLOSING_WINDOW - 4) - 1, -1):
+            if (index + 1) in outside_numbers and CLOSING_RE.match(lines[index]):
+                return True, targets(lines[index], ""), False
+        return False, set(), False
+    rule = footer - 1
+    while rule >= 0 and lines[rule].strip() != "---":
+        rule -= 1
+    if rule < 0 or footer - rule > 6:
+        rule = footer
+    for index in range(footer - 1, rule, -1):
         if (index + 1) in outside_numbers and CLOSING_RE.match(lines[index]):
-            return True, targets(lines[index], "")
-    return False, set()
+            return True, targets(lines[index], ""), False
+    for index in range(rule - 1, max(0, rule - CLOSING_WINDOW - 4) - 1, -1):
+        if (index + 1) in outside_numbers and CLOSING_RE.match(lines[index]):
+            return False, set(), True
+    return False, set(), False
 
 
 def slug(heading: str) -> str:
@@ -146,7 +169,12 @@ def audit(root: Path, registry: dict) -> list[str]:
         lines = path.read_text(encoding="utf-8").split("\n")
         trace, outside = split_widgets(lines)
         trace_hits = targets("\n".join(text for _, text in trace), "")
-        has_closing, closing_hits = closing_links(lines, outside)
+        has_closing, closing_hits, above_rule = closing_links(lines, outside)
+        if above_rule:
+            findings.append(
+                f"{name}: EXAMPLES-LINK-01: the '*Worked examples' line sits above the footer rule; "
+                "move it directly under the rule, above Previous/Next"
+            )
         for example in files:
             in_trace = example in trace_hits
             in_closing = example in closing_hits
@@ -156,7 +184,7 @@ def audit(root: Path, registry: dict) -> list[str]:
                 findings.append(f"{name}: EXAMPLES-LINK-01: Trace widget needs a link to {short}")
             if want and not in_closing:
                 findings.append(
-                    f"{name}: EXAMPLES-LINK-01: needs a closing '*Worked examples' line linking {short}, above the footer rule"
+                    f"{name}: EXAMPLES-LINK-01: needs a closing '*Worked examples' line linking {short}, directly under the footer rule"
                 )
             if in_trace and not in_closing and not want:
                 findings.append(f"{name}: EXAMPLES-LINK-01: Trace links {short} but there is no closing '*Worked examples' line")

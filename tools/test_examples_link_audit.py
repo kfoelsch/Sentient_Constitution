@@ -14,14 +14,27 @@ CORE = "core_09.000_demo.md"
 REGISTRY = {"files": {EXAMPLE: {"illustrates": [CORE]}}}
 TRACE_LINK = f"- Worked examples (they add no rule): [CS-9.320]({EXAMPLE}#x)."
 CLOSING = f"*Worked examples (they add no rule):* [CS-9.320]({EXAMPLE}#x)."
-FOOTER = "---\n\n**Previous file:** [a.md](a.md)\n\n**Next file:** [b.md](b.md)\n"
+NAV = "**Previous file:** [a.md](a.md)\n\n**Next file:** [b.md](b.md)\n"
 
 
-def core(trace_bullet: str = TRACE_LINK, closing: str = CLOSING, footer: str = FOOTER) -> str:
-    return (
+def core(
+    trace_bullet: str = TRACE_LINK,
+    closing: str = CLOSING,
+    footer: bool = True,
+    above: str = "",
+    below: str = "",
+) -> str:
+    """Build a chapter. ``closing`` goes under the footer rule; ``above`` is a line above it."""
+    head = (
         "# CHAPTER\n\n<details>\n<summary><strong>Trace</strong></summary>\n\n"
-        f"- Upstream: x\n{trace_bullet}\n\n</details>\n\n<br>\n\nBody.\n\n{closing}\n\n{footer}"
+        f"- Upstream: x\n{trace_bullet}\n\n</details>\n\n<br>\n\nBody.\n\n"
     )
+    if above:
+        head += f"{above}\n\n"
+    if not footer:
+        return head + (f"{closing}\n" if closing else "")
+    under = f"{closing}\n\n" if closing else ""
+    return head + f"---\n\n{under}{NAV}" + (f"\n{below}\n" if below else "")
 
 
 class AuditTests(unittest.TestCase):
@@ -45,8 +58,14 @@ class AuditTests(unittest.TestCase):
         findings = self.run_audit(core(closing=""))
         self.assertTrue(any("needs a closing" in f for f in findings))
 
+    def test_closing_line_above_footer_rule_fails(self):
+        text = core(closing="", above=CLOSING)
+        findings = self.run_audit(text)
+        self.assertTrue(any("above the footer rule" in f for f in findings))
+        self.assertTrue(any("needs a closing" in f for f in findings))
+
     def test_closing_line_below_footer_does_not_count(self):
-        text = core(closing="", footer=FOOTER + "\n" + CLOSING + "\n")
+        text = core(closing="", below=CLOSING)
         self.assertTrue(any("needs a closing" in f for f in self.run_audit(text)))
 
     def test_closing_line_inside_widget_does_not_count(self):
@@ -80,7 +99,7 @@ class AuditTests(unittest.TestCase):
 
     def test_file_without_footer_uses_end_of_file(self):
         example = f"# X\n\n<a id=\"x\"></a>\n\n[back](../{CORE})\n"
-        self.assertEqual(self.run_audit(core(footer=""), example_text=example), [])
+        self.assertEqual(self.run_audit(core(footer=False), example_text=example), [])
 
 
 if __name__ == "__main__":

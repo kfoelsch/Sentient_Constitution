@@ -1233,9 +1233,9 @@ These items, in the Institutional Certification Record, may supply verified inpu
 - infrastructure fragility inappropriate for the institution class; and
 - a material defect found under an evaluation that was required of the Institution's own conduct under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), or [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations), including each kind of defect that [Chapter Nine Part C §11.5 Violation Standing Record](core_09.010_system_alignment_certification_record_recertification.md#115-violation-standing-record) lists: data handling, risk evaluation or risk disclosure where systemic risk was in scope, ecological-footprint misrepresentation where disclosure was required, nondiscrimination or proxy discrimination, accessibility or substantive participation, educational capability, and trustworthiness.
 
-*Worked examples (they add no rule):* [CS-9.320 §12 Illustrative Institution Walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs) (*three invented Institutions walked through this chapter*).
-
 ---
+
+*Worked examples (they add no rule):* [CS-9.320 §12 Illustrative Institution Walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs) (*three invented Institutions walked through this chapter*).
 
 **Previous file:** [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-certification-record-recertification-and-standing)
 

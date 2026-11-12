@@ -63,7 +63,11 @@ Chapter Fourteen, **Part B**, is the constitutional owner of **named pattern app
   - [§6.8.5](#685-independent-preservation-and-review);
   - [§6.8.6](#686-criteria-routing);
   - [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
-  - [§6.10](#610-forum-recusal-failure-and-biased-panel-participation);
+  - [§6.10](#610-forum-recusal-failure-and-biased-panel-participation), including
+  - [§6.10.1](#6101-covered-conduct);
+  - [§6.10.2](#6102-constitutional-forum-panels);
+  - [§6.10.3](#6103-forum-routing);
+  - [§6.10.4](#6104-criteria-routing);
   - [§6.11](#611-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
 - Topic routing (mandatory read-with):
   - [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*Prevention — General Standing Locks*);
@@ -152,7 +156,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 
 *In plain terms: “click here to give up your core rights” clauses — buried in employment, platform, or service terms — are not a lawful way to silence audits, challenges, or appeals, and convenience alone is never a good enough excuse.*
 
-The following patterns are **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§6.2.1 Rights-Floor Waiver Conduct](#621-rights-floor-waiver-conduct) through [§6.2.3 Post-Employment Mobility-Restriction Conduct](#623-post-employment-mobility-restriction-conduct) state the three patterns; [§6.2.4 Non-Binding Effect](#624-non-binding-effect) and [§6.2.5 Criteria Routing](#625-criteria-routing) apply to all three.
+The following patterns are **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§6.2.1 Rights-Floor Waiver Conduct](#621-rights-floor-waiver-conduct) through [§6.2.3 Post-Employment Mobility-Restriction Conduct](#623-post-employment-mobility-restriction-conduct) state the three patterns; [§6.2.4 Non-Binding Effect](#624-non-binding-effect) and [§6.2.5 Criteria Routing](#625-criteria-routing) apply to all three.
 
 <a id="621-rights-floor-waiver-conduct"></a>
 
@@ -236,7 +240,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
 
-**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible designation.
+**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible designation.
 
 The subsections below state:
 
@@ -358,7 +362,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.*
 
-**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
+**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
 - high volume, redundancy, distributed load, or automation;
 - coordination across channels;
 - ranking or discovery manipulation;
@@ -446,7 +450,7 @@ This subsection states when such conduct may implicate final ACMD under this cha
 
 *In plain terms: bribery can corrupt constitutional government from either side. Offering or giving the benefit, asking for or receiving it, routing it through an ally or shell entity, or disguising it as funding can all matter if the exchange distorts duties, records, review, votes, enforcement, or remedies.*
 
-**Bribery and improper benefit exchange** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+**Bribery and improper benefit exchange** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
 - offering, promising, or giving;
 - soliciting or requesting;
 - accepting or receiving;
@@ -541,7 +545,7 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 
 *In plain terms: an unlawful or unconstitutional order is not just a bad downstream act. Giving, approving, passing along, or enforcing the order can itself be anti-constitutional conduct. Following it is also accountable when the actor had real capacity to refuse, document, or escalate, but dependency, threat, and practical capacity matter.*
 
-**Unlawful or unconstitutional command conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+**Unlawful or unconstitutional command conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
 - issuing;
 - authorizing;
 - directing;
@@ -762,7 +766,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.*
 
-**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter’s scope** when it is substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
+**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter’s scope** when it is verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
 
 In plain words, it means giving someone a benefit, a shield, or a status because they did any of the following, or because they blocked accountability for it:
 
@@ -939,7 +943,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.*
 
-**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when it is substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
+**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when it is verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
 
 The subsections below state:
 
@@ -1044,7 +1048,7 @@ Good-faith decisions based on any of the following are not misconduct merely bec
 - published resource triage; or
 - independent reviewable judgment.
 
-The refusal, delay, suppression, narrowing, abandonment, or non-prosecution must be materially linked to the accountability-obstruction effects stated above.
+A refusal, delay, burying, narrowing, dropping, or non-prosecution of a case counts only if it is really tied to one of the accountability-blocking problems listed in [§6.8.3 Material Links](#683-material-links), such as hiding evidence, protecting wrongdoers, or punishing sentients who speak up.
 
 <a id="685-independent-preservation-and-review"></a>
 
@@ -1062,7 +1066,7 @@ A disputed decision not to prosecute or enforce under [§6.8 Enforcement Refusal
 - accountable attribution; or
 - any other accountability pathway functionally equivalent to these.
 
-If the sentients who refused to act cannot fairly investigate themselves because the alleged refusal materially involves any of the following, then transfer, co-assignment, outside participation, or anti-self-judging backup must still be available under Chapter Fifteen, **CF-15.435** (*Independent investigative service and prosecution interface*), and adopted implementation:
+Sometimes the sentients who refused to act cannot fairly investigate themselves, because the refusal materially involves any of the following:
 - prosecutors;
 - investigators;
 - police;
@@ -1071,6 +1075,14 @@ If the sentients who refused to act cannot fairly investigate themselves because
 - executive leadership;
 - detention personnel; or
 - closely aligned actors.
+
+In that case, the matter must still be able to go to someone else, by any of these routes:
+- transfer to another body;
+- co-assignment with another body;
+- participation by outside parties; or
+- an anti-self-judging backup.
+
+Chapter Fifteen, **CF-15.435** (*Independent investigative service and prosecution interface*), and adopted implementation say how.
 
 <a id="686-criteria-routing"></a>
 
@@ -1135,7 +1147,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 *In plain terms: cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.*
 
-**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
+**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
 - knowingly;
 - recklessly;
 - corruptly;
@@ -1304,7 +1316,20 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 *In plain terms: if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.*
 
-**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means either:
+**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Eleven §2.5 Verified-Input Gate](core_11.000_standing_assessment.md#25-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
+
+The subsections below state:
+
+- the conduct that counts ([§6.10.1 Covered Conduct](#6101-covered-conduct));
+- why panels on a Constitutional Forum get closer scrutiny ([§6.10.2 Constitutional Forum Panels](#6102-constitutional-forum-panels));
+- where these cases are heard ([§6.10.3 Forum Routing](#6103-forum-routing)); and
+- how the pattern is assessed ([§6.10.4 Criteria Routing](#6104-criteria-routing)).
+
+<a id="6101-covered-conduct"></a>
+
+##### 6.10.1 Covered Conduct
+
+Forum recusal failure and biased panel participation means either:
 
 - a verified **failure to recuse** while **impartiality was materially compromised**, including any of the following after a material conflict was disclosed or should have been disclosed before merits participation:
   - continuing to sit;
@@ -1321,24 +1346,36 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - backup routing; or
   - practical contestability.
 
+<a id="6102-constitutional-forum-panels"></a>
+
+##### 6.10.2 Constitutional Forum Panels
+
 The pattern is especially heightened where the panelist sits on a **Constitutional Forum** under **Article XXV-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
 - constitutional meaning;
 - validity review; or
-- class-wide structural remedy.
+- a class-wide structural remedy, meaning one that changes how governance works for a whole class of actors or systems.
 
-**Forum routing.** Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Fifteen §2** (*Default Venue and Primary Stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Fifteen §3** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*):
+<a id="6103-forum-routing"></a>
+
+##### 6.10.3 Forum Routing
+
+Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Fifteen §2** (*Default Venue and Primary Stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Fifteen §3** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*):
 - **recusal failure**; or
 - **biased panel participation**.
 
 A **Constitutional** forum must not be the sole final merits forum for its own **recusal failure**.
 
-**Criteria routing.** Evaluators assess these patterns as follows:
+<a id="6104-criteria-routing"></a>
+
+##### 6.10.4 Criteria Routing
+
+Evaluators assess these patterns as follows:
 - **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, or conflict nondisclosure is implicated.
 - **Criterion 3** (*Material rollback effect*) — where the failure produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional Forum** participation distorts interpretive outcomes.
 - **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
 
-This subsection does **not**:
+[§6.10 Forum Recusal Failure and Biased Panel Participation](#610-forum-recusal-failure-and-biased-panel-participation) does **not**:
 - convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
 - relocate panel-formation mechanics from **CF-15.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Fifteen**, or **Article XXV-C** (*Constitutional Forum Independence and External Review*).
 
@@ -1409,7 +1446,11 @@ Named patterns elsewhere in this section are **modes** of obstruction, not compe
 - [§6.9 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
 - [§6.10 Forum Recusal Failure and Biased Panel Participation](#610-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
-The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 3** criteria. Chapter Twelve alone measures the Violation Axis slot (see [Chapter Twelve §2.2.2 How the Way a Harm Was Caused Is Recorded](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded)). Chapter Thirteen alone attaches ordinary gated pathway locks and, after final ACMD, the Anti-Constitutional Trust Lock.
+A case does not have to fit one of the named modes above to count. If the verified facts of the obstruction meet the **section 3** criteria on their own, designation can still follow.
+
+Two other chapters keep their own jobs:
+- Only Chapter Twelve sets the Violation Axis slot (see [Chapter Twelve §2.2.2 How the Way a Harm Was Caused Is Recorded](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded)).
+- Only Chapter Thirteen attaches the ordinary gated pathway locks and, after a final ACMD, the Anti-Constitutional Trust Lock.
 
 This subsection does **not**:
 - convert every obstruction finding into an Anti-Constitutional Misconduct Review matter;
@@ -1418,9 +1459,9 @@ This subsection does **not**:
 
 It routes evaluation of the umbrella pattern into the existing ACMD criteria and due-process safeguards of this chapter.
 
-*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a) and [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
-
 ---
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a) and [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 **Previous file:** [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md)
 

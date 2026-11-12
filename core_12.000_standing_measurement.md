@@ -670,9 +670,9 @@ Some facts are related but answer different questions. Record them separately:
 
 **Continuation.** Standing effects and integration continue in [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration), beginning with **section 1 — Standing Effects**.
 
-*Worked examples (they add no rule):* [CJS-11.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement) measures a verified contribution and [CJS-11.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) a verified violation (see [§8 Measurement Illustrations](#8-measurement-illustrations)), within the [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes).
-
 ---
+
+*Worked examples (they add no rule):* [CJS-11.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement) measures a verified contribution and [CJS-11.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) a verified violation (see [§8 Measurement Illustrations](#8-measurement-illustrations)), within the [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes).
 
 **Previous file:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
 
