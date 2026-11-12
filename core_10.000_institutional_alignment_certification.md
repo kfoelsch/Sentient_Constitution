@@ -527,7 +527,7 @@ A forum host, a certifying body, an Institutional Certification Record office, a
   - [Chapter Nine Part C §9.3 Provisional and Full Certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification);
   - [Chapter Nine Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline);
   - [Chapter Seven §6 When a Holder Fails the Formation Check](core_07.000_charters.md#6-when-a-holder-fails-the-formation-check) (7.000 §6);
-  - [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5);
+  - [Chapter Thirteen §7.5 Special Locks](core_13.010_violation_consequences.md#75-special-locks) (13.000 §7.5);
   - [Chapter Fifteen §5 Interim Hold on a Named Sentient's Pathway](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway) (15.000 §5).
 - Downstream: [§8](#8-institutional-certification-record); [§9](#9-recertification-and-reopening); [§11](#11-relationship-to-standing).
 - Read with:
@@ -700,7 +700,7 @@ Two points are specific to an Institution:
 
      That forum alone decides any suspension, receivership, structural separation, or dissolution. This Chapter creates none of them.
    - **To the forum over a named sentient:** Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution to carry out a violation, the lead forum also refers the facts to the forum with jurisdiction over that sentient.
-   - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks). Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Fifteen §5 Interim Hold on a Named Sentient's Pathway](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
+   - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Thirteen §7.5 Special Locks](core_13.010_violation_consequences.md#75-special-locks). Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Fifteen §5 Interim Hold on a Named Sentient's Pathway](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
 6. **Standing:** Only through [§11 Relationship to Standing](#11-relationship-to-standing). This holds for a denial of a first certification too: the findings behind it may supply input under [§11.2 Every Certification Outcome](#112-every-certification-outcome), on the same terms as any other.
 
 An Institution that is Not Certified may continue to exist, publish its Institutional Charter, operate, and apply again on the terms of Chapter Nine Part B §7.4 (*Not a Permanent Bar*). It may not exercise new material authority until a recertification clears that authority ([§9.2.2 Recertification for New Material Authority](#922-recertification-for-new-material-authority)).

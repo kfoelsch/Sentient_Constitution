@@ -146,6 +146,21 @@
       "status": "present"
     },
     {
+      "file": "core_13.005_contribution_consequences.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_13.010_violation_consequences.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_13.015_final_effect_restoration_enforcement.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_14.000_misconduct_designation.md",
       "label": "core",
       "status": "present"

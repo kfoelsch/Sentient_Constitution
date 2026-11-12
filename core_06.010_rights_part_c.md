@@ -207,7 +207,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - [**Article XIII-A** (*Reliability and Trustworthiness Baseline*)](#article-xiii-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*);
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access;
   - [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*);
-  - [Chapter Thirteen §10](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Enforcement Realism and Remedy Systems*);
+  - [Chapter Thirteen §10](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Enforcement Realism and Remedy Systems*);
   - [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
 </details>
@@ -364,7 +364,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
   - holding a sentient accountable under **Chapter Fourteen**; and
   - **Article XX-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)).
 
-  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the standing record under **Chapter Twelve**, and each measure is a lock designed and calibrated under [Chapter Thirteen §6.1](core_13.000_standing_integration.md#61-definition-and-attachment) (*Definition and Attachment*) and [Chapter Thirteen §6.2](core_13.000_standing_integration.md#62-proportionality-and-calibration) (*Proportionality and Calibration*).
+  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the standing record under **Chapter Twelve**, and each measure is a lock designed and calibrated under [Chapter Thirteen §7.1](core_13.010_violation_consequences.md#71-definition-and-attachment) (*Definition and Attachment*) and [Chapter Thirteen §7.2](core_13.010_violation_consequences.md#72-proportionality-and-calibration) (*Proportionality and Calibration*).
 
   Both tracks can apply to the same facts. Nothing in this Article turns the power to destroy a system into power over a sentient's life.
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.

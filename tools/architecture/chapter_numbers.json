@@ -487,6 +487,48 @@
       "ordinal_name": "13"
     },
     {
+      "old_id": "Chapter 11",
+      "original_file": "core_11_b_contribution_consequences.md",
+      "machine_id": "13005",
+      "display_id": "13.005",
+      "layer": "CORE",
+      "core_home": "13",
+      "title": "13",
+      "destination_file": "core_13.005_contribution_consequences.md",
+      "status": "active",
+      "machine_number": "13005",
+      "layer_digit": "0",
+      "ordinal_name": "13"
+    },
+    {
+      "old_id": "Chapter 11",
+      "original_file": "core_11_c_violation_consequences.md",
+      "machine_id": "13010",
+      "display_id": "13.010",
+      "layer": "CORE",
+      "core_home": "13",
+      "title": "13",
+      "destination_file": "core_13.010_violation_consequences.md",
+      "status": "active",
+      "machine_number": "13010",
+      "layer_digit": "0",
+      "ordinal_name": "13"
+    },
+    {
+      "old_id": "Chapter 11",
+      "original_file": "core_11_d_final_effect_restoration_enforcement.md",
+      "machine_id": "13015",
+      "display_id": "13.015",
+      "layer": "CORE",
+      "core_home": "13",
+      "title": "13",
+      "destination_file": "core_13.015_final_effect_restoration_enforcement.md",
+      "status": "active",
+      "machine_number": "13015",
+      "layer_digit": "0",
+      "ordinal_name": "13"
+    },
+    {
       "old_id": "Chapter 12",
       "original_file": "core_12_a_misconduct_designation.md",
       "machine_id": "14000",

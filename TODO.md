@@ -23,7 +23,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 10:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md)
 - **Ch 11:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
 - **Ch 12:** [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md)
-- **Ch 13:** [core_13.000_standing_integration.md](core_13.000_standing_integration.md)
+- **Ch 13:** Part A [core_13.000_standing_integration.md](core_13.000_standing_integration.md); Part B [core_13.005_contribution_consequences.md](core_13.005_contribution_consequences.md); Part C [core_13.010_violation_consequences.md](core_13.010_violation_consequences.md); Part D [core_13.015_final_effect_restoration_enforcement.md](core_13.015_final_effect_restoration_enforcement.md)
 - **Ch 14:** Part A [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md); Part B [core_14.005_misconduct_pattern_applications.md](core_14.005_misconduct_pattern_applications.md)
 - **Ch 15:** [core_15.000_forum.md](core_15.000_forum.md)
 - **Ch 16:** [core_16.000_governance.md](core_16.000_governance.md)
@@ -111,11 +111,11 @@ See the [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 - [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
 - [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
 
-### Chapter Thirteen §6.5.3 retaliation case — open decision (carried from the archived move log, 2026-11-11)
+### Chapter Thirteen §7.5.3 retaliation case — open decision (carried from the archived move log, 2026-11-11)
 
 This was flagged for the custodian in the 421st move, now archived in [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md). The other three wording and alignment items carried from that archive were resolved in the 467th move.
 
-- [ ] Chapter Thirteen §6.5.3, retaliation case (421st move): the case reads "retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used" and no longer says what ties the retaliation to the institution, enterprise, or office; the lead still requires real use of one. The custodian asked that the means not matter, so no tie was added. Decide whether to add one, for example "using the institution's or enterprise's authority, resources, or position" after "regardless of the means used".
+- [ ] Chapter Thirteen §7.5.3, retaliation case (421st move): the case reads "retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used" and no longer says what ties the retaliation to the institution, enterprise, or office; the lead still requires real use of one. The custodian asked that the means not matter, so no tie was added. Decide whether to add one, for example "using the institution's or enterprise's authority, resources, or position" after "regardless of the means used".
 
 ### Chapter Fourteen Part B — open decisions (carried from the archived move log, 2026-11-12)
 

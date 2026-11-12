@@ -20,7 +20,7 @@
 
 - Copies of the rules themselves — the binding text stays in the core chapters.
 - The full list of costly-case bullets on every card.
-- A second copy of [CS-16.305 §10](../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) or Chapter Thirteen §6.4.
+- A second copy of [CS-16.305 §10](../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) or Chapter Thirteen §7.4.
 
 **Related files.** The machine-readable version of this page's owner and clock pointers is [`steward_owner_clock_index.json`](steward_owner_clock_index.json). The schema for a CS-16.305 §10 action log is [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json). The gold next-step-class routing for the announced evaluation pack is kept elsewhere and is **not** on this page.
 
@@ -184,7 +184,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.010_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter Thirteen §5.1](../core_13.000_standing_integration.md#51-remedy-and-correction) |
+| **Owner text** | [Chapter Thirteen §6.1](../core_13.010_violation_consequences.md#61-remedy-and-correction) |
 | **Next step** | Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence. |
 | **Next-step class** | `open_or_restore_real_remedy_capacity` |
 
