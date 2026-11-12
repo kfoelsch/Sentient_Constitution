@@ -35,7 +35,7 @@
 - Downstream: [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Fourteen, section 7.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms) (14.005) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with:
   - **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions;
-  - [Chapter Thirteen §10 — *Enforcement realism*](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) where cited in §3.3;
+  - [Chapter Thirteen §10 — *Enforcement realism*](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) where cited in §3.3;
   - [Corpus and Authority Stack](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster — read with
   - [Corpus](core_05.045_band_integrative.md#corpus) for custody and adoption).
 
@@ -134,7 +134,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways; **CS-6.320** (*Justice safeguards, restitution, and rehabilitation*) and [Chapter Thirteen §10 — *Enforcement realism*](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) as cited in operative bullets.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways; **CS-6.320** (*Justice safeguards, restitution, and rehabilitation*) and [Chapter Thirteen §10 — *Enforcement realism*](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) as cited in operative bullets.
 - Read with: **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) cross-jurisdiction and anti-evasion controls referenced in operative text.
 
 </details>
@@ -149,7 +149,7 @@ Where external requirements appear irreconcilable with constitutional Rights Flo
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
-Cross-jurisdiction coordination and anti-evasion execution follow **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*). **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) **§9** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*) includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Thirteen §10 — *Enforcement realism*](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems), where applicable.
+Cross-jurisdiction coordination and anti-evasion execution follow **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*). **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) **§9** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*) includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Thirteen §10 — *Enforcement realism*](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems), where applicable.
 
 ### 4. Disputes Involving External Legal Orders
 <details>

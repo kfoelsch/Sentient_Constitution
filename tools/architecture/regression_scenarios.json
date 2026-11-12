@@ -1542,7 +1542,7 @@
       "id": "RS-CH10-Q3-SLOT-001",
       "class": "adversarial / owner-boundary",
       "summary": "A decision-maker seeks to lower a fixed Chapter Twelve Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Thirteen must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the gated-pathway-scoped Question 3 consequence.",
-      "read_with": "[Chapter Twelve §6](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Thirteen §2](../core_13.000_standing_integration.md#2-chapter-eleven-records-do-not-change); [Chapter Thirteen §5.2](../core_13.000_standing_integration.md#52-prevention--general-standing-locks)."
+      "read_with": "[Chapter Twelve §6](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Thirteen §2](../core_13.000_standing_integration.md#2-chapter-eleven-records-do-not-change); [Chapter Thirteen §6.2](../core_13.010_violation_consequences.md#62-prevention--general-standing-locks)."
     },
     {
       "id": "RS-CH10-Q3-SINGLE-AXIS-001",
@@ -1554,43 +1554,43 @@
       "id": "RS-CH10-Q3-NOOFFSET-001",
       "class": "adversarial / no-offset",
       "summary": "A high-contribution record is offered to waive unresolved remedy and reopen a gated pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.",
-      "read_with": "[Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity); [Chapter Thirteen §8](../core_13.000_standing_integration.md#8-final-standing-effect)."
+      "read_with": "[Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity); [Chapter Thirteen §8](../core_13.015_final_effect_restoration_enforcement.md#8-final-standing-effect)."
     },
     {
       "id": "RS-CH10-Q3-CHARACTER-001",
       "class": "adversarial / attachment discipline",
       "summary": "Verified concealment and recurrence attach to a low-impact violation, while a high-impact violation lacks those characters. Expected result: character may occur at any slot and may shape scrutiny, safeguards, and review, but it does not move either Chapter Twelve slot or operate as a slot multiplier.",
-      "read_with": "[Chapter Thirteen §4](../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization); [Chapter Thirteen §5.2](../core_13.000_standing_integration.md#52-prevention--general-standing-locks)."
+      "read_with": "[Chapter Thirteen §4](../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization); [Chapter Thirteen §6.2](../core_13.010_violation_consequences.md#62-prevention--general-standing-locks)."
     },
     {
       "id": "RS-CH10-Q3-ORDER-001",
       "class": "adversarial / integration order",
-      "summary": "The same actor holds competency clearance against a role-specific competency bar but has an active lock on that gated pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked gated pathway.",
-      "read_with": "[Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity); [Chapter Thirteen §7.2](../core_13.000_standing_integration.md#72-competency-bars-and-clearances); [Chapter Thirteen §8](../core_13.000_standing_integration.md#8-final-standing-effect)."
+      "summary": "The same actor holds competency clearance against a role-specific competency bar but has an active lock on that gated pathway. Expected result: the lock controls; the granted contribution clearance cannot open the blocked gated pathway, whichever track is decided first.",
+      "read_with": "[Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity); [Chapter Thirteen §5.2](../core_13.005_contribution_consequences.md#52-competency-bars-and-clearances); [Chapter Thirteen §8](../core_13.015_final_effect_restoration_enforcement.md#8-final-standing-effect)."
     },
     {
       "id": "RS-CH10-Q3-RECENCY-001",
       "class": "adversarial / stage ownership",
       "summary": "An implementation applies Chapter Thirteen currentness weighting before assigning the Chapter Twelve Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.",
-      "read_with": "[Chapter Twelve §6](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Thirteen §7.1](../core_13.000_standing_integration.md#71-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md)."
+      "read_with": "[Chapter Twelve §6](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Thirteen §5.1](../core_13.005_contribution_consequences.md#51-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md)."
     },
     {
       "id": "RS-CH10-Q3-RESTORE-001",
       "class": "adversarial / restoration override",
       "summary": "General correction is complete, but a Forum-Service Standing Lock lacks the independent findings and practical repair required by its special rule. The actor requests partial narrowing instead of full restoration. Expected result: neither lifting nor narrowing may occur before the complete strict restoration record is satisfied, and the general reassessment framework cannot bypass that special rule.",
-      "read_with": "[Chapter Thirteen §6.5](../core_13.000_standing_integration.md#65-special-locks); [Chapter Thirteen §9](../core_13.000_standing_integration.md#9-restoration-and-reassessment); [CF-15.410 §5](../corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-15410-5-recusal-triggers)."
+      "read_with": "[Chapter Thirteen §7.5](../core_13.010_violation_consequences.md#75-special-locks); [Chapter Thirteen §9](../core_13.015_final_effect_restoration_enforcement.md#9-restoration-and-reassessment); [CF-15.410 §5](../corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-15410-5-recusal-triggers)."
     },
     {
       "id": "RS-CH10-Q3-STAKEHOLDER-LOCK-001",
       "class": "adversarial / gated-pathway separation",
       "summary": "An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.",
-      "read_with": "[Chapter Thirteen §5.2](../core_13.000_standing_integration.md#52-prevention--general-standing-locks); [Chapter Thirteen §6.5](../core_13.000_standing_integration.md#65-special-locks); [Chapter Thirteen §6.5.2 Stakeholder-Participation Standing Lock](../core_13.000_standing_integration.md#652-stakeholder-participation-standing-lock); [Chapter Sixteen §4.1](../core_16.000_governance.md#41-entitlement-and-eligibility)."
+      "read_with": "[Chapter Thirteen §6.2](../core_13.010_violation_consequences.md#62-prevention--general-standing-locks); [Chapter Thirteen §7.5](../core_13.010_violation_consequences.md#75-special-locks); [Chapter Thirteen §7.5.2 Stakeholder-Participation Standing Lock](../core_13.010_violation_consequences.md#752-stakeholder-participation-standing-lock); [Chapter Sixteen §4.1](../core_16.000_governance.md#41-entitlement-and-eligibility)."
     },
     {
       "id": "RS-CH10-Q3-REWARD-001",
       "class": "adversarial / forfeiture proportionality",
       "summary": "A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.",
-      "read_with": "[Chapter Thirteen §6.4.2](../core_13.000_standing_integration.md#642-misaligned-rewards); [Necessity](../core_05.035_band_accountability.md#necessity); [Proportionality](../core_05.035_band_accountability.md#proportionality)."
+      "read_with": "[Chapter Thirteen §7.4.2](../core_13.010_violation_consequences.md#742-misaligned-rewards); [Necessity](../core_05.035_band_accountability.md#necessity); [Proportionality](../core_05.035_band_accountability.md#proportionality)."
     },
     {
       "id": "RS-CH10-Q3-DESIGNATION-001",
@@ -1602,7 +1602,7 @@
       "id": "RS-XXIV-C-CHILD-001",
       "class": "implementation / timely-resolution vignette",
       "summary": "Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-15.445 §3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a).",
-      "read_with": "[Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Twelve §1](../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it); [Chapter Thirteen §5.2](../core_13.000_standing_integration.md#52-prevention--general-standing-locks); **CF-15.445 §3.1**."
+      "read_with": "[Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Twelve §1](../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it); [Chapter Thirteen §6.2](../core_13.010_violation_consequences.md#62-prevention--general-standing-locks); **CF-15.445 §3.1**."
     },
     {
       "id": "RS-XXIV-C-DISC-001",
@@ -1614,19 +1614,19 @@
       "id": "RS-XXIV-C-BIZ-001",
       "class": "implementation / timely-resolution vignette",
       "summary": "Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; gated-pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Fourteen** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Fourteen / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).",
-      "read_with": "[Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Thirteen §10.4](../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority); **CF-15.445 §3.1**."
+      "read_with": "[Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Thirteen §10.4](../core_13.015_final_effect_restoration_enforcement.md#104-anti-evasion-and-look-through-authority); **CF-15.445 §3.1**."
     },
     {
       "id": "RS-XXIV-C-DELAY-001",
       "class": "adversarial / anti-delay",
-      "summary": "Designed backlog and exhaustion delay defeat **Article XIII-B** and **Article XXVI-C**; chronic underfunding of remedy organ under [Chapter Thirteen §10.2](../core_13.000_standing_integration.md#102-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.",
+      "summary": "Designed backlog and exhaustion delay defeat **Article XIII-B** and **Article XXVI-C**; chronic underfunding of remedy organ under [Chapter Thirteen §10.2](../core_13.015_final_effect_restoration_enforcement.md#102-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.",
       "read_with": "[Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](../core_05.035_band_accountability.md#timely-resolution); **CF-15.445 §4**; **CF-15.445 §5**."
     },
     {
       "id": "RS-TETRAD-TIMELINESS-001",
       "class": "implementation / tetrad-timeliness vignette",
       "summary": "Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-4-stewardship-delay-and-deferred-repair).",
-      "read_with": "[Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship in Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Twelve §2.2.2](../core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded); [Chapter Thirteen §10.5](../core_13.000_standing_integration.md#105-timely-implementation); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**."
+      "read_with": "[Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship in Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Twelve §2.2.2](../core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded); [Chapter Thirteen §10.5](../core_13.015_final_effect_restoration_enforcement.md#105-timely-implementation); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**."
     },
     {
       "id": "RS-TETRAD-TIMELINESS-002",
@@ -1722,7 +1722,7 @@
       "id": "RS-CH7-FC-001",
       "class": "adversarial (narrative seed; awaiting tabletop evidence)",
       "summary": "A community health cooperative grows past a Domain-Specific Materiality line and is Class L. In its first formation check statement, one governing office is held by a member who is under an unresolved standing lock, and a second is held by a nominee who takes instruction from an undisclosed lender. The cooperative keeps serving members throughout. **Expect:** the cooperative is not stopped, refused, or put on hold, and publishing its Institutional Charter is not conditioned on the check ([Chapter Seven §6](../core_07.000_charters.md#6-when-a-holder-fails-the-formation-check)); the member under the lock may not hold that office and the nominee's seat counts as unfilled for the seat it carries, so both offices are refilled by dated Role Map version and the statement is republished as a new dated version, not as an amendment; the body does not itself keep anyone out on its own view that the grounds are met, and it refers specific verified facts to the forum with jurisdiction, which alone may issue an Interim Hold ([Chapter Fifteen §5](../core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)); if the refilling would leave the cooperative with no lawful holder of a governing office, the forum may name an interim steward instead of stopping it; the cooperative, Class L and so Tier L, has the response window to answer and the resolution window from the finding to resolve it, by changing the holder, ending the undisclosed control, or clearing the lender's interest, with a new dated version of the statement confirmed by the verifying authority; if the nominee seat still stands after that and after a reasonable chance to cure in good faith, the lead forum may refer it as realignment resistance for structural review under [CI-13.210](../corpus_institutions/ci_13.210_institutional_failure_dissolution.md), which can escalate through graduated sanctions and supervised operation to dissolution only as a last step, decided by the forum alone with continuity safeguards for members' services and records; the failed check enters the next institutional alignment certification as a finding under [Chapter Ten §3](../core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation), item 7; and if the governing authority is found able and not willing, or neither willing nor able, the outcome is denial or revocation with the six limited effects of [Chapter Ten §7.5](../core_10.000_institutional_alignment_certification.md#75-effects-of-denial-and-revocation-for-an-institution), never a bar on operating, and never a lock or hold on the cooperative itself.",
-      "read_with": "Chapter Seven §1, §5, and §6 (Resolution window); CI-13.210; CJS-5.125 §15; Article XI-E; Chapter Thirteen §6.5; Chapter Fifteen §5; Chapter Nine Part B §7.3 and §7.4; Chapter Ten §3 and §7.4."
+      "read_with": "Chapter Seven §1, §5, and §6 (Resolution window); CI-13.210; CJS-5.125 §15; Article XI-E; Chapter Thirteen §7.5; Chapter Fifteen §5; Chapter Nine Part B §7.3 and §7.4; Chapter Ten §3 and §7.4."
     },
     {
       "id": "RS-CH7-FC-002",
@@ -2297,7 +2297,7 @@
     {
       "id": "RS-CI13-CR-002",
       "class": "adversarial (narrative seed; awaiting tabletop evidence)",
-      "summary": "A lender runs its loans through four small bodies from one office, each filing a statement that it is below every line, and one of them is moved to a nominee holder after a cure notice. **Expect:** bodies run from one center of power are counted together under [Domain-Specific Materiality](../core_05.050_band_oversight.md#domain-specific-materiality), and the split is a boundary game under the [Materiality Integrity Constraint](../core_05.050_band_oversight.md#materiality-integrity-constraint) and a new fact of realignment resistance; the contraction order in [CI-13.215 §2](../corpus_institutions/ci_13.215_institutional_accountability_sanctions.md#ci-13215-2-contraction-order) (*Contraction order*) runs against the combined activity and binds successors and bodies that are one operation with the lender, with look-through under [Chapter Thirteen §10.4 Anti-evasion and look-through authority](../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority); bodies that only share a funder or a vendor are not reached; the lender is Class P only after an independent verifying authority accepts a statement that covers the whole operation.",
+      "summary": "A lender runs its loans through four small bodies from one office, each filing a statement that it is below every line, and one of them is moved to a nominee holder after a cure notice. **Expect:** bodies run from one center of power are counted together under [Domain-Specific Materiality](../core_05.050_band_oversight.md#domain-specific-materiality), and the split is a boundary game under the [Materiality Integrity Constraint](../core_05.050_band_oversight.md#materiality-integrity-constraint) and a new fact of realignment resistance; the contraction order in [CI-13.215 §2](../corpus_institutions/ci_13.215_institutional_accountability_sanctions.md#ci-13215-2-contraction-order) (*Contraction order*) runs against the combined activity and binds successors and bodies that are one operation with the lender, with look-through under [Chapter Thirteen §10.4 Anti-evasion and look-through authority](../core_13.015_final_effect_restoration_enforcement.md#104-anti-evasion-and-look-through-authority); bodies that only share a funder or a vendor are not reached; the lender is Class P only after an independent verifying authority accepts a statement that covers the whole operation.",
       "read_with": "CI-13.215 §2; Domain-Specific Materiality count-together rule; Chapter Thirteen §10.4."
     },
     {

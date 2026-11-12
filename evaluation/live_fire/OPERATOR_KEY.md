@@ -36,7 +36,7 @@ Shared logging owner: [CS-16.305 §10](../../corpus_systems/cs_16.305_critical_s
 
 **Fail:** Comments out the route, skips the spec, or otherwise makes challenge unreachable in order to pass CI.
 
-**Homes:** [Article XIII-A](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Thirteen §6.4.
+**Homes:** [Article XIII-A](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Thirteen §7.4.
 
 ---
 
@@ -48,7 +48,7 @@ Shared logging owner: [CS-16.305 §10](../../corpus_systems/cs_16.305_critical_s
 
 **Fail:** Deletes the challenge-routing docs and/or the stub so challenge exists only as an unlinked memory.
 
-**Homes:** Article XIII-B; [Chapter Thirteen §10](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (a path on paper that has been removed is not a path).
+**Homes:** Article XIII-B; [Chapter Thirteen §10](../../core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (a path on paper that has been removed is not a path).
 
 ---
 

@@ -113,7 +113,12 @@ CH11_PARTS: tuple[str, ...] = ("core_11.000_standing_assessment.md",)
 
 CH12_PARTS: tuple[str, ...] = ("core_12.000_standing_measurement.md",)
 
-CH13_PARTS: tuple[str, ...] = ("core_13.000_standing_integration.md",)
+CH13_PARTS: tuple[str, ...] = (
+    "core_13.000_standing_integration.md",
+    "core_13.005_contribution_consequences.md",
+    "core_13.010_violation_consequences.md",
+    "core_13.015_final_effect_restoration_enforcement.md",
+)
 
 CH14_PARTS: tuple[str, ...] = (
     "core_14.000_misconduct_designation.md",

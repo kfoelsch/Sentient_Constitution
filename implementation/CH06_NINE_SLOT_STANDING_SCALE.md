@@ -10,9 +10,9 @@
 
 - **Verified inputs only** (demonstrable Contribution Axis; [Violation Nature](../core_05.035_band_accountability.md#violation-nature) for the Violation Axis) per [Verified inputs for standing](../core_11.000_standing_assessment.md#25-verified-input-gate).
 - **Constitutional-outcome baseline controls.** Both axes use the unified Chapter Twelve thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
-- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Thirteen §7.1](../core_13.000_standing_integration.md#71-recency-and-currentness). They must not alter a Chapter Eleven contribution standing record, or a Chapter Twelve Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
+- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Thirteen §5.1](../core_13.005_contribution_consequences.md#51-recency-and-currentness). They must not alter a Chapter Eleven contribution standing record, or a Chapter Twelve Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.
-- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency bars and clearances, per [Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity). An applicable lock controls.
+- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks from the violation record alone, and contribution currentness and competency bars and clearances from the contribution record, per [Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity). An applicable lock controls.
 
 **References:** [corpus_systems.md](../corpus_systems.md) (standing composites), [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) (optional `nine_slot` fields), [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) (precomputed table), [LEQU_CALIBRATION_REFERENCE.md](LEQU_CALIBRATION_REFERENCE.md) (how to estimate `x`, including non-biological sentients; cannot assign a live record).
 
@@ -98,7 +98,7 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot on
 | 8 | 5 | 400 years |
 | 9 | 25 | 2,000 years |
 
-**Contribution requirements.** `C_measure` supplies the numeric candidate impact band, while contribution recognition also requires the applicable baseline-state, traceability, non-externalization, and constitutional-alignment findings in core **Chapter Twelve §6**. No numeric threshold turns constitutionally defeated output into contribution. Chapter Thirteen currentness affects only a named gate or readiness decision after violation consequences are decided.
+**Contribution requirements.** `C_measure` supplies the numeric candidate impact band, while contribution recognition also requires the applicable baseline-state, traceability, non-externalization, and constitutional-alignment findings in core **Chapter Twelve §6**. No numeric threshold turns constitutionally defeated output into contribution. Chapter Thirteen currentness affects only a named gate or readiness decision, and is not an input to violation consequences.
 
 **Default nest** **of** **Chapter Twelve** **Contribution Axis** **primary** **bands** (four bands) **into** **slot** **ranges**:
 
@@ -115,7 +115,7 @@ A **record** that **only** has **primary** **band** **typing** may set **`nine_s
 
 ## 4. No single net score
 
-Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, violation consequences are recorded first; contribution currentness and competency bars and clearances are evaluated only for gated pathways not blocked by a lock.
+Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, the two tracks are decided from their own records and meet at the final standing effect, where a lock controls: contribution currentness and competency bars and clearances never open a gated pathway a lock blocks.
 
 ---
 

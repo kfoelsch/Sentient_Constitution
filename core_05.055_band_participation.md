@@ -2041,7 +2041,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
     - capture;
     - false-stake abuse; or
     - coercive gaming of stake-weighted participation
-    attach through the **stakeholder-participation** lock — including the [Stakeholder-Participation Standing Lock](core_13.000_standing_integration.md#65-special-locks) — and:
+    attach through the **stakeholder-participation** lock — including the [Stakeholder-Participation Standing Lock](core_13.010_violation_consequences.md#75-special-locks) — and:
       - not through a **governance-voting** lock by itself; and
       - not by treating that lock as if it wiped out [Stakeholder](core_05.055_band_participation.md#stakeholder) status.
     That lock only limits how much stake-weighted say someone gets. Where anti-constitutional misconduct or other verified standing outcomes lawfully affect status, those consequences route under [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) and the applicable Chapter Thirteen standing pathways — not through this weight definition alone.

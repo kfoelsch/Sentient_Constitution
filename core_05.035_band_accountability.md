@@ -43,7 +43,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.010 §17.5),
   - [§17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
   - [§17.2 Alignment under Pressure](core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4) (*Duty to resist — violation rule and standing effects*);
+  - [Chapter Thirteen §7.4](core_13.010_violation_consequences.md#743-duty-to-resist) (13.000 §7.4) (*Duty to resist — violation rule and standing effects*);
   - [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with:
   - [Stewardship](core_05.040_band_continuity.md#stewardship),
@@ -847,7 +847,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) (
   - [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor));
   - [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6) (*materiality tiers and pipeline milestones*); **Article XIII-B** (*Right to Redress and Remedy*);
-  - [Chapter Thirteen §10.2](core_13.000_standing_integration.md#102-remedy-system-durability) (13.000 §10.2) (*remedy-organ durability*);
+  - [Chapter Thirteen §10.2](core_13.015_final_effect_restoration_enforcement.md#102-remedy-system-durability) (13.000 §10.2) (*remedy-organ durability*);
   - [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05.005_apex_accountability_leg.md#accountability).
 - Read with:
@@ -1089,7 +1089,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream:
   - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation);
   - [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5);
-  - [Chapter Thirteen §6.6 Interim Holds and Locks](core_13.000_standing_integration.md#66-interim-holds-and-locks) (13.000 §6.6);
+  - [Chapter Thirteen §7.6 Interim Holds and Locks](core_13.010_violation_consequences.md#76-interim-holds-and-locks) (13.000 §7.6);
   - [**Article XIX-B** (*Contestability and Proportional Restriction Limits*)](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits);
   - [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards);
   - **CF-15.410 §15** (*Interim Hold on a Panel Member or Seat Holder*);
@@ -1390,7 +1390,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (1.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Thirteen §10](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Enforcement Realism and Remedy Systems*).
+- Canonical owner: [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (1.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Thirteen §10](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Enforcement Realism and Remedy Systems*).
 - Implementation owner: [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Cluster component: [Accountability, Contestability, and Redress Pathways](core_05.035_band_accountability.md#accountability-contestability-and-redress-pathways)
 - Read with:
@@ -1440,7 +1440,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Apply [Chapter Thirteen §10 Enforcement Realism and Remedy Systems](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Contestability](core_05.035_band_accountability.md#contestability), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), and [Psychological Harm](core_05.035_band_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
+    **Primary assessment:** Apply [Chapter Thirteen §10 Enforcement Realism and Remedy Systems](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Contestability](core_05.035_band_accountability.md#contestability), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), and [Psychological Harm](core_05.035_band_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
     - paper-only remedy pathways;
     - deliberately created backlog;
     - inaccessible intake;
@@ -2861,7 +2861,7 @@ The following limits also apply:
   - [Animal Cruelty](core_05.035_band_accountability.md#animal-cruelty),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
   - [Chapter Twelve §2.2.2](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded) (12.000 §2.2.2) (*conduct-character stack*), and
-  - [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*general standing locks*).
+  - [Chapter Thirteen §6.2](core_13.010_violation_consequences.md#62-prevention--general-standing-locks) (13.000 §6.2) (*general standing locks*).
 
 </details>
 
@@ -3553,7 +3553,7 @@ See **Anti-Segmentation Principle**.
   - [Materiality](core_05.050_band_oversight.md#materiality),
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
   - [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (12.000 §4),
-  - [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2), and
+  - [Chapter Thirteen §6.2](core_13.010_violation_consequences.md#62-prevention--general-standing-locks) (13.000 §6.2), and
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) where materially implicated.
 - Downstream: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*binding chain map for the Chapters Eleven through Fifteen pipeline*).
 
@@ -3652,7 +3652,7 @@ See **Anti-Segmentation Principle**.
     - recognition;
     - **governance-voting** (*legitimacy-mechanism / foundational governance vote — not stake-weighted stakeholder voice*);
     - **stakeholder-participation** (*stake-weighted vote and binding stakeholder choice within an already-authorized domain — not erasure of stakeholder status*); and
-    - comparable gated pathways recorded under [Chapter Thirteen §5.2 Prevention — General Standing Locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks).
+    - comparable gated pathways recorded under [Chapter Thirteen §6.2 Prevention — General Standing Locks](core_13.010_violation_consequences.md#62-prevention--general-standing-locks).
   - It is not:
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), which every sentient has;
     - reputation or social esteem; or
@@ -3664,7 +3664,7 @@ See **Anti-Segmentation Principle**.
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing);
     - proof that someone is a [Stakeholder](core_05.055_band_participation.md#stakeholder);
     - final anti-constitutional-misconduct designation for a Chapter Twelve Violation Axis slot 7, 8, or 9 record — governed by [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct); or
-    - the matching [Anti-Constitutional Trust Lock](core_13.000_standing_integration.md#65-special-locks), which attaches under Chapter Thirteen.
+    - the matching [Anti-Constitutional Trust Lock](core_13.010_violation_consequences.md#75-special-locks), which attaches under Chapter Thirteen.
 <a id="participant-standing-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3925,10 +3925,10 @@ See **Anti-Segmentation Principle**.
     - Follow Chapter Thirteen **§3** (*Automatic Integration, Review, and Continuity*) decision order:
       - validate records;
       - normalize descriptors;
-      - decide violation, correction, and prevention first;
-      - decide contribution consequences second and only for gated pathways not blocked by a lock; then
+      - decide violation consequences (remedy, correction, and prevention) from the violation standing record alone;
+      - decide contribution consequences from the contribution standing record, with a lock controlling any gated pathway it blocks (the two tracks can be decided in either order); then
       - state one final standing effect per gated pathway.
-    - When standing integration uses **contribution-linked** credit, follow Chapter Thirteen **§7.1** (*Recency and Currentness*) recency and disclosure rules.
+    - When standing integration uses **contribution-linked** credit, follow Chapter Thirteen **§5.1** (*Recency and Currentness*) recency and disclosure rules.
     - While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside.
     - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings for standing ([**verified inputs for standing**](core_11.000_standing_assessment.md#25-verified-input-gate)).
     - Expose which inputs produced the effect — immutable records, descriptors, remedies, locks, currentness findings, competency bars, and clearances — together with weights, rules, and review routes.
@@ -3938,7 +3938,7 @@ See **Anti-Segmentation Principle**.
     - use **opaque** or **undisclosed standing** criteria;
     - use unverified allegations, provisional labels, or forum-phase material as adverse standing inputs;
     - use records that merge distinct subjects, scopes, record spans, or review statuses, or that place both axes in one standing record;
-    - use **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Thirteen §3** (*Automatic Integration, Review, and Continuity*) or **§4** (*Violation, Correction, and Prevention*) through **§7** (*Final Standing Effect*) or verified-input rules;
+    - use **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Thirteen §3** (*Automatic Integration, Review, and Continuity*) or **§5** (*Contribution Consequences*) through **§8** (*Final Standing Effect*) or verified-input rules;
     - use positive recognition or contribution credit to erase unresolved violations;
     - impose a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XX** allows; or
     - apply a standing effect that suspends, waives, extinguishes, or reduces Rights-Floor minimums where Chapter Eleven and Article **XX** forbid it, including:
@@ -4066,7 +4066,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*standing locks and the types of gated pathway*).
+- Canonical owner: [Chapter Thirteen §6.2](core_13.010_violation_consequences.md#62-prevention--general-standing-locks) (13.000 §6.2) (*standing locks and the types of gated pathway*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Standing Effect](core_05.035_band_accountability.md#standing-effect),
@@ -4085,7 +4085,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:**
     - A specific role, privilege, or kind of access that a [Standing Effect](core_05.035_band_accountability.md#standing-effect) can open, open with safeguards, limit, or block.
-    - The types are trust, role, authority, credit, oversight, recognition, [influence](core_05.035_band_accountability.md#influence-pathway), **governance-voting**, and **stakeholder-participation**, as [Chapter Thirteen §5.2 Prevention — General Standing Locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) lists them.
+    - The types are trust, role, authority, credit, oversight, recognition, [influence](core_05.035_band_accountability.md#influence-pathway), **governance-voting**, and **stakeholder-participation**, as [Chapter Thirteen §6.2 Prevention — General Standing Locks](core_13.010_violation_consequences.md#62-prevention--general-standing-locks) lists them.
     - It is the unit Chapter Thirteen works in. A [Competency Bar](core_05.035_band_accountability.md#competency-bar) is set for it, a [Standing Lock](core_05.035_band_accountability.md#standing-lock) closes it, and one final standing effect is stated for each.
     - It is identified by what it gates, so an effect on one gated pathway does not carry over to another.
     - It is not itself a Rights-Floor minimum. Where Chapter Six sets conditions on a gated pathway, such as the governance vote under [**Article X-B**](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*), a lock may close it only on those conditions.
@@ -4117,7 +4117,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §6.4](core_13.000_standing_integration.md#646-influence-pathway-locks) (13.000 §6.4) (*influence-pathway locks*).
+- Canonical owner: [Chapter Thirteen §7.4](core_13.010_violation_consequences.md#746-influence-pathway-locks) (13.000 §7.4) (*influence-pathway locks*).
 - Read with: the
   - [Gated Pathway](core_05.035_band_accountability.md#gated-pathway),
   - [Standing Lock](core_05.035_band_accountability.md#standing-lock),
@@ -4171,7 +4171,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §7.2](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2) (*competency bars and clearances*).
+- Canonical owner: [Chapter Thirteen §5.2](core_13.005_contribution_consequences.md#52-competency-bars-and-clearances) (13.000 §5.2) (*competency bars and clearances*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Competency Clearance](core_05.035_band_accountability.md#competency-clearance),
@@ -4227,7 +4227,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §7.2](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2) (*competency bars and clearances*).
+- Canonical owner: [Chapter Thirteen §5.2](core_13.005_contribution_consequences.md#52-competency-bars-and-clearances) (13.000 §5.2) (*competency bars and clearances*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Competency Bar](core_05.035_band_accountability.md#competency-bar),
@@ -4285,10 +4285,10 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*standing locks*).
+- Canonical owner: [Chapter Thirteen §6.2](core_13.010_violation_consequences.md#62-prevention--general-standing-locks) (13.000 §6.2) (*standing locks*).
 - Read with:
-  - [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*general standing locks*);
-  - [Chapter Thirteen §6](core_13.000_standing_integration.md#6-lock-design-and-enforcement) (13.000 §6) (*lock design and enforcement*); the
+  - [Chapter Thirteen §6.2](core_13.010_violation_consequences.md#62-prevention--general-standing-locks) (13.000 §6.2) (*general standing locks*);
+  - [Chapter Thirteen §7](core_13.010_violation_consequences.md#7-lock-design-and-enforcement) (13.000 §7) (*lock design and enforcement*); the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Standing Effect](core_05.035_band_accountability.md#standing-effect),
   - [Standing Record](core_05.035_band_accountability.md#standing-record),
@@ -4317,9 +4317,9 @@ See **Anti-Segmentation Principle**.
       - influence;
       - **governance-voting**; or
       - **stakeholder-participation**.
-    - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks).
-    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks). It sits on the dissolved Chartered Party and its successor entities and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
-    - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks). It restricts no testimony.
+    - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Thirteen §7.5 Special Locks](core_13.010_violation_consequences.md#75-special-locks).
+    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Thirteen §7.5 Special Locks](core_13.010_violation_consequences.md#75-special-locks). It sits on the dissolved Chartered Party and its successor entities and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
+    - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Thirteen §7.5 Special Locks](core_13.010_violation_consequences.md#75-special-locks). It restricts no testimony.
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05.055_band_participation.md#stakeholder) status, or a substitute for the other gated pathway.
   - **Out of scope:**
     - A lock from unverified allegations. The interim measure on specific verified facts, short of a violation finding, is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
@@ -4351,7 +4351,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks).
+- Canonical owner: [Chapter Thirteen §7.5 Special Locks](core_13.010_violation_consequences.md#75-special-locks).
 - Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Ten §7.4 Denial and Revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution).
 - Read with: [Standing Lock](core_05.035_band_accountability.md#standing-lock), [Interim Hold](core_05.035_band_accountability.md#interim-hold), and [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
@@ -4362,12 +4362,12 @@ See **Anti-Segmentation Principle**.
 *In plain terms: after a verified violation finding that a sentient materially used an institution, enterprise, or office to carry out a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
 
 - **What it is**
-  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of wrongdoing carried out through an institution or enterprise. Its gated pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Thirteen §6.5 Special locks.
+  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of wrongdoing carried out through an institution or enterprise. Its gated pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Thirteen §7.5 Special locks.
   - **Out of scope:** A restriction on forming or operating an institution as such, on unrelated authority pathways, or on wages, participation, protected reporting, survival access, or the Rights-Floor minimums. An Interim Hold on specific verified facts is not this lock and creates no standing effect.
 - **How to measure and assess**
   - **Primary measure:** The Violation Axis and Accountability and Timeliness measurement families, based on verified violation findings.
 
-    **Primary assessment:** Apply the attachment and evidence requirements for special locks. Name the verified institution or enterprise used, the subject's role, the authority pathway, the risk of recurrence, the corrective conditions, and the independent review route. Assess restoration only under Chapter Thirteen §6.5 Special locks.
+    **Primary assessment:** Apply the attachment and evidence requirements for special locks. Name the verified institution or enterprise used, the subject's role, the authority pathway, the risk of recurrence, the corrective conditions, and the independent review route. Assess restoration only under Chapter Thirteen §7.5 Special locks.
 - **What must hold**
   - **Primary failure:** It is non-compliant to attach the lock without a verified violation finding, extend it beyond the named authority pathway, use it as a gate on forming or operating a body, or lift or narrow it without the independent restoration finding and reasons Chapter Thirteen requires.
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-12T17:00:00+00:00",
+  "generated_at": "2026-11-12T23:39:50+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -941,7 +941,7 @@
       {"avoid":"Chapter Zero","prefer":"Preamble (core_00.000_preamble.md); e.g. Preamble §2, Preamble measurement family"},
       {"avoid":"Chapter 00","prefer":"Preamble (core_00.000_preamble.md); retain filename core_00.000_preamble.md, ch00_* keys, and #chapter-00-* anchors"},
       {"avoid":"named pathway / named pathways / named-pathway (retired 2026-11-09)","prefer":"gated pathway (Chapter Five Gated Pathway: a specific role, privilege, or kind of access that a standing effect can open, limit, or close), or the type itself (governance-voting pathway, authority pathway, and so on); enforced by avoid-bare-pathway with no baseline"},
-      {"avoid":"pathway (bare; any sense)","prefer":"a kind-naming qualifier: gated pathway (Chapter Five Gated Pathway) or a Chapter Thirteen §5.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"},
+      {"avoid":"pathway (bare; any sense)","prefer":"a kind-naming qualifier: gated pathway (Chapter Five Gated Pathway) or a Chapter Thirteen §6.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"},
       {"avoid":"pathways (bare; any sense), including pathway-… prefix compounds","prefer":"kind-qualified plurals (gated pathways, challenge and review pathways, risk pathways, and similar) and qualified compounds (gated-pathway-specific); retain Capture of Resolution Pathways, restorative/restoration pathways, causal/system compounds, and established titles; enforced by avoid-bare-pathway"},
       {"avoid":"check / checks (bare noun in Chapter Seven: the check, a failed check, its check)","prefer":"formation check, or the named part of it (standing check, authenticity check, staff safeguards check); verb uses (the Chartered Party checks and records) and qualified compounds (formation check, standing check, authenticity check, staff safeguards check) stay; the check window clock is allowed; enforced by avoid-bare-check"},
       {"avoid":"level / levels (bare noun in the files that own a leveled scale: the level, that level, those levels)","prefer":"the named scale: protection level (Treatment of Life by Status), stewardship level (CSS-A to CSS-C), access level or disclosure level (transparency and audit access), severity level, evidence level, verification level; numbered forms (Level 1 to Level 4) and 'level of ...' stay; 'tier' names only the forum urgency tiers (Tier A/B/C/L/P); enforced by avoid-bare-level"},
