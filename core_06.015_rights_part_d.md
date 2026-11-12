@@ -1486,7 +1486,7 @@ This Article sets out the floors for independent challenge and secondary review 
 - Read with:
   - [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*the general independence and anti-capture floor for all governance bodies*);
   - [Chapter Thirteen §6.5](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5) (*forum disclosure omission and recusal-process impact*);
-  - [Chapter Fourteen §6.10](core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation) (14.005 §6.10) (*named misconduct pattern*);
+  - [Chapter Fourteen §9.3](core_14.005_misconduct_pattern_applications.md#93-forum-recusal-failure-and-biased-panel-participation) (14.005 §9.3) (*named misconduct pattern*);
   - [Chapter Fifteen §2 (*Default Venue and Primary Stakes*)](core_15.000_forum.md#2-default-venue-and-primary-stakes) (15.000 §2) and
   - [§3](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Integrity-first routing and anti-self-judging*).
 

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **815** of **1291** headings carry a gloss (63%).
+Coverage: **819** of **1295** headings carry a gloss (63%).
 
 ## Contents
 
@@ -40,7 +40,7 @@ Coverage: **815** of **1291** headings carry a gloss (63%).
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
 - [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (71/79 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (13/22 glossed)
-- [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/45 glossed)
+- [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (16/49 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/31 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.005_rights_part_b.md` (42/43 glossed)
@@ -6037,7 +6037,7 @@ a public apology in an anti-constitutional misconduct case must meet Chapter Thi
 
 ## CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS
 
-Source file: [`core_14.005_misconduct_pattern_applications.md`](../../core_14.005_misconduct_pattern_applications.md) · 12/45 headings glossed
+Source file: [`core_14.005_misconduct_pattern_applications.md`](../../core_14.005_misconduct_pattern_applications.md) · 16/49 headings glossed
 
 #### 6. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity
 
@@ -6045,263 +6045,287 @@ the rest of the chapter applies the same decision model to recurring anti-consti
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#6-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity)
 
-##### 6.1 Concentration-Based Subversion: Criteria Interaction
+#### 7. Blocking Contest, Review, and Verification
 
-dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.
+these three patterns keep sentients from using the ways they challenge, audit, and check what is true. One does it with contract terms that sign those ways away, one by burying forums and contest desks under filings, and one by drowning the shared information environment. They are grouped here because each defeats practical contestability.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction)
+[Source](../../core_14.005_misconduct_pattern_applications.md#7-blocking-contest-review-and-verification)
 
-##### 6.2 Rights-Floor Waivers and Unconstitutional Contract Terms
+##### 7.1 Rights-Floor Waivers and Unconstitutional Contract Terms
 
 “click here to give up your core rights” clauses — buried in employment, platform, or service terms — are not a lawful way to silence audits, challenges, or appeals, and convenience alone is never a good enough excuse.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms)
+[Source](../../core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms)
 
-###### 6.2.1 Rights-Floor Waiver Conduct
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#621-rights-floor-waiver-conduct)
-
-###### 6.2.2 Unconstitutional Contract-Term Conduct
+###### 7.1.1 Rights-Floor Waiver Conduct
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#622-unconstitutional-contract-term-conduct)
+[Source](../../core_14.005_misconduct_pattern_applications.md#711-rights-floor-waiver-conduct)
 
-###### 6.2.3 Post-Employment Mobility-Restriction Conduct
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#623-post-employment-mobility-restriction-conduct)
-
-###### 6.2.4 Non-Binding Effect
+###### 7.1.2 Unconstitutional Contract-Term Conduct
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#624-non-binding-effect)
+[Source](../../core_14.005_misconduct_pattern_applications.md#712-unconstitutional-contract-term-conduct)
 
-###### 6.2.5 Criteria Routing
+###### 7.1.3 Post-Employment Mobility-Restriction Conduct
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#625-criteria-routing)
+[Source](../../core_14.005_misconduct_pattern_applications.md#713-post-employment-mobility-restriction-conduct)
 
-##### 6.3 Flooding the Zone and Contest-Pathway Denial
+###### 7.1.4 Non-Binding Effect
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#714-non-binding-effect)
+
+###### 7.1.5 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#715-criteria-routing)
+
+##### 7.2 Flooding the Zone and Contest-Pathway Denial
 
 burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#63-flooding-the-zone-and-contest-pathway-denial)
+[Source](../../core_14.005_misconduct_pattern_applications.md#72-flooding-the-zone-and-contest-pathway-denial)
 
-###### 6.3.1 Flooding-the-Zone Conduct
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#631-flooding-the-zone-conduct)
-
-###### 6.3.2 Material Effects
+###### 7.2.1 Flooding-the-Zone Conduct
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#632-material-effects)
+[Source](../../core_14.005_misconduct_pattern_applications.md#721-flooding-the-zone-conduct)
 
-###### 6.3.3 In-Scope Means
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#633-in-scope-means)
-
-###### 6.3.4 Exclusions
+###### 7.2.2 Material Effects
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#634-exclusions)
+[Source](../../core_14.005_misconduct_pattern_applications.md#722-material-effects)
 
-###### 6.3.5 Operational Response
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#635-operational-response)
-
-###### 6.3.6 Criteria Routing
+###### 7.2.3 In-Scope Means
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#636-criteria-routing)
+[Source](../../core_14.005_misconduct_pattern_applications.md#723-in-scope-means)
 
-##### 6.4 Info-Sphere Zone Flooding
+###### 7.2.4 Exclusions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#724-exclusions)
+
+###### 7.2.5 Operational Response
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#725-operational-response)
+
+###### 7.2.6 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#726-criteria-routing)
+
+##### 7.3 Info-Sphere Zone Flooding
 
 hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#64-info-sphere-zone-flooding)
+[Source](../../core_14.005_misconduct_pattern_applications.md#73-info-sphere-zone-flooding)
 
-##### 6.5 Bribery and Improper Benefit Exchange
+#### 8. Corrupting and Commanding Duty-Holders
+
+these two patterns push a duty-holder to bend or break a duty. One pays for it; the other orders it. Both reach every role along the chain, from the one who offers the benefit or issues the order to the one who passes it on or carries it out.
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#8-corrupting-and-commanding-duty-holders)
+
+##### 8.1 Bribery and Improper Benefit Exchange
 
 bribery can corrupt constitutional government from either side. Offering or giving the benefit, asking for or receiving it, routing it through an ally or shell entity, or disguising it as funding can all matter if the exchange distorts duties, records, review, votes, enforcement, or remedies.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange)
+[Source](../../core_14.005_misconduct_pattern_applications.md#81-bribery-and-improper-benefit-exchange)
 
-##### 6.6 Unlawful or Unconstitutional Command Conduct
+##### 8.2 Unlawful or Unconstitutional Command Conduct
 
 an unlawful or unconstitutional order is not just a bad downstream act. Giving, approving, passing along, or enforcing the order can itself be anti-constitutional conduct. Following it is also accountable when the actor had real capacity to refuse, document, or escalate, but dependency, threat, and practical capacity matter.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#66-unlawful-or-unconstitutional-command-conduct)
+[Source](../../core_14.005_misconduct_pattern_applications.md#82-unlawful-or-unconstitutional-command-conduct)
 
-###### 6.6.1 Follower and Implementer Accountability
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#661-follower-and-implementer-accountability)
-
-###### 6.6.2 Immediate Containment and ACMD Boundary
+###### 8.2.1 Follower and Implementer Accountability
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#662-immediate-containment-and-acmd-boundary)
+[Source](../../core_14.005_misconduct_pattern_applications.md#821-follower-and-implementer-accountability)
 
-###### 6.6.3 Personal Accountability and Non-Substitution
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#663-personal-accountability-and-non-substitution)
-
-###### 6.6.4 Exclusions
+###### 8.2.2 Immediate Containment and ACMD Boundary
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#664-exclusions)
+[Source](../../core_14.005_misconduct_pattern_applications.md#822-immediate-containment-and-acmd-boundary)
 
-###### 6.6.5 Criteria Routing
+###### 8.2.3 Personal Accountability and Non-Substitution
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#665-criteria-routing)
+[Source](../../core_14.005_misconduct_pattern_applications.md#823-personal-accountability-and-non-substitution)
 
-##### 6.7 Reward, Protection, or Normalization of Anti-Constitutional Conduct
+###### 8.2.4 Exclusions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#824-exclusions)
+
+###### 8.2.5 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#825-criteria-routing)
+
+#### 9. Shielding Misconduct and Failing to Enforce
+
+these three patterns are about what happens around misconduct once it exists: rewarding or protecting it, declining to enforce against it, or sitting on a panel that is too compromised to judge it fairly. The common thread is that the system meant to hold wrongdoers to account is the one shielding them.
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#9-shielding-misconduct-and-failing-to-enforce)
+
+##### 9.1 Reward, Protection, or Normalization of Anti-Constitutional Conduct
 
 a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#67-reward-protection-or-normalization-of-anti-constitutional-conduct)
+[Source](../../core_14.005_misconduct_pattern_applications.md#91-reward-protection-or-normalization-of-anti-constitutional-conduct)
 
-###### 6.7.1 Covered Acts
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#671-covered-acts)
-
-###### 6.7.2 Actors in Scope
+###### 9.1.1 Covered Acts
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#672-actors-in-scope)
+[Source](../../core_14.005_misconduct_pattern_applications.md#911-covered-acts)
 
-###### 6.7.3 Reward and Protection Forms
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#673-reward-and-protection-forms)
-
-###### 6.7.4 Correction and Non-Recognition
+###### 9.1.2 Actors in Scope
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#674-correction-and-non-recognition)
+[Source](../../core_14.005_misconduct_pattern_applications.md#912-actors-in-scope)
 
-###### 6.7.5 Exclusions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#675-exclusions)
-
-###### 6.7.6 Criteria Routing
+###### 9.1.3 Reward and Protection Forms
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#676-criteria-routing)
+[Source](../../core_14.005_misconduct_pattern_applications.md#913-reward-and-protection-forms)
 
-##### 6.8 Enforcement Refusal, Suppression, or Non-Prosecution Conduct
+###### 9.1.4 Correction and Non-Recognition
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#914-correction-and-non-recognition)
+
+###### 9.1.5 Exclusions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#915-exclusions)
+
+###### 9.1.6 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#916-criteria-routing)
+
+##### 9.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct
 
 prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#68-enforcement-refusal-suppression-or-non-prosecution-conduct)
+[Source](../../core_14.005_misconduct_pattern_applications.md#92-enforcement-refusal-suppression-or-non-prosecution-conduct)
 
-###### 6.8.1 Covered Conduct
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#681-covered-conduct)
-
-###### 6.8.2 Actors in Scope
+###### 9.2.1 Covered Conduct
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#682-actors-in-scope)
+[Source](../../core_14.005_misconduct_pattern_applications.md#921-covered-conduct)
 
-###### 6.8.3 Material Links
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#683-material-links)
-
-###### 6.8.4 Discretion Preserved
+###### 9.2.2 Actors in Scope
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#684-discretion-preserved)
+[Source](../../core_14.005_misconduct_pattern_applications.md#922-actors-in-scope)
 
-###### 6.8.5 Independent Preservation and Review
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#685-independent-preservation-and-review)
-
-###### 6.8.6 Criteria Routing
+###### 9.2.3 Material Links
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#686-criteria-routing)
+[Source](../../core_14.005_misconduct_pattern_applications.md#923-material-links)
 
-##### 6.9 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct
+###### 9.2.4 Discretion Preserved
 
-cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct)
+[Source](../../core_14.005_misconduct_pattern_applications.md#924-discretion-preserved)
 
-##### 6.10 Forum Recusal Failure and Biased Panel Participation
+###### 9.2.5 Independent Preservation and Review
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#925-independent-preservation-and-review)
+
+###### 9.2.6 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#926-criteria-routing)
+
+##### 9.3 Forum Recusal Failure and Biased Panel Participation
 
 if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation)
+[Source](../../core_14.005_misconduct_pattern_applications.md#93-forum-recusal-failure-and-biased-panel-participation)
 
-###### 6.10.1 Covered Conduct
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#6101-covered-conduct)
-
-###### 6.10.2 Constitutional Forum Panels
+###### 9.3.1 Covered Conduct
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#6102-constitutional-forum-panels)
+[Source](../../core_14.005_misconduct_pattern_applications.md#931-covered-conduct)
 
-###### 6.10.3 Forum Routing
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_14.005_misconduct_pattern_applications.md#6103-forum-routing)
-
-###### 6.10.4 Criteria Routing
+###### 9.3.2 Constitutional Forum Panels
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#6104-criteria-routing)
+[Source](../../core_14.005_misconduct_pattern_applications.md#932-constitutional-forum-panels)
 
-##### 6.11 Obstruction of Accountability: Criteria Interaction
+###### 9.3.3 Forum Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#933-forum-routing)
+
+###### 9.3.4 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#934-criteria-routing)
+
+#### 10. Structural Control: Concentration and Dependency
+
+these two patterns look at who controls what constitutional process depends on: concentrated wealth and power, and the infrastructure and dependencies sentients rely on to live and use their rights. Neither is a separate criterion. Both are judged by what the control actually does.
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#10-structural-control-concentration-and-dependency)
+
+##### 10.1 Concentration-Based Subversion: Criteria Interaction
+
+dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction)
+
+##### 10.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct
+
+cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#102-infrastructure-denial-destruction-or-dependency-cutoff-conduct)
+
+#### 11. Obstruction of Accountability: Criteria Interaction
 
 attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Eleven and Twelve.
 
-[Source](../../core_14.005_misconduct_pattern_applications.md#611-obstruction-of-accountability-criteria-interaction)
+[Source](../../core_14.005_misconduct_pattern_applications.md#11-obstruction-of-accountability-criteria-interaction)
 
 ## CHAPTER FIFTEEN: FORUMS AND JURISDICTION
 

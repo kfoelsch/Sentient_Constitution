@@ -32,7 +32,7 @@
   - [§3](#3-supremacy-relative-to-other-binding-norms)–
   - [§4](#4-disputes-involving-external-legal-orders);
   - [§5](#5-relation-to-applicable-external-law).
-- Downstream: [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Fourteen, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) (14.005) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Downstream: [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Fourteen, section 7.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms) (14.005) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with:
   - **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions;
   - [Chapter Thirteen §10 — *Enforcement realism*](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) where cited in §3.3;
@@ -190,7 +190,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) procedural validity for waivers tied to adoption documents.
-- Read with: [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Fourteen, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) (14.005).
+- Read with: [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Fourteen, section 7.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms) (14.005).
 
 </details>
 
@@ -198,7 +198,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XX-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Fourteen, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XX-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Fourteen, section 7.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ### 5. Relation to Applicable External Law
 <details>
