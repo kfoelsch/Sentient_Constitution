@@ -604,9 +604,9 @@ Sentients with verified anti-constitutional misconduct must be imprisoned when i
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection or remediation under **section 5.1** or locks under **section 5.2**, is non-compliant.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions or widen the **Anti-Constitutional Trust Lock**.
 
-*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
-
 ---
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 **Previous file:** [core_13.000_standing_integration.md](core_13.000_standing_integration.md)
 

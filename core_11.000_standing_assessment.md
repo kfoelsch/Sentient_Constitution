@@ -1030,9 +1030,9 @@ Who holds a standing record, and any dispute over it, is handled on these terms:
 
 **Continuation.** Question 2 measurement continues in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it), beginning with [Chapter Twelve section 1 — Question 2: how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
 
-*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
-
 ---
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 **Previous file:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)
 

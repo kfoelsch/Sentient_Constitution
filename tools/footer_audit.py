@@ -272,6 +272,22 @@ NAV_FOOTER_PATTERNS = (
 )
 
 
+# EXAMPLES-LINK-01: a chapter that has worked examples carries its closing
+# ``*Worked examples`` line directly under the footer rule, above Previous/Next.
+# The line belongs to the footer block, so a rebuild must keep it.
+EXAMPLES_FOOTER_RE = re.compile(
+    r"\n---\n\n(\*Worked examples\b[^\n]*)\n\n(?=\*\*(?:Previous|Next) file:\*\*)"
+)
+
+
+def take_examples_line(text: str) -> tuple[str, str | None]:
+    """Remove the footer's worked-examples line (keeping the rule); return (text, line)."""
+    match = EXAMPLES_FOOTER_RE.search(text)
+    if not match:
+        return text, None
+    return text[: match.start()] + "\n---\n\n" + text[match.end():], match.group(1)
+
+
 def strip_existing_footer(text: str) -> str:
     """Remove navigation footer blocks anywhere in the file (including stale mid-file footers)."""
     text = text.rstrip() + "\n"
@@ -315,6 +331,7 @@ def build_footer(
     nxt: str,
     *,
     with_alignment: bool = False,
+    examples_line: str | None = None,
 ) -> str:
     lines: list[str] = []
     if with_alignment:
@@ -328,6 +345,9 @@ def build_footer(
                 "",
             ]
         )
+    if examples_line:
+        lines.append(examples_line)
+        lines.append("")
     if prev and current not in NEXT_ONLY:
         lines.append(
             f"**Previous file:** [{expected_prev_link(current, prev)}]"
@@ -480,12 +500,14 @@ def repair_file(root: Path, rel: str, prev: str | None, nxt: str) -> bool:
     if rel in NEXT_ONLY and rel not in TERMINAL_ALIGNMENT_FILES:
         return False
     text = path.read_text(encoding="utf-8")
-    body = strip_existing_footer(text)
+    stripped, examples_line = take_examples_line(text)
+    body = strip_existing_footer(stripped)
     footer = build_footer(
         rel,
         prev,
         nxt,
         with_alignment=rel in TERMINAL_ALIGNMENT_FILES,
+        examples_line=examples_line,
     )
     new_text = body.rstrip() + footer
     if new_text != text:
@@ -497,10 +519,12 @@ def repair_file(root: Path, rel: str, prev: str | None, nxt: str) -> bool:
 def repair_next_only(root: Path, rel: str, nxt: str) -> bool:
     path = root / rel
     text = path.read_text(encoding="utf-8")
-    body = strip_existing_footer(text)
+    stripped, examples_line = take_examples_line(text)
+    body = strip_existing_footer(stripped)
     next_target = expected_next_link(rel, nxt)
     label = basename(nxt) if "/" in nxt else nxt
-    footer = f"\n\n---\n\n**Next file:** [{label}]({next_target})\n"
+    example_block = f"{examples_line}\n\n" if examples_line else ""
+    footer = f"\n\n---\n\n{example_block}**Next file:** [{label}]({next_target})\n"
     new_text = body.rstrip() + footer
     if new_text != text:
         path.write_text(new_text, encoding="utf-8")

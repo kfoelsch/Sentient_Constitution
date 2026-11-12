@@ -1,5 +1,5 @@
 {
-  "_comment": "EXAMPLES-LINK-01. Each worked-example file the corpus keeps, and the core files it illustrates. A core file listed here must link to the example file in its Trace widget and in a closing '*Worked examples' line above its footer. tools/examples_link_audit.py reads it; the example file itself must link back to each core file named here.",
+  "_comment": "EXAMPLES-LINK-01. Each worked-example file the corpus keeps, and the core files it illustrates. A core file listed here must link to the example file in its Trace widget and in a closing '*Worked examples' line directly under its footer rule, above Previous/Next. tools/examples_link_audit.py reads it; the example file itself must link back to each core file named here.",
   "files": {
     "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md": {
       "illustrates": [

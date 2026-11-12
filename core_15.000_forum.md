@@ -1195,9 +1195,9 @@ Forum families must maintain or obtain access to **independent** support across 
   - Capacity: where material, forum families must be able to obtain support for remedy verification, pattern follow-through, and reopening inputs.
   - Boundary: that support must **not** substitute for Chapter Twelve standing measurement or Chapter Thirteen integration.
 
-*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-11.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
-
 ---
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-11.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
 **Previous file:** [core_14.005_misconduct_pattern_applications.md](core_14.005_misconduct_pattern_applications.md)
 

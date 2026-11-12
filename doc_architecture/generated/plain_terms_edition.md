@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **815** of **1287** headings carry a gloss (63%).
+Coverage: **815** of **1291** headings carry a gloss (63%).
 
 ## Contents
 
@@ -40,7 +40,7 @@ Coverage: **815** of **1287** headings carry a gloss (63%).
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
 - [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (71/79 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (13/22 glossed)
-- [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/41 glossed)
+- [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/45 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/31 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.005_rights_part_b.md` (42/43 glossed)
@@ -6037,7 +6037,7 @@ a public apology in an anti-constitutional misconduct case must meet Chapter Thi
 
 ## CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS
 
-Source file: [`core_14.005_misconduct_pattern_applications.md`](../../core_14.005_misconduct_pattern_applications.md) · 12/41 headings glossed
+Source file: [`core_14.005_misconduct_pattern_applications.md`](../../core_14.005_misconduct_pattern_applications.md) · 12/45 headings glossed
 
 #### 6. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity
 
@@ -6272,6 +6272,30 @@ cutting off or wrecking infrastructure can be a constitutional attack when the r
 if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation)
+
+###### 6.10.1 Covered Conduct
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#6101-covered-conduct)
+
+###### 6.10.2 Constitutional Forum Panels
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#6102-constitutional-forum-panels)
+
+###### 6.10.3 Forum Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#6103-forum-routing)
+
+###### 6.10.4 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#6104-criteria-routing)
 
 ##### 6.11 Obstruction of Accountability: Criteria Interaction
 

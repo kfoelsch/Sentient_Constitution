@@ -1464,7 +1464,7 @@ The final standing effect is governed by the following rule groups:
 
 - **Automatic statement:**
   - The standing system must **automatically** state the final standing effect for each applicable gated pathway once the earlier steps in [§3.4 Processing Order](#34-processing-order) are complete.
-  - That statement must list every open clearance and every gated pathway whose final effect is open with safeguards, limited, blocked, or restoration-only.
+  - That statement must list every open clearance and every gated pathway under a lock or hold.
 - **Review and approval:**
   - No additional manual approval is required when verified inputs and published rules produce a determinate result.
   - Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§3 Automatic Integration, Review, and Continuity](#3-automatic-integration-review-and-continuity).
@@ -1716,11 +1716,11 @@ Remedy commencement, correction milestones, lock review, and reassessment must s
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 
-*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns) and the Question 3 continuations of [CJS-11.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement) and [CJS-11.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
-
 <a id="11-named-applications"></a>
 
 ---
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns) and the Question 3 continuations of [CJS-11.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement) and [CJS-11.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 **Previous file:** [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md)
 
