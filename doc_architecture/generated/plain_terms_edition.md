@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **811** of **1256** headings carry a gloss (65%).
+Coverage: **815** of **1287** headings carry a gloss (63%).
 
 ## Contents
 
@@ -39,8 +39,8 @@ Coverage: **811** of **1256** headings carry a gloss (65%).
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
 - [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (71/79 glossed)
-- [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (9/18 glossed)
-- [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
+- [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (13/22 glossed)
+- [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/41 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/31 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.005_rights_part_b.md` (42/43 glossed)
@@ -5907,7 +5907,7 @@ standing consequences and redress count only when real institutions can deliver 
 
 ## CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION
 
-Source file: [`core_14.000_misconduct_designation.md`](../../core_14.000_misconduct_designation.md) · 9/18 headings glossed
+Source file: [`core_14.000_misconduct_designation.md`](../../core_14.000_misconduct_designation.md) · 13/22 headings glossed
 
 #### 1. Purpose and Role
 
@@ -5999,11 +5999,35 @@ a final anti-constitutional misconduct finding must not end with a label, a pris
 
 [Source](../../core_14.000_misconduct_designation.md#51-remedy-and-correction-anti-constitutional)
 
+###### 5.1.1 Remedy
+
+remedy is what is owed to those harmed, who carries it, and when it starts. These rules keep the repair real rather than a label.
+
+[Source](../../core_14.000_misconduct_designation.md#511-remedy)
+
+###### 5.1.2 Correction
+
+correction fixes what caused the harm and stops it continuing. These rules set out what the standing record must show for the cause side, as the remedy rules do for those harmed.
+
+[Source](../../core_14.000_misconduct_designation.md#512-correction)
+
 ##### 5.2 Prevention — Anti-Constitutional Locks
 
 after final anti-constitutional-misconduct designation, Chapter Thirteen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Thirteen lock format and states the ACM imprisonment specialization.
 
 [Source](../../core_14.000_misconduct_designation.md#52-prevention--anti-constitutional-locks)
+
+###### 5.2.1 Attachment-Field Discipline
+
+any lock, liberty restriction, or imprisonment order that follows a final ACMD is recorded with the same six fields as a Chapter Thirteen lock, so it can be checked and reviewed.
+
+[Source](../../core_14.000_misconduct_designation.md#521-attachment-field-discipline)
+
+###### 5.2.2 Imprisonment for Anti-Constitutional Misconduct
+
+imprisonment is required where it is necessary to stop further constitutional harm, and it must meet the Chapter Thirteen and **Article XX-B** (*Restriction Floors*) safeguards.
+
+[Source](../../core_14.000_misconduct_designation.md#522-imprisonment-for-anti-constitutional-misconduct)
 
 ##### 5.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 
@@ -6013,7 +6037,7 @@ a public apology in an anti-constitutional misconduct case must meet Chapter Thi
 
 ## CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS
 
-Source file: [`core_14.005_misconduct_pattern_applications.md`](../../core_14.005_misconduct_pattern_applications.md) · 12/14 headings glossed
+Source file: [`core_14.005_misconduct_pattern_applications.md`](../../core_14.005_misconduct_pattern_applications.md) · 12/41 headings glossed
 
 #### 6. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity
 
@@ -6033,11 +6057,77 @@ dangerous concentration of money or power is not a separate “mystery criterion
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms)
 
+###### 6.2.1 Rights-Floor Waiver Conduct
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#621-rights-floor-waiver-conduct)
+
+###### 6.2.2 Unconstitutional Contract-Term Conduct
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#622-unconstitutional-contract-term-conduct)
+
+###### 6.2.3 Post-Employment Mobility-Restriction Conduct
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#623-post-employment-mobility-restriction-conduct)
+
+###### 6.2.4 Non-Binding Effect
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#624-non-binding-effect)
+
+###### 6.2.5 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#625-criteria-routing)
+
 ##### 6.3 Flooding the Zone and Contest-Pathway Denial
 
 burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#63-flooding-the-zone-and-contest-pathway-denial)
+
+###### 6.3.1 Flooding-the-Zone Conduct
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#631-flooding-the-zone-conduct)
+
+###### 6.3.2 Material Effects
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#632-material-effects)
+
+###### 6.3.3 In-Scope Means
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#633-in-scope-means)
+
+###### 6.3.4 Exclusions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#634-exclusions)
+
+###### 6.3.5 Operational Response
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#635-operational-response)
+
+###### 6.3.6 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#636-criteria-routing)
 
 ##### 6.4 Info-Sphere Zone Flooding
 
@@ -6063,17 +6153,113 @@ an unlawful or unconstitutional order is not just a bad downstream act. Giving, 
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#661-follower-and-implementer-accountability)
 
+###### 6.6.2 Immediate Containment and ACMD Boundary
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#662-immediate-containment-and-acmd-boundary)
+
+###### 6.6.3 Personal Accountability and Non-Substitution
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#663-personal-accountability-and-non-substitution)
+
+###### 6.6.4 Exclusions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#664-exclusions)
+
+###### 6.6.5 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#665-criteria-routing)
+
 ##### 6.7 Reward, Protection, or Normalization of Anti-Constitutional Conduct
 
 a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#67-reward-protection-or-normalization-of-anti-constitutional-conduct)
 
+###### 6.7.1 Covered Acts
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#671-covered-acts)
+
+###### 6.7.2 Actors in Scope
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#672-actors-in-scope)
+
+###### 6.7.3 Reward and Protection Forms
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#673-reward-and-protection-forms)
+
+###### 6.7.4 Correction and Non-Recognition
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#674-correction-and-non-recognition)
+
+###### 6.7.5 Exclusions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#675-exclusions)
+
+###### 6.7.6 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#676-criteria-routing)
+
 ##### 6.8 Enforcement Refusal, Suppression, or Non-Prosecution Conduct
 
 prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#68-enforcement-refusal-suppression-or-non-prosecution-conduct)
+
+###### 6.8.1 Covered Conduct
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#681-covered-conduct)
+
+###### 6.8.2 Actors in Scope
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#682-actors-in-scope)
+
+###### 6.8.3 Material Links
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#683-material-links)
+
+###### 6.8.4 Discretion Preserved
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#684-discretion-preserved)
+
+###### 6.8.5 Independent Preservation and Review
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#685-independent-preservation-and-review)
+
+###### 6.8.6 Criteria Routing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_14.005_misconduct_pattern_applications.md#686-criteria-routing)
 
 ##### 6.9 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct
 
