@@ -165,6 +165,7 @@ This chapter does not re-measure how serious the violation is. Chapter Twelve al
 - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) keeps the verified facts (Question 1).
 - [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) keeps the impact rating (Question 2).
   - The Chapter Twelve slot stays fixed. How large the harm is does not, by itself, prove intent, capture, or anti-constitutional misconduct.
+  - The table in [§4](#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*) shows which ACMD matches slot 7, 8, or 9.
 - [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) keeps ordinary remedies, safeguards, and locks (Question 3).
   - Those Chapter Thirteen consequences continue even while ACMD is under review.
   - ACMD review runs alongside that Chapter Thirteen work. It does not wait for Question 3 to finish, and it does not reopen Chapter Twelve measurement.
@@ -334,7 +335,7 @@ Dissent, advocacy for amendment or replacement of authority by lawful means, pea
 
 *In plain terms: Chapter Twelve has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?*
 
-Only **this chapter** may decide whether anti-constitutional misconduct applies. No other process may stand in for that decision. The ACMD, when established, follows Chapter Twelve’s already assigned impact score. Those top three impact labels stay in place either way — and the matching ACMD uses the slot already assigned:
+Exclusive authority to issue a final ACMD is stated in [§2.2](#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*). The ACMD, when established, follows Chapter Twelve’s already assigned impact score. Those top three impact labels stay in place either way — and the matching ACMD uses the slot already assigned:
 
 | Existing `s` | Chapter Twelve impact label | Chapter Fourteen designation, if established |
 | ---: | --- | --- |
@@ -349,10 +350,9 @@ The ACMD attaches when both of the following are true:
 
 Once it attaches:
 
-- the seriousness label (Severe, Grave, or Catastrophic) follows the impact score Chapter Twelve already assigned;
-- how many criteria apply, and facts about intent, coercion, pattern, or institutional character, do **not** move the finding between slots;
-- a single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may make the ACMD eligible; and
-- only Chapter Twelve’s impact score decides whether the underlying finding is slot 7, 8, or 9.
+- the seriousness label (Severe, Grave, or Catastrophic) follows the impact score Chapter Twelve already assigned, and only that score decides whether the underlying finding is slot 7, 8, or 9;
+- how many criteria apply, and facts about intent, coercion, pattern, or institutional character, do **not** move the finding between slots; and
+- a single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may make the ACMD eligible.
 
 A final ACMD requires:
 
@@ -399,7 +399,13 @@ because the underlying impact is already slot 9, not because character somehow r
 
 No final **anti-constitutional misconduct designation** under this chapter may be issued without independent review, contestable notice, and reasoned publication.
 
-After final designation under **section 4** with these safeguards met, apply [§5.1 Remedy and Correction (Anti-Constitutional)](#51-remedy-and-correction-anti-constitutional), then [§5.2 Prevention — Anti-Constitutional Locks](#52-prevention--anti-constitutional-locks), then [§5.3 Voluntary Public Accountability Expression (Anti-Constitutional)](#53-voluntary-public-accountability-expression-anti-constitutional) where restorative pathways use public acknowledgment or apology. Chapter Thirteen remains the owner of general remedy, lock design and enforcement, and the **Anti-Constitutional Trust Lock**; this section states ACM-specific specializations only.
+After final designation under **section 4** with these safeguards met, apply these in order:
+
+- [§5.1 Remedy and Correction (Anti-Constitutional)](#51-remedy-and-correction-anti-constitutional);
+- then [§5.2 Prevention — Anti-Constitutional Locks](#52-prevention--anti-constitutional-locks); and
+- then [§5.3 Voluntary Public Accountability Expression (Anti-Constitutional)](#53-voluntary-public-accountability-expression-anti-constitutional) where restorative pathways use public acknowledgment or apology.
+
+Chapter Thirteen remains the owner of general remedy, lock design and enforcement, and the **Anti-Constitutional Trust Lock**; this section states ACM-specific specializations only.
 
 #### 5.1 Remedy and Correction (Anti-Constitutional)
 
@@ -459,7 +465,26 @@ After final designation under **section 4** with **section 5** safeguards met, e
 
 Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while recurrence risk remains live. ACMD seriousness does not erase either duty.
 
+Two rules apply to both outputs:
+
 - **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate standing records that no one can check together.
+- **Boundary:**
+  - This section does not re-measure LEQU impact, invent or move numeric slots, add designation criteria, or move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Fourteen.
+  - It states the ACM remedy-and-correction specialization triggered by a final ACMD on an existing **slot 7, 8, or 9** finding.
+  - Chapter Thirteen owns general remedy assignment and applies standing locks and final standing effects — including the **Anti-Constitutional Trust Lock** only after final ACMD.
+  - Operational mechanics remain in Chapter Fifteen and incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Six Rights Floor.
+
+This subsection has two parts:
+
+- [§5.1.1 Remedy](#511-remedy); and
+- [§5.1.2 Correction](#512-correction).
+
+##### 5.1.1 Remedy
+
+*In plain terms: remedy is what is owed to those harmed, who carries it, and when it starts. These rules keep the repair real rather than a label.*
+
+The remedy disposition must meet these rules:
+
 - **Affected-party and remedy identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure:
   - affected sentients, classes, communities, institutions, systems, or constitutional challenge, participation, or remedy pathways;
   - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
@@ -480,11 +505,18 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 - **Execution realism and anti-evasion:**
   - Where remedy needs funding, capacity, cross-institution coordination, tracing successors, recognition by another forum, or pooled execution, the disposition must name how that will happen — or say why a substitute safeguard is the proportionate lawful remedy instead.
   - Relabeling entities, forum shopping, misusing confidentiality, insolvency structuring, or transferring custody must not be used to wipe out remedy obligations.
-- **Boundary:**
-  - This section does not re-measure LEQU impact, invent or move numeric slots, add designation criteria, or move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Fourteen.
-  - It states the ACM remedy-and-correction specialization triggered by a final ACMD on an existing **slot 7, 8, or 9** finding.
-  - Chapter Thirteen owns general remedy assignment and applies standing locks and final standing effects — including the **Anti-Constitutional Trust Lock** only after final ACMD.
-  - Operational mechanics remain in Chapter Fifteen and incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Six Rights Floor.
+
+##### 5.1.2 Correction
+
+*In plain terms: correction fixes what caused the harm and stops it continuing. These rules set out what the standing record must show for the cause side, as the remedy rules do for those harmed.*
+
+The correction disposition must meet these rules:
+
+- **Cause identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the unified incident possible or kept it going, read with **Article XXIV** (*Root Cause Analysis and Adaptive Response*).
+- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why. Whether a constitutional change itself stands is decided under [Chapter Seventeen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) and [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity), not here.
+- **Who carries it and when:** The disposition must name who carries each correction. It must also set commencement deadlines, completion milestones, and who supervises follow-through under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
+- **Completion:** Correction is complete only when the standing record shows it eliminates or resolves the cause. Completion opens a reassessment gated pathway where lawful, and non-completion keeps the violation finding live for standing purposes, as **Article XX-B** (*Restriction Floors*) states.
+- **Non-substitution, correction side:** Imprisonment, standing locks, role exclusion, or publication does not by itself count as correction. It counts only when the standing record shows it addresses the cause or stops continuation.
 
 #### 5.2 Prevention — Anti-Constitutional Locks
 
@@ -510,23 +542,40 @@ After final designation under **section 4** with **section 5** safeguards met:
 
 - **Mandatory special lock:** Chapter Thirteen must attach the **Anti-Constitutional Trust Lock** under [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Thirteen.
 - **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two permanent-lock grounds under [Chapter Thirteen §9 Restoration and Reassessment](core_13.000_standing_integration.md#9-restoration-and-reassessment). Where a final ACMD rests on it and a dissolution order ends a Chartered Party, the order records the pervasive-conduct ground and the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks) is permanent. This chapter adds no other permanent lock and does not restate the rule.
-- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Thirteen lock design and enforcement under [Chapter Thirteen §6 Lock Design and Enforcement](core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must be recorded using the [Chapter Thirteen §6.1 Definition and Attachment](core_13.000_standing_integration.md#61-definition-and-attachment) attachment fields:
-  - blocked or limited gated pathway;
-  - risk reduced;
-  - protected subjects or interests;
-  - corrective conditions;
-  - review route; and
-  - reassessment point.
-- **Imprisonment for anti-constitutional misconduct:** Sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
-  - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
-  - It applies to repeated or sustained patterns assessed as a unified incident under **section 3**.
-  - **Section 4** decides whether the misconduct is verified and how serious it is; this subsection decides whether imprisonment is required as a liberty-restricting safeguard.
-  - Imprisonment must satisfy:
-    - [Chapter Thirteen §6.4.5](core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards) (*Coercive or Liberty-Restricting Safeguards*);
-    - **Article XX-B** (*Restriction Floors*) joint requirements;
-    - individualized attribution, and challenge and appeal protections; and
-    - **Article XX-B** (*Restriction Floors*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
-  - Substituting deprivation of life, release, administrative relabeling, or lesser measures alone when this subsection requires imprisonment is non-compliant.
+
+This subsection has two parts:
+
+- [§5.2.1 Attachment-Field Discipline](#521-attachment-field-discipline); and
+- [§5.2.2 Imprisonment for Anti-Constitutional Misconduct](#522-imprisonment-for-anti-constitutional-misconduct).
+
+##### 5.2.1 Attachment-Field Discipline
+
+*In plain terms: any lock, liberty restriction, or imprisonment order that follows a final ACMD is recorded with the same six fields as a Chapter Thirteen lock, so it can be checked and reviewed.*
+
+Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Thirteen lock design and enforcement under [Chapter Thirteen §6 Lock Design and Enforcement](core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must be recorded using the [Chapter Thirteen §6.1 Definition and Attachment](core_13.000_standing_integration.md#61-definition-and-attachment) attachment fields:
+
+- blocked or limited gated pathway;
+- risk reduced;
+- protected subjects or interests;
+- corrective conditions;
+- review route; and
+- reassessment point.
+
+##### 5.2.2 Imprisonment for Anti-Constitutional Misconduct
+
+*In plain terms: imprisonment is required where it is necessary to stop further constitutional harm, and it must meet the Chapter Thirteen and **Article XX-B** (*Restriction Floors*) safeguards.*
+
+Sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
+
+- This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
+- It applies to repeated or sustained patterns assessed as a unified incident under **section 3**.
+- **Section 4** decides whether the misconduct is verified and how serious it is; this subsection decides whether imprisonment is required as a liberty-restricting safeguard.
+- Imprisonment must satisfy:
+  - [Chapter Thirteen §6.4.5](core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards) (*Coercive or Liberty-Restricting Safeguards*);
+  - **Article XX-B** (*Restriction Floors*) joint requirements;
+  - individualized attribution, and challenge and appeal protections; and
+  - **Article XX-B** (*Restriction Floors*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
+- Substituting deprivation of life, release, administrative relabeling, or lesser measures alone when this subsection requires imprisonment is non-compliant.
 
 #### 5.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 
