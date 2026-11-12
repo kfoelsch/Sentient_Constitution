@@ -1823,7 +1823,7 @@ This Article sets out the floors for non-imposition and consent in association:
   - Participation must remain revocable without unjustified penalty where **Feasibility** permits under **Chapter Five**.
 - **No surrender of rights through general terms:** No system or institution may require a sentient to give up or waive a right as part of its general terms of service, user agreement, or similar standard terms, or as the price of using it.
   - Accepting those terms is not consent to the surrender. Licensing or sharing something of one's own needs its own separate, informed consent under **Chapter Five** (*Consent*), not bundled with access.
-  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Eighteen §4.2](core_18.000_expansion_supremacy.md#42-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Fourteen §6.2](core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor Waivers and Unconstitutional Contract Terms*).
+  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Eighteen §4.2](core_18.000_expansion_supremacy.md#42-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Fourteen §7.1](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor Waivers and Unconstitutional Contract Terms*).
 
 #### Article XI-G: Collective Harm Boundary and Enforcement Interface
 <details>
@@ -2087,7 +2087,7 @@ This Article sets out the floors for internal roles and due process:
   - [Anti-Capture](core_05.040_band_continuity.md#anti-capture);
   - [Chapter Fifteen §2](core_15.000_forum.md#2-default-venue-and-primary-stakes) (15.000 §2) (*Default Venue and Primary Stakes*) and
   - [§3](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*);
-  - [Chapter Fourteen §6.10](core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation) (14.005 §6.10) (*named misconduct pattern*);
+  - [Chapter Fourteen §9.3](core_14.005_misconduct_pattern_applications.md#93-forum-recusal-failure-and-biased-panel-participation) (14.005 §9.3) (*named misconduct pattern*);
   - [Article XXV-C](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*);
   - [Chapter Eight: Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
   - [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
@@ -2192,9 +2192,9 @@ This Article sets out the non-capture safeguards for every body that decides for
   - [Article IX-A](core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*);
   - [Article XIII-E](core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
   - [Article XV](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*);
-  - [Chapter Fourteen §6.3](core_14.005_misconduct_pattern_applications.md#63-flooding-the-zone-and-contest-pathway-denial) (14.005 §6.3) (*Flooding the Zone and Contest-Pathway Denial*),
-  - [§6.4](core_14.005_misconduct_pattern_applications.md#64-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*), and
-  - [§6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
+  - [Chapter Fourteen §7.2](core_14.005_misconduct_pattern_applications.md#72-flooding-the-zone-and-contest-pathway-denial) (14.005 §7.2) (*Flooding the Zone and Contest-Pathway Denial*),
+  - [§7.3](core_14.005_misconduct_pattern_applications.md#73-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*), and
+  - [§8.1](core_14.005_misconduct_pattern_applications.md#81-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
   - [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
   - [Chapter Sixteen §1.2](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (16.000 §1.2) (*Eligibility, Contested Selection, and Democratic Minimums*).
 

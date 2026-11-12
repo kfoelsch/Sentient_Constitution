@@ -205,7 +205,7 @@ Make a final ACMD in this order:
    - Hand the final ACMD to Chapter Thirteen for the Trust Lock and standing-effect integration.
 4. **Add restorative expression and named patterns**
    - Apply **section 5.3** where restorative pathways use voluntary public accountability expression.
-   - Use **section 6** (Part B) named patterns only as applications of this same sequence.
+   - Use the named patterns in **sections 6 through 11** (Part B) only as applications of this same sequence.
 
 ### 3. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale
 <details>
@@ -218,17 +218,21 @@ Make a final ACMD in this order:
 - This section: ACMD criteria set; unified-incident rule; **good-faith drafting carve-out** for corrected criteria 1–4 (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) change or record errors.
 - Downstream pattern applications and criteria routing:
   - [§6](core_14.005_misconduct_pattern_applications.md#6-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), including
-  - [§6.1](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction),
-  - [§6.2](core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms),
-  - [§6.3](core_14.005_misconduct_pattern_applications.md#63-flooding-the-zone-and-contest-pathway-denial),
-  - [§6.4](core_14.005_misconduct_pattern_applications.md#64-info-sphere-zone-flooding),
-  - [§6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange),
-  - [§6.6](core_14.005_misconduct_pattern_applications.md#66-unlawful-or-unconstitutional-command-conduct),
-  - [§6.7](core_14.005_misconduct_pattern_applications.md#67-reward-protection-or-normalization-of-anti-constitutional-conduct),
-  - [§6.8](core_14.005_misconduct_pattern_applications.md#68-enforcement-refusal-suppression-or-non-prosecution-conduct),
-  - [§6.9](core_14.005_misconduct_pattern_applications.md#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct),
-  - [§6.10](core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation), and
-  - [§6.11](core_14.005_misconduct_pattern_applications.md#611-obstruction-of-accountability-criteria-interaction).
+  - [§7](core_14.005_misconduct_pattern_applications.md#7-blocking-contest-review-and-verification), including
+  - [§7.1](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms);
+  - [§7.2](core_14.005_misconduct_pattern_applications.md#72-flooding-the-zone-and-contest-pathway-denial);
+  - [§7.3](core_14.005_misconduct_pattern_applications.md#73-info-sphere-zone-flooding);
+  - [§8](core_14.005_misconduct_pattern_applications.md#8-corrupting-and-commanding-duty-holders), including
+  - [§8.1](core_14.005_misconduct_pattern_applications.md#81-bribery-and-improper-benefit-exchange);
+  - [§8.2](core_14.005_misconduct_pattern_applications.md#82-unlawful-or-unconstitutional-command-conduct);
+  - [§9](core_14.005_misconduct_pattern_applications.md#9-shielding-misconduct-and-failing-to-enforce), including
+  - [§9.1](core_14.005_misconduct_pattern_applications.md#91-reward-protection-or-normalization-of-anti-constitutional-conduct);
+  - [§9.2](core_14.005_misconduct_pattern_applications.md#92-enforcement-refusal-suppression-or-non-prosecution-conduct);
+  - [§9.3](core_14.005_misconduct_pattern_applications.md#93-forum-recusal-failure-and-biased-panel-participation);
+  - [§10](core_14.005_misconduct_pattern_applications.md#10-structural-control-concentration-and-dependency), including
+  - [§10.1](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction);
+  - [§10.2](core_14.005_misconduct_pattern_applications.md#102-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
+  - [§11](core_14.005_misconduct_pattern_applications.md#11-obstruction-of-accountability-criteria-interaction).
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) for record, custody, and verification expectations tied to **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*); [§2.3](#23-chapters-seventeen-through-nineteen-boundary) (*Chapters Seventeen through Nineteen boundary*).
 
 </details>
@@ -250,7 +254,7 @@ Evaluators must treat as **one incident** conduct that shares one or more of the
 Evaluators must also apply the following:
 
 - Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited.
-- Where **section 6.3** (*Flooding the zone*) and **section 6.4** (*Info-Sphere Zone Flooding*) overlap, assess on a **unified incident record** under the unified-incident rule in **section 3.1**.
+- Where **section 7.2** (*Flooding the zone*) and **section 7.3** (*Info-Sphere Zone Flooding*) overlap, assess on a **unified incident record** under the unified-incident rule in **section 3.1**.
 
 #### 3.2 Single Catastrophic Incident and Sustained High-Gravity Pattern
 
@@ -310,17 +314,17 @@ Dissent, advocacy for amendment or replacement of authority by lawful means, pea
 
 - Upstream: [§3](#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*).
 - Criteria interactions:
-  - [§6.1](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction);
-  - [§6.2](core_14.005_misconduct_pattern_applications.md#62-rights-floor-waivers-and-unconstitutional-contract-terms);
-  - [§6.3](core_14.005_misconduct_pattern_applications.md#63-flooding-the-zone-and-contest-pathway-denial);
-  - [§6.4](core_14.005_misconduct_pattern_applications.md#64-info-sphere-zone-flooding);
-  - [§6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange);
-  - [§6.6](core_14.005_misconduct_pattern_applications.md#66-unlawful-or-unconstitutional-command-conduct);
-  - [§6.7](core_14.005_misconduct_pattern_applications.md#67-reward-protection-or-normalization-of-anti-constitutional-conduct);
-  - [§6.8](core_14.005_misconduct_pattern_applications.md#68-enforcement-refusal-suppression-or-non-prosecution-conduct);
-  - [§6.9](core_14.005_misconduct_pattern_applications.md#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
-  - [§6.10](core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation);
-  - [§6.11](core_14.005_misconduct_pattern_applications.md#611-obstruction-of-accountability-criteria-interaction).
+  - [§7.1](core_14.005_misconduct_pattern_applications.md#71-rights-floor-waivers-and-unconstitutional-contract-terms);
+  - [§7.2](core_14.005_misconduct_pattern_applications.md#72-flooding-the-zone-and-contest-pathway-denial);
+  - [§7.3](core_14.005_misconduct_pattern_applications.md#73-info-sphere-zone-flooding);
+  - [§8.1](core_14.005_misconduct_pattern_applications.md#81-bribery-and-improper-benefit-exchange);
+  - [§8.2](core_14.005_misconduct_pattern_applications.md#82-unlawful-or-unconstitutional-command-conduct);
+  - [§9.1](core_14.005_misconduct_pattern_applications.md#91-reward-protection-or-normalization-of-anti-constitutional-conduct);
+  - [§9.2](core_14.005_misconduct_pattern_applications.md#92-enforcement-refusal-suppression-or-non-prosecution-conduct);
+  - [§9.3](core_14.005_misconduct_pattern_applications.md#93-forum-recusal-failure-and-biased-panel-participation);
+  - [§10.1](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction);
+  - [§10.2](core_14.005_misconduct_pattern_applications.md#102-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
+  - [§11](core_14.005_misconduct_pattern_applications.md#11-obstruction-of-accountability-criteria-interaction).
 - Downstream:
   - [§5](#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*),
   - [§5.1](#51-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*),
@@ -378,15 +382,15 @@ because the underlying impact is already slot 9, not because character somehow r
 
 - Upstream: [§4](#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§3](#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*), including the **good-faith drafting carve-out**.
 - Pattern applications:
-  - [§6.3](core_14.005_misconduct_pattern_applications.md#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*);
-  - [§6.4](core_14.005_misconduct_pattern_applications.md#64-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*);
-  - [§6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
-  - [§6.6](core_14.005_misconduct_pattern_applications.md#66-unlawful-or-unconstitutional-command-conduct) (*Unlawful or Unconstitutional Command Conduct*);
-  - [§6.7](core_14.005_misconduct_pattern_applications.md#67-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, Protection, or Normalization of Anti-Constitutional Conduct*);
-  - [§6.8](core_14.005_misconduct_pattern_applications.md#68-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement Refusal, Suppression, or Non-Prosecution Conduct*);
-  - [§6.9](core_14.005_misconduct_pattern_applications.md#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure Denial, Destruction, or Dependency Cutoff Conduct*);
-  - [§6.10](core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*);
-  - [§6.11](core_14.005_misconduct_pattern_applications.md#611-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
+  - [§7.2](core_14.005_misconduct_pattern_applications.md#72-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*);
+  - [§7.3](core_14.005_misconduct_pattern_applications.md#73-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*);
+  - [§8.1](core_14.005_misconduct_pattern_applications.md#81-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
+  - [§8.2](core_14.005_misconduct_pattern_applications.md#82-unlawful-or-unconstitutional-command-conduct) (*Unlawful or Unconstitutional Command Conduct*);
+  - [§9.1](core_14.005_misconduct_pattern_applications.md#91-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, Protection, or Normalization of Anti-Constitutional Conduct*);
+  - [§9.2](core_14.005_misconduct_pattern_applications.md#92-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement Refusal, Suppression, or Non-Prosecution Conduct*);
+  - [§9.3](core_14.005_misconduct_pattern_applications.md#93-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*);
+  - [§10.2](core_14.005_misconduct_pattern_applications.md#102-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure Denial, Destruction, or Dependency Cutoff Conduct*);
+  - [§11](core_14.005_misconduct_pattern_applications.md#11-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
 - Downstream: [§5.1](#51-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*); [§5.2](#52-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*); [§5.3](#53-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
 - Forum discipline: [Chapter Fifteen §2](core_15.000_forum.md#2-default-venue-and-primary-stakes) (15.000 §2) through [§5](core_15.000_forum.md#5-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 5** with **Article XX** (*Justice After Verified Violation*) in **Chapter Six**.
 - Read with: [Article XX-A: Justice Objective and Scope](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02.000_definition_structure.md) tracing standards for publication; [Chapter Thirteen §5](core_13.000_standing_integration.md#5-violation-correction-and-prevention) (13.000 §5) (*Violation, Correction, and Prevention*) for the general remedy → locks → expression grammar this section specializes.
