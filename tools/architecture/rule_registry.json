@@ -514,6 +514,13 @@
       "summary": "The noun \"scope\" says whose or which scope it is (chartered scope, admission scope, release scope, enforceability scope) or \"scope of ...\"; a bare \"the scope\", \"that scope\", \"its scope\", \"a scope\", \"own scope\" or \"whole scope\" fails. The In scope, Out of scope and Admission scope field labels, a following pointer or relative clause (\"the scope above\", \"the scope each cluster states\"), scope as a modifier (scope document, scope cap) and the verb are not matched. Chapter Five has no exemption. The baseline is empty: every older use was qualified in the 311th to 314th moves.",
       "make_target": "scope-qualified-audit",
       "status": "blocking"
+    },
+    {
+      "id": "CRITERION-NAMED-01",
+      "legacy_ref": "criterion wording",
+      "summary": "A numbered anti-constitutional-misconduct criterion carries the name of every criterion it cites, in a parenthetical right after the number: \"criterion 3 (*Material rollback effect*)\", \"criteria 1 and 2 (*Willful deceptive intent* and *Knowing falsification or suppression*)\", and a range such as \"criteria 1\u20134\" names each of the four. The names are the ones Chapter Fourteen §3.3 gives. A list introduction that ends in a colon and is followed by the numbered definition lines is accepted, and the audit fails if §3.3 stops giving one of the six names. There is no baseline; `python3 tools/criterion_named_audit.py --fix` inserts the names.",
+      "make_target": "criterion-named-audit",
+      "status": "blocking"
     }
   ]
 }

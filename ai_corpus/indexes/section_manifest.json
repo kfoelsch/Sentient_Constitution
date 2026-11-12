@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-12T06:22:34+00:00",
+  "generated_at": "2026-11-12T09:40:16+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -1162,22 +1162,37 @@
       ]
     },
     "core_14.005_misconduct_pattern_applications.md": {
-      "total_lines": 1198,
+      "total_lines": 1332,
       "sections": [
-        {"header":"CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS","level":1,"line_start":1,"line_end":1198,"anchor":null},
-        {"header":"6. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity","level":3,"line_start":19,"line_end":1198,"anchor":null},
-        {"header":"6.1 Concentration-Based Subversion: Criteria Interaction","level":4,"line_start":58,"line_end":86,"anchor":"#61-concentration-based-subversion-criteria-interaction"},
-        {"header":"6.2 Rights-Floor Waivers and Unconstitutional Contract Terms","level":4,"line_start":87,"line_end":140,"anchor":"#62-rights-floor-waivers-and-unconstitutional-contract-terms"},
-        {"header":"6.3 Flooding the Zone and Contest-Pathway Denial","level":4,"line_start":141,"line_end":208,"anchor":"#63-flooding-the-zone-and-contest-pathway-denial"},
-        {"header":"6.4 Info-Sphere Zone Flooding","level":4,"line_start":209,"line_end":301,"anchor":"#64-info-sphere-zone-flooding"},
-        {"header":"6.5 Bribery and Improper Benefit Exchange","level":4,"line_start":302,"line_end":393,"anchor":"#65-bribery-and-improper-benefit-exchange"},
-        {"header":"6.6 Unlawful or Unconstitutional Command Conduct","level":4,"line_start":394,"line_end":579,"anchor":"#66-unlawful-or-unconstitutional-command-conduct"},
-        {"header":"6.6.1 Follower and Implementer Accountability","level":5,"line_start":487,"line_end":579,"anchor":"#661-follower-and-implementer-accountability"},
-        {"header":"6.7 Reward, Protection, or Normalization of Anti-Constitutional Conduct","level":4,"line_start":580,"line_end":709,"anchor":"#67-reward-protection-or-normalization-of-anti-constitutional-conduct"},
-        {"header":"6.8 Enforcement Refusal, Suppression, or Non-Prosecution Conduct","level":4,"line_start":710,"line_end":864,"anchor":"#68-enforcement-refusal-suppression-or-non-prosecution-conduct"},
-        {"header":"6.9 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct","level":4,"line_start":865,"line_end":1043,"anchor":"#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct"},
-        {"header":"6.10 Forum Recusal Failure and Biased Panel Participation","level":4,"line_start":1044,"line_end":1118,"anchor":"#610-forum-recusal-failure-and-biased-panel-participation"},
-        {"header":"6.11 Obstruction of Accountability: Criteria Interaction","level":4,"line_start":1119,"line_end":1198,"anchor":"#611-obstruction-of-accountability-criteria-interaction"}
+        {"header":"CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS","level":1,"line_start":1,"line_end":1332,"anchor":null},
+        {"header":"6. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity","level":3,"line_start":19,"line_end":1332,"anchor":null},
+        {"header":"6.1 Concentration-Based Subversion: Criteria Interaction","level":4,"line_start":78,"line_end":116,"anchor":"#61-concentration-based-subversion-criteria-interaction"},
+        {"header":"6.2 Rights-Floor Waivers and Unconstitutional Contract Terms","level":4,"line_start":117,"line_end":202,"anchor":"#62-rights-floor-waivers-and-unconstitutional-contract-terms"},
+        {"header":"6.2.1 Rights-Floor Waiver Conduct","level":5,"line_start":146,"line_end":159,"anchor":"#621-rights-floor-waiver-conduct"},
+        {"header":"6.2.2 Unconstitutional Contract-Term Conduct","level":5,"line_start":160,"line_end":168,"anchor":"#622-unconstitutional-contract-term-conduct"},
+        {"header":"6.2.3 Post-Employment Mobility-Restriction Conduct","level":5,"line_start":169,"line_end":179,"anchor":"#623-post-employment-mobility-restriction-conduct"},
+        {"header":"6.2.4 Non-Binding Effect","level":5,"line_start":180,"line_end":189,"anchor":"#624-non-binding-effect"},
+        {"header":"6.2.5 Criteria Routing","level":5,"line_start":190,"line_end":202,"anchor":"#625-criteria-routing"},
+        {"header":"6.3 Flooding the Zone and Contest-Pathway Denial","level":4,"line_start":203,"line_end":316,"anchor":"#63-flooding-the-zone-and-contest-pathway-denial"},
+        {"header":"6.3.1 Flooding-the-Zone Conduct","level":5,"line_start":246,"line_end":255,"anchor":"#631-flooding-the-zone-conduct"},
+        {"header":"6.3.2 Material Effects","level":5,"line_start":256,"line_end":267,"anchor":"#632-material-effects"},
+        {"header":"6.3.3 In-Scope Means","level":5,"line_start":268,"line_end":280,"anchor":"#633-in-scope-means"},
+        {"header":"6.3.4 Exclusions","level":5,"line_start":281,"line_end":291,"anchor":"#634-exclusions"},
+        {"header":"6.3.5 Operational Response","level":5,"line_start":292,"line_end":305,"anchor":"#635-operational-response"},
+        {"header":"6.3.6 Criteria Routing","level":5,"line_start":306,"line_end":316,"anchor":"#636-criteria-routing"},
+        {"header":"6.4 Info-Sphere Zone Flooding","level":4,"line_start":317,"line_end":409,"anchor":"#64-info-sphere-zone-flooding"},
+        {"header":"6.5 Bribery and Improper Benefit Exchange","level":4,"line_start":410,"line_end":501,"anchor":"#65-bribery-and-improper-benefit-exchange"},
+        {"header":"6.6 Unlawful or Unconstitutional Command Conduct","level":4,"line_start":502,"line_end":713,"anchor":"#66-unlawful-or-unconstitutional-command-conduct"},
+        {"header":"6.6.1 Follower and Implementer Accountability","level":5,"line_start":595,"line_end":636,"anchor":"#661-follower-and-implementer-accountability"},
+        {"header":"6.6.2 Immediate Containment and ACMD Boundary","level":5,"line_start":637,"line_end":658,"anchor":"#662-immediate-containment-and-acmd-boundary"},
+        {"header":"6.6.3 Personal Accountability and Non-Substitution","level":5,"line_start":659,"line_end":677,"anchor":"#663-personal-accountability-and-non-substitution"},
+        {"header":"6.6.4 Exclusions","level":5,"line_start":678,"line_end":699,"anchor":"#664-exclusions"},
+        {"header":"6.6.5 Criteria Routing","level":5,"line_start":700,"line_end":713,"anchor":"#665-criteria-routing"},
+        {"header":"6.7 Reward, Protection, or Normalization of Anti-Constitutional Conduct","level":4,"line_start":714,"line_end":843,"anchor":"#67-reward-protection-or-normalization-of-anti-constitutional-conduct"},
+        {"header":"6.8 Enforcement Refusal, Suppression, or Non-Prosecution Conduct","level":4,"line_start":844,"line_end":998,"anchor":"#68-enforcement-refusal-suppression-or-non-prosecution-conduct"},
+        {"header":"6.9 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct","level":4,"line_start":999,"line_end":1177,"anchor":"#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct"},
+        {"header":"6.10 Forum Recusal Failure and Biased Panel Participation","level":4,"line_start":1178,"line_end":1252,"anchor":"#610-forum-recusal-failure-and-biased-panel-participation"},
+        {"header":"6.11 Obstruction of Accountability: Criteria Interaction","level":4,"line_start":1253,"line_end":1332,"anchor":"#611-obstruction-of-accountability-criteria-interaction"}
       ]
     },
     "core_15.000_forum.md": {

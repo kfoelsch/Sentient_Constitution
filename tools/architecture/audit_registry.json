@@ -935,6 +935,16 @@
       "run": "auto",
       "writes": false
     },
+    "criterion-named-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "criterion-named-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
     "chart-orientation-audit": {
       "category": "links",
       "run": "auto",

@@ -27,12 +27,27 @@ Chapter Fourteen, **Part B**, is the constitutional owner of **named pattern app
   - [§2.3](core_14.000_misconduct_designation.md#23-chapters-seventeen-through-nineteen-boundary) (*Chapters Seventeen through Nineteen boundary*).
 - Subsections:
   - [§6.1](#61-concentration-based-subversion-criteria-interaction);
-  - [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms);
-  - [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*);
+  - [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms), including
+  - [§6.2.1](#621-rights-floor-waiver-conduct);
+  - [§6.2.2](#622-unconstitutional-contract-term-conduct);
+  - [§6.2.3](#623-post-employment-mobility-restriction-conduct);
+  - [§6.2.4](#624-non-binding-effect);
+  - [§6.2.5](#625-criteria-routing);
+  - [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*), including
+  - [§6.3.1](#631-flooding-the-zone-conduct);
+  - [§6.3.2](#632-material-effects);
+  - [§6.3.3](#633-in-scope-means);
+  - [§6.3.4](#634-exclusions);
+  - [§6.3.5](#635-operational-response);
+  - [§6.3.6](#636-criteria-routing);
   - [§6.4](#64-info-sphere-zone-flooding);
   - [§6.5](#65-bribery-and-improper-benefit-exchange);
   - [§6.6](#66-unlawful-or-unconstitutional-command-conduct), including
   - [§6.6.1](#661-follower-and-implementer-accountability);
+  - [§6.6.2](#662-immediate-containment-and-acmd-boundary);
+  - [§6.6.3](#663-personal-accountability-and-non-substitution);
+  - [§6.6.4](#664-exclusions);
+  - [§6.6.5](#665-criteria-routing);
   - [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct);
   - [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct);
   - [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
@@ -51,7 +66,12 @@ Chapter Fourteen, **Part B**, is the constitutional owner of **named pattern app
 
 *In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Thirteen lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Thirteen.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 5** safeguards, or create Chapter Thirteen lock types. Accountability-pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration): general locks and [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (*Special Violation Rules*) shaping for ordinary verified gated-pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§6.10](#610-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*); and the **Anti-Constitutional Trust Lock** after final designation under [§5.2](core_14.000_misconduct_designation.md#52-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*). Evaluators assess each materially implicated pattern on the **unified incident record** under **section 3**, decide designation under **section 4**, preserve required process under **section 5**, and keep the Chapters Seventeen through Nineteen boundary stated in **section 2**.
+Each subsection below routes a named pattern through the existing Part A sequence:
+
+- **Assess together:** Assess every materially implicated pattern together on the **unified incident record** under **section 3**.
+- **Decide designation:** Decide designation under **section 4**.
+- **Preserve safeguards and boundary:** Preserve **section 5** safeguards and the **section 2.3** Chapters Seventeen through Nineteen boundary.
+- **Consequences stay in Chapter Thirteen:** The one pattern-specific lock hook is the **Forum-Service Standing Lock** for required-recusal failure under [§6.10](#610-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*).
 
 <a id="61-concentration-based-subversion-criteria-interaction"></a>
 
@@ -76,11 +96,21 @@ The following subsections state criteria interactions and named pattern applicat
 
 Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*) and unrebutted consolidation-ceiling violation under **§11.3** (*Consolidation Ceiling*), is not a separate ACMD criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
 
-- It satisfies **criterion 3** where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
-- It satisfies **criterion 4** where concentration materially contributes to **Rights-Floor degradation**, delayed correction, or blocked challenge rights.
-- It satisfies **criterion 6** where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
+- It satisfies **criterion 3** (*Material rollback effect*) where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
+- It satisfies **criterion 4** (*Causally significant conduct*) where concentration materially contributes to **Rights-Floor degradation**, delayed correction, or blocked challenge rights.
+- It satisfies **criterion 6** (*Operative nullification*) where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
 
-The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct designation where prohibited concentration, durable domination, or unrebutted consolidation-ceiling violation produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §11** (*Market Structure*), **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*), and **§11.3** (*Consolidation Ceiling*) and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has violated the **§11** (*Market Structure*) requirements.
+- **No deception or force required:** The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct designation where prohibited concentration, durable domination, or unrebutted consolidation-ceiling violation produces the equivalent constitutional effect.
+- **Quantitative setting is not relitigated here:** Quantitative threshold-setting and ceiling-setting for concentration remain owned by:
+  - **Chapter One §11** (*Market Structure*);
+  - **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*); and
+  - **§11.3** (*Consolidation Ceiling*).
+- **What this chapter evaluates:** The **conduct** that does any of the following with respect to concentration, consolidation, or domination that has violated the **§11** (*Market Structure*) requirements:
+  - creates it;
+  - maintains it;
+  - exploits it;
+  - conceals it; or
+  - restructures around it.
 
 <a id="62-rights-floor-waivers-and-unconstitutional-contract-terms"></a>
 
@@ -88,7 +118,7 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Thirteen §6.4.3](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
+- Upstream: [§3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Thirteen §6.4.3](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§6.2.2](#622-unconstitutional-contract-term-conduct).
 - Downstream: [§2.3](core_14.000_misconduct_designation.md#23-chapters-seventeen-through-nineteen-boundary) (*Chapters Seventeen through Nineteen boundary*); [Article XX-A: Justice Objective and Scope](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Thirteen §6.5 Special Locks](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
@@ -109,32 +139,64 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 
 *In plain terms: “click here to give up your core rights” clauses — buried in employment, platform, or service terms — are not a lawful way to silence audits, challenges, or appeals, and convenience alone is never a good enough excuse.*
 
-The following patterns are **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone.
+The following patterns are **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§6.2.1 Rights-Floor Waiver Conduct](#621-rights-floor-waiver-conduct) through [§6.2.3 Post-Employment Mobility-Restriction Conduct](#623-post-employment-mobility-restriction-conduct) state the three patterns; [§6.2.4 Non-Binding Effect](#624-non-binding-effect) and [§6.2.5 Criteria Routing](#625-criteria-routing) apply to all three.
 
-- **Rights-Floor waiver conduct:** conditioning cooperative participation, employment, platform access, services, or comparable ordinary association on giving up protected rights or review paths.
-  - Includes waiver, disclaimer, or relinquishment of:
-    - **Chapter Six** Rights-Floor protections;
-    - interpretation, appeal, or review pathways under **Article XX-A** (*Justice Objective and Scope*);
-    - constitutionally required **auditability** or **contestability**; or
-    - **standing** needed to vindicate those protections.
-  - In scope where the condition functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Nineteen** procedural-validity rules for adoption documents themselves.
-  - **Ordinary commercial convenience alone** is not a sufficient justification.
+<a id="621-rights-floor-waiver-conduct"></a>
 
-- **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable document that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
-  - Includes **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices.
-  - Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with [Chapter Thirteen §6.4 Special Violation Rules](core_13.000_standing_integration.md#64-special-violation-rules) and [§3 Automatic Integration, Review, and Continuity](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)).
+##### 6.2.1 Rights-Floor Waiver Conduct
 
-- **Post-employment mobility-restriction conduct:**
-  - **Non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility.
-  - **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XX-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**.
-  - **Retention** or **competitive** convenience **alone** is not a sufficient justification.
+**Rights-Floor waiver conduct** means conditioning cooperative participation, employment, platform access, services, or comparable ordinary association on giving up protected rights or review paths.
 
-**Non-binding effect.** Provisions and conditions within the bullets above are **never binding** and have **no operative effect**.
+- Includes waiver, disclaimer, or relinquishment of:
+  - **Chapter Six** Rights-Floor protections;
+  - interpretation, appeal, or review pathways under **Article XX-A** (*Justice Objective and Scope*);
+  - constitutionally required **auditability** or **contestability**; or
+  - **standing** needed to vindicate those protections.
+- Covered when the condition works to defeat, narrow, or discourage use of those protections and is not justified by **Necessity** and **Proportionality** (see **Chapter One** and **Chapter Five**).
+- Not covered: the adoption documents themselves. **Chapter Nineteen** sets the validity rules for those.
+
+<a id="622-unconstitutional-contract-term-conduct"></a>
+
+##### 6.2.2 Unconstitutional Contract-Term Conduct
+
+**Unconstitutional contract-term conduct** means any agreement, adhesion term, policy, or comparable document that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
+
+- Includes **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices.
+- Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with [Chapter Thirteen §6.4 Special Violation Rules](core_13.000_standing_integration.md#64-special-violation-rules) and [§3 Automatic Integration, Review, and Continuity](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)).
+
+<a id="623-post-employment-mobility-restriction-conduct"></a>
+
+##### 6.2.3 Post-Employment Mobility-Restriction Conduct
+
+**Post-employment mobility-restriction conduct** means either of the following:
+
+- **Non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility.
+- **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XX-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**.
+
+**Retention** or **competitive** convenience **alone** is not a sufficient justification.
+
+<a id="624-non-binding-effect"></a>
+
+##### 6.2.4 Non-Binding Effect
+
+Provisions and conditions within [§6.2.1 Rights-Floor Waiver Conduct](#621-rights-floor-waiver-conduct) through [§6.2.3 Post-Employment Mobility-Restriction Conduct](#623-post-employment-mobility-restriction-conduct) are **never binding** and have **no operative effect**.
+
 - They do not defeat, narrow, or foreclose Rights-Floor protections, challenge or **standing** rights, audit or verification rights, or **Article XX-A** (*Justice Objective and Scope*) pathways.
 - **NDAs** and **confidentiality** terms are **void** and **without operative effect** to the extent they would **suppress** **disclosure** or **cooperation** necessary for **accountability** for **criminal** conduct (including **reporting** to **competent** **criminal** or **oversight** process) or for **anti-constitutional misconduct** within **this chapter’s** scope.
 - Actors must not treat them as lawful authority for selective compliance, evidence destruction, forum shopping, or reincorporation arbitrage.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 3 and 4** where they produce material rollback or equivalent structural workaround, blocked or chilled challenge rights, or Rights-Floor degradation. **Criteria 1 and 2** apply where willful deception or record manipulation is implicated. This subsection does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named patterns into that set.
+<a id="625-criteria-routing"></a>
+
+##### 6.2.5 Criteria Routing
+
+Evaluators assess these patterns as follows:
+
+- **Criterion 1** (*Willful deceptive intent*) — where willful deception is implicated.
+- **Criterion 2** (*Knowing falsification or suppression*) — where record manipulation is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the pattern produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it produces blocked or chilled challenge rights, or Rights-Floor degradation.
+
+[§6.2 Rights-Floor Waivers and Unconstitutional Contract Terms](#62-rights-floor-waivers-and-unconstitutional-contract-terms) does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named patterns into that set.
 
 <a id="63-flooding-the-zone-and-contest-pathway-denial"></a>
 
@@ -163,19 +225,47 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 *In plain terms: burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
 
-**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible designation. It means deliberate, reckless, or foreseeably indifferent use of high volume, redundancy, distributed load, or automation to burden:
+**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 3** criteria for possible designation.
+
+The subsections below state:
+
+- what it means ([§6.3.1 Flooding-the-Zone Conduct](#631-flooding-the-zone-conduct));
+- the material effects that bring it into scope ([§6.3.2 Material Effects](#632-material-effects));
+- examples of in-scope means ([§6.3.3 In-Scope Means](#633-in-scope-means));
+- exclusions ([§6.3.4 Exclusions](#634-exclusions));
+- where operational response stays ([§6.3.5 Operational Response](#635-operational-response)); and
+- criteria routing ([§6.3.6 Criteria Routing](#636-criteria-routing)).
+
+This section also does the following:
+
+- It states when flooding-the-zone conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter ([§6.3.5 Operational Response](#635-operational-response)).
+- It does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named patterns into that set.
+
+<a id="631-flooding-the-zone-conduct"></a>
+
+##### 6.3.1 Flooding-the-Zone Conduct
+
+**Flooding-the-zone conduct** means deliberate, reckless, or foreseeably indifferent use of high volume, redundancy, distributed load, or automation to burden:
 - contest, routing, or intake;
 - adjudication, panel formation, or recusal or backup resolution;
 - review, publication, or forensic processing; or
 - comparable contest-pathway capacity.
 
+<a id="632-material-effects"></a>
+
+##### 6.3.2 Material Effects
+
 The conduct is in scope only where it has one of the following material effects:
 
 - Defeating a contest pathway.
 - Delaying a contest pathway beyond practical remedy.
-- Opaque-sorting matters at the threshold.
+- Sorting incoming matters at intake or referral by hidden or unpublished criteria, so filers cannot see why theirs was routed, held back, or buried.
 - Selectively deprioritizing Rights-Floor or emergency matters.
 - Materially degrading independent review or constitutionally required contestability.
+
+<a id="633-in-scope-means"></a>
+
+##### 6.3.3 In-Scope Means
 
 The following are non-exhaustive examples of in-scope means:
 
@@ -186,23 +276,41 @@ The following are non-exhaustive examples of in-scope means:
 - Weaponized recusal, panel-formation, or routing disputes that function as delay or denial.
 - Selective speed or backlog patterns that predictably bury high-impact, Rights-Floor, or emergency matters.
 
-**Exclusions.** This subsection does **not** treat the following as flooding-the-zone conduct:
+<a id="634-exclusions"></a>
+
+##### 6.3.4 Exclusions
+
+[§6.3 Flooding the Zone and Contest-Pathway Denial](#63-flooding-the-zone-and-contest-pathway-denial) does **not** treat the following as flooding-the-zone conduct:
 
 - Good-faith parallel filings whose dominant purpose is substantive redress and that do not produce the defeat, denial, or degradation effects above.
 - Lawful scope expansion, consolidation, or representative treatment under **Chapter Fifteen**.
 - Ordinary caseload pressure without the imputed purpose or material effect stated here.
 - Volume alone, without culpable purpose or foreseeable indifference tied to those effects.
 
-**Operational response** — including primary-stakes routing, per-family intake triage, consolidation, anti-gaming measures, forum performance and backlog requirements, continuity measures, and forensic support — remains governed by **Chapter Fifteen** and adopted implementation. This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.
+<a id="635-operational-response"></a>
 
-**Criteria routing.** Evaluators assess these patterns as follows:
-- **Criterion 4** — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation.
-- **Criterion 3** — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
-- **Criteria 1 and 2** — where willful deception, concealment, or knowing record, custody, routing, or publication manipulation is implicated.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+##### 6.3.5 Operational Response
+
+**Operational response** remains governed by **Chapter Fifteen** and adopted implementation. It includes:
+
+- primary-stakes routing;
+- per-family intake triage;
+- consolidation;
+- anti-gaming measures;
+- forum performance and backlog requirements;
+- continuity measures; and
+- forensic support.
+
+<a id="636-criteria-routing"></a>
+
+##### 6.3.6 Criteria Routing
+
+Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where willful deception, concealment, or knowing record, custody, routing, or publication manipulation is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
+- **Criterion 4** (*Causally significant conduct*) — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
 - Volume, redundancy, or automation alone is not sufficient.
-
-This subsection does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named patterns into that set.
 
 <a id="64-info-sphere-zone-flooding"></a>
 
@@ -289,10 +397,10 @@ The following are non-exhaustive examples of in-scope means:
 This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
-- **Criterion 4** — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice.
-- **Criterion 3** — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
-- **Criteria 1 and 2** — where willful deception, concealment, or knowing record, custody, routing, provenance, or publication manipulation in info-sphere channels is implicated.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- **Criterion 4** (*Causally significant conduct*) — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice.
+- **Criterion 3** (*Material rollback effect*) — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where willful deception, concealment, or knowing record, custody, routing, provenance, or publication manipulation in info-sphere channels is implicated.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
 - Volume, redundancy, automation, or attention capture alone is not sufficient.
 
 This subsection does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named patterns into that set.
@@ -381,10 +489,10 @@ Hiding the exchange behind another actor, entity, label, or later payoff does no
 Benefit exchange alone is not sufficient. The materially corrupt linkage to constitutional distortion, concealment, capture, or accountability-pathway impairment must be substantiated.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
-- **Criteria 1 and 2** — where deception, concealment, material omission, or record, custody, disclosure, provenance, or verification manipulation is implicated.
-- **Criterion 3** — where the exchange produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or selectively weakened enforcement or remedy.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, or record, custody, disclosure, provenance, or verification manipulation is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the exchange produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or selectively weakened enforcement or remedy.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
 - Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final ACMD without the required criteria and due-process showing.
 
 This subsection does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named pattern into that set.
@@ -401,7 +509,7 @@ This subsection does **not** add an additional ACMD criterion beyond the **secti
   - [§5](core_14.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Thirteen §6.4.4](core_13.000_standing_integration.md#644-collective-accountability) (13.000 §6.4.4) (*Collective Accountability and Acquiescent Participation*);
   - [Chapter Thirteen §6.4.3](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
-- Integrity and governance context: [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) for Integrity-family routing where final Chapter Fourteen designation is the primary stake; [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor where command conduct affects protected rights, challenge, review, or remedy.
+- Integrity and governance context: [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) for Integrity-family routing where final Chapter Fourteen designation is the primary stake; [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Collective Accountability Failure](core_05.035_band_accountability.md#collective-accountability-failure),
@@ -450,7 +558,7 @@ involving any of the following authority signals:
 
 that requires, induces, or foreseeably causes unlawful conduct or constitutional violation.
 
-The command conduct is in scope whether the actor is any of the following, provided the standing record supports accountable attribution under **Chapters Two through Four** and **section 5** safeguards:
+**Unlawful or unconstitutional command conduct** is in scope whether the actor is any of the following, provided the standing record supports accountable attribution under **Chapters Two through Four** and **section 5** safeguards:
 - the **issuer**;
 - the **authorizer**;
 - the **supervisor**;
@@ -524,28 +632,40 @@ A command relationship is not a defense, but it may bear on:
 - protection needs; and
 - standing consequences.
 
-**Immediate containment and ACMD boundary.** A materially substantiated unlawful or unconstitutional directive affecting any of the following triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm:
-- constitutional validity;
-- constitutional operation;
-- Rights-Floor governance;
-- contestability;
-- remedy access;
-- evidence integrity; or
-- coercive force against constitutional authority.
+<a id="662-immediate-containment-and-acmd-boundary"></a>
 
-A final ACMD still requires:
-- an existing Chapter Twelve slot 7, 8, or 9 impact slot;
-- a **section 4** decision; and
-- **section 5** due-process safeguards.
+##### 6.6.2 Immediate Containment and ACMD Boundary
 
-**Personal accountability and non-substitution.** The following do not substitute for accountable attribution to materially responsible sentients, roles, or system components:
+This applies to an unlawful or unconstitutional directive that is well supported by the evidence and affects any of the following:
+- whether a rule, act, or change is valid under this Constitution;
+- how constitutional processes (such as review, publication, and oversight) actually work;
+- the **Chapter Six** Rights Floor or other [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint);
+- [Contestability](core_05.035_band_accountability.md#contestability);
+- access to remedies ([Remedy System](core_05.035_band_accountability.md#remedy-system));
+- [Record Integrity](core_05.035_band_accountability.md#record-integrity) or [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation); or
+- [Use of Force](core_05.035_band_accountability.md#use-of-force) or [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation) aimed at constitutional authority.
+
+When that is the case, all of the following apply:
+
+- The matter is routed for anti-constitutional misconduct review.
+- [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) duties apply.
+- Protected-reporting safeguards apply.
+- Provisional containment is put in place where necessary to prevent continued harm.
+
+This does not itself make a final ACMD. That is decided only under Part A ([§4 Violation Axis Slot 7–9 Anti-Constitutional Designation](core_14.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) and [§5 Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention)).
+
+<a id="663-personal-accountability-and-non-substitution"></a>
+
+##### 6.6.3 Personal Accountability and Non-Substitution
+
+Holding the sentients, roles, or system components that were actually responsible to account is separate from what happens to the institution. None of the following can stand in for it:
 - institutional sanction;
 - dissolution;
 - restructuring;
 - remediation; or
 - continuity transfer.
 
-Personal accountability must remain:
+Personal accountability for creating or enabling violations must remain:
 - individualized;
 - evidence-supported;
 - contestable; and
@@ -553,7 +673,11 @@ Personal accountability must remain:
 
 under **Article XX** (*Justice After Verified Violation*) and **Chapters Two through Four**.
 
-**Exclusions.** This subsection does **not** treat the following as command conduct merely because an order or instruction exists:
+<a id="664-exclusions"></a>
+
+##### 6.6.4 Exclusions
+
+An order or instruction existing is not enough to make something **unlawful or unconstitutional command conduct**. [§6.6 Unlawful or Unconstitutional Command Conduct](#66-unlawful-or-unconstitutional-command-conduct) does **not** treat the following as that conduct on that basis alone:
 - good-faith legal advice;
 - operational safety direction;
 - emergency coordination;
@@ -563,17 +687,27 @@ under **Article XX** (*Justice After Verified Violation*) and **Chapters Two thr
 - ordinary supervision; or
 - lawful compliance management.
 
-The unlawful or unconstitutional directive, material effect, and accountable attribution must be substantiated. Necessity-bounded emergency authority remains governed by **Chapter One** and **Chapter Fifteen §6.1** (*Emergency Measures and Continuation Burden*) and must not be used as a pretext for unconstitutional command conduct.
+To be covered by [§6.6 Unlawful or Unconstitutional Command Conduct](#66-unlawful-or-unconstitutional-command-conduct), all three of the following must be substantiated:
 
-**Criteria routing.** Evaluators assess these patterns as follows:
-- **Criteria 1 and 2** — where deception, concealment, material omission, or record, custody, evidence, publication, provenance, or verification manipulation is implicated.
-- **Criterion 3** — where the directive produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
-- **Criterion 5** — where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- the directive was unlawful or unconstitutional;
+- it had one of the material effects listed in [§6.6 Unlawful or Unconstitutional Command Conduct](#66-unlawful-or-unconstitutional-command-conduct) above; and
+- the standing record supports holding a specific sentient, role, or system component responsible.
+
+Real emergency powers are different. They are limited to what is truly necessary and stay under **Chapter One** and **Chapter Fifteen §6.1** (*Emergency Measures and Continuation Burden*). No one may use them as a pretext for an unconstitutional order.
+
+<a id="665-criteria-routing"></a>
+
+##### 6.6.5 Criteria Routing
+
+Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, or record, custody, evidence, publication, provenance, or verification manipulation is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the directive produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
+- **Criterion 5** (*Insurrection or material forcible subversion*) — where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice.
 - Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final ACMD without the required criteria and due-process showing.
 
-This subsection does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named pattern into that set.
+[§6.6 Unlawful or Unconstitutional Command Conduct](#66-unlawful-or-unconstitutional-command-conduct) does **not** add an additional ACMD criterion beyond the **section 3** set; it routes evaluation of the named pattern into that set.
 
 <a id="67-reward-protection-or-normalization-of-anti-constitutional-conduct"></a>
 
@@ -670,11 +804,11 @@ The following are non-exhaustive in-scope reward or protection forms where mater
 - retaliation against protected reporting, or reward for silence, delay, obstruction, evidence loss, forum manipulation, or refusal to remediate.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
-- **Criteria 1 and 2** — where deception, concealment, material omission, evidence suppression, record laundering, disclosure manipulation, or provenance distortion is implicated.
-- **Criterion 3** — where the reward or protection produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
-- **Criterion 5** — only where the reward or protection materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through reward-driven capture, retaliation, silence, or protection.
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, evidence suppression, record laundering, disclosure manipulation, or provenance distortion is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the reward or protection produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
+- **Criterion 5** (*Insurrection or material forcible subversion*) — only where the reward or protection materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through reward-driven capture, retaliation, silence, or protection.
 
 **Correction and non-recognition.** A reward, protection, or normalization pathway within this subsection has no valid constitutional effect to defeat, narrow, or foreclose any of the following:
 - investigation;
@@ -847,11 +981,11 @@ If the sentients who refused to act cannot fairly investigate themselves because
 - closely aligned actors.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
-- **Criteria 1 and 2** — where deception, concealment, material omission, evidence suppression, custody manipulation, referral distortion, closure-record falsification, disclosure manipulation, or provenance distortion is implicated.
-- **Criterion 3** — where the refusal or suppression produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
-- **Criterion 5** — only where the refusal or suppression materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through captured, selective, corrupt, or pretextual non-enforcement.
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, evidence suppression, custody manipulation, referral distortion, closure-record falsification, disclosure manipulation, or provenance distortion is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the refusal or suppression produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
+- **Criterion 5** (*Insurrection or material forcible subversion*) — only where the refusal or suppression materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through captured, selective, corrupt, or pretextual non-enforcement.
 
 This subsection does **not**:
 - create a mandatory-prosecution rule;
@@ -1025,11 +1159,11 @@ Security, maintenance, ownership, budget, or emergency labels must not be used a
 - accountability obstruction.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
-- **Criteria 1 and 2** — where deception, concealment, material omission, evidence suppression, custody manipulation, infrastructure-health misreporting, access-record falsification, provenance distortion, or verification manipulation is implicated.
-- **Criterion 3** — where the denial, destruction, disabling, or cutoff produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
-- **Criterion 5** — where infrastructure control, destruction, or dependency cutoff materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, evidence suppression, custody manipulation, infrastructure-health misreporting, access-record falsification, provenance distortion, or verification manipulation is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the denial, destruction, disabling, or cutoff produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
+- **Criterion 5** (*Insurrection or material forcible subversion*) — where infrastructure control, destruction, or dependency cutoff materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
 
 This subsection does **not**:
 - add an additional ACMD criterion beyond the **section 3** set;
@@ -1102,10 +1236,10 @@ The pattern is especially heightened where the panelist sits on a **Constitution
 A **Constitutional** forum must not be the sole final merits forum for its own **recusal failure**.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
-- **Criteria 1 and 2** — where deception, concealment, material omission, or conflict nondisclosure is implicated.
-- **Criterion 3** — where the failure produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional Forum** participation distorts interpretive outcomes.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
+- **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, or conflict nondisclosure is implicated.
+- **Criterion 3** (*Material rollback effect*) — where the failure produces material rollback or an equivalent structural workaround.
+- **Criterion 4** (*Causally significant conduct*) — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional Forum** participation distorts interpretive outcomes.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
 
 This subsection does **not**:
 - add an additional ACMD criterion beyond the **section 3** set;
@@ -1165,11 +1299,11 @@ It routes evaluation of the named pattern into the existing ACMD criteria, due-p
 
 Where a Violation Axis finding already occupies slot 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **section 3** criteria where it produces the equivalent constitutional effect:
 
-- **Criterion 1** — where the actor intends to deceive, conceal, or bypass constitutional validity safeguards that keep answerability real.
-- **Criterion 2** — where knowing falsification, material omission, or evidence/custody manipulation suppresses verification or standing-pipeline records.
-- **Criterion 3** — where obstruction operates as material rollback or an equivalent structural workaround that weakens constitutional protections.
-- **Criterion 4** — where obstruction materially contributes to delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
-- **Criterion 6** — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through the obstruction.
+- **Criterion 1** (*Willful deceptive intent*) — where the actor intends to deceive, conceal, or bypass constitutional validity safeguards that keep answerability real.
+- **Criterion 2** (*Knowing falsification or suppression*) — where knowing falsification, material omission, or evidence/custody manipulation suppresses verification or standing-pipeline records.
+- **Criterion 3** (*Material rollback effect*) — where obstruction operates as material rollback or an equivalent structural workaround that weakens constitutional protections.
+- **Criterion 4** (*Causally significant conduct*) — where obstruction materially contributes to delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
+- **Criterion 6** (*Operative nullification*) — only where **section 3** and **section 5** substantiation shows that constitutional process or remedies became unusable in practice through the obstruction.
 
 Named patterns elsewhere in this section are **modes** of obstruction, not competing taxonomies:
 
