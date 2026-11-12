@@ -98,7 +98,7 @@ The three-table split of the hand-off section is done (see [archive/DOC_ARCHITEC
 Translations remain paused under the standing decision in [project/MEMLOG.md](project/MEMLOG.md). Once the steward identifies settled English text and its revision, merge all pending changes for each chapter and synchronize/fidelity-check them together under the supported-language process. The active source clusters are: (1) Chapter One relocation and numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and Meaningful Agency/Consent alignment with Chapter Six; (2) Article XIII-A/XIII-B split and cites, steward-box removal, and the older Chapter Nine §14.2, Chapter Ten, and Chapter Fourteen references; (3) Preamble §§6–7 (2026-09-21) and other files touched by English cleanup; (4) Dissolution Reformation Lock, Chapter Seven §§2–4 and widgets, CF-5.9, CI-3.6.3, Chapter Five entries, Chapter One §16.4, CS-4/time windows, Article XIV-A/Evidence Preservation, Article XXVIII-A/CI-14.4.4, Domain-Specific Materiality, Adoption Document, and TERM-BODY-01; (5) Chapter Ten §3 items 5 and 8, §9.6, §9.3–§11 pointers, and related settled wording. Keep the list here consolidated as English changes settle; do not treat it as authorization to edit translations.
 
 - [ ] Outstanding translation gaps recorded in the 449th move (archived): full targets for Chapter Five `.035`, `.040`, and `.055` are absent in eighteen locales; Japanese and Korean Preamble sections 5–8 need a broader resync; Chapters Nine A and Ten need full current-source reconciliation. The AI-assisted drafts are unreviewed.
-- [ ] Chapter Fourteen locales need the new numbering when synchronized: §1 Purpose and Role added, Chapter Fourteen Part A §2–§5.3 and Chapter Fourteen Part B §6–§6.11 renumbered, and Chapter Fourteen subsections §2.1–§2.4 and §3.1–§3.5 added (450th–465th moves, archived).
+- [ ] Chapter Fourteen locales need the new numbering when synchronized: §1 Purpose and Role added, Chapter Fourteen Part A §2–§5.3 and Chapter Fourteen Part B §6–§6.11 renumbered, and Chapter Fourteen subsections §2.1–§2.4 and §3.1–§3.5 added (450th–465th moves, archived). Later moves added more subsections: §5.1.1–§5.1.2, §5.2.1–§5.2.2, and in Chapter Fourteen Part B §6.1–§6.3, §6.6, §6.7, §6.8 and §6.10 (§6.10.1–§6.10.4), and moved the worked-examples line in Chapters Ten to Fifteen under the footer rule (469th–487th moves, archived in [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)).
 
 ### Conceptual overview, lived-experience validation, and evaluation
 
@@ -117,6 +117,13 @@ This was flagged for the custodian in the 421st move, now archived in [archive/D
 
 - [ ] Chapter Thirteen §6.5.3, retaliation case (421st move): the case reads "retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used" and no longer says what ties the retaliation to the institution, enterprise, or office; the lead still requires real use of one. The custodian asked that the means not matter, so no tie was added. Decide whether to add one, for example "using the institution's or enterprise's authority, resources, or position" after "regardless of the means used".
 
+### Chapter Fourteen Part B — open decisions (carried from the archived move log, 2026-11-12)
+
+These were left unapplied on purpose in moves now archived in [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md). Each changes scope or wording across a section, so each waits for the custodian.
+
+- [ ] Catch-all coverage (480th move): whether to add a last bullet for functionally equivalent variants to the §6.7.4 list of permitted measures and to the §6.5 "Indirect forms include" list. The scan after the 479th move proposed both; the 480th move applied the other strong fits and left every exclusion and safe-harbor list closed on purpose.
+- [ ] "Chapters Two through Four" wording (483rd move): the §6 lead sentences now name the Chapter Eleven §2.5 verified-input gate and the Chapters Two through Four evidence standard. Two places still use the old wording and were left for the custodian to match or leave: (a) the two Misconduct-path pointers in Chapter Six Part B (`core_06.005_rights_part_b.md`, one about recusal failure and one about flooding and bribery) say "when substantiated under Chapters Two through Four and the Chapter Fourteen criteria set"; (b) the actor-attribution wording "the standing record supports holding that actor accountable under Chapters Two through Four and the section 5 safeguards" in §6.5, §6.6, §6.7.2, §6.8.2 and §6.9.
+
 ### P1 — Regression and evidence
 
 - [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree.
@@ -127,6 +134,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-12 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-12.md](archive/MEMLOG_SNAPSHOT_2026-11-12.md), [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)
 - **2026-11-11 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-11.md](archive/TODO_SNAPSHOT_2026-11-11.md), [archive/MEMLOG_SNAPSHOT_2026-11-11.md](archive/MEMLOG_SNAPSHOT_2026-11-11.md), [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md)
 - **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-08.md](archive/TODO_SNAPSHOT_2026-11-08.md)
 - **2026-11-03 resolved work:** [archive/TODO_RESOLVED_2026-11-03.md](archive/TODO_RESOLVED_2026-11-03.md)
