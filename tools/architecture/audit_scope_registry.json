@@ -848,6 +848,9 @@
   "scope-qualified-audit": {
    "scope": "corpus"
   },
+  "criterion-named-audit": {
+   "scope": "corpus"
+  },
   "chart-orientation-audit": {
    "scope": "corpus"
   }

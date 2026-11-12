@@ -62,7 +62,7 @@
 - Upstream pointer: [Chapter Thirteen §3](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - This file: purpose and role; final ACMD for Violation Axis slot 7–9; ACMD criteria; due-process safeguards; Chapters Seventeen through Nineteen boundary. Named-pattern routing continues in [Part B](core_14.005_misconduct_pattern_applications.md#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) (14.005).
 - Downstream: [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) (*forum routing and certification*); [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) (*governance legitimacy consequences*).
-- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
+- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 </details>
@@ -90,7 +90,7 @@ This chapter is used only when a verified violation already occupies Violation A
   - [§4](#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [§5](#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Part B §6](core_14.005_misconduct_pattern_applications.md#6-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
+- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**.
 
 </details>
@@ -149,7 +149,7 @@ Where this chapter sits:
   - [§5.3](#53-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
 - Pattern applications: [§6](core_14.005_misconduct_pattern_applications.md#6-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*named patterns route into the same anti-constitutional-misconduct designation criteria*).
 - Change-path boundary: [§2.3](#23-chapters-seventeen-through-nineteen-boundary) (*Chapters Seventeen through Nineteen boundary*).
-- Read with: [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4**.
+- Read with: [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to safeguards and gravity.
 
 </details>
@@ -174,8 +174,8 @@ This chapter does not re-measure how serious the violation is. Chapter Twelve al
 
 Only **this chapter** may issue a final **anti-constitutional misconduct** designation for a slot 7–9 finding.
 
-- The underlying conduct may arise during **constitutional change** under **Chapters Seventeen through Nineteen**, including **regressive deception** covered by criteria **1–4**.
-- It may also arise through **criteria 5** or **6** in **section 3**, or through other conduct that materially harms constitutional **validity**, **operation**, or **Rights-Floor** governance.
+- The underlying conduct may arise during **constitutional change** under **Chapters Seventeen through Nineteen**, including **regressive deception** covered by criteria **1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
+- It may also arise through **criteria 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) in **section 3**, or through other conduct that materially harms constitutional **validity**, **operation**, or **Rights-Floor** governance.
 - No adopting document, process note, or subsidiary body may issue the final ACMD instead of **this chapter**.
 
 #### 2.3 Chapters Seventeen through Nineteen Boundary
@@ -212,10 +212,10 @@ Make a final ACMD in this order:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (*How designation decisions work*).
-- Emergency authority: [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) emergency and necessity discipline; [Chapter Fifteen §6.1: Emergency Measures and Continuation Burden](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1) where **criteria 5** and **6** are read against bounded emergency authority.
+- Emergency authority: [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) emergency and necessity discipline; [Chapter Fifteen §6.1: Emergency Measures and Continuation Burden](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1) where **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) are read against bounded emergency authority.
 - Downstream designation decision: [§4](#4-violation-axis-slot-79-anti-constitutional-designation).
 - Downstream safeguards and discipline: [§5](#5-due-process-safeguards-remedy-and-prevention).
-- This section: ACMD criteria set; unified-incident rule; **good-faith drafting carve-out** for corrected criteria 1–4 change or record errors.
+- This section: ACMD criteria set; unified-incident rule; **good-faith drafting carve-out** for corrected criteria 1–4 (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) change or record errors.
 - Downstream pattern applications and criteria routing:
   - [§6](core_14.005_misconduct_pattern_applications.md#6-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), including
   - [§6.1](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction),
@@ -229,7 +229,7 @@ Make a final ACMD in this order:
   - [§6.9](core_14.005_misconduct_pattern_applications.md#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct),
   - [§6.10](core_14.005_misconduct_pattern_applications.md#610-forum-recusal-failure-and-biased-panel-participation), and
   - [§6.11](core_14.005_misconduct_pattern_applications.md#611-obstruction-of-accountability-criteria-interaction).
-- Read with: [Chapters Two through Four](core_02.000_definition_structure.md) for record, custody, and verification expectations tied to **criteria 1–4**; [§2.3](#23-chapters-seventeen-through-nineteen-boundary) (*Chapters Seventeen through Nineteen boundary*).
+- Read with: [Chapters Two through Four](core_02.000_definition_structure.md) for record, custody, and verification expectations tied to **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*); [§2.3](#23-chapters-seventeen-through-nineteen-boundary) (*Chapters Seventeen through Nineteen boundary*).
 
 </details>
 
@@ -290,18 +290,18 @@ Assess every criterion the facts actually support together on the same **unified
        - Conduct that makes constitutional **process** or **remedies** unusable in practice.
        - This excludes conduct justified under **Chapter One** and **Chapter Fifteen §6.1** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
 
-Do not count the same conduct as both **criterion 5** and **criterion 6** unless each one has its own independent proof. For example, the standing record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
+Do not count the same conduct as both **criterion 5** (*Insurrection or material forcible subversion*) and **criterion 6** (*Operative nullification*) unless each one has its own independent proof. For example, the standing record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
 
 #### 3.4 Good-Faith Drafting Carve-Out
 
-An honest, good-faith drafting mistake is not anti-constitutional misconduct if it is disclosed promptly and fixed before it has any constitutional effect. This protection covers only mistakes that matter solely under **criteria 1–4** and arise in **change** or **record** contexts. It never excuses **criteria 5** or **6** conduct.
+An honest, good-faith drafting mistake is not anti-constitutional misconduct if it is disclosed promptly and fixed before it has any constitutional effect. This protection covers only mistakes that matter solely under **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) and arise in **change** or **record** contexts. It never excuses **criteria 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) conduct.
 
 #### 3.5 Dissent and Peaceful Protest Carve-Out
 
 Dissent, advocacy for amendment or replacement of authority by lawful means, peaceful protest, and [protected nonviolent civil disobedience](core_06.005_rights_part_b.md#xi-d-nonviolent-civil-disobedience) under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) are not anti-constitutional misconduct.
 
-- They satisfy no criterion — including **criterion 5** or **6** — through their message, intensity, popularity, or aim of changing who holds authority or what the Constitution says.
-- **Criteria 5** and **6** require force, coercion, usurpation, or operative nullification shown by separable conduct.
+- They satisfy no criterion — including **criterion 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) — through their message, intensity, popularity, or aim of changing who holds authority or what the Constitution says.
+- **Criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) require force, coercion, usurpation, or operative nullification shown by separable conduct.
 
 ### 4. Violation Axis Slot 7–9 Anti-Constitutional Designation
 
@@ -352,7 +352,7 @@ Once it attaches:
 
 - the seriousness label (Severe, Grave, or Catastrophic) follows the impact score Chapter Twelve already assigned, and only that score decides whether the underlying finding is slot 7, 8, or 9;
 - how many criteria apply, and facts about intent, coercion, pattern, or institutional character, do **not** move the finding between slots; and
-- a single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may make the ACMD eligible.
+- a single catastrophic incident, a sustained high-gravity pattern, criterion 5 (*Insurrection or material forcible subversion*), or criterion 6 (*Operative nullification*) may make the ACMD eligible.
 
 A final ACMD requires:
 

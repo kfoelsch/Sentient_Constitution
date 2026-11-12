@@ -1687,7 +1687,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [Chapter One §7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest) (1.000 §7.3) (dissent is not subversion).
-- Canonical owner: this definition states what subversion is. [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3) (criteria 5 and 6) and [Chapter Fourteen §6.1](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6.1) apply it to misconduct designation. They do not redefine it.
+- Canonical owner: this definition states what subversion is. [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3) for criteria 5 and 6 (*Insurrection or material forcible subversion* and *Operative nullification*), and [Chapter Fourteen §6.1](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6.1) apply it to misconduct designation. They do not redefine it.
 - Rights-Floor read-with: **[Article XI-D](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 - Read with:
   - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation),
