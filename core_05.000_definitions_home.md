@@ -59,7 +59,7 @@ Three rules keep every defined term in one place:
 - Each constitutional definition, definition description, and clustered traceability concept must have one **canonical home** in this corpus — one official place that controls what the term means, how far it reaches, and what counts as satisfying it.
   - No incorporated or implementation text may create a second definition, a competing explanation, or a narrower restatement of a term whose canonical home is already assigned by this Constitution or by the corpus architecture map adopted under it.
 - Incorporated implementation text may put a canonical term to work only by pointing back to that home and then stating layer-specific criteria, procedures, classifications, controls, or conditions inside its assigned scope.
-  - If such text uses a local label or shorthand, it must say so clearly. That local wording is not a new definition of the term. It becomes official definition language only if the term's canonical home later adopts it.
+  - If such text uses a local label or shorthand, it must say so clearly. That local wording is not a new definition of the term. It becomes official only when the term's canonical home is amended to include it.
 - If wording outside the canonical home seems to broaden, narrow, replace, or compete with the canonical definition, the canonical definition governs. Read that outside wording as implementation detail if you can. If you cannot, the competing wording does not apply to the extent of the conflict.
 
 ---
