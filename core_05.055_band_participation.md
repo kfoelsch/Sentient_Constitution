@@ -32,7 +32,7 @@ Chapter Five, Participation band, is the constitutional owner of the **leaf defi
 
 ### Participation: Independent Terms
 
-Independent Definitions meta rules live in [core_05.000_definitions_home.md](core_05.000_definitions_home.md#2-independent-definitions). This section lists the Participation-band Independent terms — each can stand alone as a leaf definition.
+Independent Definitions meta rules live in [core_05.000_definitions_home.md](core_05.000_definitions_home.md#3-independent-definitions). This section lists the Participation-band Independent terms — each can stand alone as a leaf definition.
 
 ---
 
@@ -3426,7 +3426,7 @@ See **Anti-Segmentation Principle**.
     - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation);
     - [Dependency](core_05.040_band_continuity.md#dependency);
     - [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary); and
-    - segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [§3.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#31-joint-invocation-and-satisfaction).
+    - segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [§4.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#41-joint-invocation-and-satisfaction).
 <a id="self-determination-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Framings that, when materially implicated:

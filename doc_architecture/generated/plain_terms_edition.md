@@ -1131,41 +1131,41 @@ this section says what this chapter is for, where it sits among the chapters on 
 
 [Source](../../core_05.000_definitions_home.md#1-purpose-role-and-scope)
 
-#### Canonical Home and Non-Duplication Rule
+#### 2. Canonical Home and Non-Duplication Rule
 
 every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.
 
-[Source](../../core_05.000_definitions_home.md#canonical-home-and-non-duplication-rule)
+[Source](../../core_05.000_definitions_home.md#2-canonical-home-and-non-duplication-rule)
 
-#### 2. Independent Definitions
+#### 3. Independent Definitions
 
 independent definitions are reusable building blocks. They stand on their own unless a cluster requires them to be met together.
 
-[Source](../../core_05.000_definitions_home.md#2-interdependent-definitions)
+[Source](../../core_05.000_definitions_home.md#3-interdependent-definitions)
 
-##### 2.1 Invocation, Satisfaction, and Compliance
+##### 3.1 Invocation, Satisfaction, and Compliance
 
 when an independent definition applies, it must be met in full — no picking the convenient pieces.
 
-[Source](../../core_05.000_definitions_home.md#21-invocation-satisfaction-and-compliance)
+[Source](../../core_05.000_definitions_home.md#31-invocation-satisfaction-and-compliance)
 
-#### 3. Dependent-Cluster Meta Rules
+#### 4. Dependent-Cluster Meta Rules
 
 cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.
 
-[Source](../../core_05.000_definitions_home.md#3-dependent-cluster-meta-rules)
+[Source](../../core_05.000_definitions_home.md#4-dependent-cluster-meta-rules)
 
-##### 3.1 Joint Invocation and Satisfaction
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05.000_definitions_home.md#31-joint-invocation-and-satisfaction)
-
-##### 3.2 Standalone Definitions Interaction and Full Context
+##### 4.1 Joint Invocation and Satisfaction
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05.000_definitions_home.md#32-standalone-definitions-interaction-and-full-context)
+[Source](../../core_05.000_definitions_home.md#41-joint-invocation-and-satisfaction)
+
+##### 4.2 Standalone Definitions Interaction and Full Context
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_05.000_definitions_home.md#42-standalone-definitions-interaction-and-full-context)
 
 #### Chapter Five Alphabetical Directory (Non-Operative)
 

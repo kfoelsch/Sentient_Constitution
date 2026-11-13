@@ -512,7 +512,7 @@ Chapters Two through Five give the rest of this Constitution a shared language t
 
 These chapters explain how an aspiration such as trustworthy governance becomes a claim someone can examine and challenge. The later processes use this machinery when they certify a system or establish a standing record.
 
-Chapter Five’s many files are a reference structure. Its [compass](../core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) leads to the apex definitions for the duties and aims, and to related definitions organized in bands. For orientation, you can leave that detail unopened. When applying a provision, return to the relevant definitions in full, including any required [joint reading of dependent clusters](../core_05.000_definitions_home.md#3-dependent-cluster-meta-rules).
+Chapter Five’s many files are a reference structure. Its [compass](../core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) leads to the apex definitions for the duties and aims, and to related definitions organized in bands. For orientation, you can leave that detail unopened. When applying a provision, return to the relevant definitions in full, including any required [joint reading of dependent clusters](../core_05.000_definitions_home.md#4-dependent-cluster-meta-rules).
 
 <a id="definition-categories"></a>
 ### Definition Categories

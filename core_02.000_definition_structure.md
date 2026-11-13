@@ -150,7 +150,7 @@ Chapter Five leaf definitions must carry those M requirements using the Measurem
 
 - Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§2 Definition Components and Joint Satisfaction](#2-definition-components-and-joint-satisfaction) — A component role within O/M/A/C decomposition.
 - Downstream: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000); [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence sufficiency for that enforcement.
-- Read with: [Chapter Five Independent Definitions](core_05.000_definitions_home.md#2-interdependent-definitions) (5.000) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
+- Read with: [Chapter Five Independent Definitions](core_05.000_definitions_home.md#3-interdependent-definitions) (5.000) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
 
 </details>
 
