@@ -40,7 +40,12 @@ Chapter Nineteen**, is the constitutional owner of **violation consequences**: w
 - It follows the decision order in **Chapter Seventeen section 3.4**. A lock controls: no contribution result opens a gated pathway a lock blocks.
 - It hands its result to the final standing effect in [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement).
 
-**Chapter scope.** The chapter covers **section 2** and **section 3** in order. It leaves:
+**Chapter scope.** The chapter covers:
+
+- remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 2**); and
+- how a lock is designed and enforced (**section 3**).
+
+The chapter leaves:
 
 - contribution consequences to [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences);
 - the decision order to [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) and the final standing effect to Chapter Twenty; and

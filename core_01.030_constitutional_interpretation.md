@@ -149,7 +149,7 @@ Adopted implementation layers may add detail to these protections. They must not
 
 *In plain terms: No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails. Putting the pieces back together does not lower any of them: each keeps its own standard.*
 
-Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §2.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
+Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §3.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#31-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
 
 A matter that is to be assessed as one must not be divided into any of the following in a way that satisfies one part while defeating another part that is materially implicated:
 - separate framings, categories, or classifications;
@@ -419,7 +419,7 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](c
 
 This subsection's combined-satisfaction rule is about **more than one how-to file** applying to the same facts. It is not the same as:
 - the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-5.140 §14](corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*Operational Clusters*); or
-- the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[Chapter Five §2.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[Chapter Five §3.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#31-joint-invocation-and-satisfaction)**.
 
 **When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge)** in either of these cases:
 

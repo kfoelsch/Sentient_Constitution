@@ -73,7 +73,14 @@ Amendment validity must preserve both aims, Flourishing and Continuity, and must
 - [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) states the procedural tests, Tests 2 to 4, and [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) states what additive expansion is permitted.
 - Serious bad-faith conduct is flagged to the bodies that own labels and sanctions, not relabeled here.
 
-**Chapter scope.** The chapter covers **section 2** through **section 4**. **Section 5** states the validity-protection controls the chapter may impose and the owner non-relocation rule. The chapter leaves:
+**Chapter scope.** The chapter covers:
+
+- the non-regression floor (**section 2**);
+- Test 1, substantive non-regression validity (**section 3**);
+- the anti-evasion clause and the referral of constitutional misconduct (**section 4**); and
+- the validity-protection controls the chapter may impose and the owner non-relocation rule (**section 5**).
+
+The chapter leaves:
 
 - numeric standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
 - anti-constitutional-misconduct designation to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation); and

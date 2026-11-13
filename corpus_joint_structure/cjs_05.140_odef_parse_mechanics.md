@@ -116,7 +116,7 @@ Application rules are strict:
 
 That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
 
-By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five §2.1 Joint Invocation and Satisfaction](../core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction).
+By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five §3.1 Joint Invocation and Satisfaction](../core_05.000_definitions_home.md#31-joint-invocation-and-satisfaction).
 
 **oDef** clusters remain local to this implementation layer:
 - they are not **Chapter Five** **Def.*** Clustered Definitions,

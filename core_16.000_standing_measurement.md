@@ -62,7 +62,19 @@ For each axis it writes a slot from 1 to 9, the route descriptors that apply, th
 - Chapter Sixteen alone assigns the numeric slot. [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
 - The common scale compares magnitude, not moral worth, and never lets help cancel harm.
 
-**Chapter scope.** Chapter scope for Question 2, and how it routes to the harm side and the benefit side, is stated in **section 2.3**. The chapter covers **section 2** through **section 10** in order. It leaves:
+**Chapter scope.** The chapter covers:
+
+- Question 2, with its chapter scope and its routing to the harm side and the benefit side (**section 2**; **section 2.3**);
+- the magnitude and severity input dimensions (**section 3**);
+- the route descriptor catalogs (**section 4**);
+- slot grammar and shared scaling (**section 5**);
+- the constitutional inputs to axis assignment (**section 6**);
+- the unified proportional LEQU scale (**section 7**);
+- standard contribution measures (**section 8**);
+- measurement illustrations (**section 9**); and
+- the hand-off to Question 3 (**section 10**).
+
+The chapter leaves:
 
 - what happened to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened);
 - what follows from a measurement to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows); and
