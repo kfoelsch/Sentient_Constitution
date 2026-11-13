@@ -28,15 +28,19 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 *In plain terms: this chapter blocks word-games — if behavior evades a definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this chapter says when a system fails a definition in practice: when what it does or produces would violate the definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.*
+*In plain terms: this chapter says when a system fails an applicable definition in practice: when what it does or produces would violate that definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.*
 
-**Purpose.** [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) sets how every definition is built. Chapter Three answers what it means to fail one. A system is non-compliant when its actual behavior or output would violate a definition, judged under full functional conditions and not only on paper (**section 3**). Weakening a definition when it is applied is also non-compliance, whatever the intent, awareness, or claim (**section 2**; **Chapter Two section 3.2** (*Non-Compliance by Structural or Applied Weakening*)). The chapter also provides finding profiles, optional labels that name the kind of constitutional problem for routing and audits (**section 4**).
+**Purpose.** [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) sets how every definition is built. Chapter Three answers what it means to fail one:
+
+- a system is non-compliant when its actual behavior or output would violate an applicable definition, judged under full functional conditions and not only on paper (**section 3**);
+- weakening a definition when it is applied is also non-compliance, whatever the intent, awareness, or claim (**section 2**; **Chapter Two section 3.2** (*Non-Compliance by Structural or Applied Weakening*)); and
+- the chapter also provides finding profiles, optional labels that name the kind of constitutional problem for routing and audits (**section 4**).
 
 **Role.** The chapter sits between how definitions are built and how compliance is proved:
 
 - Chapter Two says how every definition is built. This chapter starts from that and does not change it.
 - [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) picks up from here and says who has to prove compliance, and how.
-- Some verified violation findings also feed standing, the record of a party's verified help and harm. **Section 4.1** to **section 4.3** say when: for systems that are already certified, for systems at their first certification, and for sentients and institutions, who are tagged only when the link to the violation finding is verified.
+- Some verified non-compliance findings also feed standing, the record of a party's verified help and harm kept under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened). Only facts that pass the verified-input gate enter. **Section 4.1** to **section 4.3** say how this works for systems that are already certified, for systems at their first certification, and for sentients and institutions.
 
 **Chapter scope.** The chapter covers:
 
@@ -129,14 +133,14 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 <br>
 
-*In plain terms: a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §3.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.*
+*In plain terms: a system is non-compliant when what it actually does or produces would violate an applicable definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §3.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.*
 
 This section defines when systems are non-compliant based on observable behavior and outcomes, including:
 
 - where declared behavior or scope diverges from actual effects
 - evasion across time, scale, system interaction, and operating conditions where they matter
 
-A system is non-compliant where those observables would violate a definition under full application of its Ontological (O), Assessment (A), and Compliance (C) components, regardless of declared structure, interpretation, or implementation.
+A system is non-compliant where those observables would violate an applicable definition under full application of its Ontological (O), Assessment (A), and Compliance (C) components, regardless of declared structure, interpretation, or implementation.
 
 **How to evaluate.** Systems are non-compliant where:
 
@@ -211,7 +215,7 @@ Misalignment across components is both evasion and non-compliance, including:
 Systems must be evaluated as part of the broader functional system in which they operate. That evaluation includes upstream dependencies, downstream effects, and interaction pathways where materially relevant. Definitions must be applied across interacting systems where such interactions materially affect outcomes governed by the definition.
 
 A system is non-compliant where:
-- its behavior, in combination with other systems, produces outcomes that violate a definition
+- its behavior, in combination with other systems, produces outcomes that violate an applicable definition
 - it externalizes effects onto other systems, populations, or environments to preserve local compliance
 - system boundaries are used to exclude materially relevant interaction effects
 
