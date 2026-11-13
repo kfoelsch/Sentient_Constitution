@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-13T10:55:06+00:00",
+  "generated_at": "2026-11-13T12:09:00+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -10268,7 +10268,7 @@
     [141,239,1],
     [142,679,1],
     [142,239,1],
-    [142,33,1],
+    [142,33,2],
     [143,82,1],
     [143,662,1],
     [143,663,1],

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-13T10:55:05+00:00",
+  "generated_at": "2026-11-13T12:08:59+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -199,24 +199,24 @@
       ]
     },
     "core_03.000_definition_integrity.md": {
-      "total_lines": 298,
+      "total_lines": 302,
       "sections": [
-        {"header":"CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE","level":1,"line_start":2,"line_end":298,"anchor":"#chapter-three-definition-integrity-evasion-and-non-compliance"},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":29,"line_end":53,"anchor":null},
-        {"header":"2. Definition Integrity and Anti-Evasion Constraints","level":3,"line_start":54,"line_end":108,"anchor":null},
-        {"header":"3. Non-Compliance from Observable System Behavior","level":3,"line_start":109,"line_end":238,"anchor":null},
-        {"header":"3.1 Common Evasion Patterns","level":4,"line_start":157,"line_end":188,"anchor":null},
-        {"header":"3.1.1 Formal Label and Representation Gaming","level":5,"line_start":176,"line_end":188,"anchor":null},
-        {"header":"3.2 Reductive Evasion","level":4,"line_start":189,"line_end":200,"anchor":null},
-        {"header":"3.3 Cross-Component Scope Integrity Constraint","level":4,"line_start":201,"line_end":209,"anchor":null},
-        {"header":"3.4 Cross-System Interaction Integrity Constraint","level":4,"line_start":210,"line_end":217,"anchor":null},
-        {"header":"3.5 Temporal Integrity and Continuity Constraint","level":4,"line_start":218,"line_end":227,"anchor":null},
-        {"header":"3.6 Uncertainty Integrity and Non-Exploitation Constraint","level":4,"line_start":228,"line_end":238,"anchor":null},
-        {"header":"4. Non-Compliance Finding Profiles","level":3,"line_start":239,"line_end":298,"anchor":null},
-        {"header":"4.1 Standing Effects for Already-Certified Systems","level":4,"line_start":267,"line_end":270,"anchor":null},
-        {"header":"4.2 Standing Effects at First Certification","level":4,"line_start":271,"line_end":274,"anchor":null},
-        {"header":"4.3 Standing Effects for Sentients and Institutions","level":4,"line_start":275,"line_end":289,"anchor":null},
-        {"header":"4.4 Operational Constraints","level":4,"line_start":290,"line_end":298,"anchor":null}
+        {"header":"CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE","level":1,"line_start":2,"line_end":302,"anchor":"#chapter-three-definition-integrity-evasion-and-non-compliance"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":29,"line_end":57,"anchor":null},
+        {"header":"2. Definition Integrity and Anti-Evasion Constraints","level":3,"line_start":58,"line_end":112,"anchor":null},
+        {"header":"3. Non-Compliance from Observable System Behavior","level":3,"line_start":113,"line_end":242,"anchor":null},
+        {"header":"3.1 Common Evasion Patterns","level":4,"line_start":161,"line_end":192,"anchor":null},
+        {"header":"3.1.1 Formal Label and Representation Gaming","level":5,"line_start":180,"line_end":192,"anchor":null},
+        {"header":"3.2 Reductive Evasion","level":4,"line_start":193,"line_end":204,"anchor":null},
+        {"header":"3.3 Cross-Component Scope Integrity Constraint","level":4,"line_start":205,"line_end":213,"anchor":null},
+        {"header":"3.4 Cross-System Interaction Integrity Constraint","level":4,"line_start":214,"line_end":221,"anchor":null},
+        {"header":"3.5 Temporal Integrity and Continuity Constraint","level":4,"line_start":222,"line_end":231,"anchor":null},
+        {"header":"3.6 Uncertainty Integrity and Non-Exploitation Constraint","level":4,"line_start":232,"line_end":242,"anchor":null},
+        {"header":"4. Non-Compliance Finding Profiles","level":3,"line_start":243,"line_end":302,"anchor":null},
+        {"header":"4.1 Standing Effects for Already-Certified Systems","level":4,"line_start":271,"line_end":274,"anchor":null},
+        {"header":"4.2 Standing Effects at First Certification","level":4,"line_start":275,"line_end":278,"anchor":null},
+        {"header":"4.3 Standing Effects for Sentients and Institutions","level":4,"line_start":279,"line_end":293,"anchor":null},
+        {"header":"4.4 Operational Constraints","level":4,"line_start":294,"line_end":302,"anchor":null}
       ]
     },
     "core_04.000_burden_traceability_verification.md": {
