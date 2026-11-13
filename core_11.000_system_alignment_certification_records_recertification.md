@@ -56,7 +56,12 @@ Certification under this Part:
 
 *In plain terms: a certification only works if it is kept where it can be checked, re-checked on a schedule, challenged when it is wrong, and kept separate from standing. Certification can feed standing, but it is not standing.*
 
-**Purpose.** Chapter Eleven states what happens after the outcome. It sets the minimum contents, transparency, and auditability of the System Certification Record (**section 2**), recertification on a schedule set by system class, reopening triggers, provisional and full certification, and non-evasion (**section 3**), the path for challenging a certification (**section 4**), and the relationship to standing (**section 5**).
+**Purpose.** Chapter Eleven states what happens after the outcome:
+
+- the minimum contents, transparency, and auditability of the System Certification Record (**section 2**);
+- recertification on a schedule set by system class, reopening triggers, provisional and full certification, and non-evasion (**section 3**);
+- the path for challenging a certification (**section 4**); and
+- the relationship to standing (**section 5**).
 
 **Role.** The chapter closes the System Alignment Certification sequence:
 

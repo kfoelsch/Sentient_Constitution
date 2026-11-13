@@ -29,7 +29,10 @@ Chapter Nineteen**, is the constitutional owner of **violation consequences**: w
 
 *In plain terms: something bad happened. This chapter says how to make a durable fix: remedy and correction first, then prevention locks, then voluntary public accountability expression where a restorative pathway uses it, and the remedy-parity rule that keeps the cheap half from outrunning the expensive half.*
 
-**Purpose.** Chapter Nineteen decides what follows from a verified violation. It sets remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 2**). It then says how a lock is designed and enforced: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds (**section 3**).
+**Purpose.** Chapter Nineteen decides what follows from a verified violation. It states:
+
+- remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 2**); and
+- how a lock is designed and enforced: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds (**section 3**).
 
 **Role.** The chapter is the violation track of Question 3:
 

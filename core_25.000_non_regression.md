@@ -60,7 +60,13 @@ Permitted expansion of protection and supremacy sequencing are governed by **Cha
 
 *In plain terms: a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, or an emergency label. This chapter is Test 1, the substance test.*
 
-**Purpose.** Chapter Twenty-Five states Test 1, substantive non-regression validity. It sets the non-regression floor (**section 2**), the Test 1 checklist against [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) constraints, [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) integrity, [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, and [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy (**section 3**), and the anti-evasion clause with referral of serious bad-faith conduct (**section 4**). Amendment validity must preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
+**Purpose.** Chapter Twenty-Five states Test 1, substantive non-regression validity:
+
+- the non-regression floor (**section 2**);
+- the Test 1 checklist against [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) constraints, [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) integrity, [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, and [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy (**section 3**); and
+- the anti-evasion clause with referral of serious bad-faith conduct (**section 4**).
+
+Amendment validity must preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
 
 **Role.** The chapter is the substance half of change validity:
 

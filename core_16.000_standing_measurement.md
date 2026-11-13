@@ -42,7 +42,18 @@ Chapter Sixteen is the constitutional owner of **Question 2**, which measures th
 
 *In plain terms: Question 2 measures the verified facts from Question 1. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score.*
 
-**Purpose.** Chapter Sixteen answers Question 2. It gives the LEQU baseline and its limits (**section 2**), the magnitude and severity input dimensions (**section 3**), the route descriptor catalogs (**section 4**), slot grammar and shared scaling (**section 5**), the constitutional inputs to axis assignment (**section 6**), the unified proportional LEQU scale (**section 7**), standard contribution measures (**section 8**), and the hand-off to Question 3 (**section 10**). For each axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 3.1**).
+**Purpose.** Chapter Sixteen answers Question 2. It gives:
+
+- the LEQU baseline and its limits (**section 2**);
+- the magnitude and severity input dimensions (**section 3**);
+- the route descriptor catalogs (**section 4**);
+- slot grammar and shared scaling (**section 5**);
+- the constitutional inputs to axis assignment (**section 6**);
+- the unified proportional LEQU scale (**section 7**);
+- standard contribution measures (**section 8**); and
+- the hand-off to Question 3 (**section 10**).
+
+For each axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 3.1**).
 
 **Role.** The chapter sits in the middle of the standing pipeline:
 

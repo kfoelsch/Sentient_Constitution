@@ -22,7 +22,12 @@ Chapter Thirteen is the constitutional owner of **forum process and outcomes of 
 
 *In plain terms: the same independent forums, in the same order, review the institution, and the institution never chooses its own reviewer. A published outcome never decides whether the institution may exist or operate.*
 
-**Purpose.** Chapter Thirteen states how forums supervise institutional alignment certification: the four seats in an institutional certification, forum roles and sequence, and forums, certifiers, and record offices treated as institutions (**section 2**). It then states the outcomes: go-live for an Institution, defects and correction, remediation readiness, denial and revocation, and their effects (**section 3**). An outcome decides what the Institution may say about itself, who is warned, and how much the outcome counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found at issue.
+**Purpose.** Chapter Thirteen states how forums supervise institutional alignment certification, and what the outcomes are:
+
+- the four seats in an institutional certification, forum roles and sequence, and forums, certifiers, and record offices treated as institutions (**section 2**); and
+- the outcomes: go-live for an Institution, defects and correction, remediation readiness, denial and revocation, and their effects (**section 3**).
+
+An outcome decides what the Institution may say about itself, who is warned, and how much the outcome counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found at issue.
 
 **Role.** Institutional certification and System Alignment Certification are two certifications joined by a link, not one inside the other (**Chapter Twelve section 1**):
 

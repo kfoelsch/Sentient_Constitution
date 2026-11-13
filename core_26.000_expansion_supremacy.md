@@ -50,7 +50,13 @@ Chapter Twenty-Six is the constitutional owner of **additive expansion of protec
 
 *In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.*
 
-**Purpose.** Chapter Twenty-Six states what is permitted and what holds when this Constitution meets other rules. It permits additive expansion (**section 2**), keeps supremacy and challenge rights in force during amendment (**section 3**), sets supremacy relative to other binding norms, stricter external protections, and conflict disclosure (**section 4**), covers disputes involving external legal orders (**section 5**), and states how this Constitution relates to applicable external law, including non-displacement and limited binding effect (**section 6**).
+**Purpose.** Chapter Twenty-Six states what is permitted and what holds when this Constitution meets other rules:
+
+- additive expansion, which is permitted (**section 2**);
+- supremacy and challenge rights, which stay in force during amendment (**section 3**);
+- supremacy relative to other binding norms, stricter external protections, and conflict disclosure (**section 4**);
+- disputes involving external legal orders (**section 5**); and
+- how this Constitution relates to applicable external law, including non-displacement and limited binding effect (**section 6**).
 
 **Role.** The chapter works with its two neighbors on change and adoption:
 

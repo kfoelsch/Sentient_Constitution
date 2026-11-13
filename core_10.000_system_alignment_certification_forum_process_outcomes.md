@@ -126,7 +126,10 @@ flowchart TB
 
 *In plain terms: once a system has been evaluated, independent forums review the result in a set order and publish an outcome. This chapter says how the forums work and what outcomes they can reach, including the gate before go-live.*
 
-**Purpose.** Chapter Ten states the forum process for System Alignment Certification (SAC): component roles, the supervisory sequence, the contestability chain, and the anti-bypass rule (**section 2**). It then states the certification outcomes: the go-live gate, certification defects and correction, remediation readiness, denial and revocation, and their effects (**section 3**).
+**Purpose.** Chapter Ten states two things:
+
+- the forum process for System Alignment Certification (SAC): component roles, the supervisory sequence, the contestability chain, and the anti-bypass rule (**section 2**); and
+- the certification outcomes: the go-live gate, certification defects and correction, remediation readiness, denial and revocation, and their effects (**section 3**).
 
 **Role.** The chapter is jointly owned with Chapters [Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) and [Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing), which together own forum-supervised SAC and the related System Certification Records:
 

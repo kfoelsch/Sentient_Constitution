@@ -19,7 +19,14 @@ Chapter Twenty-Two**, is the constitutional owner of **named pattern application
 
 *In plain terms: this chapter applies [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
 
-**Purpose.** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 3 to 5**. The patterns are: attacks on participation and accountability-pathway integrity (**section 2**); blocking contest, review, and verification (**section 3**); corrupting and commanding duty-holders (**section 4**); shielding misconduct and failing to enforce (**section 5**); structural control through concentration and dependency (**section 6**); and obstruction of accountability (**section 7**). Each is judged by what the conduct actually does.
+**Purpose.** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 3 to 5**. Each is judged by what the conduct actually does. The patterns are:
+
+- attacks on participation and accountability-pathway integrity (**section 2**);
+- blocking contest, review, and verification (**section 3**);
+- corrupting and commanding duty-holders (**section 4**);
+- shielding misconduct and failing to enforce (**section 5**);
+- structural control through concentration and dependency (**section 6**); and
+- obstruction of accountability (**section 7**).
 
 **Role.** The chapter is jointly owned with Chapter Twenty-One, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
 

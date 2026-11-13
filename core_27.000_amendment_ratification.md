@@ -39,7 +39,13 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.*
 
-**Purpose.** Chapter Twenty-Seven states Tests 2 to 4 and the rules around them. Heightened review for rights-affecting changes (**section 2**), the burden of justification and public traceability (**section 3**), and the validity floor (**section 4**) frame three tests: procedural validity and publication integrity (**section 5**), authority-chain and custody validity (**section 6**), and contestability and independent review validity (**section 7**). Review triggers (**section 8**), the provisional effect rule (**section 9**), and invalid-change handling and remediation continuity (**section 10**) say what happens when review is needed or a change fails. Ratification and adoption (**section 11**) and amendment procedure requirements (**section 12**) state how a body adopts and how it amends. **Section 13** states the owner non-relocation rule for this chapter.
+**Purpose.** Chapter Twenty-Seven states Tests 2 to 4 and the rules around them:
+
+- the framing rules: heightened review for rights-affecting changes (**section 2**), the burden of justification and public traceability (**section 3**), and the validity floor (**section 4**);
+- the three tests: procedural validity and publication integrity (**section 5**), authority-chain and custody validity (**section 6**), and contestability and independent review validity (**section 7**);
+- what happens when review is needed or a change fails: review triggers (**section 8**), the provisional effect rule (**section 9**), and invalid-change handling and remediation continuity (**section 10**);
+- how a body adopts and how it amends: ratification and adoption (**section 11**) and amendment procedure requirements (**section 12**); and
+- the owner non-relocation rule for this chapter (**section 13**).
 
 **Role.** The chapter is the procedural half of change validity:
 
