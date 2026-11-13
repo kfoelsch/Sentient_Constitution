@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) Test 1 and non-regression; [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) (26.000) supremacy and external-order interface; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy context for collective change.
-- Subsections: [§§ 2–13](#2-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
+- Subsections: [§§ 2–13](#2-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and owner non-relocation).
 - Downstream: Adoption documents and edition custody tie to [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045) and [Corpus and Authority Stack](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) publication, burden, and traceability requirements invoked in Test 2 and §12.
 
@@ -167,7 +167,7 @@ A proposed amendment is invalid if it:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-heightened-review-for-rights-affecting-changes)–[§7](#7-test-4--contestability-and-independent-review-validity) validity tests and contestability floor.
-- Downstream: [§13](#13-layer-scope) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
+- Downstream: [§13](#13-owner-non-relocation) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
 - Read with: [Chapter Twenty §2 — *Final standing effect*](core_20.000_final_effect_restoration_enforcement.md#2-final-standing-effect) (20.000 §2); [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
 
 </details>
@@ -298,7 +298,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Test 2; [§11](#11-ratification-and-adoption) adoption documents.
 - Subsections: [§12.1](#121-notice-and-contest); [§12.2](#122-recorded-effectiveness).
-- Downstream: [§13](#13-layer-scope) procedural-layer discipline restatement.
+- Downstream: [§13](#13-owner-non-relocation) procedural-layer discipline restatement.
 - Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).
 
 </details>
@@ -340,15 +340,15 @@ Amendments must be proposed with sufficient specificity and advance publication 
 Amendments take effect only on a stated effective date or event recorded in the adoption chain. Amendments that are undisclosed to affected stakeholders in material scope, or that bypass recorded procedure, do not satisfy constitutional amendment requirements for supremacy purposes.
 
 <a id="13-scope-limit-and-layer-discipline"></a>
-<a id="13-layer-scope"></a>
+<a id="13-owner-non-relocation"></a>
 
-### 13. Layer Scope
+### 13. Owner Non-Relocation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Twenty-Five §5](core_25.000_non_regression.md#5-layer-scope) (25.000 §5) substantive-chapter mirror; [§8](#8-review-triggers) and [§10](#10-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) and [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (21.000) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Six — Layer Scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Six — Owner Non-Relocation](core_06.000_rights_part_a.md#12-owner-non-relocation) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>
 

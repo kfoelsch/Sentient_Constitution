@@ -28,7 +28,7 @@
   - [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) (26.000) (*internal hierarchy for adopters where applicable*);
   - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.030 §15.4) (*single conflict procedure — not restated here*).
 - Subsections:
-  - [§1 Role of This Chapter](#1-role-of-this-chapter);
+  - [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope);
   - [§2 Custody, Editions, and Operative Effect](#2-custody-editions-and-operative-effect);
   - [§3 Safeguards](#3-safeguards);
   - [§4 Adoption Framing and Scope of Authority](#4-adoption-framing-and-scope-of-authority).
@@ -56,7 +56,7 @@ Chapter Twenty-Eight is the constitutional owner of **incorporation bridge disci
 
 *In plain terms: this chapter is the bridge that says which implementation rulebooks actually bind an adopter, which exact edition and custody trail count, and that quietly swapping the file for a newer draft does not change constitutional obligations without a proper re-adoption path under Chapters Twenty-Seven and Twenty-Seven.*
 
-### 1. Role of This Chapter
+### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -85,22 +85,24 @@ Chapter Twenty-Eight is the constitutional owner of **incorporation bridge disci
 
 *In plain terms: this section names the bridge — which implementation files can bind, how adoption makes them operative, that later edits do not silently rewrite what was adopted, and that pointing here (or to an incorporated file) invokes only the obligations inside the recorded adoption scope.*
 
-This chapter is the **constitutional incorporation bridge**. It answers three questions:
+**Purpose.** This chapter is the **constitutional incorporation bridge**. It answers three questions:
 
 1. **Which** designated **implementation text** files can bind as incorporated implementation text.
 2. **How** adoption and custody make that text operative for an adopter.
 3. **That** later edits to those files do not silently change constitutional effect.
 
-Within valid adoption scope, designated **implementation text** files listed in the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover. They implement this Constitution under **Chapter One**; they do not replace it. Merging those files for packaging does **not** change their status while they remain listed there.
+**Role.** Within valid adoption scope, designated **implementation text** files listed in the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover. They implement this Constitution under **Chapter One**; they do not replace it. Merging those files for packaging does **not** change their status while they remain listed there.
 
 References across these constitutional volumes to **Chapter Twenty-Eight** or to incorporated implementation files invoke the corresponding **adopted** implementation obligations **where they apply** and **only within the stated adoption scope**.
+
+**Chapter scope.** The chapter covers custody, editions, and operative effect (**section 2**), safeguards (**section 3**), and adoption framing and scope of authority (**section 4**). Within it, pointing to this chapter or to an incorporated file invokes only the obligations inside the recorded adoption scope.
 
 ### 2. Custody, Editions, and Operative Effect
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§1](#1-role-of-this-chapter) (*bridge role and invocation within adoption scope*);
+  - [§1](#1-purpose-role-and-scope) (*bridge role and invocation within adoption scope*);
   - [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) (*recorded adoption chain*);
   - [**Corpus**](core_05.045_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000).
@@ -185,7 +187,7 @@ This section sets out the safeguards that protect incorporated text:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§1](#1-role-of-this-chapter)–
+  - [§1](#1-purpose-role-and-scope)–
   - [§3](#3-safeguards) (*bridge role, custody, and safeguards*);
   - [Chapter Twenty-Seven §11](core_27.000_amendment_ratification.md#11-ratification-and-adoption) (27.000 §11) (*deliberate adoption, document, and joining*);
   - [Chapter Twenty-Four §2](core_24.000_governance.md#2-authorization-and-legitimacy-of-governing-authority) (24.000 §2) (*pluralism*).

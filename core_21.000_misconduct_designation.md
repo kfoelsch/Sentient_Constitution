@@ -72,9 +72,9 @@ Chapter Twenty-One**, is the constitutional owner of **final anti-constitutional
 This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and anti-constitutional misconduct (ACM) is materially alleged. It decides only whether the matching ACMD attaches; it does not create a separate impact scale, move a violation finding between slots, or replace Chapter Sixteen measurement or Chapter Seventeen standing integration.
 *In plain terms: under the [Continuity aim](core_00.000_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*
 
-<a id="1-purpose-and-role"></a>
+<a id="1-purpose-role-and-scope"></a>
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -97,11 +97,18 @@ This chapter is used only when a verified violation already occupies Violation A
 
 *In plain terms: this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.*
 
-Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) decides what follows (Question 3). A verified violation in slot 7, 8, or 9 can be very large without being ACM, because how large the harm is does not, by itself, show intent, capture, or ACM. What this chapter looks for is **tetrad capture** at scale under the [Continuity aim](core_00.000_preamble.md#continuity): conduct that captures or hollows out constitutional duties by weakening the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (**participation**, **oversight**, **accountability**, and **timeliness**) below [material stake](core_00.000_preamble.md#material-stake) requirements.
+**Purpose.** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) decides what follows (Question 3). A verified violation in slot 7, 8, or 9 can be very large without being ACM, because how large the harm is does not, by itself, show intent, capture, or ACM. What this chapter looks for is **tetrad capture** at scale under the [Continuity aim](core_00.000_preamble.md#continuity): conduct that captures or hollows out constitutional duties by weakening the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (**participation**, **oversight**, **accountability**, and **timeliness**) below [material stake](core_00.000_preamble.md#material-stake) requirements.
 
 Only this chapter may decide that question. The result is a final ACMD that matches the existing slot of the verified violation finding (Severe, Grave, or Catastrophic anti-constitutional misconduct), or no final ACMD. A final ACMD may issue only when the **section 3** criteria are met on a verified standing record and the **section 5** safeguards are satisfied.
 
-This chapter works in this order, and the **decision sequence** in **section 2.4** sets the full list:
+**Role.** Where this chapter sits:
+
+- After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the Trust Lock and the final standing effect.
+- After a final ACMD, [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) attaches governance legitimacy consequences.
+- [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case, with Integrity as the default lead where a final ACMD is the primary stake, and certifies the forum.
+- The remedy and prevention rules here are read with the Rights Floor and Justice articles in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights).
+
+**Chapter scope.** This chapter works in this order, and the **decision sequence** in **section 2.4** sets the full list:
 
 - **Decide whether an ACMD attaches**
   - It takes the verified standing record and the Chapter Sixteen slot as fixed (**section 3**).
@@ -123,13 +130,6 @@ This chapter does not:
 
 - hold up ordinary Chapter Seventeen consequences. Remedy, correction, and locks continue while ACMD is under review, and the review does not reopen Chapter Sixteen measurement (**section 3**); or
 - decide whether a constitutional change, or the process that made it, is valid. [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) decide that and do not issue an ACMD; change-path conduct reaches this chapter only through the criteria (**section 2**).
-
-Where this chapter sits:
-
-- After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the Trust Lock and the final standing effect.
-- After a final ACMD, [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) attaches governance legitimacy consequences.
-- [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case, with Integrity as the default lead where a final ACMD is the primary stake, and certifies the forum.
-- The remedy and prevention rules here are read with the Rights Floor and Justice articles in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
 ### 2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 <details>

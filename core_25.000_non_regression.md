@@ -182,7 +182,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) and [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (21.000) canonical owners.
-- Downstream: [Chapter Twenty-Seven §13](core_27.000_amendment_ratification.md#13-layer-scope) (27.000 §13) mirrored procedural-layer discipline; implementation text for review execution mechanics.
+- Downstream: [Chapter Twenty-Seven §13](core_27.000_amendment_ratification.md#13-owner-non-relocation) (27.000 §13) mirrored procedural-layer discipline; implementation text for review execution mechanics.
 - Read with:
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the
   - [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights);

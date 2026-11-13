@@ -30,7 +30,7 @@
 
 **Binding:** When an adopter incorporates this layer under [Chapter Twenty-Eight](core_28.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
-**New to the non-core corpus?** Start at the [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md) — how to enter this layer, how labels work, and which file to open. The binding gateway is [CJS-0.110 §0 Purpose of This Layer](corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-of-this-layer).
+**New to the non-core corpus?** Start at the [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md) — how to enter this layer, how labels work, and which file to open. The binding gateway is [CJS-0.110 §0 Purpose, Role, and Scope](corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-role-and-scope).
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Joint structure index** below. Maintainers edit the integrator table under [CJS-0.105 §1 Cross-File Routing](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing). How to enter the layer: [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md).
 

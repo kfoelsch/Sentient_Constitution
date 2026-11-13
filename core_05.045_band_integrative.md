@@ -1108,7 +1108,7 @@ See **Anti-Segmentation Principle**.
   - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.030 §15.4) (*single conflict procedure, including incorporation layer*);
   - [Chapter Twenty-Six — Internal Hierarchy for Adopters](core_26.000_expansion_supremacy.md#41-internal-hierarchy-for-adopters) (26.000);
   - [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
-- Downstream: [Chapter Six — Layer Scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000); [Chapter Twenty-Five §5 Layer Scope](core_25.000_non_regression.md#5-layer-scope) (25.000 §5) and [Chapter Twenty-Seven §13 Layer Scope](core_27.000_amendment_ratification.md#13-layer-scope) (27.000 §13) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
+- Downstream: [Chapter Six — Owner Non-Relocation](core_06.000_rights_part_a.md#12-owner-non-relocation) (6.000); [Chapter Twenty-Five §5 Layer Scope](core_25.000_non_regression.md#5-layer-scope) (25.000 §5) and [Chapter Twenty-Seven §13 Layer Scope](core_27.000_amendment_ratification.md#13-owner-non-relocation) (27.000 §13) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
 - Read with:
   - [Corpus](core_05.045_band_integrative.md#corpus);
   - [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9);

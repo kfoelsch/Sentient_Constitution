@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-13T07:54:08+00:00",
+  "generated_at": "2026-11-13T07:59:52+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -1202,7 +1202,7 @@
       "total_lines": 615,
       "sections": [
         {"header":"CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":1,"line_end":615,"anchor":null},
-        {"header":"1. Purpose and Role","level":3,"line_start":77,"line_end":133,"anchor":"#1-purpose-and-role"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":77,"line_end":133,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame","level":3,"line_start":134,"line_end":207,"anchor":null},
         {"header":"2.1 What This Chapter Does Not Re-Measure","level":4,"line_start":159,"line_end":170,"anchor":null},
         {"header":"2.2 Exclusive Authority to Issue a Final ACMD","level":4,"line_start":171,"line_end":178,"anchor":null},
@@ -1320,7 +1320,7 @@
         {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":1419,"anchor":null},
         {"header":"1. Purpose and Role","level":3,"line_start":27,"line_end":165,"anchor":null},
         {"header":"1.1 Practical Enforcement","level":4,"line_start":117,"line_end":155,"anchor":null},
-        {"header":"1.2 Layer Scope","level":4,"line_start":156,"line_end":165,"anchor":"#12-layer-scope"},
+        {"header":"1.2 Owner Non-Relocation","level":4,"line_start":156,"line_end":165,"anchor":"#12-owner-non-relocation"},
         {"header":"Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources","level":3,"line_start":166,"line_end":212,"anchor":null},
         {"header":"Article I: Environmental Survival","level":3,"line_start":213,"line_end":436,"anchor":null},
         {"header":"Article I-A: Environmental Preconditions and Ecological Integrity","level":4,"line_start":245,"line_end":307,"anchor":null},
@@ -1494,23 +1494,23 @@
       ]
     },
     "core_24.000_governance.md": {
-      "total_lines": 549,
+      "total_lines": 558,
       "sections": [
-        {"header":"CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":549,"anchor":null},
-        {"header":"1. Layer Boundary for This Chapter","level":3,"line_start":27,"line_end":47,"anchor":null},
-        {"header":"2. Authorization and Legitimacy of Governing Authority","level":3,"line_start":48,"line_end":241,"anchor":null},
-        {"header":"2.1 Mechanism Families, Auditability, and Pluralism","level":4,"line_start":76,"line_end":145,"anchor":null},
-        {"header":"2.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":146,"line_end":211,"anchor":null},
-        {"header":"2.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":212,"line_end":241,"anchor":null},
-        {"header":"3. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":242,"line_end":263,"anchor":null},
-        {"header":"4. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":264,"line_end":342,"anchor":null},
-        {"header":"4.1 Stewardship Direction","level":4,"line_start":307,"line_end":322,"anchor":null},
-        {"header":"4.2 Ecosystem Value Orientation","level":4,"line_start":323,"line_end":342,"anchor":null},
-        {"header":"5. Voting and Binding Collective Choice Protocols","level":3,"line_start":343,"line_end":502,"anchor":null},
-        {"header":"5.1 Entitlement and Eligibility","level":4,"line_start":359,"line_end":423,"anchor":null},
-        {"header":"5.2 Records, Gates, and Method Neutrality","level":4,"line_start":424,"line_end":465,"anchor":null},
-        {"header":"5.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":466,"line_end":502,"anchor":"#53-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"6. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":503,"line_end":549,"anchor":null}
+        {"header":"CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":558,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":27,"line_end":56,"anchor":null},
+        {"header":"2. Authorization and Legitimacy of Governing Authority","level":3,"line_start":57,"line_end":250,"anchor":null},
+        {"header":"2.1 Mechanism Families, Auditability, and Pluralism","level":4,"line_start":85,"line_end":154,"anchor":null},
+        {"header":"2.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":155,"line_end":220,"anchor":null},
+        {"header":"2.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":221,"line_end":250,"anchor":null},
+        {"header":"3. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":251,"line_end":272,"anchor":null},
+        {"header":"4. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":273,"line_end":351,"anchor":null},
+        {"header":"4.1 Stewardship Direction","level":4,"line_start":316,"line_end":331,"anchor":null},
+        {"header":"4.2 Ecosystem Value Orientation","level":4,"line_start":332,"line_end":351,"anchor":null},
+        {"header":"5. Voting and Binding Collective Choice Protocols","level":3,"line_start":352,"line_end":511,"anchor":null},
+        {"header":"5.1 Entitlement and Eligibility","level":4,"line_start":368,"line_end":432,"anchor":null},
+        {"header":"5.2 Records, Gates, and Method Neutrality","level":4,"line_start":433,"line_end":474,"anchor":null},
+        {"header":"5.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":475,"line_end":511,"anchor":"#53-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"6. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":512,"line_end":558,"anchor":null}
       ]
     },
     "core_25.000_non_regression.md": {
@@ -1564,17 +1564,17 @@
         {"header":"12. Amendment Procedure Requirements","level":3,"line_start":295,"line_end":344,"anchor":null},
         {"header":"12.1 Notice and Contest","level":4,"line_start":310,"line_end":325,"anchor":null},
         {"header":"12.2 Recorded Effectiveness","level":4,"line_start":326,"line_end":344,"anchor":null},
-        {"header":"13. Layer Scope","level":3,"line_start":345,"line_end":379,"anchor":"#13-layer-scope"}
+        {"header":"13. Owner Non-Relocation","level":3,"line_start":345,"line_end":379,"anchor":"#13-owner-non-relocation"}
       ]
     },
     "core_28.000_incorporation.md": {
-      "total_lines": 219,
+      "total_lines": 221,
       "sections": [
-        {"header":"CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":219,"anchor":null},
-        {"header":"1. Role of This Chapter","level":3,"line_start":59,"line_end":97,"anchor":null},
-        {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":98,"line_end":145,"anchor":null},
-        {"header":"3. Safeguards","level":3,"line_start":146,"line_end":182,"anchor":null},
-        {"header":"4. Adoption Framing and Scope of Authority","level":3,"line_start":183,"line_end":219,"anchor":null}
+        {"header":"CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":221,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":59,"line_end":99,"anchor":null},
+        {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":100,"line_end":147,"anchor":null},
+        {"header":"3. Safeguards","level":3,"line_start":148,"line_end":184,"anchor":null},
+        {"header":"4. Adoption Framing and Scope of Authority","level":3,"line_start":185,"line_end":221,"anchor":null}
       ]
     },
     "corpus_systems.md": {
@@ -1649,7 +1649,7 @@
       "total_lines": 211,
       "sections": [
         {"header":"CJS-0.110: Scope, Purpose, and Boundary Interface","level":1,"line_start":1,"line_end":211,"anchor":null},
-        {"header":"CJS-0.110 §0: Purpose of This Layer","level":2,"line_start":87,"line_end":123,"anchor":null},
+        {"header":"CJS-0.110 §0: Purpose, Role, and Scope","level":2,"line_start":87,"line_end":123,"anchor":null},
         {"header":"CJS-0.110 §1: Section Identifiers and Article References","level":2,"line_start":124,"line_end":163,"anchor":null},
         {"header":"CJS-0.110 §3: Shared Implementation-Corpus Preamble Contract","level":2,"line_start":164,"line_end":211,"anchor":null}
       ]
@@ -1851,14 +1851,14 @@
       "total_lines": 132,
       "sections": [
         {"header":"CS-0.310: Scope, Purpose, and Boundary Interface","level":1,"line_start":1,"line_end":132,"anchor":null},
-        {"header":"CS-0.310 §0: Purpose and Role","level":2,"line_start":96,"line_end":132,"anchor":"#operates-in-conjunction-with"}
+        {"header":"CS-0.310 §0: Purpose, Role, and Scope","level":2,"line_start":96,"line_end":132,"anchor":"#operates-in-conjunction-with"}
       ]
     },
     "corpus_systems/cs_06.305_information_types_and_handling.md": {
       "total_lines": 698,
       "sections": [
         {"header":"CS-6.305, Part A: Information Types and Handling","level":1,"line_start":2,"line_end":698,"anchor":null},
-        {"header":"CS-6.305 §1 Purpose and Scope","level":2,"line_start":23,"line_end":140,"anchor":null},
+        {"header":"CS-6.305 §1 Purpose, Role, and Scope","level":2,"line_start":23,"line_end":140,"anchor":null},
         {"header":"CS-6.305 §2 Determination of Classification","level":2,"line_start":141,"line_end":166,"anchor":"#13-collection-notice-and-deletion"},
         {"header":"CS-6.305 §3 Temporal, Systemic, and Dependency Scope of Rights","level":2,"line_start":167,"line_end":175,"anchor":"#most-restrictive-applicable-classification-governs"},
         {"header":"CS-6.305 §4 Anti-Circumvention and Integrity of Classification","level":2,"line_start":176,"line_end":191,"anchor":null},
@@ -1914,7 +1914,7 @@
       "total_lines": 112,
       "sections": [
         {"header":"CS-6.315: Comprehensibility and Complexity Stewardship","level":1,"line_start":1,"line_end":112,"anchor":null},
-        {"header":"CS-6.315 §1 Purpose and Role","level":2,"line_start":50,"line_end":72,"anchor":null},
+        {"header":"CS-6.315 §1 Purpose, Role, and Scope","level":2,"line_start":50,"line_end":72,"anchor":null},
         {"header":"CS-6.315 §2 Classification-Scaled Application","level":2,"line_start":73,"line_end":79,"anchor":null},
         {"header":"CS-6.315 §3 Systems-Specific Checks","level":2,"line_start":80,"line_end":101,"anchor":null},
         {"header":"CS-6.315 §4 Gaps and Silence","level":2,"line_start":102,"line_end":112,"anchor":null}
@@ -1924,7 +1924,7 @@
       "total_lines": 234,
       "sections": [
         {"header":"CS-6.320: Justice Safeguards, Restitution, and Rehabilitation","level":1,"line_start":1,"line_end":234,"anchor":null},
-        {"header":"CS-6.320 §1 Purpose and Role","level":2,"line_start":50,"line_end":57,"anchor":null},
+        {"header":"CS-6.320 §1 Purpose, Role, and Scope","level":2,"line_start":50,"line_end":57,"anchor":null},
         {"header":"CS-6.320 §2 Scope and Trigger","level":2,"line_start":58,"line_end":66,"anchor":null},
         {"header":"CS-6.320 §3 Mandatory Validation Record","level":2,"line_start":67,"line_end":81,"anchor":null},
         {"header":"CS-6.320 §4 Class-Scaled Assurance Requirements","level":2,"line_start":82,"line_end":98,"anchor":null},
@@ -1941,7 +1941,7 @@
       "total_lines": 230,
       "sections": [
         {"header":"CS-6.325: Adaptive Sustainability and Ecosystem Resilience","level":1,"line_start":1,"line_end":230,"anchor":null},
-        {"header":"CS-6.325 §1 Purpose and Role","level":2,"line_start":50,"line_end":58,"anchor":null},
+        {"header":"CS-6.325 §1 Purpose, Role, and Scope","level":2,"line_start":50,"line_end":58,"anchor":null},
         {"header":"CS-6.325 §2 System Health and Degradation Awareness","level":2,"line_start":59,"line_end":78,"anchor":null},
         {"header":"CS-6.325 §3 Adaptive Allocation Requirement","level":2,"line_start":79,"line_end":132,"anchor":null},
         {"header":"3.1 Root Cause Analysis","level":3,"line_start":86,"line_end":99,"anchor":null},
@@ -1961,7 +1961,7 @@
       "total_lines": 195,
       "sections": [
         {"header":"CS-6.330: Decentralized Continuity and Partition Resilience","level":1,"line_start":1,"line_end":195,"anchor":null},
-        {"header":"CS-6.330 §1 Purpose and Role","level":2,"line_start":46,"line_end":52,"anchor":null},
+        {"header":"CS-6.330 §1 Purpose, Role, and Scope","level":2,"line_start":46,"line_end":52,"anchor":null},
         {"header":"CS-6.330 §2 Continuity Modes and Rights-Floor Invariants","level":2,"line_start":53,"line_end":66,"anchor":null},
         {"header":"CS-6.330 §3 Local-First Governance Execution under Disconnection","level":2,"line_start":67,"line_end":81,"anchor":null},
         {"header":"CS-6.330 §4 Partition-Safe Decision Constraints","level":2,"line_start":82,"line_end":96,"anchor":null},
@@ -1977,7 +1977,7 @@
       "total_lines": 395,
       "sections": [
         {"header":"CS-6.335: Resource Allocation and Funding Stewardship","level":1,"line_start":1,"line_end":395,"anchor":null},
-        {"header":"CS-6.335 §1 Purpose and Role","level":2,"line_start":46,"line_end":62,"anchor":null},
+        {"header":"CS-6.335 §1 Purpose, Role, and Scope","level":2,"line_start":46,"line_end":62,"anchor":null},
         {"header":"CS-6.335 §2 Principles of Funding","level":2,"line_start":63,"line_end":77,"anchor":null},
         {"header":"CS-6.335 §3 Cross-System Resource Flows and Dependencies","level":2,"line_start":78,"line_end":105,"anchor":null},
         {"header":"CS-6.335 §4 Dependent Systems Map","level":2,"line_start":106,"line_end":123,"anchor":null},
@@ -2004,7 +2004,7 @@
       "total_lines": 134,
       "sections": [
         {"header":"CS-6.340: System Requirements","level":1,"line_start":2,"line_end":134,"anchor":null},
-        {"header":"CS-6.340 §1 Purpose and Role","level":2,"line_start":54,"line_end":79,"anchor":null},
+        {"header":"CS-6.340 §1 Purpose, Role, and Scope","level":2,"line_start":54,"line_end":79,"anchor":null},
         {"header":"CS-6.340 §2 In-Scope Catalog","level":2,"line_start":80,"line_end":104,"anchor":null},
         {"header":"CS-6.340 §3 Analog, Digital, and Channel Class","level":2,"line_start":105,"line_end":117,"anchor":null},
         {"header":"CS-6.340 §4 What This File Does Not Own","level":2,"line_start":118,"line_end":134,"anchor":null}
@@ -2014,7 +2014,7 @@
       "total_lines": 364,
       "sections": [
         {"header":"CS-6.345: System Lifecycle","level":1,"line_start":1,"line_end":364,"anchor":null},
-        {"header":"CS-6.345 §1 Purpose and Role","level":2,"line_start":64,"line_end":104,"anchor":null},
+        {"header":"CS-6.345 §1 Purpose, Role, and Scope","level":2,"line_start":64,"line_end":104,"anchor":null},
         {"header":"CS-6.345 §2 Personal, Isolated, and Experimental Systems","level":2,"line_start":105,"line_end":113,"anchor":null},
         {"header":"CS-6.345 §3 Creative, Entertainment, and Expressive Systems","level":2,"line_start":114,"line_end":126,"anchor":null},
         {"header":"CS-6.345 §4 Misclassification and Evasion","level":2,"line_start":127,"line_end":135,"anchor":null},
@@ -2030,7 +2030,7 @@
       "total_lines": 173,
       "sections": [
         {"header":"CS-6.350: Adoption Transition Constitution and Migration Governance","level":1,"line_start":1,"line_end":173,"anchor":null},
-        {"header":"CS-6.350 §1 Purpose and Role","level":2,"line_start":45,"line_end":53,"anchor":null},
+        {"header":"CS-6.350 §1 Purpose, Role, and Scope","level":2,"line_start":45,"line_end":53,"anchor":null},
         {"header":"CS-6.350 §2 Phased Adoption Transition Structure","level":2,"line_start":54,"line_end":68,"anchor":null},
         {"header":"CS-6.350 §3 Gate Criteria and Advancement Rules","level":2,"line_start":69,"line_end":87,"anchor":null},
         {"header":"CS-6.350 §4 Adoption Transition Authority Constraints","level":2,"line_start":88,"line_end":96,"anchor":null},
@@ -2044,7 +2044,7 @@
       "total_lines": 223,
       "sections": [
         {"header":"CS-6.355: Subversion Response, Replacement, and Reconstitution","level":1,"line_start":1,"line_end":223,"anchor":null},
-        {"header":"CS-6.355 §1 Purpose and Role","level":2,"line_start":51,"line_end":69,"anchor":null},
+        {"header":"CS-6.355 §1 Purpose, Role, and Scope","level":2,"line_start":51,"line_end":69,"anchor":null},
         {"header":"CS-6.355 §2 Landscape Compromise Declaration and Activation","level":2,"line_start":70,"line_end":86,"anchor":null},
         {"header":"CS-6.355 §3 Priority Triage and Dependency-Aware Containment","level":2,"line_start":87,"line_end":102,"anchor":null},
         {"header":"CS-6.355 §4 Governance Continuity under Multi-Node Compromise","level":2,"line_start":103,"line_end":140,"anchor":null},
@@ -2060,7 +2060,7 @@
       "total_lines": 580,
       "sections": [
         {"header":"CS-9.305, Part A: System Classification Machinery","level":1,"line_start":2,"line_end":580,"anchor":null},
-        {"header":"CS-9.305 §1 Purpose and Scope","level":2,"line_start":35,"line_end":119,"anchor":null},
+        {"header":"CS-9.305 §1 Purpose, Role, and Scope","level":2,"line_start":35,"line_end":119,"anchor":null},
         {"header":"CS-9.305 §2 Classification Dimensions and Real-World Application","level":2,"line_start":120,"line_end":156,"anchor":"#14-alignment-status-certification-and-ambiguity-default"},
         {"header":"CS-9.305 §3 Criticality, Concentration, Temporal, and Adversarial Factors","level":2,"line_start":157,"line_end":229,"anchor":"#22-real-world-application"},
         {"header":"CS-9.305 §4 Dependency Types (Dep-A–P)","level":2,"line_start":230,"line_end":262,"anchor":"#35-reclassification-requirement"},
@@ -2121,7 +2121,7 @@
       "total_lines": 86,
       "sections": [
         {"header":"CS-9.315: System Alignment Certification Run Sheet","level":1,"line_start":1,"line_end":86,"anchor":null},
-        {"header":"CS-9.315 §1 Purpose and Role","level":2,"line_start":40,"line_end":49,"anchor":null},
+        {"header":"CS-9.315 §1 Purpose, Role, and Scope","level":2,"line_start":40,"line_end":49,"anchor":null},
         {"header":"CS-9.315 §2 Run Sheet","level":2,"line_start":50,"line_end":75,"anchor":null},
         {"header":"CS-9.315 §3 Gaps and Silence","level":2,"line_start":76,"line_end":86,"anchor":null}
       ]
@@ -2130,7 +2130,7 @@
       "total_lines": 818,
       "sections": [
         {"header":"CS-9.320: System Alignment Certification Illustrations","level":1,"line_start":1,"line_end":818,"anchor":null},
-        {"header":"CS-9.320 §1 Purpose and Role","level":2,"line_start":41,"line_end":69,"anchor":null},
+        {"header":"CS-9.320 §1 Purpose, Role, and Scope","level":2,"line_start":41,"line_end":69,"anchor":null},
         {"header":"CS-9.320 §2 Illustrative System Class Profiles","level":2,"line_start":70,"line_end":83,"anchor":null},
         {"header":"CS-9.320 §3 Reclassification","level":2,"line_start":84,"line_end":93,"anchor":null},
         {"header":"CS-9.320 §4 Illustrative Whole-System Application by System Class","level":2,"line_start":94,"line_end":205,"anchor":null},
@@ -2148,7 +2148,7 @@
       "total_lines": 580,
       "sections": [
         {"header":"CS-24.305: Critical System Stewardship","level":1,"line_start":1,"line_end":580,"anchor":null},
-        {"header":"CS-24.305 §1 Purpose and Scope","level":2,"line_start":58,"line_end":68,"anchor":null},
+        {"header":"CS-24.305 §1 Purpose, Role, and Scope","level":2,"line_start":58,"line_end":68,"anchor":null},
         {"header":"CS-24.305 §2 Classification as Steward","level":2,"line_start":69,"line_end":119,"anchor":null},
         {"header":"CS-24.305 §3 Stewardship Criticality Levels","level":2,"line_start":120,"line_end":136,"anchor":null},
         {"header":"CS-24.305 §4 Scaling Obligations","level":2,"line_start":137,"line_end":150,"anchor":null},

@@ -244,7 +244,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 *In plain terms: Chapters Two through Four set the rules every compliance claim must meet — what definitions mean, when behavior fails them, and how proof must be shown. Chapter Nine is a separate forum-supervised certification process that uses those rules when a system needs formal alignment certification. A current certification is not a free pass around Two through Four.*
 
-This section is **non-operative**. It states a **layer boundary** only.
+This section is **non-operative**. It states an **owner boundary** only.
 
 **Chapters Two, Three, and Four** supply the standing definition and verification substrate:
 - **[Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — how definitions are built and kept internally consistent (O/M/A/C)

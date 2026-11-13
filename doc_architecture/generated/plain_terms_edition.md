@@ -6045,11 +6045,11 @@ standing consequences and redress count only when real institutions can deliver 
 
 Source file: [`core_21.000_misconduct_designation.md`](../../core_21.000_misconduct_designation.md) · 13/22 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.
 
-[Source](../../core_21.000_misconduct_designation.md#1-purpose-and-role)
+[Source](../../core_21.000_misconduct_designation.md#1-purpose-role-and-scope)
 
 #### 2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 
@@ -6657,11 +6657,11 @@ Chapter Six states the basic Rights Floors no sentient may be pushed below. Thos
 
 [Source](../../core_06.000_rights_part_a.md#11-practical-enforcement)
 
-##### 1.2 Layer Scope
+##### 1.2 Owner Non-Relocation
 
 Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Preamble — constitutional owner register](../../core_00.000_preamble.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../core_05.045_band_integrative.md#owner-non-relocation).
 
-[Source](../../core_06.000_rights_part_a.md#12-layer-scope)
+[Source](../../core_06.000_rights_part_a.md#12-owner-non-relocation)
 
 #### Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources
 
@@ -7559,11 +7559,11 @@ non-compliant systems and property can be remediated during Adoption Transition 
 
 Source file: [`core_24.000_governance.md`](../../core_24.000_governance.md) · 13/15 headings glossed
 
-#### 1. Layer Boundary for This Chapter
+#### 1. Purpose, Role, and Scope
 
 this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.
 
-[Source](../../core_24.000_governance.md#1-layer-boundary-for-this-chapter)
+[Source](../../core_24.000_governance.md#1-purpose-role-and-scope)
 
 #### 2. Authorization and Legitimacy of Governing Authority
 
@@ -7865,7 +7865,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 [Source](../../core_27.000_amendment_ratification.md#122-recorded-effectiveness)
 
-#### 13. Layer Scope
+#### 13. Owner Non-Relocation
 
 Chapter Twenty-Seven owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Sixteen §7 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Twenty-One anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
@@ -7875,11 +7875,11 @@ Chapter Twenty-Seven owns how amendments are published, chained, reviewed, and r
 
 Source file: [`core_28.000_incorporation.md`](../../core_28.000_incorporation.md) · 5/5 headings glossed
 
-#### 1. Role of This Chapter
+#### 1. Purpose, Role, and Scope
 
 this section names the bridge — which implementation files can bind, how adoption makes them operative, that later edits do not silently rewrite what was adopted, and that pointing here (or to an incorporated file) invokes only the obligations inside the recorded adoption scope.
 
-[Source](../../core_28.000_incorporation.md#1-role-of-this-chapter)
+[Source](../../core_28.000_incorporation.md#1-purpose-role-and-scope)
 
 #### 2. Custody, Editions, and Operative Effect
 
