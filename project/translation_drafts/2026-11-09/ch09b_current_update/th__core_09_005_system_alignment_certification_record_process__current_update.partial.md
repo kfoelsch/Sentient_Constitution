@@ -1,0 +1,4 @@
+<!-- Locale: th | Source: 067ac0cdbd0178e154ee55a1d1c908818f4555dd (SHA-256 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5) | Baseline: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e) | AI-drafted, unreviewed | Partial current-source update, 2 replacement rows. -->
+
+- **สิ่งที่ไม่ใช่เรื่องใหม่:** หน่วยงานที่สืบทอด เปลี่ยนชื่อ แยก หรือโอน ซึ่งยังมีผู้ดำเนินการ การควบคุม หรือระบบเดิม ([ส่วน C §9.4 การไม่หลบเลี่ยง](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [บทที่สาม §2.1 รูปแบบการหลบเลี่ยงที่พบบ่อย](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+  - **ส่งไปยังฟอรัมที่มีอำนาจเหนือผู้มีความรู้สึกที่ระบุชื่อ:** หากข้อค้นพบในการรับรองตั้งอยู่บนการที่ผู้มีความรู้สึกใช้ระบบเพื่อกระทำการละเมิด ฟอรัมหลักจะส่งข้อเท็จจริงไปยังฟอรัมที่มีเขตอำนาจเหนือผู้มีความรู้สึกนั้น

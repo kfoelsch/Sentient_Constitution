@@ -1,0 +1,4 @@
+<!-- locale: vi; source: 2c1d6a17; baseline: 25543051cf91dea70255e5b1c47900cd7b72d6f1; AI-drafted/unreviewed; partial changed-passage refresh -->
+> Ghi chú đọc bằng ngôn ngữ đơn giản: đọc **Chương Một** để nắm các giá trị và định hướng khái quát; **Chương Hai đến Chương Bốn** để hiểu cấu trúc định nghĩa, tính toàn vẹn và cơ chế xác minh; và **Chương Sáu** về nền tảng **quyền** cơ bản, rồi quay lại chương này để hiểu chính xác thuật ngữ trong diễn giải, kiểm toán và xét xử. (Các chương khác cũng áp dụng theo lộ trình đọc riêng, bao gồm **Chương Mười Bốn** *Hành vi sai trái* và **Chương Mười Một** *Vị thế*; chúng không thay thế Nền tảng Quyền tại Chương Sáu hoặc cơ chế định nghĩa tại Chương Hai đến Chương Bốn.)
+- [Lộ trình có điều kiện](core_05.035_band_accountability.md#gated-pathway)
+- [Đang bị khiếu nại](core_05.035_band_accountability.md#under-challenge)

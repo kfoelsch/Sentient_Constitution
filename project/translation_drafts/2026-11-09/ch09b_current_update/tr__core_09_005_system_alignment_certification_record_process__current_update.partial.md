@@ -1,0 +1,4 @@
+<!-- Locale: tr | Source: 067ac0cdbd0178e154ee55a1d1c908818f4555dd (SHA-256 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5) | Baseline: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e) | AI-drafted, unreviewed | Partial current-source update, 2 replacement rows. -->
+
+- **Yeni olmayan:** aynı işletmeciyi, denetimi veya sistemi taşıyan halef, yeniden adlandırılmış, bölünmüş ya da devredilmiş bir kuruluş ([C Bölümü §9.4 Kaçınmama](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [Üçüncü Bölüm §2.1 Yaygın Kaçınma Örüntüleri](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+  - **Adı belirtilen sentient üzerinde yetkili forumlara:** Sertifikasyon bulgusu, bir sentient’in sistemi ihlal gerçekleştirmek için kullanmasına dayanıyorsa, baş forum olguları o sentient üzerinde yetkili foruma gönderir.

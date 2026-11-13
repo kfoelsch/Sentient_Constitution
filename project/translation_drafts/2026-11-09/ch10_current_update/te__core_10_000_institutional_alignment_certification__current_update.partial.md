@@ -1,0 +1,3 @@
+<!-- Locale: te | Baseline commit: eb2e7a0b39e7e93611fb8ab439652661b411013e; baseline SHA-256: a163a782114e584d09e295db66fe8b1b10a005b0f00116c8360396a0535ff221 | Source commit: 067ac0cdbd0178e154ee55a1d1c908818f4555dd; source SHA-256: 08e166f5f098d01317c1f57ae3501abde31dd10f3c9b43b54d1a2aea1da4200f | AI-drafted, unreviewed | Partial current-source update; 1 replacement row -->
+
+   - **పేరు పేర్కొన్న సెంటియెంట్‌పై అధికార పరిధి ఉన్న ఫోరమ్‌కు:** ధృవీకరణ నిర్ధారణ ప్రామాణికం కాని హోల్డర్‌పై లేదా సెంటియెంట్ ఉల్లంఘన చేయడానికి సంస్థను ఉపయోగించడంపై ఆధారపడితే, ప్రధాన ఫోరమ్ వాస్తవాలను ఆ సెంటియెంట్‌పై అధికార పరిధి ఉన్న ఫోరమ్‌కూ పంపుతుంది.

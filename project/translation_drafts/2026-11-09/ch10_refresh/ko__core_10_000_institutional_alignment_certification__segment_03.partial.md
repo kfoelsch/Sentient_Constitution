@@ -1,0 +1,32 @@
+<!-- Locale: Korean (ko) | Source: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 6acb6299fd6b6c18ac7f338aebc69bf01a89814c8070f1fb61762d1e10d93b4d) | Baseline: 247e2180509e5e029c1106878cf225067339e010 (SHA-256 a163a782114e584d09e295db66fe8b1b10a005b0f00116c8360396a0535ff221) | AI-drafted, unreviewed | Partial changed-passage refresh, rows 61–90 of 118 -->
+
+- **포트폴리오 및 인용된 시스템 기록:** 포트폴리오에 포함된 각 시스템, 시스템 헌장 버전, 인용된 시스템 인증 기록과 그 버전, 상태, 만료일 및 포함된 회귀 시험 결과. 효력 있는 시스템 인증 기록이 없는 시스템은 그 사유를 적는다.
+- **검토 제출 로그:** 기록 담당석 보유자가 [제9장 파트 B §6.2.4 검토 중 참여](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review)에 따라 보관하며 기관 인증 기록과 함께 공개하는 로그;
+적용된 평가의 조사결과 또는 검토 중이나 결과를 도출하는 과정에서 제기된 우려, 반대 또는 반대 의견을 누락한 기관 인증 기록은 불완전하다. 이는 [제9장 파트 C §8.1.10 완전성](core_09.010_system_alignment_certification_record_recertification.md#8110-completeness)에 명시되어 있다.
+<a id="82-transparency-and-auditability-of-the-institutional-certification-record"></a>
+#### 8.2 기관 인증 기록의 투명성과 감사 가능성
+[제9장 파트 C §8.2 시스템 인증 기록의 투명성과 감사 가능성](core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-system-certification-record)의 무결성 규칙이 기관 인증 기록에 적용된다.
+  - **CF-15.445 §3.1** (*단계 목표 및 상한*);
+  - [제15장 §3 이관, 통합 및 조정](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (15.000 §3) 및 [§2.1 선도 포럼 기본 한계](core_15.000_forum.md#21-lead-default-limits);
+- 하위 문서: [§10](#10-challenging-a-certification); [§11](#11-relationship-to-standing); [제15장](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000).
+  - **CF-15.435 §6** (*자체 조사 금지*).
+- 각 인증 심사는 뒤따르는 기관 인증 기록에 연결된 새 기관 인증 기록을 연다.
+완료된 기관 인증 기록은 당시 상태 그대로 보존되며 계속 이의를 제기할 수 있다.
+기관 인증 기록은 [제15장 §6 적시 해결, 중요도 단계 및 지연 방지 규율](core_15.000_forum.md#review-cadence) (*검토 주기*)에서 기관 등급에 정한 주기에 따라 재인증되며, 각 주기의 중간에 기관 감사를 받는다. 다음 중 하나가 중대한 경우에도 검토를 다시 연다:
+- **새로운 중대한 권한:** 기관이 [영역별 중요성](core_05.050_band_oversight.md#domain-specific-materiality)에 따라 중대한 타인에 대한 권한을 맡게 되었고, 기관 헌장 및 현재 기관 인증 기록이 이를 다루지 않는 경우([§9.2.1 새로운 중대한 권한의 의미](#921-what-counts-as-new-material-authority)에서 정의하고, 필요한 재인증은 [§9.2.2 새로운 중대한 권한에 따른 재인증](#922-recertification-for-new-material-authority)에 규정);
+- **이미 포함된 범위의 확대:** 기관 인증 기록이 이미 평가한 범위 안의 성장은 위의 의존성 확대 및 중대한 변경 촉발 요인에 따라 처리한다; 그리고
+- **새 시스템:** 새 시스템은 자체 인증에 따라 운영을 시작한다([제9장 파트 B §7.1 운영 개시 관문](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate)). 시스템이 기관에 기관 인증 기록에서 다루지 않은 권한도 부여한다면, 그 권한은 새로운 중대한 권한이다.
+- **아직 기관 인증 기록이 없음:** 기관 인증 기록이 없는 기관도 같은 통지를 한다. 이 통지는 새 권한에 한정된 첫 인증을 개시하며, 기관 헌장과 그 권한에 관련된 [§3 기관 전체 인증 평가](#3-whole-institution-certification-evaluation)부터 [§5 권리 기준선 및 영역 평가](#5-rights-floor-and-domain-evaluations)까지의 평가에 비추어 판단한다. 첫 인증의 나머지 부분은 [§1.3 첫 인증 기간](#13-window-for-the-first-certification)의 기간에 따라 계속 진행된다(통지로 재분류된 P등급 기관의 기간은 통지일부터 시작하며 새 권한 심사를 기다리는 것과 무관하다).
+- **가능한 경우 자동화:** 포럼 시스템이 허용하는 범위에서 통지, 기관 헌장 및 현재 기관 인증 기록과 새 권한의 비교, 장애 요소 선별 및 허가가 자동화된다. [제1장 §13.3 피할 수 있는 부담 최소화](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden)는 피할 수 있는 부담을 자동화로 해소하는 것을 우선 구제로 삼고, [제1장 §16.4 조치 시 문서화](core_01.010_stewardship_capacity_principles.md#164-document-at-action)는 자동화 부담을 관리인이 아니라 시스템에 둔다.
+  - **허가하되 거부하지 않음:** 자동화된 선별은 새 권한을 즉시 또는 현재 기관 인증 기록이 이미 뒷받침하는 인증 조건과 함께 허가할 수 있다. 선별만으로 장애 요소([§9.2.3 새로운 중대한 권한의 허가를 막는 장애 요소](#923-blockers-to-clearing-new-material-authority) 참조)를 제시하거나 허가를 거부할 수 없다. 선별은 잠재적 장애 요소를 표시할 수 있지만, 표시 내용을 살핀 뒤 선도 포럼의 지성체 검토자만 장애 요소를 제시할 수 있다.
+  - **동일한 기관 인증 기록과 동일한 시계:** 기관 인증 기록에는 수행된 점검이 기록되므로 자동 허가도 다른 결정처럼 이의를 제기할 수 있다. 자동화는 접수 목표나 등급별 기간을 연장하지 않는다. 선별 시스템이 중단되거나 응답하지 못하면 아래 항목에 따른 응답 누락이다. 포럼은 자신이 사용하는 다른 시스템과 마찬가지로 해당 선별 시스템에도 책임을 진다([§6.3 기관으로서의 포럼, 인증자 및 기록 사무소](#63-forums-certifiers-and-record-offices-as-institutions)).
+- **허가 시 공개:** 선도 포럼은 당장의 허가를 포함하여 허가할 때마다 즉시 공개하고 [§10 인증에 대한 이의제기](#10-challenging-a-certification)의 이의제기 경로를 연다. 기관은 허가 즉시 권한을 행사할 수 있으며 통지 기간이나 이의 결정까지 기다리지 않는다. 영향을 받는 지성체는 다른 결정과 마찬가지로 허가에 이의를 제기하고 정지 또는 임시 보호를 요청할 수 있으며, 그 요청은 기다리지 않는다([§9.2.2 새로운 중대한 권한에 따른 재인증](#922-recertification-for-new-material-authority), *보호는 기다리지 않는다*). 공개 시 선도 포럼은 알고 있는 영향을 받는 지성체와 관련 시스템의 포럼에 허가 사실도 통지한다. 정지 또는 임시 보호 요청은 해당 접수 목표([CF-15.445 §3.1 단계 목표 및 상한](corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-31-stage-targets-and-outer-bounds)) 또는 해당되는 경우 비상 설정의 한도 내에 답변한다.
+- **허가 추정:** 권한은 허가된 것으로 추정한다. 선도 포럼은 기관 인증 기록에 기재한 증거로 [§9.2.3 새로운 중대한 권한의 허가를 막는 장애 요소](#923-blockers-to-clearing-new-material-authority)에 열거된 장애 요소를 입증하는 경우에만 허가를 거부할 수 있다. 장애 요소에 연결된 인증 조건으로 문제를 억제할 수 있다면 권한은 거부되지 않고 해당 조건과 함께 허가된다.
+- **포럼이 기한 내 응답하지 않는 경우:** 선도 포럼은 해당 접수 목표([CF-15.445 §3.1 단계 목표 및 상한](corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-31-stage-targets-and-outer-bounds) 내에 공식 답변을 해야 한다. 답변은 권한을 허가하거나, 인증 조건과 함께 허가하거나, 근거 증거를 명시해 장애 요소를 제시한다. 장애 요소를 제시하는 답변은 기관에 답변할 기회를 주며 포럼은 위 등급별 기간 안에 결정한다.
+  - **포럼 결함:** 목표 또는 기간을 놓치는 것은 기관의 과실이 아니라 포럼의 결함이다. 이는 기록하고 시정하며 [제15장 §6 적시 해결, 중요도 단계 및 지연 방지 규율](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*기한 초과 검토*)에 따라 검토한다.
+  - **다른 포럼으로 이관:** 재인증 요청은 같은 계열의 다른 포럼으로 이관된다([제15장 §3 이관, 통합 및 조정](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)). 해당 포럼은 이관일을 기준으로 기관 등급에 적용되는 정규 기간 안에 재인증을 진행한다.
+    B --> C["Screen: compare with the Institutional Charter and the Institutional Certification Record, look for blockers<br/>Automated where the forum's systems allow"]
+선도 포럼은 다음 장애 요소 중 하나에 해당할 때만 새로운 중대한 권한의 허가를 거부할 수 있다. 장애 요소 2는 대체로 헌장 역할 지도와 권한 사슬에서 확인할 수 있는 명백한 사실이므로 자동화된 선별이 가능하다([§9.2.2 새로운 중대한 권한에 따른 재인증](#922-recertification-for-new-material-authority)). 장애 요소 1, 3, 4 및 5에는 판단이 필요하므로 선별 시스템은 이를 표시할 뿐 지성체 검토자만 제시할 수 있다. 각각은 새 권한 또는 그 권한을 보유할 기관의 준비도에 관한 증거로 입증되어야 하며 포럼은 무엇으로 장애 요소를 해소할 수 있는지도 기관 인증 기록에 명시한다:
+- 기관의 규모, 연령 또는 재산, 또는 과거 기관 인증 기록이 없다는 사실;
+**보류 및 잠금은 계속 적용된다.** **제XI-E조** (*기관 설립 및 사업 창출*)의 세 가지 좁은 관문은 각자 정한 조건에 따라 적용된다. [임시 보류](core_05.035_band_accountability.md#interim-hold) 또는 특정 지성체에 대한 지위 잠금은 그 지성체가 관문이 설정된 경로에서 새 권한을 취하거나 행사하는 것을 금지한다. 금지는 지성체에 적용되며 기관에는 적용되지 않는다. 따라서 다른 보유자에 대해서는 권한을 여전히 허가할 수 있다.
+포럼이 허가하지 않기로 결정하기 전에 기관에 장애 요소와 증거를 알리고 등급별 기간 안에 답변할 기회를 준다. 결정 이유는 기관 인증 기록에 명시한다([제9장 파트 C §8.1 최소 기록 내용](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)).

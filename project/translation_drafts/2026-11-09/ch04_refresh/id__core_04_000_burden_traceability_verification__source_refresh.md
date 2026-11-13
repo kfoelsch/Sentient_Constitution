@@ -1,0 +1,37 @@
+<!-- Locale: Indonesian (id) | Source commit: 630b161c | Baseline commit: 5148086b9fb43a343616db52cf3ef2018e2c46cb | AI-drafted, unreviewed | Partial changed-passage refresh -->
+
+> **Hiliran:** [Bab Sembilan — Sertifikasi Keselarasan Sistem](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sebelas — Catatan Standing](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
+
+> - **Pemilik konstitusional:** alokasi beban pembuktian, bukti kepatuhan, keterlacakan definisi, keteramatan, dan verifikasi yang dibatasi keamanan. **Bab Sebelas** memiliki disiplin catatan standing dan masukan terverifikasi yang dibaca bersama bab ini.
+
+> - **Aturan anti-relokasi:** bab ini hanya mengatur beban pembuktian, keterlacakan, keteramatan, batas keamanan, dan bukti. Bab ini tidak mengulang definisi Bab Lima, pengukuran kontribusi atau standing **Bab Dua Belas**, maupun kriteria pelanggaran anti-konstitusional Bab Empat Belas. Perutean ketidakpatuhan terverifikasi ke standing diatur oleh [Bab Tiga §3 — Profil Temuan Ketidakpatuhan](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) dan [Bab Sebelas — Catatan Standing](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened). **Bagian 6** menyatakan perbedaan Bab Dua sampai Empat dari [Bab Sembilan — Sertifikasi Keselarasan Sistem](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+
+| **1 — Siapa yang membuktikan** | Beban ada pada pihak yang mengklaim kepatuhan | [§1 Penegakan Eksklusif dan Alokasi Beban Pembuktian](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — Tunjukkan peta** | Keterlacakan terstruktur dari definisi ke perilaku yang dapat diamati | [§2 Persyaratan Keterlacakan Definisi](#2-definition-traceability-requirement) |
+| **3 — Buat agar dapat diperiksa** | Sistem harus membuka cukup banyak agar peta dapat diverifikasi — dalam praktik, bukan sekadar teori | [§3 Persyaratan Keteramatan Keterlacakan](#3-observability-of-traceability-requirement) |
+| **4 — Batas keamanan** | Batas keamanan yang nyata diperbolehkan; penghalang yang dibuat-buat tidak | [§4 Aturan Keteramatan dan Verifikasi yang Dibatasi Keamanan](#4-security-constrained-observability-and-verification-rule) |
+| **5 — Apa yang diperhitungkan** | Bukti harus nyata, lengkap, independen, dan berkelanjutan | [§5 Standar Bukti Kepatuhan](#5-compliance-evidence-standard) |
+
+**Akses bahasa sederhana.** [Bab Satu §5.2 — Aksesibilitas Bahasa Sederhana (Kewajiban Partisipasi dan Pengelolaan)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) berlaku pada materi tata kelola, ajudikasi, dan operasional yang digunakan sentient untuk menjalankan hak, menggugat keputusan, atau memverifikasi kepatuhan. Bahasa sederhana **tidak** mengubah atau mengurangi persyaratan Bab Dua sampai Empat. Jika versi bahasa sederhana berbeda dari aturan definisi atau verifikasi di sini, aturan tersebut yang berlaku. Penggunaan jargon, kerumitan bertumpuk, atau ketertutupan untuk menghalangi akses [Kemampuan untuk Menggugat](core_05.035_band_accountability.md#contestability) atau [Article XVI: Audit, Transparansi, dan Verifikasi Independen](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) merupakan ketidakpatuhan menurut bab ini dan **Bab Satu §5.2 Aksesibilitas Bahasa Sederhana (Kewajiban Partisipasi dan Pengelolaan)**.
+
+- **bagaimana hal itu diukur (M)** — ukuran mana yang berlaku pada setiap lapisan
+
+*Dalam bahasa sederhana: bagian 2 mewajibkan peta keterlacakan — bagian ini mewajibkan sistem membuka cukup banyak tentang dirinya agar pihak berwenang atau pihak yang terdampak dapat memeriksa peta itu dalam praktik, bukan hanya dalam teori. Arsitektur yang tertutup, dependensi eksternal, dan komponen kotak hitam tidak dikecualikan.*
+
+- Hulu: Prinsip: [Bab Empat, bagian 3 — Persyaratan Keteramatan Keterlacakan](#3-observability-of-traceability-requirement); [Bab Satu, bagian 6.2 — Batas Pengungkapan Epistemik](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
+- Hilir: [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-compliance-evidence-standard); [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Jenis informasi dan penanganannya*) dan [CS-6.310 — Klasifikasi data](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications), serta [CS-6.340](corpus_systems/cs_06.340_system_requirements.md#cs-6340-system-requirements) (*Persyaratan sistem*) — permukaan kemampuan yang dihadapi pengguna, kredensial, serta penanganan jenis informasi.
+
+Kriptografi dan penanganan jenis informasi harus selaras dengan Konstitusi serta **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Jenis informasi dan penanganannya*) dan [CS-6.310 — Klasifikasi data](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**; jika relevan secara material, keduanya tetap harus memungkinkan verifikasi kepatuhan sepenuhnya menurut bab ini. Kriptografi dan penanganan jenis informasi tidak boleh menggantikan [Kebenaran (Kendala Konstitusional)](core_05.050_band_oversight.md#truth-constitutional-constraint) atau [Keselamatan (Kendala Konstitusional)](core_05.040_band_continuity.md#safety-constitutional-constraint), maupun kewajiban dalam **bagian 2**, **3**, atau **5**.
+
+- Hilir: [Bab Sebelas — Catatan Standing](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+
+  - [Bab Satu, §13 — Proses Penyelesaian Benturan Konstitusional](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.005 §13);
+
+- jika nilai atau kendala konstitusional bertentangan dalam evaluasi yang sama, tetap konsisten dengan [Bab Satu, §13 — Proses Penyelesaian Benturan Konstitusional](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)
+
+- Hilir: [Bab Sembilan — Sertifikasi Keselarasan Sistem](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [Bab Sebelas — Catatan Standing](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+- Baca bersama: [Bab Sembilan §7 — Hasil Sertifikasi](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — ketidakpatuhan terverifikasi menurut Bab Dua sampai Empat dapat membuka kembali atau menggagalkan sertifikasi tanpa memandang sertifikasi sebelumnya.
+
+**[Bab Sembilan — Sertifikasi Keselarasan Sistem](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** menyediakan proses **sertifikasi** yang diawasi oleh mण्ड, jika relevan: ranah evaluasi seluruh sistem, kewajiban Catatan Sertifikasi Sistem dan Institusi, hasil sertifikasi, interval sertifikasi, rantai kemampuan menggugat, serta jembatan masukan terverifikasi ke Bab Sebelas. Bab ini menerapkan Bab Dua sampai Empat; Bab Dua sampai Empat **tidak** diulanginya.
+
+- **Catatan Sertifikasi Sistem atau Institusi** sebagai pengganti kepatuhan berkelanjutan menurut Bab Dua sampai Empat

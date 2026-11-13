@@ -1,0 +1,4 @@
+<!-- Locale: fa | Source: 067ac0cdbd0178e154ee55a1d1c908818f4555dd (SHA-256 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5) | Baseline: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e) | AI-drafted, unreviewed | Partial current-source update, 2 replacement rows. -->
+
+- **آنچه جدید نیست:** جانشین، تغییرنام‌یافته، تفکیک‌شده یا منتقل‌شده‌ای که همان گرداننده، کنترل یا سامانه را دارد ([بخش C §9.4 عدم گریز](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion)؛ [فصل سوم §2.1 الگوهای رایج گریز](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+  - **به مجمع دارای صلاحیت دربارهٔ فرد نام‌برده:** هرگاه یافتهٔ گواهی بر استفادهٔ یک فرد از سامانه برای انجام یک تخلف استوار باشد، مجمع اصلی واقعیت‌ها را به مجمعی ارجاع می‌دهد که دربارهٔ آن فرد صلاحیت دارد.

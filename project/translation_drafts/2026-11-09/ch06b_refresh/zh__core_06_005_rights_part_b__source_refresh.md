@@ -1,0 +1,91 @@
+<!-- locale: zh; source: 2c1d6a17010cb9d4e8e290db5fbc4e5e3fdf8e62; baseline: 25543051cf91dea70255e5b1c47900cd7b72d6f1; AI-drafted/unreviewed; partial changed-passage refresh -->
+
+  - **第十五章** 论坛与管辖权——默认主导路径
+  - [技术论坛领域](core_15.000_forum.md#42-technical-forum-domains)之下的
+  - [第十五章 §5 感知状态裁定衔接条款](core_15.000_forum.md#5-escalation-and-questions-for-ruling) (15.000 §5)。
+本条为裁定有争议的感知状态确立最低标准。执行该标准的程序见[第十五章 §5](core_15.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知状态裁定*），该程序不得缩减此最低标准：
+- <a id="anti-substitution-sentience-status"></a>**只有本程序作出裁定：**认证徽章或记录、LEQU 或 standing 分数、能力门槛或许可、standing 锁、基质标签或产品分类，都不是感知状态裁定。哪些个体计入，只能依据本条、[**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)和[第十五章 §5](core_15.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知状态裁定*）决定。
+- 下游关联：参与度测量系列（*实质公平、以受保护特征作为代理指标及差别影响*）；[第九章 §5.4](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (9.000 §5.4)（*认证对分类、排名、定价、准入或负担分配设限时的非歧视评估*）；[第十五章](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) 的论坛、行政和执行程序（*裁定与运营义务*）。
+  - [第二十章](core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000)（*采纳方的管辖纪律*）。
+- **原住民与领土延续：**将原住民延续和领土延续问题转交至**Article I-A**（*环境先决条件与生态完整性*）和**第二十章**，不得被用来削减采纳方依据其自身法律或具有约束力的外部文件已承担的土地、协商或自由、事先且知情同意义务。本宪法本身不裁定历史土地所有权，也不要求土地归还。
+  - 不得通过剥夺[**Article III**（*生存与基本获取*）](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access)所保障的生存、医疗或工作权益，或[**Article IV**（*以感知者为中心的受教育权*）](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education)所保障的教育权益的处罚来执行；除符合[**第十五章 §6.1**](core_15.000_forum.md#61-emergency-measures-and-continuation-burden)（*紧急措施与持续义务负担*）规定的紧急门槛外，绝不得使用身体强制力执行。
+  - 上述独立审查必须在**及时审查窗口**内开始（[第十五章 §6 及时解决、重要性层级与反拖延纪律](core_15.000_forum.md#prompt-review)（*及时审查*））；未对事项分类时，该窗口为 24 小时。
+- **审查与补救：**长期或持续中的干预必须由指定论坛系列定期进行独立复审（**第十五章**）。
+  - 临床和运营程序由依据**第二十章**通过的实施文本规定。
+- **监督：**通过可审计的官方记录进行，其他人可以核查，且所有记录均向受影响的感知者开放以供质疑：
+- 下游关联：**Article VI-A**（*尊严与平等道德地位*）的尊严底线，**Article VIII-B**（*生殖与世系自主权*）的生殖和世系选择，**Article VIII-D**（*发育中感知者、最佳利益与渐进能力*）对发育中感知者的底线，**Article VIII-E**（*不分离*）的不分离原则，**Article VII-A / VII-B**（*身体自我所有权* / *心智自我所有权*）的自我所有权及内部状态边界；以及依据**第二十章**纳入纪律的机构实施接口。
+- 下游关联：**Article VI-A**（*尊严与平等道德地位*）的尊严底线，**Article VII-A / VII-B**（*身体自我所有权* / *心智自我所有权*）的自我所有权及内部状态边界，**Article VIII-A**（*家庭与照护关系*）的家庭和照护关系，**Article VIII-E**（*不分离*）的不分离原则，[**第十六章 §4.1**](core_16.000_governance.md#41-entitlement-and-eligibility) (16.000 §4.1) 禁止以年龄作为取消资格的代理标准。
+    - **第十六章 §1**（*治理权力的授权与合法性*）（不强制采用单一政体结构）；
+    - [**第十六章 §4.1 权利与资格**](core_16.000_governance.md#41-entitlement-and-eligibility)（满足底线后，不得以年龄为由取消参与基础性宪法选择的资格）。
+- **本条的限制：**本条规定发育中感知者的权利底线。照护者指定、能力评估程序、定期审查节奏等运营机制由依据**第二十章**通过的实施文本规定。
+- 下游关联：**Article VIII-A**（*家庭与照护关系*）所保护的关系，**Article VIII-C**（*衍生、实例化与父系统关系*）中的衍生情形，**Article VIII-D**（*发育中感知者、最佳利益与渐进能力*）中的发育中感知者及其照护者，**Article XIII-E / XIII-F** 的权利底线延续，以及**第十五章**的定期审查。
+  - 持续或长期分离须依照**第十五章**接受强制性定期审查。
+- 已通过的实施文本及**第二十章**纳入规则中的可审计性和问责约束。
+  - 必须符合通过**第二十章**纳入的实施文本中关于透明度和完整性的要求。
+- **投票权：**感知者有权参与**治理投票**以及决定如何授予权力的其他**有约束力的集体选择**。详情见[第十六章 §4.1 权利与资格](core_16.000_governance.md#41-entitlement-and-eligibility)。
+- **重大问题上的平等票权：**有些决定奠定基础——谁持有治理权力、如何合法授予该权力，以及其范围和长期条件为何。**第五章**将这些称为[基础性宪法选择](core_05.045_band_integrative.md#foundational-constitutional-choice)。这些决定适用**政治平等底线**：
+  - [第十六章 §4.1 权利与资格](core_16.000_governance.md#41-entitlement-and-eligibility)规定其实际运作方式，且不得削弱该底线。
+- **依据 standing 记录或角色标准进行资格认定：**若基于 standing 记录或[能力门槛](core_05.035_band_accountability.md#competency-bar)的标准影响参与状态或角色资格，则适用**参与者 standing**。限制性后果通过受门控路径中的[Standing 锁](core_05.035_band_accountability.md#standing-lock)施加。
+  - **Article X-B**（*治理参与与投票资格*）下的治理投票锁本身不限制利益相关方的发言权。暂停或限制利益相关方参与，须施加**利益相关方参与**锁，例如满足条件时适用[第十三章 §6.5 特别锁](core_13.000_standing_integration.md#65-special-locks)中的**利益相关方参与 Standing 锁**。
+  - 跨领域实施路由通过**Sentient Constitution 第二十章**纳入，包括**CJS-20.110 §3**（*跨实施信任完整性（联合运行模式）*）以及适用的 **CJS-5.105（*运营集群库（oDef）*）至 CJS-5.135（*综合跨段运营（oDef.22–oDef.23）*）**（*运营集群库（oDef）*）运营集群。
+  - 许可、认证、广播和平台规则、内容审核程序以及共享数字空间的集会规则，均依照**第二十章**制定。这些实施细节不得削减其中规定的底线。
+- **善意表述与批判性报道：****Article IX-C**（*真实出版与高影响力出版限制*）中的善意和真实性标准适用于其范围内的出版，不得解释为禁止合法的批判性报道、调查性出版、讽刺或异议。
+- 下游关联：**Article XI-F**（*结社中的非强加与同意*）的结社同意，**Article III-C**（*劳动与经济底线*）的罢工和集体停工，**Article XIV-A**（*安全、情报与隐蔽权力限制*）的受保护活动保障，**Article XII**（*利益相关方系统参与、代表与正当程序*）的利益相关方参与，**Article XIX**（*Standing 与参与状态*），以及**第九、十一、十四和十六章**的异议保护。
+  - 异议包括对任何机构、权力主体、运营者、管理人、政策、决定、系统、论坛裁决或本宪法本身表示反对、批评、提出异议、组织反对或发起改变行动，包括依据**第十九章**倡导修正。
+  - 依据[第十一章](core_11.000_standing_assessment.md#23-protected-dissent-is-not-a-trigger)开启、支持、扩展或加重违规 standing 记录；
+  - 依据**第十三章**或**Article XIX**（*Standing 与参与状态*）支持 standing 锁、拒绝或拖延能力许可，或缩窄任何受门控路径；
+  - 依据[第十四章](core_14.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)支持反宪法不当行为认定；
+  - 依据**Article X-B**（*治理参与与投票资格*）和**第十六章**削减治理投票、利益相关方参与、候选资格、任职、论坛服务或罢免权；
+  - 依据**第十五章 §6.1**（*紧急措施与持续义务负担*）采取的紧急措施，只能在具体紧急情况所需的**必要性**和**比例性**范围内限制抗议，绝不得基于观点限制。
+  - [第十三章 §6.5 特别锁](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5)（*机构权力 Standing 锁*；*解散重组锁*）；
+  - **CI-13.210 §4**（*解散*）；
+  - [第十五章 §5 对指定感知者路径的临时限制](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway) (15.000 §5)；
+  - [第十三章 §7.2 能力门槛与许可](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2)；
+  - [第十五章 §4.2 技术论坛领域](core_15.000_forum.md#42-technical-forum-domains) (15.000 §4.2)。
+  - 没有 standing 记录的创始人推定为真实。其证据是以行动表明的承诺，例如书面接受运营方的限制并接受独立核验。
+  - **未解除的锁：**感知者受未解除的[机构权力 Standing 锁](core_13.000_standing_integration.md#65-special-locks)、[反宪法信任锁](core_13.000_standing_integration.md#65-special-locks)，或其他受门控路径覆盖同类机构或企业权力的 standing 锁约束期间，不得在该路径内取得或行使治理、控制或所有权权力。门控范围不得超过该锁的范围；锁解除或缩窄时，门控终止。
+  - **临时限制的依据：**有管辖权的论坛可对指定感知者在指定机构或企业取得或行使指定权力施加[临时限制](core_05.035_band_accountability.md#interim-hold)，并依照[第十五章 §5 对指定感知者路径的临时限制](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)，前提是符合该款依据，且事实表明感知者更有可能不符合运营方所述目的或宪法限制，或怀有误导他人关于其目的、控制、利益或服务对象的意图，或怀有伤害意图而组建或经营运营方。不一致与意图依据经核实的行为、控制和回报判定，参照[第七章 §5 组建核查：任职者的 standing 与真实性](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity)。临时限制完全遵循该款：它不是违规认定、锁、standing 记录或 standing 效果；不得仅依据信念、身份、群体成员资格、声誉、不以伤害或歧视他人为诉求的异议，或受保护的报道。经核实的陈述或行为是否符合条件，依照真实组建规则决定。运营方由另一名合法持权人继续运营。若运营方将无持权人且他人依赖它，论坛指定临时管理人，不得停止运营方。
+    - **哪些锁：**若最终反宪法不当行为认定点名某机构、继任载体或受控实体，则[反宪法信任锁](core_13.000_standing_integration.md#65-special-locks)具有该效果。依据**CI-13.210 §4**（*解散*）作出的每项最终解散令，均适用[解散重组锁](core_13.000_standing_integration.md#65-special-locks)。运营方受此类锁约束期间，该门控路径所列事项均受禁止，覆盖该运营方及其继任者、受控实体、代持或空壳载体。
+    - **解散的运营方不得回归：**解散重组锁的受门控路径即运营方回归。该运营方、其继任者、受控实体、代持或空壳载体，以及依据共同控制测试与其构成同一运营体的任何运营方，均不得以任何名称或形式重组、复活或运营；任何感知者不得在其中取得或行使治理、控制或所有权权力。若命令认定存在普遍性反宪法行为或未补救的不可逆伤害，该锁为永久锁：时间流逝、原因解决或持权人更换均不能解除；只有解散令经复审撤销，或重大新核实事实证明其所依据的违规认定有误时，才终止。否则，只有独立认定原因已解决、补救已完成且回归比持续排除更安全时才终止。该锁不禁止任何感知者组建不同的运营方，并允许命令指定的接收方或继任者继续提供服务。
+  - **风险认定：**技术专家论坛依据[第十五章 §4.2 技术论坛领域](core_15.000_forum.md#42-technical-forum-domains)和**CF-15.440**（*技术专家论坛与专家分庭*），发布了针对特定行为类别的认定。该认定指出，这些行为存在可信的因果路径（从行为到伤害之间可置信且可追溯的路径），可能伤害无法判断或规避风险的感知者。认定说明行为所需能力并指定实践级别。若可能造成严重或不可逆的身体伤害（如手术或电气作业），则指定执照；若伤害真实但较轻（如美容中的化学灼伤或感染，或食品操作中的食源性疾病），则指定许可。
+  - **开放路径且不形成垄断：**标准符合[第十三章 §7.2 能力门槛与许可](core_13.000_standing_integration.md#72-competency-bars-and-clearances)：已公开、相称且可质疑。考试、作品集、学徒经历、经同行核验的经验以及其他管辖区的许可，均作为同等证明。多个独立机构可以颁发执照或许可，任何单一机构都不是唯一途径。现任从业者不得控制制定标准的委员会或颁证机构的治理机关。
+  - **运营方类别：**要求执照的认定，同时认定该行为依据[领域特定重要性](core_05.050_band_oversight.md#domain-specific-materiality)对安全具有实质影响，因此为他人实施需执照行为的运营方至少属于 L 类。许可本身不会使运营方成为 L 类；其类别与其他运营方一样，依据领域特定重要性确定。无论运营方类别如何，每项要求均适用于实施该行为的感知者；L 类本身绝不要求执照或许可。独自或在小型业务中实施需执照行为的感知者，可通过联合专业执业履行 L 类义务。该途径适用于该业务的全部工作，无论是否列明。对列明行为，适用最后救济接待方、技术论坛标准以及执照或许可核验（**CI-16.205 §7**（*执业执照、执业许可与联合专业执业*））。
+  - **推定已获许可：**推定该权力已获许可。只有论坛以机构认证记录中列明的证据证明存在[第十章 §9.2.3 阻止新实质性权力获准的障碍](core_10.000_institutional_alignment_certification.md#923-blockers-to-clearing-new-material-authority)之一，且与该障碍相关的认证条件无法控制该障碍时，才视为未获许可。规模、年限、财富、缺少既往机构认证记录、竞争以及保护现任者，均绝非障碍。若论坛未在相应层级的受理目标时限前作出正式回应，该权力暂时视为已获许可。这属于论坛缺陷，申请转交同一系列的另一论坛。
+- **实施：**注册、采纳[系统章程](core_05.040_band_continuity.md#system-charter)或[机构章程](core_05.040_band_continuity.md#institutional-charter)、财政处理、责任、证券监管及解散路径，依照**第二十章**纳入纪律转至[CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody)（*机构设计、权力分立与权力保管*）、[CI-6.210](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity)（*公共收入、费用、重复收费与账单完整性*）和[CI-13.210](corpus_institutions/ci_13.210_institutional_failure_dissolution.md#ci-13210-institutional-failure-and-dissolution)（*机构失灵与解散*）。执业执照或许可的颁发方、等效途径、费用和审查，以及联合专业执业途径，也转至上述文件（**CI-16.205 §7**（*执业执照、执业许可与联合专业执业*））。不得将该文本解释为超出两项狭义门控以及执业执照和许可而缩减本权利。
+  - 试图放弃权利底线保护的条款，根据[第十八章 §4.2](core_18.000_expansion_supremacy.md#42-preserved-internal-review-pathways)（*保留的内部审查途径*）不具约束力，并可能构成[第十四章 §5.2](core_14.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)（*放弃权利底线与违宪合同条款*）所指的反宪法不当行为。
+*简单来说：**Article XII**（*利益相关方系统参与、代表与正当程序*）是利益相关方参与和正当程序的权利底线——当某个系统对你产生实质影响时，你应有真正的发言权，而非象征性咨询；高影响力决定必须在官方记录中说明并开放公平质疑。*
+- **保留基础投票权：**领域层级不取代授权层级中的平等权重规则（**Article X-B**（*治理参与与投票资格*）；[**第十六章 §4.1 权利与资格**](core_16.000_governance.md#41-entitlement-and-eligibility)）。
+*简单来说：对感知者产生实质影响的决定必须在官方记录中解释并开放真正质疑；每个受到实质影响的群体都必须有真实席位，尤其是缺乏市场或制度权力的群体。高影响力决定在约束任何人之前，还须有记录在案的合法性核查。*
+  现有的特定流程官方记录可以满足此要求；无需重复建立官方记录。
+  - **不得**为**[基础性宪法选择](core_05.045_band_integrative.md#foundational-constitutional-choice)**授权按影响、依赖或利害关系比例分配的**投票权重**（**Article X-B**（*治理参与与投票资格*）；[**第十六章 §4.1 权利与资格**](core_16.000_governance.md#41-entitlement-and-eligibility)）。
+  - 质疑或二次审查，应与依据第十五章 §1（*目的与作用——参与架构*）的[争议顺序](core_15.000_forum.md#dispute-sequencing)一并阅读。
+  - [**CI-16.205**](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-appointment-competency-rotation-and-removal)（*任命、能力、轮换与罢免*）——角色分类及问责链实施；
+  - **CI-15.205**（*程序完整性、可质疑性与二次审查*）——正当程序的运营流程；
+  - [第十五章 §2](core_15.000_forum.md#2-default-venue-and-primary-stakes) (15.000 §2)（*默认审理地点与主要利害关系*）以及
+  - [§3](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)（*优先确保完整性的路由及禁止自我裁判规则*）；
+  - [第十四章 §5.10](core_14.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (14.005 §5.10)（*指定的不当行为模式*）；
+    - **第十五章**下的每个**论坛**系列；
+  - **不当行为路径：**若在**未回避**且当时**公正性受到实质损害**，并且该事实得到核实，当其依据**第二至第四章**得到证实并符合**第十四章**的标准时，可根据**第十四章**指称其构成**反宪法不当行为**。
+  - **优先确保完整性的路由：**若争议主要涉及该未回避行为——或由此产生的最终严重不当行为认定——则依据**第十五章 §2**（*默认审理地点与主要利害关系*）先转交**完整性**论坛，并适用**第十五章 §3**（*移送、合并与协调——连续性及防止俘获*）的禁止自我裁判规则。
+    - **[第十五章 §2](core_15.000_forum.md#2-default-venue-and-primary-stakes)**（*默认审理地点与主要利害关系*）；以及
+    - **[第十五章 §3](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)**中的**跨论坛禁止自我裁判规则**（*移送、合并与协调——连续性及防止俘获*）。
+  - **备用路由：**若**完整性**论坛本身的完整性受到实质质疑，则适用**第十五章 §3**（*移送、合并与协调——连续性及防止俘获*）的备用路由，且不得缩减此义务。
+- **临时限制：**因故罢免或论坛服务 Standing 锁认定尚待处理期间，成员或审理小组成员可受到[临时限制](core_05.035_band_accountability.md#interim-hold)，但只能依据**CF-15.410 §15**（*对审理小组成员或席位持有者的临时限制*）及[第十五章 §5 对指定感知者路径的临时限制](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway)。该限制须由成员的任命机关及其所属论坛系列以外的主体发布，并完整适用下文的**禁止借口**底线。限制从退出一个事项开始，不会撤销或终止该成员曾参与的审查。
+  - [**CI-16.205**](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-appointment-competency-rotation-and-removal)（*任命、能力、轮换与罢免*）；
+  - 对于论坛审理小组，适用**CF-15.410**（*审理小组组成、披露、回避与合法庭审组成*）。
+  - [第十四章 §5.3](core_14.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (14.005 §5.3)（*信息空间灌注与阻断质疑路径*），
+  - [§5.4](core_14.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈灌注*），以及
+  - [§5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；
+  - [第十六章 §1.2](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (16.000 §1.2)（*资格、存在争议的选任与民主最低标准*）。
+- **福祉发展：**受影响的感知者保有真实、开放的表达途径，包括没有资金、员工或工具的人；决定依据公开的论坛案件官方记录，而非私人接触。
+- **选任经费：**[**第十六章 §1.2**](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*资格、存在争议的选任与民主最低标准*）规定通过竞选、提名或竞争性任命进行选任的资金边界。
+- **范围：**这些底线适用于受涵盖机构、其**任命机关**和**采纳机构**。要求按实质利害关系调整。在事项的公开论坛案件官方记录中提交的文件不是影响接触；它就是论坛案件官方记录。
+- **影响接触边界：**受涵盖机构、其**任命机关**和**采纳机构**必须公布**影响接触**规则。影响接触是[**利益相关方**](core_05.035_band_accountability.md#interested-party)为影响待审或可预见事项，在该事项公开的论坛案件官方记录之外接触成员、审理小组成员、工作人员、引导者或简报信息来源。规则须随实质利害关系调整，且至少应当：
+  - 将该影响接触记录保存在独立于被接触成员、审理小组成员或工作人员的席位处([第八章](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties))；
+  - 将证据和论证保留在公开的论坛案件官方记录中：私人接触不得提供决定所依赖的证据或论证；
+  - 保护在论坛案件官方记录中进行的公开倡议、请愿和公众意见，以及受影响感知者接触任何必须听取其意见的机构的权利。不得利用这些规则限制受影响感知者就自身利害关系发表意见。
+  - **批量接触：**相同或实质相似的接触大量到达某机构时，该机构将其作为单一活动记录一次。影响接触记录须说明发起方、资金、方式、数量和经核实的不同感知者人数。数量不构成支持证据。机构只能按经核实的不同感知者人数计入支持。
+- **抽签机构：**抽签机构中经选出的成员适用这些底线的最严格等级。除通过公开简报记录外，禁止就该事项私下接触他们；[第十六章](core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)对此有要求。
+  - **不当行为路径：**故意或鲁莽地以虚假声音灌注，以及贿赂或不当利益交换，在依据**第二至第四章**得到证实并符合**第十四章**标准时，可按**第十四章**指称为**反宪法不当行为**。
+  - [**CI-16.205**](corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-appointment-competency-rotation-and-removal)（*任命、能力、轮换与罢免*），包括适用于离任后规则的**CI-16.205 §2**（*角色标准、任命标准及罢免途径*）；
+  - 对于论坛审理小组，适用**CF-15.410**（*审理小组组成、披露、回避与合法庭审组成*）和**CF-15.425**（*完整性保障、反俘获运营及禁止自我裁判支持*）。

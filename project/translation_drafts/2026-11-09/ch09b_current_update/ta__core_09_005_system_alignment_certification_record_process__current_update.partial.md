@@ -1,0 +1,5 @@
+<!-- Locale: ta | Baseline commit: eb2e7a0b39e7e93611fb8ab439652661b411013e; baseline SHA-256: cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e | Source commit: 067ac0cdbd0178e154ee55a1d1c908818f4555dd; source SHA-256: 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5 | AI-drafted, unreviewed | Partial current-source update; 2 replacement rows -->
+
+- **புதியது அல்லாதது:** அதே இயக்குநர், கட்டுப்பாடு அல்லது அமைப்பைத் தொடர்ந்து கொண்டுசெல்லும் வாரிசு, மறுபெயரிடப்பட்ட, பிரிக்கப்பட்ட அல்லது மாற்றப்பட்ட நிறுவனம் ([பகுதி C §9.4 தவிர்த்தலைத் தடுத்தல்](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [அத்தியாயம் மூன்று §2.1 பொதுவான தவிர்ப்பு வடிவங்கள்](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+
+- **பெயரிடப்பட்ட உணர்வுள்ளவரைப் பற்றிய அதிகாரமுள்ள மன்றத்திற்கு:** சான்றளிப்பு முடிவு, ஒரு உணர்வுள்ளவர் மீறலைச் செய்ய அமைப்பைப் பயன்படுத்தியதன் அடிப்படையில் அமைந்திருந்தால், முதன்மை மன்றம் உண்மைகளை அந்த உணர்வுள்ளவரின் மீது அதிகாரமுள்ள மன்றத்துக்கு அனுப்புகிறது.

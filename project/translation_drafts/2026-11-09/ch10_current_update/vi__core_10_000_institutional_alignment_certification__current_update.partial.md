@@ -1,0 +1,3 @@
+<!-- Locale: vi | Source: 067ac0cdbd0178e154ee55a1d1c908818f4555dd (SHA-256 08e166f5f098d01317c1f57ae3501abde31dd10f3c9b43b54d1a2aea1da4200f) | Baseline: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 6acb6299fd6b6c18ac7f338aebc69bf01a89814c8070f1fb61762d1e10d93b4d) | AI-drafted, unreviewed | Partial current-source update, 1 replacement row. -->
+
+   - **Chuyển đến diễn đàn có thẩm quyền đối với sentient được nêu tên:** nếu kết luận chứng nhận dựa trên việc người giữ chức vụ không xác thực, hoặc một sentient sử dụng tổ chức để thực hiện vi phạm, diễn đàn chủ trì cũng chuyển các sự kiện đến diễn đàn có thẩm quyền đối với sentient đó.
