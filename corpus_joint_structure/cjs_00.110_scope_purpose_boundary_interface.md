@@ -101,7 +101,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 - Read with:
   - **CJS-0.110 §0** (*Purpose, Role, and Scope*);
   - [Joint structure landing page](../corpus_joint_structure.md);
-  - [Chapter One §1 Purpose and Role](../core_01.000_values_principles.md#1-purpose-role-and-scope) (1.000 §1) (constitutional purpose — not restated here);
+  - [Chapter One §1 Purpose, Role, and Scope](../core_01.000_values_principles.md#1-purpose-role-and-scope) (1.000 §1) (constitutional purpose — not restated here);
   - [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.030 §15.4.4) (default reading stack).
 
 </details>
@@ -119,7 +119,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 | **CI** | [Institutions](../corpus_institutions.md) | How bodies are formed, authorized, overseen, corrected, and dissolved |
 | **CF** | [Forums](../corpus_forum.md) | How panels form, cases route, appeals work, and hearings stay independent |
 
-This file, **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-28.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef Parse Mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*), is the **binding gateway** for that set. Use it when you need the shared contract, identifier and **Def.*** / **oDef** homes, or the map into domain doors. The default **CJS → CS → CI → CF** reading stack lives in [Chapter One §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). It does **not** replace [Chapter One §1 Purpose and Role](../core_01.000_values_principles.md#1-purpose-role-and-scope) — that section states why the Constitution itself exists.
+This file, **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-28.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef Parse Mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*), is the **binding gateway** for that set. Use it when you need the shared contract, identifier and **Def.*** / **oDef** homes, or the map into domain doors. The default **CJS → CS → CI → CF** reading stack lives in [Chapter One §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). It does **not** replace [Chapter One §1 Purpose, Role, and Scope](../core_01.000_values_principles.md#1-purpose-role-and-scope) — that section states why the Constitution itself exists.
 
 ## CJS-0.110 §1: Section Identifiers and Article References
 

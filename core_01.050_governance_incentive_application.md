@@ -1191,7 +1191,7 @@ This subsection sets out how verified duties survive successor and formal-struct
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and
   - [material stake](core_00.000_preamble.md#material-stake) scaling established in
   - [Preamble](core_00.000_preamble.md#preamble--foundational-requirements) and
-  - [§1 Purpose and Role](core_01.000_values_principles.md#1-purpose-role-and-scope).
+  - [§1 Purpose, Role, and Scope](core_01.000_values_principles.md#1-purpose-role-and-scope).
 - Downstream: [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) must be read through this chapter's integrated-value framework.
   - Bounded interpretation, public reasons, challenge, external review, and rights-collision procedure do the key downstream work.
   - Especially [Article XXV-A: Bounded Interpretive Mandate and Public Reasons](core_06.030_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons), [Article XXV-B: Challenge Rights and Independent Review](core_06.030_rights_part_d.md#article-xxv-b-challenge-rights-and-independent-review), and [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment).
