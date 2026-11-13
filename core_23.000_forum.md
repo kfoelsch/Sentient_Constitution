@@ -11,7 +11,7 @@
 
 > Where this lives (navigation):
 > - **Constitutional owner:** **section 1** (*purpose* — **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**; **Dispute sequencing** for ordinary disputes inside already-authorized systems; **accountability** requirements; **published**, **predictable** **threshold** placement); **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, standing-record contests, **good-faith characterization and anti-gaming**, and **sentient-accessible** **threshold** **access** expectations (**section 2**, **read with** **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 3**, read with **section 5** certification and backup); **forum family definitions**, **internal chambers**, **shared standards**, and **provisional operational law** (sentient, technical, institutional, environment, integrity, constitutional — **section** **4**, mirroring **section** **2**’s **table**); **escalation**, **certification**, and **interim protection** (**section 5**); **timely resolution** and **anti-delay** discipline (**section 6**); **forum support** before, during, and after review (**section 7**), implemented so triage and support roles **do not** substitute for **lawfully constituted merits panels**; **anti-self-judging** backup routing; and escalation hooks tied to **Chapter Fifteen**, **Chapter Twenty-One**, and **Chapter Six** justice and challenge rights.
-> - **Pipeline navigation:** [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) — [§§1–7](#1-purpose-and-role--participation-architecture) in this file.
+> - **Pipeline navigation:** [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) — [§§1–7](#1-purpose-role-and-scope) in this file.
 > - **Chapters Fifteen–Twenty three-question pipeline:** Chapter Fifteen **sections 3–5** answer Question 1 (*what happened?*) through verified, axis-pure records. [Chapter Sixteen §2](core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it) and the [Chapter Sixteen §7 unified proportional LEQU scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) answer Question 2 (*how good or bad was it?*) through evaluation dimensions, shared five-times LEQU bands, and the shared **s** = 1...9 grammar while preserving separate Contribution and Violation records. [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) answers Question 3 (*what happens because of it?*) through remedies, safeguards, competency bars and clearances, and standing locks. The Violation Axis slot is controlled only by verified impact; negligence, concealment, coercion, response, and comparable character descriptors do not move it. [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Chapter Sixteen slot 7, 8, or 9 record but does not assign the numeric slot.
 > - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) classifications to concrete disputes — including matters where separately recorded **contribution nature**, **Violation Axis impact slot**, and process / response character **co-present** and must be handled under **Chapter Fifteen** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Fifteen** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative Chapter Sixteen numeric slot assignment, any corresponding **Chapter Twenty-One** designation, or **Article XX** (*Justice After Verified Violation*) constraints. **Sections 1 and 2** allocate **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
 > - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forum-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-23.415** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*), **CF-23.430** (*Forum Forensic and Analytical Support*), **CF-23.435** (*Independent Investigative Service and Prosecution Interface*), and related sections).
@@ -36,7 +36,7 @@
   - [Chapter Six — Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) through
   - [Chapter Six Part E](core_06.040_rights_part_e.md) (6.040) (*challenge, audit, and justice-article hooks*).
 - Subsections:
-  - [§1](#1-purpose-and-role--participation-architecture);
+  - [§1](#1-purpose-role-and-scope);
   - [§2](#2-default-venue-and-primary-stakes);
   - [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture);
   - [§4](#4-forum-family-definitions--accountability-through-adjudication);
@@ -57,9 +57,9 @@ Chapter Twenty-Three is the constitutional owner of **forum families, default ve
 
 *In plain terms: Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Fifteen–Twenty-Two standing pipeline — routing, independence, forensic support, remediation sequencing, and tier windows under **section 6** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.*
 
-<a id="1-purpose-and-role--participation-architecture"></a>
+<a id="1-purpose-role-and-scope"></a>
 
-### 1. Purpose and Role — Participation Architecture
+### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -96,6 +96,25 @@ Chapter Twenty-Three is the constitutional owner of **forum families, default ve
 <br>
 
 *In plain terms: this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Fifteen–Twenty-Two disputes and record effects) and **System Alignment Certification** (Chapter Nine certification and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.*
+
+**Purpose.** Chapter Twenty-Three says which forum families handle which disputes, and keeps that routing independent and contestable. Sentients get an accessible way to challenge decisions that affect them, heard by reviewers who are independent and supported by forensic and technical help. The chapter sets who supervises what. It does not set docket rules, staffing, budgets, or detailed procedure, which belong in adopted implementation text.
+
+**Role.** Where this chapter sits:
+
+- It supervises two tracks: the standing pipeline ([Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) through [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)), and system and institutional alignment certification ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) through [Chapter Fourteen](core_14.000_institutional_alignment_certification_records_recertification.md#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing)).
+- Ordinary disputes inside an already-authorized system use the published Stakeholder System Participation challenge path first. This chapter takes over when that path leaves the dispute contested, is missing, is captured, or cannot grant the relief needed.
+- Forum eligibility, contested selection, and democratic minimums are set in [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship), **section 2.2**.
+
+**Chapter scope.** The chapter covers:
+
+- default venue and primary stakes (**section 2**);
+- transfer, consolidation, and coordination (**section 3**);
+- forum family definitions (**section 4**);
+- escalation and questions for ruling (**section 5**);
+- timely resolution, materiality tiers, and anti-delay discipline (**section 6**); and
+- forum support before, during, and after review (**section 7**).
+
+The chapter leaves the standing rules to the standing pipeline chapters, the certification rules to the certification chapters, and procedure details to adopted implementation text.
 
 This chapter states which **forum families** **supervise** which primary questions through **participation** (sentient-accessible challenge, representative treatment, and proportionate access) and **oversight** (independence, forensic support, and traceable merits review). It does **not** specify docket rules, staffing, budgets, granular procedure, or operational escalation mechanics. Those details belong in adopted implementation text. **Forum families** must state legal and regulatory boundaries for threshold placement, primary-stakes routing, and system-alignment review in a predictable, published way that follows **section 2** and [CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*).
 
@@ -178,7 +197,7 @@ Institutional contest, secondary review, and integrity monitoring in the institu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-and-role--participation-architecture) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*).
+- Upstream: [§1](#1-purpose-role-and-scope) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*).
 - Downstream:
   - [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
   - [§4](#4-forum-family-definitions--accountability-through-adjudication) (*forum family definitions read with default table*);
@@ -434,7 +453,7 @@ This subsection sets out the Forum Case Records and standing records a forum kee
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-and-role--participation-architecture) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*); [§2](#2-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, and anti-self-judging*).
+- Upstream: [§1](#1-purpose-role-and-scope) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*); [§2](#2-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, and anti-self-judging*).
 - Downstream: [§5](#5-escalation-and-questions-for-ruling) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
 - Read with:
   - [Preamble §3.1](core_00.000_preamble.md#31-using-measurements-in-governance) (*measurement standards custody and governance bridge*);
@@ -1154,7 +1173,7 @@ This subsection sets the requirements and the operating rules for emergency meas
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§1](#1-purpose-and-role--participation-architecture) (*independence, contestability, and tracing expectations*);
+  - [§1](#1-purpose-role-and-scope) (*independence, contestability, and tracing expectations*);
   - [§2](#2-default-venue-and-primary-stakes) (*primary-stakes routing and intake*);
   - [§4](#4-forum-family-definitions--accountability-through-adjudication) (*forum families that hold this capacity*);
   - [§5](#5-escalation-and-questions-for-ruling) (*escalation and questions for ruling that rely on contestable support*);

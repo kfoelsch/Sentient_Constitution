@@ -14,7 +14,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): definition stack and where Chapter Two lives</span></strong></summary>
 
 > Chapters **Two through Five** form the constitutional definition stack; **[CJS](corpus_joint_structure.md)** carries operational definitions that apply it:
-> - **Chapter Two (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§1 Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role); [§2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement)).
+> - **Chapter Two (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§1 Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope); [§2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement)).
 > - **Chapter Three** — definition integrity, evasion, and non-compliance ([Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **Chapter Four** — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility ([Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
 > - **Chapter Five** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_05.015_apex_flourishing_aim.md), [Oversight](core_05.050_band_oversight.md), [Participation](core_05.055_band_participation.md), [Accountability](core_05.035_band_accountability.md), [Continuity](core_05.040_band_continuity.md), [Integrative](core_05.045_band_integrative.md)); reading order and map in [Chapter Five Part A](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
@@ -31,7 +31,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 
 *In plain terms: Chapters Two through Five are the constitutional definition stack — built (Two), kept honest (Three), checked (Four), named (Five). Chapter Two builds each definition from linked parts — what a term is (O), how it must be measured and assessed (the measurement register interwoven with assessment, M/A), and what must hold in practice (C). Cross-implementation operational definitions live in the joint-structure family ([CJS-5.105 §1 constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); they apply Chapter Five terms and do not redefine them.*
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -61,6 +61,28 @@ Chapter Two is the constitutional owner of **definition structure and component 
 <br>
 
 *In plain terms: this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with assessment, M/A), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.*
+
+**Purpose.** Chapter Two sets how every constitutional definition is built. A definition is more than a name. It must say what the term is (Ontological, O), how it is measured (Measurement, M) and assessed (Assessment, A), and what must be true in practice (Compliance, C). The four parts must agree, and all four must be met for the whole system as it actually runs.
+
+**Role.** Chapter Two is the first layer of the definition stack:
+
+- [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) states the values and constraints that the definitions serve.
+- [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) says what it means to fail a definition in practice.
+- [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
+- [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) holds the canonical definitions, written in the shape set here.
+- Later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply with the [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) set here.
+
+**Chapter scope.** The chapter covers:
+
+- the four kinds of component and the job of each (**section 1.1** to **section 1.4**);
+- the Definition Integrity Requirement (**section 2**); and
+- consistency across the definition stack (**section 3**).
+
+The chapter leaves:
+
+- what counts as failing a definition to Chapter Three;
+- burden of proof, traceability, and verification to Chapter Four; and
+- the canonical definitions themselves to Chapter Five.
 
 Every constitutional definition MUST be built from linked parts, each with exactly one job:
 - **Ontological (O)** — what the term is about.
@@ -122,7 +144,7 @@ Chapter Five leaf definitions must carry those M requirements using the Measurem
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§1 Purpose and Role](#1-purpose-and-role) — A component role within O/M/A/C decomposition.
+- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope) — A component role within O/M/A/C decomposition.
 - Downstream: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000); [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence sufficiency for that enforcement.
 - Read with: [Chapter Five Independent Definitions](core_05.000_definitions_home.md#1-interdependent-definitions) (5.000) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
 
@@ -189,7 +211,7 @@ Chapter Five leaf definitions must carry those C requirements using the Complian
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1 Purpose and Role](#1-purpose-and-role) — O/M/A/C component structure and whole-system joint-satisfaction rule.
+- Upstream: [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope) — O/M/A/C component structure and whole-system joint-satisfaction rule.
 - Downstream:
   - [§2.4 Interpretation Rule under Ambiguity](#24-interpretation-rule-under-ambiguity);
   - [§3 Consistency across the Definition Stack](#3-consistency-across-the-definition-stack);
@@ -205,7 +227,7 @@ Chapter Five leaf definitions must carry those C requirements using the Complian
 *In plain terms: building a definition correctly is not enough — it must stay intact when applied. Definitions cannot be satisfied piecemeal, weakened by interpretation, or gamed through scope carving — including by optimizing a measure while the outcome it stands for degrades. Where the language allows more than one reading, choose the one that preserves full protective scope.*
 
 #### 2.1 Core Integrity Conditions
-Every definition must hold together when applied. The linked parts required by [§1 Purpose and Role](#1-purpose-and-role) must:
+Every definition must hold together when applied. The linked parts required by [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope) must:
 - still agree with one another
 - all be met together; satisfying one or two of them is not enough
 - be met on the same system and under the same conditions — you cannot pass one part on a narrow slice and another part on a different slice
@@ -238,7 +260,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [§1 Purpose and Role](#1-purpose-and-role).
+- Upstream: Principles: [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope).
 - Downstream: [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000); [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000); Chapter Four sections **4**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05.050_band_oversight.md#foreseeability) (5.050) — the rule for every “reasonably foreseeable” in Chapters Two through Four. The term itself is defined at [Reasonably Foreseeable](core_05.050_band_oversight.md#reasonably-foreseeable) in Chapter Five.
 

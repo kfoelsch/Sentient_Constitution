@@ -909,11 +909,11 @@ every later chapter, institutional design, and system is read through this chapt
 
 Source file: [`core_02.000_definition_structure.md`](../../core_02.000_definition_structure.md) · 8/12 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with assessment, M/A), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.
 
-[Source](../../core_02.000_definition_structure.md#1-purpose-and-role)
+[Source](../../core_02.000_definition_structure.md#1-purpose-role-and-scope)
 
 ##### 1.1 Ontological Components (O) — What It Is
 
@@ -3821,11 +3821,11 @@ scope can change, but not quietly. A change to what the Chartered Party may do i
 
 Source file: [`core_08.000_functional_independence_separation_of_duties.md`](../../core_08.000_functional_independence_separation_of_duties.md) · 11/22 headings glossed
 
-#### 1. Purpose, Scope, and Owner Boundary
+#### 1. Purpose, Role, and Scope
 
 before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope)
 
 ##### 1.1 Why the Jobs Are Separated
 
@@ -3951,11 +3951,11 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 17/57 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require recertification on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
 ##### 1.1 Certification as an Audit Process, Scaled by System Class
 
@@ -4713,11 +4713,11 @@ certification can feed standing, but it is not standing. Any System Certificatio
 
 Source file: [`core_12.000_institutional_alignment_certification_evaluation.md`](../../core_12.000_institutional_alignment_certification_evaluation.md) · 6/11 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-and-role)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
 ##### 1.1 Who Is Certified
 
@@ -5519,11 +5519,11 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 Source file: [`core_17.000_standing_integration.md`](../../core_17.000_standing_integration.md) · 20/20 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 this section says what this chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.
 
-[Source](../../core_17.000_standing_integration.md#1-purpose-and-role)
+[Source](../../core_17.000_standing_integration.md#1-purpose-role-and-scope)
 
 #### 2. Chapter Fifteen Records Do Not Change
 
@@ -6473,11 +6473,11 @@ attacking the machinery that makes answerability real — evidence, verification
 
 Source file: [`core_23.000_forum.md`](../../core_23.000_forum.md) · 9/29 headings glossed
 
-#### 1. Purpose and Role — Participation Architecture
+#### 1. Purpose, Role, and Scope
 
 this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Fifteen–Twenty-Two disputes and record effects) and **System Alignment Certification** (Chapter Nine certification and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
 
-[Source](../../core_23.000_forum.md#1-purpose-and-role--participation-architecture)
+[Source](../../core_23.000_forum.md#1-purpose-role-and-scope)
 
 #### 2. Default Venue and Primary Stakes
 
@@ -6645,11 +6645,11 @@ forums need help before a case exists, while deciding, and after — inspectors 
 
 Source file: [`core_06.000_rights_part_a.md`](../../core_06.000_rights_part_a.md) · 28/31 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 Chapter Six states the basic Rights Floors no sentient may be pushed below. Those Rights Floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](../../core_00.000_preamble.md#material-stake). Other chapters help implement, measure, certify, and enforce those Rights Floors, but they do not get to shrink them.
 
-[Source](../../core_06.000_rights_part_a.md#1-purpose-and-role)
+[Source](../../core_06.000_rights_part_a.md#1-purpose-role-and-scope)
 
 ##### 1.1 Practical Enforcement
 

@@ -22,7 +22,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) §1 (*Purpose and Role*) — chapter-wide default constraint stack and interpretive hubs.
+- Upstream: [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) §1 (*Purpose, Role, and Scope*) — chapter-wide default constraint stack and interpretive hubs.
 - Upstream: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [material stake](core_00.000_preamble.md#material-stake).
 - Read with: **Articles I–V** in Part A — planet-first material, survival, education, and resource-flow floors that Part B rights presume but do not replace.
 
@@ -2066,7 +2066,7 @@ This Article sets out the floors for internal roles and due process:
   - meaningful opportunity to be heard;
   - decision timing proportionate to harm risk;
   - impartial decision-making structures where adjudication applies;
-  - contest or secondary review, read with [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §1 (*Purpose and Role — Participation Architecture*).
+  - contest or secondary review, read with [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §1 (*Purpose, Role, and Scope*).
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
 - **Institutional routing:** The operating detail for this Article is set out in the institutions corpus:

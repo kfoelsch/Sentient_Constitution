@@ -144,7 +144,7 @@ The rights themselves span the conditions that make agency possible:
 - Trustworthy systems
 - Justice and Adoption Transition protections
 
-[Chapter Six’s opening](../core_06.000_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
+[Chapter Six’s opening](../core_06.000_rights_part_a.md#1-purpose-role-and-scope) explains how this floor constrains later governance, measurement, certification, and implementation.
 
 <a id="flourishing-and-its-principles"></a>
 ### Flourishing and Its Principles
@@ -505,7 +505,7 @@ flowchart TB
 
 Chapters Two through Five give the rest of this Constitution a shared language that can be tested against actual system behavior. Their jobs fit together:
 
-- [Chapter Two](../core_02.000_definition_structure.md#1-purpose-and-role) connects what a term covers, how it is measured and assessed, and what must hold in practice—the **O/M/A/C** structure.
+- [Chapter Two](../core_02.000_definition_structure.md#1-purpose-role-and-scope) connects what a term covers, how it is measured and assessed, and what must hold in practice—the **O/M/A/C** structure.
 - [Chapter Three](../core_03.000_definition_integrity.md) guards that structure against evasion and changes of scope that make apparent compliance diverge from real behavior.
 - [Chapter Four](../core_04.000_burden_traceability_verification.md) connects compliance claims to proof, traceability, observability, and accessible verification.
 - [Chapter Five](../core_05.000_definitions_home.md) houses the canonical vocabulary used throughout this Constitution.

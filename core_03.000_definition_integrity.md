@@ -55,7 +55,7 @@ The chapter leaves:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
+- Upstream: Principles: [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
 - Downstream:
   - [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior);
   - [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000);
@@ -120,7 +120,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*system alignment certification reopening and anti-evasion pointer*);
   - [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000).
 - Read with:
-  - [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1) for the joint-satisfaction rule under full functional system conditions;
+  - [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1) for the joint-satisfaction rule under full functional system conditions;
   - [Chapter Two, §2.4 Interpretation Rule under Ambiguity](core_02.000_definition_structure.md#24-interpretation-rule-under-ambiguity) (2.000 §2.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
   - [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof;
   - [Non-Compliance](core_05.045_band_integrative.md#non-compliance).

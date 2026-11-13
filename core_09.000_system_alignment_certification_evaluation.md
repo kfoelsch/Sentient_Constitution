@@ -12,7 +12,7 @@
 > | **Chapter Ten — Forum process and outcomes** | [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](core_10.000_system_alignment_certification_forum_process_outcomes.md) | Chapter Ten §2–Chapter Ten §3: **Phase III Review** (forum roles, supervisory sequence, and the contestability chain) and **Phase IV Decide** (certification outcomes, including the go-live gate) — continuous chapter numbering from Chapter Nine §5 |
 > | **Chapter Eleven — Record, recertification, and standing** | [`core_11.000_system_alignment_certification_records_recertification.md`](core_11.000_system_alignment_certification_records_recertification.md) | Chapter Eleven §2–Chapter Eleven §5: **Phase V Record** (the System Certification Record and its integrity, including governing [System Charter](core_05.040_band_continuity.md#system-charter) fields) and **Phase VI Operate** (recertification and reopening; the challenge path; the standing bridge) — continuous chapter numbering from Chapter Ten §3 |
 >
-> **How the two certifications relate.** System Alignment Certification (this chapter) is the certification of a System. Institutional alignment certification ([Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation)) is the certification of an Institution, which may run Systems or none. Chapter Twelve cites each System's System Certification Record by link and does not redo it; [Chapter Twelve §1](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-and-role) states the relation and [Chapter Twelve §1.2](core_12.000_institutional_alignment_certification_evaluation.md#12-no-permission-and-no-gate-on-forming-or-running) states that it is not a licence. Its sections carry the same numbers as this chapter's, under parallel titles.
+> **How the two certifications relate.** System Alignment Certification (this chapter) is the certification of a System. Institutional alignment certification ([Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation)) is the certification of an Institution, which may run Systems or none. Chapter Twelve cites each System's System Certification Record by link and does not redo it; [Chapter Twelve §1](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope) states the relation and [Chapter Twelve §1.2](core_12.000_institutional_alignment_certification_evaluation.md#12-no-permission-and-no-gate-on-forming-or-running) states that it is not a licence. Its sections carry the same numbers as this chapter's, under parallel titles.
 >
 > Generic **Chapter Nine** links in other files route to the appropriate part by section number.
 >
@@ -36,9 +36,9 @@ Chapter Nine**, is the constitutional owner of **system alignment certification 
 - Worked illustrations of these evaluation sections are in **[CS-9.320 System alignment certification illustrations](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations)**.
 - Institutional alignment certification, with the same section numbers, is in **[Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation)**.
 
-<a id="1-purpose-and-role"></a>
+<a id="1-purpose-role-and-scope"></a>
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -94,6 +94,25 @@ Chapter Nine**, is the constitutional owner of **system alignment certification 
 <br>
 
 *In plain terms: When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require recertification on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.*
+
+**Purpose.** Chapter Nine says how a system's alignment is evaluated for certification. The evaluation has to be proportionate, as demanding as the system's impact, dependency, and risk require, and open to the sentients and communities it affects. The system is first classified honestly, and the evaluations that apply to it are then carried out.
+
+**Role.** Chapter Nine is the evaluation chapter of system alignment certification. Where it sits:
+
+- This chapter covers Phase I (Frame) and Phase II (Evaluate), and every evaluation that applies is carried out again at each certification pass.
+- [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes) covers forum supervision and certification outcomes (Phases III and IV).
+- [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) covers the System Certification Record, recertification and reopening, and the standing bridge (Phases V and VI).
+- [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) covers the same process for an Institution, with the same section numbers.
+- [CS-9.320 System alignment certification illustrations](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) carries worked illustrations of the evaluation sections.
+
+**Chapter scope.** The chapter covers:
+
+- classifying the system by class, which sets how deep the evaluation goes and how often it is repeated (**section 2**);
+- the whole-system evaluation that always applies (**section 3**);
+- the evaluations that apply where implicated (**section 4**); and
+- the Rights-Floor and domain evaluations that apply when triggered (**section 5**).
+
+The chapter leaves forum review and outcomes to Chapter Ten, the certification record and recertification to Chapter Eleven, and standing records to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
 
 **System alignment certification** exists to answer one question for a stated scope and review schedule: Has the system shown constitutional alignment well enough for certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from certification conditions?
 
@@ -253,7 +272,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§1](#1-purpose-and-role) (*purpose and role*); Integrative Materiality (
+  - [§1](#1-purpose-role-and-scope) (*purpose and role*); Integrative Materiality (
   - [Materiality](core_05.050_band_oversight.md#materiality)) (*Materiality*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
@@ -415,7 +434,7 @@ A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_b
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [§1 Purpose and Role](#1-purpose-and-role).
+  - [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope).
 - Downstream:
   - [CS-9.320 §4](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-4-illustrative-whole-system-application-by-system-class) (*Illustrative Whole-System Application by System Class*);
   - [§3.4](#34-data-types-and-handling-evaluation) through
@@ -514,7 +533,7 @@ For these facts, the forums for this system:
 - still decide whether the facts are enough for this system; and
 - may not find the same institutional fact differently without saying why on the System Certification Record.
 
-A system's own governance, incentives, and contestability are still evaluated here. See [Chapter Twelve §1 Purpose and Role](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-and-role).
+A system's own governance, incentives, and contestability are still evaluated here. See [Chapter Twelve §1 Purpose, Role, and Scope](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope).
 
 **Publication as Type O.** What this section establishes is certification data, and certification data is **Type O** for every system class under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data). It is not a private finding. That covers:
 
@@ -840,7 +859,7 @@ A system's own disagreement with its operator, raised through available channels
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-and-role) (*purpose and role*); [§2.2](#22-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Six Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIII** (*Right to Reliable and Trustworthy Systems*), and **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+- Upstream: [§1](#1-purpose-role-and-scope) (*purpose and role*); [§2.2](#22-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Six Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIII** (*Right to Reliable and Trustworthy Systems*), and **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
 - Downstream:
   - [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*record contents*);
   - [Chapter Ten §2.1](core_10.000_system_alignment_certification_forum_process_outcomes.md#21-forum-supervision-and-component-roles) (10.000 §2.1) (*forum component roles*);

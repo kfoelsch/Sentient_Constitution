@@ -450,7 +450,7 @@ A chart box that cites a section puts the number **first**, so a reader finds it
 
 ### Constitutional owner opening statement (OWNER-OPENING-01)
 
-Each numbered owner-layer chapter states **who owns what** in one binding operative sentence at the chapter opening — not inside collapsed widgets and not buried in **§1 Purpose and Role**.
+Each numbered owner-layer chapter states **who owns what** in one binding operative sentence at the chapter opening — not inside collapsed widgets and not buried in **§1 Purpose, Role, and Scope**.
 
 **Canonical register:** substantive owner homes live in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) (sections 4–9); non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy). The opening sentence is the chapter's positive owner claim; the Preamble register is the cross-chapter index.
 
@@ -475,7 +475,7 @@ When one registry row splits across **part files** within the same chapter numbe
 `Chapter <N>, Part <letter>, is the constitutional owner of **<domain>**.`
 
 - State the **owner domain** only — unqualified. Do **not** append **where material** to the owner claim; materiality triggers belong on evaluation sections inside the chapter.
-- Do **not** append em-dash or trailing clauses that restate procedural, evaluative, or verification detail on the owner sentence; put that in **§1 Purpose and Role**, Trace, or the sibling part's home.
+- Do **not** append em-dash or trailing clauses that restate procedural, evaluative, or verification detail on the owner sentence; put that in **§1 Purpose, Role, and Scope**, Trace, or the sibling part's home.
 - Keep the owner sentence to one line when possible. Long domain lists may use a short trailing phrase (`including …`) only when the registry row requires it.
 - **Sibling-part pointer (split chapters only):** after the owner claim, one optional second sentence may route readers to the sibling part's domain — by pointer only, without restating substantive obligations (example: `Record contents … are in **Part B**`; `Evaluation requirements are in **Part A**`).
 - **Do not** fold layer-discipline routing (`Layer discipline is under …`, `read with Authority Stack`) into the owner line — that belongs in Trace **Read with:** bullets or in layer-scope sections.
@@ -830,7 +830,7 @@ Gate: manual. Charts must also keep **VIS-CHART-READABILITY-01** and **VIS-CHART
 | V. Record | §8 System Certification Record | Part C |
 | VI. Operate | **VIa, operate and recertify:** §9 Recertification and Reopening (§9.1 Challenging a Certification, with §9.1.1 Contestability paths; §9.2 Provisional and full certification; §9.3 Non-evasion); **VIb, standing bridge:** §10 Relationship to Standing | Part C |
 
-§1 Purpose and Role precedes the phases. Numbering stays continuous across Parts A, B, and C (and on into Part D); the illustrations in CS-9.320 are numbered by that file's own sections.
+§1 Purpose, Role, and Scope precedes the phases. Numbering stays continuous across Parts A, B, and C (and on into Part D); the illustrations in CS-9.320 are numbered by that file's own sections.
 
 **Historical moves 1–243:** The original change records are preserved in [archive/DOC_ARCHITECTURE_MOVES_001-243_ARCHIVED_2026-11-03.md](archive/DOC_ARCHITECTURE_MOVES_001-243_ARCHIVED_2026-11-03.md). The current phase order is summarized above; moves 244–369 are in [archive/DOC_ARCHITECTURE_MOVES_244-369_ARCHIVED_2026-11-08.md](archive/DOC_ARCHITECTURE_MOVES_244-369_ARCHIVED_2026-11-08.md); moves from 370 onward remain below, in section 12.
 

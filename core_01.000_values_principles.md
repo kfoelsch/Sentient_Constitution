@@ -197,7 +197,7 @@ Each principle's **Trace** lists the Chapter Six Articles that protect it, and i
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs apply to how Flourishing is pursued; [material stake](core_00.000_preamble.md#material-stake) scales the depth of every Flourishing claim.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — the **Flourishing** aim; its partner aim is introduced in [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction).
-- Upstream: Principles: [Preamble §1 The Model](core_00.000_preamble.md#flourishing); [Flourishing (Constitutional Aim)](core_05.015_apex_flourishing_aim.md#flourishing-constitutional); [§1 Purpose and Role](#1-purpose-role-and-scope).
+- Upstream: Principles: [Preamble §1 The Model](core_00.000_preamble.md#flourishing); [Flourishing (Constitutional Aim)](core_05.015_apex_flourishing_aim.md#flourishing-constitutional); [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope).
 - Downstream:
   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](#3-foundational-objective-wellbeing-flourishing-aim),
   - [§4 Safety (Harm Constraint)](#4-safety-harm-constraint),

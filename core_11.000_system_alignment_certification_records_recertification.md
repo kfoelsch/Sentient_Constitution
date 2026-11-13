@@ -17,7 +17,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.000 §1) (*certification purpose and process overview*);
+  - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (9.000 §1) (*certification purpose and process overview*);
   - [Chapter Nine §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
   - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
   - [Chapter Ten §2](core_10.000_system_alignment_certification_forum_process_outcomes.md#2-forum-process) (10.000 §2) and
@@ -91,7 +91,7 @@ The chapter leaves:
 - Upstream:
   - [Chapter Ten §2](core_10.000_system_alignment_certification_forum_process_outcomes.md#2-forum-process) (*forum component findings integrated into the System Certification Record*);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (*the outcome and the concerns raised in reaching it*);
-  - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.000 §1) (*certification purpose*);
+  - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (9.000 §1) (*certification purpose*);
   - [Chapter Nine §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
   - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs reflected on the System Certification Record*);
   - [Chapters Two through Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*);
@@ -190,7 +190,7 @@ The System Certification Record must identify, at minimum:
   - the governing [System Charter](core_05.040_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies;
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
-  - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Chapter Twelve §1 Purpose and Role](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-and-role));
+  - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Chapter Twelve §1 Purpose, Role, and Scope](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope));
 - **Prior System Certification Record:** for a later certification pass, a link to the completed System Certification Record it follows, kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and what has changed since.
 
 <a id="212-classification-and-whole-system-findings"></a>

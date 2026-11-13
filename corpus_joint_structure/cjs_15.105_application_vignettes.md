@@ -20,7 +20,7 @@
 > 4. **Milestone table** — [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-23.445 §3.1** (*Stage targets and outer bounds*), which adopters may only shorten.
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [§3](../core_15.000_standing_assessment.md#3-question-1--what-happened) (Question 1); [Chapter Sixteen §2](../core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it), and the [Chapter Sixteen §7 unified proportional LEQU scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Eighteen §2.2](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) and [§2.2](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (Question 3); [Chapter Seventeen §1 Purpose and Role](../core_17.000_standing_integration.md#1-purpose-and-role) (*summary of the Question 3 examples in §8 through §10 below*); [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (forum routing and supervision).
+> **References:** [§3](../core_15.000_standing_assessment.md#3-question-1--what-happened) (Question 1); [Chapter Sixteen §2](../core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it), and the [Chapter Sixteen §7 unified proportional LEQU scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Eighteen §2.2](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) and [§2.2](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (Question 3); [Chapter Seventeen §1 Purpose, Role, and Scope](../core_17.000_standing_integration.md#1-purpose-role-and-scope) (*summary of the Question 3 examples in §8 through §10 below*); [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (forum routing and supervision).
 >
 > Vignettes 8 and 9 are Question 2 measurement walkthroughs. They follow their own spine (situation, verified inputs, seats, dimension pass, outputs recorded) and have no milestone table. Each ends with a Question 3 continuation. §10 adds twelve Question 3 routing patterns that have no full vignette.
 >
@@ -39,7 +39,7 @@
   - [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*forums and jurisdiction*);
   - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000).
 - Downstream:
-  - Nothing. The vignettes are examples. [Chapter Seventeen §1 Purpose and Role](../core_17.000_standing_integration.md#1-purpose-and-role) summarizes them, and no rule takes its content from them.
+  - Nothing. The vignettes are examples. [Chapter Seventeen §1 Purpose, Role, and Scope](../core_17.000_standing_integration.md#1-purpose-role-and-scope) summarizes them, and no rule takes its content from them.
 - Read with:
   - [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 

@@ -87,7 +87,7 @@ Read in order. Each step builds on the last; skip none.
 
 - Upstream:
   - [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](#2-exclusive-enforcement-and-burden-allocation);
-  - [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1);
+  - [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1);
   - [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2);
   - [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000);
   - [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000) — substantive definition and non-compliance rules; **§3** states the trace-map requirement only and does not restate those rules.
@@ -189,7 +189,7 @@ Cryptography and information-type handling must align with the Constitution and 
 
 - Upstream:
   - [Chapter Four, sections 2 through 5](#2-exclusive-enforcement-and-burden-allocation);
-  - [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1);
+  - [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1);
   - [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2);
   - [Chapter Two, §3 Consistency across the Definition Stack](core_02.000_definition_structure.md#3-consistency-across-the-definition-stack) (2.000 §3);
   - [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000);

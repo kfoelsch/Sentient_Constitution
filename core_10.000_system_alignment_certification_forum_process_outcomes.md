@@ -17,7 +17,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.000 §1) (*certification purpose and process overview*);
+  - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (9.000 §1) (*certification purpose and process overview*);
   - [Chapter Nine §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
   - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
@@ -419,7 +419,7 @@ The **contestability chain** is how affected parties can challenge a System Cert
 
 - **Two directions:** It mirrors the supervisory sequence: oversight checks the System Certification Record from above, and challenges let affected parties push back from below.
 - **Right level:** A challenge goes to the level where the dispute actually lives.
-- **Ordinary first step:** [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §1 (*Purpose and Role — Participation Architecture*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
+- **Ordinary first step:** [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §1 (*Purpose, Role, and Scope*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
 - **Emergency exits:** The larger Chapter Twenty-Three tools remain available when needed: transfer, certification, backup routing, and escalation from one forum family to another. Don't start with these. Start with the ordinary first step above, and use these only when it can't resolve the dispute.
 
 There are four paths, which [Chapter Eleven §4.2 Contestability Paths](core_11.000_system_alignment_certification_records_recertification.md#42-contestability-paths) names for the System Certification Record. The paths are:

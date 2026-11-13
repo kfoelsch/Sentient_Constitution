@@ -6,7 +6,7 @@
 >
 > | § | Chapter Nine (System) | Chapter Twelve (Institution) |
 > |---|------------------------|----------------------------|
-> | 1 | Purpose and Role | relation to the System certification, who is certified, no permission and no gate on forming or running, the wait for new material authority, the first-certification window |
+> | 1 | Purpose, Role, and Scope | relation to the System certification, who is certified, no permission and no gate on forming or running, the wait for new material authority, the first-certification window |
 > | 2 | System Class Evaluation | institution class; scaling by class |
 > | 3 | Whole-System Certification Evaluation | the eight institutional items, always |
 > | 4 | Evaluations Where Implicated | pointer to Chapter Nine §4 |
@@ -39,7 +39,7 @@
   - [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
-- Downstream: [§1](#1-purpose-and-role) through [§5](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing); Chapter Fifteen ([12.000](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened)); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000).
+- Downstream: [§1](#1-purpose-role-and-scope) through [§5](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing); Chapter Fifteen ([12.000](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened)); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000).
 - Read with:
   - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification) and
   - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) (*Chapter Five meanings*);
@@ -62,16 +62,16 @@ Chapter Twelve is the constitutional owner of **institutional alignment certific
 
 *In plain terms: Chapter Nine asks whether a **system** is aligned. Chapter Twelve asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.*
 
-<a id="1-purpose-and-role"></a>
+<a id="1-purpose-role-and-scope"></a>
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
   - [Chapter Seven §2 When System and Institutional Charters Are Required](core_07.000_charters.md#2-when-system-and-institutional-charters-are-required) (7.000 §2);
-  - [Chapter Nine §1 Purpose and Role](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.000 §1);
+  - [Chapter Nine §1 Purpose, Role, and Scope](core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (9.000 §1);
   - [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Article XXVIII-A](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*).
 - Downstream: [§2](#2-institution-class-evaluation); [§2](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#2-forum-process); [§3](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#3-certification-outcomes); [§3](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening).
@@ -86,6 +86,23 @@ Chapter Twelve is the constitutional owner of **institutional alignment certific
 <br>
 
 *In plain terms: a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
+
+**Purpose.** Chapter Twelve sets the evaluation that decides whether an Institution can be certified as aligned. The Institution may run systems or may hold authority without running one. It is asked what only the Institution can answer for: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used.
+
+**Role.** Chapter Twelve extends [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) from a System to an Institution. Where it sits:
+
+- The two certifications are joined by a link, not nested. An Institutional Certification Record cites each System Certification Record it relies on and does not redo it.
+- [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) covers forum process and outcomes (Phases III and IV).
+- [Chapter Fourteen](core_14.000_institutional_alignment_certification_records_recertification.md#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) holds the Institutional Certification Record, what happens at recertification and reopening, and the link to standing (Phases V and VI).
+- The certification is not a licence. Nobody needs its permission to start or run an institution.
+
+**Chapter scope.** The chapter covers the evaluation phases for an Institution:
+
+- the institution class, and how it scales the evaluation (**section 2**);
+- the whole-institution evaluation (**section 3**); and
+- the evaluations that apply where implicated, and the Rights-Floor and domain evaluations (**section 4** and **section 5**).
+
+The chapter leaves System evaluations to Chapter Nine, forum process and outcomes to Chapter Thirteen, and records and recertification to Chapter Fourteen.
 
 Institutional alignment certification and System Alignment Certification are two certifications joined by a link. The relation is **composition by link**, not containment. In the figure, an arrow runs from a System Certification Record to each Institutional Certification Record that cites it. A System under no Institution has no arrow and needs none, and an Institution that runs no System has an Institutional Certification Record alone.
 
@@ -125,7 +142,7 @@ On the System's side:
 An Institution of Class L or higher is within this Chapter, with the class decided under [§2.1 Institution Class](#21-institution-class). That includes an Institution that runs no System at all: it has no System Certification Record to cite, and its class comes from its own impact. An Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls ([Portfolio](core_05.040_band_continuity.md#portfolio)).
 
 - **Class A, B, C, and L:** the process applies, scaled by class under [§2.2 Scaling by Class](#22-scaling-by-class).
-- **Class P:** the process is encouraged and may be used voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance. A Class P Institution that decides to take on new material authority is reclassified to at least Class L when it gives the notice in [§3.2.2 Recertification for New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#322-recertification-for-new-material-authority), because that authority is material by definition ([§3.2.1 What Counts as New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#321-what-counts-as-new-material-authority)) and an Institution that is material in any domain is at least Class L ([§2.1 Institution Class](#21-institution-class), item 2). The reclassification lasts from the notice until the notice is withdrawn before clearance, or the authority is not cleared, provided nothing under it has been exercised. The Institution then returns to Class P and the limited first certification ends. A new notice starts it again, and exercising the authority without clearance stays a finding under [§3.2.2 Recertification for New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#322-recertification-for-new-material-authority) (*Without notice, or before it is cleared*). This mirrors [Chapter Nine §1 Purpose and Role](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role).
+- **Class P:** the process is encouraged and may be used voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance. A Class P Institution that decides to take on new material authority is reclassified to at least Class L when it gives the notice in [§3.2.2 Recertification for New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#322-recertification-for-new-material-authority), because that authority is material by definition ([§3.2.1 What Counts as New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#321-what-counts-as-new-material-authority)) and an Institution that is material in any domain is at least Class L ([§2.1 Institution Class](#21-institution-class), item 2). The reclassification lasts from the notice until the notice is withdrawn before clearance, or the authority is not cleared, provided nothing under it has been exercised. The Institution then returns to Class P and the limited first certification ends. A new notice starts it again, and exercising the authority without clearance stays a finding under [§3.2.2 Recertification for New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#322-recertification-for-new-material-authority) (*Without notice, or before it is cleared*). This mirrors [Chapter Nine §1 Purpose, Role, and Scope](core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope).
 - **One System:** an Institution that runs exactly one System that needs a System Charter has one certification pass and one System Certification Record, which this Chapter calls the **one-System evaluation**. The System Certification Record carries an *institutional findings block* with the items in [§2 Institutional Certification Record](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record), and it serves as the Institutional Certification Record. Forums, seats, and clocks are those of the System's own certification pass, with the institutional items added. Its outcomes follow their own denial and revocation grounds, as [§3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution) states. The cascade in [§3.5 Cascade from System Certifications](core_14.000_institutional_alignment_certification_records_recertification.md#35-cascade-from-system-certifications) does not apply as a cascade, since the System is the whole portfolio, but [§3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution) applies its rules 1 and 2 (the indicator and the test of where the cause lies).
 - **Several Systems:** one Institutional Certification Record for the Institution, which links to the System Certification Record of each System it runs. Each System keeps its own pass and its own System Certification Record.
 - **No System:** one Institutional Certification Record on its own. It has no System Certification Record to link to, because the Institution runs no System.

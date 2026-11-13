@@ -24,7 +24,7 @@
 
 Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation.
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -44,6 +44,23 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 <br>
 
 *In plain terms: Chapter Six states the basic Rights Floors no sentient may be pushed below. Those Rights Floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00.000_preamble.md#material-stake). Other chapters help implement, measure, certify, and enforce those Rights Floors, but they do not get to shrink them.*
+
+**Purpose.** Chapter Six states the Rights Floors: the basic guarantees below which no sentient may be pushed. A Rights Floor is a minimum that must stay available, open to inspection, and enforceable before any new rule, certification, category, or plan can be approved. The floors serve both aims: sentients can actually use them (Flourishing), and they last and can be repaired if they break (Continuity).
+
+**Role.** Chapter Six is the constitutional owner of Rights Floors and rights-level interpretation. Where it sits:
+
+- It is read together with Chapters One through Five: the values, the definition rules, and the definitions, as set out below.
+- Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters. Chapter Six may point to them but must not restate or move their duties (**section 1.2**).
+
+**Chapter scope.** The chapter covers Articles I through XXVIII, in five parts:
+
+- Part A (Articles I–V): planetary conditions, material stewardship, survival, education, and shared resources;
+- Part B (Articles VI–XII): equal standing, self-ownership, family, data, agency, cooperation, and stakeholder participation;
+- Part C (Articles XIII–XVIII): trustworthy systems, security, information, audit, lifecycle, and innovation;
+- Part D (Articles XIX–XXV): standing, justice, portability, movement and refuge, comprehensibility, root cause, and interpretation; and
+- Part E (Articles XXVI–XXVIII): conflict resolution and review, constitutional evolution, and Adoption Transition.
+
+The chapter leaves process, governance, and implementation rules to their owner chapters. **Section 1.1** says how the floors must work in practice.
 
 A Rights Floor is a minimum guarantee. It is the set of protections that must remain available, open to inspection, and enforceable before any new rules, certifications, categories, or plans can be approved. These floors serve the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
