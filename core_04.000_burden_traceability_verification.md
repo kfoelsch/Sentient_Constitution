@@ -26,9 +26,37 @@
 Chapter Four is the constitutional owner of **burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification**.
 
 *In plain terms: if you say you're following the rules, you have to prove it — and show a clear, checkable path from what the Constitution defines to what sentients can actually observe.*
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: if you claim compliance, you prove it, through one five-step check. The proof has to be real, open to inspection in practice, and checkable by others, even where security narrows how or when it is shown.*
+
+**Purpose.** Chapter Four answers who must prove compliance and how the proof must look:
+
+- the party claiming compliance carries the burden through one five-step check (**section 2**);
+- it must show a map from each definition's parts, Ontological, Measurement, Assessment, and Compliance, to what the system actually does (**section 3**), and must expose enough of itself for that map to be checked in practice (**section 4**);
+- security can narrow how, when, and to whom disclosure happens but cannot erase the duty to trace and verify (**section 5**); and
+- evidence must be tied to the map, independent where possible, complete, and sustained (**section 6**).
+
+**Role.** [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) together set the rules every compliance claim must meet:
+
+- It takes definition mechanics from Chapters Two and [Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance), and definitions from [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions), as fixed.
+- It hands those rules to Chapter Nine, where System Alignment Certification applies them, and to Chapter Fifteen, where standing records rest on verified facts.
+- A current certification is not a way around Chapters Two through Four (**section 7**).
+
+**Chapter scope.** The chapter covers:
+
+- burden allocation (**section 2**);
+- traceability (**section 3**);
+- observability (**section 4**);
+- security-constrained verification (**section 5**);
+- the compliance evidence standard (**section 6**); and
+- the relationship to System Alignment Certification (**section 7**).
+
+The chapter leaves:
+
+- the certification process itself to [Chapters Nine through Fourteen](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation);
+- the meaning of each definition to Chapter Five; and
+- standing records and their effects to [Chapters Fifteen through Twenty](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
 
 
 ### 2. Exclusive Enforcement and Burden Allocation
@@ -216,7 +244,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 *In plain terms: Chapters Two through Four set the rules every compliance claim must meet — what definitions mean, when behavior fails them, and how proof must be shown. Chapter Nine is a separate forum-supervised certification process that uses those rules when a system needs formal alignment certification. A current certification is not a free pass around Two through Four.*
 
-This section is **non-operative**. It states a **layer boundary** only.
+This section is **non-operative**. It states an **owner boundary** only.
 
 **Chapters Two, Three, and Four** supply the standing definition and verification substrate:
 - **[Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — how definitions are built and kept internally consistent (O/M/A/C)

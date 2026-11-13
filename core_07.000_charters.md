@@ -56,12 +56,41 @@ Three chapters work as one chain:
 - **[Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation):** certifies a system, and separately an institution, each of which is one binding act that uses the seats. It sends what it finds back to the System Charter or Institutional Charter.
 
 Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) holds the field template, the formation procedure, and the review checklist.
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. This chapter says who must publish a System Charter or an Institutional Charter, what each must state, and how it is checked and kept true. Nobody needs permission to form.*
 
+**Purpose.** Chapter Seven decides:
 
-<a id="2-when-system-and-institutional-charters-are-required"></a>
+- when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P);
+- the minimum each must state;
+- how each changes and is reviewed; and
+- the formation check on the standing and authenticity of the holders of covered offices.
+
+**Role.** The chapter follows the [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floor and comes before the seats in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties):
+
+- It applies the terms System Charter, Institutional Charter, Charter Role Map, Chartered Party, and Operating Party, which [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) defines. It does not redefine them.
+- **Chapter Eight section 5** (*Published Placement, Vacancy, and Substitution*) requires the Charter Role Map this chapter describes.
+- [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) reads the System Charter for scope and boundary findings, and [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) tests the formation check statement for an Institution.
+- **Chapter Fifteen section 6** applies the Charter Role Map to standing records, and **Chapter Twenty-Three section 4.3** hears disputes about the Institutional Charter.
+- CI-8.205 (*Institutional Design, Separation of Powers, and Authority Custody*) **section 6** holds the full field template, review checklist, and formation procedure. It may be stricter and may not narrow this chapter.
+
+**Chapter scope.** The chapter covers, in order:
+
+- when Charters are required (**section 2**);
+- the right to form and five narrow limits (**section 3**);
+- what they must state (**section 4**);
+- the Charter Role Map and standing-record custody (**section 5**);
+- the formation check (**section 6**);
+- when a holder fails it (**section 7**); and
+- amendment, review, and scope misalignment (**section 8**).
+
+The chapter leaves:
+
+- the seats and separation of duties to Chapter Eight;
+- the definitions to Chapter Five; and
+- disputes about an Institutional Charter to **Chapter Twenty-Three section 4.3**.
+
 
 ### 2. When System and Institutional Charters Are Required
 

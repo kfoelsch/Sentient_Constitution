@@ -18,12 +18,35 @@
 
 Chapter Thirteen is the constitutional owner of **forum process and outcomes of institutional alignment certification**.
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: the same independent forums, in the same order, review the institution, and the institution never chooses its own reviewer. A published outcome never decides whether the institution may exist or operate.*
 
+**Purpose.** Chapter Thirteen states how forums supervise institutional alignment certification, and what the outcomes are:
 
-<a id="2-forum-process"></a>
+- the four seats in an institutional certification, forum roles and sequence, and forums, certifiers, and record offices treated as institutions (**section 2**); and
+- the outcomes: go-live for an Institution, defects and correction, remediation readiness, denial and revocation, and their effects (**section 3**).
+
+An outcome decides what the Institution may say about itself, who is warned, and how much the outcome counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found at issue.
+
+**Role.** Institutional certification and System Alignment Certification are two certifications joined by a link, not one inside the other (**Chapter Twelve section 1**):
+
+- It takes the evaluation from [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) as fixed.
+- It runs the same forum process as [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes), applied to an Institution.
+- It cites System Certification Records by link and does not redo them.
+- [Chapter Fourteen](core_14.000_institutional_alignment_certification_records_recertification.md#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) takes over from here, with the Institutional Certification Record, recertification, challenge, and the standing bridge.
+
+**Chapter scope.** The chapter covers:
+
+- the forum process (**section 2**); and
+- the outcomes (**section 3**).
+
+The chapter leaves:
+
+- evaluation to Chapter Twelve;
+- the Institutional Certification Record, recertification, challenge, and standing bridge to Chapter Fourteen; and
+- every System-level decision to [Chapters Nine through Eleven](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation).
+
 
 ### 2. Forum Process
 

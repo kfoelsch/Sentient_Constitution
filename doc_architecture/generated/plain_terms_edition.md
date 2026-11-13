@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **819** of **1323** headings carry a gloss (62%).
+Coverage: **835** of **1323** headings carry a gloss (63%).
 
 ## Contents
 
@@ -18,8 +18,8 @@ Coverage: **819** of **1323** headings carry a gloss (62%).
 - [CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-01-part-e-stewardship-and-the-steward-role) — `core_01.040_stewardship_capacity_principles.md` (12/13 glossed)
 - [CHAPTER 01, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-01-part-f-governance-incentive-alignment-and-integrated-application) — `core_01.050_governance_incentive_application.md` (19/26 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02.000_definition_structure.md` (8/12 glossed)
-- [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03.000_definition_integrity.md` (5/16 glossed)
-- [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04.000_burden_traceability_verification.md` (7/8 glossed)
+- [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03.000_definition_integrity.md` (6/16 glossed)
+- [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04.000_burden_traceability_verification.md` (8/8 glossed)
 - [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05.000_definitions_home.md` (8/10 glossed)
 - [CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-five-definitions-accountability-tetrad-leg) — `core_05.005_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-five-definitions-continuity-constitutional-aim) — `core_05.010_apex_continuity_aim.md` (3/3 glossed)
@@ -33,22 +33,22 @@ Coverage: **819** of **1323** headings carry a gloss (62%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/63 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (8/63 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (10/36 glossed)
-- [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (11/35 glossed)
+- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (11/36 glossed)
+- [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (12/35 glossed)
 - [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-twelve-institutional-alignment-certification--evaluation) — `core_12.000_institutional_alignment_certification_evaluation.md` (6/11 glossed)
-- [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) — `core_13.000_institutional_alignment_certification_forum_process_outcomes.md` (8/14 glossed)
-- [CHAPTER FOURTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_14.000_institutional_alignment_certification_records_recertification.md` (10/30 glossed)
-- [CHAPTER FIFTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fifteen-standing-records--question-1-what-happened) — `core_15.000_standing_assessment.md` (8/44 glossed)
-- [CHAPTER SIXTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_16.000_standing_measurement.md` (10/37 glossed)
+- [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) — `core_13.000_institutional_alignment_certification_forum_process_outcomes.md` (9/14 glossed)
+- [CHAPTER FOURTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_14.000_institutional_alignment_certification_records_recertification.md` (11/30 glossed)
+- [CHAPTER FIFTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fifteen-standing-records--question-1-what-happened) — `core_15.000_standing_assessment.md` (9/44 glossed)
+- [CHAPTER SIXTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_16.000_standing_measurement.md` (11/37 glossed)
 - [CHAPTER SEVENTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-seventeen-standing-integration--question-3-what-follows) — `core_17.000_standing_integration.md` (20/20 glossed)
-- [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (7/9 glossed)
-- [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (36/45 glossed)
-- [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (8/15 glossed)
+- [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (8/9 glossed)
+- [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (37/45 glossed)
+- [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (9/15 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (13/22 glossed)
-- [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (16/50 glossed)
+- [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
 - [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (9/29 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/31 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (42/43 glossed)
@@ -56,9 +56,9 @@ Coverage: **819** of **1323** headings carry a gloss (62%).
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_24.000_governance.md` (13/15 glossed)
-- [CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-five-non-regression-and-substantive-amendment-validity) — `core_25.000_non_regression.md` (5/6 glossed)
-- [CHAPTER TWENTY-SIX: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) — `core_26.000_expansion_supremacy.md` (13/14 glossed)
-- [CHAPTER TWENTY-SEVEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-seven-amendment-ratification-and-procedural-validity) — `core_27.000_amendment_ratification.md` (18/19 glossed)
+- [CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-five-non-regression-and-substantive-amendment-validity) — `core_25.000_non_regression.md` (6/6 glossed)
+- [CHAPTER TWENTY-SIX: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) — `core_26.000_expansion_supremacy.md` (14/14 glossed)
+- [CHAPTER TWENTY-SEVEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-seven-amendment-ratification-and-procedural-validity) — `core_27.000_amendment_ratification.md` (19/19 glossed)
 - [CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE](#chapter-twenty-eight-incorporation-bridge) — `core_28.000_incorporation.md` (5/5 glossed)
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
@@ -165,11 +165,11 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 Source file: [`core_01.000_values_principles.md`](../../core_01.000_values_principles.md) · 21/38 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 Chapter One sets the values and constraints that govern every other chapter. Shared systems must pursue **Flourishing** and **Continuity** together — not one at the expense of the other — and no single value may be maximized at the expense of the others.
 
-[Source](../../core_01.000_values_principles.md#1-purpose-and-role)
+[Source](../../core_01.000_values_principles.md#1-purpose-role-and-scope)
 
 #### 2. Flourishing Aim: Introduction
 
@@ -977,13 +977,13 @@ a definition doesn't just have to hold together on paper — it has to hold toge
 
 ## CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE
 
-Source file: [`core_03.000_definition_integrity.md`](../../core_03.000_definition_integrity.md) · 5/16 headings glossed
+Source file: [`core_03.000_definition_integrity.md`](../../core_03.000_definition_integrity.md) · 6/16 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+this chapter says when a system fails a definition in practice: when what it does or produces would violate the definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.
 
-[Source](../../core_03.000_definition_integrity.md#1-purpose-and-role)
+[Source](../../core_03.000_definition_integrity.md#1-purpose-role-and-scope)
 
 #### 2. Definition Integrity and Anti-Evasion Constraints
 
@@ -1071,13 +1071,13 @@ when something fails a definition, a finding profile is an optional label that s
 
 ## CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION
 
-Source file: [`core_04.000_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md) · 7/8 headings glossed
+Source file: [`core_04.000_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md) · 8/8 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+if you claim compliance, you prove it, through one five-step check. The proof has to be real, open to inspection in practice, and checkable by others, even where security narrows how or when it is shown.
 
-[Source](../../core_04.000_burden_traceability_verification.md#1-purpose-and-role)
+[Source](../../core_04.000_burden_traceability_verification.md#1-purpose-role-and-scope)
 
 #### 2. Exclusive Enforcement and Burden Allocation
 
@@ -3443,13 +3443,13 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 7/63 headings glossed
+Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 8/63 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. This chapter says who must publish a System Charter or an Institutional Charter, what each must state, and how it is checked and kept true. Nobody needs permission to form.
 
-[Source](../../core_07.000_charters.md#1-purpose-and-role)
+[Source](../../core_07.000_charters.md#1-purpose-role-and-scope)
 
 #### 2. When System and Institutional Charters Are Required
 
@@ -4289,13 +4289,13 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](../../core_10.000_system_alignment_certification_forum_process_outcomes.md) · 10/36 headings glossed
+Source file: [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](../../core_10.000_system_alignment_certification_forum_process_outcomes.md) · 11/36 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+once a system has been evaluated, independent forums review the result in a set order and publish an outcome. This chapter says how the forums work and what outcomes they can reach, including the gate before go-live.
 
-[Source](../../core_10.000_system_alignment_certification_forum_process_outcomes.md#1-purpose-and-role)
+[Source](../../core_10.000_system_alignment_certification_forum_process_outcomes.md#1-purpose-role-and-scope)
 
 #### 2. Forum Process
 
@@ -4503,13 +4503,13 @@ a denial or revocation changes what the operator may say about its system, who i
 
 ## CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING
 
-Source file: [`core_11.000_system_alignment_certification_records_recertification.md`](../../core_11.000_system_alignment_certification_records_recertification.md) · 11/35 headings glossed
+Source file: [`core_11.000_system_alignment_certification_records_recertification.md`](../../core_11.000_system_alignment_certification_records_recertification.md) · 12/35 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+a certification only works if it is kept where it can be checked, re-checked on a schedule, challenged when it is wrong, and kept separate from standing. Certification can feed standing, but it is not standing.
 
-[Source](../../core_11.000_system_alignment_certification_records_recertification.md#1-purpose-and-role)
+[Source](../../core_11.000_system_alignment_certification_records_recertification.md#1-purpose-role-and-scope)
 
 #### 2. System Certification Record
 
@@ -4775,13 +4775,13 @@ the same rule as in the section before: a Rights-Floor or domain check runs on t
 
 ## CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_13.000_institutional_alignment_certification_forum_process_outcomes.md`](../../core_13.000_institutional_alignment_certification_forum_process_outcomes.md) · 8/14 headings glossed
+Source file: [`core_13.000_institutional_alignment_certification_forum_process_outcomes.md`](../../core_13.000_institutional_alignment_certification_forum_process_outcomes.md) · 9/14 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+the same independent forums, in the same order, review the institution, and the institution never chooses its own reviewer. A published outcome never decides whether the institution may exist or operate.
 
-[Source](../../core_13.000_institutional_alignment_certification_forum_process_outcomes.md#1-purpose-and-role)
+[Source](../../core_13.000_institutional_alignment_certification_forum_process_outcomes.md#1-purpose-role-and-scope)
 
 #### 2. Forum Process
 
@@ -4857,13 +4857,13 @@ a denial or revocation changes what the Institution may say about itself, who is
 
 ## CHAPTER FOURTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING
 
-Source file: [`core_14.000_institutional_alignment_certification_records_recertification.md`](../../core_14.000_institutional_alignment_certification_records_recertification.md) · 10/30 headings glossed
+Source file: [`core_14.000_institutional_alignment_certification_records_recertification.md`](../../core_14.000_institutional_alignment_certification_records_recertification.md) · 11/30 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+the outcome is kept on an Institutional Certification Record held by an office the institution does not control. The certification is re-checked on a schedule and when something material changes, and it can be challenged. It may feed standing, but it is a separate thing from standing.
 
-[Source](../../core_14.000_institutional_alignment_certification_records_recertification.md#1-purpose-and-role)
+[Source](../../core_14.000_institutional_alignment_certification_records_recertification.md#1-purpose-role-and-scope)
 
 #### 2. Institutional Certification Record
 
@@ -5035,13 +5035,13 @@ certification can feed standing, but it is not standing. An Institutional Certif
 
 ## CHAPTER FIFTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED
 
-Source file: [`core_15.000_standing_assessment.md`](../../core_15.000_standing_assessment.md) · 8/44 headings glossed
+Source file: [`core_15.000_standing_assessment.md`](../../core_15.000_standing_assessment.md) · 9/44 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.
 
-[Source](../../core_15.000_standing_assessment.md#1-purpose-and-role)
+[Source](../../core_15.000_standing_assessment.md#1-purpose-role-and-scope)
 
 #### 2. The Three Questions
 
@@ -5297,13 +5297,13 @@ once custody is settled, four rules govern how the sentients and offices that ho
 
 ## CHAPTER SIXTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
 
-Source file: [`core_16.000_standing_measurement.md`](../../core_16.000_standing_measurement.md) · 10/37 headings glossed
+Source file: [`core_16.000_standing_measurement.md`](../../core_16.000_standing_measurement.md) · 11/37 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+Question 2 measures the verified facts from Question 1. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score.
 
-[Source](../../core_16.000_standing_measurement.md#1-purpose-and-role)
+[Source](../../core_16.000_standing_measurement.md#1-purpose-role-and-scope)
 
 #### 2. Question 2 — How Good or Bad Was It?
 
@@ -5635,13 +5635,13 @@ descriptors and attachments point to the matching bars, remedies, safeguards, an
 
 ## CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES
 
-Source file: [`core_18.000_contribution_consequences.md`](../../core_18.000_contribution_consequences.md) · 7/9 headings glossed
+Source file: [`core_18.000_contribution_consequences.md`](../../core_18.000_contribution_consequences.md) · 8/9 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.
 
-[Source](../../core_18.000_contribution_consequences.md#1-purpose-and-role)
+[Source](../../core_18.000_contribution_consequences.md#1-purpose-role-and-scope)
 
 #### 2. Contribution Consequences
 
@@ -5687,13 +5687,13 @@ every clearance result must be readable on its face: what was decided, against w
 
 ## CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS
 
-Source file: [`core_19.000_violation_consequences.md`](../../core_19.000_violation_consequences.md) · 36/45 headings glossed
+Source file: [`core_19.000_violation_consequences.md`](../../core_19.000_violation_consequences.md) · 37/45 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+something bad happened. This chapter says how to make a durable fix: remedy and correction first, then prevention locks, then voluntary public accountability expression where a restorative pathway uses it, and the remedy-parity rule that keeps the cheap half from outrunning the expensive half.
 
-[Source](../../core_19.000_violation_consequences.md#1-purpose-and-role)
+[Source](../../core_19.000_violation_consequences.md#1-purpose-role-and-scope)
 
 #### 2. Violation, Correction, and Prevention
 
@@ -5955,13 +5955,13 @@ a hold is what a forum may do on specific verified facts while the full facts ar
 
 ## CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT
 
-Source file: [`core_20.000_final_effect_restoration_enforcement.md`](../../core_20.000_final_effect_restoration_enforcement.md) · 8/15 headings glossed
+Source file: [`core_20.000_final_effect_restoration_enforcement.md`](../../core_20.000_final_effect_restoration_enforcement.md) · 9/15 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+when the earlier steps are done, the system must state, one gated pathway at a time, what is open, limited, or blocked. That statement is not a dignity rank or a merged score. A lock that is not permanent must have a real way back.
 
-[Source](../../core_20.000_final_effect_restoration_enforcement.md#1-purpose-and-role)
+[Source](../../core_20.000_final_effect_restoration_enforcement.md#1-purpose-role-and-scope)
 
 #### 2. Final Standing Effect
 
@@ -6045,11 +6045,11 @@ standing consequences and redress count only when real institutions can deliver 
 
 Source file: [`core_21.000_misconduct_designation.md`](../../core_21.000_misconduct_designation.md) · 13/22 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.
 
-[Source](../../core_21.000_misconduct_designation.md#1-purpose-and-role)
+[Source](../../core_21.000_misconduct_designation.md#1-purpose-role-and-scope)
 
 #### 2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 
@@ -6173,13 +6173,13 @@ a public apology in an anti-constitutional misconduct case must meet Chapter Sev
 
 ## CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING
 
-Source file: [`core_22.000_misconduct_pattern_applications.md`](../../core_22.000_misconduct_pattern_applications.md) · 16/50 headings glossed
+Source file: [`core_22.000_misconduct_pattern_applications.md`](../../core_22.000_misconduct_pattern_applications.md) · 17/50 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+this chapter applies [Chapter Twenty-One](../../core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.
 
-[Source](../../core_22.000_misconduct_pattern_applications.md#1-purpose-and-role)
+[Source](../../core_22.000_misconduct_pattern_applications.md#1-purpose-role-and-scope)
 
 #### 2. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity
 
@@ -6657,11 +6657,11 @@ Chapter Six states the basic Rights Floors no sentient may be pushed below. Thos
 
 [Source](../../core_06.000_rights_part_a.md#11-practical-enforcement)
 
-##### 1.2 Layer Scope
+##### 1.2 Owner Non-Relocation
 
 Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Preamble — constitutional owner register](../../core_00.000_preamble.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../core_05.045_band_integrative.md#owner-non-relocation).
 
-[Source](../../core_06.000_rights_part_a.md#12-layer-scope)
+[Source](../../core_06.000_rights_part_a.md#12-owner-non-relocation)
 
 #### Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources
 
@@ -7559,11 +7559,11 @@ non-compliant systems and property can be remediated during Adoption Transition 
 
 Source file: [`core_24.000_governance.md`](../../core_24.000_governance.md) · 13/15 headings glossed
 
-#### 1. Layer Boundary for This Chapter
+#### 1. Purpose, Role, and Scope
 
 this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.
 
-[Source](../../core_24.000_governance.md#1-layer-boundary-for-this-chapter)
+[Source](../../core_24.000_governance.md#1-purpose-role-and-scope)
 
 #### 2. Authorization and Legitimacy of Governing Authority
 
@@ -7645,13 +7645,13 @@ power must sit with **stewards** and **officers** who can actually do the job �
 
 ## CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY
 
-Source file: [`core_25.000_non_regression.md`](../../core_25.000_non_regression.md) · 5/6 headings glossed
+Source file: [`core_25.000_non_regression.md`](../../core_25.000_non_regression.md) · 6/6 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, or an emergency label. This chapter is Test 1, the substance test.
 
-[Source](../../core_25.000_non_regression.md#1-purpose-and-role)
+[Source](../../core_25.000_non_regression.md#1-purpose-role-and-scope)
 
 #### 2. Non-Regression Floor
 
@@ -7679,13 +7679,13 @@ Chapter Twenty-Five can demand extra review, preserve evidence, or pause things 
 
 ## CHAPTER TWENTY-SIX: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS
 
-Source file: [`core_26.000_expansion_supremacy.md`](../../core_26.000_expansion_supremacy.md) · 13/14 headings glossed
+Source file: [`core_26.000_expansion_supremacy.md`](../../core_26.000_expansion_supremacy.md) · 14/14 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.
 
-[Source](../../core_26.000_expansion_supremacy.md#1-purpose-and-role)
+[Source](../../core_26.000_expansion_supremacy.md#1-purpose-role-and-scope)
 
 #### 2. Additive Expansion Permitted
 
@@ -7761,13 +7761,13 @@ if you are using this Constitution inside a company, university, protocol, city,
 
 ## CHAPTER TWENTY-SEVEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 
-Source file: [`core_27.000_amendment_ratification.md`](../../core_27.000_amendment_ratification.md) · 18/19 headings glossed
+Source file: [`core_27.000_amendment_ratification.md`](../../core_27.000_amendment_ratification.md) · 19/19 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-*(no plain-terms gloss in source)*
+a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.
 
-[Source](../../core_27.000_amendment_ratification.md#1-purpose-and-role)
+[Source](../../core_27.000_amendment_ratification.md#1-purpose-role-and-scope)
 
 #### 2. Heightened Review for Rights-Affecting Changes
 
@@ -7865,7 +7865,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 [Source](../../core_27.000_amendment_ratification.md#122-recorded-effectiveness)
 
-#### 13. Layer Scope
+#### 13. Owner Non-Relocation
 
 Chapter Twenty-Seven owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Sixteen §7 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Twenty-One anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
@@ -7875,11 +7875,11 @@ Chapter Twenty-Seven owns how amendments are published, chained, reviewed, and r
 
 Source file: [`core_28.000_incorporation.md`](../../core_28.000_incorporation.md) · 5/5 headings glossed
 
-#### 1. Role of This Chapter
+#### 1. Purpose, Role, and Scope
 
 this section names the bridge — which implementation files can bind, how adoption makes them operative, that later edits do not silently rewrite what was adopted, and that pointing here (or to an incorporated file) invokes only the obligations inside the recorded adoption scope.
 
-[Source](../../core_28.000_incorporation.md#1-role-of-this-chapter)
+[Source](../../core_28.000_incorporation.md#1-purpose-role-and-scope)
 
 #### 2. Custody, Editions, and Operative Effect
 

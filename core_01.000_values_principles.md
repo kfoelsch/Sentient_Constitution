@@ -60,7 +60,7 @@
 
 Chapter One, Part A, is the constitutional owner of **the Flourishing and Continuity principles**, including wellbeing, Safety, Truth, Trust, bounded freedom, shared-system capacity, resilience, market structure, and systemic evaluation. Collision resolution and interpretation are in **Part B**; stewardship and governance are in **Part C**.
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -123,43 +123,38 @@ Chapter One, Part A, is the constitutional owner of **the Flourishing and Contin
 
 *In plain terms: Chapter One sets the values and constraints that govern every other chapter. Shared systems must pursue **Flourishing** and **Continuity** together — not one at the expense of the other — and no single value may be maximized at the expense of the others.*
 
-<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — [**Flourishing**](core_00.000_preamble.md#flourishing) and [**Continuity**](core_00.000_preamble.md#continuity) — established in [Preamble §1 The Model](core_00.000_preamble.md#the-model) into operative principles and constraints. Canonical principle-layer definitions live in the Preamble; this chapter applies them.
+<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>**Purpose.** This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — [**Flourishing**](core_00.000_preamble.md#flourishing) and [**Continuity**](core_00.000_preamble.md#continuity) — established in [Preamble §1 The Model](core_00.000_preamble.md#the-model) into operative principles and constraints.
 
 Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00.000_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00.000_preamble.md#material-stake).
-
-The chapter is organized around those two aims and that Tetrad:
-- **Flourishing:** [Flourishing Aim: Introduction](#2-flourishing-aim-introduction) maps the aim. [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) states the outcome. [§4 Safety](#4-safety-harm-constraint), [§5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity), and [§7 Freedom](#7-freedom-bounded-agency) develop the four conditions that sustain it: safety, truth, trustworthiness, and meaningful agency.
-- **Continuity:** [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction) maps the aim. [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity) (a means toward Flourishing that is also the substance of Continuity), [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) develop long-horizon stability, durable shared-system capacity, and resilience. Continuity claims rest on an honest, whole-system picture: every claim in §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure stands only after the evaluation in §12 Systemic Evaluation Requirement.
-- **When principles meet:** [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§15 Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation) govern how the aims and principles are weighed and read together.
-- **The Tetrad in practice:** [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) through [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) carry participation, oversight, accountability, and timeliness into stewardship, governance, and incentives, and [§20 Integrated Application](core_01.050_governance_incentive_application.md#20-integrated-application) applies the whole chapter to every later chapter.
-
-Each principle's **Trace** lists the Chapter Six Articles that protect it, and its **Definitions (O · M · A · C)** widget lists the Chapter Five definitions that measure it.
 
 **Diagram: Two Constitutional Aims and the Constitutional Tetrad**
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
 ```mermaid
+%%{init: {"flowchart": {"rankSpacing": 30, "nodeSpacing": 40}}}%%
 flowchart TB
-    subgraph Foundation[" "]
-        direction TB
-        subgraph Aims["Two Constitutional Aims"]
-            direction LR
-            F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
-            C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
-        end
-        subgraph Tetrad["Constitutional Tetrad"]
-            direction LR
-            P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
-            O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
-            A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
-            T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
-        end
-    end
-    F ~~~ P
-    style Foundation fill:none,stroke:none
-    style Aims fill:none,stroke:none
-    style Tetrad fill:none,stroke:none
+    TA["Two Constitutional Aims"]
+    F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
+    C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
+    GAP[" "]
+    TT["Constitutional Tetrad"]
+    P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
+    O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
+    A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
+    T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
+    TA ~~~ F
+    TA ~~~ C
+    F ~~~ GAP
+    C ~~~ GAP
+    GAP ~~~ TT
+    TT ~~~ P
+    TT ~~~ O
+    P ~~~ A
+    O ~~~ T
+    style TA fill:none,stroke:none,color:#ffffff
+    style TT fill:none,stroke:none,color:#ffffff
+    style GAP fill:none,stroke:none
     style F fill:none,stroke:#16a34a,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
     style P fill:none,stroke:#0f766e,color:#ffffff
@@ -170,12 +165,30 @@ flowchart TB
 
 *The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00.000_preamble.md#material-stake), and both aims remain bounded by the Rights Floor. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad).*
 
-These values:
+**Role.** Canonical principle-layer definitions live in the Preamble; this chapter applies them. The values in this chapter:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
 - function as interacting principles and constraints that must be evaluated together.
 - apply to all "systems," which include technical, organizational, economic, socio-technical structures, and ecosystems that materially affect sentients and the planet Earth.
 
 No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable principle constraints, **§13** Constitutional Collision Resolution Process controls precedence.
+
+**Chapter scope.** The chapter is organized around those two aims and that Tetrad:
+- **Flourishing:**
+  - [Flourishing Aim: Introduction](#2-flourishing-aim-introduction) maps the aim.
+  - [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) states the outcome.
+  - [§4 Safety](#4-safety-harm-constraint), [§5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity), and [§7 Freedom](#7-freedom-bounded-agency) develop the four conditions that sustain it: safety, truth, trustworthiness, and meaningful agency.
+- **Continuity:**
+  - [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction) maps the aim.
+  - [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity) (a means toward Flourishing that is also the substance of Continuity), [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) develop long-horizon stability, durable shared-system capacity, and resilience.
+  - Continuity claims rest on an honest, whole-system picture: every claim in §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure stands only after the evaluation in §12 Systemic Evaluation Requirement.
+- **When principles meet:**
+  - [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [§14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override) govern how the aims and principles are weighed together.
+  - [§15 Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation) governs how they are read together.
+- **The Tetrad in practice:**
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) through [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) carry participation, oversight, accountability, and timeliness into stewardship, governance, and incentives.
+  - [§20 Integrated Application](core_01.050_governance_incentive_application.md#20-integrated-application) applies the whole chapter to every later chapter.
+
+Each principle's **Trace** lists the Chapter Six Articles that protect it, and its **Definitions (O · M · A · C)** widget lists the Chapter Five definitions that measure it.
 
 <a id="2-flourishing-aim-introduction"></a>
 ### 2. Flourishing Aim: Introduction
@@ -184,7 +197,7 @@ No single principle may be applied in isolation where doing so would materially 
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs apply to how Flourishing is pursued; [material stake](core_00.000_preamble.md#material-stake) scales the depth of every Flourishing claim.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — the **Flourishing** aim; its partner aim is introduced in [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction).
-- Upstream: Principles: [Preamble §1 The Model](core_00.000_preamble.md#flourishing); [Flourishing (Constitutional Aim)](core_05.015_apex_flourishing_aim.md#flourishing-constitutional); [§1 Purpose and Role](#1-purpose-and-role).
+- Upstream: Principles: [Preamble §1 The Model](core_00.000_preamble.md#flourishing); [Flourishing (Constitutional Aim)](core_05.015_apex_flourishing_aim.md#flourishing-constitutional); [§1 Purpose and Role](#1-purpose-role-and-scope).
 - Downstream:
   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](#3-foundational-objective-wellbeing-flourishing-aim),
   - [§4 Safety (Harm Constraint)](#4-safety-harm-constraint),

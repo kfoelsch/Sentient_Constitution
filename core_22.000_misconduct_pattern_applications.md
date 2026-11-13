@@ -15,9 +15,28 @@
 <br>
 
 Chapter Twenty-Two**, is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Anti-constitutional-misconduct designation (ACMD) criteria, attachment, and due-process safeguards are in **[Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)**.
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: this chapter applies [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
+
+**Purpose.** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 3 to 5**. Each is judged by what the conduct actually does. The patterns are:
+
+- attacks on participation and accountability-pathway integrity (**section 2**);
+- blocking contest, review, and verification (**section 3**);
+- corrupting and commanding duty-holders (**section 4**);
+- shielding misconduct and failing to enforce (**section 5**);
+- structural control through concentration and dependency (**section 6**); and
+- obstruction of accountability (**section 7**).
+
+**Role.** The chapter is jointly owned with Chapter Twenty-One, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
+
+- It takes the ACMD criteria and safeguards from Chapter Twenty-One as fixed.
+- After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) integrates the standing effect, and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case and certifies the forum.
+
+**Chapter scope.** The chapter covers the named patterns (**section 2** to **section 7**). It adds no ACMD criteria and no Chapter Seventeen lock types. It leaves:
+
+- ACMD criteria, attachment rules, and due-process safeguards to Chapter Twenty-One; and
+- operational forum, systems, and institutional mechanics to their owner chapters.
 
 
 ### 2. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity

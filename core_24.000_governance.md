@@ -24,7 +24,7 @@ Chapter Twenty-Four is the constitutional owner of **constitutional-contract leg
 
 This chapter states the **Constitutional Contract Layer**: constitutional legitimacy and stewardship requirements for governing authority itself. It defines who may govern, what permits governing power, and what stewardship character must be maintained.
 
-### 1. Layer Boundary for This Chapter
+### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -38,12 +38,21 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 
 *In plain terms: this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.*
 
-This section sets out the boundaries of this chapter:
+**Purpose.** Chapter Twenty-Four states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. The minimum bar lives here.
 
-- It sets constitutional requirements, not full operating detail.
-- Participation, due-process, and binding-adoption gates remain anchored in Chapter Six (especially **Article XII-A** (*Stakeholder System Participation and Representation*)).
-- **General** standing measurement under **Chapter Sixteen** (Contribution Axis and Violation Axis — contribution **state**, violation nature, and every numeric impact slot) remains **Chapter Sixteen**-anchored. **Final anti-constitutional-misconduct designation (ACMD)** for qualifying **Violation Axis slot 7, 8, or 9** findings remains anchored in **Chapter Twenty-One**; Chapter Twenty-One does not assign or move the numeric slot.
-- Detailed procedure, staffing, voting implementation, and execution protocols are owned by designated implementation layers.
+**Role.** The chapter sets constitutional requirements for governing authority itself, not full operating detail:
+
+- It takes the integrated constraint stack in [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) and the [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floor as fixed.
+- **Sections 2 to 6** carry its stewardship and collective-choice requirements.
+- Amendment and adoption validity continue in [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity).
+
+**Chapter scope.** The chapter sets constitutional requirements, not full operating detail. It leaves:
+
+- participation, due-process, and binding-adoption gates to Chapter Six (especially **Article XII-A** (*Stakeholder System Participation and Representation*));
+- **general** standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (Contribution Axis and Violation Axis: contribution **state**, violation nature, and every numeric impact slot);
+- **final anti-constitutional-misconduct designation (ACMD)** for qualifying **Violation Axis slot 7, 8, or 9** findings to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation), which does not assign or move the numeric slot; and
+- detailed procedure, staffing, voting implementation, and execution protocols to designated implementation layers.
+
 
 ### 2. Authorization and Legitimacy of Governing Authority
 <details>
@@ -53,7 +62,7 @@ This section sets out the boundaries of this chapter:
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
   - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process);
-  - [§1](#1-layer-boundary-for-this-chapter).
+  - [§1](#1-purpose-role-and-scope).
 - Subsections: [§2.1](#21-mechanism-families-auditability-and-pluralism) (*Mechanism Families, Auditability, and Pluralism*); [§2.2](#22-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, Contested Selection, and Democratic Minimums*); [§2.3](#23-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under
   - [§§ 3–6](#3-ethical-culture-and-integrity-federated-scale); adoption and ratification under

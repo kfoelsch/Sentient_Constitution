@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This entire file is **reader guidance only**. It is not binding incorporated implementation text. It does not add, remove, or narrow duties under [Chapter Twenty-Eight](../core_28.000_incorporation.md). Binding homes remain **CJS-0.110 §0** (*Purpose of This Layer*), **CJS-0.110 §1**, **CJS-0.110 §3**, **CJS-5.140 §13**–**CJS-5.140 §14**, **CJS-28.110**, and **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**.
+> This entire file is **reader guidance only**. It is not binding incorporated implementation text. It does not add, remove, or narrow duties under [Chapter Twenty-Eight](../core_28.000_incorporation.md). Binding homes remain **CJS-0.110 §0** (*Purpose, Role, and Scope*), **CJS-0.110 §1**, **CJS-0.110 §3**, **CJS-5.140 §13**–**CJS-5.140 §14**, **CJS-28.110**, and **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**.
 >
 > The [Joint structure landing page](../corpus_joint_structure.md) remains the layer landing. This file is the human how-to-read annex — not a second front door.
 
@@ -20,7 +20,7 @@ You do **not** need to read this folder front to back. Most readers open one cit
 
 | If you are… | Start here |
 |---|---|
-| **New to this layer** — you want the shared glue among systems, institutions, and forums | Keep reading this guide, then open [CJS-0.110 §0 Purpose of This Layer](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-of-this-layer) |
+| **New to this layer** — you want the shared glue among systems, institutions, and forums | Keep reading this guide, then open [CJS-0.110 §0 Purpose, Role, and Scope](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-role-and-scope) |
 | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section; maintainer table: [CJS-0.105 §1 Cross-File Routing](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) |
 | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
 | **Following a citation** — a file sent you to **CJS-0.110 §1**, **CJS-28.110 §3**, or another labeled section | Open that section only, not the whole family |
@@ -35,7 +35,7 @@ You do **not** need to read this folder front to back. Most readers open one cit
 | **CI** | [Institutions](../corpus_institutions.md) | How bodies are formed, authorized, overseen, corrected, and dissolved |
 | **CF** | [Forums](../corpus_forum.md) | How panels form, cases route, appeals work, and hearings stay independent |
 
-Binding purpose of this layer: [CJS-0.110 §0](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-of-this-layer) (*Purpose of This Layer*). What the layer owns and does not own: the lists on [CJS-0.110](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-scope-purpose-and-boundary-interface) (*Scope, purpose, and boundary interface*).
+Binding purpose of this layer: [CJS-0.110 §0](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-role-and-scope) (*Purpose, Role, and Scope*). What the layer owns and does not own: the lists on [CJS-0.110](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-scope-purpose-and-boundary-interface) (*Scope, purpose, and boundary interface*).
 
 Domain doors: [CS-0.310](../corpus_systems/cs_00.310_scope_purpose_identifier_rules.md#cs-0310-scope-purpose-and-boundary-interface) (*Scope, purpose, and boundary interface*), [CI-0.210](../corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md#ci-0210-scope-purpose-and-legitimacy-interface) (*Scope, purpose, and legitimacy interface*), [CF-0.410](../corpus_forum/cf_00.410_scope_authority_boundary_rules.md#cf-0410-scope-authority-and-boundary-rules) (*Scope, authority, and boundary rules*).
 

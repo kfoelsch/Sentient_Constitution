@@ -104,26 +104,29 @@ Their source is the [Preamble’s Constitutional Tetrad](../core_00.000_preamble
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
 ```mermaid
+%%{init: {"flowchart": {"rankSpacing": 30, "nodeSpacing": 40}}}%%
 flowchart TB
-    subgraph Foundation[" "]
-        direction TB
-        subgraph Aims["Two Constitutional Aims"]
-            direction LR
-            F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
-            C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
-        end
-        subgraph Tetrad["Constitutional Tetrad"]
-            direction LR
-            P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
-            O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
-            A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
-            T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
-        end
-    end
-    F ~~~ P
-    style Foundation fill:none,stroke:none
-    style Aims fill:none,stroke:none
-    style Tetrad fill:none,stroke:none
+    TA["Two Constitutional Aims"]
+    F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
+    C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
+    GAP[" "]
+    TT["Constitutional Tetrad"]
+    P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
+    O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
+    A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
+    T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
+    TA ~~~ F
+    TA ~~~ C
+    F ~~~ GAP
+    C ~~~ GAP
+    GAP ~~~ TT
+    TT ~~~ P
+    TT ~~~ O
+    P ~~~ A
+    O ~~~ T
+    style TA fill:none,stroke:none,color:#ffffff
+    style TT fill:none,stroke:none,color:#ffffff
+    style GAP fill:none,stroke:none
     style F fill:none,stroke:#16a34a,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
     style P fill:none,stroke:#0f766e,color:#ffffff

@@ -18,12 +18,38 @@
 
 Chapter Fourteen is the constitutional owner of **Institutional Certification Records, recertification, challenge, and standing consequences of institutional alignment certification**.
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: the outcome is kept on an Institutional Certification Record held by an office the institution does not control. The certification is re-checked on a schedule and when something material changes, and it can be challenged. It may feed standing, but it is a separate thing from standing.*
 
+**Purpose.** Chapter Fourteen states what happens after an institutional outcome:
 
-<a id="2-institutional-certification-record"></a>
+- what the Institutional Certification Record must contain, how open it is, and how it is audited (**section 2**);
+- monitoring and recertification with reopening triggers, provisional and full certification, non-evasion, the cascade from System certifications, and the reopening of the Institution's Systems (**section 3**);
+- the challenge path (**section 4**); and
+- how an institutional certification relates to standing (**section 5**).
+
+If one of an Institution's Systems loses its certification, the Institution answers for what that says about the Institution, and no more. If the Institution is found to have governed badly, its Systems are looked at again.
+
+**Role.** The chapter is the Institution's counterpart to [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing):
+
+- It takes the outcome from [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) as fixed.
+- It cites System Certification Records by link and does not copy or re-decide them.
+- [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) accepts verified facts from this chapter only at the verified-input gate (**section 5.3**), and what they do to standing is decided there and in [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement).
+
+**Chapter scope.** The chapter covers:
+
+- the Institutional Certification Record (**section 2**);
+- recertification and reopening (**section 3**);
+- challenge (**section 4**); and
+- the standing bridge (**section 5**).
+
+The chapter leaves:
+
+- evaluation to [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) and forum process and outcomes to Chapter Thirteen;
+- System certification records and recertification to Chapter Eleven; and
+- standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it), and the later standing steps to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows).
+
 
 ### 2. Institutional Certification Record
 
