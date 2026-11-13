@@ -1,0 +1,5 @@
+<!-- Locale: ru | Baseline commit: eb2e7a0b39e7e93611fb8ab439652661b411013e; baseline SHA-256: cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e | Source commit: 067ac0cdbd0178e154ee55a1d1c908818f4555dd; source SHA-256: 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5 | AI-drafted, unreviewed | Partial current-source update; 2 replacement rows -->
+
+- **Что не является новым:** правопреемник, переименованная, разделённая или переданная организация, сохраняющая того же оператора, контроль или Систему ([Часть C §9.4 Недопущение уклонения](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [Глава третья §2.1 Типичные схемы уклонения](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+
+- **В форум, рассматривающий дело названного разумного существа:** если вывод сертификации основан на том, что разумное существо использовало Систему для совершения нарушения, ведущий форум передаёт факты форуму, обладающему юрисдикцией в отношении этого существа.

@@ -1,0 +1,3 @@
+<!-- Locale: ja | Source: 067ac0cdbd0178e154ee55a1d1c908818f4555dd (SHA-256 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5) | Baseline: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e) | AI-drafted, unreviewed | Partial current-source update -->
+- **新規ではないもの：** 同じ運営者、統制、またはシステムを引き継ぐ後継、改名、分割、または移転された主体 ([Part C §9.4 回避の禁止](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [第3章 §2.1 一般的な回避パターン](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+  - **指名されたsentientを管轄するフォーラムへ：** 認証判断が、sentientによる違反遂行のためのシステム利用に基づく場合、主担当フォーラムは事実をそのsentientを管轄するフォーラムに付託する。

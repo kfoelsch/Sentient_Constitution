@@ -2,7 +2,7 @@
 """One-shot: make file-top opening widgets contiguous.
 
 Rewrites the region after the H1 and before the first body heading so that
-Corpus placement / Reader guidance / Trace / D/A/C widgets sit together with
+Corpus placement / Reader guidance / Trace / O/M/A/C widgets sit together with
 only blank lines between them. Owner/home lines, ``<br>``, ``---``, and other
 prose move after the widget stack (with a single trailing ``<br>`` before that
 prose when any remains).

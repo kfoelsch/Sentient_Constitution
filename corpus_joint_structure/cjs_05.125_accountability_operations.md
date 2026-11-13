@@ -74,7 +74,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile) · [O](../core_05.035_band_accountability.md#non-compliance-finding-profile) · [M](../core_05.035_band_accountability.md#non-compliance-finding-profile-a) · [A](../core_05.035_band_accountability.md#non-compliance-finding-profile-a) · [C](../core_05.035_band_accountability.md#non-compliance-finding-profile-c)
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
@@ -463,7 +463,7 @@ Stewardship-role depth and non-symbolic governance boundary
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile) · [O](../core_05.035_band_accountability.md#non-compliance-finding-profile) · [M](../core_05.035_band_accountability.md#non-compliance-finding-profile-a) · [A](../core_05.035_band_accountability.md#non-compliance-finding-profile-a) · [C](../core_05.035_band_accountability.md#non-compliance-finding-profile-c)
 - [Proportionality](../core_05.035_band_accountability.md#proportionality) · [O](../core_05.035_band_accountability.md#proportionality) · [M](../core_05.035_band_accountability.md#proportionality-a) · [A](../core_05.035_band_accountability.md#proportionality-a) · [C](../core_05.035_band_accountability.md#proportionality-c)
@@ -724,7 +724,7 @@ Temporal discipline and revalidation
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile) · [O](../core_05.035_band_accountability.md#non-compliance-finding-profile) · [M](../core_05.035_band_accountability.md#non-compliance-finding-profile-a) · [A](../core_05.035_band_accountability.md#non-compliance-finding-profile-a) · [C](../core_05.035_band_accountability.md#non-compliance-finding-profile-c)
 - [Due Process](../core_05.035_band_accountability.md#due-process) · [O](../core_05.035_band_accountability.md#due-process) · [M](../core_05.035_band_accountability.md#due-process-constitutional-a) · [A](../core_05.035_band_accountability.md#due-process-constitutional-a) · [C](../core_05.035_band_accountability.md#due-process-constitutional-c)
@@ -1003,7 +1003,7 @@ Uncertainty safeguards and anti-abuse minimum
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)
 - [Transparency](../core_05.050_band_oversight.md#transparency) · [O](../core_05.050_band_oversight.md#transparency) · [M](../core_05.050_band_oversight.md#transparency-a) · [A](../core_05.050_band_oversight.md#transparency-a) · [C](../core_05.050_band_oversight.md#transparency-c)
@@ -1176,7 +1176,7 @@ Records, transparency, and challenge pathway duties
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Reversibility](../core_05.040_band_continuity.md#reversibility) · [O](../core_05.040_band_continuity.md#reversibility) · [M](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../core_05.040_band_continuity.md#reversibility-constitutional-c)

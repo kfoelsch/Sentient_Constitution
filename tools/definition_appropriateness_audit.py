@@ -252,7 +252,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             message=gap.get("issue", "Principle missing definition anchors"),
             severity="error",
             expected_layer="Chapter Five band file",
-            action="add D/A/C anchors",
+            action="add O/M/A/C anchors",
         )
     for gap in auditor.accuracy_gaps:
         _add_finding(

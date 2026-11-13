@@ -6,7 +6,7 @@ against the same merged anchor model as ``ch5_dac_widget_audit`` (explicit
 ``<a id>`` tags, heading auto-slugs, and Part A unified A–Z directory slugs).
 
 This closes the gap left by ``reference_audit.py`` (Article Roman numerals only)
-and complements ``ch5_dac_widget_audit.py`` (D/A/C widget rows only): inline
+and complements ``ch5_dac_widget_audit.py`` (O/M/A/C widget rows only): inline
 prose links, Trace blocks, and cluster cross-links are checked here.
 
 Run: ``make ch5-cross-file-link-audit`` or ``python3 tools/ch5_cross_file_link_audit.py --root .``

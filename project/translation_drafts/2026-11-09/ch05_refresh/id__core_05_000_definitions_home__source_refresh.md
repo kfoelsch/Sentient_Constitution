@@ -1,0 +1,4 @@
+<!-- locale: id; source: 2c1d6a17; baseline: 25543051cf91dea70255e5b1c47900cd7b72d6f1; AI-drafted/unreviewed; partial changed-passage refresh -->
+> Catatan bacaan bahasa sederhana: Baca **Bab Satu** untuk nilai dan arah tingkat tinggi; **Bab Dua sampai Empat** untuk struktur definisi, integritas, dan mekanisme verifikasi; serta **Bab Enam** untuk lantai dasar **hak**, lalu kembali ke bab ini untuk ketepatan istilah dalam penafsiran, audit, dan ajudikasi. (Bab lain juga berlaku melalui jalur baca masing-masing, termasuk **Bab Empat Belas** *Perilaku Menyimpang* dan **Bab Sebelas** *Kedudukan*; keduanya bukan pengganti Lantai Hak dalam Bab Enam atau mekanisme definisi dalam Bab Dua sampai Empat.)
+- [Jalur Berpagar](core_05.035_band_accountability.md#gated-pathway)
+- [Dalam Gugatan](core_05.035_band_accountability.md#under-challenge)

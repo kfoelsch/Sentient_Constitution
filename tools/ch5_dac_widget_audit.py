@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chapter Five anchor-presence and D/A/C widget row-shape integrity audit.
+"""Chapter Five anchor-presence and O/M/A/C widget row-shape integrity audit.
 
 Rule: NAV-DAC-12 in tools/architecture/rule_registry.json.
 
@@ -24,13 +24,13 @@ audits. It enforces two invariants:
      ``- C:`` body bullets. No ``-e`` / ``-c`` anchors required.
    - **Content gaps** (``MISSING_C``) — entries that have an ``- E:`` bullet
      but deliberately lack a top-level ``- C:`` bullet (pending future
-     authoring). The ``-c`` anchor requirement is relaxed; D/A/C widget rows
+     authoring). The ``-c`` anchor requirement is relaxed; O/M/A/C widget rows
      pointing at those entries fall back to the entry heading anchor for the
      C link.
 
-2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
+2. **O/M/A/C widget row-shape and anchor resolution.** Across the consumer core
    files (``core_00.000_preamble.md`, `core_01.000_values_principles.md`, and `core_01.040_stewardship_capacity_principles.md``, ``core_02.000_definition_structure.md``,
-   the four Chapter Fifteen parts), every line inside a D/A/C widget that appears
+   the four Chapter Fifteen parts), every line inside a O/M/A/C widget that appears
    to be a widget row must match the canonical shape:
 
        - [Name](core_05.035_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
@@ -83,7 +83,7 @@ _WIDGET_SLUG_SUFFIXES = (
     "-c",
 )
 
-# Files that host D/A/C widgets or inline Definition: lines. Chapter Five
+# Files that host O/M/A/C widgets or inline Definition: lines. Chapter Five
 # itself does not host widgets (definitions live there), but its own heading
 # anchors must still resolve — so Chapter Five is the canonical anchor source
 # rather than a consumer.
@@ -161,7 +161,7 @@ INLINE_ANCHOR_TAG_RE = re.compile(r'<a id="([^"]+)"></a>')
 
 DEC_SUMMARY_RE = re.compile(
     r'<summary><strong><span style="color: #2563eb;">'
-    r"Definitions · Assessment · Compliance</span></strong></summary>"
+    r"Definitions \(O · M · A · C\)</span></strong></summary>"
 )
 TRACE_SUMMARY_RE = re.compile(
     r'<summary><strong><span style="color: #2563eb;">'
@@ -170,7 +170,7 @@ TRACE_SUMMARY_RE = re.compile(
 DETAILS_OPEN_RE = re.compile(r"^\s*<details>\s*$")
 DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 
-# Canonical widget-row shape inside a D/A/C widget block. The separator is
+# Canonical widget-row shape inside a O/M/A/C widget block. The separator is
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
@@ -200,7 +200,7 @@ INLINE_RE = re.compile(
     r"\s*$"
 )
 
-# A loose "row-like" detector for catching mis-shaped rows inside a D/A/C
+# A loose "row-like" detector for catching mis-shaped rows inside a O/M/A/C
 # widget. We treat any line starting with a list bullet followed by a markdown
 # link as a candidate, so we can flag shape violations that ROW_RE does not
 # match.
@@ -485,7 +485,7 @@ def slug_from_ch5_href(href: str) -> str | None:
 def audit_widgets_in_file(
     path: Path, anchors: set[str]
 ) -> list[str]:
-    """Scan ``path`` for D/A/C widget blocks and inline Definition: lines,
+    """Scan ``path`` for O/M/A/C widget blocks and inline Definition: lines,
     returning violation strings.
 
     Checks:
@@ -504,14 +504,14 @@ def audit_widgets_in_file(
     n = len(lines)
     while i < n:
         line = lines[i]
-        # Detect a D/A/C widget: <details> followed by the DEC summary.
+        # Detect a O/M/A/C widget: <details> followed by the DEC summary.
         if DETAILS_OPEN_RE.match(line):
             # Peek next non-blank line.
             j = i + 1
             while j < n and lines[j].strip() == "":
                 j += 1
             if j < n and DEC_SUMMARY_RE.search(lines[j]):
-                # This is a D/A/C widget block. Walk until </details>.
+                # This is a O/M/A/C widget block. Walk until </details>.
                 block_start = i + 1
                 k = j + 1
                 while k < n and not DETAILS_CLOSE_RE.match(lines[k]):
@@ -537,24 +537,24 @@ def audit_widgets_in_file(
                     # Mis-shaped row-like line.
                     if ROW_LIKE_RE.match(raw):
                         violations.append(
-                            f"{path}:{k + 1}: D/A/C widget row does not "
+                            f"{path}:{k + 1}: O/M/A/C widget row does not "
                             f"match canonical shape "
                             f"'- [Name](...) · [O](...) · [M](...) · [A](...) · [C](...)': "
                             f"{stripped}"
                         )
                         k += 1
                         continue
-                    # Other non-empty content inside a D/A/C widget is a
+                    # Other non-empty content inside a O/M/A/C widget is a
                     # shape violation.
                     violations.append(
                         f"{path}:{k + 1}: unexpected non-row content inside "
-                        f"D/A/C widget block (started line {block_start}): "
+                        f"O/M/A/C widget block (started line {block_start}): "
                         f"{stripped}"
                     )
                     k += 1
                 if k >= n:
                     violations.append(
-                        f"{path}:{block_start}: unterminated D/A/C widget "
+                        f"{path}:{block_start}: unterminated O/M/A/C widget "
                         f"<details> block"
                     )
                     i = n
@@ -569,7 +569,7 @@ def audit_widgets_in_file(
         elif line.lstrip().startswith(
             '<strong><span style="color: #2563eb;">Definition:'
         ):
-            # Shape looks like an inline D/A/C line but didn't match INLINE_RE.
+            # Shape looks like an inline O/M/A/C line but didn't match INLINE_RE.
             violations.append(
                 f"{path}:{i + 1}: inline 'Definition:' line does not match "
                 f"canonical shape "
@@ -606,13 +606,13 @@ def validate_row(
         slug = slug_from_ch5_href(href)
         if slug is None:
             violations.append(
-                f"{path}:{lineno}: D/A/C row [{name}] {label}-link does not "
+                f"{path}:{lineno}: O/M/A/C row [{name}] {label}-link does not "
                 f"point into Chapter Five: {href}"
             )
             continue
         if not anchor_resolves_for_widget(slug, anchors):
             violations.append(
-                f"{path}:{lineno}: D/A/C row [{name}] {label}-link anchor "
+                f"{path}:{lineno}: O/M/A/C row [{name}] {label}-link anchor "
                 f"#{slug} does not resolve in Chapter Five ({', '.join(CH5_ALL)})"
             )
     return violations
@@ -656,7 +656,7 @@ def main() -> int:
         for v in violations:
             print(v, file=sys.stderr)
         print(
-            f"\nFAIL: {len(violations)} Chapter Five anchor / D/A/C widget "
+            f"\nFAIL: {len(violations)} Chapter Five anchor / O/M/A/C widget "
             f"integrity violation(s).",
             file=sys.stderr,
         )
@@ -664,7 +664,7 @@ def main() -> int:
 
     print(
         "PASS: Chapter Five definition entries carry canonical anchors and "
-        "all D/A/C widget rows resolve to live Chapter Five anchors."
+        "all O/M/A/C widget rows resolve to live Chapter Five anchors."
     )
     return 0
 

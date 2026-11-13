@@ -51,7 +51,7 @@ Chapter One, Part F is the constitutional owner of **governance under stewardshi
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -100,7 +100,7 @@ This section carries [Governance](core_05.035_band_accountability.md#governance)
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -152,7 +152,7 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 #### 18.2 Institutional Secularism and Worldview Neutrality
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -210,7 +210,7 @@ This Constitution and the public governance it constrains are secular in the ins
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -271,7 +271,7 @@ Oversight and accountability only work if the checking is done independently of 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -331,7 +331,7 @@ Important governance choices cannot be set once and forgotten. They must be rech
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -418,7 +418,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -521,7 +521,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -572,7 +572,7 @@ The Preamble states this chapter's incentive discipline as the [Two Fundamental 
 #### 19.1 Alignment Requirement
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -705,7 +705,7 @@ Scoring tools and seats that look like participation still have to meet these li
 #### 19.2 Convenient Proxies and Proxy Divergence
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -765,7 +765,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -855,7 +855,7 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -937,7 +937,7 @@ Concentrated or obscured control structures that materially undermine any of the
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -1108,7 +1108,7 @@ Authorization, design, and operation must do four things:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect) · [O](core_05.040_band_continuity.md#short-horizon-governance-defect) · [M](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05.040_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect) · [O](core_05.040_band_continuity.md#stewardship-defect) · [M](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty) · [O](core_05.040_band_continuity.md#review-and-correction-duty) · [M](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05.040_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -1201,7 +1201,7 @@ This subsection sets out how verified duties survive successor and formal-struct
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Irreversible Harm](core_05.035_band_accountability.md#irreversible-harm) · [O](core_05.035_band_accountability.md#irreversible-harm) · [M](core_05.035_band_accountability.md#irreversible-harm-a) · [A](core_05.035_band_accountability.md#irreversible-harm-a) · [C](core_05.035_band_accountability.md#irreversible-harm-c)

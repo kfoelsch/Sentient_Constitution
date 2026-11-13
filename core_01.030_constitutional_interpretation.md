@@ -54,7 +54,7 @@ Chapter One, Part D is the constitutional owner of **constitutional interpretati
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness) · [O](core_05.045_band_integrative.md#abstract-strictness) · [M](core_05.045_band_integrative.md#abstract-strictness-a) · [A](core_05.045_band_integrative.md#abstract-strictness-a) · [C](core_05.045_band_integrative.md#abstract-strictness-c)
@@ -84,7 +84,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness) · [O](core_05.045_band_integrative.md#abstract-strictness) · [M](core_05.045_band_integrative.md#abstract-strictness-a) · [A](core_05.045_band_integrative.md#abstract-strictness-a) · [C](core_05.045_band_integrative.md#abstract-strictness-c)
@@ -180,7 +180,7 @@ Whole-system evaluations must test anti-segmentation under [Chapter Nine §3 Who
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness) · [O](core_05.045_band_integrative.md#abstract-strictness) · [M](core_05.045_band_integrative.md#abstract-strictness-a) · [A](core_05.045_band_integrative.md#abstract-strictness-a) · [C](core_05.045_band_integrative.md#abstract-strictness-c)
@@ -235,7 +235,7 @@ This principle does not:
 #### 15.2 Definitional Layer and Required Disciplines
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness) · [O](core_05.045_band_integrative.md#abstract-strictness) · [M](core_05.045_band_integrative.md#abstract-strictness-a) · [A](core_05.045_band_integrative.md#abstract-strictness-a) · [C](core_05.045_band_integrative.md#abstract-strictness-c)
@@ -303,7 +303,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 #### 15.3 Ambiguity Resolution
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness) · [O](core_05.045_band_integrative.md#abstract-strictness) · [M](core_05.045_band_integrative.md#abstract-strictness-a) · [A](core_05.045_band_integrative.md#abstract-strictness-a) · [C](core_05.045_band_integrative.md#abstract-strictness-c)
@@ -332,7 +332,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 #### 15.4 Constitutional Meaning Conflict Resolution
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Corpus](core_05.045_band_integrative.md#corpus) · [O](core_05.045_band_integrative.md#corpus) · [M](core_05.045_band_integrative.md#corpus-a) · [A](core_05.045_band_integrative.md#corpus-a) · [C](core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness) · [O](core_05.045_band_integrative.md#abstract-strictness) · [M](core_05.045_band_integrative.md#abstract-strictness-a) · [A](core_05.045_band_integrative.md#abstract-strictness-a) · [C](core_05.045_band_integrative.md#abstract-strictness-c)

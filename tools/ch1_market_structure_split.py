@@ -51,7 +51,7 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Market Structure](core_05.035_band_accountability.md#market-structure-constitutional) · [O](core_05.035_band_accountability.md#market-structure-constitutional) · [E](core_05.035_band_accountability.md#market-structure-constitutional-e) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
 - [Concentration Threshold](core_05.035_band_accountability.md#concentration-threshold-constitutional) · [O](core_05.035_band_accountability.md#concentration-threshold-constitutional) · [E](core_05.035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05.035_band_accountability.md#concentration-threshold-constitutional-c)

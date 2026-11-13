@@ -181,7 +181,7 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Corpus](../core_05.045_band_integrative.md#corpus) · [O](../core_05.045_band_integrative.md#corpus) · [M](../core_05.045_band_integrative.md#corpus-a) · [A](../core_05.045_band_integrative.md#corpus-a) · [C](../core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../core_05.045_band_integrative.md#authority-stack-a) · [A](../core_05.045_band_integrative.md#authority-stack-a) · [C](../core_05.045_band_integrative.md#authority-stack-c)
@@ -225,7 +225,7 @@ Default sequential reading is wrapper → reader guide → **CJS-0.110** (*Scope
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Corpus](../core_05.045_band_integrative.md#corpus) · [O](../core_05.045_band_integrative.md#corpus) · [M](../core_05.045_band_integrative.md#corpus-a) · [A](../core_05.045_band_integrative.md#corpus-a) · [C](../core_05.045_band_integrative.md#corpus-c)
 - [Incentive Alignment](../core_05.045_band_integrative.md#incentive-alignment) · [O](../core_05.045_band_integrative.md#incentive-alignment) · [M](../core_05.045_band_integrative.md#incentive-alignment-a) · [A](../core_05.045_band_integrative.md#incentive-alignment-a) · [C](../core_05.045_band_integrative.md#incentive-alignment-c)
@@ -276,7 +276,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*Operational cluster
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Corpus](../core_05.045_band_integrative.md#corpus) · [O](../core_05.045_band_integrative.md#corpus) · [M](../core_05.045_band_integrative.md#corpus-a) · [A](../core_05.045_band_integrative.md#corpus-a) · [C](../core_05.045_band_integrative.md#corpus-c)
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)

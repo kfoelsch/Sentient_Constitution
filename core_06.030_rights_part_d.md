@@ -96,7 +96,7 @@ flowchart TB
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Participant Standing](core_05.035_band_accountability.md#participant-standing) · [O](core_05.035_band_accountability.md#participant-standing) · [M](core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_05.035_band_accountability.md#participant-standing-constitutional-c)
 - [Stakeholder](core_05.055_band_participation.md#stakeholder) · [O](core_05.055_band_participation.md#stakeholder) · [M](core_05.055_band_participation.md#stakeholder-a) · [A](core_05.055_band_participation.md#stakeholder-a) · [C](core_05.055_band_participation.md#stakeholder-c)
@@ -175,7 +175,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) · [O](core_05.055_band_participation.md#stakeholder-weight) · [M](core_05.055_band_participation.md#stakeholder-weight-a) · [A](core_05.055_band_participation.md#stakeholder-weight-a) · [C](core_05.055_band_participation.md#stakeholder-weight-c)
@@ -218,7 +218,7 @@ This Article sets out how standing differs from competency bars, competency clea
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -286,7 +286,7 @@ This Article sets out the contestability and proportionality limits on standing 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Participant Standing](core_05.035_band_accountability.md#participant-standing) · [O](core_05.035_band_accountability.md#participant-standing) · [M](core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_05.035_band_accountability.md#participant-standing-constitutional-c)
 - [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) · [O](core_05.035_band_accountability.md#contribution-nature) · [M](core_05.035_band_accountability.md#contribution-nature-a) · [A](core_05.035_band_accountability.md#contribution-nature-a) · [C](core_05.035_band_accountability.md#contribution-nature-c)
@@ -339,7 +339,7 @@ This Article sets out how contribution, competency bars, and gated-pathway eligi
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Violation Nature](core_05.035_band_accountability.md#violation-nature) · [O](core_05.035_band_accountability.md#violation-nature) · [M](core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05.035_band_accountability.md#violation-nature-chapter-six-c)
 - [Standing Lock](core_05.035_band_accountability.md#standing-lock) · [O](core_05.035_band_accountability.md#standing-lock) · [M](core_05.035_band_accountability.md#standing-lock-a) · [A](core_05.035_band_accountability.md#standing-lock-a) · [C](core_05.035_band_accountability.md#standing-lock-c)
@@ -385,7 +385,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Standing Lock](core_05.035_band_accountability.md#standing-lock) · [O](core_05.035_band_accountability.md#standing-lock) · [M](core_05.035_band_accountability.md#standing-lock-a) · [A](core_05.035_band_accountability.md#standing-lock-a) · [C](core_05.035_band_accountability.md#standing-lock-c)
 - [Stakeholder](core_05.055_band_participation.md#stakeholder) · [O](core_05.055_band_participation.md#stakeholder) · [M](core_05.055_band_participation.md#stakeholder-a) · [A](core_05.055_band_participation.md#stakeholder-a) · [C](core_05.055_band_participation.md#stakeholder-c)
@@ -439,7 +439,7 @@ This Article sets out the limits on voting locks and special locks:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [O](core_05.055_band_participation.md#procedural-fairness) · [M](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -476,7 +476,7 @@ Adopted governance implementation may add detail. It must not narrow the justice
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Cruelty](core_05.035_band_accountability.md#cruelty) · [O](core_05.035_band_accountability.md#cruelty) · [M](core_05.035_band_accountability.md#cruelty-a) · [A](core_05.035_band_accountability.md#cruelty-a) · [C](core_05.035_band_accountability.md#cruelty-c)
@@ -513,7 +513,7 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](core_05.040_band_continuity.md#safety-constraint-a) · [A](core_05.040_band_continuity.md#safety-constraint-a) · [C](core_05.040_band_continuity.md#safety-constraint-c)
 - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) · [O](core_05.035_band_accountability.md#redress-and-remediation) · [M](core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
@@ -599,7 +599,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) · [O](core_05.040_band_continuity.md#systemic-lock-in) · [M](core_05.040_band_continuity.md#systemic-lock-in-a) · [A](core_05.040_band_continuity.md#systemic-lock-in-a) · [C](core_05.040_band_continuity.md#systemic-lock-in-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
@@ -659,7 +659,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) · [O](core_05.040_band_continuity.md#systemic-lock-in) · [M](core_05.040_band_continuity.md#systemic-lock-in-a) · [A](core_05.040_band_continuity.md#systemic-lock-in-a) · [C](core_05.040_band_continuity.md#systemic-lock-in-c)
@@ -694,7 +694,7 @@ This Article sets out the portability floor:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
 - [Feasibility](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
@@ -725,7 +725,7 @@ This Article sets out the floors for reciprocal interoperability and notice of n
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) · [O](core_05.040_band_continuity.md#systemic-lock-in) · [M](core_05.040_band_continuity.md#systemic-lock-in-a) · [A](core_05.040_band_continuity.md#systemic-lock-in-a) · [C](core_05.040_band_continuity.md#systemic-lock-in-c)
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
@@ -764,7 +764,7 @@ This Article sets out the anti-lock-in rule:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) · [O](core_05.040_band_continuity.md#systemic-lock-in) · [M](core_05.040_band_continuity.md#systemic-lock-in-a) · [A](core_05.040_band_continuity.md#systemic-lock-in-a) · [C](core_05.040_band_continuity.md#systemic-lock-in-c)
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
@@ -829,7 +829,7 @@ This Article sets out the open-formats floor for systems:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Movement and Relocation](core_05.055_band_participation.md#movement-and-relocation) · [O](core_05.055_band_participation.md#movement-and-relocation) · [M](core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05.055_band_participation.md#movement-and-relocation-constitutional-c)
 - [Refuge from Non-Compliance](core_05.055_band_participation.md#refuge-from-non-compliance) · [O](core_05.055_band_participation.md#refuge-from-non-compliance) · [M](core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
@@ -879,7 +879,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Movement and Relocation](core_05.055_band_participation.md#movement-and-relocation) · [O](core_05.055_band_participation.md#movement-and-relocation) · [M](core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05.055_band_participation.md#movement-and-relocation-constitutional-c)
 - [Occupancy Continuity](core_05.040_band_continuity.md#occupancy-continuity) · [O](core_05.040_band_continuity.md#occupancy-continuity) · [M](core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [A](core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [C](core_05.040_band_continuity.md#occupancy-continuity-constitutional-c)
@@ -913,7 +913,7 @@ This Article sets out the floors for movement, refuge, and non-statelessness, an
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Refuge from Non-Compliance](core_05.055_band_participation.md#refuge-from-non-compliance) · [O](core_05.055_band_participation.md#refuge-from-non-compliance) · [M](core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -958,7 +958,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Non-Statelessness](core_05.055_band_participation.md#non-statelessness) · [O](core_05.055_band_participation.md#non-statelessness) · [M](core_05.055_band_participation.md#non-statelessness-constitutional-a) · [A](core_05.055_band_participation.md#non-statelessness-constitutional-a) · [C](core_05.055_band_participation.md#non-statelessness-constitutional-c)
 
@@ -1005,7 +1005,7 @@ This Article sets out the non-statelessness floor:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
 - [Non-Statelessness](core_05.055_band_participation.md#non-statelessness) · [O](core_05.055_band_participation.md#non-statelessness) · [M](core_05.055_band_participation.md#non-statelessness-constitutional-a) · [A](core_05.055_band_participation.md#non-statelessness-constitutional-a) · [C](core_05.055_band_participation.md#non-statelessness-constitutional-c)
@@ -1062,7 +1062,7 @@ This Article sets out the limits on restricting movement, the conditions of cust
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
@@ -1137,7 +1137,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
 - [Material Impact](core_05.050_band_oversight.md#material-impact) · [O](core_05.050_band_oversight.md#material-impact) · [M](core_05.050_band_oversight.md#material-impact-a) · [A](core_05.050_band_oversight.md#material-impact-a) · [C](core_05.050_band_oversight.md#material-impact-c)
@@ -1172,7 +1172,7 @@ This Article sets out the floor for proportional understandability:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
@@ -1223,7 +1223,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
 - [System Capture](core_05.040_band_continuity.md#system-capture) · [O](core_05.040_band_continuity.md#system-capture) · [M](core_05.040_band_continuity.md#system-capture-a) · [A](core_05.040_band_continuity.md#system-capture-a) · [C](core_05.040_band_continuity.md#system-capture-c)
@@ -1281,7 +1281,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -1317,7 +1317,7 @@ This Article sets out the documentation and challenge floors for root-cause find
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
 - [Risk](core_05.040_band_continuity.md#risk) · [O](core_05.040_band_continuity.md#risk) · [M](core_05.040_band_continuity.md#risk-a) · [A](core_05.040_band_continuity.md#risk-a) · [C](core_05.040_band_continuity.md#risk-c)
@@ -1363,7 +1363,7 @@ This Article sets out the reversibility preference and its guard against delay a
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
 - [Forum Family, Constitutional](core_05.035_band_accountability.md#forum-family-constitutional) · [O](core_05.035_band_accountability.md#forum-family-constitutional) · [M](core_05.035_band_accountability.md#forum-family-constitutional-a) · [A](core_05.035_band_accountability.md#forum-family-constitutional-a) · [C](core_05.035_band_accountability.md#forum-family-constitutional-c)
@@ -1410,7 +1410,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Forum Family, Constitutional](core_05.035_band_accountability.md#forum-family-constitutional) · [O](core_05.035_band_accountability.md#forum-family-constitutional) · [M](core_05.035_band_accountability.md#forum-family-constitutional-a) · [A](core_05.035_band_accountability.md#forum-family-constitutional-a) · [C](core_05.035_band_accountability.md#forum-family-constitutional-c)
 - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05.045_band_integrative.md#authority-stack-a) · [A](core_05.045_band_integrative.md#authority-stack-a) · [C](core_05.045_band_integrative.md#authority-stack-c)
@@ -1459,7 +1459,7 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [O](core_05.055_band_participation.md#procedural-fairness) · [M](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [System Capture](core_05.040_band_continuity.md#system-capture) · [O](core_05.040_band_continuity.md#system-capture) · [M](core_05.040_band_continuity.md#system-capture-a) · [A](core_05.040_band_continuity.md#system-capture-a) · [C](core_05.040_band_continuity.md#system-capture-c)
@@ -1493,7 +1493,7 @@ This Article sets out the floors for independent challenge and secondary review 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [O](core_05.055_band_participation.md#procedural-fairness) · [M](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [System Capture](core_05.040_band_continuity.md#system-capture) · [O](core_05.040_band_continuity.md#system-capture) · [M](core_05.040_band_continuity.md#system-capture-a) · [A](core_05.040_band_continuity.md#system-capture-a) · [C](core_05.040_band_continuity.md#system-capture-c)
@@ -1526,7 +1526,7 @@ This Article sets out the independence and external-review floors for Constituti
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [O](core_05.055_band_participation.md#procedural-fairness) · [M](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05.055_band_participation.md#procedural-fairness-constitutional-c)

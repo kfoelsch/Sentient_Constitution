@@ -2118,3 +2118,57 @@ Junto al Artículo X-B, estas reglas se aplican cuando el Peso de las Partes Int
 - no se aplica mediante sanciones que priven de las garantías de supervivencia, atención sanitaria o trabajo del [Artículo III](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access), ni de las garantías educativas del [Artículo IV](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education); tampoco se aplica por la fuerza física, salvo dentro de los umbrales de emergencia del [Capítulo Trece §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden).
 
 **Verified current source SHA-256:** `6611eb401519e173972e87b38f478c3e965eef2876ef374212d8154bf7061635`
+
+## Additional updated passage — Article XI-F opening trace and definition links (source lines 1780–1801)
+
+**Current English passage (source lines 1780–1801):**
+
+#### Article XI-F: Non-Imposition and Consent in Association
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Non-Imposition (Cooperative Interaction)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [Harassment and Bullying](core_05.035_band_accountability.md#harassment-and-bullying) · [O](core_05.035_band_accountability.md#harassment-and-bullying) · [M](core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](core_05.035_band_accountability.md#harassment-and-bullying-c)
+- [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
+- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
+- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
+- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
+- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
+- [Feasibility](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
+
+</details>
+
+
+**Proposed locale translation (AI-assisted; partial; unreviewed; no-sync):**
+
+<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
+#### Artículo XI-F: No imposición y consentimiento en la asociación
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Principios de referencia: Principios de referencia: [Capítulo Uno §7 Libertad](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Principios básicos de compensación](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) y [§7.1 Disciplina de las limitaciones](core_01.000_values_principles.md#71-limitation-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [No imposición (interacción cooperativa)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [Acoso e intimidación](core_05.035_band_accountability.md#harassment-and-bullying) · [O](core_05.035_band_accountability.md#harassment-and-bullying) · [M](core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](core_05.035_band_accountability.md#harassment-and-bullying-c)
+- [Consentimiento](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
+- [Agencia significativa](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
+- [Daño](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
+- [Necesidad](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
+- [Viabilidad](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
+
+</details>
+
+**Verified current source SHA-256:** `3542befc805ce336cd13b7ba4f65542afe6de7a89dd5a126e8f3f8e0fb569cf2`

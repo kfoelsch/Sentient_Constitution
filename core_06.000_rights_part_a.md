@@ -255,7 +255,7 @@ Chapter Five defines those conditions under [Environmental Preconditions](core_0
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) · [O](core_05.040_band_continuity.md#environmental-preconditions) · [M](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
 - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
@@ -318,7 +318,7 @@ This Article sets out the environmental and animal-life floors, from ecosystem i
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) · [O](core_05.040_band_continuity.md#ecological-footprint) · [M](core_05.040_band_continuity.md#ecological-footprint-a) · [A](core_05.040_band_continuity.md#ecological-footprint-a) · [C](core_05.040_band_continuity.md#ecological-footprint-c)
 - [Material Impact](core_05.050_band_oversight.md#material-impact) · [O](core_05.050_band_oversight.md#material-impact) · [M](core_05.050_band_oversight.md#material-impact-a) · [A](core_05.050_band_oversight.md#material-impact-a) · [C](core_05.050_band_oversight.md#material-impact-c)
@@ -354,7 +354,7 @@ Chapter Five defines [Ecological Footprint](core_05.040_band_continuity.md#ecolo
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) · [O](core_05.040_band_continuity.md#environmental-preconditions) · [M](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
@@ -393,7 +393,7 @@ This Article sets out the floor that protects future generations:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Existential Risk](core_05.040_band_continuity.md#existential-risk) · [O](core_05.040_band_continuity.md#existential-risk) · [M](core_05.040_band_continuity.md#existential-risk-a) · [A](core_05.040_band_continuity.md#existential-risk-a) · [C](core_05.040_band_continuity.md#existential-risk-c)
 - [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
@@ -485,7 +485,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) · [O](core_05.040_band_continuity.md#ecological-footprint) · [M](core_05.040_band_continuity.md#ecological-footprint-a) · [A](core_05.040_band_continuity.md#ecological-footprint-a) · [C](core_05.040_band_continuity.md#ecological-footprint-c)
 - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
@@ -523,7 +523,7 @@ This Article sets out the lifecycle-honesty floors for durable goods and the off
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -560,7 +560,7 @@ This Article sets out the repair and independent-servicing floors:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) · [O](core_05.045_band_integrative.md#incentive-alignment) · [M](core_05.045_band_integrative.md#incentive-alignment-a) · [A](core_05.045_band_integrative.md#incentive-alignment-a) · [C](core_05.045_band_integrative.md#incentive-alignment-c)
 - [Foreseeability](core_05.050_band_oversight.md#foreseeability) · [O](core_05.050_band_oversight.md#foreseeability) · [M](core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](core_05.050_band_oversight.md#foreseeability-diligence-c)
@@ -592,7 +592,7 @@ This Article sets out the floors against designed obsolescence and their excepti
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
@@ -636,7 +636,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
@@ -702,7 +702,7 @@ This Article sets out the floors for product data handling, collection notice, d
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
 - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
@@ -802,7 +802,7 @@ Those rules may structure delivery. They must not be used to defeat any floor in
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
@@ -848,7 +848,7 @@ This Article sets out the survival floor — ongoing resource access, stable she
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Bodily-Maintenance Access](core_05.040_band_continuity.md#bodily-maintenance-access) · [O](core_05.040_band_continuity.md#bodily-maintenance-access) · [M](core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-c)
 - [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) · [O](core_05.055_band_participation.md#substantive-fairness) · [M](core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05.055_band_participation.md#substantive-fairness-constitutional-c)
@@ -906,7 +906,7 @@ This Article sets out the right to care, the rules that keep it from being denie
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Fair Compensation](core_05.040_band_continuity.md#fair-compensation) · [O](core_05.040_band_continuity.md#fair-compensation) · [M](core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05.040_band_continuity.md#fair-compensation-constitutional-c)
 - [Collective Organization](core_05.055_band_participation.md#collective-organization) · [O](core_05.055_band_participation.md#collective-organization) · [M](core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](core_05.055_band_participation.md#collective-organization-constitutional-c)
@@ -974,7 +974,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Safe Conditions](core_05.040_band_continuity.md#safe-conditions) · [O](core_05.040_band_continuity.md#safe-conditions) · [M](core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05.040_band_continuity.md#safe-conditions-constitutional-c)
 - [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
@@ -1011,7 +1011,7 @@ This Article sets out the safe-working-conditions floor, its equal application a
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Leisure and Rest](core_05.040_band_continuity.md#leisure-and-rest) · [O](core_05.040_band_continuity.md#leisure-and-rest) · [M](core_05.040_band_continuity.md#leisure-and-rest-constitutional-a) · [A](core_05.040_band_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05.040_band_continuity.md#leisure-and-rest-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
@@ -1054,7 +1054,7 @@ This Article sets out the right to rest, the rules that keep it from being defea
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance) · [O](core_05.055_band_participation.md#commercial-compliance) · [M](core_05.055_band_participation.md#commercial-compliance-a) · [A](core_05.055_band_participation.md#commercial-compliance-a) · [C](core_05.055_band_participation.md#commercial-compliance-c)
 - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](core_05.040_band_continuity.md#safety-constraint-a) · [A](core_05.040_band_continuity.md#safety-constraint-a) · [C](core_05.040_band_continuity.md#safety-constraint-c)
@@ -1109,7 +1109,7 @@ This Article sets out the safe-products floor, the information floor, the duty t
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Educational Agency](core_05.055_band_participation.md#educational-agency) · [O](core_05.055_band_participation.md#educational-agency) · [M](core_05.055_band_participation.md#educational-agency-a) · [A](core_05.055_band_participation.md#educational-agency-a) · [C](core_05.055_band_participation.md#educational-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
@@ -1158,7 +1158,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) · [O](core_05.055_band_participation.md#protected-characteristics) · [M](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 - [Accessibility](core_05.055_band_participation.md#accessibility) · [O](core_05.055_band_participation.md#accessibility) · [M](core_05.055_band_participation.md#accessibility-constitutional-a) · [A](core_05.055_band_participation.md#accessibility-constitutional-a) · [C](core_05.055_band_participation.md#accessibility-constitutional-c)
@@ -1197,7 +1197,7 @@ This Article sets out what education is for, the equal-access floor, and its lim
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Educational Agency](core_05.055_band_participation.md#educational-agency) · [O](core_05.055_band_participation.md#educational-agency) · [M](core_05.055_band_participation.md#educational-agency-a) · [A](core_05.055_band_participation.md#educational-agency-a) · [C](core_05.055_band_participation.md#educational-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
@@ -1228,7 +1228,7 @@ This Article sets out the right to capability-building education:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Educational Agency](core_05.055_band_participation.md#educational-agency) · [O](core_05.055_band_participation.md#educational-agency) · [M](core_05.055_band_participation.md#educational-agency-a) · [A](core_05.055_band_participation.md#educational-agency-a) · [C](core_05.055_band_participation.md#educational-agency-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -1324,7 +1324,7 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
 - [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
@@ -1379,7 +1379,7 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
 - [Cross-System Extraction](core_05.040_band_continuity.md#cross-system-extraction) · [O](core_05.040_band_continuity.md#cross-system-extraction) · [M](core_05.040_band_continuity.md#cross-system-extraction-a) · [A](core_05.040_band_continuity.md#cross-system-extraction-a) · [C](core_05.040_band_continuity.md#cross-system-extraction-c)

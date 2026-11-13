@@ -180,7 +180,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [E](core_05.035_band_accountability.md#harm-e) · [C](core_05.035_band_accountability.md#harm-c)
 - [Materiality Determination](core_05.050_band_oversight.md#materiality-determination) · [O](core_05.050_band_oversight.md#materiality-determination) · [E](core_05.050_band_oversight.md#materiality-determination-e) · [C](core_05.050_band_oversight.md#materiality-determination-c)

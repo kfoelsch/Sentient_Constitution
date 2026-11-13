@@ -1,0 +1,4 @@
+<!-- locale: tr; base commit: eb2e7a0; current source SHA-256: ae3fe7bed7cff2818f3f2f59b785b84f672808075a81935febcafa86992dcaf9; AI-drafted/unreviewed; partial replacement-row update -->
+
+  - **stakeholder-participation**, önceden yetkilendirilmiş bir sistem, kurum veya karar alanında pay ağırlıklı oy ve bağlayıcı paydaş tercihidir.
+  - **Paydaş Katılımı Hak Sahipliği Kilidi:** stakeholder-participation yolundaki doğrulanmış yolsuzluk, ele geçirilme, sahte pay kötüye kullanımı, zorlama veya benzer maddi kötüye kullanım bu kilidi doğurur. Etkilenen alandaki pay ağırlıklı oyu ve bağlayıcı paydaş tercihini sınırlar; kendi başına **governance-voting** hakkını, temel anayasal tercihi veya paydaş statüsünü ortadan kaldırmaz. Sıradan özür, önceki katkı, payın büyüklüğü ya da operatörün vazgeçilmezliği bu kilidi tek başına kaldıramaz.

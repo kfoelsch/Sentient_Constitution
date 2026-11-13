@@ -13,7 +13,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): principle hierarchy and reading arc (Part C)</span></strong></summary>
 
-> Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§16–20.
+> Per-section **Trace** and **Definitions (O · M · A · C)** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§16–20.
 
 **Principle hierarchy (Part C).** At principle layer:
 
@@ -81,7 +81,7 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding) · [O](core_05.040_band_continuity.md#distributed-understanding) · [M](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05.040_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -216,7 +216,7 @@ Stewardship is the first line, not the only one. Three different questions have 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding) · [O](core_05.040_band_continuity.md#distributed-understanding) · [M](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05.040_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -285,7 +285,7 @@ Distributed understanding does **not** require every sentient to master every su
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding) · [O](core_05.040_band_continuity.md#distributed-understanding) · [M](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05.040_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -365,7 +365,7 @@ Institutional development is the organizational facet of **Pillar 3** under **[�
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding) · [O](core_05.040_band_continuity.md#distributed-understanding) · [M](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05.040_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -433,7 +433,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding) · [O](core_05.040_band_continuity.md#distributed-understanding) · [M](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05.040_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05.040_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
@@ -523,7 +523,7 @@ This principle does not:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -627,7 +627,7 @@ The rest of this section covers the role itself.
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -696,7 +696,7 @@ This subsection sets out the shared stewardship standard:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -763,7 +763,7 @@ Those are failed tests for any steward.
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -844,7 +844,7 @@ The burden this duty places on a steward who carries consequential authority is 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -960,7 +960,7 @@ The burden this duty places on a steward who carries consequential authority is 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
@@ -1060,7 +1060,7 @@ flowchart TB
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [O](core_05.040_band_continuity.md#strategic-stewardship-obligation) · [M](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05.040_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)

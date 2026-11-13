@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Proportionality](../core_05.035_band_accountability.md#proportionality) · [O](../core_05.035_band_accountability.md#proportionality) · [M](../core_05.035_band_accountability.md#proportionality-a) · [A](../core_05.035_band_accountability.md#proportionality-a) · [C](../core_05.035_band_accountability.md#proportionality-c)
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)

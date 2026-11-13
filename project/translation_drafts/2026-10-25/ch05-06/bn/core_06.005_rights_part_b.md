@@ -2118,3 +2118,57 @@ X-B-এর পাশাপাশি অংশগ্রহণ-ওজনের ন
 - [অনুচ্ছেদ III](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access)-এর বেঁচে থাকা, স্বাস্থ্যসেবা বা কাজের নিশ্চয়তা কিংবা [অনুচ্ছেদ IV](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education)-এর শিক্ষার নিশ্চয়তা কেড়ে নেওয়া শাস্তি দিয়ে এটি প্রয়োগ করা যায় না; আর [অধ্যায় তেরো §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden)-এর জরুরি সীমা ছাড়া কখনো শারীরিক বলপ্রয়োগে প্রয়োগ করা যায় না।
 
 **Verified current source SHA-256:** `6611eb401519e173972e87b38f478c3e965eef2876ef374212d8154bf7061635`
+
+## Additional updated passage — Article XI-F opening trace and definition links (source lines 1780–1801)
+
+**Current English passage (source lines 1780–1801):**
+
+#### Article XI-F: Non-Imposition and Consent in Association
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Non-Imposition (Cooperative Interaction)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [Harassment and Bullying](core_05.035_band_accountability.md#harassment-and-bullying) · [O](core_05.035_band_accountability.md#harassment-and-bullying) · [M](core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](core_05.035_band_accountability.md#harassment-and-bullying-c)
+- [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
+- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
+- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
+- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
+- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
+- [Feasibility](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
+
+</details>
+
+
+**Proposed locale translation (AI-assisted; partial; unreviewed; no-sync):**
+
+<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
+#### অনুচ্ছেদ XI-F: সমিতিতে চাপিয়ে না দেওয়া ও সম্মতি
+<details>
+<summary><strong><span style="color: #2563eb;">সূত্র</span></strong></summary>
+
+- ঊর্ধ্বতন নীতিমালা: ঊর্ধ্বতন নীতিমালা: [অধ্যায় এক §7 স্বাধীনতা](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 মূল সমঝোতার নীতি](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), এবং [§7.1 সীমাবদ্ধতার শৃঙ্খলা](core_01.000_values_principles.md#71-limitation-discipline)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
+
+- [চাপিয়ে না দেওয়া (সহযোগিতামূলক মিথস্ক্রিয়া)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [হয়রানি ও নিপীড়ন](core_05.035_band_accountability.md#harassment-and-bullying) · [O](core_05.035_band_accountability.md#harassment-and-bullying) · [M](core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](core_05.035_band_accountability.md#harassment-and-bullying-c)
+- [সম্মতি](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
+- [অর্থবহ সক্রিয়তা](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
+- [ক্ষতি](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
+- [প্রয়োজনীয়তা](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
+- [সমানুপাতিকতা](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
+- [সম্ভাব্যতা](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
+
+</details>
+
+**Verified current source SHA-256:** `3542befc805ce336cd13b7ba4f65542afe6de7a89dd5a126e8f3f8e0fb569cf2`

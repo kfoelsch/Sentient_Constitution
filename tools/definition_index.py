@@ -423,7 +423,7 @@ def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
 
 
 def collect_ch1_principles(root: Path) -> list[PrincipleRecord]:
-    """Index Preamble and Chapter One operative headings with D/A/C widget terms."""
+    """Index Preamble and Chapter One operative headings with O/M/A/C widget terms."""
     principles: list[PrincipleRecord] = []
     for rel in CH01_FILES:
         path = root / rel
@@ -525,7 +525,7 @@ def apex_term_lookup() -> dict[str, Ch5Entry]:
 
 
 def collect_ch5_entries_with_apex(root: Path) -> list[Ch5Entry]:
-    """Chapter Five leaves plus synthetic apex heads used as D/A/C targets."""
+    """Chapter Five leaves plus synthetic apex heads used as O/M/A/C targets."""
     entries = list(collect_ch5_entries(root))
     seen = {entry.term.casefold() for entry in entries}
     for entry in apex_term_lookup().values():

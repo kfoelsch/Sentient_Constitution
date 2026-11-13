@@ -53,7 +53,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Foundational Constitutional Choice](../core_05.045_band_integrative.md#foundational-constitutional-choice) · [O](../core_05.045_band_integrative.md#foundational-constitutional-choice) · [M](../core_05.045_band_integrative.md#foundational-constitutional-choice-a) · [A](../core_05.045_band_integrative.md#foundational-constitutional-choice-a) · [C](../core_05.045_band_integrative.md#foundational-constitutional-choice-c)
 - [Stakeholder Weight](../core_05.055_band_participation.md#stakeholder-weight) · [O](../core_05.055_band_participation.md#stakeholder-weight) · [M](../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../core_05.055_band_participation.md#stakeholder-weight-c)
@@ -305,7 +305,7 @@ Weighted participation
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Accessibility](../core_05.055_band_participation.md#accessibility) · [O](../core_05.055_band_participation.md#accessibility) · [M](../core_05.055_band_participation.md#accessibility-constitutional-a) · [A](../core_05.055_band_participation.md#accessibility-constitutional-a) · [C](../core_05.055_band_participation.md#accessibility-constitutional-c)
@@ -533,7 +533,7 @@ Summary integrity
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Transparency](../core_05.050_band_oversight.md#transparency) · [O](../core_05.050_band_oversight.md#transparency) · [M](../core_05.050_band_oversight.md#transparency-a) · [A](../core_05.050_band_oversight.md#transparency-a) · [C](../core_05.050_band_oversight.md#transparency-c)
 - [Oversight](../core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
@@ -739,7 +739,7 @@ User agency and control
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Verifiability](../core_05.050_band_oversight.md#verifiability) · [O](../core_05.050_band_oversight.md#verifiability) · [M](../core_05.050_band_oversight.md#verifiability-a) · [A](../core_05.050_band_oversight.md#verifiability-a) · [C](../core_05.050_band_oversight.md#verifiability-c)

@@ -1,0 +1,4 @@
+<!-- locale: tr; source: 2c1d6a17; baseline: 25543051cf91dea70255e5b1c47900cd7b72d6f1; AI-drafted/unreviewed; partial changed-passage refresh -->
+> Sade dille okuma notu: genel değer ve yön için **Birinci Bölümü**; tanım yapısı, bütünlük ve doğrulama mekanizmaları için **İkinci ila Dördüncü Bölümleri**; temel **haklar** tabanı için **Altıncı Bölümü** okuyun, ardından yorumlama, denetim ve hükme bağlamada terimlerin kesinliği için bu bölüme dönün. (Diğer bölümler de kendi okuma yolları üzerinden uygulanır; **On Dördüncü Bölüm** *Suistimal* ve **On Birinci Bölüm** *Statü* bunlara dahildir. Bunlar, Altıncı Bölümdeki Haklar Tabanının veya İkinci ila Dördüncü Bölümlerdeki tanım mekanizmalarının yerine geçmez.)
+- [Kapılı Yol](core_05.035_band_accountability.md#gated-pathway)
+- [İtiraz Altında](core_05.035_band_accountability.md#under-challenge)

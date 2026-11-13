@@ -70,7 +70,7 @@ flowchart TB
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [O](core_05.055_band_participation.md#procedural-fairness) · [M](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05.055_band_participation.md#procedural-fairness-constitutional-c)
@@ -126,7 +126,7 @@ Adopted governance implementation provides:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
@@ -164,7 +164,7 @@ This Article sets out the floors for post-emergency review, records, and disclos
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Restorative Justice](core_05.035_band_accountability.md#restorative-justice) · [O](core_05.035_band_accountability.md#restorative-justice) · [M](core_05.035_band_accountability.md#restorative-justice-a) · [A](core_05.035_band_accountability.md#restorative-justice-a) · [C](core_05.035_band_accountability.md#restorative-justice-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -204,7 +204,7 @@ This Article sets out the rights-collision procedure and the place of restorativ
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) · [O](core_05.035_band_accountability.md#timely-resolution) · [M](core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
@@ -270,7 +270,7 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
@@ -305,7 +305,7 @@ This Article sets out periodic and accelerated review of governance:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -378,7 +378,7 @@ Adoption Transition governance exists to secure continuity and non-regression. I
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -456,7 +456,7 @@ This Article sets out phased adoption and how the Rights-Floor minimums become e
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
@@ -499,7 +499,7 @@ This Article sets out the limits on Adoption Transition authority and its reauth
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
@@ -544,7 +544,7 @@ This Article sets out failure off-ramps, re-baselining, and traceability for sta
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) · [O](core_05.055_band_participation.md#substantive-fairness) · [M](core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05.055_band_participation.md#substantive-fairness-constitutional-c)
 - [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05.035_band_accountability.md#protected-reporting-whistleblowing-c)

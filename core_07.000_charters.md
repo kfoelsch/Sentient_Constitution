@@ -116,7 +116,7 @@ The chapter leaves:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [System Charter](core_05.040_band_continuity.md#system-charter) · [O](core_05.040_band_continuity.md#system-charter) · [M](core_05.040_band_continuity.md#system-charter-a) · [A](core_05.040_band_continuity.md#system-charter-a) · [C](core_05.040_band_continuity.md#system-charter-c)
 - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) · [O](core_05.040_band_continuity.md#institutional-charter) · [M](core_05.040_band_continuity.md#institutional-charter-a) · [A](core_05.040_band_continuity.md#institutional-charter-a) · [C](core_05.040_band_continuity.md#institutional-charter-c)
@@ -429,7 +429,7 @@ The fifth limit works on one act of an Institution, exercising new material auth
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [System Charter](core_05.040_band_continuity.md#system-charter) · [O](core_05.040_band_continuity.md#system-charter) · [M](core_05.040_band_continuity.md#system-charter-a) · [A](core_05.040_band_continuity.md#system-charter-a) · [C](core_05.040_band_continuity.md#system-charter-c)
 - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) · [O](core_05.040_band_continuity.md#institutional-charter) · [M](core_05.040_band_continuity.md#institutional-charter-a) · [A](core_05.040_band_continuity.md#institutional-charter-a) · [C](core_05.040_band_continuity.md#institutional-charter-c)
@@ -527,7 +527,7 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) · [O](core_05.040_band_continuity.md#charter-role-map) · [M](core_05.040_band_continuity.md#charter-role-map-a) · [A](core_05.040_band_continuity.md#charter-role-map-a) · [C](core_05.040_band_continuity.md#charter-role-map-c)
 - [System Charter](core_05.040_band_continuity.md#system-charter) · [O](core_05.040_band_continuity.md#system-charter) · [M](core_05.040_band_continuity.md#system-charter-a) · [A](core_05.040_band_continuity.md#system-charter-a) · [C](core_05.040_band_continuity.md#system-charter-c)
@@ -1024,7 +1024,7 @@ A holder who receives an adverse standing finding is protected as follows:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [System Charter](core_05.040_band_continuity.md#system-charter) · [O](core_05.040_band_continuity.md#system-charter) · [M](core_05.040_band_continuity.md#system-charter-a) · [A](core_05.040_band_continuity.md#system-charter-a) · [C](core_05.040_band_continuity.md#system-charter-c)
 - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) · [O](core_05.040_band_continuity.md#institutional-charter) · [M](core_05.040_band_continuity.md#institutional-charter-a) · [A](core_05.040_band_continuity.md#institutional-charter-a) · [C](core_05.040_band_continuity.md#institutional-charter-c)

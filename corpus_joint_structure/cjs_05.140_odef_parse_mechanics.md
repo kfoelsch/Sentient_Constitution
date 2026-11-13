@@ -23,7 +23,7 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Constitutional Constraint](../core_05.045_band_integrative.md#constitutional-constraint) · [O](../core_05.045_band_integrative.md#constitutional-constraint) · [M](../core_05.045_band_integrative.md#constitutional-constraint-a) · [A](../core_05.045_band_integrative.md#constitutional-constraint-a) · [C](../core_05.045_band_integrative.md#constitutional-constraint-c)
 

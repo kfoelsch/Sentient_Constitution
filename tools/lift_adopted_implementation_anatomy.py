@@ -13,8 +13,8 @@ band files that carry several sibling clusters keep their existing structure
 under a new umbrella title. Anchors are unaffected: markdown slugs derive from
 heading text, not depth.
 
-Where a file has one top-level section, its per-section **Definitions ·
-Assessment · Compliance** widgets are merged into a single file-level widget
+Where a file has one top-level section, its per-section **Definitions
+(O · M · A · C)** widgets are merged into a single file-level widget
 holding the union of their rows, so no Chapter Five jump link is lost.
 """
 
@@ -36,7 +36,7 @@ TRACE_SUMMARY = (
 )
 DAC_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">'
-    "Definitions · Assessment · Compliance</span></strong></summary>"
+    "Definitions (O · M · A · C)</span></strong></summary>"
 )
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
