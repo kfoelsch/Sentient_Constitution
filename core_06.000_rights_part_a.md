@@ -34,7 +34,7 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Upstream: [Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (1.050 §19).
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000).
-- Downstream: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [§1.2 Owner Non-Relocation](#12-owner-non-relocation).
+- Downstream: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [§2.2 Owner Non-Relocation](#22-owner-non-relocation).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights); [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*).
 - Read with: [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Read with: [Article XIX-B](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
@@ -49,8 +49,8 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 
 **Role.** Chapter Six is the constitutional owner of Rights Floors and rights-level interpretation. Where it sits:
 
-- It is read together with Chapters One through Five: the values, the definition rules, and the definitions, as set out below.
-- Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters. Chapter Six may point to them but must not restate or move their duties (**section 1.2**).
+- It is read together with Chapters One through Five: the principles, the definition rules, and the definitions, as set out below.
+- Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters. Chapter Six may point to them but must not restate or move their duties (**section 2.2**).
 
 **Chapter scope.** The chapter covers Articles I through XXVIII, in five parts:
 
@@ -60,7 +60,9 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Part D (Articles XIX–XXV): standing, justice, portability, movement and refuge, comprehensibility, root cause, and interpretation; and
 - Part E (Articles XXVI–XXVIII): conflict resolution and review, constitutional evolution, and Adoption Transition.
 
-The chapter leaves process, governance, and implementation rules to their owner chapters. **Section 1.1** says how the floors must work in practice.
+The chapter leaves process, governance, and implementation rules to their owner chapters. **Section 2.1** says how the floors must work in practice.
+
+### 2. The Rights Floor and Its Duties
 
 A Rights Floor is a minimum guarantee. It is the set of protections that must remain available, open to inspection, and enforceable before any new rules, certifications, categories, or plans can be approved. These floors serve the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
@@ -89,7 +91,7 @@ These background rules apply to every article in this chapter unless a specific 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): chapter structure map</span></strong></summary>
 
-> **Reader map (non-operative).** This chart shows how the four source parts of this chapter sit under the Rights Floor, and that later processes apply the floor rather than shrink it. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
+> **Reader map (non-operative).** This chart shows how the five source parts of this chapter sit under the Rights Floor, and that later processes apply the floor rather than shrink it. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>
 
@@ -98,8 +100,7 @@ These background rules apply to every article in this chapter unless a specific 
 ```mermaid
 flowchart TB
     T["Constitutional Tetrad<br/><br/>Two Constitutional Aims<br/>Scaled to material stake"]
-    R["Chapter Six<br/><br/>Foundational Rights Floor"]
-    subgraph Parts["Chapter Six source parts"]
+    subgraph Parts["<div style='text-align:center'>Chapter Six<br/><br/>Foundational Rights Floor</div>"]
         direction TB
         A["Part A · Articles I–V<br/><br/>Planetary conditions, material stewardship,<br/>survival, education, shared resources"]
         B["Part B · Articles VI–XII<br/><br/>Equal standing, self-ownership, family,<br/>data, agency, cooperation, stakeholder participation"]
@@ -108,19 +109,13 @@ flowchart TB
         E["Part E · Articles XXVI–XXVIII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, Adoption Transition"]
     end
     P[["Later governance, measurement, certification,<br/>forums, remedy, and implementation<br/><br/>Outside this chapter; must respect the Rights Floor"]]
-    T -->|rights are read with| R
-    R --> A
-    R --> B
-    R --> C
-    R --> D
-    R --> E
-    A -.-> P
-    B -.-> P
-    C -.-> P
-    D -.-> P
-    E -.-> P
+    T -->|rights are read with| Parts
+    A ~~~ D
+    B ~~~ D
+    B ~~~ E
+    C ~~~ E
+    Parts -.-> P
     style T fill:none,stroke:#2563eb,color:#ffffff
-    style R fill:none,stroke:#2563eb,color:#ffffff
     style A fill:none,stroke:#16a34a,color:#ffffff
     style B fill:none,stroke:#0f766e,color:#ffffff
     style C fill:none,stroke:#ea580c,color:#ffffff
@@ -131,7 +126,7 @@ flowchart TB
 
 The five parts are different reading paths through the same floor. **Part A** (this file) begins with planetary and material preconditions; [Part B](core_06.010_rights_part_b.md) turns to personal, cooperative, and stakeholder rights; [Part C](core_06.020_rights_part_c.md) governs trustworthy systems, security, verification, and lifecycle; [Part D](core_06.030_rights_part_d.md) governs standing, justice after verified violation, and interpretive review; [Part E](core_06.040_rights_part_e.md) governs conflict resolution, constitutional evolution, and Adoption Transition. Every part is read with the chapter-wide constraints stated above. Later governance, measurement, certification, forums, remedy, and implementation may apply this floor but may not shrink it.
 
-#### 1.1 Practical Enforcement
+#### 2.1 Practical Enforcement
 
 The Rights Floor must work in real life, not just on paper:
 
@@ -168,9 +163,9 @@ Enforcement depends on real checks, not just rules on paper:
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
-<a id="12-owner-non-relocation"></a>
+<a id="22-owner-non-relocation"></a>
 
-#### 1.2 Owner Non-Relocation
+#### 2.2 Owner Non-Relocation
 
 *In plain terms: Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation).*
 

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **837** of **1325** headings carry a gloss (63%).
+Coverage: **837** of **1326** headings carry a gloss (63%).
 
 ## Contents
 
@@ -50,7 +50,7 @@ Coverage: **837** of **1325** headings carry a gloss (63%).
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (13/22 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
 - [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (9/29 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/31 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (42/43 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.030_rights_part_d.md` (31/32 glossed)
@@ -6655,7 +6655,7 @@ forums need help before a case exists, while deciding, and after — inspectors 
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06.000_rights_part_a.md`](../../core_06.000_rights_part_a.md) · 28/31 headings glossed
+Source file: [`core_06.000_rights_part_a.md`](../../core_06.000_rights_part_a.md) · 28/32 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6663,17 +6663,23 @@ Chapter Six states the basic Rights Floors no sentient may be pushed below. Thos
 
 [Source](../../core_06.000_rights_part_a.md#1-purpose-role-and-scope)
 
-##### 1.1 Practical Enforcement
+#### 2. The Rights Floor and Its Duties
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_06.000_rights_part_a.md#11-practical-enforcement)
+[Source](../../core_06.000_rights_part_a.md#2-the-rights-floor-and-its-duties)
 
-##### 1.2 Owner Non-Relocation
+##### 2.1 Practical Enforcement
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_06.000_rights_part_a.md#21-practical-enforcement)
+
+##### 2.2 Owner Non-Relocation
 
 Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Preamble — constitutional owner register](../../core_00.000_preamble.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../core_05.045_band_integrative.md#owner-non-relocation).
 
-[Source](../../core_06.000_rights_part_a.md#12-owner-non-relocation)
+[Source](../../core_06.000_rights_part_a.md#22-owner-non-relocation)
 
 #### Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources
 
