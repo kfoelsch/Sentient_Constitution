@@ -53,11 +53,21 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 - A body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Six section 6**).
 - [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) holds custody, editions, and operative effect.
 
-**Chapter scope.** The chapter covers **section 2** through **section 12**, and **section 13** states the owner non-relocation rule. Escalation wording in this chapter is routing, not a second accountability code. The chapter leaves:
+**Chapter scope.** The chapter covers:
+
+- heightened review, the burden of justification, and the validity floor (**section 2** to **section 4**);
+- the three procedural tests, Tests 2 to 4 (**section 5** to **section 7**);
+- review triggers, the provisional effect rule, and invalid-change handling (**section 8** to **section 10**);
+- ratification, adoption, and amendment procedure requirements (**section 11** and **section 12**); and
+- the owner non-relocation rule (**section 13**).
+
+The chapter leaves:
 
 - numeric Contribution and Violation slots to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
 - anti-constitutional-misconduct designations to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation); and
 - substantive non-regression to Chapter Twenty-Five.
+
+Escalation wording in this chapter is routing, not a second accountability code.
 
 
 ### 2. Heightened Review for Rights-Affecting Changes

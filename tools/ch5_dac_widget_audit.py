@@ -147,10 +147,20 @@ STRUCTURAL_HEADINGS: set[str] = {
     "3-dependent-clusters-clustered-definitions",
     "section-3-dependent-clusters-clustered-definitions",
     "11-invocation-satisfaction-and-compliance",
+    "2-independent-definitions",
+    "2-interdependent-definitions",
+    "21-invocation-satisfaction-and-compliance",
     "21-joint-invocation-and-satisfaction",
     "22-standalone-definitions-interaction-and-full-context",
     "31-joint-invocation-and-satisfaction",
     "32-standalone-definitions-interaction-and-full-context",
+    "2-canonical-home-and-non-duplication-rule",
+    "3-independent-definitions",
+    "3-interdependent-definitions",
+    "31-invocation-satisfaction-and-compliance",
+    "4-dependent-cluster-meta-rules",
+    "41-joint-invocation-and-satisfaction",
+    "42-standalone-definitions-interaction-and-full-context",
 }
 
 

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **836** of **1324** headings carry a gloss (63%).
+Coverage: **837** of **1325** headings carry a gloss (63%).
 
 ## Contents
 
@@ -20,7 +20,7 @@ Coverage: **836** of **1324** headings carry a gloss (63%).
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02.000_definition_structure.md` (9/13 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03.000_definition_integrity.md` (6/16 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04.000_burden_traceability_verification.md` (8/8 glossed)
-- [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05.000_definitions_home.md` (8/10 glossed)
+- [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05.000_definitions_home.md` (9/11 glossed)
 - [CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-five-definitions-accountability-tetrad-leg) — `core_05.005_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-five-definitions-continuity-constitutional-aim) — `core_05.010_apex_continuity_aim.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: FLOURISHING](#chapter-five-definitions-flourishing) — `core_05.015_apex_flourishing_aim.md` (3/3 glossed)
@@ -987,7 +987,7 @@ Source file: [`core_03.000_definition_integrity.md`](../../core_03.000_definitio
 
 #### 1. Purpose, Role, and Scope
 
-this chapter says when a system fails a definition in practice: when what it does or produces would violate the definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.
+this chapter says when a system fails an applicable definition in practice: when what it does or produces would violate that definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.
 
 [Source](../../core_03.000_definition_integrity.md#1-purpose-role-and-scope)
 
@@ -999,7 +999,7 @@ this chapter says when a system fails a definition in practice: when what it doe
 
 #### 3. Non-Compliance from Observable System Behavior
 
-a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §3.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
+a system is non-compliant when what it actually does or produces would violate an applicable definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §3.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
 
 [Source](../../core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior)
 
@@ -1047,7 +1047,7 @@ a label, classification, or rubber-stamp review does not count if the real decis
 
 #### 4. Non-Compliance Finding Profiles
 
-when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§4.2 Standing Effects at First Certification](../../core_03.000_definition_integrity.md#42-standing-effects-at-first-certification)).
+when something fails an applicable definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§4.2 Standing Effects at First Certification](../../core_03.000_definition_integrity.md#42-standing-effects-at-first-certification)).
 
 [Source](../../core_03.000_definition_integrity.md#4-non-compliance-finding-profiles)
 
@@ -1093,7 +1093,7 @@ if you claim compliance, you prove it — through one five-step check. Miss any 
 
 #### 3. Definition Traceability Requirement
 
-show a checkable map from each definition's parts — O, M, A, and C — to what the system actually does, before **sections 4** through **5** judge whether anyone can verify it and whether the proof holds.
+show a checkable map from each applicable definition's parts — O, M, A, and C — to what the system actually does, before **sections 4** through **5** judge whether anyone can verify it and whether the proof holds.
 
 [Source](../../core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement)
 
@@ -1123,43 +1123,49 @@ Chapters Two through Four set the rules every compliance claim must meet — wha
 
 ## CHAPTER FIVE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_05.000_definitions_home.md`](../../core_05.000_definitions_home.md) · 8/10 headings glossed
+Source file: [`core_05.000_definitions_home.md`](../../core_05.000_definitions_home.md) · 9/11 headings glossed
 
-#### Canonical Home and Non-Duplication Rule
+#### 1. Purpose, Role, and Scope
+
+this section says what this chapter is for, where it sits among the chapters on structure, integrity, and proof, and what it covers and leaves out. The rule that keeps each term in one place follows it.
+
+[Source](../../core_05.000_definitions_home.md#1-purpose-role-and-scope)
+
+#### 2. Canonical Home and Non-Duplication Rule
 
 every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.
 
-[Source](../../core_05.000_definitions_home.md#canonical-home-and-non-duplication-rule)
+[Source](../../core_05.000_definitions_home.md#2-canonical-home-and-non-duplication-rule)
 
-#### 1. Independent Definitions
+#### 3. Independent Definitions
 
 independent definitions are reusable building blocks. They stand on their own unless a cluster requires them to be met together.
 
-[Source](../../core_05.000_definitions_home.md#1-interdependent-definitions)
+[Source](../../core_05.000_definitions_home.md#3-interdependent-definitions)
 
-##### 1.1 Invocation, Satisfaction, and Compliance
+##### 3.1 Invocation, Satisfaction, and Compliance
 
 when an independent definition applies, it must be met in full — no picking the convenient pieces.
 
-[Source](../../core_05.000_definitions_home.md#11-invocation-satisfaction-and-compliance)
+[Source](../../core_05.000_definitions_home.md#31-invocation-satisfaction-and-compliance)
 
-#### 2. Dependent-Cluster Meta Rules
+#### 4. Dependent-Cluster Meta Rules
 
 cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.
 
-[Source](../../core_05.000_definitions_home.md#2-dependent-cluster-meta-rules)
+[Source](../../core_05.000_definitions_home.md#4-dependent-cluster-meta-rules)
 
-##### 2.1 Joint Invocation and Satisfaction
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction)
-
-##### 2.2 Standalone Definitions Interaction and Full Context
+##### 4.1 Joint Invocation and Satisfaction
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05.000_definitions_home.md#22-standalone-definitions-interaction-and-full-context)
+[Source](../../core_05.000_definitions_home.md#41-joint-invocation-and-satisfaction)
+
+##### 4.2 Standalone Definitions Interaction and Full Context
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_05.000_definitions_home.md#42-standalone-definitions-interaction-and-full-context)
 
 #### Chapter Five Alphabetical Directory (Non-Operative)
 
