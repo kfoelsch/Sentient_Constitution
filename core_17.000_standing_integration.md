@@ -34,17 +34,24 @@ Chapter Seventeen (Chapters Seventeen–Twenty) is the constitutional owner of *
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) when converting verified Chapter Fifteen standing records into consequences.
 
-<a id="1-purpose-and-role"></a>
+<a id="1-purpose-role-and-scope"></a>
 
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
 *In plain terms: this section says what this chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.*
 
-Chapter Seventeen answers Question 3 of the standing pipeline: what follows from verified standing records. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed and decides the consequences.
+**Purpose.** Chapter Seventeen answers Question 3 of the standing pipeline: what follows from verified standing records. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed and decides the consequences.
 
 A **[gated pathway](core_05.035_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§2.2 Prevention — General Standing Locks](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) lists the types.
 
-It works in this order, and [§3.4 Processing Order](#34-processing-order) sets the full sequence:
+**Role.** Where this chapter sits:
+
+- [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) come first. This chapter takes their standing records and slots as fixed.
+- Chapters Seventeen through Twenty together own standing integration and standing effects. This chapter opens that group and sets the order. [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) holds the contribution consequences, [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) the violation consequences, and [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) the final standing effect, restoration, and enforcement.
+- A qualifying Violation Axis slot 7–9 standing record goes to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation), which decides only the anti-constitutional-misconduct designation (ACMD).
+- [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) forums supervise these decisions and can send a standing record back to Chapter Fifteen.
+
+**Chapter scope.** The chapter works in this order, and [§3.4 Processing Order](#34-processing-order) sets the full sequence:
 
 - it starts from the verified standing records, unchanged ([§2 Chapter Seventeen Records Do Not Change](#2-chapter-fifteen-records-do-not-change));
 - it normalizes shared descriptors and attachments without changing either slot ([§4 Descriptor Integration and Attachment Normalization](#4-descriptor-integration-and-attachment-normalization));

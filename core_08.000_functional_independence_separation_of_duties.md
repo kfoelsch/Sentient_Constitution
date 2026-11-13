@@ -24,7 +24,7 @@
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
   - [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections:
-  - [§1](#1-purpose-scope-and-owner-boundary);
+  - [§1](#1-purpose-role-and-scope);
   - [§2](#2-four-seat-constitutional-requirement);
   - [§3](#3-independence-conflict-and-control-lines);
   - [§4](#4-wrong-seat-routing);
@@ -52,9 +52,9 @@
 
 Chapter Eight is the constitutional owner of the **functional-independence and separation-of-duties requirement for materially binding acts**.
 
-<a id="1-purpose-scope-and-owner-boundary"></a>
+<a id="1-purpose-role-and-scope"></a>
 
-### 1. Purpose, Scope, and Owner Boundary
+### 1. Purpose, Role, and Scope
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -73,7 +73,15 @@ Chapter Eight is the constitutional owner of the **functional-independence and s
 
 *In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
 
-This chapter applies to every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), as Chapter Five defines it, including:
+**Purpose.** Chapter Eight keeps the jobs inside a materially binding act apart. A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the independent check, control the official record, or decide the challenge to it. The chapter does this with four seats: ask or act, check, keep the official record, and hear the challenge.
+
+**Role.** Chapter Eight is the constitutional owner of the functional-independence and separation-of-duties requirement for materially binding acts. Where it sits:
+
+- It applies both to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight).
+- [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) defines the terms it uses, including Materially Binding Act.
+- Every later constitutional process must explain how it assigns and uses all four seats. A later chapter may add stronger separation, recusal, custody, panel, or review requirements, and may not narrow this chapter's (**section 9**).
+
+**Chapter scope.** This chapter applies to every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), as Chapter Five defines it, including:
 
 - a decision;
 - an authorization or certification;
@@ -86,6 +94,17 @@ This chapter applies to every [Materially Binding Act](core_05.035_band_accounta
 This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 The seats in this chapter define who may do what for a particular act; they are not job titles. The same sentient, office, or system may hold different seats for different acts. A title, delegation, technical capability, or ability to perform a step does not enlarge the seat held for that act.
+
+The chapter's sections cover:
+
+- the four seats and the requirement itself (**section 2**);
+- independence, conflict, and control lines (**section 3**);
+- wrong-seat routing (**section 4**);
+- published placement, vacancy, and substitution (**section 5**);
+- proportional scaling and merged hosting (**section 6**);
+- emergency and urgent action (**section 7**);
+- act records and attributable handoffs (**section 8**); and
+- the relationship to later processes (**section 9**).
 
 <a id="11-why-the-jobs-are-separated"></a>
 #### 1.1 Why the Jobs Are Separated
@@ -122,7 +141,7 @@ This subsection explains the reasons for the number four. It is non-operative: t
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §18.3](core_01.050_governance_incentive_application.md#183-separation-of-duties) (1.050 §18.3); [Chapter One §17.1](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.040 §17.1).
+- Upstream: [§1](#1-purpose-role-and-scope); [Chapter One §18.3](core_01.050_governance_incentive_application.md#183-separation-of-duties) (1.050 §18.3); [Chapter One §17.1](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.040 §17.1).
 - Downstream: [§3](#3-independence-conflict-and-control-lines) through [§9](#9-relationship-to-later-processes); [CI-24.205 §6](corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Read with: [§6](#6-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 
@@ -327,7 +346,7 @@ The map is kept in or with the adopter's [System Charter](core_05.040_band_conti
 
 A member of a group that publishes a shared map for the seats it hosts may adopt that map by reference ([§6.3 Seats Held in Common](#63-seats-held-in-common)), and still names its own substitute and independent route.
 
-A Class P adopter is outside this chapter ([§1 Purpose, Scope, and Owner Boundary](#1-purpose-scope-and-owner-boundary)) and need not publish a map. It may still publish one, alone or with a voluntary System or Institutional Charter ([Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody)).
+A Class P adopter is outside this chapter ([§1 Purpose, Role, and Scope](#1-purpose-role-and-scope)) and need not publish a map. It may still publish one, alone or with a voluntary System or Institutional Charter ([Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody)).
 
 <a id="53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve"></a>
 #### 5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve
@@ -555,7 +574,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-scope-and-owner-boundary) through [§8](#8-act-records-and-attributable-handoffs).
+- Upstream: [§1](#1-purpose-role-and-scope) through [§8](#8-act-records-and-attributable-handoffs).
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);

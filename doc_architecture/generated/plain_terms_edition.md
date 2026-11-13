@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **835** of **1323** headings carry a gloss (63%).
+Coverage: **836** of **1324** headings carry a gloss (63%).
 
 ## Contents
 
@@ -17,7 +17,7 @@ Coverage: **835** of **1323** headings carry a gloss (63%).
 - [CHAPTER 01, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-01-part-d-constitutional-interpretation) — `core_01.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-01-part-e-stewardship-and-the-steward-role) — `core_01.040_stewardship_capacity_principles.md` (12/13 glossed)
 - [CHAPTER 01, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-01-part-f-governance-incentive-alignment-and-integrated-application) — `core_01.050_governance_incentive_application.md` (19/26 glossed)
-- [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02.000_definition_structure.md` (8/12 glossed)
+- [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02.000_definition_structure.md` (9/13 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03.000_definition_integrity.md` (6/16 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04.000_burden_traceability_verification.md` (8/8 glossed)
 - [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05.000_definitions_home.md` (8/10 glossed)
@@ -907,73 +907,79 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
 
-Source file: [`core_02.000_definition_structure.md`](../../core_02.000_definition_structure.md) · 8/12 headings glossed
+Source file: [`core_02.000_definition_structure.md`](../../core_02.000_definition_structure.md) · 9/13 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
-this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with assessment, M/A), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.
+this section says what this chapter is for, where it sits among the other chapters, and what it covers and leaves out. The rules for building a definition start in the next section.
 
-[Source](../../core_02.000_definition_structure.md#1-purpose-and-role)
+[Source](../../core_02.000_definition_structure.md#1-purpose-role-and-scope)
 
-##### 1.1 Ontological Components (O) — What It Is
+#### 2. Definition Components and Joint Satisfaction
+
+every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with assessment, M/A), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.
+
+[Source](../../core_02.000_definition_structure.md#2-definition-components-and-joint-satisfaction)
+
+##### 2.1 Ontological Components (O) — What It Is
 
 the O part answers one simple question — **what is this term about?** It names the thing and draws its edges. It does not say how to measure or judge the term, and it does not say what counts as passing or failing; those come later.
 
-[Source](../../core_02.000_definition_structure.md#11-ontological-components-o--what-it-is)
+[Source](../../core_02.000_definition_structure.md#21-ontological-components-o--what-it-is)
 
-##### 1.2 Measurement Components (M) — How It Must Be Measured
+##### 2.2 Measurement Components (M) — How It Must Be Measured
 
 the M part answers one simple question — **what should we look at to judge this term?** It names the measures that apply. It does not say whether the term passes or fails; that comes later.
 
-[Source](../../core_02.000_definition_structure.md#12-measurement-components-m--how-it-must-be-measured)
+[Source](../../core_02.000_definition_structure.md#22-measurement-components-m--how-it-must-be-measured)
 
-##### 1.3 Assessment Components (A) — How It Must Be Assessed
+##### 2.3 Assessment Components (A) — How It Must Be Assessed
 
 the A part answers one simple question — **how must this term be judged?** It says what evaluators must look at, under what conditions, and how to handle uncertainty. It does not say whether the term passes or fails; that comes later.
 
-[Source](../../core_02.000_definition_structure.md#13-assessment-components-a--how-it-must-be-assessed)
+[Source](../../core_02.000_definition_structure.md#23-assessment-components-a--how-it-must-be-assessed)
 
-##### 1.4 Compliance Components (C) — What Must Be True in Practice
+##### 2.4 Compliance Components (C) — What Must Be True in Practice
 
 the C part answers one simple question — **what must actually hold, and when has this term been violated?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.
 
-[Source](../../core_02.000_definition_structure.md#14-compliance-components-c--what-must-be-true-in-practice)
+[Source](../../core_02.000_definition_structure.md#24-compliance-components-c--what-must-be-true-in-practice)
 
-#### 2. Definition Integrity Requirement
+#### 3. Definition Integrity Requirement
 
 building a definition correctly is not enough — it must stay intact when applied. Definitions cannot be satisfied piecemeal, weakened by interpretation, or gamed through scope carving — including by optimizing a measure while the outcome it stands for degrades. Where the language allows more than one reading, choose the one that preserves full protective scope.
 
-[Source](../../core_02.000_definition_structure.md#2-definition-integrity-requirement)
+[Source](../../core_02.000_definition_structure.md#3-definition-integrity-requirement)
 
-##### 2.1 Core Integrity Conditions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_02.000_definition_structure.md#21-core-integrity-conditions)
-
-##### 2.2 Non-Compliance by Structural or Applied Weakening
+##### 3.1 Core Integrity Conditions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.000_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening)
+[Source](../../core_02.000_definition_structure.md#31-core-integrity-conditions)
 
-##### 2.3 Construction Constraints
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_02.000_definition_structure.md#23-construction-constraints)
-
-##### 2.4 Interpretation Rule under Ambiguity
+##### 3.2 Non-Compliance by Structural or Applied Weakening
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.000_definition_structure.md#24-interpretation-rule-under-ambiguity)
+[Source](../../core_02.000_definition_structure.md#32-non-compliance-by-structural-or-applied-weakening)
 
-#### 3. Consistency across the Definition Stack
+##### 3.3 Construction Constraints
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_02.000_definition_structure.md#33-construction-constraints)
+
+##### 3.4 Interpretation Rule under Ambiguity
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_02.000_definition_structure.md#34-interpretation-rule-under-ambiguity)
+
+#### 4. Consistency across the Definition Stack
 
 a definition doesn't just have to hold together on paper — it has to hold together across the definition stack in the real world. Its parts must line up the same way across normal, degraded, and adversarial operation, over time, across connected systems, in every situation you could reasonably see coming, and under every fair reading of its words.
 
-[Source](../../core_02.000_definition_structure.md#3-consistency-across-the-definition-stack)
+[Source](../../core_02.000_definition_structure.md#4-consistency-across-the-definition-stack)
 
 ## CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE
 
@@ -993,7 +999,7 @@ this chapter says when a system fails a definition in practice: when what it doe
 
 #### 3. Non-Compliance from Observable System Behavior
 
-a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
+a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §3.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
 
 [Source](../../core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior)
 
@@ -3821,11 +3827,11 @@ scope can change, but not quietly. A change to what the Chartered Party may do i
 
 Source file: [`core_08.000_functional_independence_separation_of_duties.md`](../../core_08.000_functional_independence_separation_of_duties.md) · 11/22 headings glossed
 
-#### 1. Purpose, Scope, and Owner Boundary
+#### 1. Purpose, Role, and Scope
 
 before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope)
 
 ##### 1.1 Why the Jobs Are Separated
 
@@ -3951,11 +3957,11 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 17/57 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require recertification on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
 ##### 1.1 Certification as an Audit Process, Scaled by System Class
 
@@ -4713,11 +4719,11 @@ certification can feed standing, but it is not standing. Any System Certificatio
 
 Source file: [`core_12.000_institutional_alignment_certification_evaluation.md`](../../core_12.000_institutional_alignment_certification_evaluation.md) · 6/11 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-and-role)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
 ##### 1.1 Who Is Certified
 
@@ -5519,11 +5525,11 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 Source file: [`core_17.000_standing_integration.md`](../../core_17.000_standing_integration.md) · 20/20 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 this section says what this chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.
 
-[Source](../../core_17.000_standing_integration.md#1-purpose-and-role)
+[Source](../../core_17.000_standing_integration.md#1-purpose-role-and-scope)
 
 #### 2. Chapter Fifteen Records Do Not Change
 
@@ -6473,11 +6479,11 @@ attacking the machinery that makes answerability real — evidence, verification
 
 Source file: [`core_23.000_forum.md`](../../core_23.000_forum.md) · 9/29 headings glossed
 
-#### 1. Purpose and Role — Participation Architecture
+#### 1. Purpose, Role, and Scope
 
 this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Fifteen–Twenty-Two disputes and record effects) and **System Alignment Certification** (Chapter Nine certification and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
 
-[Source](../../core_23.000_forum.md#1-purpose-and-role--participation-architecture)
+[Source](../../core_23.000_forum.md#1-purpose-role-and-scope)
 
 #### 2. Default Venue and Primary Stakes
 
@@ -6645,11 +6651,11 @@ forums need help before a case exists, while deciding, and after — inspectors 
 
 Source file: [`core_06.000_rights_part_a.md`](../../core_06.000_rights_part_a.md) · 28/31 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 Chapter Six states the basic Rights Floors no sentient may be pushed below. Those Rights Floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](../../core_00.000_preamble.md#material-stake). Other chapters help implement, measure, certify, and enforce those Rights Floors, but they do not get to shrink them.
 
-[Source](../../core_06.000_rights_part_a.md#1-purpose-and-role)
+[Source](../../core_06.000_rights_part_a.md#1-purpose-role-and-scope)
 
 ##### 1.1 Practical Enforcement
 

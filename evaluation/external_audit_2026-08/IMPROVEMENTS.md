@@ -77,7 +77,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B4. Forum independence and appointment floor — **done**
 
-**Homes:** [Chapter Twenty-Four §2.2](../../core_24.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums); [Chapter Twenty-Three §1](../../core_23.000_forum.md#1-purpose-and-role--participation-architecture). Under-appointment is a Chapter Twenty §3 failure.
+**Homes:** [Chapter Twenty-Four §2.2](../../core_24.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums); [Chapter Twenty-Three §1](../../core_23.000_forum.md#1-purpose-role-and-scope). Under-appointment is a Chapter Twenty §3 failure.
 **Do not:** Mandate one global polity or one appointment method.
 
 ### B5. Polity-adopter ratification minimum — **done**
