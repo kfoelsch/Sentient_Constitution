@@ -30,7 +30,7 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 *In plain terms: this chapter says when a system fails a definition in practice: when what it does or produces would violate the definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.*
 
-**Purpose.** [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) sets how every definition is built. Chapter Three answers what it means to fail one. A system is non-compliant when its actual behavior or output would violate a definition, judged under full functional conditions and not only on paper (**section 3**). Weakening a definition when it is applied is also non-compliance, whatever the intent, awareness, or claim (**section 2**; **Chapter Two section 2.2** (*Non-Compliance by Structural or Applied Weakening*)). The chapter also provides finding profiles, optional labels that name the kind of constitutional problem for routing and audits (**section 4**).
+**Purpose.** [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) sets how every definition is built. Chapter Three answers what it means to fail one. A system is non-compliant when its actual behavior or output would violate a definition, judged under full functional conditions and not only on paper (**section 3**). Weakening a definition when it is applied is also non-compliance, whatever the intent, awareness, or claim (**section 2**; **Chapter Two section 3.2** (*Non-Compliance by Structural or Applied Weakening*)). The chapter also provides finding profiles, optional labels that name the kind of constitutional problem for routing and audits (**section 4**).
 
 **Role.** The chapter sits between how definitions are built and how compliance is proved:
 
@@ -55,7 +55,7 @@ The chapter leaves:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
+- Upstream: Principles: [Chapter Two, §2 — Definition Components and Joint Satisfaction](core_02.000_definition_structure.md#2-definition-components-and-joint-satisfaction) (2.000 §2); [Chapter Two, §3 Definition Integrity Requirement](core_02.000_definition_structure.md#3-definition-integrity-requirement) (2.000 §3).
 - Downstream:
   - [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior);
   - [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000);
@@ -104,13 +104,13 @@ This section governs how definitions must be interpreted and applied in practice
 - Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 3**](#3-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion.
 - Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
 
-This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 1** and **Chapter Four, sections 2 and 5**.
+This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 2** and **Chapter Four, sections 2 and 5**.
 
 ### 3. Non-Compliance from Observable System Behavior
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](#2-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2); [Chapter Two, §2.2 Non-Compliance by Structural or Applied Weakening](core_02.000_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening) (2.000 §2.2).
+- Upstream: Principles: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](#2-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §3 Definition Integrity Requirement](core_02.000_definition_structure.md#3-definition-integrity-requirement) (2.000 §3); [Chapter Two, §3.2 Non-Compliance by Structural or Applied Weakening](core_02.000_definition_structure.md#32-non-compliance-by-structural-or-applied-weakening) (2.000 §3.2).
 - Downstream: type catalogs in sections
   - [3.1](#31-common-evasion-patterns) through
   - [3.6](#36-uncertainty-integrity-and-non-exploitation-constraint);
@@ -120,8 +120,8 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*system alignment certification reopening and anti-evasion pointer*);
   - [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000).
 - Read with:
-  - [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1) for the joint-satisfaction rule under full functional system conditions;
-  - [Chapter Two, §2.4 Interpretation Rule under Ambiguity](core_02.000_definition_structure.md#24-interpretation-rule-under-ambiguity) (2.000 §2.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
+  - [Chapter Two, §2 — Definition Components and Joint Satisfaction](core_02.000_definition_structure.md#2-definition-components-and-joint-satisfaction) (2.000 §2) for the joint-satisfaction rule under full functional system conditions;
+  - [Chapter Two, §3.4 Interpretation Rule under Ambiguity](core_02.000_definition_structure.md#34-interpretation-rule-under-ambiguity) (2.000 §3.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
   - [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof;
   - [Non-Compliance](core_05.045_band_integrative.md#non-compliance).
 
@@ -129,7 +129,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 <br>
 
-*In plain terms: a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.*
+*In plain terms: a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §3.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.*
 
 This section defines when systems are non-compliant based on observable behavior and outcomes, including:
 
@@ -240,7 +240,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
+- Upstream: [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior); [Chapter Two, §3 Definition Integrity Requirement](core_02.000_definition_structure.md#3-definition-integrity-requirement) (2.000 §3).
 - Downstream:
   - [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);

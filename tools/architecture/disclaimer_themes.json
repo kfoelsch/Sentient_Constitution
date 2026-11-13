@@ -97,7 +97,7 @@
       ],
       "canonical_home": "(local term pair — no global fold)",
       "default_action": "keep",
-      "notes": "Required O boundary per Chapter Two §2.1; do not centralize."
+      "notes": "Required O boundary per Chapter Two §3.1; do not centralize."
     },
     {
       "id": "anti_formalism",

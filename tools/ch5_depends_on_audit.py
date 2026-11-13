@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Advisory audit for the optional `**Depends on:**` sub-bullet under O.
 
-Chapter Two §1.1 introduces an optional `**Depends on:**` sub-bullet under the
+Chapter Two §2.1 introduces an optional `**Depends on:**` sub-bullet under the
 Ontological (O) component for *constitutive* prerequisites (bounds, floors,
 classifiers, alignment targets). To keep that line distinct from assessment
 routing, `**Depends on:**` must NOT merely restate the definition's own
@@ -142,7 +142,7 @@ def main() -> int:
         print(
             f"\n{len(warnings)} Depends-on/Measure overlap warning(s). "
             "Depends on should carry constitutive prerequisites, not assessment "
-            "co-measures (Chapter Two §1.1)."
+            "co-measures (Chapter Two §2.1)."
         )
         return 1 if args.strict else 0
     print("ch5-depends-on-audit: OK")

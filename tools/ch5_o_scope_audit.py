@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Audit Chapter Five O components for mandatory In scope / Out of scope sub-bullets.
 
-Enforces Chapter Two §2.1 and doc_architecture.md MEAS-DEF-01 entry placement step 2b:
+Enforces Chapter Two §3.1 and doc_architecture.md MEAS-DEF-01 entry placement step 2b:
 every O component must include at least one In scope sub-bullet (consolidated or
 dimensional) and at least one Out of scope sub-bullet.
 """

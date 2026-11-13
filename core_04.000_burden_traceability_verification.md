@@ -87,8 +87,8 @@ Read in order. Each step builds on the last; skip none.
 
 - Upstream:
   - [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](#2-exclusive-enforcement-and-burden-allocation);
-  - [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1);
-  - [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2);
+  - [Chapter Two, §2 — Definition Components and Joint Satisfaction](core_02.000_definition_structure.md#2-definition-components-and-joint-satisfaction) (2.000 §2);
+  - [Chapter Two, §3 Definition Integrity Requirement](core_02.000_definition_structure.md#3-definition-integrity-requirement) (2.000 §3);
   - [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000);
   - [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000) — substantive definition and non-compliance rules; **§3** states the trace-map requirement only and does not restate those rules.
 - Downstream: [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter Four, section 6 — Compliance Evidence Standard](#6-compliance-evidence-standard).
@@ -189,9 +189,9 @@ Cryptography and information-type handling must align with the Constitution and 
 
 - Upstream:
   - [Chapter Four, sections 2 through 5](#2-exclusive-enforcement-and-burden-allocation);
-  - [Chapter Two, §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1);
-  - [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2);
-  - [Chapter Two, §3 Consistency across the Definition Stack](core_02.000_definition_structure.md#3-consistency-across-the-definition-stack) (2.000 §3);
+  - [Chapter Two, §2 — Definition Components and Joint Satisfaction](core_02.000_definition_structure.md#2-definition-components-and-joint-satisfaction) (2.000 §2);
+  - [Chapter Two, §3 Definition Integrity Requirement](core_02.000_definition_structure.md#3-definition-integrity-requirement) (2.000 §3);
+  - [Chapter Two, §4 Consistency across the Definition Stack](core_02.000_definition_structure.md#4-consistency-across-the-definition-stack) (2.000 §4);
   - [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000);
   - [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000);
   - [Chapter Three, §3.6 Uncertainty Integrity and Non-Exploitation Constraint](core_03.000_definition_integrity.md#36-uncertainty-integrity-and-non-exploitation-constraint) (3.000 §3.6) — substantive definition and non-compliance rules; **§6** states evidence-layer requirements only and does not restate those rules.
@@ -223,7 +223,7 @@ Sections **2** through **4** set trace, observability, and security limits; this
 - for **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, reflect **scientific integrity** where proportionate — testable or reviewable methods, documented assumptions and limitations, no suppression of null results or failed replications where they bear on decisions, and conclusions revisable on new evidence
 
 **The following do not meet the burden of proof under section 2:**
-- failure to satisfy any required definition or component under [Chapter Two, §2.1 Core Integrity Conditions](core_02.000_definition_structure.md#21-core-integrity-conditions), or non-compliance under [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) — invalidating all dependent compliance claims under this chapter
+- failure to satisfy any required definition or component under [Chapter Two, §3.1 Core Integrity Conditions](core_02.000_definition_structure.md#31-core-integrity-conditions), or non-compliance under [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) — invalidating all dependent compliance claims under this chapter
 - failure to provide required evidence where it exists or is required under this chapter
 - proxy-only, self-attested, partial, or selectively scoped proof that would be non-compliant under [Chapter Three, section 3](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) if treated as the system's compliance demonstration
 - insufficient evidence to satisfy the **Evidence must** requirements above

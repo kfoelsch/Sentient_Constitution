@@ -1936,7 +1936,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - whether evaluation was incomplete in a way that defeats [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), [Risk](core_05.040_band_continuity.md#risk) assessment, or [Foreseeability](core_05.050_band_oversight.md#foreseeability).
 Outside that cluster's scope, individual entries may still apply on their own without importing the full compound.
 
-Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency across the Definition Stack](core_02.000_definition_structure.md#3-consistency-across-the-definition-stack)).
+Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §4 — Consistency across the Definition Stack](core_02.000_definition_structure.md#4-consistency-across-the-definition-stack)).
 
 **Sub-block members.** This sub-block comprises:
 

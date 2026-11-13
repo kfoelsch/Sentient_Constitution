@@ -42,7 +42,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Two §1 — Purpose, Role, and Scope](core_02.000_definition_structure.md#1-purpose-role-and-scope) (2.000 §1); [Chapter Two §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2); [Chapter Three §3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000 §3).
+- Upstream: [Chapter Two §2 — Definition Components and Joint Satisfaction](core_02.000_definition_structure.md#2-definition-components-and-joint-satisfaction) (2.000 §2); [Chapter Two §3 Definition Integrity Requirement](core_02.000_definition_structure.md#3-definition-integrity-requirement) (2.000 §3); [Chapter Three §3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000 §3).
 - Downstream: [Chapter Four §§2 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000 §2); [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000); [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter One §19.3 Misalignment Detection](core_01.050_governance_incentive_application.md#193-misalignment-detection) (1.050 §19.3) and
