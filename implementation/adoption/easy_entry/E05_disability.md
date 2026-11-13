@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -17,7 +17,7 @@
 
 *In plain terms: access has to work in practice, not only on a policy page — disability, health, and capability variation cannot be used as a quiet gate, and process that you cannot actually use is not participation.*
 
-This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article VI-D](../../../core_06.005_rights_part_b.md#article-vi-d-accessibility).
+This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article VI-D](../../../core_06.010_rights_part_b.md#article-vi-d-accessibility).
 
 ## One in six now — almost everyone in a full life
 
@@ -41,13 +41,13 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The form is a maze. The hearing is adversarial and loud. Deadlines assume one working style. A published process counts even when you cannot complete it. Cost, “that’s just how the system is designed,” or talk about your body or form is used to explain why you should use a lesser path.
 - **With this Constitution:** Everyone this covers has a right to accessible conditions for participation. Operators cannot use cost, design choices, or arguments about body or form to lock you out.
 
-See: [Article VI-D](../../../core_06.005_rights_part_b.md#article-vi-d-accessibility).
+See: [Article VI-D](../../../core_06.010_rights_part_b.md#article-vi-d-accessibility).
 
 **Disability and capability variation are protected characteristics.**
 - **Today:** A “neutral” rule does the same work as an explicit bar.
 - **With this Constitution:** Disability, health status, and variation in sensory, cognitive, or functional capability cannot be used, without adequate justification, as a basis for material disadvantage or exclusion.
 
-See: [Protected Characteristics](../../../core_05.055_band_participation.md#protected-characteristics); [Article VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination).
+See: [Protected Characteristics](../../../core_05.055_band_participation.md#protected-characteristics); [Article VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination).
 
 **Usable participation has an owner.**
 - **Today:** An accommodation exists on paper and fails in the room. Accommodations are favors.
@@ -59,7 +59,7 @@ See: [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability
 - **Today:** “You didn’t complete the form” is the end.
 - **With this Constitution:** Challenge, review, and redress have to be real, and delay is part of the failure.
 
-See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXVI-C](../../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor).
+See: [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXVI-C](../../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor).
 
 ## What you might reasonably object to
 
@@ -67,9 +67,9 @@ See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-relia
 
 - **“Supported decision-making is just someone else deciding.”** The point of the CI-6.220 map is usable participation and supported decision-making, not a quiet guardianship. Taking over decisions because it is faster is the scene on [the age-related challenges page](E06_age_related_challenges.md). A diagnosis used to take over your say is the scene on [the mental-health page](E14_mental_health.md).
 
-- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article VI-D](../../../core_06.005_rights_part_b.md#article-vi-d-accessibility).
+- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article VI-D](../../../core_06.010_rights_part_b.md#article-vi-d-accessibility).
 
-- **“This isn’t law at my clinic / school / job.”** Correct until a qualifying body adopts it. It does not override applicable disability or education law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law at my clinic / school / job.”** Correct until a qualifying body adopts it. It does not override applicable disability or education law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 - **“A separate rights stack would be simpler.”** This text does not add a second, softer set of rights. You hold the same basic protections. What it requires is that the path actually work — as a duty of the path, not as optional kindness.
 
@@ -77,7 +77,7 @@ See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-relia
 
 - A second, softer set of rights, access treated as optional charity, or a guarantee of your preferred format in every setting.
 - Winning a preference contest against someone else’s basic protection.
-- Erasing adult-to-adult expression under a vulnerability pretext ([Article XI-B](../../../core_06.005_rights_part_b.md#article-xi-b-expression) audience-routing discipline).
+- Erasing adult-to-adult expression under a vulnerability pretext ([Article XI-B](../../../core_06.010_rights_part_b.md#article-xi-b-expression) audience-routing discipline).
 - Enforcement against a clinic, school, or employer that has not adopted it.
 
 ## If you want to look further

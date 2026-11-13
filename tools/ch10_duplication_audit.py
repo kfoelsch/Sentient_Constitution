@@ -49,11 +49,15 @@ import audit_baseline  # noqa: E402
 ROOT = Path(__file__).resolve().parents[1]
 RULE = "CH10-DUPLICATION-01"
 BASELINE_NAME = "ch10_duplication"
-TARGET = "core_10.000_institutional_alignment_certification.md"
+TARGETS = (
+    "core_12.000_institutional_alignment_certification_evaluation.md",
+    "core_13.000_institutional_alignment_certification_forum_process_outcomes.md",
+    "core_14.000_institutional_alignment_certification_records_recertification.md",
+)
 SOURCES = {
     "A": "core_09.000_system_alignment_certification_evaluation.md",
-    "B": "core_09.005_system_alignment_certification_record_process.md",
-    "C": "core_09.010_system_alignment_certification_record_recertification.md",
+    "B": "core_10.000_system_alignment_certification_forum_process_outcomes.md",
+    "C": "core_11.000_system_alignment_certification_records_recertification.md",
 }
 MIN_WORDS = 8
 THRESHOLD = 0.85
@@ -141,6 +145,10 @@ def extract_sentences(rel_path: str, text: str) -> list[Sentence]:
         if match:
             section = match.group(2)
             continue
+        if raw.startswith("#"):
+            continue  # chapter titles are parallel by design (Chapters 9-11 and 12-14)
+        if stripped.startswith("*Draft pending steward review.*"):
+            continue  # Purpose and Role placeholder stub, identical until drafted
         cleaned = _clean(raw)
         if not cleaned:
             continue
@@ -186,14 +194,17 @@ def near_copies(targets: list[Sentence], sources: list[Sentence], threshold: flo
 
 
 def load_sentences(root: Path) -> tuple[list[Sentence], list[Sentence]]:
-    target_path = root / TARGET
-    targets = extract_sentences(TARGET, target_path.read_text(encoding="utf-8")) if target_path.is_file() else []
+    targets: list[Sentence] = []
+    for TARGET in TARGETS:
+        target_path = root / TARGET
+        if target_path.is_file():
+            targets += extract_sentences(TARGET, target_path.read_text(encoding="utf-8"))
     sources: list[Sentence] = []
     for part, name in SOURCES.items():
         path = root / name
         if path.is_file():
             for s in extract_sentences(name, path.read_text(encoding="utf-8")):
-                sources.append(Sentence(f"Chapter Nine Part {part}", s.line, s.section, s.text, s.tokens))
+                sources.append(Sentence(f"Chapters Nine to Eleven ({part})", s.line, s.section, s.text, s.tokens))
     return targets, sources
 
 

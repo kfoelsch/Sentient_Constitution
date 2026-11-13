@@ -32,15 +32,18 @@ from definition_index import (  # noqa: E402
 CH0_FILE = "core_00.000_preamble.md"
 CH1_FILES = [
     "core_01.000_values_principles.md",
-    "core_01.005_interaction_interpretation.md",
-    "core_01.010_stewardship_capacity_principles.md",
+    "core_01.010_values_principles_continuity_aim.md",
+    "core_01.020_interaction_interpretation.md",
+    "core_01.030_constitutional_interpretation.md",
+    "core_01.040_stewardship_capacity_principles.md",
+    "core_01.050_governance_incentive_application.md",
 ]
 CH6_FILES = [
     "core_06.000_rights_part_a.md",
-    "core_06.005_rights_part_b.md",
-    "core_06.010_rights_part_c.md",
-    "core_06.015_rights_part_d.md",
-    "core_06.020_rights_part_e.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.020_rights_part_c.md",
+    "core_06.030_rights_part_d.md",
+    "core_06.040_rights_part_e.md",
 ]
 
 TETRAD_TERMS = ["participation", "oversight", "accountability", "timeliness"]

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) through **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) through **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
+  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
@@ -45,7 +45,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 
 - Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*); **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
 - Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), and **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*) for authority, participation legitimacy, and procedural integrity terms
-- Read with: **Sentient Constitution Chapter Sixteen** section 4
+- Read with: **Sentient Constitution Chapter Twenty-Four** section 5
 - Read with: **Chapter Six **Article X-B** (*Governance Participation and Voting Entitlement*)**
 - Read with: **Chapter Six **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -149,9 +149,9 @@ Foundational constitutional choice equality floor
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in foundational constitutional choice equality floor.
 <a id="foundational-constitutional-choice-equality-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Sixteen section 4.1 and **Article X-B** (*Governance Participation and Voting Entitlement*)
+  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twenty-Four section 5.1 and **Article X-B** (*Governance Participation and Voting Entitlement*)
 
-    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Sixteen section 4.1 and **Article X-B** (*Governance Participation and Voting Entitlement*).
+    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twenty-Four section 5.1 and **Article X-B** (*Governance Participation and Voting Entitlement*).
 <a id="foundational-constitutional-choice-equality-floor-c"></a>
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
@@ -264,7 +264,7 @@ Stakeholder System Participation floor
 *In plain terms: where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be…*
 
 - **What it is**
-  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Sixteen section 4.3.
+  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Twenty-Four section 5.3.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
 <a id="stakeholder-governance-participation-floor-a"></a>
 - **How to measure and assess**
@@ -528,7 +528,7 @@ Summary integrity
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -734,7 +734,7 @@ User agency and control
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -848,7 +848,7 @@ Product and service health and safety information
 *In plain terms: when a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, what it says about safety, health, nutrition, ingredients, and allergens must be true, backed up, kept current, and usable by the sentients who need it.*
 
 - **What it is**
-  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter One §15.1.2 Derived-Information Principle](../core_01.005_interaction_interpretation.md#1512-derived-information-principle)). Those profiles are **Type I** data ([CS-6.310 Part B §9.5 Type I: Identity and Attribution Data](../corpus_systems/cs_06.310_data_classifications.md#95-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
+  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter One §15.1.2 Derived-Information Principle](../core_01.030_constitutional_interpretation.md#1512-derived-information-principle)). Those profiles are **Type I** data ([CS-6.310 Part B §9.5 Type I: Identity and Attribution Data](../corpus_systems/cs_06.310_data_classifications.md#95-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in product and service health and safety information.
 <a id="product-and-service-health-and-safety-information-a"></a>
 - **How to measure and assess**

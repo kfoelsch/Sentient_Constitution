@@ -14,10 +14,10 @@ from corpus_paths import binding_corpus_scope
 
 DEFAULT_ARTICLE_SOURCES = [
     "core_06.000_rights_part_a.md",
-    "core_06.005_rights_part_b.md",
-    "core_06.010_rights_part_c.md",
-    "core_06.015_rights_part_d.md",
-    "core_06.020_rights_part_e.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.020_rights_part_c.md",
+    "core_06.030_rights_part_d.md",
+    "core_06.040_rights_part_e.md",
 ]
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")

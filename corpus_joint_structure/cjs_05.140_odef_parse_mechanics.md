@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef Parse Mechanics*) and **CJS-5.140 §14**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef Parse Mechanics*) and **CJS-5.140 §14**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). General readers may defer this file until cross-domain **oDef** clusters are in scope.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*) section identifiers and **Def.*** / **oDef** homes;
-  - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
+  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational Clusters*).
 - Read with: **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-5.140 §14** (*Operational Clusters*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
@@ -47,7 +47,7 @@ A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guid
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
+  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-5.140 §14** (*Operational Clusters*).
 
@@ -87,7 +87,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
+  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: **CJS-5.140 §14** (*Operational Clusters*); **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*).
 
@@ -114,7 +114,7 @@ Application rules are strict:
 - partial satisfaction is not compliance,
 - no component may be used, satisfied, or evaluated on its own in a way that changes the compliance result.
 
-That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
+That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
 
 By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five §2.1 Joint Invocation and Satisfaction](../core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction).
 
@@ -126,6 +126,6 @@ Any read-with cross-reference stated in the head **In scope** (or head Trace) ap
 
 ---
 
-**Previous file:** [cjs_20.105_drafting_contracts.md](cjs_20.105_drafting_contracts.md)
+**Previous file:** [cjs_28.105_drafting_contracts.md](cjs_28.105_drafting_contracts.md)
 
-**Next file:** [cjs_20.110_specific_joint_interlocks.md](cjs_20.110_specific_joint_interlocks.md)
+**Next file:** [cjs_28.110_specific_joint_interlocks.md](cjs_28.110_specific_joint_interlocks.md)

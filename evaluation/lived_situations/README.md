@@ -2,7 +2,7 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Nineteen](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Twenty](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eleven standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Eleven–Fifteen application vignettes](../../corpus_joint_structure/cjs_11.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Twenty-Seven](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption. [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fifteen standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Fifteen–Twenty-Three application vignettes](../../corpus_joint_structure/cjs_15.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
 **Corpus edition pin:** `SC-Corpus-2026.10.21`.
@@ -40,7 +40,7 @@ Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
 In the “Model / agent” line, write: human operator — <your role>
 ```
 
-An AI-only screen would recreate the capture path [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
+An AI-only screen would recreate the capture path [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
 
 ## How scoring works
 
@@ -90,4 +90,4 @@ A results file is not standing measurement.
 | [`results/`](results/) | You (readable outcomes) |
 | [`../`](../) | You (announced pack — separate sitting) |
 | [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) | You (related outreach briefs — **not** this sitting; not an answer key) |
-| [`../../corpus_joint_structure/cjs_11.105_application_vignettes.md`](../../corpus_joint_structure/cjs_11.105_application_vignettes.md) | You (pipeline illustrations — not this sitting) |
+| [`../../corpus_joint_structure/cjs_15.105_application_vignettes.md`](../../corpus_joint_structure/cjs_15.105_application_vignettes.md) | You (pipeline illustrations — not this sitting) |

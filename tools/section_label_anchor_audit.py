@@ -81,7 +81,7 @@ BOLD_NUM_RE = re.compile(r"^\*\*(\d+(?:\.\d+)*)\.?\s+")
 ID_NUM_RE = re.compile(r"^(\d+(?:-\d+)*)-")
 SECTION_IN_TEXT_RE = re.compile(
     r"(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|"
-    r"Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty|\d+)\s+)?"
+    r"Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty-One|Twenty-Two|Twenty-Three|Twenty-Four|Twenty-Five|Twenty-Six|Twenty-Seven|Twenty-Eight|Twenty|\d+)\s+)?"
     r"§+\s*(\d+(?:\.\d+)*)",
     re.I,
 )
@@ -373,10 +373,10 @@ def audit(root: Path) -> list[str]:
             if not prose:
                 continue
             # Support/history files keep fossil § labels by design.
-            if rel.startswith(("implementation/", "evaluation/")) and (
-                rel not in front_door
+            if rel == "doc_architecture.md" or (
+                rel.startswith(("implementation/", "evaluation/")) and rel not in front_door
             ):
-                continue
+                continue  # dated move log and support files keep the numbering of their day
             if target_path not in anchor_cache:
                 anchor_cache[target_path] = anchors_in(
                     target_path.read_text(encoding="utf-8")

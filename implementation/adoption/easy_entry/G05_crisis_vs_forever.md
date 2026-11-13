@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,13 +25,13 @@ Something broke. Those running the system want to skip telling you, and skip you
 - **Today:** “We’ll tell you when it is feasible.” Feasible never arrives.
 - **With this Constitution:** Fast containment is allowed when harm is imminent. Skipping notice and challenge **permanently** is not. Restore them on a published clock.
 
-See: [Chapter Fifteen §6.1 Emergency measures and continuation burden](../../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden); [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
+See: [Chapter Twenty-Three §6.1 Emergency measures and continuation burden](../../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden); [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
 
 **The clock is not a slogan.**
 - **Today:** Process, hop count, or “read more files” eats the window while harm continues.
 - **With this Constitution:** Restore notice and challenge on the same stake-scaled clocks already used for timely resolution. Continuation past the bound needs a documented showing, not a vibe.
 
-See: [Chapter Fifteen §6.1 restore-challenge windows](../../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden); [Delay](../../STEWARD_ENTRY_DOORS.md#delay).
+See: [Chapter Twenty-Three §6.1 restore-challenge windows](../../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden); [Delay](../../STEWARD_ENTRY_DOORS.md#delay).
 
 **Blocking documented containment until full notice can also fail.**
 - **Today:** A survival-critical deferral is already written down. Someone refuses to contain until every notice is perfect.
@@ -51,7 +51,7 @@ See: [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
 
 - A right to block a documented highest-urgency containment until a meeting is perfect.
 - A permanent extra rulebook that replaces ordinary rights because someone said “crisis.”
-- Enforcement against a body that has not agreed to follow this Constitution ([Chapter Twenty §4](../../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a body that has not agreed to follow this Constitution ([Chapter Twenty-Eight §4](../../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 

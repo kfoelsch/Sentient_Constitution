@@ -16,7 +16,7 @@ four duties — participation, oversight, accountability, and timeliness — sca
 
 ### 6. Key Practical Process Pipelines
 
-Chapters Nine through Fifteen apply Chapter Eight's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
+Chapters Nine through Twenty-Three apply Chapter Eight's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
 
 [Source](../../core_00.000_preamble.md#6-key-practical-process-pipelines)
 
@@ -24,13 +24,13 @@ Chapters Nine through Fifteen apply Chapter Eight's separation-of-duties require
 
 when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.
 
-[Source](../../core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)
+[Source](../../core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)
 
 ### 17.1 Shared Stewardship Standard
 
-human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment under Pressure](../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure).
+human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment under Pressure](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure).
 
-[Source](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)
+[Source](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)
 
 ## Rights Floor one-liners
 

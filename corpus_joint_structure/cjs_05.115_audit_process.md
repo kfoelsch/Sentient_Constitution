@@ -3,11 +3,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*) / **oDef.3**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*) / **oDef.3**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Five [Auditability](../core_05.050_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06.010_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Do not treat this file, Chapter Nine, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Five [Auditability](../core_05.050_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Do not treat this file, Chapter Nine, or an OP annex as a fifth audit home.
 
 </details>
 
@@ -17,7 +17,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
+  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md) (**CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*) auditability terms, **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*), **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)).
 - Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*); **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
@@ -27,7 +27,7 @@
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
-- Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
+- Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -123,7 +123,7 @@ Audit when any of the following applies (often more than one):
 
 - **Class, impact, or dependency requires it** — including **Class A**, **Class B**, and **Class C** systems, and institution or forum functions that materially affect sentients
 - **Material change** — capability, scope, behavior, dependency, risk, incentive structure, or governance changes enough that prior checks no longer describe reality
-- **Scheduled audit** — for a system or Institution, at the audit midpoint of its class's certification interval ([Chapter Fifteen §6 Review cadence](../core_15.000_forum.md#review-cadence)); for any other subject, on a schedule scaled to its impact
+- **Scheduled audit** — for a system or Institution, at the audit midpoint of its class's certification interval ([Chapter Twenty-Three §6 Review cadence](../core_23.000_forum.md#review-cadence)); for any other subject, on a schedule scaled to its impact
 - **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
 - **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-6.345 (*System lifecycle*) ACA), without treating monitoring alone as a complete audit
 - **Certification or recertification cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
@@ -134,7 +134,7 @@ Audit when any of the following applies (often more than one):
 
 ### Sibling Audit Modes (Owner Map)
 
-*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in **Article XVI** (*Audit, Transparency, and Independent Verification*)](../core_06.010_rights_part_c.md#audit-three-layers): **Article XVI** (*Audit, Transparency, and Independent Verification*) floor, Auditability property, this file as how/when). They are not extra homes.*
+*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in **Article XVI** (*Audit, Transparency, and Independent Verification*)](../core_06.020_rights_part_c.md#audit-three-layers): **Article XVI** (*Audit, Transparency, and Independent Verification*) floor, Auditability property, this file as how/when). They are not extra homes.*
 
 | Mode | Owner (do not restate doctrine here) |
 |---|---|
@@ -143,13 +143,13 @@ Audit when any of the following applies (often more than one):
 | System Data Types Record audit | **CS-6.305 and CS-6.310** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-6.305 and CS-6.310** (Type O / Type G / bands); output-level preference in **CJS-5.110 §4** |
 | System Classification Record audit | **CS-9.305 and CS-9.310** §7.3 |
-| Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-16.305** (*Critical system stewardship*) §CS-16.305 §8 *Conduct, conflicts of interest, and independence* and §CS-16.305 §11 *Integrated risk governance (Class A/B)* |
+| Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-24.305** (*Critical system stewardship*) §CS-24.305 §8 *Conduct, conflicts of interest, and independence* and §CS-24.305 §11 *Integrated risk governance (Class A/B)* |
 | Continuous audit (systems layer: automated constitutional auditing) | **CS-6.345** (*System lifecycle*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), not this row |
-| Complexity audits (systems profile) | **CS-6.315**; **Article XXIII-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-16.305** (*Critical system stewardship*) §CS-16.305 §5 *Comprehensibility and complexity stewardship* |
+| Complexity audits (systems profile) | **CS-6.315**; **Article XXIII-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-24.305** (*Critical system stewardship*) §CS-24.305 §5 *Comprehensibility and complexity stewardship* |
 | Claim verification (material-claim verification scope, structured claim-testing, and correction integrity) | **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **Article XVI-C** (*Verification Accessibility*) |
 | Institutional transparency and accessible challenge and service pathways | **CI-6.205** (read with **CI-8.215 §3** where monitoring or escalation applies) |
-| Forum performance, backlog, publication, accessibility | **CF-15.445** |
-| Cross-implementation trust when layers combine | **CJS-20.110 §3** / **CJS-R17** |
+| Forum performance, backlog, publication, accessibility | **CF-23.445** |
+| Cross-implementation trust when layers combine | **CJS-28.110 §3** / **CJS-R17** |
 
 **Machine-facing annexes (not this file):**
 - Auditability and reconstructability OP terms → [CJS-5.110 §3 annex](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex)

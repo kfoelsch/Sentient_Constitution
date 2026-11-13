@@ -54,7 +54,7 @@ class GroundQualifiedTests(unittest.TestCase):
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe forum states the grounds.\n```\nThe forum states the grounds.\n"
-        found = scan_text("core_10.000_institutional_alignment_certification.md", text)
+        found = scan_text("core_12.000_institutional_alignment_certification_evaluation.md", text)
         self.assertEqual([f.line for f in found], [4])
         self.assertEqual(scan_text("doc_architecture.md", "The forum states the grounds.\n"), [])
 

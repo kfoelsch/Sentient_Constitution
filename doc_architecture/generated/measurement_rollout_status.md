@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-08T16:14:56+00:00
+Generated: 2026-11-13T05:47:36+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **304/304** terms pass tier audit.
@@ -45,7 +45,7 @@ Approved progress: **304/304** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adoption Transition | approved | primary_only | independent | `core_05.040_band_continuity.md` | yes | pass |
+| Adoption Transition | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Anti-Capture | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cause Finding | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -131,7 +131,7 @@ Approved progress: **304/304** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Accessibility | approved | primary_secondary | independent | `core_05.055_band_participation.md` | yes | pass |
+| Accessibility | approved | primary_secondary | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Animal Life | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Assembly | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Best-Interest Standard | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
@@ -194,7 +194,7 @@ Approved progress: **304/304** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adversarial, Scaled, and Exploited Conditions | approved | primary_only | independent | `core_05.050_band_oversight.md` | yes | pass |
+| Adversarial, Scaled, and Exploited Conditions | approved | primary_only | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
 | Auditability | approved | full | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
 | Authority Stack and Internal Hierarchy | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Capability Requirement | approved | primary_only | cluster_member | `core_05.050_band_oversight.md` | yes | pass |
@@ -258,7 +258,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Decentralization | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Documented Legitimacy Mechanism | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Due Process | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
-| Duty to Resist | approved | primary_only | independent | `core_05.035_band_accountability.md` | yes | pass |
+| Duty to Resist | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Feasibility | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
@@ -299,7 +299,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Necessity | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Negligence | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | No-Bypass | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
-| Non-Compliance | approved | primary_only | independent | `core_05.045_band_integrative.md` | yes | pass |
+| Non-Compliance | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Non-Compliance Finding Profile | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Outcome-Resolution Source | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Participant Standing | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

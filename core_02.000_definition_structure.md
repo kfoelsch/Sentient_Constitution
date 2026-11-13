@@ -5,7 +5,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Two**: definition structure and component alignment (O/M/A/C). **Chapter Three** — definition integrity, evasion, and non-compliance — is in [`core_03.000_definition_integrity.md`](core_03.000_definition_integrity.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
-> **Upstream:** [Chapter One, Part C](core_01.010_stewardship_capacity_principles.md).
+> **Upstream:** [Chapter One, Part E](core_01.040_stewardship_capacity_principles.md).
 > **Downstream:** [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).
 
 </details>
@@ -47,8 +47,8 @@ Chapter Two is the constitutional owner of **definition structure and component 
   - [§1.2 Measurement Components](#12-measurement-components-m--how-it-must-be-measured) and
   - [§1.3 Assessment Components](#13-assessment-components-a--how-it-must-be-assessed) (*Measurement (M) register interwoven with the assessment duty; O/M/A/C entry shape in this chapter*);
   - [§2 Definition Integrity Requirement](#2-definition-integrity-requirement);
-  - [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000);
-  - [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000);
+  - [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000);
+  - [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000);
   - [Chapter Five Compass and Definition Map](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000).
 - Read with:
   - [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and
@@ -123,7 +123,7 @@ Chapter Five leaf definitions must carry those M requirements using the Measurem
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§1 Purpose and Role](#1-purpose-and-role) — A component role within O/M/A/C decomposition.
-- Downstream: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000) — evidence sufficiency for that enforcement.
+- Downstream: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000); [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence sufficiency for that enforcement.
 - Read with: [Chapter Five Independent Definitions](core_05.000_definitions_home.md#1-interdependent-definitions) (5.000) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
 
 </details>
@@ -193,9 +193,9 @@ Chapter Five leaf definitions must carry those C requirements using the Complian
 - Downstream:
   - [§2.4 Interpretation Rule under Ambiguity](#24-interpretation-rule-under-ambiguity);
   - [§3 Consistency across the Definition Stack](#3-consistency-across-the-definition-stack);
-  - [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000);
-  - [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000);
-  - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000).
+  - [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000);
+  - [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000);
+  - [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000).
 - Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05.050_band_oversight.md#foreseeability) (5.050) — operative meaning for every “reasonably foreseeable” in Chapters Two through Four.
 
 </details>
@@ -239,7 +239,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [§1 Purpose and Role](#1-purpose-and-role).
-- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (3.000); [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000); Chapter Four sections **4**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
+- Downstream: [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (3.000); [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000); Chapter Four sections **4**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05.050_band_oversight.md#foreseeability) (5.050) — the rule for every “reasonably foreseeable” in Chapters Two through Four. The term itself is defined at [Reasonably Foreseeable](core_05.050_band_oversight.md#reasonably-foreseeable) in Chapter Five.
 
 </details>
@@ -257,6 +257,6 @@ A definition's parts must stay consistent across:
 
 ---
 
-**Previous file:** [core_01.010_stewardship_capacity_principles.md](core_01.010_stewardship_capacity_principles.md)
+**Previous file:** [core_01.050_governance_incentive_application.md](core_01.050_governance_incentive_application.md)
 
 **Next file:** [core_03.000_definition_integrity.md](core_03.000_definition_integrity.md)

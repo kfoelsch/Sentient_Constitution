@@ -45,11 +45,11 @@ CHAPTER_WORDS = {
     0: "Preamble", 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
     7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve",
     13: "Thirteen", 14: "Fourteen", 15: "Fifteen", 16: "Sixteen",
-    17: "Seventeen", 18: "Eighteen", 19: "Nineteen", 20: "Twenty",
+    17: "Seventeen", 18: "Eighteen", 19: "Nineteen", 20: "Twenty", 21: "Twenty-One", 22: "Twenty-Two", 23: "Twenty-Three", 24: "Twenty-Four", 25: "Twenty-Five", 26: "Twenty-Six", 27: "Twenty-Seven", 28: "Twenty-Eight",
 }
 
 # Files that add no rule: they must say so instead of claiming ownership.
-# None at present: the Chapter Eleven application vignettes moved to CJS-11.105.
+# None at present: the Chapter Eleven application vignettes moved to CJS-15.105.
 CORE_NON_OWNER: set[str] = set()
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".
 CORE_PART_OPTIONAL = {"core_06.000_rights_part_a.md"}
@@ -67,7 +67,7 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_15.475_sentience_status_record.md": (
+    "corpus_forum/cf_23.475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
         "Chapter Five's definition names it the designated implementation text",
     ),
@@ -139,6 +139,8 @@ def chapter_and_part(name: str) -> tuple[int | None, str | None]:
                     if original_match and int(original_match.group(1)) == int(m.group(1))
                     else None
                 )
+                if part and sum(1 for r in rows if r.get("core_home") == m.group(1) and r.get("layer") == "CORE") <= 1:
+                    part = None  # Parts only where the chapter still has several files (Chapters 1 and 6)
             except (OSError, KeyError, ValueError):
                 pass
     return int(m.group(1)), part.upper() if part else None

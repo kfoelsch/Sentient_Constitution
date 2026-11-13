@@ -55,7 +55,7 @@ class ViolationFindingTests(unittest.TestCase):
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nA lock rests on a verified finding.\n```\nA lock rests on a verified finding.\n"
-        found = scan_text("core_13.000_standing_integration.md", text)
+        found = scan_text("core_17.000_standing_integration.md", text)
         self.assertEqual([f.line for f in found], [4])
         self.assertEqual(scan_text("doc_architecture.md", "A lock rests on a verified finding.\n"), [])
 

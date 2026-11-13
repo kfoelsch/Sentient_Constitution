@@ -66,7 +66,7 @@ from lexical_vocabulary_audit import _mask_inline_code_and_link_targets  # noqa:
 ROOT = Path(__file__).resolve().parents[1]
 RULE = "CRITERION-NAMED-01"
 EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
-SOURCE_FILE = "core_14.000_misconduct_designation.md"
+SOURCE_FILE = "core_21.000_misconduct_designation.md"
 
 NAMES = {
     1: "Willful deceptive intent",

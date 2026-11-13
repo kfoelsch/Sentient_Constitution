@@ -1,11 +1,11 @@
 # External comparative audit — findings
 
-**Status:** Process support — **cannot narrow core text**. Not adoption, not certification, not a Chapter Eleven standing record.
+**Status:** Process support — **cannot narrow core text**. Not adoption, not certification, not a Chapter Fifteen standing record.
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09`
 **Date:** 2026-08-15
 **Method:** Six-factor rubric (scope, substance, justiciability, non-regression, operability, pedigree) scored **Better / Mixed / Worse / Incommensurable** against named primary instruments. Corpus maps from the locator pass; comparators from [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md). Indexes point; numbered `core_*` files bind.
 
-**Category caveat (sits on every verdict):** [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states this is a **model constitution**. Enforceability exists only after valid adoption. State constitutions are the **wrong primary class** for process scoring: they supply amendment, emergency, and review *design patterns*, not legitimacy or public force. Treaties, SAI/audit regimes, and AI-assurance rules are closer analogues for how a non-state text binds and is verified. Pedigree is scored separately from substance. See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) process class note and accuracy flags.
+**Category caveat (sits on every verdict):** [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states this is a **model constitution**. Enforceability exists only after valid adoption. State constitutions are the **wrong primary class** for process scoring: they supply amendment, emergency, and review *design patterns*, not legitimacy or public force. Treaties, SAI/audit regimes, and AI-assurance rules are closer analogues for how a non-state text binds and is verified. Pedigree is scored separately from substance. See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) process class note and accuracy flags.
 
 No single scalar. A text that is stronger on scope and weaker on pedigree is **Mixed**, not “better.”
 
@@ -46,11 +46,11 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Justiciability — Mixed.** Article V-D plus Technical Forum Domains give a designed status-adjudication path that *Breheny* refused to invent at common law. Article XII-B requires reachable challenge, review, and redress. Until adoption, none of that binds a state. UK sentience law is in force but only produces committee reports to ministers.
 
-**Non-regression — Better.** Chapter Seventeen Test 1 invalidates material weakening of Chapter Six protections, including indirect narrowing through definitions, standing gates, verification barriers, or emergency carve-outs. Human-rights treaties use non-retrogression as interpretive discipline (CESCR GC 3), not as automatic invalidity of a completed amendment.
+**Non-regression — Better.** Chapter Twenty-Five Test 1 invalidates material weakening of Chapter Six protections, including indirect narrowing through definitions, standing gates, verification barriers, or emergency carve-outs. Human-rights treaties use non-retrogression as interpretive discipline (CESCR GC 3), not as automatic invalidity of a completed amendment.
 
-**Operability — Mixed.** Def.P1, Sentience Non-Exclusion, and Article V-D are steward-usable. The concrete sentience-indicator catalog is forum/standards operational, not a fixed statutory list. Chapter Fifteen notes no dedicated Sentience-Status Adjudication Record schema yet in Chapter Twenty files — the floor binds; the record is thin.
+**Operability — Mixed.** Def.P1, Sentience Non-Exclusion, and Article V-D are steward-usable. The concrete sentience-indicator catalog is forum/standards operational, not a fixed statutory list. Chapter Twenty-Three notes no dedicated Sentience-Status Adjudication Record schema yet in Chapter Twenty-Eight files — the floor binds; the record is thin.
 
-**Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Nineteen §10.1](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption)).
+**Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption)).
 
 ### Paired quotes
 
@@ -58,7 +58,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Who counts (comparator):** “All human beings are born free and equal in dignity and rights.” — UDHR Art. 1
 
-**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
+**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
 
 **Contested default (comparator):** “Because the writ of habeas corpus is intended to protect the liberty right of human beings to be free of unlawful confinement, it has no applicability to Happy, a nonhuman animal who is not a ‘person’ subjected to illegal detention.” — *Breheny*, 38 NY3d at 565–566
 
@@ -86,7 +86,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Substance — Mixed.** The Article I stack (preconditions/integrity, footprint transparency, intergenerational responsibility, existential-risk / recovery-capacity scrutiny), anti-offset extinction as a primary failure of Ecological Integrity, material stewardship (Article II), and resource-flow / ecosystem funding (Article IV) is thicker than South Africa s.24 or the French Environmental Charter. [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) **expressly does not require footprint reduction or caps by itself**. There is no planetary-boundaries framework, carbon budget, or Paris-style temperature article. *Neubauer* (2021) and the ICJ advisory opinion of 23 July 2025 impose climate due diligence and intergenerational allocation that this instrument states only as qualitative heightened scrutiny under Article I-D. Indigenous Continuity is a community-anchored floor that **does not decide historical land title** — weaker than UNDRIP and ILO 169 on lands, territories, and FPIC.
 
-**Justiciability — Mixed.** Chapter Fifteen Environment forums, Chapter Nine §5 footprint evaluation, and Chapter Thirteen remedy are unusually specific for a constitution-like text. Aarhus and Escazú already deliver in-force access-to-justice rights. Ecuador lets **any person** petition to enforce nature’s rights. Te Awa Tupua names Te Pou Tupua as the river’s legal face. This corpus has neither.
+**Justiciability — Mixed.** Chapter Twenty-Three Environment forums, Chapter Nine §5 footprint evaluation, and Chapter Seventeen remedy are unusually specific for a constitution-like text. Aarhus and Escazú already deliver in-force access-to-justice rights. Ecuador lets **any person** petition to enforce nature’s rights. Te Awa Tupua names Te Pou Tupua as the river’s legal face. This corpus has neither.
 
 **Non-regression — Better.** Articles I–IV sit inside Chapter Six, so Test 1 covers ecological floors including indirect definitional narrowing. UNGA 76/300 is a non-binding recognition. Paris NDCs can be weakened without constitutional invalidity.
 
@@ -108,7 +108,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05.040_band_continuity.md#ecological-integrity)
 
-**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
+**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 
 ### Steelman
 
@@ -122,7 +122,7 @@ Calling this a Rights-of-Nature constitution is false. Calling it a weak environ
 
 ### Factor scores
 
-**Scope — Mixed.** The process stack covers amendment validity, ratification, incorporation custody, certification, standing measurement, forum families, emergency clocks, interpretive anti-capture, and a duty to resist unlawful instructions. That is broader than a single amendment article plus one apex review body. It does not specify a single demos, a public appointment path for forums, or a UN-style monitoring body. Chapter Sixteen sets democratic-institution **minimum checks** (contested selection, opposition protection, peaceful succession) without mandating one global polity.
+**Scope — Mixed.** The process stack covers amendment validity, ratification, incorporation custody, certification, standing measurement, forum families, emergency clocks, interpretive anti-capture, and a duty to resist unlawful instructions. That is broader than a single amendment article plus one apex review body. It does not specify a single demos, a public appointment path for forums, or a UN-style monitoring body. Chapter Twenty-Four sets democratic-institution **minimum checks** (contested selection, opposition protection, peaceful succession) without mandating one global polity.
 
 **Substance — Better** versus typical written-constitution process, with the pedigree caveat. Distinctive designed safeguards with few peers:
 
@@ -130,15 +130,15 @@ Calling this a Rights-of-Nature constitution is false. Calling it a weak environ
 - **Certification-before-standing:** a certification record does not apply standing effects.
 - **Cross-forum anti-self-judging:** a forum family cannot be the sole final merits forum for claims about its own capture or bias.
 - **Auditability as a Rights Floor** (Article XV) plus CJS-5.110 §3 and CJS-5.115 §3 as the how/when home.
-- **Duty to resist** unlawful or unconstitutional instructions ([Chapter Thirteen §5.4](../../core_13.010_violation_consequences.md#743-duty-to-resist)).
-- **No silent edition swap** ([Chapter Twenty §3](../../core_20.000_incorporation.md#3-safeguards)).
+- **Duty to resist** unlawful or unconstitutional instructions ([Chapter Nineteen §3.4.3](../../core_19.000_violation_consequences.md#343-duty-to-resist)).
+- **No silent edition swap** ([Chapter Twenty-Eight §3](../../core_28.000_incorporation.md#3-safeguards)).
 - Emergency continuation burden and Article XXIV-C anti-delay clocks.
 
 German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and in force. India’s basic-structure doctrine (*Kesavananda*) is judge-made. South Africa s.1 is a supermajority, not unamendability. ICESCR non-retrogression is CESCR doctrine, not a Covenant article, and does not auto-invalidate. EU AI Act Arts. 43/72 are the closest certify-then-monitor analogue, still product-safety rather than civic standing. UNGPs require due diligence without constitutional status. ILO Art. 36 and TEU Art. 48 illuminate non-state constitutive consent; both still rest on member states.
 
-**Justiciability — Mixed.** Forum families, backup routing, and published thresholds are specified. Real independence still depends on adopters staffing Integrity/Constitutional forums and funding remedy systems (Chapter Thirteen §9). Venice Commission benchmarks and ECHR Art. 6 rest on in-force public benches.
+**Justiciability — Mixed.** Forum families, backup routing, and published thresholds are specified. Real independence still depends on adopters staffing Integrity/Constitutional forums and funding remedy systems (Chapter Twenty §3). Venice Commission benchmarks and ECHR Art. 6 rest on in-force public benches.
 
-**Non-regression — Better.** “Any amendment that fails Chapter Seventeen or any test in sections 4 through 6 of this chapter is invalid regardless of procedural completion.” ECHR Art. 53 / EU Charter Art. 53 preserve more favourable rights; they do not invalidate a completed national amendment.
+**Non-regression — Better.** “Any amendment that fails Chapter Twenty-Five or any test in sections 5 through 7 of this chapter is invalid regardless of procedural completion.” ECHR Art. 53 / EU Charter Art. 53 preserve more favourable rights; they do not invalidate a completed national amendment.
 
 **Operability — Worse.** Owner register, multi-corpus stack, and cross-file reading cost are high relative to a short bill of rights. Complexity can impair the Tetrad’s **participation** and **timeliness** legs even where the text names both as duties. Steward doors exist as process support; they cannot narrow core and are not a substitute for public accessibility.
 
@@ -146,17 +146,17 @@ German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and
 
 ### Paired quotes
 
-**Non-regression (corpus):** “No constitutional change is valid if it materially weakens core protections for any covered sentient class. … Material weakening includes indirect narrowing through definitions, procedures, standing gates, verification barriers, or emergency carve-outs.” — [Chapter Seventeen §1](../../core_17.000_non_regression.md#1-non-regression-floor)
+**Non-regression (corpus):** “No constitutional change is valid if it materially weakens core protections for any covered sentient class. … Material weakening includes indirect narrowing through definitions, procedures, standing gates, verification barriers, or emergency carve-outs.” — [Chapter Twenty-Five §2](../../core_25.000_non_regression.md#2-non-regression-floor)
 
 **Non-regression (comparator):** “Amendments to this Basic Law affecting the division of the Federation into Länder, their participation in principle in the legislative process, or the principles laid down in Articles 1 and 20 shall be inadmissible.” — German Basic Law Art. 79(3)
 
-**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Nine owns evaluation/record; Chapter Eleven owns standing records; this chapter “may supply verified inputs only.” — [Chapter Nine §11](../../core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)
+**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Nine owns evaluation/record; Chapter Fifteen owns standing records; this chapter “may supply verified inputs only.” — [Chapter Eleven §5](../../core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)
 
-**Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Fifteen §3](../../core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
+**Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
 
-**Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Nineteen §10.1](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption)
+**Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption)
 
-**Model-constitution limit (corpus):** “Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.” — [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)
+**Model-constitution limit (corpus):** “Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.” — [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)
 
 ### Steelman
 

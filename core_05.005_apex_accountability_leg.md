@@ -16,29 +16,29 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
-  - [Chapter One §18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
-  - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6); Chapter One Part B tradeoff and interpretation homes:
-  - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
-  - [Chapter One §13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (1.005 §13.1.3);
-  - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);
-  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
-  - [Chapter One §13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (1.005 §13.2.1);
-  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
-  - [Chapter One §15.1.2 Derived-Information Principle](core_01.005_interaction_interpretation.md#1512-derived-information-principle) (1.005 §15.1.2);
+  - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
+  - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.050 §19.6); Chapter One Part B tradeoff and interpretation homes:
+  - [Chapter One §13.1.1 Necessity](core_01.020_interaction_interpretation.md#1311-necessity) (1.020 §13.1.1);
+  - [Chapter One §13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality) (1.020 §13.1.3);
+  - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.020 §13.1.4);
+  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.020 §13.1.5);
+  - [Chapter One §13.2.1 Preservation of Epistemic Integrity](core_01.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (1.020 §13.2.1);
+  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (1.030 §15.1);
+  - [Chapter One §15.1.2 Derived-Information Principle](core_01.030_constitutional_interpretation.md#1512-derived-information-principle) (1.030 §15.1.2);
   - [Tetrad Leg Decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in
   - [core_05.035_band_accountability.md](core_05.035_band_accountability.md).
 - Sibling Tetrad leg: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional).
-- Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own Act Record, so the chain of answerability exists when review is needed*).
+- Read with: [Chapter One §16.4 Document at Action](core_01.040_stewardship_capacity_principles.md#164-document-at-action) (1.040 §16.4) (*the act makes its own Act Record, so the chain of answerability exists when review is needed*).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05.005_apex_accountability_leg.md#accountability),
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
   - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity),
-  - [Chapter One §19.6](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6),
-  - [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03.000_definition_integrity.md#211-formal-label-and-representation-gaming) (3.000 §2.1.1), and
-  - [Chapter Thirteen §10.1](core_13.015_final_effect_restoration_enforcement.md#101-remediation-capacity-and-funding) (13.000 §10.1) /
-  - [Chapter Thirteen §10.4](core_13.015_final_effect_restoration_enforcement.md#104-anti-evasion-and-look-through-authority) (13.000 §10.4).
+  - [Chapter One §19.6](core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.050 §19.6),
+  - [Chapter Three §3.1.1 Formal Label and Representation Gaming](core_03.000_definition_integrity.md#311-formal-label-and-representation-gaming) (3.000 §3.1.1), and
+  - [Chapter Twenty §4.1](core_20.000_final_effect_restoration_enforcement.md#41-remediation-capacity-and-funding) (20.000 §4.1) /
+  - [Chapter Twenty §4.4](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority) (20.000 §4.4).
 
 </details>
 
@@ -103,7 +103,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (1.010 §19), [§11 Market Structure](core_01.000_values_principles.md#11-market-structure), and [Chapter Nine §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) (9.000 §3.1).
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (1.050 §19), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [Chapter Nine §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) (9.000 §3.1).
 
 </details>
 

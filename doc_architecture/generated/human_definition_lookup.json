@@ -110,11 +110,11 @@
     },
     {
       "query": "independent review",
-      "file": "core_15.000_forum.md",
-      "anchor": "#chapter-fifteen-forums-and-jurisdiction",
+      "file": "core_23.000_forum.md",
+      "anchor": "#chapter-twenty-three-forums-and-jurisdiction",
       "title": "CHAPTER FIFTEEN: FORUMS AND JURISDICTION",
-      "plain_terms": "Under the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eleven–Fourteen standing pipeline — routing, independence, forensic support, remediation sequencing, and tier windows under **section 6** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
-      "href": "../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction"
+      "plain_terms": "Under the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Fifteen–Twenty-Two standing pipeline — routing, independence, forensic support, remediation sequencing, and tier windows under **section 6** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
+      "href": "../../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction"
     }
   ],
   "term_count": 307,
@@ -641,7 +641,7 @@
       "term": "Domain-Specific Materiality",
       "file": "core_05.050_band_oversight.md",
       "anchor": "#domain-specific-materiality",
-      "plain_terms": "this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Five Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-five-narrow-limits).",
+      "plain_terms": "this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §3 The Right to Form, and Five Narrow Limits](../../core_07.000_charters.md#3-the-right-to-form-and-five-narrow-limits).",
       "href": "../../core_05.050_band_oversight.md#domain-specific-materiality"
     },
     {
@@ -949,7 +949,7 @@
       "term": "Governance Violation",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#governance-violation",
-      "plain_terms": "a **governance violation** is the name Chapter Ten gives to an Institution's governance failure that reopens review of its Systems. It names the reopening grounds and does not mean a violation for standing. Only a material one reopens.",
+      "plain_terms": "a **governance violation** is the name Chapter Twelve gives to an Institution's governance failure that reopens review of its Systems. It names the reopening grounds and does not mean a violation for standing. Only a material one reopens.",
       "href": "../../core_05.040_band_continuity.md#governance-violation"
     },
     {
@@ -1229,7 +1229,7 @@
       "term": "Lifespan Equivalent Unit (LEQU)",
       "file": "core_05.055_band_participation.md",
       "anchor": "#lifespan-equivalent-unit-lequ",
-      "plain_terms": "a shared unit for expressing full-life-equivalent benefit or loss when Chapter Twelve standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.",
+      "plain_terms": "a shared unit for expressing full-life-equivalent benefit or loss when Chapter Sixteen standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.",
       "href": "../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ"
     },
     {
@@ -1348,7 +1348,7 @@
       "term": "Misaligned Reward Correction",
       "file": "core_05.045_band_integrative.md",
       "anchor": "#misaligned-reward-correction",
-      "plain_terms": "once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Thirteen decides how they are forfeited, clawed back, reported, and corrected.",
+      "plain_terms": "once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Seventeen decides how they are forfeited, clawed back, reported, and corrected.",
       "href": "../../core_05.045_band_integrative.md#misaligned-reward-correction"
     },
     {
@@ -2020,7 +2020,7 @@
       "term": "Sustained High-Gravity Pattern",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "plain_terms": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Twelve slot 7, 8, or 9, even without one catastrophic moment.",
+      "plain_terms": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Sixteen slot 7, 8, or 9, even without one catastrophic moment.",
       "href": "../../core_05.035_band_accountability.md#sustained-high-gravity-pattern"
     },
     {
@@ -2237,7 +2237,7 @@
       "term": "Violation Nature",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "plain_terms": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Twelve assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
+      "plain_terms": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Sixteen assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
       "href": "../../core_05.035_band_accountability.md#violation-nature"
     },
     {

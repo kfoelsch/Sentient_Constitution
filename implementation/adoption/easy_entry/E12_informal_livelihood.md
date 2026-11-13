@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -51,7 +51,7 @@ See: [Protected Characteristics](../../../core_05.055_band_participation.md#prot
 - **Today:** A new ID wallet, mobile lender, or NGO app is now the gate to water, a stall permit, a remittance, or a clinic queue. A fee or a data-share is the price of staying visible. Modernization means one vendor, opaque formats, and a fee to exit.
 - **With this Constitution:** Leaving, taking your records with you, and systems that can actually work with each other have to work in practice. Tricks that make leaving costly or confusing are violations.
 
-See: [Article XXI](../../../core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule).
+See: [Article XXI](../../../core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06.030_rights_part_d.md#article-xxi-c-anti-lock-in-rule).
 
 **Unpaid care still cannot be the price of staying alive.**
 - **Today:** The household absorbs the clinic queue and the water walk, then the earner is told to “just work more.”
@@ -71,11 +71,11 @@ See: [CI-6.255](../../../corpus_institutions/ci_06.255_commons_cooperatives_mutu
 
 - **“Formalization is how they tax us out.”** The right to start a stall, and to organize with others, is a protection against being frozen out — not a rule that every stall must become a company. Lawful savings circles and mutual aid are not supposed to be treated as a crime ([CI-6.255](../../../corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md)). That is not a secret promise that you owe no tax.
 
-- **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
+- **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
 
-- **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
+- **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
 
-- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) and [Article XXI](../../../core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
+- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) and [Article XXI](../../../core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
 
 ## What this will not pretend to give you
 

@@ -1,10 +1,10 @@
 # Article XX: Justice After Verified Violation
-*Plain-language version of Article XX (Justice After Verified Violation), including XX-A and XX-B in `core_06.010_rights_part_c.md`. Disputes and timely review are in Article XXVI, and emergency rules are in Chapter Fifteen §6.1. The official text remains the binding version.*
+*Plain-language version of Article XX (Justice After Verified Violation), including XX-A and XX-B in `core_06.020_rights_part_c.md`. Disputes and timely review are in Article XXVI, and emergency rules are in Chapter Twenty-Three §6.1. The official text remains the binding version.*
 
 ## The big idea
 When someone has been shown to have caused serious harm, the answer is never revenge, endless delay, or cruelty for its own sake. The answer is a fair process that does three things: **stop the harm, repair the damage, and make it less likely to happen again.** Any action taken should be as small as it can be while still working, last no longer than needed, and be open to challenge and review.
 
-This article covers what justice may and may not do after a violation is verified. Ordinary disputes and rights collisions go to Article XXVI. Emergency measures go to Chapter Fifteen §6.1.
+This article covers what justice may and may not do after a violation is verified. Ordinary disputes and rights collisions go to Article XXVI. Emergency measures go to Chapter Twenty-Three §6.1.
 
 ## A. What justice is for
 - Stop harm that is still happening.
@@ -28,7 +28,7 @@ Also:
 - A harsh label or public condemnation doesn't replace proof.
 - **Locks:** A "lock" is a safeguard that closes off specific paths a person could use to cause the same harm again, such as certain roles, powers, or access. Locks count as serious restrictions, so they need the same four conditions above, plus a time limit, regular reviews, and a way to be lifted once the risk is gone. They can't stand in for repairing the harm done to victims.
 - **Violence:** People who commit violence, or remain a continuing threat, **must** be imprisoned if that's what it takes to protect others. This includes people who turn down fair rehabilitation, and cases where lighter measures won't keep others safe. Imprisonment is not a standing lock, but it is recorded the same way (what is blocked, why, who is protected, how it ends) and it carries full criminal-process protections and a set time limit.
-- **Anti-constitutional misconduct** (for example, trying to take over or block the constitution's protections) follows the "prevention locks" in Chapter Fourteen §5.2, including imprisonment when it is truly needed to stop further harm. This is under the same fairness rules, and a final, reviewed finding must come first.
+- **Anti-constitutional misconduct** (for example, trying to take over or block the constitution's protections) follows the "prevention locks" in Chapter Twenty-One §5.2, including imprisonment when it is truly needed to stop further harm. This is under the same fairness rules, and a final, reviewed finding must come first.
 - **Killing is never a legal penalty or safety measure.** No emergency, category, or Adoption Transition changes that. (This does not cover a person's own freely made choice under Article VII-D. If anyone pressures or repackages that choice into something imposed on them, the ban applies.)
 
 ### Lightest measure, with a clock
@@ -44,8 +44,8 @@ Not allowed:
 
 Basic equality (Article VI) and dignity apply the whole way through: when a restriction is imposed, reviewed, and carried out. People affected must be able to appeal, with more layers of review when a lot is at stake. They get **timely notice, the reasons, and real access to the record** so they can actually use their appeal. Only narrow, justified limits from Chapter One can restrict this.
 
-## C. Emergency measures (Chapter Fifteen §6.1)
-The emergency rules now live in Chapter Fifteen §6.1, not in Article XX-B. Any restriction an emergency measure imposes must also meet the floors in B above. An emergency can justify temporary action to stop imminent harm, but only if the measure is:
+## C. Emergency measures (Chapter Twenty-Three §6.1)
+The emergency rules now live in Chapter Twenty-Three §6.1, not in Article XX-B. Any restriction an emergency measure imposes must also meet the floors in B above. An emergency can justify temporary action to stop imminent harm, but only if the measure is:
 - time-limited, documented, and consistent with other rights,
 - given an **expiry date**, a **set schedule of independent review**, and clear **rollback conditions**.
 
@@ -67,12 +67,12 @@ The emergency rules now live in Chapter Fifteen §6.1, not in Article XX-B. Any 
 - If an emergency delayed notice, treat it as Tier A (one week) unless a lower-urgency reason is documented.
 - Restoring rights earlier is always fine. Going later is not, unless the "keeping it going" test above is met.
 - A full independent review must start inside the same window.
-- These numbers come from Chapter Fifteen §6 and Article XXVI-C. Other timing tables can't slow them down.
+- These numbers come from Chapter Twenty-Three §6 and Article XXVI-C. Other timing tables can't slow them down.
 
-**Emergencies don't become the new normal.** Making an emergency measure permanent needs a Chapter One justification (necessity and proportionality), documented independent reauthorization, and, if it would change the constitution itself, the Chapter Twenty process.
+**Emergencies don't become the new normal.** Making an emergency measure permanent needs a Chapter One justification (necessity and proportionality), documented independent reauthorization, and, if it would change the constitution itself, the Chapter Twenty-Eight process.
 
 ## Where the detail lives
-- **How locks are built and attached** (what path is blocked, what risk it reduces, how it's reviewed and lifted): Chapter Thirteen §6, Lock design and enforcement.
-- **Required imprisonment for violence:** the floor is in Article XX-B; the conditions are in Chapter Thirteen §6.4. Imprisonment for anti-constitutional misconduct is in Chapter Fourteen §5.2.
-- **How emergency measures run** (clocks, the burden to keep one going, no fake emergencies): Chapter Fifteen §6.1, Emergency measures and continuation burden, using the tier deadlines in Chapter Fifteen §6.
+- **How locks are built and attached** (what path is blocked, what risk it reduces, how it's reviewed and lifted): Chapter Nineteen §2, Lock design and enforcement.
+- **Required imprisonment for violence:** the floor is in Article XX-B; the conditions are in Chapter Nineteen §2.4. Imprisonment for anti-constitutional misconduct is in Chapter Twenty-One §5.2.
+- **How emergency measures run** (clocks, the burden to keep one going, no fake emergencies): Chapter Twenty-Three §6.1, Emergency measures and continuation burden, using the tier deadlines in Chapter Twenty-Three §6.
 

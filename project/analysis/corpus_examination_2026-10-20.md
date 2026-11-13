@@ -12,7 +12,7 @@ I would continue toward publication. I would not yet describe the corpus as a de
 
 ## Scope and limits of this examination
 
-This is a first cross-corpus examination, not a line-by-line review of the whole repository. I directly examined selected operative passages across the Preamble; Chapter One Parts A–C; Chapter Five's Material Control Line definition; Chapter Six's environmental, sentience-status, standing, and derived-sentient provisions; Chapter Seven; Chapter Eight; Chapter Nine Parts B and D; Chapters Ten–Twelve; Chapter Thirteen's timing provisions; Chapters Fourteen, Fifteen, and Seventeen; and selected implementation sources below. Some passages were sampled rather than read in full.
+This is a first cross-corpus examination, not a line-by-line review of the whole repository. I directly examined selected operative passages across the Preamble; Chapter One Parts A–C; Chapter Five's Material Control Line definition; Chapter Six's environmental, sentience-status, standing, and derived-sentient provisions; Chapter Seven; Chapter Eight; Chapter Ten; Chapters Twelve–Sixteen; Chapter Seventeen's timing provisions; Chapters Twenty-One, Fifteen, and Seventeen; and selected implementation sources below. Some passages were sampled rather than read in full.
 
 Implementation reading included CF-13.405 formation and family inventory, CJS-18.110 §4 staffing, CS-9.305 and CS-9.310 Class P routing, CS-6.350 transition gates, CI-11.205 remedy capacity, the first-adopter kit, minimum-viable-adopter profiles, the LEQU calibration reference, public entry material, and evaluation instructions and result inventories. I also consulted the publication spec, vision, TODO, and MEMLOG as planning records, not binding meaning. I used source hydration for Material Control Line; locator gloss was not used as authority.
 
@@ -30,11 +30,11 @@ The Preamble's Two Fundamental Questions examine what a system rewards, includin
 
 ### 2. Help cannot buy permission to harm
 
-Chapter Ten separates verified contribution from verified violation. Its three-question sequence separates facts, magnitude, and consequences. This resists a familiar failure: allowing importance, past service, or a preferred punishment to determine what supposedly happened. Positive contribution remains real without cancelling harm.
+Chapter Twelve separates verified contribution from verified violation. Its three-question sequence separates facts, magnitude, and consequences. This resists a familiar failure: allowing importance, past service, or a preferred punishment to determine what supposedly happened. Positive contribution remains real without cancelling harm.
 
 This is also more constructive than a system concerned only with punishment. The recognition and aspiration provisions in Chapter One §3.2 give useful work a positive place in the design.
 
-**Sources:** [Chapter Ten §§1–2.2](../../core_11.000_standing_assessment.md#1-the-three-questions); [Chapter One §3.2](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
+**Sources:** [Chapter Twelve §§1–2.2](../../core_15.000_standing_assessment.md#2-the-three-questions); [Chapter One §3.2](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
 ### 3. The corpus explicitly resists becoming a universal reputation system
 
@@ -42,7 +42,7 @@ This is also more constructive than a system concerned only with punishment. The
 
 These are substantive protections worth making conspicuous in explanations and trials. They also create implementation obligations: a future interface must not quietly reintroduce a global score or an “unverified” stigma.
 
-**Sources:** [Chapter Ten §2.2](../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter One §17.3](../../core_01.010_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_13.000_standing_integration.md#8-final-standing-effect).
+**Sources:** [Chapter Twelve §2.2](../../core_15.000_standing_assessment.md#32-silence-is-the-default); [Chapter One §17.3](../../core_01.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Fifteen §§8–9](../../core_17.000_standing_integration.md#8-final-standing-effect).
 
 ### 4. Independence follows actual power
 
@@ -54,11 +54,11 @@ For agent governance, this prevents four role prompts from being mistaken for fo
 
 ### 5. Repair, restoration, and capacity are treated as real work
 
-Chapter Eleven requires institutions capable of delivering remedy, with funding, staffing, continuity, and review. CI-11.205 makes backlog and milestone performance visible. Restoration and archival limit the prospect of an ordinary resolved finding becoming a lifelong public identity.
+Chapter Fifteen requires institutions capable of delivering remedy, with funding, staffing, continuity, and review. CI-11.205 makes backlog and milestone performance visible. Restoration and archival limit the prospect of an ordinary resolved finding becoming a lifelong public identity.
 
-The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Twelve §4.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
+The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Sixteen §5.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 
-**Sources:** [Chapter Eleven §§8–9](../../core_13.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_14.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
+**Sources:** [Chapter Fifteen §§9–10](../../core_17.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md); [Chapter Sixteen §5.1](../../core_21.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
 
 ### 6. It distinguishes protection, competence, participation, and authority
 
@@ -66,7 +66,7 @@ Sentience status does not come from a certification badge or standing score. Aff
 
 Those distinctions make the proposal more adaptable, although the explanation needs to make them easier to retain.
 
-**Sources:** [Article VI-B](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Chapter Fourteen §§1.1 and 4.1](../../core_16.000_governance.md#11-mechanism-families-auditability-and-pluralism).
+**Sources:** [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Chapter Twenty-One §§1.1 and 4.1](../../core_24.000_governance.md#21-mechanism-families-auditability-and-pluralism).
 
 ## Improvements in priority order
 
@@ -80,7 +80,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** A reader can reproduce formation and the first contested allocation without an unwritten exception. If the requirements cannot be satisfied, report the actual conflict to the steward; do not invent a cheaper constitutional tier or weaken independence in support text.
 
-**Sources:** [First-adopter kit §§1–2](../../implementation/adoption/FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse); [adopter profiles §6.3](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#63-profile-3--adoption-document-plus-hosted-families); [CF-13.405 §1–3.4](../../corpus_forum/cf_15.405_forum_formation_chamber_structure.md#cf-15405-1-core-structural-rule); [Chapter Nine Part D §13.1](../../core_09.015_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification).
+**Sources:** [First-adopter kit §§1–2](../../implementation/adoption/FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse); [adopter profiles §6.3](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#63-profile-3--adoption-document-plus-hosted-families); [CF-13.405 §1–3.4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-1-core-structural-rule); [Chapter Eleven §7.1](../../core_09.015_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification).
 
 ### Priority 2 — Make the next action easier to find and execute
 
@@ -96,7 +96,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 ### Priority 3 — Establish how reliably different evaluators measure the same facts
 
-**Observed text:** Chapter Ten integrates depth, scope, vulnerability, duration, irreversibility, and other dimensions into LEQU bands. The calibration reference addresses synthetic identity and restoration. Chapter Twelve's designation process begins only after a qualifying impact slot is established.
+**Observed text:** Chapter Twelve integrates depth, scope, vulnerability, duration, irreversibility, and other dimensions into LEQU bands. The calibration reference addresses synthetic identity and restoration. Chapter Sixteen's designation process begins only after a qualifying impact slot is established.
 
 **Judgment:** A common scale is useful, but it creates a risk of apparent precision. The difficult work is converting unlike losses and benefits into an integrated estimate. Traceability and contestability expose disagreement; they do not alone make estimates reproducible. This is especially consequential near thresholds that open a serious-misconduct designation path.
 
@@ -104,11 +104,11 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** Published disagreements, their consequences, and a defensible resolution path. Do not treat consensus between coached sessions as empirical calibration.
 
-**Sources:** [Chapter Ten §8](../../core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_14.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
+**Sources:** [Chapter Fourteen §2](../../core_15.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Sixteen §2](../../core_21.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
 
 ### Priority 4 — Test the strongest powers against hostile administration
 
-**Observed text:** Serious misconduct can lead to restrictions, conditional imprisonment, and withholding foundational political voice until restitution, subject to important safeguards. Chapter Fourteen includes protections for good-faith inability and conditional restoration. Chapter Fifteen invalidates weakening protections, including by indirect means.
+**Observed text:** Serious misconduct can lead to restrictions, conditional imprisonment, and withholding foundational political voice until restitution, subject to important safeguards. Chapter Twenty-One includes protections for good-faith inability and conditional restoration. Chapter Twenty-Three invalidates weakening protections, including by indirect means.
 
 **Judgment:** These are the provisions with the greatest potential cost if misapplied. My concern is not that protections are absent. It is whether a challenger can activate them when incumbents manipulate evidence, valuation, staffing, or the meaning of regression. I am particularly cautious about political voice depending on a restitution process administered by institutions the subject may need to challenge.
 
@@ -116,15 +116,15 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** The protected subjects have a usable route under adversarial conditions; a simulation result must be labeled as such. If a value choice remains, present it to the steward rather than treating it as copyediting.
 
-**Sources:** [Chapter Fourteen §4.1](../../core_16.000_governance.md#41-entitlement-and-eligibility); [Chapter Twelve §§4–4.2](../../core_14.000_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Fifteen §§1–3](../../core_17.000_non_regression.md#1-non-regression-floor).
+**Sources:** [Chapter Twenty-One §4.1](../../core_24.000_governance.md#51-entitlement-and-eligibility); [Chapter Sixteen §§5–5.2](../../core_21.000_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Twenty-Three §§1–3](../../core_25.000_non_regression.md#2-non-regression-floor).
 
 ### Priority 5 — Repair semantic drift between core and implementation
 
-**Confirmed example:** [Chapter Eleven §9.2](../../core_13.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
+**Confirmed example:** [Chapter Fifteen §10.2](../../core_17.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
 
 The core controls. The omission is still a practical defect because readers acting from the implementation layer may infer a stricter rule. CI-11.205's express pointer to the core helps but does not make the restatement complete. This is an alignment issue to fix, not a conclusion that core should remove or expand the exception.
 
-**Confirmed reference defect:** [Chapter Fourteen §1.1](../../core_16.000_governance.md#11-mechanism-families-auditability-and-pluralism), under Non-Usurpation, says deliberate adoption remains governed by “Chapter Eighteen (Ratification and Adoption).” The actual adoption provisions are [Chapter Seventeen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption); Chapter Eighteen is the incorporation bridge. The core correction remains for the steward to approve.
+**Confirmed reference defect:** [Chapter Twenty-One §1.1](../../core_24.000_governance.md#21-mechanism-families-auditability-and-pluralism), under Non-Usurpation, says deliberate adoption remains governed by “Chapter Twenty-Six (Ratification and Adoption).” The actual adoption provisions are [Chapter Twenty-Five §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption); Chapter Twenty-Six is the incorporation bridge. The core correction remains for the steward to approve.
 
 **Work needed:** Compare conditional rules across source and summaries: exceptions, default classifications, burdens, emergency powers, deadlines, and restoration. Link and anatomy checks cannot establish that paraphrases preserve all conditions. Prefer precise pointers over restating a rule incompletely.
 

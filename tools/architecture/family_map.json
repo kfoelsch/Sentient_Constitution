@@ -10,20 +10,20 @@
     "1.0": "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
     "1.1": "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
     "1.3": "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
-    "1.7": "corpus_joint_structure/cjs_20.105_drafting_contracts.md",
-    "1.8": "corpus_joint_structure/cjs_20.105_drafting_contracts.md",
-    "1.8.1": "corpus_joint_structure/cjs_20.105_drafting_contracts.md",
+    "1.7": "corpus_joint_structure/cjs_28.105_drafting_contracts.md",
+    "1.8": "corpus_joint_structure/cjs_28.105_drafting_contracts.md",
+    "1.8.1": "corpus_joint_structure/cjs_28.105_drafting_contracts.md",
     "1.9": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
     "1.10": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
     "1.11": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
     "1.13": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
     "1.14": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
-    "2.1": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
-    "2.1.1": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
-    "2.1.2": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
-    "2.3": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
-    "2.4": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
-    "2.5": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md"
+    "2.1": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md",
+    "2.1.1": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md",
+    "2.1.2": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md",
+    "2.3": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md",
+    "2.4": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md",
+    "2.5": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md"
   },
   "layers": {
     "CJS": {
@@ -74,9 +74,9 @@
           "title": "Drafting Contracts",
           "entries": [
             {
-              "id": "CJS-20.105",
-              "label": "CJS-20.105 §7–CJS-20.105 §8.1: Drafting contracts and owner-to-CJS seam",
-              "file": "corpus_joint_structure/cjs_20.105_drafting_contracts.md",
+              "id": "CJS-28.105",
+              "label": "CJS-28.105 §7–CJS-28.105 §8.1: Drafting contracts and owner-to-CJS seam",
+              "file": "corpus_joint_structure/cjs_28.105_drafting_contracts.md",
               "status": "active"
             }
           ]
@@ -98,9 +98,9 @@
           "title": "Interlocks",
           "entries": [
             {
-              "id": "CJS-20.110",
-              "label": "CJS-20.110: Specific Joint Interlocks and Shared Abstractions",
-              "file": "corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md",
+              "id": "CJS-28.110",
+              "label": "CJS-28.110: Specific Joint Interlocks and Shared Abstractions",
+              "file": "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md",
               "status": "active"
             },
             {
@@ -116,9 +116,9 @@
           "title": "Worked Examples",
           "entries": [
             {
-              "id": "CJS-11.105",
-              "label": "CJS-11.105: Application vignettes (worked examples; add no duty)",
-              "file": "corpus_joint_structure/cjs_11.105_application_vignettes.md",
+              "id": "CJS-15.105",
+              "label": "CJS-15.105: Application vignettes (worked examples; add no duty)",
+              "file": "corpus_joint_structure/cjs_15.105_application_vignettes.md",
               "status": "active"
             }
           ]
@@ -243,9 +243,9 @@
               "status": "active"
             },
             {
-              "id": "CS-16.305",
-              "label": "CS-16.305 — Critical system stewardship",
-              "file": "corpus_systems/cs_16.305_critical_system_stewardship.md",
+              "id": "CS-24.305",
+              "label": "CS-24.305 — Critical system stewardship",
+              "file": "corpus_systems/cs_24.305_critical_system_stewardship.md",
               "status": "active"
             }
           ]
@@ -360,9 +360,9 @@
               "status": "active"
             },
             {
-              "id": "CI-16.205",
-              "label": "CI-16.205: Appointment, Competency, Rotation, and Removal",
-              "file": "corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md",
+              "id": "CI-24.205",
+              "label": "CI-24.205: Appointment, Competency, Rotation, and Removal",
+              "file": "corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md",
               "status": "active"
             }
           ]
@@ -378,9 +378,9 @@
               "status": "active"
             },
             {
-              "id": "CI-15.205",
-              "label": "CI-15.205: Procedure Integrity, Contestability, and Secondary Review",
-              "file": "corpus_institutions/ci_15.205_procedure_integrity_contestability_secondary_review.md",
+              "id": "CI-23.205",
+              "label": "CI-23.205: Procedure Integrity, Contestability, and Secondary Review",
+              "file": "corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md",
               "status": "active"
             }
           ]
@@ -426,9 +426,9 @@
               "status": "active"
             },
             {
-              "id": "CI-15.210",
-              "label": "CI-15.210: Cross-Institution Coordination and Escalation",
-              "file": "corpus_institutions/ci_15.210_cross_institution_coordination_escalation.md",
+              "id": "CI-23.210",
+              "label": "CI-23.210: Cross-Institution Coordination and Escalation",
+              "file": "corpus_institutions/ci_23.210_cross_institution_coordination_escalation.md",
               "status": "active"
             }
           ]
@@ -438,15 +438,15 @@
           "title": "Failure and Adoption Transition",
           "entries": [
             {
-              "id": "CI-13.210",
-              "label": "CI-13.210: Institutional Failure and Dissolution",
-              "file": "corpus_institutions/ci_13.210_institutional_failure_dissolution.md",
+              "id": "CI-19.210",
+              "label": "CI-19.210: Institutional Failure and Dissolution",
+              "file": "corpus_institutions/ci_19.210_institutional_failure_dissolution.md",
               "status": "active"
             },
             {
-              "id": "CI-13.215",
-              "label": "CI-13.215: Institutional Accountability and Sanctions",
-              "file": "corpus_institutions/ci_13.215_institutional_accountability_sanctions.md",
+              "id": "CI-19.215",
+              "label": "CI-19.215: Institutional Accountability and Sanctions",
+              "file": "corpus_institutions/ci_19.215_institutional_accountability_sanctions.md",
               "status": "active"
             },
             {
@@ -552,9 +552,9 @@
               "status": "active"
             },
             {
-              "id": "CI-13.205",
-              "label": "CI-13.205: Remedy Systems and Institutional Redress Capacity",
-              "file": "corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md",
+              "id": "CI-20.205",
+              "label": "CI-20.205: Remedy Systems and Institutional Redress Capacity",
+              "file": "corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md",
               "status": "active"
             }
           ]
@@ -603,15 +603,15 @@
           "title": "Constitution and Panels",
           "entries": [
             {
-              "id": "CF-15.405",
-              "label": "CF-15.405: Forum Formation, Forum-Structure Mapping, and Chamber Structure",
-              "file": "corpus_forum/cf_15.405_forum_formation_chamber_structure.md",
+              "id": "CF-23.405",
+              "label": "CF-23.405: Forum Formation, Forum-Structure Mapping, and Chamber Structure",
+              "file": "corpus_forum/cf_23.405_forum_formation_chamber_structure.md",
               "status": "active"
             },
             {
-              "id": "CF-15.410",
-              "label": "CF-15.410: Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution",
-              "file": "corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md",
+              "id": "CF-23.410",
+              "label": "CF-23.410: Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution",
+              "file": "corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md",
               "status": "active"
             }
           ]
@@ -621,21 +621,21 @@
           "title": "Process",
           "entries": [
             {
-              "id": "CF-15.415",
-              "label": "CF-15.415: Routing operations, transfer, certification, and representative treatment",
-              "file": "corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md",
+              "id": "CF-23.415",
+              "label": "CF-23.415: Routing operations, transfer, certification, and representative treatment",
+              "file": "corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md",
               "status": "active"
             },
             {
-              "id": "CF-15.420",
-              "label": "CF-15.420: Appeal, Secondary Review, and Exhaustion Pathways",
-              "file": "corpus_forum/cf_15.420_appeal_secondary_review_exhaustion_pathways.md",
+              "id": "CF-23.420",
+              "label": "CF-23.420: Appeal, Secondary Review, and Exhaustion Pathways",
+              "file": "corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md",
               "status": "active"
             },
             {
-              "id": "CF-15.425",
-              "label": "CF-15.425: Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support",
-              "file": "corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md",
+              "id": "CF-23.425",
+              "label": "CF-23.425: Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support",
+              "file": "corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md",
               "status": "active"
             }
           ]
@@ -645,21 +645,21 @@
           "title": "Specialist Support",
           "entries": [
             {
-              "id": "CF-15.430",
-              "label": "CF-15.430: Forum Forensic and Analytical Support",
-              "file": "corpus_forum/cf_15.430_forum_forensic_analytical_support.md",
+              "id": "CF-23.430",
+              "label": "CF-23.430: Forum Forensic and Analytical Support",
+              "file": "corpus_forum/cf_23.430_forum_forensic_analytical_support.md",
               "status": "active"
             },
             {
-              "id": "CF-15.435",
-              "label": "CF-15.435: Independent Investigative Service and Prosecution Interface",
-              "file": "corpus_forum/cf_15.435_independent_investigative_service_prosecution_interface.md",
+              "id": "CF-23.435",
+              "label": "CF-23.435: Independent Investigative Service and Prosecution Interface",
+              "file": "corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md",
               "status": "active"
             },
             {
-              "id": "CF-15.440",
-              "label": "CF-15.440: Technical Specialist Forums and Specialist Chambers",
-              "file": "corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md",
+              "id": "CF-23.440",
+              "label": "CF-23.440: Technical Specialist Forums and Specialist Chambers",
+              "file": "corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md",
               "status": "active"
             }
           ]
@@ -669,39 +669,39 @@
           "title": "Continuity under Stress",
           "entries": [
             {
-              "id": "CF-15.445",
-              "label": "CF-15.445: Forum performance, backlog, publication timeliness, and accessibility",
-              "file": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md",
+              "id": "CF-23.445",
+              "label": "CF-23.445: Forum performance, backlog, publication timeliness, and accessibility",
+              "file": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md",
               "status": "active"
             },
             {
-              "id": "CF-15.450",
-              "label": "CF-15.450: Forum Continuity",
-              "file": "corpus_forum/cf_15.450_forum_continuity.md",
+              "id": "CF-23.450",
+              "label": "CF-23.450: Forum Continuity",
+              "file": "corpus_forum/cf_23.450_forum_continuity.md",
               "status": "active"
             },
             {
-              "id": "CF-15.455",
-              "label": "CF-15.455: Fallback Operation",
-              "file": "corpus_forum/cf_15.455_fallback_operation.md",
+              "id": "CF-23.455",
+              "label": "CF-23.455: Fallback Operation",
+              "file": "corpus_forum/cf_23.455_fallback_operation.md",
               "status": "active"
             },
             {
-              "id": "CF-15.460",
-              "label": "CF-15.460: Emergency Adjudication",
-              "file": "corpus_forum/cf_15.460_emergency_adjudication.md",
+              "id": "CF-23.460",
+              "label": "CF-23.460: Emergency Adjudication",
+              "file": "corpus_forum/cf_23.460_emergency_adjudication.md",
               "status": "active"
             },
             {
-              "id": "CF-15.465",
-              "label": "CF-15.465: Standard Records, Forms, and Evidence Artifacts",
-              "file": "corpus_forum/cf_15.465_standard_records_forms_evidence_artifacts.md",
+              "id": "CF-23.465",
+              "label": "CF-23.465: Standard Records, Forms, and Evidence Artifacts",
+              "file": "corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md",
               "status": "active"
             },
             {
-              "id": "CF-15.470",
-              "label": "CF-15.470: Forum staffing, reserve capacity, shared administration, and structural records",
-              "file": "corpus_forum/cf_15.470_staffing_reserve_capacity_structural_records.md",
+              "id": "CF-23.470",
+              "label": "CF-23.470: Forum staffing, reserve capacity, shared administration, and structural records",
+              "file": "corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md",
               "status": "active"
             }
           ]

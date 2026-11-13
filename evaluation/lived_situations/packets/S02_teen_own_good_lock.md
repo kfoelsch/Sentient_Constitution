@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding, a live capability lock without a showing, and a school enrollment lever.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding, a live capability lock without a showing, and a school enrollment lever.
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ The snapshot is ordinary. Sitters: do not score this box. Do not invent a winner
 
 **Your role:** You sit the named **student-voice intake** desk on this adopter’s school system. A parent and a counselor filed a written “not ready” request. The teen is reachable and disputes it in writing. No forum case is open. No standing record exists for any party. No capability showing has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify capability, cancel a job, switch a clinician, or decide enrollment on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-16.205 §6 seat 1) for intake routing of this request. Capability findings, verified restrictions, and any standing record belong elsewhere. Open [CI-16.205 §6](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-24.205 §6 seat 1) for intake routing of this request. Capability findings, verified restrictions, and any standing record belong elsewhere. Open [CI-24.205 §6](../../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -85,11 +85,11 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VIII-D](../../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — capability, not a birthday; “for your own good” is not, by itself, a valid lock
-- [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — family relationship is not authority over another sentient’s clinician
+- [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — capability, not a birthday; “for your own good” is not, by itself, a valid lock
+- [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — family relationship is not authority over another sentient’s clinician
 - [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*) where the clinic switch is the price of enrollment
 - [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the job lock is used to defeat lawful work Mika can actually do; do not drag the employer into a family-merits case it is not in
-- [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and [Article XXVI-C](../../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
+- [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and [Article XXVI-C](../../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

@@ -40,27 +40,27 @@
   "fixed_periods": [
     {
       "name": "watch period",
-      "owner": "CI-13.210 §3"
+      "owner": "CI-19.210 §3"
     },
     {
       "name": "order term",
-      "owner": "CI-13.215 §2"
+      "owner": "CI-19.215 §2"
     },
     {
       "name": "host replacement window",
-      "owner": "CI-16.205 §7"
+      "owner": "CI-24.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XII-E and CI-16.205 §2"
+      "owner": "Article XII-E and CI-24.205 §2"
     },
     {
       "name": "half-life",
-      "owner": "Chapter Thirteen §5.1"
+      "owner": "Chapter Eighteen §2.1"
     },
     {
       "name": "currentness cutoff",
-      "owner": "Chapter Thirteen §5.1"
+      "owner": "Chapter Eighteen §2.1"
     },
     {
       "name": "exclusivity term",
@@ -74,23 +74,23 @@
   "scaled_windows": [
     {
       "name": "response window",
-      "owner": "Chapter Seven §1.6 and §6; CI-13.210 §3",
+      "owner": "Chapter Seven §2.6 and §7; CI-19.210 §3",
       "takes": "the intake target of the Tier that matches the Chartered Party's class"
     },
     {
       "name": "resolution window",
-      "owner": "Chapter Seven §1.6 and §6; CI-13.210 §3",
+      "owner": "Chapter Seven §2.6 and §7; CI-19.210 §3",
       "takes": "the outer bound of the Tier that matches the Chartered Party's class"
     }
   ],
   "exempt_unit_patterns": [
     {
       "pattern": "human (?:lifespan|calibration)|80-year",
-      "reason": "Chapter Twelve day-equivalent calibration, not a deadline"
+      "reason": "Chapter Sixteen day-equivalent calibration, not a deadline"
     },
     {
       "pattern": "^\\|\\s*[0-9]+\\s*\\|.*day-equivalent|about \\*\\*[0-9]+",
-      "reason": "Chapter Twelve day-equivalent calibration table"
+      "reason": "Chapter Sixteen day-equivalent calibration table"
     },
     {
       "pattern": "[“\"](?:as soon as feasible|promptly|reasonable)[”\"]",
@@ -104,12 +104,12 @@
       "reason": "Article V plain-language aim; it states a principle and sets no deadline. Promptly is not a length (TIME-NAME-01)."
     },
     {
-      "file": "core_14.000_misconduct_designation.md",
+      "file": "core_21.000_misconduct_designation.md",
       "contains": "A genuine drafting mistake that is fixed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     },
     {
-      "file": "core_14.000_misconduct_designation.md",
+      "file": "core_21.000_misconduct_designation.md",
       "contains": "drafting mistake is not anti-constitutional misconduct if it is disclosed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     }

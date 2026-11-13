@@ -60,7 +60,7 @@ REVIEWS = [
     DomainReview(
         domain="Separation of powers, role clarity, and anti-self-judging",
         external_sections="FRC 2024 Section 2; IIA Principles 1-5; OECD Integrity 2/12",
-        internal_anchor="SC Ch 12; Art XXIV; Ch 6 sec. 5; CI-8.205, CI-16.205, CI-8.210, CI-15.205, CI-8.215, and CI-6.205",
+        internal_anchor="SC Ch 12; Art XXIV; Ch 6 sec. 5; CI-8.205, CI-24.205, CI-8.210, CI-23.205, CI-8.215, and CI-6.205",
         design=3,
         operationalization=3,
         evidence=2,
@@ -69,13 +69,13 @@ REVIEWS = [
             "Court-family separation, cross-court anti-self-judging, assurance-line separation, and interpretive safeguards are explicit."
         ),
         gap="The repository still lacks a concise incompatibility matrix and role-separation quick reference for high-impact institutional operators.",
-        proposed_close="Add a one-page incompatibility matrix keyed to CI-8.205, CI-16.205, CI-8.210, CI-15.205, CI-8.215, and CI-6.205, with CI-8.215 §§1–3 routing.",
+        proposed_close="Add a one-page incompatibility matrix keyed to CI-8.205, CI-24.205, CI-8.210, CI-23.205, CI-8.215, and CI-6.205, with CI-8.215 §§1–3 routing.",
         priority="P1",
     ),
     DomainReview(
         domain="Composition, competency, succession, and removal",
         external_sections="FRC 2024 Section 3; IIA Applying the model; OECD Integrity leadership/capacity",
-        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-16.205, CI-6.275; CF-15.440",
+        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-24.205, CI-6.275; CF-23.440",
         design=2,
         operationalization=2,
         evidence=2,
@@ -90,7 +90,7 @@ REVIEWS = [
     DomainReview(
         domain="Conflict integrity, anti-corruption, and anti-capture",
         external_sections="OECD Integrity 4/10/11; ISO 37001/37301 by analogy",
-        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXIV; Ch 11; CI-8.210, CI-6.215, CI-13.210",
+        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXIV; Ch 11; CI-8.210, CI-6.215, CI-19.210",
         design=2,
         operationalization=2,
         evidence=1,
@@ -105,7 +105,7 @@ REVIEWS = [
     DomainReview(
         domain="Risk governance and internal controls",
         external_sections="FRC 2024 Section 4/Provision 29; IIA 1-6; OECD Integrity 10; NIST AI RMF Govern/Map",
-        internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-8.205, CI-8.215; CS-6.345; CS-9.305, CS-9.310, and CS-16.305",
+        internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-8.205, CI-8.215; CS-6.345; CS-9.305, CS-9.310, and CS-24.305",
         design=3,
         operationalization=3,
         evidence=2,
@@ -120,22 +120,22 @@ REVIEWS = [
     DomainReview(
         domain="Transparency, disclosure, and public intelligibility",
         external_sections="OECD 2023 IV; OECD Integrity 9/13; NIST Govern/Measure; OHCHR II/III",
-        internal_anchor="Arts IX, XIV, XV, XXI, XXIV-C, XXV-E; Defs Ch 4; CI-15.210, CI-0.215; CJS-5.115 §3/CJS-5.110 §4/CJS-5.125 §14–§12",
+        internal_anchor="Arts IX, XIV, XV, XXI, XXIV-C, XXV-E; Defs Ch 4; CI-23.210, CI-0.215; CJS-5.115 §3/CJS-5.110 §4/CJS-5.125 §14–§12",
         design=3,
         operationalization=2,
         evidence=2,
         performance=2,
         current_state=(
-            "The corpus strongly protects disclosure, traceability, auditability, and accessible pathway concepts, with a dedicated governance disclosure schema hook in CI-15.210 §4."
+            "The corpus strongly protects disclosure, traceability, auditability, and accessible pathway concepts, with a dedicated governance disclosure schema hook in CI-23.210 §4."
         ),
         gap="A standardized governance reporting taxonomy and mandatory field list are still not fully closed out as a stable publication package.",
-        proposed_close="Finish the CI-15.210/CI-0.215 reporting schema as a reusable disclosure template with cadence and comparison fields.",
+        proposed_close="Finish the CI-23.210/CI-0.215 reporting schema as a reusable disclosure template with cadence and comparison fields.",
         priority="P1",
     ),
     DomainReview(
         domain="Independent assurance and verification",
         external_sections="IIA Principles 4-5; OECD Integrity 12; FRC 2024 Section 4",
-        internal_anchor="Arts XV and XXIV; Ch 12; Defs Ch 4; CI-8.215, CI-6.205; CF-15.430, CF-15.435, CF-15.440; doc_architecture sec. 15-17",
+        internal_anchor="Arts XV and XXIV; Ch 12; Defs Ch 4; CI-8.215, CI-6.205; CF-23.430, CF-23.435, CF-23.440; doc_architecture sec. 15-17",
         design=3,
         operationalization=3,
         evidence=3,
@@ -150,7 +150,7 @@ REVIEWS = [
     DomainReview(
         domain="AI and system lifecycle governance",
         external_sections="NIST AI RMF Govern/Map/Measure/Manage; ISO/IEC 42001 4-10; NIST GenAI Profile 2024",
-        internal_anchor="Arts XIII-XVII, XXI-XXI; CS-6.345, CS-6.315, CS-6.355, CS-6.330; CS-6.305, CS-6.310, CS-9.305, CS-9.310, and CS-16.305",
+        internal_anchor="Arts XIII-XVII, XXI-XXI; CS-6.345, CS-6.315, CS-6.355, CS-6.330; CS-6.305, CS-6.310, CS-9.305, CS-9.310, and CS-24.305",
         design=3,
         operationalization=3,
         evidence=2,
@@ -165,7 +165,7 @@ REVIEWS = [
     DomainReview(
         domain="Remedy, redress, contestability, and restorative closure",
         external_sections="OHCHR III; OECD 2023 II; OECD Integrity 11/13",
-        internal_anchor="Arts XIII-B, XV, XVIII-B, XXV, XXVI; Ch 9; CI-15.205, CI-13.210; CS-6.320",
+        internal_anchor="Arts XIII-B, XV, XVIII-B, XXV, XXVI; Ch 9; CI-23.205, CI-19.210; CS-6.320",
         design=3,
         operationalization=2,
         evidence=2,

@@ -7,8 +7,8 @@ import unittest
 
 from ch10_duplication_audit import extract_sentences, near_copies, normalize
 
-NINE = "core_09.010_system_alignment_certification_record_recertification.md"
-TEN = "core_10.000_institutional_alignment_certification.md"
+NINE = "core_11.000_system_alignment_certification_records_recertification.md"
+TEN = "core_12.000_institutional_alignment_certification_evaluation.md"
 
 
 def sentences(path: str, text: str):

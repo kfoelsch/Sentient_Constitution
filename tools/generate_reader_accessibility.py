@@ -41,10 +41,10 @@ assert CORE_FILES == _CORE_FILES_CHECK
 
 RIGHTS_FILES = (
     "core_06.000_rights_part_a.md",
-    "core_06.005_rights_part_b.md",
-    "core_06.010_rights_part_c.md",
-    "core_06.015_rights_part_d.md",
-    "core_06.020_rights_part_e.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.020_rights_part_c.md",
+    "core_06.030_rights_part_d.md",
+    "core_06.040_rights_part_e.md",
 )
 ARTICLE_TITLE = re.compile(r"^Article\s+[IVXLCDM]+(?:-[A-Z])?\b")
 GENERATED_DIR = "doc_architecture/generated"
@@ -65,14 +65,14 @@ FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
     ("certification", "core_05.040_band_continuity.md", "system-alignment-certification-constitutional"),
     ("Contestability", "core_05.035_band_accountability.md", "contestability"),
     ("Auditability", "core_05.050_band_oversight.md", "auditability"),
-    ("independent review", "core_15.000_forum.md", "chapter-fifteen-forums-and-jurisdiction"),
+    ("independent review", "core_23.000_forum.md", "chapter-twenty-three-forums-and-jurisdiction"),
 )
 
 SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
     ("preamble_model", "core_00.000_preamble.md", "1-the-model"),
     ("preamble_pipelines", "core_00.000_preamble.md", "6-key-practical-process-pipelines"),
-    ("conflict_resolution", "core_01.005_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
-    ("shared_stewardship", "core_01.010_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
+    ("conflict_resolution", "core_01.020_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
+    ("shared_stewardship", "core_01.040_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
 )
 
 OUT_PATHS = (
@@ -129,7 +129,7 @@ def render_rights_sheet(rows: list[dict], edition: str, effective: str) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
+        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
         "",
         f"Coverage: **{glossed}** of **{len(rows)}** Article headings carry a gloss.",
         "",

@@ -6,7 +6,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from definition_index import collect_ch5_entries_with_apex
 
-FILES=('core_01.000_values_principles.md','core_01.005_interaction_interpretation.md','core_01.010_stewardship_capacity_principles.md')
+FILES=("core_01.000_values_principles.md","core_01.010_values_principles_continuity_aim.md","core_01.020_interaction_interpretation.md","core_01.030_constitutional_interpretation.md","core_01.040_stewardship_capacity_principles.md","core_01.050_governance_incentive_application.md")
 def slug(text: str) -> str:
     text=text.lower().replace('&','and')
     text=re.sub(r'[^a-z0-9]+','-',text).strip('-')

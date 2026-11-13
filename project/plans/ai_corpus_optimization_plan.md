@@ -47,14 +47,14 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_10.000_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
 | `core_11.000_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
 | `core_12.005_misconduct_designation.md` | ~420 | Core | Chapter 9 (anti-constitutional misconduct) |
-| `core_13.000_forum.md` | ~380 | Core | Chapter 10 (forums, jurisdiction) |
-| `core_06.005_rights_part_a.md` | ~630 | Core | Chapter 11 Part A (Articles I-IV) |
-| `core_06.010_rights_part_b.md` | ~1,380 | Core | Chapter 11 Part B (Articles V-XII) |
-| `core_06.015_rights_part_c.md` | ~1,600 | Core | Chapter 11 Part C (Articles XIII-XXIV) |
-| `core_06.020_rights_part_d.md` | ~560 | Core | Chapter 11 Part D (Articles XXV-XXVII) |
-| `core_14.000_governance.md` | ~330 | Core | Chapter 12 (constitutional contract) |
-| `core_15.000_non_regression.md` | ~640 | Core | Chapters 13-13 (non-regression, amendment) |
-| `core_18.000_incorporation.md` | ~160 | Core | Chapter 16 (incorporation bridge) |
+| `core_13.000_forum.md` | ~380 | Core | Chapter 12 (forums, jurisdiction) |
+| `core_06.005_rights_part_a.md` | ~630 | Core | Chapter 15 Part A (Articles I-IV) |
+| `core_06.010_rights_part_b.md` | ~1,380 | Core | Chapter 15 Part B (Articles V-XII) |
+| `core_06.015_rights_part_c.md` | ~1,600 | Core | Chapter 15 Part C (Articles XIII-XXIV) |
+| `core_06.020_rights_part_d.md` | ~560 | Core | Chapter 15 Part D (Articles XXV-XXVII) |
+| `core_14.000_governance.md` | ~330 | Core | Chapter 16 (constitutional contract) |
+| `core_15.000_non_regression.md` | ~640 | Core | Chapters 17-20 (non-regression, amendment) |
+| `core_18.000_incorporation.md` | ~160 | Core | Chapter 24 (incorporation bridge) |
 | `corpus_systems.md` | ~2,170 | Adopted | Systems adopted implementation text (CS-6.305, CS-6.310, CS-9.305, CS-9.310, CS-14.305; Protocols A, B, S4, S5) |
 | `corpus_institutions.md` | ~940 | Adopted | Institutional governance across the CI corpus |
 | `corpus_forum.md` | ~1,150 | Adopted | Forum operations |
@@ -65,8 +65,8 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 High-traffic cross-reference patterns:
 - Chapter 5 definitions → referenced from all other chapters
 - Chapter 2-4 mechanics → referenced from all definition-dependent content
-- Chapter 11 Rights → referenced from corpus_systems.md and corpus_institutions.md
-- corpus_systems.md Protocol A → referenced from Chapter 11 Article XVII-XVIII
+- Chapter 15 Rights → referenced from corpus_systems.md and corpus_institutions.md
+- corpus_systems.md Protocol A → referenced from Chapter 15 Article XVII-XVIII
 
 ---
 
@@ -84,7 +84,7 @@ When editing content that uses defined terms:
 
 **Pattern B: Hub-and-Spoke Navigation**
 ```
-For Chapter 11 rights editing:
+For Chapter 15 rights editing:
 1. Read the specific Article from core_06.0*_rights_part_*.md
 2. Read doc_architecture.md section 2 for corpus role mapping
 3. Read relevant adopted implementation text sections only if operational detail needed
@@ -296,7 +296,7 @@ Optimized pattern:
 |------|------------------------|---------------------------|
 | Edit Chapter 1 principle | `core_00.000_preamble.md`, `core_01.005_values_principles.md`, `core_01_b_stewardship_capacity_principles.md` + cross-refs | Section manifest → read section only |
 | Edit Chapter 5 definition | Full Part file (~1,500 lines) | Definition registry → entry only (~50 lines) |
-| Add Chapter 11 right | Full Part file + cross-refs | Target article + related definitions only |
+| Add Chapter 15 right | Full Part file + cross-refs | Target article + related definitions only |
 | Cross-file reference audit | All files | Crossref matrix → specific files |
 | Corpus-wide term rename | Search all files | Crossref matrix → targeted files |
 

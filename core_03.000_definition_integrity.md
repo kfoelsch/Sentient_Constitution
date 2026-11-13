@@ -26,17 +26,21 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 
 *In plain terms: this chapter blocks word-games — if behavior evades a definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
+### 1. Purpose and Role
 
-### 1. Definition Integrity and Anti-Evasion Constraints
+*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+
+
+### 2. Definition Integrity and Anti-Evasion Constraints
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
 - Downstream:
-  - [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior);
-  - [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000);
-  - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000);
-  - [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+  - [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior);
+  - [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000);
+  - [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000);
+  - [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000).
 - Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
@@ -44,31 +48,31 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 <details>
 <summary><strong><span style="color: #2563eb;">Chapter Three index (non-operative): alphabetical links to in-chapter headings</span></strong></summary>
 
-[Cross-Component Scope Integrity Constraint](#23-cross-component-scope-integrity-constraint)
+[Cross-Component Scope Integrity Constraint](#33-cross-component-scope-integrity-constraint)
 
-[Cross-System Interaction Integrity Constraint](#24-cross-system-interaction-integrity-constraint)
+[Cross-System Interaction Integrity Constraint](#34-cross-system-interaction-integrity-constraint)
 
-[Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints)
+[Definition Integrity and Anti-Evasion Constraints](#2-definition-integrity-and-anti-evasion-constraints)
 
-[Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles)
+[Non-Compliance Finding Profiles](#4-non-compliance-finding-profiles)
 
-[Operational Constraints](#34-operational-constraints)
+[Operational Constraints](#44-operational-constraints)
 
-[Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems)
+[Standing Effects for Already-Certified Systems](#41-standing-effects-for-already-certified-systems)
 
-[Standing Effects at First Certification](#32-standing-effects-at-first-certification)
+[Standing Effects at First Certification](#42-standing-effects-at-first-certification)
 
-[Standing Effects for Sentients and Institutions](#33-standing-effects-for-sentients-and-institutions)
+[Standing Effects for Sentients and Institutions](#43-standing-effects-for-sentients-and-institutions)
 
-[Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior)
+[Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior)
 
-[Common Evasion Patterns](#21-common-evasion-patterns)
+[Common Evasion Patterns](#31-common-evasion-patterns)
 
-[Reductive Evasion](#22-reductive-evasion)
+[Reductive Evasion](#32-reductive-evasion)
 
-[Temporal Integrity and Continuity Constraint](#25-temporal-integrity-and-continuity-constraint)
+[Temporal Integrity and Continuity Constraint](#35-temporal-integrity-and-continuity-constraint)
 
-[Uncertainty Integrity and Non-Exploitation Constraint](#26-uncertainty-integrity-and-non-exploitation-constraint)
+[Uncertainty Integrity and Non-Exploitation Constraint](#36-uncertainty-integrity-and-non-exploitation-constraint)
 
 </details>
 
@@ -77,28 +81,28 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 This section governs how definitions must be interpreted and applied in practice.
 
 - Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions.
-- Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 2**](#2-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion.
+- Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 3**](#3-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion.
 - Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
 
-This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 1** and **Chapter Four, sections 1 and 4**.
+This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 1** and **Chapter Four, sections 2 and 5**.
 
-### 2. Non-Compliance from Observable System Behavior
+### 3. Non-Compliance from Observable System Behavior
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2); [Chapter Two, §2.2 Non-Compliance by Structural or Applied Weakening](core_02.000_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening) (2.000 §2.2).
+- Upstream: Principles: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](#2-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2); [Chapter Two, §2.2 Non-Compliance by Structural or Applied Weakening](core_02.000_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening) (2.000 §2.2).
 - Downstream: type catalogs in sections
-  - [2.1](#21-common-evasion-patterns) through
-  - [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint);
-  - [3. Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles);
-  - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000);
-  - [Chapter Four, section 3 — Observability of Traceability Requirement](core_04.000_burden_traceability_verification.md#3-observability-of-traceability-requirement) (4.000);
-  - [Chapter Nine §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*system alignment certification reopening and anti-evasion pointer*);
-  - [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
+  - [3.1](#31-common-evasion-patterns) through
+  - [3.6](#36-uncertainty-integrity-and-non-exploitation-constraint);
+  - [3. Non-Compliance Finding Profiles](#4-non-compliance-finding-profiles);
+  - [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000);
+  - [Chapter Four, section 4 — Observability of Traceability Requirement](core_04.000_burden_traceability_verification.md#4-observability-of-traceability-requirement) (4.000);
+  - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*system alignment certification reopening and anti-evasion pointer*);
+  - [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000).
 - Read with:
   - [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1) for the joint-satisfaction rule under full functional system conditions;
   - [Chapter Two, §2.4 Interpretation Rule under Ambiguity](core_02.000_definition_structure.md#24-interpretation-rule-under-ambiguity) (2.000 §2.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
-  - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof;
+  - [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof;
   - [Non-Compliance](core_05.045_band_integrative.md#non-compliance).
 
 </details>
@@ -130,9 +134,9 @@ A system is non-compliant where those observables would violate a definition und
 
 The type subsections below catalog common patterns. They do not replace the evaluation rule above.
 
-#### 2.1 Common Evasion Patterns
+#### 3.1 Common Evasion Patterns
 
-*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2 Reductive Evasion](#22-reductive-evasion).*
+*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§3.2 Reductive Evasion](#32-reductive-evasion).*
 
 The following forms of evasion are prohibited:
 
@@ -140,7 +144,7 @@ The following forms of evasion are prohibited:
   - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a passing result
   - optimizing for a score or measure in ways that make the real-world result the definition requires worse
   - presenting records, artifacts, or evidence that materially misstate what the system actually does or whether it complies
-  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1 Formal Label and Representation Gaming](#211-formal-label-and-representation-gaming))
+  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§3.1.1 Formal Label and Representation Gaming](#311-formal-label-and-representation-gaming))
 - **Scope and boundary tricks** — arranging what gets counted, and when, so the hard parts never get tested:
   - narrowing evaluation or application to leave out system elements, effects, or conditions that matter
   - splitting responsibility across components, actors, or time so no one has to meet the definition for the whole system
@@ -149,7 +153,7 @@ The following forms of evasion are prohibited:
   - creating conditions under which incentives, dynamics, or equilibria undermine compliance as a matter of course
 
 
-##### 2.1.1 Formal Label and Representation Gaming
+##### 3.1.1 Formal Label and Representation Gaming
 
 *In plain terms: a label, classification, or rubber-stamp review does not count if the real decision, protection, or duty never actually happens when it matters.*
 
@@ -160,9 +164,9 @@ This is a focused form of **Fake measures and paperwork**. Systems must not meet
 - formal renaming, restructuring, or entity reclassification that drops duties without transferring responsibility in practice
 - convenient taxonomy choices that erase distinctions the definition requires
 
-Where formal-structure change is material, apply [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
+Where formal-structure change is material, apply [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes).
 
-#### 2.2 Reductive Evasion
+#### 3.2 Reductive Evasion
 
 Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of a definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
 
@@ -174,7 +178,7 @@ The following forms of reduction are prohibited:
 - Assessment reduction: weakening required evaluation conditions in practice through selective application
 - Outcome reduction: substituting proxy, partial, or intermediate outcomes for required real-world outcomes
 
-#### 2.3 Cross-Component Scope Integrity Constraint
+#### 3.3 Cross-Component Scope Integrity Constraint
 All definition components (Ontological (O), Measurement (M), Assessment (A), and Compliance (C)) must be applied to the same functional system scope, evaluation conditions, and temporal frame. All components must be satisfied jointly under consistent scope, conditions, and temporal context.
 
 Misalignment across components is both evasion and non-compliance, including:
@@ -183,7 +187,7 @@ Misalignment across components is both evasion and non-compliance, including:
 - satisfying Assessment components under constrained or idealized conditions while asserting compliance under full operation
 - demonstrating component satisfaction across different timeframes, instances, or system states
 
-#### 2.4 Cross-System Interaction Integrity Constraint
+#### 3.4 Cross-System Interaction Integrity Constraint
 Systems must be evaluated as part of the broader functional system in which they operate. That evaluation includes upstream dependencies, downstream effects, and interaction pathways where materially relevant. Definitions must be applied across interacting systems where such interactions materially affect outcomes governed by the definition.
 
 A system is non-compliant where:
@@ -191,7 +195,7 @@ A system is non-compliant where:
 - it externalizes effects onto other systems, populations, or environments to preserve local compliance
 - system boundaries are used to exclude materially relevant interaction effects
 
-#### 2.5 Temporal Integrity and Continuity Constraint
+#### 3.5 Temporal Integrity and Continuity Constraint
 All components must be satisfied continuously under full functional system conditions across the system lifecycle.
 
 Compliance must be maintained across time, including system updates, version changes, retraining, reconfiguration, and deployment context shifts.
@@ -201,7 +205,7 @@ A system is non-compliant where:
 - system changes degrade or invalidate previously satisfied definition components
 - compliance is fragmented across lifecycle stages such that no stage satisfies all components under full conditions
 
-#### 2.6 Uncertainty Integrity and Non-Exploitation Constraint
+#### 3.6 Uncertainty Integrity and Non-Exploitation Constraint
 Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, assessment, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
 
 A system is non-compliant where it:
@@ -210,18 +214,18 @@ A system is non-compliant where it:
 - amplifies ambiguity to weaken required rigor or outcomes
 - requires unattainable certainty to recognize non-compliance
 
-Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, systems must meet a precautionary burden proportionate to potential harm. Failure to do so is non-compliance under this section and fails the burden of proof under [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard).
+Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, systems must meet a precautionary burden proportionate to potential harm. Failure to do so is non-compliance under this section and fails the burden of proof under [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard).
 
-### 3. Non-Compliance Finding Profiles
+### 4. Non-Compliance Finding Profiles
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
+- Upstream: [Chapter Three, section 3 — Non-Compliance from Observable System Behavior](#3-non-compliance-from-observable-system-behavior); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
 - Downstream:
-  - [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000);
-  - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000);
-  - [Chapter Thirteen — Standing Effects and Integration](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000);
+  - [Chapter Four, section 3 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#3-definition-traceability-requirement) (4.000);
+  - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);
+  - [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);
+  - [Chapter Seventeen — Standing Effects and Integration](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000);
   - [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Read with: [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
@@ -229,26 +233,26 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 <br>
 
-*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§3.2 Standing Effects at First Certification](#32-standing-effects-at-first-certification)).*
+*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§4.2 Standing Effects at First Certification](#42-standing-effects-at-first-certification)).*
 
 Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
 
 - may name which [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation best describe the failure — for example Oversight, Participation, or Accountability crossed with Flourishing or Continuity
 - does not change whether the underlying definition is met
 - does not create a second verdict label
-- does not replace [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) contribution or violation measurement
+- does not replace [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) contribution or violation measurement
 
 Standing effects depend on who is being assessed and on whether the system is already certified. The subsections below set those cases.
 
-#### 3.1 Standing Effects for Already-Certified Systems
+#### 4.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate) may enter. Measure standing under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened); apply its integration and effects under [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_15.000_standing_assessment.md#35-verified-input-gate) may enter. Measure standing under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened); apply its integration and effects under [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows). Reopening, withdrawal, or other certification consequences stay under [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes). They do not replace that system's standing records.
 
-#### 3.2 Standing Effects at First Certification
+#### 4.2 Standing Effects at First Certification
 
-If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Chapter Nine §11.2 Every Certification Outcome](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome), on the same terms as [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Chapter Eleven §5.2 Every Certification Outcome](core_11.000_system_alignment_certification_records_recertification.md#52-every-certification-outcome), on the same terms as [§4.1 Standing Effects for Already-Certified Systems](#41-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
 
-#### 3.3 Standing Effects for Sentients and Institutions
+#### 4.3 Standing Effects for Sentients and Institutions
 
 A sentient's standing is affected only when a verified link to that sentient is shown. Being associated with the non-compliant system is not enough. The verified link must be to:
 
@@ -261,9 +265,9 @@ A sentient's standing is affected only when a verified link to that sentient is 
 - concealment
 - feasible prevention capacity
 
-An institution's standing is affected when the institution is the subject being assessed, or when the non-compliance pattern is verified as carried out through it. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
+An institution's standing is affected when the institution is the subject being assessed, or when the non-compliance pattern is verified as carried out through it. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
 
-#### 3.4 Operational Constraints
+#### 4.4 Operational Constraints
 
 Non-compliance may also be found against operational constraints in the joint implementation corpus. Default finding profiles and how they attach to those findings are handled there — not in this chapter. See [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 

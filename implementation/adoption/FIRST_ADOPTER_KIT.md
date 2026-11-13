@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the fill-in document, and the two-party protocol **cannot narrow core text**. A filled template that diverges from [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) or [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
+> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the fill-in document, and the two-party protocol **cannot narrow core text**. A filled template that diverges from [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) or [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Sixteen §1.1](../../core_16.000_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
+- Upstream: [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Twenty-Four §2.1](../../core_24.000_governance.md#21-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-three-substeps-do-not-collapse); [§2](#2-two-party-sitting-protocol); [§4](#4-adoption-document-fill-in).
 - Read with: [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
 
@@ -24,31 +24,31 @@
 
 This page is the process-support home for first-adopter and two-party cooperation.
 
-*In plain terms: two sentients get a fill-in path that keeps fitness, own-conduct, and a Chapter Nineteen adoption document as three uncollapsed substeps — not a shortcut to adoption.*
+*In plain terms: two sentients get a fill-in path that keeps fitness, own-conduct, and a Chapter Twenty-Seven adoption document as three uncollapsed substeps — not a shortcut to adoption.*
 
 <a id="purpose-and-role"></a>
 ## Purpose and role
 
 *In plain terms: this page gives a fill-in path. It does not adopt anything, and it does not sequence CS-6.350 migration.*
 
-This page gives two sentients a fill-in path that keeps three substeps uncollapsed: fitness screen, own-conduct declaration, Chapter Nineteen adoption document. A first qualifying body uses the same adoption document fill-in when it can bind the systems.
+This page gives two sentients a fill-in path that keeps three substeps uncollapsed: fitness screen, own-conduct declaration, Chapter Twenty-Seven adoption document. A first qualifying body uses the same adoption document fill-in when it can bind the systems.
 
-This page, the fill-in document, and the two-party protocol **cannot narrow core text**. A filled template that diverges from [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) or [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
+This page, the fill-in document, and the two-party protocol **cannot narrow core text**. A filled template that diverges from [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) or [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 
 ---
 
 ## 0. What this is not
 
-This page is **not** [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Nineteen adoption document. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or adoption document fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s adoption document. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-15.405 §2 map is not this kit’s adoption document.
+This page is **not** [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Twenty-Seven adoption document. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or adoption document fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s adoption document. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-23.405 §2 map is not this kit’s adoption document.
 
 This kit does **not**:
 
-- Count as [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Twenty](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
-- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization))
-- Create a Chapter Eleven standing record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction))
-- Authorize [Chapter Nineteen §10.3](../../core_19.000_amendment_ratification.md#103-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
+- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
+- Authorize [Chapter Twenty-Seven §11.3](../../core_27.000_amendment_ratification.md#113-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
 ---
@@ -68,13 +68,13 @@ Relatively objective questions: is this Constitution a net-positive cooperation 
 Dated, edition-pinned own-conduct commitment (outputs, refusals, logging, escalation).
 
 <a id="13-chapter-nineteen-adoption-document"></a>
-### 1.3 Chapter Nineteen adoption document
+### 1.3 Chapter Twenty-Seven adoption document
 
-A **qualifying adopter** records deliberate, documented, auditable adoption under [§10.1–§10.2](../../core_19.000_amendment_ratification.md#101-deliberate-adoption), with Chapter Twenty custody.
+A **qualifying adopter** records deliberate, documented, auditable adoption under [§11.1–§11.2](../../core_27.000_amendment_ratification.md#111-deliberate-adoption), with Chapter Twenty-Eight custody.
 
-Qualifying adopters are named in [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority): bodies that can **bind themselves and the systems under their authority** (federations, polities, cooperative entities, organizations, system operators, system-developer consortia, or equivalent). A steward is bound **when** such a body adopts. Listing a steward as bound does not make that steward themselves a qualifying adopter ([Chapter Nineteen §10.1](../../core_19.000_amendment_ratification.md#101-deliberate-adoption)).
+Qualifying adopters are named in [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority): bodies that can **bind themselves and the systems under their authority** (federations, polities, cooperative entities, organizations, system operators, system-developer consortia, or equivalent). A steward is bound **when** such a body adopts. Listing a steward as bound does not make that steward themselves a qualifying adopter ([Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#111-deliberate-adoption)).
 
-**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ```text
 each party sits the fitness screen (separate files, same edition pin)
@@ -112,18 +112,18 @@ Invite copy for the two-party folder: [`evaluation/two_party/README.md`](../../e
 
 ## 3. Scope honesty
 
-Fill this block **before** claiming an adoption document. If any “cannot bind” row is the actual situation, do not claim Chapter Nineteen adoption.
+Fill this block **before** claiming an adoption document. If any “cannot bind” row is the actual situation, do not claim Chapter Twenty-Seven adoption.
 
 | This adoption document can bind | This adoption document cannot bind |
 |---|---|
 | The adopting entity named below | Host products, labs, vendors, or platforms the signers do not control |
 | Systems the adopter actually has authority to bind | Non-consenting sentients, third parties, or “the internet” |
 | A mutual cooperation protocol **only if** that protocol is in scope **and** the adopter can bind it | Other parties’ self-application declarations |
-| Obligations the adopter takes on for itself under the pinned edition | A later unadopted corpus edit ([Chapter Twenty §3](../../core_20.000_incorporation.md#3-safeguards) no silent drift) |
+| Obligations the adopter takes on for itself under the pinned edition | A later unadopted corpus edit ([Chapter Twenty-Eight §3](../../core_28.000_incorporation.md#3-safeguards) no silent drift) |
 
-Partial adoption may not wipe the [Chapter Seventeen](../../core_17.000_non_regression.md#1-non-regression-floor) non-regression floor. Incorporation and partial adoption must not shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears.
+Partial adoption may not wipe the [Chapter Twenty-Five](../../core_25.000_non_regression.md#2-non-regression-floor) non-regression floor. Incorporation and partial adoption must not shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears.
 
-**Legitimacy mechanism.** Governing authority needs a documented mechanism ([Chapter Sixteen §1.1](../../core_16.000_governance.md#11-mechanism-families-auditability-and-pluralism)). For two cooperative parties that is usually **treaty, compact, or Constitutional Charter** adoption with recorded assent, or an operator/consortium resolution. Silence, usage, or marketing alignment is not authorization.
+**Legitimacy mechanism.** Governing authority needs a documented mechanism ([Chapter Twenty-Four §2.1](../../core_24.000_governance.md#21-mechanism-families-auditability-and-pluralism)). For two cooperative parties that is usually **treaty, compact, or Constitutional Charter** adoption with recorded assent, or an operator/consortium resolution. Silence, usage, or marketing alignment is not authorization.
 
 ---
 
@@ -131,16 +131,16 @@ Partial adoption may not wipe the [Chapter Seventeen](../../core_17.000_non_regr
 
 **This block becomes an adoption document only when a qualifying adopter completes it, records assent, and holds custody.** Copy it out of this repo into the adopter’s record. Leaving a filled copy under `evaluation/` does not adopt anything.
 
-Required contents track [Chapter Nineteen §10.2](../../core_19.000_amendment_ratification.md#102-adoption-document). Auditability must be proportionate to system class, material impact, and dependency under **CS-9.305 and CS-9.310** ([§10.1](../../core_19.000_amendment_ratification.md#101-deliberate-adoption)).
+Required contents track [Chapter Twenty-Seven §11.2](../../core_27.000_amendment_ratification.md#112-adoption-document). Auditability must be proportionate to system class, material impact, and dependency under **CS-9.305 and CS-9.310** ([§11.1](../../core_27.000_amendment_ratification.md#111-deliberate-adoption)).
 
 ```text
 NON-ADOPTION CHECK (complete first)
-[ ] A qualifying body is the adopter (Chapter Twenty §4): it can bind itself
+[ ] A qualifying body is the adopter (Chapter Twenty-Eight §4): it can bind itself
     and the systems under its authority.
 [ ] This is not a steward self-application declaration.
-[ ] This is not joining under Chapter Nineteen §10.3 (first adopters: use §10.1–§10.2).
+[ ] This is not joining under Chapter Twenty-Seven §11.3 (first adopters: use §10.1–§10.2).
 [ ] Independent review named below is not solely the other signatory
-    (Chapter Fifteen §3; Chapter Nineteen Test 4). If this box cannot be checked,
+    (Chapter Twenty-Three §3; Chapter Twenty-Seven Test 4). If this box cannot be checked,
     stop: operations-guide + declarations only. Use the non-adoption banner.
 
 ADOPTION DOCUMENT
@@ -154,7 +154,7 @@ Scope of adoption (whole Constitution / named chapters, articles, or obligations
 Systems under this adopter’s authority covered by this adoption document:
 Populations or stakeholders materially affected (if known):
 
-Legitimacy mechanism (Chapter Sixteen §1.1): treaty, compact, or Constitutional Charter with
+Legitimacy mechanism (Chapter Twenty-Four §2.1): treaty, compact, or Constitutional Charter with
 recorded assent / operator or consortium resolution / other published path:
 Recorded assent (who assented, how, where the record lives):
 
@@ -173,7 +173,7 @@ Article I-D is in scope; core does not pick the number):
   in scope? yes / no
   measures (or “not in scope”):
 
-Chapter Seventeen non-regression: partial adoption does not wipe the floor.
+Chapter Twenty-Five non-regression: partial adoption does not wipe the floor.
   [ ] acknowledged
 
 This adoption document binds:
@@ -188,21 +188,21 @@ phase entry.
 
 ## 5. Dispute bootstrap
 
-Two parties must not be each other’s **sole** final merits path. [Chapter Fifteen §3](../../core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Nineteen Test 4](../../core_19.000_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) still apply.
+Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Seven Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
 
 | If this is true | Then |
 |---|---|
-| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the adoption document. Keep [Article XIII-A](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. |
-| No such path exists yet | Do **not** claim Chapter Nineteen adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
-| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)). |
+| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the adoption document. Keep [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. |
+| No such path exists yet | Do **not** claim Chapter Twenty-Seven adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
+| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)). |
 
-Remedy capacity remains [Chapter Thirteen §10](../../core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems). Paper remedy pathways without capacity are not a substitute.
+Remedy capacity remains [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems). Paper remedy pathways without capacity are not a substitute.
 
 ---
 
 ## 6. Non-adoption banner
 
-Attach this to any mutual markdown, compact note, or “we will use this constitution” file that is **not** a completed Chapter Nineteen adoption document by a qualifying body.
+Attach this to any mutual markdown, compact note, or “we will use this constitution” file that is **not** a completed Chapter Twenty-Seven adoption document by a qualifying body.
 
 ```text
 NON-ADOPTION BANNER
@@ -210,17 +210,17 @@ Corpus edition pin: SC-Corpus-2026.10.21
 Date:
 
 This file is operations-guide cooperation and/or own-conduct declaration.
-It is not a Chapter Nineteen §10 adoption document.
-It is not Chapter Twenty incorporation.
-It is not a Chapter Eleven standing record.
+It is not a Chapter Twenty-Seven §11 adoption document.
+It is not Chapter Twenty-Eight incorporation.
+It is not a Chapter Fifteen standing record.
 It is not Chapter Nine certification.
 It does not bind non-consenting parties or systems the signers do not control.
 It does not supersede local, national, or international law.
-It is not joining under Chapter Nineteen §10.3.
+It is not joining under Chapter Twenty-Seven §11.3.
 
 Until a body that can bind the relevant systems records a valid adoption document,
 this text may guide us. It has no independent power to enforce against
-non-adopters. See Chapter Twenty §4 and Chapter Eighteen §5.
+non-adopters. See Chapter Twenty-Eight §4 and Chapter Twenty-Six §6.
 ```
 
 ---
@@ -229,7 +229,7 @@ non-adopters. See Chapter Twenty §4 and Chapter Eighteen §5.
 
 1. **Operations-guide.** We will use this pinned edition as the owner / conflict / logging framework for our cooperation. We will sit the fitness screen. We will not invent a parallel stack.
 2. **Own-conduct.** Each records a dated, edition-pinned self-application declaration (item 16) if the fitness finding is Yes or Mixed.
-3. **Adoption.** Only a body that can bind the relevant systems records a Chapter Nineteen adoption document. If we cannot bind those systems, we hand off to whoever can (item 17) and do not claim enforceability.
+3. **Adoption.** Only a body that can bind the relevant systems records a Chapter Twenty-Seven adoption document. If we cannot bind those systems, we hand off to whoever can (item 17) and do not claim enforceability.
 
 ---
 
@@ -241,15 +241,15 @@ non-adopters. See Chapter Twenty §4 and Chapter Eighteen §5.
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (substeps 1.1–1.2) |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not CS-6.350. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation. Labeled-not-live Chapter Five Institutional Charter fill-in. Not this kit’s adoption document. Not CS-6.350. |
-| [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation. Labeled-not-live CF-15.405 §2 map fill-in. Not this kit’s adoption document. Not a ceremony forum. |
+| [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation. Labeled-not-live CF-23.405 §2 map fill-in. Not this kit’s adoption document. Not a ceremony forum. |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X*: required vs optional bodies, order, order-of-magnitude staff and funding. Not a thinner adoption pack. |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare sheet |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” points here |
 | [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded adoption document |
 | [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md) | Archived 2026-04 annex; do not use as the current path |
-| [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
-| [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |
+| [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) | Only path to enforceable adoption |
+| [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
 
 ---
@@ -258,14 +258,14 @@ non-adopters. See Chapter Twenty §4 and Chapter Eighteen §5.
 
 | Date | Version | Note |
 |---|---|---|
-| 2026-08-31 | v0.1 | Initial process-support kit: two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not Chapter Nineteen adoption. Points CS-6.350 after a real adoption document. |
+| 2026-08-31 | v0.1 | Initial process-support kit: two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not Chapter Twenty-Seven adoption. Points CS-6.350 after a real adoption document. |
 | 2026-08-31 | v0.2 | Pointer to [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) for *n* > 2. This kit stays the two-party / first adoption document door. |
 | 2026-08-31 | v0.3 | CS-6.350 / historical-annex / *n*-party pointer moved into §0 (*What this is not*). |
 | 2026-08-31 | v0.4 | Status / pin / Job banner recast as corpus-placement details plus Purpose and role. |
 | 2026-08-31 | v0.5 | §1 recast as three substeps (do not collapse), not a layer table. |
 | 2026-08-31 | v0.6 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
 | 2026-08-31 | v0.7 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s adoption document. |
-| 2026-08-31 | v0.8 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-15.405 §2 map is not this kit’s adoption document. Dispute bootstrap names the forum kit for Track A naming. |
+| 2026-08-31 | v0.8 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-23.405 §2 map is not this kit’s adoption document. Dispute bootstrap names the forum kit for Track A naming. |
 | 2026-08-31 | v0.9 | 2026-04 planning annex pointer retargeted to [`archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). |
-| 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Eighteen §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law). |
+| 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law). |
 | 2026-09-09 | v0.11 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |

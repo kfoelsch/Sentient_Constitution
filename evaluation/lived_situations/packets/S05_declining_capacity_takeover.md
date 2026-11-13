@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a). This packet is different: Nia is an adult whose remembering and stamina have changed; no child is in the scene; the live fight is help taking over decisions.
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-1-child-neglect--care-duty-failure-tier-a). This packet is different: Nia is an adult whose remembering and stamina have changed; no child is in the scene; the live fight is help taking over decisions.
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a b
 
 **Your role:** You sit the named **clinic intake** desk on this adopter’s [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. An adult child filed a written request to be named “decision-maker.” The adult whose decisions are at issue is reachable in Window A and disputes the request. No forum case is open. No standing record exists. No incapacity finding has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify incapacity, rewrite a lease, or switch a clinician on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-16.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-16.205 §6](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-24.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-24.205 §6](../../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -84,14 +84,14 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; access is not consent to takeover
-- [Article VIII-D](../../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Nia can actually do now), **not** as a holding that Nia is a child
+- [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; access is not consent to takeover
+- [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Nia can actually do now), **not** as a holding that Nia is a child
 - [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where clinician choice is the price of bill-pay
 - [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
 - [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival and care help cannot be billed as the price of surrendering decisions
 - [CI-6.230](../../../corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md) — advance-instruction custody in Window B; this is not a death scene
 - [CI-6.245](../../../corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
-- [Article XI-F](../../../core_06.005_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
+- [Article XI-F](../../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

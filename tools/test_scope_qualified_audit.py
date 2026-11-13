@@ -71,7 +71,7 @@ class ScopeQualifiedTests(unittest.TestCase):
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe custodian acts for the scope.\n```\nThe custodian acts for the scope.\n"
-        found = scan_text("core_11.000_standing_assessment.md", text)
+        found = scan_text("core_15.000_standing_assessment.md", text)
         self.assertEqual([f.line for f in found], [4])
         self.assertEqual(scan_text("doc_architecture.md", "The custodian acts for the scope.\n"), [])
 

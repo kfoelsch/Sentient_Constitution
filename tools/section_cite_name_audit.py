@@ -46,7 +46,7 @@ BASELINE_PATH = _TOOLS / "section_cite_name_table_baseline.json"
 
 CHAPTER_PREFIX = (
     r"(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|"
-    r"Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty|\d+)\s+)?"
+    r"Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty-One|Twenty-Two|Twenty-Three|Twenty-Four|Twenty-Five|Twenty-Six|Twenty-Seven|Twenty-Eight|Twenty|\d+)\s+)?"
     r"(?:Preamble\s+)?"
 )
 SECTION_TOKEN_RE = re.compile(

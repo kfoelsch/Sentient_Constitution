@@ -100,7 +100,7 @@
     },
     {
       "avoid": "merits authority (also merits authorities)",
-      "prefer": "jurisdiction (a forum family's scope under Chapter Fifteen); decision-making authority for what a role may decide; merits forum and merits decision are not banned"
+      "prefer": "jurisdiction (a forum family's scope under Chapter Twenty-Three); decision-making authority for what a role may decide; merits forum and merits decision are not banned"
     },
     {
       "avoid": "versions (as a verb, in a list of record duties)",
@@ -158,19 +158,19 @@
     },
     {
       "avoid": "standing calculus",
-      "prefer": "standing measurement under Chapter Eleven; measure standing records on the Contribution and Violation axes"
+      "prefer": "standing measurement under Chapter Fifteen; measure standing records on the Contribution and Violation axes"
     },
     {
       "avoid": "standing-calculus",
-      "prefer": "standing measurement under Chapter Eleven"
+      "prefer": "standing measurement under Chapter Fifteen"
     },
     {
       "avoid": "standing classification",
-      "prefer": "standing measurement under Chapter Eleven (reserve classification for CS-9.310 system classification)"
+      "prefer": "standing measurement under Chapter Fifteen (reserve classification for CS-9.310 system classification)"
     },
     {
       "avoid": "standing-record classification",
-      "prefer": "standing measurement under Chapter Eleven"
+      "prefer": "standing measurement under Chapter Fifteen"
     },
     {
       "avoid": "filed claim is not standing",
@@ -182,7 +182,7 @@
     },
     {
       "avoid": "bare Charter / charter (Corpus/Constitution sense)",
-      "prefer": "name which: (1) System Charter — scope document of one system (core_05.040_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05.040_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Sixteen polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05.040_band_continuity.md#constitutional-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
+      "prefer": "name which: (1) System Charter — scope document of one system (core_05.040_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05.040_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Twenty-Four polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05.040_band_continuity.md#constitutional-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
     },
     {
       "avoid": "Chapter Zero",
@@ -198,7 +198,7 @@
     },
     {
       "avoid": "pathway (bare; any sense)",
-      "prefer": "a kind-naming qualifier: gated pathway (Chapter Five Gated Pathway) or a Chapter Thirteen §6.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"
+      "prefer": "a kind-naming qualifier: gated pathway (Chapter Five Gated Pathway) or a Chapter Nineteen §2.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"
     },
     {
       "avoid": "pathways (bare; any sense), including pathway-… prefix compounds",
@@ -214,7 +214,7 @@
     },
     {
       "avoid": "certify a question / certified question(s) / refer, certify, or stay (the forum move that sends a question to another forum)",
-      "prefer": "question for ruling and send for ruling (Chapter Fifteen section 5); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
+      "prefer": "question for ruling and send for ruling (Chapter Twenty-Three section 5); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
     },
     {
       "avoid": "pass / passes (bare noun: the pass, a pass, each pass)",
@@ -222,11 +222,11 @@
     },
     {
       "avoid": "design cause / design-cause / the cause is design (retired name)",
-      "prefer": "design-caused (a finding of design-caused misalignment; the other kind is operating-caused; or not yet determined), Chapter Nine Part C section 9.3.3; the verb (the design causes harm) stays; enforced by avoid-design-cause"
+      "prefer": "design-caused (a finding of design-caused misalignment; the other kind is operating-caused; or not yet determined), Chapter Eleven section 3.3.3; the verb (the design causes harm) stays; enforced by avoid-design-cause"
     },
     {
       "avoid": "component pass / component passes (retired name)",
-      "prefer": "component evaluation (one component's part of a certification pass; Chapter Nine Part B section 6.1); certification pass and review pass stay; enforced by avoid-component-pass"
+      "prefer": "component evaluation (one component's part of a certification pass; Chapter Ten section 2.1); certification pass and review pass stay; enforced by avoid-component-pass"
     },
     {
       "avoid": "run / runs (bare noun: the run, a run, each run, the runs)",
@@ -238,7 +238,7 @@
     },
     {
       "avoid": "designation / designations (bare noun: the designation, a final designation, corresponding designation, designation-only, for designation)",
-      "prefer": "say which designation: anti-constitutional-misconduct designation (or Chapter Fourteen designation) for the Chapter Fourteen outcome, backup designation for a named backup forum or record authority, emergency designation for the Chapter Fifteen emergency route, hostile designation for a hostile state or organization, or name what is designated; 'designation of ...', 'designation under ...', and qualified forms stay; 'final', 'corresponding', 'matching', 'additional', 'separate', and 'existing' do not say which kind; applies inside Chapter Fourteen too; the abbreviations ACMD (anti-constitutional-misconduct designation) and ACM (anti-constitutional misconduct) are qualified forms when the file defines them in parentheses at first use; enforced by avoid-bare-designation"
+      "prefer": "say which designation: anti-constitutional-misconduct designation (or Chapter Twenty-One designation) for the Chapter Twenty-One outcome, backup designation for a named backup forum or record authority, emergency designation for the Chapter Twenty-Three emergency route, hostile designation for a hostile state or organization, or name what is designated; 'designation of ...', 'designation under ...', and qualified forms stay; 'final', 'corresponding', 'matching', 'additional', 'separate', and 'existing' do not say which kind; applies inside Chapter Twenty-One too; the abbreviations ACMD (anti-constitutional-misconduct designation) and ACM (anti-constitutional misconduct) are qualified forms when the file defines them in parentheses at first use; enforced by avoid-bare-designation"
     },
     {
       "avoid": "condition / conditions (bare noun on a line that speaks of certification: the condition, with or without conditions, release from conditions)",
@@ -270,11 +270,11 @@
     },
     {
       "avoid": "governance layer mechanism",
-      "prefer": "legitimacy mechanism (Chapter Sixteen); do not use governance-layer mechanism as a synonym for the two-layer split"
+      "prefer": "legitimacy mechanism (Chapter Twenty-Four); do not use governance-layer mechanism as a synonym for the two-layer split"
     },
     {
       "avoid": "governance-layer mechanism",
-      "prefer": "legitimacy mechanism (Chapter Sixteen)"
+      "prefer": "legitimacy mechanism (Chapter Twenty-Four)"
     },
     {
       "avoid": "stakeholder-layer",
@@ -282,7 +282,7 @@
     },
     {
       "avoid": "two-tier constitutional and stakeholder governance",
-      "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-20.105 §8 definition contract"
+      "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-28.105 §8 definition contract"
     },
     {
       "avoid": "right / rights (generic Chapter Six baseline protection sense)",
@@ -306,7 +306,7 @@
     },
     {
       "avoid": "transitional steps / transitional measures (a stopgap during amendment)",
-      "prefer": "interim steps, interim measures (Chapter Eighteen §2); enforced by avoid-transition-senses"
+      "prefer": "interim steps, interim measures (Chapter Twenty-Six §3); enforced by avoid-transition-senses"
     },
     {
       "avoid": "transition continuity / continuity-preserving transition / safe transition paths / transition lifecycle (control or operation passing to another party: exit, migration, consolidation, dissolution, authority transfer)",

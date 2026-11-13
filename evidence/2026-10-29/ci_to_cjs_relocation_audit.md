@@ -532,7 +532,7 @@ Summary: On the cadence its class sets in [Chapter Fourteen §6 Timely resolutio
 - Router matches: CJS-R23 — Seat types, local role maps, and wrong-seat routing; CJS-R22 — Standing-record custody, opening authority, and separation of duties; CJS-R03 — Lawful panel formation, disclosure, recusal, substitution, inability-to-form
 - Keep-in-CI cautions: appointment, removal
 
-Summary: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) holds the requirements. This subsection is the template and procedure. It may be stricter and m...
+Summary: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity) holds the requirements. This subsection is the template and procedure. It may be stricter and m...
 
 ### 45. CI-6.275: §4.8: Indicators that verification is unreliable
 
