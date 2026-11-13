@@ -2,7 +2,7 @@
 
 **Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. This folder **cannot narrow core text**.  
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09).  
-**Kind:** Agent-executed comparative desk audit plus a reusable expert terms-of-reference. Not adoption, not certification, not a Chapter Eleven standing record.
+**Kind:** Agent-executed comparative desk audit plus a reusable expert terms-of-reference. Not adoption, not certification, not a Chapter Fifteen standing record.
 
 ## What to open
 
@@ -17,4 +17,4 @@ Interactive scorecard (open beside chat): [external-audit-scorecard.canvas.tsx](
 
 ## Category caveat
 
-[Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states this is a **model constitution**. Enforceability against a body exists only after valid adoption under Chapter Nineteen and Chapter Twenty. “Better on paper” and “better in force” are separate scores. State constitutions are design-pattern sources for process, not the primary legitimacy class; treaties, SAI/audit regimes, and AI-assurance rules are closer analogues. Do not treat ECHR/CFR Art. 53 as amendment non-regression, or South Africa s.1 as an eternity clause. Full flags: [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md).
+[Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states this is a **model constitution**. Enforceability against a body exists only after valid adoption under Chapter Twenty-Seven and Chapter Twenty-Eight. “Better on paper” and “better in force” are separate scores. State constitutions are design-pattern sources for process, not the primary legitimacy class; treaties, SAI/audit regimes, and AI-assurance rules are closer analogues. Do not treat ECHR/CFR Art. 53 as amendment non-regression, or South Africa s.1 as an eternity clause. Full flags: [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md).

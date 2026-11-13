@@ -213,8 +213,11 @@ class Ch1Cjs3AlignmentAuditor:
             for marker in (
                 "core_00.000_preamble.md",
                 "core_01.000_values_principles.md",
-                "core_01.005_interaction_interpretation.md",
-                "core_01.010_stewardship_capacity_principles.md",
+                "core_01.010_values_principles_continuity_aim.md",
+                "core_01.020_interaction_interpretation.md",
+                "core_01.030_constitutional_interpretation.md",
+                "core_01.040_stewardship_capacity_principles.md",
+                "core_01.050_governance_incentive_application.md",
             )
         ):
             refs.add("linked")

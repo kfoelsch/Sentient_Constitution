@@ -10,7 +10,7 @@ from criterion_named_audit import NAMES, fix_text, numbers_in, scan_text
 
 def found(line: str, following: str = "") -> list[str]:
     text = line + "\n" + following
-    return [f.phrase for f in scan_text("core_14.005_misconduct_pattern_applications.md", text)]
+    return [f.phrase for f in scan_text("core_22.000_misconduct_pattern_applications.md", text)]
 
 
 class CriterionNamedTests(unittest.TestCase):
@@ -70,23 +70,23 @@ class CriterionNamedTests(unittest.TestCase):
     def test_ignores_inline_code_link_targets_fences_and_move_log(self) -> None:
         self.assertEqual(found("See `criterion 3` and [the rule](core_14_criterion_3.md)."), [])
         text = "```\ncriterion 3\n```\ncriterion 3\n"
-        self.assertEqual([f.line for f in scan_text("core_14.000_misconduct_designation.md", text)], [4])
+        self.assertEqual([f.line for f in scan_text("core_21.000_misconduct_designation.md", text)], [4])
         self.assertEqual(scan_text("doc_architecture.md", "criterion 3\n"), [])
 
     def test_fix_inserts_names(self) -> None:
         text = "It satisfies **criterion 4** where it blocks.\nCriteria 1 and 2 apply.\n"
-        new, n = fix_text("core_14.005_misconduct_pattern_applications.md", text)
+        new, n = fix_text("core_22.000_misconduct_pattern_applications.md", text)
         self.assertEqual(n, 2)
         self.assertIn("**criterion 4** (*Causally significant conduct*) where", new)
         self.assertIn(
             "Criteria 1 and 2 (*Willful deceptive intent* and *Knowing falsification or suppression*) apply.", new
         )
-        self.assertEqual(scan_text("core_14.005_misconduct_pattern_applications.md", new), [])
+        self.assertEqual(scan_text("core_22.000_misconduct_pattern_applications.md", new), [])
 
     def test_fix_uses_or_for_an_or_group_and_semicolons_for_a_range(self) -> None:
-        new, _ = fix_text("core_14.000_misconduct_designation.md", "It never excuses **criteria 5** or **6** conduct.\n")
+        new, _ = fix_text("core_21.000_misconduct_designation.md", "It never excuses **criteria 5** or **6** conduct.\n")
         self.assertIn("**criteria 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) conduct", new)
-        new, _ = fix_text("core_14.000_misconduct_designation.md", "covered by criteria 1–4.\n")
+        new, _ = fix_text("core_21.000_misconduct_designation.md", "covered by criteria 1–4.\n")
         self.assertIn(
             "criteria 1–4 (*Willful deceptive intent*; *Knowing falsification or suppression*; "
             "*Material rollback effect*; and *Causally significant conduct*).",
@@ -94,16 +94,16 @@ class CriterionNamedTests(unittest.TestCase):
         )
 
     def test_fix_leaves_plain_names_inside_an_italic_span(self) -> None:
-        new, _ = fix_text("core_14.000_misconduct_designation.md", "(*change-path conduct may implicate criteria 3*)\n")
-        self.assertEqual(scan_text("core_14.000_misconduct_designation.md", new), [])
+        new, _ = fix_text("core_21.000_misconduct_designation.md", "(*change-path conduct may implicate criteria 3*)\n")
+        self.assertEqual(scan_text("core_21.000_misconduct_designation.md", new), [])
 
     def test_fix_is_idempotent_and_skips_an_existing_gloss(self) -> None:
         text = "It meets criterion 3 (a workaround that rolls back protections).\n"
         new, n = fix_text("core_01.000_values_principles.md", text)
         self.assertEqual((new, n), (text, 0))
         self.assertEqual(len(scan_text("core_01.000_values_principles.md", text)), 1)
-        once, _ = fix_text("core_14.005_misconduct_pattern_applications.md", "Criterion 6 applies.\n")
-        twice, n2 = fix_text("core_14.005_misconduct_pattern_applications.md", once)
+        once, _ = fix_text("core_22.000_misconduct_pattern_applications.md", "Criterion 6 applies.\n")
+        twice, n2 = fix_text("core_22.000_misconduct_pattern_applications.md", once)
         self.assertEqual((once, 0), (twice, n2))
 
     def test_names_cover_all_six_criteria(self) -> None:

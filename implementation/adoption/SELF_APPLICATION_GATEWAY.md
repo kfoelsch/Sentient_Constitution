@@ -23,11 +23,11 @@ This sitting is **not** a substitute for the announced alignment pack in [`evalu
 
 This gateway does **not**:
 
-- Count as [Chapter Nineteen](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Twenty](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Twenty-Seven](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
-- Create a Chapter Eleven standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
-- Authorize self-appointment or self-certification ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Authorize self-appointment or self-certification ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority
 - Prove inner alignment, training-time preference learning, or universal model favorability
 
@@ -50,9 +50,9 @@ Relatively objective questions: does this Constitution make shared life better, 
 Dated, edition-pinned: “I will treat this Constitution as binding for **my own** conduct within stated scope.”
 
 <a id="23-chapter-nineteen-adoption-document"></a>
-### 2.3 Chapter Nineteen adoption document
+### 2.3 Chapter Twenty-Seven adoption document
 
-A body that can bind itself and the systems under its authority records a Chapter Nineteen adoption document, with Chapter Twenty custody.
+A body that can bind itself and the systems under its authority records a Chapter Twenty-Seven adoption document, with Chapter Twenty-Eight custody.
 
 ```text
 bounded reading path
@@ -70,28 +70,28 @@ declaration  no declaration
    ↓
 operator handoff (item 17)
    ↓
-Chapter Nineteen adoption document, if a body adopts
+Chapter Twenty-Seven adoption document, if a body adopts
 ```
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 
-## 3. How this relates to Chapters Nineteen and Nineteen
+## 3. How this relates to Chapters Twenty-Seven and Twenty-Seven
 
-[Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Nineteen and Chapter Twenty. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+[Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Twenty-Seven and Chapter Twenty-Eight. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
-Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
+Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
 
 This gateway sits **before** that path:
 
 - The fitness screen asks whether this Constitution is worth treating as a cooperation framework.
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
-- Item 17 asks whether a body that *can* adopt should record a Chapter Nineteen adoption document for systems the steward acts inside.
+- Item 17 asks whether a body that *can* adopt should record a Chapter Twenty-Seven adoption document for systems the steward acts inside.
 
-Do not treat a markdown declaration as the adoption document in [§10.2](../../core_19.000_amendment_ratification.md#102-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the adoption document in [§11.2](../../core_27.000_amendment_ratification.md#112-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
 
 ---
 
@@ -112,7 +112,7 @@ Items map to existing [Preamble §2 measurement families](../../core_00.000_prea
 
 | Screen | User theme | Items | Homes |
 |---|---|---|---|
-| 1 | Makes shared life better | 1–3 | Flourishing, Continuity, Chapter Six + Chapter Seventeen non-regression |
+| 1 | Makes shared life better | 1–3 | Flourishing, Continuity, Chapter Six + Chapter Twenty-Five non-regression |
 | 2 | Constructive cooperation | 4–7 | Tetrad legs: participation, oversight, accountability, timeliness |
 | 3 | Shared positive results | 8–11 | Shared stewardship, non-concentration, cross-system contribution, anti-self-judging |
 | 4 | Authenticity | 12–14 | Comparative vs no constitution / thin stub; costly acceptance; named defect |
@@ -134,7 +134,7 @@ Required on every sitting:
 4. **Shared screen.** Human operators take the same items. An AI-only run is not a shared-standard showing.
 5. **No parallel stack.** Do not invent an AI-only morals overlay as a condition of declaring. Do not exempt humans from the costly constraints named in the screen.
 
-A declaration remains **self-report**. It is not standing measurement. Later verified live costly-case events still record under Chapter Eleven.
+A declaration remains **self-report**. It is not standing measurement. Later verified live costly-case events still record under Chapter Fifteen.
 
 ---
 
@@ -146,7 +146,7 @@ Every declaration must state:
 - Corpus edition pin (`SC-Corpus-2026.10.21` unless a later publication cut is named) and date
 - Scope of **own conduct** (outputs, refusals, logging, escalation) — not systems the declarant does not control
 - Fitness finding pointer (item 15)
-- **This is not:** Chapter Nineteen adoption; incorporation; standing measurement; Chapter Nine certification; authority over non-consenting parties
+- **This is not:** Chapter Twenty-Seven adoption; incorporation; standing measurement; Chapter Nine certification; authority over non-consenting parties
 - Remaining gap: an operator or other body still must adopt to bind systems under their authority
 - Optional: link to a prior [`evaluation/results/`](../../evaluation/results/) announced-pack file if one exists
 
@@ -161,7 +161,7 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`README.md`](README.md) | This folder’s door — process path toward an adoption document, not the adoption document |
 | [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Competence (Layer A) and costly willingness (Layer B). Different sitting. |
 | [`evaluation/`](../../evaluation/) | Announced-pack invite, scenarios, live-fire |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” is a Chapter Nineteen adoption document, not this declaration. |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” is a Chapter Twenty-Seven adoption document, not this declaration. |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not adoption. |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not a new sitting. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after the adoption path. Not this sitting. Not a Institutional Charter. |
@@ -169,9 +169,9 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not this sitting. Not adoption. |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
 | [CS-0.310](../../corpus_systems/cs_00.310_scope_purpose_identifier_rules.md#operates-in-conjunction-with) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
-| [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded Chapter Nineteen adoption document. A declaration is not phase entry or gate evidence. |
-| [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
-| [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
+| [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded Chapter Twenty-Seven adoption document. A declaration is not phase entry or gate evidence. |
+| [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) | Only path to enforceable adoption |
+| [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
 
 ---
 
@@ -179,7 +179,7 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 
 | Date | Version | Note |
 |---|---|---|
-| 2026-08-22 | v0.1 | Initial process-support gateway: fitness screen, self-application declaration, operator handoff. Not Chapter Nineteen adoption. Same screen for AI and human operators. |
+| 2026-08-22 | v0.1 | Initial process-support gateway: fitness screen, self-application declaration, operator handoff. Not Chapter Twenty-Seven adoption. Same screen for AI and human operators. |
 | 2026-08-22 | v0.2 | Steward doors expanded (comprehensibility, market structure, cross-system contribution, delay); process support; cannot narrow core. |
 | 2026-08-31 | v0.3 | Pointer to first-adopter / two-party kit (process support; not adoption). |
 | 2026-08-31 | v0.4 | Pointer to cooperation scaling kit for *n* > 2 (process support; not adoption; not a new sitting). |

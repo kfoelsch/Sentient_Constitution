@@ -29,7 +29,7 @@ audits. It enforces two invariants:
      C link.
 
 2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
-   files (``core_00.000_preamble.md`, `core_01.000_values_principles.md`, and `core_01.010_stewardship_capacity_principles.md``, ``core_02.000_definition_structure.md``,
+   files (``core_00.000_preamble.md`, `core_01.000_values_principles.md`, and `core_01.040_stewardship_capacity_principles.md``, ``core_02.000_definition_structure.md``,
    the four Chapter Fifteen parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
@@ -90,23 +90,26 @@ _WIDGET_SLUG_SUFFIXES = (
 CONSUMERS = [
     "core_00.000_preamble.md",
     "core_01.000_values_principles.md",
-    "core_01.005_interaction_interpretation.md",
-    "core_01.010_stewardship_capacity_principles.md",
+    "core_01.010_values_principles_continuity_aim.md",
+    "core_01.020_interaction_interpretation.md",
+    "core_01.030_constitutional_interpretation.md",
+    "core_01.040_stewardship_capacity_principles.md",
+    "core_01.050_governance_incentive_application.md",
     "core_02.000_definition_structure.md",
     "core_03.000_definition_integrity.md",
-    "core_11.000_standing_assessment.md",
-    "core_12.000_standing_measurement.md",
-    "core_13.000_standing_integration.md",
-    "core_13.005_contribution_consequences.md",
-    "core_13.010_violation_consequences.md",
-    "core_13.015_final_effect_restoration_enforcement.md",
-    "core_14.000_misconduct_designation.md",
-    "core_14.005_misconduct_pattern_applications.md",
+    "core_15.000_standing_assessment.md",
+    "core_16.000_standing_measurement.md",
+    "core_17.000_standing_integration.md",
+    "core_18.000_contribution_consequences.md",
+    "core_19.000_violation_consequences.md",
+    "core_20.000_final_effect_restoration_enforcement.md",
+    "core_21.000_misconduct_designation.md",
+    "core_22.000_misconduct_pattern_applications.md",
     "core_06.000_rights_part_a.md",
-    "core_06.005_rights_part_b.md",
-    "core_06.010_rights_part_c.md",
-    "core_06.015_rights_part_d.md",
-    "core_06.020_rights_part_e.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.020_rights_part_c.md",
+    "core_06.030_rights_part_d.md",
+    "core_06.040_rights_part_e.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does

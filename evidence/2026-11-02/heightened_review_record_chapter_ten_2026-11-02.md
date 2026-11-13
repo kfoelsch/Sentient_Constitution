@@ -12,9 +12,9 @@ Changes made on 2026-11-02 after the cross comparison of Chapter Nine and Chapte
 
 | File | Change |
 | --- | --- |
-| [core_10.000_institutional_alignment_certification.md](../../core_10.000_institutional_alignment_certification.md) | All rule changes and wording changes below; about 320 lines changed |
+| [core_10.000_institutional_alignment_certification.md](../../core_12.000_institutional_alignment_certification_evaluation.md) | All rule changes and wording changes below; about 320 lines changed |
 | [core_09.000_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md) | Placement note, reader-guide link text, three Trace labels, a pointer to CS-9.320 §12 |
-| [core_09.010_system_alignment_certification_record_recertification.md](../../core_09.010_system_alignment_certification_record_recertification.md) | §9.2 bullet now points to Chapter Ten §9.6; §10.2 and §11.3 pointers |
+| [core_09.010_system_alignment_certification_record_recertification.md](../../core_11.000_system_alignment_certification_records_recertification.md) | §9.2 bullet now points to Chapter Ten §9.6; §10.2 and §11.3 pointers |
 | [cs_09.315 run sheet](../../corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md) | Step 12: "eight institutional items" and the reopening sentence |
 | [cs_09.320 illustrations](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | New §12, three worked Institution walkthroughs (non-operative) |
 

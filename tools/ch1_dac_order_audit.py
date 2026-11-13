@@ -77,8 +77,11 @@ def main() -> int:
     failures: list[str] = []
     ch1_files = (
         root / "core_01.000_values_principles.md",
-        root / "core_01.005_interaction_interpretation.md",
-        root / "core_01.010_stewardship_capacity_principles.md",
+        root / "core_01.010_values_principles_continuity_aim.md",
+        root / "core_01.020_interaction_interpretation.md",
+        root / "core_01.030_constitutional_interpretation.md",
+        root / "core_01.040_stewardship_capacity_principles.md",
+        root / "core_01.050_governance_incentive_application.md",
     )
     lines: list[str] = []
     for path in ch1_files:

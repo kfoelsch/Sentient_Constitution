@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,19 +25,19 @@ A cutoff, lockout, or decision hit you. The office says file a form, wait, or re
 - **Today:** The only door is a specialist portal, a hop count, or “come back when you have a lawyer.”
 - **With this Constitution:** Challenge, review, and being made whole have to work in practice. A file that never finishes is still a refusal.
 
-See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
+See: [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
 
 **A good-faith report is not a punishable act.**
 - **Today:** Speaking up costs the lease, the shift, or the next appointment.
 - **With this Constitution:** Good-faith reports must not be punished. The boxed next-step for those running the system is on the same article.
 
-See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline).
+See: [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline).
 
 **A form on paper is not being made whole.**
 - **Today:** There is an inbox and a policy page. Nobody can actually restore the water, the pay, or the record.
 - **With this Constitution:** The path has to have real capacity to deliver, not only a form.
 
-See: [Chapter Thirteen §6.1](../../../core_13.010_violation_consequences.md#61-remedy-and-correction); [Remedy](../../STEWARD_ENTRY_DOORS.md#remedy).
+See: [Chapter Nineteen §2.1](../../../core_19.000_violation_consequences.md#21-remedy-and-correction); [Remedy](../../STEWARD_ENTRY_DOORS.md#remedy).
 
 ## What to open next
 
@@ -50,9 +50,9 @@ See: [Chapter Thirteen §6.1](../../../core_13.010_violation_consequences.md#61-
 
 ## What this will not pretend to give you
 
-- Enforcement against a hospital, platform, lab, or host that has not agreed to follow this Constitution ([Chapter Twenty §4](../../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a hospital, platform, lab, or host that has not agreed to follow this Constitution ([Chapter Twenty-Eight §4](../../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - An instant win, or a promise that every challenge is correct.
-- A substitute for ordinary local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- A substitute for ordinary local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 ## If you want to look further
 

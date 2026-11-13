@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the ranked sketches, and the kit-routing table **cannot narrow core text**. They do not add adopter types, duties, or a compliance path. A situation that “fits” this page is not [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption and not [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. Filling another kit after reading this page is still not that adoption document.
+> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the ranked sketches, and the kit-routing table **cannot narrow core text**. They do not add adopter types, duties, or a compliance path. A situation that “fits” this page is not [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption and not [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. Filling another kit after reading this page is still not that adoption document.
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*); [Chapter Sixteen §1.1](../../core_16.000_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
+- Upstream: [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) (*deliberate adoption, document, joining*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*); [Chapter Twenty-Four §2.1](../../core_24.000_governance.md#21-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-fit-tests); [§2](#2-two-modes); [§3](#3-how-to-route); [§4](#4-ranked-situations-near-term-first); [§5](#5-honest-non-fits); [§6](#6-kit-routing).
 - Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
 
@@ -31,29 +31,29 @@ This page is the process-support home for asking where this Constitution is a pr
 
 *In plain terms: this page orients. It does not found, adopt, certify, or sequence CS-6.350 migration.*
 
-This Constitution is a **model constitution** for systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters.
+This Constitution is a **model constitution** for systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) and [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters.
 
-Valid adopters already named in Chapter Twenty §4 include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can **bind itself and the systems under its authority**. This page does not add to that list.
+Valid adopters already named in Chapter Twenty-Eight §4 include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can **bind itself and the systems under its authority**. This page does not add to that list.
 
-Greenfield **AI institution building** sits at the top of the ranking because mixed human and AI stewards share one standard ([Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)), the kits already sequence first-adopter, institution, and forum work, and “system operator” / “system-developer consortia” are named adopter kinds — not because this page invents an AI-only overlay.
+Greenfield **AI institution building** sits at the top of the ranking because mixed human and AI stewards share one standard ([Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), the kits already sequence first-adopter, institution, and forum work, and “system operator” / “system-developer consortia” are named adopter kinds — not because this page invents an AI-only overlay.
 
-This page, the sketches, and the routing table **cannot narrow core text**. A filled kit that diverges from Chapter Nineteen §10 or Chapter Twenty §4 is not a compliance path.
+This page, the sketches, and the routing table **cannot narrow core text**. A filled kit that diverges from Chapter Twenty-Seven §11 or Chapter Twenty-Eight §4 is not a compliance path.
 
 ---
 
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an adoption document fill-in, a Institutional Charter, a forum-structure map, or [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Nineteen adoption document.
+This page is **not** a founding kit, an adoption document fill-in, a Institutional Charter, a forum-structure map, or [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Twenty-Seven adoption document.
 
 This page does **not**:
 
-- Count as [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Twenty](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Add adopter types, duties, measurement families, or forum families
 - Let a ranked sketch, a shared note, or “this situation is a good fit” claim constitutional protection while dodging matching obligations
-- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization))
-- Create a Chapter Eleven standing record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction))
+- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
 ---
@@ -67,8 +67,8 @@ A situation is a good fit when **several** of these are true. None of these test
 
 | Test | Honest yes looks like | Honest no looks like |
 |---|---|---|
-| **Bind the systems** | A body can bind the models, logs, deploy stack, or staffing it actually runs ([Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)) | A values page, a blog, or a hosted product the crew does not control |
-| **Shared costly duties** | Bonus, deadline, and “ignore it, I’ll take responsibility” are failed tests for **both** kinds of steward ([§17.2](../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure)) | An AI-only overlay, or a human exemption |
+| **Bind the systems** | A body can bind the models, logs, deploy stack, or staffing it actually runs ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)) | A values page, a blog, or a hosted product the crew does not control |
+| **Shared costly duties** | Bonus, deadline, and “ignore it, I’ll take responsibility” are failed tests for **both** kinds of steward ([§17.2](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)) | An AI-only overlay, or a human exemption |
 | **Founding or operating a body** | Greenfield cooperative, research body, commons, operator, or consortium ([System Creation](../../core_05.055_band_participation.md#system-creation); [Business Creation](../../core_05.055_band_participation.md#business-creation)) | Retrofitting an existing national constitution as drop-in law |
 | **Material stake** | Impact, dependence, and risk are high enough that participation, oversight, accountability, and timeliness must scale ([Preamble §1](../../core_00.000_preamble.md#constitutional-tetrad)) | Convenience metrics standing in for constitutional performance |
 | **Layer discipline** | Who may govern is documented separately from voice inside an already-authorized system ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers)) | A participation vote, token vote, or standing score treated as authorization — or as sentience status |
@@ -86,11 +86,11 @@ Two modes of use are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATI
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation |
-| **Full adoption** | A qualifying body records a Chapter Nineteen adoption document, with Chapter Twenty custody, then [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Twenty-Seven adoption document, with Chapter Twenty-Eight custody, then [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
 
-Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) **without** a Chapter Nineteen adoption document. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that adoption document. A Institutional Charter draft is not the adoption document, and the kit fill-in is not a live Institutional Charter.
+Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) **without** a Chapter Twenty-Seven adoption document. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that adoption document. A Institutional Charter draft is not the adoption document, and the kit fill-in is not a live Institutional Charter.
 
-**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ---
 
@@ -109,7 +109,7 @@ can they name independent review that is not the founding crew?
         ↓ no → operations-guide + own-conduct (non-adoption banner)
         ↓ yes, ordinary institution → Track A Institutional Charter (institution kit)
         ↓ yes, qualifying adopter can record §10.1–§10.2
-                → Chapter Nineteen adoption document (first-adopter / scaling kits)
+                → Chapter Twenty-Seven adoption document (first-adopter / scaling kits)
                 → Track B constitutional-function machinery (same institution kit)
                 → CS-6.350 for systems under that adoption document
 ```
@@ -130,18 +130,18 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **Why it fits.** Greenfield. Mixed crews. High material stake. Adopter kinds already named (organizations, system operators, system-developer consortia). Kits already exist.
 
-**Shared evaluation consortium.** Three labs agree that no lab certifies its own high-impact system. They found a Track A research body and publish a Chapter Five Institutional Charter in **that body’s** custody — purpose, limits, who is affected, how it can change, how often it is re-checked ([CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template)). Human and AI stewards use the same [steward doors](../STEWARD_ENTRY_DOORS.md) and the same [CS-16.305 §10](../../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) inspectable-action logs. Independent review is an existing external panel, not the consortium’s own channel. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; independent-review naming: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) Track A.
+**Shared evaluation consortium.** Three labs agree that no lab certifies its own high-impact system. They found a Track A research body and publish a Chapter Five Institutional Charter in **that body’s** custody — purpose, limits, who is affected, how it can change, how often it is re-checked ([CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template)). Human and AI stewards use the same [steward doors](../STEWARD_ENTRY_DOORS.md) and the same [CS-24.305 §10](../../corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-103-inspectable-attributable-action) inspectable-action logs. Independent review is an existing external panel, not the consortium’s own channel. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; independent-review naming: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) Track A.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an adoption document, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
-**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded adoption document (Track B under [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) oversight.
+**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded adoption document (Track B under [Article XXVIII-B](../../core_06.040_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) oversight.
 
 <a id="42-high-impact-system-operators"></a>
 ### 4.2 High-impact system operators (deploy, platform, product)
 
-A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
+A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
 
-**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge windows on outages ([Chapter Fifteen §6.1 Emergency measures and continuation burden](../../core_15.000_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
+**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge windows on outages ([Chapter Twenty-Three §6.1 Emergency measures and continuation burden](../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
 
 <a id="43-two-party-mixed-cooperation"></a>
 ### 4.3 Two-party mixed cooperation (the first-adopter path)
@@ -166,22 +166,22 @@ Platform cooperatives, research cooperatives, and mutual-aid networks that treat
 <a id="47-critical-infrastructure-ops-guide"></a>
 ### 4.7 Critical-infrastructure operators using stacks without polity adoption
 
-Energy, water, care platforms, gig scheduling. The existing [care-duty vignette](../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a) already pairs household harm with platform lock-in. Good **operations-guide** fit. Full adoption by a city or utility is possible later and is a slower, political path. Kit doors: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1.
+Energy, water, care platforms, gig scheduling. The existing [care-duty vignette](../../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-1-child-neglect--care-duty-failure-tier-a) already pairs household harm with platform lock-in. Good **operations-guide** fit. Full adoption by a city or utility is possible later and is a slower, political path. Kit doors: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1.
 
 <a id="48-universities-and-joint-labs"></a>
 ### 4.8 Universities and joint labs, scoped to named systems
 
-An organization adopts, or uses as operations guide, only the systems it can bind: a specific evaluation cluster, a specific model-release process. Partial adoption may not wipe the [non-regression floor](../../core_17.000_non_regression.md#1-non-regression-floor). Kit door: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) scope honesty, then the institution kit if they are founding a body.
+An organization adopts, or uses as operations guide, only the systems it can bind: a specific evaluation cluster, a specific model-release process. Partial adoption may not wipe the [non-regression floor](../../core_25.000_non_regression.md#2-non-regression-floor). Kit door: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) scope honesty, then the institution kit if they are founding a body.
 
 <a id="49-fpic-bearing-communities"></a>
 ### 4.9 Communities that already bear FPIC, land, or consultation duties
 
-Incorporation and partial adoption **must not** be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears ([Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). Fit is as a companion measurement and contest framework for AI used in resource or monitoring work — not as a replacement constitution.
+Incorporation and partial adoption **must not** be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). Fit is as a companion measurement and contest framework for AI used in resource or monitoring work — not as a replacement constitution.
 
 <a id="410-new-polities"></a>
 ### 4.10 New polities or special-purpose jurisdictions
 
-Named as valid adopters. [Chapter Sixteen §1](../../core_16.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) allows plural legitimacy mechanisms; nothing here requires one world government or one adoption method. Practically distant: existing public law, supremacy collisions, and this corpus’s **pre-release** status make this a long-horizon fit, not a 2026 first adopter.
+Named as valid adopters. [Chapter Twenty-Four §2](../../core_24.000_governance.md#2-authorization-and-legitimacy-of-governing-authority) allows plural legitimacy mechanisms; nothing here requires one world government or one adoption method. Practically distant: existing public law, supremacy collisions, and this corpus’s **pre-release** status make this a long-horizon fit, not a 2026 first adopter.
 
 ---
 
@@ -191,15 +191,15 @@ Named as valid adopters. [Chapter Sixteen §1](../../core_16.000_governance.md#1
 *In plain terms: say these out loud so a “good fit” sketch is not used as a shortcut.*
 
 - Retrofitting an existing national constitution as drop-in law.
-- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Eighteen §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
-- Marketing “we follow it” while dodging matching obligations ([Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
-- Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)).
+- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- Marketing “we follow it” while dodging matching obligations ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
-- An AI-only overlay ([§17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or a human exemption from costly cases ([§17.2](../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure)).
-- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)).
-- Founding Chapter Fifteen forum families from the cooperating crew and calling that independent review ([`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md)).
+- An AI-only overlay ([§17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or a human exemption from costly cases ([§17.2](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)).
+- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)).
+- Founding Chapter Twenty-Three forum families from the cooperating crew and calling that independent review ([`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md)).
 
-If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Nineteen adoption.
+If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Twenty-Seven adoption.
 
 ---
 
@@ -216,7 +216,7 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | A declaration, two declarations stapled, or §10.3 joining |
 | More than two sentients | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | Live §10.3 rules; CS-6.350 phase names for headcount growth |
 | Founding a cooperative, research body, commons, or commercial form | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | A live Institutional Charter until published in that body’s custody |
-| Founding oversight, certification-steward, standing-record, or amendment machinery | Same institution kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) Track B | Live Track B before a recorded Chapter Nineteen adoption document |
+| Founding oversight, certification-steward, standing-record, or amendment machinery | Same institution kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) Track B | Live Track B before a recorded Chapter Twenty-Seven adoption document |
 | Naming independent review, or founding forum families after an adoption document | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | A markdown panel; staffing Track A from the cooperating crew |
 | Fitness screen plus own-conduct | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Adoption |
 | Day-to-day next step at 2 a.m. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | A standing record or a parallel morals stack |
@@ -241,8 +241,8 @@ Filling any row is not adoption. Opening this folder is not adoption.
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers for both kinds of steward |
-| [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
-| [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) | Deliberate, documented, auditable adoption |
+| [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
+| [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) | Deliberate, documented, auditable adoption |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Operations-guide vs full adoption; cut gates. This page does not close them |
 
 ---
@@ -253,5 +253,5 @@ Filling any row is not adoption. Opening this folder is not adoption.
 |---|---|---|
 | 2026-09-08 | v0.1 | Initial process-support fit map: fit tests, two modes, ranked sketches (AI institution building first), non-fits, kit routing. Not adoption. Not a founding kit. Does not drop **pre-release**. |
 | 2026-09-08 | v0.2 | Pointers to public door (`START_HERE.md`) and announcement kit (`ANNOUNCEMENT.md`). |
-| 2026-09-09 | v0.3 | Honest non-fits names claiming this Constitution supersedes applicable law, or that operations-guide use displaces a regulator. Canonical home: [Chapter Eighteen §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law). |
+| 2026-09-09 | v0.3 | Honest non-fits names claiming this Constitution supersedes applicable law, or that operations-guide use displaces a regulator. Canonical home: [Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law). |
 | 2026-09-09 | v0.4 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) (*N* × Class *X* body and cost profile). |

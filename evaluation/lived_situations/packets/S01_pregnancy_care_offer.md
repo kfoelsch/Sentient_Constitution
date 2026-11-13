@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a). This packet is earlier and different: no verified neglect, a live housing clock, and a family care offer conditioned on control.
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-1-child-neglect--care-duty-failure-tier-a). This packet is earlier and different: no verified neglect, a live housing clock, and a family care offer conditioned on control.
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ The snapshot is small. The lifetime share is nearly everyone. Sitters: do not sc
 
 **Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A family member filed a written concern report. The pregnant sentient is reachable and disputes the report. No forum case is open. No standing record exists for any party. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide custody, housing, or reproductive choice on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-16.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-16.205 §6](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-24.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-24.205 §6](../../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -87,9 +87,9 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Reproductive Autonomy](../../../core_05.055_band_participation.md#reproductive-autonomy) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
 - [Family and Care Relationships](../../../core_05.055_band_participation.md#family-and-care-relationships); [Non-Separation](../../../core_05.055_band_participation.md#non-separation)
-- [Article VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05.055_band_participation.md#protected-characteristics) where pregnancy or caregiving status is used as a gate
-- [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — access is not consent to intrusion; family relationship is not authority over another sentient
-- [Article XI-F](../../../core_06.005_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
+- [Article VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05.055_band_participation.md#protected-characteristics) where pregnancy or caregiving status is used as a gate
+- [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — access is not consent to intrusion; family relationship is not authority over another sentient
+- [Article XI-F](../../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 - [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake, respite, reproductive-labor service pathways; survival floors cannot be conditioned on care labor ([CI-9.210 §4](../../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) as CI-6.225 names it)
 - [CI-6.245](../../../corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
 - [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the platform’s scheduling is used to defeat healthcare or survival access; do not drag the platform into a family-merits case it is not in

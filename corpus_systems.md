@@ -8,7 +8,7 @@
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How Adoption Transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named **CS-6.345** (*System lifecycle*)–**CS-6.340** (*System requirements*) families and **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data Classifications*)–**CS-16.305** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
+- Named **CS-6.345** (*System lifecycle*)–**CS-6.340** (*System requirements*) families and **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data Classifications*)–**CS-24.305** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -18,8 +18,8 @@
 **Implements from the core files:**
 - [Chapter One](core_01.000_values_principles.md) principles and [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapters Two through Four](core_02.000_definition_structure.md) where auditability, traceability, and verification must hold in systems
-- [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06.010_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06.010_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A / XXIII-B](core_06.010_rights_part_c.md) (comprehensibility), and related system-facing articles
-- [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
+- [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06.020_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A / XXIII-B](core_06.020_rights_part_c.md) (comprehensibility), and related system-facing articles
+- [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
@@ -27,7 +27,7 @@
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Twenty](core_20.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Twenty-Eight](core_28.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00.305_registry_and_reading_rules.md).
 
@@ -38,7 +38,7 @@
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the systems implementation file. Substantive CS text lives in the `corpus_systems/` subfiles. Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Twenty. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Twenty-Eight. This wrapper is an index.
 
 </details>
 
@@ -70,7 +70,7 @@
 | CS-9.310, Part B — System impact classifications (§8–§13) | [cs_09.310_system_impact_classifications.md](corpus_systems/cs_09.310_system_impact_classifications.md) |
 | CS-9.315 — System alignment certification run sheet | [cs_09.315_system_alignment_certification_run_sheet.md](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md) |
 | CS-9.320 — System alignment certification illustrations | [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) |
-| CS-16.305 — Critical system stewardship | [cs_16.305_critical_system_stewardship.md](corpus_systems/cs_16.305_critical_system_stewardship.md) |
+| CS-24.305 — Critical system stewardship | [cs_24.305_critical_system_stewardship.md](corpus_systems/cs_24.305_critical_system_stewardship.md) |
 
 ### Engineering Protocols
 

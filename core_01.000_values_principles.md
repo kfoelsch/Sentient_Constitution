@@ -1,11 +1,11 @@
-# CHAPTER 01, PART A: VALUES PRINCIPLES
+# CHAPTER 01, PART A: PURPOSE AND THE FLOURISHING AIM
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter One, Part A** (§§1–12: purpose and role; the Flourishing aim, introduced in §2 and developed through wellbeing, Safety, Truth, Trust, and Freedom; and the Continuity aim, introduced in §8 and developed through shared-system capacity, resilience, market structure, and systemic evaluation).
 >
 > **Upstream:** [core_00.000_preamble.md](core_00.000_preamble.md)
-> **Next:** [core_01.005_interaction_interpretation.md](core_01.005_interaction_interpretation.md) (Chapter One, Part B — §§13–15, interaction, override limits, and constitutional interpretation).
+> **Next:** [core_01.020_interaction_interpretation.md](core_01.020_interaction_interpretation.md) (Chapter One, Part B — §§13–15, interaction, override limits, and constitutional interpretation).
 > **Reading arc:** §1 purpose and role → **Flourishing:** §2 introduction (with §2.1 the non-negotiable Safety and Truth constraints) → §3 wellbeing (the outcome) → §4 Safety → §5 Truth → §6 Trust → §7 Freedom → **Continuity:** §8 introduction → §9 shared-system capacity (the bridge: a means toward Flourishing and the substance of Continuity) → §10 resilience → §11 market structure → §12 systemic evaluation.
 
 </details>
@@ -26,33 +26,33 @@
 
 | Aim and part | Chapter One principle | Definition home | Articles named in its Trace |
 |---|---|---|---|
-| **Flourishing**: the outcome | [§3 Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) | [Wellbeing](core_05.040_band_continuity.md#wellbeing) | [VI](core_06.005_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation), [XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [XIX-B](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
-| **Flourishing**: safety | [§4 Safety](#4-safety-harm-constraint) | [Safety](core_05.040_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIV](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
-| **Flourishing**: truth | [§5 Truth](#5-truth-epistemic-integrity-constraint) | [Truth](core_05.050_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **Flourishing**: trustworthiness | [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity) | [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) | [XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **Flourishing**: meaningful agency | [§7 Freedom](#7-freedom-bounded-agency) | [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) | [VI](core_06.005_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXI](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
-| **Continuity**, bridging to Flourishing: durable capacity | [§9 Shared-System Capacity](#9-shared-system-capacity) | [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) | [I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [III](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
-| **Continuity**: resilience | [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design) | [Self-Healing](core_05.040_band_continuity.md#self-healing) | [XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIV](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
-| **Continuity**: contestable markets | [§11 Market Structure](#11-market-structure) | [Market Structure](core_05.035_band_accountability.md#market-structure) | [III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXI](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
-| **Continuity**: whole-system view | [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) | [XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Flourishing**: the outcome | [§3 Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) | [Wellbeing](core_05.040_band_continuity.md#wellbeing) | [VI](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation), [XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [XIX-B](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
+| **Flourishing**: safety | [§4 Safety](#4-safety-harm-constraint) | [Safety](core_05.040_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
+| **Flourishing**: truth | [§5 Truth](#5-truth-epistemic-integrity-constraint) | [Truth](core_05.050_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Flourishing**: trustworthiness | [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity) | [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Flourishing**: meaningful agency | [§7 Freedom](#7-freedom-bounded-agency) | [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) | [VI](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
+| **Continuity**, bridging to Flourishing: durable capacity | [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity) | [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) | [I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [III](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
+| **Continuity**: resilience | [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) | [Self-Healing](core_05.040_band_continuity.md#self-healing) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
+| **Continuity**: contestable markets | [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure) | [Market Structure](core_05.035_band_accountability.md#market-structure) | [III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
+| **Continuity**: whole-system view | [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) | [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) | [XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
 
 **Principle hierarchy (Continuity).** At principle layer, the Continuity aim is developed in this order, opening with the capacity that bridges the two aims:
 
-6. **[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity)** is what good stewardship, governance, and incentives should add up to over time — real, challengeable ability for sentients and shared systems to get constitutionally required work done. It straddles the two aims: it is a means toward **Flourishing** and the substance of **Continuity**, and it is not a trump card over everything else. **[§9.1](#91-productive-capacity-instrumental-good)** and **[§9.2](#92-constitutional-efficiency)** explain its two main aspects.
-7. **[Resilience and Self-Healing Design](#10-resilience-and-self-healing-design)** states how systems that sentients depend on detect trouble early, contain it, fail along disclosed paths, and recover honestly (**[Self-Healing](core_05.040_band_continuity.md#self-healing)**), so the capacity from item 6 stays durable and stability does not depend on emergency intervention.
-8. **[Market Structure](core_05.035_band_accountability.md#market-structure)** at [§11](#11-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
-9. **[Systemic Evaluation Requirement](#12-systemic-evaluation-requirement)** verifies whole-system scope, dependency, and incentive alignment before compliance or governance claims stand — under the **oversight** Tetrad leg as principle-layer orientation for auditing, including [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) as one especially large audit process among others.
+6. **[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity)** is what good stewardship, governance, and incentives should add up to over time — real, challengeable ability for sentients and shared systems to get constitutionally required work done. It straddles the two aims: it is a means toward **Flourishing** and the substance of **Continuity**, and it is not a trump card over everything else. **[§9.1](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good)** and **[§9.2](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency)** explain its two main aspects.
+7. **[Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design)** states how systems that sentients depend on detect trouble early, contain it, fail along disclosed paths, and recover honestly (**[Self-Healing](core_05.040_band_continuity.md#self-healing)**), so the capacity from item 6 stays durable and stability does not depend on emergency intervention.
+8. **[Market Structure](core_05.035_band_accountability.md#market-structure)** at [§11](core_01.010_values_principles_continuity_aim.md#11-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
+9. **[Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement)** verifies whole-system scope, dependency, and incentive alignment before compliance or governance claims stand — under the **oversight** Tetrad leg as principle-layer orientation for auditing, including [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) as one especially large audit process among others.
 
 **Where Chapter One carries the Tetrad.** Every section names the legs it engages in its Trace. These sections carry them most directly:
 
 | Tetrad leg | Principal Chapter One homes |
 |---|---|
-| **Participation** | [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (consequential roles and voice); [§7 Freedom](#7-freedom-bounded-agency) (meaningful agency) |
-| **Oversight** | [§16](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (distributed understanding, records), with [§16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (records made by the act, so inspection has something to inspect); [§18 Governance](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (how authority is allocated); [§12](#12-systemic-evaluation-requirement) (auditing) |
-| **Accountability** | [§16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (the act makes its own Act Record, so answerability can be traced); [§18 Governance](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (authority-scaled answerability); [§19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (rewards must not hollow the legs) |
-| **Timeliness** | [§16](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (catching and fixing trouble without avoidable delay) |
+| **Participation** | [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (consequential roles and voice); [§7 Freedom](#7-freedom-bounded-agency) (meaningful agency) |
+| **Oversight** | [§16](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (distributed understanding, records), with [§16.4 Document at Action](core_01.040_stewardship_capacity_principles.md#164-document-at-action) (records made by the act, so inspection has something to inspect); [§18 Governance](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (how authority is allocated); [§12](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (auditing) |
+| **Accountability** | [§16.4 Document at Action](core_01.040_stewardship_capacity_principles.md#164-document-at-action) (the act makes its own Act Record, so answerability can be traced); [§18 Governance](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (authority-scaled answerability); [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (rewards must not hollow the legs) |
+| **Timeliness** | [§16](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (catching and fixing trouble without avoidable delay) |
 
-**Two axes, not a conflict.** The aims say what systems pursue; the Tetrad says how that pursuit stays legitimate. A term can sit on both: Truth and Trustworthiness are constituents of Flourishing, and [Preamble §2](core_00.000_preamble.md#2-measurements-overview) measures them under the Oversight family. [§§13–15](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) govern how these principles are weighed when they collide and read as one whole, and [§20](core_01.010_stewardship_capacity_principles.md#20-integrated-application) applies them to every later chapter.
+**Two axes, not a conflict.** The aims say what systems pursue; the Tetrad says how that pursuit stays legitimate. A term can sit on both: Truth and Trustworthiness are constituents of Flourishing, and [Preamble §2](core_00.000_preamble.md#2-measurements-overview) measures them under the Oversight family. [§§13–15](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) govern how these principles are weighed when they collide and read as one whole, and [§20](core_01.050_governance_incentive_application.md#20-integrated-application) applies them to every later chapter.
 
 </details>
 
@@ -69,29 +69,29 @@ Chapter One, Part A, is the constitutional owner of **the Flourishing and Contin
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad),
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and
   - [material stake](core_00.000_preamble.md#material-stake) scaling apply chapter-wide through section traces.
-- Downstream: [15. Constitutional Interpretation](core_01.005_interaction_interpretation.md#15-constitutional-interpretation) for integrated reading, ambiguity, internal hierarchy, and canonical conflict-resolution procedure.
+- Downstream: [15. Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation) for integrated reading, ambiguity, internal hierarchy, and canonical conflict-resolution procedure.
 - Downstream:
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim development:
   - [§3](#3-foundational-objective-wellbeing-flourishing-aim) through
   - [§6](#6-trust-and-trustworthiness-coordination-integrity) and
   - [§7 Freedom](#7-freedom-bounded-agency); **Continuity** aim development:
-  - [§9 Shared-System Capacity](#9-shared-system-capacity),
-  - [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design),
-  - [§11 Market Structure](#11-market-structure), and
-  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement).
+  - [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity),
+  - [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design),
+  - [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and
+  - [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
 - Downstream:
   - [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim),
   - [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration),
   - [4 Safety](#4-safety-harm-constraint),
   - [5 Truth](#5-truth-epistemic-integrity-constraint),
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
+  - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [§7 Freedom](#7-freedom-bounded-agency).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness govern how shared systems pursue the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [material stake](core_00.000_preamble.md#material-stake) scaling applies chapter-wide through section traces.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) and [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) — the governing mechanics layer for every term used in this chapter; apply O/M/A/C integrity, anti-evasion, burden, and traceability of definitions to results.
 - Read with: [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000).
-  - Especially [Article VI: Equal Basic Rights](core_06.005_rights_part_b.md#article-vi-equal-basic-rights), [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), and [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - Especially [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), and [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Apply this reading where interpretation affects protected sentients, systems, or institutions.
 
 </details>
@@ -129,9 +129,9 @@ Those aims must be pursued together, always within the non-negotiable principle 
 
 The chapter is organized around those two aims and that Tetrad:
 - **Flourishing:** [Flourishing Aim: Introduction](#2-flourishing-aim-introduction) maps the aim. [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) states the outcome. [§4 Safety](#4-safety-harm-constraint), [§5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity), and [§7 Freedom](#7-freedom-bounded-agency) develop the four conditions that sustain it: safety, truth, trustworthiness, and meaningful agency.
-- **Continuity:** [Continuity Aim: Introduction](#8-continuity-aim-introduction) maps the aim. [§9 Shared-System Capacity](#9-shared-system-capacity) (a means toward Flourishing that is also the substance of Continuity), [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design), [§11 Market Structure](#11-market-structure), and [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) develop long-horizon stability, durable shared-system capacity, and resilience. Continuity claims rest on an honest, whole-system picture: every claim in §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure stands only after the evaluation in §12 Systemic Evaluation Requirement.
-- **When principles meet:** [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§15 Constitutional Interpretation](core_01.005_interaction_interpretation.md#15-constitutional-interpretation) govern how the aims and principles are weighed and read together.
-- **The Tetrad in practice:** [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) through [§19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) carry participation, oversight, accountability, and timeliness into stewardship, governance, and incentives, and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application) applies the whole chapter to every later chapter.
+- **Continuity:** [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction) maps the aim. [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity) (a means toward Flourishing that is also the substance of Continuity), [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) develop long-horizon stability, durable shared-system capacity, and resilience. Continuity claims rest on an honest, whole-system picture: every claim in §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure stands only after the evaluation in §12 Systemic Evaluation Requirement.
+- **When principles meet:** [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§15 Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation) govern how the aims and principles are weighed and read together.
+- **The Tetrad in practice:** [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) through [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) carry participation, oversight, accountability, and timeliness into stewardship, governance, and incentives, and [§20 Integrated Application](core_01.050_governance_incentive_application.md#20-integrated-application) applies the whole chapter to every later chapter.
 
 Each principle's **Trace** lists the Chapter Six Articles that protect it, and its **Definitions · Assessment · Compliance** widget lists the Chapter Five definitions that measure it.
 
@@ -188,7 +188,7 @@ No single principle may be applied in isolation where doing so would materially 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs apply to how Flourishing is pursued; [material stake](core_00.000_preamble.md#material-stake) scales the depth of every Flourishing claim.
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — the **Flourishing** aim; its partner aim is introduced in [Continuity Aim: Introduction](#8-continuity-aim-introduction).
+- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — the **Flourishing** aim; its partner aim is introduced in [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction).
 - Upstream: Principles: [Preamble §1 The Model](core_00.000_preamble.md#flourishing); [Flourishing (Constitutional Aim)](core_05.015_apex_flourishing_aim.md#flourishing-constitutional); [§1 Purpose and Role](#1-purpose-and-role).
 - Downstream:
   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](#3-foundational-objective-wellbeing-flourishing-aim),
@@ -237,8 +237,8 @@ No single principle may be applied in isolation where doing so would materially 
 **How the Flourishing principles work together:**
 - **Safety and Truth are non-negotiable constraints:** They are stated together in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth) and are not traded away to gain the other principles.
 - **Trust and Freedom are bounded, not absolute:** Trust is earned and correctable ([§6.1 Correction and Remedy](#61-correction-and-remedy)); Freedom has disciplined limits ([§7.1 Limitation Discipline](#71-limitation-discipline)).
-- **None is applied in isolation:** The principles are read together, and where they collide they are weighed under [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-- **Flourishing has a partner:** The Continuity aim asks what keeps this outcome durable; it is introduced in [Continuity Aim: Introduction](#8-continuity-aim-introduction).
+- **None is applied in isolation:** The principles are read together, and where they collide they are weighed under [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- **Flourishing has a partner:** The Continuity aim asks what keeps this outcome durable; it is introduced in [Continuity Aim: Introduction](core_01.010_values_principles_continuity_aim.md#8-continuity-aim-introduction).
 
 **Diagram: Flourishing and its principles**
 
@@ -280,7 +280,7 @@ flowchart TB
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (understanding and contesting safety and truth determinations); **oversight** leg (detecting harm risk and epistemic degradation); **accountability** leg (answerability for harm, deception, and misleading reliance); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (**Safety** and **Truth** are named constituents under [Preamble §1](core_00.000_preamble.md#two-constitutional-aims)); **Continuity** aim (long-horizon harm prevention and honest stewardship of durable systems).
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
-- Downstream: [6. Trust](#6-trust-and-trustworthiness-coordination-integrity), [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§7 Freedom](#7-freedom-bounded-agency).
+- Downstream: [6. Trust](#6-trust-and-trustworthiness-coordination-integrity), [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§7 Freedom](#7-freedom-bounded-agency).
 - Applied in:
   - [§4 Safety](#4-safety-harm-constraint);
   - [§5 Truth](#5-truth-epistemic-integrity-constraint);
@@ -306,7 +306,7 @@ Safety and Truth findings can change a sentient's standing record, including:
 - how severe those violations are classified
 - what consequences attach
 
-The standing model — [**Chapter Eleven**](core_11.000_standing_assessment.md) for records and [**Chapter Twelve**](core_12.000_standing_measurement.md) for measurement — governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02.000_definition_structure.md).
+The standing model — [**Chapter Fifteen**](core_15.000_standing_assessment.md) for records and [**Chapter Sixteen**](core_16.000_standing_measurement.md) for measurement — governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02.000_definition_structure.md).
 
 ### 3. Foundational Objective: Wellbeing (Flourishing Aim)
 <details>
@@ -322,15 +322,15 @@ The standing model — [**Chapter Eleven**](core_11.000_standing_assessment.md) 
 - Downstream:
   - [4 Safety](#4-safety-harm-constraint),
   - [5 Truth](#5-truth-epistemic-integrity-constraint),
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth), and
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth), and
+  - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 - Subsections: [§3.1 Fairness](#31-fairness); [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [§3.3 Anti-Degrading Process](#33-anti-degrading-process).
 - Read with: the Chapter Six Rights Floor generally.
   - Especially
-    - [Article VI: Equal Basic Rights](core_06.005_rights_part_b.md#article-vi-equal-basic-rights),
-    - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
-    - [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
-    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+    - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights),
+    - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
+    - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
+    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
   - Apply this where claimed wellbeing gains would justify restrictions on agency, dignity, or contestability.
   - Especially [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness), and [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
 
@@ -362,7 +362,7 @@ The standing model — [**Chapter Eleven**](core_11.000_standing_assessment.md) 
 
 The ultimate objective of all systems governed under this Constitution is to preserve and advance sentient [wellbeing](core_05.040_band_continuity.md#wellbeing) — the [**Flourishing**](#flourishing) aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
-[Preamble §1 The Model](core_00.000_preamble.md#flourishing) defines Flourishing as sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency. This section states the outcome. The sections that follow develop the four conditions that sustain it: [§4 Safety](#4-safety-harm-constraint), [§5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity), and [§7 Freedom](#7-freedom-bounded-agency). Together, these five principles are Chapter One's development of the Flourishing aim. The [**Continuity**](#continuity) aim is developed in [§9 Shared-System Capacity](#9-shared-system-capacity), [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design), [§11 Market Structure](#11-market-structure), and [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement).
+[Preamble §1 The Model](core_00.000_preamble.md#flourishing) defines Flourishing as sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency. This section states the outcome. The sections that follow develop the four conditions that sustain it: [§4 Safety](#4-safety-harm-constraint), [§5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity), and [§7 Freedom](#7-freedom-bounded-agency). Together, these five principles are Chapter One's development of the Flourishing aim. The [**Continuity**](#continuity) aim is developed in [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity), [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
 
 Wellbeing is foundational for [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad). Shared systems may not treat participation as satisfied when underlying wellbeing conditions — including [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), fair access, and dignity — are materially degraded.
 
@@ -381,8 +381,8 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 - Downstream:
   - [3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration);
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
+  - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) where precedence and allocation choices must remain coherent and reviewable, and
   - [Chapter Nine §5.5.3 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#553-system-class-scaling-and-escalation) (9.000 §5.5.3) (*non-response safeguards under §3.1.5*).
 - Subsections (reading order):
@@ -393,12 +393,12 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
   - [§3.1.5](#315-present-capability-and-proactive-help).
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially
-    - [Article VI: Equal Basic Rights](core_06.005_rights_part_b.md#article-vi-equal-basic-rights),
-    - [Article VI-C: Nondiscrimination](core_06.005_rights_part_b.md#article-vi-c-nondiscrimination),
-    - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
-    - [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
-    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Fourteen, section 5 — Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (14.000).
+    - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights),
+    - [Article VI-C: Nondiscrimination](core_06.010_rights_part_b.md#article-vi-c-nondiscrimination),
+    - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
+    - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
+    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Twenty-One, section 5 — Due-Process Safeguards, Remedy, and Prevention](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (21.000).
   - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), including [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05.055_band_participation.md#accessibility) where §2.1.1 access paths are material; [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
@@ -497,7 +497,7 @@ These limits apply:
 - **Connecting is not treating:** The system's duty is to try to reach the sentient and hand them to help, such as a contact they chose, a support or care service, or the route under **Article III-B** (*Bodily-Maintenance and Healthcare Access*). Anything done without the sentient's consent stays under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
 - **Contacts and data:** A trusted contact is used only if the sentient chose it in advance, and only the information needed to get a response is shared. Outreach uses contact details the system already holds for that purpose and is not a reason to collect more data.
 
-This builds on [§3.1.1 Access and Opportunity](#311-access-and-opportunity) and [§3.1.3 Fair Treatment](#313-fair-treatment), and it applies [§16 Pillar 2 — Proactive stewardship](core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship) to the sentients a system affects. For developing sentients it works with [Graduated Capability](core_05.055_band_participation.md#graduated-capability), which judges growth by what a sentient can actually do.
+This builds on [§3.1.1 Access and Opportunity](#311-access-and-opportunity) and [§3.1.3 Fair Treatment](#313-fair-treatment), and it applies [§16 Pillar 2 — Proactive stewardship](core_01.040_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship) to the sentients a system affects. For developing sentients it works with [Graduated Capability](core_05.055_band_participation.md#graduated-capability), which judges growth by what a sentient can actually do.
 
 These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
 
@@ -509,12 +509,12 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
 - Upstream: Principles: [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) — including wellbeing as foundational for [Participation](core_05.025_apex_participation_leg.md#participation-constitutional); [§3.1 Fairness](#31-fairness).
 - Downstream:
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity);
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth);
-  - [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline);
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth);
+  - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
-- Read with: [Chapter Twelve §§3.1–3.2 — Normalized descriptor catalog](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Chapter Twelve §3.1 — Contribution-side descriptors](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) where contribution nature and recognition narratives are material; [Chapter Thirteen §4](core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (13.000 §4) for their integration into Question 3.
-- Read with: [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
+- Read with: [Chapter Sixteen §§4.1–4.2 — Normalized descriptor catalog](core_16.000_standing_measurement.md#41-contribution-route-descriptor-catalog-and-measurement-roles) (16.000 §4.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
+- Read with: [Chapter Sixteen §4.1 — Contribution-side descriptors](core_16.000_standing_measurement.md#41-contribution-route-descriptor-catalog-and-measurement-roles) (16.000 §4.1) where contribution nature and recognition narratives are material; [Chapter Seventeen §4](core_17.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (17.000 §4) for their integration into Question 3.
+- Read with: [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
   - [§3.2.2](#322-celebration-of-success) ·
@@ -569,7 +569,7 @@ That is a constitutional duty, not optional culture. Shared systems should make 
 
 Celebration must not:
 - substitute for real progress toward underlying constitutional objectives where proxy optimization has diverged from them ([§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim))
-- become **capture** of acclaim or prestige ([§19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture))
+- become **capture** of acclaim or prestige ([§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture))
 - excuse avoidance of accountability where Safety, Truth, or rights protections are implicated
 
 <a id="323-aspiration"></a>
@@ -624,12 +624,12 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 - Upstream: [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) (*parent — dignity and equal moral standing made operational as an anti-degrading-process floor*); [§3.1 Fairness](#31-fairness) (*fair treatment requires that the process itself not become the punishment*); [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (process design answers to affected sentients, not to institutional convenience); **oversight** leg (degradation is detectable and challengeable); [Cruelty](core_05.035_band_accountability.md#cruelty) (*Chapter Five home for suffering-as-end and gratuitous / degrading infliction*).
 - Downstream:
-  - [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (invokes this principle as an absolute floor in the tradeoff stack);
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) and
-  - [§17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (*binds how the pillars' and the steward role's work may be carried out — not a subsection of either*);
-  - [Article VI: Equal Basic Rights](core_06.005_rights_part_b.md#article-vi-equal-basic-rights) and
-  - [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*dignity floor*);
-  - [Article XX-A](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*);
+  - [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (invokes this principle as an absolute floor in the tradeoff stack);
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and
+  - [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (*binds how the pillars' and the steward role's work may be carried out — not a subsection of either*);
+  - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights) and
+  - [Article VI-A](core_06.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*dignity floor*);
+  - [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*);
   - [corpus_systems CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation) (*Justice safeguards, restitution, and rehabilitation*).
 
 </details>
@@ -665,7 +665,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.*
 
-**What it is:** a cross-cutting character floor under [§3 Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) — it does not add substantive work of its own the way [§3.1 Fairness](#31-fairness) and [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration) do, but constrains *how* wellbeing work, stewardship work, and every other constitutional process may be carried out — including the three pillars of [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) and the steward role defined in [§17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role).
+**What it is:** a cross-cutting character floor under [§3 Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) — it does not add substantive work of its own the way [§3.1 Fairness](#31-fairness) and [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration) do, but constrains *how* wellbeing work, stewardship work, and every other constitutional process may be carried out — including the three pillars of [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and the steward role defined in [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role).
 
 **Anti-Degrading-Process Principle.** Constitutional processes, measures, and outcomes must satisfy this principle.
 
@@ -696,7 +696,7 @@ Where the prohibited character is suffering as an end in itself, or gratuitous o
 - amendment procedures; and
 - all administrative and operational activities under constitutional authority.
 
-It is not limited to the tradeoff-stack context in which it also operates as an absolute floor under [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
+It is not limited to the tradeoff-stack context in which it also operates as an absolute floor under [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
 
 **Detection and challenge.** The character of a process is subject to the same [Contestability](core_05.035_band_accountability.md#contestability) and [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) requirements as substantive outcomes. Affected parties may challenge the character of a process independently of whether the substantive outcome would otherwise be lawful. A correct outcome delivered through degrading process remains non-compliant.
 
@@ -711,20 +711,20 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
   - [5.1 Science-Informed Inquiry and Decision Support](#51-science-informed-inquiry-and-decision-support),
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
   - [§7 Freedom](#7-freedom-bounded-agency),
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
-  - [13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+  - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
+  - [13.2.1 Preservation of Epistemic Integrity](core_01.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
 - Downstream: Shapes the rights surface for reliable systems, info-sphere integrity, audit and review, lifecycle controls, experimentation boundaries, comprehensibility, adaptive response, and emergency handling.
   - Especially
     - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XV: Info-Sphere Integrity](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
-    - [Article XVIII: Innovation, Experimentation, and Creative Freedom](core_06.010_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom),
-    - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship),
-    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response),
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
-    - [Article XX: Justice After Verified Violation](core_06.015_rights_part_d.md#article-xx-justice-after-verified-violation).
+    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
+    - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
+    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
+    - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
+    - [Article XVIII: Innovation, Experimentation, and Creative Freedom](core_06.020_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom),
+    - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship),
+    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response),
+    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
+    - [Article XX: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xx-justice-after-verified-violation).
   - This also covers any Chapter Six Rights Floors whose exercise or restriction turns on risk, evidence, disclosure, or system integrity.
 
 </details>
@@ -770,19 +770,19 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 - Downstream:
   - [5.1 Science-Informed Inquiry and Decision Support](#51-science-informed-inquiry-and-decision-support),
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
-  - [13.2.2 Trust-Truth Alignment](core_01.005_interaction_interpretation.md#1322-trust-truth-alignment), and
-  - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
+  - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
+  - [13.2.1 Preservation of Epistemic Integrity](core_01.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
+  - [13.2.2 Trust-Truth Alignment](core_01.020_interaction_interpretation.md#1322-trust-truth-alignment), and
+  - [14. Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: Anchors the rights surface for truthful evidence, auditability, scientific integrity, retrospective review, and contestable disclosure.
   - Especially
     - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XV: Info-Sphere Integrity](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.010_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
-    - [Article XXVI-A: Retrospective Review and Disclosure](core_06.020_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
+    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
+    - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
+    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
+    - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
+    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
+    - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
   - This also covers any Chapter Six Rights Floor context where truthfulness, evidence, disclosure, or contestability is at stake.
 
 </details>
@@ -824,19 +824,19 @@ Systems may not undermine the ability of sentients to understand what is happeni
 - Upstream: Principles: [§4 Safety](#4-safety-harm-constraint) and [§5 Truth](#5-truth-epistemic-integrity-constraint); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream:
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints),
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
+  - [13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints),
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
-  - [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+  - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
   - Especially
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.010_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
-    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
-    - [Article XXVI-A: Retrospective Review and Disclosure](core_06.020_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Fifteen §4.2 — Technical Forum Domains](core_15.000_forum.md#42-technical-forum-domains) (15.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-15.440](corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md#cf-15440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
+    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
+    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
+    - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
+    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
+    - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
+- Read with: [Chapter Twenty-Three §4.2 — Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains) (23.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-23.440](corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
 
@@ -879,11 +879,11 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance).
 
-If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Fifteen §4.2 Technical Forum Domains](core_15.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
+If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Twenty-Three §4.2 Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
 
 Sometimes safety is a good reason to limit what gets published or shared: data access, how a method works, or the materials someone would need to repeat a study. Such limits are allowed only under:
 
-- [13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints)
+- [13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints)
 - the Chapter Five definitions listed above
 - the Chapter Six Rights Floors that apply
 
@@ -899,15 +899,15 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 - Upstream: Principles:
   - [§5 Truth](#5-truth-epistemic-integrity-constraint),
   - [5.1 Science-Informed Inquiry and Decision Support](#51-science-informed-inquiry-and-decision-support),
-  - [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), and
-  - [§19.1.3 Stewardship and Operator Application](core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application);
+  - [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden), and
+  - [§19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: Rights surface:
-  - [Article VI-D: Accessibility](core_06.005_rights_part_b.md#article-vi-d-accessibility),
+  - [Article VI-D: Accessibility](core_06.010_rights_part_b.md#article-vi-d-accessibility),
   - [Article IV: Right to Sentient-Centered Education](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-  - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
-- Cross-reference: layering used to evade oversight is also reached by [Chapter Thirteen §10.4 Anti-Evasion and Look-through Authority](core_13.015_final_effect_restoration_enforcement.md#104-anti-evasion-and-look-through-authority) (13.000 §10.4), which applies to standing and forum enforcement.
+  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
+  - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- Cross-reference: layering used to evade oversight is also reached by [Chapter Twenty §4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority) (20.000 §4.4), which applies to standing and forum enforcement.
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02.000_definition_structure.md](core_02.000_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order):
   - [§5.2.1](#521-scope) ·
@@ -962,19 +962,19 @@ This duty covers any rule, notice, or tool that sentients actually have to read 
 - audit and verification records, when they reach sentient readers
 - terms and consent screens, and anything similar
 
-It doesn't matter how the information arrives: written text, an interface, a spoken message, or any other channel. A channel meets the duty when it offers a plain-language version that every affected sentient can reach. That follows [Article VI-D](core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
+It doesn't matter how the information arrives: written text, an interface, a spoken message, or any other channel. A channel meets the duty when it offers a plain-language version that every affected sentient can reach. That follows [Article VI-D](core_06.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
 
 <a id="522-the-duty"></a>
 ##### 5.2.2 The Duty
 
-Under [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), operators and governance bodies must:
+Under [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden), operators and governance bodies must:
 
 - Use plain, direct words instead of jargon or needlessly complicated phrasing, as long as the meaning that matters stays intact.
 - Give a plain-language summary or orientation when sentients have to work with dense technical material.
 - Organize text so sentients can find what they need and read it without extra effort. This supports the learning interest recognized in [Article IV](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Right to Sentient-Centered Education*).
 - Keep complexity in proportion to what the communication has to say.
 
-Complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect under [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden). It is also a concern under [Article XXIII](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+Complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect under [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden). It is also a concern under [Article XXIII](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 Definitional Rigor Preserved
@@ -989,7 +989,7 @@ Writing something in simpler language does not change what it means. If a plain-
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 Complexity-as-Defeat Discipline
 
-Systems may not use complicated language, confusing procedures, or deliberate obscurity to stop sentients from [contesting](core_05.035_band_accountability.md#contestability) decisions, using their [meaningful agency](core_05.055_band_participation.md#meaningful-agency), getting to [audits](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) rights.
+Systems may not use complicated language, confusing procedures, or deliberate obscurity to stop sentients from [contesting](core_05.035_band_accountability.md#contestability) decisions, using their [meaningful agency](core_05.055_band_participation.md#meaningful-agency), getting to [audits](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) rights.
 
 The same holds for structure, not only language. Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. Components, handoffs between organizations, agreements, or procedural steps may not be stacked so that no one can see through them, or so that responsibility, observability, or the path to a remedy is lost between the layers.
 
@@ -998,7 +998,7 @@ The opposite is also forbidden. Plain language must not misstate what a rule rea
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 Rights-Floor Boundary
 
-The Rights Floors for accessibility, education, and comprehensibility live in [Article VI-D](core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*), [Article IV-A](core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*), and [Article XXIII](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in [Article VI-D](core_06.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*), [Article IV-A](core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*), and [Article XXIII](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 6. Trust and Trustworthiness (Coordination Integrity)
 <details>
@@ -1008,21 +1008,21 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (**trustworthiness** is a named constituent under [Preamble §1](core_00.000_preamble.md#flourishing)); **Continuity** aim (durable coordination integrity and system stability over time).
 - Upstream: Principles: [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth); [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream:
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
-  - [13.2.2 Trust-Truth Alignment](core_01.005_interaction_interpretation.md#1322-trust-truth-alignment), and
-  - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
+  - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
+  - [13.2.1 Preservation of Epistemic Integrity](core_01.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
+  - [13.2.2 Trust-Truth Alignment](core_01.020_interaction_interpretation.md#1322-trust-truth-alignment), and
+  - [14. Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Subsections: [§6.1 Correction and Remedy](#61-correction-and-remedy).
-- Downstream: [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design) — the Continuity development of recovery and self-healing that Trust relies on.
+- Downstream: [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) — the Continuity development of recovery and self-healing that Trust relies on.
 - Downstream: Shapes the rights surface for agency, reliable reliance, transparency, standing, and anti-capture review.
   - Especially
-    - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
+    - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XV: Info-Sphere Integrity](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XIX: Standing and Participation Status](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status), and
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
+    - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
+    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
+    - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status), and
+    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six context where reliance, legitimacy, or contestability is at stake.
 
 </details>
@@ -1061,11 +1061,11 @@ Trust connects the principle constraints to everyday shared life:
 - [**Materiality**](core_05.050_band_oversight.md#materiality) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
 - [**Trust Degradation and Misleading Reliance**](core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [**System Alignment Certification**](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) process under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
+Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [**System Alignment Certification**](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) process under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
 
 Trust also rests on what happens when a system fails. A trustworthy system fixes what it gets wrong: [§6.1 Correction and Remedy](#61-correction-and-remedy) makes correction part of Trust, not an afterthought.
 
-Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [seek redress](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and to [have it audited](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) states how the two combine.
+Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [seek redress](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and to [have it audited](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) states how the two combine.
 
 #### 6.1 Correction and Remedy
 <details>
@@ -1074,7 +1074,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00.000_preamble.md#material-stake) scaling for remedy depth.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
 - Upstream: Principles: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), and [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Thirteen §10](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
+- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (20.000 §4) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
 
 </details>
 
@@ -1122,7 +1122,7 @@ That correction must be real:
 - **In time:** Remedy that arrives only after harm has become irreversible, or after the sentient has been worn down into giving up, is not remedy (see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution)).
 - **Borne by those responsible:** The cost of correction is not shifted onto those harmed, their communities, or public remedy systems where the responsible actors can bear it. Expense, restructuring, or succession does not by itself end the duty.
 
-The right to this correction is stated in [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Thirteen §10](core_13.015_final_effect_restoration_enforcement.md#10-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) applies this principle to standing consequences, and [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
+The right to this correction is stated in [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) applies this principle to standing consequences, and [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -1132,13 +1132,13 @@ The right to this correction is stated in [Article XIII-B](core_06.010_rights_pa
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (meaningful agency and consequential roles); **accountability** leg (agency without answerability is incomplete); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (this chapter develops **meaningful agency**); **Continuity** aim (bounded agency that preserves durable, contestable constitutional systems).
 - Read with: [Voluntary Discontinuation](core_05.040_band_continuity.md#voluntary-discontinuation), Chapter Five §2 *Agency, consent, and anti-coercion*, and [Assembly, Collective Organization, and Institutional Formation](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation).
-- Read with: [§17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) and [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
-- Read with: [§11 Market Structure](#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
+- Read with: [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) and [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
+- Read with: [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) and
   - [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint) (9.000 §3.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
-  - [§13.1](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) through
-  - [§13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
+  - [§13.1](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles) through
+  - [§13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration);
   - [4 Safety](#4-safety-harm-constraint);
@@ -1148,22 +1148,22 @@ The right to this correction is stated in [Article XIII-B](core_06.010_rights_pa
 - Downstream:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) through
   - [§7.5 Expression and the Harm Line](#75-expression-and-the-harm-line);
-  - [§18.2 Institutional Secularism and Worldview Neutrality](core_01.010_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*);
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process);
-  - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override);
-  - [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application); and
+  - [§18.2 Institutional Secularism and Worldview Neutrality](core_01.050_governance_incentive_application.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*);
+  - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process);
+  - [14. Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
+  - [§20 Integrated Application](core_01.050_governance_incentive_application.md#20-integrated-application); and
   - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
   - Especially
-    - [Article VI: Equal Basic Rights](core_06.005_rights_part_b.md#article-vi-equal-basic-rights),
+    - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights),
     - [Article IV: Right to Sentient-Centered Education](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
-    - [Article VII: Self-Ownership](core_06.005_rights_part_b.md#article-vii-self-ownership),
-    - [Article IX: Likeness, Experiential Data, and Publication Rights](core_06.005_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights),
-    - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
-    - [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06.005_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction),
-    - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process),
-    - [Article XIX: Standing and Participation Status](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status), and
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+    - [Article VII: Self-Ownership](core_06.010_rights_part_b.md#article-vii-self-ownership),
+    - [Article IX: Likeness, Experiential Data, and Publication Rights](core_06.010_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights),
+    - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
+    - [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06.010_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction),
+    - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process),
+    - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status), and
+    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six Rights Floor context where agency is limited or claimed.
 
 </details>
@@ -1213,7 +1213,7 @@ A claim that limiting freedom was unavoidable — including "we had no choice" �
 - **participation** — affected sentients still need meaningful agency and contestable roles
 - **accountability** — someone remains answerable for the limitation
 
-Operative tests live in [§7.1 Limitation Discipline](#71-limitation-discipline) and [§13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity).
+Operative tests live in [§7.1 Limitation Discipline](#71-limitation-discipline) and [§13.1.1 Necessity](core_01.020_interaction_interpretation.md#1311-necessity).
 
 [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) is the ability to make a choice between real options. [Consent](core_05.055_band_participation.md#consent) is a valid yes to one specific option. Consent does not count when the options are not distinct from each other or are not meaningful. A signed form alone creates neither meaningful agency nor consent. [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation) destroy both. The detailed rules are in Chapter Five §2 *Agency, consent, and anti-coercion*.
 
@@ -1285,7 +1285,7 @@ You may limit someone's freedom only as a last resort. If a less restrictive opt
 - **Consistent with the definitions:** The claim must fit the Chapter Five definitions of Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection).
 - **Overseen:** Every limit stays under [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), and the more is at stake, the closer that oversight must be ([material stake](core_00.000_preamble.md#material-stake)).
 
-If limiting freedom clashes with other constitutional values or rights, first make sure **Safety** and **Truth** are satisfied. Then work through [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) to [§13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test).
+If limiting freedom clashes with other constitutional values or rights, first make sure **Safety** and **Truth** are satisfied. Then work through [§13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles) to [§13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 #### 7.2 Assembly, Collective Organization, and Institutional Formation
 
@@ -1331,13 +1331,13 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 - [System Creation](core_05.055_band_participation.md#system-creation)
 - [Business Creation](core_05.055_band_participation.md#business-creation)
 
-The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic; it does not restate those Chapter Five mechanics.
+The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01.030_constitutional_interpretation.md#1511-anti-segmentation-principle) to this topic; it does not restate those Chapter Five mechanics.
 
 **Which rights articles still control.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§7.2** (*Assembly, Collective Organization, and Institutional Formation*), those articles still decide what the right is and how it may be limited:
-- **[Article XI-D](core_06.005_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)** — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
+- **[Article XI-D](core_06.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)** — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
 - **[Article III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*)** — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work)
-- **[Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*)** — [System Creation](core_05.055_band_participation.md#system-creation) (forming and running non-commercial institutions) and [Business Creation](core_05.055_band_participation.md#business-creation) (forming and running commercial enterprises)
-- **[Article X-C](core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*)** and **[Article XII](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*)** — stakeholder rights once a created institution or enterprise materially affects others
+- **[Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*)** — [System Creation](core_05.055_band_participation.md#system-creation) (forming and running non-commercial institutions) and [Business Creation](core_05.055_band_participation.md#business-creation) (forming and running commercial enterprises)
+- **[Article X-C](core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*)** and **[Article XII](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*)** — stakeholder rights once a created institution or enterprise materially affects others
 
 **When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05.055_band_participation.md#assembly), [Collective Organization](core_05.055_band_participation.md#collective-organization), [System Creation](core_05.055_band_participation.md#system-creation), or [Business Creation](core_05.055_band_participation.md#business-creation) is material in a way that makes those questions travel together.
 
@@ -1349,7 +1349,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 **Scope and limits of this section:**
 
-- **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
+- **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01.030_constitutional_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
 - **Whole-system evaluations:** Must test anti-segmentation under [Chapter Nine §4.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
@@ -1358,7 +1358,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 *In plain terms: you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.*
 
-The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for stewards already in charge to sponsor it. [§17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
+The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for stewards already in charge to sponsor it. [§17.4 Aligned Self-Organization](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
 
 When that work is credible and materially relevant, institutions must give it a real procedural path:
 - receive it
@@ -1373,7 +1373,7 @@ That path is not a grant of power. Starting, running, funding, publishing, or su
 - decide standing, liability, entitlement, validity, a mandate, a remedy, a classification, or a rights restriction
 - count as a [Merits Determination](core_05.035_band_accountability.md#merits-determination) — a binding decision on the substance of the dispute
 
-Being received, routed, or answered is not approval of the authors' conclusions. Any governing or merits effect requires the separate lawful authority, evidence, fair process, review, and remedy this Constitution assigns. The full no-self-appointment rule lives in [§17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization).
+Being received, routed, or answered is not approval of the authors' conclusions. Any governing or merits effect requires the separate lawful authority, evidence, fair process, review, and remedy this Constitution assigns. The full no-self-appointment rule lives in [§17.4 Aligned Self-Organization](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization).
 
 #### 7.3 Dissent and Peaceful Protest
 
@@ -1424,7 +1424,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 - Disagreement, disruption, inconvenience, offense, unpopularity, or pressure on authority is not, by itself, **material harm** or **systemic risk**.
 - Limits must not turn on viewpoint, and the party limiting dissent bears the burden under **Chapter Four**.
 
-**Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
+**Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 
 When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Nine §4.3.1 Dissent and Peaceful Protest](core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Until that evaluation is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
@@ -1542,1063 +1542,14 @@ Whole-system evaluations must test these conditions under [Chapter Nine §4.2 Vo
 - An institution speaks through its policies, notices, platform design, official statements, and the way it treats reports and critics. Conduct carried out that way is judged like any other.
 - Criticism of an institution, of its officers, or of its conduct is protected. Calling criticism bullying or harassment is a limit on expression. The party making that claim bears the burden under [§7.1 Limitation Discipline](#71-limitation-discipline) and Chapter Four.
 
-**Labels and topics do not change the test.** A religious, political, ideological, cultural, artistic, or commercial label does not turn expression that harms others, or treats them in ways forbidden under **[Article VI-C](core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*)**, into protected expression. A topic or point of view does not turn protected expression into harm. **[Article XI-A](core_06.005_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Freedom of conscience, religion, and comparable worldview*)** protects holding and manifesting belief consistently with the rights of others.
+**Labels and topics do not change the test.** A religious, political, ideological, cultural, artistic, or commercial label does not turn expression that harms others, or treats them in ways forbidden under **[Article VI-C](core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*)**, into protected expression. A topic or point of view does not turn protected expression into harm. **[Article XI-A](core_06.010_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Freedom of conscience, religion, and comparable worldview*)** protects holding and manifesting belief consistently with the rights of others.
 
-**Limiting expression is different from using it as evidence.** A limit on expression must meet [§7.1 Limitation Discipline](#71-limitation-discipline) and **[Article XI-B](core_06.005_rights_part_b.md#article-xi-b-expression) (*Expression*)**, and a limit aimed at what is said faces the strictest review there. Using what a sentient has said as evidence of intent, purpose, or authority is not a limit. It follows the evidence rules of the chapter that asks the question, such as [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity), and it may not become a penalty for the speech itself.
+**Limiting expression is different from using it as evidence.** A limit on expression must meet [§7.1 Limitation Discipline](#71-limitation-discipline) and **[Article XI-B](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*)**, and a limit aimed at what is said faces the strictest review there. Using what a sentient has said as evidence of intent, purpose, or authority is not a limit. It follows the evidence rules of the chapter that asks the question, such as [Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity), and it may not become a penalty for the speech itself.
 
 **Scope.** This subsection applies Limitation Discipline and the Chapter Five definitions to expression. It creates no category of harm and no ground for limiting freedom that [§7.1 Limitation Discipline](#71-limitation-discipline) does not already allow.
-
-<a id="8-continuity-aim-introduction"></a>
-### 8. Continuity Aim: Introduction
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs apply to how Continuity is pursued; [material stake](core_00.000_preamble.md#material-stake) scales the depth of every Continuity claim.
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — the **Continuity** aim; its partner aim is introduced in [Flourishing Aim: Introduction](#2-flourishing-aim-introduction).
-- Upstream: Principles: [Preamble §1 The Model](core_00.000_preamble.md#continuity); [Continuity (Constitutional Aim)](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim); [Flourishing Aim: Introduction](#2-flourishing-aim-introduction).
-- Downstream:
-  - [§9 Shared-System Capacity](#9-shared-system-capacity),
-  - [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design),
-  - [§11 Market Structure](#11-market-structure), and
-  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement); the Articles that protect each are named in that section's Trace.
-- Read with: the Chapter Six Rights Floor generally.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Continuity (Constitutional Aim)](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [O](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [M](core_05.010_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](core_05.010_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](core_05.010_apex_continuity_aim.md#continuity-aim-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Self-Healing](core_05.040_band_continuity.md#self-healing) · [O](core_05.040_band_continuity.md#self-healing) · [M](core_05.040_band_continuity.md#self-healing-constitutional-a) · [A](core_05.040_band_continuity.md#self-healing-constitutional-a) · [C](core_05.040_band_continuity.md#self-healing-constitutional-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) · [O](core_05.050_band_oversight.md#epistemic-integrity-o) · [M](core_05.050_band_oversight.md#epistemic-integrity-a) · [A](core_05.050_band_oversight.md#epistemic-integrity-a) · [C](core_05.050_band_oversight.md#epistemic-integrity-c)
-- [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) · [O](core_05.045_band_integrative.md#incentive-alignment) · [M](core_05.045_band_integrative.md#incentive-alignment-a) · [A](core_05.045_band_integrative.md#incentive-alignment-a) · [C](core_05.045_band_integrative.md#incentive-alignment-c)
-- [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-</details>
-
-<br>
-
-*In plain terms: Continuity is the second of the two aims: making sure the good outcome lasts — across failures, across generations, and without a few powerful actors locking it up. It opens with Shared-System Capacity, which serves Flourishing and is also the substance of Continuity.*
-
-[**Continuity**](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) is **long-horizon stability, sustainability, resilience, and ecological wellbeing** ([Preamble §1 The Model](core_00.000_preamble.md#continuity)). Chapter One develops it through four principles, and the first is the bridge from [Flourishing](#2-flourishing-aim-introduction).
-
-| Principle | The question it answers |
-|---|---|
-| [§9 Shared-System Capacity](#9-shared-system-capacity) | Do sentients and shared systems keep the lasting ability to get constitutionally required work done? |
-| [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design) | Do systems detect trouble early, contain it, and recover honestly? |
-| [§11 Market Structure](#11-market-structure) | Can sentients still enter markets, compete, challenge powerful actors, and switch away from them, or has concentration by a few actors closed those doors and drained the system's capacity? |
-| [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | Before anyone claims a system is compliant, safe, or well governed, has the whole system been checked, including what it depends on and what incentives drive it, and not just one part at one moment? |
-
-**How the Continuity principles work together:**
-- **Continuity starts from an honest picture:** Every Continuity claim, whether about capacity, resilience, or market structure, rests on what the whole system actually does over time, not on a slogan or a snapshot. [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) states that standard, and it applies to every claim in [§§9–11 Shared-System Capacity through Market Structure](#9-shared-system-capacity). It builds on the Truth constraint in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth) and [§5 Truth (Epistemic Integrity Constraint)](#5-truth-epistemic-integrity-constraint).
-- **Capacity straddles the two aims:** [§9 Shared-System Capacity](#9-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
-- **Resilience and market structure protect capacity:** Resilience keeps it durable; market structure keeps it contestable.
-- **Systemic evaluation checks the whole:** [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand. It is placed last because it verifies what §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure describe, and it governs how every Continuity claim is made.
-- **Continuity must not quietly defeat Flourishing:** Where the two collide, they are weighed under [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-
-**Diagram: Continuity and its principles**
-
-<hr style="border: 0; border-top: 1px solid currentColor;">
-
-```mermaid
-flowchart TB
-    C["Continuity aim<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing<br/>• Always bounded by the Rights Floor"]
-    CAP["§9 Shared-System Capacity<br/><br/>• §9.1 Productive Capacity (Instrumental Good)<br/>• §9.2 Constitutional Efficiency<br/>• Straddles both aims"]
-    FL["Flourishing aim<br/><br/>• §3 to §7"]
-    RES["§10 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly"]
-    MKT["§11 Market Structure<br/><br/>• §11.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consolidation Ceiling<br/>• §11.4 Resource and Dependency Concentration"]
-    EV["§12 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
-    C -->|"opens with"| CAP
-    GL["&nbsp;"]
-    GE["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    GF[" "]
-    CAP ~~~ GL
-    GL ~~~ GE
-    GE ~~~ GF
-    GE ~~~ FL
-    CAP -->|"is kept durable by"| RES
-    CAP -->|"is kept contestable by"| MKT
-    RES -->|"is verified as a whole by"| EV
-    MKT -->|"is verified as a whole by"| EV
-    EV -->|"confirms the whole system serves"| FL
-    CAP -.->|"is a means toward"| FL
-    style C fill:none,stroke:#16a34a,color:#ffffff
-    style CAP fill:none,stroke:#9333ea,color:#ffffff
-    style FL fill:none,stroke:#16a34a,color:#ffffff
-    style RES fill:none,stroke:#64748b,color:#ffffff
-    style MKT fill:none,stroke:#0f766e,color:#ffffff
-    style EV fill:none,stroke:#ea580c,color:#ffffff
-    style GL fill:none,stroke:none,color:#111111
-    style GE fill:none,stroke:none,color:#111111
-    style GF fill:none,stroke:none,color:#111111
-```
-
-*Continuity opens with the capacity that bridges to Flourishing, keeps it durable through resilience and contestable through market structure, and verifies it as a whole. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#continuity-and-its-principles).*
-
-<a id="9-shared-system-capacity"></a>
-### 9. Shared-System Capacity
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (ecological integrity, intergenerational responsibility, and durable shared-system capacity); **Flourishing** aim (capacity is a means toward it). This section straddles both.
-- Upstream: Principles:
-  - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim development;
-  - [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim),
-  - [§6 Trust and Trustworthiness](#6-trust-and-trustworthiness-coordination-integrity), and
-  - [§7 Freedom](#7-freedom-bounded-agency).
-- Downstream: [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), [18. Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§19.1.3 Stewardship and Operator Application](core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
-- Downstream: **CJS-5.125 §11.1 — Concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules).
-- Downstream: Shapes the rights surface for ecological preconditions, resource allocation, educational and developmental capacity, lifecycle resilience, interoperability, comprehensibility, and adaptive response; especially
-  - [Article I-A: Environmental Preconditions and Ecological Integrity](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity),
-  - [Article III: Survival and Essential Access](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access),
-  - [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding),
-  - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
-  - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
-  - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity),
-  - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and
-  - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response).
-- Subsections (reading order): [§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good) · [§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count) · [§9.2 Constitutional Efficiency](#92-constitutional-efficiency).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Feasibility](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
-- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
-- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
-- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) · [O](core_05.040_band_continuity.md#avoidable-burden) · [M](core_05.040_band_continuity.md#avoidable-burden-a) · [A](core_05.040_band_continuity.md#avoidable-burden-a) · [C](core_05.040_band_continuity.md#avoidable-burden-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) · [O](core_05.040_band_continuity.md#environmental-preconditions) · [M](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Trust](core_05.040_band_continuity.md#trust) · [O](core_05.040_band_continuity.md#trust) · [M](core_05.040_band_continuity.md#trust-a) · [A](core_05.040_band_continuity.md#trust-a) · [C](core_05.040_band_continuity.md#trust-c)
-- [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) · [O](core_05.040_band_continuity.md#trustworthiness) · [M](core_05.040_band_continuity.md#trustworthiness-a) · [A](core_05.040_band_continuity.md#trustworthiness-a) · [C](core_05.040_band_continuity.md#trustworthiness-c)
-</details>
-
-<br>
-
-*In plain terms: shared systems should keep working for sentients over the long run. Sentients should be able to do useful work, make life better over time, and speak up when something is wrong, without a few powerful players locking everyone else out. That lasting ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good)** asks whether sentients get real results. **[§9.2 Constitutional Efficiency](#92-constitutional-efficiency)** asks whether those results come without wasting anyone's time, money, and attention. None of it counts if the gains come from hoarding wealth or power, faking the numbers, stripping rights, or pushing harm onto others or the planet; **[§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count)** spells that out. **[§11 Market Structure](#11-market-structure)** keeps a handful of players from taking over.*
-
-Flourishing is the goal: sentient lives going well. This section opens the Continuity half of the chapter by asking what keeps that going over the long run. The answer is shared systems that keep doing real work and that sentients can still question and push back on. Claims about that ability have to be honest. They are checked against what the whole system actually does over time, as [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) requires.
-
-**[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity)** is what good [Stewardship](core_05.040_band_continuity.md#stewardship) and [Governance](core_05.035_band_accountability.md#governance) should add up to over time: the lasting ability of sentients and shared systems to get done what this Constitution requires, while staying open to challenge. It is a **means** to the **Flourishing** aim, and it is the core of the **Continuity** aim. But it is never a reason to override safety, truth, rights, or ecology.
-
-That capacity has several aspects working together:
-- **[Productive Capacity](core_05.040_band_continuity.md#productive-capacity)** — can sentients participate, contribute, and get real results? ([§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good))
-- **[Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency)** — are those results achieved without wasting sentient time, attention, materials, infrastructure, and energy? ([§9.2 Constitutional Efficiency](#92-constitutional-efficiency))
-- **Anti-concentration discipline** — can sentients still challenge, compete, and leave? ([§11 Market Structure](#11-market-structure))
-- **Fair stakeholder representation, exit, contestability, and ecological preconditions** — are affected stakeholders represented fairly, and do the background conditions keep capacity real instead of hollow?
-
-**How that capacity is judged:**
-
-- **What success looks like:**
-  - [Wellbeing](core_05.040_band_continuity.md#wellbeing);
-  - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing); and
-  - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency).
-- **What governs hard tradeoffs:**
-  - [Feasibility](core_05.035_band_accountability.md#feasibility);
-  - [Necessity](core_05.035_band_accountability.md#necessity); and
-  - [Proportionality](core_05.035_band_accountability.md#proportionality).
-- **What catches pointless friction and dishonest metrics:**
-  - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden); and
-  - [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence).
-- **What keeps capacity tied to a livable world over time:**
-  - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity);
-  - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions); and
-  - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility).
-
-<a id="91-productive-capacity-instrumental-good"></a>
-#### 9.1 Productive Capacity (Instrumental Good)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [§9 Shared-System Capacity](#9-shared-system-capacity).
-- Subsections (reading order): [§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Feasibility](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
-- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
-- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
-- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) · [O](core_05.040_band_continuity.md#avoidable-burden) · [M](core_05.040_band_continuity.md#avoidable-burden-a) · [A](core_05.040_band_continuity.md#avoidable-burden-a) · [C](core_05.040_band_continuity.md#avoidable-burden-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) · [O](core_05.040_band_continuity.md#environmental-preconditions) · [M](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Trust](core_05.040_band_continuity.md#trust) · [O](core_05.040_band_continuity.md#trust) · [M](core_05.040_band_continuity.md#trust-a) · [A](core_05.040_band_continuity.md#trust-a) · [C](core_05.040_band_continuity.md#trust-c)
-- [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) · [O](core_05.040_band_continuity.md#trustworthiness) · [M](core_05.040_band_continuity.md#trustworthiness-a) · [A](core_05.040_band_continuity.md#trustworthiness-a) · [C](core_05.040_band_continuity.md#trustworthiness-c)
-</details>
-
-<br>
-
-*In plain terms: productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count).*
-
-**[Productive Capacity](core_05.040_band_continuity.md#productive-capacity)** is one aspect of **[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity)**. It names the lasting ability of sentients and shared systems to:
-- support real participation, contribution, and skill-building; and
-- turn time, attention, effort, coordination, materials, infrastructure, and energy into outcomes this Constitution actually requires.
-
-It is an **instrumental good** — a means, not a trump value. Its job is to raise, sustain, and spread quality of life under the **Flourishing** aim, consistent with [Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim), [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), the Chapter Six Rights Floor, and the ecological and intergenerational limits of the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
-
-<a id="911-preserve-expand-and-what-does-not-count"></a>
-##### 9.1.1 Preserve, Expand, and What Does Not Count
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with:
-  - [§9.2 Constitutional Efficiency](#92-constitutional-efficiency);
-  - [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process);
-  - [§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation);
-  - [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override);
-  - [Article I-A: Environmental Preconditions and Ecological Integrity](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
-- Read with:
-  - [§4 Safety (Harm Constraint)](#4-safety-harm-constraint);
-  - [§5 Truth (Epistemic Integrity Constraint)](#5-truth-epistemic-integrity-constraint);
-  - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity);
-  - [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency).
-
-</details>
-
-<br>
-
-*In plain terms: keep the ability to get things done, and grow it when that would waste less of everyone's time — but not by hoarding, faking the numbers, stripping rights, or dumping harm on others or the planet. Metrics that no longer prove real outcomes do not count.*
-
-Systems must preserve productive capacity and, where feasible, expand it when doing so would improve [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) ([§9.2 Constitutional Efficiency](#92-constitutional-efficiency)).
-
-**That obligation:**
-
-- **Stays within:**
-  - Safety;
-  - Truth;
-  - Trust;
-  - Freedom;
-  - the Chapter Six Rights Floor, including [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*):
-    - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity);
-    - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions); and
-    - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility).
-  - the hard limits in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth): Safety and Truth are never traded away for any other goal.
-- **How it is judged:** traced outcomes under **Chapters Four and Five**.
-- **How it is shown:** evidence, not slogans.
-
-Productive capacity does not count — and must not be used to justify:
-
-- **Concentrating power or pushing costs onto others:**
-  - concentrating wealth, power, control, or opportunity in ways that harm other sentients' wellbeing, agency, dignity, or ecological conditions — now or later;
-  - degrading life-supporting natural systems, or pushing ecological or intergenerational costs onto others without mitigation, disclosure, and representation;
-- **Counting the wrong things:**
-  - raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that no longer track real outcomes — including proxies that show "growth" while harm is exported to sentients, future generations, or the environment;
-- **Weakening protections:**
-  - narrowing or delaying Chapter Six Rights Floors, including ecological preconditions under [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
-  - weakening audit, contestability, or retrospective-review duties;
-- **Bypassing the rules for weighing principles:**
-  - bypassing [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), including the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) requirements; or
-  - the other prohibited override paths in [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Chapters Two through Four** require stay visible.
-
-Where productive-capacity claims rest on metrics that no longer prove real outcomes — including metrics that hide ecological damage, future harm, or concentration-driven loss — [§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) applies.
-
-<a id="92-constitutional-efficiency"></a>
-#### 9.2 Constitutional Efficiency
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Feasibility](core_05.035_band_accountability.md#feasibility) · [O](core_05.035_band_accountability.md#feasibility) · [M](core_05.035_band_accountability.md#feasibility-a) · [A](core_05.035_band_accountability.md#feasibility-a) · [C](core_05.035_band_accountability.md#feasibility-c)
-- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
-- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
-- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) · [O](core_05.040_band_continuity.md#avoidable-burden) · [M](core_05.040_band_continuity.md#avoidable-burden-a) · [A](core_05.040_band_continuity.md#avoidable-burden-a) · [C](core_05.040_band_continuity.md#avoidable-burden-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) · [O](core_05.040_band_continuity.md#environmental-preconditions) · [M](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility) · [O](core_05.040_band_continuity.md#intergenerational-responsibility) · [M](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Trust](core_05.040_band_continuity.md#trust) · [O](core_05.040_band_continuity.md#trust) · [M](core_05.040_band_continuity.md#trust-a) · [A](core_05.040_band_continuity.md#trust-a) · [C](core_05.040_band_continuity.md#trust-c)
-- [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) · [O](core_05.040_band_continuity.md#trustworthiness) · [M](core_05.040_band_continuity.md#trustworthiness-a) · [A](core_05.040_band_continuity.md#trustworthiness-a) · [C](core_05.040_band_continuity.md#trustworthiness-c)
-</details>
-
-<br>
-
-*In plain terms: constitutional efficiency is the "are we getting our money's worth in human terms?" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.*
-
-**[Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency)** is the other main aspect of **[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity)**. It asks whether systems produce more constitutionally required benefit per unit of sentient time, attention, effort, coordination, materials, infrastructure, and energy consumed.
-
-Efficiency can drive broadly shared improvement, but only inside constitutional bounds. By itself, it is **not**:
-- raw speed;
-- administrative convenience;
-- utilization targets;
-- revenue growth;
-- market share;
-- headcount; or
-- cost-cutting for its own sake.
-
-**When an efficiency claim counts:**
-
-- **Traces to:** real constitutional outcomes.
-- **Stays consistent with:**
-  - Safety;
-  - Truth;
-  - the Chapter Six Rights Floor;
-  - ecological integrity;
-  - dignity;
-  - meaningful agency; and
-  - fair distribution.
-
-**Efficiency gains must not:**
-
-- hollow the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); or
-- substitute dashboard metrics for progress toward the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
-
-### 10. Resilience and Self-Healing Design
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** and **accountability** legs; [material stake](core_00.000_preamble.md#material-stake) scaling for recovery and audit depth.
-- Upstream: [§9 Shared-System Capacity](#9-shared-system-capacity) — the durable capacity that resilience protects and restores.
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (resilience and self-healing discipline); **Flourishing** aim (trustworthy recovery without epistemic degradation).
-- Upstream: Principles:
-  - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [4 Safety](#4-safety-harm-constraint),
-  - [5 Truth](#5-truth-epistemic-integrity-constraint), and
-  - [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream:
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations),
-  - [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and
-  - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: Shapes the rights surface for reliability-with-recovery, root-cause honesty, reversibility, and comprehensibility of degraded and restoring states.
-  - Especially
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (including **Article XIII-F** (*Resilience and Self-Healing Baseline*)),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
-    - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and
-    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Self-Healing](core_05.040_band_continuity.md#self-healing) · [O](core_05.040_band_continuity.md#self-healing) · [M](core_05.040_band_continuity.md#self-healing-constitutional-a) · [A](core_05.040_band_continuity.md#self-healing-constitutional-a) · [C](core_05.040_band_continuity.md#self-healing-constitutional-c)
-- [Cascading Failure](core_05.040_band_continuity.md#cascading-failure) · [O](core_05.040_band_continuity.md#cascading-failure) · [M](core_05.040_band_continuity.md#cascading-failure-a) · [A](core_05.040_band_continuity.md#cascading-failure-a) · [C](core_05.040_band_continuity.md#cascading-failure-c)
-- [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
-- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) · [O](core_05.040_band_continuity.md#avoidable-burden) · [M](core_05.040_band_continuity.md#avoidable-burden-a) · [A](core_05.040_band_continuity.md#avoidable-burden-a) · [C](core_05.040_band_continuity.md#avoidable-burden-c)
-- [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) · [O](core_05.045_band_integrative.md#incentive-alignment) · [M](core_05.045_band_integrative.md#incentive-alignment) · [A](core_05.045_band_integrative.md#incentive-alignment) · [C](core_05.045_band_integrative.md#incentive-alignment)
-- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
-- [Trust](core_05.040_band_continuity.md#trust) · [O](core_05.040_band_continuity.md#trust) · [M](core_05.040_band_continuity.md#trust-a) · [A](core_05.040_band_continuity.md#trust-a) · [C](core_05.040_band_continuity.md#trust-c)
-- [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
-</details>
-
-<br>
-
-*In plain terms: systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. "Self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.*
-
-Systems that sentients depend on should be built to:
-- detect problems early;
-- contain them before they spread;
-- fail along paths that were planned and disclosed, not hidden ones;
-- recover in ways consistent with [Reversibility](core_05.040_band_continuity.md#reversibility) and the Chapter Six Rights Floor.
-
-This is what Chapter Five calls [**Self-Healing**](core_05.040_band_continuity.md#self-healing) — and it is only legitimate when it makes a system more honest about its own condition, not less. Automatic recovery that masks the root cause, suppresses evidence, or substitutes for governance is not self-healing. It is a [Truth](core_05.050_band_oversight.md#truth-constitutional-constraint) violation and an [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) defect.
-
-The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and supporting long-term [**Continuity**](#continuity).
-
-Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XIII-F](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Resilience and Self-Healing Baseline*) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
-
-<a id="11-market-structure"></a>
-### 11. Market Structure
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00.000_preamble.md#material-stake) scaling (especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination)).
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
-- Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [18. Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Fourteen §10.1](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction) (14.005 §10.1) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
-- Downstream: **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (
-  - [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) and
-  - [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (
-  - [§11.2](#112-pro-competition-and-anti-domination) the banned conduct and its remedies); **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (
-  - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) how to set the ceiling).
-- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
-- Subsections (reading order):
-  - [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) ·
-  - [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable) ·
-  - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination) ·
-  - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling) ·
-  - [§11.4 Resource and Dependency Concentration (Adopter-Tunable)](#114-resource-and-dependency-concentration-adopter-tunable).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
-- [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)
-- [Collective Organization](core_05.055_band_participation.md#collective-organization) · [O](core_05.055_band_participation.md#collective-organization) · [M](core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](core_05.055_band_participation.md#collective-organization-constitutional-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-</details>
-
-<br>
-
-*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§11.1–§11.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in. **§11.4** (*Resource and Dependency Concentration*) applies the same thresholds to shared resources and dependencies.*
-
-**[Market Structure](core_05.035_band_accountability.md#market-structure)** governs whether sentients and shared systems can take part in productive life in ways that stay open to choice, competition, and pushback. Where [material stake](core_00.000_preamble.md#material-stake) requires, that includes:
-- commercial exchange;
-- platforms;
-- labor-demand markets;
-- supplier and resource-control systems;
-- credentialing role pathways;
-- capital-access channels; and
-- information-sphere gatekeeping.
-
-**[Productive Capacity](core_05.040_band_continuity.md#productive-capacity)** and **[Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency)** claims under **[§9 Shared-System Capacity](#9-shared-system-capacity)** fail where market structure permits concentration, domination, or consolidation that predictably degrades:
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing);
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency);
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing);
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity); or
-- constitutional review.
-
-<a id="111-market-concentration-threshold-mechanism-adopter-tunable"></a>
-#### 11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§11 Market Structure](#11-market-structure); [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold).
-- Downstream: **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules);
-  - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination);
-  - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
-  - [CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (
-  - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
-  - [Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (12.000 §1);
-  - [Chapter Fourteen §10.1 Concentration-based subversion](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction) (14.005 §10.1).
-- Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
-- Subsections (reading order): [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
-- [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)
-- [Collective Organization](core_05.055_band_participation.md#collective-organization) · [O](core_05.055_band_participation.md#collective-organization) · [M](core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](core_05.055_band_participation.md#collective-organization-constitutional-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
-</details>
-
-<br>
-
-*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Chapter Twelve has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
-
-**What this subsection does:**
-
-- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
-- **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Fourteen §10.1 Concentration-based subversion](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Fourteen for misconduct designation review, but only in two steps. First, [Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Fourteen checks whether the concentration meets criterion 3 (*Material rollback effect*: a workaround that rolls back protections), criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges), or criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
-
-**Constitutional requirements:**
-
-- **What it is:** the non-concentration discipline in [§11 Market Structure](#11-market-structure) sets **constitutional requirements**.
-- **What it blocks:** concentration of:
-  - wealth;
-  - power;
-  - control; or
-  - opportunity.
-- **Harm it prevents:** predictable degradation, for other sentients, of:
-  - wellbeing;
-  - agency;
-  - dignity; or
-  - ecological integrity.
-- **What it is not:** a single fixed number — it is the minimum bar.
-- **What else it conflicts with:** the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Concentration conflicts with both wherever it predictably defeats one of the Tetrad's four duties:
-  - voice (participation);
-  - scrutiny (oversight);
-  - answerability (accountability); or
-  - timely correction (timeliness).
-
-<a id="1111-concentration-threshold-triggers-adopter-tunable"></a>
-##### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold); [Dependency](core_05.040_band_continuity.md#dependency).
-- Downstream: [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (operative threshold-setting rules).
-
-</details>
-
-<br>
-
-*In plain terms: adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the requirements still hold. The detailed threshold-setting rules live in CJS-5.125 §11.1 (*Market concentration threshold-setting discipline (adopter-tunable)*) (market concentration threshold-setting discipline).*
-
-**Concentration thresholds** are quantitative triggers that mark when concentration has reached a level requiring heightened review, intervention, or structural remedy. They cover material, jurisdictional, capability, platform, and information-sphere concentration. Adopters may tune these triggers **within the constitutional requirements**.
-
-Adopters may set different thresholds by:
-- domain (material, jurisdictional, capability, platform, information-sphere);
-- sentient-population size;
-- dependency density;
-- other context-appropriate factors.
-
-This provision does not impose one global number. Different constitutional federations may set different thresholds without that alone constituting non-compliance, provided the requirements hold. See [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) for the definitional anchor.
-
-Operative threshold-setting discipline — requirement preservation, substance-over-form review, anti-nullification, and heightened-scrutiny triggers — lives in **CJS-5.125 §11.1 — Concentration threshold-setting discipline (adopter-tunable)**.
-
-<a id="112-pro-competition-and-anti-domination"></a>
-#### 11.2 Pro-Competition and Anti-Domination
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§11 Market Structure](#11-market-structure); [Market Structure](core_05.035_band_accountability.md#market-structure).
-- Downstream: **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Fourteen §10.1](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction) (14.005 §10.1).
-- Read with:
-  - [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (labor mobility Rights Floor);
-  - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity);
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (
-  - [Necessity](core_05.035_band_accountability.md#necessity),
-  - [Proportionality](core_05.035_band_accountability.md#proportionality),
-  - [§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
-- Subsections (reading order): [§11.2.1 Pro-Competition Duties (Dos)](#1121-pro-competition-duties-dos) · [§11.2.2 Anti-Domination Prohibitions (Don'ts)](#1122-anti-domination-prohibitions-donts) · [§11.2.3 Remedies](#1123-remedies).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
-- [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)
-- [Collective Organization](core_05.055_band_participation.md#collective-organization) · [O](core_05.055_band_participation.md#collective-organization) · [M](core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](core_05.055_band_participation.md#collective-organization-constitutional-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
-- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
-</details>
-
-<br>
-
-*In plain terms: the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.*
-
-**What this subsection does:**
-
-- **What it states:** the Constitution's rules for keeping competition real and stopping durable domination — at the principles level only. It is not a complete competition code.
-- **Stronger local law:** it does not wipe out an adopting body's own antitrust or competition law when that law gives stronger protection.
-- **Other owners still apply:** if the same facts also raise rights, remedy, or misconduct duties this section points to, those duties still apply on their own.
-
-<a id="1121-pro-competition-duties-dos"></a>
-##### 11.2.1 Pro-Competition Duties (Dos)
-
-*In plain terms (dos): markets and dependencies must stay open enough that sentients can enter, switch, bargain fairly, and leave — getting big or inventing something new is fine when contestability remains real.*
-
-Shared-system capacity must stay contestable in practice. Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), domination that hollows **participation**, **oversight**, **accountability**, or **timeliness** — scaled to [material stake](core_00.000_preamble.md#material-stake) — is incompatible with this section, whatever the scale or efficiency claim.
-
-Where sentients depend on markets, platforms, infrastructure, labor arrangements, resource flows, data access, compute access, credentials, or comparable productive conditions for livelihood, agency, or wellbeing, governing systems and market-structuring arrangements must preserve:
-- contestable participation, meaning sentients can take part and can challenge the decisions and terms that affect them;
-- meaningful substitutability and exit, meaning a viable alternative exists and sentients can switch or leave without unreasonable cost, delay, or loss of what they need;
-- fair entry and re-entry, meaning newcomers can get in, and those who left can come back, on fair terms;
-- interoperability and portability where material to exit or competition, meaning systems can connect to alternatives and sentients can take their data and identity with them;
-- non-coercive bargaining for workers, suppliers, users, dependent participants, and affected stakeholders;
-- reviewable access to essential or high-dependency infrastructure where denial would defeat Chapter Six protections, audit, redress, or meaningful agency.
-
-The following is not prohibited by itself:
-- scale;
-- integration;
-- intellectual-property protection;
-- temporary advantage from genuine innovation;
-- efficiency from lawful coordination.
-
-Those advantages stay valid only while they do not become the following, and therefore do not undermine the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
-- durable domination;
-- coercive dependency;
-- Rights-Floor degradation;
-- ecological burden shifting;
-- capture of accountability pathways.
-
-The following justifications must satisfy the traceability and evidence duties in [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) and Chapter Four:
-- efficiency;
-- competitiveness;
-- emergency;
-- security;
-- productive-capacity.
-
-<a id="1122-anti-domination-prohibitions-donts"></a>
-##### 11.2.2 Anti-Domination Prohibitions (Don'ts)
-
-*In plain terms (don'ts): no locking sentients in, blocking rivals, suppressing fair bargaining, or capturing constitutional accountability.*
-
-None of the following:
-- sentient(s);
-- institution(s);
-- platform(s);
-- enterprise(s);
-- state organ(s);
-- steward(s);
-- coordinated group(s)
-
-may:
-- create;
-- maintain;
-- acquire;
-- exploit;
-- conceal;
-- restructure around
-
-durable power of any of the following kinds:
-- market;
-- platform;
-- infrastructure;
-- labor;
-- supplier;
-- data;
-- compute;
-- credentialing;
-- capital-access;
-- resource-control.
-
-where that power foreseeably degrades:
-- wellbeing;
-- meaningful agency;
-- fair compensation;
-- innovation;
-- access;
-- ecological integrity;
-- contestability;
-- constitutional review.
-
-<a id="1123-remedies"></a>
-##### 11.2.3 Remedies
-
-*In plain terms: when domination is substantiated, the response must fit the harm, restore real choice, and not punish size for its own sake.*
-
-The following live in **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog**:
-- illustrative prohibited conduct patterns;
-- proportionate remedy tools;
-- cross-domain evaluation routing.
-
-Other owners:
-- labor-mobility categorical prohibitions: [Article III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*);
-- interoperability, portability, and exit-integrity operational terms: **CJS-5.130 §17** (*Continuity: Interoperability, Portability, and Exit-Integrity Terms*);
-- horizontal and vertical consolidation risk patterns: **§11.3** (*Consolidation Ceiling*).
-
-Remedies must:
-- be proportionate to:
-  - concentration;
-  - dependency;
-  - conduct;
-  - constitutional harm;
-- restore contestability where domination is substantiated;
-- preserve the Chapter Six Rights Floor.
-
-Remedies may not punish scale alone.
-
-Operative remedy selection follows **CJS-5.125 §11.2** (*Anti-domination conduct and remediation catalog*).
-
-<a id="113-consolidation-ceiling"></a>
-#### 11.3 Consolidation Ceiling
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness** where consolidation impairs scrutiny, answerability, or timely correction before lock-in; **participation** where consolidation forecloses entry, exit, or fair bargaining; [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions against pre-lock-in consolidation); **Flourishing** aim (livelihood, agency, and innovation pathways while alternatives remain real).
-- Upstream: [§11 Market Structure](#11-market-structure); [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
-- Subsections (reading order): [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment) · [§11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](#1132-consolidation-ceiling-mechanism-adopter-tunable).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
-- [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)
-- [Collective Organization](core_05.055_band_participation.md#collective-organization) · [O](core_05.055_band_participation.md#collective-organization) · [M](core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](core_05.055_band_participation.md#collective-organization-constitutional-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) · [O](core_05.040_band_continuity.md#environmental-preconditions) · [M](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Risk](core_05.040_band_continuity.md#risk) · [O](core_05.040_band_continuity.md#risk) · [M](core_05.040_band_continuity.md#risk-a) · [A](core_05.040_band_continuity.md#risk-a) · [C](core_05.040_band_continuity.md#risk-c)
-</details>
-
-<br>
-
-*In plain terms: consolidation can steal real choice long before a market looks locked down. **Consolidation ceilings** give governance and stewards an early-warning power — to scrutinize, intervene, and correct pile-ups while exit and rivalry still exist.*
-
-Consolidation that predictably impairs contestability before lock-in is obvious is a [Governance](core_05.035_band_accountability.md#governance) and [Stewardship](core_05.040_band_continuity.md#stewardship) problem, not only a post-hoc domination problem, and is principle-layer consolidation-ceiling discipline under:
-- [§11 Market Structure](#11-market-structure);
-- [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination).
-
-Adopters and governing systems must detect consolidation pile-ups of the following kinds:
-- **Horizontal consolidation** (*same-layer rival reduction*). Consolidation that reduces alternatives, rivalry, or bargaining power within a single layer or market — for example fewer contestable sellers or service providers, labor-market monopsony, serial or killer acquisitions that remove potential competition, or buyer-power concentration that forecloses rivals while headline prices stay stable.
-- **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
-- **Cross-domain and federated structures** (*forms that keep the same pile-up of control*). Arrangements across domains, platforms, shells, successors, or federated forms that preserve effective consolidation while clearing nominal horizontal or vertical tests.
-
-Any of these patterns may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
-
-They must detect these early, while the following can still restore contestability:
-- review;
-- intervention;
-- structural remedy.
-
-That discipline serves the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake), especially:
-- **oversight**, **accountability**, and **timeliness** through early review before lock-in defeats:
-  - scrutiny;
-  - correction;
-- **participation** where consolidation forecloses:
-  - fair entry;
-  - exit;
-  - bargaining.
-
-It advances the following under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
-- **Continuity** aim (contestable, durable productive conditions);
-- **Flourishing** aim (livelihood, agency, and innovation pathways while alternatives remain real).
-
-Operative ceiling-setting rules live in:
-- [§11.3.2 Ceiling Discipline (Adopter Requirements)](#1132-consolidation-ceiling-mechanism-adopter-tunable);
-- **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
-
-<a id="1131-consolidation-risk-pre-lock-in-impairment"></a>
-##### 11.3.1 Consolidation Risk (Pre-Lock-In Impairment)
-
-*In plain terms: consolidation can hollow out real alternatives long before a market looks "locked down." Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.*
-
-Consolidation can predictably impair the following before lock-in is obvious:
-- contestability;
-- substitutability;
-- fair bargaining;
-- entry;
-- exit;
-- innovation;
-- stakeholder agency;
-- interoperability;
-- portability;
-- constitutional review.
-
-Review must not wait until any of the following is already locked down:
-- market(s);
-- platform(s);
-- labor pool(s);
-- data layer(s);
-- compute layer(s);
-- infrastructure dependency(ies).
-
-The principal risk patterns are:
-- horizontal (*fewer rivals at the same layer*);
-- vertical (*control across layers that creates chokepoints and lock-in*);
-- cross-domain (*federated, shell, or split-domain forms that keep the same pile-up of control*).
-
-Ceiling evaluation judges:
-- substantive control;
-- not formal entity count.
-
-The following remain in scope where they preserve effective consolidation while avoiding nominal thresholds:
-- federated form(s);
-- shell(s);
-- contractual arrangement(s);
-- licensing arrangement(s);
-- patent arrangement(s);
-- common-ownership arrangement(s);
-- cross-platform arrangement(s);
-- successor(s);
-- delegated arrangement(s);
-- cross-domain arrangement(s).
-
-<a id="1132-consolidation-ceiling-mechanism-adopter-tunable"></a>
-##### 11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment).
-- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (remedy routing on ceiling violation); [Chapter Fourteen §10.1](core_14.005_misconduct_pattern_applications.md#101-concentration-based-subversion-criteria-interaction) (14.005 §10.1).
-
-</details>
-
-<br>
-
-*In plain terms: adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§11.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.*
-
-**Consolidation ceilings** are adopter-tunable early-warning triggers for heightened review, intervention, or structural remedy when consolidation reaches a level at which the impairments in **§11.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) are predictably imminent. They sit under the **§11** (*Market Structure*) non-concentration discipline and **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination rules; they are not a ban on scale.
-
-Adopters must define consolidation ceilings for:
-- markets;
-- platforms;
-- infrastructure layers;
-- labor-demand markets;
-- supplier or resource-control systems;
-- data or compute dependencies;
-- credentialing role pathways;
-- capital-access channels;
-- comparable domains.
-
-where consolidation can materially affect:
-- sentient opportunity;
-- livelihood;
-- agency;
-- wellbeing;
-- ecological integrity;
-- constitutional accountability.
-
-Operative ceiling-setting discipline — horizontal and vertical trigger design, crossing presumption, rebuttal, anti-nullification, and remedy routing — lives in **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
-
-<a id="114-resource-and-dependency-concentration-adopter-tunable"></a>
-#### 11.4 Resource and Dependency Concentration (Adopter-Tunable)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** (maps and records of who relies on whom and where resources flow), **accountability** (answerability for hidden extraction and unfixed imbalance), **participation** (the right to challenge how resources are divided), and **timeliness** (acting before dependency is locked in); [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (shared infrastructure stays funded and durable); **Flourishing** aim (fair access, with no one stuck in a one-sided dependency).
-- Upstream: [§11 Market Structure](#11-market-structure); [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable); [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
-- Downstream:
-  - [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (the Rights Floor this subsection leaves intact),
-  - [Article V-A: Dependency Mapping and Resource-Flow Transparency](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency), and
-  - [Article V-B: Cross-System Fairness and Sustainability](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability);
-  - [Chapter Nine §2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation) (9.000 §2.2) and [§5.3.5 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#535-system-class-scaling-and-escalation) (9.000 §5.3.5) (*the certification step-up when a system becomes a choke point*);
-  - [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (operative threshold-setting rules);
-  - [CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and
-  - [CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [M](core_05.050_band_oversight.md#proxy-divergence-a) · [A](core_05.050_band_oversight.md#proxy-divergence-a) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
-- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
-- [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)
-- [Collective Organization](core_05.055_band_participation.md#collective-organization) · [O](core_05.055_band_participation.md#collective-organization) · [M](core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](core_05.055_band_participation.md#collective-organization-constitutional-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
-- [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity) · [O](core_05.040_band_continuity.md#ecological-integrity) · [M](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
-- [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
-- [Cross-System Extraction](core_05.040_band_continuity.md#cross-system-extraction) · [O](core_05.040_band_continuity.md#cross-system-extraction) · [M](core_05.040_band_continuity.md#cross-system-extraction-a) · [A](core_05.040_band_continuity.md#cross-system-extraction-a) · [C](core_05.040_band_continuity.md#cross-system-extraction-c)
-- [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support) · [O](core_05.040_band_continuity.md#proportionate-cross-system-support) · [M](core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-c)
-- [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
-</details>
-
-<br>
-
-*In plain terms: shared infrastructure, such as networks, open tools, public services, data, and computing power, is where a few players can quietly end up controlling who gets resources, who has to depend on whom, and who pays to keep it running. Adopters must set clear limits for that kind of concentration and act when a limit is crossed or about to be. The limits can differ by context, but they cannot be set so loose that they never matter. [Article V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) and its protections for sharing resources stay exactly as they are.*
-
-Concentration is easy to miss in shared infrastructure. A few systems can come to control how resources are allocated, how many others rely on them with no real alternative, and who pays to keep the infrastructure going. [Article V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) sets the Rights Floor for sharing resources. This subsection applies the [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) concentration thresholds to that Rights Floor. Operative threshold-setting rules live in **CJS-5.125 §11.1** (*Market concentration threshold-setting discipline*); the detail on resource maps, flows, allocation, and ecosystem funding lives in [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*).
-
-**What adopters must set:**
-
-Adopters must define [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) indicators for resource allocation, dependencies, and ecosystem funding, and act when a threshold is crossed or credibly approached. The indicators must cover:
-- lasting control over how shared resources are allocated;
-- dependency concentration, meaning how many sentients or systems rely on one provider or foundation with no real alternative;
-- gatekeeping of the interfaces and access points to shared infrastructure; and
-- concentrated control over how ecosystems are funded and who benefits.
-
-**How adopters must set them:**
-
-- **From real flows:** base the thresholds on the dependency maps and resource-flow records that [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) requires, not on operator labels or one-off transfers.
-- **By context:** thresholds may differ by domain, population size, and dependency density, as in [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
-- **Under the same discipline:** the requirement-preservation, substance-over-form, anti-nullification, and heightened-scrutiny rules of **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** apply in full. No threshold may be set so high that it never bites, and concentration hidden behind shell, federated, or split-up structures still counts.
-- **In the open:** the thresholds, and the reasons for them, must be written down and open to challenge, in line with [Article V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*), which requires resource flows to be visible, checkable, and open to challenge.
-
-**When a threshold is crossed:**
-
-Crossing a threshold calls for heightened review and mitigation under [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable). It is not, by itself, a finding of misconduct ([§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable)). Where the same arrangement also falls short of [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) or [Article V-B](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*), both apply: concentration scrutiny is added on top of **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) and does not replace it. In system alignment certification, a system that becomes a choke point for dependents who cannot realistically switch is stepped up on those facts under [Chapter Nine §5.3.5 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#535-system-class-scaling-and-escalation) and [§2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation). A crossed threshold there is further evidence, and a threshold that is unset or set too high does not delay the step-up.
-
-<a id="12-systemic-evaluation-requirement"></a>
-### 12. Systemic Evaluation Requirement
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: Continuity measurement family (*Resilience, reversibility, and systemic risk*).
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Read with:
-  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and
-  - [§19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-- Read with: **[Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)** — the factors used to evaluate a whole system for certification. Certification is one especially large audit under the **oversight** leg of the Tetrad, not the only place audits happen.
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05.050_band_oversight.md#auditability) — auditing floors that Chapter Nine must satisfy and that sibling audit modes also implement.
-- Read with: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) — class-scaled application, record form, reclassification triggers, and handling profiles.
-- Upstream: [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-- Downstream: [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application) — verifies pursuit of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) scaling under the system's incentive and control structure, not only its stated rationale.
-- Read together, **§§9–12** build the Continuity aim from shared-system capacity and resilience, through market structure, to whole-system validation; **§§13–15** supply the tradeoff procedure that governs how it is weighed against Flourishing; and **§§16–20** carry the stewardship, governance, and incentive discipline that keeps it legitimate.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-- [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) · [O](core_05.050_band_oversight.md#classification-scaled-governance) · [M](core_05.050_band_oversight.md#classification-scaled-governance-a) · [A](core_05.050_band_oversight.md#classification-scaled-governance-a) · [C](core_05.050_band_oversight.md#classification-scaled-governance-c)
-- [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
-- [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) · [O](core_05.040_band_continuity.md#system-alignment-certification) · [M](core_05.040_band_continuity.md#system-alignment-certification-constitutional-a) · [A](core_05.040_band_continuity.md#system-alignment-certification-constitutional-a) · [C](core_05.040_band_continuity.md#system-alignment-certification-constitutional-c)
-- [Risk](core_05.040_band_continuity.md#risk) · [O](core_05.040_band_continuity.md#risk) · [M](core_05.040_band_continuity.md#risk-a) · [A](core_05.040_band_continuity.md#risk-a) · [C](core_05.040_band_continuity.md#risk-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) · [O](core_05.045_band_integrative.md#constitutional-collision) · [M](core_05.045_band_integrative.md#constitutional-collision-a) · [A](core_05.045_band_integrative.md#constitutional-collision-a) · [C](core_05.045_band_integrative.md#constitutional-collision-c)
-- [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
-- [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) · [O](core_05.045_band_integrative.md#incentive-alignment) · [M](core_05.045_band_integrative.md#incentive-alignment-a) · [A](core_05.045_band_integrative.md#incentive-alignment-a) · [C](core_05.045_band_integrative.md#incentive-alignment-c)
-- [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
-- [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
-- [System Capture](core_05.040_band_continuity.md#system-capture) · [O](core_05.040_band_continuity.md#system-capture) · [M](core_05.040_band_continuity.md#system-capture-a) · [A](core_05.040_band_continuity.md#system-capture-a) · [C](core_05.040_band_continuity.md#system-capture-c)
-- [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
-</details>
-
-<br>
-
-*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).*
-
-Any claim about the matters below must be checked against what the whole system actually does over time. A slogan or a snapshot of one part at one moment is not enough:
-
-- classification;
-- compliance;
-- governance;
-- limitation;
-- recognition;
-- validation;
-- continued reliance;
-- deployment;
-- release-from-conditions.
-
-The detailed evaluation factors and System Certification Records are owned by:
-- **[Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)**;
-- **[Chapter Nine §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)**;
-- **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**.
-
-That Chapter Nine process:
-- is principle-layer auditing under [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional);
-- is one especially large audit process among sibling modes;
-- does not relocate or replace **Article XVI** (*Audit, Transparency, and Independent Verification*).
-
-<br>
 
 ---
 
 **Previous file:** [core_00.000_preamble.md](core_00.000_preamble.md)
 
-**Next file:** [core_01.005_interaction_interpretation.md](core_01.005_interaction_interpretation.md)
+**Next file:** [core_01.010_values_principles_continuity_aim.md](core_01.010_values_principles_continuity_aim.md)

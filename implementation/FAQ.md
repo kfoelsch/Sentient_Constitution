@@ -9,25 +9,25 @@
 
 ### 1. Does reading this bind me?
 
-No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Nineteen adoption document exists in **that body’s** custody.
+No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Twenty-Seven adoption document exists in **that body’s** custody.
 
-See: [Chapter Nineteen §10](../core_19.000_amendment_ratification.md#10-ratification-and-adoption); [Chapter Twenty §4](../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
+See: [Chapter Twenty-Seven §11](../core_27.000_amendment_ratification.md#11-ratification-and-adoption); [Chapter Twenty-Eight §4](../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
 ### 2. Does it override my country’s laws?
 
 No. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework.
 
-See: [Chapter Eighteen §5](../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law).
+See: [Chapter Twenty-Six §6](../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law).
 
 ### 3. Who counts, and who decides?
 
 Who is protected is a sentience-status question with a default-inclusion floor while that question is unresolved. A trust score, a participation vote, or a product label is not that decision.
 
-See: [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Article XIX-A](../core_06.015_rights_part_d.md#article-xix-a-standing-distinction).
+See: [Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Article XIX-A](../core_06.030_rights_part_d.md#article-xix-a-standing-distinction).
 
 ### 4. What is the difference between using it as a handbook and a body agreeing to follow it?
 
-Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Nineteen adoption document. Attach the non-adoption banner when that is the actual situation.
+Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Twenty-Seven adoption document. Attach the non-adoption banner when that is the actual situation.
 
 See: [START_HERE.md §2](../START_HERE.md#2-two-ways-to-use-it); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
 
@@ -35,7 +35,7 @@ See: [START_HERE.md §2](../START_HERE.md#2-two-ways-to-use-it); [FIT_SITUATIONS
 
 Ordinary local, national, and international law still apply. This page is not a substitute for those paths. If a body that actually runs the system has agreed to follow this Constitution, start with a real way to challenge, get review, and be made whole — and with finding the home if the path is hidden.
 
-See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XIII-A](../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
+See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
 
 ### 6. Why are there so many files?
 
@@ -47,7 +47,7 @@ See: [README — What counts as the Constitution](../README.md#binding-vs-suppor
 
 No. Human and AI stewards share one standard. Do not invent an AI-only overlay. Do not exempt humans from the costly cases.
 
-See: [Chapter One §17.1](../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
+See: [Chapter One §17.1](../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
 
 ### 8. What is the Rights Floor?
 
@@ -59,7 +59,7 @@ See: [Rights Floor wall sheet](../doc_architecture/generated/rights_floor_sheet.
 
 A filed case is not standing by itself. Help and harm, when they matter, have to be verified and written on two separate tracks. Rumors and dispute stories are not that record.
 
-See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened); [Chapter Twelve](../core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it).
+See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Fifteen](../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened); [Chapter Sixteen](../core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it).
 
 ### 10. What if there is a crisis?
 

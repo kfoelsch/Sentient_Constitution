@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*) through **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*) through **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
+  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
@@ -62,7 +62,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00.000_p
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §15.1, §19.1, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -159,7 +159,7 @@ Domain and sector classification mapping
 *In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)…*
 
 - **What it is**
-  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-16.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-24.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in domain and sector classification mapping.
 <a id="domain-and-sector-classification-mapping-a"></a>
 - **How to measure and assess**
@@ -271,7 +271,7 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*)
 - Read with: [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)
-- Read with: [**CS-16.305**](../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-critical-system-stewardship) (*Critical system stewardship*)
+- Read with: [**CS-24.305**](../corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship) (*Critical system stewardship*)
 - Read with: **Article XXI** (*Interoperability, Portability, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
@@ -279,7 +279,7 @@ Substitutability, exit constraints, and mitigation duties
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §15.1, §18.1, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -342,7 +342,7 @@ Closed-format justification and open-format Adoption Transition controls
 *In plain terms: when a system uses a closed format, interface, or protocol, it must show that no open option meets a real requirement, still offer an open way out, and review the choice over time. Systems already running have one year by default to move to open formats, apart from the way out, which applies at once.*
 
 - **What it is**
-  - **In scope:** Justification, disclosure, and Adoption Transition duties for closed formats, interfaces, and protocols under [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). A closed choice is justified only where no open alternative meets a material requirement — such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must record the justification in auditable form, offer the best available open export and disclose what it loses, document the closed format enough to enable migration or deposit that documentation with an independent escrow, and review the choice periodically and at each materially impactful certification or revalidation. Systems already in operation when the sub-article first applies must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within one year by default. Adopters may set a different period for classes of systems with published justification, and individual extensions require documented, reviewable, time-bound justification. The exit duty is not subject to transition.
+  - **In scope:** Justification, disclosure, and Adoption Transition duties for closed formats, interfaces, and protocols under [Article XXI-D](../core_06.030_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). A closed choice is justified only where no open alternative meets a material requirement — such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must record the justification in auditable form, offer the best available open export and disclose what it loses, document the closed format enough to enable migration or deposit that documentation with an independent escrow, and review the choice periodically and at each materially impactful certification or revalidation. Systems already in operation when the sub-article first applies must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within one year by default. Adopters may set a different period for classes of systems with published justification, and individual extensions require documented, reviewable, time-bound justification. The exit duty is not subject to transition.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in closed-format justification and open-format Adoption Transition.
 <a id="closed-format-justification-and-open-format-adoption-transition-controls-a"></a>
 - **How to measure and assess**
@@ -509,10 +509,10 @@ Innovation-reward duration and reclassification controls
 <a id="interchange-and-open-interface-baseline"></a>
 Interchange and open-interface baseline
 
-*In plain terms: material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a closed choice is justified under [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*).*
+*In plain terms: material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a closed choice is justified under [Article XXI-D](../core_06.030_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*).*
 
 - **What it is**
-  - **In scope:** Material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a closed choice is justified under [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). Integration boundaries relied on by others use open standards and protocols by default.
+  - **In scope:** Material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a closed choice is justified under [Article XXI-D](../core_06.030_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). Integration boundaries relied on by others use open standards and protocols by default.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in interchange and open-interface baseline.
 <a id="interchange-and-open-interface-baseline-a"></a>
 - **How to measure and assess**
@@ -543,10 +543,10 @@ Lock-in and anti-coercion safeguards
 <a id="open-data-format-and-protocol-presumption"></a>
 Open data-format and protocol presumption
 
-*In plain terms: **Class A**, **Class B**, and **Class C** systems must use open data formats, schemas, APIs, and interchange protocols — as [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*) defines open — for material portability, audit, repair, continuity, and migration functions, unless no open alternative meets a material requirement.*
+*In plain terms: **Class A**, **Class B**, and **Class C** systems must use open data formats, schemas, APIs, and interchange protocols — as [Article XXI-D](../core_06.030_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*) defines open — for material portability, audit, repair, continuity, and migration functions, unless no open alternative meets a material requirement.*
 
 - **What it is**
-  - **In scope:** **Class A**, **Class B**, and **Class C** systems must use open, documented, stable, and standards-compatible data formats, schemas, APIs, and interchange protocols for material portability, audit, repair, continuity, and migration functions unless a closed format or interface is justified under [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). "Open" has the meaning in that sub-article: a publicly available complete specification, implementable without permission, fees, or royalties, and not changeable unilaterally by a single party unless freely forkable.
+  - **In scope:** **Class A**, **Class B**, and **Class C** systems must use open, documented, stable, and standards-compatible data formats, schemas, APIs, and interchange protocols for material portability, audit, repair, continuity, and migration functions unless a closed format or interface is justified under [Article XXI-D](../core_06.030_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). "Open" has the meaning in that sub-article: a publicly available complete specification, implementable without permission, fees, or royalties, and not changeable unilaterally by a single party unless freely forkable.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in open data-format and protocol presumption.
 <a id="open-data-format-and-protocol-presumption-a"></a>
 - **How to measure and assess**
@@ -632,7 +632,7 @@ Right-to-exit pathway integrity
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter One basis: §15.2, §18.2, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -866,7 +866,7 @@ Transparency disclosures and stakeholder legibility
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §15.1, §18.1, §14, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -1100,7 +1100,7 @@ Signaling integrity and anti-silent-failure controls
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
 - Chapter One basis: §15.1, §18.1, §19.1, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 

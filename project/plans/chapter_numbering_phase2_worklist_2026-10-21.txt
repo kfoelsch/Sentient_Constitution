@@ -80,9 +80,9 @@ range/list expressions for manual review: 78
   corpus_systems/cs_00_registry_and_reading_rules.md:40: > - Technical requirements map primarily to **CJS-3.2–CJS-3.6** (*Oversight leg*), **CJS-3.7–CJS-3.10** (*Participation leg*), **CJS-3.16–CJS-3.21** (*Continuity aim*), and **CJS-3.22–CJS-3.23** (*Integrative cross-leg*).
   corpus_systems/cs_00_registry_and_reading_rules.md:41: > - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-3.11–CJS-3.15** (*Accountability leg*), together with Chapter Fourteen decision-resolution requirements.
   corpus_systems/cs_00_registry_and_reading_rules.md:44: > - **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in **CS-2–CS-4**; other corpus files reference these labels.
-  project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md:1279: - **Read with:** CI-13.1 to CI-13.3; CI-28.1 to CI-28.3; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail.
-  project/MEMLOG.md:19: **2026-10-18 to 2026-10-19 (merged into `origin/main`):** the CI-13 split into CI-13 (*Institutional failure and dissolution*, CI-13.1 to CI-13.4) and CI-28 (*Institutional accountability and sanctions*, CI-28.1 to CI-28.6); time windows and Document at Action (Chapter One §16.4); the CS-4 rewrite; 
-  project/MEMLOG.md:21: **2026-10-14 to 2026-10-17 (merged earlier):** Domain-Specific Materiality is the one nine-question test for a material act and for Class L (Class P split into a private unit and ordinary community activity); Chapter Seven follows the order of its one chart; CI-13.1 to CI-13.10 give the consequence 
+  project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md:1279: - **Read with:** CI-17.1 to CI-17.3; CI-28.1 to CI-28.3; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail.
+  project/MEMLOG.md:19: **2026-10-18 to 2026-10-19 (merged into `origin/main`):** the CI-13 split into CI-13 (*Institutional failure and dissolution*, CI-17.1 to CI-17.4) and CI-28 (*Institutional accountability and sanctions*, CI-28.1 to CI-28.6); time windows and Document at Action (Chapter One §16.4); the CS-4 rewrite; 
+  project/MEMLOG.md:21: **2026-10-14 to 2026-10-17 (merged earlier):** Domain-Specific Materiality is the one nine-question test for a material act and for Class L (Class P split into a private unit and ordinary community activity); Chapter Seven follows the order of its one chart; CI-17.1 to CI-17.10 give the consequence 
   implementation/ROLE_SEPARATION_MATRIX.md:1: # Role separation quick reference
   implementation/PRE_PUBLICATION_SPEC.md:3: **Status:** Draft v0.27 (CI-15–CI-25 domain companions compressed to local owner maps; process support; cannot narrow core; does **not** drop **pre-release**. Prior v0.26: LEQU calibration reference shipped under [`LEQU_CALIBRATION_REFERENCE.md`](LEQU_CALIBRATION_REFERENCE.md); process support; cann
   implementation/PRE_PUBLICATION_SPEC.md:7: **Progress pointer:** Restore-challenge clocks shipped 2026-08-12 ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden); reuse [Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay
@@ -97,7 +97,7 @@ range/list expressions for manual review: 78
   project/plans/ai_corpus_optimization_plan.md:59: | `corpus_institutions.md` | ~940 | Adopted | Institutional governance (CI-1 to CI-26) |
   project/plain_language/Article_XXVIII_plain_language.md:156: **The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-14.1 to CI-14.3 and in adopting documents. None of them can weaken this Article, Chapter Ten, or Article XX-B.
   project/plain_language/Article_XXVIII_plain_language.md:164: - **How non-compliant property and systems are handled and how voluntary turnover programs run:** CI-14.1 through CI-14.3.
-  tools/architecture/regression_scenarios.json:2295: "read_with": "CI-13.1 to CI-13.3; CI-28.1 to CI-28.3; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail."
+  tools/architecture/regression_scenarios.json:2295: "read_with": "CI-17.1 to CI-17.3; CI-28.1 to CI-28.3; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail."
   tools/architecture/family_map.json:104: "label": "CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam",
   tools/architecture/family_map.json:116: "label": "CJS-1.13–CJS-1.14: oDef parse mechanics",
   tools/architecture/family_map.json:134: "label": "CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment",
@@ -208,8 +208,8 @@ planned file renames:
   corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md -> corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md
   corpus_institutions/ci_13_institutional_failure_dissolution.md -> corpus_institutions/ci_11.210_institutional_failure_dissolution.md
   corpus_institutions/ci_28_institutional_accountability_sanctions.md -> corpus_institutions/ci_11.215_institutional_accountability_sanctions.md
-  corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md -> corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md
-  corpus_institutions/ci_12_cross_institution_coordination_escalation.md -> corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md
+  corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md -> corpus_institutions/ci_20.205_procedure_integrity_contestability_secondary_review.md
+  corpus_institutions/ci_12_cross_institution_coordination_escalation.md -> corpus_institutions/ci_19.210_cross_institution_coordination_escalation.md
   corpus_forum/cf_03_forum_formation_chamber_structure.md -> corpus_forum/cf_13.405_forum_formation_chamber_structure.md
   corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md -> corpus_forum/cf_13.410_panel_formation_disclosure_recusal_bench_constitution.md
   corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md -> corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md

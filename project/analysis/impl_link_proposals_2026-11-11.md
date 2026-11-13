@@ -2,7 +2,7 @@
 
 **Status:** working analysis, not corpus. Nothing here has been applied. It follows `impl_link_gaps_2026-11-11.md`.
 
-**Pattern found.** Chapter Six already links implementation files from inside the Rights Floor Article, in a bullet that starts "Institutional implementation:" (for example Article VII-E to CI-6.240, and Article VI-C to CI-6.205 and CI-6.220). It does not use the Trace widget for them. Chapter Fifteen uses Trace Downstream bullets with a short gloss. The proposals below follow each chapter's own pattern. For Chapter Six, each one adds a sentence to binding Article text. It is a pointer only and moves no duty, but it is a wording change to a Rights Floor Article, so it needs a decision.
+**Pattern found.** Chapter Six already links implementation files from inside the Rights Floor Article, in a bullet that starts "Institutional implementation:" (for example Article VII-E to CI-6.240, and Article VI-C to CI-6.205 and CI-6.220). It does not use the Trace widget for them. Chapter Twenty-Three uses Trace Downstream bullets with a short gloss. The proposals below follow each chapter's own pattern. For Chapter Six, each one adds a sentence to binding Article text. It is a pointer only and moves no duty, but it is a wording change to a Rights Floor Article, so it needs a decision.
 
 **Where each file points.** Each Chapter Six file lists the Articles it implements under "Shared rules live elsewhere" in its own body. The targets below come from those lists. Line numbers are as of today.
 
@@ -15,11 +15,11 @@
 | 5 | CI-6.250 (community life, voluntary association, non-instrumental time) | Article XI-D *Assembly, Dissent, and Peaceful Protest* (`core_06.005`, line 1594) for §1; Article XI-F *Non-Imposition and Consent in Association* (line 1768) for §2 | Body pointer in each Article |
 | 6 | CI-6.260 (place-based stewardship, Indigenous continuity, consultation routes) | Article VI-C *Nondiscrimination* (`core_06.005`, line 223) and Article I-A *Environmental Preconditions and Ecological Integrity* (`core_06.000`, line 245). Optionally the Chapter Five *Indigenous Continuity* definition in its Trace. | Body pointer in each Article |
 | 7 | CI-6.265 (innovation reward, disclosure, anti-enclosure) | Article XVIII-D *Innovation Reward, Disclosure, and Anti-Enclosure* (`core_06.010`, line 1540); XVIII-E and XVIII-F are optional | Body pointer in Article XVIII-D |
-| 8 | CS-6.355 (subversion response, replacement, reconstitution) | Article XXV *Constitutional Interpretation, Review, and Anti-Capture Safeguards* (`core_06.015`, line 1344); optionally Chapter Fifteen §6.1 | Body pointer in Article XXV |
-| 9 | CF-15.450 (forum continuity) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream, beside the CF files already listed | Trace Downstream bullet, plus one body sentence at the end of §6.1 |
-| 10 | CF-15.455 (fallback operation) | `core_15.000` §3 *Transfer, consolidation, and coordination — continuity and anti-capture* (line 346) and §6.1; Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
-| 11 | CF-15.460 (emergency adjudication) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
-| 12 | CJS-20.105 (drafting contracts and owner-to-CJS seam (for editors and auditors)) | `core_20.000` Trace, as a "Read with" bullet beside CJS-20.110 | Trace only. No body sentence, and no closing line |
+| 8 | CS-6.355 (subversion response, replacement, reconstitution) | Article XXV *Constitutional Interpretation, Review, and Anti-Capture Safeguards* (`core_06.015`, line 1344); optionally Chapter Twenty-Three §6.1 | Body pointer in Article XXV |
+| 9 | CF-23.450 (forum continuity) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream, beside the CF files already listed | Trace Downstream bullet, plus one body sentence at the end of §6.1 |
+| 10 | CF-23.455 (fallback operation) | `core_15.000` §3 *Transfer, consolidation, and coordination — continuity and anti-capture* (line 346) and §6.1; Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
+| 11 | CF-23.460 (emergency adjudication) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
+| 12 | CJS-28.105 (drafting contracts and owner-to-CJS seam (for editors and auditors)) | `core_20.000` Trace, as a "Read with" bullet beside CJS-28.110 | Trace only. No body sentence, and no closing line |
 
 ## Draft wording and notes
 
@@ -39,7 +39,7 @@
 
 - **Institutional implementation:** Support bundles, stigma controls, care-first routing, and emergency sunset review for collective public-health measures are governed by [**CI-6.235**](corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md#ci-6235-collective-public-health-epidemic-response-and-addiction-informed-care) (*Collective public health, epidemic response, and addiction-informed care*).
 
-*Confidence and notes:* High for VII-C. The file also cites Chapter Fifteen §6.1, which is already covered below.
+*Confidence and notes:* High for VII-C. The file also cites Chapter Twenty-Three §6.1, which is already covered below.
 
 ### 4. CI-6.245
 
@@ -71,33 +71,33 @@
 
 *Confidence and notes:* Medium. The file also implements Articles XXVI, XXVIII-A and XXVIII-C, so XXV is the closest fit to "anti-capture", not the only one.
 
-### 9. CF-15.450
+### 9. CF-23.450
 
-- **Institutional implementation:** Forum continuity, fallback substitution, and emergency adjudication are governed by [**CF-15.450**](corpus_forum/cf_15.450_forum_continuity.md#cf-15450-forum-continuity) (*Forum continuity*), [**CF-15.455**](corpus_forum/cf_15.455_fallback_operation.md#cf-15455-fallback-operation) (*Fallback operation*), and [**CF-15.460**](corpus_forum/cf_15.460_emergency_adjudication.md#cf-15460-emergency-adjudication) (*Emergency adjudication*).
+- **Institutional implementation:** Forum continuity, fallback substitution, and emergency adjudication are governed by [**CF-23.450**](corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*), [**CF-23.455**](corpus_forum/cf_23.455_fallback_operation.md#cf-23455-fallback-operation) (*Fallback operation*), and [**CF-23.460**](corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*).
 
 *Confidence and notes:* High. One sentence can cover all three files; they cross-refer to each other already.
 
-### 10. CF-15.455
+### 10. CF-23.455
 
-Draft: (same sentence as CF-15.450; in §3, name CF-15.455 for the transfer-away-from-a-compromised-family case)
+Draft: (same sentence as CF-23.450; in §3, name CF-23.455 for the transfer-away-from-a-compromised-family case)
 
 *Confidence and notes:* High for the Trace bullet. The §3 body sentence is optional.
 
-### 11. CF-15.460
+### 11. CF-23.460
 
-Draft: (same sentence as CF-15.450)
+Draft: (same sentence as CF-23.450)
 
 *Confidence and notes:* High. §6.1 is the constitutional rule this file operationalizes.
 
-### 12. CJS-20.105
+### 12. CJS-28.105
 
-Draft: - Read with: [CJS-20.105](corpus_joint_structure/cjs_20.105_drafting_contracts.md#cjs-20105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-20.110](corpus_joint_structure/cjs_20.110_specific_joint_interlocks.md#cjs-20110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
+Draft: - Read with: [CJS-28.105](corpus_joint_structure/cjs_28.105_drafting_contracts.md#cjs-28105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-28.110](corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md#cjs-28110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
 
-*Confidence and notes:* Low priority. The file says average readers can skip it. Linking it is a consistency choice, not a reader need. CJS-20.110 is cited from five core chapters but not from Chapter 20.
+*Confidence and notes:* Low priority. The file says average readers can skip it. Linking it is a consistency choice, not a reader need. CJS-28.110 is cited from five core chapters but not from Chapter 20.
 
 ## Decisions for the custodian
 
 1. **Chapter Six pointers in Article text.** Seven proposals add an "Institutional implementation" bullet to a Rights Floor Article. Do you want them, or Trace-only links for Chapter Six?
 2. **Primary Article** for CI-6.245 (X-A, XI-F or VIII-A) and for CS-6.355 (XXV, XXVI or XXVIII-C).
-3. **CJS-20.105:** link it from Chapter 20 Trace or leave it unlinked as an editors-and-auditors file.
+3. **CJS-28.105:** link it from Chapter 28 Trace or leave it unlinked as an editors-and-auditors file.
 4. **Translations:** these edits would make the translated core files stale. Translations are paused, so no action is needed now.

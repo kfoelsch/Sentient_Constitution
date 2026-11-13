@@ -75,7 +75,7 @@ def render_pack(root: Path) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** This pack is process support. It is **not** the Constitution. It **cannot narrow** numbered `core_*` files. Opening or printing it is not [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption. It does **not** override local, national, or international law ([Chapter Eighteen §5](../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). The wall sheet is one sentence per Article; the numbered Chapter Six files bind. If this pack and a source file disagree, the source file wins.",
+        "> **Reader guidance (non-operative).** This pack is process support. It is **not** the Constitution. It **cannot narrow** numbered `core_*` files. Opening or printing it is not [Chapter Nineteen §10](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption. It does **not** override local, national, or international law ([Chapter Eighteen §5](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). The wall sheet is one sentence per Article; the numbered Chapter Six files bind. If this pack and a source file disagree, the source file wins.",
         "",
         "Human door: [`implementation/PRINT_PACK.md`](../../implementation/PRINT_PACK.md).",
         "",
@@ -89,10 +89,10 @@ def render_pack(root: Path) -> str:
             "",
             "Full Chapter Six source (not inlined here; too long for a first-hour pack): "
             "[part A](../../core_06.000_rights_part_a.md), "
-            "[part B](../../core_06.005_rights_part_b.md), "
-            "[part C](../../core_06.010_rights_part_c.md), "
-            "[part D](../../core_06.015_rights_part_d.md), "
-            "[part E](../../core_06.020_rights_part_e.md).",
+            "[part B](../../core_06.010_rights_part_b.md), "
+            "[part C](../../core_06.020_rights_part_c.md), "
+            "[part D](../../core_06.030_rights_part_d.md), "
+            "[part E](../../core_06.040_rights_part_e.md).",
             "",
         ]
     )

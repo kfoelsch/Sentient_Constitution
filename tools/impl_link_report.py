@@ -9,7 +9,7 @@ its home chapter:
 * ``widget``   - linked in an Implementation widget or inline ``Implementation:`` line;
 * ``trace``    - linked inside a Trace widget;
 * ``body``     - linked, but only outside a Trace widget;
-* ``id-only``  - named by its ID (for example ``CF-15.425``) but never linked;
+* ``id-only``  - named by its ID (for example ``CF-23.425``) but never linked;
 * ``none``     - neither linked nor named.
 
 A file whose status is ``none`` is then split: named in some other core chapter, or named by no

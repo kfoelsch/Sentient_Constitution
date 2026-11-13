@@ -77,7 +77,7 @@
     {
       "id": "NAV-INDEX-13",
       "legacy_ref": "doc_architecture rule 13",
-      "summary": "Chapter Three section 1 link-only A-Z in-chapter index.",
+      "summary": "Chapter Three section 2 link-only A-Z in-chapter index.",
       "make_target": null,
       "status": "manual"
     },
@@ -223,78 +223,78 @@
     },
     {
       "id": "CH10-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Ten nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Ten labeled institutional certification and record bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twelve nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twelve labeled institutional certification and record bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch10-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH11-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Eleven nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Eleven labeled record and custody bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Fifteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Fifteen labeled record and custody bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch11-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH12-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twelve nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twelve labeled measurement, harm-table, and hand-off bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Sixteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Sixteen labeled measurement, harm-table, and hand-off bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch12-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH13-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Thirteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Thirteen labeled integration, lock, remedy, and routing bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Seventeen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Seventeen labeled integration, lock, remedy, and routing bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch13-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH14-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Fourteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Fourteen labeled designation, safeguard, and named-pattern bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-One nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-One labeled designation, safeguard, and named-pattern bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch14-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH15-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Fifteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Fifteen labeled routing, forum-family, escalation, and support bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Three nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Three labeled routing, forum-family, escalation, and support bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch15-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH16-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Sixteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Sixteen labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Four nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Four labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch16-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH17-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Seventeen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Seventeen labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Five nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Five labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch17-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH18-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Eighteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Eighteen bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Six nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Six bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch18-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH19-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Nineteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Nineteen bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Seven nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Seven bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch19-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH20-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Eight nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Eight bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch20-nested-list-candidates",
       "status": "advisory"
     },
@@ -329,7 +329,7 @@
     {
       "id": "REF-WRAPPER-01",
       "legacy_ref": "section 7 companion family cites (wrapper files)",
-      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Twenty are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
+      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Twenty-Eight are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
       "make_target": "wrapper-cite-audit",
       "status": "blocking"
     },
@@ -378,7 +378,7 @@
     {
       "id": "CH4-CH9-POINTER",
       "legacy_ref": "Chapter Four ↔ Chapter Nine pointer discipline",
-      "summary": "Chapter Nine must cite Chapters Two through Four when applying verification-substrate rules; must not restate Chapter Four §§1–6.",
+      "summary": "Chapter Nine must cite Chapters Two through Four when applying verification-substrate rules; must not restate Chapter Four §§2–7.",
       "make_target": "ch4-ch9-pointer-audit",
       "status": "advisory"
     },
@@ -434,7 +434,7 @@
     {
       "id": "PART-CITE-CHAPTER-01",
       "legacy_ref": "Part-and-section cite names its chapter",
-      "summary": "A `Part A`–`Part F` cite, with or without a section number, whose target is in another chapter than the citing file names that chapter directly before `Part` (`Chapter Nine Part B §7.2 Certification Defects and Correction`, `Chapter Nine Part B`, `CS-6.310 Part B §9.3`), because Part letters repeat from chapter to chapter. Short `Part B` is allowed only inside the chapter that holds it and in a connector run after a qualified cite. Reported without an automatic repair: a qualifier or Part letter that disagrees with the link target (`wrong-chapter`, `part-mismatch`), a bare mention in a file whose chapter has no such Part (`unqualified-part`) or a family document that is not itself a Part (`ambiguous-part`), a qualifier naming a Part the chapter lacks (`unknown-part`, `Chapter Ten Part B`), an unlinked cite whose chapter cannot be found (`unresolved`), and link text that names one chapter while the link goes to another (`link-chapter-mismatch`). `--write` inserts the missing chapter. Headings, code, doc_architecture.md, dated records under implementation/, and dated change-log table rows are out of scope.",
+      "summary": "A `Part A`–`Part F` cite, with or without a section number, whose target is in another chapter than the citing file names that chapter directly before `Part` (`Chapter Ten §3.2 Certification Defects and Correction`, `Chapter Ten`, `CS-6.310 Part B §9.3`), because Part letters repeat from chapter to chapter. Short `Part B` is allowed only inside the chapter that holds it and in a connector run after a qualified cite. Reported without an automatic repair: a qualifier or Part letter that disagrees with the link target (`wrong-chapter`, `part-mismatch`), a bare mention in a file whose chapter has no such Part (`unqualified-part`) or a family document that is not itself a Part (`ambiguous-part`), a qualifier naming a Part the chapter lacks (`unknown-part`, `Chapter Twelve`), an unlinked cite whose chapter cannot be found (`unresolved`), and link text that names one chapter while the link goes to another (`link-chapter-mismatch`). `--write` inserts the missing chapter. Headings, code, doc_architecture.md, dated records under implementation/, and dated change-log table rows are out of scope.",
       "make_target": "part-cite-chapter-audit",
       "status": "blocking"
     },
@@ -482,8 +482,8 @@
     },
     {
       "id": "CH10-DUPLICATION-01",
-      "legacy_ref": "Chapter Ten reuse, not repetition",
-      "summary": "A Chapter Ten sentence of eight words or more that is a near-verbatim copy of Chapter Nine (85% alike after Institution, System, and operator are read as one word) says it once and points to Chapter Nine, or is summarized and keeps only what differs for an Institution. Plain-terms lines and older copies sit in a shrink-only baseline.",
+      "legacy_ref": "Chapter Twelve reuse, not repetition",
+      "summary": "A Chapter Twelve sentence of eight words or more that is a near-verbatim copy of Chapter Nine (85% alike after Institution, System, and operator are read as one word) says it once and points to Chapter Nine, or is summarized and keeps only what differs for an Institution. Plain-terms lines and older copies sit in a shrink-only baseline.",
       "make_target": "ch10-duplication-audit",
       "status": "blocking"
     },
@@ -518,7 +518,7 @@
     {
       "id": "CRITERION-NAMED-01",
       "legacy_ref": "criterion wording",
-      "summary": "A numbered anti-constitutional-misconduct criterion carries the name of every criterion it cites, in a parenthetical right after the number: \"criterion 3 (*Material rollback effect*)\", \"criteria 1 and 2 (*Willful deceptive intent* and *Knowing falsification or suppression*)\", and a range such as \"criteria 1\u20134\" names each of the four. The names are the ones Chapter Fourteen §3.3 gives. A list introduction that ends in a colon and is followed by the numbered definition lines is accepted, and the audit fails if §3.3 stops giving one of the six names. There is no baseline; `python3 tools/criterion_named_audit.py --fix` inserts the names.",
+      "summary": "A numbered anti-constitutional-misconduct criterion carries the name of every criterion it cites, in a parenthetical right after the number: \"criterion 3 (*Material rollback effect*)\", \"criteria 1 and 2 (*Willful deceptive intent* and *Knowing falsification or suppression*)\", and a range such as \"criteria 1\u20134\" names each of the four. The names are the ones Chapter Twenty-One §3.3 gives. A list introduction that ends in a colon and is followed by the numbered definition lines is accepted, and the audit fails if §3.3 stops giving one of the six names. There is no baseline; `python3 tools/criterion_named_audit.py --fix` inserts the names.",
       "make_target": "criterion-named-audit",
       "status": "blocking"
     }

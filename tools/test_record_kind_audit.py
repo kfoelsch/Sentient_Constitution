@@ -64,7 +64,7 @@ class RecordKindTests(unittest.TestCase):
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe custodian holds the record.\n```\nThe custodian holds the record.\n"
-        found = scan_text("core_11.000_standing_assessment.md", text)
+        found = scan_text("core_15.000_standing_assessment.md", text)
         self.assertEqual([f.line for f in found], [4])
         self.assertEqual(scan_text("doc_architecture.md", "The custodian holds the record.\n"), [])
 

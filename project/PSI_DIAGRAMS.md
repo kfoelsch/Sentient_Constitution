@@ -32,7 +32,7 @@ flowchart TB
     direction LR
     sod["Separation of duties (Chapter Eight)<br/><br/>act · check · record · hear challenge"]
     rule["Process-ownership dispute rule<br/><br/>draft, not adopted"]
-    forum["Forums (Chapter Fourteen)<br/><br/>independent review and certification"]
+    forum["Forums (Chapter Twenty-One)<br/><br/>independent review and certification"]
   end
 
   impl["Implementation corpus: CJS · CS · CI · CF<br/><br/>operational detail;<br/>implements, never narrows"]
@@ -80,5 +80,5 @@ flowchart TB
 - "Act on all three" is a summary, not a verified rule. I did not check which layer reaches which object in practice, and a later chart could split it.
 - The arrow into the bottom band covers both disputes and the Four-Seat Requirement. In the earlier version, Process pointed straight at the separation-of-duties box and the dispute rule. Band-to-band links keep each band a horizontal row, so those two pointers are now in the label.
 - Chapter Eight is drawn as a requirement on binding process acts. Its text also covers institutional seats (placement, vacancy, independence lines), so it touches Institution too.
-- The Forums box stands for the whole of Chapter Fourteen, not just dispute routing.
+- The Forums box stands for the whole of Chapter Twenty-One, not just dispute routing.
 - Objects are a proposed index, not adopted structure.

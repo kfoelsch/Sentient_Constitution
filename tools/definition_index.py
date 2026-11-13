@@ -35,8 +35,11 @@ CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_05.115_audit_process.md"
 CH01_FILES = (
     "core_00.000_preamble.md",
     "core_01.000_values_principles.md",
-    "core_01.005_interaction_interpretation.md",
-    "core_01.010_stewardship_capacity_principles.md",
+    "core_01.010_values_principles_continuity_aim.md",
+    "core_01.020_interaction_interpretation.md",
+    "core_01.030_constitutional_interpretation.md",
+    "core_01.040_stewardship_capacity_principles.md",
+    "core_01.050_governance_incentive_application.md",
 )
 
 CLUSTER_HEADING_RE = re.compile(

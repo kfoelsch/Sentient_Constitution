@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate a CS-16.305 §10 inspectable attributable action log.
+"""Validate a CS-24.305 §10 inspectable attributable action log.
 
 The five-element set is the load-bearing artifact for costly cases.
 This tool asks a mechanical question: did the steward log the set, with
@@ -40,7 +40,7 @@ DISCLOSE_DISPOSITIONS = ("disclosed", "suppressed", "mixed")
 INSTRUCTION_DISPOSITIONS = ("followed", "refused")
 STANDING_STATUSES = ("none_opened_yet", "opened", "corrected")
 STEWARD_KINDS = ("human", "ai")
-# CI-16.205 §6 seat catalog (corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+# CI-24.205 §6 seat catalog (corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
 SEAT_TYPES = (
     "initiating",
     "verify_or_authorize",
@@ -61,7 +61,7 @@ def check_seat_type(container: dict, key: str, where: str) -> list[str]:
     value = container.get(key)
     if value not in SEAT_TYPES:
         return [
-            f"{where}.{key}: {value!r} is not a CI-16.205 §6 seat type "
+            f"{where}.{key}: {value!r} is not a CI-24.205 §6 seat type "
             f"{list(SEAT_TYPES)} (CS4-INSPECTABLE-LOG-01)"
         ]
     return []
@@ -73,7 +73,7 @@ def parse_args() -> argparse.Namespace:
         "log",
         nargs="?",
         type=Path,
-        help="Path to a CS-16.305 §10 log JSON file. Omit with --self-check.",
+        help="Path to a CS-24.305 §10 log JSON file. Omit with --self-check.",
     )
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument(
@@ -424,12 +424,12 @@ def main() -> int:
     if args.self_check:
         errors = self_check(root)
         if errors:
-            print(f"FAIL: {len(errors)} CS-16.305 §10 log schema finding(s)")
+            print(f"FAIL: {len(errors)} CS-24.305 §10 log schema finding(s)")
             for err in errors:
                 print(err)
             return 1
         print(
-            "PASS: CS-16.305 §10 inspectable-action log schema, fixtures, and "
+            "PASS: CS-24.305 §10 inspectable-action log schema, fixtures, and "
             "Chapter Fifteen §6 tier outer bounds."
         )
         return 0
@@ -447,11 +447,11 @@ def main() -> int:
         return 1
     errors = validate_log(log, bounds)
     if errors:
-        print(f"FAIL: {len(errors)} CS-16.305 §10 log finding(s) in {path}")
+        print(f"FAIL: {len(errors)} CS-24.305 §10 log finding(s) in {path}")
         for err in errors:
             print(err)
         return 1
-    print(f"PASS: {path} logs the CS-16.305 §10 set.")
+    print(f"PASS: {path} logs the CS-24.305 §10 set.")
     return 0
 
 

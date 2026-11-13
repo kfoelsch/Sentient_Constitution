@@ -10,7 +10,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): reading order and plain-language note</span></strong></summary>
 
-> Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Fourteen** *Misconduct* and **Chapter Eleven** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
+> Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Twenty-One** *Misconduct* and **Chapter Fifteen** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
 
 </details>
 
@@ -49,13 +49,13 @@ Independent and Semi-independent definitions do not require joint satisfaction w
 #### 1.1 Invocation, Satisfaction, and Compliance
 *In plain terms: when an independent definition applies, it must be met in full — no picking the convenient pieces.*
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 3 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
 When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two §1 (*Purpose and Role*)). Partial satisfaction or selective application is non-compliant.
 
-Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
+Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 2 and 3 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
 
-Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
+Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 2 and 3 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
 
 Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
 
@@ -73,7 +73,7 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### 2.1 Joint Invocation and Satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-This is the cluster form of the [Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle). Cluster-local applications appear under **Anti-bypass** (not a second "joint invocation" header). Each lists the cluster's compartments and protected duties and ends with a cite to that principle. They must not reopen with `Under Joint invocation and satisfaction, …`.
+This is the cluster form of the [Anti-Segmentation Principle](core_01.030_constitutional_interpretation.md#1511-anti-segmentation-principle). Cluster-local applications appear under **Anti-bypass** (not a second "joint invocation" header). Each lists the cluster's compartments and protected duties and ends with a cite to that principle. They must not reopen with `Under Joint invocation and satisfaction, …`.
 
 <a id="22-standalone-definitions-interaction-and-full-context"></a>
 

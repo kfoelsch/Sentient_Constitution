@@ -4,20 +4,20 @@
     "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md": {
       "illustrates": [
         "core_09.000_system_alignment_certification_evaluation.md",
-        "core_10.000_institutional_alignment_certification.md"
+        "core_12.000_institutional_alignment_certification_evaluation.md"
       ]
     },
-    "corpus_joint_structure/cjs_11.105_application_vignettes.md": {
+    "corpus_joint_structure/cjs_15.105_application_vignettes.md": {
       "illustrates": [
-        "core_11.000_standing_assessment.md",
-        "core_12.000_standing_measurement.md",
-        "core_13.000_standing_integration.md",
-        "core_13.005_contribution_consequences.md",
-        "core_13.010_violation_consequences.md",
-        "core_13.015_final_effect_restoration_enforcement.md",
-        "core_14.000_misconduct_designation.md",
-        "core_14.005_misconduct_pattern_applications.md",
-        "core_15.000_forum.md"
+        "core_15.000_standing_assessment.md",
+        "core_16.000_standing_measurement.md",
+        "core_17.000_standing_integration.md",
+        "core_18.000_contribution_consequences.md",
+        "core_19.000_violation_consequences.md",
+        "core_20.000_final_effect_restoration_enforcement.md",
+        "core_21.000_misconduct_designation.md",
+        "core_22.000_misconduct_pattern_applications.md",
+        "core_23.000_forum.md"
       ]
     }
   }

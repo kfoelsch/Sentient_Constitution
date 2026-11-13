@@ -1,4 +1,4 @@
-# Chapters Ten–Thirteen Triad / Aims restructure cut list
+# Chapters Twelve–Twenty Triad / Aims restructure cut list
 
 **Date:** 2026-06-19  
 **Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01.000_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
@@ -12,9 +12,9 @@
 | `#chapter-ten-part-a` through `#chapter-ten-part-e` | core_08 — legacy aliases on §§1–6 headers |
 | `#chapter-eleven-part-a` through `#chapter-eleven-part-e` | core_09 — legacy aliases on selected § headers |
 
-**2026-06-19 follow-up:** Removed `## PART X —` heading band across Chapters Ten–Thirteen. Triad / Aims band titles merged into operative `###` / `####` headers. Pipeline map table lists step, job, Triad legs, and aims only (no section index column).
+**2026-06-19 follow-up:** Removed `## PART X —` heading band across Chapters Twelve–Twenty. Triad / Aims band titles merged into operative `###` / `####` headers. Pipeline map table lists step, job, Triad legs, and aims only (no section index column).
 
-## Chapter Ten — section map (section numbers unchanged)
+## Chapter Twelve — section map (section numbers unchanged)
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -24,7 +24,7 @@
 | Flourishing measure | Flourishing | §4.0, Chapter One §15.1 (LEQU baseline), Chapter One §15.2 (primary category defaults) |
 | Accountability measure | Accountability | §3.3 |
 
-## Chapter Eleven — section map
+## Chapter Fifteen — section map
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -34,9 +34,9 @@
 | Oversight vocabulary and attachments | Oversight | §2, §3 |
 | Integrative discipline | All three legs | §4 |
 | Continuity enforcement | Continuity aim | §5 |
-| Chapter Twelve gateway | Continuity + Accountability | §6 |
+| Chapter Sixteen gateway | Continuity + Accountability | §7 |
 
-### Chapter Eleven §3 heading renumber (anchors preserved)
+### Chapter Fifteen §4 heading renumber (anchors preserved)
 
 | Old visible label | New visible label | Preserved anchors |
 |-------------------|-------------------|-------------------|
@@ -50,7 +50,7 @@
 | #### 3.8 Negligence… | #### 3.8 (unchanged) | `#412-negligence-and-neglect-as-violation-nature` |
 | #### 3.16 Stackable harm… | #### 3.9 Stackable harm… | `#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement` |
 
-## Chapter Twelve — section map
+## Chapter Sixteen — section map
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -60,7 +60,7 @@
 | Participation and pathway integrity | Participation | §6 (+ §11.1–6.9) |
 | Cross-chapter discipline | Integrative | §5 |
 
-## Chapter Thirteen — section map (section numbers unchanged; trace fixed)
+## Chapter Seventeen — section map (section numbers unchanged; trace fixed)
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|

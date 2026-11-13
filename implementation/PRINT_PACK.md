@@ -1,6 +1,6 @@
 # Print pack (not adoption)
 
-**Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. Opening or printing it is not [Chapter Nineteen §10](../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption.
+**Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. Opening or printing it is not [Chapter Twenty-Seven §11](../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption.
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../README.md)).
 **Job:** One sitting you can print: what the Constitution is, the Rights Floor in one-liners, the process chain, and one situation brief.
 
@@ -14,7 +14,7 @@ This is **not** a PDF renderer and **not** a second constitution. The generated 
 4. [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md) — certify → measure help and harm → effects/remedy, with independent review along the side.
 5. **One** [easy-entry brief](adoption/easy_entry/README.md#roster) that sounds like your situation. The generated pack inlines [E16](adoption/easy_entry/E16_worker_not_owner.md) as a sample; swap it.
 
-Optional longer sitting (not in the generated file): Chapter Six parts [A](../core_06.000_rights_part_a.md), [B](../core_06.005_rights_part_b.md), [C](../core_06.010_rights_part_c.md), [D](../core_06.020_rights_part_e.md).
+Optional longer sitting (not in the generated file): Chapter Six parts [A](../core_06.000_rights_part_a.md), [B](../core_06.010_rights_part_b.md), [C](../core_06.020_rights_part_c.md), [D](../core_06.040_rights_part_e.md).
 
 ## What this will not pretend to give you
 

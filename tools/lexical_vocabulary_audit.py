@@ -451,7 +451,7 @@ def run_internal_regression_checks() -> None:
         "The formation check scales with class; the standing check does too.\n"
         "The Chartered Party checks and records that the check is done.\n"
         "This checks the structure, and a seat that checks an act is not independent.\n"
-        "See [When a Holder Fails the Formation Check](core_07.000_charters.md#6-when-a-holder-fails-the-formation-check) and the check window.\n"
+        "See [When a Holder Fails the Formation Check](core_07.000_charters.md#7-when-a-holder-fails-the-formation-check) and the check window.\n"
         "`the check` inside backticks is documentation only.\n",
     )
     if len(check_findings) != 3:
@@ -527,7 +527,7 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_bare_placement("doc_architecture.md", "The placement applies.\n"):
         raise RuntimeError("Internal regression failed: bare placement was flagged in the exempt move-log file.")
     designation_findings = scan_avoid_bare_designation(
-        "core_12.000_standing_measurement.md",
+        "core_16.000_standing_measurement.md",
         "The designation attaches to the finding.\n"
         "A final designation triggers the lock.\n"
         "Designation-only review stays separate.\n"
@@ -535,7 +535,7 @@ def run_internal_regression_checks() -> None:
         "The anti-constitutional-misconduct designation and a Chapter Fourteen designation are qualified.\n"
         "A final anti-constitutional-misconduct designation, a backup designation, and a designation of accountable incident authority stay.\n"
         "It does not replace a designation under **Chapter Fourteen**.\n"
-        "See [link](core_14.000_misconduct_designation.md#chapter-fourteen-part-a) and `the designation` in code.\n",
+        "See [link](core_21.000_misconduct_designation.md#chapter-fourteen-part-a) and `the designation` in code.\n",
     )
     if len(designation_findings) != 3:
         raise RuntimeError(
@@ -545,16 +545,16 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError("Internal regression failed: bare designation was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_designation("doc_architecture.md", "The designation applies.\n"):
         raise RuntimeError("Internal regression failed: bare designation was flagged in the exempt move-log file.")
-    if not scan_avoid_bare_designation("core_14.000_misconduct_designation.md", "The designation attaches.\n"):
+    if not scan_avoid_bare_designation("core_21.000_misconduct_designation.md", "The designation attaches.\n"):
         raise RuntimeError("Internal regression failed: bare designation was not flagged in Chapter Fourteen.")
     pass_findings = scan_avoid_bare_pass(
-        "core_10.000_institutional_alignment_certification.md",
+        "core_12.000_institutional_alignment_certification_evaluation.md",
         "Every pass evaluates the items.\n"
         "A certification pass and a review pass are qualified forms, as is a first pass.\n"
         "The system passes the tests and must pass them; tests that pass are fine.\n"
         "It is a pass/fail result, or a pass or fail, or a pass of the review.\n"
         "Keep the passes separate.\n"
-        "See [the review](core_10.000_institutional_alignment_certification.md#the-pass) and `a pass` in code.\n",
+        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#the-pass) and `a pass` in code.\n",
     )
     if len(pass_findings) != 2:
         raise RuntimeError("Internal regression failed: bare pass was not flagged or qualified forms broke.")
@@ -563,12 +563,12 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_bare_pass("doc_architecture.md", "The pass routes.\n"):
         raise RuntimeError("Internal regression failed: bare pass was flagged in the exempt move-log file.")
     run_findings = scan_avoid_bare_run(
-        "core_10.000_institutional_alignment_certification.md",
+        "core_12.000_institutional_alignment_certification_evaluation.md",
         "Every run evaluates the items.\n"
         "A parallel run, a test run, and the long run are qualified; so is the run sheet and a run of results.\n"
         "The system runs the tests; checks run on the tier windows; it is a small business, one run by a few.\n"
         "Keep the runs separate.\n"
-        "See [the review](core_10.000_institutional_alignment_certification.md#the-run) and `a run` in code.\n",
+        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#the-run) and `a run` in code.\n",
     )
     if len(run_findings) != 2:
         raise RuntimeError("Internal regression failed: bare run was not flagged or qualified forms broke.")
@@ -577,11 +577,11 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_bare_run("doc_architecture.md", "The run routes.\n"):
         raise RuntimeError("Internal regression failed: bare run was flagged in the exempt move-log file.")
     component_pass_findings = scan_avoid_component_pass(
-        "core_10.000_institutional_alignment_certification.md",
+        "core_12.000_institutional_alignment_certification_evaluation.md",
         "Each component pass checks its evidence.\n"
         "The Component Passes are separate.\n"
         "A component evaluation, a certification pass, and a component finding are the current terms.\n"
-        "See [the review](core_10.000_institutional_alignment_certification.md#component-pass) and `component pass` in code.\n",
+        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#component-pass) and `component pass` in code.\n",
     )
     if len(component_pass_findings) != 2:
         raise RuntimeError("Internal regression failed: the retired term component pass was not flagged, or current terms were.")
@@ -590,12 +590,12 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_component_pass("doc_architecture.md", "The component pass routes.\n"):
         raise RuntimeError("Internal regression failed: component pass was flagged in the exempt move-log file.")
     design_cause_findings = scan_avoid_design_cause(
-        "core_10.000_institutional_alignment_certification.md",
+        "core_12.000_institutional_alignment_certification_evaluation.md",
         "Where the cause is design, the count stays at zero.\n"
         "The hold applies after a design-cause finding.\n"
         "A design cause is recorded.\n"
         "A finding of design-caused misalignment, an operating-caused one, and a design that causes harm are current wording.\n"
-        "See [the review](core_10.000_institutional_alignment_certification.md#design-cause) and `design cause` in code.\n",
+        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#design-cause) and `design cause` in code.\n",
     )
     if len(design_cause_findings) != 3:
         raise RuntimeError("Internal regression failed: the retired term design cause was not flagged, or current wording was.")
@@ -604,7 +604,7 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_design_cause("doc_architecture.md", "The design cause routes.\n"):
         raise RuntimeError("Internal regression failed: design cause was flagged in the exempt move-log file.")
     condition_findings = scan_avoid_bare_condition(
-        "core_09.005_system_alignment_certification_record_process.md",
+        "core_10.000_system_alignment_certification_forum_process_outcomes.md",
         "A certification can carry certification conditions, and a certification condition ends by fulfillment or release.\n"
         "A certification with or without conditions may go live.\n"
         "The record names every condition required before go-live.\n"
@@ -614,7 +614,7 @@ def run_internal_regression_checks() -> None:
         "The forum verifies, authorizes, declines, or conditions the act.\n"
         "The lock names the conditions under which it lifts.\n"
         "A missed condition fulfillment is a defect.\n"
-        "See [the gate](core_09.005_system_alignment_certification_record_process.md#conditions) and `release from conditions` in code.\n",
+        "See [the gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#conditions) and `release from conditions` in code.\n",
     )
     if len(condition_findings) != 5:
         raise RuntimeError("Internal regression failed: bare condition was not flagged or qualified forms broke.")
@@ -623,18 +623,18 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_bare_condition("doc_architecture.md", "A certification with or without conditions.\n"):
         raise RuntimeError("Internal regression failed: bare condition was flagged in the exempt move-log file.")
     cq_findings = scan_avoid_certify_question(
-        "core_15.000_forum.md",
+        "core_23.000_forum.md",
         "The lead forum must refer, certify, or stay the matter.\n"
         "A certified constitutional question reaches the Constitutional Forum.\n"
         "The forum may certify a question to another family.\n"
-        "See [Chapter Fifteen §5 Escalation and certification](core_15.000_forum.md#5-escalation-and-questions-for-ruling).\n"
+        "See [Chapter Fifteen §5 Escalation and certification](core_23.000_forum.md#5-escalation-and-questions-for-ruling).\n"
         "The lead forum must refer, send for ruling, or stay the matter, and a question for ruling waits for the answer.\n"
         "Conditional certification is an outcome, and a certification challenge may follow a referral.\n"
         "The forum grants provisional certification or full certification.\n",
     )
     if len(cq_findings) != 4:
         raise RuntimeError("Internal regression failed: certify-a-question wording was not flagged or the certification outcomes broke.")
-    if not scan_avoid_certify_question("core_09.005_system_alignment_certification_record_process.md", "A certified question waits.\n"):
+    if not scan_avoid_certify_question("core_10.000_system_alignment_certification_forum_process_outcomes.md", "A certified question waits.\n"):
         raise RuntimeError("Internal regression failed: certify-a-question wording was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_certify_question("doc_architecture.md", "A certified question waits.\n"):
         raise RuntimeError("Internal regression failed: certify-a-question wording was flagged in the exempt move-log file.")
@@ -698,7 +698,7 @@ def run_internal_regression_checks() -> None:
         "A system moves through a class transition under Article XVIII-C.\n"
         "Mode transitions must be trigger-defined.\n"
         "Labor displacement needs transition support.\n"
-        "See [the window](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window).\n"
+        "See [the window](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window).\n"
         "`transition window` inside backticks is documentation only.\n",
     )
     if len(adoption_transition_findings) != 6:
@@ -723,7 +723,7 @@ def run_internal_regression_checks() -> None:
         "Temporary interim measures must be time-limited.\n"
         "Mode transitions must be trigger-defined.\n"
         "Labor displacement needs transition support.\n"
-        "See [the article](core_06.010_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes).\n"
+        "See [the article](core_06.020_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes).\n"
         "`transitional recognition` inside backticks is documentation only.\n",
     )
     if len(transition_sense_findings) != 9:
@@ -816,7 +816,7 @@ def run_internal_regression_checks() -> None:
         "The Environment forum family reviews ecology.\n"
         "Sentient Forums, Technical Forum Domains, and Institutional Forums are correct.\n"
         "Each forum family and the lead forum keep lowercase forum.\n"
-        "See [the section](core_15.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
+        "See [the section](core_23.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
         "An anchor id=\"41-sentient-forums\" is not prose.\n",
     )
     if len(forum_casing_findings) != 4:

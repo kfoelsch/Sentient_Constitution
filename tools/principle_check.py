@@ -10,7 +10,7 @@ context; a match does not establish that a reference is required.
 Examples:
 
     python3 tools/principle_check.py --chapter-range 2-9
-    python3 tools/principle_check.py --chapter-range 2-9 --through-file core_09.005_system_alignment_certification_record_process.md
+    python3 tools/principle_check.py --chapter-range 2-9 --through-file core_10.000_system_alignment_certification_forum_process_outcomes.md
     python3 tools/principle_check.py --file core_08.000_functional_independence_separation_of_duties.md --file core_09.000_system_alignment_certification_evaluation.md
     python3 tools/principle_check.py --list-principles
 """
@@ -24,8 +24,11 @@ from pathlib import Path
 
 CH1_FILES = (
     "core_01.000_values_principles.md",
-    "core_01.005_interaction_interpretation.md",
-    "core_01.010_stewardship_capacity_principles.md",
+    "core_01.010_values_principles_continuity_aim.md",
+    "core_01.020_interaction_interpretation.md",
+    "core_01.030_constitutional_interpretation.md",
+    "core_01.040_stewardship_capacity_principles.md",
+    "core_01.050_governance_incentive_application.md",
 )
 CORE_FILE_RE = re.compile(r"^core_(\d{2})\.")
 HEADING_RE = re.compile(r"^#{3,5}\s+(\d+(?:\.\d+)*)(?:\.)?\s+(.+?)\s*$")

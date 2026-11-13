@@ -42,7 +42,7 @@ MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 LEADING_CITE_RE = re.compile(
     r"^(?:(?P<preamble>Preamble)\s+|"
     r"(?:Chapter\s+(?P<chapter>One|Two|Three|Four|Five|Six|Seven|Eight|"
-    r"Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty|\d+)\s+))?"
+    r"Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty-One|Twenty-Two|Twenty-Three|Twenty-Four|Twenty-Five|Twenty-Six|Twenty-Seven|Twenty-Eight|Twenty|\d+)\s+))?"
     r"§+\s*(?P<num>\d+(?:\.\d+)*)\b",
     re.I,
 )

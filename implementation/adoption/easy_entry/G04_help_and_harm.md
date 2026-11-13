@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,19 +25,19 @@ Someone claims you are trusted, or unsafe, because of a story, a flag, or a sing
 - **Today:** A dashboard folds praise and harm into one number. The “good” side wipes the harm.
 - **With this Constitution:** Help and harm stay separate. Verified good conduct does not erase verified harm.
 
-See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
+See: [Chapter Fifteen](../../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
 
 **Rumors are not the record. A filed case is not the record either.**
 - **Today:** Gossip, a relative’s letter, or “we filed” is treated as the finding.
 - **With this Constitution:** Only verified facts enter the official record of verified help or harm. A report waiting to be looked at is not already a verdict. Filing a case, by itself, does not change how trusted you are.
 
-See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Eleven §2.7](../../../core_11.000_standing_assessment.md#27-forum-boundary).
+See: [Chapter Fifteen §3.2](../../../core_15.000_standing_assessment.md#32-silence-is-the-default); [Chapter Fifteen §3.7](../../../core_15.000_standing_assessment.md#37-forum-boundary).
 
 **What follows has to be real on each track.**
 - **Today:** A badge with no extra authority, or a punishment with no repair for the one who was hurt.
 - **With this Constitution:** Verified help can open real clearance to take on more. Verified harm can limit what you may do, require correction, and require those harmed to be made whole — on its own track.
 
-See: [Chapter Thirteen](../../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration).
+See: [Chapter Seventeen](../../../core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows).
 
 ## What to open next
 
@@ -50,12 +50,12 @@ See: [Chapter Thirteen](../../../core_13.000_standing_integration.md#chapter-thi
 
 ## What this will not pretend to give you
 
-- A score of how trusted you are that you can spend like money, or that decides whether you count ([Article XIX-A](../../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)).
+- A score of how trusted you are that you can spend like money, or that decides whether you count ([Article XIX-A](../../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)).
 - A finding, in this handbook, that anyone was helped or harmed in the world. This page is not that record.
-- A way for the subject of a record to verify or enter it on their own ([Chapter Eleven §5](../../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)).
+- A way for the subject of a record to verify or enter it on their own ([Chapter Fifteen §6](../../../core_15.000_standing_assessment.md#6-record-custody-and-opening-authority)).
 
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
 - Public door: [`../../../README.md`](../../../README.md)
-- Worked stories (not extra duties): [`../../../corpus_joint_structure/cjs_11.105_application_vignettes.md`](../../../corpus_joint_structure/cjs_11.105_application_vignettes.md)
+- Worked stories (not extra duties): [`../../../corpus_joint_structure/cjs_15.105_application_vignettes.md`](../../../corpus_joint_structure/cjs_15.105_application_vignettes.md)

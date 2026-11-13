@@ -18,15 +18,15 @@
 - Downstream: Principles:
   - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7);
-  - [Chapter One §16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
-  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5); Chapter One Part B tradeoff and interpretation homes:
-  - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
-  - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);
-  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
-  - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005 §13.2);
-  - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3);
-  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
-  - [Chapter One §15.1.2 Derived-Information Principle](core_01.005_interaction_interpretation.md#1512-derived-information-principle) (1.005 §15.1.2);
+  - [Chapter One §16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.040 §16);
+  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (1.050 §19.1.5); Chapter One Part B tradeoff and interpretation homes:
+  - [Chapter One §13.1.1 Necessity](core_01.020_interaction_interpretation.md#1311-necessity) (1.020 §13.1.1);
+  - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.020 §13.1.4);
+  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.020 §13.1.5);
+  - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.020 §13.2);
+  - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.020 §13.3);
+  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (1.030 §15.1);
+  - [Chapter One §15.1.2 Derived-Information Principle](core_01.030_constitutional_interpretation.md#1512-derived-information-principle) (1.030 §15.1.2);
   - [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight) where the stakeholder layer applies;
   - [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in
   - [core_05.055_band_participation.md](core_05.055_band_participation.md).
@@ -130,7 +130,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
   - [Educational Agency](core_05.055_band_participation.md#educational-agency),
   - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), and the
   - [Privacy (Informational) cluster](core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
+- Read with: Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
 
 </details>
 
