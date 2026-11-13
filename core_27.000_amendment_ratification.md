@@ -358,7 +358,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 - Upstream: [Chapter Twenty-Five §5](core_25.000_non_regression.md#5-layer-scope) (25.000 §5) substantive-chapter mirror; [§8](#8-review-triggers) and [§10](#10-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) and [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (21.000) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Six — Owner Non-Relocation](core_06.000_rights_part_a.md#12-owner-non-relocation) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Six — Owner Non-Relocation](core_06.000_rights_part_a.md#22-owner-non-relocation) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>
 

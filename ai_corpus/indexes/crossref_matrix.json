@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-11-13T17:09:52+00:00",
+  "generated_at": "2026-11-13T19:54:19+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "format": "interned-v1",
   "layout": {"nodes": "[id, type]", "anchors": "distinct anchor strings", "edges": "[source_index, [[target_index, count, [anchor_index, ...]], ...]]"},
@@ -1166,7 +1166,7 @@
     "#cs-6350-adoption-transition-constitution-and-migration-governance",
     "#154-constitutional-meaning-conflict-resolution",
     "#1931-capture-escalation-triggers",
-    "#12-owner-non-relocation",
+    "#22-owner-non-relocation",
     "#article-xii-a-stakeholder-system-participation-and-representation",
     "#32-contribution-magnitude-input-and-violation-severity-input-dimensions",
     "#2-authorization-and-legitimacy-of-governing-authority",
