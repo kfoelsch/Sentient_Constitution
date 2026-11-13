@@ -67,7 +67,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00.000_p
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)
@@ -284,7 +284,7 @@ Substitutability, exit constraints, and mitigation duties
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Proportionality](../core_05.035_band_accountability.md#proportionality) · [O](../core_05.035_band_accountability.md#proportionality) · [M](../core_05.035_band_accountability.md#proportionality-a) · [A](../core_05.035_band_accountability.md#proportionality-a) · [C](../core_05.035_band_accountability.md#proportionality-c)
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)
@@ -637,7 +637,7 @@ Right-to-exit pathway integrity
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Proportionality](../core_05.035_band_accountability.md#proportionality) · [O](../core_05.035_band_accountability.md#proportionality) · [M](../core_05.035_band_accountability.md#proportionality-a) · [A](../core_05.035_band_accountability.md#proportionality-a) · [C](../core_05.035_band_accountability.md#proportionality-c)
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
@@ -871,7 +871,7 @@ Transparency disclosures and stakeholder legibility
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Material Risk](../core_05.050_band_oversight.md#material-risk) · [O](../core_05.050_band_oversight.md#material-risk) · [M](../core_05.050_band_oversight.md#material-risk-a) · [A](../core_05.050_band_oversight.md#material-risk-a) · [C](../core_05.050_band_oversight.md#material-risk-c)
 - [Reversibility](../core_05.040_band_continuity.md#reversibility) · [O](../core_05.040_band_continuity.md#reversibility) · [M](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../core_05.040_band_continuity.md#reversibility-constitutional-c)
@@ -1105,7 +1105,7 @@ Signaling integrity and anti-silent-failure controls
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Irreversible Harm](../core_05.035_band_accountability.md#irreversible-harm) · [O](../core_05.035_band_accountability.md#irreversible-harm) · [M](../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../core_05.035_band_accountability.md#irreversible-harm-c)
 - [Reversibility](../core_05.040_band_continuity.md#reversibility) · [O](../core_05.040_band_continuity.md#reversibility) · [M](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../core_05.040_band_continuity.md#reversibility-constitutional-c)
@@ -1239,7 +1239,7 @@ Rollback and containment capability
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Reversibility](../core_05.040_band_continuity.md#reversibility) · [O](../core_05.040_band_continuity.md#reversibility) · [M](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../core_05.040_band_continuity.md#reversibility-constitutional-c)
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)

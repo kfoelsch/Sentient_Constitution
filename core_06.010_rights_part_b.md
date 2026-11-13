@@ -153,7 +153,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Personhood](core_05.055_band_participation.md#personhood) · [O](core_05.055_band_participation.md#personhood) · [M](core_05.055_band_participation.md#personhood-a) · [A](core_05.055_band_participation.md#personhood-a) · [C](core_05.055_band_participation.md#personhood-c)
@@ -190,7 +190,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) · [O](core_05.055_band_participation.md#sentience-status-adjudication) · [M](core_05.055_band_participation.md#sentience-status-adjudication-constitutional-a) · [A](core_05.055_band_participation.md#sentience-status-adjudication-constitutional-a) · [C](core_05.055_band_participation.md#sentience-status-adjudication-constitutional-c)
 - [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) · [O](core_05.055_band_participation.md#sentience-non-exclusion) · [M](core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](core_05.055_band_participation.md#sentience-non-exclusion)
@@ -240,7 +240,7 @@ This Article sets out the floor for deciding disputed sentience status. The proc
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) · [O](core_05.055_band_participation.md#protected-characteristics) · [M](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 - [Language, Culture, and Heritage](core_05.040_band_continuity.md#language-culture-and-heritage) · [O](core_05.040_band_continuity.md#language-culture-and-heritage) · [M](core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-c)
@@ -301,7 +301,7 @@ This Article sets out the nondiscrimination floor, its protection of language, c
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accessibility](core_05.055_band_participation.md#accessibility) · [O](core_05.055_band_participation.md#accessibility) · [M](core_05.055_band_participation.md#accessibility-constitutional-a) · [A](core_05.055_band_participation.md#accessibility-constitutional-a) · [C](core_05.055_band_participation.md#accessibility-constitutional-c)
 - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) · [O](core_05.055_band_participation.md#protected-characteristics) · [M](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05.055_band_participation.md#protected-characteristics-constitutional-c)
@@ -401,7 +401,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
 - [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) · [O](core_05.040_band_continuity.md#privacy-informational) · [M](core_05.040_band_continuity.md#privacy-informational-a) · [A](core_05.040_band_continuity.md#privacy-informational-a) · [C](core_05.040_band_continuity.md#privacy-informational-c)
@@ -445,7 +445,7 @@ This Article protects each sentient's ownership of their own body and their gene
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 - [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) · [O](core_05.040_band_continuity.md#privacy-informational) · [M](core_05.040_band_continuity.md#privacy-informational-a) · [A](core_05.040_band_continuity.md#privacy-informational-a) · [C](core_05.040_band_continuity.md#privacy-informational-c)
@@ -489,7 +489,7 @@ This Article protects each sentient's inner life — their thoughts, feelings, a
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Bodily-Maintenance Access](core_05.040_band_continuity.md#bodily-maintenance-access) · [O](core_05.040_band_continuity.md#bodily-maintenance-access) · [M](core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-c)
 - [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard) · [O](core_05.055_band_participation.md#best-interest-standard) · [M](core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [A](core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [C](core_05.055_band_participation.md#best-interest-standard-constitutional-c)
@@ -552,7 +552,7 @@ This Article sets out the floor for anything done without a sentient's consent d
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Voluntary Discontinuation](core_05.040_band_continuity.md#voluntary-discontinuation) · [O](core_05.040_band_continuity.md#voluntary-discontinuation) · [M](core_05.040_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](core_05.040_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05.040_band_continuity.md#voluntary-discontinuation-constitutional-c)
 - [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
@@ -611,7 +611,7 @@ This Article sets out the voluntary-discontinuation floor and the safeguards tha
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
 - [Consent, Sexual](core_05.055_band_participation.md#consent-sexual) · [O](core_05.055_band_participation.md#consent-sexual) · [M](core_05.055_band_participation.md#consent-sexual-a) · [A](core_05.055_band_participation.md#consent-sexual-a) · [C](core_05.055_band_participation.md#consent-sexual-c)
@@ -715,7 +715,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Family and Care Relationships](core_05.055_band_participation.md#family-and-care-relationships) · [O](core_05.055_band_participation.md#family-and-care-relationships) · [M](core_05.055_band_participation.md#family-and-care-relationships-constitutional-a) · [A](core_05.055_band_participation.md#family-and-care-relationships-constitutional-a) · [C](core_05.055_band_participation.md#family-and-care-relationships-constitutional-c)
 - [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) · [O](core_05.055_band_participation.md#sentience-non-exclusion) · [M](core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](core_05.055_band_participation.md#sentience-non-exclusion)
@@ -752,7 +752,7 @@ This Article sets out the floor for family and care relationships:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
 - [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
@@ -792,7 +792,7 @@ This Article sets out the floor for reproductive and lineage autonomy:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Derived Sentient](core_05.055_band_participation.md#derived-sentient) · [O](core_05.055_band_participation.md#derived-sentient) · [M](core_05.055_band_participation.md#derived-sentient-constitutional-a) · [A](core_05.055_band_participation.md#derived-sentient-constitutional-a) · [C](core_05.055_band_participation.md#derived-sentient-constitutional-c)
 - [Instantiation Consent](core_05.055_band_participation.md#instantiation-consent) · [O](core_05.055_band_participation.md#instantiation-consent) · [M](core_05.055_band_participation.md#instantiation-consent-constitutional-a) · [A](core_05.055_band_participation.md#instantiation-consent-constitutional-a) · [C](core_05.055_band_participation.md#instantiation-consent-constitutional-c)
@@ -856,7 +856,7 @@ This Article sets out how derived sentients are recognized and the limits on the
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Developing Sentient](core_05.055_band_participation.md#developing-sentient) · [O](core_05.055_band_participation.md#developing-sentient) · [M](core_05.055_band_participation.md#developing-sentient-constitutional-a) · [A](core_05.055_band_participation.md#developing-sentient-constitutional-a) · [C](core_05.055_band_participation.md#developing-sentient-constitutional-c)
 - [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard) · [O](core_05.055_band_participation.md#best-interest-standard) · [M](core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [A](core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [C](core_05.055_band_participation.md#best-interest-standard-constitutional-c)
@@ -911,7 +911,7 @@ This Article sets out the floor for developing sentients, the best-interest stan
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Non-Separation](core_05.055_band_participation.md#non-separation) · [O](core_05.055_band_participation.md#non-separation) · [M](core_05.055_band_participation.md#non-separation-constitutional-a) · [A](core_05.055_band_participation.md#non-separation-constitutional-a) · [C](core_05.055_band_participation.md#non-separation-constitutional-c)
 - [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
@@ -984,7 +984,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Likeness and Documentary Depiction Interface](core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface) · [O](core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface) · [M](core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-c)
 - [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) · [O](core_05.040_band_continuity.md#privacy-informational) · [M](core_05.040_band_continuity.md#privacy-informational-a) · [A](core_05.040_band_continuity.md#privacy-informational-a) · [C](core_05.040_band_continuity.md#privacy-informational-c)
@@ -1027,7 +1027,7 @@ This Article sets out self-ownership of reputation and likeness and the limits o
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) · [O](core_05.040_band_continuity.md#privacy-informational) · [M](core_05.040_band_continuity.md#privacy-informational-a) · [A](core_05.040_band_continuity.md#privacy-informational-a) · [C](core_05.040_band_continuity.md#privacy-informational-c)
 - [Consent](core_05.055_band_participation.md#consent) · [O](core_05.055_band_participation.md#consent) · [M](core_05.055_band_participation.md#consent-constitutional-a) · [A](core_05.055_band_participation.md#consent-constitutional-a) · [C](core_05.055_band_participation.md#consent-constitutional-c)
@@ -1079,7 +1079,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Good Faith](core_05.035_band_accountability.md#good-faith) · [O](core_05.035_band_accountability.md#good-faith) · [M](core_05.035_band_accountability.md#good-faith-a) · [A](core_05.035_band_accountability.md#good-faith-a) · [C](core_05.035_band_accountability.md#good-faith-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
@@ -1139,7 +1139,7 @@ This Article sets out the freedom to publish in good faith and its limits:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Creative Work Attribution](core_05.040_band_continuity.md#creative-work-attribution) · [O](core_05.040_band_continuity.md#creative-work-attribution) · [M](core_05.040_band_continuity.md#creative-work-attribution-constitutional-a) · [A](core_05.040_band_continuity.md#creative-work-attribution-constitutional-a) · [C](core_05.040_band_continuity.md#creative-work-attribution-constitutional-c)
 - [Training-Data Use](core_05.040_band_continuity.md#training-data-use) · [O](core_05.040_band_continuity.md#training-data-use) · [M](core_05.040_band_continuity.md#training-data-use-constitutional-a) · [A](core_05.040_band_continuity.md#training-data-use-constitutional-a) · [C](core_05.040_band_continuity.md#training-data-use-constitutional-c)
@@ -1215,7 +1215,7 @@ These are minimum protections. Adopters may also have copyright, trademark, pate
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Self-Determination](core_05.055_band_participation.md#self-determination) · [O](core_05.055_band_participation.md#self-determination) · [M](core_05.055_band_participation.md#self-determination-constitutional-a) · [A](core_05.055_band_participation.md#self-determination-constitutional-a) · [C](core_05.055_band_participation.md#self-determination-constitutional-c)
 - [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) · [O](core_05.040_band_continuity.md#surveillance-boundary) · [M](core_05.040_band_continuity.md#surveillance-boundary-a) · [A](core_05.040_band_continuity.md#surveillance-boundary-a) · [C](core_05.040_band_continuity.md#surveillance-boundary-c)
@@ -1257,7 +1257,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Self-Determination](core_05.055_band_participation.md#self-determination) · [O](core_05.055_band_participation.md#self-determination) · [M](core_05.055_band_participation.md#self-determination-constitutional-a) · [A](core_05.055_band_participation.md#self-determination-constitutional-a) · [C](core_05.055_band_participation.md#self-determination-constitutional-c)
 - [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) · [O](core_05.040_band_continuity.md#surveillance-boundary) · [M](core_05.040_band_continuity.md#surveillance-boundary-a) · [A](core_05.040_band_continuity.md#surveillance-boundary-a) · [C](core_05.040_band_continuity.md#surveillance-boundary-c)
@@ -1290,7 +1290,7 @@ This Article sets out freedom of agency, freedom from manipulation, and freedom 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Participant Standing](core_05.035_band_accountability.md#participant-standing) · [O](core_05.035_band_accountability.md#participant-standing) · [M](core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_05.035_band_accountability.md#participant-standing-constitutional-c)
 - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) · [O](core_05.055_band_participation.md#stakeholder-weight) · [M](core_05.055_band_participation.md#stakeholder-weight-a) · [A](core_05.055_band_participation.md#stakeholder-weight-a) · [C](core_05.055_band_participation.md#stakeholder-weight-c)
@@ -1327,7 +1327,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Stakeholder](core_05.055_band_participation.md#stakeholder) · [O](core_05.055_band_participation.md#stakeholder) · [M](core_05.055_band_participation.md#stakeholder-a) · [A](core_05.055_band_participation.md#stakeholder-a) · [C](core_05.055_band_participation.md#stakeholder-c)
 - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) · [O](core_05.055_band_participation.md#stakeholder-weight) · [M](core_05.055_band_participation.md#stakeholder-weight-a) · [A](core_05.055_band_participation.md#stakeholder-weight-a) · [C](core_05.055_band_participation.md#stakeholder-weight-c)
@@ -1373,7 +1373,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Stakeholder](core_05.055_band_participation.md#stakeholder) · [O](core_05.055_band_participation.md#stakeholder) · [M](core_05.055_band_participation.md#stakeholder-a) · [A](core_05.055_band_participation.md#stakeholder-a) · [C](core_05.055_band_participation.md#stakeholder-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -1420,7 +1420,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Constitutional Community](core_05.055_band_participation.md#constitutional-community) · [O](core_05.055_band_participation.md#constitutional-community) · [M](core_05.055_band_participation.md#constitutional-community-a) · [A](core_05.055_band_participation.md#constitutional-community-a) · [C](core_05.055_band_participation.md#constitutional-community-c)
 - [Non-Imposition (Cooperative Interaction)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
@@ -1465,7 +1465,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) · [O](core_05.055_band_participation.md#protected-characteristics) · [M](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 - [Non-Imposition (Cooperative Interaction)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
@@ -1514,7 +1514,7 @@ This Article sets out the freedom of conscience, religion, and comparable worldv
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance) · [O](core_05.055_band_participation.md#commercial-compliance) · [M](core_05.055_band_participation.md#commercial-compliance-a) · [A](core_05.055_band_participation.md#commercial-compliance-a) · [C](core_05.055_band_participation.md#commercial-compliance-c)
 - [Expression](core_05.055_band_participation.md#expression) · [O](core_05.055_band_participation.md#expression) · [M](core_05.055_band_participation.md#expression-constitutional-a) · [A](core_05.055_band_participation.md#expression-constitutional-a) · [C](core_05.055_band_participation.md#expression-constitutional-c)
@@ -1578,7 +1578,7 @@ This Article sets out the expression floor and the limitation, anti-chilling, an
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Press and Journalistic Activity](core_05.050_band_oversight.md#press-and-journalistic-activity) · [O](core_05.050_band_oversight.md#press-and-journalistic-activity) · [M](core_05.050_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05.050_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05.050_band_oversight.md#press-and-journalistic-activity-constitutional-c)
 - [Heightened Scrutiny](core_05.050_band_oversight.md#heightened-scrutiny) · [O](core_05.050_band_oversight.md#heightened-scrutiny) · [M](core_05.050_band_oversight.md#heightened-scrutiny-a) · [A](core_05.050_band_oversight.md#heightened-scrutiny-a) · [C](core_05.050_band_oversight.md#heightened-scrutiny-c)
@@ -1620,7 +1620,7 @@ This Article sets out heightened protection for journalistic activity and the cr
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Assembly](core_05.055_band_participation.md#assembly) · [O](core_05.055_band_participation.md#assembly) · [M](core_05.055_band_participation.md#assembly-constitutional-a) · [A](core_05.055_band_participation.md#assembly-constitutional-a) · [C](core_05.055_band_participation.md#assembly-constitutional-c)
 - [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
@@ -1711,7 +1711,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [System Creation](core_05.055_band_participation.md#system-creation) · [O](core_05.055_band_participation.md#system-creation) · [M](core_05.055_band_participation.md#system-creation-constitutional-a) · [A](core_05.055_band_participation.md#system-creation-constitutional-a) · [C](core_05.055_band_participation.md#system-creation-constitutional-c)
 - [Business Creation](core_05.055_band_participation.md#business-creation) · [O](core_05.055_band_participation.md#business-creation) · [M](core_05.055_band_participation.md#business-creation-constitutional-a) · [A](core_05.055_band_participation.md#business-creation-constitutional-a) · [C](core_05.055_band_participation.md#business-creation-constitutional-c)
@@ -1786,7 +1786,7 @@ This Article sets out the right to form institutions and enterprises, the authen
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Non-Imposition (Cooperative Interaction)](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
 - [Harassment and Bullying](core_05.035_band_accountability.md#harassment-and-bullying) · [O](core_05.035_band_accountability.md#harassment-and-bullying) · [M](core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](core_05.035_band_accountability.md#harassment-and-bullying-c)
@@ -1838,7 +1838,7 @@ This Article sets out the floors for non-imposition and consent in association:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Collective Harm Boundary](core_05.035_band_accountability.md#collective-harm-boundary) · [O](core_05.035_band_accountability.md#collective-harm-boundary) · [M](core_05.035_band_accountability.md#collective-harm-boundary-a) · [A](core_05.035_band_accountability.md#collective-harm-boundary-a) · [C](core_05.035_band_accountability.md#collective-harm-boundary-c)
 - [Harassment and Bullying](core_05.035_band_accountability.md#harassment-and-bullying) · [O](core_05.035_band_accountability.md#harassment-and-bullying) · [M](core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](core_05.035_band_accountability.md#harassment-and-bullying-c)
@@ -1886,7 +1886,7 @@ This Article sets out where collective harm begins and how strictly that boundar
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Governance](core_05.035_band_accountability.md#governance) · [O](core_05.035_band_accountability.md#governance) · [M](core_05.035_band_accountability.md#governance-a) · [A](core_05.035_band_accountability.md#governance-a) · [C](core_05.035_band_accountability.md#governance-c)
 - [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice) · [O](core_05.045_band_integrative.md#foundational-constitutional-choice) · [M](core_05.045_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05.045_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05.045_band_integrative.md#foundational-constitutional-choice-c)
@@ -1949,7 +1949,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Stakeholder](core_05.055_band_participation.md#stakeholder) · [O](core_05.055_band_participation.md#stakeholder) · [M](core_05.055_band_participation.md#stakeholder-a) · [A](core_05.055_band_participation.md#stakeholder-a) · [C](core_05.055_band_participation.md#stakeholder-c)
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
@@ -1997,7 +1997,7 @@ This Article sets out the floors for deliberation records, for representation in
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) · [O](core_05.055_band_participation.md#stakeholder-weight) · [M](core_05.055_band_participation.md#stakeholder-weight-a) · [A](core_05.055_band_participation.md#stakeholder-weight-a) · [C](core_05.055_band_participation.md#stakeholder-weight-c)
 - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [O](core_05.055_band_participation.md#procedural-fairness) · [M](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05.055_band_participation.md#procedural-fairness-constitutional-c)
@@ -2039,7 +2039,7 @@ This Article sets out the scope of participation weighting, the constraints on i
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Due Process](core_05.035_band_accountability.md#due-process) · [O](core_05.035_band_accountability.md#due-process) · [M](core_05.035_band_accountability.md#due-process-constitutional-a) · [A](core_05.035_band_accountability.md#due-process-constitutional-a) · [C](core_05.035_band_accountability.md#due-process-constitutional-c)
@@ -2095,7 +2095,7 @@ This Article sets out the floors for internal roles and due process:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [System Capture](core_05.040_band_continuity.md#system-capture) · [O](core_05.040_band_continuity.md#system-capture) · [M](core_05.040_band_continuity.md#system-capture-a) · [A](core_05.040_band_continuity.md#system-capture-a) · [C](core_05.040_band_continuity.md#system-capture-c)
 - [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)
@@ -2201,7 +2201,7 @@ This Article sets out the non-capture safeguards for every body that decides for
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [System Capture](core_05.040_band_continuity.md#system-capture) · [O](core_05.040_band_continuity.md#system-capture) · [M](core_05.040_band_continuity.md#system-capture-a) · [A](core_05.040_band_continuity.md#system-capture-a) · [C](core_05.040_band_continuity.md#system-capture-c)
 - [Anti-Capture](core_05.040_band_continuity.md#anti-capture) · [O](core_05.040_band_continuity.md#anti-capture) · [M](core_05.040_band_continuity.md#anti-capture-a) · [A](core_05.040_band_continuity.md#anti-capture-a) · [C](core_05.040_band_continuity.md#anti-capture-c)

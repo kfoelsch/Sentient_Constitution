@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit <br> spacer discipline after Trace, D/A/C, reader-guidance, and placement widgets.
+"""Audit <br> spacer discipline after Trace, O/M/A/C, reader-guidance, and placement widgets.
 
 Rule: NAV-DAC-12-SPACER in tools/architecture/rule_registry.json: one <br> after the last widget of a
 stack, none between widgets that follow each other.
@@ -19,7 +19,7 @@ from corpus_paths import binding_corpus_scope  # noqa: E402  (AUDIT-SCOPE-01: th
 
 TRACE_SUMMARY = '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>'
 DEC_SUMMARY = (
-    '<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>'
+    '<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>'
 )
 READER_GUIDANCE_RE = re.compile(
     r'<summary><strong><span style="color: #2563eb;">Reader guidance \(non-operative\):'

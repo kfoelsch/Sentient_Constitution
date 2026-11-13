@@ -15,7 +15,7 @@ for f,ps in by.items():
     for i,p in enumerate(ps):
         end=ps[i+1]['body_start'] if i+1<len(ps) else len(L)
         txt='\n'.join(L[p['body_start']:end])
-        wid=re.search(r'<details>(?:(?!</details>).)*?Definitions · Assessment · Compliance.*?</details>',txt,flags=re.S)
+        wid=re.search(r'<details>(?:(?!</details>).)*?Definitions (O · M · A · C).*?</details>',txt,flags=re.S)
         body=txt.replace(wid.group(0),'') if wid else txt
         bl=set();unk=set()
         for u in re.findall(r'\]\((core_05[^)]*)\)',body):

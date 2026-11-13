@@ -351,7 +351,7 @@
     {
       "name": "dac-placement-commentary",
       "pattern": "\\broadmap pointer\\b|\\bre-invokes?\\b|\\bre-invoked\\b|\\boperatively invokes? (?:them|these|those)\\b|\\bcanonical Chapter Five anchors\\b",
-      "suggestion": "Remove visible commentary on D/A/C placement; the widget carries the anchors (NAV-DAC-12)."
+      "suggestion": "Remove visible commentary on O/M/A/C placement; the widget carries the anchors (NAV-DAC-12)."
     },
     {
       "name": "impl-layer-lead-in",

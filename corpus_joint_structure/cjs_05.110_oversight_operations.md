@@ -70,7 +70,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Contestability](../core_05.035_band_accountability.md#contestability) · [O](../core_05.035_band_accountability.md#contestability) · [M](../core_05.035_band_accountability.md#contestability-a) · [A](../core_05.035_band_accountability.md#contestability-a) · [C](../core_05.035_band_accountability.md#contestability-c)
@@ -272,7 +272,7 @@ Transparency, audit, and verification-integrity duties
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Proportionality](../core_05.035_band_accountability.md#proportionality) · [O](../core_05.035_band_accountability.md#proportionality) · [M](../core_05.035_band_accountability.md#proportionality-a) · [A](../core_05.035_band_accountability.md#proportionality-a) · [C](../core_05.035_band_accountability.md#proportionality-c)
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
@@ -401,7 +401,7 @@ Operational transparency and structured logging requirements
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Accessibility](../core_05.055_band_participation.md#accessibility) · [O](../core_05.055_band_participation.md#accessibility) · [M](../core_05.055_band_participation.md#accessibility-constitutional-a) · [A](../core_05.055_band_participation.md#accessibility-constitutional-a) · [C](../core_05.055_band_participation.md#accessibility-constitutional-c)
@@ -614,7 +614,7 @@ Access-level structure and baseline accessibility
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)
 - [Transparency](../core_05.050_band_oversight.md#transparency) · [O](../core_05.050_band_oversight.md#transparency) · [M](../core_05.050_band_oversight.md#transparency-a) · [A](../core_05.050_band_oversight.md#transparency-a) · [C](../core_05.050_band_oversight.md#transparency-c)
@@ -775,7 +775,7 @@ Structured review and incentive-integrity minimum
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Cascading Failure](../core_05.040_band_continuity.md#cascading-failure) · [O](../core_05.040_band_continuity.md#cascading-failure) · [M](../core_05.040_band_continuity.md#cascading-failure-a) · [A](../core_05.040_band_continuity.md#cascading-failure-a) · [C](../core_05.040_band_continuity.md#cascading-failure-c)
 - [Trustworthiness](../core_05.040_band_continuity.md#trustworthiness) · [O](../core_05.040_band_continuity.md#trustworthiness-o) · [M](../core_05.040_band_continuity.md#trustworthiness-a) · [A](../core_05.040_band_continuity.md#trustworthiness-a) · [C](../core_05.040_band_continuity.md#trustworthiness-c)

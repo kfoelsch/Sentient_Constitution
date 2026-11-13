@@ -171,7 +171,7 @@ def _write_index(
         f"- `ch1_cjs3_principle_alignment_report_{date_stamp}.md`",
         f"- `ch1_ch6_alignment_report_{date_stamp}.md`",
         "",
-        "Unexpected orphan Def.* terms (operative Chapter One cite, no D/A/C widget) are coverage findings. Remaining unused cluster leaves and Preamble-only terms are expected non-anchors under NAV-DAC-12. Semantic adequacy of principle-to-article mapping is out of scope of ALIGNMENT_AUDIT.",
+        "Unexpected orphan Def.* terms (operative Chapter One cite, no O/M/A/C widget) are coverage findings. Remaining unused cluster leaves and Preamble-only terms are expected non-anchors under NAV-DAC-12. Semantic adequacy of principle-to-article mapping is out of scope of ALIGNMENT_AUDIT.",
         "",
     ])
 

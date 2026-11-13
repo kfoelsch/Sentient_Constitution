@@ -46,9 +46,9 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
 | Link destinations: binding corpus stays in-repository; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
-| Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
-| Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
-| File-top / section-opening widget stack (placement → reader → Trace → D/A/C) | `make widget-top-placement-audit` |
+| Trace / O/M/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
+| Trace → O/M/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
+| File-top / section-opening widget stack (placement → reader → Trace → O/M/A/C) | `make widget-top-placement-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-0.105 §1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Binding corpus must not depend on `doc_architecture` or a README section for meaning/routing | `make support-doc-pointer-audit` |
@@ -66,7 +66,7 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 | Chapter Twenty-One nested-list readability candidates (advisory) | `make ch14-nested-list-candidates` |
 | Chapter Twenty-Three nested-list readability candidates (advisory) | `make ch15-nested-list-candidates` |
 | Chapter Twenty-Four nested-list readability candidates (advisory) | `make ch16-nested-list-candidates` |
-| Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
+| Chapter One O/M/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |
 | Plain-language jargon scan | `make plain-language-audit` |
@@ -93,7 +93,7 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 
 `heading_echo_topic_audit.py` flags a numbered section whose first body-prose line (after widgets and `*In plain terms*` gloss) restates that heading as a topic sentence — a self-cite such as `**[§13.2 Title](#…):**`. Unnumbered heading-echo run-ins (`**Symmetric costly constraints:**`) stay under MD-LIST-INTRO-01.
 
-`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / D/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05.*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
+`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / O/M/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05.*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
 
 `list_label_echo_audit.py` (**MD-LABEL-ECHO-01**, blocking; in `make regression`; `make list-label-echo-audit`; unit test `make list-label-echo-audit-test`) flags a list item whose bold label is restated by its own body — `- **Is invalid:** The charter is invalid.` — when every content word of the label reappears in the body in order, the body adds at most one other content word, and the body is 12 words or fewer. Bodies that open with `—` or `(`, contain a `§` cite, or end with `:` are skipped, as are fences, comments, and Trace blocks.
 
@@ -103,9 +103,9 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 
 `trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, `… also read **§…**`, and operative bullet labels such as `- *Read with.*` in operative prose.
 
-`trace_dac_widget_order_audit.py` enforces Trace → D/A/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Assessment · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the D/A/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` D/A/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
+`trace_dac_widget_order_audit.py` enforces Trace → O/M/A/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions (O · M · A · C)** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the O/M/A/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` O/M/A/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
 
-`widget_top_placement_audit.py` enforces the opening widget stack (**NAV-WIDGET-TOP-01** / **NAV-READER-06**): file-top widgets stay in order placement → reader guidance → Trace → D/A/C before ordinary operative prose (owner/home lines included), consecutive stack widgets may be separated by blank lines only (no `<br>` or prose between them), and when a section's direct content carries Trace / D/A/C those widgets open the unit. Local mid-section Traces under bold run-in titles (`**8.3. …**`) and child-heading widgets are out of scope for the parent.
+`widget_top_placement_audit.py` enforces the opening widget stack (**NAV-WIDGET-TOP-01** / **NAV-READER-06**): file-top widgets stay in order placement → reader guidance → Trace → O/M/A/C before ordinary operative prose (owner/home lines included), consecutive stack widgets may be separated by blank lines only (no `<br>` or prose between them), and when a section's direct content carries Trace / O/M/A/C those widgets open the unit. Local mid-section Traces under bold run-in titles (`**8.3. …**`) and child-heading widgets are out of scope for the parent.
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 
@@ -115,7 +115,7 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 
 Machine-checkable editorial rules: [tools/architecture/rule_registry.json](architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](../implementation/AUTOMATED_REFERENCE_CHECKING.md).
 
-`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
+`ch1_dac_order_audit.py` guards Chapter One O/M/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
 `readability_audit.py` scores prose only: before counting, it removes fenced code (including Mermaid charts), HTML comments and tags, `<summary>` widget labels, link and image targets (keeping the link text), reference definitions, inline code, and table rule rows, and it does not count headings. Line numbers in findings still match the source file. It also excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
@@ -127,6 +127,6 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](archi
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, O/M/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06.0*_rights_part_*.md`.

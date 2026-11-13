@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Corpus](../core_05.045_band_integrative.md#corpus) · [O](../core_05.045_band_integrative.md#corpus) · [M](../core_05.045_band_integrative.md#corpus-a) · [A](../core_05.045_band_integrative.md#corpus-a) · [C](../core_05.045_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../core_05.045_band_integrative.md#authority-stack-a) · [A](../core_05.045_band_integrative.md#authority-stack-a) · [C](../core_05.045_band_integrative.md#authority-stack-c)
@@ -49,7 +49,7 @@ Use these clusters as shared operational terms within standalone implementation 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Competency Bar](../core_05.035_band_accountability.md#competency-bar) · [O](../core_05.035_band_accountability.md#competency-bar) · [M](../core_05.035_band_accountability.md#competency-bar-a) · [A](../core_05.035_band_accountability.md#competency-bar-a) · [C](../core_05.035_band_accountability.md#competency-bar-c)
 - [Competency Clearance](../core_05.035_band_accountability.md#competency-clearance) · [O](../core_05.035_band_accountability.md#competency-clearance) · [M](../core_05.035_band_accountability.md#competency-clearance-a) · [A](../core_05.035_band_accountability.md#competency-clearance-a) · [C](../core_05.035_band_accountability.md#competency-clearance-c)

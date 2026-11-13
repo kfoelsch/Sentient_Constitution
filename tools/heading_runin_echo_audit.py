@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Flag bold run-in labels that merely restate their own section heading.
 
-After Trace / D/A/C widgets, ``<br>`` spacers, and the ``*In plain terms*``
+After Trace / O/M/A/C widgets, ``<br>`` spacers, and the ``*In plain terms*``
 gloss, the first operative line of a section must carry content. A bold
 run-in label that repeats the heading it sits under —
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Flag numbered sections whose first body-prose line restates the heading.
 
-After Trace / D/A/C widgets, ``<br>``, and ``*In plain terms*`` gloss, the
+After Trace / O/M/A/C widgets, ``<br>``, and ``*In plain terms*`` gloss, the
 first operative line must not repeat the current numbered heading as a
 topic sentence — a self-cite such as ``§13.2 Title:`` or a markdown link
 to the heading's own fragment.

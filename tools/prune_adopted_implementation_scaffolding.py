@@ -8,8 +8,8 @@ Only lines that carry no routing a reader could not already derive are removed:
 * ``- Read with: **X**.`` where ``X`` is the enclosing section -- cites itself.
 * ``- Upstream: ...`` repeated verbatim from the file-level Trace block.
 
-A Trace block left with no bullets is removed entirely. Its Definitions ·
-Assessment · Compliance widget is removed with it only when every row is
+A Trace block left with no bullets is removed entirely. Its Definitions
+(O · M · A · C) widget is removed with it only when every row is
 already present in the file-level widget, so no Chapter Five jump link is lost.
 
 ``- Topic routing (...)`` bullets are never touched: the CJS-0.105 §1 router audit
@@ -32,7 +32,7 @@ TRACE_SUMMARY = (
 )
 DAC_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">'
-    "Definitions · Assessment · Compliance</span></strong></summary>"
+    "Definitions (O · M · A · C)</span></strong></summary>"
 )
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")

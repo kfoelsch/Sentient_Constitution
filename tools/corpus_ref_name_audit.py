@@ -19,8 +19,8 @@ name and must resolve:
   (either contains the other, compared as lowercase words).
 
 Headings, tables, HTML-only lines, blockquotes, backticks, and fenced code
-are out of scope; ``<details>`` widget bodies (Trace, Definitions · Assessment
-· Compliance) are in scope. ``--changed-only`` checks
+are out of scope; ``<details>`` widget bodies (Trace, Definitions
+(O · M · A · C)) are in scope. ``--changed-only`` checks
 added Markdown lines versus HEAD so legacy references do not block until
 those lines are edited. A list-entry label (``- **CI-6.275 §3** — description``)
 is exempt: the description after the dash is its name.
@@ -467,7 +467,7 @@ def scan_line(
 def mask_fences(text: str) -> str:
     """Blank fenced code; keep ``<details>`` widget bodies in scope.
 
-    Trace and D/A/C widgets are where most cross-family routing lives, so a
+    Trace and O/M/A/C widgets are where most cross-family routing lives, so a
     reference there needs a name like any other. The ``<details>``,
     ``<summary>`` and ``</details>`` tag lines are skipped by ``is_exempt_line``.
     """

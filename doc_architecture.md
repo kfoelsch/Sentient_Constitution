@@ -179,11 +179,11 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-TRACE-08–10 | Trace placement and contents | `make ch10-trace-audit`, `make trace-routing-prose-audit` |
 | NAV-READER-06 | Reader-guidance widget placement | `make widget-top-placement-audit` |
 | NAV-WIDGET-TOP-01 | File-top / section-opening widget stack | `make widget-top-placement-audit` |
-| NAV-DAC-12 | D/A/C widget discipline, including no visible placement commentary | `make ch5-dac-widget-audit`, `make nav-widget-spacer-audit`, `make plain-language-audit` (placement commentary) |
-| NAV-DAC-12-ORDER | Trace → D/A/C placement | `make trace-dac-widget-order-audit` |
+| NAV-DAC-12 | O/M/A/C widget discipline, including no visible placement commentary | `make ch5-dac-widget-audit`, `make nav-widget-spacer-audit`, `make plain-language-audit` (placement commentary) |
+| NAV-DAC-12-ORDER | Trace → O/M/A/C placement | `make trace-dac-widget-order-audit` |
 | NAV-DAC-12-SPACER | One `<br>` after the last widget of a stack, none between stacked widgets; none after inline `Definition:` | `make nav-widget-spacer-audit`, `make nav-widget-spacer-audit-test` |
 | NAV-IMPL-WIDGET-01 | Implementation widget and inline line | `make implementation-widget-audit` |
-| NAV-DAC-CH1-ORDER | Chapter One D/A/C row order | `make ch1-dac-order-audit` |
+| NAV-DAC-CH1-ORDER | Chapter One O/M/A/C row order | `make ch1-dac-order-audit` |
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | FILE-COPY-SUFFIX-01 | Copy-suffixed duplicate files (`name 2.ext`) are not corpus and may be removed freely | `make copy-suffix-check` (list), `make copy-suffix-clean` (delete); not part of `make regression`; see [Copy-suffixed duplicate files](#copy-suffixed-duplicate-files-file-copy-suffix-01) |
 | NAV-IMPL-LANDING-01 | Implementation-corpus wrapper landing page | Manual (see **section 4**) |
@@ -255,7 +255,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | CH9-PROCESS-ORDER-01 | Chapter Nine sections follow the order the certification work is done, in six phases | Manual (see **section 4**); links and anchors by `make local-markdown-fragment-audit`, `make section-label-anchor-audit`, `make fossil-anchor-audit` |
 | ROUTER-CJS01 | Cross-implementation routing | `make router-bidirectional-audit` |
 
-Historical D/A/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
+Historical O/M/A/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
 
 ### Reader-guidance placement (NAV-READER-06)
 
@@ -269,7 +269,7 @@ Collapsed **Reader guidance (non-operative)** widgets give readers orientation w
 - Keep general reading-order notes, layer routing, architecture maps, and warnings against moving text out of the binding text itself. Put them in the opening reader-guidance widgets.
 - Reader-guidance widgets use the standard blue collapsed `<details>` styling and carry **(non-operative)** in the summary. They do not restate that they bind nothing. That principle is stated once, in the [Preamble's corpus-placement widget](core_00.000_preamble.md), and applies to every non-operative widget.
 
-Enforced (with **NAV-WIDGET-TOP-01**) by `make widget-top-placement-audit`: chapter/part Reader guidance and file-level Trace / D/A/C must stay in one contiguous opening stack (blank lines only between widgets — no `<br>`, owner/home lines, or other prose between them) before ordinary operative prose; when a section's direct content carries Trace / D/A/C, those widgets open the unit (after optional anchors and opening Reader guidance). Child-section widgets and bold run-in local Traces (for example `**8.3. …**`) do not count against the parent.
+Enforced (with **NAV-WIDGET-TOP-01**) by `make widget-top-placement-audit`: chapter/part Reader guidance and file-level Trace / O/M/A/C must stay in one contiguous opening stack (blank lines only between widgets — no `<br>`, owner/home lines, or other prose between them) before ordinary operative prose; when a section's direct content carries Trace / O/M/A/C, those widgets open the unit (after optional anchors and opening Reader guidance). Child-section widgets and bold run-in local Traces (for example `**8.3. …**`) do not count against the parent.
 
 ### Link destination standard (LINK-OFF-CORPUS-15)
 
@@ -462,7 +462,7 @@ Each numbered owner-layer chapter states **who owns what** in one binding operat
 4. Chapter-opening **Trace** widget (when the file carries a chapter-level Trace before numbered sections).
 5. **Binding owner opening line** — operative prose, visible without expanding widgets.
 6. Optional chapter-specific orientation blocks that are substantive but not widgets.
-7. `*In plain terms:*` gloss and numbered sections — section-level Trace / D/A/C under each heading in the order already required by **NAV-TRACE-08–10** and **NAV-DAC-12-ORDER**.
+7. `*In plain terms:*` gloss and numbered sections — section-level Trace / O/M/A/C under each heading in the order already required by **NAV-TRACE-08–10** and **NAV-DAC-12-ORDER**.
 
 Each numbered `core_*` chapter file is one chapter (or one named part). Repeat steps 2–6 at the file's chapter/part opening: that chapter's reader-guidance widget (if any), then its chapter-opening Trace (if any), then its binding owner line, then optional orientation and sections.
 
@@ -517,35 +517,35 @@ A core chapter that has worked examples in a corpus file links to them twice, so
 A collapsed **Implementation (non-operative)** widget names the implementation files that carry out the section or Article it opens. It adds no duty. It does not replace a sentence in the operative text that hands detail to an implementation file (for example "governed by CI-6.205"); that sentence stays where it is.
 
 - **What to list.** The files that own the detail for that unit, not every file the unit cites. Shared machinery cited as "read with" is not listed. A file may appear under more than one unit. A unit may not list a file whose Core home is a different chapter unless the registry gives a `why`.
-- **Form follows count, as the D/A/C widget does.** **Two or more** owners: a collapsed widget with the summary `Implementation (non-operative)`, one bullet per owner in registry order. **Exactly one** owner: a single inline `Implementation:` line, no widget. **None:** nothing.
+- **Form follows count, as the O/M/A/C widget does.** **Two or more** owners: a collapsed widget with the summary `Implementation (non-operative)`, one bullet per owner in registry order. **Exactly one** owner: a single inline `Implementation:` line, no widget. **None:** nothing.
 - **Rows show titles, not IDs.** Each row is `[Title](path#anchor)`, where the title is the file's own title (its heading after the ID) and the anchor is its first heading. An ID label is not used because it does not read well for a human and some files have no ID heading.
-- **Placement.** Under the owning unit's heading, last in the opening stack: after Trace and after D/A/C when the unit has them, before the unit's first prose and its *In plain terms* gloss.
-- **Spacing.** The widget joins the stack under the unit's heading, so a unit with Trace and D/A/C has Trace, D/A/C, Implementation widget, and one `<br>` after the Implementation widget, none between the widgets (NAV-DAC-12-SPACER). The inline line has no `<br>` of its own and follows the stack's `<br>`.
+- **Placement.** Under the owning unit's heading, last in the opening stack: after Trace and after O/M/A/C when the unit has them, before the unit's first prose and its *In plain terms* gloss.
+- **Spacing.** The widget joins the stack under the unit's heading, so a unit with Trace and O/M/A/C has Trace, O/M/A/C, Implementation widget, and one `<br>` after the Implementation widget, none between the widgets (NAV-DAC-12-SPACER). The inline line has no `<br>` of its own and follows the stack's `<br>`.
 - **Registry.** `tools/architecture/implementation_map.json` lists each unit (core file, heading, owner IDs in order). A new unit is added to the registry in the same change; `python3 tools/implementation_widget_audit.py --write` inserts the block for a registered unit that has none.
 
 **Gate:** `make implementation-widget-audit` (**NAV-IMPL-WIDGET-01**), with `make implementation-widget-audit-test`. It reads every corpus file. It fails when a registered unit has no block, the form does not match the count, a row's order, title, or anchor differs from the registry, the widget sits out of order or lacks its `<br>`, an owner's Core home differs without a `why`, or any Implementation widget or line appears that the registry does not list. Coverage, meaning implementation files named in no unit, is reported and not gated while the rollout is partial (`make impl-link-report` shows the rest). Worked-example links stay under **EXAMPLES-LINK-01**.
 
-### D/A/C widget template (NAV-DAC-12)
+### O/M/A/C widget template (NAV-DAC-12)
 
-Collapsed **Definitions · Assessment · Compliance** widget (same blue `<details>` styling as Trace). Trace carries routing only (`Upstream:`, `Downstream:`, `Read with:`); D/A/C carries Chapter Five O/M/A/C jump links at the point of invocation.
+Collapsed **Definitions (O · M · A · C)** widget (same blue `<details>` styling as Trace). Trace carries routing only (`Upstream:`, `Downstream:`, `Read with:`); the Definitions widget carries Chapter Five O/M/A/C jump links at the point of invocation.
 
 **When to attach**
 
 - Attach where a section **materially invokes** Chapter Five concepts as working terms in its own substantive claims — not roadmap enumeration of terms treated downstream in named sections (*roadmap exclusion*; see archived decision log).
-- **Two or more** invoked concepts → collapsible D/A/C widget.
+- **Two or more** invoked concepts → collapsible O/M/A/C widget.
 - **Exactly one** invoked concept → single-line inline **`Definition:`** (no collapsible widget).
-- **No visible placement commentary.** Operative prose must not explain where D/A/C anchors sit or why a roadmap sentence carries none (`this is where the Article operatively invokes them`, `roadmap pointer only`, `does not re-invoke`, `canonical Chapter Five anchors … appear in`). Placement speaks for itself; readers reach the anchors by opening the widget. Flagged by `make plain-language-audit`.
+- **No visible placement commentary.** Operative prose must not explain where O/M/A/C anchors sit or why a roadmap sentence carries none (`this is where the Article operatively invokes them`, `roadmap pointer only`, `does not re-invoke`, `canonical Chapter Five anchors … appear in`). Placement speaks for itself; readers reach the anchors by opening the widget. Flagged by `make plain-language-audit`.
 
 **Placement under the owning `###`–`#####` unit (NAV-DAC-12-ORDER)**
 
-1. **With Trace** — D/A/C widget or inline `Definition:` immediately follows Trace `</details>`; only blank lines may intervene. Enforced by `make trace-dac-widget-order-audit` when Trace carries Chapter Five `· [O]` read-with links.
-2. **Without Trace** — D/A/C widget is the **first substantive block under the heading**, before `*In plain terms:*` and operative prose. Legacy `<a id="…"></a>` anchors may follow the widget block (after its closing `</details>` and spacer). Example: Chapter One `#### 5.2 Voluntary Discontinuation and Exit Rights`.
+1. **With Trace** — O/M/A/C widget or inline `Definition:` immediately follows Trace `</details>`; only blank lines may intervene. Enforced by `make trace-dac-widget-order-audit` when Trace carries Chapter Five `· [O]` read-with links.
+2. **Without Trace** — O/M/A/C widget is the **first substantive block under the heading**, before `*In plain terms:*` and operative prose. Legacy `<a id="…"></a>` anchors may follow the widget block (after its closing `</details>` and spacer). Example: Chapter One `#### 5.2 Voluntary Discontinuation and Exit Rights`.
 
 **Spacer (NAV-DAC-12-SPACER)**
 
-- Collapsible D/A/C widget: `<br>` after `</details>` before operative prose.
+- Collapsible O/M/A/C widget: `<br>` after `</details>` before operative prose.
 - Inline `Definition:` line: **no** `<br>` (standard paragraph break only).
-- **Stacked widgets share one `<br>`.** When widgets follow one another under a heading (Trace, D/A/C, Implementation, reader guidance, placement), the `<br>` goes only after the last of them, never between two. Enforced by `make nav-widget-spacer-audit`, with `make nav-widget-spacer-audit-test`.
+- **Stacked widgets share one `<br>`.** When widgets follow one another under a heading (Trace, O/M/A/C, Implementation, reader guidance, placement), the `<br>` goes only after the last of them, never between two. Enforced by `make nav-widget-spacer-audit`, with `make nav-widget-spacer-audit-test`.
 
 **Inside the widget**
 
@@ -555,7 +555,7 @@ Collapsed **Definitions · Assessment · Compliance** widget (same blue `<detail
 - **Annotation prose (optional, non-row):** italic-label lines such as `*Scope.*`, `*Definition home.*`, or `*Cluster-head home.*` may appear as plain paragraphs inside the widget before the row list. They are **not** list bullets and must not mimic row shape.
 - **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json); `make ch1-dac-order-audit`.
 
-**Do not** put `Definitions:` lines inside Trace (2026-04-16 D/A/C split). **Do not** use visible group labels as fake list rows inside D/A/C widgets.
+**Do not** put `Definitions:` lines inside Trace (2026-04-16 O/M/A/C split). **Do not** use visible group labels as fake list rows inside O/M/A/C widgets.
 
 <a id="measurement-informed-ec-meas-def-01"></a>
 ### Measurement-informed A/C (MEAS-DEF-01)
@@ -685,7 +685,7 @@ When no aims/tetrad block exists, place `*Article neighbors:*` after the article
 - Certification, challenge, interpretive-hub, or info-sphere articles must be read together without substitution.
 - Article placement or sequencing materially affects how neighboring floors apply.
 
-**Do not** use `*Article neighbors:*` for operative rights bullets, Trace contents, D/A/C widget rows, or implementation-owner routing to `corpus_systems` / `corpus_institutions` unless that routing is expressed as article-to-article coordination for readers.
+**Do not** use `*Article neighbors:*` for operative rights bullets, Trace contents, O/M/A/C widget rows, or implementation-owner routing to `corpus_systems` / `corpus_institutions` unless that routing is expressed as article-to-article coordination for readers.
 
 **Do not** list the article's own subarticles as neighbors. Subarticles belong to their parent article; describe their content in the article's own intro or in the subarticles themselves. Subarticles of *other* articles may be cited when explaining coordination with that article.
 
@@ -752,7 +752,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 **Visible stack (in this order):**
 
 1. `## XX-1: Scope, purpose, and boundary interface` (or the layer’s established `*-1` title).
-2. Collapsed **Trace**, then collapsed **Definitions · Assessment · Compliance**.
+2. Collapsed **Trace**, then collapsed **Definitions (O · M · A · C)**.
 3. One-line `*In plain terms:*` — what this layer is for.
 4. **What this layer owns** — bullets naming the layer’s operative homes.
 5. **What this layer does not own** — bullets naming the correct home after an em dash (core chapters, sibling layers, or **CJS** as applicable).
@@ -843,7 +843,7 @@ Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `c
 1. `<a id="xx-n"></a>` and an `#` H1 carrying the stable family ID and a title — `# CF-13: Forum continuity`.
 2. Collapsed **Corpus placement** widget: layer, binding status, and where to start reading.
 3. One-line **owner sentence** in operative position — `This file is the forum implementation home for **CF-13**.`
-4. One file-level collapsed **Trace**, then **Definitions · Assessment · Compliance** where the file invokes Chapter Five terms.
+4. One file-level collapsed **Trace**, then **Definitions (O · M · A · C)** where the file invokes Chapter Five terms.
 5. One-line `*In plain terms:*` gloss for the file.
 6. `##` sections, each with an `<a id="...">` anchor, then its own `*In plain terms:*` gloss before the operative prose.
 
@@ -1265,7 +1265,7 @@ Examples: `**Article XVI-C** (*Verification Accessibility*)`; `**Article XXVI-C*
 - **Combined labels** (`**Article VII-A / VII-B**`): gloss each part, separated by `/`: `(*Self-Ownership of Body* / *Self-Ownership of Mind*)`.
 - **Markdown links:** put the gloss on the same mention, after the link: `[Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)`.
 - **One title per cite.** Never repeat the title after the cite or its link (`**Article V-B** (*Title*) (*Title*)`). Write the cite itself in bold (`**Article V-B**`), not italic (`*Article V-B*`) or bold-italic.
-- **First mention in a section** (or in a collapsed Trace / D/A/C widget) should include the gloss when the cite is load-bearing. Later mentions in the same `###`–`#####` unit may use the bare label if the reader is already oriented.
+- **First mention in a section** (or in a collapsed Trace / O/M/A/C widget) should include the gloss when the cite is load-bearing. Later mentions in the same `###`–`#####` unit may use the bare label if the reader is already oriented.
 - **Headings** (`### Article …`, `#### Article …-…`) already carry the title; do not duplicate the gloss there.
 - **Dense routing lists** may omit the gloss only when every entry is a self-explanatory chapter name (for example **Chapter Nine**) or when the same block already states each title on the same line.
 
@@ -1307,7 +1307,7 @@ Chapters One, Six, Nine, and Fourteen are split into lettered Parts, and the let
 
 ### Heading not restated as topic sentence (MD-HEADING-TOPIC-01)
 
-A numbered section's first body-prose line — after Trace / D/A/C widgets, `<br>` spacers, and `*In plain terms*` gloss — must not repeat that heading as a topic sentence.
+A numbered section's first body-prose line — after Trace / O/M/A/C widgets, `<br>` spacers, and `*In plain terms*` gloss — must not repeat that heading as a topic sentence.
 
 **Fails:** `**§13.2 Pro-Competition and Anti-Domination:**` immediately under `#### 13.2 Pro-Competition and Anti-Domination`.
 
@@ -1319,7 +1319,7 @@ A numbered section's first body-prose line — after Trace / D/A/C widgets, `<br
 
 ### Heading not restated as a run-in label (MD-HEADING-RUNIN-01)
 
-A section's first body line — after Trace / D/A/C widgets, `<br>` spacers, and `*In plain terms*` gloss — must not open with a bold run-in label that says what the heading just said. The reader has already been told the topic; the first line owes them content.
+A section's first body line — after Trace / O/M/A/C widgets, `<br>` spacers, and `*In plain terms*` gloss — must not open with a bold run-in label that says what the heading just said. The reader has already been told the topic; the first line owes them content.
 
 **Fails:** `**Governance as authorized structure.**` under `#### 11.1 Governance as Authorized Structure`; `**Distributed understanding:**` standing above the list under `#### 9.1 Distributed Understanding`; `**Segregation-of-duties principle.**` under `#### 11.2 Segregation of Duties` (adding a generic noun does not make it a new label).
 
@@ -1360,7 +1360,7 @@ Redundancy sweeps: center-out from Chapter Five definitions (**section 12**).
 - New rights defined only in implementation files.
 - Duplicate Type/Class definitions in Chapter Five (prefer CS-2/CS-3).
 - Silent deletion of ambiguous article references.
-- Binding text that explains the corpus's own architecture to the reader — where D/A/C anchors sit, how owner layers relate, or precedence already stated in Chapter Five and the Preamble (**NAV-DAC-12**, **IMPL-ROUTE-01**).
+- Binding text that explains the corpus's own architecture to the reader — where O/M/A/C anchors sit, how owner layers relate, or precedence already stated in Chapter Five and the Preamble (**NAV-DAC-12**, **IMPL-ROUTE-01**).
 - Routing pointers to an implementation family that does not contain the named mechanics (**IMPL-ROUTE-01** pointer truth).
 - Vector embeddings or naive RAG as a parallel meaning layer (postponed indefinitely; **section 5** *Retrieval locators*).
 - Treating the reader-language **shipping** order as the reach ranking, or dropping Mandarin from the five (reach still ranks it first; **section 5** *Reader-language editions*).

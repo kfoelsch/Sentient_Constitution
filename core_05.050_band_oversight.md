@@ -444,7 +444,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality (
   - [Materiality](core_05.050_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
-  - [material stake](core_00.000_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §15.1**), **Truth** (**Chapter One §15.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §13.3.2** where **Materiality** appears in D/A/C widgets — see
+  - [material stake](core_00.000_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §15.1**), **Truth** (**Chapter One §15.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §13.3.2** where **Materiality** appears in O/M/A/C widgets — see
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity).

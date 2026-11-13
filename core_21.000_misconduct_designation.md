@@ -429,7 +429,7 @@ Chapter Seventeen remains the owner of general remedy, lock design and enforceme
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) · [O](core_05.035_band_accountability.md#redress-and-remediation) · [M](core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Restorative Justice](core_05.035_band_accountability.md#restorative-justice) · [O](core_05.035_band_accountability.md#restorative-justice) · [M](core_05.035_band_accountability.md#restorative-justice-a) · [A](core_05.035_band_accountability.md#restorative-justice-a) · [C](core_05.035_band_accountability.md#restorative-justice-c)

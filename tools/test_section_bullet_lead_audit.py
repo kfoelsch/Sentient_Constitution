@@ -9,7 +9,7 @@ from section_bullet_lead_audit import scan_text
 
 WIDGETS = (
     "<details>\n<summary>Trace</summary>\n\n- Upstream: skip\n\n</details>\n\n"
-    "<details>\n<summary>Definitions · Assessment · Compliance</summary>\n\n"
+    "<details>\n<summary>Definitions (O · M · A · C)</summary>\n\n"
     "- [Term](x.md#term)\n\n</details>\n\n<br>\n\n"
     "*In plain terms: gloss.*\n\n"
 )
