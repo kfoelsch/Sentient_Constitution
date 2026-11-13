@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-13T12:08:59+00:00",
+  "generated_at": "2026-11-13T14:40:55+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -233,20 +233,20 @@
       ]
     },
     "core_05.000_definitions_home.md": {
-      "total_lines": 515,
+      "total_lines": 520,
       "sections": [
-        {"header":"CHAPTER FIVE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":515,"anchor":"#chapter-five-foundational-definitions"},
+        {"header":"CHAPTER FIVE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":520,"anchor":"#chapter-five-foundational-definitions"},
         {"header":"Canonical Home and Non-Duplication Rule","level":3,"line_start":23,"line_end":38,"anchor":null},
-        {"header":"1. Independent Definitions","level":3,"line_start":39,"line_end":64,"anchor":"#1-independent-definitions"},
-        {"header":"1.1 Invocation, Satisfaction, and Compliance","level":4,"line_start":49,"line_end":64,"anchor":"#11-invocation-satisfaction-and-compliance"},
-        {"header":"2. Dependent-Cluster Meta Rules","level":3,"line_start":65,"line_end":86,"anchor":null},
-        {"header":"2.1 Joint Invocation and Satisfaction","level":4,"line_start":73,"line_end":79,"anchor":"#21-joint-invocation-and-satisfaction"},
-        {"header":"2.2 Standalone Definitions Interaction and Full Context","level":4,"line_start":80,"line_end":86,"anchor":"#22-standalone-definitions-interaction-and-full-context"},
-        {"header":"Chapter Five Alphabetical Directory (Non-Operative)","level":3,"line_start":87,"line_end":443,"anchor":"#chapter-five-alphabetical-directory"},
-        {"header":"Definitions A-Z","level":4,"line_start":107,"line_end":419,"anchor":"#definitions-a-z"},
-        {"header":"Clusters A-Z","level":4,"line_start":420,"line_end":443,"anchor":"#clusters-a-z"},
-        {"header":"Chapter Five Compass and Definition Map","level":3,"line_start":444,"line_end":483,"anchor":"#chapter-five-compass-and-definition-map"},
-        {"header":"Measurement Crosswalk (Reader Guidance)","level":3,"line_start":484,"line_end":515,"anchor":null}
+        {"header":"1. Independent Definitions","level":3,"line_start":39,"line_end":69,"anchor":"#1-independent-definitions"},
+        {"header":"1.1 Invocation, Satisfaction, and Compliance","level":4,"line_start":54,"line_end":69,"anchor":"#11-invocation-satisfaction-and-compliance"},
+        {"header":"2. Dependent-Cluster Meta Rules","level":3,"line_start":70,"line_end":91,"anchor":null},
+        {"header":"2.1 Joint Invocation and Satisfaction","level":4,"line_start":78,"line_end":84,"anchor":"#21-joint-invocation-and-satisfaction"},
+        {"header":"2.2 Standalone Definitions Interaction and Full Context","level":4,"line_start":85,"line_end":91,"anchor":"#22-standalone-definitions-interaction-and-full-context"},
+        {"header":"Chapter Five Alphabetical Directory (Non-Operative)","level":3,"line_start":92,"line_end":448,"anchor":"#chapter-five-alphabetical-directory"},
+        {"header":"Definitions A-Z","level":4,"line_start":112,"line_end":424,"anchor":"#definitions-a-z"},
+        {"header":"Clusters A-Z","level":4,"line_start":425,"line_end":448,"anchor":"#clusters-a-z"},
+        {"header":"Chapter Five Compass and Definition Map","level":3,"line_start":449,"line_end":488,"anchor":"#chapter-five-compass-and-definition-map"},
+        {"header":"Measurement Crosswalk (Reader Guidance)","level":3,"line_start":489,"line_end":520,"anchor":null}
       ]
     },
     "core_05.005_apex_accountability_leg.md": {

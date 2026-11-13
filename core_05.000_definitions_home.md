@@ -44,6 +44,11 @@ Independent Definitions are reusable semantic building blocks that can be invoke
 
 Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-Cluster Meta Rules](#2-dependent-cluster-meta-rules)). [§1.1 Invocation, Satisfaction, and Compliance](#11-invocation-satisfaction-and-compliance) apply whenever an Independent Definition is invoked.
 
+Two rules follow for how definitions are met:
+
+- an independent definition, once invoked, is met in full across its Ontological, Measurement, Assessment, and Compliance parts ([§1.1 Invocation, Satisfaction, and Compliance](#11-invocation-satisfaction-and-compliance)); and
+- the members of a dependent cluster are met together, and no member is a shortcut around the rest ([§2.1 Joint Invocation and Satisfaction](#21-joint-invocation-and-satisfaction)).
+
 <a id="11-invocation-satisfaction-and-compliance"></a>
 
 #### 1.1 Invocation, Satisfaction, and Compliance
