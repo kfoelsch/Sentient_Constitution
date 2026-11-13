@@ -8,7 +8,7 @@ implementation files that own their detail. For each unit the audit requires:
 * two or more owners: a collapsed ``Implementation (non-operative)`` widget, one bullet per
   owner in registry order, followed by ``<br>``; no ``<br>`` sits between it and the widgets above
   it (NAV-DAC-12-SPACER: one ``<br>`` after the last widget of a stack);
-* the widget or line sits last in the unit's opening stack (after Trace and D/A/C), before
+* the widget or line sits last in the unit's opening stack (after Trace and O/M/A/C), before
   the first prose;
 * every row is ``[Title](path#anchor)`` with the owner file's own title and a live anchor;
 * an owner's ``Core home`` is the unit's chapter, unless the registry gives a ``why``;
@@ -173,12 +173,12 @@ def audit(root: Path, registry: dict, write: bool = False) -> tuple[list[str], d
                 start, end = impl_widgets[0]
                 claimed.setdefault(name, set()).add(start)
                 if widgets[-1] != impl_widgets[0]:
-                    findings.append(f"{label}: NAV-IMPL-WIDGET-01: the Implementation widget must be last in the opening stack, after Trace and D/A/C")
+                    findings.append(f"{label}: NAV-IMPL-WIDGET-01: the Implementation widget must be last in the opening stack, after Trace and O/M/A/C")
                 rows = [line[2:] for line in lines[start + 2 : end] if line.startswith("- ")]
                 findings.extend(check_rows(label, rows, infos))
                 follow = next((lines[k].strip() for k in range(end + 1, len(lines)) if lines[k].strip()), "")
                 if follow != "<br>":
-                    findings.append(f"{label}: NAV-IMPL-WIDGET-01: a <br> must follow the Implementation widget, as it follows D/A/C")
+                    findings.append(f"{label}: NAV-IMPL-WIDGET-01: a <br> must follow the Implementation widget, as it follows O/M/A/C")
     for path in corpus_files(root):
         rel = path.relative_to(root).as_posix()
         text = path.read_text(encoding="utf-8").split("\n")

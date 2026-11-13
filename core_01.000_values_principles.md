@@ -13,14 +13,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how Chapter One connects the aims, the Tetrad, Articles, and definitions</span></strong></summary>
 
-> Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry the binding routing; this block is a part-level map for readers entering Chapter One.
+> Per-section **Trace** and **Definitions (O · M · A · C)** widgets carry the binding routing; this block is a part-level map for readers entering Chapter One.
 
 **How the layers connect.** Each layer answers a different question, and every Chapter One principle points to the other three:
 
 - **Aims and Tetrad** ([Preamble §1](core_00.000_preamble.md#the-model)): what shared systems are for ([Flourishing](core_05.015_apex_flourishing_aim.md#flourishing-constitutional) and [Continuity](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim)), and the four duties that keep that pursuit legitimate ([participation](core_05.025_apex_participation_leg.md#participation-constitutional), [oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), [accountability](core_05.005_apex_accountability_leg.md#accountability), and [timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional)).
 - **Principles** (this chapter): how those aims and duties become values, constraints, and rules for weighing them against each other.
 - **Articles** ([Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights)): the Rights Floor protections that stay usable while the aims are pursued. A section's **Trace** lists them under *Especially*.
-- **Definitions** ([Chapters Two through Five](core_02.000_definition_structure.md)): the shared meanings used to test whether a claim is true. A section's **Definitions · Assessment · Compliance** widget lists them.
+- **Definitions** ([Chapters Two through Five](core_02.000_definition_structure.md)): the shared meanings used to test whether a claim is true. A section's **Definitions (O · M · A · C)** widget lists them.
 
 **Where Chapter One develops each aim.** Flourishing is wellbeing sustained through truth, safety, trustworthiness, and meaningful agency ([Preamble §1](core_00.000_preamble.md#flourishing)). Chapter One states the outcome first, then one principle for each of the four conditions.
 
@@ -97,7 +97,7 @@ Chapter One, Part A, is the constitutional owner of **the Flourishing and Contin
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
 - [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
@@ -133,7 +133,7 @@ The chapter is organized around those two aims and that Tetrad:
 - **When principles meet:** [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§15 Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation) govern how the aims and principles are weighed and read together.
 - **The Tetrad in practice:** [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) through [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) carry participation, oversight, accountability, and timeliness into stewardship, governance, and incentives, and [§20 Integrated Application](core_01.050_governance_incentive_application.md#20-integrated-application) applies the whole chapter to every later chapter.
 
-Each principle's **Trace** lists the Chapter Six Articles that protect it, and its **Definitions · Assessment · Compliance** widget lists the Chapter Five definitions that measure it.
+Each principle's **Trace** lists the Chapter Six Articles that protect it, and its **Definitions (O · M · A · C)** widget lists the Chapter Five definitions that measure it.
 
 **Diagram: Two Constitutional Aims and the Constitutional Tetrad**
 
@@ -148,23 +148,18 @@ flowchart TB
             F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
             C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
         end
-        subgraph Tetrad1["Constitutional Tetrad · participation and oversight"]
+        subgraph Tetrad["Constitutional Tetrad"]
             direction LR
             P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
             O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
-        end
-        subgraph Tetrad2["Constitutional Tetrad · accountability and timeliness"]
-            direction LR
             A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
             T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
         end
     end
     F ~~~ P
-    P ~~~ A
     style Foundation fill:none,stroke:none
     style Aims fill:none,stroke:none
-    style Tetrad1 fill:none,stroke:none
-    style Tetrad2 fill:none,stroke:none
+    style Tetrad fill:none,stroke:none
     style F fill:none,stroke:#16a34a,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
     style P fill:none,stroke:#0f766e,color:#ffffff
@@ -202,7 +197,7 @@ No single principle may be applied in isolation where doing so would materially 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Flourishing (Constitutional Aim)](core_05.015_apex_flourishing_aim.md#flourishing-constitutional) · [O](core_05.015_apex_flourishing_aim.md#flourishing-constitutional) · [M](core_05.015_apex_flourishing_aim.md#flourishing-constitutional-m) · [A](core_05.015_apex_flourishing_aim.md#flourishing-constitutional-a) · [C](core_05.015_apex_flourishing_aim.md#flourishing-constitutional-c)
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
 - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](core_05.040_band_continuity.md#safety-constraint-a) · [A](core_05.040_band_continuity.md#safety-constraint-a) · [C](core_05.040_band_continuity.md#safety-constraint-c)
@@ -270,7 +265,7 @@ flowchart TB
     style G fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-*Flourishing is stated as an outcome and sustained first by the non-negotiable constraints, Safety and Truth, which both feed Trust, which in turn feeds Freedom. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#flourishing-and-its-principles).*
+*Flourishing is stated as an outcome and sustained first by the non-negotiable constraints, Safety and Truth, which both feed Trust, which in turn feeds Freedom. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions (O · M · A · C) widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#flourishing-and-its-principles).*
 
 <a id="21-non-negotiable-principle-constraints-safety-and-truth"></a>
 #### 2.1 Non-Negotiable Principle Constraints: Safety and Truth
@@ -337,7 +332,7 @@ The standing model — [**Chapter Fifteen**](core_15.000_standing_assessment.md)
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -405,7 +400,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -527,7 +522,7 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -635,7 +630,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
 - [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -730,7 +725,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](core_05.040_band_continuity.md#safety-constraint-a) · [A](core_05.040_band_continuity.md#safety-constraint-a) · [C](core_05.040_band_continuity.md#safety-constraint-c)
 - [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
 - [Irreversible Harm](core_05.035_band_accountability.md#irreversible-harm) · [O](core_05.035_band_accountability.md#irreversible-harm) · [M](core_05.035_band_accountability.md#irreversible-harm-a) · [A](core_05.035_band_accountability.md#irreversible-harm-a) · [C](core_05.035_band_accountability.md#irreversible-harm-c)
@@ -788,7 +783,7 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) · [O](core_05.050_band_oversight.md#epistemic-integrity-o) · [M](core_05.050_band_oversight.md#epistemic-integrity-a) · [A](core_05.050_band_oversight.md#epistemic-integrity-a) · [C](core_05.050_band_oversight.md#epistemic-integrity-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
@@ -841,7 +836,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) · [O](core_05.050_band_oversight.md#epistemic-integrity-o) · [M](core_05.050_band_oversight.md#epistemic-integrity-a) · [A](core_05.050_band_oversight.md#epistemic-integrity-a) · [C](core_05.050_band_oversight.md#epistemic-integrity-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
@@ -919,7 +914,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) · [O](core_05.050_band_oversight.md#epistemic-integrity-o) · [M](core_05.050_band_oversight.md#epistemic-integrity-a) · [A](core_05.050_band_oversight.md#epistemic-integrity-a) · [C](core_05.050_band_oversight.md#epistemic-integrity-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
@@ -1028,7 +1023,7 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Trust](core_05.040_band_continuity.md#trust) · [O](core_05.040_band_continuity.md#trust) · [M](core_05.040_band_continuity.md#trust-a) · [A](core_05.040_band_continuity.md#trust-a) · [C](core_05.040_band_continuity.md#trust-c)
 - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) · [O](core_05.040_band_continuity.md#trustworthiness) · [M](core_05.040_band_continuity.md#trustworthiness-a) · [A](core_05.040_band_continuity.md#trustworthiness-a) · [C](core_05.040_band_continuity.md#trustworthiness-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
@@ -1079,7 +1074,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Trust](core_05.040_band_continuity.md#trust) · [O](core_05.040_band_continuity.md#trust) · [M](core_05.040_band_continuity.md#trust-a) · [A](core_05.040_band_continuity.md#trust-a) · [C](core_05.040_band_continuity.md#trust-c)
 - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) · [O](core_05.040_band_continuity.md#trustworthiness) · [M](core_05.040_band_continuity.md#trustworthiness-a) · [A](core_05.040_band_continuity.md#trustworthiness-a) · [C](core_05.040_band_continuity.md#trustworthiness-c)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
@@ -1169,7 +1164,7 @@ The right to this correction is stated in [Article XIII-B](core_06.020_rights_pa
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) · [O](core_05.055_band_participation.md#freedom-bounded-agency) · [M](core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](core_05.055_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1224,7 +1219,7 @@ Freedom does not let anyone undermine constitutional systems, get around constit
 <a id="71-limitation-discipline"></a>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) · [O](core_05.055_band_participation.md#freedom-bounded-agency) · [M](core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](core_05.055_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1290,7 +1285,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 #### 7.2 Assembly, Collective Organization, and Institutional Formation
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) · [O](core_05.055_band_participation.md#freedom-bounded-agency) · [M](core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](core_05.055_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1378,7 +1373,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 #### 7.3 Dissent and Peaceful Protest
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) · [O](core_05.055_band_participation.md#freedom-bounded-agency) · [M](core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](core_05.055_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1433,7 +1428,7 @@ When a whole system is being evaluated, the evaluation must check how it treats 
 #### 7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) · [O](core_05.055_band_participation.md#freedom-bounded-agency) · [M](core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](core_05.055_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1497,7 +1492,7 @@ Whole-system evaluations must test these conditions under [Chapter Nine §4.2 Vo
 #### 7.5 Expression and the Harm Line
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) · [O](core_05.055_band_participation.md#freedom-bounded-agency) · [M](core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](core_05.055_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05.055_band_participation.md#reproductive-autonomy) · [O](core_05.055_band_participation.md#reproductive-autonomy) · [M](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)

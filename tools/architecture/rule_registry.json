@@ -11,7 +11,7 @@
     {
       "id": "NAV-WIDGET-TOP-01",
       "legacy_ref": "doc_architecture file-top stack and section-opening widgets",
-      "summary": "File-top and section-opening widget stack: placement → reader guidance → Trace → D/A/C contiguous (blank lines only; no <br>/owner/prose between); owner line and operative prose follow the stack.",
+      "summary": "File-top and section-opening widget stack: placement → reader guidance → Trace → O/M/A/C contiguous (blank lines only; no <br>/owner/prose between); owner line and operative prose follow the stack.",
       "make_target": "widget-top-placement-audit",
       "status": "blocking"
     },
@@ -42,28 +42,28 @@
     {
       "id": "NAV-DAC-12",
       "legacy_ref": "doc_architecture rule 12",
-      "summary": "D/A/C widget scope, trigger, roadmap exclusion, row shape, annotation prose, spacer discipline.",
+      "summary": "O/M/A/C widget scope, trigger, roadmap exclusion, row shape, annotation prose, spacer discipline.",
       "make_target": "ch5-dac-widget-audit",
       "status": "blocking"
     },
     {
       "id": "NAV-DAC-12-ORDER",
       "legacy_ref": "doc_architecture rule 12 trace-to-dec placement",
-      "summary": "With Trace: D/A/C or inline Definition immediately after Trace. Without Trace: D/A/C is first block under heading.",
+      "summary": "With Trace: O/M/A/C or inline Definition immediately after Trace. Without Trace: O/M/A/C is first block under heading.",
       "make_target": "trace-dac-widget-order-audit",
       "status": "blocking"
     },
     {
       "id": "NAV-DAC-12-SPACER",
       "legacy_ref": "doc_architecture rule 12 spacer",
-      "summary": "One br after the last widget of a stack (Trace, D/A/C, Implementation, reader guidance, placement) and none between stacked widgets; inline Definition line takes none.",
+      "summary": "One br after the last widget of a stack (Trace, O/M/A/C, Implementation, reader guidance, placement) and none between stacked widgets; inline Definition line takes none.",
       "make_target": "nav-widget-spacer-audit",
       "status": "blocking"
     },
     {
       "id": "NAV-DAC-CH1-ORDER",
       "legacy_ref": "doc_architecture rule 12 Ch1 order",
-      "summary": "Chapter One D/A/C widgets preserve functional row order.",
+      "summary": "Chapter One O/M/A/C widgets preserve functional row order.",
       "make_target": "ch1-dac-order-audit",
       "status": "blocking"
     },
@@ -399,7 +399,7 @@
     {
       "id": "NAV-IMPL-WIDGET-01",
       "legacy_ref": "implementation files named under the core unit they carry out",
-      "summary": "A unit listed in implementation_map.json carries an Implementation (non-operative) block after Trace and D/A/C: a collapsed widget followed by <br> for two or more owner files, one inline 'Implementation:' line for one; rows are [Title](path#anchor) in registry order with live anchors; an owner's Core home matches the unit's chapter unless the registry says why; no unregistered block exists.",
+      "summary": "A unit listed in implementation_map.json carries an Implementation (non-operative) block after Trace and O/M/A/C: a collapsed widget followed by <br> for two or more owner files, one inline 'Implementation:' line for one; rows are [Title](path#anchor) in registry order with live anchors; an owner's Core home matches the unit's chapter unless the registry says why; no unregistered block exists.",
       "make_target": "implementation-widget-audit",
       "status": "blocking"
     },
@@ -462,14 +462,14 @@
     {
       "id": "MD-HEADING-TOPIC-01",
       "legacy_ref": "numbered heading is not restated as the first topic sentence",
-      "summary": "After Trace / D/A/C widgets, br spacers, and *In plain terms* gloss, a numbered section's first body-prose line must not restate that heading as a topic sentence (a self-cite such as **[§13.2 Title](#…):** or a markdown link to the heading's own fragment). Unnumbered heading-echo run-ins (**Symmetric costly constraints:**) remain MD-LIST-INTRO-01. Cross-chapter cites that share a number are out of scope.",
+      "summary": "After Trace / O/M/A/C widgets, br spacers, and *In plain terms* gloss, a numbered section's first body-prose line must not restate that heading as a topic sentence (a self-cite such as **[§13.2 Title](#…):** or a markdown link to the heading's own fragment). Unnumbered heading-echo run-ins (**Symmetric costly constraints:**) remain MD-LIST-INTRO-01. Cross-chapter cites that share a number are out of scope.",
       "make_target": "heading-echo-topic-audit",
       "status": "blocking"
     },
     {
       "id": "MD-SECTION-LEAD-01",
       "legacy_ref": "sections open with lead-in prose, not a list item",
-      "summary": "After Trace / D/A/C widgets, br spacers, anchors, blockquote callouts, and *In plain terms* gloss, a section's first body line must be lead-in prose, not a bare list item (- , * , or 1. ). Sections whose first content is a child heading are containers and out of scope. Chapter Five definition files (core_05.*.md) are carved out: their entries open with O / E / C bullets by design. Regression gate since 2026-09-26, when the backlog was cleared.",
+      "summary": "After Trace / O/M/A/C widgets, br spacers, anchors, blockquote callouts, and *In plain terms* gloss, a section's first body line must be lead-in prose, not a bare list item (- , * , or 1. ). Sections whose first content is a child heading are containers and out of scope. Chapter Five definition files (core_05.*.md) are carved out: their entries open with O / E / C bullets by design. Regression gate since 2026-09-26, when the backlog was cleared.",
       "make_target": "section-bullet-lead-audit",
       "status": "blocking"
     },

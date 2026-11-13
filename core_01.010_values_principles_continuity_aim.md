@@ -39,7 +39,7 @@ Chapter One, Part B is the constitutional owner of the **Continuity Aim** (share
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Continuity (Constitutional Aim)](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [O](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [M](core_05.010_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](core_05.010_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](core_05.010_apex_continuity_aim.md#continuity-aim-constitutional-c)
 - [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Self-Healing](core_05.040_band_continuity.md#self-healing) · [O](core_05.040_band_continuity.md#self-healing) · [M](core_05.040_band_continuity.md#self-healing-constitutional-a) · [A](core_05.040_band_continuity.md#self-healing-constitutional-a) · [C](core_05.040_band_continuity.md#self-healing-constitutional-c)
@@ -113,7 +113,7 @@ flowchart TB
     style GF fill:none,stroke:none,color:#111111
 ```
 
-*Continuity opens with the capacity that bridges to Flourishing, keeps it durable through resilience and contestable through market structure, and verifies it as a whole. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#continuity-and-its-principles).*
+*Continuity opens with the capacity that bridges to Flourishing, keeps it durable through resilience and contestable through market structure, and verifies it as a whole. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions (O · M · A · C) widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#continuity-and-its-principles).*
 
 <a id="9-shared-system-capacity"></a>
 ### 9. Shared-System Capacity
@@ -143,7 +143,7 @@ flowchart TB
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
@@ -213,7 +213,7 @@ That capacity has several aspects working together:
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
@@ -310,7 +310,7 @@ Where productive-capacity claims rest on metrics that no longer prove real outco
 #### 9.2 Constitutional Efficiency
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) · [O](core_05.040_band_continuity.md#shared-system-capacity) · [M](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) · [O](core_05.040_band_continuity.md#productive-capacity) · [M](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05.040_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
@@ -399,7 +399,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Self-Healing](core_05.040_band_continuity.md#self-healing) · [O](core_05.040_band_continuity.md#self-healing) · [M](core_05.040_band_continuity.md#self-healing-constitutional-a) · [A](core_05.040_band_continuity.md#self-healing-constitutional-a) · [C](core_05.040_band_continuity.md#self-healing-constitutional-c)
 - [Cascading Failure](core_05.040_band_continuity.md#cascading-failure) · [O](core_05.040_band_continuity.md#cascading-failure) · [M](core_05.040_band_continuity.md#cascading-failure-a) · [A](core_05.040_band_continuity.md#cascading-failure-a) · [C](core_05.040_band_continuity.md#cascading-failure-c)
 - [Reversibility](core_05.040_band_continuity.md#reversibility) · [O](core_05.040_band_continuity.md#reversibility) · [M](core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](core_05.040_band_continuity.md#reversibility-constitutional-c)
@@ -456,7 +456,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -520,7 +520,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -623,7 +623,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -781,7 +781,7 @@ Operative remedy selection follows **CJS-5.125 §11.2** (*Anti-domination conduc
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -949,7 +949,7 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Market Structure](core_05.035_band_accountability.md#market-structure) · [O](core_05.035_band_accountability.md#market-structure) · [M](core_05.035_band_accountability.md#market-structure-constitutional-a) · [A](core_05.035_band_accountability.md#market-structure-constitutional-a) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) · [O](core_05.035_band_accountability.md#market-concentration-threshold) · [M](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05.035_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
@@ -1024,7 +1024,7 @@ Crossing a threshold calls for heightened review and mitigation under [§11.1.1 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) · [O](core_05.050_band_oversight.md#classification-scaled-governance) · [M](core_05.050_band_oversight.md#classification-scaled-governance-a) · [A](core_05.050_band_oversight.md#classification-scaled-governance-a) · [C](core_05.050_band_oversight.md#classification-scaled-governance-c)
 - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_05.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_05.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05.020_apex_oversight_leg.md#oversight-constitutional-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)

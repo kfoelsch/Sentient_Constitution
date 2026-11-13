@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Merits Determination](../core_05.035_band_accountability.md#merits-determination) · [O](../core_05.035_band_accountability.md#merits-determination) · [M](../core_05.035_band_accountability.md#merits-determination-a) · [A](../core_05.035_band_accountability.md#merits-determination-a) · [C](../core_05.035_band_accountability.md#merits-determination-c)
 - [Adjudication and Dispute Resolution](../core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](../core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)

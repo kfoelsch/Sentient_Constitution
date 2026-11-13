@@ -66,7 +66,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)
 - [Auditability](../core_05.050_band_oversight.md#auditability) · [O](../core_05.050_band_oversight.md#auditability) · [M](../core_05.050_band_oversight.md#auditability-a) · [A](../core_05.050_band_oversight.md#auditability-a) · [C](../core_05.050_band_oversight.md#auditability-c)
@@ -220,7 +220,7 @@ No permanent secrecy and anti-normalization discipline
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Cascading Failure](../core_05.040_band_continuity.md#cascading-failure) · [O](../core_05.040_band_continuity.md#cascading-failure) · [M](../core_05.040_band_continuity.md#cascading-failure-a) · [A](../core_05.040_band_continuity.md#cascading-failure-a) · [C](../core_05.040_band_continuity.md#cascading-failure-c)
 - [Accountability](../core_05.005_apex_accountability_leg.md#accountability) · [O](../core_05.005_apex_accountability_leg.md#accountability) · [M](../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../core_05.005_apex_accountability_leg.md#accountability-c)

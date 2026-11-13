@@ -133,7 +133,7 @@
     "core_01.040_stewardship_capacity_principles.md",
     "core_01.050_governance_incentive_application.md"
    ],
-   "reason": "Chapter One D/A/C widget row order, from tools/architecture/ch1_dac_order.json."
+   "reason": "Chapter One O/M/A/C widget row order, from tools/architecture/ch1_dac_order.json."
   },
   "ch10-trace-audit": {
    "scope": "format-owned",

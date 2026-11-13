@@ -5,25 +5,25 @@ Rules:
   NAV-READER-06  — chapter/part Reader guidance belongs in the opening stack
                    before operative prose. At section level, Reader guidance
                    that appears before any operative prose (e.g. after the
-                   Trace / D/A/C stack, a ``<br>``, or the plain-terms gloss)
+                   Trace / O/M/A/C stack, a ``<br>``, or the plain-terms gloss)
                    must move into the opening stack ahead of Trace. Guidance
                    placed after operative prose illustrates it and stays local.
                    Exception: a Reader guidance box that leads directly into a
                    visible ``mermaid`` chart is the chart's caption and may
                    stay beside it.
-  NAV-TRACE-09   — when a section's *direct* content carries Trace / D/A/C,
+  NAV-TRACE-09   — when a section's *direct* content carries Trace / O/M/A/C,
                    those widgets open the unit (after optional anchors and
                    opening Reader guidance). Child-section widgets do not
                    count against the parent.
   OWNER-OPENING-01 / NAV-PLACEMENT-01 stack order when widgets are present:
-                   Corpus placement → Reader guidance → Trace → D/A/C, then
+                   Corpus placement → Reader guidance → Trace → O/M/A/C, then
                    the binding owner / home line and other operative prose.
   NAV-WIDGET-TOP-01 spacing — consecutive opening-stack widgets are adjacent
                    (blank lines only; no ``<br>``, owner lines, or other prose
                    between them). ``<br>`` belongs after the last stack widget
                    before operative content.
 
-Does not require every section to carry Trace or D/A/C; it only constrains
+Does not require every section to carry Trace or O/M/A/C; it only constrains
 placement when those widgets exist in the unit's direct content.
 """
 
@@ -43,7 +43,7 @@ TRACE_SUMMARY = (
 )
 DEC_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">'
-    "Definitions · Assessment · Compliance</span></strong></summary>"
+    "Definitions (O · M · A · C)</span></strong></summary>"
 )
 PLACEMENT_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">Corpus placement '
@@ -200,7 +200,7 @@ def audit_contiguous_widget_run(
         if rank < last_rank:
             findings.append(
                 f"{rel}:{open_idx + 1}: file-top widget order must be "
-                f"placement → reader guidance → Trace → D/A/C "
+                f"placement → reader guidance → Trace → O/M/A/C "
                 f"(found {kind} after {last_kind})"
             )
         last_rank = max(last_rank, rank)
@@ -226,7 +226,7 @@ def is_chart_caption(lines: list[str], close_idx: int, end: int) -> bool:
 
 
 def audit_file_top_stack(lines: list[str], rel: str) -> list[str]:
-    """Corpus placement / Reader / Trace / D/A/C before first body heading."""
+    """Corpus placement / Reader / Trace / O/M/A/C before first body heading."""
     if Path(rel).name in WRAPPER_NAMES:
         return []
 
@@ -334,7 +334,7 @@ def previous_nonempty(lines: list[str], before: int, start: int) -> int | None:
 
 
 def is_local_runin_widget(lines: list[str], widget_idx: int, start: int) -> bool:
-    """True when Trace/D/A/C sits under a bold ``**8.3.``-style run-in title."""
+    """True when Trace/O/M/A/C sits under a bold ``**8.3.``-style run-in title."""
     prev = previous_nonempty(lines, widget_idx, start)
     return prev is not None and bool(
         BOLD_RUNIN_SUBSECTION_RE.match(lines[prev].strip())
@@ -344,7 +344,7 @@ def is_local_runin_widget(lines: list[str], widget_idx: int, start: int) -> bool
 def direct_opening_trace_or_dac(
     lines: list[str], start: int, direct_end: int
 ) -> int | None:
-    """First Trace/D/A/C that opens the unit (not a mid-section run-in Trace)."""
+    """First Trace/O/M/A/C that opens the unit (not a mid-section run-in Trace)."""
     idx = start
     while idx < direct_end:
         if lines[idx].strip() == "<details>":
@@ -383,7 +383,7 @@ def first_kind_line(
 def collect_section_opening_widgets(
     lines: list[str], start: int, direct_end: int
 ) -> list[tuple[int, int, str]]:
-    """Leading reader / Trace / D/A/C widgets under a section heading."""
+    """Leading reader / Trace / O/M/A/C widgets under a section heading."""
     widgets: list[tuple[int, int, str]] = []
     idx = start
     while idx < direct_end:
@@ -420,7 +420,7 @@ def audit_section_widgets(
     end: int,
     heading_text: str,
 ) -> list[str]:
-    """Trace / D/A/C in a unit's direct content must open that unit."""
+    """Trace / O/M/A/C in a unit's direct content must open that unit."""
     if is_ch5_definition_file(rel):
         # Chapter Five entry anatomy is owned by ch5-entry-format / related audits.
         return []
@@ -460,7 +460,7 @@ def audit_section_widgets(
                         )
                     ):
                         findings.append(
-                            f"{rel}:{idx + 1}: Trace must precede D/A/C on "
+                            f"{rel}:{idx + 1}: Trace must precede O/M/A/C on "
                             f"{heading_text!r}"
                         )
                 return findings
@@ -470,7 +470,7 @@ def audit_section_widgets(
                 return findings
             if kind == "other" and idx < opening_widget:
                 findings.append(
-                    f"{rel}:{idx + 1}: Trace / D/A/C on {heading_text!r} must open "
+                    f"{rel}:{idx + 1}: Trace / O/M/A/C on {heading_text!r} must open "
                     f"the section (found a non-routing widget first)"
                 )
                 return findings
@@ -494,7 +494,7 @@ def audit_section_widgets(
         if idx < opening_widget:
             preview = stripped[:72]
             findings.append(
-                f"{rel}:{idx + 1}: Trace / D/A/C on {heading_text!r} must open "
+                f"{rel}:{idx + 1}: Trace / O/M/A/C on {heading_text!r} must open "
                 f"the section (found prose first: {preview!r})"
             )
             return findings

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Flag sections whose body opens with a list item instead of lead-in prose.
 
-After a heading's Trace / D/A/C widgets, ``<br>`` spacers, anchor lines, and
+After a heading's Trace / O/M/A/C widgets, ``<br>`` spacers, anchor lines, and
 ``*In plain terms*`` gloss, the first operative line of a section should be
 prose that introduces what follows — not a bare ``- `` / ``* `` / ``1. `` list
 item. A section whose first content is a child heading is a container and is

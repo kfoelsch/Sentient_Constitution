@@ -60,7 +60,7 @@ class AlignmentAuditor:
         self.expected_non_anchors: list[str] = []
 
     def extract_ch1_principles(self):
-        """Parse Preamble and Chapter One for principles and D/A/C anchors."""
+        """Parse Preamble and Chapter One for principles and O/M/A/C anchors."""
         for record in collect_ch1_principles(self.repo_root):
             self.ch1_principles[record.section] = {
                 "title": record.title,
@@ -114,7 +114,7 @@ class AlignmentAuditor:
     def _expects_dac_widget(principle_id: str) -> bool:
         """Preamble orients outward; §3 and §6 are roadmap preview parents.
 
-        NAV-DAC-12: do not attach D/A/C widgets on Preamble (indexes to Chapter
+        NAV-DAC-12: do not attach O/M/A/C widgets on Preamble (indexes to Chapter
         Five homes) or on Chapter One ### preview parents whose #### children
         already own the operative definitions. §3 and §6 name Safety and Truth
         as floors; §3.1–§3.4 and §6.1–§6.3 carry the working terms. §2.1 states
@@ -126,7 +126,7 @@ class AlignmentAuditor:
         return principle_id not in {"2.1", "3", "6"}
 
     def check_completeness(self):
-        """Check that principles expected to invoke Def.* have D/A/C anchors."""
+        """Check that principles expected to invoke Def.* have O/M/A/C anchors."""
         for principle_id, data in self.ch1_principles.items():
             if not self._expects_dac_widget(principle_id):
                 continue
@@ -165,7 +165,7 @@ class AlignmentAuditor:
 
     @staticmethod
     def _strip_non_operative_details(text: str) -> str:
-        """Drop reader-guidance / corpus-placement widgets; keep Trace and D/A/C."""
+        """Drop reader-guidance / corpus-placement widgets; keep Trace and O/M/A/C."""
 
         def keep_or_drop(match: re.Match[str]) -> str:
             block = match.group(0)
@@ -176,7 +176,7 @@ class AlignmentAuditor:
     def _operative_ch1_invocations(self) -> set[str]:
         """Chapter Five terms Chapter One actually uses at principle layer.
 
-        Preamble and §3/§6 preview parents do not carry D/A/C widgets. Non-operative
+        Preamble and §3/§6 preview parents do not carry O/M/A/C widgets. Non-operative
         reader-guidance indexes are not invocations (NAV-DAC-12).
         """
         invoked: set[str] = set()
@@ -239,7 +239,7 @@ class AlignmentAuditor:
         return None
 
     def check_cluster_integrity(self):
-        """Flag Def.Xn leaves invoked in a principle body but missing from its D/A/C widget.
+        """Flag Def.Xn leaves invoked in a principle body but missing from its O/M/A/C widget.
 
         Cluster-head titles are excluded. Leaves that Chapter One never invokes remain
         coverage orphans, not segmentation findings (NAV-DAC-12 roadmap exclusion).
@@ -326,7 +326,7 @@ class AlignmentAuditor:
 
             f.write("## Executive Summary\n\n")
             f.write(
-                f"- **Coverage:** {complete_mappings}/{total_principles} principles that require D/A/C widgets have complete definition mappings\n"
+                f"- **Coverage:** {complete_mappings}/{total_principles} principles that require O/M/A/C widgets have complete definition mappings\n"
             )
             f.write(
                 f"- **Anchored principles:** {anchored_principles}/{total_principles} "
@@ -377,7 +377,7 @@ class AlignmentAuditor:
                 f.write("## Coverage Findings\n\n")
                 f.write(
                     "No unexpected orphan definitions. Remaining Chapter Five terms without a "
-                    "Chapter One D/A/C widget are expected non-anchors under NAV-DAC-12 "
+                    "Chapter One O/M/A/C widget are expected non-anchors under NAV-DAC-12 "
                     "(cluster heads, Preamble-oriented aims, and later-chapter or uninvoked leaves).\n\n"
                 )
 
@@ -387,7 +387,7 @@ class AlignmentAuditor:
                     principle = gap.get("principle", "")
                     loc = f"{gap['cluster']} on §{principle}" if principle else gap["cluster"]
                     f.write(
-                        f"- **{loc}**: D/A/C cites {len(gap['referenced_terms'])} cluster leaves; "
+                        f"- **{loc}**: O/M/A/C cites {len(gap['referenced_terms'])} cluster leaves; "
                         f"body also invokes {', '.join(gap['missing_terms'])}\n"
                     )
                 f.write("\n")
@@ -412,11 +412,11 @@ class AlignmentAuditor:
                 )
             if self.cluster_gaps:
                 f.write(
-                    "3. **Fix cluster segmentation** by adding D/A/C rows for Def.Xn leaves the same principle already invokes\n"
+                    "3. **Fix cluster segmentation** by adding O/M/A/C rows for Def.Xn leaves the same principle already invokes\n"
                 )
             if self.coverage_gaps:
                 f.write(
-                    "4. **Review unexpected orphans** — add D/A/C rows where Chapter One operatively invokes the term\n"
+                    "4. **Review unexpected orphans** — add O/M/A/C rows where Chapter One operatively invokes the term\n"
                 )
             f.write(
                 "5. Semantic adequacy of principle ↔ definition mapping remains a manual-review item.\n"
