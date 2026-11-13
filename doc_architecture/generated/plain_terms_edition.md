@@ -165,11 +165,11 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 Source file: [`core_01.000_values_principles.md`](../../core_01.000_values_principles.md) · 21/38 headings glossed
 
-#### 1. Purpose and Role
+#### 1. Purpose, Role, and Scope
 
 Chapter One sets the values and constraints that govern every other chapter. Shared systems must pursue **Flourishing** and **Continuity** together — not one at the expense of the other — and no single value may be maximized at the expense of the others.
 
-[Source](../../core_01.000_values_principles.md#1-purpose-and-role)
+[Source](../../core_01.000_values_principles.md#1-purpose-role-and-scope)
 
 #### 2. Flourishing Aim: Introduction
 

@@ -40,7 +40,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad),
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and
   - [material stake](core_00.000_preamble.md#material-stake) scaling apply chapter-wide through section traces;
-  - [Chapter One §1 Purpose and Role](core_01.000_values_principles.md#1-purpose-and-role) (1.000 §1) (*values and constraints this definition stack serves*).
+  - [Chapter One §1 Purpose and Role](core_01.000_values_principles.md#1-purpose-role-and-scope) (1.000 §1) (*values and constraints this definition stack serves*).
 - Upstream: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C decomposition and internal-alignment requirement.
 - Tetrad leg(s): **oversight**, **accountability** (definitions must be assessable and enforceable on observable behavior). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies chapter-wide.
 - Downstream:
