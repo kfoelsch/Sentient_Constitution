@@ -148,23 +148,18 @@ flowchart TB
             F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
             C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
         end
-        subgraph Tetrad1["Constitutional Tetrad · participation and oversight"]
+        subgraph Tetrad["Constitutional Tetrad"]
             direction LR
             P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
             O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
-        end
-        subgraph Tetrad2["Constitutional Tetrad · accountability and timeliness"]
-            direction LR
             A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
             T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
         end
     end
     F ~~~ P
-    P ~~~ A
     style Foundation fill:none,stroke:none
     style Aims fill:none,stroke:none
-    style Tetrad1 fill:none,stroke:none
-    style Tetrad2 fill:none,stroke:none
+    style Tetrad fill:none,stroke:none
     style F fill:none,stroke:#16a34a,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
     style P fill:none,stroke:#0f766e,color:#ffffff
