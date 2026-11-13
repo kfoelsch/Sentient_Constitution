@@ -1,0 +1,5 @@
+<!-- Locale: pt | Baseline commit: eb2e7a0b39e7e93611fb8ab439652661b411013e; baseline SHA-256: cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e | Source commit: 067ac0cdbd0178e154ee55a1d1c908818f4555dd; source SHA-256: 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5 | AI-drafted, unreviewed | Partial current-source update; 2 replacement rows -->
+
+- **O que não é novidade:** uma entidade sucessora, renomeada, dividida ou transferida que mantenha o mesmo operador, controle ou sistema ([Parte C §9.4 Não evasão](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [Capítulo Três §2.1 Padrões comuns de evasão](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+
+- **Ao fórum competente sobre uma pessoa senciente identificada:** quando a conclusão da certificação se baseia no uso do Sistema por uma pessoa senciente para realizar uma violação, o fórum principal encaminha os fatos ao fórum com jurisdição sobre essa pessoa senciente.

@@ -1,0 +1,4 @@
+<!-- Locale: ur | Source: 067ac0cdbd0178e154ee55a1d1c908818f4555dd (SHA-256 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5) | Baseline: eb2e7a0b39e7e93611fb8ab439652661b411013e (SHA-256 cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e) | AI-drafted, unreviewed | Partial current-source update, 2 replacement rows. -->
+
+- **کیا چیز نئی نہیں ہے:** ایسا جانشین، نام بدلا ہوا، تقسیم شدہ یا منتقل شدہ ادارہ جو وہی آپریٹر، کنٹرول یا نظام رکھتا ہو ([حصہ C §9.4 عدمِ گریز](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion)؛ [باب تین §2.1 گریز کے عام نمونے](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+  - **نامزد sentient کے بارے میں مجاز فورم کو:** اگر تصدیقی نتیجہ اس بات پر مبنی ہو کہ کسی sentient نے خلاف ورزی کرنے کے لیے نظام استعمال کیا، تو مرکزی فورم حقائق اس sentient کے بارے میں دائرۂ اختیار رکھنے والے فورم کو بھیجتا ہے۔

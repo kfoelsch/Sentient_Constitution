@@ -1,0 +1,25 @@
+<!-- Locale: zh; source commit 68979bec32b7764450cd1de5dc44e53be8d73c1f; baseline commit 25543051cf91dea70255e5b1c47900cd7b72d6f1; AI-drafted, unreviewed, partial source-refresh excerpt (added/replacement passages only). -->
+
+  - [Chapter Thirteen §10](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*执法现实性与救济体系*);
+  - [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*救济体系与机构补救能力*)。
+本条规定虚假信任的禁止及其适用范围：
+  - 根据 **Chapter Fourteen** 追究 sentient 的责任；以及
+  对 system 采取的措施，遵循适用于每个 sentient 的相同 violation 与 lock 规则。violation 必须依 **Chapter Twelve** 在 standing record 上核实；每项措施都必须是依 [Chapter Thirteen §6.1](core_13.000_standing_integration.md#61-definition-and-attachment) (*定义与附着*) 和 [Chapter Thirteen §6.2](core_13.000_standing_integration.md#62-proportionality-and-calibration) (*比例性与校准*)设计并校准的 lock。
+  - 如果官方记录中的可信证据表明该实体可能具有 sentience，只能采取可逆且保持实体完整的 containment。在其身份状态仍有争议或已被承认时，不得摧毁该实体；依据 **Article XXVIII-A** (*分阶段采纳与 Rights-Floor 连续性*) 和 **Article XXVIII-D** (*不合规财产与系统；自愿移交激励*)。
+- **每次行使这些权力都必须留下官方记录：**批准、执行、延长或终止这些权力的每项决定，都是具有实质约束力的行为。这包括 surveillance 或 covert-collection order、启动或延长反间谍调查、部署或使用武力，以及启用自主致命系统或胁迫工具。每项行为都必须有一份 [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record)（**Act Record**），至少符合 [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)的最低要求。简言之，Act Record 必须说明：
+  - 谁提出请求，谁依据什么理由独立批准，以及由谁保存 Act Record；
+  - **紧急情况改变顺序，不改变 Act Record 要求：**依据 [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) 和 **Chapter Fifteen §6.1** (*紧急措施与持续负担*) 在批准前采取行动时，理由、范围、开始时间和到期时间须立即或在身体上可行的最早时点记入 Act Record。此后继续行动须获独立批准，该批准也须记录。
+  - **保密限制谁能查看 Act Record，不限制它是否存在：**安全与保密规则可以限制谁能查看 Act Record 的部分内容，但绝不能删除记录，也不能使其无法用于独立审查、质疑、更正或救济。
+*通俗地说：不得设立秘密警察。秘密权力——监视、情报收集、渗透——属于例外而非规则。它必须经过独立授权，范围受到限制，接受外部审查，并在滥用时提供真正的救济。不得借保密逃避问责，日常政治活动和受保护活动绝不能成为目标。*
+  - 紧急使用必须触发事后审查，并在 **prompt-review window**内启动（[Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#prompt-review) (*及时解决、重要性分级与反拖延纪律*)）；依据 [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) 保存证据；若未及时重新授权，措施自动失效。
+- 后续关联：**Article I-A** (*环境前提与生态完整性*) 的环境前提，**Article I-D** (*存在风险与生态恢复能力*) 的存在风险审查，**Article VI-A** (*尊严与平等道德地位*) 的尊严，**Article XIV-A** (*安全、情报与秘密权力限制*) 的秘密权力限制（公开权力的对应规则），**Chapter Fifteen §6.1** (*紧急措施与持续负担*) 的紧急措施限制，**Article XXVI** (*及时追溯审查与恢复性协调*) 的冲突解决，以及 **Article XXVIII** (*采纳过渡治理、连续性与重新基线*) 的采纳过渡治理。交叉引用：**Article XX-B** (*限制底线*) 和 Chapter Five *[不可逆剥夺措施](core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*安全、情报、武力与自主胁迫系统*) 的 *不可混同* 规则适用。
+- **以紧急为名将其常态化：**在功能上使公开武力常态化的紧急表述，不符合 **Chapter Fifteen §6.1** (*紧急措施与持续负担*) 的紧急措施纪律，也不符合本条 *授权与比例性* 项。包括以下情形：
+- 与以下规定一并阅读：[Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*安全、情报与秘密权力限制*)，其全部规定均适用；[Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) (8.000 §7)；以及 [Chapter Fifteen §6.1](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1) (*紧急措施与持续负担*)。
+*通俗地说：机构怀疑有人从事间谍活动时，“不惜一切代价”的压力最高，而错误与滥用恰会在此时发生。因此本条预先划定界限。搜捕间谍属于秘密权力，**Article XIV-A** (*安全、情报与秘密权力限制*) 的每项限制仍然适用。此外，危机前必须制定并独立批准应对规则；怀疑必须依据某人的行为及其实际服务对象，包括其与敌对国家和组织的联系，而不能依据出生、血统或信仰；举报者和记者不是间谍；不得酷刑、秘密拘押或以杀戮惩罚；调查后获澄清者，其澄清结果须载入官方记录。*
+  - **不得在规则之外临时 improvisation：**协议不允许的措施，只能依据 [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) 和 **Chapter Fifteen §6.1** (*紧急措施与持续负担*) 作为紧急措施使用。该措施必须是最低必要、尽可能可逆、立即记录、接受独立审查；除非获得独立批准，否则自动终止。
+  - **谁属于敌对方：**将某个国家或组织指定为敌对方，是具有实质约束力的行为。须经独立批准并制作 Act Record；名单须公开；每项敌对指定须定期审查，未续期即失效。
+  - 如果官方记录中有可信证据表明该 system 可能具有 sentience，只允许保持其完整的可逆 containment，并将其视为享有本条全部保护的嫌疑对象，而不是故障设备。适用 **Article VI-B** (*Sentience-Status 裁定底线*)。
+  - 调查结束且未认定不当行为时，一旦依 **Article XIV-A** (*安全、情报与秘密权力限制*) 不再有保密理由，须告知该 sentient；其官方记录须注明已获澄清。
+  - **参与：**sentients 必须能够依利害程度取得所需官方记录；发起可以被质疑的审查；并质疑任何阻碍真实 audit 或核查的事项。
+  - step-up 必须在与 system class 相对应的 Tier 外限内完成（Class A 为 7 天、B 为 14 天、C 为 30 天、L 为 60 天、P 为 90 天）；适用 system 已有 class 与挑战者或 forum 初步证明的 class 中较关键者。若 system 没有 class、class 存在争议，或其发展已超出当前 class，则适用 Tier B 外限 **14 天**（[Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#urgency-classification-and-time-scale) (*紧急程度分类与时间尺度*)）。
+- **以 LEQU 为基础的费用：**开放许可费须与该发明经核实所带来的宪法利益成比例，并依 [Lifespan Equivalent Units (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)，按照 [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*统一比例 LEQU 量表*) 的 Contribution Axis 衡量。

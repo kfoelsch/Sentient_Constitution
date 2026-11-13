@@ -1,0 +1,7 @@
+<!-- AI-assisted translation draft; unreviewed. Current-source Chapter Nine Part C §§11.1/11.3 legacy-mapped; source SHA-256 514660246137f474b92cc37a717a64e0dd4f4890aca64cc95a0176b92ce28ec1. Baseline commit 247e2180509e5e029c1106878cf225067339e010; baseline SHA-256 faadaac887372f28f9b38ad506da505372ce40936796288c73d5f33f9c5317d9. Draft only; do not synchronize into translations/. -->
+
+<a id="11-relationship-to-standing"></a>
+
+### 11. நிலைத்தடத்துடனான உறவு
+
+*எளிய சொற்களில்: சான்றளிப்பு நிலைத்தடத்தை ஊட்டலாம், ஆனால் அது நிலைத்தடம் அல்ல. ஒரு நல்ல அல்லது மோசமான சான்றளிப்புப் பதிவு கண்டிப்பான வாயில் வழியாக மட்டுமே அத்தியாயம் எட்டுக்குச் சரிபார்க்கப்பட்ட உண்மைகளைத் தரலாம் — அத்தியாயங்கள் எட்டு மற்றும் ஒன்பது மட்டுமே நிலைத்தடப் பதிவுகளையும் விளைவுகளையும் முடிவு செய்கின்றன.*

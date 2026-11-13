@@ -1,0 +1,4 @@
+<!-- locale: pt; source: 2c1d6a17; baseline: 25543051cf91dea70255e5b1c47900cd7b72d6f1; AI-drafted/unreviewed; partial changed-passage refresh -->
+> Nota de leitura em linguagem simples: leia o **Capítulo Um** para conhecer os valores e a orientação gerais; os **Capítulos Dois a Quatro** para a estrutura das definições, sua integridade e os mecanismos de verificação; e o **Capítulo Seis** para o piso fundamental de **direitos**. Depois, volte a este capítulo para conferir a precisão dos termos usados na interpretação, auditoria e adjudicação. (Outros capítulos também se aplicam por seus próprios percursos de leitura, inclusive o **Capítulo Quatorze**, *Má Conduta*, e o **Capítulo Onze**, *Situação*; eles não substituem o Piso de Direitos do Capítulo Seis nem os mecanismos de definição dos Capítulos Dois a Quatro.)
+- [Via condicionada](core_05.035_band_accountability.md#gated-pathway)
+- [Sob contestação](core_05.035_band_accountability.md#under-challenge)

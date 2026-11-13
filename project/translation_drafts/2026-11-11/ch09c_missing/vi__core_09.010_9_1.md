@@ -1,0 +1,9 @@
+<!-- AI-assisted translation draft; unreviewed. Current-source Chapter Nine Part C §9.1; source SHA-256 514660246137f474b92cc37a717a64e0dd4f4890aca64cc95a0176b92ce28ec1. Baseline commit 247e2180509e5e029c1106878cf225067339e010; baseline SHA-256 faadaac887372f28f9b38ad506da505372ce40936796288c73d5f33f9c5317d9. Draft only; do not synchronize into translations/. -->
+
+<a id="91-recertification-schedule-and-the-new-system-certification-record"></a>
+#### 9.1 Lịch tái chứng nhận và Hồ sơ Chứng nhận Hệ thống mới
+*Nói đơn giản: chứng nhận không có hiệu lực mãi mãi. Hệ thống đến hạn tái chứng nhận theo lịch dựa trên loại hệ thống, với kiểm toán ở giữa mỗi chu kỳ. Mỗi lượt chứng nhận mở hồ sơ mới liên kết với hồ sơ trước.*
+**Hồ sơ Chứng nhận Hệ thống** phải được tái chứng nhận theo chu kỳ dành cho loại hệ thống tại [Chương Mười Lăm §6 Giải quyết kịp thời, các tầng trọng yếu và kỷ luật chống trì hoãn](core_15.000_forum.md#review-cadence) (*Chu kỳ xem xét*), và được kiểm toán ở giữa chu kỳ đó.
+**Hồ sơ mới cho mỗi lượt chứng nhận.** Mỗi lượt chứng nhận sau (tái chứng nhận, xem xét mở lại hoặc xem xét mới) mở một Hồ sơ Chứng nhận Hệ thống mới. Hồ sơ mới:
+- liên kết với hồ sơ hoàn tất trước đó mà nó tiếp nối và nêu những thay đổi kể từ đó ([§8.1.1 Nhận dạng hệ thống, phạm vi và hồ sơ trước đó](#811-system-identity-scope-and-prior-system-certification-record)); và
+Hồ sơ Chứng nhận Hệ thống đã hoàn tất giữ nguyên trạng ([§8 Hồ sơ Chứng nhận Hệ thống](#8-system-certification-record)). Hồ sơ đó vẫn là hồ sơ của giai đoạn được ghi nhận và vẫn có thể bị khiếu nại theo [Phần B §6.3 Chuỗi khả năng khiếu nại](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain). Trạng thái chứng nhận, số lần tái chứng nhận không có vi phạm và chỉ báo theo dõi được chuyển tiếp qua liên kết. Chúng được xác minh trong hồ sơ mới theo [§9.3 Chứng nhận tạm thời và đầy đủ](#93-provisional-and-full-certification).

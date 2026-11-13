@@ -1,0 +1,4 @@
+<!-- Locale: mr (Marathi); base commit eb2e7a0b39e7e93611fb8ab439652661b411013e; current working-tree source SHA-256 ae3fe7bed7cff2818f3f2f59b785b84f672808075a81935febcafa86992dcaf9; AI-drafted, unreviewed, partial two-row source update. -->
+
+  - **stakeholder-participation** म्हणजे आधीच अधिकृत केलेल्या प्रणाली, संस्था किंवा निर्णयक्षेत्रात stakeच्या प्रमाणात मत आणि बंधनकारक stakeholder निवड.
+  - **Stakeholder-Participation Standing Lock:** stakeholder-participation मार्गाचा सत्यापित भ्रष्टाचार, ताबा मिळवणे, खोट्या stakeचा गैरवापर, दबाव किंवा तुल्य भौतिक गैरवापर झाल्यास हा lock लागू होतो. तो प्रभावित क्षेत्रातील stake-प्रमाणित मत आणि बंधनकारक stakeholder निवड मर्यादित करतो; मात्र स्वतःहून **governance-voting**, मूलभूत घटनात्मक निवड किंवा stakeholder दर्जा काढून घेत नाही. साधी माफी, पूर्वीचे योगदान, stakeचा आकार किंवा operatorची अपरिहार्यता यांपैकी कोणतीही बाब एकटी हा lock उठवू शकत नाही.

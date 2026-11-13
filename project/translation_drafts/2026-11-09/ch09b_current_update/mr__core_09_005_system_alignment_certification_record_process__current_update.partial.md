@@ -1,0 +1,5 @@
+<!-- Locale: mr | Baseline commit: eb2e7a0b39e7e93611fb8ab439652661b411013e; baseline SHA-256: cc220948d313f62626a23934ff0bd63ca5058ab86f25a18aecd247cd146a412e | Source commit: 067ac0cdbd0178e154ee55a1d1c908818f4555dd; source SHA-256: 4e9d3f4e2d2ef5934aad4765ee06e5888fba4d8873a97762aedfcec74c4b71b5 | AI-drafted, unreviewed | Partial current-source update; 2 replacement rows -->
+
+- **नवीन काय नाही:** तोच ऑपरेटर, नियंत्रण किंवा प्रणाली पुढे नेणारी उत्तराधिकारी, नाव बदललेली, विभागलेली किंवा हस्तांतरित केलेली संस्था ([भाग C §9.4 चुकवेगिरी न करणे](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [अध्याय तीन §2.1 सामान्य चुकवेगिरीचे नमुने](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+
+- **नामनिर्दिष्ट संवेदनशील व्यक्तीच्या अधिकारक्षेत्रातील मंचाकडे:** प्रमाणनाचा निष्कर्ष एखाद्या संवेदनशील व्यक्तीने उल्लंघन करण्यासाठी प्रणालीचा वापर केल्यावर आधारित असल्यास, प्रमुख मंच तथ्ये त्या संवेदनशील व्यक्तीवर अधिकारक्षेत्र असलेल्या मंचाकडे पाठवतो.

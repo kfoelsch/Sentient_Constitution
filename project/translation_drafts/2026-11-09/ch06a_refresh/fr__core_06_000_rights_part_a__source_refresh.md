@@ -1,0 +1,47 @@
+<!-- Locale: fr | Source commit: 2c1d6a17010cb9d4e8e290db5fbc4e5e3fdf8e62 | Baseline commit: 25543051cf91dea70255e5b1c47900cd7b72d6f1 | AI-drafted, unreviewed | Partial Chapter Six Part A source-refresh excerpt -->
+
+- **Les sentients peuvent contester les décisions de certification :** Le chapitre Neuf prévoit aussi des moyens de contester le Dossier de certification du système, d’exiger un examen par les parties prenantes et de l’accessibilité, de maintenir l’ordre des séquences de supervision et de contester les décisions d’alignement qui ne résistent pas à l’examen.
+
+- **Les chapitres Neuf à Quinze forment le parcours pratique :** Ensemble, ils fournissent les processus essentiels de contestabilité, de classification vérifiée, de supervision par le forum et de réparation en temps utile.
+
+- **Résolution des conflits, collisions de droits et urgences** — **Article XXVI** (*Examen rétrospectif en temps utile et alignement réparateur*) ; **chapitre Quinze §6.1** (*Mesures d’urgence et charge de continuation*) ; [chapitre Un §13.1.5 Test décisionnel des collisions de droits](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)
+
+- **Ne pas faire entrer des règles par la porte dérobée :** Il est interdit d’importer des obligations d’autres chapitres dans le chapitre Six en copiant du texte, en traitant les notes au lecteur comme de véritables règles ou en surinterprétant un renvoi. Les autres chapitres et les fichiers de mise en œuvre ne peuvent pas non plus réduire, redéfinir ou déplacer le Socle des droits du chapitre Six : cela violerait la **non-régression** du **chapitre Dix-Sept**.
+
+  - Un préjudice qui enfreint aussi les règles environnementales du [document d’adoption](core_19.000_amendment_ratification.md#102-adoption-document) de l’adoptant ou du texte de mise en œuvre incorporé dans le champ de l’adoption constitue également une non-conformité.
+
+- En aval : **chapitre Quinze §6.1** (*Mesures d’urgence et charge de continuation*) — discipline de réexamen limitée dans le temps et contre les prétextes lorsqu’un cadrage de risque existentiel ou d’urgence est invoqué.
+
+  - Pour chaque solution de rechange sensiblement plus sûre, elle doit soit être adoptée dans l’activité examinée, soit faire l’objet d’une démonstration qu’elle ne permettrait toujours pas d’atteindre l’objectif légitime de l’activité ou qu’elle n’est pas disponible. Se fonder sur un dossier officiel indiquant seulement que des solutions ont été examinées, sans cette démonstration, est non conforme ;
+
+- **Mesures précises :** Toute personne demandant une autorisation, sa continuation ou son extension au titre du présent Article doit nommer des mesures précises de réduction, de plafonnement ou d’interruption dans son [document d’adoption](core_19.000_amendment_ratification.md#102-adoption-document) ou dans le texte de mise en œuvre incorporé dans le champ de l’adoption — y compris les dommages au système climatique en tant que facteur de [conditions préalables environnementales](core_05.040_band_continuity.md#environmental-preconditions). Ces mesures doivent correspondre à l’ampleur du risque.
+
+**Où se trouvent les détails pratiques :** Les produits couverts par l’**Article II** (*Garde des matériaux et intégrité de l’usage durable*), les personnes qualifiées pour les réparer et les entretenir, les seuils déclenchant ces obligations ainsi que les arrangements de séquestre et d’arrêt des produits retirés sont laissés au texte de mise en œuvre adopté au titre du [chapitre Vingt](core_20.000_incorporation.md).
+
+Le présent Article établit les socles d’honnêteté du cycle de vie des biens durables et les dossiers officiels qui les étayent :
+
+  Les dossiers officiels doivent correspondre aux déclarations externes. Ils doivent être actualisés lorsque les conditions matérielles changent.
+
+- **Traitement des données :** Les opérateurs doivent classer et traiter les données visées par le présent Article comme l’exige [CS-6.305 — Types et traitement de l’information](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling), lorsqu’il est incorporé au titre du [chapitre Vingt](core_20.000_incorporation.md). Cela comprend les règles de notification et de suppression de [CS-6.305 §1.3 notification de collecte et suppression](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion) et les règles d’exportation essentielles à la continuité de [CS-6.305 §1.2 collecte critique pour la continuité et possibilité d’exportation](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+
+  - Les données doivent être supprimées dans le délai communiqué, au plus tard **14 jours**, limite supérieure du niveau B fixée par le [chapitre Quinze §6 Résolution en temps utile, niveaux de matérialité et discipline anti-retard](core_15.000_forum.md#urgency-classification-and-time-scale) (*Classification de l’urgence et échelle de temps*), quelle que soit la classe de l’opérateur ou du système. Ce délai est un plafond : si la seule existence continue des données cause un préjudice dans une affaire de niveau A ou B, l’objectif de réception du niveau correspondant s’applique à la place ; une conservation légale ou une affaire ouverte suspend la suppression, avec notification au demandeur dans l’objectif de réception du niveau correspondant ;
+
+  - les obligations de conservation prévues par l’**Article XXVIII-A** (*Gouvernance de transition d’adoption, continuité et réétalonnage du Socle des droits*) lorsqu’un indicateur crédible de sentience figure dans le dossier officiel ; ou
+
+  Les opérateurs ne doivent pas collecter ni conserver des données sentientes critiques pour la continuité sous des formes impossibles à exporter, migrer ou transférer au moyen des parcours de continuité et d’exportation communiqués. L’exception s’applique lorsque la **Nécessité** impose la confidentialité, la sécurité ou une non-divulgation légale. Dans ce cas, la limitation, son champ et tout parcours de remplacement licite pour l’exportation doivent être communiqués avant l’engagement.
+
+- À lire avec : [chapitre Treize §10.1](core_13.000_standing_integration.md#101-remediation-capacity-and-funding) (13.000 §10.1) et [§10.4](core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority).
+
+  Les mesures d’urgence sont également soumises au [**chapitre Quinze §6.1**](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*Mesures d’urgence et charge de continuation*). Demander ou recevoir des soins ne vaut pas en soi consentement à une intrusion supplémentaire et n’ouvre pas la frontière de l’état intérieur protégée par l’[**Article VII-B** (*Autopropriété de l’esprit*)](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind).
+
+  - Les coûts, la distribution, la main-d’œuvre et la conception du système sont traités par les fichiers CI-9.210 (*Obligations institutionnelles liées à la classification*) à CI-6.215 (*Garde des ressources et intégrité des incitations*) cités dans l’[**Article III** (*Survie et accès aux besoins essentiels*)](#article-iii-survival-and-essential-access) (*Garanties institutionnelles*) et par d’autres textes de mise en œuvre incorporés, conformément aux règles d’incorporation du **chapitre Vingt**.
+
+  - Les mécanismes opérationnels — orientation budgétaire, conception des transferts et des assurances, conception institutionnelle de l’organisation collective — relèvent des fichiers CI-9.210 (*Obligations institutionnelles liées à la classification*) à CI-6.215 (*Garde des ressources et intégrité des incitations*) cités dans l’[**Article III** (*Survie et accès aux besoins essentiels*)](#article-iii-survival-and-essential-access) (*Garanties institutionnelles*), conformément aux règles d’incorporation du **chapitre Vingt**.
+
+  - L’établissement des normes relatives aux Conditions sûres relève de [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*Cycle de vie du système*) et des fichiers CI-9.210 (*Obligations institutionnelles liées à la classification*) à CI-6.215 (*Garde des ressources et intégrité des incitations*) cités dans l’[**Article III** (*Survie et accès aux besoins essentiels*)](#article-iii-survival-and-essential-access) (*Garanties institutionnelles*), conformément aux règles d’incorporation du **chapitre Vingt**.
+
+  - Les normes, seuils et délais de notification relèvent de [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation : suffisance de la divulgation et conditions d’observabilité*), [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Responsabilité : examen structurel, urgence de correction et conditions de divulgation*) et du texte de mise en œuvre adopté au titre du [chapitre Vingt](core_20.000_incorporation.md).
+
+  Ces possibilités doivent empêcher que la capacité d’agir soit annulée par l’obsolescence imposée ou le verrouillage. Elles doivent aussi offrir des parcours équitables de développement de la garde vers des responsabilités de garde pertinentes au regard de la Constitution, au titre du **chapitre Seize, section 5** — *Rôles autorisés, développement des compétences et contribution*.
+
+**Fichier précédent :** [core_15.000_forum.md](core_15.000_forum.md)
