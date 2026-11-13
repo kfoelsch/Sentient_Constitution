@@ -64,7 +64,15 @@ Chapter Twenty-Six is the constitutional owner of **additive expansion of protec
 - A body can bind itself only by adopting through Chapter Twenty-Seven, and only as far as it already has lawful authority to bind itself.
 - **Chapter Twenty-Eight section 4** applies where partial adoption could shrink duties an entity already bears.
 
-**Chapter scope.** The chapter covers **section 2** through **section 6** in order. It leaves:
+**Chapter scope.** The chapter covers:
+
+- additive expansion (**section 2**);
+- continuity of supremacy and challenge rights during amendment (**section 3**);
+- supremacy relative to other binding norms (**section 4**);
+- disputes involving external legal orders (**section 5**); and
+- the relation to applicable external law (**section 6**).
+
+The chapter leaves:
 
 - the test for whether a change is valid to Chapters [Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity); and
 - the incorporation bridge, custody, and operative effect of adopted text to [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge).

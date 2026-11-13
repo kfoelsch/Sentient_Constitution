@@ -67,7 +67,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 **Role.** Chapter Two is the first layer of the definition stack:
 
 - [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) states the values and constraints that the definitions serve.
-- [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) says what it means to fail a definition in practice.
+- [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition in practice.
 - [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
 - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) holds the canonical definitions, written in the shape set here.
 - Later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply with the [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) set here.
@@ -80,7 +80,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 
 The chapter leaves:
 
-- what counts as failing a definition to Chapter Three;
+- what counts as failing an applicable definition to Chapter Three;
 - burden of proof, traceability, and verification to Chapter Four; and
 - the canonical definitions themselves to Chapter Five.
 
@@ -96,7 +96,7 @@ Every constitutional definition MUST be built from linked parts, each with exact
 
 Those parts MUST stay consistent within each definition. Enforcement, governance, implementation, measurement operations, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with the [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint) established here.
 
-Every definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. The O, M, A, and C parts MUST all pass together, on the same evaluation scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
+Every applicable definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. The O, M, A, and C parts MUST all pass together, on the same evaluation scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
 
 #### 2.1 Ontological Components (O) — What It Is
 
@@ -150,7 +150,7 @@ Chapter Five leaf definitions must carry those M requirements using the Measurem
 
 - Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§2 Definition Components and Joint Satisfaction](#2-definition-components-and-joint-satisfaction) — A component role within O/M/A/C decomposition.
 - Downstream: [Chapter Three, section 2 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000); [Chapter Four, section 2 — Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (4.000) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 6 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#6-compliance-evidence-standard) (4.000) — evidence sufficiency for that enforcement.
-- Read with: [Chapter Five Independent Definitions](core_05.000_definitions_home.md#1-interdependent-definitions) (5.000) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
+- Read with: [Chapter Five Independent Definitions](core_05.000_definitions_home.md#2-interdependent-definitions) (5.000) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
 
 </details>
 

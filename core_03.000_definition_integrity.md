@@ -25,7 +25,7 @@
 Chapter Three is the constitutional owner of **definition integrity, evasion, and non-compliance for assessment work**.
 
 
-*In plain terms: this chapter blocks word-games — if behavior evades a definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
+*In plain terms: this chapter blocks word-games — if behavior evades an applicable definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: this chapter says when a system fails an applicable definition in practice: when what it does or produces would violate that definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.*
@@ -192,7 +192,7 @@ Where formal-structure change is material, apply [Chapter One §19.6 Keeping Res
 
 #### 3.2 Reductive Evasion
 
-Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of a definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
+Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of an applicable definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
 
 The following forms of reduction are prohibited:
 - Semantic reduction: treating a definition as descriptive while removing normative or assessment force
@@ -257,7 +257,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 <br>
 
-*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§4.2 Standing Effects at First Certification](#42-standing-effects-at-first-certification)).*
+*In plain terms: when something fails an applicable definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§4.2 Standing Effects at First Certification](#42-standing-effects-at-first-certification)).*
 
 Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
 

@@ -33,7 +33,7 @@ Chapter Four is the constitutional owner of **burden allocation, compliance evid
 **Purpose.** Chapter Four answers who must prove compliance and how the proof must look:
 
 - the party claiming compliance carries the burden through one five-step check (**section 2**);
-- it must show a map from each definition's parts, Ontological, Measurement, Assessment, and Compliance, to what the system actually does (**section 3**), and must expose enough of itself for that map to be checked in practice (**section 4**);
+- it must show a map from each applicable definition's parts, Ontological, Measurement, Assessment, and Compliance, to what the system actually does (**section 3**), and must expose enough of itself for that map to be checked in practice (**section 4**);
 - security can narrow how, when, and to whom disclosure happens but cannot erase the duty to trace and verify (**section 5**); and
 - evidence must be tied to the map, independent where possible, complete, and sustained (**section 6**).
 
@@ -74,7 +74,7 @@ Read in order. Each step builds on the last; skip none.
 | Step | Plain job | Section |
 | --- | --- | --- |
 | **1 — Who proves** | Burden sits on whoever claims compliance | [§2 Exclusive Enforcement and Burden Allocation](#2-exclusive-enforcement-and-burden-allocation) |
-| **2 — Show the map** | Structured trace from definitions to observable behavior | [§3 Definition Traceability Requirement](#3-definition-traceability-requirement) |
+| **2 — Show the map** | Structured trace from applicable definitions to observable behavior | [§3 Definition Traceability Requirement](#3-definition-traceability-requirement) |
 | **3 — Make it checkable** | Systems must expose enough to verify the map — in practice, not in theory | [§4 Observability of Traceability Requirement](#4-observability-of-traceability-requirement) |
 | **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§5 Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule) |
 | **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§6 Compliance Evidence Standard](#6-compliance-evidence-standard) |
@@ -97,7 +97,7 @@ Read in order. Each step builds on the last; skip none.
 
 <br>
 
-*In plain terms: show a checkable map from each definition's parts — O, M, A, and C — to what the system actually does, before **sections 4** through **5** judge whether anyone can verify it and whether the proof holds.*
+*In plain terms: show a checkable map from each applicable definition's parts — O, M, A, and C — to what the system actually does, before **sections 4** through **5** judge whether anyone can verify it and whether the proof holds.*
 
 This section requires a **structured trace map**. For every definition that materially applies to system behavior — including every materially required **Chapter Five** definition — the map must link each part to **observable** behavior and real-world effects:
 

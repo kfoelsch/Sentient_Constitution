@@ -34,7 +34,12 @@ Chapter Eighteen**, is the constitutional owner of **contribution consequences**
 - It takes the decision order from **Chapter Seventeen section 3.4** (*Processing Order*). The contribution track and the violation track do not wait for each other.
 - Its result meets the violation track only at the final standing effect in Chapter Twenty, where a lock controls.
 
-**Chapter scope.** The chapter covers contribution consequences (**section 2.1** and **section 2.2**). It leaves:
+**Chapter scope.** The chapter covers:
+
+- recency and currentness (**section 2.1**); and
+- competency bars and clearances (**section 2.2**).
+
+The chapter leaves:
 
 - the decision order to Chapter Seventeen;
 - remedy, correction, and lock rules to Chapter Nineteen; and

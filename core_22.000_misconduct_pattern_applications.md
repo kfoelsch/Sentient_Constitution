@@ -33,10 +33,21 @@ Chapter Twenty-Two**, is the constitutional owner of **named pattern application
 - It takes the ACMD criteria and safeguards from Chapter Twenty-One as fixed.
 - After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) integrates the standing effect, and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case and certifies the forum.
 
-**Chapter scope.** The chapter covers the named patterns (**section 2** to **section 7**). It adds no ACMD criteria and no Chapter Seventeen lock types. It leaves:
+**Chapter scope.** The chapter covers the named patterns:
+
+- attacks on participation and accountability-pathway integrity (**section 2**);
+- blocking contest, review, and verification (**section 3**);
+- corrupting and commanding duty-holders (**section 4**);
+- shielding misconduct and failing to enforce (**section 5**);
+- structural control through concentration and dependency (**section 6**); and
+- obstruction of accountability (**section 7**).
+
+The chapter leaves:
 
 - ACMD criteria, attachment rules, and due-process safeguards to Chapter Twenty-One; and
 - operational forum, systems, and institutional mechanics to their owner chapters.
+
+The chapter adds no ACMD criteria and no Chapter Seventeen lock types.
 
 
 ### 2. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity
