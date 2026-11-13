@@ -35,9 +35,23 @@ Chapter Twenty-Seven is the constitutional owner of **procedural and custody val
 *In plain terms: this chapter is the procedural and paperwork spine for legitimate change — publish clearly, prove custody of the real text, let independent reviewers and the public contest it, and do not let rights-affecting updates snap irreversibly into place before those guardrails have actually run.*
 
 This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Five** (non-regression), **Chapter Twenty-Six** (supremacy and external-order interface), and the validity conditions in this chapter.
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.*
+
+**Purpose.** Chapter Twenty-Seven states Tests 2 to 4 and the rules around them. Heightened review for rights-affecting changes (**section 2**), the burden of justification and public traceability (**section 3**), and the validity floor (**section 4**) frame three tests: procedural validity and publication integrity (**section 5**), authority-chain and custody validity (**section 6**), and contestability and independent review validity (**section 7**). Review triggers (**section 8**), the provisional effect rule (**section 9**), and invalid-change handling and remediation continuity (**section 10**) say what happens when review is needed or a change fails. Ratification and adoption (**section 11**) and amendment procedure requirements (**section 12**) state how a body adopts and how it amends. **Section 13** states the owner non-relocation rule for this chapter.
+
+**Role.** The chapter is the procedural half of change validity:
+
+- [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) states Test 1, the substance test. Procedural steps cannot save a change that fails it (**section 4**).
+- A body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Six section 6**).
+- [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) holds custody, editions, and operative effect.
+
+**Chapter scope.** The chapter covers **section 2** through **section 12**, and **section 13** states the owner non-relocation rule. Escalation wording in this chapter is routing, not a second accountability code. The chapter leaves:
+
+- numeric Contribution and Violation slots to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
+- anti-constitutional-misconduct designations to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation); and
+- substantive non-regression to Chapter Twenty-Five.
 
 
 ### 2. Heightened Review for Rights-Affecting Changes

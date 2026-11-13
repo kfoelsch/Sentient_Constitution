@@ -56,9 +56,22 @@ The foundational floor is established by:
 - legitimacy and stewardship obligations in Chapter Twenty-Four
 
 Permitted expansion of protection and supremacy sequencing are governed by **Chapter Twenty-Six**; ratification and procedural validity are governed by **Chapter Twenty-Seven**.
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, or an emergency label. This chapter is Test 1, the substance test.*
+
+**Purpose.** Chapter Twenty-Five states Test 1, substantive non-regression validity. It sets the non-regression floor (**section 2**), the Test 1 checklist against [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) constraints, [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) integrity, [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, and [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy (**section 3**), and the anti-evasion clause with referral of serious bad-faith conduct (**section 4**). Amendment validity must preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
+
+**Role.** The chapter is the substance half of change validity:
+
+- [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) states the procedural tests, Tests 2 to 4, and [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) states what additive expansion is permitted.
+- Serious bad-faith conduct is flagged to the bodies that own labels and sanctions, not relabeled here.
+
+**Chapter scope.** The chapter covers **section 2** through **section 4**. **Section 5** states the validity-protection controls the chapter may impose and the owner non-relocation rule. The chapter leaves:
+
+- numeric standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
+- anti-constitutional-misconduct designation to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation); and
+- procedural validity to Chapter Twenty-Seven.
 
 
 ### 2. Non-Regression Floor

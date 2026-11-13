@@ -64,12 +64,33 @@
 Chapter Fifteen is the constitutional owner of **the verified factual record (Question 1)**. It runs from [§2 The Three Questions](#2-the-three-questions) through [§7 Handling a Standing Record](#7-handling-a-standing-record). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [Chapter Sixteen §2 Question 2 — How Good or Bad Was It?](core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it) through [Chapter Sixteen §10 Hand-Off to Question 3 — Cross-Question Measurement Hooks](core_16.000_standing_measurement.md#10-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Seventeen.
 
 *In plain terms: this chapter writes down what happened and holds the standing record. How good or how harmful it was is measured in Chapter Sixteen, on two separate tracks, never one net score. Filing a case is not standing by itself.*
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
 
+**Purpose.** Chapter Fifteen opens the standing pipeline. It states the three questions (**section 2**) and answers Question 1: it establishes a bounded, contestable account of what happened, identifying the subject, the event or pattern, the time period, the verified facts, and the standing record's status before any rating or consequence is considered (**section 3**). Verified help and verified violations use separate standing records, so one cannot erase the other.
 
-<a id="2-the-three-questions"></a>
+**Role.** The chapter produces the verified standing record that the rest of the pipeline takes as fixed:
+
+- [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures it (Question 2), and Chapter Seventeen decides what follows (Question 3), with review limited to the anti-constitutional-misconduct designation in [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) for qualifying Violation Axis slot 7 to 9 findings.
+- Certification outcomes reach it only as verified inputs, through the gate in **Chapter Eleven section 5** and **Chapter Fourteen section 5**.
+- [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)'s four-seat rule is applied to standing records in **section 6**.
+
+**Chapter scope.** The chapter covers:
+
+- the three questions (**section 2**);
+- Question 1 (**section 3**);
+- the event-type guide (**section 4**);
+- verification and record requirements (**section 5**);
+- record custody and opening authority (**section 6**); and
+- handling a standing record (**section 7**).
+
+Chapter scope for the standing frame itself, including what it does not measure, is stated in **section 2.1**. The chapter leaves:
+
+- how good or bad a verified fact was to Chapter Sixteen;
+- what follows to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows); and
+- forum supervision of standing records to [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (**section 3.7**, *Forum Boundary*).
+
 
 ### 2. The Three Questions
 

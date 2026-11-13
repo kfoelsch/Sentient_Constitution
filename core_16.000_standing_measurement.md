@@ -38,9 +38,24 @@
 Chapter Sixteen is the constitutional owner of **Question 2**, which measures the facts [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) verified. It begins at [§2 Question 2 — How Good or Bad Was It?](#2-question-2--how-good-or-bad-was-it). [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) owns the three-question frame, Question 1, and the standing record, and ends at [Chapter Fifteen §7 Handling a Standing Record](core_15.000_standing_assessment.md#7-handling-a-standing-record).
 
 *In plain terms: Chapter Fifteen settles what happened and who holds the standing record. This chapter measures it: how good was the contribution, or how bad was the violation, on two separate scales that are never added into a net score. What follows from the measurement is Chapter Seventeen.*
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: Question 2 measures the verified facts from Question 1. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score.*
+
+**Purpose.** Chapter Sixteen answers Question 2. It gives the LEQU baseline and its limits (**section 2**), the magnitude and severity input dimensions (**section 3**), the route descriptor catalogs (**section 4**), slot grammar and shared scaling (**section 5**), the constitutional inputs to axis assignment (**section 6**), the unified proportional LEQU scale (**section 7**), standard contribution measures (**section 8**), and the hand-off to Question 3 (**section 10**). For each axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 3.1**).
+
+**Role.** The chapter sits in the middle of the standing pipeline:
+
+- It takes the facts already verified under **Chapter Fifteen section 3** and written into the standing record under **Chapter Fifteen section 5** as fixed.
+- It hands the slot and descriptors to Chapter Seventeen, starting at **section 4** (*Descriptor Integration and Attachment Normalization*).
+- Chapter Sixteen alone assigns the numeric slot. [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
+- The common scale compares magnitude, not moral worth, and never lets help cancel harm.
+
+**Chapter scope.** Chapter scope for Question 2, and how it routes to the harm side and the benefit side, is stated in **section 2.3**. The chapter covers **section 2** through **section 10** in order. It leaves:
+
+- what happened to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened);
+- what follows from a measurement to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows); and
+- the anti-constitutional-misconduct designation to Chapter Twenty-One.
 
 
 ### 2. Question 2 — How Good or Bad Was It?

@@ -46,9 +46,22 @@ Chapter Twenty-Six is the constitutional owner of **additive expansion of protec
 
 
 *In plain terms: publishing or using this Constitution does not override the law of the land. You are allowed to strengthen the constitution and to respect stricter outside law when it fits — but internal supremacy, auditability, and the right to push back do not go on vacation during an amendment, and external forums cannot be used as an excuse to shred records or dodge rights.*
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.*
+
+**Purpose.** Chapter Twenty-Six states what is permitted and what holds when this Constitution meets other rules. It permits additive expansion (**section 2**), keeps supremacy and challenge rights in force during amendment (**section 3**), sets supremacy relative to other binding norms, stricter external protections, and conflict disclosure (**section 4**), covers disputes involving external legal orders (**section 5**), and states how this Constitution relates to applicable external law, including non-displacement and limited binding effect (**section 6**).
+
+**Role.** The chapter works with its two neighbors on change and adoption:
+
+- The guardrail on expansion is Chapter Twenty-Five.
+- A body can bind itself only by adopting through Chapter Twenty-Seven, and only as far as it already has lawful authority to bind itself.
+- **Chapter Twenty-Eight section 4** applies where partial adoption could shrink duties an entity already bears.
+
+**Chapter scope.** The chapter covers **section 2** through **section 6** in order. It leaves:
+
+- the test for whether a change is valid to Chapters [Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity); and
+- the incorporation bridge, custody, and operative effect of adopted text to [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge).
 
 
 ### 2. Additive Expansion Permitted

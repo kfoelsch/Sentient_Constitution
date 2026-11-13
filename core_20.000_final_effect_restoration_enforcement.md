@@ -22,12 +22,31 @@
 <br>
 
 Chapter Twenty**, is the constitutional owner of the **final standing effect** for each applicable gated pathway, of how that effect is restored or reassessed, and of the check that it can be enforced.
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: when the earlier steps are done, the system must state, one gated pathway at a time, what is open, limited, or blocked. That statement is not a dignity rank or a merged score. A lock that is not permanent must have a real way back.*
+
+**Purpose.** Chapter Twenty states one final standing effect for each applicable gated pathway (**section 2**). It then sets restoration and reassessment (**section 3**) and confirms that standing consequences and redress can be delivered by real institutions (**section 4**), applying the **Chapter One section 6.1** (*Correction and Remedy*) principle.
+
+**Role.** The chapter is where the two tracks of Question 3 meet:
+
+- It takes the contribution result from Chapter Eighteen and the violation result from Chapter Nineteen as fixed, in the order **Chapter Seventeen section 3.4** sets.
+- Gated-pathway effects are never aggregated (**section 2.1**). A gated pathway a lock blocks stays closed, whatever the contribution track found.
+- Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.
+
+**Chapter scope.** The chapter covers:
+
+- the final effect (**section 2**);
+- restoration and reassessment (**section 3**); and
+- enforcement realism and remedy systems (**section 4**).
+
+The chapter leaves:
+
+- the decision order to [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows);
+- how contribution and violation results are reached to Chapters [Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) and [Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks); and
+- day-to-day staffing, funding, backlog, and succession rules to adopted implementation text.
 
 
-<a id="2-final-standing-effect"></a>
 ### 2. Final Standing Effect
 
 *In plain terms: when the earlier steps are done, the system must state — one gated pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.*

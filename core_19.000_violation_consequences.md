@@ -25,12 +25,25 @@
 <br>
 
 Chapter Nineteen**, is the constitutional owner of **violation consequences**: what remedy and correction are owed after a verified violation, which locks prevent recurrence, and how locks are designed and enforced. Its first section sets the order: remedy and correction, then locks.
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: something bad happened. This chapter says how to make a durable fix: remedy and correction first, then prevention locks, then voluntary public accountability expression where a restorative pathway uses it, and the remedy-parity rule that keeps the cheap half from outrunning the expensive half.*
+
+**Purpose.** Chapter Nineteen decides what follows from a verified violation. It sets remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 2**). It then says how a lock is designed and enforced: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds (**section 3**).
+
+**Role.** The chapter is the violation track of Question 3:
+
+- It decides from the violation standing record alone, and takes the verified violation record and the slot as fixed. It does not reopen [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measurement.
+- It follows the decision order in **Chapter Seventeen section 3.4**. A lock controls: no contribution result opens a gated pathway a lock blocks.
+- It hands its result to the final standing effect in [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement).
+
+**Chapter scope.** The chapter covers **section 2** and **section 3** in order. It leaves:
+
+- contribution consequences to [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences);
+- the decision order to [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) and the final standing effect to Chapter Twenty; and
+- the anti-constitutional-misconduct designation for qualifying slot 7 to 9 findings to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation).
 
 
-<a id="2-violation-correction-and-prevention"></a>
 ### 2. Violation, Correction, and Prevention
 
 *In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Fifteen has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.*

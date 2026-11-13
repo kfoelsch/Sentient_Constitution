@@ -52,12 +52,31 @@ Certification under this Part:
 - is kept current under [§3 Recertification and Reopening](#3-recertification-and-reopening);
 - is open to challenge on the published record challenge path under [§4 Challenging a Certification](#4-challenging-a-certification); and
 - may supply verified inputs to Chapter Fifteen only through [§5 Relationship to Standing](#5-relationship-to-standing).
-### 1. Purpose and Role
+### 1. Purpose, Role, and Scope
 
-*Draft pending steward review.* This section states what the chapter is for, what it produces, and where it sits in the reading order. It restates existing rules and adds none.
+*In plain terms: a certification only works if it is kept where it can be checked, re-checked on a schedule, challenged when it is wrong, and kept separate from standing. Certification can feed standing, but it is not standing.*
 
+**Purpose.** Chapter Eleven states what happens after the outcome. It sets the minimum contents, transparency, and auditability of the System Certification Record (**section 2**), recertification on a schedule set by system class, reopening triggers, provisional and full certification, and non-evasion (**section 3**), the path for challenging a certification (**section 4**), and the relationship to standing (**section 5**).
 
-<a id="2-system-certification-record"></a>
+**Role.** The chapter closes the System Alignment Certification sequence:
+
+- It takes the outcome from [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes), and the evaluation and class framing from [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation), as fixed.
+- It hands verified facts to Chapter Fifteen only through the verified-input gate (**section 5.3**).
+- Standing records and their effects are decided in Chapters [Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement), not here.
+
+**Chapter scope.** The chapter covers:
+
+- the System Certification Record (**section 2**);
+- recertification and reopening (**section 3**);
+- challenge (**section 4**); and
+- the standing bridge (**section 5**).
+
+The chapter leaves:
+
+- the forum process and outcomes to Chapter Ten;
+- evaluation to Chapter Nine; and
+- standing measurement and standing effects to Chapters [Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) and [Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows).
+
 
 ### 2. System Certification Record
 
