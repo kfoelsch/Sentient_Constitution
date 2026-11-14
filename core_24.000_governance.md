@@ -535,7 +535,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 Material stewardship and operation require **sentients** who can **exercise** authority **competently**, not only **structures** that distribute it on paper.
 
-- **Authorized-role and competency requirement:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement), and states its operational boundary. Those seats are who may:
+- **Authorized-role and competency requirement:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and states its operational boundary. Those seats are who may:
   - request;
   - verify;
   - record;

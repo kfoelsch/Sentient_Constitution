@@ -263,8 +263,8 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 - Upstream: Principles:
   - [Chapter One §18.4 Ongoing Justification](core_01.050_governance_incentive_application.md#184-ongoing-justification) (1.050 §18.4); Chapter One
   - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter One §14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (1.020 §14).
 
 </details>
@@ -298,8 +298,8 @@ This Article sets out periodic and accelerated review of governance:
 
 - Upstream: Principles: Chapter One
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter One §14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (1.020 §14).
 
 </details>
@@ -370,8 +370,8 @@ Adoption Transition governance exists to secure continuity and non-regression. I
 - Upstream: Principles: Chapter One
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
   - [Chapter Nineteen §3.4.2](core_19.000_violation_consequences.md#342-misaligned-rewards) (19.000 §3.4.2) (*misaligned-reward forfeiture and reporting limited during the Adoption Transition by this Article*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000).
 
@@ -533,8 +533,8 @@ This Article sets out failure off-ramps, re-baselining, and traceability for sta
 - Upstream: Principles: Chapter One
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with:
   - **Article III-A** (*Survival*), **Article XIII** (*Right to Reliable and Trustworthy Systems*), and **Article XI-G** (*Collective Harm Boundary and Enforcement Interface*).
   - **Chapter Fifteen**, and **Chapter One**, including §6 rights-collision procedure.

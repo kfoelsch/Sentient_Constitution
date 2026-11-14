@@ -8,7 +8,7 @@
 > - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and the formation check on the standing and authenticity of the holders of covered offices.
 > - **Definition home:** [System Charter](core_05.040_band_continuity.md#system-charter), [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), [Chartered Party](core_05.040_band_continuity.md#chartered-party), and [Operating Party](core_05.050_band_oversight.md#operating-party) are defined in Chapter Five. This chapter applies them and does not redefine them.
 > - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter Contents, Review, and Formation Template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Twenty-Eight §4 Adoption Framing and Scope of Authority](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the requirements in this chapter bind as core text.
-> - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Twelve tests the formation check statement for an Institution. [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) applies it to standing records. [Chapter Twenty-Three §4.3 Institutional Forums](core_23.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
+> - **Downstream consumers:** [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Twelve tests the formation check statement for an Institution. [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) applies it to standing records. [Chapter Twenty-Three §4.3 Institutional Forums](core_23.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
 > Reading order: §2 when System and Institutional Charters are required, with the chart that maps the process → §3 the right to form and five narrow limits → §4 what they must state → §5 the Charter Role Map and standing-record custody → §6 the formation check on office-holder standing and authenticity → §7 when a holder fails the formation check → §8 amendment, review, and scope misalignment.
 
@@ -70,7 +70,7 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 **Role.** The chapter follows the [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floor and comes before the seats in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties):
 
 - It applies the terms System Charter, Institutional Charter, Charter Role Map, Chartered Party, and Operating Party, which [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) defines. It does not redefine them.
-- **Chapter Eight section 5** (*Published Placement, Vacancy, and Substitution*) requires the Charter Role Map this chapter describes.
+- **Chapter Eight section 6** (*Published Placement, Vacancy, and Substitution*) requires the Charter Role Map this chapter describes.
 - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) reads the System Charter for scope and boundary findings, and [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) tests the formation check statement for an Institution.
 - **Chapter Fifteen section 6** applies the Charter Role Map to standing records, and **Chapter Twenty-Three section 4.3** hears disputes about the Institutional Charter.
 - CI-8.205 (*Institutional Design, Separation of Powers, and Authority Custody*) **section 6** holds the full field template, review checklist, and formation procedure. It may be stricter and may not narrow this chapter.
@@ -104,7 +104,7 @@ The chapter leaves:
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional);
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability).
-- Downstream: [§4](#4-what-system-and-institutional-charters-must-state); [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) (*class and certification depth*); [Chapter Twelve §2.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#21-institution-class) (12.000 §2.1) (*the class of an Institution*); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*) for the class catalog.
+- Downstream: [§4](#4-what-system-and-institutional-charters-must-state); [Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (9.000 §3) (*class and certification depth*); [Chapter Twelve §3.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class) (12.000 §3.1) (*the class of an Institution*); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*) for the class catalog.
 - Read with:
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
   - **CF-23.415 §5** (*Institutional and Local Registrars*);
@@ -164,7 +164,7 @@ The class of the Chartered Party decides whether publishing is required or a cho
 
 - **Classes A, B, C, and L:** required. The chart in [§2.7 The Process at a Glance](#27-the-process-at-a-glance) shows the process they follow.
 - **Class P:** a choice, until one of two events makes it required. [§2.3 What Class P Is](#23-what-class-p-is) says what makes an Operating Party Class P, and [§2.4 Class P: Optional Charters, and When They Become Required](#24-class-p-optional-charters-and-when-they-become-required) sets out the choice and when it ends.
-- **Class of an Institution:** An Institution takes the class of the greatest material impact it has, whether through a System it operates, stewards, or materially controls or outside any System. That is judged by what it actually decides and holds and not by its label or legal form, under [Chapter Twelve §2.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#21-institution-class).
+- **Class of an Institution:** An Institution takes the class of the greatest material impact it has, whether through a System it operates, stewards, or materially controls or outside any System. That is judged by what it actually decides and holds and not by its label or legal form, under [Chapter Twelve §3.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class).
 
 <a id="23-what-class-p-is"></a>
 #### 2.3 What Class P Is
@@ -203,7 +203,7 @@ A covered System or Institution publishes its [System Charter](core_05.040_band_
 
 - **A new System or Institution:** before it goes live or begins to exercise authority over others.
 - **One that already operates:** at its next classification review or certification, or within the resolution window after a request under [§2.6 If a System Charter or Institutional Charter Is Missing](#26-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
-  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Twelve §1.2 No Permission and No Gate on Forming or Running](core_12.000_institutional_alignment_certification_evaluation.md#12-no-permission-and-no-gate-on-forming-or-running). Its first-certification window, under [Chapter Twelve §1.3 Window for the First Certification](core_12.000_institutional_alignment_certification_evaluation.md#13-window-for-the-first-certification), is never a requirement for publishing the Institutional Charter or for operating.
+  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Twelve §2.2 No Permission and No Gate on Forming or Running](core_12.000_institutional_alignment_certification_evaluation.md#22-no-permission-and-no-gate-on-forming-or-running). Its first-certification window, under [Chapter Twelve §2.3 Window for the First Certification](core_12.000_institutional_alignment_certification_evaluation.md#23-window-for-the-first-certification), is never a requirement for publishing the Institutional Charter or for operating.
 - **The formation check:** It also completes the formation check in [§6 Formation Check: Office-Holder Standing and Authenticity](#6-formation-check-office-holder-standing-and-authenticity) at the same moment.
 - **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-23.415 §5** (*Institutional and Local Registrars*)):
   - **What the registrar does:** It checks that nothing required is missing and gives a dated receipt.
@@ -514,9 +514,9 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-what-system-and-institutional-charters-must-state); [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
+- Upstream: [§4](#4-what-system-and-institutional-charters-must-state); [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3).
 - Downstream:
-  - [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
+  - [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) (8.000 §6);
   - [Chapter Ten §2.1.1 Four Seats in a Certification](core_10.000_system_alignment_certification_forum_process_outcomes.md#211-four-seats-in-a-certification) (10.000 §2.1.1);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
   - **CI-8.205 §2** (*Functional Separation Lanes*);
@@ -539,12 +539,12 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 
 *In plain terms: the System Charter or Institutional Charter is where the seats get names. It carries a published list of who may hold each seat for the acts it covers, so a party can't pick its own checker. The rules for what counts as a valid seat placement stay in Chapter Eight. Keeping the standing records safe isn't a separate list: it's the same map.*
 
-Every System Charter or Institutional Charter carries a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map): a published list of who holds each seat. [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires it of every adopter that takes materially binding acts and says what it must name. This section says what the System Charter or Institutional Charter does with it.
+Every System Charter or Institutional Charter carries a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map): a published list of who holds each seat. [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) requires it of every adopter that takes materially binding acts and says what it must name. This section says what the System Charter or Institutional Charter does with it.
 
 <a id="51-what-the-seats-are-and-why-they-exist"></a>
 #### 5.1 What the Seats Are, and Why They Exist
 
-Every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act) has four jobs, and [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) keeps them apart:
+Every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act) has four jobs, and [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) keeps them apart:
 
 - **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat):** begins the act by requesting, proposing, operating, or claiming it.
 - **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat):** checks the evidence and authority, then verifies, authorizes, conditions, or declines the act.
@@ -559,9 +559,9 @@ The seats exist so that no party can ask for an outcome, check its own request, 
 Chapter Eight sets the tests, and the map only records who sits where:
 
 - **Material Control Line:** the real chain of power around one act. The party whose act is at issue is the one that begins the act, or whose act is being verified, challenged, or recorded. That party controls a seat when, for that act, it can direct, overrule, reward, punish, or remove the holder, or delay the holder's work. The sentients, offices, and systems that can do this make up that party's [Material Control Line](core_05.035_band_accountability.md#material-control-line) for the act.
-- **Independence:** a seat that checks an act is not independent if the party whose act is at issue can control it ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)). So the map must put the record seat, the contest seat, and every verify-or-authorize seat outside that party's Material Control Line. The party also can't change who holds those seats by its own decision alone ([§5.5 Changing Seat Rules and Seat Holders](#55-changing-seat-rules-and-seat-holders)).
-- **Vacancy, substitutes, and delegation:** who steps in when a holder is absent or conflicted ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)).
-- **Merged hosting:** the only cases where a small party may put two seats in one office. The map lists each permitted arrangement and the independence safeguard that goes with it ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting)).
+- **Independence:** a seat that checks an act is not independent if the party whose act is at issue can control it ([Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines)). So the map must put the record seat, the contest seat, and every verify-or-authorize seat outside that party's Material Control Line. The party also can't change who holds those seats by its own decision alone ([§5.5 Changing Seat Rules and Seat Holders](#55-changing-seat-rules-and-seat-holders)).
+- **Vacancy, substitutes, and delegation:** who steps in when a holder is absent or conflicted ([Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution)).
+- **Merged hosting:** the only cases where a small party may put two seats in one office. The map lists each permitted arrangement and the independence safeguard that goes with it ([Chapter Eight §7 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting)).
 
 <a id="53-what-a-system-charter-or-institutional-charter-owes-the-map"></a>
 #### 5.3 What a System Charter or Institutional Charter Owes the Map
@@ -578,7 +578,7 @@ A System Charter or Institutional Charter either contains its Charter Role Map o
 Which System Charter or Institutional Charter keeps a map depends on how the parties are arranged:
 
 - **Several Systems:** An Institutional Charter may hold several System Charters. Each System Charter keeps the map for the acts of its own System, and the Institutional Charter keeps the map for the Institution's own acts.
-- **A shared map:** A business or practice may place some of its seats with a local cooperative, association, or host ([§2 When System and Institutional Charters Are Required](#2-when-system-and-institutional-charters-are-required)). If it does, it can use that group's published map instead of writing its own, which keeps its own System Charter or Institutional Charter short. It still has to name who steps in when one of its seat-holders is absent or conflicted, and an independent route to use when no qualified substitute is available ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting), *Seats held in common*).
+- **A shared map:** A business or practice may place some of its seats with a local cooperative, association, or host ([§2 When System and Institutional Charters Are Required](#2-when-system-and-institutional-charters-are-required)). If it does, it can use that group's published map instead of writing its own, which keeps its own System Charter or Institutional Charter short. It still has to name who steps in when one of its seat-holders is absent or conflicted, and an independent route to use when no qualified substitute is available ([Chapter Eight §7 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting), *Seats held in common*).
 
 <a id="55-changing-seat-rules-and-seat-holders"></a>
 #### 5.5 Changing Seat Rules and Seat Holders
@@ -674,7 +674,7 @@ The same clock applies to certification seats. If the map does not name who star
 - **What the institution cannot do:**
   - **Use the gap to stop a certification:** An unplaced certification seat is never a reason to pause, delay, or block a certification pass.
   - **Leave the gap open past the resolution window:** If the seat is still unplaced when that window ends, the System Charter or Institutional Charter is invalid on the same terms as for a gap in the standing-record entries ([§5.7.1 When a Gap Exists and How It Is Logged](#571-when-a-gap-exists-and-how-it-is-logged)).
-- **The verify-or-authorize seat:** The map does not place this seat ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)), so it is never a gap of this kind.
+- **The verify-or-authorize seat:** The map does not place this seat ([Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution)), so it is never a gap of this kind.
 
 <a id="6-formation-check-office-holder-standing-and-authenticity"></a>
 ### 6. Formation Check: Office-Holder Standing and Authenticity
@@ -712,8 +712,8 @@ The same clock applies to certification seats. If the map does not name who star
   - [§2.2 Competency Bars and Clearances](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances).
 - Downstream:
   - [§7 When a Holder Fails the Formation Check](#7-when-a-holder-fails-the-formation-check);
-  - [Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation) (12.000 §3) (item 7, *the forums test the statement*);
-  - [Chapter Nine §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) (9.000 §3.1);
+  - [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (12.000 §4) (item 7, *the forums test the statement*);
+  - [Chapter Nine §4.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (9.000 §4.1);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) for the statement template.
 - Read with:
   - [Material Control Line](core_05.035_band_accountability.md#material-control-line);
@@ -758,7 +758,7 @@ Only verified standing records count, and only through the [Verified Inputs for 
 <a id="63-authenticity-check"></a>
 #### 6.3 Authenticity Check
 
-A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that document does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation), item 7).
+A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that document does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), item 7).
 
 - **Control:** who can instruct, fund, replace, or reward the holder, inside or outside the published authority. A holder who acts on the instruction of an undisclosed party, or whose seat is held for another, is not authentic. Opaque routes of beneficial control are system capture ([Chapter One §19.4 Misalignment Correction and Capture Response](core_01.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response)).
 - **Interests and rewards:** what the holder gains from the office and how it is paid.
@@ -889,7 +889,7 @@ The formation check is kept in proportion to what it protects:
   - [Chapter Twenty-Three §5 Interim Hold on a Named Sentient's Pathway](core_23.000_forum.md#interim-hold-on-a-named-sentients-pathway) (23.000 §5).
 - Downstream:
   - [Chapter Thirteen §3.5 Effects of Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#35-effects-of-denial-and-revocation-for-an-institution) (13.000 §3.5);
-  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - **CI-19.210** (*Institutional failure and dissolution*);
   - **CI-19.215** (*Institutional accountability and sanctions*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
@@ -939,7 +939,7 @@ The formation check may turn up facts that support an Interim Hold. They are han
 When a covered office fails the authenticity check:
 
 - **Evidence, not a hold or a lock:** A failed authenticity finding is not itself an Interim Hold or an Institutional Authority Standing Lock. It is evidence that a forum may weigh when deciding whether to issue an Interim Hold or, if a violation is verified, the Institutional Authority Standing Lock.
-- **The seat:** The office is treated as unfilled for the seat it carries, because a seat held through a nominee or proxy is not an independent placement under [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines).
+- **The seat:** The office is treated as unfilled for the seat it carries, because a seat held through a nominee or proxy is not an independent placement under [Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines).
 - **How it is resolved:** The Chartered Party resolves the defect by:
   - ending the undisclosed control;
   - changing the reward; or

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **837** of **1326** headings carry a gloss (63%).
+Coverage: **837** of **1328** headings carry a gloss (63%).
 
 ## Contents
 
@@ -35,10 +35,10 @@ Coverage: **837** of **1326** headings carry a gloss (63%).
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (8/63 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
-- [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
+- [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/58 glossed)
 - [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (11/36 glossed)
 - [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (12/35 glossed)
-- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-twelve-institutional-alignment-certification--evaluation) — `core_12.000_institutional_alignment_certification_evaluation.md` (6/11 glossed)
+- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-twelve-institutional-alignment-certification--evaluation) — `core_12.000_institutional_alignment_certification_evaluation.md` (6/12 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) — `core_13.000_institutional_alignment_certification_forum_process_outcomes.md` (9/14 glossed)
 - [CHAPTER FOURTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_14.000_institutional_alignment_certification_records_recertification.md` (11/30 glossed)
 - [CHAPTER FIFTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fifteen-standing-records--question-1-what-happened) — `core_15.000_standing_assessment.md` (9/44 glossed)
@@ -505,7 +505,7 @@ Source file: [`core_01.020_interaction_interpretation.md`](../../core_01.020_int
 
 #### 13. Constitutional Collision Resolution Process
 
-Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_01.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Nine §3.3 Time-Consistency Constraint](../../core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
+Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_01.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Nine §4.3 Time-Consistency Constraint](../../core_09.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
 
 [Source](../../core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)
 
@@ -3839,129 +3839,129 @@ before a constitutional process—or a stakeholder-level decision inside an alre
 
 [Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope)
 
-##### 1.1 Why the Jobs Are Separated
+#### 2. Why the Jobs Are Separated
 
 the same lesson has been learned again and again in business, government, and nuclear security. When one party can start an act, approve it, write it down, and judge any complaint about it, no one else is in a position to catch a mistake or a lie.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#11-why-the-jobs-are-separated)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#2-why-the-jobs-are-separated)
 
-##### 1.2 Why Four Seats
+##### 2.1 Why Four Seats
 
 two jobs are too few and three leave a gap. Four jobs cover starting the act, checking it, keeping the official record, and hearing a challenge.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#12-why-four-seats)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#21-why-four-seats)
 
-#### 2. Four-Seat Constitutional Requirement
+#### 3. Four-Seat Constitutional Requirement
 
 separation of duties is the requirement for every materially binding act (the **Four-Seat Requirement**), and four jobs are how it is met: ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)
 
-#### 3. Independence, Conflict, and Control Lines
+#### 4. Independence, Conflict, and Control Lines
 
 changing the name on the desk does not create independence. A verifying authority or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines)
 
-#### 4. Wrong-Seat Routing
+#### 5. Wrong-Seat Routing
 
 when a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place. Better still, build the process so each step goes to the right place without anyone having to notice.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#4-wrong-seat-routing)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#5-wrong-seat-routing)
 
-#### 5. Published Placement, Vacancy, and Substitution
+#### 6. Published Placement, Vacancy, and Substitution
 
 an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution)
 
-##### 5.1 What the Map Must Say
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#51-what-the-map-must-say)
-
-##### 5.2 Where the Map Is Kept
+##### 6.1 What the Map Must Say
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#52-where-the-map-is-kept)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#61-what-the-map-must-say)
 
-##### 5.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve)
-
-##### 5.4 Delegation
+##### 6.2 Where the Map Is Kept
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#54-delegation)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#62-where-the-map-is-kept)
 
-#### 6. Proportional Scaling and Merged Hosting
+##### 6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#63-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve)
+
+##### 6.4 Delegation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#64-delegation)
+
+#### 7. Proportional Scaling and Merged Hosting
 
 small and informal groups do not need four large departments. They do need a real independent check, a usable record, and a challenge path. Scale changes the staffing method, not the protected separation.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting)
 
-##### 6.1 How Separation Scales
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#61-how-separation-scales)
-
-##### 6.2 Merging Two Seats in One Office
+##### 7.1 How Separation Scales
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#62-merging-two-seats-in-one-office)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#71-how-separation-scales)
 
-##### 6.3 Seats Held in Common
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#63-seats-held-in-common)
-
-##### 6.4 Joint Professional Practice
+##### 7.2 Merging Two Seats in One Office
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#64-joint-professional-practice)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#72-merging-two-seats-in-one-office)
 
-##### 6.5 Informal and Community Work
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#65-informal-and-community-work)
-
-##### 6.6 Stake, Class, and What Does Not Justify a Merger
+##### 7.3 Seats Held in Common
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#66-stake-class-and-what-does-not-justify-a-merger)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#73-seats-held-in-common)
 
-#### 7. Emergency and Urgent Action
+##### 7.4 Joint Professional Practice
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#74-joint-professional-practice)
+
+##### 7.5 Informal and Community Work
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#75-informal-and-community-work)
+
+##### 7.6 Stake, Class, and What Does Not Justify a Merger
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#76-stake-class-and-what-does-not-justify-a-merger)
+
+#### 8. Emergency and Urgent Action
 
 a real emergency may justify acting before the ordinary check finishes. It changes sequence, not seat ownership or the class-scaled separation posture. It does not let the actor certify its own continuation, erase the trail, or become the final reviewer afterward.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action)
 
-#### 8. Act Records and Attributable Handoffs
+#### 9. Act Records and Attributable Handoffs
 
 every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs)
 
-#### 9. Relationship to Later Processes
+#### 10. Relationship to Later Processes
 
 later chapters tell each process what to evaluate, record, decide, and remedy. This chapter tells those processes how power must be separated while they do it.
 
-[Source](../../core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes)
 
 ## CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 17/57 headings glossed
+Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 17/58 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -3969,335 +3969,341 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
-##### 1.1 Certification as an Audit Process, Scaled by System Class
+#### 2. Why System Alignment Certification Exists
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#11-certification-as-an-audit-process-scaled-by-system-class)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#2-why-system-alignment-certification-exists)
 
-##### 1.2 Certification at a Glance
+##### 2.1 Certification as an Audit Process, Scaled by System Class
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#21-certification-as-an-audit-process-scaled-by-system-class)
+
+##### 2.2 Certification at a Glance
 
 classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one System Certification Record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its certification conditions. Each review pass uses a new System Certification Record linked to the last.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance)
 
-#### 2. System Class Evaluation
+#### 3. System Class Evaluation
 
 certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher system classes mean stricter proof, shorter recertification intervals, and stronger resilience expectations. See [CS-9.320 System alignment certification illustrations](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) for one example system per system class and how evaluation applies to each of them.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation)
 
-##### 2.1 Certification, Recertification, and Defects
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#21-certification-recertification-and-defects)
-
-##### 2.2 How System Class Scales Every Evaluation
+##### 3.1 Certification, Recertification, and Defects
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#31-certification-recertification-and-defects)
 
-##### 2.3 Pilot Certification
+##### 3.2 How System Class Scales Every Evaluation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation)
 
-#### 3. Whole-System Certification Evaluation
+##### 3.3 Pilot Certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#33-pilot-certification)
+
+#### 4. Whole-System Certification Evaluation
 
 you cannot green-light one piece of a system and ignore the rest. Reviewers need the full picture — what it depends on, what breaks when something upstream fails, harms that show up later or add up over time, whether sentients can actually use it (not just on paper), whether private information stays properly walled off, whether sentients can leave without being trapped, whether groups can still organize without the system splitting them apart, whether short-term wins hide long-term damage, and whether real oversight and accountability will still work when a lot is on the line.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
 
-##### 3.1 Governance, Incentive, and Contestability Discipline
+##### 4.1 Governance, Incentive, and Contestability Discipline
 
 the review is not finished unless reviewers ask whether the four legs of the [Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) will still hold at the level of risk involved — participation (whether sentients can actually take part), oversight (whether the work can be watched and checked), accountability (whether wrongdoing can be answered for), and timeliness (whether decisions will move fast enough when it matters). Reviewers also need to know who actually holds material authority and who answers for what — not a vague "the team" or a blame-shifting shell. Those questions must be answered for a valid certification.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline)
 
-##### 3.2 Systemic Scope and Risk Factors
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors)
-
-###### 3.2.1 Risk Evaluation and Disclosure Bridge
+##### 4.2 Systemic Scope and Risk Factors
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#42-systemic-scope-and-risk-factors)
 
-###### 3.2.2 Defects and Misalignment
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment)
-
-##### 3.3 Time-Consistency Constraint
+###### 4.2.1 Risk Evaluation and Disclosure Bridge
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge)
 
-##### 3.4 Data Types and Handling Evaluation
+###### 4.2.2 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#422-defects-and-misalignment)
+
+##### 4.3 Time-Consistency Constraint
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint)
+
+##### 4.4 Data Types and Handling Evaluation
 
 certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the System Certification Record is honest.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation)
 
-###### 3.4.1 Type O Baseline Disclosure
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#341-type-o-baseline-disclosure)
-
-###### 3.4.2 Privacy Discipline
+###### 4.4.1 Type O Baseline Disclosure
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#342-privacy-discipline)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#441-type-o-baseline-disclosure)
 
-###### 3.4.3 Protective Storage and Key Custody
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#343-protective-storage-and-key-custody)
-
-###### 3.4.4 Scheduled Data-Type Re-Evaluation
+###### 4.4.2 Privacy Discipline
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#344-scheduled-data-type-re-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#442-privacy-discipline)
 
-###### 3.4.5 System-Class-Scaled Infrastructure Assurance
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#345-system-class-scaled-infrastructure-assurance)
-
-###### 3.4.6 Infrastructure Robustness for Data
+###### 4.4.3 Protective Storage and Key Custody
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#346-infrastructure-robustness-for-data)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#443-protective-storage-and-key-custody)
 
-###### 3.4.7 Defects and Misalignment
+###### 4.4.4 Scheduled Data-Type Re-Evaluation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#347-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#444-scheduled-data-type-re-evaluation)
 
-#### 4. Evaluations Where Implicated
+###### 4.4.5 System-Class-Scaled Infrastructure Assurance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#445-system-class-scaled-infrastructure-assurance)
+
+###### 4.4.6 Infrastructure Robustness for Data
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#446-infrastructure-robustness-for-data)
+
+###### 4.4.7 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#447-defects-and-misalignment)
+
+#### 5. Evaluations Where Implicated
 
 three checks apply only when the system actually touches them — whether private information stays properly walled off, whether sentients can leave without being trapped, and whether groups can still organize and dissent. If the system touches one, certification has to look at it.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated)
 
-##### 4.1 Privacy (Informational) Joint Invocation
+##### 5.1 Privacy (Informational) Joint Invocation
 
 Chapter Six spreads privacy protections across several articles — not one tidy corner. If a certification review touches more than one of those protections, reviewers must check every one that actually applies. Clearing the easiest box and calling it done is not enough.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#41-privacy-informational-joint-invocation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#51-privacy-informational-joint-invocation)
 
-##### 4.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)
-
-##### 4.3 Assembly, Collective Organization, and Institutional Formation
+##### 5.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#52-voluntary-discontinuation-major-self-modification-and-exit-rights)
 
-###### 4.3.1 Dissent and Peaceful Protest
+##### 5.3 Assembly, Collective Organization, and Institutional Formation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation)
+
+###### 5.3.1 Dissent and Peaceful Protest
 
 a system cannot be certified as aligned if it quietly punishes the sentients who disagree with it. Reviewers must check whether sentients can actually object and protest, and whether dissent is being counted against them anywhere in the system's logic — including when the dissenter is the system itself.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#531-dissent-and-peaceful-protest)
 
-#### 5. Rights-Floor and Domain Evaluations
+#### 6. Rights-Floor and Domain Evaluations
 
 some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the evaluation has to be real — not a box the operator ticked. The table shows which protection each evaluation covers, when it applies, and where it is evaluated.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)
 
-##### 5.1 Ecological Footprint Evaluation
+##### 6.1 Ecological Footprint Evaluation
 
 if a system does real damage to the environment, certification has to look at that damage honestly — including damage that happens through its suppliers and through what happens after sentients use it. Reviewers can't just take the operator's word that the system is "green." This section doesn't explain how to measure a footprint or how much it must shrink; other documents cover that. It only requires that, where the damage is significant, someone actually worked out how much of it belongs to this system, disclosed it, and compared it to alternatives. Worked examples: [CS-9.320 §6 Illustrative Ecological-Footprint Application by System Class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-6-illustrative-ecological-footprint-application-by-system-class).
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation)
 
-###### 5.1.1 Scope and Governing Rules
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#511-scope-and-governing-rules)
-
-###### 5.1.2 Evaluation Requirement
+###### 6.1.1 Scope and Governing Rules
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#512-evaluation-requirement)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#611-scope-and-governing-rules)
 
-###### 5.1.3 System Class Scaling and Escalation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#513-system-class-scaling-and-escalation)
-
-###### 5.1.4 Defects and Misalignment
+###### 6.1.2 Evaluation Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#514-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#612-evaluation-requirement)
 
-##### 5.2 Educational Capability and Learning-System Integrity Evaluation
+###### 6.1.3 System Class Scaling and Escalation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#613-system-class-scaling-and-escalation)
+
+###### 6.1.4 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#614-defects-and-misalignment)
+
+##### 6.2 Educational Capability and Learning-System Integrity Evaluation
 
 some schools, platforms, and training systems can shape a sentient's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether sentients can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [CS-9.320 §7 Illustrative Educational-Capability Application by System Class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-7-illustrative-educational-capability-application-by-system-class).
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#62-educational-capability-and-learning-system-integrity-evaluation)
 
-###### 5.2.1 Evaluation Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#521-evaluation-requirement)
-
-###### 5.2.2 System Class Scaling and Escalation
+###### 6.2.1 Evaluation Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#522-system-class-scaling-and-escalation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#621-evaluation-requirement)
 
-###### 5.2.3 Defects and Misalignment
+###### 6.2.2 System Class Scaling and Escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#523-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#622-system-class-scaling-and-escalation)
 
-##### 5.3 Proportionate Cross-System Support Evaluation
+###### 6.2.3 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#623-defects-and-misalignment)
+
+##### 6.3 Proportionate Cross-System Support Evaluation
 
 some systems depend on shared foundations — infrastructure, services, and resources that many other systems and sentients rely on. When a system draws heavily on those foundations, certification has to check what it takes — resources, goods, services, labor, information, or money — and whether it puts enough back to keep them going, and whether the System Certification Records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [CS-9.320 §8 Illustrative Cross-System Support Application by System Class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-8-illustrative-cross-system-support-application-by-system-class).
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation)
 
-###### 5.3.1 Meaning of Extraction
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#531-meaning-of-extraction)
-
-###### 5.3.2 Governing Rules
+###### 6.3.1 Meaning of Extraction
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#532-governing-rules)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#631-meaning-of-extraction)
 
-###### 5.3.3 Evaluation Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#533-evaluation-requirement)
-
-###### 5.3.4 Map and Record Integrity
+###### 6.3.2 Governing Rules
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#534-map-and-record-integrity)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#632-governing-rules)
 
-###### 5.3.5 System Class Scaling and Escalation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#535-system-class-scaling-and-escalation)
-
-###### 5.3.6 Defects and Misalignment
+###### 6.3.3 Evaluation Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#536-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#633-evaluation-requirement)
 
-##### 5.4 Nondiscrimination Evaluation
+###### 6.3.4 Map and Record Integrity
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#634-map-and-record-integrity)
+
+###### 6.3.5 System Class Scaling and Escalation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation)
+
+###### 6.3.6 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#636-defects-and-misalignment)
+
+##### 6.4 Nondiscrimination Evaluation
 
 some systems decide who gets in. Some decide who pays more. Some decide who ranks lower or carries the heavier burden. When a system makes decisions like these in a way that matters, certification asks one question. Does the harm fall mostly on sentients with protected characteristics, or on traits that stand in for them? An operator saying its rules are neutral does not answer that question. Worked examples: [CS-9.320 §9 Illustrative Nondiscrimination Application by System Class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-9-illustrative-nondiscrimination-application-by-system-class).
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation)
 
-###### 5.4.1 Evaluation Requirement
+###### 6.4.1 Evaluation Requirement
 
 this chapter does not set inclusion quotas. It does not pick a fairness formula. Other documents may cover those. So may later additions to the corpus, or the documents an adopter writes. Certification only checks that someone actually looked at who gets the benefits, who bears the burdens, and whether stand-ins for protected traits are at work. That evaluation applies wherever the trigger applies.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#541-evaluation-requirement)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#641-evaluation-requirement)
 
-###### 5.4.2 System Class Scaling and Escalation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#542-system-class-scaling-and-escalation)
-
-###### 5.4.3 Defects and Misalignment
+###### 6.4.2 System Class Scaling and Escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#543-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#642-system-class-scaling-and-escalation)
 
-##### 5.5 Accessibility Evaluation
+###### 6.4.3 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#643-defects-and-misalignment)
+
+##### 6.5 Accessibility Evaluation
 
 when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other documents, later corpus additions, or adoption documents; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples: [CS-9.320 §10 Illustrative Accessibility Application by System Class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-10-illustrative-accessibility-application-by-system-class).
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#65-accessibility-evaluation)
 
-###### 5.5.1 Evaluation Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#551-evaluation-requirement)
-
-###### 5.5.2 Profiles in Scope
+###### 6.5.1 Evaluation Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#552-profiles-in-scope)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#651-evaluation-requirement)
 
-###### 5.5.3 System Class Scaling and Escalation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#553-system-class-scaling-and-escalation)
-
-###### 5.5.4 Defects and Misalignment
+###### 6.5.2 Profiles in Scope
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#554-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#652-profiles-in-scope)
 
-##### 5.6 Trustworthiness and System-Reliance Integrity Evaluation
+###### 6.5.3 System Class Scaling and Escalation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#653-system-class-scaling-and-escalation)
+
+###### 6.5.4 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#654-defects-and-misalignment)
+
+##### 6.6 Trustworthiness and System-Reliance Integrity Evaluation
 
 when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other documents; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples: [CS-9.320 §11 Illustrative Trustworthiness Application by System Class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-11-illustrative-trustworthiness-application-by-system-class).
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation)
 
-###### 5.6.1 Evaluation Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#561-evaluation-requirement)
-
-###### 5.6.2 System Class Scaling and Escalation
+###### 6.6.1 Evaluation Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#562-system-class-scaling-and-escalation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#661-evaluation-requirement)
 
-###### 5.6.3 Defects and Misalignment
+###### 6.6.2 System Class Scaling and Escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#563-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#662-system-class-scaling-and-escalation)
+
+###### 6.6.3 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#663-defects-and-misalignment)
 
 ## CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
@@ -4723,7 +4729,7 @@ certification can feed standing, but it is not standing. Any System Certificatio
 
 ## CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_12.000_institutional_alignment_certification_evaluation.md`](../../core_12.000_institutional_alignment_certification_evaluation.md) · 6/11 headings glossed
+Source file: [`core_12.000_institutional_alignment_certification_evaluation.md`](../../core_12.000_institutional_alignment_certification_evaluation.md) · 6/12 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -4731,59 +4737,65 @@ a system's certification belongs to the system. An institution's certification c
 
 [Source](../../core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
-##### 1.1 Who Is Certified
+#### 2. Why Institutional Alignment Certification Exists
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#11-who-is-certified)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#2-why-institutional-alignment-certification-exists)
 
-##### 1.2 No Permission and No Gate on Forming or Running
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#12-no-permission-and-no-gate-on-forming-or-running)
-
-##### 1.3 Window for the First Certification
+##### 2.1 Who Is Certified
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#13-window-for-the-first-certification)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#21-who-is-certified)
 
-#### 2. Institution Class Evaluation
+##### 2.2 No Permission and No Gate on Forming or Running
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#22-no-permission-and-no-gate-on-forming-or-running)
+
+##### 2.3 Window for the First Certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#23-window-for-the-first-certification)
+
+#### 3. Institution Class Evaluation
 
 first sort the institution into a class by how much it matters to others. Judge that by what it actually decides and holds, not by what it calls itself. The class then sets how thorough the evaluation is: the higher the class, the stricter the proof, the more independent the review, and the sooner it is checked again.
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#2-institution-class-evaluation)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#3-institution-class-evaluation)
 
-##### 2.1 Institution Class
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#21-institution-class)
-
-##### 2.2 Scaling by Class
+##### 3.1 Institution Class
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#22-scaling-by-class)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class)
 
-#### 3. Whole-Institution Certification Evaluation
+##### 3.2 Scaling by Class
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#32-scaling-by-class)
+
+#### 4. Whole-Institution Certification Evaluation
 
 check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the independent checks on it work.
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation)
 
-#### 4. Evaluations Where Implicated
+#### 5. Evaluations Where Implicated
 
 where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same evaluation is made on the institution, once.
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#4-evaluations-where-implicated)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#5-evaluations-where-implicated)
 
-#### 5. Rights-Floor and Domain Evaluations
+#### 6. Rights-Floor and Domain Evaluations
 
 the same rule as in the section before: a Rights-Floor or domain check runs on the institution's own conduct where it is triggered, and is not repeated where a cited system certification already made it.
 
-[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)
+[Source](../../core_12.000_institutional_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)
 
 ## CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
@@ -5219,7 +5231,7 @@ This section states what each standing record must contain, how related standing
 
 #### 6. Record Custody and Opening Authority
 
-this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§6.1 Separation of Duties](../../core_15.000_standing_assessment.md#61-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](../../core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§6.4 No Self-Custody](../../core_15.000_standing_assessment.md#64-no-self-custody)); how that exclusion differs for operator and stakeholder standing records ([§6.5 Two Kinds of Standing Record by Subject](../../core_15.000_standing_assessment.md#65-two-kinds-of-standing-record-by-subject)) and for a single conflicted custodian ([§6.6 Conflicted Custodian on a Single Standing Record](../../core_15.000_standing_assessment.md#66-conflicted-custodian-on-a-single-standing-record)); where a standing record goes when a seat is unnamed ([§6.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](../../core_15.000_standing_assessment.md#67-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§6.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](../../core_15.000_standing_assessment.md#68-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); and how the rules scale down for informal and small-scope work ([§6.9 Informal and Small-Scope Records](../../core_15.000_standing_assessment.md#69-informal-and-small-scope-records)). [§7 Handling a Standing Record](../../core_15.000_standing_assessment.md#7-handling-a-standing-record) then says what the holders do with a standing record once custody is settled.
+this section applies the four-seat rule in [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§6.1 Separation of Duties](../../core_15.000_standing_assessment.md#61-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](../../core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§6.4 No Self-Custody](../../core_15.000_standing_assessment.md#64-no-self-custody)); how that exclusion differs for operator and stakeholder standing records ([§6.5 Two Kinds of Standing Record by Subject](../../core_15.000_standing_assessment.md#65-two-kinds-of-standing-record-by-subject)) and for a single conflicted custodian ([§6.6 Conflicted Custodian on a Single Standing Record](../../core_15.000_standing_assessment.md#66-conflicted-custodian-on-a-single-standing-record)); where a standing record goes when a seat is unnamed ([§6.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](../../core_15.000_standing_assessment.md#67-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§6.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](../../core_15.000_standing_assessment.md#68-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); and how the rules scale down for informal and small-scope work ([§6.9 Informal and Small-Scope Records](../../core_15.000_standing_assessment.md#69-informal-and-small-scope-records)). [§7 Handling a Standing Record](../../core_15.000_standing_assessment.md#7-handling-a-standing-record) then says what the holders do with a standing record once custody is settled.
 
 [Source](../../core_15.000_standing_assessment.md#6-record-custody-and-opening-authority)
 

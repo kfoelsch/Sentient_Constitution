@@ -392,7 +392,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
   - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) where precedence and allocation choices must remain coherent and reviewable, and
-  - [Chapter Nine §5.5.3 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#553-system-class-scaling-and-escalation) (9.000 §5.5.3) (*non-response safeguards under §3.1.5*).
+  - [Chapter Nine §6.5.3 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#653-system-class-scaling-and-escalation) (9.000 §6.5.3) (*non-response safeguards under §3.1.5*).
 - Subsections (reading order):
   - [§3.1.1](#311-access-and-opportunity) ·
   - [§3.1.2](#312-benefits-and-burdens) ·
@@ -834,8 +834,8 @@ Systems may not undermine the ability of sentients to understand what is happeni
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
   - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
   - Especially
@@ -1144,7 +1144,7 @@ The right to this correction is stated in [Article XIII-B](core_06.020_rights_pa
 - Read with: [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) and
-  - [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint) (9.000 §3.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
+  - [Chapter Nine §4.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint) (9.000 §4.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
   - [§13.1](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles) through
   - [§13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles:
@@ -1359,7 +1359,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 - **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01.030_constitutional_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
-- **Whole-system evaluations:** Must test anti-segmentation under [Chapter Nine §4.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+- **Whole-system evaluations:** Must test anti-segmentation under [Chapter Nine §5.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
 ##### 7.2.1 Aligned Self-Organization
 <a id="721-aligned-self-organization"></a>
@@ -1434,7 +1434,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 **Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 
-When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Nine §4.3.1 Dissent and Peaceful Protest](core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Until that evaluation is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
+When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Nine §5.3.1 Dissent and Peaceful Protest](core_09.000_system_alignment_certification_evaluation.md#531-dissent-and-peaceful-protest). Until that evaluation is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
 **Scope.** This subsection does not protect separable conduct that independently violates Safety or another sentient's Rights-Floor minimums.
 
@@ -1500,7 +1500,7 @@ This subsection does **not** import voluntary-discontinuation discipline into th
 - sexual-consent
 - commercial-service
 
-Whole-system evaluations must test these conditions under [Chapter Nine §4.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+Whole-system evaluations must test these conditions under [Chapter Nine §5.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_09.000_system_alignment_certification_evaluation.md#52-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
 
 #### 7.5 Expression and the Harm Line
 

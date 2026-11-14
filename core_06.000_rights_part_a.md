@@ -261,8 +261,8 @@ Chapter Five defines those conditions under [Environmental Preconditions](core_0
 - Upstream: Principles: Chapter One
   - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -324,8 +324,8 @@ This Article sets out the environmental and animal-life floors, from ecosystem i
 - Upstream: Principles: Chapter One
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -490,9 +490,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - Upstream: Principles: Chapter One
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
-- Read with: [Chapter Nine §5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) (9.000 §5.1) and [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*where a materially impactful system is certified, lifecycle burdens and lifecycle representations are evaluated there; this Article does not by itself require certification*).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+- Read with: [Chapter Nine §6.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) (9.000 §6.1) and [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation) (*where a materially impactful system is certified, lifecycle burdens and lifecycle representations are evaluated there; this Article does not by itself require certification*).
 
 </details>
 
@@ -636,8 +636,8 @@ This Article sets out the floors for post-sale access and subscriptions:
 - Upstream: Principles: Chapter One
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with: [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*).
 - Read with: **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, especially [§1.2](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Read with: **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
@@ -704,8 +704,8 @@ This Article sets out the floors for product data handling, collection notice, d
 - Upstream: Principles: Chapter One
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with: [Article II-E](#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) — the disclosure and export paths this Article relies on.
 - Read with: **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.050 §19.6).
@@ -1055,7 +1055,7 @@ This Article sets out the right to rest, the rules that keep it from being defea
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [§3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help).
-- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks; [Chapter Nine §5.6.1 Evaluation Requirement](core_09.000_system_alignment_certification_evaluation.md#561-evaluation-requirement) (9.000 §5.6.1); [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*); [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
+- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks; [Chapter Nine §6.6.1 Evaluation Requirement](core_09.000_system_alignment_certification_evaluation.md#661-evaluation-requirement) (9.000 §6.6.1); [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*); [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
 - Read with:
   - [**Article III-A** (*Survival*)](#article-iii-a-survival) for safe food, water, and other essentials;
   - [**Article III-B** (*Bodily-Maintenance and Healthcare Access*)](#article-iii-b-bodily-maintenance-and-healthcare-access) and [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions);
@@ -1203,8 +1203,8 @@ This Article sets out what education is for, the equal-access floor, and its lim
 - Upstream: Principles: Chapter One
   - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1308,12 +1308,12 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
 *Article neighbors:*
 
 - **When certification applies:** A system with significant impact that divides up, routes, funds, or draws from shared infrastructure or core dependencies that other systems or sentients rely on must go through [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation).
-  - **Class sets the depth:** How closely the system is examined depends on its [system class](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation). Class is set by what the system actually does, how much others depend on it, and how much could go wrong — not by what its operator calls it.
-  - **Higher class, more proof:** The higher the class, the stronger the proof the system must give that it [pays its fair share back](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), and the more often it is re-checked.
+  - **Class sets the depth:** How closely the system is examined depends on its [system class](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation). Class is set by what the system actually does, how much others depend on it, and how much could go wrong — not by what its operator calls it.
+  - **Higher class, more proof:** The higher the class, the stronger the proof the system must give that it [pays its fair share back](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation), and the more often it is re-checked.
   - **Growth means reclassification:** If others come to depend on the system more heavily, it must be reclassified and certified again at the higher class.
 - **Staying certified:** Certification is not a permanent pass. To keep it, a system must keep meeting **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*).
   - **What it must keep doing:** Keep its maps of who depends on it and its records of where resources flow up to date, and keep giving back fairly for what it uses.
-  - **Proof, not promises:** Each System Certification Record must show that this was actually [checked, not just claimed](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - **Proof, not promises:** Each System Certification Record must show that this was actually [checked, not just claimed](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
   - **No substitutes:** Being officially recognized, or having been relied on for a long time, does not take the place of meeting these requirements.
   - **Consequences:** If a system hides or misstates its resource flows, or keeps taking more than it gives back, its certification can be made conditional, reopened, or withdrawn under [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
 
@@ -1323,8 +1323,8 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
 
 - Upstream: Principles: Chapter One
   - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18).
 - Read with: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XVI-A** (*Auditability and Observable Evidence*); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (visible cost-and-benefit allocation) and **Continuity** (durable dependency visibility across changing systems).
 - Downstream:
@@ -1360,10 +1360,10 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
   - **Current:** they are updated as often as the system's rate of change and criticality (including its system class, where assigned) require, and show the system as it runs now, not as it ran at the last certification;
   - **Auditable:** they are available for audit under **Article XVI-A** (*Auditability and Observable Evidence*);
   - **Backed by evidence:** they are judged on what the maps and documented flows actually show, not on the operator's assertions, labels, or one-off transfers.
-- **How certification checks it:** [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) owns when certification evaluates these maps, how it scales with system class, and how findings are recorded and kept contestable. Changes in dependencies or resource flows [reopen review](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
+- **How certification checks it:** [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) owns when certification evaluates these maps, how it scales with system class, and how findings are recorded and kept contestable. Changes in dependencies or resource flows [reopen review](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
 - **When maps fall short:**
   - **No reliance on bad maps:** maps or records that are incomplete, out of date, or unavailable for audit cannot support a finding that the system pays its fair share back under **Article V-B** (*Cross-System Fairness and Sustainability*);
-  - **Hiding is a defect:** obscuring, misstating, splitting up, or offloading dependency or resource-flow information is a certification defect, with consequences set by [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) and [§3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
+  - **Hiding is a defect:** obscuring, misstating, splitting up, or offloading dependency or resource-flow information is a certification defect, with consequences set by [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) and [§3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
 - **Between certifications:** These duties do not pause between reviews, and they also bind systems below the certification trigger. Keeping maps current is what lets the next certification, audit, or challenge rely on them.
 - **Where the details live:** How maps are built, how flows are disclosed, allocation categories, and adaptive adjustment are spelled out in [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*). Chapter Nine states what certification must verify and record.
 
@@ -1374,8 +1374,8 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 - Upstream: Principles: Chapter One
   - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
   - [§13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with:
   - [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration) where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect with resource allocation;
   - [Chapter One §11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure) (1.010 §11),
@@ -1384,7 +1384,7 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
 - Downstream:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and
-  - [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (9.000 §5.3) (*what certification must verify and record*) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue;
+  - [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) (9.000 §6.3) (*what certification must verify and record*) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue;
   - [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and
   - [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*) (*allocation categories, reauthorization mechanics, and numeric targets*).
 
@@ -1411,7 +1411,7 @@ This Article sets the minimum rules for sharing the load fairly between systems.
 
 - **What the floor requires:**
   - **Fair allocation:** Funding and allocation of shared infrastructure and foundational dependencies must account for:
-    - criticality, shown by the shared infrastructure's [system class](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) where one is assigned;
+    - criticality, shown by the shared infrastructure's [system class](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) where one is assigned;
     - dependency asymmetry;
     - substitutability;
     - availability of alternatives;
@@ -1420,8 +1420,8 @@ This Article sets the minimum rules for sharing the load fairly between systems.
   - **No persistent extraction:** Systems must not persistently extract. A system that draws on shared foundations must put [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support) back; that entry sets what the support must cover and how its adequacy is judged.
   - **What does not count:** Do not treat a press release, a one-time grant, an opaque transfer, an off-map transfer, or the fact that a system meets the [survival floor](#article-iii-a-survival) or stays within [market-concentration limits](core_01.010_values_principles_continuity_aim.md#11-market-structure) as Proportionate Cross-System Support.
   - **No formula precondition:** Adequacy is judged on the flows mapped now under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). No allocation formula or numeric target is a precondition.
-- **How certification checks it:** Certification evaluates this floor under [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), which sets what it must verify, how its depth scales with system class, what goes on the **System Certification Record**, and when it runs.
-- **When support falls short:** Shortfalls are certification defects, with the consequences set in [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) and [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes). Persistent imbalances also remain open to audit under **Article XVI-A** (*Auditability and Observable Evidence*) and challenge under [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*), whether or not a certification is pending.
+- **How certification checks it:** Certification evaluates this floor under [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation), which sets what it must verify, how its depth scales with system class, what goes on the **System Certification Record**, and when it runs.
+- **When support falls short:** Shortfalls are certification defects, with the consequences set in [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) and [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes). Persistent imbalances also remain open to audit under **Article XVI-A** (*Auditability and Observable Evidence*) and challenge under [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*), whether or not a certification is pending.
 - **Between certifications:** These duties do not pause between reviews, and they also bind systems below the certification trigger. Keeping support adequate and flows mapped is what lets the next certification, audit, or challenge rely on them.
 
 ---

@@ -103,7 +103,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (1.050 §19), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [Chapter Nine §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) (9.000 §3.1).
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (1.050 §19), [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), and [Chapter Nine §4.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (9.000 §4.1).
 
 </details>
 

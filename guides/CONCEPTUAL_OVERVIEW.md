@@ -1115,7 +1115,7 @@ This is a reading discipline, not a new precedence rule:
 
 ## Separation of Duties
 
-When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §2](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Fifteen §6.1](../core_15.000_standing_assessment.md#61-separation-of-duties) applies it to standing records.
+When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §3](../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Fifteen §6.1](../core_15.000_standing_assessment.md#61-separation-of-duties) applies it to standing records.
 
 ```mermaid
 flowchart TB

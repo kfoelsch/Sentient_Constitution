@@ -121,7 +121,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
   - [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity),
   - [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), and
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional).
-- Downstream: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) — class-scaled whole-system evaluation duty.
+- Downstream: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) — class-scaled whole-system evaluation duty.
 
 </details>
 
@@ -143,7 +143,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **Primary assessment:** Use the real class under the implementation rules, read with [Materiality](core_05.050_band_oversight.md#materiality) and [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), and [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) scales by class:
+    **Primary assessment:** Use the real class under the implementation rules, read with [Materiality](core_05.050_band_oversight.md#materiality) and [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) scales by class:
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -401,8 +401,8 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality (
   - [Materiality](core_05.050_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (**Materiality** DEC stack; evaluation completeness);
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Materiality** DEC stack; evaluation completeness);
   - [13.1 Core Tradeoff Principles](core_01.020_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
 - Read with:
   - [Material Impact](core_05.050_band_oversight.md#material-impact),
@@ -445,8 +445,8 @@ Implication can exist without misalignment. Misalignment always implies material
 - Downstream: Integrative Materiality (
   - [Materiality](core_05.050_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
   - [material stake](core_00.000_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §15.1**), **Truth** (**Chapter One §15.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §13.3.2** where **Materiality** appears in O/M/A/C widgets — see
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) as the principal systems-evaluation home.
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
 - Read with:
   - [Material Impact](core_05.050_band_oversight.md#material-impact),
@@ -524,7 +524,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: this entry. [Materiality](core_05.050_band_oversight.md#materiality) keeps the method that scales duties to [material stake](core_00.000_preamble.md#material-stake). This entry answers a different question: in each main area of life, when does an act, or an Operating Party's ongoing activity, matter enough that a duty applies at all? It does two jobs from one list: it tests whether an act is material, and it tests whether an Operating Party needs a System Charter or Institutional Charter.
-- Downstream: [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act) (the test of whether its effect is material); [Chapter Seven §2 When System and Institutional Charters Are Required](core_07.000_charters.md#2-when-system-and-institutional-charters-are-required) (7.000 §2); [Chapter Twelve §2.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#21-institution-class) (12.000 §2.1); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*), Class P retention and the P-to-L reclassification edge.
+- Downstream: [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act) (the test of whether its effect is material); [Chapter Seven §2 When System and Institutional Charters Are Required](core_07.000_charters.md#2-when-system-and-institutional-charters-are-required) (7.000 §2); [Chapter Twelve §3.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class) (12.000 §3.1); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*), Class P retention and the P-to-L reclassification edge.
 - Read with:
   - [Material](core_05.050_band_oversight.md#material),
   - [Material Impact](core_05.050_band_oversight.md#material-impact),
@@ -555,7 +555,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - **Its own decisions:** What it makes or sells, its prices within ordinary trade, whom it hires, its hours, and whom it buys from are not materially binding acts where the business cannot shape the market's terms and those it deals with can walk away. It places seats only on an act that is material in at least one of the nine areas, and its routine decisions are not separated one by one.
     - **Policy once:** A recurring covered decision, such as a refund rule, a tenancy rule, or a booking policy, is a materially binding act once, when the business publishes or changes the policy. Applying the published policy to a case is a clerical step that carries out an already recorded act. It needs no seat of its own unless it departs from the policy or changes its effect.
     - **Limits for routine choices:** An adopting document may publish limits for pre-authorized routine choices, such as spending or hiring, so that a business need not seek approval for each one. The limits sit at or below what the nine questions imply, are published and open to review, and cannot move the line. Core sets no number.
-    - **Seats in common:** A small business that does take a covered act may place its other seats with a local group under [Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting) (*Seats Held in Common*).
+    - **Seats in common:** A small business that does take a covered act may place its other seats with a local group under [Chapter Eight §7 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) (*Seats Held in Common*).
   - **In scope:** The nine questions that tell whether an act, or an Operating Party's ongoing activity, is material. Each question draws a line. Above the line, the activity is material and the duties of that area attach. Below it, the activity is not material, though every Constitutional Constraint still applies (see the No licence rule under What must hold). Each question gives the test for being above the line, what falls below it, and where the duty itself lives.
     - <a id="domain-specific-materiality-survival"></a>**Survival and essential access.** *Could others lose something they need to live if the Operating Party stopped?*
       - Material when: the Operating Party supplies, controls, or can cut off food, water, shelter, energy, healthcare, or safe passage, and those who rely on it cannot get a substitute in time.
@@ -722,7 +722,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (aggregation and boundary integrity in evaluation); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (metric/reality gaps that can manipulate materiality).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (aggregation and boundary integrity in evaluation); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (metric/reality gaps that can manipulate materiality).
 - Read with:
   - [Materiality](core_05.050_band_oversight.md#materiality),
   - [System Boundaries](core_05.040_band_continuity.md#system-boundaries),
@@ -768,8 +768,8 @@ Implication can exist without misalignment. Misalignment always implies material
 - Downstream: Integrative Materiality (
   - [Materiality](core_05.050_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
   - [material stake](core_00.000_preamble.md#material-stake) scaling proxy;
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
   - [Chapter One §16 Stewardship in Depth — §16.1 Distributed Understanding](core_01.040_stewardship_capacity_principles.md#161-distributed-understanding) (1.040 §16) (understanding scales with **Materiality**);
   - [13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
@@ -828,8 +828,8 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality (
   - [Materiality](core_05.050_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (tail risks, existential risk posture);
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (tail risks, existential risk posture);
   - [13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Read with:
   - [Harm](core_05.035_band_accountability.md#harm),
@@ -881,7 +881,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (precaution against omitted harms).
+- Downstream: Principles: [13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (precaution against omitted harms).
 - Read with:
   - [Material Impact](core_05.050_band_oversight.md#material-impact),
   - [Material Risk](core_05.050_band_oversight.md#material-risk),
@@ -929,8 +929,8 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles:
   - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18).
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
 - Read with:
@@ -1008,7 +1008,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
 - Read with:
   - [Materiality](core_05.050_band_oversight.md#materiality),
   - [Systemic Materiality](core_05.040_band_continuity.md#systemic-materiality),
@@ -1194,7 +1194,7 @@ See **Anti-Segmentation Principle**.
 - Downstream: **
   - [CS-6.305 §7](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)** (*Type O Baseline for Class A/B/C Systems*); **
   - [CS-6.310 Part B §9.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
-  - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) (*Data Types and Handling Evaluation*);
+  - [Chapter Nine §4.4](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (9.000 §4.4) (*Data Types and Handling Evaluation*);
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2) (*System Certification Record*);
   - [Chapter Eleven §2.2](core_11.000_system_alignment_certification_records_recertification.md#22-transparency-and-auditability-of-the-system-certification-record) (11.000 §2.2) (*Transparency and Auditability of the System Certification Record*) and
   - [§4](core_11.000_system_alignment_certification_records_recertification.md#4-challenging-a-certification) (*Challenging a certification*).
@@ -1294,7 +1294,7 @@ See **Anti-Segmentation Principle**.
 - Downstream: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg;
   - [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint);
-  - [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) (9.000 §3.2.1) (*SAC evaluation-and-disclosure bridge*);
+  - [Chapter Nine §4.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (9.000 §4.2.1) (*SAC evaluation-and-disclosure bridge*);
   - [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
 - Read with:
   - [Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation),
@@ -1315,7 +1315,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:** Communicating evaluated systemic [Risk](core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
     - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Transparency](core_05.050_band_oversight.md#transparency) or [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge); findings live on the [System Certification Record](core_05.040_band_continuity.md#system-certification-record), not as a separate named risk-disclosure record.
+    - **SAC verification:** Where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chapter Nine §4.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge); findings live on the [System Certification Record](core_05.040_band_continuity.md#system-certification-record), not as a separate named risk-disclosure record.
   - **Out of scope:**
     - [Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) as the broader public baseline floor; or
@@ -1496,8 +1496,8 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: Oversight measurement family (*evaluation coverage as constitutional measurement*);
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*SAC whole-system evaluation*);
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*SAC whole-system evaluation*);
   - [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*findings on the System Certification Record*);
   - [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*testing, stress, and regression coverage*).
 - Read with:
@@ -1525,7 +1525,7 @@ See **Anti-Segmentation Principle**.
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
   - **System and Institutional Charter scope process:** Where a governing [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that chartered scope. System Charter or Institutional Charter text does not shrink the risk pathways that must be evaluated.
-  - **SAC verification:** Where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, this constraint is part of what certification must verify under [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) — including chartered-scope-versus-functional-boundary checks under [Chapter Nine §3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-6.345 §10 Recertification, Regression Testing, and Certification Defects](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) (*System lifecycle*). Findings live on the [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+  - **SAC verification:** Where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, this constraint is part of what certification must verify under [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) — including chartered-scope-versus-functional-boundary checks under [Chapter Nine §4.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#42-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-6.345 §10 Recertification, Regression Testing, and Certification Defects](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) (*System lifecycle*). Findings live on the [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
   - **Out of scope:**
     - [System Charter](core_05.040_band_continuity.md#system-charter) text as a scope document alone — a System Charter states intended scope; it is not itself evaluation coverage;
     - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1541,7 +1541,7 @@ See **Anti-Segmentation Principle**.
     - [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
     Also ask:
       - where a [System Charter](core_05.040_band_continuity.md#system-charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the System Charter as a complete scenario list; and
-      - where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, whether whole-system evaluation and record findings under [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), and [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) reflect that coverage.
+      - where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, whether whole-system evaluation and record findings under [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **What must hold**
   - **Primary failure:**

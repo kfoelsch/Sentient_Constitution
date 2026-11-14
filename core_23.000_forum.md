@@ -335,7 +335,7 @@ This subsection sets out the Forum Case Records and standing records a forum kee
   - using a provisional routing label.
 - When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Sixteen contribution and violation measurements, any Chapter Twenty-One designation, and Chapter Seventeen standing effects can still be audited separately and recorded in axis-pure standing records.
 
-**Seats in a forum case.** A forum case applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement):
+**Seats in a forum case.** A forum case applies the [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement):
 - Filing, investigation, merits review, custody of the forum case record, and appeal each sit in a seat that the forum's published placement names.
 - No forum, panel member, or office may hold seats on the same act that Chapter Eight prohibits.
 - Review of a forum family's own alleged bias or process abuse follows the cross-forum anti-self-judging rule in [§3 Transfer, Consolidation, and Coordination — Continuity and Anti-Capture](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).

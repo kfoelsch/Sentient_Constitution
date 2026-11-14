@@ -535,7 +535,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream: Principles:
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
   - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.050 §19.6);
-  - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) and
+  - [Chapter Nine §4.4](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (9.000 §4.4) and
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2) where attribution capability is materially required.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -580,7 +580,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 - Downstream: Principles:
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
-  - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4);
+  - [Chapter Nine §4.4](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (9.000 §4.4);
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2); and **
   - [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
@@ -627,7 +627,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream: Principles:
   - [Chapter One §16.4 Document at Action](core_01.040_stewardship_capacity_principles.md#164-document-at-action) (1.040 §16.4) (*the act makes its own Act Record*);
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
-  - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8);
+  - [Chapter Eight §9 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (8.000 §9);
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2);
   - [Chapter Fifteen §5.4 Versioning](core_15.000_standing_assessment.md#54-versioning) (15.000 §5.4) and [§6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6); and
   - [Chapter Twenty-Three §2.3 Forum Case Records, Standing Records, and Contests](core_23.000_forum.md#23-forum-case-records-standing-records-and-contests) (23.000 §2.3).
@@ -657,8 +657,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - **Reachable:** authorized reviewers can get to it through the official record path, and the public can as disclosure rules require. Privacy, confidentiality, and security rules decide who sees what. They never justify erasing the trail or making it unusable.
     - **Independent:** the sentient or system whose act is recorded does not control the record of that act. Its own logs, signatures, and attestations are inputs, not the official record.
   - A process may keep the official record as one piece or as a linked set. No duplicate official record is required.
-  - **Care scales** with the materiality of the act and, for a System, its class ([Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)). An official record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. An official record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed official record in place, for any official record a materially binding act rests on.
-  - **Out of scope:** A demand for one technical mechanism, for records that can never change, for identity exposure in every context, or for disclosure beyond what the disclosure rules require. A correction made as a visible new version is not alteration. What a given record must contain stays with its owner (for an Act Record, [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)). Evidence that is not itself an official record stays with [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation).
+  - **Care scales** with the materiality of the act and, for a System, its class ([Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation)). An official record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. An official record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed official record in place, for any official record a materially binding act rests on.
+  - **Out of scope:** A demand for one technical mechanism, for records that can never change, for identity exposure in every context, or for disclosure beyond what the disclosure rules require. A correction made as a visible new version is not alteration. What a given record must contain stays with its owner (for an Act Record, [Chapter Eight §9 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs)). Evidence that is not itself an official record stays with [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation).
 - **Not edited in place**
   - **Open and completed:** While the process that keeps an official record is still running, the official record may be amended, and each amendment is a new version that shows what changed. The official record is completed when the process enters its decision or closing entry. From then on the existing entries are not changed.
   - **Four kinds of later version:** A later version may update the official record going forward, correct it back to when it was wrong, expire it for a completed decision context, or supersede it for a new decision context. Standing records already work this way ([Chapter Fifteen §5.4 Versioning](core_15.000_standing_assessment.md#54-versioning)).
@@ -1162,7 +1162,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity) (7.000 §6) (*covered offices, standing and authenticity checks, and staff safeguards*).
-- Forum test: [Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation) (item 7).
+- Forum test: [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 7).
 - Read with: [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), [Material Control Line](core_05.035_band_accountability.md#material-control-line), and [Interim Hold](core_05.035_band_accountability.md#interim-hold).
 
 </details>
@@ -1250,7 +1250,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18) (diffuse responsibility and capture); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
+- Downstream: Principles: [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18) (diffuse responsibility and capture); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05.005_apex_accountability_leg.md#accountability),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -1595,7 +1595,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), where reporting supplies safety, truth, accountability, or material-risk evidence.
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where reporting supplies safety, truth, accountability, or material-risk evidence.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](core_05.035_band_accountability.md#protected-reporting-and-anti-retaliation).
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -1833,7 +1833,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6); Chapter Twenty-Three forum anti-self-judging;
   - **CI-8.205 §2** (*Functional Separation Lanes*);
   - **CI-24.205 §6** (*Seat catalog*);
@@ -1891,7 +1891,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries and post-service and prospective-role conflicts;
   - [Chapter Twenty-Four §2.2](core_24.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) (24.000 §2.2) (*Eligibility, Contested Selection, and Democratic Minimums*) for selection-funding boundaries;
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
@@ -1950,7 +1950,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6); Chapter Twenty-Three forum anti-self-judging;
   - **CI-8.205 §2** (*Functional Separation Lanes*);
   - **CI-24.205 §6** (*Seat catalog*);
@@ -2010,8 +2010,8 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §4 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6); and
   - **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2057,8 +2057,8 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §4 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6); and
   - **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2106,7 +2106,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - Downstream:
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
   - [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody) (7.000 §5);
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
   - **CF-23.415 §7** (*Backup Record Authority*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2153,8 +2153,8 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §4 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6); and
   - **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2246,8 +2246,8 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §4 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
   - [Chapter Twenty-Three Forums and Jurisdiction](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000); and
   - **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
@@ -2297,7 +2297,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Preamble §5 System and Institutional Charters, Functional Independence, and Separation of Duties](core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties);
   - [Chapter One §18.3 Separation of Duties](core_01.050_governance_incentive_application.md#183-separation-of-duties) (1.050 §18.3);
   - [Chapter Eight §1 Purpose, Role, and Scope](core_08.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope) (8.000 §1) (*application list*) through
-  - [§9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes); Chapters Nine through Twenty-Four process-specific acts; and
+  - [§10 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes); Chapters Nine through Twenty-Four process-specific acts; and
   - **CI-24.205 §6** (*seat catalog*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -2328,7 +2328,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — used to test whether every act that meets this definition is identified as one, placed under the four seats, and carried by an Act Record.
 
-    **Primary assessment:** For each process, identify every step that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state. Test its effect under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Check that each qualifying step is named as a materially binding act on the published placement map required by [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) and has an identifiable [Act Record](core_05.035_band_accountability.md#materially-binding-act-record).
+    **Primary assessment:** For each process, identify every step that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state. Test its effect under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Check that each qualifying step is named as a materially binding act on the published placement map required by [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) and has an identifiable [Act Record](core_05.035_band_accountability.md#materially-binding-act-record).
   - **Secondary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family), [Materiality](core_05.050_band_oversight.md#materiality), and [Attributable Action](core_05.035_band_accountability.md#attributable-action) — co-measures for materiality, label-based evasion, and the boundary between official acts and ongoing conduct.
 
     **Secondary assessment:** Sample outputs described as advisory, provisional, automated, or clerical and test whether they are in practice given effect without a separate adopting act. Check that splitting or bundling process steps does not leave the step that fixes an effect without distinct seats or an Act Record.
@@ -2348,9 +2348,9 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and
-  - [§4 Wrong-Seat Routing](core_08.000_functional_independence_separation_of_duties.md#4-wrong-seat-routing) and
-  - [§8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Nine through Twenty-Four process-specific records;
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) and
+  - [§5 Wrong-Seat Routing](core_08.000_functional_independence_separation_of_duties.md#5-wrong-seat-routing) and
+  - [§9 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Nine through Twenty-Four process-specific records;
   - **CI-24.205 §6** (*seat catalog*); and
   - [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2377,14 +2377,14 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 The short form for **Materially Binding Act Record** in this Constitution is **Act Record**.
 
 - **What it is**
-  - **In scope:** The attributable, versioned official record for a particular [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), maintained under the authority and responsibility of the [Record Seat](core_05.035_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs).
+  - **In scope:** The attributable, versioned official record for a particular [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), maintained under the authority and responsibility of the [Record Seat](core_05.035_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Eight §9 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs).
   - An Act Record may be embodied in one applicable process-specific official record or in an attributable, integrity-preserving linked set of official records. A System Certification Record, Standing Record, Forum Case Record, or another named process record may satisfy or extend the Act Record requirements for the act it records. No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path.
   - **Out of scope:** Raw telemetry, a self-generated log, signature, checklist, model trace, attestation, clerical copy, unverified claim, or evidence bundle alone is not an Act Record. Those materials may be inputs or links. An Act Record does not become a [Standing Record](core_05.035_band_accountability.md#standing-record), merits determination, certification, or forum record unless the applicable process independently makes it one.
 <a id="materially-binding-act-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether the act and its authority, seats, determination, custody, routing, and challenge posture remain reconstructable and independently reviewable.
 
-    **Primary assessment:** Apply the minimum-content requirements in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). Check stable identity, attribution, version integrity, preservation, material timestamps and clocks, the governing standard and determination, each required seat and authority, every material handoff or departure, current challenge status, and links to evidence and any process-specific record that carries part of the official trail.
+    **Primary assessment:** Apply the minimum-content requirements in [Chapter Eight §9 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). Check stable identity, attribution, version integrity, preservation, material timestamps and clocks, the governing standard and determination, each required seat and authority, every material handoff or departure, current challenge status, and links to evidence and any process-specific record that carries part of the official trail.
   - **Secondary measure:** [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), [Auditability](core_05.050_band_oversight.md#auditability), [Contestability](core_05.035_band_accountability.md#contestability), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) — co-measures for reliable identity, custody, reconstruction, challenge, and clocks.
 
     **Secondary assessment:** Test whether linked official records resolve to the same act without contradiction or silent gaps, whether superseded versions and corrections remain traceable, and whether an outsider with lawful access can follow the act from initiation through determination, record entry, challenge, and correction without treating a log or recorder statement as proof of the merits.
@@ -3616,7 +3616,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18) (standing signals and capture).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18) (standing signals and capture).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Contribution Nature](core_05.035_band_accountability.md#contribution-nature),
@@ -3752,7 +3752,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (standing metrics vs demonstrable facts).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (standing metrics vs demonstrable facts).
 - Canonical owner: [Chapter Sixteen — §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Fifteen — section 2](core_15.000_standing_assessment.md#2-the-three-questions) (15.000) (*three-question frame*) and [Chapter Fifteen §5.1 — Verified-Input Gate](core_15.000_standing_assessment.md#51-minimum-record-contents) (15.000 §5.1).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
@@ -3816,8 +3816,8 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
   - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (Axis II classification integrity);
   - [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
@@ -3956,7 +3956,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (bounded standing records vs merged labels).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4) (bounded standing records vs merged labels).
 - Canonical owner:
   - [Chapter Fifteen — §3 Standing records as the unit of application](core_15.000_standing_assessment.md#3-question-1--what-happened) (15.000 §3) and
   - [Chapter Fifteen §5 Standing record operational requirements](core_15.000_standing_assessment.md#5-standing-record-operational-requirements) (15.000 §5); read with
@@ -5065,7 +5065,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIV-C](core_06.020_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications) classification.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
