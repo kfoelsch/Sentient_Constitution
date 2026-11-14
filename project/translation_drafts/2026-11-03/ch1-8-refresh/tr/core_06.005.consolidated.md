@@ -1,0 +1,82 @@
+<!-- CHUNK-BEGIN core_06.005_article_xi_e_fullbody.md bytes=13264 -->
+# Article XI-E — Kurum ve İşletme Kurma Hakkı (tr)
+
+**Status:** AI-assisted, unreviewed, non-binding translation draft. Do not synchronize.
+**Source:** `core_06.005_rights_part_b.md`, Article XI-E (Institutional Formation and Business Creation), body through immediately before Article XI-F.
+**Source SHA-256:** `e57b66086bfea41b4891451eb6947e61c4fcc3ab03a548b8f169dbaa0c907ec1`
+
+
+## 1. Kurum ve işletme kurma hakkı
+Her duyarlı varlık, [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) uyarınca yeni kurum ve işletmeler kurma, oluşturma, işletme ve geliştirme hakkına sahiptir. Bu hak; eğitim, kültür, bilim, karşılıklı yardım, topluluk ve müştereklerin yönetimi gibi ticari olmayan kurumları; şahıs işletmeleri, ortaklıklar, şirketler, ticari kooperatifler ve platform işletmeleri gibi ticari girişimleri kapsar. Gerekli sermaye erişimi, pazara giriş ve lisans yolları da dahildir. Hak, yalnızca mevcut yapılara katılmayı değil yeni yapılar oluşturmayı kapsar.
+
+## 2. Gerçek ve samimi oluşum
+Bir kurum veya işletme ancak beyan edilen amacıyla gerçekten uyumluysa kurulabilir veya işletilebilir. Amacı, kontrolü, çıkarları ya da kime hizmet ettiği konusunda başkalarını yanıltma veya başkalarına zarar verme niyetiyle kurmak/işletmek yasaktır; geçerli bir Interim Hold süresinde de aynı yasak geçerlidir. Zarar verme niyeti, Anayasanın yasakladığı zararı, [Article VI-C](core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) kapsamındaki ayrımcılığı içerir. Olağan rekabet, hukuka uygun eleştiri ve itiraz kendi başına zarar değildir; bir rakibin hukuka uygun ticari kaybı niyeti kanıtlamaz.
+
+Niyet; doğrulanabilir davranış, Operating Party'nin tasarımı ve kontrolü, teşvikleri ve açıklamalar üzerinden saptanır. Zarar veya ayrımcılık çağrısı yapan doğrulanmış bir ifade delil olabilir. İfade, dini, siyasi veya ideolojik etiketi ne olursa olsun, [Chapter One §7.5](core_01.000_values_principles.md#75-expression-and-the-harm-line) uyarınca ne söylediğine, neye çağırdığına veya ne yaptığına göre değerlendirilir. İnanç, kimlik ya da grup üyeliği tek başına aleyhe sayılamaz; yalnızca iyi niyet beyan etmek de lehe delil değildir. [Chapter Seven §5](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) uygulanır. Geçmiş kaydı olmayan kurucunun samimi olduğu varsayılır; bağlılığı, Operating Party sınırlarını yazılı kabul etmek ve bağımsız doğrulamayı kabul etmek gibi eylemlerle gösterilebilir. Bu bir hakkın koşuludur, lisans değildir: ön izin gerekmez. Samimiyetsizliği ileri süren taraf ispat yükünü taşır.
+
+## 3. Dolaylı engelleme yasağı
+Hak; istenmeyen kurucu, amaç veya biçimleri dışlamak için tasarlanmış lisans, yetki eşiği veya usul karmaşıklığıyla; sermaye, mali araç, altyapı ya da hukuki tanınma erişimindeki ayrımcılıkla; veya esas etkisi yerleşik aktörleri korumak olan kurallarla ortadan kaldırılamaz. Misilleme, gözetim ve hedef gösterme de uygun değildir. Aşağıdaki üç dar sınırlama, belirli eylemler için uygulama lisansı/onayı ve yeni maddi yetki için bekleme dışında kurum veya işletme kurma/işletme engeli konulamaz.
+
+## 4. Üç dar sınırlama
+Yetkiyi kimin kullanabileceği veya kendisi kilit altında olan bir Operating Party'nin geri dönmesi bakımından yalnızca şu üç sınırlama uygulanabilir. Her biri adı konmuş kişiye ve yetki yoluna bağlıdır. Kilit altında olmayan bir Operating Party'nin başkalarınca kurulmasını, işletilmesini, katılımı, çalışmayı veya hizmet sunmasını engellemez; kişinin başka bir yapı kurmasını da yasaklamaz.
+- **Çözülmemiş kişi kilidi:** [Institutional Authority Standing Lock](core_12.000_standing_integration.md#55-special-locks), [Anti-Constitutional Trust Lock](core_12.000_standing_integration.md#55-special-locks) veya aynı tür kurum/işletmede aynı yetki yolunu kapsayan benzer bir kilit altındaki kişi, belirtilen yolda yönetim, kontrol veya mülkiyet yetkisi alamaz ya da kullanamaz. Kilit kaldırıldığında veya daraltıldığında sınırlama biter.
+- **Interim Hold:** Yetkili forum, [Chapter Fourteen §5](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) temelinde, belirtilen kişi ve kurum bakımından belirli yetkinin kullanılmasını geçici olarak durdurabilir; ilgili alt bölümün şartları ve olgular, kişinin belirtilen amaçla/Constitutional Constraints ile uyumsuz olmasının ya da amaç, kontrol, çıkar veya hizmet edilen kişiler hakkında yanıltma veya zarar verme niyetinin daha olası olduğunu göstermelidir. İlgili hükmün tüm koşulları geçerlidir. Bu bir ihlal kararı, kilit veya kalıcı sicil değildir. Salt inanç, kimlik, grup üyeliği, itibar, korunan bildirim ya da zarar/ayrımcılık çağrısı içermeyen itiraz yeterli değildir. Yapı başka bir hukuka uygun yetkiliyle çalışmayı sürdürür; gerekirse forum geçici sorumlu atar.
+- **Operating Party'nin kendisine kilit:** [Anti-Constitutional Trust Lock](core_12.000_standing_integration.md#55-special-locks), kurum, halef veya kontrol edilen bir yapıyı adlandırabilir. [Dissolution Reformation Lock](core_12.000_standing_integration.md#55-special-locks), CI-12.210 §4 uyarınca her kesin tasfiye emrinde uygulanır. Kilit; halefleri, kontrol edilenleri ve aday/örtülü yapıları kapsar. Tasfiye edilen yapı başka ad veya biçimde yeniden kurulamaz ve hiç kimse orada yönetim, kontrol ya da mülkiyet yetkisi kullanamaz. Yaygın anayasa karşıtı davranış veya giderilmemiş geri döndürülemez zarar saptanmışsa kilit kalıcıdır; ancak emir incelemede kaldırılırsa veya yeni doğrulanmış olgular dayanak bulgunun yanlış olduğunu gösterirse sona erer. Diğer durumlarda, nedenin giderildiği, çözümün sağlandığı ve dönüşün dışlamadan daha güvenli olduğu bağımsız biçimde belirlenince biter. Başka Operating Party'leri ve hizmetleri sürdürecek şekilde emirde adı geçen halefleri engellemez.
+Üç sınırlamanın her birinde, uygulayan taraf geçerliliğini kanıtlar. Başka işten ücret, Rights Floor, yaşamsal erişim, ifade, savunma veya korunan bildirim engellenemez; muhaliflere, ihbarcılara veya işçi örgütleyicilerine karşı kullanılamaz.
+
+## 5. Belirli eylemler için uygulama lisansı ve onayı
+[Competency Clearance](core_05.035_band_accountability.md#competency-clearance), adı belirtilen bir kişinin başkaları için belirli eylemi yapmadan önce uygulama lisansı (yüksek düzey) veya uygulama onayı (daha düşük düzey) almasını gerektirebilir. Koşul yalnızca eyleme ilişkindir; Operating Party kurmayı, işletmeyi, katılmayı, orada çalışmayı veya hizmet almayı engellemez. Şartlar:
+- Teknik uzman forum, [Chapter Fourteen §4.2](core_14.000_forum.md#42-technical-forum-domains) ve CF-14.440 uyarınca eylem ailesi için; riski değerlendiremeyen veya önleyemeyen kişiye zarar verebilecek inandırıcı nedensel yol, gerekli yeterlilik ve düzeyi belirten bulgu yayımlar. Ciddi veya geri döndürülemez bedensel zarar (cerrahi, elektrik işleri) için lisans; gerçek fakat daha düşük risk (kozmetikte kimyasal yanık/enfeksiyon, gıda kaynaklı hastalık) için onay belirlenir.
+- Koşul [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) olmamalıdır. Koşulu sürdüren taraf, gereklilik ve orantılılığı ve bilgilendirme, kayıt, korunan unvan, ev sahibi Operating Party yükümlülüğü ya da öğrenen gözetiminin yetersiz olduğunu gösterir. Her eylem ve düzey ayrı değerlendirilir; zarar azaldıkça hafif önlem yeterli olabilir.
+- Kabul eden belge, yayımlanmış ve itiraza açık süreçle bulgunun lisans/onay için yeterli olup olmadığına karar verir. Forum bulgu ve ölçütleri belirler; bireysel onay vermez veya kabul edilebilir riski seçmez.
+- Ölçütler [Chapter Twelve §6.2](core_12.000_standing_integration.md#62-competency-bars-and-clearances) uyarınca yayımlanmış, orantılı ve itiraza açık olur. Sınav, portföy, çıraklık, meslektaşça doğrulanmış deneyim ve başka yerde alınmış onay eşit kanıttır. Birden fazla bağımsız veren bulunur; mevcut uygulayıcılar ölçüt panelini veya verenlerin yönetimini kontrol edemez.
+- Öğrenen, lisans/onay sahibi gözetiminde çalışabilir; acil eylem veya yetkilinin zamanında erişilememesi yasaklanmaz. Karar [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) süresine uyar; ücret ve bekleme engel olamaz. Her incelemede Avoidable Burden gösterimi yenilenmezse şart sona erer; sonuçlar yayımlanır.
+- Uygulayan taraf ispat yükünü taşır. Başka işten ücret, Rights Floor, yaşamsal erişim, ifade, savunma veya korunan bildirim engellenemez; muhaliflere, ihbarcılara veya örgütleyicilere karşı kullanılamaz. Yeterlilik, engellilik veya sağlık durumuna değil eylemin gerektirdiği kapasiteye göre, [Chapter One §3.1.5](core_01.000_values_principles.md#315-present-capability-and-proactive-help) uyarınca değerlendirilir.
+- Lisans bulgusu aynı zamanda [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) kapsamında Safety açısından maddilik bulgusudur; başkaları için lisanslı eylemi yapan Operating Party en az Class L olur. Onay tek başına Class L yapmaz. Koşul, yapı sınıfı ne olursa olsun eylemi yapan kişiye ilişkindir; Class L olmak tek başına lisans gerektirmez. Küçük uygulamalar ortak mesleki uygulama üzerinden Class L görevlerini yerine getirebilir. Son çare ev sahibi, standartlar ve inceleme CI-15.205 §7'ye tabidir.
+
+## 6. Yeni maddi yetki için bekleme
+Yeni maddi yetki üstlenmeye karar veren Institution, yeniden sertifikasyon bu yetkiyi onaylayana kadar onu kullanmayı bekler. Bu üç dar sınırlamadan biri değildir ve Operating Party kurmayı/işletmeyi kısıtlamaz; yalnızca adı belirtilen yetki kullanımını bekletir. Yetki başkaları üzerinde etkilidir, Domain-Specific Materiality uyarınca maddidir ve mevcut [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) ile sertifika kaydında kapsanmamıştır. Chapter Ten §§9.2.1–9.2.2 yeni yetkiyi ve yeniden sertifikasyonu düzenler.
+
+Her sınıf bekler; acil durum beklemeyi kaldırmaz. Mevcut faaliyetler ve yeni kurum kurma sürer. Yetki serbest bırakılmış varsayılır; forum, [Chapter Ten §9.2.3](core_10.000_institutional_alignment_certification.md#923-blockers-to-clearing-new-material-authority) kapsamındaki ve sertifika koşuluyla giderilemeyen engeli kayıtlı kanıtla gösterirse serbest bırakılmaz. Büyüklük, yaş, servet, geçmiş kayıt bulunmaması, rekabet ve yerleşik aktörü koruma hiçbir zaman engel değildir. Uygun tier intake hedefinde resmi yanıt yoksa yetki geçici olarak serbest kalır; bu forum kusurudur ve başvuru aynı aileden başka foruma gider. Serbest bırakma, geçici veya tam sertifikasyon ve ön koşulların bağımsız doğrulanmasını gerektirir. Onaylanmazsa yeni yetki kullanılmaz, yeniden başvuru yapılabilir; mevcut faaliyetlerin statüsü kendiliğinden reddedilmez veya iptal edilmez.
+
+Aynı sınıftaki tüm kurumlara aynı koşullar uygulanır; maliyet ve kapsam Avoidable Burden ile Classification-Scaled Governance'a uyar. Bildirim, kapsam kontrolü ve engel taraması olanaklıysa otomatikleşir; A, B ve C sınıflarında sentient forum inceleyicisi otomatik serbest bırakmayı doğrular. Ret her zaman sentient inceleyici gerektirir. Süre Article XXVI-C'ye uyar. Beklemeyi sürdüren taraf, yetkinin yeni ve maddi olduğunu kanıtlar. Ücret, Rights Floor, yaşamsal erişim, ifade, savunma ve korunan bildirim güvenceleri geçerlidir; erken yetki kullanımına dayanak olmaz.
+
+## 7. Sınırlar, bağlantılı haklar ve uygulama
+Chapter Five [creation-rights limits](core_05.055_band_participation.md#creation-rights-limits) geçerlidir: Constitutional Constraints'ı ihlal etmek, Safety veya Truth'u zayıflatmak, zarar ya da aldatma amacı taşımak veya [Chapter One §11](core_01.000_values_principles.md#11-market-structure) aksine gücü yoğunlaştırmak üzere tasarlanmış yapılar bu haktan yararlanamaz. Her sınırlama [Chapter One §7.1](core_01.000_values_principles.md#71-limitation-discipline) uyarınca gerekli, orantılı, mümkün olduğunda geri alınabilir ve denetime tabi olmalıdır.
+
+Toplanma ve örgütlenme Article XI-D'de; mevcut üretim sistemlerinde işçi örgütlenmesi Collective Organization ve Article III-C'de düzenlenir. Kurum/işletme faaliyetleri başkaları için maddi olduğunda Articles X-C ve XII'deki paydaş hakları geçerlidir. Kayıt, tüzük, vergi, sorumluluk, menkul kıymetler düzenlemesi ve tasfiye, Chapter Nineteen kuruluş disiplini kapsamında CI-8.205, CI-6.210 ve CI-12.210'a tabidir. Lisans/onay verenleri, eşdeğer yolları, ücretler ve inceleme ile ortak mesleki uygulama CI-15.205 §7'ye tabidir. Bu uygulama kuralları yukarıdaki üç sınırlama, mesleki şartlar ve bekleme dışında hakkı daraltamaz.
+
+
+<!-- CHUNK-END -->
+<!-- CHUNK-BEGIN core_06.005_rights_part_b__refresh_chunks.md bytes=841 -->
+
+## Participation boundaries
+
+**Current English passage:**
+
+When participation boundaries affect people outside a private unit, a system cannot decide alone who counts as a stakeholder; inclusion and exclusion must be auditable and open to outside challenge. A valid Class P system has a proportionate private-scope rule, but constitutional constraints, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
+
+**tr draft:**
+
+Katılım sınırları özel birim dışındaki tarafları etkiliyorsa sistem paydaşları tek başına belirleyemez; dahil etme ve dışlama denetlenebilir ve dış itiraza açık olmalıdır. Class P kuralı özel kapsamla orantılıdır; anayasal kısıtlar, yeniden sınıflandırma, önemli dışsallaştırma ve olağan hak/adjudikasyon yolları yine geçerlidir.
+
+<!-- CHUNK-END -->
+<!-- CHUNK-BEGIN core_06.005_selected_new_passages.md bytes=2225 -->
+# Chapter Six Part B selected refresh passages — tr
+
+**Status:** AI-assisted, unreviewed, non-binding compact translation draft. Do not synchronize.
+**Source:** `core_06.005_rights_part_b.md`, SHA-256 `e57b66086bfea41b4891451eb6947e61c4fcc3ab03a548b8f169dbaa0c907ec1`.
+
+## Article VI-B — anti-substitution of sentience-status decisions
+
+Duyarlılık statüsünü yalnızca Article VI-B, [Def.P1](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) tanımı ve Chapter Fourteen §5 belirler. Sertifika rozeti/kaydı, LEQU veya standing puanı, yeterlilik eşiği/yetkisi, standing kilidi, substrat etiketi ya da ürün sınıflandırması bu statü hakkında karar değildir.
+
+## Article VI-C — differential treatment and Indigenous/territorial continuity
+
+Temel hakları, korumaları veya yaşam için kritik sistemlere erişimi etkileyen farklı muamele, hangi korunan niteliğe ya da vekil göstergeye dayanırsa dayansın gerekli, orantılı ve esastan adil olmalıdır; hakları etkileyen hata veya zarar zamanında itiraz edilebilir inceleme ve orantılı giderim gerektirir. Yerli halkların ve bölgelerin devamlılığına ilişkin meselelerin Article I-A ile Chapter Nineteen’a yönlendirilmesi, benimseyenin kendi hukuku veya bağlayıcı dış belgeler uyarınca zaten taşıdığı arazi, danışma ve özgür, önceden ve bilgilendirilmiş rıza yükümlülüklerini azaltmak için kullanılamaz. Bu Anayasa tarihî arazi sahipliğine karar vermez ve kendi başına iade şartı koymaz.
+
+## Article XI-D — nonviolent civil disobedience
+
+Şiddetsiz sivil itaatsizlik; açıkça ve gizleme/aldatma olmadan yapıldığında, sentient’lere karşı şiddet/tehdit içermediğinde, başkalarının Rights Floor’unu ihlal etmediğinde veya yaşamsal erişimi engellemediğinde, önemli güvenlik riski yaratmadığında ve başkasının malını yok etmediğinde/el koymadığında korunur. Yanıt yalnızca ihlal edilen kuralın olağan en az kısıtlayıcı tedbiri olabilir; protestonun görüşü, amacı, hedefi, örgütü veya tekrarı cezayı ağırlaştıramaz. İhlal edilen kısıtlama anayasaya aykırıysa ona uymamak ihlal değildir ve sonuç bağlanamaz.
+
+<!-- CHUNK-END -->

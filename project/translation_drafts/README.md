@@ -25,3 +25,7 @@ mirror the current English.
 A script will map each draft onto the current chapter and file structure so the
 translations mirror the current English. Until then, treat these files as raw
 material only.
+
+## Layout note (2026-11-14)
+
+Per-passage and per-part draft files are consolidated, without dropping anything, into one file per language and source file, named `*.consolidated.md` (or `LANG__core_file.md` in `2026-10-25/ch0-4` and `ch09`). This covers `2026-10-25/ch0-4`, `2026-10-25/ch09`, `2026-11-03/ch1-8-refresh`, `2026-11-03/ch9-10`, `2026-11-08` and the keyed files in `2026-11-11`. Each original file sits inside its consolidated file between `<!-- CHUNK-BEGIN name bytes=N -->` and `<!-- CHUNK-END -->` lines, with its exact bytes. `python3 -I unconsolidate.py <consolidated file> [outdir]` restores the individual files. The commit before the consolidation also holds the originals. `2026-11-09`, `2026-10-22`, `2026-10-25/ch05-06`, `2026-10-25/ch7-8` and the root-level files were not changed.
