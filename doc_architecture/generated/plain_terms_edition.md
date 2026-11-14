@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **837** of **1328** headings carry a gloss (63%).
+Coverage: **836** of **1328** headings carry a gloss (63%).
 
 ## Contents
 
@@ -36,7 +36,7 @@ Coverage: **837** of **1328** headings carry a gloss (63%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (8/63 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/58 glossed)
-- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (11/36 glossed)
+- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (10/36 glossed)
 - [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (12/35 glossed)
 - [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-twelve-institutional-alignment-certification--evaluation) — `core_12.000_institutional_alignment_certification_evaluation.md` (6/12 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) — `core_13.000_institutional_alignment_certification_forum_process_outcomes.md` (9/14 glossed)
@@ -4307,7 +4307,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](../../core_10.000_system_alignment_certification_forum_process_outcomes.md) · 11/36 headings glossed
+Source file: [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](../../core_10.000_system_alignment_certification_forum_process_outcomes.md) · 10/36 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
