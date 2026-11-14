@@ -41,87 +41,6 @@ Chapter Ten is the constitutional owner of these parts of system alignment certi
 - **Phase III, Review:** the **forum-supervised process** ([§2 Forum Process](#2-forum-process)); and
 - **Phase IV, Decide:** the **outcomes** ([§3 Certification Outcomes](#3-certification-outcomes)).
 
-**Chapter Eleven** continues with **Phase V, Record**, **Phase VI, Operate** (recertification and reopening, the challenge path, and the standing bridge): [Chapter Eleven §2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record), [§3 Recertification and Reopening](core_11.000_system_alignment_certification_records_recertification.md#3-recertification-and-reopening), [§4 Challenging a Certification](core_11.000_system_alignment_certification_records_recertification.md#4-challenging-a-certification), and [§5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing).
-
-Evaluation requirements are in **[Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations). This Part continues the chapter at **§2** (*Forum Process*), and Chapter Eleven continues it at **§2** (*System Certification Record*). [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance) charts the whole process.
-
-*In plain terms: Chapter Nine explains how to **frame** and **evaluate** a system. Chapter Ten explains what happens next. Forums review the findings and reach an **outcome**, and nothing goes live until the system is certified. Chapter Eleven covers what follows the decision: the **System Certification Record**, the **challenge** path, keeping the certification current, and the link to **standing**.*
-
-Certification under this Part:
-
-- is supervised by forums and open to challenge under [§2 Forum Process](#2-forum-process), and the published record challenge path opens under [Chapter Eleven §4 Challenging a Certification](core_11.000_system_alignment_certification_records_recertification.md#4-challenging-a-certification); and
-- ends in a stated outcome under [§3 Certification Outcomes](#3-certification-outcomes), and no system goes live before it is certified.
-
-The outcome goes on one bounded **System Certification Record** under [Chapter Eleven §2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record), is kept current under [Chapter Eleven §3 Recertification and Reopening](core_11.000_system_alignment_certification_records_recertification.md#3-recertification-and-reopening), and may supply verified inputs to Chapter Fifteen only through [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing).
-
-The chart below is the Chapter Ten and Chapter Eleven portion of the process chart in [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§2 Forum Process](#2-forum-process) to [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)). Chapter Ten owns the review and decision nodes ([§2 Forum Process](#2-forum-process) and [§3 Certification Outcomes](#3-certification-outcomes)). Chapter Eleven owns the System Certification Record, recertification, and standing-bridge nodes ([§2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) to [§5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)). The chart starts from the framing and evaluation work in Chapter Nine, and each new review pass returns there at connector A.
-
-```mermaid
-flowchart TB
-    PA["Chapter Nine §3–Chapter Nine §6 Chapter Nine — Phases I–II<br/><br/>System classified and evaluated;<br/>evaluation findings carried forward"]
-    F["§2 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
-    Rec["Chapter Eleven §2 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
-    S[["Chapter Fifteen — Standing<br/>records<br/><br/>Outside this chapter"]]
-    O{"§3 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
-    Fc["§3, Chapter Eleven §3.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; certification conditions may apply"]
-    Pc["§3, Chapter Eleven §3.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; certification conditions may apply"]
-    Nc["§3 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
-    Pub["§3, Chapter Eleven §4 Publish the completed System Certification Record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
-    G{"§3 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
-    Hold["§3 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>certification conditions required before go-live"]
-    Rm["§3, Chapter Eleven §3.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
-    Ch["Chapter Eleven §3–Chapter Eleven §4 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and certification conditions;<br/>monitor outcomes and respond to incidents and challenges"]
-    S2[["Chapter Fifteen — Standing<br/>records<br/><br/>Outside this chapter"]]
-    Re["Chapter Eleven §3 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new System Certification Record linked to the last"]
-    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    A1((A)) --> PA
-    PA --> F
-    F --> O
-    O --> Fc
-    O --> Pc
-    O --> Nc
-    Fc --> Rec
-    Pc --> Rec
-    Nc --> Rec
-    Rec -.->|VIb, Chapter Eleven §5 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
-    Rec --> Pub
-    Rec ~~~ Sp
-    Pub --> G
-    G ~~~ SpL
-    G -->|Not Certified| Rm
-    G --->|Yes: operate<br/>within the System Certification Record| Ch
-    G --->|Certified,<br/>prerequisites pending| Hold
-    Hold --> G
-    Ch -->|Material defect:<br/>protect and correct| Rm
-    Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
-    Ch -.->|VIb, Chapter Eleven §5 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
-    Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
-    S2 ~~~~ SpA
-    SpA ~~~ Re
-    Re --> A2((A))
-    style Sp fill:none,stroke:none,color:#111111
-    style SpL fill:none,stroke:none,color:#111111
-    style SpA fill:none,stroke:none,color:#111111
-    style PA fill:none,stroke:#16a34a,color:#ffffff
-    style Ch fill:none,stroke:#16a34a,color:#ffffff
-    style F fill:none,stroke:#ea580c,color:#ffffff
-    style Rec fill:none,stroke:#2563eb,color:#ffffff
-    style S fill:none,stroke:#db2777,color:#ffffff
-    style S2 fill:none,stroke:#db2777,color:#ffffff
-    style O fill:none,stroke:#ea580c,color:#ffffff
-    style Fc fill:none,stroke:#9333ea,color:#ffffff
-    style Pc fill:none,stroke:#9333ea,color:#ffffff
-    style Nc fill:none,stroke:#9333ea,color:#ffffff
-    style G fill:none,stroke:#ea580c,color:#ffffff
-    style Pub fill:none,stroke:#2563eb,color:#ffffff
-    style Rm fill:none,stroke:#9333ea,color:#ffffff
-    style Hold fill:none,stroke:#16a34a,color:#ffffff
-    style Re fill:none,stroke:#16a34a,color:#ffffff
-    style A1 fill:none,stroke:#64748b,color:#ffffff
-    style A2 fill:none,stroke:#64748b,color:#ffffff
-```
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: once a system has been evaluated, independent forums review the result in a set order and publish an outcome. This chapter says how the forums work and what outcomes they can reach, including the gate before go-live.*
@@ -537,6 +456,75 @@ A system that holds neither provisional nor full certification is **Not Certifie
 - expired.
 
 Provisional certification and full certification are the two **statuses** of certification. [Chapter Eleven §3.3 Provisional and Full Certification](core_11.000_system_alignment_certification_records_recertification.md#33-provisional-and-full-certification) explains how a system earns, keeps, and loses each. Certification conditions under conditional certification may attach to either status.
+
+The chart below is the Chapter Ten and Chapter Eleven portion of the process chart in [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance): **Phase III Review** through **Phase VI Operate**. It starts from the framing and evaluation work in Chapter Nine, and each new review pass returns there at connector A.
+
+```mermaid
+flowchart TB
+    PA["Chapter Nine §3–Chapter Nine §6 Chapter Nine — Phases I–II<br/><br/>System classified and evaluated;<br/>evaluation findings carried forward"]
+    F["§2 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
+    Rec["Chapter Eleven §2 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
+    S[["Chapter Fifteen — Standing<br/>records<br/><br/>Outside this chapter"]]
+    O{"§3 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
+    Fc["§3, Chapter Eleven §3.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; certification conditions may apply"]
+    Pc["§3, Chapter Eleven §3.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; certification conditions may apply"]
+    Nc["§3 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
+    Pub["§3, Chapter Eleven §4 Publish the completed System Certification Record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    G{"§3 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
+    Hold["§3 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>certification conditions required before go-live"]
+    Rm["§3, Chapter Eleven §3.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Ch["Chapter Eleven §3–Chapter Eleven §4 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and certification conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    S2[["Chapter Fifteen — Standing<br/>records<br/><br/>Outside this chapter"]]
+    Re["Chapter Eleven §3 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new System Certification Record linked to the last"]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    A1((A)) --> PA
+    PA --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, Chapter Eleven §5 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|Not Certified| Rm
+    G --->|Yes: operate<br/>within the System Certification Record| Ch
+    G --->|Certified,<br/>prerequisites pending| Hold
+    Hold --> G
+    Ch -->|Material defect:<br/>protect and correct| Rm
+    Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
+    Ch -.->|VIb, Chapter Eleven §5 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
+    Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style PA fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
 
 <a id="31-go-live-gate"></a>
 
