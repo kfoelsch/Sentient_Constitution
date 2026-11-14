@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-14T21:03:38+00:00",
+  "generated_at": "2026-11-14T21:20:44+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -932,20 +932,20 @@
       ]
     },
     "core_12.000_institutional_alignment_certification_evaluation.md": {
-      "total_lines": 443,
+      "total_lines": 438,
       "sections": [
-        {"header":"CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION","level":1,"line_start":1,"line_end":443,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":69,"line_end":111,"anchor":"#1-purpose-role-and-scope"},
-        {"header":"2. Why Institutional Alignment Certification Exists","level":3,"line_start":112,"line_end":195,"anchor":"#2-why-institutional-alignment-certification-exists"},
-        {"header":"2.1 Who Is Certified","level":4,"line_start":148,"line_end":159,"anchor":"#21-who-is-certified"},
-        {"header":"2.2 No Permission and No Gate on Forming or Running","level":4,"line_start":160,"line_end":181,"anchor":"#22-no-permission-and-no-gate-on-forming-or-running"},
-        {"header":"2.3 Window for the First Certification","level":4,"line_start":182,"line_end":195,"anchor":"#23-window-for-the-first-certification"},
-        {"header":"3. Institution Class Evaluation","level":3,"line_start":196,"line_end":254,"anchor":"#3-institution-class-evaluation"},
-        {"header":"3.1 Institution Class","level":4,"line_start":221,"line_end":242,"anchor":"#31-institution-class"},
-        {"header":"3.2 Scaling by Class","level":4,"line_start":243,"line_end":254,"anchor":"#32-scaling-by-class"},
-        {"header":"4. Whole-Institution Certification Evaluation","level":3,"line_start":255,"line_end":346,"anchor":"#4-whole-institution-certification-evaluation"},
-        {"header":"5. Evaluations Where Implicated","level":3,"line_start":347,"line_end":384,"anchor":"#5-evaluations-where-implicated"},
-        {"header":"6. Rights-Floor and Domain Evaluations","level":3,"line_start":385,"line_end":443,"anchor":"#6-rights-floor-and-domain-evaluations"}
+        {"header":"CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION","level":1,"line_start":1,"line_end":438,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":63,"line_end":106,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. Why Institutional Alignment Certification Exists","level":3,"line_start":107,"line_end":190,"anchor":"#2-why-institutional-alignment-certification-exists"},
+        {"header":"2.1 Who Is Certified","level":4,"line_start":143,"line_end":154,"anchor":"#21-who-is-certified"},
+        {"header":"2.2 No Permission and No Gate on Forming or Running","level":4,"line_start":155,"line_end":176,"anchor":"#22-no-permission-and-no-gate-on-forming-or-running"},
+        {"header":"2.3 Window for the First Certification","level":4,"line_start":177,"line_end":190,"anchor":"#23-window-for-the-first-certification"},
+        {"header":"3. Institution Class Evaluation","level":3,"line_start":191,"line_end":249,"anchor":"#3-institution-class-evaluation"},
+        {"header":"3.1 Institution Class","level":4,"line_start":216,"line_end":237,"anchor":"#31-institution-class"},
+        {"header":"3.2 Scaling by Class","level":4,"line_start":238,"line_end":249,"anchor":"#32-scaling-by-class"},
+        {"header":"4. Whole-Institution Certification Evaluation","level":3,"line_start":250,"line_end":341,"anchor":"#4-whole-institution-certification-evaluation"},
+        {"header":"5. Evaluations Where Implicated","level":3,"line_start":342,"line_end":379,"anchor":"#5-evaluations-where-implicated"},
+        {"header":"6. Rights-Floor and Domain Evaluations","level":3,"line_start":380,"line_end":438,"anchor":"#6-rights-floor-and-domain-evaluations"}
       ]
     },
     "core_13.000_institutional_alignment_certification_forum_process_outcomes.md": {
