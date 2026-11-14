@@ -21,7 +21,7 @@
 
 <br>
 
-Chapter Eighteen**, is the constitutional owner of **contribution consequences**: the effect, if any, of verified contribution at Question 3. Its rules start from verified contribution standing records and end at the gated pathway outcomes that Chapter Twenty states.
+Chapter Eighteen is the constitutional owner of **contribution consequences**: the effect, if any, of verified contribution at Question 3. Its rules start from verified contribution standing records and end at the gated pathway outcomes that Chapter Twenty states.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*

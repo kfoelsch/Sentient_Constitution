@@ -36,7 +36,7 @@
 
 <br>
 
-Chapter Eleven**, is the constitutional owner of these parts of system alignment certification:
+Chapter Eleven is the constitutional owner of these parts of system alignment certification:
 
 - **Phase V, Record:** the **System Certification Record** ([§2 System Certification Record](#2-system-certification-record)), the single home for what goes on the System Certification Record. The findings from the Chapter Nine evaluations are recorded there. That section completes the one System Certification Record opened for forum review, so no separate System Certification Record is made for the decision;
 - **Phase VIa, Operate and recertify:** **recertification and reopening** ([§3 Recertification and Reopening](#3-recertification-and-reopening)) and the **challenge path** ([§4 Challenging a Certification](#4-challenging-a-certification)); and

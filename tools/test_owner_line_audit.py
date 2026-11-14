@@ -70,6 +70,23 @@ class CoreTests(unittest.TestCase):
         name = "core_10.000_system_alignment_certification_forum_process_outcomes.md"
         self.assertEqual(self.check(name, core(body)), [])
 
+    def test_stray_bold_marker_after_chapter_name_fails(self):
+        # Leftover from a removed "**Part X**" label: "Chapter Ten**, is the ..."
+        body = "Chapter Ten**, is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
+        name = "core_10.000_system_alignment_certification_forum_process_outcomes.md"
+        findings = self.check(name, core(body))
+        self.assertTrue(any("unbalanced" in f for f in findings), findings)
+        self.assertTrue(any("stray comma" in f for f in findings), findings)
+
+    def test_stray_comma_without_bold_fails(self):
+        body = "Chapter Seven, is the constitutional owner of **System Charters**.\n\n*In plain terms: x*\n"
+        findings = self.check("core_07.000_charters.md", core(body))
+        self.assertTrue(any("stray comma" in f for f in findings), findings)
+
+    def test_part_qualified_line_with_balanced_bold_passes(self):
+        body = "Chapter Six, **Part B**, is the constitutional owner of **Rights B**.\n\n*In plain terms: x*\n"
+        self.assertEqual(self.check("core_06.010_rights_part_b.md", core(body)), [])
+
     def test_preamble_form(self):
         ok = "The Preamble is the constitutional owner of **the Model**.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check("core_00.000_preamble.md", core(ok)), [])

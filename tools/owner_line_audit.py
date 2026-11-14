@@ -165,6 +165,19 @@ def check_core(rel: str, text: str) -> list[str]:
             f"first gloss or section heading (line {stop})"
         )
     if want_owner:
+        # Check the raw line before strip_markup hides markup damage: a leftover
+        # "Chapter Ten**, is the ..." from a removed "**Part X**" label.
+        if line.count("**") % 2:
+            findings.append(
+                f"{rel}:{number}: OWNER-OPENING-01: unbalanced '**' on the owner line "
+                "(a stray bold marker is left over, for example 'Chapter Ten**, is the ...')"
+            )
+        raw_head = line.split("is the constitutional owner of", 1)[0].strip()
+        if re.fullmatch(r"(?:Chapter [A-Za-z-]+|The Preamble),", strip_markup(raw_head)):
+            findings.append(
+                f"{rel}:{number}: OWNER-OPENING-01: stray comma before 'is the constitutional owner of' "
+                "(write 'Chapter Ten is the ...' when no Part or band is named)"
+            )
         plain = strip_markup(line).strip()
         chapter, part = chapter_and_part(name)
         if chapter == 0:

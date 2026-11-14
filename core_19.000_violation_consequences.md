@@ -24,7 +24,7 @@
 
 <br>
 
-Chapter Nineteen**, is the constitutional owner of **violation consequences**: what remedy and correction are owed after a verified violation, which locks prevent recurrence, and how locks are designed and enforced. Its first section sets the order: remedy and correction, then locks.
+Chapter Nineteen is the constitutional owner of **violation consequences**: what remedy and correction are owed after a verified violation, which locks prevent recurrence, and how locks are designed and enforced. Its first section sets the order: remedy and correction, then locks.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: something bad happened. This chapter says how to make a durable fix: remedy and correction first, then prevention locks, then voluntary public accountability expression where a restorative pathway uses it, and the remedy-parity rule that keeps the cheap half from outrunning the expensive half.*

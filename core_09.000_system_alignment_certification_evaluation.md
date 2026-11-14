@@ -29,7 +29,7 @@
 
 <br>
 
-Chapter Nine**, is the constitutional owner of **system alignment certification evaluation**.
+Chapter Nine is the constitutional owner of **system alignment certification evaluation**.
 
 - Forum supervision and certification outcomes are in **[Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes)**.
 - The System Certification Record, recertification and reopening, and the standing bridge are in **[Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing)**.

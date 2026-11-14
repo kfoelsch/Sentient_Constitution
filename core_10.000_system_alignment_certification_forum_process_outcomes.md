@@ -36,7 +36,7 @@
 
 <br>
 
-Chapter Ten**, is the constitutional owner of these parts of system alignment certification:
+Chapter Ten is the constitutional owner of these parts of system alignment certification:
 
 - **Phase III, Review:** the **forum-supervised process** ([§2 Forum Process](#2-forum-process)); and
 - **Phase IV, Decide:** the **outcomes** ([§3 Certification Outcomes](#3-certification-outcomes)).
