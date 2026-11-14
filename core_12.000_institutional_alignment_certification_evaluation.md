@@ -54,14 +54,15 @@
 
 <br>
 
-Chapter Twelve is the constitutional owner of **institutional alignment certification**. It extends the process of [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) from a System to an Institution:
+Chapter Twelve is the constitutional owner of **the evaluation of institutional alignment certification**. It extends the evaluation phases of [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) from a System to an Institution:
 
 - **Phase I, Frame:** the institution class and how it scales the evaluation ([§3 Institution Class Evaluation](#3-institution-class-evaluation));
-- **Phase II, Evaluate:** the institutional evaluation, including the evaluations that apply where implicated and the Rights-Floor and domain evaluations ([§4 Whole-Institution Certification Evaluation](#4-whole-institution-certification-evaluation) to [§6 Rights-Floor and Domain Evaluations](#6-rights-floor-and-domain-evaluations));
-- **Phase III, Review:** the forum roles and sequence ([§2 Forum Process](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#2-forum-process));
-- **Phase IV, Decide:** the outcome, remediation readiness, and denial and revocation ([§3 Certification Outcomes](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#3-certification-outcomes));
-- **Phase V, Record:** the Institutional Certification Record ([§2 Institutional Certification Record](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record)); and
-- **Phase VI, Operate:** recertification, reopening, the cascade from System certifications, the reopening of its Systems, the challenge path, and the standing bridge ([§3 Recertification and Reopening](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening) to [§5 Relationship to Standing](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing)).
+- **Phase II, Evaluate:** the institutional evaluation, including the evaluations that apply where implicated and the Rights-Floor and domain evaluations ([§4 Whole-Institution Certification Evaluation](#4-whole-institution-certification-evaluation) to [§6 Rights-Floor and Domain Evaluations](#6-rights-floor-and-domain-evaluations)).
+
+The other four phases run the same way for an Institution, in the chapters that own them:
+
+- **Phase III, Review** and **Phase IV, Decide**, in [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes): the forum roles and sequence ([§2 Forum Process](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#2-forum-process)), and the outcome, remediation readiness, and denial and revocation ([§3 Certification Outcomes](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#3-certification-outcomes)); and
+- **Phase V, Record** and **Phase VI, Operate**, in [Chapter Fourteen](core_14.000_institutional_alignment_certification_records_recertification.md#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing): the Institutional Certification Record ([§2 Institutional Certification Record](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record)), and recertification, reopening, the cascade from System certifications, the reopening of its Systems, the challenge path, and the standing bridge ([§3 Recertification and Reopening](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening) to [§5 Relationship to Standing](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing)).
 
 <a id="1-purpose-role-and-scope"></a>
 
@@ -113,14 +114,15 @@ The chapter leaves System evaluations to Chapter Nine, forum process and outcome
 Institutional alignment certification and System Alignment Certification are two certifications joined by a link. The relation is **composition by link**, not containment. In the figure, an arrow runs from a System Certification Record to each Institutional Certification Record that cites it. A System under no Institution has no arrow and needs none, and an Institution that runs no System has an Institutional Certification Record alone.
 
 ```mermaid
+%%{init: {"flowchart": {"rankSpacing": 50, "nodeSpacing": 40, "padding": 12}}}%%
 flowchart TB
-    S1[["Chapter Nine — System Certification Record, System 1<br/><br/>Outside this chapter"]]
-    S2[["Chapter Nine — System Certification Record, System 2<br/><br/>Outside this chapter"]]
-    I1["Chapter Fourteen §2 Institutional Certification Record, Institution A<br/><br/>Cites Systems 1 and 2 by link and version;<br/>adds only what the Institution answers for"]
-    I2["Chapter Fourteen §2 Institutional Certification Record, Institution B<br/><br/>Cites System 2 by the same link;<br/>never copies or re-decides it"]
-    S1 -.->|cited by link| I1
-    S2 -.->|cited by link| I1
-    S2 -.->|cited by link| I2
+    S1["Chapter Nine (outside this chapter)<br/>System Certification Record<br/>System 1<br/><br/>Owned by the System; cited by<br/>link, never copied"]
+    S2["Chapter Nine (outside this chapter)<br/>System Certification Record<br/>System 2<br/><br/>Owned by the System; cited by<br/>link, never copied"]
+    I1["Chapter Fourteen §2<br/>&nbsp;&nbsp;Institutional Certification Record&nbsp;&nbsp;<br/>Institution A<br/><br/>Cites Systems 1 and 2 by link<br/>and version; adds only what<br/>the Institution answers for"]
+    I2["Chapter Fourteen §2<br/>&nbsp;&nbsp;Institutional Certification Record&nbsp;&nbsp;<br/>Institution B<br/><br/>Cites System 2 by the same<br/>link; never copies or<br/>re-decides it"]
+    S1 -.-> I1
+    S2 -.-> I1
+    S2 -.-> I2
     style S1 fill:none,stroke:#16a34a,color:#ffffff
     style S2 fill:none,stroke:#16a34a,color:#ffffff
     style I1 fill:none,stroke:#2563eb,color:#ffffff
