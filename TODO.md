@@ -136,7 +136,7 @@ These were left unapplied on purpose in moves now archived in [archive/DOC_ARCHI
 
 ### Chapter structure — open follow-ups (carried from the archived move log, 2026-11-14)
 
-These were recorded as open in moves now archived in [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (the 489th and 492nd moves) and in the 498th–500th moves still in the log. Drafting the Purpose, Role, and Scope sections is done (see the translation list above), so it is not carried.
+These were recorded as open in moves now archived in [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (the 489th and 492nd moves) and in the 498th–500th moves, now archived in [archive/DOC_ARCHITECTURE_MOVES_498-503_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_498-503_ARCHIVED_2026-11-14.md). Drafting the Purpose, Role, and Scope sections is done (see the translation list above), so it is not carried.
 
 - [ ] Unqualified chapter mentions (492nd move): about 1,000 "Chapter Nine / Ten / Thirteen / Fourteen" mentions with no section number were mapped to the first chapter of the range and need hand review.
 - [ ] Corpus homes (492nd move): the homes of CI-13.205, CI-13.210 and CI-13.215 are judgment calls; confirm or move them.
@@ -155,6 +155,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-14 second archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14b.md](archive/TODO_SNAPSHOT_2026-11-14b.md), [archive/MEMLOG_SNAPSHOT_2026-11-14b.md](archive/MEMLOG_SNAPSHOT_2026-11-14b.md), [archive/DOC_ARCHITECTURE_MOVES_498-503_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_498-503_ARCHIVED_2026-11-14.md) (moves 498–503)
 - **2026-11-14 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14.md](archive/TODO_SNAPSHOT_2026-11-14.md), [archive/MEMLOG_SNAPSHOT_2026-11-14.md](archive/MEMLOG_SNAPSHOT_2026-11-14.md), [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (moves 488–497; open items carried into the heading above)
 - **2026-11-12 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-12.md](archive/MEMLOG_SNAPSHOT_2026-11-12.md), [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)
 - **2026-11-11 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-11.md](archive/TODO_SNAPSHOT_2026-11-11.md), [archive/MEMLOG_SNAPSHOT_2026-11-11.md](archive/MEMLOG_SNAPSHOT_2026-11-11.md), [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md)

@@ -33,7 +33,12 @@ If one of an Institution's Systems loses its certification, the Institution answ
 
 **Role.** The chapter is the Institution's counterpart to [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing):
 
-- It takes the outcome from [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) as fixed.
+- It takes these as fixed:
+  - the outcome from [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes); and
+  - the evaluation and class framing from [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation).
+- The figures:
+  - [Chapter Twelve §2 Why Institutional Alignment Certification Exists](core_12.000_institutional_alignment_certification_evaluation.md#2-why-institutional-alignment-certification-exists) shows how an Institutional Certification Record links to the System Certification Records it cites; and
+  - [§3.2.2 Recertification for New Material Authority](#322-recertification-for-new-material-authority) has the figure for the wait on new material authority.
 - It cites System Certification Records by link and does not copy or re-decide them.
 - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) accepts verified facts from this chapter only at the verified-input gate (**section 5.3**), and what they do to standing is decided there and in [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement).
 
