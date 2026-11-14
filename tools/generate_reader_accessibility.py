@@ -71,7 +71,7 @@ FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
 SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
     ("preamble_model", "core_00.000_preamble.md", "1-the-model"),
     ("preamble_pipelines", "core_00.000_preamble.md", "6-key-practical-process-pipelines"),
-    ("conflict_resolution", "core_01.020_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
+    ("conflict_resolution", "core_01.030_constitutional_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
     ("shared_stewardship", "core_01.040_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
 )
 

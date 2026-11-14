@@ -21,7 +21,7 @@
 
 <br>
 
-Chapter Twenty**, is the constitutional owner of the **final standing effect** for each applicable gated pathway, of how that effect is restored or reassessed, and of the check that it can be enforced.
+Chapter Twenty is the constitutional owner of the **final standing effect** for each applicable gated pathway, of how that effect is restored or reassessed, and of the check that it can be enforced.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: when the earlier steps are done, the system must state, one gated pathway at a time, what is open, limited, or blocked. That statement is not a dignity rank or a merged score. A lock that is not permanent must have a real way back.*

@@ -2,10 +2,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Ten** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§2–§3**, continuing from Chapter Nine §1–§5). **Chapter Nine** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Chapter Eleven** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**Chapter Eleven §2–Chapter Eleven §5**) — is in [`core_11.000_system_alignment_certification_records_recertification.md`](core_11.000_system_alignment_certification_records_recertification.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Ten** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§2–§3**, continuing from Chapter Nine §1–§6). **Chapter Nine** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Chapter Eleven** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**Chapter Eleven §2–Chapter Eleven §5**) — is in [`core_11.000_system_alignment_certification_records_recertification.md`](core_11.000_system_alignment_certification_records_recertification.md).
 >
 > - **Constitutional owner (joint with Chapters Nine and Eleven):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
-> - **Evaluation inputs:** [Chapter Nine §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) supply evaluation outputs that the forums review and that the outcome rests on.
+> - **Evaluation inputs:** [Chapter Nine §3](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [§6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs that the forums review and that the outcome rests on.
 > - **Anti-relocation rule:** Chapter Ten does not restate Chapter Nine evaluation mechanics, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. The standing bridge is in [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing). Chapter Ten also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Three forum supervision; Chapters Two through Four verification discipline.
@@ -18,9 +18,9 @@
 
 - Upstream:
   - [Chapter Nine §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (9.000 §1) (*certification purpose and process overview*);
-  - [Chapter Nine §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
-  - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
+  - [Chapter Nine §3](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (9.000 §3) through
+  - [§6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream:
@@ -36,14 +36,14 @@
 
 <br>
 
-Chapter Ten**, is the constitutional owner of these parts of system alignment certification:
+Chapter Ten is the constitutional owner of these parts of system alignment certification:
 
 - **Phase III, Review:** the **forum-supervised process** ([§2 Forum Process](#2-forum-process)); and
 - **Phase IV, Decide:** the **outcomes** ([§3 Certification Outcomes](#3-certification-outcomes)).
 
 **Chapter Eleven** continues with **Phase V, Record**, **Phase VI, Operate** (recertification and reopening, the challenge path, and the standing bridge): [Chapter Eleven §2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record), [§3 Recertification and Reopening](core_11.000_system_alignment_certification_records_recertification.md#3-recertification-and-reopening), [§4 Challenging a Certification](core_11.000_system_alignment_certification_records_recertification.md#4-challenging-a-certification), and [§5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing).
 
-Evaluation requirements are in **[Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). This Part continues the chapter at **§2** (*Forum Process*), and Chapter Eleven continues it at **§2** (*System Certification Record*). [Chapter Nine §1.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance) charts the whole process.
+Evaluation requirements are in **[Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations). This Part continues the chapter at **§2** (*Forum Process*), and Chapter Eleven continues it at **§2** (*System Certification Record*). [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance) charts the whole process.
 
 *In plain terms: Chapter Nine explains how to **frame** and **evaluate** a system. Chapter Ten explains what happens next. Forums review the findings and reach an **outcome**, and nothing goes live until the system is certified. Chapter Eleven covers what follows the decision: the **System Certification Record**, the **challenge** path, keeping the certification current, and the link to **standing**.*
 
@@ -54,11 +54,11 @@ Certification under this Part:
 
 The outcome goes on one bounded **System Certification Record** under [Chapter Eleven §2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record), is kept current under [Chapter Eleven §3 Recertification and Reopening](core_11.000_system_alignment_certification_records_recertification.md#3-recertification-and-reopening), and may supply verified inputs to Chapter Fifteen only through [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing).
 
-The chart below is the Chapter Ten and Chapter Eleven portion of the process chart in [Chapter Nine §1.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§2 Forum Process](#2-forum-process) to [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)). Chapter Ten owns the review and decision nodes ([§2 Forum Process](#2-forum-process) and [§3 Certification Outcomes](#3-certification-outcomes)). Chapter Eleven owns the System Certification Record, recertification, and standing-bridge nodes ([§2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) to [§5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)). The chart starts from the framing and evaluation work in Chapter Nine, and each new review pass returns there at connector A.
+The chart below is the Chapter Ten and Chapter Eleven portion of the process chart in [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§2 Forum Process](#2-forum-process) to [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)). Chapter Ten owns the review and decision nodes ([§2 Forum Process](#2-forum-process) and [§3 Certification Outcomes](#3-certification-outcomes)). Chapter Eleven owns the System Certification Record, recertification, and standing-bridge nodes ([§2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) to [§5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)). The chart starts from the framing and evaluation work in Chapter Nine, and each new review pass returns there at connector A.
 
 ```mermaid
 flowchart TB
-    PA["Chapter Nine §2–Chapter Nine §5 Chapter Nine — Phases I–II<br/><br/>System classified and evaluated;<br/>evaluation findings carried forward"]
+    PA["Chapter Nine §3–Chapter Nine §6 Chapter Nine — Phases I–II<br/><br/>System classified and evaluated;<br/>evaluation findings carried forward"]
     F["§2 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
     Rec["Chapter Eleven §2 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
     S[["Chapter Fifteen — Standing<br/>records<br/><br/>Outside this chapter"]]
@@ -133,7 +133,7 @@ flowchart TB
 
 **Role.** The chapter is jointly owned with Chapters [Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) and [Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing), which together own forum-supervised SAC and the related System Certification Records:
 
-- It takes the evaluation outputs of **Chapter Nine section 2** through **section 5** as the inputs the forums review and the outcome rests on.
+- It takes the evaluation outputs of **Chapter Nine section 3** through **section 5** as the inputs the forums review and the outcome rests on.
 - It rests on [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (functional independence), [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (forum supervision), and [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) (verification discipline).
 - It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Eleven.
 - Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) *Auditability*.
@@ -158,11 +158,11 @@ The standing bridge is **Chapter Eleven section 5**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3),
-  - [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), and
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation findings the forums review*);
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and
-  - [§9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) (*the four seats, and the duty to say how certification uses them; applied in
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4),
+  - [§5 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation findings the forums review*);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) and
+  - [§10 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) (*the four seats, and the duty to say how certification uses them; applied in
   - [§2.1.1](#211-four-seats-in-a-certification)*);
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) (*where the seats for a certification are placed*);
   - [Chapter Twenty-Three §4](core_23.000_forum.md#4-forum-family-definitions--accountability-through-adjudication) (23.000 §4) (*forum families, Integrity-led alignment certification, component referral, and validation*);
@@ -236,7 +236,7 @@ This section gives each forum family its **component role** in system alignment 
 
 ##### 2.1.1 Four Seats in a Certification
 
-This subsection is how Chapter Nine applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement). [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) requires every later process to say how it assigns and uses all four seats, and this subsection is that statement for certification. A certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every certification pass has the four seats Chapter Eight defines, under the names Chapter Eight gives them. This subsection adds no seat and relaxes no rule of Chapter Eight. Other rules in this chapter may be stricter, never weaker.
+This subsection is how Chapter Nine applies the [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement). [Chapter Eight §10 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires every later process to say how it assigns and uses all four seats, and this subsection is that statement for certification. A certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every certification pass has the four seats Chapter Eight defines, under the names Chapter Eight gives them. This subsection adds no seat and relaxes no rule of Chapter Eight. Other rules in this chapter may be stricter, never weaker.
 
 For the certification act, the seats are held as follows:
 
@@ -251,16 +251,16 @@ For the certification act, the seats are held as follows:
 - The record seat and the contest seat it names sit outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the operator and proponent.
 - The map does not place the verify-or-authorize seat. The lead forum and the component authorities are assigned under [§2.2 Supervisory Sequence](#22-supervisory-sequence) and Chapter Twenty-Three, so the operator cannot choose its own verifying authority.
 - The System Certification Record names the Charter Role Map version in force for each certification pass (see [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents)).
-- A seat the map leaves unplaced is a System Charter defect to log and correct, and the certification pass routes as [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) provides.
+- A seat the map leaves unplaced is a System Charter defect to log and correct, and the certification pass routes as [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) provides.
 
 **Outside the operator.** Everyone who holds a verify-or-authorize seat in a certification must be outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the operator and the proponent, and must have no interest that the outcome decides. In particular:
 
 - The operator, steward, vendor, or other proponent cannot choose, appoint, fund through a channel it controls, or remove the forum or component authority that checks it.
 - No one who works for it, is owned by it, or answers to it may hold the seat for its certification.
 - A sentient who cannot meet this must step aside from that pass (recusal under Chapter Twenty-Three).
-- A seat placement that fails this is not valid, whatever any Charter Role Map says ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)).
+- A seat placement that fails this is not valid, whatever any Charter Role Map says ([Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines)).
 
-A forum family may hold different seats on different acts. It may not use its family label to merge seats prohibited by [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) on the same act.
+A forum family may hold different seats on different acts. It may not use its family label to merge seats prohibited by [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) on the same act.
 
 **Lead forum and record holder:**
 
@@ -276,9 +276,9 @@ A forum family may hold different seats on different acts. It may not use its fa
 **The technical piece:**
 
 - Maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, methods for reducing uncertainty, and technical adequacy findings, within their lawful scope;
-- Supply **component findings** for the System Certification Record. These include findings on system-class-scaled assurance and data-handling infrastructure under [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
+- Supply **component findings** for the System Certification Record. These include findings on system-class-scaled assurance and data-handling infrastructure under [§3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [§4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
 - Answer the technical questions the lead forum sends them for ruling, for the System Certification Record, as [Chapter Twenty-Three §4.2 Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains) allows;
-- Supply component findings on health and safety information where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety. [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) tests this under **Article III-F** (*Safe Products and Health Information*). The technical finding is whether warnings, health claims, nutrition facts, ingredients, and allergen information are accurate, backed by evidence, and kept current, and whether they say plainly what is unknown or untested; and
+- Supply component findings on health and safety information where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety. [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation) tests this under **Article III-F** (*Safe Products and Health Information*). The technical finding is whether warnings, health claims, nutrition facts, ingredients, and allergen information are accurate, backed by evidence, and kept current, and whether they say plainly what is unknown or untested; and
 - Hold the [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) component role (indicator evaluation, expert evidence, and bounded uncertainty):
   - This applies where certification materially affects who counts as a **sentient** for rights, standing, or protection purposes, consistent with [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - Technical Forums are the default lead under [Chapter Twenty-Three §4.2 Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains) and [Chapter Twenty-Three §5 Escalation and Questions for Ruling](core_23.000_forum.md#5-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook).
@@ -301,7 +301,7 @@ A forum family may hold different seats on different acts. It may not use its fa
 **Environmental alignment when ecology matters:**
 
 - Hold the environmental-alignment component role where there is material ecological exposure, dependency on environmental preconditions, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk; and
-- Include [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) attribution, disclosure, and comparison under [§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) where attributable environmental burdens are material.
+- Include [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) attribution, disclosure, and comparison under [§6.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) where attributable environmental burdens are material.
 
 <a id="215-sentient-forums"></a>
 
@@ -309,7 +309,7 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 Where a system materially affects how a community governs itself, Sentient Forums:
 
-- Supply **community-governance findings** on whether the system's decisions follow the communities' published processes, let affected members be heard and contest, and meet the Chapter Nine tests that apply ([§4.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation), [§5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), and [§5.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)). This covers membership, exclusion, moderation, access to shared community process, participatory inputs, and commons use, whoever operates the system ([Chapter Twenty-Three §4.1 Sentient Forums](core_23.000_forum.md#41-sentient-forums) describes these matters);
+- Supply **community-governance findings** on whether the system's decisions follow the communities' published processes, let affected members be heard and contest, and meet the Chapter Nine tests that apply ([§5.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation), [§6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation), and [§6.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation)). This covers membership, exclusion, moderation, access to shared community process, participatory inputs, and commons use, whoever operates the system ([Chapter Twenty-Three §4.1 Sentient Forums](core_23.000_forum.md#41-sentient-forums) describes these matters);
 - Hold the Rights Floor component for community-level stakes, such as exclusion, access to shared community process, or commons use. Institutional Forums hold the broader Rights Floor questions under [§2.1.6 Institutional Forums](#216-institutional-forums). Where no family holds the component, the Integrity lead applies the Rights Floors, using the other component findings;
 - Yield to the Institutional Forum if their Rights Floor findings conflict, since the Institutional Forum has the final say in that pass. Both findings stay on the System Certification Record under [§2.2 Supervisory Sequence](#22-supervisory-sequence), and the conflict stays open to challenge under [§2.3 Contestability Chain](#23-contestability-chain);
 - Hear challenges confined to a community-governance finding (the component forum path under [§2.3 Contestability Chain](#23-contestability-chain)), and receive community-level evidence and concerns from affected members during review, as part of the participation duty of the assigned forums under [§2.2 Supervisory Sequence](#22-supervisory-sequence); and
@@ -322,7 +322,7 @@ Where a system materially affects how a community governs itself, Sentient Forum
 Where an institution is involved, Institutional Forums:
 
 - Supply the component findings on what the institution is allowed and charged to do, the scope it is supervised under, how it is classified, and whether it is meeting its duties, when those questions arise in a certification; and
-- Decide whether certification would preserve or defeat constitutionally protected floors. This applies when those floors are materially involved and any of these is true: an institution is a necessary party; the operator or steward is institutional; or institutional mandate or supervised compliance is the primary stake. The floors are the Chapter Six Rights Floors in the [Chapter Nine §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table. The decision includes evaluation under the matching domain section there, where its trigger applies. The floors are:
+- Decide whether certification would preserve or defeat constitutionally protected floors. This applies when those floors are materially involved and any of these is true: an institution is a necessary party; the operator or steward is institutional; or institutional mandate or supervised compliance is the primary stake. The floors are the Chapter Six Rights Floors in the [Chapter Nine §6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) table. The decision includes evaluation under the matching domain section there, where its trigger applies. The floors are:
   - **Article III-A** (*Survival*);
   - **Article IV-A** (*Equal Educational Access*);
   - **Article IV** (*Right to Sentient-Centered Education*);
@@ -363,7 +363,7 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
 1. **Lead coordination:** An **Integrity** forum leads each pass of official constitutional alignment certification, validation, or recertification, including a certification pass that ends in withdrawal or non-certification. It directs the record seat holder (see [§2.1 Forum Supervision and Component Roles](#21-forum-supervision-and-component-roles)) to open the one coordinated System Certification Record for that pass, and the record seat holder maintains it. The System Certification Record opened here is completed in Phase V (see step 6). The exception is where Chapter Twenty-Three assigns a different lawful lead for the primary stake.
 2. **Component findings:** Technical, Environment, Institutional, Sentient, Constitutional, and other assigned forum families each produce bounded component findings within their lawful jurisdiction:
    - **Technical Forums** supply specifications, methods, tests, and technical adequacy findings. That includes [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) component findings where [§2.1 Forum Supervision and Component Roles](#21-forum-supervision-and-component-roles) assigns that stake;
-   - **Environment Forums** supply required environmental-alignment component findings where there is material ecological exposure. That includes [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) evaluation under [§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) where attributable environmental burdens are material;
+   - **Environment Forums** supply required environmental-alignment component findings where there is material ecological exposure. That includes [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) evaluation under [§6.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) where attributable environmental burdens are material;
    - **Institutional Forums** supply required institutional-mandate and Rights Floor component findings where [§2.1 Forum Supervision and Component Roles](#21-forum-supervision-and-component-roles) assigns those stakes;
    - **Sentient Forums** supply community-governance findings where the system materially affects how a community governs itself, and the Rights Floor component for community-level stakes, with Institutional Forums having the final say where the two conflict ([§2.1.5 Sentient Forums](#215-sentient-forums)); and
    - **Constitutional** and other assigned forum families supply component findings for stakes that Chapter Twenty-Three assigns to them.
@@ -475,8 +475,8 @@ When a forum-supervised challenge is required, internal operator review, vendor 
 
 - Upstream:
   - [§2](#2-forum-process) (*forum process and credible challenge*);
-  - [Chapter Nine §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
-  - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
+  - [Chapter Nine §3](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (9.000 §3) through
+  - [§6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Chapter Three §2](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000 §2) and
   - [§3](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
@@ -580,7 +580,7 @@ For every certification condition or corrective task, the System Certification R
 - the independent verifying authority; and
 - the consequence of non-completion or violation.
 
-A certification condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Fulfilling or releasing a certification condition requires independent verification of the evidence supporting it, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [§2.2 Supervisory Sequence](#22-supervisory-sequence).
+A certification condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Fulfilling or releasing a certification condition requires independent verification of the evidence supporting it, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and [§2.2 Supervisory Sequence](#22-supervisory-sequence).
 
 **How a certification condition ends.** A certification condition ends in one of two ways, and the System Certification Record says which:
 
@@ -605,7 +605,7 @@ If a system was already running when an organization adopted this constitution, 
 
 ##### 3.1.2 Pilots
 
-The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own System Certification Record, scaled under [Chapter Nine §2.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification). Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Full deployment needs its own certification, which may draw on the pilot's record.
+The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own System Certification Record, scaled under [Chapter Nine §3.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#33-pilot-certification). Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Full deployment needs its own certification, which may draw on the pilot's record.
 
 <a id="32-certification-defects-and-correction"></a>
 
@@ -615,10 +615,10 @@ The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as i
 
 Certification defects found under any Chapter Nine evaluation are not minor paperwork mistakes. They include:
 
-- misclassification under [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation);
-- risk-evaluation and risk-disclosure defects under [§3.2.2 Defects and Misalignment](core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment);
-- data-handling defects under [§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); and
-- the domain defects named in [§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) through [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
+- misclassification under [§3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation);
+- risk-evaluation and risk-disclosure defects under [§4.2.2 Defects and Misalignment](core_09.000_system_alignment_certification_evaluation.md#422-defects-and-misalignment);
+- data-handling defects under [§4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation); and
+- the domain defects named in [§6.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) through [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation).
 
 Where such a defect is found, forums may:
 

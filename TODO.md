@@ -134,6 +134,17 @@ These were left unapplied on purpose in moves now archived in [archive/DOC_ARCHI
 - [ ] Catch-all coverage (480th move): whether to add a last bullet for functionally equivalent variants to the §6.7.4 list of permitted measures and to the §6.5 "Indirect forms include" list. The scan after the 479th move proposed both; the 480th move applied the other strong fits and left every exclusion and safe-harbor list closed on purpose.
 - [ ] "Chapters Two through Four" wording (483rd move): the §6 lead sentences now name the Chapter Fifteen §3.5 verified-input gate and the Chapters Two through Four evidence standard. Two places still use the old wording and were left for the custodian to match or leave: (a) the two Misconduct-path pointers in Chapter Six Part B (`core_06.010_rights_part_b.md`, one about recusal failure and one about flooding and bribery) say "when substantiated under Chapters Two through Four and the Chapter Twenty-One criteria set"; (b) the actor-attribution wording "the standing record supports holding that actor accountable under Chapters Two through Four and the section 5 safeguards" in §6.5, §6.6, §6.7.2, §6.8.2 and §6.9.
 
+### Chapter structure — open follow-ups (carried from the archived move log, 2026-11-14)
+
+These were recorded as open in moves now archived in [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (the 489th and 492nd moves) and in the 498th–500th moves still in the log. Drafting the Purpose, Role, and Scope sections is done (see the translation list above), so it is not carried.
+
+- [ ] Unqualified chapter mentions (492nd move): about 1,000 "Chapter Nine / Ten / Thirteen / Fourteen" mentions with no section number were mapped to the first chapter of the range and need hand review.
+- [ ] Corpus homes (492nd move): the homes of CI-13.205, CI-13.210 and CI-13.215 are judgment calls; confirm or move them.
+- [ ] Define **IAC** (492nd move): a new non-operative abbreviation, like SAC, for institutional alignment certification, in Chapter Five's institutional alignment certification entry. It is not yet defined in `core_05`.
+- [ ] CHAPTER-NUMBER-01 and the crosswalk text (492nd move): update the rule text and the migration-crosswalk paragraph in `doc_architecture.md` section 5 for the final chapter structure.
+- [ ] Measurement seeds (489th move): **Gated Pathway** and **Influence Pathway** have Chapter Five definitions but no approved seed in `tools/architecture/measurement_tier_seeds.json`. Regenerating the definition hierarchy (`make hierarchy-map`) makes `ch5-measurement-coverage-audit` fail until they are seeded, so the hierarchy files stay at their committed state.
+- [ ] Section 2 standard (499th move): section 2 is being standardized as the detailed explanation of why a chapter exists, named "Why [subject] Exists". Chapters 8, 9 and 12 have it. Open: whether Chapter Five §2 and Chapter Six §2 are renamed to the "why" form; where Chapter Twelve's new §2 starts (the cut was my choice and is movable); the other chapters; and an audit that enforces it (CHAPTER-S2-WHY-01 is not audit-enforced yet).
+
 ### P1 — Regression and evidence
 
 - [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree.
@@ -144,6 +155,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-14 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14.md](archive/TODO_SNAPSHOT_2026-11-14.md), [archive/MEMLOG_SNAPSHOT_2026-11-14.md](archive/MEMLOG_SNAPSHOT_2026-11-14.md), [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (moves 488–497; open items carried into the heading above)
 - **2026-11-12 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-12.md](archive/MEMLOG_SNAPSHOT_2026-11-12.md), [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)
 - **2026-11-11 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-11.md](archive/TODO_SNAPSHOT_2026-11-11.md), [archive/MEMLOG_SNAPSHOT_2026-11-11.md](archive/MEMLOG_SNAPSHOT_2026-11-11.md), [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md)
 - **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-08.md](archive/TODO_SNAPSHOT_2026-11-08.md)

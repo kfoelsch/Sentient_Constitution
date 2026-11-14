@@ -676,8 +676,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (tetrad capture discipline under
   - [Chapter One §18](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) and
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) and
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18).
 - Principle-layer rule:
   - [Chapter One §19.1 Alignment Requirement](core_01.050_governance_incentive_application.md#191-alignment-requirement) (1.050 §19.1) and

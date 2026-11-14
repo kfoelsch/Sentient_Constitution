@@ -67,7 +67,7 @@
 
 <br>
 
-Chapter Twenty-One**, is the constitutional owner of **final anti-constitutional-misconduct designation (ACMD) for Violation Axis slot 7, 8, and 9 findings, ACMD criteria, due-process safeguards, and the Chapters Twenty-Five through Twenty-Seven ACMD boundary**. Named pattern applications are in **[Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)**.
+Chapter Twenty-One is the constitutional owner of **final anti-constitutional-misconduct designation (ACMD) for Violation Axis slot 7, 8, and 9 findings, ACMD criteria, due-process safeguards, and the Chapters Twenty-Five through Twenty-Seven ACMD boundary**. Named pattern applications are in **[Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)**.
 
 This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and anti-constitutional misconduct (ACM) is materially alleged. It decides only whether the matching ACMD attaches; it does not create a separate impact scale, move a violation finding between slots, or replace Chapter Sixteen measurement or Chapter Seventeen standing integration.
 *In plain terms: under the [Continuity aim](core_00.000_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*

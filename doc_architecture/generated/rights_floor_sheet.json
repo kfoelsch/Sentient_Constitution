@@ -9,7 +9,7 @@
       "title": "Article I: Environmental Survival",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-i-environmental-survival",
-      "line": 213,
+      "line": 225,
       "plain_terms": "**Article I** (*Environmental Survival*) is the planet-first Rights Floor — Earth's life-support systems must hold so **Flourishing** and **Continuity** remain possible for every sentient, and later governance cannot shrink that floor through certification, classification, or implementation choices.",
       "href": "../../core_06.000_rights_part_a.md#article-i-environmental-survival"
     },
@@ -17,7 +17,7 @@
       "title": "Article I-A: Environmental Preconditions and Ecological Integrity",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-i-a-environmental-preconditions-and-ecological-integrity",
-      "line": 245,
+      "line": 257,
       "plain_terms": "the planet's life-support systems must be protected as a matter of their own survival, not only because sentients need them. Animals get a basic cruelty and welfare floor. Creatures that show strong communication or cognition get stronger habitat and health protections. And when it is unclear whether something counts as sentient, it gets the benefit of the doubt — full Chapter Six protection while the question is fairly resolved.",
       "href": "../../core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity"
     },
@@ -25,7 +25,7 @@
       "title": "Article I-B: Ecological Footprint and Transparency",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-i-b-ecological-footprint-and-transparency",
-      "line": 308,
+      "line": 320,
       "plain_terms": "when a rule calls for it, the environmental cost of an activity, system, product, or service should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.",
       "href": "../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency"
     },
@@ -33,7 +33,7 @@
       "title": "Article I-C: Intergenerational Responsibility",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-i-c-intergenerational-responsibility",
-      "line": 347,
+      "line": 359,
       "plain_terms": "decisions today must not load unfair, irreversible, or unaccountable harm on those not represented — including future sentients and the environmental preconditions they will inherit.",
       "href": "../../core_06.000_rights_part_a.md#article-i-c-intergenerational-responsibility"
     },
@@ -41,7 +41,7 @@
       "title": "Article I-D: Existential Risk and Ecological Recovery Capacity",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-i-d-existential-risk-and-recovery-capacity",
-      "line": 379,
+      "line": 391,
       "plain_terms": "when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply highest scrutiny — even if the danger is small, slow, or contested.",
       "href": "../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity"
     },
@@ -49,7 +49,7 @@
       "title": "Article II: Material Stewardship and Durable-Use Integrity",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-material-stewardship-and-durable-use-integrity",
-      "line": 437,
+      "line": 449,
       "plain_terms": "**Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor. Durable and network-dependent products must be designed, described, and supported honestly. That protects **Flourishing** from misleading longevity claims and blocked repair paths, and **Continuity** from avoidable premature discard and hidden lifecycle burdens.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity"
     },
@@ -57,7 +57,7 @@
       "title": "Article II-A: Material Stewardship and Lifecycle Honesty",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-a-material-stewardship-and-lifecycle-honesty",
-      "line": 474,
+      "line": 486,
       "plain_terms": "durable goods must be designed and described honestly. Buyers must not be pushed into avoidable replacement or misled about how long a product will last.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-a-material-stewardship-and-lifecycle-honesty"
     },
@@ -65,7 +65,7 @@
       "title": "Article II-B: Repair, Maintenance, and Independent Servicing",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-b-repair-maintenance-and-independent-servicing",
-      "line": 517,
+      "line": 529,
       "plain_terms": "owners and independent repair shops must be able to fix products they own. They need real access to manuals, tools, parts, and honest diagnostics.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing"
     },
@@ -73,7 +73,7 @@
       "title": "Article II-C: Designed Obsolescence and Incentive Discipline",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-c-designed-obsolescence-and-incentive-discipline",
-      "line": 554,
+      "line": 566,
       "plain_terms": "products must not be built or updated to wear out early, or to push you into buying a replacement you don't need.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-c-designed-obsolescence-and-incentive-discipline"
     },
@@ -81,7 +81,7 @@
       "title": "Article II-D: Post-Sale Access and Subscription Integrity",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-d-post-sale-access-and-subscription-integrity",
-      "line": 586,
+      "line": 598,
       "plain_terms": "a feature bought outright cannot be quietly turned into a subscription. Any relevant operator dependency — including infrastructure, software, and services — must be disclosed up front.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity"
     },
@@ -89,7 +89,7 @@
       "title": "Article II-E: Data Handling and Network Dependency",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
-      "line": 620,
+      "line": 632,
       "plain_terms": "any product that collects data about you must tell you what it collects, why, and how to delete it — and must delete it when you ask, except where records must be kept to protect others or hold someone accountable. When a product needs the operator's servers to work, the operator must say so up front and must not trap your data.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency"
     },
@@ -97,7 +97,7 @@
       "title": "Article II-F: Continuity and Operator Shutdown",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-ii-f-continuity-and-operator-shutdown",
-      "line": 688,
+      "line": 700,
       "plain_terms": "the operator must plan for service shutdown, give fair notice and time to move when it happens, and cannot let bankruptcy or a sale erase those duties.",
       "href": "../../core_06.000_rights_part_a.md#article-ii-f-continuity-and-operator-shutdown"
     },
@@ -105,7 +105,7 @@
       "title": "Article III: Survival and Essential Access",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-survival-and-essential-access",
-      "line": 738,
+      "line": 750,
       "plain_terms": "**Article III** (*Survival and Essential Access*) is the personal survival and access Rights Floor — sentients must retain access to survival essentials, bodily-maintenance care, and minimum labor and economic protections so **Flourishing** is not defeated by deprivation or gatekeeping, and **Continuity** is not defeated by unstable, regressive, or commodified delivery of what they need to exist and participate.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-survival-and-essential-access"
     },
@@ -113,7 +113,7 @@
       "title": "Article III-A: Survival",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-a-survival",
-      "line": 791,
+      "line": 803,
       "plain_terms": "every sentient must have what they need to keep existing: safe food and water, or the safe equivalent for their substrate, a stable home or operating environment they cannot be quietly priced or evicted out of, and meaningful access to communications.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-a-survival"
     },
@@ -121,7 +121,7 @@
       "title": "Article III-B: Bodily-Maintenance and Healthcare Access",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-b-bodily-maintenance-and-healthcare-access",
-      "line": 839,
+      "line": 851,
       "plain_terms": "everyone has the right to the care that keeps their body — or, for a synthetic sentient, its substrate — working. That care cannot be quietly withheld through coverage rules, paperwork, or delays, and this right is not itself a license to force treatment on anyone. Required care — such as vaccination or crisis mental-health care — must meet strict limits set elsewhere in this Constitution.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access"
     },
@@ -129,7 +129,7 @@
       "title": "Article III-C: Labor and Economic Floor",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-c-labor-and-economic-floor",
-      "line": 892,
+      "line": 904,
       "plain_terms": "anyone who works — in any form, on any substrate — has the right to fair pay in real, spendable money, the freedom to organize with others, and the freedom to change jobs. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor"
     },
@@ -137,7 +137,7 @@
       "title": "Article III-D: Safe Working Conditions",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-d-safe-working-conditions",
-      "line": 961,
+      "line": 973,
       "plain_terms": "anyone who works must be protected from foreseeable harm while they do it — in practice, not just on paper — and no one gets weaker protection because of what kind of body or substrate they have.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-d-safe-working-conditions"
     },
@@ -145,7 +145,7 @@
       "title": "Article III-E: Rest and Recuperation",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-e-rest-and-recuperation",
-      "line": 1003,
+      "line": 1015,
       "plain_terms": "every sentient needs real time to rest and recover — not only workers, and not only biological bodies. Pay schemes, productivity demands, and claims that a synthetic sentient \"doesn't need rest\" cannot take that time away.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-e-rest-and-recuperation"
     },
@@ -153,7 +153,7 @@
       "title": "Article III-F: Safe Products and Health Information",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-f-safe-products-and-health-information",
-      "line": 1035,
+      "line": 1047,
       "plain_terms": "what sentients eat, drink, take, or use on their bodies must be safe, and anyone who offers it must be honest about it. Parties that offer things which can affect health must give accurate, usable safety, health, nutrition, ingredient, and allergen information, say plainly what they do not know, and tell everyone who relied on them, in time, when something turns out to be wrong. This is the price of offering, not a limit on anyone's speech.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information"
     },
@@ -161,7 +161,7 @@
       "title": "Article IV: Right to Sentient-Centered Education",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-right-to-sentient-centered-education",
-      "line": 1092,
+      "line": 1104,
       "plain_terms": "**Article IV** (*Right to Sentient-Centered Education*) is the education Rights Floor — no one can be shut out of education, and everyone needs practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education"
     },
@@ -169,7 +169,7 @@
       "title": "Article IV-A: Equal Educational Access",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-a-equal-educational-access",
-      "line": 1150,
+      "line": 1162,
       "plain_terms": "education should prepare everyone to live well, communicate honestly, take part in governing, and avoid harm — no one can be shut out of it because of a disability, another protected characteristic, or an arbitrary rule, and schools must give disabled learners the support they need to take part as equals.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-a-equal-educational-access"
     },
@@ -177,7 +177,7 @@
       "title": "Article IV-B: Capability-Building Education Right",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-b-capability-building-education-right",
-      "line": 1187,
+      "line": 1199,
       "plain_terms": "every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-b-capability-building-education-right"
     },
@@ -185,7 +185,7 @@
       "title": "Article IV-C: Lifelong and Adaptive Learning and Contestability",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-c-lifelong-and-adaptive-learning-and-contestability",
-      "line": 1222,
+      "line": 1234,
       "plain_terms": "when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-c-lifelong-and-adaptive-learning-and-contestability"
     },
@@ -193,7 +193,7 @@
       "title": "Article V: Resource Allocation, Dependencies, and Ecosystem Funding",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-v-resource-allocation-dependencies-and-ecosystem-funding",
-      "line": 1258,
+      "line": 1270,
       "plain_terms": "**Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.",
       "href": "../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding"
     },
@@ -201,7 +201,7 @@
       "title": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-v-a-dependency-mapping-and-resource-flow-transparency",
-      "line": 1308,
+      "line": 1320,
       "plain_terms": "systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where resources, goods, services, labor, information, and money flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
       "href": "../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency"
     },
@@ -209,7 +209,7 @@
       "title": "Article V-B: Cross-System Fairness and Sustainability",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-v-b-cross-system-fairness-and-sustainability",
-      "line": 1358,
+      "line": 1370,
       "plain_terms": "systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05.040_band_continuity.md#system-alignment-certification) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.",
       "href": "../../core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
     },

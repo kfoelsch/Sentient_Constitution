@@ -601,7 +601,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Canonical owner: [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate) (10.000 §3.1) (*the go-live gate: what must hold before a system goes live*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
-- Downstream: [Chapter Nine §2.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*a pilot is a go-live*).
+- Downstream: [Chapter Nine §3.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#33-pilot-certification) (9.000 §3.3) (*a pilot is a go-live*).
 - Read with:
   - [Pilot](core_05.040_band_continuity.md#pilot),
   - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
@@ -697,7 +697,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §2.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#21-institution-class) (12.000 §2.1) (*how an Institution's class is determined*); read with [CS-9.305 (*System classification machinery*)](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) and [CS-9.310 (*System Impact Classifications*)](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications).
+- Canonical owner: [Chapter Twelve §3.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class) (12.000 §3.1) (*how an Institution's class is determined*); read with [CS-9.305 (*System classification machinery*)](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) and [CS-9.310 (*System Impact Classifications*)](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications).
 - Cluster component: none.
 - Read with:
   - [Institution](core_05.040_band_continuity.md#institution),
@@ -714,7 +714,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** The class assigned to an [Institution](core_05.040_band_continuity.md#institution) by its greatest material impact, assessed through the Systems it operates, stewards, or materially controls and through its own decisions and holdings outside any System. The class governs the depth of institutional evaluation and its clocks.
   - **Out of scope:** the separate class of a System in the Institution's [Portfolio](core_05.040_band_continuity.md#portfolio), which is decided for that System and is not re-decided by the Institution's evaluation.
   - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Portfolio](core_05.040_band_continuity.md#portfolio); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
-  - The classification factors, common-control rule, and reclassification triggers are stated in [Chapter Twelve §2.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#21-institution-class); this entry is the Chapter Five meaning only.
+  - The classification factors, common-control rule, and reclassification triggers are stated in [Chapter Twelve §3.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class); this entry is the Chapter Five meaning only.
 <a id="institution-class-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -852,7 +852,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation) (12.000 §3), item 8 (*data types and handling*), and [§2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents); read with [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4).
+- Canonical owner: [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (12.000 §4), item 8 (*data types and handling*), and [§2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents); read with [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (9.000 §4.4).
 - Cluster component: none.
 - Read with:
   - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification),
@@ -869,7 +869,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** Evaluation of data types materially in scope that an Institution handles outside any System, including how each type is handled under the most restrictive applicable classification. The findings appear in the data-types section of the Institutional Certification Record; they do not form a separate Institutional Certification Record.
   - **Out of scope:** data handled inside a System, which is evaluated and recorded once under the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) and cited in the Institutional Certification Record.
   - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record).
-  - The institutional evaluation, recording, and reevaluation requirements are stated in [Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation), item 8, [§2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents), and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); this entry is the Chapter Five meaning only.
+  - The institutional evaluation, recording, and reevaluation requirements are stated in [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), item 8, [§2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents), and [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation); this entry is the Chapter Five meaning only.
 <a id="institutional-data-types-and-handling-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1017,7 +1017,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §1.1 Who Is Certified](core_12.000_institutional_alignment_certification_evaluation.md#11-who-is-certified) (12.000 §1.1) (*who is certified, and the one-System case*); read with [Chapter Thirteen §3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution) (13.000 §3.4) (*denial and revocation for an Institution*).
+- Canonical owner: [Chapter Twelve §2.1 Who Is Certified](core_12.000_institutional_alignment_certification_evaluation.md#21-who-is-certified) (12.000 §2.1) (*who is certified, and the one-System case*); read with [Chapter Thirteen §3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution) (13.000 §3.4) (*denial and revocation for an Institution*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
@@ -1038,7 +1038,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - the cascade from a System's certification beyond its rules 1 and 2, which are the only rules of it that apply here —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
-  - The one-System case is stated in [Chapter Twelve §1.1 Who Is Certified](core_12.000_institutional_alignment_certification_evaluation.md#11-who-is-certified), and the denial and revocation grounds in [Chapter Thirteen §3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution); this entry is the Chapter Five meaning only.
+  - The one-System case is stated in [Chapter Twelve §2.1 Who Is Certified](core_12.000_institutional_alignment_certification_evaluation.md#21-who-is-certified), and the denial and revocation grounds in [Chapter Thirteen §3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution); this entry is the Chapter Five meaning only.
 <a id="one-system-evaluation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1103,7 +1103,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine §2.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate) (10.000 §3.1) (*the go-live gate*).
+- Canonical owner: [Chapter Nine §3.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#33-pilot-certification) (9.000 §3.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate) (10.000 §3.1) (*the go-live gate*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*progressive deployment*).
 - Read with:
@@ -1129,7 +1129,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - the sequencing rules in [**CS-6.350**](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-adoption-transition-constitution-and-migration-governance) (*Adoption Transition constitution and migration governance*) and [**CI-6.275**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*), under which lower-exposure systems or institutions may precede higher-exposure ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Go-Live](core_05.040_band_continuity.md#go-live); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
-  - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Nine §2.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification); this entry is the Chapter Five meaning only.
+  - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Nine §3.3 Pilot Certification](core_09.000_system_alignment_certification_evaluation.md#33-pilot-certification); this entry is the Chapter Five meaning only.
 <a id="pilot-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1155,7 +1155,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation) (12.000 §3) (*whole-Institution certification evaluation and the portfolio test*); read with [Chapter Fourteen §2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents) (14.000 §2.1) (*minimum record contents*).
+- Canonical owner: [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (12.000 §4) (*whole-Institution certification evaluation and the portfolio test*); read with [Chapter Fourteen §2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents) (14.000 §2.1) (*minimum record contents*).
 - Cluster component: none.
 - Read with:
   - [Institution](core_05.040_band_continuity.md#institution), and
@@ -1174,7 +1174,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - the Institution's authority and activities beyond its Systems, which [New Material Authority](core_05.040_band_continuity.md#new-material-authority) and the [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) cover —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [System](core_05.040_band_continuity.md#system).
-  - The portfolio test is stated in [Chapter Twelve §3 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#3-whole-institution-certification-evaluation), and the entries for the portfolio in [Chapter Fourteen §2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - The portfolio test is stated in [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), and the entries for the portfolio in [Chapter Fourteen §2.1 Minimum Record Contents](core_14.000_institutional_alignment_certification_records_recertification.md#21-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="portfolio-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1245,7 +1245,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*outcomes, certification interval, and reopening*); read with [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) (*class-scaled assurance and recertification*) and [CS-6.345 §10](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
+- Canonical owner: [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*outcomes, certification interval, and reopening*); read with [Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (9.000 §3) (*class-scaled assurance and recertification*) and [CS-6.345 §10](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*forum supervision of certification and recertification records*).
 - Read with:
@@ -1732,7 +1732,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Canonical owner:
   - [Chapter Eleven §2 — System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2) (*minimum contents and record integrity*); read with
-  - [Chapter Nine §5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (9.000 §5) (*Rights-Floor non-substitution*),
+  - [Chapter Nine §6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (9.000 §6) (*Rights-Floor non-substitution*),
   - [Chapter Ten §2](core_10.000_system_alignment_certification_forum_process_outcomes.md#2-forum-process) (10.000 §2) (*forum process, supervisory sequence, and contestability chain*),
   - [§3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (*outcomes, reopening, and non-evasion*), and
   - [§5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) (*standing-record bridge*).
@@ -1786,11 +1786,11 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     2. the System Certification Record states, as Chapter Nine requires:
        - system identity;
        - scope;
-       - the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) and [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation);
-       - the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) (or its required contents) under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
-       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) — stated on this System Certification Record, not as a separate named risk-disclosure record;
+       - the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) and [Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation);
+       - the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) (or its required contents) under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) and [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
+       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Nine §4.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) — stated on this System Certification Record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
-       - cross-system resource stewardship evaluation under [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
+       - cross-system resource stewardship evaluation under [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
        - supervisory sequence;
        - outcome;
@@ -1829,7 +1829,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical content owner: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
-- Canonical incorporation owner: [Chapter Nine §2 — System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) and [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*when System Alignment Certification runs*).
+- Canonical incorporation owner: [Chapter Nine §3 — System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (9.000 §3) and [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record);
@@ -1871,7 +1871,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [System Charter](core_05.040_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
-  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*); incorporation into System Certification Records is stated in [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*); incorporation into System Certification Records is stated in [Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-classification-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1880,7 +1880,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     1. the System Certification Record states both dual-axis findings required by CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
     2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05.050_band_oversight.md#material-impact), [Dependency](core_05.040_band_continuity.md#dependency), and [Risk](core_05.040_band_continuity.md#risk), not declared intent, [System Charter](core_05.040_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or recertification triggers are stated and independently reviewable; and
-    4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents).
+    4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1904,7 +1904,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical content owner: **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
-- Canonical incorporation owner: [Chapter Nine §3.4 — Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) and [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*when System Alignment Certification runs*).
+- Canonical incorporation owner: [Chapter Nine §4.4 — Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (9.000 §4.4) and [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record);
@@ -1952,16 +1952,16 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [System Charter](core_05.040_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this data-types record.
-  - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*); incorporation into System Certification Records is stated in [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*); incorporation into System Certification Records is stated in [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-data-types-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*);
-    2. typing follows functional effect under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), not declared intent, [System Charter](core_05.040_band_continuity.md#system-charter) text alone, or self-description alone;
+    2. typing follows functional effect under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) and [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), not declared intent, [System Charter](core_05.040_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale for ambiguous or multi-type data, the most recent scheduled re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
-    4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents).
+    4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) and [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -2084,7 +2084,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint) and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint) and [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (5.040)
 - Read with:
   - [Harm](core_05.035_band_accountability.md#harm),
@@ -2142,7 +2142,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint); [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) (9.000 §3.2.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*findings on the System Certification Record*).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint); [Chapter Nine §4.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (9.000 §4.2.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*findings on the System Certification Record*).
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (5.040)
 - Read with:
   - [Risk](core_05.040_band_continuity.md#risk),
@@ -2278,7 +2278,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (cumulative / long-horizon ecological effects).
+- Downstream: Principles: [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (5.040)
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05.040_band_continuity.md#ecological-footprint-semi-independent).
@@ -2338,7 +2338,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (5.040)
 - Read with:
   - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint),
@@ -2533,7 +2533,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Downstream: Principles: [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (5.040)
 - Read with:
   - [Risk](core_05.040_band_continuity.md#risk),
@@ -2725,7 +2725,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Proportionality](core_05.035_band_accountability.md#proportionality);
     - [Necessity](core_05.035_band_accountability.md#necessity); and
     - [Harm Minimization (Tradeoff Selection)](core_05.035_band_accountability.md#harm-minimization-tradeoff-selection).
-  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint).
+  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Nine §4.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint).
   - **Tertiary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) — where proxies substitute for constitutional outcomes, including:
     - raw throughput;
     - utilization;
@@ -3014,7 +3014,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1) and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
+- Downstream: Principles: [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1) and [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05.040_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
@@ -3099,8 +3099,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream: Principles:
   - [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Owner floor: [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05.040_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
@@ -3192,9 +3192,9 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles:
   - [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1) (ecological bounds);
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (materiality / dependency / cumulative effects);
-  - [Chapter Nine §5.1](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) (9.000 §5.1) (*system alignment certification footprint evaluation*).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency / cumulative effects);
+  - [Chapter Nine §6.1](core_09.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) (9.000 §6.1) (*system alignment certification footprint evaluation*).
 - Owner floors: [Article I-B](core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*) and [Article XVI-C](core_06.020_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*).
 - Read with: the
   - [Ecological Integrity, Footprint, and Sustainability cluster](core_05.040_band_continuity.md#ecological-footprint-semi-independent),
@@ -3265,7 +3265,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1), [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
+- Downstream: Principles: [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (1.010 §9.1), [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05.040_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
   - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity),
@@ -3341,7 +3341,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05.040_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
   - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity),
@@ -3704,8 +3704,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
   - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
   - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Dependency and Cross-System Support](core_05.040_band_continuity.md#dependency-and-cross-system-support).
 - Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - Read with:
@@ -3781,7 +3781,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-B](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (9.000 §5.3) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
+- Owner floor: [Article V-B](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Chapter Nine §6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) (9.000 §6.3) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
 - Downstream: [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support) (*the support owed where extraction is material*); [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
 - Cluster component: [Dependency and Cross-System Support](core_05.040_band_continuity.md#dependency-and-cross-system-support).
 - Read with:
@@ -3813,7 +3813,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - direct, or routed through intermediaries, vendors, or affiliated systems; and
     - shifted onto others, where upkeep, outage-response, or participation costs move onto systems or sentients relying on the same substrate.
   - **Out of scope:**
-    - data access, data use, sale to external parties, targeted advertising, and profiling, which are governed by [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) and the Chapter Six privacy and info-sphere protections and evaluated under [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
+    - data access, data use, sale to external parties, targeted advertising, and profiling, which are governed by [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) and the Chapter Six privacy and info-sphere protections and evaluated under [Chapter Nine §4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
     - extraction of protected internal states, which is governed by [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary);
     - the ecological burden of natural-resource use as such, which is evaluated under [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint), although draw on shared source capacity that other systems rely on stays in scope; and
     - ordinary commercial exchange that pays for the shared substrate at a rate that sustains it.
@@ -3853,7 +3853,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Article V-B](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing:
   - **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000)
-  - [§5.3](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
+  - [§6.3](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
 - Downstream: [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00.000_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
 - Cluster component: [Dependency and Cross-System Support](core_05.040_band_continuity.md#dependency-and-cross-system-support).
 - Read with:
@@ -3882,7 +3882,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - long-term sustainability.
 
     Adequacy is evaluated under [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) and [Proportionality](core_05.035_band_accountability.md#proportionality), and scaled to:
-    - criticality of the shared or foundational dependency, shown by its [system class](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) where one is assigned;
+    - criticality of the shared or foundational dependency, shown by its [system class](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) where one is assigned;
     - [Dependency](core_05.040_band_continuity.md#dependency) asymmetry between extracting and supporting systems;
     - substitutability of the relied-on function;
     - availability of alternatives to it;
@@ -4025,8 +4025,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream: Principles:
   - [material stake](core_00.000_preamble.md#material-stake) scaling;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)).
 - Cluster component: [Systemic Effects and Capture](core_05.040_band_continuity.md#systemic-effects-and-capture).
 - Read with:
   - [Systemic](core_05.040_band_continuity.md#systemic),
@@ -4157,7 +4157,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream: Principles:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (participation, oversight, accountability, and timeliness must remain real against capture);
   - [material stake](core_00.000_preamble.md#material-stake) scaling;
-  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - [Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (1.050 §19) (especially
   - [§19.1 Alignment Requirement](core_01.050_governance_incentive_application.md#191-alignment-requirement) and
   - [§19.3 Misalignment Detection](core_01.050_governance_incentive_application.md#193-misalignment-detection));
@@ -4188,7 +4188,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Contestability](core_05.035_band_accountability.md#contestability).
 
     Safeguards are foreseeable when [Foreseeability](core_05.050_band_oversight.md#foreseeability) would identify the capture pathway under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), scaled to [material stake](core_00.000_preamble.md#material-stake). Where that duty is met, Anti-Capture includes:
-    - separating the one who acted from the one who checks ([Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement));
+    - separating the one who acted from the one who checks ([Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement));
     - keeping plural, structurally independent detection and review paths ([Chapter One §19.3 Misalignment Detection](core_01.050_governance_incentive_application.md#193-misalignment-detection));
     - disclosing beneficial control and influence routes in an [Auditability](core_05.050_band_oversight.md#auditability)-compatible form;
     - keeping [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
@@ -4665,7 +4665,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
   - [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody) (7.000 §5) (*what the System Charter or Institutional Charter owes the map*);
-  - [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5) (*the published map of seats*);
+  - [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) (8.000 §6) (*the published map of seats*);
   - [Chapter Ten §2.1.1 Four Seats in a Certification](core_10.000_system_alignment_certification_forum_process_outcomes.md#211-four-seats-in-a-certification) (10.000 §2.1.1) and
   - [§2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (*certification seats and the record of them*);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
@@ -4687,7 +4687,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
   - [Auditability](core_05.050_band_oversight.md#auditability), and
   - [Contestability](core_05.035_band_accountability.md#contestability).
-- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*), not in this entry. The mechanics of keeping the map current live in [CI-24.205](corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), not here.
+- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3) and **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*), not in this entry. The mechanics of keeping the map current live in [CI-24.205](corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), not here.
 
 </details>
 
@@ -4703,7 +4703,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - each deputy or substitute who may act in the seat, including for an absent, excluded, captured, or conflicted holder, and the independent route when no qualified substitute is available; and
     - the version, the effective date, and the change history.
   - **Out of scope:**
-    - the seat types and their boundaries, which are fixed in [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*);
+    - the seat types and their boundaries, which are fixed in [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*);
     - an organization chart, staff directory, or list of titles that places no seat;
     - the standards for qualifying a steward, which the map records the results of but does not set; and
     - a seat that constitutional routing assigns and the System Charter or Institutional Charter does not. In a system alignment certification, the forums that hold the verify-or-authorize seat are assigned under Chapter Nine and Chapter Twenty-Three, so the map does not choose them.
@@ -4988,8 +4988,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream: Principles:
   - [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (survival / shelter continuity);
   - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5) (**Article XXI** (*Interoperability, Portability, and Exit Integrity*) read-together noted in **O** line);
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (**Dependency** scaling).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Protection against arbitrary eviction* protection. Cross-references: [Article XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXVIII-D](core_06.040_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) Adoption Transition stewardship.
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with:
@@ -5073,7 +5073,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (community continuity / cumulative effects).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (community continuity / cumulative effects).
 - Owner floors:
   - [Article VI-C](core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and
   - [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers:
@@ -5379,7 +5379,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (9.000 §5.5) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
+- Downstream: Principles: [Chapter Nine §6.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (9.000 §6.5) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_06.000_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*); safety of products and services offered to others routes to [Article III-F](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*). Systems-layer implementation: [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*) safety profiles where applicable.
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
@@ -5456,8 +5456,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream: Principles:
   - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.020 §13.3) (participation-capacity preservation vs false efficiency);
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7) (**Meaningful Agency** in tradeoff stack);
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (**Materiality** / **Dependency** scaling).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-E](core_06.000_rights_part_a.md#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
@@ -6206,7 +6206,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (1.050 §19.1.3), [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and Chapter Six strategy / stewardship requirements.
+- Downstream: Principles: [Chapter One §19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (1.050 §19.1.3), [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Six strategy / stewardship requirements.
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Stewardship Defect](core_05.040_band_continuity.md#stewardship-defect),
@@ -6327,8 +6327,8 @@ See **Anti-Segmentation Principle**.
 - Downstream: Principles:
   - [Chapter One §19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (1.050 §19.1.3),
   - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation),
@@ -6396,7 +6396,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (1.050 §19.1.3); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (periodic revalidation / misalignment detection).
+- Downstream: Principles: [Chapter One §19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (1.050 §19.1.3); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Twenty-Four §4](core_24.000_governance.md#4-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (24.000 §4).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:

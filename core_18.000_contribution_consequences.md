@@ -21,7 +21,7 @@
 
 <br>
 
-Chapter Eighteen**, is the constitutional owner of **contribution consequences**: the effect, if any, of verified contribution at Question 3. Its rules start from verified contribution standing records and end at the gated pathway outcomes that Chapter Twenty states.
+Chapter Eighteen is the constitutional owner of **contribution consequences**: the effect, if any, of verified contribution at Question 3. Its rules start from verified contribution standing records and end at the gated pathway outcomes that Chapter Twenty states.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*
@@ -64,7 +64,7 @@ This section starts from verified Chapter Fifteen contribution records that appl
 Decide contribution consequences in this order:
 
 - Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
-  - Equal standards include separation of duties: under [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [Chapter Fifteen §6.9 Informal and Small-Scope Records](core_15.000_standing_assessment.md#69-informal-and-small-scope-records) the verify seat for informal work is met by any independent body with published authority to rely on the standing record, not by the formality of the verifying authority.
+  - Equal standards include separation of duties: under [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and [Chapter Fifteen §6.9 Informal and Small-Scope Records](core_15.000_standing_assessment.md#69-informal-and-small-scope-records) the verify seat for informal work is met by any independent body with published authority to rely on the standing record, not by the formality of the verifying authority.
   - A bar that demands formal-institution verification an informal group cannot reach is the [§2.2 Competency Bars and Clearances](#22-competency-bars-and-clearances) gatekeeping pattern.
 - Apply recency and currentness ([§2.1 Recency and Currentness](#21-recency-and-currentness)).
 - Apply competency bars and clearances ([§2.2 Competency Bars and Clearances](#22-competency-bars-and-clearances)); where a lock blocks a gated pathway, no clearance operates on it.
