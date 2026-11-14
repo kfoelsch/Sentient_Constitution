@@ -2,27 +2,30 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve** — **institutional alignment certification**: how an [Institution](core_05.040_band_continuity.md#institution), as distinct from any System it runs, is classified, evaluated, reviewed, decided, recorded, kept current, and reopened (**§1–Chapter Fourteen §5**). Chapter Twelve is the institutional counterpart of [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (*System Alignment Certification*), and **its sections carry the same numbers**: §N here answers §N there. [CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) (*System alignment certification illustrations*) holds the worked illustrations for Systems and, in its [§12 Illustrative Institution Walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs), three Institution walkthroughs. This Chapter does not repeat them.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve** — **institutional alignment certification**: how an [Institution](core_05.040_band_continuity.md#institution), as distinct from any System it runs, is classified, evaluated, reviewed, decided, recorded, kept current, and reopened (Chapter Twelve **§1–§6**, [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) **§2–§3**, and [Chapter Fourteen](core_14.000_institutional_alignment_certification_records_recertification.md#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) **§2–§5**). Chapter Twelve is the institutional counterpart of [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (*System Alignment Certification*), and **its sections carry the same numbers**: §N of Chapters Twelve to Fourteen answers §N of Chapters Nine to Eleven, as the table below shows. [CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) (*System alignment certification illustrations*) holds the worked illustrations for Systems and, in its [§12 Illustrative Institution Walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs), three Institution walkthroughs. This Chapter does not repeat them.
 >
-> | § | Chapter Nine (System) | Chapter Twelve (Institution) |
-> |---|------------------------|----------------------------|
-> | 1 | Purpose, Role, and Scope | relation to the System certification, who is certified, no permission and no gate on forming or running, the wait for new material authority, the first-certification window |
-> | 2 | System Class Evaluation | institution class; scaling by class |
-> | 3 | Whole-System Certification Evaluation | the eight institutional items, always |
-> | 4 | Evaluations Where Implicated | pointer to Chapter Nine §5 |
-> | 5 | Rights-Floor and Domain Evaluations | pointer to Chapter Nine §6 |
-> | 6 | Forum Process | four seats; forum roles and sequence; forums, certifiers, and record offices as institutions |
-> | 7 | Certification Outcomes | go-live for an Institution and for its Systems, certification conditions, and the other effects of an outcome; pointer for defects; remediation readiness; denial and revocation |
-> | 8 | System Certification Record | the Institutional Certification Record |
-> | 9 | Recertification and Reopening | monitoring; reopening triggers; provisional and full certification; non-evasion; the cascade from System certifications; reopening its Systems on a governance violation |
-> | 10 | Challenging a Certification | the challenge path |
-> | 11 | Relationship to Standing | the standing bridge |
+> | Chapter (Institution) | § | Answers (System) | What the Institution section covers |
+> |---|---|---|---|
+> | Twelve | 1 | Chapter Nine §1 Purpose, Role, and Scope | the relation to the System certification, and the chapter scope |
+> | Twelve | 2 | Chapter Nine §2 Why System Alignment Certification Exists | the relation by link; who is certified (§2.1); no permission and no gate on forming or running (§2.2); the window for the first certification (§2.3) |
+> | Twelve | 3 | Chapter Nine §3 System Class Evaluation | institution class; scaling by class |
+> | Twelve | 4 | Chapter Nine §4 Whole-System Certification Evaluation | the eight institutional items, always |
+> | Twelve | 5 | Chapter Nine §5 Evaluations Where Implicated | pointer to Chapter Nine §5 |
+> | Twelve | 6 | Chapter Nine §6 Rights-Floor and Domain Evaluations | pointer to Chapter Nine §6 |
+> | Thirteen | 1 | Chapter Ten §1 Purpose, Role, and Scope | how forums supervise institutional certification, and the outcomes |
+> | Thirteen | 2 | Chapter Ten §2 Forum Process | four seats; forum roles and sequence; forums, certifiers, and record offices as institutions |
+> | Thirteen | 3 | Chapter Ten §3 Certification Outcomes | go-live for an Institution and for its Systems, certification conditions, and the other effects of an outcome; pointer for defects; remediation readiness; denial and revocation |
+> | Fourteen | 1 | Chapter Eleven §1 Purpose, Role, and Scope | what happens after the outcome, for an Institution |
+> | Fourteen | 2 | Chapter Eleven §2 System Certification Record | the Institutional Certification Record |
+> | Fourteen | 3 | Chapter Eleven §3 Recertification and Reopening | monitoring; reopening triggers; provisional and full certification; non-evasion; the cascade from System certifications (§3.5); reopening its Systems on a governance violation (§3.6) |
+> | Fourteen | 4 | Chapter Eleven §4 Challenging a Certification | the challenge path |
+> | Fourteen | 5 | Chapter Eleven §5 Relationship to Standing | the standing bridge |
 >
 > - **Constitutional owner (joint with Chapter Nine):** forum-supervised alignment certification and related System Certification Records and Institutional Certification Records. Chapter Twelve adds the institutional subject. It adds no new forum family, no new seat, and no new outcome word.
 > - **Reuse, not repetition:** Phases III to VI run as [Chapter Ten §2](core_10.000_system_alignment_certification_forum_process_outcomes.md#2-forum-process) to [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) provide. Chapter Twelve states only what changes when the subject is an Institution.
 > - **Anti-relocation rule:** Chapter Twelve does not restate Chapter Nine evaluation mechanics for a System, the Chapter Seven System Charter and Institutional Charter fields, the Chapter Eight Four-Seat Requirement, the institutional duties in [corpus_institutions](corpus_institutions.md), Chapter Sixteen standing measurement, or Chapter Seventeen standing effects.
 >
-> **Upstream:** [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) Charters; [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence; [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (Parts [A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation), [B](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes), and [C](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing)); Chapter Twenty-Three forum supervision.
+> **Upstream:** [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) Charters; [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence; [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) ([Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes) and [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) continue it); Chapter Twenty-Three forum supervision.
 > **Downstream:** Chapter Fifteen standing records and verified inputs; Chapter Seventeen standing effects.
 
 </details>
@@ -60,8 +63,6 @@ Chapter Twelve is the constitutional owner of **institutional alignment certific
 - **Phase V, Record:** the Institutional Certification Record ([§2 Institutional Certification Record](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record)); and
 - **Phase VI, Operate:** recertification, reopening, the cascade from System certifications, the reopening of its Systems, the challenge path, and the standing bridge ([§3 Recertification and Reopening](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening) to [§5 Relationship to Standing](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing)).
 
-*In plain terms: Chapter Nine asks whether a **system** is aligned. Chapter Twelve asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.*
-
 <a id="1-purpose-role-and-scope"></a>
 
 ### 1. Purpose, Role, and Scope
@@ -85,7 +86,7 @@ Chapter Twelve is the constitutional owner of **institutional alignment certific
 
 <br>
 
-*In plain terms: a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
+*In plain terms: Chapter Nine asks whether a system is aligned. Chapter Twelve asks the same of the institution that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse, so a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
 
 **Purpose.** Chapter Twelve sets the evaluation that decides whether an Institution can be certified as aligned. The Institution may run systems or may hold authority without running one. It is asked what only the Institution can answer for: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used.
 

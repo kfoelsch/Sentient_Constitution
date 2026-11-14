@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**§2–§5**, continuing from Chapter Ten §2–§3). **Chapter Nine** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Chapter Ten** — the **forum process** and the certification **outcomes** with the go-live gate — is in [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](core_10.000_system_alignment_certification_forum_process_outcomes.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**§1–§5**). **Chapter Nine** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Chapter Ten** — the **forum process** and the certification **outcomes** with the go-live gate — is in [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](core_10.000_system_alignment_certification_forum_process_outcomes.md).
 >
 > - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Inputs:** [Chapter Nine §3](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [§6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the System Certification Record, and [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) supplies the outcome that completes it.
@@ -42,19 +42,9 @@ Chapter Eleven is the constitutional owner of these parts of system alignment ce
 - **Phase VIa, Operate and recertify:** **recertification and reopening** ([§3 Recertification and Reopening](#3-recertification-and-reopening)) and the **challenge path** ([§4 Challenging a Certification](#4-challenging-a-certification)); and
 - **Phase VIb, Standing bridge:** the **standing bridge** ([§5 Relationship to Standing](#5-relationship-to-standing)).
 
-Evaluation requirements are in **[Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**). Forum review and the outcome (**Phase III, Review**, and **Phase IV, Decide**) are in **[Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes)**, which ends at [§3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes). This Part continues the chapter at **§2** (*System Certification Record*). [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance) charts the whole process, and the chart in [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes) shows Phases III to VI.
-
-*In plain terms: Chapter Ten explains how forums review a system and reach an **outcome**. Chapter Eleven explains what happens after the decision. The review findings and the decision go on the **System Certification Record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
-
-Certification under this Part:
-
-- must produce one bounded **System Certification Record** under [§2 System Certification Record](#2-system-certification-record);
-- is kept current under [§3 Recertification and Reopening](#3-recertification-and-reopening);
-- is open to challenge on the published record challenge path under [§4 Challenging a Certification](#4-challenging-a-certification); and
-- may supply verified inputs to Chapter Fifteen only through [§5 Relationship to Standing](#5-relationship-to-standing).
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: a certification only works if it is kept where it can be checked, re-checked on a schedule, challenged when it is wrong, and kept separate from standing. Certification can feed standing, but it is not standing.*
+*In plain terms: Chapter Ten explains how forums review a system and reach an outcome. This chapter covers what comes after the decision. A certification only works if it is kept where it can be checked, re-checked on a schedule, and challenged by sentients (the beings the Constitution covers) when it is wrong. Certification can feed standing, but it is not standing, and it never replaces standing measurement or standing effects.*
 
 **Purpose.** Chapter Eleven states what happens after the outcome:
 
@@ -65,7 +55,12 @@ Certification under this Part:
 
 **Role.** The chapter closes the System Alignment Certification sequence:
 
-- It takes the outcome from [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes), and the evaluation and class framing from [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation), as fixed.
+- It takes these as fixed:
+  - the outcome from [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes); and
+  - the evaluation and class framing from [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation).
+- The process chart:
+  - [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance) charts the whole process; and
+  - the chart of Phases III to VI is in [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
 - It hands verified facts to Chapter Fifteen only through the verified-input gate (**section 5.3**).
 - Standing records and their effects are decided in Chapters [Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement), not here.
 

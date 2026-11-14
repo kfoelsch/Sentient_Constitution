@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_26.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **836** of **1328** headings carry a gloss (63%).
+Coverage: **834** of **1328** headings carry a gloss (63%).
 
 ## Contents
 
@@ -37,8 +37,8 @@ Coverage: **836** of **1328** headings carry a gloss (63%).
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/58 glossed)
 - [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (10/36 glossed)
-- [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (12/35 glossed)
-- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-twelve-institutional-alignment-certification--evaluation) — `core_12.000_institutional_alignment_certification_evaluation.md` (6/12 glossed)
+- [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (11/35 glossed)
+- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-twelve-institutional-alignment-certification--evaluation) — `core_12.000_institutional_alignment_certification_evaluation.md` (5/12 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) — `core_13.000_institutional_alignment_certification_forum_process_outcomes.md` (9/14 glossed)
 - [CHAPTER FOURTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_14.000_institutional_alignment_certification_records_recertification.md` (11/30 glossed)
 - [CHAPTER FIFTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fifteen-standing-records--question-1-what-happened) — `core_15.000_standing_assessment.md` (9/44 glossed)
@@ -4521,11 +4521,11 @@ a denial or revocation changes what the operator may say about its system, who i
 
 ## CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING
 
-Source file: [`core_11.000_system_alignment_certification_records_recertification.md`](../../core_11.000_system_alignment_certification_records_recertification.md) · 12/35 headings glossed
+Source file: [`core_11.000_system_alignment_certification_records_recertification.md`](../../core_11.000_system_alignment_certification_records_recertification.md) · 11/35 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-a certification only works if it is kept where it can be checked, re-checked on a schedule, challenged when it is wrong, and kept separate from standing. Certification can feed standing, but it is not standing.
+Chapter Ten explains how forums review a system and reach an outcome. This chapter covers what comes after the decision. A certification only works if it is kept where it can be checked, re-checked on a schedule, and challenged by sentients (the beings the Constitution covers) when it is wrong. Certification can feed standing, but it is not standing, and it never replaces standing measurement or standing effects.
 
 [Source](../../core_11.000_system_alignment_certification_records_recertification.md#1-purpose-role-and-scope)
 
@@ -4729,11 +4729,11 @@ certification can feed standing, but it is not standing. Any System Certificatio
 
 ## CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_12.000_institutional_alignment_certification_evaluation.md`](../../core_12.000_institutional_alignment_certification_evaluation.md) · 6/12 headings glossed
+Source file: [`core_12.000_institutional_alignment_certification_evaluation.md`](../../core_12.000_institutional_alignment_certification_evaluation.md) · 5/12 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
+Chapter Nine asks whether a system is aligned. Chapter Twelve asks the same of the institution that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse, so a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
 
 [Source](../../core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope)
 
