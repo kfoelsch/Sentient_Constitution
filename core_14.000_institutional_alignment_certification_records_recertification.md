@@ -56,6 +56,8 @@ The chapter leaves:
 - standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it), and the later standing steps to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows).
 
 
+<a id="2-institutional-certification-record"></a>
+
 ### 2. Institutional Certification Record
 
 <details>
