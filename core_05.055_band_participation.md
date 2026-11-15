@@ -319,6 +319,50 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 
 ---
 
+<a id="minority"></a>
+
+#### Minority
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) (1.000 §3.1) — especially [Chapter One §3.1.2 Benefits and Burdens](core_01.000_values_principles.md#312-benefits-and-burdens) (1.000 §3.1.2).
+- Downstream: [Chapter Twenty-Five §2 Non-Regression Floor](core_25.000_non_regression.md#2-non-regression-floor) (25.000 §2) (*trade-offs between classes*).
+- Read with:
+  - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics),
+  - [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness),
+  - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), and
+  - [Article XII-A](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*).
+
+</details>
+
+<br>
+
+*In plain terms: when a choice helps one group and costs another, the minority is the group with less power to protect itself, or the smaller group when power does not tell them apart. It is a position in one comparison, not a label for a kind of sentient, and it is judged by what actually happens to the group.*
+
+- **What it is**
+  - **In scope:** In a trade-off between affected classes of sentients, the **minority** is the class with less market or institutional power in the matter at hand. Power means the real ability to shape the outcome, to leave, and to contest it.
+    - **Presumed less powerful:** A class is presumed to have less power where it is:
+      - a dependency-affected or high-risk group under [Article XII-A](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*); or
+      - defined by a [Protected Characteristic](core_05.055_band_participation.md#protected-characteristics) and exposed to disadvantage on that basis in the matter at hand.
+    - **Rebuttal:** The presumption is set aside only on a published showing that the class in fact holds the power to protect its own interests in the matter at hand.
+    - **When power does not separate the classes:** The minority is the class with fewer affected sentients. Where more than two classes are affected, the class with the least power is the minority, and size breaks a tie.
+    - **Real effects:** The minority is found from real effects, and not from labels, names, or how a class is described. Forming, splitting, or relabeling a class in order to be treated as the minority is non-compliant conduct by whoever does it.
+  - **Out of scope:** a rank among sentients, since every sentient keeps equal moral standing under [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing); a headcount test used alone where one class plainly has more power; and the list of protected characteristics, which [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) owns.
+<a id="minority-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the class that would bear the cost of a trade-off was found by power and real effects, and was given its default weight.
+
+    **Primary assessment:** Name the classes on each side. Compare their ability to shape the outcome, to leave, and to contest it. Apply the presumptions and the rebuttal, and use size only where power does not separate the classes. Read with [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) where the benefits and burdens of the choice are in question.
+<a id="minority-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - naming the minority from a label and not from power and real effects;
+    - treating the more powerful or larger class as the minority; or
+    - forming, splitting, or relabeling a class to be treated as the minority.
+
+---
+
 <a id="natural-systems-standing"></a>
 
 #### Natural Systems Standing

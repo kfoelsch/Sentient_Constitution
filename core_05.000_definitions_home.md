@@ -311,6 +311,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency)
 - [Merits Determination](core_05.035_band_accountability.md#merits-determination)
+- [Minority](core_05.055_band_participation.md#minority)
 - [Misaligned Reward Correction](core_05.045_band_integrative.md#misaligned-reward-correction)
 - [Misalignment Detection](core_05.045_band_integrative.md#misalignment-detection)
 - [Movement and Relocation](core_05.055_band_participation.md#movement-and-relocation)

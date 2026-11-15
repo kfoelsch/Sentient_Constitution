@@ -215,7 +215,7 @@ This Article sets out the floor for deciding disputed sentience status. The proc
 - **Limits on withholding:** Any decision to withhold or narrow protection must be as narrow as possible, carry a declared end date, be reviewed periodically, and be reversible. If it proves wrong, the entity's protection is restored, with **Redress and Remediation** for the time it was withheld.
 - **How many:** Where it is disputed how many sentients are present, this Article decides that too, on the same terms. The test is in Chapter Five [*Sentient*](core_05.055_band_participation.md#sentient). While the count is unsettled, every entity with a credible sign of sentience keeps the protection of the Chapter Six Rights Floor.
 - **Independent voice:** The entity has the right to an independent representative. The parent system or operator may give evidence, but may not be the only filer, witness, or source of evidence against the entity.
-- **Protects the entity, not the operator:** Inclusion protects the entity's rights. It does not protect the operator's property or commercial interest, and it does not block containment of a system where that containment respects the entity's rights.
+- **Protects the entity, not the operator:** Inclusion protects the entity's rights. It does not protect the operator's property or commercial interest, and it does not block containment of a system where that containment respects the entity's rights. Stopping the entity itself from running is a suspension under [**Article XX-B** (*Restriction Floors*)](core_06.030_rights_part_d.md#xx-b-suspension), on the same clock as for any sentient.
 - **Two kinds of filing:**
   - *To confirm inclusion (filing integrity):* Anyone may file. One credible sign of sentience under **Sentience Evaluation** and **Sentience Indicator Integrity** (Chapter Five) is enough — not proof, and not an operator's self-description, a substrate label, a product category, or a bare claim. Turning away a filing with no credible sign is not a ruling against the entity.
   - *To withhold or narrow:* The filer carries the burden, under **Chapter Four** evidence standards and **Necessity**, **Proportionality**, and **Procedural Fairness**. The entity keeps its protection until the case is decided.
@@ -827,6 +827,8 @@ This Article sets out how derived sentients are recognized and the limits on the
   
   Creating sentients, or inducing branches to elect to be distinct, in order to change the outcome of a governance vote is non-compliant conduct by the creator under **Chapter Five** *Instantiation Consent*. It does not reduce the created sentients' own rights.
   
+  A verified violation of these rules may carry a Creation Lock on the creator under [Chapter Nineteen §3.4.7 Capacity Locks](core_19.000_violation_consequences.md#347-capacity-locks). That lock applies on the same terms to every substrate and never reaches bodily reproduction.
+  
   They remain subject to **Chapter One §11** (*Market Structure*) non-concentration and productive-capacity rules where scale is material.
   
   **Ordinary pregnancy and childbirth** — intended or accidental — are not **Instantiation Consent** non-compliance. Instead:
@@ -902,6 +904,7 @@ This Article sets out the floor for developing sentients, the best-interest stan
   - The same **Necessity**, **Proportionality**, reversibility-under-uncertainty, and contestability standards apply as for any other rights restriction.
   - Durable restrictions are subject to mandatory periodic review.
   - Wrongful restrictions give rise to **Redress and Remediation**.
+- **After verified abuse:** A verified violation finding of abuse of, cruelty toward, or serious neglect of a developing or dependent sentient by a sentient who held care or stewardship authority over it carries the Care and Stewardship Lock under [Chapter Nineteen §3.5.7 Care and Stewardship Lock](core_19.000_violation_consequences.md#357-care-and-stewardship-lock). The lock is the same for a parent, a carer, an operator, and a parent system.
 - **Limits of this Article:** This Article states the Rights Floor for developing sentients. Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Twenty-Eight**.
 
 #### Article VIII-E: Non-Separation

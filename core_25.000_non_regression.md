@@ -90,7 +90,7 @@ The chapter leaves:
 
 <br>
 
-*In plain terms: weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.*
+*In plain terms: weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label. Where a change helps one group and costs another, the minority is favored by default, and no group may be pushed below the minimum.*
 
 No constitutional change is valid if it materially weakens core protections for any covered sentient class. Core protections include:
 - Safety (Constitutional Constraint);
@@ -106,6 +106,12 @@ Material weakening includes indirect narrowing through:
 - verification barriers; or
 - emergency carve-outs.
 
+**Trade-offs between classes.** A change that strengthens a protection for one covered class while weakening it for another is judged class by class.
+- **Minimums first:** A change may never take any class below the minimum that a protection in this section guarantees to every sentient. That is a material weakening for that class, whatever the change does for another class.
+- **Minority favored by default:** Above those minimums, the change fails if it weakens the protection of the minority class in order to strengthen it for another class. It does not fail under this rule if it weakens the protection of a class that is not the minority in order to strengthen it for the minority.
+- **Who the minority is:** [Minority](core_05.055_band_participation.md#minority) defines it: the class with less market or institutional power, presumed to include dependency-affected and high-risk groups and groups defined by a Protected Characteristic and exposed to disadvantage in the matter, and otherwise the smaller class, judged by real effects and not by labels.
+- **Overcoming the default:** The default may be set aside only where the published determination shows that the minority class keeps the core of the protection and is not materially worse off. The proposer must name the classes on each side in the justification required by [Chapter Twenty-Six §3](core_26.000_amendment_ratification.md#3-burden-of-justification-and-public-traceability) (*Burden of Justification and Public Traceability*), and the **Constitutional Forum** decides under **section 3**.
+
 <a id="3-test-1--substantive-non-regression-validity"></a>
 <a id="3-substantive-test-1--substantive-non-regression-validity"></a>
 ### 3. Substantive Test 1 — Substantive Non-Regression Validity
@@ -114,13 +120,13 @@ Material weakening includes indirect narrowing through:
 
 - Upstream: [§2](#2-non-regression-floor) non-regression floor definition.
 - Downstream: [§4](#4-anti-evasion-clause) evasion; [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) Procedural Tests 2–4 and procedural requirements (invalid if Substantive Test 1 fails regardless of procedure).
-- Read with: [Chapter One](core_01.040_stewardship_capacity_principles.md#chapter-01-part-e-stewardship-and-the-steward-role) (1.040) non-negotiable principle constraints; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy obligations.
+- Read with: [Chapter One](core_01.040_stewardship_capacity_principles.md#chapter-01-part-e-stewardship-and-the-steward-role) (1.040) non-negotiable principle constraints; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy obligations; [Article XXV-A](core_06.030_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXV-B](core_06.030_rights_part_d.md#article-xxv-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review; [Chapter Twenty-Six §12.3](core_26.000_amendment_ratification.md#123-proposal-hearing-and-comment-window) (26.000 §12.3) for how a proposal is brought to that forum.
 
 </details>
 
 <br>
 
-*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.*
+*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening.*
 
 A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter One non-negotiable principle constraints
@@ -134,6 +140,17 @@ Invalidity includes indirect narrowing through:
 - evidentiary burden manipulation;
 - observability degradation; or
 - emergency re-labeling.
+
+**Who decides.** Whether a proposed amendment fails Substantive Test 1 is decided by the **Constitutional Forum**, in a published determination with reasons under **Article XXV-A** (*Bounded Interpretive Mandate and Public Reasons*). The determination follows the amendment comment window in **Chapter Twenty-Six §12.3** (*Proposal, Hearing, and Comment Window*), and it is open to independent review under **Article XXV-B** (*Challenge Rights and Independent Review*). A proposer's own statement that a change is not a weakening is an input to that determination, not the determination.
+
+**Corrections.** A change that narrows a Chapter Six protection is not a weakening where the **Constitutional Forum** finds it to be a correction. The forum may make that finding only where its published determination finds all of the following:
+- **Error shown:** The protection as written defeats its own purpose, either by harming the class it protects or by conflicting with another Rights Floor in the same case. The error is shown by recorded effects and not by argument alone;
+- **Independent review:** The error was reviewed under [Heightened Scrutiny](core_05.050_band_oversight.md#heightened-scrutiny) by reviewers independent of the proposers;
+- **Narrowest change:** No narrower change would remove the error;
+- **Core kept:** The change keeps the core of the protection, takes no class below the minimum, and neither removes the protection nor reverses its direction; and
+- **Minority not worse off:** The change passes the trade-off rule in **section 2**, so the [Minority](core_05.055_band_participation.md#minority) is not made worse off.
+
+A change that is not found to be a correction is judged as any other change. A proposer's label of a change as a correction is an input to the determination, not the determination.
 
 ### 4. Anti-Evasion Clause
 <details>

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_27.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **825** of **1328** headings carry a gloss (62%).
+Coverage: **830** of **1333** headings carry a gloss (62%).
 
 ## Contents
 
@@ -15,7 +15,7 @@ Coverage: **825** of **1328** headings carry a gloss (62%).
 - [CHAPTER 01, PART B: THE CONTINUITY AIM](#chapter-01-part-b-the-continuity-aim) — `core_01.010_values_principles_continuity_aim.md` (18/19 glossed)
 - [CHAPTER 01, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT](#chapter-01-part-c-collision-resolution-and-the-override-limit) — `core_01.020_interaction_interpretation.md` (14/18 glossed)
 - [CHAPTER 01, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-01-part-d-constitutional-interpretation) — `core_01.030_constitutional_interpretation.md` (5/12 glossed)
-- [CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-01-part-e-stewardship-and-the-steward-role) — `core_01.040_stewardship_capacity_principles.md` (12/13 glossed)
+- [CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-01-part-e-stewardship-and-the-steward-role) — `core_01.040_stewardship_capacity_principles.md` (13/14 glossed)
 - [CHAPTER 01, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-01-part-f-governance-incentive-alignment-and-integrated-application) — `core_01.050_governance_incentive_application.md` (19/26 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02.000_definition_structure.md` (9/13 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03.000_definition_integrity.md` (6/16 glossed)
@@ -31,7 +31,7 @@ Coverage: **825** of **1328** headings carry a gloss (62%).
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (63/124 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
-- [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
+- [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (55/70 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (8/63 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
@@ -45,7 +45,7 @@ Coverage: **825** of **1328** headings carry a gloss (62%).
 - [CHAPTER SIXTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_16.000_standing_measurement.md` (10/37 glossed)
 - [CHAPTER SEVENTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-seventeen-standing-integration--question-3-what-follows) — `core_17.000_standing_integration.md` (19/20 glossed)
 - [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (8/9 glossed)
-- [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (37/45 glossed)
+- [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (39/47 glossed)
 - [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (9/15 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (12/22 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
@@ -57,7 +57,7 @@ Coverage: **825** of **1328** headings carry a gloss (62%).
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_24.000_governance.md` (13/15 glossed)
 - [CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-five-non-regression-and-substantive-amendment-validity) — `core_25.000_non_regression.md` (5/6 glossed)
-- [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (18/19 glossed)
+- [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (19/20 glossed)
 - [CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) — `core_27.000_expansion_supremacy.md` (13/14 glossed)
 - [CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE](#chapter-twenty-eight-incorporation-bridge) — `core_28.000_incorporation.md` (4/5 glossed)
 
@@ -677,7 +677,7 @@ when one situation touches more than one incorporated how-to file — or when yo
 
 ## CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE
 
-Source file: [`core_01.040_stewardship_capacity_principles.md`](../../core_01.040_stewardship_capacity_principles.md) · 12/13 headings glossed
+Source file: [`core_01.040_stewardship_capacity_principles.md`](../../core_01.040_stewardship_capacity_principles.md) · 13/14 headings glossed
 
 #### 16. Stewardship in Depth
 
@@ -711,7 +711,7 @@ when something that matters is done, the Act Record should be made by the doing,
 
 #### 17. Consequential Stewardship: The Steward Role
 
-a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment under Pressure](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_01.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)), what it must refuse ([§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)), and how its competence stays portable so no one steward is indispensable ([§17.6 Portable Competence](../../core_01.040_stewardship_capacity_principles.md#176-portable-competence)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_01.040_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_01.040_stewardship_capacity_principles.md#162-institutional-development).
+a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment under Pressure](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_01.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)), what it must refuse ([§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)), how its competence stays portable so no one steward is indispensable ([§17.6 Portable Competence](../../core_01.040_stewardship_capacity_principles.md#176-portable-competence)), and whose interests the role is held for ([§17.7 Duty to Represent Stakeholder Interests](../../core_01.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_01.040_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_01.040_stewardship_capacity_principles.md#162-institutional-development).
 
 [Source](../../core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)
 
@@ -750,6 +750,12 @@ no incumbent owns the right to begin useful constitutional work. A sentient or c
 no consequential job should depend on one sentient's head. The more a system matters and the more others rely on it, the more those who run it must be able to hand it over, explain it, and check each other's work — and know enough about the neighboring jobs to see trouble where the jobs meet. This sets a floor on coverage and understanding. It does not make everyone rotate through everything.
 
 [Source](../../core_01.040_stewardship_capacity_principles.md#176-portable-competence)
+
+##### 17.7 Duty to Represent Stakeholder Interests
+
+a steward holds the role for the sake of the sentients the system touches, not for the steward's own advantage or the operator's. That means weighing their real interests when deciding, hearing their concerns and answering them, and, when the rules themselves are hurting them, using the open routes to ask for a change. It is not an order to do whatever stakeholders ask, and it never overrides Safety, Truth, or the Rights Floor.
+
+[Source](../../core_01.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests)
 
 ## CHAPTER 01, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION
 
@@ -3033,7 +3039,7 @@ outcomes a careful analyst using known methods could identify before acting — 
 
 ## Participation Constitutional Definitions
 
-Source file: [`core_05.055_band_participation.md`](../../core_05.055_band_participation.md) · 54/69 headings glossed
+Source file: [`core_05.055_band_participation.md`](../../core_05.055_band_participation.md) · 55/70 headings glossed
 
 #### Participation: Independent Terms
 
@@ -3076,6 +3082,12 @@ the shared information environment sentients use to learn, coordinate, publish, 
 a shared unit for expressing full-life-equivalent benefit or loss when Chapter Sixteen standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.
 
 [Source](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)
+
+##### Minority
+
+when a choice helps one group and costs another, the minority is the group with less power to protect itself, or the smaller group when power does not tell them apart. It is a position in one comparison, not a label for a kind of sentient, and it is judged by what actually happens to the group.
+
+[Source](../../core_05.055_band_participation.md#minority)
 
 ##### Natural Systems Standing
 
@@ -5711,7 +5723,7 @@ every clearance result must be readable on its face: what was decided, against w
 
 ## CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS
 
-Source file: [`core_19.000_violation_consequences.md`](../../core_19.000_violation_consequences.md) · 37/45 headings glossed
+Source file: [`core_19.000_violation_consequences.md`](../../core_19.000_violation_consequences.md) · 39/47 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5929,6 +5941,12 @@ an influence-pathway lock closes the routes used to shape a decision, either to 
 
 [Source](../../core_19.000_violation_consequences.md#346-influence-pathway-locks)
 
+###### 3.4.7 Capacity Locks
+
+when a sentient commits a violation by misusing a particular power, a lock can close that power: making new sentients, acting through tools and networks, operating at scale, or gaining new abilities. Each lock is written for the power and not for the kind of being, so a human and any other sentient meet it on the same terms. A lock can take away outside means. It can never reach into a body or a mind.
+
+[Source](../../core_19.000_violation_consequences.md#347-capacity-locks)
+
 ##### 3.5 Special Locks
 
 *(no plain-terms gloss in source)*
@@ -5970,6 +5988,12 @@ after a final anti-constitutional misconduct designation, the sentient is closed
 once a forum has ordered a Chartered Party dissolved, it cannot come back under a new name or form. The lock binds the dissolved Party, its successors, and its controlled entities, not the sentients who belonged to it.
 
 [Source](../../core_19.000_violation_consequences.md#356-dissolution-reformation-lock)
+
+###### 3.5.7 Care and Stewardship Lock
+
+a sentient who abused someone in their care, was cruel to them, or left them in serious neglect loses the authority and the unsupervised access that made it possible, until an independent reviewer finds it safe to give them back. The rule is the same for a parent, a carer, an operator, and a parent system.
+
+[Source](../../core_19.000_violation_consequences.md#357-care-and-stewardship-lock)
 
 ##### 3.6 Interim Holds and Locks
 
@@ -7303,13 +7327,13 @@ inventors and creators can be rewarded, but any control they get must be narrow,
 
 ##### Article XVIII-E: Creative and Expressive Works
 
-creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.
+creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication, an outer limit that an adopter may set lower — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.
 
 [Source](../../core_06.020_rights_part_c.md#article-xviii-e-creative-and-expressive-works)
 
 ##### Article XVIII-F: Inventions, Processes, and Functional Systems
 
-inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.
+inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. The stated terms and the one-half share are outer limits that an adopter may set lower; the fee floor is the one figure that sets a minimum. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.
 
 [Source](../../core_06.020_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems)
 
@@ -7685,13 +7709,13 @@ a change that weakens the protections this Constitution depends on is invalid, e
 
 #### 2. Non-Regression Floor
 
-weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.
+weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label. Where a change helps one group and costs another, the minority is favored by default, and no group may be pushed below the minimum.
 
 [Source](../../core_25.000_non_regression.md#2-non-regression-floor)
 
 #### 3. Substantive Test 1 — Substantive Non-Regression Validity
 
-Substantive Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.
+Substantive Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening.
 
 [Source](../../core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity)
 
@@ -7709,7 +7733,7 @@ Chapter Twenty-Five can demand extra review, preserve evidence, or pause things 
 
 ## CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 
-Source file: [`core_26.000_amendment_ratification.md`](../../core_26.000_amendment_ratification.md) · 18/19 headings glossed
+Source file: [`core_26.000_amendment_ratification.md`](../../core_26.000_amendment_ratification.md) · 19/20 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -7812,6 +7836,12 @@ put amendments out early and clearly enough that **affected** **stakeholders** c
 effect follows what is honestly recorded on a stated date or event — secret patches or silent scope expansions do not count as valid constitutional amendments for supremacy purposes.
 
 [Source](../../core_26.000_amendment_ratification.md#122-recorded-effectiveness)
+
+##### 12.3 Proposal, Hearing, and Comment Window
+
+anyone can put a change to this Constitution on the Forum Case Record. To get the Constitutional Forum to take it up, it needs backing: at least 1% of the sentients entitled to vote sign on, a majority of the members of any forum votes for it, a majority of the stewards of a Class A, B, or C system or institution does, or the governing authority puts it forward. Everyone then gets at least 30 days (the Tier C outer bound) after the last change to the wording to respond, and any edit to the wording restarts that window. Only then does the forum rule on whether the change weakens a protection, or is a correction of a real error in it.
+
+[Source](../../core_26.000_amendment_ratification.md#123-proposal-hearing-and-comment-window)
 
 #### 13. Owner Non-Relocation
 

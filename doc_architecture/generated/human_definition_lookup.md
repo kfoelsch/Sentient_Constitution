@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **240** of **307** registry terms carry a source gloss.
+Coverage: **241** of **308** registry terms carry a source gloss.
 
 ## Start here
 
@@ -208,6 +208,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Materially Binding Act Record | *(no plain-terms gloss in source)* | [Source](../../core_05.035_band_accountability.md#materially-binding-act-record) |
 | Meaningful Agency | agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count, and neither does a menu of options that are not truly different from each other. Consent is one important use of that ability — it is not the same thing as agency itself. | [Source](../../core_05.055_band_participation.md#meaningful-agency) |
 | Merits Determination | a binding decision on the actual substance of a dispute — such as liability, rights, validity, or remedy. Routing, scheduling, monitoring, evidence preservation, and a Stay are procedural steps, not decisions on the merits. | [Source](../../core_05.035_band_accountability.md#merits-determination) |
+| Minority | when a choice helps one group and costs another, the minority is the group with less power to protect itself, or the smaller group when power does not tell them apart. It is a position in one comparison, not a label for a kind of sentient, and it is judged by what actually happens to the group. | [Source](../../core_05.055_band_participation.md#minority) |
 | Misaligned Reward Correction | once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Seventeen decides how they are forfeited, clawed back, reported, and corrected. | [Source](../../core_05.045_band_integrative.md#misaligned-reward-correction) |
 | Misalignment Detection | no one gets to be the only one who can spot, check, or challenge when governance goes wrong. Detection needs many independent eyes. | [Source](../../core_05.045_band_integrative.md#misalignment-detection) |
 | Movement and Relocation | the right to move within and between jurisdictions — and to relocate when staying would materially impair survival, dignity, Rights-Floor access, or freedom from manipulation — including operationally equivalent moves for synthetic and hybrid sentients. | [Source](../../core_05.055_band_participation.md#movement-and-relocation) |
