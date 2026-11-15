@@ -52,9 +52,7 @@
 
 <br>
 
-Chapter Twenty-Eight is the constitutional owner of **incorporation bridge discipline** — which implementation files bind when adopted, which edition and custody trail count, how cross-references invoke those obligations, the safeguards against silent drift and evasion, and how adoption framing separates what this Constitution says from what a particular adopter can enforce.
-
-*In plain terms: this chapter is the bridge that says which implementation rulebooks actually bind an adopter, which exact edition and custody trail count, and that quietly swapping the file for a newer draft does not change constitutional obligations without a proper re-adoption path under Chapters Twenty-Six and Twenty-Seven.*
+Chapter Twenty-Eight is the constitutional owner of **the incorporation bridge**, which is how this Constitution connects to the rulebooks an adopter actually follows: it fixes which files and which edition bind, guards against quiet changes and workarounds, and keeps what this Constitution says separate from what an adopter can enforce.
 
 ### 1. Purpose, Role, and Scope
 <details>
@@ -83,19 +81,28 @@ Chapter Twenty-Eight is the constitutional owner of **incorporation bridge disci
 
 <br>
 
-*In plain terms: this section names the bridge — which implementation files can bind, how adoption makes them operative, that later edits do not silently rewrite what was adopted, and that pointing here (or to an incorporated file) invokes only the obligations inside the recorded adoption scope.*
+*In plain terms: this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only through proper re-adoption under Chapter Twenty-Six and this chapter. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.*
 
 **Purpose:** This chapter is the **constitutional incorporation bridge**. It answers three questions:
 
 1. **Which** designated **implementation text** files can bind as incorporated implementation text.
 2. **How** adoption and custody make that text operative for an adopter.
-3. **That** later edits to those files do not silently change constitutional effect.
+3. **What** happens when those files are edited later: an adopter's obligations stay as adopted until the new version is validly re-adopted.
 
-**Role:** Within valid adoption scope, designated **implementation text** files listed in the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover. They implement this Constitution under **Chapter One**; they do not replace it. Merging those files for packaging does **not** change their status while they remain listed there.
+**Role:** This chapter is what makes the implementation files count. Where an adoption is valid:
 
-References across these constitutional volumes to **Chapter Twenty-Eight** or to incorporated implementation files invoke the corresponding **adopted** implementation obligations **where they apply** and **only within the stated adoption scope**.
+- The designated **implementation text** files listed in the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover.
+- Those files carry out this Constitution under **Chapter One**. They do not replace it.
+- Combining the files into one document for packaging does **not** change their status, as long as they stay on that list.
+- A reference to **Chapter Twenty-Eight** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
 
-**Chapter scope:** The chapter covers custody, editions, and operative effect (**section 2**), safeguards (**section 3**), and adoption framing and scope of authority (**section 4**). Within it, pointing to this chapter or to an incorporated file invokes only the obligations inside the recorded adoption scope.
+**Chapter scope:** The chapter covers:
+
+- custody, editions, and operative effect (**section 2**);
+- safeguards (**section 3**); and
+- adoption framing and scope of authority (**section 4**).
+
+When a rule points to this chapter or to an incorporated file, it brings in only the obligations that fall within the adopter's recorded adoption scope.
 
 ### 2. Custody, Editions, and Operative Effect
 <details>

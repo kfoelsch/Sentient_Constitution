@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-15T11:34:46+00:00",
+  "generated_at": "2026-11-15T12:36:25+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -1554,32 +1554,32 @@
       ]
     },
     "core_27.000_expansion_supremacy.md": {
-      "total_lines": 310,
+      "total_lines": 308,
       "sections": [
-        {"header":"CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":1,"line_end":310,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":49,"line_end":80,"anchor":null},
-        {"header":"2. Additive Expansion Permitted","level":3,"line_start":81,"line_end":96,"anchor":null},
-        {"header":"3. Continuity of Supremacy and Challenge Rights during Amendment","level":3,"line_start":97,"line_end":112,"anchor":null},
-        {"header":"4. Supremacy Relative to Other Binding Norms","level":3,"line_start":113,"line_end":183,"anchor":null},
-        {"header":"4.1 Internal Hierarchy for Adopters","level":4,"line_start":129,"line_end":145,"anchor":"#41-internal-hierarchy-for-adopters"},
-        {"header":"4.2 Stricter External Protections","level":4,"line_start":146,"line_end":161,"anchor":"#42-stricter-external-protections"},
-        {"header":"4.3 Conflict Disclosure and Mitigation","level":4,"line_start":162,"line_end":183,"anchor":null},
-        {"header":"5. Disputes Involving External Legal Orders","level":3,"line_start":184,"line_end":232,"anchor":null},
-        {"header":"5.1 Good-Faith Cooperation","level":4,"line_start":199,"line_end":216,"anchor":null},
-        {"header":"5.2 Preserved Internal Review Pathways","level":4,"line_start":217,"line_end":232,"anchor":"#52-preserved-internal-pathways"},
-        {"header":"6. Relation to Applicable External Law","level":3,"line_start":233,"line_end":310,"anchor":null},
-        {"header":"6.1 Non-Displacement and Limited Binding Effect","level":4,"line_start":252,"line_end":282,"anchor":null},
-        {"header":"6.2 Alignment When Used within External Legal Frameworks","level":4,"line_start":283,"line_end":310,"anchor":null}
+        {"header":"CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":1,"line_end":308,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":47,"line_end":78,"anchor":null},
+        {"header":"2. Additive Expansion Permitted","level":3,"line_start":79,"line_end":94,"anchor":null},
+        {"header":"3. Continuity of Supremacy and Challenge Rights during Amendment","level":3,"line_start":95,"line_end":110,"anchor":null},
+        {"header":"4. Supremacy Relative to Other Binding Norms","level":3,"line_start":111,"line_end":181,"anchor":null},
+        {"header":"4.1 Internal Hierarchy for Adopters","level":4,"line_start":127,"line_end":143,"anchor":"#41-internal-hierarchy-for-adopters"},
+        {"header":"4.2 Stricter External Protections","level":4,"line_start":144,"line_end":159,"anchor":"#42-stricter-external-protections"},
+        {"header":"4.3 Conflict Disclosure and Mitigation","level":4,"line_start":160,"line_end":181,"anchor":null},
+        {"header":"5. Disputes Involving External Legal Orders","level":3,"line_start":182,"line_end":230,"anchor":null},
+        {"header":"5.1 Good-Faith Cooperation","level":4,"line_start":197,"line_end":214,"anchor":null},
+        {"header":"5.2 Preserved Internal Review Pathways","level":4,"line_start":215,"line_end":230,"anchor":"#52-preserved-internal-pathways"},
+        {"header":"6. Relation to Applicable External Law","level":3,"line_start":231,"line_end":308,"anchor":null},
+        {"header":"6.1 Non-Displacement and Limited Binding Effect","level":4,"line_start":250,"line_end":280,"anchor":null},
+        {"header":"6.2 Alignment When Used within External Legal Frameworks","level":4,"line_start":281,"line_end":308,"anchor":null}
       ]
     },
     "core_28.000_incorporation.md": {
-      "total_lines": 221,
+      "total_lines": 228,
       "sections": [
-        {"header":"CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":221,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":59,"line_end":99,"anchor":null},
-        {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":100,"line_end":147,"anchor":null},
-        {"header":"3. Safeguards","level":3,"line_start":148,"line_end":184,"anchor":null},
-        {"header":"4. Adoption Framing and Scope of Authority","level":3,"line_start":185,"line_end":221,"anchor":null}
+        {"header":"CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":228,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":57,"line_end":106,"anchor":null},
+        {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":107,"line_end":154,"anchor":null},
+        {"header":"3. Safeguards","level":3,"line_start":155,"line_end":191,"anchor":null},
+        {"header":"4. Adoption Framing and Scope of Authority","level":3,"line_start":192,"line_end":228,"anchor":null}
       ]
     },
     "corpus_systems.md": {
