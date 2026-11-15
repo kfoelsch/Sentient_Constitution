@@ -36,11 +36,11 @@ Chapter Seventeen (Chapters Seventeen–Twenty) is the constitutional owner of *
 
 *In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score. This section says what the chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.*
 
-**Purpose.** Chapter Seventeen answers Question 3 of the standing pipeline: what follows from verified standing records. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed. It converts the verified standing records into consequences, applying the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+**Purpose:** Chapter Seventeen answers Question 3 of the standing pipeline: what follows from verified standing records. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed. It converts the verified standing records into consequences, applying the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
 A **[gated pathway](core_05.035_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§2.2 Prevention — General Standing Locks](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) lists the types.
 
-**Role.** Where this chapter sits:
+**Role:** Where this chapter sits:
 
 - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) come first. This chapter takes their standing records and slots as fixed.
 - Chapters Seventeen through Twenty together own standing integration and standing effects:
@@ -52,7 +52,7 @@ A **[gated pathway](core_05.035_band_accountability.md#gated-pathway)** is a spe
   - Where a case looks like an attack family in [Chapter Twenty-Two §2 Pattern applications and criteria routing](core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), this chapter decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified standing record. Chapter Twenty-One separately decides the ACMD.
 - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) forums supervise these decisions. A forum that verifies a pipeline error or material new facts may set a standing record aside or require it to be updated, corrected, or superseded under Chapter Fifteen ([§2.5 Changes Come Only through Chapter Fifteen](#25-changes-come-only-through-chapter-fifteen)).
 
-**Chapter scope.** The chapter works in this order, and [§3.4 Processing Order](#34-processing-order) sets the full sequence:
+**Chapter scope:** The chapter works in this order, and [§3.4 Processing Order](#34-processing-order) sets the full sequence:
 
 - it starts from the verified standing records, unchanged ([§2 Chapter Seventeen Records Do Not Change](#2-chapter-fifteen-records-do-not-change));
 - it normalizes shared descriptors and attachments without changing either slot ([§4 Descriptor Integration and Attachment Normalization](#4-descriptor-integration-and-attachment-normalization));

@@ -26,15 +26,15 @@ Chapter Eighteen is the constitutional owner of **contribution consequences**: t
 
 *In plain terms: this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*
 
-**Purpose.** Chapter Eighteen decides the effect, if any, of verified contribution at Question 3. It does so in two steps: recency and currentness, then competency bars and clearances for gated pathways that are not locked (**section 2**).
+**Purpose:** Chapter Eighteen decides the effect, if any, of verified contribution at Question 3. It does so in two steps: recency and currentness, then competency bars and clearances for gated pathways that are not locked (**section 2**).
 
-**Role.** The chapter is one of four that together own Question 3, with Chapters [Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows), [Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks), and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement):
+**Role:** The chapter is one of four that together own Question 3, with Chapters [Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows), [Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks), and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement):
 
 - It decides from the contribution standing record only.
 - It takes the decision order from **Chapter Seventeen section 3.4** (*Processing Order*). The contribution track and the violation track do not wait for each other.
 - Its result meets the violation track only at the final standing effect in Chapter Twenty, where a lock controls.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - recency and currentness (**section 2.1**); and
 - competency bars and clearances (**section 2.2**).

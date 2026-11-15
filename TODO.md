@@ -51,11 +51,11 @@ The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](ar
 
 ### Chapter Seven locks, time windows, and related edits — announcement follow-ups
 
-Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
+Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Substantive Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
 
 - [ ] Complete announcement adoption and contest steps for the Chapter Twenty-Six §2 heightened reviews; recorded review fixes were not independently re-reviewed.
 - [ ] Run `make edition-bump` on release day.
-- [ ] Ensure the time-window Test 1 self-check is linked from the relevant PR.
+- [ ] Ensure the time-window Substantive Test 1 self-check is linked from the relevant PR.
 
 ### Backup Record Authority (CF-5.7) — announcement follow-ups
 
@@ -145,6 +145,14 @@ These were recorded as open in moves now archived in [archive/DOC_ARCHITECTURE_M
 - [ ] Measurement seeds (489th move): **Gated Pathway** and **Influence Pathway** have Chapter Five definitions but no approved seed in `tools/architecture/measurement_tier_seeds.json`. Regenerating the definition hierarchy (`make hierarchy-map`) makes `ch5-measurement-coverage-audit` fail until they are seeded, so the hierarchy files stay at their committed state.
 - [ ] Section 2 standard (499th move): section 2 is being standardized as the detailed explanation of why a chapter exists, named "Why [subject] Exists". Chapters 8, 9 and 12 have it. Open: whether Chapter Five §2 and Chapter Six §2 are renamed to the "why" form; where Chapter Twelve's new §2 starts (the cut was my choice and is movable); the other chapters; and an audit that enforces it (CHAPTER-S2-WHY-01 is not audit-enforced yet).
 
+### Project cleanup — open decisions (carried from the archived move log, 2026-11-15)
+
+These were recorded as open in the 509th, 510th and 512th moves, now archived in [archive/DOC_ARCHITECTURE_MOVES_504-518_ARCHIVED_2026-11-15.md](archive/DOC_ARCHITECTURE_MOVES_504-518_ARCHIVED_2026-11-15.md). The audit behind them is the project doc `claude/project-cleanup-audit-2026-11-14.md` (in the Claude project, not in this repository).
+
+- [ ] Stale translation drafts (509th move): about 2,774 chunks in `project/translation_drafts/2026-10-25` quote English that no longer exists in the corpus. They could be dropped from the consolidated files, but that is translation material and English sessions do not edit it; wait for the mapping script (see *Translation synchronization* above) or an explicit instruction.
+- [ ] Near-duplicate archive snapshots (510th move): about seven `MEMLOG_SNAPSHOT` and `TODO_SNAPSHOT` files repeat earlier ones, but `project/MEMLOG.md`, `TODO.md` and the archived move logs point at them by name. They were left in place, and the archive procedure no longer writes new ones. Decide whether to merge them and fix the pointers.
+- [ ] Per-move project docs (512th move): about 160 `claude/*.md` docs in the Claude project predate the one-record-per-move rule. Moving or deleting them means editing the move log, which cites some by name. Separately, the Claude project's own instructions field is not editable from a session; paste the MOVE-LOG-AUTO-01 sentence from `AGENTS.md` there if wanted.
+
 ### P1 — Regression and evidence
 
 - [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree.
@@ -155,6 +163,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-15 archive run (no TODO or MEMLOG item was complete; base commit `ea06617f`):** [archive/DOC_ARCHITECTURE_MOVES_504-518_ARCHIVED_2026-11-15.md](archive/DOC_ARCHITECTURE_MOVES_504-518_ARCHIVED_2026-11-15.md) (moves 504–518; three open items carried into the heading above)
 - **2026-11-14 second archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14b.md](archive/TODO_SNAPSHOT_2026-11-14b.md), [archive/MEMLOG_SNAPSHOT_2026-11-14b.md](archive/MEMLOG_SNAPSHOT_2026-11-14b.md), [archive/DOC_ARCHITECTURE_MOVES_498-503_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_498-503_ARCHIVED_2026-11-14.md) (moves 498–503)
 - **2026-11-14 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14.md](archive/TODO_SNAPSHOT_2026-11-14.md), [archive/MEMLOG_SNAPSHOT_2026-11-14.md](archive/MEMLOG_SNAPSHOT_2026-11-14.md), [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (moves 488–497; open items carried into the heading above)
 - **2026-11-12 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-12.md](archive/MEMLOG_SNAPSHOT_2026-11-12.md), [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)

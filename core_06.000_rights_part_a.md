@@ -45,14 +45,14 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 
 *In plain terms: Chapter Six states the basic Rights Floors no sentient may be pushed below. Those Rights Floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00.000_preamble.md#material-stake). Other chapters help implement, measure, certify, and enforce those Rights Floors, but they do not get to shrink them.*
 
-**Purpose.** Chapter Six states the Rights Floors: the basic guarantees below which no sentient may be pushed. A Rights Floor is a minimum that must stay available, open to inspection, and enforceable before any new rule, certification, category, or plan can be approved. The floors serve both aims: sentients can actually use them (Flourishing), and they last and can be repaired if they break (Continuity).
+**Purpose:** Chapter Six states the Rights Floors: the basic guarantees below which no sentient may be pushed. A Rights Floor is a minimum that must stay available, open to inspection, and enforceable before any new rule, certification, category, or plan can be approved. The floors serve both aims: sentients can actually use them (Flourishing), and they last and can be repaired if they break (Continuity).
 
-**Role.** Chapter Six is the constitutional owner of Rights Floors and rights-level interpretation. Where it sits:
+**Role:** Chapter Six is the constitutional owner of Rights Floors and rights-level interpretation. Where it sits:
 
 - It is read together with Chapters One through Five: the principles, the definition rules, and the definitions, as set out below.
 - Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters. Chapter Six may point to them but must not restate or move their duties (**section 2.2**).
 
-**Chapter scope.** The chapter covers Articles I through XXVIII, in five parts:
+**Chapter scope:** The chapter covers Articles I through XXVIII, in five parts:
 
 - Part A (Articles I–V): planetary conditions, material stewardship, survival, education, and shared resources;
 - Part B (Articles VI–XII): equal standing, self-ownership, family, data, agency, cooperation, and stakeholder participation;

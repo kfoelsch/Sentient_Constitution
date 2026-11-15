@@ -62,9 +62,9 @@ Chapter Two is the constitutional owner of **definition structure and component 
 
 *In plain terms: this section says what this chapter is for, where it sits among the other chapters, and what it covers and leaves out. The rules for building a definition start in the next section.*
 
-**Purpose.** Chapter Two sets how every constitutional definition is built. A definition is more than a name. It must say what the term is (Ontological, O), how it is measured (Measurement, M) and assessed (Assessment, A), and what must be true in practice (Compliance, C). The four parts must agree, and all four must be met for the whole system as it actually runs.
+**Purpose:** Chapter Two sets how every constitutional definition is built. A definition is more than a name. It must say what the term is (Ontological, O), how it is measured (Measurement, M) and assessed (Assessment, A), and what must be true in practice (Compliance, C). The four parts must agree, and all four must be met for the whole system as it actually runs.
 
-**Role.** Chapter Two is the first layer of the definition stack:
+**Role:** Chapter Two is the first layer of the definition stack:
 
 - [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) states the values and constraints that the definitions serve.
 - [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition in practice.
@@ -72,7 +72,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) holds the canonical definitions, written in the shape set here.
 - Later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply with the [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) set here.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the four kinds of component, the job of each, and the rule that all four are met together (**section 2**, including **section 2.1** to **section 2.4**);
 - the Definition Integrity Requirement (**section 3**); and

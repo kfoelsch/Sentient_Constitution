@@ -29,18 +29,18 @@ Chapter Nineteen is the constitutional owner of **violation consequences**: what
 
 *In plain terms: something bad happened. This chapter says how to make a durable fix: remedy and correction first, then prevention locks, then voluntary public accountability expression where a restorative pathway uses it, and the remedy-parity rule that keeps the cheap half from outrunning the expensive half.*
 
-**Purpose.** Chapter Nineteen decides what follows from a verified violation. It states:
+**Purpose:** Chapter Nineteen decides what follows from a verified violation. It states:
 
 - remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 2**); and
 - how a lock is designed and enforced: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds (**section 3**).
 
-**Role.** The chapter is the violation track of Question 3:
+**Role:** The chapter is the violation track of Question 3:
 
 - It decides from the violation standing record alone, and takes the verified violation record and the slot as fixed. It does not reopen [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measurement.
 - It follows the decision order in **Chapter Seventeen section 3.4**. A lock controls: no contribution result opens a gated pathway a lock blocks.
 - It hands its result to the final standing effect in [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement).
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 2**); and
 - how a lock is designed and enforced (**section 3**).

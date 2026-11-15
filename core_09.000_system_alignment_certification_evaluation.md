@@ -88,9 +88,9 @@ Chapter Nine is the constitutional owner of **system alignment certification eva
 
 *In plain terms: When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require recertification on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.*
 
-**Purpose.** Chapter Nine says how a system's alignment is evaluated for certification. The evaluation has to be proportionate, as demanding as the system's impact, dependency, and risk require, and open to the sentients and communities it affects. The system is first classified honestly, and the evaluations that apply to it are then carried out.
+**Purpose:** Chapter Nine says how a system's alignment is evaluated for certification. The evaluation has to be proportionate, as demanding as the system's impact, dependency, and risk require, and open to the sentients and communities it affects. The system is first classified honestly, and the evaluations that apply to it are then carried out.
 
-**Role.** Chapter Nine is the evaluation chapter of system alignment certification. Where it sits:
+**Role:** Chapter Nine is the evaluation chapter of system alignment certification. Where it sits:
 
 - This chapter covers Phase I (Frame) and Phase II (Evaluate), and every evaluation that applies is carried out again at each certification pass.
 - [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes) covers forum supervision and certification outcomes (Phases III and IV).
@@ -98,7 +98,7 @@ Chapter Nine is the constitutional owner of **system alignment certification eva
 - [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) covers the same process for an Institution, with the same section numbers.
 - [CS-9.320 System alignment certification illustrations](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) carries worked illustrations of the evaluation sections.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - why system alignment certification exists, the one question it answers, and the process at a glance (**section 2**);
 - classifying the system by class, which sets how deep the evaluation goes and how often it is repeated (**section 3**);

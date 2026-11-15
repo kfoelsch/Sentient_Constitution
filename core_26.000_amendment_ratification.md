@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Six**: amendment, ratification, and procedural validity (Tests 2–4). **Chapter Twenty-Five** is in [`core_25.000_non_regression.md`](core_25.000_non_regression.md). **Chapter Twenty-Seven** is in [`core_27.000_expansion_supremacy.md`](core_27.000_expansion_supremacy.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Six**: amendment, ratification, and procedural validity (Procedural Tests 2–4). **Chapter Twenty-Five** is in [`core_25.000_non_regression.md`](core_25.000_non_regression.md). **Chapter Twenty-Seven** is in [`core_27.000_expansion_supremacy.md`](core_27.000_expansion_supremacy.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Six lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** amendment and adoption procedure; procedural and custody validity tests (Tests 2–4); review triggers; provisional effect; invalid-change handling; referral of serious bad-faith conduct; ratification documents; amendment procedure requirements.
+> - **Constitutional owner:** amendment and adoption procedure; Procedural Tests 2–4; review triggers; provisional effect; invalid-change handling; referral of serious bad-faith conduct; ratification documents; amendment procedure requirements.
 > - **Substantive non-regression:** **Chapter Twenty-Five**. **Supremacy** and **external legal orders:** **Chapter Twenty-Seven**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
@@ -20,55 +20,51 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) Test 1 and non-regression; [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) (27.000) supremacy and external-order interface; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy context for collective change.
-- Subsections: [§§ 2–13](#2-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and owner non-relocation).
+- Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) Substantive Test 1 and non-regression; [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) (27.000) supremacy and external-order interface; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy context for collective change.
+- Subsections: [§§ 2–13](#2-heightened-review-for-rights-affecting-changes) procedural and custody validity suite: Procedural Tests 2–4, ratification, procedure requirements, and owner non-relocation.
 - Downstream: Adoption documents and edition custody tie to [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045) and [Corpus and Authority Stack](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
-- Read with: [Chapters Two through Four](core_02.000_definition_structure.md) publication, burden, and traceability requirements invoked in Test 2 and §12.
+- Read with: [Chapters Two through Four](core_02.000_definition_structure.md) publication, burden, and traceability requirements invoked in Procedural Test 2 and §12.
 
 </details>
 
 <br>
 
-Chapter Twenty-Six is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, referral of serious bad-faith conduct, ratification documents, and amendment procedure requirements.
+Chapter Twenty-Six is the constitutional owner of **procedural and custody validity** for amendment and adoption (Procedural Tests 2 through 4), review triggers, provisional effect, invalid-change handling, referral of serious bad-faith conduct, ratification documents, and amendment procedure requirements.
 
-
-*In plain terms: this chapter is the procedural and paperwork spine for legitimate change — publish clearly, prove custody of the real text, let independent reviewers and the public contest it, and do not let rights-affecting updates snap irreversibly into place before those guardrails have actually run.*
-
-This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Five** (non-regression), **Chapter Twenty-Seven** (supremacy and external-order interface), and the validity conditions in this chapter.
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.*
+*In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run.*
 
-**Purpose.** Chapter Twenty-Six states Tests 2 to 4 and the rules around them:
+**Purpose:** This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Five** (non-regression), **Chapter Twenty-Seven** (supremacy and external-order interface), subject to the validity conditions in this chapter.
 
-- the framing rules: heightened review for rights-affecting changes (**section 2**), the burden of justification and public traceability (**section 3**), and the validity floor (**section 4**);
-- the three tests: procedural validity and publication integrity (**section 5**), authority-chain and custody validity (**section 6**), and contestability and independent review validity (**section 7**);
-- what happens when review is needed or a change fails: review triggers (**section 8**), the provisional effect rule (**section 9**), and invalid-change handling, remediation continuity, and the referral of serious bad-faith conduct (**section 10**);
-- how a body adopts and how it amends: ratification and adoption (**section 11**) and amendment procedure requirements (**section 12**); and
-- the owner non-relocation rule for this chapter (**section 13**).
+**Role:** The chapter is the procedural half of change validity. It covers whether a change was made the right way, and what happens when it was not:
 
-**Role.** The chapter is the procedural half of change validity:
+- **How closely a change is examined:** changes that affect rights get a harder review (**section 2**), whoever proposes a change must justify it in public (**section 3**), and a change that fails **Chapter Twenty-Five** or any procedural test is invalid even if every step was followed (**section 4**).
+- **The three procedural tests:** each asks a different question about how the change was made.
+  - **Procedural Test 2:** was the proposal properly published, with enough detail and time for **affected** **parties** to respond? (**section 5**)
+  - **Procedural Test 3:** can anyone tell which text is authoritative, who approved it, and when it took effect? (**section 6**)
+  - **Procedural Test 4:** did **affected** **parties** get a real chance to object, with independent review where this chapter requires it? (**section 7**)
+- **When a change needs review or fails:** some kinds of change automatically get the harder review (**section 8**), a high-stakes change cannot become irreversible before review has run (**section 9**), and an invalid change is unwound and remedied, with any serious bad faith referred to the chapters that decide it (**section 10**).
+- **How a body adopts and amends:** how a body adopts this Constitution (**section 11**) and how it is amended (**section 12**).
+- **Staying in its lane:** this chapter sends other chapters' work to them and does not take it over (**section 13**).
 
-- [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) states Test 1, the substance test. Procedural steps cannot save a change that fails it (**section 4**).
-- A body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Seven section 6**).
-- [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) holds custody, editions, and operative effect.
-- When amendment or adoption conduct shows serious bad faith, this chapter opens a referral record and sends it on (**section 10**). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures it and assigns any numeric slot, [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) decides any anti-constitutional-misconduct designation, and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the consequences. This chapter does not label, rank, or sanction the conduct itself.
-
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - heightened review, the burden of justification, and the validity floor (**section 2** to **section 4**);
-- the three procedural tests, Tests 2 to 4 (**section 5** to **section 7**);
+- Procedural Tests 2 to 4 (**section 5** to **section 7**);
 - review triggers, the provisional effect rule, invalid-change handling, and the referral of serious bad-faith conduct (**section 8** to **section 10**);
-- ratification, adoption, and amendment procedure requirements (**section 11** and **section 12**); and
+- ratification, adoption, and amendment procedure requirements (**section 11** and **section 12**), where a body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Seven section 6**); and
 - the owner non-relocation rule (**section 13**).
 
 The chapter leaves:
 
-- numeric Contribution and Violation slots to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
-- anti-constitutional-misconduct designations to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation); and
-- substantive non-regression to Chapter Twenty-Five.
+- numeric Contribution and Violation slots to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it), which measures serious bad-faith conduct and assigns any numeric slot;
+- anti-constitutional-misconduct designations to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation), which decides any anti-constitutional-misconduct designation;
+- the consequences of that conduct to [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows), which applies them;
+- substantive non-regression to [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity), which states Substantive Test 1 (procedural steps cannot save a change that fails it, **section 4**); and
+- custody, editions, and operative effect to [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge).
 
-Escalation wording in this chapter is routing, not a second accountability code.
+When amendment or adoption conduct shows serious bad faith, this chapter opens a referral record and sends it on (**section 10**). This chapter does not label, rank, or sanction the conduct itself.
 
 
 ### 2. Heightened Review for Rights-Affecting Changes
@@ -92,7 +88,7 @@ Any proposed amendment that materially affects Chapter Six Rights Floors, adjudi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-heightened-review-for-rights-affecting-changes) heightened review gate.
-- Downstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Test 2 publication elements; [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) traceability of definitions to results referenced in operative text.
+- Downstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Procedural Test 2 publication elements; [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) traceability of definitions to results referenced in operative text.
 - Read with: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) non-regression compatibility as required justification content.
 
 </details>
@@ -107,7 +103,7 @@ Proposed amendments must provide publicly auditable justification, including exp
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) substantive tests; procedural tests in [§5](#5-test-2--procedural-validity-and-publication-integrity)–[§7](#7-test-4--contestability-and-independent-review-validity).
+- Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) Substantive Test 1; Procedural Tests 2 to 4 in [§5](#5-test-2--procedural-validity-and-publication-integrity)–[§7](#7-test-4--contestability-and-independent-review-validity).
 - Downstream: Operative text: failure of any floor invalidates regardless of procedural completion.
 - Read with: [§10](#10-invalid-change-handling-and-remediation-continuity) remediation when a change fails the floor.
 
@@ -117,31 +113,33 @@ Proposed amendments must provide publicly auditable justification, including exp
 
 *In plain terms: ticking procedural boxes cannot save a change that fails the substance check or the publication, custody, or contestability tests — "we voted" is not a magic spell.*
 
-This chapter states minimum constitutional **procedural and custody** validity conditions for amendment and adoption actions, together with **Chapter Twenty-Five** substantive conditions. Any amendment that fails **Chapter Twenty-Five** or any test in **sections 5 through 7** of this chapter is invalid regardless of procedural completion.
+This chapter states minimum constitutional **procedural and custody** validity conditions for amendment and adoption actions, together with **Chapter Twenty-Five** substantive conditions. Any amendment that fails **Chapter Twenty-Five** or any procedural test in **sections 5 through 7** of this chapter is invalid regardless of procedural completion.
 
 <a id="5-test-2--procedural-validity-and-publication-integrity"></a>
-### 5. Test 2 — Procedural Validity and Publication Integrity
+<a id="5-procedural-test-2--procedural-validity-and-publication-integrity"></a>
+### 5. Procedural Test 2 — Procedural Validity and Publication Integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-validity-floor-rule) validity-floor rule; [§3](#3-burden-of-justification-and-public-traceability) justification content.
-- Downstream: [§6](#6-test-3--authority-chain-and-custody-validity) Test 3 custody; [§12.1](#121-notice-and-contest) notice and contest requirements.
+- Downstream: [§6](#6-test-3--authority-chain-and-custody-validity) Procedural Test 3 custody; [§12.1](#121-notice-and-contest) notice and contest requirements.
 - Read with: [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) burden and traceability requirements cited in operative text.
 
 </details>
 
 <br>
 
-*In plain terms: Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.*
+*In plain terms: Procedural Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.*
 
 A proposed amendment is invalid unless required publication elements are satisfied. Those elements include proposal text, scope, affected provisions, expected impacts, and contest pathways. They must be published with sufficient specificity and lead time for materially affected review. That publication must satisfy **Chapter Four** burden and traceability of definitions to results.
 
 <a id="6-test-3--authority-chain-and-custody-validity"></a>
-### 6. Test 3 — Authority-Chain and Custody Validity
+<a id="6-procedural-test-3--authority-chain-and-custody-validity"></a>
+### 6. Procedural Test 3 — Authority-Chain and Custody Validity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Test 2 publication integrity.
+- Upstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Procedural Test 2 publication integrity.
 - Downstream: [§11](#11-ratification-and-adoption) documents and custody expectations; [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045) consistency requirements.
 - Read with: [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster).
 
@@ -149,12 +147,13 @@ A proposed amendment is invalid unless required publication elements are satisfi
 
 <br>
 
-*In plain terms: Test 3 is the chain-of-custody test — if nobody can tell which text is authoritative, who approved it, or when it took effect, the amendment does not constitutionally exist as binding.*
+*In plain terms: Procedural Test 3 is the chain-of-custody test — if nobody can tell which text is authoritative, who approved it, or when it took effect, the amendment does not constitutionally exist as binding.*
 
 A proposed amendment is invalid where the adoption document, edition identifier, effective date, or custodian chain is missing, contradictory, or materially unreliable. Reliability is measured relative to **section 11** of this chapter (*Ratification and Adoption*) and **Corpus** custody controls.
 
 <a id="7-test-4--contestability-and-independent-review-validity"></a>
-### 7. Test 4 — Contestability and Independent Review Validity
+<a id="7-procedural-test-4--contestability-and-independent-review-validity"></a>
+### 7. Procedural Test 4 — Contestability and Independent Review Validity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -166,7 +165,7 @@ A proposed amendment is invalid where the adoption document, edition identifier,
 
 <br>
 
-*In plain terms: Test 4 blocks amendments that kill meaningful pushback — no fake consultation, no bullying **stakeholders** into waiving audit or standing, and no skipping independent review where the chapter demands it.*
+*In plain terms: Procedural Test 4 blocks amendments that kill meaningful pushback — no fake consultation, no bullying **stakeholders** into waiving audit or standing, and no skipping independent review where the chapter demands it.*
 
 A proposed amendment is invalid if it:
 - forecloses meaningful contest
@@ -177,7 +176,7 @@ A proposed amendment is invalid if it:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-heightened-review-for-rights-affecting-changes)–[§7](#7-test-4--contestability-and-independent-review-validity) validity tests and contestability floor.
+- Upstream: [§2](#2-heightened-review-for-rights-affecting-changes)–[§7](#7-test-4--contestability-and-independent-review-validity) procedural tests and contestability floor.
 - Downstream: [§13](#13-owner-non-relocation) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
 - Read with: [Chapter Twenty §2 — *Final standing effect*](core_20.000_final_effect_restoration_enforcement.md#2-final-standing-effect) (20.000 §2); [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
 
@@ -282,7 +281,7 @@ When the adopter is a jurisdiction or polity, the recorded mechanism must includ
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11.1](#111-deliberate-adoption) deliberate adoption requirement.
-- Downstream: [§6](#6-test-3--authority-chain-and-custody-validity) Test 3 chain checks against document contents.
+- Downstream: [§6](#6-test-3--authority-chain-and-custody-validity) Procedural Test 3 chain checks against document contents.
 - Read with: [README.md](README.md) and [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045) (authoritative corpus and edition identifier expectations).
 
 </details>
@@ -318,7 +317,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Test 2; [§11](#11-ratification-and-adoption) adoption documents.
+- Upstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Procedural Test 2; [§11](#11-ratification-and-adoption) adoption documents.
 - Subsections: [§12.1](#121-notice-and-contest); [§12.2](#122-recorded-effectiveness).
 - Downstream: [§13](#13-owner-non-relocation) procedural-layer discipline restatement.
 - Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).

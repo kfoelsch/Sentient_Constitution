@@ -24,9 +24,9 @@ Chapter Five is the constitutional owner of **foundational definitions**, includ
 
 *In plain terms: this section says what this chapter is for, where it sits among the chapters on structure, integrity, and proof, and what it covers and leaves out. The rule that keeps each term in one place follows it.*
 
-**Purpose.** Chapter Five answers what each foundational term means, including the Authority Stack and Internal Hierarchy and the Corpus, and where its one official home is (**section 2**).
+**Purpose:** Chapter Five answers what each foundational term means, including the Authority Stack and Internal Hierarchy and the Corpus, and where its one official home is (**section 2**).
 
-**Role.** The chapter is the naming layer of the definition stack, and it holds the terms the other layers work on:
+**Role:** The chapter is the naming layer of the definition stack, and it holds the terms the other layers work on:
 
 - [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) says how every definition is built, [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition, and [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) says who must prove compliance, and how. This chapter takes that mechanics as fixed.
 - Later chapters and implementation text apply Chapter Five terms under the rule in **section 2**.
@@ -37,7 +37,7 @@ Two rules govern how another chapter meets a Chapter Five definition once it inv
 - an independent definition, once invoked, is met in full across its Ontological, Measurement, Assessment, and Compliance parts (**section 3**); and
 - the members of a dependent cluster are met together, and no member is a shortcut around the rest (**section 4**).
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the canonical home and non-duplication rule (**section 2**);
 - the meta rules for independent definitions (**section 3**) and for dependent clusters (**section 4**); and

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_27.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **828** of **1328** headings carry a gloss (62%).
+Coverage: **827** of **1328** headings carry a gloss (62%).
 
 ## Contents
 
@@ -57,7 +57,7 @@ Coverage: **828** of **1328** headings carry a gloss (62%).
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_24.000_governance.md` (13/15 glossed)
 - [CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-five-non-regression-and-substantive-amendment-validity) — `core_25.000_non_regression.md` (5/6 glossed)
-- [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (19/19 glossed)
+- [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (18/19 glossed)
 - [CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) — `core_27.000_expansion_supremacy.md` (14/14 glossed)
 - [CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE](#chapter-twenty-eight-incorporation-bridge) — `core_28.000_incorporation.md` (5/5 glossed)
 
@@ -7679,7 +7679,7 @@ Source file: [`core_25.000_non_regression.md`](../../core_25.000_non_regression.
 
 #### 1. Purpose, Role, and Scope
 
-a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, guidance, a temporary measure, or an emergency label. This chapter is Test 1, the substance test.
+a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, guidance, a temporary measure, or an emergency label. This chapter is Substantive Test 1.
 
 [Source](../../core_25.000_non_regression.md#1-purpose-role-and-scope)
 
@@ -7689,9 +7689,9 @@ weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constr
 
 [Source](../../core_25.000_non_regression.md#2-non-regression-floor)
 
-#### 3. Test 1 — Substantive Non-Regression Validity
+#### 3. Substantive Test 1 — Substantive Non-Regression Validity
 
-Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.
+Substantive Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.
 
 [Source](../../core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity)
 
@@ -7709,11 +7709,11 @@ Chapter Twenty-Five can demand extra review, preserve evidence, or pause things 
 
 ## CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 
-Source file: [`core_26.000_amendment_ratification.md`](../../core_26.000_amendment_ratification.md) · 19/19 headings glossed
+Source file: [`core_26.000_amendment_ratification.md`](../../core_26.000_amendment_ratification.md) · 18/19 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.
+a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run.
 
 [Source](../../core_26.000_amendment_ratification.md#1-purpose-role-and-scope)
 
@@ -7735,21 +7735,21 @@ ticking procedural boxes cannot save a change that fails the substance check or 
 
 [Source](../../core_26.000_amendment_ratification.md#4-validity-floor-rule)
 
-#### 5. Test 2 — Procedural Validity and Publication Integrity
+#### 5. Procedural Test 2 — Procedural Validity and Publication Integrity
 
-Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.
+Procedural Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.
 
 [Source](../../core_26.000_amendment_ratification.md#5-test-2--procedural-validity-and-publication-integrity)
 
-#### 6. Test 3 — Authority-Chain and Custody Validity
+#### 6. Procedural Test 3 — Authority-Chain and Custody Validity
 
-Test 3 is the chain-of-custody test — if nobody can tell which text is authoritative, who approved it, or when it took effect, the amendment does not constitutionally exist as binding.
+Procedural Test 3 is the chain-of-custody test — if nobody can tell which text is authoritative, who approved it, or when it took effect, the amendment does not constitutionally exist as binding.
 
 [Source](../../core_26.000_amendment_ratification.md#6-test-3--authority-chain-and-custody-validity)
 
-#### 7. Test 4 — Contestability and Independent Review Validity
+#### 7. Procedural Test 4 — Contestability and Independent Review Validity
 
-Test 4 blocks amendments that kill meaningful pushback — no fake consultation, no bullying **stakeholders** into waiving audit or standing, and no skipping independent review where the chapter demands it.
+Procedural Test 4 blocks amendments that kill meaningful pushback — no fake consultation, no bullying **stakeholders** into waiving audit or standing, and no skipping independent review where the chapter demands it.
 
 [Source](../../core_26.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity)
 

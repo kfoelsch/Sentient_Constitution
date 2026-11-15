@@ -60,14 +60,14 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 
 *In plain terms: before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. This chapter says who must publish a System Charter or an Institutional Charter, what each must state, and how it is checked and kept true. Nobody needs permission to form.*
 
-**Purpose.** Chapter Seven decides:
+**Purpose:** Chapter Seven decides:
 
 - when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P);
 - the minimum each must state;
 - how each changes and is reviewed; and
 - the formation check on the standing and authenticity of the holders of covered offices.
 
-**Role.** The chapter follows the [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floor and comes before the seats in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties):
+**Role:** The chapter follows the [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floor and comes before the seats in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties):
 
 - It applies the terms System Charter, Institutional Charter, Charter Role Map, Chartered Party, and Operating Party, which [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) defines. It does not redefine them.
 - **Chapter Eight section 6** (*Published Placement, Vacancy, and Substitution*) requires the Charter Role Map this chapter describes.
@@ -75,7 +75,7 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 - **Chapter Fifteen section 6** applies the Charter Role Map to standing records, and **Chapter Twenty-Three section 4.3** hears disputes about the Institutional Charter.
 - CI-8.205 (*Institutional Design, Separation of Powers, and Authority Custody*) **section 6** holds the full field template, review checklist, and formation procedure. It may be stricter and may not narrow this chapter.
 
-**Chapter scope.** The chapter covers, in order:
+**Chapter scope:** The chapter covers, in order:
 
 - when Charters are required (**section 2**);
 - the right to form and five narrow limits (**section 3**);

@@ -74,6 +74,6 @@ Git commands run on the device leave `.git/*.lock` files, because deleting is bl
 
 Pull requests: the Claude Code UI auto-generates PR bodies and can mislabel them (wrong lane, "no change of meaning", wrong model). After a PR is created, correct the body so it says what changed and which files were touched.
 
-**Lanes are not enforced before the announcement (custodian decision, 2026-10-07).** The repo is pre-release, so the `CONTRIBUTING.md` lane gates (Proposal issue, obligation snapshot/diff, evidence folder, Test 1 self-check) do not block merging. Keep `make regression` green and the PR body accurate. The lanes apply after the announcement.
+**Lanes are not enforced before the announcement (custodian decision, 2026-10-07).** The repo is pre-release, so the `CONTRIBUTING.md` lane gates (Proposal issue, obligation snapshot/diff, evidence folder, Substantive Test 1 self-check) do not block merging. Keep `make regression` green and the PR body accurate. The lanes apply after the announcement.
 
 Chapter numbering: use `tools/architecture/chapter_numbers.json` as the source; never derive chapter numbers by splitting filename digits. After an intentional renumbering, update every front door and Mermaid chart that lists the changed chapters, regenerate indexes, run `make chapter-number-audit`, `make chapter-number-audit-test`, and `make audit-report`. Preserve translation files and translation work.

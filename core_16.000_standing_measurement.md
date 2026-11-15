@@ -42,16 +42,16 @@ Chapter Sixteen is the constitutional owner of **Question 2**, which measures th
 
 *In plain terms: Chapter Fifteen settles what happened and who holds the standing record. Question 2 measures those verified facts. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score. What follows from the measurement is Chapter Seventeen.*
 
-**Purpose.** Chapter Sixteen answers Question 2: how good a verified contribution was, or how bad a verified violation was. It measures each on its own axis, on one common scale, the LEQU scale. For each applicable axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 3.1**).
+**Purpose:** Chapter Sixteen answers Question 2: how good a verified contribution was, or how bad a verified violation was. It measures each on its own axis, on one common scale, the LEQU scale. For each applicable axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 3.1**).
 
-**Role.** The chapter sits in the middle of the standing pipeline:
+**Role:** The chapter sits in the middle of the standing pipeline:
 
 - It takes the facts already verified under **Chapter Fifteen section 3** and written into the standing record under **Chapter Fifteen section 5** as fixed.
 - It hands the slot and descriptors to Chapter Seventeen, starting at **section 4** (*Descriptor Integration and Attachment Normalization*).
 - Chapter Sixteen alone assigns the numeric slot. [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
 - The common scale compares magnitude, not moral worth, and never lets help cancel harm.
 
-**Chapter scope.** The chapter begins at [§2 Question 2 — How Good or Bad Was It?](#2-question-2--how-good-or-bad-was-it). It covers:
+**Chapter scope:** The chapter begins at [§2 Question 2 — How Good or Bad Was It?](#2-question-2--how-good-or-bad-was-it). It covers:
 
 - Question 2, with the LEQU baseline and its limits (**section 2**), and its chapter scope and routing to the harm side and the benefit side (**section 2.3**);
 - the magnitude and severity input dimensions (**section 3**);

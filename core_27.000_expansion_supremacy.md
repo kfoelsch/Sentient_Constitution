@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) non-regression and Test 1;
+  - [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) non-regression and Substantive Test 1;
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy), and related
   - [Corpus](core_05.045_band_integrative.md#corpus) boundary concepts.
@@ -50,7 +50,7 @@ Chapter Twenty-Seven is the constitutional owner of **additive expansion of prot
 
 *In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.*
 
-**Purpose.** Chapter Twenty-Seven states what is permitted and what holds when this Constitution meets other rules:
+**Purpose:** Chapter Twenty-Seven states what is permitted and what holds when this Constitution meets other rules:
 
 - additive expansion, which is permitted (**section 2**);
 - supremacy and challenge rights, which stay in force during amendment (**section 3**);
@@ -58,13 +58,13 @@ Chapter Twenty-Seven is the constitutional owner of **additive expansion of prot
 - disputes involving external legal orders (**section 5**); and
 - how this Constitution relates to applicable external law, including non-displacement and limited binding effect (**section 6**).
 
-**Role.** The chapter works with its two neighbors on change and adoption:
+**Role:** The chapter works with its two neighbors on change and adoption:
 
 - The guardrail on expansion is Chapter Twenty-Five.
 - A body can bind itself only by adopting through Chapter Twenty-Six, and only as far as it already has lawful authority to bind itself.
 - **Chapter Twenty-Eight section 4** applies where partial adoption could shrink duties an entity already bears.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - additive expansion (**section 2**);
 - continuity of supremacy and challenge rights during amendment (**section 3**);
@@ -74,7 +74,7 @@ Chapter Twenty-Seven is the constitutional owner of **additive expansion of prot
 
 The chapter leaves:
 
-- the test for whether a change is valid to Chapters [Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity); and
+- the tests for whether a change is valid (Substantive Test 1 and Procedural Tests 2 to 4) to Chapters [Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity); and
 - the incorporation bridge, custody, and operative effect of adopted text to [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge).
 
 
@@ -82,7 +82,7 @@ The chapter leaves:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Seven](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) non-regression (expansion must not violate Test 1).
+- Upstream: [Chapter Twenty-Seven](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) non-regression (expansion must not violate Substantive Test 1).
 - Downstream: [§3](#3-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters One through Five consistency checks in operative text*).
 - Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) when additions implicate new rights or classes.
 
