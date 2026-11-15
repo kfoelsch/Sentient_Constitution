@@ -42,5 +42,9 @@
     "log_location": "Technical Forum Domains intake-decline register, sampled by Integrity.",
     "integrity_sample_cadence": "Monthly sample of declined filings, with accelerated review when declines concentrate on one Substrate Class, parent system, or operator.",
     "floor_indicator_set": "Published floor set under Sentience Evaluation / Sentience Indicator Integrity; no intake desk may treat a listed floor indicator as insufficient on its own."
+  },
+  "subject_count": {
+    "count": null,
+    "basis": "The group is made up of separate animals, each with its own ongoing state and its own decisions; the number of individuals in the group is not yet established."
   }
 }

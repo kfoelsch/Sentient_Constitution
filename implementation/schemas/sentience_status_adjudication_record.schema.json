@@ -194,6 +194,29 @@
         }
       }
     },
+    "subject_count": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Optional. Present where it was in question how many distinct subjects are present (Chapter Five Sentient, Subject Count). This field records what was found; it does not decide who counts. Protection does not wait for the count.",
+      "required": ["count", "basis"],
+      "properties": {
+        "count": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "description": "Number of distinct subjects found. Null while the count is unsettled."
+        },
+        "basis": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The facts relied on under own continuity, own decisions, and the branch rule."
+        },
+        "branches_treated_as_part_of_a_subject": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Any branches treated as part of a subject, with the facts relied on."
+        }
+      }
+    },
     "intake_decline_log": {
       "type": "object",
       "additionalProperties": false,

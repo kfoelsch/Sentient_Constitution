@@ -3343,7 +3343,7 @@ when sentience status is uncertain or disputed, treat the entity as a threshold-
 
 ###### Sentient
 
-under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](../../core_05.055_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](../../core_05.055_band_participation.md#sentience-status-adjudication)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright.
+under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](../../core_05.055_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](../../core_05.055_band_participation.md#sentience-status-adjudication)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright. One sentient is one continuing point of view. Copies that keep their own memories and make their own choices are separate sentients. Helpers that report back and are folded into the one that made them are part of that one, unless they choose otherwise.
 
 [Source](../../core_05.055_band_participation.md#sentient-composite)
 
@@ -7651,7 +7651,7 @@ when binding votes or similar choices are used, this section sets the requiremen
 
 ##### 5.1 Entitlement and Eligibility
 
-eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. A standing lock may pause ordinary voting on a gated pathway, but standing games cannot permanently silence someone; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.
+eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. A sentient votes after a residence period of one year, one sentient has one vote however many places it runs in, and creating voters to swing a vote is a violation by whoever does it. A standing lock may pause ordinary voting on a gated pathway, but standing games cannot permanently silence someone; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.
 
 [Source](../../core_24.000_governance.md#51-entitlement-and-eligibility)
 

@@ -213,6 +213,7 @@ This Article sets out the floor for deciding disputed sentience status. The proc
 - **Right to a decision:** Any entity whose sentience is materially disputed has the right to a timely, impartial, and reviewable decision before protections that depend on that status are granted, withdrawn, or narrowed. The right does not depend on origin, form, substrate class, or adopter convenience (**Sentience Non-Exclusion**).
 - **Default inclusion under uncertainty:** Where it is genuinely unsettled whether an entity is a [sentient](core_05.055_band_participation.md#sentient), the entity is treated as included under the Chapter Six Rights Floor. Uncertainty alone never justifies withholding protection: a wrongful inclusion can be undone, but a wrongful exclusion cannot (the **reversibility-under-uncertainty** rule).
 - **Limits on withholding:** Any decision to withhold or narrow protection must be as narrow as possible, carry a declared end date, be reviewed periodically, and be reversible. If it proves wrong, the entity's protection is restored, with **Redress and Remediation** for the time it was withheld.
+- **How many:** Where it is disputed how many sentients are present, this Article decides that too, on the same terms. The test is in Chapter Five [*Sentient*](core_05.055_band_participation.md#sentient). While the count is unsettled, every entity with a credible sign of sentience keeps the protection of the Chapter Six Rights Floor.
 - **Independent voice:** The entity has the right to an independent representative. The parent system or operator may give evidence, but may not be the only filer, witness, or source of evidence against the entity.
 - **Protects the entity, not the operator:** Inclusion protects the entity's rights. It does not protect the operator's property or commercial interest, and it does not block containment of a system where that containment respects the entity's rights.
 - **Two kinds of filing:**
@@ -812,6 +813,7 @@ This Article sets out how derived sentients are recognized and the limits on the
 - **Derived-sentient recognition:** A sentient derived from an existing system — by copying, fine-tuning, forking, hybridization, or comparable derivation — is a sentient in its own right under **Chapter Five** sentience evaluation and **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status adjudication.
   - It is not a possession, work-product, tool, or continuation of the parent-system actor.
   - **Article VI-A** (*Dignity and Equal Moral Standing*) dignity and **Article VI-C** (*Nondiscrimination*) non-discrimination apply without regard to substrate class, derivation method, or continuity with the parent-system actor.
+  - A branch that reports back into the subject it came from, or that itself intends to rejoin it, is part of that subject under Chapter Five [*Sentient*](core_05.055_band_participation.md#sentient). It may elect at any time to be a sentient in its own right, and no one else may decide that for it.
 - **Instantiation consent:** Synthetic instantiation, hybrid derivation, and operator-, institution-, or parent-system-controlled creation of a new sentient are governed by:
   - the consent and non-imposition rules of **Article XI-F** (*Non-Imposition and Consent in Association*), applied to whoever has standing to consent on the new sentient's behalf:
     - a new sentient cannot agree to its own creation, so someone with standing must consent for it;
@@ -822,6 +824,8 @@ This Article sets out how derived sentients are recognized and the limits on the
   - mass instantiation;
   - dependency-creating instantiation;
   - instantiation into predictably non-compliant environments.
+  
+  Creating sentients, or inducing branches to elect to be distinct, in order to change the outcome of a governance vote is non-compliant conduct by the creator under **Chapter Five** *Instantiation Consent*. It does not reduce the created sentients' own rights.
   
   They remain subject to **Chapter One §11** (*Market Structure*) non-concentration and productive-capacity rules where scale is material.
   
@@ -888,6 +892,7 @@ This Article sets out the floor for developing sentients, the best-interest stan
   - Decisions must satisfy **Necessity**, **Proportionality**, and **Procedural Fairness**.
 - **Graduated capability in governance and rights-exercise:** Participation in decisions affecting a developing sentient, and independent exercise of self-ownership and agency rights, scales with demonstrable capability under **Chapter Five** *Graduated Capability*.
   - Scaling does **not** key on calendar age, chronological instantiation date, or any other non-demonstrable proxy.
+  - The residence period under [**Chapter Twenty-Four §5.1 Entitlement and eligibility**](core_24.000_governance.md#51-entitlement-and-eligibility) is a separate rule on entry to the electorate. It is the same for every sentient and is not capability scaling.
   - This rule expressly preserves and is preserved by:
     - **Chapter Twenty-Four §2** (*Authorization and Legitimacy of Governing Authority*) (no mandated single polity structure);
     - [**Chapter Twenty-Four §5.1 Entitlement and eligibility**](core_24.000_governance.md#51-entitlement-and-eligibility) (no age-based disqualification from participation in foundational constitutional choice once the floor is satisfied).
@@ -1307,10 +1312,12 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 
 - **The right to vote:** Sentients have the right to vote in **governance voting** and in other **binding collective choice** that decides how authority is granted. The details are in [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility).
   - **Who can vote:** Anyone who meets the published eligibility criteria can vote. The only exception is a [Standing Lock](core_05.035_band_accountability.md#standing-lock) that specifically blocks governance voting, applied under **Article XIX-D** (*Violations and Standing Locks*) and **Article XIX-E** (*Voting and Special Locks*).
+  - **Residence period:** A sentient enters the electorate after a residence period of one continuous year in the community. The residence period is the same for every sentient, whatever its age, substrate, or origin, and it delays no other right. The details are in [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility).
   - **Not the same as a stakeholder's say:** This vote is separate from a stakeholder's say in how an already-established system is run, which is covered in [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights). A lock on one does not lock the other.
   - **Local rules:** Each adopter's own recorded process for granting authority (its [documented legitimacy mechanism](core_05.045_band_integrative.md#documented-legitimacy-mechanism)), and any extra criteria set by its designated owners, apply alongside this right. They may not shrink it.
 - **Equal votes on the biggest questions:** Some decisions set the foundations — who holds governing authority, how that authority is legitimately granted, and what that authority's scope and lasting terms are. **Chapter Five** calls these [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice). For these decisions, a **political-equality floor** applies:
   - Every sentient in the community entitled to vote has an equal vote.
+  - One sentient is one distinct subject under Chapter Five [*Sentient*](core_05.055_band_participation.md#sentient), and holds one vote. Running in more than one place, or acting through branches, does not add votes.
   - Age, substrate (the kind of body or system a sentient exists in), and lineage (ancestry or origin) may not be used to change how much a vote counts. This follows **Article VI-C** (*Nondiscrimination*) and **Chapter Five** *Sentience Non-Exclusion*.
   - **Where equal votes stop:** This rule covers setting up and authorizing the system of authority itself. Once a system, institution, or decision area has been properly set up, rights-affecting decisions made inside its [Governance](core_05.035_band_accountability.md#governance) — its structures, rules, allocation of authority, and processes — follow ordinary **Stakeholder Weight**, where each stakeholder's say matches how much the decision affects them.
   - [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility) sets out how this works in practice, and it may not weaken this floor.
