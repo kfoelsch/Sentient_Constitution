@@ -47,7 +47,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 
 **What XIII-A already says.** The contestability guarantee requires a usable path to challenge and review, audit under Article XVI, and "no narrowing of any of these because the system is certified, officially recognized, or widely relied on." That covers narrowing by a system's status. It does not mention narrowing by adopted implementation text.
 
-**What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Twenty-Six §4.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
+**What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Twenty-Seven §4.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
 
 **The parallel that exists.** Article XVI (`core_06.020_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
 

@@ -46,7 +46,7 @@ Chapter One, Part D is the constitutional owner of **constitutional interpretati
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*);
   - [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) (*custody, editions, adoption framing* — not a second conflict-order home);
   - [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) and
-  - [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) (26.000) (*non-regression and adopter hierarchy gates under
+  - [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) (27.000) (*non-regression and adopter hierarchy gates under
   - [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
 - Read with: [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
 - Read with: [Chapter Eight: Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
@@ -360,7 +360,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 **Operative sequence.** Apply the following **in this order**:
 
-1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Twenty-Five** non-regression constraints, and **Chapter Twenty-Six** internal hierarchy rules before resolving lower layers.
+1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Twenty-Five** non-regression constraints, and **Chapter Twenty-Seven** internal hierarchy rules before resolving lower layers.
 2. **Binding constitutional reading:** Within the binding constitutional source, apply **[§15.4.1 Integrated Reading](#1541-integrated-reading)** and, only if genuine residual incompatibility remains, **[§15.4.2 Last-Resort Internal Hierarchy](#1542-last-resort-internal-hierarchy)**.
 3. **Incorporated obligations:** Then apply incorporated obligations under **[§15.4.3 Incorporation Layer](#1543-incorporation-layer)** and **[§15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)**.
 
@@ -375,7 +375,7 @@ Apply **[§15.2 Definitional Layer and Required Disciplines](#152-definitional-l
 <a id="1542-last-resort-internal-hierarchy"></a>
 ##### 15.4.2 Last-Resort Internal Hierarchy
 
-Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twenty-Six** (*Internal Hierarchy for Adopters*) — lives in the [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) cluster in Chapter Five.
+Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twenty-Seven** (*Internal Hierarchy for Adopters*) — lives in the [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) cluster in Chapter Five.
 
 If a genuine incompatibility remains after integrated reading under **§15.4.1** (*Integrated Reading*):
 - principles control over articles

@@ -22,8 +22,6 @@
 
 Chapter Twenty-Four is the constitutional owner of **constitutional-contract legitimacy, stewardship direction, concentration, and democratic checks**.
 
-This chapter states the **Constitutional Contract Layer**: constitutional legitimacy and stewardship requirements for governing authority itself. It defines who may govern, what permits governing power, and what stewardship character must be maintained.
-
 ### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -38,7 +36,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 
 *In plain terms: this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.*
 
-**Purpose.** Chapter Twenty-Four states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. The minimum bar lives here.
+**Purpose.** Chapter Twenty-Four states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. It defines who may govern, what permits governing power, and what stewardship character must be maintained. The minimum bar lives here.
 
 **Role.** The chapter sets constitutional requirements for governing authority itself, not full operating detail:
 
@@ -66,7 +64,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 - Subsections: [§2.1](#21-mechanism-families-auditability-and-pluralism) (*Mechanism Families, Auditability, and Pluralism*); [§2.2](#22-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, Contested Selection, and Democratic Minimums*); [§2.3](#23-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under
   - [§§ 3–6](#3-ethical-culture-and-integrity-federated-scale); adoption and ratification under
-  - [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000); legitimacy, participation, and contestability in Chapter Six — especially
+  - [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000); legitimacy, participation, and contestability in Chapter Six — especially
   - [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation),
   - [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints),
   - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
@@ -140,7 +138,7 @@ Recognized mechanism families include:
   - renewal or reauthorization cadence; and
   - material limits on delegated power.
   Auditability must be proportionate to the classification under [CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications), and to **material impact** under Chapter Five ([*Material*](core_05.050_band_oversight.md#material), [*Dependency*](core_05.040_band_continuity.md#dependency), [*Stakeholder*](core_05.055_band_participation.md#stakeholder)).
-- **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by [**Chapter Twenty-Seven §11** (*Ratification and Adoption*)](core_27.000_amendment_ratification.md#11-ratification-and-adoption).
+- **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by [**Chapter Twenty-Six §11** (*Ratification and Adoption*)](core_26.000_amendment_ratification.md#11-ratification-and-adoption).
 
 **Contestation, correction, and pluralism**
 
@@ -208,7 +206,7 @@ Recognized mechanism families include:
     - It must look for leaks. A rise in funding through a channel the rules do not cover, or decisions that repeatedly favor funders with a material stake, is evidence that the rules need changing.
     - It must revise the rules where it finds such evidence.
 - **Dependency:** Support that creates material dependency between the selected sentient and the supporter is a conflict under **Article XII-D** (*Non-Capture Safeguards*). It must be disclosed, and the selected sentient must recuse from matters in which the supporter has a material stake.
-- **Mechanism-neutral:** These boundaries set no spending limit and require no public financing. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law) provides.
+- **Mechanism-neutral:** These boundaries set no spending limit and require no public financing. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law) provides.
 - **Opposition protection:** These rules must not be used to deter the organizing, communication, and dissent protected by **opposition protection** above.
 
 **Forum appointment independence requirement**
@@ -507,7 +505,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 **Cross-reference (section 5):** Subsections **4.1–4.2** state voting requirements together with **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 
-**Cross-reference (Chapter Twenty-Four):** Documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Eight**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Six**. **Non-regression** substantive limits appear in **Chapter Twenty-Five**.
+**Cross-reference (Chapter Twenty-Four):** Documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Eight**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Seven**. **Non-regression** substantive limits appear in **Chapter Twenty-Five**.
 
 ### 6. Authorized Roles, Competency Development, and Contribution
 <details>

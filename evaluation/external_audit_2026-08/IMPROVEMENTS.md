@@ -19,7 +19,7 @@ These are real comparative losses. They are **not** viable corpus patches:
 |---|---|
 | Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
 | A number in core for carbon / planetary boundaries | [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
-| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Twenty-Six **expansion of protection**, not a hole-fill. Hold as C2. |
+| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Twenty-Seven **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
 | Delete the standing pipeline to “simplify” | Would hollow Test 1, certification-before-standing, and anti-self-judging — the process strengths the audit scored Better. |
 
@@ -58,11 +58,11 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ## Band B — close comparative gaps without changing the instrument’s kind — **done this edition**
 
-Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Twenty-Six expansion check if a later change raises a Rights Floor.
+Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Twenty-Seven expansion check if a later change raises a Rights Floor.
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Twenty-Seven §11.2](../../core_27.000_amendment_ratification.md#112-adoption-document). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Twenty-Six §11.2](../../core_26.000_amendment_ratification.md#112-adoption-document). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
@@ -82,7 +82,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B5. Polity-adopter ratification minimum — **done**
 
-**Home:** [Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#111-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
+**Home:** [Chapter Twenty-Six §11.1](../../core_26.000_amendment_ratification.md#111-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
 **Do not:** Require “we the people of Earth.”
 
 ---
@@ -93,8 +93,8 @@ Not defects. Do not schedule until [EXPERT_TOR.md](EXPERT_TOR.md) reviewers spea
 
 | ID | Question | If yes, it is |
 |---|---|---|
-| C1 | Upgrade Natural Systems Standing to Rights-of-Nature personhood? | Chapter Twenty-Six expansion, not a patch |
-| C2 | Default-include scientifically high-consensus taxa as Sentient (e.g. taxa covered by the 2024 New York Declaration)? | Chapter Twenty-Six expansion of who-counts |
+| C1 | Upgrade Natural Systems Standing to Rights-of-Nature personhood? | Chapter Twenty-Seven expansion, not a patch |
+| C2 | Default-include scientifically high-consensus taxa as Sentient (e.g. taxa covered by the 2024 New York Declaration)? | Chapter Twenty-Seven expansion of who-counts |
 | C3 | Does process complexity defeat Tetrad participation/timeliness in live steward use? | If yes, A5 is not enough — need a corpus-length cut plan that still preserves Test 1 and anti-self-judging |
 
 ---

@@ -273,7 +273,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
   - [Article XI-B](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*);
   - [Article XIV-C](core_06.020_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
   - [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (21.000 §4) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*);
-  - [Chapter Twenty-Seven §2](core_27.000_amendment_ratification.md#2-heightened-review-for-rights-affecting-changes) (27.000 §2) (*Heightened Review for Rights-Affecting Changes*).
+  - [Chapter Twenty-Six §2](core_26.000_amendment_ratification.md#2-heightened-review-for-rights-affecting-changes) (26.000 §2) (*Heightened Review for Rights-Affecting Changes*).
 
 </details>
 

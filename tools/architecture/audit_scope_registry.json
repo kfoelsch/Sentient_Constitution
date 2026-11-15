@@ -498,8 +498,8 @@
     "core_23.000_forum.md",
     "core_24.000_governance.md",
     "core_25.000_non_regression.md",
-    "core_26.000_expansion_supremacy.md",
-    "core_27.000_amendment_ratification.md",
+    "core_26.000_amendment_ratification.md",
+    "core_27.000_expansion_supremacy.md",
     "core_28.000_incorporation.md"
    ],
    "reason": "Core chapters and the four registry annexes carry the file-top Corpus placement widget; the adopted-implementation target checks every other subfile."
@@ -776,7 +776,7 @@
     "core_19.000_violation_consequences.md",
     "core_20.000_final_effect_restoration_enforcement.md",
     "core_23.000_forum.md",
-    "core_27.000_amendment_ratification.md",
+    "core_26.000_amendment_ratification.md",
     "core_28.000_incorporation.md",
     "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md",
     "corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md",

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Publishing a note from this page is not [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption and not [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation.
+> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Publishing a note from this page is not [Chapter Twenty-Six §11](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption and not [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation.
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
+- Upstream: [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Twenty-Six §11](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-the-announcement); [§2](#2-say-and-do-not-say); [§3](#3-audience-notes); [§4](#4-publishing-checklist).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../README.md`](../../README.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
 
@@ -31,7 +31,7 @@ This page holds the public announcement for this Constitution and the rules for 
 
 *In plain terms: this page supplies words and routing. It does not found, adopt, or certify anything.*
 
-This Constitution is a **model constitution** for systems that materially affect sentients ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). It becomes enforceable for a particular body only after that body records a [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption document in its own custody. Until then the honest public invitation is: read it, use it as an operations guide, and say so plainly.
+This Constitution is a **model constitution** for systems that materially affect sentients ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). It becomes enforceable for a particular body only after that body records a [Chapter Twenty-Six §11](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption document in its own custody. Until then the honest public invitation is: read it, use it as an operations guide, and say so plainly.
 
 Public readers land at [`../../README.md`](../../README.md). Would-be adopters and operators continue to [`../../START_HERE.md`](../../START_HERE.md). Fit ranking stays in [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). This page does not add adopter types, duties, or a compliance path.
 
@@ -42,7 +42,7 @@ Public readers land at [`../../README.md`](../../README.md). Would-be adopters a
 
 This page does **not**:
 
-- Count as [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Twenty-Six §11](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Drop the **pre-release** banner, bump `SC-Corpus-2026.10.21`, or stand in for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 - Claim AI handoff readiness ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5)
@@ -112,13 +112,13 @@ What it is not
 - It is not law. It binds no one who has not adopted it.
 - Reading it, forking it, or saying "we follow it" is not adoption.
   Adoption happens only when a body that can bind its own systems
-  records a formal adoption document under Chapter Twenty-Seven.
+  records a formal adoption document under Chapter Twenty-Six.
 - It does not supersede local, national, or international law.
   Adoption binds only the adopting body, and only as far as that
   body already has lawful authority to bind itself. Where the
   Constitution is used inside an existing legal framework, its
   processes and participation must stay consistent with that
-  framework. (Chapter Twenty-Six)
+  framework. (Chapter Twenty-Seven)
 - It does not bind vendors, platforms, or anyone else who did not
   agree to it.
 
@@ -150,8 +150,8 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | Say | Do not say |
 |---|---|
 | **Pre-release.** Edition `SC-Corpus-2026.10.21`; section links may change. | “This is the launch.” “This is the publication cut.” |
-| **Model constitution.** It may guide now. It binds a body only after that body records a Chapter Twenty-Seven adoption document ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). | “We launched it as law.” “Our org / city / protocol has adopted it” — unless that adoption document exists. |
-| **Does not supersede applicable law.** Publication is not a claim of supremacy over local, national, or international law. Adoption binds only the adopting body, within its lawful authority and recorded scope ([Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). Where used inside an external legal framework, processes and participation must stay consistent with that framework. | “This Constitution now overrides city / national / treaty law.” “Using it as an operations guide displaces our regulator.” |
+| **Model constitution.** It may guide now. It binds a body only after that body records a Chapter Twenty-Six adoption document ([Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). | “We launched it as law.” “Our org / city / protocol has adopted it” — unless that adoption document exists. |
+| **Does not supersede applicable law.** Publication is not a claim of supremacy over local, national, or international law. Adoption binds only the adopting body, within its lawful authority and recorded scope ([Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). Where used inside an external legal framework, processes and participation must stay consistent with that framework. | “This Constitution now overrides city / national / treaty law.” “Using it as an operations guide displaces our regulator.” |
 | **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Twenty-Eight](../../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
 | **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed adoption document. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
 | **Binds only what you run.** Vendors, host products, and non-consenting parties stay unbound. | “Labs and vendors in our stack are now bound.” |
@@ -223,7 +223,7 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Operations-guide next-step pointers |
 | [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
-| [Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law) | Non-displacement of applicable external law; alignment when used inside an external legal framework |
+| [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law) | Non-displacement of applicable external law; alignment when used inside an external legal framework |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This page does not close them |
 
 ---
@@ -236,4 +236,4 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | 2026-09-08 | v0.2 | Honesty contract names the maturity split: numbered `core_*` files are in much better shape; operational text outside them is not yet mature. |
 | 2026-09-08 | v0.3 | Reworked for length and plain language. Announcement copy rewritten for general readers; honesty contract and do-not-say list merged into one say / do-not-say table; four channel packets collapsed into an audience table; placement, wave-1 exclusions, and GitHub surface merged into one publishing checklist. No change in meaning: still not adoption; still does not drop **pre-release**. |
 | 2026-09-08 | v0.4 | Announcement gains a “How it works” block: Chapter Five definitions (one home per term, with a way to check it) and three processes — system alignment certification, standing records, contestability — described in plain terms. §2 adds a row: describe the working parts as verified, written down, time-limited, and challengeable; do not call them “simple, proven, and effective.” |
-| 2026-09-09 | v0.5 | Announcement and say / do-not-say table state that this Constitution does not supersede local, national, or international law; adoption binds only the adopting body within its lawful authority; use inside an external legal framework must stay consistent with that framework. Canonical home: [Chapter Twenty-Six §6](../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law). Still not adoption; still does not drop **pre-release**. |
+| 2026-09-09 | v0.5 | Announcement and say / do-not-say table state that this Constitution does not supersede local, national, or international law; adoption binds only the adopting body within its lawful authority; use inside an external legal framework must stay consistent with that framework. Canonical home: [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law). Still not adoption; still does not drop **pre-release**. |

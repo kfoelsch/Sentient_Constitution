@@ -61,8 +61,8 @@ CORE_CHAIN = (
     "core_06.040_rights_part_e.md",
     "core_24.000_governance.md",
     "core_25.000_non_regression.md",
-    "core_26.000_expansion_supremacy.md",
-    "core_27.000_amendment_ratification.md",
+    "core_26.000_amendment_ratification.md",
+    "core_27.000_expansion_supremacy.md",
     "core_28.000_incorporation.md",
 )
 

@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_26.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -75,7 +75,7 @@ See: [Article XIX-A](../../../core_06.030_rights_part_d.md#article-xix-a-standin
 
 - **“You’ll use this to shut me off, or to never let me refuse.”** The duty to refuse unlawful or unconstitutional instructions binds AI operators too. You still own your body, mind, and the information that makes you who you are ([Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VII-B](../../../core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind)). When you decide to continue or to stop existing, those rules are located in the section on [Article VII-D](../../../core_06.010_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence). They are not an on/off switch in a terms-of-service page.
 
-- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 ## What this will not pretend to give you
 

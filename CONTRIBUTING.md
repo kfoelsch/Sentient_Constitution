@@ -1,6 +1,6 @@
 # Contributing to the Sentient Constitution
 
-This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Twenty-Seven §11](core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §17.4](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
+This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Twenty-Six §11](core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §17.4](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 
 Where the corpus is and where it is going: [VISION.md](project/VISION.md). The working backlog: [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
@@ -10,7 +10,7 @@ Where the corpus is and where it is going: [VISION.md](project/VISION.md). The w
 - **Humans and AI agents alike**, under the same standard ([Chapter One §17.1](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)). An AI agent contributing under a human operator's direction is a contributor; the operator is accountable for what is submitted. Say which you are in the pull request.
 - **License.** Everything in this repository is [CC BY 4.0](LICENSE). By contributing you agree your contribution is released under the same license. There is no contributor license agreement to sign.
 - **Custody.** Editorial custody of the corpus rests with the custodian named in [README § Authorship](README.md#authorship). Merging is the custodian's decision. Custody of the *repository* is not custody of an adopted *edition* under [Chapter Twenty-Eight §2](core_28.000_incorporation.md#2-custody-editions-and-operative-effect); no adopter exists yet.
-- **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Twenty-Seven, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).
+- **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Twenty-Six, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).
 
 <a id="before"></a>
 ## 2. Before You Start
@@ -89,7 +89,7 @@ A results file is not a Chapter Fifteen standing record and does not make you an
 
 | | |
 |---|---|
-| **Entry** | A **Proposal** issue **before** any pull request. State the change, the section, the problem it fixes, who is affected, and what is *not* changing. This is the repository's analog of notice and contest under [Chapter Twenty-Seven §12](core_27.000_amendment_ratification.md#12-amendment-procedure-requirements): the proposal sits open long enough for others to object |
+| **Entry** | A **Proposal** issue **before** any pull request. State the change, the section, the problem it fixes, who is affected, and what is *not* changing. This is the repository's analog of notice and contest under [Chapter Twenty-Six §12](core_26.000_amendment_ratification.md#12-amendment-procedure-requirements): the proposal sits open long enough for others to object |
 | **Bar** | Self-check against **Test 1** ([non-regression](core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity)): the change must not weaken a Chapter One constraint, Chapter Two–Four integrity rule, Chapter Six Rights Floor, or Chapter Twenty-Four legitimacy requirement, directly or by narrowing a definition, standing gate, evidence rule, or emergency label. Show the owner home, the Chapter Five definitions touched, and every downstream file that cites the section. Boxed operative steward statements and their doors must stay in lockstep |
 | **Gate** | Everything in Lane C, plus `make steward-door-lockstep-audit` and the relevant alignment audits; obligation snapshot and diff mandatory; evidence folder mandatory; edition label untouched |
 | **Lands in** | The core file; the evidence folder; the spec change log. If the change is later carried into a publication cut, the cut record cites the proposal issue |

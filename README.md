@@ -112,8 +112,8 @@ The Constitution is one document split into a Preamble and twenty-eight chapters
 | [Worked examples for Chapters 15–22](corpus_joint_structure/cjs_15.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 24**: [Governance](core_24.000_governance.md) | Who may govern, and how that authority is granted and checked |
 | **Chapter 25**: [Non-regression](core_25.000_non_regression.md) | Protections can be strengthened but not rolled back |
-| **Chapter 26**: [Supremacy and other laws](core_26.000_expansion_supremacy.md) | How it relates to local, national, and international law |
-| **Chapter 27**: [Amendment and adoption](core_27.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 26**: [Amendment and adoption](core_26.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 27**: [Supremacy and other laws](core_27.000_expansion_supremacy.md) | How it relates to local, national, and international law |
 | **Chapter 28**: [Incorporation](core_28.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
 <a id="chapter-five-files"></a>
@@ -149,8 +149,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
-- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 27](core_27.000_amendment_ratification.md#11-ratification-and-adoption) and [Chapter 28](core_28.000_incorporation.md).
-- **It does not override the law.** It does not replace local, national, or international law ([Chapter 26](core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 26](core_26.000_amendment_ratification.md#11-ratification-and-adoption) and [Chapter 28](core_28.000_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter 27](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 <a id="binding-vs-support"></a>
 <details>
@@ -190,7 +190,7 @@ The numbered `core_*` files state **why** and **what**. The implementation files
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Seven (ratification) and Chapter Twenty-Eight (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Twenty-Eight §4](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
+Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Six (ratification) and Chapter Twenty-Eight (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Twenty-Eight §4](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
 **Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint).
 
@@ -202,7 +202,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05.050_band_oversight.md#auditability) is the property; [CJS-5.115 §3](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) is how and when; Chapter Nine is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)
 - Remedy systems and enforcement realism: Chapter Twenty §4; implementation in CI-20.205
-- Relation to local, national, and international law: [Chapter Twenty-Six §6](core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)
+- Relation to local, national, and international law: [Chapter Twenty-Seven §6](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)
 
 ### Editor and Operator Resources
 

@@ -1641,7 +1641,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
     - coordinated action consistent with **Article XI-F** (*Non-Imposition and Consent in Association*).
   - Denial of assembly on substrate grounds, or via allocation or runtime-gating mechanisms functioning as denial-by-proxy, is non-compliant.
 - <a id="xi-d-dissent-and-peaceful-protest"></a>**Dissent and peaceful protest floor:** All sentients hold the right to dissent and to protest peacefully, alone or together, in physical spaces, in digital and networked spaces, and in shared compute and runtime environments. This floor implements [Chapter One §7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest) as part of **Freedom (Bounded Agency)**.
-  - Dissent includes disagreeing with, criticizing, objecting to, organizing against, and campaigning to change any institution, authority, operator, steward, policy, decision, system, forum ruling, or this Constitution itself — including by advocating amendment under **Chapter Twenty-Seven**.
+  - Dissent includes disagreeing with, criticizing, objecting to, organizing against, and campaigning to change any institution, authority, operator, steward, policy, decision, system, forum ruling, or this Constitution itself — including by advocating amendment under **Chapter Twenty-Six**.
   - Peaceful protest includes:
     - demonstrations, marches, vigils, and sit-ins;
     - petitions and open letters;
@@ -1823,7 +1823,7 @@ This Article sets out the floors for non-imposition and consent in association:
   - Participation must remain revocable without unjustified penalty where **Feasibility** permits under **Chapter Five**.
 - **No surrender of rights through general terms:** No system or institution may require a sentient to give up or waive a right as part of its general terms of service, user agreement, or similar standard terms, or as the price of using it.
   - Accepting those terms is not consent to the surrender. Licensing or sharing something of one's own needs its own separate, informed consent under **Chapter Five** (*Consent*), not bundled with access.
-  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Twenty-Six §5.2](core_26.000_expansion_supremacy.md#52-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Twenty-Two §3.1](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor Waivers and Unconstitutional Contract Terms*).
+  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Twenty-Seven §5.2](core_27.000_expansion_supremacy.md#52-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Twenty-Two §3.1](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor Waivers and Unconstitutional Contract Terms*).
 
 #### Article XI-G: Collective Harm Boundary and Enforcement Interface
 <details>
@@ -2066,7 +2066,7 @@ This Article sets out the floors for internal roles and due process:
   - meaningful opportunity to be heard;
   - decision timing proportionate to harm risk;
   - impartial decision-making structures where adjudication applies;
-  - contest or secondary review, read with [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §1 (*Purpose, Role, and Scope*).
+  - contest or secondary review, read with [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §2 (*Default Venue and Primary Stakes*).
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
 - **Institutional routing:** The operating detail for this Article is set out in the institutions corpus:

@@ -67,10 +67,7 @@
 
 <br>
 
-Chapter Twenty-One is the constitutional owner of **final anti-constitutional-misconduct designation (ACMD) for Violation Axis slot 7, 8, and 9 findings, ACMD criteria, due-process safeguards, and the Chapters Twenty-Five through Twenty-Seven ACMD boundary**. Named pattern applications are in **[Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)**.
-
-This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and anti-constitutional misconduct (ACM) is materially alleged. It decides only whether the matching ACMD attaches; it does not create a separate impact scale, move a violation finding between slots, or replace Chapter Sixteen measurement or Chapter Seventeen standing integration.
-*In plain terms: under the [Continuity aim](core_00.000_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*
+Chapter Twenty-One is the constitutional owner of **final anti-constitutional-misconduct designation (ACMD) for Violation Axis slot 7, 8, and 9 findings, ACMD criteria, due-process safeguards, and the Chapters Twenty-Five through Twenty-Seven ACMD boundary**.
 
 <a id="1-purpose-role-and-scope"></a>
 
@@ -97,9 +94,20 @@ This chapter is used only when a verified violation already occupies Violation A
 
 *In plain terms: this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.*
 
-**Purpose.** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) decides what follows (Question 3). A verified violation in slot 7, 8, or 9 can be very large without being ACM, because how large the harm is does not, by itself, show intent, capture, or ACM. What this chapter looks for is **tetrad capture** at scale under the [Continuity aim](core_00.000_preamble.md#continuity): conduct that captures or hollows out constitutional duties by weakening the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (**participation**, **oversight**, **accountability**, and **timeliness**) below [material stake](core_00.000_preamble.md#material-stake) requirements.
+**Purpose.** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations:
 
-Only this chapter may decide that question. The result is a final ACMD that matches the existing slot of the verified violation finding (Severe, Grave, or Catastrophic anti-constitutional misconduct), or no final ACMD. A final ACMD may issue only when the **section 3** criteria are met on a verified standing record and the **section 5** safeguards are satisfied.
+- [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1).
+- [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2).
+- [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) decides what follows (Question 3).
+- A verified violation in slot 7, 8, or 9 can be very large without being ACM, because how large the harm is does not, by itself, show intent, capture, or ACM.
+- What this chapter looks for is **tetrad capture**, a large-scale attack on the [Continuity aim](core_00.000_preamble.md#continuity), which is the goal of keeping the constitution working over the long run. In plain terms, it is conduct that captures or hollows out constitutional duties by weakening the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (**participation**, **oversight**, **accountability**, and **timeliness**) below [material stake](core_00.000_preamble.md#material-stake) requirements.
+
+Only this chapter may decide whether a violation in slot 7, 8, or 9 is also anti-constitutional misconduct; no other chapter can make that call. There are only two possible results:
+
+- a final ACMD whose label matches the slot Chapter Sixteen already assigned: slot 7 is Severe, slot 8 is Grave, and slot 9 is Catastrophic anti-constitutional misconduct; or
+- no final ACMD, in which case the violation finding stays exactly as measured.
+
+A final ACMD can be issued only if the **section 3** criteria are met on a verified standing record and the **section 5** safeguards are satisfied.
 
 **Role.** Where this chapter sits:
 
@@ -108,7 +116,7 @@ Only this chapter may decide that question. The result is a final ACMD that matc
 - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case, with Integrity as the default lead where a final ACMD is the primary stake, and certifies the forum.
 - The remedy and prevention rules here are read with the Rights Floor and Justice articles in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
-**Chapter scope.** This chapter works in this order, and the **decision sequence** in **section 2.4** sets the full list:
+**Chapter scope.** This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and anti-constitutional misconduct (ACM) is materially alleged. It works in this order, and the **decision sequence** in **section 2.4** sets the full list:
 
 - **Decide whether an ACMD attaches**
   - It takes the verified standing record and the Chapter Sixteen slot as fixed (**section 3**).
@@ -128,8 +136,9 @@ Only this chapter may decide that question. The result is a final ACMD that matc
 
 This chapter does not:
 
+- create a separate impact scale or replace Chapter Seventeen standing integration;
 - hold up ordinary Chapter Seventeen consequences. Remedy, correction, and locks continue while ACMD is under review, and the review does not reopen Chapter Sixteen measurement (**section 3**); or
-- decide whether a constitutional change, or the process that made it, is valid. [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) decide that and do not issue an ACMD; change-path conduct reaches this chapter only through the criteria (**section 2**).
+- decide whether a constitutional change, or the process that made it, is valid. [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) decide that and do not issue an ACMD; change-path conduct reaches this chapter only through the criteria (**section 2**).
 
 ### 2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 <details>
@@ -181,7 +190,7 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 This chapter and Chapters Twenty-Five through Twenty-Seven divide the work as follows:
 
 - **Chapter Twenty-Five** decides whether a constitutional change itself can stand under the substantive non-regression and anti-evasion floor.
-- **Chapter Twenty-Seven** decides whether the change process, records, review triggers, and any provisional effect are valid.
+- **Chapter Twenty-Six** decides whether the change process, records, review triggers, and any provisional effect are valid.
 - Those chapters do **not** issue the final ACMD.
   - Chapter Sixteen supplies the impact slot.
   - ACMD remains **in this chapter**.
@@ -515,7 +524,7 @@ The remedy disposition must meet these rules:
 The correction disposition must meet these rules:
 
 - **Cause identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the unified incident possible or kept it going, read with **Article XXIV** (*Root Cause Analysis and Adaptive Response*).
-- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why. Whether a constitutional change itself stands is decided under [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity), not here.
+- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why. Whether a constitutional change itself stands is decided under [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity), not here.
 - **Who carries it and when:** The disposition must name who carries each correction. It must also set commencement deadlines, completion milestones, and who supervises follow-through under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Completion:** Correction is complete only when the standing record shows it eliminates or resolves the cause. Completion opens a reassessment gated pathway where lawful, and non-completion keeps the violation finding live for standing purposes, as **Article XX-B** (*Restriction Floors*) states.
 - **Non-substitution, correction side:** Imprisonment, standing locks, role exclusion, or publication does not by itself count as correction. It counts only when the standing record shows it addresses the cause or stops continuation.
