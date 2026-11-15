@@ -514,7 +514,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 **Cross-reference (section 5):** Subsections **4.1–4.2** state voting requirements together with **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 
-**Cross-reference (Chapter Twenty-Four):** Documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Eight**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Seven**. **Non-regression** substantive limits appear in **Chapter Twenty-Five**.
+**Cross-reference (Chapter Twenty-Four):** Documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Six**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Seven**. **Non-regression** substantive limits appear in **Chapter Twenty-Five**.
 
 ### 6. Authorized Roles, Competency Development, and Contribution
 <details>

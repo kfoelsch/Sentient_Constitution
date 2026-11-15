@@ -225,7 +225,7 @@ Rights-affecting amendments and authority-structure amendments do not take irrev
 
 *In plain terms: when a change is declared invalid, treat it as void for constitutional purposes from that determination forward, spell out what must be rolled back and how **affected** **parties** get a fair remedy — and publish a time-bounded plan that restores protections and preserves evidence. Serious bad-faith conduct in making or adopting a change is referred to the bodies that own labels and sanctions, not relabeled here.*
 
-Where a change is found invalid, it is treated as non-operative for constitutional supremacy purposes from the point of determination. Decision records must identify scope, affected acts, remediation obligations, and required restoration steps for materially affected parties.
+Where a change is found invalid, including by the **Constitutional Forum**'s determination under [**Chapter Twenty-Five §3**](core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity) (*Substantive Test 1 — Substantive Non-Regression Validity*), it is treated as non-operative for constitutional supremacy purposes from the point of determination. Decision records must identify scope, affected acts, remediation obligations, and required restoration steps for materially affected parties.
 
 On invalidity determination, adopters must publish a time-bounded remediation plan that:
 - restores controlling prior protections or stricter lawful protections
@@ -318,7 +318,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5](#5-test-2--procedural-validity-and-publication-integrity) Procedural Test 2; [§11](#11-ratification-and-adoption) adoption documents.
-- Subsections: [§12.1](#121-notice-and-contest); [§12.2](#122-recorded-effectiveness).
+- Subsections: [§12.1](#121-notice-and-contest); [§12.2](#122-recorded-effectiveness); [§12.3](#123-proposal-hearing-and-comment-window).
 - Downstream: [§13](#13-owner-non-relocation) procedural-layer discipline restatement.
 - Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).
 
@@ -359,6 +359,44 @@ Amendments must be proposed with sufficient specificity and advance publication 
 *In plain terms: effect follows what is honestly recorded on a stated date or event — secret patches or silent scope expansions do not count as valid constitutional amendments for supremacy purposes.*
 
 Amendments take effect only on a stated effective date or event recorded in the adoption chain. Amendments that are undisclosed to affected stakeholders in material scope, or that bypass recorded procedure, do not satisfy constitutional amendment requirements for supremacy purposes.
+
+#### 12.3 Proposal, Hearing, and Comment Window
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§2](#2-heightened-review-for-rights-affecting-changes) heightened review; [§12.1](#121-notice-and-contest) notice and contest; [Chapter One §17.7 Duty to Represent Stakeholder Interests](core_01.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests) (stewards' duty to those the system affects); [Chapter Twenty-Five §3](core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity) (25.000 §3) Substantive Test 1 and who decides it.
+- Downstream: [§9](#9-provisional-effect-rule) provisional effect; [§12.2](#122-recorded-effectiveness) recorded effectiveness.
+- Read with: [Chapter Twenty-Four §5.1](core_24.000_governance.md#51-entitlement-and-eligibility) (24.000 §5.1) and [§5.2](core_24.000_governance.md#52-records-gates-and-method-neutrality) (24.000 §5.2) electorate and records; [Chapter Twenty-Three §6](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §6) Tier C outer bound; [CJS-0.105 §4 Time-Window Names](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-4-time-window-names); [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for protected petition and public comment on the Forum Case Record.
+
+</details>
+
+<br>
+
+*In plain terms: anyone can put a change to this Constitution on the Forum Case Record. To get the Constitutional Forum to take it up, it needs backing: at least 1% of the sentients entitled to vote sign on, a majority of the members of any forum votes for it, a majority of the stewards of a Class A, B, or C system or institution does, or the governing authority puts it forward. Everyone then gets at least 30 days (the Tier C outer bound) after the last change to the wording to respond, and any edit to the wording restarts that window. Only then does the forum rule on whether the change weakens a protection, or is a correction of a real error in it.*
+
+This subsection sets out how a proposed change to the text of this Constitution is put forward, reaches the **Constitutional** forum, and is open to public response:
+
+- **Anyone may propose:** Any sentient, group, or body may put a proposed change on the Forum Case Record. The proposal is published on the Forum Case Record with its exact wording and the justification required by **section 3**. Every later change to that wording is recorded with its date.
+- **Hearing gate:** The **Constitutional Forum** takes up a proposal for determination when it has any one of these:
+  - sign-off by at least 1% of the electorate for governance voting under [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility), counted for the community that adopted the text the change would alter;
+  - a vote in favor by a majority of the members then seated of any forum, taken in a recorded decision of that forum;
+  - a recorded decision in favor by a majority of the stewards then holding the role in one Class A, Class B, or Class C system or institution, made under [Chapter One §17.7 Duty to Represent Stakeholder Interests](core_01.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests); or
+  - the governing authority of the community that adopted the text puts the change forward, which **section 2** already requires to be heard.
+- **How sign-off is counted:** Sign-off is counted from the electorate record published under [Chapter Twenty-Four §5.2 Records, Gates, and Method Neutrality](core_24.000_governance.md#52-records-gates-and-method-neutrality), by a party independent of the proposers.
+  - Each distinct subject signs once, as with one subject, one vote under **Chapter Twenty-Four §5.1** (*Entitlement and Eligibility*).
+  - Creating sentients, or inducing branches to elect to be distinct, in order to reach the share is non-compliant conduct by the creator.
+  - Signing and responding are open petition and public comment on the Forum Case Record, and are protected as such under **Article XII-E** (*Influence-Contact and Lobbying Boundaries*).
+- **How a forum or steward majority is counted:** The vote or decision is recorded on the Forum Case Record, with dissent recorded.
+  - Each distinct subject counts once toward a majority, as with one subject, one vote under **Chapter Twenty-Four §5.1** (*Entitlement and Eligibility*).
+  - Creating, appointing, or seating members or stewards in order to form a majority is non-compliant conduct by whoever does it.
+  - A **Constitutional Forum** panel that voted to bring a proposal to hearing does not decide it. The determination is made by a panel with no overlapping decision-makers, drawn from the constitutional-review reserve roster maintained under **CF-23.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+- **Amendment comment window:** Any sentient may respond to a proposal on the Forum Case Record. The window for responses is no shorter than **30 days**, the Tier C outer bound in [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), counted from the last recorded change to the proposal's wording.
+  - Any later change to the wording, including one made in response to comments, is a recorded change and restarts the count from its date.
+  - Sign-off may be gathered while the window runs. The forum may not decide until the gate is met and the window has run.
+  - The forum may extend the window. It may not shorten it.
+- **Determination:** When the gate is met and the window has run, the **Constitutional Forum** decides whether the proposal fails Substantive Test 1 under [Chapter Twenty-Five §3](core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity) (*Substantive Test 1 — Substantive Non-Regression Validity*) and publishes its determination with reasons under **Article XXV-A** (*Bounded Interpretive Mandate and Public Reasons*). The reasons must say how the responses filed were treated. Review of the determination follows **Article XXV-B** (*Challenge Rights and Independent Review*).
+- **Corrections:** A proposer may mark a proposal as a correction of a protection. The justification required by **section 3** must then show the error in the form that [Chapter Twenty-Five §3](core_25.000_non_regression.md#3-test-1--substantive-non-regression-validity) (*Substantive Test 1 — Substantive Non-Regression Validity*) requires. The hearing gate and the amendment comment window are the same as for any other proposal. The determination states whether the proposal is found to be a correction and which findings support that.
+- **Interim measures:** This subsection does not change **section 9**. Narrow interim measures to prevent imminent material harm remain available on the terms stated there.
 
 <a id="13-scope-limit-and-layer-discipline"></a>
 <a id="13-owner-non-relocation"></a>

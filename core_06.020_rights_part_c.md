@@ -1579,7 +1579,7 @@ This Article sets out the reward rules shared by every kind of work:
   - proportionate to actual contribution and justified development burden.
 
   The burden of justification remains on the claimant. Attribution and provenance may persist beyond an exclusivity term. Durable exclusion and artificial scarcity may not.
-- **One ordinary term:** Expressive and functional works share the same ordinary outer term: 30 years from the point the work is made public. **Article XVIII-E** (*Creative and Expressive Works*) and **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) say when that clock starts, how the term may be used, and when it must be shorter.
+- **One ordinary term:** Expressive and functional works share the same ordinary outer term: 30 years from the point the work is made public. These terms are outer limits: an adopting document may set shorter terms, and every claim must still be proportionate. **Article XVIII-E** (*Creative and Expressive Works*) and **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) say when that clock starts, how the term may be used, and when it must be shorter.
 - **Expressive or functional:** A claim is judged by what it actually controls, not by what it is called.
   - **Expressive work:** the claim covers how something is expressed — text, images, sound, music, story, characters, performance, or purely decorative appearance. **Article XVIII-E** (*Creative and Expressive Works*) applies.
   - **Functional work:** the claim covers how something works — a method, process, mechanism, formula, composition of matter, interface, file format, protocol, or system behavior. **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) applies.
@@ -1611,7 +1611,7 @@ This Article sets out the reward rules shared by every kind of work:
 
 <br>
 
-*In plain terms: creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.*
+*In plain terms: creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication, an outer limit that an adopter may set lower — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.*
 
 This Article sets out copyright-like protection for creative and expressive works:
 
@@ -1654,7 +1654,7 @@ This Article sets out copyright-like protection for creative and expressive work
 
 <br>
 
-*In plain terms: inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.*
+*In plain terms: inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. The stated terms and the one-half share are outer limits that an adopter may set lower; the fee floor is the one figure that sets a minimum. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.*
 
 This Article sets out the rules for rewarding inventions, processes, and functional systems:
 

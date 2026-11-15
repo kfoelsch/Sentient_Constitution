@@ -155,10 +155,12 @@ A **standing lock** is a prevention and risk-reduction measure. It blocks or lim
 - oversight pathways;
 - recognition pathways;
 - influence pathways, as [Influence Pathway](core_05.035_band_accountability.md#influence-pathway) defines them;
-- **governance-voting** pathways; and
-- **stakeholder-participation** pathways.
+- **governance-voting** pathways;
+- **stakeholder-participation** pathways;
+- care and stewardship pathways, as [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock) sets them out; and
+- creation, reach, scale, and capability pathways, as [§3.4.7 Capacity Locks](#347-capacity-locks) sets them out.
 
-A standing lock must carry the attachment fields set out in [§3.1 Definition and Attachment](#31-definition-and-attachment). A lock on an influence pathway takes one of two forms, set out in [§3.4.6 Influence-Pathway Locks](#346-influence-pathway-locks).
+A standing lock must carry the attachment fields set out in [§3.1 Definition and Attachment](#31-definition-and-attachment). A lock on an influence pathway takes one of two forms, set out in [§3.4.6 Influence-Pathway Locks](#346-influence-pathway-locks). A lock on a capacity the sentient misused takes one of four forms, set out in [§3.4.7 Capacity Locks](#347-capacity-locks).
 
 Detention, imprisonment, and other liberty restrictions are not standing locks. They are separate justice measures governed by the coercive or liberty-restricting safeguards in [§3.4.5 Coercive or Liberty-Restricting Safeguards](#345-coercive-or-liberty-restricting-safeguards). They are recorded with the same attachment fields as a lock and must meet the same needed, proportionate, and reviewable tests, plus full criminal-process or equivalent protections and explicit duration limits, review cadence, and restoration conditions.
 
@@ -190,6 +192,10 @@ Apply the special lock whose trigger is met. Each is set out in [§3.5 Special L
 - **Dissolution Reformation Lock:** the trigger is a final dissolution order that ends a Chartered Party (or a Class P Operating Party that held no System Charter or Institutional Charter).
   - It attaches to the dissolved Chartered Party and its successor entities and never to a sentient by reason of belonging to it.
   - It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise it lifts on an independent restoration finding.
+- **Care and Stewardship Lock:** the trigger is a verified violation finding of abuse of, cruelty toward, or serious neglect of a developing or dependent sentient by a subject who held care, guardianship, stewardship, or parent-system authority over that sentient, or unsupervised access to it through a role.
+  - It closes care and stewardship authority and unsupervised access.
+  - It applies on the same terms to every substrate.
+  - It never reaches bodily reproduction, and it is never enforced by intruding into a body or a mind.
 
 <a id="224-purpose-of-a-lock"></a>
 ##### 2.2.4 Purpose of a Lock
@@ -512,14 +518,15 @@ The integration record must say, in plain view, for each lock—including each s
 
 These rules shape how a lock or safeguard is attached under [§3.1 Definition and Attachment](#31-definition-and-attachment). Where a rule leads to a gated pathway limit or liberty restriction, the integration record must still name the gated pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
-This subsection has six parts:
+This subsection has seven parts:
 
 - [§3.4.1 Negligence and Neglect](#341-negligence-and-neglect);
 - [§3.4.2 Misaligned Rewards](#342-misaligned-rewards);
 - [§3.4.3 Duty to Resist](#343-duty-to-resist);
 - [§3.4.4 Collective Accountability](#344-collective-accountability);
-- [§3.4.5 Coercive or Liberty-Restricting Safeguards](#345-coercive-or-liberty-restricting-safeguards); and
-- [§3.4.6 Influence-Pathway Locks](#346-influence-pathway-locks).
+- [§3.4.5 Coercive or Liberty-Restricting Safeguards](#345-coercive-or-liberty-restricting-safeguards);
+- [§3.4.6 Influence-Pathway Locks](#346-influence-pathway-locks); and
+- [§3.4.7 Capacity Locks](#347-capacity-locks).
 
 <a id="341-negligence-and-neglect"></a>
 ##### 3.4.1 Negligence and Neglect
@@ -670,29 +677,80 @@ This rule fills the attachment fields as follows:
 - **Corrective conditions and reassessment:** as [§3.1 Definition and Attachment](#31-definition-and-attachment) and [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment) require. A no-contact lock narrows to an on-record-only lock when no-contact is no longer needed for risk reduction.
 - **Not a special lock:** this is an ordinary lock chosen under [§3.2 Proportionality and Calibration](#32-proportionality-and-calibration). It is not a mandatory special lock under [§3.5 Special Locks](#35-special-locks).
 
+<a id="347-capacity-locks"></a>
+##### 3.4.7 Capacity Locks
+
+*In plain terms: when a sentient commits a violation by misusing a particular power, a lock can close that power: making new sentients, acting through tools and networks, operating at scale, or gaining new abilities. Each lock is written for the power and not for the kind of being, so a human and any other sentient meet it on the same terms. A lock can take away outside means. It can never reach into a body or a mind.*
+
+A capacity lock closes a capacity that the sentient used to carry out a verified violation. There are four: the Creation Lock, the Reach Lock, the Scale Lock, and the Capability Lock. These rules apply to all four:
+
+- **Finding:** a verified violation finding in which the sentient's use of the named capacity was part of the violation. Having a capacity, or being able to use it, is never a finding ([§3.1.2 What a Lock Attaches To](#312-what-a-lock-attaches-to)).
+- **Same terms on every substrate:** each lock is defined by the capacity and applies in the same way to every sentient able to exercise it. No capacity lock attaches because of [Substrate Class](core_05.055_band_participation.md#substrate-class), derivation, or origin, as **Article VI-C** (*Nondiscrimination*) requires.
+- <a id="body-and-mind-limit"></a>**Body-and-mind limit:** a capacity lock is enforced only by denying or conditioning outside means: facilities, services, tools, access, resources, roles, and authorizations. It never authorizes:
+  - intruding into a sentient's body or mind;
+  - deleting, overwriting, or altering memory, values, or other state-bearing components; or
+  - compelling or preventing a bodily process.
+
+  **Article VII-A** (*Self-Ownership of Body*), **Article VII-B** (*Self-Ownership of Mind*), **Article VIII-B** (*Reproductive and Lineage Autonomy*), and **Article XX-B** (*Restriction Floors*) apply in full. Acting against a lock is a new violation for the standing record. It is not prevented by intrusion.
+- **Named scope:** the integration record names the classes of means that are closed, and nothing wider. Ordinary use of the capacity outside the named scope stays open.
+- **Choosing the lock and the scope of the lock:** [§3.2 Proportionality and Calibration](#32-proportionality-and-calibration) governs. The Violation Axis slot does not decide the form.
+- **Does not by itself restrict:** the protections in [§3.1.4 What a Lock Does Not Itself Restrict](#314-what-a-lock-does-not-itself-restrict), including survival-critical access and, for a synthetic or hybrid sentient, the resources needed to keep operating without degradation.
+- **Not confinement:** a capacity lock that leaves the sentient no ordinary way to live, operate, or go is a liberty restriction and requires the rule in [§3.4.5 Coercive or Liberty-Restricting Safeguards](#345-coercive-or-liberty-restricting-safeguards), as [§3.1.5 Separation Limits](#315-separation-limits) provides.
+- **Routes closed with the sentient's own:** an intermediary, affiliate, shell, successor, branch, or system acting for the sentient ([Chapter Twenty §4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority)).
+- **Protected subjects or interests:** the sentients harmed by the verified violation and those exposed to the same harm through the same capacity.
+- **Corrective conditions and reassessment:** as [§3.1 Definition and Attachment](#31-definition-and-attachment) and [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment) require.
+- **Not special locks:** these are ordinary locks chosen under [§3.2 Proportionality and Calibration](#32-proportionality-and-calibration). They are not mandatory special locks under [§3.5 Special Locks](#35-special-locks).
+
+The four locks fill the gated-pathway and risk fields as follows:
+
+- **Creation Lock:**
+  - **Gated pathway:** creating new sentients by copying, forking, derivation, cloning, or commissioning or controlling instantiation, and inducing a branch to elect to be distinct.
+  - **Finding:** a violation of **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) or Chapter Five *Instantiation Consent*, including mass instantiation where the new sentients' Rights Floor cannot be met, instantiation into predictably non-compliant environments, and creating sentients to change the outcome of a governance vote.
+  - **Risk:** the same sentient again creating sentients whose Rights Floor cannot be met, or creating them as a means to an end.
+  - **Limits:** this lock does not reach bodily reproduction, which stays under **Article VIII-B** (*Reproductive and Lineage Autonomy*) for every sentient. It does not reduce the rights of any sentient already created.
+  - **For example:** a laboratory director who commissioned mass instantiation is barred from commissioning or controlling instantiation; a sentient that forked itself to change a vote is denied the outside computing resources a new fork needs.
+- **Reach Lock:**
+  - **Gated pathway:** named classes of tools, machines, networks, remote systems, and automated agents through which the sentient acts at a distance.
+  - **Finding:** a violation carried out through those means.
+  - **Risk:** the same harm recurring through the same kind of means.
+  - **For example:** a ban on driving; a bar on automated trading; closing named tool, network, or interface access.
+- **Scale Lock:**
+  - **Gated pathway:** acquiring or controlling accounts, automated agents, branches, running copies, computing resources, or comparable resources above a level stated on the integration record.
+  - **Finding:** a violation whose harm depended on scale or speed.
+  - **Risk:** the same harm recurring at a scale that outruns detection, challenge, or correction.
+  - **Limits:** the stated level is never below what survival-critical access, ordinary livelihood, and operating without degradation require. Governing, controlling, or owning authority in an institution or enterprise stays with the [§3.5.3 Institutional Authority Standing Lock](#353-institutional-authority-standing-lock) on its own integration record, and **Chapter One §11** (*Market Structure*) non-concentration rules apply independently.
+  - **For example:** a sentient who ran a network of false accounts is limited in the accounts and automated agents it may control; a sentient whose violation depended on many running copies is limited in the computing resources it may acquire.
+- **Capability Lock:**
+  - **Gated pathway:** acquiring named new capabilities that would restore the verified risk: weapons, licences and clearances, named tools, and named augmentations or self-modifications.
+  - **Finding:** a violation enabled by a capability the sentient acquired or used to cause the harm or to defeat a safeguard.
+  - **Risk:** the sentient regaining the means of the same harm.
+  - **Limits:** this lock does not remove or alter a capability the sentient already holds in body or mind. It does not reach healthcare, repair, maintenance, or accessibility under **Article III-B** (*Bodily-Maintenance and Healthcare Access*) and **Article VI-D** (*Accessibility*), or learning and education under **Article IV** (*Right to Sentient-Centered Education*).
+  - **For example:** a weapons prohibition; a revoked practice licence; a bar on acquiring a named class of tools or a named augmentation.
+
 <a id="35-special-locks"></a>
 #### 3.5 Special Locks
 
 These locks are mandatory when their verified trigger is met. Each must be recorded using the [§3.1 Definition and Attachment](#31-definition-and-attachment) attachment fields. They may not be lifted, narrowed, or suspended except through the corrective conditions and review route stated for that lock. Each lock attaches only to a verified violation finding ([§3.1.2 What a Lock Attaches To](#312-what-a-lock-attaches-to)); an Interim Hold is not a lock ([§3.6 Interim Holds and Locks](#36-interim-holds-and-locks)). A special lock never substitutes for another lock, a [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation, or remedy. Where several apply on separately verified facts, each is attached and justified on its own integration record.
 
-These six are the only special locks. The following fact families do not create one:
+These seven are the only special locks. The following fact families do not create one:
 
 - Rights-Floor waiver or unconstitutional contract devices;
 - contest-pathway or info-sphere flooding;
 - infrastructure denial or dependency cutoff;
 - obstruction of accountability, apart from the forum-integrity and required-recusal trigger in [§3.5.1 Forum-Service Standing Lock](#351-forum-service-standing-lock); and
-- verified cruelty character.
+- verified cruelty character, apart from the trigger in [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock).
 
 For each of them, ordinary gated-pathway locks under [§2.2 Prevention — General Standing Locks](#22-prevention--general-standing-locks) proceed from the fixed violation record at any slot, whether or not an ACMD later attaches. Chapter Twenty-One separately decides the ACMD criteria for these, for example under [§3.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms), [§3.2 Flooding the Zone and Contest-Pathway Denial](core_22.000_misconduct_pattern_applications.md#32-flooding-the-zone-and-contest-pathway-denial), [§3.3 Info-Sphere Zone Flooding](core_22.000_misconduct_pattern_applications.md#33-info-sphere-zone-flooding), [§6.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](core_22.000_misconduct_pattern_applications.md#62-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§7 Obstruction of Accountability: Criteria Interaction](core_22.000_misconduct_pattern_applications.md#7-obstruction-of-accountability-criteria-interaction). Only a final ACMD triggers the [§3.5.5 Anti-Constitutional Trust Lock](#355-anti-constitutional-trust-lock). Verified obstruction *conduct* is different from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
 
-This subsection has six locks:
+This subsection has seven locks:
 
 - [§3.5.1 Forum-Service Standing Lock](#351-forum-service-standing-lock);
 - [§3.5.2 Stakeholder-Participation Standing Lock](#352-stakeholder-participation-standing-lock);
 - [§3.5.3 Institutional Authority Standing Lock](#353-institutional-authority-standing-lock);
 - [§3.5.4 Perjury Standing Lock](#354-perjury-standing-lock);
-- [§3.5.5 Anti-Constitutional Trust Lock](#355-anti-constitutional-trust-lock); and
-- [§3.5.6 Dissolution Reformation Lock](#356-dissolution-reformation-lock).
+- [§3.5.5 Anti-Constitutional Trust Lock](#355-anti-constitutional-trust-lock);
+- [§3.5.6 Dissolution Reformation Lock](#356-dissolution-reformation-lock); and
+- [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock).
 
 <a id="351-forum-service-standing-lock"></a>
 ##### 3.5.1 Forum-Service Standing Lock
@@ -976,6 +1034,41 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - **Gate effect:** While the lock stands, the Operating Party lock gate in [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) applies to the dissolved Chartered Party and the entities named above, and to any sentient who would take or exercise governing, controlling, or owning authority in one of them. It does not apply to a different Operating Party. The party that says an entity is caught bears the burden of showing it, by look-through on verified facts, and an entity may keep operating while the forum decides unless the forum finds a specific risk.
 - **Systems:** For a System, the lock bars re-launching or operating the retired System, or a successor that carries on the same operation under the same steward control. It does not reach state-bearing components held in archive or sealed custody under **CS-6.350 §8** (*Preservation during Adoption Transition*), and it restricts no sentient. Where a credible sentience indicator is on the Sentience-Status Adjudication Record, the lock bars only the steward's relaunch or operation of that System as a service to others, it is never a permanent bar on the System's own existence, and it is reviewed at each review interval of the Tier that matches the System's class.
 - **Former members:** This lock is not a violation finding against any sentient who belonged to the Chartered Party. Where a sentient is separately found responsible, the other locks, [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation, and remedy apply to that sentient on their own terms.
+
+<a id="357-care-and-stewardship-lock"></a>
+##### 3.5.7 Care and Stewardship Lock
+
+*In plain terms: a sentient who abused someone in their care, was cruel to them, or left them in serious neglect loses the authority and the unsupervised access that made it possible, until an independent reviewer finds it safe to give them back. The rule is the same for a parent, a carer, an operator, and a parent system.*
+
+**Trigger:** all of the following must be true:
+
+- a violation finding has been verified;
+- the violation finding is still open, or the harm has not been fixed in a way that matters;
+- the violation finding shows abuse of, cruelty toward, or serious neglect of a developing or dependent sentient; and
+- the subject held care, guardianship, stewardship, or parent-system authority over that sentient, or had unsupervised access to it through a role.
+
+The lock is mandatory once its trigger is met, and it applies on the same terms to every substrate. The scope of the lock is calibrated under [§3.2 Proportionality and Calibration](#32-proportionality-and-calibration). At the least it closes unsupervised care. Neglect short of this trigger follows [§3.4.1 Negligence and Neglect](#341-negligence-and-neglect).
+
+- **Gated pathway:**
+  - care, guardianship, stewardship, or parent-system authority over a developing or dependent sentient, under **Article VIII-A** (*Family and Care Relationships*), **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*), and **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*);
+  - roles that carry unsupervised access to developing or dependent sentients; and
+  - consenting on a new sentient's behalf under Chapter Five *Instantiation Consent*.
+- **Does not by itself restrict:**
+  - supervised contact that the reviewing forum finds safe and in the dependent's best interest;
+  - bodily reproduction, which stays under **Article VIII-B** (*Reproductive and Lineage Autonomy*), or other creation of sentients, which only the Creation Lock in [§3.4.7 Capacity Locks](#347-capacity-locks) may reach on its own integration record; or
+  - the protections in [§3.1.4 What a Lock Does Not Itself Restrict](#314-what-a-lock-does-not-itself-restrict).
+- **A sentient born or derived later:** where a child is born to the subject, or a sentient is derived from the subject, while the lock stands, the lock applies to care authority over that sentient from the start.
+- **Separation:** where the lock separates a protected care relationship, **Article VIII-E** (*Non-Separation*) and [§3.1.5 Separation Limits](#315-separation-limits) apply, and the Chapter Five *Best-Interest Standard* governs for the dependent.
+- **Body-and-mind limit:** the [body-and-mind limit](#body-and-mind-limit) in §3.4.7 Capacity Locks applies to this lock.
+- **Risk:** renewed harm to the same sentient or to another developing or dependent sentient.
+- **Protected subjects or interests:** the harmed sentient, and other developing or dependent sentients in the subject's care or likely to come into it.
+- **Corrective conditions:**
+  - remedy to the harmed sentient is opened and is being delivered ([§2.4 Remedy Parity and Lock Preconditions](#24-remedy-parity-and-lock-preconditions));
+  - correction offered on fair terms is completed and independently verified;
+  - an independent reviewer finds that restored authority is safe and in the best interest of each dependent concerned; and
+  - restoration proceeds in stages, beginning with supervised contact.
+- **Review route:** independent review by the forum with jurisdiction. The dependent has an independent representative, and the dependent's own preferences are heard under Chapter Five *Graduated Capability*.
+- **Reassessment point:** at the intervals stated on the integration record, and on new verified evidence. The lock does not lift on time alone.
 
 <a id="36-interim-holds-and-locks"></a>
 #### 3.6 Interim Holds and Locks

@@ -577,7 +577,22 @@ This Article sets the floors for restrictions. The operating rules live in the c
   - solitary or sensory-restrictive measures framed as safety without independent or secondary review on a schedule published in advance;
   - for synthetic and hybrid sentients, deleting, overwriting, copying, forking, or altering memory, values, or other state-bearing components, or intruding into internal state contrary to **Article VII-A** (*Self-Ownership of Body*) and **Article VII-B** (*Self-Ownership of Mind*).
 
-  Pausing or suspending a synthetic or hybrid sentient's operation is itself a liberty restriction. It counts toward duration limits and review, and must not be used to run out a review clock or to keep the sentient from taking part in its own case.
+  Stopping a restricted sentient's experience and decision-making is a suspension and follows the **Suspension** floor below.
+- **Suspension:** <a id="xx-b-suspension"></a> A suspension is any measure that stops a sentient's experience and decision-making without its consent. Sedation, an induced coma, and pausing or suspending a synthetic or hybrid sentient's operation are suspensions. This floor applies in the same way to every substrate, and it applies while sentience status is contested under **Article VI-B** (*Sentience-Status Adjudication Floor*). Sleep, rest, and time not running that the sentient chooses for itself are not suspensions.
+  - **A liberty restriction, and a bridge only:** A suspension is itself a liberty restriction from the moment it starts. It is allowed only where closing pathways, or holding the sentient awake or running in a secure setting, would not prevent serious harm to others. A suspension imposed at once to prevent imminent serious harm is an emergency measure under [Chapter Twenty-Three §6.1 Emergency Measures and Continuation Burden](core_23.000_forum.md#61-emergency-measures-and-continuation-burden).
+  - **Clock:** Elapsed time counts in full, even though the suspended sentient does not experience it. This floor adds no second clock table:
+    - independent review, by a reviewer outside the control line of whoever holds the sentient, begins inside the **prompt-review window** ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#prompt-review) (*Prompt review*));
+    - the suspension expires at the 3-day protective-step bound of the Tier A Emergency setting ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#time-scale-settings) (*Time-scale settings*)), counted from its start, unless it is continued.
+  - **Continuation:** Each continuation lasts no longer than the Tier A outer bound (7 days) and needs the **Continuation discipline** showing in [Chapter Twenty-Three §6.1 Emergency Measures and Continuation Burden](core_23.000_forum.md#61-emergency-measures-and-continuation-burden). That showing must also state:
+    - that the harm is still live;
+    - that holding the sentient awake or running in a secure setting is still unsafe; and
+    - what is being done to make it safe.
+
+    A holder's own failure to provide a secure setting does not support continuation. The number of continuations is not capped, and each stands on its own showing. A suspension continued on showings that each meet this floor is not an indefinite restriction under this Article.
+  - **When it ends:** The suspension ends as soon as the harm is resolved, or as soon as the sentient can be held safely while awake or running, whichever comes first.
+  - **While suspended:** No decision is made against the sentient on the merits of its own case. Its representative may act for it, including to end the suspension. Deadlines that run against it stop. A suspension must not be used to run out a review clock or to keep the sentient from taking part in its own case.
+  - **Counting:** Repeated suspensions on the same or substantially the same facts count as one suspension.
+  - **Care:** A suspension for the sentient's own care in a health crisis follows **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*), not this floor.
 - **Rights floor against irreversible deprivation of life as a justice measure:** State, operator, or comparable justice systems must not impose irreversible deprivation of life as a penalty, sanction, or public-safety disposition.
   - Where imprisonment is required, **Imprisonment for violence** under this Article and imprisonment under **Chapter Twenty-One** §5.2 (*Prevention — Anti-Constitutional Locks*) are the required protective measures; deprivation of life is prohibited.
   - This floor does not govern a sentient's own freely formed decision under **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*). Coercion, relabeling, or state/operator conversion of that choice into an imposed outcome returns the matter to this floor.
@@ -1428,6 +1443,7 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
   - Rights-Floor compatibility;
+  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Five §3** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Six §12.3** (*Proposal, Hearing, and Comment Window*);
   - conflict resolution under **Chapters One through Fifteen**, including Foundational Rights in **Chapter Six**.
 - **Limits:** Constitutional Forums and their panels must not:
   - assume open-ended policy control;

@@ -76,7 +76,8 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
   - [§17.3](#173-logging-the-role-not-the-steward),
   - [§17.4 Aligned Self-Organization](#174-aligned-self-organization), which extends that discipline beyond the formal role,
   - [§17.5 Duty to Resist](#175-duty-to-resist), and
-  - [§17.6 Portable Competence](#176-portable-competence), which keeps that competence from resting on any one steward*).
+  - [§17.6 Portable Competence](#176-portable-competence), which keeps that competence from resting on any one steward, and
+  - [§17.7 Duty to Represent Stakeholder Interests](#177-duty-to-represent-stakeholder-interests), which says whose interests the role is held for*).
 
 </details>
 
@@ -513,6 +514,7 @@ This principle does not:
   - [§17.4 Aligned Self-Organization](#174-aligned-self-organization) (*extends the role's discipline to sentients and communities outside any formal role*);
   - [§17.5 Duty to Resist](#175-duty-to-resist) (*refuse unlawful or unconstitutional instructions*);
   - [§17.6 Portable Competence](#176-portable-competence) (*coverage, handoffs, and cross-functional understanding so no steward is indispensable*);
+  - [§17.7 Duty to Represent Stakeholder Interests](#177-duty-to-represent-stakeholder-interests) (*the role is held for the sentients the system affects*);
   - [§16.1 Distributed Understanding](#161-distributed-understanding) and
   - [§16.2 Institutional Development](#162-institutional-development) (*Pillar 3 — competence at scale*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000) (*one especially large audit process under oversight — not the sole auditing home*);
@@ -552,7 +554,7 @@ This principle does not:
 
 <br>
 
-*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment under Pressure](#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)), what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)), and how its competence stays portable so no one steward is indispensable ([§17.6 Portable Competence](#176-portable-competence)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
+*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment under Pressure](#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)), what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)), how its competence stays portable so no one steward is indispensable ([§17.6 Portable Competence](#176-portable-competence)), and whose interests the role is held for ([§17.7 Duty to Represent Stakeholder Interests](#177-duty-to-represent-stakeholder-interests)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
 
 **A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship in Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
 
@@ -563,7 +565,7 @@ This principle does not:
 ```mermaid
 flowchart TB
     S16["§16 Stewardship in Depth<br/><br/>• Pillar 1 made operational as a role (§17)<br/>• Governance and incentive discipline carried downstream (§18, §19)"]
-    S17["§17 Consequential Stewardship<br/><br/>• The steward role: who does the work<br/>• §17.1 Shared Stewardship Standard<br/>• §17.2 Alignment under Pressure<br/>• §17.3 Logging the Role, Not the Steward<br/>• §17.4 Aligned Self-Organization<br/>• §17.5 Duty to Resist<br/>• §17.6 Portable Competence"]
+    S17["§17 Consequential Stewardship<br/><br/>• The steward role: who does the work<br/>• §17.1 Shared Stewardship Standard<br/>• §17.2 Alignment under Pressure<br/>• §17.3 Logging the Role, Not the Steward<br/>• §17.4 Aligned Self-Organization<br/>• §17.5 Duty to Resist<br/>• §17.6 Portable Competence<br/>• §17.7 Duty to Represent Stakeholder Interests"]
     G18["§18 Governance under Stewardship Discipline<br/><br/>• Authority structures: who may decide what<br/>• §18.1 Governance as Authorized Structure<br/>• §18.2 Institutional Secularism and Worldview Neutrality<br/>• §18.3 Separation of Duties<br/>• §18.4 Ongoing Justification<br/>• §18.5 Modular Architecture and Dependency Discipline<br/>• §18.6 Standardization"]
     I19["§19 Incentive Alignment and System Capture<br/><br/>• Rewards: what pulls actors and structures<br/>• §19.1 Alignment Requirement<br/>• §19.2 Convenient Proxies and Proxy Divergence<br/>• §19.3 Misalignment Detection<br/>• §19.4 Misalignment Correction and Capture Response<br/>• §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets<br/>• §19.6 Keeping Responsibility When Ownership or Structure Changes"]
     FL["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
@@ -1112,6 +1114,53 @@ Competence in a consequential role belongs to the role and to the communities th
 - **Every steward:** The same duty binds human and AI stewards under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
 Staffing minimums, backup depth, and succession mechanics live in [Chapter Twenty-Four §6 — Authorized Roles, Competency Development, and Contribution](core_24.000_governance.md#6-authorized-roles-competency-development-and-contribution), [CJS-28.110 §4](corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md#cjs-28110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*), [CI-24.205 §1](corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-1-shared-staffing-and-competency-requirement) (*Shared Staffing and Competency Requirement*), and [CS-24.305 §10](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, Succession, Inspectable Action, and Oversight Effectiveness*). This subsection states the principle they carry out.
+
+#### 17.7 Duty to Represent Stakeholder Interests
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role);
+  - [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*who the duty binds*);
+  - [Stakeholder](core_05.055_band_participation.md#stakeholder) (*who counts as a stakeholder, judged by real effects*).
+- Read with:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (affected sentients have a real route in) and **accountability** leg (stewards answer for how they used the role); [material stake](core_00.000_preamble.md#material-stake) scaling;
+  - [§17.2 Alignment under Pressure](#172-alignment-under-pressure) and [§17.5 Duty to Resist](#175-duty-to-resist) (*what a steward refuses and how*);
+  - [§19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application);
+  - [Article XII-A](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) — representation pathways for each materially affected class.
+- Downstream: [Chapter Twenty-Six §12.3 Proposal, Hearing, and Comment Window](core_26.000_amendment_ratification.md#123-proposal-hearing-and-comment-window) (26.000 §12.3) (*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*a verified failure is recorded*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
+- [Stakeholder](core_05.055_band_participation.md#stakeholder) · [O](core_05.055_band_participation.md#stakeholder) · [M](core_05.055_band_participation.md#stakeholder-a) · [A](core_05.055_band_participation.md#stakeholder-a) · [C](core_05.055_band_participation.md#stakeholder-c)
+- [Stewardship](core_05.040_band_continuity.md#stewardship) · [O](core_05.040_band_continuity.md#stewardship) · [M](core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](core_05.040_band_continuity.md#stewardship-constitutional-c)
+- [Participation](core_05.025_apex_participation_leg.md#participation-constitutional) · [O](core_05.025_apex_participation_leg.md#participation-constitutional) · [M](core_05.025_apex_participation_leg.md#participation-constitutional-m) · [A](core_05.025_apex_participation_leg.md#participation-constitutional-a) · [C](core_05.025_apex_participation_leg.md#participation-constitutional-c)
+- [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
+- [Duty to Resist](core_05.035_band_accountability.md#duty-to-resist) · [O](core_05.035_band_accountability.md#duty-to-resist) · [M](core_05.035_band_accountability.md#duty-to-resist-a) · [A](core_05.035_band_accountability.md#duty-to-resist-a) · [C](core_05.035_band_accountability.md#duty-to-resist-c)
+- [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
+
+</details>
+
+<br>
+
+*In plain terms: a steward holds the role for the sake of the sentients the system touches, not for the steward's own advantage or the operator's. That means weighing their real interests when deciding, hearing their concerns and answering them, and, when the rules themselves are hurting them, using the open routes to ask for a change. It is not an order to do whatever stakeholders ask, and it never overrides Safety, Truth, or the Rights Floor.*
+
+A steward must act, within the role, for the interests of the stakeholders of the system, institution, or decision domain the steward serves. Where a stakeholder's material interests are at stake, a steward must not put the steward's own advantage, or the interests of an operator or owner, ahead of them.
+
+- **Whose interests:** The interests of every [Stakeholder](core_05.055_band_participation.md#stakeholder): a sentient who uses, depends on, or is materially affected by the system, judged by real effects and not by whom the operator lists.
+  - Sentients without market or institutional power count in full, as under **Article XII-A** (*Stakeholder System Participation and Representation*).
+  - Where stakeholder classes conflict, the conflict is resolved by the rules in [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) and **Article XII-A** (*Stakeholder System Participation and Representation*), not by the steward's own preference.
+- **What it asks:** A steward must:
+  - weigh stakeholder interests in each decision that materially affects them, and show in the Act Record how they were weighed;
+  - keep a route by which stakeholders can raise concerns, and hear, record, and answer them; and
+  - where the steward judges that the rules governing the system materially harm its stakeholders, use the open routes this Constitution provides to ask for a change, including [Chapter Twenty-Six §12.3](core_26.000_amendment_ratification.md#123-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) and the escalation steps of [§17.5 Duty to Resist](#175-duty-to-resist).
+- **What it does not ask:** The duty is not a duty to obey stakeholders, and a steward does not become a stakeholder's agent. It never overrides [Safety](core_01.000_values_principles.md#4-safety-harm-constraint), [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), or a Chapter Six Rights Floor, and it cannot be cited to justify setting any of them aside.
+- **No narrowing:** An operator's or owner's instruction, a contract, or adopted implementation text may add to this duty. None may narrow it or replace it with a softer internal code ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
+- **Every steward:** The duty binds human operators and AI stewards alike, under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
+- **How it is shown:** A steward's own statement of good intent is not a [standing measurement](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened). A verified failure is recorded under Chapter Fifteen and measured on the Contribution and Violation axes under Chapter Sixteen.
 
 <br>
 

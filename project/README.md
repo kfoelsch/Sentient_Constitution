@@ -7,6 +7,7 @@ Working files for the people who maintain the Sentient Constitution. Readers do 
 | [VISION.md](VISION.md) | Where the corpus stands and the path to maturity |
 | [TODO.md](TODO.md) | Open task list |
 | [MEMLOG.md](MEMLOG.md) | Session log of recent decisions and changes |
+| [SHELVED.md](SHELVED.md) | Items the custodian has set aside, with why and what reopens them |
 | [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md) | Regression scenario catalog checked by `make scenario-audit` |
 | [plans/announcement_readiness_2026-10-20.md](plans/announcement_readiness_2026-10-20.md) | Year-end announcement plan, decision queue, review inventory, and batch log |
 | [trials/agent_cooperative_2026-10-20/CASE_PACKET.md](trials/agent_cooperative_2026-10-20/CASE_PACKET.md) | Fictional cooperative trial packet; separate desk walkthrough and dependency hashes; fresh-session execution pending |
