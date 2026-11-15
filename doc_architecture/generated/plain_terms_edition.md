@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_27.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **827** of **1328** headings carry a gloss (62%).
+Coverage: **825** of **1328** headings carry a gloss (62%).
 
 ## Contents
 
@@ -58,8 +58,8 @@ Coverage: **827** of **1328** headings carry a gloss (62%).
 - [CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_24.000_governance.md` (13/15 glossed)
 - [CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-five-non-regression-and-substantive-amendment-validity) — `core_25.000_non_regression.md` (5/6 glossed)
 - [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (18/19 glossed)
-- [CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) — `core_27.000_expansion_supremacy.md` (14/14 glossed)
-- [CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE](#chapter-twenty-eight-incorporation-bridge) — `core_28.000_incorporation.md` (5/5 glossed)
+- [CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) — `core_27.000_expansion_supremacy.md` (13/14 glossed)
+- [CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE](#chapter-twenty-eight-incorporation-bridge) — `core_28.000_incorporation.md` (4/5 glossed)
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
@@ -7821,11 +7821,11 @@ Chapter Twenty-Six owns how amendments are published, chained, reviewed, and rat
 
 ## CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS
 
-Source file: [`core_27.000_expansion_supremacy.md`](../../core_27.000_expansion_supremacy.md) · 14/14 headings glossed
+Source file: [`core_27.000_expansion_supremacy.md`](../../core_27.000_expansion_supremacy.md) · 13/14 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.
+forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment, so audits and challenges stay available throughout. Stricter outside law is respected when it fits, and outside forums cannot be used as an excuse to destroy records or dodge rights.
 
 [Source](../../core_27.000_expansion_supremacy.md#1-purpose-role-and-scope)
 
@@ -7903,11 +7903,11 @@ if you are using this Constitution inside a company, university, protocol, city,
 
 ## CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE
 
-Source file: [`core_28.000_incorporation.md`](../../core_28.000_incorporation.md) · 5/5 headings glossed
+Source file: [`core_28.000_incorporation.md`](../../core_28.000_incorporation.md) · 4/5 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-this section names the bridge — which implementation files can bind, how adoption makes them operative, that later edits do not silently rewrite what was adopted, and that pointing here (or to an incorporated file) invokes only the obligations inside the recorded adoption scope.
+this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only through proper re-adoption under Chapter Twenty-Six and this chapter. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.
 
 [Source](../../core_28.000_incorporation.md#1-purpose-role-and-scope)
 

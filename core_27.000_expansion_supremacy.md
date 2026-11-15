@@ -42,13 +42,11 @@
 
 <br>
 
-Chapter Twenty-Seven is the constitutional owner of **additive expansion of protection, continuity of supremacy and challenge rights during amendment processes, source-layer authority and internal hierarchy relative to incorporated corpus and external law, non-displacement of applicable external law of its own force, alignment of constitutional processes with external legal frameworks in which they are used, and cooperation with external tribunals while preserving internal review pathways**.
+Chapter Twenty-Seven is the constitutional owner of **how this Constitution fits with other rules and outside law**: it lets protections grow, keeps the Constitution in force during amendment, and works alongside outside law and external tribunals without displacing that law or giving up its own review routes.
 
-
-*In plain terms: publishing or using this Constitution does not override the law of the land. You are allowed to strengthen the constitution and to respect stricter outside law when it fits — but internal supremacy, auditability, and the right to push back do not go on vacation during an amendment, and external forums cannot be used as an excuse to shred records or dodge rights.*
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.*
+*In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment, so audits and challenges stay available throughout. Stricter outside law is respected when it fits, and outside forums cannot be used as an excuse to destroy records or dodge rights.*
 
 **Purpose:** Chapter Twenty-Seven states what is permitted and what holds when this Constitution meets other rules:
 
