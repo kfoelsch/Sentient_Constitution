@@ -30,26 +30,27 @@
 
 Chapter Seventeen (Chapters Seventeen–Twenty) is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Sixteen descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
 
-*In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.*
-
-Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) when converting verified Chapter Fifteen standing records into consequences.
-
 <a id="1-purpose-role-and-scope"></a>
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this section says what this chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.*
+*In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score. This section says what the chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.*
 
-**Purpose.** Chapter Seventeen answers Question 3 of the standing pipeline: what follows from verified standing records. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed and decides the consequences.
+**Purpose.** Chapter Seventeen answers Question 3 of the standing pipeline: what follows from verified standing records. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed. It converts the verified standing records into consequences, applying the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
 A **[gated pathway](core_05.035_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§2.2 Prevention — General Standing Locks](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) lists the types.
 
 **Role.** Where this chapter sits:
 
 - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) come first. This chapter takes their standing records and slots as fixed.
-- Chapters Seventeen through Twenty together own standing integration and standing effects. This chapter opens that group and sets the order. [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) holds the contribution consequences, [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) the violation consequences, and [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) the final standing effect, restoration, and enforcement.
+- Chapters Seventeen through Twenty together own standing integration and standing effects:
+  - this chapter opens the group. It fixes the standing records the group starts from ([§2 Chapter Fifteen Records Do Not Change](#2-chapter-fifteen-records-do-not-change)) and sets the eight-step order every decision follows ([§3.4 Processing Order](#34-processing-order));
+  - [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) holds the contribution consequences;
+  - [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) holds the violation consequences; and
+  - [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) holds the final standing effect, restoration, and enforcement.
 - A qualifying Violation Axis slot 7–9 standing record goes to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation), which decides only the anti-constitutional-misconduct designation (ACMD).
-- [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) forums supervise these decisions and can send a standing record back to Chapter Fifteen.
+  - Where a case looks like an attack family in [Chapter Twenty-Two §2 Pattern applications and criteria routing](core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), this chapter decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified standing record. Chapter Twenty-One separately decides the ACMD.
+- [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) forums supervise these decisions. A forum that verifies a pipeline error or material new facts may set a standing record aside or require it to be updated, corrected, or superseded under Chapter Fifteen ([§2.5 Changes Come Only through Chapter Fifteen](#25-changes-come-only-through-chapter-fifteen)).
 
 **Chapter scope.** The chapter works in this order, and [§3.4 Processing Order](#34-processing-order) sets the full sequence:
 
@@ -60,7 +61,22 @@ A **[gated pathway](core_05.035_band_accountability.md#gated-pathway)** is a spe
 - it states one final standing effect for each applicable gated pathway ([§2 Final Standing Effect](core_20.000_final_effect_restoration_enforcement.md#2-final-standing-effect)); and
 - it sets restoration and reassessment and confirms that the result can be enforced ([§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment) and [§4 Enforcement Realism and Remedy Systems](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems)).
 
-The chart shows the same path with the two tracks side by side. They stay separate and are never merged into a net score. Neither track waits for the other. They meet only at the final standing effect, where a lock controls: a gated pathway a lock blocks stays closed, whatever the contribution track found. The two dashed lines at the bottom lead out of the chapter: a qualifying Violation Axis slot 7–9 standing record goes to Chapter Twenty-One, and Chapter Twenty-Three forums supervise these decisions and can send a standing record back to Chapter Fifteen.
+This chapter does not:
+
+- reopen the facts, choose a slot to produce a desired consequence, recalculate LEQU impact, or combine the two axes into a net score ([§2.3 Facts and Measurements Stay Fixed](#23-facts-and-measurements-stay-fixed));
+- let verified contribution offset a verified harm, cancel a lock, or open a blocked gated pathway ([§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences));
+- reduce the [Rights Floor](core_06.000_rights_part_a.md#chapter-six-foundational-rights), which does not depend on standing ([§2.6 The Rights Floor Is Not Reduced](#26-the-rights-floor-is-not-reduced)); or
+- make a [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation. It routes a qualifying Violation Axis slot 7–9 standing record there where anti-constitutional-misconduct designation (ACMD) is at issue ([§3.4 Processing Order](#34-processing-order)).
+
+Worked examples of Question 3 are kept with the other application vignettes in [CJS-15.105](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes) (*Application vignettes*). They apply the rules in this chapter and add no rule or lock type.
+
+<a id="2-chapter-fifteen-records-do-not-change"></a>
+
+### 2. Chapter Fifteen Records Do Not Change
+
+*In plain terms: this is the first step of the decision order. Consequences are worked out from the verified standing records Chapter Fifteen already made, so Question 3 never changes the facts or the measurement. This chapter may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.*
+
+The chart shows the same path as [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope), with the two tracks side by side. They stay separate and are never merged into a net score. Neither track waits for the other. They meet only at the final standing effect, where a lock controls: a gated pathway a lock blocks stays closed, whatever the contribution track found. The two dashed lines at the bottom lead out of the chapter: a qualifying Violation Axis slot 7–9 standing record goes to Chapter Twenty-One, and Chapter Twenty-Three forums supervise these decisions and can send a standing record back to Chapter Fifteen.
 
 ```mermaid
 flowchart TB
@@ -109,23 +125,6 @@ flowchart TB
     style V fill:none,stroke:#64748b,color:#ffffff,stroke-dasharray: 5 5
     style C fill:none,stroke:#64748b,color:#ffffff,stroke-dasharray: 5 5
 ```
-
-This chapter does not:
-
-- reopen the facts, choose a slot to produce a desired consequence, recalculate LEQU impact, or combine the two axes into a net score ([§2.3 Facts and Measurements Stay Fixed](#23-facts-and-measurements-stay-fixed));
-- let verified contribution offset a verified harm, cancel a lock, or open a blocked gated pathway ([§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences));
-- reduce the [Rights Floor](core_06.000_rights_part_a.md#chapter-six-foundational-rights), which does not depend on standing ([§2.6 The Rights Floor Is Not Reduced](#26-the-rights-floor-is-not-reduced)); or
-- make a [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation. It routes a qualifying Violation Axis slot 7–9 standing record there where anti-constitutional-misconduct designation (ACMD) is at issue ([§3.4 Processing Order](#34-processing-order)).
-
-A forum under [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) supervises these decisions. A forum that verifies a pipeline error or material new facts may set a standing record aside or require it to be updated, corrected, or superseded under Chapter Fifteen ([§2.5 Changes Come Only through Chapter Seventeen](#25-changes-come-only-through-chapter-fifteen)).
-
-Worked examples of Question 3 are kept with the other application vignettes in [CJS-15.105](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes) (*Application vignettes*). They apply the rules in this chapter and add no rule or lock type. [CJS-15.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-8-riparian-cooperative-restoration-contribution-measurement) ends with competency clearance after informal ecological stewardship, and [CJS-15.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) ends with negligence and concealment. [CJS-15.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-10-question-3-routing-patterns) adds twelve more recurring situations: forum-integrity failures, recurrence after restitution, repair while a lock is active, institutional misuse and successor evasion, misaligned rewards, anti-constitutional misconduct allegations, Rights-Floor waiver devices, flooding, infrastructure denial, stakeholder-participation corruption, obstruction of accountability, and verified cruelty. [Chapter Sixteen §9 Measurement Illustrations](core_16.000_standing_measurement.md#9-measurement-illustrations) gives the Question 2 side. If an example looks like an attack family in [Chapter Twenty-Two §2 Pattern applications and criteria routing](core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), this chapter decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified standing record. Chapter Twenty-One separately decides the ACMD.
-
-<a id="2-chapter-fifteen-records-do-not-change"></a>
-
-### 2. Chapter Fifteen Records Do Not Change
-
-*In plain terms: this is the first step of the decision order. Consequences are worked out from the verified standing records Chapter Fifteen already made, so Question 3 never changes the facts or the measurement. This chapter may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.*
 
 Chapter Seventeen starts with the verified standing records produced under Chapter Fifteen. That is the first step of the  processing order, and its purpose is to keep consequences separate from the facts and measurements they rest on. It uses only records that apply to the decision, and it keeps contribution and violation records separate. This section sets out which records it uses, what happens when one axis has no standing record, what stays fixed, what does not count as standing, how a standing record can change, and the Rights Floor.
 

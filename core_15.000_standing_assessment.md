@@ -7,19 +7,6 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Fifteen lives and what stays here</span></strong></summary>
-
-> | Question | Owner and role |
-> | --- | --- |
-> | **1. What happened?** | Chapter Fifteen (this file): establish verified facts in a bounded, contestable standing record. |
-> | **2. How good or bad was it?** | [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it): measure the verified facts without merging help and harm. |
-> | **3. What happens because of it?** | Continue to [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows). |
->
-> Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
-
-</details>
-
-<details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
@@ -61,12 +48,11 @@
 <br>
 
 <a id="chapter-eleven-orientation"></a>
-Chapter Fifteen is the constitutional owner of **the verified factual record (Question 1)**. It runs from [§2 The Three Questions](#2-the-three-questions) through [§7 Handling a Standing Record](#7-handling-a-standing-record). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [Chapter Sixteen §2 Question 2 — How Good or Bad Was It?](core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it) through [Chapter Sixteen §10 Hand-Off to Question 3 — Cross-Question Measurement Hooks](core_16.000_standing_measurement.md#10-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Seventeen.
+Chapter Fifteen is the constitutional owner of **the verified factual record (Question 1)**.
 
-*In plain terms: this chapter writes down what happened and holds the standing record. How good or how harmful it was is measured in Chapter Sixteen, on two separate tracks, never one net score. Filing a case is not standing by itself.*
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
+*In plain terms: standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? It writes down what happened and holds the standing record. Allegations, popularity, and dispute narratives are not answers to that question, and filing a case is not standing by itself. How good or how harmful it was is measured in Chapter Sixteen, on two separate tracks, never one net score. Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
 
 **Purpose.** Chapter Fifteen opens the standing pipeline. It states the three questions (**section 2**) and answers Question 1: it establishes a bounded, contestable account of what happened, identifying the subject, the event or pattern, the time period, the verified facts, and the standing record's status before any rating or consequence is considered (**section 3**). Verified help and verified violations use separate standing records, so one cannot erase the other.
 
@@ -76,7 +62,7 @@ Chapter Fifteen is the constitutional owner of **the verified factual record (Qu
 - Certification outcomes reach it only as verified inputs, through the gate in **Chapter Eleven section 5** and **Chapter Fourteen section 5**.
 - [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)'s four-seat rule is applied to standing records in **section 6**.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope.** The chapter runs from [§2 The Three Questions](#2-the-three-questions) through [§7 Handling a Standing Record](#7-handling-a-standing-record). It covers:
 
 - the three questions (**section 2**);
 - Question 1 (**section 3**);
@@ -87,7 +73,7 @@ Chapter Fifteen is the constitutional owner of **the verified factual record (Qu
 
 Chapter scope for the standing frame itself, including what it does not measure, is stated in **section 2.1**. The chapter leaves:
 
-- how good or bad a verified fact was to Chapter Sixteen;
+- how good or bad a verified fact was (Question 2) to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
 - what follows to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows); and
 - forum supervision of standing records to [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (**section 3.7**, *Forum Boundary*).
 
