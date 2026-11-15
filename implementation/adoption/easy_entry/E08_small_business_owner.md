@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_26.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -71,7 +71,7 @@ See: [CI-9.210 §4](../../../corpus_institutions/ci_09.210_classification_linked
 
 - **“The big platforms will never adopt, so I just get extra rules.”** Correct that this Constitution does not bind a marketplace you do not control. Partial scope has to stay honest. The case for you is the leave-without-tricks and business-creation floor *if* a body in your stack actually takes it up — not a promise that a global processor already has.
 
-- **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 - **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope document for systems you actually run, those rules are located in the section on [System Charter](../../../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../../../core_05.040_band_continuity.md#institutional-charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
 

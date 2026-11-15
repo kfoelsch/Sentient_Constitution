@@ -3556,7 +3556,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - creating, substituting for, amending, or durably restructuring constitutional authority under an emergency label;
     - emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response used to entrench a new governing authority;
     - bypassing [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice);
-    - evading Chapter Twenty-Six validity procedures; or
+    - evading Chapter Twenty-Seven validity procedures; or
     - normalizing emergency constitutional power after the emergency predicate fails.
 
 ---
@@ -4625,7 +4625,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Institution](core_05.040_band_continuity.md#institution),
   - [System Charter](core_05.040_band_continuity.md#system-charter), and
   - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter).
-- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](core_05.040_band_continuity.md#system-charter) or an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), which state the scope of a system or institution, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Seven §11 Ratification and Adoption](core_27.000_amendment_ratification.md#11-ratification-and-adoption) (27.000 §11)).
+- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](core_05.040_band_continuity.md#system-charter) or an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), which state the scope of a system or institution, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Six §11 Ratification and Adoption](core_26.000_amendment_ratification.md#11-ratification-and-adoption) (26.000 §11)).
 
 </details>
 

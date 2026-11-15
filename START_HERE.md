@@ -9,7 +9,7 @@
 <a id="what-adoption-means"></a>
 ## 1. What Adoption Means
 
-This is a **model constitution**. It becomes **enforceable** for a particular body only after that body validly adopts it under [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#11-ratification-and-adoption) and [Chapter Twenty-Eight §4](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference; it has no power to enforce against anyone who has not adopted it. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework ([Chapter Twenty-Six §6](core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+This is a **model constitution**. It becomes **enforceable** for a particular body only after that body validly adopts it under [Chapter Twenty-Six](core_26.000_amendment_ratification.md#11-ratification-and-adoption) and [Chapter Twenty-Eight §4](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference; it has no power to enforce against anyone who has not adopted it. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework ([Chapter Twenty-Seven §6](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 Four duties (**participation**, **oversight**, **accountability**, and **timeliness**) grow stronger as a system's [material stake](core_00.000_preamble.md#material-stake) grows ([Preamble §1](core_00.000_preamble.md#constitutional-tetrad)). Human and AI stewards are held to one shared standard ([Chapter One §17.1](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)): there is no AI-only rulebook, and no exemption for humans.
 
@@ -30,7 +30,7 @@ Named in [PRE_PUBLICATION_SPEC.md §3.1](implementation/PRE_PUBLICATION_SPEC.md)
 | Mode | What it is | When you can honestly say "we adopted it" |
 |---|---|---|
 | **Operations-guide use** | Using parts of the text as a practical guide for real problems, without claiming full constitutional adoption | Never. Attach the [non-adoption banner](implementation/adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when this is your situation |
-| **Full adoption** | A qualifying body records a Chapter Twenty-Seven adoption document and keeps it in its own custody under Chapter Twenty-Eight | Only after that adoption document exists in **that body's** custody |
+| **Full adoption** | A qualifying body records a Chapter Twenty-Six adoption document and keeps it in its own custody under Chapter Twenty-Eight | Only after that adoption document exists in **that body's** custody |
 
 <a id="fit-tests"></a>
 ## 3. Does It Fit Your Situation?
@@ -68,7 +68,7 @@ Full ranking and sketches: [FIT_SITUATIONS.md §4](implementation/adoption/FIT_S
 Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5-honest-non-fits):
 
 - Retrofitting an existing national constitution as drop-in law.
-- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Twenty-Six §6](core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Twenty-Seven §6](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 - Marketing "we follow it" while dodging the matching obligations ([Chapter Twenty-Eight §4](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §17.4](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
@@ -76,7 +76,7 @@ Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5
 - Treating a participation vote, token vote, or standing score as authorization, or as a finding about sentience ([Preamble §3.3](core_00.000_preamble.md#33-governance-layers); [Article XIX-A](core_06.030_rights_part_d.md#article-xix-a-standing-distinction)).
 - Staffing Chapter Twenty-Three review forums from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
 
-If any "cannot bind" row in the first-adopter kit's [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block describes your situation, do not claim Chapter Twenty-Seven adoption.
+If any "cannot bind" row in the first-adopter kit's [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block describes your situation, do not claim Chapter Twenty-Six adoption.
 
 <a id="where-to-go-next"></a>
 ## 6. Where to Go Next

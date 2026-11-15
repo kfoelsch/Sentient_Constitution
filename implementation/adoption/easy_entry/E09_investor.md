@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_26.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -77,7 +77,7 @@ See: [CI-9.210 §4](../../../corpus_institutions/ci_09.210_classification_linked
 
 - **“I’ll just require a values page in the data room.”** Marketing “we follow it” while dodging matching obligations is an honest non-fit ([Chapter Twenty-Eight §4](../../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). If you want the risk reduction, the portfolio company has to bind the systems it actually runs.
 
-- **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 - **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §17.1](../../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 

@@ -279,15 +279,15 @@
     },
     {
       "id": "CH18-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Six nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Six bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Seven nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Seven bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch18-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH19-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Seven nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Seven bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Six nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Six bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch19-nested-list-candidates",
       "status": "advisory"
     },

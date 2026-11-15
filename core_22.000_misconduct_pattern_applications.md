@@ -136,7 +136,7 @@ The three subsections below apply the existing Chapter Twenty-One sequence to co
 - Upstream: [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§3.1.2](#312-unconstitutional-contract-term-conduct).
 - Downstream: [§2.3](core_21.000_misconduct_designation.md#23-chapters-twenty-five-through-twenty-seven-boundary) (*Chapters Twenty-Five through Twenty-Seven boundary*); [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
-- Read with: [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
+- Read with: [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
 
 </details>
 
@@ -168,7 +168,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
   - constitutionally required **auditability** or **contestability**; or
   - **standing** needed to vindicate those protections.
 - Covered when the condition works to defeat, narrow, or discourage use of those protections and is not justified by **Necessity** and **Proportionality** (see **Chapter One** and **Chapter Five**).
-- Not covered: the adoption documents themselves. **Chapter Twenty-Seven** sets the validity rules for those.
+- Not covered: the adoption documents themselves. **Chapter Twenty-Six** sets the validity rules for those.
 
 <a id="312-unconstitutional-contract-term-conduct"></a>
 

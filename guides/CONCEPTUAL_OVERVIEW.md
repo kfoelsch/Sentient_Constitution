@@ -1027,8 +1027,8 @@ flowchart TB
     P["Participation inside authorized systems<br/><br/>Voice and challenge paths for affected sentients"]
     R["Contestation, correction<br/><br/>and reauthorization where applicable"]
     N["Chapter Twenty-Five<br/><br/>Non-regression"]
-    H["Chapter Twenty-Six<br/><br/>Supremacy within scope and external-law relations"]
-    U["Chapter Twenty-Seven<br/><br/>Amendment, ratification and adoption procedures"]
+    U["Chapter Twenty-Six<br/><br/>Amendment, ratification and adoption procedures"]
+    H["Chapter Twenty-Seven<br/><br/>Supremacy within scope and external-law relations"]
     B["Chapter Twenty-Eight<br/><br/>Incorporation, edition and custody"]
     I["Adopted implementation obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
@@ -1060,8 +1060,8 @@ Foundational constitutional choice has an equal political-voice floor: within th
 The final chapters preserve the Constitution as it changes and is put into use:
 
 - [Chapter Twenty-Five](../core_25.000_non_regression.md) guards against substantive regression.
-- [Chapter Twenty-Six](../core_26.000_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
-- [Chapter Twenty-Seven](../core_27.000_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
+- [Chapter Twenty-Six](../core_26.000_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
+- [Chapter Twenty-Seven](../core_27.000_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
 - [Chapter Twenty-Eight](../core_28.000_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
 
 Together, these provisions connect everyday governance to its authorization and keep changes to the rules visible and contestable. Valid adoption determines enforceability for an adopter; publication or reading alone does not.
@@ -1178,7 +1178,7 @@ See [Chapter Twenty-Four §6](../core_24.000_governance.md#6-authorized-roles-co
 flowchart TB
     Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Twenty-Eight<br/>Binding constitutional source"]
     Bridge["Chapter Twenty-Eight<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
-    Adopt["Valid adoption<br/><br/>Chapters Twenty-Seven and Twenty-Eight"]
+    Adopt["Valid adoption<br/><br/>Chapters Twenty-Six and Twenty-Eight"]
     subgraph Comp["Adopted implementation corpus · implements, not narrows"]
         direction LR
         J["corpus_joint_structure<br/><br/>Cross-implementation links"]

@@ -1,17 +1,17 @@
-# CHAPTER TWENTY-SEVEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
+# CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Seven**: amendment, ratification, and procedural validity (Tests 2–4). **Chapter Twenty-Five** is in [`core_25.000_non_regression.md`](core_25.000_non_regression.md). **Chapter Twenty-Six** is in [`core_26.000_expansion_supremacy.md`](core_26.000_expansion_supremacy.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Six**: amendment, ratification, and procedural validity (Tests 2–4). **Chapter Twenty-Five** is in [`core_25.000_non_regression.md`](core_25.000_non_regression.md). **Chapter Twenty-Seven** is in [`core_27.000_expansion_supremacy.md`](core_27.000_expansion_supremacy.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Seven lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Six lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** amendment and adoption procedure; procedural and custody validity tests (Tests 2–4); review triggers; provisional effect; invalid-change handling; ratification documents; amendment procedure requirements.
-> - **Substantive non-regression:** **Chapter Twenty-Five**. **Supremacy** and **external legal orders:** **Chapter Twenty-Six**.
+> - **Constitutional owner:** amendment and adoption procedure; procedural and custody validity tests (Tests 2–4); review triggers; provisional effect; invalid-change handling; referral of serious bad-faith conduct; ratification documents; amendment procedure requirements.
+> - **Substantive non-regression:** **Chapter Twenty-Five**. **Supremacy** and **external legal orders:** **Chapter Twenty-Seven**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) Test 1 and non-regression; [Chapter Twenty-Six](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders) (26.000) supremacy and external-order interface; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy context for collective change.
+- Upstream: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) Test 1 and non-regression; [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) (27.000) supremacy and external-order interface; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy context for collective change.
 - Subsections: [§§ 2–13](#2-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and owner non-relocation).
 - Downstream: Adoption documents and edition custody tie to [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045) and [Corpus and Authority Stack](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) publication, burden, and traceability requirements invoked in Test 2 and §12.
@@ -29,35 +29,36 @@
 
 <br>
 
-Chapter Twenty-Seven is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, ratification documents, and amendment procedure requirements.
+Chapter Twenty-Six is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, referral of serious bad-faith conduct, ratification documents, and amendment procedure requirements.
 
 
 *In plain terms: this chapter is the procedural and paperwork spine for legitimate change — publish clearly, prove custody of the real text, let independent reviewers and the public contest it, and do not let rights-affecting updates snap irreversibly into place before those guardrails have actually run.*
 
-This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Five** (non-regression), **Chapter Twenty-Six** (supremacy and external-order interface), and the validity conditions in this chapter.
+This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Five** (non-regression), **Chapter Twenty-Seven** (supremacy and external-order interface), and the validity conditions in this chapter.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.*
 
-**Purpose.** Chapter Twenty-Seven states Tests 2 to 4 and the rules around them:
+**Purpose.** Chapter Twenty-Six states Tests 2 to 4 and the rules around them:
 
 - the framing rules: heightened review for rights-affecting changes (**section 2**), the burden of justification and public traceability (**section 3**), and the validity floor (**section 4**);
 - the three tests: procedural validity and publication integrity (**section 5**), authority-chain and custody validity (**section 6**), and contestability and independent review validity (**section 7**);
-- what happens when review is needed or a change fails: review triggers (**section 8**), the provisional effect rule (**section 9**), and invalid-change handling and remediation continuity (**section 10**);
+- what happens when review is needed or a change fails: review triggers (**section 8**), the provisional effect rule (**section 9**), and invalid-change handling, remediation continuity, and the referral of serious bad-faith conduct (**section 10**);
 - how a body adopts and how it amends: ratification and adoption (**section 11**) and amendment procedure requirements (**section 12**); and
 - the owner non-relocation rule for this chapter (**section 13**).
 
 **Role.** The chapter is the procedural half of change validity:
 
 - [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) states Test 1, the substance test. Procedural steps cannot save a change that fails it (**section 4**).
-- A body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Six section 6**).
+- A body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Seven section 6**).
 - [Chapter Twenty-Eight](core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) holds custody, editions, and operative effect.
+- When amendment or adoption conduct shows serious bad faith, this chapter opens a referral record and sends it on (**section 10**). [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures it and assigns any numeric slot, [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) decides any anti-constitutional-misconduct designation, and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the consequences. This chapter does not label, rank, or sanction the conduct itself.
 
 **Chapter scope.** The chapter covers:
 
 - heightened review, the burden of justification, and the validity floor (**section 2** to **section 4**);
 - the three procedural tests, Tests 2 to 4 (**section 5** to **section 7**);
-- review triggers, the provisional effect rule, and invalid-change handling (**section 8** to **section 10**);
+- review triggers, the provisional effect rule, invalid-change handling, and the referral of serious bad-faith conduct (**section 8** to **section 10**);
 - ratification, adoption, and amendment procedure requirements (**section 11** and **section 12**); and
 - the owner non-relocation rule (**section 13**).
 
@@ -74,7 +75,7 @@ Escalation wording in this chapter is routing, not a second accountability code.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Seven](#chapter-twenty-seven-amendment-ratification-and-procedural-validity) validity stack; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor.
+- Upstream: [Chapter Twenty-Six](#chapter-twenty-six-amendment-ratification-and-procedural-validity) validity stack; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor.
 - Downstream: [§3](#3-burden-of-justification-and-public-traceability) public justification; [§8](#8-review-triggers) automatic triggers list.
 - Read with: [Article XII](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) family for materially rights-affecting process design.
 
@@ -198,7 +199,7 @@ Heightened review is automatically triggered for amendments that materially affe
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§8](#8-review-triggers) heightened review triggers.
-- Downstream: [§10](#10-invalid-change-handling-and-remediation-continuity) invalidity handling; [Chapter Twenty-Six §3](core_26.000_expansion_supremacy.md#3-continuity-of-supremacy-and-challenge-rights-during-amendment) (26.000 §3) continuity of challenge rights.
+- Downstream: [§10](#10-invalid-change-handling-and-remediation-continuity) invalidity handling; [Chapter Twenty-Seven §3](core_27.000_expansion_supremacy.md#3-continuity-of-supremacy-and-challenge-rights-during-amendment) (27.000 §3) continuity of challenge rights.
 - Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) rights materiality for what counts as "rights-affecting."
 
 </details>
@@ -214,14 +215,16 @@ Rights-affecting amendments and authority-structure amendments do not take irrev
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-validity-floor-rule)–[§9](#9-provisional-effect-rule) validity and timing rules.
-- Downstream: Referral-style obligations in operative bullets route per [Chapter Twenty-Five §5](core_25.000_non_regression.md#5-layer-scope) (25.000 §5) layer scope.
+- Downstream:
+  - Mandatory referral records route to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (separate Contribution Axis and Violation Axis records and numeric measurement on the §8 unified scale), [Chapter Seventeen §3](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) (integration routing of qualifying Violation Axis slot 7–9 findings), and [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (21.000) (the corresponding anti-constitutional-misconduct designation for a qualifying Chapter Sixteen Violation Axis slot 7, 8, or 9 record); this chapter does not classify.
+  - Referral-style obligations in operative bullets route per [Chapter Twenty-Five §5](core_25.000_non_regression.md#5-layer-scope) (25.000 §5) layer scope.
 - Read with: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) forum-family and jurisdiction routing where invalidity determinations implicate forum role.
 
 </details>
 
 <br>
 
-*In plain terms: when a change is declared invalid, treat it as void for constitutional purposes from that determination forward, spell out what must be rolled back and how **affected** **parties** get a fair remedy — and publish a time-bounded plan that restores protections and preserves evidence.*
+*In plain terms: when a change is declared invalid, treat it as void for constitutional purposes from that determination forward, spell out what must be rolled back and how **affected** **parties** get a fair remedy — and publish a time-bounded plan that restores protections and preserves evidence. Serious bad-faith conduct in making or adopting a change is referred to the bodies that own labels and sanctions, not relabeled here.*
 
 Where a change is found invalid, it is treated as non-operative for constitutional supremacy purposes from the point of determination. Decision records must identify scope, affected acts, remediation obligations, and required restoration steps for materially affected parties.
 
@@ -230,11 +233,20 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - preserves evidence under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) and audit trails
 - provides contestable remedy pathways proportionate to impact and dependency
 
+<a id="serious-misconduct-referral"></a>
+**Serious-misconduct referral.** Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Twenty-One**, **section 3** (*Criteria set*)](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale), **criteria 1** **through** **4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) on **change** or **record** pathways):
+- willful deceptive intent;
+- knowing falsification or suppression;
+- material rollback effect; and
+- causally significant obstruction or degradation.
+
+**Forcible** or **nullification** misconduct routes through **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) of the same section where material. Those traits remain character descriptors and anti-constitutional-misconduct designation (ACMD) predicates; they do not move the numeric Violation Axis slot. The standing record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution and violation measurement** (Contribution Axis and Violation Axis), including numeric slot assignment on the shared five-times LEQU bands from verified impact and separate axis records, is owned by the [**Chapter Sixteen §7 unified scale**](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) in [core_15.000_standing_assessment.md](core_15.000_standing_assessment.md). [**Chapter Seventeen**](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) owns standing effects and integration without moving either slot. For a final Chapter Sixteen **Violation Axis slot 7, 8, or 9** impact slot, **Chapter Twenty-One** (*Anti-Constitutional Misconduct*) in [core_21.000_misconduct_designation.md](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) may add the corresponding **ACMD**, subject to its criteria, due-process safeguards, and cross-chapter discipline, as referenced under [Chapter Sixteen §5 Slot Grammar and Shared Scaling](core_16.000_standing_measurement.md#5-slot-grammar-and-shared-scaling) and the [Chapter Seventeen §3 gateway](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity). This chapter issues **referral and review triggers only**; it does not assign or move a numeric slot or attach, narrow, or expand canonical designations.
+
 ### 11. Ratification and Adoption
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§6](#6-test-3--authority-chain-and-custody-validity) custody validity; [Chapter Twenty-Six §4.1](core_26.000_expansion_supremacy.md#41-internal-hierarchy-for-adopters) (26.000 §4.1) internal hierarchy for adopters.
+- Upstream: [§6](#6-test-3--authority-chain-and-custody-validity) custody validity; [Chapter Twenty-Seven §4.1](core_27.000_expansion_supremacy.md#41-internal-hierarchy-for-adopters) (27.000 §4.1) internal hierarchy for adopters.
 - Subsections: [§11.1](#111-deliberate-adoption)–[§11.3](#113-joining-by-additional-parties).
 - Downstream: [§12](#12-amendment-procedure-requirements) notice and recorded effectiveness.
 - Read with: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** classification referenced in §11.1; [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045).
@@ -364,16 +376,16 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 <br>
 
-*In plain terms: Chapter Twenty-Seven owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Sixteen §7 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Twenty-One anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
+*In plain terms: Chapter Twenty-Six owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Sixteen §7 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Twenty-One anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
 
 Under [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 8** (*Review Triggers*) and in **section 10** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
-Cross-layer drift that imports classification substance, sanction mechanics, or adjudicative workflow from another owner layer into **Chapter Twenty-Seven** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
+Cross-layer drift that imports classification substance, sanction mechanics, or adjudicative workflow from another owner layer into **Chapter Twenty-Six** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
 Future additions that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation).
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Seven layer routing index</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Six layer routing index</span></strong></summary>
 
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the procedural change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Sixteen** in [core_16.000_standing_measurement.md](core_16.000_standing_measurement.md); **standing effects and integration** — **Chapter Seventeen** in [core_17.000_standing_integration.md](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows);
@@ -384,6 +396,6 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 
 ---
 
-**Previous file:** [core_26.000_expansion_supremacy.md](core_26.000_expansion_supremacy.md)
+**Previous file:** [core_25.000_non_regression.md](core_25.000_non_regression.md)
 
-**Next file:** [core_28.000_incorporation.md](core_28.000_incorporation.md)
+**Next file:** [core_27.000_expansion_supremacy.md](core_27.000_expansion_supremacy.md)

@@ -50,7 +50,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Operability — Mixed.** Def.P1, Sentience Non-Exclusion, and Article V-D are steward-usable. The concrete sentience-indicator catalog is forum/standards operational, not a fixed statutory list. Chapter Twenty-Three notes no dedicated Sentience-Status Adjudication Record schema yet in Chapter Twenty-Eight files — the floor binds; the record is thin.
 
-**Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption)).
+**Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Twenty-Six §11.1](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption)).
 
 ### Paired quotes
 
@@ -154,7 +154,7 @@ German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and
 
 **Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
 
-**Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption)
+**Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Twenty-Six §11.1](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption)
 
 **Model-constitution limit (corpus):** “Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.” — [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)
 

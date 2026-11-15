@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_26.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -71,7 +71,7 @@ See: [Article II-B](../../../core_06.000_rights_part_a.md#article-ii-b-repair-ma
 
 - **“You will take our land in the name of ecology.”** CI-6.260 does not reopen every old land case, and it does not turn this Constitution into a land-title fight. Protecting air, water, and soil is a basic protection; it is not a spare deed for an outside project.
 
-- **“We already have our own rules.”** This Constitution does not override applicable local, national, or international law ([Chapter Twenty-Six §6](../../../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). Where used inside that framework, processes have to stay consistent with it. It is a companion measurement and challenge frame for systems that affect you, not a second state.
+- **“We already have our own rules.”** This Constitution does not override applicable local, national, or international law ([Chapter Twenty-Seven §6](../../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). Where used inside that framework, processes have to stay consistent with it. It is a companion measurement and challenge frame for systems that affect you, not a second state.
 
 - **“A sensor loan is just how we get seed now.”** Making next season’s food depend on giving up your data, selling only to them, or being unable to leave a buyer app is the lock-in pattern [Article XXI-C](../../../core_06.030_rights_part_d.md#article-xxi-c-anti-lock-in-rule) names. Ordinary trade with a real way to leave is not that pattern.
 

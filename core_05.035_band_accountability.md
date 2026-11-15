@@ -3153,7 +3153,7 @@ See **Anti-Segmentation Principle**.
   - [Merits Determination](core_05.035_band_accountability.md#merits-determination),
   - [Contestability](core_05.035_band_accountability.md#contestability);
   - [Chapter Twenty-Eight](core_28.000_incorporation.md) (28.000) and
-  - [Chapter Twenty-Six](core_26.000_expansion_supremacy.md) (26.000) (*adopter enforceability and external legal authority, not defined here*).
+  - [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md) (27.000) (*adopter enforceability and external legal authority, not defined here*).
 
 </details>
 
@@ -3172,7 +3172,7 @@ See **Anti-Segmentation Principle**.
     - who may file or contest a matter;
     - intra-family docket assignment and scheduling;
     - when this Constitution is enforceable against an adopter or a non-adopter ([Chapter Twenty-Eight](core_28.000_incorporation.md)); and
-    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Twenty-Six](core_26.000_expansion_supremacy.md)).
+    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Twenty-Seven](core_27.000_expansion_supremacy.md)).
 <a id="jurisdiction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*

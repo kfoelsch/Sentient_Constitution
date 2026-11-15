@@ -507,15 +507,15 @@ Each summary below states what the chapter owns and what it produces.
 - **What it owns:** The substantive floor against regressive change. Amendments and workarounds cannot roll back core protections, hollow the Tetrad below material stake, or disguise regression as technical cleanup.
 - **What it produces:** The **first constitutional guardrail** on any proposed change: if a change would weaken core protections in practice, it is not valid — even when the procedure looks fine. Suspected workarounds or disguised rollbacks are stopped, or sent to the proper review paths, instead of slipping through quietly.
 
-**Chapter Twenty-Six — Supremacy and external orders** ([`core_26.000_expansion_supremacy.md`](core_26.000_expansion_supremacy.md#chapter-twenty-six-expansion-supremacy-and-external-legal-orders))
-
-- **What it owns:** How this Constitution relates to other norms: expansion of protection where lawful, supremacy within its valid source, adoption, and governance-layer scope, non-displacement of applicable external law of its own force, and disciplined interaction with external legal orders without silent subordination or capture.
-- **What it produces:** Hierarchy and conflict-order rules. Publication or use is not treated as repealing applicable external law, and adopters cannot treat incorporated procedure, weaker external norms, or convenience metrics as overriding Sentient Constitution meaning within valid adoption scope.
-
-**Chapter Twenty-Seven — Amendment, ratification, and adoption** ([`core_27.000_amendment_ratification.md`](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity))
+**Chapter Twenty-Six — Amendment, ratification, and adoption** ([`core_26.000_amendment_ratification.md`](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity))
 
 - **What it owns:** How this Constitution may lawfully change — amendment procedure, ratification, and adoption — plus the **procedural guardrails** that follow Chapter Twenty-Five's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
 - **What it produces:** A complete lawful change path. Only amendments and adoptions that clear both the **non-regression guardrail** and the **procedural guardrails** count as valid constitutional updates.
+
+**Chapter Twenty-Seven — Supremacy and external orders** ([`core_27.000_expansion_supremacy.md`](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders))
+
+- **What it owns:** How this Constitution relates to other norms: expansion of protection where lawful, supremacy within its valid source, adoption, and governance-layer scope, non-displacement of applicable external law of its own force, and disciplined interaction with external legal orders without silent subordination or capture.
+- **What it produces:** Hierarchy and conflict-order rules. Publication or use is not treated as repealing applicable external law, and adopters cannot treat incorporated procedure, weaker external norms, or convenience metrics as overriding Sentient Constitution meaning within valid adoption scope.
 
 **Chapter Twenty-Eight — Incorporation bridge** ([`core_28.000_incorporation.md`](core_28.000_incorporation.md))
 

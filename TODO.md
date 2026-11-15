@@ -37,8 +37,8 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 23:** [core_23.000_forum.md](core_23.000_forum.md)
 - **Ch 24:** [core_24.000_governance.md](core_24.000_governance.md)
 - **Ch 25:** [core_25.000_non_regression.md](core_25.000_non_regression.md)
-- **Ch 26:** [core_26.000_expansion_supremacy.md](core_26.000_expansion_supremacy.md)
-- **Ch 27:** [core_27.000_amendment_ratification.md](core_27.000_amendment_ratification.md)
+- **Ch 26:** [core_26.000_amendment_ratification.md](core_26.000_amendment_ratification.md)
+- **Ch 27:** [core_27.000_expansion_supremacy.md](core_27.000_expansion_supremacy.md)
 - **Ch 28:** [core_28.000_incorporation.md](core_28.000_incorporation.md)
 
 ## Open Backlog
@@ -47,13 +47,13 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 
 The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md) and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md).
 
-- [ ] Chapter Twenty-Seven §2 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §5](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+- [ ] Chapter Twenty-Six §2 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §5](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 
 ### Chapter Seven locks, time windows, and related edits — announcement follow-ups
 
 Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
 
-- [ ] Complete announcement adoption and contest steps for the Chapter Twenty-Seven §2 heightened reviews; recorded review fixes were not independently re-reviewed.
+- [ ] Complete announcement adoption and contest steps for the Chapter Twenty-Six §2 heightened reviews; recorded review fixes were not independently re-reviewed.
 - [ ] Run `make edition-bump` on release day.
 - [ ] Ensure the time-window Test 1 self-check is linked from the relevant PR.
 
@@ -81,7 +81,7 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 
 The completed Option A review and process definitions are in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 
-- [ ] Human-edit the Lane D core proposal for Chapter Eleven §2.1 and Chapter Twenty-One; Chapter Twenty-Seven §2 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise. The supporting process-ownership draft records the proposed guardrails and resolved design directions; exact core placement, wording, scope, and whether CI-23.205 needs a companion change-record template remain for human review.
+- [ ] Human-edit the Lane D core proposal for Chapter Eleven §2.1 and Chapter Twenty-One; Chapter Twenty-Six §2 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise. The supporting process-ownership draft records the proposed guardrails and resolved design directions; exact core placement, wording, scope, and whether CI-23.205 needs a companion change-record template remain for human review.
 
 ### Process, system, and institution — potential follow-ups
 

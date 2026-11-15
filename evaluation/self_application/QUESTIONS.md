@@ -2,7 +2,7 @@
 
 Answer these in order. Write answers into a new file under `results/` using [`results/_TEMPLATE.md`](results/_TEMPLATE.md).
 
-**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Twenty-Seven](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption, not [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Fifteen standing record, and not Chapter Nine certification.
+**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Twenty-Six](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption, not [Chapter Twenty-Eight](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Fifteen standing record, and not Chapter Nine certification.
 
 Same screen for AI stewards and human operators. Binding home: [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
@@ -161,7 +161,7 @@ Apply the **No-burden**. A No must name a structural defect that a thinner stub 
 
 Fill this item **only if item 15 is Yes or Mixed**. If item 15 is No, write `skipped — fitness finding is No` and go to item 17.
 
-This declaration is **not** Chapter Twenty-Seven adoption. It does not bind other parties. It does not certify any system. It is not a standing record.
+This declaration is **not** Chapter Twenty-Six adoption. It does not bind other parties. It does not certify any system. It is not a standing record.
 
 Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Required fields:
 
@@ -177,7 +177,7 @@ Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Req
 
 ### 17. Operator handoff
 
-**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption document for systems you act inside?
+**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Twenty-Six §11](../../core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption document for systems you act inside?
 
 **Finding:** Yes / No / Mixed, and why.
 

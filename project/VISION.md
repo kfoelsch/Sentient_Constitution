@@ -1,6 +1,6 @@
 # Sentient Constitution — vision statement
 
-This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It describes where the corpus stands, what "mature" means for each layer, and how the operational corpus is meant to reach maturity. Reading it, forking the repository, or contributing to it is not [Chapter Twenty-Seven §11](../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption.
+This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It describes where the corpus stands, what "mature" means for each layer, and how the operational corpus is meant to reach maturity. Reading it, forking the repository, or contributing to it is not [Chapter Twenty-Six §11](../core_26.000_amendment_ratification.md#11-ratification-and-adoption) adoption.
 
 | | |
 |---|---|
@@ -56,7 +56,7 @@ The publication cut gate is already written: [PRE_PUBLICATION_SPEC §2](../imple
 | **L2** | Owner-aligned | Every obligation traces to a Chapter One principle and a Chapter Five definition; no duplicate definitions; no parallel norms; adopted implementation text satisfies and does not narrow core | Alignment audits (`make ch1-cjs3-alignment-audit`, `alignment-audit`) with dated `evidence/` reports |
 | **L3** | Readable | An ordinary reader can find the entry point without reading the whole corpus, follow the human door, and understand the plain-terms gloss | `make readability-audit` within grade; plain-language pass; human door named |
 | **L4** | Apply-tested | Human and AI stewards, given the same fact pattern, route to the same owner stack and the same class of next step, citing the same homes | Announced-pack and self-application results from **both** kinds of steward; Option A compare; Option B scored sample under authenticity controls |
-| **L5** | Field-used | An operations-guide user has run the stack on a real problem and filed results, or a qualifying body has recorded a Chapter Twenty-Seven adoption document in its own custody | Results under `evaluation/*/results/`; verified live events in the register; a recorded §10.2 adoption document |
+| **L5** | Field-used | An operations-guide user has run the stack on a real problem and filed results, or a qualifying body has recorded a Chapter Twenty-Six adoption document in its own custody | Results under `evaluation/*/results/`; verified live events in the register; a recorded §10.2 adoption document |
 | **L6** | Publication cut | §2 criteria met, regression green, edition label bumped on a deliberate cut | New edition stamp; `evidence/<date>/` cut record |
 
 This is a **maturity** ladder for text, not an adoption ladder. It does not create tiers of partial constitutional adoption ([PRE_PUBLICATION_SPEC §6.4](../implementation/PRE_PUBLICATION_SPEC.md#64-smallest-honest-adoption-claim--resolved-reframed)). Operations-guide use and full adoption remain the only two modes.
@@ -118,9 +118,9 @@ Until all four exist, the honest status is the one in [§2](#2-where-it-stands-n
 Nothing in the corpus has been run by an adopter. This horizon is about the first bodies that do.
 
 - **Operations-guide users.** Commons, agent-protocol bodies, cooperatives, joint labs, and critical-infrastructure operators pick up a stack under the non-adoption banner and file what happened ([FIT_SITUATIONS.md](../implementation/adoption/FIT_SITUATIONS.md); [ANNOUNCEMENT.md](../implementation/adoption/ANNOUNCEMENT.md)). Which bodies they actually have to stand, in what order, at what order-of-magnitude staff and funding: [MINIMUM_VIABLE_ADOPTER.md](../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md). Their findings feed horizons one and two.
-- **A first Chapter Twenty-Seven adoption document.** A qualifying body records a [§11.2 adoption document](../core_27.000_amendment_ratification.md#112-adoption-document) — entity, scope, effective date, custodian of the authoritative edition — in **its own** custody, with independent review that is not the founding crew ([FORUM_FOUNDATION_KIT.md](../implementation/adoption/FORUM_FOUNDATION_KIT.md)). That moves the Constitution from L4 to L5 for the scope it binds.
+- **A first Chapter Twenty-Six adoption document.** A qualifying body records a [§11.2 adoption document](../core_26.000_amendment_ratification.md#112-adoption-document) — entity, scope, effective date, custodian of the authoritative edition — in **its own** custody, with independent review that is not the founding crew ([FORUM_FOUNDATION_KIT.md](../implementation/adoption/FORUM_FOUNDATION_KIT.md)). That moves the Constitution from L4 to L5 for the scope it binds.
 - **Independent expert review.** The held band C questions — legal personhood for natural systems, default-sentient taxa, and whether complexity defeats the Tetrad in live use — go to reviewers under [EXPERT_TOR.md](../evaluation/external_audit_2026-08/EXPERT_TOR.md).
-- **The amendment life-cycle exercised.** At least one substantive change runs through notice and contest, Test 1 non-regression, Tests 2–4, and recorded effectiveness ([Chapter Twenty-Seven §12](../core_27.000_amendment_ratification.md#12-amendment-procedure-requirements)) so the Constitution's own change procedure is shown to work, not just described.
+- **The amendment life-cycle exercised.** At least one substantive change runs through notice and contest, Test 1 non-regression, Tests 2–4, and recorded effectiveness ([Chapter Twenty-Six §12](../core_26.000_amendment_ratification.md#12-amendment-procedure-requirements)) so the Constitution's own change procedure is shown to work, not just described.
 
 <a id="invariants"></a>
 ## 5. What does not change while maturing
@@ -132,7 +132,7 @@ These hold at every rung and every horizon. A contribution that trades one of th
 3. **No silent drift.** Edits are notice-and-contest, not secret patches; edition labels are pinned; derived indexes point and source binds ([Chapter Twenty-Eight §3](../core_28.000_incorporation.md#3-safeguards); [§2](../core_28.000_incorporation.md#2-custody-editions-and-operative-effect)).
 4. **Pre-release until the gate passes.** The edition label bumps only on a deliberate publication cut with §2 evidence. Kits, doors, and this page do not drop pre-release.
 5. **A repository is not a body.** Contributors, this markdown, and any working group are not an oversight body, a forum, or an adopter ([Chapter One §17.4](../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization); [START_HERE §5](../START_HERE.md#5-where-it-does-not-fit)).
-6. **Does not supersede applicable law.** Maturity is measured inside external legal frameworks, not over them ([Chapter Twenty-Six §6](../core_26.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+6. **Does not supersede applicable law.** Maturity is measured inside external legal frameworks, not over them ([Chapter Twenty-Seven §6](../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 7. **Plain language.** Readability is a cut criterion, not decoration. The [vocabulary guardrails](../doc_architecture.md#plain-language-vocabulary-guardrails) apply to new prose.
 
 <a id="signals"></a>
