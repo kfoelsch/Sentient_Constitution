@@ -54,15 +54,15 @@ Chapter Fifteen is the constitutional owner of **the verified factual record (Qu
 
 *In plain terms: standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? It writes down what happened and holds the standing record. Allegations, popularity, and dispute narratives are not answers to that question, and filing a case is not standing by itself. How good or how harmful it was is measured in Chapter Sixteen, on two separate tracks, never one net score. Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
 
-**Purpose.** Chapter Fifteen opens the standing pipeline. It states the three questions (**section 2**) and answers Question 1: it establishes a bounded, contestable account of what happened, identifying the subject, the event or pattern, the time period, the verified facts, and the standing record's status before any rating or consequence is considered (**section 3**). Verified help and verified violations use separate standing records, so one cannot erase the other.
+**Purpose:** Chapter Fifteen opens the standing pipeline. It states the three questions (**section 2**) and answers Question 1: it establishes a bounded, contestable account of what happened, identifying the subject, the event or pattern, the time period, the verified facts, and the standing record's status before any rating or consequence is considered (**section 3**). Verified help and verified violations use separate standing records, so one cannot erase the other.
 
-**Role.** The chapter produces the verified standing record that the rest of the pipeline takes as fixed:
+**Role:** The chapter produces the verified standing record that the rest of the pipeline takes as fixed:
 
 - [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures it (Question 2), and Chapter Seventeen decides what follows (Question 3), with review limited to the anti-constitutional-misconduct designation in [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) for qualifying Violation Axis slot 7 to 9 findings.
 - Certification outcomes reach it only as verified inputs, through the gate in **Chapter Eleven section 5** and **Chapter Fourteen section 5**.
 - [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)'s four-seat rule is applied to standing records in **section 6**.
 
-**Chapter scope.** The chapter runs from [§2 The Three Questions](#2-the-three-questions) through [§7 Handling a Standing Record](#7-handling-a-standing-record). It covers:
+**Chapter scope:** The chapter runs from [§2 The Three Questions](#2-the-three-questions) through [§7 Handling a Standing Record](#7-handling-a-standing-record). It covers:
 
 - the three questions (**section 2**);
 - Question 1 (**section 3**);

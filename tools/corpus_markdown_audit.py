@@ -17,7 +17,10 @@ Rule MD-LIST-INTRO-01: a bold list-intro lead-in must end with a colon, not a
 period. That covers a standalone ``**Record and showing:**`` line, a
 heading-echo run-in (``**Symmetric costly constraints:**`` … then a list), and
 a list-item label (``- **Not standing:**`` …). Ordinary run-in labels that do
-not restate the heading (``**Admission scope.**``) remain out of scope.
+not restate the heading (``**Admission scope.**``) remain out of scope, with one
+exception: the labels directly under a ``§1 Purpose, Role, and Scope`` heading
+(``**Purpose:**``, ``**Role:**``, ``**Chapter scope:**``, ``**Out of scope:**``)
+must end with a colon too.
 """
 
 from __future__ import annotations
@@ -45,6 +48,10 @@ LIST_INTRO_PERIODS = frozenset(".。।۔")
 LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)[.\u3002\u0964\u06d4]\*\*\s*$")
 LIST_ITEM_RE = re.compile(r"^(?:[-*] |\d+\. )")
 HEADING_RE = re.compile(r"^#{2,6}\s+(?:\d+(?:\.\d+)*\s+)?(.+)$")
+# Normalized title of the standard first section; its bold labels take a colon.
+SECTION_ONE_HEADING_NORM = "purpose, role, and scope"
+SECTION_NUMBER_PREFIX_RE = re.compile(r"^\d+(?:\.\d+)*\.?\s+")
+SECTION_ONE_LABEL_RE = re.compile(r"^(?:<a id=\"[^\"]*\"></a>)*\*\*[^*]+[.\u3002\u0964\u06d4]\*\*\s+\S")
 ITALIC_GLOSS_RE = re.compile(r"^\*[^*].*\*$")
 
 
@@ -217,6 +224,14 @@ def check_list_intro_colon(lines: list[str], path_label: str) -> list[str]:
         if heading_m and details_depth == 0:
             heading_norm = normalize_heading_title(heading_m.group(1))
             seen_body = False
+            continue
+        if (
+            details_depth == 0
+            and heading_norm is not None
+            and SECTION_NUMBER_PREFIX_RE.sub("", heading_norm) == SECTION_ONE_HEADING_NORM
+            and SECTION_ONE_LABEL_RE.match(stripped)
+        ):
+            errors.append(list_intro_error(path_label, i + 1, stripped))
             continue
         if is_section_chrome(stripped, details_depth):
             continue

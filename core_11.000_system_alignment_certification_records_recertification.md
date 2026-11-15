@@ -46,14 +46,14 @@ Chapter Eleven is the constitutional owner of these parts of system alignment ce
 
 *In plain terms: Chapter Ten explains how forums review a system and reach an outcome. This chapter covers what comes after the decision. A certification only works if it is kept where it can be checked, re-checked on a schedule, and challenged by sentients (the beings the Constitution covers) when it is wrong. Certification can feed standing, but it is not standing, and it never replaces standing measurement or standing effects.*
 
-**Purpose.** Chapter Eleven states what happens after the outcome:
+**Purpose:** Chapter Eleven states what happens after the outcome:
 
 - the minimum contents, transparency, and auditability of the System Certification Record (**section 2**);
 - recertification on a schedule set by system class, reopening triggers, provisional and full certification, and non-evasion (**section 3**);
 - the path for challenging a certification (**section 4**); and
 - the relationship to standing (**section 5**).
 
-**Role.** The chapter closes the System Alignment Certification sequence:
+**Role:** The chapter closes the System Alignment Certification sequence:
 
 - It takes these as fixed:
   - the outcome from [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes); and
@@ -64,7 +64,7 @@ Chapter Eleven is the constitutional owner of these parts of system alignment ce
 - It hands verified facts to Chapter Fifteen only through the verified-input gate (**section 5.3**).
 - Standing records and their effects are decided in Chapters [Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement), not here.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the System Certification Record (**section 2**);
 - recertification and reopening (**section 3**);

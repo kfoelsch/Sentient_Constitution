@@ -30,19 +30,19 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 *In plain terms: this chapter says when a system fails an applicable definition in practice: when what it does or produces would violate that definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.*
 
-**Purpose.** [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) sets how every definition is built. Chapter Three answers what it means to fail one:
+**Purpose:** [Chapter Two](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) sets how every definition is built. Chapter Three answers what it means to fail one:
 
 - a system is non-compliant when its actual behavior or output would violate an applicable definition, judged under full functional conditions and not only on paper (**section 3**);
 - weakening a definition when it is applied is also non-compliance, whatever the intent, awareness, or claim (**section 2**; **Chapter Two section 3.2** (*Non-Compliance by Structural or Applied Weakening*)); and
 - the chapter also provides finding profiles, optional labels that name the kind of constitutional problem for routing and audits (**section 4**).
 
-**Role.** The chapter sits between how definitions are built and how compliance is proved:
+**Role:** The chapter sits between how definitions are built and how compliance is proved:
 
 - Chapter Two says how every definition is built. This chapter starts from that and does not change it.
 - [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) picks up from here and says who has to prove compliance, and how.
 - Some verified non-compliance findings also feed standing, the record of a party's verified help and harm kept under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened). Only facts that pass the verified-input gate enter. **Section 4.1** to **section 4.3** say how this works for systems that are already certified, for systems at their first certification, and for sentients and institutions.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the integrity and anti-evasion constraints (**section 2**);
 - non-compliance from observable behavior, with its evasion patterns and constraints (**section 3**); and

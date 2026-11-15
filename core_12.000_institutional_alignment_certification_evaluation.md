@@ -83,9 +83,9 @@ Chapter Twelve is the constitutional owner of **the evaluation of institutional 
 
 *In plain terms: Chapter Nine asks whether a system is aligned. Chapter Twelve asks the same of the institution that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse, so a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
 
-**Purpose.** Chapter Twelve sets the evaluation that decides whether an Institution can be certified as aligned. The Institution may run systems or may hold authority without running one. It is asked what only the Institution can answer for: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used.
+**Purpose:** Chapter Twelve sets the evaluation that decides whether an Institution can be certified as aligned. The Institution may run systems or may hold authority without running one. It is asked what only the Institution can answer for: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used.
 
-**Role.** Chapter Twelve extends [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) from a System to an Institution. Where it sits:
+**Role:** Chapter Twelve extends [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) from a System to an Institution. Where it sits:
 
 - The two certifications are joined by a link, not nested. An Institutional Certification Record cites each System Certification Record it relies on and does not redo it.
 - [Chapter Thirteen](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#chapter-thirteen-institutional-alignment-certification--forum-process-and-outcomes) covers forum process and outcomes (Phases III and IV): the forum roles and sequence ([§2 Forum Process](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#2-forum-process)), and the outcome, remediation readiness, and denial and revocation ([§3 Certification Outcomes](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#3-certification-outcomes)).
@@ -93,7 +93,7 @@ Chapter Twelve is the constitutional owner of **the evaluation of institutional 
 - Phases III to VI run as [Chapter Ten §2 Forum Process](core_10.000_system_alignment_certification_forum_process_outcomes.md#2-forum-process) to [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) provide, applied to an Institution in Chapters Thirteen and Fourteen, which state only what changes when the subject is an Institution.
 - The certification is not a licence. Nobody needs its permission to start or run an institution.
 
-**Chapter scope.** The chapter covers the evaluation phases for an Institution:
+**Chapter scope:** The chapter covers the evaluation phases for an Institution:
 
 - why institutional alignment certification exists, how it links to system certification, who is certified, and the window for the first certification (**section 2**);
 - the institution class, and how it scales the evaluation (**section 3**);

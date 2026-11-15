@@ -95,7 +95,7 @@ Chapter Twenty-Three is the constitutional owner of **forum families, default ve
 
 *In plain terms: this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — **System Alignment Certification** (Chapter Nine certification and review) and the **standing pipeline** (Chapters Fifteen–Twenty-Two disputes and record effects) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.*
 
-**Purpose.** Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), Chapter Twenty-Three:
+**Purpose:** Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), Chapter Twenty-Three:
 
 - says which forum families handle which disputes, where a case ordinarily starts, and how mixed-stakes matters coordinate, and keeps that routing independent and contestable;
 - gives sentients an accessible way to challenge decisions that affect them, heard by reviewers who are independent and supported by forensic and technical help; and
@@ -103,13 +103,13 @@ Chapter Twenty-Three is the constitutional owner of **forum families, default ve
 
 It does not set docket rules, staffing, budgets, or detailed procedure, which belong in adopted implementation text.
 
-**Role.** Where this chapter sits:
+**Role:** Where this chapter sits:
 
 - It supervises two tracks: system and institutional alignment certification ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) through [Chapter Fourteen](core_14.000_institutional_alignment_certification_records_recertification.md#chapter-fourteen-institutional-alignment-certification--records-recertification-challenge-and-standing)), and the standing pipeline ([Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) through [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)).
 - Ordinary disputes inside an already-authorized system use the published Stakeholder System Participation challenge path first. This chapter takes over when that path leaves the dispute contested, is missing, is captured, or cannot grant the relief needed.
 - Forum eligibility, contested selection, and democratic minimums are set in [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship), **section 2.2**.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - default venue and primary stakes (**section 2**);
 - transfer, consolidation, and coordination (**section 3**);

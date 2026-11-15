@@ -37,9 +37,9 @@ labels: ["proposal"]
 
 <!-- Chapter One principle(s) and Chapter Five definition(s) this text answers to. Downstream files that cite the section. -->
 
-## Lane D — Test 1 non-regression self-check
+## Lane D — Substantive Test 1 non-regression self-check
 
-<!-- Delete unless Lane D. Confirm the change does not weaken Chapter One constraints, Chapter Two–Four integrity, the Chapter Six Rights Floor, or Chapter Twenty-Four legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_25.000_non_regression.md § Test 1). -->
+<!-- Delete unless Lane D. Confirm the change does not weaken Chapter One constraints, Chapter Two–Four integrity, the Chapter Six Rights Floor, or Chapter Twenty-Four legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_25.000_non_regression.md § Substantive Test 1). -->
 
 ## Gates you expect to run
 

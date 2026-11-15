@@ -74,15 +74,15 @@ Chapter Eight is the constitutional owner of the **functional-independence and s
 
 *In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
 
-**Purpose.** Chapter Eight keeps the jobs inside a materially binding act apart. A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the independent check, control the official record, or decide the challenge to it. The chapter does this with four seats: ask or act, check, keep the official record, and hear the challenge.
+**Purpose:** Chapter Eight keeps the jobs inside a materially binding act apart. A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the independent check, control the official record, or decide the challenge to it. The chapter does this with four seats: ask or act, check, keep the official record, and hear the challenge.
 
-**Role.** Chapter Eight is the constitutional owner of the functional-independence and separation-of-duties requirement for materially binding acts. Where it sits:
+**Role:** Chapter Eight is the constitutional owner of the functional-independence and separation-of-duties requirement for materially binding acts. Where it sits:
 
 - It applies both to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight).
 - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) defines the terms it uses, including Materially Binding Act.
 - Every later constitutional process must explain how it assigns and uses all four seats. A later chapter may add stronger separation, recusal, custody, panel, or review requirements, and may not narrow this chapter's (**section 10**).
 
-**Chapter scope.** This chapter applies to every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), as Chapter Five defines it, including:
+**Chapter scope:** This chapter applies to every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), as Chapter Five defines it, including:
 
 - a decision;
 - an authorization or certification;
@@ -106,7 +106,7 @@ The chapter's sections cover:
 - act records and attributable handoffs (**section 9**); and
 - the relationship to later processes (**section 10**).
 
-**Out of scope.** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
+**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 <a id="2-why-the-jobs-are-separated"></a>
 ### 2. Why the Jobs Are Separated

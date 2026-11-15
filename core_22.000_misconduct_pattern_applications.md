@@ -19,7 +19,7 @@ Chapter Twenty-Two is the constitutional owner of **named pattern applications a
 
 *In plain terms: this chapter applies [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
 
-**Purpose.** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 3 to 5**. Each is judged by what the conduct actually does. The patterns are:
+**Purpose:** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 3 to 5**. Each is judged by what the conduct actually does. The patterns are:
 
 - attacks on participation and accountability-pathway integrity (**section 2**);
 - blocking contest, review, and verification (**section 3**);
@@ -28,12 +28,12 @@ Chapter Twenty-Two is the constitutional owner of **named pattern applications a
 - structural control through concentration and dependency (**section 6**); and
 - obstruction of accountability (**section 7**).
 
-**Role.** The chapter is jointly owned with Chapter Twenty-One, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
+**Role:** The chapter is jointly owned with Chapter Twenty-One, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
 
 - It takes the ACMD criteria and safeguards from Chapter Twenty-One as fixed.
 - After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) integrates the standing effect, and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case and certifies the forum.
 
-**Chapter scope.** The chapter covers the named patterns:
+**Chapter scope:** The chapter covers the named patterns:
 
 - attacks on participation and accountability-pathway integrity (**section 2**);
 - blocking contest, review, and verification (**section 3**);

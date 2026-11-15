@@ -143,6 +143,54 @@ class ListIntroColonTests(unittest.TestCase):
         ]
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 
+    def test_section_one_label_period_fails(self) -> None:
+        lines = [
+            "### 1. Purpose, Role, and Scope",
+            "**Purpose.** Chapter Nine says how a system is evaluated.",
+        ]
+        findings = check_list_intro_colon(lines, "core_example.md")
+        self.assertEqual(len(findings), 1)
+        self.assertIn("colon", findings[0])
+        self.assertIn("core_example.md:2", findings[0])
+
+    def test_section_one_label_period_fails_without_list(self) -> None:
+        lines = [
+            "### 1. Purpose, Role, and Scope",
+            "*In plain terms: a gloss.*",
+            "**Purpose:** Chapter Nine says how a system is evaluated.",
+            "**Role.** It is the evaluation chapter.",
+            "**Chapter scope.** The chapter covers evaluation.",
+        ]
+        findings = check_list_intro_colon(lines, "core_example.md")
+        self.assertEqual(len(findings), 2)
+
+    def test_section_one_label_after_anchor_tags_fails(self) -> None:
+        lines = [
+            "### 1. Purpose, Role, and Scope",
+            '<a id="aims"></a><a id="flourishing"></a>**Purpose.** This chapter sets the aims.',
+        ]
+        self.assertEqual(len(check_list_intro_colon(lines, "core_example.md")), 1)
+
+    def test_section_one_label_colon_passes(self) -> None:
+        lines = [
+            "### 1. Purpose, Role, and Scope",
+            "**Purpose:** Chapter Nine says how a system is evaluated.",
+            "**Role:** It is the evaluation chapter.",
+            "**Chapter scope:** The chapter covers:",
+            "- evaluation",
+            "**Out of scope:** Class P Operating Parties.",
+        ]
+        self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
+
+    def test_section_one_rule_stops_at_the_next_heading(self) -> None:
+        lines = [
+            "### 1. Purpose, Role, and Scope",
+            "**Purpose:** Chapter Nine says how a system is evaluated.",
+            "### 2. Why the Jobs Are Separated",
+            "**Admission scope.** This section applies to systems.",
+        ]
+        self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
+
     def test_heading_echo_period_without_list_passes(self) -> None:
         lines = [
             "#### 9.4 Openness Aspiration",

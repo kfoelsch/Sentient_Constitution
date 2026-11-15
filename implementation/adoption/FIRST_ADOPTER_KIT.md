@@ -140,7 +140,7 @@ NON-ADOPTION CHECK (complete first)
 [ ] This is not a steward self-application declaration.
 [ ] This is not joining under Chapter Twenty-Six §11.3 (first adopters: use §10.1–§10.2).
 [ ] Independent review named below is not solely the other signatory
-    (Chapter Twenty-Three §3; Chapter Twenty-Six Test 4). If this box cannot be checked,
+    (Chapter Twenty-Three §3; Chapter Twenty-Six Procedural Test 4). If this box cannot be checked,
     stop: operations-guide + declarations only. Use the non-adoption banner.
 
 ADOPTION DOCUMENT
@@ -188,7 +188,7 @@ phase entry.
 
 ## 5. Dispute bootstrap
 
-Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Six Test 4](../../core_26.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
+Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Six Procedural Test 4](../../core_26.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
 
 | If this is true | Then |
 |---|---|

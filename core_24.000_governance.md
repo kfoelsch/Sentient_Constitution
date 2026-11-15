@@ -36,15 +36,15 @@ Chapter Twenty-Four is the constitutional owner of **constitutional-contract leg
 
 *In plain terms: this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.*
 
-**Purpose.** Chapter Twenty-Four states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. It defines who may govern, what permits governing power, and what stewardship character must be maintained. The minimum bar lives here.
+**Purpose:** Chapter Twenty-Four states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. It defines who may govern, what permits governing power, and what stewardship character must be maintained. The minimum bar lives here.
 
-**Role.** The chapter sets constitutional requirements for governing authority itself, not full operating detail:
+**Role:** The chapter sets constitutional requirements for governing authority itself, not full operating detail:
 
 - It takes the integrated constraint stack in [Chapter One](core_01.000_values_principles.md#chapter-01-part-a-purpose-and-the-flourishing-aim) and the [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floor as fixed.
 - **Sections 2 to 6** carry its stewardship and collective-choice requirements.
 - Amendment and adoption validity continue in [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity).
 
-**Chapter scope.** The chapter sets constitutional requirements, not full operating detail. It leaves:
+**Chapter scope:** The chapter sets constitutional requirements, not full operating detail. It leaves:
 
 - participation, due-process, and binding-adoption gates to Chapter Six (especially **Article XII-A** (*Stakeholder System Participation and Representation*));
 - **general** standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (Contribution Axis and Violation Axis: contribution **state**, violation nature, and every numeric impact slot);

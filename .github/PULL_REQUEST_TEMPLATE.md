@@ -41,14 +41,14 @@ lane-specific targets    →  (steward-door-lockstep-audit, obligation-diff, ali
 - [ ] No fossil anchors; every inbound link to a renamed heading fixed
 - [ ] Evidence (if any) under `evidence/<YYYY-MM-DD>/` and linked below
 - [ ] Lane C / D only: `make obligation-snapshot` before and `make obligation-diff` after; diff linked below
-- [ ] Lane D only: Test 1 non-regression self-check written below; Proposal issue linked above
+- [ ] Lane D only: Substantive Test 1 non-regression self-check written below; Proposal issue linked above
 - [ ] Lane F only: English source commit or edition named; glossary used and extended; English `id`s kept; drafter (human or AI model) and reviewer (if any) named in Attribution
 
 ## Evidence links
 
 <!-- evidence/<YYYY-MM-DD>/... ; leave blank for Lane A and B. -->
 
-## Lane D — Test 1 self-check
+## Lane D — Substantive Test 1 self-check
 
 <!-- Delete this section unless Lane D. State what the change does NOT weaken: Chapter One constraints, Chapter Two–Four integrity, Chapter Six Rights Floor, Chapter Twenty-Four legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels. List downstream files that cite the changed section. -->
 

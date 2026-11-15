@@ -94,7 +94,7 @@ Chapter Twenty-One is the constitutional owner of **final anti-constitutional-mi
 
 *In plain terms: this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.*
 
-**Purpose.** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations:
+**Purpose:** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations:
 
 - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1).
 - [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2).
@@ -109,14 +109,14 @@ Only this chapter may decide whether a violation in slot 7, 8, or 9 is also anti
 
 A final ACMD can be issued only if the **section 3** criteria are met on a verified standing record and the **section 5** safeguards are satisfied.
 
-**Role.** Where this chapter sits:
+**Role:** Where this chapter sits:
 
 - After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the Trust Lock and the final standing effect.
 - After a final ACMD, [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) attaches governance legitimacy consequences.
 - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case, with Integrity as the default lead where a final ACMD is the primary stake, and certifies the forum.
 - The remedy and prevention rules here are read with the Rights Floor and Justice articles in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
-**Chapter scope.** This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and anti-constitutional misconduct (ACM) is materially alleged. It works in this order, and the **decision sequence** in **section 2.4** sets the full list:
+**Chapter scope:** This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and anti-constitutional misconduct (ACM) is materially alleged. It works in this order, and the **decision sequence** in **section 2.4** sets the full list:
 
 - **Decide whether an ACMD attaches**
   - It takes the verified standing record and the Chapter Sixteen slot as fixed (**section 3**).

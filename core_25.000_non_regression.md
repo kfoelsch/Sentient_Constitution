@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Five**: substantive non-regression and substantive amendment validity (Test 1). **Chapter Twenty-Six** is in [`core_26.000_amendment_ratification.md`](core_26.000_amendment_ratification.md). **Chapter Twenty-Seven** is in [`core_27.000_expansion_supremacy.md`](core_27.000_expansion_supremacy.md). Amendment validity must preserve both [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) below [material stake](core_00.000_preamble.md#material-stake) requirements. Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Five**: substantive non-regression and substantive amendment validity (Substantive Test 1). **Chapter Twenty-Six** is in [`core_26.000_amendment_ratification.md`](core_26.000_amendment_ratification.md). **Chapter Twenty-Seven** is in [`core_27.000_expansion_supremacy.md`](core_27.000_expansion_supremacy.md). Amendment validity must preserve both [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) below [material stake](core_00.000_preamble.md#material-stake) requirements. Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Five lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** substantive non-regression floor; Test 1 (substantive non-regression invalidity); anti-evasion. Procedural validity, ratification, amendment procedure requirements, and the referral of serious bad-faith conduct are in **Chapter Twenty-Six**. Supremacy relative to other norms and external legal orders are in **Chapter Twenty-Seven**.
+> - **Constitutional owner:** substantive non-regression floor; Substantive Test 1 (substantive non-regression invalidity); anti-evasion. Procedural validity, ratification, amendment procedure requirements, and the referral of serious bad-faith conduct are in **Chapter Twenty-Six**. Supremacy relative to other norms and external legal orders are in **Chapter Twenty-Seven**.
 > - **Implementation owner:** designated implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-implementation joint structure where designated.
 > - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Chapter Sixteen §7 unified proportional LEQU scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Twenty-One** of [core_21.000_misconduct_designation.md](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Chapter Sixteen Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
 >
@@ -40,22 +40,22 @@
 
 <br>
 
-Chapter Twenty-Five is the constitutional owner of **substantive non-regression and substantive amendment validity** (Test 1), anti-evasion controls, and validity-protection measures.
+Chapter Twenty-Five is the constitutional owner of **substantive non-regression and substantive amendment validity** (Substantive Test 1), anti-evasion controls, and validity-protection measures.
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, guidance, a temporary measure, or an emergency label. This chapter is Test 1, the substance test.*
+*In plain terms: a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, guidance, a temporary measure, or an emergency label. This chapter is Substantive Test 1.*
 
-**Purpose.** The purpose of Chapter Twenty-Five is to prevent regressive changes to the Constitution. It is a guardrail against alterations that degrade the core constraints, Rights Floors, integrity and verification requirements, and legitimacy and stewardship obligations the rest of the Constitution depends on. No constitutional change is valid if it violates these non-regression requirements.
+**Purpose:** The purpose of Chapter Twenty-Five is to prevent regressive changes to the Constitution. It is a guardrail against alterations that degrade the core constraints, Rights Floors, integrity and verification requirements, and legitimacy and stewardship obligations the rest of the Constitution depends on. No constitutional change is valid if it violates these non-regression requirements.
 
-**Role.** The chapter is the substance half of change validity. Four tests judge a change, and this chapter owns the first:
+**Role:** The chapter is the substantive half of change validity. Four tests judge a change: Substantive Test 1 and Procedural Tests 2 to 4. This chapter owns Substantive Test 1:
 
-- **Test 1, substantive non-regression validity** (this chapter), asks what a change actually does, not what it is called, so relabeling a rollback as guidance or a temporary measure does not save it. Amendment validity must also preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
+- **Substantive Test 1** (this chapter), asks what a change actually does, not what it is called, so relabeling a rollback as guidance or a temporary measure does not save it. Amendment validity must also preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the non-regression floor (**section 2**);
-- Test 1, substantive non-regression validity (**section 3**);
+- Substantive Test 1 (**section 3**);
 - the anti-evasion clause (**section 4**); and
 - the validity-protection controls the chapter may impose and the owner non-relocation rule (**section 5**).
 
@@ -63,10 +63,10 @@ The chapter leaves:
 
 - numeric standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it);
 - anti-constitutional-misconduct designation to [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation);
-- Tests 2 to 4, ratification, and the referral of serious bad-faith conduct to [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity):
-  - **Test 2:** procedural validity and publication integrity;
-  - **Test 3:** authority-chain and custody validity; and
-  - **Test 4:** contestability and independent review validity; and
+- Procedural Tests 2 to 4, ratification, and the referral of serious bad-faith conduct to [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity):
+  - **Procedural Test 2:** procedural validity and publication integrity;
+  - **Procedural Test 3:** authority-chain and custody validity; and
+  - **Procedural Test 4:** contestability and independent review validity; and
 - additive expansion of protection and the sequencing of supremacy to [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders).
 
 
@@ -83,7 +83,7 @@ The chapter leaves:
   - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing),
   - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), and related floors named in operative text (
   - [Chapter Five definitions](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000)).
-- Downstream: [§3](#3-test-1--substantive-non-regression-validity) Test 1 inventory; [§4](#4-anti-evasion-clause) anti-evasion.
+- Downstream: [§3](#3-test-1--substantive-non-regression-validity) Substantive Test 1 inventory; [§4](#4-anti-evasion-clause) anti-evasion.
 - Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) for Rights-Floor specifics; [Chapters Two through Four](core_02.000_definition_structure.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
 </details>
@@ -107,19 +107,20 @@ Material weakening includes indirect narrowing through:
 - emergency carve-outs.
 
 <a id="3-test-1--substantive-non-regression-validity"></a>
-### 3. Test 1 — Substantive Non-Regression Validity
+<a id="3-substantive-test-1--substantive-non-regression-validity"></a>
+### 3. Substantive Test 1 — Substantive Non-Regression Validity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-non-regression-floor) non-regression floor definition.
-- Downstream: [§4](#4-anti-evasion-clause) evasion; [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) Tests 2–4 and procedural requirements (invalid if Test 1 fails regardless of procedure).
+- Downstream: [§4](#4-anti-evasion-clause) evasion; [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) Procedural Tests 2–4 and procedural requirements (invalid if Substantive Test 1 fails regardless of procedure).
 - Read with: [Chapter One](core_01.040_stewardship_capacity_principles.md#chapter-01-part-e-stewardship-and-the-steward-role) (1.040) non-negotiable principle constraints; [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) legitimacy obligations.
 
 </details>
 
 <br>
 
-*In plain terms: Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.*
+*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twenty-Four legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.*
 
 A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter One non-negotiable principle constraints
@@ -174,7 +175,7 @@ Serious bad-faith conduct in amendment or adoption is referred under [Chapter Tw
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the
   - [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights);
   - [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation;
-  - [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) for validity tests that do not duplicate slot-classification taxonomy.
+  - [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) for procedural tests that do not duplicate slot-classification taxonomy.
 
 </details>
 

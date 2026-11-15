@@ -26,15 +26,15 @@ Chapter Twenty is the constitutional owner of the **final standing effect** for 
 
 *In plain terms: when the earlier steps are done, the system must state, one gated pathway at a time, what is open, limited, or blocked. That statement is not a dignity rank or a merged score. A lock that is not permanent must have a real way back.*
 
-**Purpose.** Chapter Twenty states one final standing effect for each applicable gated pathway (**section 2**). It then sets restoration and reassessment (**section 3**) and confirms that standing consequences and redress can be delivered by real institutions (**section 4**), applying the **Chapter One section 6.1** (*Correction and Remedy*) principle.
+**Purpose:** Chapter Twenty states one final standing effect for each applicable gated pathway (**section 2**). It then sets restoration and reassessment (**section 3**) and confirms that standing consequences and redress can be delivered by real institutions (**section 4**), applying the **Chapter One section 6.1** (*Correction and Remedy*) principle.
 
-**Role.** The chapter is where the two tracks of Question 3 meet:
+**Role:** The chapter is where the two tracks of Question 3 meet:
 
 - It takes the contribution result from Chapter Eighteen and the violation result from Chapter Nineteen as fixed, in the order **Chapter Seventeen section 3.4** sets.
 - Gated-pathway effects are never aggregated (**section 2.1**). A gated pathway a lock blocks stays closed, whatever the contribution track found.
 - Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the final effect (**section 2**);
 - restoration and reassessment (**section 3**); and

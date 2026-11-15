@@ -123,7 +123,7 @@ Chapter One, Part A, is the constitutional owner of **the Flourishing and Contin
 
 *In plain terms: Chapter One sets the values and constraints that govern every other chapter. Shared systems must pursue **Flourishing** and **Continuity** together — not one at the expense of the other — and no single value may be maximized at the expense of the others.*
 
-<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>**Purpose.** This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — [**Flourishing**](core_00.000_preamble.md#flourishing) and [**Continuity**](core_00.000_preamble.md#continuity) — established in [Preamble §1 The Model](core_00.000_preamble.md#the-model) into operative principles and constraints.
+<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>**Purpose:** This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — [**Flourishing**](core_00.000_preamble.md#flourishing) and [**Continuity**](core_00.000_preamble.md#continuity) — established in [Preamble §1 The Model](core_00.000_preamble.md#the-model) into operative principles and constraints.
 
 Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00.000_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00.000_preamble.md#material-stake).
 
@@ -165,14 +165,14 @@ flowchart TB
 
 *The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00.000_preamble.md#material-stake), and both aims remain bounded by the Rights Floor. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad).*
 
-**Role.** Canonical principle-layer definitions live in the Preamble; this chapter applies them. The values in this chapter:
+**Role:** Canonical principle-layer definitions live in the Preamble; this chapter applies them. The values in this chapter:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
 - function as interacting principles and constraints that must be evaluated together.
 - apply to all "systems," which include technical, organizational, economic, socio-technical structures, and ecosystems that materially affect sentients and the planet Earth.
 
 No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable principle constraints, **§13** Constitutional Collision Resolution Process controls precedence.
 
-**Chapter scope.** The chapter is organized around those two aims and that Tetrad:
+**Chapter scope:** The chapter is organized around those two aims and that Tetrad:
 - **Flourishing:**
   - [Flourishing Aim: Introduction](#2-flourishing-aim-introduction) maps the aim.
   - [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) states the outcome.

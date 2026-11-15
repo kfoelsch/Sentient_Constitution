@@ -45,19 +45,19 @@ Chapter Ten is the constitutional owner of these parts of system alignment certi
 
 *In plain terms: once a system has been evaluated, independent forums review the result in a set order and publish an outcome. This chapter says how the forums work and what outcomes they can reach, including the gate before go-live.*
 
-**Purpose.** Chapter Ten states two things:
+**Purpose:** Chapter Ten states two things:
 
 - the forum process for System Alignment Certification (SAC): component roles, the supervisory sequence, the contestability chain, and the anti-bypass rule (**section 2**); and
 - the certification outcomes: the go-live gate, certification defects and correction, remediation readiness, denial and revocation, and their effects (**section 3**).
 
-**Role.** The chapter is jointly owned with Chapters [Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) and [Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing), which together own forum-supervised SAC and the related System Certification Records:
+**Role:** The chapter is jointly owned with Chapters [Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) and [Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing), which together own forum-supervised SAC and the related System Certification Records:
 
 - It takes the evaluation outputs of **Chapter Nine section 3** through **section 5** as the inputs the forums review and the outcome rests on.
 - It rests on [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (functional independence), [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (forum supervision), and [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) (verification discipline).
 - It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Eleven.
 - Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) *Auditability*.
 
-**Chapter scope.** The chapter covers:
+**Chapter scope:** The chapter covers:
 
 - the forum process (**section 2**); and
 - the certification outcomes (**section 3**).

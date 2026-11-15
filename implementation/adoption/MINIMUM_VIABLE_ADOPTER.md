@@ -106,7 +106,7 @@ Highest applicable class governs ([CS-9.305 Part A §2.2](../../corpus_systems/c
 
 **Shared plumbing is allowed; collapsed function is not.** Families may share staff, buildings, and software and still must stay constitutionally distinct ([CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-family-distinction-and-non-collapse-rule)). Mapping a family’s work onto an existing independent adjudicative body is allowed if the concrete forums, benches, or officers are identified ([CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-minimum-structural-availability-by-family)). Mapping onto the founding Slack is not.
 
-**Independence is a headcount tax.** [Chapter Twenty-Six Test 4](../../core_26.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
+**Independence is a headcount tax.** [Chapter Twenty-Six Procedural Test 4](../../core_26.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
 
 ---
 
