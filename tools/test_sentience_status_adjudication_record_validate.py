@@ -79,6 +79,22 @@ class SentienceStatusAdjudicationRecordTests(unittest.TestCase):
         self.assertIn("intake_decline_log.indicator_cited", blob)
         self.assertIn("intake_decline_log.reason", blob)
 
+    def test_subject_count_is_optional_and_checked(self) -> None:
+        record = json.loads(
+            (
+                EXAMPLES
+                / "sentience_status_adjudication_record.narrowed.valid.json"
+            ).read_text(encoding="utf-8")
+        )
+        record.pop("subject_count", None)
+        self.assertEqual(validate_record(record), [])
+        record["subject_count"] = {"count": None, "basis": "Count unsettled."}
+        self.assertEqual(validate_record(record), [])
+        record["subject_count"] = {"count": 0, "basis": "x"}
+        self.assertTrue(validate_record(record))
+        record["subject_count"] = {"count": 2}
+        self.assertTrue(validate_record(record))
+
     def test_self_check_passes(self) -> None:
         self.assertEqual(self_check(ROOT), [])
 

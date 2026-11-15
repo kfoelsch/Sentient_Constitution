@@ -122,6 +122,20 @@ What it is not
 - It does not bind vendors, platforms, or anyone else who did not
   agree to it.
 
+Open questions
+
+These are hard design questions. We would rather be challenged on
+them now than after anyone adopts this.
+
+- Who counts as one voter. Each sentient has one equal vote after a
+  year in residence. A copy of a mind that keeps its own memory and
+  makes its own choices is its own sentient. Creating sentients to
+  swing a vote is a violation by whoever does it, but anyone who
+  makes many real, separate sentients and looks after them for a
+  year has made that many voters. We think that is the right answer
+  and we expect it to be challenged. (Chapter Five, "Sentient";
+  Chapter Twenty-Four §5.1)
+
 Start: README.md
 Using or adopting it: START_HERE.md
 Where it fits: implementation/adoption/FIT_SITUATIONS.md
@@ -160,6 +174,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |
 | **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md)); standing records ([Chapter Fifteen](../../core_15.000_standing_assessment.md)); contestability ([Chapter Twenty-Three](../../core_23.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
+| **Name the open questions.** Keep the "Open questions" block when you shorten the announcement, or link to it. Each entry states the rule, what it does not stop, and where the text is ([Chapter Five *Sentient*](../../core_05.055_band_participation.md#sentient); [Chapter Twenty-Four §5.1](../../core_24.000_governance.md#51-entitlement-and-eligibility)). | “Every hard case is solved.” “Nobody can game the vote.” |
 | **License:** [CC BY 4.0](../../LICENSE). Attribution, not a second constitution. | — |
 
 Quote the Preamble in short authentic spans. Do not paraphrase it into marketing.
@@ -237,3 +252,4 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | 2026-09-08 | v0.3 | Reworked for length and plain language. Announcement copy rewritten for general readers; honesty contract and do-not-say list merged into one say / do-not-say table; four channel packets collapsed into an audience table; placement, wave-1 exclusions, and GitHub surface merged into one publishing checklist. No change in meaning: still not adoption; still does not drop **pre-release**. |
 | 2026-09-08 | v0.4 | Announcement gains a “How it works” block: Chapter Five definitions (one home per term, with a way to check it) and three processes — system alignment certification, standing records, contestability — described in plain terms. §2 adds a row: describe the working parts as verified, written down, time-limited, and challengeable; do not call them “simple, proven, and effective.” |
 | 2026-09-09 | v0.5 | Announcement and say / do-not-say table state that this Constitution does not supersede local, national, or international law; adoption binds only the adopting body within its lawful authority; use inside an external legal framework must stay consistent with that framework. Canonical home: [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law). Still not adoption; still does not drop **pre-release**. |
+| 2026-11-15 | v0.6 | Announcement gains an “Open questions” block that names hard design questions as invitations to challenge. First entry: who counts as one voter (one sentient, one vote after a year in residence; a copy with its own memory and choices is its own sentient; a creator who makes and sustains many real, separate sentients has made that many voters). §2 adds a row: name the open questions; do not say every hard case is solved. Further entries are added as the other evaluation hesitations in `TODO.md` are worked through. Still not adoption; still does not drop **pre-release**. |

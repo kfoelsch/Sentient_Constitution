@@ -39,7 +39,8 @@ REQUIRED = (
     "independent_representative",
     "intake_decline_log",
 )
-OPTIONAL = ("recorded_at", "case_id")
+OPTIONAL = ("recorded_at", "case_id", "subject_count")
+SUBJECT_COUNT_KEYS = ("count", "basis", "branches_treated_as_part_of_a_subject")
 STATUS_VALUES = (
     "affirmed",
     "narrowed",
@@ -362,6 +363,44 @@ def validate_record(record: object) -> list[str]:
                             f"intake_decline_log.{key}",
                         )
                     )
+
+    if "subject_count" in obj:
+        count_obj, count_errors = require_object(
+            obj.get("subject_count"), "subject_count"
+        )
+        errors.extend(count_errors)
+        if count_obj is not None:
+            for key in sorted(set(count_obj) - set(SUBJECT_COUNT_KEYS)):
+                errors.append(
+                    f"subject_count: unknown field {key!r} (SSAR-01)"
+                )
+            if "count" not in count_obj:
+                errors.append(
+                    "subject_count: missing required field 'count' (SSAR-01)"
+                )
+            else:
+                count = count_obj.get("count")
+                if count is not None and (
+                    isinstance(count, bool)
+                    or not isinstance(count, int)
+                    or count < 1
+                ):
+                    errors.append(
+                        "subject_count.count: must be a whole number of at "
+                        "least 1, or null while unsettled (SSAR-01)"
+                    )
+            errors.extend(
+                require_nonempty_string(
+                    count_obj.get("basis"), "subject_count.basis"
+                )
+            )
+            if "branches_treated_as_part_of_a_subject" in count_obj:
+                errors.extend(
+                    require_nonempty_string(
+                        count_obj.get("branches_treated_as_part_of_a_subject"),
+                        "subject_count.branches_treated_as_part_of_a_subject",
+                    )
+                )
 
     return errors
 

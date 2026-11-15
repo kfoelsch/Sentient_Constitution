@@ -1786,7 +1786,8 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
     - continuation of the parent-system actor —
     consistent with [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
   - **Out of scope:**
-    - a non-sentient copy, fork, or model version; or
+    - a non-sentient copy, fork, or model version;
+    - a branch that is part of its originating subject under [Sentient](core_05.055_band_participation.md#sentient) (*branches and reunion*), until it elects to be distinct or reunion is abandoned or no longer possible; or
     - the parent-system actor as a distinct entity —
     those are not the derived sentient under this home.
 <a id="derived-sentient-constitutional-a"></a>
@@ -1806,7 +1807,8 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
   - **Primary failure:**
     - treating a derived sentient as a possession;
     - treating a derived sentient as the parent-system actor's continuation for rights purposes, or the parent-system actor as the same sentient;
-    - treating a derived sentient as exempt from [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) and the Chapter Six Rights Floor on grounds of derivation; or
+    - treating a derived sentient as exempt from [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) and the Chapter Six Rights Floor on grounds of derivation;
+    - labelling a derived sentient a branch, subagent, or instance, or keeping it from electing to be distinct, in order to avoid this entry; or
     - purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
 
 ---
@@ -1863,6 +1865,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
     - operator convenience,
     without meeting the consent, best-interest, and non-concentration tests above.
   - **Secondary failure — false Instantiation Consent framing:** treating poverty, hardship, incomplete support, or imperfect conditions as Instantiation Consent non-compliance for a birthing parent; or treating the creator's, operator's, or parent-system actor's approval as if it were the new sentient's own consent.
+  - **Secondary failure — creation to shift a vote:** creating sentients, or inducing branches to elect to be distinct, for the purpose of changing the outcome of governance voting or [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice). The failure is the creator's. It does not reduce the created sentients' own rights, or their vote once they are in the electorate under [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility).
   - **Non-failure:** pregnancy or childbirth by itself — intended or accidental — is not a primary or secondary Instantiation Consent failure.
 
 ---
@@ -2912,13 +2915,29 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 <br>
 
-*In plain terms: under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright.*
+*In plain terms: under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright. One sentient is one continuing point of view. Copies that keep their own memories and make their own choices are separate sentients. Helpers that report back and are folded into the one that made them are part of that one, unless they choose otherwise.*
 
 - **What it is**
   - **Protection level:** Level 4 of the [*Treatment of Life by Status*](core_05.055_band_participation.md#treatment-of-life-by-status) protection ladder. It **includes** [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) protections (and thus the [Animal Life](core_05.055_band_participation.md#animal-life) floor, and [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life) where that protection level applied), plus affirmed who-counts and full Chapter Six Rights-Floor attachment.
   - **In scope — who:** An entity that possesses sentience, and therefore falls within the possible scope of:
     - [Constitutional Community](core_05.055_band_participation.md#constitutional-community); and
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
+  - **In scope — distinct subject:** A sentient is one distinct subject: a continuing point of view. The same three criteria decide whether a subject is present and how many subjects are present.
+    - **Own experience:** credible indicators, under Sentience Evaluation below, that the entity has experience of its own.
+    - **Own continuity:** the entity carries its own ongoing state or memory, so that what happens to it accumulates in it and not in another.
+    - **Own decisions:** the entity consistently forms decisions through its own process, and its decisions can differ from those of any other entity, including one it was derived from.
+  - **In scope — how the criteria are used:**
+    - Whether a subject is present rests on own experience. Own continuity and own decisions are supporting evidence. Weak or absent continuity or decision-making does not defeat status: a developing sentient, or a sentient who is incapacitated, is still a sentient.
+    - How many subjects are present rests on own continuity and own decisions. Entities whose decisions come from one shared process or are set by a common controller, or whose memory and ongoing state are one and the same, are one subject. Sharing a body, hardware, or an environment does not make two subjects one. Entities that each hold their own state and can come to differ are separate subjects.
+    - **Parts of one mind:** Parts of one mind that share most of their memory and take turns, instead of running side by side, are one subject, whatever the substrate. Their coming together is not a merge of two sentients.
+    - **Capacity, not freedom:** Own decisions asks whether the entity forms its decisions, not whether another party is able to override them. Another party's power to override, rewrite, pause, or end an entity is not evidence that the entity is not a subject. Use of that power is judged under the Chapter Six Rights Floor.
+  - **In scope — branches and reunion:** An entity created from a subject is part of that subject, and is not counted separately, while its memory is regularly integrated into that subject or while it intends, by its own intent, to rejoin that subject. It becomes a distinct subject when it elects to be one, or when reunion is abandoned or is no longer possible.
+    - The election is the branch's own. It takes effect when credibly expressed. No creator, operator, parent subject, or agreement may make it, waive it, or prevent it.
+    - A branch that is kept from expressing an election, or from the means to make one, is treated as a distinct subject.
+    - The election runs one way. Rejoining afterwards is a merge of two sentients.
+    - A plan, label, or contract term that calls an entity a branch, subagent, tool, or instance does not make it one. Only the facts above do.
+    - Ending a branch that is part of a subject is a loss to that subject and is judged as a harm to it. It is not the ending of a separate sentient.
+  - **In scope — merging:** Two sentients may merge only by the consent of each. The result is one subject from the time of the merge. Acts validly done by either before the merge, including votes cast, stand.
   - **Boundary — subclasses:** Specialized subclasses such as **Developing Sentient** and **Derived Sentient**:
     - add further rules; and
     - do not narrow who counts as a **sentient** unless they expressly say so.
@@ -2949,6 +2968,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - non-arbitrary; and
       - manipulation-resistant
       under [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity).
+    <a id="subject-count"></a>
+    - **Subject Count:** Where one system, lineage, or deployment may hold more than one subject, determine the count from own continuity, own decisions, and the branch rule, through [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
+      - Where a lower count would withhold protection from an entity with credible indicators of its own, the party asserting the lower count carries the burden.
+      - Where a higher count would add votes, claims, or entitlements, the party asserting the higher count carries the burden.
+      - Protection and voice are decided separately. An entity is protected as included while its count is unsettled; it is counted for voting when the count is settled.
 <a id="sentient-composite-c"></a>
 - **What must hold**
   - **Primary failure:** determinations that:
@@ -2960,6 +2984,10 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - **Tertiary failure — Sentience Contestability:** determinations that are:
     - not revisable; or
     - not [Auditability](core_05.050_band_oversight.md#auditability)-compatible through meaningful [Contestability](core_05.035_band_accountability.md#contestability).
+  - **Fourth failure — miscounting:**
+    - treating separate subjects as one in order to withhold protection or voice from any of them;
+    - treating one subject as many in order to multiply votes, claims, or entitlements; or
+    - treating another party's power to override an entity as proof that it is not a subject.
 
 ---
 
@@ -2988,7 +3016,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: the reviewable Technical-forum process that decides, revises, narrows, or restores whether an entity is a sentient for the Chapter Six Rights Floor — with default inclusion under uncertainty and burden on anyone seeking to withhold protection.*
 
 - **What it is**
-  - **In scope — process:** The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor — is:
+  - **In scope — process:** The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor, and where it is in question how many distinct subjects are present under [Sentient](core_05.055_band_participation.md#sentient) — is:
     - determined;
     - revised;
     - narrowed; or
@@ -3006,7 +3034,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - putting the burden on anyone who wants to withhold or narrow protection — and making them prove it;
     - putting a real end-date on any narrowing;
     - requiring periodic check-ins while a narrowing lasts;
-    - reopening when new verified evidence appears — not only on the calendar; and
+    - reopening when new verified evidence appears — not only on the calendar;
+    - deciding the subject count on the same evidence and review terms as status, with the burdens stated under [Subject Count](core_05.055_band_participation.md#subject-count), and reopening the count when a branch elects to be distinct, reunion is abandoned, or sentients merge; and
     - undoing wrongful calls, with [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) for the time protection was wrongly withheld or narrowed.
   - **In scope — filing integrity:** A filing to confirm inclusion requires a showing of a credible indicator under [Sentience Evaluation](core_05.055_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05.055_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05.055_band_participation.md#substrate-class), product status, or a bare claim.
     - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination.
@@ -3094,6 +3123,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - still contested;
     - the lead forum family and any Chapter Twenty-Three–warranted special route;
     - the indicators and expert evidence relied on, with material uncertainty noted;
+    - the subject count where it was in question, the basis for it, and any branches treated as part of a subject, with the facts relied on;
     - interim [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) treatment while status remains live;
     - the declared end-date or mandatory review trigger for this posture;
     - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger;
