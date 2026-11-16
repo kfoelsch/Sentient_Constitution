@@ -90,11 +90,20 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 <a id="21-anti-aggregation-of-gated-pathway-effects"></a>
 #### 2.1 Anti-Aggregation of Gated-Pathway Effects
 
-*In plain terms: this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one gated pathway at a time and shown only to whoever gates that gated pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.*
+*In plain terms: this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one gated pathway at a time and shown only to whoever gates that gated pathway. A gatekeeper, such as an institution hiring into a gated role, may ask whether an effect applies to that role and gets an answer about that role alone; it may not pass the answer on, and no one may make the subject show it. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.*
 
-This subsection sets out who may see gated-pathway effects and what aggregation is prohibited:
+This subsection sets out who may see gated-pathway effects, what a gatekeeper may ask and do with the answer, and what aggregation is prohibited:
 
 - **Disclosure scope:** The final effect for a gated pathway is disclosed to the subject, to the gatekeeper of that gated pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other gated pathways as a matter of course.
+- **Gatekeeper check:** A **gatekeeper** is a party that decides who takes or keeps a role or access on a gated pathway, including an institution that hires or appoints into one. When it decides whether the subject takes or keeps that role or access, the gatekeeper may ask the record custodian whether a standing lock or other standing effect applies to **that gated pathway** for the subject, and is entitled to an answer.
+  - The answer states only whether an effect applies to the gated pathway the gatekeeper gates, what it opens, limits, or blocks there, and when it expires or is next reviewed. It does not state the facts, the findings, the slot, the descriptors, the evidence, or any effect on another gated pathway.
+  - Where no effect applies to that gated pathway, the answer says only that none does. It does not say whether the subject has a standing record or an effect elsewhere.
+  - A lock reaches a gatekeeper only through the gated pathway the lock closes or limits, as the lock record names it. A gatekeeper whose gated pathway the lock does not reach gets the answer that none applies.
+  - A role or access that is not a gated pathway has no gatekeeper under this subsection, and whoever fills it gets no answer.
+  - Each request is recorded on the subject's standing record: who asked, for which gated pathway, and when. The subject may see the entry.
+- **No passing on:** The gatekeeper may use the answer only to decide that gated pathway. It may share the answer only with the sentients who decide it, and keep it only as long as the decision and any challenge to it need. It must not pass the answer on to another institution, another gated pathway, a data service, or the public. It may give the answer to the subject, to an authorized reviewer, or to a forum in a proceeding about that decision.
+- **No requiring the subject to show it:** Outside the gatekeeper check, no one may require a subject to show, attest to, or consent to the release of a standing effect or any part of a standing record. A request counts as a requirement when refusing it is treated as an adverse fact or costs the subject the role or access.
+- **Violation conduct:** Passing an answer on, keeping it beyond the point above, and requiring a subject to show an effect or record outside the gatekeeper check are each independently measurable violation conduct under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened), read with [Article VII-B](core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
 - **Prohibited aggregation:** The following construct a merged score and are independently measurable violation conduct under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened), read with [Article VII-B](core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*), whose aggregation discipline this subsection mirrors for standing:
   - assembling final effects across gated pathways into:
     - a profile;
@@ -107,7 +116,7 @@ This subsection sets out who may see gated-pathway effects and what aggregation 
   - transferring an effect to a gated pathway that did not produce it; or
   - inferring general trustworthiness, worth, or risk from the set of a subject's effects.
 - **Bounded exceptions:** [Integrity Forums](core_23.000_forum.md#45-integrity-forums) examining capture or pattern claims, [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation review, and [§4.4 Anti-Evasion and Look-through Authority](#44-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Fifteen §5.2 Related Standing Record Cross-References](core_15.000_standing_assessment.md#52-related-standing-record-cross-references) cross-references between linked standing records remain; they are record links, not a composite.
-- **Public LEQU display:** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the standing record, in forum proceedings, and in the disclosure to the gated-pathway gatekeeper where the slot is a lawful input to that gated pathway.
+- **Public LEQU display:** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the standing record, in forum proceedings, in the disclosure to the gated-pathway gatekeeper where the slot is a lawful input to that gated pathway, and, for a violation at slot 5 or higher, in a public notice about that event under [§2.3 Public Notice of Violation Findings](#23-public-notice-of-violation-findings).
 
 <a id="22-plain-statement-of-effect-and-burden"></a>
 #### 2.2 Plain Statement of Effect and Burden
@@ -121,9 +130,39 @@ This subsection sets out what the subject must be told when an effect attaches:
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;
   - the expected duration or review cadence; and
-  - the challenge route under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+  - the challenge route under **Article XIII-A** (*Reliability and Trustworthiness Baseline*); and
+  - where a violation at slot 5 or higher is involved, that a public notice will be published under [§2.3 Public Notice of Violation Findings](#23-public-notice-of-violation-findings), what it will say, and when it comes down.
 - **Honest cost:** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) defect.
 - **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded gated-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) under [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects) enforcement — not explained away.
+
+<a id="23-public-notice-of-violation-findings"></a>
+#### 2.3 Public Notice of Violation Findings
+
+*In plain terms: a verified violation at slot 5 or higher is published as a notice about the event, whoever the subject is, once review has ended and for as long as the violation record is active. Violations at slots 1 to 4 stay private. Contribution stays private unless the contributor chooses to publish it. The sentient harmed is not named unless that sentient chooses. Publishing a notice never licenses turning published notices into a score or screening product, and a notice carries no contact, location, or activity data about the subject.*
+
+This subsection sets out what is public, what stays private, and how a public notice is limited:
+
+- **Which are published:** The record custodian publishes a public notice for each verified violation finding at Violation Axis slot **5 or higher**, whether the subject is a sentient, an institution, or a system.
+  - Violation findings at slots **1 to 4** are private. They appear in the standing record, in forum proceedings, to the sentients harmed, and in the gatekeeper answer under [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects).
+  - Contribution is private at every slot. A contributor may choose to publish their own contribution record and may withdraw the choice. No one may require or press a contributor to publish, and not publishing is never an adverse fact ([Chapter Fifteen §3.2 Silence Is the Default](core_15.000_standing_assessment.md#32-silence-is-the-default)).
+- **When it is published:** Only once the violation finding is final: the time to review or challenge it under [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) has run, or the review has ended with the violation finding standing.
+  - A hold, an allegation, or a violation finding still under review is never published.
+  - If a published violation finding is later set aside or corrected, the custodian publishes the correction in the same place with the same prominence and takes the original down.
+- **What the notice says:** the event or pattern; the subject found responsible; the duty violated; what was found; the Violation Axis slot for that event; the remedy ordered and whether it has been delivered; and the name of any lock imposed and the gated pathway it closes.
+  - The slot is a statement about the event. It is not a label of the subject.
+  - The notice is kept current. When a lock lifts or the remedy is delivered, the notice says so.
+  - The notice states no other standing effect, and it is not a gatekeeper answer under [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects).
+- **How long it stays up:** while the violation standing record is active. It comes down when that violation standing record is archived under [§3.3 Rest State and Archival](#33-rest-state-and-archival). A violation at slot 7, 8, or 9 stays active, so its notice stays up while it does. Taking a notice down does not erase the standing record.
+- **Sentients harmed and others protected:** The notice does not identify the sentient harmed, or any protected reporter or witness, unless that sentient chooses to be identified.
+  - The choice must be informed and free of pressure from the subject, the forum, or any party, and it may be withdrawn for later publication.
+  - Where the sentient harmed cannot decide, their independent representative decides in their best interest under the [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard).
+  - A sentient who chooses to be identified is named as the sentient harmed.
+- **Developing sentients:** A violation finding against a developing sentient is not published. The notice for the adult, institution, or system responsible is.
+- **No scoring or screening from notices:** Publishing a notice does not license anyone to use published notices to build a score, ranking, grade, badge, or screening product about a subject that is used to decide access or treatment, or to infer general trustworthiness, worth, or risk from them. That is the aggregation [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects) bars, and doing it is itself violation conduct.
+  - Reporting, research, journalism, and oversight work that draws on published notices is not barred.
+  - A gatekeeper uses the gatekeeper check in [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects), so no such product is ever needed.
+- **What the notice leaves out:** The notice carries no contact or location information and no activity history about the subject beyond the event itself. A published notice does not license anyone to compile contact, location, or activity data about the subject. That data stays Type I or Type H and falls under the onward-transfer rule in [CS-6.305 (*Information types and handling*) §5.0 Access-posture bands](corpus_systems/cs_06.305_information_types_and_handling.md#onward-transfer-of-type-h-and-type-i-data).
+- **Accuracy before publication:** Before a notice is published, the subject may point out errors of fact, which the custodian must correct where verified. This corrects errors of fact and does not reopen the violation finding.
 
 <a id="3-restoration-and-reassessment"></a>
 ### 3. Restoration and Reassessment
@@ -181,6 +220,8 @@ Contribution has a currentness half-life under [§2.1 Recency and Currentness](c
 - slot **1**, **2**, or **3** findings are archived on completed restoration;
 - slot **4**, **5**, or **6** findings are archived after a published period that may not exceed the [§2.1 Recency and Currentness](core_18.000_contribution_consequences.md#21-recency-and-currentness) contribution half-life;
 - slot **7**, **8**, or **9** findings remain active indefinitely, subject to [§3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) restoration rules and Chapter Twenty-One.
+
+A public notice under [§2.3 Public Notice of Violation Findings](#23-public-notice-of-violation-findings) comes down when its violation standing record is archived.
 
 Archival is not deletion. [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) continues; the archived record remains reachable to a forum on a documented showing that it bears on recurrence risk in a live matter; and archival is recorded in the version history under [Chapter Fifteen §5.4 Versioning](core_15.000_standing_assessment.md#54-versioning). An archived record produces no gated-pathway effect, is not disclosed to gated-pathway gatekeepers, and is not an input to competency bars, except where a published bar for a specific high-sensitivity gated pathway states a longer look-back and that statement itself satisfies [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality).
 

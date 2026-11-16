@@ -170,6 +170,12 @@ Every bar and clearance result must be designed so the integration record can id
 - the review route; and
 - the reassessment trigger.
 
+The conclusion that a gated pathway is trust-sensitive is itself open to challenge:
+
+- The reason must be published with the bar, in terms of the gated pathway's reach, how much others rely on it, and the foreseeable risk ([§2.2.1 What a Bar Requires](#221-what-a-bar-requires)). The adopter must also publish the list of gated pathways it treats as trust-sensitive.
+- Any sentient the bar affects may challenge the conclusion that the gated pathway is trust-sensitive, and the bar itself, before an independent reviewer outside the body that set the bar. A conclusion that the published reason does not support is set aside, and the gated pathway is no longer trust-sensitive for the purposes of [Chapter Fifteen §3.2 Silence Is the Default](core_15.000_standing_assessment.md#32-silence-is-the-default).
+- No one may require clearances from several gated pathways as a joint condition of one other role, access, or standing. Doing so assembles effects across gated pathways into a comparable artifact, which [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) bars.
+
 <a id="223-continuity-retesting-and-capacity-change"></a>
 ##### 2.2.3 Continuity, Retesting, and Capacity Change
 

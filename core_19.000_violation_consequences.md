@@ -151,13 +151,14 @@ A **standing lock** is a prevention and risk-reduction measure. It blocks or lim
 - trust pathways;
 - role pathways;
 - authority pathways;
-- credit pathways;
+- credit pathways, meaning credit for contribution (who is recognized as having done the work), which is not money or lending;
 - oversight pathways;
 - recognition pathways;
 - influence pathways, as [Influence Pathway](core_05.035_band_accountability.md#influence-pathway) defines them;
 - **governance-voting** pathways;
 - **stakeholder-participation** pathways;
-- care and stewardship pathways, as [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock) sets them out; and
+- care and stewardship pathways, as [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock) sets them out;
+- financial-authority pathways, as [§3.5.8 Financial Authority Standing Lock](#358-financial-authority-standing-lock) sets them out; and
 - creation, reach, scale, and capability pathways, as [§3.4.7 Capacity Locks](#347-capacity-locks) sets them out.
 
 A standing lock must carry the attachment fields set out in [§3.1 Definition and Attachment](#31-definition-and-attachment). A lock on an influence pathway takes one of two forms, set out in [§3.4.6 Influence-Pathway Locks](#346-influence-pathway-locks). A lock on a capacity the sentient misused takes one of four forms, set out in [§3.4.7 Capacity Locks](#347-capacity-locks).
@@ -196,6 +197,10 @@ Apply the special lock whose trigger is met. Each is set out in [§3.5 Special L
   - It closes care and stewardship authority and unsupervised access.
   - It applies on the same terms to every substrate.
   - It never reaches bodily reproduction, and it is never enforced by intruding into a body or a mind.
+- **Financial Authority Standing Lock:** the trigger is a verified violation finding of knowing or intentional, material misuse of money, funds, or assets, or of fraud or concealment about them.
+  - It closes authority over other sentients' or the public's money, and unsupervised access to it.
+  - It does not reach the subject's own earning, holding, spending, saving, or borrowing, or what the subject needs to live.
+  - Inability to repay does not keep it in place, and repayment does not lift it by itself.
 
 <a id="224-purpose-of-a-lock"></a>
 ##### 2.2.4 Purpose of a Lock
@@ -531,7 +536,7 @@ This subsection has seven parts:
 <a id="341-negligence-and-neglect"></a>
 ##### 3.4.1 Negligence and Neglect
 
-*In plain terms: negligence and neglect count as real duty failures when the harm is material.*
+*In plain terms: negligence and neglect count as real duty failures when the harm is material. A mistake made with reasonable care is an honest error and is not a violation by the sentient who made it. Where an institution's or system's conditions caused the failure, the failing is recorded against the institution or system.*
 
 This rule fills the attachment fields as follows:
 
@@ -544,7 +549,40 @@ This rule fills the attachment fields as follows:
 - **Corrective conditions:** when the harm is material, negligence or neglect must be treated as real duty failure—not brushed off as a paperwork mistake.
 - **Review route and reassessment:** if it is still unclear whether the same neglect will happen again, that uncertainty itself counts as risk under [§3.1 Definition and Attachment](#31-definition-and-attachment). Incomplete recurrence evidence is not a reason to leave a sensitive gated pathway open.
 
-Verified concealment after notice may orient remedy, monitoring, resource-stewardship restrictions, and heightened verification only. It does not change the violation slot, and the same concealment is not counted twice.
+The rest of this subsection says what counts as negligence and as feasible capacity, and how the rule works inside and outside an institution or system. The test is the same in both settings: duty, clear expectation, capacity, and care. The settings differ in who set the conditions the sentient worked under.
+
+- **Negligence:** failing to take the care that a sentient in the same position, with the same duty and the same capacity, would reasonably take to avoid a foreseeable material harm.
+- **Honest error:** a mistake made despite that care. It is not negligence and not a violation by the sentient who made it ([Chapter Fifteen §5.3 Collective and Actor-Specific Records](core_15.000_standing_assessment.md#53-collective-and-actor-specific-records)).
+  - It is judged at the time of the mistake, from what the sentient knew and could have known then, not from how the harm turned out.
+  - A serious outcome does not turn an honest error into negligence.
+- **Feasible capacity:** what the sentient actually had at the time:
+  - the information it needed, or a fair way to get it;
+  - time;
+  - training and competence for the duty;
+  - tools and resources;
+  - authority to act or to stop the work; and
+  - a working route to escalate and be heard without reprisal.
+- **Capacity that was withheld:** capacity that the sentient's institution, system, employer, or circumstances withheld is not the sentient's capacity. A duty that cannot be carried out with what was given is a failing of whoever assigned it.
+- **The same standard on every substrate:** the question is what this sentient could do. Age, stage of development, disability, substrate limits, health, and conditions at the time count.
+
+**Inside an institution or system** (a sentient acting in a role, under an institution's or system's rules, tools, staffing, targets, or incentives):
+
+- **Conditions first:** because the institution or system set the conditions, they are examined first. The root-cause analysis under [Article XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*) says whether the duty was clear and the capacity was real.
+- **Duty unclear or capacity not given:** the sentient's mistake is an honest error at most. The failing is the institution's or system's, recorded as structural enablement in a collective record under [Chapter Fifteen §5.3 Collective and Actor-Specific Records](core_15.000_standing_assessment.md#53-collective-and-actor-specific-records).
+- **Duty clear and capacity real:** negligence is recordable against the sentient. If the conditions also contributed, both violation records open, each on its own part. One does not erase the other, and the same loss is not counted twice.
+- **Failure to escalate:** a sentient who knew the conditions made harm likely, and had a working route to escalate and be heard, is responsible for not using it ([§3.4.4 Collective Accountability](#344-collective-accountability)). Where no route existed, or escalating was punished, the failing is the institution's or system's.
+- **Those who set the conditions:** a sentient who designed the system, set the staffing, tools, or targets, or approved a rollout is judged by the same rule as to that duty: authority, control, a foreseeable harm, and care that fell short. That the system did the harm is no excuse.
+- **Following a rule:** following an institution's rule is not negligence when the sentient used reasonable care in following it and the harm came from the rule. A sentient who knew the rule would cause material harm and carried it out anyway is not in an honest-error case, and [§3.4.3 Duty to Resist](#343-duty-to-resist) applies.
+
+**Outside an institution or system** (a sentient acting on its own account, such as a parent, a neighbor, or the keeper of its own property, car, animals, or tools):
+
+- **Own capacity decides:** no institution supplied capacity or set expectations, so the sentient's own capacity decides: what it knew, could readily have learned, and had the means and time to do.
+- **Where the duty comes from:** the relationship, a duty the sentient took on, control of a hazard (property, animals, tools, or a dependent), or its own earlier conduct that created a risk.
+- **When negligence is recordable:** the duty was clear, a sentient in the same position would have seen the risk and taken ordinary care, and this sentient could have. A mistake made with that care is an honest error, whatever the harm.
+- **Outside causes:** where the harm came from a defective product, misleading public information, an unmarked hazard, or a gap in public services, the root-cause analysis names that cause. The party that owed the duty, such as the maker, publisher, owner, or provider, is judged by the same rule. If no one owed a duty, no violation record opens. The harm is still recorded as an event, and the sentient harmed is still owed remedy.
+- **Mixed settings:** where someone else set part of the conditions, such as an employer, a platform, an organizer, or a customer, the inside rules apply to that part.
+
+Verified concealment after notice may orient remedy, monitoring, resource-stewardship restrictions, and heightened verification only. It does not change the violation slot, and the same concealment is not counted twice. Where the underlying mistake was an honest error, there is no negligence for the concealment to attach to. The concealment is then recorded on its own under [Chapter Sixteen §3.2.2 How the Way a Harm Was Caused Is Recorded](core_16.000_standing_measurement.md#322-how-the-way-a-harm-was-caused-is-recorded), and any extra loss it causes is counted once.
 
 <a id="342-misaligned-rewards"></a>
 ##### 3.4.2 Misaligned Rewards
@@ -732,7 +770,7 @@ The four locks fill the gated-pathway and risk fields as follows:
 
 These locks are mandatory when their verified trigger is met. Each must be recorded using the [§3.1 Definition and Attachment](#31-definition-and-attachment) attachment fields. They may not be lifted, narrowed, or suspended except through the corrective conditions and review route stated for that lock. Each lock attaches only to a verified violation finding ([§3.1.2 What a Lock Attaches To](#312-what-a-lock-attaches-to)); an Interim Hold is not a lock ([§3.6 Interim Holds and Locks](#36-interim-holds-and-locks)). A special lock never substitutes for another lock, a [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation, or remedy. Where several apply on separately verified facts, each is attached and justified on its own integration record.
 
-These seven are the only special locks. The following fact families do not create one:
+These eight are the only special locks. The following fact families do not create one:
 
 - Rights-Floor waiver or unconstitutional contract devices;
 - contest-pathway or info-sphere flooding;
@@ -742,15 +780,16 @@ These seven are the only special locks. The following fact families do not creat
 
 For each of them, ordinary gated-pathway locks under [§2.2 Prevention — General Standing Locks](#22-prevention--general-standing-locks) proceed from the fixed violation record at any slot, whether or not an ACMD later attaches. Chapter Twenty-One separately decides the ACMD criteria for these, for example under [§3.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms), [§3.2 Flooding the Zone and Contest-Pathway Denial](core_22.000_misconduct_pattern_applications.md#32-flooding-the-zone-and-contest-pathway-denial), [§3.3 Info-Sphere Zone Flooding](core_22.000_misconduct_pattern_applications.md#33-info-sphere-zone-flooding), [§6.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](core_22.000_misconduct_pattern_applications.md#62-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§7 Obstruction of Accountability: Criteria Interaction](core_22.000_misconduct_pattern_applications.md#7-obstruction-of-accountability-criteria-interaction). Only a final ACMD triggers the [§3.5.5 Anti-Constitutional Trust Lock](#355-anti-constitutional-trust-lock). Verified obstruction *conduct* is different from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
 
-This subsection has seven locks:
+This subsection has eight locks:
 
 - [§3.5.1 Forum-Service Standing Lock](#351-forum-service-standing-lock);
 - [§3.5.2 Stakeholder-Participation Standing Lock](#352-stakeholder-participation-standing-lock);
 - [§3.5.3 Institutional Authority Standing Lock](#353-institutional-authority-standing-lock);
 - [§3.5.4 Perjury Standing Lock](#354-perjury-standing-lock);
 - [§3.5.5 Anti-Constitutional Trust Lock](#355-anti-constitutional-trust-lock);
-- [§3.5.6 Dissolution Reformation Lock](#356-dissolution-reformation-lock); and
-- [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock).
+- [§3.5.6 Dissolution Reformation Lock](#356-dissolution-reformation-lock);
+- [§3.5.7 Care and Stewardship Lock](#357-care-and-stewardship-lock); and
+- [§3.5.8 Financial Authority Standing Lock](#358-financial-authority-standing-lock).
 
 <a id="351-forum-service-standing-lock"></a>
 ##### 3.5.1 Forum-Service Standing Lock
@@ -875,7 +914,7 @@ This subsection has seven locks:
   - **When the lock can change:** when the independent restoration finding above is made.
   - **Closer scrutiny:** use of an institution to carry out a violation gets a closer look when it was intentional, concealed, repeated, retaliatory, or changed the outcome of a matter.
   - **Risk qualifiers:** if it is unclear whether the same use will happen again, that doubt counts as risk, and the lock may need to keep the sentient away from nominee, shell, and proxy networks that would recreate the risk ([§3.1.3 Risk Qualifiers](#313-risk-qualifiers)).
-- **Gate effect:** While the lock is outstanding, the outstanding-lock gate in [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) applies to the gated pathway and no further. The institution or enterprise is not stopped. It must fill the authority again with another lawful holder. A body that knowingly seats the subject in the gated pathway, directly or through a nominee, commits evasion of the lock under [§4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority). Where only the grounds for an Interim Hold are met, no lock attaches and the Interim Hold that **Article XI-E** (*Institutional Formation and Business Creation*) provides applies instead ([§3.6 Interim Holds and Locks](#36-interim-holds-and-locks)).
+- **Gate effect:** While the lock is outstanding, the outstanding-lock gate in [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) applies to the gated pathway and no further. The institution or enterprise is not stopped. It must fill the authority again with another lawful holder. A body that knowingly seats the subject in the gated pathway, directly or through a nominee, commits evasion of the lock under [§4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority). A body filling the gated pathway can ask whether the lock applies to it under [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects). Where only the grounds for an Interim Hold are met, no lock attaches and the Interim Hold that **Article XI-E** (*Institutional Formation and Business Creation*) provides applies instead ([§3.6 Interim Holds and Locks](#36-interim-holds-and-locks)).
 - **Honest error:** A statement that is wrong without the subject's knowledge is a defect to log and correct under [Chapter Seven §7 When a Holder Fails the Formation Check](core_07.000_charters.md#7-when-a-holder-fails-the-formation-check). It is not a trigger. Knowledge is shown by verified facts, such as what the subject knew, controlled, or received, and is not presumed from the falsity alone.
 
 <a id="354-perjury-standing-lock"></a>
@@ -1069,6 +1108,52 @@ The lock is mandatory once its trigger is met, and it applies on the same terms 
   - restoration proceeds in stages, beginning with supervised contact.
 - **Review route:** independent review by the forum with jurisdiction. The dependent has an independent representative, and the dependent's own preferences are heard under Chapter Five *Graduated Capability*.
 - **Reassessment point:** at the intervals stated on the integration record, and on new verified evidence. The lock does not lift on time alone.
+
+<a id="358-financial-authority-standing-lock"></a>
+##### 3.5.8 Financial Authority Standing Lock
+
+*In plain terms: a sentient who took, hid, or misused money that was not theirs, or lied to get it, loses the positions that put other sentients' or the public's money in their hands, until an independent reviewer finds it safe to give them back. The lock does not touch their own pay, their own accounts, or what they need to live. Being unable to pay back does not keep it in place, and paying back does not lift it by itself.*
+
+**Trigger:** all of the following must be true:
+
+- a violation finding has been verified;
+- the violation finding is still open, or the harm has not been fixed in a way that matters;
+- the violation finding shows knowing or intentional conduct of one of the kinds listed next; and
+- the conduct was material, as [Materiality](core_05.050_band_oversight.md#materiality) defines it.
+
+**Kinds of conduct that count:**
+
+- taking, diverting, or misusing money, funds, or assets held for other sentients or for the public, including self-dealing and use for a purpose other than the one they were held for;
+- knowingly making, signing, or causing a materially false statement, record, account, or valuation to obtain money, funding, or a payment, or to hide a financial position, a loss, or where money went;
+- concealing, moving, or disguising money or assets that came from a verified violation, or that are owed as remedy under [§2.1 Remedy and Correction](#21-remedy-and-correction);
+- withholding, delaying past what is owed, or diverting pay, benefits, refunds, or other payments owed to other sentients; and
+- obtaining money from sentients by deception or coercion, or by exploiting a dependency or vulnerability the subject knew of.
+
+The lock is mandatory once its trigger is met, and it applies on the same terms to every substrate. The scope of the lock is calibrated under [§3.2 Proportionality and Calibration](#32-proportionality-and-calibration). At the least it closes unsupervised control of other sentients' or the public's money. A mistake or shortfall without that knowledge or intent follows [§3.4.1 Negligence and Neglect](#341-negligence-and-neglect).
+
+- **Gated pathway:**
+  - authority to hold, control, approve, or pay out money, funds, or assets that belong to other sentients or to the public, including treasury, custody, trustee, payroll, procurement, grant-making, and signing authority;
+  - roles that carry unsupervised access to that money or the power to alter the records of it; and
+  - lending, taking deposits or investments, or managing investments for other sentients.
+- **Does not by itself restrict:**
+  - the sentient's own earning, holding, spending, saving, or borrowing;
+  - working in or being paid by an institution or enterprise, including the one concerned, in a role that carries no financial authority;
+  - supervised roles that the reviewing forum finds safe, such as a role with dual control or a set spending limit;
+  - recovery of what is owed, which runs under [§2.1 Remedy and Correction](#21-remedy-and-correction) on its own route: the lock does not freeze or seize the subject's own assets; or
+  - the protections in [§3.1.4 What a Lock Does Not Itself Restrict](#314-what-a-lock-does-not-itself-restrict).
+- **Risk:** renewed taking, concealment, or misuse of money held for other sentients or the public, including through nominees, proxies, or successor accounts and entities.
+- **Protected subjects or interests:** the sentients whose money, pay, or assets the subject could reach, the public purse, the members, workers, and beneficiaries of the institution or enterprise concerned, and the integrity of its financial records and funding decisions.
+- **Corrective conditions:**
+  - remedy to those harmed is opened and is being delivered ([§2.4 Remedy Parity and Lock Preconditions](#24-remedy-parity-and-lock-preconditions));
+  - a full accounting of the money and assets concerned is disclosed and independently verified;
+  - the control gap that allowed the conduct is closed, for example by an independent seat, dual control, or another safeguard;
+  - an independent finding that recurrence risk has been materially reduced; and
+  - restoration proceeds in stages, beginning with supervised authority or a set spending limit.
+- **Debt and means:** Repayment alone does not lift the lock. Inability to repay alone does not keep it in place. Founder status, capital contributed, indispensability, prior contribution, reputation, or apology cannot lift it by itself.
+- **Review route:** independent review, run outside the institution or enterprise concerned and outside any body whose authority the lock limits.
+- **Reassessment point:** at the intervals stated on the integration record, and on new verified evidence. The lock does not lift on time alone.
+- **Gate effect:** While the lock is outstanding, the gated pathway is closed to the subject and no further. The institution or enterprise is not stopped. It must fill the authority again with another lawful holder. A body that knowingly seats the subject in the gated pathway, directly or through a nominee, commits evasion of the lock under [§4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority). A body filling the gated pathway can ask whether the lock applies to it under [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects).
+- **Honest error:** A statement or account that is wrong without the subject's knowledge is a defect to log and correct. It is not a trigger. Knowledge is shown by verified facts, such as what the subject knew, controlled, or received, and is not presumed from a shortfall alone.
 
 <a id="36-interim-holds-and-locks"></a>
 #### 3.6 Interim Holds and Locks

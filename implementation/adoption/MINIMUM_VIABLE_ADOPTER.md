@@ -280,6 +280,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **CS-9.305 and CS-9.310** classification | Always, if you claim a class. Honesty about Class *X* is a prerequisite for every profile below |
 | **CS-24.305** critical-system stewardship | Class A/B (and Class C where gated) |
 | **CS-6.350** migration | **After** a recorded adoption document, not before |
+| **CS-6.305 onward-transfer rule** (core personal data) | Always, for any body that holds core personal data about sentients. A stock held to sell or compile, or inherited, is wound down in the body's transition plan. See [CS-6.305 §5.0 Access-posture bands](../../corpus_systems/cs_06.305_information_types_and_handling.md#onward-transfer-of-type-h-and-type-i-data) |
 
 ---
 
@@ -429,3 +430,4 @@ Use this as a lookup, not as a new mode.
 |---|---|---|
 | 2026-09-09 | v0.1 | Initial process-support profile: *N* × Class *X*, required vs optional bodies, order of work, order-of-magnitude staff and funding. Names that the full companion stack is not standable by a forty-person lab as written. Not adoption. Not a partial-pack ladder. Does not drop **pre-release**. |
 | 2026-10-04 | v0.2 | §4.1 outlines reusable standard-process recognition as the first operating goal after the adoption document and forum families are live. Outline only; needs a core proposal. Does not drop **pre-release** or add a step to the order of work. |
+| 2026-11-15 | v0.3 | §5.4 gained a row for the onward-transfer rule on core personal data. Kit practice; core text controls. |

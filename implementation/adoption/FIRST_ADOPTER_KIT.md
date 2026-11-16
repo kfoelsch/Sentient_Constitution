@@ -120,6 +120,7 @@ Fill this block **before** claiming an adoption document. If any “cannot bind�
 | Systems the adopter actually has authority to bind | Non-consenting sentients, third parties, or “the internet” |
 | A mutual cooperation protocol **only if** that protocol is in scope **and** the adopter can bind it | Other parties’ self-application declarations |
 | Obligations the adopter takes on for itself under the pinned edition | A later unadopted corpus edit ([Chapter Twenty-Eight §3](../../core_28.000_incorporation.md#3-safeguards) no silent drift) |
+| How the adopter holds and discloses core personal data about sentients (the onward-transfer rule in [CS-6.305 §5.0 Access-posture bands](../../corpus_systems/cs_06.305_information_types_and_handling.md#onward-transfer-of-type-h-and-type-i-data)) | Data brokers, scrapers, and compilers outside the adopter's reach, and data about sentients that is already out in the world |
 
 Partial adoption may not wipe the [Chapter Twenty-Five](../../core_25.000_non_regression.md#2-non-regression-floor) non-regression floor. Incorporation and partial adoption must not shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears.
 
@@ -176,6 +177,18 @@ Article I-D is in scope; core does not pick the number):
 Chapter Twenty-Five non-regression: partial adoption does not wipe the floor.
   [ ] acknowledged
 
+Core personal data held at adoption (onward-transfer rule in CS-6.305
+Access-posture bands §5.0; core text controls; the wind-down lines are kit
+practice, not a core requirement):
+  kinds held (contact and location, identifiers, purchase and activity
+  histories, inferences and segments), or "none":
+  any held to sell, disclose onward, or compile for others? yes / no
+  inherited from a predecessor or a business sale? yes / no
+  if either is yes: wind-down date, notice to the sentients affected,
+  purge or return:
+  plain list of what is held and who receives it to serve the sentient:
+    published / on request / not yet
+
 This adoption document binds:
 This adoption document does not bind:
 
@@ -230,6 +243,7 @@ non-adopters. See Chapter Twenty-Eight §4 and Chapter Twenty-Seven §6.
 1. **Operations-guide.** We will use this pinned edition as the owner / conflict / logging framework for our cooperation. We will sit the fitness screen. We will not invent a parallel stack.
 2. **Own-conduct.** Each records a dated, edition-pinned self-application declaration (item 16) if the fitness finding is Yes or Mixed.
 3. **Adoption.** Only a body that can bind the relevant systems records a Chapter Twenty-Six adoption document. If we cannot bind those systems, we hand off to whoever can (item 17) and do not claim enforceability.
+4. **Data about sentients.** We keep our own holding and disclosure of core personal data within the onward-transfer rule. We do not claim to stop others from compiling data about our members. We tell members that the dependable protection is keeping a public contact point apart from private ones.
 
 ---
 
@@ -269,3 +283,4 @@ non-adopters. See Chapter Twenty-Eight §4 and Chapter Twenty-Seven §6.
 | 2026-08-31 | v0.9 | 2026-04 planning annex pointer retargeted to [`archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). |
 | 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law). |
 | 2026-09-09 | v0.11 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |
+| 2026-11-15 | v0.12 | Core personal data: a scope-honesty row, a held-at-adoption block in the fill-in, and an honest statement, for the onward-transfer rule in CS-6.305 §5.0. Kit practice; core text controls. |

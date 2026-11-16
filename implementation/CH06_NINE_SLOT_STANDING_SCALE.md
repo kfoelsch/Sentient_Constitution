@@ -115,7 +115,7 @@ A **record** that **only** has **primary** **band** **typing** may set **`nine_s
 
 ## 4. No single net score
 
-Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, the two tracks are decided from their own records and meet at the final standing effect, where a lock controls: contribution currentness and competency bars and clearances never open a gated pathway a lock blocks.
+Implementations may record the two numbers for one event or pattern, `C_measure` (verified contribution) and `L*` (verified violation loss), both in LEQU. They may show them in the standing records, in forum proceedings, in the disclosure to a gatekeeper where the slot is a lawful input to that gated pathway ([Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects)), and, for a violation at slot 5 or higher, in a public notice about that event ([Chapter Twenty §2.3 Public Notice of Violation Findings](../core_20.000_final_effect_restoration_enforcement.md#23-public-notice-of-violation-findings)). Contribution numbers are published only if the contributor chooses. They must not publish a subject's two numbers as a general attribute of a sentient, define standing as `C_measure - L*`, or reconcile the axes into one gating number. In Question 3 processing, the two tracks are decided from their own records and meet at the final standing effect, where a lock controls: contribution currentness and competency bars and clearances never open a gated pathway a lock blocks.
 
 ---
 
