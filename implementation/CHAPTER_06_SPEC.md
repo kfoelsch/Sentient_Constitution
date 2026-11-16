@@ -10,6 +10,6 @@ This file is **retired**. It previously held implementation-facing expansion for
 | Standing composites, recency interop defaults (**daily** **half-life** **Contribution Axis** weighting per **section 2.7**; **no** time discount for **unresolved** **Violation Axis** inputs) | [corpus_systems.md](../corpus_systems.md) |
 | Nine-slot (3×3) standing **score** scale, formulas, and legacy band maps | [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) · [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) |
 | How to estimate LEQU magnitude, including non-biological sentients | [LEQU_CALIBRATION_REFERENCE.md](LEQU_CALIBRATION_REFERENCE.md) |
-| Optional JSON structure for Chapter Fifteen–style classification snapshots | [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) |
+| Optional JSON structure for Chapter Fifteen–style classification snapshots: a separate contribution snapshot and violation snapshot, linked by a cross-reference only (the old combined shape is read-only) | [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) |
 
 Forks or tools that still cite legacy section numbers from this spec should remap obligations to **Chapter Fifteen** in `core_15.000_standing_assessment.md` and `core_17.000_standing_integration.md` and operational material in **corpus_systems.md**.

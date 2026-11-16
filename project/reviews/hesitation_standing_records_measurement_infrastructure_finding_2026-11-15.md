@@ -273,3 +273,16 @@ Open: whether the forum or the custodian should be the publisher; the independen
 
 **Open.** (1) Whether the fraud-signal conditions are the right set. (2) Whether a data-custody gated pathway is needed, to be settled on a real case. (3) The kits are to be redone before the announcement. (4) A worked example and regression scenarios, to be shelved.
 
+## 17. Update: stale cites repaired (555th move, 2026-11-16)
+
+Decision 9 is done as a citation repair. Chapter Seventeen's reading note now names Chapters Fifteen and Sixteen; the ANNOUNCEMENT.md standing paragraph cites Chapters Fifteen to Twenty; three live evaluation result templates say "Chapter Fifteen standing record". Dated result files keep their wording. Still open: decisions 6 (schema), 7 (scenarios, shelved; felt-burden verification) and 8 (announcement entry), and the independent read.
+
+## 18. Update: schema split, parts 1 to 3 of decision 6 (556th move, 2026-11-16)
+
+The custodian asked for parts 1 to 3 of decision 6. `ch06_assessment.schema.json` now takes a contribution snapshot and a violation snapshot as separate kinds, linked only by an optional cross-reference. The `joint` block, `c_star_cumulative`, `v_star_sum` and `highest_finding_slot` are retired from snapshots and rejected in new records. The old single-object shape remains as a deprecated, read-only form so existing records stay readable. Still open in decision 6: part 4, a per-adopter `subject_ref` with a rule that adopters may not share keys. Still open elsewhere: decision 7 (scenarios shelved; felt-burden verification), decision 8 (announcement entry), and the independent read.
+
+## 19. Update: part 4 not adopted; discovery gap opened (558th move, 2026-11-16)
+
+The custodian decided not to adopt part 4 of decision 6, a per-adopter `subject_ref` with a rule against shared keys. Reasons: cross-border lookup of violations and contributions is essential, so a key scheme that makes it harder is an avoidable burden; the disclosure rules already do the limiting (Chapter Twenty §2.1 gatekeeper check, no passing on, no aggregation; slot 5 and higher public notice); locks, remedies and review already travel (Chapter Twenty §4.3); scoped keys would not stop re-identification through names, free text or timestamps, and would only burden honest adopters; and a scheme that hides a locked sentient across adopters comes close to the record fragmentation named in Chapter Twenty §4.4. `subject_ref` stays as it was.
+
+Opened instead: the gatekeeper check says to ask "the record custodian" but core does not say how a gatekeeper finds the custodian that holds an effect from another adopter. Tracked in `TODO.md` as *Cross-adopter lookup of standing effects*. Decision 6 is closed (parts 1 to 3 done in the 556th move, part 4 not adopted). Still open: decision 7 (scenarios shelved; felt-burden verification), decision 8 (announcement entry), and the independent read.

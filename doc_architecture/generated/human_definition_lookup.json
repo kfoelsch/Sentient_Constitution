@@ -117,7 +117,7 @@
       "href": "../../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction"
     }
   ],
-  "term_count": 308,
+  "term_count": 310,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -141,11 +141,25 @@
       "href": "../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution"
     },
     {
+      "term": "Adoption Charter",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#adoption-charter",
+      "plain_terms": "an **Adoption Charter** is the published statement of how a settled adopter runs the parts other adopters need to deal with it: who decides its forum questions, who keeps its standing records and which office to ask, and how much trust it extends to each other adopter. It is not the act of adopting (that is the adoption document) and not the passage from legacy operation (that is the Adoption Transition Record). It begins when the Adoption Transition ends.",
+      "href": "../../core_05.040_band_continuity.md#adoption-charter"
+    },
+    {
       "term": "Adoption Transition",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#adoption-transition",
       "plain_terms": "the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.",
       "href": "../../core_05.040_band_continuity.md#adoption-transition"
+    },
+    {
+      "term": "Adoption Transition Record",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#adoption-transition-record",
+      "plain_terms": "the **Adoption Transition Record** is the published, running record of an adopter's [Adoption Transition](../../core_05.040_band_continuity.md#adoption-transition): the phased plan, the gates passed and not passed, the Rights-Floor attainment ledger, who is accountable, the interim authority and its limits, and any off-ramp or re-baselining. It also carries, marked provisional, the lookup entries the Adoption Charter later settles. When the adopter reaches steady state the Adoption Charter takes over and the Adoption Transition Record is closed and archived with its history intact.",
+      "href": "../../core_05.040_band_continuity.md#adoption-transition-record"
     },
     {
       "term": "Adversarial, Scaled, and Exploited Conditions",

@@ -197,6 +197,19 @@ expanded adoption → steady state). A self-application declaration is not
 phase entry.
 ```
 
+### 4.1 Adoption Transition Record and Adoption Charter (kit practice)
+
+The adoption document records the act of adopting. Two more published documents follow it ([Chapter Twenty-Six §11.4 Adoption Transition Record and Adoption Charter](../../core_26.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)). This is kit practice; core text controls.
+
+Checklist for a first adopter:
+
+- [ ] **Forum authority assignment, at least provisional:** name the Institutional Forum that decides questions about the trust you extend to other adopters, and the route by which technical advice on privacy and security reaches it. Without this, extend only the public level.
+- [ ] **Adoption Transition Record published** from the effective date, with the plan, gate results, attainment ledger, owners and interim authority, and the provisional entries marked provisional. Office-level contacts only, never a named sentient's contact details.
+- [ ] **Record custodian and gatekeeper-check contact** named (provisional until the Adoption Charter).
+- [ ] **Levels of trust extended** listed. Start at the public level for every other adopter; raise a level only by a published decision of your Institutional Forum, with the technical advice it rests on.
+- [ ] **Adoption Charter published** before the gate into the steady-state phase, confirming or replacing the provisional entries; then close and archive the Adoption Transition Record.
+- [ ] **Adoption document points** to the Adoption Transition Record and, once published, the Adoption Charter.
+
 ---
 
 ## 5. Dispute bootstrap
@@ -284,3 +297,4 @@ non-adopters. See Chapter Twenty-Eight §4 and Chapter Twenty-Seven §6.
 | 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law). |
 | 2026-09-09 | v0.11 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |
 | 2026-11-15 | v0.12 | Core personal data: a scope-honesty row, a held-at-adoption block in the fill-in, and an honest statement, for the onward-transfer rule in CS-6.305 §5.0. Kit practice; core text controls. |
+| 2026-11-16 | v0.13 | §4.1 checklist for the Adoption Transition Record and the Adoption Charter, including at least a provisional forum authority assignment. Kit practice; core text controls. |

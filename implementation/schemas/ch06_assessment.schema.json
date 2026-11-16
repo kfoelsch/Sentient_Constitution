@@ -2,49 +2,118 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://constitution.sentient/schemas/ch06_assessment.schema.json",
   "title": "ch06_assessment",
-  "description": "Logical Chapter Sixteen measurement snapshot; semantic meaning and obligations are in core_15.000_standing_assessment.md and core_17.000_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Fifteen Verified inputs for standing and Chapter Five Violation Nature); allegations and forum-phase material are not standing inputs. Chapter Seventeen recency/currentness is a Question 3 gate/readiness input only and must not alter this snapshot's Contribution Axis slot or LEQU measurement. In Chapter Seventeen a lock controls over a contribution gate. Cross-field and precedence rules may require validators beyond this schema or custom assertions.",
-  "type": "object",
-  "additionalProperties": false,
-  "required": [
-    "assessment_id",
-    "subject_ref",
-    "evaluation_scope",
-    "assessed_at",
-    "assessor",
-    "axis_one"
+  "description": "Logical Chapter Sixteen measurement snapshot, issued as one of two separate, linked snapshot kinds: a contribution snapshot (Contribution Axis only) or a violation snapshot (Violation Axis only). Core keeps the two standing records separate (Chapters Fifteen to Twenty), so this schema does not carry both axes in one object, holds no combined or highest-of value, and holds no subject-level running total. A snapshot of one kind may point to its companion with linked_assessment_id; that pointer is a cross-reference only and carries nothing from the other snapshot. An axis with no verified standing record has no snapshot; absence is not a record and is not read as a zero. Semantic meaning and obligations are in core_15.000_standing_assessment.md and core_17.000_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Fifteen Verified inputs for standing and Chapter Five Violation Nature); allegations and forum-phase material are not standing inputs. Chapter Seventeen recency/currentness is a Question 3 gate/readiness input only and must not alter a snapshot's Contribution Axis slot or LEQU measurement. In Chapter Seventeen a lock controls over a contribution gate. A third, deprecated shape (legacyCombinedAssessment) is accepted so that records written before the split stay readable; new records must use a snapshot kind. Cross-field and precedence rules may require validators beyond this schema or custom assertions.",
+  "oneOf": [
+    { "$ref": "#/$defs/contributionSnapshot" },
+    { "$ref": "#/$defs/violationSnapshot" },
+    { "$ref": "#/$defs/legacyCombinedAssessment" }
   ],
-  "properties": {
-    "assessment_id": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Stable identifier for this assessment snapshot (UUID recommended)."
+  "$defs": {
+    "commonSnapshotFields": {
+      "type": "object",
+      "required": [
+        "assessment_id",
+        "subject_ref",
+        "evaluation_scope",
+        "assessed_at",
+        "assessor"
+      ],
+      "properties": {
+        "assessment_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Stable identifier for this assessment snapshot (UUID recommended)."
+        },
+        "subject_ref": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Who or what is classified (URI or implementation-stable key)."
+        },
+        "evaluation_scope": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Boundaries under which inputs were evaluated (jurisdiction, system, record span)."
+        },
+        "assessed_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "RFC 3339 datetime when the snapshot was issued."
+        },
+        "assessor": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Party responsible for the classification (role, system component, or office code)."
+        },
+        "rationale_uri": {
+          "type": "string",
+          "format": "uri",
+          "description": "Optional pointer to auditable reasoning artifact."
+        },
+        "linked_assessment_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Optional assessment_id of the companion snapshot of the other kind for the same subject and scope. A cross-reference only: it carries no slot, measure, or severity from the other snapshot, and the two are never read as one combined result. No netting is permitted."
+        }
+      }
     },
-    "subject_ref": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Who or what is classified (URI or implementation-stable key)."
+    "contributionSnapshot": {
+      "title": "Contribution snapshot",
+      "description": "Contribution Axis only. Issued only where a verified contribution standing record exists.",
+      "allOf": [{ "$ref": "#/$defs/commonSnapshotFields" }],
+      "type": "object",
+      "required": ["snapshot_kind", "axis_one"],
+      "unevaluatedProperties": false,
+      "properties": {
+        "snapshot_kind": { "const": "contribution" },
+        "axis_one": { "$ref": "#/$defs/axisOne" },
+        "nine_slot": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Optional numeric layer for the unified Chapter Sixteen proportional LEQU scale, contribution side only: nine shared 5x impact bands, anchored at s=7 = 1 LEQU. Conduct character, Chapter Seventeen recency/currentness, and Chapter Twenty-One designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
+          "properties": {
+            "c_unit": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "description": "Legacy field name for the LEQU display scalar; default 1 LEQU. The same 5x thresholds apply to both axes."
+            },
+            "contribution_slot": {
+              "$ref": "#/$defs/nineSlotIndex",
+              "description": "Contribution impact slot under the shared Chapter Sixteen LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Seventeen recency/currentness."
+            }
+          }
+        }
+      }
     },
-    "evaluation_scope": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Boundaries under which inputs were evaluated (jurisdiction, system, record span)."
+    "violationSnapshot": {
+      "title": "Violation snapshot",
+      "description": "Violation Axis only. Issued only where a verified violation finding exists; with none, there is no violation snapshot.",
+      "allOf": [{ "$ref": "#/$defs/commonSnapshotFields" }],
+      "type": "object",
+      "required": ["snapshot_kind", "axis_two"],
+      "unevaluatedProperties": false,
+      "properties": {
+        "snapshot_kind": { "const": "violation" },
+        "axis_two": { "$ref": "#/$defs/axisTwoBody" },
+        "misconduct_designation": { "$ref": "#/$defs/designationBlock" },
+        "nine_slot": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Optional numeric layer for the unified Chapter Sixteen proportional LEQU scale, violation side only. Conduct character and Chapter Twenty-One designation do not change the slot. No netting is permitted.",
+          "properties": {
+            "violation_lequ_loss": {
+              "type": "number",
+              "minimum": 0,
+              "description": "Integrated verified constitutional loss in LEQU after proportional scaling; conduct character is not a multiplier."
+            },
+            "violation_slot": {
+              "$ref": "#/$defs/nineSlotIndex",
+              "description": "Violation impact slot assigned from violation_lequ_loss under the shared Chapter Fifteen bands."
+            }
+          }
+        }
+      }
     },
-    "assessed_at": {
-      "type": "string",
-      "format": "date-time",
-      "description": "RFC 3339 datetime when the snapshot was issued."
-    },
-    "assessor": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Party responsible for the classification (role, system component, or office code)."
-    },
-    "rationale_uri": {
-      "type": "string",
-      "format": "uri",
-      "description": "Optional pointer to auditable reasoning artifact."
-    },
-    "axis_one": {
+    "axisOne": {
       "type": "object",
       "additionalProperties": false,
       "required": ["primary_band"],
@@ -62,65 +131,47 @@
         }
       }
     },
-    "axis_two": {
-      "description": "Omit or null only when the record asserts no adverse Chapter Fifteen violation typing for the declared scope.",
-      "oneOf": [
-        {
-          "type": "null"
-        },
-        {
-          "type": "object",
-          "additionalProperties": false,
-          "required": ["severity", "legal_types"],
-          "properties": {
-            "severity": {
-              "$ref": "#/$defs/violationSeverity"
-            },
-            "legal_types": {
-              "type": "array",
-              "uniqueItems": true,
-              "items": {
-                "$ref": "#/$defs/legalConstitutionalType"
-              },
-              "description": "Subset of legal-constitutional types; empty array allowed only when legal typing is genuinely undetermined (rationale_uri should explain deferral)."
-            },
-            "descriptors": {
-              "type": "array",
-              "uniqueItems": true,
-              "items": {
-                "$ref": "#/$defs/axisTwoDescriptor"
-              },
-              "description": "Supplemental D3-* tags."
-            }
-          }
-        }
-      ]
-    },
-    "joint": {
+    "axisTwoBody": {
       "type": "object",
       "additionalProperties": false,
+      "required": ["severity", "legal_types"],
       "properties": {
-        "highest_severity": {
-          "$ref": "#/$defs/violationSeverity",
-          "description": "When axis_two is non-null, MUST equal axis_two.severity for a coherent snapshot."
+        "severity": {
+          "$ref": "#/$defs/violationSeverity"
+        },
+        "legal_types": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/legalConstitutionalType"
+          },
+          "description": "Subset of legal-constitutional types; empty array allowed only when legal typing is genuinely undetermined (rationale_uri should explain deferral)."
+        },
+        "descriptors": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/axisTwoDescriptor"
+          },
+          "description": "Supplemental D3-* tags."
         }
       }
     },
-    "chapter_twelve": {
+    "designationBlock": {
       "type": "object",
       "additionalProperties": false,
       "description": "Optional Chapter Twenty-One designation data. Chapter Sixteen supplies the fixed impact slot; Chapter Twenty-One may attach the corresponding anti-constitutional-misconduct designation without changing it.",
       "properties": {
         "slot": {
-          "$ref": "#/$defs/chapterTwelveSlot",
+          "$ref": "#/$defs/designationSlot",
           "description": "Existing Chapter Sixteen impact slot to which the Chapter Twenty-One designation attaches; Chapter Twenty-One does not assign this number."
         },
         "label": {
-          "$ref": "#/$defs/chapterTwelveLabel",
+          "$ref": "#/$defs/designationLabel",
           "description": "Canonical Chapter Twenty-One anti-constitutional-misconduct designation."
         },
         "tier": {
-          "$ref": "#/$defs/chapterTwelveTier",
+          "$ref": "#/$defs/designationTier",
           "description": "Legacy shorthand only: T1 maps to slot 7, T2 to slot 8, and T3 to slot 9."
         },
         "reference": {
@@ -130,67 +181,87 @@
         }
       }
     },
-    "nine_slot": {
+    "legacyCombinedAssessment": {
+      "title": "Legacy combined assessment (deprecated, read-only)",
+      "deprecated": true,
+      "description": "The pre-split single-object shape, kept only so existing records stay readable. Do not create new records in this shape: use a contribution snapshot and a violation snapshot. It carries no snapshot_kind. The joint block repeats axis_two.severity and adds nothing. The running totals c_star_cumulative and v_star_sum, and the alias highest_finding_slot, are retired: a reader must not compute, update, display, or use them, and they never derive, raise, or lower a slot.",
       "type": "object",
       "additionalProperties": false,
-      "description": "Optional numeric layer for the unified Chapter Sixteen proportional LEQU scale: nine shared 5x impact bands on each separate axis, anchored at s=7 = 1 LEQU. Conduct character, Chapter Seventeen recency/currentness, and Chapter Twenty-One designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
+      "required": [
+        "assessment_id",
+        "subject_ref",
+        "evaluation_scope",
+        "assessed_at",
+        "assessor",
+        "axis_one"
+      ],
       "properties": {
-        "c_unit": {
-          "type": "number",
-          "exclusiveMinimum": 0,
-          "description": "Legacy field name for the LEQU display scalar; default 1 LEQU. The same 5x thresholds apply to both axes."
+        "assessment_id": { "type": "string", "minLength": 1 },
+        "subject_ref": { "type": "string", "minLength": 1 },
+        "evaluation_scope": { "type": "string", "minLength": 1 },
+        "assessed_at": { "type": "string", "format": "date-time" },
+        "assessor": { "type": "string", "minLength": 1 },
+        "rationale_uri": { "type": "string", "format": "uri" },
+        "axis_one": { "$ref": "#/$defs/axisOne" },
+        "axis_two": {
+          "description": "Omit or null only when the record asserts no adverse Chapter Fifteen violation typing for the declared scope.",
+          "oneOf": [{ "type": "null" }, { "$ref": "#/$defs/axisTwoBody" }]
         },
-        "c_star_cumulative": {
-          "type": "number",
-          "minimum": 0,
-          "description": "Legacy interoperability field. Historical records may contain a recency-weighted contribution sum, but this value must not derive, raise, or lower a Chapter Sixteen Contribution Axis slot or LEQU measurement; Chapter Seventeen recency/currentness is for Question 3 gate/readiness decisions only."
-        },
-        "contribution_slot": {
-          "$ref": "#/$defs/nineSlotIndex",
-          "description": "Contribution impact slot under the shared Chapter Sixteen LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Seventeen recency/currentness or a legacy recency-weighted c_star_cumulative value."
-        },
-        "violation_lequ_loss": {
-          "type": "number",
-          "minimum": 0,
-          "description": "Integrated verified constitutional loss in LEQU after proportional scaling; conduct character is not a multiplier."
-        },
-        "violation_slot": {
-          "$ref": "#/$defs/nineSlotIndex",
-          "description": "Violation impact slot assigned from violation_lequ_loss under the shared Chapter Fifteen bands."
-        },
-        "highest_finding_slot": {
-          "$ref": "#/$defs/nineSlotIndex",
-          "description": "Deprecated alias for violation_slot retained for existing records."
-        },
-        "v_star_sum": {
-          "type": "number",
-          "minimum": 0,
-          "description": "Deprecated legacy analytics only; must not derive, raise, or lower a violation impact slot."
-        }
-      }
-    }
-  },
-  "allOf": [
-    {
-      "if": {
-        "properties": {
-          "axis_two": {
-            "type": "object"
+        "joint": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "highest_severity": {
+              "$ref": "#/$defs/violationSeverity",
+              "description": "When axis_two is non-null, MUST equal axis_two.severity for a coherent snapshot."
+            }
           }
         },
-        "required": ["axis_two"]
+        "chapter_twelve": {
+          "description": "Old name of misconduct_designation, kept only so existing records validate.",
+          "$ref": "#/$defs/designationBlock"
+        },
+        "nine_slot": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "c_unit": { "type": "number", "exclusiveMinimum": 0 },
+            "c_star_cumulative": {
+              "type": "number",
+              "minimum": 0,
+              "deprecated": true,
+              "description": "Retired. Historical records may contain a recency-weighted contribution sum. Read-only; must not derive, raise, or lower a Chapter Sixteen slot or LEQU measurement."
+            },
+            "contribution_slot": { "$ref": "#/$defs/nineSlotIndex" },
+            "violation_lequ_loss": { "type": "number", "minimum": 0 },
+            "violation_slot": { "$ref": "#/$defs/nineSlotIndex" },
+            "highest_finding_slot": {
+              "$ref": "#/$defs/nineSlotIndex",
+              "deprecated": true,
+              "description": "Retired alias for violation_slot. Read-only."
+            },
+            "v_star_sum": {
+              "type": "number",
+              "minimum": 0,
+              "deprecated": true,
+              "description": "Retired. Legacy analytics only; read-only; must not derive, raise, or lower a violation impact slot."
+            }
+          }
+        }
       },
-      "then": {
-        "required": ["joint"],
-        "properties": {
-          "joint": {
-            "required": ["highest_severity"]
+      "allOf": [
+        {
+          "if": {
+            "properties": { "axis_two": { "type": "object" } },
+            "required": ["axis_two"]
+          },
+          "then": {
+            "required": ["joint"],
+            "properties": { "joint": { "required": ["highest_severity"] } }
           }
         }
-      }
-    }
-  ],
-  "$defs": {
+      ]
+    },
     "axisOnePrimary": {
       "type": "string",
       "enum": ["C-BL", "C-PC", "C-SP", "C-CH"]
@@ -254,11 +325,11 @@
         "D3-ECOLOGICAL"
       ]
     },
-    "chapterTwelveTier": {
+    "designationTier": {
       "type": "string",
       "enum": ["T1", "T2", "T3", "none", "pending"]
     },
-    "chapterTwelveSlot": {
+    "designationSlot": {
       "oneOf": [
         {
           "type": "integer",
@@ -270,7 +341,7 @@
         }
       ]
     },
-    "chapterTwelveLabel": {
+    "designationLabel": {
       "type": "string",
       "enum": [
         "Severe anti-constitutional misconduct",

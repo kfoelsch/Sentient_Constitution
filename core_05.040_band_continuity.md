@@ -31,6 +31,70 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ### Continuity: Independent Terms
 
+<a id="adoption-charter"></a>
+
+#### Adoption Charter
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Downstream:
+  - [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) (20.000 §2.1) (*a gatekeeper check asks the record custodian; the Adoption Charter is where an adopter names that custodian and the office to ask*);
+  - [Chapter Fifteen §6](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6) (*record custody and opening authority*); and
+  - [Chapter Twenty-Six §11.2](core_26.000_amendment_ratification.md#112-adoption-document) (26.000 §11.2) (*the adoption document records the act of adoption and is a different document*).
+- Cluster component: none. This entry stands alone in the Continuity band.
+- Read with:
+  - [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record),
+  - [Adoption Transition](core_05.040_band_continuity.md#adoption-transition),
+  - [Record Custodian](core_05.035_band_accountability.md#record-custodian),
+  - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map),
+  - [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and
+  - [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational).
+- Distinguish: an Adoption Charter is not the document by which a body adopts this Constitution (the adoption document), not the running record of the Adoption Transition (the [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record)), and not a [System Charter](core_05.040_band_continuity.md#system-charter), [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or [Constitutional Charter](core_05.040_band_continuity.md#constitutional-charter).
+
+</details>
+
+<br>
+
+*In plain terms: an **Adoption Charter** is the published statement of how a settled adopter runs the parts other adopters need to deal with it: who decides its forum questions, who keeps its standing records and which office to ask, and how much trust it extends to each other adopter. It is not the act of adopting (that is the adoption document) and not the passage from legacy operation (that is the Adoption Transition Record). It begins when the Adoption Transition ends.*
+
+- **What it is**
+  - **In scope:** The published document of an adopter whose Adoption Transition has ended and whose final gate has been passed. It states:
+    - the forum authority assignment: which forum decides the adopter's questions about the trust it extends to other adopters, and the route by which technical advice on privacy and security reaches that forum;
+    - the adopter's [Record Custodian](core_05.035_band_accountability.md#record-custodian) for standing records and the office-level contact to which a gatekeeper check is sent;
+    - the level of trust the adopter extends to each other adopter for sharing across adopters, with the reasons and the technical advice each rests on, and the reasons for any departure from that advice;
+    - standards the adopter has agreed with other adopters; and
+    - a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to each [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) that applies to the adopter's systems and institutions.
+
+    An Adoption Charter is published as [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure). It names offices and roles, never a named sentient's address, phone number, or other contact details, which stay protected under [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational).
+  - **Out of scope:**
+    - the adoption document by which a body adopts this Constitution;
+    - the [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record), which governs the transition and is closed and archived when the Adoption Charter takes over;
+    - a [System Charter](core_05.040_band_continuity.md#system-charter), an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or a [Constitutional Charter](core_05.040_band_continuity.md#constitutional-charter); or
+    - any widening of what may be disclosed beyond the limits in [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects). The level of trust an adopter extends sets who may ask and what kind of answer is given. It never sets how much of a standing record is disclosed.
+  - **Depends on:** [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure).
+  - This entry gives the Chapter Five meaning only. A duty to publish an Adoption Charter, its minimum contents, and the levels of trust an adopter may extend must be stated in an operative chapter. This entry does not create one.
+<a id="adoption-charter-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. an Adoption Charter is published and findable as Public Oversight Baseline Disclosure once the adopter's final gate is passed, and names offices and roles only;
+    2. the forum authority assignment names a forum that is separate from the custodian seat for records that forum decides about, and names the route for technical advice;
+    3. a gatekeeper check sent to the named office reaches a working custodian and receives an answer, so that a [Record Custodian](core_05.035_band_accountability.md#record-custodian) named on paper is also reachable in practice;
+    4. each level of trust extended is published with its reasons and the technical advice it rests on, and any departure from that advice gives written reasons; and
+    5. the entries match the [Charter Role Maps](core_05.040_band_continuity.md#charter-role-map) that apply and confirm or replace the provisional entries the adopter carried in its Adoption Transition Record.
+<a id="adoption-charter-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - offering an Adoption Charter as proof of adoption, of certification, or that the Adoption Transition is complete; or
+    - publishing a named sentient's contact details in place of an office or role contact.
+  - **Secondary failure:** an Adoption Charter that is unpublished, unfindable, dead, or stale; a named custodian or contact that does not answer; entries that contradict a Charter Role Map; a level of trust extended without published reasons; or a departure from technical advice without written reasons.
+  - **Tertiary failure:** using the level of trust extended to refuse a lawful gatekeeper check, or to widen disclosure beyond [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects).
+
+---
+
 <a id="adoption-transition"></a>
 
 #### Adoption Transition
@@ -83,6 +147,70 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - treating an open attainment gap as a defense to violation of a restraint duty;
     - letting interim authority or a window run on, without reauthorization or re-baselining, until it becomes the baseline; or
     - calling a matter an Adoption Transition to postpone a duty that already binds.
+
+---
+
+<a id="adoption-transition-record"></a>
+
+#### Adoption Transition Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Article XXVIII](core_06.040_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*).
+- Cluster component: none. This entry stands alone in the Continuity band.
+- Downstream:
+  - [Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*);
+  - [**CS-6.350**](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-adoption-transition-constitution-and-migration-governance) (*Adoption Transition constitution and migration governance*); and
+  - [**CI-6.275**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*).
+- Read with:
+  - [Adoption Transition](core_05.040_band_continuity.md#adoption-transition),
+  - [Adoption Charter](core_05.040_band_continuity.md#adoption-charter),
+  - [Gate](core_05.050_band_oversight.md#gate),
+  - [Gate Criteria](core_05.050_band_oversight.md#gate-criteria), and
+  - [Go-Live](core_05.040_band_continuity.md#go-live).
+- Distinguish: the Adoption Transition Record is not the document by which a body adopts this Constitution (the adoption document) and not the [Adoption Charter](core_05.040_band_continuity.md#adoption-charter), which states the settled arrangements after the transition ends.
+
+</details>
+
+<br>
+
+*In plain terms: the **Adoption Transition Record** is the published, running record of an adopter's [Adoption Transition](core_05.040_band_continuity.md#adoption-transition): the phased plan, the gates passed and not passed, the Rights-Floor attainment ledger, who is accountable, the interim authority and its limits, and any off-ramp or re-baselining. It also carries, marked provisional, the lookup entries the Adoption Charter later settles. When the adopter reaches steady state the Adoption Charter takes over and the Adoption Transition Record is closed and archived with its history intact.*
+
+- **What it is**
+  - **In scope:** The published document in which an adopter keeps the record of its [Adoption Transition](core_05.040_band_continuity.md#adoption-transition) from the day its adopting document takes effect until its steady-state phase begins. It holds:
+    - the phased plan and its [gate criteria](core_05.050_band_oversight.md#gate-criteria), with each gate's result and the verified evidence it rested on;
+    - the Rights-Floor attainment ledger: each starting measure, open attainment gap, and dated path;
+    - the accountable Adoption Transition owners and review bodies;
+    - interim authority, its limits, and each reauthorization or re-baselining;
+    - failure off-ramps taken; and
+    - the provisional entries that the [Adoption Charter](core_05.040_band_continuity.md#adoption-charter) will settle, each marked provisional: the forum authority assignment, the standing-record custodian and gatekeeper-check contact, and the levels of trust extended.
+
+    At the final gate the provisional entries are confirmed or replaced in the Adoption Charter, and the Adoption Transition Record is closed and archived.
+  - **Out of scope:**
+    - the adoption document by which a body adopts this Constitution;
+    - the [Adoption Charter](core_05.040_band_continuity.md#adoption-charter), which begins when the transition ends;
+    - a [Go-Live](core_05.040_band_continuity.md#go-live) record for a new system or a material expansion; or
+    - a stewardship self-application declaration, which is not phase entry, gate evidence, or valid adoption.
+  - **Depends on:** [Adoption Transition](core_05.040_band_continuity.md#adoption-transition).
+  - The operative rules for the plan, gates, ledger, and interim authority are stated in [Article XXVIII](core_06.040_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) and its sub-articles; this entry gives the Chapter Five meaning only and creates no new duty.
+<a id="adoption-transition-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the Adoption Transition Record is published and kept current from the day the adopting document took effect, with each gate's result and evidence recorded;
+    2. the ledger shows each Rights-Floor starting measure, open attainment gap, and dated path, and interim authority shrinks over time on recorded reauthorizations;
+    3. provisional entries are marked provisional, and none is presented as settled; and
+    4. at the final gate the provisional entries were confirmed or replaced in the Adoption Charter, the Adoption Transition Record was closed and archived, and no period passed in which no published document told others how to reach the adopter's custodian.
+<a id="adoption-transition-record-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - presenting provisional entries as settled, or letting them run on after the final gate without a published Adoption Charter;
+    - using the Adoption Transition Record to postpone a duty that already binds, or to treat an open attainment gap as a defense to violation of a restraint duty; or
+    - closing the Adoption Transition Record without the hand-over, so that no published document names the custodian and contact.
+  - **Secondary failure:** an Adoption Transition Record that is out of date; a gate passed with no evidence recorded; a ledger entry with no starting measure or dated path; or provisional entries that outlast their stated period.
+  - **Tertiary failure:** archiving the Adoption Transition Record in a way that erases or hides the history of the transition.
 
 ---
 
@@ -4625,7 +4753,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Institution](core_05.040_band_continuity.md#institution),
   - [System Charter](core_05.040_band_continuity.md#system-charter), and
   - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter).
-- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](core_05.040_band_continuity.md#system-charter) or an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), which state the scope of a system or institution, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Six §11 Ratification and Adoption](core_26.000_amendment_ratification.md#11-ratification-and-adoption) (26.000 §11)).
+- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](core_05.040_band_continuity.md#system-charter) or an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), which state the scope of a system or institution, it is not an [Adoption Charter](core_05.040_band_continuity.md#adoption-charter), which states how a settled adopter's forum, custodian, and trust arrangements work, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Six §11 Ratification and Adoption](core_26.000_amendment_ratification.md#11-ratification-and-adoption) (26.000 §11)).
 
 </details>
 
@@ -4636,7 +4764,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **What it is**
   - **In scope:** The document by which a political community is founded, or its governing authority is authorized, adopted with recorded assent under the treaty, compact, or Constitutional Charter family of [Chapter Twenty-Four §2.1 Mechanism Families, Auditability, and Pluralism](core_24.000_governance.md#21-mechanism-families-auditability-and-pluralism). A treaty or compact that does the same work between member bodies is read the same way.
   - **Out of scope:**
-    - a [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter);
+    - a [System Charter](core_05.040_band_continuity.md#system-charter), an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or an [Adoption Charter](core_05.040_band_continuity.md#adoption-charter);
     - the document by which a body adopts this Constitution; or
     - silence, mere usage, or branding offered in place of recorded assent.
 <a id="constitutional-charter-a"></a>

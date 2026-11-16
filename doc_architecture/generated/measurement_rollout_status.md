@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-13T05:47:36+00:00
+Generated: 2026-11-16T13:29:46+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **304/304** terms pass tier audit.
+Approved progress: **309/309** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -45,7 +45,9 @@ Approved progress: **304/304** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
+| Adoption Charter | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Adoption Transition | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Adoption Transition Record | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Anti-Capture | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cause Finding | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -159,6 +161,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Info-Sphere | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Instantiation Consent | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Lifespan Equivalent Unit (LEQU) | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
+| Minority | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Movement and Relocation | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Natural Systems Standing | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Non-Imposition (Cooperative Interaction) | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
@@ -273,6 +276,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Foundational Constitutional Choice | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Fullest Protective Effect | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Game of Chance | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Gated Pathway | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Good Faith | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Governance | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Harm Minimization (Tradeoff Selection) | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
@@ -282,6 +286,7 @@ Approved progress: **304/304** terms pass tier audit.
 | Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Incentive Alignment, Proxy Integrity, and Contingent Settlement | approved | primary_secondary | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Independence | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Influence Pathway | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Initiating Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

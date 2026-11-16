@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_27.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **832** of **1335** headings carry a gloss (62%).
+Coverage: **836** of **1339** headings carry a gloss (62%).
 
 ## Contents
 
@@ -28,7 +28,7 @@ Coverage: **832** of **1335** headings carry a gloss (62%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (89/101 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (63/124 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (65/126 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (55/70 glossed)
@@ -46,7 +46,7 @@ Coverage: **832** of **1335** headings carry a gloss (62%).
 - [CHAPTER SEVENTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-seventeen-standing-integration--question-3-what-follows) — `core_17.000_standing_integration.md` (19/20 glossed)
 - [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (8/9 glossed)
 - [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (40/48 glossed)
-- [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (10/16 glossed)
+- [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (11/17 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (12/22 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
 - [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (8/29 glossed)
@@ -57,7 +57,7 @@ Coverage: **832** of **1335** headings carry a gloss (62%).
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_24.000_governance.md` (13/15 glossed)
 - [CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-five-non-regression-and-substantive-amendment-validity) — `core_25.000_non_regression.md` (5/6 glossed)
-- [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (19/20 glossed)
+- [CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-six-amendment-ratification-and-procedural-validity) — `core_26.000_amendment_ratification.md` (20/21 glossed)
 - [CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) — `core_27.000_expansion_supremacy.md` (13/14 glossed)
 - [CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE](#chapter-twenty-eight-incorporation-bridge) — `core_28.000_incorporation.md` (4/5 glossed)
 
@@ -1893,7 +1893,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 63/124 headings glossed
+Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 65/126 headings glossed
 
 #### Continuity: Independent Terms
 
@@ -1901,11 +1901,23 @@ Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuit
 
 [Source](../../core_05.040_band_continuity.md#continuity-independent-terms)
 
+##### Adoption Charter
+
+an **Adoption Charter** is the published statement of how a settled adopter runs the parts other adopters need to deal with it: who decides its forum questions, who keeps its standing records and which office to ask, and how much trust it extends to each other adopter. It is not the act of adopting (that is the adoption document) and not the passage from legacy operation (that is the Adoption Transition Record). It begins when the Adoption Transition ends.
+
+[Source](../../core_05.040_band_continuity.md#adoption-charter)
+
 ##### Adoption Transition
 
 the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.
 
 [Source](../../core_05.040_band_continuity.md#adoption-transition)
+
+##### Adoption Transition Record
+
+the **Adoption Transition Record** is the published, running record of an adopter's [Adoption Transition](../../core_05.040_band_continuity.md#adoption-transition): the phased plan, the gates passed and not passed, the Rights-Floor attainment ledger, who is accountable, the interim authority and its limits, and any off-ramp or re-baselining. It also carries, marked provisional, the lookup entries the Adoption Charter later settles. When the adopter reaches steady state the Adoption Charter takes over and the Adoption Transition Record is closed and archived with its history intact.
+
+[Source](../../core_05.040_band_continuity.md#adoption-transition-record)
 
 ##### Cause Finding
 
@@ -6009,7 +6021,7 @@ a hold is what a forum may do on specific verified facts while the full facts ar
 
 ## CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT
 
-Source file: [`core_20.000_final_effect_restoration_enforcement.md`](../../core_20.000_final_effect_restoration_enforcement.md) · 10/16 headings glossed
+Source file: [`core_20.000_final_effect_restoration_enforcement.md`](../../core_20.000_final_effect_restoration_enforcement.md) · 11/17 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6040,6 +6052,12 @@ no one should learn what a standing effect does to them from its consequences. T
 a verified violation at slot 5 or higher is published as a notice about the event, whoever the subject is, once review has ended and for as long as the violation record is active. Violations at slots 1 to 4 stay private. Contribution stays private unless the contributor chooses to publish it. The sentient harmed is not named unless that sentient chooses. Publishing a notice never licenses turning published notices into a score or screening product, and a notice carries no contact, location, or activity data about the subject.
 
 [Source](../../core_20.000_final_effect_restoration_enforcement.md#23-public-notice-of-violation-findings)
+
+##### 2.4 Gatekeeper Checks Across Adopters and Levels of Trust
+
+a gatekeeper at one adopter may send the same narrow question to another adopter's record custodian that it could send at home, and gets an answer as far as the answering adopter trusts the asker. The level of trust changes who may ask and what kind of answer is given. It never changes how much of a standing record is disclosed. Each adopter keeps its own standing records and its own keys, and the door stays open for adopters to merge later.
+
+[Source](../../core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust)
 
 #### 3. Restoration and Reassessment
 
@@ -7745,7 +7763,7 @@ Chapter Twenty-Five can demand extra review, preserve evidence, or pause things 
 
 ## CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 
-Source file: [`core_26.000_amendment_ratification.md`](../../core_26.000_amendment_ratification.md) · 19/20 headings glossed
+Source file: [`core_26.000_amendment_ratification.md`](../../core_26.000_amendment_ratification.md) · 20/21 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -7830,6 +7848,12 @@ keep a clear paper trail — who adopted, what scope, when it starts, who holds 
 new adopters can come aboard under published rules — but expanding the club cannot be a back door to dilute rights or challenge rights for those already **covered** without their genuine, procedurally valid consent.
 
 [Source](../../core_26.000_amendment_ratification.md#113-joining-by-additional-parties)
+
+##### 11.4 Adoption Transition Record and Adoption Charter
+
+the adoption document records that an adopter adopted. Two more published documents record how it goes: the Adoption Transition Record while the adopter moves out of legacy operation, and the Adoption Charter once it is settled. The Adoption Charter is where other adopters find the office to ask about standing records and learn how far this adopter trusts them.
+
+[Source](../../core_26.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)
 
 #### 12. Amendment Procedure Requirements
 
