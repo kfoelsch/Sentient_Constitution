@@ -256,6 +256,7 @@ Conduct-character facts are recorded as separately traceable descriptors. They m
 | --- | --- |
 | Diffusion (how responsibility is spread out: who played which causal role, held which authority or control, could foresee the harm, benefited, concealed it, or could have prevented it) | It is not part of **sentient scope**, and it does not permit blaming anyone for belonging to a group. |
 | Going along with a harm or failing to resist it | May support a finding of duty-based, aggravated, or collective-accountability character only when the link to that specific actor required by **Chapter Fifteen sections 5.1 and 5.3** is verified. |
+| A mistake made without knowledge, intent, recklessness, or negligence (an honest error) | Opens no actor-specific violation record. The harm is still recorded as an event and remedy is still owed. The root cause is analyzed under **Article XXIV** (*Root Cause Analysis and Adaptive Response*), and where the conditions an institution or system gave made the error likely, the violation record opens on that institution or system as structural enablement. See **Chapter Fifteen section 5.3** and [Chapter Nineteen §3.4.1 Negligence and Neglect](core_19.000_violation_consequences.md#341-negligence-and-neglect). |
 
 **Misaligned rewards:**
 

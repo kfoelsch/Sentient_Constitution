@@ -6520,6 +6520,7 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** technical telemetry or public facts that never enter personal, relational, experiential, likeness, metadata, or comparable informational domains in a way that impairs dignity, agency, safety, consent, or Rights-Floor access — including ordinary operational aggregates not traced to specific sentients, such as:
     - anonymous traffic totals; and
     - anonymous sales totals.
+  - **Not out of scope:** a fact tied to an identified sentient, such as an address, a phone number, or a purchase, stays in scope when it is publicly listed or came from a public record, a directory, or an earlier publication. Public availability does not take it out of the personal, relational, or metadata domains.
 <a id="privacy-informational-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*

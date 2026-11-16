@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_27.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **830** of **1333** headings carry a gloss (62%).
+Coverage: **832** of **1335** headings carry a gloss (62%).
 
 ## Contents
 
@@ -45,8 +45,8 @@ Coverage: **830** of **1333** headings carry a gloss (62%).
 - [CHAPTER SIXTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_16.000_standing_measurement.md` (10/37 glossed)
 - [CHAPTER SEVENTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-seventeen-standing-integration--question-3-what-follows) — `core_17.000_standing_integration.md` (19/20 glossed)
 - [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (8/9 glossed)
-- [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (39/47 glossed)
-- [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (9/15 glossed)
+- [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (40/48 glossed)
+- [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (10/16 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (12/22 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
 - [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (8/29 glossed)
@@ -5723,7 +5723,7 @@ every clearance result must be readable on its face: what was decided, against w
 
 ## CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS
 
-Source file: [`core_19.000_violation_consequences.md`](../../core_19.000_violation_consequences.md) · 39/47 headings glossed
+Source file: [`core_19.000_violation_consequences.md`](../../core_19.000_violation_consequences.md) · 40/48 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5907,7 +5907,7 @@ these are the extra rules for particular kinds of violation. They shape how a lo
 
 ###### 3.4.1 Negligence and Neglect
 
-negligence and neglect count as real duty failures when the harm is material.
+negligence and neglect count as real duty failures when the harm is material. A mistake made with reasonable care is an honest error and is not a violation by the sentient who made it. Where an institution's or system's conditions caused the failure, the failing is recorded against the institution or system.
 
 [Source](../../core_19.000_violation_consequences.md#341-negligence-and-neglect)
 
@@ -5995,6 +5995,12 @@ a sentient who abused someone in their care, was cruel to them, or left them in 
 
 [Source](../../core_19.000_violation_consequences.md#357-care-and-stewardship-lock)
 
+###### 3.5.8 Financial Authority Standing Lock
+
+a sentient who took, hid, or misused money that was not theirs, or lied to get it, loses the positions that put other sentients' or the public's money in their hands, until an independent reviewer finds it safe to give them back. The lock does not touch their own pay, their own accounts, or what they need to live. Being unable to pay back does not keep it in place, and paying back does not lift it by itself.
+
+[Source](../../core_19.000_violation_consequences.md#358-financial-authority-standing-lock)
+
 ##### 3.6 Interim Holds and Locks
 
 a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified violation finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
@@ -6003,7 +6009,7 @@ a hold is what a forum may do on specific verified facts while the full facts ar
 
 ## CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT
 
-Source file: [`core_20.000_final_effect_restoration_enforcement.md`](../../core_20.000_final_effect_restoration_enforcement.md) · 9/15 headings glossed
+Source file: [`core_20.000_final_effect_restoration_enforcement.md`](../../core_20.000_final_effect_restoration_enforcement.md) · 10/16 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6019,7 +6025,7 @@ when the earlier steps are done, the system must state — one gated pathway at 
 
 ##### 2.1 Anti-Aggregation of Gated-Pathway Effects
 
-this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one gated pathway at a time and shown only to whoever gates that gated pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.
+this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one gated pathway at a time and shown only to whoever gates that gated pathway. A gatekeeper, such as an institution hiring into a gated role, may ask whether an effect applies to that role and gets an answer about that role alone; it may not pass the answer on, and no one may make the subject show it. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.
 
 [Source](../../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects)
 
@@ -6028,6 +6034,12 @@ this chapter says what standing is not. This subsection stops anyone from buildi
 no one should learn what a standing effect does to them from its consequences. The integration record must tell the subject, in plain language, exactly which gated pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.
 
 [Source](../../core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden)
+
+##### 2.3 Public Notice of Violation Findings
+
+a verified violation at slot 5 or higher is published as a notice about the event, whoever the subject is, once review has ended and for as long as the violation record is active. Violations at slots 1 to 4 stay private. Contribution stays private unless the contributor chooses to publish it. The sentient harmed is not named unless that sentient chooses. Publishing a notice never licenses turning published notices into a score or screening product, and a notice carries no contact, location, or activity data about the subject.
+
+[Source](../../core_20.000_final_effect_restoration_enforcement.md#23-public-notice-of-violation-findings)
 
 #### 3. Restoration and Reassessment
 
