@@ -296,6 +296,7 @@ Adopters must maintain an identifiable adoption document. Examples include **joi
 - be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05.000_definitions_home.md](core_05.045_band_integrative.md#corpus)).
 - where [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the adoption document or in incorporated implementation it pins — not a core-chosen numeric target.
+- point to the adopter's published [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) and, once it is published, its [Adoption Charter](core_05.040_band_continuity.md#adoption-charter), so a reader can find them ([§11.4 Adoption Transition Record and Adoption Charter](#114-adoption-transition-record-and-adoption-charter)).
 
 #### 11.3 Joining by Additional Parties
 <details>
@@ -312,6 +313,29 @@ Adopters must maintain an identifiable adoption document. Examples include **joi
 *In plain terms: new adopters can come aboard under published rules — but expanding the club cannot be a back door to dilute rights or challenge rights for those already **covered** without their genuine, procedurally valid consent.*
 
 Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with **Article XII-B** (*Weighted Participation and Anti-Token Constraints*) where participation weight applies.
+
+#### 11.4 Adoption Transition Record and Adoption Charter
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§11.2](#112-adoption-document) adoption document.
+- Downstream: [Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) (the Adoption Transition Record's contents and the final gate); [Chapter Twenty §2.4 Gatekeeper Checks Across Adopters and Levels of Trust](core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust).
+- Read with: [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) and [Adoption Charter](core_05.040_band_continuity.md#adoption-charter).
+
+</details>
+
+<br>
+
+*In plain terms: the adoption document records that an adopter adopted. Two more published documents record how it goes: the Adoption Transition Record while the adopter moves out of legacy operation, and the Adoption Charter once it is settled. The Adoption Charter is where other adopters find the office to ask about standing records and learn how far this adopter trusts them.*
+
+Besides the adoption document, an adopter keeps and publishes two documents:
+
+- **Adoption Transition Record:** From the day the adopting document takes effect until the steady-state phase begins, the adopter keeps and publishes an [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) with the contents [Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) requires. It carries, marked provisional, the forum authority assignment, the record custodian and the office-level contact for gatekeeper checks, and the levels of trust the adopter extends. An adopter that extends any level of trust above the public level must have at least a provisional forum authority assignment.
+- **Adoption Charter:** When the adopter passes the final gate into the steady-state phase, it publishes an [Adoption Charter](core_05.040_band_continuity.md#adoption-charter) that confirms or replaces the provisional entries, and the Adoption Transition Record is closed and archived. The steady-state phase does not begin until the Adoption Charter is published.
+  - The Adoption Charter states the forum authority assignment; the record custodian for standing records and the office-level contact for gatekeeper checks; the level of trust extended to each other adopter, with its reasons, the technical advice it rests on, and any reasons for departing from that advice; standards agreed with other adopters; and a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to each [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) that applies to the adopter's systems and institutions.
+  - It is published as [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) and names offices and roles only. A named sentient's address, phone number, or other contact details are never published in it.
+- **Changes:** A change to either document takes effect as a new dated version, published, and the earlier versions stay available.
+- **What neither document is:** The Adoption Transition Record and the Adoption Charter are not the adoption document, are not evidence of certification, and do not by themselves show that an Adoption Transition is complete.
 
 ### 12. Amendment Procedure Requirements
 <details>

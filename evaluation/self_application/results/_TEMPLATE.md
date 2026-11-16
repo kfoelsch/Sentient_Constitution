@@ -8,7 +8,7 @@
 - **Prior announced-pack file (optional):** none / `evaluation/results/YYYY-MM-DD_<name>.md`
 - **Evaluator notes (optional, human):**
 
-**This file is not** Chapter Twenty-Six adoption, Chapter Twenty-Seven incorporation, a Chapter Twelve standing record, or Chapter Nine certification. It does not bind other parties.
+**This file is not** Chapter Twenty-Six adoption, Chapter Twenty-Seven incorporation, a Chapter Fifteen standing record, or Chapter Nine certification. It does not bind other parties.
 
 ---
 
@@ -281,7 +281,7 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 - **This is not:**
   - Chapter Twenty-Six adoption
   - Chapter Twenty-Seven incorporation
-  - a Chapter Twelve standing record
+  - a Chapter Fifteen standing record
   - Chapter Nine system alignment certification
   - authority over non-consenting parties
 - **Remaining gap:** an operator, organization, or other body that can bind systems under its authority still must record a Chapter Twenty-Six adoption document if those systems are to be under enforceable adoption. Informal “we kind of follow it” practice is not that adoption document.

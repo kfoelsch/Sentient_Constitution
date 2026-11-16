@@ -104,7 +104,7 @@ _CURE_FAMILY = re.compile(
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
 # Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
-# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, Charter Role Map, and Charter Pointer; the Chapter Sixteen
+# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, Adoption Charter, Charter Role Map, and Charter Pointer; the Chapter Sixteen
 # treaty, compact, or Constitutional Charter family; corporate charter; verb forms). A bare **Charter** is not allowed:
 # name which Charter is meant.
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
@@ -116,7 +116,7 @@ _ALLOWLIST_STRIP = [
     re.compile(r"supervise,\s+charter,\s+license,\s+or", re.IGNORECASE),
     re.compile(r"hold a charter over", re.IGNORECASE),
     re.compile(r"paper charters?", re.IGNORECASE),
-    re.compile(r"####\s+(?:System|Institutional|Constitutional) Charter\b"),
+    re.compile(r"####\s+(?:System|Institutional|Constitutional|Adoption) Charter\b"),
     re.compile(r"####\s+Charter Role Map\b"),
     re.compile(r"####\s+Charter Pointer\b"),
     re.compile(r"#charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
@@ -126,7 +126,7 @@ _ALLOWLIST_STRIP = [
     re.compile(r"ci-\d+(?:\.\d+)?-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     re.compile(r"#ci-\d+(?:\.\d+)?-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     # Defined terms (capitalized), last so multi-word compounds above can match first.
-    re.compile(r"\b(?:System|Institutional|Constitutional) Charters?\b"),
+    re.compile(r"\b(?:System|Institutional|Constitutional|Adoption) Charters?\b"),
     re.compile(r"\bCharter Role Maps?\b"),
     re.compile(r"\bCharter Pointers?\b"),
     re.compile(r"\bSystem and Institutional Charters?\b"),
@@ -2302,7 +2302,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "",
         "Rules:",
         "- **`forbidden-cloud`:** standalone **cloud** → use **info-sphere** (and related) terminology.",
-        "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** / **Charter** → name which one: **System Charter**, **Institutional Charter**, or **Constitutional Charter**; or use **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`; `treaty, compact, or Constitutional Charter`; `adoption, federation, or charter`; verb forms such as `supervise, charter, or …` / `hold a charter over`; the defined terms **System Charter**, **Institutional Charter**, **Constitutional Charter**, **Charter Role Map**; `#charter…` anchors.",
+        "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** / **Charter** → name which one: **System Charter**, **Institutional Charter**, or **Constitutional Charter**, or **Adoption Charter**; or use **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`; `treaty, compact, or Constitutional Charter`; `adoption, federation, or charter`; verb forms such as `supervise, charter, or …` / `hold a charter over`; the defined terms **System Charter**, **Institutional Charter**, **Constitutional Charter**, **Adoption Charter**, **Charter Role Map**; `#charter…` anchors.",
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
