@@ -109,7 +109,7 @@ These are choices of meaning, so none was applied.
 5. **"May publish pairs."** Reword so the pair may appear only in the record, a forum proceeding and the disclosure to the gatekeeper. This is a wording repair of an implementation file that conflicts with core, so it may fall under AUDIT-AUTOFIX-01, but it touches meaning, so it is left for you.
 6. **Schema.** Whether to split the assessment object into two linked snapshots, drop `joint`, retire `c_star_cumulative` and `v_star_sum`, and require a per-adopter pseudonymous `subject_ref`.
 7. **Detection.** Whether to add stress-pack scenarios for an aggregation attempt (a cross-pathway badge, a join on `subject_ref`, a compelled record), and whether the felt-burden measure needs someone outside the adopter to verify it.
-8. **Announcement.** Whether the Open questions block gains an entry for this issue. The entrenched-policy item got none, by decision.
+8. **Announcement. Decided and entered 2026-11-16 (572nd move, custodian: "implement your suggestions"):** the Open questions block gains an entry on cross-adopter records (records that follow no one, and records that must not be escaped). Original question: whether the Open questions block gains an entry for this issue. The entrenched-policy item got none, by decision.
 9. **Stale cites.** "Chapters Fifteen and Twelve" in ANNOUNCEMENT.md and Chapter Seventeen's reading note. Fix as a citation repair or leave.
 
 ## 8. Not done

@@ -136,7 +136,7 @@ Limit to keep in view: a lock attaches only to a verified violation finding. Ris
 
 ## 8. Proposed announcement wording
 
-Not inserted. For the custodian's review.
+**Entered 2026-11-16 (572nd move, custodian: "implement your suggestions") in a revised form,** not as the draft below: the draft said a possibly sentient system's memory and values "cannot be rewritten without its consent", which would have decided decision 2 (reversible change) in public. The announcement entry states the settled parts (a halt is always possible; the Article XX-B suspension clock; no deletion or quiet rewriting) and names reversible change as the unsettled part. Revisit it when decision 2 is made. The original draft follows, for the custodian's review.
 
 > Open question — pausing and correcting AI that may be sentient. Any harmful system can be halted and contained, and a claim that it is sentient does not keep it running. But once there is a credible sign that a system may be sentient, it cannot be deleted, and its memory and values cannot be rewritten without its consent. We treat a dangerous mind like a dangerous person: it can be held, on evidence and under review, and it cannot be erased or remade. That gives up tools that AI safety work relies on, and we expect it to be challenged.
 

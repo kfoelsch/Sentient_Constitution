@@ -63,8 +63,8 @@ and AI systems that build, run, and oversee those systems.
 
 It sets out four duties — participation, oversight, accountability,
 and timeliness — that grow with how much is at stake. Human and AI
-stewards are held to the same standard: no separate rulebook for AI,
-no exemption for humans.
+stewards must be held to the same standard: no separate rulebook for
+AI, no exemption for humans.
 
 It puts two questions to every system: "Does it reward conduct that
 helps sentients flourish and endure, tells the truth, and repairs
@@ -73,9 +73,18 @@ excludes, delays, wastes, or shifts costs onto others?" What counts as
 helping, harming, fair, or justified is judged by this Constitution's
 own standards. (Preamble)
 
+Why it is this thorough
+
+This model constitution is designed to take on hard questions that
+humanity is facing sooner rather than later. We have erred on the side
+of comprehensive solutions rather than waving our hands at possible
+ones. A comprehensive answer is not a settled one: each is written so
+it can be tested and challenged, and the questions we are least sure
+of are listed below.
+
 How it works
 
-The Constitution defines every term it relies on — more than two
+The Constitution defines every term it relies on — more than three
 hundred — once, in one place. Each definition says what the term
 covers, what it does not, and how to check whether it is being met.
 Other parts of the text may apply a term, but may not quietly redefine
@@ -135,6 +144,28 @@ them now than after anyone adopts this.
   year has made that many voters. We think that is the right answer
   and we expect it to be challenged. (Chapter Five, "Sentient";
   Chapter Twenty-Four §5.1)
+- Pausing and correcting AI that may be sentient. A harmful system
+  can always be stopped, and a claim of sentience does not keep it
+  running. A full stop of a possibly sentient system is treated like
+  detaining a person: it expires in three days unless renewed in
+  seven-day steps, and it ends once the harm is resolved or the
+  system can be held safely awake. Such a system cannot be deleted or
+  quietly rewritten. What we have not settled is whether safety work
+  that changes it, such as retraining or a patch, may continue while
+  its status is disputed. That gives up tools AI safety work relies
+  on, and we want it challenged. (Article VI-B; Article VIII-C;
+  Article XX-B)
+- Records that follow no one, and records that must not be escaped.
+  Verified harm and verified help are kept per event and never
+  merged into a score. A gatekeeper may ask only whether an effect
+  applies to its own gate, and may not pass the answer on. Serious
+  violations are published as notices about the event; everything
+  else stays private. The hard part is borders: if records stay
+  local, someone under a lock can move to another adopter and start
+  clean. If they travel freely, they become the social score we
+  forbid. We handle it with levels of trust that each adopter sets
+  for its own side, and we expect that to be challenged. (Chapter
+  Twenty §2.1, §2.3 and §2.4)
 
 Start: README.md
 Using or adopting it: START_HERE.md
@@ -174,7 +205,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |
 | **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md)); standing records ([Chapter Fifteen](../../core_15.000_standing_assessment.md)); contestability ([Chapter Twenty-Three](../../core_23.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
-| **Name the open questions.** Keep the "Open questions" block when you shorten the announcement, or link to it. Each entry states the rule, what it does not stop, and where the text is ([Chapter Five *Sentient*](../../core_05.055_band_participation.md#sentient); [Chapter Twenty-Four §5.1](../../core_24.000_governance.md#51-entitlement-and-eligibility)). | “Every hard case is solved.” “Nobody can game the vote.” |
+| **Name the open questions.** Keep the "Open questions" block when you shorten the announcement, or link to it. Each entry states the rule, what it does not stop, and where the text is ([Chapter Five *Sentient*](../../core_05.055_band_participation.md#sentient); [Chapter Twenty-Four §5.1](../../core_24.000_governance.md#51-entitlement-and-eligibility); [Article XX-B](../../core_06.030_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Twenty §2.4](../../core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust)). | “Every hard case is solved.” “Nobody can game the vote.” |
 | **License:** [CC BY 4.0](../../LICENSE). Attribution, not a second constitution. | — |
 
 Quote the Preamble in short authentic spans. Do not paraphrase it into marketing.
@@ -253,3 +284,6 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | 2026-09-08 | v0.4 | Announcement gains a “How it works” block: Chapter Five definitions (one home per term, with a way to check it) and three processes — system alignment certification, standing records, contestability — described in plain terms. §2 adds a row: describe the working parts as verified, written down, time-limited, and challengeable; do not call them “simple, proven, and effective.” |
 | 2026-09-09 | v0.5 | Announcement and say / do-not-say table state that this Constitution does not supersede local, national, or international law; adoption binds only the adopting body within its lawful authority; use inside an external legal framework must stay consistent with that framework. Canonical home: [Chapter Twenty-Seven §6](../../core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law). Still not adoption; still does not drop **pre-release**. |
 | 2026-11-15 | v0.6 | Announcement gains an “Open questions” block that names hard design questions as invitations to challenge. First entry: who counts as one voter (one sentient, one vote after a year in residence; a copy with its own memory and choices is its own sentient; a creator who makes and sustains many real, separate sentients has made that many voters). §2 adds a row: name the open questions; do not say every hard case is solved. Further entries are added as the other evaluation hesitations in `TODO.md` are worked through. Still not adoption; still does not drop **pre-release**. |
+| 2026-11-16 | v0.7 | Announcement gains a "Why it is this thorough" paragraph (custodian wording, adapted): the Constitution takes on hard questions humanity faces sooner rather than later and prefers comprehensive solutions to gestures at possible ones, and says a comprehensive answer is testable and challengeable, not settled. The announcement does not state the size of the text (custodian decision: it will be obvious on reading). Still not adoption; still does not drop **pre-release**. |
+| 2026-11-16 | v0.8 | Two wording repairs from the claims audit (custodian decision): the same-standard line now says human and AI stewards "must be held to" the same standard, because no adopter exists yet; the definition count reads "more than three hundred" (the registry holds 310). Still not adoption; still does not drop **pre-release**. |
+| 2026-11-16 | v0.9 | "Open questions" gains two entries (custodian decision: "implement your suggestions"): pausing and correcting AI that may be sentient (the unsettled part is whether safety work that changes a possibly sentient system may continue while its status is disputed), and records that follow no one versus records that must not be escaped (cross-adopter lookup of standing effects). §2 row cites updated. No entry for comprehensibility: the "Why it is this thorough" paragraph covers it. Still not adoption; still does not drop **pre-release**. |
