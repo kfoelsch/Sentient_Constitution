@@ -205,9 +205,10 @@ Checklist for a first adopter:
 
 - [ ] **Forum authority assignment, at least provisional:** name the Institutional Forum that decides questions about the trust you extend to other adopters, and the route by which technical advice on privacy and security reaches it. Without this, extend only the public level.
 - [ ] **Adoption Transition Record published** from the effective date, with the plan, gate results, attainment ledger, owners and interim authority, and the provisional entries marked provisional. Office-level contacts only, never a named sentient's contact details.
-- [ ] **Record custodian and gatekeeper-check contact** named (provisional until the Adoption Charter).
-- [ ] **Levels of trust extended** listed. Start at the public level for every other adopter; raise a level only by a published decision of your Institutional Forum, with the technical advice it rests on.
+- [ ] **Record custodian and gatekeeper-check contact** named (provisional until the Adoption Charter). The contact is a routing contact: it holds the record or says which custodian does, and answers inside the four-calendar-day check-answer window. Silence is never "no effect" and never counts against the subject.
+- [ ] **Levels of trust extended** listed. Start at the public level for every other adopter; raise a level only by a published decision of your Institutional Forum, with the technical advice it rests on. The decision is yours, and the other adopter cannot contest it. Say in the reasons if your forum also serves that adopter. An urgent lowering takes effect on notice; any other waits fourteen calendar days.
 - [ ] **Adoption Charter published** before the gate into the steady-state phase, confirming or replacing the provisional entries; then close and archive the Adoption Transition Record.
+- [ ] **Adoption Charter confirmed** at least every twelve months, with its custodian and contact, as a new dated version.
 - [ ] **Adoption document points** to the Adoption Transition Record and, once published, the Adoption Charter.
 
 ---

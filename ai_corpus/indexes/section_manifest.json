@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-16T14:16:09+00:00",
+  "generated_at": "2026-11-16T19:25:13+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 544,
@@ -1190,25 +1190,25 @@
       ]
     },
     "core_20.000_final_effect_restoration_enforcement.md": {
-      "total_lines": 384,
+      "total_lines": 387,
       "sections": [
-        {"header":"CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT","level":1,"line_start":1,"line_end":384,"anchor":null},
+        {"header":"CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT","level":1,"line_start":1,"line_end":387,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":25,"line_end":49,"anchor":null},
-        {"header":"2. Final Standing Effect","level":3,"line_start":50,"line_end":192,"anchor":null},
-        {"header":"2.1 Anti-Aggregation of Gated-Pathway Effects","level":4,"line_start":91,"line_end":121,"anchor":"#21-anti-aggregation-of-gated-pathway-effects"},
-        {"header":"2.2 Plain Statement of Effect and Burden","level":4,"line_start":122,"line_end":138,"anchor":"#22-plain-statement-of-effect-and-burden"},
-        {"header":"2.3 Public Notice of Violation Findings","level":4,"line_start":139,"line_end":167,"anchor":"#23-public-notice-of-violation-findings"},
-        {"header":"2.4 Gatekeeper Checks Across Adopters and Levels of Trust","level":4,"line_start":168,"line_end":192,"anchor":"#24-gatekeeper-checks-across-adopters-and-levels-of-trust"},
-        {"header":"3. Restoration and Reassessment","level":3,"line_start":193,"line_end":253,"anchor":"#3-restoration-and-reassessment"},
-        {"header":"3.1 Reassessment and Restoration Outcomes","level":4,"line_start":202,"line_end":220,"anchor":"#31-reassessment-and-restoration-outcomes"},
-        {"header":"3.2 Permanent Locks","level":4,"line_start":221,"line_end":238,"anchor":"#32-permanent-locks"},
-        {"header":"3.3 Rest State and Archival","level":4,"line_start":239,"line_end":253,"anchor":"#33-rest-state-and-archival"},
-        {"header":"4. Enforcement Realism and Remedy Systems","level":3,"line_start":254,"line_end":384,"anchor":"#4-enforcement-realism-and-remedy-systems"},
-        {"header":"4.1 Remediation Capacity and Funding","level":4,"line_start":281,"line_end":300,"anchor":"#41-remediation-capacity-and-funding"},
-        {"header":"4.2 Remedy-System Durability","level":4,"line_start":301,"line_end":359,"anchor":"#42-remedy-system-durability"},
-        {"header":"4.3 Cross-Jurisdiction Continuity","level":4,"line_start":360,"line_end":364,"anchor":"#43-cross-jurisdiction-continuity"},
-        {"header":"4.4 Anti-Evasion and Look-through Authority","level":4,"line_start":365,"line_end":369,"anchor":"#44-anti-evasion-and-look-through-authority"},
-        {"header":"4.5 Timely Implementation","level":4,"line_start":370,"line_end":384,"anchor":"#45-timely-implementation"}
+        {"header":"2. Final Standing Effect","level":3,"line_start":50,"line_end":195,"anchor":null},
+        {"header":"2.1 Anti-Aggregation of Gated-Pathway Effects","level":4,"line_start":91,"line_end":123,"anchor":"#21-anti-aggregation-of-gated-pathway-effects"},
+        {"header":"2.2 Plain Statement of Effect and Burden","level":4,"line_start":124,"line_end":140,"anchor":"#22-plain-statement-of-effect-and-burden"},
+        {"header":"2.3 Public Notice of Violation Findings","level":4,"line_start":141,"line_end":169,"anchor":"#23-public-notice-of-violation-findings"},
+        {"header":"2.4 Gatekeeper Checks Across Adopters and Levels of Trust","level":4,"line_start":170,"line_end":195,"anchor":"#24-gatekeeper-checks-across-adopters-and-levels-of-trust"},
+        {"header":"3. Restoration and Reassessment","level":3,"line_start":196,"line_end":256,"anchor":"#3-restoration-and-reassessment"},
+        {"header":"3.1 Reassessment and Restoration Outcomes","level":4,"line_start":205,"line_end":223,"anchor":"#31-reassessment-and-restoration-outcomes"},
+        {"header":"3.2 Permanent Locks","level":4,"line_start":224,"line_end":241,"anchor":"#32-permanent-locks"},
+        {"header":"3.3 Rest State and Archival","level":4,"line_start":242,"line_end":256,"anchor":"#33-rest-state-and-archival"},
+        {"header":"4. Enforcement Realism and Remedy Systems","level":3,"line_start":257,"line_end":387,"anchor":"#4-enforcement-realism-and-remedy-systems"},
+        {"header":"4.1 Remediation Capacity and Funding","level":4,"line_start":284,"line_end":303,"anchor":"#41-remediation-capacity-and-funding"},
+        {"header":"4.2 Remedy-System Durability","level":4,"line_start":304,"line_end":362,"anchor":"#42-remedy-system-durability"},
+        {"header":"4.3 Cross-Jurisdiction Continuity","level":4,"line_start":363,"line_end":367,"anchor":"#43-cross-jurisdiction-continuity"},
+        {"header":"4.4 Anti-Evasion and Look-through Authority","level":4,"line_start":368,"line_end":372,"anchor":"#44-anti-evasion-and-look-through-authority"},
+        {"header":"4.5 Timely Implementation","level":4,"line_start":373,"line_end":387,"anchor":"#45-timely-implementation"}
       ]
     },
     "core_21.000_misconduct_designation.md": {
@@ -1539,9 +1539,9 @@
       ]
     },
     "core_26.000_amendment_ratification.md": {
-      "total_lines": 462,
+      "total_lines": 464,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":1,"line_end":462,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":1,"line_end":464,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":34,"line_end":69,"anchor":null},
         {"header":"2. Heightened Review for Rights-Affecting Changes","level":3,"line_start":70,"line_end":85,"anchor":null},
         {"header":"3. Burden of Justification and Public Traceability","level":3,"line_start":86,"line_end":101,"anchor":null},
@@ -1552,16 +1552,16 @@
         {"header":"8. Review Triggers","level":3,"line_start":175,"line_end":195,"anchor":null},
         {"header":"9. Provisional Effect Rule","level":3,"line_start":196,"line_end":211,"anchor":null},
         {"header":"10. Invalid-Change Handling and Remediation Continuity","level":3,"line_start":212,"line_end":243,"anchor":null},
-        {"header":"11. Ratification and Adoption","level":3,"line_start":244,"line_end":339,"anchor":"#serious-misconduct-referral"},
+        {"header":"11. Ratification and Adoption","level":3,"line_start":244,"line_end":341,"anchor":"#serious-misconduct-referral"},
         {"header":"11.1 Deliberate Adoption","level":4,"line_start":259,"line_end":278,"anchor":null},
         {"header":"11.2 Adoption Document","level":4,"line_start":279,"line_end":300,"anchor":null},
         {"header":"11.3 Joining by Additional Parties","level":4,"line_start":301,"line_end":316,"anchor":null},
-        {"header":"11.4 Adoption Transition Record and Adoption Charter","level":4,"line_start":317,"line_end":339,"anchor":null},
-        {"header":"12. Amendment Procedure Requirements","level":3,"line_start":340,"line_end":427,"anchor":null},
-        {"header":"12.1 Notice and Contest","level":4,"line_start":355,"line_end":370,"anchor":null},
-        {"header":"12.2 Recorded Effectiveness","level":4,"line_start":371,"line_end":386,"anchor":null},
-        {"header":"12.3 Proposal, Hearing, and Comment Window","level":4,"line_start":387,"line_end":427,"anchor":null},
-        {"header":"13. Owner Non-Relocation","level":3,"line_start":428,"line_end":462,"anchor":"#13-owner-non-relocation"}
+        {"header":"11.4 Adoption Transition Record and Adoption Charter","level":4,"line_start":317,"line_end":341,"anchor":null},
+        {"header":"12. Amendment Procedure Requirements","level":3,"line_start":342,"line_end":429,"anchor":null},
+        {"header":"12.1 Notice and Contest","level":4,"line_start":357,"line_end":372,"anchor":null},
+        {"header":"12.2 Recorded Effectiveness","level":4,"line_start":373,"line_end":388,"anchor":null},
+        {"header":"12.3 Proposal, Hearing, and Comment Window","level":4,"line_start":389,"line_end":429,"anchor":null},
+        {"header":"13. Owner Non-Relocation","level":3,"line_start":430,"line_end":464,"anchor":"#13-owner-non-relocation"}
       ]
     },
     "core_27.000_expansion_supremacy.md": {
@@ -1651,14 +1651,14 @@
       ]
     },
     "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md": {
-      "total_lines": 383,
+      "total_lines": 391,
       "sections": [
-        {"header":"CJS-0.105: Registry and Reading Rules","level":1,"line_start":1,"line_end":383,"anchor":null},
+        {"header":"CJS-0.105: Registry and Reading Rules","level":1,"line_start":1,"line_end":391,"anchor":null},
         {"header":"CJS-0.105 §1: Cross-File Routing","level":2,"line_start":67,"line_end":167,"anchor":"#cross-file-routing"},
         {"header":"Maintainer-Only Detail: Authoritative Topic Router","level":3,"line_start":119,"line_end":167,"anchor":"#cjs-01-topic-router-stable-ids"},
         {"header":"CJS-0.105 §2: Joint Structure Registry","level":2,"line_start":168,"line_end":206,"anchor":null},
         {"header":"CJS-0.105 §3: Stable Identifiers, Edition Alignment, and Drafting Notes","level":2,"line_start":207,"line_end":262,"anchor":null},
-        {"header":"CJS-0.105 §4: Time-Window Names","level":2,"line_start":263,"line_end":383,"anchor":null}
+        {"header":"CJS-0.105 §4: Time-Window Names","level":2,"line_start":263,"line_end":391,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md": {

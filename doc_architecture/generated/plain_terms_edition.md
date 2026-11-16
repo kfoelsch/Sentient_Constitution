@@ -6055,7 +6055,7 @@ a verified violation at slot 5 or higher is published as a notice about the even
 
 ##### 2.4 Gatekeeper Checks Across Adopters and Levels of Trust
 
-a gatekeeper at one adopter may send the same narrow question to another adopter's record custodian that it could send at home, and gets an answer as far as the answering adopter trusts the asker. The level of trust changes who may ask and what kind of answer is given. It never changes how much of a standing record is disclosed. Each adopter keeps its own standing records and its own keys, and the door stays open for adopters to merge later.
+a gatekeeper at one adopter may send the same narrow question to another adopter's record custodian that it could send at home, and gets an answer as far as the answering adopter trusts the asker. The level of trust changes who may ask and what kind of answer is given. It never changes how much of a standing record is disclosed. Each adopter decides the level of trust it extends for itself, and the adopter on the other side cannot contest that decision. Each adopter keeps its own standing records and its own keys, and the door stays open for adopters to merge later.
 
 [Source](../../core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust)
 
