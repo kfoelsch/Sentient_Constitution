@@ -73,6 +73,18 @@
     {
       "name": "residence period",
       "owner": "Chapter Twenty-Four §5.1"
+    },
+    {
+      "name": "check-answer window",
+      "owner": "Chapter Twenty §2.1"
+    },
+    {
+      "name": "lowering notice period",
+      "owner": "Chapter Twenty §2.4"
+    },
+    {
+      "name": "Adoption Charter review interval",
+      "owner": "Chapter Twenty-Six §11.4"
     }
   ],
   "scaled_windows": [

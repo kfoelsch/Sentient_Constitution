@@ -82,7 +82,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     **Primary assessment:** Evaluate whether:
     1. an Adoption Charter is published and findable as Public Oversight Baseline Disclosure once the adopter's final gate is passed, and names offices and roles only;
     2. the forum authority assignment names a forum that is separate from the custodian seat for records that forum decides about, and names the route for technical advice;
-    3. a gatekeeper check sent to the named office reaches a working custodian and receives an answer, so that a [Record Custodian](core_05.035_band_accountability.md#record-custodian) named on paper is also reachable in practice;
+    3. a gatekeeper check sent to the named office reaches a working custodian and receives an answer inside the check-answer window of [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects), so that a [Record Custodian](core_05.035_band_accountability.md#record-custodian) named on paper is also reachable in practice;
     4. each level of trust extended is published with its reasons and the technical advice it rests on, and any departure from that advice gives written reasons; and
     5. the entries match the [Charter Role Maps](core_05.040_band_continuity.md#charter-role-map) that apply and confirm or replace the provisional entries the adopter carried in its Adoption Transition Record.
 <a id="adoption-charter-c"></a>
@@ -90,7 +90,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary failure:**
     - offering an Adoption Charter as proof of adoption, of certification, or that the Adoption Transition is complete; or
     - publishing a named sentient's contact details in place of an office or role contact.
-  - **Secondary failure:** an Adoption Charter that is unpublished, unfindable, dead, or stale; a named custodian or contact that does not answer; entries that contradict a Charter Role Map; a level of trust extended without published reasons; or a departure from technical advice without written reasons.
+  - **Secondary failure:** an Adoption Charter that is unpublished, unfindable, dead, or stale (not confirmed within the Adoption Charter review interval of [Chapter Twenty-Six §11.4 Adoption Transition Record and Adoption Charter](core_26.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)); a named custodian or contact that does not answer inside the check-answer window; entries that contradict a Charter Role Map; a level of trust extended without published reasons; or a departure from technical advice without written reasons.
   - **Tertiary failure:** using the level of trust extended to refuse a lawful gatekeeper check, or to widen disclosure beyond [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects).
 
 ---
