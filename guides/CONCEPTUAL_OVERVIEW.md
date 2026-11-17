@@ -1022,14 +1022,14 @@ These are the [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolu
 
 ```mermaid
 flowchart TB
-    A["Chapter Twenty-Four<br/><br/>Documented legitimacy mechanism"]
+    A["Chapter Twenty-Five<br/><br/>Documented legitimacy mechanism"]
     G["Authorized governing roles<br/><br/>Stated scope, limits and competent stewards"]
     P["Participation inside authorized systems<br/><br/>Voice and challenge paths for affected sentients"]
     R["Contestation, correction<br/><br/>and reauthorization where applicable"]
-    N["Chapter Twenty-Five<br/><br/>Non-regression"]
-    U["Chapter Twenty-Six<br/><br/>Amendment, ratification and adoption procedures"]
-    H["Chapter Twenty-Seven<br/><br/>Supremacy within scope and external-law relations"]
-    B["Chapter Twenty-Eight<br/><br/>Incorporation, edition and custody"]
+    N["Chapter Twenty-Six<br/><br/>Non-regression"]
+    U["Chapter Twenty-Seven<br/><br/>Amendment, ratification and adoption procedures"]
+    H["Chapter Twenty-Eight<br/><br/>Supremacy within scope and external-law relations"]
+    B["Chapter Twenty-Nine<br/><br/>Incorporation, edition and custody"]
     I["Adopted implementation obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
     G -->|must ensure| P
@@ -1053,16 +1053,16 @@ flowchart TB
 
 The upper loop concerns **governing authority and its continuing accountability**. The change-and-adoption path concerns **the Constitution and its incorporated implementation**. Both operate within the principles and Rights Floor shown in the first view. Participation within a system does not itself authorize that system's governing authority.
 
-There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Twenty-Four](../core_24.000_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00.000_preamble.md#33-governance-layers) explain the distinction.
+There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Twenty-Five](../core_25.000_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00.000_preamble.md#33-governance-layers) explain the distinction.
 
-Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twenty-One anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Twenty-Four §5.1](../core_24.000_governance.md#51-entitlement-and-eligibility), [Chapter Nineteen §§2.2 and Chapter Eighteen 2.4](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks), and [Chapter Twenty-One §5.2](../core_21.000_misconduct_designation.md#52-prevention--anti-constitutional-locks).
+Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twenty-One anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Twenty-Five §5.1](../core_25.000_governance.md#51-entitlement-and-eligibility), [Chapter Nineteen §§2.2 and Chapter Eighteen 2.4](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks), and [Chapter Twenty-One §5.2](../core_21.000_misconduct_designation.md#52-prevention--anti-constitutional-locks).
 
 The final chapters preserve the Constitution as it changes and is put into use:
 
-- [Chapter Twenty-Five](../core_25.000_non_regression.md) guards against substantive regression.
-- [Chapter Twenty-Six](../core_26.000_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
-- [Chapter Twenty-Seven](../core_27.000_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
-- [Chapter Twenty-Eight](../core_28.000_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
+- [Chapter Twenty-Six](../core_26.000_non_regression.md) guards against substantive regression.
+- [Chapter Twenty-Seven](../core_27.000_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
+- [Chapter Twenty-Eight](../core_28.000_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
+- [Chapter Twenty-Nine](../core_29.000_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
 
 Together, these provisions connect everyday governance to its authorization and keep changes to the rules visible and contestable. Valid adoption determines enforceability for an adopter; publication or reading alone does not.
 
@@ -1168,7 +1168,7 @@ The dotted arrows inside the box show a typical record lifecycle; the arrows to 
 - An office that operates a system does not verify records about that system; the same rule applies whether the steward is human or AI.
 - Downstream role catalogs may add permissions such as commanding containment, setting participation terms, releasing evidence, or directing action. Those are role assignments around the four core seats, not extra steps in this chart.
 
-See [Chapter Twenty-Four §6](../core_24.000_governance.md#6-authorized-roles-competency-development-and-contribution).
+See [Chapter Twenty-Five §6](../core_25.000_governance.md#6-authorized-roles-competency-development-and-contribution).
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1176,9 +1176,9 @@ See [Chapter Twenty-Four §6](../core_24.000_governance.md#6-authorized-roles-co
 
 ```mermaid
 flowchart TB
-    Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Twenty-Eight<br/>Binding constitutional source"]
-    Bridge["Chapter Twenty-Eight<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
-    Adopt["Valid adoption<br/><br/>Chapters Twenty-Six and Twenty-Eight"]
+    Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Twenty-Nine<br/>Binding constitutional source"]
+    Bridge["Chapter Twenty-Nine<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
+    Adopt["Valid adoption<br/><br/>Chapters Twenty-Seven and Twenty-Nine"]
     subgraph Comp["Adopted implementation corpus · implements, not narrows"]
         direction LR
         J["corpus_joint_structure<br/><br/>Cross-implementation links"]

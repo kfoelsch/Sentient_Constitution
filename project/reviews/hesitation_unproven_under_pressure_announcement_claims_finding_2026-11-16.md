@@ -10,7 +10,7 @@ This page is **process support**, not constitutional text. It cannot change or n
 
 ## 2. Sources read
 
-[ANNOUNCEMENT.md](../../implementation/adoption/ANNOUNCEMENT.md) in full; [VISION §2](../VISION.md#where-it-stands); the Preamble Two Fundamental Questions; Chapter One §17.1; Chapter Fifteen (record kinds, no-offset bridge); Chapter Twenty (final effect); Chapter Twenty-Three §6 (clocks); Chapter Twenty-Four §5.1 (voting); Chapter Eleven (expiry, recertification); `ai_corpus/indexes/definition_registry.json`; [evaluation/results/](../../evaluation/results/). Not done: the independent cold-reader step (plan step 4).
+[ANNOUNCEMENT.md](../../implementation/adoption/ANNOUNCEMENT.md) in full; [VISION §2](../VISION.md#where-it-stands); the Preamble Two Fundamental Questions; Chapter One §17.1; Chapter Fifteen (record kinds, no-offset bridge); Chapter Twenty (final effect); Chapter Twenty-Three §6 (clocks); Chapter Twenty-Five §5.1 (voting); Chapter Eleven (expiry, recertification); `ai_corpus/indexes/definition_registry.json`; [evaluation/results/](../../evaluation/results/). Not done: the independent cold-reader step (plan step 4).
 
 ## 3. Claim-by-claim result
 
@@ -26,8 +26,8 @@ This page is **process support**, not constitutional text. It cannot change or n
 | 8 | "Consequences follow from the record, not from reputation or a popularity score" | Designed | Chapter Twenty bars a merged score or reputation label; Chapter Eighteen bars reputation substitution | The adopter-reach limit applies: it binds only a body that adopts. |
 | 9 | Contestability: challenge, independent review, correction "within set time limits" | Designed, evidenced | Chapter Twenty-Three §6: tier outer bounds of 7, 14, 30, 60 and 90 days | None |
 | 10 | "The core text … is the binding source and the most complete part" | Evidenced | VISION §2 | The core is now 50 files and about 545,000 words (see §4 below) |
-| 11 | "What it is not" block: not law, not adoption, no supersession, binds no outsider | Evidenced | Chapters Twenty-Seven §6 and Twenty-Eight §4 | None |
-| 12 | Open questions: one entry, who counts as one voter (one year in residence, own memory and choices means own sentient, creator who sustains many has made that many voters) | Evidenced | Chapter Twenty-Four §5.1 residence period of one continuous year, with branch and merge dates; Chapter Five *Sentient* | None |
+| 11 | "What it is not" block: not law, not adoption, no supersession, binds no outsider | Evidenced | Chapters Twenty-Eight §6 and Twenty-Nine §4 | None |
+| 12 | Open questions: one entry, who counts as one voter (one year in residence, own memory and choices means own sentient, creator who sustains many has made that many voters) | Evidenced | Chapter Twenty-Five §5.1 residence period of one continuous year, with branch and merge dates; Chapter Five *Sentient* | None |
 | 13 | §2 row: "Describe the working parts … as verified, written down, time-limited, and challengeable" | Designed | Same as 6, 7 and 9 | Fine, because the same row says "No adopter has run them yet" |
 | 14 | §2 row: "AI handoff trials remain open" | Evidenced | [PRE_PUBLICATION_SPEC §6.5](../../implementation/PRE_PUBLICATION_SPEC.md) | None |
 

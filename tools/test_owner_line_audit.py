@@ -18,8 +18,8 @@ def core(body: str, *, widget_claim: str = "") -> str:
     return f"# CHAPTER\n\n<details>\n<summary>x</summary>\n\n{inner}\n</details>\n\n<br>\n\n{body}"
 
 
-def impl(body: str, *, headings: str = "## CS-24.305 §1 Purpose\n") -> str:
-    return f"# CS-24.305: Critical system stewardship\n\n{WIDGET}{body}\n\n{headings}"
+def impl(body: str, *, headings: str = "## CS-25.305 §1 Purpose\n") -> str:
+    return f"# CS-25.305: Critical system stewardship\n\n{WIDGET}{body}\n\n{headings}"
 
 
 class CoreTests(unittest.TestCase):
@@ -111,23 +111,23 @@ class ImplTests(unittest.TestCase):
         return ola.check_impl(rel, text)
 
     def test_standard_sentence_passes(self):
-        text = impl("This file is the systems implementation home for **CS-24.305** (*Critical system stewardship*).")
+        text = impl("This file is the systems implementation home for **CS-25.305** (*Critical system stewardship*).")
         findings, keys = self.check("corpus_systems/cs_04_x.md", text)
         self.assertEqual(findings, [])
-        self.assertEqual(keys, [("CS-24.305", None)])
+        self.assertEqual(keys, [("CS-25.305", None)])
 
     def test_missing_sentence_fails(self):
         findings, _ = self.check("corpus_systems/cs_04_x.md", impl("Some prose."))
         self.assertTrue(any("needs a visible" in f for f in findings))
 
     def test_sentence_only_in_widget_fails(self):
-        text = ("# CS-24.305: X\n\n<details>\n<summary>p</summary>\n\n"
-                "This file is the systems implementation home for **CS-24.305**.\n\n</details>\n\n## CS-24.305 §1 A\n")
+        text = ("# CS-25.305: X\n\n<details>\n<summary>p</summary>\n\n"
+                "This file is the systems implementation home for **CS-25.305**.\n\n</details>\n\n## CS-25.305 §1 A\n")
         findings, _ = self.check("corpus_systems/cs_04_x.md", text)
         self.assertTrue(any("needs a visible" in f for f in findings))
 
     def test_after_first_heading_fails(self):
-        text = "# CS-24.305: X\n\n## CS-24.305 §1 A\n\nThis file is the systems implementation home for **CS-24.305**.\n"
+        text = "# CS-25.305: X\n\n## CS-25.305 §1 A\n\nThis file is the systems implementation home for **CS-25.305**.\n"
         findings, _ = self.check("corpus_systems/cs_04_x.md", text)
         self.assertTrue(any("before the first '##'" in f for f in findings))
 
@@ -143,10 +143,10 @@ class ImplTests(unittest.TestCase):
         self.assertTrue(any("not a heading in this file" in f for f in findings))
 
     def test_ids_after_the_first_sentence_are_pointers_not_claims(self):
-        text = impl("This file is the systems implementation home for **CS-24.305** (*X*). The rest is in [f.md](f.md), **CS-6.335** (*Y*).")
+        text = impl("This file is the systems implementation home for **CS-25.305** (*X*). The rest is in [f.md](f.md), **CS-6.335** (*Y*).")
         findings, keys = self.check("corpus_systems/cs_04_x.md", text)
         self.assertEqual(findings, [])
-        self.assertEqual(keys, [("CS-24.305", None)])
+        self.assertEqual(keys, [("CS-25.305", None)])
 
     def test_part_letter_is_part_of_the_claim(self):
         text = ("# CS-6.305: X\n\n" + WIDGET +
@@ -168,9 +168,9 @@ class CorpusTests(unittest.TestCase):
         (root / "corpus_systems").mkdir()
         for n in ("a", "b"):
             (root / "corpus_systems" / f"cs_04_{n}.md").write_text(
-                impl("This file is the systems implementation home for **CS-24.305** (*X*)."), encoding="utf-8")
+                impl("This file is the systems implementation home for **CS-25.305** (*X*)."), encoding="utf-8")
         found = ola.audit(root)
-        self.assertTrue(any("CS-24.305 is claimed by 2 files" in f for f in found))
+        self.assertTrue(any("CS-25.305 is claimed by 2 files" in f for f in found))
 
     def test_copy_artifacts_are_ignored(self):
         root = Path(tempfile.mkdtemp())

@@ -173,7 +173,7 @@ This subsection sets out what is public, what stays private, and how a public no
 
 This subsection sets out how a gatekeeper check crosses from one adopter to another, who sets the level of trust between adopters, and what a level of trust can never do:
 
-- **Finding the custodian:** A gatekeeper at one adopter sends a gatekeeper check under [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects) to the record custodian of the adopter that holds the effect. It uses the office-level contact named in that adopter's [Adoption Charter](core_05.040_band_continuity.md#adoption-charter) or, until the Adoption Charter is published, in its [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) ([Chapter Twenty-Six §11.4 Adoption Transition Record and Adoption Charter](core_26.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)).
+- **Finding the custodian:** A gatekeeper at one adopter sends a gatekeeper check under [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects) to the record custodian of the adopter that holds the effect. It uses the office-level contact named in that adopter's [Adoption Charter](core_05.040_band_continuity.md#adoption-charter) or, until the Adoption Charter is published, in its [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) ([Chapter Twenty-Seven §11.4 Adoption Transition Record and Adoption Charter](core_27.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)).
 - **Levels of trust:** Each adopter decides the level of trust it extends to each other adopter. The default is the public level. The levels of trust are:
   - **Public level:** the adopter reads the other's public notices under [§2.3 Public Notice of Violation Findings](#23-public-notice-of-violation-findings) and nothing more. It sends and receives no gatekeeper checks.
   - **Notice level:** the public level, plus recognition of the other adopter's decision packages under [CS-6.320 §9 Cross-Jurisdiction Execution and Anti-Evasion Controls](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-9-cross-jurisdiction-execution-and-anti-evasion-controls), so that a lock or remedy can be recognized and acted on.
@@ -343,7 +343,7 @@ The following violate this rule where they foreseeably nullify challenge or reme
 - dependence on a single fragile office; or
 - chronic milestone failure.
 
-Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Twenty-Four §2.2 Eligibility, Contested Selection, and Democratic Minimums](core_24.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums).
+Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Twenty-Five §2.2 Eligibility, Contested Selection, and Democratic Minimums](core_25.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="42-remedy-parity-funding-minimum"></a>
 **Remedy-parity funding minimum.** For each system class an adopter administers:
@@ -351,7 +351,7 @@ Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum
 - **The minimum:** the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class.
 - **Public figures:** the ratio must be published with the [§2.4 Remedy Parity and Lock Preconditions](core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) tripwire figures.
 - **Departing from parity:** an adopter that departs from parity must:
-  - record the reasons under [Chapter Twenty-Four §4.1 Stewardship Direction](core_24.000_governance.md#41-stewardship-direction); and
+  - record the reasons under [Chapter Twenty-Five §4.1 Stewardship Direction](core_25.000_governance.md#41-stewardship-direction); and
   - show, on the integration record, that remedy commencement and restoration review are nonetheless meeting their tier windows.
 - **Parity and the tripwire stay separate:**
   - budget parity does not excuse a tripped [§2.4 Remedy Parity and Lock Preconditions](core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) tripwire; and

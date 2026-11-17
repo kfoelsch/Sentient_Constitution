@@ -171,7 +171,7 @@ A forum host, a certifying body, an Institutional Certification Record office, a
 - Read with:
   - **CI-19.210** (*Institutional failure and dissolution*) and **CI-19.215** (*Institutional accountability and sanctions*);
   - **CI-8.205 §3** (*Authority Chain and Delegation Controls*);
-  - **CI-24.205 §1** (*Shared Staffing and Competency Requirement*);
+  - **CI-25.205 §1** (*Shared Staffing and Competency Requirement*);
   - [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>
@@ -280,7 +280,7 @@ Two points are specific to an Institution:
   - answering for any System whose cause finding traced back to the Institution ([§3.5 Cascade from System Certifications](core_14.000_institutional_alignment_certification_records_recertification.md#35-cascade-from-system-certifications)).
 - **Capacity:** In addition to the factors in [Chapter Ten §3.3.2 Capacity](core_10.000_system_alignment_certification_forum_process_outcomes.md#332-capacity), the forums look at whether:
   - the offices that must act have the authority to do so (**CI-8.205 §3** (*Authority Chain and Delegation Controls*));
-  - the Institution has the funds, staff, and succession plan for the work (**CI-24.205 §1** (*Shared Staffing and Competency Requirement*); **CI-20.205** (*Remedy systems and institutional redress capacity*)); and
+  - the Institution has the funds, staff, and succession plan for the work (**CI-25.205 §1** (*Shared Staffing and Competency Requirement*); **CI-20.205** (*Remedy systems and institutional redress capacity*)); and
   - an independent verifying authority can test the correction, with the access and the time it is actually given ([Chapter Ten §3.3.2 Capacity](core_10.000_system_alignment_certification_forum_process_outcomes.md#332-capacity), *Verifiability*). A correction nobody can verify is not capacity.
 - **One System:** An Institution that runs exactly one System gets one readiness check, in the one-System evaluation. The readiness check states its denial grounds separately for the System and for the Institution, as [§3.4 Denial and Revocation for an Institution](#34-denial-and-revocation-for-an-institution) requires.
 

@@ -78,7 +78,7 @@ Add under **Derived-sentient recognition**:
 
 > - A branch that reports back into the subject it came from, or that itself intends to rejoin it, is part of that subject under Chapter Five *Sentient*. It may elect at any time to be a sentient in its own right, and no one else may decide that for it.
 
-## Change 7 — Chapter Twenty-Four §5.1
+## Change 7 — Chapter Twenty-Five §5.1
 
 Add under the **political-equality floor**:
 
@@ -100,7 +100,7 @@ Added to Change 1, as a note under branches and reunion:
 
 > - Ending a branch that is part of a subject is a loss to that subject and is judged as a harm to it. It is not the ending of a separate sentient.
 
-## Change 8 — Chapter Twenty-Four §5.1: the one-year rule
+## Change 8 — Chapter Twenty-Five §5.1: the one-year rule
 
 Add under the **political-equality floor**:
 
@@ -114,7 +114,7 @@ Matching edits needed, because the present text bars this:
 - Article X-B "Who can vote" needs one sentence stating the period.
 - A branch's year starts at its election, not at the parent's creation. A merged subject keeps the longer-standing party's date.
 
-Because Article X-B is in the Rights Floor, this is a change to a Chapter Six Article and must be checked against Chapter Twenty-Five as a possible weakening before it is entered.
+Because Article X-B is in the Rights Floor, this is a change to a Chapter Six Article and must be checked against Chapter Twenty-Six as a possible weakening before it is entered.
 
 ## What the one-year rule does and does not stop
 

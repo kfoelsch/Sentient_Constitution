@@ -69,7 +69,7 @@ The emergency rules now live in Chapter Twenty-Three §6.1, not in Article XX-B.
 - A full independent review must start inside the same window.
 - These numbers come from Chapter Twenty-Three §6 and Article XXVI-C. Other timing tables can't slow them down.
 
-**Emergencies don't become the new normal.** Making an emergency measure permanent needs a Chapter One justification (necessity and proportionality), documented independent reauthorization, and, if it would change the constitution itself, the Chapter Twenty-Eight process.
+**Emergencies don't become the new normal.** Making an emergency measure permanent needs a Chapter One justification (necessity and proportionality), documented independent reauthorization, and, if it would change the constitution itself, the Chapter Twenty-Nine process.
 
 ## Where the detail lives
 - **How locks are built and attached** (what path is blocked, what risk it reduces, how it's reviewed and lifted): Chapter Nineteen §2, Lock design and enforcement.

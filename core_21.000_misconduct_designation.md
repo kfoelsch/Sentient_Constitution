@@ -6,12 +6,12 @@
 >
 > - **Constitutional owner (joint with Chapter Twenty-Two):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Chapter Twenty-One owns the ACMD decision model; Chapter Twenty-Two routes named patterns into that model without adding criteria.
 > - **Measurement boundary:** Chapter Sixteen alone assigns the numeric impact slot under its unified proportional LEQU scale. This chapter does **not** replace or alter that measurement.
-> - **Anti-relocation rule:** Chapter Twenty-One does not restate Chapter Twenty-Two pattern catalogs, Chapter Seventeen standing locks, or Chapters Twenty-Five through Twenty-Seven change-path validity rules.
+> - **Anti-relocation rule:** Chapter Twenty-One does not restate Chapter Twenty-Two pattern catalogs, Chapter Seventeen standing locks, or Chapters Twenty-Six through Twenty-Eight change-path validity rules.
 >
-> Anti-constitutional misconduct (ACM) at **slot 7, 8, or 9** is **tetrad capture** at scale — read with the [Continuity aim](core_00.000_preamble.md#continuity) under [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Six Part D](core_06.030_rights_part_d.md).
+> Anti-constitutional misconduct (ACM) at **slot 7, 8, or 9** is **tetrad capture** at scale — read with the [Continuity aim](core_00.000_preamble.md#continuity) under [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Twenty-Six through Twenty-Eight](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Six Part D](core_06.030_rights_part_d.md).
 >
 > **Upstream:** Chapter Sixteen standing measurement; Chapter Seventeen designation pointer.
-> **Downstream:** [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (*pattern applications*); Chapter Seventeen Trust Lock and standing-effect integration after final ACMD; Chapter Twenty-Three forum routing; Chapter Twenty-Four governance legitimacy consequences.
+> **Downstream:** [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (*pattern applications*); Chapter Seventeen Trust Lock and standing-effect integration after final ACMD; Chapter Twenty-Three forum routing; Chapter Twenty-Five governance legitimacy consequences.
 
 </details>
 
@@ -29,8 +29,8 @@
 > - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 > - **Chapter Twenty-Three:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
 > - **Chapter Six:** supplies the Rights Floor, **Article XX-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XX-A** (*Justice Objective and Scope*) review and publication safeguards; **section 5.1** here specializes Chapter Eighteen remedy and correction for verified anti-constitutional misconduct, **section 2.2** specializes prevention locks (including imprisonment where required), and **section 2.3** specializes voluntary public accountability expression.
-> - **Chapter Twenty-Four:** supplies governance legitimacy consequences tied to a final Chapter Twenty-One designation.
-> - **Chapters Twenty-Five through Twenty-Seven:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Twenty-One designation.
+> - **Chapter Twenty-Five:** supplies governance legitimacy consequences tied to a final Chapter Twenty-One designation.
+> - **Chapters Twenty-Six through Twenty-Eight:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Twenty-One designation.
 >
 > **Reading order**
 >
@@ -58,16 +58,16 @@
 - Upstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified standing records*).
 - Upstream: [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) (*Question 2; standing measurement and the Violation Axis slot*).
 - Upstream pointer: [Chapter Seventeen §3](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
-- This file: purpose and role; final ACMD for Violation Axis slot 7–9; ACMD criteria; due-process safeguards; Chapters Twenty-Five through Twenty-Seven boundary. Named-pattern routing continues in [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (22.000).
-- Downstream: [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*forum routing and certification*); [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) (*governance legitimacy consequences*).
-- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
+- This file: purpose and role; final ACMD for Violation Axis slot 7–9; ACMD criteria; due-process safeguards; Chapters Twenty-Six through Twenty-Eight boundary. Named-pattern routing continues in [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (22.000).
+- Downstream: [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*forum routing and certification*); [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) (*governance legitimacy consequences*).
+- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Twenty-Six through Twenty-Eight](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Worked examples (they add no rule): [CJS-15.105 Application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes): [CJS-15.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-15.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-10-question-3-routing-patterns).
 
 </details>
 
 <br>
 
-Chapter Twenty-One is the constitutional owner of **final anti-constitutional-misconduct designation (ACMD) for Violation Axis slot 7, 8, and 9 findings, ACMD criteria, due-process safeguards, and the Chapters Twenty-Five through Twenty-Seven ACMD boundary**.
+Chapter Twenty-One is the constitutional owner of **final anti-constitutional-misconduct designation (ACMD) for Violation Axis slot 7, 8, and 9 findings, ACMD criteria, due-process safeguards, and the Chapters Twenty-Six through Twenty-Eight ACMD boundary**.
 
 <a id="1-purpose-role-and-scope"></a>
 
@@ -85,7 +85,7 @@ Chapter Twenty-One is the constitutional owner of **final anti-constitutional-mi
   - [§4](#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [§5](#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Twenty-Two §2](core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
+- Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Twenty-Six through Twenty-Eight](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**.
 
 </details>
@@ -112,7 +112,7 @@ A final ACMD can be issued only if the **section 3** criteria are met on a verif
 **Role:** Where this chapter sits:
 
 - After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the Trust Lock and the final standing effect.
-- After a final ACMD, [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) attaches governance legitimacy consequences.
+- After a final ACMD, [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) attaches governance legitimacy consequences.
 - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case, with Integrity as the default lead where a final ACMD is the primary stake, and certifies the forum.
 - The remedy and prevention rules here are read with the Rights Floor and Justice articles in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
@@ -138,7 +138,7 @@ This chapter does not:
 
 - create a separate impact scale or replace Chapter Seventeen standing integration;
 - hold up ordinary Chapter Seventeen consequences. Remedy, correction, and locks continue while ACMD is under review, and the review does not reopen Chapter Sixteen measurement (**section 3**); or
-- decide whether a constitutional change, or the process that made it, is valid. [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) decide that and do not issue an ACMD; change-path conduct reaches this chapter only through the criteria (**section 2**).
+- decide whether a constitutional change, or the process that made it, is valid. [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) decide that and do not issue an ACMD; change-path conduct reaches this chapter only through the criteria (**section 2**).
 
 ### 2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 <details>
@@ -155,8 +155,8 @@ This chapter does not:
   - [§5.2](#52-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*);
   - [§5.3](#53-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
 - Pattern applications: [§2](core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*named patterns route into the same anti-constitutional-misconduct designation criteria*).
-- Change-path boundary: [§2.3](#23-chapters-twenty-five-through-twenty-seven-boundary) (*Chapters Twenty-Five through Twenty-Seven boundary*).
-- Read with: [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
+- Change-path boundary: [§2.3](#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*).
+- Read with: [Chapters Twenty-Six through Twenty-Eight](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to safeguards and gravity.
 
 </details>
@@ -181,16 +181,16 @@ This chapter does not re-measure how serious the violation is. Chapter Sixteen a
 
 Only **this chapter** may issue a final **anti-constitutional misconduct** designation for a slot 7–9 finding.
 
-- The underlying conduct may arise during **constitutional change** under **Chapters Twenty-Five through Twenty-Seven**, including **regressive deception** covered by criteria **1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
+- The underlying conduct may arise during **constitutional change** under **Chapters Twenty-Six through Twenty-Eight**, including **regressive deception** covered by criteria **1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
 - It may also arise through **criteria 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) in **section 3**, or through other conduct that materially harms constitutional **validity**, **operation**, or **Rights-Floor** governance.
 - No adopting document, process note, or subsidiary body may issue the final ACMD instead of **this chapter**.
 
-#### 2.3 Chapters Twenty-Five through Twenty-Seven Boundary
+#### 2.3 Chapters Twenty-Six through Twenty-Eight Boundary
 
-This chapter and Chapters Twenty-Five through Twenty-Seven divide the work as follows:
+This chapter and Chapters Twenty-Six through Twenty-Eight divide the work as follows:
 
-- **Chapter Twenty-Five** decides whether a constitutional change itself can stand under the substantive non-regression and anti-evasion floor.
-- **Chapter Twenty-Six** decides whether the change process, records, review triggers, and any provisional effect are valid.
+- **Chapter Twenty-Six** decides whether a constitutional change itself can stand under the substantive non-regression and anti-evasion floor.
+- **Chapter Twenty-Seven** decides whether the change process, records, review triggers, and any provisional effect are valid.
 - Those chapters do **not** issue the final ACMD.
   - Chapter Sixteen supplies the impact slot.
   - ACMD remains **in this chapter**.
@@ -240,7 +240,7 @@ Make a final ACMD in this order:
   - [§6.1](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction);
   - [§6.2](core_22.000_misconduct_pattern_applications.md#62-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
   - [§7](core_22.000_misconduct_pattern_applications.md#7-obstruction-of-accountability-criteria-interaction).
-- Read with: [Chapters Two through Four](core_02.000_definition_structure.md) for record, custody, and verification expectations tied to **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*); [§2.3](#23-chapters-twenty-five-through-twenty-seven-boundary) (*Chapters Twenty-Five through Twenty-Seven boundary*).
+- Read with: [Chapters Two through Four](core_02.000_definition_structure.md) for record, custody, and verification expectations tied to **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*); [§2.3](#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*).
 
 </details>
 
@@ -338,7 +338,7 @@ Dissent, advocacy for amendment or replacement of authority by lawful means, pea
   - [§5.2](#52-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*), and
   - [§5.3](#53-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
 - Downstream forums: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) [§2](core_23.000_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Twenty-One designation is the primary stake. [Chapter Twenty-Three §5](core_23.000_forum.md#5-escalation-and-questions-for-ruling) (23.000 §5) covers forum certification and independent review for final ACMD.
-- Read with: [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) — its unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§2.3](#23-chapters-twenty-five-through-twenty-seven-boundary) (*Chapters Twenty-Five through Twenty-Seven boundary*).
+- Read with: [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) — its unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§2.3](#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*).
 
 </details>
 
@@ -524,7 +524,7 @@ The remedy disposition must meet these rules:
 The correction disposition must meet these rules:
 
 - **Cause identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the unified incident possible or kept it going, read with **Article XXIV** (*Root Cause Analysis and Adaptive Response*).
-- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why. Whether a constitutional change itself stands is decided under [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity), not here.
+- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why. Whether a constitutional change itself stands is decided under [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity), not here.
 - **Who carries it and when:** The disposition must name who carries each correction. It must also set commencement deadlines, completion milestones, and who supervises follow-through under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Completion:** Correction is complete only when the standing record shows it eliminates or resolves the cause. Completion opens a reassessment gated pathway where lawful, and non-completion keeps the violation finding live for standing purposes, as **Article XX-B** (*Restriction Floors*) states.
 - **Non-substitution, correction side:** Imprisonment, standing locks, role exclusion, or publication does not by itself count as correction. It counts only when the standing record shows it addresses the cause or stops continuation.

@@ -130,15 +130,15 @@ CH14_PARTS: tuple[str, ...] = (
 
 CH15_PARTS: tuple[str, ...] = ("core_23.000_forum.md",)
 
-CH16_PARTS: tuple[str, ...] = ("core_24.000_governance.md",)
+CH16_PARTS: tuple[str, ...] = ("core_25.000_governance.md",)
 
-CH17_PARTS: tuple[str, ...] = ("core_25.000_non_regression.md",)
+CH17_PARTS: tuple[str, ...] = ("core_26.000_non_regression.md",)
 
-CH18_PARTS: tuple[str, ...] = ("core_27.000_expansion_supremacy.md",)
+CH18_PARTS: tuple[str, ...] = ("core_28.000_expansion_supremacy.md",)
 
-CH19_PARTS: tuple[str, ...] = ("core_26.000_amendment_ratification.md",)
+CH19_PARTS: tuple[str, ...] = ("core_27.000_amendment_ratification.md",)
 
-CH20_PARTS: tuple[str, ...] = ("core_28.000_incorporation.md",)
+CH20_PARTS: tuple[str, ...] = ("core_29.000_incorporation.md",)
 
 SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(21))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(

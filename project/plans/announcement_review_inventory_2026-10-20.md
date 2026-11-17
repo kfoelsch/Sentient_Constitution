@@ -146,7 +146,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_institutions/ci_00.205_registry_and_reading_rules.md](../../corpus_institutions/ci_00.205_registry_and_reading_rules.md) | Pending |
 | [corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md](../../corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md) | Pending |
 | [corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) | Pending |
-| [corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md](../../corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md) | Pending |
+| [corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md](../../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md) | Pending |
 | [corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) | Pending |
 | [corpus_institutions/ci_20.205_procedure_integrity_contestability_secondary_review.md](../../corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md) | Pending |
 | [corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) | Pending |
@@ -178,7 +178,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 |---|---|
 | [corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md) | Pending |
 | [corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md](../../corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md) | Pending |
-| [corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md](../../corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md) | Full pass B04 recorded; D04 open |
+| [corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md](../../corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md) | Full pass B04 recorded; D04 open |
 | [corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md) | Pending |
 | [corpus_joint_structure/cjs_05.125_accountability_operations.md](../../corpus_joint_structure/cjs_05.125_accountability_operations.md) | Pending |
 | [corpus_joint_structure/cjs_05.130_continuity_operations.md](../../corpus_joint_structure/cjs_05.130_continuity_operations.md) | Pending |
@@ -186,7 +186,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_joint_structure/cjs_05.110_oversight_operations.md](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) | Pending |
 | [corpus_joint_structure/cjs_05.120_participation_operations.md](../../corpus_joint_structure/cjs_05.120_participation_operations.md) | Pending |
 | [corpus_joint_structure/cjs_05.115_audit_process.md](../../corpus_joint_structure/cjs_05.115_audit_process.md) | Pending |
-| [corpus_joint_structure/cjs_18.105_drafting_contracts.md](../../corpus_joint_structure/cjs_28.105_drafting_contracts.md) | Pending |
+| [corpus_joint_structure/cjs_18.105_drafting_contracts.md](../../corpus_joint_structure/cjs_29.105_drafting_contracts.md) | Pending |
 | [corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md) | Pending |
 | [corpus_joint_structure/cjs_08.105_support_hosting_classification.md](../../corpus_joint_structure/cjs_08.105_support_hosting_classification.md) | Full pass B04 recorded; no remaining finding in that pass; reopen on source change |
 | [corpus_joint_structure/cjs_reader_guide.md](../../corpus_joint_structure/cjs_reader_guide.md) | Pending |
@@ -201,7 +201,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_systems/cs_06.310_data_classifications.md](../../corpus_systems/cs_06.310_data_classifications.md) | Pending |
 | [corpus_systems/cs_09.305_system_classification_machinery.md](../../corpus_systems/cs_09.305_system_classification_machinery.md) | Pending |
 | [corpus_systems/cs_09.310_system_impact_classifications.md](../../corpus_systems/cs_09.310_system_impact_classifications.md) | Pending |
-| [corpus_systems/cs_14.305_critical_system_stewardship.md](../../corpus_systems/cs_24.305_critical_system_stewardship.md) | Pending |
+| [corpus_systems/cs_14.305_critical_system_stewardship.md](../../corpus_systems/cs_25.305_critical_system_stewardship.md) | Pending |
 | [corpus_systems/cs_06.345_design_testing_verification_deployment.md](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) | Pending |
 | [corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md](../../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md) | Pending |
 | [corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md](../../corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md) | Pending |

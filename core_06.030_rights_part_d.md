@@ -141,7 +141,7 @@ This Article states **constitutional floors** for standing and participation sta
 - **Continuity:** standing discipline stays revisable across time. [Standing locks](core_05.035_band_accountability.md#standing-lock) and other standing restrictions:
   - remain proportionate;
   - remain restorable where corrected; and
-  - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty-One** **anti-constitutional misconduct** classification and [**Chapter Twenty-Four §5.1**](core_24.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
+  - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty-One** **anti-constitutional misconduct** classification and [**Chapter Twenty-Five §5.1**](core_25.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
@@ -280,7 +280,7 @@ This Article sets out the contestability and proportionality limits on standing 
   - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (15.000 §3) (*contribution standing records*); [Chapter Eighteen §2.2](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (18.000 §2.2) (*competency bars and clearances*); [Chapter Twenty-Four §5.1](core_24.000_governance.md#51-entitlement-and-eligibility) (24.000 §5.1) (*governance-voting eligibility*).
+- Downstream: [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (15.000 §3) (*contribution standing records*); [Chapter Eighteen §2.2](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (18.000 §2.2) (*competency bars and clearances*); [Chapter Twenty-Five §5.1](core_25.000_governance.md#51-entitlement-and-eligibility) (25.000 §5.1) (*governance-voting eligibility*).
 - Read with: [Chapter Fifteen §3.4](core_15.000_standing_assessment.md#34-linked-standing-records-and-no-offset-bridge) (15.000 §3.4) (*linked standing records and no-offset bridge*); [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 
 </details>
@@ -310,7 +310,7 @@ This Article sets out the contestability and proportionality limits on standing 
 This Article sets out how contribution, competency bars, and gated-pathway eligibility work:
 
 - **Gated-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** gated pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
-  - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-Four §5.1](core_24.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
+  - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-Five §5.1](core_25.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
   - Eligibility criteria must remain subject to **Chapters Fifteen and Sixteen** (*Standing Records and Standing Measurement*), remain subject to continuous audit, and remain revisable when current evidence changes.
 - **Contribution standing records:** Verified help enters **contribution standing records** under [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (*Question 1 — What Happened?*) and is classified as positive-only [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) on the Contribution Axis.
   - Contribution may support competency clearance and trust-sensitive role eligibility.
@@ -379,7 +379,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7) and [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Special Locks*); [Chapter Twenty-Four §5.1](core_24.000_governance.md#51-entitlement-and-eligibility) (24.000 §5.1) (*Entitlement and Eligibility*).
+- Downstream: [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Special Locks*); [Chapter Twenty-Five §5.1](core_25.000_governance.md#51-entitlement-and-eligibility) (25.000 §5.1) (*Entitlement and Eligibility*).
 - Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article X-B** (*Governance Participation and Voting Entitlement*); **Chapter Twenty-One** (*Anti-Constitutional Misconduct*).
 
 </details>
@@ -415,7 +415,7 @@ This Article sets out the limits on voting locks and special locks:
   - broad-misconduct categories swept into disqualification scope;
   - lock patterns that track **Protected Characteristics** or their material proxies.
 
-  **The one exception:** a final [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Twenty-Four §5.1**](core_24.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*).
+  **The one exception:** a final [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Twenty-Five §5.1**](core_25.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*).
 - **Special locks:** These locks are stated in [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (*Special Locks*):
   - **Forum-service standing lock:** A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates this lock. Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
   - **Stakeholder-Participation Standing Lock:** Verified corruption, capture, false-stake abuse, coercion, or comparable material abuse of a stakeholder-participation pathway creates this lock. It limits stake-weighted vote and binding stakeholder choice in the affected domain; it does not by itself strip **governance-voting**, foundational constitutional choice, or stakeholder status. Ordinary apology, prior contribution, stake size, or operator indispensability cannot lift that lock by itself.
@@ -659,7 +659,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
 *Article neighbors:*
 
 - **Movement and refuge floor:** **Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement. Where one action implicates both Articles, both apply without either narrowing the other.
-- **Implementation layer:** Interoperability, portability, and exit procedure are left to adopted implementation text under **Chapter Twenty-Eight**.
+- **Implementation layer:** Interoperability, portability, and exit procedure are left to adopted implementation text under **Chapter Twenty-Nine**.
 
 
 #### Article XXI-A: Portability Rights
@@ -814,7 +814,7 @@ This Article sets out the open-formats floor for systems:
 
   Convenience, operator cost savings, or incumbency do not by themselves justify a closed format. A closed format whose primary effect is to foreclose exit or switching contravenes **Article XXI-C** (*Anti-Lock-In Rule*).
 - **Adoption Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
-  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Twenty-Eight** incorporation.
+  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Twenty-Nine** incorporation.
   - A system may receive an extension in extenuating circumstances only through documented, reviewable, time-bound justification under applicable burden-of-justification requirements.
   - The exit duty is not subject to the Adoption Transition.
 - **Scope and limits:**
@@ -881,7 +881,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 - **Systems-exit floor:** **Article XXI** (*Interoperability, Portability, and Exit Integrity*).
 - **Rights detail:** **Article XXII-A** (*Movement and Relocation*), **Article XXII-B** (*Refuge from Non-Compliance*), **Article XXII-C** (*Non-Statelessness*), and **Article XXII-D** (*Limitation, Custody, and Emergency Discipline*).
-- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under **Chapter Twenty-Eight**.
+- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under **Chapter Twenty-Nine**.
 
 
 
@@ -961,7 +961,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
     - must not narrow the protected grounds above where origin-regime practice is materially non-compliant;
     - must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
     - must not extinguish **Movement and Relocation** under **Article XXII-A** (*Movement and Relocation*) where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
-  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Twenty-Eight**.
+  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Twenty-Nine**.
 
 #### Article XXII-C: Non-Statelessness
 
@@ -1008,7 +1008,7 @@ This Article sets out the non-statelessness floor:
   - a preferred citizenship or a choice among regimes;
   - full political franchise beyond baseline Rights-Floor recognition;
   - hosting at volume by a particular adopter, or absorption of instrumentally coerced mass outflows, where origin-primary or shared / federation backup recognition remains real. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness in that case.
-- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Twenty-Eight**.
+- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Twenty-Nine**.
 
 #### Article XXII-D: Limitation, Custody, and Emergency Discipline
 
@@ -1414,7 +1414,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - **General anti-capture floor:** [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) — the independence and anti-capture safeguards for all governance bodies; **Articles XXV-C** and **XXIV-D** apply them at their strictest to **Constitutional Forums**.
 - **Challenge and justice:** **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XX** (*Justice After Verified Violation*)](#article-xx-justice-after-verified-violation) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
 - **Non-entrenchment:** [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.040_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) — periodic revalidation under **Article XXV-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
-- **Institutional routing:** [CI-24.205](corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
+- **Institutional routing:** [CI-25.205](corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-25205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXV-A: Bounded Interpretive Mandate and Public Reasons
 
 <details>
@@ -1444,7 +1444,7 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
   - Rights-Floor compatibility;
-  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Five §3** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Six §12.3** (*Proposal, Hearing, and Comment Window*);
+  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Six §3** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Seven §12.3** (*Proposal, Hearing, and Comment Window*);
   - conflict resolution under **Chapters One through Fifteen**, including Foundational Rights in **Chapter Six**.
 - **Limits:** Constitutional Forums and their panels must not:
   - assume open-ended policy control;
@@ -1531,7 +1531,7 @@ This Article sets out the independence and external-review floors for Constituti
   - capture indicators;
   - decision quality;
   - Rights-Floor integrity.
-- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-24.205**](corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md#ci-24205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-25.205**](corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-25205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 #### Article XXV-D: Removal for Cause and Non-Entrenchment
 <details>

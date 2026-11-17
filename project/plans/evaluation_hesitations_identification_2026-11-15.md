@@ -20,7 +20,7 @@ This page is **process support**, not constitutional text. It cannot change or n
 |---|---|
 | **Instances and the foundational vote** | Search the whole corpus for how a "sentient" is individuated. Scenarios: one model with 10,000 instances at ratification; a fork the day before a vote; a merge after. |
 | **Derived sentients and correction of AI systems** | Trace Articles VI-B, VII-B, VIII-C, XVII, and XX-B, plus the emergency rules in Chapter Twenty-Three §6.1. Scenarios: a misaligned derived system before adjudication; a system that falsely claims sentience. |
-| **Contested policy entrenched as Rights Floor** | Inventory every number and specific policy choice in Chapter Six. Run one mock amendment (the 30-year creative term to 20) through Chapters Twenty-Five and Twenty-Six and record who decides whether it is a weakening. |
+| **Contested policy entrenched as Rights Floor** | Inventory every number and specific policy choice in Chapter Six. Run one mock amendment (the 30-year creative term to 20) through Chapters Twenty-Six and Twenty-Seven and record who decides whether it is a weakening. |
 | **Standing records as measurement infrastructure** | List the steps an adopter would take to build a social score: aggregate, rank, share across adopters, condition services. Find the rule that blocks each step, then check the implementation files for leaks. |
 | **Scale against comprehensibility** | Give three cold readers the 15-minute path and five questions. Separately, compute the smallest set of sections needed to resolve the existing vignettes. |
 | **Unproven under pressure** | Audit the announcement copy line by line and mark each claim as evidenced, designed, or aspirational. |

@@ -48,11 +48,11 @@
     },
     {
       "name": "host replacement window",
-      "owner": "CI-24.205 §7"
+      "owner": "CI-25.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XII-E and CI-24.205 §2"
+      "owner": "Article XII-E and CI-25.205 §2"
     },
     {
       "name": "half-life",
@@ -72,7 +72,7 @@
     },
     {
       "name": "residence period",
-      "owner": "Chapter Twenty-Four §5.1"
+      "owner": "Chapter Twenty-Five §5.1"
     },
     {
       "name": "check-answer window",
@@ -84,7 +84,7 @@
     },
     {
       "name": "Adoption Charter review interval",
-      "owner": "Chapter Twenty-Six §11.4"
+      "owner": "Chapter Twenty-Seven §11.4"
     }
   ],
   "scaled_windows": [

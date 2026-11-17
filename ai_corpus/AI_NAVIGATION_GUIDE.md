@@ -19,7 +19,7 @@ Use `python3 tools/corpus_lookup.py`. Do not open `id_resolver.json` for meaning
    - Do not treat card prose as a duty
 
 2. **ID, topic, or term** → `python3 tools/corpus_lookup.py resolve QUERY`
-   - `CF-23.440`, `CJS-5.125 §13`, `CS-24.305`, `CI-23.210`, `Def.P1`
+   - `CF-23.440`, `CJS-5.125 §13`, `CS-25.305`, `CI-23.210`, `Def.P1`
    - CJS-0.105 §1 topic rows (`CJS-R09` and the topic string) via `topic-route`
    - Chapter Five terms (file + line range; hydrate the source block)
    - Current heading anchors only — `validity --file FILE --anchor '#fragment'`

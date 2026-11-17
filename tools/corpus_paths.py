@@ -48,16 +48,17 @@ CORE_FILES = (
     "core_21.000_misconduct_designation.md",
     "core_22.000_misconduct_pattern_applications.md",
     "core_23.000_forum.md",
+    "core_24.000_enforcement.md",
     "core_06.000_rights_part_a.md",
     "core_06.010_rights_part_b.md",
     "core_06.020_rights_part_c.md",
     "core_06.030_rights_part_d.md",
     "core_06.040_rights_part_e.md",
-    "core_24.000_governance.md",
-    "core_25.000_non_regression.md",
-    "core_26.000_amendment_ratification.md",
-    "core_27.000_expansion_supremacy.md",
-    "core_28.000_incorporation.md",
+    "core_25.000_governance.md",
+    "core_26.000_non_regression.md",
+    "core_27.000_amendment_ratification.md",
+    "core_28.000_expansion_supremacy.md",
+    "core_29.000_incorporation.md",
 )
 
 ADOPTED_IMPLEMENTATION_WRAPPERS = (

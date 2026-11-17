@@ -1,11 +1,11 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-16T19:25:13+00:00",
+  "generated_at": "2026-11-16T23:08:12+00:00",
   "files": {
     "core_00.000_preamble.md": {
-      "total_lines": 544,
+      "total_lines": 549,
       "sections": [
-        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":544,"anchor":"#chapter-00-preamble--foundational-requirements"},
+        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":549,"anchor":"#chapter-00-preamble--foundational-requirements"},
         {"header":"What Systems Reward","level":3,"line_start":30,"line_end":67,"anchor":"#what-systems-reward"},
         {"header":"1. The Model","level":3,"line_start":68,"line_end":113,"anchor":"#two-fundamental-questions"},
         {"header":"2. Measurements Overview","level":3,"line_start":114,"line_end":141,"anchor":"#2-measurements-overview"},
@@ -19,9 +19,9 @@
         {"header":"6. Key Practical Process Pipelines","level":3,"line_start":324,"line_end":423,"anchor":"#6-key-practical-process-pipelines"},
         {"header":"6.1 Process Map","level":4,"line_start":345,"line_end":405,"anchor":null},
         {"header":"6.2 How the Full Chain Fits Together","level":4,"line_start":406,"line_end":423,"anchor":"#62-how-the-full-chain-fits-together"},
-        {"header":"7. Process Ownership and Outputs","level":3,"line_start":424,"line_end":491,"anchor":"#7-process-ownership-and-outputs"},
-        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":492,"line_end":524,"anchor":"#8-governance-change-and-incorporation"},
-        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":525,"line_end":544,"anchor":null}
+        {"header":"7. Process Ownership and Outputs","level":3,"line_start":424,"line_end":496,"anchor":"#7-process-ownership-and-outputs"},
+        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":497,"line_end":529,"anchor":"#8-governance-change-and-incorporation"},
+        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":530,"line_end":549,"anchor":null}
       ]
     },
     "core_01.000_values_principles.md": {
@@ -1219,7 +1219,7 @@
         {"header":"2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame","level":3,"line_start":143,"line_end":216,"anchor":null},
         {"header":"2.1 What This Chapter Does Not Re-Measure","level":4,"line_start":168,"line_end":179,"anchor":null},
         {"header":"2.2 Exclusive Authority to Issue a Final ACMD","level":4,"line_start":180,"line_end":187,"anchor":null},
-        {"header":"2.3 Chapters Twenty-Five through Twenty-Seven Boundary","level":4,"line_start":188,"line_end":197,"anchor":null},
+        {"header":"2.3 Chapters Twenty-Six through Twenty-Eight Boundary","level":4,"line_start":188,"line_end":197,"anchor":null},
         {"header":"2.4 Decision Sequence","level":4,"line_start":198,"line_end":216,"anchor":null},
         {"header":"3. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale","level":3,"line_start":217,"line_end":316,"anchor":null},
         {"header":"3.1 Unified Incident","level":4,"line_start":251,"line_end":265,"anchor":null},
@@ -1325,6 +1325,13 @@
         {"header":"6. Timely Resolution, Materiality Tiers, and Anti-Delay Discipline","level":3,"line_start":997,"line_end":1182,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
         {"header":"6.1 Emergency Measures and Continuation Burden","level":4,"line_start":1140,"line_end":1182,"anchor":"#61-emergency-measures-and-continuation-burden"},
         {"header":"7. Forum Support Before, during, and After Review — Oversight Architecture","level":3,"line_start":1183,"line_end":1235,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
+      ]
+    },
+    "core_24.000_enforcement.md": {
+      "total_lines": 65,
+      "sections": [
+        {"header":"CHAPTER TWENTY-FOUR: ENFORCEMENT","level":1,"line_start":1,"line_end":65,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":35,"line_end":65,"anchor":null}
       ]
     },
     "core_06.000_rights_part_a.md": {
@@ -1507,10 +1514,10 @@
         {"header":"Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":533,"line_end":594,"anchor":"#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
       ]
     },
-    "core_24.000_governance.md": {
+    "core_25.000_governance.md": {
       "total_lines": 565,
       "sections": [
-        {"header":"CHAPTER TWENTY-FOUR: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":565,"anchor":null},
+        {"header":"CHAPTER TWENTY-FIVE: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":565,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":25,"line_end":54,"anchor":null},
         {"header":"2. Authorization and Legitimacy of Governing Authority","level":3,"line_start":55,"line_end":248,"anchor":null},
         {"header":"2.1 Mechanism Families, Auditability, and Pluralism","level":4,"line_start":83,"line_end":152,"anchor":null},
@@ -1527,10 +1534,10 @@
         {"header":"6. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":519,"line_end":565,"anchor":null}
       ]
     },
-    "core_25.000_non_regression.md": {
+    "core_26.000_non_regression.md": {
       "total_lines": 233,
       "sections": [
-        {"header":"CHAPTER TWENTY-FIVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":233,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":233,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":45,"line_end":72,"anchor":null},
         {"header":"2. Non-Regression Floor","level":3,"line_start":73,"line_end":116,"anchor":null},
         {"header":"3. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":117,"line_end":154,"anchor":"#3-substantive-test-1--substantive-non-regression-validity"},
@@ -1538,10 +1545,10 @@
         {"header":"5. Layer Scope","level":3,"line_start":182,"line_end":233,"anchor":"#5-layer-scope"}
       ]
     },
-    "core_26.000_amendment_ratification.md": {
+    "core_27.000_amendment_ratification.md": {
       "total_lines": 464,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":1,"line_end":464,"anchor":null},
+        {"header":"CHAPTER TWENTY-SEVEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":1,"line_end":464,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":34,"line_end":69,"anchor":null},
         {"header":"2. Heightened Review for Rights-Affecting Changes","level":3,"line_start":70,"line_end":85,"anchor":null},
         {"header":"3. Burden of Justification and Public Traceability","level":3,"line_start":86,"line_end":101,"anchor":null},
@@ -1564,10 +1571,10 @@
         {"header":"13. Owner Non-Relocation","level":3,"line_start":430,"line_end":464,"anchor":"#13-owner-non-relocation"}
       ]
     },
-    "core_27.000_expansion_supremacy.md": {
+    "core_28.000_expansion_supremacy.md": {
       "total_lines": 308,
       "sections": [
-        {"header":"CHAPTER TWENTY-SEVEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":1,"line_end":308,"anchor":null},
+        {"header":"CHAPTER TWENTY-EIGHT: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":1,"line_end":308,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":47,"line_end":78,"anchor":null},
         {"header":"2. Additive Expansion Permitted","level":3,"line_start":79,"line_end":94,"anchor":null},
         {"header":"3. Continuity of Supremacy and Challenge Rights during Amendment","level":3,"line_start":95,"line_end":110,"anchor":null},
@@ -1583,10 +1590,10 @@
         {"header":"6.2 Alignment When Used within External Legal Frameworks","level":4,"line_start":281,"line_end":308,"anchor":null}
       ]
     },
-    "core_28.000_incorporation.md": {
+    "core_29.000_incorporation.md": {
       "total_lines": 228,
       "sections": [
-        {"header":"CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":228,"anchor":null},
+        {"header":"CHAPTER TWENTY-NINE: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":228,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":57,"line_end":106,"anchor":null},
         {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":107,"line_end":154,"anchor":null},
         {"header":"3. Safeguards","level":3,"line_start":155,"line_end":191,"anchor":null},
@@ -1817,25 +1824,25 @@
         {"header":"CJS-15.105 §11 Cross-Vignette Discipline","level":2,"line_start":597,"line_end":619,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_28.105_drafting_contracts.md": {
+    "corpus_joint_structure/cjs_29.105_drafting_contracts.md": {
       "total_lines": 131,
       "sections": [
-        {"header":"CJS-28.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":131,"anchor":null},
-        {"header":"CJS-28.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":35,"line_end":54,"anchor":null},
-        {"header":"CJS-28.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":55,"line_end":131,"anchor":null},
-        {"header":"CJS-28.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":95,"line_end":131,"anchor":null}
+        {"header":"CJS-29.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":131,"anchor":null},
+        {"header":"CJS-29.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":35,"line_end":54,"anchor":null},
+        {"header":"CJS-29.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":55,"line_end":131,"anchor":null},
+        {"header":"CJS-29.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":95,"line_end":131,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_28.110_specific_joint_interlocks.md": {
+    "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md": {
       "total_lines": 287,
       "sections": [
-        {"header":"CJS-28.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":287,"anchor":null},
-        {"header":"CJS-28.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":89,"line_end":157,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
-        {"header":"CJS-28.110 §1.1 Composition Minimum","level":3,"line_start":115,"line_end":143,"anchor":null},
-        {"header":"CJS-28.110 §1.2 Attachment Publication","level":3,"line_start":144,"line_end":157,"anchor":null},
-        {"header":"CJS-28.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":158,"line_end":200,"anchor":null},
-        {"header":"CJS-28.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":201,"line_end":239,"anchor":null},
-        {"header":"CJS-28.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":240,"line_end":287,"anchor":null}
+        {"header":"CJS-29.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":287,"anchor":null},
+        {"header":"CJS-29.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":89,"line_end":157,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
+        {"header":"CJS-29.110 §1.1 Composition Minimum","level":3,"line_start":115,"line_end":143,"anchor":null},
+        {"header":"CJS-29.110 §1.2 Attachment Publication","level":3,"line_start":144,"line_end":157,"anchor":null},
+        {"header":"CJS-29.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":158,"line_end":200,"anchor":null},
+        {"header":"CJS-29.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":201,"line_end":239,"anchor":null},
+        {"header":"CJS-29.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":240,"line_end":287,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_reader_guide.md": {
@@ -2160,38 +2167,38 @@
         {"header":"CS-9.320 §12 Illustrative Institution Walkthroughs","level":2,"line_start":776,"line_end":818,"anchor":null}
       ]
     },
-    "corpus_systems/cs_24.305_critical_system_stewardship.md": {
+    "corpus_systems/cs_25.305_critical_system_stewardship.md": {
       "total_lines": 580,
       "sections": [
-        {"header":"CS-24.305: Critical System Stewardship","level":1,"line_start":1,"line_end":580,"anchor":null},
-        {"header":"CS-24.305 §1 Purpose, Role, and Scope","level":2,"line_start":58,"line_end":68,"anchor":null},
-        {"header":"CS-24.305 §2 Classification as Steward","level":2,"line_start":69,"line_end":119,"anchor":null},
-        {"header":"CS-24.305 §3 Stewardship Criticality Levels","level":2,"line_start":120,"line_end":136,"anchor":null},
-        {"header":"CS-24.305 §4 Scaling Obligations","level":2,"line_start":137,"line_end":150,"anchor":null},
-        {"header":"CS-24.305 §5 Comprehensibility and Complexity Stewardship","level":2,"line_start":151,"line_end":178,"anchor":null},
-        {"header":"CS-24.305 §6 Failing Safely and Visibly","level":2,"line_start":179,"line_end":189,"anchor":null},
-        {"header":"CS-24.305 §7 Structures That Resist Pressure and Capture","level":2,"line_start":190,"line_end":202,"anchor":null},
-        {"header":"CS-24.305 §8 Conduct, Conflicts of Interest, and Independence","level":2,"line_start":203,"line_end":234,"anchor":null},
-        {"header":"CS-24.305 §9 Continuity, Transfer, and Exit Integrity","level":2,"line_start":235,"line_end":269,"anchor":null},
-        {"header":"CS-24.305 §10 Competency, Succession, Inspectable Action, and Oversight Effectiveness","level":2,"line_start":270,"line_end":424,"anchor":null},
-        {"header":"CS-24.305 §10.1 Competency and Eligibility","level":3,"line_start":279,"line_end":288,"anchor":null},
-        {"header":"CS-24.305 §10.2 Authorized Roles","level":3,"line_start":289,"line_end":292,"anchor":null},
-        {"header":"CS-24.305 §10.3 Inspectable Attributable Action","level":3,"line_start":293,"line_end":362,"anchor":null},
-        {"header":"CS-24.305 §10.4 Growth, Rotation, and Incentives","level":3,"line_start":363,"line_end":371,"anchor":null},
-        {"header":"CS-24.305 §10.5 Succession","level":3,"line_start":372,"line_end":378,"anchor":null},
-        {"header":"CS-24.305 §10.6 Oversight Effectiveness Review","level":3,"line_start":379,"line_end":395,"anchor":null},
-        {"header":"CS-24.305 §10.7 Contest-Integrity Monitoring","level":3,"line_start":396,"line_end":406,"anchor":null},
-        {"header":"CS-24.305 §10.8 Competency and Oversight Expectations by Level","level":3,"line_start":407,"line_end":424,"anchor":null},
-        {"header":"CS-24.305 §11 Integrated Risk Governance (Class A/B)","level":2,"line_start":425,"line_end":447,"anchor":null},
-        {"header":"CS-24.305 §12 Intervention Trigger","level":2,"line_start":448,"line_end":458,"anchor":null},
-        {"header":"CS-24.305 §13 Relationship to System Classes","level":2,"line_start":459,"line_end":470,"anchor":null},
-        {"header":"CS-24.305 §14 Private Chokepoints Sentients Depend on (Access Continuity and Non-Capture)","level":2,"line_start":471,"line_end":492,"anchor":null},
-        {"header":"CS-24.305 §15 Core Characteristics (Typical)","level":2,"line_start":493,"line_end":505,"anchor":null},
-        {"header":"CS-24.305 §16 Substitutability and Dependency Reduction","level":2,"line_start":506,"line_end":527,"anchor":null},
-        {"header":"CS-24.305 §17 Transparency and Auditability","level":2,"line_start":528,"line_end":539,"anchor":null},
-        {"header":"CS-24.305 §18 Intervention and Cooperation","level":2,"line_start":540,"line_end":552,"anchor":null},
-        {"header":"CS-24.305 §19 Governance and Incentive Integrity","level":2,"line_start":553,"line_end":564,"anchor":null},
-        {"header":"CS-24.305 §20 Evasion and Reclassification","level":2,"line_start":565,"line_end":580,"anchor":null}
+        {"header":"CS-25.305: Critical System Stewardship","level":1,"line_start":1,"line_end":580,"anchor":null},
+        {"header":"CS-25.305 §1 Purpose, Role, and Scope","level":2,"line_start":58,"line_end":68,"anchor":null},
+        {"header":"CS-25.305 §2 Classification as Steward","level":2,"line_start":69,"line_end":119,"anchor":null},
+        {"header":"CS-25.305 §3 Stewardship Criticality Levels","level":2,"line_start":120,"line_end":136,"anchor":null},
+        {"header":"CS-25.305 §4 Scaling Obligations","level":2,"line_start":137,"line_end":150,"anchor":null},
+        {"header":"CS-25.305 §5 Comprehensibility and Complexity Stewardship","level":2,"line_start":151,"line_end":178,"anchor":null},
+        {"header":"CS-25.305 §6 Failing Safely and Visibly","level":2,"line_start":179,"line_end":189,"anchor":null},
+        {"header":"CS-25.305 §7 Structures That Resist Pressure and Capture","level":2,"line_start":190,"line_end":202,"anchor":null},
+        {"header":"CS-25.305 §8 Conduct, Conflicts of Interest, and Independence","level":2,"line_start":203,"line_end":234,"anchor":null},
+        {"header":"CS-25.305 §9 Continuity, Transfer, and Exit Integrity","level":2,"line_start":235,"line_end":269,"anchor":null},
+        {"header":"CS-25.305 §10 Competency, Succession, Inspectable Action, and Oversight Effectiveness","level":2,"line_start":270,"line_end":424,"anchor":null},
+        {"header":"CS-25.305 §10.1 Competency and Eligibility","level":3,"line_start":279,"line_end":288,"anchor":null},
+        {"header":"CS-25.305 §10.2 Authorized Roles","level":3,"line_start":289,"line_end":292,"anchor":null},
+        {"header":"CS-25.305 §10.3 Inspectable Attributable Action","level":3,"line_start":293,"line_end":362,"anchor":null},
+        {"header":"CS-25.305 §10.4 Growth, Rotation, and Incentives","level":3,"line_start":363,"line_end":371,"anchor":null},
+        {"header":"CS-25.305 §10.5 Succession","level":3,"line_start":372,"line_end":378,"anchor":null},
+        {"header":"CS-25.305 §10.6 Oversight Effectiveness Review","level":3,"line_start":379,"line_end":395,"anchor":null},
+        {"header":"CS-25.305 §10.7 Contest-Integrity Monitoring","level":3,"line_start":396,"line_end":406,"anchor":null},
+        {"header":"CS-25.305 §10.8 Competency and Oversight Expectations by Level","level":3,"line_start":407,"line_end":424,"anchor":null},
+        {"header":"CS-25.305 §11 Integrated Risk Governance (Class A/B)","level":2,"line_start":425,"line_end":447,"anchor":null},
+        {"header":"CS-25.305 §12 Intervention Trigger","level":2,"line_start":448,"line_end":458,"anchor":null},
+        {"header":"CS-25.305 §13 Relationship to System Classes","level":2,"line_start":459,"line_end":470,"anchor":null},
+        {"header":"CS-25.305 §14 Private Chokepoints Sentients Depend on (Access Continuity and Non-Capture)","level":2,"line_start":471,"line_end":492,"anchor":null},
+        {"header":"CS-25.305 §15 Core Characteristics (Typical)","level":2,"line_start":493,"line_end":505,"anchor":null},
+        {"header":"CS-25.305 §16 Substitutability and Dependency Reduction","level":2,"line_start":506,"line_end":527,"anchor":null},
+        {"header":"CS-25.305 §17 Transparency and Auditability","level":2,"line_start":528,"line_end":539,"anchor":null},
+        {"header":"CS-25.305 §18 Intervention and Cooperation","level":2,"line_start":540,"line_end":552,"anchor":null},
+        {"header":"CS-25.305 §19 Governance and Incentive Integrity","level":2,"line_start":553,"line_end":564,"anchor":null},
+        {"header":"CS-25.305 §20 Evasion and Reclassification","level":2,"line_start":565,"line_end":580,"anchor":null}
       ]
     },
     "corpus_institutions/ci_00.205_registry_and_reading_rules.md": {
@@ -2443,17 +2450,17 @@
         {"header":"CI-23.210: Cross-Institution Coordination and Escalation","level":1,"line_start":1,"line_end":77,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_24.205_appointment_competency_rotation_removal.md": {
+    "corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md": {
       "total_lines": 414,
       "sections": [
-        {"header":"CI-24.205: Appointment, Competency, Rotation, and Removal","level":1,"line_start":1,"line_end":414,"anchor":null},
-        {"header":"CI-24.205 §1: Shared Staffing and Competency Requirement","level":2,"line_start":87,"line_end":107,"anchor":null},
-        {"header":"CI-24.205 §2: Role Criteria, Appointment Standards, and Removal Pathways","level":2,"line_start":108,"line_end":137,"anchor":null},
-        {"header":"CI-24.205 §3: Periodic Performance and Capability Review","level":2,"line_start":138,"line_end":156,"anchor":null},
-        {"header":"CI-24.205 §4: Interpretive-Body Composition Controls","level":2,"line_start":157,"line_end":180,"anchor":null},
-        {"header":"CI-24.205 §5: Authorized Roles and Accountability Chains","level":2,"line_start":181,"line_end":225,"anchor":null},
-        {"header":"CI-24.205 §6: Seat Catalog — Process-Role Archetypes and Operational Boundaries","level":2,"line_start":226,"line_end":360,"anchor":null},
-        {"header":"CI-24.205 §7: Practice Licence, Practice Clearance, and Joint Professional Practice","level":2,"line_start":361,"line_end":414,"anchor":"#ci-46-seat-advisory"}
+        {"header":"CI-25.205: Appointment, Competency, Rotation, and Removal","level":1,"line_start":1,"line_end":414,"anchor":null},
+        {"header":"CI-25.205 §1: Shared Staffing and Competency Requirement","level":2,"line_start":87,"line_end":107,"anchor":null},
+        {"header":"CI-25.205 §2: Role Criteria, Appointment Standards, and Removal Pathways","level":2,"line_start":108,"line_end":137,"anchor":null},
+        {"header":"CI-25.205 §3: Periodic Performance and Capability Review","level":2,"line_start":138,"line_end":156,"anchor":null},
+        {"header":"CI-25.205 §4: Interpretive-Body Composition Controls","level":2,"line_start":157,"line_end":180,"anchor":null},
+        {"header":"CI-25.205 §5: Authorized Roles and Accountability Chains","level":2,"line_start":181,"line_end":225,"anchor":null},
+        {"header":"CI-25.205 §6: Seat Catalog — Process-Role Archetypes and Operational Boundaries","level":2,"line_start":226,"line_end":360,"anchor":null},
+        {"header":"CI-25.205 §7: Practice Licence, Practice Clearance, and Joint Professional Practice","level":2,"line_start":361,"line_end":414,"anchor":"#ci-46-seat-advisory"}
       ]
     },
     "corpus_forum/cf_00.405_registry_and_reading_rules.md": {

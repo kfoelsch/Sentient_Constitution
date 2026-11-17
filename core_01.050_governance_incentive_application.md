@@ -38,7 +38,7 @@ Chapter One, Part F is the constitutional owner of **governance under stewardshi
 - Downstream:
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
   - [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity);
-  - [Chapter Twenty-Four](core_24.000_governance.md) (24.000) (*Constitutional Contract Layer* operationalization);
+  - [Chapter Twenty-Five](core_25.000_governance.md) (25.000) (*Constitutional Contract Layer* operationalization);
   - [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
 - Subsections (reading order):
   - [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure) ·
@@ -70,7 +70,7 @@ Chapter One, Part F is the constitutional owner of **governance under stewardshi
 
 <br>
 
-*In plain terms: governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Twenty-Four's operative authorization rules.*
+*In plain terms: governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Twenty-Five's operative authorization rules.*
 
 This section carries [Governance](core_05.035_band_accountability.md#governance) discipline downstream of [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth): authorized structure, institutional secularism, stewardship override, [ongoing justification](#184-ongoing-justification), and separation of duties. **[§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
 
@@ -93,7 +93,7 @@ This section carries [Governance](core_05.035_band_accountability.md#governance)
   - [§18.3 Separation of Duties](#183-separation-of-duties);
   - [§18.4 Ongoing Justification](#184-ongoing-justification);
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
-  - [Chapter Twenty-Four](core_24.000_governance.md) (24.000) (*Constitutional Contract Layer* operationalization);
+  - [Chapter Twenty-Five](core_25.000_governance.md) (25.000) (*Constitutional Contract Layer* operationalization);
   - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member disclosure, recusal, and anti-capture floors*);
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*forum-family supervision*).
 
@@ -124,7 +124,7 @@ This section carries [Governance](core_05.035_band_accountability.md#governance)
 
 *In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
 
-At principle layer, [Governance](core_05.035_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Five** and spelled out in operative detail under **Chapter Twenty-Four** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
+At principle layer, [Governance](core_05.035_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Five** and spelled out in operative detail under **Chapter Twenty-Five** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
 
 **What governance covers:**
 
@@ -266,7 +266,7 @@ Oversight and accountability only work if the checking is done independently of 
   - [Article XXVII-A: Non-Entrenchment and Revisability](core_06.040_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) and
   - [Article XXVII-B: Periodic Revalidation and Transparent Change](core_06.040_rights_part_e.md#article-xxvii-b-periodic-revalidation-and-transparent-change) (*Rights-Floor non-entrenchment and transparent-change floors — they do not narrow this principle*); **
   - [CJS-5.125 §11](corpus_joint_structure/cjs_05.125_accountability_operations.md#baseline-governance-accountability-conditions)** (*Baseline governance accountability conditions*);
-  - [Chapter Twenty-Four](core_24.000_governance.md) (24.000) (*Constitutional Contract Layer* operationalization).
+  - [Chapter Twenty-Five](core_25.000_governance.md) (25.000) (*Constitutional Contract Layer* operationalization).
 
 </details>
 
@@ -507,7 +507,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
   - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Downstream: [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) and [§14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Twenty-Four §6 — Authorized Roles, Competency Development, and Contribution](core_24.000_governance.md#6-authorized-roles-competency-development-and-contribution) (24.000 §6); **[CS-24.305 — Critical system stewardship](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship)**.
+- Downstream: [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Twenty-Five §6 — Authorized Roles, Competency Development, and Contribution](core_25.000_governance.md#6-authorized-roles-competency-development-and-contribution) (25.000 §6); **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across
   - [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000); especially
   - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
@@ -669,8 +669,8 @@ For stewards and operators under the [Two Constitutional Aims](core_00.000_pream
 
 **Where the detail lives:**
 
-- [Chapter Twenty-Four §6 — Authorized Roles, Competency Development, and Contribution](core_24.000_governance.md#6-authorized-roles-competency-development-and-contribution) for authorized roles, competency, and paths into work that actually matters for stewards and operators;
-- [**CS-24.305**](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
+- [Chapter Twenty-Five §6 — Authorized Roles, Competency Development, and Contribution](core_25.000_governance.md#6-authorized-roles-competency-development-and-contribution) for authorized roles, competency, and paths into work that actually matters for stewards and operators;
+- [**CS-25.305**](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
 - [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) for the principle-layer picture of hands-on work and community competence.
 
 Those paths:
@@ -921,7 +921,7 @@ Concentrated or obscured control structures that materially undermine any of the
   - [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response);
   - [§13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints);
   - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-24.305 — Critical system stewardship](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship)** (classification and stewardship scaling); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) conflict and integrity expectations.
+  - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** (classification and stewardship scaling); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) conflict and integrity expectations.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (durable, contestable resolution pathways and systemic stability where contingent settlement is materially impactful).
 - Read with:
   - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
@@ -1060,7 +1060,7 @@ This subsection sets out why market signals are not constitutional proof:
 - Downstream:
   - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
-  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-24.305 — Critical system stewardship](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship)** (*classifying and scaling stewardship of materially impactful systems*);
+  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** (*classifying and scaling stewardship of materially impactful systems*);
   - [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), for conflict and procedure rules where institutions supervise such activity.
 
 </details>
@@ -1089,7 +1089,7 @@ Authorization, design, and operation must do four things:
 - **What this chapter states:** constitutional direction.
 - **What it does not write:** the detailed licensing, criminal, tax, or cross-border enforcement rules for gambling and contingent settlement.
 - **Where those details belong:** adopting law and designated incorporated documents, including:
-  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-24.305 — Critical system stewardship](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship)** for classifying and scaling stewardship of materially impactful systems; and
+  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** for classifying and scaling stewardship of materially impactful systems; and
   - [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
 
 <a id="196-keeping-responsibility-when-ownership-or-structure-changes"></a>

@@ -14,7 +14,7 @@
 ## 2. Changed files and scope
 
 - List each `core_*.md` / `corpus_*.md` file touched with one-line substance summary.
-- Adoption-scope note: what remains in force for non-adopters vs adopters (Chapter Twenty-Five framing).
+- Adoption-scope note: what remains in force for non-adopters vs adopters (Chapter Twenty-Six framing).
 
 ## 3. Validity and non-regression checklist
 
