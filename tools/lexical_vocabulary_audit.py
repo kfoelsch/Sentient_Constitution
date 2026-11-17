@@ -9,6 +9,7 @@ import pathlib
 import re
 import sys
 from dataclasses import dataclass
+from functools import lru_cache
 
 from corpus_paths import binding_corpus_scope
 
@@ -2110,6 +2111,7 @@ def scan_avoid_tribunal_family(rel_path: str, text: str) -> list[Finding]:
 _HTML_ID_ATTR = re.compile(r'\bid\s*=\s*"[^"]*"', re.IGNORECASE)
 
 
+@lru_cache(maxsize=65536)
 def _mask_inline_code_and_link_targets(line: str) -> str:
     """Hide inline code, Markdown link destinations, and HTML id attributes while preserving link text.
 

@@ -53,11 +53,15 @@ def historical_source_names() -> dict[str, str]:
     if not registry.is_file():
         return {}
     rows = json.loads(registry.read_text(encoding="utf-8")).get("chapters", [])
-    return {
+    historical = {
         Path(row["destination_file"]).as_posix(): Path(row["original_file"]).as_posix()
         for row in rows
         if row.get("layer") == "CORE" and row.get("destination_file") and row.get("original_file")
     }
+    for old_name, current_path in audit.git_rename_history().items():
+        if current_path.startswith("core_"):
+            historical.setdefault(current_path, old_name)
+    return historical
 
 
 def baseline_source_text(revision: str | None, source: str, historical_names: dict[str, str]) -> str | None:
@@ -90,7 +94,7 @@ def baseline_for(source: str, rows: list[dict], requested: str | None) -> tuple[
         return requested, "requested baseline"
     revisions = Counter(
         row.get("source_revision") for row in rows
-        if row.get("source_file") == source and valid_revision(row.get("source_revision"))
+        if valid_revision(row.get("source_revision"))
     )
     if revisions:
         # Use the most common recorded source snapshot; break ties by oldest
@@ -257,20 +261,25 @@ def build_report(requested_base: str | None, locale_filter: str | None = None, s
     records = manifest.get("files", [])
     records_by_source: dict[str, list[dict]] = defaultdict(list)
     records_by_target: dict[tuple[str, str], dict] = {}
-    old_to_current = audit.legacy_core_filename_map()
     for row in records:
         recorded_source = row.get("source_file", "")
-        canonical_source = old_to_current.get(Path(recorded_source).name, Path(recorded_source).name)
+        canonical_path = audit.canonical_core_path(ROOT / recorded_source) if recorded_source else ROOT
+        try:
+            canonical_source = canonical_path.relative_to(ROOT).as_posix()
+        except ValueError:
+            canonical_source = Path(recorded_source).as_posix()
         records_by_source[canonical_source].append(row)
         records_by_target[(row.get("locale", ""), row.get("translation_file", ""))] = row
 
     locales = audit.locale_dirs(locale_filter)
     maps = {directory.name: audit.readme_source_map(directory) for directory in locales}
-    source_targets: dict[str, dict[str, str]] = defaultdict(dict)
+    source_targets: dict[str, dict[str, list[str]]] = defaultdict(lambda: defaultdict(list))
     all_sources: set[str] = set()
     for locale, mapping in maps.items():
         for local_name, source in mapping.items():
-            source_targets[source][locale] = f"translations/{locale}/{local_name}"
+            target = f"translations/{locale}/{local_name}"
+            if target not in source_targets[source][locale]:
+                source_targets[source][locale].append(target)
             all_sources.add(source)
 
     source_work = []
@@ -313,27 +322,38 @@ def build_report(requested_base: str | None, locale_filter: str | None = None, s
         "",
         "## Queue summary",
         "",
-        "| English source | Current SHA-256 | Changed sections | Stale locale snapshots | Missing locale files |",
-        "|---|---|---:|---:|---:|",
+        "| English source | Current SHA-256 | Changed sections | Stale locale snapshots | Missing locale files | Multiple local files for one source |",
+        "|---|---|---:|---:|---:|---|",
     ]
     for item in source_work:
         stale_locales = []
         missing = []
+        duplicate_targets = []
         for locale in sorted(maps):
-            target = item["targets"].get(locale)
-            if not target or not (ROOT / target).is_file():
+            targets = [
+                target for target in item["targets"].get(locale, [])
+                if (ROOT / target).is_file()
+            ]
+            if not targets:
                 missing.append(locale)
                 continue
-            row = records_by_target.get((locale, target))
-            if not row or row.get("source_sha256") != item["source_hash"]:
+            if len(targets) > 1:
+                duplicate_targets.append(f"{locale}: {', '.join(Path(target).name for target in targets)}")
+            if any(
+                not (row := records_by_target.get((locale, target)))
+                or row.get("source_sha256") != item["source_hash"]
+                for target in targets
+            ):
                 stale_locales.append(locale)
         out.append(
             f"| `{item['source']}` | `{item['source_hash']}` | {len(item['sections'])} | "
-            f"{', '.join(stale_locales) or '—'} | {', '.join(missing) or '—'} |"
+            f"{', '.join(stale_locales) or '—'} | {', '.join(missing) or '—'} | "
+            f"{'; '.join(duplicate_targets) or '—'} |"
         )
 
     out += ["", "## Passage packets", ""]
-    mechanics_cache: dict[str, dict[str, object]] = {}
+    mechanics_cache: dict[tuple[str, str], dict[str, object]] = {}
+    locale_dirs_by_name = {directory.name: directory for directory in locales}
     if not source_work:
         out += ["No mapped English sources differ from their recorded snapshots.", ""]
     for item in source_work:
@@ -348,34 +368,41 @@ def build_report(requested_base: str | None, locale_filter: str | None = None, s
         for number, passage in enumerate(item["sections"], 1):
             out += [f"#### Passage {number}: {passage.label}", "", "**English source diff (including removed text):**", "", "```diff", passage.source_excerpt[:12000], "```", ""]
             for locale in sorted(maps):
-                target_rel = item["targets"].get(locale)
-                if not target_rel or not (ROOT / target_rel).is_file():
+                target_rels = [
+                    target for target in item["targets"].get(locale, [])
+                    if (ROOT / target).is_file()
+                ]
+                if not target_rels:
                     out += [f"**{locale}:** translation file missing.", ""]
                     continue
-                target_path = ROOT / target_rel
-                status, target_text = target_excerpt(target_path, passage.anchors)
-                record = records_by_target.get((locale, target_rel))
-                source_current = bool(record and record.get("source_sha256") == item["source_hash"])
-                translation_changed = bool(record and record.get("translation_sha256") != sha256(target_path))
-                out += [f"**{locale} — {target_rel}** ({status}; source snapshot {'current' if source_current else 'stale/untracked'}; translation file {'changed since inventory' if translation_changed else 'matches inventory'}).", ""]
-                if target_text:
-                    out += ["```markdown", target_text[:8000], "```", ""]
-                else:
-                    out += ["No target passage could be aligned by a source HTML anchor. Locate it by the English section label and review the whole target file as needed.", ""]
-                flags = glossary_hits(locales[[d.name for d in locales].index(locale)], passage.source_excerpt, target_text)
-                if flags:
-                    out += ["Glossary surface-form advisories (may be inflection or intentional retention): " + "; ".join(flags), ""]
-                if target_rel not in mechanics_cache:
-                    mechanics_cache[target_rel] = file_mechanics(ROOT / item["source"], target_path)
-                mechanics = mechanics_cache[target_rel]
-                findings = []
-                if mechanics["source_ids_missing_or_reordered"]: findings.append("source anchors missing/reordered")
-                if mechanics["marker_count_differences"]: findings.append("whole-file structure differs: " + ", ".join(mechanics["marker_count_differences"]))
-                if mechanics["unbalanced_details"]: findings.append("unbalanced details block")
-                if mechanics["unbalanced_fences"]: findings.append("unbalanced code fence")
-                if mechanics["unresolved_links"]: findings.append(f"{len(mechanics['unresolved_links'])} unresolved links in target file")
-                out.append("Mechanical checks: " + ("; ".join(findings) if findings else "no findings in the checked categories") + ".")
-                out.append("")
+                if len(target_rels) > 1:
+                    out += [f"**{locale}:** {len(target_rels)} local files map to this English source; each is shown for separate review.", ""]
+                for target_rel in target_rels:
+                    target_path = ROOT / target_rel
+                    status, target_text = target_excerpt(target_path, passage.anchors)
+                    record = records_by_target.get((locale, target_rel))
+                    source_current = bool(record and record.get("source_sha256") == item["source_hash"])
+                    translation_changed = bool(record and record.get("translation_sha256") != sha256(target_path))
+                    out += [f"**{locale} — {target_rel}** ({status}; source snapshot {'current' if source_current else 'stale/untracked'}; translation file {'changed since inventory' if translation_changed else 'matches inventory'}).", ""]
+                    if target_text:
+                        out += ["```markdown", target_text[:8000], "```", ""]
+                    else:
+                        out += ["No target passage could be aligned by a source HTML anchor. Locate it by the English section label and review the whole target file as needed.", ""]
+                    flags = glossary_hits(locale_dirs_by_name[locale], passage.source_excerpt, target_text)
+                    if flags:
+                        out += ["Glossary surface-form advisories (may be inflection or intentional retention): " + "; ".join(flags), ""]
+                    mechanics_key = (item["source"], target_rel)
+                    if mechanics_key not in mechanics_cache:
+                        mechanics_cache[mechanics_key] = file_mechanics(ROOT / item["source"], target_path)
+                    mechanics = mechanics_cache[mechanics_key]
+                    findings = []
+                    if mechanics["source_ids_missing_or_reordered"]: findings.append("source anchors missing/reordered")
+                    if mechanics["marker_count_differences"]: findings.append("whole-file structure differs: " + ", ".join(mechanics["marker_count_differences"]))
+                    if mechanics["unbalanced_details"]: findings.append("unbalanced details block")
+                    if mechanics["unbalanced_fences"]: findings.append("unbalanced code fence")
+                    if mechanics["unresolved_links"]: findings.append(f"{len(mechanics['unresolved_links'])} unresolved links in target file")
+                    out.append("Mechanical checks: " + ("; ".join(findings) if findings else "no findings in the checked categories") + ".")
+                    out.append("")
         out += ["**AI drafter prompt:** Translate or revise only the passages above using the locale glossary and existing target terminology. Preserve actors, scope, conditions, exceptions, negation, thresholds, duties, permissions, and certainty. Keep anchors and links intact. Label all output unreviewed.", "",
                 "**Independent AI-check prompt:** Compare the target passages against English clause by clause. Report omissions, additions, actor/scope shifts, condition or exception shifts, negation changes, duty/permission strength changes, threshold/certainty shifts, terminology inconsistency, unnatural or mixed-language text, and unresolved links. Do not mark any human-review status.", ""]
     out += [

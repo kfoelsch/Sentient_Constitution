@@ -40,7 +40,7 @@ The Sentient Constitution is a written framework meant to prevent that. It asks 
 - **Accountability:** decisions leave an official record, and wrongs can be challenged and put right.
 - **Timeliness:** all of this happens fast enough to matter.
 
-The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
+The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems must be held to the same standard.
 
 Two questions run through all of it, and anyone can put them to a system they know:
 

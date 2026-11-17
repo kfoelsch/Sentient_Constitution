@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Eight lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** additive expansion of protection; continuity of supremacy and challenge rights during amendment processes; source-layer authority and internal hierarchy relative to incorporated corpus and external law; non-displacement of applicable external law of its own force; alignment of constitutional processes with external legal frameworks in which they are used; cooperation with external tribunals while preserving internal review pathways.
+> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, continuity of supremacy and challenge rights during amendment, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Six** and **Chapter Twenty-Seven**; the incorporation bridge is in **Chapter Twenty-Nine**.
 > - **Non-regression:** substantive floors remain in **Chapter Twenty-Six**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Twenty-Seven**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.

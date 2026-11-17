@@ -17,6 +17,7 @@ import sys
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from functools import lru_cache
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -47,6 +48,7 @@ def sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+@lru_cache(maxsize=1)
 def legacy_core_filename_map() -> dict[str, str]:
     """Resolve pre-migration English core names without editing translations."""
     registry_path = ROOT / "tools/architecture/chapter_numbers.json"
@@ -60,12 +62,74 @@ def legacy_core_filename_map() -> dict[str, str]:
     }
 
 
+@lru_cache(maxsize=1)
+def git_rename_history() -> dict[str, str]:
+    """Map uniquely renamed historical basenames to their current repo paths."""
+    try:
+        output = subprocess.check_output(
+            [
+                "git", "log", "--reverse", "--name-status", "-M", "-l12067",
+                "--format=@%H", "--diff-filter=R",
+            ],
+            cwd=ROOT,
+            text=True,
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return {}
+
+    events: list[tuple[str, str]] = []
+    for line in output.splitlines():
+        if line.startswith("R"):
+            _status, old, new = line.split("\t")
+            events.append((old, new))
+    index: dict[str, list[int]] = defaultdict(list)
+    for i, (old, _new) in enumerate(events):
+        index[old].append(i)
+
+    def forward(path: str, position: int) -> str:
+        while True:
+            later = next((j for j in index.get(path, []) if j > position), None)
+            if later is None:
+                return path
+            position = later
+            path = events[position][1]
+
+    candidates: dict[str, set[str]] = defaultdict(set)
+    for i, (old, new) in enumerate(events):
+        final = forward(new, i)
+        if (ROOT / final).is_file():
+            candidates[Path(old).name].add(final)
+    return {
+        basename: next(iter(paths))
+        for basename, paths in candidates.items()
+        if len(paths) == 1
+    }
+
+
 def canonical_core_path(path: Path) -> Path:
     """Return the renamed source corresponding to a historical core path."""
     if path.is_file():
         return path
     mapped = legacy_core_filename_map().get(path.name)
-    return path.with_name(mapped) if mapped else path
+    if mapped:
+        candidate = path.with_name(mapped)
+        if candidate.is_file():
+            return candidate
+    historical = git_rename_history().get(path.name)
+    if historical:
+        return ROOT / historical
+    # Chapter renumberings sometimes make Git treat a file as a delete/add
+    # rather than a rename. Use the exact remaining filename suffix only when
+    # it identifies one current core file; never guess across split siblings.
+    if path.name.startswith("core_") and path.name.count("_") >= 2:
+        suffix = path.name.split("_", 2)[2]
+        matches = [
+            candidate for candidate in ROOT.glob("core_*.md")
+            if candidate.name.split("_", 2)[-1] == suffix
+        ]
+        if len(matches) == 1:
+            return matches[0]
+    return path
 
 
 def git_revision() -> str | None:
@@ -436,7 +500,7 @@ def freshness_audit(path: Path, locale: str | None = None) -> int:
         print(f"Review manifest not found: {path}; run manifest-init first.", file=sys.stderr)
         return 2
     payload = json.loads(path.read_text(encoding="utf-8"))
-    pairs, _ = translation_pairs(locale)
+    pairs, unmapped = translation_pairs(locale)
     current = {(item.locale, item.translation): item for item in pairs}
     records = {
         (row["locale"], row["translation_file"]): row
@@ -469,11 +533,19 @@ def freshness_audit(path: Path, locale: str | None = None) -> int:
             counts["unreviewed"] += 1
         elif not source_changed and not translation_changed:
             counts["reviewed_current"] += 1
-    obsolete = set(records) - set(current)
+    unmapped_keys = {
+        (Path(name).parts[1], name)
+        for name in unmapped
+        if len(Path(name).parts) > 1
+    }
+    obsolete = set(records) - set(current) - unmapped_keys
     counts["manifest_entries_without_files"] = len(obsolete)
+    counts["unmapped_files"] = len(unmapped)
     print("Freshness / review status:")
-    for label in ("source_changed", "translation_changed", "unreviewed", "reviewed_current", "untracked", "manifest_entries_without_files"):
+    for label in ("source_changed", "translation_changed", "unreviewed", "reviewed_current", "untracked", "unmapped_files", "manifest_entries_without_files"):
         print(f"  {label}: {counts[label]}")
+    for name in unmapped:
+        findings.append(f"UNMAPPED {name}: no current English source mapping")
     for source, locales in sorted(source_changes.items()):
         print(f"  SOURCE_CHANGED {source}: {len(locales)} locale translation(s)")
     for translation, locales in sorted(translation_changes.items()):
@@ -483,7 +555,7 @@ def freshness_audit(path: Path, locale: str | None = None) -> int:
             print(f"  {finding}")
         if len(findings) > 100:
             print(f"  ... {len(findings) - 100} additional findings")
-    return 1 if counts["source_changed"] or counts["translation_changed"] or counts["untracked"] or obsolete else 0
+    return 1 if counts["source_changed"] or counts["translation_changed"] or counts["untracked"] or counts["unmapped_files"] or obsolete else 0
 
 
 def record_review(path: Path, locale: str, translation_file: str, reviewer: str, confirmed: bool) -> int:

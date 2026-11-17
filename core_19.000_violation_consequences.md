@@ -898,7 +898,7 @@ This subsection has eight locks:
   - **What it is for:**
     - holding or keeping authority in the institution or enterprise; or
     - passing the formation check or a certification;
-- retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used;
+- retaliating, regardless of the means used, against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, where the report or the refusal concerned that institution or enterprise;
 - suppressing, burying, or refusing to receive a [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing) report made through the institution or enterprise, including an insider's report of a crossing over the line of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality); or
 - knowingly keeping a misaligned reward received through the institution or enterprise after notice under [§3.4.2 Misaligned Rewards](#342-misaligned-rewards).
 

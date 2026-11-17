@@ -35,7 +35,6 @@ import collections
 import html
 import os
 import re
-import subprocess
 import sys
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -83,34 +82,8 @@ _LAYER_RE = re.compile(r"^([a-z]+)_(?:[0-9][0-9a-z.\-]*_)(.+)$")
 # --- file resolution -------------------------------------------------------
 
 def rename_history() -> dict[str, str]:
-    """Return {old basename: current repo path} from git rename history."""
-    out = subprocess.check_output(
-        ["git", "log", "--reverse", "--name-status", "-M", "--format=@%H", "--diff-filter=R"],
-        cwd=ROOT, text=True,
-    )
-    events: list[tuple[str, str]] = []
-    for line in out.splitlines():
-        if line.startswith("R"):
-            _status, old, new = line.split("\t")
-            events.append((old, new))
-    index: dict[str, list[int]] = collections.defaultdict(list)
-    for i, (old, _new) in enumerate(events):
-        index[old].append(i)
-
-    def forward(path: str, pos: int) -> str:
-        while True:
-            later = [j for j in index.get(path, []) if j > pos]
-            if not later:
-                return path
-            pos = later[0]
-            path = events[pos][1]
-
-    result: dict[str, str] = {}
-    for i, (old, new) in enumerate(events):
-        final = forward(new, i)
-        if (ROOT / final).is_file():
-            result[os.path.basename(old)] = final
-    return result
+    """Return the shared historical-name map used by translation audits."""
+    return ta.git_rename_history()
 
 
 def layer_slug_index() -> dict[tuple[str, str], list[str]]:
