@@ -60,7 +60,7 @@
 
 <br>
 
-Core home: 28
+Core home: 29
 
 This file is the joint-structure implementation home for **CJS-29.110** (*Specific joint interlocks and shared abstractions*), including **CJS-29.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*), **CJS-29.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*), **CJS-29.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*), and **CJS-29.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*).
 

@@ -148,7 +148,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) | Pending |
 | [corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md](../../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md) | Pending |
 | [corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) | Pending |
-| [corpus_institutions/ci_20.205_procedure_integrity_contestability_secondary_review.md](../../corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md) | Pending |
+| [corpus_institutions/ci_24.210_procedure_integrity_contestability_secondary_review.md](../../corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md) | Pending |
 | [corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) | Pending |
 | [corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md](../../corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md) | Pending |
 | [corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) | Full pass B04 recorded; D04 open |
@@ -169,8 +169,8 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md](../../corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md) | Pending |
 | [corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md](../../corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md) | Pending |
 | [corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md](../../corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md) | Pending |
-| [corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md) | B01 targeted parity correction; full pass pending |
-| [corpus_institutions/ci_11.215_institutional_accountability_sanctions.md](../../corpus_institutions/ci_19.215_institutional_accountability_sanctions.md) | Pending |
+| [corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md) | B01 targeted parity correction; full pass pending |
+| [corpus_institutions/ci_11.215_institutional_accountability_sanctions.md](../../corpus_institutions/ci_24.205_institutional_accountability_sanctions.md) | Pending |
 
 ## CJS
 

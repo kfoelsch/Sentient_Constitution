@@ -58,7 +58,7 @@ Chapter Fifteen requires institutions capable of delivering remedy, with funding
 
 The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Sixteen §5.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 
-**Sources:** [Chapter Fifteen §§9–10](../../core_17.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md); [Chapter Sixteen §5.1](../../core_21.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
+**Sources:** [Chapter Fifteen §§9–10](../../core_17.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md); [Chapter Sixteen §5.1](../../core_21.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
 
 ### 6. It distinguishes protection, competence, participation, and authority
 
@@ -120,7 +120,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 ### Priority 5 — Repair semantic drift between core and implementation
 
-**Confirmed example:** [Chapter Fifteen §10.2](../../core_17.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
+**Confirmed example:** [Chapter Fifteen §10.2](../../core_17.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
 
 The core controls. The omission is still a practical defect because readers acting from the implementation layer may infer a stricter rule. CI-11.205's express pointer to the core helps but does not make the restatement complete. This is an alignment issue to fix, not a conclusion that core should remove or expand the exception.
 

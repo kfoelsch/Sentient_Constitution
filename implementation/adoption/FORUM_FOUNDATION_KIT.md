@@ -395,7 +395,7 @@ Do not restate CF or Chapter Twenty-Three. Use the owner files. This section is 
 | Appeal and exhaustion | [CF-23.420](../../corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md) | Articles XIII-A and XIII-B remain reachable. |
 | Continuity under stress | [CF-23.450](../../corpus_forum/cf_23.450_forum_continuity.md); [CF-23.455](../../corpus_forum/cf_23.455_fallback_operation.md); [CF-23.460](../../corpus_forum/cf_23.460_emergency_adjudication.md) | Fallback is named. Emergency is not a standing family merger. |
 | Forum case record vs standing record | [Chapter Twenty-Three §2.3](../../core_23.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Fifteen §3.7](../../core_15.000_standing_assessment.md#37-forum-boundary) | Filing is not standing. Case files are not standing records. |
-| Remedy capacity | [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems); [CI-20.205](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md) | Named routes have practical capacity. Accountability for that capacity stays with the primary-stakes family. |
+| Remedy capacity | [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems); [CI-24.210](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md) | Named routes have practical capacity. Accountability for that capacity stays with the primary-stakes family. |
 
 ---
 

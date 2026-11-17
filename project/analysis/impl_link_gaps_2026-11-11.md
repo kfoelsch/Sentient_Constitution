@@ -29,7 +29,7 @@ Totals: 69 files; trace 25, body only 14, ID only 5, none in home chapter 25 (12
 ## Named by ID but never linked (5)
 
 - Core home 05: CJS-5.110, CJS-5.135
-- Core home 13: CI-19.210, CI-19.215
+- Core home 13: CI-19.210, CI-24.205
 - Core home 15: CF-23.410
 
 ## Named by no core file at all (12)

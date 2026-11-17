@@ -14,7 +14,7 @@
 
 - Upstream: [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) (*contribution outcomes*); [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) (*violation outcomes and locks*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (*decision order*).
 - This file: Question 3 final standing effect, restoration and reassessment, and enforcement realism and remedy systems.
-- Downstream: [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (*forum supervision*); [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Downstream: [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (*forum supervision*); [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Worked examples (they add no rule): [CJS-15.105 Application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes): [CJS-15.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-10-question-3-routing-patterns).
 
 </details>
@@ -268,7 +268,7 @@ Consequences under this chapter only count if real institutions can carry them o
   - monitor follow-through;
   - enforce safeguards; and
   - review locks.
-- **Where the details live:** [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
+- **Where the details live:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
 - **Read with:** **Article XIII-B** (*Right to Redress and Remedy*), and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must keep the practical capacity, and keep it timely, to:
@@ -333,7 +333,7 @@ Those systems must meet the standards below, and each body has its own role:
 - **Who answers for performance:** accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_23.000_forum.md#2-default-venue-and-primary-stakes) forum family:
   - ordinarily [Institutional](core_23.000_forum.md#43-institutional-forums) forums; or
   - [Integrity](core_23.000_forum.md#45-integrity-forums) forums where capture, process failure, or system-alignment collapse is primary.
-- **Implementation detail:** [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
+- **Implementation detail:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
 
 The following violate this rule where they foreseeably nullify challenge or remedy:
 

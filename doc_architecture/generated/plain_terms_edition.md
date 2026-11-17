@@ -6228,13 +6228,13 @@ a final anti-constitutional misconduct finding must not end with a label, a pris
 
 ##### 6.2 Prevention — Anti-Constitutional Locks
 
-after final anti-constitutional-misconduct designation, Chapter Seventeen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Seventeen lock format and states the ACM imprisonment specialization.
+after final anti-constitutional-misconduct designation, the Anti-Constitutional Trust Lock in Chapter Nineteen §3.5 Special Locks closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Nineteen lock format and states the ACM imprisonment specialization.
 
 [Source](../../core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks)
 
 ##### 6.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 
-a public apology in an anti-constitutional misconduct case must meet Chapter Seventeen's general voluntariness and authenticity rules, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
+a public apology in an anti-constitutional misconduct case must meet the general voluntariness and authenticity rules of Chapter Nineteen §2.3 Voluntary Public Accountability Expression, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
 
 [Source](../../core_21.000_misconduct_designation.md#63-voluntary-public-accountability-expression-anti-constitutional)
 
