@@ -154,7 +154,7 @@ The three subsections below apply the existing Chapter Twenty-One sequence to co
 
 *In plain terms: “click here to give up your core rights” clauses — buried in employment, platform, or service terms — are not a lawful way to silence audits, challenges, or appeals, and convenience alone is never a good enough excuse.*
 
-The following patterns are **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§3.1.1 Rights-Floor Waiver Conduct](#311-rights-floor-waiver-conduct) through [§3.1.3 Post-Employment Mobility-Restriction Conduct](#313-post-employment-mobility-restriction-conduct) state the three patterns; [§3.1.4 Non-Binding Effect](#314-non-binding-effect) and [§3.1.5 Criteria Routing](#315-criteria-routing) apply to all three.
+The following patterns are **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§3.1.1 Rights-Floor Waiver Conduct](#311-rights-floor-waiver-conduct) through [§3.1.3 Post-Employment Mobility-Restriction Conduct](#313-post-employment-mobility-restriction-conduct) state the three patterns; [§3.1.4 Non-Binding Effect](#314-non-binding-effect) and [§3.1.5 Criteria Routing](#315-criteria-routing) apply to all three.
 
 <a id="311-rights-floor-waiver-conduct"></a>
 
@@ -238,7 +238,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
 
-**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible designation.
+**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible designation.
 
 The subsections below state:
 
@@ -360,7 +360,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.*
 
-**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
+**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
 - high volume, redundancy, distributed load, or automation;
 - coordination across channels;
 - ranking or discovery manipulation;
@@ -473,7 +473,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 
 *In plain terms: bribery can corrupt constitutional government from either side. Offering or giving the benefit, asking for or receiving it, routing it through an ally or shell entity, or disguising it as funding can all matter if the exchange distorts duties, records, review, votes, enforcement, or remedies.*
 
-**Bribery and improper benefit exchange** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+**Bribery and improper benefit exchange** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
 - offering, promising, or giving;
 - soliciting or requesting;
 - accepting or receiving;
@@ -496,7 +496,7 @@ when the exchange or expected exchange is materially linked to one or more of th
 - Producing Rights-Floor degradation, material rollback, system capture, or an equivalent structural workaround.
 - Making constitutional process or remedies unusable in practice through corrupt dependency, conflicted control, or concealed influence.
 
-Scope covers both sides of the exchange and anyone who routes it, provided the standing record supports accountable attribution under **Chapters Two through Four** and **section 5** safeguards. Covered actors include:
+Scope covers both sides of the exchange and anyone who routes it, provided the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports accountable attribution under the **Chapter Twenty-One section 6** safeguards. Covered actors include:
 - the **giver**, **offeror**, or **promisor**;
 - the **solicitor**;
 - the **recipient** or **beneficiary**;
@@ -568,7 +568,7 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 
 *In plain terms: an unlawful or unconstitutional order is not just a bad downstream act. Giving, approving, passing along, or enforcing the order can itself be anti-constitutional conduct. Following it is also accountable when the actor had real capacity to refuse, document, or escalate, but dependency, threat, and practical capacity matter.*
 
-**Unlawful or unconstitutional command conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+**Unlawful or unconstitutional command conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
 - issuing;
 - authorizing;
 - directing;
@@ -590,7 +590,7 @@ involving any of the following authority signals:
 
 that requires, induces, or foreseeably causes unlawful conduct or constitutional violation.
 
-**Unlawful or unconstitutional command conduct** is in scope whichever of the following roles the actor holds, as long as the standing record supports holding that actor accountable under **Chapters Two through Four** and the **section 5** safeguards:
+**Unlawful or unconstitutional command conduct** is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
 - the **issuer**;
 - the **authorizer**;
 - the **supervisor**;
@@ -827,7 +827,7 @@ The three subsections below apply the same sequence to conduct in which the acco
 
 *In plain terms: a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.*
 
-**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter’s scope** when it is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
+**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter’s scope** when it is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation.
 
 In plain words, it means giving someone a benefit, a shield, or a status because they did any of the following, or because they blocked accountability for it:
 
@@ -877,7 +877,7 @@ because an actor did any of the following regarding anti-constitutional conduct:
 
 ##### 5.1.2 Actors in Scope
 
-The conduct is in scope whichever of the following roles the actor holds, as long as the standing record supports holding that actor accountable under **Chapters Two through Four** and the **section 5** safeguards:
+The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
 - the **reward grantor**;
 - the **beneficiary**;
 - the **supervisor**;
@@ -1004,7 +1004,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.*
 
-**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when it is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
+**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when it is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation.
 
 The subsections below state:
 
@@ -1059,7 +1059,7 @@ any of the following for materially substantiated anti-constitutional misconduct
 
 ##### 5.2.2 Actors in Scope
 
-The conduct is in scope whichever of the following roles the actor holds, as long as the standing record supports holding that actor accountable under **Chapters Two through Four** and the **section 5** safeguards:
+The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
 - the **prosecutor**;
 - the **civil-enforcement counsel**;
 - the **investigator**;
@@ -1196,7 +1196,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 *In plain terms: if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.*
 
-**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation.
+**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation.
 
 The subsections below state:
 
@@ -1366,7 +1366,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 
 *In plain terms: cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.*
 
-**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **section 3** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
+**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One section 4** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
 - knowingly;
 - recklessly;
 - corruptly;
@@ -1415,7 +1415,7 @@ Accountability does not require any of the following:
 - platform status; or
 - an otherwise visible relationship to the infrastructure.
 
-The conduct is in scope wherever the standing record supports accountable attribution under **Chapters Two through Four** and **section 5** safeguards, and shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
+The conduct is in scope wherever the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports accountable attribution under the **Chapter Twenty-One section 6** safeguards, and the standing record shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
 - created it;
 - caused it;
 - maintained it;

@@ -5,7 +5,9 @@ Python utilities for this repository. Run from the repo root unless noted.
 ## Translation maintenance
 
 `tools/translation_audit.py` uses the English-source column in each locale's
-`translations/<locale>/README.md` table to run the translation checks:
+`translations/<locale>/README.md` table, resolving historical English filenames
+through the chapter registry and unique Git rename/filename history. Unresolved
+sources remain visible instead of being guessed:
 
 | Command | Checks |
 |---|---|
@@ -16,6 +18,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 | `make translation-terminology-audit` | Counts exact locale-glossary forms and emits possible review flags; it does not assess meaning or morphology |
 | `make translation-manifest-init` | Creates an inventory-only manifest snapshot; no file is marked reviewed |
 | `make translation-manifest-sync` | Adds newly mapped translations without resetting existing hashes or review records |
+| `python3 tools/translation_preannouncement.py [--base REF] [--locale xx] [--source FILE] [--output PATH]` | Builds a read-only, passage-level resync packet. It lists every local file mapped to an English source, including divergent historical-name copies, so no locale's version is silently selected or skipped. AI drafting and checking prompts do not certify meaning or human review. |
 | `python3 tools/translation_link_repair.py [--locale xx] [--scope translations/xx/FILE.md ...] [--keep-unmatched] [--write]` | Repairs local links that the link audit cannot resolve (dry run by default). `--scope` restricts the source files processed; without it, `--locale` selects a whole locale and no locale selects all. The tool maps historical English file names and a small verified set of historical fragments to current files/anchors, prefers a locale translation when its heading can be aligned, otherwise links to English, and may add `<a id>` anchors above aligned translated headings in scoped files. `--keep-unmatched` preserves links whose fragments have no current English heading match instead of dropping the fragment. It changes link targets and anchor lines only, never translated prose. |
 
 After a fluent reader who did not draft the translation has reviewed it against

@@ -309,8 +309,13 @@ def prose_from_label(label: str) -> str | None:
     return None
 
 
-def link_labels(text: str, line_no: int, fragment: str) -> list[str]:
-    lines = text.splitlines()
+def link_labels(
+    text: str,
+    line_no: int,
+    fragment: str,
+    source_lines: list[str] | None = None,
+) -> list[str]:
+    lines = source_lines if source_lines is not None else text.splitlines()
     line = lines[line_no - 1] if 1 <= line_no <= len(lines) else ""
     labels = [
         match.group(1)
@@ -347,6 +352,7 @@ def audit(root: Path) -> list[str]:
             scanned.append(path)
     for source in scanned:
         text = source.read_text(encoding="utf-8")
+        source_lines = text.splitlines()
         rel = source.relative_to(root).as_posix()
         if source.name.startswith("core_") and source.suffix == ".md":
             if source not in sequenced:
@@ -366,7 +372,7 @@ def audit(root: Path) -> list[str]:
                 continue
             if not target_path.is_file():
                 continue
-            labels = link_labels(text, link.line, fragment)
+            labels = link_labels(text, link.line, fragment, source_lines)
             if not labels:
                 continue
             prose = prose_from_label(labels[0])

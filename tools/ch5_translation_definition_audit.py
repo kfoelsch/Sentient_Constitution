@@ -105,43 +105,44 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--baseline",
-        help="Git commit to compare against (default: latest common translation-index commit)",
+        help="Use this Git commit for every locale (default: latest commit updating each locale's index)",
     )
     args = parser.parse_args()
 
     try:
-        baselines = {locale: latest_index_commit(locale) for locale in LOCALES}
-        unique = set(baselines.values())
-        if args.baseline:
-            baseline = args.baseline
-        elif len(unique) == 1:
-            baseline = unique.pop()
-        else:
-            details = ", ".join(f"{k}={v[:10]}" for k, v in baselines.items())
-            raise ValueError(
-                "Locale index histories do not share a baseline; pass --baseline explicitly. "
-                + details
-            )
-
+        baselines = {
+            locale: args.baseline or latest_index_commit(locale)
+            for locale in LOCALES
+        }
         current_source = (ROOT / SOURCE_INDEX).read_text(encoding="utf-8")
-        baseline_source = read_index_at(baseline)
         current_entries = parse_entries(current_source, SOURCE_INDEX)
-        baseline_entries = parse_entries(baseline_source, f"{baseline}:{SOURCE_INDEX}")
         current_by_label = {entry.label: entry for entry in current_entries}
-        baseline_by_label = {entry.label: entry for entry in baseline_entries}
-        added = [entry for entry in current_entries if entry.label not in baseline_by_label]
-        removed = [entry for entry in baseline_entries if entry.label not in current_by_label]
-
-        print(f"Chapter Five definitions: {len(baseline_entries)} at {baseline[:10]} → {len(current_entries)} now")
-        print(f"Added since translation baseline: {len(added)}")
-        for entry in added:
-            print(f"  + {entry.label} [{entry.target_file}#{entry.anchor}]")
-        print(f"Removed or renamed since translation baseline: {len(removed)}")
-        for entry in removed:
-            print(f"  - {entry.label} [{entry.target_file}#{entry.anchor}]")
+        baseline_entries_by_commit = {
+            commit: parse_entries(read_index_at(commit), f"{commit}:{SOURCE_INDEX}")
+            for commit in sorted(set(baselines.values()))
+        }
+        print(f"Chapter Five definitions: {len(current_entries)} current entries")
+        for commit, entries in baseline_entries_by_commit.items():
+            added = [
+                entry for entry in current_entries
+                if entry.label not in {item.label for item in entries}
+            ]
+            removed = [
+                entry for entry in entries
+                if entry.label not in current_by_label
+            ]
+            print(
+                f"Baseline {commit[:10]}: {len(entries)} entries; "
+                f"{len(added)} added and {len(removed)} removed or renamed"
+            )
 
         any_gaps = False
         for locale in LOCALES:
+            baseline = baselines[locale]
+            baseline_entries = baseline_entries_by_commit[baseline]
+            baseline_labels = {entry.label for entry in baseline_entries}
+            added = [entry for entry in current_entries if entry.label not in baseline_labels]
+            removed = [entry for entry in baseline_entries if entry.label not in current_by_label]
             path = translation_index_path(locale)
             translated_entries = parse_entries(path.read_text(encoding="utf-8"), str(path))
             translated_keys = {entry.key for entry in translated_entries}
@@ -153,7 +154,7 @@ def main() -> int:
             added_missing = [entry for entry in added if entry.key not in translated_keys]
             removed_stale = [entry for entry in removed if entry.key in translated_keys]
             print(
-                f"{locale}: full coverage {len(missing)} missing / {len(stale)} stale; "
+                f"{locale} (baseline {baseline[:10]}): full coverage {len(missing)} missing / {len(stale)} stale; "
                 f"since baseline {len(added_missing)} missing additions / {len(removed_stale)} stale removals"
             )
             for entry in missing:
