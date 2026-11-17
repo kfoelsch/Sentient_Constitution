@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-17T14:35:02+00:00",
+  "generated_at": "2026-11-17T15:11:26+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 549,
@@ -1845,16 +1845,17 @@
       ]
     },
     "corpus_joint_structure/cjs_reader_guide.md": {
-      "total_lines": 114,
+      "total_lines": 119,
       "sections": [
-        {"header":"Joint-Structure Reader Guide","level":1,"line_start":1,"line_end":114,"anchor":null},
-        {"header":"Where to Start","level":2,"line_start":19,"line_end":28,"anchor":null},
-        {"header":"The Four Implementation Layers","level":2,"line_start":29,"line_end":41,"anchor":null},
-        {"header":"How Labels Work","level":2,"line_start":42,"line_end":74,"anchor":null},
-        {"header":"When More Than One Layer Applies","level":2,"line_start":75,"line_end":79,"anchor":null},
-        {"header":"How to Read an oDef Entry","level":2,"line_start":80,"line_end":91,"anchor":null},
-        {"header":"Map of CJS Files","level":2,"line_start":92,"line_end":105,"anchor":null},
-        {"header":"Editors and Auditors","level":2,"line_start":106,"line_end":114,"anchor":null}
+        {"header":"Joint-Structure Reader Guide","level":1,"line_start":1,"line_end":119,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":15,"line_end":22,"anchor":null},
+        {"header":"Where to Start","level":2,"line_start":23,"line_end":32,"anchor":null},
+        {"header":"The Four Implementation Layers","level":2,"line_start":33,"line_end":45,"anchor":null},
+        {"header":"How Labels Work","level":2,"line_start":46,"line_end":78,"anchor":null},
+        {"header":"When More Than One Layer Applies","level":2,"line_start":79,"line_end":83,"anchor":null},
+        {"header":"How to Read an oDef Entry","level":2,"line_start":84,"line_end":95,"anchor":null},
+        {"header":"Map of CJS Files","level":2,"line_start":96,"line_end":110,"anchor":null},
+        {"header":"Editors and Auditors","level":2,"line_start":111,"line_end":119,"anchor":null}
       ]
     },
     "corpus_systems/cs_00.305_registry_and_reading_rules.md": {
