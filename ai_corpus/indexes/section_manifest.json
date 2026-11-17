@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-17T15:11:26+00:00",
+  "generated_at": "2026-11-17T21:05:54+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 549,
@@ -1677,58 +1677,63 @@
       ]
     },
     "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md": {
-      "total_lines": 416,
+      "total_lines": 421,
       "sections": [
-        {"header":"CJS-5.105: Operational Cluster Library (oDef)","level":1,"line_start":1,"line_end":416,"anchor":null},
-        {"header":"CJS-5.105 §0 Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface","level":2,"line_start":42,"line_end":331,"anchor":null},
-        {"header":"CJS-5.105 §1 Library: Constitutional Compass and Cluster Map","level":2,"line_start":332,"line_end":416,"anchor":"#stewardship-role-c"}
+        {"header":"CJS-5.105: Operational Cluster Library (oDef)","level":1,"line_start":1,"line_end":421,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":39,"line_end":46,"anchor":null},
+        {"header":"CJS-5.105 §0 Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface","level":2,"line_start":47,"line_end":336,"anchor":null},
+        {"header":"CJS-5.105 §1 Library: Constitutional Compass and Cluster Map","level":2,"line_start":337,"line_end":421,"anchor":"#stewardship-role-c"}
       ]
     },
     "corpus_joint_structure/cjs_05.110_oversight_operations.md": {
-      "total_lines": 1116,
+      "total_lines": 1120,
       "sections": [
-        {"header":"CJS-5.110: Oversight Leg Operations (oDef.2–oDef.6)","level":1,"line_start":1,"line_end":1116,"anchor":null},
-        {"header":"CJS-5.110 §2 Oversight: Reflexive Transparency and Accountability Terms","level":2,"line_start":44,"line_end":252,"anchor":null},
-        {"header":"CJS-5.110 §3 Oversight: Auditability and Reconstructability Terms (Annex)","level":2,"line_start":253,"line_end":380,"anchor":"#transparency-audit-and-verification-integrity-duties-c"},
-        {"header":"CJS-5.110 §4 Oversight: Transparency Levels and Audit-Access Terms","level":2,"line_start":381,"line_end":598,"anchor":"#operational-transparency-and-structured-logging-requirements-c"},
-        {"header":"CJS-5.110 §5 Oversight: Independent Verification and Claim-Integrity Terms","level":2,"line_start":599,"line_end":755,"anchor":"#access-level-structure-and-baseline-accessibility-c"},
-        {"header":"CJS-5.110 §6 Oversight: Integrity Assurance and Resilience Operations","level":2,"line_start":756,"line_end":1116,"anchor":"#structured-review-and-incentive-integrity-minimum-c"}
+        {"header":"CJS-5.110: Oversight Leg Operations (oDef.2–oDef.6)","level":1,"line_start":1,"line_end":1120,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":32,"line_end":51,"anchor":null},
+        {"header":"CJS-5.110 §2 Oversight: Reflexive Transparency and Accountability Terms","level":2,"line_start":52,"line_end":255,"anchor":null},
+        {"header":"CJS-5.110 §3 Oversight: Auditability and Reconstructability Terms (Annex)","level":2,"line_start":256,"line_end":383,"anchor":"#transparency-audit-and-verification-integrity-duties-c"},
+        {"header":"CJS-5.110 §4 Oversight: Transparency Levels and Audit-Access Terms","level":2,"line_start":384,"line_end":601,"anchor":"#operational-transparency-and-structured-logging-requirements-c"},
+        {"header":"CJS-5.110 §5 Oversight: Independent Verification and Claim-Integrity Terms","level":2,"line_start":602,"line_end":756,"anchor":"#access-level-structure-and-baseline-accessibility-c"},
+        {"header":"CJS-5.110 §6 Oversight: Integrity Assurance and Resilience Operations","level":2,"line_start":757,"line_end":1120,"anchor":"#structured-review-and-incentive-integrity-minimum-c"}
       ]
     },
     "corpus_joint_structure/cjs_05.115_audit_process.md": {
-      "total_lines": 163,
+      "total_lines": 175,
       "sections": [
-        {"header":"CJS-5.115: Audit Process Home (oDef.3)","level":1,"line_start":2,"line_end":163,"anchor":null},
-        {"header":"CJS-5.115 §3 Audit Process Home (oDef.3)","level":2,"line_start":61,"line_end":163,"anchor":null},
-        {"header":"What Auditing Is","level":3,"line_start":63,"line_end":83,"anchor":null},
-        {"header":"Why We Audit","level":3,"line_start":84,"line_end":97,"anchor":null},
-        {"header":"How We Audit","level":3,"line_start":98,"line_end":117,"anchor":null},
-        {"header":"When We Audit","level":3,"line_start":118,"line_end":134,"anchor":null},
-        {"header":"Sibling Audit Modes (Owner Map)","level":3,"line_start":135,"line_end":163,"anchor":null}
+        {"header":"CJS-5.115: Audit Process Home (oDef.3)","level":1,"line_start":2,"line_end":175,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":57,"line_end":68,"anchor":null},
+        {"header":"CJS-5.115 §3 Audit Process Home (oDef.3)","level":2,"line_start":69,"line_end":175,"anchor":null},
+        {"header":"What Auditing Is","level":3,"line_start":71,"line_end":93,"anchor":null},
+        {"header":"Why We Audit","level":3,"line_start":94,"line_end":108,"anchor":null},
+        {"header":"How We Audit","level":3,"line_start":109,"line_end":128,"anchor":null},
+        {"header":"When We Audit","level":3,"line_start":129,"line_end":145,"anchor":null},
+        {"header":"Sibling Audit Modes (Owner Map)","level":3,"line_start":146,"line_end":175,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_05.120_participation_operations.md": {
       "total_lines": 883,
       "sections": [
         {"header":"CJS-5.120: Participation Leg Operations (oDef.7–oDef.10)","level":1,"line_start":1,"line_end":883,"anchor":null},
-        {"header":"CJS-5.120 §7 Participation: Quorum and Participatory Legitimacy Terms","level":2,"line_start":42,"line_end":296,"anchor":null},
-        {"header":"CJS-5.120 §8 Participation: Comprehensibility and Cognitive Accessibility Terms","level":2,"line_start":297,"line_end":514,"anchor":"#weighted-participation-c"},
-        {"header":"CJS-5.120 §9 Participation: Salience Integrity and Attention-Allocation Terms","level":2,"line_start":515,"line_end":725,"anchor":"#summary-integrity-c"},
-        {"header":"CJS-5.120 §10 Participation: Disclosure Sufficiency and Observability Terms","level":2,"line_start":726,"line_end":883,"anchor":"#user-agency-and-control-c"}
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":32,"line_end":48,"anchor":null},
+        {"header":"CJS-5.120 §7 Participation: Quorum and Participatory Legitimacy Terms","level":2,"line_start":49,"line_end":302,"anchor":null},
+        {"header":"CJS-5.120 §8 Participation: Comprehensibility and Cognitive Accessibility Terms","level":2,"line_start":303,"line_end":520,"anchor":"#weighted-participation-c"},
+        {"header":"CJS-5.120 §9 Participation: Salience Integrity and Attention-Allocation Terms","level":2,"line_start":521,"line_end":726,"anchor":"#summary-integrity-c"},
+        {"header":"CJS-5.120 §10 Participation: Disclosure Sufficiency and Observability Terms","level":2,"line_start":727,"line_end":883,"anchor":"#user-agency-and-control-c"}
       ]
     },
     "corpus_joint_structure/cjs_05.125_accountability_operations.md": {
-      "total_lines": 1356,
+      "total_lines": 1334,
       "sections": [
-        {"header":"CJS-5.125: Accountability Leg Operations (oDef.11–oDef.15)","level":1,"line_start":1,"line_end":1356,"anchor":null},
-        {"header":"CJS-5.125 §11 Accountability: Distributed and Proportional Authority Terms","level":2,"line_start":43,"line_end":436,"anchor":null},
-        {"header":"CJS-5.125 §11.1 Market Concentration Threshold-Setting Discipline (Adopter-Tunable)","level":3,"line_start":119,"line_end":173,"anchor":"#distributed-and-proportional-authority-terms-c"},
-        {"header":"CJS-5.125 §11.2 Anti-Domination Conduct and Remediation Catalog","level":3,"line_start":174,"line_end":230,"anchor":"#market-concentration-threshold-activation-c"},
-        {"header":"CJS-5.125 §11.3 Consolidation Ceiling-Setting Discipline (Adopter-Tunable)","level":3,"line_start":231,"line_end":436,"anchor":"#anti-domination-conduct-and-remediation-catalog-c"},
-        {"header":"CJS-5.125 §12 Accountability: Burden-of-Justification and Constraint Terms","level":2,"line_start":437,"line_end":694,"anchor":"#stewardship-role-depth-and-non-symbolic-governance-boundary-c"},
-        {"header":"CJS-5.125 §13 Accountability: Procedural Integrity and Adjudication Terms","level":2,"line_start":695,"line_end":979,"anchor":"#temporal-discipline-and-revalidation-c"},
-        {"header":"CJS-5.125 §14 Accountability: Intervention Governance and Override-Authorization Terms","level":2,"line_start":980,"line_end":1148,"anchor":"#uncertainty-safeguards-and-anti-abuse-minimum-c"},
-        {"header":"CJS-5.125 §15 Accountability: Structural Review, Correction Urgency, and Disclosure Terms","level":2,"line_start":1149,"line_end":1356,"anchor":"#records-transparency-and-challenge-pathway-duties-c"}
+        {"header":"CJS-5.125: Accountability Leg Operations (oDef.11–oDef.15)","level":1,"line_start":1,"line_end":1334,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":32,"line_end":49,"anchor":null},
+        {"header":"CJS-5.125 §11 Accountability: Distributed and Proportional Authority Terms","level":2,"line_start":50,"line_end":430,"anchor":null},
+        {"header":"CJS-5.125 §11.1 Market Concentration Threshold-Setting Discipline (Adopter-Tunable)","level":3,"line_start":113,"line_end":167,"anchor":"#distributed-and-proportional-authority-terms-c"},
+        {"header":"CJS-5.125 §11.2 Anti-Domination Conduct and Remediation Catalog","level":3,"line_start":168,"line_end":224,"anchor":"#market-concentration-threshold-activation-c"},
+        {"header":"CJS-5.125 §11.3 Consolidation Ceiling-Setting Discipline (Adopter-Tunable)","level":3,"line_start":225,"line_end":430,"anchor":"#anti-domination-conduct-and-remediation-catalog-c"},
+        {"header":"CJS-5.125 §12 Accountability: Burden-of-Justification and Constraint Terms","level":2,"line_start":431,"line_end":681,"anchor":"#stewardship-role-depth-and-non-symbolic-governance-boundary-c"},
+        {"header":"CJS-5.125 §13 Accountability: Procedural Integrity and Adjudication Terms","level":2,"line_start":682,"line_end":961,"anchor":"#temporal-discipline-and-revalidation-c"},
+        {"header":"CJS-5.125 §14 Accountability: Intervention Governance and Override-Authorization Terms","level":2,"line_start":962,"line_end":1123,"anchor":"#uncertainty-safeguards-and-anti-abuse-minimum-c"},
+        {"header":"CJS-5.125 §15 Accountability: Structural Review, Correction Urgency, and Disclosure Terms","level":2,"line_start":1124,"line_end":1334,"anchor":"#records-transparency-and-challenge-pathway-duties-c"}
       ]
     },
     "corpus_joint_structure/cjs_05.130_continuity_operations.md": {
@@ -1752,96 +1757,101 @@
       ]
     },
     "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md": {
-      "total_lines": 131,
+      "total_lines": 140,
       "sections": [
-        {"header":"CJS-5.140: oDef Parse Mechanics","level":1,"line_start":1,"line_end":131,"anchor":null},
-        {"header":"CJS-5.140 §13: Operational Structure and Subsection-Local Terminology","level":2,"line_start":42,"line_end":81,"anchor":null},
-        {"header":"CJS-5.140 §14: Operational Clusters","level":2,"line_start":82,"line_end":131,"anchor":null}
+        {"header":"CJS-5.140: oDef Parse Mechanics","level":1,"line_start":1,"line_end":140,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":40,"line_end":45,"anchor":null},
+        {"header":"CJS-5.140 §13: Operational Structure and Subsection-Local Terminology","level":2,"line_start":46,"line_end":87,"anchor":null},
+        {"header":"CJS-5.140 §14: Operational Clusters","level":2,"line_start":88,"line_end":140,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_08.105_support_hosting_classification.md": {
-      "total_lines": 90,
+      "total_lines": 96,
       "sections": [
-        {"header":"CJS-8.105: Support Roles, Hosting Independence, and Classification Alignment","level":1,"line_start":1,"line_end":90,"anchor":null},
-        {"header":"CJS-8.105 §9: Boundary between Support Roles and Merits Decisions","level":2,"line_start":47,"line_end":67,"anchor":null},
-        {"header":"CJS-8.105 §10: Institution-Hosted or Forum-Adjacent Operations","level":2,"line_start":68,"line_end":76,"anchor":null},
-        {"header":"CJS-8.105 §11: Classification Alignment for Supervised Scope","level":2,"line_start":77,"line_end":90,"anchor":null}
+        {"header":"CJS-8.105: Support Roles, Hosting Independence, and Classification Alignment","level":1,"line_start":1,"line_end":96,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":47,"line_end":52,"anchor":null},
+        {"header":"CJS-8.105 §9: Boundary between Support Roles and Merits Decisions","level":2,"line_start":53,"line_end":73,"anchor":null},
+        {"header":"CJS-8.105 §10: Institution-Hosted or Forum-Adjacent Operations","level":2,"line_start":74,"line_end":82,"anchor":null},
+        {"header":"CJS-8.105 §11: Classification Alignment for Supervised Scope","level":2,"line_start":83,"line_end":96,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_15.105_application_vignettes.md": {
-      "total_lines": 619,
+      "total_lines": 628,
       "sections": [
-        {"header":"CJS-15.105: Application Vignettes","level":1,"line_start":1,"line_end":619,"anchor":null},
-        {"header":"CJS-15.105 §1 Child Neglect / Care-Duty Failure (Tier A)","level":2,"line_start":58,"line_end":106,"anchor":null},
-        {"header":"Situation","level":3,"line_start":62,"line_end":65,"anchor":null},
-        {"header":"Legacy Failure Mode","level":3,"line_start":66,"line_end":69,"anchor":null},
-        {"header":"Pipeline Pass","level":3,"line_start":70,"line_end":82,"anchor":null},
-        {"header":"Milestone Table (Tier A Defaults)","level":3,"line_start":83,"line_end":95,"anchor":null},
-        {"header":"Must Not Happen","level":3,"line_start":96,"line_end":106,"anchor":null},
-        {"header":"CJS-15.105 §2 Employment Discrimination / Participation-Barrier Injury (Tier B)","level":2,"line_start":107,"line_end":152,"anchor":null},
-        {"header":"Situation","level":3,"line_start":111,"line_end":114,"anchor":null},
-        {"header":"Legacy Failure Mode","level":3,"line_start":115,"line_end":118,"anchor":null},
-        {"header":"Pipeline Pass","level":3,"line_start":119,"line_end":130,"anchor":null},
-        {"header":"Milestone Table (Tier B Defaults)","level":3,"line_start":131,"line_end":142,"anchor":null},
-        {"header":"Must Not Happen","level":3,"line_start":143,"line_end":152,"anchor":null},
-        {"header":"CJS-15.105 §3 Misaligned Business / Exit Lock-in and Externalized Harm (Tier B)","level":2,"line_start":153,"line_end":200,"anchor":null},
-        {"header":"Situation","level":3,"line_start":157,"line_end":160,"anchor":null},
-        {"header":"Legacy Failure Mode","level":3,"line_start":161,"line_end":164,"anchor":null},
-        {"header":"Pipeline Pass","level":3,"line_start":165,"line_end":176,"anchor":null},
-        {"header":"Milestone Table (Tier B Urgency; Later-Stage Time-Scale May Extend)","level":3,"line_start":177,"line_end":190,"anchor":null},
-        {"header":"Must Not Happen","level":3,"line_start":191,"line_end":200,"anchor":null},
-        {"header":"CJS-15.105 §4 Stewardship Delay and Deferred Repair","level":2,"line_start":201,"line_end":219,"anchor":null},
-        {"header":"CJS-15.105 §5 Pipeline Overrun and Tetrad-Hollow Forums","level":2,"line_start":220,"line_end":235,"anchor":null},
-        {"header":"CJS-15.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)","level":2,"line_start":236,"line_end":297,"anchor":null},
-        {"header":"Situation","level":3,"line_start":240,"line_end":244,"anchor":null},
-        {"header":"Who Is Acting","level":3,"line_start":245,"line_end":254,"anchor":"#vignette-6-who-is-acting"},
-        {"header":"Legacy Failure Mode","level":3,"line_start":255,"line_end":258,"anchor":null},
-        {"header":"Pipeline Pass","level":3,"line_start":259,"line_end":272,"anchor":null},
-        {"header":"Milestone Table (Tier A Defaults)","level":3,"line_start":273,"line_end":283,"anchor":null},
-        {"header":"Must Not Happen","level":3,"line_start":284,"line_end":297,"anchor":null},
-        {"header":"CJS-15.105 §7 An Ordinary Year with No Filing and No Sensitive Role","level":2,"line_start":298,"line_end":338,"anchor":null},
-        {"header":"Situation","level":3,"line_start":302,"line_end":305,"anchor":null},
-        {"header":"Legacy Failure Mode","level":3,"line_start":306,"line_end":309,"anchor":null},
-        {"header":"What the Year Looks Like","level":3,"line_start":310,"line_end":321,"anchor":null},
-        {"header":"The Honest Cost, Stated Once","level":3,"line_start":322,"line_end":325,"anchor":null},
-        {"header":"Must Not Happen","level":3,"line_start":326,"line_end":338,"anchor":null},
-        {"header":"CJS-15.105 §8 Riparian Cooperative Restoration (Contribution Measurement)","level":2,"line_start":339,"line_end":390,"anchor":null},
-        {"header":"CJS-15.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)","level":2,"line_start":391,"line_end":447,"anchor":null},
-        {"header":"CJS-15.105 §10 Question 3 Routing Patterns","level":2,"line_start":448,"line_end":596,"anchor":null},
-        {"header":"10.1 Forum-Integrity Deception or Recusal Failure","level":3,"line_start":454,"line_end":461,"anchor":null},
-        {"header":"10.2 Recurrence After Completed Restitution","level":3,"line_start":462,"line_end":474,"anchor":null},
-        {"header":"10.3 Champion Repair While a Lock Remains Active","level":3,"line_start":475,"line_end":485,"anchor":null},
-        {"header":"10.4 Institutional Misuse and Successor Evasion","level":3,"line_start":486,"line_end":498,"anchor":null},
-        {"header":"10.5 Misaligned Reward Retention","level":3,"line_start":499,"line_end":506,"anchor":null},
-        {"header":"10.6 Anti-Constitutional Misconduct Allegation","level":3,"line_start":507,"line_end":519,"anchor":null},
-        {"header":"10.7 Rights-Floor Waiver or Unconstitutional Contract Devices","level":3,"line_start":520,"line_end":531,"anchor":null},
-        {"header":"10.8 Contest-Pathway or Info-Sphere Flooding","level":3,"line_start":532,"line_end":543,"anchor":null},
-        {"header":"10.9 Infrastructure Denial or Dependency Cutoff","level":3,"line_start":544,"line_end":556,"anchor":null},
-        {"header":"10.10 Stakeholder-Participation Corruption or False-Stake Abuse","level":3,"line_start":557,"line_end":567,"anchor":null},
-        {"header":"10.11 Obstruction of Accountability","level":3,"line_start":568,"line_end":581,"anchor":null},
-        {"header":"10.12 Verified Cruelty Character","level":3,"line_start":582,"line_end":596,"anchor":null},
-        {"header":"CJS-15.105 §11 Cross-Vignette Discipline","level":2,"line_start":597,"line_end":619,"anchor":null}
+        {"header":"CJS-15.105: Application Vignettes","level":1,"line_start":1,"line_end":628,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":56,"line_end":63,"anchor":null},
+        {"header":"CJS-15.105 §1 Child Neglect / Care-Duty Failure (Tier A)","level":2,"line_start":64,"line_end":112,"anchor":null},
+        {"header":"Situation","level":3,"line_start":68,"line_end":71,"anchor":null},
+        {"header":"Legacy Failure Mode","level":3,"line_start":72,"line_end":75,"anchor":null},
+        {"header":"Pipeline Pass","level":3,"line_start":76,"line_end":88,"anchor":null},
+        {"header":"Milestone Table (Tier A Defaults)","level":3,"line_start":89,"line_end":101,"anchor":null},
+        {"header":"Must Not Happen","level":3,"line_start":102,"line_end":112,"anchor":null},
+        {"header":"CJS-15.105 §2 Employment Discrimination / Participation-Barrier Injury (Tier B)","level":2,"line_start":113,"line_end":158,"anchor":null},
+        {"header":"Situation","level":3,"line_start":117,"line_end":120,"anchor":null},
+        {"header":"Legacy Failure Mode","level":3,"line_start":121,"line_end":124,"anchor":null},
+        {"header":"Pipeline Pass","level":3,"line_start":125,"line_end":136,"anchor":null},
+        {"header":"Milestone Table (Tier B Defaults)","level":3,"line_start":137,"line_end":148,"anchor":null},
+        {"header":"Must Not Happen","level":3,"line_start":149,"line_end":158,"anchor":null},
+        {"header":"CJS-15.105 §3 Misaligned Business / Exit Lock-in and Externalized Harm (Tier B)","level":2,"line_start":159,"line_end":206,"anchor":null},
+        {"header":"Situation","level":3,"line_start":163,"line_end":166,"anchor":null},
+        {"header":"Legacy Failure Mode","level":3,"line_start":167,"line_end":170,"anchor":null},
+        {"header":"Pipeline Pass","level":3,"line_start":171,"line_end":182,"anchor":null},
+        {"header":"Milestone Table (Tier B Urgency; Later-Stage Time-Scale May Extend)","level":3,"line_start":183,"line_end":196,"anchor":null},
+        {"header":"Must Not Happen","level":3,"line_start":197,"line_end":206,"anchor":null},
+        {"header":"CJS-15.105 §4 Stewardship Delay and Deferred Repair","level":2,"line_start":207,"line_end":225,"anchor":null},
+        {"header":"CJS-15.105 §5 Pipeline Overrun and Tetrad-Hollow Forums","level":2,"line_start":226,"line_end":241,"anchor":null},
+        {"header":"CJS-15.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)","level":2,"line_start":242,"line_end":306,"anchor":null},
+        {"header":"Situation","level":3,"line_start":246,"line_end":250,"anchor":null},
+        {"header":"Who Is Acting","level":3,"line_start":251,"line_end":260,"anchor":"#vignette-6-who-is-acting"},
+        {"header":"Legacy Failure Mode","level":3,"line_start":261,"line_end":264,"anchor":null},
+        {"header":"Pipeline Pass","level":3,"line_start":265,"line_end":278,"anchor":null},
+        {"header":"Milestone Table (Tier A Defaults)","level":3,"line_start":279,"line_end":292,"anchor":null},
+        {"header":"Must Not Happen","level":3,"line_start":293,"line_end":306,"anchor":null},
+        {"header":"CJS-15.105 §7 An Ordinary Year with No Filing and No Sensitive Role","level":2,"line_start":307,"line_end":347,"anchor":null},
+        {"header":"Situation","level":3,"line_start":311,"line_end":314,"anchor":null},
+        {"header":"Legacy Failure Mode","level":3,"line_start":315,"line_end":318,"anchor":null},
+        {"header":"What the Year Looks Like","level":3,"line_start":319,"line_end":330,"anchor":null},
+        {"header":"The Honest Cost, Stated Once","level":3,"line_start":331,"line_end":334,"anchor":null},
+        {"header":"Must Not Happen","level":3,"line_start":335,"line_end":347,"anchor":null},
+        {"header":"CJS-15.105 §8 Riparian Cooperative Restoration (Contribution Measurement)","level":2,"line_start":348,"line_end":399,"anchor":null},
+        {"header":"CJS-15.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)","level":2,"line_start":400,"line_end":456,"anchor":null},
+        {"header":"CJS-15.105 §10 Question 3 Routing Patterns","level":2,"line_start":457,"line_end":605,"anchor":null},
+        {"header":"10.1 Forum-Integrity Deception or Recusal Failure","level":3,"line_start":463,"line_end":470,"anchor":null},
+        {"header":"10.2 Recurrence After Completed Restitution","level":3,"line_start":471,"line_end":483,"anchor":null},
+        {"header":"10.3 Champion Repair While a Lock Remains Active","level":3,"line_start":484,"line_end":494,"anchor":null},
+        {"header":"10.4 Institutional Misuse and Successor Evasion","level":3,"line_start":495,"line_end":507,"anchor":null},
+        {"header":"10.5 Misaligned Reward Retention","level":3,"line_start":508,"line_end":515,"anchor":null},
+        {"header":"10.6 Anti-Constitutional Misconduct Allegation","level":3,"line_start":516,"line_end":528,"anchor":null},
+        {"header":"10.7 Rights-Floor Waiver or Unconstitutional Contract Devices","level":3,"line_start":529,"line_end":540,"anchor":null},
+        {"header":"10.8 Contest-Pathway or Info-Sphere Flooding","level":3,"line_start":541,"line_end":552,"anchor":null},
+        {"header":"10.9 Infrastructure Denial or Dependency Cutoff","level":3,"line_start":553,"line_end":565,"anchor":null},
+        {"header":"10.10 Stakeholder-Participation Corruption or False-Stake Abuse","level":3,"line_start":566,"line_end":576,"anchor":null},
+        {"header":"10.11 Obstruction of Accountability","level":3,"line_start":577,"line_end":590,"anchor":null},
+        {"header":"10.12 Verified Cruelty Character","level":3,"line_start":591,"line_end":605,"anchor":null},
+        {"header":"CJS-15.105 §11 Cross-Vignette Discipline","level":2,"line_start":606,"line_end":628,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_29.105_drafting_contracts.md": {
-      "total_lines": 131,
+      "total_lines": 138,
       "sections": [
-        {"header":"CJS-29.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":131,"anchor":null},
-        {"header":"CJS-29.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":35,"line_end":54,"anchor":null},
-        {"header":"CJS-29.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":55,"line_end":131,"anchor":null},
-        {"header":"CJS-29.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":95,"line_end":131,"anchor":null}
+        {"header":"CJS-29.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":138,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":33,"line_end":40,"anchor":null},
+        {"header":"CJS-29.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":41,"line_end":60,"anchor":null},
+        {"header":"CJS-29.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":61,"line_end":138,"anchor":null},
+        {"header":"CJS-29.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":101,"line_end":138,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md": {
-      "total_lines": 287,
+      "total_lines": 295,
       "sections": [
-        {"header":"CJS-29.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":287,"anchor":null},
-        {"header":"CJS-29.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":89,"line_end":157,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
-        {"header":"CJS-29.110 §1.1 Composition Minimum","level":3,"line_start":115,"line_end":143,"anchor":null},
-        {"header":"CJS-29.110 §1.2 Attachment Publication","level":3,"line_start":144,"line_end":157,"anchor":null},
-        {"header":"CJS-29.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":158,"line_end":200,"anchor":null},
-        {"header":"CJS-29.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":201,"line_end":239,"anchor":null},
-        {"header":"CJS-29.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":240,"line_end":287,"anchor":null}
+        {"header":"CJS-29.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":295,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":69,"line_end":94,"anchor":null},
+        {"header":"CJS-29.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":95,"line_end":163,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
+        {"header":"CJS-29.110 §1.1 Composition Minimum","level":3,"line_start":121,"line_end":149,"anchor":null},
+        {"header":"CJS-29.110 §1.2 Attachment Publication","level":3,"line_start":150,"line_end":163,"anchor":null},
+        {"header":"CJS-29.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":164,"line_end":207,"anchor":null},
+        {"header":"CJS-29.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":208,"line_end":247,"anchor":null},
+        {"header":"CJS-29.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":248,"line_end":295,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_reader_guide.md": {

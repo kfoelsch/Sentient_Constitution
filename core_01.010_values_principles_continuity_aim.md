@@ -510,7 +510,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Downstream: **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules);
   - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination);
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
-  - [CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (
+  - [CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (
   - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
   - [Chapter Sixteen §2 Question 2 — How Good or Bad Was It?](core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it) (16.000 §2);
   - [Chapter Twenty-Two §6.1 Concentration-based subversion](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1).
@@ -583,7 +583,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold); [Dependency](core_05.040_band_continuity.md#dependency).
-- Downstream: [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (operative threshold-setting rules).
+- Downstream: [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (operative threshold-setting rules).
 
 </details>
 
@@ -897,7 +897,7 @@ The following remain in scope where they preserve effective consolidation while 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment).
-- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (remedy routing on ceiling violation); [Chapter Twenty-Two §6.1](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1).
+- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (remedy routing on ceiling violation); [Chapter Twenty-Two §6.1](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1).
 
 </details>
 
@@ -942,7 +942,7 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
   - [Article V-A: Dependency Mapping and Resource-Flow Transparency](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency), and
   - [Article V-B: Cross-System Fairness and Sustainability](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability);
   - [Chapter Nine §3.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation) (9.000 §3.2) and [§6.3.5 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation) (9.000 §6.3.5) (*the certification step-up when a system becomes a choke point*);
-  - [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (operative threshold-setting rules);
+  - [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (operative threshold-setting rules);
   - [CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and
   - [CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*).
 
