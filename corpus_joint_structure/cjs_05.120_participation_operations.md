@@ -29,7 +29,14 @@ This file is the joint-structure implementation home for **Participation leg (CJ
 
 *In plain terms: These clusters carry the **Participation** leg into working terms: who must be in the room for a decision to count, whether what is disclosed can actually be understood, whether important information is buried under trivia, and whether enough is visible to contest an outcome at all.*
 
+## Purpose, Role, and Scope
+
+**Purpose:** Provide shared operational terms for meaningful participation across implementation layers.
+
+**Role:** These clusters address participatory legitimacy, comprehensibility, salience, and disclosure so affected sentients can understand and contest outcomes.
+
 This family operationalizes the **Participation** leg of the [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad): quorum, comprehension, salience, and disclosure pathways that let materially affected sentients understand, contest, and shape outcomes. Primary constitutional aim: [Flourishing](../core_00.000_preamble.md#flourishing).
+
 | Cluster | Section |
 |---|---|
 | **CJS-5.120 §7** / **oDef.7** | Participation: quorum and participatory legitimacy terms |
@@ -44,10 +51,9 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*); **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
-- Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), and **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*) for authority, participation legitimacy, and procedural integrity terms
-- Read with: **Sentient Constitution Chapter Twenty-Five** section 5
-- Read with: **Chapter Six **Article X-B** (*Governance Participation and Voting Entitlement*)**
-- Read with: **Chapter Six **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)**
+- Read with: [Chapter Twenty-Five §5 Voting and Binding Collective Choice Protocols](../core_25.000_governance.md#5-voting-and-binding-collective-choice-protocols).
+- Read with: [Article X-B Governance Participation and Voting Entitlement](../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- Read with: [Article XII Stakeholder System Participation, Representation, and Due Process](../core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.1, §6, §13.2, §18, §15, §17 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -91,7 +97,7 @@ quorum and participatory legitimacy terms
 <a id="commons-cooperative-and-mutual-aid-pathway-integrity"></a>
 Commons, cooperative, and mutual-aid pathway integrity
 
-*In plain terms: where an implementation scope relies on commons governance, cooperative stewardship, mutual aid, participatory budgeting, community-managed resources, or non-market reciprocity, records of stewardship rotation, mutual obligation,…*
+*In plain terms: commons and mutual-aid arrangements need understandable records of stewardship, obligations, conflict handling, and resource allocation without being forced into a single institutional form.*
 
 - **What it is**
   - **In scope:** Where an implementation scope relies on commons governance, cooperative stewardship, mutual aid, participatory budgeting, community-managed resources, or non-market reciprocity, records of stewardship rotation, mutual obligation, conflict handling, and resource allocation must be legible enough for funding, continuity, audit, fraud-control, and participation review without forcing the commons, cooperative, or mutual-aid pathway into only state, corporate, or adversarial-forum forms.
@@ -108,7 +114,7 @@ Commons, cooperative, and mutual-aid pathway integrity
 <a id="community-and-associational-pathway-integrity"></a>
 Community and associational pathway integrity
 
-*In plain terms: where an implementation scope controls shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, non-instrumental time, or comparable association pathways, access rules must preserve practical…*
+*In plain terms: rules for shared spaces and association must preserve practical participation, the freedom not to associate or to leave coercive settings, and protection from exclusion by hostile design.*
 
 - **What it is**
   - **In scope:** Where an implementation scope controls shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, non-instrumental time, or comparable association pathways, access rules must preserve practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion.
@@ -142,16 +148,16 @@ Eligibility and engagement pathway check
 <a id="foundational-constitutional-choice-equality-floor"></a>
 Foundational constitutional choice equality floor
 
-*In plain terms: where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful standing-lock and…*
+*In plain terms: for **Foundational Constitutional Choice**, each eligible sentient has equal participation weight, subject only to lawful standing-lock and restitution-linked limits recognized by the Constitution.*
 
 - **What it is**
   - **In scope:** Where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful standing-lock and restitution-linked limits recognized by the Constitution.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in foundational constitutional choice equality floor.
 <a id="foundational-constitutional-choice-equality-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twenty-Five section 5.1 and **Article X-B** (*Governance Participation and Voting Entitlement*)
+  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with [Chapter Twenty-Five §5.1 Entitlement and Eligibility](../core_25.000_governance.md#51-entitlement-and-eligibility) and **Article X-B** (*Governance Participation and Voting Entitlement*)
 
-    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twenty-Five section 5.1 and **Article X-B** (*Governance Participation and Voting Entitlement*).
+    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with [Chapter Twenty-Five §5.1 Entitlement and Eligibility](../core_25.000_governance.md#51-entitlement-and-eligibility) and **Article X-B** (*Governance Participation and Voting Entitlement*).
 <a id="foundational-constitutional-choice-equality-floor-c"></a>
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
@@ -159,7 +165,7 @@ Foundational constitutional choice equality floor
 <a id="governance-layer-assignment"></a>
 Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System Participation)
 
-*In plain terms: participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of…*
+*In plain terms: participation rules must distinguish foundational constitutional choice from stakeholder participation in an already-authorized system, institution, or bounded decision domain.*
 
 - **What it is**
   - **In scope:** Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
@@ -244,7 +250,7 @@ Quorum source and binding-effect gate
 <a id="stakeholder-oversight-and-binding-governance-pathway-integrity"></a>
 Stakeholder oversight and binding-governance pathway integrity
 
-*In plain terms: where a materially affected stakeholder channel is used for governance, review, consultation, notice, or binding input, the implementation scope must publish how stakeholder status is identified, what participation or review rights…*
+*In plain terms: when a materially affected stakeholder channel is used, publish who qualifies, what rights and challenge paths follow, and whether the participation is advisory, binding, or otherwise used for governance.*
 
 - **What it is**
   - **In scope:** Where a materially affected stakeholder channel is used for governance, review, consultation, notice, or binding input, the implementation scope must publish how stakeholder status is identified, what participation or review rights follow, which challenge and correction paths exist, and whether the resulting participation pathway is advisory, binding, or otherwise relied on for governance effect.
@@ -261,10 +267,10 @@ Stakeholder oversight and binding-governance pathway integrity
 <a id="stakeholder-governance-participation-floor"></a>
 Stakeholder System Participation floor
 
-*In plain terms: where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be…*
+*In plain terms: within already-authorized governance, stakeholder identification, participation pathways, and any stakeholder weight must be proportionate to material impact and dependency and meet the applicable constitutional rules.*
 
 - **What it is**
-  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Twenty-Five section 5.3.
+  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and [Chapter Twenty-Five §5.3 Decision-Resolution Requirements for Binding Stakeholder Choice](../core_25.000_governance.md#53-decision-resolution-requirements-for-binding-stakeholder-choice).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
 <a id="stakeholder-governance-participation-floor-a"></a>
 - **How to measure and assess**
@@ -298,8 +304,8 @@ Weighted participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.120 §8 — Comprehensibility and Cognitive Accessibility**
-- Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*)
+- Read with: [Chapter One §5.2 Plain-Language Accessibility](../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Article VI-D Accessibility](../core_06.010_rights_part_b.md#article-vi-d-accessibility), and [Article XXIII Comprehensibility and Complexity Stewardship](../core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -343,7 +349,7 @@ comprehensibility and cognitive accessibility terms
 <a id="adaptive-participation-and-support-controls"></a>
 Adaptive participation and support controls
 
-*In plain terms: participation, review, hearing, governance, and high-stakes self-service pathways must offer proportionate alternatives when ordinary timing, format, communication mode, sensory load, cognitive load, adversarial framing, or interface…*
+*In plain terms: participation and high-stakes service pathways must offer proportionate alternatives when their timing, format, communication, demands, or interface would foreseeably block credible participation.*
 
 - **What it is**
   - **In scope:** Participation, review, hearing, governance, and high-stakes self-service pathways must offer proportionate alternatives when ordinary timing, format, communication mode, sensory load, cognitive load, adversarial framing, or interface structure would foreseeably block credible participation.
@@ -411,7 +417,7 @@ High-impact drill-down and assisted evaluation
 <a id="institutional-participation-and-challenge-pathway-accessibility-minimum"></a>
 Institutional participation and challenge-pathway accessibility minimum
 
-*In plain terms: governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with…*
+*In plain terms: affected participants must be able to understand and use governance, review, and challenge pathways, with sufficient accommodations and protected escalation against retaliation.*
 
 - **What it is**
   - **In scope:** Governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with anti-retaliation safeguards.
@@ -517,13 +523,8 @@ Summary integrity
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.120 §9** (*Participation: Salience Integrity and Attention-Allocation Terms*) and
-  - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*).
-- Read with: **CJS-5.120 §9** (*Participation: Salience Integrity and Attention-Allocation Terms*) and **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*) — System Status, Risk, and Scope Representation
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.130 §21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -727,9 +728,8 @@ User agency and control
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*); **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*).
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity** where dependencies matter
+- Read with: **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*) where dependencies matter.
+- Read with: [Article III-F Safe Products and Health Information](../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) for product and service health and safety information.
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -874,7 +874,7 @@ Ratings, rankings, and paid promotion
     **Primary assessment:** Reviewers must compare how reviews are collected and filtered, how rankings and recommendations are produced, and what commercial terms apply with what the system discloses, and must check whether health or safety information is outranked by commercial interest.
 <a id="ratings-rankings-and-paid-promotion-c"></a>
 - **What must hold**
-  - **Primary failure:** Presenting fabricated, bought, or selectively filtered reviews as genuine; hiding paid placement; or ranking a product above a safer or more suitable option because of what the system earns.
+  - **Primary failure:** Presenting fabricated, bought, or selectively filtered reviews as genuine; hiding paid placement; or, where health or safety is at stake, ranking a product above a safer or more suitable option because of what the system earns.
 
 ---
 

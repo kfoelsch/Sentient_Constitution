@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-8.105 §9** (*support-versus-merits boundary, host independence, and classification alignment*), **CJS-8.105 §10**, and **CJS-8.105 §11**. Public IDs remain **CJS-8.105 §9**–**CJS-8.105 §11**. The filename is `cjs_06_*` because these sections are not the **CJS-29.110** chapter; they are joint seams that **CJS-29.110** still points to.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-8.105 §9** (*Boundary between Support Roles and Merits Decisions*), **CJS-8.105 §10** (*Institution-Hosted or Forum-Adjacent Operations*), and **CJS-8.105 §11** (*Classification Alignment for Supervised Scope*). These joint seams are separate from **CJS-29.110** (*Specific joint interlocks and shared abstractions*), which also points to them.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-29.110](cjs_29.110_specific_joint_interlocks.md) (*Specific joint interlocks and shared abstractions*). Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -43,6 +43,12 @@ Core home: 08
 This file is the joint-structure implementation home for **CJS-8.105 §9** (*Boundary between Support Roles and Merits Decisions*), **CJS-8.105 §10** (*Institution-Hosted or Forum-Adjacent Operations*), and **CJS-8.105 §11** (*Classification Alignment for Supervised Scope*).
 
 *In plain terms: monitors and forensic helpers must not quietly decide who wins; hosting a forum's building or software does not let the host control its decisions; and published system classifications must match actual operation.*
+
+## Purpose, Role, and Scope
+
+**Purpose:** Keep support, hosting, and supervision arrangements aligned with the independence and classification rules that apply to them.
+
+**Role:** Section 9 distinguishes support roles from merits decisions; section 10 addresses institution-hosted or forum-adjacent operations; and section 11 addresses classification alignment for supervised systems.
 
 ## CJS-8.105 §9: Boundary between Support Roles and Merits Decisions
 

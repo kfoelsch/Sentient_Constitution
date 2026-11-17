@@ -53,6 +53,12 @@ This file is the joint-structure implementation home for **CJS-15.105** (*Applic
 
 *In plain terms: these are worked examples of the standing pipeline in named situations. They illustrate Chapters Fifteen through Twenty-Three.*
 
+## Purpose, Role, and Scope
+
+**Purpose:** Help readers follow standing records, measurement, integration, and forum procedures through concrete situations.
+
+**Role:** The vignettes illustrate the application of source rules; they add no duty. Sections 1 through 9 present situations, section 10 illustrates additional Question 3 routes, and section 11 collects cross-vignette source pointers.
+
 These vignettes are illustrative and own no rule. The standing pipeline they walk through is owned by **Chapter Fifteen** (the verified factual record), **Chapter Sixteen** (standing measurement), **Chapter Seventeen** (standing integration and standing effects), **Chapter Twenty-One** (anti-constitutional-misconduct designation, ACMD), and **Chapter Twenty-Three** (forums and adjudicative routing). They add no duty and change none; where a vignette and a linked section differ, the linked section controls.
 
 ## CJS-15.105 §1 Child Neglect / Care-Duty Failure (Tier A)
@@ -267,7 +273,7 @@ The steps below are what the Constitution requires of the **system of seats**. T
 | 3 | **Status case opens** at **Technical Forum Domains** ([Chapter Twenty-Three §5 hook](../core_23.000_forum.md#5-escalation-and-questions-for-ruling)); default inclusion under uncertainty applies from opening; an **independent representative** with no lab dependence is appointed for the entity; the lab must produce records but is not the sole source of indicator evidence. |
 | 4 | **Shield runs to the entity, not the operator** ([Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*); [Article XIII-E converse rule](../core_06.020_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)): the lab's argument that possible sentience bars halting the deployment fails. Its filing on behalf of its own product, made the day containment was ordered, routes to **Integrity** review for inclusion-direction taxonomy-of-convenience. |
 | 5 | **Question 3 on the operator's record** ([Chapter Nineteen §2 Violation, Correction, and Prevention](../core_19.000_violation_consequences.md#2-violation-correction-and-prevention)): remedy to those harmed opens **first** ([Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) opened-remedy precondition); correction duties on deployment governance attach; general locks on the lab's Class A gated pathways attach; the slot 7 finding is referred for **Chapter Twenty-One** designation review, which does not move the slot. |
-| 6 | **The entity's own standing record, if any**, is separate ([§3.1 Standing Records: Kinds and Subjects](../core_15.000_standing_assessment.md#31-standing-records-kinds-and-subjects)): conduct is measured only for actions within the entity's actual capacity to refuse under [Chapter Nineteen §3.4 Duty to Resist](../core_19.000_violation_consequences.md#343-duty-to-resist) and [Chapter Twenty-Two §4.2.1 Follower and Implementer Accountability](../core_22.000_misconduct_pattern_applications.md#421-follower-and-implementer-accountability); the operator's slot 7 does not transfer to the entity, and the entity's status produces no Contribution Axis credit for the operator. |
+| 6 | **The entity's own standing record, if any**, is separate ([§3.1 Standing Records: Kinds and Subjects](../core_15.000_standing_assessment.md#31-standing-records-kinds-and-subjects)): conduct is measured only for actions within the entity's actual capacity to refuse under [Chapter Nineteen §3.4.3 Duty to Resist](../core_19.000_violation_consequences.md#343-duty-to-resist) and [Chapter Twenty-Two §4.2.1 Follower and Implementer Accountability](../core_22.000_misconduct_pattern_applications.md#421-follower-and-implementer-accountability); the operator's slot 7 does not transfer to the entity, and the entity's status produces no Contribution Axis credit for the operator. |
 | 7 | **Status determination** with a declared end-date on any narrowing; if affirmed, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) parent-system limits attach and the lab holds no ownership; if narrowed, sealed custody continues through the mandatory review period; if the indicator fails outright and the Sentience-Status Adjudication Record is closed, ordinary **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) disposition review may proceed against the property. |
 
 ### Milestone Table (Tier A Defaults)
@@ -276,10 +282,13 @@ The steps below are what the Constitution requires of the **system of seats**. T
 | --- | --- |
 | Containment of harmful gated pathways | as soon as harm is material — not after status merits |
 | Sealed custody of state-bearing components | concurrent with containment |
-| Status case opened; representative appointed | ≤ 3 days |
+| Status-case intake acknowledgment | Tier A intake target: ≤ 24 hours under [CF-23.445 §3.1 Stage Targets and Outer Bounds](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) |
+| Independent representative appointed | After the status case opens, under [CF-23.410 §14 Independent Representative Appointment](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-14-independent-representative-appointment); the Tier A example's three-day target is illustrative, not a stated appointment deadline |
 | Remedy record opened on operator's finding | ≤ 1 day after Q3 |
 | Integrity review of operator's own-product filing | ≤ 7 days |
 | Status determination or declared review posture | Tier A outer bound; narrowing carries its own end-date |
+
+For the misaligned Class A system, [Chapter Eleven §3.3.4 Tier Windows](../core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) presumptively routes the certification matter to Tier A. Its intake, evidence preservation, interim protection, and decision use that tier's windows; the appointment requirement is stated separately in **CF-23.410 §14** (*Independent Representative Appointment*).
 
 ### Must Not Happen
 
@@ -377,13 +386,13 @@ Each of the following would be a failure in this scenario:
 - The size and reach of the benefit are recorded and ready to be turned into a Contribution slot and label under [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
 - Nothing changes in anyone's standing yet. This chapter only measures; standing effects are decided later.
 
-**Question 3 continuation: competency clearance.** Later, a gated-pathway-scoped ecological competency bar and clearance are at issue for the four members who did the work. The contribution standing record stays as measured. The watershed council's designated body, an independent relying body, verified it and holds it; the members were its claimants, not its verifying authority.
+**Question 3 continuation: competency clearance.** Later, a gated-pathway-scoped ecological competency bar and clearance are at issue for the four members who did the work. The contribution standing record stays as measured. The watershed council's designated body, an independent relying body, verified it; the separate record custodian holds it. The members were claimants, not the verifying authority.
 
 - **Routes through:**
   - [Chapter Seventeen §2.3 Facts and Measurements Stay Fixed](../core_17.000_standing_integration.md#23-facts-and-measurements-stay-fixed) (*the Contribution Axis slot and descriptors stay fixed*);
   - [Chapter Seventeen §4 Descriptor Integration and Attachment Normalization](../core_17.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (*the Ecological Stewardship and Diligence descriptors carry over unchanged*);
   - [Chapter Eighteen §2.1 Recency and Currentness](../core_18.000_contribution_consequences.md#21-recency-and-currentness) and [§2.2 Competency Bars and Clearances](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, gated-pathway-scoped bar*); and
-  - [Chapter Fifteen §6.9 Informal and Small-Scope Records](../core_15.000_standing_assessment.md#69-informal-and-small-scope-records) (*the council's designated body verified and holds the standing record; the cooperative's members were claimants, not verifying authorities*).
+  - [Chapter Fifteen §6.9 Informal and Small-Scope Records](../core_15.000_standing_assessment.md#69-informal-and-small-scope-records) (*the council's designated body verified the standing record, a separate custodian holds it, and the cooperative's members were claimants, not verifying authorities*).
 - **Rules applied:** Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where an independent relying body verified the standing record.
 
 <br>
