@@ -262,7 +262,7 @@ Do not restate CI. Use the owner files. This section is only the founding-crew c
 | Conflict, anti-capture | [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) | Founding crew discloses conflicts. Do not let the body sit as sole merits path in its own disputes. |
 | Contest and secondary review | [CI-23.205](../../corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md) | Articles XIII-A and XIII-B remain reachable. Informal community process is not a license to deny appeal ([CI-6.255](../../corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md) where commons/cooperatives apply). |
 | Oversight and evidence | [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) | Track B oversight machinery is this owner, not a renamed working group. |
-| Remedy capacity | [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems); [CI-20.205](../../corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md) | Named routes have practical capacity. |
+| Remedy capacity | [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems); [CI-24.210](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md) | Named routes have practical capacity. |
 
 ---
 

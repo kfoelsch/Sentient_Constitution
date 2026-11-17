@@ -508,8 +508,9 @@ Hiding the exchange behind another actor, entity, label, or later payoff does no
 - affiliates, contractors, or shell entities;
 - family or associational channels;
 - contingent claims or donations;
-- procurement terms or employment promises; or
-- deferred rewards or post-decision benefits.
+- procurement terms or employment promises;
+- deferred rewards or post-decision benefits; or
+- any other indirect form functionally equivalent to these.
 
 **Exclusions.** This subsection does **not** treat the following as bribery merely because value changes hands, when they are transparent, lawful, and constitutionally aligned:
 

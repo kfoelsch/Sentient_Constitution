@@ -25,29 +25,19 @@
 > - **Chapter Fifteen:** supplies the standing record and verified-input gate.
 > - **Chapter Sixteen:** supplies the Contribution and Violation axes, the unified proportional LEQU scale, and every numeric impact slot.
 > - **Chapter Seventeen:** supplies process / response attachments, descriptors, standing integration, standing locks, voluntary public accountability expression, final standing effect rules, and the pointer here. It does not itself issue a final anti-constitutional-misconduct designation (ACMD).
+> - **Chapter Nineteen:** supplies remedy and correction, prevention locks, and voluntary public accountability expression for every verified violation ([§2.1 Remedy and Correction](core_19.000_violation_consequences.md#21-remedy-and-correction), [§2.2 Prevention — General Standing Locks](core_19.000_violation_consequences.md#22-prevention--general-standing-locks), [§2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression)). **Section 6.1**, **section 6.2** (including imprisonment where required), and **section 6.3** here add only the ACMD layer on top of those rules.
 > - **Chapters Two through Four:** supply record, custody, traceability, and verification discipline for the evidence used here.
 > - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 > - **Chapter Twenty-Three:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
-> - **Chapter Six:** supplies the Rights Floor, **Article XX-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XX-A** (*Justice Objective and Scope*) review and publication safeguards; **section 6.1** here specializes Chapter Eighteen remedy and correction for verified anti-constitutional misconduct, **section 6.2** specializes prevention locks (including imprisonment where required), and **section 6.3** specializes voluntary public accountability expression.
+> - **Chapter Six:** supplies the Rights Floor, **Article XX-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XX-A** (*Justice Objective and Scope*) review and publication safeguards.
 > - **Chapter Twenty-Five:** supplies governance legitimacy consequences tied to a final Chapter Twenty-One designation.
 > - **Chapters Twenty-Six through Twenty-Eight:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Twenty-One designation.
 >
 > **Reading order**
 >
-> 1. Start with **section 1** for what this chapter is for and what it leaves to other chapters.
-> 2. Read **section 2** for the decision framework.
-> 3. Use **section 3** for the order of work, the decision sequence.
-> 4. Use **section 4** to identify the criteria implicated by the incident.
-> 5. Use **section 5** to decide whether the ACMD attaches to the existing **slot 7, 8, or 9** finding.
-> 6. Apply **section 6** due-process safeguards before any ACMD is final.
-> 7. Apply **section 6.1** for anti-constitutional misconduct (ACM) remedy and correction after final ACMD.
-> 8. Apply **section 6.2** for ACM prevention locks, including imprisonment where required, then hand the ACMD to Chapter Seventeen for the Trust Lock and standing-effect integration.
-> 9. Apply **section 6.3** for ACM voluntary public accountability expression where restorative pathways are used.
-> 10. Use **Chapter Twenty-Two section 2** (Chapter Twenty-Two) only to route named patterns into the same framework.
+> Read **section 1** for what this chapter is for, then **sections 2 to 5** in order. **Section 3** (Decision Sequence) gives the order of work, including the **section 6** safeguards that come before any ACMD is final and the **sections 6.1 to 6.3** additions that follow it. Use **Chapter Twenty-Two section 2** only to route named patterns into the same framework; named patterns are applications of that sequence, not separate shortcuts.
 >
-> Named patterns in **Chapter Twenty-Two section 2** are applications of that sequence, not separate shortcuts.
->
-> **After final ACMD:** **section 6.1** remedy and correction; **section 6.2** prevention locks (including imprisonment where applicable); **section 6.3** voluntary public accountability expression; Chapter Seventeen standing-lock and final-standing-effect rules, including the **Anti-Constitutional Trust Lock** only on a **final** ACMD.
+> **After final ACMD:** apply **sections 6.1 to 6.3**, then hand the ACMD to Chapter Seventeen for standing-lock and final-standing-effect rules, including the **Anti-Constitutional Trust Lock** only on a **final** ACMD.
 >
 > Read with: [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
 
@@ -493,7 +483,7 @@ After final designation under **section 5** with **section 6** safeguards met, [
 
 <br>
 
-*In plain terms: after final anti-constitutional-misconduct designation, Chapter Seventeen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Seventeen lock format and states the ACM imprisonment specialization.*
+*In plain terms: after final anti-constitutional-misconduct designation, the Anti-Constitutional Trust Lock in Chapter Nineteen §3.5 Special Locks closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Nineteen lock format and states the ACM imprisonment specialization.*
 
 After final designation under **section 5** with **section 6** safeguards met:
 
@@ -522,7 +512,7 @@ After final designation under **section 5** with **section 6** safeguards met:
 
 <br>
 
-*In plain terms: a public apology in an anti-constitutional misconduct case must meet Chapter Seventeen's general voluntariness and authenticity rules, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.*
+*In plain terms: a public apology in an anti-constitutional misconduct case must meet the general voluntariness and authenticity rules of Chapter Nineteen §2.3 Voluntary Public Accountability Expression, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.*
 
 [Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression) supplies the general rule, including voluntariness, authenticity, non-degradation, and non-substitution, and that refusal alone does not raise sanctions or widen a lock. After final designation under **section 5** with **section 6** safeguards met, this ACM specialization also applies:
 

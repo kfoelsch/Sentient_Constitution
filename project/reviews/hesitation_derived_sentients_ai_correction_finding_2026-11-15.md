@@ -35,7 +35,7 @@ Read in full, not from the glosses:
 
 Searched by keyword across every `core_*` file and the four `corpus_*` trees: weights, retrain, fine-tune, corrigible, kill switch, shut down, pause, suspend, sealed custody, state-bearing, credible indicator, early-instantiation, self-modification.
 
-**Not read in full:** Chapters Nine to Eleven (System Alignment Certification), CI-19.215 §5, CS-25.305, and CJS-5.125 §12. Points that depend on them are marked below.
+**Not read in full:** Chapters Nine to Eleven (System Alignment Certification), CI-24.205 §5, CS-25.305, and CJS-5.125 §12. Points that depend on them are marked below.
 
 ## 3. What the text says
 

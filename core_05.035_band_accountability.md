@@ -744,7 +744,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Merits Determination](core_05.035_band_accountability.md#merits-determination),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), and
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation).
-- Read with: owner layers in [core_23.000_forum.md](core_23.000_forum.md), [CF-23.420](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#cf-23420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Read with: owner layers in [core_23.000_forum.md](core_23.000_forum.md), [CF-23.420](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#cf-23420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -908,7 +908,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*numeric Violation Axis slot assignment from verified impact*),
   - [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (21.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
   - [CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
-  - [CI-19.215](corpus_institutions/ci_19.215_institutional_accountability_sanctions.md#ci-19215-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
+  - [CI-24.205](corpus_institutions/ci_24.205_institutional_accountability_sanctions.md#ci-24205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
 
 </details>
 
@@ -1391,7 +1391,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (1.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (20.000 §4) (*Enforcement Realism and Remedy Systems*).
-- Implementation owner: [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Implementation owner: [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Cluster component: [Accountability, Contestability, and Redress Pathways](core_05.035_band_accountability.md#accountability-contestability-and-redress-pathways)
 - Read with:
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation),

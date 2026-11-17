@@ -539,8 +539,8 @@
       "domain": "Institutional governance",
       "primary_owners": [
         {
-          "id": "CI-20.205",
-          "file": "corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md"
+          "id": "CI-24.210",
+          "file": "corpus_institutions/ci_24.205_institutional_accountability_sanctions.md"
         }
       ],
       "read_with": [
@@ -566,8 +566,8 @@
           "file": "corpus_forum/cf_23.405_forum_formation_chamber_structure.md"
         },
         {
-          "id": "CI-20.205",
-          "file": "corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md"
+          "id": "CI-24.210",
+          "file": "corpus_institutions/ci_24.205_institutional_accountability_sanctions.md"
         }
       ]
     },

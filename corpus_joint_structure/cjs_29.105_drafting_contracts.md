@@ -24,7 +24,7 @@
 
 <br>
 
-Core home: 28
+Core home: 29
 
 This file is the joint-structure implementation home for **CJS-29.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-29.105 §8** (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*), and **CJS-29.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*).
 

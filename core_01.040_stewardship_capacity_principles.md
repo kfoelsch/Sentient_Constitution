@@ -591,7 +591,8 @@ This principle does not:
   - The point where the strands rejoin is built in: a stated step where they meet, and an Act Record that holds each strand's result.
   - Steps use common, published formats ([§18.6 Standardization](core_01.050_governance_incentive_application.md#186-standardization)), so that different stewards or systems can take different strands.
 - **The same test of undue burden applies:** Designing for parallelization is undue where the cases listed in [§16.5.1 Parallelization](#1651-parallelization) would arise, or where the design effort costs more than the delay it would remove. Then the process is built in sequence, and the reason can be stated.
-- **A line where a parallel design was feasible:** A process built in a line, when a design that supports parallelization was feasible and not unduly burdensome, carries the same Avoidable Burden defect as in [§16.5.1 Parallelization](#1651-parallelization).
+- **When this applies:** When a stewardship process is designed or revised. An existing process is not required to be rebuilt for this reason alone; it is brought into line when it is next revised. [§16.5.1 Parallelization](#1651-parallelization) still applies to how an existing process is run.
+- **A line where a parallel design was feasible:** A process designed or revised as a line, when a design that supports parallelization was feasible and not unduly burdensome, carries the same Avoidable Burden defect as in [§16.5.1 Parallelization](#1651-parallelization).
 
 **Scaling, for all of Automation.** The depth of this discipline scales with [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency). Lower-stake and informal stewardship follows the principle as far as is proportionate, and is not asked to build automation or coordination machinery that costs more than it saves.
 

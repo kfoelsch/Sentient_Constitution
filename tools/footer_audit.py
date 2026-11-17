@@ -127,7 +127,7 @@ CI_CHAIN = tuple(
         "ci_06.215_resource_stewardship_incentive_integrity.md",
         "ci_23.210_cross_institution_coordination_escalation.md",
         "ci_19.210_institutional_failure_dissolution.md",
-        "ci_19.215_institutional_accountability_sanctions.md",
+        "ci_24.205_institutional_accountability_sanctions.md",
         "ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md",
         "ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md",
@@ -141,7 +141,7 @@ CI_CHAIN = tuple(
         "ci_06.265_innovation_reward_disclosure_anti_enclosure.md",
         "ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md",
         "ci_00.215_compliance_mapping_stable_registry.md",
-        "ci_20.205_remedy_systems_institutional_redress_capacity.md",
+        "ci_24.210_remedy_systems_institutional_redress_capacity.md",
     )
 )
 

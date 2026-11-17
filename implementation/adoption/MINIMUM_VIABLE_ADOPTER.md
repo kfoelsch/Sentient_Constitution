@@ -163,7 +163,7 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
    (hosted/mapped onto existing independent bodies, or in-house)
         ↓
 8. CF-23.410 panels · CF-23.415 intake · CF-23.470 staffing · CF-23.450–14 continuity
-   CI-20.205 remedy capacity at Chapter Twenty §4.2 parity
+   CI-24.210 remedy capacity at Chapter Twenty §4.2 parity
         ↓
 9. CS-6.350 for systems under that adoption document
 ```
@@ -252,8 +252,8 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 |---|---|---|---|
 | **Formation and integrity** | **CI-0.210**, **CI-8.205**, **CI-25.205**, **CI-8.210**, **CI-23.205**, **CI-6.205**, **CI-9.210**, **CI-6.215** | Institution Track A or B (any live Chapter Five Institutional Charter) | Operations-guide: read, do not staff |
 | **Oversight and coordination** | **CI-8.215**, **CI-23.210** | Institution Track B; **CI-8.215 §3** contest-integrity monitoring for Class A/B supervised scope | Track A without Track B functions |
-| **Failure and Adoption Transition** | **CI-19.210**, **CI-19.215**, **CI-6.275** | **CI-19.210** and **CI-19.215** whenever a live institution can fail; **CI-6.275** when going through the Adoption Transition under an adoption document | No live institution |
-| **Remedy** | **CI-20.205** | Full adoption that administers locks, standing integration, or redress — at [§4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-parity-funding-minimum) parity | Operations-guide and Track A: hold a remedy reserve before you stand up lock machinery |
+| **Failure and Adoption Transition** | **CI-19.210**, **CI-24.205**, **CI-6.275** | **CI-19.210** and **CI-24.205** whenever a live institution can fail; **CI-6.275** when going through the Adoption Transition under an adoption document | No live institution |
+| **Remedy** | **CI-24.210** | Full adoption that administers locks, standing integration, or redress — at [§4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-parity-funding-minimum) parity | Operations-guide and Track A: hold a remedy reserve before you stand up lock machinery |
 | **Revenue** | **CI-6.210** | If the body charges fees, subscriptions, or similar | No such charges |
 | **Registry** | **CI-0.215** | When the body must publish a compliance map | Operations-guide |
 | **Domain interfaces** | **CI-6.220**–**CI-6.270** | When the body’s work is in that domain (care, health, markets, commons, place, science, and related) | Skip families whose domain you do not operate. Cooperatives and commons still read **CI-6.255**. Local owner maps, not extra offices |
@@ -332,7 +332,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Typical *N*** | 40–200 (in-house) plus **named external** adjudicative capacity |
 | **Typical class** | **L** or **C**. **B** only if the hosted bodies can actually hear Class B stakes |
 | **Mode** | Full adoption |
-| **Required bodies** | Recorded §10.1–§10.2 adoption document. Forum Track A naming on that adoption document. CF-23.405 §2 map that gives operational effect to **all six** families, mapped onto existing independent bodies. Institution Track B functions at class-scaled depth. **CI-20.205** remedy capacity at §9.2 parity. CS-9.305 and CS-9.310 (and CS-25.305 if Class B) |
+| **Required bodies** | Recorded §10.1–§10.2 adoption document. Forum Track A naming on that adoption document. CF-23.405 §2 map that gives operational effect to **all six** families, mapped onto existing independent bodies. Institution Track B functions at class-scaled depth. **CI-24.210** remedy capacity at §9.2 parity. CS-9.305 and CS-9.310 (and CS-25.305 if Class B) |
 | **Optional** | In-house specialist CF-23.430, CF-23.435, and CF-23.440 if caseload needs them; otherwise contracted through the hosted bodies. Domain CI-6.220–CI-6.270 |
 | **Order** | Steps 1–9, with step 7 as **hosted/mapped**, not in-house benches |
 | **Staff** | 8–25 FTE in-house (adoption document custody, Track B functions, remedy file, classification, CS-6.350) **plus** contracted or statutory hosted-forum capacity that is not the founding crew |

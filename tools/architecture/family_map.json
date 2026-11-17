@@ -444,9 +444,9 @@
               "status": "active"
             },
             {
-              "id": "CI-19.215",
-              "label": "CI-19.215: Institutional Accountability and Sanctions",
-              "file": "corpus_institutions/ci_19.215_institutional_accountability_sanctions.md",
+              "id": "CI-24.205",
+              "label": "CI-24.205: Institutional Accountability and Sanctions",
+              "file": "corpus_institutions/ci_24.205_institutional_accountability_sanctions.md",
               "status": "active"
             },
             {
@@ -552,9 +552,9 @@
               "status": "active"
             },
             {
-              "id": "CI-20.205",
-              "label": "CI-20.205: Remedy Systems and Institutional Redress Capacity",
-              "file": "corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md",
+              "id": "CI-24.210",
+              "label": "CI-24.210: Remedy Systems and Institutional Redress Capacity",
+              "file": "corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md",
               "status": "active"
             }
           ]

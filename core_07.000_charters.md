@@ -270,8 +270,8 @@ flowchart TB
     D{"§6 Does the formation check pass?"}
     F["§7 A holder fails the formation check<br/><br/>Fix the failure, not the Chartered Party:<br/>replace the holder, or fix the cause<br/>A short window to answer,<br/>a longer one to resolve it"]
     W{"§7 Is the resolution window still open?"}
-    R[["CI-19.210 and CI-19.215 — Structural review<br/><br/>Only a forum decides<br/>Lightest step that protects others<br/><br/>Outside this chapter"]]
-    E[["CI-19.210 and CI-19.215 — Contract below Class L, or dissolve<br/><br/>Dissolution only as a last step<br/>§6.5 A dissolved Chartered Party may<br/>not return while the lock stands<br/><br/>Outside this chapter"]]
+    R[["CI-19.210 and CI-24.205 — Structural review<br/><br/>Only a forum decides<br/>Lightest step that protects others<br/><br/>Outside this chapter"]]
+    E[["CI-19.210 and CI-24.205 — Contract below Class L, or dissolve<br/><br/>Dissolution only as a last step<br/>§6.5 A dissolved Chartered Party may<br/>not return while the lock stands<br/><br/>Outside this chapter"]]
     Q -->|"Yes"| C
     Q -->|"No"| P
     P -.->|"Becomes material, or claims compliance — §2"| C
@@ -891,7 +891,7 @@ The formation check is kept in proportion to what it protects:
   - [Chapter Thirteen §3.5 Effects of Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#35-effects-of-denial-and-revocation-for-an-institution) (13.000 §3.5);
   - [Chapter Eight §4 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (8.000 §4);
   - **CI-19.210** (*Institutional failure and dissolution*);
-  - **CI-19.215** (*Institutional accountability and sanctions*);
+  - **CI-24.205** (*Institutional accountability and sanctions*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
 - Read with: [Interim Hold](core_05.035_band_accountability.md#interim-hold); [Stay](core_05.035_band_accountability.md#stay); **CI-25.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
 
@@ -980,7 +980,7 @@ If a failure is still not resolved when the resolution window ends:
 
 - **Not stopped:** The Chartered Party is not stopped, and the miss is a finding in its next certification.
 - **Referral:** Where the failure still stands after the resolution window and a reasonable chance to resolve it in good faith, the lead forum refers it as realignment resistance, which opens structural review under **CI-19.210** (*Institutional failure and dissolution*) and **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
-- **The ladder:** That review follows the ladder in **CI-19.210** (*Institutional failure and dissolution*) and **CI-19.215** (*Institutional accountability and sanctions*), each step only where the lighter measures cannot protect the Constitution's obligations:
+- **The ladder:** That review follows the ladder in **CI-19.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*), each step only where the lighter measures cannot protect the Constitution's obligations:
   - directed correction;
   - constrained authority;
   - a contraction order that returns the Chartered Party to below Class L;
