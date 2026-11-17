@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Two** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Chapter Twenty-One** — anti-constitutional-misconduct designation (ACMD) decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_21.000_misconduct_designation.md`](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation).
 >
-> - **Constitutional owner (joint with Chapter Twenty-One):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Chapter Twenty-Two routes named patterns into Chapter Twenty-One §§3–5; it does **not** add designation criteria or Chapter Seventeen lock types.
+> - **Constitutional owner (joint with Chapter Twenty-One):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Chapter Twenty-Two routes named patterns into Chapter Twenty-One §§4–6; it does **not** add designation criteria or Chapter Seventeen lock types.
 > - **Anti-relocation rule:** Chapter Twenty-Two does not restate Chapter Twenty-One ACMD criteria, attachment rules, or due-process safeguards. Operational forum, systems, and institutional mechanics remain in their owner chapters.
 >
 > **Upstream:** [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation criteria and safeguards*); Chapter Seventeen Question 3 gated-pathway lock dual-layer mirror where noted.
@@ -19,7 +19,7 @@ Chapter Twenty-Two is the constitutional owner of **named pattern applications a
 
 *In plain terms: this chapter applies [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
 
-**Purpose:** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 3 to 5**. Each is judged by what the conduct actually does. The patterns are:
+**Purpose:** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 4 to 6**. Each is judged by what the conduct actually does. The patterns are:
 
 - attacks on participation and accountability-pathway integrity (**section 2**);
 - blocking contest, review, and verification (**section 3**);
@@ -55,10 +55,10 @@ The chapter adds no ACMD criteria and no Chapter Seventeen lock types.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
-  - [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
-  - [§5](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
-  - [§2.3](core_21.000_misconduct_designation.md#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*).
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
+  - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
+  - [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Pattern groups:
   - [§3](#3-blocking-contest-review-and-verification) (*Blocking Contest, Review, and Verification*);
   - [§4](#4-corrupting-and-commanding-duty-holders) (*Corrupting and Commanding Duty-Holders*);
@@ -80,11 +80,11 @@ The chapter adds no ACMD criteria and no Chapter Seventeen lock types.
 
 Each pattern in the sections below routes its named conduct through the existing Chapter Twenty-One sequence:
 
-- **Assess together:** Assess every materially implicated pattern together on the **unified incident record** under **Chapter Twenty-One section 3**.
-- **Decide designation:** Decide designation under **Chapter Twenty-One section 4**.
-- **Preserve safeguards and boundary:** Preserve **Chapter Twenty-One section 5** safeguards and the **Chapter Twenty-One section 2.3** Chapters Twenty-Six through Twenty-Eight boundary.
+- **Assess together:** Assess every materially implicated pattern together on the **unified incident record** under **Chapter Twenty-One section 4**.
+- **Decide designation:** Decide designation under **Chapter Twenty-One section 5**.
+- **Preserve safeguards and boundary:** Preserve **Chapter Twenty-One section 6** safeguards and the **Chapter Twenty-One section 2.2** boundary with Chapters Twenty-Six through Twenty-Eight.
 - **Consequences stay in Chapter Seventeen:** The one pattern-specific lock hook is the **Forum-Service Standing Lock** for required-recusal failure under [§5.3](#53-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*).
-- **No new criterion:** No subsection below adds an additional ACMD criterion beyond the **Chapter Twenty-One section 3** set; each routes evaluation of its named pattern into that set.
+- **No new criterion:** No subsection below adds an additional ACMD criterion beyond the **Chapter Twenty-One section 4** set; each routes evaluation of its named pattern into that set.
 
 The patterns are grouped by what the conduct attacks:
 
@@ -133,8 +133,8 @@ The three subsections below apply the existing Chapter Twenty-One sequence to co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§3.1.2](#312-unconstitutional-contract-term-conduct).
-- Downstream: [§2.3](core_21.000_misconduct_designation.md#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*); [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
+- Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§3.1.2](#312-unconstitutional-contract-term-conduct).
+- Downstream: [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*); [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
 
@@ -217,8 +217,8 @@ Evaluators assess these patterns as follows:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
-- Downstream: [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.3](core_21.000_misconduct_designation.md#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*).
+- Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
+- Downstream: [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05.035_band_accountability.md#contestability) and [Transparency](core_05.050_band_oversight.md#transparency) in **Chapter Five** where contest-pathway usability and publication are material.
 - Forum operations: [Chapter Twenty-Three §2](core_23.000_forum.md#2-default-venue-and-primary-stakes) (23.000 §2) through [§3](core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) for intake triage, consolidation, and representative treatment.
@@ -319,7 +319,7 @@ Evaluators assess these patterns as follows:
 - **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where willful deception, concealment, or knowing record, custody, routing, or publication manipulation is implicated.
 - **Criterion 3** (*Material rollback effect*) — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
 - **Criterion 4** (*Causally significant conduct*) — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice.
 - Volume, redundancy, or automation alone is not sufficient.
 
 <a id="33-info-sphere-zone-flooding"></a>
@@ -329,11 +329,11 @@ Evaluators assess these patterns as follows:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
   - [§3.2](#32-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*);
   - [Chapter One §5](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000 §5) (*Truth / epistemic integrity*);
   - [Chapter One §13.2.1](core_01.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (1.020 §13.2.1) (*Preservation of epistemic integrity*).
-- Downstream: [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.3](core_21.000_misconduct_designation.md#23-chapters-twenty-six-through-twenty-eight-boundary) (*Chapters Twenty-Six through Twenty-Eight boundary*).
+- Downstream: [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with:
   - [Info-Sphere](core_05.055_band_participation.md#info-sphere),
@@ -410,7 +410,7 @@ This subsection states when such conduct may implicate final ACMD under this cha
 - **Criterion 4** (*Causally significant conduct*) — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice.
 - **Criterion 3** (*Material rollback effect*) — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
 - **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where willful deception, concealment, or knowing record, custody, routing, provenance, or publication manipulation in info-sphere channels is implicated.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice.
 - Volume, redundancy, automation, or attention capture alone is not sufficient.
 
 ### 4. Corrupting and Commanding Duty-Holders
@@ -444,7 +444,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§5](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*).
+- Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*).
 - Integrity and governance context: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) for Integrity-family routing where final Chapter Twenty-One designation is the primary stake; [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) where governing authority, selection, or stewardship legitimacy is materially distorted.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -526,7 +526,7 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 - **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, or record, custody, disclosure, provenance, or verification manipulation is implicated.
 - **Criterion 3** (*Material rollback effect*) — where the exchange produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or selectively weakened enforcement or remedy.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice.
 - Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final ACMD without the required criteria and due-process showing.
 
 <a id="42-unlawful-or-unconstitutional-command-conduct"></a>
@@ -536,9 +536,9 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
-  - [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
-  - [§5](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
+  - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Nineteen §3.4.4](core_19.000_violation_consequences.md#344-collective-accountability) (19.000 §3.4.4) (*Collective Accountability and Acquiescent Participation*);
   - [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
 - Integrity and governance context: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) for Integrity-family routing where final Chapter Twenty-One designation is the primary stake; [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
@@ -686,7 +686,7 @@ When that is the case, all of the following apply:
 - Protected-reporting safeguards apply.
 - Provisional containment is put in place where necessary to prevent continued harm.
 
-This does not itself make a final ACMD. That is decided only under Chapter Twenty-One ([§4 Violation Axis Slot 7–9 Anti-Constitutional Designation](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) and [§5 Due-Process Safeguards, Remedy, and Prevention](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention)).
+This does not itself make a final ACMD. That is decided only under Chapter Twenty-One ([§5 Violation Axis Slot 7–9 Anti-Constitutional Designation](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) and [§6 Due-Process Safeguards, Remedy, and Prevention](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention)).
 
 <a id="423-personal-accountability-and-non-substitution"></a>
 
@@ -739,7 +739,7 @@ Evaluators assess these patterns as follows:
 - **Criterion 3** (*Material rollback effect*) — where the directive produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
 - **Criterion 5** (*Insurrection or material forcible subversion*) — where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice.
 - Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final ACMD without the required criteria and due-process showing.
 
 ### 5. Shielding Misconduct and Failing to Enforce
@@ -787,9 +787,9 @@ The three subsections below apply the same sequence to conduct in which the acco
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
-  - [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
-  - [§5](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
+  - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter One §3.2](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (1.000 §3.2) (*Recognition, Reinforcement, and Aspiration*);
   - [Chapter One §19](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (1.050 §19) (*Incentive Alignment and System Capture*);
   - [Chapter Nineteen §3.4.2](core_19.000_violation_consequences.md#342-misaligned-rewards) (19.000 §3.4.2) (*misaligned-reward reporting, forfeiture, correction, and records*);
@@ -959,7 +959,7 @@ Evaluators assess these patterns as follows:
 - **Criterion 3** (*Material rollback effect*) — where the reward or protection produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
 - **Criterion 5** (*Insurrection or material forcible subversion*) — only where the reward or protection materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice through reward-driven capture, retaliation, silence, or protection.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice through reward-driven capture, retaliation, silence, or protection.
 
 <a id="52-enforcement-refusal-suppression-or-non-prosecution-conduct"></a>
 
@@ -968,9 +968,9 @@ Evaluators assess these patterns as follows:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
-  - [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
-  - [§5](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
+  - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [§5.1](#51-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, Protection, or Normalization of Anti-Constitutional Conduct*);
   - [§7](#7-obstruction-of-accountability-criteria-interaction) (*Obstruction of accountability — umbrella criteria interaction; this subsection is the enforcement-mode accountability-obstruction pathway*).
 - Forum and investigation interface: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) for Integrity-family routing, anti-self-judging backup, transfer, and certification; **[CF-23.435](corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md#cf-23435-independent-investigative-service-and-prosecution-interface)** (*Independent investigative service and prosecution interface*) for independent investigative service and prosecution-interface requirements.
@@ -1154,7 +1154,7 @@ Evaluators assess these patterns as follows:
 - **Criterion 3** (*Material rollback effect*) — where the refusal or suppression produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
 - **Criterion 5** (*Insurrection or material forcible subversion*) — only where the refusal or suppression materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice through captured, selective, corrupt, or pretextual non-enforcement.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice through captured, selective, corrupt, or pretextual non-enforcement.
 
 [§5.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](#52-enforcement-refusal-suppression-or-non-prosecution-conduct) does **not**:
 - create a mandatory-prosecution rule; or
@@ -1253,7 +1253,7 @@ Evaluators assess these patterns as follows:
 - **Criteria 1 and 2** (*Willful deceptive intent* and *Knowing falsification or suppression*) — where deception, concealment, material omission, or conflict nondisclosure is implicated.
 - **Criterion 3** (*Material rollback effect*) — where the failure produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional Forum** participation distorts interpretive outcomes.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
 
 [§5.3 Forum Recusal Failure and Biased Panel Participation](#53-forum-recusal-failure-and-biased-panel-participation) does **not**:
 - convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
@@ -1292,8 +1292,8 @@ The two subsections below apply the same sequence to control over what constitut
   - [Chapter One §11.1](core_01.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.010 §11.1) (*Market Concentration Threshold Mechanism*);
   - [Chapter One §11.2](core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) (1.010 §11.2) (*Pro-Competition and Anti-Domination*); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns);
   - [Chapter One §11.3](core_01.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (1.010 §11.3) (*Consolidation Ceiling*);
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*).
-- Downstream: [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*).
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*).
+- Downstream: [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*).
 - Read with: [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) in **Chapter Five** for definitional anchoring referenced from the **§14.1** mechanism.
 
 </details>
@@ -1327,9 +1327,9 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
-  - [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
-  - [§5](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
+  - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Sixteen §7](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
 - Rights and systems context:
   - [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*),
@@ -1492,7 +1492,7 @@ Security, maintenance, ownership, budget, or emergency labels must not be used a
 - **Criterion 3** (*Material rollback effect*) — where the denial, destruction, disabling, or cutoff produces material rollback or an equivalent structural workaround.
 - **Criterion 4** (*Causally significant conduct*) — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
 - **Criterion 5** (*Insurrection or material forcible subversion*) — where infrastructure control, destruction, or dependency cutoff materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
 
 This subsection does **not**:
 - create a general public-utility ownership rule;
@@ -1508,8 +1508,8 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
-  - [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
+  - [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [Chapter Fifteen §4.2](core_15.000_standing_assessment.md#42-violation-event-types) (15.000 §4.2) (*Obstruction of accountability event type*);
   - [Chapter Sixteen §3.2.2](core_16.000_standing_measurement.md#322-how-the-way-a-harm-was-caused-is-recorded) (16.000 §3.2.2) and
   - [Chapter Sixteen §4.2](core_16.000_standing_measurement.md#42-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
@@ -1550,13 +1550,13 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 **Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this section evaluates the conduct that produces, maintains, or exploits that disablement.
 
-Where a Violation Axis finding already occupies slot 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **Chapter Twenty-One section 3** criteria where it produces the equivalent constitutional effect:
+Where a Violation Axis finding already occupies slot 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **Chapter Twenty-One section 4** criteria where it produces the equivalent constitutional effect:
 
 - **Criterion 1** (*Willful deceptive intent*) — where the actor intends to deceive, conceal, or bypass constitutional validity safeguards that keep answerability real.
 - **Criterion 2** (*Knowing falsification or suppression*) — where knowing falsification, material omission, or evidence/custody manipulation suppresses verification or standing-pipeline records.
 - **Criterion 3** (*Material rollback effect*) — where obstruction operates as material rollback or an equivalent structural workaround that weakens constitutional protections.
 - **Criterion 4** (*Causally significant conduct*) — where obstruction materially contributes to delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
-- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 3** and **Chapter Twenty-One section 5** substantiation shows that constitutional process or remedies became unusable in practice through the obstruction.
+- **Criterion 6** (*Operative nullification*) — only where **Chapter Twenty-One section 4** and **Chapter Twenty-One section 6** substantiation shows that constitutional process or remedies became unusable in practice through the obstruction.
 
 Named patterns elsewhere in Chapter Twenty-Two are **modes** of obstruction, not competing taxonomies:
 
@@ -1566,7 +1566,7 @@ Named patterns elsewhere in Chapter Twenty-Two are **modes** of obstruction, not
 - [§6.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](#62-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
 - [§5.3 Forum Recusal Failure and Biased Panel Participation](#53-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
-A case does not have to fit one of the named modes above to count. If the verified facts of the obstruction meet the **Chapter Twenty-One section 3** criteria on their own, designation can still follow.
+A case does not have to fit one of the named modes above to count. If the verified facts of the obstruction meet the **Chapter Twenty-One section 4** criteria on their own, designation can still follow.
 
 Two other chapters keep their own jobs:
 - Only Chapter Sixteen sets the Violation Axis slot (see [Chapter Sixteen §3.2.2 How the Way a Harm Was Caused Is Recorded](core_16.000_standing_measurement.md#322-how-the-way-a-harm-was-caused-is-recorded)).

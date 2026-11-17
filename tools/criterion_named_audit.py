@@ -3,7 +3,7 @@
 
 Rule ID: CRITERION-NAMED-01
 
-Chapter Fourteen §3.3 sets six criteria for anti-constitutional-misconduct designation,
+Chapter Twenty-One §4.3 sets six criteria for anti-constitutional-misconduct designation,
 and the corpus cites them by number ("criterion 3", "criteria 1 and 2", "criteria 1-4").
 A bare number tells the reader nothing, and the reader has to leave the page to learn
 what it means. Every numbered reference therefore carries the name of each criterion it
@@ -14,7 +14,7 @@ cites, in a parenthetical right after the number:
     criteria 1-4 (*Willful deceptive intent*; *Knowing falsification or suppression*;
         *Material rollback effect*; and *Causally significant conduct*)
 
-The names are the ones Chapter Fourteen §3.3 gives:
+The names are the ones Chapter Twenty-One §4.3 gives:
 
     1 Willful deceptive intent
     2 Knowing falsification or suppression
@@ -32,13 +32,13 @@ ignored.
 
 Accepted without a parenthetical: a list introduction that ends in a colon and is
 followed within twelve lines by the numbered definition lines ("1. **Willful deceptive
-intent:** ...") of every criterion it cites, which is how §3.3 itself introduces them.
+intent:** ...") of every criterion it cites, which is how §4.3 itself introduces them.
 
 Not matched: a number with no "criterion" or "criteria" word in front of it, the words
 without a digit ("the section 3 criteria"), inline code, link targets, fenced code, and
 `doc_architecture.md` (its dated move log keeps the wording each move used).
 
-The audit also fails when Chapter Fourteen §3.3 no longer gives one of the six names
+The audit also fails when Chapter Twenty-One §4.3 no longer gives one of the six names
 above, so the table here cannot drift from the source.
 
 Fix: add the names, or run ``python3 tools/criterion_named_audit.py --fix`` to insert
@@ -87,7 +87,7 @@ _TOKEN = re.compile(r"\d|through|[–—-]", re.IGNORECASE)
 
 ADVICE = (
     "numbered criterion without its name: add the name in a parenthetical right after the "
-    "number, for example 'criterion 3 (*Material rollback effect*)' (names: Chapter Fourteen §3.3)"
+    "number, for example 'criterion 3 (*Material rollback effect*)' (names: Chapter Twenty-One §4.3)"
 )
 
 
@@ -238,7 +238,7 @@ def fix_text(rel_path: str, text: str) -> tuple[str, int]:
 
 
 def source_lacks_names(root: Path) -> list[str]:
-    """Return the names that Chapter Fourteen §3.3 no longer gives as numbered definition lines."""
+    """Return the names that Chapter Twenty-One §4.3 no longer gives as numbered definition lines."""
     path = root / SOURCE_FILE
     if not path.is_file():
         return [f"{SOURCE_FILE} is missing"]
@@ -304,7 +304,7 @@ def main() -> int:
         hand = "" if f.fixable else " (has a parenthetical without the names: edit by hand)"
         print(f"  {f.file}:{f.line}: {RULE}: '{f.phrase}': {ADVICE}{hand}")
     for item in lacking:
-        print(f"  {SOURCE_FILE}: {RULE}: §3.3 no longer gives {item}; update NAMES in tools/criterion_named_audit.py")
+        print(f"  {SOURCE_FILE}: {RULE}: §4.3 no longer gives {item}; update NAMES in tools/criterion_named_audit.py")
     return 1
 
 

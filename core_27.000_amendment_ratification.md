@@ -233,7 +233,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - provides contestable remedy pathways proportionate to impact and dependency
 
 <a id="serious-misconduct-referral"></a>
-**Serious-misconduct referral.** Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Twenty-One**, **section 3** (*Criteria set*)](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale), **criteria 1** **through** **4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) on **change** or **record** pathways):
+**Serious-misconduct referral.** Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Twenty-One**, **section 4** (*Criteria set*)](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale), **criteria 1** **through** **4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) on **change** or **record** pathways):
 - willful deceptive intent;
 - knowing falsification or suppression;
 - material rollback effect; and

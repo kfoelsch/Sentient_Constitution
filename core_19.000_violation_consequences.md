@@ -249,7 +249,7 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - compelled self-abasement;
   - irreversible reputational harm.
 
-Anti-constitutional misconduct specializations — including rules triggered by an ACMD and consequences linked to it for inauthentic expression — are governed by [Chapter Twenty-One §5.3](core_21.000_misconduct_designation.md#53-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
+Anti-constitutional misconduct specializations — including rules triggered by an ACMD and consequences linked to it for inauthentic expression — are governed by [Chapter Twenty-One §6.3](core_21.000_misconduct_designation.md#63-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
 
 <a id="24-remedy-parity-and-lock-preconditions"></a>
 #### 2.4 Remedy Parity and Lock Preconditions
@@ -695,7 +695,7 @@ This rule fills the attachment fields as follows:
   - This applies to sentients who refuse rehabilitation offered on fair terms, and where less-restrictive protective measures cannot satisfy material safety necessity.
   - Imprisonment must satisfy the **Article XX-B** (*Restriction Floors*) joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XX-B** (*Restriction Floors*) requires of every justice measure.
   - Substituting deprivation of life, or failing to impose imprisonment where this bullet requires it, is non-compliant.
-  - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Twenty-One §5.2](core_21.000_misconduct_designation.md#52-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*) and uses the same attachment fields.
+  - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Twenty-One §6.2](core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*) and uses the same attachment fields.
 
 <a id="346-influence-pathway-locks"></a>
 ##### 3.4.6 Influence-Pathway Locks
@@ -1017,7 +1017,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - **Reassessment point:**
   - The published restoration or reinstatement finding above is the checkpoint for any narrowing or lifting.
   - Under [§3.1 Definition and Attachment](#31-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
-- **Read with:** [Chapter Twenty-One §5.2](core_21.000_misconduct_designation.md#52-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
+- **Read with:** [Chapter Twenty-One §6.2](core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
 
 <a id="356-dissolution-reformation-lock"></a>
 ##### 3.5.6 Dissolution Reformation Lock

@@ -1665,7 +1665,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**No standing or governance consequence for dissent or protest:** Exercising the dissent and peaceful protest floor — including [protected nonviolent civil disobedience](#xi-d-nonviolent-civil-disobedience) — must not, by itself or as a weighting factor:
   - open, support, extend, or aggravate a violation standing record under [Chapter Fifteen](core_15.000_standing_assessment.md#33-protected-dissent-is-not-a-trigger);
   - support a standing lock, deny or delay a competency clearance, or narrow any gated pathway under **Chapter Seventeen** or **Article XIX** (*Standing and Participation Status*);
-  - support an anti-constitutional misconduct designation under [Chapter Twenty-One §3.5 Dissent and Peaceful Protest Carve-Out](core_21.000_misconduct_designation.md#35-dissent-and-peaceful-protest-carve-out);
+  - support an anti-constitutional misconduct designation under [Chapter Twenty-One §4.5 Dissent and Peaceful Protest Carve-Out](core_21.000_misconduct_designation.md#45-dissent-and-peaceful-protest-carve-out);
   - reduce governance-voting, stakeholder-participation, candidacy, office-holding, forum service, or recall rights under **Article X-B** (*Governance Participation and Voting Entitlement*) and **Chapter Twenty-Five**;
   - count against a system's alignment certification under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#531-dissent-and-peaceful-protest);
   - justify monitoring, infiltration, threat scoring, or record accumulation, which **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) already bars; or
