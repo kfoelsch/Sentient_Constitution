@@ -304,7 +304,7 @@ The following processing order applies to both automated and manual decisions. I
 
 Steps 3 and 4 do not depend on each other. They can be decided in either order or together, and both are finished before step 5. Two rules govern how the tracks meet:
 
-- **Independence:** remedy, correction, safeguards, and locks come from the violation standing record alone, and contribution is not an input to them ([§2 Violation, Correction, and Prevention](core_19.000_violation_consequences.md#2-violation-correction-and-prevention)).
+- **Independence:** remedy, correction, safeguards, and locks come from the violation standing record alone, and contribution is not an input to them ([§2 Violation, Correction, and Prevention](core_19.000_violation_consequences.md#2-violation-correction-and-prevention)). The one exception is help given after the violation, which can count as restitution under [§2.1.2 Remedy](core_19.000_violation_consequences.md#212-remedy).
 - **Lock precedence:** an applicable standing lock controls the gated pathway it attaches to, and no contribution result opens a blocked gated pathway ([§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences)).
 
 <a id="35-inspection-and-outage-continuity"></a>

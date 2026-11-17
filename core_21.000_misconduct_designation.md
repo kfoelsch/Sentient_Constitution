@@ -93,7 +93,9 @@ Chapter Twenty-One is the constitutional owner of **final anti-constitutional-mi
 
 <br>
 
-*In plain terms: this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.*
+*In plain terms: this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot. Because anti-constitutional misconduct is a heightened risk to sentients, a final anti-constitutional-misconduct designation brings extra steps, and they are add-ons to the ordinary violation process, not changes to it.*
+
+**Heightened risk, add-on steps:** Anti-constitutional misconduct (ACM) poses a heightened level of risk to sentients. A final ACMD therefore brings extra steps, stated in **section 6**. These steps are special add-ons to the violation standing process and do not change it. The verified standing record, the Chapter Sixteen slot, and the ordinary remedy, correction, and lock rules for the violation stay as they are (**section 2.1**).
 
 **Purpose:** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1), [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2), and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) decides what follows (Question 3). This chapter decides only whether conduct already in slot 7, 8, or 9 is also anti-constitutional misconduct (ACM).
 
@@ -399,7 +401,7 @@ After final designation under **section 5** with these safeguards met, apply the
 - [§6.2 Prevention — Anti-Constitutional Locks](#62-prevention--anti-constitutional-locks); and
 - [§6.3 Voluntary Public Accountability Expression (Anti-Constitutional)](#63-voluntary-public-accountability-expression-anti-constitutional) where restorative pathways use public acknowledgment or apology.
 
-Each track starts when the ACMD is final and works from the same verified standing record. No track replaces another: repair does not cancel a lock, a lock does not cancel repair, and voluntary expression stands in for neither (**section 6.1** and **section 6.3**). This chapter changes no ordering rule in Chapter Nineteen, including the Opened-Remedy Precondition for general standing locks ([Chapter Nineteen §2.4.1 Opened-Remedy Precondition](core_19.000_violation_consequences.md#241-opened-remedy-precondition)).
+Each track starts when the ACMD is final and works from the same verified standing record. No track replaces another: repair does not cancel a lock, a lock does not cancel repair, and voluntary expression stands in for neither ([Chapter Nineteen §2.1.4 Remedy and Correction Together](core_19.000_violation_consequences.md#214-remedy-and-correction-together) and [Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression)). This chapter changes no ordering rule in Chapter Nineteen, including the Opened-Remedy Precondition for general standing locks ([Chapter Nineteen §2.4.1 Opened-Remedy Precondition](core_19.000_violation_consequences.md#241-opened-remedy-precondition)).
 
 The chart shows the three tracks starting together from a final ACMD and meeting in one reviewable package.
 
@@ -462,85 +464,16 @@ Chapter Seventeen remains the owner of general remedy, lock design and enforceme
 
 <br>
 
-*In plain terms: a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Seventeen's remedy and correction outputs, tightened for anti-constitutional-misconduct designation cases.*
+*In plain terms: a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. Chapter Nineteen §2.1 Remedy and Correction sets the rules for every verified violation, and they apply here in full. This subsection adds only what a final ACMD needs on top: a remedy record that covers the whole incident, correction of tainted governance, and one reviewable package.*
 
-After final designation under **section 5** with **section 6** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Seventeen requires under [Chapter Nineteen §2.1](core_19.000_violation_consequences.md#21-remedy-and-correction) (*Remedy and Correction*):
+After final designation under **section 5** with **section 6** safeguards met, [Chapter Nineteen §2.1 Remedy and Correction](core_19.000_violation_consequences.md#21-remedy-and-correction) applies in full to the verified slot 7–9 finding. [Chapter Twenty §4 Enforcement Realism and Remedy Systems](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) governs funding, execution, and anti-evasion. ACMD seriousness does not erase either the remedy duty or the correction duty. These ACM specializations also apply:
 
-- **Remedy:**
-  - **Acknowledge and repair:**
-    - acknowledgment;
-    - repair; or
-    - restoration.
-  - **Make up the loss:**
-    - compensation;
-    - substitute safeguards where literal repair is impossible; or
-    - comparable redress for affected sentients and interests.
-- **Correction:** changes needed to address the cause and stop continuation — including structural correction of tainted governance, systems, records, and decisions implicated by the ACMD — covering:
-  - **Conduct and role:**
-    - conduct; or
-    - role eligibility.
-  - **Structure:**
-    - systems;
-    - records; or
-    - incentives.
-  - **Oversight and protection:**
-    - supervision; or
-    - safeguards.
-
-Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while recurrence risk remains live. ACMD seriousness does not erase either duty.
-
-Two rules apply to both outputs:
-
+- **Whole unified incident:** The remedy record covers the whole **unified incident** ([§4.1 Unified Incident](#41-unified-incident)), including harm to constitutional challenge, participation, and remedy pathways.
+- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why.
+  - Whether a constitutional change itself stands is decided under [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity), not here.
+  - Structural correction of this kind is also a restoration condition of the **Anti-Constitutional Trust Lock** ([Chapter Nineteen §3.5.5 Anti-Constitutional Trust Lock](core_19.000_violation_consequences.md#355-anti-constitutional-trust-lock)).
 - **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate standing records that no one can check together.
-- **Boundary:**
-  - This section does not re-measure LEQU impact, invent or move numeric slots, add designation criteria, or move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Twenty-One.
-  - It states the ACM remedy-and-correction specialization triggered by a final ACMD on an existing **slot 7, 8, or 9** finding.
-  - Chapter Seventeen owns general remedy assignment and applies standing locks and final standing effects — including the **Anti-Constitutional Trust Lock** only after final ACMD.
-  - Operational mechanics remain in Chapter Twenty-Three and incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Six Rights Floor.
-
-This subsection has two parts:
-
-- [§6.1.1 Remedy](#611-remedy); and
-- [§6.1.2 Correction](#612-correction).
-
-##### 6.1.1 Remedy
-
-*In plain terms: remedy is what is owed to those harmed, who carries it, and when it starts. These rules keep the repair real rather than a label.*
-
-The remedy disposition must meet these rules:
-
-- **Affected-party and remedy identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure:
-  - affected sentients, classes, communities, institutions, systems, or constitutional challenge, participation, or remedy pathways;
-  - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
-  - restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural;
-  - responsible actors, roles, institutions, systems, funds, successors, or coordinating bodies that must carry or finance each remedy;
-  - commencement deadlines, completion milestones, verification requirements, and review triggers under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
-  - who supervises follow-through and what happens if delay occurs.
-- **Priority and interim protection:**
-  - Put affected parties and practical restoration first — ahead of reputation repair, institutional convenience, or ordinary administrative order.
-  - If waiting would likely defeat remedy, prolong dependency harm, destroy evidence, or let constitutional harm continue, consider lawful interim steps — protection, preservation, escrow, holdback, restoring access, keeping services running, or a comparable safeguard — and either order or reject them on the standing record.
-- **Non-substitution rule:**
-  - Imprisonment, standing locks, role exclusion, publication, apology, dissolving an institution, supervised operation, clawback from wrongdoers, or striking unlawful constitutional effect does not by itself count as repair owed to affected parties.
-  - It counts only when the standing record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm.
-  - Public acknowledgment or apology is governed by **section 6.3** where used.
-- **No offset by contribution:**
-  - Prior help, scarce expertise, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties.
-  - Those facts may affect sequencing, credit for cooperation, rehabilitation design, or recurrence-reduction conditions only where remedy for affected parties stays practical and accountable attribution stays intact.
-- **Execution realism and anti-evasion:**
-  - Where remedy needs funding, capacity, cross-institution coordination, tracing successors, recognition by another forum, or pooled execution, the disposition must name how that will happen — or say why a substitute safeguard is the proportionate lawful remedy instead.
-  - Relabeling entities, forum shopping, misusing confidentiality, insolvency structuring, or transferring custody must not be used to wipe out remedy obligations.
-
-##### 6.1.2 Correction
-
-*In plain terms: correction fixes what caused the harm and stops it continuing. These rules set out what the standing record must show for the cause side, as the remedy rules do for those harmed.*
-
-The correction disposition must meet these rules:
-
-- **Cause identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the unified incident possible or kept it going, read with **Article XXIV** (*Root Cause Analysis and Adaptive Response*).
-- **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why. Whether a constitutional change itself stands is decided under [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity), not here.
-- **Who carries it and when:** The disposition must name who carries each correction. It must also set commencement deadlines, completion milestones, and who supervises follow-through under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
-- **Completion:** Correction is complete only when the standing record shows it eliminates or resolves the cause. Completion opens a reassessment gated pathway where lawful, and non-completion keeps the violation finding live for standing purposes, as **Article XX-B** (*Restriction Floors*) states.
-- **Non-substitution, correction side:** Imprisonment, standing locks, role exclusion, or publication does not by itself count as correction. It counts only when the standing record shows it addresses the cause or stops continuation.
+- **Boundary:** This section does not move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Twenty-One. Those stay in [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) and the incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Six Rights Floor.
 
 #### 6.2 Prevention — Anti-Constitutional Locks
 
@@ -566,40 +499,11 @@ After final designation under **section 5** with **section 6** safeguards met:
 
 - **Mandatory special lock:** Chapter Seventeen must attach the **Anti-Constitutional Trust Lock** under [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Seventeen.
 - **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two permanent-lock grounds under [Chapter Twenty §3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment). Where a final ACMD rests on it and a dissolution order ends a Chartered Party, the order records the pervasive-conduct ground and the Dissolution Reformation Lock under [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) is permanent. This chapter adds no other permanent lock and does not restate the rule.
-
-This subsection has two parts:
-
-- [§6.2.1 Attachment-Field Discipline](#621-attachment-field-discipline); and
-- [§6.2.2 Imprisonment for Anti-Constitutional Misconduct](#622-imprisonment-for-anti-constitutional-misconduct).
-
-##### 6.2.1 Attachment-Field Discipline
-
-*In plain terms: any lock, liberty restriction, or imprisonment order that follows a final ACMD is recorded with the same six fields as a Chapter Seventeen lock, so it can be checked and reviewed.*
-
-Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Seventeen lock design and enforcement under [Chapter Nineteen §3 Lock Design and Enforcement](core_19.000_violation_consequences.md#3-lock-design-and-enforcement), and must be recorded using the [Chapter Nineteen §3.1 Definition and Attachment](core_19.000_violation_consequences.md#31-definition-and-attachment) attachment fields:
-
-- blocked or limited gated pathway;
-- risk reduced;
-- protected subjects or interests;
-- corrective conditions;
-- review route; and
-- reassessment point.
-
-##### 6.2.2 Imprisonment for Anti-Constitutional Misconduct
-
-*In plain terms: imprisonment is required where it is necessary to stop further constitutional harm, and it must meet the Chapter Seventeen and **Article XX-B** (*Restriction Floors*) safeguards.*
-
-Sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
-
-- This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
-- It applies to repeated or sustained patterns assessed as a unified incident under **section 4**.
-- **Section 4** decides whether the misconduct is verified and how serious it is; this subsection decides whether imprisonment is required as a liberty-restricting safeguard.
-- Imprisonment must satisfy:
-  - [Chapter Nineteen §3.4.5](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) (*Coercive or Liberty-Restricting Safeguards*);
-  - **Article XX-B** (*Restriction Floors*) joint requirements;
-  - individualized attribution, and challenge and appeal protections; and
-  - **Article XX-B** (*Restriction Floors*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
-- Substituting deprivation of life, release, administrative relabeling, or lesser measures alone when this subsection requires imprisonment is non-compliant.
+- **Imprisonment:** [Chapter Nineteen §3.4.5 Coercive or Liberty-Restricting Safeguards](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) governs imprisonment, including the **Article XX-B** (*Restriction Floors*) requirements and the lock attachment fields. For verified anti-constitutional misconduct it adds this trigger: sentients must be imprisoned when imprisonment is necessary to stop further constitutional harm, including conduct that functions as insurgency within the general population.
+  - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
+  - It applies to repeated or sustained patterns assessed as a unified incident under **section 4**.
+  - **Section 4** decides whether the misconduct is verified and how serious it is; this bullet decides whether imprisonment is required as a liberty-restricting safeguard.
+  - Substituting deprivation of life, release, administrative relabeling, or lesser measures alone where this bullet requires imprisonment is non-compliant.
 
 #### 6.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 
@@ -620,13 +524,9 @@ Sentients with verified anti-constitutional misconduct must be imprisoned when i
 
 *In plain terms: a public apology in an anti-constitutional misconduct case must meet Chapter Seventeen's general voluntariness and authenticity rules, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.*
 
-[Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression) supplies the general voluntary public accountability expression rule. After final designation under **section 5** with **section 6** safeguards met, the following ACM specializations also apply:
+[Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression) supplies the general rule, including voluntariness, authenticity, non-degradation, and non-substitution, and that refusal alone does not raise sanctions or widen a lock. After final designation under **section 5** with **section 6** safeguards met, this ACM specialization also applies:
 
-- **Voluntary public accountability expression:** Accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act where it supports repair, trust restoration, or community healing, subject to Chapter Nineteen §2.3 (*Voluntary Public Accountability Expression*) voluntariness, authenticity, non-degradation, and non-substitution controls.
-- **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
-  - It may carry negative justice consequences for the accountable party — including additional misconduct findings under **section 5**, reduced credit for rehabilitation, and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and **Chapter Fifteen**.
-  - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection or remediation under **section 6.1** or locks under **section 6.2**, is non-compliant.
-- Refusal to participate in public expression must not, by itself, increase baseline sanctions or widen the **Anti-Constitutional Trust Lock**.
+- **Inauthentic or abusive expression:** Public acknowledgment or apology that [Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression) treats as materially insincere, manipulative, performative, or abusive may also support additional misconduct findings under **section 5**, beyond the consequences listed there.
 
 ---
 

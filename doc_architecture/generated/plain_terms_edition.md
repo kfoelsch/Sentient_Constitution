@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_28.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **841** of **1343** headings carry a gloss (63%).
+Coverage: **837** of **1339** headings carry a gloss (63%).
 
 ## Contents
 
@@ -47,7 +47,7 @@ Coverage: **841** of **1343** headings carry a gloss (63%).
 - [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (8/9 glossed)
 - [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (40/48 glossed)
 - [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (11/17 glossed)
-- [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (13/21 glossed)
+- [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (9/17 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
 - [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (8/29 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (1/2 glossed)
@@ -6140,11 +6140,11 @@ standing consequences and redress count only when real institutions can deliver 
 
 ## CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION
 
-Source file: [`core_21.000_misconduct_designation.md`](../../core_21.000_misconduct_designation.md) · 13/21 headings glossed
+Source file: [`core_21.000_misconduct_designation.md`](../../core_21.000_misconduct_designation.md) · 9/17 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot.
+this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot. Because anti-constitutional misconduct is a heightened risk to sentients, a final anti-constitutional-misconduct designation brings extra steps, and they are add-ons to the ordinary violation process, not changes to it.
 
 [Source](../../core_21.000_misconduct_designation.md#1-purpose-role-and-scope)
 
@@ -6222,39 +6222,15 @@ nobody receives a final anti-constitutional designation without process. There h
 
 ##### 6.1 Remedy and Correction (Anti-Constitutional)
 
-a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Seventeen's remedy and correction outputs, tightened for anti-constitutional-misconduct designation cases.
+a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. Chapter Nineteen §2.1 Remedy and Correction sets the rules for every verified violation, and they apply here in full. This subsection adds only what a final ACMD needs on top: a remedy record that covers the whole incident, correction of tainted governance, and one reviewable package.
 
 [Source](../../core_21.000_misconduct_designation.md#61-remedy-and-correction-anti-constitutional)
-
-###### 6.1.1 Remedy
-
-remedy is what is owed to those harmed, who carries it, and when it starts. These rules keep the repair real rather than a label.
-
-[Source](../../core_21.000_misconduct_designation.md#611-remedy)
-
-###### 6.1.2 Correction
-
-correction fixes what caused the harm and stops it continuing. These rules set out what the standing record must show for the cause side, as the remedy rules do for those harmed.
-
-[Source](../../core_21.000_misconduct_designation.md#612-correction)
 
 ##### 6.2 Prevention — Anti-Constitutional Locks
 
 after final anti-constitutional-misconduct designation, Chapter Seventeen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Seventeen lock format and states the ACM imprisonment specialization.
 
 [Source](../../core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks)
-
-###### 6.2.1 Attachment-Field Discipline
-
-any lock, liberty restriction, or imprisonment order that follows a final ACMD is recorded with the same six fields as a Chapter Seventeen lock, so it can be checked and reviewed.
-
-[Source](../../core_21.000_misconduct_designation.md#621-attachment-field-discipline)
-
-###### 6.2.2 Imprisonment for Anti-Constitutional Misconduct
-
-imprisonment is required where it is necessary to stop further constitutional harm, and it must meet the Chapter Seventeen and **Article XX-B** (*Restriction Floors*) safeguards.
-
-[Source](../../core_21.000_misconduct_designation.md#622-imprisonment-for-anti-constitutional-misconduct)
 
 ##### 6.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 

@@ -300,6 +300,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
 - **Contribution standing records and competency clearances:**
   - Verified contribution may support applicable **competency clearances** against published **competency bars** and support trust-, role-, or recognition-linked eligibility where current and role-relevant.
   - Verified contribution must not offset, average down, excuse, or relabel a verified violation finding.
+  - Help given after a violation may be credited as restitution under [Chapter Nineteen §2.1.2 Remedy](core_19.000_violation_consequences.md#212-remedy). The credit reduces the remedy still owed. It does not offset, average down, excuse, or relabel the violation finding.
   - Gate satisfaction does not waive any applicable standing lock.
 
 **The only exception:** If a violation finding itself disproves a claimed contribution — for example, if evidence shows you didn't actually do what your contribution record claims — then the linked contribution standing record can be corrected or removed through the proper evidence and review process, with the required cross-reference under **section 5.2**. But the violation does not automatically erase unrelated help recorded in separate contribution standing records.
