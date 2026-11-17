@@ -12,9 +12,13 @@
 
 This file is the joint-structure reader guide. It is reader guidance only.
 
+## Purpose, Role, and Scope
+
 *In plain terms: this page tells you how to enter the joint-structure layer, how labels work, and which file to open next — without adding any duties.*
 
-You do **not** need to read this folder front to back. Most readers open one cited section, or follow a topic, and leave.
+The guide helps readers find the applicable Joint Structure text and understand its labels. The binding scope and shared contract are in [CJS-0.110 §0 Purpose, Role, and Scope](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-role-and-scope) and [CJS-0.110 §3 Shared Implementation-Corpus Preamble Contract](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract).
+
+You do **not** need to read this folder front to back. Most readers open a cited section or follow a topic to the relevant file.
 
 ## Where to Start
 
@@ -24,7 +28,7 @@ You do **not** need to read this folder front to back. Most readers open one cit
 | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section; maintainer table: [CJS-0.105 §1 Cross-File Routing](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) |
 | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
 | **Following a citation** — a file sent you to **CJS-0.110 §1**, **CJS-29.110 §3**, or another labeled section | Open that section only, not the whole family |
-| **Cross-cutting operational terms** (**oDef**) — evidence, procedure, dependency, participation, failure handling | [CJS-5.105 / oDef library](cjs_05.105_cross_implementation_operational_terms.md) (**oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n***) |
+| **Cross-cutting operational terms** (**oDef**) — evidence, procedure, dependency, participation, failure handling | [CJS-5.105 / oDef library](cjs_05.105_cross_implementation_operational_terms.md); each numbered **oDef** identifies a shared operational cluster |
 
 ## The Four Implementation Layers
 
@@ -58,11 +62,11 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **CJS** (this layer) | **CJS-0.110, CJS-29.105, CJS-5.140, and CJS-8.105**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-29.110 §3** | Joint-structure sections |
+| **CJS** (this layer) | **CJS-0.110**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-29.110 §3** | Joint-structure files and sections |
 | **CS** | **CS-0.310** through **CS-6.340** | Systems families |
 | **CI** | **CI-0.210**, **CI-8.215 §2**, **CI-9.210** | Institutions sections |
 | **CF** | **CF-0.410**, **CF-23.410**, **CF-23.425 §2** | Forum sections |
-| **oDef** (operational definitions) | **oDef.13**, **oDef.16**, **oDef.3** | Shared how-to clusters in **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (same as **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n***) |
+| **oDef** (operational definitions) | **oDef.13**, **oDef.16**, **oDef.3** | Shared how-to clusters in the **CJS-5.105** (*operational cluster library*) through **CJS-5.135** (*Integrative cross-leg operations*) files; for example, **oDef.13** is **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*) |
 
 | If you are trying to… | Open |
 |------------------------|---------|
@@ -95,9 +99,10 @@ Binding parse rules: [CJS-5.140 §13](cjs_05.140_odef_parse_mechanics.md#cjs-514
 |---|---|---|---|
 | **Reader guide** (this file) | How to enter the layer | Average humans | this file |
 | **CJS-0.105** | Registry, identifier notes, topic router | Editors, auditors, readers who are lost | [cjs_00.105_registry_and_reading_rules.md](cjs_00.105_registry_and_reading_rules.md) |
-| **CJS-0.110, CJS-29.105, CJS-5.140, and CJS-8.105** | Scope, shared contract, identifiers | Editors, auditors; general readers when cited | [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-scope-purpose-and-boundary-interface) |
+| **CJS-0.110** | Scope, shared contract, identifiers | Editors, auditors; general readers when cited | [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-scope-purpose-and-boundary-interface) |
 | **CJS-29.105 §7**–**CJS-29.105 §8.1** | Drafting and seam contracts | Editors and auditors | [cjs_29.105_drafting_contracts.md](cjs_29.105_drafting_contracts.md) |
 | **CJS-5.140 §13**–**CJS-5.140 §14** | How to parse **oDef** entries | Anyone using **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** | [cjs_05.140_odef_parse_mechanics.md](cjs_05.140_odef_parse_mechanics.md) |
+| **CJS-8.105** | Support roles, hosting independence, and classification alignment | Readers following a support or hosting interface | [cjs_08.105_support_hosting_classification.md](cjs_08.105_support_hosting_classification.md) |
 | **CJS-29.110** | Specific joint interlocks | Topic-driven readers when routed | [cjs_29.110_specific_joint_interlocks.md](cjs_29.110_specific_joint_interlocks.md) |
 | **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** / **oDef** | Shared operational definitions | Readers needing joint how-to terms | [cjs_05.105_cross_implementation_operational_terms.md](cjs_05.105_cross_implementation_operational_terms.md) |
 
