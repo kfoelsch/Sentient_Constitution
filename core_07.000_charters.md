@@ -7,7 +7,7 @@
 >
 > - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and the formation check on the standing and authenticity of the holders of covered offices.
 > - **Definition home:** [System Charter](core_05.040_band_continuity.md#system-charter), [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), [Chartered Party](core_05.040_band_continuity.md#chartered-party), and [Operating Party](core_05.050_band_oversight.md#operating-party) are defined in Chapter Five. This chapter applies them and does not redefine them.
-> - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter Contents, Review, and Formation Template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Twenty-Eight §4 Adoption Framing and Scope of Authority](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the requirements in this chapter bind as core text.
+> - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter Contents, Review, and Formation Template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Twenty-Nine §4 Adoption Framing and Scope of Authority](core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the requirements in this chapter bind as core text.
 > - **Downstream consumers:** [Chapter Eight §6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Twelve tests the formation check statement for an Institution. [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) applies it to standing records. [Chapter Twenty-Three §4.3 Institutional Forums](core_23.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
 > Reading order: §2 when System and Institutional Charters are required, with the chart that maps the process → §3 the right to form and five narrow limits → §4 what they must state → §5 the Charter Role Map and standing-record custody → §6 the formation check on office-holder standing and authenticity → §7 when a holder fails the formation check → §8 amendment, review, and scope misalignment.
@@ -35,7 +35,7 @@
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000);
-  - [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000); designated implementation text named above.
+  - [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000); designated implementation text named above.
 - Read with:
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [System Boundaries](core_05.040_band_continuity.md#system-boundaries);
@@ -154,7 +154,7 @@ A System of Class L or higher must publish and maintain a [System Charter](core_
 - **Businesses and comparable forms:** A business or other stewarded organizational form publishes whichever of the System Charter or Institutional Charter applies to it as a System, as an Institution, or as an Institution that operates a covered System. Its legal form does not change the answer.
 - **Joint professional practice:** A sentient or small practice of Class L or higher may meet this section for the acts a host's documents cover by adopting a host's System Charter or Institutional Charter and Charter Role Map:
   - **What is adopted:** By reference, the System Charter or Institutional Charter and Charter Role Map of a host in a joint professional practice, which must cover the practice's acts, whether or not they need a practice licence or practice clearance.
-  - **Adoption notice:** The one-page notice that **CI-24.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*) describes.
+  - **Adoption notice:** The one-page notice that **CI-25.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*) describes.
   - **Class:** The practice stays the class its own acts give it.
 
 <a id="22-which-classes-are-covered"></a>
@@ -421,8 +421,8 @@ The fifth limit works on one act of an Institution, exercising new material auth
   - [Chapter Eleven §2.1 Minimum Record Contents](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*the System Charter fields a System Certification Record relies on*);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) for the full field list.
 - Read with:
-  - [Chapter Twenty-Eight §4 Adoption Framing and Scope of Authority](core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (28.000 §4) (*a scope document kept under another name*);
-  - [Chapter Twenty-Four §5.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_24.000_governance.md#53-decision-resolution-requirements-for-binding-stakeholder-choice) (24.000 §5.3);
+  - [Chapter Twenty-Nine §4 Adoption Framing and Scope of Authority](core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (29.000 §4) (*a scope document kept under another name*);
+  - [Chapter Twenty-Five §5.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_25.000_governance.md#53-decision-resolution-requirements-for-binding-stakeholder-choice) (25.000 §5.3);
   - **CI-6.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*);
   - **CI-6.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
 
@@ -449,11 +449,11 @@ A System Charter states, in plain language that affected sentients and auditors 
 1. **Identity and version:** the name, the steward or governing body, the version, the effective date, and the change history.
 2. **Purpose:** what the Chartered Party exists to do.
 3. **In-scope activities:** the functions, services, authorities, and domains it claims.
-   - **A claim, not a grant:** The document states authority the Chartered Party already holds and gives it none. Whether that authority is legitimate, including where it rests on a Constitutional Charter, is decided under [Chapter Twenty-Four §2 Authorization and Legitimacy of Governing Authority](core_24.000_governance.md#2-authorization-and-legitimacy-of-governing-authority).
+   - **A claim, not a grant:** The document states authority the Chartered Party already holds and gives it none. Whether that authority is legitimate, including where it rests on a Constitutional Charter, is decided under [Chapter Twenty-Five §2 Authorization and Legitimacy of Governing Authority](core_25.000_governance.md#2-authorization-and-legitimacy-of-governing-authority).
 4. **Out-of-scope limits:** the material activities, authorities, and domains it is not authorized to exercise.
 5. **Affected communities and dependencies:** who relies on the Chartered Party, and which systems or infrastructure it depends on or gates, where material.
    - **Not an opt-out:** Leaving a group off this list does not take it out of scope. A sentient the Chartered Party materially affects keeps every Rights Floor protection whether or not the document names it, and a list narrower than the real reliance is read against the real reliance.
-6. **Classification assumptions:** the class or stewardship level relied on, with a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*) and **CS-24.305** (*Critical system stewardship*) where they apply.
+6. **Classification assumptions:** the class or stewardship level relied on, with a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*) and **CS-25.305** (*Critical system stewardship*) where they apply.
 7. **Charter Role Map:** the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), or a Charter Pointer to the published document that is the Charter Role Map ([§5 The Charter Role Map and Standing-Record Custody](#5-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
    - **When it applies:** when a real disagreement among affected sentients requires a binding stakeholder choice inside the system. [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice) calls this its admission scope.
@@ -484,7 +484,7 @@ This subsection says what a System Charter or Institutional Charter may claim wh
 - **The limit:** If an act requires a practice licence or practice clearance, a System Charter or Institutional Charter can't list it as something the Chartered Party does, and the Chartered Party can't do it, unless every sentient who performs it either holds the licence or clearance or works as a learner under a supervisor who does.
 - **Until then:** The System Charter or Institutional Charter lists the act under item 4 ([§4.1 What a System Charter States](#41-what-a-system-charter-states)) as out of scope.
 - **If claimed without a holder:** It is a missing item to log and fix, and it does not stop the Chartered Party from forming, publishing, or carrying on its other work.
-- **Where to look:** [§3 The Right to Form, and Five Narrow Limits](#3-the-right-to-form-and-five-narrow-limits) says where the requirement comes from, and **CI-24.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*) holds the entries and the host check.
+- **Where to look:** [§3 The Right to Form, and Five Narrow Limits](#3-the-right-to-form-and-five-narrow-limits) says where the requirement comes from, and **CI-25.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*) holds the entries and the host check.
 
 <a id="45-scaling"></a>
 #### 4.5 Scaling
@@ -520,8 +520,8 @@ Some parts of a System Charter or Institutional Charter scale with class and som
   - [Chapter Ten §2.1.1 Four Seats in a Certification](core_10.000_system_alignment_certification_forum_process_outcomes.md#211-four-seats-in-a-certification) (10.000 §2.1.1);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
   - **CI-8.205 §2** (*Functional Separation Lanes*);
-  - **CI-24.205 §5** (*Authorized Roles and Accountability Chains*);
-  - **CI-24.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - **CI-25.205 §5** (*Authorized Roles and Accountability Chains*);
+  - **CI-25.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Read with: [Material Control Line](core_05.035_band_accountability.md#material-control-line); [Standing Record](core_05.035_band_accountability.md#standing-record).
 
 </details>
@@ -720,7 +720,7 @@ The same clock applies to certification seats. If the map does not name who star
   - [Standing Record](core_05.035_band_accountability.md#standing-record);
   - [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing);
   - [Chapter One §17.5 Duty to Resist](core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) (1.040 §17.5);
-  - **CI-24.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*);
+  - **CI-25.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*);
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 </details>
@@ -751,7 +751,7 @@ Before a sentient takes a covered office, the Chartered Party checks and records
 - no [standing lock](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) or [special lock](core_19.000_violation_consequences.md#35-special-locks), including the [Institutional Authority Standing Lock](core_19.000_violation_consequences.md#35-special-locks), is in force that blocks the gated pathway the office is (the outstanding-lock gate in **Article XI-E** (*Institutional Formation and Business Creation*));
 - no [Interim Hold](core_05.035_band_accountability.md#interim-hold) (**Article XI-E** (*Institutional Formation and Business Creation*)) is in force on the sentient for that office;
 - the published [competency bar](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) for that gated pathway is met, with competency clearance where the gated pathway needs it; and
-- each conflict is disclosed under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and cleared by a seat independent of the holder, and any cooling-off period under **CI-24.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) is observed.
+- each conflict is disclosed under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and cleared by a seat independent of the holder, and any cooling-off period under **CI-25.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) is observed.
 
 Only verified standing records count, and only through the [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing) gate. An unverified allegation, a rumor, a reputation, social prestige, or the holder's identity, background, health, or disability as such is not standing and is not considered. This section creates no lock, no hold, no bar, and no standing record.
 
@@ -893,7 +893,7 @@ The formation check is kept in proportion to what it protects:
   - **CI-19.210** (*Institutional failure and dissolution*);
   - **CI-19.215** (*Institutional accountability and sanctions*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
-- Read with: [Interim Hold](core_05.035_band_accountability.md#interim-hold); [Stay](core_05.035_band_accountability.md#stay); **CI-24.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
+- Read with: [Interim Hold](core_05.035_band_accountability.md#interim-hold); [Stay](core_05.035_band_accountability.md#stay); **CI-25.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
 
 </details>
 
@@ -919,7 +919,7 @@ A failed or late formation check is a defect to log and correct. On its own it i
 
 When a sentient fails the standing check:
 
-- **Out of the office:** The sentient may not hold that office. The role rules in **CI-24.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) already say so, and where the cause is an outstanding lock or an Interim Hold, so does **Article XI-E** (*Institutional Formation and Business Creation*).
+- **Out of the office:** The sentient may not hold that office. The role rules in **CI-25.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) already say so, and where the cause is an outstanding lock or an Interim Hold, so does **Article XI-E** (*Institutional Formation and Business Creation*).
 - **Filling the seat:** Someone else takes the office, or a substitute does, and the change is recorded in a new dated version of the Role Map.
 - **No lawful holder:** If that leaves the Chartered Party without a lawful holder of a governing office and others depend on it, the forum with jurisdiction may name an interim steward and does not stop the Chartered Party, as [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) provides for the Interim Hold.
 

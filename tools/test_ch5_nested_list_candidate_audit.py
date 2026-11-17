@@ -584,7 +584,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "14",
                     "--file",
-                    "core_24.000_governance.md",
+                    "core_25.000_governance.md",
                     "--top",
                     "3",
                 ]
@@ -638,7 +638,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "15",
                     "--file",
-                    "core_25.000_non_regression.md",
+                    "core_26.000_non_regression.md",
                     "--top",
                     "3",
                 ]

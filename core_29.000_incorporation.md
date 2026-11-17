@@ -1,13 +1,13 @@
-# CHAPTER TWENTY-EIGHT: INCORPORATION BRIDGE
+# CHAPTER TWENTY-NINE: INCORPORATION BRIDGE
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Eight**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) and [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Twenty-Three — including the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Nine**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) and [Chapters Twenty-Six through Twenty-Eight](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Twenty-Three — including the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Eight lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Nine lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
 > - **Constitutional owner:** which **implementation text** files count as **binding incorporated implementation text** when adopted; **edition pinning** and **custody chain**; **safeguards** against silent drift and evasion; **invocation** of adopted implementation obligations within stated adoption scope; and this Constitution’s **adoption framing** (what the text says versus what a particular adopter can enforce). Source-layer status lives under the **[Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Five**; textual and incorporation-layer conflict procedure lives in **[Chapter One — §15.4 Constitutional Meaning Conflict Resolution](core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
@@ -24,8 +24,8 @@
 - Upstream:
   - [**Corpus**](core_05.045_band_integrative.md#corpus) (*what the corpus is, which **implementation text** it lists, and who keeps it*);
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status — not restated here*);
-  - [Chapters Twenty-Five through Twenty-Seven](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (*ratification, adoption chain, supremacy, and procedural validity*);
-  - [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) (27.000) (*internal hierarchy for adopters where applicable*);
+  - [Chapters Twenty-Six through Twenty-Eight](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (*ratification, adoption chain, supremacy, and procedural validity*);
+  - [Chapter Twenty-Eight](core_28.000_expansion_supremacy.md#chapter-twenty-eight-expansion-supremacy-and-external-legal-orders) (28.000) (*internal hierarchy for adopters where applicable*);
   - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.030 §15.4) (*single conflict procedure — not restated here*).
 - Subsections:
   - [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope);
@@ -40,7 +40,7 @@
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000),
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000),
   - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000), and
-  - [Chapter Twenty-Four](core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (24.000) where cross-references invoke incorporation discipline).
+  - [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) where cross-references invoke incorporation discipline).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — incorporated text must not narrow principle-layer obligations;
@@ -52,7 +52,7 @@
 
 <br>
 
-Chapter Twenty-Eight is the constitutional owner of **the incorporation bridge**, which is how this Constitution connects to the rulebooks an adopter actually follows: it fixes which files and which edition bind, guards against quiet changes and workarounds, and keeps what this Constitution says separate from what an adopter can enforce.
+Chapter Twenty-Nine is the constitutional owner of **the incorporation bridge**, which is how this Constitution connects to the rulebooks an adopter actually follows: it fixes which files and which edition bind, guards against quiet changes and workarounds, and keeps what this Constitution says separate from what an adopter can enforce.
 
 ### 1. Purpose, Role, and Scope
 <details>
@@ -81,7 +81,7 @@ Chapter Twenty-Eight is the constitutional owner of **the incorporation bridge**
 
 <br>
 
-*In plain terms: this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only through proper re-adoption under Chapter Twenty-Six and this chapter. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.*
+*In plain terms: this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only through proper re-adoption under Chapter Twenty-Seven and this chapter. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.*
 
 **Purpose:** This chapter is the **constitutional incorporation bridge**. It answers three questions:
 
@@ -94,7 +94,7 @@ Chapter Twenty-Eight is the constitutional owner of **the incorporation bridge**
 - The designated **implementation text** files listed in the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover.
 - Those files carry out this Constitution under **Chapter One**. They do not replace it.
 - Combining the files into one document for packaging does **not** change their status, as long as they stay on that list.
-- A reference to **Chapter Twenty-Eight** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
+- A reference to **Chapter Twenty-Nine** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
 
 **Chapter scope:** The chapter covers:
 
@@ -110,7 +110,7 @@ When a rule points to this chapter or to an incorporated file, it brings in only
 
 - Upstream:
   - [§1](#1-purpose-role-and-scope) (*bridge role and invocation within adoption scope*);
-  - [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) (*recorded adoption chain*);
+  - [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) (*recorded adoption chain*);
   - [**Corpus**](core_05.045_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000).
 - Downstream: [§3 Safeguards](#3-safeguards) (*anti-drift and anti-evasion rules*); [§4 Adoption Framing and Scope of Authority](#4-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
@@ -139,7 +139,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
   - [corpus_joint_structure.md](corpus_joint_structure.md) (*Constitutional Joint Structure*)
   - any further **implementation text** files listed in the [**Corpus**](core_05.045_band_integrative.md#corpus) entry in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions)
 
-  Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Six** and this chapter.
+  Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Seven** and this chapter.
 
   - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_23.475_sentience_status_record.md`](corpus_forum/cf_23.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §5 Escalation and Questions for Ruling](core_23.000_forum.md#5-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
 - **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
@@ -158,27 +158,27 @@ This section sets out how incorporated text is pinned to editions, held in custo
 
 - Upstream:
   - [§2](#2-custody-editions-and-operative-effect) (*edition pinning and custody chain*);
-  - [Chapter Twenty-Six](core_26.000_amendment_ratification.md#chapter-twenty-six-amendment-ratification-and-procedural-validity) (26.000) (*re-adoption path*);
-  - [Chapter Twenty-Five §4](core_25.000_non_regression.md#4-anti-evasion-clause) (25.000 §4) (*anti-evasion rule*);
+  - [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) (*re-adoption path*);
+  - [Chapter Twenty-Six §4](core_26.000_non_regression.md#4-anti-evasion-clause) (26.000 §4) (*anti-evasion rule*);
   - [Chapter One §15.4.3](core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (1.030 §15.4.3) (*clearly adopted baseline*).
 - Downstream: [§4](#4-adoption-framing-and-scope-of-authority) (*operative effect contingent on valid adoption*).
-- Read with: [Chapters Twenty-Three and Twenty-Four](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
+- Read with: [Chapters Twenty-Three and Twenty-Five](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
 
 </details>
 
 <br>
 
-*In plain terms: quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until a real re-adoption under Chapters Twenty-Six and Twenty-Seven.*
+*In plain terms: quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until a real re-adoption under Chapter Twenty-Seven and Chapter Twenty-Nine.*
 
 This section sets out the safeguards that protect incorporated text:
 
-- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly adopted through **Chapter Twenty-Six** and **Chapter Twenty-Eight** procedures. This rule applies to:
+- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly adopted through **Chapter Twenty-Seven** and **Chapter Twenty-Nine** procedures. This rule applies to:
   - substantive revisions;
   - editorial compressions presented as non-substantive;
   - renumbering that changes binding cross-reference targets; and
   - silent edition-relabeling without adoption.
 
-    Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up through re-adoption under **Chapter Twenty-Six** and **Chapter Twenty-Eight**; until they are validly re-adopted, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
+    Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up through re-adoption under **Chapter Twenty-Seven** and **Chapter Twenty-Nine**; until they are validly re-adopted, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
 
 - **Anti-evasion:** Calling a post-adoption edit any of the following does **not** make it count as non-substantive when the real constitutional effect is the same as a substantive change:
   - “clarification”;
@@ -187,7 +187,7 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Twenty-Five, section 4](core_25.000_non_regression.md#4-anti-evasion-clause)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation Layer](core_01.030_constitutional_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Twenty-Three and Twenty-Four**.
+  The anti-evasion **rule** in **[Chapter Twenty-Six, section 4](core_26.000_non_regression.md#4-anti-evasion-clause)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation Layer](core_01.030_constitutional_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Twenty-Three and Twenty-Five**.
 
 ### 4. Adoption Framing and Scope of Authority
 <details>
@@ -196,10 +196,10 @@ This section sets out the safeguards that protect incorporated text:
 - Upstream:
   - [§1](#1-purpose-role-and-scope)–
   - [§3](#3-safeguards) (*bridge role, custody, and safeguards*);
-  - [Chapter Twenty-Six §11](core_26.000_amendment_ratification.md#11-ratification-and-adoption) (26.000 §11) (*deliberate adoption, document, and joining*);
-  - [Chapter Twenty-Four §2](core_24.000_governance.md#2-authorization-and-legitimacy-of-governing-authority) (24.000 §2) (*pluralism*).
+  - [Chapter Twenty-Seven §11](core_27.000_amendment_ratification.md#11-ratification-and-adoption) (27.000 §11) (*deliberate adoption, document, and joining*);
+  - [Chapter Twenty-Five §2](core_25.000_governance.md#2-authorization-and-legitimacy-of-governing-authority) (25.000 §2) (*pluralism*).
 - Downstream: [README.md](README.md) (*reader-facing adoption framing summary*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless adopted*).
-- Read with: [Chapter Twenty-Five](core_25.000_non_regression.md#chapter-twenty-five-non-regression-and-substantive-amendment-validity) (25.000) (*non-regression limits on partial adoption*); [Chapter Twenty-Seven](core_27.000_expansion_supremacy.md#chapter-twenty-seven-expansion-supremacy-and-external-legal-orders) (27.000) (*supremacy and external-order interaction where adopters expand protections*); [Chapter Twenty-Seven §6](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law) (27.000 §6) (*non-displacement of applicable external law; alignment when used inside an external legal framework*).
+- Read with: [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (26.000) (*non-regression limits on partial adoption*); [Chapter Twenty-Eight](core_28.000_expansion_supremacy.md#chapter-twenty-eight-expansion-supremacy-and-external-legal-orders) (28.000) (*supremacy and external-order interaction where adopters expand protections*); [Chapter Twenty-Eight §6](core_28.000_expansion_supremacy.md#6-relation-to-applicable-external-law) (28.000 §6) (*non-displacement of applicable external law; alignment when used inside an external legal framework*).
 
 </details>
 
@@ -207,22 +207,22 @@ This section sets out the safeguards that protect incorporated text:
 
 *In plain terms: this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by adopting on purpose through the published rules — and “we never adopted” answers enforcement, not what the text says. Publishing it does not override other law.*
 
-**What it is.** This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Twenty-Six** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+**What it is.** This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Twenty-Seven** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
-**Who may adopt.** Valid adopters may include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can bind itself and the systems under its authority to these obligations. Adoption may cover the whole Constitution or only specified chapters, articles, or obligations, consistent with **Chapter Twenty-Six** and **Chapter Twenty-Five** non-regression rules. Partial adoption may not wipe out the non-regression floor. Incorporation and partial adoption must not be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears under its own law or binding documents.
+**Who may adopt.** Valid adopters may include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can bind itself and the systems under its authority to these obligations. Adoption may cover the whole Constitution or only specified chapters, articles, or obligations, consistent with **Chapter Twenty-Seven** and **Chapter Twenty-Six** non-regression rules. Partial adoption may not wipe out the non-regression floor. Incorporation and partial adoption must not be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears under its own law or binding documents.
 
-Nothing here requires one world government, one federation design, or one adoption method. Different adopters may use different internal procedures consistent with **Chapter Twenty-Six**. That matches the pluralism commitment in **Chapter Twenty-Four §2** (*Authorization and Legitimacy of Governing Authority*).
+Nothing here requires one world government, one federation design, or one adoption method. Different adopters may use different internal procedures consistent with **Chapter Twenty-Seven**. That matches the pluralism commitment in **Chapter Twenty-Five §2** (*Authorization and Legitimacy of Governing Authority*).
 
-**How / when adoption counts.** Adoption counts only when it is deliberate, documented, and auditable under **[Chapter Twenty-Six §11](core_26.000_amendment_ratification.md#11-ratification-and-adoption)** (*Ratification and Adoption*), with incorporation and custody under this chapter. Informal, silent, or “we kind of follow it” practice is not enough to claim constitutional protection while dodging the matching obligations. The notice, contest, document, and custody details live in Chapter Twenty-Six — this section does not restate them.
+**How / when adoption counts.** Adoption counts only when it is deliberate, documented, and auditable under **[Chapter Twenty-Seven §11](core_27.000_amendment_ratification.md#11-ratification-and-adoption)** (*Ratification and Adoption*), with incorporation and custody under this chapter. Informal, silent, or “we kind of follow it” practice is not enough to claim constitutional protection while dodging the matching obligations. The notice, contest, document, and custody details live in Chapter Twenty-Seven — this section does not restate them.
 
 **A scope document kept under another name.** A body that already keeps a published scope document under another name meets the System Charter or Institutional Charter duty in [Chapter Seven §2.1 Who Must Publish](core_07.000_charters.md#21-who-must-publish) with it only if it states the minimum in [Chapter Seven §4 What System and Institutional Charters Must State](core_07.000_charters.md#4-what-system-and-institutional-charters-must-state) and is identified as the Chartered Party's System Charter or Institutional Charter, with the reasons recorded. Marketing copy, a mission slogan, or a terms-of-service page that is not offered as the scope document does not.
 
 **What non-adoption means.** The substance of this Constitution — including principles in **Chapter One**, definitions in **Chapter Five**, the Rights Floor in **Chapter Six**, and the other substantive chapters — **does not wait on adoption** to be what this Constitution states. “This Constitution lacks jurisdiction” is correct only about **enforcement** against a non-adopter. It is not a reason to shrink the substance in any analysis that uses this framework. Accepting the framework while denying its substance on jurisdictional grounds is non-compliant with this section.
 
-**Relation to applicable external law.** Non-displacement of applicable local, national, or international law, the limited binding effect of valid adoption, and alignment when this Constitution is used inside an external legal framework are governed by [Chapter Twenty-Seven §6 Relation to Applicable External Law](core_27.000_expansion_supremacy.md#6-relation-to-applicable-external-law). This section does not restate or narrow those rules.
+**Relation to applicable external law.** Non-displacement of applicable local, national, or international law, the limited binding effect of valid adoption, and alignment when this Constitution is used inside an external legal framework are governed by [Chapter Twenty-Eight §6 Relation to Applicable External Law](core_28.000_expansion_supremacy.md#6-relation-to-applicable-external-law). This section does not restate or narrow those rules.
 
 ---
 
-**Previous file:** [core_27.000_expansion_supremacy.md](core_27.000_expansion_supremacy.md)
+**Previous file:** [core_28.000_expansion_supremacy.md](core_28.000_expansion_supremacy.md)
 
 **Next file:** [corpus_joint_structure.md](corpus_joint_structure.md)

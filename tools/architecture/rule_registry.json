@@ -265,36 +265,36 @@
     },
     {
       "id": "CH16-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Four nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Four labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Five nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Five labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch16-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH17-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Five nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Five labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Six nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Six labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch17-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH18-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Seven nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Seven bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Eight nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Eight bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch18-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH19-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Six nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Six bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Seven nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Seven bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch19-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH20-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Twenty-Eight nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twenty-Eight bullets that would scan better as nested children. Not a regression gate.",
+      "legacy_ref": "Chapter Twenty-Nine nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twenty-Nine bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch20-nested-list-candidates",
       "status": "advisory"
     },
@@ -329,7 +329,7 @@
     {
       "id": "REF-WRAPPER-01",
       "legacy_ref": "section 7 companion family cites (wrapper files)",
-      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Twenty-Eight are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
+      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Twenty-Nine are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
       "make_target": "wrapper-cite-audit",
       "status": "blocking"
     },

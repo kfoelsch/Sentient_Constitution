@@ -129,7 +129,7 @@ def render_rights_sheet(rows: list[dict], edition: str, effective: str) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_27.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
+        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Twenty-Eight](../../core_28.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
         "",
         f"Coverage: **{glossed}** of **{len(rows)}** Article headings carry a gloss.",
         "",

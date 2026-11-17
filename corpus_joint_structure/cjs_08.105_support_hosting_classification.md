@@ -3,9 +3,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-8.105 §9** (*support-versus-merits boundary, host independence, and classification alignment*), **CJS-8.105 §10**, and **CJS-8.105 §11**. Public IDs remain **CJS-8.105 §9**–**CJS-8.105 §11**. The filename is `cjs_06_*` because these sections are not the **CJS-28.110** chapter; they are joint seams that **CJS-28.110** still points to.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-8.105 §9** (*support-versus-merits boundary, host independence, and classification alignment*), **CJS-8.105 §10**, and **CJS-8.105 §11**. Public IDs remain **CJS-8.105 §9**–**CJS-8.105 §11**. The filename is `cjs_06_*` because these sections are not the **CJS-29.110** chapter; they are joint seams that **CJS-29.110** still points to.
 >
-> Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-28.110](cjs_28.110_specific_joint_interlocks.md) (*Specific joint interlocks and shared abstractions*). Most readers reach this file from a citation rather than reading the folder front to back.
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-29.110](cjs_29.110_specific_joint_interlocks.md) (*Specific joint interlocks and shared abstractions*). Most readers reach this file from a citation rather than reading the folder front to back.
 
 </details>
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
+  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Downstream: [CJS-8.105 §9](#cjs-8105-9-boundary-between-support-roles-and-merits-decisions) (*Boundary between Support Roles and Merits Decisions*); [CJS-8.105 §10](#cjs-8105-10-institution-hosted-or-forum-adjacent-operations) (*Institution-Hosted or Forum-Adjacent Operations*); [CJS-8.105 §11](#cjs-8105-11-classification-alignment-for-supervised-scope) (*Classification Alignment for Supervised Scope*).
 - Read with:
@@ -23,7 +23,7 @@
   - **CJS-8.105 §10** (*Institution-Hosted or Forum-Adjacent Operations*);
   - **CJS-8.105 §11** (*Classification Alignment for Supervised Scope*);
   - **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*);
-  - **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+  - **CJS-29.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -81,10 +81,10 @@ Assess those arrangements for the particular act under [Chapter Eight §4 Indepe
 
 Apply **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) **Classification-scaled governance burden** for the shared class- and stewardship-level scaling rule.
 
-When an institution supervises systems under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-24.305 — Critical system stewardship**, its published maps under **CI-9.210 §2** (*Published Industry and Domain Mapping*) and related **CI-9.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
+When an institution supervises systems under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-25.305 — Critical system stewardship**, its published maps under **CI-9.210 §2** (*Published Industry and Domain Mapping*) and related **CI-9.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
 
 ---
 
-**Previous file:** [cjs_28.110_specific_joint_interlocks.md](cjs_28.110_specific_joint_interlocks.md)
+**Previous file:** [cjs_29.110_specific_joint_interlocks.md](cjs_29.110_specific_joint_interlocks.md)
 
 **Next file:** [cjs_15.105_application_vignettes.md](cjs_15.105_application_vignettes.md)

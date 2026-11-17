@@ -323,11 +323,11 @@ This Article sets out the floors for transparent constitutional change:
 - **Material-change record:** Material changes must carry:
   - public reasons;
   - expected effects;
-  - compatibility with **Chapters Twenty-Five through Twenty-Seven** where applicable.
+  - compatibility with **Chapters Twenty-Six through Twenty-Eight** where applicable.
 - **Anti-bypass:** Under the [**Constitutional No-Bypass Principle**](core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle), changes must not be used to bypass **Rights-Floor minimums** or the rules for lawfully changing the Constitution by routing substantive change through emergency, implementation, or custody mechanisms — including:
   - **Articles IV** (*Right to Sentient-Centered Education*) and **VI** (*Equal Basic Rights*);
   - equality guarantees in **Articles VI-C** (*Nondiscrimination*) and **IV-A** (*Equal Educational Access*);
-  - amendment and ratification rules under **Chapters Twenty-Five through Twenty-Seven** where applicable.
+  - amendment and ratification rules under **Chapters Twenty-Six through Twenty-Eight** where applicable.
 
 ### Article XXVIII: Adoption Transition Governance, Continuity, and Re-Baselining
 
@@ -402,7 +402,7 @@ This Article sets out phased adoption and how the Rights-Floor minimums become e
     - political pressure.
   - The criteria, the evidence that they were met, and the gate decision are published. Affected stakeholders may comment on the criteria before adoption and challenge the decision.
   - Criteria content, owner assignment, and verification artifacts are governed by [**CI-6.275**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*) and [**CS-6.350 §3**](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-3-gate-criteria-and-advancement-rules) (*Gate Criteria and Advancement Rules*).
-- **Adoption Transition Record:** The adopter keeps its [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) from the day its adopting document takes effect, publishes it, and keeps it current. It holds the plan, each gate's criteria, result, and evidence, the Rights-Floor attainment ledger, the accountable owners, interim authority, and any off-ramps this Article requires, so that one published document shows the whole transition. It also carries, marked provisional, the entries the [Adoption Charter](core_05.040_band_continuity.md#adoption-charter) will settle ([Chapter Twenty-Six §11.4 Adoption Transition Record and Adoption Charter](core_26.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)): the forum authority assignment, the record custodian and the office-level contact for gatekeeper checks, and the levels of trust the adopter extends.
+- **Adoption Transition Record:** The adopter keeps its [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) from the day its adopting document takes effect, publishes it, and keeps it current. It holds the plan, each gate's criteria, result, and evidence, the Rights-Floor attainment ledger, the accountable owners, interim authority, and any off-ramps this Article requires, so that one published document shows the whole transition. It also carries, marked provisional, the entries the [Adoption Charter](core_05.040_band_continuity.md#adoption-charter) will settle ([Chapter Twenty-Seven §11.4 Adoption Transition Record and Adoption Charter](core_27.000_amendment_ratification.md#114-adoption-transition-record-and-adoption-charter)): the forum authority assignment, the record custodian and the office-level contact for gatekeeper checks, and the levels of trust the adopter extends.
   - **Final gate:** The adopter does not pass the gate into the steady-state phase, and that phase does not begin, until the Adoption Charter is published with the provisional entries confirmed or replaced.
   - **Closing:** When the steady-state phase begins, the Adoption Transition Record is closed and archived with its full history. Closing it does not erase or hide any entry.
   - **Provisional means provisional:** a provisional entry is never presented as settled.
@@ -591,4 +591,4 @@ This Article sets out the floors for remediating non-compliant property and syst
 
 **Previous file:** [core_06.030_rights_part_d.md](core_06.030_rights_part_d.md)
 
-**Next file:** [core_24.000_governance.md](core_24.000_governance.md)
+**Next file:** [core_25.000_governance.md](core_25.000_governance.md)

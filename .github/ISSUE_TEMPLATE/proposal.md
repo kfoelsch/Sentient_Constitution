@@ -39,7 +39,7 @@ labels: ["proposal"]
 
 ## Lane D — Substantive Test 1 non-regression self-check
 
-<!-- Delete unless Lane D. Confirm the change does not weaken Chapter One constraints, Chapter Two–Four integrity, the Chapter Six Rights Floor, or Chapter Twenty-Four legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_25.000_non_regression.md § Substantive Test 1). -->
+<!-- Delete unless Lane D. Confirm the change does not weaken Chapter One constraints, Chapter Two–Four integrity, the Chapter Six Rights Floor, or Chapter Twenty-Five legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_26.000_non_regression.md § Substantive Test 1). -->
 
 ## Gates you expect to run
 

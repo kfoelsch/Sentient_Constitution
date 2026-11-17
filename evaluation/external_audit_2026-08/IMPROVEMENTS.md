@@ -17,9 +17,9 @@ These are real comparative losses. They are **not** viable corpus patches:
 
 | Loss | Why not a todo |
 |---|---|
-| Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
+| Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Twenty-Nine §4](../../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
 | A number in core for carbon / planetary boundaries | [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
-| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Twenty-Seven **expansion of protection**, not a hole-fill. Hold as C2. |
+| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Twenty-Eight **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
 | Delete the standing pipeline to “simplify” | Would hollow Test 1, certification-before-standing, and anti-self-judging — the process strengths the audit scored Better. |
 
@@ -31,7 +31,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A1. Enumerate a Sentience-Status Adjudication Record schema — **done**
 
-**Homes:** [`corpus_forum/cf_23.475_sentience_status_record.md`](../../corpus_forum/cf_23.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Twenty-Eight §2](../../core_28.000_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-23.465 §1** points without restating fields.
+**Homes:** [`corpus_forum/cf_23.475_sentience_status_record.md`](../../corpus_forum/cf_23.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Twenty-Nine §2](../../core_29.000_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-23.465 §1** points without restating fields.
 **Do not:** Relocate Article V-D into implementation text, or let the schema decide who counts.
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
@@ -58,11 +58,11 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ## Band B — close comparative gaps without changing the instrument’s kind — **done this edition**
 
-Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Twenty-Seven expansion check if a later change raises a Rights Floor.
+Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Twenty-Eight expansion check if a later change raises a Rights Floor.
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Twenty-Six §11.2](../../core_26.000_amendment_ratification.md#112-adoption-document). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Twenty-Seven §11.2](../../core_27.000_amendment_ratification.md#112-adoption-document). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
@@ -72,17 +72,17 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B3. FPIC non-shrinkage — **done**
 
-**Homes:** [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Twenty-Eight §4](../../core_28.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
+**Homes:** [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Twenty-Nine §4](../../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
 **Do not:** Invent a land-claims forum in Chapter Twenty-Three.
 
 ### B4. Forum independence and appointment floor — **done**
 
-**Homes:** [Chapter Twenty-Four §2.2](../../core_24.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums); [Chapter Twenty-Three §1](../../core_23.000_forum.md#1-purpose-role-and-scope). Under-appointment is a Chapter Twenty §3 failure.
+**Homes:** [Chapter Twenty-Five §2.2](../../core_25.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums); [Chapter Twenty-Three §1](../../core_23.000_forum.md#1-purpose-role-and-scope). Under-appointment is a Chapter Twenty §3 failure.
 **Do not:** Mandate one global polity or one appointment method.
 
 ### B5. Polity-adopter ratification minimum — **done**
 
-**Home:** [Chapter Twenty-Six §11.1](../../core_26.000_amendment_ratification.md#111-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
+**Home:** [Chapter Twenty-Seven §11.1](../../core_27.000_amendment_ratification.md#111-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
 **Do not:** Require “we the people of Earth.”
 
 ---
@@ -93,8 +93,8 @@ Not defects. Do not schedule until [EXPERT_TOR.md](EXPERT_TOR.md) reviewers spea
 
 | ID | Question | If yes, it is |
 |---|---|---|
-| C1 | Upgrade Natural Systems Standing to Rights-of-Nature personhood? | Chapter Twenty-Seven expansion, not a patch |
-| C2 | Default-include scientifically high-consensus taxa as Sentient (e.g. taxa covered by the 2024 New York Declaration)? | Chapter Twenty-Seven expansion of who-counts |
+| C1 | Upgrade Natural Systems Standing to Rights-of-Nature personhood? | Chapter Twenty-Eight expansion, not a patch |
+| C2 | Default-include scientifically high-consensus taxa as Sentient (e.g. taxa covered by the 2024 New York Declaration)? | Chapter Twenty-Eight expansion of who-counts |
 | C3 | Does process complexity defeat Tetrad participation/timeliness in live steward use? | If yes, A5 is not enough — need a corpus-length cut plan that still preserves Test 1 and anti-self-judging |
 
 ---

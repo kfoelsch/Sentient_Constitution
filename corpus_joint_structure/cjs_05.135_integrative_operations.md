@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*) through **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*) through **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
+  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 

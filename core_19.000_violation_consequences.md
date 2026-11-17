@@ -16,7 +16,7 @@
 - This file: Question 3 violation consequences: remedy and correction, general standing locks, voluntary public accountability expression, remedy parity, and lock design and enforcement.
 - Downstream: [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*); [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (*forum supervision*); [CI-20.205](corpus_institutions/ci_20.205_remedy_systems_institutional_redress_capacity.md#ci-20205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Read with:
-  - [CS-24.305 §10 inspectable attributable action](corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§3.4.3 Duty to Resist](#343-duty-to-resist) refusal log uses;
+  - [CS-25.305 §10 inspectable attributable action](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§3.4.3 Duty to Resist](#343-duty-to-resist) refusal log uses;
   - steward pointer (process support; cannot narrow this chapter): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 - Worked examples (they add no rule): [CJS-15.105 Application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes): [CJS-15.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) and [CJS-15.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-10-question-3-routing-patterns).
 
@@ -172,7 +172,7 @@ Detention, imprisonment, and other liberty restrictions are not standing locks. 
 
 The two named gated pathways are distinct:
 
-- **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
+- **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Five §5.1 Entitlement and Eligibility](core_25.000_governance.md#51-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
 - **stakeholder-participation** covers stake-weighted vote, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice). It does **not** erase [Stakeholder](core_05.055_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
 
 <a id="223-special-locks-for-particular-findings"></a>
@@ -839,7 +839,7 @@ This subsection has eight locks:
   - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice).
 - **Does not by itself restrict:**
   - [Stakeholder](core_05.055_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
-  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Four §5.1 Entitlement and Eligibility](core_24.000_governance.md#51-entitlement-and-eligibility);
+  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Five §5.1 Entitlement and Eligibility](core_25.000_governance.md#51-entitlement-and-eligibility);
   - Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
 - **Risk:** continued capture or distortion of stakeholder voice, false-stake dominance, coerced participation weight, and recurrence of stakeholder-pathway abuse in the same or related domains.
 - **Protected subjects or interests:** affected stakeholders, integrity of binding stakeholder choice, and non-capture of the relevant system, institution, or bounded decision domain.

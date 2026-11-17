@@ -1,9 +1,9 @@
-# CJS-28.110: Specific Joint Interlocks and Shared Abstractions
+# CJS-29.110: Specific Joint Interlocks and Shared Abstractions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Eight](../core_28.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-28.110** (*Specific joint interlocks and shared abstractions*), including **CJS-28.110 §1**, **CJS-28.110 §3**, **CJS-28.110 §4**, and **CJS-28.110 §5**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-29.110** (*Specific joint interlocks and shared abstractions*), including **CJS-29.110 §1**, **CJS-29.110 §3**, **CJS-29.110 §4**, and **CJS-29.110 §5**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). Most readers reach a section in this file from a citation rather than reading the family front to back.
 
@@ -15,17 +15,17 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge) (28.000) incorporation discipline and
+  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Downstream:
-  - [CJS-28.110 §1](#cjs-28110-1-hybrid-delegated-authority-delegated-binding-bodies) (*Hybrid Delegated Authority (Delegated Binding Bodies)*);
-  - [CJS-28.110 §3](#cjs-28110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-Implementation Trust Integrity (Joint Operation Model)*);
-  - [CJS-28.110 §4](#cjs-28110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*);
-  - [CJS-28.110 §5](#cjs-28110-5-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*);
+  - [CJS-29.110 §1](#cjs-29110-1-hybrid-delegated-authority-delegated-binding-bodies) (*Hybrid Delegated Authority (Delegated Binding Bodies)*);
+  - [CJS-29.110 §3](#cjs-29110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-Implementation Trust Integrity (Joint Operation Model)*);
+  - [CJS-29.110 §4](#cjs-29110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*);
+  - [CJS-29.110 §5](#cjs-29110-5-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*);
   - [CJS-8.105 §9](cjs_08.105_support_hosting_classification.md#cjs-8105-9-boundary-between-support-roles-and-merits-decisions) (*Boundary between Support Roles and Merits Decisions*) through
   - [CJS-8.105 §11](cjs_08.105_support_hosting_classification.md#cjs-8105-11-classification-alignment-for-supervised-scope) (*Classification Alignment for Supervised Scope*).
 - Read with:
-  - **CJS-28.110** (*Specific joint interlocks and shared abstractions*);
+  - **CJS-29.110** (*Specific joint interlocks and shared abstractions*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*);
   - [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.030 §15.4.4);
@@ -62,15 +62,15 @@
 
 Core home: 28
 
-This file is the joint-structure implementation home for **CJS-28.110** (*Specific joint interlocks and shared abstractions*), including **CJS-28.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*), **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*), **CJS-28.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*), and **CJS-28.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*).
+This file is the joint-structure implementation home for **CJS-29.110** (*Specific joint interlocks and shared abstractions*), including **CJS-29.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*), **CJS-29.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*), **CJS-29.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*), and **CJS-29.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*).
 
-*In plain terms: this is the joint-structure adopted implementation text in [Corpus](../core_05.045_band_integrative.md#corpus) — the shared glue when systems, institutions, and forums have to be read together. It is not [Chapter Twenty-Four](../core_24.000_governance.md#chapter-twenty-four-constitutional-contract-legitimacy-authorization-and-stewardship) (who may govern). Open the section you were sent to — not this file front to back.*
+*In plain terms: this is the joint-structure adopted implementation text in [Corpus](../core_05.045_band_integrative.md#corpus) — the shared glue when systems, institutions, and forums have to be read together. It is not [Chapter Twenty-Five](../core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (who may govern). Open the section you were sent to — not this file front to back.*
 
-**Layer.** This file is **CJS**, the joint-structure adopted implementation text named in [Preamble §9 Adopted Implementation Corpus](../core_00.000_preamble.md#9-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Twenty-Eight](../core_28.000_incorporation.md#chapter-twenty-eight-incorporation-bridge), this text implements the Constitution; it does not narrow it.
+**Layer.** This file is **CJS**, the joint-structure adopted implementation text named in [Preamble §9 Adopted Implementation Corpus](../core_00.000_preamble.md#9-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge), this text implements the Constitution; it does not narrow it.
 
 When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*): **CJS → CS → CI → CF**. The [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations: [Chapter One §15.4.3 Incorporation Layer](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer).
 
-**CJS-28.110** (*Specific joint interlocks*) states the joint interlocks. Local operative rules remain in the adopted corpus that owns the domain:
+**CJS-29.110** (*Specific joint interlocks*) states the joint interlocks. Local operative rules remain in the adopted corpus that owns the domain:
 
 - [**CS**](../corpus_systems.md) — [System](../core_05.040_band_continuity.md#system) classification and stewardship
 - [**CI**](../corpus_institutions.md) — institutional formation, [Governance](../core_05.035_band_accountability.md#governance), oversight, and dissolution
@@ -80,23 +80,23 @@ Shared operational clusters (**oDef.*n***, same as **CJS-5.105 (*Operational clu
 
 | Interlock | What it covers |
 |---|---|
-| [**CJS-28.110 §1**](#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies) (*Hybrid delegated authority*) | Who sits on delegated binding bodies, and how attachment durations are published |
-| [**CJS-28.110 §3**](#cjs-28110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*) | A trust claim fails if any file in the same chain still blocks observation, verification, or challenge |
-| [**CJS-28.110 §4**](#cjs-28110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing*) | High-impact lanes need enough qualified sentients, backup, and spread of knowledge |
-| [**CJS-28.110 §5**](#cjs-28110-5-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) (*Shared procedural abstractions*) | Shared baseline words for delegated bodies, lawful independent forums, backup routing, and representative treatment |
+| [**CJS-29.110 §1**](#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies) (*Hybrid delegated authority*) | Who sits on delegated binding bodies, and how attachment durations are published |
+| [**CJS-29.110 §3**](#cjs-29110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*) | A trust claim fails if any file in the same chain still blocks observation, verification, or challenge |
+| [**CJS-29.110 §4**](#cjs-29110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing*) | High-impact lanes need enough qualified sentients, backup, and spread of knowledge |
+| [**CJS-29.110 §5**](#cjs-29110-5-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) (*Shared procedural abstractions*) | Shared baseline words for delegated bodies, lawful independent forums, backup routing, and representative treatment |
 | [**CJS-8.105 §9**](cjs_08.105_support_hosting_classification.md#cjs-8105-9-boundary-between-support-roles-and-merits-decisions)–[**CJS-8.105 §11**](cjs_08.105_support_hosting_classification.md#cjs-8105-11-classification-alignment-for-supervised-scope) (*Support, hosting, classification*) | Support roles must not decide merits; hosting a forum does not control it; published class must match how the system is run |
 
-## CJS-28.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)
+## CJS-29.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)
 <a id="cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"></a>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [CJS-28.110 §1.1 Composition Minimum](#cjs-28110-11-composition-minimum); [CJS-28.110 §1.2 Attachment Publication](#cjs-28110-12-attachment-publication).
+- Downstream: [CJS-29.110 §1.1 Composition Minimum](#cjs-29110-11-composition-minimum); [CJS-29.110 §1.2 Attachment Publication](#cjs-29110-12-attachment-publication).
 - Read with:
-  - **CJS-28.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*);
-  - **CJS-28.110 §1.1** (*Composition minimum*);
-  - **CJS-28.110 §1.2** (*Attachment publication*);
+  - **CJS-29.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*);
+  - **CJS-29.110 §1.1** (*Composition minimum*);
+  - **CJS-29.110 §1.2** (*Attachment publication*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
@@ -105,14 +105,14 @@ Shared operational clusters (**oDef.*n***, same as **CJS-5.105 (*Operational clu
 
 <br>
 
-*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-28.110 §1.1** (*Composition minimum*) says who must be on the body; **CJS-28.110 §1.2** (*Attachment publication*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
+*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-29.110 §1.1** (*Composition minimum*) says who must be on the body; **CJS-29.110 §1.2** (*Attachment publication*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
 
-A hybrid design that names home and rotating roles but omits **CJS-28.110 §1.2** (*Attachment publication*) publication mechanics does not satisfy **CJS-28.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*). Naming the mix is not enough; the published term rules have to be there too.
+A hybrid design that names home and rotating roles but omits **CJS-29.110 §1.2** (*Attachment publication*) publication mechanics does not satisfy **CJS-29.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*). Naming the mix is not enough; the published term rules have to be there too.
 
-- [CJS-28.110 §1.1](#cjs-28110-11-composition-minimum) (*Composition minimum*)
-- [CJS-28.110 §1.2](#cjs-28110-12-attachment-publication) (*Attachment publication*)
+- [CJS-29.110 §1.1](#cjs-29110-11-composition-minimum) (*Composition minimum*)
+- [CJS-29.110 §1.2](#cjs-29110-12-attachment-publication) (*Attachment publication*)
 
-### CJS-28.110 §1.1 Composition Minimum
+### CJS-29.110 §1.1 Composition Minimum
 
 
 *In plain terms: a group that makes binding decisions cannot be all long-serving insiders or all newcomers. It must mix stable "home" members with rotating members — and home members must usually be the minority when the group decides together.*
@@ -141,12 +141,12 @@ For forums, apply [CF-23.450 §3 Activation Triggers](../corpus_forum/cf_23.450_
 
 **When institution and forum rules both apply.** Where **CI** and **CF** both speak to the same body, the clearly adopted rule with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) governs.
 
-### CJS-28.110 §1.2 Attachment Publication
+### CJS-29.110 §1.2 Attachment Publication
 
 
-*In plain terms: once the hybrid mix is required (**CJS-28.110 §1.1** (*Composition minimum*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
+*In plain terms: once the hybrid mix is required (**CJS-29.110 §1.1** (*Composition minimum*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
 
-Where **CJS-28.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*) applies, the document must publish:
+Where **CJS-29.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*) applies, the document must publish:
 
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;
@@ -155,13 +155,13 @@ Where **CJS-28.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)
 
 In everyday reading: publish how long rotating members serve, how home-member terms work, and that those lengths are not changed in secret. Sample formulas are illustrations unless a **primary owner** makes them mandatory. Home-based term rules do not need to copy rotating attachment rules.
 
-## CJS-28.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)
+## CJS-29.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-28.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*);
+  - **CJS-29.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*);
   - [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.030 §15.4.4) (*combined satisfaction*);
   - [Chapter One §15.4.3](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (1.030 §15.4.3) (*cross-file Fullest Protective Effect rule*);
   - **CJS-8.105 §11** (*Classification Alignment for Supervised Scope*).
@@ -179,7 +179,7 @@ The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misl
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-For implementation routing, **Class A**, **Class B**, and **Class C** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) and **[CS-24.305 — Critical system stewardship](../corpus_systems/cs_24.305_critical_system_stewardship.md#cs-24305-critical-system-stewardship)** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) criteria and limits, apply **Chapter Nine §4** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) and **[CS-25.305 — Critical system stewardship](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) criteria and limits, apply **Chapter Nine §4** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
@@ -198,17 +198,17 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined Satisfac
 - **CJS-5.130 §19** (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*)
 - **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*)
 
-## CJS-28.110 §4 Class-Scaled Lane Staffing and Competency Redundancy
+## CJS-29.110 §4 Class-Scaled Lane Staffing and Competency Redundancy
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §17.6 Portable Competence](../core_01.040_stewardship_capacity_principles.md#176-portable-competence) (1.040 §17.6) (*the principle this subsection carries out*).
-- Read with: **CJS-28.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
+- Read with: **CJS-29.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in
   - **CJS-0.105 §1** (*Topic router*); primary owners
   - **CI-8.205** (*Institutional design, separation of powers, and authority custody*),
-  - **CI-24.205** (*Appointment, competency, rotation, and removal*),
+  - **CI-25.205** (*Appointment, competency, rotation, and removal*),
   - **CI-6.215** (*Resource stewardship and incentive integrity*),
   - **CI-23.210** (*Cross-institution coordination and escalation*).
 
@@ -218,7 +218,7 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined Satisfac
 
 *In plain terms: high-impact roles cannot depend on one sentient. For materially binding constitutional lanes — especially under higher-risk system classes — institutions need enough qualified sentients, documented backup and succession, and real spread of knowledge so the lane stays competent without becoming fragile or captured.*
 
-This rule covers roles with materially binding effect under **Chapter Six**, section **5**, where [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-24.305 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.105 §1** (*Cross-File Routing*).
+This rule covers roles with materially binding effect under **Chapter Six**, section **5**, where [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-25.305 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.105 §1** (*Cross-File Routing*).
 
 Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*), [Chapter Eighteen §2.2 Competency Bars and Clearances](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (*Competency Bars and Clearances*), and any controlling standing lock under [Chapter Nineteen §2.2 Prevention — General Standing Locks](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) or [§3.5 Special Locks](../core_19.000_violation_consequences.md#35-special-locks).
 
@@ -235,14 +235,14 @@ Staffing must be real, not just numerical. Responsibility cannot be spread so th
 
 Apply [Chapter One §17.6 Portable Competence](../core_01.040_stewardship_capacity_principles.md#176-portable-competence) to that coverage: an alternate counts only if it would not fail for the same reason as the steward it covers, and succession and handoffs must be exercised, with gaps recorded and corrected. A second copy of an AI system with the same flaw is not coverage. Cross-training does not authorize a sentient to check its own earlier work, bypass a competency bar, or obtain evidence beyond its lawful access. Rotation remains a tool, not a duty to move every steward through every role.
 
-The constitutional floor remains in [Chapter Twenty-Four](../core_24.000_governance.md), section **5**. Domain detail remains in **CI-8.205** (*Institutional design, separation of powers, and authority custody*), **CI-24.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), **CI-23.210** (*Cross-institution coordination and escalation*), and [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-24.305 — Critical system stewardship**.
+The constitutional floor remains in [Chapter Twenty-Five](../core_25.000_governance.md), section **5**. Domain detail remains in **CI-8.205** (*Institutional design, separation of powers, and authority custody*), **CI-25.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), **CI-23.210** (*Cross-institution coordination and escalation*), and [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-25.305 — Critical system stewardship**.
 
-## CJS-28.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing
+## CJS-29.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-28.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
+- Read with: **CJS-29.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
@@ -252,7 +252,7 @@ The constitutional floor remains in [Chapter Twenty-Four](../core_24.000_governa
 
 <br>
 
-*In plain terms: institutions and forums use different local rulebooks, but they need the same baseline words for delegated bodies, lawful independent forums, backup routing when a lead forum cannot act in time, and representative procedures that still preserve individual contest rights. **CJS-28.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*) states those shared terms; **CI** and **CF** state the full operative detail.*
+*In plain terms: institutions and forums use different local rulebooks, but they need the same baseline words for delegated bodies, lawful independent forums, backup routing when a lead forum cannot act in time, and representative procedures that still preserve individual contest rights. **CJS-29.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*) states those shared terms; **CI** and **CF** state the full operative detail.*
 
 These shared **CJS** terms apply wherever the following owner files apply, as routed in **CJS-0.105 §1** (*Cross-File Routing*):
 
