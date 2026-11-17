@@ -272,7 +272,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
   - [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
   - [Article XI-B](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*);
   - [Article XIV-C](core_06.020_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
-  - [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (21.000 §4) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*);
+  - [Chapter Twenty-One §5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (21.000 §5) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*);
   - [Chapter Twenty-Seven §2](core_27.000_amendment_ratification.md#2-heightened-review-for-rights-affecting-changes) (27.000 §2) (*Heightened Review for Rights-Affecting Changes*).
 
 </details>
@@ -288,7 +288,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
     - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05.035_band_accountability.md#contestability); and
     - the Act Record states uncertainty, assumptions, evidence limits, and disagreement openly.
     <a id="highest-scrutiny"></a>
-  - **In scope — highest scrutiny:** The strictest level of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article XI-B](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*) and final anti-constitutional misconduct designation under [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*). On top of everything heightened scrutiny requires:
+  - **In scope — highest scrutiny:** The strictest level of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article XI-B](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*) and final anti-constitutional misconduct designation under [Chapter Twenty-One §5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*). On top of everything heightened scrutiny requires:
     - the act under review is presumed non-compliant until clear, verified evidence establishes every required element;
     - unresolved doubt, missing evidence, or untested assumptions count against the act under review; and
     - reviewers must be functionally independent of the original decision and of anyone who benefits from it.

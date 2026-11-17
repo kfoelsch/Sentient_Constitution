@@ -1687,7 +1687,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [Chapter One §7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest) (1.000 §7.3) (dissent is not subversion).
-- Canonical owner: this definition states what subversion is. [Chapter Twenty-One §3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §3) for criteria 5 and 6 (*Insurrection or material forcible subversion* and *Operative nullification*), and [Chapter Twenty-Two §6.1](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1) apply it to misconduct designation. They do not redefine it.
+- Canonical owner: this definition states what subversion is. [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §4) for criteria 5 and 6 (*Insurrection or material forcible subversion* and *Operative nullification*), and [Chapter Twenty-Two §6.1](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1) apply it to misconduct designation. They do not redefine it.
 - Rights-Floor read-with: **[Article XI-D](core_06.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 - Read with:
   - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation),
@@ -4388,9 +4388,9 @@ See **Anti-Segmentation Principle**.
   - [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7), controlled only by verified impact.
   - [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (21.000), especially its
   - [Chapter Twenty-One §2](core_21.000_misconduct_designation.md#2-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (21.000 §2),
-  - [criteria set](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale),
-  - [designation analysis](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation), and
-  - [due-process safeguards](core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention), governs only whether a Chapter Sixteen slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation.
+  - [criteria set](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale),
+  - [designation analysis](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation), and
+  - [due-process safeguards](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention), governs only whether a Chapter Sixteen slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation.
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
@@ -4442,7 +4442,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-One §3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §3).
+- Canonical owner: [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §4).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4489,7 +4489,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-One §3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §3), [§4](core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation), and [§3.3](core_22.000_misconduct_pattern_applications.md#33-info-sphere-zone-flooding).
+- Canonical owner: [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §4), [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation), and [§3.3](core_22.000_misconduct_pattern_applications.md#33-info-sphere-zone-flooding).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Unified Incident](core_05.035_band_accountability.md#unified-incident),
@@ -4547,7 +4547,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-One §3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §3) (*incident shapes for anti-constitutional-misconduct designation*).
+- Canonical owner: [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §4) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4592,7 +4592,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-One §3](core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §3) (*incident shapes for anti-constitutional-misconduct designation*).
+- Canonical owner: [Chapter Twenty-One §4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (21.000 §4) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),

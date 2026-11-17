@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_28.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **837** of **1341** headings carry a gloss (62%).
+Coverage: **838** of **1340** headings carry a gloss (63%).
 
 ## Contents
 
@@ -47,7 +47,7 @@ Coverage: **837** of **1341** headings carry a gloss (62%).
 - [CHAPTER EIGHTEEN: CONTRIBUTION CONSEQUENCES](#chapter-eighteen-contribution-consequences) — `core_18.000_contribution_consequences.md` (8/9 glossed)
 - [CHAPTER NINETEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — `core_19.000_violation_consequences.md` (40/48 glossed)
 - [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (11/17 glossed)
-- [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (12/22 glossed)
+- [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (13/21 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
 - [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (8/29 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (1/2 glossed)
@@ -6122,7 +6122,7 @@ standing consequences and redress count only when real institutions can deliver 
 
 ## CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION
 
-Source file: [`core_21.000_misconduct_designation.md`](../../core_21.000_misconduct_designation.md) · 12/22 headings glossed
+Source file: [`core_21.000_misconduct_designation.md`](../../core_21.000_misconduct_designation.md) · 13/21 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6132,7 +6132,7 @@ this chapter is the last and narrowest gate in the standing pipeline. It opens o
 
 #### 2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 
-this chapter works in one sequence. First confirm the verified standing record from Chapter Fifteen and the Chapter Sixteen impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
+this chapter looks for one thing, tetrad capture, and only in a violation that Chapter Sixteen has already placed in slot 7, 8, or 9. The facts and the slot stay as they were found, only this chapter can decide whether a final ACMD attaches, and the order of work is in section 3.
 
 [Source](../../core_21.000_misconduct_designation.md#2-how-designation-decisions-work--continuity-and-tetrad-capture-frame)
 
@@ -6148,107 +6148,101 @@ this chapter works in one sequence. First confirm the verified standing record f
 
 [Source](../../core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd)
 
-##### 2.3 Chapters Twenty-Six through Twenty-Eight Boundary
+#### 3. Decision Sequence
 
-*(no plain-terms gloss in source)*
+this chapter works in one sequence. First confirm the verified standing record from Chapter Fifteen and the Chapter Sixteen impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
 
-[Source](../../core_21.000_misconduct_designation.md#23-chapters-twenty-six-through-twenty-eight-boundary)
+[Source](../../core_21.000_misconduct_designation.md#3-decision-sequence)
 
-##### 2.4 Decision Sequence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_21.000_misconduct_designation.md#24-decision-sequence)
-
-#### 3. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale
+#### 4. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale
 
 evaluators first accept the Chapter Sixteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.
 
-[Source](../../core_21.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale)
+[Source](../../core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale)
 
-##### 3.1 Unified Incident
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_21.000_misconduct_designation.md#31-unified-incident)
-
-##### 3.2 Single Catastrophic Incident and Sustained High-Gravity Pattern
+##### 4.1 Unified Incident
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_21.000_misconduct_designation.md#32-single-catastrophic-incident-and-sustained-high-gravity-pattern)
+[Source](../../core_21.000_misconduct_designation.md#41-unified-incident)
 
-##### 3.3 The Six Criteria
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_21.000_misconduct_designation.md#33-the-six-criteria)
-
-##### 3.4 Good-Faith Drafting Carve-Out
+##### 4.2 Single Catastrophic Incident and Sustained High-Gravity Pattern
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_21.000_misconduct_designation.md#34-good-faith-drafting-carve-out)
+[Source](../../core_21.000_misconduct_designation.md#42-single-catastrophic-incident-and-sustained-high-gravity-pattern)
 
-##### 3.5 Dissent and Peaceful Protest Carve-Out
+##### 4.3 The Six Criteria
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_21.000_misconduct_designation.md#35-dissent-and-peaceful-protest-carve-out)
+[Source](../../core_21.000_misconduct_designation.md#43-the-six-criteria)
 
-#### 4. Violation Axis Slot 7–9 Anti-Constitutional Designation
+##### 4.4 Good-Faith Drafting Carve-Out
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_21.000_misconduct_designation.md#44-good-faith-drafting-carve-out)
+
+##### 4.5 Dissent and Peaceful Protest Carve-Out
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_21.000_misconduct_designation.md#45-dissent-and-peaceful-protest-carve-out)
+
+#### 5. Violation Axis Slot 7–9 Anti-Constitutional Designation
 
 Chapter Sixteen has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?
 
-[Source](../../core_21.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation)
+[Source](../../core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation)
 
-#### 5. Due-Process Safeguards, Remedy, and Prevention
+#### 6. Due-Process Safeguards, Remedy, and Prevention
 
-nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. After final anti-constitutional-misconduct designation, this section specializes Chapter Seventeen's durable-fix grammar — remedy and correction, then prevention locks, then voluntary public accountability expression where used.
+nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. After final anti-constitutional-misconduct designation, this section specializes Chapter Seventeen's durable-fix grammar — remedy and correction, prevention locks, and voluntary public accountability expression where used. They run in parallel from a final ACMD; the order of the text is only the order of presentation.
 
-[Source](../../core_21.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention)
+[Source](../../core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention)
 
-##### 5.1 Remedy and Correction (Anti-Constitutional)
+##### 6.1 Remedy and Correction (Anti-Constitutional)
 
 a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Seventeen's remedy and correction outputs, tightened for anti-constitutional-misconduct designation cases.
 
-[Source](../../core_21.000_misconduct_designation.md#51-remedy-and-correction-anti-constitutional)
+[Source](../../core_21.000_misconduct_designation.md#61-remedy-and-correction-anti-constitutional)
 
-###### 5.1.1 Remedy
+###### 6.1.1 Remedy
 
 remedy is what is owed to those harmed, who carries it, and when it starts. These rules keep the repair real rather than a label.
 
-[Source](../../core_21.000_misconduct_designation.md#511-remedy)
+[Source](../../core_21.000_misconduct_designation.md#611-remedy)
 
-###### 5.1.2 Correction
+###### 6.1.2 Correction
 
 correction fixes what caused the harm and stops it continuing. These rules set out what the standing record must show for the cause side, as the remedy rules do for those harmed.
 
-[Source](../../core_21.000_misconduct_designation.md#512-correction)
+[Source](../../core_21.000_misconduct_designation.md#612-correction)
 
-##### 5.2 Prevention — Anti-Constitutional Locks
+##### 6.2 Prevention — Anti-Constitutional Locks
 
 after final anti-constitutional-misconduct designation, Chapter Seventeen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Seventeen lock format and states the ACM imprisonment specialization.
 
-[Source](../../core_21.000_misconduct_designation.md#52-prevention--anti-constitutional-locks)
+[Source](../../core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks)
 
-###### 5.2.1 Attachment-Field Discipline
+###### 6.2.1 Attachment-Field Discipline
 
 any lock, liberty restriction, or imprisonment order that follows a final ACMD is recorded with the same six fields as a Chapter Seventeen lock, so it can be checked and reviewed.
 
-[Source](../../core_21.000_misconduct_designation.md#521-attachment-field-discipline)
+[Source](../../core_21.000_misconduct_designation.md#621-attachment-field-discipline)
 
-###### 5.2.2 Imprisonment for Anti-Constitutional Misconduct
+###### 6.2.2 Imprisonment for Anti-Constitutional Misconduct
 
 imprisonment is required where it is necessary to stop further constitutional harm, and it must meet the Chapter Seventeen and **Article XX-B** (*Restriction Floors*) safeguards.
 
-[Source](../../core_21.000_misconduct_designation.md#522-imprisonment-for-anti-constitutional-misconduct)
+[Source](../../core_21.000_misconduct_designation.md#622-imprisonment-for-anti-constitutional-misconduct)
 
-##### 5.3 Voluntary Public Accountability Expression (Anti-Constitutional)
+##### 6.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 
 a public apology in an anti-constitutional misconduct case must meet Chapter Seventeen's general voluntariness and authenticity rules, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
 
-[Source](../../core_21.000_misconduct_designation.md#53-voluntary-public-accountability-expression-anti-constitutional)
+[Source](../../core_21.000_misconduct_designation.md#63-voluntary-public-accountability-expression-anti-constitutional)
 
 ## CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING
 
@@ -7592,7 +7586,7 @@ after the emergency, look back honestly and publish what you find — with only 
 
 ##### Article XXVI-B: Rights-Collision Procedure and Restorative Alignment
 
-rights conflicts must be resolved on the Constitutional Collision Record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Nineteen** §2.3 (*Voluntary Public Accountability Expression*) generally, and by **Chapter Twenty-One** §5.3 (*Voluntary Public Accountability Expression (Anti-Constitutional)*) for verified anti-constitutional misconduct.
+rights conflicts must be resolved on the Constitutional Collision Record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Nineteen** §2.3 (*Voluntary Public Accountability Expression*) generally, and by **Chapter Twenty-One** §6.3 (*Voluntary Public Accountability Expression (Anti-Constitutional)*) for verified anti-constitutional misconduct.
 
 [Source](../../core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment)
 

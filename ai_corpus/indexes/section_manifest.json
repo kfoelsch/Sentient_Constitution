@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-16T23:08:12+00:00",
+  "generated_at": "2026-11-17T03:55:30+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 549,
@@ -1212,30 +1212,29 @@
       ]
     },
     "core_21.000_misconduct_designation.md": {
-      "total_lines": 624,
+      "total_lines": 637,
       "sections": [
-        {"header":"CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":1,"line_end":624,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":74,"line_end":142,"anchor":"#1-purpose-role-and-scope"},
-        {"header":"2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame","level":3,"line_start":143,"line_end":216,"anchor":null},
-        {"header":"2.1 What This Chapter Does Not Re-Measure","level":4,"line_start":168,"line_end":179,"anchor":null},
-        {"header":"2.2 Exclusive Authority to Issue a Final ACMD","level":4,"line_start":180,"line_end":187,"anchor":null},
-        {"header":"2.3 Chapters Twenty-Six through Twenty-Eight Boundary","level":4,"line_start":188,"line_end":197,"anchor":null},
-        {"header":"2.4 Decision Sequence","level":4,"line_start":198,"line_end":216,"anchor":null},
-        {"header":"3. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale","level":3,"line_start":217,"line_end":316,"anchor":null},
-        {"header":"3.1 Unified Incident","level":4,"line_start":251,"line_end":265,"anchor":null},
-        {"header":"3.2 Single Catastrophic Incident and Sustained High-Gravity Pattern","level":4,"line_start":266,"line_end":286,"anchor":null},
-        {"header":"3.3 The Six Criteria","level":4,"line_start":287,"line_end":305,"anchor":null},
-        {"header":"3.4 Good-Faith Drafting Carve-Out","level":4,"line_start":306,"line_end":309,"anchor":null},
-        {"header":"3.5 Dissent and Peaceful Protest Carve-Out","level":4,"line_start":310,"line_end":316,"anchor":null},
-        {"header":"4. Violation Axis Slot 7–9 Anti-Constitutional Designation","level":3,"line_start":317,"line_end":385,"anchor":null},
-        {"header":"5. Due-Process Safeguards, Remedy, and Prevention","level":3,"line_start":386,"line_end":624,"anchor":"#5-due-process-safeguards-remedy-and-prevention"},
-        {"header":"5.1 Remedy and Correction (Anti-Constitutional)","level":4,"line_start":421,"line_end":531,"anchor":null},
-        {"header":"5.1.1 Remedy","level":5,"line_start":493,"line_end":519,"anchor":null},
-        {"header":"5.1.2 Correction","level":5,"line_start":520,"line_end":531,"anchor":null},
-        {"header":"5.2 Prevention — Anti-Constitutional Locks","level":4,"line_start":532,"line_end":590,"anchor":null},
-        {"header":"5.2.1 Attachment-Field Discipline","level":5,"line_start":562,"line_end":574,"anchor":null},
-        {"header":"5.2.2 Imprisonment for Anti-Constitutional Misconduct","level":5,"line_start":575,"line_end":590,"anchor":null},
-        {"header":"5.3 Voluntary Public Accountability Expression (Anti-Constitutional)","level":4,"line_start":591,"line_end":624,"anchor":null}
+        {"header":"CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":1,"line_end":637,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":75,"line_end":118,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. How Designation Decisions Work — Continuity and Tetrad-Capture Frame","level":3,"line_start":119,"line_end":162,"anchor":null},
+        {"header":"2.1 What This Chapter Does Not Re-Measure","level":4,"line_start":146,"line_end":152,"anchor":null},
+        {"header":"2.2 Exclusive Authority to Issue a Final ACMD","level":4,"line_start":153,"line_end":162,"anchor":null},
+        {"header":"3. Decision Sequence","level":3,"line_start":163,"line_end":199,"anchor":null},
+        {"header":"4. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale","level":3,"line_start":200,"line_end":299,"anchor":null},
+        {"header":"4.1 Unified Incident","level":4,"line_start":234,"line_end":248,"anchor":null},
+        {"header":"4.2 Single Catastrophic Incident and Sustained High-Gravity Pattern","level":4,"line_start":249,"line_end":269,"anchor":null},
+        {"header":"4.3 The Six Criteria","level":4,"line_start":270,"line_end":288,"anchor":null},
+        {"header":"4.4 Good-Faith Drafting Carve-Out","level":4,"line_start":289,"line_end":292,"anchor":null},
+        {"header":"4.5 Dissent and Peaceful Protest Carve-Out","level":4,"line_start":293,"line_end":299,"anchor":null},
+        {"header":"5. Violation Axis Slot 7–9 Anti-Constitutional Designation","level":3,"line_start":300,"line_end":368,"anchor":null},
+        {"header":"6. Due-Process Safeguards, Remedy, and Prevention","level":3,"line_start":369,"line_end":637,"anchor":"#6-due-process-safeguards-remedy-and-prevention"},
+        {"header":"6.1 Remedy and Correction (Anti-Constitutional)","level":4,"line_start":434,"line_end":544,"anchor":null},
+        {"header":"6.1.1 Remedy","level":5,"line_start":506,"line_end":532,"anchor":null},
+        {"header":"6.1.2 Correction","level":5,"line_start":533,"line_end":544,"anchor":null},
+        {"header":"6.2 Prevention — Anti-Constitutional Locks","level":4,"line_start":545,"line_end":603,"anchor":null},
+        {"header":"6.2.1 Attachment-Field Discipline","level":5,"line_start":575,"line_end":587,"anchor":null},
+        {"header":"6.2.2 Imprisonment for Anti-Constitutional Misconduct","level":5,"line_start":588,"line_end":603,"anchor":null},
+        {"header":"6.3 Voluntary Public Accountability Expression (Anti-Constitutional)","level":4,"line_start":604,"line_end":637,"anchor":null}
       ]
     },
     "core_22.000_misconduct_pattern_applications.md": {
