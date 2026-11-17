@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nineteen** — violation consequences (§§2–3): remedy and correction; prevention through general standing locks, with voluntary public accountability expression where used and remedy parity; and lock design and enforcement, including special violation rules, special locks, and interim holds. The other Parts are [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) — purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization (Chapter Seventeen §§1–Chapter Seventeen 4); [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) — contribution consequences (Chapter Eighteen §2); and [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) — final standing effect, restoration and reassessment, and enforcement realism (Chapter Twenty §§2–Chapter Twenty 4). Section numbers run continuously across the four Parts.
 >
-> - **Constitutional owner (joint with Chapters Seventeen, Eighteen, and Twenty):** what follows from a verified violation standing record. Chapter Nineteen decides remedy, correction, safeguards, and locks from that violation standing record alone; contribution is not an input to them.
+> - **Constitutional owner (joint with Chapters Seventeen, Eighteen, and Twenty):** what follows from a verified violation standing record. Chapter Nineteen decides remedy, correction, safeguards, and locks from that violation standing record alone; contribution is not an input to them, except that help given after the violation can count as restitution ([§2.1.2 Remedy](#212-remedy)).
 > - **Anti-relocation rule:** Chapter Nineteen does not restate the decision order in Chapter Seventeen, the contribution rules in Chapter Eighteen, or the final standing effect in Chapter Twenty. Anti-constitutional-misconduct designation criteria stay in [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation).
 
 </details>
@@ -56,7 +56,7 @@ The chapter leaves:
 
 *In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Fifteen has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.*
 
-This section is the violation side of Question 3. It starts from a violation standing record that [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) has verified and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) has measured, and it decides the violation-side consequences (remedy, correction, and prevention) from that violation standing record alone ([§3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order), step 4). **Independence:** contribution, which [§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences) covers, is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
+This section is the violation side of Question 3. It starts from a violation standing record that [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) has verified and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) has measured, and it decides the violation-side consequences (remedy, correction, and prevention) from that violation standing record alone ([§3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order), step 4). **Independence:** contribution, which [§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences) covers, is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it. The one exception is help given after the violation, which can count as restitution under [§2.1.2 Remedy](#212-remedy); help given before the violation never does.
 
 Forums under [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) supervise lawful implementation, challenge, interim relief, and timely movement of these decisions. They do not replace this chapter's duty to decide remedy, correction, and prevention from the verified standing record. How a forum's work reaches the standing record itself is in [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary).
 
@@ -75,17 +75,17 @@ This subsection has four parts:
 <a id="211-what-the-integration-record-must-say"></a>
 ##### 2.1.1 What the Integration Record Must Say
 
-The integration record must say, in plain view:
+The integration record must say, in plain view and at the level of specificity feasible without unlawful disclosure:
 
 - **What happened and what is owed:**
-  - who was affected and what harm occurred;
-  - what remedy is owed and how far it reaches; and
+  - who was affected, including sentients, classes, communities, institutions, systems, and challenge, participation, or remedy pathways, and what harm occurred, including material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification;
+  - what remedy is owed and how far it reaches, including restitution, compensation, restoration, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural; and
   - what correction duties apply.
 - **Who carries it out:**
-  - who is responsible for carrying them out; and
-  - where the funding comes from.
+  - who is responsible for carrying them out, including successors, funds, or coordinating bodies that must carry or finance a remedy; and
+  - where the funding comes from, and how the remedy will be executed where that needs capacity, cross-institution coordination, tracing successors, recognition by another forum, or pooled execution, or why a substitute safeguard is the proportionate lawful remedy instead.
 - **When and how far along:**
-  - when work must start and what milestones apply; and
+  - when work must start and what milestones apply, including commencement deadlines, completion milestones, verification requirements, and review triggers under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); and
   - where things stand now.
 - **Follow-through:**
   - who supervises follow-through; and
@@ -105,6 +105,17 @@ Every verified violation must be tested for two parallel correction outputs, rem
   - substitute safeguards where literal repair is impossible; or
   - comparable redress for affected sentients and interests.
 
+Remedy also follows these three rules:
+
+- **Priority:** Put affected parties and practical restoration first, ahead of reputation repair, institutional convenience, or ordinary administrative order.
+- **Interim protection:** If waiting would likely defeat remedy, prolong dependency harm, destroy evidence, or let harm continue, lawful interim steps must be considered, and each must be ordered or rejected on the standing record.
+  - Steps to consider include protection, preservation, escrow, holdback, restoring access, keeping services running, or a comparable safeguard.
+  - Interim relief while a matter is pending stays under [Chapter Twenty-Three §5 Interim Protection](core_23.000_forum.md#interim-protection).
+- **Later help as restitution:** Help given before the violation does not count toward remedy. Verified help given by the party who owes the remedy after the conduct the violation finding rests on (for conduct that continues, after it stops) counts as restitution to the extent it repairs, compensates, restores, or makes up the loss to the affected sentients and interests.
+  - The integration record credits the help against the remedy owed and says how much of it the help covers.
+  - The credit reduces the remedy still owed. It does not change the violation finding, the Chapter Sixteen slot, the correction duties, or any lock.
+  - Completed restitution, including credited help, has the effects stated in [Article XIX-D](core_06.030_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*) and [Chapter Twenty §3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment).
+
 <a id="213-correction"></a>
 ##### 2.1.3 Correction
 
@@ -121,10 +132,17 @@ Correction is the set of changes needed to address the cause and stop continuati
   - supervision; or
   - safeguards.
 
+The integration record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the violation possible or kept it going, read with [Article XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*). Correction is complete only when the standing record shows it eliminates or resolves that cause. Completion and non-completion have the effects stated in [Article XIX-D](core_06.030_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
+
 <a id="214-remedy-and-correction-together"></a>
 ##### 2.1.4 Remedy and Correction Together
 
 Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while the risk of the same harm happening again remains real. Being able to fix the problem does not lower how serious the Violation Axis slot is.
+
+Nothing else stands in for either output:
+
+- **Remedy side:** Imprisonment, standing locks, role exclusion, publication, apology, dissolving an institution, supervised operation, clawback from wrongdoers, or striking an unlawful decision or effect does not by itself count as remedy. It counts only when the standing record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm. Public acknowledgment or apology is governed by [§2.3 Voluntary Public Accountability Expression](#23-voluntary-public-accountability-expression).
+- **Correction side:** Imprisonment, standing locks, role exclusion, or publication does not by itself count as correction. It counts only when the standing record shows it addresses the cause or stops continuation.
 
 No remedy, correction, or restriction may itself inflict suffering as an end or add gratuitous or degrading suffering. This holds in every case and applies in full where the violation record carries verified [Cruelty](core_05.035_band_accountability.md#cruelty) conduct character.
 
@@ -346,6 +364,7 @@ Design a lock in this order:
 - **Past help:**
   - Past help does not cancel a verified harm, skip repair, or open a locked gated pathway.
   - That no-offset rule lives in [Chapter Fifteen §3.4 Linked Standing Records and No-Offset Bridge](core_15.000_standing_assessment.md#34-linked-standing-records-and-no-offset-bridge) and applies here.
+  - Help given after the violation can count as restitution under [§2.1.2 Remedy](#212-remedy), and only there.
 - **Where contribution is handled:**
   - [§2 Violation, Correction, and Prevention](#2-violation-correction-and-prevention) already says contribution does not decide locks.
   - What contribution can do is covered in [§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences) and [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment).
