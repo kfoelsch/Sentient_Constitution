@@ -1,27 +1,39 @@
 # Joint Structure
 
+This page is the non-operative navigation home for the Joint Structure layer. The substantive rules are in the linked Joint Structure files.
+
+## Purpose, Role, and Scope
+
 *In plain terms: the shared glue that tells the systems, institutions, and forum implementation files how to work together when more than one of them applies to the same situation.*
 
 **Scope:**
+
 - How the systems, institutions, and forum layers fit together when more than one applies to the same facts
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- Shared operational definitions (**oDef**) are organized across the operational cluster chapters: **CJS-5.105** (*operational cluster library*), **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*), **CJS-5.115 §3** (*Audit process home*), **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*), and **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*). The [CJS-5.115 §3 audit process home](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) explains the shared audit process.
-- The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-29.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*), and **CJS-8.105 §9** (*Boundary between Support Roles and Merits Decisions*). Open the [Joint structure index](corpus_joint_structure.md) or the [CJS-0.105 §1 Cross-File Routing](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for a specific file.
+- Shared operational definitions (**oDef**) across the operational cluster chapters
+- Interface and drafting homes for shared work across layers
+
+The operational cluster chapters are **CJS-5.105** (*operational cluster library*), **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*), **CJS-5.115 §3** (*Audit process home*), **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*), and **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*). The [CJS-5.115 §3 audit process home](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) explains the shared audit process.
+
+The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-29.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*), and **CJS-8.105 §9** (*Boundary between Support Roles and Merits Decisions*). Expand **Joint structure index** below or open [CJS-0.105 §1 Cross-File Routing](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for a specific file.
 
 **Does not:**
+
 - Replace day-to-day domain rules in [Systems and Data](corpus_systems.md), [Institutions](corpus_institutions.md), or [Forums](corpus_forum.md)
 - Redefine Rights Floors or Chapter Five terms
 - Require most readers to read this folder front to back
 
 **Implements from the core files:**
+
 - [Chapter One](core_01.000_values_principles.md) / [Preamble](core_00.000_preamble.md) — [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) provide the compass for **oDef** and the shared operational clusters.
 - [Chapter Five](core_05.000_definitions_home.md) definition stack and [Corpus](core_05.045_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
 - Cross-layer support for [Chapter Six](core_06.000_rights_part_a.md) through [Chapter Twenty-Five](core_25.000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
 - [Chapter Twenty-Nine](core_29.000_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
 **Siblings:**
+
 - Core [README](README.md) — constitutional reading order before joint-structure detail
 - [Systems and Data](corpus_systems.md) — start here for typing, classification, and system protocols
 - [Institutions](corpus_institutions.md) — start here for body formation, oversight, and institutional remedy

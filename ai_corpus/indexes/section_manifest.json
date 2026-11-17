@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-17T12:03:46+00:00",
+  "generated_at": "2026-11-17T13:47:59+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 549,
@@ -1641,18 +1641,19 @@
       ]
     },
     "corpus_joint_structure.md": {
-      "total_lines": 116,
+      "total_lines": 128,
       "sections": [
-        {"header":"Joint Structure","level":1,"line_start":1,"line_end":116,"anchor":null},
-        {"header":"Joint Structure Index","level":2,"line_start":52,"line_end":116,"anchor":null},
-        {"header":"Reader Guide (Non-Operative)","level":3,"line_start":54,"line_end":59,"anchor":null},
-        {"header":"Registry","level":3,"line_start":60,"line_end":65,"anchor":null},
-        {"header":"Scope and Contract","level":3,"line_start":66,"line_end":71,"anchor":null},
-        {"header":"Drafting Contracts","level":3,"line_start":72,"line_end":77,"anchor":null},
-        {"header":"oDef Parse Mechanics","level":3,"line_start":78,"line_end":83,"anchor":null},
-        {"header":"Interlocks","level":3,"line_start":84,"line_end":90,"anchor":null},
-        {"header":"Worked Examples","level":3,"line_start":91,"line_end":96,"anchor":null},
-        {"header":"oDef Library (CJS-5.105–CJS-5.135)","level":3,"line_start":97,"line_end":116,"anchor":null}
+        {"header":"Joint Structure","level":1,"line_start":1,"line_end":128,"anchor":null},
+        {"header":"Purpose, Role, and Scope","level":2,"line_start":5,"line_end":63,"anchor":null},
+        {"header":"Joint Structure Index","level":2,"line_start":64,"line_end":128,"anchor":null},
+        {"header":"Reader Guide (Non-Operative)","level":3,"line_start":66,"line_end":71,"anchor":null},
+        {"header":"Registry","level":3,"line_start":72,"line_end":77,"anchor":null},
+        {"header":"Scope and Contract","level":3,"line_start":78,"line_end":83,"anchor":null},
+        {"header":"Drafting Contracts","level":3,"line_start":84,"line_end":89,"anchor":null},
+        {"header":"oDef Parse Mechanics","level":3,"line_start":90,"line_end":95,"anchor":null},
+        {"header":"Interlocks","level":3,"line_start":96,"line_end":102,"anchor":null},
+        {"header":"Worked Examples","level":3,"line_start":103,"line_end":108,"anchor":null},
+        {"header":"oDef Library (CJS-5.105–CJS-5.135)","level":3,"line_start":109,"line_end":128,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md": {
