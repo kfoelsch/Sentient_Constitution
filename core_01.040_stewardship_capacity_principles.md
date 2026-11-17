@@ -68,7 +68,8 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
   - [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) ·
   - [§16.2 Institutional development](#162-institutional-development) (organizational facet) ·
   - [§16.3 Openness aspiration](#163-openness-aspiration) ·
-  - [§16.4 Document at action](#164-document-at-action) (*the act makes its own Act Record*).
+  - [§16.4 Document at action](#164-document-at-action) (*the act makes its own Act Record*) ·
+  - [§16.5 Automation](#165-automation) (*routine determinate steps done by the system; independent steps run in parallel where no one is unduly burdened*).
 - Read with:
   - [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus
   - [§17.1](#171-shared-stewardship-standard),
@@ -149,6 +150,7 @@ flowchart TB
 **Pillar 1 — Consequential stewardship ([§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)):**
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05.040_band_continuity.md#strategic-stewardship-obligation), [**Meaningful Agency**](core_05.055_band_participation.md#meaningful-agency)
 - Records and review pathways others can verify and challenge — [**Auditability**](core_05.050_band_oversight.md#auditability), [**Contestability**](core_05.035_band_accountability.md#contestability); records made by the act itself ([§16.4 Document at Action](#164-document-at-action))
+- Routine, determinate stewardship steps done by the system, and independent steps run side by side where no one is unduly burdened — [**Constitutional Efficiency**](core_05.040_band_continuity.md#constitutional-efficiency), [**Avoidable Burden**](core_05.040_band_continuity.md#avoidable-burden) ([§16.5 Automation](#165-automation))
 - Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*))
 
 <a id="16-pillar-2-proactive-stewardship"></a>
@@ -490,7 +492,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - From the moment of the act, a visible marker shows that an act was taken, that part of the Act Record is held back, on what stated ground for restricting disclosure, and by what route the rest will later be released or reconstructed.
   - Where the lawful ground for withholding the Act Record itself bars even the marker, that basis is still recorded at the time of the act, and the marker appears when the bar ends.
 - **Automation carries the burden, not the steward:**
-  - Recording is a design duty on the system, scaled to [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency).
+  - Recording is a design duty on the system, scaled to [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency). The general rule for stewardship work is [§16.5 Automation](#165-automation).
   - An Act Record that costs a steward extra hours after every act is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect where capture was feasible and was not built. The fix is to build the capture, not to ask for more diligence.
 
 This principle does not:
@@ -499,6 +501,106 @@ This principle does not:
 - **Open anyone's inner life:** The Act Record follows the role, as [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) requires. The [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) stands: capturing the act is not watching the actor.
 - **Outrank Safety, Truth, privacy, security, or justified confidentiality:** It never requires restricted information to be published.
 - **Turn an Act Record into a verdict:** An Act Record made at the act is a trail, not a standing finding, and it opens no standing record.
+
+<a id="165-automation"></a>
+#### 16.5 Automation
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency) (*more real benefit for each hour of sentient time and attention, inside constitutional bounds*); [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*already names automating as a preferred remedy; this section says when it is the default*); [§16.4 Document at Action](#164-document-at-action) (*automatic capture of the Act Record is this section's first worked case*).
+- Read with:
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (repair capacity that does not wear out the stewards who carry it); **Flourishing** aim (sentient time and attention spent where judgment is needed);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (no avoidable delay), **participation** leg (judgment and voice stay with sentients), **oversight** leg (automated steps stay inspectable);
+  - [§18.6 Standardization](core_01.050_governance_incentive_application.md#186-standardization) (*a common, published way of doing a step is what makes it easy to automate and its results easy to compare*);
+  - [material stake](core_00.000_preamble.md#material-stake) scaling.
+- Downstream: [Chapter Seventeen §3.3 Automation and Human Review](core_17.000_standing_integration.md#33-automation-and-human-review) (*what automation may finish and what it must refer*); [Chapter Seventeen §3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order) (*the contribution and violation tracks are decided side by side*); [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (*automating a process does not merge its seats*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
+- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) · [O](core_05.040_band_continuity.md#avoidable-burden) · [M](core_05.040_band_continuity.md#avoidable-burden-a) · [A](core_05.040_band_continuity.md#avoidable-burden-a) · [C](core_05.040_band_continuity.md#avoidable-burden-c)
+- [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [M](core_05.040_band_continuity.md#dependency-a) · [A](core_05.040_band_continuity.md#dependency-a) · [C](core_05.040_band_continuity.md#dependency-c)
+- [Attributable Action](core_05.035_band_accountability.md#attributable-action) · [O](core_05.035_band_accountability.md#attributable-action) · [M](core_05.035_band_accountability.md#attributable-action-constitutional-a) · [A](core_05.035_band_accountability.md#attributable-action-constitutional-a) · [C](core_05.035_band_accountability.md#attributable-action-constitutional-c)
+- [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
+- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
+- [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) · [O](core_05.040_band_continuity.md#surveillance-boundary) · [M](core_05.040_band_continuity.md#surveillance-boundary-a) · [A](core_05.040_band_continuity.md#surveillance-boundary-a) · [C](core_05.040_band_continuity.md#surveillance-boundary-c)
+- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
+- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.055_band_participation.md#meaningful-agency) · [M](core_05.055_band_participation.md#meaningful-agency-a) · [A](core_05.055_band_participation.md#meaningful-agency-a) · [C](core_05.055_band_participation.md#meaningful-agency-c)
+- [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](core_05.040_band_continuity.md#safety-constraint-a) · [A](core_05.040_band_continuity.md#safety-constraint-a) · [C](core_05.040_band_continuity.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Necessity](core_05.035_band_accountability.md#necessity) · [O](core_05.035_band_accountability.md#necessity) · [M](core_05.035_band_accountability.md#necessity-a) · [A](core_05.035_band_accountability.md#necessity-a) · [C](core_05.035_band_accountability.md#necessity-c)
+- [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
+</details>
+
+<br>
+
+*In plain terms: let systems do the steps that rules and checked facts fully settle, so sentients spend their time and judgment where judgment is needed. Automation takes work off sentients. It never takes away their say, hides what was done, or lets one actor check its own work. And when steps do not depend on each other, run them side by side, as long as no one ends up carrying more.*
+
+**Automation** is the stewardship default that routine, determinate work in a stewardship process is done by the system, not by a steward by hand, wherever automating it is feasible. It carries the efficiency principles in [§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency) and [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) into stewardship work, alongside [§18.6 Standardization](core_01.050_governance_incentive_application.md#186-standardization). It binds human and AI stewards alike, and the institutions and systems they run:
+
+- **Automate what rules and verified inputs settle:**
+  - Where verified inputs and published rules give a determinate result, the system does the step. Typical steps are notices, matching, routing, assembling an Act Record, and running verifications.
+  - No extra manual approval is added unless this Constitution or adopted implementation requires review ([Chapter Seventeen §3.3 Automation and Human Review](core_17.000_standing_integration.md#33-automation-and-human-review) states the rule for standing integration).
+  - Where an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) can be removed by automating the step, that is the preferred remedy under [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+- **Judgment stays with sentients:**
+  - Questions that are uncertain, disputed, novel, materially discretionary, or high-impact go to an authorized reviewer or forum.
+  - Automation may assemble and route such a question. It does not decide it.
+- **Automation is still an act:**
+  - An automated step is attributable to the role that owns it, leaves its Act Record ([§16.4 Document at Action](#164-document-at-action)), and can be inspected, contested, and corrected like a manual one ([Attributable Action](core_05.035_band_accountability.md#attributable-action), [Auditability](core_05.050_band_oversight.md#auditability), [Contestability](core_05.035_band_accountability.md#contestability)).
+  - Automating a process does not make its checking independent. A system may not sit in the initiating, verifying, and record seats of the same act ([Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), [§18.3 Separation of Duties](core_01.050_governance_incentive_application.md#183-separation-of-duties)).
+- **The system carries the burden, not the steward:**
+  - Building the automation is a design duty on the system, scaled to [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency).
+  - Manual work that a feasible automation would remove is an Avoidable Burden defect. The fix is to build the automation, not to ask stewards for more diligence.
+
+<a id="1651-parallelization"></a>
+##### 16.5.1 Parallelization
+
+*In plain terms: if two steps in a stewardship process do not need each other's results, do them at the same time instead of one after the other. Do this wherever it spares sentients waiting, and only where no one ends up with more to carry.*
+
+**Parallelization** is the part of Automation that runs independent steps of a stewardship process side by side. The rule: **every stewardship process that can be run in parallel without creating an undue burden on anyone is run in parallel.** Putting independent steps in a line when they could run together adds delay no one needed. That is an Avoidable Burden defect and works against the [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) leg. How a process is built so that it can run this way is [§16.5.2 Design for Parallelization](#1652-design-for-parallelization).
+
+- **What can run in parallel:**
+  - Steps that need no result from each other, such as verifying different parts of the same Act Record, notices to several parties, independent reviews, and gathering inputs from different sources.
+  - [Chapter Seventeen §3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order) already works this way: the contribution track and the violation track are each decided from their own standing record and do not wait for each other.
+  - Independent reviews run side by side are a good fit, because neither reviewer is anchored by the other's conclusion.
+- **Parallel running is undue when it:**
+  - asks one steward to hold overlapping jobs at once beyond what that steward can do well, or puts a reviewer under competing simultaneous demands;
+  - makes an affected sentient answer several demands at once when one at a time would spare them;
+  - costs more to coordinate and rejoin than it saves; or
+  - duplicates work for no purpose.
+- **Where it is undue:** The steps run in sequence, and the reason can be stated.
+- **Dependencies and required order stay:**
+  - A step that needs another step's result waits for it.
+  - An order that [Safety](core_05.040_band_continuity.md#safety-constitutional-constraint), [Truth](core_05.050_band_oversight.md#truth-constitutional-constraint), due process, or a Chapter Six right requires (for example, notice before action, or verification before the act it authorizes) is not removed by running other steps in parallel.
+- **Seats stay separate:** Running steps together never lets one actor hold seats that the separation-of-duties rules keep apart for the same act.
+- **The strands rejoin on the Act Record:** Each strand's result is kept on the Act Record, no strand's outcome is lost or overwritten, and the step where the strands meet is stated.
+
+<a id="1652-design-for-parallelization"></a>
+##### 16.5.2 Design for Parallelization
+
+*In plain terms: build processes so that independent steps can run side by side, instead of locking them into a line from the start. Skip this only where building it in would cost someone more than it saves.*
+
+**Design for Parallelization** is how a stewardship process is built, as [§16.5.1 Parallelization](#1651-parallelization) is how it is run. The rule: **stewardship processes are designed to support parallelization unless doing so creates an undue burden on anyone.** A process that is built as a single line when it could have been built to run in parallel cannot be run in parallel later, however much anyone wants to.
+
+- **What supporting parallelization means:**
+  - Each step is defined by what it needs and what it produces, so that independent steps can be seen as independent. A step does not wait on another by habit, by the order of a form, or because the two share a holder or a queue.
+  - Inputs and tools are not arranged so that independent steps must take turns on them.
+  - The point where the strands rejoin is built in: a stated step where they meet, and an Act Record that holds each strand's result.
+  - Steps use common, published formats ([§18.6 Standardization](core_01.050_governance_incentive_application.md#186-standardization)), so that different stewards or systems can take different strands.
+- **The same test of undue burden applies:** Designing for parallelization is undue where the cases listed in [§16.5.1 Parallelization](#1651-parallelization) would arise, or where the design effort costs more than the delay it would remove. Then the process is built in sequence, and the reason can be stated.
+- **A line where a parallel design was feasible:** A process built in a line, when a design that supports parallelization was feasible and not unduly burdensome, carries the same Avoidable Burden defect as in [§16.5.1 Parallelization](#1651-parallelization).
+
+**Scaling, for all of Automation.** The depth of this discipline scales with [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency). Lower-stake and informal stewardship follows the principle as far as is proportionate, and is not asked to build automation or coordination machinery that costs more than it saves.
+
+This principle does not:
+
+- **Set a deadline:** Time limits for decisions, responses, and review stay where [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them. Nothing here lengthens or shortens them.
+- **Make speed the goal:** Efficiency is not raw speed ([§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency)). Neither automation nor parallel running may outrank Safety, Truth, the Rights Floor, privacy, security, or justified confidentiality.
+- **Remove required review:** Where this Constitution or adopted implementation requires an authorized reviewer, automation prepares the work and the reviewer still decides.
+- **Open anyone's inner life:** Automated capture is capture of the act, not watching the actor ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary)).
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Consequential Stewardship: The Steward Role

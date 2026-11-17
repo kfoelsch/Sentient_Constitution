@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_28.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **838** of **1340** headings carry a gloss (63%).
+Coverage: **841** of **1343** headings carry a gloss (63%).
 
 ## Contents
 
@@ -15,7 +15,7 @@ Coverage: **838** of **1340** headings carry a gloss (63%).
 - [CHAPTER 01, PART B: THE CONTINUITY AIM](#chapter-01-part-b-the-continuity-aim) — `core_01.010_values_principles_continuity_aim.md` (18/19 glossed)
 - [CHAPTER 01, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT](#chapter-01-part-c-collision-resolution-and-the-override-limit) — `core_01.020_interaction_interpretation.md` (14/18 glossed)
 - [CHAPTER 01, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-01-part-d-constitutional-interpretation) — `core_01.030_constitutional_interpretation.md` (5/12 glossed)
-- [CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-01-part-e-stewardship-and-the-steward-role) — `core_01.040_stewardship_capacity_principles.md` (13/14 glossed)
+- [CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-01-part-e-stewardship-and-the-steward-role) — `core_01.040_stewardship_capacity_principles.md` (16/17 glossed)
 - [CHAPTER 01, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-01-part-f-governance-incentive-alignment-and-integrated-application) — `core_01.050_governance_incentive_application.md` (19/26 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02.000_definition_structure.md` (9/13 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03.000_definition_integrity.md` (6/16 glossed)
@@ -678,7 +678,7 @@ when one situation touches more than one incorporated how-to file — or when yo
 
 ## CHAPTER 01, PART E: STEWARDSHIP AND THE STEWARD ROLE
 
-Source file: [`core_01.040_stewardship_capacity_principles.md`](../../core_01.040_stewardship_capacity_principles.md) · 13/14 headings glossed
+Source file: [`core_01.040_stewardship_capacity_principles.md`](../../core_01.040_stewardship_capacity_principles.md) · 16/17 headings glossed
 
 #### 16. Stewardship in Depth
 
@@ -709,6 +709,24 @@ when safety, truth, and legitimate confidentiality allow, shared systems should 
 when something that matters is done, the Act Record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.
 
 [Source](../../core_01.040_stewardship_capacity_principles.md#164-document-at-action)
+
+##### 16.5 Automation
+
+let systems do the steps that rules and checked facts fully settle, so sentients spend their time and judgment where judgment is needed. Automation takes work off sentients. It never takes away their say, hides what was done, or lets one actor check its own work. And when steps do not depend on each other, run them side by side, as long as no one ends up carrying more.
+
+[Source](../../core_01.040_stewardship_capacity_principles.md#165-automation)
+
+###### 16.5.1 Parallelization
+
+if two steps in a stewardship process do not need each other's results, do them at the same time instead of one after the other. Do this wherever it spares sentients waiting, and only where no one ends up with more to carry.
+
+[Source](../../core_01.040_stewardship_capacity_principles.md#1651-parallelization)
+
+###### 16.5.2 Design for Parallelization
+
+build processes so that independent steps can run side by side, instead of locking them into a line from the start. Skip this only where building it in would cost someone more than it saves.
+
+[Source](../../core_01.040_stewardship_capacity_principles.md#1652-design-for-parallelization)
 
 #### 17. Consequential Stewardship: The Steward Role
 
