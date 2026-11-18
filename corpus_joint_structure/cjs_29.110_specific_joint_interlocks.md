@@ -66,7 +66,13 @@ This file is the joint-structure implementation home for **CJS-29.110** (*Specif
 
 *In plain terms: this is the joint-structure adopted implementation text in [Corpus](../core_05.045_band_integrative.md#corpus) — the shared glue when systems, institutions, and forums have to be read together. It is not [Chapter Twenty-Five](../core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (who may govern). Open the section you were sent to — not this file front to back.*
 
-**Layer.** This file is **CJS**, the joint-structure adopted implementation text named in [Preamble §9 Adopted Implementation Corpus](../core_00.000_preamble.md#9-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge), this text implements the Constitution; it does not narrow it.
+## Purpose, Role, and Scope
+
+**Purpose:** Coordinate the implementation requirements that cross systems, institutions, and forums in the specific topics covered here.
+
+**Role:** This file states joint interlocks for delegated authority, trust integrity, class-scaled staffing, and shared procedural terms. The domain layers retain their local operative rules.
+
+**Layer:** This file is **CJS**, the joint-structure adopted implementation text named in [Preamble §9 Adopted Implementation Corpus](../core_00.000_preamble.md#9-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge), this text implements the Constitution; it does not narrow it.
 
 When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*): **CJS → CS → CI → CF**. The [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations: [Chapter One §15.4.3 Incorporation Layer](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer).
 
@@ -76,7 +82,7 @@ When more than one adopted corpus applies to the same facts, use the default rea
 - [**CI**](../corpus_institutions.md) — institutional formation, [Governance](../core_05.035_band_accountability.md#governance), oversight, and dissolution
 - [**CF**](../corpus_forum.md) — forum operations under [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction)
 
-Shared operational clusters (**oDef.*n***, same as **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n***) live in [CJS-5.105](cjs_05.105_cross_implementation_operational_terms.md#cjs-5105-operational-cluster-library-odef) (*operational cluster library (oDef)*). Label homes: [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*).
+The shared operational cluster library starts at [CJS-5.105](cjs_05.105_cross_implementation_operational_terms.md#cjs-5105-operational-cluster-library-odef) (*operational cluster library (oDef)*) and continues through **CJS-5.135** (*Integrative cross-leg operations (oDef.22–oDef.23)*). Label homes: [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*).
 
 | Interlock | What it covers |
 |---|---|
@@ -165,7 +171,7 @@ In everyday reading: publish how long rotating members serve, how home-member te
   - [Chapter One §15.4.4](../core_01.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.030 §15.4.4) (*combined satisfaction*);
   - [Chapter One §15.4.3](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (1.030 §15.4.3) (*cross-file Fullest Protective Effect rule*);
   - **CJS-8.105 §11** (*Classification Alignment for Supervised Scope*).
-- Topic routing (primary owner): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*).; see that row for mandatory read-with.
+- Topic routing (primary owner): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); see that row for mandatory read-with.
 
 </details>
 
@@ -182,6 +188,7 @@ A trustworthiness claim is non-compliant if one implementation file gives reassu
 For implementation routing, **Class A**, **Class B**, and **Class C** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) and **[CS-25.305 — Critical system stewardship](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) criteria and limits, apply **Chapter Nine §4** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
+
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
@@ -218,13 +225,14 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined Satisfac
 
 *In plain terms: high-impact roles cannot depend on one sentient. For materially binding constitutional lanes — especially under higher-risk system classes — institutions need enough qualified sentients, documented backup and succession, and real spread of knowledge so the lane stays competent without becoming fragile or captured.*
 
-This rule covers roles with materially binding effect under **Chapter Six**, section **5**, where [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-25.305 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.105 §1** (*Cross-File Routing*).
+This rule covers roles with materially binding effect where [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-25.305 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.105 §1** (*Cross-File Routing*).
 
 Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*), [Chapter Eighteen §2.2 Competency Bars and Clearances](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (*Competency Bars and Clearances*), and any controlling standing lock under [Chapter Nineteen §2.2 Prevention — General Standing Locks](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) or [§3.5 Special Locks](../core_19.000_violation_consequences.md#35-special-locks).
 
 For **constitutional lane** and functional-separation meaning, apply **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) with **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
+
 - at least **three sentients** assigned to the lane;
 - documented competency and succession coverage for that lane; and
 - no single sentient who is the only qualified actor for the lane's materially binding duties.
@@ -235,7 +243,7 @@ Staffing must be real, not just numerical. Responsibility cannot be spread so th
 
 Apply [Chapter One §17.6 Portable Competence](../core_01.040_stewardship_capacity_principles.md#176-portable-competence) to that coverage: an alternate counts only if it would not fail for the same reason as the steward it covers, and succession and handoffs must be exercised, with gaps recorded and corrected. A second copy of an AI system with the same flaw is not coverage. Cross-training does not authorize a sentient to check its own earlier work, bypass a competency bar, or obtain evidence beyond its lawful access. Rotation remains a tool, not a duty to move every steward through every role.
 
-The constitutional floor remains in [Chapter Twenty-Five](../core_25.000_governance.md), section **5**. Domain detail remains in **CI-8.205** (*Institutional design, separation of powers, and authority custody*), **CI-25.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), **CI-23.210** (*Cross-institution coordination and escalation*), and [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-25.305 — Critical system stewardship**.
+The constitutional requirements for authorized roles, competency, and succession are in [Chapter Twenty-Five §6 Authorized Roles, Competency Development, and Contribution](../core_25.000_governance.md#6-authorized-roles-competency-development-and-contribution). Domain detail remains in **CI-8.205** (*Institutional design, separation of powers, and authority custody*), **CI-25.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), **CI-23.210** (*Cross-institution coordination and escalation*), and [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-25.305 — Critical system stewardship**.
 
 ## CJS-29.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing
 

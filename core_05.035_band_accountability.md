@@ -2642,7 +2642,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
     - **Evade through structure:** aggregate control through federated structures while still producing real concentration;
     - **Evade across domains:** substitute control in one domain for control in another to avoid a threshold;
     - **Ignore durable power:** design thresholds that disregard lasting domination, coercive dependency, or gatekeeper self-preferencing when those conditions materially degrade Contestability; or
-    - **Delay heightened review:** design ceiling regimes that fail to trigger heightened review before consolidation predictably harms Contestability ([CJS-5.125 §11.3 Consolidation Ceiling-Setting Discipline (Adopter-Tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#market-concentration-threshold-activation-c)).
+    - **Delay heightened review:** design ceiling regimes that fail to trigger heightened review before consolidation predictably harms Contestability ([CJS-5.125 §11.3 Consolidation Ceiling-Setting Discipline (Adopter-Tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)).
 
 ---
 

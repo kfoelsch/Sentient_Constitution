@@ -721,6 +721,7 @@ Forum Case Records are kept where the sentients who need them can reach them and
 
 - Upstream: [§3](#3-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Chapter Seventeen §3 — Integration record and decision order](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) (*highest applicable non-compliance category — mixed-stakes coordination*).
 - Downstream: [§7](#7-escalation-and-questions-for-ruling) (*constitutional questions for ruling, backup routing activation, and Interim protection while coordination proceeds*).
+- Within §5: [§5.1](#51-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*); [§5.2](#52-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*); [§5.3](#53-family-sequencing-and-alignment-lead) (*family sequencing and the alignment lead*); [§5.4](#54-integrity-led-alignment-coordination) (*Integrity-led alignment coordination*); [§5.5](#55-cross-forum-anti-self-judging-rule) (*independent lead and backup pairs*); [§5.6](#56-family-level-capture) (*family-level capture*); [§5.7](#57-capacity-failure-is-heard-outside-the-starved-body) (*capacity failure*).
 - Read with:
   - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
   - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
@@ -742,7 +743,11 @@ Forum Case Records are kept where the sentients who need them can reach them and
 
 *In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
 
-**Scope expansion and representative treatment.** When one sentient files a case, the forum **may** widen the proceeding to cover an affected **class**, **subclass**, or other group in the same situation.
+<a id="51-scope-expansion-and-representative-treatment"></a>
+
+#### 5.1 Scope Expansion and Representative Treatment
+
+When one sentient files a case, the forum **may** widen the proceeding to cover an affected **class**, **subclass**, or other group in the same situation.
 - Expansion is available when the Forum Case Record shows any of the following:
   - a shared injury that matters;
   - the same unlawful practice;
@@ -753,16 +758,29 @@ Forum Case Records are kept where the sentients who need them can reach them and
 - It **should** also expand when refusing to expand would predictably produce conflicting rulings, or would block relief that has to work at a **structural** level.
 - Expanding the case does not take away the original claimant's **standing**. It also does not erase individual issues that still need person-by-person proof or remedy.
 
-**A transfer is one step and keeps the case.** When a lawful order or published rule sends a matter to another forum, the move is one automated step: "go here."
+<a id="52-a-transfer-is-one-step-and-keeps-the-case"></a>
+
+#### 5.2 A Transfer Is One Step and Keeps the Case
+
+When a lawful order or published rule sends a matter to another forum, the move is one automated step: "go here."
 - The case keeps its Forum Case Record, intake kind, tier, and the time already counted. Only the lead changes. Nothing is re-filed, re-opened, or re-proved.
 - The same step updates the docket portal and alerts the parties, the representatives, and both forums. No one has to carry the matter across by hand.
 - The order or published rule decides where the matter goes. The step does not decide that, and it cannot be used to steer a matter. The mechanics are in [CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure).
 
-**Family sequencing and alignment lead.** Related matters may start in the nearest track with jurisdiction, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
+<a id="53-family-sequencing-and-alignment-lead"></a>
+
+#### 5.3 Family Sequencing and Alignment Lead
+
+Related matters may start in the nearest track with jurisdiction, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
 - **Sentient** first may apply when peer disputes can be fully resolved without final institutional or constitutional determination; institutional or constitutional aspects may be stayed or split with explicit preclusion rules.
 - **Institutional** internal integrity process may precede **Integrity** forums where independence and contest safeguards meet **Chapter Fifteen**, **Chapter Six** (Foundational Rights), and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) and **[CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review)** (*Procedure integrity, contestability, and secondary review*) expectations; **Integrity** forums remain available for final integrity determinations, cross-institution deadlock, and pattern claims.
 
-**Integrity-led alignment coordination:**
+<a id="54-integrity-led-alignment-coordination"></a>
+
+#### 5.4 Integrity-Led Alignment Coordination
+
+When an **Integrity** forum issues an **alignment** ruling or runs certification or validation, these rules keep one lead record and keep other families' merits jobs with them:
+
 - Where an **Integrity** forum issues an **alignment** ruling under **section** **5**, it **remains** the **lead** coordinating forum for **that** proceeding's **record**, as **section** **4** provides.
 - Where an **Integrity** forum conducts **constitutional alignment certification** for a new system or an Institution, or **ongoing alignment validation** for an existing system or Institution, it remains the official lead forum for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or certification assigns a component question elsewhere.
 - Where material ecological exposure exists, **Environment** forum environmental-alignment review is a required component of that lead record. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment Forum objection, remediation condition, or environmental question for ruling remains unresolved.
@@ -770,7 +788,11 @@ Forum Case Records are kept where the sentients who need them can reach them and
 - Lead **Integrity** coordination must not preempt final merits on non-integrity primary questions reserved to **Constitutional**, **Institutional**, **Environment**, **specialized technical**, or **Sentient** forums.
 - **Conflicting** **simultaneous** orders **must** be **resolved** through **published** **coordination** rules — **including** **stays** and **sequencing** in the **alignment** ruling or **implementation** text — **consistent** with **section** **8** and **CF-23.425** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*).
 
-**Cross-forum anti-self-judging rule.** A **forum** family **must not** be the **sole** **final** **merits** forum for a claim whose **primary** issue is that same family's own **bias**, **capture**, **conflict**, **recusal failure**, **concealment**, **process abuse**, or comparable **integrity** violation.
+<a id="55-cross-forum-anti-self-judging-rule"></a>
+
+#### 5.5 Cross-Forum Anti-Self-Judging Rule
+
+A **forum** family **must not** be the **sole** **final** **merits** forum for a claim whose **primary** issue is that same family's own **bias**, **capture**, **conflict**, **recusal failure**, **concealment**, **process abuse**, or comparable **integrity** violation.
 - Primary-stakes routing still governs. The **independent** lead family for such claims is assigned as follows unless a more specific constitutional rule controls:
   - against **Constitutional** forums: **Integrity** first and **Institutional** as backup
   - against **Institutional** forums: **Constitutional** first and **Integrity** as backup
@@ -778,7 +800,11 @@ Forum Case Records are kept where the sentients who need them can reach them and
   - against **Environment** forums: **Institutional** first and **Integrity** as backup
 - This rule does **not** convert every case naming a forum into a special venue rule. It applies only where **anti-self-judging** protection is materially necessary to preserve **independence**, **contestability**, or **public** **trust**.
 
-**Family-level capture.** Where credible evidence indicates **capture**, compromise, coercive control, coordinated obstruction, or structural dependency affecting a **forum family** as a whole, ordinary intra-family recusal, appeal, or continuity process is not sufficient by itself.
+<a id="56-family-level-capture"></a>
+
+#### 5.6 Family-Level Capture
+
+Where credible evidence indicates **capture**, compromise, coercive control, coordinated obstruction, or structural dependency affecting a **forum family** as a whole, ordinary intra-family recusal, appeal, or continuity process is not sufficient by itself.
 - The forum system must activate the following, sufficient to restore lawful, contestable merits adjudication:
   - family-level backup routing;
   - independent preservation of records; and
@@ -791,8 +817,11 @@ Forum Case Records are kept where the sentients who need them can reach them and
   - restoration.
 - It does not permanently absorb the captured family's jurisdiction or displace **Constitutional** certification where structural remedy or constitutional meaning is materially at issue.
 
-<a id="capacity-failure-routing"></a>
-**Capacity failure is heard outside the starved body.** A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
+<a id="57-capacity-failure-is-heard-outside-the-starved-body"></a>
+
+#### 5.7 Capacity Failure Is Heard Outside the Starved Body
+
+A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 5** backup pairs applying where Integrity is itself the body in question.
 - Any affected party, protected reporter, or self-organized group under [Chapter One §17.4 Aligned Self-Organization](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B window under **section 8** unless the Forum Case Record shows Tier A stakes.
 - The body in question must supply its published [Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) and **section 8** backlog figures, and may give evidence, but must not control the capacity-failure finding or the corrective order.

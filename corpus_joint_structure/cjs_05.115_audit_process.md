@@ -3,11 +3,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*) / **oDef.3**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.115 §3** (*Audit process home*) / **oDef.3**; the related **CJS-5.110 §3** auditability and reconstructability annex is in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Five [Auditability](../core_05.050_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Do not treat this file, Chapter Nine, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Five [Auditability](../core_05.050_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Chapter Nine and the OP annexes use these layers; they are not additional audit-rule homes.
 
 </details>
 
@@ -54,9 +54,17 @@ This file is the joint-structure implementation home for **CJS-5.115 §3** (*Aud
 
 *In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XVI** (*Audit, Transparency, and Independent Verification*); the machine-facing checklists live in the **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) OP annexes.*
 
-**Cluster identity.** Stable citation **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*) names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex) under the same cluster ID — annex, not the front door.
+## Purpose, Role, and Scope
+
+**Purpose:** Make the shared audit process understandable across systems, institutions, and forums.
+
+**Role:** This file states what auditing is, why and how it is done, when it runs, and how the sibling audit modes relate. The Rights Floor and the Auditability definition remain in their constitutional homes.
+
+**Cluster identity:** Stable citation **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*) names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex) under the same cluster ID — annex, not the front door.
+
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
-**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05.040_band_continuity.md#system-alignment-certification) (Chapter Nine) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** (*Audit, Transparency, and Independent Verification*) floors into Chapter Nine or into any single CS / CI / CF file.
+
+**Oversight frame:** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05.040_band_continuity.md#system-alignment-certification) (Chapter Nine) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** (*Audit, Transparency, and Independent Verification*) floors into Chapter Nine or into any single CS / CI / CF file.
 
 ## CJS-5.115 §3 Audit Process Home (oDef.3)
 
@@ -67,12 +75,14 @@ Use this file whenever someone needs to understand or run auditing across **CS**
 **Auditing** is the practical process of checking whether constitutional and implementation claims match what actually happened: records, behavior, outputs, effects, and responsibilities. It answers: *Can an outsider reconstruct what mattered, test the claim, and push back if something is wrong?*
 
 Auditing **is**:
+
 - an independent or plural check against real evidence
 - scaled to impact, dependency, and risk
 - required under oversight — not optional window dressing
 - able to produce usable outputs sentients can see or review
 
 Auditing **is not**:
+
 - a rubber stamp, marketing packet, or forever pass
 - the same thing as [System Alignment Certification](../core_05.040_band_continuity.md#system-alignment-certification) alone — SAC is one large sibling mode
 - a single auditor, operator, or gatekeeper monopolizing review (**Article XVI-B** (*Distributed Oversight and Anti-Monopoly Review*))
@@ -86,6 +96,7 @@ Auditing **is not**:
 *In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so sentients can challenge and fix what went wrong.*
 
 We audit to:
+
 - catch **misalignment**, understatement of class or risk, concealment, and false reliance
 - keep **oversight** real as systems, institutions, and forums grow more powerful or entangled
 - support **challenge**, correction, and remedy before delay or opacity make accountability theoretical
@@ -152,6 +163,7 @@ Audit when any of the following applies (often more than one):
 | Cross-implementation trust when layers combine | **CJS-29.110 §3** / **CJS-R17** |
 
 **Machine-facing annexes (not this file):**
+
 - Auditability and reconstructability OP terms → [CJS-5.110 §3 annex](cjs_05.110_oversight_operations.md#cjs-5110-3-oversight-auditability-and-reconstructability-terms-annex)
 - Access levels and audit-output disclosure → [CJS-5.110 §4](cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)
 - Independent claim verification → **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) in [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md)

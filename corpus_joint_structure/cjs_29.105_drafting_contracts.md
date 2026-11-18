@@ -30,6 +30,12 @@ This file is the joint-structure implementation home for **CJS-29.105 §7** (*In
 
 *In plain terms: these sections are for editors and auditors. They say how to split a topic across files without writing two competing rulebooks, and how to keep **CJS** as a connector rather than a second owner.*
 
+## Purpose, Role, and Scope
+
+**Purpose:** Keep shared implementation text and primary-owner detail coordinated when a topic spans files.
+
+**Role:** Sections 7 and 8 set the non-duplication and two-layer drafting contracts. Section 8.1 states the boundary between a primary owner and CJS.
+
 Average readers can skip this file unless a citation sends them here. How to enter the layer: [joint-structure reader guide](cjs_reader_guide.md).
 
 ## CJS-29.105 §7: Intentional Overlap (Non-Duplication Discipline)
@@ -84,7 +90,7 @@ When CJS text seems to conflict with a **primary owner** section, apply **CJS-29
 When that boundary does not resolve the conflict, use this order:
 
 1. The Sentient Constitution and core definitions, including **Chapter Twenty-Nine**.
-2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.105 §1** (*Topic router (stable IDs)*) and the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights).
+2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.105 §1** (*Cross-File Routing*) and the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights).
 3. The **Layer 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*).
 
@@ -117,12 +123,13 @@ Domain-layer read-with contracts: apply [Institutions Read-with Pointers](../cor
 
 *In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) cluster citations traceable under **CJS-0.105 §3** (*Stable Identifiers, Edition Alignment, and Drafting Notes*).*
 
-Under the identifier and definition-home rules in **CJS-0.110 §1** (*Section Identifiers and Article References*), the **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) files remain the operative home for **oDef** clusters (**oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n***).
+Under the identifier and definition-home rules in **CJS-0.110 §1** (*Section Identifiers and Article References*), the **CJS-5.105** (*operational cluster library (oDef)*) through **CJS-5.135** (*Integrative cross-leg operations (oDef.22–oDef.23)*) files remain the operative home for **oDef** clusters.
 
 When revising **CJS** joint-structure text:
+
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
 - keep read-with restatements short; and
-- preserve **oDef** / **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** citations so references remain traceable under [CJS-0.105 §3](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Stable Identifiers, Edition Alignment, and Drafting Notes*); the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule remains [Chapter One §15.4.3 Incorporation Layer](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+- preserve **oDef** / **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** citations so references remain traceable under [CJS-0.105 §3](cjs_00.105_registry_and_reading_rules.md#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable Identifiers, Edition Alignment, and Drafting Notes*); the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule remains [Chapter One §15.4.3 Incorporation Layer](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 ---
 

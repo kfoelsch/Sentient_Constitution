@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef Parse Mechanics*) and **CJS-5.140 §14**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*) and **CJS-5.140 §14** (*Operational Clusters*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). General readers may defer this file until cross-domain **oDef** clusters are in scope.
 
@@ -37,7 +37,11 @@ This file is the joint-structure implementation home for **CJS-5.140 §13** (*Op
 
 *In plain terms: these sections say how to read each **oDef** entry and how to treat a cluster of entries as one compound definition.*
 
-A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry). The subsections below are the binding parse rules for **oDef** entries in **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**).
+## Purpose, Role, and Scope
+
+**Purpose:** Make the structure of joint operational definitions understandable and consistent.
+
+**Role:** Section 13 sets the entry format and subsection-local terminology; section 14 sets how an operational cluster is read and applied. These rules cover **oDef** entries in the **CJS-5.105** (*operational cluster library (oDef)*) through **CJS-5.135** (*Integrative cross-leg operations (oDef.22–oDef.23)*) files. A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry).
 
 ## CJS-5.140 §13: Operational Structure and Subsection-Local Terminology
 
@@ -60,6 +64,7 @@ A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guid
 **oDef** entries use a local joint operational rule format. Reader-facing headers match the Chapter Five guidepost presentation so the same O/M/A/C scan path works across layers; the entries remain joint-operational rules, not constitutional dictionary entries.
 
 That format uses a titled entry (optionally preceded by an HTML anchor whose `id` is the entry slug), an optional italic `*In plain terms: …*` gloss, then:
+
 - `- **What it is**` — Ontological (O) scope, with mandatory `**In scope:**` and `**Out of scope:**` sub-bullets (optional `**Depends on:**` only when constitutive prerequisites must be separated),
 - `- **How to measure and assess**` — Measurement (M) interwoven with Assessment (A), introduced by an HTML anchor whose `id` is the entry slug plus `-a`, with layered `**Primary measure:**` / `**Primary assessment:**` pairing (and secondary/tertiary layers only when the entry states them),
 - `- **What must hold**` — Compliance (C), introduced by an HTML anchor whose `id` is the entry slug plus `-c`, with `**Primary failure:**` (and secondary/tertiary failure labels when layers apply).
@@ -69,6 +74,7 @@ That format uses a titled entry (optionally preceded by an HTML anchor whose `id
 These labels are modeled on **Chapter Two** (*Ontological (O)*, *Measurement (M)*, *Assessment (A)*, *Compliance (C)*) and the Chapter Five guidepost headers. They remain local to this joint-structure implementation layer.
 
 The consequences of that structure are:
+
 - **oDef** guidepost entries are not Independent Definitions and are not Chapter Five **Def.*** entries,
 - they do not add constitutional terms,
 - they do not satisfy **Chapter Two** or **Chapter Three** definition-integrity rules for defined concepts.
@@ -99,17 +105,19 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05.045_band_integrative.md#constitutional-constraint) · [O](../core_05.045_band_integrative.md#constitutional-constraint) · [M](../core_05.045_band_integrative.md#constitutional-constraint-a) · [A](../core_05.045_band_integrative.md#constitutional-constraint-a) · [C](../core_05.045_band_integrative.md#constitutional-constraint-c)
 
-Some subsections are structured as an **oDef** operational cluster (see **CJS-0.110 §1** (*Section Identifiers and Article References*) for the **oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n*** rule).
+Some subsections are structured as an **oDef** operational cluster. For the identifier and definition-home rules, see [CJS-0.110 §1 Section Identifiers and Article References](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references).
 
 In an **oDef** cluster, the head entry and the component entries in the same subsection work together as one compound operational definition.
 
 Read the structure as follows:
+
 - the head entry is the guidepost block (**What it is** / **How to measure and assess** / **What must hold**) immediately under the titled head line,
 - component entries are introduced by a plain title line without **`###`**,
 - each component then has its own guidepost block,
 - the cluster continues until a **`---` delimiter** or the next **`###`** subsection heading.
 
 Application rules are strict:
+
 - the head and all components must be applied together,
 - partial satisfaction is not compliance,
 - no component may be used, satisfied, or evaluated on its own in a way that changes the compliance result.
@@ -119,6 +127,7 @@ That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfa
 By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five §4.1 Joint Invocation and Satisfaction](../core_05.000_definitions_home.md#41-joint-invocation-and-satisfaction).
 
 **oDef** clusters remain local to this implementation layer:
+
 - they are not **Chapter Five** **Def.*** Clustered Definitions,
 - they do not add Independent Definitions.
 

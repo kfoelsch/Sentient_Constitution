@@ -29,7 +29,14 @@ This file is the joint-structure implementation home for **Accountability leg (C
 
 *In plain terms: These clusters carry the **Accountability** leg into working terms: how far authority may be concentrated, who must justify a decision and how heavily, what makes a procedure sound, who may authorize an override, and when a structure must be reviewed and corrected. The bigger the stake, the stronger each requirement becomes.*
 
+## Purpose, Role, and Scope
+
+**Purpose:** Provide shared operational terms for accountability across implementation layers.
+
+**Role:** These clusters address authority, justification, procedure, intervention, and structural review. They apply the Accountability leg within their stated scopes.
+
 This family operationalizes the **Accountability** leg of the [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad): authority distribution, justification burdens, procedural integrity, intervention authorization, and structural review. Accountability clusters scale with [material stake](../core_00.000_preamble.md#material-stake) and must remain contestable in practice.
+
 | Cluster | Section |
 |---|---|
 | **CJS-5.125 §11** / **oDef.11** | Accountability: distributed and proportional authority terms |
@@ -48,26 +55,15 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
-  - **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and
   - **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*);
   - **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
-- Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) — Distributed and Proportional Authority
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
 - Read with: [**CS-25.305**](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship) (*Critical system stewardship*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 4](../core_03.000_definition_integrity.md#4-non-compliance-finding-profiles) (3.000)).
 - Chapter One basis: §15.1, §6, §13.2, §19.2, §17 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in
-  - **CJS-0.105 §1** (*Topic router*); primary owners
-  - **CI-8.205** (*Institutional design, separation of powers, and authority custody*),
-  - **CI-25.205** (*Appointment, competency, rotation, and removal*),
-  - **CI-6.215** (*Resource stewardship and incentive integrity*),
-  - **CI-23.210** (*Cross-institution coordination and escalation*).
+- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-0.105 §1** (*Topic router*); primary owners **CI-8.205** (*Institutional design, separation of powers, and authority custody*), **CI-25.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-23.210** (*Cross-institution coordination and escalation*).
 - Topic routing (mandatory read-with): **CJS-R22** (*Standing-Record custody, opening authority, and separation of duties*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
 - Topic routing (mandatory read-with): **CJS-R23** (*Seat types, local role maps, and wrong-seat routing*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-25.205** (*Appointment, competency, rotation, and removal*).
 
@@ -114,8 +110,6 @@ distributed and proportional authority terms
 
 The sub-rules below apply that cluster minimum to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
-
-
 ### CJS-5.125 §11.1 Market Concentration Threshold-Setting Discipline (Adopter-Tunable)
 
 <details>
@@ -124,8 +118,8 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
 - Upstream: [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_01.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.010 §11.1); [Market Concentration Threshold](../core_05.035_band_accountability.md#market-concentration-threshold).
 - Downstream:
   - [Chapter Twenty-Two §6.1](../core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1) where concentration-based subversion is at issue;
-  - [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (banned domination conduct and remedies);
-  - [CJS-5.125 §11.3](cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (*Consolidation ceiling-setting discipline (adopter-tunable)*) (how to set the consolidation ceiling);
+  - [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (*Anti-domination conduct and remediation catalog*) (banned domination conduct and remedies);
+  - [CJS-5.125 §11.3](cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (*Consolidation ceiling-setting discipline (adopter-tunable)*) (how to set the consolidation ceiling);
   - [Chapter One §11.2 Pro-Competition and Anti-Domination](../core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) (1.010 §11.2);
   - [Chapter One §11.3 Consolidation Ceiling](../core_01.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (1.010 §11.3).
 - Read with:
@@ -183,7 +177,7 @@ Market-concentration threshold activation
   - [Market Structure](../core_05.035_band_accountability.md#market-structure).
 - Downstream: [Chapter Twenty-Two §6.1](../core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1) where concentration-based subversion is at issue; [Chapter Twenty-Two §3.1](../core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms) (22.000 §3.1) where mobility-restriction or waiver conduct is at issue; [Chapter One §11.3 Consolidation Ceiling](../core_01.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (1.010 §11.3).
 - Read with:
-  - [CJS-5.125 §11.1](#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (*Market concentration threshold-setting discipline (adopter-tunable)*);
+  - [CJS-5.125 §11.1](#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*);
   - **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*);
   - [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor);
   - [Article XXI](../core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
@@ -210,7 +204,7 @@ Claimed efficiencies, competitiveness, emergency need, security need, or product
 <a id="anti-domination-conduct-and-remediation-catalog"></a>
 anti-domination conduct and remediation catalog
 
-*In plain terms: market-structuring arrangements must not create, maintain, acquire, exploit, conceal, or restructure around the prohibited domination patterns above where those patterns foreseeably degrade wellbeing, meaningful agency, contestability,…*
+*In plain terms: Market arrangements must not create or preserve domination patterns that foreseeably harm wellbeing, agency, contestability, or constitutional review; proportionate remedies must restore contestability and preserve the Rights Floor.*
 
 - **What it is**
   - **In scope:** Market-structuring arrangements must not create, maintain, acquire, exploit, conceal, or restructure around the prohibited domination patterns above where those patterns foreseeably degrade wellbeing, meaningful agency, contestability, or constitutional review; proportionate remedies must restore contestability and preserve the Chapter Six Rights Floor.
@@ -234,8 +228,8 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01.010_values_principles_continuity_aim.md#1132-consolidation-ceiling-mechanism-adopter-tunable) (1.010 §11.3.2); [Chapter One §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01.010_values_principles_continuity_aim.md#1131-consolidation-risk-pre-lock-in-impairment) (1.010 §11.3.1); [Market Structure](../core_05.035_band_accountability.md#market-structure).
-- Downstream: [Chapter Twenty-Two §6.1](../core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1) where concentration-based subversion is at issue; [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling violation).
-- Read with: [CJS-5.125 §11.1](cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4); [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
+- Downstream: [Chapter Twenty-Two §6.1](../core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1) where concentration-based subversion is at issue; [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling violation).
+- Read with: [CJS-5.125 §11.1](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4); [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
 </details>
 
 <br>
@@ -260,7 +254,7 @@ Crossing an adopted consolidation ceiling creates a rebuttable presumption of no
 
 Remedies for crossing a consolidation ceiling must be proportionate under **CJS-5.125 §11.2** (*Anti-domination conduct and remediation catalog*), including where applicable merger limits, acquisition standstill, and structural separation tailored to consolidation-ceiling violation.
 
-Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.010_values_principles_continuity_aim.md#11-market-structure) requirements, the **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) threshold mechanism, or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
+Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.010_values_principles_continuity_aim.md#11-market-structure) requirements, the [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_01.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable), or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
 
 <a id="consolidation-ceiling-setting-discipline-adopter-tunable"></a>
 consolidation ceiling-setting discipline (adopter-tunable)
@@ -316,7 +310,7 @@ Baseline governance accountability conditions
 <a id="classification-scaled-governance-burden"></a>
 Classification-scaled governance burden
 
-*In plain terms: where an institution's duties depend on [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes or **CS-25.305 — Critical system stewardship** stewardship levels, governance burden must scale with the applicable class and…*
+*In plain terms: When institutional duties depend on system class or stewardship level, the governance burden must scale to the applicable class and stewardship profile.*
 
 - **What it is**
   - **In scope:** Where an institution's duties depend on [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes or **CS-25.305 — Critical system stewardship** stewardship levels, governance burden must scale with the applicable class and stewardship level profile.
@@ -443,17 +437,10 @@ Stewardship-role depth and non-symbolic governance boundary
   - **CJS-5.130 §17** (*Continuity: Interoperability, Portability, and Exit-Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
-  - **CJS-5.125 §12** (*Accountability: Burden-of-Justification and Constraint Terms*);
   - **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and
   - **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*).
-- Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
-- Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) — Distributed and Proportional Authority
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5)**
-- Read with: [CF-23.450](../corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*) through [CF-23.460](../corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: [CF-23.450](../corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*) through [CF-23.460](../corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 4](../core_03.000_definition_integrity.md#4-non-compliance-finding-profiles) (3.000)).
@@ -506,7 +493,7 @@ The sub-rules below apply that cluster minimum to specific revenue and access-bu
 <a id="class-aligned-revenue-and-access-burden-minimum"></a>
 Class-aligned revenue and access-burden minimum
 
-*In plain terms: taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with…*
+*In plain terms: Charges that materially affect access must reflect system class, dependency, and rights-pathway risk without making essential or protected access practically unavailable.*
 
 - **What it is**
   - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
@@ -523,7 +510,7 @@ Class-aligned revenue and access-burden minimum
 <a id="collective-health-and-emergency-support-bundle-minimum"></a>
 Collective-health and emergency support-bundle minimum
 
-*In plain terms: public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit…*
+*In plain terms: Collective-health and emergency restrictions must be paired with the material support needed to make the limits necessary and proportionate.*
 
 - **What it is**
   - **In scope:** Public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit with the support needed to make the restriction necessary and proportionate, including housing, subsistence, care access, accessibility, ventilation or filtration, treatment, or stabilization support where material.
@@ -574,7 +561,7 @@ Incentive proof, residual misalignment, and scaling
 <a id="innovation-exclusivity-anti-enclosure-application"></a>
 Innovation-exclusivity anti-enclosure application
 
-*In plain terms: patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity claims that materially restrict repair, compatibility, migration, safety review, research, education, or public-interest implementation face the…*
+*In plain terms: Material exclusivity restrictions on repair, compatibility, safety review, research, education, or public-interest implementation must be evaluated against interoperability, portability, safety, and anti-enclosure requirements.*
 
 - **What it is**
   - **In scope:** Patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity claims that materially restrict repair, compatibility, migration, safety review, research, education, or public-interest implementation face the same burden.
@@ -591,7 +578,7 @@ Innovation-exclusivity anti-enclosure application
 <a id="mechanism-integrity-and-incentive-alignment-minimum"></a>
 Mechanism-integrity and incentive-alignment minimum
 
-*In plain terms: any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected,…*
+*In plain terms: Mechanisms that materially affect constitutional outcomes must make aligned behavior the expected, sustainable path under ordinary, scaled, adversarial, and degraded conditions.*
 
 - **What it is**
   - **In scope:** Any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected, sustainable path under ordinary, scaled, adversarial, and degraded conditions.
@@ -625,7 +612,7 @@ Restriction-burden assignment minimum
 <a id="rights-collision-and-alternative-selection-record"></a>
 Rights-collision and alternative-selection record
 
-*In plain terms: when restrictions are justified by conflict among rights or duties, the Constitutional Collision Record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review…*
+*In plain terms: A Constitutional Collision Record must identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.*
 
 - **What it is**
   - **In scope:** When restrictions are justified by conflict among rights or duties, the Constitutional Collision Record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
@@ -659,11 +646,11 @@ Substantive showing and least-restrictive proof
 <a id="survival-critical-access-and-voluntary-market-interface"></a>
 Survival-critical access and voluntary-market interface
 
-*In plain terms: sentients must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary…*
+*In plain terms: Sentients must be able to reach survival-level essentials without being forced into work, market participation, premium upgrades, or discretionary spending to clear the floor.*
 
 - **What it is**
   - **In scope:** Sentients must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary spending just to clear the floor. When a governed system, public program, market interface, or supervised commercial pathway delivers that access, it must protect the floor first. Buying, selling, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in survival-critical access and voluntary-market.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the survival-critical access and voluntary-market interface.
 <a id="survival-critical-access-and-voluntary-market-interface-a"></a>
 - **How to measure and assess**
   - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-25.305 — Critical system stewardship**
@@ -676,7 +663,7 @@ Survival-critical access and voluntary-market interface
 <a id="temporal-discipline-and-revalidation"></a>
 Temporal discipline and revalidation
 
-*In plain terms: material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage…*
+*In plain terms: Material restrictions must be scope-limited, time-bound, periodically revalidated, and subject to required forum review while they persist.*
 
 - **What it is**
   - **In scope:** Material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage rights collisions. They must be scope-limited, time-bound, set to expire without renewed justification, periodically revalidated, and subject to mandatory forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, or governance authority.
@@ -697,17 +684,12 @@ Temporal discipline and revalidation
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*);
   - **CJS-5.125 §12** (*Accountability: Burden-of-Justification and Constraint Terms*);
   - **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
   - **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*).
-- Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
-- Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
-- Read with: **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
-- Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) — System impact classifications**
 - Read with: [CI-23.205](../corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*)
 - Read with: [CF-23.410](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-panel-formation-disclosure-recusal-and-lawful-bench-constitution) (*Panel formation, disclosure, recusal, and lawful bench constitution*), [CF-23.415](../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-23.420](../corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#cf-23420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*)
@@ -715,8 +697,8 @@ Temporal discipline and revalidation
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for challenge-pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 4](../core_03.000_definition_integrity.md#4-non-compliance-finding-profiles) (3.000)).
 - Chapter One basis: §15.1, §5.2, §18, §19.1, §15, §17 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to-form*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 - Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, questions for ruling, representative treatment*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*).
 - Topic routing (mandatory read-with): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.420** (*Appeal, secondary review, and exhaustion pathways*).
 - Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (contest-pathway integrity, not merits)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.215 §3** (*Contest-Integrity Monitoring (Class A and Class B)*).
@@ -819,7 +801,7 @@ Delegated binding body
 <a id="deposition-or-preserved-testimony-session"></a>
 Deposition or preserved-testimony session
 
-*In plain terms: a deposition or preserved-testimony session is a structured record of witness, participant, expert, steward, or affected-party testimony taken outside the merits hearing under an oath, affirmation, truth-duty, governance-duty, or…*
+*In plain terms: A deposition or preserved-testimony session records testimony outside a merits hearing under an oath, duty, or stated voluntary attestation; it preserves evidence and is not itself a merits decision.*
 
 - **What it is**
   - **In scope:** A deposition or preserved-testimony session is a structured record of witness, participant, expert, steward, or affected-party testimony taken outside the merits hearing under an oath, affirmation, truth-duty, governance-duty, or clearly stated voluntary attestation. It may be forum-authorized, party-noticed, community-governance initiated, mutually agreed, or voluntarily offered, and it may be conducted by a competent external record-preserving role when that role has no merits, sanction, or compulsion authority unless separately authorized. It preserves evidence, tests material facts, supports later review, or records community-governance knowledge; it is not itself a merits decision, sanction, hearing, mediation, informal interview, unilateral statement, investigative interrogation, or unrestricted discovery license.
@@ -872,7 +854,7 @@ Representative treatment
 
 *In plain terms: a forum may decide one shared question for many affected parties at once — but only when notice, representation, and contest routes stay real for everyone covered.*
 
-This sub-rule governs **common-question procedure**: a forum resolves one shared issue for many affected parties at once instead of requiring each sentient to relitigate the same underlying practice alone. It includes scope expansion to a **class** or **subclass** under `core_23.000_forum.md` **Chapter Twenty-Three**, **section 3** (*Scope expansion and representative treatment*).
+This sub-rule governs **common-question procedure**: a forum resolves one shared issue for many affected parties at once instead of requiring each sentient to relitigate the same underlying practice alone. It includes scope expansion to a **class** or **subclass** under [Chapter Twenty-Three §5](../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Transfer, Consolidation, and Coordination*), including its scope-expansion and representative-treatment provisions.
 
 A **common decision rule** is the **named shared practice in dispute** for that expanded proceeding—the specific rule, policy, model behavior, eligibility test, fee formula, routing criterion, or comparable decision basis applied the same way across the group. It is the thing whose lawfulness, application, or effect the forum is deciding for everyone included, not merely a label for "many sentients were harmed." Examples include a mass-denial algorithm, a published institutional threshold, a standardized sanction trigger, or a system-default setting that drives the same result class-wide.
 
@@ -985,17 +967,10 @@ Uncertainty safeguards and anti-abuse minimum
   - **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
-  - **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*);
   - **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and
   - **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*);
   - **CJS-5.125 §12** (*Accountability: Burden-of-Justification and Constraint Terms*).
-- Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
-- Read with: **CJS-5.135 §23 — Integrative: intervention and override integrity terms**
-- Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) — Distributed and Proportional Authority
-- Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: pairs with **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*) for governance authorization versus technical intervention integrity.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from emergency or operational continuity modes.
@@ -1074,7 +1049,7 @@ Emergency governance limits and anti-normalization control
     **Primary assessment:** Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-23.460 (*Emergency adjudication*) emergency-review or restoration pathway.
 <a id="emergency-governance-limits-and-anti-normalization-control-c"></a>
 - **What must hold**
-  - **Primary failure:** Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance,.
+  - **Primary failure:** Emergency action that lacks a forum-review path or turns emergency mode into standing governance.
 
 <a id="governance-quorum-and-emergency-sequencing-requirements"></a>
 Governance quorum and emergency-sequencing requirements
@@ -1154,16 +1129,9 @@ Records, transparency, and challenge pathway duties
   - **CJS-5.130 §19** (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*);
   - **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and
   - **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*);
-  - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
-  - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
   - **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*);
   - **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
-- Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
-- Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Reflexive Transparency and Accountability
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) — System impact classifications**
 - Read with: **CJS-5.125 §12** (*burden-of-justification and constraint terms*) where lowering a protective classification finding is at issue.
 - Read with: Owner-layer-specific monitoring or publication duties.
@@ -1217,7 +1185,13 @@ Correction Urgency (CU) discipline
 *In plain terms: structural issues must receive auditable urgency categories based on impact, propagation risk, and irreversibility. Each category borrows the timing of a tier, and the top category, CU-1, runs at the Emergency setting when the emergency conditions are met.*
 
 - **What it is**
-  - **In scope:** Structural issues must receive auditable urgency categories based on impact, propagation risk, and irreversibility. The categories take the scope of harm and the column of the matching tier in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CU-1** matches Tier A, **CU-2** Tier B, **CU-3** Tier C, and **CU-4** Tier L (Tier P for an issue contained in a private unit). A category borrows that column's figures and is not a tier classification. The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity settings do not apply. **CU-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment. Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CU-1** runs at the **Emergency setting** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#time-scale-settings) (*Time-scale settings*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)). Where a CU issue is also before a forum, that matter's tier window governs, and a CU category never changes a dispute's tier.
+  - **In scope:** Structural issues must receive auditable urgency categories based on impact, propagation risk, and irreversibility. The categories take the scope of harm and the column of the matching tier in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CU-1** matches Tier A, **CU-2** Tier B, **CU-3** Tier C, and **CU-4** Tier L (Tier P for an issue contained in a private unit). A category borrows that column's figures and is not a tier classification.
+
+    The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity settings do not apply.
+
+    **CU-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment.
+
+    Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CU-1** runs at the **Emergency setting** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#time-scale-settings) (*Time-scale settings*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)). Where a CU issue is also before a forum, that matter's tier window governs, and a CU category never changes a dispute's tier.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in correction urgency (CU) discipline.
 <a id="correction-urgency-cu-discipline-a"></a>
 - **How to measure and assess**
@@ -1226,7 +1200,7 @@ Correction Urgency (CU) discipline
     **Primary assessment:** Evaluation must verify urgency labels actually change response speed, safeguards, and oversight.
 <a id="correction-urgency-cu-discipline-c"></a>
 - **What must hold**
-  - **Primary failure:** Serious issues without timely containment, or urgency labels that do not govern action,.
+  - **Primary failure:** Serious issues without timely containment or urgency labels that do not govern action.
 
 <a id="feedback-integration-and-effectiveness-verification"></a>
 Feedback integration and effectiveness verification
@@ -1267,7 +1241,7 @@ Use this sub-rule when a material **classification, typing, or status record** o
 <a id="realignment-resistance-and-dissolution-review-trigger-minimum"></a>
 Realignment resistance and dissolution-review trigger minimum
 
-*In plain terms: repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent…*
+*In plain terms: Repeated verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate when lesser measures cannot protect constitutional obligations.*
 
 - **What it is**
   - **In scope:** Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations. Returning a Chartered Party to below Class L by a contraction order is an equivalent consequence. The steps, clocks, findings, and enforcement for these measures are in **CI-19.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*).
@@ -1338,7 +1312,11 @@ Harm reports and corrective notices
 *In plain terms: when sentients report harm from a product or service, such as an allergic reaction, an injury, an illness, or a wrong label, the reports must be collected and acted on, and when information is found wrong or a product unsafe, everyone who relied on it must be told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the problem must be contained and fixed inside the windows for that urgency (CU-1 to CU-4).*
 
 - **What it is**
-  - **In scope:** Reports of harm from a product or service must be taken in without suppression (**Article XIII-A** (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation. When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_05.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter One §3.1.5 Present Capability and Proactive Help](../core_01.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy (**Article XIII-B** (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels. The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
+  - **In scope:** Reports of harm from a product or service must be taken in without suppression ([Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation.
+
+    When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_05.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter One §3.1.5 Present Capability and Proactive Help](../core_01.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy ([Article XIII-B](../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels.
+
+    The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in harm reports and corrective notices.
 <a id="harm-reports-and-corrective-notices-a"></a>
 - **How to measure and assess**
