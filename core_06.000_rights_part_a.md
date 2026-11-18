@@ -62,7 +62,10 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 
 The chapter leaves process, governance, and implementation rules to their owner chapters. **Section 2.1** says how the floors must work in practice.
 
-### 2. The Rights Floor and Its Duties
+<a id="2-the-rights-floor-and-its-duties"></a>
+<a id="2-why-the-rights-floor-exists"></a>
+
+### 2. Why the Rights Floor Exists
 
 A Rights Floor is a minimum guarantee. It is the set of protections that must remain available, open to inspection, and enforceable before any new rules, certifications, categories, or plans can be approved. These floors serve the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 

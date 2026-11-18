@@ -357,6 +357,7 @@ An unplaced seat, or a holder who is absent, excluded, captured, or conflicted, 
 
 - The seat does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_05.035_band_accountability.md#material-control-line).
 - Until corrected, the act routes to the published substitute or independent path, however urgent the act.
+- <a id="63-general-seat-vacancy-rule"></a>**General seat-vacancy rule:** Every seat that falls vacant or whose holder cannot serve, whatever the cause, is filled, and the Charter Role Map or other published document that names it is updated, within the [Class Repair Window](core_05.035_band_accountability.md#class-repair-window) of the System's, Institution's, or adopter's class ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#class-repair-window)), counted from the logged notice of the vacancy, unless a more specific rule below or elsewhere sets its own window.
 - For a certification seat that the Charter Role Map leaves unplaced, the correction must meet the response and resolution windows, counted from the logged notice of the gap, as set out in [Chapter Seven §5.7.4 Certification Seats](core_07.000_charters.md#574-certification-seats).
 
 <a id="64-delegation"></a>

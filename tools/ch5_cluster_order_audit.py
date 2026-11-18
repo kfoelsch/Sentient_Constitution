@@ -26,6 +26,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Contestability",
         "Adjudication and Dispute Resolution",
         "Due Process",
+        "Class Repair Window",
         "Timely Resolution",
         "Merits Determination",
         "Stay",

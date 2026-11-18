@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **859** of **1393** headings carry a gloss (62%).
+Coverage: **862** of **1396** headings carry a gloss (62%).
 
 ## Contents
 
@@ -27,8 +27,8 @@ Coverage: **859** of **1393** headings carry a gloss (62%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (94/106 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (65/126 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (95/107 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (67/128 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (55/70 glossed)
@@ -1164,7 +1164,7 @@ this section says what this chapter is for, where it sits among the chapters on 
 
 [Source](../../core_05.000_definitions_home.md#1-purpose-role-and-scope)
 
-#### 2. Canonical Home and Non-Duplication Rule
+#### 2. Why Definitions Have One Home
 
 every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.
 
@@ -1316,7 +1316,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 94/106 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 95/107 headings glossed
 
 #### Accountability: Independent Terms
 
@@ -1443,6 +1443,12 @@ accessible and impartial ways to resolve claims that rights or constitutional re
 decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve an official record that supports review.
 
 [Source](../../core_05.035_band_accountability.md#due-process)
+
+##### Class Repair Window
+
+when a constitutional process breaks, such as a seat falling vacant or a required published document going missing, the party responsible must answer and fix it on the same clock as its class: fast for the most critical classes, slower for small and contained ones. Someone else stands in until it is fixed.
+
+[Source](../../core_05.035_band_accountability.md#class-repair-window)
 
 ##### Timely Resolution
 
@@ -1950,7 +1956,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 65/126 headings glossed
+Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 67/128 headings glossed
 
 #### Continuity: Independent Terms
 
@@ -2078,6 +2084,12 @@ institutional data types and handling cover data an Institution handles outside 
 
 [Source](../../core_05.040_band_continuity.md#institutional-data-types-and-handling)
 
+##### Intake Target
+
+the **intake target** is the first clock of a materiality tier: the time by which a matter must be acknowledged and taken in, evidence preservation must start, and a prompt review must begin.
+
+[Source](../../core_05.040_band_continuity.md#intake-target)
+
 ##### Interim Protection
 
 **interim protection** is relief ordered while a matter is pending, to protect sentients, evidence, or the status quo until the merits are decided. It must be reasoned, proportionate, and reviewed inside the prompt-review window.
@@ -2089,6 +2101,12 @@ institutional data types and handling cover data an Institution handles outside 
 the **lead forum** is the Integrity Forum that leads a certification pass. It directs the opening of the one coordinated record, brings the component findings together, and states the outcome.
 
 [Source](../../core_05.040_band_continuity.md#lead-forum)
+
+##### Materiality Tier
+
+a **materiality tier** is one of five urgency levels (A, B, C, L, P) a material dispute or certification matter is placed in. The tier sets the clocks the matter runs on, from intake to the outer bound for resolution.
+
+[Source](../../core_05.040_band_continuity.md#materiality-tier)
 
 ##### New Material Authority
 
@@ -7050,7 +7068,7 @@ Chapter Six states the basic Rights Floors no sentient may be pushed below. Thos
 
 [Source](../../core_06.000_rights_part_a.md#1-purpose-role-and-scope)
 
-#### 2. The Rights Floor and Its Duties
+#### 2. Why the Rights Floor Exists
 
 *(no plain-terms gloss in source)*
 

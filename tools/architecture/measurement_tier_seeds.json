@@ -1543,7 +1543,22 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Class Repair Window": {
+      "ch00_category": "3.7 Timeliness",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Tier Window": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Materiality Tier": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Intake Target": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
       "status": "approved"

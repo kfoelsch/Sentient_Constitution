@@ -1010,6 +1010,48 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="intake-target"></a>
+
+#### Intake Target
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
+- Cluster component: none.
+- Read with:
+  - [Materiality Tier](core_05.040_band_continuity.md#materiality-tier), and
+  - [Tier Window](core_05.040_band_continuity.md#tier-window).
+
+</details>
+
+<br>
+
+*In plain terms: the **intake target** is the first clock of a materiality tier: the time by which a matter must be acknowledged and taken in, evidence preservation must start, and a prompt review must begin.*
+
+- **What it is**
+  - **In scope:** The stage target for forum access and intake acknowledgment in the materiality tier a matter is placed in. Evidence preservation starts inside it, and a **prompt review** must begin no later than the intake target of the matching tier.
+  - **Out of scope:**
+    - the later stage targets and the integrated resolution outer bound of the tier; or
+    - the figures themselves, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Materiality Tier](core_05.040_band_continuity.md#materiality-tier).
+  - The rule is stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Five meaning only.
+<a id="intake-target-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. intake is acknowledged and evidence preservation begins inside the intake target of the matter's tier; and
+    2. a prompt review begins no later than that intake target.
+<a id="intake-target-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - automation or a screen that extends an intake target; or
+    - an intake target missed without the review the anti-delay discipline requires.
+
+---
+
 <a id="interim-protection"></a>
 
 #### Interim Protection
@@ -1092,6 +1134,49 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary failure:**
     - a lead forum that also keeps the record for the same act; or
     - authorizing a certified scope before the required component work is finished.
+
+---
+
+<a id="materiality-tier"></a>
+
+#### Materiality Tier
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
+- Cluster component: none.
+- Read with:
+  - [Materiality](core_05.050_band_oversight.md#materiality),
+  - [Intake Target](core_05.040_band_continuity.md#intake-target), and
+  - [Tier Window](core_05.040_band_continuity.md#tier-window).
+
+</details>
+
+<br>
+
+*In plain terms: a **materiality tier** is one of five urgency levels (A, B, C, L, P) a material dispute or certification matter is placed in. The tier sets the clocks the matter runs on, from intake to the outer bound for resolution.*
+
+- **What it is**
+  - **In scope:** One of the five tiers, A, B, C, L, and P, into which a material dispute or certification matter is classified under [Materiality](core_05.050_band_oversight.md#materiality), mirroring the System and Institution class alphabet. The tier sets the matter's stage targets and integrated resolution outer bound; a certification matter's tier presumptively matches its class.
+  - **Out of scope:**
+    - the System or Institution class itself, which has its own home; or
+    - the figures for each tier, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Materiality](core_05.050_band_oversight.md#materiality).
+  - The tiers are stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Five meaning only.
+<a id="materiality-tier-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. each material matter is placed in a tier on its stakes, not on convenience or coordination burden alone; and
+    2. a narrower window is used where Rights-Floor urgency requires it.
+<a id="materiality-tier-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - placing a matter in a slower tier than its stakes support; or
+    - treating coordination burden as a reason to slow a Tier A or Tier B matter.
 
 ---
 
@@ -1576,10 +1661,12 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eleven §3.3.4 Tier Windows](core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) (11.000 §3.3.4) (*tier windows*); read with [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*).
+- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); read with [Chapter Eleven §3.3.4 Tier Windows](core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) (11.000 §3.3.4) (*tier windows in a certification pass*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_05.040_band_continuity.md#certification-pass), and
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
+  - [Materiality Tier](core_05.040_band_continuity.md#materiality-tier),
+  - [Intake Target](core_05.040_band_continuity.md#intake-target), and
   - [Interim Protection](core_05.040_band_continuity.md#interim-protection).
 
 </details>
@@ -1593,7 +1680,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - the notice interval before go-live, which scales to class and to what affected sentients need;
     - the certification interval, which sets how often a certification is renewed; or
-    - the Chapter Twenty-Three targets and bounds themselves, which Chapter Twenty-Three owns —
+    - the targets and bounds themselves, which Chapter Twenty-Four owns —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Interim Protection](core_05.040_band_continuity.md#interim-protection).
   - The use of tier windows in a certification pass is stated in [Chapter Eleven §3.3.4 Tier Windows](core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows); the tiers, targets, and bounds are stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Five meaning only.
@@ -1603,12 +1690,12 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. a certification matter is placed in the tier that matches the class; and
-    2. an overrun is reviewed as Chapter Twenty-Three requires.
+    2. an overrun is reviewed as Chapter Twenty-Four requires.
 <a id="tier-window-c"></a>
 - **What must hold**
   - **Primary failure:**
     - automation or a screen that extends a tier window or an intake target; or
-    - an overrun that is not reviewed as Chapter Twenty-Three requires.
+    - an overrun that is not reviewed as Chapter Twenty-Four requires.
 
 ---
 
