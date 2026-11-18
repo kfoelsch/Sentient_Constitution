@@ -37,7 +37,7 @@
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);
-  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000);
+  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000);
   - [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000); designated implementation text named above.
 - Read with:
   - [Chapter One §19.3 Misalignment Detection](core_01.050_governance_incentive_application.md#193-misalignment-detection) (1.050 §19.3) (*plural detection and review*);
@@ -492,7 +492,7 @@ The more harm that could follow and the more others depend on the work, the hard
 - Upstream:
   - [§3](#3-four-seat-constitutional-requirement);
   - [§7](#7-proportional-scaling-and-merged-hosting);
-  - [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](core_23.000_forum.md#81-emergency-measures-and-continuation-burden) (23.000 §8.1);
+  - [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden) (23.000 §8.1);
   - [default interim posture](core_01.020_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
 - Read with: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [CI-25.205 §6 Seat Catalog — Process-Role Archetypes and Operational Boundaries](corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
@@ -580,7 +580,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);
-  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000);
+  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000);
   - [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 

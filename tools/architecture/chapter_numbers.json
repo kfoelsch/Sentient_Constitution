@@ -638,6 +638,19 @@
       "ordinal_name": "23"
     },
     {
+      "old_id": "Chapter 23",
+      "machine_id": "23005",
+      "display_id": "23.005",
+      "layer": "CORE",
+      "core_home": "23",
+      "title": "23",
+      "destination_file": "core_23.005_forum_families_escalation_timeliness_support.md",
+      "status": "active",
+      "machine_number": "23005",
+      "layer_digit": "0",
+      "ordinal_name": "23"
+    },
+    {
       "old_id": "Chapter 24 (new)",
       "original_file": "core_24.000_enforcement.md",
       "machine_id": "24000",

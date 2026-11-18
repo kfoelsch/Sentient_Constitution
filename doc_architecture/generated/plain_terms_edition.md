@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_28.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **845** of **1377** headings carry a gloss (61%).
+Coverage: **845** of **1378** headings carry a gloss (61%).
 
 ## Contents
 
@@ -49,7 +49,8 @@ Coverage: **845** of **1377** headings carry a gloss (61%).
 - [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (11/17 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (9/17 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
-- [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (10/60 glossed)
+- [CHAPTER TWENTY-THREE, PART A: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-three-part-a-standards-routing-and-forum-cases) — `core_23.000_forum.md` (5/37 glossed)
+- [CHAPTER TWENTY-THREE, PART B: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT](#chapter-twenty-three-part-b-forum-families-escalation-timely-resolution-and-support) — `core_23.005_forum_families_escalation_timeliness_support.md` (5/24 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (1/2 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (42/43 glossed)
@@ -6578,9 +6579,9 @@ attacking the machinery that makes answerability real — evidence, verification
 
 [Source](../../core_22.000_misconduct_pattern_applications.md#7-obstruction-of-accountability-criteria-interaction)
 
-## CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION
+## CHAPTER TWENTY-THREE, PART A: STANDARDS, ROUTING, AND FORUM CASES
 
-Source file: [`core_23.000_forum.md`](../../core_23.000_forum.md) · 10/60 headings glossed
+Source file: [`core_23.000_forum.md`](../../core_23.000_forum.md) · 5/37 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6798,143 +6799,147 @@ when many **affected** **parties** share the same underlying harm pattern, forum
 
 [Source](../../core_23.000_forum.md#55-capacity-failure-is-heard-outside-the-starved-body)
 
+## CHAPTER TWENTY-THREE, PART B: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT
+
+Source file: [`core_23.005_forum_families_escalation_timeliness_support.md`](../../core_23.005_forum_families_escalation_timeliness_support.md) · 5/24 headings glossed
+
 #### 6. Forum Family Definitions — Accountability through Adjudication
 
 adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 3**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (**section 6.5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 3** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§6.2** (*Technical Forum Domains*) and **§6.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§6.6** (*Constitutional Forums*); certification when stakes merge is in **section 7**.
 
-[Source](../../core_23.000_forum.md#6-forum-family-definitions--accountability-through-adjudication)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#6-forum-family-definitions--accountability-through-adjudication)
 
 ##### 6.1 Sentient Forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#61-sentient-forums)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#61-sentient-forums)
 
 ##### 6.2 Technical Forum Domains
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#62-technical-forum-domains)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#62-technical-forum-domains)
 
 ##### 6.3 Institutional Forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#63-institutional-forums)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#63-institutional-forums)
 
 ##### 6.4 Environment Forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#64-environment-forums)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#64-environment-forums)
 
 ##### 6.5 Integrity Forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#65-integrity-forums)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#65-integrity-forums)
 
 ##### 6.6 Constitutional Forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#66-constitutional-forums)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#66-constitutional-forums)
 
 ##### 6.7 Provisional Implementation Operational Law
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#67-provisional-implementation-operational-law)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#67-provisional-implementation-operational-law)
 
 #### 7. Escalation and Questions for Ruling
 
 when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how questions for ruling reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and rulings finish. They also set the narrow hold a forum may place on one sentient's authority while the facts are checked.
 
-[Source](../../core_23.000_forum.md#7-escalation-and-questions-for-ruling)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#7-escalation-and-questions-for-ruling)
 
 ##### Ways a Matter Moves Between Forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#ways-a-matter-moves-between-forums)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums)
 
 ##### Family-to-Family Escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#family-to-family-escalation)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#family-to-family-escalation)
 
 ##### Existential Risk and Uncertainty on the Forum Case Record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#existential-risk-and-uncertainty-on-the-forum-case-record)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#existential-risk-and-uncertainty-on-the-forum-case-record)
 
 ##### Sending Questions to **Constitutional** Forums for Ruling
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#sending-questions-to-constitutional-forums-for-ruling)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#sending-questions-to-constitutional-forums-for-ruling)
 
 ##### Technical Support and Preserved **Integrity** Escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#technical-support-and-preserved-integrity-escalation)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#technical-support-and-preserved-integrity-escalation)
 
 ##### Interim Protection
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#interim-protection)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#interim-protection)
 
 ##### Interim Hold on a Named Sentient's Pathway
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#interim-hold-on-a-named-sentients-pathway)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway)
 
 ##### Backup Routing under the Anti-Self-Judging Rule
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#backup-routing-under-the-anti-self-judging-rule)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#backup-routing-under-the-anti-self-judging-rule)
 
 ##### Sentience-Status Adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) Implementation Hook)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)
 
 ##### Referral Distinguished from Expansion
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#referral-distinguished-from-expansion)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#referral-distinguished-from-expansion)
 
 ##### Chapter Twenty-One Designation and Independent Review
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_23.000_forum.md#chapter-twenty-one-designation-and-independent-review)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#chapter-twenty-one-designation-and-independent-review)
 
 #### 8. Timely Resolution, Materiality Tiers, and Anti-Delay Discipline
 
 forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies (three days for the steps that stop the harm), two weeks for ordinary material harm, and one to three months at most for coordination-default, bounded, or contained matters — not warehouse cases while harm compounds. The same five classes set how often certified systems and Institutions are checked, from every three months to every three years, with an audit halfway between. A true emergency gets a shorter clock for the steps that stop the harm. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
 
-[Source](../../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline)
 
 ##### 8.1 Emergency Measures and Continuation Burden
 
 emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”
 
-[Source](../../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden)
 
 #### 9. Forum Support Before, during, and After Review — Oversight Architecture
 
 forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.
 
-[Source](../../core_23.000_forum.md#9-forum-support-before-during-and-after-review--oversight-architecture)
+[Source](../../core_23.005_forum_families_escalation_timeliness_support.md#9-forum-support-before-during-and-after-review--oversight-architecture)
 
 ## CHAPTER TWENTY-FOUR: ENFORCEMENT
 

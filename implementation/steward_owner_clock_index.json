@@ -23,7 +23,7 @@
       "label": "Article XXVI-C / Chapter Twenty-Three §8 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Twenty-Eight-Three §6",
-        "href": "core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
         "label": "Article XXVI-C",
@@ -31,7 +31,7 @@
       },
       "emergency_reuse": {
         "label": "Chapter Twenty-Eight-Three §6.1 restore-challenge windows",
-        "href": "core_23.000_forum.md#81-emergency-measures-and-continuation-burden"
+        "href": "core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden"
       },
       "tiers": {
         "A": "7 days",
@@ -218,11 +218,11 @@
       "owners": [
         {
           "label": "Chapter Twenty-Eight-Three §6.1",
-          "href": "core_23.000_forum.md#81-emergency-measures-and-continuation-burden"
+          "href": "core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden"
         },
         {
           "label": "Chapter Twenty-Eight-Three §6 tier outer bounds",
-          "href": "core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -235,11 +235,11 @@
         "homes": [
           {
             "label": "Chapter Twenty-Eight-Three §6.1 restore-challenge windows",
-            "href": "core_23.000_forum.md#81-emergency-measures-and-continuation-burden"
+            "href": "core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden"
           },
           {
             "label": "Chapter Twenty-Eight-Three §6",
-            "href": "core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVI-C",
@@ -630,7 +630,7 @@
         },
         {
           "label": "Chapter Twenty-Eight-Three §6",
-          "href": "core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
           "label": "Timely Resolution",
@@ -646,7 +646,7 @@
         "homes": [
           {
             "label": "Chapter Twenty-Eight-Three §6",
-            "href": "core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVI-C",

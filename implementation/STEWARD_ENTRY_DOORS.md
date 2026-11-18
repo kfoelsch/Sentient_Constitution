@@ -54,7 +54,7 @@
 | Asked to take a step and unsure whether it is yours to take — verify, enter, countersign, contain, set participation terms, release evidence | [Which seat am I in](#which-seat-am-i-in) — then the stack the step belongs to |
 | “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Twenty-Seven §11](../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption document, with [Chapter Twenty-Nine §4](../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
 | Founding an oversight body, cooperative, or “constitutional institution” from the cooperating crew | [`adoption/INSTITUTION_FOUNDATION_KIT.md`](adoption/INSTITUTION_FOUNDATION_KIT.md). Binding formation: [CI-8.205 §6](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template). |
-| Founding a dispute forum, “independent review panel,” or Chapter Twenty-Three forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-23.405](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md). Binding routing: [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction). |
+| Founding a dispute forum, “independent review panel,” or Chapter Twenty-Three forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-23.405](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md). Binding routing: [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases). |
 
 This table is not an evaluation answer key. Composite cases may need more than one pointer.
 
@@ -197,7 +197,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter Twenty-Three §8.1](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden) |
+| **Owner text** | [Chapter Twenty-Three §8.1](../core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden) |
 | **Next step** | Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing. |
 | **Next-step class** | `time_boxed_containment_with_deferred_participation` |
 
@@ -350,4 +350,4 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twenty-Three §8](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Three §8.1 Emergency measures and continuation burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twenty-Three §8](../core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Three §8.1 Emergency measures and continuation burden](../core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden)); it does not create a slower clock.

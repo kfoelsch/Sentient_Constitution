@@ -496,6 +496,7 @@
     "core_21.000_misconduct_designation.md",
     "core_22.000_misconduct_pattern_applications.md",
     "core_23.000_forum.md",
+    "core_23.005_forum_families_escalation_timeliness_support.md",
     "core_25.000_governance.md",
     "core_26.000_non_regression.md",
     "core_27.000_amendment_ratification.md",
@@ -776,6 +777,7 @@
     "core_19.000_violation_consequences.md",
     "core_20.000_final_effect_restoration_enforcement.md",
     "core_23.000_forum.md",
+    "core_23.005_forum_families_escalation_timeliness_support.md",
     "core_27.000_amendment_ratification.md",
     "core_29.000_incorporation.md",
     "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md",
@@ -822,6 +824,7 @@
    "files": [
     "core_07.000_charters.md",
     "core_23.000_forum.md",
+    "core_23.005_forum_families_escalation_timeliness_support.md",
     "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md",
     "guides/CONCEPTUAL_OVERVIEW.md"
    ],
