@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_28.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **845** of **1372** headings carry a gloss (62%).
+Coverage: **845** of **1377** headings carry a gloss (61%).
 
 ## Contents
 
@@ -49,7 +49,7 @@ Coverage: **845** of **1372** headings carry a gloss (62%).
 - [CHAPTER TWENTY: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-twenty-final-standing-effect-restoration-and-enforcement) — `core_20.000_final_effect_restoration_enforcement.md` (11/17 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-one-anti-constitutional-misconduct-designation) — `core_21.000_misconduct_designation.md` (9/17 glossed)
 - [CHAPTER TWENTY-TWO: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_22.000_misconduct_pattern_applications.md` (17/50 glossed)
-- [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (10/55 glossed)
+- [CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION](#chapter-twenty-three-forums-and-jurisdiction) — `core_23.000_forum.md` (10/60 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (1/2 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (42/43 glossed)
@@ -6580,7 +6580,7 @@ attacking the machinery that makes answerability real — evidence, verification
 
 ## CHAPTER TWENTY-THREE: FORUMS AND JURISDICTION
 
-Source file: [`core_23.000_forum.md`](../../core_23.000_forum.md) · 10/55 headings glossed
+Source file: [`core_23.000_forum.md`](../../core_23.000_forum.md) · 10/60 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6762,15 +6762,45 @@ a case reaches a forum either as a direct case or as a review case that contests
 
 [Source](../../core_23.000_forum.md#47-keeping-forum-case-records)
 
-#### 5. Transfer, Consolidation, and Coordination — Continuity and Anti-Capture
+#### 5. Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture
 
-when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.
+when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.
 
-[Source](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture)
+[Source](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)
+
+##### 5.1 Scope Expansion and Representative Treatment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_23.000_forum.md#51-scope-expansion-and-representative-treatment)
+
+##### 5.2 A Transfer Is One Step and Keeps the Case
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_23.000_forum.md#52-a-transfer-is-one-step-and-keeps-the-case)
+
+##### 5.3 Cross-Forum Anti-Self-Judging Rule
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_23.000_forum.md#53-cross-forum-anti-self-judging-rule)
+
+##### 5.4 Family-Level Capture
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_23.000_forum.md#54-family-level-capture)
+
+##### 5.5 Capacity Failure Is Heard Outside the Starved Body
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_23.000_forum.md#55-capacity-failure-is-heard-outside-the-starved-body)
 
 #### 6. Forum Family Definitions — Accountability through Adjudication
 
-adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 3**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 3** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§6.2** (*Technical Forum Domains*) and **§6.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§6.6** (*Constitutional Forums*); certification when stakes merge is in **section 7**.
+adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 3**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (**section 6.5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 3** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§6.2** (*Technical Forum Domains*) and **§6.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§6.6** (*Constitutional Forums*); certification when stakes merge is in **section 7**.
 
 [Source](../../core_23.000_forum.md#6-forum-family-definitions--accountability-through-adjudication)
 
