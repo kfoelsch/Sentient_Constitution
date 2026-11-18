@@ -364,6 +364,7 @@ flowchart TB
     M["Chapter Twenty-One<br/><br/>Anti-constitutional misconduct review"]
     L["Chapter Seventeen<br/><br/>Anti-Constitutional Trust Lock"]
     F["Chapters Twenty-Three and Twenty-Four forums<br/><br/>Supervision, challenge and timely review"]
+    X["Chapters Twenty-Five and Twenty-Six<br/><br/>Enforcement: carrying out outcomes,<br/>special enforcement within limits"]
     H -.->|names who holds each seat| D
     H -->|publishes institutional scope and seats| I
     D -.->|separates authority at every stage| S
@@ -380,6 +381,10 @@ flowchart TB
     E -->|verified violation| V
     F -.->|supervises all stages| E
     F -.->|supervises institutional certification| I
+    R -->|final effects carried out| X
+    L -->|lock carried out| X
+    F -->|orders and outcomes| X
+    F -.->|reviews enforcement| X
     style H fill:none,stroke:#2563eb,color:#ffffff
     style D fill:none,stroke:#2563eb,color:#ffffff
     style S fill:none,stroke:#16a34a,color:#ffffff
@@ -392,6 +397,7 @@ flowchart TB
     style M fill:none,stroke:#db2777,color:#ffffff
     style L fill:none,stroke:#9333ea,color:#ffffff
     style F fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 The pipeline remains one constitutional process because each stage hands forward a defined, reviewable result. It remains constitutionally bounded because:
@@ -417,6 +423,7 @@ The full chain runs in the following order:
 4. **Apply standing effects on each track** ([Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows)) — verified contribution may grant competency clearance and must support proportionate recognition and material rewards; verified violation may trigger standing locks, correction, and [remedy for those harmed](core_19.000_violation_consequences.md#21-remedy-and-correction).
 5. **Conduct anti-constitutional designation review** ([Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Twenty-One must decide whether the corresponding ACMD attaches. That ACMD does not change how serious Chapter Sixteen already found the harm to be. Ordinary Chapter Seventeen effects continue in parallel until a final ACMD triggers the Anti-Constitutional Trust Lock.
 6. **Route disputes and keep remedy timely** ([Chapter Twenty-Three](core_23.000_forum.md#1-purpose-role-and-scope) and [Chapter Twenty-Four](core_24.000_forum_families_escalation_timeliness_support.md#chapter-twenty-four-forum-families-escalation-timely-resolution-and-support)) — forums must supervise how cases move, which track handles them, and whether windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_23.000_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Twenty-One designation is the primary stake.
+7. **Carry out outcomes** ([Chapter Twenty-Five](core_25.000_enforcement.md#chapter-twenty-five-enforcement) and [Chapter Twenty-Six](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement)) — a final effect, lock, remedy, or forum order is carried out by a named party within its window, and is not dodged, delayed, or quietly dropped. Where the bound actor resists, special enforcement applies within its shared floors: seizure of money and assets with a protected minimum, a standard surrender-pressure ladder, a non-lethal-first force ladder, and root-cause evaluation so the same failure is not repeated.
 
 Each stage above links to its owner chapter, so the chain can be walked from here — including Chapter Nine’s potential verified inputs into standing measurement.
 

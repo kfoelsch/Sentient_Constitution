@@ -503,6 +503,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution) — formal dispute-resolution pathways.
 - [Due Process](core_05.035_band_accountability.md#due-process) — fair and reviewable process for materially rights-affecting decisions and outcomes.
 - [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) — principle-layer responsiveness across the coordination lifecycle.
+- [Class Repair Window](core_05.035_band_accountability.md#class-repair-window) — answering and fixing a broken constitutional process on the clock of the responsible party's class.
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) — resolution within materiality-scaled windows.
 - [Merits Determination](core_05.035_band_accountability.md#merits-determination) — binding substantive dispositions in those dispute-resolution pathways.
 - [Stay](core_05.035_band_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
@@ -833,6 +834,52 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - traceability under Chapters Two through Four.
 
     A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated is also non-compliant. Emergency, automation, delegation, private ordering, or technical complexity cannot be used to defeat required process.
+
+---
+
+<a id="class-repair-window"></a>
+
+#### Class Repair Window
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#class-repair-window) (24.000 §4) (*class repair window*).
+- Upstream: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) (*applies the timeliness leg to the repair of constitutional processes*); **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
+- Cluster component: none.
+- Read with:
+  - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution),
+  - [Materiality Tier](core_05.040_band_continuity.md#materiality-tier),
+  - [Intake Target](core_05.040_band_continuity.md#intake-target), and
+  - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map).
+
+</details>
+
+<br>
+
+*In plain terms: when a constitutional process breaks, such as a seat falling vacant or a required published document going missing, the party responsible must answer and fix it on the same clock as its class: fast for the most critical classes, slower for small and contained ones. Someone else stands in until it is fixed.*
+
+- **What it is**
+  - **In scope:** The two time limits, response and resolution, within which a party must answer and fix a breakdown in a constitutional process it is responsible for, taken from the tier with the same letter as its class and counted from the logged notice of the breakdown. A breakdown is a required seat that falls vacant or cannot act, a required Charter Role Map, System Charter or Institutional Charter, disclosure, or other published document that is missing or out of date, or a required step that stalls.
+  - **Out of scope:**
+    - disputes about the merits of a matter, which run on the materiality tier of the matter;
+    - a breakdown for which a more specific rule sets its own window; or
+    - the figures themselves, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Timely Resolution](core_05.035_band_accountability.md#timely-resolution); [Materiality Tier](core_05.040_band_continuity.md#materiality-tier).
+  - The rule is stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#class-repair-window); this entry is the Chapter Five meaning only.
+<a id="class-repair-window-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
+
+    **Primary assessment:** Evaluate whether:
+    1. each breakdown is logged, answered, and given a stand-in inside the response part of the window for the party's class; and
+    2. the fix is made and published inside the resolution part.
+<a id="class-repair-window-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a vacant seat, missing record, or stalled step left past the resolution part without a fix; or
+    - a function passed to the party responsible for the breakdown, or to its Material Control Line, while the breakdown is open.
 
 ---
 

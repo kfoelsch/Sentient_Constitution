@@ -50,9 +50,12 @@ The chapter leaves:
 - burden of proof, traceability, and verification to Chapter Four.
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
+<a id="2-why-definitions-have-one-home"></a>
 
-### 2. Canonical Home and Non-Duplication Rule
+### 2. Why Definitions Have One Home
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
+
+A constitution is only as firm as the meaning of its words. If the same term could be defined in two places, a rule could be narrowed without anyone amending it, simply by applying the weaker definition. Giving each term one home means every reader, forum, and adopter can find the controlling meaning, and any change to it is visible and goes through the amendment process that governs that home.
 
 Three rules keep every defined term in one place:
 
@@ -175,6 +178,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map)
 - [Chartered Party](core_05.040_band_continuity.md#chartered-party)
 - [Cited System](core_05.040_band_continuity.md#cited-system)
+- [Class Repair Window](core_05.035_band_accountability.md#class-repair-window)
 - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance)
 - [Clean Recertification](core_05.040_band_continuity.md#clean-recertification)
 - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation)
@@ -291,6 +295,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter)
 - [Institutional Data Types and Handling](core_05.040_band_continuity.md#institutional-data-types-and-handling)
 - [Institutional Development](core_05.040_band_continuity.md#institutional-development)
+- [Intake Target](core_05.040_band_continuity.md#intake-target)
 - [Interested Party](core_05.035_band_accountability.md#interested-party)
 - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility)
 - [Interim Hold](core_05.035_band_accountability.md#interim-hold)
@@ -312,6 +317,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Material Risk](core_05.050_band_oversight.md#material-risk)
 - [Materiality](core_05.050_band_oversight.md#materiality)
 - [Materiality Integrity Constraint](core_05.050_band_oversight.md#materiality-integrity-constraint)
+- [Materiality Tier](core_05.040_band_continuity.md#materiality-tier)
 - [Materiality under Uncertainty](core_05.050_band_oversight.md#materiality-under-uncertainty)
 - [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act)
 - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record)

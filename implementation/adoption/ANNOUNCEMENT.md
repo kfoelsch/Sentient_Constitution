@@ -164,8 +164,10 @@ them now than after anyone adopts this.
   else stays private. The hard part is borders: if records stay
   local, someone under a lock can move to another adopter and start
   clean. If they travel freely, they become the social score we
-  forbid. We handle it with levels of trust that each adopter sets
-  for its own side, and we expect that to be challenged. (Chapter
+  forbid. We handle it in two parts: any adopter's gatekeeper may
+  ask any other adopter whether a lock applies to its own gate, and
+  everything else travels only as far as each adopter's level of
+  trust allows. We expect that line to be challenged. (Chapter
   Twenty §2.1, §2.3 and §2.4)
 
 Start: README.md
@@ -292,3 +294,4 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | 2026-11-18 | v0.10 | The copy gains a second pointer under "Start": the whole Constitution in brief, a new section of the big-picture overview with one short entry per chapter after the Preamble (custodian decision: a non-binding short entry text, built into the existing entry paths, not duplicating the Preamble). Still not adoption; still does not drop **pre-release**. |
 | 2026-11-18 | v0.11 | The "pausing and correcting AI" open question no longer calls reversible change unsettled: while status is disputed, change needs the entity's consent or a forum safety order with its prior state preserved (custodian decision, Article VI-B *Change while status is contested*). Still not adoption; still does not drop **pre-release**. |
 | 2026-11-18 | v0.12 | The contestability line now cites Chapters Twenty-Three and Twenty-Four: the forum chapter's second part became its own Chapter Twenty-Four, and a new Chapter Twenty-Six (special enforcement) was added, so the core now runs to Chapter Thirty-One (custodian decision). Still not adoption; still does not drop **pre-release**. |
+| 2026-11-18 | v0.13 | The "records that follow no one" open question now names the lock floor (custodian decision, 673rd move): any adopter's gatekeeper may ask any adopter with a published Adoption Charter or Adoption Transition Record whether a lock applies to its own gated pathway, whatever the level of trust; slots, contribution and everything else still follow the levels of trust. Still not adoption; still does not drop **pre-release**. |

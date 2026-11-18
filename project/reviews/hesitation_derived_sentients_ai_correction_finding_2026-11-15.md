@@ -134,6 +134,10 @@ Against the pass condition in §1, (a) now passes on how long. Carried as open: 
 
 Limit to keep in view: a lock attaches only to a verified violation finding. Risk shown only by evaluation, with no conduct, still falls to the suspension floor and the liberty-restriction rule (scenario D). The Creation Lock stops an AI's route to new sentients and not a human's bodily reproduction; the rule is the same and the facts differ.
 
+**Inspection (decision 3), 2026-11-18 (664th move, custodian option A).** While a status case is open, inspecting the entity's internals needs its consent or an order of the forum hearing the case, on a showing of necessity, by the least intrusive means and independent examiners, with results kept as Type N and sealed ([Article VI-B](../../core_06.010_rights_part_b.md#vi-b-inspection-while-contested)).
+
+**The entity's own statements (decision 4), 2026-11-18 (665th move, custodian option A).** The entity's own claim alone is a bare claim; it counts as a credible sign once it holds up under manipulation-resistant testing; no one may train, tune, or instruct a system to claim or deny sentience ([Article VI-B](../../core_06.010_rights_part_b.md#vi-b-entity-own-claim)).
+
 ## 8. Proposed announcement wording
 
 **Entered 2026-11-16 (572nd move, custodian: "implement your suggestions") in a revised form,** not as the draft below: the draft said a possibly sentient system's memory and values "cannot be rewritten without its consent", which would have decided decision 2 (reversible change) in public. The announcement entry states the settled parts (a halt is always possible; the Article XX-B suspension clock; no deletion or quiet rewriting) and names reversible change as the unsettled part. Revisit it when decision 2 is made. The original draft follows, for the custodian's review.

@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-18T15:10:36+00:00
+Generated: 2026-11-18T18:23:55+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **314/314** terms pass tier audit.
+Approved progress: **317/317** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -85,10 +85,12 @@ Approved progress: **314/314** terms pass tier audit.
 | Institutional Charter | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institutional Data Types and Handling | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Intake Target | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Interim Protection | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Lead Forum | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Materiality Tier | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | New Material Authority | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | One-System Evaluation | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Openness Aspiration | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -344,6 +346,7 @@ Approved progress: **314/314** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
+| Class Repair Window | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Timeliness | approved | primary_only | tetrad_leg_head | `core_05.030_apex_timeliness_leg.md` | yes | pass |
 | Timely Resolution | approved | full | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 

@@ -117,7 +117,7 @@
       "href": "../../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases"
     }
   ],
-  "term_count": 315,
+  "term_count": 318,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -377,6 +377,13 @@
       "anchor": "#cited-system",
       "plain_terms": "a **cited System** is a System in an Institution's [Portfolio](../../core_05.040_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.",
       "href": "../../core_05.040_band_continuity.md#cited-system"
+    },
+    {
+      "term": "Class Repair Window",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#class-repair-window",
+      "plain_terms": "when a constitutional process breaks, such as a seat falling vacant or a required published document going missing, the party responsible must answer and fix it on the same clock as its class: fast for the most critical classes, slower for small and contained ones. Someone else stands in until it is fixed.",
+      "href": "../../core_05.035_band_accountability.md#class-repair-window"
     },
     {
       "term": "Classification-Scaled Governance",
@@ -1198,6 +1205,13 @@
       "href": "../../core_05.040_band_continuity.md#institutional-development"
     },
     {
+      "term": "Intake Target",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#intake-target",
+      "plain_terms": "the **intake target** is the first clock of a materiality tier: the time by which a matter must be acknowledged and taken in, evidence preservation must start, and a prompt review must begin.",
+      "href": "../../core_05.040_band_continuity.md#intake-target"
+    },
+    {
       "term": "Interested Party",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#interested-party",
@@ -1350,6 +1364,13 @@
       "anchor": "#materiality-integrity-constraint",
       "plain_terms": "you may not make a big problem look small by redrawing boxes, splitting pieces, or reclassifying your way out of it.",
       "href": "../../core_05.050_band_oversight.md#materiality-integrity-constraint"
+    },
+    {
+      "term": "Materiality Tier",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#materiality-tier",
+      "plain_terms": "a **materiality tier** is one of five urgency levels (A, B, C, L, P) a material dispute or certification matter is placed in. The tier sets the clocks the matter runs on, from intake to the outer bound for resolution.",
+      "href": "../../core_05.040_band_continuity.md#materiality-tier"
     },
     {
       "term": "Materiality under Uncertainty",

@@ -21,6 +21,7 @@ Plain-language grouped index derived from [corpus_joint_structure/cjs_00.105_reg
 - **Standard forum records, forms, and evidence artifacts** — Start: [CF-23.465 — Standard Records, Forms, and Evidence Artifacts](../../corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md). Also read: **CI-23.205**.
 - **Forum staffing, shared administration, structural review, structural records** — Start: [CF-23.470 — Forum Staffing, Reserve Capacity, Shared Administration, Structural Review, and Structural Records](../../corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md). Also read: **CI-27.205**, **CI-8.210**, **CI-9.210 §3**.
 - **Capacity-failure routing** — Start: [CF-23.415 — Routing Operations, Transfer, Questions for Ruling, and Representative Treatment](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md). Also read: **CF-23.445**, **CI-25.210**.
+- **Materiality tiers, tier windows, intake targets, and outer bounds** — Start: [CF-23.445 — Forum Performance, Backlog Requirements, Publication Timeliness, and Accessibility](../../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md). Also read: see integrator table for the full list.
 
 ## Institutional governance
 

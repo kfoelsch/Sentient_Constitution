@@ -616,6 +616,18 @@
           "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ]
+    },
+    {
+      "id": "CJS-R24",
+      "topic": "Materiality tiers, tier windows, intake targets, and outer bounds",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-23.445",
+          "file": "corpus_forum/cf_23.405_forum_formation_chamber_structure.md"
+        }
+      ],
+      "read_with": []
     }
   ]
 }
