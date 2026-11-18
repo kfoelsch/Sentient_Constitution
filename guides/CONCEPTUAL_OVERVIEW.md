@@ -7,7 +7,7 @@
 
 </details>
 
-*Who this is for:* readers who have had a first look and want to see how the parts fit together. It takes about 40 minutes. New to the Constitution? Begin at the [README](../README.md), which has shorter [reading paths](../README.md#reading-paths); this overview is a step in the 2-hour path. Planning to use or adopt the Constitution? See [Using or adopting it](../START_HERE.md) as well.
+*Who this is for:* readers who have had a first look and want to see how the parts fit together. It takes about 40 minutes. Short on time? [The Whole Constitution in Brief](#the-whole-constitution-in-brief) below is a complete first pass in about 15 minutes. New to the Constitution? Begin at the [README](../README.md), which has shorter [reading paths](../README.md#reading-paths); this overview is a step in the 2-hour path. Planning to use or adopt the Constitution? See [Using or adopting it](../START_HERE.md) as well.
 
 The Constitution connects a purpose to principles, protections, evidence, review, consequences, and authority. Its parts address different questions about the same shared systems. The overview is about more than process: it gives a reader a mental model for what this Constitution is protecting, how it makes claims checkable, and how it keeps power answerable.
 
@@ -52,6 +52,52 @@ Measurement turns those ideas into practical questions:
 [Material stake](../core_00.000_preamble.md#material-stake) scales how demanding the answers must be; it is not a seventh score or a replacement for the Rights Floor.
 
 When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+<a id="the-whole-constitution-in-brief"></a>
+## The Whole Constitution in Brief
+
+*Reading aid (non-operative): one short entry for each part of the binding text after the Preamble, in order, each linked to its source. Read this section on its own for a complete first pass in about 15 minutes; the rest of this overview then shows how the parts connect. It adds no duty and narrows nothing. Where it and the source differ, the source binds.*
+
+Start with the Preamble itself: [What Systems Reward](../core_00.000_preamble.md#what-systems-reward) and [The Model](../core_00.000_preamble.md#the-model) come first, and this section does not repeat them. The Preamble's [owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights) (sections 4 to 9) says what each chapter owns and produces. The entries below say instead what each part means in practice.
+
+**Foundations**
+
+- **Chapter One, values and principles** ([Chapter One Part A](../core_01.000_values_principles.md) · [Chapter One Part B](../core_01.010_values_principles_continuity_aim.md) · [Chapter One Part C](../core_01.020_interaction_interpretation.md) · [Chapter One Part D](../core_01.030_constitutional_interpretation.md) · [Chapter One Part E](../core_01.040_stewardship_capacity_principles.md) · [Chapter One Part F](../core_01.050_governance_incentive_application.md)). Chapter One Part A: shared systems pursue Flourishing and Continuity together, and no single value may be maximized at the expense of the others. Chapter One Part B: Continuity means the good outcome lasts, across failures and generations, without a few powerful actors locking it up. Chapter One Part C: when values collide, Safety and Truth come first, and any limit must be the lightest one that works, proved by whoever imposes it. Chapter One Part D: read the text as one whole and choose the reading that best protects sentients; relabeling, splitting, or combining a matter does not lift a requirement. Chapter One Part E: humans and AIs who run systems are stewards with the same duties; they act on trouble while it is small and keep systems understandable to those they affect. Chapter One Part F: the more power a role carries, the more it must answer for, and public authority rests on reasons anyone can examine, not on any religion or worldview.
+- **Chapters Two to Five, the definition stack** ([Two](../core_02.000_definition_structure.md) · [Three](../core_03.000_definition_integrity.md) · [Four](../core_04.000_burden_traceability_verification.md) · [Five](../core_05.000_definitions_home.md)). Chapter Two builds each definition from linked parts: what a term is, how it is measured and assessed, and what must hold in practice. Chapter Three says when a system fails a definition in practice, including by weakening it where it is applied. Chapter Four: whoever claims compliance proves it, through one five-step check that others can inspect. Chapter Five is the dictionary: more than three hundred terms, each with one official home that other chapters apply but may not quietly redefine.
+- **Chapter Six, the Rights Floor** ([Chapter Six Part A](../core_06.000_rights_part_a.md) · [Chapter Six Part B](../core_06.010_rights_part_b.md) · [Chapter Six Part C](../core_06.020_rights_part_c.md) · [Chapter Six Part D](../core_06.030_rights_part_d.md) · [Chapter Six Part E](../core_06.040_rights_part_e.md)). Twenty-eight articles that no rule or decision may go below. Chapter Six Part A (Articles I–V) covers planetary and material preconditions. Chapter Six Part B (VI–XII) covers personhood, agency, and participation, including protection while sentience is uncertain and an equal vote. Chapter Six Part C (XIII–XVIII) covers trustworthy systems, verification, and lifecycle. Chapter Six Part D (XIX–XXV) covers standing, justice, and accountable governance, including the promise that affected sentients can understand what governs them. Chapter Six Part E (XXVI–XXVIII) covers conflict resolution, review, evolution, and the move into adoption.
+
+**Charters, separated duties, and certification**
+
+- **[Chapter Seven, charters](../core_07.000_charters.md).** Limits have to be written down before anyone can judge whether they were kept. Systems and institutions above a set size publish a System Charter or an Institutional Charter saying what they may do and who holds each role. Nobody needs permission to form.
+- **[Chapter Eight, separation of duties](../core_08.000_functional_independence_separation_of_duties.md).** No single sentient, office, or system may start, approve, keep the records of, and judge the same action. These are the four seats.
+- **Chapters Nine to Eleven, system certification** ([Nine](../core_09.000_system_alignment_certification_evaluation.md) · [Ten](../core_10.000_system_alignment_certification_forum_process_outcomes.md) · [Eleven](../core_11.000_system_alignment_certification_records_recertification.md)). Before sentients rely on a system at scale, it is checked against the Constitution. The check is as demanding as the system's real impact, and affected sentients can see it and challenge it. Independent forums review the result in a set order and publish an outcome, including the gate before go-live. The outcome is kept where it can be checked, is re-checked on a schedule, and can be challenged. Certification may feed standing, but it is not standing.
+- **Chapters Twelve to Fourteen, institutional certification** ([Twelve](../core_12.000_institutional_alignment_certification_evaluation.md) · [Thirteen](../core_13.000_institutional_alignment_certification_forum_process_outcomes.md) · [Fourteen](../core_14.000_institutional_alignment_certification_records_recertification.md)). The same questions are asked of the institution that runs systems or holds authority. The institution never chooses its own reviewer, its record is held by an office it does not control, and an outcome never decides whether the institution may exist or operate.
+
+**Standing Records and what follows from them**
+
+- **[Chapter Fifteen, what happened](../core_15.000_standing_assessment.md).** Standing is worked out by answering three questions in order. The first is what happened. Only verified facts answer it; allegations, popularity, and filing a case do not.
+- **[Chapter Sixteen, how good or how bad](../core_16.000_standing_measurement.md).** Verified contribution and verified violation are measured on two separate scales. They are never netted into one score.
+- **[Chapter Seventeen, what follows](../core_17.000_standing_integration.md).** Once help and harm are verified, this chapter says what follows (remedy, locks, and real effects) without rewriting the facts or merging the two tracks.
+- **[Chapter Eighteen, contribution](../core_18.000_contribution_consequences.md).** Verified contribution may support recognition and readiness for gated pathways that are open. It never offsets a verified harm, cancels a lock, or opens a blocked pathway.
+- **[Chapter Nineteen, violation](../core_19.000_violation_consequences.md).** Remedy and correction come first, then prevention locks, then voluntary public accountability where a restorative pathway uses it. The cheap half of a fix may not outrun the expensive half.
+- **[Chapter Twenty, the final effect](../core_20.000_final_effect_restoration_enforcement.md).** The result is stated one gated pathway at a time (open, limited, or blocked), not as a rank of anyone's worth. A lock that is not permanent must have a real way back, and a gatekeeper may ask only about its own gate.
+- **Chapters Twenty-One and Twenty-Two, anti-constitutional misconduct** ([Twenty-One](../core_21.000_misconduct_designation.md) · [Twenty-Two](../core_22.000_misconduct_pattern_applications.md)). The last and narrowest gate. It opens only for the most serious violations and asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? Chapter Twenty-Two applies that test to recurring patterns and adds no new criteria.
+
+**Review, enforcement, and authority**
+
+- **[Chapter Twenty-Three, forums](../core_23.000_forum.md).** Review bodies hear certification and standing disputes. This chapter sets their standards, says where a case starts and how it is kept, and makes sure no one judges their own case.
+- **[Chapter Twenty-Four, forum families and timely resolution](../core_24.000_forum_families_escalation_timeliness_support.md).** Six families of review body (sentient, technical, institutional, environment, integrity, and constitutional), how a matter escalates, and the support people get along the way. Disputes run on published clocks: about a week for the worst emergencies (three days for the steps that stop the harm), two weeks for ordinary material harm, and one to three months at most for other matters.
+- **[Chapter Twenty-Five, enforcement](../core_25.000_enforcement.md).** Makes sure an outcome is carried out, on time, by someone named in it, and cannot be dodged. A pending challenge does not pause an outcome unless a forum orders a stay, and an outcome is carried out as decided and no further. Money and seizure, potential violence, and the root causes of enforcement failure are routed to Chapter Twenty-Six.
+- **[Chapter Twenty-Six, special enforcement](../core_26.000_special_enforcement.md).** Extra safeguards for taking money or property, for anything that could turn violent, and for finding why enforcement keeps failing so the cause can be fixed. The aim is to keep the trauma of enforcement as low as the outcome allows.
+- **[Chapter Twenty-Seven, governance](../core_27.000_governance.md).** The constitutional contract for governing power: what must be true for rule-making to count as legitimate and stewardship to count as constitutional.
+- **[Chapter Twenty-Eight, non-regression](../core_28.000_non_regression.md).** A change that weakens the protections the Constitution depends on is invalid, whatever it is called and however it is made, including under an emergency label.
+- **[Chapter Twenty-Nine, amendment and adoption](../core_29.000_amendment_ratification.md).** A change also needs a real procedure: a published proposal, a chain of authority and custody that proves the text is genuine, and a contest path that works. A body adopts the Constitution only by recording a formal adoption document.
+- **[Chapter Thirty, supremacy and outside law](../core_30.000_expansion_supremacy.md).** Stronger protections are always welcome. The Constitution is not a secret override: it binds only a body that adopts it, respects stricter outside law where it fits, and cannot be used to destroy records or dodge rights.
+- **[Chapter Thirty-One, incorporation](../core_31.000_incorporation.md).** Says which implementation files can bind, which edition counts, and that later edits do not silently rewrite what was adopted.
+
+The four implementation collections that say how to carry this out are described in the Preamble's [adopted implementation corpus](../core_00.000_preamble.md#9-adopted-implementation-corpus) section and [below](#adopted-corpora-make-the-structure-operational).
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -724,7 +770,7 @@ flowchart TB
     end
     M["Chapter Twenty-One<br/><br/>Anti-constitutional misconduct review"]
     L["Chapter Seventeen<br/><br/>Anti-Constitutional Trust Lock"]
-    F["Chapter Twenty-Three forums<br/><br/>Supervision, challenge and timely review"]
+    F["Chapters Twenty-Three and Twenty-Four forums<br/><br/>Supervision, challenge and timely review"]
     K -.->|names who holds each seat| D
     D -.->|separates authority at every stage| S
     D -.->|separates authority at every stage| E
@@ -1007,13 +1053,13 @@ flowchart TB
 - Tier A requires immediate attention, interim protection where needed, and intake, acknowledgment, and evidence preservation within days. Emergency deferral of notice or challenge starts at Tier A unless a lower-urgency showing is documented.
 - Tier B starts with intake and primary-stakes routing within days and reaches a preliminary verified disposition or equivalent merits milestone within weeks.
 - Tier C is a coordination default, not a slower substitute for an A or B finding. Tier L and Tier P support lighter procedures only while their bounded conditions hold.
-- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](../core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds).
-- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Twenty-Three §8.1 (*Emergency Measures and Continuation Burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twenty-Three’s restore-challenge rule](../core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- A matter's time scale can also be faster. At the **Emergency setting** (Tier A only, for imminent loss of life, serious injury, or irreversible rights loss that nobody engineered), the steps that stop the harm must finish within 3 days, and restoring notice and challenge after a deferral takes 3 days, not 7. The finding steps keep the Tier A bound. See [Chapter Twenty-Three §8 Time-scale settings](../core_23.005_forum_families_escalation_timeliness_support.md#time-scale-settings).
-- "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Twenty-Three §8 Prompt review](../core_23.005_forum_families_escalation_timeliness_support.md#prompt-review).
+- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Twenty-Four §4.1 Emergency Measures and Continuation Burden](../core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds).
+- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Twenty-Four §4.1 (*Emergency Measures and Continuation Burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twenty-Four’s restore-challenge rule](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- A matter's time scale can also be faster. At the **Emergency setting** (Tier A only, for imminent loss of life, serious injury, or irreversible rights loss that nobody engineered), the steps that stop the harm must finish within 3 days, and restoring notice and challenge after a deferral takes 3 days, not 7. The finding steps keep the Tier A bound. See [Chapter Twenty-Four §4 Time-scale settings](../core_24.000_forum_families_escalation_timeliness_support.md#time-scale-settings).
+- "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Twenty-Four §4 Prompt review](../core_24.000_forum_families_escalation_timeliness_support.md#prompt-review).
 - Restricted evidence does not slow the clock. Access disputes go first to a neutral **restricted information authority** ([CF-23.415 §8](../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-restricted-information-authority)), which answers inside the matter's intake target. If it is slow, the matter goes on without the item.
 
-These are the [Chapter Twenty-Three §8](../core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1022,14 +1068,14 @@ These are the [Chapter Twenty-Three §8](../core_23.005_forum_families_escalatio
 
 ```mermaid
 flowchart TB
-    A["Chapter Twenty-Five<br/><br/>Documented legitimacy mechanism"]
+    A["Chapter Twenty-Seven<br/><br/>Documented legitimacy mechanism"]
     G["Authorized governing roles<br/><br/>Stated scope, limits and competent stewards"]
     P["Participation inside authorized systems<br/><br/>Voice and challenge paths for affected sentients"]
     R["Contestation, correction<br/><br/>and reauthorization where applicable"]
-    N["Chapter Twenty-Six<br/><br/>Non-regression"]
-    U["Chapter Twenty-Seven<br/><br/>Amendment, ratification and adoption procedures"]
-    H["Chapter Twenty-Eight<br/><br/>Supremacy within scope and external-law relations"]
-    B["Chapter Twenty-Nine<br/><br/>Incorporation, edition and custody"]
+    N["Chapter Twenty-Eight<br/><br/>Non-regression"]
+    U["Chapter Twenty-Nine<br/><br/>Amendment, ratification and adoption procedures"]
+    H["Chapter Thirty<br/><br/>Supremacy within scope and external-law relations"]
+    B["Chapter Thirty-One<br/><br/>Incorporation, edition and custody"]
     I["Adopted implementation obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
     G -->|must ensure| P
@@ -1053,16 +1099,16 @@ flowchart TB
 
 The upper loop concerns **governing authority and its continuing accountability**. The change-and-adoption path concerns **the Constitution and its incorporated implementation**. Both operate within the principles and Rights Floor shown in the first view. Participation within a system does not itself authorize that system's governing authority.
 
-There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Twenty-Five](../core_25.000_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00.000_preamble.md#33-governance-layers) explain the distinction.
+There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Twenty-Seven](../core_27.000_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00.000_preamble.md#33-governance-layers) explain the distinction.
 
-Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twenty-One anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Twenty-Five §5.1](../core_25.000_governance.md#51-entitlement-and-eligibility), [Chapter Nineteen §§2.2 and Chapter Eighteen 2.4](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks), and [Chapter Twenty-One §6.2](../core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks).
+Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twenty-One anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Twenty-Seven §5.1](../core_27.000_governance.md#51-entitlement-and-eligibility), [Chapter Nineteen §§2.2 and Chapter Eighteen 2.4](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks), and [Chapter Twenty-One §6.2](../core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks).
 
 The final chapters preserve the Constitution as it changes and is put into use:
 
-- [Chapter Twenty-Six](../core_26.000_non_regression.md) guards against substantive regression.
-- [Chapter Twenty-Seven](../core_27.000_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
-- [Chapter Twenty-Eight](../core_28.000_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
-- [Chapter Twenty-Nine](../core_29.000_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
+- [Chapter Twenty-Eight](../core_28.000_non_regression.md) guards against substantive regression.
+- [Chapter Twenty-Nine](../core_29.000_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
+- [Chapter Thirty](../core_30.000_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
+- [Chapter Thirty-One](../core_31.000_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
 
 Together, these provisions connect everyday governance to its authorization and keep changes to the rules visible and contestable. Valid adoption determines enforceability for an adopter; publication or reading alone does not.
 
@@ -1168,7 +1214,7 @@ The dotted arrows inside the box show a typical record lifecycle; the arrows to 
 - An office that operates a system does not verify records about that system; the same rule applies whether the steward is human or AI.
 - Downstream role catalogs may add permissions such as commanding containment, setting participation terms, releasing evidence, or directing action. Those are role assignments around the four core seats, not extra steps in this chart.
 
-See [Chapter Twenty-Five §6](../core_25.000_governance.md#6-authorized-roles-competency-development-and-contribution).
+See [Chapter Twenty-Seven §6](../core_27.000_governance.md#6-authorized-roles-competency-development-and-contribution).
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1176,9 +1222,9 @@ See [Chapter Twenty-Five §6](../core_25.000_governance.md#6-authorized-roles-co
 
 ```mermaid
 flowchart TB
-    Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Twenty-Nine<br/>Binding constitutional source"]
-    Bridge["Chapter Twenty-Nine<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
-    Adopt["Valid adoption<br/><br/>Chapters Twenty-Seven and Twenty-Nine"]
+    Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Thirty-One<br/>Binding constitutional source"]
+    Bridge["Chapter Thirty-One<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
+    Adopt["Valid adoption<br/><br/>Chapters Twenty-Nine and Thirty-One"]
     subgraph Comp["Adopted implementation corpus · implements, not narrows"]
         direction LR
         J["corpus_joint_structure<br/><br/>Cross-implementation links"]

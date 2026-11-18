@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-16T23:08:15+00:00
+Generated: 2026-11-18T15:10:36+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **309/309** terms pass tier audit.
+Approved progress: **314/314** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -250,18 +250,22 @@ Approved progress: **309/309** terms pass tier audit.
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Competency Bar | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Competency Clearance | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Constitutional Archive | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Constitutional Collision | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Constitutional Collision Record | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Constitutional Constraint | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Constitutional Contract Layer | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
+| Constitutional Library | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Contest Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Contestability | approved | full | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Contingent Claim | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Contribution Nature | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Decentralization | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Direct Case | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Documented Legitimacy Mechanism | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Due Process | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Duty to Resist | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Essential Record | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Feasibility | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
@@ -320,6 +324,7 @@ Approved progress: **309/309** terms pass tier audit.
 | Remediation Readiness | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Remedy System | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Restorative Justice | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Review Case | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Single Catastrophic Incident | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Standardization | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Standing Effect | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

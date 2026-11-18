@@ -1552,6 +1552,31 @@
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
       "status": "approved"
+    },
+    "Essential Record": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Direct Case": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Review Case": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Archive": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Library": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
     }
   }
 }

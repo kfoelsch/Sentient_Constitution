@@ -10,20 +10,20 @@
     "1.0": "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
     "1.1": "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
     "1.3": "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
-    "1.7": "corpus_joint_structure/cjs_29.105_drafting_contracts.md",
-    "1.8": "corpus_joint_structure/cjs_29.105_drafting_contracts.md",
-    "1.8.1": "corpus_joint_structure/cjs_29.105_drafting_contracts.md",
+    "1.7": "corpus_joint_structure/cjs_31.105_drafting_contracts.md",
+    "1.8": "corpus_joint_structure/cjs_31.105_drafting_contracts.md",
+    "1.8.1": "corpus_joint_structure/cjs_31.105_drafting_contracts.md",
     "1.9": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
     "1.10": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
     "1.11": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
     "1.13": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
     "1.14": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
-    "2.1": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md",
-    "2.1.1": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md",
-    "2.1.2": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md",
-    "2.3": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md",
-    "2.4": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md",
-    "2.5": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md"
+    "2.1": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md",
+    "2.1.1": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md",
+    "2.1.2": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md",
+    "2.3": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md",
+    "2.4": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md",
+    "2.5": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md"
   },
   "layers": {
     "CJS": {
@@ -74,9 +74,9 @@
           "title": "Drafting Contracts",
           "entries": [
             {
-              "id": "CJS-29.105",
-              "label": "CJS-29.105 §7–CJS-29.105 §8.1: Drafting contracts and owner-to-CJS seam",
-              "file": "corpus_joint_structure/cjs_29.105_drafting_contracts.md",
+              "id": "CJS-31.105",
+              "label": "CJS-31.105 §7–CJS-31.105 §8.1: Drafting contracts and owner-to-CJS seam",
+              "file": "corpus_joint_structure/cjs_31.105_drafting_contracts.md",
               "status": "active"
             }
           ]
@@ -98,9 +98,9 @@
           "title": "Interlocks",
           "entries": [
             {
-              "id": "CJS-29.110",
-              "label": "CJS-29.110: Specific Joint Interlocks and Shared Abstractions",
-              "file": "corpus_joint_structure/cjs_29.110_specific_joint_interlocks.md",
+              "id": "CJS-31.110",
+              "label": "CJS-31.110: Specific Joint Interlocks and Shared Abstractions",
+              "file": "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md",
               "status": "active"
             },
             {
@@ -243,9 +243,9 @@
               "status": "active"
             },
             {
-              "id": "CS-25.305",
-              "label": "CS-25.305 — Critical system stewardship",
-              "file": "corpus_systems/cs_25.305_critical_system_stewardship.md",
+              "id": "CS-27.305",
+              "label": "CS-27.305 — Critical system stewardship",
+              "file": "corpus_systems/cs_27.305_critical_system_stewardship.md",
               "status": "active"
             }
           ]
@@ -360,9 +360,9 @@
               "status": "active"
             },
             {
-              "id": "CI-25.205",
-              "label": "CI-25.205: Appointment, Competency, Rotation, and Removal",
-              "file": "corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md",
+              "id": "CI-27.205",
+              "label": "CI-27.205: Appointment, Competency, Rotation, and Removal",
+              "file": "corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md",
               "status": "active"
             }
           ]
@@ -444,9 +444,9 @@
               "status": "active"
             },
             {
-              "id": "CI-24.205",
-              "label": "CI-24.205: Institutional Accountability and Sanctions",
-              "file": "corpus_institutions/ci_24.205_institutional_accountability_sanctions.md",
+              "id": "CI-25.205",
+              "label": "CI-25.205: Institutional Accountability and Sanctions",
+              "file": "corpus_institutions/ci_25.205_institutional_accountability_sanctions.md",
               "status": "active"
             },
             {
@@ -552,9 +552,9 @@
               "status": "active"
             },
             {
-              "id": "CI-24.210",
-              "label": "CI-24.210: Remedy Systems and Institutional Redress Capacity",
-              "file": "corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md",
+              "id": "CI-25.210",
+              "label": "CI-25.210: Remedy Systems and Institutional Redress Capacity",
+              "file": "corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md",
               "status": "active"
             }
           ]

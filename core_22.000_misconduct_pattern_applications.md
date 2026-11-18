@@ -24,7 +24,7 @@ Chapter Twenty-Two is the constitutional owner of **named pattern applications a
 **Role:** The chapter is jointly owned with Chapter Twenty-One, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
 
 - It takes the ACMD criteria and safeguards from Chapter Twenty-One as fixed.
-- After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) integrates the standing effect, and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) routes the case and certifies the forum.
+- After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) integrates the standing effect, and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) routes the case and certifies the forum.
 
 **Chapter scope:** The chapter covers the named patterns:
 
@@ -75,7 +75,7 @@ Each pattern in the sections below routes its named conduct through the existing
 
 - **Assess together:** Assess every materially implicated pattern together on the **unified incident record** under **Chapter Twenty-One section 4**.
 - **Decide designation:** Decide designation under **Chapter Twenty-One section 5**.
-- **Preserve safeguards and boundary:** Preserve **Chapter Twenty-One section 6** safeguards and the **Chapter Twenty-One section 2.2** boundary with Chapters Twenty-Six through Twenty-Eight.
+- **Preserve safeguards and boundary:** Preserve **Chapter Twenty-One section 6** safeguards and the **Chapter Twenty-One section 2.2** boundary with Chapters Twenty-Eight through Thirty.
 - **Consequences stay in Chapter Seventeen:** The one pattern-specific lock hook is the **Forum-Service Standing Lock** for required-recusal failure under [§5.3](#53-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*).
 - **No new criterion:** No subsection below adds an additional ACMD criterion beyond the **Chapter Twenty-One section 4** set; each routes evaluation of its named pattern into that set.
 
@@ -129,7 +129,7 @@ The three subsections below apply the existing Chapter Twenty-One sequence to co
 - Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§3.1.2](#312-unconstitutional-contract-term-conduct).
 - Downstream: [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*); [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
-- Read with: [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
+- Read with: [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
 
 </details>
 
@@ -161,7 +161,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
   - constitutionally required **auditability** or **contestability**; or
   - **standing** needed to vindicate those protections.
 - Covered when the condition works to defeat, narrow, or discourage use of those protections and is not justified by **Necessity** and **Proportionality** (see **Chapter One** and **Chapter Five**).
-- Not covered: the adoption documents themselves. **Chapter Twenty-Seven** sets the validity rules for those.
+- Not covered: the adoption documents themselves. **Chapter Twenty-Nine** sets the validity rules for those.
 
 <a id="312-unconstitutional-contract-term-conduct"></a>
 
@@ -210,7 +210,7 @@ Evaluators assess these patterns as follows:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
+- Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
 - Downstream: [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05.035_band_accountability.md#contestability) and [Transparency](core_05.050_band_oversight.md#transparency) in **Chapter Five** where contest-pathway usability and publication are material.
@@ -335,7 +335,7 @@ Evaluators assess these patterns as follows:
   - [Transparency](core_05.050_band_oversight.md#transparency) in
   - **Chapter Five**.
 - Rights and verification: [Article XI-B: Expression](core_06.010_rights_part_b.md#article-xi-b-expression) and [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
-- Implementation context: adopted **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and institutional implementation under **Chapter Twenty-Nine** where materially relevant.
+- Implementation context: adopted **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and institutional implementation under **Chapter Thirty-One** where materially relevant.
 
 </details>
 
@@ -395,7 +395,7 @@ The following are non-exhaustive examples of in-scope means:
 - Rights-Floor implementation under **Chapter Six**;
 - **Article XVI** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
 - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** handling where designated; and
-- institutional governance under **Chapter Twenty-Nine**.
+- institutional governance under **Chapter Thirty-One**.
 
 This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.
 
@@ -438,7 +438,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*).
-- Integrity and governance context: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) for Integrity-family routing where final Chapter Twenty-One designation is the primary stake; [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) where governing authority, selection, or stewardship legitimacy is materially distorted.
+- Integrity and governance context: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) for Integrity-family routing where final Chapter Twenty-One designation is the primary stake; [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governing authority, selection, or stewardship legitimacy is materially distorted.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Auditability](core_05.050_band_oversight.md#auditability), conflict controls,
@@ -446,7 +446,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), and
   - [System Capture](core_05.040_band_continuity.md#system-capture).
-- Implementation context: adopted [CJS-5.110 §6 — integrity assurance and resilience operations](corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-5110-6-oversight-integrity-assurance-and-resilience-operations) anti-corruption and undue-influence auditability controls and adopted **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** and **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*) incentive-governance and funding-stewardship controls where materially relevant.
+- Implementation context: adopted [CJS-5.110 §6 — integrity assurance and resilience operations](corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-5110-6-oversight-integrity-assurance-and-resilience-operations) anti-corruption and undue-influence auditability controls and adopted **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** and **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*) incentive-governance and funding-stewardship controls where materially relevant.
 
 </details>
 
@@ -535,7 +535,7 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
   - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Nineteen §3.4.4](core_19.000_violation_consequences.md#344-collective-accountability) (19.000 §3.4.4) (*Collective Accountability and Acquiescent Participation*);
   - [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
-- Integrity and governance context: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) for Integrity-family routing where final Chapter Twenty-One designation is the primary stake; [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
+- Integrity and governance context: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) for Integrity-family routing where final Chapter Twenty-One designation is the primary stake; [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Collective Accountability Failure](core_05.035_band_accountability.md#collective-accountability-failure),
@@ -722,7 +722,7 @@ To be covered by [§4.2 Unlawful or Unconstitutional Command Conduct](#42-unlawf
 - it had one of the material effects listed in [§4.2 Unlawful or Unconstitutional Command Conduct](#42-unlawful-or-unconstitutional-command-conduct) above; and
 - the Standing Record supports holding a specific sentient, role, or system component responsible.
 
-Real emergency powers are different. They are limited to what is truly necessary and stay under **Chapter One** and **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*). No one may use them as a pretext for an unconstitutional order.
+Real emergency powers are different. They are limited to what is truly necessary and stay under **Chapter One** and **Chapter Twenty-Four §4.1** (*Emergency Measures and Continuation Burden*). No one may use them as a pretext for an unconstitutional order.
 
 <a id="425-criteria-routing"></a>
 
@@ -967,7 +967,7 @@ Evaluators assess these patterns as follows:
   - [§6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [§5.1](#51-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, Protection, or Normalization of Anti-Constitutional Conduct*);
   - [§7](#7-obstruction-of-accountability-criteria-interaction) (*Obstruction of accountability — umbrella criteria interaction; this subsection is the enforcement-mode accountability-obstruction pathway*).
-- Forum and investigation interface: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) for Integrity-family routing, anti-self-judging backup, transfer, and certification; **[CF-23.435](corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md#cf-23435-independent-investigative-service-and-prosecution-interface)** (*Independent investigative service and prosecution interface*) for independent investigative service and prosecution-interface requirements.
+- Forum and investigation interface: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) for Integrity-family routing, anti-self-judging backup, transfer, and certification; **[CF-23.435](corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md#cf-23435-independent-investigative-service-and-prosecution-interface)** (*Independent investigative service and prosecution interface*) for independent investigative service and prosecution-interface requirements.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Auditability](core_05.050_band_oversight.md#auditability),
@@ -1330,7 +1330,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
   - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*),
   - [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted
-  - **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** infrastructure, dependency, reliability, and classification controls where materially relevant.
+  - **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§6.1](#61-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§4.2](#42-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§5.2](#52-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for infrastructure denial or dependency cutoff — general locks only*).
 - Read with:

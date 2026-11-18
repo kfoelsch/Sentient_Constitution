@@ -58,10 +58,10 @@ The chapter leaves:
 - Upstream:
   - [Chapter Ten §2 Forum Process](core_10.000_system_alignment_certification_forum_process_outcomes.md#2-forum-process) (10.000 §2);
   - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3), [§6 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution), [§7 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting), and [§10 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes);
-  - [Chapter Twenty-Three §6.3 Institutional Forums](core_23.005_forum_families_escalation_timeliness_support.md#63-institutional-forums) (23.000 §6.3);
+  - [Chapter Twenty-Four §2.3 Institutional Forums](core_24.000_forum_families_escalation_timeliness_support.md#23-institutional-forums) (24.000 §2.3);
   - [Chapter Twenty-Three §5 Transfer, consolidation, and anti-self-judging](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (23.000 §5) (*cross-forum anti-self-judging rule*);
   - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record).
-- Downstream: [§3](#3-certification-outcomes); [§2](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record); [§3](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000).
+- Downstream: [§3](#3-certification-outcomes); [§2](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record); [§3](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000).
 - Read with:
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map);
   - **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*);
@@ -116,7 +116,7 @@ The supervisory sequence in [Chapter Ten §2.2 Supervisory Sequence](core_10.000
 - **Institutional Forums hold the core components:**
   - **Necessary party:** an Institution is always a necessary party to its own certification.
   - **What a component is:** a component is one part of the certification, and a forum that holds **component authority** over it checks the evidence and authority on that part against the governing standard and issues its own finding, within that authority. That forum's part of the certification pass is a **component evaluation** ([Chapter Ten §2.1 Forum Supervision and Component Roles](core_10.000_system_alignment_certification_forum_process_outcomes.md#21-forum-supervision-and-component-roles)).
-  - **Held by Institutional Forums:** Institutional Forums hold component authority for institutional mandate, supervised scope, institution class, institutional-duty compliance ([§4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), item 8), and the Rights Floor component for the Institution's own conduct ([Chapter Twenty-Three §6.3 Institutional Forums](core_23.005_forum_families_escalation_timeliness_support.md#63-institutional-forums), [Chapter Ten §2.1.6 Institutional Forums](core_10.000_system_alignment_certification_forum_process_outcomes.md#216-institutional-forums)).
+  - **Held by Institutional Forums:** Institutional Forums hold component authority for institutional mandate, supervised scope, institution class, institutional-duty compliance ([§4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), item 8), and the Rights Floor component for the Institution's own conduct ([Chapter Twenty-Four §2.3 Institutional Forums](core_24.000_forum_families_escalation_timeliness_support.md#23-institutional-forums), [Chapter Ten §2.1.6 Institutional Forums](core_10.000_system_alignment_certification_forum_process_outcomes.md#216-institutional-forums)).
 - **Other components:**
   - **Technical Forums:** supply evidence standards and any measurement the incentive or aggregate findings need.
   - **Environment Forums:** supply a component finding where the Institution's aggregate ecological exposure across its Systems is material.
@@ -166,12 +166,12 @@ A forum host, a certifying body, an Institutional Certification Record office, a
   - [Chapter Nine §4.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline);
   - [Chapter Seven §7 When a Holder Fails the Formation Check](core_07.000_charters.md#7-when-a-holder-fails-the-formation-check) (7.000 §7);
   - [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5);
-  - [Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway](core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §7).
+  - [Chapter Twenty-Four §3 Interim Hold on a Named Sentient's Pathway](core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (24.000 §3).
 - Downstream: [§2](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record); [§3](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening); [§5](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing).
 - Read with:
-  - **CI-19.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*);
+  - **CI-19.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*);
   - **CI-8.205 §3** (*Authority Chain and Delegation Controls*);
-  - **CI-25.205 §1** (*Shared Staffing and Competency Requirement*);
+  - **CI-27.205 §1** (*Shared Staffing and Competency Requirement*);
   - [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>
@@ -240,7 +240,7 @@ Apart from the Systems and the certification conditions, an outcome has only the
 - **Reopening and the cascade:** A review can be reopened, and a failed System certification can affect the Institution. See [§3 Recertification and Reopening](core_14.000_institutional_alignment_certification_records_recertification.md#3-recertification-and-reopening).
 - **Standing:** An outcome can touch a sentient's standing only through [§5 Relationship to Standing](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing).
 
-Sanctions, dissolution, and institutional-failure consequences stay with **CI-19.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*). This Chapter creates none of them.
+Sanctions, dissolution, and institutional-failure consequences stay with **CI-19.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*). This Chapter creates none of them.
 
 <a id="32-certification-defects-and-correction"></a>
 
@@ -280,7 +280,7 @@ Two points are specific to an Institution:
   - answering for any System whose cause finding traced back to the Institution ([§3.5 Cascade from System Certifications](core_14.000_institutional_alignment_certification_records_recertification.md#35-cascade-from-system-certifications)).
 - **Capacity:** In addition to the factors in [Chapter Ten §3.3.2 Capacity](core_10.000_system_alignment_certification_forum_process_outcomes.md#332-capacity), the forums look at whether:
   - the offices that must act have the authority to do so (**CI-8.205 §3** (*Authority Chain and Delegation Controls*));
-  - the Institution has the funds, staff, and succession plan for the work (**CI-25.205 §1** (*Shared Staffing and Competency Requirement*); **CI-24.210** (*Remedy systems and institutional redress capacity*)); and
+  - the Institution has the funds, staff, and succession plan for the work (**CI-27.205 §1** (*Shared Staffing and Competency Requirement*); **CI-25.210** (*Remedy systems and institutional redress capacity*)); and
   - an independent verifying authority can test the correction, with the access and the time it is actually given ([Chapter Ten §3.3.2 Capacity](core_10.000_system_alignment_certification_forum_process_outcomes.md#332-capacity), *Verifiability*). A correction nobody can verify is not capacity.
 - **One System:** An Institution that runs exactly one System gets one readiness check, in the one-System evaluation. The readiness check states its denial grounds separately for the System and for the Institution, as [§3.4 Denial and Revocation for an Institution](#34-denial-and-revocation-for-an-institution) requires.
 
@@ -331,14 +331,14 @@ Two points are specific to an Institution:
    - The status does not certify or block any System by itself. The System's own certification pass decides.
 4. **Seats in other bodies' certifications:** The Institution gives them up while it is Not Certified, as [§2.3 Forums, Certifiers, and Record Offices as Institutions](#23-forums-certifiers-and-record-offices-as-institutions) provides.
 5. **Referral:** The lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified. There are three routes:
-   - **To the forum that decides failure and sanctions:** The lead forum refers the matter to the forum with jurisdiction under **CI-19.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*) where:
+   - **To the forum that decides failure and sanctions:** The lead forum refers the matter to the forum with jurisdiction under **CI-19.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*) where:
      - the finding is able and not willing;
      - a revocation rests on concealment or fraudulent evidence; or
      - a failed formation check was not resolved inside the resolution window in [Chapter Seven §7 When a Holder Fails the Formation Check](core_07.000_charters.md#7-when-a-holder-fails-the-formation-check) (*Resolution window*).
 
      That forum alone decides any suspension, receivership, structural separation, or dissolution. This Chapter creates none of them.
    - **To the forum over a named sentient:** Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution to carry out a violation, the lead forum also refers the facts to the forum with jurisdiction over that sentient.
-   - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks). Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway](core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
+   - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks). Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Twenty-Four §3 Interim Hold on a Named Sentient's Pathway](core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
 6. **Standing:** Only through [§5 Relationship to Standing](core_14.000_institutional_alignment_certification_records_recertification.md#5-relationship-to-standing). This holds for a denial of a first certification too: the findings behind it may supply input under [§5.2 Every Certification Outcome](core_14.000_institutional_alignment_certification_records_recertification.md#52-every-certification-outcome), on the same terms as any other.
 
 An Institution that is Not Certified may continue to exist, publish its Institutional Charter, operate, and apply again on the terms of Chapter Ten §3.4 (*Not a Permanent Bar*). It may not exercise new material authority until a recertification clears that authority ([§3.2.2 Recertification for New Material Authority](core_14.000_institutional_alignment_certification_records_recertification.md#322-recertification-for-new-material-authority)).

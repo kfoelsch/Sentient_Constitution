@@ -23,10 +23,6 @@
       "snippet": "Article XIII-A (Reliability and Trustworthiness Baseline) and Safe Conditions:"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::0cc81f5afd0c",
-      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway."
-    },
-    {
       "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::29173d3d29ab",
       "snippet": "The lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified."
     },
@@ -53,6 +49,10 @@
     {
       "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::67551985d274",
       "snippet": "A correction nobody can verify is not capacity"
+    },
+    {
+      "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::8e1081d18978",
+      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Twenty-Four §3 Interim Hold on a Named Sentient's Pathway."
     },
     {
       "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::c58adbdd3138",
@@ -199,10 +199,6 @@
       "snippet": "the challenge path has to be open before anyone is asked to rely on a certification."
     },
     {
-      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::b84f2c03ad0b",
-      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Twenty-Three §8 Timely Resolution, Materiality Ti"
-    },
-    {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::b86e4b82c6f7",
       "snippet": "It is published at public-baseline fidelity, with lawful substitutes, under CS-6.310 Part B §9.3 Type O"
     },
@@ -217,6 +213,10 @@
     {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::ba63a40fb7e2",
       "snippet": "it carries facts from the Institutional Certification Record and nothing else."
+    },
+    {
+      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::bfa45b177c42",
+      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Twenty-Four §4 Timely Resolution, Materiality Tie"
     },
     {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::c4d5bdcc96be",

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*) through **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*) through **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
@@ -111,7 +111,7 @@ Authorization and predicate minimum
 *In plain terms: disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review that starts inside the prompt-review window.*
 
 - **What it is**
-  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review begun inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.005_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)).
+  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review begun inside the **prompt-review window** ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_24.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and predicate minimum.
 <a id="authorization-and-predicate-minimum-a"></a>
 - **How to measure and assess**
@@ -312,7 +312,7 @@ Emergency technical-coupling discipline
 *In plain terms: emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review that starts inside the prompt-review window where they materially affect rights or governance authority, and rolled back or restored where feasible.*
 
 - **What it is**
-  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review begun inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.005_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)) where they materially affect rights or governance authority, and rolled back or restored where feasible.
+  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review begun inside the **prompt-review window** ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_24.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)) where they materially affect rights or governance authority, and rolled back or restored where feasible.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in emergency technical-coupling discipline.
 <a id="emergency-technical-coupling-discipline-a"></a>
 - **How to measure and assess**
