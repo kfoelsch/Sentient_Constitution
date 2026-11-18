@@ -38,7 +38,7 @@
   - [corpus_forum.md](corpus_forum.md),
   - [corpus_joint_structure.md](corpus_joint_structure.md)); substantive chapters that route operational detail here (including
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000),
-  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000),
+  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000),
   - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000), and
   - [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) (25.000) where cross-references invoke incorporation discipline).
 - Read with:
@@ -141,7 +141,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
 
   Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Seven** and this chapter.
 
-  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_23.475_sentience_status_record.md`](corpus_forum/cf_23.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §7 Escalation and Questions for Ruling](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
+  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_23.475_sentience_status_record.md`](corpus_forum/cf_23.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §7 Escalation and Questions for Ruling](core_23.005_forum_families_escalation_timeliness_support.md#7-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
 - **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
   - architecture maps;
   - TODO records;

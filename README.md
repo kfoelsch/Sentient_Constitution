@@ -108,7 +108,7 @@ The Constitution is one document split into a Preamble and twenty-nine chapters.
 | **Chapter 16**: [Standing measurement](core_16.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
 | **Chapters 17–20**: [17](core_17.000_standing_integration.md) · [18](core_18.000_contribution_consequences.md) · [19](core_19.000_violation_consequences.md) · [20](core_20.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
 | **Chapters 21–22**: [21](core_21.000_misconduct_designation.md) · [22](core_22.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 23**: [Forums](core_23.000_forum.md) | Review bodies and hearings, and why no one may judge their own case |
+| **Chapter 23**: [Part A](core_23.000_forum.md) · [Part B](core_23.005_forum_families_escalation_timeliness_support.md) | Review bodies and hearings, and why no one may judge their own case |
 | [Worked examples for Chapters 15–22](corpus_joint_structure/cjs_15.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged (placeholder: section 1 drafted) |
 | **Chapter 25**: [Governance](core_25.000_governance.md) | Who may govern, and how that authority is granted and checked |

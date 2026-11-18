@@ -546,7 +546,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - investigation of materially serious unlawful conduct.
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
-  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
+  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
   - The emergency action, and any later reauthorization, must be entered in an Act Record as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
@@ -725,7 +725,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
   - [§6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5).
-- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §8 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (8.000 §8); and [Chapter Twenty-Three §8.1](core_23.000_forum.md#81-emergency-measures-and-continuation-burden) (23.000 §8.1) (*Emergency Measures and Continuation Burden*).
+- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §8 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (8.000 §8); and [Chapter Twenty-Three §8.1](core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden) (23.000 §8.1) (*Emergency Measures and Continuation Burden*).
 
 </details>
 
@@ -1536,7 +1536,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
   - The step-up must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-6.345 §7** (*Non-Experimental Systems*).
   - Interim safeguards proportionate to current risk apply during the step-up.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
-  - The step-up must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
+  - The step-up must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
 #### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

@@ -65,7 +65,7 @@ FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
     ("certification", "core_05.040_band_continuity.md", "system-alignment-certification-constitutional"),
     ("Contestability", "core_05.035_band_accountability.md", "contestability"),
     ("Auditability", "core_05.050_band_oversight.md", "auditability"),
-    ("independent review", "core_23.000_forum.md", "chapter-twenty-three-forums-and-jurisdiction"),
+    ("independent review", "core_23.000_forum.md", "chapter-twenty-three-part-a-standards-routing-and-forum-cases"),
 )
 
 SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (

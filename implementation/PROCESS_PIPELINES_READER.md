@@ -45,7 +45,7 @@ flowchart TB
 3. **Apply effects and remedy** — [Chapter Seventeen](../core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (Question 3)
    Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_19.000_violation_consequences.md#21-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
-4. **Forum families supervise** — [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction)
+4. **Forum families supervise** — [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct Standing Records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
 
 ## Rights floors that travel with the chain

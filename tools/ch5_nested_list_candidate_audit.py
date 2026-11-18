@@ -128,7 +128,10 @@ CH14_PARTS: tuple[str, ...] = (
     "core_22.000_misconduct_pattern_applications.md",
 )
 
-CH15_PARTS: tuple[str, ...] = ("core_23.000_forum.md",)
+CH15_PARTS: tuple[str, ...] = (
+    "core_23.000_forum.md",
+    "core_23.005_forum_families_escalation_timeliness_support.md",
+)
 
 CH16_PARTS: tuple[str, ...] = ("core_25.000_governance.md",)
 

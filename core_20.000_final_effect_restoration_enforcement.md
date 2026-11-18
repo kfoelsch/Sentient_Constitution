@@ -14,7 +14,7 @@
 
 - Upstream: [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) (*contribution outcomes*); [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) (*violation outcomes and locks*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (*decision order*).
 - This file: Question 3 final standing effect, restoration and reassessment, and enforcement realism and remedy systems.
-- Downstream: [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (*forum supervision*); [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Downstream: [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (*forum supervision*); [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Worked examples (they add no rule): [CJS-15.105 Application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes): [CJS-15.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-10-question-3-routing-patterns).
 
 </details>
@@ -117,7 +117,7 @@ This subsection sets out who may see gated-pathway effects, what a gatekeeper ma
     - a comparable artifact;
   - transferring an effect to a gated pathway that did not produce it; or
   - inferring general trustworthiness, worth, or risk from the set of a subject's effects.
-- **Bounded exceptions:** [Integrity Forums](core_23.000_forum.md#65-integrity-forums) examining capture or pattern claims, [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation review, and [§4.4 Anti-Evasion and Look-through Authority](#44-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Fifteen §5.2 Related Standing Record Cross-References](core_15.000_standing_assessment.md#52-related-standing-record-cross-references) cross-references between linked Standing Records remain; they are record links, not a composite.
+- **Bounded exceptions:** [Integrity Forums](core_23.005_forum_families_escalation_timeliness_support.md#65-integrity-forums) examining capture or pattern claims, [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) designation review, and [§4.4 Anti-Evasion and Look-through Authority](#44-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Fifteen §5.2 Related Standing Record Cross-References](core_15.000_standing_assessment.md#52-related-standing-record-cross-references) cross-references between linked Standing Records remain; they are record links, not a composite.
 - **Public LEQU display:** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the Standing Record, in forum proceedings, in the disclosure to the gated-pathway gatekeeper where the slot is a lawful input to that gated pathway, and, for a violation at slot 5 or higher, in a public notice about that event under [§2.3 Public Notice of Violation Findings](#23-public-notice-of-violation-findings).
 
 <a id="22-plain-statement-of-effect-and-burden"></a>
@@ -147,7 +147,7 @@ This subsection sets out what is public, what stays private, and how a public no
 - **Which are published:** The record custodian publishes a public notice for each verified violation finding at Violation Axis slot **5 or higher**, whether the subject is a sentient, an institution, or a system.
   - Violation findings at slots **1 to 4** are private. They appear in the Standing Record, in forum proceedings, to the sentients harmed, and in the gatekeeper answer under [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects).
   - Contribution is private at every slot. A contributor may choose to publish their own contribution record and may withdraw the choice. No one may require or press a contributor to publish, and not publishing is never an adverse fact ([Chapter Fifteen §3.2 Silence Is the Default](core_15.000_standing_assessment.md#32-silence-is-the-default)).
-- **When it is published:** Only once the violation finding is final: the time to review or challenge it under [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) has run, or the review has ended with the violation finding standing.
+- **When it is published:** Only once the violation finding is final: the time to review or challenge it under [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) has run, or the review has ended with the violation finding standing.
   - A hold, an allegation, or a violation finding still under review is never published.
   - If a published violation finding is later set aside or corrected, the custodian publishes the correction in the same place with the same prominence and takes the original down.
 - **What the notice says:** the event or pattern; the subject found responsible; the duty violated; what was found; the Violation Axis slot for that event; the remedy ordered and whether it has been delivered; and the name of any lock imposed and the gated pathway it closes.
@@ -269,7 +269,7 @@ Consequences under this chapter only count if real institutions can carry them o
   - enforce safeguards; and
   - review locks.
 - **Where the details live:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
-- **Read with:** **Article XIII-B** (*Right to Redress and Remedy*), and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) for forum supervision.
+- **Read with:** **Article XIII-B** (*Right to Redress and Remedy*), and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must keep the practical capacity, and keep it timely, to:
 
@@ -328,11 +328,11 @@ Child protection, environmental enforcement, benefits administration, detention 
 
 Those systems must meet the standards below, and each body has its own role:
 
-- **Timing:** the [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows.
-- **Capacity and measurement:** the published capacity, measurement, and milestone standards under [Technical Forum Domains](core_23.000_forum.md#62-technical-forum-domains). Technical Forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
+- **Timing:** the [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows.
+- **Capacity and measurement:** the published capacity, measurement, and milestone standards under [Technical Forum Domains](core_23.005_forum_families_escalation_timeliness_support.md#62-technical-forum-domains). Technical Forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
 - **Who answers for performance:** accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_23.000_forum.md#3-default-venue-and-primary-stakes) forum family:
-  - ordinarily [Institutional](core_23.000_forum.md#63-institutional-forums) forums; or
-  - [Integrity](core_23.000_forum.md#65-integrity-forums) forums where capture, process failure, or system-alignment collapse is primary.
+  - ordinarily [Institutional](core_23.005_forum_families_escalation_timeliness_support.md#63-institutional-forums) forums; or
+  - [Integrity](core_23.005_forum_families_escalation_timeliness_support.md#65-integrity-forums) forums where capture, process failure, or system-alignment collapse is primary.
 - **Implementation detail:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
 
 The following violate this rule where they foreseeably nullify challenge or remedy:
@@ -372,7 +372,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="45-timely-implementation"></a>
 #### 4.5 Timely Implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Sixteen slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Sixteen slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 
