@@ -15,7 +15,7 @@
 
 > Where this lives (navigation):
 > - **Constitutional owner:** definition integrity, evasion, and non-compliance for assessment work. **Chapter Two** owns structure; **Chapter Four** owns burden and trace artifacts; **Chapter Five** owns canonical definitions.
-> - **Implementation owner:** standing records, forum process, and implementation protocols operationalize these rules without replacing them.
+> - **Implementation owner:** Standing Records, forum process, and implementation protocols operationalize these rules without replacing them.
 > - **Anti-relocation rule:** this chapter does not assign standing slots, forum routing, or final anti-constitutional-misconduct designation.
 
 </details>
@@ -52,7 +52,7 @@ The chapter leaves:
 
 - burden of proof, traceability, and verification to Chapter Four;
 - how a definition is structured to Chapter Two; and
-- standing records and their effects to the standing pipeline, [Chapters Fifteen through Twenty](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
+- Standing Records and their effects to the standing pipeline, [Chapters Fifteen through Twenty](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
 
 
 ### 2. Definition Integrity and Anti-Evasion Constraints
@@ -270,7 +270,7 @@ Standing effects depend on who is being assessed and on whether the system is al
 
 #### 4.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_15.000_standing_assessment.md#35-verified-input-gate) may enter. Measure standing under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened); apply its integration and effects under [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows). Reopening, withdrawal, or other certification consequences stay under [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes). They do not replace that system's standing records.
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_15.000_standing_assessment.md#35-verified-input-gate) may enter. Measure standing under [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened); apply its integration and effects under [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows). Reopening, withdrawal, or other certification consequences stay under [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes). They do not replace that system's Standing Records.
 
 #### 4.2 Standing Effects at First Certification
 

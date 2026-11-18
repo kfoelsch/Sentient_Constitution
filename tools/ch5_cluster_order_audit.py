@@ -162,6 +162,8 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Jurisdiction",
         "Primary-Stakes Routing",
         "Forum Case Record",
+        "Direct Case",
+        "Review Case",
     ],
     "#### Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",

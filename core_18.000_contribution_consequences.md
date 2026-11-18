@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eighteen** — contribution consequences (§2): recency and currentness, then competency bars and clearances for gated pathways that are not locked. The other Parts are [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) — purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization (Chapter Seventeen §§1–Chapter Seventeen 4); [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) — violation consequences: remedy and correction, general standing locks, and lock design and enforcement (Chapter Nineteen §§2–Chapter Nineteen 3); and [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) — final standing effect, restoration and reassessment, and enforcement realism (Chapter Twenty §§2–Chapter Twenty 4). Section numbers run continuously across the four Parts.
 >
-> - **Constitutional owner (joint with Chapters Seventeen, Nineteen, and Twenty):** the effect, if any, of verified contribution at Question 3. Chapter Eighteen decides it from the contribution standing record; it never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.
+> - **Constitutional owner (joint with Chapters Seventeen, Nineteen, and Twenty):** the effect, if any, of verified contribution at Question 3. Chapter Eighteen decides it from the contribution Standing Record; it never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.
 > - **Anti-relocation rule:** Chapter Eighteen does not restate the decision order in Chapter Seventeen, the remedy, correction, and lock rules in Chapter Nineteen, or the final standing effect in Chapter Twenty. It points to them.
 
 </details>
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (*inputs and decision order*); [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) contribution standing records (*Question 1*); [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measurement (*Question 2*).
+- Upstream: [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (*inputs and decision order*); [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) contribution Standing Records (*Question 1*); [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measurement (*Question 2*).
 - This file: Question 3 contribution consequences: recency and currentness, and competency bars and clearances.
 - Downstream: [Chapter Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks) (*violation consequences; a lock controls the gated pathway it attaches to*); [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) (*final standing effect*).
 - Worked examples (they add no rule): [CJS-15.105 Application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes): the Question 3 continuation of [CJS-15.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-8-riparian-cooperative-restoration-contribution-measurement).
@@ -21,7 +21,7 @@
 
 <br>
 
-Chapter Eighteen is the constitutional owner of **contribution consequences**: the effect, if any, of verified contribution at Question 3. Its rules start from verified contribution standing records and end at the gated pathway outcomes that Chapter Twenty states.
+Chapter Eighteen is the constitutional owner of **contribution consequences**: the effect, if any, of verified contribution at Question 3. Its rules start from verified contribution Standing Records and end at the gated pathway outcomes that Chapter Twenty states.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*
@@ -30,7 +30,7 @@ Chapter Eighteen is the constitutional owner of **contribution consequences**: t
 
 **Role:** The chapter is one of four that together own Question 3, with Chapters [Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows), [Nineteen](core_19.000_violation_consequences.md#chapter-nineteen-violation-consequences--remedy-correction-and-locks), and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement):
 
-- It decides from the contribution standing record only.
+- It decides from the contribution Standing Record only.
 - It takes the decision order from **Chapter Seventeen section 3.4** (*Processing Order*). The contribution track and the violation track do not wait for each other.
 - Its result meets the violation track only at the final standing effect in Chapter Twenty, where a lock controls.
 
@@ -52,7 +52,7 @@ It points to them and does not restate them.
 
 *In plain terms: this section asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*
 
-This section starts from verified Chapter Fifteen contribution records that apply to the decision. From those standing records it asks two things:
+This section starts from verified Chapter Fifteen contribution records that apply to the decision. From those Standing Records it asks two things:
 
 - how current the contribution still is; and
 - whether any competency clearance for an open gated pathway is met against its published bar.
@@ -64,7 +64,7 @@ This section starts from verified Chapter Fifteen contribution records that appl
 Decide contribution consequences in this order:
 
 - Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
-  - Equal standards include separation of duties: under [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and [Chapter Fifteen §6.9 Informal and Small-Scope Records](core_15.000_standing_assessment.md#69-informal-and-small-scope-records) the verify seat for informal work is met by any independent body with published authority to rely on the standing record, not by the formality of the verifying authority.
+  - Equal standards include separation of duties: under [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and [Chapter Fifteen §6.9 Informal and Small-Scope Records](core_15.000_standing_assessment.md#69-informal-and-small-scope-records) the verify seat for informal work is met by any independent body with published authority to rely on the Standing Record, not by the formality of the verifying authority.
   - A bar that demands formal-institution verification an informal group cannot reach is the [§2.2 Competency Bars and Clearances](#22-competency-bars-and-clearances) gatekeeping pattern.
 - Apply recency and currentness ([§2.1 Recency and Currentness](#21-recency-and-currentness)).
 - Apply competency bars and clearances ([§2.2 Competency Bars and Clearances](#22-competency-bars-and-clearances)); where a lock blocks a gated pathway, no clearance operates on it.
@@ -75,7 +75,7 @@ Decide contribution consequences in this order:
 
 *In plain terms: how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Sixteen measurement, and time alone does not settle an unresolved violation.*
 
-Recency is strictly a **Question 3 clearance and readiness input**. It changes no slot, measurement, or descriptor ([§2.3 Facts and Measurements Stay Fixed](core_17.000_standing_integration.md#23-facts-and-measurements-stay-fixed)), and it does not change a Chapter Fifteen contribution standing record or historical recognition.
+Recency is strictly a **Question 3 clearance and readiness input**. It changes no slot, measurement, or descriptor ([§2.3 Facts and Measurements Stay Fixed](core_17.000_standing_integration.md#23-facts-and-measurements-stay-fixed)), and it does not change a Chapter Fifteen contribution Standing Record or historical recognition.
 
 For a current trust-, role-, authority-, oversight-, or recognition-sensitive decision, the standing system must **automatically** calculate currentness weight for each applicable verified contribution. No additional manual approval is required for an uncontested contribution when verified inputs and the published formula (or a stricter published role-specific rule) produce a determinate result. The process must run seamlessly unless the contribution—or the inputs used to weight it—is contested, uncertain, or otherwise requires review under [§3 Automatic Integration, Review, and Continuity](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity).
 
@@ -99,7 +99,7 @@ Illustrative weights at whole-year ages (exact day counts may differ slightly):
 | 45 | 0.044 |
 | 50+ | none (historical only) |
 
-The system applies the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current clearance weight. Continuing or maintained contribution may be evidenced by current standing records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
+The system applies the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current clearance weight. Continuing or maintained contribution may be evidenced by current Standing Records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
 
 When a contribution or its currentness inputs are contested, the system must still assemble and preserve the automatic calculation, route the contest for authorized review, and keep the result inspectable. Contest does not erase the historical contribution record.
 
@@ -183,7 +183,7 @@ The conclusion that a gated pathway is trust-sensitive is itself open to challen
 
 **Default continuity.** Once competency clearance is granted and the affected gated pathway is open, clearance stays in force by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or withdraw clearance.
 
-**Periodic retesting.** Some competencies require periodic retesting; others do not. Which gated pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
+**Periodic retesting.** Some competencies require periodic retesting; others do not. Which gated pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_23.000_forum.md#62-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
 
 **Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the gated pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must:
 

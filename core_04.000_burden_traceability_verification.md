@@ -15,7 +15,7 @@
 
 > Where this lives (navigation):
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00.000_preamble.md#material-stake).
-> - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Fifteen** owns standing-record and verified-input discipline read with this chapter.
+> - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Fifteen** owns Standing-Record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) rule.
 > - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Sixteen** contribution or standing measurement, or Chapter Twenty-One anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §4 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#4-non-compliance-finding-profiles) and [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened). **Section 7** states how Chapters Two through Four differ from [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation).
 
@@ -40,7 +40,7 @@ Chapter Four is the constitutional owner of **burden allocation, compliance evid
 **Role:** [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) together set the rules every compliance claim must meet:
 
 - It takes definition mechanics from Chapters Two and [Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance), and definitions from [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions), as fixed.
-- It hands those rules to Chapter Nine, where System Alignment Certification applies them, and to Chapter Fifteen, where standing records rest on verified facts.
+- It hands those rules to Chapter Nine, where System Alignment Certification applies them, and to Chapter Fifteen, where Standing Records rest on verified facts.
 - A current certification is not a way around Chapters Two through Four (**section 7**).
 
 **Chapter scope:** The chapter covers:
@@ -56,7 +56,7 @@ The chapter leaves:
 
 - the certification process itself to [Chapters Nine through Fourteen](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation);
 - the meaning of each definition to Chapter Five; and
-- standing records and their effects to [Chapters Fifteen through Twenty](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
+- Standing Records and their effects to [Chapters Fifteen through Twenty](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
 
 
 ### 2. Exclusive Enforcement and Burden Allocation

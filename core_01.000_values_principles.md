@@ -50,7 +50,7 @@
 | **Participation** | [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (consequential roles and voice); [§7 Freedom](#7-freedom-bounded-agency) (meaningful agency) |
 | **Oversight** | [§16](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (distributed understanding, records), with [§16.4 Document at Action](core_01.040_stewardship_capacity_principles.md#164-document-at-action) (records made by the act, so inspection has something to inspect); [§18 Governance](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (how authority is allocated); [§12](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (auditing) |
 | **Accountability** | [§16.4 Document at Action](core_01.040_stewardship_capacity_principles.md#164-document-at-action) (the act makes its own Act Record, so answerability can be traced); [§18 Governance](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (authority-scaled answerability); [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (rewards must not hollow the legs) |
-| **Timeliness** | [§16](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (catching and fixing trouble without avoidable delay), with [§16.5 Automation](core_01.040_stewardship_capacity_principles.md#165-automation) (routine steps done by the system and independent steps run side by side, so work does not wait in avoidable queues) |
+| **Timeliness** | [§16](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [§17](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (catching and fixing trouble without avoidable delay), with [§16.5 Automation](core_01.040_stewardship_capacity_principles.md#165-automation) (routine steps done by the system and independent steps run side by side, so work does not wait in avoidable queues), and [§16.6 Default Window](core_01.040_stewardship_capacity_principles.md#166-default-window) (a required step with no window of its own is still timed) |
 
 **Two axes, not a conflict.** The aims say what systems pursue; the Tetrad says how that pursuit stays legitimate. A term can sit on both: Truth and Trustworthiness are constituents of Flourishing, and [Preamble §2](core_00.000_preamble.md#2-measurements-overview) measures them under the Oversight family. [§§13–15](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) govern how these principles are weighed when they collide and read as one whole, and [§20](core_01.050_governance_incentive_application.md#20-integrated-application) applies them to every later chapter.
 
@@ -308,7 +308,7 @@ Application of these constraints must satisfy the [Constitutional Tetrad](core_0
 - where truth claims govern reliance
 - where accountability for harm or misleading conduct is at stake
 
-Safety and Truth findings can change a sentient's standing record, including:
+Safety and Truth findings can change a sentient's Standing Record, including:
 - how [contributions](core_05.035_band_accountability.md#contribution-nature) are recognized
 - whether violations are recorded
 - how severe those violations are classified
@@ -844,7 +844,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
     - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
     - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
     - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Twenty-Three §4.2 — Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains) (23.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-23.440](corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
+- Read with: [Chapter Twenty-Three §6.2 — Technical Forum Domains](core_23.000_forum.md#62-technical-forum-domains) (23.000 §6.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-23.440](corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
 
@@ -887,7 +887,7 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance).
 
-If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Twenty-Three §4.2 Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
+If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Twenty-Three §6.2 Technical Forum Domains](core_23.000_forum.md#62-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
 
 Sometimes safety is a good reason to limit what gets published or shared: data access, how a method works, or the materials someone would need to repeat a study. Such limits are allowed only under:
 

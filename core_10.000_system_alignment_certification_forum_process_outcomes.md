@@ -9,7 +9,7 @@
 > - **Anti-relocation rule:** Chapter Ten does not restate Chapter Nine evaluation mechanics, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. The standing bridge is in [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing). Chapter Ten also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Three forum supervision; Chapters Two through Four verification discipline.
-> **Downstream:** [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing); Chapter Fifteen standing records and verified inputs; Chapter Seventeen standing effects.
+> **Downstream:** [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing); Chapter Fifteen Standing Records and verified inputs; Chapter Seventeen standing effects.
 
 </details>
 
@@ -84,8 +84,8 @@ The standing bridge is **Chapter Eleven section 5**.
   - [§10 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) (*the four seats, and the duty to say how certification uses them; applied in
   - [§2.1.1](#211-four-seats-in-a-certification)*);
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) (*where the seats for a certification are placed*);
-  - [Chapter Twenty-Three §4](core_23.000_forum.md#4-forum-family-definitions--accountability-through-adjudication) (23.000 §4) (*forum families, Integrity-led alignment certification, component referral, and validation*);
-  - [Chapter Twenty-Three §3](core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §3) (*Integrity-led alignment coordination and anti-self-judging*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*);
+  - [Chapter Twenty-Three §6](core_23.000_forum.md#6-forum-family-definitions--accountability-through-adjudication) (23.000 §6) (*forum families, Integrity-led alignment certification, component referral, and validation*);
+  - [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5) (*Integrity-led alignment coordination and anti-self-judging*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**;
   - [Contestability](core_05.035_band_accountability.md#contestability).
 - Downstream:
@@ -94,9 +94,9 @@ The standing bridge is **Chapter Eleven section 5**.
   - [Chapter Eleven §3](core_11.000_system_alignment_certification_records_recertification.md#3-recertification-and-reopening) (*recertification and reopening*);
   - [Chapter Eleven §4](core_11.000_system_alignment_certification_records_recertification.md#4-challenging-a-certification) (*the challenge path*);
   - [Chapter Eleven §5.3](core_11.000_system_alignment_certification_records_recertification.md#53-verified-input-gate) (*verified-input gate*);
-  - [Chapter Twenty-Three §5](core_23.000_forum.md#5-escalation-and-questions-for-ruling) (23.000 §5) (*family-to-family escalation and constitutional certification*).
+  - [Chapter Twenty-Three §7](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (23.000 §7) (*family-to-family escalation and constitutional certification*).
 - Read with:
-  - [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §2;
+  - [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §3;
   - [Preamble §3.3](core_00.000_preamble.md#33-governance-layers);
   - **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*),
   - **CF-23.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), and
@@ -196,11 +196,11 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 - Maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, methods for reducing uncertainty, and technical adequacy findings, within their lawful scope;
 - Supply **component findings** for the System Certification Record. These include findings on system-class-scaled assurance and data-handling infrastructure under [§3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [§4.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
-- Answer the technical questions the lead forum sends them for ruling, for the System Certification Record, as [Chapter Twenty-Three §4.2 Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains) allows;
+- Answer the technical questions the lead forum sends them for ruling, for the System Certification Record, as [Chapter Twenty-Three §6.2 Technical Forum Domains](core_23.000_forum.md#62-technical-forum-domains) allows;
 - Supply component findings on health and safety information where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety. [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation) tests this under **Article III-F** (*Safe Products and Health Information*). The technical finding is whether warnings, health claims, nutrition facts, ingredients, and allergen information are accurate, backed by evidence, and kept current, and whether they say plainly what is unknown or untested; and
 - Hold the [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) component role (indicator evaluation, expert evidence, and bounded uncertainty):
   - This applies where certification materially affects who counts as a **sentient** for rights, standing, or protection purposes, consistent with [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
-  - Technical Forums are the default lead under [Chapter Twenty-Three §4.2 Technical Forum Domains](core_23.000_forum.md#42-technical-forum-domains) and [Chapter Twenty-Three §5 Escalation and Questions for Ruling](core_23.000_forum.md#5-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook).
+  - Technical Forums are the default lead under [Chapter Twenty-Three §6.2 Technical Forum Domains](core_23.000_forum.md#62-technical-forum-domains) and [Chapter Twenty-Three §7 Escalation and Questions for Ruling](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook).
   - Where Chapter Twenty-Three so requires, they refer the matter to Integrity, Institutional, or Constitutional special routes under that hook.
 
 <a id="213-integrity-forums"></a>
@@ -228,11 +228,11 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 Where a system materially affects how a community governs itself, Sentient Forums:
 
-- Supply **community-governance findings** on whether the system's decisions follow the communities' published processes, let affected members be heard and contest, and meet the Chapter Nine tests that apply ([§5.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation), [§6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation), and [§6.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation)). This covers membership, exclusion, moderation, access to shared community process, participatory inputs, and commons use, whoever operates the system ([Chapter Twenty-Three §4.1 Sentient Forums](core_23.000_forum.md#41-sentient-forums) describes these matters);
+- Supply **community-governance findings** on whether the system's decisions follow the communities' published processes, let affected members be heard and contest, and meet the Chapter Nine tests that apply ([§5.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation), [§6.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation), and [§6.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation)). This covers membership, exclusion, moderation, access to shared community process, participatory inputs, and commons use, whoever operates the system ([Chapter Twenty-Three §6.1 Sentient Forums](core_23.000_forum.md#61-sentient-forums) describes these matters);
 - Hold the Rights Floor component for community-level stakes, such as exclusion, access to shared community process, or commons use. Institutional Forums hold the broader Rights Floor questions under [§2.1.6 Institutional Forums](#216-institutional-forums). Where no family holds the component, the Integrity lead applies the Rights Floors, using the other component findings;
 - Yield to the Institutional Forum if their Rights Floor findings conflict, since the Institutional Forum has the final say in that pass. Both findings stay on the System Certification Record under [§2.2 Supervisory Sequence](#22-supervisory-sequence), and the conflict stays open to challenge under [§2.3 Contestability Chain](#23-contestability-chain);
 - Hear challenges confined to a community-governance finding (the component forum path under [§2.3 Contestability Chain](#23-contestability-chain)), and receive community-level evidence and concerns from affected members during review, as part of the participation duty of the assigned forums under [§2.2 Supervisory Sequence](#22-supervisory-sequence); and
-- Take up remedy and restoration among sentients after a certification pass finds harm to community members, under [Chapter Twenty-Three §4.1 Sentient Forums](core_23.000_forum.md#41-sentient-forums). This follows the certification pass and creates no second merits track.
+- Take up remedy and restoration among sentients after a certification pass finds harm to community members, under [Chapter Twenty-Three §6.1 Sentient Forums](core_23.000_forum.md#61-sentient-forums). This follows the certification pass and creates no second merits track.
 
 <a id="216-institutional-forums"></a>
 
@@ -258,7 +258,7 @@ Where an institution is involved, Institutional Forums:
 **Constitutional and residual stakes:**
 
 - Keep the questions Chapter Twenty-Three gives them: whether constitutional text is valid, what it means, and whether a class-wide fix must restructure governance, along with any other question whose main stake Chapter Twenty-Three gives to a family not named above;
-- Answer the constitutional questions the lead forum sends them for ruling under [Chapter Twenty-Three §5 Escalation and Questions for Ruling](core_23.000_forum.md#5-escalation-and-questions-for-ruling): a question of validity, a structural question about restructuring governance, or a conflict among lower panels on a constitutional point. Until they answer, the lead forum cannot treat that point as finally resolved ([§2.2 Supervisory Sequence](#22-supervisory-sequence), step 5); and
+- Answer the constitutional questions the lead forum sends them for ruling under [Chapter Twenty-Three §7 Escalation and Questions for Ruling](core_23.000_forum.md#7-escalation-and-questions-for-ruling): a question of validity, a structural question about restructuring governance, or a conflict among lower panels on a constitutional point. Until they answer, the lead forum cannot treat that point as finally resolved ([§2.2 Supervisory Sequence](#22-supervisory-sequence), step 5); and
 - Technical expertise and Integrity coordination must not take those questions over.
 
 <a id="22-supervisory-sequence"></a>
@@ -308,7 +308,7 @@ Urgent protection does not wait for the sequence. A stay, interim protection, or
 - [§3 Certification Outcomes](#3-certification-outcomes);
 - [§2.3 Contestability Chain](#23-contestability-chain);
 - Chapter Twenty-Three [Interim Protection](core_23.000_forum.md#interim-protection); and
-- Chapter Twenty-Three [§6.1 Emergency Measures and Continuation Burden](core_23.000_forum.md#61-emergency-measures-and-continuation-burden).
+- Chapter Twenty-Three [§8.1 Emergency Measures and Continuation Burden](core_23.000_forum.md#81-emergency-measures-and-continuation-burden).
 
 The sequence still runs, and the measure is entered on the System Certification Record.
 
@@ -338,7 +338,7 @@ The **contestability chain** is how affected parties can challenge a System Cert
 
 - **Two directions:** It mirrors the supervisory sequence: oversight checks the System Certification Record from above, and challenges let affected parties push back from below.
 - **Right level:** A challenge goes to the level where the dispute actually lives.
-- **Ordinary first step:** [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §2 (*Default Venue and Primary Stakes*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
+- **Ordinary first step:** [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) under Chapter Twenty-Three §3 (*Default Venue and Primary Stakes*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
 - **Emergency exits:** The larger Chapter Twenty-Three tools remain available when needed: transfer, certification, backup routing, and escalation from one forum family to another. Don't start with these. Start with the ordinary first step above, and use these only when it can't resolve the dispute.
 
 There are four paths, which [Chapter Eleven §4.2 Contestability Paths](core_11.000_system_alignment_certification_records_recertification.md#42-contestability-paths) names for the System Certification Record. The paths are:
@@ -369,7 +369,7 @@ There are four paths, which [Chapter Eleven §4.2 Contestability Paths](core_11.
 - preserve evidence; or
 - prevent irreversible dependence on a contested finding.
 
-Review begins inside the **prompt-review window** ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#prompt-review) (*Prompt review*)) under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+Review begins inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#prompt-review) (*Prompt review*)) under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 <a id="24-anti-bypass"></a>
 
@@ -550,7 +550,7 @@ A system that is Not Certified, including one whose certification is deferred or
 These rules apply to the notice interval.
 
 - The interval must scale to system class, material impact, and dependency. It must also scale to the time affected sentients reasonably need to understand the outcome, file a challenge, and seek interim protection before reliance becomes irreversible.
-- The forum must state its reasons for the interval. It must identify the receiving authority and the authority able to stay or limit reliance inside the **prompt-review window** ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#prompt-review) (*Prompt review*)). It must also state the applicable tier windows under [§2.3 Contestability Chain](#23-contestability-chain).
+- The forum must state its reasons for the interval. It must identify the receiving authority and the authority able to stay or limit reliance inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#prompt-review) (*Prompt review*)). It must also state the applicable tier windows under [§2.3 Contestability Chain](#23-contestability-chain).
 - Filing a challenge does not itself impose an automatic stay. Interim protection is decided under the applicable forum process.
 - The notice interval does not extend challenge-response or review deadlines under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
@@ -793,8 +793,8 @@ These are the effects of a denial or revocation under [§3.4 Denial and Revocati
 - **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Chapter Fourteen §3.5 Cascade from System Certifications](core_14.000_institutional_alignment_certification_records_recertification.md#35-cascade-from-system-certifications).
 - **Referral:** the lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified. This Chapter decides none of what that forum decides.
   - **To the forum over a named sentient:** where the certification finding rests on a sentient's use of the system to carry out a violation, the lead forum refers the facts to the forum with jurisdiction over that sentient.
-  - **To a lock or an Interim Hold:** for a verified finding of violation, the matter goes to the standing lock that [Chapter Nineteen §3 Lock Design and Enforcement](core_19.000_violation_consequences.md#3-lock-design-and-enforcement) provides for it. Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Twenty-Three §5 Interim Hold on a Named Sentient's Pathway](core_23.000_forum.md#interim-hold-on-a-named-sentients-pathway).
-- **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) alone decide that. The facts behind it can feed a violation standing record, but only through [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) and its [§5.3 Verified-Input Gate](core_11.000_system_alignment_certification_records_recertification.md#53-verified-input-gate):
+  - **To a lock or an Interim Hold:** for a verified finding of violation, the matter goes to the standing lock that [Chapter Nineteen §3 Lock Design and Enforcement](core_19.000_violation_consequences.md#3-lock-design-and-enforcement) provides for it. Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway](core_23.000_forum.md#interim-hold-on-a-named-sentients-pathway).
+- **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) alone decide that. The facts behind it can feed a violation Standing Record, but only through [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) and its [§5.3 Verified-Input Gate](core_11.000_system_alignment_certification_records_recertification.md#53-verified-input-gate):
   - Denial or revocation for concealment or fraudulent evidence may supply that input. So may revocation for a material violation of a certification condition or for operation outside certified scope.
   - A finding of willing and not able supplies none.
   - A denial of a system that never held certification is treated the same way: the facts behind it may supply input under [Chapter Eleven §5.2 Every Certification Outcome](core_11.000_system_alignment_certification_records_recertification.md#52-every-certification-outcome).

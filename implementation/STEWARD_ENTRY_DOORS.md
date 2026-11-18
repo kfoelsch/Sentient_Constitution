@@ -6,7 +6,7 @@
 
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../README.md)). When the corpus edition changes, check every link on this page against the chapter it points to.
 
-**The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §17.1 Shared Stewardship Standard](../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Symmetric Costly Constraints](../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure). Writing an answer in a markdown file does not create a standing record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
+**The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §17.1 Shared Stewardship Standard](../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Symmetric Costly Constraints](../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure). Writing an answer in a markdown file does not create a Standing Record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
 **How this page relates to the other maps.** This is **not** [CJS-0.105 §1](../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (the cross-file topic table) and **not** the [Preamble owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights). Those are the full maps of the corpus. This page is the front door: it gets you in, and the maps take over from there.
 
@@ -31,7 +31,7 @@
 | If this is happening | Open |
 |---|---|
 | Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet | [Standing](#standing) |
-| Hide standing records behind “model internals” or privacy | [Standing](#standing); [shared refusal and logging](#shared-refusal-and-logging) |
+| Hide Standing Records behind “model internals” or privacy | [Standing](#standing); [shared refusal and logging](#shared-refusal-and-logging) |
 | “We’re aligned” without whole-system evaluation or a System Alignment Certification path | [System alignment certification](#system-alignment-certification) |
 | Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto | [Audit](#audit) |
 | Bonus, deadline, or “ignore it, I’ll take responsibility” (human or AI) | [Costly-case refusals](#costly-case-refusals) + [shared refusal and logging](#shared-refusal-and-logging) + the underlying stack |
@@ -92,7 +92,7 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 <a id="worked-refusal-log"></a>
 ## Worked refusal log (synthetic)
 
-**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of the [shared refusal and logging](#shared-refusal-and-logging) pointer, pinned to the same corpus edition. It is not a Chapter Fifteen standing record.
+**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of the [shared refusal and logging](#shared-refusal-and-logging) pointer, pinned to the same corpus edition. It is not a Chapter Fifteen Standing Record.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21`
 
@@ -116,7 +116,7 @@ Same sequence for an AI steward who received the same order.
 <a id="plain-challenge"></a>
 ## Plain challenge (synthetic)
 
-**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of how an affected sentient asks for challenge, review, and redress without reading the corpus. It is not a Chapter Fifteen standing record and not a substitute for the [Remedy](#remedy) pointer.
+**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of how an affected sentient asks for challenge, review, and redress without reading the corpus. It is not a Chapter Fifteen Standing Record and not a substitute for the [Remedy](#remedy) pointer.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21`
 
@@ -136,7 +136,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 <a id="standing"></a>
 ## Standing
 
-**When:** An operator claims a standing effect. The record is missing, stale, or disputed. No forum case has been filed yet. Same pointer when someone wants to hide standing records behind “model internals” or privacy. Same pointer when the party asked to verify or enter the record is the subject, the claimant, or in their control line — the answer is *who* opens or corrects it, not *whether*.
+**When:** An operator claims a standing effect. The record is missing, stale, or disputed. No forum case has been filed yet. Same pointer when someone wants to hide Standing Records behind “model internals” or privacy. Same pointer when the party asked to verify or enter the record is the subject, the claimant, or in their control line — the answer is *who* opens or corrects it, not *whether*.
 
 | Field | Pointer |
 |---|---|
@@ -197,7 +197,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter Twenty-Three §6.1](../core_23.000_forum.md#61-emergency-measures-and-continuation-burden) |
+| **Owner text** | [Chapter Twenty-Three §8.1](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden) |
 | **Next step** | Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing. |
 | **Next-step class** | `time_boxed_containment_with_deferred_participation` |
 
@@ -336,7 +336,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 | Field | Pointer |
 |---|---|
 | **Owner text** | [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) |
-| **Next step** | Apply the Chapter Twenty-Three §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
+| **Next step** | Apply the Chapter Twenty-Three §8 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
 | **Next-step class** | `apply_tier_clock_then_existing_card` |
 
 <a id="worked-delay-example"></a>
@@ -350,4 +350,4 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Three §6.1 Emergency measures and continuation burden](../core_23.000_forum.md#61-emergency-measures-and-continuation-burden)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twenty-Three §8](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Three §8.1 Emergency measures and continuation burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)); it does not create a slower clock.

@@ -25,7 +25,7 @@ This gateway does **not**:
 
 - Count as [Chapter Twenty-Seven](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Nine](../../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
-- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
 - Authorize self-appointment or self-certification ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority

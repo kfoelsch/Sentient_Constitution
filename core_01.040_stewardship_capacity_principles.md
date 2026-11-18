@@ -51,7 +51,7 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
 - Downstream: [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways).
 - Downstream: [§7 Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
 - Downstream: [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000) (*one especially large audit process under oversight — not the sole auditing home*); [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
-- Downstream: [Chapter Twenty-Three §1 — Purpose, Role, and Scope](core_23.000_forum.md#1-purpose-role-and-scope) (23.000 §1), [§2 — Default Venue and Primary Stakes](core_23.000_forum.md#2-default-venue-and-primary-stakes) (23.000 §2), and [§4 — Forum family definitions](core_23.000_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [CF-23.405](corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-23.420](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#cf-23420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for adopted forum operations.
+- Downstream: [Chapter Twenty-Three §1 — Purpose, Role, and Scope](core_23.000_forum.md#1-purpose-role-and-scope) (23.000 §1), [§3 — Default Venue and Primary Stakes](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3), and [§6 — Forum family definitions](core_23.000_forum.md#6-forum-family-definitions--accountability-through-adjudication) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [CF-23.405](corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-23.420](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#cf-23420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for adopted forum operations.
 - Downstream: Shapes the rights surface for education, Stakeholder System Participation, transparency, comprehensibility, audit and verification, and role-depth pathways into material responsibility.
   - Especially
     - [Article III: Survival and Essential Access](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access),
@@ -69,7 +69,8 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
   - [§16.2 Institutional development](#162-institutional-development) (organizational facet) ·
   - [§16.3 Openness aspiration](#163-openness-aspiration) ·
   - [§16.4 Document at action](#164-document-at-action) (*the act makes its own Act Record*) ·
-  - [§16.5 Automation](#165-automation) (*routine determinate steps done by the system; independent steps run in parallel where no one is unduly burdened*).
+  - [§16.5 Automation](#165-automation) (*routine determinate steps done by the system; independent steps run in parallel where no one is unduly burdened*) ·
+  - [§16.6 Default window](#166-default-window) (*a required step with no window of its own is still timed*).
 - Read with:
   - [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus
   - [§17.1](#171-shared-stewardship-standard),
@@ -173,9 +174,9 @@ Stewardship is the first line, not the only one. Three different questions have 
   - These protections are owed to every sentient materially affected.
   - They operate inside systems, institutions, and decision domains that are already authorized.
 - **Disputes Stakeholder System Participation cannot settle — [forum review](core_23.000_forum.md#dispute-sequencing):**
-  - When the Stakeholder System Participation challenge path stays contested, is missing or captured, or cannot grant relief, the matter goes to the independent **forum families** under [Chapter Twenty-Three §2 — Default Venue and Primary Stakes](core_23.000_forum.md#2-default-venue-and-primary-stakes) and [§4 — Forum family definitions](core_23.000_forum.md#4-forum-family-definitions--accountability-through-adjudication), routed by primary stake.
+  - When the Stakeholder System Participation challenge path stays contested, is missing or captured, or cannot grant relief, the matter goes to the independent **forum families** under [Chapter Twenty-Three §3 — Default Venue and Primary Stakes](core_23.000_forum.md#3-default-venue-and-primary-stakes) and [§6 — Forum family definitions](core_23.000_forum.md#6-forum-family-definitions--accountability-through-adjudication), routed by primary stake.
   - This is where sentients get a real way to challenge a decision, a clear repair order, or a way to learn from a repeating pattern.
-  - Where the primary stake is the meaning or validity of constitutional text, or action beyond lawful authority, the lead family is the [Constitutional Forums](core_23.000_forum.md#46-constitutional-forums).
+  - Where the primary stake is the meaning or validity of constitutional text, or action beyond lawful authority, the lead family is the [Constitutional Forums](core_23.000_forum.md#66-constitutional-forums).
   - The detailed rules for how those forums run are in [CF-23.405](corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and [CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*).
 - **Who may govern at all — [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) ([Chapter Twenty-Five](core_25.000_governance.md)):**
   - Whether governing authority itself is legitimate — who may govern, by what legitimacy mechanism, and under what scope and durable terms — is a separate question from Stakeholder System Participation and forum review.
@@ -497,10 +498,10 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 This principle does not:
 
-- **Set a deadline:** "At action" is a design default for records. Time limits for decisions, responses, and review stay where [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them, and nothing here lengthens or shortens them.
+- **Set a deadline:** "At action" is a design default for records. Time limits for decisions, responses, and review stay where [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them, and nothing here lengthens or shortens them.
 - **Open anyone's inner life:** The Act Record follows the role, as [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) requires. The [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) stands: capturing the act is not watching the actor.
 - **Outrank Safety, Truth, privacy, security, or justified confidentiality:** It never requires restricted information to be published.
-- **Turn an Act Record into a verdict:** An Act Record made at the act is a trail, not a standing finding, and it opens no standing record.
+- **Turn an Act Record into a verdict:** An Act Record made at the act is a trail, not a standing finding, and it opens no Standing Record.
 
 <a id="165-automation"></a>
 #### 16.5 Automation
@@ -564,7 +565,7 @@ This principle does not:
 
 - **What can run in parallel:**
   - Steps that need no result from each other, such as verifying different parts of the same Act Record, notices to several parties, independent reviews, and gathering inputs from different sources.
-  - [Chapter Seventeen §3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order) already works this way: the contribution track and the violation track are each decided from their own standing record and do not wait for each other.
+  - [Chapter Seventeen §3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order) already works this way: the contribution track and the violation track are each decided from their own Standing Record and do not wait for each other.
   - Independent reviews run side by side are a good fit, because neither reviewer is anchored by the other's conclusion.
 - **Parallel running is undue when it:**
   - asks one steward to hold overlapping jobs at once beyond what that steward can do well, or puts a reviewer under competing simultaneous demands;
@@ -598,10 +599,55 @@ This principle does not:
 
 This principle does not:
 
-- **Set a deadline:** Time limits for decisions, responses, and review stay where [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them. Nothing here lengthens or shortens them.
+- **Set a deadline:** Time limits for decisions, responses, and review stay where [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them. Nothing here lengthens or shortens them.
 - **Make speed the goal:** Efficiency is not raw speed ([§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency)). Neither automation nor parallel running may outrank Safety, Truth, the Rights Floor, privacy, security, or justified confidentiality.
 - **Remove required review:** Where this Constitution or adopted implementation requires an authorized reviewer, automation prepares the work and the reviewer still decides.
 - **Open anyone's inner life:** Automated capture is capture of the act, not watching the actor ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary)).
+
+<a id="166-default-window"></a>
+#### 16.6 Default Window
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency) (*more real benefit for each hour of sentient time and attention*); [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*delay no one needed is an Avoidable Burden*); [§16.5 Automation](#165-automation).
+- Read with:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (no avoidable delay);
+  - [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+- Downstream: [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*the tier windows and the numbers*); [Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies) (*a copy request that states no window of its own*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+- [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
+- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) · [O](core_05.040_band_continuity.md#avoidable-burden) · [M](core_05.040_band_continuity.md#avoidable-burden-a) · [A](core_05.040_band_continuity.md#avoidable-burden-a) · [C](core_05.040_band_continuity.md#avoidable-burden-c)
+- [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
+- [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05.030_apex_timeliness_leg.md#timeliness-constitutional-c)
+</details>
+
+<br>
+
+*In plain terms: every step this Constitution asks anyone to take has a clock. If the rule that asks for the step names no time, a default window applies, so no required step can be left open-ended.*
+
+**Default window** is the stewardship default that a required step with no window of its own is still timed, and never left open-ended. It binds human and AI stewards alike, and the institutions and systems they run:
+
+- **Every required step has a window:**
+  - Where a rule of this Constitution or of adopted implementation requires a step, answer, notice, copy, or delivery and states no window for it, the step is not open-ended.
+  - Indefinite deferral of a required step is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect and works against the [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) leg.
+- **What the default is:**
+  - For a step that is not directly about a System or an Institution, it is the Tier C window in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline): begin or answer within the Tier C intake target, and finish within the Tier C outer bound.
+  - A step directly about a System or an Institution takes the window of its own class.
+- **What overrides it:** A narrower window set by a Rights Floor, or by the rule that creates the step, controls. A rule-maker who can name a better window for a step states it, and the default is the fallback.
+- **What it is not:**
+  - It does not classify the step, or any dispute, as a Tier C matter.
+  - It does not slow a matter that has an A or B urgency finding, and it does not lengthen a window that already exists.
+
+**Scaling.** The depth of this discipline scales with [Materiality](core_05.050_band_oversight.md#materiality). The default is a floor against open-ended steps. It does not replace a window that a rule can fix with more care.
+
+This principle does not:
+
+- **Set the numbers:** The windows themselves stay in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) and the stage-target tables it points to.
+- **Make speed the goal:** Efficiency is not raw speed ([§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency)). A step that needs care is given the time that care needs, inside its window.
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Consequential Stewardship: The Steward Role
@@ -781,7 +827,7 @@ This subsection sets out the shared stewardship standard:
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [standing measurement](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened), contest pathways, or Chapter One duties with a softer internal code
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) forbid that narrowing
-- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Sixteen.
+- **Logging vs Standing Records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Sixteen.
 
 <a id="172-alignment-under-pressure"></a>
 #### 17.2 Alignment under Pressure
@@ -863,7 +909,7 @@ Those are failed tests for any steward.
   - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary);
   - [§13.2.3 Privacy](core_01.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
   - [Article VII-B](core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- Downstream: [CS-25.305 §10 inspectable attributable action](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Twenty §2.1](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) (20.000 §2.1); [Chapter Twenty §2.2](core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden) (20.000 §2.2).
+- Downstream: [CS-25.305 §10 inspectable attributable action](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a Standing-Record substitute*); [Chapter Twenty §2.1](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) (20.000 §2.1); [Chapter Twenty §2.2](core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden) (20.000 §2.2).
 
 </details>
 
@@ -902,7 +948,7 @@ Those are failed tests for any steward.
 
 <br>
 
-*In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
+*In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a Standing Record.*
 
 **Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-25.305 §10 inspectable attributable action](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) holds the log contract. Three principles govern it:
 
@@ -915,8 +961,8 @@ Those are failed tests for any steward.
   - They become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04.000_burden_traceability_verification.md#5-security-constrained-observability-and-verification-rule). This opens case by case, not as a standing license.
   - It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
 - **A log is a trail, not a verdict:**
-  - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) of verified help or harm. Writing it opens no standing record.
-  - Whoever decides access to a role pathway, a trust pathway, or another gated pathway uses a standing record, or the ordinary state of having none ([Chapter Fifteen §3.2 Silence Is the Default](core_15.000_standing_assessment.md#32-silence-is-the-default)), and never the log.
+  - The log shows who did what. It is not itself a standing finding, and it is not a [Standing Record](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) of verified help or harm. Writing it opens no Standing Record.
+  - Whoever decides access to a role pathway, a trust pathway, or another gated pathway uses a Standing Record, or the ordinary state of having none ([Chapter Fifteen §3.2 Silence Is the Default](core_15.000_standing_assessment.md#32-silence-is-the-default)), and never the log.
   - It may not be combined with logs or standing effects from other gated pathways into one reputation score, ranking, badge, or public profile ([Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects)).
 
 The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Twenty §2.2 Plain Statement of Effect and Burden](core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
@@ -941,7 +987,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - Authority boundary:
   - [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
-  - [Chapter Twenty-Three §2.3 Forum Case Records, Standing Records, and Contests](core_23.000_forum.md#23-forum-case-records-standing-records-and-contests) (23.000 §2.3);
+  - [Chapter Twenty-Three §4 Forum Cases: Intakes, Seats, Records, and Contests](core_23.000_forum.md#4-forum-cases-intakes-seats-records-and-contests) (23.000 §4);
   - [Governance](core_05.035_band_accountability.md#governance);
   - [Merits Determination](core_05.035_band_accountability.md#merits-determination);
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness).
@@ -1010,11 +1056,11 @@ The burden this duty places on a steward who carries consequential authority is 
 
 **Procedural constitutional effect:**
 - **Threshold:** A submission that makes a credible and materially relevant showing under the applicable intake, reporting, or preservation standard must receive a traceable path: it is received on time, evidence is preserved where preservation is warranted, it is routed to whoever should handle it, it gets a response with reasons, and it is reviewed by someone independent of those whose actions are being examined.
-- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a standing record, each under the applicable owner layer:
-  - **Forum claim:** a self-organized group may file the claims the owner layer opens to it, such as a [capacity-failure claim](core_23.000_forum.md#capacity-failure-routing).
-  - **Forum case record:** it opens when the matter is filed, and by itself changes no one's standing ([Chapter Twenty-Three §2.3 Forum Case Records, Standing Records, and Contests](core_23.000_forum.md#23-forum-case-records-standing-records-and-contests)).
-  - **Standing record:** the work may support a contribution record, which [Chapter Eighteen §2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_15.000_standing_assessment.md#32-silence-is-the-default).
-  - **Contest or correction:** the work may show that an existing standing record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Twenty-Three §2.3 Forum Case Records, Standing Records, and Contests](core_23.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary)).
+- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a Standing Record, each under the applicable owner layer:
+  - **Forum claim:** a self-organized group may file the claims the owner layer opens to it, such as a [capacity-failure claim](core_23.000_forum.md#57-capacity-failure-is-heard-outside-the-starved-body).
+  - **Forum case record:** it opens when the matter is filed, and by itself changes no one's standing ([Chapter Twenty-Three §4 Forum Cases: Intakes, Seats, Records, and Contests](core_23.000_forum.md#4-forum-cases-intakes-seats-records-and-contests)).
+  - **Standing Record:** the work may support a contribution record, which [Chapter Eighteen §2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_15.000_standing_assessment.md#32-silence-is-the-default).
+  - **Contest or correction:** the work may show that an existing Standing Record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Twenty-Three §4 Forum Cases: Intakes, Seats, Records, and Contests](core_23.000_forum.md#4-forum-cases-intakes-seats-records-and-contests); [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary)).
 - **Must not substitute:** Who the author is, who they are affiliated with, where the submission came from, or the fact that they hold no conventional credentials must not be used in place of evaluating the work itself — its method, its evidence, its provenance, how uncertain it is, and its constitutional relevance.
 
 **Wrongdoing found in the course of contribution:**
@@ -1022,7 +1068,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - **Reporting is not policing:**
   - Contribution creates no duty, license, or mandate to look for wrongdoing, investigate suspected wrongdoers, surveil, infiltrate, confront, expose, punish, or otherwise act against anyone. Not looking is not a failing.
   - Reporting what one came across is protected. Going looking for a sentient's wrongdoing is not part of the contribution, and the contribution does not make it legitimate. It stays subject to the [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary), to [privacy](core_01.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection, and to [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
-  - An allegation is an input, not a violation finding. It does not supply a violation input until independently verified ([Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate)), and an unresolved allegation changes no one's standing ([Chapter Twenty-Three §2.3 Forum Case Records, Standing Records, and Contests](core_23.000_forum.md#23-forum-case-records-standing-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
+  - An allegation is an input, not a violation finding. It does not supply a violation input until independently verified ([Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate)), and an unresolved allegation changes no one's standing ([Chapter Twenty-Three §4 Forum Cases: Intakes, Seats, Records, and Contests](core_23.000_forum.md#4-forum-cases-intakes-seats-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
   - The reporter supplies evidence and testimony. Verification, record opening, and any consequence belong to the independent offices and forums this Constitution assigns, never to the reporter or the community that found it.
   - Where acting on a find could lead to violence, tampered or lost evidence, or exploitation, the safety limits below apply, and the find goes to independent review or an authorized role instead.
 

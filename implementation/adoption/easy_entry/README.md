@@ -150,7 +150,7 @@ These pages are for a first-time reader. Keep house terms out of the body. Offic
 
 | Do not use | Use instead |
 |---|---|
-| standing record / standing score / routing material | official record of verified help or harm; a score of how trusted you are; a report waiting to be looked at, not already a verdict |
+| Standing Record / standing score / routing material | official record of verified help or harm; a score of how trusted you are; a report waiting to be looked at, not already a verdict |
 | adopter / operations-guide / incorporation | a body that has agreed to follow this Constitution; using the ideas as a handbook; bringing this Constitution into a body's own rules |
 | substrate / parent-system / derived sentient / overlay | body or form; the system that made you; a copy or fork; a separate extra rulebook |
 | forum / Class A / material stake / steward | independent review; the highest-impact kind of system; how much is actually on the line; those running the system |

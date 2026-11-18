@@ -90,7 +90,7 @@ If any "cannot bind" row in the first-adopter kit's [scope honesty](implementati
 | Take the next day-to-day step as a steward (refuse, log, certify, contest, remedy, emergency) | [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md) |
 | Screen your own fitness and declare your own conduct | [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md) (a different page from this one) |
 | Follow a process: challenge, independent review, certification, help and harm, or crisis clocks | [Process guides G01–G05](implementation/adoption/easy_entry/README.md#process-guides) |
-| See how certification, standing records, forums, and remedy connect | [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md) |
+| See how certification, Standing Records, forums, and remedy connect | [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md) |
 | Understand how the whole design fits together before committing | [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md) (about 40 minutes) |
 | Trace which records hold an action accountable | [Record overview](guides/RECORD_OVERVIEW.md) |
 | Everything else for general readers (FAQ, Rights Floor, word lookup, print pack, full text) | [README: Quick Find](README.md#quick-find) |

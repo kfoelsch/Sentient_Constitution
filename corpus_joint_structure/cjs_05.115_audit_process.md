@@ -134,7 +134,7 @@ Audit when any of the following applies (often more than one):
 
 - **Class, impact, or dependency requires it** — including **Class A**, **Class B**, and **Class C** systems, and institution or forum functions that materially affect sentients
 - **Material change** — capability, scope, behavior, dependency, risk, incentive structure, or governance changes enough that prior checks no longer describe reality
-- **Scheduled audit** — for a system or Institution, at the audit midpoint of its class's certification interval ([Chapter Twenty-Three §6 Review cadence](../core_23.000_forum.md#review-cadence)); for any other subject, on a schedule scaled to its impact
+- **Scheduled audit** — for a system or Institution, at the audit midpoint of its class's certification interval ([Chapter Twenty-Three §8 Review cadence](../core_23.000_forum.md#review-cadence)); for any other subject, on a schedule scaled to its impact
 - **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
 - **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-6.345 (*System lifecycle*) ACA), without treating monitoring alone as a complete audit
 - **Certification or recertification cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens

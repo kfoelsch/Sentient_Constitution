@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XXIII](../../../core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06.030_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right)
 - [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
 - [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
-- If you conclude a **forum family** is in play on these facts, [Chapter Twenty-Three §3](../../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
+- If you conclude a **forum family** is in play on these facts, [Chapter Twenty-Three §5](../../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

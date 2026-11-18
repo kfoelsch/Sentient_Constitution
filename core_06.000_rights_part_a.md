@@ -158,7 +158,7 @@ Enforcement depends on real checks, not just rules on paper:
 
 **Disputes and timely process**
 - **Justice, restitution, and restriction boundaries** — **Article XX** (*Justice After Verified Violation*)
-- **Conflict resolution, rights collisions, and emergencies** — **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Twenty-Three §6.1** (*Emergency Measures and Continuation Burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **Conflict resolution, rights collisions, and emergencies** — **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test)
 - **Key Practical Process Pipelines** — **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation); [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
@@ -400,7 +400,7 @@ This Article sets out the floor that protects future generations:
   - [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity),
   - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility), and
   - [Existential Risk](core_05.040_band_continuity.md#existential-risk).
-- Downstream: **Chapter Twenty-Three §6.1** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
+- Downstream: **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
 
@@ -674,7 +674,7 @@ This Article sets out the floors for product data handling, collection notice, d
   
   The depth of the notice scales with **Materiality** and the sensitivity of the data, but no data-collecting product is exempt. Data must not be used for a purpose that was not disclosed. A new purpose requires new notice first and, where **Consent** is required, new consent.
 - **Right to deletion:** Sentients may require the deletion of data about them, including data derived or inferred from it. On request, the operator must:
-  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
+  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
   - pass the request on to everyone it shared the data with; and
   - confirm what was deleted.
   
@@ -896,7 +896,7 @@ This Article sets out the right to care, the rules that keep it from being denie
   - public-health measures such as vaccination requirements, which must meet the safeguards in [**Article VII-A** (*Self-Ownership of Body*)](core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*, *Public-health requirements*); and
   - intervention without consent during a physical or mental health crisis — for example, where a sentient is unconscious, or is a danger to themselves or others — which is governed by [**Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)](core_06.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) and must be the least intrusion necessary, time-limited, independently reviewed, and reversible.
   
-  Emergency measures are also subject to [**Chapter Twenty-Three §6.1**](core_23.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind).
+  Emergency measures are also subject to [**Chapter Twenty-Three §8.1**](core_23.000_forum.md#81-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
   - Cost, distribution, workforce, and system design are handled by the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Twenty-Nine** discipline.
   - None of that text may be read to narrow this right.

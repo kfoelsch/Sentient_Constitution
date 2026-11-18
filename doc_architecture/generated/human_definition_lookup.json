@@ -117,7 +117,7 @@
       "href": "../../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction"
     }
   ],
-  "term_count": 310,
+  "term_count": 315,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -144,7 +144,7 @@
       "term": "Adoption Charter",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#adoption-charter",
-      "plain_terms": "an **Adoption Charter** is the published statement of how a settled adopter runs the parts other adopters need to deal with it: who decides its forum questions, who keeps its standing records and which office to ask, and how much trust it extends to each other adopter. It is not the act of adopting (that is the adoption document) and not the passage from legacy operation (that is the Adoption Transition Record). It begins when the Adoption Transition ends.",
+      "plain_terms": "an **Adoption Charter** is the published statement of how a settled adopter runs the parts other adopters need to deal with it: who decides its forum questions, who keeps its Standing Records and which office to ask, and how much trust it extends to each other adopter. It is not the act of adopting (that is the adoption document) and not the passage from legacy operation (that is the Adoption Transition Record). It begins when the Adoption Transition ends.",
       "href": "../../core_05.040_band_continuity.md#adoption-charter"
     },
     {
@@ -463,6 +463,13 @@
       "href": "../../core_05.055_band_participation.md#consent-sexual"
     },
     {
+      "term": "Constitutional Archive",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#constitutional-archive",
+      "plain_terms": "the Constitutional Archive is the sealed shelf. Restricted material is kept whole and safe, not lost or destroyed, and can be opened later by lawful order or for audit. Sealing never means disappearing.",
+      "href": "../../core_05.035_band_accountability.md#constitutional-archive"
+    },
+    {
       "term": "Constitutional Charter",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#constitutional-charter",
@@ -517,6 +524,13 @@
       "anchor": "#constitutional-emergency-and-contingency",
       "plain_terms": null,
       "href": "../../core_05.040_band_continuity.md#constitutional-emergency-and-contingency"
+    },
+    {
+      "term": "Constitutional Library",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#constitutional-library",
+      "plain_terms": "the Constitutional Library is the public shelf for forum decisions. Everything a forum may lawfully show is kept here, and anything held back leaves a marker here, so no one can hide that a decision exists.",
+      "href": "../../core_05.035_band_accountability.md#constitutional-library"
     },
     {
       "term": "Constitutional Tetrad",
@@ -638,6 +652,13 @@
       "href": "../../core_05.055_band_participation.md#dignity-and-equal-moral-standing"
     },
     {
+      "term": "Direct Case",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#direct-case",
+      "plain_terms": "a Direct Case is a dispute filed with a forum that does not start from a Certification Record, a Standing Record, or an Adoption Transition Record. The forum routes it by what is mainly at stake.",
+      "href": "../../core_05.035_band_accountability.md#direct-case"
+    },
+    {
       "term": "Distributed Understanding",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
@@ -734,6 +755,13 @@
       "anchor": "#epistemic-integrity",
       "plain_terms": "the methods and evidence behind an evaluation must stay honest and checkable — prestige, opacity, or paperwork cannot stand in for truth.",
       "href": "../../core_05.050_band_oversight.md#epistemic-integrity"
+    },
+    {
+      "term": "Essential Record",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#essential-record",
+      "plain_terms": "an Essential Record is a non-routine entry the constitutional order could not be rebuilt without. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it.",
+      "href": "../../core_05.035_band_accountability.md#essential-record"
     },
     {
       "term": "Essential-Environment Non-Commodification",
@@ -1145,7 +1173,7 @@
       "term": "Institutional Certification Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-certification-record",
-      "plain_terms": "an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.",
+      "plain_terms": "an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a Standing Record.",
       "href": "../../core_05.040_band_continuity.md#institutional-certification-record"
     },
     {
@@ -1807,6 +1835,13 @@
       "href": "../../core_05.040_band_continuity.md#review-and-correction-duty"
     },
     {
+      "term": "Review Case",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#review-case",
+      "plain_terms": "a Review Case is a dispute that contests a Certification Record, a Standing Record, or an Adoption Transition Record from another process. The forum reviews the contested record and how it is being used. It does not redo the other process.",
+      "href": "../../core_05.035_band_accountability.md#review-case"
+    },
+    {
       "term": "Risk",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#risk",
@@ -1957,7 +1992,7 @@
       "term": "Standing Effect",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "plain_terms": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those standing records and cannot merge, average, net, or offset the Contribution and Violation axes.",
+      "plain_terms": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those Standing Records and cannot merge, average, net, or offset the Contribution and Violation axes.",
       "href": "../../core_05.035_band_accountability.md#standing-effect"
     },
     {
@@ -2097,7 +2132,7 @@
       "term": "System Classification Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-classification-record-constitutional",
-      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a Standing Record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-classification-record"
     },
     {
@@ -2111,7 +2146,7 @@
       "term": "System Data Types Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-data-types-record-constitutional",
-      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a Standing Record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-data-types-record"
     },
     {

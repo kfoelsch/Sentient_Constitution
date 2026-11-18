@@ -142,7 +142,7 @@ A reader-facing lookup table lives in the [joint-structure reader guide](cjs_rea
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **Core** (Sentient Constitution) | **Chapter One §1 Purpose, Role, and Scope**, **Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations**, **Chapter Twenty-Three §7 Forum support before, during, and after review — oversight architecture** | Chapters and sections in the numbered constitutional files |
+| **Core** (Sentient Constitution) | **Chapter One §1 Purpose, Role, and Scope**, **Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations**, **Chapter Twenty-Three §9 Forum support before, during, and after review — oversight architecture** | Chapters and sections in the numbered constitutional files |
 | **Preamble** | **Preamble §2 Measurements Overview** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |

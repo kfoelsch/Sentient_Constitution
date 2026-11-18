@@ -56,7 +56,7 @@ This page does **not**:
 - Replace [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality) formation proportionality or [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#formation-and-authorization-proportionality-minimum) with a cheaper path
 - Let an estimate, a shared note, or “we are Profile 2” claim constitutional protection while dodging matching obligations
 - Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
-- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
@@ -106,7 +106,7 @@ Highest applicable class governs ([CS-9.305 Part A §2.2](../../corpus_systems/c
 
 **Shared plumbing is allowed; collapsed function is not.** Families may share staff, buildings, and software and still must stay constitutionally distinct ([CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-family-distinction-and-non-collapse-rule)). Mapping a family’s work onto an existing independent adjudicative body is allowed if the concrete forums, benches, or officers are identified ([CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-minimum-structural-availability-by-family)). Mapping onto the founding Slack is not.
 
-**Independence is a headcount tax.** [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
+**Independence is a headcount tax.** [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
 
 ---
 
@@ -127,7 +127,7 @@ Two **institution tracks** live in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION
 | Track | Kit | What you are founding or naming | When it can go live |
 |---|---|---|---|
 | **Institution A** | Institution kit | Ordinary cooperative, research body, commons, or commercial form with a published [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) | A body can bind the named scope and passes the institution-kit cliffs. A Chapter Twenty-Seven adoption document is **not** required |
-| **Institution B** | Same kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) | Oversight, contest-route admin, standing-record admin, amendment admin, certification steward | After a recorded §10.1–§10.2 adoption document |
+| **Institution B** | Same kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) | Oversight, contest-route admin, Standing-Record admin, amendment admin, certification steward | After a recorded §10.1–§10.2 adoption document |
 | **Forum A** | Forum kit | A published backup, external reviewer, or existing adjudicative body the cooperating crew does **not** solely staff | Named on an adoption document, or used as operations-guide backup. **Not** a Chapter Twenty-Three forum family |
 | **Forum B** | Same kit | The six Chapter Twenty-Three families as a published CF-23.405 structure | After a recorded adoption document. Drafting the map before an adoption document is scaffolding only |
 
@@ -156,7 +156,7 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
 5. Chapter Twenty-Seven §11.1–§11.2 adoption document in that body's custody
    (Forum Track A naming goes on the adoption document)
         ↓
-6. Institution Track B functions (oversight, standing-record admin,
+6. Institution Track B functions (oversight, Standing-Record admin,
    amendment admin, certification steward) — same institution kit
         ↓
 7. Forum Track B: CF-23.405 §2 map for all six families
@@ -187,7 +187,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 1. Steps 5 to 8 above are live: adoption document recorded, certification steward function named, forum families mapped and staffed.
 2. At least one certification cycle has used component findings under CS-9.305 and CS-9.310 §7.10, with decoupling verified on the record at least once.
-3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-escalation-and-questions-for-ruling).
+3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Twenty-Three §7](../../core_23.000_forum.md#7-escalation-and-questions-for-ruling).
 4. The four seats of [Chapter Eight](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) are filled, so the owner of a standard is never its recognizer or the hearer of challenges to it.
 
 **Outline of the mechanism (to be settled).**
@@ -371,7 +371,7 @@ Worked row, because this is the case the backlog named.
 | **N = 40, Class B deployed system others cannot substitute in time** | Profile 1 as operations-guide **for the duties they can keep**. Full adoption waits until they can bind hosted or in-house family capacity **and** fund remedy under Chapter Twenty §4.2, including its documented-departure conditions. CJS-29.110 §4 already wants fifteen lane sentients at Class B before forums | “We are a small lab, so Class P.” Standing up lock machinery. Relabeling the safety team as six forum families |
 | **N = 40, wants in-house six families** | Does not fit Profile 4. Stop | Any sentence that starts “we adopted” and ends with the same forty sentients on every bench |
 
-**Shared administration does not save this row.** CF-23.405 §3 lets families share software and buildings. It does not let one recusal-compromised crew be the Sentient, Institutional, Integrity, and Constitutional merits path at once. Anti-self-judging ([Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)) is why.
+**Shared administration does not save this row.** CF-23.405 §3 lets families share software and buildings. It does not let one recusal-compromised crew be the Sentient, Institutional, Integrity, and Constitutional merits path at once. Anti-self-judging ([Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture)) is why.
 
 **What a forty-person lab should do instead, in order:**
 

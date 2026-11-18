@@ -19,14 +19,7 @@ Chapter Twenty-Two is the constitutional owner of **named pattern applications a
 
 *In plain terms: this chapter applies [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
 
-**Purpose:** Chapter Twenty-Two routes named patterns into the decision model in **Chapter Twenty-One sections 4 to 6**. Each is judged by what the conduct actually does. The patterns are:
-
-- attacks on participation and accountability-pathway integrity (**section 2**);
-- blocking contest, review, and verification (**section 3**);
-- corrupting and commanding duty-holders (**section 4**);
-- shielding misconduct and failing to enforce (**section 5**);
-- structural control through concentration and dependency (**section 6**); and
-- obstruction of accountability (**section 7**).
+**Purpose:** Chapter Twenty-Two answers a practical question that follows from [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation): how do recurring patterns of attack on constitutional duties enter the ACMD decision? Chapter Twenty-One sets the criteria and safeguards for deciding whether conduct already in Violation Axis slot 7, 8, or 9 is also anti-constitutional misconduct (ACM). This chapter names the recurring patterns and routes each one into that same decision model (**Chapter Twenty-One sections 4 to 6**). A pattern name is a way in, not a violation finding. Each case is judged by what the conduct actually does.
 
 **Role:** The chapter is jointly owned with Chapter Twenty-One, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
 
@@ -221,7 +214,7 @@ Evaluators assess these patterns as follows:
 - Downstream: [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05.035_band_accountability.md#contestability) and [Transparency](core_05.050_band_oversight.md#transparency) in **Chapter Five** where contest-pathway usability and publication are material.
-- Forum operations: [Chapter Twenty-Three §2](core_23.000_forum.md#2-default-venue-and-primary-stakes) (23.000 §2) through [§3](core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) for intake triage, consolidation, and representative treatment.
+- Forum operations: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) through [§5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) for intake triage, consolidation, and representative treatment.
 - Distinct pattern: [§3.3](#33-info-sphere-zone-flooding) covers info-sphere flooding.
 
 </details>
@@ -496,7 +489,7 @@ when the exchange or expected exchange is materially linked to one or more of th
 - Producing Rights-Floor degradation, material rollback, system capture, or an equivalent structural workaround.
 - Making constitutional process or remedies unusable in practice through corrupt dependency, conflicted control, or concealed influence.
 
-Scope covers both sides of the exchange and anyone who routes it, provided the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports accountable attribution under the **Chapter Twenty-One section 6** safeguards. Covered actors include:
+Scope covers both sides of the exchange and anyone who routes it, provided the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Chapters Two through Four**, supports accountable attribution under the **Chapter Twenty-One section 6** safeguards. Covered actors include:
 - the **giver**, **offeror**, or **promisor**;
 - the **solicitor**;
 - the **recipient** or **beneficiary**;
@@ -591,7 +584,7 @@ involving any of the following authority signals:
 
 that requires, induces, or foreseeably causes unlawful conduct or constitutional violation.
 
-**Unlawful or unconstitutional command conduct** is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
+**Unlawful or unconstitutional command conduct** is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
 - the **issuer**;
 - the **authorizer**;
 - the **supervisor**;
@@ -727,9 +720,9 @@ To be covered by [§4.2 Unlawful or Unconstitutional Command Conduct](#42-unlawf
 
 - the directive was unlawful or unconstitutional;
 - it had one of the material effects listed in [§4.2 Unlawful or Unconstitutional Command Conduct](#42-unlawful-or-unconstitutional-command-conduct) above; and
-- the standing record supports holding a specific sentient, role, or system component responsible.
+- the Standing Record supports holding a specific sentient, role, or system component responsible.
 
-Real emergency powers are different. They are limited to what is truly necessary and stay under **Chapter One** and **Chapter Twenty-Three §6.1** (*Emergency Measures and Continuation Burden*). No one may use them as a pretext for an unconstitutional order.
+Real emergency powers are different. They are limited to what is truly necessary and stay under **Chapter One** and **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*). No one may use them as a pretext for an unconstitutional order.
 
 <a id="425-criteria-routing"></a>
 
@@ -878,7 +871,7 @@ because an actor did any of the following regarding anti-constitutional conduct:
 
 ##### 5.1.2 Actors in Scope
 
-The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
+The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
 - the **reward grantor**;
 - the **beneficiary**;
 - the **supervisor**;
@@ -941,7 +934,7 @@ Where proportionate and lawful, disputed rewards must be subject to any of the f
 - indemnity for good-faith lawful conduct; or
 - proportionate settlement of disputed claims.
 
-[§5.1 Reward, Protection, or Normalization of Anti-Constitutional Conduct](#51-reward-protection-or-normalization-of-anti-constitutional-conduct) applies only where the standing record shows a materially improper link between the benefit or protection and any of the following:
+[§5.1 Reward, Protection, or Normalization of Anti-Constitutional Conduct](#51-reward-protection-or-normalization-of-anti-constitutional-conduct) applies only where the Standing Record shows a materially improper link between the benefit or protection and any of the following:
 
 - anti-constitutional conduct;
 - concealment of it;
@@ -1060,7 +1053,7 @@ any of the following for materially substantiated anti-constitutional misconduct
 
 ##### 5.2.2 Actors in Scope
 
-The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
+The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Chapters Two through Four**, supports holding that actor accountable under the **Chapter Twenty-One section 6** safeguards:
 - the **prosecutor**;
 - the **civil-enforcement counsel**;
 - the **investigator**;
@@ -1174,7 +1167,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - [Article XXV-C](core_06.030_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum recusal and enforcement routing*), applying the general floor in
   - [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*);
   - **CF-23.410** (*panel formation, disclosure, recusal, and lawful bench constitution*).
-- Forum routing: [Chapter Twenty-Three §2](core_23.000_forum.md#2-default-venue-and-primary-stakes) (23.000 §2) (*Integrity default lead*); [Chapter Twenty-Three §3](core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §3) (*cross-forum anti-self-judging rule*).
+- Forum routing: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) (*Integrity default lead*); [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5) (*cross-forum anti-self-judging rule*).
 - Read with:
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness),
   - [Contestability](core_05.035_band_accountability.md#contestability),
@@ -1240,7 +1233,7 @@ The pattern is especially heightened where the panelist sits on a **Constitution
 
 ##### 5.3.3 Forum Routing
 
-Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Twenty-Three §2** (*Default Venue and Primary Stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Twenty-Three §3** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*):
+Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Twenty-Three §3** (*Default Venue and Primary Stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*):
 - **recusal failure**; or
 - **biased panel participation**.
 
@@ -1416,7 +1409,7 @@ Accountability does not require any of the following:
 - platform status; or
 - an otherwise visible relationship to the infrastructure.
 
-The conduct is in scope wherever the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), the standing record, on evidence that meets the verification standards of **Chapters Two through Four**, supports accountable attribution under the **Chapter Twenty-One section 6** safeguards, and the standing record shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
+The conduct is in scope wherever the conduct is verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), the Standing Record, on evidence that meets the verification standards of **Chapters Two through Four**, supports accountable attribution under the **Chapter Twenty-One section 6** safeguards, and the Standing Record shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
 - created it;
 - caused it;
 - maintained it;
@@ -1547,9 +1540,9 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 <br>
 
-*In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Fifteen and Sixteen.*
+*In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, Standing Records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Fifteen and Sixteen.*
 
-**Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this section evaluates the conduct that produces, maintains, or exploits that disablement.
+**Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, Standing Records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this section evaluates the conduct that produces, maintains, or exploits that disablement.
 
 Where a Violation Axis finding already occupies slot 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **Chapter Twenty-One section 4** criteria where it produces the equivalent constitutional effect:
 

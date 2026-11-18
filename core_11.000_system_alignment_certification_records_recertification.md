@@ -9,7 +9,7 @@
 > - **Anti-relocation rule:** Chapter Eleven does not restate Chapter Nine evaluation mechanics, Chapter Ten forum-process or outcome rules, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. **§5** states the standing bridge. Chapter Eleven also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation); [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Three forum supervision; Chapters Two through Four verification discipline.
-> **Downstream:** Chapter Fifteen standing records and verified inputs; Chapter Seventeen standing effects.
+> **Downstream:** Chapter Fifteen Standing Records and verified inputs; Chapter Seventeen standing effects.
 
 </details>
 
@@ -62,7 +62,7 @@ Chapter Eleven is the constitutional owner of these parts of system alignment ce
   - [Chapter Nine §2.2 Certification at a Glance](core_09.000_system_alignment_certification_evaluation.md#22-certification-at-a-glance) charts the whole process; and
   - the chart of Phases III to VI is in [Chapter Ten §3 Certification Outcomes](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes).
 - It hands verified facts to Chapter Fifteen only through the verified-input gate (**section 5.3**).
-- Standing records and their effects are decided in Chapters [Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement), not here.
+- Standing Records and their effects are decided in Chapters [Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement), not here.
 
 **Chapter scope:** The chapter covers:
 
@@ -95,7 +95,7 @@ The chapter leaves:
   - [Record Integrity](core_05.035_band_accountability.md#record-integrity) (*the reliability rule this section applies to the System Certification Record*);
   - [Chapter Eight §9 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (8.000 §9); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
   - [**Def.O1** *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
-- Downstream: [§3](#3-recertification-and-reopening) (*recertification and reopening*); [§5.3](#53-verified-input-gate) (*verified-input gate*); [Chapter Twenty-Three §2.3](core_23.000_forum.md#23-forum-case-records-standing-records-and-contests) (23.000 §2.3) (*forum case records, standing-record contests*).
+- Downstream: [§3](#3-recertification-and-reopening) (*recertification and reopening*); [§5.3](#53-verified-input-gate) (*verified-input gate*); [Chapter Twenty-Three §4](core_23.000_forum.md#4-forum-cases-intakes-seats-records-and-contests) (23.000 §4) (*forum case records, Standing-Record contests*).
 - Read with:
   - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification);
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
@@ -325,7 +325,7 @@ The System Certification Record must identify, at minimum:
 The System Certification Record must also contain a concise **operating plan**, scaled to system class and material impact. The plan summarizes requirements on the same System Certification Record, and no separate document is required. It must state:
 
 - the certified scope, population, and duration of any authorized operation;
-- where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*) must be completed;
+- where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*) must be completed;
 - for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate);
 - each certification condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of violation under [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate);
 - who monitors actual outcomes and safeguards, what evidence and indicators they use, how often they check, and which material findings or thresholds require action or reopened review;
@@ -461,7 +461,7 @@ Correction, fulfillment, and release of certification conditions follow the inde
 
 *In plain terms: a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new System Certification Record linked to the last one.*
 
-A **System Certification Record** must be recertified on the cadence set for its system class in [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence.
+A **System Certification Record** must be recertified on the cadence set for its system class in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence.
 
 **New record for each certification pass.** Each later certification pass (a recertification, a reopened review, or a fresh review) opens a new System Certification Record. The new System Certification Record:
 
@@ -583,7 +583,7 @@ This adds to the step-down bullets above and does not replace them. The operator
 
 Where an initial evaluation, a recertification, a reopened review, or a fresh review finds misalignment:
 
-- the matter is classified under the materiality tiers of [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
+- the matter is classified under the materiality tiers of [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline);
 - it is presumptively placed in the tier that matches the system's class (for example, a misaligned Class A system is presumptively Tier A);
 - intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds; and
 - an overrun is reviewed as that section requires.
@@ -721,20 +721,20 @@ Direct access to a forum path remains available when delay would materially enda
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing).
-- Downstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*standing records and verified-input gate*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*standing effects and integration*).
+- Downstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Standing Records and verified-input gate*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*standing effects and integration*).
 - Read with: **Article III-A** (*survival-essential access where certification gates delivery*).
 - Subsections:
   - [§5.1](#51-what-a-system-certification-record-can-pass-on-to-standing) (*what a System Certification Record can pass on to standing*);
   - [§5.2](#52-every-certification-outcome) (*every certification outcome*);
   - [§5.3](#53-verified-input-gate) (*verified-input gate*);
-  - [§5.4](#54-contribution-standing-record) (*contribution standing record*); and
-  - [§5.5](#55-violation-standing-record) (*violation standing record*).
+  - [§5.4](#54-contribution-standing-record) (*contribution Standing Record*); and
+  - [§5.5](#55-violation-standing-record) (*violation Standing Record*).
 
 </details>
 
 <br>
 
-*In plain terms: certification can feed standing, but it is not standing. Any System Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fifteen, but only through a strict gate. Chapters Fifteen and Twenty alone decide standing records and their effects.*
+*In plain terms: certification can feed standing, but it is not standing. Any System Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fifteen, but only through a strict gate. Chapters Fifteen and Twenty alone decide Standing Records and their effects.*
 
 This section is sub-phase **VIb** of Phase VI (Operate), after [§3 Recertification and Reopening](#3-recertification-and-reopening) and [§4 Challenging a Certification](#4-challenging-a-certification) (**VIa**). It is the standing bridge.
 
@@ -778,7 +778,7 @@ A System Certification Record may feed Chapter Fifteen standing only when it is 
 
 #### 5.4 Contribution Standing Record
 
-Positive certification, validation, recertification, remediation completion, or fulfillment of or release from a certification condition may supply verified input for a **contribution standing record** where it demonstrates:
+Positive certification, validation, recertification, remediation completion, or fulfillment of or release from a certification condition may supply verified input for a **contribution Standing Record** where it demonstrates:
 
 - constitutional benefit;
 - competent stewardship;
@@ -791,7 +791,7 @@ Positive certification, validation, recertification, remediation completion, or 
 
 #### 5.5 Violation Standing Record
 
-These items, in the System Certification Record, may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution:
+These items, in the System Certification Record, may supply verified input for a **violation Standing Record** where the facts support adverse classification and actor-specific attribution:
 
 - withdrawal of certification;
 - concealed misclassification;

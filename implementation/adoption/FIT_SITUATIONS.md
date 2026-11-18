@@ -52,7 +52,7 @@ This page does **not**:
 - Add adopter types, duties, measurement families, or forum families
 - Let a ranked sketch, a shared note, or “this situation is a good fit” claim constitutional protection while dodging matching obligations
 - Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
-- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
@@ -88,7 +88,7 @@ Two modes of use are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATI
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation |
 | **Full adoption** | A qualifying body records a Chapter Twenty-Seven adoption document, with Chapter Twenty-Nine custody, then [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) migration | Only after that adoption document exists in **that body’s** custody |
 
-Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) **without** a Chapter Twenty-Seven adoption document. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that adoption document. A Institutional Charter draft is not the adoption document, and the kit fill-in is not a live Institutional Charter.
+Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) **without** a Chapter Twenty-Seven adoption document. Track B (oversight, certification steward, Standing-Record admin, amendment admin) waits on that adoption document. A Institutional Charter draft is not the adoption document, and the kit fill-in is not a live Institutional Charter.
 
 **Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
@@ -141,7 +141,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
 
-**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge windows on outages ([Chapter Twenty-Three §6.1 Emergency measures and continuation burden](../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
+**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge windows on outages ([Chapter Twenty-Three §8.1 Emergency measures and continuation burden](../../core_23.000_forum.md#81-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
 
 <a id="43-two-party-mixed-cooperation"></a>
 ### 4.3 Two-party mixed cooperation (the first-adopter path)
@@ -216,10 +216,10 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | A declaration, two declarations stapled, or §10.3 joining |
 | More than two sentients | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | Live §10.3 rules; CS-6.350 phase names for headcount growth |
 | Founding a cooperative, research body, commons, or commercial form | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | A live Institutional Charter until published in that body’s custody |
-| Founding oversight, certification-steward, standing-record, or amendment machinery | Same institution kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) Track B | Live Track B before a recorded Chapter Twenty-Seven adoption document |
+| Founding oversight, certification-steward, Standing-Record, or amendment machinery | Same institution kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) Track B | Live Track B before a recorded Chapter Twenty-Seven adoption document |
 | Naming independent review, or founding forum families after an adoption document | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | A markdown panel; staffing Track A from the cooperating crew |
 | Fitness screen plus own-conduct | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Adoption |
-| Day-to-day next step at 2 a.m. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | A standing record or a parallel morals stack |
+| Day-to-day next step at 2 a.m. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | A Standing Record or a parallel morals stack |
 | Phased migration **after** a recorded adoption document | [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) | Using this page, or a Institutional Charter draft, as phase entry |
 
 Filling any row is not adoption. Opening this folder is not adoption.
