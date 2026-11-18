@@ -214,6 +214,28 @@ _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational
 # **Environment Forums**, **Integrity Forums**, **Constitutional Forums** (and the singular **Forum**) when the family is meant. Generic
 # uses stay lowercase: forum family, lead forum, the forum, forum process. Only a capitalized family name followed by lowercase forum(s) is flagged.
 _FORUM_FAMILY_CASING = re.compile(r"\b(?:Sentient|Technical|Institutional|Environment|Integrity|Constitutional) (?:forum|forums)\b")
+# **Standing Record** is a defined term (Chapter Five; custodian decision, 2026-11-17): both words are capitalized in prose, as in
+# **Forum Case Record** and **System Certification Record**, and so is the hyphenated modifier (**Standing-Record custody**). Qualifiers
+# before it (contribution, violation, verified, operator) are adjectives and keep their own casing. Markdown link targets, inline code,
+# and HTML ``id`` attributes stay lowercase. doc_architecture.md keeps the wording each dated move used.
+_STANDING_RECORD_ANY_CASE = re.compile(r"(?<![A-Za-z0-9_-])standing[ -]records?(?![A-Za-z0-9_])", re.IGNORECASE)
+# All-caps chapter titles (CHAPTER FIFTEEN: STANDING RECORDS) are title casing, not prose.
+_STANDING_RECORD_CASING_OK = frozenset(
+    {
+        "Standing Record", "Standing Records", "Standing-Record", "Standing-Records",
+        "STANDING RECORD", "STANDING RECORDS", "STANDING-RECORD", "STANDING-RECORDS",
+    },
+)
+_STANDING_RECORD_CASING_EXEMPT = frozenset({"doc_architecture.md"})
+# Labels inside ```mermaid and ```text fences are prose (diagram labels, copy-paste announcement and template text), so the space-separated
+# form is checked there too; other fences (code, JSON, shell) are skipped.
+_STANDING_RECORD_FENCE_PROSE = frozenset({"mermaid", "text"})
+_STANDING_RECORD_SPACED = re.compile(r"(?<![A-Za-z0-9_#/-])standing records?(?![A-Za-z0-9_-])", re.IGNORECASE)
+# **Certification Record** (**System Certification Record**, **Institutional Certification Record**, together **System or Institutional Certification
+# Record**) is a defined term (Chapters Eleven and Fourteen; custodian decision, 2026-11-17): both words are capitalized, like **Standing Record**. The same
+# link-target, code, id, fence, and all-caps-title exemptions apply; doc_architecture.md keeps the wording each dated move used.
+_CERT_RECORD_ANY_CASE = re.compile(r"(?<![A-Za-z0-9_-])certification records?(?![A-Za-z0-9_-])", re.IGNORECASE)
+_CERT_RECORD_CASING_OK = frozenset({"Certification Record", "Certification Records", "CERTIFICATION RECORD", "CERTIFICATION RECORDS"})
 _SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
 _DEFINITION_MAP_LABEL = re.compile(r"\*\*Definition map\.\*\*|\bDefinition map\.", re.IGNORECASE)
 _ROUTER_READ_LABEL = re.compile(r"^\*\*Router read:\*\*", re.IGNORECASE)
@@ -825,6 +847,60 @@ def run_internal_regression_checks() -> None:
             "Internal regression failed: a lowercase 'forum(s)' after a forum family name was not flagged, or a capitalized name, generic 'forum', a link target, code, or an id was flagged wrongly.",
         )
 
+    standing_record_casing_findings = scan_load_bearing_capitalization(
+        "internal-regression.md",
+        "A standing record states its subject.\n"
+        "Each Standing record is bounded.\n"
+        "The contribution standing records stay separate.\n"
+        "See Standing-record custody in Chapter Seven.\n"
+        "A Standing Record and a contribution Standing Record are correct.\n"
+        "# CHAPTER FIFTEEN: STANDING RECORDS is title casing.\n"
+        "```mermaid\nA[\"a standing record\"]\n```\n"
+        "```text\nIt is not a standing record.\n```\n"
+        "```python\nstanding record = 1\n```\n"
+        "The Standing-Record custody rule and Standing Records are correct.\n"
+        "See [the section](core_15.000_standing_assessment.md#5-standing-record-operational-requirements) and `standing record` in code.\n"
+        "An anchor id=\"standing-record-chapter-six\" is not prose.\n"
+        "A non-standing-record input and a standing-recorder are different words.\n",
+    )
+    if len(standing_record_casing_findings) != 6:
+        raise RuntimeError(
+            "Internal regression failed: a lowercase or half-capitalized 'standing record(s)' was not flagged, or a capitalized form, a link target, code, or an id was flagged wrongly.",
+        )
+    alignment_record_findings = scan_avoid_alignment_record(
+        "internal-regression.md",
+        "The Integrity forum stays the lead for the alignment record.\n"
+        "Two alignment records disagree.\n"
+        "The alignment-record path is retired.\n"
+        "The System Certification Record and alignment certification are correct.\n"
+        "See [the section](core_11.000_x.md#alignment-record) and `alignment record` in code.\n"
+        "An anchor id=\"alignment-record\" is not prose.\n",
+    )
+    if len(alignment_record_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: 'alignment record(s)' was not flagged, or a full record name, a link target, code, or an id was flagged wrongly.",
+        )
+    if scan_avoid_alignment_record("doc_architecture.md", "The alignment record is retired.\n"):
+        raise RuntimeError("Internal regression failed: doc_architecture.md must be exempt from the alignment-record rule.")
+    cert_record_casing_findings = scan_load_bearing_capitalization(
+        "internal-regression.md",
+        "The certification record states the outcome.\n"
+        "Each Certification record is kept.\n"
+        "System certification records stay with the holder.\n"
+        "A System Certification Record and Certification Records are correct.\n"
+        "# CHAPTER ELEVEN: CERTIFICATION RECORDS is title casing.\n"
+        "See [the section](core_11.000_x.md#2-certification-record) and `certification record` in code.\n"
+        "An anchor id=\"certification-record\" is not prose.\n"
+        "```text\nIt is not a certification record.\n```\n"
+        "```python\ncertification record = 1\n```\n",
+    )
+    if len(cert_record_casing_findings) != 4:
+        raise RuntimeError(
+            "Internal regression failed: a lowercase or half-capitalized 'certification record(s)' was not flagged, or a capitalized form, an all-caps title, a link target, code, or an id was flagged wrongly.",
+        )
+    if scan_load_bearing_capitalization("doc_architecture.md", "A standing record states its subject.\n"):
+        raise RuntimeError("Internal regression failed: doc_architecture.md must be exempt from the Standing Record casing rule.")
+
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
     """Reject undefined **standing calculus** jargon; prefer Chapter Eleven standing-record classification wording."""
@@ -1314,6 +1390,34 @@ def scan_avoid_design_cause(rel_path: str, text: str) -> list[Finding]:
         check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
         if _DESIGN_CAUSE_WORD.search(check_line):
             findings.append(Finding(file=rel_path, line=idx, rule="avoid-design-cause", text=raw.strip()))
+    return findings
+
+
+# Retired term **alignment record** (custodian decision, 2026-11-17): the record of a certification outcome is the **System Certification Record** or
+# the **Institutional Certification Record** (Chapter Eleven §2, Chapter Fourteen §2; together "System or Institutional Certification Record"), and the
+# record a forum keeps on a dispute is the **Forum Case Record**. "Alignment record" named neither and let a reader think a third kind of record existed.
+# Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
+_AVOID_ALIGNMENT_RECORD_EXEMPT = frozenset({"doc_architecture.md"})
+_ALIGNMENT_RECORD_WORD = re.compile(r"(?<![A-Za-z0-9-])alignment[- ]records?(?![A-Za-z0-9-])", re.IGNORECASE)
+
+
+def scan_avoid_alignment_record(rel_path: str, text: str) -> list[Finding]:
+    """Reject the retired term **alignment record** (say **System Certification Record** or **Institutional Certification Record**)."""
+    if rel_path in _AVOID_ALIGNMENT_RECORD_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        if _ALIGNMENT_RECORD_WORD.search(check_line):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-alignment-record", text=raw.strip()))
     return findings
 
 
@@ -2151,12 +2255,23 @@ def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
+    fence_lang = ""
 
     for idx, raw in enumerate(lines, start=1):
         if raw.strip().startswith("```"):
             in_fence = not in_fence
+            fence_lang = raw.strip()[3:].strip().lower() if in_fence else ""
             continue
         if in_fence:
+            if fence_lang in _STANDING_RECORD_FENCE_PROSE and rel_path not in _STANDING_RECORD_CASING_EXEMPT:
+                if any(m.group(0) not in _STANDING_RECORD_CASING_OK for m in _STANDING_RECORD_SPACED.finditer(raw)):
+                    findings.append(
+                        Finding(file=rel_path, line=idx, rule="load-bearing-standing-record-casing", text=raw.strip()),
+                    )
+                if any(m.group(0) not in _CERT_RECORD_CASING_OK for m in _CERT_RECORD_ANY_CASE.finditer(raw)):
+                    findings.append(
+                        Finding(file=rel_path, line=idx, rule="load-bearing-certification-record-casing", text=raw.strip()),
+                    )
             continue
 
         check_line = _mask_inline_code_and_link_targets(raw)
@@ -2184,6 +2299,28 @@ def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="load-bearing-forum-family-casing",
+                    text=raw.strip(),
+                ),
+            )
+        if rel_path not in _STANDING_RECORD_CASING_EXEMPT and any(
+            match.group(0) not in _CERT_RECORD_CASING_OK for match in _CERT_RECORD_ANY_CASE.finditer(check_line)
+        ):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="load-bearing-certification-record-casing",
+                    text=raw.strip(),
+                ),
+            )
+        if rel_path not in _STANDING_RECORD_CASING_EXEMPT and any(
+            match.group(0) not in _STANDING_RECORD_CASING_OK for match in _STANDING_RECORD_ANY_CASE.finditer(check_line)
+        ):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="load-bearing-standing-record-casing",
                     text=raw.strip(),
                 ),
             )
@@ -2332,6 +2469,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
         "- **`avoid-certify-question`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject \"certify a question\" and its family (**certified question(s)**, **uncertified questions**, **certification questions**, a question the lead forum **certifies**, the lists **refer, certify, or stay** and **referral, certification, and stay**, **certify or escalate**, and the heading **Escalation and certification**) → say **question for ruling** and **send for ruling** (Chapter Fifteen §5), with **refer**, **transfer**, and **stay** as the other moves. **Allowed:** every certification outcome and process (provisional, full, conditional, deferred, system, institutional, recertification) and **certification challenge**.",
         "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component evaluation** (one component's part of it; Chapter Nine Part B §6.1), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
+        "- **`avoid-alignment-record`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **alignment record** / **alignment records** / **alignment-record** (outside Markdown link targets, inline code, and HTML ``id`` attributes) → say **System Certification Record** or **Institutional Certification Record** (**System or Institutional Certification Record** for both) for the record of a certification outcome, or **Forum Case Record** for a forum's file on a dispute. **Allowed:** **alignment certification**, **ongoing alignment validation**, and any full record name.",
         "- **`avoid-design-cause`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **design cause** / **design-cause** and the phrase **the cause is design** → say **design-caused** (a finding of **design-caused misalignment**; Chapter Nine Part C §9.3.3). **Allowed:** **design-caused**, **operating-caused**, and the verb (**the design causes harm**).",
         "- **`avoid-component-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **component pass** / **component passes** → say **component evaluation** (one component's part of a certification pass; Chapter Nine Part B §6.1).",
         "- **`avoid-bare-run`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **run** / **runs** after a determiner (**the run**, **a run**, **each run**, **the runs**) → say **certification pass** or **review pass**, or name the thing. **Allowed:** the verb (**the system runs**, **checks run**), qualified compounds (**parallel run**, **test run**), idioms with a word between (**the long run**), **run sheet**, **run of …**, and **run by …** (the participle).",
@@ -2340,6 +2478,8 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-designation`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **designation** / **designations** after a determiner, preposition, conjunction, or generic adjective (**the designation**, **a final designation**, **corresponding designation**, **for designation**), or at the start of a sentence, bullet, or cell; a `designation-…` compound counts as the noun → say which designation: **anti-constitutional-misconduct designation** (or **Chapter Fourteen designation**), **backup designation**, or name what is designated. **Allowed:** **designation of …**, **designation under …**, and any qualified form (**final anti-constitutional-misconduct designation**, **backup designation**, **ACMD**, **ACM designation**; each file defines the abbreviation at first use).",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
+        "- **`load-bearing-standing-record-casing`:** reject lowercase or half-capitalized **standing record** / **standing records** / **standing-record** (and **Standing record**, **Standing records**) outside Markdown link targets, inline code, and HTML ``id`` attributes, in every scanned file except `doc_architecture.md` (its dated move log keeps the wording each move used) → write the defined term **Standing Record** / **Standing Records** (hyphenated modifier **Standing-Record**). Qualifiers before it (**contribution**, **violation**, **verified**, **operator**) keep their own casing: **a contribution Standing Record**.",
+        "- **`load-bearing-certification-record-casing`:** reject lowercase or half-capitalized **certification record** / **certification records** (and **Certification record**) outside Markdown link targets, inline code, and HTML ``id`` attributes, in every scanned file except `doc_architecture.md` (its dated move log keeps the wording each move used); ``mermaid`` and ``text`` fences are checked too; all-caps titles stay → write the defined term **Certification Record** / **Certification Records**, with its qualifier: **System Certification Record**, **Institutional Certification Record**, or **System or Institutional Certification Record**.",
         "- **`load-bearing-forum-family-casing`:** reject lowercase **forum** / **forums** after a forum family name (**Sentient**, **Technical**, **Institutional**, **Environment**, **Integrity**, **Constitutional**) outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Sentient Forums**, **Technical Forums**, and so on when the family is meant. Generic uses (forum family, lead forum) stay lowercase.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
@@ -2421,6 +2561,7 @@ def main() -> int:
         findings.extend(scan_avoid_bare_run(rel_path, text))
         findings.extend(scan_avoid_component_pass(rel_path, text))
         findings.extend(scan_avoid_design_cause(rel_path, text))
+        findings.extend(scan_avoid_alignment_record(rel_path, text))
         findings.extend(scan_avoid_bare_condition(rel_path, text))
         findings.extend(scan_avoid_certify_question(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))

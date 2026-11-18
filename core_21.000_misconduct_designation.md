@@ -22,7 +22,7 @@
 >
 > **Cross-chapter map**
 >
-> - **Chapter Fifteen:** supplies the standing record and verified-input gate.
+> - **Chapter Fifteen:** supplies the Standing Record and verified-input gate.
 > - **Chapter Sixteen:** supplies the Contribution and Violation axes, the unified proportional LEQU scale, and every numeric impact slot.
 > - **Chapter Seventeen:** supplies process / response attachments, descriptors, standing integration, standing locks, voluntary public accountability expression, final standing effect rules, and the pointer here. It does not itself issue a final anti-constitutional-misconduct designation (ACMD).
 > - **Chapter Nineteen:** supplies remedy and correction, prevention locks, and voluntary public accountability expression for every verified violation ([§2.1 Remedy and Correction](core_19.000_violation_consequences.md#21-remedy-and-correction), [§2.2 Prevention — General Standing Locks](core_19.000_violation_consequences.md#22-prevention--general-standing-locks), [§2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression)). **Section 6.1**, **section 6.2** (including imprisonment where required), and **section 6.3** here add only the ACMD layer on top of those rules.
@@ -46,7 +46,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified standing records*).
+- Upstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified Standing Records*).
 - Upstream: [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) (*Question 2; standing measurement and the Violation Axis slot*).
 - Upstream pointer: [Chapter Seventeen §3](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - This file: purpose and role; final ACMD for Violation Axis slot 7–9; decision sequence; ACMD criteria; due-process safeguards; Chapters Twenty-Six through Twenty-Eight boundary. Named-pattern routing continues in [Chapter Twenty-Two](core_22.000_misconduct_pattern_applications.md#chapter-twenty-two-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (22.000).
@@ -67,7 +67,7 @@ Chapter Twenty-One is the constitutional owner of **final anti-constitutional-mi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified standing records*);
+  - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified Standing Records*);
   - [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) (*Question 2; the Violation Axis slot*);
   - [Chapter Seventeen §3](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - Downstream:
@@ -85,7 +85,7 @@ Chapter Twenty-One is the constitutional owner of **final anti-constitutional-mi
 
 *In plain terms: this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Sixteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot. Because anti-constitutional misconduct is a heightened risk to sentients, a final anti-constitutional-misconduct designation brings extra steps, and they are add-ons to the ordinary violation process, not changes to it.*
 
-**Heightened risk, add-on steps:** Anti-constitutional misconduct (ACM) poses a heightened level of risk to sentients. A final ACMD therefore brings extra steps, stated in **section 6**. These steps are special add-ons to the violation standing process and do not change it. The verified standing record, the Chapter Sixteen slot, and the ordinary remedy, correction, and lock rules for the violation stay as they are (**section 2.1**).
+**Heightened risk, add-on steps:** Anti-constitutional misconduct (ACM) poses a heightened level of risk to sentients. A final ACMD therefore brings extra steps, stated in **section 6**. These steps are special add-ons to the violation standing process and do not change it. The verified Standing Record, the Chapter Sixteen slot, and the ordinary remedy, correction, and lock rules for the violation stay as they are (**section 2.1**).
 
 **Purpose:** Chapter Twenty-One answers the one question the standing pipeline leaves open for the most serious violations. [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) establishes what happened (Question 1), [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2), and [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) decides what follows (Question 3). This chapter decides only whether conduct already in slot 7, 8, or 9 is also anti-constitutional misconduct (ACM).
 
@@ -98,7 +98,7 @@ Only this chapter may decide between them (**section 2.2**).
 
 **Role:** Where this chapter sits:
 
-- It takes the verified standing record and the Chapter Sixteen slot as fixed (**section 2.1**).
+- It takes the verified Standing Record and the Chapter Sixteen slot as fixed (**section 2.1**).
 - After a final ACMD, [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) applies the Trust Lock and the final standing effect, [Chapter Twenty-Five](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship) attaches governance legitimacy consequences, and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) routes the case and certifies the forum, with Integrity as the default lead where a final ACMD is the primary stake.
 - The remedy and prevention rules here are read with the Rights Floor and Justice articles in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights).
 
@@ -112,7 +112,7 @@ Only this chapter may decide between them (**section 2.2**).
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified standing records*).
+- Upstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Question 1; verified Standing Records*).
 - Upstream: [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) (*Question 2; the Contribution and Violation axes, the unified proportional LEQU scale, and the numeric impact slot*).
 - Upstream map: [Chapter Sixteen §5](core_16.000_standing_measurement.md#5-slot-grammar-and-shared-scaling) (16.000 §5) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Seventeen §3](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
@@ -168,15 +168,15 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 
 <br>
 
-*In plain terms: this chapter works in one sequence. First confirm the verified standing record from Chapter Fifteen and the Chapter Sixteen impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.*
+*In plain terms: this chapter works in one sequence. First confirm the verified Standing Record from Chapter Fifteen and the Chapter Sixteen impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.*
 
 Make a final ACMD in this order:
 
 1. **Establish the incident**
-   - Confirm that the verified standing record from Chapter Fifteen is in hand and that Chapter Sixteen has already assigned Violation Axis slot 7, 8, or 9.
+   - Confirm that the verified Standing Record from Chapter Fifteen is in hand and that Chapter Sixteen has already assigned Violation Axis slot 7, 8, or 9.
    - Identify the **unified incident** — one episode or campaign — without splitting it artificially to change the outcome.
 2. **Decide whether the ACMD attaches**
-   - Decide which **section 4** ACMD criteria the verified standing record materially implicates.
+   - Decide which **section 4** ACMD criteria the verified Standing Record materially implicates.
    - Under **section 5**, decide whether the matching ACMD attaches, without changing the impact slot.
 3. **Make the ACMD final and apply the ACM specializations**
    - Apply **section 6** due-process safeguards before treating the ACMD as final.
@@ -194,7 +194,7 @@ Steps 3 and 4 list the **section 6** parts in the order they are presented. Once
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (*How designation decisions work*).
-- Emergency authority: [Chapter One](core_01.040_stewardship_capacity_principles.md#chapter-01-part-e-stewardship-and-the-steward-role) (1.040) emergency and necessity discipline; [Chapter Twenty-Three §6.1: Emergency Measures and Continuation Burden](core_23.000_forum.md#61-emergency-measures-and-continuation-burden) (23.000 §6.1) where **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) are read against bounded emergency authority.
+- Emergency authority: [Chapter One](core_01.040_stewardship_capacity_principles.md#chapter-01-part-e-stewardship-and-the-steward-role) (1.040) emergency and necessity discipline; [Chapter Twenty-Three §8.1: Emergency Measures and Continuation Burden](core_23.000_forum.md#81-emergency-measures-and-continuation-burden) (23.000 §8.1) where **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) are read against bounded emergency authority.
 - Downstream designation decision: [§5](#5-violation-axis-slot-79-anti-constitutional-designation).
 - Downstream safeguards and discipline: [§6](#6-due-process-safeguards-remedy-and-prevention).
 - This section: ACMD criteria set; unified-incident rule; **good-faith drafting carve-out** for corrected criteria 1–4 (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) change or record errors.
@@ -271,12 +271,12 @@ Assess every criterion the facts actually support together on the same **unified
 - **Criteria 5** and **6** cover forcible takeover of constitutional authority and making constitutional process or remedies unusable in practice:
   - 5. **Insurrection or material forcible subversion:**
        - Organized or material **unlawful** action using **force**, **coercion**, or **usurpation** to **overthrow**, **suspend**, or **replace** this Constitution’s operative constitutional authority.
-       - This excludes conduct justified under **Chapter One** and **Chapter Twenty-Three §6.1** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
+       - This excludes conduct justified under **Chapter One** and **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
   - 6. **Operative nullification:**
        - Conduct that makes constitutional **process** or **remedies** unusable in practice.
-       - This excludes conduct justified under **Chapter One** and **Chapter Twenty-Three §6.1** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
+       - This excludes conduct justified under **Chapter One** and **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
 
-Do not count the same conduct as both **criterion 5** (*Insurrection or material forcible subversion*) and **criterion 6** (*Operative nullification*) unless each one has its own independent proof. For example, the standing record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
+Do not count the same conduct as both **criterion 5** (*Insurrection or material forcible subversion*) and **criterion 6** (*Operative nullification*) unless each one has its own independent proof. For example, the Standing Record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
 
 #### 4.4 Good-Faith Drafting Carve-Out
 
@@ -312,7 +312,7 @@ Dissent, advocacy for amendment or replacement of authority by lawful means, pea
   - [§6.1](#61-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*),
   - [§6.2](#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*), and
   - [§6.3](#63-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-- Downstream forums: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) [§2](core_23.000_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Twenty-One designation is the primary stake. [Chapter Twenty-Three §5](core_23.000_forum.md#5-escalation-and-questions-for-ruling) (23.000 §5) covers forum certification and independent review for final ACMD.
+- Downstream forums: [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) [§3](core_23.000_forum.md#3-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Twenty-One designation is the primary stake. [Chapter Twenty-Three §7](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (23.000 §7) covers forum certification and independent review for final ACMD.
 - Read with: [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (16.000) — its unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§2.2](#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 
 </details>
@@ -331,7 +331,7 @@ Exclusive authority to issue a final ACMD is stated in [§2.2](#22-exclusive-aut
 
 The ACMD attaches when both of the following are true:
 
-- the **unified incident** meets one or more **section 4** criteria on a verified standing record; and
+- the **unified incident** meets one or more **section 4** criteria on a verified Standing Record; and
 - the **section 6** process safeguards are satisfied.
 
 Once it attaches:
@@ -374,7 +374,7 @@ because the underlying impact is already slot 9, not because character somehow r
   - [§6.2](core_22.000_misconduct_pattern_applications.md#62-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure Denial, Destruction, or Dependency Cutoff Conduct*);
   - [§7](core_22.000_misconduct_pattern_applications.md#7-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
 - Downstream: [§6.1](#61-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*); [§6.2](#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*); [§6.3](#63-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-- Forum discipline: [Chapter Twenty-Three §2](core_23.000_forum.md#2-default-venue-and-primary-stakes) (23.000 §2) through [§5](core_23.000_forum.md#5-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 6** with **Article XX** (*Justice After Verified Violation*) in **Chapter Six**.
+- Forum discipline: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) through [§7](core_23.000_forum.md#7-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 6** with **Article XX** (*Justice After Verified Violation*) in **Chapter Six**.
 - Read with: [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02.000_definition_structure.md) tracing standards for publication; [Chapter Nineteen §2](core_19.000_violation_consequences.md#2-violation-correction-and-prevention) (19.000 §2) (*Violation, Correction, and Prevention*) for the general remedy → locks → expression grammar this section specializes.
 
 </details>
@@ -391,7 +391,7 @@ After final designation under **section 5** with these safeguards met, apply the
 - [§6.2 Prevention — Anti-Constitutional Locks](#62-prevention--anti-constitutional-locks); and
 - [§6.3 Voluntary Public Accountability Expression (Anti-Constitutional)](#63-voluntary-public-accountability-expression-anti-constitutional) where restorative pathways use public acknowledgment or apology.
 
-Each track starts when the ACMD is final and works from the same verified standing record. No track replaces another: repair does not cancel a lock, a lock does not cancel repair, and voluntary expression stands in for neither ([Chapter Nineteen §2.1.4 Remedy and Correction Together](core_19.000_violation_consequences.md#214-remedy-and-correction-together) and [Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression)). This chapter changes no ordering rule in Chapter Nineteen, including the Opened-Remedy Precondition for general standing locks ([Chapter Nineteen §2.4.1 Opened-Remedy Precondition](core_19.000_violation_consequences.md#241-opened-remedy-precondition)).
+Each track starts when the ACMD is final and works from the same verified Standing Record. No track replaces another: repair does not cancel a lock, a lock does not cancel repair, and voluntary expression stands in for neither ([Chapter Nineteen §2.1.4 Remedy and Correction Together](core_19.000_violation_consequences.md#214-remedy-and-correction-together) and [Chapter Nineteen §2.3 Voluntary Public Accountability Expression](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression)). This chapter changes no ordering rule in Chapter Nineteen, including the Opened-Remedy Precondition for general standing locks ([Chapter Nineteen §2.4.1 Opened-Remedy Precondition](core_19.000_violation_consequences.md#241-opened-remedy-precondition)).
 
 The chart shows the three tracks starting together from a final ACMD and meeting in one reviewable package.
 
@@ -462,7 +462,7 @@ After final designation under **section 5** with **section 6** safeguards met, [
 - **Tainted governance, records, and decisions:** For each governance act, system, record, or decision that the ACMD conduct tainted, the disposition must say whether it is corrected, re-made, struck, or kept under supervision, and why.
   - Whether a constitutional change itself stands is decided under [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity), not here.
   - Structural correction of this kind is also a restoration condition of the **Anti-Constitutional Trust Lock** ([Chapter Nineteen §3.5.5 Anti-Constitutional Trust Lock](core_19.000_violation_consequences.md#355-anti-constitutional-trust-lock)).
-- **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate standing records that no one can check together.
+- **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate Standing Records that no one can check together.
 - **Boundary:** This section does not move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Twenty-One. Those stay in [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) and the incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Six Rights Floor.
 
 #### 6.2 Prevention — Anti-Constitutional Locks

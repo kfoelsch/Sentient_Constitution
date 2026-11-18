@@ -67,7 +67,7 @@ Typical findings: dead or wrong links; an adopted implementation file that contr
 | **Lands in** | `evaluation/results/`, `evaluation/self_application/results/`, `evaluation/two_party/results/`, or a live-fire sheet |
 | **Not this lane** | A defect you noticed in the pack or the corpus while sitting → Lane A, in a separate pull request. Changing a pack, template, or scoring rule → Lane A (defect) or Lane C (maturation), never in the same pull request as a results file |
 
-A results file is not a Chapter Fifteen standing record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
+A results file is not a Chapter Fifteen Standing Record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
 
 <a id="lane-c"></a>
 ### Lane C — Adopted Implementation Maturation
@@ -193,7 +193,7 @@ flowchart TB
 <a id="roles"></a>
 ## 6. Roles
 
-Roles are descriptive, not titles, and none of them is a standing record or a gated pathway under Chapter Seventeen. They exist so a newcomer knows where to begin and what earns wider trust.
+Roles are descriptive, not titles, and none of them is a Standing Record or a gated pathway under Chapter Seventeen. They exist so a newcomer knows where to begin and what earns wider trust.
 
 | Role | What you do | What unlocks it |
 |---|---|---|

@@ -3,8 +3,8 @@
   "note": "Time references that predate TIME-REF-01 and do not yet name a bound kind and a tier or class (or a registered fixed period). Shrink this list; do not grow it. Regenerate with --write-baseline only when removing entries.",
   "known": [
     {
-      "key": "core_06.010_rights_part_b.md::duration::7868382104b9",
-      "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and "
+      "key": "core_06.010_rights_part_b.md::duration::93fe4077992e",
+      "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and "
     },
     {
       "key": "core_06.020_rights_part_c.md::duration::2b90d6a4fcc4",
@@ -83,6 +83,10 @@
       "snippet": "Tier L: at most 60 days (two months);"
     },
     {
+      "key": "core_23.000_forum.md::duration::3e2e2a0f98f1",
+      "snippet": "It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§8 Timely Resolution, Materiality Tiers, a"
+    },
+    {
       "key": "core_23.000_forum.md::duration::46b008449f9f",
       "snippet": "If that month has no such day (for example 29 February, or the 31st in a 30-day month), it ends on the last day of that month."
     },
@@ -109,10 +113,6 @@
     {
       "key": "core_23.000_forum.md::duration::7a2306390a5c",
       "snippet": "Tier P: at most 90 days (three months)."
-    },
-    {
-      "key": "core_23.000_forum.md::duration::8258ec984663",
-      "snippet": "It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§6 Timely Resolution, Materiality Tiers, a"
     },
     {
       "key": "core_23.000_forum.md::duration::ad88a551471f",
@@ -163,12 +163,12 @@
       "snippet": "They must finish within 3 calendar days of the start of the measure or of the deferral, whichever is earlier."
     },
     {
-      "key": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md::duration::895a8e06d4f8",
-      "snippet": "At the Emergency setting the default restore-challenge window is 3 calendar days."
+      "key": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md::duration::5bb40a6bab8a",
+      "snippet": "Those outer bounds implement [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline] (7 / 14 / 30 / 60 / 9"
     },
     {
-      "key": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md::duration::aac7388dd58d",
-      "snippet": "Those outer bounds implement [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline] (7 / 14 / 30 / 60 / 9"
+      "key": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md::duration::895a8e06d4f8",
+      "snippet": "At the Emergency setting the default restore-challenge window is 3 calendar days."
     },
     {
       "key": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md::duration::ad88a551471f",
@@ -243,6 +243,10 @@
       "snippet": "| Intake acknowledgment | 2 days | 2 days (no relaxation) |"
     },
     {
+      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::22ede1cdc218",
+      "snippet": "| Q1 standing finding → Standing Record | 4 days | 9 days |"
+    },
+    {
       "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::2519383b55fe",
       "snippet": "| Remedy commencement | 2 days after Q3 |"
     },
@@ -251,12 +255,16 @@
       "snippet": "Regulator notice eight months earlier flagged failing retaining berms."
     },
     {
-      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::48378187f274",
-      "snippet": "| Q2 measurement | 1 day after verified inputs |"
+      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::2f935b3474bf",
+      "snippet": "| Q1 standing finding → Standing Record | 4 days |"
     },
     {
-      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::4853b3ea7f1c",
-      "snippet": "| Q1 standing finding → standing record | 4 days | 9 days |"
+      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::34016f8f16ed",
+      "snippet": "| Q1 standing finding → Standing Record | 2 days |"
+    },
+    {
+      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::48378187f274",
+      "snippet": "| Q2 measurement | 1 day after verified inputs |"
     },
     {
       "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::51db61b9c53d",
@@ -289,14 +297,6 @@
     {
       "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::bb7ec3a1e1f6",
       "snippet": "| Q3 integration | 2 days after Q2 |"
-    },
-    {
-      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::c3398d1d5f02",
-      "snippet": "| Q1 standing finding → standing record | 2 days |"
-    },
-    {
-      "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::c7f6497228bb",
-      "snippet": "| Q1 standing finding → standing record | 4 days |"
     },
     {
       "key": "corpus_joint_structure/cjs_15.105_application_vignettes.md::duration::d16037900af5",

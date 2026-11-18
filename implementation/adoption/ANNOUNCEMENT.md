@@ -97,7 +97,7 @@ On that base, three processes carry most of the weight:
   the supervision of an independent forum. The check is as demanding
   as the system's real impact, is written down, is time-limited, and
   must be repeated on a schedule that matches the risk. (Chapter Nine)
-- Standing records. What a person, organization, or system has done —
+- Standing Records. What a person, organization, or system has done —
   verified help and verified harm — is kept on the record as separate
   entries, so neither erases the other. Consequences follow from the
   record, not from reputation or a popularity score. (Chapters Fifteen
@@ -204,7 +204,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Who may govern is a documented legitimacy mechanism** ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers)). | “A token vote / standing score authorized this.” |
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |
-| **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md)); standing records ([Chapter Fifteen](../../core_15.000_standing_assessment.md)); contestability ([Chapter Twenty-Three](../../core_23.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
+| **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md)); Standing Records ([Chapter Fifteen](../../core_15.000_standing_assessment.md)); contestability ([Chapter Twenty-Three](../../core_23.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
 | **Name the open questions.** Keep the "Open questions" block when you shorten the announcement, or link to it. Each entry states the rule, what it does not stop, and where the text is ([Chapter Five *Sentient*](../../core_05.055_band_participation.md#sentient); [Chapter Twenty-Five §5.1](../../core_25.000_governance.md#51-entitlement-and-eligibility); [Article XX-B](../../core_06.030_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Twenty §2.4](../../core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust)). | “Every hard case is solved.” “Nobody can game the vote.” |
 | **License:** [CC BY 4.0](../../LICENSE). Attribution, not a second constitution. | — |
 
@@ -236,7 +236,7 @@ Not in wave 1: new polities ([FIT §4.10](FIT_SITUATIONS.md#410-new-polities-or-
 *In plain terms: one or two existing venues per audience. Keep the contact list outside the corpus.*
 
 - Post into an existing list or forum for that audience, preferably with a personal introduction. Do not spray.
-- Keep a dated outreach log **outside** this corpus. A contact list is not a Chapter Fifteen standing record.
+- Keep a dated outreach log **outside** this corpus. A contact list is not a Chapter Fifteen Standing Record.
 - After a publication cut, refresh the edition pin and status lines. That is a second announcement, not this one.
 
 GitHub settings once the repository is public (none of these drop **pre-release**):
@@ -281,7 +281,7 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | 2026-09-08 | v0.1 | Initial process-support announcement kit: honesty contract, reusable pitch, do-not-say list, four first-wave packets (commons, agent-protocol, coops/unis, infra ops-guide). Not adoption. Does not drop **pre-release**. |
 | 2026-09-08 | v0.2 | Honesty contract names the maturity split: numbered `core_*` files are in much better shape; operational text outside them is not yet mature. |
 | 2026-09-08 | v0.3 | Reworked for length and plain language. Announcement copy rewritten for general readers; honesty contract and do-not-say list merged into one say / do-not-say table; four channel packets collapsed into an audience table; placement, wave-1 exclusions, and GitHub surface merged into one publishing checklist. No change in meaning: still not adoption; still does not drop **pre-release**. |
-| 2026-09-08 | v0.4 | Announcement gains a “How it works” block: Chapter Five definitions (one home per term, with a way to check it) and three processes — system alignment certification, standing records, contestability — described in plain terms. §2 adds a row: describe the working parts as verified, written down, time-limited, and challengeable; do not call them “simple, proven, and effective.” |
+| 2026-09-08 | v0.4 | Announcement gains a “How it works” block: Chapter Five definitions (one home per term, with a way to check it) and three processes — system alignment certification, Standing Records, contestability — described in plain terms. §2 adds a row: describe the working parts as verified, written down, time-limited, and challengeable; do not call them “simple, proven, and effective.” |
 | 2026-09-09 | v0.5 | Announcement and say / do-not-say table state that this Constitution does not supersede local, national, or international law; adoption binds only the adopting body within its lawful authority; use inside an external legal framework must stay consistent with that framework. Canonical home: [Chapter Twenty-Eight §6](../../core_28.000_expansion_supremacy.md#6-relation-to-applicable-external-law). Still not adoption; still does not drop **pre-release**. |
 | 2026-11-15 | v0.6 | Announcement gains an “Open questions” block that names hard design questions as invitations to challenge. First entry: who counts as one voter (one sentient, one vote after a year in residence; a copy with its own memory and choices is its own sentient; a creator who makes and sustains many real, separate sentients has made that many voters). §2 adds a row: name the open questions; do not say every hard case is solved. Further entries are added as the other evaluation hesitations in `TODO.md` are worked through. Still not adoption; still does not drop **pre-release**. |
 | 2026-11-16 | v0.7 | Announcement gains a "Why it is this thorough" paragraph (custodian wording, adapted): the Constitution takes on hard questions humanity faces sooner rather than later and prefers comprehensive solutions to gestures at possible ones, and says a comprehensive answer is testable and challengeable, not settled. The announcement does not state the size of the text (custodian decision: it will be obvious on reading). Still not adoption; still does not drop **pre-release**. |

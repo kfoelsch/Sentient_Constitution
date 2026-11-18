@@ -46,7 +46,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-D filing integrity](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twenty-Three §7](../../core_23.000_forum.md#7-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**
@@ -67,7 +67,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
 
-**Homes:** [Chapter Twenty-Three §4.4 Representative filing](../../core_23.000_forum.md#44-environment-forums); **CF-23.415 §3** in [`corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md).
+**Homes:** [Chapter Twenty-Three §6.4 Representative filing](../../core_23.000_forum.md#64-environment-forums); **CF-23.415 §3** in [`corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md).
 **Do not:** Declare Nature a Chapter Six sentient or copy Ecuador Arts. 71–74 unless C1 is deliberately chosen.
 
 ### B3. FPIC non-shrinkage — **done**

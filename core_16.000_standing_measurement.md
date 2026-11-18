@@ -11,7 +11,7 @@
 
 - Upstream:
   - [Chapter Fifteen §2](core_15.000_standing_assessment.md#2-the-three-questions) (*three-question frame*);
-  - [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) through [Chapter Fifteen §7](core_15.000_standing_assessment.md#7-handling-a-standing-record) (*Question 1 — verified facts, standing records, custody, and handling*);
+  - [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) through [Chapter Fifteen §7](core_15.000_standing_assessment.md#7-handling-a-standing-record) (*Question 1 — verified facts, Standing Records, custody, and handling*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Preamble §6 Key Practical Process Pipelines](core_00.000_preamble.md#6-key-practical-process-pipelines) (*Chapters Nine through Twenty-Three chain*).
@@ -40,13 +40,13 @@ Chapter Sixteen is the constitutional owner of **Question 2**, which measures th
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: Chapter Fifteen settles what happened and who holds the standing record. Question 2 measures those verified facts. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score. What follows from the measurement is Chapter Seventeen.*
+*In plain terms: Chapter Fifteen settles what happened and who holds the Standing Record. Question 2 measures those verified facts. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score. What follows from the measurement is Chapter Seventeen.*
 
 **Purpose:** Chapter Sixteen answers Question 2: how good a verified contribution was, or how bad a verified violation was. It measures each on its own axis, on one common scale, the LEQU scale. For each applicable axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 3.1**).
 
 **Role:** The chapter sits in the middle of the standing pipeline:
 
-- It takes the facts already verified under **Chapter Fifteen section 3** and written into the standing record under **Chapter Fifteen section 5** as fixed.
+- It takes the facts already verified under **Chapter Fifteen section 3** and written into the Standing Record under **Chapter Fifteen section 5** as fixed.
 - It hands the slot and descriptors to Chapter Seventeen, starting at **section 4** (*Descriptor Integration and Attachment Normalization*).
 - Chapter Sixteen alone assigns the numeric slot. [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
 - The common scale compares magnitude, not moral worth, and never lets help cancel harm.
@@ -65,7 +65,7 @@ Chapter Sixteen is the constitutional owner of **Question 2**, which measures th
 
 The chapter leaves:
 
-- what happened, the three-question frame, and the standing record to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened);
+- what happened, the three-question frame, and the Standing Record to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened);
 - what follows from a measurement to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows); and
 - the anti-constitutional-misconduct designation to Chapter Twenty-One.
 
@@ -74,7 +74,7 @@ The chapter leaves:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (*Question 1 — standing records and verified facts*); [Chapter Fifteen §3.5](core_15.000_standing_assessment.md#35-verified-input-gate) (*verified-input gate*); [Chapter Fifteen §5](core_15.000_standing_assessment.md#5-standing-record-operational-requirements) (*record requirements*); [Chapter Fifteen §2](core_15.000_standing_assessment.md#2-the-three-questions) (*three-question frame*).
+- Upstream: [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (*Question 1 — Standing Records and verified facts*); [Chapter Fifteen §3.5](core_15.000_standing_assessment.md#35-verified-input-gate) (*verified-input gate*); [Chapter Fifteen §5](core_15.000_standing_assessment.md#5-standing-record-operational-requirements) (*record requirements*); [Chapter Fifteen §2](core_15.000_standing_assessment.md#2-the-three-questions) (*three-question frame*).
 - Downstream:
   - [§3](#3-magnitude-and-severity-input-dimensions) (*measurement input dimensions for both axes*);
   - [§4](#4-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
@@ -87,7 +87,7 @@ The chapter leaves:
   - [Chapter Eighteen §2.2](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (18.000 §2.2) (*contribution Question 3 — safe delegation*);
   - [Chapter Nineteen §2.2](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (19.000 §2.2) (*prevention locks*);
   - [Chapter Nineteen §3](core_19.000_violation_consequences.md#3-lock-design-and-enforcement) (19.000 §3) (*lock design and enforcement*).
-- Read with: [Chapter Fifteen §5.1](core_15.000_standing_assessment.md#51-minimum-record-contents) (*verified standing record fields; no standing effects in Chapter Fifteen*).
+- Read with: [Chapter Fifteen §5.1](core_15.000_standing_assessment.md#51-minimum-record-contents) (*verified Standing Record fields; no standing effects in Chapter Fifteen*).
 
 </details>
 
@@ -129,7 +129,7 @@ The following limits apply whenever LEQU is used.
 
 This part covers Question 2 only, the measuring step. It takes facts that are already verified (Question 1) and asks how good a contribution was or how bad a violation was.
 
-- Start from the facts already verified under **Chapter Fifteen section 3** and written into the standing record under **Chapter Fifteen section 5**, and measure them using the dimensions in **section 3**.
+- Start from the facts already verified under **Chapter Fifteen section 3** and written into the Standing Record under **Chapter Fifteen section 5**, and measure them using the dimensions in **section 3**.
 - Then give each kind of help or harm its standard name from the catalogs: the **benefit-route** catalog for help (**section 4.1**) and the **harm-route** catalog for harm (**section 4.2**).
 - Each name also tells you how much that kind of help or harm counts toward *how good* or *how bad*.
 - The rules for what follows from a benefit are on the [benefit side](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances), and the rules for what follows from a harm are on the [harm side](core_19.000_violation_consequences.md#22-prevention--general-standing-locks).
@@ -140,9 +140,9 @@ This part covers Question 2 only, the measuring step. It takes facts that are al
 Measuring standing does **not** decide whether an entity is a **sentient**.
 
 - Disputes about status go to [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) and [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). They do not go to LEQU scores or classification records.
-- While a status dispute is open under [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life), **Article VI-B** (*Sentience-Status Adjudication Floor*) includes the entity by default: it can still be measured and can still file a standing record until the dispute is decided, and operators must not treat the open dispute alone as a reason to deny it standing.
+- While a status dispute is open under [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life), **Article VI-B** (*Sentience-Status Adjudication Floor*) includes the entity by default: it can still be measured and can still file a Standing Record until the dispute is decided, and operators must not treat the open dispute alone as a reason to deny it standing.
 - If the entity is found to be a [Sentient](core_05.055_band_participation.md#sentient), or its status is narrowed or restored after adjudication in a decision that can itself be reviewed:
-  - the standing record's subject is updated from that point on, and
+  - the Standing Record's subject is updated from that point on, and
   - a wrongful exclusion must not be backdated to erase the entity's eligibility to be measured in the meantime, except through [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation).
 
 ### 3. Magnitude and Severity Input Dimensions
@@ -167,11 +167,11 @@ The slot scale measures how big a constitutional outcome is and what kind of out
 
 #### 3.1 What Question 2 Produces
 
-Question 2 writes these in the standing record for each axis. They are measurements, not standing effects (the consequences that Question 3 decides):
+Question 2 writes these in the Standing Record for each axis. They are measurements, not standing effects (the consequences that Question 3 decides):
 
 | **What is produced** | **Contribution Axis** | **Violation Axis** |
 | --- | --- | --- |
-| **Where it is written** | The contribution standing record. | The violation standing record. |
+| **Where it is written** | The contribution Standing Record. | The violation Standing Record. |
 | **Slot** | The highest applicable **Contribution Axis slot** (`s` = 1–9). | The highest applicable **Violation Axis slot** (`s` = 1–9). |
 | **Route descriptors** | The **benefit-route descriptors** that apply, stacked together. | The **harm-route descriptors** that apply, stacked together. |
 | **Inputs handed to Question 3** | The inputs that set the starting point for how the contribution is recognized, under [Chapter Eighteen §2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences). | The inputs that set the default lock band (the starting point for how strict a lock is), under [Chapter Nineteen §3 Lock Design and Enforcement](core_19.000_violation_consequences.md#3-lock-design-and-enforcement). |
@@ -184,7 +184,7 @@ Reminder: none of this cancels out an open violation record. The no-offset rule 
 <a id="contribution-table-q1-magnitude-input-dimensions"></a>
 <a id="contribution-table-q2-magnitude-input-dimensions"></a>
 
-**Question 2 — how good or how bad was it?** To decide where a contribution lands on the Contribution Axis, or where a violation lands on the Violation Axis (its **slot**, from 1 to 9), and which benefit or harm descriptors apply, work through three parts. Several descriptors can apply at once, and they stack. Write the results in the standing record for the axis, as **section 3.1** lists. **Section 7** has the unified scale for part 2, and it is the same scale for benefit and for harm. It explains how to estimate the total benefit or loss in LEQU (a Lifespan Equivalent Unit, roughly the wellbeing of one whole life) and which slot each amount belongs in. On the Contribution Axis, the slots are grouped into four bands.
+**Question 2 — how good or how bad was it?** To decide where a contribution lands on the Contribution Axis, or where a violation lands on the Violation Axis (its **slot**, from 1 to 9), and which benefit or harm descriptors apply, work through three parts. Several descriptors can apply at once, and they stack. Write the results in the Standing Record for the axis, as **section 3.1** lists. **Section 7** has the unified scale for part 2, and it is the same scale for benefit and for harm. It explains how to estimate the total benefit or loss in LEQU (a Lifespan Equivalent Unit, roughly the wellbeing of one whole life) and which slot each amount belongs in. On the Contribution Axis, the slots are grouped into four bands.
 
 **1. Check how it was produced.** The two axes treat this differently:
 
@@ -240,7 +240,7 @@ Conduct-character facts are recorded as separately traceable descriptors. They m
 | --- | --- |
 | Avoidable delay in responding or escalating, where there was a duty to act and the capacity to do so | Recorded as a separate fact about conduct. Any extra loss the delay caused is counted in the LEQU estimate once. |
 | An independently verified injury to a forum's integrity (damage to the fairness of the forum) | Counted in the LEQU estimate exactly once. Dishonest omission, deliberately failing the recusal process, coercion, danger to liberty, and other conduct facts stay separate descriptors. |
-| **Obstruction of accountability** (verified interference with the machinery that lets anyone responsible be held answerable, such as evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths) | Stays a separately recorded conduct fact. Any extra loss it caused on the gated pathway is counted in the LEQU estimate once. |
+| **Obstruction of accountability** (verified interference with the machinery that lets anyone responsible be held answerable, such as evidence integrity, verification, forum process, Standing Records, remedy windows, or contest and redress paths) | Stays a separately recorded conduct fact. Any extra loss it caused on the gated pathway is counted in the LEQU estimate once. |
 
 **Conduct facts recorded apart from the size of the harm:**
 
@@ -268,14 +268,14 @@ Conduct-character facts are recorded as separately traceable descriptors. They m
 
 ### 4. Route Descriptor Catalogs and Measurement Roles
 
-*In plain terms: the two catalogs below name the kinds of verified help (**section 4.1**) and harm (**section 4.2**) a standing record can carry. A descriptor says how the benefit or harm occurred; descriptors are stackable and subordinate to the slot.*
+*In plain terms: the two catalogs below name the kinds of verified help (**section 4.1**) and harm (**section 4.2**) a Standing Record can carry. A descriptor says how the benefit or harm occurred; descriptors are stackable and subordinate to the slot.*
 
 **Descriptor rule.** The two catalogs below, [§4.1 Contribution Route Descriptor Catalog and Measurement Roles](#41-contribution-route-descriptor-catalog-and-measurement-roles) and [§4.2 Violation Route Descriptor Catalog and Measurement Roles](#42-violation-route-descriptor-catalog-and-measurement-roles), are the official list of descriptors for both axes. A descriptor says **how** the verified benefit or harm happened. These rules apply:
 
-- Descriptors stack, and no descriptor excludes another: one standing record may carry several where the verified facts warrant.
+- Descriptors stack, and no descriptor excludes another: one Standing Record may carry several where the verified facts warrant.
 - They rank below the slot: the slot says how big the benefit or harm was, and descriptors add detail about how it happened but never replace it.
 - The listed descriptors are a base, not the full set; the catalog does not rule out other kinds of benefit or harm.
-- Implementations may use stable identifiers (fixed IDs of their own) mapped to the catalog, but must not create a conflicting taxonomy whose categories are exclusive, so that a standing record can carry only one.
+- Implementations may use stable identifiers (fixed IDs of their own) mapped to the catalog, but must not create a conflicting taxonomy whose categories are exclusive, so that a Standing Record can carry only one.
 - Before the facts are verified, an alleged descriptor may support lawful evidence preservation, sorting the case, or temporary safeguards.
 - Only a verified descriptor may be recorded as a Question 2 output or affect standing.
 
@@ -382,7 +382,7 @@ These are the harm-route descriptors and what each one measures in Question 2 (h
 <a id="671-what-the-slot-grammar-does"></a>
 <a id="711-what-the-slot-grammar-does"></a>
 
-*In plain terms: this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 7** assigns both axes by proportional LEQU impact.*
+*In plain terms: this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other Standing Records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 7** assigns both axes by proportional LEQU impact.*
 
 The slot grammar uses a slot number, `s`, from **1** through **9**. Each axis has its own slot position:
 
@@ -432,7 +432,7 @@ The dimensions are not a checklist requiring every form of scale. Explain which 
   - Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude.
   - The same thresholds apply on both axes.
   - Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
-- **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the standing record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
+- **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the Standing Record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
 - **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach slot 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Twenty-One does not replace the impact assignment; it independently determines whether the corresponding ACMD attaches.
 
 If a danger has not actually happened yet, record each of these separately:
@@ -449,20 +449,20 @@ Do not count that worst outcome as harm that has already happened (LEQU loss) un
 
 *In plain terms: before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.*
 
-Before assigning a slot under **section 7**, the standing record must identify:
+Before assigning a slot under **section 7**, the Standing Record must identify:
 
 - the applicable constitutional baseline, duty, constraint, or protected interest;
 - the provisions that establish the verified benefit, adverse outcome, harm, or violation being measured;
 - the definitions, principles, and Rights-Floor Articles that materially affect magnitude or conduct character; and
 - why each identified source applies and how it affects the axis assignment.
 
-The routing tables below are non-exhaustive. Every additional definition, principle, or Article triggered by the verified facts remains applicable and must be identified in the standing record. Each linked canonical home controls; these tables do not restate or narrow it.
+The routing tables below are non-exhaustive. Every additional definition, principle, or Article triggered by the verified facts remains applicable and must be identified in the Standing Record. Each linked canonical home controls; these tables do not restate or narrow it.
 
 #### 6.1 Definition Inputs
 
 | Canonical source | Contribution Axis role | Violation Axis role |
 | --- | --- | --- |
-| [Standing State, Contribution, and Violation](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) | Explains what counts as a contribution and which checked facts can be used to measure it. It also makes sure a contribution standing record tracks only the good side, never mixed with the bad. | Explains what counts as a violation and how it is recorded. It also sends the most serious cases to Anti-Constitutional Misconduct Review, a separate review for conduct that undermines the Constitution itself. |
+| [Standing State, Contribution, and Violation](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) | Explains what counts as a contribution and which checked facts can be used to measure it. It also makes sure a contribution Standing Record tracks only the good side, never mixed with the bad. | Explains what counts as a violation and how it is recorded. It also sends the most serious cases to Anti-Constitutional Misconduct Review, a separate review for conduct that undermines the Constitution itself. |
 | [Accountability](core_05.005_apex_accountability_leg.md#accountability) | Checks whether a claim of good stewardship or repair really keeps someone answerable. It must still show who did what, who has to answer for it, and how it can be reviewed, made right, and corrected, in proportion to its impact. | Finds cases where it is unclear who did something or who must answer for it. This includes cases where responsibility stops working after the organization or its structure changes. |
 | [Harm](core_05.035_band_accountability.md#harm) | Harm that is pushed onto others or hidden can limit or cancel a claimed benefit. Repairing harm can count as a benefit, but only when the repair is verified and independently shown. | Spells out the kinds of damage that count when measuring loss and severity: direct, indirect, delayed, cumulative, spread across systems, and harm to a sentient's mind or emotional wellbeing. |
 | [Materiality](core_05.050_band_oversight.md#materiality) and [Lifespan Equivalent Unit (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) | Set how much a verified benefit counts, based on how widely it reaches, how vulnerable those affected are, and how long it lasts. The result is measured in LEQU, the shared yardstick for a full life's worth of benefit. | Set how much a verified loss or danger counts, based on how widely it reaches, how vulnerable those affected are, how long it lasts, and how hard it is to undo. The result is measured in LEQU, the same yardstick used for a full life's worth of loss. |
@@ -485,7 +485,7 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 | Article source | Axis-assignment role or boundary |
 | --- | --- |
-| The factually applicable [Chapter Six Rights Floor](core_06.000_rights_part_a.md#chapter-six-foundational-rights), including every Article materially implicated by the verified standing record | Sets the basic protections, interests, duties, benefits, or violations at stake. No Article is left out just because it isn't listed below. |
+| The factually applicable [Chapter Six Rights Floor](core_06.000_rights_part_a.md#chapter-six-foundational-rights), including every Article materially implicated by the verified Standing Record | Sets the basic protections, interests, duties, benefits, or violations at stake. No Article is left out just because it isn't listed below. |
 | [Article XIX — Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status) | Keeps these separate: a sentient's standing, dignity, the minimum protections of the Rights Floor, stakeholder status, reputation, and any later change to participation status. |
 | [Article XIII-A — Reliability and Trustworthiness Baseline](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B — Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [Article XV-B — Transparency, Auditability, and Contestability](core_06.020_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), and [Article XVI — Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) | Apply when the verified benefit or violation involves keeping honest records, sharing information, checking the facts, being able to challenge a decision, or fixing mistakes. |
 | [Article XXIV — Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) | Applies when it matters what caused the conduct, whether it was corrected, whether it keeps happening, or whether the response adapted, because that shows how the conduct stands under the Constitution. |
@@ -499,7 +499,7 @@ The routing tables below are non-exhaustive. Every additional definition, princi
   - add a new measure or score;
   - count one fact twice through different sources;
   - merge the two axes; or
-  - make every listed source apply to every standing record.
+  - make every listed source apply to every Standing Record.
 - Contribution and violation are still measured separately.
 - **Article XX** (*Justice After Verified Violation*) consequences stay outside Question 2.
 - Chapter Twenty-One designation review stays separate from the impact slot assigned here.
@@ -517,7 +517,7 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 <br>
 
-*In plain terms: **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The standing records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.*
+*In plain terms: **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The Standing Records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.*
 
 The chart follows one slot assignment from start to finish. It shows the order the steps are worked in, which is not the order of the bullets below; the bullets state each rule.
 

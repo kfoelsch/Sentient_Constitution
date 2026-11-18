@@ -21,7 +21,7 @@
 > - **Anti-relocation rule:** Chapter Nine does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Chapter Eleven §3.4](core_11.000_system_alignment_certification_records_recertification.md#34-non-evasion)), Chapter Sixteen contribution or standing measurement, or Chapter Seventeen standing effects. **[Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)** states the standing bridge.
 >
 > **Upstream:** Chapter Five definitions; Chapters Two through Four record, verification, burden, and traceability of definitions to results; and [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), whose separation-of-duties requirement governs every materially binding certification act.
-> **Downstream:** [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes) (*forum process and outcomes*) and [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) (*record, recertification, and standing bridge*); Chapter Fifteen standing records and verified inputs; Chapter Seventeen standing effects; Chapter Twenty-Three forum supervision and system alignment certification pathways.
+> **Downstream:** [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes) (*forum process and outcomes*) and [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) (*record, recertification, and standing bridge*); Chapter Fifteen Standing Records and verified inputs; Chapter Seventeen standing effects; Chapter Twenty-Three forum supervision and system alignment certification pathways.
 
 </details>
 
@@ -70,8 +70,8 @@ Chapter Nine is the constitutional owner of **system alignment certification eva
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2) (*System Certification Record contents*);
   - [Chapter Eleven §2.2](core_11.000_system_alignment_certification_records_recertification.md#22-transparency-and-auditability-of-the-system-certification-record) (11.000 §2.2) (*record integrity requirements*);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*certification outcomes*);
-  - [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) (11.000 §5) (*standing-record bridge*);
-  - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*standing records and verified-input gate*);
+  - [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) (11.000 §5) (*Standing-Record bridge*);
+  - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Standing Records and verified-input gate*);
   - [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*standing effects and integration*);
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000) (*forum supervision, certification, alignment certification, and review*).
 - Read with:
@@ -106,7 +106,7 @@ Chapter Nine is the constitutional owner of **system alignment certification eva
 - the evaluations that apply where implicated (**section 5**); and
 - the Rights-Floor and domain evaluations that apply when triggered (**section 6**).
 
-The chapter leaves forum review and outcomes to Chapter Ten, the certification record and recertification to Chapter Eleven, and standing records to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
+The chapter leaves forum review and outcomes to Chapter Ten, the Certification Record and recertification to Chapter Eleven, and Standing Records to [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
 
 <a id="2-why-system-alignment-certification-exists"></a>
 
@@ -154,7 +154,7 @@ The process applies by impact class, as the [reclassification requirement](corpu
 - **Class L:** the same evaluation is mandatory but proportionate, with a longer default certification interval and simpler records where CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) permits; and
 - **Class P:** the process is encouraged while the system is validly Class P, and a Class P system may use it voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the operator voluntarily asserts constitutional compliance for the system.
 
-The certification interval, and the financial, resource, or special audit that falls at its midpoint, are set by system class in [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
+The certification interval, and the financial, resource, or special audit that falls at its midpoint, are set by system class in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
 
 <a id="22-certification-at-a-glance"></a>
 

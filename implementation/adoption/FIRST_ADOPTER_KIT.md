@@ -46,7 +46,7 @@ This kit does **not**:
 - Count as [Chapter Twenty-Seven §11](../../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption or [Chapter Twenty-Nine](../../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
 - Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
-- Create a Chapter Fifteen standing record, a Chapter Nine system alignment certification, or a Merits Determination
+- Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
 - Authorize [Chapter Twenty-Seven §11.3](../../core_27.000_amendment_ratification.md#113-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
@@ -141,7 +141,7 @@ NON-ADOPTION CHECK (complete first)
 [ ] This is not a steward self-application declaration.
 [ ] This is not joining under Chapter Twenty-Seven §11.3 (first adopters: use §10.1–§10.2).
 [ ] Independent review named below is not solely the other signatory
-    (Chapter Twenty-Three §3; Chapter Twenty-Seven Procedural Test 4). If this box cannot be checked,
+    (Chapter Twenty-Three §5; Chapter Twenty-Seven Procedural Test 4). If this box cannot be checked,
     stop: operations-guide + declarations only. Use the non-adoption banner.
 
 ADOPTION DOCUMENT
@@ -215,7 +215,7 @@ Checklist for a first adopter:
 
 ## 5. Dispute bootstrap
 
-Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
+Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
 
 | If this is true | Then |
 |---|---|
@@ -239,7 +239,7 @@ Date:
 This file is operations-guide cooperation and/or own-conduct declaration.
 It is not a Chapter Twenty-Seven §11 adoption document.
 It is not Chapter Twenty-Nine incorporation.
-It is not a Chapter Fifteen standing record.
+It is not a Chapter Fifteen Standing Record.
 It is not Chapter Nine certification.
 It does not bind non-consenting parties or systems the signers do not control.
 It does not supersede local, national, or international law.

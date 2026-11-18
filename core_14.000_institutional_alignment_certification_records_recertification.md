@@ -52,7 +52,7 @@ If one of an Institution's Systems loses its certification, the Institution answ
 The chapter leaves:
 
 - evaluation to [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation) and forum process and outcomes to Chapter Thirteen;
-- System certification records and recertification to Chapter Eleven; and
+- System Certification Records and recertification to Chapter Eleven; and
 - standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it), and the later standing steps to [Chapters Seventeen through Twenty](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows).
 
 
@@ -131,7 +131,7 @@ The integrity rules of [Chapter Eleven §2.2 Transparency and Auditability of th
   - **CF-23.445 §3.1** (*Stage Targets and Outer Bounds*);
   - [Chapter Seven §8 Amendment and Review](core_07.000_charters.md#8-amendment-review-and-scope-misalignment) (7.000 §8);
   - [Chapter Three §2 Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000 §2) and [§3.1 Common Evasion Patterns](core_03.000_definition_integrity.md#31-common-evasion-patterns);
-  - [Chapter Twenty-Three §3 Transfer, consolidation, and coordination](core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §3) and [§2.1 Lead default limits](core_23.000_forum.md#21-lead-default-limits);
+  - [Chapter Twenty-Three §5 Transfer, consolidation, and coordination](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5) and [§3.3.3 Lead default limits](core_23.000_forum.md#333-lead-default-limits);
   - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.050 §19.6).
 - Downstream: [§4](#4-challenging-a-certification); [§5](#5-relationship-to-standing); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (23.000).
 - Read with:
@@ -164,7 +164,7 @@ The completed Institutional Certification Record is preserved as it stood and st
 
 #### 3.2 Reopening Triggers
 
-An Institutional Certification Record is recertified on the cadence set for the Institution's class in [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*), and the Institution is audited at the midpoint of that cadence. Review also reopens when any of the following is material:
+An Institutional Certification Record is recertified on the cadence set for the Institution's class in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#review-cadence) (*Review cadence*), and the Institution is audited at the midpoint of that cadence. Review also reopens when any of the following is material:
 
 - **Chapter Eleven triggers,** as [Chapter Eleven §3.2 Reopening Triggers](core_11.000_system_alignment_certification_records_recertification.md#32-reopening-triggers) lists them, applied to the Institution:
   - material change in its activity or context;
@@ -254,8 +254,8 @@ An Institution that decides to take on new material authority must be recertifie
 - **What cleared means:** The recertification ends in provisional or full certification, with or without certification conditions, and every certification condition required before the authority is exercised has been independently verified.
 - **If the forum does not respond in time:** The lead forum owes an official response by the matching intake target ([CF-23.445 §3.1 Stage Targets and Outer Bounds](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds)). The response clears the authority, clears it with certification conditions, or states a blocker with the evidence it rests on. A response that states a blocker gives the Institution its chance to answer, and the forum decides inside the tier window above.
   - **Cleared for the time being:** If no official response comes by the intake target, or a stated blocker is not decided inside the tier window, the authority is cleared for the time being, with the interim protection and reliance limits that [Chapter Ten §3.2 Certification Defects and Correction](core_10.000_system_alignment_certification_forum_process_outcomes.md#32-certification-defects-and-correction) provides.
-  - **A forum defect:** The missed target or window is a forum defect, not a fault of the Institution. It is logged, corrected, and reviewed as an overrun under [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Overrun review*).
-  - **Handed to another forum:** The recertification request is transferred to another forum in the same family ([Chapter Twenty-Three §3 Transfer, consolidation, and coordination](core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)). That forum carries the recertification on the regular windows for the Institution's class, counted from the transfer.
+  - **A forum defect:** The missed target or window is a forum defect, not a fault of the Institution. It is logged, corrected, and reviewed as an overrun under [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Overrun review*).
+  - **Handed to another forum:** The recertification request is transferred to another forum in the same family ([Chapter Twenty-Three §5 Transfer, consolidation, and coordination](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture)). That forum carries the recertification on the regular windows for the Institution's class, counted from the transfer.
 - **If it is not cleared:** The Institution does not exercise the authority and may apply again on the terms of Chapter Ten §3.4 (*Not a Permanent Bar*). Not clearing the new authority is not by itself a denial or revocation of the status the Institution holds for what it already does. That status changes only on a finding under [§3.3 Remediation Readiness for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#33-remediation-readiness-for-an-institution) and [§3.4 Denial and Revocation for an Institution](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#34-denial-and-revocation-for-an-institution).
 - **Without notice, or before it is cleared:** Exercising new material authority without the notice, or before it is cleared, is practice outside the Institutional Charter. It is a finding under [§4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 1) and reopens review as an Institutional Charter event.
 
@@ -362,7 +362,7 @@ Specific to an Institution:
 
 ##### 3.3.4 Tier Windows
 
-[Chapter Eleven §3.3.4 Tier Windows](core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) applies. A matter in which an initial evaluation, a recertification, or a reopened review finds misalignment of the Institution is presumptively placed in the materiality tier that matches the Institution's class (a misaligned Class A Institution is presumptively Tier A), and its intake, evidence preservation, interim protection, and decision run on that tier's windows and outer bounds under [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). An overrun is reviewed as that section requires.
+[Chapter Eleven §3.3.4 Tier Windows](core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) applies. A matter in which an initial evaluation, a recertification, or a reopened review finds misalignment of the Institution is presumptively placed in the materiality tier that matches the Institution's class (a misaligned Class A Institution is presumptively Tier A), and its intake, evidence preservation, interim protection, and decision run on that tier's windows and outer bounds under [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline). An overrun is reviewed as that section requires.
 
 <a id="335-class-a-reliance"></a>
 
@@ -508,7 +508,7 @@ Two points are specific to an Institution:
   - [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) (11.000 §5);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing).
-- Downstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*standing records and verified-input gate*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*standing effects and integration*).
+- Downstream: [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Standing Records and verified-input gate*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*standing effects and integration*).
 - Read with:
   - **Article III-A** (*Survival*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
@@ -517,7 +517,7 @@ Two points are specific to an Institution:
 
 <br>
 
-*In plain terms: certification can feed standing, but it is not standing. An Institutional Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fifteen, but only through a strict gate. Chapters Fifteen and Twenty alone decide standing records and their effects.*
+*In plain terms: certification can feed standing, but it is not standing. An Institutional Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fifteen, but only through a strict gate. Chapters Fifteen and Twenty alone decide Standing Records and their effects.*
 
 This section is **Phase VI, Operate** for an Institution. It is the standing bridge. [Chapter Eleven §5 Relationship to Standing](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) applies to an Institutional Certification Record, with the Institution as the actor to whom facts are attributed. This section keeps what is specific to an Institution and summarizes the rest.
 
@@ -527,8 +527,8 @@ This section is **Phase VI, Operate** for an Institution. It is the standing bri
 
 Only the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Fifteen's verified-input gate ([Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate)), as [§5.3 Verified-Input Gate](#53-verified-input-gate) below sets out:
 
-- An Institutional Certification Record showing that the Institution's own conduct really lines up with the Rights Floor can supply verified **Flourishing**-side input, for a **contribution standing record** ([§5.4 Contribution Standing Record](#54-contribution-standing-record)).
-- An Institutional Certification Record documenting that the Institution was misclassified, hid defects, or operated in ways that defeat the Rights Floor can supply verified **Accountability**-side input, for a **violation standing record** ([§5.5 Violation Standing Record](#55-violation-standing-record)).
+- An Institutional Certification Record showing that the Institution's own conduct really lines up with the Rights Floor can supply verified **Flourishing**-side input, for a **contribution Standing Record** ([§5.4 Contribution Standing Record](#54-contribution-standing-record)).
+- An Institutional Certification Record documenting that the Institution was misclassified, hid defects, or operated in ways that defeat the Rights Floor can supply verified **Accountability**-side input, for a **violation Standing Record** ([§5.5 Violation Standing Record](#55-violation-standing-record)).
 
 This bridge covers only what the Institutional Certification Record can pass on. Any other verified input about an Institution, such as a standing finding made in a forum case, reaches standing by its own route under Chapter Fifteen. Chapter Fifteen decides which other inputs it accepts, and this bridge neither adds to them nor limits them.
 
@@ -558,13 +558,13 @@ An Institutional Certification Record may feed Chapter Fifteen standing only whe
 
 #### 5.4 Contribution Standing Record
 
-On the terms of [Chapter Eleven §5.4 Contribution Standing Record](core_11.000_system_alignment_certification_records_recertification.md#54-contribution-standing-record), positive certification, validation, recertification, remediation completion, or fulfillment of or release from a certification condition may supply verified input for a **contribution standing record** where it demonstrates constitutional benefit, competent stewardship, safe delegation readiness, system optimization, diligence, or constitutional alignment.
+On the terms of [Chapter Eleven §5.4 Contribution Standing Record](core_11.000_system_alignment_certification_records_recertification.md#54-contribution-standing-record), positive certification, validation, recertification, remediation completion, or fulfillment of or release from a certification condition may supply verified input for a **contribution Standing Record** where it demonstrates constitutional benefit, competent stewardship, safe delegation readiness, system optimization, diligence, or constitutional alignment.
 
 <a id="55-violation-standing-record"></a>
 
 #### 5.5 Violation Standing Record
 
-These items, in the Institutional Certification Record, may supply verified input for a **violation standing record** where the facts support adverse classification and attribution to the Institution as the actor:
+These items, in the Institutional Certification Record, may supply verified input for a **violation Standing Record** where the facts support adverse classification and attribution to the Institution as the actor:
 
 - withdrawal of certification;
 - concealed misclassification;

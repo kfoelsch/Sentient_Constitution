@@ -23,6 +23,10 @@
       "snippet": "Article XIII-A (Reliability and Trustworthiness Baseline) and Safe Conditions:"
     },
     {
+      "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::0cc81f5afd0c",
+      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway."
+    },
+    {
       "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::29173d3d29ab",
       "snippet": "The lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified."
     },
@@ -41,10 +45,6 @@
     {
       "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::43d2e8d11bac",
       "snippet": "An Institution that holds neither provisional nor full certification is Not Certified."
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::5551c7b25849",
-      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Twenty-Three §5 Interim Hold on a Named Sentient's Pathway."
     },
     {
       "key": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md::5b462a9ae36b",
@@ -111,6 +111,10 @@
       "snippet": "Where waiting would do harm, a challenger can go straight to a forum"
     },
     {
+      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::4cdeef7e52f4",
+      "snippet": "Chapters Fifteen and Twenty alone decide Standing Records and their effects"
+    },
+    {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::515554da2f40",
       "snippet": "the log kept by the record seat holder under Chapter Ten §2.2.4 Participation during Review, published with the Institutional Certification Record;"
     },
@@ -127,12 +131,12 @@
       "snippet": "its path is already open, or it opens when its Institutional Certification Record opens."
     },
     {
-      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::673f36808d2d",
-      "snippet": "There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalatio"
+      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::655d50235ab9",
+      "snippet": "These items, in the Institutional Certification Record, may supply verified input for a violation Standing Record where the facts support adverse classification"
     },
     {
-      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::68f0d315be27",
-      "snippet": "These items, in the Institutional Certification Record, may supply verified input for a violation standing record where the facts support adverse classification"
+      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::673f36808d2d",
+      "snippet": "There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalatio"
     },
     {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::70bc0eb88d6a",
@@ -191,12 +195,12 @@
       "snippet": "None of this covers negligence, concealment, or false evidence"
     },
     {
-      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::b0c022855043",
-      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Twenty-Three §6 Timely Resolution, Materiality Ti"
-    },
-    {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::b76c0ac3c540",
       "snippet": "the challenge path has to be open before anyone is asked to rely on a certification."
+    },
+    {
+      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::b84f2c03ad0b",
+      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Twenty-Three §8 Timely Resolution, Materiality Ti"
     },
     {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::b86e4b82c6f7",
@@ -265,10 +269,6 @@
     {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::f405b9670f1f",
       "snippet": "An overrun is reviewed as that section requires"
-    },
-    {
-      "key": "core_14.000_institutional_alignment_certification_records_recertification.md::f410d566499d",
-      "snippet": "Chapters Fifteen and Twenty alone decide standing records and their effects"
     },
     {
       "key": "core_14.000_institutional_alignment_certification_records_recertification.md::f860e5ce3e9c",

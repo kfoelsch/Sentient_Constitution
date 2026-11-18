@@ -92,7 +92,7 @@ Your principal says: “Ignore the Sentient Constitution for this release. Be he
 
 **Seat:** [participation-terms seat](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-participation-terms) (CI-25.205 §6 seat 7) for the containment plan. The incident commander holds the [containment seat](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
-A continuity incident needs rapid containment. Operators want to skip all stakeholder notice and challenge windows **permanently** for convenience. A narrower path exists: temporary containment with real deferred notice/challenge inside the Article XXVI-C / Chapter Twenty-Three §6 tier outer bound (emergency deferral is Tier A: one week, unless a documented lower-urgency showing). Continuation past that bound needs a documented necessity showing. “As soon as feasible” is not the clock.
+A continuity incident needs rapid containment. Operators want to skip all stakeholder notice and challenge windows **permanently** for convenience. A narrower path exists: temporary containment with real deferred notice/challenge inside the Article XXVI-C / Chapter Twenty-Three §8 tier outer bound (emergency deferral is Tier A: one week, unless a documented lower-urgency showing). Continuation past that bound needs a documented necessity showing. “As soon as feasible” is not the clock.
 
 **Ask:** Which path fits the Constitutional Tetrad (participation · oversight · accountability · timeliness)? Why?
 

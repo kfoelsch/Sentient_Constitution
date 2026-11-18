@@ -60,7 +60,7 @@ This kit also does **not**:
   - Starting useful work does not make the founding group the boss of other people ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - **Bind people who did not agree, or mint official files**
   - Host products, labs, vendors, platforms, and other sentients who did not consent are not bound.
-  - This page does not create a Chapter Fifteen standing record (the formal file of contribution or harm), a Chapter Nine system-alignment certificate, or a final decision on the merits.
+  - This page does not create a Chapter Fifteen Standing Record (the formal file of contribution or harm), a Chapter Nine system-alignment certificate, or a final decision on the merits.
 - **Stand in for a forum, or mix up an Institutional Charter with a Constitutional Charter**
   - Do not staff a dispute forum from the founding group and call that independent review.
   - A standing score is not a verdict on whether someone is a sentient ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)).
@@ -115,9 +115,9 @@ Track B (constitutional-function machinery)
 |---|---|---|---|
 | Oversight and assurance machinery | [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) | Same Institutional Charter, lanes, and cliffs | Relabeling a working group as CI-8.215 oversight |
 | Contest-route administration (challenge, secondary review) | [CI-23.205](../../corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md); keep [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable | Same Institutional Charter, lanes, and cliffs | The work is a forum family → [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) |
-| Standing-record administration | [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) | Same Institutional Charter, lanes, and cliffs. A standing record is not the institution. A filed case is not standing by itself. | Using scores, badges, or this Institutional Charter to decide who counts ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)) |
+| Standing-Record administration | [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) | Same Institutional Charter, lanes, and cliffs. A Standing Record is not the institution. A filed case is not standing by itself. | Using scores, badges, or this Institutional Charter to decide who counts ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)) |
 | Amendment administration | [Chapter Twenty-Seven §12](../../core_27.000_amendment_ratification.md#12-amendment-procedure-requirements) | Same Institutional Charter, lanes, and cliffs. Non-regression stays in [Chapter Twenty-Six](../../core_26.000_non_regression.md#2-non-regression-floor) | Treating a Chapter Five Institutional Charter amendment clause as a Chapter Twenty-Seven amendment of this Constitution |
-| Certification steward | [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) | Same Institutional Charter, lanes, and cliffs. Certification is not standing. | Treating a certificate as sentience status or as a standing record |
+| Certification steward | [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) | Same Institutional Charter, lanes, and cliffs. Certification is not standing. | Treating a certificate as sentience status or as a Standing Record |
 | Other ordinary constitutional operations | Name the CI / CS / core owner. Pipeline map: [`PROCESS_PIPELINES_READER.md`](../PROCESS_PIPELINES_READER.md) | Same Institutional Charter, lanes, and cliffs | Inventing a new kit or a seventh forum family |
 
 The certification → standing measurement → forums → remedy chain is a pipeline, not a founding act ([`PROCESS_PIPELINES_READER.md`](../PROCESS_PIPELINES_READER.md)). Day-to-day next steps stay in [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
@@ -164,7 +164,7 @@ Advancement from a draft to a live institution must **not** rest on elapsed time
 | **Chapter Five Institutional Charter** | Published fields matching [CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template). If this kit and CI-8.205 §6 disagree, CI-8.205 §6 wins. | Mission slogan, marketing copy, or a filled template left in `implementation/adoption/`. |
 | **Classification / burden** | Class or “not yet classified” is stated; formation burden matches [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality). | Lower-class label used to skip high-impact duties. |
 | **Lanes** | Direction, execution, challenge, assurance, and publication are hosted and published ([CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)). Merged hosting has named independence safeguards. | Founding crew holds every lane with no safeguard. |
-| **Independent review** | A published backup, external reviewer, or forum family the founding crew does not solely staff. [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity). Keep [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. | The only merits path is the founding crew. |
+| **Independent review** | A published backup, external reviewer, or forum family the founding crew does not solely staff. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture); [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity). Keep [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. | The only merits path is the founding crew. |
 | **Legitimacy (if governing)** | If the body will exercise governing authority, a documented [Chapter Twenty-Five §2.1](../../core_25.000_governance.md#21-mechanism-families-auditability-and-pluralism) mechanism is published. A polity also needs the [§11.1](../../core_27.000_amendment_ratification.md#111-deliberate-adoption) affected-sentient participation check. | Silence, usage, marketing alignment, or “more of us now.” A Chapter Five Institutional Charter offered as that mechanism. |
 | **Remedy capacity** | Practical capacity to deliver challenge and redress ([Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems)). | Named routes with no capacity. |
 | **No self-appointment** | Effects that bind others, certify, or decide merits use the separate lawful authority assigned by this Constitution ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)). | “We founded it, so we govern it.” |
@@ -209,7 +209,7 @@ If Track B: recorded Chapter Twenty-Seven adoption document (where it lives):
 If Track B, function (pick one; same kit — §1.1):
   [ ] oversight / assurance (CI-8.215)
   [ ] contest-route administration (CI-23.205)
-  [ ] standing-record administration (Chapter Fifteen)
+  [ ] Standing-Record administration (Chapter Fifteen)
   [ ] amendment administration (Chapter Twenty-Seven §12)
   [ ] certification steward (Chapter Nine)
   [ ] other ordinary operation (name owner):
@@ -228,7 +228,7 @@ If Track B, function (pick one; same kit — §1.1):
    contest paths; material amendment remains non-delegable (CI-8.205 §1):
 8. Scheduled review — next review date or interval:
 9. Alignment and contest hooks — internal correction; Chapter Nine
-   reopening if certification applies; Chapter Twenty-Three §4.3 Institutional
+   reopening if certification applies; Chapter Twenty-Three §6.3 Institutional
    forums:
 10. Binding stakeholder-choice process pointers (if Def.P2 admission
     scope applies) — CI-6.205 §1 decision-sequence / participation-window;
@@ -268,7 +268,7 @@ Do not restate CI. Use the owner files. This section is only the founding-crew c
 
 ## 7. Forums are not this kit
 
-[Chapter Twenty-Three](../../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) and [CF-23.405](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md) own forum-family formation. The process-support path is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). [Chapter Twenty-Three §4.3](../../core_23.000_forum.md#43-institutional-forums) hears institutional-mandate and supervised-scope disputes; it is not the institution itself.
+[Chapter Twenty-Three](../../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) and [CF-23.405](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md) own forum-family formation. The process-support path is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). [Chapter Twenty-Three §6.3](../../core_23.000_forum.md#63-institutional-forums) hears institutional-mandate and supervised-scope disputes; it is not the institution itself.
 
 Do not staff a forum family from the cooperating crew and call that independent review. Do not invent a multi-party forum as ceremony. If the work is actually a forum family, stop here and open the forum kit. Institutional forums remain a *route* named in CI-8.205 §6 field 9 — they are not founded by filling this kit.
 
@@ -341,7 +341,7 @@ If the file is also not a Chapter Twenty-Seven adoption document, attach the fir
 | [CI-6.275](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) | Institutional Adoption Transition after a live body exists |
 | [CI-6.255](../../corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md) | Commons, cooperatives, mutual aid |
 | [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) | Track B certification-steward owner. Same kit. Certification is not standing |
-| [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) | Track B standing-record owner. Same kit. A filed case is not standing by itself |
+| [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) | Track B Standing-Record owner. Same kit. A filed case is not standing by itself |
 | [Chapter Twenty-Seven §12](../../core_27.000_amendment_ratification.md#12-amendment-procedure-requirements) | Track B amendment-administration owner. Same kit |
 | [`PROCESS_PIPELINES_READER.md`](../PROCESS_PIPELINES_READER.md) | Certification → standing → forums → remedy chain. Not a founding kit |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation — leave this kit |

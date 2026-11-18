@@ -214,7 +214,7 @@
     },
     {
       "avoid": "certify a question / certified question(s) / refer, certify, or stay (the forum move that sends a question to another forum)",
-      "prefer": "question for ruling and send for ruling (Chapter Twenty-Three section 5); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
+      "prefer": "question for ruling and send for ruling (Chapter Twenty-Three section 7); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
     },
     {
       "avoid": "pass / passes (bare noun: the pass, a pass, each pass)",
@@ -223,6 +223,10 @@
     {
       "avoid": "design cause / design-cause / the cause is design (retired name)",
       "prefer": "design-caused (a finding of design-caused misalignment; the other kind is operating-caused; or not yet determined), Chapter Eleven section 3.3.3; the verb (the design causes harm) stays; enforced by avoid-design-cause"
+    },
+    {
+      "avoid": "alignment record / alignment records / alignment-record (retired name)",
+      "prefer": "System Certification Record or Institutional Certification Record (System or Institutional Certification Record for both) for the record of a certification outcome; Forum Case Record for a forum's file on a dispute; alignment certification and ongoing alignment validation stay; enforced by avoid-alignment-record"
     },
     {
       "avoid": "component pass / component passes (retired name)",

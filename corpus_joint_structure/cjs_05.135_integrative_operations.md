@@ -111,7 +111,7 @@ Authorization and predicate minimum
 *In plain terms: disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review that starts inside the prompt-review window.*
 
 - **What it is**
-  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review begun inside the **prompt-review window** ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#prompt-review) (*Prompt review*)).
+  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review begun inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#prompt-review) (*Prompt review*)).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and predicate minimum.
 <a id="authorization-and-predicate-minimum-a"></a>
 - **How to measure and assess**
@@ -312,7 +312,7 @@ Emergency technical-coupling discipline
 *In plain terms: emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review that starts inside the prompt-review window where they materially affect rights or governance authority, and rolled back or restored where feasible.*
 
 - **What it is**
-  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review begun inside the **prompt-review window** ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#prompt-review) (*Prompt review*)) where they materially affect rights or governance authority, and rolled back or restored where feasible.
+  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review begun inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#prompt-review) (*Prompt review*)) where they materially affect rights or governance authority, and rolled back or restored where feasible.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in emergency technical-coupling discipline.
 <a id="emergency-technical-coupling-discipline-a"></a>
 - **How to measure and assess**

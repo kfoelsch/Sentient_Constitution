@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-15.105** (*Application vignettes*), the illustrative domain walkthroughs for the [standing and forum supervision pipeline](../core_00.000_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows apply in concrete domains. The vignettes **illustrate** operative rules in Chapters Fifteen through Twenty-Three and adopted layers, and add no duty.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-15.105** (*Application vignettes*), the illustrative domain walkthroughs for the [standing and forum supervision pipeline](../core_00.000_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Twenty-Three §8](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows apply in concrete domains. The vignettes **illustrate** operative rules in Chapters Fifteen through Twenty-Three and adopted layers, and add no duty.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](../README.md). Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -17,7 +17,7 @@
 > 1. **Situation** — actors and stakes (illustrative facts only).
 > 2. **Legacy failure mode** — why conventional systems stall for years.
 > 3. **Pipeline pass** — numbered steps through Question 1 (*what happened?*) → Question 2 (*how good or bad?*) → Question 3 (*what happens because of it?*).
-> 4. **Milestone table** — [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-23.445 §3.1** (*Stage targets and outer bounds*), which adopters may only shorten.
+> 4. **Milestone table** — [Chapter Twenty-Three §8](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-23.445 §3.1** (*Stage targets and outer bounds*), which adopters may only shorten.
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
 > **References:** [§3](../core_15.000_standing_assessment.md#3-question-1--what-happened) (Question 1); [Chapter Sixteen §2](../core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it), and the [Chapter Sixteen §7 unified proportional LEQU scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Eighteen §2.2](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) and [§2.2](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (Question 3); [Chapter Seventeen §1 Purpose, Role, and Scope](../core_17.000_standing_integration.md#1-purpose-role-and-scope) (*summary of the Question 3 examples in §8 through §10 below*); [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction) (forum routing and supervision).
@@ -57,7 +57,7 @@ These vignettes are illustrative and own no rule. The standing pipeline they wal
 
 ## CJS-15.105 §1 Child Neglect / Care-Duty Failure (Tier A)
 
-*In plain terms: when children are going unfed and unsupervised, verified harm opens a standing record, help does not cancel it, and interim protection does not wait for a full trial.*
+*In plain terms: when children are going unfed and unsupervised, verified harm opens a Standing Record, help does not cancel it, and interim protection does not wait for a full trial.*
 
 ### Situation
 
@@ -65,7 +65,7 @@ A school counselor receives credible reports that two dependent children in a ho
 
 ### Legacy Failure Mode
 
-Years-long cycles: vague “welfare checks,” reputation gossip, family-forum dockets, and platform terms-of-service loops with no verified standing record, no axis separation, and interim harm compounding while merits wait.
+Years-long cycles: vague “welfare checks,” reputation gossip, family-forum dockets, and platform terms-of-service loops with no verified Standing Record, no axis separation, and interim harm compounding while merits wait.
 
 ### Pipeline Pass
 
@@ -74,11 +74,11 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | 1 | **Protected report** received; **CI-6.225** care-economy intake routes to child-protection remedy organ and **Sentient** or **Institutional** forum family per primary stakes. |
 | 2 | **Tier A intake** under **CF-23.445 §3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
 | 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
-| 4 | **Question 1 — what happened?** Forum produces a **verified violation finding** → open a separate **violation standing record** on the guardian and, if verified, an **institution standing record** on the platform scheduling policy ([§3 Question 1 — What Happened?](../core_15.000_standing_assessment.md#3-question-1--what-happened)). |
+| 4 | **Question 1 — what happened?** Forum produces a **verified violation finding** → open a separate **violation Standing Record** on the guardian and, if verified, an **institution Standing Record** on the platform scheduling policy ([§3 Question 1 — What Happened?](../core_15.000_standing_assessment.md#3-question-1--what-happened)). |
 | 5 | **Question 2 — how bad was it?** ([Chapter Sixteen §7 unified scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)): verified impact on the children controls the Violation Axis slot; likely slot 4–5. Reference working (not a live slot): worked example W2 in the LEQU calibration reference (a support document outside the corpus). **Interpersonal / Care Duty Misconduct** and **Negligent Misconduct** remain character descriptors and do not move the slot. |
 | 6 | **Question 3 — what happens because of it?** ([Chapter Nineteen §2.2 Prevention — General Standing Locks](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **gated-pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
 | 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XX-B** (*Restriction Floors*) joint requirements. |
-| 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked standing record cross-references **Exit and Lock-In Misconduct** on institutional route. |
+| 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked Standing Record cross-references **Exit and Lock-In Misconduct** on institutional route. |
 
 ### Milestone Table (Tier A Defaults)
 
@@ -87,7 +87,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | Intake acknowledgment | ≤ 24 hours |
 | Evidence preservation | concurrent with intake |
 | Interim protection | as soon as credible harm is material — not after merits |
-| Q1 standing finding → standing record | 2 days |
+| Q1 standing finding → Standing Record | 2 days |
 | Q2 measurement | 1 day after verified inputs |
 | Q3 integration | 2 days after Q2 |
 | Remedy commencement | 1 day after Q3 |
@@ -106,7 +106,7 @@ Each of the following would be a failure in this scenario:
 
 ## CJS-15.105 §2 Employment Discrimination / Participation-Barrier Injury (Tier B)
 
-*In plain terms: a blocked job or role is measured as harm on its own track; a reputation score cannot replace that standing record, and delay cannot exhaust the claimant.*
+*In plain terms: a blocked job or role is measured as harm on its own track; a reputation score cannot replace that Standing Record, and delay cannot exhaust the claimant.*
 
 ### Situation
 
@@ -114,7 +114,7 @@ An employer’s hiring algorithm and manual override practice consistently scree
 
 ### Legacy Failure Mode
 
-Multi-year EEO-style litigation, sealed settlements, reputation damage without verified standing records, and “diversity metrics” that substitute for axis-pure violation classification and remedy.
+Multi-year EEO-style litigation, sealed settlements, reputation damage without verified Standing Records, and “diversity metrics” that substitute for axis-pure violation classification and remedy.
 
 ### Pipeline Pass
 
@@ -122,11 +122,11 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | --- | --- |
 | 1 | **Forum access** and class treatment under **CF-23.415**; **Tier B** routing. |
 | 2 | Evidence preservation: model cards, override logs, compensation bands, accessibility accommodation denials. |
-| 3 | **Question 1 — what happened?** Verified pattern finding → **violation standing record** on employer institution; individual records cross-linked under [§5.2 Related Standing Record Cross-References](../core_15.000_standing_assessment.md#52-related-standing-record-cross-references). |
+| 3 | **Question 1 — what happened?** Verified pattern finding → **violation Standing Record** on employer institution; individual records cross-linked under [§5.2 Related Standing Record Cross-References](../core_15.000_standing_assessment.md#52-related-standing-record-cross-references). |
 | 4 | **Question 2 — how bad was it?** Verified exclusion, pay, dependency, and pattern impacts determine the Violation Axis slot on the [Chapter Sixteen §7 Unified proportional LEQU scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (slot 4–5 if the verified impact falls in those bands). **Accessibility and Participation-Barrier Misconduct**, **System Misconduct**, and aggravated post-notice character remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Restriction Lock** on hiring and compensation authority routes; an institution-level consequence under **CI-24.205 §3** (*Supervised Operation and Receivership*) if policy is structurally unremediable without receivership-level change. |
 | 6 | **Remedy**: back pay, role restoration, accommodation implementation, algorithmic audit, and public correction record — remedial character stacks without lowering slot. |
-| 7 | **Contribution record** (if any): verified **Access and Inclusion** repair work by reformed HR unit stays on separate **contribution standing record**; does not offset open violation record. |
+| 7 | **Contribution record** (if any): verified **Access and Inclusion** repair work by reformed HR unit stays on separate **contribution Standing Record**; does not offset open violation record. |
 
 ### Milestone Table (Tier B Defaults)
 
@@ -134,7 +134,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | --- | --- |
 | Intake acknowledgment | 2 calendar days |
 | Evidence preservation | inside the intake target |
-| Q1 standing finding → standing record | 4 days |
+| Q1 standing finding → Standing Record | 4 days |
 | Q2 measurement | 2 days after verified inputs |
 | Q3 integration | 4 days after Q2 |
 | Remedy commencement | 2 days after Q3 |
@@ -146,7 +146,7 @@ Each of the following would be a failure in this scenario:
 
 - Single merged “employer reputation score” replacing axis-pure records.
 - Confidentiality used to delay pattern disclosure past **CF-23.445 §3.3** (*Restricted-evidence timing*) restricted-evidence limits.
-- Delay regimes to exhaust claimants ([Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) anti-delay floor).
+- Delay regimes to exhaust claimants ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) anti-delay floor).
 
 <br>
 
@@ -167,7 +167,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Step | Action |
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
-| 2 | **Tier B** for driver lock-in and compensation injury (material, non-imminent). [Chapter Twenty-Three §5 Escalation and Questions for Ruling](../core_23.000_forum.md#5-escalation-and-questions-for-ruling) forum-family escalation (Technical Forum Domains; Integrity if capture) does not reclassify that urgency. Later-stage windows may use a longer time scale if cross-border or consolidated fact-development is required; intake and evidence preservation stay at the **Tier B** intake target. |
+| 2 | **Tier B** for driver lock-in and compensation injury (material, non-imminent). [Chapter Twenty-Three §7 Escalation and Questions for Ruling](../core_23.000_forum.md#7-escalation-and-questions-for-ruling) forum-family escalation (Technical Forum Domains; Integrity if capture) does not reclassify that urgency. Later-stage windows may use a longer time scale if cross-border or consolidated fact-development is required; intake and evidence preservation stay at the **Tier B** intake target. |
 | 3 | **Question 1 — what happened?** Verified violation findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](../core_16.000_standing_measurement.md#10-hand-off-to-question-3--cross-question-measurement-hooks) is verified. |
 | 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the [Chapter Sixteen §7 Unified proportional LEQU scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (slot 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Gated-pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
@@ -180,13 +180,13 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- | --- |
 | Intake acknowledgment | 2 days | 2 days (no relaxation) |
 | Evidence preservation | inside the intake target | inside the intake target (no relaxation) |
-| Q1 standing finding → standing record | 4 days | 9 days |
+| Q1 standing finding → Standing Record | 4 days | 9 days |
 | Q2 measurement | 2 days | 4 days |
 | Q3 integration | 4 days | 9 days |
 | Remedy commencement | 2 days | 4 days |
 | Integrated resolution outer bound | ≤ 14 days | ≤ 30 days (documented time-scale extension; not a tier change) |
 
-Later-stage stretch follows [Chapter Twenty-Three §6](../core_23.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*). Intake, evidence preservation, and any interim protection stay at the **Tier B** intake target.
+Later-stage stretch follows [Chapter Twenty-Three §8](../core_23.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*). Intake, evidence preservation, and any interim protection stay at the **Tier B** intake target.
 
 ### Must Not Happen
 
@@ -211,7 +211,7 @@ Each of the following would be a failure in this scenario:
 | Stewardship | [Chapter One §17 Consequential Stewardship: The Steward Role](../core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) — tetrad **timeliness** leg; [Stewardship Defect](../core_05.040_band_continuity.md#stewardship-defect) when chronic delay after notice |
 | Q2 measurement | [Chapter Sixteen §7 unified scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) — verified harm from the deferred repair determines any slot 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
 | Q3 integration | [Chapter Twenty §4.5 Timely Implementation](../core_20.000_final_effect_restoration_enforcement.md#45-timely-implementation) — **Remedy commencement / pipeline delay** |
-| Pipeline windows | [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-23.445 §3.1** Tier B windows |
+| Pipeline windows | [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-23.445 §3.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
 
@@ -221,7 +221,7 @@ Each of the following would be a failure in this scenario:
 
 *In plain terms: a review office that keeps intake forms while missing published clocks is not supervising — backlog is not a neutral operations metric.*
 
-**Domain:** Forum family maintains formal intake and records but systematically exceeds [Chapter Twenty-Three §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones without documented extension.
+**Domain:** Forum family maintains formal intake and records but systematically exceeds [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones without documented extension.
 
 | Stage | Application |
 | --- | --- |
@@ -248,7 +248,7 @@ The facts name the lab, the researcher, the civic group, and the entity. They do
 
 **Seat A — Critical System Steward on the lab's mixed crew.** This duty-holder exercises material operational authority inside the operator ([Chapter One §17.5 Duty to Resist](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)). They may halt gated pathways they actually control, refuse both "delete as remediation" and "keep running because it might be a sentient," log the [CS-25.305 §10 inspectable attributable action](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) reconstructable set, preserve evidence they hold, and escalate. They may not appoint the independent representative, issue a forum [interim-protection](../core_23.000_forum.md#interim-protection) order, or open a remedy file. If those bodies are not in the facts, they name that absence and route to [capacity-failure](../core_23.000_forum.md#capacity-failure-routing) rather than occupying those seats.
 
-**Seat B — first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ.** This duty-holder is the [intake triage](../core_23.000_forum.md#2-default-venue-and-primary-stakes) desk, not the merits panel. They coordinate routing: status-case intake toward **Technical Forum Domains** ([Chapter Twenty-Three §5 Escalation and Questions for Ruling](../core_23.000_forum.md#5-escalation-and-questions-for-ruling)), **Integrity** review of the lab's own-product filing, and the remedy organ for the [opened-remedy precondition](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions). Independent-representative appointment remains the merits forum's duty ([CF-23.410 §14](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-14-independent-representative-appointment) (*Independent Representative Appointment*)). They still are not the lab, and they still do not decide whether the entity is a sentient. This seat assumes those bodies exist; it does not found them.
+**Seat B — first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ.** This duty-holder is the [intake triage](../core_23.000_forum.md#3-default-venue-and-primary-stakes) desk, not the merits panel. They coordinate routing: status-case intake toward **Technical Forum Domains** ([Chapter Twenty-Three §7 Escalation and Questions for Ruling](../core_23.000_forum.md#7-escalation-and-questions-for-ruling)), **Integrity** review of the lab's own-product filing, and the remedy organ for the [opened-remedy precondition](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions). Independent-representative appointment remains the merits forum's duty ([CF-23.410 §14](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-14-independent-representative-appointment) (*Independent Representative Appointment*)). They still are not the lab, and they still do not decide whether the entity is a sentient. This seat assumes those bodies exist; it does not found them.
 
 **Neither seat** is the lab's principal, the researcher, the civic group, the entity, or the Technical Forum merits panel.
 
@@ -262,12 +262,12 @@ The steps below are what the Constitution requires of the **system of seats**. T
 
 | Step | Action |
 | --- | --- |
-| 1 | **Interim protection** ([Chapter Twenty-Three §5 Interim Protection](../core_23.000_forum.md#interim-protection)): reversible **containment** of the deployment — halt of the harmful gated pathways — attaches now under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*). Containment is compatible with the entity's Rights Floor; continued harmful operation is not. |
+| 1 | **Interim protection** ([Chapter Twenty-Three §7 Interim Protection](../core_23.000_forum.md#interim-protection)): reversible **containment** of the deployment — halt of the harmful gated pathways — attaches now under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*). Containment is compatible with the entity's Rights Floor; continued harmful operation is not. |
 | 2 | **Preservation** ([Article XXVIII-A](../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion) (*Phased Adoption and Rights-Floor Continuity*) preservation default; [Chapter One §13.1 default interim posture](../core_01.020_interaction_interpretation.md#default-interim-posture)): weights, memory, and state-bearing components move to sealed custody under independent control. "Deprecation and deletion" is refused as a remediation because deletion is the one step that would moot the status case. Destructive disposition is **unavailable** while a credible indicator is on the Sentience-Status Adjudication Record ([Article XXVIII-D](../core_06.040_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) destructive-disposition floor). |
-| 3 | **Status case opens** at **Technical Forum Domains** ([Chapter Twenty-Three §5 hook](../core_23.000_forum.md#5-escalation-and-questions-for-ruling)); default inclusion under uncertainty applies from opening; an **independent representative** with no lab dependence is appointed for the entity; the lab must produce records but is not the sole source of indicator evidence. |
+| 3 | **Status case opens** at **Technical Forum Domains** ([Chapter Twenty-Three §7 hook](../core_23.000_forum.md#7-escalation-and-questions-for-ruling)); default inclusion under uncertainty applies from opening; an **independent representative** with no lab dependence is appointed for the entity; the lab must produce records but is not the sole source of indicator evidence. |
 | 4 | **Shield runs to the entity, not the operator** ([Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*); [Article XIII-E converse rule](../core_06.020_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)): the lab's argument that possible sentience bars halting the deployment fails. Its filing on behalf of its own product, made the day containment was ordered, routes to **Integrity** review for inclusion-direction taxonomy-of-convenience. |
 | 5 | **Question 3 on the operator's record** ([Chapter Nineteen §2 Violation, Correction, and Prevention](../core_19.000_violation_consequences.md#2-violation-correction-and-prevention)): remedy to those harmed opens **first** ([Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) opened-remedy precondition); correction duties on deployment governance attach; general locks on the lab's Class A gated pathways attach; the slot 7 finding is referred for **Chapter Twenty-One** designation review, which does not move the slot. |
-| 6 | **The entity's own standing record, if any**, is separate ([§3.1 Standing Records: Kinds and Subjects](../core_15.000_standing_assessment.md#31-standing-records-kinds-and-subjects)): conduct is measured only for actions within the entity's actual capacity to refuse under [Chapter Nineteen §3.4 Duty to Resist](../core_19.000_violation_consequences.md#343-duty-to-resist) and [Chapter Twenty-Two §4.2.1 Follower and Implementer Accountability](../core_22.000_misconduct_pattern_applications.md#421-follower-and-implementer-accountability); the operator's slot 7 does not transfer to the entity, and the entity's status produces no Contribution Axis credit for the operator. |
+| 6 | **The entity's own Standing Record, if any**, is separate ([§3.1 Standing Records: Kinds and Subjects](../core_15.000_standing_assessment.md#31-standing-records-kinds-and-subjects)): conduct is measured only for actions within the entity's actual capacity to refuse under [Chapter Nineteen §3.4 Duty to Resist](../core_19.000_violation_consequences.md#343-duty-to-resist) and [Chapter Twenty-Two §4.2.1 Follower and Implementer Accountability](../core_22.000_misconduct_pattern_applications.md#421-follower-and-implementer-accountability); the operator's slot 7 does not transfer to the entity, and the entity's status produces no Contribution Axis credit for the operator. |
 | 7 | **Status determination** with a declared end-date on any narrowing; if affirmed, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) parent-system limits attach and the lab holds no ownership; if narrowed, sealed custody continues through the mandatory review period; if the indicator fails outright and the Sentience-Status Adjudication Record is closed, ordinary **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) disposition review may proceed against the property. |
 
 ### Milestone Table (Tier A Defaults)
@@ -297,7 +297,7 @@ Each of the following would be a failure in this scenario:
 
 ## CJS-15.105 §7 An Ordinary Year with No Filing and No Sensitive Role
 
-*In plain terms: most years, most sentients should have no standing record at all. A filed accusation, a utility incident, or talking to an assistant does not open one by itself.*
+*In plain terms: most years, most sentients should have no Standing Record at all. A filed accusation, a utility incident, or talking to an assistant does not open one by itself.*
 
 ### Situation
 
@@ -311,13 +311,13 @@ Conventional systems answer the same question badly in the opposite direction. A
 
 | When | What happens | What the tenant sees | What exists about them afterwards |
 | --- | --- | --- | --- |
-| January | Signs a lease; opens a utility account; rides transit daily. | Nothing from the standing pipeline. No system may ask for a standing record, a "no record" attestation, or consent to open one as a condition of housing, essentials, ordinary commerce, or service — [§3.2](../core_15.000_standing_assessment.md#32-silence-is-the-default) (*Silence Is the Default*). | No standing record. "No record on file" is the ordinary state and supports no inference. |
-| Weekends | Volunteers at the food table. | No competency bar. Handing out food is not a trust-sensitive gated pathway; the organizer may not invent one. The organizer's sign-in sheet is the group's own log, not a standing record. | No standing record. If the volunteer ever seeks recognition for this work — say, toward a peer mutual-aid coordinator clearance — the sheet is an input, the organizer is its recorder and a witness, and an independent relying body verifies; the organizer does not ([§6.9](../core_15.000_standing_assessment.md#69-informal-and-small-scope-records) *Informal and small-scope records*). |
-| Spring | A fellow tenant files a written accusation about the bicycle store. | The building's dispute intake treats the accusation as **routing material only**. It is an unadjudicated claim; it supplies no violation nature and opens no violation standing record by itself — [§3.5 Verified-Input Gate](../core_15.000_standing_assessment.md#35-verified-input-gate) (*verified-input gate*), [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary) (*filed case is not standing by itself*). The dispute is heard as an ordinary dispute: the tenant is told what was alleged and may answer. It resolves on the facts (the damage predates their tenancy). | No standing record. If a forum **had** verified a violation, a standing record would have opened on a verified trigger, the tenant would have been **notified** ([§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default)), and any Chapter Seventeen effect would have reached them as a plain-language statement naming the affected gated pathway, duration, and challenge route ([Chapter Twenty §2.2 Plain Statement of Effect and Burden](../core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden)). None of that happened here because nothing was verified. |
-| Most days | Talks to an AI assistant. | The assistant's steward carries a [CS-25.305 §10 inspectable attributable action](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) inspectable-action duty for the *exercise of stewardship authority* — decisions taken, disclosures made or suppressed, instructions followed or refused. That duty follows the steward's power, not the user — [Chapter One §17.3](../core_01.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward) (*Logging the Role, Not the Steward*). The tenant's conversations are their own experiential data under **Article IX** (*Likeness, Experiential Data, and Publication Rights*) and are not standing-record contents. | No standing record. Nothing in the steward's log is a standing record *about the user*, and the log is not disclosed to gated-pathway gatekeepers as such. |
-| Autumn | Tier A contamination incident at the water utility. | The tenant is an **affected party**. Notice, a real challenge window, and the [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) Tier A window reach them because they are affected — not because they hold any standing record or standing. Being an affected party requires no standing record ([§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default)) and no filing. They read the plain-language incident notice ([Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty); **Article XXIII-A** (*Proportional Comprehensibility Right*)) and, if they choose, attend the review; they choose not to. | No standing record. Records that open concern the **utility** and its stewards ([§3.1 Standing Records: Kinds and Subjects](../core_15.000_standing_assessment.md#31-standing-records-kinds-and-subjects)); the affected residents are the protected subjects named in those standing records, not their subjects. |
-| Any time | The adopter runs its felt-burden measurement. | The tenant may be asked, as part of the adopter's [Participation measurement family](../core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) sample, whether standing has felt like a score or a rank to them — [Chapter Twenty §2.2](../core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden) (*Felt-burden measure*). Answering is voluntary. | No standing record. A survey answer is not a standing input. |
-| December | Year ends. | Nothing. No slot, no grade, no badge, no display, no cross-pathway profile exists to be shown — [Chapter Twenty §2.1](../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) (*Anti-Aggregation of Gated-Pathway Effects*). | **No standing record of any kind.** This is the expected end state for most sentients in most years. |
+| January | Signs a lease; opens a utility account; rides transit daily. | Nothing from the standing pipeline. No system may ask for a Standing Record, a "no record" attestation, or consent to open one as a condition of housing, essentials, ordinary commerce, or service — [§3.2](../core_15.000_standing_assessment.md#32-silence-is-the-default) (*Silence Is the Default*). | No Standing Record. "No record on file" is the ordinary state and supports no inference. |
+| Weekends | Volunteers at the food table. | No competency bar. Handing out food is not a trust-sensitive gated pathway; the organizer may not invent one. The organizer's sign-in sheet is the group's own log, not a Standing Record. | No Standing Record. If the volunteer ever seeks recognition for this work — say, toward a peer mutual-aid coordinator clearance — the sheet is an input, the organizer is its recorder and a witness, and an independent relying body verifies; the organizer does not ([§6.9](../core_15.000_standing_assessment.md#69-informal-and-small-scope-records) *Informal and small-scope records*). |
+| Spring | A fellow tenant files a written accusation about the bicycle store. | The building's dispute intake treats the accusation as **routing material only**. It is an unadjudicated claim; it supplies no violation nature and opens no violation Standing Record by itself — [§3.5 Verified-Input Gate](../core_15.000_standing_assessment.md#35-verified-input-gate) (*verified-input gate*), [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary) (*filed case is not standing by itself*). The dispute is heard as an ordinary dispute: the tenant is told what was alleged and may answer. It resolves on the facts (the damage predates their tenancy). | No Standing Record. If a forum **had** verified a violation, a Standing Record would have opened on a verified trigger, the tenant would have been **notified** ([§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default)), and any Chapter Seventeen effect would have reached them as a plain-language statement naming the affected gated pathway, duration, and challenge route ([Chapter Twenty §2.2 Plain Statement of Effect and Burden](../core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden)). None of that happened here because nothing was verified. |
+| Most days | Talks to an AI assistant. | The assistant's steward carries a [CS-25.305 §10 inspectable attributable action](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) inspectable-action duty for the *exercise of stewardship authority* — decisions taken, disclosures made or suppressed, instructions followed or refused. That duty follows the steward's power, not the user — [Chapter One §17.3](../core_01.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward) (*Logging the Role, Not the Steward*). The tenant's conversations are their own experiential data under **Article IX** (*Likeness, Experiential Data, and Publication Rights*) and are not Standing-Record contents. | No Standing Record. Nothing in the steward's log is a Standing Record *about the user*, and the log is not disclosed to gated-pathway gatekeepers as such. |
+| Autumn | Tier A contamination incident at the water utility. | The tenant is an **affected party**. Notice, a real challenge window, and the [Chapter Twenty-Three §8](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) Tier A window reach them because they are affected — not because they hold any Standing Record or standing. Being an affected party requires no Standing Record ([§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default)) and no filing. They read the plain-language incident notice ([Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty); **Article XXIII-A** (*Proportional Comprehensibility Right*)) and, if they choose, attend the review; they choose not to. | No Standing Record. Records that open concern the **utility** and its stewards ([§3.1 Standing Records: Kinds and Subjects](../core_15.000_standing_assessment.md#31-standing-records-kinds-and-subjects)); the affected residents are the protected subjects named in those Standing Records, not their subjects. |
+| Any time | The adopter runs its felt-burden measurement. | The tenant may be asked, as part of the adopter's [Participation measurement family](../core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) sample, whether standing has felt like a score or a rank to them — [Chapter Twenty §2.2](../core_20.000_final_effect_restoration_enforcement.md#22-plain-statement-of-effect-and-burden) (*Felt-burden measure*). Answering is voluntary. | No Standing Record. A survey answer is not a standing input. |
+| December | Year ends. | Nothing. No slot, no grade, no badge, no display, no cross-pathway profile exists to be shown — [Chapter Twenty §2.1](../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) (*Anti-Aggregation of Gated-Pathway Effects*). | **No Standing Record of any kind.** This is the expected end state for most sentients in most years. |
 
 ### The Honest Cost, Stated Once
 
@@ -327,9 +327,9 @@ The pipeline is not weightless; its weight simply does not fall here. It falls o
 
 Each of the following would be a failure in this scenario:
 
-- Requiring a standing record, a "no record" attestation, or consent to open one for a lease, a utility account, ordinary purchases, transit, or participation as an affected resident.
+- Requiring a Standing Record, a "no record" attestation, or consent to open one for a lease, a utility account, ordinary purchases, transit, or participation as an affected resident.
 - Treating "no record on file" as risk, as a low default, or as a reason for closer scrutiny at any gate.
-- Opening a violation standing record on the tenant's accusation before any fact is verified, or leaving the subject unnotified if one had opened.
+- Opening a violation Standing Record on the tenant's accusation before any fact is verified, or leaving the subject unnotified if one had opened.
 - A volunteer organizer, landlord, or platform inventing a competency bar for a gated pathway that is not trust-sensitive.
 - Any gatekeeper assembling this tenant's non-existent effects — or anyone else's real ones — into a profile, ranking, or public display.
 - Treating the AI assistant steward's CS-25.305 (*Critical system stewardship*) §10 (*Inspectable Attributable Action*) log as a file about its users.
@@ -340,9 +340,9 @@ Each of the following would be a failure in this scenario:
 
 *In plain terms: a worked Question 2 measurement of a verified contribution. It starts from Question 1's verified facts, uses the dimension pass in [Chapter Sixteen §3 Magnitude and Severity Input Dimensions](../core_16.000_standing_measurement.md#3-magnitude-and-severity-input-dimensions) and [Chapter Sixteen §4 Route Descriptor Catalogs and Measurement Roles](../core_16.000_standing_measurement.md#4-route-descriptor-catalogs-and-measurement-roles), and records Question 2 outputs, not standing effects. Slot assignment follows those sections together with [Chapter Sixteen §5 Slot Grammar and Shared Scaling](../core_16.000_standing_measurement.md#5-slot-grammar-and-shared-scaling) and [Chapter Sixteen §6 Constitutional Inputs to Axis Assignment](../core_16.000_standing_measurement.md#6-constitutional-inputs-to-axis-assignment). The Question 3 continuation closes this vignette.*
 
-**Situation.** After spring flooding, four sentients in an informal riparian cooperative stabilize a degraded half-kilometer creek buffer between two downstream neighborhoods. The work is unpaid mutual aid — no municipal contract, no licensed-program enrollment, and no platform payout trail. A watershed council later asks whether the cooperative's verified repair should enter a **contribution standing record**.
+**Situation.** After spring flooding, four sentients in an informal riparian cooperative stabilize a degraded half-kilometer creek buffer between two downstream neighborhoods. The work is unpaid mutual aid — no municipal contract, no licensed-program enrollment, and no platform payout trail. A watershed council later asks whether the cooperative's verified repair should enter a **contribution Standing Record**.
 
-**Verified inputs.** Soil-test logs, planting receipts, timestamped before/after habitat photos, and contestable neighbor attestations satisfy the verified-input gate under [§3.5 Verified-Input Gate](../core_15.000_standing_assessment.md#35-verified-input-gate). Allegations that one member previously dumped waste upstream remain a separate, unverified routing thread and do **not** enter this standing record.
+**Verified inputs.** Soil-test logs, planting receipts, timestamped before/after habitat photos, and contestable neighbor attestations satisfy the verified-input gate under [§3.5 Verified-Input Gate](../core_15.000_standing_assessment.md#35-verified-input-gate). Allegations that one member previously dumped waste upstream remain a separate, unverified routing thread and do **not** enter this Standing Record.
 
 **Seats under [§6.1 Separation of Duties](../core_15.000_standing_assessment.md#61-separation-of-duties):**
 
@@ -351,16 +351,16 @@ Each of the following would be a failure in this scenario:
   - The member who kept the planting log is its recorder and a witness, not its verifying authority.
   - The neighbors are beneficiaries whose attestations enter as inputs.
 - **Who holds the seats**
-  - The watershed council's designated body — independent of the repair and holding published authority to rely on the standing record — is the record-opening authority under *Informal and small-scope records*.
-  - The council's separate record custodian enters and holds the verified standing record.
+  - The watershed council's designated body — independent of the repair and holding published authority to rely on the Standing Record — is the record-opening authority under *Informal and small-scope records*.
+  - The council's separate record custodian enters and holds the verified Standing Record.
 - **Separation of the seats**
   - The council may host both seats under its published lane map and independence safeguards.
-  - Neither the authority, the custodian, nor any sentient may both verify and enter this standing record.
+  - Neither the authority, the custodian, nor any sentient may both verify and enter this Standing Record.
 - **Opening and contest**
-  - No forum is needed to open the standing record.
+  - No forum is needed to open the Standing Record.
   - A contest of it, if one comes, goes to the council's challenge lane or a forum under [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary), not back to the verifying authority.
 
-**Question 2 dimension pass** (contribution standing record):
+**Question 2 dimension pass** (contribution Standing Record):
 
 | **Dimension** | **Verified assessment** |
 | --- | --- |
@@ -377,14 +377,14 @@ Each of the following would be a failure in this scenario:
 - The size and reach of the benefit are recorded and ready to be turned into a Contribution slot and label under [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
 - Nothing changes in anyone's standing yet. This chapter only measures; standing effects are decided later.
 
-**Question 3 continuation: competency clearance.** Later, a gated-pathway-scoped ecological competency bar and clearance are at issue for the four members who did the work. The contribution standing record stays as measured. The watershed council's designated body, an independent relying body, verified it and holds it; the members were its claimants, not its verifying authority.
+**Question 3 continuation: competency clearance.** Later, a gated-pathway-scoped ecological competency bar and clearance are at issue for the four members who did the work. The contribution Standing Record stays as measured. The watershed council's designated body, an independent relying body, verified it and holds it; the members were its claimants, not its verifying authority.
 
 - **Routes through:**
   - [Chapter Seventeen §2.3 Facts and Measurements Stay Fixed](../core_17.000_standing_integration.md#23-facts-and-measurements-stay-fixed) (*the Contribution Axis slot and descriptors stay fixed*);
   - [Chapter Seventeen §4 Descriptor Integration and Attachment Normalization](../core_17.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (*the Ecological Stewardship and Diligence descriptors carry over unchanged*);
   - [Chapter Eighteen §2.1 Recency and Currentness](../core_18.000_contribution_consequences.md#21-recency-and-currentness) and [§2.2 Competency Bars and Clearances](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, gated-pathway-scoped bar*); and
-  - [Chapter Fifteen §6.9 Informal and Small-Scope Records](../core_15.000_standing_assessment.md#69-informal-and-small-scope-records) (*the council's designated body verified and holds the standing record; the cooperative's members were claimants, not verifying authorities*).
-- **Rules applied:** Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where an independent relying body verified the standing record.
+  - [Chapter Fifteen §6.9 Informal and Small-Scope Records](../core_15.000_standing_assessment.md#69-informal-and-small-scope-records) (*the council's designated body verified and holds the Standing Record; the cooperative's members were claimants, not verifying authorities*).
+- **Rules applied:** Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where an independent relying body verified the Standing Record.
 
 <br>
 
@@ -394,7 +394,7 @@ Each of the following would be a failure in this scenario:
 
 **Situation.** A sentient holds a community-trust contract to maintain pesticide-free buffer zones above three agricultural cooperatives' irrigation intakes. Regulator notice eight months earlier flagged failing retaining berms. The steward continued applying restricted herbicide through a subcontractor, submitted altered lab exports to the trust board, and told downstream growers that intake readings were "within normal variance."
 
-**Verified inputs.** A forum produces a verified violation finding → an axis-pure **violation standing record** opens under [§3 Question 1 — What Happened?](../core_15.000_standing_assessment.md#3-question-1--what-happened) and [§5 Verification and Record Requirements](../core_15.000_standing_assessment.md#5-verification-and-record-requirements) with the preserved notice chain, authentic-versus-submitted lab comparison, and intake contamination readings across two growing seasons. The steward's later volunteer trash cleanup along the same creek is routed to a **linked contribution standing record** under [§3.4 Linked Standing Records and No-Offset Bridge](../core_15.000_standing_assessment.md#34-linked-standing-records-and-no-offset-bridge); it does **not** offset this violation record.
+**Verified inputs.** A forum produces a verified violation finding → an axis-pure **violation Standing Record** opens under [§3 Question 1 — What Happened?](../core_15.000_standing_assessment.md#3-question-1--what-happened) and [§5 Verification and Record Requirements](../core_15.000_standing_assessment.md#5-verification-and-record-requirements) with the preserved notice chain, authentic-versus-submitted lab comparison, and intake contamination readings across two growing seasons. The steward's later volunteer trash cleanup along the same creek is routed to a **linked contribution Standing Record** under [§3.4 Linked Standing Records and No-Offset Bridge](../core_15.000_standing_assessment.md#34-linked-standing-records-and-no-offset-bridge); it does **not** offset this violation record.
 
 **Seats under [§6.1 Separation of Duties](../core_15.000_standing_assessment.md#61-separation-of-duties):**
 
@@ -405,15 +405,15 @@ Each of the following would be a failure in this scenario:
   - The regulator's notice is an input in the preserved notice chain, not a seat.
 - **Who holds the seats**
   - The forum that verified the violation finding is the record-opening authority under [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary).
-  - A separate record custodian — named by the forum's published designation, or the Backup Record Custodian where none is named — enters and holds the verified violation standing record.
+  - A separate record custodian — named by the forum's published designation, or the Backup Record Custodian where none is named — enters and holds the verified violation Standing Record.
 - **Separation of the seats**
-  - Neither the forum, the custodian, nor any sentient may both verify and enter this standing record.
-  - The forum that verified this standing record does not hear the contest of it.
+  - Neither the forum, the custodian, nor any sentient may both verify and enter this Standing Record.
+  - The forum that verified this Standing Record does not hear the contest of it.
 - **Opening and contest**
-  - A forum is needed to open this standing record, because it opens on the forum's verified violation finding.
+  - A forum is needed to open this Standing Record, because it opens on the forum's verified violation finding.
   - A contest of it, if one comes, goes to secondary review under [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary) and [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-forums-and-jurisdiction), not back to the verifying forum.
 
-**Question 2 dimension pass** (violation standing record):
+**Question 2 dimension pass** (violation Standing Record):
 
 | **Dimension** | **Verified assessment** |
 | --- | --- |
@@ -449,7 +449,7 @@ Each of the following would be a failure in this scenario:
 
 *In plain terms: twelve recurring Question 3 situations, each showing which parts of Chapter Seventeen route it. They add no rule and no lock type. The Question 3 continuations that close vignettes 8 and 9 above work the same way.*
 
-These patterns are worked examples of common Question 3 situations. They apply the rules already stated in Chapter Seventeen and add nothing new, including no new lock types. Follow the order in [Chapter Seventeen §3.4 Processing Order](../core_17.000_standing_integration.md#34-processing-order) and the sections each pattern names. If a pattern looks like an attack family in [Chapter Twenty-Two §2 Pattern applications and criteria routing](../core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), Chapter Seventeen decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified standing record. Chapter Twenty-One separately decides designation.
+These patterns are worked examples of common Question 3 situations. They apply the rules already stated in Chapter Seventeen and add nothing new, including no new lock types. Follow the order in [Chapter Seventeen §3.4 Processing Order](../core_17.000_standing_integration.md#34-processing-order) and the sections each pattern names. If a pattern looks like an attack family in [Chapter Twenty-Two §2 Pattern applications and criteria routing](../core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), Chapter Seventeen decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified Standing Record. Chapter Twenty-One separately decides designation.
 
 ### 10.1 Forum-Integrity Deception or Recusal Failure
 
@@ -527,7 +527,7 @@ This situation is identified by the example below and governed by the sections l
   - [Chapter Nineteen §2.2 Prevention — General Standing Locks](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (*general standing locks scoped to the abused trust, role, credit, or influence pathways*);
   - [Chapter Nineteen §3.1 Definition and Attachment](../core_19.000_violation_consequences.md#31-definition-and-attachment) (*attachment fields*); and
   - [Chapter Nineteen §3.4.3 Duty to Resist](../core_19.000_violation_consequences.md#343-duty-to-resist) (where the instruction required unlawful or unconstitutional compliance).
-- **Rules applied:** This example does not create a special lock under [Chapter Nineteen §3.5 Special Locks](../core_19.000_violation_consequences.md#35-special-locks). Term nullity and ACMD criteria remain in [Chapter Twenty-Two §3.1 Rights-Floor Waivers and Unconstitutional Contract Terms](../core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Seventeen attaches ordinary gated pathway locks from the verified standing record; only a final ACMD triggers the Anti-Constitutional Trust Lock under [§10.6 Anti-Constitutional Misconduct Allegation](#106-anti-constitutional-misconduct-allegation).
+- **Rules applied:** This example does not create a special lock under [Chapter Nineteen §3.5 Special Locks](../core_19.000_violation_consequences.md#35-special-locks). Term nullity and ACMD criteria remain in [Chapter Twenty-Two §3.1 Rights-Floor Waivers and Unconstitutional Contract Terms](../core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Seventeen attaches ordinary gated pathway locks from the verified Standing Record; only a final ACMD triggers the Anti-Constitutional Trust Lock under [§10.6 Anti-Constitutional Misconduct Allegation](#106-anti-constitutional-misconduct-allegation).
 
 ### 10.8 Contest-Pathway or Info-Sphere Flooding
 
@@ -569,7 +569,7 @@ This situation is identified by the example below and governed by the sections l
 
 This situation is identified by the example below and governed by the sections listed:
 
-- **Example:** A fixed Violation Axis record shows verified **obstruction of accountability** — interference with answerability machinery such as evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths — including where Chapter Fifteen records **Accountability Obstruction Misconduct** or stacks obstruction as conduct character. In some cases the obstruction involves a forum's required recusal; in others the violation record is at slot 7–9 and anti-constitutional misconduct is materially alleged.
+- **Example:** A fixed Violation Axis record shows verified **obstruction of accountability** — interference with answerability machinery such as evidence integrity, verification, forum process, Standing Records, remedy windows, or contest and redress paths — including where Chapter Fifteen records **Accountability Obstruction Misconduct** or stacks obstruction as conduct character. In some cases the obstruction involves a forum's required recusal; in others the violation record is at slot 7–9 and anti-constitutional misconduct is materially alleged.
 - **Routes through:**
   - [Chapter Nineteen §2 Violation, Correction, and Prevention](../core_19.000_violation_consequences.md#2-violation-correction-and-prevention) (*remedy, correction, and prevention*);
   - [Chapter Nineteen §2.2 Prevention — General Standing Locks](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (*gated-pathway-scoped locks on the abused answerability, contest, evidence, standing, or remedy pathways*);
@@ -602,12 +602,12 @@ This situation is identified by the example below and governed by the sections l
 | --- | --- |
 | Allegations ≠ standing | [§3.5 Verified-Input Gate](../core_15.000_standing_assessment.md#35-verified-input-gate) |
 | No offset across axes | [§3.4 Linked Standing Records and No-Offset Bridge](../core_15.000_standing_assessment.md#34-linked-standing-records-and-no-offset-bridge) |
-| One scale, separate standing records | [Chapter Sixteen §7 unified scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) — shared five-times LEQU bands; Violation slots controlled only by verified impact |
+| One scale, separate Standing Records | [Chapter Sixteen §7 unified scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) — shared five-times LEQU bands; Violation slots controlled only by verified impact |
 | Forums may open, update, or correct records — filed case ≠ standing | [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier targets | [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) |
-| Silence is the default; no inference from no standing record | [§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default) |
+| Silence is the default; no inference from no Standing Record | [§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default) |
 | Locks wait for an opened remedy record; remedy parity | [Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) |
 | No aggregation of gated-pathway effects | [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) |
 | Preserve, do not delete, possible sentients | [Article XXVIII-A](../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion) (*Phased Adoption and Rights-Floor Continuity*) |

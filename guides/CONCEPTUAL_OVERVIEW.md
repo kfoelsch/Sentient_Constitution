@@ -17,7 +17,7 @@ Seven questions make those relationships easier to hold in mind:
 2. [What guides choices and protects people?](#principles-articles-and-definitions) Chapter One’s principles and Chapter Six’s Rights Floor.
 3. [How do words and claims become testable?](#definition-categories) The definition stack, traceability, observability, and evidence rules.
 4. [How are information and systems classified?](#data-types-and-system-classifications) Data handling, system impact, dependency, and class-scaled duties.
-5. [What happens when conduct matters?](#processes) Certification, verified standing records, LEQU magnitude, separate contribution and violation tracks, effects, correction, and remedy.
+5. [What happens when conduct matters?](#processes) Certification, verified Standing Records, LEQU magnitude, separate contribution and violation tracks, effects, correction, and remedy.
 6. [Who reviews and challenges?](#forums) Forum families, published challenge paths, independent review, and separation of duties.
 7. [Who may authorize, change, and implement?](#governance) The Constitutional Contract Layer, non-regression, amendment, adoption, incorporation, and corpus custody.
 
@@ -510,7 +510,7 @@ Chapters Two through Five give the rest of this Constitution a shared language t
 - [Chapter Four](../core_04.000_burden_traceability_verification.md) connects compliance claims to proof, traceability, observability, and accessible verification.
 - [Chapter Five](../core_05.000_definitions_home.md) houses the canonical vocabulary used throughout this Constitution.
 
-These chapters explain how an aspiration such as trustworthy governance becomes a claim someone can examine and challenge. The later processes use this machinery when they certify a system or establish a standing record.
+These chapters explain how an aspiration such as trustworthy governance becomes a claim someone can examine and challenge. The later processes use this machinery when they certify a system or establish a Standing Record.
 
 Chapter Five’s many files are a reference structure. Its [compass](../core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) leads to the apex definitions for the duties and aims, and to related definitions organized in bands. For orientation, you can leave that detail unopened. When applying a provision, return to the relevant definitions in full, including any required [joint reading of dependent clusters](../core_05.000_definitions_home.md#4-dependent-cluster-meta-rules).
 
@@ -711,7 +711,7 @@ flowchart TB
     K["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
     D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
     S["Chapter Nine<br/><br/>System alignment certification"]
-    subgraph Q["Chapters Fifteen and Sixteen · standing records and measurement"]
+    subgraph Q["Chapters Fifteen and Sixteen · Standing Records and measurement"]
         direction LR
         E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
         C["Contribution record<br/><br/>and measurement"]
@@ -871,15 +871,15 @@ Chapter Seven requires every system and institution of Class L or above to publi
 - **Eight: separate constitutional authority.** Initiation, verification or authorization, record custody, and challenge review remain functionally independent under a published seat map.
 - **Nine: examine the system.** Certification produces a bounded, contestable record about whether a system can be relied on within a stated scope and record span.
 - **Ten: examine the institution.** Institutional certification does the same for an institution's own conduct, governance, and record.
-- **Eleven: record conduct.** Verified contribution and verified violation enter separate standing records.
-- **Twelve: measure conduct.** Each standing record is measured on its own axis, on one shared scale, and the two are never added into a net score.
+- **Eleven: record conduct.** Verified contribution and verified violation enter separate Standing Records.
+- **Twelve: measure conduct.** Each Standing Record is measured on its own axis, on one shared scale, and the two are never added into a net score.
 - **Thirteen: apply effects.** Verified contributions can support recognition, rewards, and competency clearances; verified violations can lead to restrictions, correction, and remedy.
 - **Fourteen: review exceptional misconduct.** Where the specified conditions are met, a separate designation review addresses anti-constitutional misconduct. It runs alongside ordinary standing effects.
 - **Fifteen: supervise review and routing.** Forums support verified findings, jurisdiction, challenges, independent review, and timely resolution across the process.
 
 The connections matter as much as the chapter boundaries:
 
-- Evidence from certification can inform a standing record when relevant.
+- Evidence from certification can inform a Standing Record when relevant.
 - Standing measurement informs consequences.
 - Review makes findings contestable.
 - Correction addresses the failure that produced the harm.
@@ -889,7 +889,7 @@ This is a map of available processes. A particular matter enters the paths its f
 
 ### Ordinary Life, Privacy, and the Way Back
 
-Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive gated pathway, which must state why that gated pathway is trust-sensitive. See [Chapter Fifteen §3.2](../core_15.000_standing_assessment.md#32-silence-is-the-default), [§6](../core_15.000_standing_assessment.md#6-record-custody-and-opening-authority), and [Chapter Eighteen §2.2](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances).
+Ordinary life does not begin with a standing file. **Silence is the default**: no Standing Record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive gated pathway, which must state why that gated pathway is trust-sensitive. See [Chapter Fifteen §3.2](../core_15.000_standing_assessment.md#32-silence-is-the-default), [§6](../core_15.000_standing_assessment.md#6-record-custody-and-opening-authority), and [Chapter Eighteen §2.2](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances).
 
 When a record does exist, its effects remain bounded to gated pathways. The system must not combine gated-pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which gated pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Twenty §§2.1–2.2](../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects).
 
@@ -961,13 +961,13 @@ flowchart TB
     style CR fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-These are **six families with different responsibilities**. The boxes identify their subject areas; the [default venue rules](../core_23.000_forum.md#2-default-venue-and-primary-stakes) determine the actual lead. Sentient routing, for example, depends on no institution being a necessary party and no other family holding the primary stake. The intake desk sorts the matter; it does not replace a merits panel. Direct access remains available when delay would materially endanger rights, evidence, independence, or practical restoration under [dispute sequencing](../core_23.000_forum.md#dispute-sequencing).
+These are **six families with different responsibilities**. The boxes identify their subject areas; the [default venue rules](../core_23.000_forum.md#3-default-venue-and-primary-stakes) determine the actual lead. Sentient routing, for example, depends on no institution being a necessary party and no other family holding the primary stake. The intake desk sorts the matter; it does not replace a merits panel. Direct access remains available when delay would materially endanger rights, evidence, independence, or practical restoration under [dispute sequencing](../core_23.000_forum.md#dispute-sequencing).
 
 The **Constitutional decision review panel** is shown inside the Constitutional family because it is a limited review process for manifest constitutional error, not a seventh forum family or a general appellate level.
 
-The families also work together. In **system alignment certification**, Integrity leads official certification, Technical Forum Domains supply specifications and evidence standards, and Environment supplies the required environmental component review where material. A mixed matter ordinarily has one lead and one record, with component questions referred to their proper owners. [Chapter Twenty-Three §§2–3](../core_23.000_forum.md#2-default-venue-and-primary-stakes) describes these connections.
+The families also work together. In **system alignment certification**, Integrity leads official certification, Technical Forum Domains supply specifications and evidence standards, and Environment supplies the required environmental component review where material. A mixed matter ordinarily has one lead and one record, with component questions referred to their proper owners. [Chapter Twenty-Three §§3–5](../core_23.000_forum.md#3-default-venue-and-primary-stakes) describes these connections.
 
-Independence applies to reviewers themselves. A forum cannot be the sole final judge of a material challenge to its own integrity; [coordination and backup routing](../core_23.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) provide other review paths. Timeliness and interim protection apply while routing is resolved. These safeguards are shared across the families, rather than another rung above them.
+Independence applies to reviewers themselves. A forum cannot be the sole final judge of a material challenge to its own integrity; [coordination and backup routing](../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) provide other review paths. Timeliness and interim protection apply while routing is resolved. These safeguards are shared across the families, rather than another rung above them.
 
 ### Forum Urgency Tiers and Timeframes
 
@@ -1007,13 +1007,13 @@ flowchart TB
 - Tier A requires immediate attention, interim protection where needed, and intake, acknowledgment, and evidence preservation within days. Emergency deferral of notice or challenge starts at Tier A unless a lower-urgency showing is documented.
 - Tier B starts with intake and primary-stakes routing within days and reaches a preliminary verified disposition or equivalent merits milestone within weeks.
 - Tier C is a coordination default, not a slower substitute for an A or B finding. Tier L and Tier P support lighter procedures only while their bounded conditions hold.
-- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Twenty-Three §6.1 Emergency Measures and Continuation Burden](../core_23.000_forum.md#61-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds).
-- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Twenty-Three §6.1 (*Emergency Measures and Continuation Burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twenty-Three’s restore-challenge rule](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- A matter's time scale can also be faster. At the **Emergency setting** (Tier A only, for imminent loss of life, serious injury, or irreversible rights loss that nobody engineered), the steps that stop the harm must finish within 3 days, and restoring notice and challenge after a deferral takes 3 days, not 7. The finding steps keep the Tier A bound. See [Chapter Twenty-Three §6 Time-scale settings](../core_23.000_forum.md#time-scale-settings).
-- "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Twenty-Three §6 Prompt review](../core_23.000_forum.md#prompt-review).
+- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](../core_23.000_forum.md#81-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds).
+- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Twenty-Three §8.1 (*Emergency Measures and Continuation Burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twenty-Three’s restore-challenge rule](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- A matter's time scale can also be faster. At the **Emergency setting** (Tier A only, for imminent loss of life, serious injury, or irreversible rights loss that nobody engineered), the steps that stop the harm must finish within 3 days, and restoring notice and challenge after a deferral takes 3 days, not 7. The finding steps keep the Tier A bound. See [Chapter Twenty-Three §8 Time-scale settings](../core_23.000_forum.md#time-scale-settings).
+- "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Twenty-Three §8 Prompt review](../core_23.000_forum.md#prompt-review).
 - Restricted evidence does not slow the clock. Access disputes go first to a neutral **restricted information authority** ([CF-23.415 §8](../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-restricted-information-authority)), which answers inside the matter's intake target. If it is slow, the matter goes on without the item.
 
-These are the [Chapter Twenty-Three §6](../core_23.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Twenty-Three §8](../core_23.000_forum.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1115,7 +1115,7 @@ This is a reading discipline, not a new precedence rule:
 
 ## Separation of Duties
 
-When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §3](../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Fifteen §6.1](../core_15.000_standing_assessment.md#61-separation-of-duties) applies it to standing records.
+When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §3](../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Fifteen §6.1](../core_15.000_standing_assessment.md#61-separation-of-duties) applies it to Standing Records.
 
 ```mermaid
 flowchart TB
