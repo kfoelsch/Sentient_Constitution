@@ -58,7 +58,7 @@ Chapter Fifteen requires institutions capable of delivering remedy, with funding
 
 The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Sixteen §5.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 
-**Sources:** [Chapter Fifteen §§9–10](../../core_17.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md); [Chapter Sixteen §5.1](../../core_21.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
+**Sources:** [Chapter Fifteen §§9–10](../../core_17.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md); [Chapter Sixteen §5.1](../../core_21.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
 
 ### 6. It distinguishes protection, competence, participation, and authority
 
@@ -66,7 +66,7 @@ Sentience status does not come from a certification badge or standing score. Aff
 
 Those distinctions make the proposal more adaptable, although the explanation needs to make them easier to retain.
 
-**Sources:** [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Chapter Twenty-One §§1.1 and 4.1](../../core_25.000_governance.md#21-mechanism-families-auditability-and-pluralism).
+**Sources:** [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Chapter Twenty-One §§1.1 and 4.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism).
 
 ## Improvements in priority order
 
@@ -116,15 +116,15 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** The protected subjects have a usable route under adversarial conditions; a simulation result must be labeled as such. If a value choice remains, present it to the steward rather than treating it as copyediting.
 
-**Sources:** [Chapter Twenty-One §4.1](../../core_25.000_governance.md#51-entitlement-and-eligibility); [Chapter Sixteen §§5–5.2](../../core_21.000_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Twenty-Three §§1–3](../../core_26.000_non_regression.md#2-non-regression-floor).
+**Sources:** [Chapter Twenty-One §4.1](../../core_27.000_governance.md#51-entitlement-and-eligibility); [Chapter Sixteen §§5–5.2](../../core_21.000_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Twenty-Three §§1–3](../../core_28.000_non_regression.md#2-non-regression-floor).
 
 ### Priority 5 — Repair semantic drift between core and implementation
 
-**Confirmed example:** [Chapter Fifteen §10.2](../../core_17.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
+**Confirmed example:** [Chapter Fifteen §10.2](../../core_17.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
 
 The core controls. The omission is still a practical defect because readers acting from the implementation layer may infer a stricter rule. CI-11.205's express pointer to the core helps but does not make the restatement complete. This is an alignment issue to fix, not a conclusion that core should remove or expand the exception.
 
-**Confirmed reference defect:** [Chapter Twenty-One §1.1](../../core_25.000_governance.md#21-mechanism-families-auditability-and-pluralism), under Non-Usurpation, says deliberate adoption remains governed by “Chapter Twenty-Seven (Ratification and Adoption).” The actual adoption provisions are [Chapter Twenty-Six §11](../../core_28.000_amendment_ratification.md#11-ratification-and-adoption); Chapter Twenty-Seven is the incorporation bridge. The core correction remains for the steward to approve.
+**Confirmed reference defect:** [Chapter Twenty-One §1.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism), under Non-Usurpation, says deliberate adoption remains governed by “Chapter Twenty-Nine (Ratification and Adoption).” The actual adoption provisions are [Chapter Twenty-Eight §11](../../core_30.000_amendment_ratification.md#11-ratification-and-adoption); Chapter Twenty-Nine is the incorporation bridge. The core correction remains for the steward to approve.
 
 **Work needed:** Compare conditional rules across source and summaries: exceptions, default classifications, burdens, emergency powers, deadlines, and restoration. Link and anatomy checks cannot establish that paraphrases preserve all conditions. Prefer precise pointers over restating a rule incompletely.
 

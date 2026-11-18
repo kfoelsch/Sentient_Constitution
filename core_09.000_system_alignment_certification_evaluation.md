@@ -73,7 +73,7 @@ Chapter Nine is the constitutional owner of **system alignment certification eva
   - [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing) (11.000 §5) (*Standing-Record bridge*);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*Standing Records and verified-input gate*);
   - [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*standing effects and integration*);
-  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) (*forum supervision, certification, alignment certification, and review*).
+  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) (*forum supervision, certification, alignment certification, and review*).
 - Read with:
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, and
   - **CS-6.345** (*System lifecycle*);
@@ -137,7 +137,7 @@ As an oversight mechanism, certification is one especially large audit process u
 - It may integrate the results of sibling audit modes, and it does not absorb or replace them. Each keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_05.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home:
   - System Data Types Record audits under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data Classifications*)
   - System Classification Record audits under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*)
-  - steward assurance reviews under **CS-25.305** (*Critical system stewardship*)
+  - steward assurance reviews under **CS-27.305** (*Critical system stewardship*)
   - continuous audit under **CS-6.345** (*System lifecycle*) ACA
   - complexity audits under **CS-6.315** (*Comprehensibility and Complexity Stewardship*) and **Article XXIII-B** (*Complexity Audit and Modularity Requirements*)
   - claim verification under **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)
@@ -154,7 +154,7 @@ The process applies by impact class, as the [reclassification requirement](corpu
 - **Class L:** the same evaluation is mandatory but proportionate, with a longer default certification interval and simpler records where CS-9.305 (*System classification machinery*) and CS-9.310 (*System Impact Classifications*) permits; and
 - **Class P:** the process is encouraged while the system is validly Class P, and a Class P system may use it voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the operator voluntarily asserts constitutional compliance for the system.
 
-The certification interval, and the financial, resource, or special audit that falls at its midpoint, are set by system class in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
+The certification interval, and the financial, resource, or special audit that falls at its midpoint, are set by system class in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
 
 <a id="22-certification-at-a-glance"></a>
 
@@ -515,7 +515,7 @@ To assess governance, incentives, and contestability, certification must apply t
 - **[Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline)** — authorized governance and answerability;
 - **[Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture)** — proxy integrity, short-horizon defect correction, and capture response, including:
   - **[Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways)** — roles that carry real consequence, and safeguards against symbolic participation;
-- **[Chapter Twenty-Five §6 Authorized Roles, Competency Development, and Contribution](core_25.000_governance.md#6-authorized-roles-competency-development-and-contribution)** and **[CS-25.305 — Critical system stewardship](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
+- **[Chapter Twenty-Seven §6 Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#6-authorized-roles-competency-development-and-contribution)** and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
 - **[Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
 
 **Institutional facts.** This section asks about the governance and incentives of the system's operator or steward. Where that operator or steward is an [Institution](core_05.040_band_continuity.md#institution), those facts are found once, in its Institutional Certification Record, rather than again for every system it runs. The following facts about the Institution may be taken by link from its current Institutional Certification Record under [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation):

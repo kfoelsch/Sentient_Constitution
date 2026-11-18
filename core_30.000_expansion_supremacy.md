@@ -1,17 +1,17 @@
-# CHAPTER TWENTY-EIGHT: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS
+# CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twenty-Eight**: additive expansion of protection, supremacy, and external legal orders. **Chapter Twenty-Six** (non-regression) is in [`core_26.000_non_regression.md`](core_26.000_non_regression.md). **Chapter Twenty-Seven** (ratification and procedural validity) is in [`core_27.000_amendment_ratification.md`](core_27.000_amendment_ratification.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Thirty**: additive expansion of protection, supremacy, and external legal orders. **Chapter Twenty-Eight** (non-regression) is in [`core_28.000_non_regression.md`](core_28.000_non_regression.md). **Chapter Twenty-Nine** (ratification and procedural validity) is in [`core_29.000_amendment_ratification.md`](core_29.000_amendment_ratification.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Eight lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Thirty lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, continuity of supremacy and challenge rights during amendment, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Six** and **Chapter Twenty-Seven**; the incorporation bridge is in **Chapter Twenty-Nine**.
-> - **Non-regression:** substantive floors remain in **Chapter Twenty-Six**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Twenty-Seven**.
+> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, continuity of supremacy and challenge rights during amendment, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Eight** and **Chapter Twenty-Nine**; the incorporation bridge is in **Chapter Thirty-One**.
+> - **Non-regression:** substantive floors remain in **Chapter Twenty-Eight**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Twenty-Nine**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (26.000) non-regression and Substantive Test 1;
+  - [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) non-regression and Substantive Test 1;
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy), and related
   - [Corpus](core_05.045_band_integrative.md#corpus) boundary concepts.
@@ -31,7 +31,7 @@
   - [§4](#4-supremacy-relative-to-other-binding-norms)–
   - [§5](#5-disputes-involving-external-legal-orders);
   - [§6](#6-relation-to-applicable-external-law).
-- Downstream: [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.040_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Twenty-Two, section 3.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms) (22.000) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Downstream: [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.040_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Twenty-Two, section 3.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms) (22.000) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with:
   - **[CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions;
   - [Chapter Twenty §4 — *Enforcement realism*](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (20.000 §4) where cited in Chapter Seventeen §3.3;
@@ -42,13 +42,13 @@
 
 <br>
 
-Chapter Twenty-Eight is the constitutional owner of **how this Constitution fits with other rules and outside law**: it lets protections grow, keeps the Constitution in force during amendment, and works alongside outside law and external tribunals without displacing that law or giving up its own review routes.
+Chapter Thirty is the constitutional owner of **how this Constitution fits with other rules and outside law**: it lets protections grow, keeps the Constitution in force during amendment, and works alongside outside law and external tribunals without displacing that law or giving up its own review routes.
 
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment, so audits and challenges stay available throughout. Stricter outside law is respected when it fits, and outside forums cannot be used as an excuse to destroy records or dodge rights.*
 
-**Purpose:** Chapter Twenty-Eight states what is permitted and what holds when this Constitution meets other rules:
+**Purpose:** Chapter Thirty states what is permitted and what holds when this Constitution meets other rules:
 
 - additive expansion, which is permitted (**section 2**);
 - supremacy and challenge rights, which stay in force during amendment (**section 3**);
@@ -58,9 +58,9 @@ Chapter Twenty-Eight is the constitutional owner of **how this Constitution fits
 
 **Role:** The chapter works with its two neighbors on change and adoption:
 
-- The guardrail on expansion is Chapter Twenty-Six.
-- A body can bind itself only by adopting through Chapter Twenty-Seven, and only as far as it already has lawful authority to bind itself.
-- **Chapter Twenty-Nine section 4** applies where partial adoption could shrink duties an entity already bears.
+- The guardrail on expansion is Chapter Twenty-Eight.
+- A body can bind itself only by adopting through Chapter Twenty-Nine, and only as far as it already has lawful authority to bind itself.
+- **Chapter Thirty-One section 4** applies where partial adoption could shrink duties an entity already bears.
 
 **Chapter scope:** The chapter covers:
 
@@ -72,15 +72,15 @@ Chapter Twenty-Eight is the constitutional owner of **how this Constitution fits
 
 The chapter leaves:
 
-- the tests for whether a change is valid (Substantive Test 1 and Procedural Tests 2 to 4) to Chapters [Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) and [Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity); and
-- the incorporation bridge, custody, and operative effect of adopted text to [Chapter Twenty-Nine](core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge).
+- the tests for whether a change is valid (Substantive Test 1 and Procedural Tests 2 to 4) to Chapters [Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) and [Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity); and
+- the incorporation bridge, custody, and operative effect of adopted text to [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge).
 
 
 ### 2. Additive Expansion Permitted
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Eight](#chapter-twenty-eight-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (26.000) non-regression (expansion must not violate Substantive Test 1).
+- Upstream: [Chapter Thirty](#chapter-thirty-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) non-regression (expansion must not violate Substantive Test 1).
 - Downstream: [§3](#3-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters One through Five consistency checks in operative text*).
 - Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) when additions implicate new rights or classes.
 
@@ -88,16 +88,16 @@ The chapter leaves:
 
 <br>
 
-*In plain terms: forward is fine — new rights, stronger safeguards, and broader inclusion are welcome when they genuinely increase protection and stay consistent with the rest of this **Constitution**; the guardrail is Chapter Twenty-Six, not a ban on improvement.*
+*In plain terms: forward is fine — new rights, stronger safeguards, and broader inclusion are welcome when they genuinely increase protection and stay consistent with the rest of this **Constitution**; the guardrail is Chapter Twenty-Eight, not a ban on improvement.*
 
-Constitutional change may add new rights, safeguards, accountability mechanisms, representational guarantees, or protected classes and protected characteristics. Additions are permitted where they increase substantive protection, inclusion, or binding effect consistent with **Chapters One through Five** and **Chapter Twenty-Six**.
+Constitutional change may add new rights, safeguards, accountability mechanisms, representational guarantees, or protected classes and protected characteristics. Additions are permitted where they increase substantive protection, inclusion, or binding effect consistent with **Chapters One through Five** and **Chapter Twenty-Eight**.
 
 ### 3. Continuity of Supremacy and Challenge Rights during Amendment
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-additive-expansion-permitted) permitted expansion boundary.
-- Downstream: [§4](#4-supremacy-relative-to-other-binding-norms) internal hierarchy and stricter-external rule; [Chapter Twenty-Seven §9](core_27.000_amendment_ratification.md#9-provisional-effect-rule) (27.000 §9) provisional effect on rights-affecting amendments.
+- Downstream: [§4](#4-supremacy-relative-to-other-binding-norms) internal hierarchy and stricter-external rule; [Chapter Twenty-Nine §9](core_29.000_amendment_ratification.md#9-provisional-effect-rule) (29.000 §9) provisional effect on rights-affecting amendments.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) anti-evasion on "temporary" suspension of supremacy or audit.
 
 </details>
@@ -114,7 +114,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§3](#3-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (5.045).
 - Subsections: [§4.1](#41-internal-hierarchy-for-adopters)–[§4.3](#43-conflict-disclosure-and-mitigation).
-- Downstream: [§5](#5-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Twenty-Six](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity) (26.000) non-regression on internal-hierarchy maneuvers.
+- Downstream: [§5](#5-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) non-regression on internal-hierarchy maneuvers.
 - Read with: [Chapter Five *Authority Stack and Internal Hierarchy*](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (5.045) as cross-linked from §3.1 operative text.
 
 </details>
@@ -136,9 +136,9 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 <br>
 
-*In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twenty-Six floors or Chapter Five supremacy rules.*
+*In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twenty-Eight floors or Chapter Five supremacy rules.*
 
-For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Twenty-Six** non-regression requirements and to [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) supremacy effect in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five.
+For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Twenty-Eight** non-regression requirements and to [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) supremacy effect in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five.
 
 <a id="42-stricter-external-protections"></a>
 #### 4.2 Stricter External Protections
@@ -217,7 +217,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5.1](#51-good-faith-cooperation) cooperation duty.
-- Downstream: [Chapter Twenty-Seven](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity) (27.000) procedural validity for waivers tied to adoption documents.
+- Downstream: [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) procedural validity for waivers tied to adoption documents.
 - Read with: [Article XX-A](core_06.040_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Twenty-Two, section 3.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms) (22.000).
 
 </details>
@@ -235,25 +235,25 @@ Constitutional interpretation, appeal, and review pathways under **Article XX-A*
 - Upstream:
   - [§4](#4-supremacy-relative-to-other-binding-norms) internal hierarchy, stricter-external protections, and conflict disclosure;
   - [§5](#5-disputes-involving-external-legal-orders) cooperation with competent external orders;
-  - [Chapter Twenty-Seven §11](core_27.000_amendment_ratification.md#11-ratification-and-adoption) (27.000 §11) (*deliberate adoption, document, and joining*);
-  - [Chapter Twenty-Nine §4](core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (29.000 §4) (*model constitution; who may adopt; what non-adoption means for enforcement*).
+  - [Chapter Twenty-Nine §11](core_29.000_amendment_ratification.md#11-ratification-and-adoption) (29.000 §11) (*deliberate adoption, document, and joining*);
+  - [Chapter Thirty-One §4](core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (31.000 §4) (*model constitution; who may adopt; what non-adoption means for enforcement*).
 - Subsections: [§6.1](#61-non-displacement-and-limited-binding-effect); [§6.2](#62-alignment-when-used-within-external-legal-frameworks).
-- Downstream: [§4.1](#41-internal-hierarchy-for-adopters)–[§4.2](#42-stricter-external-protections) apply only within the limited binding effect stated here; [Chapter Twenty-Seven §11](core_27.000_amendment_ratification.md#11-ratification-and-adoption) (27.000 §11) remains the sole adoption procedure.
-- Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Twenty-Nine §4](core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (29.000 §4) (*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
+- Downstream: [§4.1](#41-internal-hierarchy-for-adopters)–[§4.2](#42-stricter-external-protections) apply only within the limited binding effect stated here; [Chapter Twenty-Nine §11](core_29.000_amendment_ratification.md#11-ratification-and-adoption) (29.000 §11) remains the sole adoption procedure.
+- Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Thirty-One §4](core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (31.000 §4) (*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
 
 </details>
 
 <br>
 
-*In plain terms: this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Twenty-Seven, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.*
+*In plain terms: this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Twenty-Nine, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.*
 
 #### 6.1 Non-Displacement and Limited Binding Effect
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§6](#6-relation-to-applicable-external-law) relation-to-external-law frame; [Chapter Twenty-Nine §4](core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (29.000 §4) (*enforceable only after valid adoption*).
+- Upstream: [§6](#6-relation-to-applicable-external-law) relation-to-external-law frame; [Chapter Thirty-One §4](core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (31.000 §4) (*enforceable only after valid adoption*).
 - Downstream: [§6.2](#62-alignment-when-used-within-external-legal-frameworks) alignment when used inside an external framework; [§4.1](#41-internal-hierarchy-for-adopters) internal hierarchy for adopters within that limited effect.
-- Read with: [Chapter Twenty-Seven §11.1](core_27.000_amendment_ratification.md#111-deliberate-adoption) (27.000 §11.1)–[§11.2](core_27.000_amendment_ratification.md#112-adoption-document) (*deliberate, documented, auditable document stating entity, scope, and effective date*).
+- Read with: [Chapter Twenty-Nine §11.1](core_29.000_amendment_ratification.md#111-deliberate-adoption) (29.000 §11.1)–[§11.2](core_29.000_amendment_ratification.md#112-adoption-document) (*deliberate, documented, auditable document stating entity, scope, and effective date*).
 
 </details>
 
@@ -265,11 +265,11 @@ This Constitution does not, of its own force, repeal, displace, override, or ren
 
 Publication, distribution, citation, forking, operations-guide use, or any statement that a body “follows” this Constitution is not adoption and does not create supremacy over applicable external law.
 
-This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Twenty-Seven §11** (*Ratification and Adoption*) and **Chapter Twenty-Nine §4** (*Adoption Framing and Scope of Authority*). Binding effect is limited to:
+This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Twenty-Nine §11** (*Ratification and Adoption*) and **Chapter Thirty-One §4** (*Adoption Framing and Scope of Authority*). Binding effect is limited to:
 
 - the adopting entity;
 - the systems under that entity's authority; and
-- the stated scope of the [adoption document](core_27.000_amendment_ratification.md#112-adoption-document).
+- the stated scope of the [adoption document](core_29.000_amendment_ratification.md#112-adoption-document).
 
 Valid adoption does not, by itself, repeal, displace, or render inoperative otherwise applicable local, national, or international law, except to the extent that:
 
@@ -284,7 +284,7 @@ Within that limited binding effect, [§4.1](#41-internal-hierarchy-for-adopters)
 
 - Upstream: [§6.1](#61-non-displacement-and-limited-binding-effect) non-displacement and limited binding effect; [§5](#5-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways.
 - Downstream: [§4.3](#43-conflict-disclosure-and-mitigation) when applicable external requirements and constitutional floors appear irreconcilable; [§5.1](#51-good-faith-cooperation) good-faith cooperation where jurisdiction is lawfully asserted.
-- Read with: [Chapter Twenty-Nine §4](core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (29.000 §4) (*operations-guide use is not adoption; partial adoption must not shrink already-borne external duties*).
+- Read with: [Chapter Thirty-One §4](core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (31.000 §4) (*operations-guide use is not adoption; partial adoption must not shrink already-borne external duties*).
 
 </details>
 
@@ -297,12 +297,12 @@ Where this Constitution is used, invoked, or applied inside an external legal fr
 Alignment with an external legal framework:
 
 - does not convert operations-guide use, citation, or “we follow it” practice into adoption;
-- does not authorize shrinking **Chapter Twenty-Six** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§4.2 Stricter External Protections](#42-stricter-external-protections) and [§4.3 Conflict Disclosure and Mitigation](#43-conflict-disclosure-and-mitigation);
+- does not authorize shrinking **Chapter Twenty-Eight** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§4.2 Stricter External Protections](#42-stricter-external-protections) and [§4.3 Conflict Disclosure and Mitigation](#43-conflict-disclosure-and-mitigation);
 - does not excuse [§5.1 Good-Faith Cooperation](#51-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
 - does not permit using an asserted conflict as a pretext for selective compliance, forum shopping, or evasion of Rights-Floor obligations.
 
 ---
 
-**Previous file:** [core_27.000_amendment_ratification.md](core_27.000_amendment_ratification.md)
+**Previous file:** [core_29.000_amendment_ratification.md](core_29.000_amendment_ratification.md)
 
-**Next file:** [core_29.000_incorporation.md](core_29.000_incorporation.md)
+**Next file:** [core_31.000_incorporation.md](core_31.000_incorporation.md)

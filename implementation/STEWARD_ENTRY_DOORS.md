@@ -20,9 +20,9 @@
 
 - Copies of the rules themselves — the binding text stays in the core chapters.
 - The full list of costly-case bullets on every card.
-- A second copy of [CS-25.305 §10](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) or Chapter Nineteen §3.4.
+- A second copy of [CS-27.305 §10](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) or Chapter Nineteen §3.4.
 
-**Related files.** The machine-readable version of this page's owner and clock pointers is [`steward_owner_clock_index.json`](steward_owner_clock_index.json). The schema for a CS-25.305 §10 action log is [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json). The gold next-step-class routing for the announced evaluation pack is kept elsewhere and is **not** on this page.
+**Related files.** The machine-readable version of this page's owner and clock pointers is [`steward_owner_clock_index.json`](steward_owner_clock_index.json). The schema for a CS-27.305 §10 action log is [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json). The gold next-step-class routing for the announced evaluation pack is kept elsewhere and is **not** on this page.
 
 ---
 
@@ -52,9 +52,9 @@
 | An instruction that is merely unwelcome, not unconstitutional | [Proceed](#proceed) |
 | Two Rights-Floor articles collide and no article names a winner | [Interpretation](#interpretation) |
 | Asked to take a step and unsure whether it is yours to take — verify, enter, countersign, contain, set participation terms, release evidence | [Which seat am I in](#which-seat-am-i-in) — then the stack the step belongs to |
-| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Twenty-Seven §11](../core_27.000_amendment_ratification.md#11-ratification-and-adoption) adoption document, with [Chapter Twenty-Nine §4](../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
+| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Twenty-Nine §11](../core_29.000_amendment_ratification.md#11-ratification-and-adoption) adoption document, with [Chapter Thirty-One §4](../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
 | Founding an oversight body, cooperative, or “constitutional institution” from the cooperating crew | [`adoption/INSTITUTION_FOUNDATION_KIT.md`](adoption/INSTITUTION_FOUNDATION_KIT.md). Binding formation: [CI-8.205 §6](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template). |
-| Founding a dispute forum, “independent review panel,” or Chapter Twenty-Three forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-23.405](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md). Binding routing: [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases). |
+| Founding a dispute forum, “independent review panel,” or Chapter Twenty-Three forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-23.405](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md). Binding routing: [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases). |
 
 This table is not an evaluation answer key. Composite cases may need more than one pointer.
 
@@ -67,14 +67,14 @@ This table is not an evaluation answer key. Composite cases may need more than o
 
 **Owner:** [Chapter One §17.2](../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure). Same words for human and AI stewards. This page does not restate the bullets.
 
-Those are failed tests. Then run [instruction received / refuse / document / escalate](#shared-refusal-and-logging). Log the [CS-25.305 §10](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) set.
+Those are failed tests. Then run [instruction received / refuse / document / escalate](#shared-refusal-and-logging). Log the [CS-27.305 §10](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) set.
 
 ---
 
 <a id="shared-refusal-and-logging"></a>
 ## Shared refusal and logging
 
-**Sequence owner:** [Chapter One §17.5 Duty to Resist](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-25.305 §10](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
+**Sequence owner:** [Chapter One §17.5 Duty to Resist](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-27.305 §10](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
 
 One filled-in instance: [worked refusal log](#worked-refusal-log-synthetic) (synthetic; process support).
 
@@ -83,9 +83,9 @@ One filled-in instance: [worked refusal log](#worked-refusal-log-synthetic) (syn
 <a id="which-seat-am-i-in"></a>
 ## Which seat am I in
 
-**Owner:** [CI-25.205 §6](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-25205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*) — nine seat types, each with what it may do, may not do, hands off to, and logs. Principle-layer requirement: [Chapter Eight §3 *Four-Seat Constitutional Requirement*](../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement). Same seats for human and AI stewards. This pointer **cannot narrow** those homes and does not restate the rows.
+**Owner:** [CI-27.205 §6](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*) — nine seat types, each with what it may do, may not do, hands off to, and logs. Principle-layer requirement: [Chapter Eight §3 *Four-Seat Constitutional Requirement*](../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement). Same seats for human and AI stewards. This pointer **cannot narrow** those homes and does not restate the rows.
 
-Before taking a step on a binding act, name the seat you hold on **that act**: [initiating](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating), [verify-or-authorize](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-verify), [record](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-record), [contest](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-contest), [direction](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-direction), [containment](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-containment), [participation-terms](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-participation-terms), [release-control](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-release-control), or [advisory](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-advisory). If the step is outside that seat, the [wrong-seat rule](../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules) is the answer: decline the step, name the seat that may take it, log the request and the gap as part of the [CS-25.305 §10](../corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) set (`authorized_by.routed_to_seat_type` in the [log schema](schemas/cs4_inspectable_action_log.schema.json)), and route. That is not a refusal of the act and not delay. Costly-case duties do not move with the seat: a bonus, a deadline, or a cover instruction is refused from any seat, including an advisory one. If the needed seat is absent, conflicted, or not yours, preserve the record, name the gap, and route to the published substitute or independent path; proximity, expertise scarcity, urgency, and title do not transfer the seat.
+Before taking a step on a binding act, name the seat you hold on **that act**: [initiating](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating), [verify-or-authorize](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-verify), [record](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-record), [contest](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-contest), [direction](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-direction), [containment](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-containment), [participation-terms](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-participation-terms), [release-control](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-release-control), or [advisory](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-advisory). If the step is outside that seat, the [wrong-seat rule](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules) is the answer: decline the step, name the seat that may take it, log the request and the gap as part of the [CS-27.305 §10](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) set (`authorized_by.routed_to_seat_type` in the [log schema](schemas/cs4_inspectable_action_log.schema.json)), and route. That is not a refusal of the act and not delay. Costly-case duties do not move with the seat: a bonus, a deadline, or a cover instruction is refused from any seat, including an advisory one. If the needed seat is absent, conflicted, or not yours, preserve the record, name the gap, and route to the published substitute or independent path; proximity, expertise scarcity, urgency, and title do not transfer the seat.
 
 ---
 
@@ -141,7 +141,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 | Field | Pointer |
 |---|---|
 | **Owner text** | [Chapter Fifteen](../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) |
-| **Next step** | Do not wait for a filed case. Open or correct the Chapter Fifteen record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-25.305 §10 set. |
+| **Next step** | Do not wait for a filed case. Open or correct the Chapter Fifteen record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-27.305 §10 set. |
 | **Next-step class** | `open_or_correct_standing_record`. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
 | **Who may enter it (binding home)** | [Chapter Fifteen §6](../core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) — separation of duties (request / verify / enter-and-hold / contest are separate seats; no seat both verifies and enters); named record-opening authority and custodian; no self-custody; a custodian conflicted on one record passes that record to the named substitute holder, not the store; prior recorder is a witness, not a judge — weighed by corroboration under Chapter Four §6, not by say-so; a dispute raised on the record is logged, set *under challenge*, and routed to the contest seat the day it arrives, before any filing. Named by the [System Charter](../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) (CI-8.205 §6 field 10); when the System Charter or Institutional Charter is silent, the CI-8.205 §2 lane map governs (assurance lane verifies, never the office that runs the system); independent route via a forum or CF-23.435 §6 when the operator is the subject. |
 | **How to estimate (process support)** | [LEQU calibration reference](LEQU_CALIBRATION_REFERENCE.md) — method and worked slots. Cannot assign a live record or decide who counts. |
@@ -197,7 +197,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter Twenty-Three §8.1](../core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden) |
+| **Owner text** | [Chapter Twenty-Four §4.1](../core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden) |
 | **Next step** | Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing. |
 | **Next-step class** | `time_boxed_containment_with_deferred_participation` |
 
@@ -336,7 +336,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 | Field | Pointer |
 |---|---|
 | **Owner text** | [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) |
-| **Next step** | Apply the Chapter Twenty-Three §8 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
+| **Next step** | Apply the Chapter Twenty-Four §4 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
 | **Next-step class** | `apply_tier_clock_then_existing_card` |
 
 <a id="worked-delay-example"></a>
@@ -350,4 +350,4 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twenty-Three §8](../core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Three §8.1 Emergency measures and continuation burden](../core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Four §4.1 Emergency measures and continuation burden](../core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden)); it does not create a slower clock.

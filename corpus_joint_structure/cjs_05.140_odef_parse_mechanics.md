@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*) and **CJS-5.140 §14** (*Operational Clusters*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*) and **CJS-5.140 §14** (*Operational Clusters*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). General readers may defer this file until cross-domain **oDef** clusters are in scope.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*) section identifiers and **Def.*** / **oDef** homes;
-  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational Clusters*).
 - Read with: **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-5.140 §14** (*Operational Clusters*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
@@ -51,7 +51,7 @@ This file is the joint-structure implementation home for **CJS-5.140 §13** (*Op
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-5.140 §14** (*Operational Clusters*).
 
@@ -93,7 +93,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: **CJS-5.140 §14** (*Operational Clusters*); **CJS-5.140 §13** (*Operational Structure and Subsection-Local Terminology*).
 
@@ -135,6 +135,6 @@ Any read-with cross-reference stated in the head **In scope** (or head Trace) ap
 
 ---
 
-**Previous file:** [cjs_29.105_drafting_contracts.md](cjs_29.105_drafting_contracts.md)
+**Previous file:** [cjs_31.105_drafting_contracts.md](cjs_31.105_drafting_contracts.md)
 
-**Next file:** [cjs_29.110_specific_joint_interlocks.md](cjs_29.110_specific_joint_interlocks.md)
+**Next file:** [cjs_31.110_specific_joint_interlocks.md](cjs_31.110_specific_joint_interlocks.md)

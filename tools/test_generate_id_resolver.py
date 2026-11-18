@@ -35,8 +35,8 @@ class IdResolverTests(unittest.TestCase):
             "corpus_joint_structure/cjs_05.125_accountability_operations.md",
         )
         self.assertEqual(
-            ids["CS-25.305"]["file"],
-            "corpus_systems/cs_25.305_critical_system_stewardship.md",
+            ids["CS-27.305"]["file"],
+            "corpus_systems/cs_27.305_critical_system_stewardship.md",
         )
         self.assertEqual(
             ids["CI-23.210"]["file"],

@@ -1,6 +1,6 @@
 # Purpose, Role, and Scope: drafts of the 16 stub sections, for steward review
 
-Date: 2026-11-13. Follows `purpose-role-scope-standardization-evaluation.md` (same folder; retitle approved; "chapter scope" label approved; Owner Non-Relocation renames approved; Chapter 26 §5 title deferred; corpus files in this pass). Written against `main` at `ba5314de`. **All 16 are inserted on a separate local branch, `purpose-role-scope-ch3`, off `main` (commit `382fa9f7`; not pushed, not merged; `make preflight` passes 80/80).** The inserted text differs from these drafts only where audits required it: section cites become bold "**section N**" in the Chapter Twenty-One style, first mentions of chapters are linked, chapter-scope "covers" lists are bulleted, and a few lines were reworded (bare "record", "Charter", "designation", and "pathway" terms; near-copies between Chapters Ten/Thirteen and Eleven/Fourteen; the Chapter Twenty-Six "title pending" note was dropped). These are the drafts the plan's step 2 asks the steward to approve before the scripted pass.
+Date: 2026-11-13. Follows `purpose-role-scope-standardization-evaluation.md` (same folder; retitle approved; "chapter scope" label approved; Owner Non-Relocation renames approved; Chapter 28 §5 title deferred; corpus files in this pass). Written against `main` at `ba5314de`. **All 16 are inserted on a separate local branch, `purpose-role-scope-ch3`, off `main` (commit `382fa9f7`; not pushed, not merged; `make preflight` passes 80/80).** The inserted text differs from these drafts only where audits required it: section cites become bold "**section N**" in the Chapter Twenty-One style, first mentions of chapters are linked, chapter-scope "covers" lists are bulleted, and a few lines were reworded (bare "record", "Charter", "designation", and "pathway" terms; near-copies between Chapters Ten/Thirteen and Eleven/Fourteen; the Chapter Twenty-Eight "title pending" note was dropped). These are the drafts the plan's step 2 asks the steward to approve before the scripted pass.
 
 This file is also kept in the Sentient Constitution Project on claude.ai. Paths starting `claude/` name Project docs, not repository files.
 
@@ -307,61 +307,61 @@ It points to them and does not restate them.
 
 ---
 
-## Chapter Twenty-Six: Non-Regression and Substantive Amendment Validity
+## Chapter Twenty-Eight: Non-Regression and Substantive Amendment Validity
 
 *In plain terms: a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, or an emergency label. This chapter is Test 1, the substance test.*
 
-**Purpose.** Chapter Twenty-Six states Test 1, substantive non-regression validity. It sets the non-regression floor (§2), the Test 1 checklist against Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, and Chapter Twenty-Five legitimacy (§3), and the anti-evasion clause with referral of serious bad-faith conduct (§4). Amendment validity must preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
+**Purpose.** Chapter Twenty-Eight states Test 1, substantive non-regression validity. It sets the non-regression floor (§2), the Test 1 checklist against Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, and Chapter Twenty-Seven legitimacy (§3), and the anti-evasion clause with referral of serious bad-faith conduct (§4). Amendment validity must preserve both aims, Flourishing and Continuity, and must not hollow the Tetrad below material stake.
 
 **Role.** The chapter is the substance half of change validity:
 
-- Chapter Twenty-Eight states the procedural tests, Tests 2 to 4, and Chapter Twenty-Seven states what additive expansion is permitted.
+- Chapter Thirty states the procedural tests, Tests 2 to 4, and Chapter Twenty-Nine states what additive expansion is permitted.
 - Serious bad-faith conduct is flagged to the bodies that own labels and sanctions, not relabeled here.
 
 **Chapter scope.** The chapter covers §2 through §4. §5 states the validity-protection controls the chapter may impose and the owner non-relocation rule; its title is pending a steward decision. The chapter leaves:
 
 - numeric standing measurement to Chapter Sixteen;
 - anti-constitutional-misconduct designation to Chapter Twenty-One; and
-- procedural validity to Chapter Twenty-Eight.
+- procedural validity to Chapter Thirty.
 
 ---
 
-## Chapter Twenty-Seven: Expansion, Supremacy, and External Legal Orders
+## Chapter Twenty-Nine: Expansion, Supremacy, and External Legal Orders
 
 *In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment.*
 
-**Purpose.** Chapter Twenty-Seven states what is permitted and what holds when this Constitution meets other rules. It permits additive expansion (§2), keeps supremacy and challenge rights in force during amendment (§3), sets supremacy relative to other binding norms, stricter external protections, and conflict disclosure (§4), covers disputes involving external legal orders (§5), and states how this Constitution relates to applicable external law, including non-displacement and limited binding effect (§6).
+**Purpose.** Chapter Twenty-Nine states what is permitted and what holds when this Constitution meets other rules. It permits additive expansion (§2), keeps supremacy and challenge rights in force during amendment (§3), sets supremacy relative to other binding norms, stricter external protections, and conflict disclosure (§4), covers disputes involving external legal orders (§5), and states how this Constitution relates to applicable external law, including non-displacement and limited binding effect (§6).
 
 **Role.** The chapter works with its two neighbors on change and adoption:
 
-- The guardrail on expansion is Chapter Twenty-Six.
-- A body can bind itself only by adopting through Chapter Twenty-Eight, and only as far as it already has lawful authority to bind itself.
-- Chapter Twenty-Nine §4 applies where partial adoption could shrink duties an entity already bears.
+- The guardrail on expansion is Chapter Twenty-Eight.
+- A body can bind itself only by adopting through Chapter Thirty, and only as far as it already has lawful authority to bind itself.
+- Chapter Thirty-One §4 applies where partial adoption could shrink duties an entity already bears.
 
 **Chapter scope.** The chapter covers §2 through §6 in order. It leaves:
 
-- the test for whether a change is valid to Chapters Twenty-Six and Twenty-Eight; and
-- the incorporation bridge, custody, and operative effect of adopted text to Chapter Twenty-Nine.
+- the test for whether a change is valid to Chapters Twenty-Eight and Thirty; and
+- the incorporation bridge, custody, and operative effect of adopted text to Chapter Thirty-One.
 
 ---
 
-## Chapter Twenty-Eight: Amendment, Ratification, and Procedural Validity
+## Chapter Thirty: Amendment, Ratification, and Procedural Validity
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody, and a contest path that works.*
 
-**Purpose.** Chapter Twenty-Eight states Tests 2 to 4 and the rules around them. Heightened review for rights-affecting changes (§2), the burden of justification and public traceability (§3), and the validity floor (§4) frame three tests: procedural validity and publication integrity (§5), authority-chain and custody validity (§6), and contestability and independent review validity (§7). Review triggers (§8), the provisional effect rule (§9), and invalid-change handling and remediation continuity (§10) say what happens when review is needed or a change fails. Ratification and adoption (§11) and amendment procedure requirements (§12) state how a body adopts and how it amends. §13 states the owner non-relocation rule for this chapter.
+**Purpose.** Chapter Thirty states Tests 2 to 4 and the rules around them. Heightened review for rights-affecting changes (§2), the burden of justification and public traceability (§3), and the validity floor (§4) frame three tests: procedural validity and publication integrity (§5), authority-chain and custody validity (§6), and contestability and independent review validity (§7). Review triggers (§8), the provisional effect rule (§9), and invalid-change handling and remediation continuity (§10) say what happens when review is needed or a change fails. Ratification and adoption (§11) and amendment procedure requirements (§12) state how a body adopts and how it amends. §13 states the owner non-relocation rule for this chapter.
 
 **Role.** The chapter is the procedural half of change validity:
 
-- Chapter Twenty-Six states Test 1, the substance test. Procedural steps cannot save a change that fails it (§4).
-- A body binds itself to this Constitution only by adopting through this chapter (Chapter Twenty-Seven §6).
-- Chapter Twenty-Nine holds custody, editions, and operative effect.
+- Chapter Twenty-Eight states Test 1, the substance test. Procedural steps cannot save a change that fails it (§4).
+- A body binds itself to this Constitution only by adopting through this chapter (Chapter Twenty-Nine §6).
+- Chapter Thirty-One holds custody, editions, and operative effect.
 
 **Chapter scope.** The chapter covers §2 through §12, and §13 states the owner non-relocation rule. Escalation wording in this chapter is routing, not a second accountability code. The chapter leaves:
 
 - numeric Contribution and Violation slots to Chapter Sixteen;
 - anti-constitutional-misconduct designations to Chapter Twenty-One; and
-- substantive non-regression to Chapter Twenty-Six.
+- substantive non-regression to Chapter Twenty-Eight.
 
 ---
 
@@ -374,13 +374,13 @@ It points to them and does not restate them.
 | 11, 13, 14 | Outline, plain-terms lines; box for 11 only to its first 600 characters | Section bodies; Chapter 11's owner line |
 | 15, 16 | Box, outline, plain-terms lines, Chapter Fifteen §2.1, Chapter Sixteen §2.3 and §3.1 | Remaining bodies |
 | 18, 19, 20 | Box (owner and anti-relocation lines for 18), outline, plain-terms lines | Section bodies |
-| 22, 25, 26, 27 | Box, outline, plain-terms lines; Chapter Twenty-Six §5 and Chapter Twenty-Eight §13 in full | Remaining bodies |
+| 22, 25, 26, 27 | Box, outline, plain-terms lines; Chapter Twenty-Eight §5 and Chapter Thirty §13 in full | Remaining bodies |
 
 Statements about neighboring chapters were taken from the placement boxes and plain-terms lines of those chapters, not from their bodies. The steward should spot-check any cite that matters to a duty before approving.
 
 ## Found while reading (not fixed)
 
-1. **Stale chapter list in a binding rule, Chapter Twenty-Six §5** (about line 185). It says other owners hold "final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity" in "Chapters Sixteen, Thirteen, Fourteen, and Eighteen respectively." Before the move it read "Twelve, Thirteen, Fourteen, and Eighteen." The move rewrote only the first number. Old Twelve, Thirteen, and Fourteen were standing measurement, standing integration, and misconduct designation (now 16, 17, 21), and old Eighteen was expansion and supremacy (now 26). Five items against four chapters did not line up before the move either. It needs hand review.
+1. **Stale chapter list in a binding rule, Chapter Twenty-Eight §5** (about line 185). It says other owners hold "final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity" in "Chapters Sixteen, Thirteen, Fourteen, and Eighteen respectively." Before the move it read "Twelve, Thirteen, Fourteen, and Eighteen." The move rewrote only the first number. Old Twelve, Thirteen, and Fourteen were standing measurement, standing integration, and misconduct designation (now 16, 17, 21), and old Eighteen was expansion and supremacy (now 26). Five items against four chapters did not line up before the move either. It needs hand review.
 2. **Same pattern, Chapter Twenty-Two about line 1548:** "relocate standing measurement, ordinary locks, or forum supervision from Chapters Fifteen, Thirteen, or Fifteen." Only the first item appears to have been remapped.
 3. **Garbled ranges and "Parts" wording in placement boxes** of Chapters 10, 11, 17, 18, 19 and 20. Examples: "Chapter Seventeen §§1–Chapter Seventeen 4", "Chapter Eleven §2–Chapter Eleven §5", "The other Parts are…", "Section numbers run continuously across the four Parts", and Chapter Ten's "continuing from Chapter Nine §1–§5." Chapter Five core_05.035 about line 3890 has "Chapter Seventeen §§2–Chapter Twenty 3." These look like the range-end rewrite (154 range ends) adding a chapter name to each end. Comma-list chapter mentions are few (6 lines in 6 core files), so the check is small.
 4. **Chapter Seventeen §1** links "§2 Chapter Seventeen Records Do Not Change" to a heading that now reads "Chapter Fifteen Records Do Not Change." The heading is the right one; the link text is stale.
@@ -389,5 +389,5 @@ Statements about neighboring chapters were taken from the placement boxes and pl
 
 1. **Approve, edit, or reject each draft.** After approval, the scripted pass inserts them, retitles all §1 headings, renames the Layer Scope sections, and handles the corpus files.
 2. **Chapter Fifteen §2.1 "Purpose and Scope" and Chapter Sixteen §2.3 "Question 2 Only — Scope and Routing."** Both are scope statements outside §1, and Chapter Fifteen's heading now sits beside a §1 titled "Purpose, Role, and Scope." Options: leave them and point (as drafted), retitle them (for example "The Standing Frame" and "Question 2 Only: Routing"), or fold them into §1 chapter scope.
-3. **Chapter Twenty-Six §5 title** (deferred by the steward).
+3. **Chapter Twenty-Eight §5 title** (deferred by the steward).
 4. **The six stale items above.** Fix in the same scripted pass, or leave as a separate small fix? I would fix 1 and 2 by hand (they sit in binding text) and the rest by script.

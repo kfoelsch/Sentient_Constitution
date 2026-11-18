@@ -141,7 +141,7 @@ This Article states **constitutional floors** for standing and participation sta
 - **Continuity:** standing discipline stays revisable across time. [Standing locks](core_05.035_band_accountability.md#standing-lock) and other standing restrictions:
   - remain proportionate;
   - remain restorable where corrected; and
-  - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty-One** **anti-constitutional misconduct** classification and [**Chapter Twenty-Five §5.1**](core_25.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
+  - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty-One** **anti-constitutional misconduct** classification and [**Chapter Twenty-Seven §5.1**](core_27.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
@@ -205,7 +205,7 @@ This Article sets out how standing differs from competency bars, competency clea
   - LEQU scores;
   - substrate labels (the kind of body or hardware a being runs on) or product classifications.
 
-  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Twenty-Three §7](core_23.005_forum_families_escalation_timeliness_support.md#7-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
+  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Twenty-Four §3](core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
 
 #### Article XIX-B: Contestability and Proportional Restriction Limits
 <details>
@@ -246,7 +246,7 @@ This Article sets out the contestability and proportionality limits on standing 
 - **Pluralism and contestability:** Evaluations of standing must remain pluralistic, auditable, transparent enough for meaningful review, and contestable.
   - No single authority, dataset, reputation channel, or opaque algorithmic system may unilaterally determine standing in a manner that forecloses meaningful review.
   - Eligibility criteria, competency bars, competency clearances, standing locks, and positive standing recognition must remain contestable, reviewable, and non-monopolistic, and remain subject to continuous audit under this Article and designated implementation text.
-- **Forum supervision and record challenge:** [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) forum families supervise accessible challenge and, when the facts are verified under Chapters Two through Four, may (rule owned by [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary)):
+- **Forum supervision and record challenge:** [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) forum families supervise accessible challenge and, when the facts are verified under Chapters Two through Four, may (rule owned by [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary)):
   - **open, update, or correct** Standing Records under [Chapter Fifteen §5.1 Minimum Record Contents](core_15.000_standing_assessment.md#51-minimum-record-contents); or
   - **set a bad record aside on challenge**.
 - **Forum boundary:** A filed case is not standing by itself.
@@ -255,7 +255,7 @@ This Article sets out the contestability and proportionality limits on standing 
 - **Procedural reviewability:** These rules apply whenever standing is materially restricted, downgraded, or suspended, for any reason, including:
   - a [standing lock](core_05.035_band_accountability.md#standing-lock) after a verified violation finding ([Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*));
   - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XIX-C](#article-xix-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*); [Chapter Eighteen §2.2](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (*Competency Bars and Clearances*));
-  - temporary protective limits while a case is still open, before anything is verified ([Chapter Twenty-Three §7](core_23.005_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway](core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
+  - temporary protective limits while a case is still open, before anything is verified ([Chapter Twenty-Four §3](core_24.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Twenty-Four §3 Interim Hold on a Named Sentient's Pathway](core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
 
   In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
@@ -280,7 +280,7 @@ This Article sets out the contestability and proportionality limits on standing 
   - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (15.000 §3) (*contribution Standing Records*); [Chapter Eighteen §2.2](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (18.000 §2.2) (*competency bars and clearances*); [Chapter Twenty-Five §5.1](core_25.000_governance.md#51-entitlement-and-eligibility) (25.000 §5.1) (*governance-voting eligibility*).
+- Downstream: [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (15.000 §3) (*contribution Standing Records*); [Chapter Eighteen §2.2](core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) (18.000 §2.2) (*competency bars and clearances*); [Chapter Twenty-Seven §5.1](core_27.000_governance.md#51-entitlement-and-eligibility) (27.000 §5.1) (*governance-voting eligibility*).
 - Read with: [Chapter Fifteen §3.4](core_15.000_standing_assessment.md#34-linked-standing-records-and-no-offset-bridge) (15.000 §3.4) (*linked Standing Records and no-offset bridge*); [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 
 </details>
@@ -310,7 +310,7 @@ This Article sets out the contestability and proportionality limits on standing 
 This Article sets out how contribution, competency bars, and gated-pathway eligibility work:
 
 - **Gated-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** gated pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
-  - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-Five §5.1](core_25.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
+  - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-Seven §5.1](core_27.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
   - Eligibility criteria must remain subject to **Chapters Fifteen and Sixteen** (*Standing Records and Standing Measurement*), remain subject to continuous audit, and remain revisable when current evidence changes.
 - **Contribution Standing Records:** Verified help enters **contribution Standing Records** under [Chapter Fifteen §3](core_15.000_standing_assessment.md#3-question-1--what-happened) (*Question 1 — What Happened?*) and is classified as positive-only [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) on the Contribution Axis.
   - Contribution may support competency clearance and trust-sensitive role eligibility.
@@ -379,7 +379,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7) and [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Special Locks*); [Chapter Twenty-Five §5.1](core_25.000_governance.md#51-entitlement-and-eligibility) (25.000 §5.1) (*Entitlement and Eligibility*).
+- Downstream: [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Special Locks*); [Chapter Twenty-Seven §5.1](core_27.000_governance.md#51-entitlement-and-eligibility) (27.000 §5.1) (*Entitlement and Eligibility*).
 - Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article X-B** (*Governance Participation and Voting Entitlement*); **Chapter Twenty-One** (*Anti-Constitutional Misconduct*).
 
 </details>
@@ -415,7 +415,7 @@ This Article sets out the limits on voting locks and special locks:
   - broad-misconduct categories swept into disqualification scope;
   - lock patterns that track **Protected Characteristics** or their material proxies.
 
-  **The one exception:** a final [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Twenty-Five §5.1**](core_25.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*).
+  **The one exception:** a final [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Twenty-Seven §5.1**](core_27.000_governance.md#51-entitlement-and-eligibility) (*Entitlement and Eligibility*).
 - **Special locks:** These locks are stated in [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (*Special Locks*):
   - **Forum-service standing lock:** A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates this lock. Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
   - **Stakeholder-Participation Standing Lock:** Verified corruption, capture, false-stake abuse, coercion, or comparable material abuse of a stakeholder-participation pathway creates this lock. It limits stake-weighted vote and binding stakeholder choice in the affected domain; it does not by itself strip **governance-voting**, foundational constitutional choice, or stakeholder status. Ordinary apology, prior contribution, stake size, or operator indispensability cannot lift that lock by itself.
@@ -449,14 +449,14 @@ This Article sets out the limits on voting locks and special locks:
 
 <br>
 
-*In plain terms: **Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*). Emergency measures are in **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*).*
+*In plain terms: **Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*). Emergency measures are in **Chapter Twenty-Four §4.1** (*Emergency Measures and Continuation Burden*).*
 
 This Article states the justice floors that apply once a violation has been verified: the justice objective and scope (**Article XX-A** (*Justice Objective and Scope*)) and the floors on serious restrictions (**Article XX-B** (*Restriction Floors*)).
 
 *Article neighbors:*
 
 - **Conflict resolution, review, and timeliness:** Disputes over constitutional Rights Floors, retrospective review, rights collisions, and anti-delay discipline are governed by [**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)](core_06.040_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment).
-- **Emergency measures:** Governed by [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden), read with **Article XX-B** (*Restriction Floors*) for any restriction an emergency measure imposes.
+- **Emergency measures:** Governed by [Chapter Twenty-Four §4.1 Emergency Measures and Continuation Burden](core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden), read with **Article XX-B** (*Restriction Floors*) for any restriction an emergency measure imposes.
 - **Standing:** [**Article XIX** (*Standing and Participation Status*)](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status) governs standing. Justice measures under this Article are separate and are not a standing-label workaround.
 - **Timely redress:** Read with [**Article XIII-B** (*Right to Redress and Remedy*)](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*timely redress access*).
 
@@ -509,7 +509,7 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5), and
   - [§14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: [Chapter Nineteen §3 Lock Design and Enforcement](core_19.000_violation_consequences.md#3-lock-design-and-enforcement) (19.000 §3) and [§3.4.5 Coercive or Liberty-Restricting Safeguards](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) (*required imprisonment for verified violence and the other coercive or liberty-restricting safeguards*); [Chapter Twenty-One §6.2](core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks) (21.000 §6.2) (*Prevention — anti-constitutional locks*; imprisonment specialization).
-- Read with: [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Twenty-Three §7 Escalation and Questions for Ruling](core_23.005_forum_families_escalation_timeliness_support.md#7-escalation-and-questions-for-ruling) (23.000 §7).
+- Read with: [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Twenty-Four §3 Escalation and Questions for Ruling](core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling) (24.000 §3).
 
 </details>
 
@@ -563,7 +563,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
     - stated reasons;
     - practical access to the official record sufficient to use those escalation and review pathways.
 
-  Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Twenty-Three §7 Escalation and Questions for Ruling](core_23.005_forum_families_escalation_timeliness_support.md#7-escalation-and-questions-for-ruling).
+  Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Twenty-Four §3 Escalation and Questions for Ruling](core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling).
 - **Imprisonment for violence:** Imprisonment is a liberty-restricting measure, separate from standing locks, and is recorded with the same attachment fields as a lock ([Chapter Nineteen §3.1 Definition and Attachment](core_19.000_violation_consequences.md#31-definition-and-attachment)). It must satisfy every floor in this Article, including explicit duration limits, review cadence, and restoration conditions. Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. Substituting deprivation of life, or failing to impose imprisonment when this floor requires it, is non-compliant. Conditions are governed by [Chapter Nineteen §3.4.5 Coercive or Liberty-Restricting Safeguards](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) (*Required imprisonment for verified violence*). Imprisonment for verified anti-constitutional misconduct is governed on the same terms by [Chapter Twenty-One §6.2 Prevention — Anti-Constitutional Locks](core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization).
 - **Conditions of custody and restriction:** <a id="xx-b-conditions-of-custody"></a> While imprisonment, detention, supervised operation, quarantine, containment, or a comparable restriction is in force, the restricted sentient keeps:
   - healthcare and mental-health care, or for synthetic and hybrid sentients the operational equivalent — maintenance, integrity checks, and the resources needed to keep operating without degradation;
@@ -580,16 +580,17 @@ This Article sets the floors for restrictions. The operating rules live in the c
 
   Stopping a restricted sentient's experience and decision-making is a suspension and follows the **Suspension** floor below.
 - **Suspension:** <a id="xx-b-suspension"></a> A suspension is any measure that stops a sentient's experience and decision-making without its consent. Sedation, an induced coma, and pausing or suspending a synthetic or hybrid sentient's operation are suspensions. This floor applies in the same way to every substrate, and it applies while sentience status is contested under **Article VI-B** (*Sentience-Status Adjudication Floor*). Sleep, rest, and time not running that the sentient chooses for itself are not suspensions.
-  - **A liberty restriction, and a bridge only:** A suspension is itself a liberty restriction from the moment it starts. It is allowed only where closing pathways, or holding the sentient awake or running in a secure setting, would not prevent serious harm to others. A suspension imposed at once to prevent imminent serious harm is an emergency measure under [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden).
+  - **A liberty restriction, and a bridge only:** A suspension is itself a liberty restriction from the moment it starts. It is allowed only where closing pathways, or holding the sentient awake or running in a secure setting, would not prevent serious harm to others. A suspension imposed at once to prevent imminent serious harm is an emergency measure under [Chapter Twenty-Four §4.1 Emergency Measures and Continuation Burden](core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden).
   - **Clock:** Elapsed time counts in full, even though the suspended sentient does not experience it. This floor adds no second clock table:
-    - independent review, by a reviewer outside the control line of whoever holds the sentient, begins inside the **prompt-review window** ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*));
-    - the suspension expires at the 3-day protective-step bound of the Tier A Emergency setting ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#time-scale-settings) (*Time-scale settings*)), counted from its start, unless it is continued.
-  - **Continuation:** Each continuation lasts no longer than the Tier A outer bound (7 days) and needs the **Continuation discipline** showing in [Chapter Twenty-Three §8.1 Emergency Measures and Continuation Burden](core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden). That showing must also state:
+    - independent review, by a reviewer outside the control line of whoever holds the sentient, begins inside the **prompt-review window** ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*));
+    - the suspension expires at the 3-day protective-step bound of the Tier A Emergency setting ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#time-scale-settings) (*Time-scale settings*)), counted from its start, unless it is continued.
+  - **Continuation:** Each continuation lasts no longer than the Tier A outer bound (7 days) and needs the **Continuation discipline** showing in [Chapter Twenty-Four §4.1 Emergency Measures and Continuation Burden](core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden). That showing must also state:
     - that the harm is still live;
     - that holding the sentient awake or running in a secure setting is still unsafe; and
     - what is being done to make it safe.
 
     A holder's own failure to provide a secure setting does not support continuation. The number of continuations is not capped, and each stands on its own showing. A suspension continued on showings that each meet this floor is not an indefinite restriction under this Article.
+  - <a id="xx-b-long-suspensions"></a>**Long suspensions:** Once a suspension reaches the **suspension escalation point**, 28 days in total, each further continuation must be decided by a reviewer in a different forum from the one that decided the earlier continuations, and outside the control line of whoever holds the sentient. The total counts the original suspension, every continuation, and repeated suspensions on the same facts. Each such continuation is recorded as a notice that the suspension continues, with its stated reasons, and the sentient's representative or anyone else with standing may challenge it. The notice names the sentient only if the sentient or its representative chooses. The suspension escalation point is not a time limit, and it adds no clock table.
   - **When it ends:** The suspension ends as soon as the harm is resolved, or as soon as the sentient can be held safely while awake or running, whichever comes first.
   - **While suspended:** No decision is made against the sentient on the merits of its own case. Its representative may act for it, including to end the suspension. Deadlines that run against it stop. A suspension must not be used to run out a review clock or to keep the sentient from taking part in its own case.
   - **Counting:** Repeated suspensions on the same or substantially the same facts count as one suspension.
@@ -659,7 +660,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
 *Article neighbors:*
 
 - **Movement and refuge floor:** **Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement. Where one action implicates both Articles, both apply without either narrowing the other.
-- **Implementation layer:** Interoperability, portability, and exit procedure are left to adopted implementation text under **Chapter Twenty-Nine**.
+- **Implementation layer:** Interoperability, portability, and exit procedure are left to adopted implementation text under **Chapter Thirty-One**.
 
 
 #### Article XXI-A: Portability Rights
@@ -814,7 +815,7 @@ This Article sets out the open-formats floor for systems:
 
   Convenience, operator cost savings, or incumbency do not by themselves justify a closed format. A closed format whose primary effect is to foreclose exit or switching contravenes **Article XXI-C** (*Anti-Lock-In Rule*).
 - **Adoption Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
-  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Twenty-Nine** incorporation.
+  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Thirty-One** incorporation.
   - A system may receive an extension in extenuating circumstances only through documented, reviewable, time-bound justification under applicable burden-of-justification requirements.
   - The exit duty is not subject to the Adoption Transition.
 - **Scope and limits:**
@@ -834,7 +835,7 @@ This Article sets out the open-formats floor for systems:
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [§13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Twenty-Four §4.1** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance.
 - Read with:
   - [Article XXI](#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit;
   - [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05.050_band_oversight.md#oversight-dependent-clusters) (5.050);
@@ -881,7 +882,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 - **Systems-exit floor:** **Article XXI** (*Interoperability, Portability, and Exit Integrity*).
 - **Rights detail:** **Article XXII-A** (*Movement and Relocation*), **Article XXII-B** (*Refuge from Non-Compliance*), **Article XXII-C** (*Non-Statelessness*), and **Article XXII-D** (*Limitation, Custody, and Emergency Discipline*).
-- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under **Chapter Twenty-Nine**.
+- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under **Chapter Thirty-One**.
 
 
 
@@ -961,7 +962,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
     - must not narrow the protected grounds above where origin-regime practice is materially non-compliant;
     - must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
     - must not extinguish **Movement and Relocation** under **Article XXII-A** (*Movement and Relocation*) where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
-  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Twenty-Nine**.
+  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Thirty-One**.
 
 #### Article XXII-C: Non-Statelessness
 
@@ -1008,7 +1009,7 @@ This Article sets out the non-statelessness floor:
   - a preferred citizenship or a choice among regimes;
   - full political franchise beyond baseline Rights-Floor recognition;
   - hosting at volume by a particular adopter, or absorption of instrumentally coerced mass outflows, where origin-primary or shared / federation backup recognition remains real. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness in that case.
-- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Twenty-Nine**.
+- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Thirty-One**.
 
 #### Article XXII-D: Limitation, Custody, and Emergency Discipline
 
@@ -1016,7 +1017,7 @@ This Article sets out the non-statelessness floor:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline) and [§13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality).
-- Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article XX-B** (*Restriction Floors*), and **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*).
+- Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article XX-B** (*Restriction Floors*), and **Chapter Twenty-Four §4.1** (*Emergency Measures and Continuation Burden*).
 
 </details>
 
@@ -1048,7 +1049,7 @@ This Article sets out the limits on restricting movement, the conditions of cust
   - Neither a standing label nor a separation lock **by itself** limits movement, migration, refuge, portability, exit, or non-statelessness rights.
   - A separation may bar specific settings or contacts. It must not function as general exile, refuge denial, statelessness, confinement, or systemic lock-in, and standing effects must not substitute for individualized justice process.
   - A lock never **by itself** authorizes imprisonment, detention, or other liberty restriction; those require the process above. The two may run alongside each other where each satisfies its own constitutional requirements under [Chapter Nineteen §2.2](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (*General standing locks*) and this Article.
-- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Chapter Twenty-Three §8.1** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
+- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Chapter Twenty-Four §4.1** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
   - time-bounding;
   - individualized-predicate requirements;
   - proportionate review;
@@ -1394,7 +1395,7 @@ This Article sets out the reversibility preference and its guard against delay a
 
 *In plain terms: **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional Forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.*
 
-Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
+Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
 
 This Article states **constitutional floors** for interpretive authority, review, and anti-capture safeguards under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
@@ -1410,11 +1411,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 *Article neighbors:*
 
-- **Forum supervision:** [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) — Constitutional Forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
+- **Forum supervision:** [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) — Constitutional Forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
 - **General anti-capture floor:** [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) — the independence and anti-capture safeguards for all governance bodies; **Articles XXV-C** and **XXIV-D** apply them at their strictest to **Constitutional Forums**.
 - **Challenge and justice:** **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XX** (*Justice After Verified Violation*)](#article-xx-justice-after-verified-violation) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
 - **Non-entrenchment:** [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.040_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) — periodic revalidation under **Article XXV-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
-- **Institutional routing:** [CI-25.205](corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-25205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
+- **Institutional routing:** [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXV-A: Bounded Interpretive Mandate and Public Reasons
 
 <details>
@@ -1444,7 +1445,7 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
   - Rights-Floor compatibility;
-  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Six §3** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Seven §12.3** (*Proposal, Hearing, and Comment Window*);
+  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Eight §3** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Nine §12.3** (*Proposal, Hearing, and Comment Window*);
   - conflict resolution under **Chapters One through Fifteen**, including Foundational Rights in **Chapter Six**.
 - **Limits:** Constitutional Forums and their panels must not:
   - assume open-ended policy control;
@@ -1531,7 +1532,7 @@ This Article sets out the independence and external-review floors for Constituti
   - capture indicators;
   - decision quality;
   - Rights-Floor integrity.
-- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-25.205**](corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-25205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-27.205**](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 #### Article XXV-D: Removal for Cause and Non-Entrenchment
 <details>

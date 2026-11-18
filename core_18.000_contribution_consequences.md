@@ -183,7 +183,7 @@ The conclusion that a gated pathway is trust-sensitive is itself open to challen
 
 **Default continuity.** Once competency clearance is granted and the affected gated pathway is open, clearance stays in force by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or withdraw clearance.
 
-**Periodic retesting.** Some competencies require periodic retesting; others do not. Which gated pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_23.005_forum_families_escalation_timeliness_support.md#62-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
+**Periodic retesting.** Some competencies require periodic retesting; others do not. Which gated pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_24.000_forum_families_escalation_timeliness_support.md#22-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
 
 **Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the gated pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must:
 

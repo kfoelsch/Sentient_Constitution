@@ -9,7 +9,7 @@ Note on paths: this file is also kept in the Sentient Constitution Project on cl
 1. **Retitle every §1 to "Purpose, Role, and Scope."** Done in the same scripted pass that inserts the approved drafts.
 2. **Long explanatory material in §1 stays as §1.x subsections** (Chapters 2, 8, 9, 12). Nothing moves out.
 3. **"Chapter scope" is the label for the Scope component in §1.** It is used only for the chapter itself, never for adoption scope, charter scope, or the scope of an article.
-4. **"Layer Scope" and "Layer Boundary" are retired as names.** Chapter 6 §1.2 and Chapter 28 §13 become "Owner Non-Relocation." Chapter 25 §1 takes the standard heading, and its four bullets become the chapter scope. **Chapter 26 §5's title is deferred** (the steward will revisit it).
+4. **"Layer Scope" and "Layer Boundary" are retired as names.** Chapter 6 §1.2 and Chapter 30 §13 become "Owner Non-Relocation." Chapter 27 §1 takes the standard heading, and its four bullets become the chapter scope. **Chapter 28 §5's title is deferred** (the steward will revisit it).
 5. **The corpus files are in this pass** (see "Corpus files" below).
 
 ## Recommendation (as first given)
@@ -32,10 +32,10 @@ Of the 24 chapters with a Purpose and Role heading, **16 are stubs** (about 35 w
 **Scope already exists in the corpus, with no fixed home and no fixed name:**
 
 - Chapter 8 §1 states scope in its heading and body: applies to every Materially Binding Act; does not apply to a Class P Operating Party.
-- Chapter 25 §1, "Layer Boundary," is in substance a scope statement.
-- Chapter 29 states scope late, in §4 "Adoption Framing and Scope of Authority."
+- Chapter 27 §1, "Layer Boundary," is in substance a scope statement.
+- Chapter 31 states scope late, in §4 "Adoption Framing and Scope of Authority."
 - Chapter 12 §1.1 "Who Is Certified" and Chapter 6 §1.2 "Layer Scope" carry it as subsections of §1.
-- Chapters 26 §5 and 27 §13, both "Layer Scope," are binding owner non-relocation rules ("non-compliant under this section"), not description.
+- Chapters 28 §5 and 27 §13, both "Layer Scope," are binding owner non-relocation rules ("non-compliant under this section"), not description.
 - Chapter 15 §2.1 "Purpose and Scope" and Chapter 16 §2.3 "Question 2 Only — Scope and Routing" are scope statements outside §1.
 - Chapter 21's §1 has it as the "This chapter does not" list, trimmed from seven items to two as boilerplate and duplication.
 
@@ -52,7 +52,7 @@ Every chapter also already opens with a placement box that names the constitutio
 
 1. **"Scope" is overloaded here** ("scope misalignment," "adoption scope," Article XVIII-A "Sandboxed Scope"). The "chapter scope" label answers this.
 2. **Scope is the most duty-bearing of the three.** A loosely written Scope paragraph could add or narrow a duty. The drafts restate only existing rules.
-3. **Two scopes in one chapter** (Chapters 26, 28 and 6). Answered by the Owner Non-Relocation renames.
+3. **Two scopes in one chapter** (Chapters 28, 30 and 6). Answered by the Owner Non-Relocation renames.
 4. **Role and Scope overlap.** Answered by the definitions below.
 5. **Churn right after the 492nd move.** The slug changes from `#1-purpose-and-role`. I counted 596 references to `#1-purpose-and-role` in 224 files (excluding archive, evidence and generated indexes; translation files are included). The migration engine in `tools/final_chapter_structure_migration/` can retarget them, and the generated indexes must be regenerated.
 
@@ -66,9 +66,9 @@ Form: *In plain terms* gloss, then prose and bullets with bold lead-ins. Short �
 
 ## Layer Scope renames
 
-The three "Layer Scope" sections are not scope statements. Their text is the owner non-relocation rule, which Chapter Five already names and anchors (`#owner-non-relocation`, in *Authority Stack and Internal Hierarchy*). Renaming them "Chapter Scope" would put a §1 chapter scope and a binding "Chapter Scope" section in the same chapter. So: Chapter 6 §1.2 and Chapter 28 §13 become "Owner Non-Relocation." Chapter 26 §5 also lists the validity-protection controls the chapter may impose (heightened review, provisional suspension, evidence preservation, remediation publication), so it needs a two-part title or a split; deferred.
+The three "Layer Scope" sections are not scope statements. Their text is the owner non-relocation rule, which Chapter Five already names and anchors (`#owner-non-relocation`, in *Authority Stack and Internal Hierarchy*). Renaming them "Chapter Scope" would put a §1 chapter scope and a binding "Chapter Scope" section in the same chapter. So: Chapter 6 §1.2 and Chapter 30 §13 become "Owner Non-Relocation." Chapter 28 §5 also lists the validity-protection controls the chapter may impose (heightened review, provisional suspension, evidence preservation, remediation publication), so it needs a two-part title or a split; deferred.
 
-**Footprint:** four headings (Chapter 6 §1.2, Chapter 25 §1, Chapter 26 §5, Chapter 28 §13) and 15 anchor links (6 to `#5-layer-scope`, 4 to `#13-layer-scope`, 4 to `#12-layer-scope`, 1 to `#1-layer-boundary-for-this-chapter`). Prose mentions: Chapter 5 *Authority Stack* Downstream line (core_05.045, about line 1111), Chapter 28 about lines 24, 187, 331 and 351, and the Chapter 4 non-operative line "states a layer boundary only" (core_04, about line 219). Tools: one advisory rule summary (`tools/architecture/rule_registry.json`, about line 276), a docstring in `tools/ch5_nested_list_candidate_audit.py`, and a test fixture in `tools/test_external_link_audit.py`. None is a gate. I did not run the audits.
+**Footprint:** four headings (Chapter 6 §1.2, Chapter 27 §1, Chapter 28 §5, Chapter 30 §13) and 15 anchor links (6 to `#5-layer-scope`, 4 to `#13-layer-scope`, 4 to `#12-layer-scope`, 1 to `#1-layer-boundary-for-this-chapter`). Prose mentions: Chapter 5 *Authority Stack* Downstream line (core_05.045, about line 1111), Chapter 30 about lines 24, 187, 331 and 351, and the Chapter 4 non-operative line "states a layer boundary only" (core_04, about line 219). Tools: one advisory rule summary (`tools/architecture/rule_registry.json`, about line 276), a docstring in `tools/ch5_nested_list_candidate_audit.py`, and a test fixture in `tools/test_external_link_audit.py`. None is a gate. I did not run the audits.
 
 The word "layer" stays in the rule text itself ("another constitutional owner layer," "cross-layer drift") and elsewhere ("governance-layer scope," the defined term *Constitutional Contract Layer*). A sweep of "owner layer" to "owner chapter" is a separate terminology decision and is not in this pass.
 
@@ -95,9 +95,9 @@ The other 62 corpus files open with a topical rule as §1 (for example "§1 Basi
 |---|---|
 | 16 stubs | Insert the approved drafts; replace the stub sentence. |
 | Chapter 21 | Retitle. Regroup existing text under the three lead-ins. No content change. |
-| Chapters 8, 25, 29, 23 | Retitle. Chapter 25's four bullets become chapter scope, with Purpose and Role added. Chapter 8's scope paragraph moves under the Chapter scope lead-in. Drop the "— Participation Architecture" suffix from 23, or keep it as a deliberate exception. |
+| Chapters 8, 27, 31, 23 | Retitle. Chapter 27's four bullets become chapter scope, with Purpose and Role added. Chapter 8's scope paragraph moves under the Chapter scope lead-in. Drop the "— Participation Architecture" suffix from 23, or keep it as a deliberate exception. |
 | Chapters 9, 12, 17 (and 2, 6) | Retitle. Add the three lead-ins above the existing material. |
-| Chapters 26, 28 and Chapter 6 §1.2 | Rename per above; Chapter 26 §5 deferred. |
+| Chapters 28, 30 and Chapter 6 §1.2 | Rename per above; Chapter 28 §5 deferred. |
 | Chapters 0 and 5 | Exempt, as the plan already has it. |
 | Corpus | Retitle the 16 files above. |
 | `tools/ch10_duplication_audit.py` | Its exemption for the stub sentence (line ~151) must follow the new wording or the parallel Chapters 9–11 and 12–14 will start failing. |
@@ -106,11 +106,11 @@ The other 62 corpus files open with a topical rule as §1 (for example "§1 Basi
 
 ## Still open
 
-1. **Chapter 26 §5 title** (deferred by the steward).
+1. **Chapter 28 §5 title** (deferred by the steward).
 2. **Chapter 15 §2.1 and Chapter 16 §2.3** (scope statements outside §1). Leave and point (as drafted), retitle, or fold into §1 chapter scope.
 3. **The other 62 corpus files:** leave without a Purpose, Role, and Scope section (recommended), or draft one for each.
-4. **Stale cites found while drafting** (Chapter 26 §5, Chapter 22, six placement boxes). Listed in the drafts document.
+4. **Stale cites found while drafting** (Chapter 28 §5, Chapter 22, six placement boxes). Listed in the drafts document.
 
 ## Not checked
 
-I read the §1 text for Chapters 1, 2, 6, 8, 12, 17, 21, 23, 25, 26 (§5), 27 (§13) and 28, and the placement boxes and outlines of the 16 stub chapters. I did not read the bodies of the stub chapters. No audits were run.
+I read the §1 text for Chapters 1, 2, 6, 8, 12, 17, 21, 23, 27, 28 (§5), 27 (§13) and 28, and the placement boxes and outlines of the 16 stub chapters. I did not read the bodies of the stub chapters. No audits were run.

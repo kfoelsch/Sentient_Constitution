@@ -14,9 +14,9 @@
 
 - Upstream: [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (*inputs and decision order*); [Chapter Eighteen](core_18.000_contribution_consequences.md#chapter-eighteen-contribution-consequences) (*contribution consequences; not an input here, and never an offset*); [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (*Questions 1 and 2*).
 - This file: Question 3 violation consequences: remedy and correction, general standing locks, voluntary public accountability expression, remedy parity, and lock design and enforcement.
-- Downstream: [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*); [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (*forum supervision*); [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Downstream: [Chapter Twenty](core_20.000_final_effect_restoration_enforcement.md#chapter-twenty-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*); [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (*forum supervision*); [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Read with:
-  - [CS-25.305 §10 inspectable attributable action](corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§3.4.3 Duty to Resist](#343-duty-to-resist) refusal log uses;
+  - [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§3.4.3 Duty to Resist](#343-duty-to-resist) refusal log uses;
   - steward pointer (process support; cannot narrow this chapter): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 - Worked examples (they add no rule): [CJS-15.105 Application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes): [CJS-15.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) and [CJS-15.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-10-question-3-routing-patterns).
 
@@ -58,7 +58,7 @@ The chapter leaves:
 
 This section is the violation side of Question 3. It starts from a violation Standing Record that [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) has verified and [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) has measured, and it decides the violation-side consequences (remedy, correction, and prevention) from that violation Standing Record alone ([§3.4 Processing Order](core_17.000_standing_integration.md#34-processing-order), step 4). **Independence:** contribution, which [§2 Contribution Consequences](core_18.000_contribution_consequences.md#2-contribution-consequences) covers, is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it. The one exception is help given after the violation, which can count as restitution under [§2.1.2 Remedy](#212-remedy); help given before the violation never does.
 
-Forums under [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) supervise lawful implementation, challenge, interim relief, and timely movement of these decisions. They do not replace this chapter's duty to decide remedy, correction, and prevention from the verified Standing Record. How a forum's work reaches the Standing Record itself is in [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary).
+Forums under [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) supervise lawful implementation, challenge, interim relief, and timely movement of these decisions. They do not replace this chapter's duty to decide remedy, correction, and prevention from the verified Standing Record. How a forum's work reaches the Standing Record itself is in [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary).
 
 <a id="21-remedy-and-correction"></a>
 #### 2.1 Remedy and Correction
@@ -110,7 +110,7 @@ Remedy also follows these three rules:
 - **Priority:** Put affected parties and practical restoration first, ahead of reputation repair, institutional convenience, or ordinary administrative order.
 - **Interim protection:** If waiting would likely defeat remedy, prolong dependency harm, destroy evidence, or let harm continue, lawful interim steps must be considered, and each must be ordered or rejected on the Standing Record.
   - Steps to consider include protection, preservation, escrow, holdback, restoring access, keeping services running, or a comparable safeguard.
-  - Interim relief while a matter is pending stays under [Chapter Twenty-Three §7 Interim Protection](core_23.005_forum_families_escalation_timeliness_support.md#interim-protection).
+  - Interim relief while a matter is pending stays under [Chapter Twenty-Four §3 Interim Protection](core_24.000_forum_families_escalation_timeliness_support.md#interim-protection).
 - **Later help as restitution:** Help given before the violation does not count toward remedy. Verified help given by the party who owes the remedy after the conduct the violation finding rests on (for conduct that continues, after it stops) counts as restitution to the extent it repairs, compensates, restores, or makes up the loss to the affected sentients and interests.
   - The integration record credits the help against the remedy owed and says how much of it the help covers.
   - The credit reduces the remedy still owed. It does not change the violation finding, the Chapter Sixteen slot, the correction duties, or any lock.
@@ -190,7 +190,7 @@ Detention, imprisonment, and other liberty restrictions are not standing locks. 
 
 The two named gated pathways are distinct:
 
-- **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Five §5.1 Entitlement and Eligibility](core_25.000_governance.md#51-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
+- **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Seven §5.1 Entitlement and Eligibility](core_27.000_governance.md#51-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
 - **stakeholder-participation** covers stake-weighted vote, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice). It does **not** erase [Stakeholder](core_05.055_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
 
 <a id="223-special-locks-for-particular-findings"></a>
@@ -295,8 +295,8 @@ A general standing lock under [§2.2 Prevention — General Standing Locks](#22-
   - the funding source; and
   - the start date.
 - **Not required:** completion of remedy. An opened remedy record is required.
-- **Not covered:** interim protective measures under [Chapter Twenty-Three §7 Interim Protection](core_23.005_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*), including an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which needs no open remedy record because it is not a lock.
-- **A defective lock:** a lock attached without an opened remedy record is defective and must be corrected or narrowed to interim protective scope on the [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier window.
+- **Not covered:** interim protective measures under [Chapter Twenty-Four §3 Interim Protection](core_24.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*), including an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which needs no open remedy record because it is not a lock.
+- **A defective lock:** a lock attached without an opened remedy record is defective and must be corrected or narrowed to interim protective scope on the [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier window.
 
 <a id="242-remedy-parity-tripwire"></a>
 ##### 2.4.2 Remedy-Parity Tripwire
@@ -311,7 +311,7 @@ Adopters must publish, for each period and each lock class they administer, the 
 - restorations decided; and
 - reassessments pending.
 
-Where remedy commencement or restoration review for a lock class exceeds its [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound:
+Where remedy commencement or restoration review for a lock class exceeds its [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound:
 
 - new general locks in that class default to **open with safeguards** under [§2 Final Standing Effect](core_20.000_final_effect_restoration_enforcement.md#2-final-standing-effect) unless the integration record documents a specific irreversible-harm or safety risk that requires **blocked**;
 - existing general locks in that class enter mandatory reassessment under [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment) on the same tier window; and
@@ -858,7 +858,7 @@ This subsection has eight locks:
   - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice).
 - **Does not by itself restrict:**
   - [Stakeholder](core_05.055_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
-  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Five §5.1 Entitlement and Eligibility](core_25.000_governance.md#51-entitlement-and-eligibility);
+  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Seven §5.1 Entitlement and Eligibility](core_27.000_governance.md#51-entitlement-and-eligibility);
   - Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
 - **Risk:** continued capture or distortion of stakeholder voice, false-stake dominance, coerced participation weight, and recurrence of stakeholder-pathway abuse in the same or related domains.
 - **Protected subjects or interests:** affected stakeholders, integrity of binding stakeholder choice, and non-capture of the relevant system, institution, or bounded decision domain.
@@ -1046,7 +1046,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 **Trigger:** the lock is set by a final order of either of these kinds:
 
 - a final dissolution order under **CI-19.210 §4** (*Dissolution*), including the wind-down order of a forum whose dissolution or disbandment threshold under **CF-23.445 §4** (*Performance Thresholds and Alerts*) is crossed; or
-- a retirement order for a System under **CI-24.205 §5** (*Systems under Consequence Orders*).
+- a retirement order for a System under **CI-25.205 §5** (*Systems under Consequence Orders*).
 
 **Who the lock is about:**
 
@@ -1069,7 +1069,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
   - The lock follows the activity and the control, not the label. A change of name, form, seat, or holder does not take an entity outside it ([§4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority)).
 - **Does not by itself restrict:**
   - any sentient forming or leading a different Operating Party, including one that does similar work and including a sentient who ran the dissolved Chartered Party alone or with others, so long as it is not one of the entities above and no lock on that sentient bars it;
-  - a good-faith purchaser, an independent successor created by a structural-separation order under **CI-24.205 §3** (*Supervised Operation and Receivership*), a workers' cooperative formed by the workers, or an arm's-length buyer under the order;
+  - a good-faith purchaser, an independent successor created by a structural-separation order under **CI-25.205 §3** (*Supervised Operation and Receivership*), a workers' cooperative formed by the workers, or an arm's-length buyer under the order;
   - members, workers, and dependents of the dissolved Chartered Party joining, working in, or being served by another Operating Party;
   - the receiver, liquidator, or successor that the dissolution order itself names to carry services, records, and challenge pathways forward;
   - the remedy, accounting, and records duties the order sets, which outlast the dissolution; or
@@ -1077,7 +1077,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - **Risk:** the same Operating Party, under the same control, coming back under a new name or form after a forum has found that nothing short of ending it protects others.
 - **Protected subjects or interests:** the sentients the dissolved Chartered Party harmed or endangered, the dependents moved to receivers, and the integrity of the dissolution order and of the forum that made it.
 - **Corrective conditions:**
-  - **Permanent form:** where the order records pervasive anti-constitutional conduct or unremedied Irreversible Harm under [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment), nothing runs with time. Passage of time, apology, a resolved cause, prior contribution, capital, a change of holders, or a change of name or form cannot lift the lock by itself. It ends only on a published finding of independent review that the dissolution order was set aside under **CI-24.205 §6** (*Review, Fairness, and Enforcement*) or that material new verified facts show the violation finding it rested on was wrong.
+  - **Permanent form:** where the order records pervasive anti-constitutional conduct or unremedied Irreversible Harm under [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment), nothing runs with time. Passage of time, apology, a resolved cause, prior contribution, capital, a change of holders, or a change of name or form cannot lift the lock by itself. It ends only on a published finding of independent review that the dissolution order was set aside under **CI-25.205 §6** (*Review, Fairness, and Enforcement*) or that material new verified facts show the violation finding it rested on was wrong.
   - **Restorable form:** where the order records neither permanent-lock ground, the lock ends on a published finding of independent review that the cause the order found is resolved, the remedy owed is delivered, the safeguards that would stop a repeat are in place, and a return is safer than continued exclusion for the protected interests. Apology, prior contribution, capital, or a change of name or form cannot satisfy that finding of independent review by itself.
 - **Review route and reassessment:**
   - **Who reviews:** an independent review, run outside the dissolved Chartered Party, outside the issuing panel, and outside any body whose authority the lock limits.
@@ -1179,13 +1179,13 @@ The lock is mandatory once its trigger is met, and it applies on the same terms 
 
 *In plain terms: a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified violation finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.*
 
-An [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway](core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) is interim protection and not a lock. This subsection keeps the two apart:
+An [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Twenty-Four §3 Interim Hold on a Named Sentient's Pathway](core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) is interim protection and not a lock. This subsection keeps the two apart:
 
-- **Different trigger:** A hold rests on the Interim Hold grounds in [Chapter Twenty-Three §7 Interim Hold on a Named Sentient's Pathway](core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). A lock attaches only to a verified violation finding ([§3.1 Definition and Attachment](#31-definition-and-attachment)).
+- **Different trigger:** A hold rests on the Interim Hold grounds in [Chapter Twenty-Four §3 Interim Hold on a Named Sentient's Pathway](core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). A lock attaches only to a verified violation finding ([§3.1 Definition and Attachment](#31-definition-and-attachment)).
 - **No standing effect:** A hold is not a verified input, a [Standing Record](core_05.035_band_accountability.md#standing-record), or a standing effect. It supplies nothing to Chapter Fifteen, and its lapse or its being set aside supplies nothing either.
 - **Never converted:** A hold is not turned into a lock by passing time, by an extension, or by the merits matter being opened. If a violation finding is verified, the lock is designed and justified on its own integration record from the finding.
 - **Time counts:** Where a lock with a time bound later attaches on the same gated pathway for the same facts, time already spent under a hold on that gated pathway counts toward that bound. It does not count toward the corrective conditions, which are met by what is done.
-- **No substitute for a lock:** Once the hold's bound and its single extension have passed ([Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the gated pathway reopens unless a verified violation finding supports a lock.
+- **No substitute for a lock:** Once the hold's bound and its single extension have passed ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the gated pathway reopens unless a verified violation finding supports a lock.
 - **Excluded gated pathways:** A hold may not reach a gated pathway that a lock itself may not restrict under [§3.1 Definition and Attachment](#31-definition-and-attachment) (*What a Lock Does Not Itself Restrict*), and it may not reach **governance-voting** at all.
 
 ---

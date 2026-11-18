@@ -182,7 +182,7 @@
     },
     {
       "avoid": "bare Charter / charter (Corpus/Constitution sense)",
-      "prefer": "name which: (1) System Charter — scope document of one system (core_05.040_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05.040_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Twenty-Five polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05.040_band_continuity.md#constitutional-charter); (4) Adoption Charter — the published document of a settled adopter that names its forum authority assignment, record custodian and gatekeeper-check contact, and the trust it extends to other adopters (core_05.040_band_continuity.md#adoption-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
+      "prefer": "name which: (1) System Charter — scope document of one system (core_05.040_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05.040_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Twenty-Seven polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05.040_band_continuity.md#constitutional-charter); (4) Adoption Charter — the published document of a settled adopter that names its forum authority assignment, record custodian and gatekeeper-check contact, and the trust it extends to other adopters (core_05.040_band_continuity.md#adoption-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
     },
     {
       "avoid": "Chapter Zero",
@@ -214,7 +214,7 @@
     },
     {
       "avoid": "certify a question / certified question(s) / refer, certify, or stay (the forum move that sends a question to another forum)",
-      "prefer": "question for ruling and send for ruling (Chapter Twenty-Three section 7); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
+      "prefer": "question for ruling and send for ruling (Chapter Twenty-Four section 3); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
     },
     {
       "avoid": "pass / passes (bare noun: the pass, a pass, each pass)",
@@ -274,11 +274,11 @@
     },
     {
       "avoid": "governance layer mechanism",
-      "prefer": "legitimacy mechanism (Chapter Twenty-Five); do not use governance-layer mechanism as a synonym for the two-layer split"
+      "prefer": "legitimacy mechanism (Chapter Twenty-Seven); do not use governance-layer mechanism as a synonym for the two-layer split"
     },
     {
       "avoid": "governance-layer mechanism",
-      "prefer": "legitimacy mechanism (Chapter Twenty-Five)"
+      "prefer": "legitimacy mechanism (Chapter Twenty-Seven)"
     },
     {
       "avoid": "stakeholder-layer",
@@ -286,7 +286,7 @@
     },
     {
       "avoid": "two-tier constitutional and stakeholder governance",
-      "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-29.105 §8 definition contract"
+      "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-31.105 §8 definition contract"
     },
     {
       "avoid": "right / rights (generic Chapter Six baseline protection sense)",
@@ -310,7 +310,7 @@
     },
     {
       "avoid": "transitional steps / transitional measures (a stopgap during amendment)",
-      "prefer": "interim steps, interim measures (Chapter Twenty-Eight §3); enforced by avoid-transition-senses"
+      "prefer": "interim steps, interim measures (Chapter Thirty §3); enforced by avoid-transition-senses"
     },
     {
       "avoid": "transition continuity / continuity-preserving transition / safe transition paths / transition lifecycle (control or operation passing to another party: exit, migration, consolidation, dissolution, authority transfer)",

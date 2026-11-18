@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_27.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Eight §6](../../../core_28.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -50,9 +50,9 @@ See: [Chapter Nineteen §2.1](../../../core_19.000_violation_consequences.md#21-
 
 ## What this will not pretend to give you
 
-- Enforcement against a hospital, platform, lab, or host that has not agreed to follow this Constitution ([Chapter Twenty-Nine §4](../../../core_29.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a hospital, platform, lab, or host that has not agreed to follow this Constitution ([Chapter Thirty-One §4](../../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - An instant win, or a promise that every challenge is correct.
-- A substitute for ordinary local, national, or international law ([Chapter Twenty-Eight §6](../../../core_28.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- A substitute for ordinary local, national, or international law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 
 ## If you want to look further
 

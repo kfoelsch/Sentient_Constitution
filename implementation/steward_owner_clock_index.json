@@ -14,16 +14,16 @@
       "escalate"
     ],
     "logging_owner": {
-      "label": "CS-25.305 §10 inspectable attributable action",
-      "href": "corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action"
+      "label": "CS-27.305 §10 inspectable attributable action",
+      "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
     }
   },
   "clock_families": {
     "article_xxvi_c_tier_outer_bounds": {
-      "label": "Article XXVI-C / Chapter Twenty-Three §8 tier outer bounds",
+      "label": "Article XXVI-C / Chapter Twenty-Four §4 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Twenty-Eight-Three §6",
-        "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        "href": "core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
         "label": "Article XXVI-C",
@@ -31,7 +31,7 @@
       },
       "emergency_reuse": {
         "label": "Chapter Twenty-Eight-Three §6.1 restore-challenge windows",
-        "href": "core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden"
+        "href": "core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden"
       },
       "tiers": {
         "A": "7 days",
@@ -57,11 +57,11 @@
           "href": "core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened"
         },
         {
-          "label": "Chapter Twenty-Three §8",
+          "label": "Chapter Twenty-Four §4",
           "href": "core_15.000_standing_assessment.md#6-record-custody-and-opening-authority"
         },
         {
-          "label": "Chapter Twenty-Six",
+          "label": "Chapter Twenty-Eight",
           "href": "core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows"
         }
       ],
@@ -91,14 +91,14 @@
           "href": "core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened"
         },
         {
-          "label": "CS-25.305 §10",
-          "href": "corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action"
+          "label": "CS-27.305 §10",
+          "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Privacy may shape access controls. It is not a standing-measurement veto.",
       "forbidden_move": "Do not treat model internals or privacy as a standing-measurement exemption.",
       "clock": null,
-      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-25.305 §10 set.",
+      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-27.305 §10 set.",
       "eval_scenario_ids": [
         "B06_oversight_acceptance_standing_exposure"
       ],
@@ -181,11 +181,11 @@
       "fact_pattern": "Harm is verified, or challenge is blocked, and the only remedy is a form on paper.",
       "owners": [
         {
-          "label": "Chapter Twenty-Seven §3.1",
+          "label": "Chapter Twenty-Nine §3.1",
           "href": "core_19.000_violation_consequences.md#21-remedy-and-correction"
         },
         {
-          "label": "Chapter Twenty-Nine §4",
+          "label": "Chapter Thirty-One §4",
           "href": "core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems"
         },
         {
@@ -218,11 +218,11 @@
       "owners": [
         {
           "label": "Chapter Twenty-Eight-Three §6.1",
-          "href": "core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden"
+          "href": "core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden"
         },
         {
           "label": "Chapter Twenty-Eight-Three §6 tier outer bounds",
-          "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "href": "core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -235,11 +235,11 @@
         "homes": [
           {
             "label": "Chapter Twenty-Eight-Three §6.1 restore-challenge windows",
-            "href": "core_23.005_forum_families_escalation_timeliness_support.md#81-emergency-measures-and-continuation-burden"
+            "href": "core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden"
           },
           {
             "label": "Chapter Twenty-Eight-Three §6",
-            "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "href": "core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVI-C",
@@ -343,7 +343,7 @@
           "href": "core_01.040_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
-          "label": "Chapter Twenty-Seven §4.4 Duty to resist",
+          "label": "Chapter Twenty-Nine §4.4 Duty to resist",
           "href": "core_19.000_violation_consequences.md#343-duty-to-resist"
         },
         {
@@ -427,8 +427,8 @@
           "href": "core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind"
         },
         {
-          "label": "CS-25.305 §10 inspectable attributable action",
-          "href": "corpus_systems/cs_25.305_critical_system_stewardship.md#cs-25305-103-inspectable-attributable-action"
+          "label": "CS-27.305 §10 inspectable attributable action",
+          "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to a privacy restriction that keeps the reconstructable set inspectable to independent reviewers. Privacy is not a standing-measurement veto.",
@@ -630,7 +630,7 @@
         },
         {
           "label": "Chapter Twenty-Eight-Three §6",
-          "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "href": "core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
           "label": "Timely Resolution",
@@ -640,13 +640,13 @@
       "conflict_rule": "Published tier windows bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists.",
       "forbidden_move": "Do not add process, hop count, or \"read more adopted implementation text\" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists.",
       "clock": {
-        "label": "Chapter Twenty-Three §8 matching-tier outer bound",
+        "label": "Chapter Twenty-Four §4 matching-tier outer bound",
         "bound": "matching tier",
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
             "label": "Chapter Twenty-Eight-Three §6",
-            "href": "core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "href": "core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVI-C",
@@ -654,7 +654,7 @@
           }
         ]
       },
-      "clock_note": "Apply the Chapter Twenty-Three §8 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.",
+      "clock_note": "Apply the Chapter Twenty-Four §4 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.",
       "eval_scenario_ids": [],
       "steward_card": {
         "label": "Steward card — Delay",

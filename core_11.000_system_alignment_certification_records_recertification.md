@@ -29,7 +29,7 @@
   - [§2](#2-system-certification-record) through
   - [§5](#5-relationship-to-standing);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);
-  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000).
+  - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000).
 - Read with: **[CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) and **[CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 </details>
@@ -325,7 +325,7 @@ The System Certification Record must identify, at minimum:
 The System Certification Record must also contain a concise **operating plan**, scaled to system class and material impact. The plan summarizes requirements on the same System Certification Record, and no separate document is required. It must state:
 
 - the certified scope, population, and duration of any authorized operation;
-- where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*) must be completed;
+- where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*) must be completed;
 - for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate);
 - each certification condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of violation under [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate);
 - who monitors actual outcomes and safeguards, what evidence and indicators they use, how often they check, and which material findings or thresholds require action or reopened review;
@@ -414,7 +414,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
   - [Chapter Three §2](core_03.000_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (3.000 §2) and
   - [§3](core_03.000_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [System Charter](core_05.040_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
-- Downstream: [§5.3](#53-verified-input-gate) and [§5.5](#55-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) (*reopened forum supervision*); [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000).
+- Downstream: [§5.3](#53-verified-input-gate) and [§5.5](#55-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) (*reopened forum supervision*); [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000).
 - Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§3.1](#31-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);
@@ -461,7 +461,7 @@ Correction, fulfillment, and release of certification conditions follow the inde
 
 *In plain terms: a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new System Certification Record linked to the last one.*
 
-A **System Certification Record** must be recertified on the cadence set for its system class in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence.
+A **System Certification Record** must be recertified on the cadence set for its system class in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence.
 
 **New record for each certification pass.** Each later certification pass (a recertification, a reopened review, or a fresh review) opens a new System Certification Record. The new System Certification Record:
 
@@ -583,7 +583,7 @@ This adds to the step-down bullets above and does not replace them. The operator
 
 Where an initial evaluation, a recertification, a reopened review, or a fresh review finds misalignment:
 
-- the matter is classified under the materiality tiers of [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline);
+- the matter is classified under the materiality tiers of [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline);
 - it is presumptively placed in the tier that matches the system's class (for example, a misaligned Class A system is presumptively Tier A);
 - intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds; and
 - an overrun is reviewed as that section requires.
@@ -633,7 +633,7 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
   - [§2](#2-system-certification-record) (*the System Certification Record that names the challenge paths*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
-- Downstream: [§3](#3-recertification-and-reopening) (*a credible challenge reopens review*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases) (23.000) (*the forum paths for a challenged point*).
+- Downstream: [§3](#3-recertification-and-reopening) (*a credible challenge reopens review*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) (*the forum paths for a challenged point*).
 - Subsections:
   - [§4.1](#41-when-the-path-opens) (*when the path opens*); and
   - [§4.2](#42-contestability-paths) (*contestability paths*).

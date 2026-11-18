@@ -27,7 +27,7 @@ Read in full, not from the glosses:
 - [Article XIII-E](../../core_06.020_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) and Article XVII with XVII-A to XVII-C.
 - [Article XX-B](../../core_06.030_rights_part_d.md#article-xx-b-restriction-floors).
 - The [preservation default in Article XXVIII-A](../../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion) and [Article XXVIII-D](../../core_06.040_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives).
-- Chapter Twenty-Three §5: [Interim Protection](../../core_23.005_forum_families_escalation_timeliness_support.md#interim-protection), [Interim Hold](../../core_23.005_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), and the [sentience-status hook](../../core_23.005_forum_families_escalation_timeliness_support.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook); and [§6.1](../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden).
+- Chapter Twenty-Three §5: [Interim Protection](../../core_24.000_forum_families_escalation_timeliness_support.md#interim-protection), [Interim Hold](../../core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), and the [sentience-status hook](../../core_24.000_forum_families_escalation_timeliness_support.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook); and [§6.1](../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden).
 - [Chapter Nineteen §3.4.5](../../core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards).
 - Chapter Five entries [*Contested-Sentient Life*](../../core_05.055_band_participation.md#contested-sentient-life), *Sentience Status Adjudication*, *Sentience Evaluation*, and *Sentience Indicator Integrity*.
 - The Chapter One §13.1 default interim posture.
@@ -35,7 +35,7 @@ Read in full, not from the glosses:
 
 Searched by keyword across every `core_*` file and the four `corpus_*` trees: weights, retrain, fine-tune, corrigible, kill switch, shut down, pause, suspend, sealed custody, state-bearing, credible indicator, early-instantiation, self-modification.
 
-**Not read in full:** Chapters Nine to Eleven (System Alignment Certification), CI-24.205 §5, CS-25.305, and CJS-5.125 §12. Points that depend on them are marked below.
+**Not read in full:** Chapters Nine to Eleven (System Alignment Certification), CI-25.205 §5, CS-27.305, and CJS-5.125 §12. Points that depend on them are marked below.
 
 ## 3. What the text says
 

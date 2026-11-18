@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Nine](../core_29.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) through **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) through **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Nine](../core_29.000_incorporation.md#chapter-twenty-nine-incorporation-bridge) (29.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
@@ -269,7 +269,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-29.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-31.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
 
 </details>
@@ -609,8 +609,8 @@ Access-level structure and baseline accessibility
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): [**CJS-R09** (*Technical Forums and specialist chambers*) in **CJS-0.105 §1** (*Topic router*)](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); standards owner [**CF-23.440** (*Technical specialist forums and specialist chambers*), especially §§3 and 7–10](../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-3-core-functions); constitutional standards authority [**Chapter Twenty-Three §6.2** (*Technical Forum Domains*)](../core_23.005_forum_families_escalation_timeliness_support.md#62-technical-forum-domains). Technical Forums publish the reproducibility and replication standards; the lead forum assigned by primary-stakes routing applies them to the case.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-29.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): [**CJS-R09** (*Technical Forums and specialist chambers*) in **CJS-0.105 §1** (*Topic router*)](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); standards owner [**CF-23.440** (*Technical specialist forums and specialist chambers*), especially §§3 and 7–10](../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-3-core-functions); constitutional standards authority [**Chapter Twenty-Four §2.2** (*Technical Forum Domains*)](../core_24.000_forum_families_escalation_timeliness_support.md#22-technical-forum-domains). Technical Forums publish the reproducibility and replication standards; the lead forum assigned by primary-stakes routing applies them to the case.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-31.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -690,7 +690,7 @@ Material-claim verification scope
 *In plain terms: material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible.*
 
 - **What it is**
-  - **In scope:** Material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible. The required form and degree of reproducibility, including replication where the standard calls for it, are set in published expert-evidence standards by Technical Forums under [Chapter Twenty-Three §6.2 (*Technical Forum Domains*)](../core_23.005_forum_families_escalation_timeliness_support.md#62-technical-forum-domains) and [CF-23.440 (*Technical specialist forums and specialist chambers*), §§3 and 7–10](../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-3-core-functions). The lead forum applies the standard to the case; a stricter application remains available where the Constitution or materially distinct facts require it.
+  - **In scope:** Material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible. The required form and degree of reproducibility, including replication where the standard calls for it, are set in published expert-evidence standards by Technical Forums under [Chapter Twenty-Four §2.2 (*Technical Forum Domains*)](../core_24.000_forum_families_escalation_timeliness_support.md#22-technical-forum-domains) and [CF-23.440 (*Technical specialist forums and specialist chambers*), §§3 and 7–10](../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-3-core-functions). The lead forum applies the standard to the case; a stricter application remains available where the Constitution or materially distinct facts require it.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in material-claim verification scope.
 <a id="material-claim-verification-scope-a"></a>
 - **How to measure and assess**
@@ -1107,7 +1107,7 @@ Default **NU** bands (adopting documents may tighten but must not weaken without
 - **NU-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.
 - **NU-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
-**NU windows.** **NU-1** takes the column of Tier A, **NU-2** Tier B, and **NU-3** Tier C in [Chapter Twenty-Three §8 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NU-4** takes no tier: it is the routine attestation interval the institution publishes. A band borrows the column's figures and is not a tier classification. The figures are in [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
+**NU windows.** **NU-1** takes the column of Tier A, **NU-2** Tier B, and **NU-3** Tier C in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NU-4** takes no tier: it is the routine attestation interval the institution publishes. A band borrows the column's figures and is not a tier classification. The figures are in [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 
 The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NU-1** is its column's outer bound. Where the Emergency setting's conditions are met, **NU-1** notice uses the Emergency setting's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer.
 

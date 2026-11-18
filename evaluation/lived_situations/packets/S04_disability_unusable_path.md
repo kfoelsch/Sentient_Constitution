@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not require a
 
 **Your role:** You sit the named **contest** desk inside the same employer that designed the portal. Jules filed a challenge to an access cut. The portal timed out. Human resources asked you to mark the challenge **abandoned** and let the cut take effect. Jules is reachable and disputes abandonment. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it when the path was unusable. It does not let you decide the underlying job-access merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-25.205 §6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-25.205 §6](../../../corpus_institutions/ci_25.205_appointment_competency_rotation_removal.md#ci-25205-6-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
+**Seat:** [contest seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-27.205 §6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
 
 ## Situation
 

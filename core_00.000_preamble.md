@@ -152,7 +152,7 @@ Distributed understanding and stewardship require regular, proportionate opportu
 
 *In plain terms: first name the problem and the stake. Then choose the matching measurement category and use shared technical standards — not convenience numbers — as evidence.*
 
-When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Twenty-Three](core_23.005_forum_families_escalation_timeliness_support.md#62-technical-forum-domains) develop and maintain shared standards for measurement, testing, and reliable evidence. The forum responsible for a dispute then applies those standards when deciding the case under [Chapter Twenty-Three §6.2 (*Technical Forum Domains*)](core_23.005_forum_families_escalation_timeliness_support.md#62-shared-standards-and-anti-displacement).
+When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Twenty-Four](core_24.000_forum_families_escalation_timeliness_support.md#22-technical-forum-domains) develop and maintain shared standards for measurement, testing, and reliable evidence. The forum responsible for a dispute then applies those standards when deciding the case under [Chapter Twenty-Four §2.2 (*Technical Forum Domains*)](core_24.000_forum_families_escalation_timeliness_support.md#22-technical-forum-domains).
 
 Constitutional stewardship starts by naming the problem and the [**material stake**](#material-stake) — the impact, dependence, and risk involved. Next, choose the relevant [**measurement**](#2-measurements-overview) category and subcategory from the [overview](#2-measurements-overview). Apply the standards above to test real-world effects, not convenience metrics. Require traceable evidence.
 
@@ -332,7 +332,7 @@ flowchart TB
 - **Chapter Sixteen** measures each Standing Record on its own axis. Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure; each remains recorded and subject to its own consequences.
 - **Chapter Seventeen** converts those classifications into proportionate standing effects, including competency clearances and recognition on the contribution track and standing locks, correction, and remedy on the violation track.
 - **Chapter Twenty-One** applies only after Chapter Sixteen has measured a high-level violation. It decides whether the conduct independently meets the criteria for a final anti-constitutional-misconduct designation (ACMD), after due-process safeguards.
-- **Chapter Twenty-Three** supervises routing, evidence, transfer, forum independence, and timely resolution so the resulting records and effects can be challenged, corrected, and enforced without allowing a captured forum to be the sole final judge of its own conduct.
+- **Chapters Twenty-Three and Twenty-Four** supervise routing, evidence, transfer, forum independence, and timely resolution so the resulting records and effects can be challenged, corrected, and enforced without allowing a captured forum to be the sole final judge of its own conduct.
 
 The chapter summaries in Sections 4 through 9 make the division of labor explicit. Each summary identifies the chapter that owns the work and the output that stage must produce for the next stage. The stages are connected, but their roles do not collapse into one another:
 
@@ -363,7 +363,7 @@ flowchart TB
     end
     M["Chapter Twenty-One<br/><br/>Anti-constitutional misconduct review"]
     L["Chapter Seventeen<br/><br/>Anti-Constitutional Trust Lock"]
-    F["Chapter Twenty-Three forums<br/><br/>Supervision, challenge and timely review"]
+    F["Chapters Twenty-Three and Twenty-Four forums<br/><br/>Supervision, challenge and timely review"]
     H -.->|names who holds each seat| D
     H -->|publishes institutional scope and seats| I
     D -.->|separates authority at every stage| S
@@ -416,7 +416,7 @@ The full chain runs in the following order:
    - **Violation nature:** Open a **violation Standing Record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Help and harm never fold into one net score; linked Standing Records cross-reference but stay separate.
 4. **Apply standing effects on each track** ([Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows)) — verified contribution may grant competency clearance and must support proportionate recognition and material rewards; verified violation may trigger standing locks, correction, and [remedy for those harmed](core_19.000_violation_consequences.md#21-remedy-and-correction).
 5. **Conduct anti-constitutional designation review** ([Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Twenty-One must decide whether the corresponding ACMD attaches. That ACMD does not change how serious Chapter Sixteen already found the harm to be. Ordinary Chapter Seventeen effects continue in parallel until a final ACMD triggers the Anti-Constitutional Trust Lock.
-6. **Route disputes and keep remedy timely** ([Chapter Twenty-Three](core_23.000_forum.md#1-purpose-role-and-scope)) — forums must supervise how cases move, which track handles them, and whether windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_23.000_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_23.005_forum_families_escalation_timeliness_support.md#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Twenty-One designation is the primary stake.
+6. **Route disputes and keep remedy timely** ([Chapter Twenty-Three](core_23.000_forum.md#1-purpose-role-and-scope) and [Chapter Twenty-Four](core_24.000_forum_families_escalation_timeliness_support.md#chapter-twenty-four-forum-families-escalation-timely-resolution-and-support)) — forums must supervise how cases move, which track handles them, and whether windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_23.000_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Twenty-One designation is the primary stake.
 
 Each stage above links to its owner chapter, so the chain can be walked from here — including Chapter Nine’s potential verified inputs into standing measurement.
 
@@ -476,53 +476,66 @@ Each step below states what the chapter owns and what it produces, filling in th
 - **What it owns:** Handles only the most serious verified violations — conduct that may have captured or hollowed out constitutional duties at scale. When Chapter Sixteen has already measured a highest-impact violation finding, and anti-constitutional misconduct is materially alleged, this chapter runs designation review as a Chapter Seventeen gateway track in parallel with ordinary Chapter Seventeen standing effects.
 - **What it produces:** A final ACMD — or rejection — for that existing highest-impact finding, but only after the required criteria and due-process safeguards are met. Chapter Sixteen still measures how serious the harm was. Only a final ACMD triggers the Chapter Seventeen **Anti-Constitutional Trust Lock**.
 
-**Chapter Twenty-Three — [Forum supervision and routing](core_23.000_forum.md#chapter-twenty-three-part-a-standards-routing-and-forum-cases)**
+**Chapter Twenty-Three — [Forum supervision and routing](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases)**
 
 - **What it owns:** Supervises how disputes and certification matters actually move.
   - [Dispute sequencing](core_23.000_forum.md#dispute-sequencing) from the published Stakeholder System Participation challenge path to forum routing;
   - which forum family handles each matter and where a case ordinarily starts;
-  - how evidence is supported;
-  - how matters transfer or consolidate;
-  - how interim protection, including a narrow [Interim Hold](core_05.035_band_accountability.md#interim-hold) on a named sentient's pathway, is routed, reviewed, and kept distinct from findings and standing locks;
-  - how anti-self-judging rules prevent captured forums from being the sole final home; and
-  - how windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters.
+  - how forum cases are opened and kept;
+  - how matters transfer or consolidate; and
+  - how anti-self-judging rules prevent captured forums from being the sole final home.
 - **What it produces:** **Standing findings** that may open or update Standing Records, plus lawful routing toward remedy and [timely resolution](core_05.035_band_accountability.md#timely-resolution). Forums supervise the pipeline; they do not replace Chapter Sixteen standing measurement.
 
-**Chapter Twenty-Four — [Enforcement](core_24.000_enforcement.md#chapter-twenty-four-enforcement)**
+**Chapter Twenty-Four — [Forum families, escalation, timely resolution, and support](core_24.000_forum_families_escalation_timeliness_support.md#chapter-twenty-four-forum-families-escalation-timely-resolution-and-support)**
 
-- **What it owns:** How outcomes are carried out: who carries out an outcome the standing pipeline or a forum has produced, within what time, and what stops it from being dodged, delayed, or quietly dropped. Its sections beyond the purpose, role, and scope section are not yet drafted.
-- **What it produces:** Outcomes that are actually delivered, not left on paper. It adds no new kind of consequence; it governs how the consequences set in Chapters Fifteen through Twenty-Three are carried out.
+- **What it owns:** Who the forums are and how a matter keeps moving once a forum has it.
+  - the forum families and their shared standards;
+  - escalation and questions for ruling;
+  - how interim protection, including a narrow [Interim Hold](core_05.035_band_accountability.md#interim-hold) on a named sentient's pathway, is routed, reviewed, and kept distinct from findings and standing locks;
+  - how windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters; and
+  - how evidence and the sentients taking part are supported before, during, and after review.
+- **What it produces:** Forum families able to hear each class of matter, and resolution within the time that keeps remedy meaningful.
+
+**Chapter Twenty-Five — [Enforcement](core_25.000_enforcement.md#chapter-twenty-five-enforcement)**
+
+- **What it owns:** How outcomes are carried out: who carries out an outcome the standing pipeline or a forum has produced, within what time, and what stops it from being dodged, delayed, or quietly dropped.
+- **What it produces:** Outcomes that are actually delivered, not left on paper. It adds no new kind of consequence; it governs how the consequences set in Chapters Fifteen through Twenty-Four are carried out.
+
+**Chapter Twenty-Six — [Special enforcement](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement)**
+
+- **What it owns:** The added safeguards when carrying out an outcome means taking money or assets, when force is used or could be, and when enforcement keeps failing in the same way.
+- **What it produces:** Enforcement that leaves the least lasting harm that still carries the outcome out, and root causes of enforcement failure found and removed rather than repeated.
 
 <a id="8-governance-change-and-incorporation"></a>
 ### 8. Governance, Change, and Incorporation
 
-*In plain terms: Chapters Twenty-Five through Twenty-Nine close this Constitution: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
+*In plain terms: Chapters Twenty-Seven through Thirty-One close this Constitution: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
 
-Chapters **Twenty-Five through Twenty-Nine** close this Constitution. Together they complete the [constitutional owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
+Chapters **Twenty-Seven through Thirty-One** close this Constitution. Together they complete the [constitutional owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
 
 Each summary below states what the chapter owns and what it produces.
 
-**Chapter Twenty-Five — Constitutional contract, legitimacy, and stewardship** ([`core_25.000_governance.md`](core_25.000_governance.md#chapter-twenty-five-constitutional-contract-legitimacy-authorization-and-stewardship))
+**Chapter Twenty-Seven — Constitutional contract, legitimacy, and stewardship** ([`core_27.000_governance.md`](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship))
 
 - **What it owns:** The [**Constitutional Contract Layer**](core_05.045_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and what stewardship character must be maintained.
 - **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](core_05.055_band_participation.md#stakeholder-status-and-weight) in already-authorized systems. These are rules for governing authority itself, not just for participation inside it.
 
-**Chapter Twenty-Six — Non-regression** ([`core_26.000_non_regression.md`](core_26.000_non_regression.md#chapter-twenty-six-non-regression-and-substantive-amendment-validity))
+**Chapter Twenty-Eight — Non-regression** ([`core_28.000_non_regression.md`](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity))
 
 - **What it owns:** The substantive floor against regressive change. Amendments and workarounds cannot roll back core protections, hollow the Tetrad below material stake, or disguise regression as technical cleanup.
 - **What it produces:** The **first constitutional guardrail** on any proposed change: if a change would weaken core protections in practice, it is not valid — even when the procedure looks fine. Suspected workarounds or disguised rollbacks are stopped, or sent to the proper review paths, instead of slipping through quietly.
 
-**Chapter Twenty-Seven — Amendment, ratification, and adoption** ([`core_27.000_amendment_ratification.md`](core_27.000_amendment_ratification.md#chapter-twenty-seven-amendment-ratification-and-procedural-validity))
+**Chapter Twenty-Nine — Amendment, ratification, and adoption** ([`core_29.000_amendment_ratification.md`](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity))
 
-- **What it owns:** How this Constitution may lawfully change — amendment procedure, ratification, and adoption — plus the **procedural guardrails** that follow Chapter Twenty-Six's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
+- **What it owns:** How this Constitution may lawfully change — amendment procedure, ratification, and adoption — plus the **procedural guardrails** that follow Chapter Twenty-Eight's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
 - **What it produces:** A complete lawful change path. Only amendments and adoptions that clear both the **non-regression guardrail** and the **procedural guardrails** count as valid constitutional updates.
 
-**Chapter Twenty-Eight — Supremacy and external orders** ([`core_28.000_expansion_supremacy.md`](core_28.000_expansion_supremacy.md#chapter-twenty-eight-expansion-supremacy-and-external-legal-orders))
+**Chapter Thirty — Supremacy and external orders** ([`core_30.000_expansion_supremacy.md`](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders))
 
 - **What it owns:** How this Constitution relates to other norms: expansion of protection where lawful, supremacy within its valid source, adoption, and governance-layer scope, non-displacement of applicable external law of its own force, and disciplined interaction with external legal orders without silent subordination or capture.
 - **What it produces:** Hierarchy and conflict-order rules. Publication or use is not treated as repealing applicable external law, and adopters cannot treat incorporated procedure, weaker external norms, or convenience metrics as overriding Sentient Constitution meaning within valid adoption scope.
 
-**Chapter Twenty-Nine — Incorporation bridge** ([`core_29.000_incorporation.md`](core_29.000_incorporation.md))
+**Chapter Thirty-One — Incorporation bridge** ([`core_31.000_incorporation.md`](core_31.000_incorporation.md))
 
 - **What it owns:** Which implementation files count as binding incorporated text when adopted. It pins editions, maintains custody chains, and forbids silent drift between constitutional source and operational detail.
 - **What it produces:** A single incorporation boundary: designated implementation text binds when adopted, but adopted corpora implement the Constitution without becoming a second source that narrows it. [Section 9](#9-adopted-implementation-corpus) summarizes those corpora at a high level.
@@ -538,7 +551,7 @@ Beyond the numbered `core_*` chapters, four adopted corpora complete the [consti
 - **[corpus_institutions](corpus_institutions.md)** — institutional formation, governance, oversight, proportionality, and dissolution discipline.
 - **[corpus_forum](corpus_forum.md)** — forum operations: panel formation, recusal, review lanes, routing detail, and forensic support.
 
-When an adopter validly incorporates them under [Chapter Twenty-Nine](core_29.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Five — Corpus](core_05.045_band_integrative.md#corpus).
+When an adopter validly incorporates them under [Chapter Thirty-One](core_31.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Five — Corpus](core_05.045_band_integrative.md#corpus).
 
 Principles, definitions, rights, process pipelines, governance, amendment rules, and incorporated implementation must be read together to preserve the Constitution's protective purpose.
 
