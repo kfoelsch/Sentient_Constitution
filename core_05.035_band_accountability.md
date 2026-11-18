@@ -3147,7 +3147,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3); read with [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5) and [Chapter Twenty-Three §7](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (23.000 §7).
+- Owner: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3); read with [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (23.000 §5) and [Chapter Twenty-Three §7](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (23.000 §7).
 - Read with:
   - [Primary-Stakes Routing](core_05.035_band_accountability.md#primary-stakes-routing),
   - [Forum Case Record](core_05.035_band_accountability.md#forum-case-record),
@@ -3197,7 +3197,7 @@ See **Anti-Segmentation Principle**.
 - Owner:
   - [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3); read with
   - [Chapter Twenty-Three §3.4](core_23.000_forum.md#34-mixed-stakes-and-routing-asymmetry) (23.000 §3.4),
-  - [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5), and
+  - [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (23.000 §5), and
   - [Chapter Twenty-Three §7](core_23.000_forum.md#7-escalation-and-questions-for-ruling) (23.000 §7).
 
 </details>
@@ -3373,17 +3373,17 @@ See **Anti-Segmentation Principle**.
   - It includes the alignment rulings and coordinated records described in Chapter Twenty-Three §6.5 (*Integrity Forums*).
   - **Out of scope:**
     - Constitutional questions for ruling on structural validity or class-wide remedy; or
-    - independent-family lead when Chapter Twenty-Three §5 (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*) requires anti-self-judging backup because the main accusation is that the same family is biased, captured, conflicted, or concealing material facts.
+    - independent-family lead when Chapter Twenty-Three §5 (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*) requires anti-self-judging backup because the main accusation is that the same family is biased, captured, conflicted, or concealing material facts.
 <a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
-    **Primary assessment:** Use the anti-self-judging backups in Chapter Twenty-Three §5 (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*) when a forum's own bias, capture, or concealment is the main issue. Keep alignment-led coordination separate from the provisional operational-law doctrine that Chapter Twenty-Three §6.7 (*Provisional Implementation Operational Law*) governs for other families.
+    **Primary assessment:** Use the anti-self-judging backups in Chapter Twenty-Three §5 (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*) when a forum's own bias, capture, or concealment is the main issue. Keep alignment-led coordination separate from the provisional operational-law doctrine that Chapter Twenty-Three §6.7 (*Provisional Implementation Operational Law*) governs for other families.
 <a id="forum-family-integrity-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use an **Integrity** lead to quietly skip required **Constitutional** certification for structural validity or a class-wide remedy; or
-    - keep the case inside **Integrity** when Chapter Twenty-Three §5 (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*) requires a different independent family to lead — because the main accusation is that this same family is biased, captured, conflicted, or hiding the ball — including by refusing the written backup path that section assigns.
+    - keep the case inside **Integrity** when Chapter Twenty-Three §5 (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*) requires a different independent family to lead — because the main accusation is that this same family is biased, captured, conflicted, or hiding the ball — including by refusing the written backup path that section assigns.
 
 ---
 

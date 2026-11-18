@@ -2096,7 +2096,7 @@ This Article sets out the floors for internal roles and due process:
   - [System Capture](core_05.040_band_continuity.md#system-capture);
   - [Anti-Capture](core_05.040_band_continuity.md#anti-capture);
   - [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) (*Default Venue and Primary Stakes*) and
-  - [§5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*);
+  - [§5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*);
   - [Chapter Twenty-Two §5.3](core_22.000_misconduct_pattern_applications.md#53-forum-recusal-failure-and-biased-panel-participation) (22.000 §5.3) (*named misconduct pattern*);
   - [Article XXV-C](core_06.030_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*);
   - [Chapter Eight: Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
@@ -2153,7 +2153,7 @@ This Article sets out the non-capture safeguards for every body that decides for
 - **Influence contact and post-service conflicts:** Approach to these bodies by an [**interested party**](core_05.035_band_accountability.md#interested-party), and the conflicts that arise from later roles and benefits, are governed by [**Article XII-E**](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 - **Enforcement and routing:**
   - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Twenty-One** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One** criteria set.
-  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Twenty-Three §3** (*Default Venue and Primary Stakes*), using the anti-self-judging rule in **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*).
+  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Twenty-Three §3** (*Default Venue and Primary Stakes*), using the anti-self-judging rule in **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*).
   - **No self-judging:** No body may be the only final forum deciding whether its own member should have stepped aside.
 - **No procedural gaming:** Covered bodies and the bodies that govern vacancy, rotation, and recusal continuity must not use those levers to create:
   - selective paralysis;
@@ -2162,11 +2162,11 @@ This Article sets out the non-capture safeguards for every body that decides for
   - **Requirement:** At defined intervals, independent external review of covered bodies is mandatory, with depth and frequency scaled to material stake and dependency.
   - **Default reviewer:** By default, **Integrity** forums conduct it under:
     - **[Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes)** (*Default Venue and Primary Stakes*); and
-    - the **cross-forum anti-self-judging rule** in **[Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture)** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*).
+    - the **cross-forum anti-self-judging rule** in **[Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)** (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*).
   - **Reviewer independence:** The reviewer:
     - must be structurally separate from the body under review; and
     - must not include overlapping decision-makers from its recent panels.
-  - **Backup routing:** Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*) applies without narrowing this obligation.
+  - **Backup routing:** Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*) applies without narrowing this obligation.
   - **The review must assess:**
     - capture indicators;
     - decision quality;

@@ -85,7 +85,7 @@ The standing bridge is **Chapter Eleven section 5**.
   - [§2.1.1](#211-four-seats-in-a-certification)*);
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) (*where the seats for a certification are placed*);
   - [Chapter Twenty-Three §6](core_23.000_forum.md#6-forum-family-definitions--accountability-through-adjudication) (23.000 §6) (*forum families, Integrity-led alignment certification, component referral, and validation*);
-  - [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5) (*Integrity-led alignment coordination and anti-self-judging*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*);
+  - [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (23.000 §5) (*transfer, consolidation, and anti-self-judging*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**;
   - [Contestability](core_05.035_band_accountability.md#contestability).
 - Downstream:

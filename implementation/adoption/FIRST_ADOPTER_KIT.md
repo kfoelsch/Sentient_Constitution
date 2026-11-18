@@ -215,7 +215,7 @@ Checklist for a first adopter:
 
 ## 5. Dispute bootstrap
 
-Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
+Two parties must not be each other’s **sole** final merits path. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (cross-forum anti-self-judging) and [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) still apply.
 
 | If this is true | Then |
 |---|---|

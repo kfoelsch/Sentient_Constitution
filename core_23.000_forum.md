@@ -40,7 +40,7 @@
   - [§2](#2-forum-family-supervision-and-standards);
   - [§3](#3-default-venue-and-primary-stakes);
   - [§4](#4-forum-cases-intakes-seats-records-and-contests);
-  - [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture);
+  - [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture);
   - [§6](#6-forum-family-definitions--accountability-through-adjudication);
   - [§7](#7-escalation-and-questions-for-ruling);
   - [§8](#8-timely-resolution-materiality-tiers-and-anti-delay-discipline);
@@ -76,7 +76,7 @@ Chapter Twenty-Three is the constitutional owner of **forum families, default ve
   - [§2](#2-forum-family-supervision-and-standards) (*forum-family supervision of the certification and standing pipeline tracks; accountability, independence, and incentive standards*);
   - [§3](#3-default-venue-and-primary-stakes) (*dispute sequencing, primary-stakes default venue, intake triage, mixed stakes, asymmetry; contestable threshold access; good-faith characterization and anti-gaming*);
   - [§4](#4-forum-cases-intakes-seats-records-and-contests) (*the intakes, seats in a forum case, forum case records, Certification Records, Standing Records, Adoption Transition Records, and contests*);
-  - [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*);
+  - [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer and anti-self-judging*);
   - [§6](#6-forum-family-definitions--accountability-through-adjudication) (*forum family definitions, chambers, shared standards, and provisional operational law*);
   - [§6.3](#63-institutional-forums) (*Internal process boundary as Institutional-family application of Dispute sequencing*);
   - [§7](#7-escalation-and-questions-for-ruling) (*escalation, certification, and interim protection*);
@@ -118,7 +118,7 @@ What it produces is the set of forum families and the routing that sends each di
 - forum family supervision and standards (**section 2**);
 - default venue and primary stakes (**section 3**);
 - forum cases: intakes, seats, records, and contests (**section 4**);
-- transfer, consolidation, and coordination (**section 5**);
+- transfer, consolidation, and anti-self-judging (**section 5**);
 - forum family definitions (**section 6**);
 - escalation and questions for ruling (**section 7**);
 - timely resolution, materiality tiers, and anti-delay discipline (**section 8**); and
@@ -136,7 +136,7 @@ The chapter leaves the certification rules to the certification chapters, the st
 - Downstream:
   - [§3](#3-default-venue-and-primary-stakes) (*dispute sequencing, primary-stakes routing and intake, default venue table, and mixed stakes*);
   - [§4](#4-forum-cases-intakes-seats-records-and-contests) (*the intakes, seats in a forum case, forum case records, Certification Records, Standing Records, Adoption Transition Records, and contests*);
-  - [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
+  - [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
   - [§6](#6-forum-family-definitions--accountability-through-adjudication) (*forum family definitions read with default table*);
   - [§7](#7-escalation-and-questions-for-ruling) (*escalation from default venue; Interim protection*);
   - [§8](#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*);
@@ -256,7 +256,7 @@ Two limits keep that work in its place:
 - Upstream: [§1](#1-purpose-role-and-scope) (*purpose, role, and chapter scope*); [§2](#2-forum-family-supervision-and-standards) (*what forum families supervise and the standards they meet*).
 - Downstream:
   - [§4](#4-forum-cases-intakes-seats-records-and-contests) (*the intakes, seats in a forum case, forum case records, Certification Records, Standing Records, Adoption Transition Records, and contests*);
-  - [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
+  - [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
   - [§6](#6-forum-family-definitions--accountability-through-adjudication) (*forum family definitions read with default table*);
   - [§7](#7-escalation-and-questions-for-ruling) (*escalation from default venue; Interim protection*);
   - [§8](#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*);
@@ -474,7 +474,7 @@ Three asymmetry rules keep routing available where the table assigns the stake:
 
 - Upstream: [§3](#3-default-venue-and-primary-stakes) (*primary-stakes routing, default venue table, and mixed stakes*); [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary) (15.000 §3.7) (*how verified contribution records and verified violation findings enter Standing Records*).
 - Downstream:
-  - [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
+  - [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
   - [§7](#7-escalation-and-questions-for-ruling) (*backup routing, questions for ruling, and escalation*);
   - [§8](#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tier windows that run from receipt of a challenge*).
 - Within §4: [§4.1](#41-intakes) (*the ways a case enters*); [§4.2](#42-seats-in-a-forum-case) (*seats in a forum case*); [§4.3](#43-kinds-of-records) (*forum case records, Certification Records, Standing Records, and Adoption Transition Records*); [§4.4](#44-contests-of-certification-records) (*contests of Certification Records*); [§4.5](#45-contests-of-standing-records) (*contests of Standing Records*); [§4.6](#46-contests-of-adoption-transition-records) (*contests of Adoption Transition Records*); [§4.7](#47-keeping-forum-case-records) (*keeping Forum Case Records*).
@@ -628,8 +628,8 @@ A certification contest is a [Review Case](core_05.035_band_accountability.md#re
 
 While a challenge is pending:
 
-- The **Integrity** forum stays the lead for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or a component assignment places a question elsewhere (**section 5**).
-- A timely **Environment** forum objection, remediation requirement, or question for ruling that remains unresolved blocks final certification, validation, recertification, or material release from environmental conditions (**section 5**).
+- The **Integrity** forum stays the lead for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or a component assignment places a question elsewhere (**section 6.5**).
+- A timely **Environment** forum objection, remediation requirement, or question for ruling that remains unresolved blocks final certification, validation, recertification, or material release from environmental conditions (**section 6.5**).
 - Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration ([Dispute sequencing](#dispute-sequencing)).
 - A credible challenge can reopen review under [Chapter Eleven §3.2 Reopening Triggers](core_11.000_system_alignment_certification_records_recertification.md#32-reopening-triggers) and [Chapter Fourteen §3.2 Reopening Triggers](core_14.000_institutional_alignment_certification_records_recertification.md#32-reopening-triggers).
 
@@ -713,20 +713,19 @@ Forum Case Records are kept where the sentients who need them can reach them and
 - An [Essential Record](core_05.035_band_accountability.md#essential-record) keeps its physical backup in at least three separate places in different regions. Standing Records at slot 7 and above are Essential Records ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)).
 - Mechanics are in [CF-23.465 §5.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-51-retention-classes-and-physical-backup) and [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
 
-<a id="5-transfer-consolidation-and-coordination--continuity-and-anti-capture"></a>
+<a id="5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture"></a>
 
-### 5. Transfer, Consolidation, and Coordination — Continuity and Anti-Capture
+### 5. Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Chapter Seventeen §3 — Integration record and decision order](core_17.000_standing_integration.md#3-automatic-integration-review-and-continuity) (17.000 §3) (*highest applicable non-compliance category — mixed-stakes coordination*).
 - Downstream: [§7](#7-escalation-and-questions-for-ruling) (*constitutional questions for ruling, backup routing activation, and Interim protection while coordination proceeds*).
-- Within §5: [§5.1](#51-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*); [§5.2](#52-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*); [§5.3](#53-family-sequencing-and-alignment-lead) (*family sequencing and the alignment lead*); [§5.4](#54-integrity-led-alignment-coordination) (*Integrity-led alignment coordination*); [§5.5](#55-cross-forum-anti-self-judging-rule) (*independent lead and backup pairs*); [§5.6](#56-family-level-capture) (*family-level capture*); [§5.7](#57-capacity-failure-is-heard-outside-the-starved-body) (*capacity failure*).
+- Within §5: [§5.1](#51-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*); [§5.2](#52-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*); [§5.3](#53-cross-forum-anti-self-judging-rule) (*independent lead and backup pairs*); [§5.4](#54-family-level-capture) (*family-level capture*); [§5.5](#55-capacity-failure-is-heard-outside-the-starved-body) (*capacity failure*).
 - Read with:
   - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
   - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
-  - [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) for the internal integrity process that may precede integrity forums where safeguards meet expectations;
-  - **[CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*), integrity-led alignment coordination.
+  - **[CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*), anti-self-judging and family-level capture.
 
 </details>
 
@@ -741,7 +740,7 @@ Forum Case Records are kept where the sentients who need them can reach them and
 </details>
 <br>
 
-*In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
+*In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
 
 <a id="51-scope-expansion-and-representative-treatment"></a>
 
@@ -767,30 +766,9 @@ When a lawful order or published rule sends a matter to another forum, the move 
 - The same step updates the docket portal and alerts the parties, the representatives, and both forums. No one has to carry the matter across by hand.
 - The order or published rule decides where the matter goes. The step does not decide that, and it cannot be used to steer a matter. The mechanics are in [CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure).
 
-<a id="53-family-sequencing-and-alignment-lead"></a>
+<a id="53-cross-forum-anti-self-judging-rule"></a>
 
-#### 5.3 Family Sequencing and Alignment Lead
-
-Related matters may start in the nearest track with jurisdiction, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
-- **Sentient** first may apply when peer disputes can be fully resolved without final institutional or constitutional determination; institutional or constitutional aspects may be stayed or split with explicit preclusion rules.
-- **Institutional** internal integrity process may precede **Integrity** forums where independence and contest safeguards meet **Chapter Fifteen**, **Chapter Six** (Foundational Rights), and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) and **[CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review)** (*Procedure integrity, contestability, and secondary review*) expectations; **Integrity** forums remain available for final integrity determinations, cross-institution deadlock, and pattern claims.
-
-<a id="54-integrity-led-alignment-coordination"></a>
-
-#### 5.4 Integrity-Led Alignment Coordination
-
-When an **Integrity** forum issues an **alignment** ruling or runs certification or validation, these rules keep one lead record and keep other families' merits jobs with them:
-
-- Where an **Integrity** forum issues an **alignment** ruling under **section** **5**, it **remains** the **lead** coordinating forum for **that** proceeding's **record**, as **section** **4** provides.
-- Where an **Integrity** forum conducts **constitutional alignment certification** for a new system or an Institution, or **ongoing alignment validation** for an existing system or Institution, it remains the official lead forum for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or certification assigns a component question elsewhere.
-- Where material ecological exposure exists, **Environment** forum environmental-alignment review is a required component of that lead record. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment Forum objection, remediation condition, or environmental question for ruling remains unresolved.
-- **Component** matters **referred** or **sent for ruling** to **other** families **remain** with those forums for **primary-stakes** **merits**.
-- Lead **Integrity** coordination must not preempt final merits on non-integrity primary questions reserved to **Constitutional**, **Institutional**, **Environment**, **specialized technical**, or **Sentient** forums.
-- **Conflicting** **simultaneous** orders **must** be **resolved** through **published** **coordination** rules — **including** **stays** and **sequencing** in the **alignment** ruling or **implementation** text — **consistent** with **section** **8** and **CF-23.425** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*).
-
-<a id="55-cross-forum-anti-self-judging-rule"></a>
-
-#### 5.5 Cross-Forum Anti-Self-Judging Rule
+#### 5.3 Cross-Forum Anti-Self-Judging Rule
 
 A **forum** family **must not** be the **sole** **final** **merits** forum for a claim whose **primary** issue is that same family's own **bias**, **capture**, **conflict**, **recusal failure**, **concealment**, **process abuse**, or comparable **integrity** violation.
 - Primary-stakes routing still governs. The **independent** lead family for such claims is assigned as follows unless a more specific constitutional rule controls:
@@ -800,9 +778,9 @@ A **forum** family **must not** be the **sole** **final** **merits** forum for a
   - against **Environment** forums: **Institutional** first and **Integrity** as backup
 - This rule does **not** convert every case naming a forum into a special venue rule. It applies only where **anti-self-judging** protection is materially necessary to preserve **independence**, **contestability**, or **public** **trust**.
 
-<a id="56-family-level-capture"></a>
+<a id="54-family-level-capture"></a>
 
-#### 5.6 Family-Level Capture
+#### 5.4 Family-Level Capture
 
 Where credible evidence indicates **capture**, compromise, coercive control, coordinated obstruction, or structural dependency affecting a **forum family** as a whole, ordinary intra-family recusal, appeal, or continuity process is not sufficient by itself.
 - The forum system must activate the following, sufficient to restore lawful, contestable merits adjudication:
@@ -817,9 +795,9 @@ Where credible evidence indicates **capture**, compromise, coercive control, coo
   - restoration.
 - It does not permanently absorb the captured family's jurisdiction or displace **Constitutional** certification where structural remedy or constitutional meaning is materially at issue.
 
-<a id="57-capacity-failure-is-heard-outside-the-starved-body"></a>
+<a id="55-capacity-failure-is-heard-outside-the-starved-body"></a>
 
-#### 5.7 Capacity Failure Is Heard Outside the Starved Body
+#### 5.5 Capacity Failure Is Heard Outside the Starved Body
 
 A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 5** backup pairs applying where Integrity is itself the body in question.
@@ -833,9 +811,10 @@ A claim that a forum family, remedy system, or standing-integration function is 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-role-and-scope) (*purpose, role, and chapter scope*); [§3](#3-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and contestable threshold access*); [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer, consolidation, and anti-self-judging*).
+- Upstream: [§1](#1-purpose-role-and-scope) (*purpose, role, and chapter scope*); [§3](#3-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and contestable threshold access*); [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, and anti-self-judging*).
 - Downstream: [§7](#7-escalation-and-questions-for-ruling) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*); [§8](#8-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§9](#9-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
 - Read with:
+  - [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) for the internal integrity process that may precede integrity forums where safeguards meet expectations;
   - [Preamble §3.1](core_00.000_preamble.md#31-using-measurements-in-governance) (*measurement standards custody and governance bridge*);
   - **[CF-23.405](corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure)** (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*);
   - **[CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*) alignment rulings;
@@ -863,7 +842,7 @@ A claim that a forum family, remedy system, or standing-integration function is 
 </details>
 <br>
 
-*In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 3**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 3** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§6.2** (*Technical Forum Domains*) and **§6.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§6.6** (*Constitutional Forums*); certification when stakes merge is in **section 7**.*
+*In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 3**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (**section 6.5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 3** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§6.2** (*Technical Forum Domains*) and **§6.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§6.6** (*Constitutional Forums*); certification when stakes merge is in **section 7**.*
 
 Operational family inventory, local title flexibility, and non-collapse mechanics live in [**CF-23.405**](corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*). Local titles may vary, but they do not change **section 3**’s default venue table.
 
@@ -871,7 +850,7 @@ Operational family inventory, local title flexibility, and non-collapse mechanic
 
 Each family may use **internal chambers**, divisions, or designated panels; **family** boundaries still govern **appeal**, **questions for ruling**, and **primary-stakes** routing under **sections 3 and 7**.
 
-The **subsections** **below** **follow** **section** **3**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **CF-23.405** (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*); **function** must not. When the **primary** stake leaves a family's allocation, **sections 3, 5, and 7** govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix.
+The **subsections** **below** **follow** **section** **3**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **CF-23.405** (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*); **function** must not. When the **primary** stake leaves a family's allocation, **sections 3, 5, and 7** govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix, except that **section 6.5** carries the Integrity family's own sequencing and lead-coordination role.
 
 <a id="61-sentient-forums"></a>
 
@@ -968,7 +947,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 6.7** applies to **Institutional Forums** within their lawful scope.
 
-**Internal process boundary.** This subsection applies [**Dispute sequencing**](#dispute-sequencing) under **section 3** to **Institutional** forums. A lawful institutional internal integrity process may precede **Integrity** forums under **section 5** where independence and contest safeguards hold.
+**Internal process boundary.** This subsection applies [**Dispute sequencing**](#dispute-sequencing) under **section 3** to **Institutional** forums. A lawful institutional internal integrity process may precede **Integrity** forums under **section 6.5** (*Family sequencing*) where independence and contest safeguards hold.
 - Internal process labels do **not** displace **Institutional** forum merits on mandate, supervised scope, classification, or duty-compliance stakes.
 - They do **not** displace **Integrity** forums for final integrity determinations, cross-institution deadlock, pattern claims, or capture-sensitive review.
 
@@ -1005,7 +984,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
   - remediation requirements; or
   - release-from-condition findings.
 - **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
-- Where material ecological exposure exists, timely Environment Forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 5**.
+- Where material ecological exposure exists, timely Environment Forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 6.5**.
 - Component detail for those proceedings lives in [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#21-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 6.7** applies to **Environment Forums** within their lawful scope.
@@ -1033,13 +1012,26 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - Chapter Twenty-One ACMD where it is the primary stake;
 - official system-alignment and institutional-alignment certification, validation, and recertification.
 
+**Family sequencing.** Related matters may start in the nearest track with jurisdiction, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
+- **Sentient** first may apply when peer disputes can be fully resolved without final institutional or constitutional determination; institutional or constitutional aspects may be stayed or split with explicit preclusion rules.
+- **Institutional** internal integrity process may precede **Integrity** forums where independence and contest safeguards meet the expectations of:
+  - **Chapter Fifteen**;
+  - **Chapter Six** (Foundational Rights);
+  - **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*); and
+  - **[CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review)** (*Procedure integrity, contestability, and secondary review*).
+- **Integrity** forums remain available for:
+  - final integrity determinations;
+  - cross-institution deadlock; and
+  - pattern claims.
+
 **Alignment rulings.** Where necessary to resolve a matter within this family's jurisdiction, **Integrity Forums** may issue **alignment rulings** that:
 - diagnose interlocking **misalignment** among processes, systems, institutions, or contest pathways — including dependencies, choke-points, concealment or capture risk, and remedial sequencing;
 - state binding integrity findings on those points on the Forum Case Record before that forum.
 
 **Constitutional alignment certification and validation.** **Integrity Forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes. They hold the same role for an Institution under [Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation), where the forum body itself is an Institution and the anti-self-judging rules of **section 5** apply to it ([Chapter Thirteen §2.3 Forums, Certifiers, and Record Offices as Institutions](core_13.000_institutional_alignment_certification_forum_process_outcomes.md#23-forums-certifiers-and-record-offices-as-institutions)).
 - They apply technical-forum specifications, methods, and expert evidence where material, but their judgment also includes constitutional, institutional, ecological, rights, anti-capture, and remediation considerations.
-- Where material ecological exposure exists, the **Environment** forum family's environmental-alignment component determination is required before final certification, validation, recertification, or material release from environmental conditions; sequencing is governed by **section 5**.
+- The **Integrity** forum remains the official lead forum for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or certification assigns a component question elsewhere.
+- Where material ecological exposure exists, the **Environment** forum family's environmental-alignment component determination is required before final certification, validation, recertification, or material release from environmental conditions. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment Forum objection, remediation condition, or environmental question for ruling remains unresolved.
 - Certification and validation must be evidence-based, contestable, and traceable under **Chapters Two through Four**, **Chapter Fifteen**, **Chapter Six**, and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*).
 - Outcomes may include:
   - certification;
@@ -1050,11 +1042,13 @@ When a certification review finds misalignment or a defect, the **Integrity** le
   - certification to **Constitutional** forums where constitutional meaning, validity, or class-wide structural remedy is materially at issue.
 - Component detail for those proceedings lives in [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#21-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
-**Supervisory coordination.** An **Integrity** forum that issues an **alignment** ruling retains lead responsibility for one coordinated record for that proceeding and must manage neutral coordination — including stays, sequencing, status review, and implementation milestones — until alignment remediation is achieved or the forum lawfully closes supervision.
+**Supervisory coordination.** An **Integrity** forum that issues an **alignment** ruling retains lead responsibility for one coordinated record for that proceeding, as **section 4** provides, and must manage neutral coordination — including stays, sequencing, status review, and implementation milestones — until alignment remediation is achieved or the forum lawfully closes supervision.
 - Coordination must not convert the forum into party advocacy.
-- Coordination must not displace other forums' jurisdiction on non-integrity primary issues.
+- Coordination must not displace other forums' jurisdiction or preempt final merits on non-integrity primary questions reserved to **Constitutional**, **Institutional**, **Environment**, **specialized technical**, or **Sentient** forums.
+- Conflicting simultaneous orders must be resolved through published coordination rules, including stays and sequencing in the alignment ruling or implementation text, consistent with **section 8** and **CF-23.425** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*).
 
 **Component referral.** Discrete sub-issues that belong primarily in another forum family under primary-stakes routing must be referred, sent for ruling, or stayed as adopting documents provide.
+- Component matters referred or sent for ruling to other families remain with those forums for primary-stakes merits.
 - Order among competing component issues follows published priority criteria, without opaque threshold sorting, that must account for:
   - Rights-Floor urgency;
   - irreversible-harm risk;
@@ -1115,7 +1109,7 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 
 - Upstream:
   - [§3](#3-default-venue-and-primary-stakes) and
-  - [§5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*);
+  - [§5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*);
   - [§6.6](#66-constitutional-forums) and
   - [§6.7](#67-provisional-implementation-operational-law) (*provisional-law disposition and issuance*);
   - [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*numeric impact-slot assignment*);
@@ -1249,7 +1243,7 @@ This subsection sets out the [Interim Hold](core_05.035_band_accountability.md#i
   - a narrower safeguard would not be enough.
 
   The evidence level rises with how restrictive the hold is, as [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*Burden of Proof, Traceability, and Verification*) and [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) require. A statement alone never meets the Interim Hold grounds: it counts only together with independent verified facts of conduct, control, or reward, and where speech is part of the basis for the Interim Hold it is shown by clear, verified evidence, with open doubt counted against the hold, as the highest scrutiny of [**Article XI-B** (*Expression*)](core_06.010_rights_part_b.md#article-xi-b-expression) requires.
-- **Issuer:** The forum with jurisdiction under this chapter issues the hold. The subject's own body, appointing authority, family, or control line may not issue it, and a body never holds its own member out on its own view. A body that holds the facts refers them to the forum. Where the only forum is the subject's own, the cross-forum anti-self-judging rule in [section 5](#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) and backup routing apply.
+- **Issuer:** The forum with jurisdiction under this chapter issues the hold. The subject's own body, appointing authority, family, or control line may not issue it, and a body never holds its own member out on its own view. A body that holds the facts refers them to the forum. Where the only forum is the subject's own, the cross-forum anti-self-judging rule in [section 5](#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) and backup routing apply.
 - **Record:** Each hold states, in operative form:
   - the named sentient;
   - the named authority, pathway, or matter, and nothing wider;

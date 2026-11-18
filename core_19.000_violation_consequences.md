@@ -315,7 +315,7 @@ Where remedy commencement or restoration review for a lock class exceeds its [Ch
 
 - new general locks in that class default to **open with safeguards** under [§2 Final Standing Effect](core_20.000_final_effect_restoration_enforcement.md#2-final-standing-effect) unless the integration record documents a specific irreversible-harm or safety risk that requires **blocked**;
 - existing general locks in that class enter mandatory reassessment under [§3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment) on the same tier window; and
-- the capacity failure is recorded as a durability failure under [§4.2 Remedy-System Durability](core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) and routed under the [Chapter Twenty-Three §5 Transfer, Consolidation, and Coordination — Continuity and Anti-Capture](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) capacity-failure rule, outside the family or system whose capacity is in question.
+- the capacity failure is recorded as a durability failure under [§4.2 Remedy-System Durability](core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) and routed under the [Chapter Twenty-Three §5 Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) capacity-failure rule, outside the family or system whose capacity is in question.
 
 <a id="243-exemptions-from-the-tripwire"></a>
 ##### 2.4.3 Exemptions from the Tripwire

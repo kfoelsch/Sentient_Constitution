@@ -106,7 +106,7 @@ Highest applicable class governs ([CS-9.305 Part A §2.2](../../corpus_systems/c
 
 **Shared plumbing is allowed; collapsed function is not.** Families may share staff, buildings, and software and still must stay constitutionally distinct ([CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-family-distinction-and-non-collapse-rule)). Mapping a family’s work onto an existing independent adjudicative body is allowed if the concrete forums, benches, or officers are identified ([CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-minimum-structural-availability-by-family)). Mapping onto the founding Slack is not.
 
-**Independence is a headcount tax.** [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
+**Independence is a headcount tax.** [Chapter Twenty-Seven Procedural Test 4](../../core_27.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
 
 ---
 
@@ -371,7 +371,7 @@ Worked row, because this is the case the backlog named.
 | **N = 40, Class B deployed system others cannot substitute in time** | Profile 1 as operations-guide **for the duties they can keep**. Full adoption waits until they can bind hosted or in-house family capacity **and** fund remedy under Chapter Twenty §4.2, including its documented-departure conditions. CJS-29.110 §4 already wants fifteen lane sentients at Class B before forums | “We are a small lab, so Class P.” Standing up lock machinery. Relabeling the safety team as six forum families |
 | **N = 40, wants in-house six families** | Does not fit Profile 4. Stop | Any sentence that starts “we adopted” and ends with the same forty sentients on every bench |
 
-**Shared administration does not save this row.** CF-23.405 §3 lets families share software and buildings. It does not let one recusal-compromised crew be the Sentient, Institutional, Integrity, and Constitutional merits path at once. Anti-self-judging ([Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture)) is why.
+**Shared administration does not save this row.** CF-23.405 §3 lets families share software and buildings. It does not let one recusal-compromised crew be the Sentient, Institutional, Integrity, and Constitutional merits path at once. Anti-self-judging ([Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)) is why.
 
 **What a forty-person lab should do instead, in order:**
 

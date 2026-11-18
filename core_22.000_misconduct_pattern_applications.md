@@ -214,7 +214,7 @@ Evaluators assess these patterns as follows:
 - Downstream: [§5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05.035_band_accountability.md#contestability) and [Transparency](core_05.050_band_oversight.md#transparency) in **Chapter Five** where contest-pathway usability and publication are material.
-- Forum operations: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) through [§5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) for intake triage, consolidation, and representative treatment.
+- Forum operations: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) through [§5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) for intake triage, consolidation, and representative treatment.
 - Distinct pattern: [§3.3](#33-info-sphere-zone-flooding) covers info-sphere flooding.
 
 </details>
@@ -1167,7 +1167,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - [Article XXV-C](core_06.030_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum recusal and enforcement routing*), applying the general floor in
   - [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*);
   - **CF-23.410** (*panel formation, disclosure, recusal, and lawful bench constitution*).
-- Forum routing: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) (*Integrity default lead*); [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-coordination--continuity-and-anti-capture) (23.000 §5) (*cross-forum anti-self-judging rule*).
+- Forum routing: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) (*Integrity default lead*); [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (23.000 §5) (*cross-forum anti-self-judging rule*).
 - Read with:
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness),
   - [Contestability](core_05.035_band_accountability.md#contestability),
@@ -1233,7 +1233,7 @@ The pattern is especially heightened where the panelist sits on a **Constitution
 
 ##### 5.3.3 Forum Routing
 
-Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Twenty-Three §3** (*Default Venue and Primary Stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Coordination — Continuity and Anti-Capture*):
+Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Twenty-Three §3** (*Default Venue and Primary Stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Twenty-Three §5** (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*):
 - **recusal failure**; or
 - **biased panel participation**.
 
