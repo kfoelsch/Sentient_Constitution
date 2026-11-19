@@ -22,7 +22,7 @@
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Chapter One §17.1 Shared Stewardship Standard](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.040 §17.1);
   - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18);
-  - [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+  - [Article XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-jobs-are-separated);
@@ -65,9 +65,9 @@ Chapter Eight is the constitutional owner of the **functional-independence and s
 - Downstream: [§3](#3-four-seat-constitutional-requirement) through [§11](#11-independent-bodies); every later process that produces or changes a materially binding act.
 - Read with:
   - [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) for verification substrate;
-  - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
-  - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for challenge and redress;
-  - [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for independent-verification Rights Floors.
+  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
+  - [Article XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for challenge and redress;
+  - [Article XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for independent-verification Rights Floors.
 
 </details>
 
@@ -243,7 +243,7 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-four-seat-constitutional-requirement); [Authority-scaled answerability](core_01.050_governance_incentive_application.md#181-governance-as-authorized-structure); [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Upstream: [§3](#3-four-seat-constitutional-requirement); [Authority-scaled answerability](core_01.050_governance_incentive_application.md#181-governance-as-authorized-structure); [Article XXVI](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§5](#5-wrong-seat-routing); [§6](#6-published-placement-vacancy-and-substitution); [§9](#9-act-records-and-attributable-handoffs); Chapter Nine certification component roles; Chapter Fifteen record custody; Chapter Twenty-Three forum anti-self-judging.
 - Read with: [Material Control Line](core_05.035_band_accountability.md#material-control-line); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 
@@ -610,7 +610,7 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-four-seat-constitutional-requirement) through [§7](#7-proportional-scaling-and-merged-hosting); [Chapter Twenty-Seven §2.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) (27.000 §2.2); [Chapter Twenty §4.2 Remedy-System Durability](core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) (20.000 §4.2); [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Upstream: [§3](#3-four-seat-constitutional-requirement) through [§7](#7-proportional-scaling-and-merged-hosting); [Chapter Twenty-Seven §2.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) (27.000 §2.2); [Chapter Twenty §4.2 Remedy-System Durability](core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) (20.000 §4.2); [Article XXVI](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: each chapter or designated implementation text that names a body as an Independent Body by citing this section.
 - Read with: [CI-27.205 §2](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-2-role-criteria-appointment-standards-and-removal-pathways) (*Role Criteria, Appointment Standards, and Removal Pathways*); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*).
 
@@ -629,8 +629,8 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 - **Removal:** a decision-maker may be removed mid-term only for a published cause, through a removal pathway under **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), and the removal is open to challenge. Removal, reassignment, or loss of pay because of a decision, finding, published figure, or dissent is barred.
 - **Seats:** it publishes a seat map that places all four seats under [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement) and [§6 Published Placement, Vacancy, and Substitution](#6-published-placement-vacancy-and-substitution) for each of its materially binding acts.
 - **No dual roles:** no holder of a decision seat in the body may at the same time hold a decision seat in a body it funds, checks, or measures, or hold a [material stake](core_00.000_preamble.md#material-stake) in a matter before it.
-- **Funding:** its funding is adequate to its duties, and the funding-integrity floor of [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) applies to whoever funds it, whether or not the body decides for others.
-- **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*).
+- **Funding:** its funding is adequate to its duties, and the funding-integrity floor of [Article XIII-D](core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) applies to whoever funds it, whether or not the body decides for others.
+- **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XIII-C](core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*).
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
 

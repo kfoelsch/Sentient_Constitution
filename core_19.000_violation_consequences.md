@@ -85,7 +85,7 @@ The integration record must say, in plain view and at the level of specificity f
   - who is responsible for carrying them out, including successors, funds, or coordinating bodies that must carry or finance a remedy; and
   - where the funding comes from, and how the remedy will be executed where that needs capacity, cross-institution coordination, tracing successors, recognition by another forum, or pooled execution, or why a substitute safeguard is the proportionate lawful remedy instead.
 - **When and how far along:**
-  - when work must start and what milestones apply, including commencement deadlines, completion milestones, verification requirements, and review triggers under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); and
+  - when work must start and what milestones apply, including commencement deadlines, completion milestones, verification requirements, and review triggers under [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); and
   - where things stand now.
 - **Follow-through:**
   - who supervises follow-through; and
@@ -114,7 +114,7 @@ Remedy also follows these three rules:
 - **Later help as restitution:** Help given before the violation does not count toward remedy. Verified help given by the party who owes the remedy after the conduct the violation finding rests on (for conduct that continues, after it stops) counts as restitution to the extent it repairs, compensates, restores, or makes up the loss to the affected sentients and interests.
   - The integration record credits the help against the remedy owed and says how much of it the help covers.
   - The credit reduces the remedy still owed. It does not change the violation finding, the Chapter Sixteen slot, the correction duties, or any lock.
-  - Completed restitution, including credited help, has the effects stated in [Article XIX-D](core_06.030_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*) and [Chapter Twenty §3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment).
+  - Completed restitution, including credited help, has the effects stated in [Article XX-D](core_06.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*) and [Chapter Twenty §3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment).
 
 <a id="213-correction"></a>
 ##### 2.1.3 Correction
@@ -132,7 +132,7 @@ Correction is the set of changes needed to address the cause and stop continuati
   - supervision; or
   - safeguards.
 
-The integration record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the violation possible or kept it going, read with [Article XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*). Correction is complete only when the Standing Record shows it eliminates or resolves that cause. Completion and non-completion have the effects stated in [Article XIX-D](core_06.030_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
+The integration record must identify, at the level of specificity feasible without unlawful disclosure, the conduct, role, decision, system, record, or incentive that made the violation possible or kept it going, read with [Article XXV](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*). Correction is complete only when the Standing Record shows it eliminates or resolves that cause. Completion and non-completion have the effects stated in [Article XX-D](core_06.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 
 <a id="214-remedy-and-correction-together"></a>
 ##### 2.1.4 Remedy and Correction Together
@@ -260,7 +260,7 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - independently reviewable for voluntariness and authenticity.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions, widen a standing lock, or substitute for remedy or correction owed under [§2.1 Remedy and Correction](#21-remedy-and-correction).
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
-  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
+  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XXI-B** (*Restriction Floors*) and [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened).
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection, remediation, or locks under [§2.1 Remedy and Correction](#21-remedy-and-correction) and [§2.2 Prevention — General Standing Locks](#22-prevention--general-standing-locks), is non-compliant.
 - No format may impose any of the following beyond what is necessary for truthful accountability and proportionate remediation:
   - degrading treatment;
@@ -464,7 +464,7 @@ Where a lock separates a sentient from settings, networks, associations, or othe
 - leave access to counsel, advocates, and any forum hearing the sentient's case;
 - satisfy **Article VIII-E** (*Non-Separation*) where it separates a protected care relationship;
 - not amount to confinement: a separation that leaves the sentient no ordinary place to live, operate, or go is a liberty restriction and requires the rule in [§3.4.5 Coercive or Liberty-Restricting Safeguards](#345-coercive-or-liberty-restricting-safeguards);
-- not amount to exile, refuge denial, or statelessness under **Article XXII-B** (*Refuge from Non-Compliance*) and **Article XXII-C** (*Non-Statelessness*).
+- not amount to exile, refuge denial, or statelessness under **Article XXIII-B** (*Refuge from Non-Compliance*) and **Article XXIII-C** (*Non-Statelessness*).
 
 <a id="316-carry-through-to-special-rules-and-special-locks"></a>
 ##### 3.1.6 Carry-through to Special Rules and Special Locks
@@ -587,7 +587,7 @@ The rest of this subsection says what counts as negligence and as feasible capac
 
 **Inside an institution or system** (a sentient acting in a role, under an institution's or system's rules, tools, staffing, targets, or incentives):
 
-- **Conditions first:** because the institution or system set the conditions, they are examined first. The root-cause analysis under [Article XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*) says whether the duty was clear and the capacity was real.
+- **Conditions first:** because the institution or system set the conditions, they are examined first. The root-cause analysis under [Article XXV](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*) says whether the duty was clear and the capacity was real.
 - **Duty unclear or capacity not given:** the sentient's mistake is an honest error at most. The failing is the institution's or system's, recorded as structural enablement in a collective record under [Chapter Fifteen §5.3 Collective and Actor-Specific Records](core_15.000_standing_assessment.md#53-collective-and-actor-specific-records).
 - **Duty clear and capacity real:** negligence is recordable against the sentient. If the conditions also contributed, both violation records open, each on its own part. One does not erase the other, and the same loss is not counted twice.
 - **Failure to escalate:** a sentient who knew the conditions made harm likely, and had a working route to escalate and be heard, is responsible for not using it ([§3.4.4 Collective Accountability](#344-collective-accountability)). Where no route existed, or escalating was punished, the failing is the institution's or system's.
@@ -629,8 +629,8 @@ This rule fills the attachment fields as follows:
     - money paid to repair harm to affected parties; and
     - fair settlements reached through a contestable process.
 <a id="342-adoption-transition-exception-misaligned-rewards"></a>
-- **Adoption Transition exception:** During approved Adoption Transition phases under **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
-  - operation stays within a **documented Adoption Transition plan** and published [gate criteria](core_05.050_band_oversight.md#gate-criteria) under **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*);
+- **Adoption Transition exception:** During approved Adoption Transition phases under **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
+  - operation stays within a **documented Adoption Transition plan** and published [gate criteria](core_05.050_band_oversight.md#gate-criteria) under **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*);
   - the system is proceeding toward [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred certification** where Chapter Nine allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved Adoption Transition scope, or using Adoption Transition status to evade certification, correction, or protected reporting.
 
@@ -711,9 +711,9 @@ This rule fills the attachment fields as follows:
   - Full criminal-process or equivalent constitutional protections apply before the restriction.
   - These process protections apply whenever liberty is restricted; they do not by themselves create a conviction.
 - **Review route and reassessment:** the same process protections govern challenge, narrowing, and lifting; recurrence uncertainty and isolation from risk factors apply under [§3.1 Definition and Attachment](#31-definition-and-attachment).
-- **Required imprisonment for verified violence:** Imprisonment is a liberty-restricting measure, not a standing lock. It is recorded with the same attachment fields as a lock ([§3.1 Definition and Attachment](#31-definition-and-attachment)). Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. This implements the imprisonment floor in [**Article XX-B** (*Restriction Floors*)](core_06.030_rights_part_d.md#article-xx-b-restriction-floors).
+- **Required imprisonment for verified violence:** Imprisonment is a liberty-restricting measure, not a standing lock. It is recorded with the same attachment fields as a lock ([§3.1 Definition and Attachment](#31-definition-and-attachment)). Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. This implements the imprisonment floor in [**Article XXI-B** (*Restriction Floors*)](core_06.030_rights_part_d.md#article-xxi-b-restriction-floors).
   - This applies to sentients who refuse rehabilitation offered on fair terms, and where less-restrictive protective measures cannot satisfy material safety necessity.
-  - Imprisonment must satisfy the **Article XX-B** (*Restriction Floors*) joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XX-B** (*Restriction Floors*) requires of every justice measure.
+  - Imprisonment must satisfy the **Article XXI-B** (*Restriction Floors*) joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XXI-B** (*Restriction Floors*) requires of every justice measure.
   - Substituting deprivation of life, or failing to impose imprisonment where this bullet requires it, is non-compliant.
   - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Twenty-One §6.2](core_21.000_misconduct_designation.md#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*) and uses the same attachment fields.
 
@@ -725,7 +725,7 @@ This rule fills the attachment fields as follows:
 This rule fills the attachment fields as follows:
 
 - **Gated pathway:** the [Influence Pathway](core_05.035_band_accountability.md#influence-pathway), closed in one of two forms:
-  - **On-record-only lock**, the default: closes every route except the matter's open Forum Case Record and contact that is recorded and disclosed under [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*). It bars private channels, access seats, benefit exchange, manufactured support, and pressure.
+  - **On-record-only lock**, the default: closes every route except the matter's open Forum Case Record and contact that is recorded and disclosed under [Article XIII-B](core_06.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*). It bars private channels, access seats, benefit exchange, manufactured support, and pressure.
   - **No-contact lock:** also closes recorded contact with the bodies, office-holders, or systems it names. The sentient can still file on the matter's open Forum Case Record, and the protections in [§3.1.4 What a Lock Does Not Itself Restrict](#314-what-a-lock-does-not-itself-restrict) stay in place.
 - **Finding:** a verified violation finding in which the sentient's use of an influence route was part of the violation.
 - **Choosing the form:** the on-record-only lock is the default. The no-contact lock applies only where an on-record-only lock could not contain the risk ([§3.2 Proportionality and Calibration](#32-proportionality-and-calibration)). The Violation Axis slot does not decide the form.
@@ -749,7 +749,7 @@ A capacity lock closes a capacity that the sentient used to carry out a verified
   - deleting, overwriting, or altering memory, values, or other state-bearing components; or
   - compelling or preventing a bodily process.
 
-  **Article VII-A** (*Self-Ownership of Body*), **Article VII-B** (*Self-Ownership of Mind*), **Article VIII-B** (*Reproductive and Lineage Autonomy*), and **Article XX-B** (*Restriction Floors*) apply in full. Acting against a lock is a new violation for the Standing Record. It is not prevented by intrusion.
+  **Article VII-A** (*Self-Ownership of Body*), **Article VII-B** (*Self-Ownership of Mind*), **Article VIII-B** (*Reproductive and Lineage Autonomy*), and **Article XXI-B** (*Restriction Floors*) apply in full. Acting against a lock is a new violation for the Standing Record. It is not prevented by intrusion.
 - **Named scope:** the integration record names the classes of means that are closed, and nothing wider. Ordinary use of the capacity outside the named scope stays open.
 - **Choosing the lock and the scope of the lock:** [§3.2 Proportionality and Calibration](#32-proportionality-and-calibration) governs. The Violation Axis slot does not decide the form.
 - **Does not by itself restrict:** the protections in [§3.1.4 What a Lock Does Not Itself Restrict](#314-what-a-lock-does-not-itself-restrict), including survival-critical access and, for a synthetic or hybrid sentient, the resources needed to keep operating without degradation.

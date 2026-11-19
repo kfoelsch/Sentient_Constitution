@@ -37,7 +37,7 @@ See: [Chapter Fifteen §3.2](../../../core_15.000_standing_assessment.md#32-sile
 - **Today:** “Read the corpus first” is the next step.
 - **With this Constitution:** Complexity and specialist-only surfaces must not be the way the path is closed.
 
-See: [Article XXIII](../../../core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
+See: [Article XXIV](../../../core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
 
 ## What to open next
 

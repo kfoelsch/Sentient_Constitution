@@ -134,10 +134,10 @@ flowchart TB
   - [Article III: Survival and Essential Access](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access),
   - [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding),
   - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
-  - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
-  - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity),
-  - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and
-  - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response).
+  - [Article XVIII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility),
+  - [Article XXII: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity),
+  - [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
+  - [Article XXV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response).
 - Subsections (reading order): [§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good) · [§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count) · [§9.2 Constitutional Efficiency](#92-constitutional-efficiency).
 
 </details>
@@ -390,11 +390,11 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
   - [14. Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: Shapes the rights surface for reliability-with-recovery, root-cause honesty, reversibility, and comprehensibility of degraded and restoring states.
   - Especially
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (including **Article XIII-F** (*Resilience and Self-Healing Baseline*)),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
-    - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and
-    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response).
+    - [Article XIV: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (including **Article XIV-F** (*Resilience and Self-Healing Baseline*)),
+    - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+    - [Article XVIII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility),
+    - [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
+    - [Article XXV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response).
 
 </details>
 
@@ -429,7 +429,7 @@ This is what Chapter Five calls [**Self-Healing**](core_05.040_band_continuity.m
 
 The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and supporting long-term [**Continuity**](core_01.000_values_principles.md#continuity).
 
-Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XIII-F](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Resilience and Self-Healing Baseline*) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
+Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XIV](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Resilience and Self-Healing Baseline*) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
 
 <a id="11-market-structure"></a>
 ### 11. Market Structure
@@ -445,7 +445,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (
   - [§11.2](#112-pro-competition-and-anti-domination) the banned conduct and its remedies); **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (
   - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) how to set the ceiling).
-- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
+- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XXII: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity).
 - Subsections (reading order):
   - [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) ·
   - [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable) ·
@@ -613,7 +613,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 - Downstream: **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Twenty-Two §6.1](core_22.000_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (22.000 §6.1).
 - Read with:
   - [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (labor mobility Rights Floor);
-  - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity);
+  - [Article XXII: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity);
   - [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (
   - [Necessity](core_05.035_band_accountability.md#necessity),
   - [Proportionality](core_05.035_band_accountability.md#proportionality),
@@ -1015,7 +1015,7 @@ Crossing a threshold calls for heightened review and mitigation under [§11.1.1 
   - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture).
 - Read with: **[Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)** — the factors used to evaluate a whole system for certification. Certification is one especially large audit under the **oversight** leg of the Tetrad, not the only place audits happen.
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05.050_band_oversight.md#auditability) — auditing floors that Chapter Nine must satisfy and that sibling audit modes also implement.
+- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05.050_band_oversight.md#auditability) — auditing floors that Chapter Nine must satisfy and that sibling audit modes also implement.
 - Read with: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) — class-scaled application, record form, reclassification triggers, and handling profiles.
 - Upstream: [§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline); [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 - Downstream: [§20 Integrated Application](core_01.050_governance_incentive_application.md#20-integrated-application) — verifies pursuit of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) scaling under the system's incentive and control structure, not only its stated rationale.
@@ -1044,7 +1044,7 @@ Crossing a threshold calls for heightened review and mitigation under [§11.1.1 
 
 <br>
 
-*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).*
+*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).*
 
 Any claim about the matters below must be checked against what the whole system actually does over time. A slogan or a snapshot of one part at one moment is not enough:
 
@@ -1066,7 +1066,7 @@ The detailed evaluation factors and System Certification Records are owned by:
 That Chapter Nine process:
 - is principle-layer auditing under [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional);
 - is one especially large audit process among sibling modes;
-- does not relocate or replace **Article XVI** (*Audit, Transparency, and Independent Verification*).
+- does not relocate or replace **Article XVII** (*Audit, Transparency, and Independent Verification*).
 
 <br>
 

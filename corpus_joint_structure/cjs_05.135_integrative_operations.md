@@ -56,9 +56,9 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
 - Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
-- Read with: [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*)
+- Read with: [Article XV-A](../core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*)
 - Read with: [Article VII-B](../core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*)
-- Read with: [Article XVI](../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
+- Read with: [Article XVII](../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
 - Chapter One basis: §15.2, §18.2, §18, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -203,7 +203,7 @@ No permanent secrecy and anti-normalization discipline
   - **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*).
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5)**
 - Read with: [CF-23.450](../corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*) through [CF-23.460](../corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
-- Read with: Constitutional hooks in **Articles X, XIII, and XIV**
+- Read with: Constitutional hooks in **Articles X, XIV, and XV**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*) governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.

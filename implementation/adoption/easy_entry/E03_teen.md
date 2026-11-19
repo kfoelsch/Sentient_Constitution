@@ -59,7 +59,7 @@ See: [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-devel
 - **Today:** Review is next term, next year, or never. Being heard is only a parent’s or school’s story.
 - **With this Constitution:** When a system fails you, there has to be a real challenge, review, and redress path, on a clock. That includes a “you are not ready” that does not match what you have shown.
 
-See: [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXVI-C](../../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor).
+See: [Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Article XXVII-C](../../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor).
 
 ## What you might reasonably object to
 
@@ -67,7 +67,7 @@ See: [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-relia
 
 - **“I want to be treated as a full adult now.”** What you may do yourself will not invent that if what you can actually show does not support it. The honest gain is that the test is capability, not a birthday stand-in, and that a “no” has to be justified and open to challenge.
 
-- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Fifteen §3.2](../../../core_15.000_standing_assessment.md#32-silence-is-the-default)).
+- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Fifteen §3.2](../../../core_15.000_standing_assessment.md#32-silence-is-the-default)).
 
 - **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
 

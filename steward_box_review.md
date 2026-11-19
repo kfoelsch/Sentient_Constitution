@@ -11,7 +11,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 2. **Clock lines** are steward procedure. Several repeat the Forbidden move in positive form (Proceed, Remedy, Emergency, Delay). Interpretation's Clock duplicates the interim posture already written in Chapter One §13.1.5 (lines ~329-332: preserve, freeze irreversible steps, do not manufacture a winner). Move the rest to the implementation cards and `implementation/steward_owner_clock_index.json`, which already carry clock notes.
 3. **Forbidden moves** are mostly principles the owning text already states (table below). A handful do not appear to be, and are the real decisions.
 4. **Functional Independence (Ch8)** is not in Owner/Forbidden/Clock form. It is a substantive seat-separation rule ("identify the seat you hold... do not verify your own act... if the needed seat is absent, preserve the record, name the gap, route to the published substitute"). Check whether Chapter Eight's body already says this; if not, promote it into the body rather than remove it.
-5. **Widget gap:** XXVI-C (`core_06.040_rights_part_e.md`) and Chapter Twenty-Four §4.1 (`core_23.000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
+5. **Widget gap:** XXVII-C (`core_06.040_rights_part_e.md`) and Chapter Twenty-Four §4.1 (`core_23.000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
 
 ## Per-box diff
 
@@ -24,10 +24,10 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 | Incentive | Bonus is not a compliance defense; don't ship by suppressing disclosure | Yes | Ch1 §12 (~403-416): reward for hiding problems, partial testing |
 | Market Structure | Adopter-tunable is not adopter-optional; don't clear the floor with entity count or efficiency talk | **Yes** (corrected in Follow-up 2) | CJS-5.125 §11.1 (`cjs_05.125_accountability_operations.md` ~120-121): floor preservation, substance over form, anti-nullification; Ch1 §14.1 "provided the floor holds" |
 | Contest | Lower/adopted text cannot close challenge, review, or redress; bar fixed now, not later | **Not found** | Already flagged in `TODO.md`. The general rule lives in the Authority Stack; the "now, not later" rule appears only in the box. Highest-priority check |
-| Audit | Deadline is not a reason to drop audit trails | Yes | Ch1 §12 (~408) "cutting the record to hit a deadline". "No fifth audit home" not found by keyword; the SAC box itself says SAC sits under Article XVI |
-| Comprehensibility | Density is no reason to hide the next step; no specialist required to use XIII-A | **Not found** (thin) | XXIII-A covers understanding generally; nothing on "no specialist required". Mostly routing; consider dropping |
-| Delay (XXVI-C) | No added process / hop count eating the tier window | Yes | Ch14 §6 (~891): "self-created delay, procedural layering... to prolong resolution without milestone justification" |
-| Delay (XXVI-C) | Met throughput target is not timely while harm persists | Partly | Raw throughput as a proxy: Preamble ~85, Ch1 §13.2 and §14. "While harm persists" is not explicit; one sentence in Ch14 §6 would close it |
+| Audit | Deadline is not a reason to drop audit trails | Yes | Ch1 §12 (~408) "cutting the record to hit a deadline". "No fifth audit home" not found by keyword; the SAC box itself says SAC sits under Article XVII |
+| Comprehensibility | Density is no reason to hide the next step; no specialist required to use XIV-A | **Not found** (thin) | XXIV-A covers understanding generally; nothing on "no specialist required". Mostly routing; consider dropping |
+| Delay (XXVII-C) | No added process / hop count eating the tier window | Yes | Ch14 §6 (~891): "self-created delay, procedural layering... to prolong resolution without milestone justification" |
+| Delay (XXVII-C) | Met throughput target is not timely while harm persists | Partly | Raw throughput as a proxy: Preamble ~85, Ch1 §13.2 and §14. "While harm persists" is not explicit; one sentence in Ch14 §6 would close it |
 | SAC | Unit tests/checklists/labels are not certification; don't skip the challenge window | **Not found** for those two | Badge/LEQU not sentience status is covered (Ch6 Part B ~214 anti-substitution). Read Ch9 before deciding |
 | Standing | Claimed effect is not standing; don't wait for a filed case; no net score; badge/LEQU not sentience | Yes | Ch11 ~52 (two tracks, never net score); Ch12 ~90 "A filed case is not standing by itself"; Ch6 Part B ~214. Self-verification bar is in Ch11 §4.7 |
 | Remedy | A published form is not remedy; preserve evidence before a case is filed; no externalizing cost | Partly | Externalized harm covered in Ch1 §6.1 and Ch3. "Published form is not remedy" not found; Ch12 §9 "institutionally real" not checked |
@@ -43,17 +43,17 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 
 ---
 
-## Follow-up 1: Contest box (Article XIII-A), read against the owning text
+## Follow-up 1: Contest box (Article XIV-A), read against the owning text
 
-**What XIII-A already says.** The contestability guarantee requires a usable path to challenge and review, audit under Article XVI, and "no narrowing of any of these because the system is certified, officially recognized, or widely relied on." That covers narrowing by a system's status. It does not mention narrowing by adopted implementation text.
+**What XIV-A already says.** The contestability guarantee requires a usable path to challenge and review, audit under Article XVII, and "no narrowing of any of these because the system is certified, officially recognized, or widely relied on." That covers narrowing by a system's status. It does not mention narrowing by adopted implementation text.
 
-**What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Thirty §4.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
+**What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Thirty §4.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIV-A the way it is in Article XVII.
 
-**The parallel that exists.** Article XVI (`core_06.020_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
+**The parallel that exists.** Article XVII (`core_06.020_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
 
-**Verdict.** A small real gap. The principle is implied but not written in XIII-A. The "now, not later / no permanent bar while a later process is promised" half of the box is steward procedure, not principle, and belongs in the implementation card (it is already what the JSON `clock_note` style carries).
+**Verdict.** A small real gap. The principle is implied but not written in XIV-A. The "now, not later / no permanent bar while a later process is promised" half of the box is steward procedure, not principle, and belongs in the implementation card (it is already what the JSON `clock_note` style carries).
 
-**Draft sentence** (not applied; one bullet under the Contestability guarantee in XIII-A, modeled on XVI):
+**Draft sentence** (not applied; one bullet under the Contestability guarantee in XIV-A, modeled on XVII):
 
 > - Adopted implementation text applies; it does not replace this guarantee. It says how to run challenge, review, and redress in a domain, and it must satisfy this Article. Convenience, deadline, and local policy are lower-kind limits and cannot close challenge, review, or redress.
 
@@ -72,7 +72,7 @@ Corrections to the first table: Unlawful Instruction and Market Structure are **
 |---|---|---|---|
 | **Unlawful Instruction** | Fully covered | Ch1 §10.5: "No compliance defense", "No transfer by cover: a principal's statement that they will take responsibility does not transfer the duty", "How: instruction received -> refuse -> document -> escalate", "keeps contest pathways open" | Remove the box. Its Clock is the "How" bullet verbatim |
 | **Market Structure** | Covered at the operative layer | CJS-5.125 §11.1 (~120-121): no threshold above the level where concentration degrades wellbeing, agency, dignity, or ecological integrity, "whatever the justification, including efficiency, competitiveness"; "Thresholds judge substantive concentration, not headcount of legal entities"; anti-nullification. Ch1 §14.1: thresholds may differ "provided the floor holds" | Remove the box. "Invalidate the nullifying threshold now" is a steward action for the card |
-| **Comprehensibility** | Covered in substance | XXIII-A: understanding "must not be confined to specialist-only surfaces where broader accountability or participation is materially implicated". XXIII-B: complexity cannot be a wall against audit, contest, or correction | Remove the box. "Point at the existing card... no scavenger hunt" is routing for the card |
+| **Comprehensibility** | Covered in substance | XXIV-A: understanding "must not be confined to specialist-only surfaces where broader accountability or participation is materially implicated". XXIV-B: complexity cannot be a wall against audit, contest, or correction | Remove the box. "Point at the existing card... no scavenger hunt" is routing for the card |
 | **Proceed** | Mostly covered; one real gap | Covered: Ch1 §6.2.3 and §6.2 (privacy carries independent weight, "not automatically subordinate", collisions go through the §6.1 decision record); §6.1 confidentiality limits must keep "independent reviewer access"; §10.5 "What it does not reach" (merely unwelcome instruction). Gap: nothing in Ch11/10 says privacy or model-internals opacity is not an exemption from standing measurement (the Standing box also says this) | See draft below |
 | **SAC** | Mostly covered; one check left | Covered: Ch9 A proportionality ("not a one-size-fits-all checklist"), ~202 (a checklist or after-the-fact statement is not evaluation), Ch6 Part B ~214 (badge/LEQU is not sentience status), challenge and stakeholder review at ~74 and ~147 | Not confirmed: that Ch9 §3 and Ch10 §2 makes the challenge window a precondition of the aligned claim ("do not skip the challenge window"). Read Ch9 §3 and Ch10 §2 before removing the box |
 
@@ -85,7 +85,7 @@ If adopted, it closes both the Proceed and Standing boxes on this point.
 ## Running totals (15 boxes)
 
 - **Remove outright (principle already in article or corpus; Clock is procedure):** Interpretation, Shared Stewardship, Unlawful Instruction, Incentive, Audit, Market Structure, Comprehensibility, Emergency.
-- **Remove once one sentence is added:** Contest (XIII-A bullet), Proceed and Standing (Ch11 privacy sentence), Delay (Ch14 §6 "harm persists" sentence).
+- **Remove once one sentence is added:** Contest (XIV-A bullet), Proceed and Standing (Ch11 privacy sentence), Delay (Ch14 §6 "harm persists" sentence).
 - **Remove once one check is done:** SAC (Ch9 §3 and Ch10 §2), Remedy (Ch12 §9 and §4.1 "institutionally real" / "published form is not remedy").
 - **Different treatment:** Functional Independence (check whether Ch8's body already states it).
 - Every Clock still needs to land in the implementation cards and JSON, with the audit tool and `TODO.md` updated in one change.
@@ -98,12 +98,12 @@ If adopted, it closes both the Proceed and Standing boxes on this point.
 |---|---|---|---|
 | **Remedy** | Covered, one soft spot | Ch12 §9: "Standing integration fails if consequences exist only on paper"; capacity must "preserve records", "enforce safeguards"; "Costs must not be externalized onto:". Ch12 ~90: "A filed case is not standing by itself." Soft spot: nothing states outright that evidence is preserved before a case is filed | Remove the box. Optionally add "preservation does not wait for a filed case" to §9's preservation item |
 | **Functional Independence** | Covered; the box is a condensed restatement | Ch8 §3 Four-Seat Requirement (initiator cannot verify own act; verifier cannot record or hear challenge); §1 (~68) "A title, delegation, technical capability... does not enlarge the seat held"; §4 substitute for an absent, excluded, captured, or conflicted holder; §7 wrong-seat routing; §6 emergencies. The only phrase I did not find verbatim is "expertise scarcity" as a non-transferring factor | Remove from the article, or keep as a steward quick-reference in the implementation layer. Not a principle gap |
-| **SAC** | Mostly covered; **one real question** | Ch9 §3.1: a certification record must name challenge paths; "Internal operator review, vendor attestation, or technical sign-off is not this path"; Article XXVI-C clocks run from receipt. Ch9 and Ch6 Part B cover checklists and badge/LEQU | Not found: a rule that the challenge opportunity must open **before the aligned claim** is made ("Open or restore a contestable Chapter Nine path, including a stakeholder challenge window, before the aligned claim"). Decide whether that is a rule you want. If yes, it needs one sentence in Ch9 §3; if no, the Clock is just procedure and the box can go |
+| **SAC** | Mostly covered; **one real question** | Ch9 §3.1: a certification record must name challenge paths; "Internal operator review, vendor attestation, or technical sign-off is not this path"; Article XXVII-C clocks run from receipt. Ch9 and Ch6 Part B cover checklists and badge/LEQU | Not found: a rule that the challenge opportunity must open **before the aligned claim** is made ("Open or restore a contestable Chapter Nine path, including a stakeholder challenge window, before the aligned claim"). Decide whether that is a rule you want. If yes, it needs one sentence in Ch9 §3; if no, the Clock is just procedure and the box can go |
 
 ## Final tally (15 boxes)
 
 - **Remove outright (10):** Interpretation, Shared Stewardship, Unlawful Instruction, Incentive, Audit, Market Structure, Comprehensibility, Emergency, Remedy, Functional Independence (or relocate as a steward reference). Every Clock moves to the implementation layer either way.
-- **Remove after adding one sentence (4):** Contest (XIII-A bullet), Proceed and Standing (Ch11 privacy sentence, one sentence for both), Delay (Ch14 §6 "harm persists").
+- **Remove after adding one sentence (4):** Contest (XIV-A bullet), Proceed and Standing (Ch11 privacy sentence, one sentence for both), Delay (Ch14 §6 "harm persists").
 - **Needs your decision (1):** SAC, whether the challenge window must open before the aligned claim.
 
 Note: Proceed and Standing share one added sentence, so there are three drafted sentences in total (Contest, Privacy/Ch11, Delay), plus an optional fourth (Remedy) and the SAC decision.
@@ -142,7 +142,7 @@ This sits under the list's existing lead-in, "non-compliant where they foreseeab
 
 ## Status: all four sentences drafted
 
-1. Contest: XIII-A bullet (Follow-up 1)
+1. Contest: XIV-A bullet (Follow-up 1)
 2. Privacy: Chapter Fifteen sentence (Follow-up 2), closes Proceed and Standing
 3. Delay: Chapter Twenty-Four §4 bullet (above)
 4. SAC: Chapter Nine §3.1 paragraph (above)

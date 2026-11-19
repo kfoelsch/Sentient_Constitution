@@ -36,7 +36,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
 
-**Homes:** Boxed operative sentence at [Article V-D](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) and [Article XVIII-A](../../core_06.030_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Nine and Chapter Fifteen operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
+**Homes:** Boxed operative sentence at [Article VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) and [Article XIX-A](../../core_06.030_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Nine and Chapter Fifteen operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
 **Do not:** Restate Chapter Fifteen mechanics inside Chapter Six.
 
 ### A3. Ladder escalation — no permanent welfare parking — **done**
@@ -72,7 +72,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B3. FPIC non-shrinkage — **done**
 
-**Homes:** [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
+**Homes:** [Article VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
 **Do not:** Invent a land-claims forum in Chapter Twenty-Three.
 
 ### B4. Forum independence and appointment floor — **done**

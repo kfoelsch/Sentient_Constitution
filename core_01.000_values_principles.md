@@ -26,15 +26,15 @@
 
 | Aim and part | Chapter One principle | Definition home | Articles named in its Trace |
 |---|---|---|---|
-| **Flourishing**: the outcome | [§3 Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) | [Wellbeing](core_05.040_band_continuity.md#wellbeing) | [VI](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation), [XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [XIX-B](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
-| **Flourishing**: safety | [§4 Safety](#4-safety-harm-constraint) | [Safety](core_05.040_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
-| **Flourishing**: truth | [§5 Truth](#5-truth-epistemic-integrity-constraint) | [Truth](core_05.050_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **Flourishing**: trustworthiness | [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity) | [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **Flourishing**: meaningful agency | [§7 Freedom](#7-freedom-bounded-agency) | [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) | [VI](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
+| **Flourishing**: the outcome | [§3 Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) | [Wellbeing](core_05.040_band_continuity.md#wellbeing) | [VI](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation), [XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy), [XX-B](core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits) |
+| **Flourishing**: safety | [§4 Safety](#4-safety-harm-constraint) | [Safety](core_05.040_band_continuity.md#safety-constitutional-constraint) | [XIV](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), [XVIII](core_06.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility), [XXV](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) |
+| **Flourishing**: truth | [§5 Truth](#5-truth-epistemic-integrity-constraint) | [Truth](core_05.050_band_oversight.md#truth-constitutional-constraint) | [XIV](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), [XVI](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity), [XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) |
+| **Flourishing**: trustworthiness | [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity) | [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) | [XIV](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), [XVI](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity), [XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) |
+| **Flourishing**: meaningful agency | [§7 Freedom](#7-freedom-bounded-agency) | [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) | [VI](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) |
 | **Continuity**, bridging to Flourishing: durable capacity | [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity) | [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity) | [I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [III](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
-| **Continuity**: resilience | [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) | [Self-Healing](core_05.040_band_continuity.md#self-healing) | [XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIV](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
-| **Continuity**: contestable markets | [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure) | [Market Structure](core_05.035_band_accountability.md#market-structure) | [III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
-| **Continuity**: whole-system view | [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) | [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) | [XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Continuity**: resilience | [§10 Resilience and Self-Healing Design](core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) | [Self-Healing](core_05.040_band_continuity.md#self-healing) | [XIV](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), [XVIII](core_06.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility), [XXV](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) |
+| **Continuity**: contestable markets | [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure) | [Market Structure](core_05.035_band_accountability.md#market-structure) | [III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) |
+| **Continuity**: whole-system view | [§12 Systemic Evaluation Requirement](core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) | [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) | [XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) |
 
 **Principle hierarchy (Continuity).** At principle layer, the Continuity aim is developed in this order, opening with the capacity that bridges the two aims:
 
@@ -91,7 +91,7 @@ Chapter One, Part A, is the constitutional owner of **the Flourishing and Contin
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness govern how shared systems pursue the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [material stake](core_00.000_preamble.md#material-stake) scaling applies chapter-wide through section traces.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) and [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) — the governing mechanics layer for every term used in this chapter; apply O/M/A/C integrity, anti-evasion, burden, and traceability of definitions to results.
 - Read with: [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000).
-  - Especially [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), and [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - Especially [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights), [Article XIV: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), and [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Apply this reading where interpretation affects protected sentients, systems, or institutions.
 
 </details>
@@ -337,8 +337,8 @@ The standing model — [**Chapter Fifteen**](core_15.000_standing_assessment.md)
   - Especially
     - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights),
     - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
-    - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
-    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+    - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy), and
+    - [Article XX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits).
   - Apply this where claimed wellbeing gains would justify restrictions on agency, dignity, or contestability.
   - Especially [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness), and [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
 
@@ -404,8 +404,8 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
     - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights),
     - [Article VI-C: Nondiscrimination](core_06.010_rights_part_b.md#article-vi-c-nondiscrimination),
     - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
-    - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
-    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+    - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy), and
+    - [Article XX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits).
   - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Twenty-One, section 6 — Due-Process Safeguards, Remedy, and Prevention](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (21.000).
   - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), including [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05.055_band_participation.md#accessibility) where §2.1.1 access paths are material; [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
@@ -637,7 +637,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
   - [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (*binds how the pillars' and the steward role's work may be carried out — not a subsection of either*);
   - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights) and
   - [Article VI-A](core_06.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*dignity floor*);
-  - [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*);
+  - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*anti-cruelty floor*);
   - [corpus_systems CS-6.320](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation) (*Justice safeguards, restitution, and rehabilitation*).
 
 </details>
@@ -724,15 +724,15 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 - Downstream: Shapes the rights surface for reliable systems, info-sphere integrity, audit and review, lifecycle controls, experimentation boundaries, comprehensibility, adaptive response, and emergency handling.
   - Especially
     - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XVII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility),
-    - [Article XVIII: Innovation, Experimentation, and Creative Freedom](core_06.020_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom),
-    - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship),
-    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response),
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
-    - [Article XX: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xx-justice-after-verified-violation).
+    - [Article XIV: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems),
+    - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity),
+    - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+    - [Article XVIII: System Lifecycle, Environments, and Reversibility](core_06.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility),
+    - [Article XIX: Innovation, Experimentation, and Creative Freedom](core_06.020_rights_part_c.md#article-xix-innovation-experimentation-and-creative-freedom),
+    - [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship),
+    - [Article XXV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response),
+    - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
+    - [Article XXI: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xxi-justice-after-verified-violation).
   - This also covers any Chapter Six Rights Floors whose exercise or restriction turns on risk, evidence, disclosure, or system integrity.
 
 </details>
@@ -785,12 +785,12 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 - Downstream: Anchors the rights surface for truthful evidence, auditability, scientific integrity, retrospective review, and contestable disclosure.
   - Especially
     - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
-    - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
+    - [Article XIV: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems),
+    - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity),
+    - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+    - [Article XVI-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity),
+    - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
+    - [Article XXVII-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure).
   - This also covers any Chapter Six Rights Floor context where truthfulness, evidence, disclosure, or contestability is at stake.
 
 </details>
@@ -839,11 +839,11 @@ Systems may not undermine the ability of sentients to understand what is happeni
   - [§18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
   - Especially
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
-    - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
-    - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
+    - [Article XIV: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems),
+    - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+    - [Article XVI-D: Scientific Publication, Review, and Replication Integrity](core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity),
+    - [Article XXV: Root Cause Analysis and Adaptive Response](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response), and
+    - [Article XXVII-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure).
 - Read with: [Chapter Twenty-Four §2.2 — Technical Forum Domains](core_24.000_forum_families_escalation_timeliness_support.md#22-technical-forum-domains) (24.000 §2.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-23.440](corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
@@ -913,8 +913,8 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 - Downstream: Rights surface:
   - [Article VI-D: Accessibility](core_06.010_rights_part_b.md#article-vi-d-accessibility),
   - [Article IV: Right to Sentient-Centered Education](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-  - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+  - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+  - [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 - Cross-reference: layering used to evade oversight is also reached by [Chapter Twenty §4.4 Anti-Evasion and Look-through Authority](core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority) (20.000 §4.4), which applies to standing and forum enforcement.
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02.000_definition_structure.md](core_02.000_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order):
@@ -982,7 +982,7 @@ Under [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpre
 - Organize text so sentients can find what they need and read it without extra effort. This supports the learning interest recognized in [Article IV](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Right to Sentient-Centered Education*).
 - Keep complexity in proportion to what the communication has to say.
 
-Complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect under [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden). It is also a concern under [Article XXIII](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+Complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect under [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden). It is also a concern under [Article XXIV](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 Definitional Rigor Preserved
@@ -997,7 +997,7 @@ Writing something in simpler language does not change what it means. If a plain-
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 Complexity-as-Defeat Discipline
 
-Systems may not use complicated language, confusing procedures, or deliberate obscurity to stop sentients from [contesting](core_05.035_band_accountability.md#contestability) decisions, using their [meaningful agency](core_05.055_band_participation.md#meaningful-agency), getting to [audits](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) rights.
+Systems may not use complicated language, confusing procedures, or deliberate obscurity to stop sentients from [contesting](core_05.035_band_accountability.md#contestability) decisions, using their [meaningful agency](core_05.055_band_participation.md#meaningful-agency), getting to [audits](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) rights.
 
 The same holds for structure, not only language. Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. Components, handoffs between organizations, agreements, or procedural steps may not be stacked so that no one can see through them, or so that responsibility, observability, or the path to a remedy is lost between the layers.
 
@@ -1006,7 +1006,7 @@ The opposite is also forbidden. Plain language must not misstate what a rule rea
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 Rights-Floor Boundary
 
-The Rights Floors for accessibility, education, and comprehensibility live in [Article VI-D](core_06.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*), [Article IV-A](core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*), and [Article XXIII](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in [Article VI-D](core_06.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*), [Article IV-A](core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*), and [Article XXIV](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 6. Trust and Trustworthiness (Coordination Integrity)
 <details>
@@ -1026,11 +1026,11 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
   - Especially
     - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
-    - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
-    - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status), and
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+    - [Article XIV: Right to Reliable and Trustworthy Systems](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems),
+    - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity),
+    - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+    - [Article XX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xx-standing-and-participation-status), and
+    - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six context where reliance, legitimacy, or contestability is at stake.
 
 </details>
@@ -1073,7 +1073,7 @@ Trust fails when reliance is built or kept through suppression, deception, hidde
 
 Trust also rests on what happens when a system fails. A trustworthy system fixes what it gets wrong: [§6.1 Correction and Remedy](#61-correction-and-remedy) makes correction part of Trust, not an afterthought.
 
-Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [seek redress](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and to [have it audited](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XIII](core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) states how the two combine.
+Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [seek redress](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) and to [have it audited](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XIV](core_06.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) states how the two combine.
 
 #### 6.1 Correction and Remedy
 <details>
@@ -1082,7 +1082,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00.000_preamble.md#material-stake) scaling for remedy depth.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
 - Upstream: Principles: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), and [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (20.000 §4) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
+- Downstream: [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (20.000 §4) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
 
 </details>
 
@@ -1130,7 +1130,7 @@ That correction must be real:
 - **In time:** Remedy that arrives only after harm has become irreversible, or after the sentient has been worn down into giving up, is not remedy (see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution)).
 - **Borne by those responsible:** The cost of correction is not shifted onto those harmed, their communities, or public remedy systems where the responsible actors can bear it. Expense, restructuring, or succession does not by itself end the duty.
 
-The right to this correction is stated in [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) applies this principle to standing consequences, and [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
+The right to this correction is stated in [Article XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) applies this principle to standing consequences, and [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -1141,7 +1141,7 @@ The right to this correction is stated in [Article XIII-B](core_06.020_rights_pa
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (this chapter develops **meaningful agency**); **Continuity** aim (bounded agency that preserves durable, contestable constitutional systems).
 - Read with: [Voluntary Discontinuation](core_05.040_band_continuity.md#voluntary-discontinuation), Chapter Five §2 *Agency, consent, and anti-coercion*, and [Assembly, Collective Organization, and Institutional Formation](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation).
 - Read with: [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) and [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
-- Read with: [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
+- Read with: [§11 Market Structure](core_01.010_values_principles_continuity_aim.md#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), and [Article XXII: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) and
   - [Chapter Nine §4.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint) (9.000 §4.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
@@ -1170,8 +1170,8 @@ The right to this correction is stated in [Article XIII-B](core_06.020_rights_pa
     - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06.010_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction),
     - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process),
-    - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status), and
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+    - [Article XX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xx-standing-and-participation-status), and
+    - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six Rights Floor context where agency is limited or claimed.
 
 </details>

@@ -66,7 +66,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
+- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §13.2, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -260,7 +260,7 @@ Transparency, audit, and verification-integrity duties
 - Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)**).
 - Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*); **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
 - Read with: **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** — what / why / how / when; this section is the machine-facing annex only
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
+- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*) (*transparency levels and audit-access terms* — annex for access levels and audit-output disclosure)
 - Read with: **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
@@ -396,7 +396,7 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5)**
 - Read with: [CF-23.450](../corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*) through [CF-23.460](../corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*) — forum continuity, fallback operation, and emergency adjudication.
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands, and [CS-6.305 Part A §5.3 Transparency levels and audit access](../corpus_systems/cs_06.305_information_types_and_handling.md#53-transparency-levels-and-audit-access) / [§7](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -605,7 +605,7 @@ Access-level structure and baseline accessibility
 
 - Read with: **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*).
 - Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** (*audit process home*)
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
+- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).

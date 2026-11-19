@@ -23,11 +23,11 @@ class SemanticRuleGuardTests(unittest.TestCase):
         return {
             "V": "Resource Allocation, Dependencies, and Ecosystem Funding",
             "VI": "Equal Basic Rights",
-            "XVII": "System Lifecycle, Environments, and Reversibility",
-            "XIX": "Standing and Participation Status",
-            "XXIII": "Comprehensibility and Complexity Stewardship",
-            "XXIV": "Root Cause Analysis and Adaptive Response",
-            "XX": "Justice After Verified Violation",
+            "XVIII": "System Lifecycle, Environments, and Reversibility",
+            "XX": "Standing and Participation Status",
+            "XXIV": "Comprehensibility and Complexity Stewardship",
+            "XXV": "Root Cause Analysis and Adaptive Response",
+            "XXI": "Justice After Verified Violation",
         }
 
     def test_shipped_rules_match_the_live_corpus(self) -> None:

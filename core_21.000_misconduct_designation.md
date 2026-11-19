@@ -29,7 +29,7 @@
 > - **Chapters Two through Four:** supply record, custody, traceability, and verification discipline for the evidence used here.
 > - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 > - **Chapter Twenty-Three:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
-> - **Chapter Six:** supplies the Rights Floor, **Article XX-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XX-A** (*Justice Objective and Scope*) review and publication safeguards.
+> - **Chapter Six:** supplies the Rights Floor, **Article XXI-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XXI-A** (*Justice Objective and Scope*) review and publication safeguards.
 > - **Chapter Twenty-Seven:** supplies governance legitimacy consequences tied to a final Chapter Twenty-One designation.
 > - **Chapters Twenty-Eight through Thirty:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Twenty-One designation.
 >
@@ -374,8 +374,8 @@ because the underlying impact is already slot 9, not because character somehow r
   - [§6.2](core_22.000_misconduct_pattern_applications.md#62-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure Denial, Destruction, or Dependency Cutoff Conduct*);
   - [§7](core_22.000_misconduct_pattern_applications.md#7-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
 - Downstream: [§6.1](#61-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*); [§6.2](#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*); [§6.3](#63-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-- Forum discipline: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) and [Chapter Twenty-Four §3 Escalation and Questions for Ruling](core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 6** with **Article XX** (*Justice After Verified Violation*) in **Chapter Six**.
-- Read with: [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02.000_definition_structure.md) tracing standards for publication; [Chapter Nineteen §2](core_19.000_violation_consequences.md#2-violation-correction-and-prevention) (19.000 §2) (*Violation, Correction, and Prevention*) for the general remedy → locks → expression grammar this section specializes.
+- Forum discipline: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) and [Chapter Twenty-Four §3 Escalation and Questions for Ruling](core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 6** with **Article XXI** (*Justice After Verified Violation*) in **Chapter Six**.
+- Read with: [Article XXI-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02.000_definition_structure.md) tracing standards for publication; [Chapter Nineteen §2](core_19.000_violation_consequences.md#2-violation-correction-and-prevention) (19.000 §2) (*Violation, Correction, and Prevention*) for the general remedy → locks → expression grammar this section specializes.
 
 </details>
 
@@ -436,9 +436,9 @@ Chapter Seventeen remains the owner of general remedy, lock design and enforceme
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) forum routing and certification.
 - Read with:
   - [Chapter Nineteen §2.1](core_19.000_violation_consequences.md#21-remedy-and-correction) (19.000 §2.1) (*Remedy and Correction*);
-  - [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*Justice Objective and Scope*);
-  - [Article XX-B](core_06.030_rights_part_d.md#article-xx-b-restriction-floors) (*restitution, remediation, rehabilitation, accountable attribution, duration, review, and restoration*);
-  - [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
+  - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);
+  - [Article XXI-B](core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*restitution, remediation, rehabilitation, accountable attribution, duration, review, and restoration*);
+  - [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
 
 </details>
 
@@ -476,7 +476,7 @@ After final designation under **section 5** with **section 6** safeguards met, [
   - [Chapter Nineteen §2.2](core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (19.000 §2.2) (*Prevention — General Standing Locks*);
   - [Chapter Nineteen §3.1](core_19.000_violation_consequences.md#31-definition-and-attachment) (19.000 §3.1) (*Definition and Attachment*);
   - [Chapter Nineteen §3.4.5](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) (19.000 §3.4.5) (*Coercive or Liberty-Restricting Safeguards*);
-  - [Article XX-B](core_06.030_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements, **Imprisonment for violence**, and duration, review, restoration, and re-evaluation discipline*);
+  - [Article XXI-B](core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*joint requirements, **Imprisonment for violence**, and duration, review, restoration, and re-evaluation discipline*);
   - [Chapter Nineteen §3.4.5](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) (19.000 §3.4.5) (*Required imprisonment for verified violence*).
 
 </details>
@@ -489,7 +489,7 @@ After final designation under **section 5** with **section 6** safeguards met:
 
 - **Mandatory special lock:** Chapter Seventeen must attach the **Anti-Constitutional Trust Lock** under [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Seventeen.
 - **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two permanent-lock grounds under [Chapter Twenty §3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment). Where a final ACMD rests on it and a dissolution order ends a Chartered Party, the order records the pervasive-conduct ground and the Dissolution Reformation Lock under [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) is permanent. This chapter adds no other permanent lock and does not restate the rule.
-- **Imprisonment:** [Chapter Nineteen §3.4.5 Coercive or Liberty-Restricting Safeguards](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) governs imprisonment, including the **Article XX-B** (*Restriction Floors*) requirements and the lock attachment fields. For verified anti-constitutional misconduct it adds this trigger: sentients must be imprisoned when imprisonment is necessary to stop further constitutional harm, including conduct that functions as insurgency within the general population.
+- **Imprisonment:** [Chapter Nineteen §3.4.5 Coercive or Liberty-Restricting Safeguards](core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards) governs imprisonment, including the **Article XXI-B** (*Restriction Floors*) requirements and the lock attachment fields. For verified anti-constitutional misconduct it adds this trigger: sentients must be imprisoned when imprisonment is necessary to stop further constitutional harm, including conduct that functions as insurgency within the general population.
   - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
   - It applies to repeated or sustained patterns assessed as a unified incident under **section 4**.
   - **Section 4** decides whether the misconduct is verified and how serious it is; this bullet decides whether imprisonment is required as a liberty-restricting safeguard.
@@ -506,7 +506,7 @@ After final designation under **section 5** with **section 6** safeguards met:
   - [§6.1](#61-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*);
   - [§6.2](#62-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*).
 - Downstream: [§2](core_22.000_misconduct_pattern_applications.md#2-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Chapter Nineteen §2.3](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression) (19.000 §2.3) (*Voluntary Public Accountability Expression*); [Article XX-B](core_06.030_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements*); [Article XXVI-B](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
+- Read with: [Chapter Nineteen §2.3](core_19.000_violation_consequences.md#23-voluntary-public-accountability-expression) (19.000 §2.3) (*Voluntary Public Accountability Expression*); [Article XXI-B](core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*joint requirements*); [Article XXVII-B](core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
 
 </details>
 

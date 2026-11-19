@@ -31,13 +31,13 @@ See: [Chapter Nine](../../../core_09.000_system_alignment_certification_evaluati
 - **Today:** A safety badge, a score, or “the model is aligned” is used to say you are (or are not) someone this Constitution covers.
 - **With this Constitution:** Certification does not decide whether you count. A fair hearing on whether you count lives elsewhere.
 
-See: [Article VI-B](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination).
+See: [Article VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination).
 
 **The check is one large audit, not the only audit.**
 - **Today:** If the certification file is pretty, no one else may look.
 - **With this Constitution:** The audit floor still applies. Chapter Nine is one large process under it, not a way to close every other check.
 
-See: [Article XVI](../../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+See: [Article XVII](../../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 
 ## What to open next
 

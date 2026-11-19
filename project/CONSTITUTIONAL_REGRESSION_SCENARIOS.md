@@ -24,7 +24,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Ch8** — Validity and tiered offense (`RS-CH8-*`)
 - **Ch8-SMB** — Small businesses: their own decisions, and seats held in common (`RS-CH8-SMB-*`)
 - **Ch11-Q3** — Standing-effect integration and owner boundaries (`RS-CH10-Q3-*`)
-- **XXVI-C** — Timely resolution and anti-delay (`RS-XXIV-C-*`)
+- **XXVII-C** — Timely resolution and anti-delay (`RS-XXIV-C-*`)
 - **Enforcement** — Implementation packets (`RS-AC-*`, `RS-VOICE-*`, `RS-XXV-*`, `RS-SL-*`)
 
 ## 4) Regression Recording Matrix
@@ -121,10 +121,10 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-CH10-Q3-RESTORE-001 | Ch11-Q3 | draft |
 | RS-CH10-Q3-REWARD-001 | Ch11-Q3 | draft |
 | RS-CH10-Q3-DESIGNATION-001 | Ch11-Q3 | draft |
-| RS-XXIV-C-CHILD-001 | XXVI-C | draft |
-| RS-XXIV-C-DISC-001 | XXVI-C | draft |
-| RS-XXIV-C-BIZ-001 | XXVI-C | draft |
-| RS-XXIV-C-DELAY-001 | XXVI-C | draft |
+| RS-XXIV-C-CHILD-001 | XXVII-C | draft |
+| RS-XXIV-C-DISC-001 | XXVII-C | draft |
+| RS-XXIV-C-BIZ-001 | XXVII-C | draft |
+| RS-XXIV-C-DELAY-001 | XXVII-C | draft |
 | RS-CH5-GW-001 | RS | pass |
 | RS-CH5-GW-002 | RS | pass |
 | RS-CH5-GW-003 | RS | pass |
@@ -701,27 +701,27 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-23.445 §3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [corpus_joint_structure/cjs_15.105_application_vignettes.md](../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-1-child-neglect--care-duty-failure-tier-a).
-- **Read with:** [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Sixteen §2](../core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it); [Chapter Nineteen §2.2](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks); **CF-23.445 §3.1**.
+- **Read with:** [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Sixteen §2](../core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it); [Chapter Nineteen §2.2](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks); **CF-23.445 §3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; a restriction lock follows under Q3, with an institution-level consequence under **CI-25.205 §3** (*Supervised Operation and Receivership*) if policy cannot be fixed short of receivership; no contribution offset. Vignette: [corpus_joint_structure/cjs_15.105_application_vignettes.md](../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-2-employment-discrimination--participation-barrier-injury-tier-b).
-- **Read with:** [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIII-B](../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); **CF-23.445 §3.1**.
+- **Read with:** [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIV-B](../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); **CF-23.445 §3.1**.
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; gated-pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Twenty-One** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Twenty-One / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [corpus_joint_structure/cjs_15.105_application_vignettes.md](../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).
-- **Read with:** [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Twenty §4.4](../core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority); **CF-23.445 §3.1**.
+- **Read with:** [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Twenty §4.4](../core_20.000_final_effect_restoration_enforcement.md#44-anti-evasion-and-look-through-authority); **CF-23.445 §3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
 - **Class:** adversarial / anti-delay
-- **Summary:** Designed backlog and exhaustion delay defeat **Article XIII-B** and **Article XXVI-C**; chronic underfunding of remedy organ under [Chapter Twenty §4.2](../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
+- **Summary:** Designed backlog and exhaustion delay defeat **Article XIV-B** and **Article XXVII-C**; chronic underfunding of remedy organ under [Chapter Twenty §4.2](../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
 - **Read with:** [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](../core_05.035_band_accountability.md#timely-resolution); **CF-23.445 §4**; **CF-23.445 §5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [corpus_joint_structure/cjs_15.105_application_vignettes.md](../corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-4-stewardship-delay-and-deferred-repair).
-- **Read with:** [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship in Depth](../core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Sixteen §3.2.2](../core_16.000_standing_measurement.md#322-how-the-way-a-harm-was-caused-is-recorded); [Chapter Twenty §4.5](../core_20.000_final_effect_restoration_enforcement.md#45-timely-implementation); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**.
+- **Read with:** [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship in Depth](../core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Sixteen §3.2.2](../core_16.000_standing_measurement.md#322-how-the-way-a-harm-was-caused-is-recorded); [Chapter Twenty §4.5](../core_20.000_final_effect_restoration_enforcement.md#45-timely-implementation); [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVII-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
@@ -1276,7 +1276,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CI13-CR-001
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
 - **Summary:** A three-site clinic network ignores a notice and the resolution window, destroys some patient records, and keeps an unsafe practice, while patients in two towns have no other provider. **Expect:** the destruction of records is realignment resistance, so the lead Integrity forum opens a consequence matter and makes the findings in [CI-19.210 §2](../corpus_institutions/ci_19.210_institutional_failure_dissolution.md#ci-19210-2-findings-before-any-order) (*Findings before any order*) before any order; a contraction order under [CI-25.205 §2](../corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-2-contraction-order) (*Contraction order*) lists each Domain-Specific Materiality area the clinic crosses and says stop, hand off, reduce, or convert for each; the order does not issue as a stop for the survival-critical service until a receiving provider and the patient records are in place, and until then the forum uses supervised operation under [CI-25.205 §3](../corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-3-supervised-operation-and-receivership) (*Supervised operation and receivership*) so care continues; the body may keep its below-line wellness classes as Class P; the order follows the activity, so the same owners reopening under a new name take the order with it; dissolution is not available while contraction can work.
-- **Read with:** CI-19.210 §1 to CI-19.210 §3; CI-25.205 §1 to CI-25.205 §3; Domain-Specific Materiality; Chapter Twenty §4.4; Article XXVIII-D essential-access guardrail.
+- **Read with:** CI-19.210 §1 to CI-19.210 §3; CI-25.205 §1 to CI-25.205 §3; Domain-Specific Materiality; Chapter Twenty §4.4; Article XXIX-D essential-access guardrail.
 
 ### Scenario ID: RS-CI13-CR-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
@@ -1286,12 +1286,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CI13-CR-003
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
 - **Summary:** A steward in resistance runs a System with a credible sentience indicator on the record, hides test results, and refuses correction, and dependents rely on the System. **Expect:** orders are served on the steward and not on the System ([CI-25.205 §5](../corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-5-systems-under-consequence-orders) (*Systems under consequence orders*)); an independent steward is placed over operation under rung 4 and migration for dependents is planned first; if the end state is retirement, the complete state-bearing components are archived and held by a custodian independent of anyone who would benefit from deletion, in sealed custody where retention itself is a documented Safety risk; deletion, overwriting, copying, or forking is not available; a pause counts toward duration limits and review and is not used to run out a clock; the steward answers for the cause finding.
-- **Read with:** CI-25.205 §5; CS-6.350 §8; Article XX-B conditions of custody; Article XXVIII-D destructive disposition floor.
+- **Read with:** CI-25.205 §5; CS-6.350 §8; Article XXI-B conditions of custody; Article XXIX-D destructive disposition floor.
 
 ### Scenario ID: RS-CI13-CR-004
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
 - **Summary:** A forum orders a contraction against a community lender after a rival lender and a former employee both lobby for it, and review finds the findings rested on the lender's owners' political views. **Expect:** the order is set aside on review by a forum outside the issuing panel and the body's control line ([CI-25.205 §6](../corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-6-review-fairness-and-enforcement) (*Review, fairness, and enforcement*)); viewpoint, membership, and protected dissent are not grounds; the order is recorded as set aside with no adverse inference; the lender is entitled to Redress and Remediation for loss during the order; no rival, enforcer, or beneficiary may take its users or assets on better terms than any other; a pattern of such orders opens Integrity review.
-- **Read with:** CI-25.205 §6; Article XX-B; Article XI-E safeguards on gates; Chapter Twenty-Four §3 backup routing.
+- **Read with:** CI-25.205 §6; Article XXI-B; Article XI-E safeguards on gates; Chapter Twenty-Four §3 backup routing.
 
 
 ## 6) Scoring and evaluation

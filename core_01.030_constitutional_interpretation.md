@@ -48,7 +48,7 @@ Chapter One, Part D is the constitutional owner of **constitutional interpretati
   - [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) and
   - [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders) (30.000) (*non-regression and adopter hierarchy gates under
   - [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
-- Read with: [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
+- Read with: [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
 - Read with: [Chapter Eight: Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
 
 </details>

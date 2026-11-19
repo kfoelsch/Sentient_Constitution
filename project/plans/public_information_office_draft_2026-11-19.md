@@ -19,7 +19,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > **Existing text that would change when this is placed (not edited yet):**
 > - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) would route commissioning through this office's research intake.
 > - [CF-23.430](../../corpus_forum/cf_23.430_forum_forensic_analytical_support.md) (*Forum forensic and analytical support*) stays the home for case-specific forensic and analytical support. This office handles research that goes beyond a single case, and the boundary would be written into both texts.
-> - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and [Article XV-D](../../core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity) would govern the office's own publications.
+> - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) would govern the office's own publications.
 > - **CS-6.305** and **CS-6.310** govern how the office handles each data type; this chapter adds no data type.
 >
 > **Move log.** No move number is taken yet; coordinated with the "Work through TODO decisions" thread when this draft enters the corpus.
@@ -112,10 +112,10 @@ This section explains the reasons for the chapter. It is non-operative: the bind
   - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties); and
   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
 - Chapter Six Articles:
-  - [Article XVI](../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - [Article XVI-A](../../core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
-  - [Article XV-D](../../core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*); and
-  - [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*).
+  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XVII-A](../../core_06.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
+  - [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*); and
+  - [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*).
 
 **The problem it answers.** Forums, governing bodies, and the public all rely on figures about wellbeing, access, the economy, and how constitutional bodies are performing. Forums sometimes need research that no single case can pay for or answer. Before this chapter, no one was charged with producing those figures and that research independently. That leaves three failures easy:
 
@@ -196,7 +196,7 @@ Everything the office publishes carries:
 - data or lawful access limits; and
 - a searchable record of corrections and retractions.
 
-The office's publications meet [Article XV-D](../../core_06.020_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
+The office's publications meet [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
 
 ### 7. Information Handling and Privacy
 
@@ -212,7 +212,7 @@ The office handles each data type under **CS-6.305** and **CS-6.310**. In additi
 
 *In plain terms: no one may change, hide, delay, or time a number or a finding because of what it says.*
 
-The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to the office and its researchers, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*). In addition, the office, the governing authority, the Public Finance Office, every forum, and every funder must not:
+The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office and its researchers, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*). In addition, the office, the governing authority, the Public Finance Office, every forum, and every funder must not:
 
 - alter, suppress, delay, or time the release of a figure or finding because of what it shows;
 - reward or punish a researcher, methodologist, or official for a result;

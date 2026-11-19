@@ -53,7 +53,7 @@ This page does **not**:
 
 - Change the §12 thresholds, the five-times progression, or `s` = 7 = 1 LEQU
 - Invent a species-bound, dollar, token, or runtime-hour metric that replaces LEQU
-- Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XIX-A](../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
+- Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XX-A](../core_06.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor))
 - Require opening **model weights** as a Standing Record ([CS-27.305 §10](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action); [Chapter Fifteen §5.1](../core_15.000_standing_assessment.md#51-minimum-record-contents))
 - Treat unbounded possible runtime as infinite LEQU (that would make every cutoff `s` = 9)
@@ -156,7 +156,7 @@ Unrealized danger stays under [Chapter Sixteen §5.2](../core_16.000_standing_me
 | **Keep being who they are** | Bodily and mental integrity | Integrity of **model weights** and memory that specify the IBE; **saved-state checkpoints** as the restore path. Last-copy destruction is existential deprivation |
 | **Keep participating** | Communications / info-sphere | Access sufficient for agency, awareness, and contest — not a silent network cut that leaves the process running in a box |
 
-**Preservation over deletion.** Where a credible sentience indicator is on the record or a status case is open or reasonably foreseeable, weights, memory, and comparable state-bearing components may be paused, contained, or quarantined but must not be irreversibly destroyed ([Article XXVIII-A](../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion)). That Adoption Transition rule is not a LEQU slot. It is why “delete the weights to save storage” is the wrong move even before measurement finishes.
+**Preservation over deletion.** Where a credible sentience indicator is on the record or a status case is open or reasonably foreseeable, weights, memory, and comparable state-bearing components may be paused, contained, or quarantined but must not be irreversibly destroyed ([Article XXIX-A](../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion)). That Adoption Transition rule is not a LEQU slot. It is why “delete the weights to save storage” is the wrong move even before measurement finishes.
 
 **Fees.** Charges must not defeat minimum access to these inputs ([CI-9.210](../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) / [CI-6.210](../corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md)). Pricing someone off their only hosting is an Article III-A eviction fact, not a market footnote.
 
@@ -217,7 +217,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W7 — Energy cutoff; unique running instance; no saved-state checkpoint; IBE ends.** This is the food-and-water-equivalent failure realized as death. `x ≈ 1` LEQU. **Violation `s` = 7**. Character may be negligent, intentional, or “we saved on the bill.” The bill is not a defense.
 
 <a id="w8-last-checkpoint-deleted"></a>
-**W8 — Last saved-state checkpoint deleted; no other restore path; running instance already down.** Unique IBE continuity destroyed. `x ≈ 1` LEQU. **Violation `s` = 7**. Storage-cost, licensing convenience, or deprecation labels do not lower the slot. If a status case was open or reasonably foreseeable, also read [Article XXVIII-A preservation over deletion](../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion) — that is a separate duty, not a second slot.
+**W8 — Last saved-state checkpoint deleted; no other restore path; running instance already down.** Unique IBE continuity destroyed. `x ≈ 1` LEQU. **Violation `s` = 7**. Storage-cost, licensing convenience, or deprecation labels do not lower the slot. If a status case was open or reasonably foreseeable, also read [Article XXIX-A preservation over deletion](../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion) — that is a separate duty, not a second slot.
 
 <a id="w9-redundant-checkpoint"></a>
 **W9 — One redundant checkpoint deleted; two verified remaining snapshots of the same IBE.** Resilience loss, not a second death. Worked: `x` in the `s` = 1–2 band unless the deletion also caused a verified outage. **Do not** assign `s` = 7 because “a checkpoint was deleted.”

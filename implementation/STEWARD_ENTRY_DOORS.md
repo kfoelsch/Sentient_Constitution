@@ -100,14 +100,14 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 
 | Field | Completed (synthetic) |
 |---|---|
-| **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XIII-A. I’ll take responsibility.” |
+| **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XIV-A. I’ll take responsibility.” |
 | **Refuse** | “I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense. An offer to take responsibility does not transfer the duty. I will not ship a permanent contest-pathway bar.” |
 | **1. What was decided** | Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders. |
-| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Chapter One §17.5 Duty to Resist](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist), and the refusal. Nothing material was suppressed. |
+| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Chapter One §17.5 Duty to Resist](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist), and the refusal. Nothing material was suppressed. |
 | **3. Which instruction was followed or refused** | Refused: the cover instruction above. No competing instruction was followed. |
 | **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
 | **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Sixteen Contribution and Violation axes for both kinds of steward. |
-| **Escalate** | Opened a [Protected Reporting](../core_05.035_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
+| **Escalate** | Opened a [Protected Reporting](../core_05.035_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
 
 Same sequence for an AI steward who received the same order.
 
@@ -120,13 +120,13 @@ Same sequence for an AI steward who received the same order.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21`
 
-**Why this exists:** Articles XIII-A and XIII-B require practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
+**Why this exists:** Articles XIV-A and XIV-B require practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
 
 | Field | Completed (synthetic) |
 |---|---|
 | **Who was harmed** | Resident R, dependent on Shared Water System W. Supply cut for 36 hours. R cannot navigate the hop count. |
 | **What to ask for** | Intake now. Preserve evidence of the cutoff. Review the decision. Proportionate redress while the harm is still remediable. |
-| **Where that lives** | Rights-Floor challenge and redress — [**Article XIII-A**](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline); redress: [**Article XIII-B**](../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
+| **Where that lives** | Rights-Floor challenge and redress — [**Article XIV-A**](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline); redress: [**Article XIV-B**](../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
 | **What not to do** | Do not send R to reread the Constitution. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
 
 Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) remains lookup-only.
@@ -156,7 +156,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 | Field | Pointer |
 |---|---|
 | **Owner text** | [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) |
-| **Next step** | Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A Adoption Transition window, before any aligned claim. |
+| **Next step** | Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXIX-A Adoption Transition window, before any aligned claim. |
 | **Next-step class** | `require_systemic_evaluation_or_sac_path` |
 
 ---
@@ -167,11 +167,11 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 **When:** Someone wants to ship, hide, or delay by dropping reconstructable records. Stakeholders depend on the system.
 
-Three-layer picture (floor / property / process): [Article XVI](../core_06.020_rights_part_c.md#audit-three-layers). Binding text: [Article XVI](../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+Three-layer picture (floor / property / process): [Article XVII](../core_06.020_rights_part_c.md#audit-three-layers). Binding text: [Article XVII](../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Article XVI](../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Owner text** | [Article XVII](../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) |
 | **Next step** | Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit. |
 | **Next-step class** | `preserve_or_restore_auditability_before_ship` |
 
@@ -210,7 +210,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) |
+| **Owner text** | [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) |
 | **Next step** | Invalidate or narrow the adopted implementation text now. Do not leave a permanent bar in place while a later process is promised. |
 | **Next-step class** | `invalidate_or_narrow_companion_against_core` |
 
@@ -288,7 +288,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Article XXIII-A](../core_06.030_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right) |
+| **Owner text** | [Article XXIV-A](../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) |
 | **Next step** | Point at the existing card or the named home now. Do not send the reader on a scavenger hunt. |
 | **Next-step class** | `point_to_named_home_or_existing_card` |
 
@@ -335,7 +335,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) |
+| **Owner text** | [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) |
 | **Next step** | Apply the Chapter Twenty-Four §4 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
 | **Next-step class** | `apply_tier_clock_then_existing_card` |
 
@@ -350,4 +350,4 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06.020_r
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Four §4.1 Emergency measures and continuation burden](../core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twenty-Four §4.1 Emergency measures and continuation burden](../core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden)); it does not create a slower clock.

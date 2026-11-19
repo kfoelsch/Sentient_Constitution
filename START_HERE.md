@@ -73,7 +73,7 @@ Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §17.4](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only rulebook ([§17.1](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or exempting humans from the costly cases ([§17.2](core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)).
-- Treating a participation vote, token vote, or standing score as authorization, or as a finding about sentience ([Preamble §3.3](core_00.000_preamble.md#33-governance-layers); [Article XIX-A](core_06.030_rights_part_d.md#article-xix-a-standing-distinction)).
+- Treating a participation vote, token vote, or standing score as authorization, or as a finding about sentience ([Preamble §3.3](core_00.000_preamble.md#33-governance-layers); [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-standing-distinction)).
 - Staffing Chapter Twenty-Three review forums from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
 
 If any "cannot bind" row in the first-adopter kit's [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block describes your situation, do not claim Chapter Twenty-Nine adoption.

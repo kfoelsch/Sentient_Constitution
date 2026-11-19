@@ -4,9 +4,9 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Ten** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§2–§3**, continuing from Chapter Nine §1–§6). **Chapter Nine** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Chapter Eleven** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**Chapter Eleven §2–Chapter Eleven §5**) — is in [`core_11.000_system_alignment_certification_records_recertification.md`](core_11.000_system_alignment_certification_records_recertification.md).
 >
-> - **Constitutional owner (joint with Chapters Nine and Eleven):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
+> - **Constitutional owner (joint with Chapters Nine and Eleven):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Evaluation inputs:** [Chapter Nine §3](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [§6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs that the forums review and that the outcome rests on.
-> - **Anti-relocation rule:** Chapter Ten does not restate Chapter Nine evaluation mechanics, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. The standing bridge is in [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing). Chapter Ten also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
+> - **Anti-relocation rule:** Chapter Ten does not restate Chapter Nine evaluation mechanics, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. The standing bridge is in [Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing). Chapter Ten also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Three forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** [Chapter Eleven](core_11.000_system_alignment_certification_records_recertification.md#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing); Chapter Fifteen Standing Records and verified inputs; Chapter Seventeen standing effects.
@@ -55,7 +55,7 @@ Chapter Ten is the constitutional owner of these parts of system alignment certi
 - It takes the evaluation outputs of **Chapter Nine section 3** through **section 5** as the inputs the forums review and the outcome rests on.
 - It rests on [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (functional independence), [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (forum supervision), and [Chapters Two through Four](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) (verification discipline).
 - It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Eleven.
-- Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) *Auditability*.
+- Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) *Auditability*.
 
 **Chapter scope:** The chapter covers:
 
@@ -66,7 +66,7 @@ The chapter leaves:
 
 - evaluation mechanics to Chapter Nine and canonical definitions to Chapter Five;
 - standing measurement to [Chapter Sixteen](core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) and standing effects to [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows); and
-- ownership of auditing to **Article XVI** (*Audit, Transparency, and Independent Verification*), Def.O1, and CJS-5.110 (*Oversight Leg Operations (oDef.2–oDef.6)*) and CJS-5.115 (*Audit Process Home (oDef.3)*).
+- ownership of auditing to **Article XVII** (*Audit, Transparency, and Independent Verification*), Def.O1, and CJS-5.110 (*Oversight Leg Operations (oDef.2–oDef.6)*) and CJS-5.115 (*Audit Process Home (oDef.3)*).
 
 The standing bridge is **Chapter Eleven section 5**.
 
@@ -101,8 +101,8 @@ The standing bridge is **Chapter Eleven section 5**.
   - **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*),
   - **CF-23.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), and
   - **CF-23.440** (*Technical specialist forums and specialist chambers*);
-  - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
-  - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*).
+  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
+  - [Article XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*).
 - Subsections:
   - [§2.1](#21-forum-supervision-and-component-roles) (*forum component roles*, with
   - [§2.1.1 Four Seats in a Certification](#211-four-seats-in-a-certification) and
@@ -248,8 +248,8 @@ Where an institution is involved, Institutional Forums:
   - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*);
   - **Article VI-C** (*Nondiscrimination*);
   - **Article VI-D** (*Accessibility*);
-  - **Article XIII** (*Right to Reliable and Trustworthy Systems*); and
-  - **Article XIII-A** (*Reliability and Trustworthiness Baseline*), with [**Safe Conditions**](core_05.040_band_continuity.md#safe-conditions).
+  - **Article XIV** (*Right to Reliable and Trustworthy Systems*); and
+  - **Article XIV-A** (*Reliability and Trustworthiness Baseline*), with [**Safe Conditions**](core_05.040_band_continuity.md#safe-conditions).
 
 <a id="217-constitutional-and-other-regular-forum-families"></a>
 
@@ -369,7 +369,7 @@ There are four paths, which [Chapter Eleven §4.2 Contestability Paths](core_11.
 - preserve evidence; or
 - prevent irreversible dependence on a contested finding.
 
-Review begins inside the **prompt-review window** ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)) under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+Review begins inside the **prompt-review window** ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)) under [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 <a id="24-anti-bypass"></a>
 
@@ -552,7 +552,7 @@ These rules apply to the notice interval.
 - The interval must scale to system class, material impact, and dependency. It must also scale to the time affected sentients reasonably need to understand the outcome, file a challenge, and seek interim protection before reliance becomes irreversible.
 - The forum must state its reasons for the interval. It must identify the receiving authority and the authority able to stay or limit reliance inside the **prompt-review window** ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)). It must also state the applicable tier windows under [§2.3 Contestability Chain](#23-contestability-chain).
 - Filing a challenge does not itself impose an automatic stay. Interim protection is decided under the applicable forum process.
-- The notice interval does not extend challenge-response or review deadlines under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+- The notice interval does not extend challenge-response or review deadlines under [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 **Certification conditions and bounded authorization.** A **certification condition** is a requirement written into a certification outcome that the operator must meet or keep meeting. A conditional certification must distinguish three kinds of requirement:
 
@@ -583,11 +583,11 @@ A certification condition that was not met is not released. Not meeting it has t
 
 If a system was already running when an organization adopted this constitution, it doesn't break the "certify before going live" rule while its published grace period lasts.
 
-- [Article XXVIII-A](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that Adoption Transition window, scaled to the system's class, to bring the system within this chapter.
+- [Article XXIX-A](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that Adoption Transition window, scaled to the system's class, to bring the system within this chapter.
 - The restraint duties in that Article apply from the effective date. The grace period only delays the building work, like getting certified. It does not delay the "must not" rules, and it does not delay the ban on deleting or destroying a possibly sentient system.
 - The exception covers the Adoption Transition period only.
 - A new system, or a material expansion of an operating one, gets no grace period. It must be certified before it goes live, like any other new system (the Go-Live Gate above).
-- If a system's Adoption Transition window ends and it still has neither provisional nor full certification, it has missed its deadline. Unless it has a documented reauthorization showing under [Article XXVIII-B](core_06.040_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*), that is an Adoption Transition milestone failure, and the ordinary compliance and violation path in [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) opens. The gap does not become the new normal by lasting.
+- If a system's Adoption Transition window ends and it still has neither provisional nor full certification, it has missed its deadline. Unless it has a documented reauthorization showing under [Article XXIX-B](core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*), that is an Adoption Transition milestone failure, and the ordinary compliance and violation path in [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) opens. The gap does not become the new normal by lasting.
 
 <a id="312-pilots"></a>
 

@@ -4,9 +4,9 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**§1–§5**). **Chapter Nine** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Chapter Ten** — the **forum process** and the certification **outcomes** with the go-live gate — is in [`core_10.000_system_alignment_certification_forum_process_outcomes.md`](core_10.000_system_alignment_certification_forum_process_outcomes.md).
 >
-> - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
+> - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Inputs:** [Chapter Nine §3](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [§6](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the System Certification Record, and [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) supplies the outcome that completes it.
-> - **Anti-relocation rule:** Chapter Eleven does not restate Chapter Nine evaluation mechanics, Chapter Ten forum-process or outcome rules, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. **§5** states the standing bridge. Chapter Eleven also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
+> - **Anti-relocation rule:** Chapter Eleven does not restate Chapter Nine evaluation mechanics, Chapter Ten forum-process or outcome rules, Chapter Five canonical definitions, Chapter Sixteen standing measurement, or Chapter Seventeen standing effects. **§5** states the standing bridge. Chapter Eleven also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation); [Chapter Ten](core_10.000_system_alignment_certification_forum_process_outcomes.md#chapter-ten-system-alignment-certification--forum-process-and-outcomes); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Three forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** Chapter Fifteen Standing Records and verified inputs; Chapter Seventeen standing effects.
@@ -97,7 +97,7 @@ The chapter leaves:
   - [**Def.O1** *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: [§3](#3-recertification-and-reopening) (*recertification and reopening*); [§5.3](#53-verified-input-gate) (*verified-input gate*); [Chapter Twenty-Three §4](core_23.000_forum.md#4-forum-cases-intakes-seats-records-and-contests) (23.000 §4) (*forum case records, Standing-Record contests*).
 - Read with:
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification);
+  - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
   - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and
   - **CS-6.345** (*System lifecycle*);
@@ -362,12 +362,12 @@ Those findings must reflect what the evaluation actually found, not section titl
 
 <br>
 
-*In plain terms: a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the System Certification Record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§4 Challenging a Certification](#4-challenging-a-certification).*
+*In plain terms: a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the System Certification Record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§4 Challenging a Certification](#4-challenging-a-certification).*
 
 This section applies [Transparency](core_05.050_band_oversight.md#transparency) and [Auditability](core_05.050_band_oversight.md#auditability) to System Certification Records. They are the "reachable" and "reconstructable" parts of [Record Integrity](core_05.035_band_accountability.md#record-integrity), which covers the whole System Certification Record ([§2 System Certification Record](#2-system-certification-record)). Canonical term homes and owner boundaries are in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** put **oversight** into practice; and
-- Record clarity under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) puts **timeliness** into practice, scaled to system class and [material stake](core_00.000_preamble.md#material-stake).
+- Record clarity under [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) puts **timeliness** into practice, scaled to system class and [material stake](core_00.000_preamble.md#material-stake).
 
 **Transparency** — sentients must be able to see what matters:
 
@@ -632,7 +632,7 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
   - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (*the outcome a challenge may contest*);
   - [§2](#2-system-certification-record) (*the System Certification Record that names the challenge paths*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+  - [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 - Downstream: [§3](#3-recertification-and-reopening) (*a credible challenge reopens review*); [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) (*the forum paths for a challenged point*).
 - Subsections:
   - [§4.1](#41-when-the-path-opens) (*when the path opens*); and
@@ -653,7 +653,7 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
 
 This section is part of sub-phase **VIa** of Phase VI (Operate), with [§3 Recertification and Reopening](#3-recertification-and-reopening). It covers how affected parties challenge a System Certification Record. The published record challenge path opens when the outcome is published, as [§4.1 When the Path Opens](#41-when-the-path-opens) says.
 
-Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Contestability](core_05.035_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
+Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Contestability](core_05.035_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
 
 Affected parties must have real ways to challenge the System Certification Record:
 
@@ -682,7 +682,7 @@ Affected parties must have real ways to challenge the System Certification Recor
 When the path opens, and how long it stays open:
 
 - For a system that is not yet operating, the published record challenge path opens when the system's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, before the system goes live under [Chapter Ten §3.1 Go-Live Gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#31-go-live-gate).
-- A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) Adoption Transition window and a later certification pass.
+- A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXIX-A](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) Adoption Transition window and a later certification pass.
 - **Stakeholders** are sentients the system materially affects or who materially rely on it, as found in evaluation and not as identified by the operator.
 - Until the path opens for a system not yet operating, the System Certification Record still names it ([Chapter Ten §2.2 Supervisory Sequence](core_10.000_system_alignment_certification_forum_process_outcomes.md#22-supervisory-sequence)). The component, lead-integrity, and escalation paths in [§4.2 Contestability Paths](#42-contestability-paths) are available throughout review.
 - The path stays open while the system has stakeholders. A system that gains stakeholders after certification reopens review under [§3 Recertification and Reopening](#3-recertification-and-reopening).
@@ -699,14 +699,14 @@ A System Certification Record must name the four challenge paths below, so anyon
 - **Published record challenge path** — the ordinary first step for an ordinary dispute about the System Certification Record. The System Certification Record names the contest seat ([§2.1.1 Four Seats in a Certification](core_10.000_system_alignment_certification_forum_process_outcomes.md#211-four-seats-in-a-certification)):
   - who receives the challenge;
   - how to file it; and
-  - that windows under [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+  - that windows under [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
 
   Internal operator review, vendor attestation, or technical sign-off is not this path.
 - **Component forum path** — for a challenge to one finding in the System Certification Record. It goes to the Chapter Twenty-Three forum family that has authority over that finding.
 - **Lead-integrity path** — for a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon. It goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
 - **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Twenty-Three. That means transfer, sending a question to another forum for ruling, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
 
-Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
+Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
 
 <a id="5-relationship-to-standing"></a>
 

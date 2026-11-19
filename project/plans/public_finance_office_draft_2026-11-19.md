@@ -85,7 +85,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 
 - forum families, their benches, intake triage bodies, registrars, and backup bodies;
 - remedy systems under [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems);
-- oversight, audit, and independent verification bodies under [Article XVI](../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification);
+- oversight, audit, and independent verification bodies under [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
 - research that a forum requests;
 - the Public Information Office; and
 - other programs the governing authority funds through it.
@@ -119,12 +119,12 @@ This section explains the reasons for the chapter. It is non-operative: the bind
   - [§19 Incentive Alignment and System Capture](../../core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture), especially [§19.1.2 What Incentives Must Not Do](../../core_01.050_governance_incentive_application.md#1912-what-incentives-must-not-do) and [§19.3 Misalignment Detection](../../core_01.050_governance_incentive_application.md#193-misalignment-detection); and
   - [§6.1 Correction and Remedy](../../core_01.000_values_principles.md#61-correction-and-remedy).
 - Chapter Six Articles:
-  - [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
-  - [Article XVI](../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - [Article XVI-A](../../core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
-  - [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*);
+  - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XVII-A](../../core_06.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
+  - [Article XIII](../../core_06.010_rights_part_b.md#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*), with [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
   - [Article V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*); and
-  - [Article XXVI-C](../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+  - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 **The problem it answers.** The Constitution already says that forums and remedy systems must be adequately funded, and that chronic underfunding is a failure ([Chapter Twenty §4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability)). It did not say who holds the money, how much each body gets, or what stops the holder from using the budget as a lever. Without that, three failures are easy:
 
@@ -205,9 +205,9 @@ A formula change that would lower the floor of a body with a pending matter agai
 
 ### 5. No Steering by Money
 
-*In plain terms: money can keep a forum running. It must never decide what the forum decides. The general rule against steering by money, gifts, and apparent conflicts lives in Article XII-D; this section adds what is special to the office that holds the purse.*
+*In plain terms: money can keep a forum running. It must never decide what the forum decides. The general rule against steering by money, gifts, and apparent conflicts lives in Articles XIII-C and XIII-D; this section adds what is special to the office that holds the purse.*
 
-**General floor:** The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to the office, the governing authority, and every funder of the office, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*).
+**General floor:** The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office, the governing authority, and every funder of the office, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*).
 
 **Added for this office:** In addition, the office must not:
 
@@ -217,7 +217,7 @@ A formula change that would lower the floor of a body with a pending matter agai
 
 These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) that payoffs and cost rules must not take the place of proper routing or a real merits decision.
 
-**Pattern evidence (added for this office):** Beyond the Article XII-D pattern rule, either of the following is evidence of steering and shifts the burden to the office or the governing authority to show a lawful, published reason:
+**Pattern evidence (added for this office):** Beyond the Article XIII-D (*Funding Integrity*) pattern rule, either of the following is evidence of steering and shifts the burden to the office or the governing authority to show a lawful, published reason:
 
 - funding moves toward bodies whose rulings favor a funder with a material stake; or
 - discretionary money outside the formula grows as a share of the total.
@@ -268,7 +268,7 @@ The office keeps a **public ledger** that shows, for each cycle and each funded 
 - sources of the office's money, including any single source above a published share; and
 - the audit status under §10.
 
-The ledger follows [Article XVI](../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification). Where an item cannot be public, for example because it would identify a protected party, a qualified independent audit path must still exist, and the ledger shows that the item was withheld and why. The Public Information Office publishes an independent check of the ledger's figures.
+The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification). Where an item cannot be public, for example because it would identify a protected party, a qualified independent audit path must still exist, and the ledger shows that the item was withheld and why. The Public Information Office publishes an independent check of the ledger's figures.
 
 ### 9. The Office's Own Funding and the Information Office's Funding
 

@@ -127,7 +127,7 @@ The three subsections below apply the existing Chapter Twenty-One sequence to co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](core_21.000_misconduct_designation.md#4-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Nineteen §3.4.3](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§3.1.2](#312-unconstitutional-contract-term-conduct).
-- Downstream: [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*); [Article XX-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
+- Downstream: [§2.2](core_21.000_misconduct_designation.md#22-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*); [Article XXI-A: Justice Objective and Scope](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
 
@@ -157,7 +157,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 - Includes waiver, disclaimer, or relinquishment of:
   - **Chapter Six** Rights-Floor protections;
-  - interpretation, appeal, or review pathways under **Article XX-A** (*Justice Objective and Scope*);
+  - interpretation, appeal, or review pathways under **Article XXI-A** (*Justice Objective and Scope*);
   - constitutionally required **auditability** or **contestability**; or
   - **standing** needed to vindicate those protections.
 - Covered when the condition works to defeat, narrow, or discourage use of those protections and is not justified by **Necessity** and **Proportionality** (see **Chapter One** and **Chapter Five**).
@@ -179,7 +179,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 **Post-employment mobility-restriction conduct** means either of the following:
 
 - **Non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility.
-- **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XX-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**.
+- **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XXI-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**.
 
 **Retention** or **competitive** convenience **alone** is not a sufficient justification.
 
@@ -189,7 +189,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 Provisions and conditions within [§3.1.1 Rights-Floor Waiver Conduct](#311-rights-floor-waiver-conduct) through [§3.1.3 Post-Employment Mobility-Restriction Conduct](#313-post-employment-mobility-restriction-conduct) are **never binding** and have **no operative effect**.
 
-- They do not defeat, narrow, or foreclose Rights-Floor protections, challenge or **standing** rights, audit or verification rights, or **Article XX-A** (*Justice Objective and Scope*) pathways.
+- They do not defeat, narrow, or foreclose Rights-Floor protections, challenge or **standing** rights, audit or verification rights, or **Article XXI-A** (*Justice Objective and Scope*) pathways.
 - **NDAs** and **confidentiality** terms are **void** and **without operative effect** to the extent they would **suppress** **disclosure** or **cooperation** necessary for **accountability** for **criminal** conduct (including **reporting** to **competent** **criminal** or **oversight** process) or for **anti-constitutional misconduct** within **this chapter’s** scope.
 - Actors must not treat them as lawful authority for selective compliance, evidence destruction, forum shopping, or reincorporation arbitrage.
 
@@ -334,7 +334,7 @@ Evaluators assess these patterns as follows:
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), and
   - [Transparency](core_05.050_band_oversight.md#transparency) in
   - **Chapter Five**.
-- Rights and verification: [Article XI-B: Expression](core_06.010_rights_part_b.md#article-xi-b-expression) and [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
+- Rights and verification: [Article XI-B: Expression](core_06.010_rights_part_b.md#article-xi-b-expression) and [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
 - Implementation context: adopted **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and institutional implementation under **Chapter Thirty-One** where materially relevant.
 
 </details>
@@ -393,7 +393,7 @@ The following are non-exhaustive examples of in-scope means:
 
 **Operational response** remains governed by those documents and adopted owner layers, including:
 - Rights-Floor implementation under **Chapter Six**;
-- **Article XVI** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
+- **Article XVII** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
 - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** handling where designated; and
 - institutional governance under **Chapter Thirty-One**.
 
@@ -700,7 +700,7 @@ Personal accountability for creating or enabling violations must remain:
 - contestable; and
 - proportionate
 
-under **Article XX** (*Justice After Verified Violation*) and **Chapters Two through Four**.
+under **Article XXI** (*Justice After Verified Violation*) and **Chapters Two through Four**.
 
 <a id="424-exclusions"></a>
 
@@ -801,7 +801,7 @@ The three subsections below apply the same sequence to conduct in which the acco
   - [System Capture](core_05.040_band_continuity.md#system-capture), and
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint);
   - [Chapter Nineteen §3.4.2 Misaligned Rewards](core_19.000_violation_consequences.md#342-misaligned-rewards) (19.000 §3.4.2), subject to
-  - [Article XXVIII-A](core_06.040_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment Adoption Transition carve-out during the Adoption Transition.
+  - [Article XXIX-A](core_06.040_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment Adoption Transition carve-out during the Adoption Transition.
 
 </details>
 
@@ -915,7 +915,7 @@ A reward, protection, or normalization pathway within [§5.1 Reward, Protection,
 - accountable attribution; or
 - any other accountability pathway functionally equivalent to these.
 
-Where proportionate and lawful, disputed rewards must be subject to any of the following while preserving due process, third-party reliance limits, and **Article XX** (*Justice After Verified Violation*) safeguards:
+Where proportionate and lawful, disputed rewards must be subject to any of the following while preserving due process, third-party reliance limits, and **Article XXI** (*Justice After Verified Violation*) safeguards:
 - suspension;
 - separate holding;
 - clawback;
@@ -1164,8 +1164,8 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 - Upstream:
   - [Chapter Nineteen §3.5](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*forum disclosure omission and recusal-process impact*);
-  - [Article XXV-C](core_06.030_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum recusal and enforcement routing*), applying the general floor in
-  - [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*);
+  - [Article XXVI-C](core_06.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum recusal and enforcement routing*), applying the general floor in
+  - [Article XIII-A](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
   - **CF-23.410** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Twenty-Three §3](core_23.000_forum.md#3-default-venue-and-primary-stakes) (23.000 §3) (*Integrity default lead*); [Chapter Twenty-Three §5](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (23.000 §5) (*cross-forum anti-self-judging rule*).
 - Read with:
@@ -1224,7 +1224,7 @@ Forum recusal failure and biased panel participation means either:
 
 ##### 5.3.2 Constitutional Forum Panels
 
-The pattern is especially heightened where the panelist sits on a **Constitutional Forum** under **Article XXV-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
+The pattern is especially heightened where the panelist sits on a **Constitutional Forum** under **Article XXVI-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
 - constitutional meaning;
 - validity review; or
 - a class-wide structural remedy, meaning one that changes how governance works for a whole class of actors or systems.
@@ -1251,7 +1251,7 @@ Evaluators assess these patterns as follows:
 
 [§5.3 Forum Recusal Failure and Biased Panel Participation](#53-forum-recusal-failure-and-biased-panel-participation) does **not**:
 - convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
-- relocate panel-formation mechanics from **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Twenty-Three**, or **Article XXV-C** (*Constitutional Forum Independence and External Review*).
+- relocate panel-formation mechanics from **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Twenty-Three**, or **Article XXVI-C** (*Constitutional Forum Independence and External Review*).
 
 It routes evaluation of the named pattern into the existing ACMD criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Twenty-Three**.
 
@@ -1328,8 +1328,8 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 - Rights and systems context:
   - [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*),
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
-  - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*),
-  - [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted
+  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*),
+  - [Article XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted
   - **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§6.1](#61-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§4.2](#42-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§5.2](#52-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Topic routing (mandatory read-with): [Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks) (19.000 §3.5) (*Question 3 gated-pathway lock routing for infrastructure denial or dependency cutoff — general locks only*).

@@ -58,7 +58,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Who counts (comparator):** “All human beings are born free and equal in dignity and rights.” — UDHR Art. 1
 
-**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
+**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
 
 **Contested default (comparator):** “Because the writ of habeas corpus is intended to protect the liberty right of human beings to be free of unlawful confinement, it has no applicability to Happy, a nonhuman animal who is not a ‘person’ subjected to illegal detention.” — *Breheny*, 38 NY3d at 565–566
 
@@ -108,7 +108,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05.040_band_continuity.md#ecological-integrity)
 
-**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
+**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 
 ### Steelman
 
@@ -129,10 +129,10 @@ Calling this a Rights-of-Nature constitution is false. Calling it a weak environ
 - **Test 1 non-regression** can kill an amendment that procedure would pass, including indirect narrowing.
 - **Certification-before-standing:** a certification record does not apply standing effects.
 - **Cross-forum anti-self-judging:** a forum family cannot be the sole final merits forum for claims about its own capture or bias.
-- **Auditability as a Rights Floor** (Article XV) plus CJS-5.110 §3 and CJS-5.115 §3 as the how/when home.
+- **Auditability as a Rights Floor** (Article XVI) plus CJS-5.110 §3 and CJS-5.115 §3 as the how/when home.
 - **Duty to resist** unlawful or unconstitutional instructions ([Chapter Nineteen §3.4.3](../../core_19.000_violation_consequences.md#343-duty-to-resist)).
 - **No silent edition swap** ([Chapter Thirty-One §3](../../core_31.000_incorporation.md#3-safeguards)).
-- Emergency continuation burden and Article XXIV-C anti-delay clocks.
+- Emergency continuation burden and Article XXV-C anti-delay clocks.
 
 German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and in force. India’s basic-structure doctrine (*Kesavananda*) is judge-made. South Africa s.1 is a supermajority, not unamendability. ICESCR non-retrogression is CESCR doctrine, not a Covenant article, and does not auto-invalidate. EU AI Act Arts. 43/72 are the closest certify-then-monitor analogue, still product-safety rather than civic standing. UNGPs require due diligence without constitutional status. ILO Art. 36 and TEU Art. 48 illuminate non-state constitutive consent; both still rest on member states.
 

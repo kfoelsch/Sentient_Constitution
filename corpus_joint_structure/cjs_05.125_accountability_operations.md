@@ -125,8 +125,8 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
 - Read with:
   - [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4);
   - [Article I-D](../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
-  - [Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
-  - [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
+  - [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
+  - [Article XV-A](../core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 </details>
 
 <br>
@@ -136,15 +136,15 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
 Adopters must define [Market Concentration Threshold](../core_05.035_band_accountability.md#market-concentration-threshold) indicators and activate mitigation when thresholds are crossed or credibly approached. Threshold-setting must follow this discipline:
 
 - **Requirement preservation:** No adopter-set threshold may sit above the point at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that point is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
-- **Substance over form:** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
+- **Substance over form:** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
 - **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) include:
   - thresholds set so high they foreseeably never bind;
   - thresholds paired with unused or unusable enforcement tools; and
   - threshold regimes that produce no actual review or intervention.
 - **Heightened scrutiny:** When concentration meaningfully touches any of the following, that article's tougher standards still apply — even when ordinary concentration thresholds have not been crossed:
   - [Article I-D](../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*): existential risk and ecological recovery capacity;
-  - [Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*): whether systems can be relied on; and
-  - [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*): limits on hidden or covert power.
+  - [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*): whether systems can be relied on; and
+  - [Article XV-A](../core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*): limits on hidden or covert power.
 
 <a id="market-concentration-threshold-activation"></a>
 Market-concentration threshold activation
@@ -180,7 +180,7 @@ Market-concentration threshold activation
   - [CJS-5.125 §11.1](#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*);
   - **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*);
   - [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor);
-  - [Article XXI](../core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
+  - [Article XXII](../core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
   - [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.020 §13.2.4).
 </details>
 
@@ -192,7 +192,7 @@ When market-structuring arrangements violate the [Chapter One §11 Market Struct
 
 - exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
 - tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without **Necessity** and **Proportionality**;
-- coercive lock-in, interoperability suppression, data-portability suppression, interface capture, or switching-cost design that materially defeats exit (read with **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **Article XXI** (*Interoperability, Portability, and Exit Integrity*));
+- coercive lock-in, interoperability suppression, data-portability suppression, interface capture, or switching-cost design that materially defeats exit (read with **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **Article XXII** (*Interoperability, Portability, and Exit Integrity*));
 - labor-market or supplier monopsony, wage-fixing, excessive non-solicitation, or functionally equivalent mobility-restricting terms that suppress fair bargaining or productive mobility (labor-mobility categorical prohibitions: [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*); misconduct routing: [Chapter Twenty-Two §3.1 Rights-Floor Waivers and Unconstitutional Contract Terms](../core_22.000_misconduct_pattern_applications.md#31-rights-floor-waivers-and-unconstitutional-contract-terms));
 - killer acquisitions, serial acquisitions, federation, ownership, licensing, patent, capital-access, or contracting structures that materially reduce potential competition or preserve dominance by removing contestable entrants (read with [Chapter One §11.3 Consolidation Ceiling](../core_01.010_values_principles_continuity_aim.md#113-consolidation-ceiling));
 - collusive coordination, information exchange, common control, interlocking governance, or settlement arrangements that suppress rivalry, bargaining alternatives, or independent accountability;
@@ -1312,9 +1312,9 @@ Harm reports and corrective notices
 *In plain terms: when sentients report harm from a product or service, such as an allergic reaction, an injury, an illness, or a wrong label, the reports must be collected and acted on, and when information is found wrong or a product unsafe, everyone who relied on it must be told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the problem must be contained and fixed inside the windows for that urgency (CU-1 to CU-4).*
 
 - **What it is**
-  - **In scope:** Reports of harm from a product or service must be taken in without suppression ([Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation.
+  - **In scope:** Reports of harm from a product or service must be taken in without suppression ([Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation.
 
-    When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_05.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter One §3.1.5 Present Capability and Proactive Help](../core_01.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy ([Article XIII-B](../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels.
+    When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_05.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter One §3.1.5 Present Capability and Proactive Help](../core_01.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy ([Article XIV-B](../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels.
 
     The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in harm reports and corrective notices.

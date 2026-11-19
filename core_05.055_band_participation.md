@@ -276,8 +276,8 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
     - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency);
     - [Trust](core_05.040_band_continuity.md#trust);
     - survival-relevant coordination;
-    - **Article XV** (*Info-Sphere Integrity*) info-sphere protections; and
-    - **Article XVI-A** (*Auditability and Observable Evidence*) auditability protections.
+    - **Article XVI** (*Info-Sphere Integrity*) info-sphere protections; and
+    - **Article XVII-A** (*Auditability and Observable Evidence*) auditability protections.
   - **Out of scope:** a private inbox, personal notes, or an isolated device that is not the shared information environment others depend on.
 <a id="info-sphere-a"></a>
 - **How to measure and assess**
@@ -590,7 +590,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling for collective voice).
-- Owner floor: [Article III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*). Read with [Article X-C](core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+- Owner floor: [Article III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*). Read with [Article X-C](core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XV-A](core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Read with: the
   - [Assembly, Collective Organization, and Institutional Formation cluster](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation),
   - [Fair Compensation](core_05.040_band_continuity.md#fair-compensation),
@@ -633,7 +633,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 
     **Primary assessment:** Reach substantive effect. Look for:
     - classification re-routing that reclassifies workers into categories designed to defeat collective-organization pathways, regardless of formal label;
-    - retaliation, surveillance, or targeting of collective-organization activity, consistent with [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) and [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*);
+    - retaliation, surveillance, or targeting of collective-organization activity, consistent with [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) and [Article XV-A](core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*);
     - platform-design or compute-access gating that materially chills collective-organization activity without satisfying [Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline) limitations tests; and
     - retaliation and targeting logic that fails [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) or [Protected Characteristic Proxying and Disparate Impact](core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 <a id="collective-organization-constitutional-c"></a>
@@ -664,7 +664,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
   - [Article X-C](core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights) and
   - [Article XII](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) (stakeholder system participation). Read with
   - [Article XI-F](core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*) (cooperative interaction) and
-  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+  - [Article XV-A](core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation).
 - Read with:
   - [Assembly](core_05.055_band_participation.md#assembly),
@@ -741,7 +741,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
   - [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), read with
   - [Article X-C](core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights). Read with
   - [Article XI-F](core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*) (cooperative interaction) and
-  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+  - [Article XV-A](core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation).
 - Read with:
   - [System Creation](core_05.055_band_participation.md#system-creation),
@@ -1515,7 +1515,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floors: [Article VII-E](core_06.010_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*); **[CI-6.240](corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md#ci-6240-vulnerable-personal-services-markets--general-regulation-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface)** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) anti-circumvention routing where cited.
 - Upstream: Principles: [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) (1.000 §3.1) — especially [Chapter One §3.1.3 Fair Treatment](core_01.000_values_principles.md#313-fair-treatment) (1.000 §3.1.3).
-- Downstream: Principles: [Article VI-C: Nondiscrimination](core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Article VII-A: Self-Ownership of Body](core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) where intimate inference implicates bodily integrity; [Article XVI-A: Auditability and Observable Evidence](core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) for evidentiary and observability pathways tied to intimate-signal workflows.
+- Downstream: Principles: [Article VI-C: Nondiscrimination](core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Article VII-A: Self-Ownership of Body](core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) where intimate inference implicates bodily integrity; [Article XVII-A: Auditability and Observable Evidence](core_06.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) for evidentiary and observability pathways tied to intimate-signal workflows.
 - Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
 - Read with:
   - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics),
@@ -1568,7 +1568,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality) is required. Such workflows must remain consistent with:
     - **Article VII-A** (*Self-Ownership of Body*);
-    - **Article XVI-A** (*Auditability and Observable Evidence*);
+    - **Article XVII-A** (*Auditability and Observable Evidence*);
     - [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications);
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing);
     - [Contestability](core_05.035_band_accountability.md#contestability);
@@ -1772,7 +1772,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
     - Interact with:
       - [Reversibility](core_05.040_band_continuity.md#reversibility);
       - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation); and
-      - for derived-sentient cases, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XIII-F Rights-Floor continuity.
+      - for derived-sentient cases, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XIV-F Rights-Floor continuity.
 <a id="non-separation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -2049,7 +2049,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7);
   - [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*Scaling*: materiality and dependency raise the participation floor);
-  - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18) (**Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XIX** (*Standing and Participation Status*)).
+  - [Chapter One §18 Governance under Stewardship Discipline](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18) (**Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Standing and Participation Status*)).
 - Read with:
   - [Stakeholder](core_05.055_band_participation.md#stakeholder);
   - [Stakeholder Status and Weight](core_05.055_band_participation.md#stakeholder-status-and-weight);
@@ -2126,7 +2126,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
 
 - **Joint invocation:** where mobility rights, refuge from non-compliance, or baseline recognition across regime boundaries is material.
 - **Scope:** where joint invocation is met, the Participation home for mobility rights and baseline recognition across regime boundaries — keeping constitutional protection in force across jurisdictional and structural breaks.
-- **Owner floor:** implements [Article XXII](core_06.030_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), through **Article XXII-A** (*Movement and Relocation*) to **Article XXII-D** (*Limitation, Custody, and Emergency Discipline*).
+- **Owner floor:** implements [Article XXIII](core_06.030_rights_part_d.md#article-xxiii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), through **Article XXIII-A** (*Movement and Relocation*) to **Article XXIII-D** (*Limitation, Custody, and Emergency Discipline*).
 
 <a id="movement-refuge-admission-qualifier"></a>
 
@@ -2199,7 +2199,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXII-A](core_06.030_rights_part_d.md#article-xxii-a-movement-and-relocation) (*Movement and Relocation*).
+- Owner floor: [Article XXIII-A](core_06.030_rights_part_d.md#article-xxiii-a-movement-and-relocation) (*Movement and Relocation*).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with:
   - [Refuge from Non-Compliance](core_05.055_band_participation.md#refuge-from-non-compliance),
@@ -2231,7 +2231,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       - equivalent.
   - **Boundary:**
     - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
-    - Distinct from and read with [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) under **Article XXI** (*Interoperability, Portability, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
+    - Distinct from and read with [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) under **Article XXII** (*Interoperability, Portability, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
     - Governed by [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
     - ordinary travel preference or tourism; or
@@ -2278,7 +2278,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXII-B](core_06.030_rights_part_d.md#article-xxii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
+- Owner floor: [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
 - Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Chapter Nine §4 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (9.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (movement, dependency, procedural fairness scaling).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with:
@@ -2286,7 +2286,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05.050_band_oversight.md#oversight-dependent-clusters),
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation),
   - [Non-Statelessness](#non-statelessness),
-  - [Article XXII-B](core_06.030_rights_part_d.md#article-xxii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*), cluster
+  - [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*), cluster
   - [admission qualifier](#movement-refuge-admission-qualifier), and
   - [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -2301,13 +2301,13 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - federation; or
     - adopter regime
     whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
-  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XXII-B](core_06.030_rights_part_d.md#article-xxii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
+  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
   - **Boundary:**
     - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - The floor applies under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
     - Zero-regime recognition gaps are tested under [Non-Statelessness](core_05.055_band_participation.md#non-statelessness).
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
-    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XXII-B](core_06.030_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
+    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XXIII-B](core_06.030_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks:
@@ -2347,7 +2347,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXII-C](core_06.030_rights_part_d.md#article-xxii-c-non-statelessness) (*Non-Statelessness*); interim recognition is arranged consistent with **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*), with the roles named under [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*).
+- Owner floor: [Article XXIII-C](core_06.030_rights_part_d.md#article-xxiii-c-non-statelessness) (*Non-Statelessness*); interim recognition is arranged consistent with **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*), with the roles named under [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxiii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with:
   - [Movement and Relocation](core_05.055_band_participation.md#movement-and-relocation),
@@ -2372,7 +2372,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - comparable structural discontinuity.
   - **Boundary — recognition duty ladder:**
     - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the sentient.
-    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation interim recognition must fill it — under **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
+    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation interim recognition must fill it — under **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
     - **Not a hosting mandate:** Recognition is not the same as a right to be hosted by a particular adopter. Weaponized outflow and particular-adopter refusal rules live at cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - **Non-exclusion:** Applies under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Boundary — restricted-status recognition:** Where documented:
@@ -3239,7 +3239,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice),
   - [Stakeholder Weight](#stakeholder-weight),
   - [Article XII](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
-  - [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment), and
+  - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
   - [Chapter One §13.1.5](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_05.050_band_oversight.md#materiality).
@@ -3394,7 +3394,7 @@ See **Anti-Segmentation Principle**.
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
-    - **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*).
+    - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
   - **Out of scope:**
     - ordinary meeting minutes; or
@@ -3409,7 +3409,7 @@ See **Anti-Segmentation Principle**.
     - accepted trade-offs;
     - uncertainty treatment; and
     - review or reversal triggers —
-    consistent with **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or

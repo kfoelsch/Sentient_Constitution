@@ -235,10 +235,10 @@ CH00_SECTION3_ANCHOR_RE = re.compile(
 RIGHTS_FAMILIES = {
     "survival/resources": ["I", "II", "III", "IV", "V"],
     "equality/access": ["VI", "VII", "VIII", "IX"],
-    "agency/participation": ["X", "XI", "XII"],
-    "systems/trust/audit": ["XIII", "XIV", "XV", "XVI", "XVII", "XVIII"],
-    "standing/interpretation": ["XIX", "XXI", "XXIII", "XXIV", "XXV"],
-    "justice/emergency/transition": ["XX", "XXVI", "XXVII", "XXVIII"],
+    "agency/participation": ["X", "XI", "XII", "XIII"],
+    "systems/trust/audit": ["XIV", "XV", "XVI", "XVII", "XVIII", "XIX"],
+    "standing/interpretation": ["XX", "XXII", "XXIV", "XXV", "XXVI"],
+    "justice/emergency/transition": ["XXI", "XXVII", "XXVIII", "XXIX"],
 }
 
 PRINCIPLE_RULES = [
@@ -516,7 +516,7 @@ def is_measurement_dependent(article: Article) -> bool:
     if any(term in text for terms in MEASUREMENT_FAMILIES.values() for term in terms):
         return True
     return article.article_id.split("-")[0] in {
-        "I", "III", "IV", "V", "VI", "XIII", "XVI", "XIX", "XXIII", "XXVI"
+        "I", "III", "IV", "V", "VI", "XIV", "XVII", "XX", "XXIV", "XXVII"
     }
 
 
