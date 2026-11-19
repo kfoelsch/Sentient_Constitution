@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T17:44:58+00:00",
+  "generated_at": "2026-11-19T18:22:39+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2294,14 +2294,14 @@
       ]
     },
     "corpus_institutions/ci_00.205_registry_and_reading_rules.md": {
-      "total_lines": 177,
+      "total_lines": 176,
       "sections": [
-        {"header":"CI-0.205: Institutions Registry and Identifier Rules","level":1,"line_start":1,"line_end":177,"anchor":null},
-        {"header":"Institutions Identifier and Article-Reference Rules","level":2,"line_start":50,"line_end":71,"anchor":null},
-        {"header":"Institutions Registry (Stable Section Families)","level":2,"line_start":72,"line_end":95,"anchor":null},
-        {"header":"Institutions Domain Routing (Integrator Annex)","level":2,"line_start":96,"line_end":177,"anchor":null},
-        {"header":"Institutions Overlap Discipline","level":3,"line_start":123,"line_end":152,"anchor":null},
-        {"header":"Institutions Read-with Pointers","level":3,"line_start":153,"line_end":177,"anchor":null}
+        {"header":"CI-0.205: Institutions Registry and Identifier Rules","level":1,"line_start":1,"line_end":176,"anchor":null},
+        {"header":"Institutions Identifier and Article-Reference Rules","level":2,"line_start":49,"line_end":70,"anchor":null},
+        {"header":"Institutions Registry (Stable Section Families)","level":2,"line_start":71,"line_end":94,"anchor":null},
+        {"header":"Institutions Domain Routing (Integrator Annex)","level":2,"line_start":95,"line_end":176,"anchor":null},
+        {"header":"Institutions Overlap Discipline","level":3,"line_start":122,"line_end":151,"anchor":null},
+        {"header":"Institutions Read-with Pointers","level":3,"line_start":152,"line_end":176,"anchor":null}
       ]
     },
     "corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md": {
