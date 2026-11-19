@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **251** of **318** registry terms carry a source gloss.
+Coverage: **252** of **319** registry terms carry a source gloss.
 
 ## Start here
 
@@ -123,6 +123,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Elevated Communicative Life | a stable protection level above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as "semi-sentient" do not replace this entry. | [Source](../../core_05.055_band_participation.md#elevated-communicative-life) |
 | Emergency and Contingency | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#emergency-and-contingency) |
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) |
+| Enforcement Record | before money or property is frozen or seized, or force is used, a forum issues an Enforcement Record. It says what may be done, by whom, and the facts it rests on. The enforcement body acts on it without going back to the forum, and it is paused or dropped only if one of those facts really changes. | [Source](../../core_05.035_band_accountability.md#enforcement-record) |
 | Environmental Preconditions | the living-system conditions sentients need to survive and stay well — climate, ecosystems, clean air and water, soil, habitat, and Earth's ability to regenerate. | [Source](../../core_05.040_band_continuity.md#environmental-preconditions) |
 | Epistemic Integrity | the methods and evidence behind an evaluation must stay honest and checkable — prestige, opacity, or paperwork cannot stand in for truth. | [Source](../../core_05.050_band_oversight.md#epistemic-integrity) |
 | Essential Record | an Essential Record is a non-routine entry the constitutional order could not be rebuilt without. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it. | [Source](../../core_05.035_band_accountability.md#essential-record) |

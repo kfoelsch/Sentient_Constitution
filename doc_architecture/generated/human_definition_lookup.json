@@ -117,7 +117,7 @@
       "href": "../../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases"
     }
   ],
-  "term_count": 318,
+  "term_count": 319,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -748,6 +748,13 @@
       "anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
       "plain_terms": null,
       "href": "../../core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice"
+    },
+    {
+      "term": "Enforcement Record",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#enforcement-record",
+      "plain_terms": "before money or property is frozen or seized, or force is used, a forum issues an Enforcement Record. It says what may be done, by whom, and the facts it rests on. The enforcement body acts on it without going back to the forum, and it is paused or dropped only if one of those facts really changes.",
+      "href": "../../core_05.035_band_accountability.md#enforcement-record"
     },
     {
       "term": "Environmental Preconditions",

@@ -32,6 +32,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Stay",
         "Under Challenge",
         "Interim Hold",
+        "Enforcement Record",
         "Formation Check",
         "Negligence",
         "Collective Accountability Failure",

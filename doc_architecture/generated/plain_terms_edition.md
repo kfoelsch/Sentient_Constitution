@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **862** of **1396** headings carry a gloss (62%).
+Coverage: **863** of **1413** headings carry a gloss (61%).
 
 ## Contents
 
@@ -27,7 +27,7 @@ Coverage: **862** of **1396** headings carry a gloss (62%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (95/107 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (96/108 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (67/128 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
@@ -52,7 +52,7 @@ Coverage: **862** of **1396** headings carry a gloss (62%).
 - [CHAPTER TWENTY-THREE: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-three-standards-routing-and-forum-cases) — `core_23.000_forum.md` (5/37 glossed)
 - [CHAPTER TWENTY-FOUR: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT](#chapter-twenty-four-forum-families-escalation-timely-resolution-and-support) — `core_24.000_forum_families_escalation_timeliness_support.md` (6/25 glossed)
 - [CHAPTER TWENTY-FIVE: ENFORCEMENT](#chapter-twenty-five-enforcement) — `core_25.000_enforcement.md` (8/9 glossed)
-- [CHAPTER TWENTY-SIX: SPECIAL ENFORCEMENT](#chapter-twenty-six-special-enforcement) — `core_26.000_special_enforcement.md` (6/7 glossed)
+- [CHAPTER TWENTY-SIX: SPECIAL ENFORCEMENT](#chapter-twenty-six-special-enforcement) — `core_26.000_special_enforcement.md` (6/23 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (42/43 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.020_rights_part_c.md` (33/34 glossed)
@@ -1316,7 +1316,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 95/107 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 96/108 headings glossed
 
 #### Accountability: Independent Terms
 
@@ -1479,6 +1479,12 @@ a temporary, documented pause or limit while further review or a required findin
 an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a violation finding, a lock, or a penalty, and it ends on its own clock.
 
 [Source](../../core_05.035_band_accountability.md#interim-hold)
+
+##### Enforcement Record
+
+before money or property is frozen or seized, or force is used, a forum issues an Enforcement Record. It says what may be done, by whom, and the facts it rests on. The enforcement body acts on it without going back to the forum, and it is paused or dropped only if one of those facts really changes.
+
+[Source](../../core_05.035_band_accountability.md#enforcement-record)
 
 ##### Formation Check
 
@@ -7014,13 +7020,13 @@ an outcome is carried out exactly as decided. Carrying it out harder, wider, or 
 
 #### 8. Routing to Special Enforcement
 
-taking money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty-Six. This section says which matters go there.
+freezing or seizing money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty-Six. This section says which matters go there.
 
 [Source](../../core_25.000_enforcement.md#8-routing-to-special-enforcement)
 
 ## CHAPTER TWENTY-SIX: SPECIAL ENFORCEMENT
 
-Source file: [`core_26.000_special_enforcement.md`](../../core_26.000_special_enforcement.md) · 6/7 headings glossed
+Source file: [`core_26.000_special_enforcement.md`](../../core_26.000_special_enforcement.md) · 6/23 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -7030,27 +7036,123 @@ taking someone's money or property, or using force, can do lasting harm even whe
 
 #### 2. Why Special Enforcement Exists
 
-taking money or property, or using force, can do harm that lasts long after the outcome is delivered. And when enforcement keeps failing in the same way, punishing one case at a time rarely fixes it. This chapter exists so that the hardest steps of enforcement are taken with the most care, and so that failures are fixed at their source.
+some outcomes can only be delivered by freezing or seizing money or property, or by using force. These steps keep sentients safe from someone who is still dangerous, protect the wellbeing of those who depend on an outcome, and recover what is owed so harm can be repaired. Because they are so strong, this chapter makes sure they are used with the most care, and that enforcement failures are fixed at their source.
 
 [Source](../../core_26.000_special_enforcement.md#2-why-special-enforcement-exists)
 
 #### 3. Shared Floors
 
-before anyone takes money or property, or uses force, they must be allowed to, they must say why, they must choose the gentlest step that will work, and someone independent must be able to check it quickly. The sentients around the target are protected too, and harm done along the way is cared for.
+before anyone freezes or seizes money or property, or uses force, a forum must issue an Enforcement Record that says what may be done and the facts it rests on. The enforcement body must say why and choose the gentlest step that will work, and someone independent must be able to check it quickly. The sentients around the target are protected too, and harm done along the way is cared for.
 
 [Source](../../core_26.000_special_enforcement.md#3-shared-floors)
 
+##### 3.1 Whether to Act
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#31-whether-to-act)
+
+##### 3.2 How to Act
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#32-how-to-act)
+
+##### 3.3 Checks and Care
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#33-checks-and-care)
+
 #### 4. Money, Assets, and Seizure
 
-before taking anything, freeze it. A freeze has an end date. What a sentient needs to live is never taken. Anyone else with a claim gets heard. Anything taken goes to fixing the harm, never to the body that took it, and anything taken in excess is given back.
+money and property are frozen or taken so that harm can be repaired. Before taking anything, freeze it. A freeze has an end date. What a sentient needs to live is not taken, unless they threaten violence and refuse to surrender. Anyone else with a claim gets heard. Anything taken goes to fixing the harm, never to the enforcement body that took it, and anything taken in excess is given back.
 
 [Source](../../core_26.000_special_enforcement.md#4-money-assets-and-seizure)
 
+##### 4.1 Freezes
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#41-freezes)
+
+##### 4.2 The Protected Minimum
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#42-the-protected-minimum)
+
+##### 4.3 Seizure, Third Parties, and Return
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#43-seizure-third-parties-and-return)
+
+##### 4.4 Hidden Assets and Institutions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#44-hidden-assets-and-institutions)
+
 #### 5. Potential Violence and Force
 
-where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.
+where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained enforcement bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.
 
 [Source](../../core_26.000_special_enforcement.md#5-potential-violence-and-force)
+
+##### 5.1 Who May Use Force
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#51-who-may-use-force)
+
+##### 5.2 Before Force
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#52-before-force)
+
+##### 5.3 Limits on Force
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#53-limits-on-force)
+
+##### 5.4 The Force Ladder
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#54-the-force-ladder)
+
+##### 5.5 Pace: Active Attack and Standoff
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#55-pace-active-attack-and-standoff)
+
+##### 5.6 Protecting Life and Others
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#56-protecting-life-and-others)
+
+##### 5.7 How It Ends
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#57-how-it-ends)
+
+##### 5.8 When Someone Dies
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#58-when-someone-dies)
+
+##### 5.9 Record, Review, and Care
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_special_enforcement.md#59-record-review-and-care)
 
 #### 6. Root-Cause Evaluation
 

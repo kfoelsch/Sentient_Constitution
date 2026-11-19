@@ -230,6 +230,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life)
 - [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency)
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)
+- [Enforcement Record](core_05.035_band_accountability.md#enforcement-record)
 - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions)
 - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity)
 - [Essential Record](core_05.035_band_accountability.md#essential-record)
