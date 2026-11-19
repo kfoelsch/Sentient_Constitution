@@ -622,7 +622,7 @@
           "entries": [
             {
               "id": "CF-23.415",
-              "label": "CF-23.415: Routing operations, transfer, certification, and representative treatment",
+              "label": "CF-23.415: Routing Operations, Transfer, Questions for Ruling, and Representative Treatment",
               "file": "corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md",
               "status": "active"
             },
@@ -670,7 +670,7 @@
           "entries": [
             {
               "id": "CF-23.445",
-              "label": "CF-23.445: Forum performance, backlog, publication timeliness, and accessibility",
+              "label": "CF-23.445: Forum Performance, Backlog Requirements, Publication Timeliness, and Accessibility",
               "file": "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md",
               "status": "active"
             },
@@ -700,7 +700,7 @@
             },
             {
               "id": "CF-23.470",
-              "label": "CF-23.470: Forum staffing, reserve capacity, shared administration, and structural records",
+              "label": "CF-23.470: Forum Staffing, Reserve Capacity, Shared Administration, Structural Review, and Structural Records",
               "file": "corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md",
               "status": "active"
             }

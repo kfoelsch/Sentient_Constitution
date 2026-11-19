@@ -29,6 +29,12 @@ This file is the joint-structure implementation home for **Integrative cross-leg
 
 *In plain terms: Two clusters that no single Tetrad leg owns cleanly. Constrained secrecy sits between oversight and accountability: some investigations must stay quiet without becoming unreviewable. Intervention integrity sits between accountability and continuity: someone must be able to intervene in a running system without that power going unchecked.*
 
+## Purpose and Role
+
+**Purpose:** Provide shared operational terms for requirements that cross Tetrad legs.
+
+**Role:** These clusters address constrained secrecy and protected investigation, and technical intervention integrity, within their stated scopes.
+
 This family holds clusters that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone: constrained secrecy (Oversight + Accountability) and technical intervention integrity (Accountability + Continuity, complementing **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*)).
 | Cluster | Section |
 |---|---|
@@ -45,21 +51,14 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
-  - **CJS-5.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*);
   - **CJS-5.125 §12** (*Accountability: Burden-of-Justification and Constraint Terms*);
   - **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
-- Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
-- Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
-- Read with: **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) — Distributed and Proportional Authority
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
-- Read with: **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*)
-- Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
+- Read with: [Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*)
+- Read with: [Article VII-B](../core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*)
+- Read with: [Article XVI](../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
 - Chapter One basis: §15.2, §18.2, §18, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -197,21 +196,13 @@ No permanent secrecy and anti-normalization discipline
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*);
   - **CJS-5.130 §19** (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
-  - **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*) and
-  - **CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*).
-- Read with: **CJS-5.135 §23 — Integrative: intervention and override integrity terms**
-- Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.130 §21 — Adversarial Robustness and Abuse Resistance**
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
+  - **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*).
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5)**
-- Read with: [CF-23.450](../corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*) through [CF-23.460](../corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: [CF-23.450](../corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*) through [CF-23.460](../corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
 - Read with: Constitutional hooks in **Articles X, XIII, and XIV**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-5.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*) governance authorization.
@@ -321,7 +312,7 @@ Emergency technical-coupling discipline
     **Primary assessment:** Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-23.460 (*Emergency adjudication*) emergency-review or restoration pathway.
 <a id="emergency-technical-coupling-discipline-c"></a>
 - **What must hold**
-  - **Primary failure:** Emergency intervention that lacks a required forum-review path, or that becomes a standing default,.
+  - **Primary failure:** Emergency intervention that lacks a required forum-review path or becomes a standing default.
 
 <a id="intervention-behavior-priorities-and-safe-state-handling"></a>
 Intervention behavior priorities and safe-state handling
@@ -410,7 +401,7 @@ Trigger scope and timeliness applicability
 
 ---
 
-*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; edition and custody in [README.md](../README.md) and [Chapter Five *Corpus*](../core_05.045_band_integrative.md#corpus).
+*Corpus alignment:* edition and custody follow [Chapter Five *Corpus*](../core_05.045_band_integrative.md#corpus).
 
 ---
 

@@ -29,7 +29,14 @@ This file is the joint-structure implementation home for **Continuity aim operat
 
 *In plain terms: These clusters keep a system working — and keep it possible to leave — under dependency, change, stress, and attack: knowing what you depend on, being able to export and exit, retaining data for the right span, failing gracefully rather than catastrophically, being able to undo, and resisting deliberate abuse.*
 
+## Purpose, Role, and Scope
+
+**Purpose:** Provide shared operational terms for continuity across implementation layers.
+
+**Role:** These clusters address dependency, portability and exit, data retention, graceful degradation, reversibility, and resistance to abuse. They apply the Continuity aim within their stated scopes.
+
 This family operationalizes the constitutional [Continuity aim](../core_00.000_preamble.md#continuity): preserving lawful function under dependency, lifecycle change, stress, and adversarial conditions. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1 (*Purpose, Role, and Scope*)) is distinct from operational or protocol continuity elsewhere in the corpus.
+
 | Cluster | Section |
 |---|---|
 | **CJS-5.130 §16** / **oDef.16** | Continuity: dependency integrity and disclosure terms |
@@ -46,19 +53,13 @@ This family operationalizes the constitutional [Continuity aim](../core_00.000_p
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*);
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CJS-5.130 §17** (*Continuity: Interoperability, Portability, and Exit-Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
   - **CI-6.215** (*Resource stewardship and incentive integrity*).
-- Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
-- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
+- Read with: [Article XVI-A](../core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §15.1, §19.1, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -105,7 +106,7 @@ dependency integrity and disclosure terms
 <a id="care-respite-and-support-dependency-adequacy"></a>
 Care, respite, and support-dependency adequacy
 
-*In plain terms: where a service pathway, institution, or supervised system materially depends on unpaid care, paid care, respite, elder or disability support, substrate maintenance, or comparable dependency labor, the dependency map must treat that support as…*
+*In plain terms: Where care or support is a material dependency, the map must treat it as operational capacity and identify coverage, relief, and accessibility constraints.*
 
 - **What it is**
   - **In scope:** Where a service pathway, institution, or supervised system materially depends on unpaid care, paid care, respite, elder or disability support, substrate maintenance, or comparable dependency labor, the dependency map must treat that support as operational capacity rather than private background. It must identify substitution pathways, respite availability, crisis coverage, accessibility constraints, and whether carers or dependents can access relief without abandonment, retaliation, or unreasonable eligibility burden.
@@ -151,12 +152,12 @@ Dependency identification and disclosure content
     **Primary assessment:** Reviewers must check technical dependencies, financial or market dependence, governance control, and whether the system can actually work with or move away from other systems.
 <a id="dependency-identification-and-disclosure-content-c"></a>
 - **What must hold**
-  - **Primary failure:** Leaving out an important dependency, or letting dependency information go stale,.
+  - **Primary failure:** Leaving out an important dependency or letting dependency information go stale.
 
 <a id="domain-and-sector-classification-mapping"></a>
 Domain and sector classification mapping
 
-*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)…*
+*In plain terms: Authorities must map major domains they govern or materially rely on against applicable system classes and stewardship levels, including reclassification triggers.*
 
 - **What it is**
   - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-27.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
@@ -224,7 +225,7 @@ Proportional application
 <a id="resource-and-continuity-dependency-adequacy"></a>
 Resource and continuity dependency adequacy
 
-*In plain terms: when continuity, constitutional performance, or supervised operation depends on funding, staffing, compute, bandwidth, facilities, supplier capacity, reserve capacity, or comparable institutional resources, the dependency map must…*
+*In plain terms: Where continuity depends on institutional resources, the dependency map must assess their adequacy, substitutability, and resilience under normal and stressed conditions.*
 
 - **What it is**
   - **In scope:** When continuity, constitutional performance, or supervised operation depends on funding, staffing, compute, bandwidth, facilities, supplier capacity, reserve capacity, or comparable institutional resources, the dependency map must identify whether those resources are adequate, substitutable, and resilient under normal, degraded, and foreseeable stress conditions.
@@ -262,20 +263,16 @@ Substitutability, exit constraints, and mitigation duties
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.130 §17** (*Continuity: Interoperability, Portability, and Exit-Integrity Terms*);
   - **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*);
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CI-6.205 §3** (*Digital Self-Service Pathway Integrity*).
-- Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
-- Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*)
 - Read with: [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)
 - Read with: [**CS-27.305**](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship) (*Critical system stewardship*)
-- Read with: **Article XXI** (*Interoperability, Portability, and Exit Integrity*)
-- Read with: **Article II-E** (*Data Handling and Network Dependency*)
-- Read with: **Article II-F** (*Continuity and Operator Shutdown*)
-- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
+- Read with: [Article XXI](../core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*)
+- Read with: [Article II-E](../core_06.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*)
+- Read with: [Article II-F](../core_06.000_rights_part_a.md#article-ii-f-continuity-and-operator-shutdown) (*Continuity and Operator Shutdown*)
+- Read with: [Article XVI-A](../core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §15.1, §18.1, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -322,7 +319,7 @@ interoperability, portability, and exit-integrity terms
 <a id="access-preserving-reward-and-anti-warehousing-controls"></a>
 Access-preserving reward and anti-warehousing controls
 
-*In plain terms: where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward…*
+*In plain terms: Where feasible reward mechanisms differ, prefer the least restrictive one that can sustain innovation; the Type T use-it-or-return-it rule applies where relevant.*
 
 - **What it is**
   - **In scope:** Where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, compulsory-access tools, or equivalent public-access regimes before broad exclusion rights for high-dependency domains. Where rights in a work have been assigned as **Type T**, the use-it-or-return-it rule in [CS-6.310 Part B §9.12.1](../corpus_systems/cs_06.310_data_classifications.md#9121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*) applies.
@@ -356,7 +353,7 @@ Closed-format justification and open-format Adoption Transition controls
 <a id="collection-time-exportability-and-continuity-critical-data-integrity"></a>
 Collection-time exportability and continuity-critical data integrity
 
-*In plain terms: systems must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires confidentiality, security,…*
+*In plain terms: Continuity-critical data must be exportable under disclosed paths unless protected boundaries or lawful non-disclosure require a limit; disclose limits and lawful substitutes before commitment.*
 
 - **What it is**
   - **In scope:** Systems must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, **Type N** or comparable protected-boundary constraints, or lawful non-disclosure. Where export is limited, the limitation, scope, and any lawful substitute export path must be disclosed before commitment.
@@ -373,7 +370,7 @@ Collection-time exportability and continuity-critical data integrity
 <a id="commitment-renewal-and-charge-exit-integrity"></a>
 Commitment, renewal, and charge-exit integrity
 
-*In plain terms: paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid plans, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing,…*
+*In plain terms: Material paid commitments require informed agreement and disclosure of charges, renewal, and exit terms, and valid self-service cancellation or downgrade must be honored.*
 
 - **What it is**
   - **In scope:** Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid plans, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published self-service pathway.
@@ -407,7 +404,7 @@ Continuity-preserving handoff safeguards
 <a id="dependency-based-coercion-and-reputation-lock-pathway-integrity"></a>
 Dependency-based coercion and reputation-lock pathway integrity
 
-*In plain terms: where dependency, credential control, reputation scoring, platform visibility, housing, care access, workplace leverage, household control, or comparable chokepoints can materially defeat exit, reporting, remedy, or participation, the…*
+*In plain terms: Where dependency or other chokepoints can defeat exit or recourse, pathways must account for coercive-control patterns as practical routing facts.*
 
 - **What it is**
   - **In scope:** Where dependency, credential control, reputation scoring, platform visibility, housing, care access, workplace leverage, household control, or comparable chokepoints can materially defeat exit, reporting, remedy, or participation, the affected exit, reporting, remedy, or participation pathway must treat coercive-control patterns as practical routing facts even when no single transaction, contract label, or criminal category captures the whole pattern.
@@ -424,7 +421,7 @@ Dependency-based coercion and reputation-lock pathway integrity
 <a id="digital-self-service-pathway-integrity"></a>
 Digital self-service pathway integrity
 
-*In plain terms: user-facing digital self-service pathways through which parties start, manage, continue or renew, downgrade, transfer, or exit commitments or ongoing obligations must preserve meaningful entry, management, and exit within the same…*
+*In plain terms: Digital self-service must preserve meaningful entry, management, and exit in the same channel class where feasible.*
 
 - **What it is**
   - **In scope:** User-facing digital self-service pathways through which parties start, manage, continue or renew, downgrade, transfer, or exit commitments or ongoing obligations must preserve meaningful entry, management, and exit within the same channel class where feasible. This includes enrollment, account or preference changes, upgrades and downgrades in obligation level, fee or billing management where charges apply, renewal or continuation handling, withdrawal, cancellation, and release from ongoing obligation.
@@ -458,7 +455,7 @@ Exit-feasibility disclosure and dependency transparency
 <a id="high-vulnerability-personal-service-pathway-integrity"></a>
 High-vulnerability personal-service pathway integrity
 
-*In plain terms: where an implementation scope governs lawful personal services with heightened vulnerability, bodily proximity, in-home or isolated work, care dependence, migration or language stressors, platform matching, payments, reputation,…*
+*In plain terms: Lawful personal services with heightened vulnerability must preserve access, practical exit, non-retaliatory reporting, due care, and separation of ordinary regulation from exploitation response.*
 
 - **What it is**
   - **In scope:** Where an implementation scope governs lawful personal services with heightened vulnerability, bodily proximity, in-home or isolated work, care dependence, migration or language stressors, platform matching, payments, reputation, visibility, licensing, housing, or comparable dependency chokepoints, the personal-service pathway must preserve lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response. Comparable lawful personal services should use comparable regulatory families unless documented necessity and proportionality justify differentiation.
@@ -475,7 +472,7 @@ High-vulnerability personal-service pathway integrity
 <a id="innovation-reward-boundary-and-anti-enclosure-controls"></a>
 Innovation reward boundary and anti-enclosure controls
 
-*In plain terms: innovation rewards must preserve repair, maintenance, safety work, independent verification, research, education, archiving, benchmark and compatibility testing, reverse engineering for interoperability, migration, and meaningful exit…*
+*In plain terms: Innovation rewards must preserve lawful and proportionate repair, safety work, research, interoperability, migration, and meaningful exit.*
 
 - **What it is**
   - **In scope:** Innovation rewards must preserve repair, maintenance, safety work, independent verification, research, education, archiving, benchmark and compatibility testing, reverse engineering for interoperability, migration, and meaningful exit where those uses are otherwise lawful and proportionate.
@@ -495,7 +492,9 @@ Innovation-reward duration and reclassification controls
 *In plain terms: copyright-like claims over fixed expressive works should use publication-based timing rather than author-life timing, and claims over inventions and other functional works should use a disclosure-based two-phase term.*
 
 - **What it is**
-  - **In scope:** Copyright-like claims over fixed expressive works should use publication-based timing rather than author-life timing. Publication means the creator's or lawful right-holder's intentional release to the public, commercial market, or a materially open audience; private circulation, confidential review, limited collaboration, archival deposit without public access, or non-commercial draft sharing does not by itself constitute publication. Published works should use `publication+30` years as the presumptive outer limit. Non-commercial drafts or unpublished expressive works that have made an initial non-confidential public appearance may receive no more than `initial appearance+50` years, and if later published, the exclusion term is capped by the earlier of `initial appearance+50` or `publication+30`. Claims over inventions, processes, and other functional works should use `disclosure+15` years as the outer limit of exclusion, followed by an open-licensing phase ending no later than `disclosure+30` years, during which use may not be refused for a published, non-discriminatory, and reviewable fee set in proportion to the invention's verified constitutional benefit measured in LEQU and valued as sentient time saved or added at a fair wage, not market power, and taking no more than half of the verified gain, falling with the number of beneficiaries to a lower limit of 1% without reducing total reward as use widens (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Shorter terms, compulsory-license conversion, levy-funded reward, or immediate public-access treatment should apply where works are publicly funded, dependency-critical, educationally foundational, safety-relevant, standards-like, or function primarily as cultural memory, civic knowledge, or shared informational infrastructure.
+  - **In scope:** Copyright-like claims over fixed expressive works should use publication-based timing rather than author-life timing ([Article XVIII-E](../core_06.020_rights_part_c.md#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*)). Publication means the creator's or lawful right-holder's intentional release to the public, commercial market, or a materially open audience; private circulation, confidential review, limited collaboration, archival deposit without public access, or non-commercial draft sharing does not by itself constitute publication. Published works should use `publication+30` years as the presumptive outer limit. Non-commercial drafts or unpublished expressive works that have made an initial non-confidential public appearance may receive no more than `initial appearance+50` years, and if later published, the exclusion term is capped by the earlier of `initial appearance+50` or `publication+30`.
+
+    Claims over inventions, processes, and other functional works should use `disclosure+15` years as the outer limit of exclusion, followed by an open-licensing phase ending no later than `disclosure+30` years, during which use may not be refused for a published, non-discriminatory, and reviewable fee set in proportion to the invention's verified constitutional benefit measured in LEQU and valued as sentient time saved or added at a fair wage, not market power, and taking no more than half of the verified gain, falling with the number of beneficiaries to a lower limit of 1% without reducing total reward as use widens ([Article XVIII-F](../core_06.020_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*)). Shorter terms, compulsory-license conversion, levy-funded reward, or immediate public-access treatment should apply where works are publicly funded, dependency-critical, educationally foundational, safety-relevant, standards-like, or function primarily as cultural memory, civic knowledge, or shared informational infrastructure.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in innovation-reward duration and reclassification.
 <a id="innovation-reward-duration-and-reclassification-controls-a"></a>
 - **How to measure and assess**
@@ -618,17 +617,10 @@ Right-to-exit pathway integrity
   - **CJS-8.105 §11** (*Classification Alignment for Supervised Scope*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*);
   - **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*);
-  - **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and
-  - **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*);
+  - **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
-- Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
-- Read with: **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
-- Read with: **CJS-8.105 §11 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter One basis: §15.2, §18.2, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -709,10 +701,10 @@ Anti-surveillance and anti-coercion accumulation limits
 <a id="classification-and-information-type-alignment"></a>
 Classification and information-type alignment
 
-*In plain terms: if accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.*
+*In plain terms: if accumulated, linked, or inferred data changes its data type under **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data classifications*) or becomes more sensitive in practice, stricter protections apply.*
 
 - **What it is**
-  - **In scope:** If accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data Classifications*) — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.
+  - **In scope:** If accumulated, linked, or inferred data changes its data type under **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data classifications*) or becomes more sensitive in practice, stricter protections apply.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification and information-type alignment.
 <a id="classification-and-information-type-alignment-a"></a>
 - **How to measure and assess**
@@ -849,7 +841,6 @@ Transparency disclosures and stakeholder legibility
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.130 §19** (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*);
   - **CJS-5.120 §9** (*Participation: Salience Integrity and Attention-Allocation Terms*) and
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*);
@@ -857,11 +848,6 @@ Transparency disclosures and stakeholder legibility
   - **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*);
   - **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
-- Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.120 §9** (*Participation: Salience Integrity and Attention-Allocation Terms*) and **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*) — System Status, Risk, and Scope Representation
-- Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
-- Read with: **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
-- Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
@@ -1083,20 +1069,13 @@ Signaling integrity and anti-silent-failure controls
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and
   - **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*);
   - **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*);
   - **CJS-5.130 §19** (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*);
   - **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*).
-- Read with: **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
-- Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
-- Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
-- Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
-- Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
+- Read with: [Article XVII](../core_06.020_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) and [Article XIII-F](../core_06.020_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
 - Chapter One basis: §15.1, §18.1, §19.1, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1215,24 +1194,17 @@ Rollback and containment capability
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*);
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*);
   - **CJS-5.130 §19** (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*).
-- Read with: **CJS-5.130 §21 — Adversarial Robustness and Abuse Resistance**
-- Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
-- Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3 (*Audit Process Home (oDef.3)*)**
-- Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-5.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) for distributed authority and participation legitimacy
 - Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
-- Read with: **Article XIII** (*Right to Reliable and Trustworthy Systems*)
+- Read with: [Article XIII](../core_06.020_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.
 - Chapter One basis: §15.1, §15.2, §19.1, §19.2, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1408,7 +1380,7 @@ Partial-compromise resilience and graceful degradation
     **Primary assessment:** Reviewers must verify degraded behavior under compromise, anti-collapse safeguards, escalation paths, and recovery records.
 <a id="partial-compromise-resilience-and-graceful-degradation-c"></a>
 - **What must hold**
-  - **Primary failure:** Safety that depends on perfect detection, or that collapses into opaque modes,.
+  - **Primary failure:** Safety that depends on perfect detection or collapses into opaque modes.
 
 <a id="proportional-application-5"></a>
 Proportional application
@@ -1442,7 +1414,7 @@ Testing, regression, and hardening cycle obligations
     **Primary assessment:** Reviewers must verify that known material vulnerabilities, abuse patterns, and incentive failures receive tracked remediation, bounded risk treatment, and regression coverage where feasible.
 <a id="testing-regression-and-hardening-cycle-obligations-c"></a>
 - **What must hold**
-  - **Primary failure:** Known material unaddressed vulnerabilities, or fixes that are not regression-tested where feasible,.
+  - **Primary failure:** Known material unaddressed vulnerabilities or fixes that are not regression-tested where feasible.
 
 <a id="threat-modeling-and-vulnerability-mapping-discipline"></a>
 Threat modeling and vulnerability mapping discipline
