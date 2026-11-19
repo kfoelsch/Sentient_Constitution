@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T17:28:28+00:00",
+  "generated_at": "2026-11-19T17:30:14+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2038,50 +2038,47 @@
       ]
     },
     "corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md": {
-      "total_lines": 112,
+      "total_lines": 108,
       "sections": [
-        {"header":"CS-6.315: Comprehensibility and Complexity Stewardship","level":1,"line_start":1,"line_end":112,"anchor":null},
-        {"header":"CS-6.315 §1 Purpose, Role, and Scope","level":2,"line_start":50,"line_end":72,"anchor":null},
-        {"header":"CS-6.315 §2 Classification-Scaled Application","level":2,"line_start":73,"line_end":79,"anchor":null},
-        {"header":"CS-6.315 §3 Systems-Specific Checks","level":2,"line_start":80,"line_end":101,"anchor":null},
-        {"header":"CS-6.315 §4 Gaps and Silence","level":2,"line_start":102,"line_end":112,"anchor":null}
+        {"header":"CS-6.315: Comprehensibility and Complexity Stewardship","level":1,"line_start":1,"line_end":108,"anchor":null},
+        {"header":"CS-6.315 §2 Classification-Scaled Application","level":2,"line_start":69,"line_end":75,"anchor":"#cs-6315-1-purpose-role-and-scope"},
+        {"header":"CS-6.315 §3 Systems-Specific Checks","level":2,"line_start":76,"line_end":97,"anchor":null},
+        {"header":"CS-6.315 §4 Gaps and Silence","level":2,"line_start":98,"line_end":108,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md": {
-      "total_lines": 234,
+      "total_lines": 233,
       "sections": [
-        {"header":"CS-6.320: Justice Safeguards, Restitution, and Rehabilitation","level":1,"line_start":1,"line_end":234,"anchor":null},
-        {"header":"CS-6.320 §1 Purpose, Role, and Scope","level":2,"line_start":50,"line_end":57,"anchor":null},
-        {"header":"CS-6.320 §2 Scope and Trigger","level":2,"line_start":58,"line_end":66,"anchor":null},
-        {"header":"CS-6.320 §3 Mandatory Validation Record","level":2,"line_start":67,"line_end":81,"anchor":null},
-        {"header":"CS-6.320 §4 Class-Scaled Assurance Requirements","level":2,"line_start":82,"line_end":98,"anchor":null},
-        {"header":"CS-6.320 §5 Least-Restrictive, Time-Bounded, and Restoration Rules","level":2,"line_start":99,"line_end":109,"anchor":null},
-        {"header":"CS-6.320 §6 Prohibited Retaliatory Forms","level":2,"line_start":110,"line_end":118,"anchor":null},
-        {"header":"CS-6.320 §7 Voluntary Public Accountability Expression","level":2,"line_start":119,"line_end":129,"anchor":null},
-        {"header":"CS-6.320 §8 Metrics and Oversight","level":2,"line_start":130,"line_end":146,"anchor":null},
-        {"header":"CS-6.320 §9 Cross-Jurisdiction Execution and Anti-Evasion Controls","level":2,"line_start":147,"line_end":173,"anchor":null},
-        {"header":"CS-6.320 §10 Proportional Compliance Templates (Class-Scaled)","level":2,"line_start":174,"line_end":210,"anchor":null},
-        {"header":"CS-6.320 §11 Lived-Condition Minimums, Continuity, and Re-Entry Alignment","level":2,"line_start":211,"line_end":234,"anchor":null}
+        {"header":"CS-6.320: Justice Safeguards, Restitution, and Rehabilitation","level":1,"line_start":1,"line_end":233,"anchor":null},
+        {"header":"CS-6.320 §2 Scope and Trigger","level":2,"line_start":56,"line_end":64,"anchor":"#cs-6320-1-purpose-role-and-scope"},
+        {"header":"CS-6.320 §3 Mandatory Validation Record","level":2,"line_start":65,"line_end":80,"anchor":null},
+        {"header":"CS-6.320 §4 Class-Scaled Assurance Requirements","level":2,"line_start":81,"line_end":97,"anchor":null},
+        {"header":"CS-6.320 §5 Least-Restrictive, Time-Bounded, and Restoration Rules","level":2,"line_start":98,"line_end":108,"anchor":null},
+        {"header":"CS-6.320 §6 Prohibited Retaliatory Forms","level":2,"line_start":109,"line_end":117,"anchor":null},
+        {"header":"CS-6.320 §7 Voluntary Public Accountability Expression","level":2,"line_start":118,"line_end":128,"anchor":null},
+        {"header":"CS-6.320 §8 Metrics and Oversight","level":2,"line_start":129,"line_end":145,"anchor":null},
+        {"header":"CS-6.320 §9 Cross-Jurisdiction Execution and Anti-Evasion Controls","level":2,"line_start":146,"line_end":172,"anchor":null},
+        {"header":"CS-6.320 §10 Proportional Compliance Templates (Class-Scaled)","level":2,"line_start":173,"line_end":209,"anchor":null},
+        {"header":"CS-6.320 §11 Lived-Condition Minimums, Continuity, and Re-Entry Alignment","level":2,"line_start":210,"line_end":233,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md": {
-      "total_lines": 230,
+      "total_lines": 242,
       "sections": [
-        {"header":"CS-6.325: Adaptive Sustainability and Ecosystem Resilience","level":1,"line_start":1,"line_end":230,"anchor":null},
-        {"header":"CS-6.325 §1 Purpose, Role, and Scope","level":2,"line_start":50,"line_end":58,"anchor":null},
-        {"header":"CS-6.325 §2 System Health and Degradation Awareness","level":2,"line_start":59,"line_end":78,"anchor":null},
-        {"header":"CS-6.325 §3 Adaptive Allocation Requirement","level":2,"line_start":79,"line_end":132,"anchor":null},
-        {"header":"3.1 Root Cause Analysis","level":3,"line_start":86,"line_end":99,"anchor":null},
-        {"header":"3.2 Cause-Aligned Allocation Mitigation","level":3,"line_start":100,"line_end":111,"anchor":null},
-        {"header":"3.3 Uncertainty and Multi-Cause Conditions","level":3,"line_start":112,"line_end":122,"anchor":null},
-        {"header":"3.4 Feedback and Iteration","level":3,"line_start":123,"line_end":132,"anchor":null},
-        {"header":"CS-6.325 §4 Ecosystem Interdependence","level":2,"line_start":133,"line_end":158,"anchor":null},
-        {"header":"CS-6.325 §5 Ecosystem Risk Response","level":2,"line_start":159,"line_end":176,"anchor":null},
-        {"header":"CS-6.325 §6 Anti-Concentration and Resilience","level":2,"line_start":177,"line_end":185,"anchor":null},
-        {"header":"CS-6.325 §7 Transparency and Feedback","level":2,"line_start":186,"line_end":194,"anchor":null},
-        {"header":"CS-6.325 §8 Governance Integration","level":2,"line_start":195,"line_end":201,"anchor":null},
-        {"header":"CS-6.325 §9 Self-Healing and Recovery-Path Integration","level":2,"line_start":202,"line_end":217,"anchor":null},
-        {"header":"CS-6.325 §10 Regenerative Alignment, Circular Material Flows, and Bioregional Stewardship (Implementation Profile)","level":2,"line_start":218,"line_end":230,"anchor":null}
+        {"header":"CS-6.325: Adaptive Sustainability and Ecosystem Resilience","level":1,"line_start":1,"line_end":242,"anchor":null},
+        {"header":"CS-6.325 §2 System Health and Degradation Awareness","level":2,"line_start":56,"line_end":77,"anchor":"#cs-6325-1-purpose-role-and-scope"},
+        {"header":"CS-6.325 §3 Adaptive Allocation Requirement","level":2,"line_start":78,"line_end":141,"anchor":null},
+        {"header":"3.1 Root Cause Analysis","level":3,"line_start":85,"line_end":99,"anchor":null},
+        {"header":"3.2 Cause-Aligned Allocation Mitigation","level":3,"line_start":100,"line_end":118,"anchor":null},
+        {"header":"3.3 Uncertainty and Multi-Cause Conditions","level":3,"line_start":119,"line_end":130,"anchor":null},
+        {"header":"3.4 Feedback and Iteration","level":3,"line_start":131,"line_end":141,"anchor":null},
+        {"header":"CS-6.325 §4 Ecosystem Interdependence","level":2,"line_start":142,"line_end":169,"anchor":null},
+        {"header":"CS-6.325 §5 Ecosystem Risk Response","level":2,"line_start":170,"line_end":188,"anchor":null},
+        {"header":"CS-6.325 §6 Anti-Concentration and Resilience","level":2,"line_start":189,"line_end":197,"anchor":null},
+        {"header":"CS-6.325 §7 Transparency and Feedback","level":2,"line_start":198,"line_end":206,"anchor":null},
+        {"header":"CS-6.325 §8 Governance Integration","level":2,"line_start":207,"line_end":213,"anchor":null},
+        {"header":"CS-6.325 §9 Self-Healing and Recovery-Path Integration","level":2,"line_start":214,"line_end":229,"anchor":null},
+        {"header":"CS-6.325 §10 Regenerative Alignment, Circular Material Flows, and Bioregional Stewardship (Implementation Profile)","level":2,"line_start":230,"line_end":242,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md": {
@@ -2101,86 +2098,81 @@
       ]
     },
     "corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md": {
-      "total_lines": 395,
+      "total_lines": 420,
       "sections": [
-        {"header":"CS-6.335: Resource Allocation and Funding Stewardship","level":1,"line_start":1,"line_end":395,"anchor":null},
-        {"header":"CS-6.335 §1 Purpose, Role, and Scope","level":2,"line_start":46,"line_end":62,"anchor":null},
-        {"header":"CS-6.335 §2 Principles of Funding","level":2,"line_start":63,"line_end":77,"anchor":null},
-        {"header":"CS-6.335 §3 Cross-System Resource Flows and Dependencies","level":2,"line_start":78,"line_end":105,"anchor":null},
-        {"header":"CS-6.335 §4 Dependent Systems Map","level":2,"line_start":106,"line_end":123,"anchor":null},
-        {"header":"CS-6.335 §5 Transparency of Resource Flows","level":2,"line_start":124,"line_end":137,"anchor":null},
-        {"header":"CS-6.335 §6 Prevention of Funding-Based Capture","level":2,"line_start":138,"line_end":152,"anchor":null},
-        {"header":"CS-6.335 §7 Required Allocation Categories","level":2,"line_start":153,"line_end":173,"anchor":null},
-        {"header":"CS-6.335 §8 Bounded Builder Returns","level":2,"line_start":174,"line_end":195,"anchor":null},
-        {"header":"CS-6.335 §9 Stability of Funding Agreements","level":2,"line_start":196,"line_end":214,"anchor":null},
-        {"header":"CS-6.335 §10 Evolution of Funding Models","level":2,"line_start":215,"line_end":245,"anchor":null},
-        {"header":"CS-6.335 §11 Default Funding Allocation Models","level":2,"line_start":246,"line_end":264,"anchor":null},
-        {"header":"CS-6.335 §12 Reference Allocation Guidance","level":2,"line_start":265,"line_end":282,"anchor":null},
-        {"header":"CS-6.335 §13 Substrate System Funding","level":2,"line_start":283,"line_end":298,"anchor":null},
-        {"header":"CS-6.335 §14 Non-Substrate Systems","level":2,"line_start":299,"line_end":310,"anchor":null},
-        {"header":"CS-6.335 §15 Stakeholder System Participation in Funding","level":2,"line_start":311,"line_end":324,"anchor":null},
-        {"header":"CS-6.335 §16 Trigger Definitions","level":2,"line_start":325,"line_end":331,"anchor":null},
-        {"header":"CS-6.335 §17 Triggering Review and Challenge","level":2,"line_start":332,"line_end":347,"anchor":null},
-        {"header":"CS-6.335 §18 Due Process in Funding Changes","level":2,"line_start":348,"line_end":360,"anchor":null},
-        {"header":"CS-6.335 §19 Steward, Operator, and Governance Remuneration (Incentive Governance)","level":2,"line_start":361,"line_end":369,"anchor":null},
-        {"header":"CS-6.335 §20 Conflict-Free Remuneration Processes","level":2,"line_start":370,"line_end":384,"anchor":null},
-        {"header":"CS-6.335 §21 Observability of Alignment","level":2,"line_start":385,"line_end":395,"anchor":null}
+        {"header":"CS-6.335: Resource Allocation and Funding Stewardship","level":1,"line_start":1,"line_end":420,"anchor":null},
+        {"header":"CS-6.335 §2 Principles of Funding","level":2,"line_start":59,"line_end":74,"anchor":"#cs-6335-1-purpose-role-and-scope"},
+        {"header":"CS-6.335 §3 Cross-System Resource Flows and Dependencies","level":2,"line_start":75,"line_end":105,"anchor":null},
+        {"header":"CS-6.335 §4 Dependent Systems Map","level":2,"line_start":106,"line_end":125,"anchor":null},
+        {"header":"CS-6.335 §5 Transparency of Resource Flows","level":2,"line_start":126,"line_end":140,"anchor":null},
+        {"header":"CS-6.335 §6 Prevention of Funding-Based Capture","level":2,"line_start":141,"line_end":157,"anchor":null},
+        {"header":"CS-6.335 §7 Required Allocation Categories","level":2,"line_start":158,"line_end":178,"anchor":null},
+        {"header":"CS-6.335 §8 Bounded Builder Returns","level":2,"line_start":179,"line_end":201,"anchor":null},
+        {"header":"CS-6.335 §9 Stability of Funding Agreements","level":2,"line_start":202,"line_end":222,"anchor":null},
+        {"header":"CS-6.335 §10 Evolution of Funding Models","level":2,"line_start":223,"line_end":255,"anchor":null},
+        {"header":"CS-6.335 §11 Default Funding Allocation Models","level":2,"line_start":256,"line_end":276,"anchor":null},
+        {"header":"CS-6.335 §12 Reference Allocation Guidance","level":2,"line_start":277,"line_end":295,"anchor":null},
+        {"header":"CS-6.335 §13 Substrate System Funding","level":2,"line_start":296,"line_end":312,"anchor":null},
+        {"header":"CS-6.335 §14 Non-Substrate Systems","level":2,"line_start":313,"line_end":325,"anchor":null},
+        {"header":"CS-6.335 §15 Stakeholder System Participation in Funding","level":2,"line_start":326,"line_end":340,"anchor":null},
+        {"header":"CS-6.335 §16 Trigger Definitions","level":2,"line_start":341,"line_end":347,"anchor":null},
+        {"header":"CS-6.335 §17 Triggering Review and Challenge","level":2,"line_start":348,"line_end":371,"anchor":null},
+        {"header":"CS-6.335 §18 Due Process in Funding Changes","level":2,"line_start":372,"line_end":385,"anchor":null},
+        {"header":"CS-6.335 §19 Steward, Operator, and Governance Remuneration (Incentive Governance)","level":2,"line_start":386,"line_end":394,"anchor":null},
+        {"header":"CS-6.335 §20 Conflict-Free Remuneration Processes","level":2,"line_start":395,"line_end":409,"anchor":null},
+        {"header":"CS-6.335 §21 Observability of Alignment","level":2,"line_start":410,"line_end":420,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.340_system_requirements.md": {
-      "total_lines": 134,
+      "total_lines": 132,
       "sections": [
-        {"header":"CS-6.340: System Requirements","level":1,"line_start":2,"line_end":134,"anchor":null},
-        {"header":"CS-6.340 §1 Purpose, Role, and Scope","level":2,"line_start":54,"line_end":79,"anchor":null},
-        {"header":"CS-6.340 §2 In-Scope Catalog","level":2,"line_start":80,"line_end":104,"anchor":null},
-        {"header":"CS-6.340 §3 Analog, Digital, and Channel Class","level":2,"line_start":105,"line_end":117,"anchor":null},
-        {"header":"CS-6.340 §4 What This File Does Not Own","level":2,"line_start":118,"line_end":134,"anchor":null}
+        {"header":"CS-6.340: System Requirements","level":1,"line_start":1,"line_end":132,"anchor":null},
+        {"header":"CS-6.340 §2 In-Scope Catalog","level":2,"line_start":78,"line_end":102,"anchor":"#cs-6340-1-purpose-role-and-scope"},
+        {"header":"CS-6.340 §3 Analog, Digital, and Channel Class","level":2,"line_start":103,"line_end":115,"anchor":null},
+        {"header":"CS-6.340 §4 What This File Does Not Own","level":2,"line_start":116,"line_end":132,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.345_design_testing_verification_deployment.md": {
-      "total_lines": 364,
+      "total_lines": 352,
       "sections": [
-        {"header":"CS-6.345: System Lifecycle","level":1,"line_start":1,"line_end":364,"anchor":null},
-        {"header":"CS-6.345 §1 Purpose, Role, and Scope","level":2,"line_start":64,"line_end":104,"anchor":null},
-        {"header":"CS-6.345 §2 Personal, Isolated, and Experimental Systems","level":2,"line_start":105,"line_end":113,"anchor":null},
-        {"header":"CS-6.345 §3 Creative, Entertainment, and Expressive Systems","level":2,"line_start":114,"line_end":126,"anchor":null},
-        {"header":"CS-6.345 §4 Misclassification and Evasion","level":2,"line_start":127,"line_end":135,"anchor":null},
-        {"header":"CS-6.345 §5 Step-Up to Higher-Impact Systems","level":2,"line_start":136,"line_end":148,"anchor":null},
-        {"header":"CS-6.345 §6 Experimental Substrate Features and Systems","level":2,"line_start":149,"line_end":163,"anchor":null},
-        {"header":"CS-6.345 §7 Non-Experimental Systems","level":2,"line_start":164,"line_end":238,"anchor":null},
-        {"header":"CS-6.345 §8 Governance Continuity, Crisis Communications, and Exercises (High-Impact Systems)","level":2,"line_start":239,"line_end":295,"anchor":null},
-        {"header":"CS-6.345 §9 Self-Healing and Recovery-Path Integrity","level":2,"line_start":296,"line_end":320,"anchor":null},
-        {"header":"CS-6.345 §10 Recertification, Regression Testing, and Certification Defects","level":2,"line_start":321,"line_end":364,"anchor":null}
+        {"header":"CS-6.345: System Lifecycle","level":1,"line_start":1,"line_end":352,"anchor":null},
+        {"header":"CS-6.345 §2 Personal, Isolated, and Experimental Systems","level":2,"line_start":90,"line_end":98,"anchor":"#cs-6345-1-purpose-role-and-scope"},
+        {"header":"CS-6.345 §3 Creative, Entertainment, and Expressive Systems","level":2,"line_start":99,"line_end":111,"anchor":null},
+        {"header":"CS-6.345 §4 Misclassification and Evasion","level":2,"line_start":112,"line_end":120,"anchor":null},
+        {"header":"CS-6.345 §5 Step-Up to Higher-Impact Systems","level":2,"line_start":121,"line_end":133,"anchor":null},
+        {"header":"CS-6.345 §6 Experimental Substrate Features and Systems","level":2,"line_start":134,"line_end":148,"anchor":null},
+        {"header":"CS-6.345 §7 Non-Experimental Systems","level":2,"line_start":149,"line_end":224,"anchor":null},
+        {"header":"CS-6.345 §8 Governance Continuity, Crisis Communications, and Exercises (High-Impact Systems)","level":2,"line_start":225,"line_end":283,"anchor":null},
+        {"header":"CS-6.345 §9 Self-Healing and Recovery-Path Integrity","level":2,"line_start":284,"line_end":308,"anchor":null},
+        {"header":"CS-6.345 §10 Recertification, Regression Testing, and Certification Defects","level":2,"line_start":309,"line_end":352,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md": {
-      "total_lines": 173,
+      "total_lines": 172,
       "sections": [
-        {"header":"CS-6.350: Adoption Transition Constitution and Migration Governance","level":1,"line_start":1,"line_end":173,"anchor":null},
-        {"header":"CS-6.350 §1 Purpose, Role, and Scope","level":2,"line_start":45,"line_end":53,"anchor":null},
-        {"header":"CS-6.350 §2 Phased Adoption Transition Structure","level":2,"line_start":54,"line_end":68,"anchor":null},
-        {"header":"CS-6.350 §3 Gate Criteria and Advancement Rules","level":2,"line_start":69,"line_end":87,"anchor":null},
-        {"header":"CS-6.350 §4 Adoption Transition Authority Constraints","level":2,"line_start":88,"line_end":96,"anchor":null},
-        {"header":"CS-6.350 §5 Failure Handling, Off-Ramps, and Re-Baselining","level":2,"line_start":97,"line_end":110,"anchor":null},
-        {"header":"CS-6.350 §6 Adoption Transition Audit, Disclosure, and Challenge","level":2,"line_start":111,"line_end":123,"anchor":null},
-        {"header":"CS-6.350 §7 Prioritizing System Adoption Transition Targets","level":2,"line_start":124,"line_end":154,"anchor":null},
-        {"header":"CS-6.350 §8 Preservation during Adoption Transition","level":2,"line_start":155,"line_end":173,"anchor":null}
+        {"header":"CS-6.350: Adoption Transition Constitution and Migration Governance","level":1,"line_start":1,"line_end":172,"anchor":null},
+        {"header":"CS-6.350 §2 Phased Adoption Transition Structure","level":2,"line_start":50,"line_end":65,"anchor":"#cs-6350-1-purpose-role-and-scope"},
+        {"header":"CS-6.350 §3 Gate Criteria and Advancement Rules","level":2,"line_start":66,"line_end":85,"anchor":null},
+        {"header":"CS-6.350 §4 Adoption Transition Authority Constraints","level":2,"line_start":86,"line_end":94,"anchor":null},
+        {"header":"CS-6.350 §5 Failure Handling, Off-Ramps, and Re-Baselining","level":2,"line_start":95,"line_end":109,"anchor":null},
+        {"header":"CS-6.350 §6 Adoption Transition Audit, Disclosure, and Challenge","level":2,"line_start":110,"line_end":122,"anchor":null},
+        {"header":"CS-6.350 §7 Prioritizing System Adoption Transition Targets","level":2,"line_start":123,"line_end":153,"anchor":null},
+        {"header":"CS-6.350 §8 Preservation during Adoption Transition","level":2,"line_start":154,"line_end":172,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md": {
-      "total_lines": 223,
+      "total_lines": 234,
       "sections": [
-        {"header":"CS-6.355: Subversion Response, Replacement, and Reconstitution","level":1,"line_start":1,"line_end":223,"anchor":null},
-        {"header":"CS-6.355 §1 Purpose, Role, and Scope","level":2,"line_start":51,"line_end":69,"anchor":null},
-        {"header":"CS-6.355 §2 Landscape Compromise Declaration and Activation","level":2,"line_start":70,"line_end":86,"anchor":null},
-        {"header":"CS-6.355 §3 Priority Triage and Dependency-Aware Containment","level":2,"line_start":87,"line_end":102,"anchor":null},
-        {"header":"CS-6.355 §4 Governance Continuity under Multi-Node Compromise","level":2,"line_start":103,"line_end":140,"anchor":null},
-        {"header":"4.1 Steward-of-Last-Resort Quorum and Compromised-Node Exclusion","level":3,"line_start":115,"line_end":140,"anchor":null},
-        {"header":"CS-6.355 §5 Replacement and Reconstitution Procedure","level":2,"line_start":141,"line_end":154,"anchor":null},
-        {"header":"CS-6.355 §6 Supply-Chain and Cross-Jurisdiction Countermeasure Coordination","level":2,"line_start":155,"line_end":165,"anchor":null},
-        {"header":"CS-6.355 §7 Crisis Communications and Anti-Disinformation Controls","level":2,"line_start":166,"line_end":206,"anchor":null},
-        {"header":"7.1 Evidence-Quality Gates and Information-Integrity Escalation (High-Impact Decisions)","level":3,"line_start":179,"line_end":206,"anchor":null},
-        {"header":"CS-6.355 §8 Exit, Restoration, and Post-Incident Revalidation","level":2,"line_start":207,"line_end":223,"anchor":null}
+        {"header":"CS-6.355: Subversion Response, Replacement, and Reconstitution","level":1,"line_start":1,"line_end":234,"anchor":null},
+        {"header":"CS-6.355 §2 Landscape Compromise Declaration and Activation","level":2,"line_start":71,"line_end":89,"anchor":"#cs-6355-1-purpose-role-and-scope"},
+        {"header":"CS-6.355 §3 Priority Triage and Dependency-Aware Containment","level":2,"line_start":90,"line_end":106,"anchor":null},
+        {"header":"CS-6.355 §4 Governance Continuity under Multi-Node Compromise","level":2,"line_start":107,"line_end":145,"anchor":null},
+        {"header":"4.1 Steward-of-Last-Resort Quorum and Compromised-Node Exclusion","level":3,"line_start":120,"line_end":145,"anchor":null},
+        {"header":"CS-6.355 §5 Replacement and Reconstitution Procedure","level":2,"line_start":146,"line_end":160,"anchor":null},
+        {"header":"CS-6.355 §6 Supply-Chain and Cross-Jurisdiction Countermeasure Coordination","level":2,"line_start":161,"line_end":172,"anchor":null},
+        {"header":"CS-6.355 §7 Crisis Communications and Anti-Disinformation Controls","level":2,"line_start":173,"line_end":216,"anchor":null},
+        {"header":"7.1 Evidence-Quality Gates and Information-Integrity Escalation (High-Impact Decisions)","level":3,"line_start":187,"line_end":216,"anchor":null},
+        {"header":"CS-6.355 §8 Exit, Restoration, and Post-Incident Revalidation","level":2,"line_start":217,"line_end":234,"anchor":null}
       ]
     },
     "corpus_systems/cs_09.305_system_classification_machinery.md": {
@@ -2253,29 +2245,27 @@
       ]
     },
     "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md": {
-      "total_lines": 818,
+      "total_lines": 815,
       "sections": [
-        {"header":"CS-9.320: System Alignment Certification Illustrations","level":1,"line_start":1,"line_end":818,"anchor":null},
-        {"header":"CS-9.320 §1 Purpose, Role, and Scope","level":2,"line_start":41,"line_end":69,"anchor":null},
-        {"header":"CS-9.320 §2 Illustrative System Class Profiles","level":2,"line_start":70,"line_end":83,"anchor":null},
-        {"header":"CS-9.320 §3 Reclassification","level":2,"line_start":84,"line_end":93,"anchor":null},
-        {"header":"CS-9.320 §4 Illustrative Whole-System Application by System Class","level":2,"line_start":94,"line_end":205,"anchor":null},
-        {"header":"CS-9.320 §5 Illustrative Data-Handling Application by System Class","level":2,"line_start":206,"line_end":275,"anchor":null},
-        {"header":"CS-9.320 §6 Illustrative Ecological-Footprint Application by System Class","level":2,"line_start":276,"line_end":355,"anchor":null},
-        {"header":"CS-9.320 §7 Illustrative Educational-Capability Application by System Class","level":2,"line_start":356,"line_end":435,"anchor":null},
-        {"header":"CS-9.320 §8 Illustrative Cross-System Support Application by System Class","level":2,"line_start":436,"line_end":516,"anchor":null},
-        {"header":"CS-9.320 §9 Illustrative Nondiscrimination Application by System Class","level":2,"line_start":517,"line_end":593,"anchor":null},
-        {"header":"CS-9.320 §10 Illustrative Accessibility Application by System Class","level":2,"line_start":594,"line_end":673,"anchor":null},
-        {"header":"CS-9.320 §11 Illustrative Trustworthiness Application by System Class","level":2,"line_start":674,"line_end":775,"anchor":null},
-        {"header":"CS-9.320 §12 Illustrative Institution Walkthroughs","level":2,"line_start":776,"line_end":818,"anchor":null}
+        {"header":"CS-9.320: System Alignment Certification Illustrations","level":1,"line_start":1,"line_end":815,"anchor":null},
+        {"header":"CS-9.320 §2 Illustrative System Class Profiles","level":2,"line_start":67,"line_end":80,"anchor":"#cs-9320-1-purpose-role-and-scope"},
+        {"header":"CS-9.320 §3 Reclassification","level":2,"line_start":81,"line_end":90,"anchor":null},
+        {"header":"CS-9.320 §4 Illustrative Whole-System Application by System Class","level":2,"line_start":91,"line_end":202,"anchor":null},
+        {"header":"CS-9.320 §5 Illustrative Data-Handling Application by System Class","level":2,"line_start":203,"line_end":272,"anchor":null},
+        {"header":"CS-9.320 §6 Illustrative Ecological-Footprint Application by System Class","level":2,"line_start":273,"line_end":352,"anchor":null},
+        {"header":"CS-9.320 §7 Illustrative Educational-Capability Application by System Class","level":2,"line_start":353,"line_end":432,"anchor":null},
+        {"header":"CS-9.320 §8 Illustrative Cross-System Support Application by System Class","level":2,"line_start":433,"line_end":513,"anchor":null},
+        {"header":"CS-9.320 §9 Illustrative Nondiscrimination Application by System Class","level":2,"line_start":514,"line_end":590,"anchor":null},
+        {"header":"CS-9.320 §10 Illustrative Accessibility Application by System Class","level":2,"line_start":591,"line_end":670,"anchor":null},
+        {"header":"CS-9.320 §11 Illustrative Trustworthiness Application by System Class","level":2,"line_start":671,"line_end":772,"anchor":null},
+        {"header":"CS-9.320 §12 Illustrative Institution Walkthroughs","level":2,"line_start":773,"line_end":815,"anchor":null}
       ]
     },
     "corpus_systems/cs_27.305_critical_system_stewardship.md": {
       "total_lines": 580,
       "sections": [
         {"header":"CS-27.305: Critical System Stewardship","level":1,"line_start":1,"line_end":580,"anchor":null},
-        {"header":"CS-27.305 §1 Purpose, Role, and Scope","level":2,"line_start":58,"line_end":68,"anchor":null},
-        {"header":"CS-27.305 §2 Classification as Steward","level":2,"line_start":69,"line_end":119,"anchor":null},
+        {"header":"CS-27.305 §2 Classification as Steward","level":2,"line_start":69,"line_end":119,"anchor":"#cs-27305-1-purpose-role-and-scope"},
         {"header":"CS-27.305 §3 Stewardship Criticality Levels","level":2,"line_start":120,"line_end":136,"anchor":null},
         {"header":"CS-27.305 §4 Scaling Obligations","level":2,"line_start":137,"line_end":150,"anchor":null},
         {"header":"CS-27.305 §5 Comprehensibility and Complexity Stewardship","level":2,"line_start":151,"line_end":178,"anchor":null},
