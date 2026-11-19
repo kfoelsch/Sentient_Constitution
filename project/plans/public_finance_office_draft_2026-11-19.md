@@ -16,7 +16,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 3. **Wellbeing and business revenue.** The draft makes the office the disbursing and accounting office for programs the governing authority funds, not their policy owner (§7). Alternative: leave those programs out of this chapter entirely.
 > 4. **Challenge venue.** Funding disputes go to Integrity forums, with backup routing when an Integrity forum is itself a claimant (§10).
 > 5. **Reserve fund size (§11).** The default target is one quarter of the sum of the floors for a cycle. Alternative: a larger target for adopters whose revenue swings widely, or a target set by a published risk test.
-> 6. **Currency and bonds.** The draft gives the office no power to issue currency or to borrow. It is a payer, not a monetary or borrowing authority. This is an open question for the custodian.
+> 6. **Currency and bonds.** Settled by the custodian (2026-11-19): this office does not issue currency or borrow. A separate Public Monetary Office holds both powers; see the draft [public_monetary_office_draft_2026-11-19.md](public_monetary_office_draft_2026-11-19.md).
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-6.335. That pointer would name this chapter instead.
@@ -81,6 +81,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) bars payoffs and cost rules from replacing proper routing or a real merits decision. This chapter applies that bar to funding.
 - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the total budget under §4.
 - The Public Information Office chapter runs forum-requested research and checks this office's figures. This office pays for that work and does not direct it.
+- The Public Monetary Office chapter issues currency and public debt. This office may not issue currency or borrow, and the Public Monetary Office may not decide spending.
 - A later corpus-institutions file carries the formula, reserve sizes, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office holds, allocates, disburses, and accounts for public money for:
