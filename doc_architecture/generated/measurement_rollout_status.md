@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-18T18:23:55+00:00
+Generated: 2026-11-19T11:42:44+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **317/317** terms pass tier audit.
+Approved progress: **318/318** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -267,6 +267,7 @@ Approved progress: **317/317** terms pass tier audit.
 | Documented Legitimacy Mechanism | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Due Process | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Duty to Resist | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Enforcement Record | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Essential Record | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Feasibility | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

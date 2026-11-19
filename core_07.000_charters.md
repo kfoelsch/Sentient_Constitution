@@ -461,7 +461,7 @@ A System Charter states, in plain language that affected sentients and auditors 
    - **Who carries what:** the System Charter holds only the pointers. The three sets of rules hold the actual content: how the choice is made, how weight is set, and what the Stakeholder Rights-Collision Record shows. The System Charter does not carry that content itself, and its own text cannot be offered in place of those rules. A dead pointer, or System Charter text offered in place of the rules, fails the System Charter duty.
 9. **Amendment authority:** who may amend, what counts as a material amendment, and the notice and contest path.
 10. **Enforcement and emergency contacts:** current contacts through which:
-    - a forum or carrying-out body can serve an outcome and reach someone with authority to comply with it; and
+    - a forum or enforcement body can serve an outcome and reach someone with authority to comply with it; and
     - anyone can report an emergency that the Chartered Party's activities cause or could stop, and reach someone able to act on it at once.
 
     The enforcement contact must be reachable whenever the Chartered Party operates. The emergency contact must be reachable at all hours where the Chartered Party operates continuously or its activities could cause or stop imminent harm; otherwise it must be reachable whenever the Chartered Party operates, with a published forwarding path for other times. Both must be kept current, and they are a missing item under [§2.6 If a System Charter or Institutional Charter Is Missing](#26-if-a-system-charter-or-institutional-charter-is-missing) if they do not work. Serving an outcome through the published enforcement contact counts as serving the Chartered Party.

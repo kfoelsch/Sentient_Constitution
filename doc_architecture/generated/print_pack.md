@@ -535,7 +535,7 @@ Each step below states what the chapter owns and what it produces, filling in th
 
 **Chapter Twenty-Six — [Special enforcement](../../core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement)**
 
-- **What it owns:** The added safeguards when carrying out an outcome means taking money or assets, when force is used or could be, and when enforcement keeps failing in the same way.
+- **What it owns:** The added safeguards when carrying out an outcome means freezing or seizing money or assets, when force is used or could be, and when enforcement keeps failing in the same way.
 - **What it produces:** Enforcement that leaves the least lasting harm that still carries the outcome out, and root causes of enforcement failure found and removed rather than repeated.
 
 <a id="8-governance-change-and-incorporation"></a>
