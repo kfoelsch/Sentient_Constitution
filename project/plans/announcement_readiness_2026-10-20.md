@@ -15,6 +15,10 @@ These decisions were recovered from the October 20 planning conversation:
 - There are no operating agents available to participate. Begin with bounded procedural simulations in separate sessions; maintaining agent infrastructure is outside the critical path. A simulation cannot establish live adoption or independent real-world institutions.
 - Recruit outside testers alongside editing. Human usability and the publication spec's human-operator evidence cannot be established by AI roleplay. Prepare outreach; sending invitations needs the steward's instruction.
 
+## Non-core corpus sweep opening rule
+
+Review the CJS, Systems, Institutions, and Forum layers and their gateways file by file for ownership, purpose and role, core alignment, current references, formatting, and readability. A subchapter does not need a separate numbered §1 Purpose, Role, and Scope; keep a requested file-level orientation unnumbered. Preserve established section numbering and bring any unresolved substantive choice to the steward. See [the architecture decision](../../doc_architecture.md#chapter-section-2-why-the-chapter-exists-chapter-s2-why-01).
+
 ## Current baseline
 
 The plan began at `34810bf6` after PR #100. For B04, local main was fast-forwarded to `e6bbe76d` after PR #102, and work continues on `codex/announcement-interlock-review`. Inherited Chapter Seven changes, translations, generated outputs and the uncommitted B02/B03 batch were preserved. Core and translation text remain outside the English implementation edit scope.

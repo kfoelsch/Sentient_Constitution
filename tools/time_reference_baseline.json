@@ -199,10 +199,6 @@
       "snippet": "It says where each floor started, where it is now, where it must be and by when, which scopes it is already enforceable for, how the numbers"
     },
     {
-      "key": "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md::duration::153d0e7c3baf",
-      "snippet": "*In plain terms: each institution must report on whether its safeguards work — but reporting is not only once a year."
-    },
-    {
       "key": "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md::duration::60924c137de8",
       "snippet": "CI-8.215 §1 — routine controls attestation plus urgency-scaled incident notice when something breaks (violations, corruption, control failur"
     },
@@ -211,16 +207,16 @@
       "snippet": "Published works should use publication+30 years as the presumptive outer limit."
     },
     {
+      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::d1e2ea66f522",
+      "snippet": "Claims over inventions, processes, and other functional works should use disclosure+15 years as the outer limit of exclusion, followed by an"
+    },
+    {
       "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::d352d0b658b4",
       "snippet": "Systems already running have one year by default to move to open formats, apart from the way out, which applies at once.*"
     },
     {
       "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::f869c42dad19",
       "snippet": "Non-commercial drafts or unpublished expressive works that have made an initial non-confidential public appearance may receive no more than "
-    },
-    {
-      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::fa7666076af2",
-      "snippet": "Claims over inventions, processes, and other functional works should use disclosure+15 years as the outer limit of exclusion, followed by an"
     },
     {
       "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::ff6e06a60056",

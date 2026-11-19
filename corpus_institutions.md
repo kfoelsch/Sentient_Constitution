@@ -1,28 +1,36 @@
 # Institutions
 
+This page is the non-operative navigation home for the Institutions layer. The substantive rules are in the linked Institutions files.
+
+## Purpose, Role, and Scope
+
 *In plain terms: rules for how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
 **Scope:**
+
 - How institutional bodies are formed, authorized, staffed, and kept within constitutional limits
 - How conflict, procedure, oversight, transparency, and participation duties scale with material impact once a body is operating
 - How revenue, resources, and incentives are stewarded without capture or silent exclusion
 - How institutional rules land in domain interfaces (care, health, markets, commons, place, science, and related)
 - How institutions coordinate, fail, correct, dissolve, or go through the Adoption Transition — and how remedy capacity is kept real
-- Section families **CI-0.210** (*Scope, purpose, and legitimacy interface*) and **CI-8.205** (*Institutional design, separation of powers, and authority custody*)–**CI-25.205** (*Institutional accountability and sanctions*) carry the detail (**CI-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Institutions index** below when you need a specific file.
+- The Institutions index below lists the authoritative files; **CI-2** (*reserved family ID*) remains retired, and its domain routing lives in the registry annex.
 
 **Does not:**
+
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
 - Replace forum hearing process ([Forums](corpus_forum.md))
 - Replace system classification doctrine ([Systems and Data](corpus_systems.md))
 
 **Implements from the core files:**
+
 - [Chapter One](core_01.000_values_principles.md) principles ([Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
-- [Chapter Seventeen](core_17.000_standing_integration.md) remedy and enforcement realism where **CI-25.210** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
+- [Chapter Twenty §4](core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) where **CI-25.210** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
 - [Chapter Twenty-Seven](core_27.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 
 **Siblings:**
+
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
 - [Systems and Data](corpus_systems.md) — typing, classification, and stewardship of systems and data
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence

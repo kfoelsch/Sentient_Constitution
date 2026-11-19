@@ -348,8 +348,7 @@ def build_footer(
     if with_alignment:
         lines.extend(
             [
-                "*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; "
-                "edition and custody in [README.md](../README.md) and "
+                "*Corpus alignment:* edition and custody follow "
                 "[Chapter Five *Corpus*](../core_05.045_band_integrative.md#corpus).",
                 "",
                 "---",

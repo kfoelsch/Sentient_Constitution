@@ -1,27 +1,35 @@
 # Forums
 
+This page is the non-operative navigation home for the Forums layer. The substantive rules are in the linked Forum files.
+
+## Purpose, Role, and Scope
+
 *In plain terms: rules for how panels form, cases route, appeals work, and forum operations stay independent when the constitution requires a fair hearing.*
 
 **Scope:**
+
 - How lawful forums are structured and how panels are formed, disclosed, and kept independent
-- How matters route, transfer, certify representation, appeal, and exhaust review pathways
+- How matters route, transfer, receive questions for ruling and representative treatment, appeal, and exhaust review pathways
 - How integrity, anti-capture, and anti-self-judging rules protect fair hearing while a matter is live
 - How forensic support, investigation interfaces, and specialist chambers assist without capturing the forum
 - How performance, accessibility, records, staffing, continuity, fallback, and emergency adjudication keep hearings usable under stress
 - Section families **CF-0.410** (*Scope, authority, and boundary rules*) and **CF-23.405** (*Forum formation, forum-structure mapping, and chamber structure*)–**CF-23.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) carry the detail (**CF-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Forums index** below when you need a specific file.
 
 **Does not:**
+
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
 - Create new forum families beyond those authorized in [Chapter Twenty-Three](core_23.000_forum.md)
 - Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and Data](corpus_systems.md))
 
 **Implements from the core files:**
+
 - [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Six](core_06.020_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XVI-A](core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [**Article XX** (*Justice After Verified Violation*)](core_06.030_rights_part_d.md#article-xx-justice-after-verified-violation), and [Article XXVIII](core_06.040_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) where forums support the Adoption Transition
-- [Chapter Twenty-Three](core_23.000_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
-- [Standing pipeline](core_00.000_preamble.md#62-how-the-full-chain-fits-together) supervision context under Chapters Nine through Twenty-Two — forums hear and route; they do not replace standing measurement owners
+- Chapter Twenty-Three owns [supervision, routing, forum cases, and transfer](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases), and [forum-family definitions, escalation, timeliness, and support](core_24.000_forum_families_escalation_timeliness_support.md#chapter-twenty-four-forum-families-escalation-timely-resolution-and-support)
+- [The certification and standing tracks](core_00.000_preamble.md#62-how-the-full-chain-fits-together): Chapters Nine through Fourteen cover system and institutional certification; Chapters Fifteen through Twenty-Two cover standing. Forums supervise, hear, and route matters without replacing standing measurement owners
 
 **Siblings:**
+
 - Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Twenty-Three](core_23.000_forum.md)) before operational detail
 - [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
 - [Systems and Data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
@@ -72,7 +80,7 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-23.415: Routing operations, transfer, certification, and representative treatment | [cf_23.415_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md) |
+| CF-23.415: Routing Operations, Transfer, Questions for Ruling, and Representative Treatment | [cf_23.415_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md) |
 | CF-23.420: Appeal, Secondary Review, and Exhaustion Pathways | [cf_23.420_appeal_secondary_review_exhaustion_pathways.md](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md) |
 | CF-23.425: Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support | [cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md) |
 
@@ -88,12 +96,12 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-23.445: Forum performance, backlog, publication timeliness, and accessibility | [cf_23.445_performance_backlog_publication_accessibility.md](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md) |
+| CF-23.445: Forum Performance, Backlog Requirements, Publication Timeliness, and Accessibility | [cf_23.445_performance_backlog_publication_accessibility.md](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md) |
 | CF-23.450: Forum Continuity | [cf_23.450_forum_continuity.md](corpus_forum/cf_23.450_forum_continuity.md) |
 | CF-23.455: Fallback Operation | [cf_23.455_fallback_operation.md](corpus_forum/cf_23.455_fallback_operation.md) |
 | CF-23.460: Emergency Adjudication | [cf_23.460_emergency_adjudication.md](corpus_forum/cf_23.460_emergency_adjudication.md) |
 | CF-23.465: Standard Records, Forms, and Evidence Artifacts | [cf_23.465_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md) |
-| CF-23.470: Forum staffing, reserve capacity, shared administration, and structural records | [cf_23.470_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md) |
+| CF-23.470: Forum Staffing, Reserve Capacity, Shared Administration, Structural Review, and Structural Records | [cf_23.470_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md) |
 <!-- END GENERATED FAMILY INDEX -->
 </details>
 

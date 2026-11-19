@@ -1,27 +1,35 @@
 # Systems and Data
 
+This page is the non-operative navigation home for the Systems and Data layer. The substantive rules are in the linked Systems files.
+
+## Purpose, Role, and Scope
+
 *In plain terms: rules for how systems and data are typed, classified, tested, stewarded, and operated — so they stay aligned with the Sentient Constitution without rewriting it.*
 
 **Scope:**
+
 - How systems are classified by impact and stewardship duty, and what stronger classes must do
 - How systems and data are typed and handled when they affect sentients, dependencies, or the info-sphere
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How Adoption Transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named **CS-6.345** (*System lifecycle*)–**CS-6.340** (*System requirements*) families and **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data Classifications*)–**CS-27.305** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
+- The Systems index below lists the authoritative files for data handling, system classification, stewardship, and engineering protocols
 
 **Does not:**
+
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
 - Create a second Constitution, or narrow core meaning
 - Own day-to-day institutional governance or forum hearing process (see siblings)
 
 **Implements from the core files:**
+
 - [Chapter One](core_01.000_values_principles.md) principles and [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapters Two through Four](core_02.000_definition_structure.md) where auditability, traceability, and verification must hold in systems
-- [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06.020_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A / XXIII-B](core_06.020_rights_part_c.md) (comprehensibility), and related system-facing articles
+- [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*), [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06.020_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A](core_06.030_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*) and [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*), and related system-facing articles
 - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
 
 **Siblings:**
+
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
 - [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
