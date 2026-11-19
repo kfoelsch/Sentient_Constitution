@@ -164,7 +164,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**.
+- Downstream: Rights-Floor: **[Article XXIX-A](core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**.
 - Canonical owner: this definition states what a gate is. [Gate Criteria](core_05.050_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-6.350 §3** (*Gate Criteria and Advancement Rules*) and **CI-6.275** (*Adoption Transition governance and institutional evolution*).
 - Read with:
   - [Gate Criteria](core_05.050_band_oversight.md#gate-criteria),
@@ -179,7 +179,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 *In plain terms: a gate is a checkpoint in an Adoption Transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.*
 
 - **What it is**
-  - **In scope:** The checkpoint between two phases of an Adoption Transition plan under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), or before the plan widens the scope of adoption, at which the plan either meets its [Gate Criteria](#gate-criteria) and advances, or does not meet them and holds.
+  - **In scope:** The checkpoint between two phases of an Adoption Transition plan under **Article XXIX-A** (*Phased Adoption and Rights-Floor Continuity*), or before the plan widens the scope of adoption, at which the plan either meets its [Gate Criteria](#gate-criteria) and advances, or does not meet them and holds.
   - **Out of scope:**
     - ordinary project milestones that do not open or widen constitutional operation; and
     - approval steps decided by discretion alone, with no published criteria to meet.
@@ -205,7 +205,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**; **[Article XXVIII-B](core_06.040_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*)**.
+- Downstream: Rights-Floor: **[Article XXIX-A](core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**; **[Article XXIX-B](core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*)**.
 - Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-6.350 §3** (*Gate Criteria and Advancement Rules*) and **CI-6.275** (*Adoption Transition governance and institutional evolution*), and may not narrow this definition.
 - Read with:
   - [Gate](core_05.050_band_oversight.md#gate),
@@ -230,7 +230,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
     - continuity of critical services and survival-supporting access;
     - readiness of oversight, audit, and contestability pathways;
     - rollback and fallback feasibility; and
-    - Rights-Floor attainment and enforcement-readiness milestones under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*).
+    - Rights-Floor attainment and enforcement-readiness milestones under **Article XXIX-A** (*Phased Adoption and Rights-Floor Continuity*).
   - **Out of scope:**
     - goals or aspirations that cannot be measured;
     - the contents of a particular plan's criteria, which stay with that plan; and
@@ -271,7 +271,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 - Downstream:
   - [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
   - [Article XI-B](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*);
-  - [Article XIV-C](core_06.020_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
+  - [Article XV-C](core_06.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
   - [Chapter Twenty-One §5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (21.000 §5) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*);
   - [Chapter Twenty-Nine §2](core_29.000_amendment_ratification.md#2-heightened-review-for-rights-affecting-changes) (29.000 §2) (*Heightened Review for Rights-Affecting Changes*).
 
@@ -348,7 +348,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
     - source protection;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article XI-C** (*Press and Journalistic Activity*). Apply heightened [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article XI-C** (*Press and Journalistic Activity*). Apply heightened [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
@@ -576,15 +576,15 @@ Implication can exist without misalignment. Misalignment always implies material
     - <a id="domain-specific-materiality-custody"></a>**Custody.** *Does the Operating Party hold things that matter to others, who depend on it to keep them safe?*
       - Material when: the Operating Party holds funds, assets, credentials, keys, or records and data about other sentients, beyond what its members put in for the Operating Party's own work, and others depend on it to keep them safe, accurate, or available; or it holds [Standing Records](core_05.035_band_accountability.md#standing-record) or serves as a forum, certifier, or record office. Personal or sensitive data about non-members counts.
       - Not material: a members' kitty spent on the group's own materials, and a contact list kept with members' knowledge for the group's own notices.
-      - Owners: **Article II-E** (*Data Handling and Network Dependency*), **Article IX** (*Likeness, Experiential Data, and Publication Rights*), **Article XVI** (*Audit, Transparency, and Independent Verification*), and [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
+      - Owners: **Article II-E** (*Data Handling and Network Dependency*), **Article IX** (*Likeness, Experiential Data, and Publication Rights*), **Article XVII** (*Audit, Transparency, and Independent Verification*), and [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
     - <a id="domain-specific-materiality-information"></a>**Information and truth.** *Will others rely on what the Operating Party says as true when they decide about safety, money, health, rights, or standing?*
       - Material when: the Operating Party states, publishes, rates, or certifies something that others will foreseeably rely on as true for those decisions, at a reach beyond those who know the source; or it runs [Info-Sphere](core_05.055_band_participation.md#info-sphere) infrastructure, such as a platform, index, or rating, that others use to find or judge information.
       - Not material: opinion, art, personal accounts, and correspondence presented as such, and accurate sharing among those who know the source.
-      - Owners: [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*), **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*), and **Article XV** (*Info-Sphere Integrity*).
+      - Owners: [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*), **Article XIV-C** (*Prohibition of False Trust and Misleading Reliance*), and **Article XVI** (*Info-Sphere Integrity*).
     - <a id="domain-specific-materiality-dependence"></a>**Dependence and exit.** *Would others lose something real if they left the Operating Party, replaced it, or it failed?*
       - Material when: others have come to rely on the Operating Party so that declining, replacing, or leaving it would cost them materially (access, data, income, community, or time they cannot easily recover); or its failure or withdrawal would spread to others ([Dependency](core_05.040_band_continuity.md#dependency), [Cascading Failure](core_05.040_band_continuity.md#cascading-failure)).
       - Not material: reliance that others can drop without material loss.
-      - Owners: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), **Article XXI** (*Interoperability, Portability, and Exit Integrity*), and **Article II-F** (*Continuity and Operator Shutdown*).
+      - Owners: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), **Article XXII** (*Interoperability, Portability, and Exit Integrity*), and **Article II-F** (*Continuity and Operator Shutdown*).
     - <a id="domain-specific-materiality-ecology"></a>**Ecology.** *If the activity stopped today, would the ecosystem recover on its own? And the flipside: is the Operating Party helping an area recover?*
       - Material when: the activity impairs [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity). Any one of these tests is enough:
         - the ecosystem would not return to its prior function unaided within the period set for that kind of ecosystem;
@@ -600,7 +600,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - <a id="domain-specific-materiality-systemic"></a>**Systemic and irreversible effects.** *Could the activity, alone or with others, concentrate power, capture something shared, spread a failure, or lock in something that cannot be undone?*
       - Material when: the Operating Party's activity, alone or with others under common control or on the same shared system, can concentrate power or capture a shared function, cascade across systems, or lock in a state that cannot practically be reversed; or it creates a credible causal pathway to [Existential Risk](core_05.040_band_continuity.md#existential-risk).
       - Not material: effects that stay local, bounded, and reversible.
-      - Owners: [Systemic Materiality](core_05.040_band_continuity.md#systemic-materiality), **Article XII-D** (*Non-Capture Safeguards*), **Article XVII** (*System Lifecycle, Environments, and Reversibility*), and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*).
+      - Owners: [Systemic Materiality](core_05.040_band_continuity.md#systemic-materiality), **Article XIII-A** (*Non-Capture Safeguards*), **Article XVIII** (*System Lifecycle, Environments, and Reversibility*), and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*).
   - **Out of scope:**
     - The scaling of duties to material stake, which stays with [Materiality](core_05.050_band_oversight.md#materiality).
     - The duties themselves, which stay with their owners above.
@@ -1087,7 +1087,7 @@ Outside that cluster's scope, individual entries may still apply on their own wi
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Oversight frame.** Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others (forum-supervised alignment review with certification outcomes under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)); it does not swallow this cluster or replace sibling audit modes.
+**Oversight frame.** Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVII** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others (forum-supervised alignment review with certification outcomes under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)); it does not swallow this cluster or replace sibling audit modes.
 
 **System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - deeper assurance;
@@ -1355,8 +1355,8 @@ See **Anti-Segmentation Principle**.
   - [Verifiability](core_05.050_band_oversight.md#verifiability),
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and
   - [Evaluation Completeness Constraint](core_05.050_band_oversight.md#evaluation-completeness-constraint).
-- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02.000_definition_structure.md](core_02.000_definition_structure.md) Chapters Two through Four.
-- Steward door (non-operative): Next-step card: [Audit](implementation/STEWARD_ENTRY_DOORS.md#audit). This definition is the property layer of the audit stack; three-layer picture: [Article XVI](core_06.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*).
+- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02.000_definition_structure.md](core_02.000_definition_structure.md) Chapters Two through Four.
+- Steward door (non-operative): Next-step card: [Audit](implementation/STEWARD_ENTRY_DOORS.md#audit). This definition is the property layer of the audit stack; three-layer picture: [Article XVII](core_06.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*).
 
 </details>
 
@@ -1571,7 +1571,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
-- Owner floor: [Article XVI-C](core_06.020_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVII-C](core_06.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Read with:
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Transparency](core_05.050_band_oversight.md#transparency),
@@ -1590,7 +1590,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditability](core_05.050_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XVI-C](core_06.020_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*); [Feasibility](core_05.035_band_accountability.md#feasibility));
+    - practical access ([Article XVII-C](core_06.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*); [Feasibility](core_05.035_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Proportionality](core_05.035_band_accountability.md#proportionality) and [Material Impact](core_05.050_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1615,7 +1615,7 @@ See **Anti-Segmentation Principle**.
   - **Secondary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether observed behavior can be independently validated by reproducible methods in practice.
 
     **Secondary assessment:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XVI-C](core_06.020_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*); [Feasibility](core_05.035_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVII-C](core_06.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*); [Feasibility](core_05.035_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Proportionality](core_05.035_band_accountability.md#proportionality) and [Material Impact](core_05.050_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1736,7 +1736,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) and [Good Faith](core_05.035_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **What must hold**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Twenty-Three **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), [Good Faith](core_05.035_band_accountability.md#good-faith), and [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Twenty-Three **Articles IX**, **XIV**, and **XV** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), [Good Faith](core_05.035_band_accountability.md#good-faith), and [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity).
   - **Primary failure:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

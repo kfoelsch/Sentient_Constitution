@@ -89,7 +89,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — family relationship is not authority over another sentient’s clinician
 - [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*) where the clinic switch is the price of enrollment
 - [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the job lock is used to defeat lawful work Mika can actually do; do not drag the employer into a family-merits case it is not in
-- [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and [Article XXVI-C](../../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
+- [Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) and [Article XXVII-C](../../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

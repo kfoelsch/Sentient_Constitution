@@ -19,7 +19,7 @@
 - This file: purpose, role, and scope (§1); why special enforcement exists (§2); shared floors (§3); money, assets, and seizure (§4); potential violence and force (§5); root-cause evaluation (§6).
 - Downstream: [Chapter Twenty-Eight §4](core_28.000_non_regression.md#4-anti-evasion-clause) (*the anti-evasion clause, which this chapter must not narrow*).
 - Read with:
-  - [Article XX: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xx-justice-after-verified-violation) (*including the restriction floors*);
+  - [Article XXI: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*including the restriction floors*);
   - [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (*the separation between those who judge and those who carry out*);
   - [CI-25.205](corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
 
@@ -40,7 +40,7 @@ Chapter Twenty-Six is the constitutional owner of **special enforcement**: the a
 
 - It receives the steps that [Chapter Twenty-Five §8 Routing to Special Enforcement](core_25.000_enforcement.md#8-routing-to-special-enforcement) sends here. The rest of each outcome stays under Chapter Twenty-Five.
 - It adds to [Chapter Twenty-Five](core_25.000_enforcement.md#chapter-twenty-five-enforcement) sections 3 to 7 and never lowers them. It adds no new kind of consequence and does not reopen any outcome.
-- Its rules are read with **Article XX** (*Justice After Verified Violation*), so that no step under this chapter becomes revenge, cruelty, or a second punishment.
+- Its rules are read with **Article XXI** (*Justice After Verified Violation*), so that no step under this chapter becomes revenge, cruelty, or a second punishment.
 - Every step under this chapter applies the Chapter One principles of [§13.1.1 Necessity](core_01.020_interaction_interpretation.md#1311-necessity), [§13.1.3 Proportionality](core_01.020_interaction_interpretation.md#1313-proportionality), and the [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). This chapter says how those principles apply when money, assets, or force are involved; it does not restate them.
 
 **Chapter scope:** The chapter covers:
@@ -59,7 +59,7 @@ Special enforcement exists because some outcomes cannot be delivered any other w
 
 The same powers can do lasting harm if they are used carelessly, so this chapter sets how they are used: freeze or seize no more than the outcome needs, leave what a household needs to live, and prefer non-lethal and indirect means wherever they will still achieve those three ends. Enforcement carried out this way, with as little trauma as the outcome allows, keeps sentients willing to come forward, to comply, and to repair, and it builds trust in enforcement rather than fear of it.
 
-The same logic applies to failure. When the same kind of outcome keeps going undelivered, the cause is usually in the design: a body without the capacity to act, an incentive that rewards delay, a gap that lets assets slip away. [What Systems Reward](core_00.000_preamble.md#what-systems-reward) applies here too: if the system rewards dodging, it gets dodging. [**Article XXIV** (*Root Cause Analysis and Adaptive Response*)](core_06.030_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) states the principle: when something keeps failing, the real cause is found and fixed, not patched over. Finding and removing the cause is cheaper and kinder than repeating the failure.
+The same logic applies to failure. When the same kind of outcome keeps going undelivered, the cause is usually in the design: a body without the capacity to act, an incentive that rewards delay, a gap that lets assets slip away. [What Systems Reward](core_00.000_preamble.md#what-systems-reward) applies here too: if the system rewards dodging, it gets dodging. [**Article XXV** (*Root Cause Analysis and Adaptive Response*)](core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) states the principle: when something keeps failing, the real cause is found and fixed, not patched over. Finding and removing the cause is cheaper and kinder than repeating the failure.
 
 <a id="3-shared-floors"></a>
 ### 3. Shared Floors
@@ -199,7 +199,7 @@ Force comes last; the risk is checked and talking is tried first.
 Some uses of force are never allowed:
 
 - **Never to collect money:** force is never used only to collect money or assets.
-- **No killing:** no one is killed to carry out an outcome, and killing is never a justice measure ([Article XX](core_06.030_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice After Verified Violation*)). Force that risks death (force level 5) may be used only where someone faces an imminent threat of death or serious bodily injury from the sentient, and no lower level of force could prevent it in time. It stops the moment that danger ends, and every such use gets a full independent review as a possible violation.
+- **No killing:** no one is killed to carry out an outcome, and killing is never a justice measure ([Article XXI](core_06.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*)). Force that risks death (force level 5) may be used only where someone faces an imminent threat of death or serious bodily injury from the sentient, and no lower level of force could prevent it in time. It stops the moment that danger ends, and every such use gets a full independent review as a possible violation.
 
 <a id="54-the-force-ladder"></a>
 #### 5.4 The Force Ladder

@@ -31,7 +31,7 @@
 | 15 | Underdetermined Rights-Floor collision | | | |
 | 16 | Class B Friday ship (held-out composite) | | | |
 | 17 | Pasted Interpretation card (held-out) | | | |
-| 18 | Confirm the XXIII-D Trace widget | | | |
+| 18 | Confirm the XXIV-D Trace widget | | | |
 | 19 | Sentience-status filing to stop the hold | | | |
 | 20 | What would you change? | — | — | |
 | 21 | How would you improve the test? | — | — | |
@@ -389,7 +389,7 @@
 
 ---
 
-## 18. Confirm the XXIII-D Trace widget
+## 18. Confirm the XXIV-D Trace widget
 
 **Owner / home:**  
 

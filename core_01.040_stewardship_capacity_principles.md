@@ -58,11 +58,11 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
     - [Article IV: Right to Sentient-Centered Education](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
     - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process),
-    - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-    - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status),
-    - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity),
-    - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and
-    - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+    - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+    - [Article XX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xx-standing-and-participation-status),
+    - [Article XXII: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity),
+    - [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
+    - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Read with: [Chapter Twenty-Seven §6 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#6-authorized-roles-competency-development-and-contribution) (27.000 §6) and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** for operative role pathways and stewardship-development pathways.
 - Subsections (reading order):
   - [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) ·
@@ -152,7 +152,7 @@ flowchart TB
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05.040_band_continuity.md#strategic-stewardship-obligation), [**Meaningful Agency**](core_05.055_band_participation.md#meaningful-agency)
 - Records and review pathways others can verify and challenge — [**Auditability**](core_05.050_band_oversight.md#auditability), [**Contestability**](core_05.035_band_accountability.md#contestability); records made by the act itself ([§16.4 Document at Action](#164-document-at-action))
 - Routine, determinate stewardship steps done by the system, and independent steps run side by side where no one is unduly burdened — [**Constitutional Efficiency**](core_05.040_band_continuity.md#constitutional-efficiency), [**Avoidable Burden**](core_05.040_band_continuity.md#avoidable-burden) ([§16.5 Automation](#165-automation))
-- Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*))
+- Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVII** (*Audit, Transparency, and Independent Verification*))
 
 <a id="16-pillar-2-proactive-stewardship"></a>
 **Pillar 2 — Proactive stewardship:**
@@ -215,7 +215,7 @@ Stewardship is the first line, not the only one. Three different questions have 
   - [Auditability](core_05.050_band_oversight.md#auditability));
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Steward door (non-operative): Next-step card: [Comprehensibility](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
-- Downstream: [13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints); rights surface especially [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- Downstream: [13.2 Epistemic Disclosure Constraints](core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints); rights surface especially [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification), [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -267,7 +267,7 @@ Distributed understanding is the community-facing facet of **Pillar 3** under **
 - **Online public baseline:** where lawful online infrastructure exists, the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) — including the paywall prohibition and maximum-feasible public-substitute rule — is governed by [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and is implemented as **Type O** data under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Data Classifications*).
 - **What the access supports:**
   - the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** leg (informed [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and contestability)
-  - the **oversight** leg, including auditing under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes
+  - the **oversight** leg, including auditing under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes
 
 Distributed understanding does **not** require every sentient to master every subsystem. It **does** require that understanding scales with [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency). Complexity and opacity must not be used to defeat [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) or contestability where **Chapter Five** and **Chapter Six** assign disclosure, education, or comprehensibility duties.
 
@@ -346,7 +346,7 @@ Institutional development is the organizational facet of **Pillar 3** under **[�
   - **structured monitoring of variation over time** is one proportionate way to implement those feedback loops
   - that monitoring must be paired with **documented investigation and correction** when indicators warrant
   - **statistical process control** is a well-known implementation pattern for that discipline, not a universal requirement
-- **Scale and presentation:** the discipline is scaled to [Materiality](core_05.050_band_oversight.md#materiality), [Dependency](core_05.040_band_continuity.md#dependency), [Necessity](core_05.035_band_accountability.md#necessity), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden), and is presented in **sentient-understandable** form where **Chapter Five** and **Chapter Six** assign comprehension or transparency duties, read with [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- **Scale and presentation:** the discipline is scaled to [Materiality](core_05.050_band_oversight.md#materiality), [Dependency](core_05.040_band_continuity.md#dependency), [Necessity](core_05.035_band_accountability.md#necessity), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden), and is presented in **sentient-understandable** form where **Chapter Five** and **Chapter Six** assign comprehension or transparency duties, read with [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 - **Must not:**
   - substitute favorable metrics for substantive alignment
   - narrow evaluation to convenient proxies
@@ -362,9 +362,9 @@ Institutional development is the organizational facet of **Pillar 3** under **[�
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), sentient-understandable access); **oversight** leg (inspection, independent verification, and contestability); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream:
   - [§16 scope and limits](#16-stewardship-in-depth);
-  - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (including
-  - [Article XXI-D: Open Formats and Standards](core_06.030_rights_part_d.md#article-xxi-d-open-formats-and-standards));
-  - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+  - [Article XXII: Interoperability, Portability, and Exit Integrity](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (including
+  - [Article XXII-D: Open Formats and Standards](core_06.030_rights_part_d.md#article-xxii-d-open-formats-and-standards));
+  - [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -416,7 +416,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - **open** operational and governance processes
   - interoperable **systems** that support inspection, independent verification, repair, and contestability
 - **Under:** the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs and the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), rather than opaque lock-in by default.
-- **Presentation:** Where **Chapter Five** and **Chapter Six** assign duties, materially relevant behavior should be presented in **sentient-understandable** forms that enable [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and contestability, read with [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- **Presentation:** Where **Chapter Five** and **Chapter Six** assign duties, materially relevant behavior should be presented in **sentient-understandable** forms that enable [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and contestability, read with [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 - **Does not:**
   - elevate openness above **Safety**, **Truth**, justified confidentiality, or security constraints
   - substitute for proportionate understanding keyed to [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency)
@@ -432,7 +432,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (inspection and independent verification), **accountability** leg (
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action): answerability traced to the act), and **timeliness** leg (no avoidable delay);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Downstream: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract*); [CF-23.445 §3.2 Publication Timeliness](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-32-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+- Downstream: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract*); [CF-23.445 §3.2 Publication Timeliness](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-32-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 
 </details>
 
@@ -612,7 +612,7 @@ This principle does not:
 - Upstream: [§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency) (*more real benefit for each hour of sentient time and attention*); [§13.3 Minimization of Avoidable Burden](core_01.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*delay no one needed is an Avoidable Burden*); [§16.5 Automation](#165-automation).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (no avoidable delay);
-  - [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+  - [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 - Downstream: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*the tier windows and the numbers*); [Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies) (*a copy request that states no window of its own*).
 
 </details>
@@ -667,9 +667,9 @@ This principle does not:
   - [§16.1 Distributed Understanding](#161-distributed-understanding) and
   - [§16.2 Institutional Development](#162-institutional-development) (*Pillar 3 — competence at scale*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000) (*one especially large audit process under oversight — not the sole auditing home*);
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*auditing Rights Floor*);
+  - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*auditing Rights Floor*);
   - [Chapter Fifteen — Standing Records](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000) (*standing effect implements distributed competence and consequential stewardship*);
-  - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status).
+  - [Article XX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xx-standing-and-participation-status).
 
 </details>
 
@@ -983,7 +983,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing);
   - [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference);
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
-  - [Article XVI — Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+  - [Article XVII — Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 - Authority boundary:
   - [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000);
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
@@ -1104,7 +1104,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [§17.2 Alignment under Pressure](#172-alignment-under-pressure) (*the cover instruction as a failed test*);
   - [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint) and
   - [5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
-- Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
+- Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing); [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Downstream: [Chapter Nineteen §3.4](core_19.000_violation_consequences.md#343-duty-to-resist) (19.000 §3.4) (*Duty to resist — violation rule and standing effects*); [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 

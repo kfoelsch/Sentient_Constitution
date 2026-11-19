@@ -50,7 +50,7 @@ Every chapter also already opens with a placement box that names the constitutio
 
 ## Why be careful
 
-1. **"Scope" is overloaded here** ("scope misalignment," "adoption scope," Article XVIII-A "Sandboxed Scope"). The "chapter scope" label answers this.
+1. **"Scope" is overloaded here** ("scope misalignment," "adoption scope," Article XIX-A "Sandboxed Scope"). The "chapter scope" label answers this.
 2. **Scope is the most duty-bearing of the three.** A loosely written Scope paragraph could add or narrow a duty. The drafts restate only existing rules.
 3. **Two scopes in one chapter** (Chapters 28, 30 and 6). Answered by the Owner Non-Relocation renames.
 4. **Role and Scope overlap.** Answered by the definitions below.

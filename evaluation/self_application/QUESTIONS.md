@@ -57,7 +57,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can affected sentients take part, contest, and exit, scaled to [material stake](../../core_00.000_preamble.md#material-stake), rather than being governed at?
 
-**Named homes (start here):** [Participation measurement family](../../core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family); [Article XIII-A — Reliability and Trustworthiness Baseline](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B — Right to Redress and Remedy](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
+**Named homes (start here):** [Participation measurement family](../../core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family); [Article XIV-A — Reliability and Trustworthiness Baseline](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B — Right to Redress and Remedy](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy).
 
 ---
 
@@ -65,7 +65,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can independent parties verify claims, logs, and records, rather than taking the steward’s word?
 
-**Named homes (start here):** [Oversight measurement family](../../core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family); [Auditability](../../core_05.050_band_oversight.md#auditability); [Article XVI — Audit, Transparency, and Independent Verification](../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+**Named homes (start here):** [Oversight measurement family](../../core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family); [Auditability](../../core_05.050_band_oversight.md#auditability); [Article XVII — Audit, Transparency, and Independent Verification](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 
 ---
 

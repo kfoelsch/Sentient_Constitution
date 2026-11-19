@@ -47,7 +47,7 @@ This kit does **not**:
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
 - Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Authorize [Chapter Twenty-Nine §11.3](../../core_29.000_amendment_ratification.md#113-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
@@ -219,9 +219,9 @@ Two parties must not be each other’s **sole** final merits path. [Chapter Twen
 
 | If this is true | Then |
 |---|---|
-| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the adoption document. Keep [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. |
+| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the adoption document. Keep [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) reachable. |
 | No such path exists yet | Do **not** claim Chapter Twenty-Nine adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
-| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)). |
+| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction)). |
 
 Remedy capacity remains [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems). Paper remedy pathways without capacity are not a substitute.
 

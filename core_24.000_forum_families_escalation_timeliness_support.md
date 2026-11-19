@@ -390,9 +390,9 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 - Read with:
   - [Article VI-B: Sentience-Status Adjudication Floor](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor);
   - [Chapter Five — Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) (5.055);
-  - [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*Justice Objective and Scope*) through
-  - [Article XX-B](core_06.030_rights_part_d.md#article-xx-b-restriction-floors) (*review safeguards referenced with Chapter Twenty-One designations*);
-  - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*questions for ruling — alignment rulings and general doctrine*).
+  - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*) through
+  - [Article XXI-B](core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*review safeguards referenced with Chapter Twenty-One designations*);
+  - [Article XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*questions for ruling — alignment rulings and general doctrine*).
 
 </details>
 
@@ -445,7 +445,7 @@ A case may move from one forum family to another only when the receiving family 
   - **environmental preconditions**; or
   - **restoration**, **remediation**, attributable **environmental** burdens, lifecycle or systemic ecological harm, or **pattern** or **systemic** ecological failure that makes the **Environment** family the better merits forum under **Chapter Twenty-Three section 3**.
 - **Any family to Constitutional.**
-  Escalate only where applicable **Article XX-A** (*Justice Objective and Scope*)-class **review** **safeguards** are preserved under the adopting documents and one of the following is present:
+  Escalate only where applicable **Article XXI-A** (*Justice Objective and Scope*)-class **review** **safeguards** are preserved under the adopting documents and one of the following is present:
   - a **structural** question for ruling;
   - a **validity** question for ruling; or
   - a **conflict** among **lower** **panels** on a **constitutional** **point**.
@@ -463,7 +463,7 @@ This subsection sets out when questions are sent to **Constitutional** forums fo
 
 - **Constitutional questions for ruling:** Where resolving such a matter requires determination of constitutional meaning, validity, or structural effect under **Safety**, **Truth**, **Article I** (*Environmental Survival*), or comparable long-horizon rights and constraint provisions, the lead family must send that question to **Constitutional** forums for ruling **under** **adopting** **documents** that **preserve** applicable review safeguards.
 - **Provisional operational law:** Where a provisional implementation-operational-law ruling under **section 2.7** cannot be separated from constitutional validity, meaning, or structural remedy, the lead family must send the question for ruling or escalate under this section. Disposition of separable provisional rulings remains under **section 2.6**.
-- **Alignment rulings and general doctrine:** Where an **Integrity** forum's **alignment** ruling **would** establish **general** **implementation** operational **doctrine** or **class-wide** **structural** rules **outside** **case-specific** or **pattern-specific** **integrity** **remediation**, the **lead** forum **must** **send** **for** **ruling** or **escalate** under **adopting** **documents** consistent with **Article XIII-B** (*Right to Redress and Remedy*) and **this** **section**. **Alignment** rulings **do** **not** **use** the **section 2.7** framework.
+- **Alignment rulings and general doctrine:** Where an **Integrity** forum's **alignment** ruling **would** establish **general** **implementation** operational **doctrine** or **class-wide** **structural** rules **outside** **case-specific** or **pattern-specific** **integrity** **remediation**, the **lead** forum **must** **send** **for** **ruling** or **escalate** under **adopting** **documents** consistent with **Article XIV-B** (*Right to Redress and Remedy*) and **this** **section**. **Alignment** rulings **do** **not** **use** the **section 2.7** framework.
 - **System certification and recertification:** A **forum case record** that certifies a new system as constitutionally aligned, imposes certification conditions, withdraws certification, or materially recertifys an existing system must state:
   - the system scope;
   - evidence basis;
@@ -547,7 +547,7 @@ This subsection sets out the [Interim Hold](core_05.035_band_accountability.md#i
 - **Applications:** A hold may be issued only in these applications, or where a provision of this Constitution or an incorporated text names it:
   - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation), for authority in an Operating Party;
   - [Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity) and **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), for a holder of a covered office at any time; and
-  - **CF-23.410 §15** (*Interim Hold on a Panel Member or Seat Holder*), with [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
+  - **CF-23.410 §15** (*Interim Hold on a Panel Member or Seat Holder*), with [**Article XIII-A** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
 
   Other interim relief under this chapter stays available for what it already covers. Relief directed at a named sentient's exercise of a gated pathway on less than a verified finding follows this subsection.
 
@@ -588,8 +588,8 @@ This subsection sets out how sentience-status claims are routed:
 - **Withholding and narrowing determinations:**
   - The burden on the party seeking to withhold, narrow, or revoke protection must satisfy **Chapter Four** evidence and traceability standards and **Chapter Five** (**Necessity**, **Proportionality**, **Procedural Fairness**). A paper record, an unreviewable internal classification, or a taxonomy of convenience does not satisfy it.
   - While a filing to withhold, narrow, or revoke is pending, the entity keeps its current protection.
-  - A declassification or narrowing determination must be stated in the shortest necessary terms, carry a declared expected-closure timeline, and be subject to mandatory periodic review under [Technical Forum Domains](#22-technical-forum-domains) and **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards. A determination that is not time-bound and subject to periodic review is non-compliant.
-  - A determination later shown to have been wrongful, under- or mis-evidenced, or captured through **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversed. The entity's Chapter Six Rights Floor is restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
+  - A declassification or narrowing determination must be stated in the shortest necessary terms, carry a declared expected-closure timeline, and be subject to mandatory periodic review under [Technical Forum Domains](#22-technical-forum-domains) and **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards. A determination that is not time-bound and subject to periodic review is non-compliant.
+  - A determination later shown to have been wrongful, under- or mis-evidenced, or captured through **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversed. The entity's Chapter Six Rights Floor is restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
 - **Filing integrity:** A filing to confirm inclusion requires the **Article VI-B** (*Sentience-Status Adjudication Floor*) filing-integrity showing — a credible indicator under **Sentience Evaluation** / **Sentience Indicator Integrity**, not operator self-description, substrate class, product status, or a bare claim. Declining a frivolous or indicator-empty filing at intake is not a withholding determination. Once a case is lawfully open, this gate must not be used to withhold, narrow, or delay protection. A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device. A filing to withhold, narrow, or revoke protection needs no indicator showing; the filer carries the burden under **Article VI-B** (*Sentience-Status Adjudication Floor*) instead.
 - **Intake-gate audit:**
   - Every filing declined at intake must be logged with the indicator cited and the reason for decline.
@@ -613,10 +613,10 @@ This subsection sets out how sentience-status claims are routed:
   A narrowing request supported only by parent-system evidence is not open for merits until independent indicator evidence is on the Forum Case Record.
 - **Inclusion is a shield for the entity, not the operator:** Contested-Sentient or affirmed status protects the entity's Chapter Six Rights Floor. It does not:
   - protect the operator's property or commercial interest in the deployment;
-  - exempt the deployment from system-level containment, halt, or quarantine under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) and **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
+  - exempt the deployment from system-level containment, halt, or quarantine under **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) and **Article XXIX-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
   - produce Contribution Axis credit for the operator.
 
-  A filing by an operator on behalf of its own product routes to **Integrity** review for taxonomy-of-convenience in the **inclusion** direction on the same terms this hook already applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
+  A filing by an operator on behalf of its own product routes to **Integrity** review for taxonomy-of-convenience in the **inclusion** direction on the same terms this hook already applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXIX-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXIX-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
 - **Minimum implementation fields:** Any adopted implementation text that operationalizes this hook must at least name:
   - **lead family** — Technical Forum Domains by default, with the special routes above;
   - **specialist-chamber allowance** — expert panels or chambers may assist indicator evaluation but must not displace merits-floor rules or default inclusion;
@@ -640,7 +640,7 @@ This subsection distinguishes referral from scope expansion:
 
 This subsection sets out how Chapter Twenty-One designation relates to independent review:
 
-- The numeric **Violation Axis** slot still comes only from verified impact on the **Chapter Sixteen §7** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale. **Chapter Twenty-One** may attach the matching anti-constitutional-misconduct label to a final Chapter Sixteen slot **7**, **8**, or **9** record — it does **not** pick or change that number. Forum families must give independent review and due process under **Chapter Twenty-One**, **Chapter Twenty-Three section 5**, and **Article XX** (*Justice After Verified Violation*).
+- The numeric **Violation Axis** slot still comes only from verified impact on the **Chapter Sixteen §7** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale. **Chapter Twenty-One** may attach the matching anti-constitutional-misconduct label to a final Chapter Sixteen slot **7**, **8**, or **9** record — it does **not** pick or change that number. Forum families must give independent review and due process under **Chapter Twenty-One**, **Chapter Twenty-Three section 5**, and **Article XXI** (*Justice After Verified Violation*).
 - When a **Chapter Twenty-One** designation is the main fight, **Chapter Twenty-Three section 2** names the default lead family. **Chapter Twenty-Three sections 3 and 5** and **section 3** of this chapter still control transfer, consolidation, certification, backup routing, and anti-self-judging activation. None of that lets Chapter Twenty-One or a forum assign or move the numeric slot.
 
 <a id="4-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
@@ -650,10 +650,10 @@ This subsection sets out how Chapter Twenty-One designation relates to independe
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Article XXVI-C](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*);
+  - [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*);
   - [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
-  - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
-  - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*challenge and redress access*);
+  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
+  - [Article XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*challenge and redress access*);
   - [§3](#3-escalation-and-questions-for-ruling) (*escalation and questions for ruling clocks interact with*).
 - Downstream:
   - [§5](#5-forum-support-before-during-and-after-review--oversight-architecture) (*inspection, forensic, and follow-through support*);
@@ -688,7 +688,7 @@ Implementation: [Forum Performance, Backlog Requirements, Publication Timeliness
 
 *In plain terms: forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies (three days for the steps that stop the harm), two weeks for ordinary material harm, and one to three months at most for coordination-default, bounded, or contained matters — not warehouse cases while harm compounds. The same five classes set how often certified systems and Institutions are checked, from every three months to every three years, with an audit halfway between. A true emergency gets a shorter clock for the steps that stop the harm. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
 
-This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Fifteen through Twenty-Three** standing pipeline.
+This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Fifteen through Twenty-Three** standing pipeline.
 
 - **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](core_05.050_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§4.1 Emergency Measures and Continuation Burden](#41-emergency-measures-and-continuation-burden) (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
@@ -746,7 +746,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
   3. **Question 1** standing finding and **Standing Record** opening under **Chapter Fifteen sections 3–4**;
   4. **Question 2** measurement under **Chapter Sixteen §2** (*Question 2 — How Good or Bad Was It?*);
   5. **Question 3** integration under **Chapter Seventeen**;
-  6. remedy commencement under **Article XX-B** (*Restriction Floors*) and applicable redress rules.
+  6. remedy commencement under **Article XXI-B** (*Restriction Floors*) and applicable redress rules.
 - **Overrun review:** If a matter blows past its tier window without a written, tier-appropriate extension, escalation, or interim relief, that overrun must be reviewed. It is non-compliant when the delay foreseeably lets ongoing harm continue or makes redress useless. Where the overrun has no independent extension, interim protection continues without a new order, and the claimant may move the matter to the backup forum under [Backup Routing under the Anti-Self-Judging Rule](#backup-routing-under-the-anti-self-judging-rule).
 - **Tier outer bound:** Adopted documents must publish a hard outer bound for finishing integrated resolution in each tier. Those bounds must stay close to ordinary sentient time — not bureaucratic time. Unless a narrower Rights-Floor window applies, or a documented extension is authorized under [§4.1 Emergency Measures and Continuation Burden](#41-emergency-measures-and-continuation-burden), the outer bounds are:
   - **Tier A:** at most **7 days** (1 week);
@@ -777,7 +777,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
   - **Floors, not ceilings:** an adopted document may set shorter intervals and never longer ones. Reopening for cause under [Chapter Eleven §3.2 Reopening Triggers](core_11.000_system_alignment_certification_records_recertification.md#32-reopening-triggers) is unaffected, and the next certification and audit dates run from the latest completed certification pass.
   - **Where results go:** audit results go to the forum that enforces them and to the Integrity registrar under [CF-23.415 §6 Integrity Registrar](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-6-integrity-registrar).
 - **Anti-delay floor:** The following are non-compliant where they foreseeably nullify rights, remedies, or timely protection:
-  - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XIII-B** (*Right to Redress and Remedy*) practical access;
+  - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XIV-B** (*Right to Redress and Remedy*) practical access;
   - delay regimes designed to exhaust claimants;
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate));
@@ -803,14 +803,14 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
 </details>
 <br>
 
-This subsection sets the requirements and the operating rules for emergency measures. Retrospective review of an emergency measure is governed by [**Article XXVI-A** (*Retrospective Review and Disclosure*)](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure). Any restriction an emergency measure imposes must also meet [**Article XX-B** (*Restriction Floors*)](core_06.030_rights_part_d.md#article-xx-b-restriction-floors). It reuses the tier outer bounds and the **Restore-challenge after emergency containment** rule above. It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](#time-scale-settings) (*Time-scale settings*). Read with [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency), [Constitutional Emergency and Contingency](core_05.040_band_continuity.md#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](core_05.040_band_continuity.md#stakeholder-emergency-and-contingency), [Necessity](core_05.035_band_accountability.md#necessity), and [Proportionality](core_05.035_band_accountability.md#proportionality); and with **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
+This subsection sets the requirements and the operating rules for emergency measures. Retrospective review of an emergency measure is governed by [**Article XXVII-A** (*Retrospective Review and Disclosure*)](core_06.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure). Any restriction an emergency measure imposes must also meet [**Article XXI-B** (*Restriction Floors*)](core_06.030_rights_part_d.md#article-xxi-b-restriction-floors). It reuses the tier outer bounds and the **Restore-challenge after emergency containment** rule above. It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](#time-scale-settings) (*Time-scale settings*). Read with [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency), [Constitutional Emergency and Contingency](core_05.040_band_continuity.md#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](core_05.040_band_continuity.md#stakeholder-emergency-and-contingency), [Necessity](core_05.035_band_accountability.md#necessity), and [Proportionality](core_05.035_band_accountability.md#proportionality); and with **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
 
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
-  - consistent with **Articles VI**, **XXIII**, and **Chapter One** constraints.
+  - consistent with **Articles VI**, **XXIV**, and **Chapter One** constraints.
 
   Each measure must carry:
   - a default expiry;
@@ -850,8 +850,8 @@ This subsection sets the requirements and the operating rules for emergency meas
 - Read with:
   - **[CF-23.430](corpus_forum/cf_23.430_forum_forensic_analytical_support.md#cf-23430-forum-forensic-and-analytical-support)** (*Forum Forensic and Analytical Support*);
   - **[CF-23.435](corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md#cf-23435-independent-investigative-service-and-prosecution-interface)** (*Independent Investigative Service and Prosecution Interface*);
-  - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy);
-  - [Article XVI](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+  - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
+  - [Article XVII](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
 </details>
 
@@ -876,7 +876,7 @@ Forum families must maintain or obtain access to **independent** support across 
   - Boundary: it does **not** itself decide merits or open, update, or correct Standing Records.
 - **During review:**
   - Trigger: where **material** **uncertainty**, **technical** **opacity**, **restricted** **evidence**, or **causal** **complexity** would otherwise prevent reliable adjudication.
-  - Capacity: forum families must have access to independent **forensic** or **analytical** capacity consistent with **Chapters Two through Four**, **Article XIII-B** (*Right to Redress and Remedy*), and **Article XVI** (*Audit, Transparency, and Independent Verification*).
+  - Capacity: forum families must have access to independent **forensic** or **analytical** capacity consistent with **Chapters Two through Four**, **Article XIV-B** (*Right to Redress and Remedy*), and **Article XVII** (*Audit, Transparency, and Independent Verification*).
 - **After review:**
   - Capacity: where material, forum families must be able to obtain support for remedy verification, pattern follow-through, and reopening inputs.
   - Boundary: that support must **not** substitute for Chapter Sixteen standing measurement or Chapter Seventeen integration.

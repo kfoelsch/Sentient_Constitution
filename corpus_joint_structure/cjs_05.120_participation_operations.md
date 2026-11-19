@@ -304,7 +304,7 @@ Weighted participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter One §5.2 Plain-Language Accessibility](../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Article VI-D Accessibility](../core_06.010_rights_part_b.md#article-vi-d-accessibility), and [Article XXIII Comprehensibility and Complexity Stewardship](../core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- Read with: [Chapter One §5.2 Plain-Language Accessibility](../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Article VI-D Accessibility](../core_06.010_rights_part_b.md#article-vi-d-accessibility), and [Article XXIV Comprehensibility and Complexity Stewardship](../core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 - Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -525,7 +525,7 @@ Summary integrity
 - Read with:
   - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*).
-- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -730,7 +730,7 @@ User agency and control
 
 - Read with: **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*) where dependencies matter.
 - Read with: [Article III-F Safe Products and Health Information](../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) for product and service health and safety information.
-- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -865,7 +865,7 @@ Ratings, rankings, and paid promotion
 *In plain terms: reviews, ratings, rankings, and recommendations must be genuine, and paid or incentive-driven placement must be disclosed, so that sentients are not steered toward a product by what the system earns.*
 
 - **What it is**
-  - **In scope:** Reviews, ratings, and endorsements the system shows must be real and must not be written, bought, or filtered to look better than the experience behind them. Paid placement and commercial relationships must be disclosed to the sentients relying on the result. Where health or safety is at stake, recommendations and rankings must not favor a product because of what the system earns when a safer or more suitable option is available (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIII-D** (*Incentive-Alignment Constraint*)). This is part of the information floor in **Article III-F** (*Safe Products and Health Information*).
+  - **In scope:** Reviews, ratings, and endorsements the system shows must be real and must not be written, bought, or filtered to look better than the experience behind them. Paid placement and commercial relationships must be disclosed to the sentients relying on the result. Where health or safety is at stake, recommendations and rankings must not favor a product because of what the system earns when a safer or more suitable option is available (**Article XIV-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIV-D** (*Incentive-Alignment Constraint*)). This is part of the information floor in **Article III-F** (*Safe Products and Health Information*).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in ratings, rankings, and paid promotion.
 <a id="ratings-rankings-and-paid-promotion-a"></a>
 - **How to measure and assess**

@@ -14,9 +14,9 @@
 >
 > **How the two certifications relate.** System Alignment Certification (this chapter) is the certification of a System. Institutional alignment certification ([Chapter Twelve](core_12.000_institutional_alignment_certification_evaluation.md#chapter-twelve-institutional-alignment-certification--evaluation)) is the certification of an Institution, which may run Systems or none. Chapter Twelve cites each System's System Certification Record by link and does not redo it; [Chapter Twelve §1](core_12.000_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope) states the relation and [Chapter Twelve §2.2](core_12.000_institutional_alignment_certification_evaluation.md#22-no-permission-and-no-gate-on-forming-or-running) states that it is not a licence. Its sections carry the same numbers as this chapter's, under parallel titles.
 >
-> - **Constitutional owner (joint with Chapters Ten and Eleven):** forum-supervised **system alignment certification and related System Certification Records** — evaluation domains (Chapter Nine); forum process, supervisory sequence, and certification outcomes with the go-live gate (Chapter Ten); System Certification Record duties, the challenge path, recertification and reopening, and the verified-input bridge to Chapter Fifteen (all in Chapter Eleven). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
+> - **Constitutional owner (joint with Chapters Ten and Eleven):** forum-supervised **system alignment certification and related System Certification Records** — evaluation domains (Chapter Nine); forum process, supervisory sequence, and certification outcomes with the go-live gate (Chapter Ten); System Certification Record duties, the challenge path, recertification and reopening, and the verified-input bridge to Chapter Fifteen (all in Chapter Eleven). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Nine **applies** that discipline to System Certification Records; it does **not** restate Chapter Four sections **1** through **5**.
-> - **Auditing home (not relocated here):** **Article XVI** (*Audit, Transparency, and Independent Verification*), **Def.O1** (*Transparency, Auditability, and Verification*), and **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5** own auditing floors and operational terms. Chapter Nine runs one especially large SAC audit process that must satisfy those floors; it does not own all auditing.
+> - **Auditing home (not relocated here):** **Article XVII** (*Audit, Transparency, and Independent Verification*), **Def.O1** (*Transparency, Auditability, and Verification*), and **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5** own auditing floors and operational terms. Chapter Nine runs one especially large SAC audit process that must satisfy those floors; it does not own all auditing.
 > - **Implementation owner:** system-class handling, CS-6.345 (*System lifecycle*), and forum-process detail in designated implementation files must remain consistent with Chapter Nine and may be stricter where the corpus already provides a [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) rule.
 > - **Anti-relocation rule:** Chapter Nine does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Chapter Eleven §3.4](core_11.000_system_alignment_certification_records_recertification.md#34-non-evasion)), Chapter Sixteen contribution or standing measurement, or Chapter Seventeen standing effects. **[Chapter Eleven §5](core_11.000_system_alignment_certification_records_recertification.md#5-relationship-to-standing)** states the standing bridge.
 >
@@ -78,7 +78,7 @@ Chapter Nine is the constitutional owner of **system alignment certification eva
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data Classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, and
   - **CS-6.345** (*System lifecycle*);
   - **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*) and
-  - **CF-23.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **Article XVI** (*Audit, Transparency, and Independent Verification*) and
+  - **CF-23.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **Article XVII** (*Audit, Transparency, and Independent Verification*) and
   - [Auditability](core_05.050_band_oversight.md#auditability) (*auditing floors — SAC is one especially large audit process under oversight, not the sole auditing home*); **CJS-5.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-5.115 §3** (*Audit process home*)–
   - **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*).
 
@@ -116,7 +116,7 @@ The chapter leaves forum review and outcomes to Chapter Ten, the Certification R
 
 - A certification is not a popularity score, a forever pass, or a way to skip rights review.
 - It is a time-bound, challengeable statement of what is known about the system's alignment right now.
-- Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).
+- Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).
 
 Certification implements the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 
@@ -131,7 +131,7 @@ Certification implements the [Two Constitutional Aims](core_00.000_preamble.md#t
 
 #### 2.1 Certification as an Audit Process, Scaled by System Class
 
-As an oversight mechanism, certification is one especially large audit process under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*):
+As an oversight mechanism, certification is one especially large audit process under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*):
 
 - It is forum-supervised, multi-domain, and status-granting.
 - It may integrate the results of sibling audit modes, and it does not absorb or replace them. Each keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_05.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home:
@@ -139,7 +139,7 @@ As an oversight mechanism, certification is one especially large audit process u
   - System Classification Record audits under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*)
   - steward assurance reviews under **CS-27.305** (*Critical system stewardship*)
   - continuous audit under **CS-6.345** (*System lifecycle*) ACA
-  - complexity audits under **CS-6.315** (*Comprehensibility and Complexity Stewardship*) and **Article XXIII-B** (*Complexity Audit and Modularity Requirements*)
+  - complexity audits under **CS-6.315** (*Comprehensibility and Complexity Stewardship*) and **Article XXIV-B** (*Complexity Audit and Modularity Requirements*)
   - claim verification under **CJS-5.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)
 - You can still run any of these evaluations on their own, without going through certification. Certification doesn't replace them.
 
@@ -447,7 +447,7 @@ A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_b
   - [§18](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [§19](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
   - [Chapter One §7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_01.000_values_principles.md#74-voluntary-discontinuation-and-exit-rights) (1.000 §7.4);
-  - [Chapter One §7.2 Assembly, Collective Organization, and Institutional Formation](core_01.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) (1.000 §7.2); **Article XVI** (*Audit, Transparency, and Independent Verification*) where audit, transparency, or independent-verification Rights Floors are materially at stake; Continuity measurement family (
+  - [Chapter One §7.2 Assembly, Collective Organization, and Institutional Formation](core_01.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) (1.000 §7.2); **Article XVII** (*Audit, Transparency, and Independent Verification*) where audit, transparency, or independent-verification Rights Floors are materially at stake; Continuity measurement family (
   - [§4.2](#42-systemic-scope-and-risk-factors) — resilience, reversibility, and systemic risk);
   - [Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation);
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure);
@@ -516,7 +516,7 @@ To assess governance, incentives, and contestability, certification must apply t
 - **[Chapter One §19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture)** — proxy integrity, short-horizon defect correction, and capture response, including:
   - **[Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways)** — roles that carry real consequence, and safeguards against symbolic participation;
 - **[Chapter Twenty-Seven §6 Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#6-authorized-roles-competency-development-and-contribution)** and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
-- **[Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
+- **[Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
 
 **Institutional facts.** This section asks about the governance and incentives of the system's operator or steward. Where that operator or steward is an [Institution](core_05.040_band_continuity.md#institution), those facts are found once, in its Institutional Certification Record, rather than again for every system it runs. The following facts about the Institution may be taken by link from its current Institutional Certification Record under [Chapter Twelve §4 Whole-Institution Certification Evaluation](core_12.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation):
 
@@ -615,8 +615,8 @@ Chasing short-term results is not acceptable if it can reasonably be expected to
   - [CS-9.320 §4](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-4-illustrative-whole-system-application-by-system-class) (*Illustrative Whole-System Application by System Class*);
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
-  - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity);
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification);
+  - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity);
+  - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
   - [Article VII: Self-Ownership](core_06.010_rights_part_b.md#article-vii-self-ownership).
 - Downstream:
   - [CS-9.320 §5](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-5-illustrative-data-handling-application-by-system-class) (*Illustrative Data-Handling Application by System Class*);
@@ -816,7 +816,7 @@ When a certification matter materially implicates more than one Chapter Six priv
   - [**Type H**](corpus_systems/cs_06.310_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) for experiential and interaction-derived data under [Article IX-B](core_06.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*); and
   - [**Type Y**](corpus_systems/cs_06.310_data_classifications.md#98-type-y-yours) for a creator's works under [Article IX-D](core_06.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*), whose protections carry into [**Type W**](corpus_systems/cs_06.310_data_classifications.md#99-type-w-works-published), [**Type U**](corpus_systems/cs_06.310_data_classifications.md#911-type-u-use-licensed), and [**Type T**](corpus_systems/cs_06.310_data_classifications.md#912-type-t-transferred) together with the creator's [reserved rights](corpus_systems/cs_06.310_data_classifications.md#9133-reserved-rights);
 - **Article X-A** (*Agency and Freedom from Manipulation*) — [**Type N**](corpus_systems/cs_06.310_data_classifications.md#96-type-n-neurocognitive-and-internal-data) for internal states, including their reconstruction or inference; and
-- **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) — [**Type S**](corpus_systems/cs_06.310_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) for restricted security and investigation material, whose **H**, **I**, or **N** components keep that type's protection when the restriction ends.
+- **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) — [**Type S**](corpus_systems/cs_06.310_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) for restricted security and investigation material, whose **H**, **I**, or **N** components keep that type's protection when the restriction ends.
 
 **What certification must show:**
 
@@ -857,7 +857,7 @@ A system's own disagreement with its operator, raised through available channels
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-role-and-scope) (*purpose and role*); [§3.2](#32-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Six Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIII** (*Right to Reliable and Trustworthy Systems*), and **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+- Upstream: [§1](#1-purpose-role-and-scope) (*purpose and role*); [§3.2](#32-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Six Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIV** (*Right to Reliable and Trustworthy Systems*), and **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
 - Downstream:
   - [Chapter Eleven §2.1](core_11.000_system_alignment_certification_records_recertification.md#21-minimum-record-contents) (11.000 §2.1) (*record contents*);
   - [Chapter Ten §2.1](core_10.000_system_alignment_certification_forum_process_outcomes.md#21-forum-supervision-and-component-roles) (10.000 §2.1) (*forum component roles*);
@@ -891,8 +891,8 @@ When a materially impactful system meets a trigger in the table below, certifica
 | **Article III-F** (*Safe Products and Health Information*) | supplies, lists, recommends, or advises on products or services that can affect body, health, or safety, or carries the information about them | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
 | **Article VI-C** (*Nondiscrimination*) | classifies, ranks, prices, gates, excludes, or allocates burdens and benefits among sentients | [§6.4 Nondiscrimination Evaluation](#64-nondiscrimination-evaluation) |
 | **Article VI-D** (*Accessibility*) | gates substantive participation in constitutionally relevant domains | [§6.5 Accessibility Evaluation](#65-accessibility-evaluation) |
-| **Article XIII** (*Right to Reliable and Trustworthy Systems*) | shapes sentient reliance on represented behavior, limits, risks, challenge paths, or remediation | [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) |
-| **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](core_05.040_band_continuity.md#safe-conditions) | supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
+| **Article XIV** (*Right to Reliable and Trustworthy Systems*) | shapes sentient reliance on represented behavior, limits, risks, challenge paths, or remediation | [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](core_05.040_band_continuity.md#safe-conditions) | supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
 
 Each domain evaluation in [§6.1 Ecological Footprint Evaluation](#61-ecological-footprint-evaluation) through [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation):
 
@@ -1226,7 +1226,7 @@ Before relying on dependency maps and resource-flow records, certification must 
 
 - **Complete:** they cover significant upstream and downstream dependencies, resource flows, and any relationships that are hidden or lopsided, where those matter.
 - **Current:** they are updated often enough given how fast things change and how critical the system is, including its system class under [§3 System Class Evaluation](#3-system-class-evaluation). They show the system as it runs now, not as it ran at the last certification.
-- **Auditable:** they are open to audit under **Article XVI-A** (*Auditability and Observable Evidence*).
+- **Auditable:** they are open to audit under **Article XVII-A** (*Auditability and Observable Evidence*).
 
 A map or record that fails any of these tests cannot support a finding that the system gives back enough. The gap must be written down and handled under *Defects and misalignment* below.
 
@@ -1478,7 +1478,7 @@ Documented participation barriers count under [Chapter One §6 Trust and Trustwo
 
 - Upstream:
   - [Chapter Eleven §2](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) (11.000 §2) (*record contents*);
-  - [§3](#3-system-class-evaluation) (*system class evaluation*); Oversight measurement family (*Truth and epistemic integrity; Trustworthiness and Trust Degradation and Misleading Reliance as constitutional measurement*); **Article XIII** (*Right to Reliable and Trustworthy Systems*);
+  - [§3](#3-system-class-evaluation) (*system class evaluation*); Oversight measurement family (*Truth and epistemic integrity; Trustworthiness and Trust Degradation and Misleading Reliance as constitutional measurement*); **Article XIV** (*Right to Reliable and Trustworthy Systems*);
   - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness),
   - [Trust](core_05.040_band_continuity.md#trust),
   - [Trust Degradation and Misleading Reliance](core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance),
@@ -1500,7 +1500,7 @@ Documented participation barriers count under [Chapter One §6 Trust and Trustwo
   - [Chapter Eleven §2.2](core_11.000_system_alignment_certification_records_recertification.md#22-transparency-and-auditability-of-the-system-certification-record) (11.000 §2.2) (*record integrity*);
   - [Chapter Eleven §5.3](core_11.000_system_alignment_certification_records_recertification.md#53-verified-input-gate) (11.000 §5.3) (*verified-input gate*);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_forum_process_outcomes.md#3-certification-outcomes) (10.000 §3) (*false-trust misalignment, perverse-incentive misalignment, and recovery-integrity misalignment*).
-- Read with: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — challenge and audit rights remain owned there; **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) where high-autonomy systems materially mediate governance or verification pathways; **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; **Article III-F** (*Safe Products and Health Information*) where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety; **Article VI-D** (*Accessibility*) where health and safety information must be usable by every sentient who relies on it; [Chapter One §6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (1.000 §6) and [Chapter One §5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000 §5).
+- Read with: **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*) and **Article XVII** (*Audit, Transparency, and Independent Verification*) — challenge and audit rights remain owned there; **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) where high-autonomy systems materially mediate governance or verification pathways; **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; **Article III-F** (*Safe Products and Health Information*) where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety; **Article VI-D** (*Accessibility*) where health and safety information must be usable by every sentient who relies on it; [Chapter One §6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (1.000 §6) and [Chapter One §5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000 §5).
 - Operating terms: [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*) for product and service health and safety information and for ratings, rankings, and paid promotion; [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) for harm reports and corrective notices.
 - Subsections:
   - [§6.6.1](#661-evaluation-requirement) (*evaluation requirement*);
@@ -1525,24 +1525,24 @@ This section applies when a major system shapes what sentients count on it for: 
 
 System alignment certification must evaluate **trustworthiness and system-reliance integrity** under the following, where the materiality trigger applies:
 
-- **Article XIII** (*Right to Reliable and Trustworthy Systems*);
+- **Article XIV** (*Right to Reliable and Trustworthy Systems*);
 - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness); and
 - [Trust Degradation and Misleading Reliance](core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance).
 
 <a id="661-evaluation-requirement"></a>
 ##### 6.6.1 Evaluation Requirement
 
-The certification process must check whether sentients have good reason to [trust](core_05.040_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+The certification process must check whether sentients have good reason to [trust](core_05.040_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
 
 Evaluation must also test whether:
 
-- sentients can actually challenge the system, get a decision reviewed, and get a problem fixed — not just on paper. This must work for sentients as they are now, including those who cannot easily answer or get through a long process ([Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help); **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*));
-- sentients could be misled into trusting or relying on the system more than it deserves, whether through trust it has not earned or through limits it does not disclose. This is judged against the sentients who really use the system, not an average sentient (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*));
-- the information the system gives about products and services that can affect health or safety is accurate, complete enough to act on, and easy for the sentient who needs it to find and understand. That covers safety warnings, health claims, nutrition facts, ingredients, and allergen information. It also covers saying plainly when something is unknown or untested, instead of leaving a gap that reads as "safe" (**Article III-F** (*Safe Products and Health Information*), with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks);
+- sentients can actually challenge the system, get a decision reviewed, and get a problem fixed — not just on paper. This must work for sentients as they are now, including those who cannot easily answer or get through a long process ([Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help); **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*));
+- sentients could be misled into trusting or relying on the system more than it deserves, whether through trust it has not earned or through limits it does not disclose. This is judged against the sentients who really use the system, not an average sentient (**Article XIV-C** (*Prohibition of False Trust and Misleading Reliance*));
+- the information the system gives about products and services that can affect health or safety is accurate, complete enough to act on, and easy for the sentient who needs it to find and understand. That covers safety warnings, health claims, nutrition facts, ingredients, and allergen information. It also covers saying plainly when something is unknown or untested, instead of leaving a gap that reads as "safe" (**Article III-F** (*Safe Products and Health Information*), with **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks);
 - that safety and health information can be used by sentients with different sensory, cognitive, and language needs, and reaches them when they are deciding, not buried in small print or offered in only one format (**Article III-F** (*Safe Products and Health Information*); **Article VI-D** (*Accessibility*); [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help));
-- when that information turns out to be wrong, or a product turns out to be unsafe, everyone who relied on it is told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the unsafe product or wrong information is contained and corrected everywhere it appears inside the containment and correction windows for that urgency (CU-1 to CU-4) ([Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help); **Article XIII-B** (*Right to Redress and Remedy*));
-- the rewards built into the system favor deception or cutting corners (**Article XIII-D** (*Incentive-Alignment Constraint*)); and
-- the system can recover from failures honestly, without hiding them or quietly taking away anyone's rights, where that matters (**Article XIII-F** (*Resilience and Self-Healing Baseline*)).
+- when that information turns out to be wrong, or a product turns out to be unsafe, everyone who relied on it is told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the unsafe product or wrong information is contained and corrected everywhere it appears inside the containment and correction windows for that urgency (CU-1 to CU-4) ([Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help); **Article XIV-B** (*Right to Redress and Remedy*));
+- the rewards built into the system favor deception or cutting corners (**Article XIV-D** (*Incentive-Alignment Constraint*)); and
+- the system can recover from failures honestly, without hiding them or quietly taking away anyone's rights, where that matters (**Article XIV-F** (*Resilience and Self-Healing Baseline*)).
 
 Testing is scaled to [Materiality](core_05.050_band_oversight.md#materiality), [Dependency](core_05.040_band_continuity.md#dependency), and [Risk](core_05.040_band_continuity.md#risk).
 
@@ -1572,11 +1572,11 @@ How deep the review goes depends on the system's class. Wherever the materiality
 <a id="663-defects-and-misalignment"></a>
 ##### 6.6.3 Defects and Misalignment
 
-The defects in [§6](#6-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to material limits, risks, or failure history where **Article XIII** (*Right to Reliable and Trustworthy Systems*) requires review. In addition, each of the following must be treated as a certification defect:
+The defects in [§6](#6-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to material limits, risks, or failure history where **Article XIV** (*Right to Reliable and Trustworthy Systems*) requires review. In addition, each of the following must be treated as a certification defect:
 
 - treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) analysis;
 - treating the absence of a warning, or a blank field, as showing that a product or service is safe, instead of saying plainly that it is unknown or untested, under **Article III-F** (*Safe Products and Health Information*); and
-- using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIII** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines.
+- using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIV** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIV-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines.
 
 Documented false trust, perverse incentives, inaccessible challenge paths, and recovery practices that hide failure count under [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 

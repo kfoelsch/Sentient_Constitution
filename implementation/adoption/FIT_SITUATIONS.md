@@ -53,7 +53,7 @@ This page does **not**:
 - Let a ranked sketch, a shared note, or “this situation is a good fit” claim constitutional protection while dodging matching obligations
 - Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
 ---
@@ -134,7 +134,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an adoption document, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
-**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded adoption document (Track B under [Article XXVIII-B](../../core_06.040_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) oversight.
+**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded adoption document (Track B under [Article XXIX-B](../../core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) oversight.
 
 <a id="42-high-impact-system-operators"></a>
 ### 4.2 High-impact system operators (deploy, platform, product)
@@ -196,7 +196,7 @@ Named as valid adopters. [Chapter Twenty-Seven §2](../../core_27.000_governance
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only overlay ([§17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or a human exemption from costly cases ([§17.2](../../core_01.040_stewardship_capacity_principles.md#172-alignment-under-pressure)).
-- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)).
+- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction)).
 - Founding Chapter Twenty-Three forum families from the cooperating crew and calling that independent review ([`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md)).
 
 If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Twenty-Nine adoption.

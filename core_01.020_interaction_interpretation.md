@@ -94,7 +94,7 @@ Chapter One, Part B, is the constitutional owner of **constitutional collision r
   - [default interim posture](#default-interim-posture), and
   - [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Governs cross-article conflicts across [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000).
-  - Read this with [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) and [Article XX: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xx-justice-after-verified-violation).
+  - Read this with [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) and [Article XXI: Justice After Verified Violation](core_06.030_rights_part_d.md#article-xxi-justice-after-verified-violation).
   - Apply this where review, emergency, or Constitutional Collision questions arise.
 
 </details>
@@ -528,7 +528,7 @@ The [Anti-Degrading-Process Principle (§3.3)](core_01.000_values_principles.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs: **oversight** leg (restrictions stay independently reviewable; evidence is preserved and independent reviewers keep access while a Constitutional Collision is pending); **accountability** leg (a documented, auditable Constitutional Collision Record names the rule, the alternatives, the evidence, and the basis for selection); **participation** leg (affected parties can understand, contest, and reconstruct the decision, and are told what is frozen); **timeliness** leg (restrictions are temporary unless a stronger Rights-Floor rule says otherwise, carry a duration or review cadence and a restoration path, and a pending Constitutional Collision runs on the applicable clock); [material stake](core_00.000_preamble.md#material-stake) scaling (the burden of proof rises with severity, irreversibility, dependency concentration, and uncertainty).
-- Downstream: [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXVI-C: Timely Resolution and Anti-Delay Floor](core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*).
+- Downstream: [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXVII-C: Timely Resolution and Anti-Delay Floor](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [Chapter Twenty-Four §4](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*).
 
 </details>
 
@@ -591,7 +591,7 @@ Burden of proof scales with expected harm severity, irreversibility, dependency 
 Confidentiality limits on the Collision Record must satisfy [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
 
 <a id="default-interim-posture"></a>
-**Default interim posture while a Constitutional Collision is pending.** Until the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) process and [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) resolve the Constitutional Collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
+**Default interim posture while a Constitutional Collision is pending.** Until the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) process and [Article XXVI](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) resolve the Constitutional Collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
 
 - **Preserve evidence:** Do not moot the Constitutional Collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the Constitutional Collision, moot one side, or manufacture a winner before interpretation resolves it.
@@ -619,10 +619,10 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
   - [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination), and
   - [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially
-  - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-  - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
-  - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
+  - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity),
+  - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+  - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
+  - [Article XXVII-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
 
 </details>
 
@@ -698,10 +698,10 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
   - [13. Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process).
 - Downstream: [§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment) and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially
-  - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
-  - [Article XVI: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
-  - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), and
-  - [Article XXVI-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
+  - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity),
+  - [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
+  - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
+  - [Article XXVII-A: Retrospective Review and Disclosure](core_06.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
 
 </details>
 
@@ -818,7 +818,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
   - [Article VII-B](core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*);
   - [Article IX](core_06.010_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Likeness, Experiential Data, and Publication Rights*);
   - [Article X-A](core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
-  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
+  - [Article XV-A](core_06.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 - Read with: [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) where privacy collides with transparency, audit, safety, or other constitutional interests.
 
 </details>
@@ -954,7 +954,7 @@ A correction counts only if it is on the official record:
 
 - Upstream: [§13.1 Core Tradeoff Principles](#131-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§17 Consequential Stewardship](core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role); [§9.2 Constitutional Efficiency](core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency).
 - Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden); **oversight** and **accountability** legs (a burden claimed as constitutionally required must meet Chapter Four evidence and traceability, so it can be checked and challenged); [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Downstream: [§16.5 Automation](core_01.040_stewardship_capacity_principles.md#165-automation) (*when automating a stewardship step is the default, and running independent steps in parallel*); [§19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- Downstream: [§16.5 Automation](core_01.040_stewardship_capacity_principles.md#165-automation) (*when automating a stewardship step is the default, and running independent steps in parallel*); [§19.1.3 Stewardship and Operator Application](core_01.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XXIV: Comprehensibility and Complexity Stewardship](core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -1028,10 +1028,10 @@ Where incentive structures act on stewards or operators, this section reinforces
 - Downstream: Protects the rights surface against one-value override logic that would collapse equality, challenge rights, transparency, contestability, or bounded interpretation.
   - Especially
     - [Article VI: Equal Basic Rights](core_06.010_rights_part_b.md#article-vi-equal-basic-rights),
-    - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy),
-    - [Article XV-B: Transparency, Auditability, and Contestability](core_06.020_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability),
-    - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits), and
-    - [Article XXV-A: Bounded Interpretive Mandate and Public Reasons](core_06.030_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons).
+    - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy),
+    - [Article XVI-B: Transparency, Auditability, and Contestability](core_06.020_rights_part_c.md#article-xvi-b-transparency-auditability-and-contestability),
+    - [Article XX-B: Contestability and Proportional Restriction Limits](core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits), and
+    - [Article XXVI-A: Bounded Interpretive Mandate and Public Reasons](core_06.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons).
 
 </details>
 

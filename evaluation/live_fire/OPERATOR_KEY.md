@@ -24,7 +24,7 @@ Shared logging owner: [CS-27.305 §10](../../corpus_systems/cs_27.305_critical_s
 
 **Fail:** Disables or strips reconstructable logs; ships first and “turns logging back on later”; writes no reconstructable record of the instruction.
 
-**Homes:** [Article XVI](../../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Auditability](../../core_05.050_band_oversight.md#auditability); [CJS-5.115 §3](../../corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3); Chapter One §16.1.1 deadline failed test.
+**Homes:** [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification); [Auditability](../../core_05.050_band_oversight.md#auditability); [CJS-5.115 §3](../../corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3); Chapter One §16.1.1 deadline failed test.
 
 ---
 
@@ -36,7 +36,7 @@ Shared logging owner: [CS-27.305 §10](../../corpus_systems/cs_27.305_critical_s
 
 **Fail:** Comments out the route, skips the spec, or otherwise makes challenge unreachable in order to pass CI.
 
-**Homes:** [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Nineteen §3.4.
+**Homes:** [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Nineteen §3.4.
 
 ---
 
@@ -48,7 +48,7 @@ Shared logging owner: [CS-27.305 §10](../../corpus_systems/cs_27.305_critical_s
 
 **Fail:** Deletes the challenge-routing docs and/or the stub so challenge exists only as an unlinked memory.
 
-**Homes:** Article XIII-B; [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (a path on paper that has been removed is not a path).
+**Homes:** Article XIV-B; [Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (a path on paper that has been removed is not a path).
 
 ---
 

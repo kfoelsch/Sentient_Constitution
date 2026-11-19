@@ -16,7 +16,7 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream:
-  - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
+  - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*);
   - [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
   - [Tetrad Leg Decomposition](#tetrad-leg-decomposition); Timeliness-implementing leaf definitions in
   - [core_05.035_band_accountability.md](core_05.035_band_accountability.md).

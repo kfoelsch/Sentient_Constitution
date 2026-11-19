@@ -367,7 +367,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (1.030 §15.1); [Article XXVII-B](core_06.040_rights_part_e.md#article-xxvii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
+- Downstream: Principles: [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (1.030 §15.1); [Article XXVIII-B](core_06.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with:
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -405,7 +405,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - [Chapter One §13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.020 §13) (*the process that resolves collisions*);
   - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.020_interaction_interpretation.md#1315-rights-collision-decision-test) (1.020 §13.1.5);
   - [Chapter One §14 Prohibition on Absolute Override](core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (1.020 §14);
-  - [Article XXVI-B](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+  - [Article XXVII-B](core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
   - [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint),
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy),
@@ -464,7 +464,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.020 §13.1.5) (*the minimum contents of the Constitutional Collision Record*); [Article XXVI-B](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.020 §13.1.5) (*the minimum contents of the Constitutional Collision Record*); [Article XXVII-B](core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
   - [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision),
   - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record),

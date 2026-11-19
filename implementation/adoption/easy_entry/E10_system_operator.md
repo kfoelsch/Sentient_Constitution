@@ -57,7 +57,7 @@ See: [Chapter Nine](../../../core_09.000_system_alignment_certification_evaluati
 - **Today:** Intake is a maze, or only insiders can open a ticket.
 - **With this Constitution:** Challenge, review, and redress are a basic protection, on a clock.
 
-See: [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXVI-C](../../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic).
+See: [Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Article XXVII-C](../../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic).
 
 **Labor is not a classification trick.**
 - **Today:** Contractors, gigs, and AIs sit outside the floor.

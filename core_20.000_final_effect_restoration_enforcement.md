@@ -64,7 +64,7 @@ The final standing effect is governed by the following rule groups:
   - Each still has its own job, and none may do the work of another.
 - **Limits on restriction:**
   - Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction.
-  - Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XX** (*Justice After Verified Violation*).
+  - Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXI** (*Justice After Verified Violation*).
 
 The integration record must state the final effect separately for each affected gated pathway:
 
@@ -127,12 +127,12 @@ This subsection sets out who may see gated-pathway effects, what a gatekeeper ma
 
 This subsection sets out what the subject must be told when an effect attaches:
 
-- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXIII-A** (*Proportional Comprehensibility Right*), and must name:
+- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXIV-A** (*Proportional Comprehensibility Right*), and must name:
   - each affected gated pathway;
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;
   - the expected duration or review cadence; and
-  - the challenge route under **Article XIII-A** (*Reliability and Trustworthiness Baseline*); and
+  - the challenge route under **Article XIV-A** (*Reliability and Trustworthiness Baseline*); and
   - where a violation at slot 5 or higher is involved, that a public notice will be published under [§2.3 Public Notice of Violation Findings](#23-public-notice-of-violation-findings), what it will say, and when it comes down.
 - **Honest cost:** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) defect.
 - **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded gated-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) under [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§2.1 Anti-Aggregation of Gated-Pathway Effects](#21-anti-aggregation-of-gated-pathway-effects) enforcement — not explained away.
@@ -271,7 +271,7 @@ Consequences under this chapter only count if real institutions can carry them o
   - enforce safeguards; and
   - review locks.
 - **Where the details live:** [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
-- **Read with:** **Article XIII-B** (*Right to Redress and Remedy*), and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) for forum supervision.
+- **Read with:** **Article XIV-B** (*Right to Redress and Remedy*), and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must keep the practical capacity, and keep it timely, to:
 
@@ -374,7 +374,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="45-timely-implementation"></a>
 #### 4.5 Timely Implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Sixteen slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Sixteen slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 

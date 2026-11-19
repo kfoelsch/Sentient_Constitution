@@ -51,13 +51,13 @@ See: [Article VI-D](../../../core_06.010_rights_part_b.md#article-vi-d-accessibi
 - **Today:** The recall is posted on a page you never visit. You keep using the product for weeks.
 - **With this Constitution:** Reports of harm have to be taken in and acted on, not buried. When information is wrong or a product is unsafe, everyone who relied on it has to be told inside a time limit that matches how urgent the harm is, reached where they are, even if they never reply, and the information fixed everywhere it appears.
 
-See: [Article III-F](../../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter One §3.1.5](../../../core_01.000_values_principles.md#315-present-capability-and-proactive-help).
+See: [Article III-F](../../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter One §3.1.5](../../../core_01.000_values_principles.md#315-present-capability-and-proactive-help).
 
 **Reviews and rankings cannot be bought to hide a danger.**
 - **Today:** The safest-looking product is at the top because the seller paid. The bad reviews are filtered out.
 - **With this Constitution:** Reviews have to be real, paid placement has to be disclosed, and where health or safety is at stake, a recommendation cannot be tilted by what the system earns.
 
-See: [Article XIII-C](../../../core_06.020_rights_part_c.md#article-xiii-c-prohibition-of-false-trust-and-misleading-reliance); [Article XIII-D](../../../core_06.020_rights_part_c.md#article-xiii-d-incentive-alignment-constraint).
+See: [Article XIV-C](../../../core_06.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance); [Article XIV-D](../../../core_06.020_rights_part_c.md#article-xiv-d-incentive-alignment-constraint).
 
 **Safe to eat and drink is part of staying alive.**
 - **Today:** A missing test result on the water report is shown as “no problem.” Or a safety doubt is used as the reason to cut you off.

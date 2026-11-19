@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Nine §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Twenty-Seven §2.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*phase gates — after an adoption document, not for party-count growth*).
+- Upstream: [Chapter Twenty-Nine §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Twenty-Seven §2.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*phase gates — after an adoption document, not for party-count growth*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-three-axes-do-not-merge); [§2](#2-keep-the-three-substeps-uncollapsed); [§3](#3-n-party-sitting-protocol); [§4](#4-handoff-gates-cliffs-not-a-slope); [§5](#5-joining-rule-template-for-103-not-live-rules).
 - Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) (*phased migration after a recorded adoption document*).
 
@@ -48,7 +48,7 @@ This kit does **not**:
 - Let *n* markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
 - Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a multi-party “forum” as ceremony, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
+- Staff forum families, invent a multi-party “forum” as ceremony, or treat standing scores as sentience status ([Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Authorize [Chapter Twenty-Nine §11.3](../../core_29.000_amendment_ratification.md#113-joining-by-additional-parties) joining (the template in [§5](#5-joining-rule-template-for-103-not-live-rules) is **not** published existing-adopter joining rules)
 - Reuse CS-6.350 phase names (preparation, limited adoption, expanded adoption, steady state) as a metaphor for party-count or network growth
 - Create a ladder of partial-pack constitutional adoption claims ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4)
@@ -62,7 +62,7 @@ This kit does **not**:
 |---|---|---|---|
 | **Party count** | 2 → *n* operations-guide users | Substeps 1.1–1.2. Separate sittings, same edition pin. Not adoption. | This kit [§3](#3-n-party-sitting-protocol); fitness screen in [`evaluation/self_application/`](../../evaluation/self_application/) |
 | **Authority** | Own-conduct declarations → a body that can bind systems | Substep 1.3 only when a qualifying adopter records a [§11.1–§11.2](../../core_29.000_amendment_ratification.md#111-deliberate-adoption) adoption document | [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority); fill-in in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#4-adoption-document-fill-in) |
-| **Scope / depth** | Protocol-only → named chapters, articles, or obligations → whole Constitution, **then** CS-6.350 | Partial adoption may not wipe the [Chapter Twenty-Eight](../../core_28.000_non_regression.md#2-non-regression-floor) non-regression floor. CS-6.350 starts **after** the adoption document. | [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope); [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) |
+| **Scope / depth** | Protocol-only → named chapters, articles, or obligations → whole Constitution, **then** CS-6.350 | Partial adoption may not wipe the [Chapter Twenty-Eight](../../core_28.000_non_regression.md#2-non-regression-floor) non-regression floor. CS-6.350 starts **after** the adoption document. | [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope); [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) |
 
 **Polity-scale note.** When the adopter is a jurisdiction or polity, [Chapter Twenty-Nine §11.1](../../core_29.000_amendment_ratification.md#111-deliberate-adoption) also requires a published affected-sentient participation check (contested election, sortition, federated ratification, or another [Chapter Twenty-Seven §2.2](../../core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums)-compliant path). Organizations, system operators, and consortia still use the deliberate, documented, auditable path without that polity check. Headcount of cooperating stewards is not that check.
 
@@ -123,17 +123,17 @@ Do not invent a multi-party forum as ceremony. Do not staff a forum family from 
 
 ## 4. Handoff gates (cliffs, not a slope)
 
-Advancement toward a Chapter Twenty-Nine adoption document must **not** rest on elapsed time, convenience, or headcount alone. That is the same discipline [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) already uses for phase gates. Party count is not a legitimacy mechanism.
+Advancement toward a Chapter Twenty-Nine adoption document must **not** rest on elapsed time, convenience, or headcount alone. That is the same discipline [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) already uses for phase gates. Party count is not a legitimacy mechanism.
 
 **Constitutional Tetrad.** Participation upgrades when more sentients are affected. Oversight stays independent of the cooperating crew. Accountability still needs a body that can bind systems. Timeliness uses these gates, not “we have cooperated long enough.”
 
 | Gate | Pass | Fail → stay at operations-guide + declarations |
 |---|---|---|
-| **Independent review** | A published backup, external reviewer, or forum family the parties do not solely staff. Named on any adoption document. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture); [Chapter Twenty-Nine Procedural Test 4](../../core_29.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity). Keep [Article XIII-A](../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. | The only merits path is the other signatories. Do not claim adoption. |
+| **Independent review** | A published backup, external reviewer, or forum family the parties do not solely staff. Named on any adoption document. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture); [Chapter Twenty-Nine Procedural Test 4](../../core_29.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity). Keep [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) reachable. | The only merits path is the other signatories. Do not claim adoption. |
 | **Qualifying body** | A body that can bind itself and the systems under its authority ([Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). That body copies the [adoption document fill-in](FIRST_ADOPTER_KIT.md#4-adoption-document-fill-in) into **its** custody. | Stewards listing themselves as bound. *n* declarations stapled together. |
 | **Remedy capacity** | Practical capacity to deliver challenge and redress, not paper routes ([Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems)). | Named routes with no capacity. Do not treat that as substep 1.3. |
 | **Legitimacy upgrade** | When affected sentients expand past the cooperating crew, publish a [Chapter Twenty-Seven §2.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism) mechanism (usually **treaty, compact, or Constitutional Charter** adoption with recorded assent, or an operator/consortium resolution). A polity also needs the [§11.1](../../core_29.000_amendment_ratification.md#111-deliberate-adoption) affected-sentient participation check. | Silence, usage, marketing alignment, or “more of us now.” |
-| **Adoption-document cliff** | Standing effects, certification, or enforceability against non-consenters require a recorded adoption document. | Using scores, badges, or LEQU figures to decide who counts ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction)). |
+| **Adoption-document cliff** | Standing effects, certification, or enforceability against non-consenters require a recorded adoption document. | Using scores, badges, or LEQU figures to decide who counts ([Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction)). |
 
 Fail any row: attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner). Hand off to whoever can adopt ([self-application item 17](../../evaluation/self_application/QUESTIONS.md)).
 
@@ -184,7 +184,7 @@ Rights Floors and challenge rights for already-covered sentients
     are not reduced without procedurally valid, informed participation
     (Chapter Twenty-Nine §11.3; Article XI-G where participation weight applies).
   [ ] acknowledged in these rules
-Articles XIII-A and XIII-B remain reachable for joiners and already-covered sentients.
+Articles XIV-A and XIV-B remain reachable for joiners and already-covered sentients.
   [ ] acknowledged
 
 Scope the joiner takes on (whole Constitution / named chapters, articles,
@@ -193,7 +193,7 @@ Custody of the authoritative edition the joiner pins:
 CS-9.305 and CS-9.310 class or “not yet classified — auditability still proportionate”:
 
 First-mover capture check:
-[ ] These rules are contestable (Article XIII-A).
+[ ] These rules are contestable (Article XIV-A).
 [ ] These rules do not make the publishing adopter the sole merits path
     for disputes about joining, floors, or independent review.
 [ ] These rules do not trade joining for a shield while denying matching
@@ -217,7 +217,7 @@ Full adoption is **not** popularity, *n* operations-guide users, or “everyone 
 
 It is a qualifying body that binds itself and the systems under its authority, with a recorded [Chapter Twenty-Nine §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) adoption document, [Chapter Thirty-One](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) custody, and a documented [Chapter Twenty-Seven §2.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism) legitimacy mechanism. After that adoption document, [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) sequences migration of **those systems**.
 
-Progress under [Article XXVIII-B](../../core_06.040_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Institutional Charter template is not that progress. The operator path to found those forums is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A filled CF-23.405 §2 template is not that progress.
+Progress under [Article XXIX-B](../../core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Institutional Charter template is not that progress. The operator path to found those forums is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A filled CF-23.405 §2 template is not that progress.
 
 CS-6.350 phase names apply only inside that post-adoption-document migration. Do not rename party-count growth as “limited adoption” or “expanded adoption.”
 
@@ -249,7 +249,7 @@ CS-6.350 phase names apply only inside that post-adoption-document migration. Do
 | [Chapter Twenty-Nine §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) | Only path to enforceable adoption; §10.3 joining after existing adopters publish rules |
 | [Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |
 | [Chapter Twenty-Seven §2.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism) | Documented legitimacy mechanism |
-| [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) / [XXVIII-B](../../core_06.040_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) | Phase gates and progress measure **after** adoption, not for party-count growth |
+| [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) / [XXIX-B](../../core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) | Phase gates and progress measure **after** adoption, not for party-count growth |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them. §6.4: no partial-pack adoption ladder. |
 
 ---
@@ -262,6 +262,6 @@ CS-6.350 phase names apply only inside that post-adoption-document migration. Do
 | 2026-08-31 | v0.2 | Status / pin / Job banner recast as corpus-placement details plus Purpose and role. CS-6.350 / first adoption document pointer moved into §0. |
 | 2026-08-31 | v0.3 | §2 recast as three substeps matching the first-adopter kit. |
 | 2026-08-31 | v0.4 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
-| 2026-08-31 | v0.5 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Article XXVIII-B progress is not a filled Institutional Charter template. |
-| 2026-08-31 | v0.6 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Article XXVIII-B progress is not a filled CF-23.405 §2 template. |
+| 2026-08-31 | v0.5 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Article XXIX-B progress is not a filled Institutional Charter template. |
+| 2026-08-31 | v0.6 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Article XXIX-B progress is not a filled CF-23.405 §2 template. |
 | 2026-09-09 | v0.7 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |

@@ -18,7 +18,7 @@
 > - **Constitutional owner:** **section 1** (*purpose*, *role*, and *chapter scope*); **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**, and **accountability** requirements (**section 2**); **Dispute sequencing** for ordinary disputes inside already-authorized systems, **published**, **predictable** **threshold** placement, **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, Standing-Record contests, **good-faith characterization and anti-gaming**, and **sentient-accessible** **threshold** **access** expectations (**section 3**, **read with** **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 5**, read with **Chapter Twenty-Four section 3** certification and backup); **anti-self-judging** backup routing; and escalation hooks tied to **Chapter Fifteen**, **Chapter Twenty-One**, and **Chapter Six** justice and challenge rights.
 > - **Pipeline navigation:** [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) — [§§1–5](#1-purpose-role-and-scope) in this chapter; forum families, escalation, timely resolution, and support in [Chapter Twenty-Four](core_24.000_forum_families_escalation_timeliness_support.md#chapter-twenty-four-forum-families-escalation-timely-resolution-and-support).
 > - **Chapters Fifteen–Twenty three-question pipeline:** Chapter Fifteen **sections 3–5** answer Question 1 (*what happened?*) through verified, axis-pure records. [Chapter Sixteen §2](core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it) and the [Chapter Sixteen §7 unified proportional LEQU scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) answer Question 2 (*how good or bad was it?*) through evaluation dimensions, shared five-times LEQU bands, and the shared **s** = 1...9 grammar while preserving separate Contribution and Violation records. [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) answers Question 3 (*what happens because of it?*) through remedies, safeguards, competency bars and clearances, and standing locks. The Violation Axis slot is controlled only by verified impact; negligence, concealment, coercion, response, and comparable character descriptors do not move it. [Chapter Twenty-One](core_21.000_misconduct_designation.md#chapter-twenty-one-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Chapter Sixteen slot 7, 8, or 9 record but does not assign the numeric slot.
-> - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) classifications to concrete disputes — including matters where separately recorded **contribution nature**, **Violation Axis impact slot**, and process / response character **co-present** and must be handled under **Chapter Fifteen** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Fifteen** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative Chapter Sixteen numeric slot assignment, any corresponding **Chapter Twenty-One** designation, or **Article XX** (*Justice After Verified Violation*) constraints. **Section 2** allocates **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
+> - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) classifications to concrete disputes — including matters where separately recorded **contribution nature**, **Violation Axis impact slot**, and process / response character **co-present** and must be handled under **Chapter Fifteen** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Fifteen** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative Chapter Sixteen numeric slot assignment, any corresponding **Chapter Twenty-One** designation, or **Article XXI** (*Justice After Verified Violation*) constraints. **Section 2** allocates **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
 > - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forum-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-23.415** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*), **CF-23.430** (*Forum Forensic and Analytical Support*), **CF-23.435** (*Independent Investigative Service and Prosecution Interface*), and related sections).
 > - **Anti-relocation rule:** adopting documents must not satisfy this chapter through procedures that collapse distinct forum functions, strip **independence** or **real review**, or route integrity challenges back to the same captured forum this chapter forbids as the sole final merits home.
 >
@@ -91,9 +91,9 @@ Chapter Twenty-Three is the constitutional owner of **forum supervision and stan
   - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process);
   - **CF-23.420 §2.2** (*Emergency, Exhaustion, and Timing Rules*);
   - [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) and [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) for contest, secondary review, and integrity monitoring, which does not replace assigned forum jurisdiction;
-  - [Article XIII-A: Reliability and Trustworthiness Baseline](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and
-  - [Article XIII-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy);
-  - [Article XX family](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
+  - [Article XIV-A: Reliability and Trustworthiness Baseline](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and
+  - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
+  - [Article XXI family](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
 
 </details>
 
@@ -105,7 +105,7 @@ Chapter Twenty-Three is the constitutional owner of **forum supervision and stan
 
 - forums that are independent and contestable;
 - a clear starting point for each kind of dispute; and
-- an accessible way to challenge decisions that affect sentients, backed by forensic and technical support and by the timeliness floor in **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
+- an accessible way to challenge decisions that affect sentients, backed by forensic and technical support and by the timeliness floor in **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 
 What it produces is the set of forum families and the routing that sends each dispute to one of them.
 
@@ -146,7 +146,7 @@ The chapter leaves the certification rules to the certification chapters, the st
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - **[CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
   - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*);
-  - [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice objective and scope*).
+  - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
 
 </details>
 
@@ -202,8 +202,8 @@ Forum families:
   - learning from patterns of failure.
 - must satisfy **independence**, **contestability**, and **tracing** expectations in:
   - **Chapters Two through Four**;
-  - **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), where challenge and remediation are implicated; and
-  - **Article XX** (*Justice After Verified Violation*), where justice constraints govern.
+  - **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*), where challenge and remediation are implicated; and
+  - **Article XXI** (*Justice After Verified Violation*), where justice constraints govern.
 - are subject to this Constitution's most stringent expressed procedural and integrity-accountability requirements, including:
   - public justification and traceability;
   - recusal and panel discipline; and
@@ -230,7 +230,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 - a real merits decision by a lawfully constituted panel;
 - Chapter Sixteen impact-slot measurement;
 - any matching **Chapter Twenty-One** designation; and
-- the justice constraints in **Article XX** (*Justice After Verified Violation*).
+- the justice constraints in **Article XXI** (*Justice After Verified Violation*).
 
 <a id="223-relation-to-implementation-files"></a>
 
@@ -272,8 +272,8 @@ Two limits keep that work in its place:
   - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*);
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Twenty-One §5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (21.000 §5) (*anti-constitutional-misconduct designation for qualifying Chapter Sixteen slots 7–9*);
-  - [Chapter Twenty-One §6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (21.000 §6) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XX** (*Justice After Verified Violation*)*);
-  - [Article XX-A](core_06.030_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice objective and scope*).
+  - [Chapter Twenty-One §6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (21.000 §6) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XXI** (*Justice After Verified Violation*)*);
+  - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
 
 </details>
 
@@ -307,7 +307,7 @@ Inside a system, institution, or decision area that is already authorized, an or
 Three rules keep this sequence from becoming a way to delay:
 
 - **Integrity**, **Technical Forum Domains**, **Environment**, and **Constitutional** forums lead by default when their area is the primary stake. That is the normal order, not an exception that skips the sequence.
-- An unfinished internal process, an "exhaustion" label, or a claim that internal review is not done must not stall those leads, push aside their decision on the merits, or use up the time limits in **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
+- An unfinished internal process, an "exhaustion" label, or a claim that internal review is not done must not stall those leads, push aside their decision on the merits, or use up the time limits in **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 - Direct access stays open when waiting would materially endanger rights, evidence, independence, or a practical way to restore what was lost.
 
 ```mermaid
@@ -383,7 +383,7 @@ Operational requirements — including **published intake classes**, attributabl
 
 Time expectations for forum access must:
 - be **sentient-accessible**;
-- be calibrated to harm urgency and matter complexity under **Chapter Twenty-Four section 4** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
+- be calibrated to harm urgency and matter complexity under **Chapter Twenty-Four section 4** and **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*);
 - favor real threshold access and lawful interim relief under **Chapter Twenty-Four section 3** (*Interim Protection*) over administrative convenience.
 
 The **intake triage body** under this section, together with **CF-23.415** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*), satisfies this obligation and must implement **Chapter Twenty-Four section 4** tier-default windows within incorporation scope.
@@ -425,7 +425,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 - **Primary-stakes collision:** If the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it, the Chapter Twenty-One **Integrity** lead default (set in **section 3.3.4**) does not override the **Institutional** row. **Section 3.4** and **section 5** govern mixed stakes, necessary institutional parties, and lead forum selection.
 - **Constitutional questions for ruling:** **Integrity** lead for a Chapter Twenty-One designation does not displace Chapter Sixteen numeric slot measurement, sending a question for ruling, or escalation to **Constitutional** forums under **Chapter Twenty-Four section 3** where constitutional meaning, validity, or class-wide structural remedy requires determination under the **Constitutional** row or through family-to-family escalation.
-- **Anti-self-judging backup:** Where material allegations warrant independent merits review of **Integrity** forum integrity in a Chapter Twenty-One designation proceeding concerning a Chapter Sixteen slot 7–9 record, backup routing under **section 4** and **Chapter Twenty-Four section 2** applies without narrowing **Chapter Twenty-One section 6** or **Article XX** (*Justice After Verified Violation*).
+- **Anti-self-judging backup:** Where material allegations warrant independent merits review of **Integrity** forum integrity in a Chapter Twenty-One designation proceeding concerning a Chapter Sixteen slot 7–9 record, backup routing under **section 4** and **Chapter Twenty-Four section 2** applies without narrowing **Chapter Twenty-One section 6** or **Article XXI** (*Justice After Verified Violation*).
 
 <a id="334-special-routing-rules"></a>
 
@@ -438,7 +438,7 @@ These rules apply on top of the default venue table in **section 3.3.2**. **Sect
   - **Constitutional** certification where needed;
   - institutional-party rules; and
   - anti-self-judging backup under **sections 3, 5, and 7**.
-- **Forum-bias disputes:** If the fight is mainly about a panelist who should have stepped aside, biased panel participation, or a comparable forum-integrity violation — including on a **Constitutional** forum panel under **[Article XXV-C](core_06.030_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*)** — route it to **Integrity** forums first. Under **section 5**, a forum cannot be the sole final judge of its own bias: a **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have recused. Standing-lock discipline: **[Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks)**. Named misconduct pattern: **[Chapter Twenty-Two §5.3 Forum Recusal Failure and Biased Panel Participation](core_22.000_misconduct_pattern_applications.md#53-forum-recusal-failure-and-biased-panel-participation)**.
+- **Forum-bias disputes:** If the fight is mainly about a panelist who should have stepped aside, biased panel participation, or a comparable forum-integrity violation — including on a **Constitutional** forum panel under **[Article XXVI-C](core_06.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*)** — route it to **Integrity** forums first. Under **section 5**, a forum cannot be the sole final judge of its own bias: a **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have recused. Standing-lock discipline: **[Chapter Nineteen §3.5 Special Locks](core_19.000_violation_consequences.md#35-special-locks)**. Named misconduct pattern: **[Chapter Twenty-Two §5.3 Forum Recusal Failure and Biased Panel Participation](core_22.000_misconduct_pattern_applications.md#53-forum-recusal-failure-and-biased-panel-participation)**.
 - **Technical how-to questions:** Specifications, methods, measurement, testing, and expert-evidence questions go to **Technical Forum Domains** when those are the primary stake or component questions for ruling.
 - **System-alignment sign-off:**
   - Official **constitutional alignment certification** for new materially impactful systems, and **ongoing alignment validation** for existing ones, default to **Integrity** as lead. So does institutional alignment certification of an Institution, which keeps **Institutional** forums as holders of the institutional mandate and duty-compliance components.
@@ -454,7 +454,7 @@ These rules apply on top of the default venue table in **section 3.3.2**. **Sect
 
 ##### 3.4.1 One Case Record, One Lead
 
-One Forum Case Record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting documents provide, consistent with **Article XIII-A** (*Reliability and Trustworthiness Baseline*), **Article XIII-B** (*Right to Redress and Remedy*), and **Chapter Fifteen** joint-assessment and non-substitution discipline.
+One Forum Case Record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting documents provide, consistent with **Article XIV-A** (*Reliability and Trustworthiness Baseline*), **Article XIV-B** (*Right to Redress and Remedy*), and **Chapter Fifteen** joint-assessment and non-substitution discipline.
 
 <a id="342-asymmetry"></a>
 
@@ -568,7 +568,7 @@ A forum works with four kinds of record, and none of them by itself changes anyo
   - final findings in that case.
 - A **System or Institutional Certification Record** states a certification outcome and its limits on reliance. It is kept under [Chapter Eleven §2 System Certification Record](core_11.000_system_alignment_certification_records_recertification.md#2-system-certification-record) and [Chapter Fourteen §2 Institutional Certification Record](core_14.000_institutional_alignment_certification_records_recertification.md#2-institutional-certification-record).
 - A **Standing Record** is a Chapter Fifteen **contribution Standing Record** or **violation Standing Record**, as required by [Chapter Fifteen](core_15.000_standing_assessment.md#3-question-1--what-happened) (see [Standing Record](core_05.035_band_accountability.md#standing-record)).
-- An **Adoption Transition Record** is an adopter's published, running record of its Adoption Transition: its gates, Rights-Floor ledger, and interim authority. The adopter keeps it under [Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*). A forum reviews it only on a contest under **section 4.6**; the forum does not keep it.
+- An **Adoption Transition Record** is an adopter's published, running record of its Adoption Transition: its gates, Rights-Floor ledger, and interim authority. The adopter keeps it under [Article XXIX-A](core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*). A forum reviews it only on a contest under **section 4.6**; the forum does not keep it.
 
 These two rules keep the kinds of record apart:
 
@@ -669,7 +669,7 @@ A Standing-Record contest is a [Review Case](core_05.035_band_accountability.md#
 
 #### 4.6 Contests of Adoption Transition Records
 
-A contest of an [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) is a [Review Case](core_05.035_band_accountability.md#review-case). The adopter keeps and publishes the Adoption Transition Record under [Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*), and this subsection does not change that duty. An affected sentient, institution, community, or oversight body may contest:
+A contest of an [Adoption Transition Record](core_05.040_band_continuity.md#adoption-transition-record) is a [Review Case](core_05.035_band_accountability.md#review-case). The adopter keeps and publishes the Adoption Transition Record under [Article XXIX-A](core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*), and this subsection does not change that duty. An affected sentient, institution, community, or oversight body may contest:
 
 - a gate decision, its criteria, or the evidence it rested on;
 - an enforcement-readiness declaration, as premature or as withheld;
@@ -679,8 +679,8 @@ A contest of an [Adoption Transition Record](core_05.040_band_continuity.md#adop
 
 Who hears the contest:
 
-- A contest of an enforcement-readiness declaration is decided by a party independent of the ledger owner ([**CI-6.275 §4**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*)).
-- Where no forum is yet ready for the enforceability scope in question, the interim route under [Article XXVIII-A](core_06.040_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) and [**CI-6.275 §4**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*) decides the contest, and this subsection applies from the time a forum is ready.
+- A contest of an enforcement-readiness declaration is decided by a party independent of the ledger owner ([**CI-6.275 §4**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxix-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*)).
+- Where no forum is yet ready for the enforceability scope in question, the interim route under [Article XXIX-A](core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) and [**CI-6.275 §4**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-4-article-xxix-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*) decides the contest, and this subsection applies from the time a forum is ready.
 - The forum is chosen under **section 4.2**, so no office in the adopter's own line, no ledger owner, no Adoption Transition authority, and no party that made the contested decision or declaration holds a seat on the review.
 
 Routing follows the real issue in the contest:
@@ -725,8 +725,8 @@ Forum Case Records are kept where the sentients who need them can reach them and
 - Downstream: [Chapter Twenty-Four §3](core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling) (*constitutional questions for ruling, backup routing activation, and Interim protection while coordination proceeds*).
 - Within §5: [§5.1](#51-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*); [§5.2](#52-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*); [§5.3](#53-cross-forum-anti-self-judging-rule) (*independent lead and backup pairs*); [§5.4](#54-family-level-capture) (*family-level capture*); [§5.5](#55-capacity-failure-is-heard-outside-the-starved-body) (*capacity failure*).
 - Read with:
-  - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
-  - [Article XIII-B](core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+  - [Article XIV-A](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
+  - [Article XIV-B](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
   - **[CF-23.425](corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-23425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*), anti-self-judging and family-level capture.
 
 </details>

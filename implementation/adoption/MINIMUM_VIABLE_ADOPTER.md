@@ -57,7 +57,7 @@ This page does **not**:
 - Let an estimate, a shared note, or “we are Profile 2” claim constitutional protection while dodging matching obligations
 - Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Fifteen Standing Record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.030_rights_part_d.md#article-xix-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
 **Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.

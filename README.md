@@ -40,7 +40,7 @@ The Sentient Constitution is a written framework meant to prevent that. It asks 
 - **Accountability:** decisions leave an official record, and wrongs can be challenged and put right.
 - **Timeliness:** all of this happens fast enough to matter.
 
-The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems must be held to the same standard.
+The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 29 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems must be held to the same standard.
 
 Two questions run through all of it, and anyone can put them to a system they know:
 
@@ -100,7 +100,7 @@ The Constitution is one document split into a Preamble and thirty-one chapters. 
 | **Chapter 1**: [Part A](core_01.000_values_principles.md) · [Part B](core_01.010_values_principles_continuity_aim.md) · [Part C](core_01.020_interaction_interpretation.md) · [Part D](core_01.030_constitutional_interpretation.md) · [Part E](core_01.040_stewardship_capacity_principles.md) · [Part F](core_01.050_governance_incentive_application.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
 | **Chapters 2–4**: [2](core_02.000_definition_structure.md) · [3](core_03.000_definition_integrity.md) · [4](core_04.000_burden_traceability_verification.md) | How key terms are defined, protected against loopholes, and backed with evidence |
 | **Chapter 5**: [Definitions](core_05.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
-| **Chapter 6**: [Part A](core_06.000_rights_part_a.md) · [Part B](core_06.010_rights_part_b.md) · [Part C](core_06.020_rights_part_c.md) · [Part D](core_06.030_rights_part_d.md) · [Part E](core_06.040_rights_part_e.md) | **The Rights Floor**: Articles I–XXVIII |
+| **Chapter 6**: [Part A](core_06.000_rights_part_a.md) · [Part B](core_06.010_rights_part_b.md) · [Part C](core_06.020_rights_part_c.md) · [Part D](core_06.030_rights_part_d.md) · [Part E](core_06.040_rights_part_e.md) | **The Rights Floor**: Articles I–XXIX |
 | **Chapter 7**: [System and Institutional Charters](core_07.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
 | **Chapter 8**: [Separation of Duties](core_08.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapters 9–11**: [9](core_09.000_system_alignment_certification_evaluation.md) · [10](core_10.000_system_alignment_certification_forum_process_outcomes.md) · [11](core_11.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
@@ -203,7 +203,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Burden of proof, traceability, verification: Chapter Four
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Eight
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
-- Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05.050_band_oversight.md#auditability) is the property; [CJS-5.115 §3](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) is how and when; Chapter Nine is one large process that uses that stack
+- Auditing and independent verification: Article XVII is the floor; Chapter Five [Auditability](core_05.050_band_oversight.md#auditability) is the property; [CJS-5.115 §3](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) is how and when; Chapter Nine is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)
 - Remedy systems and enforcement realism: Chapter Twenty §4; implementation in CI-25.210
 - Relation to local, national, and international law: [Chapter Thirty §6](core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)

@@ -52,8 +52,8 @@ flowchart TB
 
 These floors are already in Chapter Six. This page does not restate them as new duties.
 
-- **[Article XIII-A](../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
-- **[Article XVI](../core_06.020_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVI](../core_06.020_rights_part_c.md#audit-three-layers). Chapter Nine is one large audit process under that floor, not the only audit home.
+- **[Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
+- **[Article XVII](../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVII](../core_06.020_rights_part_c.md#audit-three-layers). Chapter Nine is one large audit process under that floor, not the only audit home.
 
 ## What this page does not do
 

@@ -39,7 +39,7 @@ Chapter One, Part F is the constitutional owner of **governance under stewardshi
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
   - [§9 Shared-System Capacity](core_01.010_values_principles_continuity_aim.md#9-shared-system-capacity);
   - [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization);
-  - [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
+  - [Article XXVI](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
 - Subsections (reading order):
   - [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure) ·
   - [§18.2 Institutional Secularism and Worldview Neutrality](#182-institutional-secularism-and-worldview-neutrality) ·
@@ -94,7 +94,7 @@ This section carries [Governance](core_05.035_band_accountability.md#governance)
   - [§18.4 Ongoing Justification](#184-ongoing-justification);
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
   - [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization);
-  - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member disclosure, recusal, and anti-capture floors*);
+  - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member disclosure, recusal, and anti-capture floors*);
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) (*forum-family supervision*).
 
 </details>
@@ -139,7 +139,7 @@ The more power, influence, or responsibility someone has under this Constitution
 
 - **No excuses:** Holding high office, having rare expertise, being short-staffed, or wanting to protect an institution's reputation never justifies being less accountable to this Constitution.
 - **Judges and interpreters are held to the highest standard:** Sentients on constitutional forums and panels who interpret the Constitution or decide disputes under it are especially bound by this rule.
-- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases).
+- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXVI](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases).
 
 **Necessary, not sufficient.** Governance must give way to **Stewardship** ([§16 Stewardship in Depth](core_01.040_stewardship_capacity_principles.md#16-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00.000_preamble.md#continuity), [**Flourishing**](core_00.000_preamble.md#flourishing), or Rights-Floor integrity:
 
@@ -263,8 +263,8 @@ Oversight and accountability only work if the checking is done independently of 
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (durable alignment is not freeze-in-place); **Flourishing** aim (voice and challenge remain real as arrangements age).
 - Read with: [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty); [Contestability](core_05.035_band_accountability.md#contestability); [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional).
 - Downstream:
-  - [Article XXVII-A: Non-Entrenchment and Revisability](core_06.040_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) and
-  - [Article XXVII-B: Periodic Revalidation and Transparent Change](core_06.040_rights_part_e.md#article-xxvii-b-periodic-revalidation-and-transparent-change) (*Rights-Floor non-entrenchment and transparent-change floors — they do not narrow this principle*); **
+  - [Article XXVIII-A: Non-Entrenchment and Revisability](core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) and
+  - [Article XXVIII-B: Periodic Revalidation and Transparent Change](core_06.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Rights-Floor non-entrenchment and transparent-change floors — they do not narrow this principle*); **
   - [CJS-5.125 §11](corpus_joint_structure/cjs_05.125_accountability_operations.md#baseline-governance-accountability-conditions)** (*Baseline governance accountability conditions*);
   - [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization).
 
@@ -323,9 +323,9 @@ Important governance choices cannot be set once and forgotten. They must be rech
   - [§16.1 Distributed Understanding](core_01.040_stewardship_capacity_principles.md#161-distributed-understanding);
   - [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01.010_values_principles_continuity_aim.md#1131-consolidation-risk-pre-lock-in-impairment).
 - Downstream:
-  - [Article XXIII-B: Complexity Audit and Modularity Requirements](core_06.030_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*);
+  - [Article XXIV-B: Complexity Audit and Modularity Requirements](core_06.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*);
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependency maps*);
-  - [Article XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*exit and portability*);
+  - [Article XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*exit and portability*);
   - [CS-6.315](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
 </details>
@@ -377,9 +377,9 @@ Material systems should be built so that their parts, and the dependencies betwe
 - dependencies are **explicit**: declared at interfaces, not implicit in shared state, side channels, or undocumented conventions;
 - dependencies are **minimal and directional**: coupling is kept no broader than function requires, and one-way or chained reliance is visible rather than buried;
 - dependencies are **mapped to the same boundaries that are audited**, so the dependency map required by [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) lines up with the components a reviewer can actually inspect;
-- dependencies preserve **substitutability and exit** where function allows, consistent with [Article XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*).
+- dependencies preserve **substitutability and exit** where function allows, consistent with [Article XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*).
 
-**Boundaries must not become hiding places.** Modularity is legitimate only when responsibility and observability survive every internal boundary. Partitioning is the layering that [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) prohibits when it:
+**Boundaries must not become hiding places.** Modularity is legitimate only when responsibility and observability survive every internal boundary. Partitioning is the layering that [Article XXIV-B](core_06.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) prohibits when it:
 
 - moves responsibility to an unaccountable layer;
 - makes the whole unauditable even though each part is individually inspectable; or
@@ -392,10 +392,10 @@ Further:
 
 **Scaling.** The depth of modular discipline scales with [material stake](core_00.000_preamble.md#material-stake) and [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) under [Proportionality](core_05.035_band_accountability.md#proportionality):
 
-- Critical systems **must** meet the [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) modularity floor.
+- Critical systems **must** meet the [Article XXIV-B](core_06.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) modularity floor.
 - Lower-stake systems are expected to follow the principle as far as is proportionate.
 - This section does not require any particular architectural style.
-- This section does not narrow the floors in [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) or [CS-6.315 — Comprehensibility and Complexity Stewardship](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship).
+- This section does not narrow the floors in [Article XXIV-B](core_06.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) or [CS-6.315 — Comprehensibility and Complexity Stewardship](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship).
 
 This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 
@@ -413,7 +413,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
   - [§17.4 Aligned Self-Organization](core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization) (*the counterweight: local choice, kept interoperable*);
   - [§11.2 Pro-Competition and Anti-Domination](core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) and
   - [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01.010_values_principles_continuity_aim.md#1131-consolidation-risk-pre-lock-in-impairment) (*standards must not become lock-in*).
-- Downstream: [Article XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*interoperability, portability, and exit*); [Article XXIII-B](core_06.030_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*complexity and modularity floor*).
+- Downstream: [Article XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*interoperability, portability, and exit*); [Article XXIV-B](core_06.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*complexity and modularity floor*).
 
 </details>
 
@@ -455,7 +455,7 @@ When a system has to do everyday things like defining its terms, connecting to o
 
 - **Treats like cases alike:** When everyone is judged by the same criteria and steps, unequal treatment is easier to spot and challenge. It can't hide behind local differences (see [§3.1.3 Fair Treatment](core_01.000_values_principles.md#313-fair-treatment)).
 - **Makes review easier and stronger:** A reviewer who understands one standard can check every place it is used. When every location does things its own way, there is far more to learn, audit, and explain. When a common standard was available, that extra work can be [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden).
-- **Keeps parts connectable and replaceable:** Shared formats and connection points let you move, repair, or swap out a component, provider, or record without rebuilding everything around it. This supports [§18.5 Modular Architecture and Dependency Discipline](#185-modular-architecture-and-dependency-discipline) and [Article XXI](core_06.030_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*).
+- **Keeps parts connectable and replaceable:** Shared formats and connection points let you move, repair, or swap out a component, provider, or record without rebuilding everything around it. This supports [§18.5 Modular Architecture and Dependency Discipline](#185-modular-architecture-and-dependency-discipline) and [Article XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*).
 - **Makes things easier to understand:** When sentients meet the same terms, forms, and steps everywhere, they can follow what is happening to them. This fits [§5.2 Plain-Language Accessibility](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
 
 **The standard itself has to be sound.** Standardization only counts when the standard is:
@@ -512,10 +512,10 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
   - [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000); especially
   - [Article X: Self-Determination, Agency, and Participation](core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
   - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process),
-  - [Article XIII-D: Incentive-Alignment Constraint](core_06.020_rights_part_c.md#article-xiii-d-incentive-alignment-constraint),
-  - [Article XV: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xv-info-sphere-integrity),
-  - [Article XIX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xix-standing-and-participation-status), and
-  - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - [Article XIV-D: Incentive-Alignment Constraint](core_06.020_rights_part_c.md#article-xiv-d-incentive-alignment-constraint),
+  - [Article XVI: Info-Sphere Integrity](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity),
+  - [Article XX: Standing and Participation Status](core_06.030_rights_part_d.md#article-xx-standing-and-participation-status), and
+  - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
 - Steward door (non-operative): Next-step card: [Incentive alignment](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
@@ -1194,7 +1194,7 @@ This subsection sets out how verified duties survive successor and formal-struct
   - [§1 Purpose, Role, and Scope](core_01.000_values_principles.md#1-purpose-role-and-scope).
 - Downstream: [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) must be read through this chapter's integrated-value framework.
   - Bounded interpretation, public reasons, challenge, external review, and rights-collision procedure do the key downstream work.
-  - Especially [Article XXV-A: Bounded Interpretive Mandate and Public Reasons](core_06.030_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons), [Article XXV-B: Challenge Rights and Independent Review](core_06.030_rights_part_d.md#article-xxv-b-challenge-rights-and-independent-review), and [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment).
+  - Especially [Article XXVI-A: Bounded Interpretive Mandate and Public Reasons](core_06.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons), [Article XXVI-B: Challenge Rights and Independent Review](core_06.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review), and [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment).
   - Chapter Six non-contraction defaults under [§15.3 Ambiguity Resolution](core_01.030_constitutional_interpretation.md#153-ambiguity-resolution).
 - Read with: [§15.2 Definitional Layer and Required Disciplines](core_01.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines) — Chapters Two through Five as interpretive and evidentiary layer.
 
@@ -1220,7 +1220,7 @@ This subsection sets out how verified duties survive successor and formal-struct
 
 *In plain terms: every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.*
 
-Later chapters and provisions are governed through this chapter's integrated-value framework (reading rules: [§15 Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation); value collisions: [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)). Institutional interpretation safeguards in **Chapter Six** **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
+Later chapters and provisions are governed through this chapter's integrated-value framework (reading rules: [§15 Constitutional Interpretation](core_01.030_constitutional_interpretation.md#15-constitutional-interpretation); value collisions: [§13 Constitutional Collision Resolution Process](core_01.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)). Institutional interpretation safeguards in **Chapter Six** **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
 
 All foundational principles in this chapter must:
 

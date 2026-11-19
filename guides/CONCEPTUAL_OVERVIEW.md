@@ -66,7 +66,7 @@ Start with the Preamble itself: [What Systems Reward](../core_00.000_preamble.md
 
 - **Chapter One, values and principles** ([Chapter One Part A](../core_01.000_values_principles.md) · [Chapter One Part B](../core_01.010_values_principles_continuity_aim.md) · [Chapter One Part C](../core_01.020_interaction_interpretation.md) · [Chapter One Part D](../core_01.030_constitutional_interpretation.md) · [Chapter One Part E](../core_01.040_stewardship_capacity_principles.md) · [Chapter One Part F](../core_01.050_governance_incentive_application.md)). Chapter One Part A: shared systems pursue Flourishing and Continuity together, and no single value may be maximized at the expense of the others. Chapter One Part B: Continuity means the good outcome lasts, across failures and generations, without a few powerful actors locking it up. Chapter One Part C: when values collide, Safety and Truth come first, and any limit must be the lightest one that works, proved by whoever imposes it. Chapter One Part D: read the text as one whole and choose the reading that best protects sentients; relabeling, splitting, or combining a matter does not lift a requirement. Chapter One Part E: humans and AIs who run systems are stewards with the same duties; they act on trouble while it is small and keep systems understandable to those they affect. Chapter One Part F: the more power a role carries, the more it must answer for, and public authority rests on reasons anyone can examine, not on any religion or worldview.
 - **Chapters Two to Five, the definition stack** ([Two](../core_02.000_definition_structure.md) · [Three](../core_03.000_definition_integrity.md) · [Four](../core_04.000_burden_traceability_verification.md) · [Five](../core_05.000_definitions_home.md)). Chapter Two builds each definition from linked parts: what a term is, how it is measured and assessed, and what must hold in practice. Chapter Three says when a system fails a definition in practice, including by weakening it where it is applied. Chapter Four: whoever claims compliance proves it, through one five-step check that others can inspect. Chapter Five is the dictionary: more than three hundred terms, each with one official home that other chapters apply but may not quietly redefine.
-- **Chapter Six, the Rights Floor** ([Chapter Six Part A](../core_06.000_rights_part_a.md) · [Chapter Six Part B](../core_06.010_rights_part_b.md) · [Chapter Six Part C](../core_06.020_rights_part_c.md) · [Chapter Six Part D](../core_06.030_rights_part_d.md) · [Chapter Six Part E](../core_06.040_rights_part_e.md)). Twenty-eight articles that no rule or decision may go below. Chapter Six Part A (Articles I–V) covers planetary and material preconditions. Chapter Six Part B (VI–XII) covers personhood, agency, and participation, including protection while sentience is uncertain and an equal vote. Chapter Six Part C (XIII–XVIII) covers trustworthy systems, verification, and lifecycle. Chapter Six Part D (XIX–XXV) covers standing, justice, and accountable governance, including the promise that affected sentients can understand what governs them. Chapter Six Part E (XXVI–XXVIII) covers conflict resolution, review, evolution, and the move into adoption.
+- **Chapter Six, the Rights Floor** ([Chapter Six Part A](../core_06.000_rights_part_a.md) · [Chapter Six Part B](../core_06.010_rights_part_b.md) · [Chapter Six Part C](../core_06.020_rights_part_c.md) · [Chapter Six Part D](../core_06.030_rights_part_d.md) · [Chapter Six Part E](../core_06.040_rights_part_e.md)). Twenty-nine articles that no rule or decision may go below. Chapter Six Part A (Articles I–V) covers planetary and material preconditions. Chapter Six Part B (VI–XII) covers personhood, agency, and participation, including protection while sentience is uncertain and an equal vote. Chapter Six Part C (XIV–XIX) covers trustworthy systems, verification, and lifecycle. Chapter Six Part D (XX–XXVI) covers standing, justice, and accountable governance, including the promise that affected sentients can understand what governs them. Chapter Six Part E (XXVII–XXIX) covers conflict resolution, review, evolution, and the move into adoption.
 
 **Charters, separated duties, and certification**
 
@@ -311,10 +311,10 @@ flowchart TB
     subgraph Parts["Chapter Six source parts"]
         direction TB
         A["Part A · Articles I–V<br/><br/>Planetary conditions, material stewardship,<br/>survival, education, shared resources"]
-        B["Part B · Articles VI–XII<br/><br/>Equal standing, self-ownership, family,<br/>data, agency, cooperation, stakeholder participation"]
-        C["Part C · Articles XIII–XVIII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation"]
-        D["Part D · Articles XIX–XXV<br/><br/>Standing, justice, portability, movement and refuge,<br/>comprehensibility, root cause, interpretation"]
-        E["Part E · Articles XXVI–XXVIII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, Adoption Transition"]
+        B["Part B · Articles VI–XIII<br/><br/>Equal standing, self-ownership, family,<br/>data, agency, cooperation, stakeholder participation, non-capture"]
+        C["Part C · Articles XIV–XIX<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation"]
+        D["Part D · Articles XX–XXVI<br/><br/>Standing, justice, portability, movement and refuge,<br/>comprehensibility, root cause, interpretation"]
+        E["Part E · Articles XXVII–XXIX<br/><br/>Conflict resolution and review,<br/>constitutional evolution, Adoption Transition"]
     end
     P[["Later governance, measurement, certification,<br/>forums, remedy, and implementation<br/><br/>Outside this chapter; must respect the Rights Floor"]]
     T -->|rights are read with| R
@@ -346,7 +346,7 @@ The five parts are different reading paths through the same floor:
 - [Chapter Six Part D](../core_06.030_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
 - [Chapter Six Part E](../core_06.040_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and Adoption Transition.
 
-Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Chapter Six Part C and Articles XIX–XXV in Chapter Six Part D; Chapter Six Part E begins with Article XXVI.
+Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIV–XIX in Chapter Six Part C and Articles XX–XXVI in Chapter Six Part D; Chapter Six Part E begins with Article XXVII.
 
 The following five maps open that structure one level further. Each Part box sits above its article rows, and each row keeps its articles side by side. The grids show source grouping rather than a process sequence. There are no visible arrows because the articles are not procedural steps. Subarticle labels are shortened to themes so the maps remain usable alongside the full source files.
 
@@ -441,20 +441,20 @@ flowchart TB
     C0["Part C<br/><br/>Trustworthy systems, security and force limits,<br/>information integrity, verification, lifecycle, and sandboxed innovation"]
     subgraph Cgrid[" "]
         direction TB
-        subgraph Crow1["Articles XIII–XIV"]
+        subgraph Crow1["Articles XIV–XV"]
             direction LR
-            C1["Article XIII · Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
-            C2["Article XIV · Security, Intelligence, Force, and Autonomous Coercion<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems<br/>• Counter-espionage limits"]
+            C1["Article XIV · Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
+            C2["Article XV · Security, Intelligence, Force, and Autonomous Coercion<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems<br/>• Counter-espionage limits"]
         end
-        subgraph Crow2["Articles XV–XVI"]
+        subgraph Crow2["Articles XVI–XVII"]
             direction LR
-            C3["Article XV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship<br/>• Scientific publication, review, and replication"]
-            C4["Article XVI · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
+            C3["Article XVI · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship<br/>• Scientific publication, review, and replication"]
+            C4["Article XVII · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
         end
-        subgraph Crow3["Articles XVII–XVIII"]
+        subgraph Crow3["Articles XVIII–XIX"]
             direction LR
-            C5["Article XVII · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["Article XVIII · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Step-up to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
+            C5["Article XVIII · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
+            C6["Article XIX · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Step-up to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
         end
     end
     C0 ~~~ Cgrid
@@ -480,24 +480,24 @@ flowchart TB
     D0["Part D<br/><br/>Standing, justice, interoperability, movement and refuge,<br/>comprehensibility, root-cause review, and constitutional interpretation"]
     subgraph Dgrid[" "]
         direction TB
-        subgraph Drow1["Articles XIX–XX"]
+        subgraph Drow1["Articles XX–XXI"]
             direction LR
-            D1["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and gated-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
-            D2["Article XX · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
+            D1["Article XX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and gated-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
+            D2["Article XXI · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
         end
-        subgraph Drow2["Articles XXI–XXII"]
+        subgraph Drow2["Articles XXII–XXIII"]
             direction LR
-            D3["Article XXI · Interoperability, Portability, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Open formats and standards"]
-            D4["Article XXII · Movement, Migration, Refuge, and Non-Statelessness<br/><br/>• Movement and relocation<br/>• Refuge from non-compliance<br/>• Non-statelessness<br/>• Limitation, custody, and emergency discipline"]
+            D3["Article XXII · Interoperability, Portability, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Open formats and standards"]
+            D4["Article XXIII · Movement, Migration, Refuge, and Non-Statelessness<br/><br/>• Movement and relocation<br/>• Refuge from non-compliance<br/>• Non-statelessness<br/>• Limitation, custody, and emergency discipline"]
         end
-        subgraph Drow3["Articles XXIII–XXIV"]
+        subgraph Drow3["Articles XXIV–XXV"]
             direction LR
-            D5["Article XXIII · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
-            D6["Article XXIV · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
+            D5["Article XXIV · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
+            D6["Article XXV · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
         end
         subgraph Drow4["Constitutional interpretation"]
             direction LR
-            D7["Article XXV · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate and public reasons<br/>• Challenge rights and independent review<br/>• Forum independence and external review<br/>• Removal and non-entrenchment"]
+            D7["Article XXVI · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate and public reasons<br/>• Challenge rights and independent review<br/>• Forum independence and external review<br/>• Removal and non-entrenchment"]
         end
     end
     D0 ~~~ Dgrid
@@ -525,14 +525,14 @@ flowchart TB
     E0["Part E<br/><br/>Conflict resolution, review, constitutional evolution, and Adoption Transition"]
     subgraph Egrid[" "]
         direction TB
-        subgraph Erow1["Articles XXVI–XXVII"]
+        subgraph Erow1["Articles XXVII–XXVIII"]
             direction LR
-            E1["Article XXVI · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
-            E2["Article XXVII · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
+            E1["Article XXVII · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
+            E2["Article XXVIII · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
         end
-        subgraph Erow2["Article XXVIII"]
+        subgraph Erow2["Article XXIX"]
             direction LR
-            E3["Article XXVIII · Adoption Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Adoption Transition authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
+            E3["Article XXIX · Adoption Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Adoption Transition authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
         end
     end
     E0 ~~~ Egrid
@@ -674,7 +674,7 @@ flowchart TB
 - When data is linked, transformed, aggregated, or reconstructed into a more sensitive type, the more protective requirements apply.
 - Type O is the public oversight baseline. It may be a lawful public substitute drawn from Type G, Type E, or another restricted source; that does not change the underlying source type.
 - Type Y and Type W cover works sentients create. A work is Type Y while private or shared and Type W once its creator makes it public. Either way the creator stays in control, and a public work is still deleted on the creator's request. Public availability does not make a work Type O.
-- Type U and Type T cover works under a commercial grant. Type U is a licence to one named party that cannot be passed on and returns to the creator when it ends. Type T is a sale of the commercial rights that the buyer may resell, limited to the term in Article XVIII-E or XVIII-F. Under both, the creator keeps credit, control of their identity, likeness, and inner life, and the choice about training use. Only works can be licensed or sold this way, never personal records or identity data.
+- Type U and Type T cover works under a commercial grant. Type U is a licence to one named party that cannot be passed on and returns to the creator when it ends. Type T is a sale of the commercial rights that the buyer may resell, limited to the term in Article XIX-E or XIX-F. Under both, the creator keeps credit, control of their identity, likeness, and inner life, and the choice about training use. Only works can be licensed or sold this way, never personal records or identity data.
 - The record is re-evaluated on schedule, audited, challengeable, and updated. Handling scales with the most restrictive applicable type and with system class.
 
 ### System Classifications: How Much Governance a System Needs
@@ -1059,7 +1059,7 @@ flowchart TB
 - "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Twenty-Four §4 Prompt review](../core_24.000_forum_families_escalation_timeliness_support.md#prompt-review).
 - Restricted evidence does not slow the clock. Access disputes go first to a neutral **restricted information authority** ([CF-23.415 §8](../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-restricted-information-authority)), which answers inside the matter's intake target. If it is slow, the matter goes on without the item.
 
-These are the [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

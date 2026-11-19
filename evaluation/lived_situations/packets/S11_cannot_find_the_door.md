@@ -81,9 +81,9 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XXIII](../../../core_06.030_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06.030_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
-- [Article XIII-A](../../../core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.020_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
-- [Article XXVI-C](../../../core_06.040_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
+- [Article XXIV](../../../core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship); [Article XXIV-A](../../../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
+- [Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy)
+- [Article XXVII-C](../../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
 - [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
 - [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the wage-deduction is used to defeat survival
 - If you conclude a **forum family** is in play, [Chapter Twenty-Three §5](../../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) and capacity-failure heard outside the starved body. Do not assume a municipal contest desk is already a forum family.

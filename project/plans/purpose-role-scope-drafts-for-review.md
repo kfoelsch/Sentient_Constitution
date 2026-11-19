@@ -104,13 +104,13 @@ The chapter leaves:
 - It takes the evaluation outputs of Chapter Nine §2 through §5 as the inputs the forums review and the outcome rests on.
 - It rests on Chapter Eight (functional independence), Chapter Twenty-Three (forum supervision), and Chapters Two through Four (verification discipline).
 - It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Eleven.
-- Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at Article XVI and Chapter Five *Auditability*.
+- Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at Article XVII and Chapter Five *Auditability*.
 
 **Chapter scope.** The chapter covers the forum process (§2) and the certification outcomes (§3). It leaves:
 
 - evaluation mechanics to Chapter Nine and canonical definitions to Chapter Five;
 - standing measurement to Chapter Sixteen and standing effects to Chapter Seventeen; and
-- ownership of auditing to Article XVI, Def.O1, and CJS-5.110 (*Oversight Leg Operations (oDef.2–oDef.6)*) and CJS-5.115 (*Audit Process Home (oDef.3)*).
+- ownership of auditing to Article XVII, Def.O1, and CJS-5.110 (*Oversight Leg Operations (oDef.2–oDef.6)*) and CJS-5.115 (*Audit Process Home (oDef.3)*).
 
 The standing bridge is Chapter Eleven §5.
 

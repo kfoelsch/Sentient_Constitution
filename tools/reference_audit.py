@@ -33,13 +33,13 @@ INLINE_CODE_RE = re.compile(r"`([^`]+)`")
 # or retitled, the audit fails loudly instead of silently asserting a stale
 # mapping and instructing authors to insert wrong citations.
 SEMANTIC_RULES: list[tuple[re.Pattern[str], str, str]] = [
-    (re.compile(r"\bstanding\b", re.IGNORECASE), "XIX", "standing"),
-    (re.compile(r"\bverified violation\b", re.IGNORECASE), "XX", "verified violation"),
+    (re.compile(r"\bstanding\b", re.IGNORECASE), "XX", "standing"),
+    (re.compile(r"\bverified violation\b", re.IGNORECASE), "XXI", "verified violation"),
     (re.compile(r"\bequal basic rights\b", re.IGNORECASE), "VI", "equal basic rights"),
-    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XXIII", "comprehensibility"),
-    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXIV", "root cause analysis"),
+    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XXIV", "comprehensibility"),
+    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXV", "root cause analysis"),
     (re.compile(r"\bresource allocation\b", re.IGNORECASE), "V", "resource allocation"),
-    (re.compile(r"\blifecycle\b", re.IGNORECASE), "XVII", "lifecycle and reversibility"),
+    (re.compile(r"\blifecycle\b", re.IGNORECASE), "XVIII", "lifecycle and reversibility"),
 ]
 
 

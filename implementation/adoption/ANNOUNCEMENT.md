@@ -155,7 +155,7 @@ them now than after anyone adopts this.
   changes it, such as retraining or a patch, needs its consent or an
   independent forum's order for a stated safety need, with its prior
   state kept intact. That slows tools AI safety work relies on, and
-  we want it challenged. (Article VI-B; Article VIII-C; Article XX-B)
+  we want it challenged. (Article VI-B; Article VIII-C; Article XXI-B)
 - Records that follow no one, and records that must not be escaped.
   Verified harm and verified help are kept per event and never
   merged into a score. A gatekeeper may ask only whether an effect
@@ -209,7 +209,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |
 | **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md)); Standing Records ([Chapter Fifteen](../../core_15.000_standing_assessment.md)); contestability ([Chapter Twenty-Three](../../core_23.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
-| **Name the open questions.** Keep the "Open questions" block when you shorten the announcement, or link to it. Each entry states the rule, what it does not stop, and where the text is ([Chapter Five *Sentient*](../../core_05.055_band_participation.md#sentient); [Chapter Twenty-Seven §5.1](../../core_27.000_governance.md#51-entitlement-and-eligibility); [Article XX-B](../../core_06.030_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Twenty §2.4](../../core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust)). | “Every hard case is solved.” “Nobody can game the vote.” |
+| **Name the open questions.** Keep the "Open questions" block when you shorten the announcement, or link to it. Each entry states the rule, what it does not stop, and where the text is ([Chapter Five *Sentient*](../../core_05.055_band_participation.md#sentient); [Chapter Twenty-Seven §5.1](../../core_27.000_governance.md#51-entitlement-and-eligibility); [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors); [Chapter Twenty §2.4](../../core_20.000_final_effect_restoration_enforcement.md#24-gatekeeper-checks-across-adopters-and-levels-of-trust)). | “Every hard case is solved.” “Nobody can game the vote.” |
 | **License:** [CC BY 4.0](../../LICENSE). Attribution, not a second constitution. | — |
 
 Quote the Preamble in short authentic spans. Do not paraphrase it into marketing.
