@@ -15,6 +15,8 @@ against the live text; they will be rewritten when the chapter is placed.
 > 2. **Floor formula inputs.** The draft ties forum floors to the published CF-23.445 caseload, backlog, and tier figures, plus the Chapter Twenty §4.2 remedy-parity minimum. It sets no number.
 > 3. **Wellbeing and business revenue.** The draft makes the office the disbursing and accounting office for programs the governing authority funds, not their policy owner (§7). Alternative: leave those programs out of this chapter entirely.
 > 4. **Challenge venue.** Funding disputes go to Integrity forums, with backup routing when an Integrity forum is itself a claimant (§10).
+> 5. **Reserve fund size (§11).** The default target is one quarter of the sum of the floors for a cycle. Alternative: a larger target for adopters whose revenue swings widely, or a target set by a published risk test.
+> 6. **Currency and bonds.** The draft gives the office no power to issue currency or to borrow. It is a payer, not a monetary or borrowing authority. This is an open question for the custodian.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-6.335. That pointer would name this chapter instead.
@@ -40,7 +42,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > - **Not owned here:** how much any one system must pay into shared infrastructure ([CS-6.335](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)); how an institution raises fees or stays solvent (**CI-6.210**, **CI-6.215**); who answers for a forum's adequacy ([Chapter Twenty §4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability)); who holds governing authority ([Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship)).
 > - **Implementation owner:** a new corpus-institutions file (formula, reserves, ledger fields).
 >
-> Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 funding floors → §5 no steering by money → §6 research funding → §7 other programs → §8 ledger → §9 the office's own funding → §10 audit and challenge → §11 shortfalls and emergencies → §12 scaling.
+> Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 funding floors → §5 no steering by money → §6 research funding → §7 other programs → §8 ledger → §9 the office's own funding → §10 audit and challenge → §11 reserve fund → §12 shortfalls and emergencies → §13 scaling.
 
 </details>
 
@@ -58,7 +60,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
   - [Chapter Twenty §4 Enforcement Realism and Remedy Systems](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems) (20.000 §4);
   - [Chapter Twenty-Three §2.2.2 Incentives and Non-Substitution](../../core_23.000_forum.md#222-incentives-and-non-substitution) (23.000 §2.2.2);
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** paragraph of [§2](#2-why-the-public-finance-office-exists).
-- Downstream: [§2](#2-why-the-public-finance-office-exists) through [§12](#12-proportional-scaling); the Public Information Office chapter; a new corpus-institutions file (formula, reserves, ledger fields).
+- Downstream: [§2](#2-why-the-public-finance-office-exists) through [§13](#13-proportional-scaling); the Public Information Office chapter; a new corpus-institutions file (formula, reserves, ledger fields).
 - Read with:
   - [CS-6.335](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*);
   - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-6.215** (*Resource stewardship and incentive integrity*);
@@ -101,8 +103,9 @@ The chapter's sections cover:
 - the public ledger (**section 8**);
 - the office's own funding and the Public Information Office's funding (**section 9**);
 - audit and challenge (**section 10**);
-- shortfalls and emergencies (**section 11**); and
-- proportional scaling (**section 12**).
+- the reserve fund (**section 11**);
+- shortfalls and emergencies (**section 12**); and
+- proportional scaling (**section 13**).
 
 **Out of scope:** The office administers money. It does not decide any matter, finding, classification, or Standing Record, and it does not set the policy of any program it pays for. The chapter leaves cross-system funding (what one system owes to shared infrastructure) to [CS-6.335](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship), how an institution raises fees or stays solvent to **CI-6.210** and **CI-6.215**, and case-specific forensic support to **CF-23.430**. Where this chapter is silent, the rest of the Constitution governs.
 
@@ -110,7 +113,7 @@ The chapter's sections cover:
 
 *In plain terms: whoever controls a body's money can control the body. If forums depend on yearly favors from the people they rule on, they are not really independent, however good their procedures look on paper.*
 
-This section explains the reasons for the chapter. It is non-operative: the binding rules are in [§3](#3-independence-and-placement) through [§12](#12-proportional-scaling).
+This section explains the reasons for the chapter. It is non-operative: the binding rules are in [§3](#3-independence-and-placement) through [§13](#13-proportional-scaling).
 
 **Grounded in:**
 
@@ -151,7 +154,7 @@ The chapter turns those lessons into four design choices:
 - **Participation:** public comment on formula changes.
 - **Timeliness:** floors tied to caseload, so backlog is funded instead of left to grow.
 
-These reasons do not add duties. They explain why the duties in §3 to §12 take the shape they do.
+These reasons do not add duties. They explain why the duties in §3 to §13 take the shape they do.
 
 ### 3. Independence and Placement
 
@@ -191,7 +194,7 @@ These reasons do not add duties. They explain why the duties in §3 to §12 take
 
 **Cycle protection.** A floor, once set for a cycle:
 
-- may not be reduced during that cycle, except under §11;
+- may not be reduced during that cycle, except under §12 after the §11 reserve fund has been drawn;
 - may be raised during the cycle when published caseload figures cross a threshold the formula names; and
 - is reauthorized for the next cycle on a multi-year schedule published in advance.
 
@@ -231,7 +234,7 @@ These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.m
 **Funding by rule.** When a forum issues a published scope order, the office must fund it unless:
 
 - the scope order is missing a required element, which the office names so the forum can fix it;
-- the reserve is exhausted, in which case §11 applies and the request is queued in published order; or
+- the reserve is exhausted, in which case §12 applies and the request is queued in published order; or
 - the cost exceeds a published threshold, in which case the forum's own family confirms the order and the office then funds it.
 
 The office must not refuse or delay funding because of the question asked, the likely answer, or who the answer may help.
@@ -265,6 +268,7 @@ The office keeps a **public ledger** that shows, for each cycle and each funded 
 - the floor, the formula inputs, and the amount actually paid;
 - every reduction, delay, or freeze, with its reason;
 - every research reserve request, its scope order, and its status;
+- the reserve fund balance, its target, and every draw and repayment under §11;
 - sources of the office's money, including any single source above a published share; and
 - the audit status under §10.
 
@@ -286,20 +290,53 @@ The Public Finance Office and the Public Information Office each have a floor se
 
 - a floor set below the formula, or a formula that does not meet §4;
 - steering under §5;
-- refusal or delay of research funding contrary to §6; or
-- a breach of the §7 firewall.
+- refusal or delay of research funding contrary to §6;
+- a breach of the §7 firewall; or
+- a draw, transfer, or failure to replenish contrary to §11.
 
 **Self-judging.** Where the Integrity forum that would hear the challenge is itself funded under the act being challenged, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](../../core_24.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums).
 
 **Interim relief.** While a challenge is pending, the forum may order the disputed floor restored where a reduction foreseeably lets ongoing harm continue or makes redress useless.
 
-### 11. Shortfalls and Emergencies
+### 11. Reserve Fund
 
-*In plain terms: when money really runs short, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date.*
+*In plain terms: the office keeps money set aside for bad years, so a dip in revenue does not shut down the forums. The reserve can be spent only on keeping the machinery running, everyone can see the balance, and no one can raid it for something else.*
+
+**The fund.** The office keeps a **reserve fund**, held in its own ledger account, separate from the §4 floors, the §6 research reserve, and the §7 programs.
+
+**Target size.** The fund has a published target, worked out under the formula in §4. The default target is one quarter of the sum of the floors for a cycle. The governing authority may set a higher target, and may set a lower one only with published reasons that an independent check seat reviews.
+
+**Building and keeping it.** The office sets aside a published share of revenue each cycle until the fund reaches its target. Money left unspent at the end of a cycle goes to the fund first. Once the fund is at its target, any surplus may return to general revenue only by a published act at the end of a cycle.
+
+**What it may pay for.** The fund may be drawn only to:
+
+- cover a shortfall under §12, before any floor is reduced;
+- meet a sudden surge in intake or emergency adjudication that the formula has not yet caught up with; and
+- keep floors paid when a budget for the next cycle has not been adopted in time.
+
+**What it may not pay for.** The fund may not be used to:
+
+- raise one body's funding above its floor while others stay at theirs;
+- reward or penalize any forum, finding, or record, or any other use barred by §5;
+- lend to, or cover the spending of, the governing authority or any other body; or
+- back any debt, or be pledged as security for one.
+
+**Holding.** The fund is held in safe and readily available form under a published policy. It may not be held in any asset issued by a funded body or by an **interested party** with a pending matter before a funded body.
+
+**Drawing.** Each draw is a published decision that states the reason, the amount, and the use. A draw above a published share of the fund also needs the sign-off of the independent check seat. Each draw is entered in the §8 ledger.
+
+**Replenishment.** After a draw, the office restores the fund on a published schedule. Restoring it comes before any increase above the floors.
+
+**No raiding.** No one may take money from the fund for any other purpose. The governing authority may not move it into general revenue or into other programs except under *Building and keeping it* above. A transfer outside these rules is steering under §5 and an integrity trigger under **CI-8.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*), and any sentient may challenge it under §10.
+
+### 12. Shortfalls and Emergencies
+
+*In plain terms: when money really runs short, the reserve fund is used first; after that, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date.*
 
 When actual revenue falls below the sum of the floors, the office must:
 
 - publish the shortfall and its cause;
+- draw on the §11 reserve fund before reducing any floor;
 - apply reductions by a rule published in advance, not case by case;
 - protect last, in this order:
   - intake and emergency adjudication;
@@ -310,7 +347,7 @@ When actual revenue falls below the sum of the floors, the office must:
 
 A shortfall does not excuse a forum's tier milestones. It is a fact the forum may cite when it seeks a tier-appropriate extension under [Chapter Twenty-Four §4](../../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
-### 12. Proportional Scaling
+### 13. Proportional Scaling
 
 *In plain terms: a small community does not need a ministry. It still needs the money to be counted by someone other than the person spending it.*
 
