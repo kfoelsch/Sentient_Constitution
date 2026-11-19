@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T15:23:45+00:00",
+  "generated_at": "2026-11-19T17:08:00+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -1455,9 +1455,9 @@
       ]
     },
     "core_06.010_rights_part_b.md": {
-      "total_lines": 2412,
+      "total_lines": 2438,
       "sections": [
-        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2412,"anchor":null},
+        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2438,"anchor":null},
         {"header":"Part B: Personhood, Agency, Cooperation, and Stakeholder System Participation","level":3,"line_start":18,"line_end":105,"anchor":null},
         {"header":"Article VI: Equal Basic Rights","level":3,"line_start":106,"line_end":376,"anchor":null},
         {"header":"Article VI-A: Dignity and Equal Moral Standing","level":4,"line_start":141,"line_end":180,"anchor":null},
@@ -1498,11 +1498,12 @@
         {"header":"Article XII-A: Stakeholder System Participation and Representation","level":4,"line_start":1960,"line_end":2014,"anchor":null},
         {"header":"Article XII-B: Weighted Participation and Anti-Token Constraints","level":4,"line_start":2015,"line_end":2060,"anchor":null},
         {"header":"Article XII-C: Internal Roles, Accountability, and Due-Process Requirements","level":4,"line_start":2061,"line_end":2103,"anchor":null},
-        {"header":"Article XIII: Non-Capture, Influence, and Anti-Corruption Safeguards","level":3,"line_start":2104,"line_end":2412,"anchor":null},
-        {"header":"Article XIII-A: Non-Capture Safeguards","level":4,"line_start":2156,"line_end":2268,"anchor":null},
-        {"header":"Article XIII-B: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2269,"line_end":2359,"anchor":null},
-        {"header":"Article XIII-C: Conflicts of Interest, Gifts, and Benefits","level":4,"line_start":2360,"line_end":2383,"anchor":null},
-        {"header":"Article XIII-D: Funding Integrity","level":4,"line_start":2384,"line_end":2412,"anchor":null}
+        {"header":"Article XIII: Non-Capture, Influence, and Anti-Corruption Safeguards","level":3,"line_start":2104,"line_end":2438,"anchor":null},
+        {"header":"Article XIII-A: Non-Capture Safeguards","level":4,"line_start":2157,"line_end":2269,"anchor":null},
+        {"header":"Article XIII-B: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2270,"line_end":2347,"anchor":null},
+        {"header":"Article XIII-C: Conflicts of Interest, Gifts, and Benefits","level":4,"line_start":2348,"line_end":2377,"anchor":null},
+        {"header":"Article XIII-D: Funding Integrity","level":4,"line_start":2378,"line_end":2401,"anchor":null},
+        {"header":"Article XIII-E: Authentic Voices and System-Mediated Influence","level":4,"line_start":2402,"line_end":2438,"anchor":null}
       ]
     },
     "core_06.020_rights_part_c.md": {

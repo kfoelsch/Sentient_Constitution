@@ -357,7 +357,7 @@ The two extensions are different rules in different owners. Neither stands in fo
 | **Watch period** | period | Keeping a matter open after a verified resolution to see whether it holds | [CI-19.210 §3](../corpus_institutions/ci_19.210_institutional_failure_dissolution.md#ci-19210-3-notice-response-and-resolution) (*Notice, Response, and Resolution*) |
 | **Order term** | term | The life of a contraction order | [CI-25.205 §2](../corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-2-contraction-order) (*Contraction Order*) |
 | **Host replacement window** | window | Time for members to adopt another host after a host fails | [CI-27.205 §7](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-7-practice-licence-practice-clearance-and-joint-professional-practice) (*Practice Licence, Practice Clearance, and Joint Professional Practice*) |
-| **Cooling-off period** | period | The gap before a former member, panelist, or staff member may take an influence role | [Article XIII-B](../core_06.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) |
+| **Cooling-off period** | period | The gap before a former member, panelist, or staff member may take an influence role | [Article XIII-C](../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) |
 
 **D. Records and phasing**
 

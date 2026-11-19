@@ -74,7 +74,7 @@ flowchart TB
         end
         subgraph Brow4["Articles XII–XIII"]
             B7["**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) · Stakeholder System Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process"]
-            B8["**Article XIII** (*Non-Capture, Influence, and Anti-Corruption Safeguards*) · Non-Capture, Influence, and Anti-Corruption Safeguards<br/><br/>• Non-capture safeguards<br/>• Influence contact and lobbying<br/>• Conflicts, gifts, and benefits<br/>• Funding integrity"]
+            B8["**Article XIII** (*Non-Capture, Influence, and Anti-Corruption Safeguards*) · Non-Capture, Influence, and Anti-Corruption Safeguards<br/><br/>• Non-capture safeguards<br/>• Influence contact and lobbying<br/>• Conflicts, gifts, and benefits<br/>• Funding integrity<br/>• Authentic voices and system-mediated influence"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -2147,9 +2147,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Sub-Articles:*
 
 - [Article XIII-A](#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*): structure, disclosure and recusal, external review, removal, and enforcement.
-- [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*): how interested parties may approach covered bodies, and post-service conflicts.
-- [Article XIII-C](#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*): apparent conflicts, gifts, and benefits.
+- [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*): how interested parties may approach covered bodies, and how contact is recorded and disclosed.
+- [Article XIII-C](#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*): apparent conflicts, gifts, benefits, and later roles.
 - [Article XIII-D](#article-xiii-d-funding-integrity) (*Funding Integrity*): no steering of covered bodies by money.
+- [Article XIII-E](#article-xiii-e-authentic-voices-and-system-mediated-influence) (*Authentic Voices and System-Mediated Influence*): contact made by systems or in bulk, and fabricated voices.
 
 *Article neighbors:* [**Article XII**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) sets the participation floors that these safeguards protect from capture; [**Chapter Twenty-Seven §2.2**](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, Contested Selection, and Democratic Minimums*) sets the funding boundaries for selection.
 
@@ -2301,9 +2302,9 @@ This sub-Article sets out the structural safeguards for the covered bodies named
 
 <br>
 
-*In plain terms: **Article XIII-B** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, a later job from a party you decided on waits out a cooling-off period, and a system's contact must say what it is and who it acts for.*
+*In plain terms: **Article XIII-B** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, and evidence and argument stay on the open Forum Case Record. Later jobs are covered by **Article XIII-C** (*Conflicts of Interest, Gifts, and Benefits*), and contact made by systems or in bulk by **Article XIII-E** (*Authentic Voices and System-Mediated Influence*).*
 
-This Article sets out how **interested parties** may approach the sentients and systems that decide, review, audit, procure, or support a decision. It applies to the covered bodies named in [**Article XIII**](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*), their **appointing authorities**, and **adopting institutions**, under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
+This sub-Article sets out how **interested parties** may approach the sentients and systems that decide, review, audit, procure, or support a decision. It applies to the covered bodies named in [**Article XIII**](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*), their **appointing authorities**, and **adopting institutions**, under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** affected sentients keep a real, open way to be heard, including those without money, staff, or tools, and decisions rest on the open Forum Case Record rather than on private access.
 - **Continuity:** the bodies that decide stay resistant to quiet influence over time, whether it comes through private access, offers of benefit, later jobs, faked support, or automation at scale.
@@ -2311,18 +2312,18 @@ This Article sets out how **interested parties** may approach the sentients and 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
 - **Participation:** open advocacy, petition, and public comment stay protected, and affected sentients keep access to any body that must hear them.
-- **Oversight:** through contact records, disclosure in the matter record, and records of what inbound material reached any system that fed a decision.
+- **Oversight:** through contact records kept in an independent seat and disclosure in the matter record.
 - **Accountability:** interested parties, operators, and bodies must answer for private approach, concealed contact, fabricated voices, and offers of benefit.
 - **Timeliness:** in disclosing contact in time for other participants to respond.
 
 *Article neighbors:*
 
-- **Non-capture floor:** [**Article XIII-A**](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*) covers composition, conflicts, recusal, external review, and removal. This Article adds the rules for approach by interested parties to the same bodies.
-- **Participation weight:** [**Article XII-B**](core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Weighted Participation and Anti-Token Constraints*) bars token participation. Volume of contact is not support under this Article either.
+- **Non-capture floor:** [**Article XIII-A**](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*) covers composition, conflicts, recusal, external review, and removal. This sub-Article adds the rules for approach by interested parties to the same bodies. [**Article XIII-C**](#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) covers offers of gifts and later roles, and [**Article XIII-E**](#article-xiii-e-authentic-voices-and-system-mediated-influence) (*Authentic Voices and System-Mediated Influence*) covers contact made by systems or in bulk.
+- **Participation weight:** [**Article XII-B**](core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Weighted Participation and Anti-Token Constraints*) bars token participation. Volume of contact is not support under [**Article XIII-E**](#article-xiii-e-authentic-voices-and-system-mediated-influence) (*Authentic Voices and System-Mediated Influence*) either.
 - **Systems and information:** [**Article XIV-E**](core_06.020_rights_part_c.md#article-xiv-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*) binds systems to the same rules as everyone else; [**Article XVI**](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*) covers the shared information environment.
 - **Selection funding:** [**Chapter Twenty-Seven §2.2**](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, Contested Selection, and Democratic Minimums*) sets the funding boundaries for selection by campaigning, nomination, or competitive appointment.
 
-This Article sets out the following floors:
+This sub-Article sets out the following floors:
 
 - **Scope:** These floors apply to covered bodies, their **appointing authorities**, and **adopting institutions**. Requirements scale with material stake. A document filed on a matter's open Forum Case Record is not influence contact. It is the Forum Case Record.
 - **Influence-contact boundaries:** Covered bodies, their **appointing authorities**, and **adopting institutions** must publish rules for **influence contact**. Influence contact is an approach by an [**interested party**](core_05.035_band_accountability.md#interested-party) to a member, panelist, staff member, facilitator, or briefing source, made to shape a pending or foreseeable matter outside that matter's open Forum Case Record. The rules scale with material stake and must at least:
@@ -2332,27 +2333,14 @@ This Article sets out the following floors:
   - keep evidence and argument on the open Forum Case Record: private contact may not supply evidence or argument that a decision relies on;
   - treat any offer of a gift, benefit, or future role, and any threat, as a conflict to be disclosed, refused, and routed under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), not as ordinary contact; and
   - protect open advocacy, petition, and public comment made on the Forum Case Record, and the access of affected sentients to any body that must hear them. These rules must not be used to limit what affected sentients may say about their own stake.
-- **Post-service and prospective-role conflicts:**
-  - **Prospective-role conflict:** Discussing a later role, employment, contract, or benefit with an [**interested party**](core_05.035_band_accountability.md#interested-party) while that party's matter is open before a member, panelist, or staff member is a conflict. It must be disclosed, and that member, panelist, or staff member must recuse until an independent seat clears it.
-  - **Post-service rules:** Covered bodies and **adopting institutions** must also publish post-service rules scaled to material stake. These rules bar accepting a role or benefit from an interested party in connection with a matter they handled until the cooling-off period has passed or an independent seat has cleared the offer in a published decision.
-  - **Default cooling-off period:** The default is **five years** from the end of the member's, panelist's, or staff member's last involvement in the matter.
-  - **Variation:** An adopting institution may set a longer period. It may set a shorter one only where material stake is low, and it must publish its reasons.
-- **Automated, generated, and bulk approach:** Influence contact made by, through, or at the scale of a system is influence contact like any other, with these added rules:
-  - **Attribution:** Contact produced or sent by a system must say so, name the **interested party** the system acts for, and name the sentient who authorized it. A synthetic sentient speaking for itself is a sentient like any other. Where it acts for an operator or other principal, the principal answers for the contact.
-  - **Real voices only:** No one may approach a covered body through a false identity, a fabricated supporter, impersonated or synthetic testimony, or an invented grassroots group. This holds whether one party acts alone or several act together.
-  - **Assistive use:** A sentient who uses a system to draft, translate, or send their own message, and approves it, makes their own contact.
-  - **Bulk contact:** Where the same or a substantially similar approach reaches a body in volume, the body records it once, as a single campaign. The influence-contact record states the sponsor, the funding, the method, the volume, and the number of distinct sentients verified. Volume is not evidence of support. A body may rely on support only to the extent of distinct verified sentients.
-    - **Default for "in volume":** the body publishes its own threshold. Until it does, the same or a substantially similar approach reaching more than one quarter of the body's members, or reaching the body 50 or more times in one matter, by or for the same interested party, is in volume.
-  - **Channels:** A covered body must publish an authenticated channel for on-record input. It may rate-limit, deduplicate, and set aside input that breaks these rules. Automated approach to a member, panelist, staff member, facilitator, or briefing source through any private channel is barred.
-  - **Systems on the deciding side:** Where a body uses a system to receive, sort, summarize, or draft for a decision, an approach aimed at steering that system rather than informing the decision-makers is influence contact. This includes instructions hidden in submitted material, poisoned data, and content built to game a ranking. The body must treat submitted material as evidence and never as instructions, keep each output traceable to the source record, and disclose which inbound material reached a system that fed the decision. Contact between an interested party's system and the body's system is recorded the same way as contact between sentients.
-  - **Responsibility:** The interested party and the operator who deploys the system both answer for the contact. Not knowing is no defense where they disregarded an obvious risk.
+- **Later roles and post-service conflicts:** Discussing or taking a later role, employment, contract, or benefit with an **interested party** is governed by [**Article XIII-C**](#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*), including its cooling-off period.
+- **Automated, generated, and bulk approach:** Contact made by, through, or at the scale of a system is influence contact under this sub-Article, with the added rules of [**Article XIII-E**](#article-xiii-e-authentic-voices-and-system-mediated-influence) (*Authentic Voices and System-Mediated Influence*).
 - **Sortition bodies:** Selected members of a sortition body get the strictest level of these floors. Private contact with them about the matter is barred except through the open briefing record, as [Chapter Twenty-Seven](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) requires.
 - **Enforcement and routing:**
   - **Integrity triggers:** Concealed influence contact, offers of benefit, and fabricated voices route as integrity triggers under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-5.110 §6** (*integrity assurance and resilience operations*).
   - **Misconduct path:** Purposeful or reckless flooding with inauthentic voices, and bribery or improper benefit exchange, may be alleged as **anti-constitutional misconduct** under **Chapter Twenty-One** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One** criteria set.
   - **Integrity-first routing and no self-judging:** The routing and anti-self-judging rules in [**Article XIII-A**](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*) apply. No body may be the only final forum deciding whether its own members or staff were improperly approached.
 - **Institutional routing:** Detailed rules are governed by:
-  - [**CI-27.205**](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) for post-service rules;
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-5.110 §6** (*integrity assurance and resilience operations*), *Influence-contact and lobbying boundaries*;
   - for forum panels, **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-23.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
@@ -2369,7 +2357,7 @@ This Article sets out the following floors:
 
 <br>
 
-*In plain terms: members step aside when a fair-minded observer would doubt them, even without proof of bias, and they turn down gifts that could buy influence.*
+*In plain terms: members step aside when a fair-minded observer would doubt them, even without proof of bias, they turn down gifts that could buy influence, and they wait out a cooling-off period before taking a job from a party whose matter they handled.*
 
 This sub-Article applies to the covered bodies, **appointing authorities**, and **adopting institutions** named in [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*):
 
@@ -2380,6 +2368,12 @@ This sub-Article applies to the covered bodies, **appointing authorities**, and 
   - **Handling:** a benefit that may not be accepted is declined, returned, or surrendered to the public, and the fact is recorded;
   - **Register:** every accepted benefit above a nominal value is entered in a public gift register; and
   - **Mechanics:** **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) sets the register, the threshold, and the exceptions. Until an adopter publishes its threshold, the default is the median local daily wage.
+- **Later roles and the revolving door:**
+  - **Prospective-role conflict:** Discussing a later role, employment, contract, or benefit with an [**interested party**](core_05.035_band_accountability.md#interested-party) while that party's matter is open before a member, panelist, or staff member is a conflict. It must be disclosed, and that member, panelist, or staff member must recuse until an independent seat clears it.
+  - **Post-service rules:** Covered bodies and **adopting institutions** must also publish post-service rules scaled to material stake. These rules bar accepting a role or benefit from an interested party in connection with a matter they handled until the cooling-off period has passed or an independent seat has cleared the offer in a published decision.
+  - **Default cooling-off period:** The default is **five years** from the end of the member's, panelist's, or staff member's last involvement in the matter.
+  - **Variation:** An adopting institution may set a longer period. It may set a shorter one only where material stake is low, and it must publish its reasons.
+  - **Mechanics:** [**CI-27.205 §2**](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Role Criteria, Appointment Standards, and Removal Pathways*) sets the post-service rules and clearance steps.
 
 #### Article XIII-D: Funding Integrity
 
@@ -2404,6 +2398,38 @@ This sub-Article applies to whoever funds, budgets for, or pays a covered body n
   - let fee or sanction revenue from a matter flow to the body that decides it.
   A funding change that follows a decision adverse to the funder is evidence of steering, and the funder must show a lawful, published reason unrelated to that decision.
 - **Records and routing:** Funding changes are logged under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*), and steering is an integrity trigger under **CI-8.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*).
+
+#### Article XIII-E: Authentic Voices and System-Mediated Influence
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) and [§19 Incentive Alignment and System Capture](core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); parent [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*).
+- Read with:
+  - [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*);
+  - [Article XII-B](#article-xii-b-weighted-participation-and-anti-token-constraints) (*Weighted Participation and Anti-Token Constraints*);
+  - [Article X-A](#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
+  - [Article XIV-E](core_06.020_rights_part_c.md#article-xiv-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
+  - [Article XVI](core_06.020_rights_part_c.md#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*); and
+  - [Chapter Twenty-Two §3.2](core_22.000_misconduct_pattern_applications.md#32-flooding-the-zone-and-contest-pathway-denial) (22.000 §3.2) (*Flooding the Zone and Contest-Pathway Denial*) and [§3.3](core_22.000_misconduct_pattern_applications.md#33-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*).
+
+</details>
+
+<br>
+
+*In plain terms: a message from a system must say it comes from a system and who it speaks for; nobody may fake supporters or voices; a thousand copies of one message count as one campaign; and no one may try to steer the system a body uses to sort or summarize what it receives.*
+
+This sub-Article applies to influence contact under [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) that is made by, through, or at the scale of a system, and to the covered bodies named in [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*). Such contact is influence contact like any other, with these added floors:
+
+- **Attribution:** Contact produced or sent by a system must say so, name the **interested party** the system acts for, and name the sentient who authorized it. A synthetic sentient speaking for itself is a sentient like any other. Where it acts for an operator or other principal, the principal answers for the contact.
+- **Real voices only:** No one may approach a covered body through a false identity, a fabricated supporter, impersonated or synthetic testimony, or an invented grassroots group. This holds whether one party acts alone or several act together.
+- **Assistive use:** A sentient who uses a system to draft, translate, or send their own message, and approves it, makes their own contact.
+- **Bulk contact:** Where the same or a substantially similar approach reaches a body in volume, the body records it once, as a single campaign. The influence-contact record states the sponsor, the funding, the method, the volume, and the number of distinct sentients verified. Volume is not evidence of support. A body may rely on support only to the extent of distinct verified sentients.
+  - **Default for "in volume":** the body publishes its own threshold. Until it does, the same or a substantially similar approach reaching more than one quarter of the body's members, or reaching the body 50 or more times in one matter, by or for the same interested party, is in volume.
+- **Channels:** A covered body must publish an authenticated channel for on-record input. It may rate-limit, deduplicate, and set aside input that breaks these rules. Automated approach to a member, panelist, staff member, facilitator, or briefing source through any private channel is barred.
+- **Systems on the deciding side:** Where a body uses a system to receive, sort, summarize, or draft for a decision, an approach aimed at steering that system rather than informing the decision-makers is influence contact. This includes instructions hidden in submitted material, poisoned data, and content built to game a ranking. The body must treat submitted material as evidence and never as instructions, keep each output traceable to the source record, and disclose which inbound material reached a system that fed the decision. Contact between an interested party's system and the body's system is recorded the same way as contact between sentients.
+- **Responsibility:** The interested party and the operator who deploys the system both answer for the contact. Not knowing is no defense where they disregarded an obvious risk.
+- **Enforcement:** Fabricated voices and flooding route under the enforcement rules of [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 
 ---
 
