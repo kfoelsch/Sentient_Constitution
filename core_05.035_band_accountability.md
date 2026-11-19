@@ -509,6 +509,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Stay](core_05.035_band_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
 - [Under Challenge](core_05.035_band_accountability.md#under-challenge) — the status an official record carries while a challenge to it is open; it keeps the official record in view and pauses nothing without an order.
 - [Interim Hold](core_05.035_band_accountability.md#interim-hold) — a narrow, time-bound limit on one named sentient's use of one named authority, on specific verified facts.
+- [Enforcement Record](core_05.035_band_accountability.md#enforcement-record) — a forum's written authorization for a special-enforcement step, naming the material facts it rests on.
 - [Formation Check](core_05.035_band_accountability.md#formation-check) — verified standing and authenticity checks for covered office-holders.
 - [Attributable Action](core_05.035_band_accountability.md#attributable-action) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
@@ -1198,6 +1199,62 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - deny the sentient the reasons for the hold, the facts, or a working route to contest and review;
     - leave a wrongful hold without redress; or
     - issue a hold in a situation that no provision of this Constitution or an incorporated text names.
+
+---
+
+<a id="enforcement-record"></a>
+
+#### Enforcement Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Twenty-Six §3.1 Whether to Act](core_26.000_special_enforcement.md#enforcement-record) (26.000 §3.1) (*Enforcement Record*).
+- Upstream: **Article XX** (*Justice After Verified Violation*); [Chapter Twenty-Five §8 Routing to Special Enforcement](core_25.000_enforcement.md#8-routing-to-special-enforcement) (25.000 §8).
+- Cluster component: none.
+- Read with:
+  - [Forum Case Record](core_05.035_band_accountability.md#forum-case-record),
+  - [Interim Hold](core_05.035_band_accountability.md#interim-hold),
+  - [Necessity](core_05.035_band_accountability.md#necessity),
+  - [Proportionality](core_05.035_band_accountability.md#proportionality), and
+  - [Contestability](core_05.035_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*In plain terms: before money or property is frozen or seized, or force is used, a forum issues an Enforcement Record. It says what may be done, by whom, and the facts it rests on. The enforcement body acts on it without going back to the forum, and it is paused or dropped only if one of those facts really changes.*
+
+- **What it is**
+  - **In scope:** The written authorization that a forum issues for a step routed to special enforcement, entered on the Forum Case Record of the matter. It names:
+    - the outcome being carried out;
+    - the Standing Record on which that outcome rests;
+    - the enforcement body that carries it out;
+    - the steps it authorizes and their limits; and
+    - the material facts on which it rests.
+
+    While those facts hold, the enforcement body acts on it, and negotiates within normal limits, without going back to the forum. A step is paused or abandoned only when a named material fact changes materially, in a way that would have led the forum to issue a different Enforcement Record or none.
+  - **Out of scope:**
+    - the outcome and findings it carries out, which the merits decision sets;
+    - an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which limits an authority while facts are still being verified; and
+    - the floors for each step, which [Chapter Twenty-Six](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement) states —
+    those sit under their own homes, not under this entry.
+  - A challenge goes to the Standing Record it rests on, under [Chapter Twenty-Three §4.5 Contests of Standing Records](core_23.000_forum.md#45-contests-of-standing-records), not to the Enforcement Record or to a single step.
+  - The rule is stated in [Chapter Twenty-Six §3.1 Whether to Act](core_26.000_special_enforcement.md#enforcement-record); this entry is the Chapter Five meaning only.
+<a id="enforcement-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?*
+
+    **Primary assessment:** Evaluate whether:
+    1. every special-enforcement step can be traced to an Enforcement Record that names its material facts; and
+    2. each pause, abandonment, or return to the forum follows a material change in one of those facts.
+<a id="enforcement-record-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a special-enforcement step taken with no Enforcement Record, or one issued late without an immediate danger to life;
+    - an Enforcement Record that does not name the Standing Record and the material facts it rests on;
+    - a challenge to enforcement taken against a step instead of the Standing Record; or
+    - a step paused, abandoned, or returned to the forum on a change that is not material, or carried on after a material change.
 
 ---
 

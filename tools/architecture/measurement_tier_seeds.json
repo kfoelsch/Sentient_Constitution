@@ -1548,6 +1548,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Enforcement Record": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Tier Window": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",

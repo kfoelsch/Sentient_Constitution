@@ -113,7 +113,7 @@ The Constitution is one document split into a Preamble and thirty-one chapters. 
 | **Chapter 24**: [Forum families and timely resolution](core_24.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
 | [Worked examples for Chapters 15–22](corpus_joint_structure/cjs_15.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 25**: [Enforcement](core_25.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
-| **Chapter 26**: [Special enforcement](core_26.000_special_enforcement.md) | Extra safeguards for taking money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
+| **Chapter 26**: [Special enforcement](core_26.000_special_enforcement.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
 | **Chapter 27**: [Governance](core_27.000_governance.md) | Who may govern, and how that authority is granted and checked |
 | **Chapter 28**: [Non-regression](core_28.000_non_regression.md) | Protections can be strengthened but not rolled back |
 | **Chapter 29**: [Amendment and adoption](core_29.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |

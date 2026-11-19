@@ -89,9 +89,9 @@ This section says which outcomes must be carried out and from what moment they b
 
 This section says who carries an outcome out and how that seat stays separate from the one that decided it.
 
-- **Named in the outcome:** every outcome names the actor bound by it and the body that carries it out or verifies that it was carried out, with the time limit under [§5 Time Limits and Missed Deadlines](#5-time-limits-and-missed-deadlines).
-- **When no one is named:** where an outcome names no body to carry it out, the forum that issued it names one on the request of any party, inside the intake target of the matter's tier ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline)). The gap does not excuse anyone bound in the meantime.
-- **Separate seats:** the body that carries an outcome out acts within the outcome. It is not the body that decided it, and it does not judge a challenge to its own performance ([Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)).
+- **Named in the outcome:** every outcome names the actor bound by it and the enforcement body that carries it out or verifies that it was carried out, with the time limit under [§5 Time Limits and Missed Deadlines](#5-time-limits-and-missed-deadlines).
+- **When no one is named:** where an outcome names no enforcement body to carry it out, the forum that issued it names one on the request of any party, inside the intake target of the matter's tier ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline)). The gap does not excuse anyone bound in the meantime.
+- **Separate seats:** the enforcement body that carries an outcome out acts within the outcome. It is not the body that decided it, and it does not judge a challenge to its own performance ([Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)).
 - **Reaching the bound actor:** where the bound actor has a System Charter or Institutional Charter, the outcome is served through the enforcement contact that System Charter or Institutional Charter publishes ([Chapter Seven §4.1 What a System Charter States](core_07.000_charters.md#41-what-a-system-charter-states), item 10), and serving it there counts as serving the bound actor.
 - **Institutional detail:** how institutions are sanctioned and supervised when they are the bound actor is set out in [CI-25.205](corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*); remedy-system capacity is set out in [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
@@ -105,7 +105,7 @@ This section says which clocks apply to carrying an outcome out and what follows
 - **The clocks:** remedy commencement, correction milestones, lock review, and reassessment follow [Chapter Twenty §4.5 Timely Implementation](core_20.000_final_effect_restoration_enforcement.md#45-timely-implementation), the tier windows of [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). This chapter adds no clock table.
 - **A missed time limit is non-performance:** any sentient affected by the outcome, or the body that verifies it, may bring the missed limit to the forum that issued the outcome. The forum may:
   - order completion by a new date;
-  - order another body to carry the outcome out, at the cost of the actor bound by it where that actor can lawfully bear it ([Chapter Twenty §4.1 Remediation Capacity and Funding](core_20.000_final_effect_restoration_enforcement.md#41-remediation-capacity-and-funding)); and
+  - order another enforcement body to carry the outcome out, at the cost of the actor bound by it where that actor can lawfully bear it ([Chapter Twenty §4.1 Remediation Capacity and Funding](core_20.000_final_effect_restoration_enforcement.md#41-remediation-capacity-and-funding)); and
   - refer the failure for a violation finding, and, where an authority refuses or suppresses enforcement, under [Chapter Twenty-Two §5.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](core_22.000_misconduct_pattern_applications.md#52-enforcement-refusal-suppression-or-non-prosecution-conduct).
 - **Not carried by the sentient harmed:** delay in carrying an outcome out is never counted against the sentient it protects, and does not shorten any window that sentient has.
 
@@ -131,13 +131,13 @@ This section sets the limits on carrying an outcome out.
 
 - **No wider than the outcome:** carrying an outcome out may not reach further, last longer, or cost the bound actor more than the outcome requires.
 - **No reach into body or mind:** no outcome is carried out by intruding into a body or a mind, the limit [Chapter Nineteen §3.4.7 Capacity Locks](core_19.000_violation_consequences.md#347-capacity-locks) and the Care and Stewardship Lock already set for those locks. A suspension or a health-crisis intervention follows its own floor under **Article XX-B** (*Restriction Floors*) or **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*), not this section.
-- **Over-enforcement can be challenged:** the bound actor, or any sentient affected, may challenge carrying out that goes beyond the outcome before the forum that issued it, and over-enforcement found on that challenge is remedied under [Chapter Nineteen §2.1 Remedy and Correction](core_19.000_violation_consequences.md#21-remedy-and-correction) on the same terms as any other harm.
+- <a id="mal-enforcement"></a>**Mal-enforcement can be challenged:** carrying an outcome out further, longer, or more harshly than it requires, or outside the limits this chapter and [Chapter Twenty-Six](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement) set on how it is carried out, is mal-enforcement. The bound actor, or any sentient affected, may challenge it before the forum that issued the outcome, and mal-enforcement found on that challenge is remedied under [Chapter Nineteen §2.1 Remedy and Correction](core_19.000_violation_consequences.md#21-remedy-and-correction) on the same terms as any other harm.
 - **The outcome ends when it ends:** when an outcome is complete, or a lock ends or is lifted, carrying it out stops at once, and the Forum Case Record says so ([Chapter Twenty §3 Restoration and Reassessment](core_20.000_final_effect_restoration_enforcement.md#3-restoration-and-reassessment)).
 
 <a id="8-routing-to-special-enforcement"></a>
 ### 8. Routing to Special Enforcement
 
-*In plain terms: taking money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty-Six. This section says which matters go there.*
+*In plain terms: freezing or seizing money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty-Six. This section says which matters go there.*
 
 This section says which steps go to special enforcement under [Chapter Twenty-Six](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement).
 
@@ -149,6 +149,7 @@ This section says which steps go to special enforcement under [Chapter Twenty-Si
   - A step that carrying out an outcome requires is routed to special enforcement when it involves money or assets, or force, as listed above. The rest of the outcome stays under this chapter.
   - Where the same kind of outcome keeps missing its time limits, or refusals or stalling recur at the same body or across the same class of systems or institutions, the forum that sees the pattern refers it for root-cause evaluation. Individual cases continue under [§5 Time Limits and Missed Deadlines](#5-time-limits-and-missed-deadlines) meanwhile.
   - Where it is unclear whether a step belongs to special enforcement, it is treated as belonging there.
+  - A routed step starts from an [Enforcement Record](core_26.000_special_enforcement.md#enforcement-record) that the issuing forum issues under Chapter Twenty-Six §3.1 Whether to Act.
 - **Both apply:** special-enforcement rules add to sections 3 to 7 and never lower them.
 - **Special-enforcement rules:** a step routed to Chapter Twenty-Six is taken under its [§3 Shared Floors](core_26.000_special_enforcement.md#3-shared-floors) and the section for its kind of step.
 
