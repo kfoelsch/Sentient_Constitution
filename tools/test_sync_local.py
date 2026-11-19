@@ -283,5 +283,26 @@ class SyncTests(unittest.TestCase):
             self.assertTrue((r.local / "m1.txt").exists())
 
 
+    def test_bundle_merge_fast_forwards_main_while_on_work(self) -> None:
+        """After a merge, main moves while the checkout sits on work; a bundle must be enough."""
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            self._push_work(r, "m1.txt")
+            sl.sync(r.local)
+            base_main = run(r.local, "rev-parse", "origin/main")
+            base_work = run(r.local, "rev-parse", "origin/work")
+            r.merge_branch_upstream("work")
+            run(r.other, "fetch", "-q", "origin")
+            run(r.other, "push", "-q", "origin", "origin/main:refs/heads/work")
+            run(r.other, "fetch", "-q", "origin")
+            bundle = Path(tmp) / "origin.bundle"
+            run(r.other, "bundle", "create", str(bundle), f"^{base_main}", f"^{base_work}", "origin/main", "origin/work")
+            run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
+            lines = sl.sync(r.local, bundle=bundle)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            self.assertEqual(run(r.local, "rev-parse", "main"), run(r.other, "rev-parse", "origin/main"), lines)
+            self.assertEqual(run(r.local, "rev-parse", "work"), run(r.other, "rev-parse", "origin/main"), lines)
+
+
 if __name__ == "__main__":
     unittest.main()

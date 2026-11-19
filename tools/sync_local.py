@@ -226,7 +226,8 @@ def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged
         else:
             say.append(said(f"fast-forwarded main by {behind} commit(s) to {head}", f"fast-forward main by {behind} commit(s) to {head}"))
             if not dry_run:
-                git(root, "fetch", "origin", "main:main", check=True)
+                # local fetch: works the same after a network fetch or a bundle fetch (no network needed)
+                git(root, "fetch", ".", "origin/main:main", check=True)
 
     # 4. the other branches whose remote is gone
     here = current_branch(root) if not dry_run else here
