@@ -62,68 +62,68 @@ class SyncTests(unittest.TestCase):
     def test_merged_branch_is_left_and_deleted_and_main_fast_forwarded(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
-            run(r.local, "switch", "-q", "-c", "work")
-            Repos.commit(r.local, "b.txt", "two\n", "work commit")
-            run(r.local, "push", "-q", "-u", "origin", "work")
-            r.merge_branch_upstream("work")
-            lines = sl.sync(r.local)
+            run(r.local, "switch", "-q", "-c", "feature")
+            Repos.commit(r.local, "b.txt", "two\n", "feature commit")
+            run(r.local, "push", "-q", "-u", "origin", "feature")
+            r.merge_branch_upstream("feature")
+            lines = sl.sync(r.local, shared=False)
             self.assertEqual(run(r.local, "branch", "--show-current"), "main")
-            self.assertNotIn("work", run(r.local, "branch", "--list"))
+            self.assertNotIn("feature", run(r.local, "branch", "--list"))
             self.assertEqual(run(r.local, "rev-parse", "main"), run(r.local, "rev-parse", "origin/main"))
             self.assertTrue((r.local / "b.txt").exists())
-            self.assertTrue(any("deleted work" in line for line in lines), lines)
+            self.assertTrue(any("deleted feature" in line for line in lines), lines)
 
     def test_replayed_commits_with_new_hashes_still_count_as_merged(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
-            run(r.local, "switch", "-q", "-c", "work")
-            Repos.commit(r.local, "b.txt", "two\n", "work commit")
-            run(r.local, "push", "-q", "-u", "origin", "work")
+            run(r.local, "switch", "-q", "-c", "feature")
+            Repos.commit(r.local, "b.txt", "two\n", "feature commit")
+            run(r.local, "push", "-q", "-u", "origin", "feature")
             # The same change reaches origin/main under a different hash, as a replayed pull request would.
             run(r.other, "fetch", "-q", "origin")
             run(r.other, "checkout", "-q", "main")
-            run(r.other, "cherry-pick", "origin/work")
+            run(r.other, "cherry-pick", "origin/feature")
             run(r.other, "push", "-q", "origin", "main")
-            run(r.origin, "branch", "-q", "-D", "work")
-            sl.sync(r.local)
+            run(r.origin, "branch", "-q", "-D", "feature")
+            sl.sync(r.local, shared=False)
             self.assertEqual(run(r.local, "branch", "--show-current"), "main")
-            self.assertNotIn("work", run(r.local, "branch", "--list"))
+            self.assertNotIn("feature", run(r.local, "branch", "--list"))
 
     def test_branch_with_unmerged_commit_is_never_deleted(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
-            run(r.local, "switch", "-q", "-c", "work")
+            run(r.local, "switch", "-q", "-c", "feature")
             Repos.commit(r.local, "b.txt", "two\n", "pushed commit")
-            run(r.local, "push", "-q", "-u", "origin", "work")
-            r.merge_branch_upstream("work")
+            run(r.local, "push", "-q", "-u", "origin", "feature")
+            r.merge_branch_upstream("feature")
             Repos.commit(r.local, "c.txt", "three\n", "local only")
-            lines = sl.sync(r.local)
-            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
-            self.assertIn("work", run(r.local, "branch", "--list"))
+            lines = sl.sync(r.local, shared=False)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "feature")
+            self.assertIn("feature", run(r.local, "branch", "--list"))
             self.assertTrue(any("not in origin/main" in line for line in lines), lines)
 
     def test_dirty_tracked_file_blocks_switching(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
-            run(r.local, "switch", "-q", "-c", "work")
-            Repos.commit(r.local, "b.txt", "two\n", "work commit")
-            run(r.local, "push", "-q", "-u", "origin", "work")
-            r.merge_branch_upstream("work")
+            run(r.local, "switch", "-q", "-c", "feature")
+            Repos.commit(r.local, "b.txt", "two\n", "feature commit")
+            run(r.local, "push", "-q", "-u", "origin", "feature")
+            r.merge_branch_upstream("feature")
             (r.local / "a.txt").write_text("edited\n", encoding="utf-8")
-            lines = sl.sync(r.local)
-            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            lines = sl.sync(r.local, shared=False)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "feature")
             self.assertEqual((r.local / "a.txt").read_text(encoding="utf-8"), "edited\n")
             self.assertTrue(any("uncommitted" in line for line in lines), lines)
 
     def test_untracked_files_do_not_block(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
-            run(r.local, "switch", "-q", "-c", "work")
-            Repos.commit(r.local, "b.txt", "two\n", "work commit")
-            run(r.local, "push", "-q", "-u", "origin", "work")
-            r.merge_branch_upstream("work")
+            run(r.local, "switch", "-q", "-c", "feature")
+            Repos.commit(r.local, "b.txt", "two\n", "feature commit")
+            run(r.local, "push", "-q", "-u", "origin", "feature")
+            r.merge_branch_upstream("feature")
             (r.local / "scratch.txt").write_text("keep me\n", encoding="utf-8")
-            sl.sync(r.local)
+            sl.sync(r.local, shared=False)
             self.assertEqual(run(r.local, "branch", "--show-current"), "main")
             self.assertTrue((r.local / "scratch.txt").exists())
 
@@ -135,29 +135,29 @@ class SyncTests(unittest.TestCase):
             run(r.local, "push", "-q", "-u", "origin", "old")
             run(r.local, "switch", "-q", "main")
             r.merge_branch_upstream("old")
-            lines = sl.sync(r.local)
+            lines = sl.sync(r.local, shared=False)
             self.assertEqual(run(r.local, "rev-parse", "main"), run(r.local, "rev-parse", "origin/main"))
             self.assertIn("old", run(r.local, "branch", "--list"))                  # listed, not deleted
             self.assertTrue(any("safe to delete: old" in line for line in lines), lines)
-            sl.sync(r.local, delete_merged=True)
+            sl.sync(r.local, shared=False, delete_merged=True)
             self.assertNotIn("old", run(r.local, "branch", "--list"))
 
     def test_dry_run_changes_nothing(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
-            run(r.local, "switch", "-q", "-c", "work")
-            Repos.commit(r.local, "b.txt", "two\n", "work commit")
-            run(r.local, "push", "-q", "-u", "origin", "work")
-            r.merge_branch_upstream("work")
-            lines = sl.sync(r.local, dry_run=True)
-            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            run(r.local, "switch", "-q", "-c", "feature")
+            Repos.commit(r.local, "b.txt", "two\n", "feature commit")
+            run(r.local, "push", "-q", "-u", "origin", "feature")
+            r.merge_branch_upstream("feature")
+            lines = sl.sync(r.local, shared=False, dry_run=True)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "feature")
             self.assertTrue(any(line.startswith("would ") for line in lines), lines)
 
     def test_diverged_main_is_left_alone(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             r = Repos(tmp)
             Repos.commit(r.local, "mine.txt", "x\n", "commit on main")
-            lines = sl.sync(r.local)
+            lines = sl.sync(r.local, shared=False)
             self.assertTrue(any("left alone" in line for line in lines), lines)
 
     def _bundle_from_other(self, r: Repos, tmp: str) -> Path:
@@ -175,7 +175,7 @@ class SyncTests(unittest.TestCase):
             r = Repos(tmp)
             bundle = self._bundle_from_other(r, tmp)
             run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
-            lines = sl.sync(r.local, bundle=bundle)
+            lines = sl.sync(r.local, shared=False, bundle=bundle)
             self.assertTrue(any("from bundle" in line for line in lines), lines)
             self.assertEqual(run(r.local, "rev-parse", "main"), run(r.other, "rev-parse", "origin/main"))
 
@@ -186,7 +186,7 @@ class SyncTests(unittest.TestCase):
             run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
             (r.local / "_sync").mkdir()
             bundle.rename(r.local / "_sync" / "origin.bundle")
-            lines = sl.sync(r.local)
+            lines = sl.sync(r.local, shared=False)
             self.assertTrue(any(line.startswith("fetch failed (") for line in lines), lines)
             self.assertEqual(run(r.local, "rev-parse", "main"), run(r.other, "rev-parse", "origin/main"))
 
@@ -195,9 +195,89 @@ class SyncTests(unittest.TestCase):
             r = Repos(tmp)
             before = run(r.local, "rev-parse", "main")
             run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
-            lines = sl.sync(r.local)
+            lines = sl.sync(r.local, shared=False)
             self.assertTrue(lines[0].startswith("fetch failed, nothing changed"), lines)
             self.assertEqual(run(r.local, "rev-parse", "main"), before)
+
+    # --- the shared work branch (GIT-LOCAL-SYNC-01, one central folder) ---
+
+    def _push_work(self, r: Repos, name: str) -> None:
+        """A session commits a move to the shared branch and pushes it."""
+        run(r.other, "fetch", "-q", "origin")
+        if run(r.other, "branch", "--list", "work"):
+            run(r.other, "switch", "-q", "work")
+            if run(r.other, "ls-remote", "origin", "refs/heads/work"):
+                run(r.other, "merge", "-q", "--ff-only", "origin/work")
+        else:
+            run(r.other, "switch", "-q", "-c", "work", "origin/main")
+        Repos.commit(r.other, name, name + "\n", "move " + name)
+        run(r.other, "push", "-q", "origin", "work")
+
+    def test_checkout_moves_onto_work_and_follows_each_push(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            self._push_work(r, "m1.txt")
+            sl.sync(r.local)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            self.assertTrue((r.local / "m1.txt").exists())
+            self._push_work(r, "m2.txt")
+            lines = sl.sync(r.local)
+            self.assertTrue((r.local / "m2.txt").exists(), lines)
+            self.assertEqual(run(r.local, "rev-parse", "HEAD"), run(r.other, "rev-parse", "work"))
+
+    def test_after_merge_and_branch_deletion_work_follows_main(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            self._push_work(r, "m1.txt")
+            sl.sync(r.local)
+            r.merge_branch_upstream("work")
+            lines = sl.sync(r.local)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            self.assertEqual(run(r.local, "rev-parse", "work"), run(r.local, "rev-parse", "origin/main"), lines)
+            self.assertEqual(run(r.local, "rev-parse", "main"), run(r.local, "rev-parse", "origin/main"))
+            run(r.other, "branch", "-q", "-D", "work")
+            self._push_work(r, "m2.txt")   # the next move recreates work from main
+            sl.sync(r.local)
+            self.assertTrue((r.local / "m2.txt").exists())
+
+    def test_work_created_from_main_when_nobody_has_pushed(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            sl.sync(r.local)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            self.assertEqual(run(r.local, "rev-parse", "work"), run(r.local, "rev-parse", "origin/main"))
+
+    def test_dirty_checkout_is_not_switched_to_work(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            self._push_work(r, "m1.txt")
+            (r.local / "a.txt").write_text("edited\n", encoding="utf-8")
+            lines = sl.sync(r.local)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "main")
+            self.assertTrue(any("uncommitted" in line for line in lines), lines)
+
+    def test_unpushed_commit_on_work_is_left_alone(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            self._push_work(r, "m1.txt")
+            sl.sync(r.local)
+            Repos.commit(r.local, "local.txt", "x\n", "local only")
+            lines = sl.sync(r.local)
+            self.assertTrue(any("unpushed" in line for line in lines), lines)
+            self.assertTrue((r.local / "local.txt").exists())
+
+    def test_bundle_carries_work_too(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            self._push_work(r, "m1.txt")
+            run(r.other, "fetch", "-q", "origin")
+            base = run(r.local, "rev-parse", "origin/main")
+            bundle = Path(tmp) / "origin.bundle"
+            run(r.other, "bundle", "create", str(bundle), f"^{base}", "origin/main", "origin/work")
+            run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
+            sl.sync(r.local, bundle=bundle)
+            self.assertEqual(run(r.local, "branch", "--show-current"), "work")
+            self.assertTrue((r.local / "m1.txt").exists())
 
 
 if __name__ == "__main__":
