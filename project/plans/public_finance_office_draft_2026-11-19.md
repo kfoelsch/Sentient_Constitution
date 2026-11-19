@@ -205,22 +205,20 @@ A formula change that would lower the floor of a body with a pending matter agai
 
 ### 5. No Steering by Money
 
-*In plain terms: money can keep a forum running. It must never decide what the forum decides.*
+*In plain terms: money can keep a forum running. It must never decide what the forum decides. The general rule against steering by money, gifts, and apparent conflicts lives in Article XII-D; this section adds what is special to the office that holds the purse.*
 
-The office, the governing authority, and every funder of the office must not:
+**General floor:** The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to the office, the governing authority, and every funder of the office, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*).
 
-- tie any funding to the outcome of a matter, a class of outcomes, a finding, a classification, or a Standing Record;
-- fund a forum per case in a way that rewards a kind of disposition, speed over merits, or one party over another;
+**Added for this office:** In addition, the office must not:
+
 - condition funding on a forum's docket order, routing, or choice of panel;
-- reduce, delay, or threaten funding to a body, bench, researcher, or official because of a decision, dissent, publication, or challenge;
-- let fee or sanction revenue from a matter flow to the forum that decides it; or
+- tie funding to a classification or a Standing Record; or
 - see a pending matter's record, except the aggregate figures that §4 uses.
 
-These are the forum-specific application of the rule in [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) that payoffs and cost rules must not take the place of proper routing or a real merits decision.
+These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) that payoffs and cost rules must not take the place of proper routing or a real merits decision.
 
-**Pattern evidence.** Any of the following is evidence of steering. It shifts the burden to the office or the governing authority to show a lawful, published reason:
+**Pattern evidence (added for this office):** Beyond the Article XII-D pattern rule, either of the following is evidence of steering and shifts the burden to the office or the governing authority to show a lawful, published reason:
 
-- funding to a body falls after it rules against the governing authority, the office, or a major funder;
 - funding moves toward bodies whose rulings favor a funder with a material stake; or
 - discretionary money outside the formula grows as a share of the total.
 

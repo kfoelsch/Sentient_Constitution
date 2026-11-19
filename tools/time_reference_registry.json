@@ -93,6 +93,18 @@
     {
       "name": "Adoption Charter review interval",
       "owner": "Chapter Twenty-Nine §11.4"
+    },
+    {
+      "name": "gift-aggregation period",
+      "owner": "Article XII-D and CI-8.210 §4"
+    },
+    {
+      "name": "gift-register entry window",
+      "owner": "CI-8.210 §4"
+    },
+    {
+      "name": "gift-threshold review period",
+      "owner": "CI-8.210 §4"
     }
   ],
   "scaled_windows": [

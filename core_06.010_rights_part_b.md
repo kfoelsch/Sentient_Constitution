@@ -2132,7 +2132,7 @@ This Article sets out the floors for internal roles and due process:
 
 <br>
 
-*In plain terms: every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.*
+*In plain terms: every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised or when a fair-minded observer would doubt them; they turn down gifts that could buy influence; no one uses money to steer what the body decides; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.*
 
 This Article sets out the non-capture safeguards for every body that decides for others, and their link to separated duties:
 
@@ -2165,6 +2165,19 @@ This Article sets out the non-capture safeguards for every body that decides for
     - institution; or
     - stakeholder bloc.
 - **Ongoing disclosure and recusal:** Members and panelists must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
+- **Apparent conflicts:** A member or panelist must also disclose, and must recuse unless an independent seat clears the matter in a published decision, where a fair-minded and informed observer would reasonably doubt their impartiality, even if no actual bias is shown. An apparent conflict that is disclosed and handled this way is not by itself misconduct.
+- **Gifts and benefits:** Members, panelists, staff, and the officers of **appointing authorities** and **adopting institutions** must not accept gifts, hospitality, travel, loans on non-commercial terms, or other benefits that could reasonably be seen as given to influence them:
+  - **From an interested party:** nothing of value from an [**interested party**](core_05.035_band_accountability.md#interested-party) with a pending or foreseeable matter before them, except refreshments or materials offered on equal terms to every participant;
+  - **From anyone else:** nothing whose value, added up from one source over the twelve-month **gift-aggregation period**, exceeds the published **gift threshold**;
+  - **Handling:** a benefit that may not be accepted is declined, returned, or surrendered to the public, and the fact is recorded;
+  - **Register:** every accepted benefit above a nominal value is entered in a public gift register; and
+  - **Mechanics:** **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) sets the register, the threshold, and the exceptions. Until an adopter publishes its threshold, the default is the median local daily wage.
+- **Funding integrity:** No one who funds, budgets for, or pays a covered body may use that power to steer it. They must not:
+  - tie funding to the outcome of a matter, a class of outcomes, a finding, or a published figure;
+  - reduce, delay, or threaten funding because of a decision, dissent, publication, or challenge;
+  - fund the body per case in a way that rewards a kind of disposition, speed over merits, or one party over another; or
+  - let fee or sanction revenue from a matter flow to the body that decides it.
+  A funding change that follows a decision adverse to the funder is evidence of steering, and the funder must show a lawful, published reason unrelated to that decision.
 - **Influence contact and post-service conflicts:** Approach to these bodies by an [**interested party**](core_05.035_band_accountability.md#interested-party), and the conflicts that arise from later roles and benefits, are governed by [**Article XII-E**](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 - **Enforcement and routing:**
   - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Twenty-One** when verified under [Chapter Fifteen §3.5 Verified-Input Gate](core_15.000_standing_assessment.md#35-verified-input-gate), on evidence that meets the verification standards of **Chapters Two through Four**, and assessed through the **Chapter Twenty-One** criteria set.

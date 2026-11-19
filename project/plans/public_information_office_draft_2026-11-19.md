@@ -212,7 +212,7 @@ The office handles each data type under **CS-6.305** and **CS-6.310**. In additi
 
 *In plain terms: no one may change, hide, delay, or time a number or a finding because of what it says.*
 
-The office, the governing authority, the Public Finance Office, every forum, and every funder must not:
+The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to the office and its researchers, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*). In addition, the office, the governing authority, the Public Finance Office, every forum, and every funder must not:
 
 - alter, suppress, delay, or time the release of a figure or finding because of what it shows;
 - reward or punish a researcher, methodologist, or official for a result;

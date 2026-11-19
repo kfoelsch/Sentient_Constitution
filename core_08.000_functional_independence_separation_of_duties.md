@@ -629,7 +629,8 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 - **Removal:** a decision-maker may be removed mid-term only for a published cause, through a removal pathway under **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), and the removal is open to challenge. Removal, reassignment, or loss of pay because of a decision, finding, published figure, or dissent is barred.
 - **Seats:** it publishes a seat map that places all four seats under [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement) and [§6 Published Placement, Vacancy, and Substitution](#6-published-placement-vacancy-and-substitution) for each of its materially binding acts.
 - **No dual roles:** no holder of a decision seat in the body may at the same time hold a decision seat in a body it funds, checks, or measures, or hold a [material stake](core_00.000_preamble.md#material-stake) in a matter before it.
-- **Funding:** its funding is adequate to its duties and is not reduced, delayed, or conditioned because of a decision, finding, published figure, or dissent.
+- **Funding:** its funding is adequate to its duties, and the funding-integrity floor of [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) applies to whoever funds it, whether or not the body decides for others.
+- **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XII-D](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*).
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
 
