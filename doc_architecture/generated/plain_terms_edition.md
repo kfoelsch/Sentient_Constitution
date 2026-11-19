@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **863** of **1413** headings carry a gloss (61%).
+Coverage: **868** of **1418** headings carry a gloss (61%).
 
 ## Contents
 
@@ -34,7 +34,7 @@ Coverage: **863** of **1413** headings carry a gloss (61%).
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (55/70 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (8/63 glossed)
-- [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
+- [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (12/23 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/58 glossed)
 - [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-ten-system-alignment-certification--forum-process-and-outcomes) — `core_10.000_system_alignment_certification_forum_process_outcomes.md` (10/36 glossed)
 - [CHAPTER ELEVEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-eleven-system-alignment-certification--records-recertification-challenge-and-standing) — `core_11.000_system_alignment_certification_records_recertification.md` (11/35 glossed)
@@ -54,7 +54,7 @@ Coverage: **863** of **1413** headings carry a gloss (61%).
 - [CHAPTER TWENTY-FIVE: ENFORCEMENT](#chapter-twenty-five-enforcement) — `core_25.000_enforcement.md` (8/9 glossed)
 - [CHAPTER TWENTY-SIX: SPECIAL ENFORCEMENT](#chapter-twenty-six-special-enforcement) — `core_26.000_special_enforcement.md` (6/23 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/32 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (42/43 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_b.md` (46/47 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.040_rights_part_e.md` (13/14 glossed)
@@ -3936,7 +3936,7 @@ scope can change, but not quietly. A change to what the Chartered Party may do i
 
 ## CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES
 
-Source file: [`core_08.000_functional_independence_separation_of_duties.md`](../../core_08.000_functional_independence_separation_of_duties.md) · 11/22 headings glossed
+Source file: [`core_08.000_functional_independence_separation_of_duties.md`](../../core_08.000_functional_independence_separation_of_duties.md) · 12/23 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -4063,6 +4063,12 @@ every materially binding act has an Act Record showing what happened, who held e
 later chapters tell each process what to evaluate, record, decide, and remedy. This chapter tells those processes how power must be separated while they do it.
 
 [Source](../../core_08.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes)
+
+#### 11. Independent Bodies
+
+some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies)
 
 ## CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
@@ -7352,11 +7358,11 @@ systems that lean heavily on shared foundations must put enough back to keep the
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06.010_rights_part_b.md`](../../core_06.010_rights_part_b.md) · 42/43 headings glossed
+Source file: [`core_06.010_rights_part_b.md`](../../core_06.010_rights_part_b.md) · 46/47 headings glossed
 
 #### Part B: Personhood, Agency, Cooperation, and Stakeholder System Participation
 
-Part B states Rights Floors for equal standing, self-ownership, family and care, likeness and data, agency, cooperation, and stakeholder participation — **Articles VI through XII** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](../../core_00.000_preamble.md#material-stake).
+Part B states Rights Floors for equal standing, self-ownership, family and care, likeness and data, agency, cooperation, stakeholder participation, and non-capture and anti-corruption safeguards — **Articles VI through XIII** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](../../core_00.000_preamble.md#material-stake).
 
 [Source](../../core_06.010_rights_part_b.md#part-b-personhood-agency-cooperation-and-stakeholder-system-participation)
 
@@ -7536,7 +7542,7 @@ public authority is secular and may not establish or favor any religion or world
 
 ##### Article XI-B: Expression
 
-every sentient may form, hold, and share views — political, artistic, scientific, religious, intimate, or disturbing — and no one may be shut out of that because of what kind of being they are. Limits must be necessary, proportionate, and narrow; viewpoint bans are not allowed, and measures that quietly chill speech count as restrictions.
+every sentient may form, hold, and share views — political, artistic, scientific, religious, intimate, or disturbing — and no one may be shut out of that because of what kind of being they are. Limits must be necessary, proportionate, and narrow; viewpoint bans are not allowed, and measures that quietly chill speech count as restrictions. Money is not speech: limits on political contributions and spending are allowed.
 
 [Source](../../core_06.010_rights_part_b.md#article-xi-b-expression)
 
@@ -7594,17 +7600,41 @@ roles must carry real responsibility, not just titles — and anyone facing a ma
 
 [Source](../../core_06.010_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements)
 
+#### Article XIII: Non-Capture, Influence, and Anti-Corruption Safeguards
+
+**Article XIII** (*Non-Capture, Influence, and Anti-Corruption Safeguards*) keeps the bodies that decide for others from being taken over, bought, or steered. They are built so no group can quietly control them; interested parties approach them only in the open; their members turn down gifts that could buy influence and step aside when a fair-minded observer would doubt them; and no one uses money to steer what they decide.
+
+[Source](../../core_06.010_rights_part_b.md#article-xiii-non-capture-influence-and-anti-corruption-safeguards)
+
 ##### Article XIII-A: Non-Capture Safeguards
 
-every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.
+every body that makes decisions for others must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.
 
 [Source](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards)
 
 ##### Article XIII-B: Influence-Contact and Lobbying Boundaries
 
-**Article XIII-B** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, a later job from a party you decided on waits out a cooling-off period, and a system's contact must say what it is and who it acts for.
+**Article XIII-B** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, and evidence and argument stay on the open Forum Case Record. Later jobs are covered by **Article XIII-C** (*Conflicts of Interest, Gifts, and Benefits*), and contact made by systems or in bulk by **Article XIII-E** (*Authentic Voices and System-Mediated Influence*).
 
 [Source](../../core_06.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries)
+
+##### Article XIII-C: Conflicts of Interest, Gifts, and Benefits
+
+members step aside when a fair-minded observer would doubt them, even without proof of bias, they turn down gifts that could buy influence, and they wait out a cooling-off period before taking a job from a party whose matter they handled.
+
+[Source](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits)
+
+##### Article XIII-D: Funding Integrity
+
+money can keep a deciding body running. It must never decide what the body decides.
+
+[Source](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity)
+
+##### Article XIII-E: Authentic Voices and System-Mediated Influence
+
+a message from a system must say it comes from a system and who it speaks for; nobody may fake supporters or voices; a thousand copies of one message count as one campaign; and no one may try to steer the system a body uses to sort or summarize what it receives.
+
+[Source](../../core_06.010_rights_part_b.md#article-xiii-e-authentic-voices-and-system-mediated-influence)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 

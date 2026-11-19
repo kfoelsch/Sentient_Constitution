@@ -154,6 +154,12 @@ These were recorded as open or "to confirm" in moves now archived in [archive/DO
 - [ ] Chapter Twenty-Three repeated rules (628th to 630th and 649th moves): the anti-incentive rule is still stated three times and the anti-self-judging backup in four places, and the Environment sign-off rule still appears in §3.3.4, §4.4, §6.4 and §6.5 (the 649th move stated it once inside §6.5 but did not remove the others). Evaluation: `claude/ch23-section-2-reorganization-evaluation.md` in the Claude project. Needs a wording pass that keeps each duty once and points to it elsewhere.
 - [ ] Chapter Twenty-Three §3.4 (635th move): the mixed-stakes bullet was not moved there from §4.3.
 
+### Carried from the archived move log, 2026-11-19 run (moves 675–764)
+
+- [ ] NU-4 cadence (695th move): decide how the local annual-or-tighter NU-4 wording relates to the shared routine cadence.
+- [ ] Chapter Eight §11 *Independent Bodies* (759th move): the opening owner sentence of Chapter Eight and the Preamble owner register do not yet mention §11, and the Chapter Twenty-Three §2.2 benches do not cite it.
+- [ ] Default gift threshold (761st move): confirm or change the default in [Article XIII-C](core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*), one day's pay at the median local wage until an adopter publishes its own.
+
 ### Whole-project evaluation — open hesitations (Claude review, 2026-11-15)
 
 Raised in a "would I want to live in this world?" read of the README, START_HERE, VISION, the conceptual overview, the Rights Floor sheet, and the *In plain terms* glosses for Chapters 16, 18, 21, and 27–29. The reviewer did not read the full core, so each item starts with a check against source.
@@ -176,7 +182,7 @@ Items the custodian has set aside are in [project/SHELVED.md](project/SHELVED.md
 
 ## Archives
 
-- **2026-11-19 archive run (base commit `4c22ddff`):** [archive/DOC_ARCHITECTURE_MOVES_664-674_ARCHIVED_2026-11-19.md](archive/DOC_ARCHITECTURE_MOVES_664-674_ARCHIVED_2026-11-19.md) (moves 664–674).
+- **2026-11-19 archive runs (base commits `4c22ddff` and `86987dd`):** [archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md](archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md) (moves 664–764); three open items carried into the backlog in the second run.
 - **2026-11-18 archive run (base commit `026b4f96`):** [archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md](archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md) (moves 650–651), [archive/TODO_RESOLVED_2026-11-18.md](archive/TODO_RESOLVED_2026-11-18.md) (four TODO items complete); no MEMLOG entry was complete.
 - **2026-11-18 second archive run (base commit `3a89bdaf`):** [archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md](archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md) (moves 652–663), [archive/TODO_RESOLVED_2026-11-18.md](archive/TODO_RESOLVED_2026-11-18.md) (two more TODO items complete, second-run section); no MEMLOG entry was complete.
 - **2026-11-17 archive runs (base commits `7c20c972`, `e6ba6a3e`, `83044229`, `a79a82c3` and `00243dd9`):** [archive/DOC_ARCHITECTURE_MOVES_569-649_ARCHIVED_2026-11-17.md](archive/DOC_ARCHITECTURE_MOVES_569-649_ARCHIVED_2026-11-17.md) (moves 569–649; the numbers 588 and 589 are unused); [archive/TODO_RESOLVED_2026-11-17.md](archive/TODO_RESOLVED_2026-11-17.md) (nine completed TODO items: define IAC, the retaliation case, the Chapter Twenty-Two verified-input wording, the Chapter Thirty and Thirty-One owner boxes, the measurement seeds, the Chapter Sixteen §10 table, the Chapter Twenty-Two catch-all, the corpus homes, and the definitions map). Open items from those entries are carried in the entries above and in the section *Carried from the archived move log, 2026-11-17 run (moves 608–649)*; moves 650 onward remain active.
