@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T11:57:30+00:00",
+  "generated_at": "2026-11-19T12:47:53+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -1389,9 +1389,9 @@
       ]
     },
     "core_26.000_special_enforcement.md": {
-      "total_lines": 305,
+      "total_lines": 306,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: SPECIAL ENFORCEMENT","level":1,"line_start":1,"line_end":305,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: SPECIAL ENFORCEMENT","level":1,"line_start":1,"line_end":306,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":33,"line_end":53,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Special Enforcement Exists","level":3,"line_start":54,"line_end":64,"anchor":"#2-why-special-enforcement-exists"},
         {"header":"3. Shared Floors","level":3,"line_start":65,"line_end":121,"anchor":"#3-shared-floors"},
@@ -1403,17 +1403,17 @@
         {"header":"4.2 The Protected Minimum","level":4,"line_start":137,"line_end":146,"anchor":"#42-the-protected-minimum"},
         {"header":"4.3 Seizure, Third Parties, and Return","level":4,"line_start":147,"line_end":162,"anchor":"#43-seizure-third-parties-and-return"},
         {"header":"4.4 Hidden Assets and Institutions","level":4,"line_start":163,"line_end":170,"anchor":"#44-hidden-assets-and-institutions"},
-        {"header":"5. Potential Violence and Force","level":3,"line_start":171,"line_end":282,"anchor":"#5-potential-violence-and-force"},
+        {"header":"5. Potential Violence and Force","level":3,"line_start":171,"line_end":283,"anchor":"#5-potential-violence-and-force"},
         {"header":"5.1 Who May Use Force","level":4,"line_start":178,"line_end":187,"anchor":"#51-who-may-use-force"},
         {"header":"5.2 Before Force","level":4,"line_start":188,"line_end":196,"anchor":"#52-before-force"},
         {"header":"5.3 Limits on Force","level":4,"line_start":197,"line_end":204,"anchor":"#53-limits-on-force"},
         {"header":"5.4 The Force Ladder","level":4,"line_start":205,"line_end":227,"anchor":"#54-the-force-ladder"},
         {"header":"5.5 Pace: Active Attack and Standoff","level":4,"line_start":228,"line_end":241,"anchor":"#55-pace-active-attack-and-standoff"},
         {"header":"5.6 Protecting Life and Others","level":4,"line_start":242,"line_end":251,"anchor":"#56-protecting-life-and-others"},
-        {"header":"5.7 How It Ends","level":4,"line_start":252,"line_end":262,"anchor":"#57-how-it-ends"},
-        {"header":"5.8 When Someone Dies","level":4,"line_start":263,"line_end":274,"anchor":"#58-when-someone-dies"},
-        {"header":"5.9 Record, Review, and Care","level":4,"line_start":275,"line_end":282,"anchor":"#59-record-review-and-care"},
-        {"header":"6. Root-Cause Evaluation","level":3,"line_start":283,"line_end":305,"anchor":"#6-root-cause-evaluation"}
+        {"header":"5.7 How It Ends","level":4,"line_start":252,"line_end":263,"anchor":"#57-how-it-ends"},
+        {"header":"5.8 When Someone Dies","level":4,"line_start":264,"line_end":275,"anchor":"#58-when-someone-dies"},
+        {"header":"5.9 Record, Review, and Care","level":4,"line_start":276,"line_end":283,"anchor":"#59-record-review-and-care"},
+        {"header":"6. Root-Cause Evaluation","level":3,"line_start":284,"line_end":306,"anchor":"#6-root-cause-evaluation"}
       ]
     },
     "core_06.000_rights_part_a.md": {
