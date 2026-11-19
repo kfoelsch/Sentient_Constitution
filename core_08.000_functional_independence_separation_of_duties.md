@@ -5,12 +5,12 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eight**: the cross-process requirement for functional independence and separation of duties. It follows [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters), which states the System Charter or Institutional Charter that carries the published seat map, and precedes the constitutional process chapters beginning with [Chapter Nine system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation).
 >
-> - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05.035_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
+> - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05.035_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; the minimum independence conditions that every later constitutional process must apply; and the standard requirements for a body named as an Independent Body (§11).
 > - **Principle-layer source:** [Chapter One §18.3](core_01.050_governance_incentive_application.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Implementation owner:** [CJS-5.125 §11](corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), and [CI-27.205 §6](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
 > - **Process-specific application remains downstream:** Chapter Nine applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Fifteen §6.1](core_15.000_standing_assessment.md#61-separation-of-duties) applies it to Standing Records; Chapter Twenty-Three and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
-> Reading order: §1 purpose and scope → §2 why the jobs are separated → §3 Four-Seat Requirement → §4 independence and conflicts → §5 wrong-seat routing → §6 published placement, substitutes, and delegation → §7 proportional scaling → §8 emergencies → §9 Act Records and handoffs → §10 downstream application.
+> Reading order: §1 purpose and scope → §2 why the jobs are separated → §3 Four-Seat Requirement → §4 independence and conflicts → §5 wrong-seat routing → §6 published placement, substitutes, and delegation → §7 proportional scaling → §8 emergencies → §9 Act Records and handoffs → §10 downstream application → §11 independent bodies.
 
 </details>
 
@@ -33,7 +33,8 @@
   - [§7](#7-proportional-scaling-and-merged-hosting);
   - [§8](#8-emergency-and-urgent-action);
   - [§9](#9-act-records-and-attributable-handoffs);
-  - [§10](#10-relationship-to-later-processes).
+  - [§10](#10-relationship-to-later-processes);
+  - [§11](#11-independent-bodies).
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) (9.000);
   - [Chapter Fifteen](core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (15.000);
@@ -61,7 +62,7 @@ Chapter Eight is the constitutional owner of the **functional-independence and s
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: chapter opening owner claim; [Chapter One §18](core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (1.050 §18); [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_05.005_apex_accountability_leg.md#accountability).
-- Downstream: [§3](#3-four-seat-constitutional-requirement) through [§10](#10-relationship-to-later-processes); every later process that produces or changes a materially binding act.
+- Downstream: [§3](#3-four-seat-constitutional-requirement) through [§11](#11-independent-bodies); every later process that produces or changes a materially binding act.
 - Read with:
   - [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) for verification substrate;
   - [Article XIII-A](core_06.020_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
@@ -103,8 +104,9 @@ The chapter's sections cover:
 - published placement, vacancy, and substitution (**section 6**);
 - proportional scaling and merged hosting (**section 7**);
 - emergency and urgent action (**section 8**);
-- act records and attributable handoffs (**section 9**); and
-- the relationship to later processes (**section 10**).
+- act records and attributable handoffs (**section 9**);
+- the relationship to later processes (**section 10**); and
+- the standard independence requirements for a body that this Constitution or designated implementation text names as an Independent Body (**section 11**).
 
 **Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
@@ -113,7 +115,7 @@ The chapter's sections cover:
 
 *In plain terms: the same lesson has been learned again and again in business, government, and nuclear security. When one party can start an act, approve it, write it down, and judge any complaint about it, no one else is in a position to catch a mistake or a lie.*
 
-This section explains the reasons for the requirement. It is non-operative: the binding rules are in [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement) through [§10 Relationship to Later Processes](#10-relationship-to-later-processes).
+This section explains the reasons for the requirement. It is non-operative: the binding rules are in [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement) through [§11 Independent Bodies](#11-independent-bodies).
 
 Several fields reached the same idea on their own:
 
@@ -599,6 +601,39 @@ Every later constitutional process must explain how it assigns and uses all four
 - Giving a process a different name does not exempt it from [§5 Wrong-Seat Routing](#5-wrong-seat-routing) or [§9 Act Records and Attributable Handoffs](#9-act-records-and-attributable-handoffs), including their handoff and wrong-seat rules.
 
 A later chapter may add stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this chapter's requirements, and a seat that is unplaced does not pass to the actor under [§6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#63-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve).
+
+
+<a id="11-independent-bodies"></a>
+
+### 11. Independent Bodies
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§3](#3-four-seat-constitutional-requirement) through [§7](#7-proportional-scaling-and-merged-hosting); [Chapter Twenty-Seven §2.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums) (27.000 §2.2); [Chapter Twenty §4.2 Remedy-System Durability](core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) (20.000 §4.2); [Article XXV](core_06.030_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Downstream: each chapter or designated implementation text that names a body as an Independent Body by citing this section.
+- Read with: [CI-27.205 §2](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-2-role-criteria-appointment-standards-and-removal-pathways) (*Role Criteria, Appointment Standards, and Removal Pathways*); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*).
+
+</details>
+
+<br>
+
+*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
+
+**Naming a body:** A body is an **Independent Body** when this Constitution, or designated implementation text, names it as one by citing this section. The designating text states what the body does. It may add stronger requirements. It may not narrow this section.
+
+**Standard requirements:** Each Independent Body must meet all of the following:
+
+- **Outside control:** it sits outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of every body or party it serves, funds, checks, measures, or decides about, and of the governing authority except for the appointment and budget powers that the designating text expressly gives.
+- **Appointment:** its decision-makers are chosen by published, contested, and rotatable appointment, or an equivalent independence check, under [Chapter Twenty-Seven §2.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums), with role criteria and appointment standards under [CI-27.205 §2](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-2-role-criteria-appointment-standards-and-removal-pathways) (*Role Criteria, Appointment Standards, and Removal Pathways*).
+- **Removal:** a decision-maker may be removed mid-term only for a published cause, through a removal pathway under **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), and the removal is open to challenge. Removal, reassignment, or loss of pay because of a decision, finding, published figure, or dissent is barred.
+- **Seats:** it publishes a seat map that places all four seats under [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement) and [§6 Published Placement, Vacancy, and Substitution](#6-published-placement-vacancy-and-substitution) for each of its materially binding acts.
+- **No dual roles:** no holder of a decision seat in the body may at the same time hold a decision seat in a body it funds, checks, or measures, or hold a [material stake](core_00.000_preamble.md#material-stake) in a matter before it.
+- **Funding:** its funding is adequate to its duties and is not reduced, delayed, or conditioned because of a decision, finding, published figure, or dissent.
+
+**Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
+
+**Scaling:** [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) applies. Even where hosting is merged, the verify-or-authorize seat for the body's binding acts stays outside the body, and its decision-makers stay separate from the bodies it funds, checks, or measures.
 
 ---
 
