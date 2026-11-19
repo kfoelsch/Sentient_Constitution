@@ -177,6 +177,7 @@ Recognized mechanism families include:
 
 **Selection-funding boundaries**
 
+- **Money is not speech:** Under [**Article XI-B**](core_06.010_rights_part_b.md#article-xi-b-expression) (*Expression*), giving or spending to influence a selection is conduct, not expression. Contributions to campaigns, candidates, nominees, and appointers can and should be limited, and the limits below are not limits on expression. The purpose is that a selection reflects the authorizing community, not the money behind a candidate.
 - **Scope:** These boundaries apply where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment. They do not apply to sortition, which has its own integrity requirement above, or to the ratification votes of member bodies in federated or treaty designs.
 - **Disclosure:** Material money, in-kind support, or organized campaigning by an [**interested party**](core_05.035_band_accountability.md#interested-party) for a candidate, nominee, or appointer must be disclosed publicly before the selection is decided, in time for the authorizing community to weigh it.
     - The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register.
@@ -206,7 +207,7 @@ Recognized mechanism families include:
     - It must look for leaks. A rise in funding through a channel the rules do not cover, or decisions that repeatedly favor funders with a material stake, is evidence that the rules need changing.
     - It must revise the rules where it finds such evidence.
 - **Dependency:** Support that creates material dependency between the selected sentient and the supporter is a conflict under **Article XIII-A** (*Non-Capture Safeguards*). It must be disclosed, and the selected sentient must recuse from matters in which the supporter has a material stake.
-- **Mechanism-neutral:** These boundaries set no spending limit and require no public financing. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Thirty](core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law) provides.
+- **Mechanism-neutral:** These boundaries require a contribution cap but do not require a candidate spending limit or public financing. An adopter may set a spending limit for candidates and nominees; if it does, the limit must be viewpoint-neutral and high enough for a challenger to compete. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Thirty](core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law) provides.
 - **Opposition protection:** These rules must not be used to deter the organizing, communication, and dissent protected by **opposition protection** above.
 
 **Forum appointment independence requirement**

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T17:08:00+00:00",
+  "generated_at": "2026-11-19T17:15:39+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -1455,9 +1455,9 @@
       ]
     },
     "core_06.010_rights_part_b.md": {
-      "total_lines": 2438,
+      "total_lines": 2441,
       "sections": [
-        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2438,"anchor":null},
+        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2441,"anchor":null},
         {"header":"Part B: Personhood, Agency, Cooperation, and Stakeholder System Participation","level":3,"line_start":18,"line_end":105,"anchor":null},
         {"header":"Article VI: Equal Basic Rights","level":3,"line_start":106,"line_end":376,"anchor":null},
         {"header":"Article VI-A: Dignity and Equal Moral Standing","level":4,"line_start":141,"line_end":180,"anchor":null},
@@ -1486,24 +1486,24 @@
         {"header":"Article X-B: Governance Participation and Voting Entitlement","level":4,"line_start":1310,"line_end":1344,"anchor":null},
         {"header":"Article X-C: Stakeholder Role and Participation Rights","level":4,"line_start":1345,"line_end":1393,"anchor":null},
         {"header":"Article X-D: Inclusion and Exclusion Challenge Rights","level":4,"line_start":1394,"line_end":1432,"anchor":null},
-        {"header":"Article XI: Conscience, Expression, Association, and Cooperative Interaction","level":3,"line_start":1433,"line_end":1906,"anchor":null},
+        {"header":"Article XI: Conscience, Expression, Association, and Cooperative Interaction","level":3,"line_start":1433,"line_end":1909,"anchor":null},
         {"header":"Article XI-A: Freedom of Conscience, Religion, and Comparable Worldview","level":4,"line_start":1483,"line_end":1526,"anchor":null},
-        {"header":"Article XI-B: Expression","level":4,"line_start":1527,"line_end":1596,"anchor":null},
-        {"header":"Article XI-C: Press and Journalistic Activity","level":4,"line_start":1597,"line_end":1633,"anchor":null},
-        {"header":"Article XI-D: Assembly, Dissent, and Peaceful Protest","level":4,"line_start":1634,"line_end":1714,"anchor":null},
-        {"header":"Article XI-E: Institutional Formation and Business Creation","level":4,"line_start":1715,"line_end":1807,"anchor":null},
-        {"header":"Article XI-F: Non-Imposition and Consent in Association","level":4,"line_start":1808,"line_end":1855,"anchor":null},
-        {"header":"Article XI-G: Collective Harm Boundary and Enforcement Interface","level":4,"line_start":1856,"line_end":1906,"anchor":null},
-        {"header":"Article XII: Stakeholder System Participation, Representation, and Due Process","level":3,"line_start":1907,"line_end":2103,"anchor":null},
-        {"header":"Article XII-A: Stakeholder System Participation and Representation","level":4,"line_start":1960,"line_end":2014,"anchor":null},
-        {"header":"Article XII-B: Weighted Participation and Anti-Token Constraints","level":4,"line_start":2015,"line_end":2060,"anchor":null},
-        {"header":"Article XII-C: Internal Roles, Accountability, and Due-Process Requirements","level":4,"line_start":2061,"line_end":2103,"anchor":null},
-        {"header":"Article XIII: Non-Capture, Influence, and Anti-Corruption Safeguards","level":3,"line_start":2104,"line_end":2438,"anchor":null},
-        {"header":"Article XIII-A: Non-Capture Safeguards","level":4,"line_start":2157,"line_end":2269,"anchor":null},
-        {"header":"Article XIII-B: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2270,"line_end":2347,"anchor":null},
-        {"header":"Article XIII-C: Conflicts of Interest, Gifts, and Benefits","level":4,"line_start":2348,"line_end":2377,"anchor":null},
-        {"header":"Article XIII-D: Funding Integrity","level":4,"line_start":2378,"line_end":2401,"anchor":null},
-        {"header":"Article XIII-E: Authentic Voices and System-Mediated Influence","level":4,"line_start":2402,"line_end":2438,"anchor":null}
+        {"header":"Article XI-B: Expression","level":4,"line_start":1527,"line_end":1599,"anchor":null},
+        {"header":"Article XI-C: Press and Journalistic Activity","level":4,"line_start":1600,"line_end":1636,"anchor":null},
+        {"header":"Article XI-D: Assembly, Dissent, and Peaceful Protest","level":4,"line_start":1637,"line_end":1717,"anchor":null},
+        {"header":"Article XI-E: Institutional Formation and Business Creation","level":4,"line_start":1718,"line_end":1810,"anchor":null},
+        {"header":"Article XI-F: Non-Imposition and Consent in Association","level":4,"line_start":1811,"line_end":1858,"anchor":null},
+        {"header":"Article XI-G: Collective Harm Boundary and Enforcement Interface","level":4,"line_start":1859,"line_end":1909,"anchor":null},
+        {"header":"Article XII: Stakeholder System Participation, Representation, and Due Process","level":3,"line_start":1910,"line_end":2106,"anchor":null},
+        {"header":"Article XII-A: Stakeholder System Participation and Representation","level":4,"line_start":1963,"line_end":2017,"anchor":null},
+        {"header":"Article XII-B: Weighted Participation and Anti-Token Constraints","level":4,"line_start":2018,"line_end":2063,"anchor":null},
+        {"header":"Article XII-C: Internal Roles, Accountability, and Due-Process Requirements","level":4,"line_start":2064,"line_end":2106,"anchor":null},
+        {"header":"Article XIII: Non-Capture, Influence, and Anti-Corruption Safeguards","level":3,"line_start":2107,"line_end":2441,"anchor":null},
+        {"header":"Article XIII-A: Non-Capture Safeguards","level":4,"line_start":2160,"line_end":2272,"anchor":null},
+        {"header":"Article XIII-B: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2273,"line_end":2350,"anchor":null},
+        {"header":"Article XIII-C: Conflicts of Interest, Gifts, and Benefits","level":4,"line_start":2351,"line_end":2380,"anchor":null},
+        {"header":"Article XIII-D: Funding Integrity","level":4,"line_start":2381,"line_end":2404,"anchor":null},
+        {"header":"Article XIII-E: Authentic Voices and System-Mediated Influence","level":4,"line_start":2405,"line_end":2441,"anchor":null}
       ]
     },
     "core_06.020_rights_part_c.md": {
@@ -1602,23 +1602,23 @@
       ]
     },
     "core_27.000_governance.md": {
-      "total_lines": 565,
+      "total_lines": 566,
       "sections": [
-        {"header":"CHAPTER TWENTY-SEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":565,"anchor":null},
+        {"header":"CHAPTER TWENTY-SEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":566,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":25,"line_end":54,"anchor":null},
-        {"header":"2. Authorization and Legitimacy of Governing Authority","level":3,"line_start":55,"line_end":248,"anchor":null},
+        {"header":"2. Authorization and Legitimacy of Governing Authority","level":3,"line_start":55,"line_end":249,"anchor":null},
         {"header":"2.1 Mechanism Families, Auditability, and Pluralism","level":4,"line_start":83,"line_end":152,"anchor":null},
-        {"header":"2.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":153,"line_end":218,"anchor":null},
-        {"header":"2.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":219,"line_end":248,"anchor":null},
-        {"header":"3. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":249,"line_end":270,"anchor":null},
-        {"header":"4. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":271,"line_end":349,"anchor":null},
-        {"header":"4.1 Stewardship Direction","level":4,"line_start":314,"line_end":329,"anchor":null},
-        {"header":"4.2 Ecosystem Value Orientation","level":4,"line_start":330,"line_end":349,"anchor":null},
-        {"header":"5. Voting and Binding Collective Choice Protocols","level":3,"line_start":350,"line_end":518,"anchor":null},
-        {"header":"5.1 Entitlement and Eligibility","level":4,"line_start":366,"line_end":439,"anchor":null},
-        {"header":"5.2 Records, Gates, and Method Neutrality","level":4,"line_start":440,"line_end":481,"anchor":null},
-        {"header":"5.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":482,"line_end":518,"anchor":"#53-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"6. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":519,"line_end":565,"anchor":null}
+        {"header":"2.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":153,"line_end":219,"anchor":null},
+        {"header":"2.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":220,"line_end":249,"anchor":null},
+        {"header":"3. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":250,"line_end":271,"anchor":null},
+        {"header":"4. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":272,"line_end":350,"anchor":null},
+        {"header":"4.1 Stewardship Direction","level":4,"line_start":315,"line_end":330,"anchor":null},
+        {"header":"4.2 Ecosystem Value Orientation","level":4,"line_start":331,"line_end":350,"anchor":null},
+        {"header":"5. Voting and Binding Collective Choice Protocols","level":3,"line_start":351,"line_end":519,"anchor":null},
+        {"header":"5.1 Entitlement and Eligibility","level":4,"line_start":367,"line_end":440,"anchor":null},
+        {"header":"5.2 Records, Gates, and Method Neutrality","level":4,"line_start":441,"line_end":482,"anchor":null},
+        {"header":"5.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":483,"line_end":519,"anchor":"#53-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"6. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":520,"line_end":566,"anchor":null}
       ]
     },
     "core_28.000_non_regression.md": {
