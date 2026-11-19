@@ -11,3 +11,7 @@ _pages_site/
 
 # Editor settings (untracked scratch; see AGENTS.md merge procedure)
 .vscode/
+
+# Session transfer files: one bundle each way, replaced each time (GIT-LOCAL-SYNC-01)
+_sync/
+_to_delete/

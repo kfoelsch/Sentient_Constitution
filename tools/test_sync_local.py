@@ -160,6 +160,45 @@ class SyncTests(unittest.TestCase):
             lines = sl.sync(r.local)
             self.assertTrue(any("left alone" in line for line in lines), lines)
 
+    def _bundle_from_other(self, r: Repos, tmp: str) -> Path:
+        """Advance origin/main from the other clone and bundle it the way a Claude Code session does."""
+        Repos.commit(r.other, "c.txt", "three\n", "upstream commit")
+        run(r.other, "push", "-q", "origin", "main")
+        run(r.other, "fetch", "-q", "origin")
+        base = run(r.local, "rev-parse", "origin/main")
+        bundle = Path(tmp) / "origin.bundle"
+        run(r.other, "bundle", "create", str(bundle), f"{base}..origin/main")
+        return bundle
+
+    def test_bundle_brings_main_across_without_network(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            bundle = self._bundle_from_other(r, tmp)
+            run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
+            lines = sl.sync(r.local, bundle=bundle)
+            self.assertTrue(any("from bundle" in line for line in lines), lines)
+            self.assertEqual(run(r.local, "rev-parse", "main"), run(r.other, "rev-parse", "origin/main"))
+
+    def test_failed_fetch_falls_back_to_default_bundle(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            bundle = self._bundle_from_other(r, tmp)
+            run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
+            (r.local / "_sync").mkdir()
+            bundle.rename(r.local / "_sync" / "origin.bundle")
+            lines = sl.sync(r.local)
+            self.assertTrue(any(line.startswith("fetch failed (") for line in lines), lines)
+            self.assertEqual(run(r.local, "rev-parse", "main"), run(r.other, "rev-parse", "origin/main"))
+
+    def test_failed_fetch_without_bundle_changes_nothing(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = Repos(tmp)
+            before = run(r.local, "rev-parse", "main")
+            run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
+            lines = sl.sync(r.local)
+            self.assertTrue(lines[0].startswith("fetch failed, nothing changed"), lines)
+            self.assertEqual(run(r.local, "rev-parse", "main"), before)
+
 
 if __name__ == "__main__":
     unittest.main()
