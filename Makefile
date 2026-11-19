@@ -63,7 +63,8 @@ install-hooks:
 	git config pull.ff only
 
 # Bring this checkout up to date with origin/main and tidy merged branches (GIT-LOCAL-SYNC-01).
-# Dry run: python3 tools/sync_local.py --dry-run. Also: --delete-merged, --no-fetch.
+# Dry run: python3 tools/sync_local.py --dry-run. Also: --delete-merged, --no-fetch, --bundle FILE.
+# When GitHub cannot be reached it falls back to _sync/origin.bundle (the one sync path; see GIT-LOCAL-SYNC-01).
 sync-local:
 	$(PYTHON) tools/sync_local.py --root .
 

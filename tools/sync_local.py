@@ -5,10 +5,19 @@
     python3 tools/sync_local.py --dry-run  # say what would happen, change nothing
     python3 tools/sync_local.py --delete-merged   # also delete every merged branch whose remote is gone
     python3 tools/sync_local.py --no-fetch # work from the refs already fetched (offline)
+    python3 tools/sync_local.py --bundle _sync/origin.bundle   # take origin's refs from a git bundle
+
+When the network fetch fails (the shell on the custodian's computer has had a proxy 403 from GitHub),
+it falls back to ``_sync/origin.bundle`` if that file exists: a Claude Code session writes it there
+(GIT-LOCAL-SYNC-01, *one sync path*). A bundle carries commits with their own hashes, so the result
+is the same as a fetch. Bundle mode does not prune, so cleanup of deleted remote branches waits for
+the next real fetch.
 
 What it does, in order:
 
-1. ``git fetch origin --prune`` (a public repository needs no login to fetch).
+1. ``git fetch origin --prune`` (a public repository needs no login to fetch), or, when that fails
+   or ``--bundle`` is given, a fetch of ``refs/remotes/origin/*`` and ``refs/heads/*`` from the bundle
+   into ``refs/remotes/origin/*``.
 2. Fast-forwards ``main`` to ``origin/main``. It never resets, never merges, and never moves ``main`` anywhere else.
 3. If the checkout is on a branch whose remote is gone and every commit on it is already in
    ``origin/main``, and tracked files are clean, it switches to ``main`` and deletes that branch.
@@ -61,14 +70,49 @@ def unmerged_commits(root: Path, branch: str, base: str = "origin/main") -> int:
     return sum(1 for line in out.splitlines() if line.startswith("+"))
 
 
-def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged: bool = False) -> list[str]:
+DEFAULT_BUNDLE = Path("_sync") / "origin.bundle"
+
+
+def fetch_bundle(root: Path, bundle: Path) -> tuple[bool, str]:
+    """Fetch origin's refs from a git bundle into ``refs/remotes/origin/*``. Returns (ok, message)."""
+    if not bundle.is_file():
+        return False, f"no bundle at {bundle}"
+    proc = git(root, "bundle", "verify", str(bundle))
+    if proc.returncode:
+        return False, f"bundle {bundle} cannot be used here: {(proc.stderr or proc.stdout).strip().splitlines()[-1]}"
+    heads = git(root, "bundle", "list-heads", str(bundle)).stdout.split()
+    refspecs = []
+    if any(r.startswith("refs/remotes/origin/") for r in heads):
+        refspecs.append("+refs/remotes/origin/*:refs/remotes/origin/*")
+    if any(r.startswith("refs/heads/") for r in heads):
+        refspecs.append("+refs/heads/*:refs/remotes/origin/*")
+    if not refspecs:
+        return False, f"bundle {bundle} holds no branch"
+    proc = git(root, "fetch", str(bundle), *refspecs)
+    if proc.returncode:
+        return False, f"fetch from bundle {bundle} failed: {(proc.stderr or proc.stdout).strip().splitlines()[-1]}"
+    return True, f"took origin's refs from bundle {bundle} (no network fetch)"
+
+
+def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged: bool = False,
+         bundle: Path | None = None) -> list[str]:
     say: list[str] = []
     if git(root, "rev-parse", "--git-dir").returncode:
         return [f"not a git checkout: {root}"]
-    if fetch:
+    if bundle is not None:
+        ok, msg = fetch_bundle(root, bundle if bundle.is_absolute() else root / bundle)
+        if not ok:
+            return [f"{msg}; nothing changed"]
+        say.append(msg)
+    elif fetch:
         proc = git(root, "fetch", "origin", "--prune")
         if proc.returncode:
-            return [f"fetch failed, nothing changed: {(proc.stderr or proc.stdout).strip().splitlines()[-1]}"]
+            err = (proc.stderr or proc.stdout).strip().splitlines()[-1]
+            ok, msg = fetch_bundle(root, root / DEFAULT_BUNDLE)
+            if not ok:
+                return [f"fetch failed, nothing changed: {err}",
+                        f"({msg}; a Claude Code session can write one there, see GIT-LOCAL-SYNC-01)"]
+            say.append(f"fetch failed ({err}); {msg}")
     if git(root, "rev-parse", "--verify", "-q", "origin/main").returncode:
         return ["no origin/main to sync with"]
     head = git(root, "rev-parse", "--short", "origin/main").stdout.strip()
@@ -138,10 +182,12 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--no-fetch", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--delete-merged", action="store_true", help="delete every merged branch whose remote is gone")
+    ap.add_argument("--bundle", type=Path, help="take origin's refs from this git bundle instead of the network")
     args = ap.parse_args(argv)
     root = Path(args.root).resolve()
     try:
-        lines = sync(root, fetch=not args.no_fetch, dry_run=args.dry_run, delete_merged=args.delete_merged)
+        lines = sync(root, fetch=not args.no_fetch, dry_run=args.dry_run, delete_merged=args.delete_merged,
+                     bundle=args.bundle)
     except RuntimeError as exc:
         print(f"sync-local stopped: {exc}", file=sys.stderr)
         return 1
