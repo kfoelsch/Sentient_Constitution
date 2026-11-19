@@ -157,7 +157,7 @@ def fetch_bundle(root: Path, bundle: Path) -> tuple[bool, str]:
         refspecs.append("+refs/heads/*:refs/remotes/origin/*")
     if not refspecs:
         return False, f"bundle {bundle} holds no branch"
-    proc = git(root, "fetch", str(bundle), *refspecs)
+    proc = git(root, "fetch", "--no-prune", str(bundle), *refspecs)
     if proc.returncode:
         return False, f"fetch from bundle {bundle} failed: {(proc.stderr or proc.stdout).strip().splitlines()[-1]}"
     return True, f"took origin's refs from bundle {bundle} (no network fetch)"

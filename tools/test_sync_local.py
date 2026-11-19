@@ -275,7 +275,10 @@ class SyncTests(unittest.TestCase):
             bundle = Path(tmp) / "origin.bundle"
             run(r.other, "bundle", "create", str(bundle), f"^{base}", "origin/main", "origin/work")
             run(r.local, "remote", "set-url", "origin", str(Path(tmp) / "unreachable.git"))
+            run(r.local, "config", "fetch.prune", "true")   # a bundle without main must not prune origin/main
+            run(r.other, "bundle", "create", str(bundle), f"^{base}", "origin/work")
             sl.sync(r.local, bundle=bundle)
+            self.assertTrue(run(r.local, "rev-parse", "origin/main"))
             self.assertEqual(run(r.local, "branch", "--show-current"), "work")
             self.assertTrue((r.local / "m1.txt").exists())
 
