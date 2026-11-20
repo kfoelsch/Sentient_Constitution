@@ -1016,11 +1016,11 @@ a system cannot be split into pieces so that each piece passes while the whole f
 
 [Source](../../core_03.000_definitions_home.md#316-no-fragmentation-of-compliance)
 
-#### 4. Dependent-Cluster Meta Rules
+#### 4. Dependent-Cluster Rules
 
 cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.
 
-[Source](../../core_03.000_definitions_home.md#4-dependent-cluster-meta-rules)
+[Source](../../core_03.000_definitions_home.md#4-dependent-cluster-rules)
 
 ##### 4.1 Joint Invocation and Satisfaction
 

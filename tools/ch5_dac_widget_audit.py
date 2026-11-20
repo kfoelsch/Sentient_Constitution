@@ -158,7 +158,7 @@ STRUCTURAL_HEADINGS: set[str] = {
     "3-independent-definitions",
     "3-interdependent-definitions",
     "31-invocation-satisfaction-and-compliance",
-    "4-dependent-cluster-meta-rules",
+    "4-dependent-cluster-rules",
     "41-joint-invocation-and-satisfaction",
     "42-standalone-definitions-interaction-and-full-context",
 }

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Three, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Three, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster rules, alphabetical directory, and the constitutional compass.
 
 </details>
 
@@ -92,7 +92,7 @@ Three rules keep every defined term in one place:
 
 Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, measurement, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
 
-Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 4 — Dependent-Cluster Meta Rules](#4-dependent-cluster-meta-rules)). [§3.1 Invocation, Satisfaction, and Compliance](#31-invocation-satisfaction-and-compliance) apply whenever an Independent Definition is invoked.
+Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 4 — Dependent-Cluster Rules](#4-dependent-cluster-rules)). [§3.1 Invocation, Satisfaction, and Compliance](#31-invocation-satisfaction-and-compliance) apply whenever an Independent Definition is invoked.
 
 <a id="31-invocation-satisfaction-and-compliance"></a>
 
@@ -154,7 +154,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 ---
 
 
-### 4. Dependent-Cluster Meta Rules
+### 4. Dependent-Cluster Rules
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
 
@@ -165,7 +165,14 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### 4.1 Joint Invocation and Satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-This is the cluster form of the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle). Cluster-local applications appear under **Anti-bypass** (not a second "joint invocation" header). Each lists the cluster's compartments and protected duties and ends with a cite to that principle. They must not reopen with `Under Joint invocation and satisfaction, …`.
+This is the cluster version of the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle): a requirement cannot be split into pieces so that only the convenient pieces are met.
+
+Each cluster shows how this applies to it in a short note labeled **Anti-bypass**. That note:
+- names the cluster's parts, called its *compartments*;
+- names the duties those parts protect; and
+- ends with a link back to the Anti-Segmentation Principle.
+
+The note does not repeat this rule, because this rule already applies to every cluster.
 
 <a id="42-standalone-definitions-interaction-and-full-context"></a>
 
@@ -241,7 +248,7 @@ The full definitions of the other bands and of the aim and leg heads are still i
 
 > This directory is **reader guidance only**. It does not add, remove, reorder, or narrow binding obligations in this chapter. Operative meaning remains in the definition entries below.
 
-This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Three definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 4 — Dependent-Cluster Meta Rules](#4-dependent-cluster-meta-rules) above.
+This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Three definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 4 — Dependent-Cluster Rules](#4-dependent-cluster-rules) above.
 
 <a id="independent-definitions-a-z"></a>
 <a id="semi-independent-definitions-a-z"></a>
