@@ -172,6 +172,6 @@ No body is listed yet.
 
 ---
 
-**Previous file:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)
+**Previous file:** [subcore_06.010_constitutional_lanes.md](subcore_06.010_constitutional_lanes.md)
 
 **Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)

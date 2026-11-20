@@ -508,6 +508,21 @@
       "pre_reorganization_2026_11_20": "08000"
     },
     {
+      "old_id": "CJS-3.125 §11 term",
+      "original_file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
+      "machine_id": "SUB-06010",
+      "display_id": "S6-A",
+      "layer": "SUBCORE",
+      "core_home": "06",
+      "title": "S6-A",
+      "destination_file": "subcore_06.010_constitutional_lanes.md",
+      "status": "active",
+      "machine_number": "06010",
+      "layer_digit": "0",
+      "ordinal_name": "S6-A",
+      "pre_subcore_2026_11_20": "CJS-03125"
+    },
+    {
       "old_id": "Chapter 8 §11",
       "original_file": "core_08.000_functional_independence_separation_of_duties.md",
       "machine_id": "07000",

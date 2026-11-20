@@ -40,6 +40,7 @@ CORE_CHAIN = (
     "subcore_03.095_band_performance.md",
     "core_05.000_charters.md",
     "core_06.000_functional_independence_separation_of_duties.md",
+    "subcore_06.010_constitutional_lanes.md",
     "core_07.000_independent_bodies.md",
     "core_08.000_system_alignment_certification_evaluation.md",
     "subcore_08.010_system_classification.md",

@@ -714,7 +714,7 @@ Those tools must keep the fields required by **section 6.1** separately visible 
   - [*Institutional Charter*](subcore_03.075_band_continuity.md#institutional-charter) (*published scope documents whose Charter Role Map names the record-opening authority and custodian for a chartered scope*);
   - [Chapter Five §6 *The Charter Role Map and Standing-Record Custody*](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) — the Standing-Record custody field;
-  - [**CJS-3.125 §11** *Constitutional lane and functional separation*](corpus_joint_structure/cjs_03.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
+  - [**Subcore 6-A §1** *Constitutional Lanes and Functional Separation*](subcore_06.010_constitutional_lanes.md#1-constitutional-lanes-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
   - **CI-6.205 §2** (*Functional separation lanes — published lane map, the fallback when a System Charter or Institutional Charter is silent*);
   - **CI-6.205 §3** (*authority chain and delegation controls*);
   - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
@@ -737,7 +737,7 @@ Those tools must keep the fields required by **section 6.1** separately visible 
 
 This applies [Chapter Six §3 *Four-Seat Constitutional Requirement*](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) to Standing Records. Four duties touch every Standing Record, and each is a separate seat on the same Standing Record:
 
-| Duty | What it is | Lane under [CJS-3.125 §11 *Constitutional lane and functional separation*](corpus_joint_structure/cjs_03.125_accountability_operations.md#constitutional-lane-and-functional-separation) |
+| Duty | What it is | Lane under [Subcore 6-A §1.1 Required Lanes](subcore_06.010_constitutional_lanes.md#11-required-lanes) |
 | --- | --- | --- |
 | **Request** | asking that a Standing Record be opened, corrected, expired, or superseded, including the subject's or a claimant's own request | execution, or the requesting party, who holds the initiating seat on its own request and needs no institution to do so |
 | **Verify** | establishing the factual basis under Subcores 3-A to 3-C to the **section 3.5** gate — the record-opening authority's act | assurance and audit |

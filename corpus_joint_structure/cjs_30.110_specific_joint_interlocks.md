@@ -227,7 +227,7 @@ This rule covers roles with materially binding effect where [**CS-8.305**](../co
 
 Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-3.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*), [Chapter Seventeen §3.2 Competency Bars and Clearances](../core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*), and any controlling standing lock under [Chapter Eighteen §3.2 Prevention — General Standing Locks](../core_18.000_violation_consequences.md#32-prevention--general-standing-locks) or [§4.5 Special Locks](../core_18.000_violation_consequences.md#45-special-locks).
 
-For **constitutional lane** and functional-separation meaning, apply **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) with **CI-6.205** (*Institutional design, separation of powers, and authority custody*).
+For **constitutional lane** and functional-separation meaning, apply [Subcore 6-A](../subcore_06.010_constitutional_lanes.md#subcore-6-a-constitutional-lanes) (*Constitutional Lanes*) with **CI-6.205** (*Institutional design, separation of powers, and authority custody*).
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 
