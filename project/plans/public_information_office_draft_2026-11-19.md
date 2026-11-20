@@ -34,11 +34,11 @@ against the live text; they will be rewritten when the chapter is placed.
 
 > This chapter would be **part of the Sentient Constitution** and **binding only together** with the other numbered `core_*` files read as one text.
 >
-> - **Constitutional owner:** the office that produces the public's shared statistics and indicators, including wellbeing and economic activity; runs research that forums request beyond a single case; and independently checks the Public Finance Office's figures. Also owned here: the bar on steering any of that work.
+> - **Constitutional owner:** the office that produces the public's shared statistics and indicators, including wellbeing and economic activity; runs research that forums request beyond a single case; rates the confidence of everything it publishes; and independently checks the Public Finance Office's figures. Also owned here: the bar on steering any of that work.
 > - **Not owned here:** case-specific forensic and analytical support (**CF-23.430**); forum records and Standing Records (registrars and [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened)); data types and handling (**CS-6.305**, **CS-6.310**); scientific publication duties of other institutions (**CI-6.270**).
 > - **Implementation owner:** a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
 >
-> Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 statistics and indicators → §5 forum-requested research → §6 methods and evidence → §7 information handling → §8 no steering → §9 records, audit, and challenge → §10 funding, reserve, and shortfalls → §11 scaling.
+> Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 statistics and indicators → §5 forum-requested research → §6 methods, evidence, and confidence → §7 information handling → §8 no steering → §9 records, audit, and challenge → §10 funding, reserve, and shortfalls → §11 scaling.
 
 </details>
 
@@ -65,9 +65,9 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 
 <br>
 
-*In plain terms: forums, governing bodies, and the public need numbers and research they can all trust. This chapter puts that work in one office that nobody can lean on.*
+*In plain terms: everyone who makes decisions, from forums and governing bodies to businesses and households, needs numbers and research that are as accurate and as current as possible, and honest about how sure they are. This chapter puts that work in one office that nobody can lean on.*
 
-**Purpose:** Chapter [I] gives forums, governing bodies, and the public a shared body of figures and research that none of them controls, produced by one independent office.
+**Purpose:** Chapter [I] provides the information that public and private decision-making relies on, as accurate and as timely as possible, with every figure and finding labeled by how confident the office is in it. That information is produced by one independent office that no decision-maker controls.
 
 **Role:** Chapter [I] is the constitutional owner of public statistics and forum-requested research. Where it sits:
 
@@ -79,6 +79,7 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 
 - produces and publishes public statistics and indicators, including wellbeing, survival-floor access, economic and business activity, and the performance of constitutional bodies;
 - runs intake, researcher selection, oversight, and publication for research that a forum requests;
+- rates every figure and finding it publishes on the confidence ladder in §6;
 - publishes an independent check of the Public Finance Office's ledger; and
 - keeps the methods, data, and correction history behind everything it publishes.
 
@@ -88,7 +89,7 @@ The chapter's sections cover:
 - the office's independence, appointment, and seats (**section 3**);
 - public statistics and indicators (**section 4**);
 - research requested by forums (**section 5**);
-- methods and evidence standards (**section 6**);
+- methods, evidence standards, and the confidence ladder (**section 6**);
 - information handling and privacy (**section 7**);
 - the bar on steering (**section 8**);
 - records, audit, and challenge (**section 9**);
@@ -125,11 +126,12 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 
 **Why this approach.** Statistical agencies have learned these lessons over time. The United Nations *Fundamental Principles of Official Statistics* (adopted by the General Assembly in 2014) call for official statistics to be produced on strictly professional grounds, with methods made public, and with individual data kept confidential and used only for statistics.
 
-The chapter turns those lessons into four design choices:
+The chapter turns those lessons into five design choices:
 
 - **Methods first:** methods are published before the numbers, so a method cannot be picked after the result is known.
 - **Equal release:** everyone gets a release at the same moment.
 - **Arm's-length research:** researchers are chosen by published criteria, not by the forum or the parties, and report to everyone at once.
+- **Confidence on every figure:** each figure and finding carries a rung on a published confidence ladder, so a user can tell a firm number from an early estimate.
 - **Separation from money:** the office is separate from the Public Finance Office, which cannot cut its funding, and it publishes an independent check of that office's ledger.
 
 **How it carries the Aims and the Tetrad.** Shared, trustworthy evidence lets the Constitution see whether sentients are flourishing and whether shared systems will last, which serves [the Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims). Within the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad):
@@ -165,7 +167,9 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 **Equal release.** Each release goes to everyone at the same published moment. No governing authority, forum, funder, or party gets the figures early, and no one may ask for a release to be moved because of what it shows.
 
-**Revisions.** Revisions and corrections are logged with their reasons. A figure is never silently replaced.
+**Timeliness.** Where waiting would leave decision-makers without information they need, the office publishes an early estimate at the rung it has earned under §6, rather than holding it back, and updates it as better evidence comes in. Speed never buys a higher rung: an early estimate says that it is early.
+
+**Revisions.** Revisions and corrections are logged with their reasons. A figure is never silently replaced, and a revision that changes its rung says so.
 
 ### 5. Research Requested by Forums
 
@@ -185,16 +189,37 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 **Shared questions.** Where several forums ask the same or overlapping questions, the office may combine the requests into one study, with the agreement of each requesting forum and a published record of the merger.
 
-### 6. Methods and Evidence Standards
+### 6. Methods, Evidence Standards, and the Confidence Ladder
 
-*In plain terms: anything the office publishes must be checkable by someone outside it.*
+*In plain terms: anything the office publishes must be checkable by someone outside it, and must say how sure the office is, on a fixed scale everyone can read.*
 
 Everything the office publishes carries:
 
-- its provenance, methods, and uncertainty;
+- its rung on the confidence ladder below, with the reason for that rung;
+- its provenance, methods, and uncertainty, given as a range wherever the figure is a number;
 - funding and conflict disclosures;
 - data or lawful access limits; and
 - a searchable record of corrections and retractions.
+
+**Confidence ladder.** Every figure and finding the office publishes is rated on this ladder, from highest to lowest:
+
+| Rung | Name | What it takes |
+|---|---|---|
+| 5 | **Established** | Independent methods or sources agree; the result has been replicated or has held across revisions; the method has passed independent audit. |
+| 4 | **Strong** | A published, audited method applied to good coverage of the data; small revisions are possible, but not a change of direction. |
+| 3 | **Moderate** | A published method, but with partial data, a model-based estimate, or known gaps; revisions are likely and may be material. |
+| 2 | **Preliminary** | An early estimate, a small or unverified sample, or a single source not yet checked; the figure may change a great deal. |
+| 1 | **Indicative** | A signal only: expert judgment, an untested model, or anecdotal reports. It should not be relied on alone for a decision. |
+
+**How rungs are given.**
+
+- **Independent rating:** the rung is set by the independent method reviewer in the check seat under §3, not by the team that produced the figure.
+- **Published criteria:** the corpus-institutions file sets the tests for each rung by type of figure. A rung may be given only when its tests are met, and the reason names the test.
+- **Weakest link:** a figure built from several inputs takes no higher rung than its weakest material input, unless the method shows why that input does not drive the result.
+- **No rating for convenience:** no one may raise a rung to make a figure more useful or lower one to make it easier to ignore. A change of rung is logged and published like any revision.
+- **Research findings:** findings from forum-requested research under §5 carry a rung on the same ladder, set by the office's method reviewer, not by the researchers.
+
+**The rung travels with the figure.** Anyone who republishes or relies on an official figure in a public decision states its rung. This chapter does not set what rung a forum or decision-maker needs. That is for the rules that govern each decision; this chapter makes sure the rung is always known.
 
 The office's publications meet [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
 
@@ -216,8 +241,9 @@ The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Arti
 
 - alter, suppress, delay, or time the release of a figure or finding because of what it shows;
 - reward or punish a researcher, methodologist, or official for a result;
-- tie the office's or a study's funding to a result; or
-- direct the office to measure or stop measuring an indicator without a published decision under §4.
+- tie the office's or a study's funding to a result;
+- direct the office to measure or stop measuring an indicator without a published decision under §4; or
+- press the office to raise or lower a confidence rung.
 
 The office must not advocate for a policy, a party, or an outcome. It may explain what its figures and findings show and what they do not.
 
@@ -229,7 +255,7 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 **Audit.** The office's methods and releases are reviewed by an independent method auditor on a published cadence. Its spending is audited with the Public Finance Office under that chapter's audit rule.
 
-**Challenge.** Any sentient affected by a release, a method, a researcher selection, or a refusal to publish may challenge it before an Integrity forum, or before a Technical Forum Domain where the dispute is purely about method. Where the forum that would hear the challenge requested the research at issue, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](../../core_24.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums).
+**Challenge.** Any sentient affected by a release, a method, a confidence rung, a researcher selection, or a refusal to publish may challenge it before an Integrity forum, or before a Technical Forum Domain where the dispute is purely about method. Where the forum that would hear the challenge requested the research at issue, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](../../core_24.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums).
 
 **Remedy.** A successful challenge leads to a published correction, a re-run, or new researcher selection, as fits. The original release stays visible with its correction.
 
