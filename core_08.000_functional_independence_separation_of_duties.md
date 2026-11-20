@@ -618,7 +618,7 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 
 <br>
 
-*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
+*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too, and it keeps a reserve so that a political fight over a budget cannot shut it down. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
 
 **Naming a body:** A body is an **Independent Body** when this Constitution, or designated implementation text, names it as one by citing this section. The designating text states what the body does. It may add stronger requirements. It may not narrow this section.
 
@@ -633,8 +633,15 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
   - **Own track:** its funding floor is set on its own published track, by a published formula tied to its duties, separate from the budgets of the bodies it serves, funds, checks, or measures;
   - **Not set by those it checks:** no body it funds, checks, measures, or decides about may set, reduce, delay, or condition its funding, and where two Independent Bodies check or fund each other, neither sets the other's floor;
   - **Cycle protection:** its floor may not be reduced during a funding cycle except under a published shortfall rule that applies to every funded body alike, and a change to the formula takes effect no earlier than the next cycle;
+  - **Reserve:** it has a reserve, held in an account in its name by the body itself or by the office that pays it, with a published target (by default, one quarter of its floor for a funding cycle). The reserve:
+    - may be drawn only to keep the body's floor paid during a shortfall, a sudden rise in its workload, or a late budget;
+    - may not be lent, pledged as security, used to reward or penalize anyone, or moved to any other purpose;
+    - is held in safe and readily available form, never in assets issued by anyone the body funds, checks, measures, or decides about;
+    - is restored after a draw before any increase above the floor; and
+    - has its balance, target, and every draw published.
+    Taking money from the reserve for any other purpose is interference under *Pattern evidence* below and an integrity trigger under **CI-8.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*);
   - **Funding integrity:** the funding-integrity floor of [Article XIII-D](core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) applies to whoever funds it, whether or not the body decides for others; and
-  - **Self-funded bodies:** a body paid from its own operating income under a published budget meets this requirement where no one may seize, redirect, or condition that income except by a published rule set in advance.
+  - **Self-funded bodies:** a body paid from its own operating income under a published budget meets this requirement where no one may seize, redirect, or condition that income except by a published rule set in advance. It builds its reserve from that income.
 - **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XIII-C](core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*).
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.

@@ -305,11 +305,13 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 
 ### 11. Reserve Fund
 
-*In plain terms: the office keeps money set aside for bad years, so a dip in revenue does not shut down the forums. The reserve can be spent only on keeping the machinery running, everyone can see the balance, and no one can raid it for something else.*
+*In plain terms: money is set aside for bad years, so a dip in revenue or a budget fight does not shut down the forums. Every independent body must have such a reserve under Chapter Eight; this office holds the reserves of the bodies it pays, and adds the rules below.*
 
-**The fund.** The office keeps a **reserve fund**, held in its own ledger account, separate from the §4 floors, the §6 research reserve, and the §7 programs.
+**General rule.** The *Reserve* requirement of *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies to every Independent Body this office pays. This section applies it to them, and extends the same protection to every other forum, remedy system, and body with a §4 floor.
 
-**Target size.** The fund has a published target, worked out under the formula in §4. The default target is one quarter of the sum of the floors for a cycle. The governing authority may set a higher target, and may set a lower one only with published reasons that an independent check seat reviews.
+**The fund.** The office keeps a **reserve fund** that holds the reserve of each body it pays, in its own ledger account, separate from the §4 floors, the §6 research reserve, and the §7 programs. Each body's share is shown in the §8 ledger, and a body's share is drawn only for that body.
+
+**Target size.** Each body's share has a published target, worked out under the formula in §4. The default target is one quarter of the body's floor for a cycle, as Chapter Eight §11 sets. The governing authority may set a higher target, and may set a lower one only with published reasons that an independent check seat reviews.
 
 **Building and keeping it.** The office sets aside a published share of revenue each cycle until the fund reaches its target. Money left unspent at the end of a cycle goes to the fund first. Once the fund is at its target, any surplus may return to general revenue only by a published act at the end of a cycle.
 
