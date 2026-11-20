@@ -1469,7 +1469,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether materially relevant evidence remains secured and reviewably available for audit, contest, remedy, and standing measurement.
 
-    **Primary assessment:** Preservation must be prompt, meaning inside the **intake target** of the matching tier once a matter is open ([CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)), sized to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. Once a material constitutional issue is reasonably known or should be known, it includes preventing:
+    **Primary assessment:** Preservation must be prompt, meaning inside the **intake target** of the matching tier once a matter is open ([CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)), sized to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. Once a material constitutional issue is reasonably known or should be known, it includes preventing:
     - deletion;
     - alteration;
     - selective retention;

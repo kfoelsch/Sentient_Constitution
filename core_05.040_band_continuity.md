@@ -1017,7 +1017,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
+- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
 - Cluster component: none.
 - Read with:
   - [Materiality Tier](core_05.040_band_continuity.md#materiality-tier), and
@@ -1033,7 +1033,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** The stage target for forum access and intake acknowledgment in the materiality tier a matter is placed in. Evidence preservation starts inside it, and a **prompt review** must begin no later than the intake target of the matching tier.
   - **Out of scope:**
     - the later stage targets and the integrated resolution outer bound of the tier; or
-    - the figures themselves, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    - the figures themselves, which [CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Materiality Tier](core_05.040_band_continuity.md#materiality-tier).
   - The rule is stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Five meaning only.
@@ -1144,7 +1144,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
+- Canonical owner: [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
 - Cluster component: none.
 - Read with:
   - [Materiality](core_05.050_band_oversight.md#materiality),
@@ -1161,7 +1161,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** One of the five tiers, A, B, C, L, and P, into which a material dispute or certification matter is classified under [Materiality](core_05.050_band_oversight.md#materiality), mirroring the System and Institution class alphabet. The tier sets the matter's stage targets and integrated resolution outer bound; a certification matter's tier presumptively matches its class.
   - **Out of scope:**
     - the System or Institution class itself, which has its own home; or
-    - the figures for each tier, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    - the figures for each tier, which [CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Materiality](core_05.050_band_oversight.md#materiality).
   - The tiers are stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Five meaning only.

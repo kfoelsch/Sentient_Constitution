@@ -865,7 +865,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - **Out of scope:**
     - disputes about the merits of a matter, which run on the materiality tier of the matter;
     - a breakdown for which a more specific rule sets its own window; or
-    - the figures themselves, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    - the figures themselves, which [CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Timely Resolution](core_05.035_band_accountability.md#timely-resolution); [Materiality Tier](core_05.040_band_continuity.md#materiality-tier).
   - The rule is stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#class-repair-window); this entry is the Chapter Five meaning only.
@@ -2377,7 +2377,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - **Out of scope:** A general help desk, intake channel, or complaint log that cannot review, preserve, mark, correct, limit, or route the challenged act. The seat does not gain authority over issues assigned to another forum or decision-maker.
 <a id="contest-seat-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
 
     **Primary assessment:** Identify the published challenge path, holder, authority, clock, available corrective or limiting action, and required routing. Test whether the holder is independent of the challenged verification and outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of any materially interested party.
   - **Secondary measure:** [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures for access, fairness, evidence integrity, and reconstructability.

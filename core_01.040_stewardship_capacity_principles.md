@@ -432,7 +432,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (inspection and independent verification), **accountability** leg (
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action): answerability traced to the act), and **timeliness** leg (no avoidable delay);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Downstream: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract*); [CF-23.445 §3.2 Publication Timeliness](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-32-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
+- Downstream: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract*); [CF-23.445 §5.2 Publication Timeliness](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-52-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVII: Audit, Transparency, and Independent Verification](core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 
 </details>
 

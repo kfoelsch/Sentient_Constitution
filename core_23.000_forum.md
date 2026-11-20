@@ -377,7 +377,7 @@ Two rules keep routing honest:
 
 Operational requirements — including **published intake classes**, attributable intake records, independence and **contest** expectations, and review of **contested** routing inside the **intake target** — are stated in **CF-23.415** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*).
 
-**Initial access** to each forum family must come inside the **intake target** of the matching tier ([CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) and be contestable enough that:
+**Initial access** to each forum family must come inside the **intake target** of the matching tier ([CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) and be contestable enough that:
 - primary-stakes routing under this section remains meaningful;
 - transfer, consolidation, certification, and backup discipline under **section 5** and **Chapter Twenty-Four section 3** are not nullified by delay or by opaque threshold sorting.
 
