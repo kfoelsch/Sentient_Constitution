@@ -99,7 +99,14 @@ Independent and Semi-independent definitions do not require joint satisfaction w
 #### 3.1 Invocation, Satisfaction, and Compliance
 *In plain terms: when an independent definition applies, it must be met in full — no picking the convenient pieces.*
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Subcore 3-C, section 3 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Subcore 3-C, section 3 — Definition Traceability Requirement). Those mappings must include each definition's:
+
+- Ontological (O) component;
+- Measurement (M) component;
+- Assessment (A) component; and
+- Compliance (C) component.
+
+Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
 When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Subcore 3-A §2 (*Definition Components and Joint Satisfaction*)). Partial satisfaction or selective application is non-compliant.
 
