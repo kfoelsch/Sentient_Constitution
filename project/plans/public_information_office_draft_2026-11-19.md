@@ -262,13 +262,12 @@ Every figure and finding the office publishes is rated on a ladder of nine rungs
 
 ### 7. Information Handling and Privacy
 
-*In plain terms: the office handles more personal data than almost anyone, so it publishes patterns, not people.*
+*In plain terms: the office handles more personal data than almost anyone. The general privacy rule for every independent body lives in Chapter Eight; this section adds what is special to statistics and research.*
 
-The office handles each data type under **CS-6.305** and **CS-6.310**. In addition:
+**General rule.** The office meets *Information handling and privacy* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition:
 
-- data collected for statistics or research is used only for statistics or research, and is never released in a form that identifies a sentient without that sentient's consent or a lawful exception;
-- no statistical record may be used as evidence against the sentient it describes; and
-- where data cannot be public, a qualified independent audit path must still exist, and the office publishes that the data was withheld and why.
+- data collected for statistics or research is used only for statistics or research, never for any other duty of the office or of anyone else; and
+- no statistical record may be used as evidence against any sentient it describes, whoever gave the data.
 
 ### 8. No Steering
 
