@@ -157,7 +157,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 
 **How it runs.**
 
-1. **Draft first (step 3a).** Draft the twenty-four new §2 sections and the seven Grounded in lists in one working file under `project/plans/`, for the custodian's review before anything is inserted. Each §2 is short, written to be read, and draws its *why* from the chapter's existing §1, plain-terms lines, and Trace widget.
+1. **Draft first (step 3a; drafted 2026-11-20 in [section_2_drafts_2026-11-20.md](section_2_drafts_2026-11-20.md), which proposes exempting Chapter One, leaving twenty-three).** Draft the twenty-four new §2 sections and the seven Grounded in lists in one working file under `project/plans/`, for the custodian's review before anything is inserted. Each §2 is short, written to be read, and draws its *why* from the chapter's existing §1, plain-terms lines, and Trace widget.
 2. **New chapters are born with it.** The *Constitutional Map* and *Independent Bodies* chapters get their §2 in step 3. The Preamble is not a chapter and keeps its own shape.
 3. **Insert in the renumbering pass (step 4)**, with the old section anchors kept so links outside the corpus still land.
 4. **Audit after the pass.** Add the CHAPTER-S2-WHY audit (the *why* heading and the bulleted Grounded in list in every core chapter lead file) once every chapter passes, so later moves cannot regress.
