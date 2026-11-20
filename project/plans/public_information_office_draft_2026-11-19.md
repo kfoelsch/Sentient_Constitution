@@ -193,15 +193,25 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: anything the office publishes must be checkable by someone outside it, and must say how sure the office is, on a fixed nine-step scale everyone can read. To climb the scale, a result needs more independent confirmation, better studies, and stronger statistics, all three at once.*
 
+#### 6.1 What Every Publication Carries
+
+*In plain terms: every figure comes with its rung, where it came from, how it was made, and who paid for it.*
+
 Everything the office publishes carries:
 
-- its rung on the confidence ladder below, with the reason for that rung;
+- its rung on the confidence ladder in §6.2, with the reason for that rung;
 - its provenance, methods, and uncertainty, given as a range wherever the figure is a number;
 - funding and conflict disclosures;
 - data or lawful access limits; and
 - a searchable record of corrections and retractions.
 
-**Confidence ladder.** Every figure and finding the office publishes is rated on a ladder of nine rungs, numbered from 1 (weakest) to 9 (strongest), the same shape as the nine slots of the standing scale in [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). A rung measures three things, and the evidence must get stronger on all three as it climbs:
+The office's publications meet [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
+
+#### 6.2 The Confidence Ladder
+
+*In plain terms: nine rungs, from a single anecdote to a result that many independent lines of evidence have confirmed for years. Each rung asks for more confirmation, better studies, and stronger statistics than the one below.*
+
+Every figure and finding the office publishes is rated on a ladder of nine rungs, numbered from 1 (weakest) to 9 (strongest), the same shape as the nine slots of the standing scale in [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). A rung measures three things, and the evidence must get stronger on all three as it climbs:
 
 - **Confirmation:** how many independent studies, sources, or methods reach the same result;
 - **Quality:** how well those studies or sources are designed, carried out, and checked; and
@@ -219,19 +229,28 @@ Everything the office publishes carries:
 | 8 | **Robust** | At least five independent studies, using different methods or populations, agree in a systematic review or meta-analysis; the result has held across revisions. | High-quality designs dominate, and the review found no material bias. | Combined p < 0.0001; the size of the effect is stable as evidence is added. |
 | 9 | **Established** | Several independent lines of evidence, from different methods and fields, converge, and the result has held over many years and many tests. | As for rung 8, with each line of evidence independently audited. | At least five-sigma strength (about p < 3 × 10⁻⁷) or the field's equivalent, and no credible contrary evidence. |
 
-**Reading the three tests.**
+#### 6.3 Reading the Three Tests
+
+*In plain terms: a result needs all three tests to reach a rung, the confirming studies must really be independent, statistics must be reported honestly, and unexplained contrary evidence holds a result down.*
 
 - **All three must be met:** a figure or finding takes the highest rung whose three tests it meets in full. A result that is highly significant in one small, unreplicated study stays low; many weak studies that agree do not reach a high rung either.
 - **Independence:** studies or sources count as independent only when different teams produced them from different data, and no team is funded by, employed by, or otherwise tied to a party with a [material stake](../../core_00.000_preamble.md#material-stake) in the result. A new analysis of the same data is a check, not a confirmation.
 - **Honest significance:** significance is adjusted for the number of tests run, and is reported with the size of the effect and its uncertainty range, never alone. A result found only after searching many comparisons, or whose analysis was not set in advance, is held at rung 4 or below until it is confirmed by a study designed to test it.
 - **Contrary evidence:** an unexplained contrary result of similar quality holds a finding at rung 5 or below until it is explained or outweighed under the tests above.
+- **Field equivalents:** the significance thresholds in the table are defaults. Where a field measures strength in another way, such as Bayes factors or interval widths, or where a field's own standard differs, the corpus-institutions file publishes the equivalent for each rung. It may tune a threshold to the field, so long as each rung asks for evidence of equal strength in that field and the rungs stay in order; it may not lower a rung's bar to fit a result already in hand.
+
+#### 6.4 Special Kinds of Evidence
+
+*In plain terms: the same ladder rates findings that something has no effect, forecasts, research in fields that cannot run experiments, and official statistics, each with tests that fit it.*
+
 - **Findings of no effect:** a finding that an effect is absent, or too small to matter, climbs the same ladder. A result that is merely not significant counts as no evidence either way. To rank as a finding of no effect, the study must state in advance the smallest effect that would matter, and its uncertainty range must rule that effect out: by an equivalence test or a comparable method at the strength the rung requires. Confirmation and quality are tested in the same way as for any other finding.
 - **Forecasts and projections:** a forecast cannot be confirmed by repeating it, so its rung comes from its record. The office publishes each forecasting method's past forecasts beside what then happened, and the method's rung rests on that record: how many forecasts it has made, how often reality fell inside its stated range, and how it compares with a simple benchmark, such as assuming no change. A new method with no record starts no higher than rung 3, whatever its sophistication. Every forecast states its range and the assumptions it depends on.
 - **Fields without experiments:** where a controlled or pre-registered study is impossible or would be unethical, a strong observational design counts as a strong design for every rung. Examples are a natural experiment, a well-specified comparison across places or periods, or several independent data sets that rule out the main alternative explanations. The method reviewer states which alternatives were ruled out and how.
 - **Figures that are not studies:** for official statistics, a confirmation is an independent source or method that measures the same quantity, quality is the coverage and audit of the collection, and statistical strength is the width of the uncertainty range relative to the figure (or, for a full count, the audited error rate). The corpus-institutions file sets these equivalents for each type of figure, and they may be no looser than the tests in the table.
-- **Field equivalents:** the significance thresholds in the table are defaults. Where a field measures strength in another way, such as Bayes factors or interval widths, or where a field's own standard differs, the corpus-institutions file publishes the equivalent for each rung. It may tune a threshold to the field, so long as each rung asks for evidence of equal strength in that field and the rungs stay in order; it may not lower a rung's bar to fit a result already in hand.
 
-**How rungs are given.**
+#### 6.5 How Rungs Are Given and Used
+
+*In plain terms: an independent reviewer sets the rung by published tests, no one may move it for convenience, and anyone who relies on a figure in a public decision must state its rung.*
 
 - **Independent rating:** the rung is set by the independent method reviewer in the check seat under §3, not by the team that produced the figure.
 - **Published criteria:** the corpus-institutions file sets the tests for each rung by type of figure. A rung may be given only when its tests are met, and the reason names the test.
@@ -240,8 +259,6 @@ Everything the office publishes carries:
 - **Research findings:** findings from forum-requested research under §5 carry a rung on the same ladder, set by the office's method reviewer, not by the researchers.
 
 **The rung travels with the figure.** Anyone who republishes or relies on an official figure in a public decision states its rung. This chapter does not set what rung a forum or decision-maker needs. That is for the rules that govern each decision; this chapter makes sure the rung is always known.
-
-The office's publications meet [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
 
 ### 7. Information Handling and Privacy
 
