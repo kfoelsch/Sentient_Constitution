@@ -657,14 +657,45 @@ A dependent cluster adds a head before its members. The head says when the clust
 *In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution. Whether a requirement was met is judged on checkable evidence of what the act does, not on its own label or paperwork.*
 
 - **What it is**
-  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner (including a supplier, partner, or other system that performs or bears the act), forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Whether a requirement was met is judged on what the act substantively is and does, shown by evidence that can be checked, not on the actor's own label, self-report, or paperwork. Emergency designation, Adoption Transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, efficiency, cost, innovation, or scale justification, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_03.035_band_accountability.md#contestability), [Auditability](core_03.050_band_oversight.md#auditability), [Accountability](core_03.005_apex_accountability_leg.md#accountability), or functional independence and separation of duties.
+  - **In scope:** A constitutional requirement attaches to the substantive act.
+    - **No escape by repackaging:** The requirement cannot be avoided by changing any of these for the same act:
+      - its label;
+      - its route;
+      - its owner, including a supplier, partner, or other system that performs or bears the act;
+      - its forum;
+      - its document; or
+      - its timing.
+      Packaging the act as a special process does not skip it either.
+    - **Judged on substance:** Whether a requirement was met is judged on what the act substantively is and does, shown by evidence that can be checked, not on the actor's own label, self-report, or paperwork.
+    - **Special framings:** The following framings, and comparable ones, are allowed only if the step itself follows this Constitution:
+      - emergency designation;
+      - Adoption Transition planning;
+      - implementation detail;
+      - custody transfer;
+      - certification;
+      - contract;
+      - standing consequence;
+      - institutional restructuring;
+      - efficiency, cost, innovation, or scale justification; and
+      - administrative convenience.
+    - **What they may never bypass:** No framing may be used to bypass:
+      - Rights-Floor minimums;
+      - the rules for lawfully changing the Constitution;
+      - [Contestability](core_03.035_band_accountability.md#contestability);
+      - [Auditability](core_03.050_band_oversight.md#auditability);
+      - [Accountability](core_03.005_apex_accountability_leg.md#accountability); or
+      - functional independence and separation of duties.
   - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
 
     **Primary assessment:** Compare the act as framed with the act as it substantively is. A requirement counts as bypassed if it would have applied under the plain framing and does not apply under the chosen one, with no change in what the act does.
 - **What must hold**
-  - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant, as is accepting the actor's own label, self-report, or paperwork as proof that a requirement was met.
+  - **Primary failure:** Any of these is non-compliant:
+    - avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act;
+    - using an allowed framing whose own step does not follow this Constitution;
+    - a no-bypass statement or review step that leaves the act's actual treatment unchanged; or
+    - accepting the actor's own label, self-report, or paperwork as proof that a requirement was met.
 <!-- ch3-example:end -->
 
 <a id="72-a-dependent-cluster-binding-stakeholder-choice"></a>
@@ -711,7 +742,15 @@ A dependent cluster adds a head before its members. The head says when the clust
 
 *In plain terms: when sentients who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.*
 
-**Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where who may take part, how they are represented, how much influence they get, rights-affecting outcomes, or rights-collision records are at issue. Outside that cluster's scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
+**Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where any of these is at issue:
+
+- who may take part;
+- how they are represented;
+- how much influence they get;
+- rights-affecting outcomes; or
+- rights-collision records.
+
+Outside that cluster's scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
 
 Where admission scope is met, this cluster is the place those rules live together inside the **Stakeholder System Participation** layer. It covers:
 
@@ -719,9 +758,26 @@ Where admission scope is met, this cluster is the place those rules live togethe
 - **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
 - **what the Stakeholder Rights-Collision Record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
 
-It does not replace [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+It does not replace:
 
-**System Charter and Institutional Charter relationship.** A governing [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry the decision sequence, weighting model, or rights-collision record. For institutions, those [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) ordinarily resolve to **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials and the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file (**CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 9). Dead Charter Pointers, or System Charter or Institutional Charter text offered as a substitute for those rules, fail both the System Charter or Institutional Charter duty and this cluster.
+- [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
+- equal-weight authorization rules under **[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**; or
+- emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
+
+When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+
+**System Charter and Institutional Charter relationship:**
+
+- **The System Charter or Institutional Charter points to the rules:** A governing [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry:
+  - the decision sequence;
+  - the weighting model; or
+  - the rights-collision record.
+- **Where the pointers lead for institutions:** Those [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) ordinarily resolve to:
+  - the **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials; and
+  - the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file (**CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 9).
+- **Failure:** Either of these fails both the System Charter or Institutional Charter duty and this cluster:
+  - dead Charter Pointers; or
+  - System Charter or Institutional Charter text offered as a substitute for those rules.
 
 **Cluster members.** This cluster comprises:
 
@@ -838,7 +894,12 @@ See **Anti-Segmentation Principle**.
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
     - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
-  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
+  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements, and do not narrow them:
+    - rights in tension → the operative rule and triggering facts;
+    - feasible alternatives → alternatives considered;
+    - least-restrictive rationale and accepted trade-offs → the basis for selection;
+    - uncertainty treatment → evidence and uncertainty; and
+    - review or reversal triggers → review triggers.
   - **Out of scope:**
     - ordinary meeting minutes; or
     - the Chapter Two rights-collision procedure itself when no binding stakeholder choice turns on the conflict.

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T17:34:03+00:00",
+  "generated_at": "2026-11-20T17:45:32+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -194,9 +194,9 @@
       ]
     },
     "core_03.000_definitions_home.md": {
-      "total_lines": 869,
+      "total_lines": 930,
       "sections": [
-        {"header":"CHAPTER THREE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":869,"anchor":"#chapter-three-foundational-definitions"},
+        {"header":"CHAPTER THREE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":930,"anchor":"#chapter-three-foundational-definitions"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":23,"line_end":60,"anchor":null},
         {"header":"2. Why Definitions Have One Home","level":3,"line_start":61,"line_end":88,"anchor":"#2-why-definitions-have-one-home"},
         {"header":"3. Independent Definitions","level":3,"line_start":89,"line_end":156,"anchor":"#3-independent-definitions"},
@@ -214,14 +214,14 @@
         {"header":"6. Compass and Definition Map","level":3,"line_start":197,"line_end":613,"anchor":"#6-compass-and-definition-map"},
         {"header":"Definitions A-Z","level":4,"line_start":264,"line_end":588,"anchor":"#definitions-a-z"},
         {"header":"Clusters A-Z","level":4,"line_start":589,"line_end":613,"anchor":"#clusters-a-z"},
-        {"header":"7. Two Complete Definitions","level":3,"line_start":614,"line_end":869,"anchor":"#7-two-complete-definitions"},
-        {"header":"7.1 An Independent Definition: No-Bypass","level":4,"line_start":633,"line_end":670,"anchor":"#71-an-independent-definition-no-bypass"},
-        {"header":"No-Bypass","level":5,"line_start":641,"line_end":670,"anchor":null},
-        {"header":"7.2 A Dependent Cluster: Binding Stakeholder Choice","level":4,"line_start":671,"line_end":869,"anchor":"#72-a-dependent-cluster-binding-stakeholder-choice"},
-        {"header":"Def.P2 Binding Stakeholder Choice","level":5,"line_start":679,"line_end":869,"anchor":null},
-        {"header":"Binding Stakeholder Choice — Decision-Resolution Requirements","level":6,"line_start":743,"line_end":794,"anchor":null},
-        {"header":"Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)","level":6,"line_start":795,"line_end":828,"anchor":null},
-        {"header":"Stakeholder Rights-Collision Record (Binding Stakeholder Choice)","level":6,"line_start":829,"line_end":869,"anchor":null}
+        {"header":"7. Two Complete Definitions","level":3,"line_start":614,"line_end":930,"anchor":"#7-two-complete-definitions"},
+        {"header":"7.1 An Independent Definition: No-Bypass","level":4,"line_start":633,"line_end":701,"anchor":"#71-an-independent-definition-no-bypass"},
+        {"header":"No-Bypass","level":5,"line_start":641,"line_end":701,"anchor":null},
+        {"header":"7.2 A Dependent Cluster: Binding Stakeholder Choice","level":4,"line_start":702,"line_end":930,"anchor":"#72-a-dependent-cluster-binding-stakeholder-choice"},
+        {"header":"Def.P2 Binding Stakeholder Choice","level":5,"line_start":710,"line_end":930,"anchor":null},
+        {"header":"Binding Stakeholder Choice — Decision-Resolution Requirements","level":6,"line_start":799,"line_end":850,"anchor":null},
+        {"header":"Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)","level":6,"line_start":851,"line_end":884,"anchor":null},
+        {"header":"Stakeholder Rights-Collision Record (Binding Stakeholder Choice)","level":6,"line_start":885,"line_end":930,"anchor":null}
       ]
     },
     "core_03.005_apex_accountability_leg.md": {
@@ -565,9 +565,9 @@
       ]
     },
     "core_03.055_band_participation.md": {
-      "total_lines": 3991,
+      "total_lines": 4021,
       "sections": [
-        {"header":"Participation Constitutional Definitions","level":1,"line_start":1,"line_end":3991,"anchor":null},
+        {"header":"Participation Constitutional Definitions","level":1,"line_start":1,"line_end":4021,"anchor":null},
         {"header":"Participation: Independent Terms","level":3,"line_start":33,"line_end":491,"anchor":"#participation-independent-terms"},
         {"header":"Accessibility","level":4,"line_start":41,"line_end":113,"anchor":"#accessibility-constitutional"},
         {"header":"Constitutional Community","level":4,"line_start":114,"line_end":142,"anchor":"#constitutional-community"},
@@ -612,7 +612,7 @@
         {"header":"Movement and Relocation","level":4,"line_start":2198,"line_end":2276,"anchor":"#movement-and-relocation-constitutional"},
         {"header":"Refuge from Non-Compliance","level":4,"line_start":2277,"line_end":2345,"anchor":"#refuge-from-non-compliance-constitutional"},
         {"header":"Non-Statelessness","level":4,"line_start":2346,"line_end":2417,"anchor":"#non-statelessness-constitutional"},
-        {"header":"Participation: Dependent Clusters","level":3,"line_start":2418,"line_end":3991,"anchor":"#non-statelessness-constitutional-c"},
+        {"header":"Participation: Dependent Clusters","level":3,"line_start":2418,"line_end":4021,"anchor":"#non-statelessness-constitutional-c"},
         {"header":"Def.P1 Animal Life, Sentient Life, and Sentience Status","level":4,"line_start":2424,"line_end":3225,"anchor":"#animal-life-sentient-life-and-sentience-status-cluster"},
         {"header":"Substrate Class","level":5,"line_start":2540,"line_end":2586,"anchor":"#substrate-agnostic"},
         {"header":"Sentience Non-Exclusion","level":5,"line_start":2587,"line_end":2652,"anchor":"#sentience-non-exclusion"},
@@ -623,20 +623,20 @@
         {"header":"Sentient","level":5,"line_start":2944,"line_end":3039,"anchor":"#sentient"},
         {"header":"Sentience Status Adjudication","level":5,"line_start":3040,"line_end":3135,"anchor":"#sentience-status-adjudication-constitutional"},
         {"header":"Sentience-Status Adjudication Record","level":5,"line_start":3136,"line_end":3225,"anchor":"#sentience-status-adjudication-record-constitutional"},
-        {"header":"Def.P2 Binding Stakeholder Choice","level":4,"line_start":3226,"line_end":3423,"anchor":"#binding-stakeholder-choice-cluster"},
-        {"header":"Binding Stakeholder Choice — Decision-Resolution Requirements","level":5,"line_start":3293,"line_end":3348,"anchor":"#binding-stakeholder-choice-decision-resolution-requirements"},
-        {"header":"Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)","level":5,"line_start":3349,"line_end":3385,"anchor":"#stakeholder-representation-and-weight-limits-binding-stakeholder-choice"},
-        {"header":"Stakeholder Rights-Collision Record (Binding Stakeholder Choice)","level":5,"line_start":3386,"line_end":3423,"anchor":"#stakeholder-rights-collision-record-binding-stakeholder-choice"},
-        {"header":"Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity","level":4,"line_start":3424,"line_end":3789,"anchor":"#self-determination-and-meaningful-agency-cluster"},
-        {"header":"Self-Determination","level":5,"line_start":3467,"line_end":3513,"anchor":"#self-determination-constitutional"},
-        {"header":"Expression","level":5,"line_start":3514,"line_end":3610,"anchor":"#expression-constitutional"},
-        {"header":"Hard Content","level":5,"line_start":3611,"line_end":3664,"anchor":"#hard-content"},
-        {"header":"Educational Agency","level":5,"line_start":3665,"line_end":3725,"anchor":"#educational-agency"},
-        {"header":"Volitional Integrity","level":5,"line_start":3726,"line_end":3789,"anchor":"#volitional-integrity"},
-        {"header":"Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability","level":4,"line_start":3790,"line_end":3991,"anchor":"#developing-sentient-best-interest-and-graduated-capability-cluster"},
-        {"header":"Developing Sentient","level":5,"line_start":3842,"line_end":3887,"anchor":"#developing-sentient-constitutional"},
-        {"header":"Best-Interest Standard","level":5,"line_start":3888,"line_end":3939,"anchor":"#best-interest-standard-constitutional"},
-        {"header":"Graduated Capability","level":5,"line_start":3940,"line_end":3991,"anchor":"#graduated-capability-constitutional"}
+        {"header":"Def.P2 Binding Stakeholder Choice","level":4,"line_start":3226,"line_end":3453,"anchor":"#binding-stakeholder-choice-cluster"},
+        {"header":"Binding Stakeholder Choice — Decision-Resolution Requirements","level":5,"line_start":3318,"line_end":3373,"anchor":"#binding-stakeholder-choice-decision-resolution-requirements"},
+        {"header":"Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)","level":5,"line_start":3374,"line_end":3410,"anchor":"#stakeholder-representation-and-weight-limits-binding-stakeholder-choice"},
+        {"header":"Stakeholder Rights-Collision Record (Binding Stakeholder Choice)","level":5,"line_start":3411,"line_end":3453,"anchor":"#stakeholder-rights-collision-record-binding-stakeholder-choice"},
+        {"header":"Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity","level":4,"line_start":3454,"line_end":3819,"anchor":"#self-determination-and-meaningful-agency-cluster"},
+        {"header":"Self-Determination","level":5,"line_start":3497,"line_end":3543,"anchor":"#self-determination-constitutional"},
+        {"header":"Expression","level":5,"line_start":3544,"line_end":3640,"anchor":"#expression-constitutional"},
+        {"header":"Hard Content","level":5,"line_start":3641,"line_end":3694,"anchor":"#hard-content"},
+        {"header":"Educational Agency","level":5,"line_start":3695,"line_end":3755,"anchor":"#educational-agency"},
+        {"header":"Volitional Integrity","level":5,"line_start":3756,"line_end":3819,"anchor":"#volitional-integrity"},
+        {"header":"Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability","level":4,"line_start":3820,"line_end":4021,"anchor":"#developing-sentient-best-interest-and-graduated-capability-cluster"},
+        {"header":"Developing Sentient","level":5,"line_start":3872,"line_end":3917,"anchor":"#developing-sentient-constitutional"},
+        {"header":"Best-Interest Standard","level":5,"line_start":3918,"line_end":3969,"anchor":"#best-interest-standard-constitutional"},
+        {"header":"Graduated Capability","level":5,"line_start":3970,"line_end":4021,"anchor":"#graduated-capability-constitutional"}
       ]
     },
     "core_03.060_band_performance.md": {
@@ -1706,35 +1706,35 @@
       ]
     },
     "subcore_03.045_band_integrative.md": {
-      "total_lines": 1302,
+      "total_lines": 1333,
       "sections": [
-        {"header":"SUBCORE 3-D: INTEGRATIVE DEFINITIONS","level":1,"line_start":2,"line_end":1302,"anchor":"#subcore-3-d-integrative-definitions"},
-        {"header":"Integrative: Independent Terms","level":3,"line_start":40,"line_end":646,"anchor":"#non-compliance"},
+        {"header":"SUBCORE 3-D: INTEGRATIVE DEFINITIONS","level":1,"line_start":2,"line_end":1333,"anchor":"#subcore-3-d-integrative-definitions"},
+        {"header":"Integrative: Independent Terms","level":3,"line_start":40,"line_end":677,"anchor":"#non-compliance"},
         {"header":"Non-Compliance","level":4,"line_start":44,"line_end":96,"anchor":null},
         {"header":"Constitutional Contract Layer","level":4,"line_start":97,"line_end":157,"anchor":"#constitutional-contract-layer"},
         {"header":"Foundational Constitutional Choice","level":4,"line_start":158,"line_end":216,"anchor":"#foundational-constitutional-choice"},
         {"header":"Documented Legitimacy Mechanism","level":4,"line_start":217,"line_end":274,"anchor":"#documented-legitimacy-mechanism"},
         {"header":"Innovation Reward and Anti-Enclosure","level":4,"line_start":275,"line_end":368,"anchor":"#innovation-reward-and-anti-enclosure"},
-        {"header":"No-Bypass","level":4,"line_start":369,"line_end":402,"anchor":"#no-bypass"},
-        {"header":"Constitutional Collision","level":4,"line_start":403,"line_end":465,"anchor":"#constitutional-collision"},
-        {"header":"Constitutional Collision Record","level":4,"line_start":466,"line_end":523,"anchor":"#constitutional-collision-record"},
-        {"header":"Derived Information","level":4,"line_start":524,"line_end":572,"anchor":"#derived-information"},
-        {"header":"Abstract Strictness","level":4,"line_start":573,"line_end":608,"anchor":"#abstract-strictness"},
-        {"header":"Fullest Protective Effect","level":4,"line_start":609,"line_end":646,"anchor":"#fullest-protective-effect"},
-        {"header":"Integrative: Semi-Independent Terms","level":3,"line_start":647,"line_end":992,"anchor":"#fullest-protective-effect-c"},
-        {"header":"Incentive Alignment, Proxy Integrity, and Contingent Settlement","level":4,"line_start":652,"line_end":992,"anchor":"#incentive-alignment-proxy-integrity-and-contingent-settlement"},
-        {"header":"Incentive Alignment","level":5,"line_start":674,"line_end":751,"anchor":"#incentive-alignment"},
-        {"header":"Incentive Alignment — Baseline Constitutional Alignment","level":5,"line_start":752,"line_end":781,"anchor":"#incentive-alignment-baseline-constitutional-alignment"},
-        {"header":"Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation","level":5,"line_start":782,"line_end":815,"anchor":"#incentive-alignment-strategic-scaled-and-adversarial-evaluation"},
-        {"header":"Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets","level":5,"line_start":816,"line_end":872,"anchor":"#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"},
-        {"header":"Misalignment Detection","level":5,"line_start":873,"line_end":917,"anchor":"#misalignment-detection"},
-        {"header":"Open Systems, Data, and Auditing","level":5,"line_start":918,"line_end":956,"anchor":"#open-systems-data-and-auditing"},
-        {"header":"Misaligned Reward Correction","level":5,"line_start":957,"line_end":992,"anchor":"#misaligned-reward-correction"},
-        {"header":"Integrative: Dependent Clusters","level":3,"line_start":993,"line_end":1302,"anchor":"#misaligned-reward-correction-c"},
-        {"header":"Def.I1 Corpus and Authority Stack","level":4,"line_start":998,"line_end":1302,"anchor":"#corpus-authority-stack-supremacy-and-enforceability-cluster"},
-        {"header":"Corpus","level":5,"line_start":1057,"line_end":1110,"anchor":"#corpus"},
-        {"header":"Authority Stack and Internal Hierarchy","level":5,"line_start":1111,"line_end":1222,"anchor":"#authority-stack"},
-        {"header":"Constitutional Constraint","level":5,"line_start":1223,"line_end":1302,"anchor":"#constitutional-constraint"}
+        {"header":"No-Bypass","level":4,"line_start":369,"line_end":433,"anchor":"#no-bypass"},
+        {"header":"Constitutional Collision","level":4,"line_start":434,"line_end":496,"anchor":"#constitutional-collision"},
+        {"header":"Constitutional Collision Record","level":4,"line_start":497,"line_end":554,"anchor":"#constitutional-collision-record"},
+        {"header":"Derived Information","level":4,"line_start":555,"line_end":603,"anchor":"#derived-information"},
+        {"header":"Abstract Strictness","level":4,"line_start":604,"line_end":639,"anchor":"#abstract-strictness"},
+        {"header":"Fullest Protective Effect","level":4,"line_start":640,"line_end":677,"anchor":"#fullest-protective-effect"},
+        {"header":"Integrative: Semi-Independent Terms","level":3,"line_start":678,"line_end":1023,"anchor":"#fullest-protective-effect-c"},
+        {"header":"Incentive Alignment, Proxy Integrity, and Contingent Settlement","level":4,"line_start":683,"line_end":1023,"anchor":"#incentive-alignment-proxy-integrity-and-contingent-settlement"},
+        {"header":"Incentive Alignment","level":5,"line_start":705,"line_end":782,"anchor":"#incentive-alignment"},
+        {"header":"Incentive Alignment — Baseline Constitutional Alignment","level":5,"line_start":783,"line_end":812,"anchor":"#incentive-alignment-baseline-constitutional-alignment"},
+        {"header":"Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation","level":5,"line_start":813,"line_end":846,"anchor":"#incentive-alignment-strategic-scaled-and-adversarial-evaluation"},
+        {"header":"Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets","level":5,"line_start":847,"line_end":903,"anchor":"#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"},
+        {"header":"Misalignment Detection","level":5,"line_start":904,"line_end":948,"anchor":"#misalignment-detection"},
+        {"header":"Open Systems, Data, and Auditing","level":5,"line_start":949,"line_end":987,"anchor":"#open-systems-data-and-auditing"},
+        {"header":"Misaligned Reward Correction","level":5,"line_start":988,"line_end":1023,"anchor":"#misaligned-reward-correction"},
+        {"header":"Integrative: Dependent Clusters","level":3,"line_start":1024,"line_end":1333,"anchor":"#misaligned-reward-correction-c"},
+        {"header":"Def.I1 Corpus and Authority Stack","level":4,"line_start":1029,"line_end":1333,"anchor":"#corpus-authority-stack-supremacy-and-enforceability-cluster"},
+        {"header":"Corpus","level":5,"line_start":1088,"line_end":1141,"anchor":"#corpus"},
+        {"header":"Authority Stack and Internal Hierarchy","level":5,"line_start":1142,"line_end":1253,"anchor":"#authority-stack"},
+        {"header":"Constitutional Constraint","level":5,"line_start":1254,"line_end":1333,"anchor":"#constitutional-constraint"}
       ]
     },
     "corpus_systems.md": {
