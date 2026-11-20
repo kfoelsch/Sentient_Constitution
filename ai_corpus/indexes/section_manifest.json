@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T06:27:06+00:00",
+  "generated_at": "2026-11-20T06:38:07+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -778,9 +778,9 @@
       ]
     },
     "core_08.000_functional_independence_separation_of_duties.md": {
-      "total_lines": 696,
+      "total_lines": 706,
       "sections": [
-        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES","level":1,"line_start":2,"line_end":696,"anchor":"#chapter-eight-functional-independence-and-separation-of-duties"},
+        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES","level":1,"line_start":2,"line_end":706,"anchor":"#chapter-eight-functional-independence-and-separation-of-duties"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":59,"line_end":113,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Jobs Are Separated","level":3,"line_start":114,"line_end":142,"anchor":"#2-why-the-jobs-are-separated"},
         {"header":"2.1 Why Four Seats","level":4,"line_start":130,"line_end":142,"anchor":"#21-why-four-seats"},
@@ -802,7 +802,7 @@
         {"header":"8. Emergency and Urgent Action","level":3,"line_start":490,"line_end":532,"anchor":"#8-emergency-and-urgent-action"},
         {"header":"9. Act Records and Attributable Handoffs","level":3,"line_start":533,"line_end":576,"anchor":"#9-act-records-and-attributable-handoffs"},
         {"header":"10. Relationship to Later Processes","level":3,"line_start":577,"line_end":607,"anchor":"#10-relationship-to-later-processes"},
-        {"header":"11. Independent Bodies","level":3,"line_start":608,"line_end":696,"anchor":"#11-independent-bodies"}
+        {"header":"11. Independent Bodies","level":3,"line_start":608,"line_end":706,"anchor":"#11-independent-bodies"}
       ]
     },
     "core_09.000_system_alignment_certification_evaluation.md": {

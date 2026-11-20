@@ -131,7 +131,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 **Seat map:** Every materially binding act of the office, such as setting the debt strategy, running an auction, or buying back debt, places the four seats under Chapter Eight. The independent check seat is an auditor outside the office.
 
-**No dual roles (added for this office):** In addition to Chapter Eight §11, no one may at the same time hold a decision seat in this office and any seat in the Public Finance Office, the Public Monetary Office, the governing authority, or a buyer, dealer, or adviser the office deals with. Members and senior staff may not hold or trade public debt or instruments whose price its decisions move, except through broad funds cleared in advance, and their holdings are disclosed.
+**No dual roles (added for this office):** In addition to Chapter Eight §11, no one may at the same time hold a decision seat in this office and any seat in the Public Finance Office, the Public Monetary Office, the governing authority, or a buyer, dealer, or adviser the office deals with. The office's auctions and strategy move asset prices, so *Market-moving information* in Chapter Eight §11 applies to it in full, including the quiet period before each auction and the bar on holdings.
 
 **Separation from interest-rate policy.** The Public Monetary Office has no say over how much debt is issued, when, or on what terms, and this office has no say over interest rates. The two offices share information only through published channels.
 

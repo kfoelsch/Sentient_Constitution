@@ -150,7 +150,8 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 **Independent Body:** The Public Information Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, and the Public Finance Office;
-- the protected decision-makers are its head and its chief methodologists. The methodologists are drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in statistics, research methods, or the field they will oversee, and the head is chosen from among them under that section's *Leadership* rule; and
+- the protected decision-makers are its head and its chief methodologists. The methodologists are drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in statistics, research methods, or the field they will oversee, and the head is chosen from among them under that section's *Leadership* rule;
+- its releases move asset prices, so *Market-moving information* in Chapter Eight §11 applies to it in full, including the quiet period before each release and the bar on holdings; and
 - its funding, reserve, and shortfall protections are set out in §10.
 
 **Seat map:** Every materially binding act of the office, such as publishing an official figure, selecting a researcher, or correcting a release, places the four seats under Chapter Eight. The check seat for a method or figure is an independent method reviewer outside the team that produced it.

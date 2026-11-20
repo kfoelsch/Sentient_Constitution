@@ -17,7 +17,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 4. **Financial stability split** (settled 2026-11-20). This office holds system-wide financial-stability policy and lends as a last resort; a separate Independent Body supervises banks, protects deposits, and resolves failing banks (§5).
 > 5. **Exchange-rate regime** (settled 2026-11-20). The governing authority chooses it after this office's published advice; this office runs it (§9).
 > 6. **No override** (settled 2026-11-20). No one may direct the office, even in an emergency (§7).
-> 7. **Provisional defaults:** minutes within three weeks, transcripts after five years, a quiet period of one week, emergency borrowers named after two years, and five-year review cycles. Each is for the custodian to confirm.
+> 7. **Provisional defaults:** emergency borrowers named after two years and the five-year target review. Each is for the custodian to confirm. The minutes, transcript, quiet-period, and method-review defaults now sit in Chapter Eight §11 *Open decisions* and *Market-moving information*.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the target and choose the exchange-rate regime, subject to this chapter.
@@ -224,24 +224,13 @@ Purchases of assets other than public debt must be broad and neutral across sect
 
 ### 7. Governance, Transparency, and No Override
 
-*In plain terms: the office decides in the open, its members cannot profit from what they know, it answers in public hearings, and no one can order it what to do.*
+*In plain terms: the office decides in the open, its members cannot profit from what they know, it answers in public hearings, and no one can order it what to do. The general rules for every independent body live in Chapter Eight; this section adds what is special to this office.*
 
-**Explaining each decision.** The office publishes:
+**General rules.** The office meets *Open decisions*, *Market-moving information*, and *No override* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), with their defaults: minutes within three weeks, transcripts after five years, a quiet period of one week, and an outside review of its forecasting and analysis at least every five years. The office's decisions move asset prices, so the quiet period and the bar on holdings apply to it in full. In addition:
 
-- a calendar of decisions set in advance;
-- each decision with its reasons and a record of the vote by member, on the day it is made;
-- minutes of each decision meeting within a published period (by default, three weeks); and
-- verbatim transcripts after a published delay (by default, five years).
-
-**Quiet period.** Members do not speak in public about policy from a published period before each decision (by default, one week) until the decision is published.
-
-**No trading on what members know.** Members and senior staff may not hold or trade individual securities, currencies, or other assets whose price the office's decisions directly move. They may hold broad funds cleared in advance, and their holdings and trades are disclosed and published.
-
-**Public hearings and reports.** At least twice a year, the office appears in an open public session of the governing authority to explain its decisions and answer questions, and it publishes an annual report on its target, its financial-stability work, its balance sheet, and its accounts.
-
-**Outside review of methods.** At least every five years, an independent reviewer outside the office examines its forecasting and analysis, and the review and the office's response are published.
-
-**No override.** No one may direct the office in how it pursues its target or uses its powers, and no act of the governing authority may suspend its independence, even in an emergency. The emergency powers in §12 are the office's own, used by its own decision.
+- the vote of each member is published on the day of the decision;
+- at least twice a year, the office appears in an open public session of the governing authority, and its annual report covers its target, its financial-stability work, its balance sheet, and its accounts; and
+- the emergency powers in §12 are the office's own, used by its own decision.
 
 ### 8. Capital and Losses
 

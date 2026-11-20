@@ -164,8 +164,9 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 **Independent Body:** The Public Finance Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the budget-setting powers this chapter names and the duty to run the appointment draw, and of the Public Information Office;
-- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill; and
-- its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it.
+- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill;
+- its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it; and
+- where its accounts for the business activity under §7 can move asset prices, *Market-moving information* in Chapter Eight §11 applies to that work in full.
 
 **Seat map:** Every materially binding funding act places the four seats as follows:
 
