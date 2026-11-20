@@ -972,7 +972,7 @@ None of this requires a Standing Record to exist. **Section 3.2** *Silence is th
   - [Chapter Twenty-Four §4](core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) (24.000 §4) (*tier windows that custody may not extend*) and
   - [Article XXVII-C](core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
   - [Article XXII](core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) (*what a copy of a sentient's own Standing Records may leave out*); and
-  - **CF-23.465 §5.1** (*Retention Classes and Physical Backup*) (*Essential Records and where their physical backups are held*).
+  - **CF-23.465 §7.1** (*Retention Classes and Physical Backup*) (*Essential Records and where their physical backups are held*).
 - Downstream: [Chapter Sixteen §2](core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under §6 and this section*); [Chapter Seventeen](core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (17.000) (*Question 3 effects trace to an attributed record*).
 
 </details>
@@ -1060,7 +1060,7 @@ A Standing Record outlasts the system that first held it, and the sentient it is
 
 - **High-slot Standing Records are Essential Records:** A Standing Record at slot 5 or above on the Contribution Axis or the Violation Axis ([Chapter Sixteen §5.1 Table 1 — Slot Display Labels](core_16.000_standing_measurement.md#51-table-1--slot-display-labels)) is an [Essential Record](core_05.035_band_accountability.md#essential-record).
   - **When:** Its record custodian arranges a physical backup of each version in which the Standing Record sits at slot 5 or above, starting with the version that first assigns the slot ([§5.4 Versioning](#54-versioning)). The system does this by rule and no one makes a separate request.
-  - **Where:** The physical backups are held as Essential Record backups under **CF-23.465 §5.1** (*Retention Classes and Physical Backup*): at least three separate places in different regions, with different custodians. The record custodian does not hold them, and neither does anyone in the subject's or the record custodian's [Material Control Line](core_05.035_band_accountability.md#material-control-line) ([§6.4 No Self-Custody](#64-no-self-custody)).
+  - **Where:** The physical backups are held as Essential Record backups under **CF-23.465 §7.1** (*Retention Classes and Physical Backup*): at least three separate places in different regions, with different custodians. The record custodian does not hold them, and neither does anyone in the subject's or the record custodian's [Material Control Line](core_05.035_band_accountability.md#material-control-line) ([§6.4 No Self-Custody](#64-no-self-custody)).
   - **What stays the same:** The record custodian still holds the working Standing Record under [§6.3 Record Custodian](#63-record-custodian). Only the backup is held elsewhere.
 - **Certified copy on request:** Any sentient may ask the record custodian for a certified physical copy of each Standing Record about them, at any slot.
   - **What it is:** A true copy of the current version on paper or other durable physical media, with its version, date, and hash, certified by the record custodian as a true copy.

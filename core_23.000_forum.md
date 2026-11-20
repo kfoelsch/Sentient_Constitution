@@ -713,7 +713,7 @@ Forum Case Records are kept where the sentients who need them can reach them and
 - A custodian independent of the forum that made the entries keeps the Library and the Archive.
 - When a matter closes, each non-routine entry gets a physical backup, held offline and apart from the forum's own systems. Routine entries do not need one, and doubt resolves as non-routine.
 - An [Essential Record](core_05.035_band_accountability.md#essential-record) keeps its physical backup in at least three separate places in different regions. Standing Records at slot 5 and above are Essential Records ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)).
-- Mechanics are in [CF-23.465 §5.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-51-retention-classes-and-physical-backup) and [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
+- Mechanics are in [CF-23.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-71-retention-classes-and-physical-backup) and [CF-23.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-72-constitutional-library-and-constitutional-archive).
 
 <a id="5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture"></a>
 

@@ -31,7 +31,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A1. Enumerate a Sentience-Status Adjudication Record schema — **done**
 
-**Homes:** [`corpus_forum/cf_23.475_sentience_status_record.md`](../../corpus_forum/cf_23.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Thirty-One §2](../../core_31.000_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-23.465 §1** points without restating fields.
+**Homes:** [`corpus_forum/cf_23.475_sentience_status_record.md`](../../corpus_forum/cf_23.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Thirty-One §2](../../core_31.000_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-23.465 §3** points without restating fields.
 **Do not:** Relocate Article V-D into implementation text, or let the schema decide who counts.
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**

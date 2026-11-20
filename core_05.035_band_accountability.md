@@ -3677,7 +3677,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
+- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-72-constitutional-library-and-constitutional-archive).
 - Read with:
   - [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive),
   - [Essential Record](core_05.035_band_accountability.md#essential-record),
@@ -3691,7 +3691,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Library is the public shelf for forum decisions. Everything a forum may lawfully show is kept here, and anything held back leaves a marker here, so no one can hide that a decision exists.*
 
 - **What it is**
-  - **In scope:** The published collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries, decisions, reasoned records, and shared standards that carry the public-facing access class under **CF-23.465 §3** (*Access Classes*). It also holds a status marker for every item kept in the [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive). A custodian independent of the forum family that made the entries keeps it, and it holds the physical backup of the public non-routine entries.
+  - **In scope:** The published collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries, decisions, reasoned records, and shared standards that carry the public-facing access class under **CF-23.465 §5** (*Access Classes*). It also holds a status marker for every item kept in the [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive). A custodian independent of the forum family that made the entries keeps it, and it holds the physical backup of the public non-routine entries.
   - **Out of scope:** [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive); material a lawful restriction holds back; [Standing Record](core_05.035_band_accountability.md#standing-record) custody under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority); and the forum's own working systems.
 <a id="constitutional-library-a"></a>
 - **How to measure and assess**
@@ -3712,7 +3712,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
+- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-72-constitutional-library-and-constitutional-archive).
 - Read with:
   - [Constitutional Library](core_05.035_band_accountability.md#constitutional-library),
   - [Essential Record](core_05.035_band_accountability.md#essential-record),
@@ -3726,7 +3726,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Archive is the sealed shelf. Restricted material is kept whole and safe, not lost or destroyed, and can be opened later by lawful order or for audit. Sealing never means disappearing.*
 
 - **What it is**
-  - **In scope:** The sealed collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-23.465 §3** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-23.415 §8** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-23.465 §3** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library).
+  - **In scope:** The sealed collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-23.465 §5** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-23.415 §8** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-23.465 §5** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library).
   - **Out of scope:** [Constitutional Library](core_05.035_band_accountability.md#constitutional-library); any hiding of the fact that an item exists; the restricted-information decisions made by the Restricted Information Authority; and [Standing Record](core_05.035_band_accountability.md#standing-record) custody under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
 <a id="constitutional-archive-a"></a>
 - **How to measure and assess**
@@ -3747,7 +3747,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §5.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-51-retention-classes-and-physical-backup).
+- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-71-retention-classes-and-physical-backup).
 - Read with:
   - [Constitutional Library](core_05.035_band_accountability.md#constitutional-library),
   - [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive),
@@ -3761,7 +3761,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: an Essential Record is a non-routine entry the constitutional order could not be rebuilt without. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it.*
 
 - **What it is**
-  - **In scope:** A non-routine [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library) or [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-23.465 §5.1** (*Retention Classes and Physical Backup*) lists. A [Standing Record](core_05.035_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
+  - **In scope:** A non-routine [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library) or [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-23.465 §7.1** (*Retention Classes and Physical Backup*) lists. A [Standing Record](core_05.035_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
   - **Out of scope:** routine entries; ordinary non-routine entries, which keep one physical backup; and the working custody of a [Standing Record](core_05.035_band_accountability.md#standing-record), which stays with its record custodian under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
 <a id="essential-record-a"></a>
 - **How to measure and assess**

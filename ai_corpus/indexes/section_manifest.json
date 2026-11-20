@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T05:04:44+00:00",
+  "generated_at": "2026-11-20T05:07:05+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2780,17 +2780,19 @@
       ]
     },
     "corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md": {
-      "total_lines": 249,
+      "total_lines": 267,
       "sections": [
-        {"header":"CF-23.465: Standard Records, Forms, and Evidence Artifacts","level":1,"line_start":1,"line_end":249,"anchor":null},
-        {"header":"CF-23.465 §1 Minimum Record Set","level":2,"line_start":71,"line_end":116,"anchor":null},
-        {"header":"CF-23.465 §2 Required Fields","level":2,"line_start":117,"line_end":133,"anchor":null},
-        {"header":"CF-23.465 §3 Access Classes","level":2,"line_start":134,"line_end":148,"anchor":null},
-        {"header":"CF-23.465 §4 Evidence Artifact Handling","level":2,"line_start":149,"line_end":156,"anchor":null},
-        {"header":"CF-23.465 §5 Publication, Retention, and Reconciliation","level":2,"line_start":157,"line_end":228,"anchor":null},
-        {"header":"CF-23.465 §5.1 Retention Classes and Physical Backup","level":3,"line_start":180,"line_end":217,"anchor":null},
-        {"header":"CF-23.465 §5.2 Constitutional Library and Constitutional Archive","level":3,"line_start":218,"line_end":228,"anchor":null},
-        {"header":"CF-23.465 §6 Non-Compliant Record Patterns","level":2,"line_start":229,"line_end":249,"anchor":null}
+        {"header":"CF-23.465: Standard Records, Forms, and Evidence Artifacts","level":1,"line_start":1,"line_end":267,"anchor":null},
+        {"header":"CF-23.465 §1 Purpose, Role, and Scope","level":2,"line_start":67,"line_end":74,"anchor":null},
+        {"header":"CF-23.465 §2 Why Standard Forum Records Exist","level":2,"line_start":75,"line_end":88,"anchor":null},
+        {"header":"CF-23.465 §3 Minimum Record Set","level":2,"line_start":89,"line_end":134,"anchor":null},
+        {"header":"CF-23.465 §4 Required Fields","level":2,"line_start":135,"line_end":151,"anchor":null},
+        {"header":"CF-23.465 §5 Access Classes","level":2,"line_start":152,"line_end":166,"anchor":null},
+        {"header":"CF-23.465 §6 Evidence Artifact Handling","level":2,"line_start":167,"line_end":174,"anchor":null},
+        {"header":"CF-23.465 §7 Publication, Retention, and Reconciliation","level":2,"line_start":175,"line_end":246,"anchor":null},
+        {"header":"CF-23.465 §7.1 Retention Classes and Physical Backup","level":3,"line_start":198,"line_end":235,"anchor":null},
+        {"header":"CF-23.465 §7.2 Constitutional Library and Constitutional Archive","level":3,"line_start":236,"line_end":246,"anchor":null},
+        {"header":"CF-23.465 §8 Non-Compliant Record Patterns","level":2,"line_start":247,"line_end":267,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md": {
