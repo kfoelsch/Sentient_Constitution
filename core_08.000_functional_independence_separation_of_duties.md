@@ -618,7 +618,7 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 
 <br>
 
-*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
+*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
 
 **Naming a body:** A body is an **Independent Body** when this Constitution, or designated implementation text, names it as one by citing this section. The designating text states what the body does. It may add stronger requirements. It may not narrow this section.
 
@@ -629,7 +629,12 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 - **Removal:** a decision-maker may be removed mid-term only for a published cause, through a removal pathway under **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), and the removal is open to challenge. Removal, reassignment, or loss of pay because of a decision, finding, published figure, or dissent is barred.
 - **Seats:** it publishes a seat map that places all four seats under [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement) and [§6 Published Placement, Vacancy, and Substitution](#6-published-placement-vacancy-and-substitution) for each of its materially binding acts.
 - **No dual roles:** no holder of a decision seat in the body may at the same time hold a decision seat in a body it funds, checks, or measures, or hold a [material stake](core_00.000_preamble.md#material-stake) in a matter before it.
-- **Funding:** its funding is adequate to its duties, and the funding-integrity floor of [Article XIII-D](core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) applies to whoever funds it, whether or not the body decides for others.
+- **Protected funding:** its funding is adequate to its duties and is protected so that whoever pays it cannot steer it:
+  - **Own track:** its funding floor is set on its own published track, by a published formula tied to its duties, separate from the budgets of the bodies it serves, funds, checks, or measures;
+  - **Not set by those it checks:** no body it funds, checks, measures, or decides about may set, reduce, delay, or condition its funding, and where two Independent Bodies check or fund each other, neither sets the other's floor;
+  - **Cycle protection:** its floor may not be reduced during a funding cycle except under a published shortfall rule that applies to every funded body alike, and a change to the formula takes effect no earlier than the next cycle;
+  - **Funding integrity:** the funding-integrity floor of [Article XIII-D](core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) applies to whoever funds it, whether or not the body decides for others; and
+  - **Self-funded bodies:** a body paid from its own operating income under a published budget meets this requirement where no one may seize, redirect, or condition that income except by a published rule set in advance.
 - **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XIII-C](core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*).
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.

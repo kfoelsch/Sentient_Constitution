@@ -164,7 +164,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 **Independent Body:** The Public Finance Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the appointment and budget-setting powers this chapter names, and of the Public Information Office; and
-- its funding floor is set under §9.
+- its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it.
 
 **Seat map:** Every materially binding funding act places the four seats as follows:
 
@@ -277,9 +277,13 @@ The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvi
 
 ### 9. The Office's Own Funding and the Information Office's Funding
 
-*In plain terms: whoever pays the payer can steer it, so the office's own budget, and the Information Office's budget, are protected the same way the forums' budgets are.*
+*In plain terms: whoever pays the payer can steer it. The general rule that protects the funding of every independent body lives in Chapter Eight; this section only says how it applies to the two offices.*
 
-The Public Finance Office and the Public Information Office each have a floor set on a separate published track under the same rules as §4. Neither office sets the other's floor. The Public Finance Office may not reduce, delay, or condition the Public Information Office's funding, and the protections of §5 apply to it in full.
+The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies to the Public Finance Office and the Public Information Office. For these two offices:
+
+- each office's floor is worked out under the same rules as §4, on its own track;
+- the Public Finance Office pays the Public Information Office's floor but may not set, reduce, delay, or condition it, and the protections of §5 apply to it in full; and
+- the Public Information Office checks this office's ledger, so neither office sets the other's floor.
 
 ### 10. Audit and Challenge
 

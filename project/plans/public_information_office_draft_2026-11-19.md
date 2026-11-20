@@ -149,7 +149,7 @@ These reasons do not add duties. They explain why the duties in §3 to §10 take
 
 - it sits outside the Material Control Line of the governing authority, every forum family, and the Public Finance Office;
 - the protected decision-makers are its head and its chief methodologists; and
-- its funding floor is set on its own track under the Public Finance Office chapter, and the Finance Office may not reduce, delay, or condition it.
+- its funding is protected under *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies): its floor is set on its own track, is paid through the Public Finance Office, and the Finance Office may not set, reduce, delay, or condition it.
 
 **Seat map:** Every materially binding act of the office, such as publishing an official figure, selecting a researcher, or correcting a release, places the four seats under Chapter Eight. The check seat for a method or figure is an independent method reviewer outside the team that produced it.
 
