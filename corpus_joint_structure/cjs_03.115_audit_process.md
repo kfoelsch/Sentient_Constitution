@@ -153,7 +153,7 @@ Audit when any of the following applies (often more than one):
 | System Alignment Certification (large, forum-supervised, status-granting) | **Chapter Eight** |
 | System Data Types Record audit | **CS-4.305 and CS-4.310** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-4.305 and CS-4.310** (Type O / Type G / bands); output-level preference in **CJS-3.110 §4** |
-| System Classification Record audit | **CS-8.305 and CS-8.310** §7.3 |
+| System Classification Record audit | **CS-8.305 §7.3** (*Auditability and Verification*) |
 | Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-26.305** (*Critical system stewardship*) §CS-26.305 §8 *Conduct, conflicts of interest, and independence* and §CS-26.305 §11 *Integrated risk governance (Class A/B)* |
 | Continuous audit (systems layer: automated constitutional auditing) | **CS-4.345** (*System lifecycle*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XX-B** (*Contestability and Proportional Restriction Limits*) and **Article XX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), not this row |
 | Complexity audits (systems profile) | **CS-4.315**; **Article XXIV-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-26.305** (*Critical system stewardship*) §CS-26.305 §5 *Comprehensibility and complexity stewardship* |

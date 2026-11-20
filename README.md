@@ -105,7 +105,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 5**: [System and Institutional Charters](core_05.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
 | **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 7**: [Independent Bodies](core_07.000_independent_bodies.md) | What makes a body independent, and the list of bodies every adopter must have |
-| **Chapters 8–10**: [8](core_08.000_system_alignment_certification_evaluation.md) · [9](core_09.000_system_alignment_certification_forum_process_outcomes.md) · [10](core_10.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
+| **Chapters 8–10**: [8](core_08.000_system_alignment_certification_evaluation.md) · [Subcore 8-A system classes](subcore_08.010_system_classification.md) · [9](core_09.000_system_alignment_certification_forum_process_outcomes.md) · [10](core_10.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
 | **Chapters 11–13**: [11](core_11.000_institutional_alignment_certification_evaluation.md) · [12](core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · [13](core_13.000_institutional_alignment_certification_records_recertification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
 | **Chapter 14**: [Standing Records](core_14.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
 | **Chapter 15**: [Standing measurement](core_15.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
@@ -193,7 +193,7 @@ If any of these disagree, **the Constitution text wins**.
 The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Three terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
 - [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-30.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
-- [corpus_systems.md](corpus_systems.md): systems implementation (CS-4.305 and CS-4.310 information types, CS-8.305 and CS-8.310 system classification, CS-26.305 critical stewardship, named protocols)
+- [corpus_systems.md](corpus_systems.md): systems implementation (CS-4.305 and CS-4.310 information types, CS-8.305 and Subcore 8-A system classification, CS-26.305 critical stewardship, named protocols)
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
@@ -204,6 +204,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 ### Common Lookups
 
 - Burden of proof, traceability, verification: [Subcore 3-C](subcore_03.030_burden_traceability_verification.md)
+- System classes, dependency types, and steward levels: [Subcore 8-A](subcore_08.010_system_classification.md)
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack

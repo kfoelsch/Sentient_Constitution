@@ -501,7 +501,7 @@ shared infrastructure, such as networks, open tools, public services, data, and 
 
 #### 12. Systemic Evaluation Requirement
 
-this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](../../subcore_03.085_band_oversight.md#auditability)).
+this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](../../subcore_03.085_band_oversight.md#auditability)).
 
 [Source](../../core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement)
 
@@ -5161,7 +5161,7 @@ if a system materially affects a sentient — directly or through dependency —
 
 ##### Article X-D: Inclusion and Exclusion Challenge Rights
 
-when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
+when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-8.305** (*System classification machinery*) and **Subcore 8-A** (*System Classification*), that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
 
 [Source](../../core_04.010_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights)
 

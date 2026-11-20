@@ -513,6 +513,35 @@
       "pre_reorganization_2026_11_20": "09000"
     },
     {
+      "old_id": "CS-3",
+      "original_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "machine_id": "SUB-08010",
+      "display_id": "S8-A",
+      "layer": "SUBCORE",
+      "core_home": "08",
+      "title": "S8-A",
+      "destination_file": "subcore_08.010_system_classification.md",
+      "status": "active",
+      "machine_number": "08010",
+      "layer_digit": "0",
+      "ordinal_name": "S8-A",
+      "legacy_file_label": "CS-3 Part B",
+      "legacy_section_ids": [
+        "CS-3",
+        "CS-3.8",
+        "CS-3.9",
+        "CS-3.10",
+        "CS-3.11",
+        "CS-3.12",
+        "CS-3.13"
+      ],
+      "legacy_chapter_ids": [
+        "CS-3"
+      ],
+      "pre_reorganization_2026_11_20": "CS-09310",
+      "pre_subcore_2026_11_20": "CS-08310"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_b_system_alignment_certification_record_process.md",
       "machine_id": "09000",
@@ -2235,33 +2264,6 @@
         "CS-3"
       ],
       "pre_reorganization_2026_11_20": "CS-09305"
-    },
-    {
-      "old_id": "CS-3",
-      "original_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
-      "machine_id": "CS-08310",
-      "display_id": "CS-8.310",
-      "layer": "CS",
-      "core_home": "08",
-      "title": "system impact classifications",
-      "destination_file": "corpus_systems/cs_08.310_system_impact_classifications.md",
-      "status": "active",
-      "machine_number": "08310",
-      "layer_digit": "3",
-      "legacy_file_label": "CS-3 Part B",
-      "legacy_section_ids": [
-        "CS-3",
-        "CS-3.8",
-        "CS-3.9",
-        "CS-3.10",
-        "CS-3.11",
-        "CS-3.12",
-        "CS-3.13"
-      ],
-      "legacy_chapter_ids": [
-        "CS-3"
-      ],
-      "pre_reorganization_2026_11_20": "CS-09310"
     },
     {
       "old_id": "CS-9.315",

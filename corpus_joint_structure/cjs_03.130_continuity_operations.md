@@ -130,9 +130,9 @@ Criticality and impact classification
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in criticality and impact classification.
 <a id="criticality-and-impact-classification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** dependency classification aligns with the dependency classes in [CS-8.305](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning
+  - **Primary measure:** dependency classification aligns with the dependency classes in [CS-8.305](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning
 
-    **Primary assessment:** Reviewers must verify that dependency classification aligns with the dependency classes in [CS-8.305](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning.
+    **Primary assessment:** Reviewers must verify that dependency classification aligns with the dependency classes in [CS-8.305](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning.
 <a id="criticality-and-impact-classification-c"></a>
 - **What must hold**
   - **Primary failure:** **Class A, Class B, and Class C** mission-impacting dependencies must be clearly identified, monitored, audited, and periodically reviewed. Dependencies that are critical to safety, rights, access, continuity, or systemic stability may not be left unclassified or treated as ordinary vendor or interface choices.
@@ -160,7 +160,7 @@ Domain and sector classification mapping
 *In plain terms: Authorities must map major domains they govern or materially rely on against applicable system classes and stewardship levels, including reclassification triggers.*
 
 - **What it is**
-  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-26.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) classes and **CS-26.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in domain and sector classification mapping.
 <a id="domain-and-sector-classification-mapping-a"></a>
 - **How to measure and assess**
@@ -267,7 +267,7 @@ Substitutability, exit constraints, and mitigation duties
   - **CJS-3.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CI-4.205 §3** (*Digital Self-Service Pathway Integrity*).
 - Read with: [**CS-4.305**](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*)
-- Read with: [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*)
+- Read with: [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*)
 - Read with: [**CS-26.305**](../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship) (*Critical system stewardship*)
 - Read with: [Article XXII](../core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*)
 - Read with: [Article II-E](../core_04.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*)

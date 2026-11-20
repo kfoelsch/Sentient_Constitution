@@ -118,7 +118,7 @@ Systems change after they are certified: new versions ship, owners change, and r
 - Read with:
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
   - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
-  - **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and
+  - **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, and
   - **CS-4.345** (*System lifecycle*);
   - **CJS-3.110 §4** (*transparency levels and audit-access terms*).
 - Subsections:
@@ -213,7 +213,7 @@ The System Certification Record must identify, at minimum:
 
 The System Certification Record must identify, at minimum:
 
-- **System Classification Record:** the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), or its required contents under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*), reflecting the evaluation under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation), stating:
+- **System Classification Record:** the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), or its required contents under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*), reflecting the evaluation under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation), stating:
   - the assigned system class;
   - the classification rationale;
   - key assumptions, including material-impact assumptions;
@@ -390,7 +390,7 @@ This section applies [Transparency](subcore_03.085_band_oversight.md#transparenc
 
 **Transparency** — sentients must be able to see what matters:
 
-- A System Certification Record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, including what [§3 System Certification Record](#3-system-certification-record) requires:
+- A System Certification Record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, including what [§3 System Certification Record](#3-system-certification-record) requires:
   - scope;
   - assumptions;
   - evidence basis;
@@ -434,7 +434,7 @@ This section applies [Transparency](subcore_03.085_band_oversight.md#transparenc
   - [§3](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream: [§6.3](#63-verified-input-gate) and [§6.5](#65-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*reopened forum supervision*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
-- Read with: **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-8.305 §3](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
+- Read with: **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[Subcore 8-A §2.5](subcore_08.010_system_classification.md#25-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§4.1](#41-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);
   - [§4.2](#42-reopening-triggers) (*reopening triggers*);
@@ -509,7 +509,7 @@ Review reopens under Chapter Twenty-Two and incorporated system implementation d
   - a credible challenge under [§5 Challenging a Certification](#5-challenging-a-certification);
   - an ecological objection.
 - **Classification and data-type misalignment:**
-  - system-class misalignment, or overdue reassessment, under **[CS-8.305 §3 Criticality, Concentration, Temporal, and Adversarial Factors](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-3-criticality-concentration-temporal-and-adversarial-factors)**, specifically its [§3.5 reclassification requirement](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement);
+  - system-class misalignment, or overdue reassessment, under **[Subcore 8-A §2 Criticality, Concentration, Temporal, and Adversarial Factors](subcore_08.010_system_classification.md#2-criticality-concentration-temporal-and-adversarial-factors)**, specifically its [Subcore 8-A §2.5 reclassification requirement](subcore_08.010_system_classification.md#25-reclassification-requirement);
   - data-type or handling misalignment, or an overdue or skipped scheduled data-type re-evaluation, under **[CS-4.305 §5 Cross-Domain Governance Principles](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-5-cross-domain-governance-principles)**, specifically its [§5.2 reclassification and lifecycle governance](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance);
   - classification misalignment.
 - **System Charter and operator governance:**

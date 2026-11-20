@@ -87,7 +87,7 @@ Assess those arrangements for the particular act under [Chapter Six §4 Independ
 
 Apply **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) **Classification-scaled governance burden** for the shared class- and stewardship-level scaling rule.
 
-When an institution supervises systems under [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-26.305 — Critical system stewardship**, its published maps under **CI-8.210 §2** (*Published Industry and Domain Mapping*) and related **CI-8.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
+When an institution supervises systems under [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) or **CS-26.305 — Critical system stewardship**, its published maps under **CI-8.210 §2** (*Published Industry and Domain Mapping*) and related **CI-8.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
 
 ---
 

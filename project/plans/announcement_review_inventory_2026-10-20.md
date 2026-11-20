@@ -200,7 +200,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_systems/cs_06.305_information_types_and_handling.md](../../corpus_systems/cs_04.305_information_types_and_handling.md) | Pending |
 | [corpus_systems/cs_06.310_data_classifications.md](../../corpus_systems/cs_04.310_data_classifications.md) | Pending |
 | [corpus_systems/cs_09.305_system_classification_machinery.md](../../corpus_systems/cs_08.305_system_classification_machinery.md) | Pending |
-| [corpus_systems/cs_09.310_system_impact_classifications.md](../../corpus_systems/cs_08.310_system_impact_classifications.md) | Pending |
+| [corpus_systems/cs_09.310_system_impact_classifications.md](../../subcore_08.010_system_classification.md) | Pending |
 | [corpus_systems/cs_14.305_critical_system_stewardship.md](../../corpus_systems/cs_26.305_critical_system_stewardship.md) | Pending |
 | [corpus_systems/cs_06.345_design_testing_verification_deployment.md](../../corpus_systems/cs_04.345_design_testing_verification_deployment.md) | Pending |
 | [corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md](../../corpus_systems/cs_04.315_comprehensibility_complexity_stewardship.md) | Pending |

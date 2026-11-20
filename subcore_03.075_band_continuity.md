@@ -830,7 +830,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eleven §3.1 Institution Class](core_11.000_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*how an Institution's class is determined*); read with [CS-8.305 (*System classification machinery*)](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) and [CS-8.310 (*System Impact Classifications*)](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications).
+- Canonical owner: [Chapter Eleven §3.1 Institution Class](core_11.000_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*how an Institution's class is determined*); read with [CS-8.305 (*System classification machinery*)](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) and [Subcore 8-A (*System Classification*)](subcore_08.010_system_classification.md#subcore-8-a-system-classification).
 - Cluster component: none.
 - Read with:
   - [Institution](subcore_03.075_band_continuity.md#institution),
@@ -1487,7 +1487,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Out of scope:**
     - the first [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) of a system;
     - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers);
-    - reclassification under **CS-8.305 §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-4.305 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
+    - reclassification under **Subcore 8-A §2.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-4.305 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVIII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
@@ -1808,15 +1808,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from certification conditions is at issue; wherever a material-impact [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) is required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); and wherever a material-impact [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) is required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*).
-- **Scope:** where joint invocation is met, the Continuity home for the Chapter Eight gate that checks whether a [System](subcore_03.075_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) and the CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](subcore_03.085_band_oversight.md#auditability) remain).
-- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the Standing-Record bridge are stated in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**; System Data Types Record contents, disclosure, challenge, and retyping live in **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**; these entries provide the Chapter Three meanings only.
+- **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from certification conditions is at issue; wherever a material-impact [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) is required under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*); and wherever a material-impact [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) is required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*).
+- **Scope:** where joint invocation is met, the Continuity home for the Chapter Eight gate that checks whether a [System](subcore_03.075_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) and the CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](subcore_03.085_band_oversight.md#auditability) remain).
+- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the Standing-Record bridge are stated in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**; System Data Types Record contents, disclosure, challenge, and retyping live in **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**; these entries provide the Chapter Three meanings only.
 - **Cluster boundary:** [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
 
 **Topic group members.** This group comprises:
 - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) — the forum-supervised process for determining whether a system demonstrates constitutional alignment sufficient for certification, validation, continued reliance, or deployment;
 - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) — the bounded, time-bound, and contestable file that process produces;
-- [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) — the bounded dual-axis class findings (impact class and dependency type(s)) required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and incorporated into the System Certification Record when SAC runs;
+- [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) — the bounded dual-axis class findings (impact class and dependency type(s)) required under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) and incorporated into the System Certification Record when SAC runs;
 - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) — the bounded type-and-handling findings required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as material audited information and incorporated into the System Certification Record when SAC runs.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
@@ -1854,7 +1854,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries),
   - [System Charter](subcore_03.075_band_continuity.md#system-charter),
   - [System Capture](subcore_03.075_band_continuity.md#system-capture), and
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, and
   - [Recertification](subcore_03.075_band_continuity.md#recertification).
 
 </details>
@@ -1981,7 +1981,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - scope-bound;
     - time-bound; and
     - contestable.
-  - It incorporates the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as components of every materially impactful System Certification Record.
+  - It incorporates the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) required under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) and the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as components of every materially impactful System Certification Record.
   - It is not:
     - a reputation score;
     - a permanent permission slip;
@@ -2006,7 +2006,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     2. the System Certification Record states, as Chapter Eight requires:
        - system identity;
        - scope;
-       - the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation);
+       - the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) and [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation);
        - the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) (or its required contents) under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) and [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
        - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Eight §4.2.1 Risk Evaluation and Disclosure Bridge](core_08.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) — stated on this System Certification Record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
@@ -2048,7 +2048,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Eight §3 — System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) and [Chapter Ten §3.1](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -2072,10 +2072,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 <br>
 
-*In plain terms: a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a Standing Record, or a label the operator chooses by self-description.*
+*In plain terms: a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a Standing Record, or a label the operator chooses by self-description.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable record of system classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*). A **System Classification Record** states:
+  - **In scope:** The bounded, reviewable record of system classification under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*). A **System Classification Record** states:
     - impact class;
     - applicable dependency type(s);
     - classification rationale;
@@ -2084,20 +2084,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - material ecological-exposure analysis where required; and
     - monitoring and recertification triggers.
   - It must be forum-inspectable without relying on operator self-description alone.
-  - It is required for all systems with [material impact](subcore_03.085_band_oversight.md#material-impact) under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*). When [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Classification Record must be produced or verified and included as a required component of the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
+  - It is required for all systems with [material impact](subcore_03.085_band_oversight.md#material-impact) under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*). When [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Classification Record must be produced or verified and included as a required component of the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - **Out of scope:**
     - the full [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
     - a [Standing Record](subcore_03.070_band_accountability.md#standing-record), standing effect, or merged merit score;
     - [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
-  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); incorporation into System Certification Records is stated in [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents); this entry is the Chapter Three meaning only.
+  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*); incorporation into System Certification Records is stated in [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents); this entry is the Chapter Three meaning only.
 <a id="system-classification-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the System Certification Record states both dual-axis findings required by CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
+    1. the System Certification Record states both dual-axis findings required by CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
     2. classification follows observed and reasonably foreseeable effects under [Material Impact](subcore_03.085_band_oversight.md#material-impact), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Risk](subcore_03.075_band_continuity.md#risk), not declared intent, [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or recertification triggers are stated and independently reviewable; and
     4. where [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents).
@@ -2108,7 +2108,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - collapsing impact class and dependency type into one finding; or
     - [System Charter](subcore_03.075_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Classification Record;
   - **Secondary failure:**
-    - missing System Classification Record for a material-impact system under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); or
+    - missing System Classification Record for a material-impact system under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*); or
     - omitting the System Classification Record from a materially impactful [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) when SAC runs;
   - **Tertiary failure:**
     - concealed, non-contestable, or non-inspectable classification findings; or
@@ -4758,7 +4758,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What must hold**
   - **Primary failure:**
     - operating materially outside chartered scope while the System Charter is offered as current authorization; or
-    - System Charter text offered as a substitute for [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
+    - System Charter text offered as a substitute for [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*);
   - **Secondary failure:** a required System Charter that has not been published, an overdue scheduled review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published binding stakeholder-choice process rules;
   - **Tertiary failure:** System Charter text used to defeat [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](subcore_03.090_band_participation.md#system-creation) / [Business Creation](subcore_03.090_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
 
@@ -4824,7 +4824,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What must hold**
   - **Primary failure:**
     - operating a System that no System Charter in force covers, while the Institutional Charter is offered as current authorization; or
-    - Institutional Charter text offered as a substitute for [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
+    - Institutional Charter text offered as a substitute for [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*);
   - **Secondary failure:** a required Institutional Charter that has not been published, a missing or stale included System Charter, a portfolio rationale that is absent or no longer explains the Systems actually run, a System added or retired without amending the Institutional Charter, an overdue scheduled review, a missing, dead, or stale Charter Role Map, or a record-opening authority or record custodian inside the Institution's own control line for records about itself;
   - **Tertiary failure:** Institutional Charter text used to defeat [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity), understate class, or narrow [Business Creation](subcore_03.090_band_participation.md#business-creation) floors.
 
@@ -7030,7 +7030,7 @@ See **Anti-Segmentation Principle**.
     - evidentiary basis and temporal consistency;
     - psychological safety and substantive agency;
     - modeling, methodology, and [Contestability](subcore_03.070_band_accountability.md#contestability);
-    - class-scaled assessment under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
+    - class-scaled assessment under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*);
     - consent and non-coercive participation;
     - justified reliance scope boundaries;
     - continuous revalidation;

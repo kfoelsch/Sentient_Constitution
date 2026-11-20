@@ -356,7 +356,7 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
   - **Secondary failure:** Continued exclusion of a [Dependency](subcore_03.075_band_continuity.md#dependency)-critical innovation without:
     - class-scaled tightening;
     - conversion to access-preserving reward; or
-    - sunset under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications).
+    - sunset under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification).
   - **Tertiary failure:**
     - exclusion that creates [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](subcore_03.070_band_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
     - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter Two and Chapter Four justify.

@@ -745,7 +745,7 @@ flowchart TB
 - Class P also covers ordinary community activity (giving, making, teaching, caring, hosting, sharing) that stays below every line of [Domain-Specific Materiality](../subcore_03.085_band_oversight.md#domain-specific-materiality). Those nine questions, and not headcount or how often a group meets, decide whether an Operating Party reaches Class L and so needs a System Charter or Institutional Charter.
 - Uncertainty defaults toward protecting Foundational Rights. Reclassification is required when scale, reach, dependency, risk, resilience, or failure conditions materially change.
 
-The [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record) and [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-4.305 and CS-4.310 owns data typing and handling; CS-8.305 and CS-8.310 owns system classification and handling. Chapter Three supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
+The [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record) and [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-4.305 and CS-4.310 owns data typing and handling; CS-8.305 and Subcore 8-A owns system classification and handling. Chapter Three supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

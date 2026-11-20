@@ -132,7 +132,7 @@ Partial adoption may not wipe the [Chapter Twenty-Seven](../../core_27.000_non_r
 
 **This block becomes an adoption document only when a qualifying adopter completes it, records assent, and holds custody.** Copy it out of this repo into the adopter’s record. Leaving a filled copy under `evaluation/` does not adopt anything.
 
-Required contents track [Chapter Twenty-Eight §12.2](../../core_28.000_amendment_ratification.md#122-adoption-document). Auditability must be proportionate to system class, material impact, and dependency under **CS-8.305 and CS-8.310** ([§12.1](../../core_28.000_amendment_ratification.md#121-deliberate-adoption)).
+Required contents track [Chapter Twenty-Eight §12.2](../../core_28.000_amendment_ratification.md#122-adoption-document). Auditability must be proportionate to system class, material impact, and dependency under **CS-8.305 and Subcore 8-A** ([§12.1](../../core_28.000_amendment_ratification.md#121-deliberate-adoption)).
 
 ```text
 NON-ADOPTION CHECK (complete first)
@@ -162,7 +162,7 @@ Recorded assent (who assented, how, where the record lives):
 Custodian of the authoritative edition (this Constitution and incorporated
 implementation files):
 Custody location (repository, publication channel, or equivalent):
-CS-8.305 and CS-8.310 system class (or “not yet classified — auditability still proportionate
+CS-8.305 and Subcore 8-A system class (or “not yet classified — auditability still proportionate
 to material impact”):
 
 Independent review path that is not the other signatory (forum family,

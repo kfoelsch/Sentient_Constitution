@@ -677,7 +677,7 @@ This Article sets out the decriminalization floor for adult consensual sexual se
   - dispute resolution.
   
   Those frameworks must scale by **Materiality**, dependency, isolation, and vulnerability. They must not become stigma-driven regimes or single out this activity relative to functionally comparable lawful services.
-  - [**CI-4.240**](corpus_institutions/ci_04.240_vulnerable_personal_services_markets_article_viie_interface.md#ci-4240-vulnerable-personal-services-markets--general-regulation-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface) (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and [**CS-8.305**](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) (market-mediated personal services) supply operational expectations.
+  - [**CI-4.240**](corpus_institutions/ci_04.240_vulnerable_personal_services_markets_article_viie_interface.md#ci-4240-vulnerable-personal-services-markets--general-regulation-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface) (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and [**CS-8.305**](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) (market-mediated personal services) supply operational expectations.
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter Two** and **Chapter Three**.
   - Neutral-form regulation does not avoid that scrutiny.
@@ -1140,8 +1140,8 @@ This Article sets out the freedom to publish in good faith and its limits:
   - cascading failure;
   - patterns that materially degrade epistemic integrity.
   
-  High-impact distribution channels, and **Class A** or **Class B** systems where **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** applies, trigger heightened proportional constraints on distribution mechanics and safeguards.
-  - These limits operate jointly with **Privacy (Informational)**, **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** where referenced there, and the **interpretive hubs** at the opening of this chapter.
+  High-impact distribution channels, and **Class A** or **Class B** systems where **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** applies, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - These limits operate jointly with **Privacy (Informational)**, **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** where referenced there, and the **interpretive hubs** at the opening of this chapter.
 
 #### Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement
 <details>
@@ -1396,7 +1396,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
+- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
 
@@ -1411,7 +1411,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 
 <br>
 
-*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
+*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-8.305** (*System classification machinery*) and **Subcore 8-A** (*System Classification*), that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
 
 This Article sets out the rights to challenge inclusion in and exclusion from participation:
 
@@ -1419,7 +1419,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
 - **Auditability:** Material impact and stakeholder-status determinations must remain auditable, challengeable, and explainable through the **interpretive hubs** at the opening of this chapter and through adopted governance implementation, **except** as provided under **Class P** below.
   - No single system or authority may exclusively resolve such determinations, **except** as provided under **Class P** below.
 - **Dispute pathways:** Disputes follow **Article XX** (*Standing and Participation Status*) where adjudication applies, and designated escalation pathways otherwise.
-- **Class P proportionality:** For systems that **validly** remain **Class P** under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, the preceding bullets **do not** require:
+- **Class P proportionality:** For systems that **validly** remain **Class P** under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, the preceding bullets **do not** require:
   - **external** stakeholder-boundary challenge;
   - **interpretive-hub** routing for purely **intra-unit** participation decisions; or
   - a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**.
@@ -1428,7 +1428,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
   - **Article XX** (*Standing and Participation Status*) where adjudication applies;
   - **Chapter Two** rights-collision treatment;
   - any Constitutional Constraint: Safety, Truth, and the Rights Floor, including [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), bind inclusion and exclusion decisions inside a Class P Operating Party in full; or
-  - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — System impact classifications**.
+  - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-8.305** (*System classification machinery*) and **Subcore 8-A** (*System Classification*).
 
 ### Article XI: Conscience, Expression, Association, and Cooperative Interaction
 

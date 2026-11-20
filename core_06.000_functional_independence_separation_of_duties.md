@@ -108,7 +108,7 @@ The chapter's sections cover:
 
 The standard independence requirements for a body named as an Independent Body are in [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies), *Independent Bodies*.
 
-**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](subcore_03.085_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
+**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](subcore_03.085_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 <a id="2-why-the-jobs-are-separated"></a>
 ### 2. Why the Jobs Are Separated

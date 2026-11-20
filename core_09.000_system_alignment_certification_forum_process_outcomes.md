@@ -427,7 +427,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [Chapter Ten §6.3](core_10.000_system_alignment_certification_records_recertification.md#63-verified-input-gate) and [§6.5](core_10.000_system_alignment_certification_records_recertification.md#65-violation-standing-record) (*verified-input gate where facts support adverse findings*);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum supervision*);
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
-- Read with: **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-8.305 §3](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
+- Read with: **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[Subcore 8-A §2.5](subcore_08.010_system_classification.md#25-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
 - Subsections:
   - [§4.1](#41-go-live-gate) (*go-live gate*, with
   - [§4.1.1 Systems Already Operating](#411-systems-already-operating) and
@@ -820,6 +820,6 @@ These are the effects of a denial or revocation under [§4.4 Denial and Revocati
 
 ---
 
-**Previous file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Previous file:** [subcore_08.010_system_classification.md](subcore_08.010_system_classification.md)
 
 **Next file:** [core_10.000_system_alignment_certification_records_recertification.md](core_10.000_system_alignment_certification_records_recertification.md)

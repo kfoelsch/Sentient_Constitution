@@ -190,7 +190,7 @@ Articles XIV-A and XIV-B remain reachable for joiners and already-covered sentie
 Scope the joiner takes on (whole Constitution / named chapters, articles,
     or obligations — still subject to non-regression):
 Custody of the authoritative edition the joiner pins:
-CS-8.305 and CS-8.310 class or “not yet classified — auditability still proportionate”:
+CS-8.305 and Subcore 8-A class or “not yet classified — auditability still proportionate”:
 
 First-mover capture check:
 [ ] These rules are contestable (Article XIV-A).

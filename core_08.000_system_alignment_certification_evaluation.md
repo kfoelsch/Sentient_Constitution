@@ -17,6 +17,7 @@
 > - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records** — evaluation domains (Chapter Eight); forum process, supervisory sequence, and certification outcomes with the go-live gate (Chapter Nine); System Certification Record duties, the challenge path, recertification and reopening, and the verified-input bridge to Chapter Fourteen (all in Chapter Ten). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability).
 > - **Verification substrate owner:** [Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (within Subcores 3-A to 3-C) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to System Certification Records; it does **not** restate Subcore 3-C sections **1** through **5**.
 > - **Auditing home (not relocated here):** **Article XVII** (*Audit, Transparency, and Independent Verification*), **Def.O1** (*Transparency, Auditability, and Verification*), and **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5** own auditing floors and operational terms. Chapter Eight runs one especially large SAC audit process that must satisfy those floors; it does not own all auditing.
+> - **System classification owner:** [Subcore 8-A](subcore_08.010_system_classification.md#subcore-8-a-system-classification), attached to this chapter, owns the classification dimensions and factors, the dependency types, the impact classes with their scaled duties, and the steward levels that §3 applies.
 > - **Implementation owner:** system-class handling, CS-4.345 (*System lifecycle*), and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule.
 > - **Anti-relocation rule:** Chapter Eight does not restate Chapter Three canonical definitions, Subcore 3-B anti-evasion discipline (see [Chapter Ten §4.4](core_10.000_system_alignment_certification_records_recertification.md#44-non-evasion)), Chapter Fifteen contribution or standing measurement, or Chapter Sixteen standing effects. **[Chapter Ten §6](core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing)** states the standing bridge.
 >
@@ -75,7 +76,7 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
   - [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*standing effects and integration*);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum supervision, certification, alignment certification, and review*).
 - Read with:
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, and
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, and
   - **CS-4.345** (*System lifecycle*);
   - **CF-22.415** (*Routing operations, transfer, questions for ruling, and representative treatment*) and
   - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **Article XVII** (*Audit, Transparency, and Independent Verification*) and
@@ -149,7 +150,7 @@ As an oversight mechanism, certification is one especially large audit process u
 - It is forum-supervised, multi-domain, and status-granting.
 - It may integrate the results of sibling audit modes, and it does not absorb or replace them. Each keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_03.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home:
   - System Data Types Record audits under **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*)
-  - System Classification Record audits under **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*)
+  - System Classification Record audits under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*)
   - steward assurance reviews under **CS-26.305** (*Critical system stewardship*)
   - continuous audit under **CS-4.345** (*System lifecycle*) ACA
   - complexity audits under **CS-4.315** (*Comprehensibility and Complexity Stewardship*) and **Article XXIV-B** (*Complexity Audit and Modularity Requirements*)
@@ -161,10 +162,10 @@ Certification depth, record burden, certification interval, stakeholder review, 
 - Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
 - Lower system classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
 
-The process applies by impact class, as the [reclassification requirement](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement) of **CS-8.305** (*System classification machinery*) sets out:
+The process applies by impact class, as the [reclassification requirement](subcore_08.010_system_classification.md#25-reclassification-requirement) of **CS-8.305** (*System classification machinery*) sets out:
 
 - **Class A, Class B, and Class C:** these systems carry the highest impact, dependency, and risk, and whole-system evaluation under [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](#6-rights-floor-and-domain-evaluations), each as its own sub-phase applies, is mandatory at full depth;
-- **Class L:** the same evaluation is mandatory but proportionate, with a longer default certification interval and simpler records where CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) permits; and
+- **Class L:** the same evaluation is mandatory but proportionate, with a longer default certification interval and simpler records where CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) permits; and
 - **Class P:** the process is encouraged while the system is validly Class P, and a Class P system may use it voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the operator voluntarily asserts constitutional compliance for the system.
 
 The certification interval, and the financial, resource, or special audit that falls at its midpoint, are set by system class in [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
@@ -314,8 +315,8 @@ flowchart TB
   - [Chapter Nine §4](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*classification drift and reclassification triggers*).
 - Read with:
   - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record);
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, including **
-  - [CS-8.305 §3.5 reclassification requirement](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement* — triggers, system-class-scaled evaluation depth, and SAC verification bridge) and **
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, including **
+  - [Subcore 8-A §2.5 reclassification requirement](subcore_08.010_system_classification.md#25-reclassification-requirement)** (*Reclassification requirement* — triggers, system-class-scaled evaluation depth, and SAC verification bridge) and **
   - [CS-8.305 §7](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-7-classification-governance-disclosure-and-challenge)** (*Classification Governance, Disclosure, and Challenge*) — System Classification Record governance duties and the SAC bridge;
   - [CS-4.345 — System lifecycle](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle);
   - [CJS-3.130 §21 — Adversarial robustness and abuse-resistance terms](corpus_joint_structure/cjs_03.130_continuity_operations.md#cjs-3130-20-continuity-reversibility-and-containment-terms) (*regression and hardening cycle obligations*);
@@ -329,7 +330,7 @@ flowchart TB
 
 Every System Certification Record for a materially impactful system must include an evaluation of the system's **system class**.
 
-The detailed rules live in [CS-8.305 — System classification machinery](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery), and [CS-4.345 — System lifecycle](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle). They cover:
+The detailed rules live in [CS-8.305 — System classification machinery](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery), and [CS-4.345 — System lifecycle](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle). They cover:
 
 - what the system classes are, how a system class is assigned, and the system class profiles;
 - how classification is governed;
@@ -340,7 +341,7 @@ The detailed rules live in [CS-8.305 — System classification machinery](corpus
 This section states what certification must verify:
 
 - **Evaluation requirement:**
-  - whether the assigned system class reflects observed and reasonably foreseeable **impact**, **dependency**, and **risk** under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*), including:
+  - whether the assigned system class reflects observed and reasonably foreseeable **impact**, **dependency**, and **risk** under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*), including:
     - aggregate effects;
     - interaction effects;
     - adversarial effects;
@@ -350,11 +351,11 @@ This section states what certification must verify:
     - nominal scope;
     - [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone; or
     - self-description alone;
-  - that the system's class was re-checked under the **[CS-8.305 §3.5 reclassification requirement](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** whenever a significant change called for it; and
+  - that the system's class was re-checked under the **[Subcore 8-A §2.5 reclassification requirement](subcore_08.010_system_classification.md#25-reclassification-requirement)** whenever a significant change called for it; and
   - that the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) shows the **highest system class that applies** under current conditions.
 - **Assurance and regression testing:**
   - that system-class-scaled assurance, infrastructure robustness, and regression coverage match the assigned system class under:
-    - CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); and
+    - CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*); and
     - CS-4.345 (*System lifecycle*), read with these shared operational terms where materially applicable:
       - [**CJS-3.130 §19**](corpus_joint_structure/cjs_03.130_continuity_operations.md#right-to-exit-pathway-integrity-c) (*Continuity: Graceful Degradation and Failure-Mode Integrity Terms*);
       - [**CJS-3.130 §20**](corpus_joint_structure/cjs_03.130_continuity_operations.md#transparency-disclosures-and-stakeholder-legibility-c) (*Continuity: Reversibility and Containment Terms*);
@@ -381,10 +382,10 @@ This subsection states what certification must verify about certification status
     - that the system is rechecked often enough, and retested deeply enough, to serve the **Continuity** aim in [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), so that essentials keep reaching sentients over time; and
     - that a certification that has gone stale, or was issued too soon, is never treated as proof that sentients are getting food, water, shelter, education, or safety today.
 - **Misclassification and defects:**
-  - certification defects under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and [Chapter Nine §4 Certification Outcomes](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes), not minor paperwork mistakes, include:
+  - certification defects under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) and [Chapter Nine §4 Certification Outcomes](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes), not minor paperwork mistakes, include:
     - claiming a lower risk class than the system deserves;
     - breaking the system into pieces to dodge tougher rules; or
-    - keeping an old system class label after conditions have changed, including failure to reassess under the **[CS-8.305 §3.5 reclassification requirement](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)**;
+    - keeping an old system class label after conditions have changed, including failure to reassess under the **[Subcore 8-A §2.5 reclassification requirement](subcore_08.010_system_classification.md#25-reclassification-requirement)**;
   - certification defects under CS-4.345 (*System lifecycle*) include:
     - skipping regression tests;
     - relying on outdated results;
@@ -402,7 +403,7 @@ System class sets how deeply every evaluation in this chapter is carried out —
 
 - Higher-class systems require proportionately stronger evidence that each applicable evaluation was actually performed, not asserted. No system class may settle for credentials, labels, or accommodations that exist only on paper, or for assessments and decisions that nobody can see into.
 - Lower system classes still require an honest, proportionate evaluation wherever a trigger applies.
-- System class never permits skipping a required evaluation. A system whose real role outgrows its system class must be reclassified and re-evaluated at the higher depth. Growth in scale, reach, or adoption, and dependence that strengthens, widens, or becomes harder to replace, are reassessment triggers under **[CS-8.305 §3](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*), and they reopen review under [§4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers). Concentration past a threshold that an adopter has set under [Chapter Two §11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) is further evidence of that growth. Reassessment does not wait for a threshold to be crossed, and a threshold that is unset or set too high does not delay it.
+- System class never permits skipping a required evaluation. A system whose real role outgrows its system class must be reclassified and re-evaluated at the higher depth. Growth in scale, reach, or adoption, and dependence that strengthens, widens, or becomes harder to replace, are reassessment triggers under **[Subcore 8-A §2.5](subcore_08.010_system_classification.md#25-reclassification-requirement)** (*Reclassification requirement*), and they reopen review under [§4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers). Concentration past a threshold that an adopter has set under [Chapter Two §11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) is further evidence of that growth. Reassessment does not wait for a threshold to be crossed, and a threshold that is unset or set too high does not delay it.
 
 Participation and proportionality requirements scale the same way:
 
@@ -520,7 +521,7 @@ That assessment must also check that each of the following kinds of material rol
 - governance roles; and
 - accountability roles.
 
-This is scaled to system class and material impact under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**. The system class also sets the schedule on which it is checked again ([§3 System Class Evaluation](#3-system-class-evaluation)).
+This is scaled to system class and material impact under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**. The system class also sets the schedule on which it is checked again ([§3 System Class Evaluation](#3-system-class-evaluation)).
 
 To assess governance, incentives, and contestability, certification must apply the following:
 
@@ -554,7 +555,7 @@ A system's own governance, incentives, and contestability are still evaluated he
 
 It is published through the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) at public-baseline fidelity, under the substitute and hold-back rules of the **[CS-4.305 §7 Type O baseline](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-7-type-o-baseline-for-class-abc-systems)**. For **Class A**, **Class B**, and **Class C** systems it is also part of the [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and [§4.4.1 Type O Baseline Disclosure](#441-type-o-baseline-disclosure) verifies that it is actually published.
 
-For **Class L** and **Class P** systems the full Public Oversight Baseline Disclosure does not apply, but this certification data is still **Type O**. How much detail it carries follows the system class's transparency duty under [CS-8.310 §8.6 Scaled-Duties Intensity](corpus_systems/cs_08.310_system_impact_classifications.md#86-scaled-duties-intensity). If a Class L or Class P system is reclassified to Class C or higher, the full baseline applies from reclassification.
+For **Class L** and **Class P** systems the full Public Oversight Baseline Disclosure does not apply, but this certification data is still **Type O**. How much detail it carries follows the system class's transparency duty under [Subcore 8-A §6.6 Scaled-Duties Intensity](subcore_08.010_system_classification.md#66-scaled-duties-intensity). If a Class L or Class P system is reclassified to Class C or higher, the full baseline applies from reclassification.
 
 <a id="42-systemic-scope-and-risk-factors"></a>
 #### 4.2 Systemic Scope and Risk Factors
@@ -733,7 +734,7 @@ Event-triggered retyping under CS-4.305 (*Information types and handling*) and C
 <a id="445-system-class-scaled-infrastructure-assurance"></a>
 ##### 4.4.5 System-Class-Scaled Infrastructure Assurance
 
-Under [§3.2 How system class scales every evaluation](#32-how-system-class-scales-every-evaluation) and CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*), higher-class systems require proportionately stronger evidence that handling, storage, processing, transmission, backup, recovery, and monitoring infrastructure can preserve the following under stress:
+Under [§3.2 How system class scales every evaluation](#32-how-system-class-scales-every-evaluation) and CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*), higher-class systems require proportionately stronger evidence that handling, storage, processing, transmission, backup, recovery, and monitoring infrastructure can preserve the following under stress:
 
 - classification integrity;
 - attribution; and
@@ -1599,4 +1600,4 @@ Documented false trust, perverse incentives, inaccessible challenge paths, and r
 
 **Previous file:** [core_07.000_independent_bodies.md](core_07.000_independent_bodies.md)
 
-**Next file:** [core_09.000_system_alignment_certification_forum_process_outcomes.md](core_09.000_system_alignment_certification_forum_process_outcomes.md)
+**Next file:** [subcore_08.010_system_classification.md](subcore_08.010_system_classification.md)

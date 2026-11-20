@@ -2429,7 +2429,7 @@
       "machine_id": "CS-09305",
       "display_id": "CS-8.305",
       "old_anchor": "cs-3-part-a-system-classification-machinery",
-      "new_anchor": "cs-8305-part-a-system-classification-machinery",
+      "new_anchor": "cs-8305-system-classification-machinery",
       "header": "CS-3, Part A: System classification machinery"
     },
     {
@@ -7079,7 +7079,7 @@
         "machine_id": "CS-09305",
         "display_id": "CS-8.305",
         "old_anchor": "cs-3-part-a-system-classification-machinery",
-        "new_anchor": "cs-8305-part-a-system-classification-machinery"
+        "new_anchor": "cs-8305-system-classification-machinery"
       },
       {
         "source_file": "corpus_systems/cs_08.310_system_impact_classifications.md",
@@ -11176,7 +11176,7 @@
       "anchors": [
         {
           "old_anchor": "cs-3-part-a-system-classification-machinery",
-          "new_anchor": "cs-8305-part-a-system-classification-machinery"
+          "new_anchor": "cs-8305-system-classification-machinery"
         },
         {
           "old_anchor": "cs-31-purpose-and-scope",

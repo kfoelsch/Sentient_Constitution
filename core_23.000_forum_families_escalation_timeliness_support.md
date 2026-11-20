@@ -709,7 +709,7 @@ Implementation: [Forum Performance, Backlog Requirements, Publication Timeliness
 
 This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Fourteen through Twenty-Two** standing pipeline.
 
-- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](subcore_03.085_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*Continuation discipline*):
+- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](subcore_03.085_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
     - Scope of harm:
       - acute or ongoing injury where delay itself compounds damage;
