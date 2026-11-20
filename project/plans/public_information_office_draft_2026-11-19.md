@@ -191,7 +191,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 ### 6. Methods, Evidence Standards, and the Confidence Ladder
 
-*In plain terms: anything the office publishes must be checkable by someone outside it, and must say how sure the office is, on a fixed scale everyone can read.*
+*In plain terms: anything the office publishes must be checkable by someone outside it, and must say how sure the office is, on a fixed nine-step scale everyone can read. To climb the scale, a result needs more independent confirmation, better studies, and stronger statistics, all three at once.*
 
 Everything the office publishes carries:
 
@@ -201,15 +201,32 @@ Everything the office publishes carries:
 - data or lawful access limits; and
 - a searchable record of corrections and retractions.
 
-**Confidence ladder.** Every figure and finding the office publishes is rated on this ladder, from highest to lowest:
+**Confidence ladder.** Every figure and finding the office publishes is rated on a ladder of nine rungs, numbered from 1 (weakest) to 9 (strongest), the same shape as the nine slots of the standing scale in [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). A rung measures three things, and the evidence must get stronger on all three as it climbs:
 
-| Rung | Name | What it takes |
-|---|---|---|
-| 5 | **Established** | Independent methods or sources agree; the result has been replicated or has held across revisions; the method has passed independent audit. |
-| 4 | **Strong** | A published, audited method applied to good coverage of the data; small revisions are possible, but not a change of direction. |
-| 3 | **Moderate** | A published method, but with partial data, a model-based estimate, or known gaps; revisions are likely and may be material. |
-| 2 | **Preliminary** | An early estimate, a small or unverified sample, or a single source not yet checked; the figure may change a great deal. |
-| 1 | **Indicative** | A signal only: expert judgment, an untested model, or anecdotal reports. It should not be relied on alone for a decision. |
+- **Confirmation:** how many independent studies, sources, or methods reach the same result;
+- **Quality:** how well those studies or sources are designed, carried out, and checked; and
+- **Statistical strength:** how unlikely the result is to be chance, and how narrow its uncertainty range is.
+
+| Rung | Name | Confirmation | Quality | Statistical strength |
+|---:|---|---|---|---|
+| 1 | **Anecdotal** | None. A single report, an expert's view, or an untested model. | No systematic method. | Not tested. |
+| 2 | **Indicative** | One study or source, not yet checked by the office. | Exploratory: a small or convenience sample, or a method not set before the data were seen. | A pattern that has not reached significance, or was not tested for it. |
+| 3 | **Preliminary** | One study or source, checked by the office's method reviewer. | A published method, but limited sample, coverage, or controls. | Significant at the 5% level (p < 0.05) or the field's equivalent, with a wide range. |
+| 4 | **Provisional** | One good study or source, or two smaller ones that agree. | A published method with an adequate sample or coverage, and data open to checking. | p < 0.05, and the conclusion holds across the whole uncertainty range. |
+| 5 | **Moderate** | At least two independent studies or sources that agree. | At least one strong design, such as a controlled study or a full count; methods published in advance. | Each result p < 0.05; combined p < 0.01. |
+| 6 | **Substantial** | At least three independent studies by different teams, or three independent sources, that agree. | Mostly strong designs, at least one pre-registered; the method has passed independent audit. | Combined p < 0.005, with no unexplained contrary result of similar quality. |
+| 7 | **Strong** | Confirmed by at least three independent teams, including at least one direct replication, and summarized in a published systematic review. | Pre-registered, audited, high-quality designs carry the result. | Combined p < 0.001; results consistent across studies. |
+| 8 | **Robust** | At least five independent studies, using different methods or populations, agree in a systematic review or meta-analysis; the result has held across revisions. | High-quality designs dominate, and the review found no material bias. | Combined p < 0.0001; the size of the effect is stable as evidence is added. |
+| 9 | **Established** | Several independent lines of evidence, from different methods and fields, converge, and the result has held over many years and many tests. | As for rung 8, with each line of evidence independently audited. | At least five-sigma strength (about p < 3 × 10⁻⁷) or the field's equivalent, and no credible contrary evidence. |
+
+**Reading the three tests.**
+
+- **All three must be met:** a figure or finding takes the highest rung whose three tests it meets in full. A result that is highly significant in one small, unreplicated study stays low; many weak studies that agree do not reach a high rung either.
+- **Independence:** studies or sources count as independent only when different teams produced them from different data, and no team is funded by, employed by, or otherwise tied to a party with a [material stake](../../core_00.000_preamble.md#material-stake) in the result. A new analysis of the same data is a check, not a confirmation.
+- **Honest significance:** significance is adjusted for the number of tests run, and is reported with the size of the effect and its uncertainty range, never alone. A result found only after searching many comparisons, or whose analysis was not set in advance, is held at rung 4 or below until it is confirmed by a study designed to test it.
+- **Contrary evidence:** an unexplained contrary result of similar quality holds a finding at rung 5 or below until it is explained or outweighed under the tests above.
+- **Figures that are not studies:** for official statistics, a confirmation is an independent source or method that measures the same quantity, quality is the coverage and audit of the collection, and statistical strength is the width of the uncertainty range relative to the figure (or, for a full count, the audited error rate). The corpus-institutions file sets these equivalents for each type of figure, and they may be no looser than the tests in the table.
+- **Field equivalents:** where a field measures strength in another way, such as Bayes factors or interval widths, the corpus-institutions file publishes the equivalent for each rung. An equivalent may be stricter than the table, never looser.
 
 **How rungs are given.**
 
