@@ -67,7 +67,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
 
-**Homes:** [Chapter Twenty-Four §2.4 Representative filing](../../core_24.000_forum_families_escalation_timeliness_support.md#24-environment-forums); **CF-23.415 §3** in [`corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md).
+**Homes:** [Chapter Twenty-Four §2.4 Representative filing](../../core_24.000_forum_families_escalation_timeliness_support.md#24-environment-forums); **CF-23.415 §5** in [`corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md).
 **Do not:** Declare Nature a Chapter Six sentient or copy Ecuador Arts. 71–74 unless C1 is deliberately chosen.
 
 ### B3. FPIC non-shrinkage — **done**

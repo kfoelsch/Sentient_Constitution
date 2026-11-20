@@ -1140,7 +1140,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter Nineteen §3.6 Interim Holds and Locks](core_19.000_violation_consequences.md#36-interim-holds-and-locks) (19.000 §3.6);
   - [**Article XX-B** (*Contestability and Proportional Restriction Limits*)](core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits);
   - [**Article XIII-A** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards);
-  - **CF-23.410 §15** (*Interim Hold on a Panel Member or Seat Holder*);
+  - **CF-23.410 §17** (*Interim Hold on a Panel Member or Seat Holder*);
   - **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
 - Read with:
   - [Stay](core_05.035_band_accountability.md#stay),
@@ -2212,7 +2212,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody) (7.000 §5);
   - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
-  - **CF-23.415 §7** (*Backup Record Authority*).
+  - **CF-23.415 §9** (*Backup Record Authority*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Standing Record](core_05.035_band_accountability.md#standing-record),
@@ -2232,7 +2232,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 *In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that official record. It does not keep the official record, which is the Record Custodian's job, and it does not hear a challenge to the official record, which is the Contest Seat's job. It cannot be the official record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
+  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-23.415 §9** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
   - **Out of scope:** The Record Custodian that enters and holds the official record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the official record.
 <a id="record-opening-authority-a"></a>
 - **How to measure and assess**
@@ -2306,7 +2306,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
   - [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody) (7.000 §5);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
-  - **CF-23.415 §9** (*Backup Record Custodian*).
+  - **CF-23.415 §11** (*Backup Record Custodian*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Record Seat](core_05.035_band_accountability.md#record-seat),
@@ -2325,7 +2325,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 *In plain terms: the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the official record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-23.415 §9** (*Backup Record Custodian*)).
+  - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-23.415 §11** (*Backup Record Custodian*)).
   - **Out of scope:** The [Record-Opening Authority](core_05.035_band_accountability.md#record-opening-authority) that verifies and authorizes. The Contest Seat. A registrar that files and receipts. Incidental storage or a copy held without authority over the official record.
 <a id="record-custodian-a"></a>
 - **How to measure and assess**
@@ -3726,7 +3726,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Archive is the sealed shelf. Restricted material is kept whole and safe, not lost or destroyed, and can be opened later by lawful order or for audit. Sealing never means disappearing.*
 
 - **What it is**
-  - **In scope:** The sealed collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-23.465 §5** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-23.415 §8** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-23.465 §5** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library).
+  - **In scope:** The sealed collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-23.465 §5** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-23.415 §10** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-23.465 §5** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library).
   - **Out of scope:** [Constitutional Library](core_05.035_band_accountability.md#constitutional-library); any hiding of the fact that an item exists; the restricted-information decisions made by the Restricted Information Authority; and [Standing Record](core_05.035_band_accountability.md#standing-record) custody under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
 <a id="constitutional-archive-a"></a>
 - **How to measure and assess**

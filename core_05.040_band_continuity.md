@@ -4959,7 +4959,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter Seven §4 What System and Institutional Charters Must State](core_07.000_charters.md#4-what-system-and-institutional-charters-must-state) (7.000 §4) (*what a System Charter or Institutional Charter may point to, and the duty that each pointer resolve*);
   - [Chapter Twenty-Seven §5.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#53-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §5.3) (*the Charter Pointer rule for binding stakeholder choice*);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
-  - **CF-23.415 §5** (*Institutional and Local Registrars*) (*the completeness check that each pointer resolves*).
+  - **CF-23.415 §7** (*Institutional and Local Registrars*) (*the completeness check that each pointer resolves*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
   - [System Charter](core_05.040_band_continuity.md#system-charter),

@@ -414,7 +414,7 @@ A matter can leave its default lead forum in five ways. In this section, "escala
 
 | Move | What happens | When | Rules in |
 |------|--------------|------|----------|
-| **Transfer or consolidation** | A matter, or related matters, go to one lead forum. The case keeps its Forum Case Record. | The default venue under **Chapter Twenty-Three section 3.3.2** no longer fits, or related matters need one lead. | **Chapter Twenty-Three section 5**, and [CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure) (*Transfer Procedure*). |
+| **Transfer or consolidation** | A matter, or related matters, go to one lead forum. The case keeps its Forum Case Record. | The default venue under **Chapter Twenty-Three section 3.3.2** no longer fits, or related matters need one lead. | **Chapter Twenty-Three section 5**, and [CF-23.415 §12 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-12-transfer-procedure) (*Transfer Procedure*). |
 | **Referral** | One component issue goes to the family that must decide it. It stays with that family for primary-stakes merits, and the lead keeps its own part of the case. | A component question belongs primarily to another family. | **Chapter Twenty-Three section 5** (*Integrity-led alignment coordination*), and [Referral Distinguished from Expansion](#referral-distinguished-from-expansion). |
 | **Question for ruling** | The lead family sends a question of constitutional meaning, validity, or structural effect to **Constitutional** forums. | The matter cannot be resolved without that question. | [Sending Questions to Constitutional Forums for Ruling](#sending-questions-to-constitutional-forums-for-ruling). |
 | **Family-to-family escalation** | The case moves to a different forum family. | The receiving family has become the better merits forum under primary-stakes routing, anti-self-judging protection, or a constitutional question sent for ruling. | [Family-to-Family Escalation](#family-to-family-escalation). |
@@ -422,7 +422,7 @@ A matter can leave its default lead forum in five ways. In this section, "escala
 
 Three points keep the moves apart:
 
-- Every move that changes the lead keeps the same case and its Forum Case Record, and is carried out as one automated step that updates the docket portal and sends alerts ([CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure)).
+- Every move that changes the lead keeps the same case and its Forum Case Record, and is carried out as one automated step that updates the docket portal and sends alerts ([CF-23.415 §12 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-12-transfer-procedure)).
 - A **backup forum** is the independent forum family or external review path that hears the merits when the lead family cannot judge its own matter. **Chapter Twenty-Three section 5** names the independent lead and the backup for each family, and the Backup Routing subsection below says when backup routing starts.
 - Appeal and secondary review are not moves between forums. They review a forum's own decision, in the Contest Seat under [Chapter Twenty-Three §4.2 Seats in a Forum Case](core_23.000_forum.md#42-seats-in-a-forum-case) and [CF-23.420](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#cf-23420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, Secondary Review, and Exhaustion Pathways*).
 
@@ -547,7 +547,7 @@ This subsection sets out the [Interim Hold](core_05.035_band_accountability.md#i
 - **Applications:** A hold may be issued only in these applications, or where a provision of this Constitution or an incorporated text names it:
   - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation), for authority in an Operating Party;
   - [Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity) and **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), for a holder of a covered office at any time; and
-  - **CF-23.410 §15** (*Interim Hold on a Panel Member or Seat Holder*), with [**Article XIII-A** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
+  - **CF-23.410 §17** (*Interim Hold on a Panel Member or Seat Holder*), with [**Article XIII-A** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
 
   Other interim relief under this chapter stays available for what it already covers. Relief directed at a named sentient's exercise of a gated pathway on less than a verified finding follows this subsection.
 
@@ -775,7 +775,7 @@ This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay F
   - **Provisional interval:** a system or Institution holding provisional certification runs on a shorter interval, which the forum sets and the Forum Case Record states. Its audit still falls at the midpoint of the interval in force.
   - **Class P:** the cadence applies to a Class P body only where it publishes a System Charter or Institutional Charter.
   - **Floors, not ceilings:** an adopted document may set shorter intervals and never longer ones. Reopening for cause under [Chapter Eleven §3.2 Reopening Triggers](core_11.000_system_alignment_certification_records_recertification.md#32-reopening-triggers) is unaffected, and the next certification and audit dates run from the latest completed certification pass.
-  - **Where results go:** audit results go to the forum that enforces them and to the Integrity registrar under [CF-23.415 §6 Integrity Registrar](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-6-integrity-registrar).
+  - **Where results go:** audit results go to the forum that enforces them and to the Integrity registrar under [CF-23.415 §8 Integrity Registrar](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-integrity-registrar).
 - **Anti-delay floor:** The following are non-compliant where they foreseeably nullify rights, remedies, or timely protection:
   - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XIV-B** (*Right to Redress and Remedy*) practical access;
   - delay regimes designed to exhaust claimants;

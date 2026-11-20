@@ -89,7 +89,7 @@ Chapter Twenty-Three is the constitutional owner of **forum supervision and stan
   - [Preamble §3.2](core_00.000_preamble.md#32-key-governance-processes) and
   - [§3.3](core_00.000_preamble.md#33-governance-layers) (*process paths and governance-layer discipline*);
   - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process);
-  - **CF-23.420 §2.2** (*Emergency, Exhaustion, and Timing Rules*);
+  - **CF-23.420 §4.2** (*Emergency, Exhaustion, and Timing Rules*);
   - [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) and [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) for contest, secondary review, and integrity monitoring, which does not replace assigned forum jurisdiction;
   - [Article XIV-A: Reliability and Trustworthiness Baseline](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and
   - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
@@ -515,7 +515,7 @@ A case reaches a forum in one of four ways. The intake triage body records the i
 These rules apply to every intake:
 
 - A claim is routed by what it contests in substance, not by how it is filed. A claim that in substance contests a Certification Record, a Standing Record, or an Adoption Transition Record is a review case.
-- A transfer, consolidation, or referral between forums continues the same case. The case keeps its intake kind and its [Forum Case Record](core_05.035_band_accountability.md#forum-case-record), and only the lead changes (**section 5**). A move that changes the lead is one automated step that updates the docket portal and sends alerts ([CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure)).
+- A transfer, consolidation, or referral between forums continues the same case. The case keeps its intake kind and its [Forum Case Record](core_05.035_band_accountability.md#forum-case-record), and only the lead changes (**section 5**). A move that changes the lead is one automated step that updates the docket portal and sends alerts ([CF-23.415 §12 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-12-transfer-procedure)).
 - A direct case may end in a verified violation finding that opens or corrects a Standing Record. The forum then acts as record-opening authority on the terms in [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary), and a contest of that Standing Record is a new review case heard by a forum that did not make the finding.
 
 <a id="42-seats-in-a-forum-case"></a>
@@ -640,7 +640,7 @@ While a challenge is pending:
 A Standing-Record contest is a [Review Case](core_05.035_band_accountability.md#review-case). A Standing Record may be contested before or after any filing, as follows:
 
 - A challenge raised on a Standing Record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the Standing Record, set *under challenge*, and routed by the custodian under [Chapter Fifteen §7.3](core_15.000_standing_assessment.md#73-challenge-received-on-the-standing-record) (*Challenge Received on the Standing Record*); the tier windows under **Chapter Twenty-Four §4** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
-- Where the record-opening authority was a Backup Record Authority under **CF-23.415 §7** (*Backup Record Authority*), a contest of that Standing Record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
+- Where the record-opening authority was a Backup Record Authority under **CF-23.415 §9** (*Backup Record Authority*), a contest of that Standing Record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
 - A sentient, institution, system, community, or other affected subject may ask a forum with jurisdiction to review a **contribution Standing Record** or **violation Standing Record** when they claim the Standing Record is:
   - wrong;
   - incomplete;
@@ -766,7 +766,7 @@ When one sentient files a case, the forum **may** widen the proceeding to cover 
 When a lawful order or published rule sends a matter to another forum, the move is one automated step: "go here."
 - The case keeps its Forum Case Record, intake kind, tier, and the time already counted. Only the lead changes. Nothing is re-filed, re-opened, or re-proved.
 - The same step updates the docket portal and alerts the parties, the representatives, and both forums. No one has to carry the matter across by hand.
-- The order or published rule decides where the matter goes. The step does not decide that, and it cannot be used to steer a matter. The mechanics are in [CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure).
+- The order or published rule decides where the matter goes. The step does not decide that, and it cannot be used to steer a matter. The mechanics are in [CF-23.415 §12 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-12-transfer-procedure).
 
 <a id="53-cross-forum-anti-self-judging-rule"></a>
 
