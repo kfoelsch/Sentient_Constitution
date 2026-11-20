@@ -87,6 +87,9 @@ Systems change after they are certified: new versions ship, owners change, and r
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
   - [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);

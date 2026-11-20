@@ -59,7 +59,9 @@ The sentients who run a system have reasons, sometimes good ones, not to see its
 
 **Grounded in:**
 
-- Preamble: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) leg;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles: [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);

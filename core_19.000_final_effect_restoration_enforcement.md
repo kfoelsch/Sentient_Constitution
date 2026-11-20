@@ -56,6 +56,9 @@ After the earlier steps, the results have to land somewhere concrete. If they be
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);
   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);

@@ -40,6 +40,9 @@ Consultations that change nothing, consent forms that cannot be refused, and app
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation) leg;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Four Articles:
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
   - [Article XX](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*);

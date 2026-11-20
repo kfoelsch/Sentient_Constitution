@@ -59,6 +59,9 @@ The Constitution spreads its work across many chapters, a subcore, and four adop
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
   - [§5.2.4 Complexity-as-Defeat Discipline](core_02.000_values_principles.md#524-complexity-as-defeat-discipline);

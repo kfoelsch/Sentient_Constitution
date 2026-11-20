@@ -117,6 +117,9 @@ A violation can be serious in its own right and also attack the system of protec
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);

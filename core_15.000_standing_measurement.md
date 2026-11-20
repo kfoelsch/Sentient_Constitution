@@ -79,6 +79,9 @@ Without a shared scale, the same harm could be called minor in one place and gra
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);

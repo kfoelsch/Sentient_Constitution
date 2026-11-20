@@ -62,7 +62,10 @@ If every system carried the full weight of every duty, small and private systems
 
 **Grounded in:**
 
-- Preamble: [material stake](core_00.000_preamble.md#material-stake);
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [material stake](core_00.000_preamble.md#material-stake);
 - Chapter Two principles: [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement);
 - Chapter Four Articles:
   - [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);

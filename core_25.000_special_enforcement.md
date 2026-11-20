@@ -63,6 +63,9 @@ The same logic applies to failure. When the same kind of outcome keeps going und
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process);
   - [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity);

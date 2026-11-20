@@ -132,6 +132,9 @@ The five parts are different reading paths through the same floor. **Part A** (t
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim);
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);

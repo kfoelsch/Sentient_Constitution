@@ -61,7 +61,9 @@ Every protection in this Constitution can be defeated by delay: a review that ne
 
 **Grounded in:**
 
-- Preamble: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) leg;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Four Articles: [Article XXVII](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*);
 - Chapter Twenty-Three: [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 

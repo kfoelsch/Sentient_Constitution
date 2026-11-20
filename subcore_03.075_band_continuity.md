@@ -41,6 +41,8 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 
 **Grounded in:**
 
+- Preamble:
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§8 Continuity Aim: Introduction](core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction);
   - [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);

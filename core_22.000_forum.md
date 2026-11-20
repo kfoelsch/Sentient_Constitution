@@ -132,15 +132,19 @@ The chapter leaves the certification rules to the certification chapters, the st
 
 *In plain terms: every right needs a place where a sentient can be heard when it is denied. This chapter exists so that place is fair, independent, timely, and actually reachable.*
 
-A right that cannot be brought before someone independent is only a hope. Disputes also go wrong in predictable ways: the powerful choose a friendly venue, a case is passed between offices until it lapses, or the body being challenged hears the challenge. This chapter supervises the forums, decides which forum hears a matter by its primary stake, and keeps any body from judging its own case. Forums are where all four legs of the Tetrad meet: participation, because the sentient affected must be heard; accountability, because someone must answer for the decision; oversight, because an independent body checks what was done; and timeliness, because relief that comes too late is no relief. They also serve Continuity, since disputes left open wear down the shared systems sentients depend on. Above all, a forum must be fair, or none of this holds.
+A right that cannot be brought before someone independent is only a hope. Disputes also go wrong in predictable ways: the powerful choose a friendly venue, a case is passed between offices until it lapses, or the body being challenged hears the challenge. This chapter supervises the forums, decides which forum hears a matter by its primary stake, and keeps any body from judging its own case.
 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs: [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs meet in a forum:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): the sentient affected must be heard;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): someone must answer for the decision;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an independent body checks what was done;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): relief that comes too late is no relief;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity), since disputes left open wear down the shared systems sentients depend on;
 - Chapter Two principles:
-  - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness);
+  - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness): above all, a forum must be fair, or none of this holds;
   - [§17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);

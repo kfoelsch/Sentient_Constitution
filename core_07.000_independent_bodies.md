@@ -51,6 +51,9 @@ Where an official's decision can be overturned by a phone call, the public gets 
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
