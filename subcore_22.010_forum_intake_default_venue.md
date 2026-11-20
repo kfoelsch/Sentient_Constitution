@@ -24,12 +24,12 @@ Subcore 22-A is the constitutional owner of **forum intake and default venue**: 
 
 *In plain terms: whoever picks the forum can often pick the result. A fixed, published table takes that choice away from the stronger party.*
 
-Where a case starts shapes how it ends: which experts are heard, which evidence counts, and how fast relief comes. If each adopter, or each party, could choose the starting forum, the powerful would steer cases to friendly venues and the weaker party would lose before the merits were heard. A default venue table that every adopter shares, applied at filing by a desk that cannot decide the merits, makes the starting point predictable and keeps it out of reach of forum shopping. That is first a matter of fairness. It also serves participation, since a sentient can find the forum without a lawyer's map; accountability, since the forum that leads is known in advance; timeliness, since a case does not stall while parties argue over where it belongs; and Continuity, since disputes that reach the right forum early do less lasting harm.
+Where a case starts shapes how it ends: which experts are heard, which evidence counts, and how fast relief comes. If each adopter, or each party, could choose the starting forum, the powerful would steer cases to friendly venues and the weaker party would lose before the merits were heard. A default venue table that every adopter shares, applied at filing by a desk that cannot decide the merits, makes the starting point predictable and keeps it out of reach of forum shopping. That is first a matter of fairness. It also serves participation, since a sentient can find the forum without a lawyer's map; accountability, since the forum that leads is known in advance; oversight, since the desk that routes a case cannot decide it; timeliness, since a case does not stall while parties argue over where it belongs; and Continuity, since disputes that reach the right forum early do less lasting harm.
 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs: [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity);
 - Chapter Two principles:
   - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness);
