@@ -85,7 +85,7 @@ Institutions merge, split, change owners, and change leaders. A certification th
   - [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3), including [§3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) and [§3.2 Transparency and Auditability of the System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
   - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
-  - [Subcore 4-A §8.3 Type O](subcore_04.050_data_types.md#83-type-o-open-public-oversight-baseline-disclosure-data).
+  - [Subcore 4-A §10.3 Type O](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data).
 - Downstream: [§4](#4-recertification-and-reopening); [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing).
 - Read with:
   - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
@@ -134,7 +134,7 @@ A System Certification Record alone, or an Institution's own report or attestati
 
 The integrity rules of [Chapter Ten §3.2 Transparency and Auditability of the System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) apply to the Institutional Certification Record.
 
-**Type O.** The completed Institutional Certification Record is **Type O** certification data. It is published at public-baseline fidelity, with lawful substitutes, under [Subcore 4-A §8.3 Type O](subcore_04.050_data_types.md#83-type-o-open-public-oversight-baseline-disclosure-data).
+**Type O.** The completed Institutional Certification Record is **Type O** certification data. It is published at public-baseline fidelity, with lawful substitutes, under [Subcore 4-A §10.3 Type O](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data).
 
 <a id="4-recertification-and-reopening"></a>
 
@@ -148,7 +148,7 @@ The integrity rules of [Chapter Ten §3.2 Transparency and Auditability of the S
   - [Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (9.000 §3.2.3) and [Chapter Eight §4.1 Governance, Incentive, and Contestability Discipline](core_08.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (8.000 §4.1);
   - **CF-22.445 §5.1** (*Stage Targets and Outer Bounds*);
   - [Chapter Five §9 Amendment and Review](core_05.000_charters.md#9-amendment-review-and-scope-misalignment) (5.000 §9);
-  - [Subcore 3-B §2 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (S3-B §2) and [§3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns);
+  - [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and [§4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns);
   - [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) and [§4.3.3 Lead default limits](core_22.000_forum.md#433-lead-default-limits);
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6).
 - Downstream: [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
@@ -402,7 +402,7 @@ Specific to an Institution, provisional certification never bars an Institution 
 
 *In plain terms: no one gets out of this Chapter by dividing, renaming, or reshaping an institution.*
 
-Evasion of this Chapter is governed by Subcore 3-B ([Subcore 3-B §2 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints), including scope-and-boundary evasion under [§3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns)) and by [Chapter Ten §4.4 Non-Evasion](core_10.000_system_alignment_certification_records_recertification.md#44-non-evasion). Without limiting those, these are evasions of this Chapter:
+Evasion of this Chapter is governed by Subcore 3-B ([Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints), including scope-and-boundary evasion under [§4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns)) and by [Chapter Ten §4.4 Non-Evasion](core_10.000_system_alignment_certification_records_recertification.md#44-non-evasion). Without limiting those, these are evasions of this Chapter:
 
 - dividing an Institution, its portfolio, or its authority so that no part reaches the class that requires certification;
 - moving a System, an office, or a System Certification Record or Institutional Certification Record between Operating Parties under common control to avoid a finding or a trigger;

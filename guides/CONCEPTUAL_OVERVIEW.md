@@ -551,7 +551,7 @@ flowchart TB
 
 Chapter Three, including its subcore give the rest of this Constitution a shared language that can be tested against actual system behavior. Their jobs fit together:
 
-- [Subcore 3-A](../subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction) connects what a term covers, how it is measured and assessed, and what must hold in practice—the **O/M/A/C** structure.
+- [Subcore 3-A](../subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) connects what a term covers, how it is measured and assessed, and what must hold in practice—the **O/M/A/C** structure.
 - [Subcore 3-B](../subcore_03.020_definition_integrity.md) guards that structure against evasion and changes of scope that make apparent compliance diverge from real behavior.
 - [Subcore 3-C](../subcore_03.030_burden_traceability_verification.md) connects compliance claims to proof, traceability, observability, and accessible verification.
 - [Chapter Three](../core_03.000_definitions_home.md) houses the canonical vocabulary used throughout this Constitution.

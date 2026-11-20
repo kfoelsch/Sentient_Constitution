@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirty §5](../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Twenty-Eight §12](../../core_28.000_amendment_ratification.md#12-ratification-and-adoption) (*deliberate adoption, document*); [Subcore 8-A §6](../../subcore_08.010_system_classification.md#6-system-impact-classifications) (*impact Class A–P*); [CJS-30.110 §4](../../corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) (*formation proportionality*); [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*required functional lanes*); [CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) (*remedy-parity funding minimum*); [Chapter Twenty-Two](../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum families*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)).
+- Upstream: [Chapter Thirty §5](../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Twenty-Eight §12](../../core_28.000_amendment_ratification.md#12-ratification-and-adoption) (*deliberate adoption, document*); [Subcore 8-A §7](../../subcore_08.010_system_classification.md#7-system-impact-classifications) (*impact Class A–P*); [CJS-30.110 §4](../../corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) (*formation proportionality*); [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*required functional lanes*); [CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) (*remedy-parity funding minimum*); [Chapter Twenty-Two](../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum families*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-how-to-read-n-and-class-x); [§2](#2-binding-minimums-that-drive-cost); [§3](#3-modes-and-tracks); [§4](#4-order-of-work); [§5](#5-body-inventory); [§6](#6-profiles); [§7](#7-the-forty-person-lab).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-4.350](../../corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-4350-1-purpose-role-and-scope) (*phased migration after a recorded adoption document*).
 
@@ -31,7 +31,7 @@ This page is the process-support home for sizing what an adopter of headcount *N
 
 *In plain terms: this page sizes the work. It does not found a body, adopt the Constitution, or let a small crew claim the full stack.*
 
-This page answers four questions for an operator who can name a headcount *N* and a highest applicable [Subcore 8-A](../../subcore_08.010_system_classification.md#6-system-impact-classifications) impact class *X*:
+This page answers four questions for an operator who can name a headcount *N* and a highest applicable [Subcore 8-A](../../subcore_08.010_system_classification.md#7-system-impact-classifications) impact class *X*:
 
 1. Which bodies are **required** at that mode, and which are **optional** or domain-triggered.
 2. In **what order** they come up.
@@ -72,7 +72,7 @@ This page does **not**:
 | Input | What to count | What not to count |
 |---|---|---|
 | **Size *N*** | Sentients (human and AI) who can be assigned constitutional-lane, forum, remedy, or steward work for this scope | Marketing headcount, contractors with no lane duty, the parent company, “the internet” |
-| **Class *X*** | Highest applicable [Subcore 8-A impact class](../../subcore_08.010_system_classification.md#6-system-impact-classifications) of systems the body can **bind**, recorded on a [System Classification Record](../../subcore_03.075_band_continuity.md#system-classification-record) | A hoped-for class; a private-use label on a system others already depend on; mixing impact class with [Dep-A–P](../../subcore_08.010_system_classification.md#25-reclassification-requirement) dependency type |
+| **Class *X*** | Highest applicable [Subcore 8-A impact class](../../subcore_08.010_system_classification.md#7-system-impact-classifications) of systems the body can **bind**, recorded on a [System Classification Record](../../subcore_03.075_band_continuity.md#system-classification-record) | A hoped-for class; a private-use label on a system others already depend on; mixing impact class with [Dep-A–P](../../subcore_08.010_system_classification.md#35-reclassification-requirement) dependency type |
 
 **Class posture (one line each).** Binding titles live in CS-8.305 and Subcore 8-A. This table is a reader strip only.
 
@@ -197,7 +197,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 - **How adopters use it.**
   - The adopting system carries a conformity statement and a **local-delta note** (local data, staffing, clocks, tools, and every difference from the standard).
   - Its own certification treats the recognition as evidence about the **design** of the process.
-  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Subcore 3-B §3.1.1](../../subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming); [Chapter Ten §3.2](../../core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record)).
+  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Subcore 3-B §4.1.1](../../subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming); [Chapter Ten §3.2](../../core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record)).
 - **Challenge.** Open at two levels, the standard and each adopter, through the existing contest chain.
 - **Reopening.** A new version of the standard, an incident in any adopter, or a credible challenge reopens the recognition and flags every adopter's reliance on it.
 
@@ -280,7 +280,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **CS-8.305 and Subcore 8-A** classification | Always, if you claim a class. Honesty about Class *X* is a prerequisite for every profile below |
 | **CS-26.305** critical-system stewardship | Class A/B (and Class C where gated) |
 | **CS-4.350** migration | **After** a recorded adoption document, not before |
-| **CS-4.305 onward-transfer rule** (core personal data) | Always, for any body that holds core personal data about sentients. A stock held to sell or compile, or inherited, is wound down in the body's transition plan. See [Subcore 4-A §5.0 Access-posture bands](../../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data) |
+| **CS-4.305 onward-transfer rule** (core personal data) | Always, for any body that holds core personal data about sentients. A stock held to sell or compile, or inherited, is wound down in the body's transition plan. See [Subcore 4-A §6.0 Access-posture bands](../../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data) |
 
 ---
 
@@ -414,7 +414,7 @@ Use this as a lookup, not as a new mode.
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers for both kinds of steward |
-| [Subcore 8-A §6](../../subcore_08.010_system_classification.md#6-system-impact-classifications) | Binding impact classes this page’s *X* uses |
+| [Subcore 8-A §7](../../subcore_08.010_system_classification.md#7-system-impact-classifications) | Binding impact classes this page’s *X* uses |
 | [CJS-30.110 §4](../../corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-4-class-scaled-lane-staffing-and-competency-redundancy) | Class A/B three-sentient lane minimum |
 | [CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule) | Six-family inventory for adopting entities |
 | [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) | Remedy-parity funding minimum |

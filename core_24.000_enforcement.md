@@ -24,7 +24,7 @@
   - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (*the separation between those who judge and those who carry out*);
   - [Chapter Four §2.1](core_04.000_rights_part_a.md#21-practical-enforcement) (*practical enforcement of the Rights Floor*);
   - [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
-  - [Subcore 3-C §2](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (*a different use of "enforcement": the exclusive pathway for the evaluation standards in Subcores 3-A to 3-C, not the carrying out of outcomes*).
+  - [Subcore 3-C §3](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (*a different use of "enforcement": the exclusive pathway for the evaluation standards in Subcores 3-A to 3-C, not the carrying out of outcomes*).
 
 </details>
 

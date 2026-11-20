@@ -50,6 +50,18 @@ Reviewers assess each lane's published function, host institution, binding dutie
 
 A lane fails if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability. A lane map fails if it does not place the Standing-Record request / verify / enter-and-hold / contest seats, or places verification and entry, or verification and contest, in one seat, even under a published merged-hosting safeguard.
 
+### 2. Why Institutions Keep Separate Lanes
+
+*In plain terms: if one office sets policy, carries it out, checks it, and publishes the results, no one else can tell when it goes wrong. Separate lanes keep those jobs apart.*
+
+Chapter Six keeps the four seats apart on each single act. The lanes do the same for an institution as a whole: direction, execution, challenge, assurance, and publication sit in different places, so that a failure in one is visible to the others. Where one institution must host more than one lane, the safeguards have to be published and open to challenge.
+
+**Grounded in:**
+
+- Chapter Two principles: [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+- Chapter Four Articles: [Article XIII](core_04.010_rights_part_b.md#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*);
+- Chapter Six: [§3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement).
+
 ---
 
 **Previous file:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)

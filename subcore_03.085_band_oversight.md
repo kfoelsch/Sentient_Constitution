@@ -23,11 +23,26 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Oversight band, is the constitutional owner of the **leaf definitions under the Oversight Tetrad leg**, including transparency, auditability, verification, truth, epistemic integrity, materiality, and related disclosure and assurance terms. Binding O/M/A/C and [Tetrad Leg Decomposition](subcore_03.055_apex_oversight_leg.md#oversight-tetrad-leg-decomposition) live in [subcore_03.055_apex_oversight_leg.md](subcore_03.055_apex_oversight_leg.md#oversight-constitutional). Do not duplicate leg-head O/M/A/C here.
 | Cluster | Section |
 |---|---|
 | **Def.O1** | Transparency, Auditability, and Verification |
 | **Def.O2** | Truth and Epistemic Integrity |
+
+### 2. Why These Oversight Terms Are Defined
+
+*In plain terms: checking a system only works if everyone agrees what counts as evidence, what is material, and what must be open to inspection. This file defines those terms.*
+
+An audit that can choose what to look at, or a system that can decide what is material, will find what it wants. Fixed meanings for auditability, materiality, transparency, and the public oversight baseline give every audit and review the same footing, so that oversight finds what is actually there.
+
+**Grounded in:**
+
+- Chapter Four Articles:
+  - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XVII-A](core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
+- Subcore 3-G: [Oversight (Tetrad Leg)](subcore_03.055_apex_oversight_leg.md#subcore-3-g-oversight-tetrad-leg).
 
 ---
 
@@ -625,7 +640,7 @@ Implication can exist without misalignment. Misalignment always implies material
       Splitting an Operating Party into pieces to stay below a line is a boundary game under [Materiality Integrity Constraint](subcore_03.085_band_oversight.md#materiality-integrity-constraint).
     - **Lower the line for the vulnerable:** Each line sits lower where those affected are developing, dependent, or unable to protect themselves or to leave.
     - **Lower the line for harm that cannot be undone:** Where an effect cannot be undone ([Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm)), a believable route to the harm is enough. It does not have to be likely.
-    - **Ordinary community activity is the expected case, and the Operating Party shows it:** Giving, making, teaching, caring, hosting, and sharing are expected to fall below every line unless a domain's own test is met. An Operating Party that claims to be below every line carries the burden of showing it, as any claimant does ([Subcore 3-C §2 Exclusive Enforcement and Burden Allocation](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation)). For ordinary community activity, the short written statement in the primary assessment is that showing. A challenge to the statement must name a specific crossing in a named domain, and the Operating Party then shows it is below that line. Each case a domain lists under its "Material when" test, such as the care of dependents under Safety, is a named crossing: a challenger who shows the Operating Party doing one has named it. Size, headcount, regular meetings, and being valued by those served are not crossings. Where a named crossing is still in doubt after the Operating Party's showing, [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty) applies. Some kinds of activity are presumptively material under other rules, such as matching in-person personal services or running event markets (**CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) §6.2 (*Ordinary application examples*)), and for those the showing must answer that presumption. Being below the line says only that the Operating Party needs no System Charter or Institutional Charter and takes on no added duty. It does not set the line for contribution: giving, making, teaching, caring, hosting, and sharing can be recognized as contribution whether or not they are material here ([Chapter Fifteen §4.2 Contribution Magnitude-Input and Violation Severity-Input Dimensions](core_15.000_standing_measurement.md#42-contribution-magnitude-input-and-violation-severity-input-dimensions)).
+    - **Ordinary community activity is the expected case, and the Operating Party shows it:** Giving, making, teaching, caring, hosting, and sharing are expected to fall below every line unless a domain's own test is met. An Operating Party that claims to be below every line carries the burden of showing it, as any claimant does ([Subcore 3-C §3 Exclusive Enforcement and Burden Allocation](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation)). For ordinary community activity, the short written statement in the primary assessment is that showing. A challenge to the statement must name a specific crossing in a named domain, and the Operating Party then shows it is below that line. Each case a domain lists under its "Material when" test, such as the care of dependents under Safety, is a named crossing: a challenger who shows the Operating Party doing one has named it. Size, headcount, regular meetings, and being valued by those served are not crossings. Where a named crossing is still in doubt after the Operating Party's showing, [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty) applies. Some kinds of activity are presumptively material under other rules, such as matching in-person personal services or running event markets (**CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) §6.2 (*Ordinary application examples*)), and for those the showing must answer that presumption. Being below the line says only that the Operating Party needs no System Charter or Institutional Charter and takes on no added duty. It does not set the line for contribution: giving, making, teaching, caring, hosting, and sharing can be recognized as contribution whether or not they are material here ([Chapter Fifteen §4.2 Contribution Magnitude-Input and Violation Severity-Input Dimensions](core_15.000_standing_measurement.md#42-contribution-magnitude-input-and-violation-severity-input-dimensions)).
     - **Those inside report a crossing:** Anyone inside an Operating Party that is below every line who notices it crossing a line has a duty to report the crossing:
       - **Who and what:** A member, a worker, a participant, or an office-holder. The duty is to say what they see, not to investigate or to prove it. The report names a specific crossing in a named domain.
       - **Where it goes:** The route in *Challenge route* below. Where the report is about the Operating Party's own conduct and going to it first would be unsafe or would leave it in control of the first answer, the insider may go directly to a forum with jurisdiction, through its registrar (**CF-22.415 §7** (*Institutional and Local Registrars*)).
@@ -1196,8 +1211,8 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: **
-  - [Subcore 4-A §7](subcore_04.050_data_types.md#7-type-o-baseline-for-class-abc-systems)** (*Type O Baseline for Class A/B/C Systems*); **
-  - [Subcore 4-A §8.3 Type O (open, public oversight baseline disclosure data)](subcore_04.050_data_types.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
+  - [Subcore 4-A §8](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)** (*Type O Baseline for Class A/B/C Systems*); **
+  - [Subcore 4-A §10.3 Type O (open, public oversight baseline disclosure data)](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
   - [Chapter Eight §4.4](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) (*Data Types and Handling Evaluation*);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*System Certification Record*);
   - [Chapter Ten §3.2](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*Transparency and Auditability of the System Certification Record*) and
@@ -1260,7 +1275,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](subcore_03.075_band_continuity.md#system-charter), assigned class, and [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[Subcore 4-A §7 type O baseline for Class A/B/C systems](subcore_04.050_data_types.md#7-type-o-baseline-for-class-abc-systems)**, confirm:
+    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](subcore_03.075_band_continuity.md#system-charter), assigned class, and [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[Subcore 4-A §8 type O baseline for Class A/B/C systems](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)**, confirm:
     - a usable public view of the [System Charter](subcore_03.075_band_continuity.md#system-charter), [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), and [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [Contestability](subcore_03.070_band_accountability.md#contestability); and
@@ -1281,7 +1296,7 @@ See **Anti-Segmentation Principle**.
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [System Charter](subcore_03.075_band_continuity.md#system-charter), [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[Subcore 4-A §7 type O baseline for Class A/B/C systems](subcore_04.050_data_types.md#7-type-o-baseline-for-class-abc-systems)**; or
+    - omitting a usable public view of the [System Charter](subcore_03.075_band_continuity.md#system-charter), [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[Subcore 4-A §8 type O baseline for Class A/B/C systems](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under Subcore 4-A (*Data Types*) and [Transparency](subcore_03.085_band_oversight.md#transparency).
 
@@ -1940,7 +1955,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - whether evaluation was incomplete in a way that defeats [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Risk](subcore_03.075_band_continuity.md#risk) assessment, or [Foreseeability](subcore_03.085_band_oversight.md#foreseeability).
 Outside that cluster's scope, individual entries may still apply on their own without importing the full compound.
 
-Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Subcores 3-A to 3-C** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Subcore 3-A, §4 — Consistency across the Definition Stack](subcore_03.010_definition_structure.md#4-consistency-across-the-definition-stack)).
+Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Subcores 3-A to 3-C** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Subcore 3-A, §5 — Consistency across the Definition Stack](subcore_03.010_definition_structure.md#5-consistency-across-the-definition-stack)).
 
 **Sub-block members.** This sub-block comprises:
 

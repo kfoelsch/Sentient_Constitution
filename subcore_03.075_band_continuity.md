@@ -23,6 +23,8 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Continuity band, is the constitutional owner of the **definitions under the constitutional [Continuity aim](core_00.000_preamble.md#continuity)**, including dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1 The Model](core_00.000_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim)) is distinct from operational or protocol continuity elsewhere in the corpus.
 | Cluster | Section |
 |---|---|
@@ -30,6 +32,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 | **Def.C2** | Stewardship, Governance Discipline, and Shared-System Capacity |
 | **Def.C3** | Privacy (Informational) — peer-level cluster head |
 | **Def.C4** | Trust and Trustworthiness |
+
+### 2. Why These Continuity Terms Are Defined
+
+*In plain terms: systems, records, and the living world wear out or fail in many ways. This file defines the terms used to keep them working and to notice when they will not.*
+
+Continuity duties reach into dependency, risk, records, charters, certification, and ecological recovery. Each of these needs a fixed meaning, or a system can claim to be resilient while hiding the single point that would bring it down. Defining them here lets every chapter apply the same tests for what must last and what counts as failure.
+
+**Grounded in:**
+
+- Chapter Two principles:
+  - [§8 Continuity Aim: Introduction](core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction);
+  - [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);
+- Subcore 3-E: [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim).
 
 ---
 
@@ -1487,7 +1502,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Out of scope:**
     - the first [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) of a system;
     - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers);
-    - reclassification under **Subcore 8-A §2.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **Subcore 4-A §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
+    - reclassification under **Subcore 8-A §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **Subcore 4-A §6.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVIII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
@@ -2151,7 +2166,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The bounded, reviewable record of data types and handling under Subcore 4-A (*Data Types*). A **System Data Types Record** is **material audited information** — data that auditing processes require. It states:
     - data types materially in scope (the types in Subcore 4-A (*Data Types*) and their access-posture bands);
-    - the purpose of each type in scope, and the recipients, processors, and linked systems that receive it — the same facts the collection notice under [Subcore 4-A §1.3](subcore_04.050_data_types.md#13-collection-notice-and-deletion) (*Collection notice and deletion*) gives affected sentients;
+    - the purpose of each type in scope, and the recipients, processors, and linked systems that receive it — the same facts the collection notice under [Subcore 4-A §9.3](subcore_04.050_data_types.md#93-collection-notice-and-deletion) (*Collection notice and deletion*) gives affected sentients;
     - for each restricted or non-accessible type, the basis relied on: operational necessity, consent under the shared consent-integrity standard, or a justified override under **CJS-3.125 §12** (*burden-of-justification and constraint terms*);
     - derived or inferred data the system produces, with its type — including any process that infers or reconstructs internal states and is therefore **Type N**;
     - classification rationale for ambiguous or multi-type data;
@@ -5770,7 +5785,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - depiction of a sentient in documentary, reporting, or comparable factual framing;
     - synthetic or generated depiction held out as authentic; and
     - voice and comparable identity-bearing modalities where a sentient remains reasonably identifiable.
-  - **Data types:** Recognizably identifiable likeness and voice are [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data). Depiction or analysis that infers a sentient's internal states from likeness or voice is also [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data).
+  - **Data types:** Recognizably identifiable likeness and voice are [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data). Depiction or analysis that infers a sentient's internal states from likeness or voice is also [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data).
   - **Out of scope:**
     - non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient;
     - coincidental resemblance that is not presented as, and would not reasonably be taken to be, a particular sentient;
@@ -5903,7 +5918,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - experiential-data discipline under **Article IX-B** (*Experiential and Derived Data Rights*);
     - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational); and
     - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution).
-  - **Data types:** Covered work is [**Type H**](subcore_04.050_data_types.md#84-type-h-historical-relational-transactional-and-participation-data) as participation- or interaction-derived data, and [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data) where it is identifiable to the sentient who produced it. Training, evaluation, or analysis that infers or reconstructs a sentient's internal states is [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data). Pooling does not lower the type while re-identification or reconstruction remains reasonably possible.
+  - **Data types:** Covered work is [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data) as participation- or interaction-derived data, and [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) where it is identifiable to the sentient who produced it. Training, evaluation, or analysis that infers or reconstructs a sentient's internal states is [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Pooling does not lower the type while re-identification or reconstruction remains reasonably possible.
   - **Out of scope:**
     - non-sentient-produced material where **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) consent and attribution duties do not apply; or
     - ordinary operational aggregates that are not traced to specific sentients — for example:
@@ -6728,13 +6743,13 @@ See **Anti-Segmentation Principle**.
     - comparable —
 
     against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
-  - **Data types:** Each category above is typed under [Subcore 4-A §8](subcore_04.050_data_types.md#8-data-classifications) (*Data Classifications*). Where more than one type fits, the most protective governs ([Subcore 4-A §2](subcore_04.050_data_types.md#2-determination-of-classification) (*Determination of Classification*)):
+  - **Data types:** Each category above is typed under [Subcore 4-A §10](subcore_04.050_data_types.md#10-data-classifications) (*Data Classifications*). Where more than one type fits, the most protective governs ([Subcore 4-A §3](subcore_04.050_data_types.md#3-determination-of-classification) (*Determination of Classification*)):
     - personal — **Type I** where it identifies a sentient; otherwise **Type H**;
     - relational and metadata — **Type H**;
     - experiential and behavioral — **Type H**; also **Type N** where it can reconstruct or infer internal states;
     - likeness — **Type I**;
     - internal-state-adjacent — **Type N**;
-    - comparable — typed by functional effect under [Subcore 4-A §2](subcore_04.050_data_types.md#2-determination-of-classification) (*Determination of Classification*).
+    - comparable — typed by functional effect under [Subcore 4-A §3](subcore_04.050_data_types.md#3-determination-of-classification) (*Determination of Classification*).
 
     Personal content inside **Type E**, **Type G**, **Type O**, or **Type S** material keeps these types. The surrounding type does not open it up.
   - **Out of scope:** technical telemetry or public facts that never enter personal, relational, experiential, likeness, metadata, or comparable informational domains in a way that impairs dignity, agency, safety, consent, or Rights-Floor access — including ordinary operational aggregates not traced to specific sentients, such as:
@@ -6854,7 +6869,7 @@ See **Anti-Segmentation Principle**.
     - privacy;
     - internal state; or
     - Rights-Floor access.
-  - **Data types:** Logs, measurements, and monitoring records that reach sentients are at least [**Type H**](subcore_04.050_data_types.md#84-type-h-historical-relational-transactional-and-participation-data); identity-linked monitoring is also [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data); monitoring that infers or reconstructs internal states is [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data). Security monitoring and investigation material is [**Type S**](subcore_04.050_data_types.md#87-type-s-safety-security-and-restricted-investigation-data) while restricted, and its personal components keep their **H**, **I**, or **N** type when that restriction ends. Ordinary logging outside this boundary still produces typed data and stays under its type's handling rules.
+  - **Data types:** Logs, measurements, and monitoring records that reach sentients are at least [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data); identity-linked monitoring is also [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data); monitoring that infers or reconstructs internal states is [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Security monitoring and investigation material is [**Type S**](subcore_04.050_data_types.md#107-type-s-safety-security-and-restricted-investigation-data) while restricted, and its personal components keep their **H**, **I**, or **N** type when that restriction ends. Ordinary logging outside this boundary still produces typed data and stays under its type's handling rules.
   - **Out of scope:**
     - ordinary measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state; and
     - ordinary operational aggregates not traced to specific sentients, such as:
@@ -6941,7 +6956,7 @@ See **Anti-Segmentation Principle**.
   - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
   - satisfy one [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
 
-  See **Joint invocation and satisfaction** and Subcore 3-B §2 (*Definition Integrity and Anti-Evasion Constraints*) through §3 (*Non-Compliance from Observable System Behavior*).
+  See **Joint invocation and satisfaction** and Subcore 3-B §3 (*Definition Integrity and Anti-Evasion Constraints*) through §3 (*Non-Compliance from Observable System Behavior*).
 
 **Cluster members.** This cluster comprises:
 - [Trust](subcore_03.075_band_continuity.md#trust) — reliance grounded exclusively in demonstrated trustworthiness;
@@ -7160,7 +7175,7 @@ See **Anti-Segmentation Principle**.
 <a id="trust-degradation-and-misleading-reliance-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - cherry-picking one member definition to bypass another within admission scope ([§4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction); Subcore 3-B §2 (*Definition Integrity and Anti-Evasion Constraints*) through §3 (*Non-Compliance from Observable System Behavior*)); and
+    - cherry-picking one member definition to bypass another within admission scope ([§4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction); Subcore 3-B §3 (*Definition Integrity and Anti-Evasion Constraints*) through §3 (*Non-Compliance from Observable System Behavior*)); and
     - isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge.
   - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [Chapter Two §15.4.4](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*) and [CJS-30.110 §3](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
   - **Tertiary failure:**

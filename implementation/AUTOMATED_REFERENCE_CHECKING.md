@@ -153,7 +153,7 @@ Enable:
 
 ## Manual / editorial (no automated gate yet)
 
-- **NAV-READER-06**, **NAV-INDEX-13**: reader-guidance widgets; Subcore 3-B §2 index
+- **NAV-READER-06**, **NAV-INDEX-13**: reader-guidance widgets; Subcore 3-B §3 index
 - **Single-home overlap sweep**: grep discipline in [doc_architecture.md](../doc_architecture.md) **section 12**; overlap theme table archived under `archive/doc_architecture_decision_log/`
 
 Historical navigation decisions: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](../archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).

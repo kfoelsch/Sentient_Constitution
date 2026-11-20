@@ -208,10 +208,10 @@ A first Institutional Certification Record is due within a window the adopting d
 - Upstream:
   - [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3);
   - [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) and [§3.2 How system class scales every evaluation](core_08.000_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation);
-  - [Subcore 3-B §3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns) (S3-B §3.1).
+  - [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) (S3-B §4.1).
 - Downstream: [§4](#4-whole-institution-certification-evaluation) (*the items the class scales*); [§3](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record) (*the class is stated on the Institutional Certification Record*); [§4.2](core_13.000_institutional_alignment_certification_records_recertification.md#42-reopening-triggers) (*the triggers that reassess it*).
 - Read with:
-  - **CS-8.305** (*System classification machinery*) and [Subcore 8-A](subcore_08.010_system_classification.md#6-system-impact-classifications) (*the class catalog*);
+  - **CS-8.305** (*System classification machinery*) and [Subcore 8-A](subcore_08.010_system_classification.md#7-system-impact-classifications) (*the class catalog*);
   - **CI-8.210** (*Classification-linked institutional obligations*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*).
 
@@ -242,7 +242,7 @@ This section is **Phase I, Frame** for an Institution.
      - how many sentients depend on it, and how substitutable it is;
      - how concentrated its authority is, within the meaning of the Material Control Line; and
      - how reversible its decisions are.
-3. **Common control:** Operating Parties that are one operation under the aggregation rule of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) (common practical control within a [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); funding alone does not count) are classified together where they act as one Institution in practice. Dividing an Operating Party, its portfolio, or its authority so that no part reaches Class L is a scope-and-boundary evasion under [Subcore 3-B §3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns).
+3. **Common control:** Operating Parties that are one operation under the aggregation rule of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) (common practical control within a [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); funding alone does not count) are classified together where they act as one Institution in practice. Dividing an Operating Party, its portfolio, or its authority so that no part reaches Class L is a scope-and-boundary evasion under [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns).
 4. **Reclassification:** The class is reassessed on the triggers in [§4.2 Reopening Triggers](core_13.000_institutional_alignment_certification_records_recertification.md#42-reopening-triggers). The classification is stated on the Institutional Certification Record with its reasons.
 
 <a id="32-scaling-by-class"></a>

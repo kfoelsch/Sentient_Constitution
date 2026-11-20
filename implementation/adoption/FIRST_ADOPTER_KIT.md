@@ -120,7 +120,7 @@ Fill this block **before** claiming an adoption document. If any “cannot bind�
 | Systems the adopter actually has authority to bind | Non-consenting sentients, third parties, or “the internet” |
 | A mutual cooperation protocol **only if** that protocol is in scope **and** the adopter can bind it | Other parties’ self-application declarations |
 | Obligations the adopter takes on for itself under the pinned edition | A later unadopted corpus edit ([Chapter Thirty §4](../../core_30.000_incorporation.md#4-safeguards) no silent drift) |
-| How the adopter holds and discloses core personal data about sentients (the onward-transfer rule in [Subcore 4-A §5.0 Access-posture bands](../../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data)) | Data brokers, scrapers, and compilers outside the adopter's reach, and data about sentients that is already out in the world |
+| How the adopter holds and discloses core personal data about sentients (the onward-transfer rule in [Subcore 4-A §6.0 Access-posture bands](../../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data)) | Data brokers, scrapers, and compilers outside the adopter's reach, and data about sentients that is already out in the world |
 
 Partial adoption may not wipe the [Chapter Twenty-Seven](../../core_27.000_non_regression.md#3-non-regression-floor) non-regression floor. Incorporation and partial adoption must not shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears.
 
@@ -297,5 +297,5 @@ non-adopters. See Chapter Thirty §5 and Chapter Twenty-Nine §7.
 | 2026-08-31 | v0.9 | 2026-04 planning annex pointer retargeted to [`archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). |
 | 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Twenty-Nine §7](../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law). |
 | 2026-09-09 | v0.11 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |
-| 2026-11-15 | v0.12 | Core personal data: a scope-honesty row, a held-at-adoption block in the fill-in, and an honest statement, for the onward-transfer rule in Subcore 4-A §5.0. Kit practice; core text controls. |
+| 2026-11-15 | v0.12 | Core personal data: a scope-honesty row, a held-at-adoption block in the fill-in, and an honest statement, for the onward-transfer rule in Subcore 4-A §6.0. Kit practice; core text controls. |
 | 2026-11-16 | v0.13 | §4.1 checklist for the Adoption Transition Record and the Adoption Charter, including at least a provisional forum authority assignment. Kit practice; core text controls. |

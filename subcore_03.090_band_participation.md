@@ -23,12 +23,27 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Participation band, is the constitutional owner of the **leaf definitions under the Participation Tetrad leg**, including sentience status, stakeholder choice, self-determination, agency, fairness, accessibility, and related voice and standing terms. Binding O/M/A/C and [Tetrad Leg Decomposition](subcore_03.060_apex_participation_leg.md#participation-tetrad-leg-decomposition) live in [subcore_03.060_apex_participation_leg.md](subcore_03.060_apex_participation_leg.md#participation-constitutional). Do not duplicate leg-head O/M/A/C here.
 | Cluster | Section |
 |---|---|
 | **Def.P1** | Animal Life, Sentient Life, and Sentience Status |
 | **Def.P2** | Binding Stakeholder Choice |
 | **Def.P3** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
+
+### 2. Why These Participation Terms Are Defined
+
+*In plain terms: a say in a system can be offered in ways that mean nothing. This file defines what consent, choice, access, and contest must actually provide.*
+
+Consultations that change nothing, consent forms that cannot be refused, and appeals no one can reach all look like participation from a distance. Defining the participation terms with what must hold in practice lets a sentient show the difference, and lets every chapter require the real thing.
+
+**Grounded in:**
+
+- Chapter Four Articles:
+  - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
+  - [Article XX](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*);
+- Subcore 3-H: [Participation (Tetrad Leg)](subcore_03.060_apex_participation_leg.md#subcore-3-h-participation-tetrad-leg).
 
 ---
 
@@ -1461,7 +1476,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
       - lawful employment, employment history, lawful work status, lack of employment, or protected association.
     - **Economic and social station:** economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity.
     - **Open texture:** any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) and [Sentience Evaluation](subcore_03.090_band_participation.md#sentience-evaluation-e) requirements.
-  - **Data types:** Stored or inferred protected-characteristic attributes are [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data) where they attach to an identifiable sentient. Intimate, health, belief, or comparable inferences that reveal internal states are also [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data). Proxy or correlate data used to infer a characteristic takes the type of what it reveals ([Subcore 4-A §2](subcore_04.050_data_types.md#2-determination-of-classification) (*Determination of Classification*)).
+  - **Data types:** Stored or inferred protected-characteristic attributes are [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) where they attach to an identifiable sentient. Intimate, health, belief, or comparable inferences that reveal internal states are also [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Proxy or correlate data used to infer a characteristic takes the type of what it reveals ([Subcore 4-A §3](subcore_04.050_data_types.md#3-determination-of-classification) (*Determination of Classification*)).
   - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion; exploitation, trafficking, lack of [Consent, Sexual](subcore_03.090_band_participation.md#consent-sexual), or other independent harm predicates outside consensual adult private sexual conduct.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
@@ -1549,7 +1564,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
       - material disadvantage;
       - exclusion; or
       - neutral-form circumvention of the decriminalization floor.
-  - **Data types:** Intimate media, sexual-history signals, and intimate-status inferences are [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data) where they attach to an identifiable sentient, and [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data) where they infer intimate or internal states. The more protective handling governs ([Subcore 4-A §2](subcore_04.050_data_types.md#2-determination-of-classification) (*Determination of Classification*)).
+  - **Data types:** Intimate media, sexual-history signals, and intimate-status inferences are [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) where they attach to an identifiable sentient, and [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data) where they infer intimate or internal states. The more protective handling governs ([Subcore 4-A §3](subcore_04.050_data_types.md#3-determination-of-classification) (*Determination of Classification*)).
   - **Out of scope:**
     - narrow documented safeguarding uses that meet necessity and proportionality;
     - ordinary trait discrimination that does not use intimate signals;
@@ -2876,7 +2891,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - reviewable adjudication —
     not withholding.
 
-    **Primary assessment:** Reach substantive effect under [Subcore 3-B §3.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming).
+    **Primary assessment:** Reach substantive effect under [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming).
     - Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](subcore_03.090_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](subcore_03.090_band_participation.md#sentience-evaluation-e); once the case is lawfully open, apply default inclusion. Do not treat the opening showing as a certainty requirement.
     - Where the official record materially implicates sentience-relevant evidence, apply the [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
       - [Animal Life](subcore_03.090_band_participation.md#animal-life);
@@ -3118,7 +3133,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - new verified evidence triggers reopening or review, not only the periodic-review calendar;
       - wrongful determinations remain reversible with [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) for the interim period; and
       - the process:
-        - satisfies [Subcore 3-B §3.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming); and
+        - satisfies [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming); and
         - remains free of [System Capture](subcore_03.075_band_continuity.md#system-capture) pressures on the adjudicator.
 <a id="sentience-status-adjudication-constitutional-c"></a>
 - **What must hold**

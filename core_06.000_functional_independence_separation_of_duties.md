@@ -459,10 +459,10 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
   - can be contested through the independent route outside the group, because deciding whether to admit an applicant is a materially binding act of the group (see *The group's own acts*, above).
 - **No trap:** A group's terms may not make the seat a cost the business cannot bear ([Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden)).
 - **Leaving:** A member that leaves takes its official records with it. The group may not hold them back or make leaving depend on leaving them behind. The group:
-  - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([Subcore 4-A §1.2 Continuity-critical collection and exportability](subcore_04.050_data_types.md#12-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
+  - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([Subcore 4-A §9.2 Continuity-critical collection and exportability](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
   - hands the record seat for those acts to the holder the member names, and stays the record seat holder until the member names one, so the Act Records stay reconstructable while a challenge, correction, or remedy is open ([§9 Act Records and Attributable Handoffs](#9-act-records-and-attributable-handoffs)); and
-  - keeps only what its own duties still require, such as the Act Record of an act it hosted for another member or of an act still under challenge, and only for the retention period it disclosed ([Subcore 4-A §1.3 Collection notice and deletion](subcore_04.050_data_types.md#13-collection-notice-and-deletion)).
-- **Data kept by the group:** What the group keeps is handled by data type under [Subcore 4-A §8 Data Classifications](subcore_04.050_data_types.md#8-data-classifications):
+  - keeps only what its own duties still require, such as the Act Record of an act it hosted for another member or of an act still under challenge, and only for the retention period it disclosed ([Subcore 4-A §9.3 Collection notice and deletion](subcore_04.050_data_types.md#93-collection-notice-and-deletion)).
+- **Data kept by the group:** What the group keeps is handled by data type under [Subcore 4-A §10 Data Classifications](subcore_04.050_data_types.md#10-data-classifications):
   - **Identity and attribution data (Type I):** used only to verify who held each seat and who acted;
   - **Participation and transaction data (Type H):** used only for the official record, audit, and challenge duties of the act;
   - **Governance source data (Type G):** open to audit and not public by default;
@@ -556,7 +556,7 @@ None of the following is by itself an emergency:
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
   - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity).
 - Downstream: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action); [CI-26.205 §6 shared seat rules](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §9; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
-- Read with: [§5 Wrong-Seat Routing](#5-wrong-seat-routing) and [Subcore 3-C §6](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C §6).
+- Read with: [§5 Wrong-Seat Routing](#5-wrong-seat-routing) and [Subcore 3-C §7](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C §7).
 
 </details>
 

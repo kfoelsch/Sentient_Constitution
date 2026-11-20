@@ -7,6 +7,8 @@ Companion to section_2_drafts_2026-11-20.md and step 4 of core_reorganization_pl
 
 **Date:** 2026-11-20. **Asked for by:** the custodian (on Subcore 4-A: "We are also missing our section 2 'why?' section"; on which subcore files: "All subcore files.").
 
+**Status.** Inserted on 2026-11-20 (move 832 in doc_architecture.md), with three wording changes asked for by the vocabulary audit: Subcore 3-G says *the sentients who run a system* and *an independent review*; Subcore 3-M says *every audit and review*; Subcore 8-A says *do not carry the same duties*.
+
 **What this is.** Draft text for a section 2 *why* in each of the eighteen subcore files, for review before anything is inserted. Nothing here is in force. This replaces the plan's earlier rule that subcore files carry no §2 of their own (plan section 6, item 5).
 
 **How to read it.**

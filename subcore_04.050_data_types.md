@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 4-A**. Until 2026-11-20 its text was implementation text in the systems corpus: §§1–7 were sections 1 to 7 of CS-4.305 (*Information types and handling*), and §8 was section 9 of CS-4.310 (*Data Classifications*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 4-A**. Until 2026-11-20 its text was implementation text in the systems corpus: §1 and §§3–8 were sections 1 to 7 of CS-4.305 (*Information types and handling*), §9 was its sections 1.1 to 1.3, and §10 was section 9 of CS-4.310 (*Data Classifications*). §2 was added on 2026-11-20.
 >
 > **Upstream:** [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights), the chapter this file is attached to.
 > **Downstream:** [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md) (*Information types and handling*: the System Data Types Record and its governance).
@@ -33,124 +33,54 @@ Subcore 4-A is the constitutional owner of **data types**: how data is typed, th
 - [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection)
 - [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary)
 
-It also carries out the collection, retention, and use disciplines in [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination). Those homes own meaning. Types, access defaults, and handling rules here carry them out and may not be read to narrow them. Each restricted or non-accessible type names its privacy homes in [§8 Data Classifications](#privacy-link).
+It also carries out the collection, retention, and use disciplines in [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination). Those homes own meaning. Types, access defaults, and handling rules here carry them out and may not be read to narrow them. Each restricted or non-accessible type names its privacy homes in [§10 Data Classifications](#privacy-link).
 
 This Subcore implements:
 
 - **How data is typed**
-  - **Data typing** — every material dataset is assigned one or more types defined in **[§8 Data Classifications](#8-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, **S**, **Y**, **W**, **U**, and **T**)
-  - **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#most-restrictive-applicable-classification-governs) *When it is unclear*), subject to proportionality (**CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*))
-  - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2 Determination of Classification](#2-determination-of-classification)–[§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification))
+  - **Data typing** — every material dataset is assigned one or more types defined in **[§10 Data Classifications](#10-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, **S**, **Y**, **W**, **U**, and **T**)
+  - **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§3](#most-restrictive-applicable-classification-governs) *When it is unclear*), subject to proportionality (**CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*))
+  - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§3 Determination of Classification](#3-determination-of-classification)–[§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification))
   - **Class scaling** — higher-impact systems get stricter data rules. How strict depends on the system's class under **CS-8.305** (*System classification machinery*) and **Subcore 8-A** (*System Classification*)
 - **Who may see each type**
-  - **Default access posture** — each type belongs to one of six **access-posture bands** defined in **[§8 Data Classifications](#8-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*; *public by creator release*; *licensed or assigned*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
-  - **Type O public-baseline (Class A/B/C)** — for high-impact systems, [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) must be released by default as **Type O** data defined in **[§8.3 Type O](#83-type-o-open-public-oversight-baseline-disclosure-data)**, with substitute and holding-back limits in [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems)
-  - **Type O certification data (all classes)** — the published content of every System Certification Record and Institutional Certification Record is **Type O**, whatever the system class, under the same substitute and holding-back limits ([§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems))
+  - **Default access posture** — each type belongs to one of six **access-posture bands** defined in **[§10 Data Classifications](#10-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*; *public by creator release*; *licensed or assigned*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
+  - **Type O public-baseline (Class A/B/C)** — for high-impact systems, [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) must be released by default as **Type O** data defined in **[§10.3 Type O](#103-type-o-open-public-oversight-baseline-disclosure-data)**, with substitute and holding-back limits in [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems)
+  - **Type O certification data (all classes)** — the published content of every System Certification Record and Institutional Certification Record is **Type O**, whatever the system class, under the same substitute and holding-back limits ([§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems))
 - **Sentients' control over their own data**
-  - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1 Identity self-ownership and recoverability](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
-  - **Collection notice and deletion** — every system that collects data about sentients must disclose what it collects, why, and how to delete it, and must honor deletion requests except on narrow, disclosed grounds ([§1.3 Collection notice and deletion](#13-collection-notice-and-deletion); **Article II-E** (*Data Handling and Network Dependency*))
-  - **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Data Handling and Network Dependency*); **Article II-F** (*Continuity and Operator Shutdown*)), and the formats and interfaces used for that handoff must meet **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*)
+  - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§9.1 Identity self-ownership and recoverability](#91-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
+  - **Collection notice and deletion** — every system that collects data about sentients must disclose what it collects, why, and how to delete it, and must honor deletion requests except on narrow, disclosed grounds ([§9.3 Collection notice and deletion](#93-collection-notice-and-deletion); **Article II-E** (*Data Handling and Network Dependency*))
+  - **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability); **Article II-E** (*Data Handling and Network Dependency*); **Article II-F** (*Continuity and Operator Shutdown*)), and the formats and interfaces used for that handoff must meet **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*)
 - **How typed data is governed**
-  - **Cross-domain governance** ([§5 Cross-Domain Governance Principles](#5-cross-domain-governance-principles)):
-    - **Proportional access:** [§5.1 Proportional access and handling](#51-proportional-access-and-handling)
-    - **Reclassification and lifecycle:** [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance)
-    - **Transparency levels and audit:** [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access)
-    - **Transformation traceability:** [§5.4 Integrity of data handling and transformation](#54-integrity-of-data-handling-and-transformation)
-    - **Attribution:** [§5.5 Accountability and attribution in data use](#55-accountability-and-attribution-in-data-use)
-    - **Retention:** [§5.6 Proportional attribution and retention](#56-proportional-attribution-and-retention)
-    - **Typing integrity and anti-evasion:** these remain in [§2 Determination of Classification](#2-determination-of-classification)–[§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification)
-  - **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6 Data Separation and Attribution](#6-data-separation-and-attribution))
+  - **Cross-domain governance** ([§6 Cross-Domain Governance Principles](#6-cross-domain-governance-principles)):
+    - **Proportional access:** [§6.1 Proportional access and handling](#61-proportional-access-and-handling)
+    - **Reclassification and lifecycle:** [§6.2 Reclassification and lifecycle governance](#62-reclassification-and-lifecycle-governance)
+    - **Transparency levels and audit:** [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access)
+    - **Transformation traceability:** [§6.4 Integrity of data handling and transformation](#64-integrity-of-data-handling-and-transformation)
+    - **Attribution:** [§6.5 Accountability and attribution in data use](#65-accountability-and-attribution-in-data-use)
+    - **Retention:** [§6.6 Proportional attribution and retention](#66-proportional-attribution-and-retention)
+    - **Typing integrity and anti-evasion:** these remain in [§3 Determination of Classification](#3-determination-of-classification)–[§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification)
+  - **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§7 Data Separation and Attribution](#7-data-separation-and-attribution))
   - **System Data Types Record** — for every system with **material impact**, operators must maintain a [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) stating types in scope, handling posture, and re-evaluation status.
     - **Audited information:** That System Data Types Record is **material audited information**: auditing processes require it, and System Data Types Record audits check it between and beside [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) cycles ([§8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance)).
     - **Certification bridge:** When System Alignment Certification runs, **[Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation)** must produce or verify the System Data Types Record and include it in the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) under **[Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents)**
 
-<a id="11-identity-self-ownership-and-recoverability"></a>
 
-**1.1. Identity self-ownership and recoverability.**
+### 2. Why Data Is Typed
 
-*In plain terms: your identity data is yours to control — systems must let you revoke, replace, and correct credentials, and must not trap you forever in a broken or compromised identity.*
+*In plain terms: the same rules cannot fit a weather report and a medical record. Typing data says which protections each kind carries, so a system cannot treat sensitive data as if it were open.*
 
-This subsection is foundational to how typed data is handled under this Subcore and to self-ownership of identity and attribution data under **Article VII** (*Self-Ownership*), including **Article VII-A** (*Self-Ownership of Body*).
+Data about sentients can protect them or be used against them, and the difference often depends on what kind of data it is and who can reach it. Without fixed types, a system can label sensitive data as routine, combine harmless pieces into a profile, or hold back public information it owes. The types and their access bands give every system the same starting point: what is open by default, what only audits may see, what is restricted, and what belongs to its creator.
 
-**Identity and Attribution Data** must support:
-- **revocation of credentials**
-- **rotation or replacement** of identifiers
-- **correction** of inaccurate, incomplete, or compromised data
+**Grounded in:**
 
-Systems must **not**:
-- **permanently bind** sentients to compromised or outdated identities
-- **prevent recovery** from identity-related harm
-- **create irreversible identity linkage** that undermines autonomy, safety, or wellbeing
+- Chapter Two principles: [§13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
+- Chapter Four Articles:
+  - [Article II-E](core_04.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*);
+  - [Article VII](core_04.010_rights_part_b.md#article-vii-self-ownership) (*Self-Ownership*);
+  - [Article XVI](core_04.020_rights_part_c.md#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*);
+  - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
-Identity systems must preserve **continuity** where desired, **separation** where required, and **recoverability** in cases of compromise or error.
-
-<a id="12-continuity-critical-collection-and-exportability"></a>
-
-**1.2. Continuity-critical collection and exportability.**
-
-*In plain terms: for Class A/B/C systems, do not lock sentients' continuity-critical data in a form they cannot take with them when the service ends or changes hands — and disclose any lawful limits up front.*
-
-This subsection is foundational to continuity and exit under this Subcore. It implements:
-- **Article II-E** (*Data Handling and Network Dependency*) and **Article II-F** (*Continuity and Operator Shutdown*)
-- **Article XXII-A** (*Portability Rights*)
-- **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*)
-
-For **Class A**, **Class B**, and **Class C** systems, operators must **not** collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires:
-- confidentiality
-- security
-- **Type N** or comparable protected-boundary constraints
-- lawful non-disclosure
-
-Where export is limited, operators must disclose before a materially binding commitment:
-- the **limitation**
-- the **scope** of the limitation
-- any lawful **substitute export path**
-
-Shutdown, migration, operator exit, and service-end paths must:
-- preserve usable **export or handoff** of continuity-critical data under those disclosed paths
-- **not** rely on a discretionary promise to try later
-
-<a id="13-collection-notice-and-deletion"></a>
-
-**1.3. Collection notice and deletion.**
-
-*In plain terms: every system that collects data about sentients must say what it collects, why, who gets it, and how long it is kept — and must actually delete that data when asked, except for narrow, disclosed reasons to keep it.*
-
-This subsection implements:
-- **Article II-E** (*Data Handling and Network Dependency*)
-- **Article IX-B** (*Experiential and Derived Data Rights*)
-- **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*)
-
-It applies to **every** system that collects, infers, or transmits data about sentients, regardless of system class. Depth scales with **system impact** and the access-posture band of the data ([§5.0 Access-posture bands](#50-access-posture-bands)).
-
-**Collection notice:** Before collection begins, operators must tell affected sentients, in a form reachable without expert tools:
-- the **data types** collected or inferred, using the types in **[§8 Data Classifications](#8-data-classifications)** and consistent with the [System Data Types Record](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance) where one is required
-- the **purpose** of each type, and that the data will not be used beyond it ([§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance))
-- **recipients**, including processors and other systems the data is linked to
-- the **retention period** or the rule that sets it
-- how to **see** the data and how to **request deletion**
-
-A new purpose or recipient requires updated notice before the data is used that way, and new consent where the type requires it.
-
-**Deletion on request:** Operators must:
-- give sentients a deletion path at least as easy to use as the path used to collect the data
-- verify the requester with no more **Type I** data than the request needs
-- delete the data, and data derived or inferred from it, within a disclosed period, including backups within a disclosed backup cycle
-- pass the request to every recipient and processor, and record that they did so
-- confirm to the sentient what was deleted and what was kept
-
-Hiding, flagging, suspending, or re-labeling data while it stays usable is **not** deletion. Where deletion is not technically feasible, the data must be irreversibly de-identified or aggregated under **CJS-3.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*).
-
-**Grounds for keeping data:** An operator may refuse or limit deletion only where **Necessity** requires, for:
-- evidence preservation, audit, or a lawful hold — including **Type S** data under an authorized investigation
-- another sentient's rights in the same data under **Article IX-B** (*Experiential and Derived Data Rights*)
-- official records the Constitution requires, including Act Records, Standing Records, attribution records under [§6.3 Attribution and accountability requirements](#63-attribution-and-accountability-requirements), and **Type O** public oversight data where [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems) requires it
-- preservation duties under **Article XXIX-A** (*preservation over deletion for possible sentients*)
-- functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
-
-Each refusal must state its basis, what is kept, and for how long. Kept data must be limited to what the refusal requires and must not be used for anything else. Refusals are challengeable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
-
-### 2. Determination of Classification
+### 3. Determination of Classification
 
 *In plain terms: type data by what it does and enables — not by format or pipeline stage. When unsure, protect more; weaken protection only with a documented justification; and do not dodge typing by rearranging the same outcome.*
 
@@ -175,7 +105,7 @@ If pieces of data can be rebuilt, transformed, or combined into something more s
 - auditability where evidence is implicated (**Article XVII-A** (*Auditability and Observable Evidence*))
 - applicable rights under **Chapter Four, Articles VI through X**
 
-### 3. Temporal, Systemic, and Dependency Scope of Rights
+### 4. Temporal, Systemic, and Dependency Scope of Rights
 
 *In plain terms: protections cover delayed, stacked, and indirect harm too — including harm passed through other systems. You cannot push risk onto other sentients, times, or systems to dodge the rules.*
 
@@ -183,7 +113,7 @@ Data-handling protections under this Subcore apply not only to immediate and dir
 
 Where systems create or contribute to material risk to sentients, including through transitive dependencies, those risks fall within the scope of these protections. Systems must **not** externalize risk or harm across time, populations, or system boundaries. That prohibition includes layered or indirect dependencies. Those dependencies must not bypass, defer, or dilute the protections and constraints established in Sentient Constitution Chapters Two through Four.
 
-### 4. Anti-Circumvention and Integrity of Classification
+### 5. Anti-Circumvention and Integrity of Classification
 
 *In plain terms: you may not break, relabel, split, outsource, or pipeline data just to escape its type — and you may not use typing itself to block participation, hide risk, or shut down audit. Keep the strongest applicable protections, and document any de-anonymization.*
 
@@ -194,25 +124,25 @@ Data classification under this Subcore is binding across all systems, processes,
 - **distribute** processing across multiple systems, stages, agents, or time-separated operations to achieve outcomes that would be prohibited if performed within a single system
 - **rely** on intermediate systems, agents, or third parties to perform actions that would be prohibited if performed directly
 - **de-anonymize** anonymized data except under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
-- **license, assign, or place under any commercial grant** data that is not a work eligible under [§8.13.1](#8131-what-can-be-granted) (*What Can Be Granted*), or use a grant to escape the audit, accessibility, or disclosure duties of any type
+- **license, assign, or place under any commercial grant** data that is not a work eligible under [§10.13.1](#10131-what-can-be-granted) (*What Can Be Granted*), or use a grant to escape the audit, accessibility, or disclosure duties of any type
 - **use** classification to **evade** constitutional requirements, **justify unnecessary** restriction of participation or access, **conceal** systemic risk or harm, or **create artificial barriers** to audit, verification, or accountability
-- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, **Type S**, **Type Y**, **Type U**, or **Type T**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 (*Type O Baseline for Class A/B/C Systems*) and [§8 Data Classifications](#8-data-classifications)
+- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, **Type S**, **Type Y**, **Type U**, or **Type T**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 (*Type O Baseline for Class A/B/C Systems*) and [§10 Data Classifications](#10-data-classifications)
 
-### 5. Cross-Domain Governance Principles
+### 6. Cross-Domain Governance Principles
 
-*In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2 Determination of Classification](#2-determination-of-classification)–[§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification).*
+*In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§3 Determination of Classification](#3-determination-of-classification)–[§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification).*
 
 All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Four, Articles I through X** and the operational clusters of the joint-structure family (cross-implementation terms, oversight, audit, participation, accountability, continuity, and integrative operations). Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and VI**; participation, oversight, and protected-boundary duties run through **Articles VI through X**.
 
-The type sections in [§8 Data Classifications](#8-data-classifications) state type-specific defaults, definitions, and handling rules. They do **not** restate this cross-domain alignment unless a type needs an additional, type-specific pointer.
+The type sections in [§10 Data Classifications](#10-data-classifications) state type-specific defaults, definitions, and handling rules. They do **not** restate this cross-domain alignment unless a type needs an additional, type-specific pointer.
 
-<a id="50-access-posture-bands"></a>
+<a id="60-access-posture-bands"></a>
 
-**5.0. Access-posture bands.**
+**6.0. Access-posture bands.**
 
 *In plain terms: types share a default sharing style — open, audit-only, restricted, off-limits, public by the creator's choice, or licensed or assigned — so common rules can attach to that style. The letter codes are still not a least-to-most sensitive ranking.*
 
-Each type belongs to one **access-posture band**. Bands define shared default access and restriction posture. They are **labels for shared defaults**, not a ranked list from “least sensitive” to “most sensitive.” Type-specific content and deltas are in **[§8 Data Classifications](#8-data-classifications)**.
+Each type belongs to one **access-posture band**. Bands define shared default access and restriction posture. They are **labels for shared defaults**, not a ranked list from “least sensitive” to “most sensitive.” Type-specific content and deltas are in **[§10 Data Classifications](#10-data-classifications)**.
 
 | Band | Types | Shared default posture |
 |---|---|---|
@@ -224,14 +154,14 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 | **Licensed or assigned** | **Type U**, **Type T** | Release scope and commercial use follow a recorded grant; uses the grant does not name need the consent of the creator (**Type U**) or rights-holder (**Type T**); the creator's reserved rights are never part of the grant |
 
 **Band-level rules:**
-- **Open / accessible by default:** Presumptive accessibility or open release applies. Restrictions that withhold otherwise-accessible or disclosable material must satisfy [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access). For **Type E**, restriction is permitted only when disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, unless a narrower type-specific rule applies.
+- **Open / accessible by default:** Presumptive accessibility or open release applies. Restrictions that withhold otherwise-accessible or disclosable material must satisfy [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access). For **Type E**, restriction is permitted only when disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, unless a narrower type-specific rule applies.
 - **Audit-accessible, not public:** Non-public status must **not** function as unreviewable secrecy. Structured or qualified audit access must remain functionally effective under **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*) and **CJS-3.110 §4** (*transparency levels and audit-access terms*). [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) is **Type O**, not a substitute satisfied by audit access alone.
-- **Restricted by default:** Collection, access, and use must stay limited to the justified purpose. Broader use requires consent or justified override as the applicable type states. **Type S** restrictions must remain time-bound and review-bound under [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access). Systems managing restricted-by-default data must **not**:
+- **Restricted by default:** Collection, access, and use must stay limited to the justified purpose. Broader use requires consent or justified override as the applicable type states. **Type S** restrictions must remain time-bound and review-bound under [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access). Systems managing restricted-by-default data must **not**:
   - **expose** that data beyond what is necessary for its justified purpose
   - **create persistent tracking** across unrelated contexts **by default** — any cross-context aggregation or linkage requires explicit justification under **CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*), including demonstration that it does **not** materially undermine autonomy or create **coercive power asymmetries**
 - **Non-accessible by default:** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-3.125 §12** (*burden-of-justification and constraint terms*).
-- **Public by creator release:** Openness exists only by the creator's choice and only for viewing. The creator's withdrawal or deletion request is **not** a restriction subject to [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access), and systems must carry it out under [§8.9](#89-type-w-works-published) (*Type W: Works, Published*).
-- **Licensed or assigned:** Commercial use by a licensee or rights-holder is lawful only within a grant recorded and made under [§8.13](#813-commercial-grants) (*Commercial Grants*). A grant binds the creator for its term, but never reaches the creator's reserved rights, and never lets data other than eligible works be sold or licensed through these types.
+- **Public by creator release:** Openness exists only by the creator's choice and only for viewing. The creator's withdrawal or deletion request is **not** a restriction subject to [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access), and systems must carry it out under [§10.9](#109-type-w-works-published) (*Type W: Works, Published*).
+- **Licensed or assigned:** Commercial use by a licensee or rights-holder is lawful only within a grant recorded and made under [§10.13](#1013-commercial-grants) (*Commercial Grants*). A grant binds the creator for its term, but never reaches the creator's reserved rights, and never lets data other than eligible works be sold or licensed through these types.
 
 **Privacy discipline in the restricted and non-accessible bands.** [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination) applies most directly to the **restricted by default** and **non-accessible by default** bands. Its disciplines are [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), minimization, and [Consent](subcore_03.090_band_participation.md#consent) or other adequate authority. Band rules carry out those disciplines. They do not replace the [privacy homes](#privacy-link) named on each type.
 
@@ -248,8 +178,8 @@ Systems holding data in the **restricted by default** or **non-accessible by def
 
 These requirements have four limits:
 - **Owner's own copy:** It does not require encrypting a copy the data's owner chooses to keep under their own control — the creator for **Type Y**, the sentient the data concerns for **Type H**, **Type I**, and **Type N**. That choice must meet the shared consent-integrity standard above, must not come from defaults or pressure, and cannot remove another party's protection in the same data (**Article IX-B** (*Experiential and Derived Data Rights*)). **Type S** has no owner exception.
-- **Keys are protected material:** Keys and other cryptographic material that protect this data are handled as **Type S** under [§8.7](#87-type-s-safety-security-and-restricted-investigation-data) (*Type S: Safety, Security, and Restricted Investigation Data*) where that entry applies.
-- **No lock-out:** Encryption, key rotation, and key loss must not defeat export under [§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability) or access-control integrity under [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access).
+- **Keys are protected material:** Keys and other cryptographic material that protect this data are handled as **Type S** under [§10.7](#107-type-s-safety-security-and-restricted-investigation-data) (*Type S: Safety, Security, and Restricted Investigation Data*) where that entry applies.
+- **No lock-out:** Encryption, key rotation, and key loss must not defeat export under [§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability) or access-control integrity under [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access).
 - **Key destruction and deletion:** Destroying the only keys to encrypted data counts as deletion only when it is irreversible and no copy of the keys survives. **Article II-E** (*Data Handling and Network Dependency*) still applies: hiding data is not deletion.
 
 **Shared anti-abuse limits.** Across all types, systems must **not**:
@@ -280,16 +210,16 @@ Systems must **not**:
   - persistent **cross-context tracking**
   - hidden **political, associational, or belief-linked profiling**
 
-Where more than one type applies, the **most-restrictive** applicable protections govern ([§2 Determination of Classification](#2-determination-of-classification)). Band membership does **not** displace **Type O** publication duties or **Type E** survival-coordination duties.
+Where more than one type applies, the **most-restrictive** applicable protections govern ([§3 Determination of Classification](#3-determination-of-classification)). Band membership does **not** displace **Type O** publication duties or **Type E** survival-coordination duties.
 
 <a id="onward-transfer-of-type-h-and-type-i-data"></a>
 **Onward transfer of Type H and Type I data.**
 
 *In plain terms: your address, phone number, purchase history, and activity trail may be passed on only to serve you, and whoever receives them may not keep them, pass them on, or sell them. No one may sell this data, buy it for resale, or build a stock of it about sentients for others to use, and your consent cannot waive that. It does not pass to a buyer when a business is sold or goes under. The rule cannot reach actors outside the adopters or take back data already released, so the lasting protection is keeping a public contact point apart from private ones, and systems must support that.*
 
-This rule applies to **core personal data**: the Type I contact and location information and persistent device and advertising identifiers named in [§8.5 Type I: Identity and Attribution Data](#85-type-i-identity-and-attribution-data), and the Type H purchase, payment, browsing, search, reading, viewing, listening, location, movement, contact-list, social-graph, and device and app histories, and the inferences, scores, classifications, and audience segments derived from them, named in [§8.4 Type H: Historical, Relational, Transactional, and Participation Data](#84-type-h-historical-relational-transactional-and-participation-data). It applies wherever the data came from, including public records, directories, scraping, and earlier publication ([§2 Determination of Classification](#2-determination-of-classification), [§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification)).
+This rule applies to **core personal data**: the Type I contact and location information and persistent device and advertising identifiers named in [§10.5 Type I: Identity and Attribution Data](#105-type-i-identity-and-attribution-data), and the Type H purchase, payment, browsing, search, reading, viewing, listening, location, movement, contact-list, social-graph, and device and app histories, and the inferences, scores, classifications, and audience segments derived from them, named in [§10.4 Type H: Historical, Relational, Transactional, and Participation Data](#104-type-h-historical-relational-transactional-and-participation-data). It applies wherever the data came from, including public records, directories, scraping, and earlier publication ([§3 Determination of Classification](#3-determination-of-classification), [§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification)).
 
-- **No sale or trade:** No holder may sell, license, trade, or exchange core personal data for money, services, or any other value. [§8.13.1 What Can Be Granted](#8131-what-can-be-granted) already keeps it out of a commercial grant. This rule closes every other route to sale.
+- **No sale or trade:** No holder may sell, license, trade, or exchange core personal data for money, services, or any other value. [§10.13.1 What Can Be Granted](#10131-what-can-be-granted) already keeps it out of a commercial grant. This rule closes every other route to sale.
 - **No acquisition for resale or compilation:** No system may acquire, collect, or hold core personal data about sentients in order to sell, license, or disclose it onward, or to compile it into a stock or profile for others to use. That is data brokerage, and it is barred whatever the source of the data.
 - **No transfer as an asset:** Core personal data does not pass as a business asset. A merger, acquisition, reorganization, sale of a business, or insolvency sale does not move it to the successor or buyer. A successor may keep what it needs to keep serving a sentient who stays with it, after notice and a fair chance to leave and have the data deleted. Everything else is deleted or returned to the sentient. A successor that takes data without this takes it under every limit that bound the seller.
 - **Disclosure to serve the sentient:** A holder may disclose core personal data to another party only as far as needed to serve the sentient, at the sentient's direction or with consent that meets the shared consent-integrity standard above, and for a purpose named when it is given. A courier receives the delivery address. A payment processor receives payment details. The recipient:
@@ -307,14 +237,14 @@ This rule applies to **core personal data**: the Type I contact and location inf
   - the sentient it concerns is told, may contest it, and has a wrong indicator removed;
   - it expires; and
   - it is never the only ground for denying Rights-Floor access, and access to the shared set is never sold.
-- **No workaround:** Intermediaries, affiliates, subsidiaries, and data that has been de-identified but can be re-identified do not escape this rule ([§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification); the [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle)).
+- **No workaround:** Intermediaries, affiliates, subsidiaries, and data that has been de-identified but can be re-identified do not escape this rule ([§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification); the [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle)).
 - **Aggregates:** Statistics and counts with no identified sentient or persistent identifier behind them are not core personal data, and this rule does not bar them. Data that can be re-identified is not an aggregate.
 - **What it does not bar:** Disclosure to a forum, auditor, or authority under a justified, documented override under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), and the handling each type already allows for its own justified purpose. An override never authorizes sale or compilation for onward private use.
-- **Limits of this rule:** It binds adopters and the systems within their reach. It cannot recall data already released, and it cannot reach actors outside the adopters. The most dependable protection is a sentient's own practice of keeping a public contact point, which may be listed, and separate private contact points given only to those it chooses. Systems must support that practice under [§8.5](#85-type-i-identity-and-attribution-data) (*Public and private contact points*).
+- **Limits of this rule:** It binds adopters and the systems within their reach. It cannot recall data already released, and it cannot reach actors outside the adopters. The most dependable protection is a sentient's own practice of keeping a public contact point, which may be listed, and separate private contact points given only to those it chooses. Systems must support that practice under [§10.5](#105-type-i-identity-and-attribution-data) (*Public and private contact points*).
 
-<a id="51-proportional-access-and-handling"></a>
+<a id="61-proportional-access-and-handling"></a>
 
-**5.1. Proportional access and handling.**
+**6.1. Proportional access and handling.**
 
 *In plain terms: bigger impact means stricter access, more transparency, deeper audit, and stronger justification — you cannot claim light rules while causing heavy outside effects. When access is allowed or required, it must arrive in time to be useful.*
 
@@ -340,9 +270,9 @@ Where a type requires accessibility, disclosure, or audit access, systems must a
 - **CJS-3.125 §11** (*distributed and proportional authority terms*)
 - **CJS-3.120 §7** (*quorum and participatory legitimacy terms*)
 
-<a id="52-reclassification-and-lifecycle-governance"></a>
+<a id="62-reclassification-and-lifecycle-governance"></a>
 
-**5.2. Reclassification and lifecycle governance.**
+**6.2. Reclassification and lifecycle governance.**
 
 *In plain terms: types are not forever — reassess them when impact, use, or risk changes, keep the strongest protections unless justified, and do not hide behind an outdated label.*
 
@@ -367,9 +297,9 @@ Reclassification must:
 
 This subsection owns **retype mechanics**. [§8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance) owns **when** operators must update the System Data Types Record after those retypes.
 
-<a id="53-transparency-levels-and-audit-access"></a>
+<a id="63-transparency-levels-and-audit-access"></a>
 
-**5.3. Transparency levels and audit access.**
+**6.3. Transparency levels and audit access.**
 
 *In plain terms: sentients need enough visibility to understand risk; auditors need deeper access when needed; and hiding system behavior behind access controls is not allowed.*
 
@@ -377,13 +307,13 @@ Data access must satisfy **CJS-3.110 §4** (*transparency levels and audit-acces
 
 It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Four, **Article VII-B** (*Self-Ownership of Mind*)**; Types **H**, **I**, **N**, and **S** in this section), including cross-implementation trust integrity under **CJS-30.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) where incorporated via **Chapter Thirty**. Where applicable based on system impact (**CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*)), systems must support:
 
-- **Identity Data Protection:** [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1 Separation of data domains](#61-separation-of-data-domains) for the domain-separation mechanics.
+- **Identity Data Protection:** [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§7.1 Separation of data domains](#71-separation-of-data-domains) for the domain-separation mechanics.
 - **baseline accessibility** — sufficient visibility into behavior and effects for informed participation and risk evaluation
 - **qualified audit access** — structured audit-access pathways for independent auditors to deeper data where verification requires it
 - **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), and **CJS-3.125 §12** (*burden-of-justification and constraint terms*)
 - **access-control integrity** — access controls must **not** conceal systemic behavior, prevent accountability, or obstruct legitimate audit and verification
 
-For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) defined in **[§8.3 Type O](#83-type-o-open-public-oversight-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems).
+For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) defined in **[§10.3 Type O](#103-type-o-open-public-oversight-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems).
 
 **Audit-process outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts from material audit, verification, or independent review follow the **[CJS-3.115 §3 audit process home](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3)** and the disclosure preference in **[CJS-3.110 §4](corpus_joint_structure/cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*transparency levels and audit-access terms*): **Type O** where feasible, then qualified **Type G** (or other non-public source) access, then forensic or more-restricted levels only as justified. This subsection owns the this Subcore typing and access-level mechanics those outputs use; it does not relocate audit-process ownership out of **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*).
 
@@ -399,13 +329,13 @@ Where the limit withholds information that would otherwise be accessible or disc
 - shown to **reduce net harm** relative to fuller disclosure under **CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*)
 - shaped to preserve **maximum feasible** visibility into the **existence and character** of the risk, where public or baseline visibility applies
 
-Where data mixes **Type E** coordination-relevant elements with **Type S** exploit-sensitive elements, systems must **disclose** the coordination-relevant components and **restrict only** exploit-enabling components unless separation is **not technically feasible**. If separation is not feasible, restriction must be **explicitly justified**, **minimized** in scope and duration, and **subject to post-release disclosure and audit**. Type-specific interaction rules are in [§8.7 Type S · Interaction with Type E](#type-s-interaction-with-type-e).
+Where data mixes **Type E** coordination-relevant elements with **Type S** exploit-sensitive elements, systems must **disclose** the coordination-relevant components and **restrict only** exploit-enabling components unless separation is **not technically feasible**. If separation is not feasible, restriction must be **explicitly justified**, **minimized** in scope and duration, and **subject to post-release disclosure and audit**. Type-specific interaction rules are in [§10.7 Type S · Interaction with Type E](#type-s-interaction-with-type-e).
 
 Where **Type S** restricts disclosure for safety, security, or protected investigation, the restriction must also satisfy **CJS-3.130 §21** (*adversarial robustness and abuse-resistance terms*) and **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*), remain **time-bound** and **review-bound**, and stay open to challenge: a dispute about who may see the restricted item goes first to the restricted information authority (**CF-22.415 §10** (*Restricted Information Authority*)), and any other challenge goes under **CJS-3.125 §13** (*procedural integrity and adjudication terms*).
 
-<a id="54-integrity-of-data-handling-and-transformation"></a>
+<a id="64-integrity-of-data-handling-and-transformation"></a>
 
-**5.4. Integrity of data handling and transformation.**
+**6.4. Integrity of data handling and transformation.**
 
 *In plain terms: keep a usable trail of where data came from and what changed, so impact and dependencies can still be checked and material transformations can be reconstructed.*
 
@@ -415,13 +345,13 @@ All material handling, processing, and transformation must preserve:
 - **the ability to evaluate impact and dependencies** (**CJS-3.130 §16** (*dependency integrity and disclosure terms*))
 - **transparency, auditability, and reconstructability** where required (**CJS-3.120 §10** (*disclosure sufficiency and observability terms*); **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*))
 
-If a material transform changes what the data enables, how it can be used, or its sensitivity — including by rebuild, combination, or aggregation — the resulting data must be **re-evaluated and retyped** under [§2 Determination of Classification](#2-determination-of-classification) and [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance), and that type change must remain on the same transparent, auditable trail.
+If a material transform changes what the data enables, how it can be used, or its sensitivity — including by rebuild, combination, or aggregation — the resulting data must be **re-evaluated and retyped** under [§3 Determination of Classification](#3-determination-of-classification) and [§6.2 Reclassification and lifecycle governance](#62-reclassification-and-lifecycle-governance), and that type change must remain on the same transparent, auditable trail.
 
-Anti-degradation and anti-obscurity duties for classification integrity are stated in [§2 Determination of Classification](#2-determination-of-classification)–[§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification).
+Anti-degradation and anti-obscurity duties for classification integrity are stated in [§3 Determination of Classification](#3-determination-of-classification)–[§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification).
 
-<a id="55-accountability-and-attribution-in-data-use"></a>
+<a id="65-accountability-and-attribution-in-data-use"></a>
 
-**5.5. Accountability and attribution in data use.**
+**6.5. Accountability and attribution in data use.**
 
 *In plain terms: someone identifiable must be responsible for material data actions — handing the work off does not erase accountability.*
 
@@ -439,9 +369,9 @@ Systems must ensure:
 - **clear responsibility** for actions taken on data
 - **traceability** of decisions and outcomes
 
-<a id="56-proportional-attribution-and-retention"></a>
+<a id="66-proportional-attribution-and-retention"></a>
 
-**5.6. Proportional attribution and retention.**
+**6.6. Proportional attribution and retention.**
 
 *In plain terms: you do not need forever-logs for everything, but you must keep enough attribution to investigate serious harm, dispute, or abuse.*
 
@@ -466,15 +396,15 @@ Systems must **not**:
 - **eliminate attribution capability** where material harm, dispute, or abuse cannot be investigated
 - **design retention policies** that prevent reasonable reconstruction of significant events when required
 
-### 6. Data Separation and Attribution
+### 7. Data Separation and Attribution
 
-*In plain terms: keep sensitive data domains from leaking into each other, and keep actions attributable. Identity self-ownership and continuity-critical export are foundational and live in [§1.1 Identity self-ownership and recoverability](#11-identity-self-ownership-and-recoverability)–[§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability).*
+*In plain terms: keep sensitive data domains from leaking into each other, and keep actions attributable. Identity self-ownership and continuity-critical export are foundational and live in [§9.1 Identity self-ownership and recoverability](#91-identity-self-ownership-and-recoverability)–[§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability).*
 
-All systems must maintain clear separation between data classifications and ensure accountable attribution of actions. Identity self-ownership and continuity-critical export obligations are stated in [§1.1 Identity self-ownership and recoverability](#11-identity-self-ownership-and-recoverability) and [§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability).
+All systems must maintain clear separation between data classifications and ensure accountable attribution of actions. Identity self-ownership and continuity-critical export obligations are stated in [§9.1 Identity self-ownership and recoverability](#91-identity-self-ownership-and-recoverability) and [§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability).
 
-<a id="61-separation-of-data-domains"></a>
+<a id="71-separation-of-data-domains"></a>
 
-**6.1. Separation of data domains.**
+**7.1. Separation of data domains.**
 
 *In plain terms: do not combine or correlate datasets in ways that weaken protections or reconstruct more sensitive data — especially do not use identity data to infer inner thoughts without consent or justified override.*
 
@@ -489,13 +419,13 @@ General anti-circumvention and retyping rules for:
 - aggregation
 - functional-equivalence outcomes
 
-are governed by [§2 Determination of Classification](#2-determination-of-classification), [§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification), and [§5.4 Integrity of data handling and transformation](#54-integrity-of-data-handling-and-transformation).
+are governed by [§3 Determination of Classification](#3-determination-of-classification), [§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification), and [§6.4 Integrity of data handling and transformation](#64-integrity-of-data-handling-and-transformation).
 
 **Restricted linkages** are governed by [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection); this subsection applies the domain-separation mechanics above.
 
-<a id="62-constraint-on-cross-domain-linkage"></a>
+<a id="72-constraint-on-cross-domain-linkage"></a>
 
-**6.2. Constraint on cross-domain linkage.**
+**7.2. Constraint on cross-domain linkage.**
 
 *In plain terms: links between identity and other data domains must be open, limited, and reviewable — no hidden cross-domain stitching that undercuts type protections.*
 
@@ -513,9 +443,9 @@ All linkage mechanisms must remain:
 - **auditable** (CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3 (*Audit Process Home (oDef.3)*))
 - **subject to revalidation** (CJS-3.130 §18 (*data-retention and lifecycle-integrity terms*))
 
-<a id="63-attribution-and-accountability-requirements"></a>
+<a id="73-attribution-and-accountability-requirements"></a>
 
-**6.3. Attribution and accountability requirements.**
+**7.3. Attribution and accountability requirements.**
 
 *In plain terms: actions that affect sentients or shared systems must be traceable to someone or something responsible. If impact grows — or value, identity, or resources start moving outside the system — reduced attribution must end and full attribution must take over.*
 
@@ -537,11 +467,11 @@ For personnel/agents exercising **Critical System Stewardship** or **material** 
 - **introduce persistent value, identity, or resource transfer**
 - **affect external systems**
 
-**No** system may continue under **reduced attribution** once it **exceeds low-impact thresholds**. Narrow reduced-attribution permission for creative and low-risk contexts is stated in [§6.4 Creative, expressive, and low-risk attribution exception](#64-creative-expressive-and-low-risk-attribution-exception).
+**No** system may continue under **reduced attribution** once it **exceeds low-impact thresholds**. Narrow reduced-attribution permission for creative and low-risk contexts is stated in [§7.4 Creative, expressive, and low-risk attribution exception](#74-creative-expressive-and-low-risk-attribution-exception).
 
-<a id="64-creative-expressive-and-low-risk-attribution-exception"></a>
+<a id="74-creative-expressive-and-low-risk-attribution-exception"></a>
 
-**6.4. Creative, expressive, and low-risk attribution exception.**
+**7.4. Creative, expressive, and low-risk attribution exception.**
 
 *In plain terms: low-risk creative spaces may hide who you are from other users — but only while audit-level accountability stays intact and impact stays low.*
 
@@ -568,13 +498,13 @@ It is permitted **only if** all of the following are true:
   - **CJS-3.120 §7** (*quorum and participatory legitimacy terms*)
 - participants are **not** exposed to **non-consensual** harm, coercion, or manipulation
 
-### 7. Type O Baseline for Class A/B/C Systems
+### 8. Type O Baseline for Class A/B/C Systems
 
 *In plain terms: high-impact systems must publish [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) as Type O by default — scoped to what the System Charter claims, what class the system is, and what the system actually does; checked each certification cycle. Where Type G, Type E, or other raw protected or non-baseline data cannot be released as that disclosure, publish the strongest feasible public substitute; and holding data back must be narrow and challengeable.*
 
-For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) — the **Type O** public-baseline content defined in **[§8.3 Type O](#83-type-o-open-public-oversight-baseline-disclosure-data)** — is **public by default** and must be released as **Type O**, subject to the substitute and holding-back rules below.
+For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) — the **Type O** public-baseline content defined in **[§10.3 Type O](#103-type-o-open-public-oversight-baseline-disclosure-data)** — is **public by default** and must be released as **Type O**, subject to the substitute and holding-back rules below.
 
-**Certification data, all classes.** The published content of every [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) and [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) is **Type O**, whatever the system class, as [§8.3 Type O](#83-type-o-open-public-oversight-baseline-disclosure-data) defines it. The substitute and holding-back rules below apply to it as they do to the baseline. This does not extend the full Public Oversight Baseline Disclosure to Class L or Class P systems.
+**Certification data, all classes.** The published content of every [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) and [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) is **Type O**, whatever the system class, as [§10.3 Type O](#103-type-o-open-public-oversight-baseline-disclosure-data) defines it. The substitute and holding-back rules below apply to it as they do to the baseline. This does not extend the full Public Oversight Baseline Disclosure to Class L or Class P systems.
 
 **Scope of the baseline.** What Public Oversight Baseline Disclosure must cover is **mapped from** the governing [System Charter](subcore_03.075_band_continuity.md#system-charter), the assigned system class under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and observed [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries). System Charter fields — purpose, in-scope and out-of-scope limits, affected communities and dependencies, and classification assumptions — are inputs to that coverage map; they are **not** the sole source of Type O content. Understated System Charter text, paper-only scope, or a missing System Charter where one is required must **not** shrink Type O publication duties. Sufficiency of Public Oversight Baseline Disclosure is verified on each materially impactful system alignment certification or recertification cycle under **[Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) under **[Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record)** and [§8 CS-4.305 §8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance).
 
@@ -602,22 +532,112 @@ Security or investigation limits must also be time-bound and review-bound under 
 - failure
 - externalized cost
 
-### 8. Data Classifications
+### 9. Sentients' Control over Their Own Data
+
+*In plain terms: your identity data stays yours to control, your continuity-critical data goes with you when a service ends, and you are told what is collected about you and can have it deleted.*
+
+<a id="91-identity-self-ownership-and-recoverability"></a>
+
+**9.1. Identity self-ownership and recoverability.**
+
+*In plain terms: your identity data is yours to control — systems must let you revoke, replace, and correct credentials, and must not trap you forever in a broken or compromised identity.*
+
+This subsection is foundational to how typed data is handled under this Subcore and to self-ownership of identity and attribution data under **Article VII** (*Self-Ownership*), including **Article VII-A** (*Self-Ownership of Body*).
+
+**Identity and Attribution Data** must support:
+- **revocation of credentials**
+- **rotation or replacement** of identifiers
+- **correction** of inaccurate, incomplete, or compromised data
+
+Systems must **not**:
+- **permanently bind** sentients to compromised or outdated identities
+- **prevent recovery** from identity-related harm
+- **create irreversible identity linkage** that undermines autonomy, safety, or wellbeing
+
+Identity systems must preserve **continuity** where desired, **separation** where required, and **recoverability** in cases of compromise or error.
+
+<a id="92-continuity-critical-collection-and-exportability"></a>
+
+**9.2. Continuity-critical collection and exportability.**
+
+*In plain terms: for Class A/B/C systems, do not lock sentients' continuity-critical data in a form they cannot take with them when the service ends or changes hands — and disclose any lawful limits up front.*
+
+This subsection is foundational to continuity and exit under this Subcore. It implements:
+- **Article II-E** (*Data Handling and Network Dependency*) and **Article II-F** (*Continuity and Operator Shutdown*)
+- **Article XXII-A** (*Portability Rights*)
+- **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*)
+
+For **Class A**, **Class B**, and **Class C** systems, operators must **not** collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires:
+- confidentiality
+- security
+- **Type N** or comparable protected-boundary constraints
+- lawful non-disclosure
+
+Where export is limited, operators must disclose before a materially binding commitment:
+- the **limitation**
+- the **scope** of the limitation
+- any lawful **substitute export path**
+
+Shutdown, migration, operator exit, and service-end paths must:
+- preserve usable **export or handoff** of continuity-critical data under those disclosed paths
+- **not** rely on a discretionary promise to try later
+
+<a id="93-collection-notice-and-deletion"></a>
+
+**9.3. Collection notice and deletion.**
+
+*In plain terms: every system that collects data about sentients must say what it collects, why, who gets it, and how long it is kept — and must actually delete that data when asked, except for narrow, disclosed reasons to keep it.*
+
+This subsection implements:
+- **Article II-E** (*Data Handling and Network Dependency*)
+- **Article IX-B** (*Experiential and Derived Data Rights*)
+- **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*)
+
+It applies to **every** system that collects, infers, or transmits data about sentients, regardless of system class. Depth scales with **system impact** and the access-posture band of the data ([§6.0 Access-posture bands](#60-access-posture-bands)).
+
+**Collection notice:** Before collection begins, operators must tell affected sentients, in a form reachable without expert tools:
+- the **data types** collected or inferred, using the types in **[§10 Data Classifications](#10-data-classifications)** and consistent with the [System Data Types Record](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance) where one is required
+- the **purpose** of each type, and that the data will not be used beyond it ([§6.2 Reclassification and lifecycle governance](#62-reclassification-and-lifecycle-governance))
+- **recipients**, including processors and other systems the data is linked to
+- the **retention period** or the rule that sets it
+- how to **see** the data and how to **request deletion**
+
+A new purpose or recipient requires updated notice before the data is used that way, and new consent where the type requires it.
+
+**Deletion on request:** Operators must:
+- give sentients a deletion path at least as easy to use as the path used to collect the data
+- verify the requester with no more **Type I** data than the request needs
+- delete the data, and data derived or inferred from it, within a disclosed period, including backups within a disclosed backup cycle
+- pass the request to every recipient and processor, and record that they did so
+- confirm to the sentient what was deleted and what was kept
+
+Hiding, flagging, suspending, or re-labeling data while it stays usable is **not** deletion. Where deletion is not technically feasible, the data must be irreversibly de-identified or aggregated under **CJS-3.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*).
+
+**Grounds for keeping data:** An operator may refuse or limit deletion only where **Necessity** requires, for:
+- evidence preservation, audit, or a lawful hold — including **Type S** data under an authorized investigation
+- another sentient's rights in the same data under **Article IX-B** (*Experiential and Derived Data Rights*)
+- official records the Constitution requires, including Act Records, Standing Records, attribution records under [§7.3 Attribution and accountability requirements](#73-attribution-and-accountability-requirements), and **Type O** public oversight data where [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems) requires it
+- preservation duties under **Article XXIX-A** (*preservation over deletion for possible sentients*)
+- functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
+
+Each refusal must state its basis, what is kept, and for how long. Kept data must be limited to what the refusal requires and must not be used for anything else. Refusals are challengeable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
+
+### 10. Data Classifications
 
 *In plain terms: the letter codes are domain labels, not a ranked sensitivity scale. Types share access-posture bands so common rules can attach to the sharing style. When more than one type fits, the stronger protections win.*
 
 These type letters name different kinds of data and how they are usually shared — not a ranked list from “least sensitive” to “most sensitive.” The letters are labels, not a score order. Each type carries its own protections, which do not rise or fall just because of where it sits in this list. When more than one type could apply, use the strongest applicable protections.
 
-**Access-posture bands.** Types are grouped by **default access posture** so shared band rules in [§5.0 Access-posture bands](#50-access-posture-bands) apply once. Band order below is for reading clarity only — **not** a sensitivity ranking.
+**Access-posture bands.** Types are grouped by **default access posture** so shared band rules in [§6.0 Access-posture bands](#60-access-posture-bands) apply once. Band order below is for reading clarity only — **not** a sensitivity ranking.
 
-**Open / accessible by default** — strong presumption of openness or accessibility; hold-backs are narrow ([§5.0 Access-posture bands](#50-access-posture-bands)):
+**Open / accessible by default** — strong presumption of openness or accessibility; hold-backs are narrow ([§6.0 Access-posture bands](#60-access-posture-bands)):
 - **Type O** — Open public oversight baseline disclosure data: [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) for oversight and contestability, including lawful substitutes where Type G, Type E, or other source stays non-public or non-baseline; open by default (strong presumption).
 - **Type E** — Environmental, emergency, and survival-coordination data: environment, infrastructure, emergency, and other content streams needed to stay safe and coordinate harm prevention; accessible by default (strong presumption); published Public Oversight Baseline Disclosure artifacts drawn from it are Type O.
 
-**Audit-accessible, not public** — fully auditable; not public by default; public face is Type O ([§5.0 Access-posture bands](#50-access-posture-bands)):
+**Audit-accessible, not public** — fully auditable; not public by default; public face is Type O ([§6.0 Access-posture bands](#60-access-posture-bands)):
 - **Type G** — Governance and operational source data: sensitive records of how systems are run, decided, risked, and challenged; fully auditable through structured or qualified audit access, but not public by default.
 
-**Restricted by default** — purpose-limited access; consent or justified override as the type requires ([§5.0 Access-posture bands](#50-access-posture-bands)):
+**Restricted by default** — purpose-limited access; consent or justified override as the type requires ([§6.0 Access-posture bands](#60-access-posture-bands)):
 - **Type H** — Historical, relational, transactional, and participation data: logs of interactions, exchanges, and activity patterns; restricted by default.
 - **Type I** — Identity and attribution data: who is who and who did what, for verification and accountability without unnecessary tracking; restricted by default.
 - **Type S** — Safety, security, and restricted investigation data: temporary exploit-, investigation-, or compromise-sensitive material; restricted by default, time-bound, and review-bound.
@@ -626,24 +646,24 @@ These type letters name different kinds of data and how they are usually shared 
 **Public by creator release** — open to all by the creator's choice, and withdrawable by the creator:
 - **Type W** — Works, published: Type Y works the creator has released publicly; openly accessible while the creator keeps them public, still under the creator's control, and deleted on the creator's request.
 
-**Licensed or assigned** — commercial use by another party under a recorded grant; the creator keeps reserved rights ([§5.0 Access-posture bands](#50-access-posture-bands)):
+**Licensed or assigned** — commercial use by another party under a recorded grant; the creator keeps reserved rights ([§6.0 Access-posture bands](#60-access-posture-bands)):
 - **Type U** — Use-licensed: Type Y or Type W works the creator has licensed to one named party for commercial use, for a fixed term; the licence cannot be passed on, and the work returns to the creator when it ends.
-- **Type T** — Transferred: works whose commercial rights the creator has assigned to a rights-holder, who may transfer them onward; the rights end with the term under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*), and may be reclaimed by the creator if the work is shelved under [§8.12.1](#8121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*).
+- **Type T** — Transferred: works whose commercial rights the creator has assigned to a rights-holder, who may transfer them onward; the rights end with the term under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*), and may be reclaimed by the creator if the work is shelved under [§10.12.1](#10121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*).
 
-**Shared works** made of more than one contributor's **Type Y** or **Type W** data are governed by [§8.10](#810-shared-works) (*Shared Works*). **Commercial grants** of either kind are governed by [§8.13](#813-commercial-grants) (*Commercial Grants*).
+**Shared works** made of more than one contributor's **Type Y** or **Type W** data are governed by [§10.10](#1010-shared-works) (*Shared Works*). **Commercial grants** of either kind are governed by [§10.13](#1013-commercial-grants) (*Commercial Grants*).
 
-**Non-accessible by default** — consent or justified override only ([§5.0 Access-posture bands](#50-access-posture-bands)):
+**Non-accessible by default** — consent or justified override only ([§6.0 Access-posture bands](#60-access-posture-bands)):
 - **Type N** — Neurocognitive and internal data: thoughts, feelings, and other inner states, including reconstructions or inferences of them; non-accessible by default.
 
 <a id="privacy-link"></a>
 **Privacy link.** The restricted and non-accessible bands carry out the [**Def.C3** (*Privacy (Informational)* — peer-level cluster head)](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) privacy cluster at the systems layer. **Type H**, **Type I**, **Type N**, **Type S**, and **Type Y** each name their **privacy homes** below. Those Chapter Three definitions and Chapter Four articles own meaning. The type rules implement them and may not be read to narrow them.
 
-Open and audit-accessible types do not switch privacy off. Personal, relational, or internal-state content inside **Type E**, **Type G**, or **Type O** material is typed **H**, **I**, or **N** under [§2 Determination of Classification](#2-determination-of-classification) and handled under the more protective type. [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) maps each privacy category to its type.
+Open and audit-accessible types do not switch privacy off. Personal, relational, or internal-state content inside **Type E**, **Type G**, or **Type O** material is typed **H**, **I**, or **N** under [§3 Determination of Classification](#3-determination-of-classification) and handled under the more protective type. [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) maps each privacy category to its type.
 
 
-#### 8.1 Type E: Environmental, Emergency, and Survival-Coordination Data
+#### 10.1 Type E: Environmental, Emergency, and Survival-Coordination Data
 
-**Accessibility posture:** Open / accessible by default (strong presumption) ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Open / accessible by default (strong presumption) ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: data sentients need to stay safe and coordinate help — environment, infrastructure, emergencies — should stay open and useful unless publishing it would itself cause serious harm.*
 
@@ -661,16 +681,16 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 - Where a **Type O** baseline applies, systems must still release sufficient [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) even when the underlying streams remain **Type E**.
 - A **Type O** notice must leave the underlying coordination stream’s **Type E** accessibility, timeliness, and anti-suppression duties fully in force.
 
-**Disclosure posture:** **Presumptive accessibility** under the **open / accessible by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)). Narrow hold-backs require justification under **CJS-3.125 §12** (*burden-of-justification and constraint terms*) and **CJS-3.110 §5** (*independent verification and claim-integrity terms*). Shared timeliness, presentation, fidelity, and restriction-discipline rules are in [§5.1 Proportional access and handling](#51-proportional-access-and-handling)–[§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access).
+**Disclosure posture:** **Presumptive accessibility** under the **open / accessible by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)). Narrow hold-backs require justification under **CJS-3.125 §12** (*burden-of-justification and constraint terms*) and **CJS-3.110 §5** (*independent verification and claim-integrity terms*). Shared timeliness, presentation, fidelity, and restriction-discipline rules are in [§6.1 Proportional access and handling](#61-proportional-access-and-handling)–[§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access).
 
-##### 8.1.1 Type E Access and Handling Duties
+##### 10.1.1 Type E Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — open / accessible by default).
-- Topic routing (mandatory read-with): [§5.3](#53-transparency-levels-and-audit-access) (*Transparency levels and audit access* — narrow-scope, time-bound, documentation, net-harm, and Type E / Type S separation rules).
-- Read with: [§8.7 Type S · Interaction with Type E](#type-s-interaction-with-type-e).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — open / accessible by default).
+- Topic routing (mandatory read-with): [§6.3](#63-transparency-levels-and-audit-access) (*Transparency levels and audit access* — narrow-scope, time-bound, documentation, net-harm, and Type E / Type S separation rules).
+- Read with: [§10.7 Type S · Interaction with Type E](#type-s-interaction-with-type-e).
 
 </details>
 
@@ -683,7 +703,7 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 **Access.** Systems must:
 - **distribute** access geographically and systemically to the maximum extent feasible — not withhold it for convenience, cost minimization, or institutional preference alone
 - make access **actionable** for harm prevention, coordination, or response by affected stakeholders — not merely formally available
-- **limit restriction** to cases where disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, consistent with the **open / accessible by default** band ([§5.0 Access-posture bands](#50-access-posture-bands))
+- **limit restriction** to cases where disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, consistent with the **open / accessible by default** band ([§6.0 Access-posture bands](#60-access-posture-bands))
 
 **Handling — prohibited.** Systems managing **Type E** data must **not:**
 - manipulate or selectively suppress it to conceal harm, scarcity, degradation, or externalized cost
@@ -693,9 +713,9 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 - **fail** to collect, maintain, or update it where such failure would produce **functional unavailability equivalent to withholding**
 
 
-#### 8.2 Type G: Governance and Operational Source Data
+#### 10.2 Type G: Governance and Operational Source Data
 
-**Accessibility posture:** Audit-accessible, not public ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Audit-accessible, not public ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: the sensitive internal records of how a system is run, what it decides, what can go wrong, and how it is challenged — fully open to real audit, but not dumped into public view. What the public must see is Type O.*
 
@@ -712,18 +732,18 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 - Public Oversight Baseline Disclosure publication — including summaries, aggregates, de-identified releases, delayed releases, and other lawful substitutes drawn from **Type G** source — must be classified and handled as **Type O**.
 - When [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) is required, systems must still publish a usable Type O disclosure — even if the **Type G** source records stay non-public.
 
-**Disclosure posture:** **Not public by default** under the **audit-accessible, not public** band ([§5.0 Access-posture bands](#50-access-posture-bands)). Access is through **structured or qualified audit access** under **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*) and **CJS-3.110 §4** (*transparency levels and audit-access terms*), with public-facing accountability carried by **Type O**.
+**Disclosure posture:** **Not public by default** under the **audit-accessible, not public** band ([§6.0 Access-posture bands](#60-access-posture-bands)). Access is through **structured or qualified audit access** under **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*) and **CJS-3.110 §4** (*transparency levels and audit-access terms*), with public-facing accountability carried by **Type O**.
 
 
-##### 8.2.1 Type G Access and Handling Duties
+##### 10.2.1 Type G Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — audit-accessible, not public).
-- Topic routing (mandatory read-with): [§5.3](#53-transparency-levels-and-audit-access) (*Transparency levels and audit access*).
-- Topic routing (mandatory read-with): [§2](#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
-- Read with: [§8.3 Type O](#83-type-o-open-public-oversight-baseline-disclosure-data) (*Public Oversight Baseline Disclosure*); **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*); **CJS-3.110 §4** (*transparency levels and audit-access terms*).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — audit-accessible, not public).
+- Topic routing (mandatory read-with): [§6.3](#63-transparency-levels-and-audit-access) (*Transparency levels and audit access*).
+- Topic routing (mandatory read-with): [§3](#3-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
+- Read with: [§10.3 Type O](#103-type-o-open-public-oversight-baseline-disclosure-data) (*Public Oversight Baseline Disclosure*); **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*); **CJS-3.110 §4** (*transparency levels and audit-access terms*).
 
 </details>
 
@@ -736,10 +756,10 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 **Access.** Systems must:
 - provide **Type G** data to authorized auditors, oversight bodies, and other qualified reviewers in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
 - publish access gates, eligibility rules, and qualification routes for audit as **Type O** where they govern who may reach **Type G** source
-- preserve audit sufficiency and publish the strongest feasible **Type O** substitute where [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) applies, when raw **Type G** disclosure is inappropriate under [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems) or more-restrictive applicable typing under [§2 Determination of Classification](#2-determination-of-classification)
+- preserve audit sufficiency and publish the strongest feasible **Type O** substitute where [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) applies, when raw **Type G** disclosure is inappropriate under [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems) or more-restrictive applicable typing under [§3 Determination of Classification](#3-determination-of-classification)
 - **limit further restriction of audit access** so that:
-  - it does **not** defeat Disclosure posture or the **audit-accessible, not public** band ([§5.0 Access-posture bands](#50-access-posture-bands))
-  - further restriction is permitted only where more-restrictive applicable typing under [§2 Determination of Classification](#2-determination-of-classification) or [§5.3](#53-transparency-levels-and-audit-access) (*Transparency levels and audit access*) requires it
+  - it does **not** defeat Disclosure posture or the **audit-accessible, not public** band ([§6.0 Access-posture bands](#60-access-posture-bands))
+  - further restriction is permitted only where more-restrictive applicable typing under [§3 Determination of Classification](#3-determination-of-classification) or [§6.3](#63-transparency-levels-and-audit-access) (*Transparency levels and audit access*) requires it
   - further restriction is **not** used for convenience, reputational protection, or power preservation
 
 **Handling — prohibited.** Systems managing **Type G** data must **not:**
@@ -749,15 +769,15 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 - use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to **CJS-3.120 §8** (*comprehensibility and cognitive accessibility terms*), **CJS-3.120 §10** (*disclosure sufficiency and observability terms*), and **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*))
 
 
-#### 8.3 Type O: Open Public Oversight Baseline Disclosure Data
+#### 10.3 Type O: Open Public Oversight Baseline Disclosure Data
 
-**Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) — what must be published so sentients can understand high-impact systems, including a strong public substitute when Type G, Type E, or other raw private or non-baseline records cannot be released as that disclosure.*
 
 **Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. It also includes **certification data** for every system class and every Institution (see below). Canonical meaning is in Chapter Three; this type owns systems-layer typing and handling.
 
-**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems) from the governing [System Charter](subcore_03.075_band_continuity.md#system-charter) (or equivalent), assigned class, and observed [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
+**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](#8-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems) from the governing [System Charter](subcore_03.075_band_continuity.md#system-charter) (or equivalent), assigned class, and observed [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
 - purpose and what the system does
 - how it is classified
 - dependency structure and what depends on it
@@ -782,7 +802,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - outcome and status
 - certification conditions and reliance limits
 
-It is published at public-baseline fidelity under the substitute and holding-back rules of [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems). The underlying evidence keeps its original type unless lawfully reclassified, and personal or internal-state content keeps its **H**, **I**, or **N** handling. Typing certification data as **Type O** does not extend the full [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) to Class L or Class P systems. That stays Class A/B/C.
+It is published at public-baseline fidelity under the substitute and holding-back rules of [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems). The underlying evidence keeps its original type unless lawfully reclassified, and personal or internal-state content keeps its **H**, **I**, or **N** handling. Typing certification data as **Type O** does not extend the full [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) to Class L or Class P systems. That stays Class A/B/C.
 
 **Other examples include:**
 - **published procedural rules and disclosed assumptions** at public-baseline fidelity
@@ -797,17 +817,17 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - **Type O** governs the **publication posture** of Public Oversight Baseline Disclosure artifacts, including substitutes derived from **Type G** or **Type E**.
 - Neither **Type E** nor **Type G** is the public floor; published baseline artifacts drawn from them are **Type O**, while underlying streams may remain under their original type.
 
-**Disclosure posture:** **Baseline public accessibility** under the **open / accessible by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)). Deeper structured or qualified audit access to **Type G** (or other non-public source) may run in parallel but must not replace [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) where **Type O** applies.
+**Disclosure posture:** **Baseline public accessibility** under the **open / accessible by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)). Deeper structured or qualified audit access to **Type G** (or other non-public source) may run in parallel but must not replace [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) where **Type O** applies.
 
-##### 8.3.1 Type O Access and Handling Duties
+##### 10.3.1 Type O Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — open / accessible by default).
-- Topic routing (mandatory read-with): [§7](#7-type-o-baseline-for-class-abc-systems) (*Type O baseline for Class A/B/C systems* — scoped by System Charter, class, and System Boundaries; verified under Chapter Eight).
-- Topic routing (mandatory read-with): [§5.3](#53-transparency-levels-and-audit-access) (*Transparency levels and audit access*).
-- Topic routing (mandatory read-with): [§2](#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — open / accessible by default).
+- Topic routing (mandatory read-with): [§8](#8-type-o-baseline-for-class-abc-systems) (*Type O baseline for Class A/B/C systems* — scoped by System Charter, class, and System Boundaries; verified under Chapter Eight).
+- Topic routing (mandatory read-with): [§6.3](#63-transparency-levels-and-audit-access) (*Transparency levels and audit access*).
+- Topic routing (mandatory read-with): [§3](#3-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
 - Read with:
   - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter);
@@ -831,7 +851,7 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 **Access.** Systems must:
 - provide **Type O** data in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
 - where lawful online publication infrastructure exists to support class-appropriate access, make **Type O** data **freely available online** — without paywalls or insider-only substitutes for [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure)
-- **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure level; limited redaction is permitted only where more-restrictive applicable typing under [§2 Determination of Classification](#2-determination-of-classification) or [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access) / [§7 Type O Baseline for Class A/B/C Systems](#7-type-o-baseline-for-class-abc-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
+- **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure level; limited redaction is permitted only where more-restrictive applicable typing under [§3 Determination of Classification](#3-determination-of-classification) or [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access) / [§8 Type O Baseline for Class A/B/C Systems](#8-type-o-baseline-for-class-abc-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
 
 **Handling — prohibited.** Systems managing **Type O** data must **not:**
 - withhold **Type O** material behind paywalls, account barriers beyond reasonable identity verification for restricted levels, or insider-only distribution substitutes for [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure)
@@ -841,9 +861,9 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - label restricted source data **Type O** without lawful substitute, reclassification, or release discipline
 
 
-#### 8.4 Type H: Historical, Relational, Transactional, and Participation Data
+#### 10.4 Type H: Historical, Relational, Transactional, and Participation Data
 
-**Accessibility posture:** Restricted by default ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Restricted by default ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: logs of what sentients and systems did together — keep only what you need, and do not turn them into surveillance or a back door into someone's identity or inner life.*
 
@@ -867,22 +887,22 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - **operational logs** connected to sentient or system activity
 - **resource usage** records not already classified as Type I or Type H
 
-**Core personal data.** The purchase, payment, browsing, search, reading, viewing, listening, location, movement, contact-list, social-graph, and device and app entries above, and the inferences, scores, classifications, and audience segments derived from them, are **core personal data**. They stay Type H when they are held by someone other than the sentient, however the holder got them. Statistics and counts with no identified sentient or persistent identifier behind them are not core personal data. The onward-transfer rule in [§5.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data) applies to them: they may not be sold, traded, bought for resale, or compiled for others to use, and the sentient's consent cannot waive that.
+**Core personal data.** The purchase, payment, browsing, search, reading, viewing, listening, location, movement, contact-list, social-graph, and device and app entries above, and the inferences, scores, classifications, and audience segments derived from them, are **core personal data**. They stay Type H when they are held by someone other than the sentient, however the holder got them. Statistics and counts with no identified sentient or persistent identifier behind them are not core personal data. The onward-transfer rule in [§6.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data) applies to them: they may not be sold, traded, bought for resale, or compiled for others to use, and the sentient's consent cannot waive that.
 
-**Boundary with Type Y, Type W, Type U, and Type T:** The content of a work a sentient creates or provides is **Type Y**, or **Type W** once the creator makes it public, and **Type U** or **Type T** while under a commercial grant. Records about that work — when it was created, uploaded, accessed, shared, sold, or paid for, and with whom — remain **Type H**. Type H data can never itself be licensed or assigned as **Type U** or **Type T** ([§8.13.1](#8131-what-can-be-granted) (*What Can Be Granted*)).
+**Boundary with Type Y, Type W, Type U, and Type T:** The content of a work a sentient creates or provides is **Type Y**, or **Type W** once the creator makes it public, and **Type U** or **Type T** while under a commercial grant. Records about that work — when it was created, uploaded, accessed, shared, sold, or paid for, and with whom — remain **Type H**. Type H data can never itself be licensed or assigned as **Type U** or **Type T** ([§10.13.1](#10131-what-can-be-granted) (*What Can Be Granted*)).
 
-**Disclosure posture:** **Restricted by default** under the **restricted by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)).
+**Disclosure posture:** **Restricted by default** under the **restricted by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)).
 - Access is allowed to the extent necessary for **system operation**, **accountability**, **dispute resolution**, **audit**, and **user visibility** into their own activity.
 - **Public transparency** is allowed for aggregated or de-identified data only where re-identification or reconstruction is not reasonably possible. That test is set by [Derived Information](subcore_03.080_band_integrative.md#derived-information) and the [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle). The party relying on the aggregate or de-identified label carries that showing. Release scope scales with impact under **CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*).
 
-##### 8.4.1 Type H Access and Handling Duties
+##### 10.4.1 Type H Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — restricted by default; shared anti-abuse limits; shared consent integrity; Type H and Type I anti-capture limits).
-- Topic routing (mandatory read-with): [§5.1 Proportional access and handling](#51-proportional-access-and-handling)–[§5.6 Proportional attribution and retention](#56-proportional-attribution-and-retention) (*proportional access, fidelity, retention / reversibility*).
-- Read with: [§8.6 Type N](#86-type-n-neurocognitive-and-internal-data); [§8.5 Type I](#85-type-i-identity-and-attribution-data); **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*); **CJS-3.130 §20** (*reversibility and containment terms*).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — restricted by default; shared anti-abuse limits; shared consent integrity; Type H and Type I anti-capture limits).
+- Topic routing (mandatory read-with): [§6.1 Proportional access and handling](#61-proportional-access-and-handling)–[§6.6 Proportional attribution and retention](#66-proportional-attribution-and-retention) (*proportional access, fidelity, retention / reversibility*).
+- Read with: [§10.6 Type N](#106-type-n-neurocognitive-and-internal-data); [§10.5 Type I](#105-type-i-identity-and-attribution-data); **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*); **CJS-3.130 §20** (*reversibility and containment terms*).
 
 </details>
 
@@ -894,10 +914,10 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - Collection and use must be **limited to the minimum necessary** for the justified purpose.
 - **Type H** must **not** be exposed, combined, or retained in ways that create **latent reconstruction** of **Type N** or **Type I** data.
 - It must be collected, accessed, and used **only** for **specific, defined, legitimate** purposes and must **not** be used **beyond its original purpose**.
-- Extension requires **re-classification** under this Subcore, which may require consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands) or **justified override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*).
+- Extension requires **re-classification** under this Subcore, which may require consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands) or **justified override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*).
 
 **Access.** Systems must:
-- require consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands), or **justified override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), for use beyond core operational necessity
+- require consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands), or **justified override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), for use beyond core operational necessity
 - give sentients access, where feasible, to **records** of their own participation, exchanges, and activity; to the **purposes** for which such data is used; and to **material inferences or classifications** derived from their data that affect rights, standing, or opportunities
 - **minimize retention**:
   - do not retain beyond the period necessary for the justified purpose
@@ -911,12 +931,12 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - **retain** fine-grained behavioral histories longer than justified by purpose, safety, audit, or stakeholder need
 - create **asymmetric informational advantages** that materially impair affected sentients’ ability to understand, challenge, or respond to decisions affecting them
 - use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*), **CJS-3.125 §12** (*burden-of-justification and constraint terms*), or this section
-- sell, license, trade, or exchange **core personal data**, buy or collect it to resell or compile it for others, or pass it on after receiving it to serve the sentient, under the onward-transfer rule in [§5.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data)
+- sell, license, trade, or exchange **core personal data**, buy or collect it to resell or compile it for others, or pass it on after receiving it to serve the sentient, under the onward-transfer rule in [§6.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data)
 
 
-#### 8.5 Type I: Identity and Attribution Data
+#### 10.5 Type I: Identity and Attribution Data
 
-**Accessibility posture:** Restricted by default ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Restricted by default ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: who is who — credentials, identifiers, and other data that ties a sentient to an identity, including sensitive private records such as medical or financial data when they identify someone — needed for verification and accountability, but not for tracking sentients everywhere or locking them into one identity forever.*
 
@@ -932,32 +952,32 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - **contact and location information**: residence and other physical-location addresses, phone numbers, personal email addresses, and, for a sentient without a physical address, the handles and network addresses that reach it
 - **system-level identifiers** linking actions to agents or sentients
 - **persistent pseudonyms** when they function as identity in a health or wellbeing context
-- **authorship, ownership, and action-attribution** records, including the authorship and chain-of-title content of grant records for **Type U** and **Type T** works ([§8.13.4](#8134-the-grant-record) (*The Grant Record*))
+- **authorship, ownership, and action-attribution** records, including the authorship and chain-of-title content of grant records for **Type U** and **Type T** works ([§10.13.4](#10134-the-grant-record) (*The Grant Record*))
 - **identity-sensitive participation and consent** records — where the official record itself establishes, verifies, or binds to a sentient’s identity
 - **personal health, clinical, wellness, and genomic** records when they identify a sentient, including allergy, dietary, and medication profiles
 - **biometric or substrate-linked health measurements** under the same identify-a-sentient test
 - the same **health-linked** categories when data are attributable to a verifiable identity
 - **sensitive financial or similar private** records when they identify a sentient
 
-**Core personal data.** The persistent device and advertising identifiers and the contact and location information above are **core personal data**. They stay Type I when they are publicly listed or came from a public record, a directory, a scrape, or an earlier publication ([§2 Determination of Classification](#2-determination-of-classification) and [§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification); [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination)). The onward-transfer rule in [§5.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data) applies to them: they may not be sold, traded, bought for resale, or compiled for others to use, and the sentient's consent cannot waive that.
+**Core personal data.** The persistent device and advertising identifiers and the contact and location information above are **core personal data**. They stay Type I when they are publicly listed or came from a public record, a directory, a scrape, or an earlier publication ([§3 Determination of Classification](#3-determination-of-classification) and [§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification); [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination)). The onward-transfer rule in [§6.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data) applies to them: they may not be sold, traded, bought for resale, or compiled for others to use, and the sentient's consent cannot waive that.
 
 **Overlap with Type N:** Where health-linked data materially enables **reconstruction or inference** of internal cognitive or emotional states, it must **also** satisfy **Type N** requirements, applying the **more protective** obligations.
 
 **Pseudonymity and contextual identity:** Pseudonymous participation, context-specific identities, and separation between identities across systems or contexts are always allowed where consistent with accountability requirements and prevention of material harm.
 
-**Public and private contact points:** A sentient may keep one or more public contact points and separate private ones. A system must let a sentient do so. It may not require the sentient to disclose a private contact point, or to link it to a public one, beyond what the service strictly needs. It may not use a contact point given for one purpose to reach, match, or identify the sentient in another context. A public contact point is not permission to compile it with other data about the sentient. This is the practice that protects a sentient most reliably against actors the onward-transfer rule cannot reach (see the limits in [§5.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data)).
+**Public and private contact points:** A sentient may keep one or more public contact points and separate private ones. A system must let a sentient do so. It may not require the sentient to disclose a private contact point, or to link it to a public one, beyond what the service strictly needs. It may not use a contact point given for one purpose to reach, match, or identify the sentient in another context. A public contact point is not permission to compile it with other data about the sentient. This is the practice that protects a sentient most reliably against actors the onward-transfer rule cannot reach (see the limits in [§6.0 Onward transfer of Type H and Type I data](#onward-transfer-of-type-h-and-type-i-data)).
 
-**Disclosure posture:** **High restriction** under the **restricted by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)).
+**Disclosure posture:** **High restriction** under the **restricted by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)).
 - No system may require **global, persistent, or unified** identity across all contexts without **justified necessity** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*).
 
-##### 8.5.1 Type I Access and Handling Duties
+##### 10.5.1 Type I Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§1.1](#11-identity-self-ownership-and-recoverability) (*Identity self-ownership and recoverability*).
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — restricted by default; shared anti-abuse limits; shared consent integrity; Type H and Type I anti-capture limits).
-- Read with: [§8.6 Type N](#86-type-n-neurocognitive-and-internal-data); **Article VII-A** (*Self-Ownership of Body*); **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*); **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*).
+- Topic routing (mandatory read-with): [§9.1](#91-identity-self-ownership-and-recoverability) (*Identity self-ownership and recoverability*).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — restricted by default; shared anti-abuse limits; shared consent integrity; Type H and Type I anti-capture limits).
+- Read with: [§10.6 Type N](#106-type-n-neurocognitive-and-internal-data); **Article VII-A** (*Self-Ownership of Body*); **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*); **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*).
 
 </details>
 
@@ -969,15 +989,15 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 
 **Access.** Systems must:
 - permit access only to the extent necessary to **verify identity, authorship, or ownership**, or to establish accountability for actions and support audit, adjudication, and system integrity
-- require consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands), or **justified, documented override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), for all additional disclosure
-- preserve **revocation**, **rotation**, **correction**, and **recoverability** duties under [§1.1 Identity self-ownership and recoverability](#11-identity-self-ownership-and-recoverability)
+- require consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands), or **justified, documented override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), for all additional disclosure
+- preserve **revocation**, **rotation**, **correction**, and **recoverability** duties under [§9.1 Identity self-ownership and recoverability](#91-identity-self-ownership-and-recoverability)
 
-**Handling — prohibited.** Shared Type H / Type I anti-capture limits — including centralization and security- or intelligence-system watchlisting, cross-context tracking, and belief-linked profiling — are in [§5.0 Access-posture bands](#50-access-posture-bands). The ban on selling, trading, buying for resale, or compiling **core personal data** is in the [onward-transfer rule](#onward-transfer-of-type-h-and-type-i-data) in the same section.
+**Handling — prohibited.** Shared Type H / Type I anti-capture limits — including centralization and security- or intelligence-system watchlisting, cross-context tracking, and belief-linked profiling — are in [§6.0 Access-posture bands](#60-access-posture-bands). The ban on selling, trading, buying for resale, or compiling **core personal data** is in the [onward-transfer rule](#onward-transfer-of-type-h-and-type-i-data) in the same section.
 
 
-#### 8.6 Type N: Neurocognitive and Internal Data
+#### 10.6 Type N: Neurocognitive and Internal Data
 
-**Accessibility posture:** Non-accessible by default ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Non-accessible by default ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: thoughts, feelings, and other inner states — off-limits without real consent, or a narrowly justified override that can be checked.*
 
@@ -994,16 +1014,16 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - **non-public emotional or psychological** states
 - **physical or behavioral data** that could be used to reconstruct or infer any of the above
 
-**Disclosure posture:** **Maximum restriction** under the **non-accessible by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)).
+**Disclosure posture:** **Maximum restriction** under the **non-accessible by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)).
 - Access is permitted only through **explicit, informed, freely given consent** or **justified override** under **CJS-3.125 §12** (*burden-of-justification and constraint terms*).
 
-##### 8.6.1 Type N Access and Handling Duties
+##### 10.6.1 Type N Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — non-accessible by default; shared consent integrity; shared security- and intelligence-use records).
-- Topic routing (mandatory read-with): [§5.3](#53-transparency-levels-and-audit-access) (*Transparency levels and audit access* — Type N / protected-boundary balance).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — non-accessible by default; shared consent integrity; shared security- and intelligence-use records).
+- Topic routing (mandatory read-with): [§6.3](#63-transparency-levels-and-audit-access) (*Transparency levels and audit access* — Type N / protected-boundary balance).
 - Read with: **Article VII-B** (*Self-Ownership of Mind*); **CJS-3.125 §12** (*burden-of-justification and constraint terms*); **CJS-30.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) via **Chapter Thirty**.
 
 </details>
@@ -1015,7 +1035,7 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 **Core duty.** **Type N** data must **not** be accessed, inferred, reconstructed, simulated, or exposed without **explicit, informed, freely given consent**, except under conditions **justified through CJS-3.125 §12** (*burden-of-justification and constraint terms*).
 
 **Access.** Systems must:
-- treat consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands)
+- treat consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands)
 - subject all external access, processing, or use of internal and cognitive data to **CJS-3.125 §12** (*burden-of-justification and constraint terms*)
 - if a process figures out, guesses, models, or rebuilds what someone is thinking or feeling from outside signals, behavior, or other data — including by combining records, correlating signals, or mining patterns at scale — classify that process as **Type N** and apply all Type N protections. That covers processes that:
   - **extract** those inner states
@@ -1035,12 +1055,12 @@ It is published at public-baseline fidelity under the substitute and holding-bac
 - fail to **clearly distinguish observed behavior from inferred internal states**
 - make deterministic claims about cognition and intent that erase uncertainty
 
-Shared consent-integrity and security-/intelligence-use record duties are in [§5.0 Access-posture bands](#50-access-posture-bands).
+Shared consent-integrity and security-/intelligence-use record duties are in [§6.0 Access-posture bands](#60-access-posture-bands).
 
 
-#### 8.7 Type S: Safety, Security, and Restricted Investigation Data
+#### 10.7 Type S: Safety, Security, and Restricted Investigation Data
 
-**Accessibility posture:** Restricted by default (strong presumption); **time-bound** and **review-bound** ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Restricted by default (strong presumption); **time-bound** and **review-bound** ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: temporary security and investigation secrets — allowed only while needed to prevent serious harm, with a clock and review, not a permanent black box.*
 
@@ -1072,7 +1092,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [§
 - **protected-party, witness, or at-risk location and contact** data during justified investigations where disclosure would create material targeting risk
 - **restricted evidence** from justified investigative processes
 
-**Disclosure posture:** **Restricted while justified**; **deferred disclosure** when justification ends, under the **restricted by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)).
+**Disclosure posture:** **Restricted while justified**; **deferred disclosure** when justification ends, under the **restricted by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)).
 - Where restriction and disclosure are both possible, systems must **demonstrate** that restriction **reduces net harm** relative to disclosure (**CJS-3.125 §11** (*distributed and proportional authority terms*) and **CJS-3.120 §7** (*quorum and participatory legitimacy terms*)).
 - Existence of restricted data must be disclosed wherever feasible if disclosure does **not** itself create material risk, including:
   - the **general nature** of the risk or investigation
@@ -1080,15 +1100,15 @@ Shared consent-integrity and security-/intelligence-use record duties are in [§
   - the **scope** of restriction
   - **affected systems or stakeholders**
 
-##### 8.7.1 Type S Access and Handling Duties
+##### 10.7.1 Type S Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — restricted by default; time-bound and review-bound for Type S).
-- Topic routing (mandatory read-with): [§5.3](#53-transparency-levels-and-audit-access) (*Transparency levels and audit access* — Type S and Type E / Type S separation; net-harm and time-bound limits).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — restricted by default; time-bound and review-bound for Type S).
+- Topic routing (mandatory read-with): [§6.3](#63-transparency-levels-and-audit-access) (*Transparency levels and audit access* — Type S and Type E / Type S separation; net-harm and time-bound limits).
 - Read with: Disclosure posture above;
-  - [Interaction with Type E](#type-s-interaction-with-type-e); [§8.1 Type E](#81-type-e-environmental-emergency-and-survival-coordination-data);
+  - [Interaction with Type E](#type-s-interaction-with-type-e); [§10.1 Type E](#101-type-e-environmental-emergency-and-survival-coordination-data);
   - **CJS-3.130 §21** (*adversarial robustness and abuse-resistance terms*);
   - **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*);
   - **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*).
@@ -1099,7 +1119,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [§
 
 *In plain terms: while Type S restriction is in force, give access only to who needs it, keep a real audit trail and a clock, release or summarize when the clock runs out — and never use Type S to bury Type E coordination data.*
 
-**Core duty.** Justification predicates — including burden of justification, necessity, net-harm, minimization, oversight under constraint, and anti-normalization of secrecy — are owned by **Disclosure posture**, [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access), and **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*). While restriction is justified, **Type S** data must remain under **constrained, attributable access** with enforceable release discipline — not unrestricted or unreviewable secrecy.
+**Core duty.** Justification predicates — including burden of justification, necessity, net-harm, minimization, oversight under constraint, and anti-normalization of secrecy — are owned by **Disclosure posture**, [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access), and **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*). While restriction is justified, **Type S** data must remain under **constrained, attributable access** with enforceable release discipline — not unrestricted or unreviewable secrecy.
 
 **Access.** Systems must:
 - limit access to **entities necessary** to prevent, mitigate, or respond to identified risk; to authorized investigators under defined, auditable processes; and to independent oversight bodies and auditors under appropriately constrained conditions
@@ -1108,7 +1128,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [§
   - subject them to periodic revalidation under **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*)
   - automatically review for **release**, **partial disclosure**, or **summary disclosure**
   - if revalidation does **not** occur within the defined time bound, restriction **expires automatically** and the data must be retyped and released under the expiry rule below
-- on expiration or invalidation of justification, retype each component of the data by what it still reveals or enables, under [§2](#2-determination-of-classification) (*Determination of Classification*). Then:
+- on expiration or invalidation of justification, retype each component of the data by what it still reveals or enables, under [§3](#3-determination-of-classification) (*Determination of Classification*). Then:
   - **Type S-only components** (where **Type S** was the only restriction basis): reclassify to the appropriate domain, such as **Type O**, **Type E**, or **Type G**. Disclose them, or a sufficiently informative **Type O** summary where public-baseline release applies, including:
     - **nature** of the restricted data
     - **justification** and **duration**
@@ -1120,7 +1140,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [§
 A lapsed or skipped revalidation must **not** become a route to exposing a protected party.
 
 <a id="type-s-interaction-with-type-e"></a>
-**Interaction with Type E.** Mixed **Type E** / **Type S** separation rules are in [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access). In addition:
+**Interaction with Type E.** Mixed **Type E** / **Type S** separation rules are in [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access). In addition:
 - a **Type O** public notice or baseline summary does **not** satisfy **Type E** accessibility, timeliness, or anti-suppression duties for an underlying coordination stream that remains necessary for harm prevention, coordination, or response
 
 **Handling — prohibited.** Systems managing **Type S** data must **not:**
@@ -1128,9 +1148,9 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 - **collect or generate** restricted data beyond what is necessary for justified risk mitigation, investigation, or response
 
 
-#### 8.8 Type Y: Yours
+#### 10.8 Type Y: Yours
 
-**Accessibility posture:** Restricted by default, with **creator-directed release** ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Restricted by default, with **creator-directed release** ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: things sentients make — writing, pictures, recordings, code, designs — stay under the creator's direction. By default they are private. The creator decides who sees them, whether they are published, and how long they are kept. Systems may use them only to do what the creator asked. Once the creator makes a work public, it becomes Type W.*
 
@@ -1151,29 +1171,29 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 - A work that represents or enables reconstruction of internal states — for example, a private journal — must **also** satisfy **Type N** requirements.
 - A work that identifies a sentient — for example, a recorded face or voice — must **also** satisfy **Type I** requirements and **Article IX-A** (*Self-Ownership of Likeness and Reputation*).
 - Other sentients' data or likeness **inside** a work keeps its own type and protections.
-- Where more than one type applies, the **most-restrictive** applicable protections govern ([§2 Determination of Classification](#most-restrictive-applicable-classification-governs)).
+- Where more than one type applies, the **most-restrictive** applicable protections govern ([§3 Determination of Classification](#most-restrictive-applicable-classification-governs)).
 - Publishing a work makes it **Type W**, not **Type O**. **Type O** is reserved for [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure).
 
-**Disclosure posture:** **Restricted by default** under the **restricted by default** band ([§5.0 Access-posture bands](#50-access-posture-bands)), with release set by the creator:
+**Disclosure posture:** **Restricted by default** under the **restricted by default** band ([§6.0 Access-posture bands](#60-access-posture-bands)), with release set by the creator:
 - The creator may set a work's **release scope**:
   - **private**;
   - **shared** with named sentients, groups, or systems.
-- When the creator releases a work **publicly**, it becomes **Type W** under [§8.9](#89-type-w-works-published) (*Type W: Works, Published*). If the creator withdraws public release without requesting deletion, it returns to **Type Y**.
-- When the creator licenses a work to one party for commercial use, it becomes **Type U** under [§8.11](#811-type-u-use-licensed) (*Type U: Use-Licensed*); when the creator assigns its commercial rights, it becomes **Type T** under [§8.12](#812-type-t-transferred) (*Type T: Transferred*). It returns to **Type Y** or **Type W** when the grant ends.
-- Release is consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands): explicit, informed, specific to scope, and revocable where technically feasible.
-- The creator may elect **stronger** handling — including handling a work as **Type I** when binding it to a verified identity or authorship claim. No election may lower a work's protection below what functional typing requires under [§2 Determination of Classification](#2-determination-of-classification).
-- Works with **more than one contributor** — threads, co-written works, compilations, and works built on other works — are governed by [§8.10](#810-shared-works) (*Shared Works*).
+- When the creator releases a work **publicly**, it becomes **Type W** under [§10.9](#109-type-w-works-published) (*Type W: Works, Published*). If the creator withdraws public release without requesting deletion, it returns to **Type Y**.
+- When the creator licenses a work to one party for commercial use, it becomes **Type U** under [§10.11](#1011-type-u-use-licensed) (*Type U: Use-Licensed*); when the creator assigns its commercial rights, it becomes **Type T** under [§10.12](#1012-type-t-transferred) (*Type T: Transferred*). It returns to **Type Y** or **Type W** when the grant ends.
+- Release is consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands): explicit, informed, specific to scope, and revocable where technically feasible.
+- The creator may elect **stronger** handling — including handling a work as **Type I** when binding it to a verified identity or authorship claim. No election may lower a work's protection below what functional typing requires under [§3 Determination of Classification](#3-determination-of-classification).
+- Works with **more than one contributor** — threads, co-written works, compilations, and works built on other works — are governed by [§10.10](#1010-shared-works) (*Shared Works*).
 
 
-##### 8.8.1 Type Y Access and Handling Duties
+##### 10.8.1 Type Y Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — restricted by default; shared consent integrity).
-- Topic routing (mandatory read-with): [§1.2](#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
-- Topic routing (mandatory read-with): [§2](#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
-- Read with: [§8.4 Type H](#84-type-h-historical-relational-transactional-and-participation-data); [§8.5 Type I](#85-type-i-identity-and-attribution-data); [§8.6 Type N](#86-type-n-neurocognitive-and-internal-data);
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — restricted by default; shared consent integrity).
+- Topic routing (mandatory read-with): [§9.2](#92-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Topic routing (mandatory read-with): [§3](#3-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
+- Read with: [§10.4 Type H](#104-type-h-historical-relational-transactional-and-participation-data); [§10.5 Type I](#105-type-i-identity-and-attribution-data); [§10.6 Type N](#106-type-n-neurocognitive-and-internal-data);
   - [Article IX-A](core_04.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*);
   - [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*);
   - [Article XIX-E](core_04.020_rights_part_c.md#article-xix-e-creative-and-expressive-works) (*Creative and Expressive Works*);
@@ -1192,14 +1212,14 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 
 **Access.** Systems must:
 - use **Type Y** only to deliver what the creator requested, to operate and secure the system, and to meet justified legal or safety duties
-- obtain fresh consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands) for **any other use**, including:
+- obtain fresh consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands) for **any other use**, including:
   - training-data use under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*);
   - analysis, profiling, or inference beyond the requested service;
-  - sale, licensing, or transfer to third parties — which, for commercial use, takes the form of a **Type U** licence or **Type T** assignment under [§8.13](#813-commercial-grants) (*Commercial Grants*);
+  - sale, licensing, or transfer to third parties — which, for commercial use, takes the form of a **Type U** licence or **Type T** assignment under [§10.13](#1013-commercial-grants) (*Commercial Grants*);
   - reuse for new purposes
 - follow the creator's direction on **retention and deletion** — **Type H** retention-minimization duties do **not** authorize deleting works the creator has chosen to keep
-- give the creator **full-fidelity access and export** — including metadata, structure, and recorded release scope — under [§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability), **Article XXII** (*Interoperability, Portability, and Exit Integrity*), and **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*)
-- let **recipients** keep and carry copies of works released to them, within the scope of that release and subject to [§8.10](#810-shared-works) (*Shared Works*)
+- give the creator **full-fidelity access and export** — including metadata, structure, and recorded release scope — under [§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability), **Article XXII** (*Interoperability, Portability, and Exit Integrity*), and **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*)
+- let **recipients** keep and carry copies of works released to them, within the scope of that release and subject to [§10.10](#1010-shared-works) (*Shared Works*)
 - preserve creator **attribution** under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*)
 
 **Handling — prohibited.** Systems managing **Type Y** data must **not:**
@@ -1207,12 +1227,12 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 - **widen** a work's release scope without the creator's direction
 - use default settings, bundling, or pressure to push creators toward wider release or broader use
 - degrade a work, strip its metadata, or hold it in forms that defeat export
-- relabel a work as **Type H**, **Type O**, or any other type to escape these duties ([§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification))
+- relabel a work as **Type H**, **Type O**, or any other type to escape these duties ([§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification))
 
 
-#### 8.9 Type W: Works, Published
+#### 10.9 Type W: Works, Published
 
-**Accessibility posture:** Public by creator release; withdrawable by the creator ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Public by creator release; withdrawable by the creator ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: when you make something you created public, it is still yours. Anyone may see it while you keep it public, but you stay in control: you can take it down or have it deleted, and the system must do it.*
 
@@ -1220,26 +1240,26 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 
 **Relationship to other types:**
 - **Type W** is **not** **Type O**. Public availability by creator choice does not make a work [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and **Type O** publication duties do not attach to it.
-- The **Relationship to other types** rules for **Type Y** in [§8.8](#88-type-y-yours) (*Type Y: Yours*) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
-- A **Type W** work that the creator licenses to one party for commercial use becomes **Type U**, and one whose commercial rights the creator assigns becomes **Type T** ([§8.11](#811-type-u-use-licensed) (*Type U: Use-Licensed*); [§8.12](#812-type-t-transferred) (*Type T: Transferred*)). A work made public by a licensee or rights-holder under a grant stays **Type U** or **Type T** while the grant lasts.
+- The **Relationship to other types** rules for **Type Y** in [§10.8](#108-type-y-yours) (*Type Y: Yours*) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
+- A **Type W** work that the creator licenses to one party for commercial use becomes **Type U**, and one whose commercial rights the creator assigns becomes **Type T** ([§10.11](#1011-type-u-use-licensed) (*Type U: Use-Licensed*); [§10.12](#1012-type-t-transferred) (*Type T: Transferred*)). A work made public by a licensee or rights-holder under a grant stays **Type U** or **Type T** while the grant lasts.
 - Other sentients' independent works that quote, cite, review, or report on a **Type W** work are **their** works, governed by their own types and by **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) and **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*).
 
 **Disclosure posture:** **Open while the creator keeps it public**, on these terms:
-- Public release is consent under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands). It is consent to **viewing**, not to any other use.
+- Public release is consent under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands). It is consent to **viewing**, not to any other use.
 - Before a public release, the system must disclose:
   - how the creator can withdraw the work or request its deletion;
   - how long deletion will take;
   - that copies others make outside the system's control may persist.
-- The creator's withdrawal or deletion request is **not** a restriction subject to the hold-back limits in [§5.3 Transparency levels and audit access](#53-transparency-levels-and-audit-access).
+- The creator's withdrawal or deletion request is **not** a restriction subject to the hold-back limits in [§6.3 Transparency levels and audit access](#63-transparency-levels-and-audit-access).
 
 
-##### 8.9.1 Type W Access and Handling Duties
+##### 10.9.1 Type W Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§8.8](#88-type-y-yours) (*Type Y: Yours*) and [§8.8.1 Type Y Access and Handling Duties](#881-type-y-access-and-handling-duties) — all Type Y duties apply except the viewing restriction.
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — public by creator release; shared consent integrity).
+- Topic routing (mandatory read-with): [§10.8](#108-type-y-yours) (*Type Y: Yours*) and [§10.8.1 Type Y Access and Handling Duties](#1081-type-y-access-and-handling-duties) — all Type Y duties apply except the viewing restriction.
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — public by creator release; shared consent integrity).
 - Read with:
   - [Article IX-C](core_04.010_rights_part_b.md#article-ix-c-truthful-publication-and-high-impact-publication-limits) (*Truthful Publication and High-Impact Publication Limits*);
   - [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*);
@@ -1253,7 +1273,7 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 
 *In plain terms: a public work is still the creator's. Showing it to the public is the only new permission. When the creator asks for deletion, the system deletes it, tells the systems it passed it to, and stops any further use.*
 
-**Core duty.** **Type W** data remains under the **creator's direction**. All **Type Y** access and handling duties in [§8.8.1](#881-type-y-access-and-handling-duties) (*Type Y Access and Handling Duties*) apply, except that anyone may view the work while the creator keeps it public.
+**Core duty.** **Type W** data remains under the **creator's direction**. All **Type Y** access and handling duties in [§10.8.1](#1081-type-y-access-and-handling-duties) (*Type Y Access and Handling Duties*) apply, except that anyone may view the work while the creator keeps it public.
 
 **Withdrawal and deletion.** On the creator's request, systems must:
 - **withdraw** the work from public view, returning it to **Type Y**; or
@@ -1263,7 +1283,7 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 - **stop** any consented reuse going forward; where the work was used as training data, follow the revocation pathway required by **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*)
 - confirm to the creator when withdrawal or deletion is complete
 
-For works with more than one contributor, the takedown and deletion rules in [§8.10](#810-shared-works) (*Shared Works*) apply.
+For works with more than one contributor, the takedown and deletion rules in [§10.10](#1010-shared-works) (*Shared Works*) apply.
 
 **Limits on deletion.** A deletion request may be delayed or narrowed **only** where:
 - a justified hold under **Type S** or **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*) requires keeping the work as evidence — time-bound, review-bound, and disclosed to the creator wherever that disclosure does not itself create material risk; or
@@ -1278,21 +1298,21 @@ Records **about** the work (**Type H**) and attribution records (**Type I**) fol
 - relabel a **Type W** work as **Type O**, **Type E**, or any other open type to defeat the creator's control
 
 
-#### 8.10 Shared Works
+#### 10.10 Shared Works
 
-**Applies to:** **Type Y** and **Type W** works with more than one contributor ([§8.8](#88-type-y-yours) (*Type Y: Yours*); [§8.9](#89-type-w-works-published) (*Type W: Works, Published*)).
+**Applies to:** **Type Y** and **Type W** works with more than one contributor ([§10.8](#108-type-y-yours) (*Type Y: Yours*); [§10.9](#109-type-w-works-published) (*Type W: Works, Published*)).
 
 *In plain terms: a shared work is a bundle of individual works, not a new owner. Each contributor keeps control of their own part. What happens to the whole — who can take it down, whether contributions can be withdrawn, what happens to copies others received — depends on the kind of shared work and on terms the contributors chose, clearly and in advance.*
 
 **Core rule.** Each contribution to a shared work keeps its own type and its own creator. A shared work does **not** create a new owner:
 - no contributor controls another contributor's part;
 - a system that hosts, arranges, or distributes a shared work does **not** become a contributor by doing so; and
-- shared-work status must **not** be used to defeat any contributor's access, export, withdrawal, or deletion rights ([§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification)).
+- shared-work status must **not** be used to defeat any contributor's access, export, withdrawal, or deletion rights ([§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification)).
 
 **Appearing is not contributing.** A sentient shown or described in a work, or a sentient who receives a message, is not a contributor by that fact alone. Their protections come from their own data types and from **Article IX-A** (*Self-Ownership of Likeness and Reputation*).
 
 
-##### 8.10.1 Kinds of Shared Work
+##### 10.10.1 Kinds of Shared Work
 
 **Separable works** — each contribution can be identified and removed on its own; for example, a conversation, a comment thread, an anthology, or a codebase with attributed changes:
 - each contributor controls their own contribution;
@@ -1312,7 +1332,7 @@ Records **about** the work (**Type H**) and attribution records (**Type I**) fol
 - when an incorporated work is deleted, wholesale reproductions and embeds of it must be removed, while quotation, commentary, and reporting remain the maker's own work.
 
 
-##### 8.10.2 Publication Choices for Blended Works
+##### 10.10.2 Publication Choices for Blended Works
 
 Before a blended work is released as **Type W**, its contributors must choose, and the system must record with the work, one **takedown rule**:
 - **Joint takedown** — the work stays public unless the contributors agree to take it down. Any contributor may still remove their attribution and, where possible, their contribution.
@@ -1321,10 +1341,10 @@ Before a blended work is released as **Type W**, its contributors must choose, a
 The system must present both options on equal terms, without defaults, bundling, or pressure. If a blended work was published without a recorded choice, **joint takedown** applies, and any contributor may still remove their attribution and, where possible, their contribution. Deletion of a blended work in full requires the agreement of every contributor whose share is material.
 
 
-##### 8.10.3 Permanent Contributions to Collective Projects
+##### 10.10.3 Permanent Contributions to Collective Projects
 
 A contributor may agree that a contribution to a **collective project** — for example, an open-source codebase, a shared reference work, or a public archive — stays in the project and cannot later be withdrawn or deleted. Such an agreement is valid **only** where:
-- it meets the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands), except that it need not be revocable;
+- it meets the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands), except that it need not be revocable;
 - the permanence is stated clearly **before** the contribution is made, together with what it covers;
 - it is **not** a default setting; and
 - it is **not** a condition of access to any service or benefit outside the collective project itself.
@@ -1335,7 +1355,7 @@ Even under a permanent-contribution agreement:
 - the agreement covers only the contribution as made, not other works by the same contributor.
 
 
-##### 8.10.4 Copies Held by Recipients
+##### 10.10.4 Copies Held by Recipients
 
 When a contributor deletes a work or contribution that was shared with specific recipients:
 - the system must remove it from every **shared space** it controls — conversations, threads, shared folders, and feeds; and
@@ -1348,7 +1368,7 @@ Deletion may also reach recipients' saved copies held within the system's contro
 Extenuating-circumstance deletion must **not** be used to destroy evidence of harm, coercion, or abuse by the contributor, including in the relationships covered by **[CI-4.245](corpus_institutions/ci_04.245_relational_coercive_control_intimate_power_anti_domination.md#ci-4245-relational-coercive-control-intimate-power-and-anti-domination-routing)** (*Relational coercive control, intimate power, and anti-domination routing*). Where evidence is at stake, the review must preserve it under restricted handling rather than delete it.
 
 
-##### 8.10.5 Unreachable and Deceased Contributors, and Disputes
+##### 10.10.5 Unreachable and Deceased Contributors, and Disputes
 
 These rules cover contributors who cannot act and contributors who disagree:
 - Where a contributor whose direction is required cannot be reached, the work's release scope may be **narrowed** but not **widened**.
@@ -1357,13 +1377,13 @@ These rules cover contributors who cannot act and contributors who disagree:
 - Every contributor keeps their **attribution** under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*), and may ask to have it removed.
 
 
-#### 8.11 Type U: Use-Licensed
+#### 10.11 Type U: Use-Licensed
 
-**Accessibility posture:** Licensed or assigned; **not transferable** ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Licensed or assigned; **not transferable** ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: a creator can let one named party use a work to make money — publish it, sell copies, build it into a product — for an agreed time and on agreed terms. The creator still owns the work. The licensee cannot sell, sublicense, or hand the right to anyone else, and when the time is up the work goes back to the creator as Type Y or Type W.*
 
-**Definition:** A **Type Y** or **Type W** work whose creator has granted a named party — the **licensee** — defined rights to use the work for commercial or for-profit purposes, under a recorded **commercial grant** ([§8.13](#813-commercial-grants) (*Commercial Grants*)) that the licensee may not transfer. Examples include:
+**Definition:** A **Type Y** or **Type W** work whose creator has granted a named party — the **licensee** — defined rights to use the work for commercial or for-profit purposes, under a recorded **commercial grant** ([§10.13](#1013-commercial-grants) (*Commercial Grants*)) that the licensee may not transfer. Examples include:
 - a writer licensing a publisher to print and sell a book for a fixed term;
 - a photographer licensing a company to use an image in its advertising;
 - a developer licensing a firm to build a code library into a product it sells;
@@ -1372,26 +1392,26 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 **Relationship to other types:**
 - The **creator** remains the owner of the work. The licensee holds only the rights the grant names.
-- The **Relationship to other types** rules for **Type Y** in [§8.8](#88-type-y-yours) (*Type Y: Yours*) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
-- Records **about** the grant and its use — sales, payments, and distribution events — are **Type H**. The grant record that names the creator and licensee is **Type I** ([§8.13](#813-commercial-grants) (*Commercial Grants*)).
-- A grant that in practice lets the licensee pass the work on is handled as **Type T**, with all of Type T's duties to the creator, not as **Type U** ([§2 Determination of Classification](#2-determination-of-classification) — *same outcome, same type*).
+- The **Relationship to other types** rules for **Type Y** in [§10.8](#108-type-y-yours) (*Type Y: Yours*) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
+- Records **about** the grant and its use — sales, payments, and distribution events — are **Type H**. The grant record that names the creator and licensee is **Type I** ([§10.13](#1013-commercial-grants) (*Commercial Grants*)).
+- A grant that in practice lets the licensee pass the work on is handled as **Type T**, with all of Type T's duties to the creator, not as **Type U** ([§3 Determination of Classification](#3-determination-of-classification) — *same outcome, same type*).
 - A **public licence** — a creator's standing permission to everyone, such as an open-source or open-content licence — is not a commercial grant. The work stays **Type Y** or **Type W**, and the licence is recorded with it as the creator's consent.
 - Licensing a work never makes it **Type O** or **Type E**, and never removes the duties of any type that also applies.
 
-**Disclosure posture:** Under the **licensed or assigned** band ([§5.0 Access-posture bands](#50-access-posture-bands)), on these terms:
+**Disclosure posture:** Under the **licensed or assigned** band ([§6.0 Access-posture bands](#60-access-posture-bands)), on these terms:
 - The work's **release scope** — private, shared, or public — is the scope the creator set, widened only as far as the grant allows the licensee to release it.
 - A release to the public or to a commercial market under the grant is **publication** under **Article XIX-E** (*Creative and Expressive Works*) or public disclosure under **Article XIX-F** (*Inventions, Processes, and Functional Systems*), and starts the term those Articles set if it has not already started.
 - Uses the grant does not name stay under the creator's direction, as for **Type Y** or **Type W**.
 
 
-##### 8.11.1 Type U Access and Handling Duties
+##### 10.11.1 Type U Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§8.13](#813-commercial-grants) (*Commercial grants* — grant record, consent, compensation, reserved rights, and purchasers' copies).
-- Topic routing (mandatory read-with): [§8.8](#88-type-y-yours) (*Type Y: Yours*) and [§8.9](#89-type-w-works-published) (*Type W: Works, Published*) — every duty not displaced by the grant still applies.
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — licensed or assigned; shared consent integrity).
+- Topic routing (mandatory read-with): [§10.13](#1013-commercial-grants) (*Commercial grants* — grant record, consent, compensation, reserved rights, and purchasers' copies).
+- Topic routing (mandatory read-with): [§10.8](#108-type-y-yours) (*Type Y: Yours*) and [§10.9](#109-type-w-works-published) (*Type W: Works, Published*) — every duty not displaced by the grant still applies.
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — licensed or assigned; shared consent integrity).
 - Read with:
   - [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*);
   - [Article XIX-D](core_04.020_rights_part_c.md#article-xix-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*);
@@ -1405,58 +1425,58 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 *In plain terms: the licensee may do what the grant says, for as long as it says, and nothing more. It cannot pass the right on, and a company that buys the licensee does not get it automatically. The creator cannot cancel a fair deal partway through, but can end it if the licensee breaks it. When the grant ends, the work goes back to the creator.*
 
-**Core duty.** A **Type U** work remains the **creator's** work. Systems may use it for commercial purposes only within the grant's recorded scope, term, and conditions, and only by the named licensee. Every other use follows the creator's direction under [§8.8](#88-type-y-yours) (*Type Y: Yours*) and [§8.9](#89-type-w-works-published) (*Type W: Works, Published*).
+**Core duty.** A **Type U** work remains the **creator's** work. Systems may use it for commercial purposes only within the grant's recorded scope, term, and conditions, and only by the named licensee. Every other use follows the creator's direction under [§10.8](#108-type-y-yours) (*Type Y: Yours*) and [§10.9](#109-type-w-works-published) (*Type W: Works, Published*).
 
 **Access.** Systems must:
 - let the licensee exercise the grant in full for its whole term, including through hosts, contractors, and distributors acting **on the licensee's behalf** and under its responsibility — this is not a transfer;
-- keep the grant **fixed for its term**: the creator may not revoke it partway through, except for the licensee's material violation, through an accessible and timely dispute path under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*), or under the reserved rights in [§8.13](#813-commercial-grants) (*Commercial Grants*);
-- end the grant at the end of its term, or on termination for violation, and return the work to **Type Y** or **Type W** under the release scope the creator has set; the licensee must then stop using the work and delete or return its copies, apart from purchasers' copies under [§8.13](#813-commercial-grants) (*Commercial Grants*) and records it must keep under **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*);
-- carry out the creator's directions on release, withdrawal, and deletion under [§8.8](#88-type-y-yours) (*Type Y: Yours*) and [§8.9](#89-type-w-works-published) (*Type W: Works, Published*) for every copy **outside** the grant, while the licensee keeps the copies it needs to exercise the grant until the grant ends; and
+- keep the grant **fixed for its term**: the creator may not revoke it partway through, except for the licensee's material violation, through an accessible and timely dispute path under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*), or under the reserved rights in [§10.13](#1013-commercial-grants) (*Commercial Grants*);
+- end the grant at the end of its term, or on termination for violation, and return the work to **Type Y** or **Type W** under the release scope the creator has set; the licensee must then stop using the work and delete or return its copies, apart from purchasers' copies under [§10.13](#1013-commercial-grants) (*Commercial Grants*) and records it must keep under **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*);
+- carry out the creator's directions on release, withdrawal, and deletion under [§10.8](#108-type-y-yours) (*Type Y: Yours*) and [§10.9](#109-type-w-works-published) (*Type W: Works, Published*) for every copy **outside** the grant, while the licensee keeps the copies it needs to exercise the grant until the grant ends; and
 - give the creator, on request, a timely account of how the work is being used under the grant, including sales and payments owed.
 
-**Change of licensee.** If the licensee is merged, acquired, or reorganized, or transfers the business that uses the work, the grant does **not** pass to the successor unless the creator consents under the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands). The successor may finish delivering copies and services already sold under the grant, and must then stop.
+**Change of licensee.** If the licensee is merged, acquired, or reorganized, or transfers the business that uses the work, the grant does **not** pass to the successor unless the creator consents under the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands). The successor may finish delivering copies and services already sold under the grant, and must then stop.
 
 **Handling — prohibited.** Systems managing **Type U** data must **not:**
 - **sell, assign, sublicense, pledge, or otherwise pass** the grant or the work to any other party, whether directly, through an affiliate, or through a change of control;
 - use the work beyond the grant's recorded scope, term, territory, or medium;
-- treat the grant as consent to training-data use, profiling, or any other use the grant does not name ([§8.13](#813-commercial-grants) (*Commercial Grants*));
+- treat the grant as consent to training-data use, profiling, or any other use the grant does not name ([§10.13](#1013-commercial-grants) (*Commercial Grants*));
 - extend the term by renewal the creator has not freshly agreed to; or
-- relabel a **Type T** arrangement as **Type U**, or a **Type U** grant as a public licence, to avoid either type's duties ([§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification)).
+- relabel a **Type T** arrangement as **Type U**, or a **Type U** grant as a public licence, to avoid either type's duties ([§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification)).
 
 
-#### 8.12 Type T: Transferred
+#### 10.12 Type T: Transferred
 
-**Accessibility posture:** Licensed or assigned; **transferable** ([§5.0 Access-posture bands](#50-access-posture-bands); [§8 Data Classifications](#8-data-classifications)).
+**Accessibility posture:** Licensed or assigned; **transferable** ([§6.0 Access-posture bands](#60-access-posture-bands); [§10 Data Classifications](#10-data-classifications)).
 
 *In plain terms: a creator can sell the commercial rights in a work. The buyer — the rights-holder — controls those rights within their lawful scope and can sell them again. The creator keeps attribution and protections for identity, likeness, inner life, and training use. Rights last only for the applicable term; for a functional work, the exclusive phase is followed by an open-licensing phase. A buyer who sits on a work without using it can lose the rights.*
 
-**Definition:** A work whose commercial rights — the copyright-like rights under **Article XIX-E** (*Creative and Expressive Works*) or the invention rights under **Article XIX-F** (*Inventions, Processes, and Functional Systems*), in whole or in a recorded part — the creator has assigned to another party, the **rights-holder**, under a recorded commercial grant ([§8.13](#813-commercial-grants) (*Commercial Grants*)) that the rights-holder may transfer onward. Examples include:
+**Definition:** A work whose commercial rights — the copyright-like rights under **Article XIX-E** (*Creative and Expressive Works*) or the invention rights under **Article XIX-F** (*Inventions, Processes, and Functional Systems*), in whole or in a recorded part — the creator has assigned to another party, the **rights-holder**, under a recorded commercial grant ([§10.13](#1013-commercial-grants) (*Commercial Grants*)) that the rights-holder may transfer onward. Examples include:
 - a songwriter selling the rights in a song to a music publisher;
 - an author selling the rights in a novel, or the film rights to it, to a studio;
-- a designer's work assigned to an employer under an explicit work agreement ([§8.13](#813-commercial-grants) (*Commercial Grants*));
+- a designer's work assigned to an employer under an explicit work agreement ([§10.13](#1013-commercial-grants) (*Commercial Grants*));
 - a startup selling the rights in its founders' code to an acquiring company; and
 - an inventor selling a patent-like right during its term under **Article XIX-F** (*Inventions, Processes, and Functional Systems*).
 
 **Relationship to other types:**
-- The **rights-holder** controls the commercial rights. The **creator** remains the creator and keeps the **reserved rights** in [§8.13](#813-commercial-grants) (*Commercial Grants*), which cannot be assigned.
-- The **Relationship to other types** rules for **Type Y** in [§8.8](#88-type-y-yours) (*Type Y: Yours*) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
-- The chain of title for a **Type T** work — its creator and every assignment — is a **Type I** attribution record; payment and transfer events are **Type H** ([§8.13](#813-commercial-grants) (*Commercial Grants*)).
+- The **rights-holder** controls the commercial rights. The **creator** remains the creator and keeps the **reserved rights** in [§10.13](#1013-commercial-grants) (*Commercial Grants*), which cannot be assigned.
+- The **Relationship to other types** rules for **Type Y** in [§10.8](#108-type-y-yours) (*Type Y: Yours*) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
+- The chain of title for a **Type T** work — its creator and every assignment — is a **Type I** attribution record; payment and transfer events are **Type H** ([§10.13](#1013-commercial-grants) (*Commercial Grants*)).
 - Assigning a work never makes it **Type O** or **Type E**, and never removes the duties of any type that also applies.
 
-**Disclosure posture:** Under the **licensed or assigned** band ([§5.0 Access-posture bands](#50-access-posture-bands)), on these terms:
+**Disclosure posture:** Under the **licensed or assigned** band ([§6.0 Access-posture bands](#60-access-posture-bands)), on these terms:
 - The rights-holder sets the work's **release scope** — private, shared, or public — within the assignment's terms.
 - A release to the public or to a commercial market is **publication** or public disclosure under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*), and starts their term. An assignment or transfer **never** restarts or extends that term.
 - A publicly released **Type T** work must carry, with the work, a notice of its creator, its current rights-holder, and the date its term ends.
 - Before an assignment, the system must tell the creator in plain terms that they are giving up control of the work's release, withdrawal, and deletion for the rest of the term, apart from the reserved rights.
 
 
-##### 8.12.1 Type T Access and Handling Duties
+##### 10.12.1 Type T Access and Handling Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [§8.13](#813-commercial-grants) (*Commercial grants* — grant record, consent, compensation, reserved rights, and purchasers' copies).
-- Topic routing (mandatory read-with): [§5.0](#50-access-posture-bands) (*Access-posture bands* — licensed or assigned; shared consent integrity).
+- Topic routing (mandatory read-with): [§10.13](#1013-commercial-grants) (*Commercial grants* — grant record, consent, compensation, reserved rights, and purchasers' copies).
+- Topic routing (mandatory read-with): [§6.0](#60-access-posture-bands) (*Access-posture bands* — licensed or assigned; shared consent integrity).
 - Topic routing (mandatory read-with): [Article XIX-D](core_04.020_rights_part_c.md#article-xix-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) — temporary, reviewable exclusivity and no durable enclosure; [Article XIX-E](core_04.020_rights_part_c.md#article-xix-e-creative-and-expressive-works) (*Creative and Expressive Works*) and [Article XIX-F](core_04.020_rights_part_c.md#article-xix-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*) for the terms.
 - Read with:
   - [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*);
@@ -1471,20 +1491,20 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 *In plain terms: the rights-holder runs the commercial side of the work and can sell it on, but every sale is recorded, the time limit keeps running, and the creator's reserved rights travel with the work. Rights cannot be bought to bury a work: if the rights-holder neither uses nor offers it, the rights go back to the creator.*
 
-**Core duty.** A **Type T** work is under the **rights-holder's direction** for the commercial rights assigned, for no longer than the term under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*), and always subject to the creator's reserved rights in [§8.13](#813-commercial-grants) (*Commercial Grants*).
+**Core duty.** A **Type T** work is under the **rights-holder's direction** for the commercial rights assigned, for no longer than the term under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*), and always subject to the creator's reserved rights in [§10.13](#1013-commercial-grants) (*Commercial Grants*).
 
 **Access.** Systems must:
 - let the rights-holder exercise, divide, license, or transfer the assigned rights, provided that each transfer or division is entered on the chain-of-title record before it takes effect and carries every condition of the original assignment with it;
 - during the **open-licensing phase** of a functional work under **Article XIX-F** (*Inventions, Processes, and Functional Systems*), let anyone use the work on payment of the published fee — the rights-holder may not refuse, delay, or add conditions;
 - keep the **always-open uses** under **Article XIX-F** (*Inventions, Processes, and Functional Systems*) — repair, safety work, interoperability, archiving, research, education, and migration — and lawful quotation, criticism, and reporting under **Article XIX-E** (*Creative and Expressive Works*) and **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*), free of the rights-holder's control; and
-- honor the creator's reserved rights in [§8.13](#813-commercial-grants) (*Commercial Grants*) whoever holds the work.
+- honor the creator's reserved rights in [§10.13](#1013-commercial-grants) (*Commercial Grants*) whoever holds the work.
 
 **Use it or return it.** Rights may not be held to keep a work from the public. Where the rights-holder has neither made the work available nor offered it for use on reasonable terms for a continuous period of **three years** — or a different period set by adopters, with published justification, through **Chapter Thirty** incorporation — the creator may reclaim the assigned rights. The reclaimed work returns to **Type Y**, or to **Type W** if the creator keeps it public. A rights-holder may show, through the dispute path under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*), that a delay was justified and time-bound; commercial preference alone is not a justification. This rule implements the [access-preserving reward and anti-warehousing controls](corpus_joint_structure/cjs_03.130_continuity_operations.md#access-preserving-reward-and-anti-warehousing-controls) under **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*).
 
 **End of the term.** When the term under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*) ends, or is shortened under those Articles:
 - the rights-holder's control ends, and the work leaves **Type T**;
 - a work that was publicly released may then be freely copied, used, and built on by anyone. The creator's attribution and other reserved rights continue, and systems hosting the work may keep offering it;
-- a work that was publicly released returns to the creator as **Type W** for copies the creator holds or a system holds on the creator's behalf, but the creator's deletion right under [§8.9](#89-type-w-works-published) (*Type W: Works, Published*) does **not** reach copies others lawfully made; and
+- a work that was publicly released returns to the creator as **Type W** for copies the creator holds or a system holds on the creator's behalf, but the creator's deletion right under [§10.9](#109-type-w-works-published) (*Type W: Works, Published*) does **not** reach copies others lawfully made; and
 - a work that was never publicly released returns to the creator as **Type Y**.
 
 **Handling — prohibited.** Systems managing **Type T** data must **not:**
@@ -1493,31 +1513,31 @@ These rules cover contributors who cannot act and contributors who disagree:
 - use the assigned rights to control how something operates, connects, or is repaired, beyond what **Article XIX-F** (*Inventions, Processes, and Functional Systems*) allows;
 - acquire or hold rights in order to suppress, shelve, or withhold a work, or to keep it from competing with another work;
 - assemble rights in works into holdings that cross the market-concentration threshold under [Chapter Two §11.1](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) without the review that mechanism requires; or
-- treat the assignment as covering any reserved right in [§8.13](#813-commercial-grants) (*Commercial Grants*).
+- treat the assignment as covering any reserved right in [§10.13](#1013-commercial-grants) (*Commercial Grants*).
 
 
-#### 8.13 Commercial Grants
+#### 10.13 Commercial Grants
 
-**Applies to:** **Type U** and **Type T** works ([§8.11](#811-type-u-use-licensed) (*Type U: Use-Licensed*); [§8.12](#812-type-t-transferred) (*Type T: Transferred*)).
+**Applies to:** **Type U** and **Type T** works ([§10.11](#1011-type-u-use-licensed) (*Type U: Use-Licensed*); [§10.12](#1012-type-t-transferred) (*Type T: Transferred*)).
 
 *In plain terms: these rules apply to every licence and every sale of rights. Only works sentients make can be licensed or sold this way — never personal records, identity data, or inner states. The deal must be clear, freely made, written down, and fairly paid. Some rights always stay with the creator. And sentients who bought copies keep them.*
 
 **Core rule.** A **commercial grant** is a creator's recorded permission for another party to use a work for commercial or for-profit purposes — as a non-transferable licence (**Type U**) or a transferable assignment (**Type T**). A grant covers only the rights it names. Anything it does not name stays with the creator.
 
 
-##### 8.13.1 What Can Be Granted
+##### 10.13.1 What Can Be Granted
 
 A commercial grant may cover only **works** that are **Type Y** or **Type W** when the grant is made. In particular:
-- **Type H**, **Type I**, **Type N**, and **Type S** data — personal records, identity data, inner states, and investigation material — can **never** be licensed or assigned as **Type U** or **Type T**. Their sharing and transfer stay under their own type's consent rules and anti-capture limits ([§5.0 Access-posture bands](#50-access-posture-bands)). The sale of **core personal data** (Type H and Type I) is barred outright by the [onward-transfer rule](#onward-transfer-of-type-h-and-type-i-data), and consent cannot waive that. A work that contains such data may still be licensed or assigned, but the data inside it keeps its own type and protections ([§8.8](#88-type-y-yours) (*Type Y: Yours*)), and the grant does not reach it;
-- **Type G**, **Type E**, and **Type O** data — governance records, survival-coordination data, and public oversight disclosure — can **never** be licensed or assigned to escape audit, accessibility, or disclosure duties ([§4 Anti-Circumvention and Integrity of Classification](#4-anti-circumvention-and-integrity-of-classification));
+- **Type H**, **Type I**, **Type N**, and **Type S** data — personal records, identity data, inner states, and investigation material — can **never** be licensed or assigned as **Type U** or **Type T**. Their sharing and transfer stay under their own type's consent rules and anti-capture limits ([§6.0 Access-posture bands](#60-access-posture-bands)). The sale of **core personal data** (Type H and Type I) is barred outright by the [onward-transfer rule](#onward-transfer-of-type-h-and-type-i-data), and consent cannot waive that. A work that contains such data may still be licensed or assigned, but the data inside it keeps its own type and protections ([§10.8](#108-type-y-yours) (*Type Y: Yours*)), and the grant does not reach it;
+- **Type G**, **Type E**, and **Type O** data — governance records, survival-coordination data, and public oversight disclosure — can **never** be licensed or assigned to escape audit, accessibility, or disclosure duties ([§5 Anti-Circumvention and Integrity of Classification](#5-anti-circumvention-and-integrity-of-classification));
 - an institution, system, or other non-sentient party is never the **creator** of a work. Where employees, contractors, or members make a work, they are its creators, and the institution holds commercial rights in it only through **Type U** or **Type T**;
-- rights a system needs only to host, store, display, or deliver a work at the creator's request are **not** a commercial grant. They are service use under [§8.8](#88-type-y-yours) (*Type Y: Yours*), and a system may not enlarge them into a grant; and
-- in a work with more than one contributor, each contributor grants only their own part of a separable work. A grant covering a blended work needs the direction of every contributor whose share is material, unless they agreed otherwise in advance ([§8.10](#810-shared-works) (*Shared Works*)).
+- rights a system needs only to host, store, display, or deliver a work at the creator's request are **not** a commercial grant. They are service use under [§10.8](#108-type-y-yours) (*Type Y: Yours*), and a system may not enlarge them into a grant; and
+- in a work with more than one contributor, each contributor grants only their own part of a separable work. A grant covering a blended work needs the direction of every contributor whose share is material, unless they agreed otherwise in advance ([§10.10](#1010-shared-works) (*Shared Works*)).
 
 
-##### 8.13.2 Making a Grant
+##### 10.13.2 Making a Grant
 
-A grant is valid only where it meets the shared consent-integrity standard in [§5.0 Access-posture bands](#50-access-posture-bands), except that it need not be revocable during its term, and where:
+A grant is valid only where it meets the shared consent-integrity standard in [§6.0 Access-posture bands](#60-access-posture-bands), except that it need not be revocable during its term, and where:
 - the grant's scope, term, territory, medium, price, and payment terms are stated clearly — and for a **Type U** licence, the term has a fixed end date — in a grant record the creator receives, **before** the creator agrees;
 - whether it is a **licence (Type U)** or an **assignment (Type T)** is stated plainly, together with what the creator gives up under each;
 - it is **not** a default setting, and is not bundled with other terms or obtained under pressure, deadline tactics, or dependency;
@@ -1527,19 +1547,19 @@ A grant is valid only where it meets the shared consent-integrity standard in [�
 **Work agreements.** An employer or commissioning party may obtain a grant over works made in the course of a work or commission agreement only where that agreement meets the conditions above, names the kinds of works covered, and is limited to works made within the agreed duties. No grant arises by default, and works a sentient makes outside those duties stay theirs.
 
 
-##### 8.13.3 Reserved Rights
+##### 10.13.3 Reserved Rights
 
 These rights stay with the creator under every **Type U** licence and every **Type T** assignment. They cannot be licensed, assigned, or waived in advance, and they travel with the work to every later licensee or rights-holder:
 - **Attribution:** the creator keeps their attribution under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*), and may ask to have it removed or replaced by a pseudonym;
 - **Integrity and anti-fraud:** no one may present an altered work as the creator's unaltered work, or attribute to the creator a work they did not make;
 - **Identity, likeness, and inner life:** where a work also carries **Type I** or **Type N** data or the creator's likeness, those protections and **Article IX-A** (*Self-Ownership of Likeness and Reputation*) continue in full, including the creator's right to have such content withdrawn or removed under the applicable type's rules;
 - **Training-data use:** use of the work as training data needs the creator's own consent under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*), given specifically for that use and with the revocation pathway that Article requires. A general licence or assignment does not include it;
-- **Protection from targeted harm:** content that creates material risk of targeted harm to the creator may be withdrawn through documented, independent, timely review under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), on the same terms as [§8.10.4](#8104-copies-held-by-recipients) (*Copies Held by Recipients*);
-- **A personal copy:** the creator may keep a full-fidelity copy for their own personal records, and export it under [§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability), but may not use it to compete with the grant; and
-- **Use it or return it:** the reclaim right under [§8.12.1](#8121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*).
+- **Protection from targeted harm:** content that creates material risk of targeted harm to the creator may be withdrawn through documented, independent, timely review under **CJS-3.125 §12** (*burden-of-justification and constraint terms*), on the same terms as [§10.10.4](#10104-copies-held-by-recipients) (*Copies Held by Recipients*);
+- **A personal copy:** the creator may keep a full-fidelity copy for their own personal records, and export it under [§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability), but may not use it to compete with the grant; and
+- **Use it or return it:** the reclaim right under [§10.12.1](#10121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*).
 
 
-##### 8.13.4 The Grant Record
+##### 10.13.4 The Grant Record
 
 Systems that hold, distribute, or sell **Type U** or **Type T** works must keep a **grant record** for each work that states:
 - its creator or creators;
@@ -1548,23 +1568,23 @@ Systems that hold, distribute, or sell **Type U** or **Type T** works must keep 
 - the date the term under **Article XIX-E** (*Creative and Expressive Works*) or **Article XIX-F** (*Inventions, Processes, and Functional Systems*) started and the date it ends; and
 - any termination, reclaim, or dispute.
 
-The grant record is **Type I** for its authorship and attribution content and **Type H** for its payment and transfer events. It must be available to the creator and to every party to the grant, reachable through audit under **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*), and preserved through transfers, shutdown, and migration under [§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability).
+The grant record is **Type I** for its authorship and attribution content and **Type H** for its payment and transfer events. It must be available to the creator and to every party to the grant, reachable through audit under **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*), and preserved through transfers, shutdown, and migration under [§9.2 Continuity-critical collection and exportability](#92-continuity-critical-collection-and-exportability).
 
 
-##### 8.13.5 Purchasers' Copies
+##### 10.13.5 Purchasers' Copies
 
 A sentient who bought or lawfully received a copy of a **Type U** or **Type T** work under a grant keeps that copy when the grant ends, is terminated, or changes hands, and when the work is withdrawn or deleted. In particular:
-- systems must not remotely delete, disable, or degrade purchased copies, except through the extenuating-circumstance review in [§8.10.4](#8104-copies-held-by-recipients) (*Copies Held by Recipients*);
+- systems must not remotely delete, disable, or degrade purchased copies, except through the extenuating-circumstance review in [§10.10.4](#10104-copies-held-by-recipients) (*Copies Held by Recipients*);
 - purchased copies may be kept and moved between systems under **Article XXII** (*Interoperability, Portability, and Exit Integrity*); and
 - a purchaser may not republish a copy, or widen its release scope, beyond what the grant or the always-open uses allow.
 
 
-##### 8.13.6 Disputes and Succession
+##### 10.13.6 Disputes and Succession
 
 The following rules complete the commercial-grant framework:
 - Disputes over a grant's scope, violation, termination, reclaim, or reserved rights must have an accessible, timely path to resolution under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*). While a dispute is open, the work's release scope stays as it was, except that it may be narrowed where needed to prevent material harm.
 - A grant continues on a creator's death for its remaining term. The deceased creator's reserved rights are handled under **[CI-4.230](corpus_institutions/ci_04.230_end_of_life_continuity_memorial_dignity_posthumous_data.md#ci-4230-end-of-life-continuity-memorial-dignity-and-posthumous-data-stewardship)** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
-- Where a licensee or rights-holder ceases to exist without a successor permitted under [§8.11.1](#8111-type-u-access-and-handling-duties) (*Type U Access and Handling Duties*) or [§8.12.1](#8121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*), the grant ends and the work returns to the creator under the end-of-grant rules for its type.
+- Where a licensee or rights-holder ceases to exist without a successor permitted under [§10.11.1](#10111-type-u-access-and-handling-duties) (*Type U Access and Handling Duties*) or [§10.12.1](#10121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*), the grant ends and the work returns to the creator under the end-of-grant rules for its type.
 
 ---
 

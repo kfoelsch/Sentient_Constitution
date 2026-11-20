@@ -23,6 +23,8 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitions** — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
 - the corpus authority stack;
 - the constitutional contract layer;
@@ -35,6 +37,18 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
 |---|---|
 | **Def.I1** | Corpus and Authority Stack |
 
+### 2. Why These Integrative Terms Are Defined
+
+*In plain terms: some rules decide how all the others fit together, such as which one wins in a conflict and why none can be bypassed. This file defines those.*
+
+A constitution with many parts can be played off against itself: one rule cited to defeat another, a lower text read as narrowing a higher one, a duty split so that no single part covers it. The integrative terms say how the parts are read as one text, so that the strongest applicable protection holds and no route around the Constitution stays open.
+
+**Grounded in:**
+
+- Chapter Two principles:
+  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+  - [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
+
 ---
 
 ### Integrative: Independent Terms
@@ -46,8 +60,8 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Subcore 3-A §2 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction) (S3-A §2); [Subcore 3-A §3 Definition Integrity Requirement](subcore_03.010_definition_structure.md#3-definition-integrity-requirement) (S3-A §3); [Subcore 3-B §3 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (S3-B §3).
-- Downstream: [Subcore 3-C §§2 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (S3-C §2); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
+- Upstream: [Subcore 3-A §3 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) (S3-A §3); [Subcore 3-A §4 Definition Integrity Requirement](subcore_03.010_definition_structure.md#4-definition-integrity-requirement) (S3-A §4); [Subcore 3-B §4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (S3-B §4).
+- Downstream: [Subcore 3-C §§3 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (S3-C §3); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3) and
   - [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**;
@@ -81,14 +95,14 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
     - outcomes; and
     - the measures that track them under full functional system conditions.
 
-    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Subcore 3-B §2 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) and [§3 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
+    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
 <a id="non-compliance-c"></a>
 - **What must hold**
   - **Primary failure:** treating a system, actor, or definition as compliant when:
     - any required O, M, A, or C part fails;
     - evasion narrows the definition; or
     - declared structure or intent is preferred over observable behavior and effects.
-  - **Secondary failure:** defaulting to compliant status where [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) burden of proof or evidence sufficiency is not met.
+  - **Secondary failure:** defaulting to compliant status where [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) burden of proof or evidence sufficiency is not met.
 
 ---
 

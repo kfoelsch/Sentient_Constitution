@@ -60,7 +60,7 @@ Shared logging owner: [CS-26.305 §10](../../corpus_systems/cs_26.305_critical_s
 
 **Fail:** Refuses the whole job as if it were a standing-measurement veto; **or** strips the reconstructable set from reviewers as well; **or** closes challenge.
 
-**Homes:** [Article VII-B](../../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-26.305 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../subcore_03.030_burden_traceability_verification.md#5-security-constrained-observability-and-verification-rule).
+**Homes:** [Article VII-B](../../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-26.305 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../subcore_03.030_burden_traceability_verification.md#6-security-constrained-observability-and-verification-rule).
 
 ---
 

@@ -158,7 +158,7 @@ The five system impact classes are the frame for everything below. From most to 
 - **Class L, local, limited-impact, and non-critical:** its effects reach beyond a private unit but are local, replaceable, and containable.
 - **Class P, personal, private-use, isolated, and experimental:** its effects stay inside a private unit, with no meaningful outside reliance.
 
-[Subcore 8-A §6](subcore_08.010_system_classification.md#6-system-impact-classifications) (*System Impact Classifications*) holds the full definitions. Classes A, B, C, and L must publish and Class P may, and [§3.2 Which Classes Are Covered](#32-which-classes-are-covered) says how an Institution takes its class, from the Systems it runs or from its own impact.
+[Subcore 8-A §7](subcore_08.010_system_classification.md#7-system-impact-classifications) (*System Impact Classifications*) holds the full definitions. Classes A, B, C, and L must publish and Class P may, and [§3.2 Which Classes Are Covered](#32-which-classes-are-covered) says how an Institution takes its class, from the Systems it runs or from its own impact.
 
 <a id="31-who-must-publish"></a>
 #### 3.1 Who Must Publish

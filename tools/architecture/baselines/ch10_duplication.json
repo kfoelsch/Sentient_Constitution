@@ -199,10 +199,6 @@
       "snippet": "What it passes on still has to clear the verified-input gate in §6.3 Verified-Input Gate"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::b2f8a2fe4b82",
-      "snippet": "It is published at public-baseline fidelity, with lawful substitutes, under Subcore 4-A §8.3 Type O"
-    },
-    {
       "key": "core_13.000_institutional_alignment_certification_records_recertification.md::b76c0ac3c540",
       "snippet": "the challenge path has to be open before anyone is asked to rely on a certification."
     },
@@ -265,6 +261,10 @@
     {
       "key": "core_13.000_institutional_alignment_certification_records_recertification.md::ec2f078fdbc4",
       "snippet": "each certification pass opens a new Institutional Certification Record linked to the one it follows"
+    },
+    {
+      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f0bf969e26f7",
+      "snippet": "It is published at public-baseline fidelity, with lawful substitutes, under Subcore 4-A §10.3 Type O"
     },
     {
       "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f1e3fa7c3426",

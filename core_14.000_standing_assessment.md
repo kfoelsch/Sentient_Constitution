@@ -983,7 +983,7 @@ None of this requires a Standing Record to exist. **Section 4.2** *Silence is th
   - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
 - Tetrad leg(s): **accountability** (a named actor answers for every entry); **oversight** (no party verifies its own claim). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with:
-  - [Subcore 3-C §6](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C §6) (*evidence standard the verify seat applies to recorder and party statements*);
+  - [Subcore 3-C §7](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C §7) (*evidence standard the verify seat applies to recorder and party statements*);
   - [Good Faith](subcore_03.070_band_accountability.md#good-faith) (*candour presumption, not accuracy*);
   - [Contestability](subcore_03.070_band_accountability.md#contestability) and
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*a challenge raised on the Standing Record is logged and routed before any filing*);
@@ -1010,7 +1010,7 @@ What a prior recorder says after the fact is weighed on these terms:
 - **Support, refutation, agreement:** A prior recorder's support does not by itself verify a contribution; their refutation does not by itself disprove one; their agreement with the subject or with a challenger settles nothing on its own.
 - **Availability:** A prior recorder's availability or unavailability neither freezes nor completes the Standing Record: where a prior recorder cannot be reached, the Standing Record says so and proceeds on the remaining verified materials.
 - **Who decides the weight:** How much a recorder statement weighs is a Subcores 3-A to 3-C question for the verify seat, not a custody question.
-- **Good faith and accuracy:** The verifying authority reads a recorder statement as offered in [Good Faith](subcore_03.070_band_accountability.md#good-faith) absent contrary indication, but good faith goes to candour, not to accuracy; accuracy is established by corroboration under [Subcore 3-C §6 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard).
+- **Good faith and accuracy:** The verifying authority reads a recorder statement as offered in [Good Faith](subcore_03.070_band_accountability.md#good-faith) absent contrary indication, but good faith goes to candour, not to accuracy; accuracy is established by corroboration under [Subcore 3-C §7 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard).
 - **Corroborated statements:** A statement that agrees with contemporaneous logs, prior versions, audits, or independent validation carries the weight of those materials.
 - **Statements that stand alone:** A statement that stands alone is an attestation and does not by itself carry the burden. A statement from a claimant, subject, challenger, or an office in their control line is self-attestation for that purpose.
 - **Statements explaining an omission:** Where the statement explains *why* the Standing Record was left as it was — as when a prior recorder says an item was omitted because it had not been verified — it is evidence of the Standing Record's state at that time and of what was unverified then; it does not decide whether the omitted fact has since been verified, which the verify seat answers on the present materials.

@@ -45,9 +45,25 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Continuity aim, is the constitutional owner of the **Continuity** constitutional-aim head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Continuity band](subcore_03.075_band_continuity.md).
 
 *In plain terms: keep sentients and the living systems they depend on going for the long run — stable, sustainable, able to bounce back, and ecologically sound — not just looking fine for now.*
+
+### 2. Why Continuity Is a Constitutional Aim
+
+*In plain terms: a good life for sentients now is not enough if the systems and the living world it rests on are used up. This file says what it means for them to last.*
+
+Flourishing depends on things that can be worn down quietly: ecosystems, shared infrastructure, institutions, and the knowledge to run them. Damage to these often shows up late and cannot always be undone. Making continuity an aim of its own keeps every system answerable for what it leaves behind, not only for what it delivers today.
+
+**Grounded in:**
+
+- Preamble: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and [Continuity](core_00.000_preamble.md#continuity);
+- Chapter Two principles: [§8 Continuity Aim: Introduction](core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction);
+- Chapter Four Articles: [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
+
+### Continuity: Head Definition
 
 - **What it is**
   - **In scope:** Judging systems against this aim using the Continuity building blocks and measurement families listed in [Constitutional Aim Decomposition](#constitutional-aim-decomposition). The aim is long-horizon stability, sustainability, resilience, and ecological wellbeing for sentients and the life-supporting systems they depend on.

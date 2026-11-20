@@ -39,9 +39,26 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Flourishing aim, is the constitutional owner of the **Flourishing** constitutional-aim head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the Chapter Three band files.
 
 *In plain terms: protect and improve how well sentients actually live — truth, safety, trustworthiness, and a real ability to choose and act, kept together — not by chasing one of those as far as it will go while emptying out the others.*
+
+### 2. Why Flourishing Is a Constitutional Aim
+
+*In plain terms: systems exist to serve sentients, so the test of a system is whether sentients can actually live well with it. This file says what that means.*
+
+A system can meet every procedural rule and still leave the sentients it serves worse off. Naming flourishing as an aim keeps attention on real outcomes in sentients' lives, not on whether the paperwork is complete. It is also what the other definitions are measured against when they pull in different directions.
+
+**Grounded in:**
+
+- Preamble: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and [Flourishing](core_00.000_preamble.md#flourishing);
+- Chapter Two principles:
+  - [§2 Flourishing Aim: Introduction](core_02.000_values_principles.md#2-flourishing-aim-introduction);
+  - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim).
+
+### Flourishing: Head Definition
 
 <a id="flourishing-constitutional"></a>
 <a id="flourishing"></a>
