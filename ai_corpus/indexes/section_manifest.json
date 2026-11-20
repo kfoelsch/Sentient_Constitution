@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T16:46:49+00:00",
+  "generated_at": "2026-11-20T16:55:59+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -194,9 +194,9 @@
       ]
     },
     "core_03.000_definitions_home.md": {
-      "total_lines": 890,
+      "total_lines": 863,
       "sections": [
-        {"header":"CHAPTER THREE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":890,"anchor":"#chapter-three-foundational-definitions"},
+        {"header":"CHAPTER THREE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":863,"anchor":"#chapter-three-foundational-definitions"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":23,"line_end":60,"anchor":null},
         {"header":"2. Why Definitions Have One Home","level":3,"line_start":61,"line_end":88,"anchor":"#2-why-definitions-have-one-home"},
         {"header":"3. Independent Definitions","level":3,"line_start":89,"line_end":156,"anchor":"#3-independent-definitions"},
@@ -214,16 +214,15 @@
         {"header":"Chapter Three Alphabetical Directory (Non-Operative)","level":3,"line_start":198,"line_end":566,"anchor":"#chapter-three-alphabetical-directory"},
         {"header":"Definitions A-Z","level":4,"line_start":218,"line_end":542,"anchor":"#definitions-a-z"},
         {"header":"Clusters A-Z","level":4,"line_start":543,"line_end":566,"anchor":"#clusters-a-z"},
-        {"header":"Chapter Three Compass and Definition Map","level":3,"line_start":567,"line_end":606,"anchor":"#chapter-three-compass-and-definition-map"},
-        {"header":"Measurement Crosswalk (Reader Guidance)","level":3,"line_start":607,"line_end":634,"anchor":null},
-        {"header":"6. Two Complete Definitions","level":3,"line_start":635,"line_end":890,"anchor":"#6-two-complete-definitions"},
-        {"header":"6.1 An Independent Definition: No-Bypass","level":4,"line_start":654,"line_end":691,"anchor":"#61-an-independent-definition-no-bypass"},
-        {"header":"No-Bypass","level":5,"line_start":662,"line_end":691,"anchor":null},
-        {"header":"6.2 A Dependent Cluster: Binding Stakeholder Choice","level":4,"line_start":692,"line_end":890,"anchor":"#62-a-dependent-cluster-binding-stakeholder-choice"},
-        {"header":"Def.P2 Binding Stakeholder Choice","level":5,"line_start":700,"line_end":890,"anchor":null},
-        {"header":"Binding Stakeholder Choice — Decision-Resolution Requirements","level":6,"line_start":764,"line_end":815,"anchor":null},
-        {"header":"Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)","level":6,"line_start":816,"line_end":849,"anchor":null},
-        {"header":"Stakeholder Rights-Collision Record (Binding Stakeholder Choice)","level":6,"line_start":850,"line_end":890,"anchor":null}
+        {"header":"Chapter Three Compass and Definition Map","level":3,"line_start":567,"line_end":607,"anchor":"#chapter-three-compass-and-definition-map"},
+        {"header":"6. Two Complete Definitions","level":3,"line_start":608,"line_end":863,"anchor":"#6-two-complete-definitions"},
+        {"header":"6.1 An Independent Definition: No-Bypass","level":4,"line_start":627,"line_end":664,"anchor":"#61-an-independent-definition-no-bypass"},
+        {"header":"No-Bypass","level":5,"line_start":635,"line_end":664,"anchor":null},
+        {"header":"6.2 A Dependent Cluster: Binding Stakeholder Choice","level":4,"line_start":665,"line_end":863,"anchor":"#62-a-dependent-cluster-binding-stakeholder-choice"},
+        {"header":"Def.P2 Binding Stakeholder Choice","level":5,"line_start":673,"line_end":863,"anchor":null},
+        {"header":"Binding Stakeholder Choice — Decision-Resolution Requirements","level":6,"line_start":737,"line_end":788,"anchor":null},
+        {"header":"Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)","level":6,"line_start":789,"line_end":822,"anchor":null},
+        {"header":"Stakeholder Rights-Collision Record (Binding Stakeholder Choice)","level":6,"line_start":823,"line_end":863,"anchor":null}
       ]
     },
     "core_03.005_apex_accountability_leg.md": {

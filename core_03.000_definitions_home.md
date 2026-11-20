@@ -45,7 +45,7 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 - the canonical home and non-duplication rule (**section 2**);
 - the rules for independent definitions (**section 3**) and for dependent clusters (**section 4**);
 - how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
-- the alphabetical directory, the compass and definition map, and the measurement crosswalk, which say where each definition is found; and
+- the alphabetical directory and the compass and definition map, which say where each definition is found; and
 - two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 6**, which closes the chapter).
 
 Chapter Three is the overview; the full text sits in its subcore files:
@@ -603,33 +603,6 @@ Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.00
 | **Integrative cross-leg** | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) | **Def.I1** |
 
 ---
-
-### Measurement Crosswalk (Reader Guidance)
-
-*In plain terms: Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Three homes that answer it.*
-
-<a id="chapter-three-measurement-crosswalk"></a>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Preamble measurement crosswalk</span></strong></summary>
-
-> [Preamble §2](core_00.000_preamble.md#2-measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Three organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Three homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
->
-> **Materiality** ([Materiality](core_03.050_band_oversight.md#materiality)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](core_00.000_preamble.md#material-stake); it is not a separate category in the table below.
-
-| Ch00 category | Plain question | Chapter Three band homes | Split-placement notes |
-|---|---|---|---|
-| [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) | Are sentients sustained in life, safety, and access to essentials? | [Flourishing aim](core_03.015_apex_flourishing_aim.md), [Participation](core_03.055_band_participation.md), [Continuity](core_03.040_band_continuity.md), [Accountability](core_03.035_band_accountability.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_03.015_apex_flourishing_aim.md#constitutional-aim-decomposition); concrete measures on leaf primaries: [Wellbeing](core_03.040_band_continuity.md#wellbeing) (primary outcome), [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), survival-floor terms, [Harm](core_03.035_band_accountability.md#harm) |
-| [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity aim](core_03.010_apex_continuity_aim.md), [Continuity](core_03.040_band_continuity.md) | **Continuity** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_03.010_apex_continuity_aim.md#constitutional-aim-decomposition); concrete measures on leaf primaries in **Continuity** band: [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint), [Dependency](core_03.040_band_continuity.md#dependency), [Reversibility](core_03.040_band_continuity.md#reversibility), [Sustainability](core_03.040_band_continuity.md#sustainability), [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) |
-| [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_03.055_band_participation.md), [Continuity](core_03.040_band_continuity.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_03.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) cluster in **Continuity** band because privacy is distributed across rights articles |
-| [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_03.050_band_oversight.md), [Continuity](core_03.040_band_continuity.md) | Truth and epistemic integrity primaries in **Oversight** band ([Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) link-only leg-head rollup); [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance) in **Continuity** band (**Def.C4**) |
-| [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) | Do reward structures, market power, and answerability keep duties real? | [Accountability](core_03.035_band_accountability.md), [Integrative](subcore_03.045_band_integrative.md) | Market structure and contestability primaries in **Accountability** band ([Accountability](core_03.005_apex_accountability_leg.md#accountability) link-only leg-head rollup); [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent) primary layer in **Integrative** band because incentives span Tetrad legs |
-| [Timeliness measurement family](core_03.030_apex_timeliness_leg.md#measuring-timeliness) | Are disputes, corrections, and repairs resolved while remedy still matters? | [Accountability](core_03.035_band_accountability.md) | [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional) link-only leg-head rollup; concrete measures on [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) and [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) — Timeliness is a Tetrad leg whose implementing leaves currently live in the Accountability band |
-| [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | Are constitutional outcomes delivered efficiently without pointless waste? | [Continuity](core_03.040_band_continuity.md) | Family-home in [`core_03.060_band_performance.md`](core_03.060_band_performance.md); all leaf bodies currently in **Continuity** because they are Continuity-band cluster members (stewardship / shared-system capacity / proportionality–burden–efficiency) — instrumental to both aims; not a Tetrad leg. Parallel to Timeliness: family home ≠ leaf home |
-
-</details>
-
-<br>
 
 <a id="6-two-complete-definitions"></a>
 ### 6. Two Complete Definitions

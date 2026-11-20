@@ -125,7 +125,7 @@ Measurements must remain traceable to those aims and to the rights protections e
 
 The overview below lists the measurement **categories**, mapping each to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category poses one plain-language question and names its **subcategories**, and links to its **Chapter Three measurement-family home**, where the family table, constitutional use, and definition routing live. Each subcategory links to its canonical Chapter Three definition.
 
-**Materiality** is not a separate measurement category. It sets how strongly every category applies, based on [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. **Constitutional performance** is cross-cutting and instrumental to both aims. Use the [Chapter Three measurement crosswalk](core_03.000_definitions_home.md#chapter-three-measurement-crosswalk) to trace each category to its canonical home.
+**Materiality** is not a separate measurement category. It sets how strongly every category applies, based on [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. **Constitutional performance** is cross-cutting and instrumental to both aims. Each category in the table below links to its Chapter Three measurement-family home, which traces it to its canonical definitions.
 
 | Category | Plain question | Subcategories |
 |---|---|---|
