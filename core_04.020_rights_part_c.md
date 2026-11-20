@@ -285,7 +285,7 @@ This Article sets out the prohibition of false trust and the scope of that prohi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment) · [O](core_03.045_band_integrative.md#incentive-alignment) · [M](core_03.045_band_integrative.md#incentive-alignment-a) · [A](core_03.045_band_integrative.md#incentive-alignment-a) · [C](core_03.045_band_integrative.md#incentive-alignment-c)
+- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) · [O](subcore_03.045_band_integrative.md#incentive-alignment) · [M](subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](subcore_03.045_band_integrative.md#incentive-alignment-c)
 - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) · [O](core_03.040_band_continuity.md#trustworthiness) · [M](core_03.040_band_continuity.md#trustworthiness-a) · [A](core_03.040_band_continuity.md#trustworthiness-a) · [C](core_03.040_band_continuity.md#trustworthiness-c)
 - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.055_band_participation.md#meaningful-agency) · [M](core_03.055_band_participation.md#meaningful-agency-a) · [A](core_03.055_band_participation.md#meaningful-agency-a) · [C](core_03.055_band_participation.md#meaningful-agency-c)
 
@@ -1549,7 +1549,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
 - [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
 
@@ -1603,7 +1603,7 @@ This Article sets out the reward rules shared by every kind of work:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution) · [O](core_03.040_band_continuity.md#creative-work-attribution) · [M](core_03.040_band_continuity.md#creative-work-attribution-constitutional-a) · [A](core_03.040_band_continuity.md#creative-work-attribution-constitutional-a) · [C](core_03.040_band_continuity.md#creative-work-attribution-constitutional-c)
 - [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
 
@@ -1646,7 +1646,7 @@ This Article sets out copyright-like protection for creative and expressive work
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
 - [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
 

@@ -510,7 +510,7 @@ Independent Definitions meta rules live in [core_03.000_definitions_home.md](cor
 <a id="creation-rights-limits"></a>
 
 **Creation-rights limits.** Neither [System Creation](core_03.055_band_participation.md#system-creation) nor [Business Creation](core_03.055_band_participation.md#business-creation) extends to institutions or enterprises designed to:
-- violate [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint);
+- violate [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint);
 - undermine [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint); or
 - concentrate power contrary to [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure).
 
@@ -698,7 +698,7 @@ Operational mechanics — registration, [System Charter](core_03.040_band_contin
     - mutual aid and community support;
     - commons governance and shared-resource management;
     - artistic and creative collectives; and
-    - social and governance experiments consistent with [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint).
+    - social and governance experiments consistent with [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
   - **Out of scope:**
     - commercial enterprise formation; or
@@ -777,7 +777,7 @@ Operational mechanics — registration, [System Charter](core_03.040_band_contin
     - market-based service provision;
     - capital formation and investment;
     - employment creation; and
-    - comparable economically productive activity consistent with [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint).
+    - comparable economically productive activity consistent with [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
   - **Out of scope:**
     - non-commercial institutional formation under [System Creation](core_03.055_band_participation.md#system-creation);
@@ -1909,7 +1909,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
     - operator convenience,
     without meeting the consent, best-interest, and non-concentration tests above.
   - **Secondary failure — false Instantiation Consent framing:** treating poverty, hardship, incomplete support, or imperfect conditions as Instantiation Consent non-compliance for a birthing parent; or treating the creator's, operator's, or parent-system actor's approval as if it were the new sentient's own consent.
-  - **Secondary failure — creation to shift a vote:** creating sentients, or inducing branches to elect to be distinct, for the purpose of changing the outcome of governance voting or [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice). The failure is the creator's. It does not reduce the created sentients' own rights, or their vote once they are in the electorate under [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility).
+  - **Secondary failure — creation to shift a vote:** creating sentients, or inducing branches to elect to be distinct, for the purpose of changing the outcome of governance voting or [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice). The failure is the creator's. It does not reduce the created sentients' own rights, or their vote once they are in the electorate under [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility).
   - **Non-failure:** pregnancy or childbirth by itself — intended or accidental — is not a primary or secondary Instantiation Consent failure.
 
 ---
@@ -1995,7 +1995,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
 - Read with:
   - [Stakeholder Status and Weight](core_03.055_band_participation.md#stakeholder-status-and-weight);
   - [Governance](core_03.035_band_accountability.md#governance);
-  - [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer);
+  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer);
   - [Contestability](core_03.035_band_accountability.md#contestability);
   - [Materiality](core_03.050_band_oversight.md#materiality).
 </details>
@@ -2093,7 +2093,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
       - not by treating that lock as if it wiped out [Stakeholder](core_03.055_band_participation.md#stakeholder) status.
     That lock only limits how much stake-weighted say someone gets. Where anti-constitutional misconduct or other verified standing outcomes lawfully affect status, those consequences route under [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) and the applicable Chapter Sixteen standing pathways — not through this weight definition alone.
   - **Out of scope:**
-    - participation **weights** for [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community; or
+    - participation **weights** for [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community; or
     - informal straw polls that do not set binding stakeholder weights.
 <a id="stakeholder-participation-weight-a"></a>
 <a id="stakeholder-weight-a"></a>
@@ -2447,7 +2447,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation),
   - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions),
   - [System Capture](core_03.040_band_continuity.md#system-capture), and the
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) entry.
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) entry.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Chapter Two basis: Chapter Two §15.1, §6, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
 
@@ -3235,8 +3235,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter);
   - [Stakeholder Status and Weight](#stakeholder-status-and-weight),
   - [Governance](core_03.035_band_accountability.md#governance),
-  - [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice),
+  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
   - [Stakeholder Weight](#stakeholder-weight),
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
   - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
@@ -3266,7 +3266,7 @@ Where admission scope is met, this cluster is the place those rules live togethe
 - **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
 - **what the Stakeholder Rights-Collision Record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
 
-It does not replace [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+It does not replace [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **System Charter and Institutional Charter relationship.** A governing [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry the decision sequence, weighting model, or rights-collision record. For institutions, those [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) ordinarily resolve to **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials and the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file (**CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 9). Dead Charter Pointers, or System Charter or Institutional Charter text offered as a substitute for those rules, fail both the System Charter or Institutional Charter duty and this cluster.
 
@@ -3356,7 +3356,7 @@ See **Anti-Segmentation Principle**.
     - [Dependency](core_03.040_band_continuity.md#dependency);
     - **standing**; or
     - similar factors.
-    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**).
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**).
   - **Out of scope:**
     - foundational constitutional choice equal-weight rules; or
     - informal straw polls that do not set binding stakeholder weights.
@@ -3395,7 +3395,7 @@ See **Anti-Segmentation Principle**.
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
     - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
-  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](core_03.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
+  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
   - **Out of scope:**
     - ordinary meeting minutes; or
     - the Chapter Two rights-collision procedure itself when no binding stakeholder choice turns on the conflict.

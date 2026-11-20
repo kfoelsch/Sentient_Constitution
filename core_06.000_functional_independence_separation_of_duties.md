@@ -72,13 +72,13 @@ Chapter Six is the constitutional owner of the **functional-independence and sep
 
 <br>
 
-*In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
+*In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
 
 **Purpose:** Chapter Six keeps the jobs inside a materially binding act apart. A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the independent check, control the official record, or decide the challenge to it. The chapter does this with four seats: ask or act, check, keep the official record, and hear the challenge.
 
 **Role:** Chapter Six is the constitutional owner of the functional-independence and separation-of-duties requirement for materially binding acts. Where it sits:
 
-- It applies both to the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight).
+- It applies both to the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight).
 - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) defines the terms it uses, including Materially Binding Act.
 - Every later constitutional process must explain how it assigns and uses all four seats. A later chapter may add stronger separation, recusal, custody, panel, or review requirements, and may not narrow this chapter's (**section 10**).
 
@@ -597,7 +597,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000);
   - [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000).
-- Read with: [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 
 </details>
 

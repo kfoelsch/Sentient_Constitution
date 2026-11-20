@@ -26,7 +26,7 @@
   - [§7](#7-process-ownership-and-outputs);
   - [§8](#8-governance-change-and-incorporation);
   - [§9](#9-adopted-implementation-corpus).
-- Read with: [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*how the owner register is applied*); [README.md](README.md) (*reading order*).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*how the owner register is applied*); [README.md](README.md) (*reading order*).
 
 </details>
 
@@ -41,7 +41,7 @@ Chapter One is the constitutional owner of **the constitutional owner register**
 
 **Purpose:** Chapter One gives the overview and the ownership guide. It names the processes that test authorized governance, says which chapter owns which substantive domain, and describes the three tiers of constitutional text.
 
-**Role:** The chapter is orientation and ownership. It adds no duty of its own beyond the owner register, which other chapters and the [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) apply.
+**Role:** The chapter is orientation and ownership. It adds no duty of its own beyond the owner register, which other chapters and the [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) apply.
 
 **Chapter scope:** The chapter covers:
 
@@ -88,7 +88,7 @@ When Chapter Four, [Chapter Eight](core_08.000_system_alignment_certification_ev
 
 *In plain terms: Chapters Two through Four own the values, the dictionary (with the subcore rules on how definitions are built, protected, and proven), and the Rights Floor; later chapters must respect those homes, not quietly move them.*
 
-Sections **4 through 9** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+Sections **4 through 9** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
 
 Chapters **Two through Four** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including [Chapter Five's System Charter or Institutional Charter requirement, Chapter Six's separation-of-duties requirement, and Chapter Seven's Independent Bodies](#5-system-and-institutional-charters-functional-independence-and-separation-of-duties) in Section 5, the [Key Practical Process Pipelines](#6-key-practical-process-pipelines) in Section 6, [process ownership and outputs](#7-process-ownership-and-outputs) in Section 7, the governance and change-path chapters in Section 8, and the [Adopted Implementation Corpus](#9-adopted-implementation-corpus) in Section 9.
 
@@ -107,8 +107,8 @@ Each summary below states what the chapter owns and what it produces.
 
 - **What it owns:** Supplies:
   - the canonical definition stack: Oversight, Participation, Accountability, Continuity, and Integrative bands;
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
-  - [Corpus](core_03.045_band_integrative.md#corpus); and
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Corpus](subcore_03.045_band_integrative.md#corpus); and
   - related boundary rules.
 - **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Owner-domain routing for the Constitution as a whole lives in this register (sections 4–9). Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
 
@@ -424,7 +424,7 @@ Each summary below states what the chapter owns and what it produces.
 
 **Chapter Twenty-Six — Constitutional contract, legitimacy, and stewardship** ([`core_26.000_governance.md`](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship))
 
-- **What it owns:** The [**Constitutional Contract Layer**](core_03.045_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and what stewardship character must be maintained.
+- **What it owns:** The [**Constitutional Contract Layer**](subcore_03.045_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and what stewardship character must be maintained.
 - **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](core_03.055_band_participation.md#stakeholder-status-and-weight) in already-authorized systems. These are rules for governing authority itself, not just for participation inside it.
 
 **Chapter Twenty-Seven — Non-regression** ([`core_27.000_non_regression.md`](core_27.000_non_regression.md#chapter-twenty-seven-non-regression-and-substantive-amendment-validity))
@@ -458,9 +458,9 @@ Beyond the numbered `core_*` chapters, four adopted corpora complete the [consti
 - **[corpus_institutions](corpus_institutions.md)** — institutional formation, governance, oversight, proportionality, and dissolution discipline.
 - **[corpus_forum](corpus_forum.md)** — forum operations: panel formation, recusal, review lanes, routing detail, and forensic support.
 
-When an adopter validly incorporates them under [Chapter Thirty](core_30.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Three — Corpus](core_03.045_band_integrative.md#corpus).
+When an adopter validly incorporates them under [Chapter Thirty](core_30.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Three — Corpus](subcore_03.045_band_integrative.md#corpus).
 
-Between the chapters and the adopted corpora sits the [**subcore**](core_03.045_band_integrative.md#subcore): `subcore_*` files that hold the full detail of guarantees and procedure that must be the same for every adopter. Each belongs to one chapter, binds as that chapter does, and changes only by amendment under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity). The chapter states each guarantee in plain words; its subcore file gives the full rule.
+Between the chapters and the adopted corpora sits the [**subcore**](subcore_03.045_band_integrative.md#subcore): `subcore_*` files that hold the full detail of guarantees and procedure that must be the same for every adopter. Each belongs to one chapter, binds as that chapter does, and changes only by amendment under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity). The chapter states each guarantee in plain words; its subcore file gives the full rule.
 
 Principles, definitions, rights, process pipelines, governance, amendment rules, the subcore, and incorporated implementation must be read together to preserve the Constitution's protective purpose.
 

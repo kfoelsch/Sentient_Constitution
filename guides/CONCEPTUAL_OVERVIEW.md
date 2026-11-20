@@ -51,7 +51,7 @@ Measurement turns those ideas into practical questions:
 
 [Material stake](../core_00.000_preamble.md#material-stake) scales how demanding the answers must be; it is not a seventh score or a replacement for the Rights Floor.
 
-When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
+When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1155,7 +1155,7 @@ This is a reading discipline, not a new precedence rule:
 - Identify the substantive owner, then use Chapter Three for canonical term meaning.
 - Read the numbered Constitution as one integrated text, preserving its principles, Rights Floor, non-regression, and no-bypass constraints.
 - Apply incorporated implementation only within its adopted scope. Use indexes and support pages to locate the source; they do not create duties.
-- Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Three definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), not a shortcut around integrated reading or Rights-Floor protections.
+- Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Three definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), not a shortcut around integrated reading or Rights-Floor protections.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

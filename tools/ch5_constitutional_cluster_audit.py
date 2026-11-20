@@ -30,7 +30,7 @@ BAND_CLUSTER_RANGES = {
     "core_03.055_band_participation.md": {"Def.P1", "Def.P2", "Def.P3", "Def.P4"},
     "core_03.035_band_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
     "core_03.040_band_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
-    "core_03.045_band_integrative.md": {"Def.I1"},
+    "subcore_03.045_band_integrative.md": {"Def.I1"},
 }
 
 

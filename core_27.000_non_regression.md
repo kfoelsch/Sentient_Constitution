@@ -205,7 +205,7 @@ Serious bad-faith conduct in amendment or adoption is referred under [Chapter Tw
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) canonical owners.
 - Downstream: [Chapter Twenty-Eight §14](core_28.000_amendment_ratification.md#14-owner-non-relocation) (28.000 §14) mirrored procedural-layer discipline; implementation text for review execution mechanics.
 - Read with:
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation) and the
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the
   - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights);
   - [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation;
   - [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity) (28.000) for procedural tests that do not duplicate slot-classification taxonomy.
@@ -222,11 +222,11 @@ This chapter may impose immediate validity-protection controls. Those controls i
 - [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation); and
 - remediation publication.
 
-Under [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Fifteen, Twelve, Thirteen, and Seventeen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Eight** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Fifteen, Twelve, Thirteen, and Seventeen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Eight** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Seven** or **Chapter Twenty-Eight** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
-Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation).
+Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Seven layer routing index</span></strong></summary>

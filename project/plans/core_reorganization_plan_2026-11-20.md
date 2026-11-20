@@ -77,7 +77,7 @@ That gives three tiers, and a three-way placement test for every sentence:
 
 **What the tier needs before any content moves:**
 
-- the [Chapter Five *Corpus*](../../core_03.045_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
+- the [Chapter Five *Corpus*](../../subcore_03.045_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
 - [Preamble §9](../../core_01.000_constitutional_map.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty §4.1](../../core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
 - Chapter Twenty-Nine (amendment covers the subcore);
 - Chapter Thirty-One (the subcore needs no separate incorporation);

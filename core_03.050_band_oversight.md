@@ -295,7 +295,7 @@ Chapter Three, Oversight band, is the constitutional owner of the **leaf definit
   - **Out of scope:**
     - ordinary [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) review, which applies everywhere without a heightened trigger;
     - the trigger conditions themselves, which stay with the provisions that invoke this standard;
-    - the [Fullest Protective Effect](core_03.045_band_integrative.md#fullest-protective-effect) rule for choosing among incorporated texts under [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer); and
+    - the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) rule for choosing among incorporated texts under [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer); and
     - other uses of "heightened" that name a stronger safeguard, weight, priority, or control rather than a review standard (for example heightened safeguards in Chapter Fourteen or heightened priority for habitat).
 <a id="heightened-scrutiny-a"></a>
 - **How to measure and assess**
@@ -638,7 +638,7 @@ Implication can exist without misalignment. Misalignment always implies material
     **Secondary assessment:** Ask whether the same activity, counted with Operating Parties under common control and with others on the same shared system, would cross a line.
 <a id="domain-specific-materiality-c"></a>
 - **What must hold**
-  - **No gate:** Being above a line starts the duties that attach to it. It never gates forming or operating an Operating Party, apart from the narrow limits in **Article XI-E** (*Institutional Formation and Business Creation*), which include its recertification wait for new material authority. Being below a line does not release an Operating Party from any [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint). Safety, Truth, and the Rights Floor, including the environmental protections in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), bind it in full.
+  - **No gate:** Being above a line starts the duties that attach to it. It never gates forming or operating an Operating Party, apart from the narrow limits in **Article XI-E** (*Institutional Formation and Business Creation*), which include its recertification wait for new material authority. Being below a line does not release an Operating Party from any [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint). Safety, Truth, and the Rights Floor, including the environmental protections in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), bind it in full.
   - **Challenge route:** A finding that rests on this list is challenged on the route that already exists for it, and this entry adds no office, forum, or fee. For a System, that is [§7.4 Challenge the System Classification Record](corpus_systems/cs_08.305_system_classification_machinery.md#74-challenge-and-contestability). For an Institution, it is [Chapter Thirteen §4.2 Reopening Triggers](core_13.000_institutional_alignment_certification_records_recertification.md#42-reopening-triggers) and [§5 Challenging a Certification](core_13.000_institutional_alignment_certification_records_recertification.md#5-challenging-a-certification). The challenger names a specific crossing, and the Operating Party answers with its written showing and reasons. Because one yes makes an Operating Party at least Class L, the route is kept light in six ways:
     - **The Operating Party answers first:** A challenge goes first to the Operating Party's published challenge route, and the answer is due inside the **response window**, counted from the challenge. It takes the intake target of the Tier that matches the more critical of the class the Operating Party holds and any class the challenge shows on a prima facie basis, or Tier C where it holds none or holds Class P ([Chapter Five §3.6 If a System Charter or Institutional Charter Is Missing](core_05.000_charters.md#36-if-a-system-charter-or-institutional-charter-is-missing)). A forum is reached when the answer does not settle the matter or does not come, and directly where delay would endanger rights, evidence, or independence.
     - **A challenge that names no crossing is returned, not decided:** The Operating Party asks the challenger to name one. That is a completeness step and not a ruling on the merits. It uses none of the challenger's clocks, and the challenge can be filed again. At a forum, such a filing goes to the family's routine class under [CF-22.415 §3 Published Intake Classes](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-3-published-intake-classes) and is not refused at intake.
@@ -655,7 +655,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - ignoring, burying, or punishing an insider's report of a crossing, which when done through an institution or enterprise also triggers the Institutional Authority Standing Lock in [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks);
     - setting an adopter number above what the domain question implies, or relying on a number to sit under a line the facts show the Operating Party is over;
     - blocking an Operating Party from forming or running because it is above a line; or
-    - letting an Operating Party ignore a [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint) because it is below a line. Safety, Truth, and the Rights Floor, including the environmental protections in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), bind it in full.
+    - letting an Operating Party ignore a [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) because it is below a line. Safety, Truth, and the Rights Floor, including the environmental protections in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), bind it in full.
   - **Secondary failure:** splitting, boundary games, or aggregation avoidance that keep an Operating Party below a line; or using the ordinary-community label to shelter a real crossing.
 
 ---
@@ -937,7 +937,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - [Materiality](core_03.050_band_oversight.md#materiality),
   - [Materiality Integrity Constraint](core_03.050_band_oversight.md#materiality-integrity-constraint),
   - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Auditability](core_03.050_band_oversight.md#auditability), and
   - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint).
 
@@ -1368,7 +1368,7 @@ See **Anti-Segmentation Principle**.
   - **In scope:** Whether outsiders can systematically examine, reconstruct, and evaluate system behavior through enough [Verifiability](core_03.050_band_oversight.md#verifiability) — including external detectability and independent validation.
     - **Coverage:** Must span the material times, states, and interaction contexts — not only a single snapshot or happy-path sample.
     - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
-    - **Operational capability:** Where binding duties require operational capability, auditability includes checking that claimed compliance rests on real, reconstructable capability — not text, assertions, or unimplemented controls alone ([Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) supremacy effect).
+    - **Operational capability:** Where binding duties require operational capability, auditability includes checking that claimed compliance rests on real, reconstructable capability — not text, assertions, or unimplemented controls alone ([Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) supremacy effect).
   - **Out of scope:**
     - raw logs or [Verifiability](core_03.050_band_oversight.md#verifiability) external detectability alone;
     - [Transparency](core_03.050_band_oversight.md#transparency) or [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure) public disclosure alone; or
@@ -2032,6 +2032,6 @@ See **Anti-Segmentation Principle**.
 
 ---
 
-**Previous file:** [core_03.045_band_integrative.md](core_03.045_band_integrative.md)
+**Previous file:** [core_03.040_band_continuity.md](core_03.040_band_continuity.md)
 
 **Next file:** [core_03.055_band_participation.md](core_03.055_band_participation.md)

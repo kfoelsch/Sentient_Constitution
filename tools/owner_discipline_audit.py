@@ -25,7 +25,7 @@ CH5_OWNERS = {
     "core_03.055_band_participation.md",
     "core_03.035_band_accountability.md",
     "core_03.040_band_continuity.md",
-    "core_03.045_band_integrative.md",
+    "subcore_03.045_band_integrative.md",
 }
 
 OEC_BLOCK_RE = re.compile(

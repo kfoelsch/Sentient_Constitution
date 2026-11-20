@@ -100,7 +100,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 1**: [Constitutional Map](core_01.000_constitutional_map.md) | How the pieces connect: the main processes, which chapter owns which rule, and where the adopted implementation text fits |
 | **Chapter 2**: [Part A](core_02.000_values_principles.md) · [Part B](core_02.010_values_principles_continuity_aim.md) · [Part C](core_02.020_interaction_interpretation.md) · [Part D](core_02.030_constitutional_interpretation.md) · [Part E](core_02.040_stewardship_capacity_principles.md) · [Part F](core_02.050_governance_incentive_application.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
 | **Chapter 3**: [Definitions](core_03.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 3 files ↓](#chapter-three-files)) |
-| **Chapter 3 subcore**: [3-A Definition structure](subcore_03.010_definition_structure.md) · [3-B Definition integrity](subcore_03.020_definition_integrity.md) · [3-C Burden of proof and verification](subcore_03.030_burden_traceability_verification.md) | The rules behind the dictionary: how a definition is built, protected against loopholes, and backed with evidence |
+| **Chapter 3 subcore**: [3-A Definition structure](subcore_03.010_definition_structure.md) · [3-B Definition integrity](subcore_03.020_definition_integrity.md) · [3-C Burden of proof and verification](subcore_03.030_burden_traceability_verification.md) · [3-D Integrative definitions](subcore_03.045_band_integrative.md) | The rules behind the dictionary: how a definition is built, protected against loopholes, and backed with evidence |
 | **Chapter 4**: [Part A](core_04.000_rights_part_a.md) · [Part B](core_04.010_rights_part_b.md) · [Part C](core_04.020_rights_part_c.md) · [Part D](core_04.030_rights_part_d.md) · [Part E](core_04.040_rights_part_e.md) | **The Rights Floor**: Articles I–XXIX |
 | **Chapter 5**: [System and Institutional Charters](core_05.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
 | **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
@@ -128,7 +128,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 - [Definitions home](core_03.000_definitions_home.md): reader guidance and the directory of terms
 - The two goals: [Flourishing](core_03.015_apex_flourishing_aim.md) · [Continuity](core_03.010_apex_continuity_aim.md)
 - The four duties: [Participation](core_03.025_apex_participation_leg.md) · [Oversight](core_03.020_apex_oversight_leg.md) · [Accountability](core_03.005_apex_accountability_leg.md) · [Timeliness](core_03.030_apex_timeliness_leg.md)
-- Supporting terms: [Participation](core_03.055_band_participation.md) · [Oversight](core_03.050_band_oversight.md) · [Accountability](core_03.035_band_accountability.md) · [Continuity](core_03.040_band_continuity.md) · [Integrative](core_03.045_band_integrative.md) · [Constitutional Performance](core_03.060_band_performance.md)
+- Supporting terms: [Participation](core_03.055_band_participation.md) · [Oversight](core_03.050_band_oversight.md) · [Accountability](core_03.035_band_accountability.md) · [Continuity](core_03.040_band_continuity.md) · [Integrative (Subcore 3-D)](subcore_03.045_band_integrative.md) · [Constitutional Performance](core_03.060_band_performance.md)
 
 </details>
 <br>
@@ -199,7 +199,7 @@ The numbered `core_*` files state **why** and **what**. The implementation files
 
 Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Eight (ratification) and Chapter Thirty (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty §5](core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
-**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint).
+**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), and [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint).
 
 ### Common Lookups
 
@@ -226,7 +226,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
 - Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
 
-Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](core_03.045_band_integrative.md#corpus) and [Chapter Thirty](core_30.000_incorporation.md).
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) and [Chapter Thirty](core_30.000_incorporation.md).
 
 </details>
 

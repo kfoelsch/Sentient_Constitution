@@ -308,17 +308,18 @@
     {
       "old_id": "Chapter 5",
       "original_file": "core_05_band_integrative.md",
-      "machine_id": "03045",
-      "display_id": "3.045",
-      "layer": "CORE",
+      "machine_id": "SUB-03045",
+      "display_id": "S3-D",
+      "layer": "SUBCORE",
       "core_home": "03",
-      "title": "3",
-      "destination_file": "core_03.045_band_integrative.md",
+      "title": "S3-D",
+      "destination_file": "subcore_03.045_band_integrative.md",
       "status": "active",
       "machine_number": "03045",
       "layer_digit": "0",
-      "ordinal_name": "3",
-      "pre_reorganization_2026_11_20": "05045"
+      "ordinal_name": "S3-D",
+      "pre_reorganization_2026_11_20": "05045",
+      "pre_subcore_2026_11_20": "03045"
     },
     {
       "old_id": "Chapter 5",

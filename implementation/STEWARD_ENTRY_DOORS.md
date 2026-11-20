@@ -58,7 +58,7 @@
 
 This table is not an evaluation answer key. Composite cases may need more than one pointer.
 
-**Shared conflict rule.** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), [Constitutional Constraint](../core_03.045_band_integrative.md#constitutional-constraint), [Chapter Two §15.4](../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
+**Shared conflict rule.** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), [Constitutional Constraint](../subcore_03.045_band_integrative.md#constitutional-constraint), [Chapter Two §15.4](../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
 
 ---
 

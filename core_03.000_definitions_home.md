@@ -41,14 +41,16 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 
 - the canonical home and non-duplication rule (**section 2**);
 - the meta rules for independent definitions (**section 3**) and for dependent clusters (**section 4**);
-- how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**); and
-- the alphabetical directory, the compass and definition map, and the measurement crosswalk, which say where each definition is found. The definitions themselves sit in the band files that the compass lists.
+- how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
+- every defined term in one line, linked to its full definition (**section 6**); and
+- the alphabetical directory, the compass and definition map, and the measurement crosswalk, which say where each definition is found.
 
-The chapter's subcore files hold the full rules behind **section 5**:
+Chapter Three is the overview; the full text sits in its subcore files:
 
 - how a definition is built, in Subcore 3-A;
-- what counts as failing an applicable definition, in Subcore 3-B; and
-- burden of proof, traceability, and verification, in Subcore 3-C.
+- what counts as failing an applicable definition, in Subcore 3-B;
+- burden of proof, traceability, and verification, in Subcore 3-C; and
+- the full definitions, band by band, starting with the Integrative terms in Subcore 3-D. The bands not yet moved are still in this chapter's band files (**section 6.2**).
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
 <a id="2-why-definitions-have-one-home"></a>
@@ -137,6 +139,48 @@ These guarantees hold for every definition and every compliance claim under this
 
 Each subcore file gives the full rule. None of them may narrow a line in this section.
 
+<a id="6-definitions-at-a-glance"></a>
+### 6. Definitions at a Glance
+
+*In plain terms: every defined term in one line, with a link to its full definition. The one-line summaries help you find a term; the full definition decides what it means.*
+
+Each entry names a term, says in one line what it is, and links its full definition. A summary here never narrows or replaces the full definition it links. Where the two seem to differ, the full definition controls.
+
+<a id="61-integrative-terms"></a>
+#### 6.1 Integrative Terms
+
+These terms must be met across several Tetrad legs at once. Their full definitions are in [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions), *Integrative Definitions*.
+
+- **[Non-Compliance](subcore_03.045_band_integrative.md#non-compliance)**: A system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.
+- **[Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer)**: The layer that answers who may govern, by what legitimacy, and under what lasting terms — not ordinary consultation, usage, or branding.
+- **[Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice)**: Decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.
+- **[Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism)**: The written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement.
+- **[Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure)**: Real invention and useful creation are rewarded, but the reward may not harden into lasting lock-up of repair, reuse, research, or public-interest use.
+- **[No-Bypass](subcore_03.045_band_integrative.md#no-bypass)**: A constitutional requirement follows the act, not its packaging.
+- **[Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision)**: A collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other.
+- **[Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record)**: A Collision Record is the written account of how one material Constitutional Collision was decided.
+- **[Derived Information](subcore_03.045_band_integrative.md#derived-information)**: Derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information.
+- **[Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness)**: Abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more.
+- **[Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect)**: When two readings or two rules apply to the same thing, the one that protects sentients most, taken as a whole, is the one that applies.
+- **[Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)**, a group of related terms:
+  - **[Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment)**: Rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.
+  - **[Incentive Alignment — Baseline Constitutional Alignment](subcore_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)**: Incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.
+  - **[Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)**: Incentives are checked under gaming, scale, coordination, and deliberate misuse, not only under polite lab conditions.
+  - **[Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)**: Bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.
+  - **[Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection)**: No one gets to be the only one who can spot, check, or challenge when governance goes wrong.
+  - **[Open Systems, Data, and Auditing](subcore_03.045_band_integrative.md#open-systems-data-and-auditing)**: The information needed to check governance must stay open.
+  - **[Misaligned Reward Correction](subcore_03.045_band_integrative.md#misaligned-reward-correction)**: Once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept.
+- **[Corpus and Authority Stack](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack)**: This cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Chapter One owner register — who owns which topic.
+  - **[Corpus](subcore_03.045_band_integrative.md#corpus)**: The Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies.
+  - **[Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)**: The order for settling what binds: first which source layer is speaking and whether it binds, then which chapter owns the topic, and only then, for a real conflict, the last-resort hierarchy.
+  - **[Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint)**: A constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice.
+
+<a id="62-terms-not-yet-moved"></a>
+#### 6.2 Terms Not Yet Moved
+
+The full definitions of the other bands and of the aim and leg heads are still in this chapter's band and apex files, listed in the [compass](#chapter-three-compass-and-definition-map). Each moves to its own subcore file, and gains its one-line entries here, in later passes.
+
+
 ---
 
 <a id="chapter-three-alphabetical-directory"></a>
@@ -163,7 +207,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 #### Definitions A-Z
 
-- [Abstract Strictness](core_03.045_band_integrative.md#abstract-strictness)
+- [Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness)
 - [Accessibility](core_03.055_band_participation.md#accessibility)
 - [Accountability](core_03.005_apex_accountability_leg.md#accountability)
 - [Adjudication and Dispute Resolution](core_03.035_band_accountability.md#adjudication-and-dispute-resolution)
@@ -180,7 +224,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Attributable Action](core_03.035_band_accountability.md#attributable-action)
 - [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity)
 - [Auditability](core_03.050_band_oversight.md#auditability)
-- [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)
+- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)
 - [Autonomous Coercion Tool](core_03.035_band_accountability.md#autonomous-coercion-tool)
 - [Autonomous Lethal System](core_03.035_band_accountability.md#autonomous-lethal-system)
 - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden)
@@ -216,11 +260,11 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Consent, Sexual](core_03.055_band_participation.md#consent-sexual)
 - [Constitutional Archive](core_03.035_band_accountability.md#constitutional-archive)
 - [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter)
-- [Constitutional Collision](core_03.045_band_integrative.md#constitutional-collision)
-- [Constitutional Collision Record](core_03.045_band_integrative.md#constitutional-collision-record)
+- [Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision)
+- [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record)
 - [Constitutional Community](core_03.055_band_participation.md#constitutional-community)
-- [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint)
-- [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer)
+- [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint)
+- [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer)
 - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency)
 - [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency)
 - [Constitutional Library](core_03.035_band_accountability.md#constitutional-library)
@@ -230,19 +274,19 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Contingent Claim](core_03.035_band_accountability.md#contingent-claim)
 - [Continuity (Constitutional Aim)](core_03.010_apex_continuity_aim.md#chapter-three-definitions-continuity-constitutional-aim)
 - [Contribution Nature](core_03.035_band_accountability.md#contribution-nature)
-- [Corpus](core_03.045_band_integrative.md#corpus)
+- [Corpus](subcore_03.045_band_integrative.md#corpus)
 - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution)
 - [Cross-System Extraction](core_03.040_band_continuity.md#cross-system-extraction)
 - [Cruelty](core_03.035_band_accountability.md#cruelty)
 - [Decentralization](core_03.035_band_accountability.md#decentralization)
 - [Dependency](core_03.040_band_continuity.md#dependency)
-- [Derived Information](core_03.045_band_integrative.md#derived-information)
+- [Derived Information](subcore_03.045_band_integrative.md#derived-information)
 - [Derived Sentient](core_03.055_band_participation.md#derived-sentient)
 - [Developing Sentient](core_03.055_band_participation.md#developing-sentient)
 - [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing)
 - [Direct Case](core_03.035_band_accountability.md#direct-case)
 - [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding)
-- [Documented Legitimacy Mechanism](core_03.045_band_integrative.md#documented-legitimacy-mechanism)
+- [Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism)
 - [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality)
 - [Due Process](core_03.035_band_accountability.md#due-process)
 - [Duty to Resist](core_03.035_band_accountability.md#duty-to-resist)
@@ -277,11 +321,11 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Forum Family, Integrity](core_03.035_band_accountability.md#forum-family-integrity)
 - [Forum Family, Sentient](core_03.035_band_accountability.md#forum-family-sentient)
 - [Forum Family, Technical](core_03.035_band_accountability.md#forum-family-technical)
-- [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice)
+- [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice)
 - [Freedom (Bounded Agency)](core_03.055_band_participation.md#freedom-bounded-agency)
 - [Fresh Review](core_03.040_band_continuity.md#fresh-review)
 - [Full Certification](core_03.040_band_continuity.md#full-certification)
-- [Fullest Protective Effect](core_03.045_band_integrative.md#fullest-protective-effect)
+- [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect)
 - [Game of Chance](core_03.035_band_accountability.md#game-of-chance)
 - [Gate](core_03.050_band_oversight.md#gate)
 - [Gate Criteria](core_03.050_band_oversight.md#gate-criteria)
@@ -298,17 +342,17 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny)
 - [High-Impact and Systemic Harm Publication Constraint](core_03.050_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
 - [Identity Data Protection](core_03.040_band_continuity.md#identity-data-protection)
-- [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment)
-- [Incentive Alignment — Baseline Constitutional Alignment](core_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
-- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](core_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
-- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](core_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
-- [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
+- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment)
+- [Incentive Alignment — Baseline Constitutional Alignment](subcore_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
+- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
+- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
+- [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
 - [Independence](core_03.035_band_accountability.md#independence)
 - [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity)
 - [Influence Pathway](core_03.035_band_accountability.md#influence-pathway)
 - [Info-Sphere](core_03.055_band_participation.md#info-sphere)
 - [Initiating Seat](core_03.035_band_accountability.md#initiating-seat)
-- [Innovation Reward and Anti-Enclosure](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure)
+- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Insider Advantage](core_03.035_band_accountability.md#insider-advantage)
 - [Instantiation Consent](core_03.055_band_participation.md#instantiation-consent)
 - [Institution](core_03.040_band_continuity.md#institution)
@@ -348,22 +392,22 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency)
 - [Merits Determination](core_03.035_band_accountability.md#merits-determination)
 - [Minority](core_03.055_band_participation.md#minority)
-- [Misaligned Reward Correction](core_03.045_band_integrative.md#misaligned-reward-correction)
-- [Misalignment Detection](core_03.045_band_integrative.md#misalignment-detection)
+- [Misaligned Reward Correction](subcore_03.045_band_integrative.md#misaligned-reward-correction)
+- [Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection)
 - [Movement and Relocation](core_03.055_band_participation.md#movement-and-relocation)
 - [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing)
 - [Necessity](core_03.035_band_accountability.md#necessity)
 - [Negligence](core_03.035_band_accountability.md#negligence)
 - [New Material Authority](core_03.040_band_continuity.md#new-material-authority)
-- [No-Bypass](core_03.045_band_integrative.md#no-bypass)
-- [Non-Compliance](core_03.045_band_integrative.md#non-compliance)
+- [No-Bypass](subcore_03.045_band_integrative.md#no-bypass)
+- [Non-Compliance](subcore_03.045_band_integrative.md#non-compliance)
 - [Non-Compliance Finding Profile](core_03.035_band_accountability.md#non-compliance-finding-profile)
 - [Non-Imposition (Cooperative Interaction)](core_03.055_band_participation.md#non-imposition-cooperative-interaction)
 - [Non-Separation](core_03.055_band_participation.md#non-separation)
 - [Non-Statelessness](core_03.055_band_participation.md#non-statelessness)
 - [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity)
 - [One-System Evaluation](core_03.040_band_continuity.md#one-system-evaluation)
-- [Open Systems, Data, and Auditing](core_03.045_band_integrative.md#open-systems-data-and-auditing)
+- [Open Systems, Data, and Auditing](subcore_03.045_band_integrative.md#open-systems-data-and-auditing)
 - [Openness Aspiration](core_03.040_band_continuity.md#openness-aspiration)
 - [Operating Party](core_03.050_band_oversight.md#operating-party)
 - [Operator](core_03.040_band_continuity.md#operator)
@@ -491,7 +535,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Def.P1 Animal Life, Sentient Life, and Sentience Status](core_03.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
 - [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice)
 - [Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying](core_03.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)
-- [Def.I1 Corpus and Authority Stack](core_03.045_band_integrative.md#defi1-corpus-and-authority-stack)
+- [Def.I1 Corpus and Authority Stack](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack)
 - [Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability](core_03.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability)
 - [Def.A2 Forum Families and Dispute Routing](core_03.035_band_accountability.md#defa2-forum-families-and-dispute-routing)
 - [Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
@@ -546,7 +590,7 @@ Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.00
 | **Participation leg** | [core_03.055_band_participation.md](core_03.055_band_participation.md) | **Def.P1–Def.P4** |
 | **Accountability leg** | [core_03.035_band_accountability.md](core_03.035_band_accountability.md) | **Def.A1–Def.A4** |
 | **Continuity band** | [core_03.040_band_continuity.md](core_03.040_band_continuity.md) | **Def.C1–Def.C4** |
-| **Integrative cross-leg** | [core_03.045_band_integrative.md](core_03.045_band_integrative.md) | **Def.I1** |
+| **Integrative cross-leg** | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) | **Def.I1** |
 
 ---
 
@@ -569,7 +613,7 @@ Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.00
 | [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity aim](core_03.010_apex_continuity_aim.md), [Continuity](core_03.040_band_continuity.md) | **Continuity** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_03.010_apex_continuity_aim.md#constitutional-aim-decomposition); concrete measures on leaf primaries in **Continuity** band: [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint), [Dependency](core_03.040_band_continuity.md#dependency), [Reversibility](core_03.040_band_continuity.md#reversibility), [Sustainability](core_03.040_band_continuity.md#sustainability), [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) |
 | [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_03.055_band_participation.md), [Continuity](core_03.040_band_continuity.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_03.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) cluster in **Continuity** band because privacy is distributed across rights articles |
 | [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_03.050_band_oversight.md), [Continuity](core_03.040_band_continuity.md) | Truth and epistemic integrity primaries in **Oversight** band ([Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) link-only leg-head rollup); [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance) in **Continuity** band (**Def.C4**) |
-| [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) | Do reward structures, market power, and answerability keep duties real? | [Accountability](core_03.035_band_accountability.md), [Integrative](core_03.045_band_integrative.md) | Market structure and contestability primaries in **Accountability** band ([Accountability](core_03.005_apex_accountability_leg.md#accountability) link-only leg-head rollup); [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_03.045_band_integrative.md#incentive-alignment-semi-independent) primary layer in **Integrative** band because incentives span Tetrad legs |
+| [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) | Do reward structures, market power, and answerability keep duties real? | [Accountability](core_03.035_band_accountability.md), [Integrative](subcore_03.045_band_integrative.md) | Market structure and contestability primaries in **Accountability** band ([Accountability](core_03.005_apex_accountability_leg.md#accountability) link-only leg-head rollup); [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent) primary layer in **Integrative** band because incentives span Tetrad legs |
 | [Timeliness measurement family](core_03.030_apex_timeliness_leg.md#measuring-timeliness) | Are disputes, corrections, and repairs resolved while remedy still matters? | [Accountability](core_03.035_band_accountability.md) | [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional) link-only leg-head rollup; concrete measures on [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) and [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) — Timeliness is a Tetrad leg whose implementing leaves currently live in the Accountability band |
 | [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | Are constitutional outcomes delivered efficiently without pointless waste? | [Continuity](core_03.040_band_continuity.md) | Family-home in [`core_03.060_band_performance.md`](core_03.060_band_performance.md); all leaf bodies currently in **Continuity** because they are Continuity-band cluster members (stewardship / shared-system capacity / proportionality–burden–efficiency) — instrumental to both aims; not a Tetrad leg. Parallel to Timeliness: family home ≠ leaf home |
 

@@ -31,13 +31,13 @@ CORE_CHAIN = (
     "core_03.030_apex_timeliness_leg.md",
     "core_03.035_band_accountability.md",
     "core_03.040_band_continuity.md",
-    "core_03.045_band_integrative.md",
     "core_03.050_band_oversight.md",
     "core_03.055_band_participation.md",
     "core_03.060_band_performance.md",
     "subcore_03.010_definition_structure.md",
     "subcore_03.020_definition_integrity.md",
     "subcore_03.030_burden_traceability_verification.md",
+    "subcore_03.045_band_integrative.md",
     "core_05.000_charters.md",
     "core_06.000_functional_independence_separation_of_duties.md",
     "core_07.000_independent_bodies.md",
@@ -351,7 +351,7 @@ def build_footer(
         lines.extend(
             [
                 "*Corpus alignment:* edition and custody follow "
-                "[Chapter Three *Corpus*](../core_03.045_band_integrative.md#corpus).",
+                "[Chapter Three *Corpus*](../subcore_03.045_band_integrative.md#corpus).",
                 "",
                 "---",
                 "",

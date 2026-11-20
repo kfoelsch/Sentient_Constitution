@@ -124,7 +124,7 @@ These measures ask whether reward structures, market power, and answerability ke
 
 Operative measurement layers live on Chapter Three definition homes:
 
-- [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment)
+- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment)
 - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence)
 - [Contestability](core_03.035_band_accountability.md#contestability)
 - [Market Structure](core_03.035_band_accountability.md#market-structure)

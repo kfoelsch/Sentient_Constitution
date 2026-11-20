@@ -401,7 +401,7 @@ Trigger scope and timeliness applicability
 
 ---
 
-*Corpus alignment:* edition and custody follow [Chapter Three *Corpus*](../core_03.045_band_integrative.md#corpus).
+*Corpus alignment:* edition and custody follow [Chapter Three *Corpus*](../subcore_03.045_band_integrative.md#corpus).
 
 ---
 

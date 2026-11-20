@@ -37,7 +37,7 @@
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000);
   - [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000); designated implementation text named above.
 - Read with:
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [System Boundaries](core_03.040_band_continuity.md#system-boundaries);
   - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity);
   - [System Creation](core_03.055_band_participation.md#system-creation);
@@ -1135,6 +1135,6 @@ Every version of a System Charter or Institutional Charter is dated and kept. Th
 
 ---
 
-**Previous file:** [subcore_03.030_burden_traceability_verification.md](subcore_03.030_burden_traceability_verification.md)
+**Previous file:** [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md)
 
 **Next file:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)

@@ -9,7 +9,7 @@ CH5_BAND_O = "core_03.050_band_oversight.md"
 CH5_BAND_P = "core_03.055_band_participation.md"
 CH5_BAND_A = "core_03.035_band_accountability.md"
 CH5_BAND_C = "core_03.040_band_continuity.md"
-CH5_BAND_I = "core_03.045_band_integrative.md"
+CH5_BAND_I = "subcore_03.045_band_integrative.md"
 CH5_BAND_M = "core_03.060_band_performance.md"
 
 CH5_AIM_F = "core_03.015_apex_flourishing_aim.md"

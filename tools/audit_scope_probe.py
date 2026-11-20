@@ -108,9 +108,14 @@ def static_check() -> int:
     if core_glob != sorted(corpus_paths.CORE_FILES):
         diff = sorted(set(core_glob) ^ set(corpus_paths.CORE_FILES))
         problems.append(f"corpus_paths.CORE_FILES differs from core_*.md on disk: {diff}")
-    ch5_glob = sorted(p.name for p in ROOT.glob("core_03.*.md"))
+    # Chapter Three files plus the definitions moved to its subcore (Subcores 3-A to 3-C hold
+    # definition mechanics, not definitions, and are not in CH5_ALL).
+    mechanics = {"subcore_03.010_definition_structure.md", "subcore_03.020_definition_integrity.md",
+                 "subcore_03.030_burden_traceability_verification.md"}
+    ch5_glob = sorted([p.name for p in ROOT.glob("core_03.*.md")]
+                      + [p.name for p in ROOT.glob("subcore_03.*.md") if p.name not in mechanics])
     if ch5_glob != sorted(ch5_paths.CH5_ALL):
-        problems.append(f"ch5_paths.CH5_ALL differs from core_03.*.md on disk: {sorted(set(ch5_glob) ^ set(ch5_paths.CH5_ALL))}")
+        problems.append(f"ch5_paths.CH5_ALL differs from the Chapter Three definition files on disk: {sorted(set(ch5_glob) ^ set(ch5_paths.CH5_ALL))}")
 
     makefile = (ROOT / "Makefile").read_text(encoding="utf-8")
     for name in sorted(wanted):

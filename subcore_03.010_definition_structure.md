@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](core_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-A**: definition structure and component alignment (O/M/A/C). **Subcore 3-B** — definition integrity, evasion, and non-compliance — is in [`subcore_03.020_definition_integrity.md`](subcore_03.020_definition_integrity.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-A**: definition structure and component alignment (O/M/A/C). **Subcore 3-B** — definition integrity, evasion, and non-compliance — is in [`subcore_03.020_definition_integrity.md`](subcore_03.020_definition_integrity.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
 > **Upstream:** [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), the chapter this file is attached to.
 > **Downstream:** [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance); [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification).
@@ -17,7 +17,7 @@
 > - **Subcore 3-A (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§2 Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction); [§3 Definition Integrity Requirement](subcore_03.010_definition_structure.md#3-definition-integrity-requirement)).
 > - **Subcore 3-B** — definition integrity, evasion, and non-compliance ([Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance)).
 > - **Subcore 3-C** — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility ([Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification)).
-> - **Chapter Three** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_03.015_apex_flourishing_aim.md), [Oversight](core_03.050_band_oversight.md), [Participation](core_03.055_band_participation.md), [Accountability](core_03.035_band_accountability.md), [Continuity](core_03.040_band_continuity.md), [Integrative](core_03.045_band_integrative.md)); reading order and map in [Chapter Three Part A](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
+> - **Chapter Three** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_03.015_apex_flourishing_aim.md), [Oversight](core_03.050_band_oversight.md), [Participation](core_03.055_band_participation.md), [Accountability](core_03.035_band_accountability.md), [Continuity](core_03.040_band_continuity.md), [Integrative](subcore_03.045_band_integrative.md)); reading order and map in [Chapter Three Part A](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
 > - **CJS** — operational definitions for cross-implementation terms ([CJS-3.105](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-3105-operational-cluster-library-odef) operational cluster library); apply Chapter Three canonical homes—do not redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 >
 > Additional navigation:
@@ -52,8 +52,8 @@ Subcore 3-A is the constitutional owner of **definition structure and component 
   - [Chapter Three Compass and Definition Map](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000).
 - Read with:
   - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) and
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
-  - [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint) — later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply;
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) — later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply;
   - [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — operational definitions apply, and MUST NOT redefine, Chapter Three canonical homes.
 
 </details>
@@ -70,7 +70,7 @@ Subcore 3-A is the constitutional owner of **definition structure and component 
 - [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition in practice.
 - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
 - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) holds the canonical definitions, written in the shape set here.
-- Later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply with the [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint) set here.
+- Later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply with the [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) set here.
 
 **Chapter scope:** The chapter covers:
 
@@ -94,7 +94,7 @@ Every constitutional definition MUST be built from linked parts, each with exact
 - **Assessment (A)** — how the term must be assessed. On Chapter Three leaf definitions, the **Measurement (M)** register is woven into the **Assessment (A)** component. See [§2.3 Assessment Components](#23-assessment-components-a--how-it-must-be-assessed).
 - **Compliance (C)** — what must be true in practice.
 
-Those parts MUST stay consistent within each definition. Enforcement, governance, implementation, measurement operations, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with the [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint) established here.
+Those parts MUST stay consistent within each definition. Enforcement, governance, implementation, measurement operations, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with the [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint) established here.
 
 Every applicable definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. The O, M, A, and C parts MUST all pass together, on the same evaluation scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
 

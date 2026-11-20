@@ -295,7 +295,7 @@ This Article sets out the contestability and proportionality limits on standing 
 - [Participant Standing](core_03.035_band_accountability.md#participant-standing) · [O](core_03.035_band_accountability.md#participant-standing) · [M](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_03.035_band_accountability.md#participant-standing-constitutional-c)
 - [Collective Accountability Failure](core_03.035_band_accountability.md#collective-accountability-failure) · [O](core_03.035_band_accountability.md#collective-accountability-failure) · [M](core_03.035_band_accountability.md#collective-accountability-failure-a) · [A](core_03.035_band_accountability.md#collective-accountability-failure-a) · [C](core_03.035_band_accountability.md#collective-accountability-failure-c)
 - [Trust](core_03.040_band_continuity.md#trust) · [O](core_03.040_band_continuity.md#trust) · [M](core_03.040_band_continuity.md#trust-a) · [A](core_03.040_band_continuity.md#trust-a) · [C](core_03.040_band_continuity.md#trust-c)
-- [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice) · [O](core_03.045_band_integrative.md#foundational-constitutional-choice) · [M](core_03.045_band_integrative.md#foundational-constitutional-choice-a) · [A](core_03.045_band_integrative.md#foundational-constitutional-choice-a) · [C](core_03.045_band_integrative.md#foundational-constitutional-choice-c)
+- [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) · [O](subcore_03.045_band_integrative.md#foundational-constitutional-choice) · [M](subcore_03.045_band_integrative.md#foundational-constitutional-choice-a) · [A](subcore_03.045_band_integrative.md#foundational-constitutional-choice-a) · [C](subcore_03.045_band_integrative.md#foundational-constitutional-choice-c)
 - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
 - [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
 - [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
@@ -1214,7 +1214,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
   - **[CS-4.315](corpus_systems/cs_04.315_comprehensibility_complexity_stewardship.md#cs-4315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
 
-  Where CS-4.315 (*Comprehensibility and Complexity Stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](core_03.045_band_integrative.md#fullest-protective-effect) governs.
+  Where CS-4.315 (*Comprehensibility and Complexity Stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) governs.
 
 <a id="article-xxv-root-cause-analysis-and-adaptive-response"></a>
 
@@ -1371,7 +1371,7 @@ This Article sets out the reversibility preference and its guard against delay a
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional),
   - [System Capture](core_03.040_band_continuity.md#system-capture), and
   - [Anti-Capture](core_03.040_band_continuity.md#anti-capture) in
@@ -1382,7 +1382,7 @@ This Article sets out the reversibility preference and its guard against delay a
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_03.045_band_integrative.md#authority-stack-a) · [A](core_03.045_band_integrative.md#authority-stack-a) · [C](core_03.045_band_integrative.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.045_band_integrative.md#authority-stack-a) · [A](subcore_03.045_band_integrative.md#authority-stack-a) · [C](subcore_03.045_band_integrative.md#authority-stack-c)
 - [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
 - [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
 - [Anti-Capture](core_03.040_band_continuity.md#anti-capture) · [O](core_03.040_band_continuity.md#anti-capture) · [M](core_03.040_band_continuity.md#anti-capture-a) · [A](core_03.040_band_continuity.md#anti-capture-a) · [C](core_03.040_band_continuity.md#anti-capture-c)
@@ -1430,7 +1430,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
 - [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
-- [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_03.045_band_integrative.md#authority-stack-a) · [A](core_03.045_band_integrative.md#authority-stack-a) · [C](core_03.045_band_integrative.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.045_band_integrative.md#authority-stack-a) · [A](subcore_03.045_band_integrative.md#authority-stack-a) · [C](subcore_03.045_band_integrative.md#authority-stack-c)
 - [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
 - [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
 

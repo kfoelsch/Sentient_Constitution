@@ -285,7 +285,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
   - [Event-Contract Market](core_03.035_band_accountability.md#event-contract-market),
   - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways),
   - [Insider Advantage](core_03.035_band_accountability.md#insider-advantage),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Risk](core_03.040_band_continuity.md#risk),
   - [Dependency](core_03.040_band_continuity.md#dependency), and
   - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation).
@@ -303,7 +303,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_03.030_apex_timeliness_leg.md#measuring-timeliness) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_03.040_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation), [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways), [Insider Advantage](core_03.035_band_accountability.md#insider-advantage), and [System Capture](core_03.040_band_continuity.md#system-capture).
+    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_03.040_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation), [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways), [Insider Advantage](core_03.035_band_accountability.md#insider-advantage), and [System Capture](core_03.040_band_continuity.md#system-capture).
 <a id="contingent-claim-c"></a>
 - **What must hold**
   - **Primary failure:** Structures that reliably pay for unlawful [Harm](core_03.035_band_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant. A contingent-claim label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
@@ -324,7 +324,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
   - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways),
   - [Insider Advantage](core_03.035_band_accountability.md#insider-advantage),
   - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment), and
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment), and
   - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity).
 
 </details>
@@ -370,7 +370,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
 - Read with:
   - [Contingent Claim](core_03.035_band_accountability.md#contingent-claim),
   - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Dependency](core_03.040_band_continuity.md#dependency),
   - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways), and
   - [Insider Advantage](core_03.035_band_accountability.md#insider-advantage).
@@ -409,7 +409,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
   - [Event-Contract Market](core_03.035_band_accountability.md#event-contract-market),
   - [Game of Chance](core_03.035_band_accountability.md#game-of-chance),
   - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
   - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
   - [Contestability](core_03.035_band_accountability.md#contestability),
@@ -3782,9 +3782,9 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Non-Compliance](core_03.045_band_integrative.md#non-compliance); [Subcore 3-B §4 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#4-non-compliance-finding-profiles) (S3-B §4).
+- Upstream: [Non-Compliance](subcore_03.045_band_integrative.md#non-compliance); [Subcore 3-B §4 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#4-non-compliance-finding-profiles) (S3-B §4).
 - Downstream: [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer) — governance-layer routing for profile **layer** codes.
+- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) — governance-layer routing for profile **layer** codes.
 
 </details>
 
@@ -3793,7 +3793,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity level. It helps routing and audit but does not change the underlying verdict.*
 
 - **What it is**
-  - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](core_03.045_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity level** (**T1**–**T4**) that best describe the finding.
+  - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](subcore_03.045_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity level** (**T1**–**T4**) that best describe the finding.
   - **Out of scope:** parallel verdict documents; [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
   - **Depends on:** a material non-compliance finding under [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Three definition.
 <a id="non-compliance-finding-profile-a"></a>
@@ -4136,7 +4136,7 @@ See **Anti-Segmentation Principle**.
     - Conduct-character descriptors do not move the numeric slot; the rule is in [Chapter Fifteen §4.2.2 How the Way a Harm Was Caused Is Recorded](core_15.000_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded).
     - Apply Chapter Fourteen's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](core_03.035_band_accountability.md#contribution-nature).
     - For adverse standing effect, a violation finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified violation findings.
-    - Where material, read with [Harm](core_03.035_band_accountability.md#harm), [Cruelty](core_03.035_band_accountability.md#cruelty), [Materiality](core_03.050_band_oversight.md#materiality), [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+    - Where material, read with [Harm](core_03.035_band_accountability.md#harm), [Cruelty](core_03.035_band_accountability.md#cruelty), [Materiality](core_03.050_band_oversight.md#materiality), [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
 <a id="violation-nature-chapter-six-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
@@ -4825,7 +4825,7 @@ See **Anti-Segmentation Principle**.
   - [Unified Incident](core_03.035_band_accountability.md#unified-incident),
   - [Violation Nature](core_03.035_band_accountability.md#violation-nature),
   - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm), the Chapter Four Rights Floor, and
-  - [Constitutional Constraint](core_03.045_band_integrative.md#constitutional-constraint).
+  - [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint).
 
 </details>
 

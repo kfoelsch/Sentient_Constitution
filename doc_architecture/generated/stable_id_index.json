@@ -86,11 +86,6 @@
       "status": "present"
     },
     {
-      "file": "core_03.045_band_integrative.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
       "file": "core_03.050_band_oversight.md",
       "label": "core",
       "status": "present"

@@ -81,7 +81,7 @@ NEW_CORE_FILES = """CORE_FILES = (
     "core_03.030_apex_timeliness_leg.md",
     "core_03.035_band_accountability.md",
     "core_03.040_band_continuity.md",
-    "core_03.045_band_integrative.md",
+    "subcore_03.045_band_integrative.md",
     "core_03.050_band_oversight.md",
     "core_03.055_band_participation.md",
     "core_03.060_band_performance.md",
@@ -129,7 +129,7 @@ NEW_CORE_CHAIN = """CORE_CHAIN = (
     "core_03.030_apex_timeliness_leg.md",
     "core_03.035_band_accountability.md",
     "core_03.040_band_continuity.md",
-    "core_03.045_band_integrative.md",
+    "subcore_03.045_band_integrative.md",
     "core_03.050_band_oversight.md",
     "core_03.055_band_participation.md",
     "core_03.060_band_performance.md",
@@ -184,7 +184,7 @@ def ch2_stack_reader_guidance() -> str:
 > - **Subcore 3-A (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§1 Purpose and Role]({CH2}#1-purpose-and-role); [§2 Definition Integrity Requirement]({CH2}#2-definition-integrity-requirement)).
 > - **Subcore 3-B** — definition integrity, evasion, and non-compliance ([Subcore 3-B]({CH3}#subcore-3-b-definition-integrity-evasion-and-non-compliance)).
 > - **Subcore 3-C** — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility ([Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification)).
-> - **Chapter Three** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_03.015_apex_flourishing_aim.md), [Oversight](core_03.050_band_oversight.md), [Participation](core_03.055_band_participation.md), [Accountability](core_03.035_band_accountability.md), [Continuity](core_03.040_band_continuity.md), [Integrative](core_03.045_band_integrative.md)); reading order and map in [Part A](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
+> - **Chapter Three** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_03.015_apex_flourishing_aim.md), [Oversight](core_03.050_band_oversight.md), [Participation](core_03.055_band_participation.md), [Accountability](core_03.035_band_accountability.md), [Continuity](core_03.040_band_continuity.md), [Integrative](subcore_03.045_band_integrative.md)); reading order and map in [Part A](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
 > - **CJS** — operational definitions for cross-implementation terms ([CJS-3.105](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) operational cluster library); apply Chapter Three canonical homes—do not redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 >
 > Additional navigation:

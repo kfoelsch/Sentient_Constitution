@@ -387,7 +387,7 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_03.030_apex_timeliness_leg.md",
     "core_03.035_band_accountability.md",
     "core_03.040_band_continuity.md",
-    "core_03.045_band_integrative.md",
+    "subcore_03.045_band_integrative.md",
     "core_03.050_band_oversight.md",
     "core_03.055_band_participation.md",
     "core_03.060_band_performance.md",

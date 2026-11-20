@@ -1827,7 +1827,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00.000_preamble.md#material-stake).
-- Canonical owner: [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*process, record contents, supervisory sequence, and Standing-Record bridge*); read with [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Canonical owner: [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*process, record contents, supervisory sequence, and Standing-Record bridge*); read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
   - [Chapter Fourteen — Standing Records and verified-input gate](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000);
@@ -2044,7 +2044,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Eight §3 — System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) and [Chapter Ten §3.1](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -2119,7 +2119,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Eight §4.4 — Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) and [Chapter Ten §3.1](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -2661,7 +2661,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - silently narrows Rights-Floor guarantees.
     That kind of recovery is:
     - epistemic degradation under [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint); and
-    - an incentive-alignment defect under [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment).
+    - an incentive-alignment defect under [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment).
   - **Evaluation covers:**
     - detection latency;
     - containment scope;
@@ -2684,7 +2684,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - operationally closes a defective condition without an open root-cause obligation under **Article XXV** (*Root Cause Analysis and Adaptive Response*).
   - **Secondary failure:** treating Self-Healing as:
     - a substitute for governance; or
-    - justification to reduce [Auditability](core_03.050_band_oversight.md#auditability), [Transparency](core_03.050_band_oversight.md#transparency), or stewardship obligations under [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment).
+    - justification to reduce [Auditability](core_03.050_band_oversight.md#auditability), [Transparency](core_03.050_band_oversight.md#transparency), or stewardship obligations under [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment).
   - **Tertiary failure:** recovery authority that:
     - exceeds what is necessary and proportionate to the fault; or
     - is exercised by high-autonomy systems outside the scope of **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
@@ -2962,7 +2962,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - contestability.
   - **Secondary failure:** using efficiency to:
     - narrow Rights-Floor protections;
-    - bypass the [Constitutional Collision Record](core_03.045_band_integrative.md#constitutional-collision-record) requirements; or
+    - bypass the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record) requirements; or
     - weaken audit, contestability, or retrospective-review obligations.
   - **Tertiary failure:** treating as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable:
     - throughput;
@@ -3126,7 +3126,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - [Contestability](core_03.035_band_accountability.md#contestability); or
     - participation.
   - **Tertiary failure:**
-    - incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment) and Chapter Two §19.1 (*Alignment Requirement*); or
+    - incentives that reward burden creation or maintenance contrary to [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) and Chapter Two §19.1 (*Alignment Requirement*); or
     - treating proxy necessity claims as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
@@ -3655,12 +3655,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
   - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
   - [Contestability](core_03.035_band_accountability.md#contestability) and audit;
-  - [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice); or
-  - the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer).
+  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice); or
+  - the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
 
 **Topic group members.** This group comprises:
 - [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency) — the cluster head governing all emergency frameworks;
-- [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) — emergencies affecting the authorization of governing authority itself under the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer);
+- [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) — emergencies affecting the authorization of governing authority itself under the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer);
 - [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency) — emergencies within already-authorized systems under the Stakeholder System Participation layer;
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — narrow exceptions for binding action before full deliberation where delay would cause imminent harm.
 
@@ -3718,7 +3718,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** pretextual or indefinite emergency or contingency invocation to bypass [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), required [Contestability](core_03.035_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer).
+  - **Primary failure:** pretextual or indefinite emergency or contingency invocation to bypass [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), required [Contestability](core_03.035_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
 
 ---
 
@@ -3733,8 +3733,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Cluster component: [Emergency and Contingency Cluster](core_03.040_band_continuity.md#emergency-and-contingency-cluster).
 - Read with:
   - [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency),
-  - [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice),
+  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
   - [Governance](core_03.035_band_accountability.md#governance),
   - [System Capture](core_03.040_band_continuity.md#system-capture),
   - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
@@ -3747,9 +3747,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <br>
 
 - **What it is**
-  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer), including:
+  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer), including:
     - continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture; and
-    - preservation of the possibility of lawful [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice).
+    - preservation of the possibility of lawful [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice).
   - **Out of scope:**
     - ordinary stakeholder-process expedience; or
     - [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency) —
@@ -3771,7 +3771,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Primary failure:** The following are non-compliant:
     - creating, substituting for, amending, or durably restructuring constitutional authority under an emergency label;
     - emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response used to entrench a new governing authority;
-    - bypassing [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice);
+    - bypassing [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
     - evading Chapter Twenty-Nine validity procedures; or
     - normalizing emergency constitutional power after the emergency predicate fails.
 
@@ -3845,8 +3845,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Read with:
   - [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated,
   - [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice);
+  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
   - [Chapter Twenty-Three §5.1: Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1);
   - [Proportionality](core_03.035_band_accountability.md#proportionality);
   - [Necessity](core_03.035_band_accountability.md#necessity);
@@ -3874,13 +3874,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - is independently reviewable;
     - is reversible or restorable where feasible;
     - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*), and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice); and
-    - where the same facts touch the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency).
+    - where the same facts touch the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
     - ordinary expedience or convenience labeled as emergency;
     - sustained or inadequately reviewed pre-deliberation power;
-    - emergency action used to bypass [Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_03.045_band_integrative.md#constitutional-contract-layer); or
+    - emergency action used to bypass [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer); or
     - pre-deliberation action offered as final stakeholder authorization without the required restoration, review, and reopening pathway.
   - Owner floor: [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 
@@ -3919,7 +3919,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [6. System Stability Enabler: Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [Constitutional Collision Record](core_03.045_band_integrative.md#constitutional-collision-record), and
+  - [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record), and
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Dependency and Cross-System Support](core_03.040_band_continuity.md#dependency-and-cross-system-support).
@@ -4309,7 +4309,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Read with:
   - [Anti-Capture](core_03.040_band_continuity.md#anti-capture),
   - [Capture of Resolution Pathways (named form)](core_03.040_band_continuity.md#capture-of-resolution-pathways),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
   - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
   - [Contestability](core_03.035_band_accountability.md#contestability),
@@ -4344,7 +4344,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - hidden routes by which beneficial control is actually held or exercised;
     - for the named form, whether outcome-resolution sources are independent of parties with a material stake, whether multiple sources are used where feasible, whether dispute pathways are contestable, and whether market-making, settlement, and adjudication roles are separated where conflicts could distort outcomes.
   - **Secondary measure:** co-measures that expose capture even where formal governance appears intact:
-    - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment);
+    - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment);
     - [Systemic](core_03.040_band_continuity.md#systemic);
     - [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality); and
     - [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance);
@@ -4384,7 +4384,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [System Capture](core_03.040_band_continuity.md#system-capture),
   - [Foreseeability](core_03.050_band_oversight.md#foreseeability),
   - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Contestability](core_03.035_band_accountability.md#contestability),
   - [Auditability](core_03.050_band_oversight.md#auditability),
   - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
@@ -4407,7 +4407,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - separating the one who acted from the one who checks ([Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement));
     - keeping plural, structurally independent detection and review paths ([Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection));
     - disclosing beneficial control and influence routes in an [Auditability](core_03.050_band_oversight.md#auditability)-compatible form;
-    - keeping [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
+    - keeping [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
     - keeping contest and independent review real, including the interpretive-body floors in [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
   - **Out of scope:**
     - detecting or labeling capture that has already taken hold — that is [System Capture](core_03.040_band_continuity.md#system-capture);
@@ -4429,7 +4429,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - [System Capture](core_03.040_band_continuity.md#system-capture);
     - [Contestability](core_03.035_band_accountability.md#contestability);
     - [Auditability](core_03.050_band_oversight.md#auditability); and
-    - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment).
+    - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment).
 
     **Secondary assessment:** When evaluating the primary trace, treat missing foreseeable safeguards as an Anti-Capture failure even if [System Capture](core_03.040_band_continuity.md#system-capture) distortion is not yet visible. Read with [Capture of Resolution Pathways (named form)](core_03.040_band_continuity.md#capture-of-resolution-pathways) where settlement or rights-relevant resolution sources are [materially implicated](core_03.050_band_oversight.md#materially-implicated).
 <a id="anti-capture-c"></a>
@@ -4713,7 +4713,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [System Creation](core_03.055_band_participation.md#system-creation),
   - [Business Creation](core_03.055_band_participation.md#business-creation),
   - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance), and
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
 - Distinguish: a System Charter covers one System. An Institution that runs more than one System publishes an [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), which contains the System Charters. The founding document of a political community is a [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter), a different thing. A System Charter may **point to** published [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) process rules; it does not carry that process substance.
 
 </details>
@@ -4836,7 +4836,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism) (26.000 §3.1) (*the treaty, compact, or Constitutional Charter mechanism family*).
 - Read with:
-  - [Documented Legitimacy Mechanism](core_03.045_band_integrative.md#documented-legitimacy-mechanism),
+  - [Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism),
   - [Governance](core_03.035_band_accountability.md#governance),
   - [Institution](core_03.040_band_continuity.md#institution),
   - [System Charter](core_03.040_band_continuity.md#system-charter), and
@@ -4966,9 +4966,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
   - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
   - [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), and
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), and
   - [Auditability](core_03.050_band_oversight.md#auditability).
-- Distinguish: a Charter Pointer is the reference a System Charter or Institutional Charter itself carries, and it carries a duty to resolve. It is not the pointer, read-with routing, or express cross-reference that drafting practice uses between owner layers under the non-relocation rule in [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). Those carry no such duty. It is also not a copy: the substance stays with the document it points to.
+- Distinguish: a Charter Pointer is the reference a System Charter or Institutional Charter itself carries, and it carries a duty to resolve. It is not the pointer, read-with routing, or express cross-reference that drafting practice uses between owner layers under the non-relocation rule in [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). Those carry no such duty. It is also not a copy: the substance stays with the document it points to.
 
 </details>
 
@@ -4983,7 +4983,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - a System Charter that an Institutional Charter holds by reference and does not set out in full; and
     - the classification and stewardship provisions the System Charter or Institutional Charter relies on.
   - **Out of scope:**
-    - pointers, read-with routing, and express cross-references that drafting practice uses between owner layers, which the non-relocation rule in [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) governs;
+    - pointers, read-with routing, and express cross-references that drafting practice uses between owner layers, which the non-relocation rule in [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) governs;
     - the substance of the document pointed to, which stays with its owner home; and
     - a link that only cites background or supporting material and that the System Charter or Institutional Charter does not rely on for a required item.
 <a id="charter-pointer-a"></a>
@@ -5354,7 +5354,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) tests; using this entry or [Chapter Thirty](core_30.000_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding documents;
-  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Twenty-Seven non-regression](core_27.000_non_regression.md); [Chapter Thirty §4 Safeguards](core_30.000_incorporation.md#4-safeguards) safeguards and [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](core_03.045_band_integrative.md#fullest-protective-effect));
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Twenty-Seven non-regression](core_27.000_non_regression.md); [Chapter Thirty §4 Safeguards](core_30.000_incorporation.md#4-safeguards) safeguards and [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect));
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.
@@ -5453,7 +5453,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
   - [Good Faith](core_03.035_band_accountability.md#good-faith),
   - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Innovation Reward and Anti-Enclosure](core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure), and
+  - [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure), and
   - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) where materially implicated.
 
 </details>
@@ -6040,7 +6040,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency),
   - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence),
   - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Existential Risk](core_03.040_band_continuity.md#existential-risk),
   - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
   - [Risk](core_03.040_band_continuity.md#risk),
@@ -6429,7 +6429,7 @@ See **Anti-Segmentation Principle**.
   - [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect),
   - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty),
   - [Governance](core_03.035_band_accountability.md#governance),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
   - [Foreseeability](core_03.050_band_oversight.md#foreseeability),
   - [Materiality](core_03.050_band_oversight.md#materiality),
@@ -6551,7 +6551,7 @@ See **Anti-Segmentation Principle**.
   - [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect),
   - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty),
   - [Governance](core_03.035_band_accountability.md#governance),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [System Capture](core_03.040_band_continuity.md#system-capture),
   - [Materiality](core_03.050_band_oversight.md#materiality),
   - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence), and
@@ -6768,7 +6768,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:**
     - treating availability, observability, platform possession, or prior disclosure as blanket permission; and
-    - using indirect inference or aggregation to evade privacy duties, or handling [Derived Information](core_03.045_band_integrative.md#derived-information) at a lower level than what it reveals.
+    - using indirect inference or aggregation to evade privacy duties, or handling [Derived Information](subcore_03.045_band_integrative.md#derived-information) at a lower level than what it reveals.
   - **Secondary failure:** handling sensitive information in ways that defeat consent, agency, dignity, safety, or contestability.
   - **Tertiary failure:** closing under one privacy locus alone where joint invocation requires cross-locus discipline under this cluster.
 
@@ -6905,7 +6905,7 @@ See **Anti-Segmentation Principle**.
   - [Auditability](core_03.050_band_oversight.md#auditability),
   - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
   - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Dependency](core_03.040_band_continuity.md#dependency),
   - [Verifiability](core_03.050_band_oversight.md#verifiability), and
   - [Psychological Harm](core_03.035_band_accountability.md#psychological-harm) where materially implicated.
@@ -7167,4 +7167,4 @@ See **Anti-Segmentation Principle**.
 
 **Previous file:** [core_03.035_band_accountability.md](core_03.035_band_accountability.md)
 
-**Next file:** [core_03.045_band_integrative.md](core_03.045_band_integrative.md)
+**Next file:** [core_03.050_band_oversight.md](core_03.050_band_oversight.md)

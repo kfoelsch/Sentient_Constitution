@@ -96,7 +96,7 @@ Every system of rules rests on someone's authority to make them. If that authori
 
 **Governing authority** is the power to make or enforce decisions that materially affect sentients under this Constitution.
 
-It must rest on a [**documented legitimacy mechanism**](core_03.045_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
+It must rest on a [**documented legitimacy mechanism**](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
 
 Mechanism families, publication, auditability, and pluralism are addressed in **§3.1** (*Mechanism Families, Auditability, and Pluralism*); eligibility for governing roles and democratic-institution minimum checks in **§3.2** (*Eligibility, Contested Selection, and Democratic Minimums*); recall-class mid-cycle transfer guardrails in **§3.3** (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
 
@@ -191,7 +191,7 @@ Recognized mechanism families include:
     2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*), **Article X-A** (*Freedom from Manipulation*), and **Article XV-A** (*Protected Activity*).
     3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
 
-    - These minimum checks apply to [**Foundational Constitutional Choice**](core_03.045_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
+    - These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.045_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
     - The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
     - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both these minimum checks and the **Pluralism** clause.
@@ -393,7 +393,7 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
 - Downstream: Governance participation and standing in
   - [Article X-B: Governance Participation and Voting Entitlement](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement),
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in
-  - [Chapter Three — Foundational Constitutional Choice](core_03.045_band_integrative.md#foundational-constitutional-choice) (3.045) and related
+  - [Chapter Three — Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) (3.045) and related
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) entries as operative text routes;
   - **Chapter Twenty** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation (ACMD)** on qualifying **Violation Axis slot 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
 - Read with:

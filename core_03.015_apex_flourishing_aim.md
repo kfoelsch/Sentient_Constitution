@@ -95,7 +95,7 @@ Leaf definitions under this aim inherit this aim's scope unless they expressly n
 - [Def.O1 *Transparency, Auditability, and Verification*](core_03.050_band_oversight.md#defo1-transparency-auditability-and-verification)
 - [Def.A3 *Standing State, Contribution, and Violation*](core_03.035_band_accountability.md#defa3-standing-state-contribution-and-violation)
 - [Def.C3 *Privacy (Informational)*](core_03.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
-- [Def.I1 *Corpus and Authority Stack*](core_03.045_band_integrative.md#defi1-corpus-and-authority-stack)
+- [Def.I1 *Corpus and Authority Stack*](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack)
 
 ---
 

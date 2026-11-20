@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T10:17:44+00:00",
+  "generated_at": "2026-11-20T10:37:08+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -194,22 +194,25 @@
       ]
     },
     "core_03.000_definitions_home.md": {
-      "total_lines": 584,
+      "total_lines": 628,
       "sections": [
-        {"header":"CHAPTER THREE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":584,"anchor":"#chapter-three-foundational-definitions"},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":23,"line_end":55,"anchor":null},
-        {"header":"2. Why Definitions Have One Home","level":3,"line_start":56,"line_end":83,"anchor":"#2-why-definitions-have-one-home"},
-        {"header":"3. Independent Definitions","level":3,"line_start":84,"line_end":109,"anchor":"#3-independent-definitions"},
-        {"header":"3.1 Invocation, Satisfaction, and Compliance","level":4,"line_start":94,"line_end":109,"anchor":"#31-invocation-satisfaction-and-compliance"},
-        {"header":"4. Dependent-Cluster Meta Rules","level":3,"line_start":110,"line_end":127,"anchor":null},
-        {"header":"4.1 Joint Invocation and Satisfaction","level":4,"line_start":118,"line_end":124,"anchor":"#41-joint-invocation-and-satisfaction"},
-        {"header":"4.2 Standalone Definitions Interaction and Full Context","level":4,"line_start":125,"line_end":127,"anchor":"#42-standalone-definitions-interaction-and-full-context"},
-        {"header":"5. How Definitions and Proof Work","level":3,"line_start":128,"line_end":143,"anchor":"#5-how-definitions-and-proof-work"},
-        {"header":"Chapter Three Alphabetical Directory (Non-Operative)","level":3,"line_start":144,"line_end":512,"anchor":"#chapter-three-alphabetical-directory"},
-        {"header":"Definitions A-Z","level":4,"line_start":164,"line_end":488,"anchor":"#definitions-a-z"},
-        {"header":"Clusters A-Z","level":4,"line_start":489,"line_end":512,"anchor":"#clusters-a-z"},
-        {"header":"Chapter Three Compass and Definition Map","level":3,"line_start":513,"line_end":552,"anchor":"#chapter-three-compass-and-definition-map"},
-        {"header":"Measurement Crosswalk (Reader Guidance)","level":3,"line_start":553,"line_end":584,"anchor":null}
+        {"header":"CHAPTER THREE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":628,"anchor":"#chapter-three-foundational-definitions"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":23,"line_end":57,"anchor":null},
+        {"header":"2. Why Definitions Have One Home","level":3,"line_start":58,"line_end":85,"anchor":"#2-why-definitions-have-one-home"},
+        {"header":"3. Independent Definitions","level":3,"line_start":86,"line_end":111,"anchor":"#3-independent-definitions"},
+        {"header":"3.1 Invocation, Satisfaction, and Compliance","level":4,"line_start":96,"line_end":111,"anchor":"#31-invocation-satisfaction-and-compliance"},
+        {"header":"4. Dependent-Cluster Meta Rules","level":3,"line_start":112,"line_end":129,"anchor":null},
+        {"header":"4.1 Joint Invocation and Satisfaction","level":4,"line_start":120,"line_end":126,"anchor":"#41-joint-invocation-and-satisfaction"},
+        {"header":"4.2 Standalone Definitions Interaction and Full Context","level":4,"line_start":127,"line_end":129,"anchor":"#42-standalone-definitions-interaction-and-full-context"},
+        {"header":"5. How Definitions and Proof Work","level":3,"line_start":130,"line_end":142,"anchor":"#5-how-definitions-and-proof-work"},
+        {"header":"6. Definitions at a Glance","level":3,"line_start":143,"line_end":187,"anchor":"#6-definitions-at-a-glance"},
+        {"header":"6.1 Integrative Terms","level":4,"line_start":150,"line_end":178,"anchor":"#61-integrative-terms"},
+        {"header":"6.2 Terms Not Yet Moved","level":4,"line_start":179,"line_end":187,"anchor":"#62-terms-not-yet-moved"},
+        {"header":"Chapter Three Alphabetical Directory (Non-Operative)","level":3,"line_start":188,"line_end":556,"anchor":"#chapter-three-alphabetical-directory"},
+        {"header":"Definitions A-Z","level":4,"line_start":208,"line_end":532,"anchor":"#definitions-a-z"},
+        {"header":"Clusters A-Z","level":4,"line_start":533,"line_end":556,"anchor":"#clusters-a-z"},
+        {"header":"Chapter Three Compass and Definition Map","level":3,"line_start":557,"line_end":596,"anchor":"#chapter-three-compass-and-definition-map"},
+        {"header":"Measurement Crosswalk (Reader Guidance)","level":3,"line_start":597,"line_end":628,"anchor":null}
       ]
     },
     "core_03.005_apex_accountability_leg.md": {
@@ -504,38 +507,6 @@
         {"header":"Trust","level":5,"line_start":6953,"line_end":6991,"anchor":"#trust"},
         {"header":"Trustworthiness","level":5,"line_start":6992,"line_end":7062,"anchor":"#trustworthiness"},
         {"header":"Trust Degradation and Misleading Reliance","level":5,"line_start":7063,"line_end":7170,"anchor":"#trust-degradation-and-misleading-reliance"}
-      ]
-    },
-    "core_03.045_band_integrative.md": {
-      "total_lines": 1298,
-      "sections": [
-        {"header":"Integrative Constitutional Definitions","level":1,"line_start":1,"line_end":1298,"anchor":null},
-        {"header":"Integrative: Independent Terms","level":3,"line_start":36,"line_end":642,"anchor":"#non-compliance"},
-        {"header":"Non-Compliance","level":4,"line_start":40,"line_end":92,"anchor":null},
-        {"header":"Constitutional Contract Layer","level":4,"line_start":93,"line_end":153,"anchor":"#constitutional-contract-layer"},
-        {"header":"Foundational Constitutional Choice","level":4,"line_start":154,"line_end":212,"anchor":"#foundational-constitutional-choice"},
-        {"header":"Documented Legitimacy Mechanism","level":4,"line_start":213,"line_end":270,"anchor":"#documented-legitimacy-mechanism"},
-        {"header":"Innovation Reward and Anti-Enclosure","level":4,"line_start":271,"line_end":364,"anchor":"#innovation-reward-and-anti-enclosure"},
-        {"header":"No-Bypass","level":4,"line_start":365,"line_end":398,"anchor":"#no-bypass"},
-        {"header":"Constitutional Collision","level":4,"line_start":399,"line_end":461,"anchor":"#constitutional-collision"},
-        {"header":"Constitutional Collision Record","level":4,"line_start":462,"line_end":519,"anchor":"#constitutional-collision-record"},
-        {"header":"Derived Information","level":4,"line_start":520,"line_end":568,"anchor":"#derived-information"},
-        {"header":"Abstract Strictness","level":4,"line_start":569,"line_end":604,"anchor":"#abstract-strictness"},
-        {"header":"Fullest Protective Effect","level":4,"line_start":605,"line_end":642,"anchor":"#fullest-protective-effect"},
-        {"header":"Integrative: Semi-Independent Terms","level":3,"line_start":643,"line_end":988,"anchor":"#fullest-protective-effect-c"},
-        {"header":"Incentive Alignment, Proxy Integrity, and Contingent Settlement","level":4,"line_start":648,"line_end":988,"anchor":"#incentive-alignment-proxy-integrity-and-contingent-settlement"},
-        {"header":"Incentive Alignment","level":5,"line_start":670,"line_end":747,"anchor":"#incentive-alignment"},
-        {"header":"Incentive Alignment — Baseline Constitutional Alignment","level":5,"line_start":748,"line_end":777,"anchor":"#incentive-alignment-baseline-constitutional-alignment"},
-        {"header":"Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation","level":5,"line_start":778,"line_end":811,"anchor":"#incentive-alignment-strategic-scaled-and-adversarial-evaluation"},
-        {"header":"Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets","level":5,"line_start":812,"line_end":868,"anchor":"#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"},
-        {"header":"Misalignment Detection","level":5,"line_start":869,"line_end":913,"anchor":"#misalignment-detection"},
-        {"header":"Open Systems, Data, and Auditing","level":5,"line_start":914,"line_end":952,"anchor":"#open-systems-data-and-auditing"},
-        {"header":"Misaligned Reward Correction","level":5,"line_start":953,"line_end":988,"anchor":"#misaligned-reward-correction"},
-        {"header":"Integrative: Dependent Clusters","level":3,"line_start":989,"line_end":1298,"anchor":"#misaligned-reward-correction-c"},
-        {"header":"Def.I1 Corpus and Authority Stack","level":4,"line_start":994,"line_end":1298,"anchor":"#corpus-authority-stack-supremacy-and-enforceability-cluster"},
-        {"header":"Corpus","level":5,"line_start":1053,"line_end":1106,"anchor":"#corpus"},
-        {"header":"Authority Stack and Internal Hierarchy","level":5,"line_start":1107,"line_end":1218,"anchor":"#authority-stack"},
-        {"header":"Constitutional Constraint","level":5,"line_start":1219,"line_end":1298,"anchor":"#constitutional-constraint"}
       ]
     },
     "core_03.050_band_oversight.md": {
@@ -1723,6 +1694,38 @@
         {"header":"5. Security-Constrained Observability and Verification Rule","level":3,"line_start":153,"line_end":185,"anchor":null},
         {"header":"6. Compliance Evidence Standard","level":3,"line_start":186,"line_end":232,"anchor":null},
         {"header":"7. Relationship to System Alignment Certification","level":3,"line_start":233,"line_end":267,"anchor":null}
+      ]
+    },
+    "subcore_03.045_band_integrative.md": {
+      "total_lines": 1302,
+      "sections": [
+        {"header":"SUBCORE 3-D: INTEGRATIVE DEFINITIONS","level":1,"line_start":2,"line_end":1302,"anchor":"#subcore-3-d-integrative-definitions"},
+        {"header":"Integrative: Independent Terms","level":3,"line_start":40,"line_end":646,"anchor":"#non-compliance"},
+        {"header":"Non-Compliance","level":4,"line_start":44,"line_end":96,"anchor":null},
+        {"header":"Constitutional Contract Layer","level":4,"line_start":97,"line_end":157,"anchor":"#constitutional-contract-layer"},
+        {"header":"Foundational Constitutional Choice","level":4,"line_start":158,"line_end":216,"anchor":"#foundational-constitutional-choice"},
+        {"header":"Documented Legitimacy Mechanism","level":4,"line_start":217,"line_end":274,"anchor":"#documented-legitimacy-mechanism"},
+        {"header":"Innovation Reward and Anti-Enclosure","level":4,"line_start":275,"line_end":368,"anchor":"#innovation-reward-and-anti-enclosure"},
+        {"header":"No-Bypass","level":4,"line_start":369,"line_end":402,"anchor":"#no-bypass"},
+        {"header":"Constitutional Collision","level":4,"line_start":403,"line_end":465,"anchor":"#constitutional-collision"},
+        {"header":"Constitutional Collision Record","level":4,"line_start":466,"line_end":523,"anchor":"#constitutional-collision-record"},
+        {"header":"Derived Information","level":4,"line_start":524,"line_end":572,"anchor":"#derived-information"},
+        {"header":"Abstract Strictness","level":4,"line_start":573,"line_end":608,"anchor":"#abstract-strictness"},
+        {"header":"Fullest Protective Effect","level":4,"line_start":609,"line_end":646,"anchor":"#fullest-protective-effect"},
+        {"header":"Integrative: Semi-Independent Terms","level":3,"line_start":647,"line_end":992,"anchor":"#fullest-protective-effect-c"},
+        {"header":"Incentive Alignment, Proxy Integrity, and Contingent Settlement","level":4,"line_start":652,"line_end":992,"anchor":"#incentive-alignment-proxy-integrity-and-contingent-settlement"},
+        {"header":"Incentive Alignment","level":5,"line_start":674,"line_end":751,"anchor":"#incentive-alignment"},
+        {"header":"Incentive Alignment — Baseline Constitutional Alignment","level":5,"line_start":752,"line_end":781,"anchor":"#incentive-alignment-baseline-constitutional-alignment"},
+        {"header":"Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation","level":5,"line_start":782,"line_end":815,"anchor":"#incentive-alignment-strategic-scaled-and-adversarial-evaluation"},
+        {"header":"Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets","level":5,"line_start":816,"line_end":872,"anchor":"#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"},
+        {"header":"Misalignment Detection","level":5,"line_start":873,"line_end":917,"anchor":"#misalignment-detection"},
+        {"header":"Open Systems, Data, and Auditing","level":5,"line_start":918,"line_end":956,"anchor":"#open-systems-data-and-auditing"},
+        {"header":"Misaligned Reward Correction","level":5,"line_start":957,"line_end":992,"anchor":"#misaligned-reward-correction"},
+        {"header":"Integrative: Dependent Clusters","level":3,"line_start":993,"line_end":1302,"anchor":"#misaligned-reward-correction-c"},
+        {"header":"Def.I1 Corpus and Authority Stack","level":4,"line_start":998,"line_end":1302,"anchor":"#corpus-authority-stack-supremacy-and-enforceability-cluster"},
+        {"header":"Corpus","level":5,"line_start":1057,"line_end":1110,"anchor":"#corpus"},
+        {"header":"Authority Stack and Internal Hierarchy","level":5,"line_start":1111,"line_end":1222,"anchor":"#authority-stack"},
+        {"header":"Constitutional Constraint","level":5,"line_start":1223,"line_end":1302,"anchor":"#constitutional-constraint"}
       ]
     },
     "corpus_systems.md": {

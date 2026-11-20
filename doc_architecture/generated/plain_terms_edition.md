@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **871** of **1409** headings carry a gloss (62%).
+Coverage: **850** of **1385** headings carry a gloss (61%).
 
 ## Contents
 
@@ -18,7 +18,7 @@ Coverage: **871** of **1409** headings carry a gloss (62%).
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (19/26 glossed)
-- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (10/12 glossed)
+- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (11/15 glossed)
 - [CHAPTER THREE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-three-definitions-accountability-tetrad-leg) — `core_03.005_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-three-definitions-continuity-constitutional-aim) — `core_03.010_apex_continuity_aim.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: FLOURISHING](#chapter-three-definitions-flourishing) — `core_03.015_apex_flourishing_aim.md` (3/3 glossed)
@@ -27,7 +27,6 @@ Coverage: **871** of **1409** headings carry a gloss (62%).
 - [CHAPTER THREE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-three-definitions-timeliness-tetrad-leg) — `core_03.030_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_03.035_band_accountability.md` (96/108 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_03.040_band_continuity.md` (67/128 glossed)
-- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_03.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_03.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_03.055_band_participation.md` (55/70 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_03.060_band_performance.md` (2/2 glossed)
@@ -601,7 +600,7 @@ where trust and truth pull in different directions, truth wins. Trust cannot be 
 
 ###### 13.2.3 Privacy and Informational Self-Determination
 
-privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the Constitutional Collision is resolved under the [Constitutional Collision Record](../../core_03.045_band_integrative.md#constitutional-collision-record) requirements, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.
+privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the Constitutional Collision is resolved under the [Constitutional Collision Record](../../subcore_03.045_band_integrative.md#constitutional-collision-record) requirements, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.
 
 [Source](../../core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination)
 
@@ -629,7 +628,7 @@ Source file: [`core_02.030_constitutional_interpretation.md`](../../core_02.030_
 
 #### 15. Constitutional Interpretation
 
-read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../core_03.045_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.
+read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../subcore_03.045_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.
 
 [Source](../../core_02.030_constitutional_interpretation.md#15-constitutional-interpretation)
 
@@ -955,7 +954,7 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER THREE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 10/12 headings glossed
+Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 11/15 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -1004,6 +1003,24 @@ cluster members must be read and satisfied together — no member is a standalon
 a word in this Constitution has to mean something you can check, nobody can win by keeping the word and dodging its point, and whoever says they comply has to prove it. The full rules are in this chapter's three subcore files.
 
 [Source](../../core_03.000_definitions_home.md#5-how-definitions-and-proof-work)
+
+#### 6. Definitions at a Glance
+
+every defined term in one line, with a link to its full definition. The one-line summaries help you find a term; the full definition decides what it means.
+
+[Source](../../core_03.000_definitions_home.md#6-definitions-at-a-glance)
+
+##### 6.1 Integrative Terms
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_03.000_definitions_home.md#61-integrative-terms)
+
+##### 6.2 Terms Not Yet Moved
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_03.000_definitions_home.md#62-terms-not-yet-moved)
 
 #### Chapter Three Alphabetical Directory (Non-Operative)
 
@@ -2531,166 +2548,6 @@ when automation or generative systems take work away from sentients at populatio
 
 [Source](../../core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance)
 
-## Integrative Constitutional Definitions
-
-Source file: [`core_03.045_band_integrative.md`](../../core_03.045_band_integrative.md) · 22/27 headings glossed
-
-#### Integrative: Independent Terms
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_03.045_band_integrative.md#integrative-independent-terms)
-
-##### Non-Compliance
-
-a system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.
-
-[Source](../../core_03.045_band_integrative.md#non-compliance)
-
-##### Constitutional Contract Layer
-
-this is the layer that answers who may govern, by what legitimacy, and under what lasting terms — not ordinary consultation, usage, or branding.
-
-[Source](../../core_03.045_band_integrative.md#constitutional-contract-layer)
-
-##### Foundational Constitutional Choice
-
-decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.
-
-[Source](../../core_03.045_band_integrative.md#foundational-constitutional-choice)
-
-##### Documented Legitimacy Mechanism
-
-the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the official record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.
-
-[Source](../../core_03.045_band_integrative.md#documented-legitimacy-mechanism)
-
-##### Innovation Reward and Anti-Enclosure
-
-reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.
-
-[Source](../../core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure)
-
-##### No-Bypass
-
-a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution. Whether a requirement was met is judged on checkable evidence of what the act does, not on its own label or paperwork.
-
-[Source](../../core_03.045_band_integrative.md#no-bypass)
-
-##### Constitutional Collision
-
-a collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other. It is not a disagreement about facts, not a conflict between texts, and not a reason to drop a requirement. A real collision goes through the Constitutional Collision Resolution Process; a tension that disappears once each requirement is read in full is not a collision.
-
-[Source](../../core_03.045_band_integrative.md#constitutional-collision)
-
-##### Constitutional Collision Record
-
-a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.
-
-[Source](../../core_03.045_band_integrative.md#constitutional-collision-record)
-
-##### Derived Information
-
-derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.
-
-[Source](../../core_03.045_band_integrative.md#derived-information)
-
-##### Abstract Strictness
-
-abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](../../core_03.045_band_integrative.md#fullest-protective-effect).
-
-[Source](../../core_03.045_band_integrative.md#abstract-strictness)
-
-##### Fullest Protective Effect
-
-when two readings or two rules apply to the same thing, pick the one that protects sentients most when everything is taken together. Do not pick the one that only sounds harsher. This one test applies wherever the corpus chooses between readings or rules.
-
-[Source](../../core_03.045_band_integrative.md#fullest-protective-effect)
-
-#### Integrative: Semi-Independent Terms
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_03.045_band_integrative.md#integrative-semi-independent-terms)
-
-##### Incentive Alignment, Proxy Integrity, and Contingent Settlement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_03.045_band_integrative.md#incentive-alignment-semi-independent)
-
-###### Incentive Alignment
-
-rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.
-
-[Source](../../core_03.045_band_integrative.md#incentive-alignment)
-
-###### Incentive Alignment — Baseline Constitutional Alignment
-
-incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.
-
-[Source](../../core_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
-
-###### Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation
-
-check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.
-
-[Source](../../core_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
-
-###### Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets
-
-bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.
-
-[Source](../../core_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
-
-###### Misalignment Detection
-
-no one gets to be the only one who can spot, check, or challenge when governance goes wrong. Detection needs many independent eyes.
-
-[Source](../../core_03.045_band_integrative.md#misalignment-detection)
-
-###### Open Systems, Data, and Auditing
-
-the information needed to check governance must stay open. Affected sentients can see and verify it, unless the rules on protected information say otherwise.
-
-[Source](../../core_03.045_band_integrative.md#open-systems-data-and-auditing)
-
-###### Misaligned Reward Correction
-
-once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Sixteen decides how they are forfeited, clawed back, reported, and corrected.
-
-[Source](../../core_03.045_band_integrative.md#misaligned-reward-correction)
-
-#### Integrative: Dependent Clusters
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_03.045_band_integrative.md#integrative-dependent-clusters)
-
-##### Def.I1 Corpus and Authority Stack
-
-this cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Chapter One owner register — who owns which topic.
-
-[Source](../../core_03.045_band_integrative.md#defi1)
-
-###### Corpus
-
-the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies. It has three tiers: the core chapters, written to be read; the subcore, which holds the full detail that must be the same for every adopter and binds exactly as the core does; and adopted implementation text, which may differ between adopters and binds only as adopted.
-
-[Source](../../core_03.045_band_integrative.md#corpus)
-
-###### Authority Stack and Internal Hierarchy
-
-first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.
-
-[Source](../../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)
-
-###### Constitutional Constraint
-
-a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice. Constraints come in ranked kinds: higher kinds control, and lower kinds must not narrow them.
-
-[Source](../../core_03.045_band_integrative.md#constitutional-constraint)
-
 ## Oversight Constitutional Definitions
 
 Source file: [`core_03.050_band_oversight.md`](../../core_03.050_band_oversight.md) · 31/41 headings glossed
@@ -3751,7 +3608,7 @@ Source file: [`core_06.000_functional_independence_separation_of_duties.md`](../
 
 #### 1. Purpose, Role, and Scope
 
-before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../core_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_03.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.
+before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../subcore_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_03.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.
 
 [Source](../../core_06.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope)
 
@@ -7107,7 +6964,7 @@ Chapter Four states the basic Rights Floors no sentient may be pushed below. Tho
 
 ##### 2.2 Owner Non-Relocation
 
-Chapter Four states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Chapter One — constitutional owner register](../../core_01.000_constitutional_map.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../core_03.045_band_integrative.md#owner-non-relocation).
+Chapter Four states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Chapter One — constitutional owner register](../../core_01.000_constitutional_map.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../subcore_03.045_band_integrative.md#owner-non-relocation).
 
 [Source](../../core_04.000_rights_part_a.md#22-owner-non-relocation)
 

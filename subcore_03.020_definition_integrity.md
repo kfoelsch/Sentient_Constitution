@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](core_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-B**: definition integrity, evasion, and non-compliance. **Subcore 3-A** — definition structure and component alignment — is in [`subcore_03.010_definition_structure.md`](subcore_03.010_definition_structure.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-B**: definition integrity, evasion, and non-compliance. **Subcore 3-A** — definition structure and component alignment — is in [`subcore_03.010_definition_structure.md`](subcore_03.010_definition_structure.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
 > **Upstream:** [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements).
 > **Downstream:** [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification).
@@ -127,7 +127,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [Subcore 3-A, §2 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction) (S3-A §2) for the joint-satisfaction rule under full functional system conditions;
   - [Subcore 3-A, §3.4 Interpretation Rule under Ambiguity](subcore_03.010_definition_structure.md#34-interpretation-rule-under-ambiguity) (S3-A §3.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
   - [Subcore 3-C, section 6 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof;
-  - [Non-Compliance](core_03.045_band_integrative.md#non-compliance).
+  - [Non-Compliance](subcore_03.045_band_integrative.md#non-compliance).
 
 </details>
 

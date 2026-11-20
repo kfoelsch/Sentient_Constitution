@@ -462,7 +462,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 - Read with:
   - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
   - [Auditability](core_03.050_band_oversight.md#auditability), conflict controls,
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
   - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness), and
   - [System Capture](core_03.040_band_continuity.md#system-capture).
@@ -475,7 +475,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 
 - [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
 - [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment) · [O](core_03.045_band_integrative.md#incentive-alignment) · [M](core_03.045_band_integrative.md#incentive-alignment-a) · [A](core_03.045_band_integrative.md#incentive-alignment-a) · [C](core_03.045_band_integrative.md#incentive-alignment-c)
+- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) · [O](subcore_03.045_band_integrative.md#incentive-alignment) · [M](subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](subcore_03.045_band_integrative.md#incentive-alignment-c)
 - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_03.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_03.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_03.020_apex_oversight_leg.md#oversight-constitutional-c)
 - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
 - [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
@@ -631,7 +631,7 @@ The following do not remove the conduct from scope where the actor materially ca
 
 The conduct is in scope only where it has one of the following material effects:
 
-- Directing or inducing violation of the **Chapter Four** Rights Floor, [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint), binding remedies, or protected reporting and challenge pathways.
+- Directing or inducing violation of the **Chapter Four** Rights Floor, [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint), binding remedies, or protected reporting and challenge pathways.
 - Distorting, bypassing, or suppressing constitutional custody, verification, publication, audit, disclosure, [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation), or record integrity.
 - Blocking, chilling, delaying, or selectively weakening contestability, oversight, review, enforcement, or remedy pathways.
 - Producing Rights-Floor degradation, material rollback, system capture, or an equivalent structural workaround.
@@ -687,7 +687,7 @@ A command relationship is not a defense, but it may bear on:
 This applies to an unlawful or unconstitutional directive that is well supported by the evidence and affects any of the following:
 - whether a rule, act, or change is valid under this Constitution;
 - how constitutional processes (such as review, publication, and oversight) actually work;
-- the **Chapter Four** Rights Floor or other [Constitutional Constraints](core_03.045_band_integrative.md#constitutional-constraint);
+- the **Chapter Four** Rights Floor or other [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint);
 - [Contestability](core_03.035_band_accountability.md#contestability);
 - access to remedies ([Remedy System](core_03.035_band_accountability.md#remedy-system));
 - [Record Integrity](core_03.035_band_accountability.md#record-integrity) or [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation); or
@@ -816,7 +816,7 @@ The three subsections below apply the same sequence to conduct in which the acco
 - Read with:
   - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
   - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference),
   - [System Capture](core_03.040_band_continuity.md#system-capture), and
   - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
@@ -830,7 +830,7 @@ The three subsections below apply the same sequence to conduct in which the acco
 
 - [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
 - [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment) · [O](core_03.045_band_integrative.md#incentive-alignment) · [M](core_03.045_band_integrative.md#incentive-alignment-a) · [A](core_03.045_band_integrative.md#incentive-alignment-a) · [C](core_03.045_band_integrative.md#incentive-alignment-c)
+- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) · [O](subcore_03.045_band_integrative.md#incentive-alignment) · [M](subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](subcore_03.045_band_integrative.md#incentive-alignment-c)
 - [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
 - [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
 - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)

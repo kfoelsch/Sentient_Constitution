@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](core_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-C**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-C**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Subcores 3-A and 3-B — Definition mechanics](subcore_03.010_definition_structure.md); Chapter Three definitions.
 > **Downstream:** [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened).
@@ -16,7 +16,7 @@
 > Where this lives (navigation):
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00.000_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Fourteen** owns Standing-Record and verified-input discipline read with this chapter.
-> - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](core_03.045_band_integrative.md#fullest-protective-effect) rule.
+> - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) rule.
 > - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Three definitions, **Chapter Fifteen** contribution or standing measurement, or Chapter Twenty anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Subcore 3-B §4 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#4-non-compliance-finding-profiles) and [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened). **Section 7** states how Subcores 3-A to 3-C differ from [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation).
 
 </details>
@@ -264,4 +264,4 @@ Readers must not treat:
 
 **Previous file:** [subcore_03.020_definition_integrity.md](subcore_03.020_definition_integrity.md)
 
-**Next file:** [core_05.000_charters.md](core_05.000_charters.md)
+**Next file:** [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md)

@@ -17,7 +17,7 @@
 > - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records** — evaluation domains (Chapter Eight); forum process, supervisory sequence, and certification outcomes with the go-live gate (Chapter Nine); System Certification Record duties, the challenge path, recertification and reopening, and the verified-input bridge to Chapter Fourteen (all in Chapter Ten). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Auditability](core_03.050_band_oversight.md#auditability).
 > - **Verification substrate owner:** [Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (within Subcores 3-A to 3-C) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to System Certification Records; it does **not** restate Subcore 3-C sections **1** through **5**.
 > - **Auditing home (not relocated here):** **Article XVII** (*Audit, Transparency, and Independent Verification*), **Def.O1** (*Transparency, Auditability, and Verification*), and **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5** own auditing floors and operational terms. Chapter Eight runs one especially large SAC audit process that must satisfy those floors; it does not own all auditing.
-> - **Implementation owner:** system-class handling, CS-4.345 (*System lifecycle*), and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides a [Fullest Protective Effect](core_03.045_band_integrative.md#fullest-protective-effect) rule.
+> - **Implementation owner:** system-class handling, CS-4.345 (*System lifecycle*), and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) rule.
 > - **Anti-relocation rule:** Chapter Eight does not restate Chapter Three canonical definitions, Subcore 3-B anti-evasion discipline (see [Chapter Ten §4.4](core_10.000_system_alignment_certification_records_recertification.md#44-non-evasion)), Chapter Fifteen contribution or standing measurement, or Chapter Sixteen standing effects. **[Chapter Ten §6](core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing)** states the standing bridge.
 >
 > **Upstream:** Chapter Three definitions; Subcores 3-A to 3-C record, verification, burden, and traceability of definitions to results; and [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), whose separation-of-duties requirement governs every materially binding certification act.
@@ -38,7 +38,7 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
 
 - Upstream:
   - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) and
-  - [Authority Stack and Internal Hierarchy](core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [material stake](core_00.000_preamble.md#material-stake);
@@ -1497,7 +1497,7 @@ Documented participation barriers count under [Chapter Two §6 Trust and Trustwo
   - [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance),
   - [Contestability](core_03.035_band_accountability.md#contestability),
   - [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation),
-  - [Incentive Alignment](core_03.045_band_integrative.md#incentive-alignment),
+  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
   - [Reversibility](core_03.040_band_continuity.md#reversibility),
   - [Materiality](core_03.050_band_oversight.md#materiality),
   - [Dependency](core_03.040_band_continuity.md#dependency), and

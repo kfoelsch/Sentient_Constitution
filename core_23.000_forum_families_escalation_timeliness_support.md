@@ -108,7 +108,7 @@ Different disputes need different expertise, and some questions are too large fo
   - **[CF-22.405](corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-forum-formation-forum-structure-mapping-and-chamber-structure)** (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*);
   - **[CF-22.425](corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-22425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*) alignment rulings;
   - [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) for institution duties and supervised-scope language mirrored in the institutional family;
-  - [Chapter Three — Corpus](core_03.045_band_integrative.md#corpus) (3.045) (*implementation-file designation and custody terms for incorporated institution rules*).
+  - [Chapter Three — Corpus](subcore_03.045_band_integrative.md#corpus) (3.045) (*implementation-file designation and custody terms for incorporated institution rules*).
 - Within §3:
   - [§3.1](#31-sentient-forums);
   - [§3.2](#32-technical-forum-domains);

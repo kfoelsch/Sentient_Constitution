@@ -864,7 +864,7 @@ Transparency disclosures and stakeholder legibility
 - [Auditability](../core_03.050_band_oversight.md#auditability) · [O](../core_03.050_band_oversight.md#auditability) · [M](../core_03.050_band_oversight.md#auditability-a) · [A](../core_03.050_band_oversight.md#auditability-a) · [C](../core_03.050_band_oversight.md#auditability-c)
 - [Dependency](../core_03.040_band_continuity.md#dependency) · [O](../core_03.040_band_continuity.md#dependency) · [M](../core_03.040_band_continuity.md#dependency-a) · [A](../core_03.040_band_continuity.md#dependency-a) · [C](../core_03.040_band_continuity.md#dependency-c)
 - [Material](../core_03.050_band_oversight.md#material) · [O](../core_03.050_band_oversight.md#material) · [M](../core_03.050_band_oversight.md#material-a) · [A](../core_03.050_band_oversight.md#material-a) · [C](../core_03.050_band_oversight.md#material-c)
-- [Corpus](../core_03.045_band_integrative.md#corpus) · [O](../core_03.045_band_integrative.md#corpus) · [M](../core_03.045_band_integrative.md#corpus-a) · [A](../core_03.045_band_integrative.md#corpus-a) · [C](../core_03.045_band_integrative.md#corpus-c)
+- [Corpus](../subcore_03.045_band_integrative.md#corpus) · [O](../subcore_03.045_band_integrative.md#corpus) · [M](../subcore_03.045_band_integrative.md#corpus-a) · [A](../subcore_03.045_band_integrative.md#corpus-a) · [C](../subcore_03.045_band_integrative.md#corpus-c)
 - [System](../core_03.040_band_continuity.md#system) · [O](../core_03.040_band_continuity.md#system) · [M](../core_03.040_band_continuity.md#system-definition-a) · [A](../core_03.040_band_continuity.md#system-definition-a) · [C](../core_03.040_band_continuity.md#system-definition-c)
 
 </details>
@@ -966,7 +966,7 @@ Failure-integrity minimum
 *In plain terms: failure, degradation, and stress are expected operating conditions.*
 
 - **What it is**
-  - **In scope:** Failure, degradation, and stress are expected operating conditions. When full functionality cannot be maintained, systems must degrade in a controlled, bounded, observable, and non-escalatory manner that preserves [Constitutional Constraints](../core_03.045_band_integrative.md#constitutional-constraint).
+  - **In scope:** Failure, degradation, and stress are expected operating conditions. When full functionality cannot be maintained, systems must degrade in a controlled, bounded, observable, and non-escalatory manner that preserves [Constitutional Constraints](../subcore_03.045_band_integrative.md#constitutional-constraint).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in failure-integrity minimum.
 <a id="failure-integrity-minimum-a"></a>
 - **How to measure and assess**

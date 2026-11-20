@@ -322,7 +322,7 @@ Classification-scaled governance burden
     **Primary assessment:** Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
 <a id="classification-scaled-governance-burden-c"></a>
 - **What must hold**
-  - **Primary failure:** Apply a lower institutional burden than the highest applicable class or stewardship level for affected duties, or to treat multiple classes or stewardship levels as if the lowest burden governs when a burden with the [Fullest Protective Effect](../core_03.045_band_integrative.md#fullest-protective-effect) applies.
+  - **Primary failure:** Apply a lower institutional burden than the highest applicable class or stewardship level for affected duties, or to treat multiple classes or stewardship levels as if the lowest burden governs when a burden with the [Fullest Protective Effect](../subcore_03.045_band_integrative.md#fullest-protective-effect) applies.
 
 <a id="constitutional-lane-and-functional-separation"></a>
 Constitutional lane and functional separation

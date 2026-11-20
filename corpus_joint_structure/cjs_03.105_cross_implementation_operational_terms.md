@@ -23,8 +23,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Corpus](../core_03.045_band_integrative.md#corpus) · [O](../core_03.045_band_integrative.md#corpus) · [M](../core_03.045_band_integrative.md#corpus-a) · [A](../core_03.045_band_integrative.md#corpus-a) · [C](../core_03.045_band_integrative.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../core_03.045_band_integrative.md#authority-stack-a) · [A](../core_03.045_band_integrative.md#authority-stack-a) · [C](../core_03.045_band_integrative.md#authority-stack-c)
+- [Corpus](../subcore_03.045_band_integrative.md#corpus) · [O](../subcore_03.045_band_integrative.md#corpus) · [M](../subcore_03.045_band_integrative.md#corpus-a) · [A](../subcore_03.045_band_integrative.md#corpus-a) · [C](../subcore_03.045_band_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../subcore_03.045_band_integrative.md#authority-stack-a) · [A](../subcore_03.045_band_integrative.md#authority-stack-a) · [C](../subcore_03.045_band_integrative.md#authority-stack-c)
 
 </details>
 

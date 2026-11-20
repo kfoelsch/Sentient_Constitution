@@ -121,10 +121,10 @@
   "terms": [
     {
       "term": "Abstract Strictness",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#abstract-strictness",
-      "plain_terms": "abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](../../core_03.045_band_integrative.md#fullest-protective-effect).",
-      "href": "../../core_03.045_band_integrative.md#abstract-strictness"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#abstract-strictness"
     },
     {
       "term": "Accessibility",
@@ -233,10 +233,10 @@
     },
     {
       "term": "Authority Stack and Internal Hierarchy",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#authority-stack",
-      "plain_terms": "first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.",
-      "href": "../../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy"
     },
     {
       "term": "Autonomous Coercion Tool",
@@ -485,17 +485,17 @@
     },
     {
       "term": "Constitutional Collision",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#constitutional-collision",
-      "plain_terms": "a collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other. It is not a disagreement about facts, not a conflict between texts, and not a reason to drop a requirement. A real collision goes through the Constitutional Collision Resolution Process; a tension that disappears once each requirement is read in full is not a collision.",
-      "href": "../../core_03.045_band_integrative.md#constitutional-collision"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#constitutional-collision"
     },
     {
       "term": "Constitutional Collision Record",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#constitutional-collision-record",
-      "plain_terms": "a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.",
-      "href": "../../core_03.045_band_integrative.md#constitutional-collision-record"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#constitutional-collision-record"
     },
     {
       "term": "Constitutional Community",
@@ -506,17 +506,17 @@
     },
     {
       "term": "Constitutional Constraint",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "plain_terms": "a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice. Constraints come in ranked kinds: higher kinds control, and lower kinds must not narrow them.",
-      "href": "../../core_03.045_band_integrative.md#constitutional-constraint"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#constitutional-constraint"
     },
     {
       "term": "Constitutional Contract Layer",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#constitutional-contract-layer",
-      "plain_terms": "this is the layer that answers who may govern, by what legitimacy, and under what lasting terms — not ordinary consultation, usage, or branding.",
-      "href": "../../core_03.045_band_integrative.md#constitutional-contract-layer"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#constitutional-contract-layer"
     },
     {
       "term": "Constitutional Efficiency",
@@ -590,10 +590,10 @@
     },
     {
       "term": "Corpus",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#corpus",
-      "plain_terms": "the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies. It has three tiers: the core chapters, written to be read; the subcore, which holds the full detail that must be the same for every adopter and binds exactly as the core does; and adopted implementation text, which may differ between adopters and binds only as adopted.",
-      "href": "../../core_03.045_band_integrative.md#corpus"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#corpus"
     },
     {
       "term": "Creative Work Attribution",
@@ -632,10 +632,10 @@
     },
     {
       "term": "Derived Information",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#derived-information",
-      "plain_terms": "derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a \"de-identified\" or \"aggregate\" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.",
-      "href": "../../core_03.045_band_integrative.md#derived-information"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#derived-information"
     },
     {
       "term": "Derived Sentient",
@@ -674,10 +674,10 @@
     },
     {
       "term": "Documented Legitimacy Mechanism",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#documented-legitimacy-mechanism",
-      "plain_terms": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the official record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
-      "href": "../../core_03.045_band_integrative.md#documented-legitimacy-mechanism"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#documented-legitimacy-mechanism"
     },
     {
       "term": "Domain-Specific Materiality",
@@ -919,10 +919,10 @@
     },
     {
       "term": "Foundational Constitutional Choice",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#foundational-constitutional-choice",
-      "plain_terms": "decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.",
-      "href": "../../core_03.045_band_integrative.md#foundational-constitutional-choice"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#foundational-constitutional-choice"
     },
     {
       "term": "Freedom (Bounded Agency)",
@@ -947,10 +947,10 @@
     },
     {
       "term": "Fullest Protective Effect",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#fullest-protective-effect",
-      "plain_terms": "when two readings or two rules apply to the same thing, pick the one that protects sentients most when everything is taken together. Do not pick the one that only sounds harsher. This one test applies wherever the corpus chooses between readings or rules.",
-      "href": "../../core_03.045_band_integrative.md#fullest-protective-effect"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#fullest-protective-effect"
     },
     {
       "term": "Game of Chance",
@@ -1066,38 +1066,38 @@
     },
     {
       "term": "Incentive Alignment",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#incentive-alignment",
-      "plain_terms": "rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.",
-      "href": "../../core_03.045_band_integrative.md#incentive-alignment"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#incentive-alignment"
     },
     {
       "term": "Incentive Alignment — Baseline Constitutional Alignment",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "plain_terms": "incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.",
-      "href": "../../core_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment"
     },
     {
       "term": "Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "plain_terms": "bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.",
-      "href": "../../core_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets"
     },
     {
       "term": "Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "plain_terms": "check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.",
-      "href": "../../core_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation"
     },
     {
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
       "plain_terms": null,
-      "href": "../../core_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement"
+      "href": "../../subcore_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement"
     },
     {
       "term": "Independence",
@@ -1136,10 +1136,10 @@
     },
     {
       "term": "Innovation Reward and Anti-Enclosure",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
-      "plain_terms": "reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.",
-      "href": "../../core_03.045_band_integrative.md#innovation-reward-and-anti-enclosure"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure"
     },
     {
       "term": "Insider Advantage",
@@ -1423,17 +1423,17 @@
     },
     {
       "term": "Misaligned Reward Correction",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#misaligned-reward-correction",
-      "plain_terms": "once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Sixteen decides how they are forfeited, clawed back, reported, and corrected.",
-      "href": "../../core_03.045_band_integrative.md#misaligned-reward-correction"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#misaligned-reward-correction"
     },
     {
       "term": "Misalignment Detection",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#misalignment-detection",
-      "plain_terms": "no one gets to be the only one who can spot, check, or challenge when governance goes wrong. Detection needs many independent eyes.",
-      "href": "../../core_03.045_band_integrative.md#misalignment-detection"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#misalignment-detection"
     },
     {
       "term": "Movement and Relocation",
@@ -1472,17 +1472,17 @@
     },
     {
       "term": "No-Bypass",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#no-bypass",
-      "plain_terms": "a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution. Whether a requirement was met is judged on checkable evidence of what the act does, not on its own label or paperwork.",
-      "href": "../../core_03.045_band_integrative.md#no-bypass"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#no-bypass"
     },
     {
       "term": "Non-Compliance",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#non-compliance",
-      "plain_terms": "a system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.",
-      "href": "../../core_03.045_band_integrative.md#non-compliance"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#non-compliance"
     },
     {
       "term": "Non-Compliance Finding Profile",
@@ -1528,10 +1528,10 @@
     },
     {
       "term": "Open Systems, Data, and Auditing",
-      "file": "core_03.045_band_integrative.md",
+      "file": "subcore_03.045_band_integrative.md",
       "anchor": "#open-systems-data-and-auditing",
-      "plain_terms": "the information needed to check governance must stay open. Affected sentients can see and verify it, unless the rules on protected information say otherwise.",
-      "href": "../../core_03.045_band_integrative.md#open-systems-data-and-auditing"
+      "plain_terms": null,
+      "href": "../../subcore_03.045_band_integrative.md#open-systems-data-and-auditing"
     },
     {
       "term": "Openness Aspiration",

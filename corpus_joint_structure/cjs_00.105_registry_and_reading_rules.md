@@ -7,7 +7,7 @@
 > - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
 > **Status**
-> - This is **not** a core constitutional file. It is still part of the constitutional **Corpus** where [Chapter Three](../core_03.045_band_integrative.md#corpus) and [Chapter Thirty](../core_30.000_incorporation.md#chapter-thirty-incorporation-bridge) say implementation text is binding when adopted.
+> - This is **not** a core constitutional file. It is still part of the constitutional **Corpus** where [Chapter Three](../subcore_03.045_band_integrative.md#corpus) and [Chapter Thirty](../core_30.000_incorporation.md#chapter-thirty-incorporation-bridge) say implementation text is binding when adopted.
 > - The CJS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
@@ -106,7 +106,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and the [Fullest Protective Effect](../core_03.045_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.105 §1** (*Cross-File Routing*)). Domain-specific joint rules: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*)–**CJS-6.105 §11** (*Classification Alignment for Supervised Scope*).
+Applicability, combined satisfaction, and the [Fullest Protective Effect](../subcore_03.045_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.105 §1** (*Cross-File Routing*)). Domain-specific joint rules: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*)–**CJS-6.105 §11** (*Classification Alignment for Supervised Scope*).
 
 **Topic finder**
 
@@ -183,8 +183,8 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Corpus](../core_03.045_band_integrative.md#corpus) · [O](../core_03.045_band_integrative.md#corpus) · [M](../core_03.045_band_integrative.md#corpus-a) · [A](../core_03.045_band_integrative.md#corpus-a) · [C](../core_03.045_band_integrative.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../core_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../core_03.045_band_integrative.md#authority-stack-a) · [A](../core_03.045_band_integrative.md#authority-stack-a) · [C](../core_03.045_band_integrative.md#authority-stack-c)
+- [Corpus](../subcore_03.045_band_integrative.md#corpus) · [O](../subcore_03.045_band_integrative.md#corpus) · [M](../subcore_03.045_band_integrative.md#corpus-a) · [A](../subcore_03.045_band_integrative.md#corpus-a) · [C](../subcore_03.045_band_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../subcore_03.045_band_integrative.md#authority-stack-a) · [A](../subcore_03.045_band_integrative.md#authority-stack-a) · [C](../subcore_03.045_band_integrative.md#authority-stack-c)
 
 </details>
 
@@ -228,8 +228,8 @@ For sequential reading, follow the previous and next links from the [Joint Struc
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Corpus](../core_03.045_band_integrative.md#corpus) · [O](../core_03.045_band_integrative.md#corpus) · [M](../core_03.045_band_integrative.md#corpus-a) · [A](../core_03.045_band_integrative.md#corpus-a) · [C](../core_03.045_band_integrative.md#corpus-c)
-- [Incentive Alignment](../core_03.045_band_integrative.md#incentive-alignment) · [O](../core_03.045_band_integrative.md#incentive-alignment) · [M](../core_03.045_band_integrative.md#incentive-alignment-a) · [A](../core_03.045_band_integrative.md#incentive-alignment-a) · [C](../core_03.045_band_integrative.md#incentive-alignment-c)
+- [Corpus](../subcore_03.045_band_integrative.md#corpus) · [O](../subcore_03.045_band_integrative.md#corpus) · [M](../subcore_03.045_band_integrative.md#corpus-a) · [A](../subcore_03.045_band_integrative.md#corpus-a) · [C](../subcore_03.045_band_integrative.md#corpus-c)
+- [Incentive Alignment](../subcore_03.045_band_integrative.md#incentive-alignment) · [O](../subcore_03.045_band_integrative.md#incentive-alignment) · [M](../subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](../subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](../subcore_03.045_band_integrative.md#incentive-alignment-c)
 - [Auditability](../core_03.050_band_oversight.md#auditability) · [O](../core_03.050_band_oversight.md#auditability) · [M](../core_03.050_band_oversight.md#auditability-a) · [A](../core_03.050_band_oversight.md#auditability-a) · [C](../core_03.050_band_oversight.md#auditability-c)
 - [Risk](../core_03.040_band_continuity.md#risk) · [O](../core_03.040_band_continuity.md#risk) · [M](../core_03.040_band_continuity.md#risk-a) · [A](../core_03.040_band_continuity.md#risk-a) · [C](../core_03.040_band_continuity.md#risk-c)
 
@@ -243,7 +243,7 @@ For sequential reading, follow the previous and next links from the [Joint Struc
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../core_03.045_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../subcore_03.045_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
@@ -278,7 +278,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Corpus](../core_03.045_band_integrative.md#corpus) · [O](../core_03.045_band_integrative.md#corpus) · [M](../core_03.045_band_integrative.md#corpus-a) · [A](../core_03.045_band_integrative.md#corpus-a) · [C](../core_03.045_band_integrative.md#corpus-c)
+- [Corpus](../subcore_03.045_band_integrative.md#corpus) · [O](../subcore_03.045_band_integrative.md#corpus) · [M](../subcore_03.045_band_integrative.md#corpus-a) · [A](../subcore_03.045_band_integrative.md#corpus-a) · [C](../subcore_03.045_band_integrative.md#corpus-c)
 - [Auditability](../core_03.050_band_oversight.md#auditability) · [O](../core_03.050_band_oversight.md#auditability) · [M](../core_03.050_band_oversight.md#auditability-a) · [A](../core_03.050_band_oversight.md#auditability-a) · [C](../core_03.050_band_oversight.md#auditability-c)
 
 </details>

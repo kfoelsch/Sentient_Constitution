@@ -71,7 +71,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 ### 6. Accountability
 
-**Ask:** Are incentives structured so cooperating is not a sucker’s payoff? In particular: [Incentive Alignment](../../core_03.045_band_integrative.md#incentive-alignment), and Contribution and Violation measured on **separate** axes (verified help does not erase verified harm).
+**Ask:** Are incentives structured so cooperating is not a sucker’s payoff? In particular: [Incentive Alignment](../../subcore_03.045_band_integrative.md#incentive-alignment), and Contribution and Violation measured on **separate** axes (verified help does not erase verified harm).
 
 **Named homes (start here):** [Accountability measurement family](../../core_03.005_apex_accountability_leg.md#measuring-accountability); [Chapter Two §19](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); [Chapter Fourteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (Contribution Axis / Violation Axis).
 
