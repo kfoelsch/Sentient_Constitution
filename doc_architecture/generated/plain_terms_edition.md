@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **590** of **1023** headings carry a gloss (58%).
+Coverage: **590** of **1010** headings carry a gloss (58%).
 
 ## Contents
 
@@ -39,7 +39,7 @@ Coverage: **590** of **1023** headings carry a gloss (58%).
 - [CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-two-standards-routing-and-forum-cases) — `core_22.000_forum.md` (6/34 glossed)
 - [CHAPTER TWENTY-THREE: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT](#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support) — `core_23.000_forum_families_escalation_timeliness_support.md` (7/26 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (8/9 glossed)
-- [CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT](#chapter-twenty-five-special-enforcement) — `core_25.000_special_enforcement.md` (6/23 glossed)
+- [CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT](#chapter-twenty-five-special-enforcement) — `core_25.000_special_enforcement.md` (6/10 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.010_rights_part_b.md` (46/47 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
@@ -4645,7 +4645,7 @@ freezing or seizing money or property, anything that could turn violent, and fix
 
 ## CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT
 
-Source file: [`core_25.000_special_enforcement.md`](../../core_25.000_special_enforcement.md) · 6/23 headings glossed
+Source file: [`core_25.000_special_enforcement.md`](../../core_25.000_special_enforcement.md) · 6/10 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -4689,89 +4689,11 @@ money and property are frozen or taken so that harm can be repaired. Before taki
 
 [Source](../../core_25.000_special_enforcement.md#4-money-assets-and-seizure)
 
-##### 4.1 Freezes
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#41-freezes)
-
-##### 4.2 The Protected Minimum
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#42-the-protected-minimum)
-
-##### 4.3 Seizure, Third Parties, and Return
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#43-seizure-third-parties-and-return)
-
-##### 4.4 Hidden Assets and Institutions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#44-hidden-assets-and-institutions)
-
 #### 5. Potential Violence and Force
 
 where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained enforcement bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.
 
 [Source](../../core_25.000_special_enforcement.md#5-potential-violence-and-force)
-
-##### 5.1 Who May Use Force
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#51-who-may-use-force)
-
-##### 5.2 Before Force
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#52-before-force)
-
-##### 5.3 Limits on Force
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#53-limits-on-force)
-
-##### 5.4 The Force Ladder
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#54-the-force-ladder)
-
-##### 5.5 Pace: Active Attack and Standoff
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#55-pace-active-attack-and-standoff)
-
-##### 5.6 Protecting Life and Others
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#56-protecting-life-and-others)
-
-##### 5.7 How It Ends
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#57-how-it-ends)
-
-##### 5.8 When Someone Dies
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#58-when-someone-dies)
-
-##### 5.9 Record, Review, and Care
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#59-record-review-and-care)
 
 #### 6. Root-Cause Evaluation
 

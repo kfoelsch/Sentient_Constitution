@@ -866,6 +866,20 @@
       "pre_reorganization_2026_11_20": "26000"
     },
     {
+      "old_id": "Chapter 25 §§4-6",
+      "original_file": "core_25.000_special_enforcement.md",
+      "machine_id": "SUB-25010",
+      "display_id": "S25-A",
+      "layer": "SUBCORE",
+      "core_home": "25",
+      "title": "S25-A",
+      "destination_file": "subcore_25.010_special_enforcement_procedure.md",
+      "status": "active",
+      "machine_number": "25010",
+      "layer_digit": "0",
+      "ordinal_name": "S25-A"
+    },
+    {
       "old_id": "Chapter 14",
       "original_file": "core_14_governance.md",
       "machine_id": "26000",

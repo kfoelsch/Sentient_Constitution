@@ -3,7 +3,7 @@
   "effective_date": "2026-10-21",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 1023,
+  "heading_count": 1010,
   "glossed_count": 590,
   "files": [
     {
@@ -1016,7 +1016,7 @@
     {
       "file": "core_25.000_special_enforcement.md",
       "title": "CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT",
-      "heading_count": 23,
+      "heading_count": 10,
       "glossed_count": 6,
       "sections": [
         {"file":"core_25.000_special_enforcement.md","level":1,"title":"CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT","anchor":"chapter-twenty-five-special-enforcement","line":1,"gloss":null,"gloss_line":null},
@@ -1027,21 +1027,8 @@
         {"file":"core_25.000_special_enforcement.md","level":4,"title":"3.2 How to Act","anchor":"32-how-to-act","line":111,"gloss":null,"gloss_line":null},
         {"file":"core_25.000_special_enforcement.md","level":4,"title":"3.3 Checks and Care","anchor":"33-checks-and-care","line":127,"gloss":null,"gloss_line":null},
         {"file":"core_25.000_special_enforcement.md","level":3,"title":"4. Money, Assets, and Seizure","anchor":"4-money-assets-and-seizure","line":142,"gloss":"money and property are frozen or taken so that harm can be repaired. Before taking anything, freeze it. A freeze has an end date. What a sentient needs to live is not taken, unless they threaten violence and refuse to surrender. Anyone else with a claim gets heard. Anything taken goes to fixing the harm, never to the enforcement body that took it, and anything taken in excess is given back.","gloss_line":144},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"4.1 Freezes","anchor":"41-freezes","line":149,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"4.2 The Protected Minimum","anchor":"42-the-protected-minimum","line":157,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"4.3 Seizure, Third Parties, and Return","anchor":"43-seizure-third-parties-and-return","line":167,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"4.4 Hidden Assets and Institutions","anchor":"44-hidden-assets-and-institutions","line":183,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":3,"title":"5. Potential Violence and Force","anchor":"5-potential-violence-and-force","line":191,"gloss":"where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained enforcement bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.","gloss_line":193},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.1 Who May Use Force","anchor":"51-who-may-use-force","line":198,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.2 Before Force","anchor":"52-before-force","line":208,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.3 Limits on Force","anchor":"53-limits-on-force","line":217,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.4 The Force Ladder","anchor":"54-the-force-ladder","line":225,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.5 Pace: Active Attack and Standoff","anchor":"55-pace-active-attack-and-standoff","line":248,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.6 Protecting Life and Others","anchor":"56-protecting-life-and-others","line":262,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.7 How It Ends","anchor":"57-how-it-ends","line":272,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.8 When Someone Dies","anchor":"58-when-someone-dies","line":284,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":4,"title":"5.9 Record, Review, and Care","anchor":"59-record-review-and-care","line":296,"gloss":null,"gloss_line":null},
-        {"file":"core_25.000_special_enforcement.md","level":3,"title":"6. Root-Cause Evaluation","anchor":"6-root-cause-evaluation","line":304,"gloss":"when enforcement keeps failing in the same way, someone independent finds out why. They look at design, incentives, and capacity, not just at the individuals involved. What they find is published, and a plan to fix it gets deadlines.","gloss_line":306}
+        {"file":"core_25.000_special_enforcement.md","level":3,"title":"5. Potential Violence and Force","anchor":"5-potential-violence-and-force","line":156,"gloss":"where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained enforcement bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.","gloss_line":158},
+        {"file":"core_25.000_special_enforcement.md","level":3,"title":"6. Root-Cause Evaluation","anchor":"6-root-cause-evaluation","line":174,"gloss":"when enforcement keeps failing in the same way, someone independent finds out why. They look at design, incentives, and capacity, not just at the individuals involved. What they find is published, and a plan to fix it gets deadlines.","gloss_line":176}
       ]
     },
     {

@@ -69,6 +69,7 @@ CORE_CHAIN = (
     "core_23.000_forum_families_escalation_timeliness_support.md",
     "core_24.000_enforcement.md",
     "core_25.000_special_enforcement.md",
+    "subcore_25.010_special_enforcement_procedure.md",
     "core_26.000_governance.md",
     "subcore_26.010_governance_disclosure.md",
     "core_27.000_non_regression.md",
