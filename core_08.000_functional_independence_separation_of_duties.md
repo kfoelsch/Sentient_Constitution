@@ -618,7 +618,7 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 
 <br>
 
-*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too, it keeps a reserve so that a political fight over a budget cannot shut it down, and any cut in hard times follows a rule published in advance. Its members are drawn by lot from everyone who passes a published competency test, so no one who wants to steer it can choose who sits on it. Because it often sees personal data, it publishes patterns about groups, never details about individuals, and never turns that data against those who gave it. Outside auditors check its books and its work, and anyone it harms can challenge it before a forum that is not itself affected. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
+*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too, it keeps a reserve so that a political fight over a budget cannot shut it down, and any cut in hard times follows a rule published in advance. Its members are drawn by lot from everyone who passes a published competency test, so no one who wants to steer it can choose who sits on it. Because it often sees personal data, it publishes patterns about groups, never details about individuals, and never turns that data against those who gave it. Outside auditors check its books and its work, and anyone it harms can challenge it before a forum that is not itself affected. A small community may share or borrow such a body, but none of these protections shrink when it does. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
 
 **Naming a body:** A body is an **Independent Body** when this Constitution, or designated implementation text, names it as one by citing this section. The designating text states what the body does. It may add stronger requirements. It may not narrow this section.
 
@@ -680,11 +680,14 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
 
-**Scaling:** [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) applies. A small adopter may place an Independent Body's seats in fewer hands, share buildings, clerks, and systems with other bodies, or use another adopter's Independent Body by published agreement if that body meets this section. Even where hosting is merged or shared:
+**Scaling:** [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) applies. A small adopter may place an Independent Body's seats in fewer hands, share buildings, clerks, and systems with other bodies, or use another adopter's Independent Body, or its published work, by published agreement if that body meets this section. Even where hosting is merged or shared:
 
 - the verify-or-authorize seat for the body's binding acts stays outside the body;
-- its decision-makers stay separate from the bodies it funds, checks, or measures, and from any Independent Body that funds, checks, or measures it; and
-- *Protected funding*, including the reserve, applies in full.
+- its decision-makers stay separate from the bodies it serves, funds, checks, or measures, and from any Independent Body that funds, checks, or measures it;
+- *Protected funding*, including the reserve, applies in full;
+- *Appointment by sortition* applies. Where the adopter's own pool is too thin, it draws from a pool shared with other adopters, or opens its pool to candidates from outside who pass the same competency gate, before it may use *Other methods*;
+- *Information handling and privacy* and *Audit and challenge* apply in full, and the auditors stay outside any shared host; and
+- where an adopter uses another adopter's Independent Body, the published agreement keeps every sentient of the using adopter's challenge route and privacy protections, and says what the using adopter pays toward the body's floor and reserve.
 
 ---
 

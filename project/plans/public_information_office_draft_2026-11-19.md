@@ -323,6 +323,6 @@ A shortfall never suspends the *Methods first* or *Equal release* rules of §4. 
 
 ### 11. Proportional Scaling
 
-*In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent.*
+*In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent. The general rule for every independent body lives in Chapter Eight.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing administration under **CF-23.470 §5** and using another adopter's office by published agreement, if that office also meets this chapter. Even when hosting is merged, the office keeps decision-makers separate from every forum whose research it runs.
+The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing administration under **CF-23.470 §5**. An adopter that uses another adopter's office, or its published figures, states the rung of each figure it relies on, and a figure measured for another population keeps its rung only for that population unless the method reviewer shows that it carries over.
