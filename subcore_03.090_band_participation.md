@@ -1461,7 +1461,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
       - lawful employment, employment history, lawful work status, lack of employment, or protected association.
     - **Economic and social station:** economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity.
     - **Open texture:** any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) and [Sentience Evaluation](subcore_03.090_band_participation.md#sentience-evaluation-e) requirements.
-  - **Data types:** Stored or inferred protected-characteristic attributes are [**Type I**](corpus_systems/cs_04.310_data_classifications.md#95-type-i-identity-and-attribution-data) where they attach to an identifiable sentient. Intimate, health, belief, or comparable inferences that reveal internal states are also [**Type N**](corpus_systems/cs_04.310_data_classifications.md#96-type-n-neurocognitive-and-internal-data). Proxy or correlate data used to infer a characteristic takes the type of what it reveals ([CS-4.305 Part A §2](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-2-determination-of-classification) (*Determination of Classification*)).
+  - **Data types:** Stored or inferred protected-characteristic attributes are [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data) where they attach to an identifiable sentient. Intimate, health, belief, or comparable inferences that reveal internal states are also [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data). Proxy or correlate data used to infer a characteristic takes the type of what it reveals ([Subcore 4-A §2](subcore_04.050_data_types.md#2-determination-of-classification) (*Determination of Classification*)).
   - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion; exploitation, trafficking, lack of [Consent, Sexual](subcore_03.090_band_participation.md#consent-sexual), or other independent harm predicates outside consensual adult private sexual conduct.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
@@ -1549,7 +1549,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
       - material disadvantage;
       - exclusion; or
       - neutral-form circumvention of the decriminalization floor.
-  - **Data types:** Intimate media, sexual-history signals, and intimate-status inferences are [**Type I**](corpus_systems/cs_04.310_data_classifications.md#95-type-i-identity-and-attribution-data) where they attach to an identifiable sentient, and [**Type N**](corpus_systems/cs_04.310_data_classifications.md#96-type-n-neurocognitive-and-internal-data) where they infer intimate or internal states. The more protective handling governs ([CS-4.305 Part A §2](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-2-determination-of-classification) (*Determination of Classification*)).
+  - **Data types:** Intimate media, sexual-history signals, and intimate-status inferences are [**Type I**](subcore_04.050_data_types.md#85-type-i-identity-and-attribution-data) where they attach to an identifiable sentient, and [**Type N**](subcore_04.050_data_types.md#86-type-n-neurocognitive-and-internal-data) where they infer intimate or internal states. The more protective handling governs ([Subcore 4-A §2](subcore_04.050_data_types.md#2-determination-of-classification) (*Determination of Classification*)).
   - **Out of scope:**
     - narrow documented safeguarding uses that meet necessity and proportionality;
     - ordinary trait discrimination that does not use intimate signals;
@@ -1573,7 +1573,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) is required. Such workflows must remain consistent with:
     - **Article VII-A** (*Self-Ownership of Body*);
     - **Article XVII-A** (*Auditability and Observable Evidence*);
-    - [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications);
+    - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*);
     - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing);
     - [Contestability](subcore_03.070_band_accountability.md#contestability);
     - [Transparency](subcore_03.085_band_oversight.md#transparency); and

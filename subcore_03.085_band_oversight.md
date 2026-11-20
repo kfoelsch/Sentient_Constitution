@@ -1136,7 +1136,7 @@ See **Anti-Segmentation Principle**.
   - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure),
   - [Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure),
   - [Verifiability](subcore_03.085_band_oversight.md#verifiability), and **
-  - [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (**Type O** — open public oversight baseline disclosure data).
+  - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -1196,8 +1196,8 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: **
-  - [CS-4.305 §7](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-7-type-o-baseline-for-class-abc-systems)** (*Type O Baseline for Class A/B/C Systems*); **
-  - [CS-4.310 Part B §9.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_04.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
+  - [Subcore 4-A §7](subcore_04.050_data_types.md#7-type-o-baseline-for-class-abc-systems)** (*Type O Baseline for Class A/B/C Systems*); **
+  - [Subcore 4-A §8.3 Type O (open, public oversight baseline disclosure data)](subcore_04.050_data_types.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
   - [Chapter Eight §4.4](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) (*Data Types and Handling Evaluation*);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*System Certification Record*);
   - [Chapter Ten §3.2](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*Transparency and Auditability of the System Certification Record*) and
@@ -1214,7 +1214,7 @@ See **Anti-Segmentation Principle**.
   - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record),
   - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record),
   - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance), and **
-  - [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (**Type O**).
+  - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (**Type O**).
 
 </details>
 
@@ -1250,7 +1250,7 @@ See **Anti-Segmentation Principle**.
     - **Type E** holds survival- and coordination-critical content streams; **Type G** holds audit-accessible governance and operational source that is not public by default.
     - Neither **Type E** nor **Type G** is itself the public floor.
     - Published baseline artifacts drawn from them — including substitutes — are **Type O**; underlying streams may remain under their original type.
-    - Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** as **Type O**.
+    - Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** as **Type O**.
   - **Out of scope:**
     - raw **Type G**, **Type E**, or other restricted source records — publishing a public substitute derived from them does not bring those raw records into this disclosure floor;
     - [Auditability](subcore_03.085_band_oversight.md#auditability) structured or qualified audit access as such — that is not itself the public floor; or
@@ -1260,7 +1260,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](subcore_03.075_band_continuity.md#system-charter), assigned class, and [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-4.305 §7 type O baseline for Class A/B/C systems](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-7-type-o-baseline-for-class-abc-systems)**, confirm:
+    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](subcore_03.075_band_continuity.md#system-charter), assigned class, and [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[Subcore 4-A §7 type O baseline for Class A/B/C systems](subcore_04.050_data_types.md#7-type-o-baseline-for-class-abc-systems)**, confirm:
     - a usable public view of the [System Charter](subcore_03.075_band_continuity.md#system-charter), [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), and [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [Contestability](subcore_03.070_band_accountability.md#contestability); and
@@ -1276,14 +1276,14 @@ See **Anti-Segmentation Principle**.
     - hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 <a id="public-oversight-baseline-disclosure-c"></a>
 - **What must hold**
-  - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*).
+  - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under Subcore 4-A (*Data Types*).
   - **Secondary failure:**
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [System Charter](subcore_03.075_band_continuity.md#system-charter), [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-4.305 §7 type O baseline for Class A/B/C systems](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-7-type-o-baseline-for-class-abc-systems)**; or
+    - omitting a usable public view of the [System Charter](subcore_03.075_band_continuity.md#system-charter), [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[Subcore 4-A §7 type O baseline for Class A/B/C systems](subcore_04.050_data_types.md#7-type-o-baseline-for-class-abc-systems)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
-  - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) and [Transparency](subcore_03.085_band_oversight.md#transparency).
+  - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under Subcore 4-A (*Data Types*) and [Transparency](subcore_03.085_band_oversight.md#transparency).
 
 ---
 
@@ -1760,10 +1760,10 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
-    **Primary assessment:** Publication must not bypass **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
+    **Primary assessment:** Publication must not bypass **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **What must hold**
-  - **Primary failure:** publication that violates restricted-data rules, bypasses CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) handling, or exposes protected internal states contrary to [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary).
+  - **Primary failure:** publication that violates restricted-data rules, bypasses Subcore 4-A (*Data Types*) handling, or exposes protected internal states contrary to [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 
@@ -1813,11 +1813,11 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - adversarial manipulation.
   - **Secondary measure:** Good-faith researcher publication routes and deferred exploit-detail timing — co-measures under **Type S** deferred disclosure and **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*).
 
-    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, and **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*).
+    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, and **CJS-3.135 §22** (*constrained-secrecy and protected-investigation terms*).
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
-  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) — Information types and handling **Type O** summary rules.
+  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under Subcore 4-A (*Data Types*) **Type O** summary rules.
   - **Primary failure:** consistent with **Subcores 3-A to 3-C**, **Chapter Two**, [Risk](subcore_03.075_band_continuity.md#risk), [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), and [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions):
     - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
     - suppressing low-risk good-faith researcher publication; or

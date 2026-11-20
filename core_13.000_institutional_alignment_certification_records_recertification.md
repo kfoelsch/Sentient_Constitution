@@ -85,7 +85,7 @@ Institutions merge, split, change owners, and change leaders. A certification th
   - [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3), including [§3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) and [§3.2 Transparency and Auditability of the System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
   - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
-  - [CS-4.310 Part B §9.3 Type O](corpus_systems/cs_04.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data).
+  - [Subcore 4-A §8.3 Type O](subcore_04.050_data_types.md#83-type-o-open-public-oversight-baseline-disclosure-data).
 - Downstream: [§4](#4-recertification-and-reopening); [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing).
 - Read with:
   - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
@@ -134,7 +134,7 @@ A System Certification Record alone, or an Institution's own report or attestati
 
 The integrity rules of [Chapter Ten §3.2 Transparency and Auditability of the System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) apply to the Institutional Certification Record.
 
-**Type O.** The completed Institutional Certification Record is **Type O** certification data. It is published at public-baseline fidelity, with lawful substitutes, under [CS-4.310 Part B §9.3 Type O](corpus_systems/cs_04.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data).
+**Type O.** The completed Institutional Certification Record is **Type O** certification data. It is published at public-baseline fidelity, with lawful substitutes, under [Subcore 4-A §8.3 Type O](subcore_04.050_data_types.md#83-type-o-open-public-oversight-baseline-disclosure-data).
 
 <a id="4-recertification-and-reopening"></a>
 

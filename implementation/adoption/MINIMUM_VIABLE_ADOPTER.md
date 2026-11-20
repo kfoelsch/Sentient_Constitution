@@ -280,7 +280,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **CS-8.305 and Subcore 8-A** classification | Always, if you claim a class. Honesty about Class *X* is a prerequisite for every profile below |
 | **CS-26.305** critical-system stewardship | Class A/B (and Class C where gated) |
 | **CS-4.350** migration | **After** a recorded adoption document, not before |
-| **CS-4.305 onward-transfer rule** (core personal data) | Always, for any body that holds core personal data about sentients. A stock held to sell or compile, or inherited, is wound down in the body's transition plan. See [CS-4.305 §5.0 Access-posture bands](../../corpus_systems/cs_04.305_information_types_and_handling.md#onward-transfer-of-type-h-and-type-i-data) |
+| **CS-4.305 onward-transfer rule** (core personal data) | Always, for any body that holds core personal data about sentients. A stock held to sell or compile, or inherited, is wound down in the body's transition plan. See [Subcore 4-A §5.0 Access-posture bands](../../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data) |
 
 ---
 

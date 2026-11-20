@@ -55,7 +55,7 @@ Some topics are **deliberately** split across implementation files — for examp
 
 - the **primary owner** states the **full operative** rules for the scope that row assigns to it;
 - **CJS** text for the same topic adds **joint satisfaction conditions**, **read-with pointers**, and **interface requirements** only when **CJS** is not the **primary owner** for that row;
-- do **not** restate **oDef** / **CJS-3.105** (*operational cluster library (oDef)*) clusters and their leg files, **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*)/**CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
+- do **not** restate **oDef** / **CJS-3.105** (*operational cluster library (oDef)*) clusters and their leg files, **Subcore 4-A** (*Data Types*)/**CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
 
 Domain-layer overlap discipline: apply [Institutions Overlap Discipline](../corpus_institutions/ci_00.205_registry_and_reading_rules.md#institutions-overlap-discipline), [Forums Overlap Discipline](../corpus_forum/cf_00.405_registry_and_reading_rules.md#forums-overlap-discipline), and [Systems Overlap Discipline](../corpus_systems/cs_00.305_registry_and_reading_rules.md#systems-overlap-discipline) in the respective registry annexes.
 

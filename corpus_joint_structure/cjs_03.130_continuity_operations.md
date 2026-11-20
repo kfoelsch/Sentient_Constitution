@@ -266,7 +266,7 @@ Substitutability, exit constraints, and mitigation duties
   - **CJS-3.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*);
   - **CJS-3.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
   - **CI-4.205 §3** (*Digital Self-Service Pathway Integrity*).
-- Read with: [**CS-4.305**](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*)
+- Read with: [**CS-4.305**](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)
 - Read with: [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*)
 - Read with: [**CS-26.305**](../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship) (*Critical system stewardship*)
 - Read with: [Article XXII](../core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*)
@@ -322,7 +322,7 @@ Access-preserving reward and anti-warehousing controls
 *In plain terms: Where feasible reward mechanisms differ, prefer the least restrictive one that can sustain innovation; the Type T use-it-or-return-it rule applies where relevant.*
 
 - **What it is**
-  - **In scope:** Where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, compulsory-access tools, or equivalent public-access regimes before broad exclusion rights for high-dependency domains. Where rights in a work have been assigned as **Type T**, the use-it-or-return-it rule in [CS-4.310 Part B §9.12.1](../corpus_systems/cs_04.310_data_classifications.md#9121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*) applies.
+  - **In scope:** Where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, compulsory-access tools, or equivalent public-access regimes before broad exclusion rights for high-dependency domains. Where rights in a work have been assigned as **Type T**, the use-it-or-return-it rule in [Subcore 4-A §8.12.1](../subcore_04.050_data_types.md#8121-type-t-access-and-handling-duties) (*Type T Access and Handling Duties*) applies.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-preserving reward and anti-warehousing.
 <a id="access-preserving-reward-and-anti-warehousing-controls-a"></a>
 - **How to measure and assess**
@@ -620,7 +620,7 @@ Right-to-exit pathway integrity
   - **CJS-3.130 §20** (*Continuity: Reversibility and Containment Terms*);
   - **CJS-3.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
-- Read with: [**CS-4.305**](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
+- Read with: [**CS-4.305**](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter Two basis: §15.2, §18.2, §19.1, §15, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -701,16 +701,16 @@ Anti-surveillance and anti-coercion accumulation limits
 <a id="classification-and-information-type-alignment"></a>
 Classification and information-type alignment
 
-*In plain terms: if accumulated, linked, or inferred data changes its data type under **CS-4.305** (*Information types and handling*) and **CS-4.310** (*Data classifications*) or becomes more sensitive in practice, stricter protections apply.*
+*In plain terms: if accumulated, linked, or inferred data changes its data type under **Subcore 4-A** (*Data Types*) or becomes more sensitive in practice, stricter protections apply.*
 
 - **What it is**
-  - **In scope:** If accumulated, linked, or inferred data changes its data type under **CS-4.305** (*Information types and handling*) and **CS-4.310** (*Data classifications*) or becomes more sensitive in practice, stricter protections apply.
+  - **In scope:** If accumulated, linked, or inferred data changes its data type under **Subcore 4-A** (*Data Types*) or becomes more sensitive in practice, stricter protections apply.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification and information-type alignment.
 <a id="classification-and-information-type-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** alignment with **CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) — Data classifications** data-type duties and **CJS-6.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap
+  - **Primary measure:** alignment with **Subcore 4-A** (*Data Types*) data-type duties and **CJS-6.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap
 
-    **Primary assessment:** Reviewers must verify alignment with **CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) — Data classifications** data-type duties and **CJS-6.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
+    **Primary assessment:** Reviewers must verify alignment with **Subcore 4-A** (*Data Types*) data-type duties and **CJS-6.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 <a id="classification-and-information-type-alignment-c"></a>
 - **What must hold**
   - **Primary failure:** Continuing to use lower-type or lower-class handling after sensitivity has increased.

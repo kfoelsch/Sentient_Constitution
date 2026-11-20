@@ -32,7 +32,7 @@ Chapter Two, Part F is the constitutional owner of **governance under stewardshi
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) — mechanism lemmas that keep authority-scaled answerability real where material action must remain traceable; operative detail in **
-  - [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling)** and
+  - [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling)** and
   - **Chapter Eight**.
 - Upstream: [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*substrate-agnostic duties bind human and AI stewards alike*).
 - Downstream:
@@ -808,7 +808,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 - Where [material stake](core_00.000_preamble.md#material-stake) calls for it and information-type rules permit it, governance-relevant data, audit paths, and review tools must stay available to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
 - The default favors inspectable processes, contestable official records, and independent verification, consistent with [§16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration).
-- It stays subject to [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
+- It stays subject to [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
 
 <a id="1931-capture-escalation-triggers"></a>
 ##### 19.3.1 Capture Escalation Triggers

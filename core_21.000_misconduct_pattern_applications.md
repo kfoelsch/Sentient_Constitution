@@ -355,7 +355,7 @@ Evaluators assess these patterns as follows:
   - [Transparency](subcore_03.085_band_oversight.md#transparency) in
   - **Chapter Three**.
 - Rights and verification: [Article XI-B: Expression](core_04.010_rights_part_b.md#article-xi-b-expression) and [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) in **Chapter Four**. These supply Rights Floors and verification discipline without relocating designation review.
-- Implementation context: adopted **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** and institutional implementation under **Chapter Thirty** where materially relevant.
+- Implementation context: adopted **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** and institutional implementation under **Chapter Thirty** where materially relevant.
 
 </details>
 
@@ -414,7 +414,7 @@ The following are non-exhaustive examples of in-scope means:
 **Operational response** remains governed by those documents and adopted owner layers, including:
 - Rights-Floor implementation under **Chapter Four**;
 - **Article XVII** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
-- **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** handling where designated; and
+- **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** handling where designated; and
 - institutional governance under **Chapter Thirty**.
 
 This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.

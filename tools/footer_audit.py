@@ -65,6 +65,7 @@ CORE_CHAIN = (
     "core_04.020_rights_part_c.md",
     "core_04.030_rights_part_d.md",
     "core_04.040_rights_part_e.md",
+    "subcore_04.050_data_types.md",
     "core_26.000_governance.md",
     "core_27.000_non_regression.md",
     "core_28.000_amendment_ratification.md",
@@ -97,7 +98,6 @@ CS_CHAIN = tuple(
     for name in (
         "cs_00.310_scope_purpose_identifier_rules.md",
         "cs_04.305_information_types_and_handling.md",
-        "cs_04.310_data_classifications.md",
         "cs_08.305_system_classification_machinery.md",
         "cs_08.315_system_alignment_certification_run_sheet.md",
         "cs_08.320_system_alignment_certification_illustrations.md",

@@ -670,7 +670,7 @@ flowchart TB
     style T fill:none,stroke:#64748b,color:#ffffff
 ```
 
-- CS-4.305 and CS-4.310 assigns a type by functional content and handling need, not by label, file format, or pipeline stage.
+- Subcore 4-A assigns a type by functional content and handling need, not by label, file format, or pipeline stage.
 - When data is linked, transformed, aggregated, or reconstructed into a more sensitive type, the more protective requirements apply.
 - Type O is the public oversight baseline. It may be a lawful public substitute drawn from Type G, Type E, or another restricted source; that does not change the underlying source type.
 - Type Y and Type W cover works sentients create. A work is Type Y while private or shared and Type W once its creator makes it public. Either way the creator stays in control, and a public work is still deleted on the creator's request. Public availability does not make a work Type O.
@@ -745,7 +745,7 @@ flowchart TB
 - Class P also covers ordinary community activity (giving, making, teaching, caring, hosting, sharing) that stays below every line of [Domain-Specific Materiality](../subcore_03.085_band_oversight.md#domain-specific-materiality). Those nine questions, and not headcount or how often a group meets, decide whether an Operating Party reaches Class L and so needs a System Charter or Institutional Charter.
 - Uncertainty defaults toward protecting Foundational Rights. Reclassification is required when scale, reach, dependency, risk, resilience, or failure conditions materially change.
 
-The [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record) and [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-4.305 and CS-4.310 owns data typing and handling; CS-8.305 and Subcore 8-A owns system classification and handling. Chapter Three supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
+The [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record) and [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. Subcore 4-A owns data typing and handling; CS-8.305 and Subcore 8-A owns system classification and handling. Chapter Three supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

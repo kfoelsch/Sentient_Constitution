@@ -588,7 +588,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Eight §4.4](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3); and **
-  - [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** where attributable action or audit-level responsibility is materially implicated.
+  - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),

@@ -26,7 +26,7 @@
 - Read with: **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-3.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **[CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](../corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
+- Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -114,10 +114,10 @@ A working audit process follows this chain:
 
 1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.110 §3 Auditability and reconstructability terms (annex)](cjs_03.110_oversight_operations.md#cjs-3110-3-oversight-auditability-and-reconstructability-terms-annex); **Article XVII-A** (*Auditability and Observable Evidence*)).
 2. **Choose the access path:** Use the access level that fits the data and the question:
-   - **public baseline** where [Public Oversight Baseline Disclosure](../subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*))
+   - **public baseline** where [Public Oversight Baseline Disclosure](../subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **Subcore 4-A** (*Data Types*))
    - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
    - **forensic depth** when harm, dispute, or credible risk requires full reconstruction
-   - Access-level mechanics live in **[CJS-3.110 §4](cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)**; typing lives in **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*).
+   - Access-level mechanics live in **[CJS-3.110 §4](cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)**; typing lives in **Subcore 4-A** (*Data Types*).
 3. **Run an independent check:** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-3.110 §5** (*independent verification and claim-integrity terms*); **Article XVII-B** (*Distributed Oversight and Anti-Monopoly Review*) / **XVII-C**).
 4. **Publish usable outputs:** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** level: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted levels only as justified — see **[CJS-3.110 §4](cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)**.
 5. **Leave challenge and correction open:** Audit supports contest under **Article XIV-A** (*Reliability and Trustworthiness Baseline*); it does not replace it. Material findings must be correctable and reviewable.
@@ -151,8 +151,8 @@ Audit when any of the following applies (often more than one):
 |---|---|
 | Rights Floor — audit, transparency, independent verification | **Article XVII** (*Audit, Transparency, and Independent Verification*) (XVII-A / XVII-B / XVII-C) |
 | System Alignment Certification (large, forum-supervised, status-granting) | **Chapter Eight** |
-| System Data Types Record audit | **CS-4.305 and CS-4.310** §8.3 |
-| Data typing and access-posture for audit outputs | **CS-4.305 and CS-4.310** (Type O / Type G / bands); output-level preference in **CJS-3.110 §4** |
+| System Data Types Record audit | **CS-4.305 §8.3** (*Audit the System Data Types Record*) |
+| Data typing and access-posture for audit outputs | **Subcore 4-A** (*Data Types*) (Type O / Type G / bands); output-level preference in **CJS-3.110 §4** |
 | System Classification Record audit | **CS-8.305 §7.3** (*Auditability and Verification*) |
 | Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-26.305** (*Critical system stewardship*) §CS-26.305 §8 *Conduct, conflicts of interest, and independence* and §CS-26.305 §11 *Integrated risk governance (Class A/B)* |
 | Continuous audit (systems layer: automated constitutional auditing) | **CS-4.345** (*System lifecycle*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XX-B** (*Contestability and Proportional Restriction Limits*) and **Article XX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), not this row |

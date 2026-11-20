@@ -198,7 +198,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_systems/cs_00.305_registry_and_reading_rules.md](../../corpus_systems/cs_00.305_registry_and_reading_rules.md) | Pending |
 | [corpus_systems/cs_00.310_scope_purpose_identifier_rules.md](../../corpus_systems/cs_00.310_scope_purpose_identifier_rules.md) | Pending |
 | [corpus_systems/cs_06.305_information_types_and_handling.md](../../corpus_systems/cs_04.305_information_types_and_handling.md) | Pending |
-| [corpus_systems/cs_06.310_data_classifications.md](../../corpus_systems/cs_04.310_data_classifications.md) | Pending |
+| [corpus_systems/cs_06.310_data_classifications.md](../../subcore_04.050_data_types.md) | Pending |
 | [corpus_systems/cs_09.305_system_classification_machinery.md](../../corpus_systems/cs_08.305_system_classification_machinery.md) | Pending |
 | [corpus_systems/cs_09.310_system_impact_classifications.md](../../subcore_08.010_system_classification.md) | Pending |
 | [corpus_systems/cs_14.305_critical_system_stewardship.md](../../corpus_systems/cs_26.305_critical_system_stewardship.md) | Pending |

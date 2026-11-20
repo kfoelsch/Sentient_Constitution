@@ -208,14 +208,8 @@
           "entries": [
             {
               "id": "CS-4.305",
-              "label": "CS-4.305, Part A — Handling rules (§1–§8)",
+              "label": "CS-4.305 — System Data Types Record (§8)",
               "file": "corpus_systems/cs_04.305_information_types_and_handling.md",
-              "status": "active"
-            },
-            {
-              "id": "CS-4.310",
-              "label": "CS-4.310, Part B — Data classifications (§9)",
-              "file": "corpus_systems/cs_04.310_data_classifications.md",
               "status": "active"
             },
             {

@@ -15,6 +15,7 @@
 > - **Part C** covers **Articles XIV–XIX**: trustworthy systems, security and force limits, information integrity, audit, lifecycle, and sandboxed innovation.
 > - **Part D** covers **Articles XX–XXVI**: standing, justice after verified violation, portability, movement and refuge, complexity, root-cause diagnostics, and interpretive review.
 > - **Part E** covers **Articles XXVII–XXIX**: conflict resolution and review, constitutional evolution, Adoption Transition, and re-baselining.
+> - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that Articles VII, XVI, XVII, and XXIV rely on.
 >
 > That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
 
@@ -651,7 +652,7 @@ This Article sets out the floors for post-sale access and subscriptions:
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with: [Article XXII-A](core_04.030_rights_part_d.md#article-xxii-a-portability-rights) (*Portability Rights*).
-- Read with: **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, especially [§1.2](corpus_systems/cs_04.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Read with: **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, especially [Subcore 4-A §1.2](subcore_04.050_data_types.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Read with: **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) — records that deletion must not defeat.
@@ -676,7 +677,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 
 This Article sets out the floors for product data handling, collection notice, deletion, and network dependency:
 
-- **Data handling:** Operators must classify and handle data under this Article as [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) requires, where incorporated under [Chapter Thirty](core_30.000_incorporation.md). This includes the notice and deletion rules in [CS-4.305 §1.3 collection notice and deletion](corpus_systems/cs_04.305_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-4.305 §1.2 continuity-critical collection and exportability](corpus_systems/cs_04.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+- **Data handling:** Operators must classify and handle data under this Article as [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) requires, where incorporated under [Chapter Thirty](core_30.000_incorporation.md). This includes the notice and deletion rules in [Subcore 4-A §1.3 collection notice and deletion](subcore_04.050_data_types.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [Subcore 4-A §1.2 continuity-critical collection and exportability](subcore_04.050_data_types.md#12-continuity-critical-collection-and-exportability).
 - **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
   - what data is collected or inferred;
   - the purpose of each kind of data;

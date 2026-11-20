@@ -591,4 +591,4 @@ This Article sets out the floors for remediating non-compliant property and syst
 
 **Previous file:** [core_04.030_rights_part_d.md](core_04.030_rights_part_d.md)
 
-**Next file:** [core_26.000_governance.md](core_26.000_governance.md)
+**Next file:** [subcore_04.050_data_types.md](subcore_04.050_data_types.md)

@@ -582,6 +582,6 @@ Material stewardship and operation require **sentients** who can **exercise** au
 
 ---
 
-**Previous file:** [core_04.040_rights_part_e.md](core_04.040_rights_part_e.md)
+**Previous file:** [subcore_04.050_data_types.md](subcore_04.050_data_types.md)
 
 **Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)

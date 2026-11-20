@@ -454,6 +454,30 @@
       "pre_reorganization_2026_11_20": "06040"
     },
     {
+      "old_id": "CS-2",
+      "original_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "machine_id": "SUB-04050",
+      "display_id": "S4-A",
+      "layer": "SUBCORE",
+      "core_home": "04",
+      "title": "S4-A",
+      "destination_file": "subcore_04.050_data_types.md",
+      "status": "active",
+      "machine_number": "04050",
+      "layer_digit": "0",
+      "ordinal_name": "S4-A",
+      "legacy_file_label": "CS-2 Part B",
+      "legacy_section_ids": [
+        "CS-2",
+        "CS-2.9"
+      ],
+      "legacy_chapter_ids": [
+        "CS-2"
+      ],
+      "pre_reorganization_2026_11_20": "CS-06310",
+      "pre_subcore_2026_11_20": "CS-04310"
+    },
+    {
       "old_id": "Chapter 7",
       "original_file": "core_07_charters.md",
       "machine_id": "05000",
@@ -1940,28 +1964,6 @@
         "CS-2"
       ],
       "pre_reorganization_2026_11_20": "CS-06305"
-    },
-    {
-      "old_id": "CS-2",
-      "original_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "machine_id": "CS-04310",
-      "display_id": "CS-4.310",
-      "layer": "CS",
-      "core_home": "04",
-      "title": "data classifications",
-      "destination_file": "corpus_systems/cs_04.310_data_classifications.md",
-      "status": "active",
-      "machine_number": "04310",
-      "layer_digit": "3",
-      "legacy_file_label": "CS-2 Part B",
-      "legacy_section_ids": [
-        "CS-2",
-        "CS-2.9"
-      ],
-      "legacy_chapter_ids": [
-        "CS-2"
-      ],
-      "pre_reorganization_2026_11_20": "CS-06310"
     },
     {
       "old_id": "CS-6",
