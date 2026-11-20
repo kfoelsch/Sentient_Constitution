@@ -361,7 +361,7 @@ A shortfall does not excuse a forum's tier milestones. It is a fact the forum ma
 
 *In plain terms: a small community does not need a ministry. It still needs the money to be counted by someone other than the person spending it.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §3**. For this office, it means that even when hosting is merged:
+The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §5**. For this office, it means that even when hosting is merged:
 
 - no funding decision-maker may sit on a funded bench; and
 - the Public Finance Office, the Public Information Office, and the Public Monetary Office keep separate decision-makers.
