@@ -618,7 +618,7 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 
 <br>
 
-*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too, and it keeps a reserve so that a political fight over a budget cannot shut it down. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
+*In plain terms: some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too, it keeps a reserve so that a political fight over a budget cannot shut it down, and any cut in hard times follows a rule published in advance. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.*
 
 **Naming a body:** A body is an **Independent Body** when this Constitution, or designated implementation text, names it as one by citing this section. The designating text states what the body does. It may add stronger requirements. It may not narrow this section.
 
@@ -640,13 +640,25 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
     - is restored after a draw before any increase above the floor; and
     - has its balance, target, and every draw published.
     Taking money from the reserve for any other purpose is interference under *Pattern evidence* below and an integrity trigger under **CI-8.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*);
+  - **Shortfalls:** where the money for its floor falls short, whoever pays it must:
+    - publish the shortfall and its cause;
+    - draw on the body's reserve before reducing its floor;
+    - make any reduction by a rule published in advance that applies alike to every body paid from the same source, never case by case;
+    - cut last the functions the designating text names as most urgent;
+    - set an end date for each reduction; and
+    - restore floors first, and refill reserves next, when money returns.
+    A shortfall does not excuse the body's own deadlines, but it may cite the shortfall when it seeks an extension the governing rules allow;
   - **Funding integrity:** the funding-integrity floor of [Article XIII-D](core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) applies to whoever funds it, whether or not the body decides for others; and
   - **Self-funded bodies:** a body paid from its own operating income under a published budget meets this requirement where no one may seize, redirect, or condition that income except by a published rule set in advance. It builds its reserve from that income.
 - **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XIII-C](core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*).
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
 
-**Scaling:** [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) applies. Even where hosting is merged, the verify-or-authorize seat for the body's binding acts stays outside the body, and its decision-makers stay separate from the bodies it funds, checks, or measures.
+**Scaling:** [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) applies. A small adopter may place an Independent Body's seats in fewer hands, share buildings, clerks, and systems with other bodies, or use another adopter's Independent Body by published agreement if that body meets this section. Even where hosting is merged or shared:
+
+- the verify-or-authorize seat for the body's binding acts stays outside the body;
+- its decision-makers stay separate from the bodies it funds, checks, or measures, and from any Independent Body that funds, checks, or measures it; and
+- *Protected funding*, including the reserve, applies in full.
 
 ---
 

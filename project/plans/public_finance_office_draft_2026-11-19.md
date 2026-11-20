@@ -338,13 +338,15 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 
 ### 12. Shortfalls and Emergencies
 
-*In plain terms: when money really runs short, the reserve fund is used first; after that, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date.*
+*In plain terms: when money really runs short, the reserve is used first; after that, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date. The general rule is in Chapter Eight; this section says how it applies to everything this office pays.*
 
-When actual revenue falls below the sum of the floors, the office must:
+**General rule.** The *Shortfalls* requirement of *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies to every Independent Body this office pays. This section applies it to them and extends it to every other body with a §4 floor.
+
+When actual revenue falls below the sum of the floors, the office must, under that rule:
 
 - publish the shortfall and its cause;
-- draw on the §11 reserve fund before reducing any floor;
-- apply reductions by a rule published in advance, not case by case;
+- draw each affected body's share of the §11 reserve fund before reducing its floor;
+- apply reductions by a rule published in advance that applies alike to every body it pays, not case by case;
 - protect last, in this order:
   - intake and emergency adjudication;
   - remedies for survival-relevant and rights-floor matters; and
@@ -358,8 +360,7 @@ A shortfall does not excuse a forum's tier milestones. It is a fact the forum ma
 
 *In plain terms: a small community does not need a ministry. It still needs the money to be counted by someone other than the person spending it.*
 
-A small adopter may place the office's seats in fewer hands under [Chapter Eight §7](../../core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting). It may share buildings, clerks, and systems with other bodies under **CF-23.470 §3**. Even when hosting is merged:
+The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §3**. For this office, it means that even when hosting is merged:
 
-- the check seat stays outside the office;
 - no funding decision-maker may sit on a funded bench; and
-- the Public Finance Office and the Public Information Office keep separate decision-makers.
+- the Public Finance Office, the Public Information Office, and the Public Monetary Office keep separate decision-makers.

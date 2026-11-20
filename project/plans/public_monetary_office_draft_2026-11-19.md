@@ -266,10 +266,6 @@ A forum does not set the target or the policy rate; it decides whether the offic
 
 *In plain terms: a small community, or one that uses someone else's money, still needs its debts counted by someone other than the borrower.*
 
-**Small adopters.** A small adopter may place the office's seats in fewer hands under [Chapter Eight §7](../../core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting). Even then:
-
-- the check seat stays outside the office;
-- the office keeps separate decision-makers from the Public Finance Office; and
-- the §6 bar on direct financing and the §8 ledger apply in full.
+**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies. Even when hosting is merged, the §6 bar on direct financing and the §8 ledger apply in full.
 
 **Adopters that use another currency.** An adopter that uses a currency it does not issue needs no currency functions. It keeps §5, §6 as it applies to borrowing, §7, §8, and §9 for its public debt, and may give those duties to the Public Finance Office only if the debt decision-makers stay separate from the spending decision-makers.
