@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T05:07:05+00:00",
+  "generated_at": "2026-11-20T05:16:59+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2769,14 +2769,16 @@
       ]
     },
     "corpus_forum/cf_23.460_emergency_adjudication.md": {
-      "total_lines": 147,
+      "total_lines": 164,
       "sections": [
-        {"header":"CF-23.460: Emergency Adjudication","level":1,"line_start":1,"line_end":147,"anchor":null},
-        {"header":"CF-23.460 §1 Emergency Triage Hierarchy","level":2,"line_start":74,"line_end":87,"anchor":null},
-        {"header":"CF-23.460 §2 Independent Review during Emergency Mode","level":2,"line_start":88,"line_end":102,"anchor":null},
-        {"header":"CF-23.460 §3 Restoration and Reconciliation","level":2,"line_start":103,"line_end":115,"anchor":null},
-        {"header":"CF-23.460 §4 Post-Incident Review","level":2,"line_start":116,"line_end":128,"anchor":null},
-        {"header":"CF-23.460 §5 Non-Compliant Emergency Patterns","level":2,"line_start":129,"line_end":147,"anchor":null}
+        {"header":"CF-23.460: Emergency Adjudication","level":1,"line_start":1,"line_end":164,"anchor":null},
+        {"header":"CF-23.460 §1 Purpose, Role, and Scope","level":2,"line_start":66,"line_end":77,"anchor":null},
+        {"header":"CF-23.460 §2 Why Emergency Adjudication Exists","level":2,"line_start":78,"line_end":90,"anchor":null},
+        {"header":"CF-23.460 §3 Emergency Triage Hierarchy","level":2,"line_start":91,"line_end":104,"anchor":null},
+        {"header":"CF-23.460 §4 Independent Review during Emergency Mode","level":2,"line_start":105,"line_end":119,"anchor":null},
+        {"header":"CF-23.460 §5 Restoration and Reconciliation","level":2,"line_start":120,"line_end":132,"anchor":null},
+        {"header":"CF-23.460 §6 Post-Incident Review","level":2,"line_start":133,"line_end":145,"anchor":null},
+        {"header":"CF-23.460 §7 Non-Compliant Emergency Patterns","level":2,"line_start":146,"line_end":164,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md": {
