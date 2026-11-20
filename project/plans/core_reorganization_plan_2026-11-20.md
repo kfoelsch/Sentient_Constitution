@@ -24,7 +24,8 @@ The third round settled the open decisions:
   - the Preamble into two chapters;
   - the five public offices, listed in the Independent Bodies chapter, with each office's full text in the subcore;
 - forum intake and the pipeline detail, moved out of the core;
-- leaner office texts.
+- leaner office texts;
+- the standard section 2 (*Why … Exists* with a *Grounded in:* list) in every chapter, brought in during the renumbering so section numbers shift only once.
 
 Nothing has moved yet.
 
@@ -141,6 +142,27 @@ Each office's subcore file shrinks to:
 
 Do it as each office text moves into the subcore, so it points at the Independent Bodies chapter's anchors.
 
+## 6. Section 2 in every chapter
+
+Added at the custodian's request (2026-11-20: "the section 2 TODO … should be part of our plan"). It closes the two `TODO.md` items on section 2 (the 499th-move standard and the 2026-11-18 structured section 2) and CHAPTER-S2-WHY-01.
+
+**The standard.** §1 *Purpose, Role, and Scope*; §2 *Why [subject] Exists*, which explains the problem the chapter answers and ends with a bulleted **Grounded in:** list (Chapter One principles, then Chapter Six Articles, one link per line, taken from the upstream part of the Trace widget); the chapter's work starts at §3.
+
+**Where the core stands (chapter lead files).**
+
+- **Have a *why* §2, need only the Grounded in list:** Chapters Five, Six, Eight, Nine, Twelve, Twenty-Five, and Twenty-Six (seven chapters).
+- **Need a new §2:** the other twenty-four chapters. In most of them today's §2 is working text, so a new §2 pushes every later section down by one.
+
+**Why it belongs in the renumbering.** Inserting a new §2 renumbers every later section of the chapter, and every cite to those sections across the corpus. Doing it inside the renumbering pass means each cite is rewritten once. Doing it afterward would mean a second large cite rewrite.
+
+**How it runs.**
+
+1. **Draft first (step 3a).** Draft the twenty-four new §2 sections and the seven Grounded in lists in one working file under `project/plans/`, for the custodian's review before anything is inserted. Each §2 is short, written to be read, and draws its *why* from the chapter's existing §1, plain-terms lines, and Trace widget.
+2. **New chapters are born with it.** The *Constitutional Map* and *Independent Bodies* chapters get their §2 in step 3. The Preamble is not a chapter and keeps its own shape.
+3. **Insert in the renumbering pass (step 4)**, with the old section anchors kept so links outside the corpus still land.
+4. **Audit after the pass.** Add the CHAPTER-S2-WHY audit (the *why* heading and the bulleted Grounded in list in every core chapter lead file) once every chapter passes, so later moves cannot regress.
+5. **Subcore files** carry no §2 of their own; each points to its chapter's §2. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
+
 ## Proposed order
 
 | Step | Work | Size | Depends on |
@@ -148,7 +170,9 @@ Do it as each office text moves into the subcore, so it points at the Independen
 | 1 | Write the three-tier placement test into `doc_architecture.md` | small | none |
 | 2 | Create the subcore tier: amend Chapters Five, Twenty-Nine, Thirty, Thirty-One, the Preamble, and the README, and extend the tooling | medium | step 1 |
 | 3 | Split the chapters (the Preamble and Constitutional Map, and Independent Bodies) and put the office texts in the subcore | medium | step 2 |
-| 4 | One renumbering pass | large | step 3 |
+| 3a | Draft every chapter's new §2 and Grounded in list for review | medium | none (runs beside steps 1–3) |
+| 4 | One renumbering pass, inserting the reviewed §2 sections | large | steps 3 and 3a |
+| 4a | Section 2 audit (CHAPTER-S2-WHY) | small | step 4 |
 | 5 | Lean office texts | small | step 4 |
 | 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot) | medium | steps 2 and 4 |
 | 7 | Definitions bands to a definitions subcore | large | step 6 reviewed |
@@ -163,4 +187,5 @@ All settled by the custodian on 2026-11-20:
 - **A and C** (second round): split into new chapters now; shorten each chapter, with the detail in the subcore.
 - **E**: Option 2, named *subcore*.
 - **F**: Chapter One stays one chapter. The public offices are listed in the Independent Bodies chapter, each with its full text in the subcore.
-- **B**: the Preamble splits after §3; the rest becomes the *Constitutional Map*. Open only in detail: whether §3.2 moves to the Map (recommended above).
+- **B**: the Preamble splits after §3; the rest becomes the *Constitutional Map*, and §3.2 moves into the Map beside §6 (custodian, 2026-11-20: "Everything you just said is good").
+- **Section 2**: part of this plan (section 6 above).
