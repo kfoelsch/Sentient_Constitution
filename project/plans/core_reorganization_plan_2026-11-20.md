@@ -4,142 +4,153 @@ DRAFT — not corpus. Working plan under project/plans/ (AGENTS.md: drafts and W
 
 # Core reorganization plan
 
-**Date:** 2026-11-20. **Asked for by:** the custodian ("if you agree, please begin a plan … Please evaluate").
+**Date:** 2026-11-20, revised the same day after the custodian's second round.
 
-**What this plan covers.** The custodian named five changes:
+**Asked for by:** the custodian. The first round said: "if you agree, please begin a plan … Please evaluate". The second round said:
 
-1. Chapter Eight §11 *Independent Bodies* becomes its own chapter.
-2. The three office drafts stop repeating the standard Independent Body rules.
-3. The Preamble splits into two chapters.
-4. The forum intake process moves from the core into the forum corpus.
-5. The pipeline chapters keep a summary in the core, with their detail moved into the corpus.
+> "We're going to be doing a massive renumbering anyway. Now is the time to split chapters. As far as the corpus not being binding, there are several relatively easy fixes for that. Two are: we make the corpus binding, or we come up with a new category of file, like 'sub-core' that is still binding like the core, but outside of the core files. We want the core files to be relatively accessible to sentients. … chunking it down will help readers process it."
 
-This plan evaluates each change, proposes an order, and lists the choices the custodian needs to make. Nothing has moved yet.
+**Goal.** Make the core something a sentient can actually read, while every guarantee stays as binding and as hard to change as it is now.
 
----
+**What this plan covers:**
 
-## 0. The rule every move must follow
+- a new binding tier of files outside the core;
+- one renumbering, done now, that also splits:
+  - Chapter Eight §11 *Independent Bodies* into its own chapter;
+  - the Preamble into two chapters;
+  - the five office chapters, which get placed;
+- forum intake and the pipeline detail, moved out of the core;
+- leaner office drafts.
 
-The biggest risk in this plan is moving a guarantee out of the core by accident.
-
-**Why it matters.** Under [Preamble §9](../../core_00.000_preamble.md#9-adopted-implementation-corpus) and [Chapter Thirty-One](../../core_31.000_incorporation.md), the core binds every adopter. The corpus binds only when an adopter incorporates it, and it is amended by a different route. Text moved from the core to the corpus therefore becomes adoption-dependent and easier to change.
-
-**Proposed test (to be written into `doc_architecture.md` as a placement rule before step 4):** a sentence stays in the core if it does any of the following:
-
-- grants, limits, or protects a right or a standing effect;
-- names who decides, who checks, or who may contest;
-- sets a floor, a ceiling, an outer bound, or a time bound that a sentient can rely on;
-- bars a practice; or
-- says what happens when a duty is not met.
-
-A sentence moves to the corpus only if it says *how* a duty in the core is carried out, such as forms, steps, record fields, staffing patterns, worked sequences, and routing tables. Everything that moves keeps a one-line core pointer, and the core keeps the outcome the corpus text must reach.
+Nothing has moved yet.
 
 ---
 
-## 1. Independent Bodies as their own chapter
+## 1. Where things stand
 
-**Evaluation: agree.** §11 is about 2,800 of Chapter Eight's 9,600 words, nearly 30 percent of the chapter. It is a different subject from the four-seat rule. Its rules are about to be cited by five chapters (finance, information, monetary, debt, and bank supervision).
+| Layer | Files | Words | Binding |
+|---|---|---|---|
+| Core | 53 `core_*` files | about 556,000 | binds every adopter. It changes only by amendment under Chapter Twenty-Nine. |
+| Corpus | 85 files in four corpora | about 284,000 | binds only as adopted. Chapter Thirty-One makes each corpus file "binding **only as adopted** through a recorded adoption chain", pinned by edition. |
 
-**Placement choice (decision A):**
+The core is far too long to read. The six band files of Chapter Five alone hold about 170,000 words, almost a third of the core, and the pipeline chapters (Nine to Twenty-Four) hold about 150,000 more.
 
-- **A1 (recommended now): Chapter Eight Part B.** Put the section in a new file `core_08.010_independent_bodies.md` as *Chapter Eight, Part B: Independent Bodies*. This is the pattern Chapters One, Six, Nine, and Fourteen already use, so no other chapter is renumbered, and the part tooling (`tools/architecture/chapter_numbers.json`, PART-CITE-CHAPTER-01) already supports it.
-- **A2: a new numbered chapter (Chapter Nine), renumbering Chapters Nine to Thirty-One.** This is cleaner to read, but it rewrites every cite and anchor to twenty-three chapters, the chapter-number tooling, and the paused translations.
+## 2. The two fixes the custodian named
 
-**Recommendation.** Take A1 now. Do a single renumbering pass later, once we know where the five office chapters go, because placing them will force a renumbering anyway (see decision D). Renumbering once is far cheaper than renumbering twice.
+### Option 1: make the whole corpus binding
 
-**Steps under A1:**
+**For:**
 
-- move §11 verbatim into the new file, with its own Trace, purpose, and plain-terms lines;
-- split it into numbered subsections (designation; independence and appointment; protected funding; information, audit, and open decisions; conflicts and market-moving information; scaling);
-- leave a pointer and the old anchor in Chapter Eight;
-- rewrite the 33 links to `#11-independent-bodies` in 8 files, update the owner register in Preamble §4, and add the chapter-number entry;
-- run preflight and the full audit.
+- one change to Chapter Thirty-One and the Chapter Five *Corpus* entry;
+- no new kind of file.
 
-## 2. Leaner office drafts
+**Against:**
 
-**Evaluation: agree, and it is cheap.** Each draft still restates material that Chapter Eight now owns:
+- **It freezes what should flex.** Much of the corpus is meant to vary between adopters by scale and setting: staffing patterns, forms, worked examples, record templates, sharing arrangements. Making it all binding everywhere would put every form field under the heightened amendment review of Chapter Twenty-Nine. A small adopter could not adapt any of it.
+- **It turns illustrations into law.** The corpus mixes requirements with vignettes, worked examples, and reference methods, which were never written to bind.
+- **It does not separate guarantees from procedure.** A reader still could not tell which corpus sentences protect them.
 
-- its own "Independent Body" bullet lists;
-- *No dual roles* paragraphs that partly repeat the general rule;
-- general purpose language in the audit, funding, and scaling sections.
+### Option 2: a new binding tier outside the core (recommended)
 
-**Proposed shape for every office chapter:** one short *Designation* section that names the office an Independent Body and lists only:
+Add a tier with the same force as the core, kept in separate files. I suggest calling it **Schedules**, the term many constitutions and statutes use for attached text with the same legal force as the main body. "Sub-core" also works; the name is decision E.
 
-- what it does;
-- its seats;
-- its competency gate;
-- what *Market-moving information* covers for it; and
-- any rule stricter than the general one.
+The rules for the tier:
 
-After that come only the office's own substance, such as the target, the fiscal rule, licensing, or the confidence ladder. Audit, funding, reserve, shortfall, and scaling sections shrink to their office-specific lines or disappear.
+- **Same force.** A schedule is part of the Constitution. It binds every adopter, as the core does, without separate incorporation.
+- **Same amendment route.** A schedule changes only by amendment under Chapter Twenty-Nine, with the same heightened review for rights-affecting changes.
+- **Attached to a chapter.** Each schedule belongs to one core chapter and is named for it (for example, *Schedule 16-A: Measurement Procedure*). The chapter lists its schedules.
+- **Core states, schedule details.** The core states every guarantee in plain words, at least in one line. The schedule gives the full rule and procedure. A schedule may not narrow its chapter. Where the two seem to differ, the reading more protective of the affected sentient controls, and the gap is a drafting defect to fix.
+- **The corpus stays as it is.** It remains adopter-shaped implementation that binds as adopted, for what may properly vary between adopters.
 
-**Do it right after step 1**, so the drafts can point at the new Part's subsection anchors instead of at one long section.
+That gives three tiers, and a three-way placement test for every sentence:
 
-## 3. Splitting the Preamble
+| Tier | What goes there |
+|---|---|
+| **Core** | Purpose, plain-terms explanation, and one line for every guarantee: rights, who decides and who can contest, floors and bounds, bars, and consequences. It is written to be read. |
+| **Schedule** | The full text of guarantees and procedure that must be the same for every adopter: detailed tests, sequences, seat placements, record contents, and tables the core cites. It is written to be relied on. |
+| **Corpus** | Implementation that may properly differ between adopters: staffing, forms, templates, sharing arrangements, worked examples, and reference methods. It is written to be adopted. |
 
-**Evaluation: agree.** The Preamble does two jobs. Its first 1,500 words say what the Constitution is for (*What Systems Reward*, §1 *The Model*, and §2 *Measurements Overview*). The remaining 5,500 words (§3 to §9) are a map of the whole Constitution: governance, the owner register, the separation map, the pipelines, process ownership, change, and the corpus.
+**What the tier needs before any content moves:**
 
-**Proposed split (decision B):**
+- the [Chapter Five *Corpus*](../../core_05.045_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
+- [Preamble §9](../../core_00.000_preamble.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty §4.1](../../core_30.000_expansion_supremacy.md#41-internal-hierarchy-for-adopters) hierarchy;
+- Chapter Twenty-Nine (amendment covers schedules);
+- Chapter Thirty-One (schedules need no separate incorporation);
+- `README.md`;
+- the audit tooling: every audit that scans "binding text" must scan the schedules folder too, and the chapter-number tooling must know schedules.
 
-- **Preamble** keeps the purpose: *What Systems Reward*, *The Model*, and *Measurements Overview*. This is the text a first-time reader should meet.
-- **A new "Constitutional Map" chapter** takes §3 to §9: the owner register, the four-seat map, the pipelines, process ownership, change, and the corpus. It sits at `core_00.010_constitutional_map.md` so no chapter is renumbered.
+## 3. Renumbering now: agree
 
-**Cost.** Anchors in the Preamble are among the most linked in the corpus, such as `#constitutional-tetrad`, `#material-stake`, and the owner register. Most of the heavily linked definitions are in §1 and stay put. The owner-register and pipeline anchors move and need a link rewrite.
+One renumbering is cheaper than two. We can do it now, splitting what needs splitting, and placing the five office chapters in the same pass. The renumbering is mechanical but large:
 
-## 4. Forum intake into the corpus
+- every chapter cite and anchor;
+- `tools/architecture/chapter_numbers.json`, which already records an `old_id` for earlier renumberings;
+- file names, owner registers, and the AI corpus indexes.
 
-**Evaluation: agree in part.** Chapter Twenty-Three §3.2 *Primary-Stakes Routing and Intake* (about 1,800 words with §3.3 and §3.4) and §4.1 *Intakes* mix two kinds of text:
+The translations are paused, so they will be re-synced later rather than edited now.
 
-- **Stays in the core** (rights and outcomes): the right to file and be heard; the primary-stakes test; the rule that characterization must be in good faith; the lead-forum rule and the bar on self-judging; the time bounds on initial access; and the routing asymmetry that protects the weaker party.
-- **Moves to the corpus** (how): the intake triage desk's operating steps, the routing sequence at filing, the default venue table, the special routing rules, and the intake record fields. The natural home is **CF-23.415** (*Routing operations, transfer, certification, and representative treatment*), which already holds routing operations.
+**Proposed new outline (decision F; numbers illustrative until approved):**
 
-This step is the **pilot** for the placement test in section 0. Do it before step 5, and review the result together before scaling up.
+| New | Content | From |
+|---|---|---|
+| Preamble | What the Constitution is for: *What Systems Reward*, *The Model*, *Measurements Overview* | Preamble opening and §1–§2 |
+| 1 | **Constitutional Map**: governance overview, owner register, four-seat map, pipelines, process ownership, change, the tiers | Preamble §3–§9 |
+| 2–9 | Values and principles (now Chapter One's five files, possibly as separate chapters), definition structure and integrity, burden and traceability | Chapters One to Four |
+| … | Definitions, rights, charters | Chapters Five to Seven |
+| … | Functional independence and separation of duties | Chapter Eight §1–§10 |
+| … | **Independent Bodies** | Chapter Eight §11 |
+| … | Pipeline chapters, each shortened, with schedules | Chapters Nine to Twenty-Four |
+| … | Enforcement, special enforcement, governance | Chapters Twenty-Five to Twenty-Seven |
+| … | **Public offices**: Finance, Information, Monetary, Debt, Bank Supervision | new drafts |
+| … | Non-regression, amendment, supremacy, incorporation | Chapters Twenty-Eight to Thirty-One |
 
-## 5. Summaries of the pipeline chapters
+**Open questions in the outline:**
 
-**Evaluation: agree with the direction, with care.** Chapters Nine to Twenty-Four hold about 150,000 words. Much of it is procedure that fits the corpus, and the corpus already has matching files for most of these chapters:
+- Should Chapter One's five files become five chapters?
+- Should the public offices be five chapters, or one chapter with five parts? I recommend five chapters, placed together after Governance, because each is long and each is cited on its own.
 
-- Chapter Ten has 20 related corpus files, Chapter Twenty-Three 19, Chapter Twenty 11, and Chapter Twenty-One 10.
-- Chapters Sixteen, Seventeen, and Eighteen have none yet.
+## 4. What moves into schedules (after the renumbering)
 
-But these chapters also hold many of the Constitution's strongest protections for individuals, such as fault before a violation record, honest error, silence by default, anti-aggregation, and contest routes. Those must stay in the core under section 0.
+These are listed in order of reading benefit:
 
-**Proposed approach:**
+1. **Chapter Five definitions bands (about 170,000 words).** This is the biggest win. Each definition keeps a short entry in the core: the term, a one-sentence meaning, and its anchor. The full entry, with its Trace, tests, and distinctions, moves to a definitions schedule. Most links point at the short entry's anchor and keep working.
+2. **Pipeline chapters (Nine to Twenty-Four).** Each chapter keeps its purpose, plain terms, a one-line statement of each guarantee, the seats, the outcomes, contest routes, and time bounds, plus a list of its schedules. Detailed tests and sequences go to the chapter's schedules; procedure that may vary goes to the corpus. One chapter per move, smallest first (Chapter Eighteen). Standing and violations (Chapters Fifteen, Sixteen, and Nineteen) come last.
+3. **Forum intake.** Chapter Twenty-Three keeps the right to file, the primary-stakes test, good-faith characterization, the time bounds, and the routing asymmetry. The triage desk's steps, the routing sequence, the default venue table, and the special routing rules move to a Chapter Twenty-Three schedule. They become schedule text, not corpus text, because the venue table decides who hears a case and must not vary between adopters.
+4. **Independent Bodies.** The chapter is short enough to stay whole for now.
 
-- **Shape of each pipeline chapter after the change:**
-  - purpose and plain terms;
-  - the guarantees (the section 0 test);
-  - who holds each seat;
-  - the outcomes and the records they produce;
-  - contest routes and time bounds; and
-  - a pointer table to the corpus files that carry the procedure.
-  
-  The target is a core chapter of a third to a half of its present length.
-- **One chapter per move, smallest first.** Start with Chapter Eighteen (2,500 words) to prove the shape. Then do the certification triplets (Chapters Nine to Fourteen), where the corpus already carries most of the procedure. Leave Chapters Fifteen, Sixteen, and Nineteen (standing assessment, measurement, and violation consequences) for last, because they hold the densest protections.
-- **New corpus files** where none exist (Chapters Sixteen to Eighteen), numbered under the existing CJS or CI families.
-- **A guarantee check for each chapter:** before and after each move, list every guarantee sentence and confirm that each one is still in the core or is quoted there. The list goes in the move log.
+**Guarantee check for every move.** Before and after each move, list each guarantee sentence and confirm that it is either still in the core or stated there in one line, with the full text in a schedule. Record the list in the move log.
 
-**Decision C:** whether the summary chapters keep their current numbers and file names (recommended: yes, so anchors to retained guarantees do not break), or become a single "Pipeline Overview" chapter with the detail spread across the corpus. I recommend keeping each chapter, shortened, because the pipeline order is itself a protection (no step skipped), and one chapter per stage keeps that order visible.
+## 5. Office drafts
 
----
+**Unchanged from the first round: agree, and it is cheap.** Each office chapter shrinks to:
+
+- a short *Designation* section with only what is special to that office; and
+- the office's own substance.
+
+Do it right after the Independent Bodies chapter exists, so the drafts point at its subsection anchors.
 
 ## Proposed order
 
 | Step | Work | Size | Depends on |
 |---|---|---|---|
-| 0 | Write the core-or-corpus placement test into `doc_architecture.md` | small | — |
-| 1 | Independent Bodies to Chapter Eight Part B (A1) | medium | decision A |
-| 2 | Lean office drafts | small | step 1 |
-| 3 | Preamble split | medium | decision B |
-| 4 | Forum intake to CF-23.415 (pilot of the placement test) | medium | step 0 |
-| 5 | Pipeline chapters, one at a time, starting with Chapter Eighteen | large | step 4 reviewed; decision C |
-| 6 | One renumbering pass, placing the office chapters and any new chapters | large | decision D |
+| 1 | Write the three-tier placement test into `doc_architecture.md` | small | decision E |
+| 2 | Create the schedule tier: amend Chapters Five, Twenty-Nine, Thirty, Thirty-One, the Preamble, and the README, and extend the tooling | medium | step 1 |
+| 3 | Approve the new outline | small | decision F |
+| 4 | Split the chapters (the Preamble and Constitutional Map, and Independent Bodies) and place the office chapters | medium | step 3 |
+| 5 | One renumbering pass | large | step 4 |
+| 6 | Lean office chapters | small | step 5 |
+| 7 | Forum intake to a Chapter Twenty-Three schedule (pilot) | medium | steps 2 and 5 |
+| 8 | Definitions bands to a definitions schedule | large | step 7 reviewed |
+| 9 | Pipeline chapters, one at a time | large | step 7 reviewed |
 
-Each step is its own move, with preflight and the full audit, and an archive and merge at the custodian's call.
+Each step is its own move, with preflight and the full audit, and an archive and merge at the custodian's call. Steps 4 and 5 run back to back in one session, with `work` held, because a half-renumbered tree breaks every cite.
 
 ## Decisions for the custodian
 
-- **A.** Independent Bodies as Chapter Eight Part B now (recommended), or a new numbered chapter with an immediate renumbering.
-- **B.** Split the Preamble into *Preamble* (purpose) and *Constitutional Map* (the map of the whole), as above, or another split.
-- **C.** Keep each pipeline chapter, shortened (recommended), or merge them into one overview chapter.
-- **D.** Later: where the five office chapters sit (for example, as a group after Chapter Twenty-Seven *Governance*, or as parts of one "Public Offices" chapter), which sets the final renumbering.
+- **E.** The binding tier: Option 2 (recommended), and its name (*Schedules* or *sub-core*).
+- **F.** The new outline (section 3). It needs two choices:
+  - whether Chapter One's five files become separate chapters;
+  - where the public offices go, and whether they are separate chapters (recommended) or one chapter.
+- **B.** The Preamble split into *Preamble* and *Constitutional Map* (unchanged from the first round).
+
+Decisions A (Part B or a new chapter) and C (shortened chapters or one overview) from the first round are settled by the custodian's second round: split into new chapters now, and shorten each chapter, with the detail in schedules.
