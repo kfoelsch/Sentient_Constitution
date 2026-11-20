@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 22-A**. Until 2026-11-20 its text was in Chapter Twenty-Two: §3 was §4.2.2 (*Intake Triage Body*), and §§4–7 were §§4.3.1 to 4.3.4 (*Default Venue*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 22-A**. Until 2026-11-20 its text was in Chapter Twenty-Two: §3 was §4.2.2 (*Intake Triage Body*), and §§4–7 were §§4.3.1 to 4.3.4 (*Default Venue*). §8 was the "What is not allowed" list of CI-22.210 (*Cross-institution coordination and escalation*), moved from the institutions corpus the same day.
 >
 > **Upstream:** [Chapter Twenty-Two §4 Default Venue and Primary Stakes](core_22.000_forum.md#4-default-venue-and-primary-stakes), which keeps the dispute sequence, the primary-stakes test, good-faith characterization, initial access and timing, and the routing asymmetry.
 > **Downstream:** [CF-22.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*); [Chapter Twenty-Three §3](core_23.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (*forum family definitions*).
@@ -16,7 +16,7 @@
 
 ### 1. Purpose, Role, and Scope
 
-Subcore 22-A is the constitutional owner of **forum intake and default venue**: what each forum family's intake triage body (first-touch desk) does at filing, the sequence it follows, the default venue table that names the lead forum family for each primary stake, the limits on those default leads, and the special routing rules. [Chapter Twenty-Two §4 Default Venue and Primary Stakes](core_22.000_forum.md#4-default-venue-and-primary-stakes) states the duty to keep an intake triage body, the primary-stakes test, and the rules that keep routing honest and timely; this file states how a matter is routed.
+Subcore 22-A is the constitutional owner of **forum intake and default venue**: what each forum family's intake triage body (first-touch desk) does at filing, the sequence it follows, the default venue table that names the lead forum family for each primary stake, the limits on those default leads, the special routing rules, and the limits on how institutions that share a matter coordinate it. [Chapter Twenty-Two §4 Default Venue and Primary Stakes](core_22.000_forum.md#4-default-venue-and-primary-stakes) states the duty to keep an intake triage body, the primary-stakes test, and the rules that keep routing honest and timely; this file states how a matter is routed.
 
 *In plain terms: when a case is filed, the first-touch desk works out what the fight is really about and uses the table here to pick which forum family leads. The table is in the Constitution so the starting forum is the same for every adopter and cannot be chosen by whoever has the most power.*
 
@@ -124,6 +124,19 @@ These rules apply on top of the default venue table in **section 5**. **Section 
   - Integrity uses technical-forum inputs plus constitutional, institutional, ecological, rights, and anti-capture requirements.
   - Where the system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the **Environment** forum family must complete its environmental-alignment review (sign-off or objection) before certification, validation, recertification, or material release from environmental conditions may become final.
   - Keep referrals or sending for ruling to **Technical Forum Domains**, **Institutional**, **Environment**, **Sentient**, and **Constitutional** for component questions those families own.
+
+<a id="8-limits-on-cross-institution-coordination"></a>
+
+### 8. Limits on Cross-Institution Coordination
+
+*In plain terms: when two or more institutions could handle the same matter, they cannot leave it stuck, let a doubtful body break the tie, pass it on without reasons, or let anyone block the independent backup.*
+
+Where institutions share jurisdiction, evidence custody, review, enforcement support, investigation, or forum-adjacent routing on the same matter, each publishes its coordination and escalation plan under [CI-22.210](corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md#ci-22210-cross-institution-coordination-and-escalation) (*Cross-institution coordination and escalation*). Whatever the plan says, it must not:
+
+- leave shared jurisdiction without a usable escalation path;
+- break a deadlock through the body whose independence is materially contested;
+- transfer a matter without a reasoned record; or
+- let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing under [Chapter Twenty-Two §6 Transfer, Consolidation, and Anti-Self-Judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture).
 
 ---
 

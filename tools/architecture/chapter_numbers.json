@@ -478,6 +478,21 @@
       "pre_subcore_2026_11_20": "CS-04310"
     },
     {
+      "old_id": "CI-6.210 §§3-4",
+      "original_file": "corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md",
+      "machine_id": "SUB-04060",
+      "display_id": "S4-B",
+      "layer": "SUBCORE",
+      "core_home": "04",
+      "title": "S4-B",
+      "destination_file": "subcore_04.060_integrity_triggers_gifts_funding.md",
+      "status": "active",
+      "machine_number": "04060",
+      "layer_digit": "0",
+      "ordinal_name": "S4-B",
+      "pre_subcore_2026_11_20": "CI-06210"
+    },
+    {
       "old_id": "Chapter 7",
       "original_file": "core_07_charters.md",
       "machine_id": "05000",
@@ -864,6 +879,21 @@
       "layer_digit": "0",
       "ordinal_name": "26",
       "pre_reorganization_2026_11_20": "27000"
+    },
+    {
+      "old_id": "CI-4.205 §4",
+      "original_file": "corpus_institutions/ci_04.205_transparency_participation_accessible_pathways.md",
+      "machine_id": "SUB-26010",
+      "display_id": "S26-A",
+      "layer": "SUBCORE",
+      "core_home": "26",
+      "title": "S26-A",
+      "destination_file": "subcore_26.010_governance_disclosure.md",
+      "status": "active",
+      "machine_number": "26010",
+      "layer_digit": "0",
+      "ordinal_name": "S26-A",
+      "pre_subcore_2026_11_20": "CI-04205"
     },
     {
       "old_id": "Chapter 15",

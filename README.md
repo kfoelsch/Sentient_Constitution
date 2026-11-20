@@ -101,7 +101,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 2**: [Part A](core_02.000_values_principles.md) · [Part B](core_02.010_values_principles_continuity_aim.md) · [Part C](core_02.020_interaction_interpretation.md) · [Part D](core_02.030_constitutional_interpretation.md) · [Part E](core_02.040_stewardship_capacity_principles.md) · [Part F](core_02.050_governance_incentive_application.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
 | **Chapter 3**: [Definitions](core_03.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 3 files ↓](#chapter-three-files)) |
 | **Chapter 3 subcore**: [3-A Definition structure](subcore_03.010_definition_structure.md) · [3-B Definition integrity](subcore_03.020_definition_integrity.md) · [3-C Burden of proof and verification](subcore_03.030_burden_traceability_verification.md) · 3-D to 3-O, every definition in full ([listed below ↓](#chapter-three-files)) | The rules behind the dictionary, and the dictionary itself: how a definition is built, protected against loopholes, and backed with evidence |
-| **Chapter 4**: [Part A](core_04.000_rights_part_a.md) · [Part B](core_04.010_rights_part_b.md) · [Part C](core_04.020_rights_part_c.md) · [Part D](core_04.030_rights_part_d.md) · [Part E](core_04.040_rights_part_e.md) · [Subcore 4-A data types](subcore_04.050_data_types.md) | **The Rights Floor**: Articles I–XXIX |
+| **Chapter 4**: [Part A](core_04.000_rights_part_a.md) · [Part B](core_04.010_rights_part_b.md) · [Part C](core_04.020_rights_part_c.md) · [Part D](core_04.030_rights_part_d.md) · [Part E](core_04.040_rights_part_e.md) · [Subcore 4-A data types](subcore_04.050_data_types.md) · [Subcore 4-B integrity triggers, gifts, and funding](subcore_04.060_integrity_triggers_gifts_funding.md) | **The Rights Floor**: Articles I–XXIX |
 | **Chapter 5**: [System and Institutional Charters](core_05.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
 | **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) · [Subcore 6-A constitutional lanes](subcore_06.010_constitutional_lanes.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 7**: [Independent Bodies](core_07.000_independent_bodies.md) | What makes a body independent, and the list of bodies every adopter must have |
@@ -116,7 +116,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
 | **Chapter 25**: [Special enforcement](core_25.000_special_enforcement.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
-| **Chapter 26**: [Governance](core_26.000_governance.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 26**: [Governance](core_26.000_governance.md) · [Subcore 26-A governance disclosure](subcore_26.010_governance_disclosure.md) | Who may govern, and how that authority is granted and checked |
 | **Chapter 27**: [Non-regression](core_27.000_non_regression.md) | Protections can be strengthened but not rolled back |
 | **Chapter 28**: [Amendment and adoption](core_28.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
 | **Chapter 29**: [Supremacy and other laws](core_29.000_expansion_supremacy.md) | How it relates to local, national, and international law |
@@ -206,6 +206,8 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Burden of proof, traceability, verification: [Subcore 3-C](subcore_03.030_burden_traceability_verification.md)
 - System classes, dependency types, and steward levels: [Subcore 8-A](subcore_08.010_system_classification.md)
 - Data types and data-handling rules: [Subcore 4-A](subcore_04.050_data_types.md)
+- Gifts, conflicts of interest, funding changes, and the kinds of integrity failure: [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md)
+- What every institution's governance report must contain: [Subcore 26-A](subcore_26.010_governance_disclosure.md)
 - Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)

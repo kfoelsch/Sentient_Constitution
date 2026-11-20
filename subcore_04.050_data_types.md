@@ -1598,4 +1598,4 @@ The following rules complete the commercial-grant framework:
 
 **Previous file:** [core_04.040_rights_part_e.md](core_04.040_rights_part_e.md)
 
-**Next file:** [core_26.000_governance.md](core_26.000_governance.md)
+**Next file:** [subcore_04.060_integrity_triggers_gifts_funding.md](subcore_04.060_integrity_triggers_gifts_funding.md)

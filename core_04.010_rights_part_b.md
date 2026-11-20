@@ -2354,7 +2354,7 @@ This sub-Article sets out the following floors:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§19.1.2 What Incentives Must Not Do](core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do); parent [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*).
-- Read with: **CI-6.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*); [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (21.000 §5.1) (*Bribery and Improper Benefit Exchange*); [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for offers made during influence contact and for post-service roles.
+- Read with: [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity); [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (21.000 §5.1) (*Bribery and Improper Benefit Exchange*); [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for offers made during influence contact and for post-service roles.
 
 </details>
 
@@ -2384,7 +2384,7 @@ This sub-Article applies to the covered bodies, **appointing authorities**, and 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); parent [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*).
-- Read with: **CI-6.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*); [Chapter Nineteen §5.2](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2) (*Remedy-System Durability*); [Chapter Twenty-Two §3.2.2](core_22.000_forum.md#322-incentives-and-non-substitution) (22.000 §3.2.2) (*Incentives and Non-Substitution*).
+- Read with: [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity); [Chapter Nineteen §5.2](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2) (*Remedy-System Durability*); [Chapter Twenty-Two §3.2.2](core_22.000_forum.md#322-incentives-and-non-substitution) (22.000 §3.2.2) (*Incentives and Non-Substitution*).
 
 </details>
 
@@ -2400,7 +2400,7 @@ This sub-Article applies to whoever funds, budgets for, or pays a covered body n
   - fund the body per case in a way that rewards a kind of disposition, speed over merits, or one party over another; or
   - let fee or sanction revenue from a matter flow to the body that decides it.
   A funding change that follows a decision adverse to the funder is evidence of steering, and the funder must show a lawful, published reason unrelated to that decision.
-- **Records and routing:** Funding changes are logged under **CI-6.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*), and steering is an integrity trigger under **CI-6.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*).
+- **Records and routing:** Funding changes are logged under [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity), and steering is an integrity trigger under [Subcore 4-B §3 Integrity Trigger Categories](subcore_04.060_integrity_triggers_gifts_funding.md#3-integrity-trigger-categories).
 
 #### Article XIII-E: Authentic Voices and System-Mediated Influence
 

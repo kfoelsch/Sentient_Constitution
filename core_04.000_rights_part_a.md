@@ -16,6 +16,7 @@
 > - **Part D** covers **Articles XX–XXVI**: standing, justice after verified violation, portability, movement and refuge, complexity, root-cause diagnostics, and interpretive review.
 > - **Part E** covers **Articles XXVII–XXIX**: conflict resolution and review, constitutional evolution, Adoption Transition, and re-baselining.
 > - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that Articles VII, XVI, XVII, and XXIV rely on.
+> - [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md#subcore-4-b-integrity-triggers-gifts-and-funding), attached to this chapter, holds the integrity trigger categories and the gift register, gift threshold, apparent-conflict clearance, and funding-change log that carry Articles XIII-C (*Conflicts of Interest, Gifts, and Benefits*) and XIII-D (*Funding Integrity*).
 >
 > That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
 

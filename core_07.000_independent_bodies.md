@@ -117,7 +117,7 @@ Where an official's decision can be overturned by a phone call, the public gets 
     - is held in safe and readily available form, never in assets issued by anyone the body funds, checks, measures, or decides about;
     - is restored after a draw before any increase above the floor; and
     - has its balance, target, and every draw published.
-    Taking money from the reserve for any other purpose is interference under *Pattern evidence* below and an integrity trigger under **CI-6.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*);
+    Taking money from the reserve for any other purpose is interference under *Pattern evidence* below and an integrity trigger under [Subcore 4-B §3 Integrity Trigger Categories](subcore_04.060_integrity_triggers_gifts_funding.md#3-integrity-trigger-categories);
   - **Shortfalls:** where the money for its floor falls short, whoever pays it must:
     - publish the shortfall and its cause;
     - draw on the body's reserve before reducing its floor;

@@ -12,6 +12,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** this chapter defines legitimacy and stewardship requirements for governing authority.
 > - **Implementation owner:** designated implementation layers provide procedural oversight mechanics, staffing design, operational controls, and designated institutional mechanics.
+> - **Attached subcore file:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes.
 > - **Anti-relocation rule:** constitutional legitimacy thresholds remain here; workflow detail belongs to owner layers.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Four: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 3.1–3.2** after the mechanism-family lead-in, section 5 before its **Chapter Three** stewardship-definition index bullets, and section 5.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only.
@@ -591,6 +592,6 @@ Material stewardship and operation require **sentients** who can **exercise** au
 
 ---
 
-**Previous file:** [subcore_04.050_data_types.md](subcore_04.050_data_types.md)
+**Previous file:** [subcore_04.060_integrity_triggers_gifts_funding.md](subcore_04.060_integrity_triggers_gifts_funding.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.010_governance_disclosure.md](subcore_26.010_governance_disclosure.md)
