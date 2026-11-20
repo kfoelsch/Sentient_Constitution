@@ -306,7 +306,7 @@ flowchart TB
   - [CS-9.305 §7](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-7-classification-governance-disclosure-and-challenge)** (*Classification Governance, Disclosure, and Challenge*) — System Classification Record governance duties and the SAC bridge;
   - [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle);
   - [CJS-5.130 §21 — Adversarial robustness and abuse-resistance terms](corpus_joint_structure/cjs_05.130_continuity_operations.md#cjs-5130-20-continuity-reversibility-and-containment-terms) (*regression and hardening cycle obligations*);
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*).
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*).
 
 </details>
 

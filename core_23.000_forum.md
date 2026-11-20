@@ -145,7 +145,7 @@ The chapter leaves the certification rules to the certification chapters, the st
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - **[CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*);
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*);
   - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
 
 </details>
@@ -269,7 +269,7 @@ Two limits keep that work in its place:
   - [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*shared five-times LEQU bands and separate axis records*);
   - [Chapter Sixteen §§4.1–4.2](core_16.000_standing_measurement.md#41-contribution-route-descriptor-catalog-and-measurement-roles) (16.000 §4.1) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
   - **[CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*);
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*);
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Twenty-One §5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (21.000 §5) (*anti-constitutional-misconduct designation for qualifying Chapter Sixteen slots 7–9*);
   - [Chapter Twenty-One §6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (21.000 §6) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XXI** (*Justice After Verified Violation*)*);

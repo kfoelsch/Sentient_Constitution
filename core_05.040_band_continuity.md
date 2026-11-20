@@ -2050,7 +2050,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record);
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) and
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*).
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*).
 - Read with:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification);
   - [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record);
@@ -2125,7 +2125,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record);
   - [Chapter Twenty-Three](core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (23.000) and
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*).
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*).
 - Read with:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification);
   - [System Classification Record](core_05.040_band_continuity.md#system-classification-record);
