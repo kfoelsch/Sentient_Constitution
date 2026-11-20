@@ -100,8 +100,9 @@ The translations are paused, so they will be re-synced later rather than edited 
 |---|---|---|
 | Preamble | What the Constitution is for: *What Systems Reward*, *The Model*, *Measurements Overview*, *Governance and Stewardship* (about 2,850 words) | Preamble opening and §1–§3 |
 | 1 | **Constitutional Map**: an overview and ownership guide: principles, definitions and rights; charters and separation of duties; the pipelines; process ownership and the owner register; change and incorporation; the three tiers (about 4,500 words) | Preamble §4–§9 |
-| 2–5 | Values and principles (Chapter One stays one chapter, in its five files), definition structure and integrity, burden and traceability | Chapters One to Four |
-| … | Definitions, rights, charters | Chapters Five to Seven |
+| 2 | Values and principles (Chapter One stays one chapter, in its five files) | Chapter One |
+| 3 | **Definitions**, with a short core section *How Definitions and Proof Work*; the full text of Chapters Two to Four becomes three subcore files attached to this chapter | Chapters Two to Five |
+| … | Rights, charters | Chapters Six and Seven |
 | … | Functional independence and separation of duties | Chapter Eight §1–§10 |
 | … | **Independent Bodies**: the general rules for every body, and a list of the bodies the Constitution creates, with each one's purpose and a one-line statement of each guarantee it gives sentients | Chapter Eight §11, and the office drafts |
 | … | Pipeline chapters, each shortened, with subcore files | Chapters Nine to Twenty-Four |
@@ -121,6 +122,14 @@ The list also says how a body is added: a body the Constitution requires of ever
 The general rules now in Chapter Eight §11 are about 2,770 words. They stay whole in the new chapter, since every body relies on them and they are short enough to read.
 
 **How the Preamble splits (decision B).** The Preamble keeps its opening and §1–§3; §4–§9 become the *Constitutional Map*. One adjustment I recommend: move §3.2 *Key Governance Processes* into the Map beside §6 *Key Practical Process Pipelines*, because it lists the same pipelines; §3.1 (measurements in governance) and §3.3 (governance layers) stay in the Preamble. About 7,700 links point into the Preamble; the renumbering pass rewrites the ones whose sections move.
+
+**Chapters Two to Four into the subcore (custodian, 2026-11-20: "I'm not sure the average reader is going to care about chapters 2, 3, or 4, so I think they're strong candidates for the subcore").** Agreed. They are about 9,500 words of method: how a definition is built, when a definition is failed or evaded, and how compliance is proved. Readers rely on them without needing to read them. Because a subcore file belongs to one chapter, they attach to the Definitions chapter, which they already serve, as *Subcore 3-A: Definition Structure*, *Subcore 3-B: Definition Integrity*, and *Subcore 3-C: Burden of Proof, Traceability, and Verification* (letters final at the renumbering). The Definitions chapter gains a short core section, *How Definitions and Proof Work*, with one line for each guarantee they carry:
+
+- every definition says what a term is, how it is measured and assessed, and what must hold, and all four must be met for the system as it really runs;
+- meeting a definition's words while defeating its purpose, by narrowing it where it applies or splitting a harm into pieces, is failing it;
+- whoever claims compliance must prove it, and the proof must be traceable and checkable by others, even where security limits how or when it is shown.
+
+The burden-of-proof line is the one most readers need, so the *Constitutional Map* repeats it in its overview. This removes three chapters from the reading path and shortens the renumbering, since the chapter count drops by three. The §2 drafts for Chapters Two to Four in [section_2_drafts_2026-11-20.md](section_2_drafts_2026-11-20.md) become the opening of that core section instead.
 
 ## 4. What moves into subcore files (after the renumbering)
 
@@ -151,7 +160,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 **Where the core stands (chapter lead files).**
 
 - **Have a *why* §2, need only the Grounded in list:** Chapters Five, Six, Eight, Nine, Twelve, Twenty-Five, and Twenty-Six (seven chapters).
-- **Need a new §2:** the other twenty-four chapters. In most of them today's §2 is working text, so a new §2 pushes every later section down by one.
+- **Need a new §2:** the other twenty-four chapters, now twenty, since Chapter One is exempt and Chapters Two to Four move to the subcore. In most of them today's §2 is working text, so a new §2 pushes every later section down by one.
 
 **Why it belongs in the renumbering.** Inserting a new §2 renumbers every later section of the chapter, and every cite to those sections across the corpus. Doing it inside the renumbering pass means each cite is rewritten once. Doing it afterward would mean a second large cite rewrite.
 
@@ -189,3 +198,4 @@ All settled by the custodian on 2026-11-20:
 - **F**: Chapter One stays one chapter. The public offices are listed in the Independent Bodies chapter, each with its full text in the subcore.
 - **B**: the Preamble splits after §3; the rest becomes the *Constitutional Map*, and §3.2 moves into the Map beside §6 (custodian, 2026-11-20: "Everything you just said is good").
 - **Section 2**: part of this plan (section 6 above).
+- **Chapters Two to Four**: subcore files of the Definitions chapter, with a short core section stating their guarantees (section 3 above).

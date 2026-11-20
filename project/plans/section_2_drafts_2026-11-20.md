@@ -16,6 +16,8 @@ Step 3a of core_reorganization_plan_2026-11-20.md.
 - **Part C** has §2 for the two new chapters, the *Constitutional Map* and *Independent Bodies*.
 - The grounding lists name the principles and Articles each chapter most directly serves, not every one it cites. The full upstream lists stay in each chapter's Trace widget until the move, when the upstream items named here leave the widget.
 
+**Update (custodian, 2026-11-20).** Chapters Two to Four move to the subcore as files of the Definitions chapter, so their drafts below no longer become §2 sections; their *why* paragraphs open the new core section *How Definitions and Proof Work* instead. That leaves twenty chapters in Part A.
+
 **Open points for the custodian.**
 
 1. **Chapter One.** Chapter One *is* the principles every other chapter is grounded in, and its §2 *Flourishing Aim: Introduction* is principle text. I recommend Chapter One keeps its structure and is exempt from the section 2 standard; the audit would skip it.
