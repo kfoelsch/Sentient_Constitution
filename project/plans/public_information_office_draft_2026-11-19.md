@@ -17,7 +17,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 4. **Policy advice.** The draft bars the office from advocating policy (§8). Alternative: allow published, clearly labeled analysis of policy options.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) would route commissioning through this office's research intake.
+> - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) would route commissioning through this office's research intake.
 > - [CF-23.430](../../corpus_forum/cf_23.430_forum_forensic_analytical_support.md) (*Forum forensic and analytical support*) stays the home for case-specific forensic and analytical support. This office handles research that goes beyond a single case, and the boundary would be written into both texts.
 > - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) would govern the office's own publications.
 > - **CS-6.305** and **CS-6.310** govern how the office handles each data type; this chapter adds no data type.
@@ -56,7 +56,7 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** paragraph of [§2](#2-why-the-public-information-office-exists).
 - Downstream: [§2](#2-why-the-public-information-office-exists) through [§11](#11-proportional-scaling); the Public Finance Office chapter (ledger check, research reserve); a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
 - Read with:
-  - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) (*Research and Uncertainty-Reduction Authority*);
+  - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) (*Research and Uncertainty-Reduction Authority*);
   - **CF-23.430** (*Forum forensic and analytical support*);
   - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*);
   - **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data classifications*).
@@ -71,7 +71,7 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 
 **Role:** Chapter [I] is the constitutional owner of public statistics and forum-requested research. Where it sits:
 
-- [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) lets a forum commission research once it publishes a finding that uncertainty is blocking reliable decisions. This chapter runs that research; the forum still decides what the findings mean for its case.
+- [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) lets a forum commission research once it publishes a finding that uncertainty is blocking reliable decisions. This chapter runs that research; the forum still decides what the findings mean for its case.
 - The Public Finance Office chapter pays for the office and for forum-requested research, and does not direct either.
 - A later corpus-institutions file carries the indicator catalog, release calendar, and research intake forms. It may not narrow this chapter.
 
@@ -175,7 +175,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: a forum says what question it needs answered. The office finds independent researchers, keeps them at arm's length from the parties, and publishes the answer to everyone at once.*
 
-**Intake.** A forum that has published a finding under [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority), or a comparable finding by another forum family, sends the office its scope order. The office checks the order for completeness and passes it to the Public Finance Office for funding from the research reserve.
+**Intake.** A forum that has published a finding under [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority), or a comparable finding by another forum family, sends the office its scope order. The office checks the order for completeness and passes it to the Public Finance Office for funding from the research reserve.
 
 **Selection.** The office selects researchers by criteria published before the call. The requesting forum, the parties, and the Finance Office do not pick researchers. Selection:
 
@@ -185,7 +185,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 **Arm's length.** No party may contact the researchers about the work except through a published, shared channel. The researchers' reports go to the requesting forum, every party, and the public at the same moment, unless a narrower lawful exception applies under §7.
 
-**Provisional status.** A research finding informs a forum. It does not bind one, and it does not become law without the ordinary review and adoption pathways, as [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) already requires.
+**Provisional status.** A research finding informs a forum. It does not bind one, and it does not become law without the ordinary review and adoption pathways, as [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) already requires.
 
 **Shared questions.** Where several forums ask the same or overlapping questions, the office may combine the requests into one study, with the agreement of each requesting forum and a published record of the merger.
 

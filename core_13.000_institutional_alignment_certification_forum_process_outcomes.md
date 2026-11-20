@@ -66,7 +66,7 @@ The chapter leaves:
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map);
   - **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*);
   - **CF-23.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*);
-  - **CF-23.435 §6** (*no self-investigation*).
+  - **CF-23.435 §7** (*no self-investigation*).
 
 </details>
 
@@ -146,7 +146,7 @@ The supervisory sequence in [Chapter Ten §2.2 Supervisory Sequence](core_10.000
 
 A forum host, a certifying body, an Institutional Certification Record office, a verifying authority, or any other body that takes part in certifications is an [Institution](core_05.040_band_continuity.md#institution) where it meets that definition, and this Chapter applies to it as to any other Institution of its class.
 
-- **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](core_05.035_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Twenty-Three §5 Transfer, consolidation, and anti-self-judging](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-23.435 §6** (*no self-investigation*) applies.
+- **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](core_05.035_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Twenty-Three §5 Transfer, consolidation, and anti-self-judging](core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-23.435 §7** (*no self-investigation*) applies.
 - **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A certification pass that would close a circle routes to a body outside it.
 - **Seats stay apart:** Taking part in another body's certification, including by holding a seat in it, gives a body no advantage of its own.
   - **No hold over the other body:** it gives no power over how that body responds to its certification, such as its answer to findings, certification conditions, or challenges.

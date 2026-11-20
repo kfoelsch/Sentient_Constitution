@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T05:29:59+00:00",
+  "generated_at": "2026-11-20T05:37:25+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2684,40 +2684,42 @@
       ]
     },
     "corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md": {
-      "total_lines": 366,
+      "total_lines": 378,
       "sections": [
-        {"header":"CF-23.435: Independent Investigative Service and Prosecution Interface","level":1,"line_start":1,"line_end":366,"anchor":null},
-        {"header":"CF-23.435 §1 Basic Rule","level":2,"line_start":84,"line_end":109,"anchor":null},
-        {"header":"CF-23.435 §2 Why Independence Matters","level":2,"line_start":110,"line_end":130,"anchor":null},
-        {"header":"CF-23.435 §3 Where the Investigative Service Belongs","level":2,"line_start":131,"line_end":166,"anchor":null},
-        {"header":"CF-23.435 §4 What Investigators May Do","level":2,"line_start":167,"line_end":201,"anchor":null},
-        {"header":"CF-23.435 §5 Required Separations","level":2,"line_start":202,"line_end":275,"anchor":null},
-        {"header":"CF-23.435 §5.1 Non-Forum Investigative, Security-Support, and Enforcement Roles","level":3,"line_start":231,"line_end":254,"anchor":null},
-        {"header":"CF-23.435 §5.2 Forum and Forum-Adjacent Roles","level":3,"line_start":255,"line_end":275,"anchor":null},
-        {"header":"CF-23.435 §6 No Self-Investigation","level":2,"line_start":276,"line_end":300,"anchor":null},
-        {"header":"CF-23.435 §7 Rights, Secrecy, and Protected Activity","level":2,"line_start":301,"line_end":329,"anchor":null},
-        {"header":"CF-23.435 §8 Records, Referrals, and Backup Routes","level":2,"line_start":330,"line_end":366,"anchor":null}
+        {"header":"CF-23.435: Independent Investigative Service and Prosecution Interface","level":1,"line_start":1,"line_end":378,"anchor":null},
+        {"header":"CF-23.435 §1 Purpose, Role, and Scope","level":2,"line_start":82,"line_end":87,"anchor":null},
+        {"header":"CF-23.435 §2 Why Independence Matters","level":2,"line_start":88,"line_end":116,"anchor":null},
+        {"header":"CF-23.435 §3 Basic Rule","level":2,"line_start":117,"line_end":142,"anchor":null},
+        {"header":"CF-23.435 §4 Where the Investigative Service Belongs","level":2,"line_start":143,"line_end":178,"anchor":null},
+        {"header":"CF-23.435 §5 What Investigators May Do","level":2,"line_start":179,"line_end":213,"anchor":null},
+        {"header":"CF-23.435 §6 Required Separations","level":2,"line_start":214,"line_end":287,"anchor":null},
+        {"header":"CF-23.435 §6.1 Non-Forum Investigative, Security-Support, and Enforcement Roles","level":3,"line_start":243,"line_end":266,"anchor":null},
+        {"header":"CF-23.435 §6.2 Forum and Forum-Adjacent Roles","level":3,"line_start":267,"line_end":287,"anchor":null},
+        {"header":"CF-23.435 §7 No Self-Investigation","level":2,"line_start":288,"line_end":312,"anchor":null},
+        {"header":"CF-23.435 §8 Rights, Secrecy, and Protected Activity","level":2,"line_start":313,"line_end":341,"anchor":null},
+        {"header":"CF-23.435 §9 Records, Referrals, and Backup Routes","level":2,"line_start":342,"line_end":378,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md": {
-      "total_lines": 282,
+      "total_lines": 294,
       "sections": [
-        {"header":"CF-23.440: Technical Specialist Forums and Specialist Chambers","level":1,"line_start":1,"line_end":282,"anchor":null},
-        {"header":"CF-23.440 §1 Basic Rule","level":2,"line_start":95,"line_end":100,"anchor":null},
-        {"header":"CF-23.440 §2 Purpose","level":2,"line_start":101,"line_end":106,"anchor":null},
-        {"header":"CF-23.440 §3 Core Functions","level":2,"line_start":107,"line_end":133,"anchor":null},
-        {"header":"CF-23.440 §4 Required Chamber Coverage","level":2,"line_start":134,"line_end":152,"anchor":null},
-        {"header":"CF-23.440 §5 Optional Additional Chambers","level":2,"line_start":153,"line_end":165,"anchor":null},
-        {"header":"CF-23.440 §6 Routing and Limits","level":2,"line_start":166,"line_end":173,"anchor":null},
-        {"header":"CF-23.440 §7 Standard-Setting Constraints","level":2,"line_start":174,"line_end":181,"anchor":null},
-        {"header":"CF-23.440 §8 Shared Standards and Decentralized Enforcement","level":2,"line_start":182,"line_end":189,"anchor":null},
-        {"header":"CF-23.440 §9 Institutional-Forum Interface","level":2,"line_start":190,"line_end":197,"anchor":null},
-        {"header":"CF-23.440 §10 Departure and Variance","level":2,"line_start":198,"line_end":212,"anchor":null},
-        {"header":"CF-23.440 §11 Cross-Jurisdiction Recognition","level":2,"line_start":213,"line_end":232,"anchor":null},
-        {"header":"CF-23.440 §12 Educational Materials and Textbook Disputes","level":2,"line_start":233,"line_end":240,"anchor":null},
-        {"header":"CF-23.440 §13 Independence and Composition","level":2,"line_start":241,"line_end":248,"anchor":null},
-        {"header":"CF-23.440 §14 Research and Uncertainty-Reduction Authority","level":2,"line_start":249,"line_end":269,"anchor":null},
-        {"header":"CF-23.440 §15 Publication and Review Governance","level":2,"line_start":270,"line_end":282,"anchor":null}
+        {"header":"CF-23.440: Technical Specialist Forums and Specialist Chambers","level":1,"line_start":1,"line_end":294,"anchor":null},
+        {"header":"CF-23.440 §1 Purpose, Role, and Scope","level":2,"line_start":93,"line_end":98,"anchor":null},
+        {"header":"CF-23.440 §2 Why Technical Specialist Forums Exist","level":2,"line_start":99,"line_end":112,"anchor":null},
+        {"header":"CF-23.440 §3 Basic Rule","level":2,"line_start":113,"line_end":118,"anchor":null},
+        {"header":"CF-23.440 §4 Core Functions","level":2,"line_start":119,"line_end":145,"anchor":null},
+        {"header":"CF-23.440 §5 Required Chamber Coverage","level":2,"line_start":146,"line_end":164,"anchor":null},
+        {"header":"CF-23.440 §6 Optional Additional Chambers","level":2,"line_start":165,"line_end":177,"anchor":null},
+        {"header":"CF-23.440 §7 Routing and Limits","level":2,"line_start":178,"line_end":185,"anchor":null},
+        {"header":"CF-23.440 §8 Standard-Setting Constraints","level":2,"line_start":186,"line_end":193,"anchor":null},
+        {"header":"CF-23.440 §9 Shared Standards and Decentralized Enforcement","level":2,"line_start":194,"line_end":201,"anchor":null},
+        {"header":"CF-23.440 §10 Institutional-Forum Interface","level":2,"line_start":202,"line_end":209,"anchor":null},
+        {"header":"CF-23.440 §11 Departure and Variance","level":2,"line_start":210,"line_end":224,"anchor":null},
+        {"header":"CF-23.440 §12 Cross-Jurisdiction Recognition","level":2,"line_start":225,"line_end":244,"anchor":null},
+        {"header":"CF-23.440 §13 Educational Materials and Textbook Disputes","level":2,"line_start":245,"line_end":252,"anchor":null},
+        {"header":"CF-23.440 §14 Independence and Composition","level":2,"line_start":253,"line_end":260,"anchor":null},
+        {"header":"CF-23.440 §15 Research and Uncertainty-Reduction Authority","level":2,"line_start":261,"line_end":281,"anchor":null},
+        {"header":"CF-23.440 §16 Publication and Review Governance","level":2,"line_start":282,"line_end":294,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md": {

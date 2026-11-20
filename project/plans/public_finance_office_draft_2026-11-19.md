@@ -20,7 +20,7 @@ against the live text; they will be rewritten when the chapter is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-6.335. That pointer would name this chapter instead.
-> - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
+> - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
 > - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) "funding source" would accept the office as the named source.
 > - [CF-23.415 §6](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-6-integrity-registrar) (Integrity registrar) would receive this office's audits.
 > - [Chapter Twenty §4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) keeps forums answerable for their own adequacy; this chapter supplies the money path, not a new answerable party.
@@ -231,7 +231,7 @@ These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.m
 
 *In plain terms: when a forum needs research to decide well, the office pays for it out of a set-aside fund, by rule. The office does not get a vote on whether the research is a good idea.*
 
-**Research reserve.** Each cycle, the office holds a **research reserve** sized by the published formula. The reserve funds research, replication, testing, field study, standards development, and evidence synthesis requested by a forum under [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) or a comparable published finding by another forum family.
+**Research reserve.** Each cycle, the office holds a **research reserve** sized by the published formula. The reserve funds research, replication, testing, field study, standards development, and evidence synthesis requested by a forum under [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) or a comparable published finding by another forum family.
 
 **Funding by rule.** When a forum issues a published scope order, the office must fund it unless:
 

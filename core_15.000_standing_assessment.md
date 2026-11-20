@@ -699,8 +699,8 @@ Those tools must keep the fields required by **section 5.1** separately visible 
   - **CI-8.205 §2** (*Functional separation lanes — published lane map, the fallback when a System Charter or Institutional Charter is silent*);
   - **CI-8.205 §3** (*authority chain and delegation controls*);
   - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
-  - **CF-23.435 §6** (*no self-investigation*) and
-  - **CF-23.435 §8** (*Records, Referrals, and Backup Routes*) for verified-finding handoff;
+  - **CF-23.435 §7** (*no self-investigation*) and
+  - **CF-23.435 §9** (*Records, Referrals, and Backup Routes*) for verified-finding handoff;
   - [Chapter Twenty-Three §3.3.3](core_23.000_forum.md#333-lead-default-limits) (23.000 §3.3.3) (*anti-self-judging backup*);
   - [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*who authorized; the log is not the Standing Record*);
   - [Chapter One §17.5](core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) (1.040 §17.5) (*halt, refuse, document, escalate*).
@@ -767,7 +767,7 @@ The following may not act as record-opening authority or record custodian for a 
 Beyond that exclusion:
 
 - **Stewards inside the subject:** A steward who is part of the Standing Record's subject (that is, works within the party, chartered scope, or system the Standing Record is about) and who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the Standing Record.
-  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the Standing Record routes to independent verification: a forum under **section 3.7**, the independent investigative service under **CF-23.435 §6** (*No Self-Investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or backup designation names first.
+  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the Standing Record routes to independent verification: a forum under **section 3.7**, the independent investigative service under **CF-23.435 §7** (*No Self-Investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or backup designation names first.
 - **Defaults:** Where none is named, the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)) is the default record-opening authority and the Backup Record Custodian (**CF-23.415 §9** (*Backup Record Custodian*)) is the default custodian.
 - **No named route:** Absence of any such named route is a gap the steward must name in the log, not a reason to enter the Standing Record themselves.
 - **Two rules together:** This rule excludes parties by their interest in the Standing Record; [§6.1 Separation of Duties](#61-separation-of-duties) separates seats by function. Both apply, and the narrower answer controls.

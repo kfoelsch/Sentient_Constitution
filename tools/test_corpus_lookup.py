@@ -102,7 +102,7 @@ class CorpusLookupTests(unittest.TestCase):
         resolver = json.loads(
             (ROOT / "ai_corpus/indexes/id_resolver.json").read_text(encoding="utf-8")
         )
-        section_id = "CF-23.440 §1"
+        section_id = "CF-23.440 §3"
         gloss = resolver["ids"]["CF-23.440"]["gloss"]
         self.assertIn(GLOSS_NEEDLE, gloss)
         code, resolved = run_cli("resolve", section_id)
@@ -112,7 +112,7 @@ class CorpusLookupTests(unittest.TestCase):
         code, payload = run_cli("hydrate", section_id)
         self.assertEqual(code, 0)
         text = payload["result"]["text"]
-        self.assertTrue(text.startswith("## CF-23.440 §1"))
+        self.assertTrue(text.startswith("## CF-23.440 §3"))
         self.assertNotEqual(text.strip(), gloss.strip())
         self.assertEqual(payload["result"]["file"], CF10)
         self.assertNotIn("gloss", payload["result"])
@@ -166,7 +166,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertEqual(code, 0)
         ids = [item["id"] for item in payload["result"]["ids"]]
         self.assertIn("CF-23.440", ids)
-        self.assertIn("CF-23.440 §1", ids)
+        self.assertIn("CF-23.440 §3", ids)
         for item in payload["result"]["ids"]:
             self.assertNotIn("text", item)
             self.assertNotIn("gloss", item)

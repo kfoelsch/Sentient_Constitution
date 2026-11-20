@@ -138,7 +138,7 @@ The integrity rules of [Chapter Eleven §2.2 Transparency and Auditability of th
   - [Recertification](core_05.040_band_continuity.md#recertification);
   - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification);
   - [Full Certification](core_05.040_band_continuity.md#full-certification);
-  - **CF-23.435 §6** (*no self-investigation*).
+  - **CF-23.435 §7** (*no self-investigation*).
 
 </details>
 
