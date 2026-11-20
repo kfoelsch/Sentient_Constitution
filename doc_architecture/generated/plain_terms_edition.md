@@ -4066,7 +4066,7 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 #### 11. Independent Bodies
 
-some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.
+some bodies exist to check, fund, measure, or judge others, so they only work if no one can lean on them. Whoever pays a body can steer it, so its funding is protected too, it keeps a reserve so that a political fight over a budget cannot shut it down, and any cut in hard times follows a rule published in advance. Rather than repeat the same protections in every chapter, this section sets them once. A chapter that creates such a body cites this section and adds only what is special to that body.
 
 [Source](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies)
 
