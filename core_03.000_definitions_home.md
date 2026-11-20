@@ -28,7 +28,10 @@ Chapter Three is the constitutional owner of **foundational definitions**, inclu
 
 **Role:** The chapter is the naming layer of the definition stack, and it holds the terms the other layers work on:
 
-- [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) says how every definition is built, [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition, and [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) says who must prove compliance, and how. This chapter takes that mechanics as fixed.
+- The chapter's subcore supplies the mechanics, which this chapter takes as fixed:
+  - [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) says how every definition is built;
+  - [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition; and
+  - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
 - Later chapters and implementation text apply Chapter Three terms under the rule in **section 2**.
 - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) holds the Rights Floor. Read it for the rights themselves, then return here for term precision in interpretation, audit, and adjudication.
 
