@@ -75,8 +75,12 @@
       "snippet": "| 2 | About 9–47 days | Small Baseline Contribution — reliable, bounded performance above the minimum floor within this impact level. | Smal"
     },
     {
-      "key": "core_17.000_contribution_consequences.md::duration::cf2c20419d9b",
-      "snippet": "After 50 years, a contribution remains in the historical record but supplies no current clearance weight."
+      "key": "core_17.000_contribution_consequences.md::duration::03eb6d2931bf",
+      "snippet": "After 50 years a contribution stays in the historical record but supplies no current clearance weight, and continuing contribution may be sh"
+    },
+    {
+      "key": "core_17.000_contribution_consequences.md::duration::b6d5c032364f",
+      "snippet": "Default rate: unless a stricter published role-specific rule applies, current weight halves every ten years, calculated by whole days."
     },
     {
       "key": "core_23.000_forum_families_escalation_timeliness_support.md::duration::3aa98e88dc91",
@@ -305,6 +309,14 @@
     {
       "key": "subcore_04.050_data_types.md::duration::a4c6eb7f1210",
       "snippet": "Where the rights-holder has neither made the work available nor offered it for use on reasonable terms for a continuous period of three year"
+    },
+    {
+      "key": "subcore_17.010_recency_competency_clearance.md::duration::7be096add4d0",
+      "snippet": "*In plain terms: older contribution counts for less, halving every ten years, and stops counting toward clearance after fifty."
+    },
+    {
+      "key": "subcore_17.010_recency_competency_clearance.md::duration::cf2c20419d9b",
+      "snippet": "After 50 years, a contribution remains in the historical record but supplies no current clearance weight."
     }
   ]
 }

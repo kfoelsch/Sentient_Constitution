@@ -3,8 +3,8 @@
   "effective_date": "2026-10-21",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 1010,
-  "glossed_count": 590,
+  "heading_count": 1006,
+  "glossed_count": 586,
   "files": [
     {
       "file": "core_00.000_preamble.md",
@@ -737,19 +737,15 @@
     {
       "file": "core_17.000_contribution_consequences.md",
       "title": "CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES",
-      "heading_count": 10,
-      "glossed_count": 9,
+      "heading_count": 6,
+      "glossed_count": 5,
       "sections": [
         {"file":"core_17.000_contribution_consequences.md","level":1,"title":"CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES","anchor":"chapter-seventeen-contribution-consequences","line":1,"gloss":null,"gloss_line":null},
         {"file":"core_17.000_contribution_consequences.md","level":3,"title":"1. Purpose, Role, and Scope","anchor":"1-purpose-role-and-scope","line":25,"gloss":"this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.","gloss_line":27},
         {"file":"core_17.000_contribution_consequences.md","level":3,"title":"2. Why Contribution Consequences Exist","anchor":"2-why-contribution-consequences-exist","line":52,"gloss":"verified good work should count for something, but never as a way to buy past harm. This chapter exists to say what contribution may and may not do.","gloss_line":54},
         {"file":"core_17.000_contribution_consequences.md","level":3,"title":"3. Contribution Consequences","anchor":"3-contribution-consequences","line":75,"gloss":"this section asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.","gloss_line":77},
         {"file":"core_17.000_contribution_consequences.md","level":4,"title":"3.1 Recency and Currentness","anchor":"31-recency-and-currentness","line":98,"gloss":"how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Fifteen measurement, and time alone does not settle an unresolved violation.","gloss_line":100},
-        {"file":"core_17.000_contribution_consequences.md","level":4,"title":"3.2 Competency Bars and Clearances","anchor":"32-competency-bars-and-clearances","line":140,"gloss":"a competency bar is the published standard for a gated pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the gated pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a gated pathway that a standing lock still blocks.","gloss_line":142},
-        {"file":"core_17.000_contribution_consequences.md","level":5,"title":"3.2.1 What a Bar Requires","anchor":"321-what-a-bar-requires","line":156,"gloss":"a bar says what readiness a gated pathway needs, shown by evidence that fits the role. It is only as demanding as the role's reach, others' reliance on it, and the foreseeable risk justify. Informal work can meet it as well as a formal credential can.","gloss_line":158},
-        {"file":"core_17.000_contribution_consequences.md","level":5,"title":"3.2.2 Guarding against Gatekeeping","anchor":"322-guarding-against-gatekeeping","line":178,"gloss":"a bar tests readiness; it does not screen sentients out. Formal and informal experience meet the same demonstrability standard, and the integration record must show how access, fit, and review were handled.","gloss_line":180},
-        {"file":"core_17.000_contribution_consequences.md","level":5,"title":"3.2.3 Continuity, Retesting, and Capacity Change","anchor":"323-continuity-retesting-and-capacity-change","line":203,"gloss":"once clearance is granted and the gated pathway is open, it stays open by default. It is reopened, limited, or withdrawn only on published retesting, a real change in role-relevant capacity, a standing lock, or another reassessment trigger.","gloss_line":205},
-        {"file":"core_17.000_contribution_consequences.md","level":5,"title":"3.2.4 What the Clearance Record Must Say","anchor":"324-what-the-clearance-record-must-say","line":218,"gloss":"every clearance result must be readable on its face: what was decided, against which bar, on what evidence, who can contest it, and what would trigger reassessment.","gloss_line":220}
+        {"file":"core_17.000_contribution_consequences.md","level":4,"title":"3.2 Competency Bars and Clearances","anchor":"32-competency-bars-and-clearances","line":115,"gloss":"a competency bar is the published standard for a gated pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the gated pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a gated pathway that a standing lock still blocks.","gloss_line":117}
       ]
     },
     {

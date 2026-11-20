@@ -1220,6 +1220,6 @@ An [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) under [Cha
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
-**Previous file:** [core_17.000_contribution_consequences.md](core_17.000_contribution_consequences.md)
+**Previous file:** [subcore_17.010_recency_competency_clearance.md](subcore_17.010_recency_competency_clearance.md)
 
 **Next file:** [core_19.000_final_effect_restoration_enforcement.md](core_19.000_final_effect_restoration_enforcement.md)

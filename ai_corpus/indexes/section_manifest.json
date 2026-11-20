@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T23:47:15+00:00",
+  "generated_at": "2026-11-20T23:55:16+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -670,18 +670,14 @@
       ]
     },
     "core_17.000_contribution_consequences.md": {
-      "total_lines": 243,
+      "total_lines": 142,
       "sections": [
-        {"header":"CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES","level":1,"line_start":1,"line_end":243,"anchor":null},
+        {"header":"CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES","level":1,"line_start":1,"line_end":142,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":25,"line_end":51,"anchor":null},
         {"header":"2. Why Contribution Consequences Exist","level":3,"line_start":52,"line_end":74,"anchor":"#2-why-contribution-consequences-exist"},
-        {"header":"3. Contribution Consequences","level":3,"line_start":75,"line_end":243,"anchor":null},
-        {"header":"3.1 Recency and Currentness","level":4,"line_start":98,"line_end":139,"anchor":"#31-recency-and-currentness"},
-        {"header":"3.2 Competency Bars and Clearances","level":4,"line_start":140,"line_end":243,"anchor":"#32-competency-bars-and-clearances"},
-        {"header":"3.2.1 What a Bar Requires","level":5,"line_start":156,"line_end":177,"anchor":"#321-what-a-bar-requires"},
-        {"header":"3.2.2 Guarding against Gatekeeping","level":5,"line_start":178,"line_end":202,"anchor":"#322-guarding-against-gatekeeping"},
-        {"header":"3.2.3 Continuity, Retesting, and Capacity Change","level":5,"line_start":203,"line_end":217,"anchor":"#323-continuity-retesting-and-capacity-change"},
-        {"header":"3.2.4 What the Clearance Record Must Say","level":5,"line_start":218,"line_end":243,"anchor":"#324-what-the-clearance-record-must-say"}
+        {"header":"3. Contribution Consequences","level":3,"line_start":75,"line_end":142,"anchor":null},
+        {"header":"3.1 Recency and Currentness","level":4,"line_start":98,"line_end":114,"anchor":"#31-recency-and-currentness"},
+        {"header":"3.2 Competency Bars and Clearances","level":4,"line_start":115,"line_end":142,"anchor":"#32-competency-bars-and-clearances"}
       ]
     },
     "core_18.000_violation_consequences.md": {
@@ -1881,6 +1877,20 @@
         {"header":"12.6 Scaled Duties","level":4,"line_start":901,"line_end":928,"anchor":null},
         {"header":"13. Classification as Steward","level":3,"line_start":929,"line_end":977,"anchor":null},
         {"header":"14. Stewardship Criticality Levels","level":3,"line_start":978,"line_end":998,"anchor":null}
+      ]
+    },
+    "subcore_17.010_recency_competency_clearance.md": {
+      "total_lines": 174,
+      "sections": [
+        {"header":"SUBCORE 17-A: RECENCY AND COMPETENCY CLEARANCE","level":1,"line_start":2,"line_end":174,"anchor":"#subcore-17-a-recency-and-competency-clearance"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Detail Is the Same for Every Adopter","level":3,"line_start":23,"line_end":45,"anchor":null},
+        {"header":"3. Currentness Calculation","level":3,"line_start":46,"line_end":83,"anchor":"#3-currentness-calculation"},
+        {"header":"4. Competency Bars and Clearances in Detail","level":3,"line_start":84,"line_end":174,"anchor":"#4-competency-bars-and-clearances-in-detail"},
+        {"header":"4.1 What a Bar Requires","level":4,"line_start":91,"line_end":112,"anchor":"#41-what-a-bar-requires"},
+        {"header":"4.2 Guarding against Gatekeeping","level":4,"line_start":113,"line_end":137,"anchor":"#42-guarding-against-gatekeeping"},
+        {"header":"4.3 Continuity, Retesting, and Capacity Change","level":4,"line_start":138,"line_end":152,"anchor":"#43-continuity-retesting-and-capacity-change"},
+        {"header":"4.4 What the Clearance Record Must Say","level":4,"line_start":153,"line_end":174,"anchor":"#44-what-the-clearance-record-must-say"}
       ]
     },
     "subcore_22.010_forum_intake_default_venue.md": {

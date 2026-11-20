@@ -109,7 +109,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapters 11–13**: [11](core_11.000_institutional_alignment_certification_evaluation.md) · [12](core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · [13](core_13.000_institutional_alignment_certification_records_recertification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
 | **Chapter 14**: [Standing Records](core_14.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
 | **Chapter 15**: [Standing measurement](core_15.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
-| **Chapters 16–19**: [16](core_16.000_standing_integration.md) · [17](core_17.000_contribution_consequences.md) · [18](core_18.000_violation_consequences.md) · [19](core_19.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
+| **Chapters 16–19**: [16](core_16.000_standing_integration.md) · [17](core_17.000_contribution_consequences.md) · [Subcore 17-A](subcore_17.010_recency_competency_clearance.md) · [18](core_18.000_violation_consequences.md) · [19](core_19.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
 | **Chapters 20–21**: [20](core_20.000_misconduct_designation.md) · [21](core_21.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
 | **Chapter 22**: [Forum](core_22.000_forum.md) · [Subcore 22-A forum intake and default venue](subcore_22.010_forum_intake_default_venue.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
 | **Chapter 23**: [Forum families and timely resolution](core_23.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
@@ -207,6 +207,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - System classes, dependency types, and steward levels: [Subcore 8-A](subcore_08.010_system_classification.md)
 - Data types and data-handling rules: [Subcore 4-A](subcore_04.050_data_types.md)
 - Gifts, conflicts of interest, funding changes, and the kinds of integrity failure: [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md)
+- How contribution fades over time, and the full rules for competency bars and clearances: [Subcore 17-A](subcore_17.010_recency_competency_clearance.md)
 - The force ladder, freezes and seizure, and the death-review steps: [Subcore 25-A](subcore_25.010_special_enforcement_procedure.md)
 - What every institution's governance report must contain: [Subcore 26-A](subcore_26.010_governance_disclosure.md)
 - Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)

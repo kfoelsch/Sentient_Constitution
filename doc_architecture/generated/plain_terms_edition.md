@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **590** of **1010** headings carry a gloss (58%).
+Coverage: **586** of **1006** headings carry a gloss (58%).
 
 ## Contents
 
@@ -31,7 +31,7 @@ Coverage: **590** of **1010** headings carry a gloss (58%).
 - [CHAPTER FOURTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fourteen-standing-records--question-1-what-happened) — `core_14.000_standing_assessment.md` (9/46 glossed)
 - [CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_15.000_standing_measurement.md` (11/38 glossed)
 - [CHAPTER SIXTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-sixteen-standing-integration--question-3-what-follows) — `core_16.000_standing_integration.md` (20/21 glossed)
-- [CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES](#chapter-seventeen-contribution-consequences) — `core_17.000_contribution_consequences.md` (9/10 glossed)
+- [CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES](#chapter-seventeen-contribution-consequences) — `core_17.000_contribution_consequences.md` (5/6 glossed)
 - [CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-eighteen-violation-consequences--remedy-correction-and-locks) — `core_18.000_violation_consequences.md` (41/49 glossed)
 - [CHAPTER NINETEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-nineteen-final-standing-effect-restoration-and-enforcement) — `core_19.000_final_effect_restoration_enforcement.md` (12/18 glossed)
 - [CHAPTER TWENTY: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-anti-constitutional-misconduct-designation) — `core_20.000_misconduct_designation.md` (10/18 glossed)
@@ -3371,7 +3371,7 @@ descriptors and attachments point to the matching bars, remedies, safeguards, an
 
 ## CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES
 
-Source file: [`core_17.000_contribution_consequences.md`](../../core_17.000_contribution_consequences.md) · 9/10 headings glossed
+Source file: [`core_17.000_contribution_consequences.md`](../../core_17.000_contribution_consequences.md) · 5/6 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -3402,30 +3402,6 @@ how much does an older verified contribution still say about present competence 
 a competency bar is the published standard for a gated pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the gated pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a gated pathway that a standing lock still blocks.
 
 [Source](../../core_17.000_contribution_consequences.md#32-competency-bars-and-clearances)
-
-###### 3.2.1 What a Bar Requires
-
-a bar says what readiness a gated pathway needs, shown by evidence that fits the role. It is only as demanding as the role's reach, others' reliance on it, and the foreseeable risk justify. Informal work can meet it as well as a formal credential can.
-
-[Source](../../core_17.000_contribution_consequences.md#321-what-a-bar-requires)
-
-###### 3.2.2 Guarding against Gatekeeping
-
-a bar tests readiness; it does not screen sentients out. Formal and informal experience meet the same demonstrability standard, and the integration record must show how access, fit, and review were handled.
-
-[Source](../../core_17.000_contribution_consequences.md#322-guarding-against-gatekeeping)
-
-###### 3.2.3 Continuity, Retesting, and Capacity Change
-
-once clearance is granted and the gated pathway is open, it stays open by default. It is reopened, limited, or withdrawn only on published retesting, a real change in role-relevant capacity, a standing lock, or another reassessment trigger.
-
-[Source](../../core_17.000_contribution_consequences.md#323-continuity-retesting-and-capacity-change)
-
-###### 3.2.4 What the Clearance Record Must Say
-
-every clearance result must be readable on its face: what was decided, against which bar, on what evidence, who can contest it, and what would trigger reassessment.
-
-[Source](../../core_17.000_contribution_consequences.md#324-what-the-clearance-record-must-say)
 
 ## CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS
 
