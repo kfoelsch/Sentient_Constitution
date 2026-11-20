@@ -76,7 +76,7 @@ class ScopeQualifiedTests(unittest.TestCase):
         self.assertEqual(scan_text("doc_architecture.md", "The custodian acts for the scope.\n"), [])
 
     def test_chapter_five_is_not_exempt(self) -> None:
-        found = scan_text("core_03.040_band_continuity.md", "Outside that scope, entries apply.\n")
+        found = scan_text("subcore_03.075_band_continuity.md", "Outside that scope, entries apply.\n")
         self.assertEqual([f.line for f in found], [1])
 
 

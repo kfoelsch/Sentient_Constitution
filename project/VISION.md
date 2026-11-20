@@ -127,7 +127,7 @@ Nothing in the corpus has been run by an adopter. This horizon is about the firs
 
 These hold at every rung and every horizon. A contribution that trades one of them for speed is a regression, not progress.
 
-1. **Core meaning controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Adopted implementation text spells out how to carry out what the core already requires; it may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Thirty](../core_30.000_incorporation.md); [Constitutional Constraint](../subcore_03.045_band_integrative.md#constitutional-constraint)).
+1. **Core meaning controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Adopted implementation text spells out how to carry out what the core already requires; it may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Thirty](../core_30.000_incorporation.md); [Constitutional Constraint](../subcore_03.080_band_integrative.md#constitutional-constraint)).
 2. **One standard for human and AI stewards.** No AI-only overlay. No human exemption from the costly cases ([§17.1](../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 3. **No silent drift.** Edits are notice-and-contest, not secret patches; edition labels are pinned; derived indexes point and source binds ([Chapter Thirty §4](../core_30.000_incorporation.md#4-safeguards); [§3](../core_30.000_incorporation.md#3-custody-editions-and-operative-effect)).
 4. **Pre-release until the gate passes.** The edition label bumps only on a deliberate publication cut with §2 evidence. Kits, doors, and this page do not drop pre-release.

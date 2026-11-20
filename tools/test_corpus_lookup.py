@@ -43,7 +43,7 @@ class CorpusLookupTests(unittest.TestCase):
         code, payload = run_cli("resolve", "Def.P1")
         self.assertEqual(code, 0)
         result = payload["result"]
-        self.assertEqual(result["file"], "core_03.055_band_participation.md")
+        self.assertEqual(result["file"], "subcore_03.090_band_participation.md")
         self.assertEqual(result["id"], "Def.P1")
         self.assertNotIn("gloss", result)
 
@@ -80,11 +80,11 @@ class CorpusLookupTests(unittest.TestCase):
     def test_hydrate_def_p1_cluster_hits_file_via_definition_term(self) -> None:
         code, resolved = run_cli("resolve", "Def.P1")
         self.assertEqual(code, 0)
-        self.assertEqual(resolved["result"]["file"], "core_03.055_band_participation.md")
+        self.assertEqual(resolved["result"]["file"], "subcore_03.090_band_participation.md")
         code, hydrated = run_cli("hydrate", "Animal Life")
         self.assertEqual(code, 0)
         result = hydrated["result"]
-        self.assertEqual(result["file"], "core_03.055_band_participation.md")
+        self.assertEqual(result["file"], "subcore_03.090_band_participation.md")
         self.assertIn("Animal Life", result["text"])
         self.assertLessEqual(
             result["line_end"] - result["line_start"] + 1,
@@ -290,7 +290,7 @@ class CorpusLookupTests(unittest.TestCase):
         files = {str(hit["file"]) for hit in result["hits"]}
         self.assertTrue(
             any(
-                name.endswith("core_03.040_band_continuity.md")
+                name.endswith("subcore_03.075_band_continuity.md")
                 or name.endswith("core_04.000_rights_part_a.md")
                 for name in files
             ),

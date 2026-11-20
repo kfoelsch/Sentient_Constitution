@@ -50,7 +50,7 @@ The Material Control Line definition asks who can actually direct, punish, remov
 
 For agent governance, this prevents four role prompts from being mistaken for four independent authorities.
 
-**Sources:** [Material Control Line](../../core_03.035_band_accountability.md#material-control-line); [Chapter Eight §§2–3](../../core_06.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor).
+**Sources:** [Material Control Line](../../subcore_03.070_band_accountability.md#material-control-line); [Chapter Eight §§2–3](../../core_06.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor).
 
 ### 5. Repair, restoration, and capacity are treated as real work
 

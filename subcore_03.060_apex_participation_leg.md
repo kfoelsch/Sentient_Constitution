@@ -1,8 +1,12 @@
-# CHAPTER THREE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+<a id="subcore-3-h-participation-tetrad-leg"></a>
+# SUBCORE 3-H: PARTICIPATION (TETRAD LEG)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Three** canonical O/M/A/C home and hierarchy map for the **Participation** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Participation-band clusters live in [core_03.055_band_participation.md](core_03.055_band_participation.md). Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 3-H**; until 2026-11-20 it was the apex file of the Participation Tetrad leg in the core. It is the **Chapter Three** canonical O/M/A/C home and hierarchy map for the **Participation** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Participation-band clusters live in [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md). Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+>
+> **Upstream:** [Subcore 3-G](subcore_03.055_apex_oversight_leg.md#subcore-3-g-oversight-tetrad-leg).
+> **Downstream:** [Subcore 3-I](subcore_03.065_apex_timeliness_leg.md#subcore-3-i-timeliness-tetrad-leg).
 
 </details>
 
@@ -27,19 +31,19 @@
   - [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3);
   - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
   - [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle) (2.030 §15.1.2);
-  - [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight) where the stakeholder layer applies;
+  - [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight) where the stakeholder layer applies;
   - [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in
-  - [core_03.055_band_participation.md](core_03.055_band_participation.md).
+  - [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md).
 - Read with:
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Contestability](core_03.035_band_accountability.md#contestability) (participation/accountability boundary),
-  - [Accessibility](core_03.055_band_participation.md#accessibility),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional) (timely participation),
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance),
-  - [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight),
-  - [System Capture](core_03.040_band_continuity.md#system-capture), and Participation measurement family.
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability) (participation/accountability boundary),
+  - [Accessibility](subcore_03.090_band_participation.md#accessibility),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) (timely participation),
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance),
+  - [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture), and Participation measurement family.
 
 </details>
 
@@ -47,7 +51,7 @@
 
 ---
 
-Chapter Three, Participation Tetrad leg, is the constitutional owner of the **Participation** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Participation band](core_03.055_band_participation.md).
+Chapter Three, Participation Tetrad leg, is the constitutional owner of the **Participation** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Participation band](subcore_03.090_band_participation.md).
 
 *In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
 
@@ -55,18 +59,18 @@ Chapter Three, Participation Tetrad leg, is the constitutional owner of the **Pa
 <a id="participation"></a>
 
 - **What it is**
-  - Give affected sentients and [Stakeholders](core_03.055_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
+  - Give affected sentients and [Stakeholders](subcore_03.090_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
   - **In scope:**
     - voice;
     - representation;
     - contestable decision pathways; and
     - proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](core_00.000_preamble.md#material-stake).
-    Distinct from the [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight) operational layer where governing authority is already authorized.
+    Distinct from the [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight) operational layer where governing authority is already authorized.
   - **Depends on:** the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition):
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - [Accessibility](core_03.055_band_participation.md#accessibility);
-    - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness); and
-    - [Contestability](core_03.035_band_accountability.md#contestability).
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - [Accessibility](subcore_03.090_band_participation.md#accessibility);
+    - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness); and
+    - [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **Out of scope:** the leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS.
 <a id="participation-constitutional-m"></a>
 <a id="participation-constitutional-a"></a>
@@ -88,7 +92,7 @@ Chapter Three, Participation Tetrad leg, is the constitutional owner of the **Pa
     - labels or ceremonies that do not actually change participation outcomes;
     - contest pathways are inaccessible, captured, or ineffective where participation is materially required;
     - role access is blocked by arbitrary gatekeeping disproportionate to [material stake](core_00.000_preamble.md#material-stake); or
-    - participation capacity is degraded by [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) or [System Capture](core_03.040_band_continuity.md#system-capture) without justified exception under [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality).
+    - participation capacity is degraded by [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) or [System Capture](subcore_03.075_band_continuity.md#system-capture) without justified exception under [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 
 ---
 
@@ -103,16 +107,16 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 **Dependent clusters** (**Def.P1–Def.P3**) — joint-invocation homes:
 
-- **Animal Life, Sentient Life, and Sentience Status** — [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_03.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
-- **Binding Stakeholder Choice** — [Def.P2 *Binding Stakeholder Choice*](core_03.055_band_participation.md#defp2-binding-stakeholder-choice)
-- **Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity** — [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_03.055_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity):
-    - [Self-Determination](core_03.055_band_participation.md#self-determination);
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - [Expression](core_03.055_band_participation.md#expression);
-    - [Educational Agency](core_03.055_band_participation.md#educational-agency); and
-    - [Volitional Integrity](core_03.055_band_participation.md#volitional-integrity).
+- **Animal Life, Sentient Life, and Sentience Status** — [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
+- **Binding Stakeholder Choice** — [Def.P2 *Binding Stakeholder Choice*](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice)
+- **Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity** — [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](subcore_03.090_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity):
+    - [Self-Determination](subcore_03.090_band_participation.md#self-determination);
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - [Expression](subcore_03.090_band_participation.md#expression);
+    - [Educational Agency](subcore_03.090_band_participation.md#educational-agency); and
+    - [Volitional Integrity](subcore_03.090_band_participation.md#volitional-integrity).
 
-**Independent terms** live under [Participation: Independent Terms](core_03.055_band_participation.md#participation-independent-terms).
+**Independent terms** live under [Participation: Independent Terms](subcore_03.090_band_participation.md#participation-independent-terms).
 
 ---
 
@@ -124,12 +128,12 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Participation measurement family — link-only rollup; per-term layers live on leaf definitions — see
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
-  - [Accessibility](core_03.055_band_participation.md#accessibility),
-  - [Educational Agency](core_03.055_band_participation.md#educational-agency),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), and the
-  - [Privacy (Informational) cluster](core_03.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
+  - [Accessibility](subcore_03.090_band_participation.md#accessibility),
+  - [Educational Agency](subcore_03.090_band_participation.md#educational-agency),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and the
+  - [Privacy (Informational) cluster](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
 - Read with: Chapter Four, [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
 
 </details>
@@ -138,7 +142,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 *In plain terms: these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Three home for the Participation measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality](core_03.050_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00.000_preamble.md#material-stake).
+*Materiality* ([Materiality](subcore_03.085_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00.000_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
@@ -147,6 +151,6 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 ---
 
-**Previous file:** [core_03.020_apex_oversight_leg.md](core_03.020_apex_oversight_leg.md)
+**Previous file:** [subcore_03.055_apex_oversight_leg.md](subcore_03.055_apex_oversight_leg.md)
 
-**Next file:** [core_03.030_apex_timeliness_leg.md](core_03.030_apex_timeliness_leg.md)
+**Next file:** [subcore_03.065_apex_timeliness_leg.md](subcore_03.065_apex_timeliness_leg.md)

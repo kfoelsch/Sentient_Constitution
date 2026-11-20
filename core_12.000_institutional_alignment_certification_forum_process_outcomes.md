@@ -79,10 +79,10 @@ Chapter Eleven sets what an institution is evaluated on. The institution has eve
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3), [§6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution), [§7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting), and [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes);
   - [Chapter Twenty-Three §3.3 Institutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3);
   - [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) (*cross-forum anti-self-judging rule*);
-  - [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record).
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record).
 - Downstream: [§4](#4-certification-outcomes); [§3](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record); [§4](core_13.000_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
 - Read with:
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map);
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
   - **CF-22.415** (*Routing operations, transfer, questions for ruling, and representative treatment*);
   - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*);
   - **CF-22.435 §7** (*no self-investigation*).
@@ -99,20 +99,20 @@ This section is **Phase III, Review** for an Institution.
 
 #### 3.1 Four Seats in an Institutional Certification
 
-This subsection is how this Chapter applies the [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and it is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](core_03.035_band_accountability.md#materially-binding-act), so every certification pass has the four seats. This Chapter adds no seat and relaxes no rule of Chapter Six. [Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) applies with these substitutions:
+This subsection is how this Chapter applies the [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and it is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), so every certification pass has the four seats. This Chapter adds no seat and relaxes no rule of Chapter Six. [Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) applies with these substitutions:
 
-- **[Initiating Seat](core_03.035_band_accountability.md#initiating-seat):** the Institution's governing authority.
+- **[Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat):** the Institution's governing authority.
   - **Role:** it requests certification or is the proponent who must supply the evidence.
   - **A certification pass opened on a trigger:** it is opened by the lead forum's order, and the governing authority remains the proponent.
-- **[Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [§3.2 Forum Roles and Sequence](#32-forum-roles-and-sequence) and Chapter Twenty-Two.
-  - **Seat placement:** the [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) does not place this seat.
+- **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [§3.2 Forum Roles and Sequence](#32-forum-roles-and-sequence) and Chapter Twenty-Two.
+  - **Seat placement:** the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) does not place this seat.
   - **What the Institution cannot do:** choose, appoint, fund through a channel it controls, or remove its own verifying authority.
   - **Who may hold it:** no one who works for the Institution, is owned by it, or answers to it may hold this seat for its certification, and everyone who holds it must have no interest that the outcome decides.
   - **Systems:** the same rule applies to a system certification ([Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification), *Outside the operator*).
-- **[Record Seat](core_03.035_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places.
+- **[Record Seat](subcore_03.070_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places.
   - **Role:** it opens, amends, preserves, and publishes the Institutional Certification Record.
-  - **Position:** it sits outside the Institution's [Material Control Line](core_03.035_band_accountability.md#material-control-line).
-- **[Contest Seat](core_03.035_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum.
+  - **Position:** it sits outside the Institution's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
+- **[Contest Seat](subcore_03.070_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum.
   - **Position:** it is placed the same way and outside the same line.
 
 **Self-placement.** The Institution publishes the map that places the record seat and the contest seat for its own certification.
@@ -144,7 +144,7 @@ The supervisory sequence in [Chapter Nine §3.2 Supervisory Sequence](core_09.00
   - **Constitutional Forums:** keep the meaning, validity, and structural-remedy questions.
 - **Systems are referred, not decided:**
   - **Where it goes:** a component question that belongs to one System goes to that System's own certification pass, and not to the Institution's.
-  - **What the lead forum may do:** it may refer the question, send it for ruling, or [stay](core_03.035_band_accountability.md#stay) it, as [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) provides.
+  - **What the lead forum may do:** it may refer the question, send it for ruling, or [stay](subcore_03.070_band_accountability.md#stay) it, as [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) provides.
     - **Refer:** hand the question to the forum family it belongs to.
     - **Send for ruling:** send it to another forum as a question for ruling and wait for the answer. The matter stays with the lead forum.
     - **Stay:** pause it.
@@ -163,9 +163,9 @@ The supervisory sequence in [Chapter Nine §3.2 Supervisory Sequence](core_09.00
 
 *In plain terms: the bodies that do the certifying are institutions too, so they cannot certify each other in a circle. A body that is itself Not Certified gives up its seats in other certifications.*
 
-A forum host, a certifying body, an Institutional Certification Record office, a verifying authority, or any other body that takes part in certifications is an [Institution](core_03.040_band_continuity.md#institution) where it meets that definition, and this Chapter applies to it as to any other Institution of its class.
+A forum host, a certifying body, an Institutional Certification Record office, a verifying authority, or any other body that takes part in certifications is an [Institution](subcore_03.075_band_continuity.md#institution) where it meets that definition, and this Chapter applies to it as to any other Institution of its class.
 
-- **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](core_03.035_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-22.435 §7** (*no self-investigation*) applies.
+- **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](subcore_03.070_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-22.435 §7** (*no self-investigation*) applies.
 - **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A certification pass that would close a circle routes to a body outside it.
 - **Seats stay apart:** Taking part in another body's certification, including by holding a seat in it, gives a body no advantage of its own.
   - **No hold over the other body:** it gives no power over how that body responds to its certification, such as its answer to findings, certification conditions, or challenges.
@@ -294,7 +294,7 @@ Two points are specific to an Institution:
 - **Willingness:** In addition to the factors in [Chapter Nine §4.3.1 Willingness](core_09.000_system_alignment_certification_forum_process_outcomes.md#431-willingness), the forums look at whether the Institution is:
   - changing its own reward structure, where that structure caused the finding;
   - replacing or disclosing an office-holder found not authentic (for example, a holder who fronts for an undisclosed controller) under [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 7);
-  - restoring an independent seat placement on its [Charter Role Map](core_03.040_band_continuity.md#charter-role-map);
+  - restoring an independent seat placement on its [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
   - correcting its Institutional Charter or its portfolio of Systems; and
   - answering for any System whose cause finding traced back to the Institution ([§4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications)).
 - **Capacity:** In addition to the factors in [Chapter Nine §4.3.2 Capacity](core_09.000_system_alignment_certification_forum_process_outcomes.md#432-capacity), the forums look at whether:
@@ -357,7 +357,7 @@ Two points are specific to an Institution:
 
      That forum alone decides any suspension, receivership, structural separation, or dissolution. This Chapter creates none of them.
    - **To the forum over a named sentient:** Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution to carry out a violation, the lead forum also refers the facts to the forum with jurisdiction over that sentient.
-   - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). Where only the grounds for an [Interim Hold](core_03.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
+   - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). Where only the grounds for an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
 6. **Standing:** Only through [§6 Relationship to Standing](core_13.000_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing). This holds for a denial of a first certification too: the findings behind it may supply input under [§6.2 Every Certification Outcome](core_13.000_institutional_alignment_certification_records_recertification.md#62-every-certification-outcome), on the same terms as any other.
 
 An Institution that is Not Certified may continue to exist, publish its Institutional Charter, operate, and apply again on the terms of Chapter Nine §4.4 (*Not a Permanent Bar*). It may not exercise new material authority until a recertification clears that authority ([§4.2.2 Recertification for New Material Authority](core_13.000_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority)).

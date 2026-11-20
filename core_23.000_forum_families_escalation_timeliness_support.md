@@ -108,7 +108,7 @@ Different disputes need different expertise, and some questions are too large fo
   - **[CF-22.405](corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-forum-formation-forum-structure-mapping-and-chamber-structure)** (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*);
   - **[CF-22.425](corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-22425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*) alignment rulings;
   - [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) for institution duties and supervised-scope language mirrored in the institutional family;
-  - [Chapter Three — Corpus](subcore_03.045_band_integrative.md#corpus) (3.045) (*implementation-file designation and custody terms for incorporated institution rules*).
+  - [Chapter Three — Corpus](subcore_03.080_band_integrative.md#corpus) (S3-L) (*implementation-file designation and custody terms for incorporated institution rules*).
 - Within §3:
   - [§3.1](#31-sentient-forums);
   - [§3.2](#32-technical-forum-domains);
@@ -220,7 +220,7 @@ The **subsections** **below** **follow** **section** **4**’s **default** **ven
 **Illustrative matters.** This family includes contests over:
 - institutional mandate, permitted action, or charged function;
 - supervised-scope boundaries and classification under adopted documents;
-- [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) scope, Institutional Charter amendment authority, Institutional Charter–behavior mismatch, or operation outside chartered scope;
+- [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) scope, Institutional Charter amendment authority, Institutional Charter–behavior mismatch, or operation outside chartered scope;
 - institutional-duty compliance and performance under **[CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody)** (*Institutional design, separation of powers, and authority custody*), **[CI-8.210](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations)** (*Classification-linked institutional obligations*), and cognate layers;
 - local enforcement of shared cross-jurisdiction or cross-institution standards;
 - the level of trust an adopter extends to another adopter, as challenged by a sentient under that adopter's authority and not by the other adopter ([Chapter Nineteen §3.4 Gatekeeper Checks Across Adopters and Levels of Trust](core_19.000_final_effect_restoration_enforcement.md#34-gatekeeper-checks-across-adopters-and-levels-of-trust));
@@ -255,7 +255,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 
 **Who can be a party.** Anyone can be a party to an ecological case, not only systems, and an Environment Forum must also take part in reviewing any system whose alignment materially affects the environment.
 
-**Representative filing.** A case whose primary stake is [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing) or ecological integrity may be opened by a published representative — an affected community, indigenous-continuity holder, or designated guardian — in the life-supporting system's own interest. This does not make the system a sentient. Appointment, recusal, and publication of representatives live in [**CF-22.415**](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*).
+**Representative filing.** A case whose primary stake is [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing) or ecological integrity may be opened by a published representative — an affected community, indigenous-continuity holder, or designated guardian — in the life-supporting system's own interest. This does not make the system a sentient. Appointment, recusal, and publication of representatives live in [**CF-22.415**](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*).
 
 **Illustrative matters.** This family includes contests over:
 - ecological integrity or environmental-precondition baselines and violations;
@@ -408,7 +408,7 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 - Within §4: [Ways a Matter Moves Between Forums](#ways-a-matter-moves-between-forums) (*the five moves between forums*); [Interim Protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*); [Interim Hold on a Named Sentient's Pathway](#interim-hold-on-a-named-sentients-pathway) (*specific verified facts, narrow, time-bound, no standing effect*).
 - Read with:
   - [Article VI-B: Sentience-Status Adjudication Floor](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor);
-  - [Chapter Three — Sentience Status Adjudication](core_03.055_band_participation.md#sentience-status-adjudication) (3.055);
+  - [Chapter Three — Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) (S3-N);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*) through
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*review safeguards referenced with Chapter Twenty designations*);
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*questions for ruling — alignment rulings and general doctrine*).
@@ -513,7 +513,7 @@ This subsection sets out interim protection while a matter is pending:
 
 - Any family with jurisdiction over the matter may issue interim relief necessary to:
   - prevent imminent irreversible harm;
-  - preserve evidence under [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation);
+  - preserve evidence under [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
   - maintain **Ecological Recovery Capacity**;
   - stop material escalation while routing, certification, or technical review **is** completed; or
   - preserve **status quo** pending **merits**.
@@ -523,7 +523,7 @@ This subsection sets out interim protection while a matter is pending:
 
 #### Interim Hold on a Named Sentient's Pathway
 
-This subsection sets out the [Interim Hold](core_03.035_band_accountability.md#interim-hold), a measure between an allegation and a verified violation finding. It is interim protection directed at one named sentient's exercise of one named authority, pathway, or matter. It is not a violation finding, a lock, or a penalty.
+This subsection sets out the [Interim Hold](subcore_03.070_band_accountability.md#interim-hold), a measure between an allegation and a verified violation finding. It is interim protection directed at one named sentient's exercise of one named authority, pathway, or matter. It is not a violation finding, a lock, or a penalty.
 
 - **Ground:** A forum with jurisdiction may issue a hold only where all of these are shown:
   - specific facts, disclosed to the sentient and verified to a preliminary evidence level, meaning documentary or independently attested, where a rumor, an unsupported accusation, or a reputation is not enough;
@@ -549,17 +549,17 @@ This subsection sets out the [Interim Hold](core_03.035_band_accountability.md#i
   - restraint on exercising the named authority.
 - **Duration:** A hold lapses at the outer bound of the tier window in [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) for the merits matter it supports, counted from the day the hold issues. This subsection adds no second clock table. For a matter at the Emergency setting the bound is the Tier A outer bound (7 days), not the 3-day protective bound. The hold may be extended once, only on the continuation burden in [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden). It ends earlier when the facts are cleared, when a narrower safeguard is in place, or when the merits matter is decided. If no merits matter is opened inside the bound, the hold lapses with no violation finding.
 - **Contest and review:** The sentient sees the Interim Hold grounds and the facts, may answer them, and may contest the hold. A forum outside the subject's control line and outside the issuing panel begins review inside the **prompt-review window** of [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](#prompt-review) (*Prompt review*) and decides it before the hold lapses.
-- **No violation finding, no standing effect:** A hold is not evidence that the allegation is true and supports no adverse inference. It is not a [Standing Record](core_03.035_band_accountability.md#standing-record), a Chapter Fourteen input, or a Chapter Twenty designation, and only the merits process verifies the facts ([Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary)).
+- **No violation finding, no standing effect:** A hold is not evidence that the allegation is true and supports no adverse inference. It is not a [Standing Record](subcore_03.070_band_accountability.md#standing-record), a Chapter Fourteen input, or a Chapter Twenty designation, and only the merits process verifies the facts ([Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary)).
 - **No re-issue:** After a hold lapses or ends, no new hold issues on the same or substantially the same facts without new verified facts.
 - **Lock and time:** A hold is never converted into a standing lock. If the merits process verifies a violation finding, the lock rules apply from the finding, and time spent under a hold on the same gated pathway counts toward the lock's time bound as [Chapter Eighteen §4.6 Interim Holds and Locks](core_18.000_violation_consequences.md#46-interim-holds-and-locks) provides.
-- **If the hold was wrong:** A hold that lapses without a violation finding, or is set aside, is recorded as such. No adverse inference follows. The sentient is entitled to [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) for loss during the hold, and a pattern of wrongful holds opens **Integrity** review.
+- **If the hold was wrong:** A hold that lapses without a violation finding, or is set aside, is recorded as such. No adverse inference follows. The sentient is entitled to [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) for loss during the hold, and a pattern of wrongful holds opens **Integrity** review.
 - **Publication:** For each application and each period, the adopter publishes the holds issued, the merits matters opened, the holds that lapsed without a violation finding, the holds set aside, and the median duration, on the schedule of **CF-22.445** (*Forum Performance, Backlog Requirements, Publication Timeliness, and Accessibility*). A pattern of holds that lapse unused or are set aside, or of repeat holds on the same sentient and matter, is evidence for **Integrity** review.
 - **Never reached:** A hold may not reach:
   - liberty or physical separation, including detention and the separation of a protected care relationship, which stay under the liberty-restricting safeguards in [Chapter Eighteen §4.4.5 Coercive or Liberty-Restricting Safeguards](core_18.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards);
   - governance voting or **Foundational Constitutional Choice**, which only a lock after a verified violation finding may touch;
   - speech, assembly, dissent, petition, protected reporting, or defense;
   - the Rights Floor or survival-critical access;
-  - [Stakeholder](core_03.055_band_participation.md#stakeholder) status itself;
+  - [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status itself;
   - the existence or operation of a whole Chartered Party, where an interim steward is named instead if the Chartered Party would be left without a lawful holder and others depend on it;
   - the operation of an Operating Party by a sentient who is its only holder, which only the lighter rungs of the ladder (disclosure and monitoring, or an independent co-holder) may touch, unless harm to others is shown on the ground above; or
   - general property, as distinct from the specific weight, funds, or keys in contest.
@@ -614,7 +614,7 @@ This subsection sets out how sentience-status claims are routed:
   - Every filing declined at intake must be logged with the indicator cited and the reason for decline.
   - The **Integrity** family samples that log on a published cadence.
   - A pattern of declines concentrated on any of the following is itself a credible indicator that the gate is being used as a withholding device, and opens Integrity review without a further filing:
-    - one [Substrate Class](core_03.055_band_participation.md#substrate-class);
+    - one [Substrate Class](subcore_03.090_band_participation.md#substrate-class);
     - one parent system; or
     - one operator.
   - Adopters must publish a minimum set of indicators that no intake desk may treat as insufficient on its own.
@@ -640,12 +640,12 @@ This subsection sets out how sentience-status claims are routed:
   - **lead family** — Technical Forum Domains by default, with the special routes above;
   - **specialist-chamber allowance** — expert panels or chambers may assist indicator evaluation but must not displace merits-floor rules or default inclusion;
   - **filing trigger** — materially disputed, contested, unsettled, narrowed, revoked, or restored status before granting, withdrawing, or narrowing status-dependent protections;
-  - **interim Contested treatment** — [Contested-Sentient Life](core_03.055_band_participation.md#contested-sentient-life) plus **Article VI-B** (*Sentience-Status Adjudication Floor*) default inclusion while status remains live;
+  - **interim Contested treatment** — [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life) plus **Article VI-B** (*Sentience-Status Adjudication Floor*) default inclusion while status remains live;
   - **review trigger** — a declared end-date or mandatory review for this posture (time-bound review, not a species list);
   - **reopening evidence standard** — new verified evidence, not calendar-only reopening;
   - **independent representative** — the appointment path, conflict screen, and access terms for the entity's representative under this hook; and
   - **intake-decline log** — where declined filings are recorded, on what cadence **Integrity** samples them, and the published floor set of indicators.
-- Detailed institutional design, appointment mechanics, filing forms, and sequencing route to adopted implementation text under **Chapter Thirty** incorporation discipline and **must not** narrow the **Article VI-B** (*Sentience-Status Adjudication Floor*) floor. As of this edition, the dedicated [Sentience-Status Adjudication Record](core_03.055_band_participation.md#sentience-status-adjudication-record) format is enumerated under **Chapter Thirty** as [`corpus_forum/cf_22.475_sentience_status_record.md`](corpus_forum/cf_22.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json); those files implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*) or this hook. The minimum fields above still apply. This hook is **not** a full appointments or filing statute.
+- Detailed institutional design, appointment mechanics, filing forms, and sequencing route to adopted implementation text under **Chapter Thirty** incorporation discipline and **must not** narrow the **Article VI-B** (*Sentience-Status Adjudication Floor*) floor. As of this edition, the dedicated [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record) format is enumerated under **Chapter Thirty** as [`corpus_forum/cf_22.475_sentience_status_record.md`](corpus_forum/cf_22.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json); those files implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*) or this hook. The minimum fields above still apply. This hook is **not** a full appointments or filing statute.
 
 #### Referral Distinguished from Expansion
 
@@ -683,10 +683,10 @@ This subsection sets out how Chapter Twenty designation relates to independent r
   - [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows*).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*);
-  - [Materiality](core_03.050_band_oversight.md#materiality);
-  - [Timely Resolution](core_03.035_band_accountability.md#timely-resolution);
-  - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways);
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency).
+  - [Materiality](subcore_03.085_band_oversight.md#materiality);
+  - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution);
+  - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways);
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency).
 - Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay).
 
 </details>
@@ -694,10 +694,10 @@ This subsection sets out how Chapter Twenty designation relates to independent r
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) · [O](core_03.035_band_accountability.md#timely-resolution) · [M](core_03.035_band_accountability.md#timely-resolution-constitutional-a) · [A](core_03.035_band_accountability.md#timely-resolution-constitutional-a) · [C](core_03.035_band_accountability.md#timely-resolution-constitutional-c)
-- [Materiality](core_03.050_band_oversight.md#materiality) · [O](core_03.050_band_oversight.md#materiality) · [M](core_03.050_band_oversight.md#materiality-determination-a) · [A](core_03.050_band_oversight.md#materiality-determination-a) · [C](core_03.050_band_oversight.md#materiality-determination-c)
-- [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) · [O](core_03.040_band_continuity.md#capture-of-resolution-pathways) · [M](core_03.040_band_continuity.md#capture-of-resolution-pathways-a) · [A](core_03.040_band_continuity.md#capture-of-resolution-pathways-a) · [C](core_03.040_band_continuity.md#capture-of-resolution-pathways-c)
-- [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency) · [O](core_03.040_band_continuity.md#constitutional-efficiency) · [M](core_03.040_band_continuity.md#constitutional-efficiency-a) · [A](core_03.040_band_continuity.md#constitutional-efficiency-a) · [C](core_03.040_band_continuity.md#constitutional-efficiency-c)
+- [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
+- [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) · [O](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) · [M](subcore_03.075_band_continuity.md#capture-of-resolution-pathways-a) · [A](subcore_03.075_band_continuity.md#capture-of-resolution-pathways-a) · [C](subcore_03.075_band_continuity.md#capture-of-resolution-pathways-c)
+- [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -709,7 +709,7 @@ Implementation: [Forum Performance, Backlog Requirements, Publication Timeliness
 
 This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Fourteen through Twenty-Two** standing pipeline.
 
-- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](core_03.050_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*Continuation discipline*):
+- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](subcore_03.085_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
     - Scope of harm:
       - acute or ongoing injury where delay itself compounds damage;
@@ -721,7 +721,7 @@ This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay F
       - participation-barrier injury in dependency-asymmetric settings;
       - a final Chapter Fifteen **Violation Axis slot 7, 8, or 9** impact-slot review; or
       - the corresponding **Chapter Twenty** designation where applicable.
-    - Expectation: lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_03.035_band_accountability.md#force-majeure) or a documented safety constraint prevents it.
+    - Expectation: lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](subcore_03.070_band_accountability.md#force-majeure) or a documented safety constraint prevents it.
   - **Tier B — material rights impact, non-imminent**
     - Scope of harm: material rights, standing, or institutional injury that matters now, but is not yet acute ongoing harm of Tier A urgency.
     - Examples:
@@ -753,7 +753,7 @@ This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay F
       - a Class P–contained disagreement that does not exit the private boundary.
     - Expectation: simplest procedural path; formal forum process may be minimal or waived where no external rights are at stake; anti-gaming and anti-delay rules apply only where external constitutional interests are implicated.
 <a id="urgency-classification-and-time-scale"></a>
-- **Urgency classification and time-scale:** The A/B/C/L/P label is the dispute’s urgency and materiality finding. [§4 Escalation and Questions for Ruling](#4-escalation-and-questions-for-ruling) forum-family escalation, added parties, cross-border coordination, or a Chapter Twenty docket does **not** by itself move the matter into a different urgency tier. Those facts may lengthen later-stage windows (**Question 1** through integrated resolution) on a longer published time scale, so long as intake, evidence preservation, and any required **interim protection** remain at the classified tier’s floor. Using a slower tier’s clocks as a substitute for that urgency and materiality finding is non-compliant. A new [Materiality](core_03.050_band_oversight.md#materiality) determination is required before the urgency label itself changes — typically **up** to **Tier A** when harm becomes imminent or when a final Chapter Fifteen **Violation Axis slot 7, 8, or 9** review or corresponding **Chapter Twenty** designation is the stake.
+- **Urgency classification and time-scale:** The A/B/C/L/P label is the dispute’s urgency and materiality finding. [§4 Escalation and Questions for Ruling](#4-escalation-and-questions-for-ruling) forum-family escalation, added parties, cross-border coordination, or a Chapter Twenty docket does **not** by itself move the matter into a different urgency tier. Those facts may lengthen later-stage windows (**Question 1** through integrated resolution) on a longer published time scale, so long as intake, evidence preservation, and any required **interim protection** remain at the classified tier’s floor. Using a slower tier’s clocks as a substitute for that urgency and materiality finding is non-compliant. A new [Materiality](subcore_03.085_band_oversight.md#materiality) determination is required before the urgency label itself changes — typically **up** to **Tier A** when harm becomes imminent or when a final Chapter Fifteen **Violation Axis slot 7, 8, or 9** review or corresponding **Chapter Twenty** designation is the stake.
 <a id="time-scale-settings"></a>
 - **Time-scale settings:** A matter's time scale is set once, at routing, by the routing body and not by the panel that will hear the matter, and published with its windows. A party may ask for review of it at routing. It is the tier's own column unless one of the settings below applies. The setting never changes the urgency label, the tier's certification class, or any time given to a party to respond. A challenge to a tier, a setting, or a class never pauses a clock, and the more urgent reading governs until it is decided.
   - **Slower for complexity (Tier A and Tier B only):** a matter that needs multi-party, cross-border, or consolidated fact development may take the next slower column for its later stages. A matter that needs two or more of those, or specialist forensics, may take the column two steps slower. Each step needs the **Continuation discipline** showing in [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden), and the second step needs it renewed. Complexity made by the party seeking more time, or by the forum's own delay, earns no extension. The setting goes back down when the need ends. Numeric tables live in [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
@@ -781,7 +781,7 @@ This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay F
 - <a id="class-repair-window"></a>**Class repair window:** When a constitutional process breaks down for a System, Institution, or adopter, so that a required seat falls vacant or cannot act, a required Charter Role Map, System Charter or Institutional Charter, disclosure, or other published document is missing or out of date, or a required step stalls, the party responsible must fix it within its **class repair window**: the timeliness duty applied to the repair of constitutional processes. It has two parts, each taken from the tier with the same letter as the responsible party's class in [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*), and each counted from the logged notice of the breakdown:
   - **Response:** inside the intake target, the party logs the breakdown, names the stand-in that acts meanwhile, and gives the date of the fix (24 hours for Class A, and 2, 4, 8, and 12 calendar days for Classes B, C, L, and P).
   - **Resolution:** inside the integrated resolution outer bound, the fix is made and published (7, 14, 30, 60, and 90 calendar days for Classes A, B, C, L, and P).
-  - **Meanwhile:** the published substitute, the independent route, or the backup authority the governing rule names acts in the gap, so no one's matter waits on the repair. The function never passes to the party responsible for the breakdown or to its [Material Control Line](core_03.035_band_accountability.md#material-control-line).
+  - **Meanwhile:** the published substitute, the independent route, or the backup authority the governing rule names acts in the gap, so no one's matter waits on the repair. The function never passes to the party responsible for the breakdown or to its [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
   - **Which class:** a party with no class on record is counted at Tier C, and a party whose class is disputed is counted at the more critical class, as in [Chapter Five §3.6 If a System Charter or Institutional Charter Is Missing](core_05.000_charters.md#36-if-a-system-charter-or-institutional-charter-is-missing).
   - **More specific rules:** a rule elsewhere in this Constitution that sets its own window for a particular breakdown governs that breakdown, and a shorter window required by Rights-Floor urgency governs over this one. Otherwise this window applies.
   - **If it is missed:** a breakdown not fixed inside the resolution part is a defect that anyone may take to the forum with jurisdiction, and it is reviewed as delay under this section.
@@ -801,7 +801,7 @@ This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay F
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Fourteen §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate));
   - treating restricted-evidence status, or a dispute about access to restricted information, as a reason for a slower column, a longer window, or a continuation (restricted evidence does not slow the clock; see [CF-22.445 §5.3](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-53-restricted-evidence-timing) (*Restricted-evidence timing*));
-  - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
+  - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
   - efficiency claims contrary to Chapter Two [§9.2 Constitutional Efficiency](core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency) that:
     - skip fact-checking;
@@ -822,7 +822,7 @@ This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay F
 </details>
 <br>
 
-This subsection sets the requirements and the operating rules for emergency measures. Retrospective review of an emergency measure is governed by [**Article XXVII-A** (*Retrospective Review and Disclosure*)](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure). Any restriction an emergency measure imposes must also meet [**Article XXI-B** (*Restriction Floors*)](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors). It reuses the tier outer bounds and the **Restore-challenge after emergency containment** rule above. It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](#time-scale-settings) (*Time-scale settings*). Read with [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency), [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency), [Necessity](core_03.035_band_accountability.md#necessity), and [Proportionality](core_03.035_band_accountability.md#proportionality); and with **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
+This subsection sets the requirements and the operating rules for emergency measures. Retrospective review of an emergency measure is governed by [**Article XXVII-A** (*Retrospective Review and Disclosure*)](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure). Any restriction an emergency measure imposes must also meet [**Article XXI-B** (*Restriction Floors*)](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors). It reuses the tier outer bounds and the **Restore-challenge after emergency containment** rule above. It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](#time-scale-settings) (*Time-scale settings*). Read with [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency), [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Necessity](subcore_03.070_band_accountability.md#necessity), and [Proportionality](subcore_03.070_band_accountability.md#proportionality); and with **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
 

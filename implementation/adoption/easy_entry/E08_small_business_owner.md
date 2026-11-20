@@ -39,7 +39,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Licensing and capital access are slow for you and easy for them. Paperwork says the market is open while gates freeze out new or disfavored founders.
 - **With this Constitution:** You must be able to start and run commercial enterprises. Shutting you out with delay or paperwork that privileges incumbents is a failure.
 
-See: [Business Creation](../../../core_03.055_band_participation.md#business-creation); [Article XI-E](../../../core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
+See: [Business Creation](../../../subcore_03.090_band_participation.md#business-creation); [Article XI-E](../../../core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
 
 **Being bigger is not a license to trap you.**
 - **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.
@@ -73,7 +73,7 @@ See: [CI-8.210 §4](../../../corpus_institutions/ci_08.210_classification_linked
 
 - **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
-- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope document for systems you actually run, those rules are located in the section on [System Charter](../../../core_03.040_band_continuity.md#system-charter) or [Institutional Charter](../../../core_03.040_band_continuity.md#institutional-charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
+- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope document for systems you actually run, those rules are located in the section on [System Charter](../../../subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](../../../subcore_03.075_band_continuity.md#institutional-charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
 
 ## What this will not pretend to give you
 

@@ -461,7 +461,7 @@ def run_internal_regression_checks() -> None:
         "A named pathway is a retired term.\n"
         "A named-pathway-specific bar is retired too.\n"
         "A credible causal pathway and a contest-pathway failure are qualified.\n"
-        "See [link](core_03.035_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
+        "See [link](subcore_03.070_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
     )
     if len(pathway_findings) != 5:
         raise RuntimeError(
@@ -509,13 +509,13 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_bare_recheck("doc_architecture.md", "A re-check is due.\n"):
         raise RuntimeError("Internal regression failed: bare re-check was flagged in the exempt move-log file.")
     level_findings = scan_avoid_bare_level(
-        "core_03.055_band_participation.md",
+        "subcore_03.090_band_participation.md",
         "The level applies to every entity.\n"
         "Higher protection levels include this floor; the protection level is set once.\n"
         "Level 2 includes Animal Life, and Level 4 includes Level 3.\n"
         "A level of detail is not a scale, and a required level is a qualified form.\n"
         "Keep the protections of those levels.\n"
-        "See [Treatment of Life by Status](core_03.055_band_participation.md#treatment-of-life-by-status) and `the level` in code.\n"
+        "See [Treatment of Life by Status](subcore_03.090_band_participation.md#treatment-of-life-by-status) and `the level` in code.\n"
         "Levels differ by stewardship.\n",
     )
     if len(level_findings) != 3:
@@ -2446,7 +2446,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Ten typing (see `.cursor/rules/clarity.mdc`). *Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).*",
-        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_03.050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
+        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](subcore_03.085_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-segregation`:** reject **segregation** / **segregate** / **segregated** / **segregating** → the seat rule is **separation of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**. *Enforced on the same files as `avoid-instrument`.*",

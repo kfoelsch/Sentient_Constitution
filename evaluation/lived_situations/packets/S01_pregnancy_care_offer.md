@@ -85,9 +85,9 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Reproductive Autonomy](../../../core_03.055_band_participation.md#reproductive-autonomy) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
-- [Family and Care Relationships](../../../core_03.055_band_participation.md#family-and-care-relationships); [Non-Separation](../../../core_03.055_band_participation.md#non-separation)
-- [Article VI-C](../../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_03.055_band_participation.md#protected-characteristics) where pregnancy or caregiving status is used as a gate
+- [Reproductive Autonomy](../../../subcore_03.090_band_participation.md#reproductive-autonomy) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
+- [Family and Care Relationships](../../../subcore_03.090_band_participation.md#family-and-care-relationships); [Non-Separation](../../../subcore_03.090_band_participation.md#non-separation)
+- [Article VI-C](../../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../subcore_03.090_band_participation.md#protected-characteristics) where pregnancy or caregiving status is used as a gate
 - [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — access is not consent to intrusion; family relationship is not authority over another sentient
 - [Article XI-F](../../../core_04.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 - [CI-4.225](../../../corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake, respite, reproductive-labor service pathways; survival floors cannot be conditioned on care labor ([CI-8.210 §4](../../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md) as CI-4.225 names it)

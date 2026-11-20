@@ -65,7 +65,7 @@ See: [Article XXIII-B](../../../core_04.030_rights_part_d.md#article-xxiii-b-ref
 - **Today:** Someone offers a camp, an app, or a labor scheme as the only survival path, with no real exit. Camp or platform terms replace the floor.
 - **With this Constitution:** Survival still attaches. Ending essential shelter still requires a case-specific reason, notice, and a real chance to object.
 
-See: [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_03.040_band_continuity.md#occupancy-continuity).
+See: [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../subcore_03.075_band_continuity.md#occupancy-continuity).
 
 ## What you might reasonably object to
 
@@ -77,7 +77,7 @@ See: [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-surviva
 
 - **“Climate displacement is not ‘failure to meet the rule.’”** If a project or system made the place unlivable, it still owes air, water, soil, and a real reason to stay housed ([Article I-A](../../../core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)). Seeking refuge is about fleeing a government or system whose practice does not meet the rule ([Article XXIII-C](../../../core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness)). You do not have to prove the weather violated this Constitution. Whether climate making a place unlivable is a reason to grant that refuge is for a body that has agreed to follow this Constitution to decide ([Article XXIII-B](../../../core_04.030_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided)). This page does not invent a yes or a no.
 
-- **“This will be used to refuse us as a security class.”** Limits on movement and refuge still have to be needed, not bigger than the harm, and the least harsh option that works. Arguments that fail [Sentience Non-Exclusion](../../../core_03.055_band_participation.md#sentience-non-exclusion) cannot be used as hidden denials.
+- **“This will be used to refuse us as a security class.”** Limits on movement and refuge still have to be needed, not bigger than the harm, and the least harsh option that works. Arguments that fail [Sentience Non-Exclusion](../../../subcore_03.090_band_participation.md#sentience-non-exclusion) cannot be used as hidden denials.
 
 ## What this will not pretend to give you
 

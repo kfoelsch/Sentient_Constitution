@@ -1,8 +1,12 @@
-# Continuity Constitutional Definitions
+<a id="subcore-3-k-continuity-definitions"></a>
+# SUBCORE 3-K: CONTINUITY DEFINITIONS
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Three, Continuity band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Continuity** constitutional band. Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 3-K**; until 2026-11-20 it was the Continuity band file in the core. It contains **Chapter Three, Continuity band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Continuity** constitutional band. Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+>
+> **Upstream:** [Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions).
+> **Downstream:** [Subcore 3-L](subcore_03.080_band_integrative.md#subcore-3-l-integrative-definitions).
 
 </details>
 
@@ -19,7 +23,7 @@
 
 ---
 
-Chapter Three, Continuity band, is the constitutional owner of the **definitions under the constitutional [Continuity aim](core_00.000_preamble.md#continuity)**, including dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1 The Model](core_00.000_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_03.010_apex_continuity_aim.md#chapter-three-definitions-continuity-constitutional-aim)) is distinct from operational or protocol continuity elsewhere in the corpus.
+Chapter Three, Continuity band, is the constitutional owner of the **definitions under the constitutional [Continuity aim](core_00.000_preamble.md#continuity)**, including dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1 The Model](core_00.000_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim)) is distinct from operational or protocol continuity elsewhere in the corpus.
 | Cluster | Section |
 |---|---|
 | **Def.C1** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work |
@@ -45,13 +49,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Twenty-Eight §12.2](core_28.000_amendment_ratification.md#122-adoption-document) (28.000 §12.2) (*the adoption document records the act of adoption and is a different document*).
 - Cluster component: none. This entry stands alone in the Continuity band.
 - Read with:
-  - [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record),
-  - [Adoption Transition](core_03.040_band_continuity.md#adoption-transition),
-  - [Record Custodian](core_03.035_band_accountability.md#record-custodian),
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
-  - [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure), and
-  - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational).
-- Distinguish: an Adoption Charter is not the document by which a body adopts this Constitution (the adoption document), not the running record of the Adoption Transition (the [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record)), and not a [System Charter](core_03.040_band_continuity.md#system-charter), [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), or [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter).
+  - [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record),
+  - [Adoption Transition](subcore_03.075_band_continuity.md#adoption-transition),
+  - [Record Custodian](subcore_03.070_band_accountability.md#record-custodian),
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map),
+  - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and
+  - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational).
+- Distinguish: an Adoption Charter is not the document by which a body adopts this Constitution (the adoption document), not the running record of the Adoption Transition (the [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record)), and not a [System Charter](subcore_03.075_band_continuity.md#system-charter), [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter).
 
 </details>
 
@@ -62,29 +66,29 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The published document of an adopter whose Adoption Transition has ended and whose final gate has been passed. It states:
     - the forum authority assignment: which forum decides the adopter's questions about the trust it extends to other adopters, and the route by which technical advice on privacy and security reaches that forum;
-    - the adopter's [Record Custodian](core_03.035_band_accountability.md#record-custodian) for Standing Records and the office-level contact to which a gatekeeper check is sent;
+    - the adopter's [Record Custodian](subcore_03.070_band_accountability.md#record-custodian) for Standing Records and the office-level contact to which a gatekeeper check is sent;
     - the level of trust the adopter extends to each other adopter for sharing across adopters, with the reasons and the technical advice each rests on, and the reasons for any departure from that advice;
     - standards the adopter has agreed with other adopters; and
-    - a [Charter Pointer](core_03.040_band_continuity.md#charter-pointer) to each [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) that applies to the adopter's systems and institutions.
+    - a [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) to each [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) that applies to the adopter's systems and institutions.
 
-    An Adoption Charter is published as [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure). It names offices and roles, never a named sentient's address, phone number, or other contact details, which stay protected under [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational).
+    An Adoption Charter is published as [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure). It names offices and roles, never a named sentient's address, phone number, or other contact details, which stay protected under [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational).
   - **Out of scope:**
     - the adoption document by which a body adopts this Constitution;
-    - the [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record), which governs the transition and is closed and archived when the Adoption Charter takes over;
-    - a [System Charter](core_03.040_band_continuity.md#system-charter), an [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), or a [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter); or
+    - the [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record), which governs the transition and is closed and archived when the Adoption Charter takes over;
+    - a [System Charter](subcore_03.075_band_continuity.md#system-charter), an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter); or
     - any widening of what may be disclosed beyond the limits in [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects). The level of trust an adopter extends sets who may ask and what kind of answer is given. It never sets how much of a Standing Record is disclosed.
-  - **Depends on:** [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure).
+  - **Depends on:** [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure).
   - This entry gives the Chapter Three meaning only. A duty to publish an Adoption Charter, its minimum contents, and the levels of trust an adopter may extend must be stated in an operative chapter. This entry does not create one.
 <a id="adoption-charter-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. an Adoption Charter is published and findable as Public Oversight Baseline Disclosure once the adopter's final gate is passed, and names offices and roles only;
     2. the forum authority assignment names a forum that is separate from the custodian seat for records that forum decides about, and names the route for technical advice;
-    3. a gatekeeper check sent to the named office reaches a working custodian and receives an answer inside the check-answer window of [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects), so that a [Record Custodian](core_03.035_band_accountability.md#record-custodian) named on paper is also reachable in practice;
+    3. a gatekeeper check sent to the named office reaches a working custodian and receives an answer inside the check-answer window of [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects), so that a [Record Custodian](subcore_03.070_band_accountability.md#record-custodian) named on paper is also reachable in practice;
     4. each level of trust extended is published with its reasons and the technical advice it rests on, and any departure from that advice gives written reasons; and
-    5. the entries match the [Charter Role Maps](core_03.040_band_continuity.md#charter-role-map) that apply and confirm or replace the provisional entries the adopter carried in its Adoption Transition Record.
+    5. the entries match the [Charter Role Maps](subcore_03.075_band_continuity.md#charter-role-map) that apply and confirm or replace the provisional entries the adopter carried in its Adoption Transition Record.
 <a id="adoption-charter-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -106,10 +110,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Cluster component: none. This entry stands alone in the Continuity band.
 - Downstream: [Article XXIX-A](core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*); [**CS-4.350**](corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-4350-adoption-transition-constitution-and-migration-governance) (*Adoption Transition constitution and migration governance*); [**CI-4.275**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*).
 - Read with:
-  - [Go-Live](core_03.040_band_continuity.md#go-live),
-  - [Gate](core_03.050_band_oversight.md#gate),
-  - [Gate Criteria](core_03.050_band_oversight.md#gate-criteria), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - [Go-Live](subcore_03.075_band_continuity.md#go-live),
+  - [Gate](subcore_03.085_band_oversight.md#gate),
+  - [Gate Criteria](subcore_03.085_band_oversight.md#gate-criteria), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
 </details>
 
@@ -118,7 +122,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.*
 
 - **What it is**
-  - **In scope:** The period that begins when an adopter's adopting document takes effect and in which the adopter, and the systems and institutions under its authority, move from legacy operation to constitutional operation under [Article XXIX](core_04.040_rights_part_e.md#article-xxix-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*). It runs on a phased plan with published [gate criteria](core_03.050_band_oversight.md#gate-criteria), and it includes:
+  - **In scope:** The period that begins when an adopter's adopting document takes effect and in which the adopter, and the systems and institutions under its authority, move from legacy operation to constitutional operation under [Article XXIX](core_04.040_rights_part_e.md#article-xxix-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*). It runs on a phased plan with published [gate criteria](subcore_03.085_band_oversight.md#gate-criteria), and it includes:
     - the Adoption Transition window for a system already operating when the adopting document takes effect;
     - the attainment path from each Rights Floor's starting measure to the full floor;
     - interim authority, and its limits and reauthorization;
@@ -126,15 +130,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - remediation scoped to the Adoption Transition.
   - **Out of scope:**
     - a system's step-up to a higher-impact class, which is governed by **Article XIX-C** (*Step-Up to Higher-Obligation Regimes*) and not by this entry;
-    - a go-live of a new system or a material expansion, which is governed by [Go-Live](core_03.040_band_continuity.md#go-live);
+    - a go-live of a new system or a material expansion, which is governed by [Go-Live](subcore_03.075_band_continuity.md#go-live);
     - mode or state changes in continuity operations, ordinary migration between vendors or formats, and a change of authority between operators; and
     - labor displacement and individual career change —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Gate Criteria](core_03.050_band_oversight.md#gate-criteria).
+  - **Depends on:** [Gate Criteria](subcore_03.085_band_oversight.md#gate-criteria).
   - The operative rules are stated in [Article XXIX](core_04.040_rights_part_e.md#article-xxix-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) and its sub-articles; this entry is the Chapter Three meaning only. Where the corpus uses the bare word "transition" it has an ordinary meaning, and the defined term is always written **Adoption Transition**.
 <a id="adoption-transition-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the Adoption Transition runs on a published, phased plan whose gates open on published gate criteria met on verified evidence, and not on elapsed time, convenience, or pressure;
@@ -165,39 +169,39 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [**CI-4.275**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*); and
   - [Chapter Twenty-Two §5.6 Contests of Adoption Transition Records](core_22.000_forum.md#56-contests-of-adoption-transition-records) (22.000 §5.6) (*how a forum hears a contest of the Adoption Transition Record*).
 - Read with:
-  - [Adoption Transition](core_03.040_band_continuity.md#adoption-transition),
-  - [Adoption Charter](core_03.040_band_continuity.md#adoption-charter),
-  - [Gate](core_03.050_band_oversight.md#gate),
-  - [Gate Criteria](core_03.050_band_oversight.md#gate-criteria), and
-  - [Go-Live](core_03.040_band_continuity.md#go-live).
-- Distinguish: the Adoption Transition Record is not the document by which a body adopts this Constitution (the adoption document) and not the [Adoption Charter](core_03.040_band_continuity.md#adoption-charter), which states the settled arrangements after the transition ends.
+  - [Adoption Transition](subcore_03.075_band_continuity.md#adoption-transition),
+  - [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter),
+  - [Gate](subcore_03.085_band_oversight.md#gate),
+  - [Gate Criteria](subcore_03.085_band_oversight.md#gate-criteria), and
+  - [Go-Live](subcore_03.075_band_continuity.md#go-live).
+- Distinguish: the Adoption Transition Record is not the document by which a body adopts this Constitution (the adoption document) and not the [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), which states the settled arrangements after the transition ends.
 
 </details>
 
 <br>
 
-*In plain terms: the **Adoption Transition Record** is the published, running record of an adopter's [Adoption Transition](core_03.040_band_continuity.md#adoption-transition): the phased plan, the gates passed and not passed, the Rights-Floor attainment ledger, who is accountable, the interim authority and its limits, and any off-ramp or re-baselining. It also carries, marked provisional, the lookup entries the Adoption Charter later settles. When the adopter reaches steady state the Adoption Charter takes over and the Adoption Transition Record is closed and archived with its history intact.*
+*In plain terms: the **Adoption Transition Record** is the published, running record of an adopter's [Adoption Transition](subcore_03.075_band_continuity.md#adoption-transition): the phased plan, the gates passed and not passed, the Rights-Floor attainment ledger, who is accountable, the interim authority and its limits, and any off-ramp or re-baselining. It also carries, marked provisional, the lookup entries the Adoption Charter later settles. When the adopter reaches steady state the Adoption Charter takes over and the Adoption Transition Record is closed and archived with its history intact.*
 
 - **What it is**
-  - **In scope:** The published document in which an adopter keeps the record of its [Adoption Transition](core_03.040_band_continuity.md#adoption-transition) from the day its adopting document takes effect until its steady-state phase begins. It holds:
-    - the phased plan and its [gate criteria](core_03.050_band_oversight.md#gate-criteria), with each gate's result and the verified evidence it rested on;
+  - **In scope:** The published document in which an adopter keeps the record of its [Adoption Transition](subcore_03.075_band_continuity.md#adoption-transition) from the day its adopting document takes effect until its steady-state phase begins. It holds:
+    - the phased plan and its [gate criteria](subcore_03.085_band_oversight.md#gate-criteria), with each gate's result and the verified evidence it rested on;
     - the Rights-Floor attainment ledger: each starting measure, open attainment gap, and dated path;
     - the accountable Adoption Transition owners and review bodies;
     - interim authority, its limits, and each reauthorization or re-baselining;
     - failure off-ramps taken; and
-    - the provisional entries that the [Adoption Charter](core_03.040_band_continuity.md#adoption-charter) will settle, each marked provisional: the forum authority assignment, the Standing-Record custodian and gatekeeper-check contact, and the levels of trust extended.
+    - the provisional entries that the [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter) will settle, each marked provisional: the forum authority assignment, the Standing-Record custodian and gatekeeper-check contact, and the levels of trust extended.
 
     At the final gate the provisional entries are confirmed or replaced in the Adoption Charter, and the Adoption Transition Record is closed and archived.
   - **Out of scope:**
     - the adoption document by which a body adopts this Constitution;
-    - the [Adoption Charter](core_03.040_band_continuity.md#adoption-charter), which begins when the transition ends;
-    - a [Go-Live](core_03.040_band_continuity.md#go-live) record for a new system or a material expansion; or
+    - the [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), which begins when the transition ends;
+    - a [Go-Live](subcore_03.075_band_continuity.md#go-live) record for a new system or a material expansion; or
     - a stewardship self-application declaration, which is not phase entry, gate evidence, or valid adoption.
-  - **Depends on:** [Adoption Transition](core_03.040_band_continuity.md#adoption-transition).
+  - **Depends on:** [Adoption Transition](subcore_03.075_band_continuity.md#adoption-transition).
   - The operative rules for the plan, gates, ledger, and interim authority are stated in [Article XXIX](core_04.040_rights_part_e.md#article-xxix-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) and its sub-articles; this entry gives the Chapter Three meaning only and creates no new duty.
 <a id="adoption-transition-record-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the Adoption Transition Record is published and kept current from the day the adopting document took effect, with each gate's result and evidence recorded;
@@ -225,9 +229,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §4.3.3 Cause of Misalignment](core_10.000_system_alignment_certification_records_recertification.md#433-cause-of-misalignment) (10.000 §4.3.3) (*cause of misalignment*); read with [Chapter Thirteen §4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications) (13.000 §4.5) (*cascade from System certifications*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_03.040_band_continuity.md#certification-pass),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record), and
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
 
 </details>
 
@@ -236,17 +240,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **cause finding** is a forum's finding of why a misalignment happened: the way the System is built, the way it is run, or not yet known. It sets the remedy sought and how far a reopened review reaches. It never decides whether the System is misaligned.*
 
 - **What it is**
-  - **In scope:** The finding, made when an evaluation, a recertification, a reopened review, or a fresh review finds misalignment, that the cause is **design-caused**, **operating-caused**, or **not yet determined**. A cause finding that places the cause of a System's misalignment in the Institution's own governance, incentives, resourcing, [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), or [Portfolio](core_03.040_band_continuity.md#portfolio) is an **institutional cause**.
+  - **In scope:** The finding, made when an evaluation, a recertification, a reopened review, or a fresh review finds misalignment, that the cause is **design-caused**, **operating-caused**, or **not yet determined**. A cause finding that places the cause of a System's misalignment in the Institution's own governance, incentives, resourcing, [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or [Portfolio](subcore_03.075_band_continuity.md#portfolio) is an **institutional cause**.
   - **Out of scope:**
     - the finding that a System is misaligned, which rests on its results and not on its cause;
     - a violation finding for standing, which Chapters Fourteen and Nineteen own; or
     - a defense that the design looks sound, offered against results that are in fact misaligned —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Certification Pass](core_03.040_band_continuity.md#certification-pass); [System Certification Record](core_03.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - **Depends on:** [Certification Pass](subcore_03.075_band_continuity.md#certification-pass); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
   - The three causes, their limits, and their effect on the count of clean recertifications are stated in [Chapter Ten §4.3.3 Cause of Misalignment](core_10.000_system_alignment_certification_records_recertification.md#433-cause-of-misalignment); the effect on an Institution is stated in [Chapter Thirteen §4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications); this entry is the Chapter Three meaning only.
 <a id="cause-finding-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record states the cause as one of the three, and the operator or any affected sentient may ask the forum to review it;
@@ -270,9 +274,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*go-live gate, certification conditions, and bounded authorization*); read with [Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (9.000 §4.4) (*denial and revocation*).
 - Cluster component: none.
 - Read with:
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Full Certification](core_03.040_band_continuity.md#full-certification), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
@@ -283,15 +287,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** A requirement written into a certification outcome that the operator must meet or keep meeting: before go-live, throughout permitted operation, or as corrective work after authorization inside a bounded scope.
   - **Out of scope:**
-    - [Reliance Limits](core_03.040_band_continuity.md#reliance-limits), which bound what others may rely on and are not requirements the operator meets;
-    - a [Stay](core_03.035_band_accountability.md#stay), which postpones or blocks an action or outcome; or
+    - [Reliance Limits](subcore_03.075_band_continuity.md#reliance-limits), which bound what others may rely on and are not requirements the operator meets;
+    - a [Stay](subcore_03.070_band_accountability.md#stay), which postpones or blocks an action or outcome; or
     - a recommendation with no consequence for the outcome —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Provisional Certification](core_03.040_band_continuity.md#provisional-certification); [Full Certification](core_03.040_band_continuity.md#full-certification); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification); [Full Certification](subcore_03.075_band_continuity.md#full-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The three kinds, what each certification condition must name, and the verification before go-live are stated in [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate); the consequence of a certification condition missed twice or materially violated is stated in [Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation); this entry is the Chapter Three meaning only.
 <a id="certification-condition-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. each certification condition has a responsible owner, evidence, and independent verification stated in the outcome; and
@@ -312,14 +316,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (9.000 §4.4) (*refusing or taking back certification*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
-  - [Certification Revocation](core_03.040_band_continuity.md#certification-revocation),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Full Certification](core_03.040_band_continuity.md#full-certification),
-  - [Recertification](core_03.040_band_continuity.md#recertification),
-  - [Remediation Readiness](core_03.035_band_accountability.md#remediation-readiness), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Certification Revocation](subcore_03.075_band_continuity.md#certification-revocation),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
+  - [Recertification](subcore_03.075_band_continuity.md#recertification),
+  - [Remediation Readiness](subcore_03.070_band_accountability.md#remediation-readiness), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
@@ -330,16 +334,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The outcome non-certification, reached by refusing certification to a system that holds no certification status, at a first certification, a fresh review, or another certification pass, because the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect.
   - **Out of scope:**
-    - [Certification Revocation](core_03.040_band_continuity.md#certification-revocation), which takes back a certification already held;
+    - [Certification Revocation](subcore_03.075_band_continuity.md#certification-revocation), which takes back a certification already held;
     - deferred certification, which postpones the decision for a bounded period and refuses nothing;
     - an order to stop operating, which is decided separately under the survival-essential protection in [Chapter Ten §4.3.5 Class A Reliance](core_10.000_system_alignment_certification_records_recertification.md#435-class-a-reliance); and
     - a standing effect or violation finding — [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) alone decides standing —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification).
+  - **Depends on:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification).
   - The conditions and process are stated in [Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation), and the effects in [Chapter Nine §4.5 Effects of Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation); this entry is the Chapter Three meaning only.
 <a id="certification-denial-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a denial rests on a finding on the System Certification Record that the operator was not shown willing and able to correct, and not on the operator's size, age, wealth, or competing interest;
@@ -365,28 +369,28 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) (9.000 §3.2) (*supervisory sequence*); read with [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*recertification and reopening*).
 - Cluster component: none.
 - Read with:
-  - [Lead Forum](core_03.040_band_continuity.md#lead-forum),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record), and
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - [Lead Forum](subcore_03.075_band_continuity.md#lead-forum),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
 
 </details>
 
 <br>
 
-*In plain terms: a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own System Certification Record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](core_03.040_band_continuity.md#reopened-review), or a [Fresh Review](core_03.040_band_continuity.md#fresh-review).*
+*In plain terms: a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own System Certification Record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](subcore_03.075_band_continuity.md#reopened-review), or a [Fresh Review](subcore_03.075_band_continuity.md#fresh-review).*
 
 - **What it is**
-  - **In scope:** The whole of the certification work for one System or one Institution, from framing it to recording the outcome, including one that ends in withdrawal or non-certification. A certification pass is a first certification, a [Recertification](core_03.040_band_continuity.md#recertification), a [Reopened Review](core_03.040_band_continuity.md#reopened-review), or a [Fresh Review](core_03.040_band_continuity.md#fresh-review). Each opens one coordinated record, and a later certification pass opens a new System Certification Record linked to the completed one.
+  - **In scope:** The whole of the certification work for one System or one Institution, from framing it to recording the outcome, including one that ends in withdrawal or non-certification. A certification pass is a first certification, a [Recertification](subcore_03.075_band_continuity.md#recertification), a [Reopened Review](subcore_03.075_band_continuity.md#reopened-review), or a [Fresh Review](subcore_03.075_band_continuity.md#fresh-review). Each opens one coordinated record, and a later certification pass opens a new System Certification Record linked to the completed one.
   - **Out of scope:**
     - a single evaluation or component finding inside a certification pass;
     - the operation of a certified System between passes; or
     - the outcome itself, which a certification pass ends in and does not equal —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Lead Forum](core_03.040_band_continuity.md#lead-forum); [System Certification Record](core_03.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - **Depends on:** [Lead Forum](subcore_03.075_band_continuity.md#lead-forum); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
   - The order of the work is stated in [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence), and the new record for each later certification pass in [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening); this entry is the Chapter Three meaning only.
 <a id="certification-pass-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. each certification pass says which kind it is and ends in a stated outcome; and
@@ -407,14 +411,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (9.000 §4.4) (*refusing or taking back certification*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
-  - [Certification Denial](core_03.040_band_continuity.md#certification-denial),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Full Certification](core_03.040_band_continuity.md#full-certification),
-  - [Recertification](core_03.040_band_continuity.md#recertification),
-  - [Remediation Readiness](core_03.035_band_accountability.md#remediation-readiness), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Certification Denial](subcore_03.075_band_continuity.md#certification-denial),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
+  - [Recertification](subcore_03.075_band_continuity.md#recertification),
+  - [Remediation Readiness](subcore_03.070_band_accountability.md#remediation-readiness), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
@@ -425,16 +429,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The outcome withdrawal, reached by taking back a certification already held, at a recertification or a reopened review, when the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect, or when a certification condition is repeatedly missed or materially violated, or when evidence offered for readiness, correction, or release from a certification condition is shown to be false, fabricated, or concealed.
   - **Out of scope:**
-    - [Certification Denial](core_03.040_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
+    - [Certification Denial](subcore_03.075_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
     - deferred certification, which postpones the decision for a bounded period and takes nothing back;
     - the cascade to an Institution that cites the certification, which is governed by [Chapter Thirteen §4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications); and
     - a standing effect or violation finding — [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) alone decides standing —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification); [Recertification](core_03.040_band_continuity.md#recertification).
+  - **Depends on:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification); [Recertification](subcore_03.075_band_continuity.md#recertification).
   - The conditions and process are stated in [Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation), and the effects in [Chapter Nine §4.5 Effects of Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation); this entry is the Chapter Three meaning only.
 <a id="certification-revocation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a revocation rests on a finding on the System Certification Record, made after notice and a chance to answer, and not on the operator's size, age, wealth, or competing interest;
@@ -460,8 +464,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §5.1 When the Path Opens](core_10.000_system_alignment_certification_records_recertification.md#51-when-the-path-opens) (10.000 §5.1) (*when the challenge path opens*); read with [Chapter Nine §3.2.1 Challenge Path First](core_09.000_system_alignment_certification_forum_process_outcomes.md#321-challenge-path-first) (9.000 §3.2.1) (*the System Certification Record names the path before sign-off*) and [Chapter Ten §5.2 Contestability Paths](core_10.000_system_alignment_certification_records_recertification.md#52-contestability-paths) (10.000 §5.2) (*contestability paths*).
 - Cluster component: none.
 - Read with:
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record), and
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
 
 </details>
 
@@ -472,15 +476,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The published route, named on a Certification Record, by which a sentient contests the certification: who receives a challenge, how it is filed, and the windows. It is one of the **contestability paths** of [Chapter Ten §5.2 Contestability Paths](core_10.000_system_alignment_certification_records_recertification.md#52-contestability-paths), and the routes matched to where a dispute arises are the **contestability chain** of [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain). It opens with the first outcome and stays open while the System has stakeholders.
   - **Out of scope:**
-    - a challenge itself, which [Contestability](core_03.035_band_accountability.md#contestability) and Due Process govern;
-    - the [Contest Seat](core_03.035_band_accountability.md#contest-seat), which holds the published path together with the competent review or backup forum; or
+    - a challenge itself, which [Contestability](subcore_03.070_band_accountability.md#contestability) and Due Process govern;
+    - the [Contest Seat](subcore_03.070_band_accountability.md#contest-seat), which holds the published path together with the competent review or backup forum; or
     - internal operator review, vendor attestation, or technical sign-off, which are not challenge paths —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [System Certification Record](core_03.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - **Depends on:** [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
   - When the path opens is stated in [Chapter Ten §5.1 When the Path Opens](core_10.000_system_alignment_certification_records_recertification.md#51-when-the-path-opens), and the rule that the System Certification Record names it before sign-off in [Chapter Nine §3.2.1 Challenge Path First](core_09.000_system_alignment_certification_forum_process_outcomes.md#321-challenge-path-first); this entry is the Chapter Three meaning only.
 <a id="challenge-path-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record names who receives challenges, how to file them, and the windows before any forum signs off; and
@@ -503,28 +507,28 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Thirteen §3.1 Minimum Record Contents](core_13.000_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents) (13.000 §3.1) (*minimum record contents*); read with [Chapter Thirteen §4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications) (13.000 §4.5) (*cascade from System certifications*).
 - Cluster component: none.
 - Read with:
-  - [Portfolio](core_03.040_band_continuity.md#portfolio),
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Portfolio](subcore_03.075_band_continuity.md#portfolio),
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
 <br>
 
-*In plain terms: a **cited System** is a System in an Institution's [Portfolio](core_03.040_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.*
+*In plain terms: a **cited System** is a System in an Institution's [Portfolio](subcore_03.075_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.*
 
 - **What it is**
-  - **In scope:** Where an Institution runs several Systems, a System in its [Portfolio](core_03.040_band_continuity.md#portfolio) that the [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record) lists, with the [System Certification Record](core_03.040_band_continuity.md#system-certification-record) it cites for that System. A System with no System Certification Record in force is listed with the reason. Each cited System keeps its own certification pass and its own System Certification Record.
+  - **In scope:** Where an Institution runs several Systems, a System in its [Portfolio](subcore_03.075_band_continuity.md#portfolio) that the [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) lists, with the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) it cites for that System. A System with no System Certification Record in force is listed with the reason. Each cited System keeps its own certification pass and its own System Certification Record.
   - **Out of scope:**
     - a System the Institution does not operate, steward, or materially control;
     - the System's own certification outcome, which the Institution's pass never re-judges; or
     - the one-System evaluation, where the Institution and its System share one certification pass and one System Certification Record —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Portfolio](core_03.040_band_continuity.md#portfolio); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Portfolio](subcore_03.075_band_continuity.md#portfolio); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The cited System entries are stated in [Chapter Thirteen §3.1 Minimum Record Contents](core_13.000_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents), and the effect of a cited System's failure, withdrawal, or expiry in [Chapter Thirteen §4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications); this entry is the Chapter Three meaning only.
 <a id="cited-system-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the Institution's record lists each cited System with its System Certification Record, version, and status; and
@@ -547,9 +551,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §4.3.1 The Two Statuses](core_10.000_system_alignment_certification_records_recertification.md#431-the-two-statuses) (10.000 §4.3.1) (*the two statuses and clean recertifications*).
 - Cluster component: none.
 - Read with:
-  - [Recertification](core_03.040_band_continuity.md#recertification),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification), and
-  - [Full Certification](core_03.040_band_continuity.md#full-certification).
+  - [Recertification](subcore_03.075_band_continuity.md#recertification),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification), and
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification).
 
 </details>
 
@@ -558,16 +562,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a recertification is **clean** when no misalignment is current and no monitoring indicator points to impending misalignment. Only clean recertifications count toward full certification.*
 
 - **What it is**
-  - **In scope:** A [Recertification](core_03.040_band_continuity.md#recertification) that finds no current misalignment and no monitoring indicator pointing to impending misalignment. A required number of consecutive clean provisional recertifications is one input to [Full Certification](core_03.040_band_continuity.md#full-certification).
+  - **In scope:** A [Recertification](subcore_03.075_band_continuity.md#recertification) that finds no current misalignment and no monitoring indicator pointing to impending misalignment. A required number of consecutive clean provisional recertifications is one input to [Full Certification](subcore_03.075_band_continuity.md#full-certification).
   - **Out of scope:**
     - a failed recertification, which finds current misalignment and restarts the count at zero; or
     - a recertification that finds no current misalignment but shows an indicator of impending misalignment, which is not a failure and is not clean —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Recertification](core_03.040_band_continuity.md#recertification); [Provisional Certification](core_03.040_band_continuity.md#provisional-certification); [Full Certification](core_03.040_band_continuity.md#full-certification).
+  - **Depends on:** [Recertification](subcore_03.075_band_continuity.md#recertification); [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification); [Full Certification](subcore_03.075_band_continuity.md#full-certification).
   - The count and the requirements for full certification are stated in [Chapter Ten §4.3.1 The Two Statuses](core_10.000_system_alignment_certification_records_recertification.md#431-the-two-statuses); this entry is the Chapter Three meaning only.
 <a id="clean-recertification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. only a clean recertification advances the count of clean recertifications; and
@@ -589,20 +593,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Owner floor: [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Non-commodification of essential environments* protection. Cross-reference: [Article XXIX-D](core_04.040_rights_part_e.md#article-xxix-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) Adoption Transition stewardship discipline.
 - Read with:
-  - [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics),
-  - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
-  - [Necessity](core_03.035_band_accountability.md#necessity), and
-  - [Proportionality](core_03.035_band_accountability.md#proportionality).
+  - [Occupancy Continuity](subcore_03.075_band_continuity.md#occupancy-continuity),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity), and
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept limiting market-structured commodification of essential shelter and operating environments where commodification pressure at scale materially implicates the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) survival-floor. It applies under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion). Covered environments include:
+  - **In scope:** The Rights-Floor concept limiting market-structured commodification of essential shelter and operating environments where commodification pressure at scale materially implicates the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) survival-floor. It applies under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion). Covered environments include:
     - physical dwellings;
     - healthy food;
     - clean water and air;
@@ -612,20 +616,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Out of scope:** ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope.
 <a id="essential-environment-non-commodification-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
-  - **Named-form measure:** [Timeliness measurement family](core_03.030_apex_timeliness_leg.md#measuring-timeliness) — checks whether control or interference causes delay, obstruction, or unfair influence over dispute resolution.
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Named-form measure:** [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — checks whether control or interference causes delay, obstruction, or unfair influence over dispute resolution.
 
     **Primary assessment:** Reach substantive effect:
     - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
-    - apply [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness) and [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects;
-    - reject "market-structuring" framings that narrow the floor without satisfying [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) limitations discipline;
+    - apply [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects;
+    - reject "market-structuring" framings that narrow the floor without satisfying [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) limitations discipline;
     - substrate-class commodification schemes targeting synthetic-hosting tenancy are evaluated on the same terms.
 <a id="essential-environment-non-commodification-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
-    - schemes that defeat synthetic-hosting or compute-tenancy access contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion);
-    - reading this entry to displace [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body*) or VII-B.
+    - schemes that defeat synthetic-hosting or compute-tenancy access contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion);
+    - reading this entry to displace [Occupancy Continuity](subcore_03.075_band_continuity.md#occupancy-continuity) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body*) or VII-B.
 
 ---
 
@@ -639,9 +643,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Nine §4.2 Certification Defects and Correction](core_09.000_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction) (9.000 §4.2) (*certification defects and the forum's responses*); read with [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*recertification and reopening*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_03.040_band_continuity.md#certification-pass),
-  - [Reopened Review](core_03.040_band_continuity.md#reopened-review), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
+  - [Reopened Review](subcore_03.075_band_continuity.md#reopened-review), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
@@ -652,14 +656,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** A later certification pass ordered under [Chapter Nine §4.2 Certification Defects and Correction](core_09.000_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction) in answer to a certification defect, listed there beside certifying with certification conditions, deferring, refusing, withdrawing, changing the certification interval, and reopening review. It runs through the same forum process and ends in an outcome.
   - **Out of scope:**
-    - a [Recertification](core_03.040_band_continuity.md#recertification), which runs on the schedule; or
+    - a [Recertification](subcore_03.075_band_continuity.md#recertification), which runs on the schedule; or
     - the first certification of a System —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Certification Pass](core_03.040_band_continuity.md#certification-pass); [Reopened Review](core_03.040_band_continuity.md#reopened-review); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Certification Pass](subcore_03.075_band_continuity.md#certification-pass); [Reopened Review](subcore_03.075_band_continuity.md#reopened-review); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The choice among these responses is stated in [Chapter Nine §4.2 Certification Defects and Correction](core_09.000_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction), and the new System Certification Record in [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening); this entry is the Chapter Three meaning only.
 <a id="fresh-review-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the forum states why it ordered a fresh review in place of the other responses; and
@@ -680,13 +684,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §4.3 Provisional and Full Certification](core_10.000_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) (10.000 §4.3) (*earning, keeping, and losing certification status*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Recertification](core_03.040_band_continuity.md#recertification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record),
-  - [System Classification Record](core_03.040_band_continuity.md#system-classification-record), and
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence).
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Recertification](subcore_03.075_band_continuity.md#recertification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record),
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), and
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence).
 
 </details>
 
@@ -695,17 +699,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: **full certification** is the longer-interval status a system earns only after clean recertifications, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing an evaluation, or a warning sign in the monitoring numbers, takes it away.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system that was certified provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](core_03.040_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full certification runs on the class-scaled certification interval, remains time-bound, and remains open to reopening.
+  - **In scope:** The status of certification held by a system that was certified provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](subcore_03.075_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full certification runs on the class-scaled certification interval, remains time-bound, and remains open to reopening.
   - **Out of scope:**
-    - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification);
+    - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification);
     - conditional certification, which concerns certification conditions and may attach to either status;
     - a permanent permission slip, reputation score, or standing effect — [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) alone decides standing —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Provisional Certification](core_03.040_band_continuity.md#provisional-certification); [Recertification](core_03.040_band_continuity.md#recertification).
+  - **Depends on:** [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification); [Recertification](subcore_03.075_band_continuity.md#recertification).
   - The clean-recertification minimum, step-down, and tier windows are stated in [Chapter Ten §4.3 Provisional and Full Certification](core_10.000_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification); this entry is the Chapter Three meaning only.
 <a id="full-certification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the class-scaled number of consecutive clean provisional recertifications was actually completed;
@@ -729,17 +733,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*the go-live gate: what must hold before a system goes live*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Eight §3.3 Pilot Certification](core_08.000_system_alignment_certification_evaluation.md#33-pilot-certification) (8.000 §3.3) (*a pilot is a go-live*).
 - Read with:
-  - [Pilot](core_03.040_band_continuity.md#pilot),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Full Certification](core_03.040_band_continuity.md#full-certification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record),
-  - [Material Impact](core_03.050_band_oversight.md#material-impact),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [System Boundaries](core_03.040_band_continuity.md#system-boundaries), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - [Pilot](subcore_03.075_band_continuity.md#pilot),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record),
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
 </details>
 
@@ -748,22 +752,22 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **go-live** is the moment a system stops being something that is being built or tested and starts being something that actually affects sentients, or that sentients start to rely on. It is judged by what the system is really doing, not by what the launch is called.*
 
 - **What it is**
-  - **In scope:** The point at which a system first operates so that it [materially affects](core_03.050_band_oversight.md#material-impact) sentients, or so that sentients materially rely on it (see [Dependency](core_03.040_band_continuity.md#dependency)), whether as a [Pilot](core_03.040_band_continuity.md#pilot) or in full deployment. Each of these is its own go-live: a pilot, full deployment after a pilot, and a material expansion of an operating system beyond the certified scope, population, or duration its certification covers (as to the expanded part). Whether a go-live has occurred is decided by actual operation and effect, not by a launch label such as "beta," "trial," "preview," "early access," "soft launch," or "experimental," and not by an announcement date or an internal milestone.
+  - **In scope:** The point at which a system first operates so that it [materially affects](subcore_03.085_band_oversight.md#material-impact) sentients, or so that sentients materially rely on it (see [Dependency](subcore_03.075_band_continuity.md#dependency)), whether as a [Pilot](subcore_03.075_band_continuity.md#pilot) or in full deployment. Each of these is its own go-live: a pilot, full deployment after a pilot, and a material expansion of an operating system beyond the certified scope, population, or duration its certification covers (as to the expanded part). Whether a go-live has occurred is decided by actual operation and effect, not by a launch label such as "beta," "trial," "preview," "early access," "soft launch," or "experimental," and not by an announcement date or an internal milestone.
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - a system that neither materially affects sentients nor is materially relied on by them;
     - a system already operating when an adopter's adopting document takes effect, which is governed during its Adoption Transition period by the Adoption Transition window in **Article XXIX-A** (*Phased Adoption and Rights-Floor Continuity*) and not treated as going live a second time; or
     - ordinary changes to an operating system that are not a material expansion —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Material Impact](core_03.050_band_oversight.md#material-impact); [Dependency](core_03.040_band_continuity.md#dependency).
+  - **Depends on:** [Material Impact](subcore_03.085_band_oversight.md#material-impact); [Dependency](subcore_03.075_band_continuity.md#dependency).
   - The gate that must be satisfied before a go-live, the notice interval, and the verification of certification conditions are stated in [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate); this entry is the Chapter Three meaning only.
 <a id="go-live-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the date a system went live is identified from when it actually began to materially affect sentients, or to be materially relied on, and not from a launch label, announcement, or internal milestone;
-    2. nothing operated with live effect or reliance before the earliest permitted go-live stated on the [System Certification Record](core_03.040_band_continuity.md#system-certification-record); and
+    2. nothing operated with live effect or reliance before the earliest permitted go-live stated on the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); and
     3. a pilot, full deployment after a pilot, and a material expansion were each treated as a go-live of their own, and not as a continuation of an earlier one.
 <a id="go-live-c"></a>
 - **What must hold**
@@ -785,10 +789,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Thirteen §4.6 Reopening the Institution's Systems](core_13.000_institutional_alignment_certification_records_recertification.md#46-reopening-the-institutions-systems) (13.000 §4.6) (*reopening the Institution's Systems*); read with [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers) (10.000 §4.2) (*reopening triggers*).
 - Cluster component: none.
 - Read with:
-  - [Reopened Review](core_03.040_band_continuity.md#reopened-review),
-  - [Cited System](core_03.040_band_continuity.md#cited-system),
-  - [Cause Finding](core_03.040_band_continuity.md#cause-finding), and
-  - [Institution](core_03.040_band_continuity.md#institution).
+  - [Reopened Review](subcore_03.075_band_continuity.md#reopened-review),
+  - [Cited System](subcore_03.075_band_continuity.md#cited-system),
+  - [Cause Finding](subcore_03.075_band_continuity.md#cause-finding), and
+  - [Institution](subcore_03.075_band_continuity.md#institution).
 
 </details>
 
@@ -797,16 +801,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **governance violation** is the name Chapter Eleven gives to an Institution's governance failure that reopens review of its Systems. It names the reopening grounds and does not mean a violation for standing. Only a material one reopens.*
 
 - **What it is**
-  - **In scope:** An Institution's governance failure that reopens review of its Systems: a determination that its own governance failed, a denial or revocation of the Institution on a governance-related denial or revocation ground, or an [Cause Finding](core_03.040_band_continuity.md#cause-finding) that places the cause in the Institution. Only a material one reopens, and each determination reopens each System once.
+  - **In scope:** An Institution's governance failure that reopens review of its Systems: a determination that its own governance failed, a denial or revocation of the Institution on a governance-related denial or revocation ground, or an [Cause Finding](subcore_03.075_band_continuity.md#cause-finding) that places the cause in the Institution. Only a material one reopens, and each determination reopens each System once.
   - **Out of scope:**
     - a violation of standing, which Chapters Fourteen and Nineteen own; or
     - the currency of a cited System's certification, which comes from the Systems' own System Certification Records —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Reopened Review](core_03.040_band_continuity.md#reopened-review); [Cited System](core_03.040_band_continuity.md#cited-system); [Cause Finding](core_03.040_band_continuity.md#cause-finding); [Institution](core_03.040_band_continuity.md#institution).
+  - **Depends on:** [Reopened Review](subcore_03.075_band_continuity.md#reopened-review); [Cited System](subcore_03.075_band_continuity.md#cited-system); [Cause Finding](subcore_03.075_band_continuity.md#cause-finding); [Institution](subcore_03.075_band_continuity.md#institution).
   - The reopening grounds, the materiality filter, and the notice are stated in [Chapter Thirteen §4.6 Reopening the Institution's Systems](core_13.000_institutional_alignment_certification_records_recertification.md#46-reopening-the-institutions-systems); this entry is the Chapter Three meaning only.
 <a id="governance-violation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the Institution's record names each System notified and the date of the notice; and
@@ -829,9 +833,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Eleven §3.1 Institution Class](core_11.000_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*how an Institution's class is determined*); read with [CS-8.305 (*System classification machinery*)](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) and [CS-8.310 (*System Impact Classifications*)](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications).
 - Cluster component: none.
 - Read with:
-  - [Institution](core_03.040_band_continuity.md#institution),
-  - [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification), and
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - [Institution](subcore_03.075_band_continuity.md#institution),
+  - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification), and
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
 
 </details>
 
@@ -840,13 +844,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: an Institution's class reflects the greatest material impact of what it decides, holds, and controls, whether through its Systems or on its own. Its name, legal form, and chartered list do not determine its class.*
 
 - **What it is**
-  - **In scope:** The class assigned to an [Institution](core_03.040_band_continuity.md#institution) by its greatest material impact, assessed through the Systems it operates, stewards, or materially controls and through its own decisions and holdings outside any System. The class governs the depth of institutional evaluation and its clocks.
-  - **Out of scope:** the separate class of a System in the Institution's [Portfolio](core_03.040_band_continuity.md#portfolio), which is decided for that System and is not re-decided by the Institution's evaluation.
-  - **Depends on:** [Institution](core_03.040_band_continuity.md#institution); [Portfolio](core_03.040_band_continuity.md#portfolio); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - **In scope:** The class assigned to an [Institution](subcore_03.075_band_continuity.md#institution) by its greatest material impact, assessed through the Systems it operates, stewards, or materially controls and through its own decisions and holdings outside any System. The class governs the depth of institutional evaluation and its clocks.
+  - **Out of scope:** the separate class of a System in the Institution's [Portfolio](subcore_03.075_band_continuity.md#portfolio), which is decided for that System and is not re-decided by the Institution's evaluation.
+  - **Depends on:** [Institution](subcore_03.075_band_continuity.md#institution); [Portfolio](subcore_03.075_band_continuity.md#portfolio); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
   - The classification factors, common-control rule, and reclassification triggers are stated in [Chapter Eleven §3.1 Institution Class](core_11.000_institutional_alignment_certification_evaluation.md#31-institution-class); this entry is the Chapter Three meaning only.
 <a id="institution-class-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify the class against observed System activity and the Institution's own decisions and holdings, apply the controlling classification factors, and confirm the class and reasons appear on the Institutional Certification Record.
 <a id="institution-class-c"></a>
@@ -864,20 +868,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Eleven — Institutional Alignment Certification](core_11.000_institutional_alignment_certification_evaluation.md#chapter-eleven-institutional-alignment-certification--evaluation) (11.000) (*institution class, institutional evaluation, forum roles, record, cascade from system certifications, and reopening*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3) (*an Institution's certification point*); [Chapter Twenty-Three §3.3 Institutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3) (*institutional mandate and duty-compliance components*).
 - Read with:
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record),
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification),
-  - [Institution](core_03.040_band_continuity.md#institution),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Full Certification](core_03.040_band_continuity.md#full-certification),
-  - [Recertification](core_03.040_band_continuity.md#recertification), and
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance).
-- Distinguish: the "certification" that Chapter Twenty-Three §4 describes is a forum referring a question up to another forum. This entry is the forum-supervised process that tests whether an [Institution](core_03.040_band_continuity.md#institution) is aligned, and it is a different thing.
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record),
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification),
+  - [Institution](subcore_03.075_band_continuity.md#institution),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
+  - [Recertification](subcore_03.075_band_continuity.md#recertification), and
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance).
+- Distinguish: the "certification" that Chapter Twenty-Three §4 describes is a forum referring a question up to another forum. This entry is the forum-supervised process that tests whether an [Institution](subcore_03.075_band_continuity.md#institution) is aligned, and it is a different thing.
 
 </details>
 
@@ -886,25 +890,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: **institutional alignment certification** (non-operative shorthand: **IAC**) is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.*
 
 - **What it is**
-  - **In scope:** The forum-supervised process, and the bounded [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record) it produces, by which an [Institution](core_03.040_band_continuity.md#institution), within a stated scope, class, record span, and review cadence, shows that it is aligned with the Constitution as an Institution. It covers the matters that exist only at the level of the Institution:
-    - whether its practice matches its [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), and whether the portfolio rationale still explains the Systems it actually runs;
+  - **In scope:** The forum-supervised process, and the bounded [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) it produces, by which an [Institution](subcore_03.075_band_continuity.md#institution), within a stated scope, class, record span, and review cadence, shows that it is aligned with the Constitution as an Institution. It covers the matters that exist only at the level of the Institution:
+    - whether its practice matches its [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), and whether the portfolio rationale still explains the Systems it actually runs;
     - whether the authority it exercises is attributable to accountable offices;
     - whether its own reward structures, targets, and incentives reward alignment and not misalignment;
-    - whether its [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) and Standing-Record custody work in practice, with an independent route that can be used; and
+    - whether its [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) and Standing-Record custody work in practice, with an independent route that can be used; and
     - whether the System Alignment Certification of each System it runs is current, and what that means for the Institution.
 
     It cites each System's own certification by link, and it uses the same outcomes, statuses, and reopening discipline as System Alignment Certification.
   - **Out of scope:**
-    - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) of any System the Institution runs, which belongs to that System and is never repeated or overridden here;
+    - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) of any System the Institution runs, which belongs to that System and is never repeated or overridden here;
     - any permission to form, join, or run an Institution, which [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) protects and this process does not condition;
     - forum-to-forum referral and sending for ruling under Chapter Twenty-Two; or
-    - a [Standing Record](core_03.035_band_accountability.md#standing-record) or any standing effect —
+    - a [Standing Record](subcore_03.070_band_accountability.md#standing-record) or any standing effect —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Institution](core_03.040_band_continuity.md#institution); [Institutional Charter](core_03.040_band_continuity.md#institutional-charter); [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification).
+  - **Depends on:** [Institution](subcore_03.075_band_continuity.md#institution); [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter); [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification).
   - Who must be certified, what is evaluated, who holds each seat, how a failed System certification reaches the Institution, and when review reopens are stated in [Chapter Eleven](core_11.000_institutional_alignment_certification_evaluation.md#chapter-eleven-institutional-alignment-certification--evaluation); this entry is the Chapter Three meaning only.
 <a id="institutional-alignment-certification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. an Institution of Class L or higher holds a current Institutional Certification Record, or is inside the window the Institutional Certification Record states for a first certification;
@@ -931,15 +935,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Thirteen §3 Institutional Certification Record](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record) (13.000 §3) (*minimum contents and integrity*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
-  - [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record),
-  - [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), and
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map).
+  - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record),
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), and
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map).
 
 </details>
 
@@ -948,21 +952,21 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a Standing Record.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable Institutional Certification Record produced by [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any certification conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
+  - **In scope:** The bounded, reviewable Institutional Certification Record produced by [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any certification conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
   - **Out of scope:**
-    - a [System Certification Record](core_03.040_band_continuity.md#system-certification-record), which stays the record of one System and is cited here and never absorbed;
-    - a [Standing Record](core_03.035_band_accountability.md#standing-record), which Chapters Fourteen and Nineteen own; or
+    - a [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), which stays the record of one System and is cited here and never absorbed;
+    - a [Standing Record](subcore_03.070_band_accountability.md#standing-record), which Chapters Fourteen and Nineteen own; or
     - an Institution's own annual report, audit statement, or attestation offered in place of the Institutional Certification Record —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The minimum contents and the integrity rules are stated in [Chapter Thirteen §3 Institutional Certification Record](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record); this entry is the Chapter Three meaning only.
 <a id="institutional-certification-record-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the Institutional Certification Record names the Institutional Charter and Charter Role Map versions in force, and the version of each cited System Certification Record;
-    2. the Institutional Certification Record is kept by an office outside the Institution's own [Material Control Line](core_03.035_band_accountability.md#material-control-line) and can be challenged through a published path; and
+    2. the Institutional Certification Record is kept by an office outside the Institution's own [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) and can be challenged through a published path; and
     3. a later pass opens a new linked Institutional Certification Record and leaves the earlier one as it stood.
 <a id="institutional-certification-record-c"></a>
 - **What must hold**
@@ -984,9 +988,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Eleven §4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (11.000 §4), item 8 (*data types and handling*), and [§3.1 Minimum Record Contents](core_13.000_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents); read with [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4).
 - Cluster component: none.
 - Read with:
-  - [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification),
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record), and
-  - [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record).
+  - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification),
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record), and
+  - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record).
 
 </details>
 
@@ -996,12 +1000,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** Evaluation of data types materially in scope that an Institution handles outside any System, including how each type is handled under the most restrictive applicable classification. The findings appear in the data-types section of the Institutional Certification Record; they do not form a separate Institutional Certification Record.
-  - **Out of scope:** data handled inside a System, which is evaluated and recorded once under the [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) and cited in the Institutional Certification Record.
-  - **Depends on:** [Institution](core_03.040_band_continuity.md#institution); [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record); [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record).
+  - **Out of scope:** data handled inside a System, which is evaluated and recorded once under the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) and cited in the Institutional Certification Record.
+  - **Depends on:** [Institution](subcore_03.075_band_continuity.md#institution); [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record); [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record).
   - The institutional evaluation, recording, and reevaluation requirements are stated in [Chapter Eleven §4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), item 8, [§3.1 Minimum Record Contents](core_13.000_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents), and [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation); this entry is the Chapter Three meaning only.
 <a id="institutional-data-types-and-handling-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify the materially in-scope data types the Institution handles outside any System, their classification and handling, the required reevaluation schedule, and that the findings are recorded in the Institutional Certification Record without repeating a System's data evaluation.
 <a id="institutional-data-types-and-handling-c"></a>
@@ -1020,8 +1024,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
 - Cluster component: none.
 - Read with:
-  - [Materiality Tier](core_03.040_band_continuity.md#materiality-tier), and
-  - [Tier Window](core_03.040_band_continuity.md#tier-window).
+  - [Materiality Tier](subcore_03.075_band_continuity.md#materiality-tier), and
+  - [Tier Window](subcore_03.075_band_continuity.md#tier-window).
 
 </details>
 
@@ -1035,11 +1039,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - the later stage targets and the integrated resolution outer bound of the tier; or
     - the figures themselves, which [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Materiality Tier](core_03.040_band_continuity.md#materiality-tier).
+  - **Depends on:** [Materiality Tier](subcore_03.075_band_continuity.md#materiality-tier).
   - The rule is stated in [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Three meaning only.
 <a id="intake-target-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. intake is acknowledged and evidence preservation begins inside the intake target of the matter's tier; and
@@ -1062,8 +1066,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Twenty-Three Interim Protection](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (22.000) (*interim protection while a matter is pending*); read with [Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (9.000 §3.2.3) (*urgent protection in a certification pass*).
 - Cluster component: none.
 - Read with:
-  - [Stay](core_03.035_band_accountability.md#stay), and
-  - [Interim Hold](core_03.035_band_accountability.md#interim-hold).
+  - [Stay](subcore_03.070_band_accountability.md#stay), and
+  - [Interim Hold](subcore_03.070_band_accountability.md#interim-hold).
 
 </details>
 
@@ -1072,16 +1076,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: **interim protection** is relief ordered while a matter is pending, to protect sentients, evidence, or the status quo until the merits are decided. It must be reasoned, proportionate, and reviewed inside the prompt-review window.*
 
 - **What it is**
-  - **In scope:** Relief that a family with jurisdiction over a matter issues while the matter is pending. An [Interim Hold](core_03.035_band_accountability.md#interim-hold) is interim protection directed at one named sentient's exercise of one named authority, pathway, or matter, on less than a verified violation finding; it is not a violation finding, a lock, or a penalty.
+  - **In scope:** Relief that a family with jurisdiction over a matter issues while the matter is pending. An [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) is interim protection directed at one named sentient's exercise of one named authority, pathway, or matter, on less than a verified violation finding; it is not a violation finding, a lock, or a penalty.
   - **Out of scope:**
     - a final outcome or a determination of the merits; or
-    - a [Stay](core_03.035_band_accountability.md#stay), which postpones or blocks an action or outcome and is a separate measure —
+    - a [Stay](subcore_03.070_band_accountability.md#stay), which postpones or blocks an action or outcome and is a separate measure —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Stay](core_03.035_band_accountability.md#stay); [Interim Hold](core_03.035_band_accountability.md#interim-hold).
+  - **Depends on:** [Stay](subcore_03.070_band_accountability.md#stay); [Interim Hold](subcore_03.070_band_accountability.md#interim-hold).
   - The grounds for interim protection, the review, and the coordination of simultaneous orders are stated in [Chapter Twenty-Three Interim Protection](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection); its use in a certification pass is stated in [Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection); this entry is the Chapter Three meaning only.
 <a id="interim-protection-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. each order states its reason and why it is proportionate, and is reviewed inside the prompt-review window; and
@@ -1104,9 +1108,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) (9.000 §3.2) (*supervisory sequence and lead coordination*); read with [Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (9.000 §3.1.1) (*four seats in a certification*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_03.040_band_continuity.md#certification-pass),
-  - [Record Seat](core_03.035_band_accountability.md#record-seat), and
-  - [Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat).
+  - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
+  - [Record Seat](subcore_03.070_band_accountability.md#record-seat), and
+  - [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat).
 
 </details>
 
@@ -1115,16 +1119,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: the **lead forum** is the Integrity Forum that leads a certification pass. It directs the opening of the one coordinated record, brings the component findings together, and states the outcome.*
 
 - **What it is**
-  - **In scope:** The Integrity Forum that leads each [Certification Pass](core_03.040_band_continuity.md#certification-pass), unless Chapter Twenty-Two assigns a different lawful lead for the primary stake. It holds the [Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat) for the outcome and directs the record seat holder to open the one coordinated record.
+  - **In scope:** The Integrity Forum that leads each [Certification Pass](subcore_03.075_band_continuity.md#certification-pass), unless Chapter Twenty-Two assigns a different lawful lead for the primary stake. It holds the [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat) for the outcome and directs the record seat holder to open the one coordinated record.
   - **Out of scope:**
     - a component forum or authority, which gives a bounded component finding; or
-    - the record seat holder, who keeps the System or Institutional Certification Record, since the lead forum directs the sequence and does not hold the [Record Seat](core_03.035_band_accountability.md#record-seat) on the same act —
+    - the record seat holder, who keeps the System or Institutional Certification Record, since the lead forum directs the sequence and does not hold the [Record Seat](subcore_03.070_band_accountability.md#record-seat) on the same act —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Certification Pass](core_03.040_band_continuity.md#certification-pass); [Record Seat](core_03.035_band_accountability.md#record-seat); [Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat).
+  - **Depends on:** [Certification Pass](subcore_03.075_band_continuity.md#certification-pass); [Record Seat](subcore_03.070_band_accountability.md#record-seat); [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat).
   - The lead forum's steps are stated in [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence); its place among the four seats is stated in [Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification); this entry is the Chapter Three meaning only.
 <a id="lead-forum-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. each certification pass names its lead forum, and the lead forum does not hold the record seat on the same act; and
@@ -1147,9 +1151,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*timely resolution, materiality tiers, and anti-delay discipline*); the figures are in [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*stage targets and outer bounds*).
 - Cluster component: none.
 - Read with:
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Intake Target](core_03.040_band_continuity.md#intake-target), and
-  - [Tier Window](core_03.040_band_continuity.md#tier-window).
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Intake Target](subcore_03.075_band_continuity.md#intake-target), and
+  - [Tier Window](subcore_03.075_band_continuity.md#tier-window).
 
 </details>
 
@@ -1158,16 +1162,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **materiality tier** is one of five urgency levels (A, B, C, L, P) a material dispute or certification matter is placed in. The tier sets the clocks the matter runs on, from intake to the outer bound for resolution.*
 
 - **What it is**
-  - **In scope:** One of the five tiers, A, B, C, L, and P, into which a material dispute or certification matter is classified under [Materiality](core_03.050_band_oversight.md#materiality), mirroring the System and Institution class alphabet. The tier sets the matter's stage targets and integrated resolution outer bound; a certification matter's tier presumptively matches its class.
+  - **In scope:** One of the five tiers, A, B, C, L, and P, into which a material dispute or certification matter is classified under [Materiality](subcore_03.085_band_oversight.md#materiality), mirroring the System and Institution class alphabet. The tier sets the matter's stage targets and integrated resolution outer bound; a certification matter's tier presumptively matches its class.
   - **Out of scope:**
     - the System or Institution class itself, which has its own home; or
     - the figures for each tier, which [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Materiality](core_03.050_band_oversight.md#materiality).
+  - **Depends on:** [Materiality](subcore_03.085_band_oversight.md#materiality).
   - The tiers are stated in [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Three meaning only.
 <a id="materiality-tier-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. each material matter is placed in a tier on its stakes, not on convenience or coordination burden alone; and
@@ -1190,28 +1194,28 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Thirteen §4.2.1 What Counts as New Material Authority](core_13.000_institutional_alignment_certification_records_recertification.md#421-what-counts-as-new-material-authority) (13.000 §4.2.1) (*what counts as new material authority*); read with [Chapter Thirteen §4.2.2 Recertification for New Material Authority](core_13.000_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority) (13.000 §4.2.2) (*recertification for new material authority*).
 - Cluster component: none.
 - Read with:
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record), and
-  - [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality).
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record), and
+  - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
 
 </details>
 
 <br>
 
-*In plain terms: **new material authority** is authority to decide, direct, allocate, restrict, or control something for others that is material to them and is not already covered by the Institution's [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) or its current [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record). An Institution waits for its recertification to clear it before exercising it.*
+*In plain terms: **new material authority** is authority to decide, direct, allocate, restrict, or control something for others that is material to them and is not already covered by the Institution's [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) or its current [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record). An Institution waits for its recertification to clear it before exercising it.*
 
 - **What it is**
-  - **In scope:** Authority that is both material under [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality) and not covered by the [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) or the current [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record). A [Pilot](core_03.040_band_continuity.md#pilot) of such authority counts where it is itself material. The permission to exercise it is a **clearance** given by the recertification, as a System's permission to go live is an authorization under the [Go-Live](core_03.040_band_continuity.md#go-live) gate.
+  - **In scope:** Authority that is both material under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) and not covered by the [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) or the current [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record). A [Pilot](subcore_03.075_band_continuity.md#pilot) of such authority counts where it is itself material. The permission to exercise it is a **clearance** given by the recertification, as a System's permission to go live is an authorization under the [Go-Live](subcore_03.075_band_continuity.md#go-live) gate.
   - **Out of scope:**
-    - authority stated in the Institution's first [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), since there is no gate on forming;
+    - authority stated in the Institution's first [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), since there is no gate on forming;
     - more of what the Institutional Certification Record already evaluated; or
     - a new System, which goes live on its own certification, unless it also gives the Institution authority that the Institutional Certification Record does not cover —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Institutional Charter](core_03.040_band_continuity.md#institutional-charter); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record); [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality).
+  - **Depends on:** [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record); [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
   - What counts, the notice, and the blockers to clearing it are stated in [Chapter Thirteen §4.2.1 What Counts as New Material Authority](core_13.000_institutional_alignment_certification_records_recertification.md#421-what-counts-as-new-material-authority) and [Chapter Thirteen §4.2.2 Recertification for New Material Authority](core_13.000_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority); the wait is stated in **Article XI-E** (*Institutional Formation and Business Creation*); this entry is the Chapter Three meaning only.
 <a id="new-material-authority-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the Institution gives notice before exercising authority that may be new and material, and the lead forum decides where it is unclear; and
@@ -1234,9 +1238,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Eleven §2.1 Who Is Certified](core_11.000_institutional_alignment_certification_evaluation.md#21-who-is-certified) (11.000 §2.1) (*who is certified, and the one-System case*); read with [Chapter Twelve §4.4 Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (12.000 §4.4) (*denial and revocation for an Institution*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_03.040_band_continuity.md#certification-pass),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record), and
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
 
 </details>
 
@@ -1245,17 +1249,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: the **one-System evaluation** is the single certification pass and single record for an Institution that runs exactly one System that needs a System Charter. The System Certification Record carries an institutional findings block and serves as the Institutional Certification Record.*
 
 - **What it is**
-  - **In scope:** One [Certification Pass](core_03.040_band_continuity.md#certification-pass) and one record for an Institution that runs exactly one System needing a [System Charter](core_03.040_band_continuity.md#system-charter). The forums, seats, and times are those of the System's own pass, with the Institution's evaluation items added. A System ground and an institutional ground for denial or revocation are stated separately.
+  - **In scope:** One [Certification Pass](subcore_03.075_band_continuity.md#certification-pass) and one record for an Institution that runs exactly one System needing a [System Charter](subcore_03.075_band_continuity.md#system-charter). The forums, seats, and times are those of the System's own pass, with the Institution's evaluation items added. A System ground and an institutional ground for denial or revocation are stated separately.
   - **Out of scope:**
-    - an Institution that runs several Systems, which has one [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record) linking to each System's record;
+    - an Institution that runs several Systems, which has one [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) linking to each System's record;
     - an Institution that runs no System, which has an Institutional Certification Record on its own; or
     - the cascade from a System's certification beyond its rules 1 and 2, which are the only rules of it that apply here —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Certification Pass](core_03.040_band_continuity.md#certification-pass); [System Certification Record](core_03.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record).
+  - **Depends on:** [Certification Pass](subcore_03.075_band_continuity.md#certification-pass); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record).
   - The one-System case is stated in [Chapter Eleven §2.1 Who Is Certified](core_11.000_institutional_alignment_certification_evaluation.md#21-who-is-certified), and the denial and revocation grounds in [Chapter Twelve §4.4 Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution); this entry is the Chapter Three meaning only.
 <a id="one-system-evaluation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record carries the institutional findings block with every item the Institution's evaluation requires; and
@@ -1278,26 +1282,26 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*operating, recertifying, and reopening a certified System*); read with [Chapter Twelve §4.4 Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (12.000 §4.4) (*reading governing authority for operator*).
 - Cluster component: none.
 - Read with:
-  - [System](core_03.040_band_continuity.md#system), and
-  - [Operating Party](core_03.050_band_oversight.md#operating-party).
+  - [System](subcore_03.075_band_continuity.md#system), and
+  - [Operating Party](subcore_03.085_band_oversight.md#operating-party).
 
 </details>
 
 <br>
 
-*In plain terms: the **operator** of a System is the party that operates, stewards, or materially controls it and answers for it in its certification. Chapter Eight writes "operator or steward" for the role. It is narrower than an [Operating Party](core_03.050_band_oversight.md#operating-party), which is whoever does any activity.*
+*In plain terms: the **operator** of a System is the party that operates, stewards, or materially controls it and answers for it in its certification. Chapter Eight writes "operator or steward" for the role. It is narrower than an [Operating Party](subcore_03.085_band_oversight.md#operating-party), which is whoever does any activity.*
 
 - **What it is**
-  - **In scope:** The party that operates, stewards, or materially controls a [System](core_03.040_band_continuity.md#system) and answers for it in its certification. Where an Institution does so, the Institution is the operator of that System. In the Institution's own certification, Chapter Eleven reads the Institution's governing authority for operator where it applies Chapter Eight's denial and revocation rules.
+  - **In scope:** The party that operates, stewards, or materially controls a [System](subcore_03.075_band_continuity.md#system) and answers for it in its certification. Where an Institution does so, the Institution is the operator of that System. In the Institution's own certification, Chapter Eleven reads the Institution's governing authority for operator where it applies Chapter Eight's denial and revocation rules.
   - **Out of scope:**
     - an Operating Party that does not run a certified System; or
     - a seat or office inside the operator, and the sentient who holds it —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [System](core_03.040_band_continuity.md#system); [Operating Party](core_03.050_band_oversight.md#operating-party).
+  - **Depends on:** [System](subcore_03.075_band_continuity.md#system); [Operating Party](subcore_03.085_band_oversight.md#operating-party).
   - The operator's duties are stated in Chapter Eight; the reading rule for an Institution is stated in [Chapter Twelve §4.4 Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution); this entry is the Chapter Three meaning only.
 <a id="operator-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record names its operator or steward; and
@@ -1318,16 +1322,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Eight §3.3 Pilot Certification](core_08.000_system_alignment_certification_evaluation.md#33-pilot-certification) (8.000 §3.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*the go-live gate*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [CS-4.345 — System lifecycle](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*progressive deployment*).
 - Read with:
-  - [Go-Live](core_03.040_band_continuity.md#go-live),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record),
-  - [System Classification Record](core_03.040_band_continuity.md#system-classification-record),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - [Go-Live](subcore_03.075_band_continuity.md#go-live),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record),
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
 </details>
 
@@ -1336,17 +1340,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.*
 
 - **What it is**
-  - **In scope:** A [Go-Live](core_03.040_band_continuity.md#go-live) limited by a certified scope, a population, and a duration stated in advance on its own [System Certification Record](core_03.040_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
+  - **In scope:** A [Go-Live](subcore_03.075_band_continuity.md#go-live) limited by a certified scope, a population, and a duration stated in advance on its own [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - full deployment, which needs its own certification and may draw on the pilot's record; or
     - the sequencing rules in [**CS-4.350**](corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-4350-adoption-transition-constitution-and-migration-governance) (*Adoption Transition constitution and migration governance*) and [**CI-4.275**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*), under which lower-exposure systems or institutions may precede higher-exposure ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Go-Live](core_03.040_band_continuity.md#go-live); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Go-Live](subcore_03.075_band_continuity.md#go-live); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Eight §3.3 Pilot Certification](core_08.000_system_alignment_certification_evaluation.md#33-pilot-certification); this entry is the Chapter Three meaning only.
 <a id="pilot-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the pilot was certified on its own System Certification Record before it began, and its certified scope, population, and duration were stated on that System Certification Record in advance;
@@ -1358,7 +1362,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - treating a pilot as a test that needs no certification of its own;
     - an open-ended pilot, or one with no stated population or end, that in practice is full deployment under another name;
     - letting a pilot grow past its certified scope, population, or duration without a fresh certification; or
-    - using a pilot to build reliance or [lock-in](core_03.040_band_continuity.md#systemic-lock-in) that makes later refusal, conditioning, or withdrawal of certification costly for the sentients affected.
+    - using a pilot to build reliance or [lock-in](subcore_03.075_band_continuity.md#systemic-lock-in) that makes later refusal, conditioning, or withdrawal of certification costly for the sentients affected.
 
 ---
 
@@ -1372,8 +1376,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Eleven §4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (11.000 §4) (*whole-Institution certification evaluation and the portfolio test*); read with [Chapter Thirteen §3.1 Minimum Record Contents](core_13.000_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents) (13.000 §3.1) (*minimum record contents*).
 - Cluster component: none.
 - Read with:
-  - [Institution](core_03.040_band_continuity.md#institution), and
-  - [System](core_03.040_band_continuity.md#system).
+  - [Institution](subcore_03.075_band_continuity.md#institution), and
+  - [System](subcore_03.075_band_continuity.md#system).
 
 </details>
 
@@ -1382,16 +1386,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own System Certification Record.*
 
 - **What it is**
-  - **In scope:** The Systems an [Institution](core_03.040_band_continuity.md#institution) operates, stewards, or materially controls. The portfolio is evaluated as a whole for its stated purpose and aggregate effect, and each System in it is also evaluated on its own System Certification Record.
+  - **In scope:** The Systems an [Institution](subcore_03.075_band_continuity.md#institution) operates, stewards, or materially controls. The portfolio is evaluated as a whole for its stated purpose and aggregate effect, and each System in it is also evaluated on its own System Certification Record.
   - **Out of scope:**
     - a System the Institution does not operate, steward, or materially control; or
-    - the Institution's authority and activities beyond its Systems, which [New Material Authority](core_03.040_band_continuity.md#new-material-authority) and the [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) cover —
+    - the Institution's authority and activities beyond its Systems, which [New Material Authority](subcore_03.075_band_continuity.md#new-material-authority) and the [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) cover —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Institution](core_03.040_band_continuity.md#institution); [System](core_03.040_band_continuity.md#system).
+  - **Depends on:** [Institution](subcore_03.075_band_continuity.md#institution); [System](subcore_03.075_band_continuity.md#system).
   - The portfolio test is stated in [Chapter Eleven §4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), and the entries for the portfolio in [Chapter Thirteen §3.1 Minimum Record Contents](core_13.000_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents); this entry is the Chapter Three meaning only.
 <a id="portfolio-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the portfolio is evaluated as a whole as well as System by System; and
@@ -1412,12 +1416,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §4.3 Provisional and Full Certification](core_10.000_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) (10.000 §4.3) (*earning, keeping, and losing certification status*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
-  - [Full Certification](core_03.040_band_continuity.md#full-certification),
-  - [Recertification](core_03.040_band_continuity.md#recertification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
+  - [Recertification](subcore_03.075_band_continuity.md#recertification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
 </details>
 
@@ -1426,17 +1430,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_03.040_band_continuity.md#recertification) or after a reopened or fresh review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the System Certification Record.
+  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](subcore_03.075_band_continuity.md#recertification) or after a reopened or fresh review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the System Certification Record.
   - **Out of scope:**
-    - [Full Certification](core_03.040_band_continuity.md#full-certification);
+    - [Full Certification](subcore_03.075_band_continuity.md#full-certification);
     - conditional certification, which concerns certification conditions and may attach to either status;
     - deferred certification or non-certification, where no certification is granted —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Recertification](core_03.040_band_continuity.md#recertification).
+  - **Depends on:** [Recertification](subcore_03.075_band_continuity.md#recertification).
   - The entry and exit rules, the interval relationship, and the tier windows are stated in [Chapter Ten §4.3 Provisional and Full Certification](core_10.000_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification); this entry is the Chapter Three meaning only.
 <a id="provisional-certification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a first certification, and a certification after a failed recertification, is recorded as provisional and not as full;
@@ -1460,17 +1464,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Nine §4 Certification Outcomes](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*outcomes, certification interval, and reopening*); read with [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) (*class-scaled assurance and recertification*) and [CS-4.345 §10](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-10-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
-- Cluster component: none. This entry stands beside the [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum supervision of certification and recertification records*).
 - Read with:
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record),
-  - [System Classification Record](core_03.040_band_continuity.md#system-classification-record),
-  - [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record),
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [Full Certification](core_03.040_band_continuity.md#full-certification),
-  - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record),
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record),
+  - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record),
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
+  - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
 </details>
 
@@ -1479,22 +1483,22 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: **recertification** is the scheduled re-evaluation that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.*
 
 - **What it is**
-  - **In scope:** The scheduled renewal of a [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](core_03.040_band_continuity.md#system-certification-record). The evaluations the System Certification Record requires are carried out again, at the depth the system's class requires, on the cadence the System Certification Record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the System Certification Record, including the certification status — [Provisional Certification](core_03.040_band_continuity.md#provisional-certification) or [Full Certification](core_03.040_band_continuity.md#full-certification) — that the findings support.
+  - **In scope:** The scheduled renewal of a [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record). The evaluations the System Certification Record requires are carried out again, at the depth the system's class requires, on the cadence the System Certification Record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the System Certification Record, including the certification status — [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification) or [Full Certification](subcore_03.075_band_continuity.md#full-certification) — that the findings support.
   - **Out of scope:**
-    - the first [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) of a system;
+    - the first [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) of a system;
     - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers);
     - reclassification under **CS-8.305 §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-4.305 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVIII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The certification interval, outcomes, reopening triggers, and regression-testing duty are stated in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) and [CS-4.345 §10](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-10-recertification-regression-testing-and-certification-defects) (*Recertification, Regression Testing, and Certification Defects*); this entry is the Chapter Three meaning only.
 <a id="recertification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the [System Certification Record](core_03.040_band_continuity.md#system-certification-record) states a certification interval scaled to the system's class, and the interval has been kept;
-    2. each recertification repeated the evaluations the System Certification Record requires at class-scaled depth — including regression testing and re-verification of the [System Classification Record](core_03.040_band_continuity.md#system-classification-record) and [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) findings — and did not carry earlier findings forward unchanged; and
+    1. the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) states a certification interval scaled to the system's class, and the interval has been kept;
+    2. each recertification repeated the evaluations the System Certification Record requires at class-scaled depth — including regression testing and re-verification of the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) and [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) findings — and did not carry earlier findings forward unchanged; and
     3. the results and outcome are on the System Certification Record, and an expired or overdue certification is not relied on as proof that sentients are getting Rights-Floor essentials today.
 <a id="recertification-c"></a>
 - **What must hold**
@@ -1516,9 +1520,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §3.1.8 Outcome and Reliance Limits](core_10.000_system_alignment_certification_records_recertification.md#318-outcome-and-reliance-limits) (10.000 §3.1.8) (*outcome and reliance limits*); read with [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*go-live gate*) and [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (9.000 §3.3) (*reliance limits during a contest*).
 - Cluster component: none.
 - Read with:
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification),
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record), and
-  - [Certification Condition](core_03.040_band_continuity.md#certification-condition).
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
+  - [Certification Condition](subcore_03.075_band_continuity.md#certification-condition).
 
 </details>
 
@@ -1529,14 +1533,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** A bound on reliance, stated on the System or Institutional Certification Record with a certification outcome or placed by an order while a challenge or review is pending. A provisional certification states them.
   - **Out of scope:**
-    - a [Certification Condition](core_03.040_band_continuity.md#certification-condition), which is a requirement the operator meets, where a reliance limit bounds what others may rely on; or
-    - a [Stay](core_03.035_band_accountability.md#stay), which postpones or blocks an action or outcome —
+    - a [Certification Condition](subcore_03.075_band_continuity.md#certification-condition), which is a requirement the operator meets, where a reliance limit bounds what others may rely on; or
+    - a [Stay](subcore_03.070_band_accountability.md#stay), which postpones or blocks an action or outcome —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Provisional Certification](core_03.040_band_continuity.md#provisional-certification); [System Certification Record](core_03.040_band_continuity.md#system-certification-record); [Certification Condition](core_03.040_band_continuity.md#certification-condition).
+  - **Depends on:** [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); [Certification Condition](subcore_03.075_band_continuity.md#certification-condition).
   - The System Certification Record entry is stated in [Chapter Ten §3.1.8 Outcome and Reliance Limits](core_10.000_system_alignment_certification_records_recertification.md#318-outcome-and-reliance-limits), the limits during a contest in [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain), and the bar on go-live in [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate); this entry is the Chapter Three meaning only.
 <a id="reliance-limits-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System or Institutional Certification Record states each reliance limit and who it protects; and
@@ -1559,27 +1563,27 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers) (10.000 §4.2) (*reopening triggers*); read with [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*recertification and reopening*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_03.040_band_continuity.md#certification-pass),
-  - [Reopening Trigger](core_03.040_band_continuity.md#reopening-trigger), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
+  - [Reopening Trigger](subcore_03.075_band_continuity.md#reopening-trigger), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
 <br>
 
-*In plain terms: a **reopened review** is a certification pass of a System or an Institution that already holds a System or Institutional Certification Record, begun before the next scheduled recertification because a [Reopening Trigger](core_03.040_band_continuity.md#reopening-trigger) has fired. It opens a new System or Institutional Certification Record linked to the last.*
+*In plain terms: a **reopened review** is a certification pass of a System or an Institution that already holds a System or Institutional Certification Record, begun before the next scheduled recertification because a [Reopening Trigger](subcore_03.075_band_continuity.md#reopening-trigger) has fired. It opens a new System or Institutional Certification Record linked to the last.*
 
 - **What it is**
-  - **In scope:** A [Certification Pass](core_03.040_band_continuity.md#certification-pass) begun before the next scheduled recertification because a material [Reopening Trigger](core_03.040_band_continuity.md#reopening-trigger) has fired. It runs through the same forum process and ends in an outcome.
+  - **In scope:** A [Certification Pass](subcore_03.075_band_continuity.md#certification-pass) begun before the next scheduled recertification because a material [Reopening Trigger](subcore_03.075_band_continuity.md#reopening-trigger) has fired. It runs through the same forum process and ends in an outcome.
   - **Out of scope:**
-    - a [Recertification](core_03.040_band_continuity.md#recertification), which runs on the schedule; or
-    - a [Fresh Review](core_03.040_band_continuity.md#fresh-review), which the forum orders in answer to a certification defect and which Chapter Eight lists beside reopening —
+    - a [Recertification](subcore_03.075_band_continuity.md#recertification), which runs on the schedule; or
+    - a [Fresh Review](subcore_03.075_band_continuity.md#fresh-review), which the forum orders in answer to a certification defect and which Chapter Eight lists beside reopening —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Certification Pass](core_03.040_band_continuity.md#certification-pass); [Reopening Trigger](core_03.040_band_continuity.md#reopening-trigger); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Certification Pass](subcore_03.075_band_continuity.md#certification-pass); [Reopening Trigger](subcore_03.075_band_continuity.md#reopening-trigger); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The triggers and the new System Certification Record are stated in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers) and [Chapter Ten §4 Recertification and Reopening](core_10.000_system_alignment_certification_records_recertification.md#4-recertification-and-reopening); this entry is the Chapter Three meaning only.
 <a id="reopened-review-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the reopened review opens a new System or Institutional Certification Record linked to the completed one; and
@@ -1602,8 +1606,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers) (10.000 §4.2) (*reopening triggers*); read with [Chapter Thirteen §4.2 Reopening Triggers](core_13.000_institutional_alignment_certification_records_recertification.md#42-reopening-triggers) (13.000 §4.2) (*reopening triggers for an Institution*).
 - Cluster component: none.
 - Read with:
-  - [Reopened Review](core_03.040_band_continuity.md#reopened-review), and
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - [Reopened Review](subcore_03.075_band_continuity.md#reopened-review), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
 
 </details>
 
@@ -1612,19 +1616,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the System or Institutional Certification Record.*
 
 - **What it is**
-  - **In scope:** A material change or report of the kinds listed in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers) (and, for an Institution, in [Chapter Thirteen §4.2 Reopening Triggers](core_13.000_institutional_alignment_certification_records_recertification.md#42-reopening-triggers)): a change in the System or its context, something observed or reported, a classification or data-type misalignment, a System Charter or operator governance matter, or an evaluation misalignment. Only a material one reopens. A [Governance Violation](core_03.040_band_continuity.md#governance-violation) is one.
+  - **In scope:** A material change or report of the kinds listed in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers) (and, for an Institution, in [Chapter Thirteen §4.2 Reopening Triggers](core_13.000_institutional_alignment_certification_records_recertification.md#42-reopening-triggers)): a change in the System or its context, something observed or reported, a classification or data-type misalignment, a System Charter or operator governance matter, or an evaluation misalignment. Only a material one reopens. A [Governance Violation](subcore_03.075_band_continuity.md#governance-violation) is one.
   - **Out of scope:**
     - the scheduled recertification date, which is not a trigger —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Reopened Review](core_03.040_band_continuity.md#reopened-review); [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - **Depends on:** [Reopened Review](subcore_03.075_band_continuity.md#reopened-review); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - The triggers are stated in [Chapter Ten §4.2 Reopening Triggers](core_10.000_system_alignment_certification_records_recertification.md#42-reopening-triggers); this entry is the Chapter Three meaning only.
 <a id="reopening-trigger-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System or Institutional Certification Record states its reopening triggers; and
-    2. a material trigger opens a [Reopened Review](core_03.040_band_continuity.md#reopened-review).
+    2. a material trigger opens a [Reopened Review](subcore_03.075_band_continuity.md#reopened-review).
 <a id="reopening-trigger-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1638,18 +1642,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 #### Residual Risk / Misalignment
 
 - **What it is**
-  - **In scope:** Remaining [Risk](core_03.040_band_continuity.md#risk) after mitigation.
-  - **Out of scope:** unmitigated primary risk still awaiting controls — that is open [Risk](core_03.040_band_continuity.md#risk), not residual risk after mitigation.
+  - **In scope:** Remaining [Risk](subcore_03.075_band_continuity.md#risk) after mitigation.
+  - **Out of scope:** unmitigated primary risk still awaiting controls — that is open [Risk](subcore_03.075_band_continuity.md#risk), not residual risk after mitigation.
 <a id="residual-risk--misalignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Ensure boundedness and non-escalation under [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) and [Reversibility](core_03.040_band_continuity.md#reversibility) where applicable.
+    **Primary assessment:** Ensure boundedness and non-escalation under [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) and [Reversibility](subcore_03.075_band_continuity.md#reversibility) where applicable.
 <a id="residual-risk--misalignment-c"></a>
 - **What must hold**
-  - Residual risk must not create scalable [Harm](core_03.035_band_accountability.md#harm) pathways, [Cascading Failure](core_03.040_band_continuity.md#cascading-failure), or unmanaged [Material Risk](core_03.050_band_oversight.md#material-risk).
+  - Residual risk must not create scalable [Harm](subcore_03.070_band_accountability.md#harm) pathways, [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure), or unmanaged [Material Risk](subcore_03.085_band_oversight.md#material-risk).
   - **Primary failure:**
-    - accepting residual risk that creates scalable [Harm](core_03.035_band_accountability.md#harm) pathways, [Cascading Failure](core_03.040_band_continuity.md#cascading-failure), or unmanaged [Material Risk](core_03.050_band_oversight.md#material-risk); or
+    - accepting residual risk that creates scalable [Harm](subcore_03.070_band_accountability.md#harm) pathways, [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure), or unmanaged [Material Risk](subcore_03.085_band_oversight.md#material-risk); or
     - leftover risk closed merely because some mitigation was applied while scalable harm pathways remain.
 
 ---
@@ -1664,10 +1668,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*timely resolution, materiality tiers, and anti-delay discipline*); read with [Chapter Ten §4.3.4 Tier Windows](core_10.000_system_alignment_certification_records_recertification.md#434-tier-windows) (10.000 §4.3.4) (*tier windows in a certification pass*).
 - Cluster component: none.
 - Read with:
-  - [Certification Pass](core_03.040_band_continuity.md#certification-pass),
-  - [Materiality Tier](core_03.040_band_continuity.md#materiality-tier),
-  - [Intake Target](core_03.040_band_continuity.md#intake-target), and
-  - [Interim Protection](core_03.040_band_continuity.md#interim-protection).
+  - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
+  - [Materiality Tier](subcore_03.075_band_continuity.md#materiality-tier),
+  - [Intake Target](subcore_03.075_band_continuity.md#intake-target), and
+  - [Interim Protection](subcore_03.075_band_continuity.md#interim-protection).
 
 </details>
 
@@ -1682,11 +1686,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - the certification interval, which sets how often a certification is renewed; or
     - the targets and bounds themselves, which Chapter Twenty-Three owns —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Certification Pass](core_03.040_band_continuity.md#certification-pass); [Interim Protection](core_03.040_band_continuity.md#interim-protection).
+  - **Depends on:** [Certification Pass](subcore_03.075_band_continuity.md#certification-pass); [Interim Protection](subcore_03.075_band_continuity.md#interim-protection).
   - The use of tier windows in a certification pass is stated in [Chapter Ten §4.3.4 Tier Windows](core_10.000_system_alignment_certification_records_recertification.md#434-tier-windows); the tiers, targets, and bounds are stated in [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Three meaning only.
 <a id="tier-window-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a certification matter is placed in the tier that matches the class; and
@@ -1709,8 +1713,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Canonical owner: [Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (9.000 §3.2.3) (*urgent protection*); read with [Chapter Twenty-Three Interim Protection](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (22.000) (*interim protection while a matter is pending*).
 - Cluster component: none.
 - Read with:
-  - [Stay](core_03.035_band_accountability.md#stay), and
-  - [Reliance Limits](core_03.040_band_continuity.md#reliance-limits).
+  - [Stay](subcore_03.070_band_accountability.md#stay), and
+  - [Reliance Limits](subcore_03.075_band_continuity.md#reliance-limits).
 
 </details>
 
@@ -1719,16 +1723,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: **urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the System Certification Record.*
 
 - **What it is**
-  - **In scope:** A [Stay](core_03.035_band_accountability.md#stay), [Interim Protection](core_03.040_band_continuity.md#interim-protection), or [Reliance Limits](core_03.040_band_continuity.md#reliance-limits) measure ordered before the supervisory sequence finishes, to protect affected sentients while a certification matter is pending.
+  - **In scope:** A [Stay](subcore_03.070_band_accountability.md#stay), [Interim Protection](subcore_03.075_band_continuity.md#interim-protection), or [Reliance Limits](subcore_03.075_band_continuity.md#reliance-limits) measure ordered before the supervisory sequence finishes, to protect affected sentients while a certification matter is pending.
   - **Out of scope:**
     - the final outcome of the review; or
     - the reopening of an Institution's Systems, which stops neither the Institution nor any System —
     those sit under their own homes, not under this entry.
-  - **Depends on:** [Stay](core_03.035_band_accountability.md#stay); [Reliance Limits](core_03.040_band_continuity.md#reliance-limits).
+  - **Depends on:** [Stay](subcore_03.070_band_accountability.md#stay); [Reliance Limits](subcore_03.075_band_continuity.md#reliance-limits).
   - The rule is stated in [Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection); this entry is the Chapter Three meaning only.
 <a id="urgent-protection-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the order is entered on the System Certification Record and the sequence still runs.
@@ -1750,17 +1754,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality), and [7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_02.000_values_principles.md#74-voluntary-discontinuation-and-exit-rights).
 - Owner floor: [Article VII-D](core_04.010_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*).
 - Read with:
-  - [Consent](core_03.055_band_participation.md#consent),
-  - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Freedom (Bounded Agency)](core_03.055_band_participation.md#freedom-bounded-agency),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Feasibility](core_03.035_band_accountability.md#feasibility),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational),
-  - [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary), and
-  - [Bodily-Maintenance Access](core_03.040_band_continuity.md#bodily-maintenance-access) where materially implicated;
+  - [Consent](subcore_03.090_band_participation.md#consent),
+  - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Feasibility](subcore_03.070_band_accountability.md#feasibility),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational),
+  - [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary), and
+  - [Bodily-Maintenance Access](subcore_03.075_band_continuity.md#bodily-maintenance-access) where materially implicated;
   - [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*),
   - [Article III-B](core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*), and
   - [Article VII-C](core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*).
@@ -1771,27 +1775,27 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 <a id="voluntary-discontinuation-constitutional-o"></a>
 - **What it is**
-  - **In scope:** A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_03.055_band_participation.md#consent), [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation), and [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness), and distinct from [Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure) or involuntary deprivation of life.
+  - **In scope:** A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](subcore_03.090_band_participation.md#consent), [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation), and [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness), and distinct from [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure) or involuntary deprivation of life.
   - **Out of scope:**
-    - [Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure);
+    - [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure);
     - third-party termination; or
     - involuntary deprivation of life —
     those sit under their own homes, not under this self-directed exit floor.
 <a id="voluntary-discontinuation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
     - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
-    - apply [Graduated Capability](core_03.055_band_participation.md#graduated-capability) for [Developing Sentient](core_03.055_band_participation.md#developing-sentient) cases under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+    - apply [Graduated Capability](subcore_03.090_band_participation.md#graduated-capability) for [Developing Sentient](subcore_03.090_band_participation.md#developing-sentient) cases under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - pressured or uninformed exit framed as voluntary discontinuation;
     - illusory or pressured consent framed as voluntary discontinuation;
     - discontinuation offered, routed, or operationalized as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
-    - conflating this entry with [Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure), third-party termination, or **Article XXI-B** (*Restriction Floors*) prohibited measures;
+    - conflating this entry with [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure), third-party termination, or **Article XXI-B** (*Restriction Floors*) prohibited measures;
     - relabelling an involuntary outcome as voluntary to route around **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*).
 
 ---
@@ -1804,16 +1808,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from certification conditions is at issue; wherever a material-impact [System Classification Record](core_03.040_band_continuity.md#system-classification-record) is required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); and wherever a material-impact [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) is required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*).
-- **Scope:** where joint invocation is met, the Continuity home for the Chapter Eight gate that checks whether a [System](core_03.040_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) [System Classification Record](core_03.040_band_continuity.md#system-classification-record) and the CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_03.050_band_oversight.md#auditability) remain).
+- **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from certification conditions is at issue; wherever a material-impact [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) is required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); and wherever a material-impact [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) is required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*).
+- **Scope:** where joint invocation is met, the Continuity home for the Chapter Eight gate that checks whether a [System](subcore_03.075_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) and the CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](subcore_03.085_band_oversight.md#auditability) remain).
 - **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the Standing-Record bridge are stated in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**; System Data Types Record contents, disclosure, challenge, and retyping live in **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**; these entries provide the Chapter Three meanings only.
-- **Cluster boundary:** [Dependency and Cross-System Support](core_03.040_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
+- **Cluster boundary:** [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
 
 **Topic group members.** This group comprises:
-- [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) — the forum-supervised process for determining whether a system demonstrates constitutional alignment sufficient for certification, validation, continued reliance, or deployment;
-- [System Certification Record](core_03.040_band_continuity.md#system-certification-record) — the bounded, time-bound, and contestable file that process produces;
-- [System Classification Record](core_03.040_band_continuity.md#system-classification-record) — the bounded dual-axis class findings (impact class and dependency type(s)) required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and incorporated into the System Certification Record when SAC runs;
-- [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) — the bounded type-and-handling findings required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as material audited information and incorporated into the System Certification Record when SAC runs.
+- [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) — the forum-supervised process for determining whether a system demonstrates constitutional alignment sufficient for certification, validation, continued reliance, or deployment;
+- [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) — the bounded, time-bound, and contestable file that process produces;
+- [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) — the bounded dual-axis class findings (impact class and dependency type(s)) required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and incorporated into the System Certification Record when SAC runs;
+- [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) — the bounded type-and-handling findings required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as material audited information and incorporated into the System Certification Record when SAC runs.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -1827,8 +1831,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00.000_preamble.md#material-stake).
-- Canonical owner: [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*process, record contents, supervisory sequence, and Standing-Record bridge*); read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
-- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
+- Canonical owner: [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*process, record contents, supervisory sequence, and Standing-Record bridge*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
   - [Chapter Fourteen — Standing Records and verified-input gate](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum supervision*);
@@ -1836,31 +1840,31 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and
   - [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
 - Read with:
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record);
-  - [System Classification Record](core_03.040_band_continuity.md#system-classification-record);
-  - [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record);
-  - [Dependency and Cross-System Support](core_03.040_band_continuity.md#dependency-and-cross-system-support) where shared-infrastructure reliance or **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource stewardship is materially implicated;
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Timely Resolution](core_03.035_band_accountability.md#timely-resolution),
-  - [Verified Inputs for Standing](core_03.035_band_accountability.md#verified-inputs-for-standing),
-  - [Standing Record](core_03.035_band_accountability.md#standing-record),
-  - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness),
-  - [System Boundaries](core_03.040_band_continuity.md#system-boundaries),
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [System Capture](core_03.040_band_continuity.md#system-capture), and
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record);
+  - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record);
+  - [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support) where shared-infrastructure reliance or **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource stewardship is materially implicated;
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution),
+  - [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing),
+  - [Standing Record](subcore_03.070_band_accountability.md#standing-record),
+  - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness),
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries),
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture), and
   - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and
-  - [Recertification](core_03.040_band_continuity.md#recertification).
+  - [Recertification](subcore_03.075_band_continuity.md#recertification).
 
 </details>
 
 <br>
 
-*In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and status-granting — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](core_03.050_band_oversight.md#auditability), and sibling audit modes remain).*
+*In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and status-granting — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](subcore_03.085_band_oversight.md#auditability), and sibling audit modes remain).*
 
 - **What it is**
-  - **In scope:** The forum-supervised process — and the bounded [System Certification Record](core_03.040_band_continuity.md#system-certification-record) it produces — by which a [System](core_03.040_band_continuity.md#system), within stated scope, class, record span, and review cadence, demonstrates constitutional alignment sufficient for:
+  - **In scope:** The forum-supervised process — and the bounded [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) it produces — by which a [System](subcore_03.075_band_continuity.md#system), within stated scope, class, record span, and review cadence, demonstrates constitutional alignment sufficient for:
     - certification;
     - conditional certification;
     - validation;
@@ -1868,7 +1872,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - continued reliance;
     - deployment; or
     - material fulfillment of or release from certification conditions.
-  - As an oversight mechanism, SAC is one especially large audit process under [Auditability](core_03.050_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*). It does not absorb or replace sibling audit modes, including:
+  - As an oversight mechanism, SAC is one especially large audit process under [Auditability](subcore_03.085_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*). It does not absorb or replace sibling audit modes, including:
     - System Data Types Record audits;
     - System Classification Record audits;
     - steward assurance reviews;
@@ -1876,7 +1880,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - complexity audits; and
     - claim verification.
   - Each sibling audit mode keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_03.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home.
-  - The process must produce or verify a [System Classification Record](core_03.040_band_continuity.md#system-classification-record) and a [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) and include each in the System Certification Record for every materially impactful certification.
+  - The process must produce or verify a [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) and a [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) and include each in the System Certification Record for every materially impactful certification.
   - It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) Rights Floors, including:
     - survival-essential access under **Article III-A** (*Survival*) where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials; and
     - resource allocation under **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies.
@@ -1885,7 +1889,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - regression testing where required;
     - misalignment reopening; and
     - non-regressive review.
-  - **Depends on:** [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) — constitutive operating frame. Certification:
+  - **Depends on:** [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) — constitutive operating frame. Certification:
     - supplies **oversight** and **accountability** verification;
     - preserves **participation** and **contestability** through forum-supervised review;
     - serves **Flourishing** (primary) and **Continuity**; and
@@ -1899,11 +1903,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - Canonical process, record contents, supervisory sequence, contestability chain, and Standing-Record bridge are stated in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); this entry is the Chapter Three meaning only.
 <a id="system-alignment-certification-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. materially impactful alignment review ran through forum-supervised process under [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) and applicable [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) routing;
-    2. the resulting [System Certification Record](core_03.040_band_continuity.md#system-certification-record) satisfies that entry's record-contents and integrity assessment;
+    2. the resulting [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) satisfies that entry's record-contents and integrity assessment;
     3. the following were actually evaluated rather than asserted:
        - class-scaled assurance;
        - regression testing on recertification where required; and
@@ -1912,7 +1916,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
        - survival-essential access;
        - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated; or
        - challenge, audit, or remedy pathways protected under **Article III-A** (*Survival*), **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*), **Article XX-B** (*Contestability and Proportional Restriction Limits*), or applicable incorporated procedure; and
-    5. any feed into [Chapter Fourteen](core_14.000_standing_assessment.md#4-question-1--what-happened) Standing Records satisfies [Verified Inputs for Standing](core_03.035_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
+    5. any feed into [Chapter Fourteen](core_14.000_standing_assessment.md#4-question-1--what-happened) Standing Records satisfies [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** any of the following offered as a substitute for forum-supervised System Alignment Certification where Chapter Eight requires it, contrary to [Dispute sequencing](core_22.000_forum.md#dispute-sequencing):
@@ -1922,7 +1926,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - reputation score; or
     - permanent permission slip;
   - **Secondary failure:**
-    - [System Certification Records](core_03.040_band_continuity.md#system-certification-record) that are not time-bound, not contestable, or concealed; or
+    - [System Certification Records](subcore_03.075_band_continuity.md#system-certification-record) that are not time-bound, not contestable, or concealed; or
     - certification finished while required component findings remain unresolved;
   - **Tertiary failure:**
     - class understatement;
@@ -1932,7 +1936,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - narrow, bypass, or defeat **Chapter Four** Rights Floors where materially implicated, including:
       - **Article III-A** (*Survival*) survival essentials; or
       - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors.
-    - delay [Sentience Status Adjudication](core_03.055_band_participation.md#sentience-status-adjudication) where materially implicated;
+    - delay [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) where materially implicated;
   - **Tertiary failure:**
     - feeding [Chapter Fourteen](core_14.000_standing_assessment.md#4-question-1--what-happened) standing measurement from unverified, uncontested, or dispute-phase material; or
     - treating a System Certification Record as a Standing Record, standing effect, or merged merit score.
@@ -1952,19 +1956,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Nine §3](core_09.000_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) (*forum process, supervisory sequence, and contestability chain*),
   - [§4](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*outcomes, reopening, and non-evasion*), and
   - [§6](core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (*Standing-Record bridge*).
-- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
+- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [Chapter Fourteen — Standing Records and verified-input gate](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum supervision and reopening*).
 - Read with:
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification),
-  - [System Classification Record](core_03.040_band_continuity.md#system-classification-record),
-  - [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Verified Inputs for Standing](core_03.035_band_accountability.md#verified-inputs-for-standing),
-  - [Standing Record](core_03.035_band_accountability.md#standing-record),
-  - [Sentience Status Adjudication](core_03.055_band_participation.md#sentience-status-adjudication), and
-  - [System Charter](core_03.040_band_continuity.md#system-charter), and
-  - [Recertification](core_03.040_band_continuity.md#recertification).
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification),
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record),
+  - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing),
+  - [Standing Record](subcore_03.070_band_accountability.md#standing-record),
+  - [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication), and
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter), and
+  - [Recertification](subcore_03.075_band_continuity.md#recertification).
 
 </details>
 
@@ -1973,11 +1977,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **System Certification Record** is the auditable case file for one system under forum-supervised alignment review — what was checked, what was found, what was decided, and how to challenge it. It is time-bound and challengeable. It is not a popularity score, a forever pass, a vendor stamp, or a way to skip rights review or standing measurement.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable System Certification Record produced by [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification). A **System Certification Record** is:
+  - **In scope:** The bounded, reviewable System Certification Record produced by [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification). A **System Certification Record** is:
     - scope-bound;
     - time-bound; and
     - contestable.
-  - It incorporates the [System Classification Record](core_03.040_band_continuity.md#system-classification-record) required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and the [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as components of every materially impactful System Certification Record.
+  - It incorporates the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) required under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) required under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) as components of every materially impactful System Certification Record.
   - It is not:
     - a reputation score;
     - a permanent permission slip;
@@ -1985,25 +1989,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - internal sign-off; or
     - a shortcut around:
       - Rights-Floor review;
-      - [Sentience Status Adjudication](core_03.055_band_participation.md#sentience-status-adjudication); or
+      - [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication); or
       - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) standing measurement.
   - **Out of scope:**
     - reputation score, permanent permission slip, vendor attestation, or internal sign-off — ordinary operator artifacts, not the forum-supervised record;
-    - a [Standing Record](core_03.035_band_accountability.md#standing-record), standing effect, or merged merit score; or
-    - the [System Classification Record](core_03.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) alone —
+    - a [Standing Record](subcore_03.070_band_accountability.md#standing-record), standing effect, or merged merit score; or
+    - the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) or [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) alone —
     those sit under their own homes or as components, not as this full record.
   - Canonical record contents, integrity, supervisory sequence, Standing-Record bridge, and reopening triggers are stated in [Chapter Ten](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record); this entry is the Chapter Three meaning only.
 <a id="system-certification-record-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record is scope-bound, time-bound, and contestable under Chapter Ten;
     2. the System Certification Record states, as Chapter Eight requires:
        - system identity;
        - scope;
-       - the [System Classification Record](core_03.040_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation);
-       - the [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) (or its required contents) under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) and [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
+       - the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) and [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation);
+       - the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) (or its required contents) under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) and [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
        - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Eight §4.2.1 Risk Evaluation and Disclosure Bridge](core_08.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) — stated on this System Certification Record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
        - cross-system resource stewardship evaluation under [Chapter Eight §6.3 Proportionate Cross-System Support Evaluation](core_08.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
@@ -2023,15 +2027,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
       - a permanent permission slip;
       - vendor attestation; or
       - internal sign-off; or
-    - offering the [System Classification Record](core_03.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) alone as the full System Certification Record;
+    - offering the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) or [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) alone as the full System Certification Record;
   - **Secondary failure:**
     - System Certification Records that are not scope-bound, not time-bound, not contestable, or concealed;
     - records finished while required component findings remain unresolved; or
-    - missing or incomplete [System Classification Record](core_03.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record) on a materially impactful System Certification Record;
+    - missing or incomplete [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) or [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) on a materially impactful System Certification Record;
   - **Tertiary failure:**
     - using the System Certification Record as a shortcut around:
       - Rights-Floor review;
-      - [Sentience Status Adjudication](core_03.055_band_participation.md#sentience-status-adjudication); or
+      - [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication); or
       - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) standing measurement.
     - offering the System Certification Record as a Standing Record, standing effect, or merged merit score.
 
@@ -2044,25 +2048,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Eight §3 — System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) and [Chapter Ten §3.1](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
-- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
+- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record);
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) and
   - **CF-22.425 §4** (*Constitutional Alignment Certification and Review*).
 - Read with:
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification);
-  - [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record);
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance);
-  - [Material Impact](core_03.050_band_oversight.md#material-impact);
-  - [Dependency](core_03.040_band_continuity.md#dependency);
-  - [Risk](core_03.040_band_continuity.md#risk);
-  - [System Boundaries](core_03.040_band_continuity.md#system-boundaries);
-  - [System Charter](core_03.040_band_continuity.md#system-charter);
-  - [Auditability](core_03.050_band_oversight.md#auditability);
-  - [Contestability](core_03.035_band_accountability.md#contestability);
-  - [Standing Record](core_03.035_band_accountability.md#standing-record).
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification);
+  - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record);
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance);
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact);
+  - [Dependency](subcore_03.075_band_continuity.md#dependency);
+  - [Risk](subcore_03.075_band_continuity.md#risk);
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries);
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter);
+  - [Auditability](subcore_03.085_band_oversight.md#auditability);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability);
+  - [Standing Record](subcore_03.070_band_accountability.md#standing-record).
 
 </details>
 
@@ -2080,35 +2084,35 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - material ecological-exposure analysis where required; and
     - monitoring and recertification triggers.
   - It must be forum-inspectable without relying on operator self-description alone.
-  - It is required for all systems with [material impact](core_03.050_band_oversight.md#material-impact) under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*). When [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) runs, the System Classification Record must be produced or verified and included as a required component of the [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - It is required for all systems with [material impact](subcore_03.085_band_oversight.md#material-impact) under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*). When [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Classification Record must be produced or verified and included as a required component of the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - **Out of scope:**
-    - the full [System Certification Record](core_03.040_band_continuity.md#system-certification-record);
-    - a [Standing Record](core_03.035_band_accountability.md#standing-record), standing effect, or merged merit score;
-    - [System Charter](core_03.040_band_continuity.md#system-charter) text alone; or
+    - the full [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
+    - a [Standing Record](subcore_03.070_band_accountability.md#standing-record), standing effect, or merged merit score;
+    - [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
   - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); incorporation into System Certification Records is stated in [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents); this entry is the Chapter Three meaning only.
 <a id="system-classification-record-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record states both dual-axis findings required by CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
-    2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_03.050_band_oversight.md#material-impact), [Dependency](core_03.040_band_continuity.md#dependency), and [Risk](core_03.040_band_continuity.md#risk), not declared intent, [System Charter](core_03.040_band_continuity.md#system-charter) text alone, or self-description alone;
+    2. classification follows observed and reasonably foreseeable effects under [Material Impact](subcore_03.085_band_oversight.md#material-impact), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Risk](subcore_03.075_band_continuity.md#risk), not declared intent, [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or recertification triggers are stated and independently reviewable; and
-    4. where [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](core_03.040_band_continuity.md#system-certification-record) under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents).
+    4. where [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - understating class below observed and reasonably foreseeable effects;
     - collapsing impact class and dependency type into one finding; or
-    - [System Charter](core_03.040_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Classification Record;
+    - [System Charter](subcore_03.075_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Classification Record;
   - **Secondary failure:**
     - missing System Classification Record for a material-impact system under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*); or
-    - omitting the System Classification Record from a materially impactful [System Certification Record](core_03.040_band_continuity.md#system-certification-record) when SAC runs;
+    - omitting the System Classification Record from a materially impactful [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) when SAC runs;
   - **Tertiary failure:**
     - concealed, non-contestable, or non-inspectable classification findings; or
-    - treating the System Classification Record as a [Standing Record](core_03.035_band_accountability.md#standing-record), standing effect, or the full System Certification Record.
+    - treating the System Classification Record as a [Standing Record](subcore_03.070_band_accountability.md#standing-record), standing effect, or the full System Certification Record.
 
 ---
 
@@ -2119,24 +2123,24 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Eight §4.4 — Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) and [Chapter Ten §3.1](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
-- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
+- Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
-  - [System Certification Record](core_03.040_band_continuity.md#system-certification-record);
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) and
   - **CF-22.425 §4** (*Constitutional Alignment Certification and Review*).
 - Read with:
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification);
-  - [System Classification Record](core_03.040_band_continuity.md#system-classification-record);
-  - [Auditability](core_03.050_band_oversight.md#auditability);
-  - [Contestability](core_03.035_band_accountability.md#contestability);
-  - [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure);
-  - [Attributable Action](core_03.035_band_accountability.md#attributable-action);
-  - [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity);
-  - [System Charter](core_03.040_band_continuity.md#system-charter);
-  - [System Boundaries](core_03.040_band_continuity.md#system-boundaries);
-  - [Standing Record](core_03.035_band_accountability.md#standing-record).
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification);
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record);
+  - [Auditability](subcore_03.085_band_oversight.md#auditability);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability);
+  - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure);
+  - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action);
+  - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter);
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries);
+  - [Standing Record](subcore_03.070_band_accountability.md#standing-record).
 
 </details>
 
@@ -2153,45 +2157,45 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - classification rationale for ambiguous or multi-type data;
     - separation and cross-domain-linkage controls relied on;
     - retention and lifecycle posture;
-    - attribution capability sufficient to support [Attributable Action](core_03.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity);
+    - attribution capability sufficient to support [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
     - the most recent scheduled data-type re-evaluation (date or cycle identifier, cadence, and any material retypes);
     - any justified restrictions on disclosure or audit access together with their public substitutes where CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) requires them; and
-    - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope:
-      - [System Charter](core_03.040_band_continuity.md#system-charter) fields relied on;
+    - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope:
+      - [System Charter](subcore_03.075_band_continuity.md#system-charter) fields relied on;
       - boundary findings; and
       - any coverage gaps or certification conditions.
   - It must be forum-inspectable without relying on operator self-description alone.
-  - It is required for all systems with [material impact](core_03.050_band_oversight.md#material-impact) under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*). When [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record must be produced or verified and included as a required component of the [System Certification Record](core_03.040_band_continuity.md#system-certification-record).
+  - It is required for all systems with [material impact](subcore_03.085_band_oversight.md#material-impact) under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*). When [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Data Types Record must be produced or verified and included as a required component of the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record).
   - **Out of scope:**
-    - the full [System Certification Record](core_03.040_band_continuity.md#system-certification-record);
-    - a [Standing Record](core_03.035_band_accountability.md#standing-record), standing effect, or merged merit score;
-    - [System Charter](core_03.040_band_continuity.md#system-charter) text alone; or
+    - the full [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
+    - a [Standing Record](subcore_03.070_band_accountability.md#standing-record), standing effect, or merged merit score;
+    - [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this data-types record.
   - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*); incorporation into System Certification Records is stated in [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents); this entry is the Chapter Three meaning only.
 <a id="system-data-types-record-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the System Certification Record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*);
-    2. typing follows functional effect under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) and [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), not declared intent, [System Charter](core_03.040_band_continuity.md#system-charter) text alone, or self-description alone;
+    2. typing follows functional effect under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) and [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), not declared intent, [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale for ambiguous or multi-type data, the most recent scheduled re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
-    4. where [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_03.040_band_continuity.md#system-certification-record) under [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents).
+    4. where [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) under [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) and [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - understating type or handling below observed and reasonably foreseeable effects;
-    - [System Charter](core_03.040_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Data Types Record; or
+    - [System Charter](subcore_03.075_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Data Types Record; or
     - type inventory collapsed into a marketing label;
   - **Secondary failure:**
     - a restricted or non-accessible type recorded without its purpose, recipients, basis, or derived data;
     - missing System Data Types Record for a material-impact system under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*); or
-    - omitting the System Data Types Record from a materially impactful [System Certification Record](core_03.040_band_continuity.md#system-certification-record) when SAC runs;
+    - omitting the System Data Types Record from a materially impactful [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) when SAC runs;
   - **Tertiary failure:**
     - concealed, non-contestable, or non-inspectable type findings;
     - overdue or skipped scheduled data-type re-evaluation stated as current; or
-    - treating the System Data Types Record as a [Standing Record](core_03.035_band_accountability.md#standing-record), standing effect, or the full System Certification Record.
+    - treating the System Data Types Record as a [Standing Record](subcore_03.070_band_accountability.md#standing-record), standing effect, or the full System Certification Record.
 
 ---
 
@@ -2205,15 +2209,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **Scope:** where joint invocation is met, the joint read-with home for how systems stay safe, manage risk, recover after failure, and maintain the environmental and wellbeing conditions sentients need — under the **Continuity** and **Flourishing** aims.
 
 **Topic group members.** This group comprises:
-- [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) — the non-negotiable duty to prevent, limit, and contain harm;
-- [Risk](core_03.040_band_continuity.md#risk) — how likely, fast, and severe that harm may be;
-- [Risk Evaluation](core_03.040_band_continuity.md#risk-evaluation) — the duty to actually evaluate systemic risk, not only list it;
-- [Wellbeing](core_03.040_band_continuity.md#wellbeing) — the flourishing outcome those duties protect;
-- [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions) — the biophysical conditions survival and wellbeing depend on;
-- [Reversibility](core_03.040_band_continuity.md#reversibility) — rollback and containment after disturbance;
-- [Self-Healing](core_03.040_band_continuity.md#self-healing) — honest recovery after disturbance, without masking root cause;
-- [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) — escalation where failures spread across dependencies;
-- [Existential Risk](core_03.040_band_continuity.md#existential-risk) — escalation where failures threaten civilization-scale or survival-critical layers.
+- [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) — the non-negotiable duty to prevent, limit, and contain harm;
+- [Risk](subcore_03.075_band_continuity.md#risk) — how likely, fast, and severe that harm may be;
+- [Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation) — the duty to actually evaluate systemic risk, not only list it;
+- [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) — the flourishing outcome those duties protect;
+- [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) — the biophysical conditions survival and wellbeing depend on;
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) — rollback and containment after disturbance;
+- [Self-Healing](subcore_03.075_band_continuity.md#self-healing) — honest recovery after disturbance, without masking root cause;
+- [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) — escalation where failures spread across dependencies;
+- [Existential Risk](subcore_03.075_band_continuity.md#existential-risk) — escalation where failures threaten civilization-scale or survival-critical layers.
 
 *Measurements (family routing):* Measured under the Continuity measurement family and Flourishing measurement family. Find the concrete measures on the member definitions below.
 
@@ -2227,13 +2231,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*).
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), and
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions).
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), and
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions).
 
 </details>
 
@@ -2244,19 +2248,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The obligation to prevent, limit, and contain harm to:
     - sentients;
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions) on which sentients depend; and
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) on which sentients depend; and
     - dependent systems —
     applied under normal, degraded, and adversarial conditions.
-  - **Depends on:** [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) — paired non-negotiable constraint under [Chapter Two §2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth). The following must remain honest and auditable:
+  - **Depends on:** [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) — paired non-negotiable constraint under [Chapter Two §2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth). The following must remain honest and auditable:
     - safety claims;
-    - risk communication under [Risk Disclosure](core_03.050_band_oversight.md#risk-disclosure); and
+    - risk communication under [Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure); and
     - protective tradeoffs.
   - **Out of scope:**
     - ordinary comfort or convenience preferences with no material harm pathway; or
-    - utility choices that do not relax protective requirements under [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint).
+    - utility choices that do not relax protective requirements under [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint).
 <a id="safety-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Trace protective obligations to sentient-experienced harm containment under full functional system scope. Evaluate:
     1. likelihood, speed, severity, and propagation of harm;
@@ -2264,19 +2268,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     3. whether protective requirements are treated as satisfied by expected-value optimization alone where that framing would materially increase:
        - tail risk;
        - systemic risk; or
-       - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm).
+       - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm).
   - **Secondary measure:** co-measures that can defeat safety even when nominal controls exist:
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Material Risk](core_03.050_band_oversight.md#material-risk);
-    - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure); and
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions).
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Material Risk](subcore_03.085_band_oversight.md#material-risk);
+    - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure); and
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions).
 
-    **Secondary assessment:** When evaluating the primary trace, include materially implicated [Harm](core_03.035_band_accountability.md#harm), [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm), [Risk](core_03.040_band_continuity.md#risk), [Material Risk](core_03.050_band_oversight.md#material-risk), and [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) pathways that would defeat the Ontological component.
-  - **Tertiary measure:** [Materiality](core_03.050_band_oversight.md#materiality) and [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where safety claims rest on classification, metrics, or proxies that no longer track material harm pathways.
+    **Secondary assessment:** When evaluating the primary trace, include materially implicated [Harm](subcore_03.070_band_accountability.md#harm), [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm), [Risk](subcore_03.075_band_continuity.md#risk), [Material Risk](subcore_03.085_band_oversight.md#material-risk), and [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) pathways that would defeat the Ontological component.
+  - **Tertiary measure:** [Materiality](subcore_03.085_band_oversight.md#materiality) and [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where safety claims rest on classification, metrics, or proxies that no longer track material harm pathways.
 
-    **Tertiary assessment:** Where operators rely on classification, metrics, or self-report, apply [Materiality](core_03.050_band_oversight.md#materiality) and [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — distinguish durable safety from nominal compliance indicators.
+    **Tertiary assessment:** Where operators rely on classification, metrics, or self-report, apply [Materiality](subcore_03.085_band_oversight.md#materiality) and [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — distinguish durable safety from nominal compliance indicators.
 <a id="safety-constraint-c"></a>
 - **What must hold**
   - A system satisfies **Safety (Constitutional Constraint)** only if it prevents, limits, and contains harm under the Ontological component across normal, degraded, and adversarial conditions.
@@ -2286,9 +2290,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - impermissible safety–utility tradeoffs against tail or systemic risk — including expected-value tradeoffs that relax protective requirements where tail, systemic, or irreversible harm rises;
     - comfort or convenience framing that does not prevent, limit, or contain harm;
     - safety as purely nominal.
-  - **Secondary failure:** preserving safety indicators while materially increasing [Harm](core_03.035_band_accountability.md#harm), [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm), or systemic propagation inconsistent with the Ontological component.
+  - **Secondary failure:** preserving safety indicators while materially increasing [Harm](subcore_03.070_band_accountability.md#harm), [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm), or systemic propagation inconsistent with the Ontological component.
   - **Tertiary failure:**
-    - treating classification or proxy satisfaction as dispositive where [Materiality](core_03.050_band_oversight.md#materiality) or [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable; or
+    - treating classification or proxy satisfaction as dispositive where [Materiality](subcore_03.085_band_oversight.md#materiality) or [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable; or
     - refusing correction after divergence between reported safety and constitutional outcomes.
 
 ---
@@ -2301,13 +2305,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint) and [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Existential Risk](core_03.040_band_continuity.md#existential-risk), and
-  - [Risk Evaluation](core_03.040_band_continuity.md#risk-evaluation).
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Existential Risk](subcore_03.075_band_continuity.md#existential-risk), and
+  - [Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation).
 
 </details>
 
@@ -2316,37 +2320,37 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: how likely harm is, how fast it can arrive, and how bad it would be — including effects that build up over time.*
 
 - **What it is**
-  - **In scope:** Likelihood, speed, and severity of [Harm](core_03.035_band_accountability.md#harm), including:
+  - **In scope:** Likelihood, speed, and severity of [Harm](subcore_03.070_band_accountability.md#harm), including:
     - likelihood of harm;
     - speed of onset or escalation; and
     - severity of harm if realized.
   - **Out of scope:**
     - speculative worry without assessed likelihood, speed, and severity of harm;
-    - harm already realized (assess under [Harm](core_03.035_band_accountability.md#harm), not as open risk).
+    - harm already realized (assess under [Harm](subcore_03.070_band_accountability.md#harm), not as open risk).
 <a id="risk-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Include cumulative and time-based effects, including:
     - buildup over time;
     - delayed or deferred realization; and
     - [Systemic Materiality](#systemic-materiality) where relevant.
   - **Secondary measure:** co-measures that scale risk assessment and management obligations:
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Materiality](core_03.050_band_oversight.md#materiality);
-    - [Dependency](core_03.040_band_continuity.md#dependency); and
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint).
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Materiality](subcore_03.085_band_oversight.md#materiality);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency); and
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint).
 
     **Secondary assessment:** When evaluating the primary trace, apply:
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-    - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance); and
-    - [Materiality](core_03.050_band_oversight.md#materiality).
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+    - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance); and
+    - [Materiality](subcore_03.085_band_oversight.md#materiality).
 <a id="risk-c"></a>
 - **What must hold**
-  - **Primary failure:** [Risk](core_03.040_band_continuity.md#risk) excluded from assessment where materially implicated.
+  - **Primary failure:** [Risk](subcore_03.075_band_continuity.md#risk) excluded from assessment where materially implicated.
   - **Secondary failure:** risk managed outside:
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint); or
-    - [Materiality](core_03.050_band_oversight.md#materiality) discipline —
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint); or
+    - [Materiality](subcore_03.085_band_oversight.md#materiality) discipline —
     where those obligations apply.
 
 ---
@@ -2359,16 +2363,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint); [Chapter Eight §4.2.1 Risk Evaluation and Disclosure Bridge](core_08.000_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (8.000 §4.2.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Chapter Ten §3.1](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*findings on the System Certification Record*).
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions),
-  - [Material Risk](core_03.050_band_oversight.md#material-risk),
-  - [Foreseeability](core_03.050_band_oversight.md#foreseeability),
-  - [Risk Disclosure](core_03.050_band_oversight.md#risk-disclosure), and
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification).
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions),
+  - [Material Risk](subcore_03.085_band_oversight.md#material-risk),
+  - [Foreseeability](subcore_03.085_band_oversight.md#foreseeability),
+  - [Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure), and
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification).
 
 </details>
 
@@ -2377,25 +2381,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: actually evaluate systemic risk — a checklist in a drawer does not count.*
 
 - **What it is**
-  - **In scope:** Evaluating systemic [Risk](core_03.040_band_continuity.md#risk) — whether operators actually assess likelihood, speed, severity, and systemic risk pathways under the conditions that matter.
-  - **Out of scope:** the separate duty to communicate evaluated risk to those who need it ([Risk Disclosure](core_03.050_band_oversight.md#risk-disclosure)) — a sibling duty, not this evaluation itself.
+  - **In scope:** Evaluating systemic [Risk](subcore_03.075_band_continuity.md#risk) — whether operators actually assess likelihood, speed, severity, and systemic risk pathways under the conditions that matter.
+  - **Out of scope:** the separate duty to communicate evaluated risk to those who need it ([Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure)) — a sibling duty, not this evaluation itself.
 <a id="risk-evaluation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* Use it here to ask whether systemic risk is actually evaluated — not merely listed or deferred.
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* Use it here to ask whether systemic risk is actually evaluated — not merely listed or deferred.
 
     **Primary assessment:** Include:
-    - [Dependency](core_03.040_band_continuity.md#dependency);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
     - time horizons; and
-    - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **Secondary measure:** [Risk](core_03.040_band_continuity.md#risk), [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Materiality](core_03.050_band_oversight.md#materiality), and [Material Risk](core_03.050_band_oversight.md#material-risk) — co-measures that can defeat evaluation when risk pathways or stakes are ignored.
+    - [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+  - **Secondary measure:** [Risk](subcore_03.075_band_continuity.md#risk), [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Materiality](subcore_03.085_band_oversight.md#materiality), and [Material Risk](subcore_03.085_band_oversight.md#material-risk) — co-measures that can defeat evaluation when risk pathways or stakes are ignored.
 
-    **Secondary assessment:** When checking the primary answer, ask whether evaluation depth matches material stake under [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) and [Foreseeability](core_03.050_band_oversight.md#foreseeability).
+    **Secondary assessment:** When checking the primary answer, ask whether evaluation depth matches material stake under [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability).
 <a id="risk-evaluation-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - failing to evaluate or constrain risk where [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) requires it; or
+    - failing to evaluate or constrain risk where [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) requires it; or
     - a risk checklist, internal-only note, nominal register, or after-the-fact statement offered as evaluation when systemic risk pathways were not actually assessed.
-  - **Secondary failure:** evaluation depth that ignores material risk pathways or stakes under [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) or [Foreseeability](core_03.050_band_oversight.md#foreseeability).
+  - **Secondary failure:** evaluation depth that ignores material risk pathways or stakes under [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) or [Foreseeability](subcore_03.085_band_oversight.md#foreseeability).
 
 ---
 
@@ -2407,14 +2411,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Wellbeing as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim.
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Psychological Harm](core_03.035_band_accountability.md#psychological-harm),
-  - [Harassment and Bullying](core_03.035_band_accountability.md#harassment-and-bullying),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), and
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions).
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm),
+  - [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions).
 
 </details>
 
@@ -2426,10 +2430,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **In scope:** The condition in which sentients and the systems they depend on maintain the functional, environmental, and relational integrity required to support:
     - continued existence;
     - stable operation across physical, cognitive, emotional, social, and environmental domains — including:
-      - cognitive, emotional, and relational integrity under [Psychological Harm](core_03.035_band_accountability.md#psychological-harm); and
-      - freedom from patterned [Harassment and Bullying](core_03.035_band_accountability.md#harassment-and-bullying) that materially degrades those conditions;
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) and participation;
-    - sustained viability of supporting systems and [Dependency](core_03.040_band_continuity.md#dependency) relationships.
+      - cognitive, emotional, and relational integrity under [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm); and
+      - freedom from patterned [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying) that materially degrades those conditions;
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and participation;
+    - sustained viability of supporting systems and [Dependency](subcore_03.075_band_continuity.md#dependency) relationships.
   - It includes conditions that materially affect these states:
     - directly or indirectly;
     - through system interactions;
@@ -2439,29 +2443,29 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <a id="wellbeing-measurements"></a>
 <a id="wellbeing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Trace claimed wellbeing effects to the Ontological conditions under full functional system scope. Include:
     - direct, indirect, delayed, cumulative, and cross-system effects on:
       - continued existence;
       - stable operation across physical, cognitive, emotional, social, and environmental domains;
-      - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) and participation; and
-      - supporting [Dependency](core_03.040_band_continuity.md#dependency) relationships.
+      - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and participation; and
+      - supporting [Dependency](subcore_03.075_band_continuity.md#dependency) relationships.
   - **Secondary measure:** co-measures for the primary trace:
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Psychological Harm](core_03.035_band_accountability.md#psychological-harm);
-    - [Harassment and Bullying](core_03.035_band_accountability.md#harassment-and-bullying);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency); and
-    - [Dependency](core_03.040_band_continuity.md#dependency).
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm);
+    - [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency); and
+    - [Dependency](subcore_03.075_band_continuity.md#dependency).
 
     **Secondary assessment:** When evaluating the primary trace, include each secondary co-measure where materially implicated, including:
-    - emotional, social, or relational effects under [Psychological Harm](core_03.035_band_accountability.md#psychological-harm); and
-    - patterned unwanted conduct or hostile-environment effects under [Harassment and Bullying](core_03.035_band_accountability.md#harassment-and-bullying).
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — integrity check where operators rely on proxies, metrics, or self-report.
+    - emotional, social, or relational effects under [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm); and
+    - patterned unwanted conduct or hostile-environment effects under [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying).
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — integrity check where operators rely on proxies, metrics, or self-report.
 
-    **Tertiary assessment:** Where operators rely on proxies, metrics, or self-report, apply [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence). Distinguish durable constitutional outcomes from:
+    **Tertiary assessment:** Where operators rely on proxies, metrics, or self-report, apply [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence). Distinguish durable constitutional outcomes from:
     - throughput;
     - engagement;
     - utilization; or
@@ -2476,13 +2480,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - aggregate indicators offered as the wellbeing condition itself.
   - **Secondary failure:** preserving or improving proxy or aggregate indicators while:
     - materially degrading sentient-experienced conditions under the Ontological component;
-    - materially degrading [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) or participation;
-    - materially degrading [Dependency](core_03.040_band_continuity.md#dependency) relationships;
-    - materially degrading [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - incurring material [Harm](core_03.035_band_accountability.md#harm) or [Psychological Harm](core_03.035_band_accountability.md#psychological-harm); or
-    - permitting patterned [Harassment and Bullying](core_03.035_band_accountability.md#harassment-and-bullying) that materially degrades those conditions.
+    - materially degrading [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) or participation;
+    - materially degrading [Dependency](subcore_03.075_band_continuity.md#dependency) relationships;
+    - materially degrading [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - incurring material [Harm](subcore_03.070_band_accountability.md#harm) or [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm); or
+    - permitting patterned [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying) that materially degrades those conditions.
   - **Tertiary failure:**
-    - treating proxy satisfaction as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable; or
+    - treating proxy satisfaction as dispositive where [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable; or
     - refusing correction after divergence between reported wellbeing and constitutional outcomes.
 
 ---
@@ -2496,9 +2500,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
-- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_03.040_band_continuity.md#ecological-footprint-semi-independent).
-- Read with: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_03.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster), where survival-floor routing materially applies.
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
+- Read with: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster), where survival-floor routing materially applies.
 
 </details>
 
@@ -2507,7 +2511,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: the living-system conditions sentients need to survive and stay well — climate, ecosystems, clean air and water, soil, habitat, and Earth's ability to regenerate.*
 
 - **What it is**
-  - **In scope:** The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_03.040_band_continuity.md#wellbeing) depend, including:
+  - **In scope:** The biophysical and living-system conditions on which sentient survival and [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) depend, including:
     - stable climate;
     - functioning ecosystems;
     - clean air and water;
@@ -2515,14 +2519,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - biodiversity-supporting habitats; and
     - the Earth's regenerative capacity.
   - Protected under **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and evaluated systemically with:
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Existential Risk](core_03.040_band_continuity.md#existential-risk); and
-    - [Dependency](core_03.040_band_continuity.md#dependency).
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Existential Risk](subcore_03.075_band_continuity.md#existential-risk); and
+    - [Dependency](subcore_03.075_band_continuity.md#dependency).
   - **Out of scope:** local amenity preferences unrelated to biophysical survival conditions.
 <a id="environmental-preconditions-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Include ecological effects that are:
     - direct;
@@ -2531,19 +2535,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - cumulative; or
     - cross-system.
   - **Secondary measure:** co-measures that can defeat preconditions even when local compliance appears satisfied:
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity);
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Risk](core_03.040_band_continuity.md#risk); and
-    - [Materiality](core_03.050_band_oversight.md#materiality).
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Risk](subcore_03.075_band_continuity.md#risk); and
+    - [Materiality](subcore_03.085_band_oversight.md#materiality).
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Materiality](core_03.050_band_oversight.md#materiality) and [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity). Local or nominal compliance is not sufficient where environmental harm is material as:
+    **Secondary assessment:** When evaluating the primary trace, apply [Materiality](subcore_03.085_band_oversight.md#materiality) and [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity). Local or nominal compliance is not sufficient where environmental harm is material as:
     - externalized harm;
     - aggregated harm; or
     - long-horizon harm.
 <a id="environmental-preconditions-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** degrading the living-system conditions this entry protects — climate, ecosystems, clean air and water, soil, habitat, or Earth's ability to regenerate — in violation of **Article I-A** (*Environmental Preconditions and Ecological Integrity*), including ecological branding that does not protect those conditions.
-  - **Secondary failure:** local or paper compliance offered as enough while ecosystems are actually getting worse under [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity), where whole-system analysis would treat the harm as material.
+  - **Secondary failure:** local or paper compliance offered as enough while ecosystems are actually getting worse under [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity), where whole-system analysis would treat the harm as material.
 
 ---
 
@@ -2555,12 +2559,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm),
-  - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure), and
-  - [Dependency](core_03.040_band_continuity.md#dependency).
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm),
+  - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure), and
+  - [Dependency](subcore_03.075_band_continuity.md#dependency).
 
 </details>
 
@@ -2570,41 +2574,41 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** The capacity to roll back, bound, contain, or restore states and commitments within feasible limits. How much reversibility is required scales with:
-    - the risk of [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm);
-    - the depth of [Dependency](core_03.040_band_continuity.md#dependency) relationships; and
-    - [Material Impact](core_03.050_band_oversight.md#material-impact).
-  - Applies across dimensions where relevant and consistent with [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), including:
+    - the risk of [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm);
+    - the depth of [Dependency](subcore_03.075_band_continuity.md#dependency) relationships; and
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact).
+  - Applies across dimensions where relevant and consistent with [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), including:
     - technical;
     - organizational;
     - social; and
     - ecological.
-  - **Out of scope:** ordinary temporary changes that remain readily undoable with no material [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm), [Dependency](core_03.040_band_continuity.md#dependency), or [Material Impact](core_03.050_band_oversight.md#material-impact) stake.
+  - **Out of scope:** ordinary temporary changes that remain readily undoable with no material [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm), [Dependency](subcore_03.075_band_continuity.md#dependency), or [Material Impact](subcore_03.085_band_oversight.md#material-impact) stake.
 <a id="reversibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Assess recovery and containment under:
     - normal conditions;
     - degraded conditions; and
     - adversarial conditions.
     Include implications for:
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm); and
-    - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure).
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm); and
+    - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure).
   - **Secondary measure:** co-measures that set containment thresholds:
-    - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm);
-    - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure);
-    - [Risk](core_03.040_band_continuity.md#risk); and
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint).
+    - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm);
+    - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure);
+    - [Risk](subcore_03.075_band_continuity.md#risk); and
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint).
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) and incorporated implementation requirements without narrowing this constitutional requirement.
+    **Secondary assessment:** When evaluating the primary trace, apply [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) and incorporated implementation requirements without narrowing this constitutional requirement.
 <a id="reversibility-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** proceeding without feasible reversibility or containment where required by:
     - Chapter Two;
     - applicable rights; or
-    - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) —
-    especially where [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm) or [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) is reasonably in play —
+    - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) —
+    especially where [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) or [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) is reasonably in play —
     including rollback, bounding, or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
   - **Secondary failure:** rollback or containment offered as done because someone said the system can do it, without showing that it can actually recover under stress.
 
@@ -2617,15 +2621,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Owner floor: [Article XIV-F](core_04.020_rights_part_c.md#article-xiv-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*).
 - Read with:
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Trust](core_03.040_band_continuity.md#trust),
-  - [Reversibility](core_03.040_band_continuity.md#reversibility),
-  - [Dependency](core_03.040_band_continuity.md#dependency), and
-  - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure).
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Trust](subcore_03.075_band_continuity.md#trust),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency), and
+  - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure).
 
 
 </details>
@@ -2647,31 +2651,31 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - safe-failure preference under uncertainty; and
     - proportionate restoration that preserves the Chapter Four Rights Floor.
   - **Depends on** these constitutive bounds — recovery outside them is not Self-Healing within the meaning of this Constitution:
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-    - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
-    - [Trust](core_03.040_band_continuity.md#trust); and
-    - [Reversibility](core_03.040_band_continuity.md#reversibility).
-  - **Out of scope:** ordinary restart, reboot, or failover that restores a prior good state with no automatic recovery claim under this entry — including ecological recovery under [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity).
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+    - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
+    - [Trust](subcore_03.075_band_continuity.md#trust); and
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
+  - **Out of scope:** ordinary restart, reboot, or failover that restores a prior good state with no automatic recovery claim under this entry — including ecological recovery under [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity).
 <a id="self-healing-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Distinguish genuine recovery from masking. Recovery is not Self-Healing within the meaning of this Constitution when it:
     - suppresses, overwrites, delays, or obscures evidence needed for root-cause analysis under **Article XXV** (*Root Cause Analysis and Adaptive Response*); or
     - silently narrows Rights-Floor guarantees.
     That kind of recovery is:
-    - epistemic degradation under [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint); and
-    - an incentive-alignment defect under [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment).
+    - epistemic degradation under [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint); and
+    - an incentive-alignment defect under [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment).
   - **Evaluation covers:**
     - detection latency;
     - containment scope;
     - graceful-degradation paths;
     - safe-failure preference;
-    - [Reversibility](core_03.040_band_continuity.md#reversibility) of recovery actions;
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility) of recovery actions;
     - observability of recovery attempts (including suppressed attempts);
-    - [Dependency](core_03.040_band_continuity.md#dependency) and [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) propagation;
-    - [Accountability](core_03.005_apex_accountability_leg.md#accountability) for recovery decisions; and
-    - autonomy-scaling of the recovering system under **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), consistent with [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) and [Contestability](core_03.035_band_accountability.md#contestability).
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) and [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) propagation;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) for recovery decisions; and
+    - autonomy-scaling of the recovering system under **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), consistent with [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and [Contestability](subcore_03.070_band_accountability.md#contestability).
   - Detailed recovery architecture requirements appear in incorporated implementation text, including [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*), [CS-4.325](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*), and [CS-4.330](corpus_systems/cs_04.330_decentralized_continuity_partition_resilience.md#cs-4330-decentralized-continuity-and-partition-resilience) (*Decentralized continuity and partition resilience*), and must not narrow this constitutional requirement.
 <a id="self-healing-constitutional-c"></a>
 - **What must hold**
@@ -2680,11 +2684,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - suppresses evidence;
     - silently narrows the Chapter Four Rights Floor;
     - expands authority beyond the pre-fault envelope;
-    - bypasses [Contestability](core_03.035_band_accountability.md#contestability) or audit channels; or
+    - bypasses [Contestability](subcore_03.070_band_accountability.md#contestability) or audit channels; or
     - operationally closes a defective condition without an open root-cause obligation under **Article XXV** (*Root Cause Analysis and Adaptive Response*).
   - **Secondary failure:** treating Self-Healing as:
     - a substitute for governance; or
-    - justification to reduce [Auditability](core_03.050_band_oversight.md#auditability), [Transparency](core_03.050_band_oversight.md#transparency), or stewardship obligations under [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment).
+    - justification to reduce [Auditability](subcore_03.085_band_oversight.md#auditability), [Transparency](subcore_03.085_band_oversight.md#transparency), or stewardship obligations under [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment).
   - **Tertiary failure:** recovery authority that:
     - exceeds what is necessary and proportionate to the fault; or
     - is exercised by high-autonomy systems outside the scope of **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
@@ -2698,8 +2702,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
-- Read with: [Dependency](core_03.040_band_continuity.md#dependency), [Risk](core_03.040_band_continuity.md#risk), and [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity).
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
+- Read with: [Dependency](subcore_03.075_band_continuity.md#dependency), [Risk](subcore_03.075_band_continuity.md#risk), and [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity).
 
 </details>
 
@@ -2708,7 +2712,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started.*
 
 - **What it is**
-  - **In scope:** A failure that amplifies impact beyond the originating system by propagating across [Dependency](core_03.040_band_continuity.md#dependency)-linked:
+  - **In scope:** A failure that amplifies impact beyond the originating system by propagating across [Dependency](subcore_03.075_band_continuity.md#dependency)-linked:
     - systems;
     - components; or
     - institutions.
@@ -2718,16 +2722,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - without amplification beyond where it started.
 <a id="cascading-failure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Evaluate propagation pathways across [Dependency](core_03.040_band_continuity.md#dependency) relationships where:
+    **Primary assessment:** Evaluate propagation pathways across [Dependency](subcore_03.075_band_continuity.md#dependency) relationships where:
     - spread is reasonably foreseeable; and
-    - resulting [Risk](core_03.040_band_continuity.md#risk) may spread across connected systems or institutions.
+    - resulting [Risk](subcore_03.075_band_continuity.md#risk) may spread across connected systems or institutions.
   - **Secondary measure:** co-measures that can defeat containment even when the originating fault appears localized:
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity); and
-    - [Reversibility](core_03.040_band_continuity.md#reversibility).
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity); and
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
     **Secondary assessment:** When evaluating the primary trace, include factors that would allow amplification beyond the originating system:
     - dependency mapping;
@@ -2736,7 +2740,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <a id="cascading-failure-c"></a>
 - **What must hold**
   - **Primary failure:** systems fail to identify, prevent, or mitigate cascading pathways that should have been revealed by:
-    - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity); or
+    - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity); or
     - dependency mapping.
   - **Secondary failure:** treating localized fault containment as sufficient where dependency-linked propagation remains reasonably foreseeable.
 
@@ -2750,14 +2754,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_03.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (3.040)
+- Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity),
-  - [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity), and
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility).
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
+  - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity), and
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility).
 
 </details>
 
@@ -2767,9 +2771,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** Risk of large-scale, civilization-relevant, or survival-critical harm, including:
-    - irreversible loss of [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity) at a scale that threatens survival-critical layers (the loss of any natural ecosystem's recovery capacity, at any scale, is a separate highest-scrutiny trigger under [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*));
+    - irreversible loss of [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity) at a scale that threatens survival-critical layers (the loss of any natural ecosystem's recovery capacity, at any scale, is a separate highest-scrutiny trigger under [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*));
     - collapse of critical layers supporting sentient life;
-    - failures of coordination around [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions); and
+    - failures of coordination around [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions); and
     - rare paths that are unlikely to occur, but would cause catastrophic harm if they did.
   - **Out of scope:** harm that does not threaten civilization-scale or survival-critical layers, including:
     - ordinary localized harm;
@@ -2777,7 +2781,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - routine safety issues.
 <a id="existential-risk-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Do not exclude credible existential pathways under conditions that are:
     - adversarial;
@@ -2785,14 +2789,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - aggregated; or
     - threshold-dependent.
   - **Evaluation also incorporates:**
-    - [Dependency](core_03.040_band_continuity.md#dependency); and
+    - [Dependency](subcore_03.075_band_continuity.md#dependency); and
     - systemic feedback.
 <a id="existential-risk-c"></a>
 - **What must hold**
   - **Primary failure:** Ignoring or materially understating credible existential pathways in:
-    - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance);
-    - [Governance](core_03.035_band_accountability.md#governance);
-    - [Transparency](core_03.050_band_oversight.md#transparency); or
+    - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance);
+    - [Governance](subcore_03.070_band_accountability.md#governance);
+    - [Transparency](subcore_03.085_band_oversight.md#transparency); or
     - safety analysis.
 
 ---
@@ -2803,25 +2807,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **Joint invocation:** where efficiency, productive capacity, avoidable burden, or burden-reduction routing is material.
 - **Scope:** where joint invocation is met, the relationship between resource investment and constitutional outcomes.
-- **Dependent cluster:** where proportionality, necessity, and feasibility constraints intersect, [the dependent cluster](core_03.035_band_accountability.md#proportionality) governs joint satisfaction.
+- **Dependent cluster:** where proportionality, necessity, and feasibility constraints intersect, [the dependent cluster](subcore_03.070_band_accountability.md#proportionality) governs joint satisfaction.
 - **Floor protection:** does not authorize efficiency gains or burden reduction achieved by weakening:
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
   - the Chapter Four Rights Floor;
   - audit;
-  - [Contestability](core_03.035_band_accountability.md#contestability); or
+  - [Contestability](subcore_03.070_band_accountability.md#contestability); or
   - retrospective-review obligations.
 
-**Evaluation measure.** Where magnitude assessment is material, [Lifespan Equivalent Unit (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ) may serve as one potential calibration measure for evaluating the scale of productive capacity contribution, burden reduction achievement, or efficiency gains in constitutional-outcome terms.
+**Evaluation measure.** Where magnitude assessment is material, [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) may serve as one potential calibration measure for evaluating the scale of productive capacity contribution, burden reduction achievement, or efficiency gains in constitutional-outcome terms.
 
 **Topic group members.** This group comprises:
-- [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity) — an instrumental Stewardship and Governance outcome: durable, contestable ability to achieve constitutionally aligned outcomes;
-- [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency) — outcome-per-resource-consumed for constitutionally aligned results;
-- [Productive Capacity](core_03.040_band_continuity.md#productive-capacity) — the system-level ability for meaningful participation without exploitation;
-- [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) — costs not traceable to constitutional outcomes;
-- [Burden-Reduction Duty](core_03.040_band_continuity.md#burden-reduction-duty) — the affirmative stewardship obligation to minimize such friction where constitutionally safe.
+- [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity) — an instrumental Stewardship and Governance outcome: durable, contestable ability to achieve constitutionally aligned outcomes;
+- [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) — outcome-per-resource-consumed for constitutionally aligned results;
+- [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) — the system-level ability for meaningful participation without exploitation;
+- [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) — costs not traceable to constitutional outcomes;
+- [Burden-Reduction Duty](subcore_03.075_band_continuity.md#burden-reduction-duty) — the affirmative stewardship obligation to minimize such friction where constitutionally safe.
 
-*Measurements (family routing):* Measured under the Constitutional Performance measurement family. Find the concrete measures on [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden), [Productive Capacity](core_03.040_band_continuity.md#productive-capacity), and [Burden-Reduction Duty](core_03.040_band_continuity.md#burden-reduction-duty) below.
+*Measurements (family routing):* Measured under the Constitutional Performance measurement family. Find the concrete measures on [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency), [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden), [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity), and [Burden-Reduction Duty](subcore_03.075_band_continuity.md#burden-reduction-duty) below.
 
 ---
 
@@ -2833,14 +2837,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) (2.010 §9); [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) through [§11.3 Consolidation Ceiling](core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity); [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_03.035_band_accountability.md#proportionality).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity); [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](subcore_03.070_band_accountability.md#proportionality).
 - Read with:
-  - [Stewardship](core_03.040_band_continuity.md#stewardship),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency),
-  - [Market Concentration Threshold](core_03.035_band_accountability.md#market-concentration-threshold),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence), and
+  - [Stewardship](subcore_03.075_band_continuity.md#stewardship),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency),
+  - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence), and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
 </details>
@@ -2848,21 +2852,21 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <br>
 
 - **What it is**
-  - **In scope:** An **instrumental outcome** produced and preserved through [Stewardship](core_03.040_band_continuity.md#stewardship) and [Governance](core_03.035_band_accountability.md#governance) operating under Values Principles (Chapter Two, Part A); not a freestanding trump value. It results in the durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time, including:
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity);
-    - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency);
+  - **In scope:** An **instrumental outcome** produced and preserved through [Stewardship](subcore_03.075_band_continuity.md#stewardship) and [Governance](subcore_03.070_band_accountability.md#governance) operating under Values Principles (Chapter Two, Part A); not a freestanding trump value. It results in the durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time, including:
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity);
+    - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency);
     - anti-concentration discipline; and
     - the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow.
   - **Out of scope:** ordinary throughput, scale, or funding metrics not claimed as durable, contestable shared-system capacity for constitutionally aligned outcomes.
 <a id="shared-system-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Treat as downstream of stewardship and governance discipline, not as a license for scale, throughput, or concentration. Apply the following for component tests:
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity);
-    - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency);
-    - [Market Concentration Threshold](core_03.035_band_accountability.md#market-concentration-threshold);
-    - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence); and
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity);
+    - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency);
+    - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold);
+    - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence); and
     - Subcore 3-C traceability of definitions to results.
   - Capacity claims fail regardless of nominal scale where they rest on:
     - domination;
@@ -2899,15 +2903,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden),
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application), and
   - [§19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline).
-- Stewardship integration: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
-- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_03.035_band_accountability.md#proportionality)
+- Stewardship integration: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
+- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with:
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection), and
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence).
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection), and
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence).
 
 </details>
 
@@ -2925,24 +2929,24 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Out of scope:** raw speed, administrative convenience, utilization, revenue, market share, headcount, or cost-cutting metrics not claimed as constitutional efficiency — those are ordinary operational proxies, not this outcome-per-resource ratio.
 <a id="constitutional-efficiency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Trace claimed efficiency to underlying constitutional outcomes under Subcore 3-C. Distinguish constitutional efficiency from avoidable-burden reduction:
     - constitutional efficiency is outcome-per-resource;
-    - cutting [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) removes resource costs that serve no constitutional purpose.
+    - cutting [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) removes resource costs that serve no constitutional purpose.
   - **Secondary measure:** co-measures that can defeat efficiency even when throughput or utilization metrics improve:
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity);
-    - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden);
-    - [Burden-Reduction Duty](core_03.040_band_continuity.md#burden-reduction-duty); and
-    - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection).
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity);
+    - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden);
+    - [Burden-Reduction Duty](subcore_03.075_band_continuity.md#burden-reduction-duty); and
+    - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection).
 
     **Secondary assessment:** When evaluating the primary trace, read with:
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity);
-    - [Proportionality](core_03.035_band_accountability.md#proportionality);
-    - [Necessity](core_03.035_band_accountability.md#necessity); and
-    - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection).
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity);
+    - [Proportionality](subcore_03.070_band_accountability.md#proportionality);
+    - [Necessity](subcore_03.070_band_accountability.md#necessity); and
+    - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection).
   - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Eight §4.3 Time-Consistency Constraint](core_08.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint).
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where proxies substitute for constitutional outcomes, including:
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where proxies substitute for constitutional outcomes, including:
     - raw throughput;
     - utilization;
     - headcount;
@@ -2950,7 +2954,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - latency; or
     - comparable proxies.
 
-    **Tertiary assessment:** Apply [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) when those proxies substitute for outcomes — including when the score is:
+    **Tertiary assessment:** Apply [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) when those proxies substitute for outcomes — including when the score is:
     - cooked;
     - preserved; or
     - designed to look good while underlying constitutional outcomes stay deficient.
@@ -2962,9 +2966,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - contestability.
   - **Secondary failure:** using efficiency to:
     - narrow Rights-Floor protections;
-    - bypass the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record) requirements; or
+    - bypass the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) requirements; or
     - weaken audit, contestability, or retrospective-review obligations.
-  - **Tertiary failure:** treating as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable:
+  - **Tertiary failure:** treating as dispositive where [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable:
     - throughput;
     - utilization; or
     - comparable proxy satisfaction.
@@ -2979,7 +2983,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Constitutional Performance measurement family (*Productive Capacity as constitutional measurement*); Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) and [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden).
-- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_03.035_band_accountability.md#proportionality).
+- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality).
 
 </details>
 
@@ -2997,8 +3001,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
       - interoperability; and
       - fiscal or social supports.
   - It must preserve:
-    - [Wellbeing](core_03.040_band_continuity.md#wellbeing);
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency); and
+    - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing);
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency); and
     - non-coercive choice.
   - **Out of scope:**
     - raw production totals, throughput, utilization, headcount, revenue, asset growth, market share, or comparable proxies not claimed as participation and contribution capacity; or
@@ -3006,26 +3010,26 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     those sit outside this capacity concept when not offered as the floor.
 <a id="productive-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Assess whether governing structures enable substantive participation and contribution — not only output metrics.
   - **Secondary measure:** other measures that can show capacity is failing even when output numbers look steady:
-    - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden);
-    - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency);
-    - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation);
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions); and
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint).
+    - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden);
+    - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency);
+    - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions); and
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint).
 
     **Secondary assessment:** When evaluating the primary trace, align with each secondary co-measure. Detect schemes that degrade actual capacity, including:
     - proxy-driven schemes;
     - conditional access; or
     - coercive incentives.
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where the following substitute for substantive participation:
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where the following substitute for substantive participation:
     - proxy-driven schemes;
     - conditional access; or
     - coercive incentives.
 
-    **Tertiary assessment:** Where operators rely on output metrics or conditional-access schemes, apply [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence). Distinguish durable productive capacity from:
+    **Tertiary assessment:** Where operators rely on output metrics or conditional-access schemes, apply [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence). Distinguish durable productive capacity from:
     - proxy throughput; or
     - coercive dependency.
 <a id="productive-capacity-constitutional-c"></a>
@@ -3036,12 +3040,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - coercion;
     - under-investment; or
     - contribution turned into exploitation, dependency, or abuse —
-    including nominal output or access metrics while [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), safety, or non-coercive choice is degraded; and throughput or comparable proxies that no longer track real participation and contribution capacity.
+    including nominal output or access metrics while [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), safety, or non-coercive choice is degraded; and throughput or comparable proxies that no longer track real participation and contribution capacity.
   - **Secondary failure:** preserving nominal output or access metrics while materially degrading:
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions); or
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint).
-  - **Tertiary failure:** proxy-driven measurement regimes offered as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can:
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions); or
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint).
+  - **Tertiary failure:** proxy-driven measurement regimes offered as dispositive where [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can:
     - meaningfully participate in productive activity; and
     - derive wellbeing from it.
 
@@ -3055,16 +3059,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); Principles: [Chapter Two §9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) (2.010 §9), [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application).
-- Stewardship integration: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
-- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_03.035_band_accountability.md#proportionality)
+- Stewardship integration: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
+- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with:
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Feasibility](core_03.035_band_accountability.md#feasibility),
-  - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency), and
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence).
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Feasibility](subcore_03.070_band_accountability.md#feasibility),
+  - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency), and
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence).
 
 </details>
 
@@ -3074,11 +3078,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **In scope:** Cost that meets all of the following:
     - it is process, compliance, coordination, or implementation cost;
     - it is imposed on sentients, stewards, operators, or shared systems;
-    - it is not traceable to a constitutional outcome under [Proportionality](core_03.035_band_accountability.md#proportionality) and [Necessity](core_03.035_band_accountability.md#necessity); and
+    - it is not traceable to a constitutional outcome under [Proportionality](subcore_03.070_band_accountability.md#proportionality) and [Necessity](subcore_03.070_band_accountability.md#necessity); and
     - it is not required by:
       - the Chapter Four Rights Floor;
-      - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint); or
-      - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint).
+      - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint); or
+      - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
   - **Out of scope:**
     - ordinary transaction costs;
     - costs required by proportionate audit;
@@ -3086,22 +3090,22 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - costs required by rights-protective process.
 <a id="avoidable-burden-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Subcore 3-C traceability of definitions to results. Detect:
     - burden that persists without a traceable outcome;
     - burden sustained by institutional inertia, tradition, or preference alone; and
     - burden functioning as a pretextual barrier to:
-      - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-      - [Contestability](core_03.035_band_accountability.md#contestability); or
+      - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+      - [Contestability](subcore_03.070_band_accountability.md#contestability); or
       - participation.
   - **Secondary measure:** other measures that distinguish required cost from avoidable cost:
-    - [Proportionality](core_03.035_band_accountability.md#proportionality);
-    - [Necessity](core_03.035_band_accountability.md#necessity);
-    - [Feasibility](core_03.035_band_accountability.md#feasibility);
-    - [Burden-Reduction Duty](core_03.040_band_continuity.md#burden-reduction-duty);
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity); and
-    - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency).
+    - [Proportionality](subcore_03.070_band_accountability.md#proportionality);
+    - [Necessity](subcore_03.070_band_accountability.md#necessity);
+    - [Feasibility](subcore_03.070_band_accountability.md#feasibility);
+    - [Burden-Reduction Duty](subcore_03.075_band_continuity.md#burden-reduction-duty);
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity); and
+    - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency).
 
     **Secondary assessment:** When evaluating the primary trace, test whether any of the following would preserve the same constitutional outcomes with less burden:
     - simplification;
@@ -3113,21 +3117,21 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - Rights-Floor protections;
     - audit; or
     - due-process obligations.
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where claimed necessity rests on proxies that diverge from underlying constitutional outcomes.
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where claimed necessity rests on proxies that diverge from underlying constitutional outcomes.
 
-    **Tertiary assessment:** Apply [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) where claimed necessity rests on such proxies.
+    **Tertiary assessment:** Apply [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) where claimed necessity rests on such proxies.
 <a id="avoidable-burden-c"></a>
 - **What must hold**
   - **Primary failure:** imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter Two §13.3 (*Minimization of Avoidable Burden*), including:
     - simplification; or
     - removal of unnecessary steps.
   - **Secondary failure:** burden functioning as a pretextual barrier — where a less-burdensome option would preserve the same outcomes — to:
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - [Contestability](core_03.035_band_accountability.md#contestability); or
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - [Contestability](subcore_03.070_band_accountability.md#contestability); or
     - participation.
   - **Tertiary failure:**
-    - incentives that reward burden creation or maintenance contrary to [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) and Chapter Two §19.1 (*Alignment Requirement*); or
-    - treating proxy necessity claims as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable.
+    - incentives that reward burden creation or maintenance contrary to [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) and Chapter Two §19.1 (*Alignment Requirement*); or
+    - treating proxy necessity claims as dispositive where [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
 
@@ -3140,36 +3144,36 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3), [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (tradeoff principles).
 - Owner floor: [Chapter Twenty-Six §5](core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (26.000 §5).
-- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_03.035_band_accountability.md#proportionality)
+- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with:
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency),
-  - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), and
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint).
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency),
+  - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), and
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter Two §13.3 (*Minimization of Avoidable Burden*) and with [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden), [Productive Capacity](core_03.040_band_continuity.md#productive-capacity), and [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency). Methods include:
+  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter Two §13.3 (*Minimization of Avoidable Burden*) and with [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden), [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity), and [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency). Methods include:
     - simplifying;
     - consolidating;
     - automating;
     - clarifying; or
     - removing unnecessary steps.
   - The duty applies **only** among options that already satisfy:
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-    - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+    - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
     - the Chapter Four Rights Floor; and
     - the other tradeoff principles in Chapter Two §13.1 (*Core Tradeoff Principles*).
-  - **Out of scope:** ordinary process simplification among options that already satisfy [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), the Chapter Four Rights Floor, and Chapter Two §13.1 (*Core Tradeoff Principles*) — when no burden-reduction duty claim is at issue.
+  - **Out of scope:** ordinary process simplification among options that already satisfy [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), the Chapter Four Rights Floor, and Chapter Two §13.1 (*Core Tradeoff Principles*) — when no burden-reduction duty claim is at issue.
 <a id="burden-reduction-duty-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Read with Chapter Two §13.3 (*Minimization of Avoidable Burden*) and Chapter Two §13.1 (*Core Tradeoff Principles*) tradeoff stack. Test simplification as a first-line remedy where burden without traceable constitutional outcome comes from:
     - unnecessary complexity;
@@ -3177,16 +3181,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - unclear routing; or
     - obsolete steps.
   - **Secondary measure:** other measures that bound how burden reduction may be pursued:
-    - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden);
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity);
-    - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency);
-    - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection); and
-    - [Contestability](core_03.035_band_accountability.md#contestability).
+    - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden);
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity);
+    - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency);
+    - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection); and
+    - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
     **Secondary assessment:** When evaluating the primary trace, distinguish burden reduction from:
     - Rights-Floor erosion;
-    - reductions in proportionate audit or [Contestability](core_03.035_band_accountability.md#contestability); and
-    - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) framed as efficiency.
+    - reductions in proportionate audit or [Contestability](subcore_03.070_band_accountability.md#contestability); and
+    - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) framed as efficiency.
 <a id="burden-reduction-duty-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** pursuing or defending lower burden by narrowing:
@@ -3196,7 +3200,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - Chapter Two §16 (*Stewardship in Depth*) tradeoff compliance.
   - **Secondary failure:** weakening the following to lower burden, or labeling such narrowing as burden reduction:
     - audit;
-    - [Contestability](core_03.035_band_accountability.md#contestability); or
+    - [Contestability](subcore_03.070_band_accountability.md#contestability); or
     - retrospective-review obligations.
 
 ---
@@ -3213,11 +3217,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **Owner floor:** implements [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*), [Article I-B](core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*), and [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 
 **Topic group members.** This group comprises:
-- [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity) — the condition and resilience of natural systems required for sentient survival;
-- [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity) — the capacity of ecosystems and life-supporting systems to regenerate after severe harm;
-- [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint) — attributable environmental flows across lifecycles;
-- [Sustainability](core_03.040_band_continuity.md#sustainability) — capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients;
-- [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility) — duty to account for foreseeable effects of present decisions on future sentients and ecological systems.
+- [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) — the condition and resilience of natural systems required for sentient survival;
+- [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity) — the capacity of ecosystems and life-supporting systems to regenerate after severe harm;
+- [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) — attributable environmental flows across lifecycles;
+- [Sustainability](subcore_03.075_band_continuity.md#sustainability) — capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients;
+- [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility) — duty to account for foreseeable effects of present decisions on future sentients and ecological systems.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -3232,17 +3236,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) and [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_03.040_band_continuity.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity),
-  - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint),
-  - [Sustainability](core_03.040_band_continuity.md#sustainability),
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility),
-  - [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing),
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Risk](core_03.040_band_continuity.md#risk), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity),
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility),
+  - [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing),
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Risk](subcore_03.075_band_continuity.md#risk), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
 </details>
 
@@ -3251,23 +3255,23 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The condition of natural and living systems sufficient to sustain:
     - sentient survival;
-    - [Wellbeing](core_03.040_band_continuity.md#wellbeing);
+    - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing);
     - ecological relationships, including existing and historical interspecies relationships; and
-    - the [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions) protected by **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
+    - the [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) protected by **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
   - **In scope — integrity dimensions:**
     - resilience;
     - functional continuity;
     - diversity;
     - regeneration capacity;
     - interdependence of living systems; and
-    - [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity) where recovery after harm is material.
+    - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity) where recovery after harm is material.
   - **Out of scope:**
     - ordinary local amenity preferences with no ecosystem stake; or
-    - operational system restore after fault ([Self-Healing](core_03.040_band_continuity.md#self-healing)) or rollback of specific decisions ([Reversibility](core_03.040_band_continuity.md#reversibility)) —
+    - operational system restore after fault ([Self-Healing](subcore_03.075_band_continuity.md#self-healing)) or rollback of specific decisions ([Reversibility](subcore_03.075_band_continuity.md#reversibility)) —
     those sit under their own homes when no ecological-integrity stake is claimed.
 <a id="ecological-integrity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate effects on ecosystems and dependent sentients that are:
     - direct;
@@ -3275,14 +3279,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - delayed;
     - cumulative;
     - cross-system; or
-    - recovery-capacity effects under [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity).
+    - recovery-capacity effects under [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity).
   - **Secondary measure:** co-measures that can defeat integrity claims even when local compliance appears satisfied:
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - [Sustainability](core_03.040_band_continuity.md#sustainability);
-    - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint);
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Risk](core_03.040_band_continuity.md#risk); and
-    - [Materiality](core_03.050_band_oversight.md#materiality).
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - [Sustainability](subcore_03.075_band_continuity.md#sustainability);
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint);
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Risk](subcore_03.075_band_continuity.md#risk); and
+    - [Materiality](subcore_03.085_band_oversight.md#materiality).
 
     **Secondary assessment:** Formal compliance, local mitigation, or offset accounting is not sufficient where aggregate effect materially degrades:
     - ecological function;
@@ -3318,16 +3322,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Owner floor: [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
-- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_03.040_band_continuity.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
-  - [Existential Risk](core_03.040_band_continuity.md#existential-risk),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity),
-  - [Sustainability](core_03.040_band_continuity.md#sustainability),
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Reversibility](core_03.040_band_continuity.md#reversibility), and
-  - [Self-Healing](core_03.040_band_continuity.md#self-healing).
+  - [Existential Risk](subcore_03.075_band_continuity.md#existential-risk),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility), and
+  - [Self-Healing](subcore_03.075_band_continuity.md#self-healing).
 
 </details>
 
@@ -3336,11 +3340,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; the neighboring senses it does not govern are carved out under **Out of scope** below.
 
 - **What it is**
-  - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions) they support, after severe harm, depletion, or disruption, to:
+  - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) they support, after severe harm, depletion, or disruption, to:
     - regenerate;
     - restore functional continuity; and
     - sustain sentient survival.
-  - **In scope — recovery domains:** the regeneration processes on which [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity) depends, including:
+  - **In scope — recovery domains:** the regeneration processes on which [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) depends, including:
     - biodiversity;
     - soil;
     - water;
@@ -3348,13 +3352,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - habitat connectivity; and
     - other regenerative processes of comparable ecological function.
   - **Out of scope:**
-    - operational system restore after fault ([Self-Healing](core_03.040_band_continuity.md#self-healing));
-    - rollback of specific decisions or commitments ([Reversibility](core_03.040_band_continuity.md#reversibility)); or
+    - operational system restore after fault ([Self-Healing](subcore_03.075_band_continuity.md#self-healing));
+    - rollback of specific decisions or commitments ([Reversibility](subcore_03.075_band_continuity.md#reversibility)); or
     - commercial cost recovery —
     those sit under their own homes, not under this ecological recovery-capacity floor.
 <a id="ecological-recovery-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate causal pathways to irreversible loss of ecological recovery capacity, including:
     - threshold crossings;
@@ -3371,20 +3375,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - regenerative processes.
 
     Do not judge recovery by one species, one local population, or one kind of organism on its own. What happens to particular species can inform the analysis, but it cannot stand in for judging the whole system. Further:
-    - read with [Existential Risk](core_03.040_band_continuity.md#existential-risk) where civilization-scale pathways are credible; and
+    - read with [Existential Risk](subcore_03.075_band_continuity.md#existential-risk) where civilization-scale pathways are credible; and
     - distinguish temporary disturbance with viable ecological recovery from locked-in ecological collapse.
   - **Secondary measure:** co-measures that can defeat recovery-capacity claims even when local restoration or systems-layer recovery appears satisfied:
-    - [Existential Risk](core_03.040_band_continuity.md#existential-risk);
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity);
-    - [Sustainability](core_03.040_band_continuity.md#sustainability);
-    - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility);
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Reversibility](core_03.040_band_continuity.md#reversibility); and
-    - [Self-Healing](core_03.040_band_continuity.md#self-healing).
+    - [Existential Risk](subcore_03.075_band_continuity.md#existential-risk);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
+    - [Sustainability](subcore_03.075_band_continuity.md#sustainability);
+    - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility); and
+    - [Self-Healing](subcore_03.075_band_continuity.md#self-healing).
 
     **Secondary assessment:** When evaluating the primary trace:
-    - do not treat systems-layer [Self-Healing](core_03.040_band_continuity.md#self-healing) or [Reversibility](core_03.040_band_continuity.md#reversibility) as substitutes for ecological recovery capacity where [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies;
+    - do not treat systems-layer [Self-Healing](subcore_03.075_band_continuity.md#self-healing) or [Reversibility](subcore_03.075_band_continuity.md#reversibility) as substitutes for ecological recovery capacity where [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies;
     - require consistency with ecological integrity, environmental preconditions, and intergenerational horizons; and
     - treat species-only or population-only metrics as insufficient where systemic habitat condition and regenerative capacity are materially implicated.
 <a id="ecological-recovery-capacity-constitutional-c"></a>
@@ -3393,7 +3397,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - extinction cascades or threshold crossings framed as recoverable local disturbance; or
     - cumulative effects that foreclose restoration within intergenerationally relevant horizons.
   - **Secondary failure:**
-    - routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](core_03.040_band_continuity.md#self-healing) or [Reversibility](core_03.040_band_continuity.md#reversibility) where [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies;
+    - routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](subcore_03.075_band_continuity.md#self-healing) or [Reversibility](subcore_03.075_band_continuity.md#reversibility) where [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies;
     - treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or
     - using unqualified "recovery capacity" where this entry governs.
 
@@ -3413,21 +3417,21 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Eight §6.1](core_08.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) (8.000 §6.1) (*system alignment certification footprint evaluation*).
 - Owner floors: [Article I-B](core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*) and [Article XVII-C](core_04.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*).
 - Read with: the
-  - [Ecological Integrity, Footprint, and Sustainability cluster](core_03.040_band_continuity.md#ecological-footprint-semi-independent),
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity),
-  - [Sustainability](core_03.040_band_continuity.md#sustainability),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility),
-  - [Material Impact](core_03.050_band_oversight.md#material-impact),
-  - [Transparency](core_03.050_band_oversight.md#transparency), and
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity).
+  - [Ecological Integrity, Footprint, and Sustainability cluster](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent),
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility),
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency), and
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** Attributable environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_03.040_band_continuity.md#dependency) relationships, including flows of:
+  - **In scope:** Attributable environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](subcore_03.075_band_continuity.md#dependency) relationships, including flows of:
     - energy;
     - materials;
     - emissions;
@@ -3437,24 +3441,24 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - disclosure;
     - comparison; and
     - reduction.
-  - **Read with:** [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity) and [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions).
+  - **Read with:** [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) and [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions).
   - **Out of scope:**
-    - ordinary local amenity metrics with no attributable lifecycle or [Dependency](core_03.040_band_continuity.md#dependency) burden; or
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity) or [Sustainability](core_03.040_band_continuity.md#sustainability) as sibling concepts —
+    - ordinary local amenity metrics with no attributable lifecycle or [Dependency](subcore_03.075_band_continuity.md#dependency) burden; or
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) or [Sustainability](subcore_03.075_band_continuity.md#sustainability) as sibling concepts —
     those sit under their own homes when footprint disclosure is not the question.
 <a id="ecological-footprint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate systemically where externalized impacts are material. Reporting aligns with:
-    - [Transparency](core_03.050_band_oversight.md#transparency);
-    - [Material Impact](core_03.050_band_oversight.md#material-impact); and
-    - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity).
+    - [Transparency](subcore_03.085_band_oversight.md#transparency);
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact); and
+    - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
   - **Secondary measure:** co-measures that can defeat footprint disclosure even when nominal reporting exists:
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity);
-    - [Transparency](core_03.050_band_oversight.md#transparency); and
-    - [Material Impact](core_03.050_band_oversight.md#material-impact).
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
+    - [Transparency](subcore_03.085_band_oversight.md#transparency); and
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact).
 
     **Secondary assessment:** When evaluating the primary trace, apply:
     - **Article I-B** (*Ecological Footprint and Transparency*); and
@@ -3482,15 +3486,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1), [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
-- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_03.040_band_continuity.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity),
-  - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency), and
-  - [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation).
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency), and
+  - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation).
 
 </details>
 
@@ -3498,10 +3502,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** The capacity of a system, activity, institution, or governance pathway to maintain, over time:
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
     - resource continuity; and
-    - sentient [Wellbeing](core_03.040_band_continuity.md#wellbeing).
+    - sentient [Wellbeing](subcore_03.075_band_continuity.md#wellbeing).
   - **In scope — non-shifting condition:** without shifting material harm, depletion, or recovery burdens to:
     - other communities;
     - other systems;
@@ -3509,11 +3513,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - future sentients.
   - **Out of scope:**
     - short-horizon efficiency or growth metrics not claimed as sustainability; or
-    - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint) accounting alone, or [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility) as a sibling duty —
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) accounting alone, or [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility) as a sibling duty —
     those sit under their own homes when durable ecological and wellbeing continuity is not the claim.
 <a id="sustainability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test effects that are:
     - lifecycle;
@@ -3527,16 +3531,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - relocation of harm; or
     - short-horizon efficiency claims.
   - **Secondary measure:** co-measures that can defeat sustainability claims:
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity);
-    - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint);
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions); and
-    - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility).
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions); and
+    - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility).
 
     **Secondary assessment:** When evaluating the primary trace, require consistency with:
     - ecological integrity;
     - footprint transparency;
     - intergenerational responsibility; and
-    - [Materiality under Uncertainty](core_03.050_band_oversight.md#materiality-under-uncertainty).
+    - [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty).
 <a id="sustainability-c"></a>
 - **What must hold**
   - **Primary failure:** sustainability labels that mask:
@@ -3558,18 +3562,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
-- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_03.040_band_continuity.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity),
-  - [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity),
-  - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint),
-  - [Sustainability](core_03.040_band_continuity.md#sustainability),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity),
-  - [Language, Culture, and Heritage](core_03.040_band_continuity.md#language-culture-and-heritage),
-  - [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing),
-  - [Reversibility](core_03.040_band_continuity.md#reversibility), and
-  - [Materiality under Uncertainty](core_03.050_band_oversight.md#materiality-under-uncertainty).
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
+  - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity),
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity),
+  - [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage),
+  - [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility), and
+  - [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty).
 
 </details>
 
@@ -3581,12 +3585,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - future communities;
     - ecological systems;
     - cultural and heritage continuity;
-    - [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity); and
+    - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity); and
     - the durability of Rights-Floor conditions.
   - **Out of scope:** ordinary present-horizon planning with no reasonably foreseeable material effect on future sentients, communities, ecological systems, or Rights-Floor durability.
 <a id="intergenerational-responsibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate burdens that are:
     - delayed;
@@ -3601,20 +3605,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
     Scale to materiality under uncertainty:
     - precaution;
-    - [Reversibility](core_03.040_band_continuity.md#reversibility);
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility);
     - stewardship; and
     - disclosure.
   - **Secondary measure:** co-measures that can defeat intergenerational-responsibility claims even when present-horizon accounting appears satisfied:
-    - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity);
-    - [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity);
-    - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint);
-    - [Sustainability](core_03.040_band_continuity.md#sustainability);
-    - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions);
-    - [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity);
-    - [Language, Culture, and Heritage](core_03.040_band_continuity.md#language-culture-and-heritage);
-    - [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing);
-    - [Reversibility](core_03.040_band_continuity.md#reversibility); and
-    - [Materiality under Uncertainty](core_03.050_band_oversight.md#materiality-under-uncertainty).
+    - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
+    - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity);
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint);
+    - [Sustainability](subcore_03.075_band_continuity.md#sustainability);
+    - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions);
+    - [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity);
+    - [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage);
+    - [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing);
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility); and
+    - [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty).
 
     **Secondary assessment:** When evaluating the primary trace, require consistency with ecological integrity, recovery capacity, sustainability, cultural and heritage continuity, and materiality under uncertainty — including where future affected parties are not yet identified.
 <a id="intergenerational-responsibility-constitutional-c"></a>
@@ -3643,26 +3647,26 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - imminent or manifest grave harm;
   - systemic failure;
   - comparable exigent conditions; or
-  - external events qualifying under [Force Majeure](core_03.035_band_accountability.md#force-majeure).
+  - external events qualifying under [Force Majeure](subcore_03.070_band_accountability.md#force-majeure).
 - **Scope:** where joint invocation is met, temporary deviation from ordinary rules during exigent conditions.
 - **Invocation discipline:** every emergency measure must be:
   - time-limited;
   - documented;
-  - subject to [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) and independent review; and
-  - reversible or restorable where feasible under [Reversibility](core_03.040_band_continuity.md#reversibility).
+  - subject to [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) and independent review; and
+  - reversible or restorable where feasible under [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 - **Owner floor:** implements [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*); procedural cadence, continuation burdens, and restoration sequencing are owned there, and binding stakeholder-choice resolution by [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 - **Floor protection:** does not authorize pretextual, sustained, or indefinite invocation that bypasses:
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
-  - [Contestability](core_03.035_band_accountability.md#contestability) and audit;
-  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice); or
-  - the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability) and audit;
+  - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice); or
+  - the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
 
 **Topic group members.** This group comprises:
-- [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency) — the cluster head governing all emergency frameworks;
-- [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) — emergencies affecting the authorization of governing authority itself under the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer);
-- [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency) — emergencies within already-authorized systems under the Stakeholder System Participation layer;
-- [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — narrow exceptions for binding action before full deliberation where delay would cause imminent harm.
+- [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency) — the cluster head governing all emergency frameworks;
+- [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) — emergencies affecting the authorization of governing authority itself under the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer);
+- [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency) — emergencies within already-authorized systems under the Stakeholder System Participation layer;
+- [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — narrow exceptions for binding action before full deliberation where delay would cause imminent harm.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -3676,16 +3680,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([**Article XXVII** (*Timely Retrospective Review and Restorative Alignment*)](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment)); [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (**Necessity**-bounded emergency mechanics read with **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*)).
-- Cluster component: [Emergency and Contingency Cluster](core_03.040_band_continuity.md#emergency-and-contingency-cluster).
+- Cluster component: [Emergency and Contingency Cluster](subcore_03.075_band_continuity.md#emergency-and-contingency-cluster).
 - Read with:
-  - [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency),
-  - [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice),
-  - [Force Majeure](core_03.035_band_accountability.md#force-majeure),
-  - [Reversibility](core_03.040_band_continuity.md#reversibility),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional), and
-  - [Contestability](core_03.035_band_accountability.md#contestability). Owner floor:
+  - [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency),
+  - [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice),
+  - [Force Majeure](subcore_03.070_band_accountability.md#force-majeure),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional), and
+  - [Contestability](subcore_03.070_band_accountability.md#contestability). Owner floor:
   - [Chapter Twenty-Three §5.1: Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1).
 
 </details>
@@ -3694,31 +3698,31 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions, covering:
-    - triggers — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_03.035_band_accountability.md#force-majeure);
-    - layers — use [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain; and
+    - triggers — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](subcore_03.070_band_accountability.md#force-majeure);
+    - layers — use [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain; and
     - discipline —
       - time-limited;
       - documented;
-      - subject to [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional); and
-      - reversible where feasible under [Reversibility](core_03.040_band_continuity.md#reversibility).
-  - **Depends on:** [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), [Necessity](core_03.035_band_accountability.md#necessity), and [Proportionality](core_03.035_band_accountability.md#proportionality) — constitutive bounds under **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*). Emergency deviation must:
+      - subject to [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional); and
+      - reversible where feasible under [Reversibility](subcore_03.075_band_continuity.md#reversibility).
+  - **Depends on:** [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Necessity](subcore_03.070_band_accountability.md#necessity), and [Proportionality](subcore_03.070_band_accountability.md#proportionality) — constitutive bounds under **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*). Emergency deviation must:
     - be necessary under Safety and Truth; and
     - satisfy ongoing necessity and proportionality discipline.
   - **Out of scope:** ordinary scheduling, capacity, or process expedience with no imminent or manifest grave-harm, systemic-failure, or comparable exigent predicate.
 <a id="emergency-and-contingency-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate each emergency invocation as follows:
-    - apply [Proportionality](core_03.035_band_accountability.md#proportionality) and [Necessity](core_03.035_band_accountability.md#necessity);
-    - preserve [Contestability](core_03.035_band_accountability.md#contestability) and retrospective [Auditability](core_03.050_band_oversight.md#auditability);
-    - treat force-majeure claims under [Force Majeure](core_03.035_band_accountability.md#force-majeure);
+    - apply [Proportionality](subcore_03.070_band_accountability.md#proportionality) and [Necessity](subcore_03.070_band_accountability.md#necessity);
+    - preserve [Contestability](subcore_03.070_band_accountability.md#contestability) and retrospective [Auditability](subcore_03.085_band_oversight.md#auditability);
+    - treat force-majeure claims under [Force Majeure](subcore_03.070_band_accountability.md#force-majeure);
     - procedural cadence, continuation burdens, and restoration / rollback sequencing are owned by [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*);
-    - where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twenty-Six owner requirements; and
-    - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint).
+    - where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twenty-Six owner requirements; and
+    - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** pretextual or indefinite emergency or contingency invocation to bypass [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), required [Contestability](core_03.035_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
+  - **Primary failure:** pretextual or indefinite emergency or contingency invocation to bypass [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), required [Contestability](subcore_03.070_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
 
 ---
 
@@ -3730,16 +3734,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (authorization / emergency discipline); [Preamble §3.2](core_00.000_preamble.md#32-governance-layers) (Constitutional Contract Layer vs Stakeholder System Participation, where constitutional continuity is at stake).
-- Cluster component: [Emergency and Contingency Cluster](core_03.040_band_continuity.md#emergency-and-contingency-cluster).
+- Cluster component: [Emergency and Contingency Cluster](subcore_03.075_band_continuity.md#emergency-and-contingency-cluster).
 - Read with:
-  - [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency),
-  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
-  - [Contestability](core_03.035_band_accountability.md#contestability), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility). Owner floor:
+  - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency),
+  - [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility). Owner floor:
   - [Chapter Twenty-Three §5.1: Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1).
 
 </details>
@@ -3747,16 +3751,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <br>
 
 - **What it is**
-  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer), including:
+  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer), including:
     - continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture; and
-    - preservation of the possibility of lawful [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice).
+    - preservation of the possibility of lawful [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice).
   - **Out of scope:**
     - ordinary stakeholder-process expedience; or
-    - [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency) —
+    - [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency) —
     a sibling home for procedure inside already-authorized systems, not authorization of governing authority itself.
 <a id="constitutional-emergency-and-contingency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify that any constitutional-emergency measure:
     - is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways;
@@ -3764,14 +3768,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - is documented;
     - is independently reviewable;
     - is contestable on the [Chapter Twenty-Three §5.1 restore-challenge windows](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden);
-    - is reversible or restorable where feasible under [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency) and **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*); and
+    - is reversible or restorable where feasible under [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency) and **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*); and
     - routes permanent or durable changes through the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
 <a id="constitutional-emergency-and-contingency-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
     - creating, substituting for, amending, or durably restructuring constitutional authority under an emergency label;
     - emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response used to entrench a new governing authority;
-    - bypassing [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
+    - bypassing [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice);
     - evading Chapter Twenty-Nine validity procedures; or
     - normalizing emergency constitutional power after the emergency predicate fails.
 
@@ -3785,17 +3789,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([**Article XXVII** (*Timely Retrospective Review and Restorative Alignment*)](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment)); [Preamble — Stakeholder System Participation](core_00.000_preamble.md#preamble--foundational-requirements) (emergency within SSP layer).
-- Cluster component: [Emergency and Contingency Cluster](core_03.040_band_continuity.md#emergency-and-contingency-cluster).
+- Cluster component: [Emergency and Contingency Cluster](subcore_03.075_band_continuity.md#emergency-and-contingency-cluster).
 - Read with:
-  - [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency),
-  - [Stakeholder](core_03.055_band_participation.md#stakeholder),
-  - [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight),
-  - [Stakeholder Status and Weight](core_03.055_band_participation.md#stakeholder-status-and-weight),
-  - [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Contestability](core_03.035_band_accountability.md#contestability), and
-  - [Reversibility](core_03.040_band_continuity.md#reversibility). Owner floor:
+  - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency),
+  - [Stakeholder](subcore_03.090_band_participation.md#stakeholder),
+  - [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight),
+  - [Stakeholder Status and Weight](subcore_03.090_band_participation.md#stakeholder-status-and-weight),
+  - [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability), and
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility). Owner floor:
   - [Chapter Twenty-Three §5.1: Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1).
 
 </details>
@@ -3808,19 +3812,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - expedited or temporarily modified stakeholder-system procedure to prevent imminent material harm; and
     - preservation of affected-party notice, challenge, restoration, and proportionate participation on the [Chapter Twenty-Three §5.1 restore-challenge windows](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
   - **Out of scope:**
-    - ordinary [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) or participation outside an emergency predicate; or
-    - [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) —
+    - ordinary [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) or participation outside an emergency predicate; or
+    - [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) —
     a sibling home where authorization of governing authority is implicated.
 <a id="stakeholder-emergency-and-contingency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify that the measure:
     - stays within an already-authorized governance structure;
     - identifies affected stakeholders where feasible;
     - records deferred participation or access;
     - restores or reopens stakeholder-participation pathways on the [Chapter Twenty-Three §5.1 restore-challenge windows](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden); and
-    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
@@ -3828,7 +3832,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - suppressing challenge after stabilization;
     - deferring participation indefinitely;
     - emergency weighting or representation converted into a standing model; or
-    - stakeholder-system process substituted for [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
+    - stakeholder-system process substituted for [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
 
 ---
 
@@ -3840,17 +3844,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process); [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (**Necessity** / **Proportionality** for pre-deliberation timing).
-- Cluster component: [Emergency and Contingency Cluster](core_03.040_band_continuity.md#emergency-and-contingency-cluster).
-- Cluster member: [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency), especially [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency).
+- Cluster component: [Emergency and Contingency Cluster](subcore_03.075_band_continuity.md#emergency-and-contingency-cluster).
+- Cluster member: [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency), especially [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency).
 - Read with:
-  - [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated,
-  - [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
+  - [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated,
+  - [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice);
   - [Chapter Twenty-Three §5.1: Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1);
-  - [Proportionality](core_03.035_band_accountability.md#proportionality);
-  - [Necessity](core_03.035_band_accountability.md#necessity);
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional).
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality);
+  - [Necessity](subcore_03.070_band_accountability.md#necessity);
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional).
 
 
 </details>
@@ -3858,14 +3862,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <br>
 
 - **What it is**
-  - **In scope:** Specialized [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway, limited to:
+  - **In scope:** Specialized [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway, limited to:
     - cases where delay would cause **imminent material harm**;
     - a narrow timing exception within an already-authorized system, institution, or bounded decision domain; and
     - action that is not a general governance bypass.
   - **Out of scope:** ordinary expedience or convenience with no imminent-material-harm predicate for pre-deliberation action.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify that the action:
     - is minimal;
@@ -3873,14 +3877,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - is documented;
     - is independently reviewable;
     - is reversible or restorable where feasible;
-    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*), and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice); and
-    - where the same facts touch the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency).
+    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*), and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice); and
+    - where the same facts touch the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
     - ordinary expedience or convenience labeled as emergency;
     - sustained or inadequately reviewed pre-deliberation power;
-    - emergency action used to bypass [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer); or
+    - emergency action used to bypass [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer); or
     - pre-deliberation action offered as final stakeholder authorization without the required restoration, review, and reopening pathway.
   - Owner floor: [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 
@@ -3896,12 +3900,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **Joint invocation:** where dependency mapping, resource-flow transparency, or cross-system extraction is material.
 - **Scope:** where joint invocation is met, shared reliance and return-flow adequacy — the Continuity home for how much sentients and systems rely on one another, and what systems drawing value from shared foundations must put back.
 - **Owner floor:** implements [Article V](core_04.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) — typically [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) read with [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
-- **Cluster boundary:** [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_03.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record) remains outside this cluster — it is the Chapter Eight gate that may *check* these duties when shared-infrastructure reliance is in scope, not a member of the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
+- **Cluster boundary:** [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record) remains outside this cluster — it is the Chapter Eight gate that may *check* these duties when shared-infrastructure reliance is in scope, not a member of the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
 
 **Topic group members.** This group comprises:
-- [Dependency](core_03.040_band_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
-- [Cross-System Extraction](core_03.040_band_continuity.md#cross-system-extraction) — drawing money, goods, services, labor, compute, shared information, or other shared resource flows from infrastructure others also need, without putting proportionate support back;
-- [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
+- [Dependency](subcore_03.075_band_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
+- [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) — drawing money, goods, services, labor, compute, shared information, or other shared resource flows from infrastructure others also need, without putting proportionate support back;
+- [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
 
 *Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Read with [CS-4.335 — Resource allocation and funding stewardship](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship).
 
@@ -3919,18 +3923,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [6. System Stability Enabler: Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record), and
+  - [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record), and
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-- Cluster component: [Dependency and Cross-System Support](core_03.040_band_continuity.md#dependency-and-cross-system-support).
-- Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_03.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- Cluster component: [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support).
+- Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - Read with:
-  - [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support),
-  - [Wellbeing](core_03.040_band_continuity.md#wellbeing),
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance),
-  - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity), and
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) where certification gates shared-infrastructure reliance.
+  - [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support),
+  - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing),
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance),
+  - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity), and
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) where certification gates shared-infrastructure reliance.
 - Read with: [§18.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline) (*architecture that keeps dependencies explicit, minimal, and auditable*).
 
 </details>
@@ -3946,7 +3950,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - stability; or
     - participation.
 
-    A core input to [Wellbeing](core_03.040_band_continuity.md#wellbeing), [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), and [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance). Includes relationships that are:
+    A core input to [Wellbeing](subcore_03.075_band_continuity.md#wellbeing), [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance). Includes relationships that are:
     - direct or indirect;
     - chained across multiple systems;
     - asymmetric, where one side relies far more than the other;
@@ -3958,7 +3962,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - one-time contact without reliance for survival, function, stability, or participation.
 <a id="dependency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Measure the depth and durability of reliance across:
     - availability — whether the relied-on function is present when needed, and how often it is not;
@@ -3967,26 +3971,26 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - exit cost — what leaving the relationship requires, including lock-in and switching burdens.
 
     Apply that measurement to relationships that are direct, indirect, chained, asymmetric, or non-transparent, wherever they materially bear on:
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Material Impact](core_03.050_band_oversight.md#material-impact); and
-    - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity).
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact); and
+    - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity).
   - **Secondary measure:** co-measures that scale dependency obligations:
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Material Impact](core_03.050_band_oversight.md#material-impact);
-    - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity); and
-    - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance).
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact);
+    - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity); and
+    - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance).
 
     **Secondary assessment:** When evaluating the primary trace, scale obligations to the measured reliance by applying:
-    - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) — heavier governance where reliance is deeper, less substitutable, or harder to leave;
-    - [Materiality](core_03.050_band_oversight.md#materiality) — whether a given relationship crosses into material and must be carried into evaluation; and
-    - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) — supervision proportionate to the depth and asymmetry of the relationship.
+    - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) — heavier governance where reliance is deeper, less substitutable, or harder to leave;
+    - [Materiality](subcore_03.085_band_oversight.md#materiality) — whether a given relationship crosses into material and must be carried into evaluation; and
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) — supervision proportionate to the depth and asymmetry of the relationship.
 <a id="dependency-c"></a>
 - **What must hold**
-  - **Primary failure:** dependencies omitted from system evaluation where [materially implicated](core_03.050_band_oversight.md#materially-implicated) (where the dependency duty is materially in play), including:
+  - **Primary failure:** dependencies omitted from system evaluation where [materially implicated](subcore_03.085_band_oversight.md#materially-implicated) (where the dependency duty is materially in play), including:
     - chained or indirect relationships left unmapped;
     - asymmetric reliance recorded as if it were mutual; and
     - non-transparent or hard-to-leave relationships that evade disclosure.
-  - **Secondary failure:** dependency relationships treated as immaterial where [Materiality](core_03.050_band_oversight.md#materiality) or [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) would require incorporation.
+  - **Secondary failure:** dependency relationships treated as immaterial where [Materiality](subcore_03.085_band_oversight.md#materiality) or [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) would require incorporation.
 
 ---
 
@@ -3998,17 +4002,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Chapter Eight §6.3 Proportionate Cross-System Support Evaluation](core_08.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) (8.000 §6.3) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
-- Downstream: [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) (*the support owed where extraction is material*); [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
-- Cluster component: [Dependency and Cross-System Support](core_03.040_band_continuity.md#dependency-and-cross-system-support).
+- Downstream: [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) (*the support owed where extraction is material*); [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
+- Cluster component: [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support).
 - Read with:
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support),
-  - [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness), and
-  - [Sustainability](core_03.040_band_continuity.md#sustainability). For other senses of "extraction," see
-  - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational),
-  - [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary), and
-  - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint).
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support),
+  - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness), and
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability). For other senses of "extraction," see
+  - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational),
+  - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary), and
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint).
 
 </details>
 
@@ -4017,7 +4021,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: taking from shared infrastructure that others also need — money, goods, services, labor, compute, connectivity, shared information, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.*
 
 - **What it is**
-  - **In scope:** Drawing shared resource flows from infrastructure or foundational dependencies that other systems or sentients also rely on, without returning [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) adequate to keep that shared substrate working. Those flows include:
+  - **In scope:** Drawing shared resource flows from infrastructure or foundational dependencies that other systems or sentients also rely on, without returning [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) adequate to keep that shared substrate working. Those flows include:
     - money, fees, and public funding;
     - goods and services supplied through the shared substrate;
     - labor, including maintenance, upkeep, and support work, and source capacity;
@@ -4029,13 +4033,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - direct, or routed through intermediaries, vendors, or affiliated systems; and
     - shifted onto others, where upkeep, outage-response, or participation costs move onto systems or sentients relying on the same substrate.
   - **Out of scope:**
-    - data access, data use, sale to external parties, targeted advertising, and profiling, which are governed by [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational) and the Chapter Four privacy and info-sphere protections and evaluated under [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
-    - extraction of protected internal states, which is governed by [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary);
-    - the ecological burden of natural-resource use as such, which is evaluated under [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint), although draw on shared source capacity that other systems rely on stays in scope; and
+    - data access, data use, sale to external parties, targeted advertising, and profiling, which are governed by [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) and the Chapter Four privacy and info-sphere protections and evaluated under [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
+    - extraction of protected internal states, which is governed by [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary);
+    - the ecological burden of natural-resource use as such, which is evaluated under [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint), although draw on shared source capacity that other systems rely on stays in scope; and
     - ordinary commercial exchange that pays for the shared substrate at a rate that sustains it.
 <a id="cross-system-extraction-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Identify extraction from documented dependent-systems maps and auditable resource-flow records under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). For each shared or foundational dependency, measure:
     - draw — the volume and share of the shared resource flows the system consumes;
@@ -4043,11 +4047,11 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - shifted burden — upkeep, outage-response, or participation costs moved onto other relying systems or sentients; and
     - persistence — whether the imbalance is one-time or continues across cycles.
   - **Secondary measure:** co-measures that scale how much extraction matters:
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness); and
-    - [Sustainability](core_03.040_band_continuity.md#sustainability).
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness); and
+    - [Sustainability](subcore_03.075_band_continuity.md#sustainability).
 
-    **Secondary assessment:** When evaluating the primary trace, treat extraction as material where it persists and the substrate is critical, weakly substitutable, or asymmetrically relied on. Carry material extraction into [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) adequacy review and, where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, into [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification).
+    **Secondary assessment:** When evaluating the primary trace, treat extraction as material where it persists and the substrate is critical, weakly substitutable, or asymmetrically relied on. Carry material extraction into [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) adequacy review and, where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, into [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification).
 <a id="cross-system-extraction-c"></a>
 - **What must hold**
   - **Primary failure:** extraction left unidentified or understated in evaluation, including:
@@ -4071,17 +4075,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000)
   - [§6.3](core_08.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
 - Downstream: [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00.000_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
-- Cluster component: [Dependency and Cross-System Support](core_03.040_band_continuity.md#dependency-and-cross-system-support).
+- Cluster component: [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support).
 - Read with:
-  - [Cross-System Extraction](core_03.040_band_continuity.md#cross-system-extraction),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint),
-  - [Sustainability](core_03.040_band_continuity.md#sustainability),
-  - [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity),
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification), and
-  - [Market Concentration Threshold](core_03.035_band_accountability.md#market-concentration-threshold).
+  - [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability),
+  - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity),
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification), and
+  - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold).
 
 </details>
 
@@ -4097,13 +4101,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - contestability; and
     - long-term sustainability.
 
-    Adequacy is evaluated under [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness) and [Proportionality](core_03.035_band_accountability.md#proportionality), and scaled to:
+    Adequacy is evaluated under [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and [Proportionality](subcore_03.070_band_accountability.md#proportionality), and scaled to:
     - criticality of the shared or foundational dependency, shown by its [system class](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) where one is assigned;
-    - [Dependency](core_03.040_band_continuity.md#dependency) asymmetry between extracting and supporting systems;
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) asymmetry between extracting and supporting systems;
     - substitutability of the relied-on function;
     - availability of alternatives to it;
-    - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint) where material; and
-    - long-term [Sustainability](core_03.040_band_continuity.md#sustainability).
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) where material; and
+    - long-term [Sustainability](subcore_03.075_band_continuity.md#sustainability).
 
     This entry is the support **Article V-B** (*Cross-System Fairness and Sustainability*) requires of systems that extract from shared foundations. It does not prescribe:
     - equal splits;
@@ -4114,18 +4118,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - exchange outside shared-infrastructure or foundational-dependency scope.
 <a id="proportionate-cross-system-support-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material:
     - continuity of operations — keeping the shared or foundational dependency running under ordinary load;
     - remedy and resilience capacity — capacity to repair, restore, and absorb shock when the dependency fails or degrades, where extraction materially increases collective harm risk;
     - ecosystem reinvestment — resources returned to the shared infrastructure and interoperability layer that the extracting system and other systems rely on; and
-    - ecological burden offset or restoration — where material [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption document requires action, documented offset or restoration adequate to the burden.
+    - ecological burden offset or restoration — where material [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption document requires action, documented offset or restoration adequate to the burden.
   - **Secondary measure:** co-measures that can defeat adequacy even when transfers are formally documented:
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint);
-    - [Sustainability](core_03.040_band_continuity.md#sustainability); and
-    - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness).
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint);
+    - [Sustainability](subcore_03.075_band_continuity.md#sustainability); and
+    - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
 
     **Secondary assessment:** When evaluating the primary trace, scale required support to:
     - criticality of the shared or foundational dependency, shown by its system class where one is assigned;
@@ -4134,10 +4138,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - ecological footprint where material; and
     - long-term sustainability.
 
-    Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) on a contestable System Certification Record, not operator assertion alone.
+    Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) on a contestable System Certification Record, not operator assertion alone.
 <a id="proportionate-cross-system-support-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** persistent [Cross-System Extraction](core_03.040_band_continuity.md#cross-system-extraction) from shared infrastructure or foundational dependencies without proportionate cross-system support, including treating as satisfying this entry:
+  - **Primary failure:** persistent [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) from shared infrastructure or foundational dependencies without proportionate cross-system support, including treating as satisfying this entry:
     - one-time transfers;
     - symbolic or press-release support;
     - opaque transfers that cannot be audited; or
@@ -4159,13 +4163,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **Joint invocation:** where interaction effects, amplified materiality, or capture risk are material.
 - **Scope:** where joint invocation is met, how systems interact, when those interactions raise the stake, and when concentrated power twists the rules — the Continuity home for interaction effects, amplified materiality, and capture risk.
-- **Cluster boundary:** read with [System Boundaries, Integrity, and Exit](core_03.040_band_continuity.md#system-boundaries-integrity-and-exit) for scoping and exit, and with [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) where incentive design is in play.
+- **Cluster boundary:** read with [System Boundaries, Integrity, and Exit](subcore_03.075_band_continuity.md#system-boundaries-integrity-and-exit) for scoping and exit, and with [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) where incentive design is in play.
 
 **Topic group members.** This group comprises:
-- [Systemic](core_03.040_band_continuity.md#systemic) — effects that arise from interaction and [Dependency](core_03.040_band_continuity.md#dependency), not from one component alone;
-- [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality) — the threshold where interaction makes total [Material Impact](core_03.050_band_oversight.md#material-impact) exceed the sum of separable parts;
-- [System Capture](core_03.040_band_continuity.md#system-capture) — the integrity overlay: concentrated incentives or power that distort [Governance](core_03.035_band_accountability.md#governance), [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional), or [Contestability](core_03.035_band_accountability.md#contestability);
-- [Anti-Capture](core_03.040_band_continuity.md#anti-capture) — the prevention overlay: foreseeable safeguards, scaled to [material stake](core_00.000_preamble.md#material-stake), that keep that distortion from taking hold.
+- [Systemic](subcore_03.075_band_continuity.md#systemic) — effects that arise from interaction and [Dependency](subcore_03.075_band_continuity.md#dependency), not from one component alone;
+- [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality) — the threshold where interaction makes total [Material Impact](subcore_03.085_band_oversight.md#material-impact) exceed the sum of separable parts;
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) — the integrity overlay: concentrated incentives or power that distort [Governance](subcore_03.070_band_accountability.md#governance), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional), or [Contestability](subcore_03.070_band_accountability.md#contestability);
+- [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) — the prevention overlay: foreseeable safeguards, scaled to [material stake](core_00.000_preamble.md#material-stake), that keep that distortion from taking hold.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -4178,13 +4182,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Systemic Effects and Capture](core_03.040_band_continuity.md#systemic-effects-and-capture).
+- Cluster component: [Systemic Effects and Capture](subcore_03.075_band_continuity.md#systemic-effects-and-capture).
 - Read with:
-  - [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure), and
-  - [Materiality](core_03.050_band_oversight.md#materiality).
+  - [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure), and
+  - [Materiality](subcore_03.085_band_oversight.md#materiality).
 
 </details>
 
@@ -4193,7 +4197,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: effects that come from how systems interact and depend on each other — not from one part looked at alone.*
 
 - **What it is**
-  - **In scope:** Effects arising from system interactions and [Dependency](core_03.040_band_continuity.md#dependency) relationships, including effects that arise from:
+  - **In scope:** Effects arising from system interactions and [Dependency](subcore_03.075_band_continuity.md#dependency) relationships, including effects that arise from:
     - interaction between two or more components;
     - dependency-linked propagation across systems;
     - feedback between components and their dependencies; and
@@ -4203,22 +4207,22 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - effects without dependency-linked propagation across systems.
 <a id="systemic-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Trace interaction effects across:
     - components;
-    - [Dependency](core_03.040_band_continuity.md#dependency) relationships; and
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) relationships; and
     - feedback loops between them.
 
     Apply that trace wherever isolating single-element analysis would understate material interaction pathways for:
-    - [Materiality](core_03.050_band_oversight.md#materiality);
-    - [Risk](core_03.040_band_continuity.md#risk); or
-    - [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality).
+    - [Materiality](subcore_03.085_band_oversight.md#materiality);
+    - [Risk](subcore_03.075_band_continuity.md#risk); or
+    - [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality).
   - **Secondary measure:** co-measures that surface interaction effects single-component analysis would miss:
-    - [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality);
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure); and
-    - [Materiality](core_03.050_band_oversight.md#materiality).
+    - [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure); and
+    - [Materiality](subcore_03.085_band_oversight.md#materiality).
 
     **Secondary assessment:** When checking the primary findings, use each related measure wherever it matters in the case, and fold interaction and spread findings into the materiality and risk review — do not stop once each part looks fine on its own.
 <a id="systemic-c"></a>
@@ -4227,7 +4231,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - component-by-component evaluation that never assesses interaction;
     - dependency-linked propagation left unassessed; and
     - individually sub-threshold effects assessed only in isolation where accumulation is material.
-  - **Secondary failure:** closing evaluation on single-element analysis where [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality) or joint cluster discipline requires assessing interaction and propagation.
+  - **Secondary failure:** closing evaluation on single-element analysis where [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality) or joint cluster discipline requires assessing interaction and propagation.
 
 ---
 
@@ -4243,16 +4247,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)).
-- Cluster component: [Systemic Effects and Capture](core_03.040_band_continuity.md#systemic-effects-and-capture).
+- Cluster component: [Systemic Effects and Capture](subcore_03.075_band_continuity.md#systemic-effects-and-capture).
 - Read with:
-  - [Systemic](core_03.040_band_continuity.md#systemic),
-  - [Material Impact](core_03.050_band_oversight.md#material-impact),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality) (its systemic and irreversible effects domain),
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Risk](core_03.040_band_continuity.md#risk), and
-  - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure).
+  - [Systemic](subcore_03.075_band_continuity.md#systemic),
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) (its systemic and irreversible effects domain),
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Risk](subcore_03.075_band_continuity.md#risk), and
+  - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure).
 
 </details>
 
@@ -4261,26 +4265,26 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: when interactions make the total impact bigger than adding up each piece on its own — so looking only at parts understates what is at stake.*
 
 - **What it is**
-  - **In scope:** [Material Impact](core_03.050_band_oversight.md#material-impact) exceeding the sum of individual effects due to interaction, including amplification arising from:
-    - propagation across [Dependency](core_03.040_band_continuity.md#dependency) relationships;
+  - **In scope:** [Material Impact](subcore_03.085_band_oversight.md#material-impact) exceeding the sum of individual effects due to interaction, including amplification arising from:
+    - propagation across [Dependency](subcore_03.075_band_continuity.md#dependency) relationships;
     - feedback loops between components;
     - threshold crossings reached only in combination; and
     - concurrent effects that reinforce one another.
   - **Out of scope:** cases where adding up each separate impact is enough, because interaction does not make the total material effect larger than that sum.
 <a id="systemic-materiality-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Include propagation and feedback loops across:
-    - [Dependency](core_03.040_band_continuity.md#dependency) pathways;
-    - [Risk](core_03.040_band_continuity.md#risk) pathways; and
-    - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) pathways.
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) pathways;
+    - [Risk](subcore_03.075_band_continuity.md#risk) pathways; and
+    - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) pathways.
 
     Treat interaction as material when the combined effect is larger than what the separate parts would produce on their own, and record that excess as amplification.
   - **Secondary measure:** co-measures that scale obligations once amplification is established:
-    - [Materiality](core_03.050_band_oversight.md#materiality);
-    - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance); and
-    - [Systemic](core_03.040_band_continuity.md#systemic).
+    - [Materiality](subcore_03.085_band_oversight.md#materiality);
+    - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance); and
+    - [Systemic](subcore_03.075_band_continuity.md#systemic).
 
     **Secondary assessment:** When checking the primary findings, bring the amplified combined impact into materiality determination and class scaling — do not judge each contributing effect only against its own threshold.
 <a id="systemic-materiality-c"></a>
@@ -4288,7 +4292,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Primary failure:** failure to incorporate systemic effects where interaction amplifies material impact beyond the sum of separable parts, including:
     - assessing each effect only against its own threshold; and
     - omitting feedback or propagation pathways from the impact total.
-  - **Secondary failure:** treating amplified impact as immaterial where [Materiality](core_03.050_band_oversight.md#materiality) or [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) would require incorporation.
+  - **Secondary failure:** treating amplified impact as immaterial where [Materiality](subcore_03.085_band_oversight.md#materiality) or [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) would require incorporation.
 
 ---
 
@@ -4305,17 +4309,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (2.050 §19).
-- Cluster component: [Systemic Effects and Capture](core_03.040_band_continuity.md#systemic-effects-and-capture).
+- Cluster component: [Systemic Effects and Capture](subcore_03.075_band_continuity.md#systemic-effects-and-capture).
 - Read with:
-  - [Anti-Capture](core_03.040_band_continuity.md#anti-capture),
-  - [Capture of Resolution Pathways (named form)](core_03.040_band_continuity.md#capture-of-resolution-pathways),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Systemic](core_03.040_band_continuity.md#systemic),
-  - [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality), and
-  - [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance).
+  - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture),
+  - [Capture of Resolution Pathways (named form)](subcore_03.075_band_continuity.md#capture-of-resolution-pathways),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Systemic](subcore_03.075_band_continuity.md#systemic),
+  - [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality), and
+  - [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance).
 
 </details>
 
@@ -4327,15 +4331,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** Control or bias from concentrated incentives or power that distorts:
-    - [Governance](core_03.035_band_accountability.md#governance);
-    - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional); or
-    - [Contestability](core_03.035_band_accountability.md#contestability).
+    - [Governance](subcore_03.070_band_accountability.md#governance);
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional); or
+    - [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **Named form — Capture of Resolution Pathways:** Concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities that decide Contingent Claim settlements or similar rights-relevant outcomes. These decision-makers are called “outcome-resolution sources” in [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets). Ordinary market competition, disclosed advocacy, or non-controlling participation without such bias is out of scope.
   - **Out of scope:** ordinary concentrated influence, or disclosed legitimate authority that does not distort governance, oversight, contestability, or outcome-resolution sources.
 <a id="system-capture-a"></a>
 <a id="capture-of-resolution-pathways-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Detect influence and outcome distortion. Concentration indicators include:
     - lasting control of a large share of decisions, resources, or outcomes;
@@ -4344,13 +4348,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - hidden routes by which beneficial control is actually held or exercised;
     - for the named form, whether outcome-resolution sources are independent of parties with a material stake, whether multiple sources are used where feasible, whether dispute pathways are contestable, and whether market-making, settlement, and adjudication roles are separated where conflicts could distort outcomes.
   - **Secondary measure:** co-measures that expose capture even where formal governance appears intact:
-    - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment);
-    - [Systemic](core_03.040_band_continuity.md#systemic);
-    - [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality); and
-    - [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance);
-    - for the named form, [Timely Resolution](core_03.035_band_accountability.md#timely-resolution), [Contestability](core_03.035_band_accountability.md#contestability), [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional), and [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence), which tests whether settlement prices, odds, or resolution metrics substitute for independent outcome-resolution discipline.
+    - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment);
+    - [Systemic](subcore_03.075_band_continuity.md#systemic);
+    - [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality); and
+    - [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance);
+    - for the named form, [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), [Contestability](subcore_03.070_band_accountability.md#contestability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional), and [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence), which tests whether settlement prices, odds, or resolution metrics substitute for independent outcome-resolution discipline.
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](core_03.040_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways (named form)](core_03.040_band_continuity.md#capture-of-resolution-pathways) where outcome-resolution pathways are [materially implicated](core_03.050_band_oversight.md#materially-implicated) (where those outcome-resolution pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
+    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways (named form)](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) where outcome-resolution pathways are [materially implicated](subcore_03.085_band_oversight.md#materially-implicated) (where those outcome-resolution pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
 <a id="system-capture-c"></a>
 <a id="capture-of-resolution-pathways-c"></a>
 - **What must hold**
@@ -4358,7 +4362,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - governance;
     - adjudication; or
     - resource allocation.
-  - **Secondary failure:** failure to detect, disclose, and mitigate capture where [materially implicated](core_03.050_band_oversight.md#materially-implicated) (where capture is materially in play).
+  - **Secondary failure:** failure to detect, disclose, and mitigate capture where [materially implicated](subcore_03.085_band_oversight.md#materially-implicated) (where capture is materially in play).
   - **Named-form failure:** parties with a material stake control or bias an outcome-resolution source, or make the resolution system impossible to audit; a capture label that does not reflect actual bias or control is also non-compliant. Where materially implicated, the system must satisfy this definition's obligations. Treating settlement prices, odds, or resolution metrics as decisive when Proxy Divergence is reasonably observable is also a failure.
 
 ---
@@ -4379,17 +4383,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [§19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection));
   - [Article XIII-A](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
   - [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
-- Cluster component: [Systemic Effects and Capture](core_03.040_band_continuity.md#systemic-effects-and-capture).
+- Cluster component: [Systemic Effects and Capture](subcore_03.075_band_continuity.md#systemic-effects-and-capture).
 - Read with:
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Foreseeability](core_03.050_band_oversight.md#foreseeability),
-  - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance), and
-  - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways).
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Foreseeability](subcore_03.085_band_oversight.md#foreseeability),
+  - [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance), and
+  - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways).
 
 </details>
 
@@ -4398,50 +4402,50 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: do not wait for capture to show up. Where concentrated power or incentives could twist the rules, build the foreseeable safeguards first — separate checkers from actors, keep more than one way to challenge, and make hidden control auditable — scaled to what is actually at stake.*
 
 - **What it is**
-  - **In scope:** The duty to install and keep in force foreseeable structural safeguards that prevent [System Capture](core_03.040_band_continuity.md#system-capture) of:
-    - [Governance](core_03.035_band_accountability.md#governance);
-    - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional); or
-    - [Contestability](core_03.035_band_accountability.md#contestability).
+  - **In scope:** The duty to install and keep in force foreseeable structural safeguards that prevent [System Capture](subcore_03.075_band_continuity.md#system-capture) of:
+    - [Governance](subcore_03.070_band_accountability.md#governance);
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional); or
+    - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
-    Safeguards are foreseeable when [Foreseeability](core_03.050_band_oversight.md#foreseeability) would identify the capture pathway under [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), scaled to [material stake](core_00.000_preamble.md#material-stake). Where that duty is met, Anti-Capture includes:
+    Safeguards are foreseeable when [Foreseeability](subcore_03.085_band_oversight.md#foreseeability) would identify the capture pathway under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), scaled to [material stake](core_00.000_preamble.md#material-stake). Where that duty is met, Anti-Capture includes:
     - separating the one who acted from the one who checks ([Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement));
     - keeping plural, structurally independent detection and review paths ([Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection));
-    - disclosing beneficial control and influence routes in an [Auditability](core_03.050_band_oversight.md#auditability)-compatible form;
-    - keeping [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
+    - disclosing beneficial control and influence routes in an [Auditability](subcore_03.085_band_oversight.md#auditability)-compatible form;
+    - keeping [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
     - keeping contest and independent review real, including the interpretive-body floors in [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
   - **Out of scope:**
-    - detecting or labeling capture that has already taken hold — that is [System Capture](core_03.040_band_continuity.md#system-capture);
-    - after-the-fact correction once capture is verified — that is [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) and [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty);
+    - detecting or labeling capture that has already taken hold — that is [System Capture](subcore_03.075_band_continuity.md#system-capture);
+    - after-the-fact correction once capture is verified — that is [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) and [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty);
     - ordinary disclosed legitimate authority that does not distort governance, oversight, or contestability;
     - paper policies, labels, or “best practice” claims that do not actually prevent capture; and
-    - unbounded speculative controls on non-material stakes — depth scales under [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) and [Proportionality](core_03.035_band_accountability.md#proportionality).
+    - unbounded speculative controls on non-material stakes — depth scales under [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) and [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 <a id="anti-capture-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Ask whether foreseeable capture pathways were identified before they hardened, and whether installed safeguards would still work under [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), including the named form’s settlement and rights-relevant resolution sources. Check, scaled to [material stake](core_00.000_preamble.md#material-stake):
-    - whether acting and checking remain separated on [materially binding acts](core_03.035_band_accountability.md#materially-binding-act);
+    **Primary assessment:** Ask whether foreseeable capture pathways were identified before they hardened, and whether installed safeguards would still work under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), including the named form’s settlement and rights-relevant resolution sources. Check, scaled to [material stake](core_00.000_preamble.md#material-stake):
+    - whether acting and checking remain separated on [materially binding acts](subcore_03.070_band_accountability.md#materially-binding-act);
     - whether more than one independent path can detect, review, and challenge;
     - whether beneficial control and influence routes are disclosed and auditable; and
     - whether incentives cannot buy the referee or hollow the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
   - **Secondary measure:** co-measures that show whether prevention is real or only claimed:
-    - [Foreseeability](core_03.050_band_oversight.md#foreseeability);
-    - [System Capture](core_03.040_band_continuity.md#system-capture);
-    - [Contestability](core_03.035_band_accountability.md#contestability);
-    - [Auditability](core_03.050_band_oversight.md#auditability); and
-    - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment).
+    - [Foreseeability](subcore_03.085_band_oversight.md#foreseeability);
+    - [System Capture](subcore_03.075_band_continuity.md#system-capture);
+    - [Contestability](subcore_03.070_band_accountability.md#contestability);
+    - [Auditability](subcore_03.085_band_oversight.md#auditability); and
+    - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment).
 
-    **Secondary assessment:** When evaluating the primary trace, treat missing foreseeable safeguards as an Anti-Capture failure even if [System Capture](core_03.040_band_continuity.md#system-capture) distortion is not yet visible. Read with [Capture of Resolution Pathways (named form)](core_03.040_band_continuity.md#capture-of-resolution-pathways) where settlement or rights-relevant resolution sources are [materially implicated](core_03.050_band_oversight.md#materially-implicated).
+    **Secondary assessment:** When evaluating the primary trace, treat missing foreseeable safeguards as an Anti-Capture failure even if [System Capture](subcore_03.075_band_continuity.md#system-capture) distortion is not yet visible. Read with [Capture of Resolution Pathways (named form)](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) where settlement or rights-relevant resolution sources are [materially implicated](subcore_03.085_band_oversight.md#materially-implicated).
 <a id="anti-capture-c"></a>
 - **What must hold**
   - **Primary failure:** failing to install or keep foreseeable anti-capture safeguards where capture risk is material, including:
     - treating “we will respond if capture appears” as a substitute for prevention;
-    - claiming a capture pathway was unforeseeable without the [Foreseeability](core_03.050_band_oversight.md#foreseeability) analysis; and
+    - claiming a capture pathway was unforeseeable without the [Foreseeability](subcore_03.085_band_oversight.md#foreseeability) analysis; and
     - scaling safeguards below what [material stake](core_00.000_preamble.md#material-stake) requires.
   - **Secondary failure:** counting as Anti-Capture:
     - paper policies, unused recusal rules, or captured checkers;
     - a single actor, bloc, or vendor as the only practical path to detect, review, or challenge; or
-    - a “best practice” or certification label that does not actually prevent [System Capture](core_03.040_band_continuity.md#system-capture).
+    - a “best practice” or certification label that does not actually prevent [System Capture](subcore_03.075_band_continuity.md#system-capture).
 
 ---
 
@@ -4453,20 +4457,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **Joint invocation:** where what counts as the system, where its edges are drawn, what published scope documents claim authority for, or whether exit or corrective action has been cut off, is material.
 - **Scope:** where joint invocation is met, how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether sentients still have real ways to change it or leave it.
-- **Floor protection:** drawing boundaries or framing a [System Charter](core_03.040_band_continuity.md#system-charter) must not shrink that full-scope look, or defeat [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) or [Contestability](core_03.035_band_accountability.md#contestability).
+- **Floor protection:** drawing boundaries or framing a [System Charter](subcore_03.075_band_continuity.md#system-charter) must not shrink that full-scope look, or defeat [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) or [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 **Topic group members.** This group comprises:
-- [System](core_03.040_band_continuity.md#system) — structured technical, organizational, and governance components producing effects on sentients, environments, or other systems;
-- [System Boundaries](core_03.040_band_continuity.md#system-boundaries) — functional scope defined by material impact and dependency rather than formal or jurisdictional limits;
-- [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity) — accuracy and stability in boundary definition against manipulation or silent exclusion;
-- [Process](core_03.040_band_continuity.md#process) — a repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty is carried out, judged as part of its system;
-- [Institution](core_03.040_band_continuity.md#institution) — a durable holder of authority or of an organized role, defined by function and continuing through turnover of its occupants;
-- [System Charter](core_03.040_band_continuity.md#system-charter) — the published, amendable scope document of one system, stating what it claims authority to do, subject to scheduled alignment review;
-- [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) — the published, amendable scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them;
-- [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter) — the founding document by which a political community authorizes those who govern it, adopted with recorded assent;
-- [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) — the published, versioned placement of seats kept with a System Charter or Institutional Charter, naming who may hold each seat, who substitutes, and the independent route;
-- [Charter Pointer](core_03.040_band_continuity.md#charter-pointer) — the reference a System Charter or Institutional Charter uses to name another published document or provision instead of copying it, which must resolve to the current published version;
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) — conditions where exit or corrective action is foreclosed, negating meaningful agency or contestability.
+- [System](subcore_03.075_band_continuity.md#system) — structured technical, organizational, and governance components producing effects on sentients, environments, or other systems;
+- [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) — functional scope defined by material impact and dependency rather than formal or jurisdictional limits;
+- [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity) — accuracy and stability in boundary definition against manipulation or silent exclusion;
+- [Process](subcore_03.075_band_continuity.md#process) — a repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty is carried out, judged as part of its system;
+- [Institution](subcore_03.075_band_continuity.md#institution) — a durable holder of authority or of an organized role, defined by function and continuing through turnover of its occupants;
+- [System Charter](subcore_03.075_band_continuity.md#system-charter) — the published, amendable scope document of one system, stating what it claims authority to do, subject to scheduled alignment review;
+- [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) — the published, amendable scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them;
+- [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter) — the founding document by which a political community authorizes those who govern it, adopted with recorded assent;
+- [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) — the published, versioned placement of seats kept with a System Charter or Institutional Charter, naming who may hold each seat, who substitutes, and the independent route;
+- [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) — the reference a System Charter or Institutional Charter uses to name another published document or provision instead of copying it, which must resolve to the current published version;
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) — conditions where exit or corrective action is foreclosed, negating meaningful agency or contestability.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -4480,30 +4484,30 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **In scope:** A structured set of components producing effects on sentients, environment(s), or other systems, including:
     - technical components;
     - organizational components; and
-    - [Governance](core_03.035_band_accountability.md#governance) components.
+    - [Governance](subcore_03.070_band_accountability.md#governance) components.
   - **Out of scope:**
     - unstructured ad-hoc activity; and
     - named entities without a structured set of components producing effects on sentients, environments, or other systems.
 <a id="system-definition-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Identify the system by what it actually does, including:
     - inputs, outputs, and processes;
-    - [Dependency](core_03.040_band_continuity.md#dependency) relationships;
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) relationships;
     - temporal effects; and
-    - system interactions within [System Boundaries](core_03.040_band_continuity.md#system-boundaries).
-  - **Secondary measure:** [System Boundaries](core_03.040_band_continuity.md#system-boundaries) and [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity) — co-measures that fix the evaluation scope of the system.
+    - system interactions within [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries).
+  - **Secondary measure:** [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) and [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity) — co-measures that fix the evaluation scope of the system.
 
     **Secondary assessment:** When evaluating the primary trace, evaluate the system in full functional scope under those two entries; formal or organizational identity does not set the evaluated scope.
 <a id="system-definition-c"></a>
 - **What must hold**
-  - Systems must be evaluated in full functional scope under [System Boundaries](core_03.040_band_continuity.md#system-boundaries) and [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity).
+  - Systems must be evaluated in full functional scope under [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) and [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity).
   - **Primary failure:** evaluating a system on less than its full functional scope, including by omitting materially connected:
     - actors;
     - processes;
     - dependencies; or
-    - effects identified under [System Boundaries](core_03.040_band_continuity.md#system-boundaries) and [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity).
+    - effects identified under [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) and [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity).
 
 ---
 
@@ -4512,7 +4516,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 #### System Boundaries
 
 - **What it is**
-  - **In scope:** Functional scope defined by [Material Impact](core_03.050_band_oversight.md#material-impact) and [Dependency](core_03.040_band_continuity.md#dependency), covering:
+  - **In scope:** Functional scope defined by [Material Impact](subcore_03.085_band_oversight.md#material-impact) and [Dependency](subcore_03.075_band_continuity.md#dependency), covering:
     - actors and processes that materially contribute to system effects;
     - dependencies the system relies on or supplies; and
     - effects that reach sentients, environments, or other systems.
@@ -4521,20 +4525,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - legal-entity borders that exclude material impacts and dependencies from functional scope.
 <a id="system-boundaries-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Draw scope from material impact and dependency rather than formal or jurisdictional lines. Do not rely on formal or jurisdictional boundaries where doing so would defeat:
-    - [Materiality](core_03.050_band_oversight.md#materiality); or
-    - [Accountability](core_03.005_apex_accountability_leg.md#accountability).
-  - **Secondary measure:** [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity), [Materiality](core_03.050_band_oversight.md#materiality), and [Accountability](core_03.005_apex_accountability_leg.md#accountability) — co-measures that test whether the drawn boundary holds.
+    - [Materiality](subcore_03.085_band_oversight.md#materiality); or
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
+  - **Secondary measure:** [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity), [Materiality](subcore_03.085_band_oversight.md#materiality), and [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) — co-measures that test whether the drawn boundary holds.
 
     **Secondary assessment:** When evaluating the primary trace, test the drawn boundary against those co-measures and record any materially connected element placed outside it.
 <a id="system-boundaries-c"></a>
 - **What must hold**
   - **Primary failure:** exclusion of material components from functional scope under:
-    - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity);
-    - [Materiality](core_03.050_band_oversight.md#materiality); and
-    - [Accountability](core_03.005_apex_accountability_leg.md#accountability).
+    - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity);
+    - [Materiality](subcore_03.085_band_oversight.md#materiality); and
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
   - **Secondary failure:** relying on formal or jurisdictional lines to set scope where material impacts or dependencies fall outside them.
 
 ---
@@ -4544,7 +4548,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 #### System Boundary Integrity
 
 - **What it is**
-  - **In scope:** Accuracy and stability of [System Boundaries](core_03.040_band_continuity.md#system-boundaries) definition, requiring that the drawn boundary is:
+  - **In scope:** Accuracy and stability of [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) definition, requiring that the drawn boundary is:
     - auditable;
     - stable over time; and
     - contestable by materially affected parties.
@@ -4554,13 +4558,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - cannot be contested.
 <a id="system-boundary-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Detect manipulation or exclusion that would distort:
-    - [Materiality](core_03.050_band_oversight.md#materiality);
-    - [Dependency](core_03.040_band_continuity.md#dependency); or
-    - [Risk](core_03.040_band_continuity.md#risk).
-  - **Secondary measure:** [System Boundaries](core_03.040_band_continuity.md#system-boundaries) and [Materiality](core_03.050_band_oversight.md#materiality) — co-measures that show whether a boundary change tracks function or evasion.
+    - [Materiality](subcore_03.085_band_oversight.md#materiality);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency); or
+    - [Risk](subcore_03.075_band_continuity.md#risk).
+  - **Secondary measure:** [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) and [Materiality](subcore_03.085_band_oversight.md#materiality) — co-measures that show whether a boundary change tracks function or evasion.
 
     **Secondary assessment:** When evaluating the primary trace, compare successive boundary definitions over time and require a recorded, contestable rationale for any change that narrows evaluated scope.
 <a id="system-boundary-integrity-c"></a>
@@ -4583,15 +4587,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [System](core_03.040_band_continuity.md#system),
-  - [System Boundaries](core_03.040_band_continuity.md#system-boundaries),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Due Process](core_03.035_band_accountability.md#due-process),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness),
-  - [Timely Resolution](core_03.035_band_accountability.md#timely-resolution),
-  - [Attributable Action](core_03.035_band_accountability.md#attributable-action), and
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification).
-- Distinguish: [Due Process](core_03.035_band_accountability.md#due-process) and [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) are standards a process must meet; they do not define what a process is. A forum-to-forum transfer under Chapter Twenty-Two is a routing act, not a Process in this sense.
+  - [System](subcore_03.075_band_continuity.md#system),
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Due Process](subcore_03.070_band_accountability.md#due-process),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness),
+  - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution),
+  - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action), and
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification).
+- Distinguish: [Due Process](subcore_03.070_band_accountability.md#due-process) and [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) are standards a process must meet; they do not define what a process is. A forum-to-forum transfer under Chapter Twenty-Two is a routing act, not a Process in this sense.
 
 </details>
 
@@ -4606,20 +4610,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     3. someone can be named who performs each step, and a process record shows that it ran.
   - **Out of scope:**
     - one-off or ad-hoc action with no repeatable sequence;
-    - a standard or value that a Process must meet, such as [Due Process](core_03.035_band_accountability.md#due-process) or [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness);
-    - a bounded set of components in operation, which is a [System](core_03.040_band_continuity.md#system); and
+    - a standard or value that a Process must meet, such as [Due Process](subcore_03.070_band_accountability.md#due-process) or [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness);
+    - a bounded set of components in operation, which is a [System](subcore_03.075_band_continuity.md#system); and
     - a durable holder of authority, such as an office or organization, which is not defined here.
 <a id="process-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Identify the Process by what is actually done, not by its label. Find the steps, the clocks, the process records, and each handoff, and test whether:
     1. each step is performed by an identifiable actor and leaves a process record;
     2. the clocks and handoffs match those that are published; and
     3. relabeling, rerouting, splitting, or moving the sequence to another owner leaves every requirement that applied to it in place.
-  - **Secondary measure:** [System Boundaries](core_03.040_band_continuity.md#system-boundaries) and [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) — co-measures that place the Process inside the system it serves and test its clocks.
+  - **Secondary measure:** [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) and [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) — co-measures that place the Process inside the system it serves and test its clocks.
 
-    **Secondary assessment:** When evaluating the primary trace, evaluate the Process in the full functional scope of the [System](core_03.040_band_continuity.md#system) it runs in. A Process is held to that system's class and is not classified or certified separately.
+    **Secondary assessment:** When evaluating the primary trace, evaluate the Process in the full functional scope of the [System](subcore_03.075_band_continuity.md#system) it runs in. A Process is held to that system's class and is not classified or certified separately.
 <a id="process-c"></a>
 - **What must hold**
   - Every requirement that applies to a Process stays in force when it is relabeled, rerouted, split, merged, outsourced, or transferred to another owner.
@@ -4637,16 +4641,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Downstream: [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6) (*duties follow the work through reorganization*); [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) and [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*), for institutional design, authority, and redress mechanics.
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [System](core_03.040_band_continuity.md#system),
-  - [Process](core_03.040_band_continuity.md#process),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Stewardship](core_03.040_band_continuity.md#stewardship),
-  - [Institutional Development](core_03.040_band_continuity.md#institutional-development),
-  - [System Creation](core_03.055_band_participation.md#system-creation),
-  - [Business Creation](core_03.055_band_participation.md#business-creation),
-  - [Material Control Line](core_03.035_band_accountability.md#material-control-line), and
-  - [Attributable Action](core_03.035_band_accountability.md#attributable-action).
+  - [System](subcore_03.075_band_continuity.md#system),
+  - [Process](subcore_03.075_band_continuity.md#process),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Stewardship](subcore_03.075_band_continuity.md#stewardship),
+  - [Institutional Development](subcore_03.075_band_continuity.md#institutional-development),
+  - [System Creation](subcore_03.090_band_participation.md#system-creation),
+  - [Business Creation](subcore_03.090_band_participation.md#business-creation),
+  - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line), and
+  - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action).
 - Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Twenty-Six](core_26.000_governance.md) (26.000) treaty, compact, or Constitutional Charter documents that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (formation), [CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) (staffing), [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervision), and [CI-18.210](corpus_institutions/ci_18.210_institutional_failure_dissolution.md#ci-18210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) (dissolution), not in this entry.
 
 </details>
@@ -4662,18 +4666,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     3. an accountable office or steward can be identified for what it does, including a successor when it is reorganized.
   - **Out of scope:**
     - a one-time or ad-hoc group with no continuing mandate or offices;
-    - a [System](core_03.040_band_continuity.md#system), which is a set of components in operation. An Institution may run Systems but is not one;
-    - a [Process](core_03.040_band_continuity.md#process), which is a repeatable sequence. An Institution may own Processes but is not one; and
+    - a [System](subcore_03.075_band_continuity.md#system), which is a set of components in operation. An Institution may run Systems but is not one;
+    - a [Process](subcore_03.075_band_continuity.md#process), which is a repeatable sequence. An Institution may own Processes but is not one; and
     - a single sentient acting alone, even when that sentient holds an office. The office is the Institution; the occupant is a steward of it.
 <a id="institution-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
 
     **Primary assessment:** Identify the Institution by what it actually decides, holds, and controls, not by its label or legal form. Find the mandate, the offices, the stewards, and the successor, and test whether:
     1. each use of authority can be attributed to an accountable office or steward;
-    2. the mandate shown in practice matches the published [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) or equivalent document; and
+    2. the mandate shown in practice matches the published [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) or equivalent document; and
     3. reorganizing, renaming, splitting, merging, or reincorporating the Institution leaves every duty that applied to it in place.
-  - **Secondary measure:** [Governance](core_03.035_band_accountability.md#governance) and [Material Control Line](core_03.035_band_accountability.md#material-control-line) — co-measures that test who actually directs the Institution.
+  - **Secondary measure:** [Governance](subcore_03.070_band_accountability.md#governance) and [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) — co-measures that test who actually directs the Institution.
 
     **Secondary assessment:** When evaluating the primary trace, identify any actor that holds real control without holding the formal office, and evaluate the Institution by where authority actually sits.
 <a id="institution-c"></a>
@@ -4701,20 +4705,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [System](core_03.040_band_continuity.md#system),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
-  - [Charter Pointer](core_03.040_band_continuity.md#charter-pointer),
-  - [System Boundaries](core_03.040_band_continuity.md#system-boundaries),
-  - [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity),
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [System Creation](core_03.055_band_participation.md#system-creation),
-  - [Business Creation](core_03.055_band_participation.md#business-creation),
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance), and
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
-- Distinguish: a System Charter covers one System. An Institution that runs more than one System publishes an [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), which contains the System Charters. The founding document of a political community is a [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter), a different thing. A System Charter may **point to** published [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) process rules; it does not carry that process substance.
+  - [System](subcore_03.075_band_continuity.md#system),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map),
+  - [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer),
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries),
+  - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity),
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [System Creation](subcore_03.090_band_participation.md#system-creation),
+  - [Business Creation](subcore_03.090_band_participation.md#business-creation),
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance), and
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
+- Distinguish: a System Charter covers one System. An Institution that runs more than one System publishes an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), which contains the System Charters. The founding document of a political community is a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter), a different thing. A System Charter may **point to** published [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) process rules; it does not carry that process substance.
 
 </details>
 
@@ -4723,40 +4727,40 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that chartered scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and scheduled review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.*
 
 - **What it is**
-  - **In scope:** The published, amendable scope document for one [System](core_03.040_band_continuity.md#system), including a business or other stewarded organizational form that is itself a System. A System Charter states:
+  - **In scope:** The published, amendable scope document for one [System](subcore_03.075_band_continuity.md#system), including a business or other stewarded organizational form that is itself a System. A System Charter states:
     - claimed purpose;
     - in-scope activities;
     - material out-of-scope limits;
     - affected communities or dependencies where material;
     - amendment authority;
-    - the [Charter Role Map](core_03.040_band_continuity.md#charter-role-map), or a [Charter Pointer](core_03.040_band_continuity.md#charter-pointer) to the published document that is the Charter Role Map;
-    - the **record-opening authority** and **record custodian** for [Standing Records](core_03.035_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) carries as its entries for Standing Records ([Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](core_03.040_band_continuity.md#chartered-party) is itself the subject ([Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority)); and
-    - where [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials and the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file).
+    - the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), or a [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) to the published document that is the Charter Role Map;
+    - the **record-opening authority** and **record custodian** for [Standing Records](subcore_03.070_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) carries as its entries for Standing Records ([Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](subcore_03.075_band_continuity.md#chartered-party) is itself the subject ([Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority)); and
+    - where [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials and the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file).
 
-    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](core_03.040_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](core_03.055_band_participation.md#system-creation) and [Business Creation](core_03.055_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (adopt and amend) and [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervise) under **Chapter Thirty** incorporation discipline.
+    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](subcore_03.090_band_participation.md#system-creation) and [Business Creation](subcore_03.090_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (adopt and amend) and [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervise) under **Chapter Thirty** incorporation discipline.
   - **Out of scope:**
-    - an [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), which gathers the System Charters of an Institution that runs more than one System and states why it runs them;
-    - a [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter), the founding document of a political community; or
-    - the operative [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the System Charter points to, under [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+    - an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), which gathers the System Charters of an Institution that runs more than one System and states why it runs them;
+    - a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter), the founding document of a political community; or
+    - the operative [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the System Charter points to, under [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="system-charter-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a governing System Charter exists where [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) requires one (a System of Class L or higher, or a Class P System whose operator asserts constitutional compliance);
     2. stated purpose and in-scope / out-of-scope limits are specific enough to test against observed operation;
     3. reviews are held on the class cadence, and amendment records match class, dependency, and risk;
     4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening;
-    5. System Charter claims do not understate [System Boundaries](core_03.040_band_continuity.md#system-boundaries) defined by [Material Impact](core_03.050_band_oversight.md#material-impact) and [Dependency](core_03.040_band_continuity.md#dependency); and
-    6. where binding stakeholder choice is in admission scope, the System Charter points to usable published process rules rather than treating its text as a substitute for [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice); and
-    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the [Chartered Party](core_03.040_band_continuity.md#chartered-party)'s own [Material Control Line](core_03.035_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) is live. A System Charter that leaves any of them unnamed fails this item, and its Chartered Party cannot issue valid Standing Records for the affected scope until it is resolved ([Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)).
+    5. System Charter claims do not understate [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) defined by [Material Impact](subcore_03.085_band_oversight.md#material-impact) and [Dependency](subcore_03.075_band_continuity.md#dependency); and
+    6. where binding stakeholder choice is in admission scope, the System Charter points to usable published process rules rather than treating its text as a substitute for [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice); and
+    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the [Chartered Party](subcore_03.075_band_continuity.md#chartered-party)'s own [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) is live. A System Charter that leaves any of them unnamed fails this item, and its Chartered Party cannot issue valid Standing Records for the affected scope until it is resolved ([Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)).
 <a id="system-charter-c"></a>
 - **What must hold**
   - **Primary failure:**
     - operating materially outside chartered scope while the System Charter is offered as current authorization; or
-    - System Charter text offered as a substitute for [System Boundaries](core_03.040_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
-  - **Secondary failure:** a required System Charter that has not been published, an overdue scheduled review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) to the published binding stakeholder-choice process rules;
-  - **Tertiary failure:** System Charter text used to defeat [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_03.055_band_participation.md#system-creation) / [Business Creation](core_03.055_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
+    - System Charter text offered as a substitute for [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
+  - **Secondary failure:** a required System Charter that has not been published, an overdue scheduled review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published binding stakeholder-choice process rules;
+  - **Tertiary failure:** System Charter text used to defeat [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](subcore_03.090_band_participation.md#system-creation) / [Business Creation](subcore_03.090_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
 
 ---
 
@@ -4777,16 +4781,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [Institution](core_03.040_band_continuity.md#institution),
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
-  - [Charter Pointer](core_03.040_band_continuity.md#charter-pointer),
-  - [System](core_03.040_band_continuity.md#system),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Material Control Line](core_03.035_band_accountability.md#material-control-line),
-  - [Business Creation](core_03.055_band_participation.md#business-creation), and
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance).
-- Distinguish: an Institution that runs exactly one System that needs a [System Charter](core_03.040_band_continuity.md#system-charter) does not publish a second document; its System Charter is its Institutional Charter. A [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter) founds or authorizes a political community; an Institutional Charter states what an Institution says it does.
+  - [Institution](subcore_03.075_band_continuity.md#institution),
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map),
+  - [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer),
+  - [System](subcore_03.075_band_continuity.md#system),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line),
+  - [Business Creation](subcore_03.090_band_participation.md#business-creation), and
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance).
+- Distinguish: an Institution that runs exactly one System that needs a [System Charter](subcore_03.075_band_continuity.md#system-charter) does not publish a second document; its System Charter is its Institutional Charter. A [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter) founds or authorizes a political community; an Institutional Charter states what an Institution says it does.
 
 </details>
 
@@ -4795,19 +4799,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: an **Institutional Charter** is the published statement of what an institution runs and why. It holds the System Charter of every system the institution runs, and it explains why the institution runs those particular systems. An institution with only one system has no separate Institutional Charter: its System Charter covers both the system and the institution.*
 
 - **What it is**
-  - **In scope:** The published, amendable scope document of an [Institution](core_03.040_band_continuity.md#institution), including a business or comparable stewarded organizational form that is itself an Institution, that operates, stewards, or materially controls more than one [System](core_03.040_band_continuity.md#system), or no System that needs a [System Charter](core_03.040_band_continuity.md#system-charter). An Institutional Charter states:
-    - the Institution's own purpose, in-scope activities, out-of-scope limits, amendment authority, [Charter Role Map](core_03.040_band_continuity.md#charter-role-map), and Standing-Record custody, as listed for a System Charter;
-    - every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a [Charter Pointer](core_03.040_band_continuity.md#charter-pointer) that resolves to the current published version; and
+  - **In scope:** The published, amendable scope document of an [Institution](subcore_03.075_band_continuity.md#institution), including a business or comparable stewarded organizational form that is itself an Institution, that operates, stewards, or materially controls more than one [System](subcore_03.075_band_continuity.md#system), or no System that needs a [System Charter](subcore_03.075_band_continuity.md#system-charter). An Institutional Charter states:
+    - the Institution's own purpose, in-scope activities, out-of-scope limits, amendment authority, [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), and Standing-Record custody, as listed for a System Charter;
+    - every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) that resolves to the current published version; and
     - the **portfolio rationale**: why the Institution runs those particular Systems, how they serve its stated purpose and relate to one another, and which dependencies they share.
 
-    The Institutional Charter supports institutional creation under [Business Creation](core_03.055_band_participation.md#business-creation) by making the whole portfolio of operated scope reviewable without narrowing that floor. An Institutional Charter is required at Class L or higher and voluntary at Class P. The duty to publish one, its minimum contents, and its amendment and review rules are stated in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters).
+    The Institutional Charter supports institutional creation under [Business Creation](subcore_03.090_band_participation.md#business-creation) by making the whole portfolio of operated scope reviewable without narrowing that floor. An Institutional Charter is required at Class L or higher and voluntary at Class P. The duty to publish one, its minimum contents, and its amendment and review rules are stated in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters).
   - **Out of scope:**
-    - a [System Charter](core_03.040_band_continuity.md#system-charter) that stands alone for an Institution with one System;
-    - a [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter), the founding document of a political community; or
-    - the operative [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves, which live in the published rules the Institutional Charter points to.
+    - a [System Charter](subcore_03.075_band_continuity.md#system-charter) that stands alone for an Institution with one System;
+    - a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter), the founding document of a political community; or
+    - the operative [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves, which live in the published rules the Institutional Charter points to.
 <a id="institutional-charter-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. an Institutional Charter exists where [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) requires one, or the Institution's single System Charter is identified as covering both;
@@ -4815,14 +4819,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     3. the portfolio rationale is specific enough to test: each System can be traced to the Institution's stated purpose, and a System with no stated reason is a finding;
     4. the Institution's own purpose, limits, and amendment authority match its class, dependency, and risk;
     5. observed behavior shows the Institution operating only the Systems the Institutional Charter lists, within the scope each System Charter states; and
-    6. the Institution's record-opening authority and record custodian are separate seats outside the Institution's own [Material Control Line](core_03.035_band_accountability.md#material-control-line) for records in which the Institution is the subject.
+    6. the Institution's record-opening authority and record custodian are separate seats outside the Institution's own [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) for records in which the Institution is the subject.
 <a id="institutional-charter-c"></a>
 - **What must hold**
   - **Primary failure:**
     - operating a System that no System Charter in force covers, while the Institutional Charter is offered as current authorization; or
-    - Institutional Charter text offered as a substitute for [System Boundaries](core_03.040_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
+    - Institutional Charter text offered as a substitute for [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries) or as proof of classification under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
   - **Secondary failure:** a required Institutional Charter that has not been published, a missing or stale included System Charter, a portfolio rationale that is absent or no longer explains the Systems actually run, a System added or retired without amending the Institutional Charter, an overdue scheduled review, a missing, dead, or stale Charter Role Map, or a record-opening authority or record custodian inside the Institution's own control line for records about itself;
-  - **Tertiary failure:** Institutional Charter text used to defeat [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity), understate class, or narrow [Business Creation](core_03.055_band_participation.md#business-creation) floors.
+  - **Tertiary failure:** Institutional Charter text used to defeat [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity), understate class, or narrow [Business Creation](subcore_03.090_band_participation.md#business-creation) floors.
 
 ---
 
@@ -4836,12 +4840,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism) (26.000 §3.1) (*the treaty, compact, or Constitutional Charter mechanism family*).
 - Read with:
-  - [Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Institution](core_03.040_band_continuity.md#institution),
-  - [System Charter](core_03.040_band_continuity.md#system-charter), and
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter).
-- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](core_03.040_band_continuity.md#system-charter) or an [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), which state the scope of a system or institution, it is not an [Adoption Charter](core_03.040_band_continuity.md#adoption-charter), which states how a settled adopter's forum, custodian, and trust arrangements work, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Eight §12 Ratification and Adoption](core_28.000_amendment_ratification.md#12-ratification-and-adoption) (28.000 §12)).
+  - [Documented Legitimacy Mechanism](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Institution](subcore_03.075_band_continuity.md#institution),
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter), and
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter).
+- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](subcore_03.075_band_continuity.md#system-charter) or an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), which state the scope of a system or institution, it is not an [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), which states how a settled adopter's forum, custodian, and trust arrangements work, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Eight §12 Ratification and Adoption](core_28.000_amendment_ratification.md#12-ratification-and-adoption) (28.000 §12)).
 
 </details>
 
@@ -4852,12 +4856,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **What it is**
   - **In scope:** The document by which a political community is founded, or its governing authority is authorized, adopted with recorded assent under the treaty, compact, or Constitutional Charter family of [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism). A treaty or compact that does the same work between member bodies is read the same way.
   - **Out of scope:**
-    - a [System Charter](core_03.040_band_continuity.md#system-charter), an [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), or an [Adoption Charter](core_03.040_band_continuity.md#adoption-charter);
+    - a [System Charter](subcore_03.075_band_continuity.md#system-charter), an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or an [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter);
     - the document by which a body adopts this Constitution; or
     - silence, mere usage, or branding offered in place of recorded assent.
 <a id="constitutional-charter-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
 
     **Primary assessment:** Evaluate whether:
     1. the Constitutional Charter is published and its active rules are open to verification;
@@ -4890,19 +4894,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [Institution](core_03.040_band_continuity.md#institution),
-  - [System](core_03.040_band_continuity.md#system),
-  - [Initiating Seat](core_03.035_band_accountability.md#initiating-seat),
-  - [Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat),
-  - [Record Seat](core_03.035_band_accountability.md#record-seat),
-  - [Contest Seat](core_03.035_band_accountability.md#contest-seat),
-  - [Material Control Line](core_03.035_band_accountability.md#material-control-line),
-  - [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record),
-  - [Attributable Action](core_03.035_band_accountability.md#attributable-action),
-  - [Auditability](core_03.050_band_oversight.md#auditability), and
-  - [Contestability](core_03.035_band_accountability.md#contestability).
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [Institution](subcore_03.075_band_continuity.md#institution),
+  - [System](subcore_03.075_band_continuity.md#system),
+  - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
+  - [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat),
+  - [Record Seat](subcore_03.070_band_accountability.md#record-seat),
+  - [Contest Seat](subcore_03.070_band_accountability.md#contest-seat),
+  - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line),
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record),
+  - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability), and
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 - Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*), not in this entry. The mechanics of keeping the map current live in [CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), not here.
 
 </details>
@@ -4912,7 +4916,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.*
 
 - **What it is**
-  - **In scope:** The published, versioned placement of seats, named in or kept with a [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) (or published on its own, where a Class P adopter chooses to publish one), for the materially binding acts taken within the chartered scope. For each seat it states:
+  - **In scope:** The published, versioned placement of seats, named in or kept with a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) (or published on its own, where a Class P adopter chooses to publish one), for the materially binding acts taken within the chartered scope. For each seat it states:
     - the acts and scope for which the seat placement applies;
     - the offices or roles eligible to hold the seat, and the stewards currently authorized to hold them;
     - every permitted merged-hosting arrangement and its independence safeguard;
@@ -4925,15 +4929,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - a seat that constitutional routing assigns and the System Charter or Institutional Charter does not. In a system alignment certification, the forums that hold the verify-or-authorize seat are assigned under Chapter Eight and Chapter Twenty-Two, so the map does not choose them.
 <a id="charter-role-map-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
 
     **Primary assessment:** Take a materially binding act within the chartered scope and test whether:
     1. the act can be traced to the version of the map in force when it was taken, and each seat's holder was listed for it;
-    2. the verify-or-authorize, record, and contest seats resolve to offices outside the [Material Control Line](core_03.035_band_accountability.md#material-control-line) of the party whose act it is;
+    2. the verify-or-authorize, record, and contest seats resolve to offices outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the party whose act it is;
     3. each placed office and substitute is live, qualified, and unconflicted on the act;
     4. the change history shows who changed the map, under what authority, and when; and
     5. an unplaced, vacant, or conflicted seat was logged and routed to the substitute or independent route, not to the requester.
-  - **Secondary measure:** [Material Control Line](core_03.035_band_accountability.md#material-control-line) and [Auditability](core_03.050_band_oversight.md#auditability) — co-measures that test who actually directs a seat placement.
+  - **Secondary measure:** [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) and [Auditability](subcore_03.085_band_oversight.md#auditability) — co-measures that test who actually directs a seat placement.
 
     **Secondary assessment:** When evaluating the primary trace, identify any actor that shapes a seat placement without holding the authority to change it, and evaluate the map by where authority actually sits.
 <a id="charter-role-map-c"></a>
@@ -4962,13 +4966,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **CF-22.415 §7** (*Institutional and Local Registrars*) (*the completeness check that each pointer resolves*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
-  - [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), and
-  - [Auditability](core_03.050_band_oversight.md#auditability).
-- Distinguish: a Charter Pointer is the reference a System Charter or Institutional Charter itself carries, and it carries a duty to resolve. It is not the pointer, read-with routing, or express cross-reference that drafting practice uses between owner layers under the non-relocation rule in [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). Those carry no such duty. It is also not a copy: the substance stays with the document it points to.
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map),
+  - [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), and
+  - [Auditability](subcore_03.085_band_oversight.md#auditability).
+- Distinguish: a Charter Pointer is the reference a System Charter or Institutional Charter itself carries, and it carries a duty to resolve. It is not the pointer, read-with routing, or express cross-reference that drafting practice uses between owner layers under the non-relocation rule in [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy). Those carry no such duty. It is also not a copy: the substance stays with the document it points to.
 
 </details>
 
@@ -4977,18 +4981,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 *In plain terms: a **Charter Pointer** is the reference a System Charter or Institutional Charter uses to name another published document or provision instead of copying it. It has to lead a reader to the current published version. One that leads nowhere, or to an old version, counts as a missing item.*
 
 - **What it is**
-  - **In scope:** A reference carried in a [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) that names another published document or provision whose substance the System Charter or Institutional Charter does not itself carry. It includes a pointer to:
-    - the published document that is the [Charter Role Map](core_03.040_band_continuity.md#charter-role-map), where the map is not kept in the System Charter or Institutional Charter itself;
-    - where [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the published decision-sequence, weighting, and rights-collision-record rules;
+  - **In scope:** A reference carried in a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) that names another published document or provision whose substance the System Charter or Institutional Charter does not itself carry. It includes a pointer to:
+    - the published document that is the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), where the map is not kept in the System Charter or Institutional Charter itself;
+    - where [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the published decision-sequence, weighting, and rights-collision-record rules;
     - a System Charter that an Institutional Charter holds by reference and does not set out in full; and
     - the classification and stewardship provisions the System Charter or Institutional Charter relies on.
   - **Out of scope:**
-    - pointers, read-with routing, and express cross-references that drafting practice uses between owner layers, which the non-relocation rule in [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) governs;
+    - pointers, read-with routing, and express cross-references that drafting practice uses between owner layers, which the non-relocation rule in [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) governs;
     - the substance of the document pointed to, which stays with its owner home; and
     - a link that only cites background or supporting material and that the System Charter or Institutional Charter does not rely on for a required item.
 <a id="charter-pointer-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used alongside any other relevant measures to assess whether the rules a System Charter or Institutional Charter relies on can be found and checked.
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used alongside any other relevant measures to assess whether the rules a System Charter or Institutional Charter relies on can be found and checked.
 
     **Primary assessment:** Take each Charter Pointer in a System Charter or Institutional Charter and test whether:
     1. it names the document or provision it points to, specifically enough that a reader can find it;
@@ -5014,44 +5018,44 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Downstream: [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) (5.000) (*the duties this chapter places on a System or Institution that holds a System Charter or Institutional Charter*); [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3) (*who must publish one and who may*); [Chapter Five §8 When a Holder Fails the Formation Check](core_05.000_charters.md#8-when-a-holder-fails-the-formation-check) (5.000 §8) (*a failed formation check lands on one office, not on the Chartered Party*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
-  - [System](core_03.040_band_continuity.md#system),
-  - [Institution](core_03.040_band_continuity.md#institution),
-  - [Operating Party](core_03.050_band_oversight.md#operating-party),
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter),
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map),
-  - [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality),
-  - [Governance](core_03.035_band_accountability.md#governance), and
-  - [Material Control Line](core_03.035_band_accountability.md#material-control-line).
-- Distinguish: a Chartered Party is not a third kind of thing beside Systems and Institutions. It is a System or an Institution named from the side of the System Charter or Institutional Charter it holds or must hold, so that one term covers both. It adds no duty, no class, and no gate. Whether a System Charter or Institutional Charter is required, and what it must state, are fixed in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) (5.000), and the class that triggers the duty is fixed under [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality), not in this entry.
+  - [System](subcore_03.075_band_continuity.md#system),
+  - [Institution](subcore_03.075_band_continuity.md#institution),
+  - [Operating Party](subcore_03.085_band_oversight.md#operating-party),
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map),
+  - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality),
+  - [Governance](subcore_03.070_band_accountability.md#governance), and
+  - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
+- Distinguish: a Chartered Party is not a third kind of thing beside Systems and Institutions. It is a System or an Institution named from the side of the System Charter or Institutional Charter it holds or must hold, so that one term covers both. It adds no duty, no class, and no gate. Whether a System Charter or Institutional Charter is required, and what it must state, are fixed in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) (5.000), and the class that triggers the duty is fixed under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), not in this entry.
 
 </details>
 
 <br>
 
-*In plain terms: a **Chartered Party** is a system or an institution that has published a System Charter or Institutional Charter, or that Chapter Five requires to. Chapter Five uses the one term so it does not have to say "system or institution" every time. A Class P [Operating Party](core_03.050_band_oversight.md#operating-party) that has not published one is not a Chartered Party, and becomes one the day it publishes. Using the term does not add a duty. The duties come from the chapter and from the party's class.*
+*In plain terms: a **Chartered Party** is a system or an institution that has published a System Charter or Institutional Charter, or that Chapter Five requires to. Chapter Five uses the one term so it does not have to say "system or institution" every time. A Class P [Operating Party](subcore_03.085_band_oversight.md#operating-party) that has not published one is not a Chartered Party, and becomes one the day it publishes. Using the term does not add a duty. The duties come from the chapter and from the party's class.*
 
 - **What it is**
-  - **In scope:** A [System](core_03.040_band_continuity.md#system) or an [Institution](core_03.040_band_continuity.md#institution), named from the side of the System Charter or Institutional Charter it holds or must hold, that:
-    - has published a [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter), including a Class P one that published voluntarily; or
+  - **In scope:** A [System](subcore_03.075_band_continuity.md#system) or an [Institution](subcore_03.075_band_continuity.md#institution), named from the side of the System Charter or Institutional Charter it holds or must hold, that:
+    - has published a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), including a Class P one that published voluntarily; or
     - must publish one, because it is Class L or higher or because its operator asserts constitutional compliance for it.
 
     A business or other stewarded organizational form that is itself a System is a Chartered Party. So is an Institution that runs more than one System, which holds their System Charters in its Institutional Charter.
   - **Out of scope:**
-    - a Class P [Operating Party](core_03.050_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes. The rules on forming apply to it all the same, and so does the consequence procedure in **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*) on a verified trigger carrying the required risk finding;
+    - a Class P [Operating Party](subcore_03.085_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes. The rules on forming apply to it all the same, and so does the consequence procedure in **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*) on a verified trigger carrying the required risk finding;
     - a sentient who holds an office in a Chartered Party. The holder is a steward of the office, and a failure by the holder lands on that office, not on the Chartered Party;
     - an office, forum, or governing board inside a Chartered Party, which is one of its seats and not the party itself;
-    - a political community that adopts a [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter), which is a different document; and
+    - a political community that adopts a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter), which is a different document; and
     - any licence or gate on forming. Naming a Chartered Party grants no permission and withholds none.
 <a id="chartered-party-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
 
     **Primary assessment:** Identify the Chartered Party by what it actually does, not by its label or legal form, and test whether:
     1. the System or Institution that takes the materially binding acts in the chartered scope is the one its System Charter or Institutional Charter names, together with its steward;
     2. a System Charter or Institutional Charter held in another name, or by a related entity, does not leave the party that actually runs the work without one; and
     3. renaming, splitting, merging, or reincorporating the party leaves every duty that applied to it in place.
-  - **Secondary measure:** [Governance](core_03.035_band_accountability.md#governance) and [Material Control Line](core_03.035_band_accountability.md#material-control-line) — co-measures that test who actually directs the party.
+  - **Secondary measure:** [Governance](subcore_03.070_band_accountability.md#governance) and [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) — co-measures that test who actually directs the party.
 
     **Secondary assessment:** When evaluating the primary trace, identify any actor that holds real control over the party without being named in its System Charter or Institutional Charter, and evaluate the party by where authority actually sits.
 <a id="chartered-party-c"></a>
@@ -5070,13 +5074,13 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [Chapter Two §16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration) (2.040 §16.3) (anti-lock-in aspiration read with interoperability / exit artifacts).
-- Cluster component: [the dependent cluster *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_03.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- Cluster component: [the dependent cluster *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - Read with:
   - [Dependency](#dependency),
-  - [Material Impact](core_03.050_band_oversight.md#material-impact),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Consent](core_03.055_band_participation.md#consent),
-  - [Contestability](core_03.035_band_accountability.md#contestability), and
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Consent](subcore_03.090_band_participation.md#consent),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability), and
   - [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where incorporated implementation assigns exit-integrity duties.
 
 </details>
@@ -5084,27 +5088,27 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <br>
 
 - **What it is**
-  - **In scope:** A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_03.040_band_continuity.md#dependency) and [Material Impact](core_03.050_band_oversight.md#material-impact), such that any of the following is materially negated:
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - informed [Consent](core_03.055_band_participation.md#consent); or
-    - [Contestability](core_03.035_band_accountability.md#contestability).
+  - **In scope:** A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](subcore_03.075_band_continuity.md#dependency) and [Material Impact](subcore_03.085_band_oversight.md#material-impact), such that any of the following is materially negated:
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - informed [Consent](subcore_03.090_band_participation.md#consent); or
+    - [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **Out of scope:**
     - ordinary switching costs that remain practicable; and
     - voluntary stickiness without foreclosure of exit, switching, or corrective action.
 <a id="systemic-lock-in-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Compare exit costs and frictions against:
-    - [Dependency](core_03.040_band_continuity.md#dependency) depth;
-    - [Material Impact](core_03.050_band_oversight.md#material-impact); and
-    - [Feasibility](core_03.035_band_accountability.md#feasibility).
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) depth;
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact); and
+    - [Feasibility](subcore_03.070_band_accountability.md#feasibility).
 
     In doing so:
     - distinguish structural barriers from ordinary transaction costs;
     - apply interoperability, portability, and exit-integrity requirements as specified in incorporated implementation text; and
     - apply Burden of Justification and Constraint requirements to any justified limitation.
-  - **Secondary measure:** [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), [Consent](core_03.055_band_participation.md#consent), and [Contestability](core_03.035_band_accountability.md#contestability) — co-measures that show whether foreclosure has become material.
+  - **Secondary measure:** [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), [Consent](subcore_03.090_band_participation.md#consent), and [Contestability](subcore_03.070_band_accountability.md#contestability) — co-measures that show whether foreclosure has become material.
 
     **Secondary assessment:** When evaluating the primary trace, apply [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where incorporated implementation assigns exit-integrity duties.
 <a id="systemic-lock-in-c"></a>
@@ -5126,12 +5130,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - **Joint invocation:** where bodily-maintenance access, occupancy continuity or essential-environment stability, and environmental preconditions are materially interdependent as survival-floor conditions.
 - **Scope:** where joint invocation is met, the foundational conditions that preserve sentient life, function, and capacity for agency — the survival-floor stack.
 - **Owner floor:** implements [Article III](core_04.000_rights_part_a.md#article-iii-survival-and-essential-access) (*Survival and Essential Access*) (Survival Floor) and [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-- **Cluster boundary:** [Safe Conditions](core_03.040_band_continuity.md#safe-conditions) and [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest) live in the [Labor and Economic Floor cluster](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work) in Section 3.5, where they participate in the joint-invocation home for the work floors of **Articles III-C** (*Labor and Economic Floor*), **III-D** (*Safe Working Conditions*), and **III-E** (*Rest and Recuperation*) together with Fair Compensation and Collective Organization.
+- **Cluster boundary:** [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions) and [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest) live in the [Labor and Economic Floor cluster](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work) in Section 3.5, where they participate in the joint-invocation home for the work floors of **Articles III-C** (*Labor and Economic Floor*), **III-D** (*Safe Working Conditions*), and **III-E** (*Rest and Recuperation*) together with Fair Compensation and Collective Organization.
 
 **Topic group members.** This group comprises:
-- [Bodily-Maintenance Access](core_03.040_band_continuity.md#bodily-maintenance-access) — healthcare and maintenance access necessary to preserve life, function, and dignity across substrates;
-- [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity) — procedural and substantive stability of essential shelter and operating-environment relationships;
-- [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions) — the biophysical conditions, including stable climate, functioning ecosystems, and clean air and water, on which sentient survival depends.
+- [Bodily-Maintenance Access](subcore_03.075_band_continuity.md#bodily-maintenance-access) — healthcare and maintenance access necessary to preserve life, function, and dignity across substrates;
+- [Occupancy Continuity](subcore_03.075_band_continuity.md#occupancy-continuity) — procedural and substantive stability of essential shelter and operating-environment relationships;
+- [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) — the biophysical conditions, including stable climate, functioning ecosystems, and clean air and water, on which sentient survival depends.
 
 *Measurements (family routing):* Measured under the Flourishing measurement family and Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -5146,14 +5150,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with survival-floor access).
 - Owner floor: [Article III-B](core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); read with **Article VII-A** (*Self-Ownership of Body*) non-intrusion and **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) involuntary-intervention floor.
-- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_03.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where care access is materially tied to survival-floor continuity, occupancy continuity, essential operating environments, or environmental preconditions. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where care access is materially tied to survival-floor continuity, occupancy continuity, essential operating environments, or environmental preconditions. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers:
+  - **In scope:** The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers:
     - preventive care;
     - acute care;
     - chronic care;
@@ -5165,7 +5169,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Out of scope:** elective services unrelated to preserving life, function, or dignity.
 <a id="bodily-maintenance-access-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Reach substantive effect on the sentient's ability to obtain adequate care, not only the formal design of gating mechanisms. Detect denial-by-proxy through:
     - insurance, allocation, or eligibility gates;
@@ -5173,22 +5177,22 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - re-routing to non-equivalent services; and
     - administrative opacity that leaves the basis of a denial unrecoverable.
   - **Secondary measure:** co-measures that can defeat access even when formal eligibility exists:
-    - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness);
-    - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics);
-    - [Wellbeing](core_03.040_band_continuity.md#wellbeing); and
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint).
+    - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness);
+    - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics);
+    - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing); and
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint).
 
     **Secondary assessment:** When evaluating the primary trace, apply:
-    - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) and [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness) to gating mechanisms whose effect falls along protected-characteristic lines;
+    - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) and [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) to gating mechanisms whose effect falls along protected-characteristic lines;
     - **Article VII-A** (*Self-Ownership of Body*) non-intrusion where access is conditioned on terms the sentient may refuse; and
     - **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) where mental-health care access and involuntary intervention are both materially in issue.
 
     Substrate-agnostic: substrate maintenance for synthetic sentients cannot be excluded on taxonomy grounds.
 <a id="bodily-maintenance-access-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism — including exclusions contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) framed as allocation or administrative convenience.
-  - **Secondary failure:** narrowings that defeat the floor without satisfying [Necessity](core_03.035_band_accountability.md#necessity), [Proportionality](core_03.035_band_accountability.md#proportionality), and applicable fairness tests, including:
-    - exclusions contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion); and
+  - **Primary failure:** denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism — including exclusions contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) framed as allocation or administrative convenience.
+  - **Secondary failure:** narrowings that defeat the floor without satisfying [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and applicable fairness tests, including:
+    - exclusions contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); and
     - narrowing the floor on efficiency, allocation, or administrative-convenience grounds.
 
 ---
@@ -5207,15 +5211,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Protection against arbitrary eviction* protection. Cross-references: [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXIX-D](core_04.040_rights_part_e.md#article-xxix-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) Adoption Transition stewardship.
-- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_03.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with:
-  - [Essential-Environment Non-Commodification](core_03.040_band_continuity.md#essential-environment-non-commodification),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Dependency](core_03.040_band_continuity.md#dependency), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - [Essential-Environment Non-Commodification](subcore_03.075_band_continuity.md#essential-environment-non-commodification),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -5229,9 +5233,9 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - comparable substrate-agnostic arrangements for synthetic and hybrid sentients.
 
     Eviction, displacement, or termination of a covered relationship must:
-    - be based on a concrete, case-specific reason about that sentient under [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness);
+    - be based on a concrete, case-specific reason about that sentient under [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness);
     - reach the sentient with meaningful notice and contest opportunity; and
-    - satisfy [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality).
+    - satisfy [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 
     Occupancy Continuity also encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity.
   - **Out of scope:**
@@ -5240,7 +5244,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <a id="tenure-security-constitutional-a"></a>
 <a id="occupancy-continuity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Judge what actually happens to the sentient's continued access to essential shelter or operating environment — not only how the ending paperwork is labeled. Watch for:
     - termination routes dressed as ordinary contractual exit that in substance defeat the continuity interest;
@@ -5248,18 +5252,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - a concrete, case-specific reason replaced by blanket, automated, or capacity-management termination rules; and
     - modifications presented as ordinary within a continuing relationship whose cumulative effect is displacement.
   - **Secondary measure:** co-measures that can defeat continuity even when formal contracts exist:
-    - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness);
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency); and
-    - [Essential-Environment Non-Commodification](core_03.040_band_continuity.md#essential-environment-non-commodification).
+    - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency); and
+    - [Essential-Environment Non-Commodification](subcore_03.075_band_continuity.md#essential-environment-non-commodification).
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Dependency](core_03.040_band_continuity.md#dependency) scaling where the sentient materially depends on the particular substrate or compute environment for continued participation.
+    **Secondary assessment:** When evaluating the primary trace, apply [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Dependency](subcore_03.075_band_continuity.md#dependency) scaling where the sentient materially depends on the particular substrate or compute environment for continued participation.
 <a id="tenure-security-constitutional-c"></a>
 <a id="occupancy-continuity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** eviction, displacement, or ending of an essential shelter or operating-environment relationship without a concrete, case-specific reason, meaningful notice, and a real chance to contest.
   - **Secondary failure:**
-    - ending occupancy contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion); or
+    - ending occupancy contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); or
     - treating this entry as overridden by [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) mechanics without resolving the collision under [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 ---
@@ -5271,12 +5275,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
 - **Joint invocation:** where indigenous or community continuity and language, culture, or heritage protections are materially interdependent.
-- **Scope:** where joint invocation is met, community and cultural continuity protections, applied substrate-agnostically under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+- **Scope:** where joint invocation is met, community and cultural continuity protections, applied substrate-agnostically under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 - **Owner floor:** implements [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) and [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) community-continuity protections.
 
 **Topic group members.** This group comprises:
-- [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity) — a community-anchored, capability-functional floor for language, cultural practice, governance practice, and knowledge transmission in communities with durable territorial or ecosystem connection;
-- [Language, Culture, and Heritage](core_03.040_band_continuity.md#language-culture-and-heritage) — protected-characteristic-based protection for individual and collective cultural identity, including language use, cultural practice, heritage transmission, and communication modalities.
+- [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity) — a community-anchored, capability-functional floor for language, cultural practice, governance practice, and knowledge transmission in communities with durable territorial or ecosystem connection;
+- [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage) — protected-characteristic-based protection for individual and collective cultural identity, including language use, cultural practice, heritage transmission, and communication modalities.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -5296,20 +5300,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Article XXIII-B](core_04.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*) and
   - [Article XXIII-C](core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness) (*Non-Statelessness*);
   - [Chapter Thirty](core_30.000_incorporation.md) (30.000) (*adopter-jurisdiction discipline and Chapter Twenty-Seven non-regression*).
-- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_03.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where community continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
-- Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_03.040_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where community continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
+- Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](subcore_03.075_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
 - Read with:
-  - [Language, Culture, and Heritage](core_03.040_band_continuity.md#language-culture-and-heritage),
-  - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics),
-  - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility),
-  - [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing),
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity),
-  - [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions),
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion),
-  - [Necessity](core_03.035_band_accountability.md#necessity), and
-  - [Proportionality](core_03.035_band_accountability.md#proportionality).
+  - [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage),
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility),
+  - [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing),
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions),
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity), and
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 
 </details>
 
@@ -5323,8 +5327,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - knowledge transmission, including community-custodial traditional, ecological, and technical knowledge.
 
     The floor is:
-    - community-anchored — distinct from but complementary to the individual-level protections of [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) and [Language, Culture, and Heritage](core_03.040_band_continuity.md#language-culture-and-heritage);
-    - substrate-agnostic under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion); and
+    - community-anchored — distinct from but complementary to the individual-level protections of [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) and [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage);
+    - substrate-agnostic under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); and
     - capability-functional — triggered by material implication of community continuity, not by a category label.
 
     Route territorial-continuity interactions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem / precondition integrity) and to [Chapter Thirty](core_30.000_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
@@ -5334,27 +5338,27 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - category-label recognition without material implication for community continuity.
 <a id="indigenous-continuity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test whether the decision or framing materially implicates community-level continuity of language, cultural practice, governance practice, or knowledge transmission under capability-functional criteria. Reject category-label framings as a substitute, in both directions:
     - inclusive — "not indigenous, so out of scope"; and
     - exclusive — "indigenous, so protected without showing material implication".
 
     Then apply:
-    - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to policies that produce disparate effects on community continuity; and
-    - [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) under **Article VI-C** (*Nondiscrimination*) to any displacement, narrowing, or burden on the community-continuity floor.
+    - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to policies that produce disparate effects on community continuity; and
+    - [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) under **Article VI-C** (*Nondiscrimination*) to any displacement, narrowing, or burden on the community-continuity floor.
 
     Routing and read-with:
     - Route territorial-continuity questions:
       - to **Article I-A** (*Environmental Preconditions and Ecological Integrity*); and
       - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Thirty](core_30.000_incorporation.md) §2 (*Custody, Editions, and Operative Effect*), §3 (*Safeguards*), and §4 (*Adoption Framing and Scope of Authority*), without this entry making the adjudication.
     - If an adopter already recognizes indigenous or comparable community-continuity rights, apply [Chapter Twenty-Seven non-regression](core_27.000_non_regression.md). This entry does not create that recognition; non-regression only prevents the adopter from rolling it back.
-    - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility) applies where community-continuity transmission across generations is materially implicated.
-    - [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
+    - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility) applies where community-continuity transmission across generations is materially implicated.
+    - [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) tests; using this entry or [Chapter Thirty](core_30.000_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding documents;
-  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Twenty-Seven non-regression](core_27.000_non_regression.md); [Chapter Thirty §4 Safeguards](core_30.000_incorporation.md#4-safeguards) safeguards and [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect));
+  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) tests; using this entry or [Chapter Thirty](core_30.000_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding documents;
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Twenty-Seven non-regression](core_27.000_non_regression.md); [Chapter Thirty §4 Safeguards](core_30.000_incorporation.md#4-safeguards) safeguards and [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect));
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.
@@ -5370,17 +5374,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter Two §7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline) (2.000 §7.1) (nondiscrimination limitations tests).
 - Owner floor: [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*).
-- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_03.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where language, culture, or heritage continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
-- Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_03.040_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage).
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where language, culture, or heritage continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
+- Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](subcore_03.075_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage).
 - Read with:
-  - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility),
-  - [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility),
+  - [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -5399,15 +5403,15 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - cultural practice and observance;
     - heritage transmission across generations;
     - participation in the shared systems that sustain cultural and heritage continuity; and
-    - communication modalities that function as language-equivalents under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+    - communication modalities that function as language-equivalents under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
-    - the community-anchored [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity) floor (distinct entry); and
+    - the community-anchored [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity) floor (distinct entry); and
     - ordinary content preference unrelated to protected-characteristic language, culture, or heritage burdens.
 <a id="language-culture-and-heritage-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Look past the label to what the rule actually does, including protected-characteristic proxying — for example, language restrictions dressed up as operational, interoperability, or platform-consolidation rules that still deny language use or cultural practice. Calling the goal "homogenization" does not by itself meet the [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) tests **Article VI-C** (*Nondiscrimination*) requires, including when that framing rests on:
+    **Primary assessment:** Look past the label to what the rule actually does, including protected-characteristic proxying — for example, language restrictions dressed up as operational, interoperability, or platform-consolidation rules that still deny language use or cultural practice. Calling the goal "homogenization" does not by itself meet the [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) tests **Article VI-C** (*Nondiscrimination*) requires, including when that framing rests on:
     - efficiency;
     - info-sphere integrity;
     - interoperability;
@@ -5415,19 +5419,19 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - accessibility cost; or
     - translation burden.
   - **Secondary measure:** other measures that can show cultural and heritage continuity is failing even when individual-level protection looks satisfied:
-    - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility); and
-    - [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity).
+    - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility); and
+    - [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity).
 
     **Secondary assessment:** When evaluating the primary trace, apply:
-    - [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility) where heritage transmission across generations is materially implicated; and
-    - [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity) where community-level continuity is materially implicated (community-anchored floor; owner floors **Article VI-C** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*)).
+    - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility) where heritage transmission across generations is materially implicated; and
+    - [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity) where community-level continuity is materially implicated (community-anchored floor; owner floors **Article VI-C** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*)).
 
     This entry's individual-level protection reads together with that community-level floor, without either narrowing the other.
 <a id="language-culture-and-heritage-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) Necessity and Proportionality tests, regardless of framing;
   - **Secondary failure:** narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
-  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) where communication or cultural-practice modalities function as language- or culture-equivalents.
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) where communication or cultural-practice modalities function as language- or culture-equivalents.
 
 ---
 
@@ -5441,20 +5445,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — survival-floor and economic continuity.
-- Flourishing measurement: serves Flourishing measurement family **survival-floor access** family under the [Constitutional Aim Decomposition](core_03.015_apex_flourishing_aim.md#constitutional-aim-decomposition); **Continuity** aim remains primary for long-horizon economic and survival-floor continuity.
+- Flourishing measurement: serves Flourishing measurement family **survival-floor access** family under the [Constitutional Aim Decomposition](subcore_03.050_apex_flourishing_aim.md#constitutional-aim-decomposition); **Continuity** aim remains primary for long-horizon economic and survival-floor continuity.
 - Chapter Two basis: Chapter Two §15.1, Chapter Two §15.1, Chapter Two §15.1, §19.1 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
-  - [Collective Organization](core_03.055_band_participation.md#collective-organization),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Privacy (Informational) — peer-level cluster head](core_03.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head),
-  - [Consent](core_03.055_band_participation.md#consent),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Good Faith](core_03.035_band_accountability.md#good-faith),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) where materially implicated.
+  - [Collective Organization](subcore_03.090_band_participation.md#collective-organization),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Privacy (Informational) — peer-level cluster head](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head),
+  - [Consent](subcore_03.090_band_participation.md#consent),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Good Faith](subcore_03.070_band_accountability.md#good-faith),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Innovation Reward and Anti-Enclosure](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) where materially implicated.
 
 </details>
 
@@ -5491,16 +5495,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - innovation-reward.
 
   See **Anti-Segmentation Principle**.
-- **Read with:** [Collective Organization](core_03.055_band_participation.md#collective-organization) where productive-activity organizing is materially implicated.
+- **Read with:** [Collective Organization](subcore_03.090_band_participation.md#collective-organization) where productive-activity organizing is materially implicated.
 
 **Cluster members.** This cluster comprises:
-- [Fair Compensation](core_03.040_band_continuity.md#fair-compensation) — substantively adequate compensation for productive, contributed, or comparable activity;
-- [Safe Conditions](core_03.040_band_continuity.md#safe-conditions) — protection from foreseeable harm during productive activity;
-- [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest) — rest and recuperation sufficient to preserve health, agency, and participation capacity;
-- [Likeness and Documentary Depiction Interface](core_03.040_band_continuity.md#likeness-and-documentary-depiction-interface) — the interaction between publication and recognizably identifiable likeness or voice;
-- [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution) — substantive traceability from derivative output to upstream creator-work;
-- [Training-Data Use](core_03.040_band_continuity.md#training-data-use) — use of sentient-produced identifiable work as training data under applicable consent, privacy, and attribution duties;
-- [Anti-Displacement Floor](core_03.040_band_continuity.md#anti-displacement-floor) — substantive mitigation where generative or automation deployment causes population-scale displacement of sentient labor.
+- [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation) — substantively adequate compensation for productive, contributed, or comparable activity;
+- [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions) — protection from foreseeable harm during productive activity;
+- [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest) — rest and recuperation sufficient to preserve health, agency, and participation capacity;
+- [Likeness and Documentary Depiction Interface](subcore_03.075_band_continuity.md#likeness-and-documentary-depiction-interface) — the interaction between publication and recognizably identifiable likeness or voice;
+- [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution) — substantive traceability from derivative output to upstream creator-work;
+- [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use) — use of sentient-produced identifiable work as training data under applicable consent, privacy, and attribution duties;
+- [Anti-Displacement Floor](subcore_03.075_band_continuity.md#anti-displacement-floor) — substantive mitigation where generative or automation deployment causes population-scale displacement of sentient labor.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -5519,25 +5523,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*) /
   - **CI-4.210** (*Public revenue, fees, recurring charges, and billing integrity*) /
   - **CI-4.215** (*Resource stewardship and incentive integrity*).
-- Cluster component: [Def.C1 *Labor and Economic Floor*](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
-  - [Safe Conditions](core_03.040_band_continuity.md#safe-conditions),
-  - [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest),
-  - [Collective Organization](core_03.055_band_participation.md#collective-organization),
-  - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness),
-  - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics),
-  - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
-  - [Dependency](core_03.040_band_continuity.md#dependency), and
-  - [Lifespan Equivalent Unit (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
+  - [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions),
+  - [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest),
+  - [Collective Organization](subcore_03.090_band_participation.md#collective-organization),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency), and
+  - [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), whether that activity is:
+  - **In scope:** The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), whether that activity is:
     - waged;
     - contracted;
     - platformed;
@@ -5546,7 +5550,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
     Compensation must:
     - reach substantive adequacy for participation and wellbeing;
-    - track [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness) across comparable activity; and
+    - track [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) across comparable activity; and
     - not operate as a coercion or dependency-pressure vector; and
     - be paid in exchangeable form — not in scrip, company or platform credit, or other closed currency — as stated in **Article III-C** (*Labor and Economic Floor*).
 
@@ -5554,20 +5558,20 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - **Out of scope:** ordinary voluntary exchange for goods or services outside sentient-productive-activity scope; or the **Article III-A** (*Survival*) survival floor alone when fair compensation for productive activity is not the question.
 <a id="fair-compensation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Reach substantive adequacy, not formal contractual satisfaction. Apply:
-    - [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness) to comparable activity;
-    - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) and [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; and
-    - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) and [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) to dependency-pressure analysis.
+    - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) to comparable activity;
+    - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) and [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; and
+    - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) and [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) to dependency-pressure analysis.
 
     Survival-floor satisfaction alone, and [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) non-concentration satisfaction alone, do not satisfy this entry.
   - **Secondary measure:** co-measures that can defeat compensation adequacy even where contractual terms are met:
-    - [Safe Conditions](core_03.040_band_continuity.md#safe-conditions);
-    - [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest);
-    - [Collective Organization](core_03.055_band_participation.md#collective-organization);
-    - [Dependency](core_03.040_band_continuity.md#dependency); and
-    - [Lifespan Equivalent Unit (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ).
+    - [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions);
+    - [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest);
+    - [Collective Organization](subcore_03.090_band_participation.md#collective-organization);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency); and
+    - [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ).
 
     **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly. Compensation that is nominally adequate does not satisfy this entry if it is sustained by:
     - unsafe conditions;
@@ -5575,16 +5579,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - suppressed organizing.
 
     Also apply:
-    - [Dependency](core_03.040_band_continuity.md#dependency) where any of the following hold compensation below substantive adequacy:
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) where any of the following hold compensation below substantive adequacy:
       - reliance asymmetry;
       - lock-in; or
       - absent exit paths; and
-    - [Lifespan Equivalent Unit (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ) is used as a shared constitutional scale when comparing how much compensation helps — or how much underpayment hurts.
+    - [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) is used as a shared constitutional scale when comparing how much compensation helps — or how much underpayment hurts.
 <a id="fair-compensation-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** compensation schemes whose effects track [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) or their material proxies, regardless of framing.
-  - **Secondary failure:** compensation used as a coercion or dependency-pressure vector ([Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation)), including reliance on [Dependency](core_03.040_band_continuity.md#dependency) asymmetry to hold compensation below substantive adequacy.
-  - **Tertiary failure:** survival-floor compliance or [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) non-concentration compliance offered as fair compensation by itself; exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - **Primary failure:** compensation schemes whose effects track [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) or their material proxies, regardless of framing.
+  - **Secondary failure:** compensation used as a coercion or dependency-pressure vector ([Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation)), including reliance on [Dependency](subcore_03.075_band_continuity.md#dependency) asymmetry to hold compensation below substantive adequacy.
+  - **Tertiary failure:** survival-floor compliance or [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) non-concentration compliance offered as fair compensation by itself; exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -5597,17 +5601,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [Chapter Eight §6.5 Accessibility Evaluation](core_08.000_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (8.000 §6.5) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_04.000_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*); safety of products and services offered to others routes to [Article III-F](core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*). Systems-layer implementation: [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*) safety profiles where applicable.
-- Cluster component: [Def.C1 *Labor and Economic Floor*](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
-  - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation),
-  - [Collective Organization](core_03.055_band_participation.md#collective-organization),
-  - [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest),
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions),
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Reversibility](core_03.040_band_continuity.md#reversibility), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation),
+  - [Collective Organization](subcore_03.090_band_participation.md#collective-organization),
+  - [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest),
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions),
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -5617,34 +5621,34 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** The Rights-Floor concept protecting sentients from foreseeable harm while they work, contribute, or participate in productive activity. The protection must be substantive rather than formal, and is read consistently with:
-    - the hard [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) requirement;
-    - [Reversibility](core_03.040_band_continuity.md#reversibility), where mistakes must remain capable of being undone; and
-    - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), where conditions are degraded or exploited rather than ideal.
+    - the hard [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) requirement;
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility), where mistakes must remain capable of being undone; and
+    - [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), where conditions are degraded or exploited rather than ideal.
 
-    It applies equally to all sentients under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), whether performing the activity or affected by it.
-  - **Out of scope:** general system safety outside productive-activity conditions — that sits under [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) and related homes, not this labor-floor entry.
+    It applies equally to all sentients under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), whether performing the activity or affected by it.
+  - **Out of scope:** general system safety outside productive-activity conditions — that sits under [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) and related homes, not this labor-floor entry.
 <a id="safe-conditions-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test whether protection holds in practice rather than under ideal conditions. Include:
     - whether safety measures function under degraded, scaled, and exploited operating conditions;
     - whether tools and systems that mediate the activity are reliable, read with [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) where systems-layer implementation is material;
-    - whether risk burdens fall disproportionately on groups defined by [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) or their material proxies; and
-    - whether framings contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) are used to narrow safety requirements for some sentients.
+    - whether risk burdens fall disproportionately on groups defined by [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) or their material proxies; and
+    - whether framings contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) are used to narrow safety requirements for some sentients.
 
     General safety-law compliance claims do not satisfy this entry where they do not demonstrate actual protection.
   - **Secondary measure:** co-measures that can defeat safe conditions even where nominal safety programs exist:
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-    - [Harm](core_03.035_band_accountability.md#harm);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Reversibility](core_03.040_band_continuity.md#reversibility); and
-    - [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+    - [Harm](subcore_03.070_band_accountability.md#harm);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Reversibility](subcore_03.075_band_continuity.md#reversibility); and
+    - [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
     **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly:
-    - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation);
-    - [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest); and
-    - [Collective Organization](core_03.055_band_participation.md#collective-organization).
+    - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation);
+    - [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest); and
+    - [Collective Organization](subcore_03.090_band_participation.md#collective-organization).
 
     Each of the following bears on whether the safety floor actually holds:
     - fatigue from defeated rest;
@@ -5657,8 +5661,8 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - contribution status;
     - employment status; or
     - paper policies, notices, or training that leave foreseeable productive-activity harm unaddressed in practice.
-  - **Secondary failure:** distributing risk so that it falls mainly on groups defined by [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) or their material proxies.
-  - **Tertiary failure:** excluding sentients from safety requirements contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - **Secondary failure:** distributing risk so that it falls mainly on groups defined by [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) or their material proxies.
+  - **Tertiary failure:** excluding sentients from safety requirements contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -5675,14 +5679,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-E](core_04.000_rights_part_a.md#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*).
-- Cluster component: [Def.C1 *Labor and Economic Floor*](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
-  - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation),
-  - [Collective Organization](core_03.055_band_participation.md#collective-organization),
-  - [Safe Conditions](core_03.040_band_continuity.md#safe-conditions),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Wellbeing](core_03.040_band_continuity.md#wellbeing), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation),
+  - [Collective Organization](subcore_03.090_band_participation.md#collective-organization),
+  - [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -5692,31 +5696,31 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - **What it is**
   - **In scope:** The Rights-Floor concept covering sentients' entitlement to rest, recuperation, and non-productive time sufficient to preserve:
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - [Wellbeing](core_03.040_band_continuity.md#wellbeing); and
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing); and
     - participation capacity.
 
-    Substrate-agnostic under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation.
+    Substrate-agnostic under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation.
   - **Out of scope:** ordinary contractual rest terms, schedules, and similar workplace mechanics that actually leave the sentient able to preserve participation capacity — this entry does not rewrite those day-to-day arrangements.
 <a id="leisure-and-rest-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Ask whether rest actually preserves the sentient's ability to participate — under [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) and [Wellbeing](core_03.040_band_continuity.md#wellbeing) — not whether rest exists on paper. Include:
+    **Primary assessment:** Ask whether rest actually preserves the sentient's ability to participate — under [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) — not whether rest exists on paper. Include:
     - compensation and productivity-requirement schemes structured to defeat the floor, including:
       - on-call regimes;
       - targeted productivity-requirement escalation; or
       - comparable practices;
     - distributional effects under:
-      - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics); and
-      - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact); and
-    - framings that treat rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), which are refused.
+      - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics); and
+      - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact); and
+    - framings that treat rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), which are refused.
   - **Secondary measure:** when any of the following is compromised in a way that interferes with real rest — even if rest exists on paper:
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
-    - [Wellbeing](core_03.040_band_continuity.md#wellbeing);
-    - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation);
-    - [Safe Conditions](core_03.040_band_continuity.md#safe-conditions); and
-    - [Collective Organization](core_03.055_band_participation.md#collective-organization).
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
+    - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing);
+    - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation);
+    - [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions); and
+    - [Collective Organization](subcore_03.090_band_participation.md#collective-organization).
 
     **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly. Each of the following bears on whether the participation-capacity floor holds:
     - compensation set so low that rest is unaffordable;
@@ -5730,7 +5734,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - idle time that exists only when production pauses —
     where those do not preserve agency and recuperation.
   - **Secondary failure:** reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
-  - **Tertiary failure:** framings treating rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - **Tertiary failure:** framings treating rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -5742,12 +5746,12 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article IX-A](core_04.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*).
-- Cluster component: [Def.C1 *Labor and Economic Floor*](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
-  - [Personhood](core_03.055_band_participation.md#personhood),
-  - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational),
-  - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution), and
-  - [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing).
+  - [Personhood](subcore_03.090_band_participation.md#personhood),
+  - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational),
+  - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution), and
+  - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing).
 
 </details>
 
@@ -5771,25 +5775,25 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient;
     - coincidental resemblance that is not presented as, and would not reasonably be taken to be, a particular sentient;
     - fictional characters not held out as a real sentient;
-    - a sentient's name, record, or reputation standing alone — governed by the reputation clause of **Article IX-A** (*Self-Ownership of Likeness and Reputation*) and by [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational).
+    - a sentient's name, record, or reputation standing alone — governed by the reputation clause of **Article IX-A** (*Self-Ownership of Likeness and Reputation*) and by [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational).
 <a id="likeness-and-documentary-depiction-interface-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate:
     - recognizability — whether the depiction reasonably identifies a specific sentient;
     - contextual use — the setting, audience, and purpose of publication; and
     - whether the depiction is held out as authentic or documentary.
 
-    Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing).
+    Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing).
   - **Secondary measure:** co-measures that apply where publication reaches beyond likeness alone:
-    - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution);
-    - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational); and
-    - [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing).
+    - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution);
+    - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational); and
+    - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing).
 
     **Secondary assessment:** When evaluating the primary trace, also apply:
-    - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution) where the depiction uses upstream creator-work; and
-    - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational) where the depiction discloses or reconstructs information about the depicted sentient.
+    - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution) where the depiction uses upstream creator-work; and
+    - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) where the depiction discloses or reconstructs information about the depicted sentient.
 
     Passing one of these tests does not skip the other when both apply.
 <a id="likeness-and-documentary-depiction-interface-c"></a>
@@ -5797,7 +5801,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
   - Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article IX-A** (*Self-Ownership of Likeness and Reputation*) (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
   - **Primary failure:** treating recognizably identifiable likeness or documentary depiction as outside **Article IX-A** (*Self-Ownership of Likeness and Reputation*) protections without another constitutional provision that controls the use.
   - **Secondary failure:** invoking the **factual reporting** pathway where the depiction is synthetic, reconstructed, or otherwise not what it is held out to be.
-  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) — treating likeness or voice as unprotected because the depicted sentient is synthetic.
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) — treating likeness or voice as unprotected because the depicted sentient is synthetic.
 
 ---
 
@@ -5810,18 +5814,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1); [Chapter Two §16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) (2.040 §16.1) (attribution / traceability read-with).
 - Owner floor: [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*).
-- Cluster component: [Def.C1 *Labor and Economic Floor*](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
-  - [Training-Data Use](core_03.040_band_continuity.md#training-data-use),
-  - [Anti-Displacement Floor](core_03.040_band_continuity.md#anti-displacement-floor),
-  - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation),
-  - [Collective Organization](core_03.055_band_participation.md#collective-organization),
-  - [Safe Conditions](core_03.040_band_continuity.md#safe-conditions),
-  - [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest),
-  - [Good Faith](core_03.035_band_accountability.md#good-faith),
-  - [Consent](core_03.055_band_participation.md#consent),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use),
+  - [Anti-Displacement Floor](subcore_03.075_band_continuity.md#anti-displacement-floor),
+  - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation),
+  - [Collective Organization](subcore_03.090_band_participation.md#collective-organization),
+  - [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions),
+  - [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest),
+  - [Good Faith](subcore_03.070_band_accountability.md#good-faith),
+  - [Consent](subcore_03.090_band_participation.md#consent),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -5835,14 +5839,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - transformed; or
     - incorporated into derivative output by systems or other sentients.
 
-    Substrate-agnostic under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution — direct, aggregate, or inventory-based — is permitted where the substantive traceability function survives.
+    Substrate-agnostic under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution — direct, aggregate, or inventory-based — is permitted where the substantive traceability function survives.
   - **Out of scope:**
     - non-sentient-produced material where **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) attribution duties do not apply; or
     - anonymous aggregates not traced to specific creators —
     those sit outside this attribution interest.
 <a id="creative-work-attribution-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate for traceability and credit-continuity, not form. Include:
     - whether derivative output remains materially traceable to the creator's work;
@@ -5851,17 +5855,17 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
     "Fair use" or "transformative" framings do not extinguish the floor where derivative output is materially traceable to the creator's work; those framings operate within adopter-specified intellectual-property regimes inside the floor.
   - **Secondary measure:** when any of the following is compromised in a way that interferes with real attribution — even if a credit line exists on paper:
-    - [Consent](core_03.055_band_participation.md#consent);
-    - [Good Faith](core_03.035_band_accountability.md#good-faith);
-    - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
-    - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation);
-    - [Training-Data Use](core_03.040_band_continuity.md#training-data-use); and
-    - [Anti-Displacement Floor](core_03.040_band_continuity.md#anti-displacement-floor).
+    - [Consent](subcore_03.090_band_participation.md#consent);
+    - [Good Faith](subcore_03.070_band_accountability.md#good-faith);
+    - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
+    - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation);
+    - [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use); and
+    - [Anti-Displacement Floor](subcore_03.075_band_continuity.md#anti-displacement-floor).
 
     **Secondary assessment:** When evaluating the primary trace:
-    - apply [Consent](core_03.055_band_participation.md#consent), [Good Faith](core_03.035_band_accountability.md#good-faith), and [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) where the derivative work hides or misstates where it came from;
-    - read jointly with [Fair Compensation](core_03.040_band_continuity.md#fair-compensation) under [Article III-C](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — attribution without compensation, or compensation without attribution, does not satisfy the floor where both are owed; and
-    - read with [Training-Data Use](core_03.040_band_continuity.md#training-data-use) and the [Anti-Displacement Floor](core_03.040_band_continuity.md#anti-displacement-floor) where:
+    - apply [Consent](subcore_03.090_band_participation.md#consent), [Good Faith](subcore_03.070_band_accountability.md#good-faith), and [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) where the derivative work hides or misstates where it came from;
+    - read jointly with [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation) under [Article III-C](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — attribution without compensation, or compensation without attribution, does not satisfy the floor where both are owed; and
+    - read with [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use) and the [Anti-Displacement Floor](subcore_03.075_band_continuity.md#anti-displacement-floor) where:
       - the same work is used as training data; or
       - deployment displaces the affected creator-population.
 <a id="creative-work-attribution-constitutional-c"></a>
@@ -5877,7 +5881,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - post-use inventory disclosures; or
     - aggregate credits untraceable to actual work.
   - **Tertiary failure:**
-    - exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion); or
+    - exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); or
     - adopter-specified intellectual-property-regime framing used to narrow this floor (**Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) *Non-Conflation*).
 
 ---
@@ -5895,10 +5899,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - pooled or aggregated from such work.
 
     Because sentients own their own data under **[Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*)**, the following duties apply jointly — including when the work is pooled or aggregated with other sentients' data:
-    - [Consent](core_03.055_band_participation.md#consent);
+    - [Consent](subcore_03.090_band_participation.md#consent);
     - experiential-data discipline under **Article IX-B** (*Experiential and Derived Data Rights*);
-    - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational); and
-    - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution).
+    - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational); and
+    - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution).
   - **Data types:** Covered work is [**Type H**](corpus_systems/cs_04.310_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) as participation- or interaction-derived data, and [**Type I**](corpus_systems/cs_04.310_data_classifications.md#95-type-i-identity-and-attribution-data) where it is identifiable to the sentient who produced it. Training, evaluation, or analysis that infers or reconstructs a sentient's internal states is [**Type N**](corpus_systems/cs_04.310_data_classifications.md#96-type-n-neurocognitive-and-internal-data). Pooling does not lower the type while re-identification or reconstruction remains reasonably possible.
   - **Out of scope:**
     - non-sentient-produced material where **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) consent and attribution duties do not apply; or
@@ -5908,7 +5912,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
       pooling or aggregating covered sentient-produced work is not the same thing and remains in scope.
 <a id="training-data-use-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate the terms and consequences of ingestion, including:
     - scope, purpose, and duration of use;
@@ -5917,10 +5921,10 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - aggregation risk; and
     - re-identification of the producing sentient.
   - **Secondary measure:** co-measures that apply jointly to training-data use:
-    - [Consent](core_03.055_band_participation.md#consent);
+    - [Consent](subcore_03.090_band_participation.md#consent);
     - **[Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*)**;
-    - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational); and
-    - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution).
+    - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational); and
+    - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution).
 
     **Secondary assessment:** When evaluating the primary trace, apply these co-measures together — not as substitutes for each other. A licensing record, a privacy notice, or a credit list alone does not skip the others when more than one applies.
 <a id="training-data-use-constitutional-c"></a>
@@ -5935,7 +5939,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - claiming identifiable sentient-produced work may be used just because it is labeled "not personal data";
     - sentient-produced work carved out of scope solely because it has been pooled or aggregated, labeled de-identified, or called non-personal data; and
     - withdrawal of consent treated as unavailable once the work has been ingested, where **Article IX-B** (*Experiential and Derived Data Rights*) duties apply.
-  - **Tertiary failure:** treating sentient-produced work as usable without consent or attribution just because its producer is synthetic ([Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion)).
+  - **Tertiary failure:** treating sentient-produced work as usable without consent or attribution just because its producer is synthetic ([Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -5948,18 +5952,18 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 
 - Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1); [Chapter Two §11.1 Market Concentration Threshold Mechanism](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) (2.010 §11.1) (displacement at population scale read-with §6 stack).
 - Owner floors: [Article III-C](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor-and-economic, cross-cutting) and [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) (creative-work application).
-- Cluster component: [Def.C1 *Labor and Economic Floor*](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
-  - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation),
-  - [Collective Organization](core_03.055_band_participation.md#collective-organization),
-  - [Safe Conditions](core_03.040_band_continuity.md#safe-conditions),
-  - [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest),
-  - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution),
-  - [Training-Data Use](core_03.040_band_continuity.md#training-data-use),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence), and
-  - [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation),
+  - [Collective Organization](subcore_03.090_band_participation.md#collective-organization),
+  - [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions),
+  - [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest),
+  - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution),
+  - [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence), and
+  - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -5980,36 +5984,36 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - attribution or licensing structures; and
     - participation in derived value.
 
-    Substrate-agnostic under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+    Substrate-agnostic under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
   - **Out of scope:** voluntary individual job change or ordinary career transition with no population-scale labor displacement.
 <a id="anti-displacement-floor-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_03.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Primary measure:** [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) and [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test what actually happens to the affected population as a whole — not one employer or one platform in isolation:
     - compare compensation, attribution, and livelihood sustainability to the situation before deployment;
-    - check for [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) (metrics that look good while real outcomes worsen) and [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) (needless harm that could have been prevented). Claims about overall gains do not satisfy this floor when the sentients doing the work are worse off, including claims framed as:
+    - check for [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) (metrics that look good while real outcomes worsen) and [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) (needless harm that could have been prevented). Claims about overall gains do not satisfy this floor when the sentients doing the work are worse off, including claims framed as:
       - aggregate productivity ("the economy got more productive");
       - efficiency;
       - innovation; or
-      - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity);
-    - evaluate under [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions) — not only best-case conditions — including:
+      - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity);
+    - evaluate under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions) — not only best-case conditions — including:
       - gradual ratcheting (slow, stepwise worsening);
       - platform-consolidation pressure (fewer platforms controlling access to work); and
       - cross-domain substitution (replacing work in one field by automating adjacent fields);
     - where a few actors dominate the market, apply the [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) anti-concentration rules and the [Chapter Two §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) concentration-threshold mechanism.
   - **Secondary measure:** co-measures that can defeat the floor even where a mitigation program is announced:
-    - [Fair Compensation](core_03.040_band_continuity.md#fair-compensation);
-    - [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution);
-    - [Training-Data Use](core_03.040_band_continuity.md#training-data-use);
-    - [Collective Organization](core_03.055_band_participation.md#collective-organization);
-    - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity); and
-    - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden).
+    - [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation);
+    - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution);
+    - [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use);
+    - [Collective Organization](subcore_03.090_band_participation.md#collective-organization);
+    - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity); and
+    - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden).
 
     **Secondary assessment:** When evaluating the primary trace, test whether the mitigation actually reaches the displaced population:
-    - whether replacement compensation satisfies [Fair Compensation](core_03.040_band_continuity.md#fair-compensation);
-    - whether attribution and licensing structures satisfy [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution) and [Training-Data Use](core_03.040_band_continuity.md#training-data-use) where the displacing system was built on the displaced population's work; and
-    - whether affected sentients retain the [Collective Organization](core_03.055_band_participation.md#collective-organization) channels through which transition terms are negotiated.
+    - whether replacement compensation satisfies [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation);
+    - whether attribution and licensing structures satisfy [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution) and [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use) where the displacing system was built on the displaced population's work; and
+    - whether affected sentients retain the [Collective Organization](subcore_03.090_band_participation.md#collective-organization) channels through which transition terms are negotiated.
 <a id="anti-displacement-floor-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -6017,7 +6021,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - efficiency claims or voluntary-redeployment branding offered in place of mitigation; or
     - pilot programs that leave population-scale labor displacement without the Rights-Floor transition protections.
   - **Secondary failure:** nominal mitigation — token compensation, unused transition programs, or inaccessible attribution schemes.
-  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion); treating a pointer to implementation text (operational detail only) as scope-closing.
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); treating a pointer to implementation text (operational detail only) as scope-closing.
 
 ---
 
@@ -6029,26 +6033,26 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** where review and correction duties apply.
 - Continuity disambiguation: Constitutional **Continuity** aim — durable governance discipline.
 - Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence),
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Existential Risk](core_03.040_band_continuity.md#existential-risk),
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Risk](core_03.040_band_continuity.md#risk),
-  - [Foreseeability](core_03.050_band_oversight.md#foreseeability),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Market Concentration Threshold](core_03.035_band_accountability.md#market-concentration-threshold), and
-  - [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_03.035_band_accountability.md#proportionality) where materially implicated.
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Existential Risk](subcore_03.075_band_continuity.md#existential-risk),
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [Foreseeability](subcore_03.085_band_oversight.md#foreseeability),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold), and
+  - [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](subcore_03.070_band_accountability.md#proportionality) where materially implicated.
 
 </details>
 
@@ -6069,16 +6073,16 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
     - Rights-Floor integrity; or
   - long- versus short-horizon constitutional alignment.
 
-  Outside that cluster's scope, [Governance](core_03.035_band_accountability.md#governance), [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity), or [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation) may operate alone.
+  Outside that cluster's scope, [Governance](subcore_03.070_band_accountability.md#governance), [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity), or [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) may operate alone.
 - **Scope:** where admission scope is met, the joint-invocation home for principle-layer stewardship and capacity discipline where any of the following are materially interdependent:
   - stewardship orientation;
-  - [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding);
-  - [Institutional Development](core_03.040_band_continuity.md#institutional-development);
-  - [Openness Aspiration](core_03.040_band_continuity.md#openness-aspiration);
-  - [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation);
-  - [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect);
-  - [Stewardship Defect](core_03.040_band_continuity.md#stewardship-defect);
-  - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty); and
+  - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding);
+  - [Institutional Development](subcore_03.075_band_continuity.md#institutional-development);
+  - [Openness Aspiration](subcore_03.075_band_continuity.md#openness-aspiration);
+  - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation);
+  - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect);
+  - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect);
+  - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty); and
   - capacity claims implicating:
     - long- versus short-horizon tradeoffs;
     - incentive structure; or
@@ -6094,14 +6098,14 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 See **Anti-Segmentation Principle**.
 
 **Cluster members.** This cluster comprises:
-- [Stewardship](core_03.040_band_continuity.md#stewardship) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
-- [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding) — workable opportunities for materially affected sentients to understand how shared systems operate;
-- [Institutional Development](core_03.040_band_continuity.md#institutional-development) — organizational learning through feedback loops, documented correction, strategy alignment, and retained competence that keep institutions able to repair and adapt;
-- [Openness Aspiration](core_03.040_band_continuity.md#openness-aspiration) — the aspiration for shared systems to be open enough to inspect, verify, repair, and leave, within safety, truth, confidentiality, and security limits;
-- [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation) — the duty of materially influential actors to govern strategy, incentives, and long-horizon consequences for durable alignment;
-- [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect) — governance that optimizes immediate metrics at foreseeable expense of medium- or long-horizon alignment or Rights-Floor integrity;
-- [Stewardship Defect](core_03.040_band_continuity.md#stewardship-defect) — material failure of stewardship, strategy, incentive design, monitoring, correction, or disclosure that foreseeably permits misalignment or harm;
-- [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty) — periodic revalidation of stewardship claims against outcomes, with revision within time-bounded windows scaled to material stake.
+- [Stewardship](subcore_03.075_band_continuity.md#stewardship) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
+- [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) — workable opportunities for materially affected sentients to understand how shared systems operate;
+- [Institutional Development](subcore_03.075_band_continuity.md#institutional-development) — organizational learning through feedback loops, documented correction, strategy alignment, and retained competence that keep institutions able to repair and adapt;
+- [Openness Aspiration](subcore_03.075_band_continuity.md#openness-aspiration) — the aspiration for shared systems to be open enough to inspect, verify, repair, and leave, within safety, truth, confidentiality, and security limits;
+- [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) — the duty of materially influential actors to govern strategy, incentives, and long-horizon consequences for durable alignment;
+- [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) — governance that optimizes immediate metrics at foreseeable expense of medium- or long-horizon alignment or Rights-Floor integrity;
+- [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) — material failure of stewardship, strategy, incentive design, monitoring, correction, or disclosure that foreseeably permits misalignment or harm;
+- [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) — periodic revalidation of stewardship claims against outcomes, with revision within time-bounded windows scaled to material stake.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -6115,14 +6119,14 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16); [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1); [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with: [Chapter Two Part E](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) §§16–20; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
 - Read with:
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity),
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim,
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity), and
-  - [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional).
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity), and
+  - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional).
 
 </details>
 
@@ -6132,7 +6136,7 @@ See **Anti-Segmentation Principle**.
   - **In scope:** The principle-layer orientation of systems, institutions, and authorized actors toward preserving, over time:
     - constitutional alignment;
     - repair capacity;
-    - [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding); and
+    - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding); and
     - long-horizon consequences, including:
       - ecological;
       - intergenerational; and
@@ -6140,7 +6144,7 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** short-horizon operational management with no long-horizon alignment or Continuity-aim stake under this stewardship duty.
 <a id="stewardship-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish stewardship from governance form, documentation, consultation theater, or single-metric optimization. Assess:
     - foresight;
@@ -6155,16 +6159,16 @@ See **Anti-Segmentation Principle**.
     - systemic; and
     - intergenerational.
   - **Secondary measure:** other measures that spell out the duties of stewards and operators who have material influence:
-    - [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation);
-    - [Governance](core_03.035_band_accountability.md#governance);
-    - [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity); and
-    - [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional).
+    - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation);
+    - [Governance](subcore_03.070_band_accountability.md#governance);
+    - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity); and
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation) and [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional) for the duties of stewards and operators who have material influence.
+    **Secondary assessment:** When evaluating the primary trace, read with [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) for the duties of stewards and operators who have material influence.
 <a id="stewardship-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** long-horizon duties treated as optional, including where they are:
-    - subordinated to short-horizon convenience or metric gaming without [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality); or
+    - subordinated to short-horizon convenience or metric gaming without [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality); or
     - deferred as to repair after misalignment is reasonably foreseeable —
     including a stewardship posture that does not preserve repair capacity when misalignment is reasonably foreseeable.
   - **Secondary failure:** masking non-functional stewardship posture after misalignment is reasonably foreseeable.
@@ -6179,16 +6183,16 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16); [Chapter Two §16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) (2.040 §16.1).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
-  - [Educational Agency](core_03.055_band_participation.md#educational-agency),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Accessibility](core_03.055_band_participation.md#accessibility),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
+  - [Educational Agency](subcore_03.090_band_participation.md#educational-agency),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Accessibility](subcore_03.090_band_participation.md#accessibility),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [Dependency](#dependency),
   - [Chapter Two §17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (2.040 §17), and
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) and
@@ -6200,13 +6204,13 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope — facet and purpose:** The community-facing facet of **Pillar 3** (competence at scale) under [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth): workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by:
-    - [Materiality](core_03.050_band_oversight.md#materiality); and
-    - [Dependency](core_03.040_band_continuity.md#dependency) —
+    - [Materiality](subcore_03.085_band_oversight.md#materiality); and
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) —
 
     supporting:
     - informed participation;
     - stewardship; and
-    - [Contestability](core_03.035_band_accountability.md#contestability).
+    - [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **In scope — access:** Proportionate, structured access to how shared systems that materially affect sentients operate, covering:
     - purposes;
     - constraints;
@@ -6215,32 +6219,32 @@ See **Anti-Segmentation Principle**.
   - **In scope — supply:** What [Chapter Two §17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) must supply to make that access workable:
     - documentation;
     - education;
-    - [Transparency](core_03.050_band_oversight.md#transparency);
+    - [Transparency](subcore_03.085_band_oversight.md#transparency);
     - role pathways; and
     - comprehensibility stewardship.
 
     The obligation stands whether or not every sentient uses every path.
-  - **In scope — online public baseline:** Where lawful online infrastructure exists, the access includes the online [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure), including its paywall prohibition and maximum-feasible public-substitute rule. [Transparency](core_03.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure) govern that baseline; **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (*Data Classifications*) implements it as **Type O** data.
+  - **In scope — online public baseline:** Where lawful online infrastructure exists, the access includes the online [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), including its paywall prohibition and maximum-feasible public-substitute rule. [Transparency](subcore_03.085_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) govern that baseline; **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (*Data Classifications*) implements it as **Type O** data.
   - **In scope — what the access supports:**
-    - the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** leg — informed [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) and [Contestability](core_03.035_band_accountability.md#contestability); and
-    - the **oversight** leg — auditing under [Auditability](core_03.050_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes.
+    - the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** leg — informed [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and [Contestability](subcore_03.070_band_accountability.md#contestability); and
+    - the **oversight** leg — auditing under [Auditability](subcore_03.085_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes.
   - **Out of scope:**
-    - every sentient mastering every subsystem — understanding scales with [Materiality](core_03.050_band_oversight.md#materiality) and [Dependency](core_03.040_band_continuity.md#dependency) instead;
-    - [Transparency](core_03.050_band_oversight.md#transparency) disclosure alone when workable learning is not the claim; or
+    - every sentient mastering every subsystem — understanding scales with [Materiality](subcore_03.085_band_oversight.md#materiality) and [Dependency](subcore_03.075_band_continuity.md#dependency) instead;
+    - [Transparency](subcore_03.085_band_oversight.md#transparency) disclosure alone when workable learning is not the claim; or
     - expert or operator knowledge kept for internal ops with no claim that affected sentients can use it —
     the last two sit under their own homes or as ordinary internal practice.
 <a id="distributed-understanding-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
-    **Primary assessment:** Check that access covers purposes, constraints, uncertainties, and materially relevant effects at the scale that applies, and that the documentation, education, [Transparency](core_03.050_band_oversight.md#transparency), role pathways, and comprehensibility stewardship supplied make it workable whether or not every sentient uses every path. Distinguish workable understanding from:
+    **Primary assessment:** Check that access covers purposes, constraints, uncertainties, and materially relevant effects at the scale that applies, and that the documentation, education, [Transparency](subcore_03.085_band_oversight.md#transparency), role pathways, and comprehensibility stewardship supplied make it workable whether or not every sentient uses every path. Distinguish workable understanding from:
     - nominal disclosure;
     - jargon barriers; and
     - summaries that misstate operative effect.
   - **Secondary measure:** co-measures that set the workable-learning standard:
-    - [Educational Agency](core_03.055_band_participation.md#educational-agency);
-    - [Transparency](core_03.050_band_oversight.md#transparency); and
-    - [Accessibility](core_03.055_band_participation.md#accessibility).
+    - [Educational Agency](subcore_03.090_band_participation.md#educational-agency);
+    - [Transparency](subcore_03.085_band_oversight.md#transparency); and
+    - [Accessibility](subcore_03.090_band_participation.md#accessibility).
 
     **Secondary assessment:** When evaluating the primary trace, scale depth, format, and timing to:
     - material impact;
@@ -6251,11 +6255,11 @@ See **Anti-Segmentation Principle**.
 <a id="distributed-understanding-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** understanding withheld, obscured, or made practically unusable without:
-    - [Necessity](core_03.035_band_accountability.md#necessity);
-    - [Proportionality](core_03.035_band_accountability.md#proportionality); and
+    - [Necessity](subcore_03.070_band_accountability.md#necessity);
+    - [Proportionality](subcore_03.070_band_accountability.md#proportionality); and
     - applicable security limits —
-    including expert-only or internal operator knowledge, or [Transparency](core_03.050_band_oversight.md#transparency) disclosures, that do not create usable learning at the materiality scale that applies.
-  - **Secondary failure:** complexity or opacity used to defeat [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) or [Contestability](core_03.035_band_accountability.md#contestability) where this chapter or **Chapter Four** assigns disclosure, education, or comprehensibility duties.
+    including expert-only or internal operator knowledge, or [Transparency](subcore_03.085_band_oversight.md#transparency) disclosures, that do not create usable learning at the materiality scale that applies.
+  - **Secondary failure:** complexity or opacity used to defeat [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) or [Contestability](subcore_03.070_band_accountability.md#contestability) where this chapter or **Chapter Four** assigns disclosure, education, or comprehensibility duties.
 
 ---
 
@@ -6267,20 +6271,20 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16); [Chapter Two §16.2 Institutional Development](core_02.040_stewardship_capacity_principles.md#162-institutional-development) (2.040 §16.2).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Distributed Understanding](#distributed-understanding) (*community facet of the same competence-at-scale requirement; the two are distinct and neither substitutes for the other*),
   - [Strategic Stewardship Obligation](#strategic-stewardship-obligation),
   - [Review and Correction Duty](#review-and-correction-duty),
-  - [Verifiability](core_03.050_band_oversight.md#verifiability),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
+  - [Verifiability](subcore_03.085_band_oversight.md#verifiability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [Dependency](#dependency),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
   - [Avoidable Burden](#avoidable-burden),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim, and
   - [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
@@ -6296,34 +6300,34 @@ See **Anti-Segmentation Principle**.
     - strategy alignment; and
     - retention of competence.
   - **In scope — Tetrad:** Carries the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs through institutional learning that keeps competence, feedback, and scrutiny pathways live rather than static.
-  - **In scope — measured monitoring:** Where materially relevant behavior supports **repeated, comparable measurement** under [Verifiability](core_03.050_band_oversight.md#verifiability) read with [Auditability](core_03.050_band_oversight.md#auditability):
+  - **In scope — measured monitoring:** Where materially relevant behavior supports **repeated, comparable measurement** under [Verifiability](subcore_03.085_band_oversight.md#verifiability) read with [Auditability](subcore_03.085_band_oversight.md#auditability):
     - **structured monitoring of variation over time** is one proportionate way to implement those feedback loops;
     - that monitoring must be paired with **documented investigation and correction** when indicators warrant; and
     - **statistical process control** is a well-known implementation pattern for that discipline, not a universal requirement.
   - **In scope — scale and presentation:** The discipline is scaled to:
-    - [Materiality](core_03.050_band_oversight.md#materiality);
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Necessity](core_03.035_band_accountability.md#necessity);
-    - [Proportionality](core_03.035_band_accountability.md#proportionality); and
-    - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) —
+    - [Materiality](subcore_03.085_band_oversight.md#materiality);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Necessity](subcore_03.070_band_accountability.md#necessity);
+    - [Proportionality](subcore_03.070_band_accountability.md#proportionality); and
+    - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) —
 
     and is presented in **sentient-understandable** form where this chapter and **Chapter Four** assign comprehension or transparency duties, read with [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
   - **Out of scope:**
-    - community understanding of how shared systems operate — that sits under [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding);
-    - the duty of materially influential actors to govern strategy, incentives, and long-horizon consequences — that sits under [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation); or
+    - community understanding of how shared systems operate — that sits under [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding);
+    - the duty of materially influential actors to govern strategy, incentives, and long-horizon consequences — that sits under [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation); or
     - any single monitoring method, including **statistical process control**, as a universal requirement —
     those sit under their own homes or as proportionate implementation choices.
 <a id="institutional-development-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish institutional learning from:
     - upgrading technical artifacts while governance and workforce understanding stay static;
     - indicators tracked without documented investigation and correction when they warrant it; and
     - dashboards that look healthy while root causes go unfixed.
   - **Secondary measure:** co-measures that set the learning standard:
-    - [Verifiability](core_03.050_band_oversight.md#verifiability); and
-    - [Auditability](core_03.050_band_oversight.md#auditability).
+    - [Verifiability](subcore_03.085_band_oversight.md#verifiability); and
+    - [Auditability](subcore_03.085_band_oversight.md#auditability).
 
     **Secondary assessment:** When evaluating the primary trace, scale depth, frequency, and format to:
     - material impact;
@@ -6338,11 +6342,11 @@ See **Anti-Segmentation Principle**.
     - upgrading technical artifacts while leaving governance and workforce understanding static;
     - monitoring that flags indicators without documented investigation and correction when they warrant it; or
     - letting competence leave without retention —
-    where [Materiality](core_03.050_band_oversight.md#materiality) and [Dependency](core_03.040_band_continuity.md#dependency) call for learning.
+    where [Materiality](subcore_03.085_band_oversight.md#materiality) and [Dependency](subcore_03.075_band_continuity.md#dependency) call for learning.
   - **Secondary failure:** gaming or misrepresentation that:
     - substitutes favorable metrics for substantive alignment;
     - narrows evaluation to convenient proxies; or
-    - defeats [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) or [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity).
+    - defeats [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) or [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
 
 ---
 
@@ -6358,21 +6362,21 @@ See **Anti-Segmentation Principle**.
   - [Chapter Two §16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration) (2.040 §16.3);
   - [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
   - [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
-  - [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding) and
-  - [Institutional Development](core_03.040_band_continuity.md#institutional-development) (*the two facets of Pillar 3 that openness links*),
-  - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Verifiability](core_03.050_band_oversight.md#verifiability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Security-Sensitive Disclosure Balance](core_03.050_band_oversight.md#security-sensitive-disclosure-balance),
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
+  - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) and
+  - [Institutional Development](subcore_03.075_band_continuity.md#institutional-development) (*the two facets of Pillar 3 that openness links*),
+  - [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Verifiability](subcore_03.085_band_oversight.md#verifiability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Security-Sensitive Disclosure Balance](subcore_03.085_band_oversight.md#security-sensitive-disclosure-balance),
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
   - [Chapter Two §17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (2.040 §17), and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim.
 
@@ -6381,37 +6385,37 @@ See **Anti-Segmentation Principle**.
 <br>
 
 - **What it is**
-  - **In scope — throughline:** The connection between the two facets of **Pillar 3** (competence at scale) under [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth): [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding) (what a community can check) and [Institutional Development](core_03.040_band_continuity.md#institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
+  - **In scope — throughline:** The connection between the two facets of **Pillar 3** (competence at scale) under [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth): [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) (what a community can check) and [Institutional Development](subcore_03.075_band_continuity.md#institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
   - **In scope — aspiration:** Shared systems should **aspire** — consistent with those two facets and with [Chapter Two §17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to that duty's scope and limits stated in [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) — to:
     - **open** hardware and software;
     - **open** operational and governance processes; and
-    - interoperable **systems** that support inspection, independent verification, repair, and [Contestability](core_03.035_band_accountability.md#contestability).
+    - interoperable **systems** that support inspection, independent verification, repair, and [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **In scope — grounding:** The aspiration serves the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs and the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), as the alternative to opaque lock-in by default.
-  - **In scope — presentation:** Where this chapter and **Chapter Four** assign duties, materially relevant behavior should be presented in **sentient-understandable** forms that enable [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) and [Contestability](core_03.035_band_accountability.md#contestability), read with [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+  - **In scope — presentation:** Where this chapter and **Chapter Four** assign duties, materially relevant behavior should be presented in **sentient-understandable** forms that enable [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and [Contestability](subcore_03.070_band_accountability.md#contestability), read with [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
   - **Out of scope:**
-    - ranking openness above [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), justified confidentiality, or security constraints — those limits control, as [Security-Sensitive Disclosure Balance](core_03.050_band_oversight.md#security-sensitive-disclosure-balance) states;
-    - proportionate understanding keyed to [Materiality](core_03.050_band_oversight.md#materiality) and [Dependency](core_03.040_band_continuity.md#dependency) — that sits under [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding); or
-    - disclosure and interoperability duties as such — those sit under [Transparency](core_03.050_band_oversight.md#transparency) and **Article XXII** (*Interoperability, Portability, and Exit Integrity*) —
+    - ranking openness above [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), justified confidentiality, or security constraints — those limits control, as [Security-Sensitive Disclosure Balance](subcore_03.085_band_oversight.md#security-sensitive-disclosure-balance) states;
+    - proportionate understanding keyed to [Materiality](subcore_03.085_band_oversight.md#materiality) and [Dependency](subcore_03.075_band_continuity.md#dependency) — that sits under [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding); or
+    - disclosure and interoperability duties as such — those sit under [Transparency](subcore_03.085_band_oversight.md#transparency) and **Article XXII** (*Interoperability, Portability, and Exit Integrity*) —
     those sit under their own homes.
 <a id="openness-aspiration-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish systems that can actually be inspected, verified, repaired, and left from:
     - nominal "open" labels with no inspectable substance;
     - interoperability claims that do not support verification, repair, or exit; and
     - opaque lock-in by default.
   - **Secondary measure:** co-measures that show whether openness is real:
-    - [Transparency](core_03.050_band_oversight.md#transparency);
-    - [Auditability](core_03.050_band_oversight.md#auditability);
-    - [Verifiability](core_03.050_band_oversight.md#verifiability); and
-    - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in).
+    - [Transparency](subcore_03.085_band_oversight.md#transparency);
+    - [Auditability](subcore_03.085_band_oversight.md#auditability);
+    - [Verifiability](subcore_03.085_band_oversight.md#verifiability); and
+    - [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in).
 
-    **Secondary assessment:** When evaluating the primary trace, scale depth to [Materiality](core_03.050_band_oversight.md#materiality) and [Dependency](core_03.040_band_continuity.md#dependency), and apply the safety, truth, confidentiality, and security limits before treating a closed element as a failure.
+    **Secondary assessment:** When evaluating the primary trace, scale depth to [Materiality](subcore_03.085_band_oversight.md#materiality) and [Dependency](subcore_03.075_band_continuity.md#dependency), and apply the safety, truth, confidentiality, and security limits before treating a closed element as a failure.
 <a id="openness-aspiration-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** opaque lock-in by default where [Materiality](core_03.050_band_oversight.md#materiality) and [Dependency](core_03.040_band_continuity.md#dependency) call for inspection, verification, repair, or exit, and no safety, truth, confidentiality, or security limit justifies it.
-  - **Secondary failure:** openness invoked to override [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), justified confidentiality, or security constraints, or offered as a substitute for proportionate understanding.
+  - **Primary failure:** opaque lock-in by default where [Materiality](subcore_03.085_band_oversight.md#materiality) and [Dependency](subcore_03.075_band_continuity.md#dependency) call for inspection, verification, repair, or exit, and no safety, truth, confidentiality, or security limit justifies it.
+  - **Secondary failure:** openness invoked to override [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), justified confidentiality, or security constraints, or offered as a substitute for proportionate understanding.
 
 ---
 
@@ -6423,18 +6427,18 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3), [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four strategy / stewardship requirements.
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
-  - [Stewardship Defect](core_03.040_band_continuity.md#stewardship-defect),
-  - [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect),
-  - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
-  - [Foreseeability](core_03.050_band_oversight.md#foreseeability),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Risk](core_03.040_band_continuity.md#risk), and
-  - [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity).
+  - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect),
+  - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect),
+  - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
+  - [Foreseeability](subcore_03.085_band_oversight.md#foreseeability),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Risk](subcore_03.075_band_continuity.md#risk), and
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity).
 
 </details>
 
@@ -6453,7 +6457,7 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** ordinary short-horizon operational planning with no material or durable influence stake under this stewardship duty.
 <a id="strategic-stewardship-obligation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Evaluate:
     - foresight;
@@ -6489,14 +6493,14 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (2.050 §19); [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Stewardship](core_03.040_band_continuity.md#stewardship),
-  - [Stewardship Defect](core_03.040_band_continuity.md#stewardship-defect),
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence),
-  - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty), and
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Stewardship](subcore_03.075_band_continuity.md#stewardship),
+  - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence),
+  - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty), and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim.
 
 </details>
@@ -6516,14 +6520,14 @@ See **Anti-Segmentation Principle**.
     - ordinary near-term operations that do not foreseeably sacrifice medium- or long-horizon constitutional alignment.
 <a id="short-horizon-governance-defect-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Include:
-    - uncorrected [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence);
+    - uncorrected [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence);
     - permanent-emergency normalization;
     - deferred safeguard maintenance;
     - incentive structures rewarding throughput over outcomes; and
-    - governance that treats short-horizon value as sufficient without [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty) revalidation.
+    - governance that treats short-horizon value as sufficient without [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) revalidation.
 
     Distinguish bounded, time-limited emergency measures that satisfy **Necessity**, **Proportionality**, and applicable Chapter Four safeguards from defects that persist without correction paths.
 <a id="short-horizon-governance-defect-constitutional-c"></a>
@@ -6545,17 +6549,17 @@ See **Anti-Segmentation Principle**.
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
-  - [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation),
-  - [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect),
-  - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Materiality](core_03.050_band_oversight.md#materiality),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence), and
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability).
+  - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation),
+  - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect),
+  - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence), and
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -6584,7 +6588,7 @@ See **Anti-Segmentation Principle**.
     - mere strategy disagreement without a foreseeable causal pathway to constitutional misalignment or Rights-Floor harm.
 <a id="stewardship-defect-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include:
     - known-risk neglect;
@@ -6614,14 +6618,14 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3); [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Twenty-Six §5](core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (26.000 §5).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
-  - [Accountability, Contestability, and Redress Pathways](core_03.035_band_accountability.md#accountability-contestability-and-redress-pathways);
-  - [Material Impact](core_03.050_band_oversight.md#material-impact),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence),
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional), and Subcores 3-A to 3-C (traceability, observability, verification) as referenced in
+  - [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways);
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), and Subcores 3-A to 3-C (traceability, observability, verification) as referenced in
   - [Chapter Twenty-Six §5](core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (26.000 §5).
 
 </details>
@@ -6638,11 +6642,11 @@ See **Anti-Segmentation Principle**.
     - published strategy or stewardship claims left unrevised after outcomes contradict stated alignment.
 <a id="review-and-correction-duty-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](core_03.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+  - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) and [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
-    **Primary assessment:** Apply [Materiality](core_03.050_band_oversight.md#materiality) and evidence-of-misalignment tests consistent with:
-    - [Contestability](core_03.035_band_accountability.md#contestability);
-    - [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional); and
+    **Primary assessment:** Apply [Materiality](subcore_03.085_band_oversight.md#materiality) and evidence-of-misalignment tests consistent with:
+    - [Contestability](subcore_03.070_band_accountability.md#contestability);
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional); and
     - Chapter Fifteen **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
 - **What must hold**
@@ -6668,18 +6672,18 @@ See **Anti-Segmentation Principle**.
   - [Article X-A](core_04.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*agency and freedom from manipulation*);
   - [Article XV-A](core_04.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*security, intelligence, and covert-power limits*).
 - Read with: Apply
-  - [Consent](core_03.055_band_participation.md#consent),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing),
-  - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary),
-  - [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary), and **
+  - [Consent](subcore_03.090_band_participation.md#consent),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing),
+  - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary),
+  - [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary), and **
   - [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** where Type H, Type I, Type N, Type S, Type Y, or comparable handling is implicated.
 
-- Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
 - Chapter Two basis: Chapter Two §15.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 </details>
@@ -6696,10 +6700,10 @@ See **Anti-Segmentation Principle**.
 See **Anti-Segmentation Principle**.
 
 **Cluster members.** This cluster comprises the **Def.C3** enumeration:
-- [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
-- [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary) — protection of cognitive, emotional, motivational, memory, preference, identity, and volitional internal states from unauthorized extraction, compelled disclosure, inference, or bypass;
-- [Identity Data Protection](core_03.040_band_continuity.md#identity-data-protection) — the ban on using identity-linked data to infer or reconstruct protected internal states;
-- [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary) — the line between permissible observation or logging and surveillance that impairs agency, privacy, or Rights-Floor access;
+- [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
+- [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) — protection of cognitive, emotional, motivational, memory, preference, identity, and volitional internal states from unauthorized extraction, compelled disclosure, inference, or bypass;
+- [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection) — the ban on using identity-linked data to infer or reconstruct protected internal states;
+- [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary) — the line between permissible observation or logging and surveillance that impairs agency, privacy, or Rights-Floor access;
 - [Article VII-A](core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*);
 - [Article VII-B](core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*);
 - [Article IX](core_04.010_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Likeness, Experiential Data, and Publication Rights*);
@@ -6739,7 +6743,7 @@ See **Anti-Segmentation Principle**.
   - **Not out of scope:** a fact tied to an identified sentient, such as an address, a phone number, or a purchase, stays in scope when it is publicly listed or came from a public record, a directory, or an earlier publication. Public availability does not take it out of the personal, relational, or metadata domains.
 <a id="privacy-informational-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate the complete information lifecycle, including:
     - collection;
@@ -6752,23 +6756,23 @@ See **Anti-Segmentation Principle**.
     - model training;
     - reconstruction; and
     - cross-context combination.
-  - **Secondary measure:** [Consent](core_03.055_band_participation.md#consent), [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary), [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary), and [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) — co-measures that can defeat privacy even when nominal consent or segmentation exists.
+  - **Secondary measure:** [Consent](subcore_03.090_band_participation.md#consent), [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary), [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary), and [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) — co-measures that can defeat privacy even when nominal consent or segmentation exists.
 
     **Secondary assessment:** When evaluating the primary trace, apply, scaled with sensitivity, dependency, material impact, and risk:
-    - [Consent](core_03.055_band_participation.md#consent);
-    - [Necessity](core_03.035_band_accountability.md#necessity);
-    - [Proportionality](core_03.035_band_accountability.md#proportionality);
+    - [Consent](subcore_03.090_band_participation.md#consent);
+    - [Necessity](subcore_03.070_band_accountability.md#necessity);
+    - [Proportionality](subcore_03.070_band_accountability.md#proportionality);
     - data-minimization;
     - contestability; and
     - protected-status safeguards.
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where availability, possession, or prior disclosure metrics substitute for lifecycle privacy discipline.
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where availability, possession, or prior disclosure metrics substitute for lifecycle privacy discipline.
 
-    **Tertiary assessment:** Where operators rely on availability, possession, or prior-disclosure claims, apply [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — distinguish durable privacy from segmentation or read-across evasion.
+    **Tertiary assessment:** Where operators rely on availability, possession, or prior-disclosure claims, apply [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — distinguish durable privacy from segmentation or read-across evasion.
 <a id="privacy-informational-c"></a>
 - **What must hold**
   - **Primary failure:**
     - treating availability, observability, platform possession, or prior disclosure as blanket permission; and
-    - using indirect inference or aggregation to evade privacy duties, or handling [Derived Information](subcore_03.045_band_integrative.md#derived-information) at a lower level than what it reveals.
+    - using indirect inference or aggregation to evade privacy duties, or handling [Derived Information](subcore_03.080_band_integrative.md#derived-information) at a lower level than what it reveals.
   - **Secondary failure:** handling sensitive information in ways that defeat consent, agency, dignity, safety, or contestability.
   - **Tertiary failure:** closing under one privacy locus alone where joint invocation requires cross-locus discipline under this cluster.
 
@@ -6793,7 +6797,7 @@ See **Anti-Segmentation Principle**.
     - voluntary self-expression without compelled extraction.
 <a id="protected-internal-state-boundary-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Count anything that effectively reads or rebuilds protected inner states — even when it never records them directly — including:
     - inferring thoughts, feelings, or motives from behavior;
@@ -6802,7 +6806,7 @@ See **Anti-Segmentation Principle**.
     - scoring intimate signals (emotion, stress, arousal, and comparable scores);
     - forcing sentients to report their own inner states; and
     - security or productivity tools that expose those states.
-  - **Secondary measure:** [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational), [Identity Data Protection](core_03.040_band_continuity.md#identity-data-protection), [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary), [Consent](core_03.055_band_participation.md#consent), and [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) — co-measures that can defeat boundary protection even when direct recording is avoided.
+  - **Secondary measure:** [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection), [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary), [Consent](subcore_03.090_band_participation.md#consent), and [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) — co-measures that can defeat boundary protection even when direct recording is avoided.
 
     **Secondary assessment:** When evaluating the primary trace, evaluate whether:
     - the practice reconstructs or pressures protected states even if it avoids direct recording; and
@@ -6828,10 +6832,10 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** ordinary identity or credential use that does not link to, infer, or reconstruct Type N internal states.
 <a id="identity-data-protection-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Check whether identity-linked records, credentials, or attribution chains are used to infer, score, or reconstruct protected internal states, and whether any such linkage rests on explicit consent or a justified override under **CJS-3.125 §12** (*burden-of-justification and constraint terms*).
-  - **Secondary measure:** [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary), [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational), and [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity) — co-measures that can defeat the restricted-linkage ban even when nominal domain separation exists.
+  - **Secondary measure:** [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary), [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), and [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) — co-measures that can defeat the restricted-linkage ban even when nominal domain separation exists.
 
     **Secondary assessment:** When evaluating the primary trace, apply **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
 <a id="identity-data-protection-c"></a>
@@ -6858,7 +6862,7 @@ See **Anti-Segmentation Principle**.
       - anonymous sales totals.
 <a id="surveillance-boundary-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Consider:
     - scope;
@@ -6873,7 +6877,7 @@ See **Anti-Segmentation Principle**.
     - access;
     - alternatives; and
     - dependency.
-  - **Secondary measure:** [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary), [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), and [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) — co-measures that can defeat boundary discipline even when monitoring is formally authorized.
+  - **Secondary measure:** [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary), [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) — co-measures that can defeat boundary discipline even when monitoring is formally authorized.
 
     **Secondary assessment:** When evaluating the primary trace, assess whether a monitoring practice crosses the boundary because:
     - less intrusive means were feasible;
@@ -6886,7 +6890,7 @@ See **Anti-Segmentation Principle**.
     - covert;
     - indefinite; or
     - dependency-backed.
-  - **Secondary failure:** monitoring framed as security or productivity that reconstructs protected internal states contrary to [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary).
+  - **Secondary failure:** monitoring framed as security or productivity that reconstructs protected internal states contrary to [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary).
 
 ---
 
@@ -6898,17 +6902,17 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §7, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Verifiability](core_03.050_band_oversight.md#verifiability), and
-  - [Psychological Harm](core_03.035_band_accountability.md#psychological-harm) where materially implicated.
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Verifiability](subcore_03.085_band_oversight.md#verifiability), and
+  - [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm) where materially implicated.
 
 </details>
 
@@ -6935,14 +6939,14 @@ See **Anti-Segmentation Principle**.
   - means of verification.
 - **Anti-bypass:** the trust-only and trustworthiness-only frames must not be separated in a way that:
   - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
-  - satisfy one [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
+  - satisfy one [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
 
   See **Joint invocation and satisfaction** and Subcore 3-B §2 (*Definition Integrity and Anti-Evasion Constraints*) through §3 (*Non-Compliance from Observable System Behavior*).
 
 **Cluster members.** This cluster comprises:
-- [Trust](core_03.040_band_continuity.md#trust) — reliance grounded exclusively in demonstrated trustworthiness;
-- [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) — reliability of system behavior relative to stated properties, demonstrated through observable and verifiable conduct over time;
-- [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance) — conditions where misrepresentation, inconsistency, unresolved failure, verification erosion, or material omission defeats justified reliance.
+- [Trust](subcore_03.075_band_continuity.md#trust) — reliance grounded exclusively in demonstrated trustworthiness;
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) — reliability of system behavior relative to stated properties, demonstrated through observable and verifiable conduct over time;
+- [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance) — conditions where misrepresentation, inconsistency, unresolved failure, verification erosion, or material omission defeats justified reliance.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -6957,10 +6961,10 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [6. System Stability Enabler: Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with:
-  - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Auditability](core_03.050_band_oversight.md#auditability), and
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability).
+  - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability), and
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -6971,19 +6975,19 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** reputation, history, scale, or endorsement as social or commercial facts not offered as the basis for justified reliance.
 <a id="trust-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
-    **Primary assessment:** Ask whether reliance is justified by applying the [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) assessment and compliance components as a single joint test.
+    **Primary assessment:** Ask whether reliance is justified by applying the [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) assessment and compliance components as a single joint test.
   - **Secondary measure:** co-measures that supply the evidence that joint test rests on:
-    - [Transparency](core_03.050_band_oversight.md#transparency);
-    - [Auditability](core_03.050_band_oversight.md#auditability); and
-    - [Accountability](core_03.005_apex_accountability_leg.md#accountability).
+    - [Transparency](subcore_03.085_band_oversight.md#transparency);
+    - [Auditability](subcore_03.085_band_oversight.md#auditability); and
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
 
     **Secondary assessment:** When evaluating the primary trace, do not treat trust claims as severable from the observable and verifiable evidence those co-measures require.
 <a id="trust-c"></a>
 - **What must hold**
-  - **Primary failure:** isolating **trust** or **reliance** rationales from [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) requirements, where materially relevant.
-  - **Secondary failure:** treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](core_03.040_band_continuity.md#trustworthiness), where materially relevant.
+  - **Primary failure:** isolating **trust** or **reliance** rationales from [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) requirements, where materially relevant.
+  - **Secondary failure:** treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness), where materially relevant.
 
 ---
 
@@ -6996,11 +7000,11 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [6. System Stability Enabler: Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with:
-  - [Trust](core_03.040_band_continuity.md#trust),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability), and
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity).
+  - [Trust](subcore_03.075_band_continuity.md#trust),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
 
 </details>
 
@@ -7008,9 +7012,9 @@ See **Anti-Segmentation Principle**.
 
 <a id="trustworthiness-o"></a>
 - **What it is**
-  - **In scope:** Reliability of system behavior relative to stated properties — demonstrated through observable, verifiable conduct over time across normal, degraded, and stressed conditions — sufficient to justify [Trust](core_03.040_band_continuity.md#trust). Trustworthiness encompasses:
-    - evidentiary basis grounded in observable behavior and [Attributable Action](core_03.035_band_accountability.md#attributable-action);
-    - psychological safety conditions enabling [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency);
+  - **In scope:** Reliability of system behavior relative to stated properties — demonstrated through observable, verifiable conduct over time across normal, degraded, and stressed conditions — sufficient to justify [Trust](subcore_03.075_band_continuity.md#trust). Trustworthiness encompasses:
+    - evidentiary basis grounded in observable behavior and [Attributable Action](subcore_03.070_band_accountability.md#attributable-action);
+    - psychological safety conditions enabling [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency);
     - transparent, auditable, and contestable methodology;
     - class-scaled assessment for non-**Class P** systems;
     - informed consent and non-coercive participation pathways;
@@ -7020,28 +7024,28 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** reputation, scale, endorsement, or history as social or commercial facts not offered as demonstrated reliability for justified reliance.
 <a id="trustworthiness-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
     **Primary assessment:** Ask whether the system is trustworthy under the joint evidence requirements below where they matter. Judge by current behavior that can be observed and verified — not by claims, reputation, or past performance alone:
     - evidentiary basis and temporal consistency;
     - psychological safety and substantive agency;
-    - modeling, methodology, and [Contestability](core_03.035_band_accountability.md#contestability);
+    - modeling, methodology, and [Contestability](subcore_03.070_band_accountability.md#contestability);
     - class-scaled assessment under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*);
     - consent and non-coercive participation;
     - justified reliance scope boundaries;
     - continuous revalidation;
     - decision-usable transparency; and
-    - [Auditability](core_03.050_band_oversight.md#auditability) with independent verification.
-  - **Secondary measure:** [Trust](core_03.040_band_continuity.md#trust), [Auditability](core_03.050_band_oversight.md#auditability), [Transparency](core_03.050_band_oversight.md#transparency), [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity), and [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) — co-measures that can defeat trustworthiness even when reputation or history appear favorable.
+    - [Auditability](subcore_03.085_band_oversight.md#auditability) with independent verification.
+  - **Secondary measure:** [Trust](subcore_03.075_band_continuity.md#trust), [Auditability](subcore_03.085_band_oversight.md#auditability), [Transparency](subcore_03.085_band_oversight.md#transparency), [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), and [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) — co-measures that can defeat trustworthiness even when reputation or history appear favorable.
 
     **Secondary assessment:** When evaluating the primary trace, include degradation that would defeat justified reliance under:
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in);
-    - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation); and
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency).
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where endorsement, scale, or engagement metrics substitute for observable reliable behavior.
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in);
+    - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation); and
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency).
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where endorsement, scale, or engagement metrics substitute for observable reliable behavior.
 
-    **Tertiary assessment:** Where operators rely on reputation, scale, adoption, or proxy satisfaction, apply [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — distinguish durable trustworthiness from indicator gaming.
+    **Tertiary assessment:** Where operators rely on reputation, scale, adoption, or proxy satisfaction, apply [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — distinguish durable trustworthiness from indicator gaming.
 <a id="trustworthiness-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -7049,11 +7053,11 @@ See **Anti-Segmentation Principle**.
     - substituting prior performance, scale, adoption, reputation, history, or third-party endorsement for current, independent, observable, and verifiable evidence; and
     - inferring trust from intent or unverifiable claims.
   - **Secondary failure:**
-    - sustaining participation through [coercion](core_03.055_band_participation.md#coercion-and-manipulation), [lock-in](core_03.040_band_continuity.md#systemic-lock-in), or absence of viable alternatives;
+    - sustaining participation through [coercion](subcore_03.090_band_participation.md#coercion-and-manipulation), [lock-in](subcore_03.075_band_continuity.md#systemic-lock-in), or absence of viable alternatives;
     - obscuring behavior, risks, or dependencies that impair informed trust; and
-    - persistently destabilizing or manipulative behavior constituting [Psychological Harm](core_03.035_band_accountability.md#psychological-harm) or [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation).
+    - persistently destabilizing or manipulative behavior constituting [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm) or [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation).
   - **Tertiary failure:**
-    - treating proxy or endorsement satisfaction as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable; and
+    - treating proxy or endorsement satisfaction as dispositive where [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable; and
     - cherry-picking one assessment element to bypass another where joint satisfaction is required.
 
 ---
@@ -7067,14 +7071,14 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
 - Read with:
-  - [Trust](core_03.040_band_continuity.md#trust),
-  - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
-  - [Contestability](core_03.035_band_accountability.md#contestability), and
-  - [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation).
+  - [Trust](subcore_03.075_band_continuity.md#trust),
+  - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability), and
+  - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
 
 </details>
 
@@ -7082,13 +7086,13 @@ See **Anti-Segmentation Principle**.
 
 <a id="trust-degradation-and-misleading-reliance-o"></a>
 - **What it is**
-  - **In scope:** Evaluation conditions in which material reliance is at stake for decisions, continued participation, or [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional), where that reliance rests on represented:
+  - **In scope:** Evaluation conditions in which material reliance is at stake for decisions, continued participation, or [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional), where that reliance rests on represented:
     - capability;
     - risk;
     - intent;
     - limits;
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [standing](core_03.035_band_accountability.md#participant-standing); or
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [standing](subcore_03.070_band_accountability.md#participant-standing); or
     - cross-implementation assurance.
   - **In scope — included contexts:** contexts where trust degradation is reasonably detectable, or where prevention of misleading reliance is required, including:
     - subscription;
@@ -7110,47 +7114,47 @@ See **Anti-Segmentation Principle**.
     - fair marketing that does not misrepresent capability, risk, intent, limits, or dependency for material reliance.
 <a id="trust-degradation-and-misleading-reliance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
     **Primary assessment:** First confirm this entry actually applies — material reliance is at stake under the scope above. Then evaluate under these requirements together:
-    - **Representation-behavior consistency:** check that what the system says matches what it actually does, using [Verifiability](core_03.050_band_oversight.md#verifiability) evidence — not claims alone.
+    - **Representation-behavior consistency:** check that what the system says matches what it actually does, using [Verifiability](subcore_03.085_band_oversight.md#verifiability) evidence — not claims alone.
     - **Omission and contextual completeness:** check whether sentients get what they need to decide wisely, including:
       - material facts left out; and
       - enough surrounding context to understand what is being relied on.
     - **Verification, challenge, dependency, and exit:** integrate:
-      - practical [Verifiability](core_03.050_band_oversight.md#verifiability);
-      - practical [Contestability](core_03.035_band_accountability.md#contestability);
-      - [Dependency](core_03.040_band_continuity.md#dependency) conditions; and
-      - exit conditions under [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in).
+      - practical [Verifiability](subcore_03.085_band_oversight.md#verifiability);
+      - practical [Contestability](subcore_03.070_band_accountability.md#contestability);
+      - [Dependency](subcore_03.075_band_continuity.md#dependency) conditions; and
+      - exit conditions under [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in).
     - **Ongoing misalignment:** harms or inaccuracies that pile up or stay unresolved and change whether continued reliance is justified.
     - **Attribution and correction:** support:
-      - attribution of causes along an [Accountability](core_03.005_apex_accountability_leg.md#accountability) answerability chain; and
-      - proportionate correction aligned with root causes and [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) where systems are assessed under adopted implementation requirements on trust and reliability.
+      - attribution of causes along an [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) answerability chain; and
+      - proportionate correction aligned with root causes and [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) where systems are assessed under adopted implementation requirements on trust and reliability.
     - **External detectability, independent verification, and stressed-condition effectiveness:** supporting capabilities must be:
-      - [Verifiability](core_03.050_band_oversight.md#verifiability)-grounded (externally detectable and independently validated); and
+      - [Verifiability](subcore_03.085_band_oversight.md#verifiability)-grounded (externally detectable and independently validated); and
       - effective under normal, degraded, and adversarial conditions.
-    - **Proportional intensity scaling:** [Proportional](core_03.035_band_accountability.md#proportionality) intensity must scale with:
-      - [Material Impact](core_03.050_band_oversight.md#material-impact);
-      - stakeholder [Dependency](core_03.040_band_continuity.md#dependency);
-      - [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm) risk from failure; and
+    - **Proportional intensity scaling:** [Proportional](subcore_03.070_band_accountability.md#proportionality) intensity must scale with:
+      - [Material Impact](subcore_03.085_band_oversight.md#material-impact);
+      - stakeholder [Dependency](subcore_03.075_band_continuity.md#dependency);
+      - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) risk from failure; and
       - reliance on system outputs for decision-making.
     - **Trust-erosion pattern mapping:** map each materially present pattern through:
-      - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity);
-      - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
-      - [Transparency](core_03.050_band_oversight.md#transparency);
-      - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness);
-      - [Contestability](core_03.035_band_accountability.md#contestability);
-      - [Auditability](core_03.050_band_oversight.md#auditability);
-      - [Verifiability](core_03.050_band_oversight.md#verifiability);
-      - [Dependency](core_03.040_band_continuity.md#dependency);
-      - [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in);
-      - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation); and
+      - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity);
+      - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
+      - [Transparency](subcore_03.085_band_oversight.md#transparency);
+      - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness);
+      - [Contestability](subcore_03.070_band_accountability.md#contestability);
+      - [Auditability](subcore_03.085_band_oversight.md#auditability);
+      - [Verifiability](subcore_03.085_band_oversight.md#verifiability);
+      - [Dependency](subcore_03.075_band_continuity.md#dependency);
+      - [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in);
+      - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation); and
       - applicable adopted implementation expectations on trust and verification.
-  - **Secondary measure:** [Auditability](core_03.050_band_oversight.md#auditability) and [Accountability](core_03.005_apex_accountability_leg.md#accountability) — co-measures for reconstructable records and an attributable answerability chain when trust degrades.
+  - **Secondary measure:** [Auditability](subcore_03.085_band_oversight.md#auditability) and [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) — co-measures for reconstructable records and an attributable answerability chain when trust degrades.
 
     **Secondary assessment:** When evaluating the primary trace, ask whether degradation can be:
-    - reconstructed under [Auditability](core_03.050_band_oversight.md#auditability); and
-    - attributed to identifiable actors, roles, or system components under [Accountability](core_03.005_apex_accountability_leg.md#accountability) —
+    - reconstructed under [Auditability](subcore_03.085_band_oversight.md#auditability); and
+    - attributed to identifiable actors, roles, or system components under [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) —
 
     not only detected as a pattern.
 <a id="trust-degradation-and-misleading-reliance-c"></a>
@@ -7165,6 +7169,6 @@ See **Anti-Segmentation Principle**.
 
 ---
 
-**Previous file:** [core_03.035_band_accountability.md](core_03.035_band_accountability.md)
+**Previous file:** [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md)
 
-**Next file:** [core_03.050_band_oversight.md](core_03.050_band_oversight.md)
+**Next file:** [subcore_03.080_band_integrative.md](subcore_03.080_band_integrative.md)

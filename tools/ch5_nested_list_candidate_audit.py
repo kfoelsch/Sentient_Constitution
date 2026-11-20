@@ -55,7 +55,7 @@ Run:
     make ch19-nested-list-candidates
     make ch20-nested-list-candidates
     python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 20
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_03.035_band_accountability.md
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --file subcore_03.070_band_accountability.md
 """
 
 from __future__ import annotations

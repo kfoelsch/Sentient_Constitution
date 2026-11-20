@@ -5,7 +5,7 @@
   "note": "Hashes identify consulted dependencies, not completed whole-file reviews. Chapter Five belongs to steward work and was separately committed as 616dda15 during this pass. Forum kit worktree hash includes B02 template repair; CS-4.335 worktree hash includes B03 gloss alignment. If a dependency changes, reassess the affected findings. No resolver index is a meaning source.",
   "sources": [
     {
-      "path": "core_03.035_band_accountability.md",
+      "path": "subcore_03.070_band_accountability.md",
       "head_sha256": "9b7b5a34681e1d983fa09de5eaa403869ab301c4562592b0140dd6a1e7b62c18",
       "worktree_sha256": "9b7b5a34681e1d983fa09de5eaa403869ab301c4562592b0140dd6a1e7b62c18",
       "differs_from_head": false

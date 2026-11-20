@@ -84,12 +84,12 @@ Institutions merge, split, change owners, and change leaders. A certification th
 - Upstream:
   - [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3), including [§3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) and [§3.2 Transparency and Auditability of the System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
-  - [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record);
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
   - [CS-4.310 Part B §9.3 Type O](corpus_systems/cs_04.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data).
 - Downstream: [§4](#4-recertification-and-reopening); [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing).
 - Read with:
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record);
-  - [Charter Role Map](core_03.040_band_continuity.md#charter-role-map).
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map).
 
 </details>
 
@@ -99,7 +99,7 @@ Institutions merge, split, change owners, and change leaders. A certification th
 
 This section is **Phase V, Record** for an Institution.
 
-An **Institutional Certification Record** is bounded and reviewable, and is about one Institution, one Institutional Charter version, one certified scope, one record span, and one decision context. It satisfies and extends the [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record) and [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). It is opened by the record seat holder at step 1 of the sequence and completed with the outcome. No second record is opened for the decision. The record-keeping rules of [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) apply to it (Record Versions, no change in place to a completed Institutional Certification Record, change requests logged, and a challenge that does not freeze the Institutional Certification Record), with the Institutional Charter version in place of the System Version.
+An **Institutional Certification Record** is bounded and reviewable, and is about one Institution, one Institutional Charter version, one certified scope, one record span, and one decision context. It satisfies and extends the [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) and [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). It is opened by the record seat holder at step 1 of the sequence and completed with the outcome. No second record is opened for the decision. The record-keeping rules of [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) apply to it (Record Versions, no change in place to a completed Institutional Certification Record, change requests logged, and a challenge that does not freeze the Institutional Certification Record), with the Institutional Charter version in place of the System Version.
 
 <a id="31-minimum-record-contents"></a>
 
@@ -153,9 +153,9 @@ The integrity rules of [Chapter Ten §3.2 Transparency and Auditability of the S
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6).
 - Downstream: [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
 - Read with:
-  - [Recertification](core_03.040_band_continuity.md#recertification);
-  - [Provisional Certification](core_03.040_band_continuity.md#provisional-certification);
-  - [Full Certification](core_03.040_band_continuity.md#full-certification);
+  - [Recertification](subcore_03.075_band_continuity.md#recertification);
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification);
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification);
   - **CF-22.435 §7** (*no self-investigation*).
 
 </details>
@@ -204,7 +204,7 @@ An Institutional Certification Record is recertified on the cadence set for the 
 - **Portfolio change:**
   - a System added, retired, merged, split, or transferred to or from the Institution; or
   - a change in who controls one;
-- **New material authority:** the Institution takes on authority over others that is material under [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality) and that its Institutional Charter and current Institutional Certification Record do not cover (defined in [§4.2.1 What Counts as New Material Authority](#421-what-counts-as-new-material-authority); the recertification it requires is in [§4.2.2 Recertification for New Material Authority](#422-recertification-for-new-material-authority));
+- **New material authority:** the Institution takes on authority over others that is material under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) and that its Institutional Charter and current Institutional Certification Record do not cover (defined in [§4.2.1 What Counts as New Material Authority](#421-what-counts-as-new-material-authority); the recertification it requires is in [§4.2.2 Recertification for New Material Authority](#422-recertification-for-new-material-authority));
 - **Change of ownership, control, or structure,** including any change that moves authority outside the line that was evaluated ([Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes));
 - **Reward and incentive change:** a material change to the Institution's pay, promotion, target, or reward structure;
 - **Role Map or custody defect:**
@@ -214,7 +214,7 @@ An Institutional Certification Record is recertified on the cadence set for the 
 - **Office-holder events:**
   - a change of holder in a covered office;
   - a change in who controls one;
-  - a verified standing lock or an [Interim Hold](core_03.035_band_accountability.md#interim-hold) on a holder; or
+  - a verified standing lock or an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) on a holder; or
   - a finding that the formation check statement was false or incomplete;
 - **Readiness events,** under [Chapter Nine §4.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.000_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct):
   - a missed proof step or certification condition deadline; or
@@ -229,7 +229,7 @@ A material and timely trigger requires timely forum review and does not wait for
 
 Authority is **new material authority** when both of these hold:
 
-- **Material:** It is authority to decide, direct, allocate, restrict, or control something for others, and it is material to them under [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality).
+- **Material:** It is authority to decide, direct, allocate, restrict, or control something for others, and it is material to them under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
 - **Not covered:** Neither the Institution's Institutional Charter nor its current Institutional Certification Record covers it.
 
 It includes:
@@ -237,8 +237,8 @@ It includes:
 - a new function, or a new kind of decision, over others;
 - a new group of sentients that the Institution governs or affects;
 - a new domain, resource, or shared system that the Institution controls;
-- a reach that is material only when counted together with Operating Parties under common control or with others on the same shared system ([Materiality Integrity Constraint](core_03.050_band_oversight.md#materiality-integrity-constraint); [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality)); and
-- a pilot or trial of any of the above that is itself material, judged under [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality) on its actual scope, population, and duration. Such a pilot exercises the authority, so it waits for the recertification like the full authority, as [Chapter Eight §3.3 Pilot Certification](core_08.000_system_alignment_certification_evaluation.md#33-pilot-certification) treats a System pilot as a go-live. The recertification is scaled to the pilot's actual scope, population, and duration. A pilot that is not material on those terms is not new material authority.
+- a reach that is material only when counted together with Operating Parties under common control or with others on the same shared system ([Materiality Integrity Constraint](subcore_03.085_band_oversight.md#materiality-integrity-constraint); [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality)); and
+- a pilot or trial of any of the above that is itself material, judged under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) on its actual scope, population, and duration. Such a pilot exercises the authority, so it waits for the recertification like the full authority, as [Chapter Eight §3.3 Pilot Certification](core_08.000_system_alignment_certification_evaluation.md#33-pilot-certification) treats a System pilot as a go-live. The recertification is scaled to the pilot's actual scope, population, and duration. A pilot that is not material on those terms is not new material authority.
 
 It does not include:
 
@@ -256,12 +256,12 @@ An Institution that decides to take on new material authority must be recertifie
 
 - **Notice first:** The Institution gives the notice of the Institutional Charter amendment that [Chapter Five §9.1 Changing the Document](core_05.000_charters.md#91-changing-the-document) already requires, and sends it to the lead forum. The notice opens the recertification.
 - **No Institutional Certification Record yet:** An Institution with no Institutional Certification Record gives the same notice. The notice opens a first certification limited to the new authority, judged against the Institutional Charter and the evaluations in [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) to [§6 Rights-Floor and Domain Evaluations](core_11.000_institutional_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) as they bear on that authority. The rest of the first certification still runs on the window in [§2.3 Window for the First Certification](core_11.000_institutional_alignment_certification_evaluation.md#23-window-for-the-first-certification) (for a Class P Institution reclassified by the notice, a window that runs from the notice), and the wait for the new authority does not depend on it.
-- **Within the tier windows:** The recertification runs under the tier windows of [Chapter Ten §4.3.4 Tier Windows](core_10.000_system_alignment_certification_records_recertification.md#434-tier-windows), with the tier presumptively matching the institution class. A missed window is handled under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*), and fees and waits may not become a barrier ([Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden)).
+- **Within the tier windows:** The recertification runs under the tier windows of [Chapter Ten §4.3.4 Tier Windows](core_10.000_system_alignment_certification_records_recertification.md#434-tier-windows), with the tier presumptively matching the institution class. A missed window is handled under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*), and fees and waits may not become a barrier ([Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden)).
 - **Automated where it can be:** The notice, the comparison of the new authority with the Institutional Charter and current Institutional Certification Record, the screen for blockers, and the clearance are automated wherever the forum's systems allow. [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) makes automation the preferred remedy for an avoidable burden, and [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) puts the burden of automation on the system and not on the steward.
   - **Clears, does not refuse:** An automated screen may clear the new authority, either outright or with the certification conditions the current Institutional Certification Record already supports. It may not, on its own, state a blocker (one of those in [§4.2.3 Blockers to Clearing New Material Authority](#423-blockers-to-clearing-new-material-authority)) or decline to clear. The screen may flag a possible blocker, but only a sentient reviewer in the lead forum may state one, after looking at what the screen flagged.
   - **Classes A, B, and C:** A sentient reviewer in the lead forum confirms every clearance before it counts as the official response. This applies to an Institution in one of those classes, and to one that the new authority would bring into one. The intake target still applies to the confirmation. The reviewer sits in the lead forum, which already holds the verify-or-authorize seat and must be independent of the Institution ([§3.1 Four Seats in an Institutional Certification](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#31-four-seats-in-an-institutional-certification)).
   - **Classes L and P:** An automated clearance counts as the official response without confirmation. A Class P Institution is reclassified to at least Class L when it gives the notice ([§2.1 Who Is Certified](core_11.000_institutional_alignment_certification_evaluation.md#21-who-is-certified)), so for it this is the Class L rule.
-  - **Exceptional circumstances:** A sentient reviewer takes the matter instead, in any class when the screen flags a possible blocker, when the screen cannot tell whether the authority is covered or material, or when the Institution or an affected sentient asks for review. A request for review is answered by the [matching intake target](core_03.040_band_continuity.md#tier-window), counted from the request. It does not extend the tier window.
+  - **Exceptional circumstances:** A sentient reviewer takes the matter instead, in any class when the screen flags a possible blocker, when the screen cannot tell whether the authority is covered or material, or when the Institution or an affected sentient asks for review. A request for review is answered by the [matching intake target](subcore_03.075_band_continuity.md#tier-window), counted from the request. It does not extend the tier window.
   - **Same Institutional Certification Record and same clocks:** The Institutional Certification Record shows the checks that were run, so an automated clearance can be challenged like any other decision. Automation does not extend the intake target or the tier window, and a screen that is down or fails to answer is a missed response under the bullet below. The forum answers for the screen as for any System it uses ([§3.3 Forums, Certifiers, and Record Offices as Institutions](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#33-forums-certifiers-and-record-offices-as-institutions)).
 - **The wait:** The Institution does not exercise the new authority until the recertification clears it.
   - **Every class waits:** No class is exempt, and neither emergency nor urgency lifts the wait.
@@ -310,7 +310,7 @@ flowchart TD
 
 The lead forum may decline to clear new material authority only for one of these blockers. Blocker 2 is mostly a matter of plain fact, read from the Charter Role Map and the authority chain, and an automated screen can run it ([§4.2.2 Recertification for New Material Authority](#422-recertification-for-new-material-authority)). Blockers 1, 3, 4, and 5 call for judgment, so a screen may flag them and only a sentient reviewer may state them. Each must be shown on evidence about the new authority or about the Institution's readiness to hold it, and the forum states it on the Institutional Certification Record with what would clear it:
 
-1. **Misaligned authority:** The new authority would violate a [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) or a Rights Floor protection, or the evaluations in [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) to [§6 Rights-Floor and Domain Evaluations](core_11.000_institutional_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) find a certification defect in it, and no certification condition could contain the problem.
+1. **Misaligned authority:** The new authority would violate a [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) or a Rights Floor protection, or the evaluations in [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) to [§6 Rights-Floor and Domain Evaluations](core_11.000_institutional_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) find a certification defect in it, and no certification condition could contain the problem.
 2. **No accountability for it:** No accountable office can be named for the new authority, or no independent route can reach it, as [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (items 3 and 5) requires.
 3. **Unresolved misalignment and no readiness to correct it:** A current misalignment of the Institution that bears on the new authority is unresolved, and the readiness check in [§4.3 Remediation Readiness for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-for-an-institution) finds the Institution not willing, or not able, to correct it inside the tier windows.
 4. **Concealment:** The notice or the Institution's showing is false, fabricated, or materially concealed.
@@ -323,7 +323,7 @@ These are not blockers:
 - the cost or workload of the recertification for the forum; or
 - a good-faith dispute with a finding, made through the published route ([Chapter Nine §4.3.1 Willingness](core_09.000_system_alignment_certification_forum_process_outcomes.md#431-willingness)).
 
-**Holds and locks still apply.** The three narrow gates of **Article XI-E** (*Institutional Formation and Business Creation*) apply on their own terms. An [Interim Hold](core_03.035_band_accountability.md#interim-hold) or a standing lock on a named sentient bars that sentient, within its gated pathway, from taking or exercising the new authority. It bars the sentient and not the Institution, and it is not a blocker on the Institution, so the authority can still be cleared for another holder.
+**Holds and locks still apply.** The three narrow gates of **Article XI-E** (*Institutional Formation and Business Creation*) apply on their own terms. An [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) or a standing lock on a named sentient bars that sentient, within its gated pathway, from taking or exercising the new authority. It bars the sentient and not the Institution, and it is not a blocker on the Institution, so the authority can still be cleared for another holder.
 
 Before the forum decides not to clear, the Institution is told the blocker and the evidence and has the chance to answer inside the tier window. The decision states its reasons on the Institutional Certification Record ([Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents)).
 
@@ -461,11 +461,11 @@ Item 6 (currency of each cited System certification) is not a governance violati
   - [Chapter Ten §5 Challenging a Certification](core_10.000_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (10.000 §5), including [§5.1 When the Path Opens](core_10.000_system_alignment_certification_records_recertification.md#51-when-the-path-opens) and [§5.2 Contestability Paths](core_10.000_system_alignment_certification_records_recertification.md#52-contestability-paths);
   - [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (*the order the challenge paths run in*);
   - [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
-  - [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality).
+  - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
 - Downstream: [§6](#6-relationship-to-standing).
 - Read with:
-  - [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record);
-  - [Contestability](core_03.035_band_accountability.md#contestability).
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 </details>
 
@@ -478,7 +478,7 @@ This section is **Phase VI, Operate** for an Institution. It covers how affected
 In short, as Chapter Ten §5 Challenging a Certification states it:
 
 - **Real ways to challenge:** the Institutional Certification Record must state the contestability paths of [§5.2 Contestability Paths](#52-contestability-paths), enough to contest its content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, and continued reliance. The paths must work and be easy to use, and not be ceremonial.
-- **What a challenge can do:** it must be able to reopen review, [stay](core_03.035_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown, and route to the forum family with lawful jurisdiction over the challenged point.
+- **What a challenge can do:** it must be able to reopen review, [stay](subcore_03.070_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown, and route to the forum family with lawful jurisdiction over the challenged point.
 - **Scale:** these duties scale with institution class and material impact, and they do not go away because of how the Institution or its activity is labeled, where material impact is present.
 
 <a id="51-when-the-path-opens"></a>
@@ -489,7 +489,7 @@ In short, as Chapter Ten §5 Challenging a Certification states it:
 
 [Chapter Ten §5.1 When the Path Opens](core_10.000_system_alignment_certification_records_recertification.md#51-when-the-path-opens) applies, reading Institution for system. When the path opens, and how long it stays open:
 
-- **An Institution that already has stakeholders:** its path is already open, or it opens when its Institutional Certification Record opens. The rule reaches an Institution in an Adoption Transition window under [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), and one in a [later certification pass](core_03.040_band_continuity.md#certification-pass).
+- **An Institution that already has stakeholders:** its path is already open, or it opens when its Institutional Certification Record opens. The rule reaches an Institution in an Adoption Transition window under [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), and one in a [later certification pass](subcore_03.075_band_continuity.md#certification-pass).
 - **An Institution with no stakeholders yet:** the published record challenge path opens when its first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, from the start. Until then the Institutional Certification Record still names the path ([§3.2 Forum Roles and Sequence](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence)), and the other paths in [§5.2 Contestability Paths](#52-contestability-paths) are available throughout review.
 
 These two bullets replace the bullets of Chapter Ten §5.1 When the path opens that depend on a System's go-live. The rest is as Chapter Ten §5.1 When the path opens states it. Stakeholders are the sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as the Institution identifies them. The path stays open while the Institution has stakeholders, and an Institution that gains stakeholders after certification reopens review under [§4 Recertification and Reopening](#4-recertification-and-reopening). A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record.
@@ -512,7 +512,7 @@ Direct access to a forum path remains available when delay would materially enda
 Two points are specific to an Institution:
 
 - A challenge to a System's own certification goes to that System's record. It is not heard in the Institution's certification pass.
-- A challenge to the Institution's class goes by the Challenge route in [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality). Challenges on related points are heard together as one matter.
+- A challenge to the Institution's class goes by the Challenge route in [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality). Challenges on related points are heard together as one matter.
 
 <a id="6-relationship-to-standing"></a>
 
@@ -525,7 +525,7 @@ Two points are specific to an Institution:
   - [§3](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process) through [§4](#4-recertification-and-reopening);
   - [Chapter Ten §6 Relationship to Standing](core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (10.000 §6);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [Verified Inputs for Standing](core_03.035_band_accountability.md#verified-inputs-for-standing).
+  - [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing).
 - Downstream: [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (*Standing Records and verified-input gate*); [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*standing effects and integration*).
 - Read with:
   - **Article III-A** (*Survival*);
@@ -543,14 +543,14 @@ This section is **Phase VI, Operate** for an Institution. It is the standing bri
 
 #### 6.1 What May Pass to Standing
 
-Only the [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Fourteen's verified-input gate ([Chapter Fourteen §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate)), as [§6.3 Verified-Input Gate](#63-verified-input-gate) below sets out:
+Only the [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Fourteen's verified-input gate ([Chapter Fourteen §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate)), as [§6.3 Verified-Input Gate](#63-verified-input-gate) below sets out:
 
 - An Institutional Certification Record showing that the Institution's own conduct really lines up with the Rights Floor can supply verified **Flourishing**-side input, for a **contribution Standing Record** ([§6.4 Contribution Standing Record](#64-contribution-standing-record)).
 - An Institutional Certification Record documenting that the Institution was misclassified, hid defects, or operated in ways that defeat the Rights Floor can supply verified **Accountability**-side input, for a **violation Standing Record** ([§6.5 Violation Standing Record](#65-violation-standing-record)).
 
 This bridge covers only what the Institutional Certification Record can pass on. Any other verified input about an Institution, such as a standing finding made in a forum case, reaches standing by its own route under Chapter Fourteen. Chapter Fourteen decides which other inputs it accepts, and this bridge neither adds to them nor limits them.
 
-**What the bridge carries, and what it does not:** it carries facts from the Institutional Certification Record and nothing else. An operation that passes any other information on to the standing process, whether the Institution runs it directly or through a System, is not covered by this bridge or by the Institutional Certification Record. It is its own [System](core_03.040_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it, and it is evaluated, classified, and certified as a System on its own, as [Chapter Ten §6.1 What a System Certification Record Can Pass on to Standing](core_10.000_system_alignment_certification_records_recertification.md#61-what-a-system-certification-record-can-pass-on-to-standing) states. What it passes on still has to clear the verified-input gate in [§6.3 Verified-Input Gate](#63-verified-input-gate).
+**What the bridge carries, and what it does not:** it carries facts from the Institutional Certification Record and nothing else. An operation that passes any other information on to the standing process, whether the Institution runs it directly or through a System, is not covered by this bridge or by the Institutional Certification Record. It is its own [System](subcore_03.075_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it, and it is evaluated, classified, and certified as a System on its own, as [Chapter Ten §6.1 What a System Certification Record Can Pass on to Standing](core_10.000_system_alignment_certification_records_recertification.md#61-what-a-system-certification-record-can-pass-on-to-standing) states. What it passes on still has to clear the verified-input gate in [§6.3 Verified-Input Gate](#63-verified-input-gate).
 
 <a id="62-every-certification-outcome"></a>
 

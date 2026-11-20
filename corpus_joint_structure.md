@@ -28,7 +28,7 @@ The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and bo
 **Implements from the core files:**
 
 - [Chapter Two](core_02.000_values_principles.md) / [Preamble](core_00.000_preamble.md) — [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) provide the compass for **oDef** and the shared operational clusters.
-- [Chapter Three](core_03.000_definitions_home.md) definition stack and [Corpus](subcore_03.045_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
+- [Chapter Three](core_03.000_definitions_home.md) definition stack and [Corpus](subcore_03.080_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
 - Cross-layer support for [Chapter Four](core_04.000_rights_part_a.md) through [Chapter Twenty-Six](core_26.000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
 - [Chapter Thirty](core_30.000_incorporation.md) incorporation discipline for how implementation text binds when adopted
 

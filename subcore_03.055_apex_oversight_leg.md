@@ -1,8 +1,12 @@
-# CHAPTER THREE DEFINITIONS: OVERSIGHT (TETRAD LEG)
+<a id="subcore-3-g-oversight-tetrad-leg"></a>
+# SUBCORE 3-G: OVERSIGHT (TETRAD LEG)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Three** canonical O/M/A/C home and hierarchy map for the **Oversight** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Oversight-band clusters live in [core_03.050_band_oversight.md](core_03.050_band_oversight.md). Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 3-G**; until 2026-11-20 it was the apex file of the Oversight Tetrad leg in the core. It is the **Chapter Three** canonical O/M/A/C home and hierarchy map for the **Oversight** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Oversight-band clusters live in [subcore_03.085_band_oversight.md](subcore_03.085_band_oversight.md). Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+>
+> **Upstream:** [Subcore 3-F](subcore_03.050_apex_flourishing_aim.md#subcore-3-f-flourishing-constitutional-aim).
+> **Downstream:** [Subcore 3-H](subcore_03.060_apex_participation_leg.md#subcore-3-h-participation-tetrad-leg).
 
 </details>
 
@@ -24,16 +28,16 @@
   - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
   - [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
   - [Tetrad Leg Decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in
-  - [core_03.050_band_oversight.md](core_03.050_band_oversight.md).
-- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_03.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
+  - [subcore_03.085_band_oversight.md](subcore_03.085_band_oversight.md).
+- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
-  - [*Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_03.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [System Capture](core_03.040_band_continuity.md#system-capture),
-  - [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance), and Oversight measurement family.
+  - [*Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture),
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance), and Oversight measurement family.
 
 </details>
 
@@ -41,7 +45,7 @@
 
 ---
 
-Chapter Three, Oversight Tetrad leg, is the constitutional owner of the **Oversight** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Oversight band](core_03.050_band_oversight.md).
+Chapter Three, Oversight Tetrad leg, is the constitutional owner of the **Oversight** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Oversight band](subcore_03.085_band_oversight.md).
 
 *In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
 
@@ -51,20 +55,20 @@ Chapter Three, Oversight Tetrad leg, is the constitutional owner of the **Oversi
 - **What it is**
   - Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
   - **In scope:**
-    - watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](core_03.055_band_participation.md#stakeholder), independent actors, or institutions, and spread out where that is workable;
-    - purpose: catch and fix non-compliance, and support informed [Governance](core_03.035_band_accountability.md#governance);
-    - oversight requires [Auditability](core_03.050_band_oversight.md#auditability) and related audit mechanisms under **Article XVII** (*Audit, Transparency, and Independent Verification*);
-    - how much oversight is required scales with [Material Impact](core_03.050_band_oversight.md#material-impact), [Dependency](core_03.040_band_continuity.md#dependency), and [Risk](core_03.040_band_continuity.md#risk); and
-    - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process under that requirement — not the only auditing process.
+    - watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](subcore_03.090_band_participation.md#stakeholder), independent actors, or institutions, and spread out where that is workable;
+    - purpose: catch and fix non-compliance, and support informed [Governance](subcore_03.070_band_accountability.md#governance);
+    - oversight requires [Auditability](subcore_03.085_band_oversight.md#auditability) and related audit mechanisms under **Article XVII** (*Audit, Transparency, and Independent Verification*);
+    - how much oversight is required scales with [Material Impact](subcore_03.085_band_oversight.md#material-impact), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Risk](subcore_03.075_band_continuity.md#risk); and
+    - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process under that requirement — not the only auditing process.
   - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#oversight-tetrad-leg-decomposition):
-    - [Material Impact](core_03.050_band_oversight.md#material-impact);
-    - [Dependency](core_03.040_band_continuity.md#dependency);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Transparency](core_03.050_band_oversight.md#transparency); and
-    - [Auditability](core_03.050_band_oversight.md#auditability).
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Transparency](subcore_03.085_band_oversight.md#transparency); and
+    - [Auditability](subcore_03.085_band_oversight.md#auditability).
   - **Out of scope:**
     - leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS; or
-    - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) as one high-stakes audit process among others —
+    - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) as one high-stakes audit process among others —
     those sit under their own homes; this leg is not the leaf stack, and SAC is not the sole content of oversight.
 <a id="oversight-constitutional-m"></a>
 <a id="oversight-constitutional-a"></a>
@@ -80,7 +84,7 @@ Chapter Three, Oversight Tetrad leg, is the constitutional owner of the **Oversi
     - oversight cannot actually change outcomes;
     - the supervised system alone controls the oversight;
     - labels or ceremonies with no real change to governed behavior; or
-    - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) treated as the sole auditing process.
+    - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) treated as the sole auditing process.
 
 ---
 
@@ -95,14 +99,14 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 **Dependent clusters** (**Def.O1–Def.O2**) — joint-invocation homes:
 
-- **Transparency, auditability, and verification** — [Def.O1 *Transparency, Auditability, and Verification*](core_03.050_band_oversight.md#defo1-transparency-auditability-and-verification)
-- **Truth and epistemic integrity** — [Def.O2 *Truth and Epistemic Integrity*](core_03.050_band_oversight.md#defo2-truth-and-epistemic-integrity)
+- **Transparency, auditability, and verification** — [Def.O1 *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification)
+- **Truth and epistemic integrity** — [Def.O2 *Truth and Epistemic Integrity*](subcore_03.085_band_oversight.md#defo2-truth-and-epistemic-integrity)
 
 **Semi-independent topic groups** (invoke per admission scope):
 
-- [Materiality, Impact, Risk, and Proxy Integrity](core_03.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
+- [Materiality, Impact, Risk, and Proxy Integrity](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
 
-**Independent terms** live under [Oversight: Independent Terms](core_03.050_band_oversight.md#oversight-independent-terms).
+**Independent terms** live under [Oversight: Independent Terms](subcore_03.085_band_oversight.md#oversight-independent-terms).
 
 ---
 
@@ -115,13 +119,13 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Oversight measurement family — link-only rollup; per-term layers live on leaf definitions — see
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
-  - [Transparency](core_03.050_band_oversight.md#transparency),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Verifiability](core_03.050_band_oversight.md#verifiability),
-  - [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence),
-  - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness), and
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Verifiability](subcore_03.085_band_oversight.md#verifiability),
+  - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence),
+  - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness), and
   - [Oversight](#oversight-constitutional) (link-only leg-head rollup).
 - Read with: **truth** and **trustworthiness** under the [Flourishing](core_00.000_preamble.md#flourishing) aim.
 
@@ -131,7 +135,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 *In plain terms: these questions ask whether sentients can see, verify, and rely on what high-impact systems represent. This is the Chapter Three home for the Oversight measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality](core_03.050_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00.000_preamble.md#material-stake).
+*Materiality* ([Materiality](subcore_03.085_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00.000_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
@@ -142,6 +146,6 @@ Binding reliability, audit, or review requirements arise when Chapter Four, [Cha
 
 ---
 
-**Previous file:** [core_03.015_apex_flourishing_aim.md](core_03.015_apex_flourishing_aim.md)
+**Previous file:** [subcore_03.050_apex_flourishing_aim.md](subcore_03.050_apex_flourishing_aim.md)
 
-**Next file:** [core_03.025_apex_participation_leg.md](core_03.025_apex_participation_leg.md)
+**Next file:** [subcore_03.060_apex_participation_leg.md](subcore_03.060_apex_participation_leg.md)

@@ -156,10 +156,10 @@ The three subsections below apply the existing Chapter Twenty sequence to conduc
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -233,7 +233,7 @@ Evaluators assess these patterns as follows:
 - Upstream: [§5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
 - Downstream: [§6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§3.2](core_20.000_misconduct_designation.md#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
-- Read with: [Contestability](core_03.035_band_accountability.md#contestability) and [Transparency](core_03.050_band_oversight.md#transparency) in **Chapter Three** where contest-pathway usability and publication are material.
+- Read with: [Contestability](subcore_03.070_band_accountability.md#contestability) and [Transparency](subcore_03.085_band_oversight.md#transparency) in **Chapter Three** where contest-pathway usability and publication are material.
 - Forum operations: [Chapter Twenty-Two §4](core_22.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) through [§6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) for intake triage, consolidation, and representative treatment.
 - Distinct pattern: [§4.3](#43-info-sphere-zone-flooding) covers info-sphere flooding.
 
@@ -242,8 +242,8 @@ Evaluators assess these patterns as follows:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -349,10 +349,10 @@ Evaluators assess these patterns as follows:
 - Downstream: [§6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§3.2](core_20.000_misconduct_designation.md#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with:
-  - [Info-Sphere](core_03.055_band_participation.md#info-sphere),
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), and
-  - [Transparency](core_03.050_band_oversight.md#transparency) in
+  - [Info-Sphere](subcore_03.090_band_participation.md#info-sphere),
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), and
+  - [Transparency](subcore_03.085_band_oversight.md#transparency) in
   - **Chapter Three**.
 - Rights and verification: [Article XI-B: Expression](core_04.010_rights_part_b.md#article-xi-b-expression) and [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) in **Chapter Four**. These supply Rights Floors and verification discipline without relocating designation review.
 - Implementation context: adopted **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** and institutional implementation under **Chapter Thirty** where materially relevant.
@@ -362,10 +362,10 @@ Evaluators assess these patterns as follows:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) · [O](core_03.050_band_oversight.md#epistemic-integrity-o) · [M](core_03.050_band_oversight.md#epistemic-integrity-a) · [A](core_03.050_band_oversight.md#epistemic-integrity-a) · [C](core_03.050_band_oversight.md#epistemic-integrity-c)
-- [Info-Sphere](core_03.055_band_participation.md#info-sphere) · [O](core_03.055_band_participation.md#info-sphere) · [M](core_03.055_band_participation.md#info-sphere-a) · [A](core_03.055_band_participation.md#info-sphere-a) · [C](core_03.055_band_participation.md#info-sphere-c)
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
-- [Transparency](core_03.050_band_oversight.md#transparency) · [O](core_03.050_band_oversight.md#transparency) · [M](core_03.050_band_oversight.md#transparency-a) · [A](core_03.050_band_oversight.md#transparency-a) · [C](core_03.050_band_oversight.md#transparency-c)
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
+- [Info-Sphere](subcore_03.090_band_participation.md#info-sphere) · [O](subcore_03.090_band_participation.md#info-sphere) · [M](subcore_03.090_band_participation.md#info-sphere-a) · [A](subcore_03.090_band_participation.md#info-sphere-a) · [C](subcore_03.090_band_participation.md#info-sphere-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 
 </details>
 
@@ -388,7 +388,7 @@ Those means are in scope when they burden the following **info-sphere** pathways
 
 The conduct is in scope only where it has one of the following material effects:
 
-- Degrading **[Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity)** or **[Truth](core_03.050_band_oversight.md#truth-constitutional-constraint)** conditions.
+- Degrading **[Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity)** or **[Truth](subcore_03.085_band_oversight.md#truth-constitutional-constraint)** conditions.
 - Burying decision-relevant clarity under volume or obscurity.
 - Defeating practical contestability of material claims at population scale.
 - Preventing timely correction of material falsehoods in constitutionally governed contexts.
@@ -401,7 +401,7 @@ The following are non-exhaustive examples of in-scope means:
 - Brigading or ranking games whose dominant purpose is to bury corrections, disclosures, or verification.
 - Synthetic discourse or spam designed to exhaust human moderation, fact-checking, or audit capacity.
 - Flooding channels used for governance notice, constitutional publication, or Rights-Floor communications.
-- Substituting volume, formatting, or attention capture for decision-relevant clarity in ways that defeat **[Transparency](core_03.050_band_oversight.md#transparency)** obligations where material.
+- Substituting volume, formatting, or attention capture for decision-relevant clarity in ways that defeat **[Transparency](subcore_03.085_band_oversight.md#transparency)** obligations where material.
 
 **Exclusions.** This subsection does **not** treat the following as info-sphere zone flooding:
 
@@ -460,12 +460,12 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 - Upstream: [§5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [§6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§7](core_20.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*).
 - Integrity and governance context: [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) for Integrity-family routing where final Chapter Twenty designation is the primary stake; [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000) where governing authority, selection, or stewardship legitimacy is materially distorted.
 - Read with:
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Auditability](core_03.050_band_oversight.md#auditability), conflict controls,
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness), and
-  - [System Capture](core_03.040_band_continuity.md#system-capture).
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability), conflict controls,
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness), and
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture).
 - Implementation context: adopted [CJS-3.110 §6 — integrity assurance and resilience operations](corpus_joint_structure/cjs_03.110_oversight_operations.md#cjs-3110-6-oversight-integrity-assurance-and-resilience-operations) anti-corruption and undue-influence auditability controls and adopted **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** and **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*) incentive-governance and funding-stewardship controls where materially relevant.
 
 </details>
@@ -473,12 +473,12 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) · [O](subcore_03.045_band_integrative.md#incentive-alignment) · [M](subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](subcore_03.045_band_integrative.md#incentive-alignment-c)
-- [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_03.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_03.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_03.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) · [O](subcore_03.080_band_integrative.md#incentive-alignment) · [M](subcore_03.080_band_integrative.md#incentive-alignment-a) · [A](subcore_03.080_band_integrative.md#incentive-alignment-a) · [C](subcore_03.080_band_integrative.md#incentive-alignment-c)
+- [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -557,24 +557,24 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
   - [Chapter Eighteen §4.4.3](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
 - Integrity and governance context: [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) for Integrity-family routing where final Chapter Twenty designation is the primary stake; [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
 - Read with:
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Collective Accountability Failure](core_03.035_band_accountability.md#collective-accountability-failure),
-  - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness), and
-  - [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing).
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure),
+  - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness), and
+  - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Collective Accountability Failure](core_03.035_band_accountability.md#collective-accountability-failure) · [O](core_03.035_band_accountability.md#collective-accountability-failure) · [M](core_03.035_band_accountability.md#collective-accountability-failure-a) · [A](core_03.035_band_accountability.md#collective-accountability-failure-a) · [C](core_03.035_band_accountability.md#collective-accountability-failure-c)
-- [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) · [O](core_03.055_band_participation.md#coercion-and-manipulation) · [M](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [O](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [M](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_03.035_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure) · [O](subcore_03.070_band_accountability.md#collective-accountability-failure) · [M](subcore_03.070_band_accountability.md#collective-accountability-failure-a) · [A](subcore_03.070_band_accountability.md#collective-accountability-failure-a) · [C](subcore_03.070_band_accountability.md#collective-accountability-failure-c)
+- [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) · [O](subcore_03.090_band_participation.md#coercion-and-manipulation) · [M](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -631,8 +631,8 @@ The following do not remove the conduct from scope where the actor materially ca
 
 The conduct is in scope only where it has one of the following material effects:
 
-- Directing or inducing violation of the **Chapter Four** Rights Floor, [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint), binding remedies, or protected reporting and challenge pathways.
-- Distorting, bypassing, or suppressing constitutional custody, verification, publication, audit, disclosure, [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation), or record integrity.
+- Directing or inducing violation of the **Chapter Four** Rights Floor, [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint), binding remedies, or protected reporting and challenge pathways.
+- Distorting, bypassing, or suppressing constitutional custody, verification, publication, audit, disclosure, [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), or record integrity.
 - Blocking, chilling, delaying, or selectively weakening contestability, oversight, review, enforcement, or remedy pathways.
 - Producing Rights-Floor degradation, material rollback, system capture, or an equivalent structural workaround.
 - Using force, coercion, dependency leverage, retaliation threat, role discipline, economic pressure, technical control, or comparable authority to make unlawful or unconstitutional compliance practically likely.
@@ -645,12 +645,12 @@ The conduct is in scope only where it has one of the following material effects:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) · [O](core_03.055_band_participation.md#coercion-and-manipulation) · [M](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation) · [O](core_03.050_band_oversight.md#evidence-preservation) · [M](core_03.050_band_oversight.md#evidence-preservation-a) · [A](core_03.050_band_oversight.md#evidence-preservation-a) · [C](core_03.050_band_oversight.md#evidence-preservation-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [O](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [M](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_03.035_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) · [O](subcore_03.090_band_participation.md#coercion-and-manipulation) · [M](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) · [O](subcore_03.085_band_oversight.md#evidence-preservation) · [M](subcore_03.085_band_oversight.md#evidence-preservation-a) · [A](subcore_03.085_band_oversight.md#evidence-preservation-a) · [C](subcore_03.085_band_oversight.md#evidence-preservation-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -687,16 +687,16 @@ A command relationship is not a defense, but it may bear on:
 This applies to an unlawful or unconstitutional directive that is well supported by the evidence and affects any of the following:
 - whether a rule, act, or change is valid under this Constitution;
 - how constitutional processes (such as review, publication, and oversight) actually work;
-- the **Chapter Four** Rights Floor or other [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint);
-- [Contestability](core_03.035_band_accountability.md#contestability);
-- access to remedies ([Remedy System](core_03.035_band_accountability.md#remedy-system));
-- [Record Integrity](core_03.035_band_accountability.md#record-integrity) or [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation); or
-- [Use of Force](core_03.035_band_accountability.md#use-of-force) or [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) aimed at constitutional authority.
+- the **Chapter Four** Rights Floor or other [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint);
+- [Contestability](subcore_03.070_band_accountability.md#contestability);
+- access to remedies ([Remedy System](subcore_03.070_band_accountability.md#remedy-system));
+- [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) or [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); or
+- [Use of Force](subcore_03.070_band_accountability.md#use-of-force) or [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) aimed at constitutional authority.
 
 When that is the case, all of the following apply:
 
 - The matter is routed for anti-constitutional misconduct review.
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation) duties apply.
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) duties apply.
 - Protected-reporting safeguards apply.
 - Provisional containment is put in place where necessary to prevent continued harm.
 
@@ -814,12 +814,12 @@ The three subsections below apply the same sequence to conduct in which the acco
   - [§6.2](#62-enforcement-refusal-suppression-or-non-prosecution-conduct) where enforcement refusal or non-prosecution itself is the accountability-obstruction pathway;
   - [§8](#8-obstruction-of-accountability-criteria-interaction) for the umbrella **obstruction of accountability** criteria interaction.
 - Read with:
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment),
-  - [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference),
-  - [System Capture](core_03.040_band_continuity.md#system-capture), and
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint);
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture), and
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
   - [Chapter Eighteen §4.4.2 Misaligned Rewards](core_18.000_violation_consequences.md#442-misaligned-rewards) (18.000 §4.4.2), subject to
   - [Article XXIX-A](core_04.040_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment Adoption Transition carve-out during the Adoption Transition.
 
@@ -828,12 +828,12 @@ The three subsections below apply the same sequence to conduct in which the acco
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) · [O](subcore_03.045_band_integrative.md#incentive-alignment) · [M](subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](subcore_03.045_band_integrative.md#incentive-alignment-c)
-- [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) · [O](subcore_03.080_band_integrative.md#incentive-alignment) · [M](subcore_03.080_band_integrative.md#incentive-alignment-a) · [A](subcore_03.080_band_integrative.md#incentive-alignment-a) · [C](subcore_03.080_band_integrative.md#incentive-alignment-c)
+- [Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -989,28 +989,28 @@ Evaluators assess these patterns as follows:
   - [§8](#8-obstruction-of-accountability-criteria-interaction) (*Obstruction of accountability — umbrella criteria interaction; this subsection is the enforcement-mode accountability-obstruction pathway*).
 - Forum and investigation interface: [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) for Integrity-family routing, anti-self-judging backup, transfer, and certification; **[CF-22.435](corpus_forum/cf_22.435_independent_investigative_service_prosecution_interface.md#cf-22435-independent-investigative-service-and-prosecution-interface)** (*Independent investigative service and prosecution interface*) for independent investigative service and prosecution-interface requirements.
 - Read with:
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness),
-  - [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing),
-  - [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference), and
-  - [System Capture](core_03.040_band_continuity.md#system-capture).
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness),
+  - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing),
+  - [Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference), and
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_03.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_03.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_03.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [O](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [M](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_03.035_band_accountability.md#protected-reporting-whistleblowing-c)
-- [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1064,9 +1064,9 @@ any of the following for materially substantiated anti-constitutional misconduct
 - charging;
 - civil enforcement;
 - protective action;
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation);
-- pursuit, delivery, or enforcement of a remedy ([Remedy System](core_03.035_band_accountability.md#remedy-system));
-- attachment or enforcement of a [Standing Lock](core_03.035_band_accountability.md#standing-lock); or
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
+- pursuit, delivery, or enforcement of a remedy ([Remedy System](subcore_03.070_band_accountability.md#remedy-system));
+- attachment or enforcement of a [Standing Lock](subcore_03.070_band_accountability.md#standing-lock); or
 - a comparable accountability action.
 
 <a id="622-actors-in-scope"></a>
@@ -1093,7 +1093,7 @@ The conduct is in scope whichever of the following roles the actor holds, as lon
 ##### 6.2.3 Material Links
 
 The conduct is in scope only where materially linked to one or more of the following:
-- concealment, evidence suppression, record manipulation, or destruction or non-preservation of material evidence under [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation);
+- concealment, evidence suppression, record manipulation, or destruction or non-preservation of material evidence under [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
 - selective non-enforcement, favorable treatment, immunity, settlement, delay, or abandonment that protects anti-constitutional conduct or its beneficiaries;
 - retaliation against, intimidation of, or access interference with affected parties, witnesses, protected reporters, investigators, auditors, counsel, or reviewers;
 - system capture, conflict dependence, corrupt benefit exchange, improper command pressure, or institutional self-protection;
@@ -1131,7 +1131,7 @@ A refusal, delay, burying, narrowing, dropping, or non-prosecution of a case cou
 
 A disputed decision not to prosecute or enforce under [§6.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](#62-enforcement-refusal-suppression-or-non-prosecution-conduct) cannot constitutionally shut down any of the following:
 - independent investigation;
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation);
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
 - protected reporting;
 - audit;
 - standing;
@@ -1189,20 +1189,20 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - **CF-22.410** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Twenty-Two §4](core_22.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) (*Integrity default lead*); [Chapter Twenty-Two §6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) (*cross-forum anti-self-judging rule*).
 - Read with:
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [System Capture](core_03.040_band_continuity.md#system-capture), and
-  - [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional).
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture), and
+  - [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
-- [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+- [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional) · [O](subcore_03.070_band_accountability.md#forum-family-constitutional) · [M](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [A](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [C](subcore_03.070_band_accountability.md#forum-family-constitutional-c)
 
 </details>
 
@@ -1308,7 +1308,7 @@ The two subsections below apply the same sequence to control over what constitut
   - [Chapter Two §11.3](core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (2.010 §11.3) (*Consolidation Ceiling*);
   - [§5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*).
 - Downstream: [§6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*).
-- Read with: [Market Concentration Threshold](core_03.035_band_accountability.md#market-concentration-threshold) in **Chapter Three** for definitional anchoring referenced from the **§15.1** mechanism.
+- Read with: [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold) in **Chapter Three** for definitional anchoring referenced from the **§15.1** mechanism.
 
 </details>
 
@@ -1354,25 +1354,25 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 - Related patterns: [§7.1](#71-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§5.2](#52-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§6.2](#62-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Topic routing (mandatory read-with): [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for infrastructure denial or dependency cutoff — general locks only*).
 - Read with:
-  - [Dependency](core_03.040_band_continuity.md#dependency),
-  - [Cascading Failure](core_03.040_band_continuity.md#cascading-failure),
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Reversibility](core_03.040_band_continuity.md#reversibility),
-  - [Harm](core_03.035_band_accountability.md#harm),
-  - [Materiality](core_03.050_band_oversight.md#materiality), and
-  - [System Capture](core_03.040_band_continuity.md#system-capture).
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure),
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility),
+  - [Harm](subcore_03.070_band_accountability.md#harm),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality), and
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) · [O](core_03.040_band_continuity.md#cascading-failure) · [M](core_03.040_band_continuity.md#cascading-failure-a) · [A](core_03.040_band_continuity.md#cascading-failure-a) · [C](core_03.040_band_continuity.md#cascading-failure-c)
-- [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) · [O](core_03.040_band_continuity.md#safety-constitutional-constraint) · [M](core_03.040_band_continuity.md#safety-constraint-a) · [A](core_03.040_band_continuity.md#safety-constraint-a) · [C](core_03.040_band_continuity.md#safety-constraint-c)
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Harm](core_03.035_band_accountability.md#harm) · [O](core_03.035_band_accountability.md#harm) · [M](core_03.035_band_accountability.md#harm-a) · [A](core_03.035_band_accountability.md#harm-a) · [C](core_03.035_band_accountability.md#harm-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) · [O](subcore_03.075_band_continuity.md#cascading-failure) · [M](subcore_03.075_band_continuity.md#cascading-failure-a) · [A](subcore_03.075_band_continuity.md#cascading-failure-a) · [C](subcore_03.075_band_continuity.md#cascading-failure-c)
+- [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [O](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [M](subcore_03.075_band_continuity.md#safety-constraint-a) · [A](subcore_03.075_band_continuity.md#safety-constraint-a) · [C](subcore_03.075_band_continuity.md#safety-constraint-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1490,7 +1490,7 @@ Even then, those good-faith measures must stay within the following limits:
 - **Procedural Fairness**;
 - **Safety**;
 - **Reversibility** where feasible;
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation); and
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
 - timely restoration or review pathways.
 
 Security, maintenance, ownership, budget, or emergency labels must not be used as pretext for any of the following:
@@ -1537,24 +1537,24 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - [§6.3](#63-forum-recusal-failure-and-biased-panel-participation).
 - Topic routing (mandatory read-with): [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks; Forum-Service only on forum-integrity trigger*); [Chapter Sixteen §4.4 Processing Order](core_16.000_standing_integration.md#44-processing-order) (16.000 §4.4) (*Anti-Constitutional Misconduct Review gateway*).
 - Read with:
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways),
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation), and
-  - [Timely Resolution](core_03.035_band_accountability.md#timely-resolution).
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and
+  - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) · [O](core_03.040_band_continuity.md#capture-of-resolution-pathways) · [M](core_03.040_band_continuity.md#capture-of-resolution-pathways-a) · [A](core_03.040_band_continuity.md#capture-of-resolution-pathways-a) · [C](core_03.040_band_continuity.md#capture-of-resolution-pathways-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation) · [O](core_03.050_band_oversight.md#evidence-preservation) · [M](core_03.050_band_oversight.md#evidence-preservation-a) · [A](core_03.050_band_oversight.md#evidence-preservation-a) · [C](core_03.050_band_oversight.md#evidence-preservation-c)
-- [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) · [O](core_03.035_band_accountability.md#timely-resolution) · [M](core_03.035_band_accountability.md#timely-resolution-constitutional-a) · [A](core_03.035_band_accountability.md#timely-resolution-constitutional-a) · [C](core_03.035_band_accountability.md#timely-resolution-constitutional-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) · [O](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) · [M](subcore_03.075_band_continuity.md#capture-of-resolution-pathways-a) · [A](subcore_03.075_band_continuity.md#capture-of-resolution-pathways-a) · [C](subcore_03.075_band_continuity.md#capture-of-resolution-pathways-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) · [O](subcore_03.085_band_oversight.md#evidence-preservation) · [M](subcore_03.085_band_oversight.md#evidence-preservation-a) · [A](subcore_03.085_band_oversight.md#evidence-preservation-a) · [C](subcore_03.085_band_oversight.md#evidence-preservation-c)
+- [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 
@@ -1562,7 +1562,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 *In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, Standing Records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Fourteen and Fifteen.*
 
-**Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, Standing Records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this section evaluates the conduct that produces, maintains, or exploits that disablement.
+**Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, Standing Records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this section evaluates the conduct that produces, maintains, or exploits that disablement.
 
 Where a Violation Axis finding already occupies slot 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **Chapter Twenty section 5** criteria where it produces the equivalent constitutional effect:
 

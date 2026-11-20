@@ -38,7 +38,7 @@ Chapter Sixteen (Chapters Sixteen–Nineteen) is the constitutional owner of **s
 
 **Purpose:** Chapter Sixteen answers Question 3 of the standing pipeline: what follows from verified Standing Records. [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) establishes what happened (Question 1). [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed. It converts the verified Standing Records into consequences, applying the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
-A **[gated pathway](core_03.035_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) lists the types.
+A **[gated pathway](subcore_03.070_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) lists the types.
 
 **Role:** Where this chapter sits:
 

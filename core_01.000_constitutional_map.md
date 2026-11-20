@@ -26,7 +26,7 @@
   - [§7](#7-process-ownership-and-outputs);
   - [§8](#8-governance-change-and-incorporation);
   - [§9](#9-adopted-implementation-corpus).
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*how the owner register is applied*); [README.md](README.md) (*reading order*).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*how the owner register is applied*); [README.md](README.md) (*reading order*).
 
 </details>
 
@@ -41,7 +41,7 @@ Chapter One is the constitutional owner of **the constitutional owner register**
 
 **Purpose:** Chapter One gives the overview and the ownership guide. It names the processes that test authorized governance, says which chapter owns which substantive domain, and describes the three tiers of constitutional text.
 
-**Role:** The chapter is orientation and ownership. It adds no duty of its own beyond the owner register, which other chapters and the [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) apply.
+**Role:** The chapter is orientation and ownership. It adds no duty of its own beyond the owner register, which other chapters and the [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) apply.
 
 **Chapter scope:** The chapter covers:
 
@@ -79,7 +79,7 @@ When Chapter Four, [Chapter Eight](core_08.000_system_alignment_certification_ev
 - **Standing Records** ([Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened)) — when conduct or harm matters constitutionally, place verified facts in formal contribution or violation case files; rumors and reputation are not enough.
 - **Correction and remedy** ([Chapter Eighteen §3.1 (*Remedy and Correction*)](core_18.000_violation_consequences.md#31-remedy-and-correction)) — correct the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed.
 - **Forum review** ([Chapter Twenty-Two](core_22.000_forum.md#1-purpose-role-and-scope))
-  - Ordinary disputes within already-authorized systems use the published [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight) challenge path first.
+  - Ordinary disputes within already-authorized systems use the published [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight) challenge path first.
   - If that path remains contested, is missing or captured, or cannot grant relief, route the dispute by primary stake through supervised forums.
   - Those forums support evidence, lawful transfer, and timely windows under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 
@@ -88,7 +88,7 @@ When Chapter Four, [Chapter Eight](core_08.000_system_alignment_certification_ev
 
 *In plain terms: Chapters Two through Four own the values, the dictionary (with the subcore rules on how definitions are built, protected, and proven), and the Rights Floor; later chapters must respect those homes, not quietly move them.*
 
-Sections **4 through 9** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+Sections **4 through 9** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
 
 Chapters **Two through Four** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including [Chapter Five's System Charter or Institutional Charter requirement, Chapter Six's separation-of-duties requirement, and Chapter Seven's Independent Bodies](#5-system-and-institutional-charters-functional-independence-and-separation-of-duties) in Section 5, the [Key Practical Process Pipelines](#6-key-practical-process-pipelines) in Section 6, [process ownership and outputs](#7-process-ownership-and-outputs) in Section 7, the governance and change-path chapters in Section 8, and the [Adopted Implementation Corpus](#9-adopted-implementation-corpus) in Section 9.
 
@@ -107,8 +107,8 @@ Each summary below states what the chapter owns and what it produces.
 
 - **What it owns:** Supplies:
   - the canonical definition stack: Oversight, Participation, Accountability, Continuity, and Integrative bands;
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
-  - [Corpus](subcore_03.045_band_integrative.md#corpus); and
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Corpus](subcore_03.080_band_integrative.md#corpus); and
   - related boundary rules.
 - **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Owner-domain routing for the Constitution as a whole lives in this register (sections 4–9). Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
 
@@ -158,15 +158,15 @@ This section summarizes the two floors that every later process relies on, and t
 **Chapter Five — System and Institutional Charters**
 
 - **What it owns:** The floor for the published scope document of a system or institution:
-  - which systems and institutions of Class L or higher must publish a [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) (Class P may publish one voluntarily);
-  - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) and [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) to the published binding stakeholder-choice rules;
+  - which systems and institutions of Class L or higher must publish a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) (Class P may publish one voluntarily);
+  - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) and [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published binding stakeholder-choice rules;
   - how a System Charter or Institutional Charter is amended and reviewed so that its chartered scope does not change silently; and
   - what a System Charter or Institutional Charter cannot do: set class, define the boundary, replace certification, carry decision rules, or grant authority.
 - **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), certification, Standing Records, and forums can test behavior against. Chapter Five is at [`core_05.000_charters.md`](core_05.000_charters.md#chapter-five-system-and-institutional-charters).
 
 **Chapter Six — Functional independence and separation of duties**
 
-- **What it owns:** The cross-process requirement that every [Materially Binding Act](core_03.035_band_accountability.md#materially-binding-act) assign four functions separately:
+- **What it owns:** The cross-process requirement that every [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act) assign four functions separately:
   - initiation;
   - verification or authorization;
   - official record custody; and
@@ -174,8 +174,8 @@ This section summarizes the two floors that every later process relies on, and t
 
   It also governs:
 
-  - the universal minimum contents of each [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record);
-  - independence from the actor's [Material Control Line](core_03.035_band_accountability.md#material-control-line);
+  - the universal minimum contents of each [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
+  - independence from the actor's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line);
   - published placement and substitutes;
   - proportionate merged hosting and emergency bounds; and
   - attributable handoffs and wrong-seat routing.
@@ -193,7 +193,7 @@ Each **Materially Binding Act** must observe these same-act safeguards:
 - The initiating seat must not verify or authorize its own act.
 - The verify-or-authorize seat must not hold official record custody for the act.
 - The verify-or-authorize seat must not review a challenge to the act.
-- The verify-or-authorize and challenge-review seats must be outside the initiating seat's [Material Control Line](core_03.035_band_accountability.md#material-control-line).
+- The verify-or-authorize and challenge-review seats must be outside the initiating seat's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): four-seat separation map</span></strong></summary>
@@ -340,7 +340,7 @@ Each step below states what the chapter owns and what it produces, filling in th
   - Before a system that materially affects sentients is certified or relied on at scale, evidence must be gathered and reviewed under forum supervision.
   - The review must cover:
     - whether the system respects survival essentials;
-    - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support) where shared-infrastructure reliance is materially at issue;
+    - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) where shared-infrastructure reliance is materially at issue;
     - safety;
     - participation; and
     - other constitutional floors.
@@ -391,14 +391,14 @@ Each step below states what the chapter owns and what it produces, filling in th
   - how forum cases are opened and kept;
   - how matters transfer or consolidate; and
   - how anti-self-judging rules prevent captured forums from being the sole final home.
-- **What it produces:** **Standing findings** that may open or update Standing Records, plus lawful routing toward remedy and [timely resolution](core_03.035_band_accountability.md#timely-resolution). Forums supervise the pipeline; they do not replace Chapter Fifteen standing measurement.
+- **What it produces:** **Standing findings** that may open or update Standing Records, plus lawful routing toward remedy and [timely resolution](subcore_03.070_band_accountability.md#timely-resolution). Forums supervise the pipeline; they do not replace Chapter Fifteen standing measurement.
 
 **Chapter Twenty-Three — [Forum families, escalation, timely resolution, and support](core_23.000_forum_families_escalation_timeliness_support.md#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support)**
 
 - **What it owns:** Who the forums are and how a matter keeps moving once a forum has it.
   - the forum families and their shared standards;
   - escalation and questions for ruling;
-  - how interim protection, including a narrow [Interim Hold](core_03.035_band_accountability.md#interim-hold) on a named sentient's pathway, is routed, reviewed, and kept distinct from findings and standing locks;
+  - how interim protection, including a narrow [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) on a named sentient's pathway, is routed, reviewed, and kept distinct from findings and standing locks;
   - how windows under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters; and
   - how evidence and the sentients taking part are supported before, during, and after review.
 - **What it produces:** Forum families able to hear each class of matter, and resolution within the time that keeps remedy meaningful.
@@ -424,8 +424,8 @@ Each summary below states what the chapter owns and what it produces.
 
 **Chapter Twenty-Six — Constitutional contract, legitimacy, and stewardship** ([`core_26.000_governance.md`](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship))
 
-- **What it owns:** The [**Constitutional Contract Layer**](subcore_03.045_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and what stewardship character must be maintained.
-- **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](core_03.055_band_participation.md#stakeholder-status-and-weight) in already-authorized systems. These are rules for governing authority itself, not just for participation inside it.
+- **What it owns:** The [**Constitutional Contract Layer**](subcore_03.080_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and what stewardship character must be maintained.
+- **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](subcore_03.090_band_participation.md#stakeholder-status-and-weight) in already-authorized systems. These are rules for governing authority itself, not just for participation inside it.
 
 **Chapter Twenty-Seven — Non-regression** ([`core_27.000_non_regression.md`](core_27.000_non_regression.md#chapter-twenty-seven-non-regression-and-substantive-amendment-validity))
 
@@ -458,9 +458,9 @@ Beyond the numbered `core_*` chapters, four adopted corpora complete the [consti
 - **[corpus_institutions](corpus_institutions.md)** — institutional formation, governance, oversight, proportionality, and dissolution discipline.
 - **[corpus_forum](corpus_forum.md)** — forum operations: panel formation, recusal, review lanes, routing detail, and forensic support.
 
-When an adopter validly incorporates them under [Chapter Thirty](core_30.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Three — Corpus](subcore_03.045_band_integrative.md#corpus).
+When an adopter validly incorporates them under [Chapter Thirty](core_30.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Three — Corpus](subcore_03.080_band_integrative.md#corpus).
 
-Between the chapters and the adopted corpora sits the [**subcore**](subcore_03.045_band_integrative.md#subcore): `subcore_*` files that hold the full detail of guarantees and procedure that must be the same for every adopter. Each belongs to one chapter, binds as that chapter does, and changes only by amendment under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity). The chapter states each guarantee in plain words; its subcore file gives the full rule.
+Between the chapters and the adopted corpora sits the [**subcore**](subcore_03.080_band_integrative.md#subcore): `subcore_*` files that hold the full detail of guarantees and procedure that must be the same for every adopter. Each belongs to one chapter, binds as that chapter does, and changes only by amendment under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity). The chapter states each guarantee in plain words; its subcore file gives the full rule.
 
 Principles, definitions, rights, process pipelines, governance, amendment rules, the subcore, and incorporated implementation must be read together to preserve the Constitution's protective purpose.
 

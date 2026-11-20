@@ -21,11 +21,11 @@ from corpus_paths import binding_corpus_scope  # noqa: E402
 CH5_OWNERS = {
     "core_03.000_definitions_home.md",
     "core_03.000_definitions_home.md",
-    "core_03.050_band_oversight.md",
-    "core_03.055_band_participation.md",
-    "core_03.035_band_accountability.md",
-    "core_03.040_band_continuity.md",
-    "subcore_03.045_band_integrative.md",
+    "subcore_03.085_band_oversight.md",
+    "subcore_03.090_band_participation.md",
+    "subcore_03.070_band_accountability.md",
+    "subcore_03.075_band_continuity.md",
+    "subcore_03.080_band_integrative.md",
 }
 
 OEC_BLOCK_RE = re.compile(

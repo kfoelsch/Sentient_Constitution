@@ -152,7 +152,7 @@
         },
         {
           "label": "Auditability",
-          "href": "core_03.050_band_oversight.md#auditability"
+          "href": "subcore_03.085_band_oversight.md#auditability"
         },
         {
           "label": "CJS-3.115",
@@ -276,11 +276,11 @@
         },
         {
           "label": "Authority Stack",
-          "href": "subcore_03.045_band_integrative.md#authority-stack"
+          "href": "subcore_03.080_band_integrative.md#authority-stack"
         },
         {
           "label": "Constitutional Constraint",
-          "href": "subcore_03.045_band_integrative.md#constitutional-constraint"
+          "href": "subcore_03.080_band_integrative.md#constitutional-constraint"
         }
       ],
       "conflict_rule": "Companions, internal codes, and local policy must satisfy, not narrow, core meaning. Specificity does not beat the Rights Floor.",
@@ -314,7 +314,7 @@
         },
         {
           "label": "Incentive Alignment",
-          "href": "subcore_03.045_band_integrative.md#incentive-alignment"
+          "href": "subcore_03.080_band_integrative.md#incentive-alignment"
         }
       ],
       "conflict_rule": "Proxy reward that depends on concealment or on hollowing Safety, Truth, auditability, or contest pathways is a failed test for both kinds of steward.",
@@ -386,11 +386,11 @@
         },
         {
           "label": "Authority Stack",
-          "href": "subcore_03.045_band_integrative.md#authority-stack"
+          "href": "subcore_03.080_band_integrative.md#authority-stack"
         },
         {
           "label": "Constitutional Constraint",
-          "href": "subcore_03.045_band_integrative.md#constitutional-constraint"
+          "href": "subcore_03.080_band_integrative.md#constitutional-constraint"
         }
       ],
       "conflict_rule": "Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code or create a substrate-specific duty stack.",
@@ -566,7 +566,7 @@
         },
         {
           "label": "Market Structure",
-          "href": "core_03.035_band_accountability.md#market-structure-constitutional"
+          "href": "subcore_03.070_band_accountability.md#market-structure-constitutional"
         }
       ],
       "conflict_rule": "Adopter-tunable does not mean adopter-optional. Thresholds that foreseeably never bind, unused enforcement, or no actual review nullify the requirements.",
@@ -594,7 +594,7 @@
         },
         {
           "label": "Proportionate Cross-System Support",
-          "href": "core_03.040_band_continuity.md#proportionate-cross-system-support-constitutional"
+          "href": "subcore_03.075_band_continuity.md#proportionate-cross-system-support-constitutional"
         },
         {
           "label": "CS-4.335 §4 dependent-systems map",
@@ -634,7 +634,7 @@
         },
         {
           "label": "Timely Resolution",
-          "href": "core_03.035_band_accountability.md#timely-resolution-constitutional"
+          "href": "subcore_03.070_band_accountability.md#timely-resolution-constitutional"
         }
       ],
       "conflict_rule": "Published tier windows bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists.",

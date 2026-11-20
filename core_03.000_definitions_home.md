@@ -53,7 +53,7 @@ Chapter Three is the overview; the full text sits in its subcore files:
 - how a definition is built, in Subcore 3-A;
 - what counts as failing an applicable definition, in Subcore 3-B;
 - burden of proof, traceability, and verification, in Subcore 3-C; and
-- the full definitions, band by band, starting with the Integrative terms in [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions). The bands not yet moved are still in this chapter's band and apex files, listed in the [compass](#6-compass-and-definition-map).
+- every definition in full, in Subcores 3-D to 3-O: one apex file for each aim and leg (3-D to 3-I) and one band file for each band (3-J to 3-O), listed in the [compass](#6-compass-and-definition-map).
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
 <a id="2-why-definitions-have-one-home"></a>
@@ -221,27 +221,27 @@ Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.00
 
 **Apex files.** Each apex file holds the head definition of one aim or leg, the map of how it breaks down into band definitions, and its measurement family.
 
-| Aim or leg | Kind | File |
-|---|---|---|
-| **Accountability** | Tetrad leg | [core_03.005_apex_accountability_leg.md](core_03.005_apex_accountability_leg.md) |
-| **Continuity** | Constitutional aim | [core_03.010_apex_continuity_aim.md](core_03.010_apex_continuity_aim.md) |
-| **Flourishing** | Constitutional aim | [core_03.015_apex_flourishing_aim.md](core_03.015_apex_flourishing_aim.md) |
-| **Oversight** | Tetrad leg | [core_03.020_apex_oversight_leg.md](core_03.020_apex_oversight_leg.md) |
-| **Participation** | Tetrad leg | [core_03.025_apex_participation_leg.md](core_03.025_apex_participation_leg.md) |
-| **Timeliness** | Tetrad leg | [core_03.030_apex_timeliness_leg.md](core_03.030_apex_timeliness_leg.md) |
+| Aim or leg | Kind | Subcore | File |
+|---|---|---|---|
+| **Accountability** | Tetrad leg | [3-D](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg) | [subcore_03.040_apex_accountability_leg.md](subcore_03.040_apex_accountability_leg.md) |
+| **Continuity** | Constitutional aim | [3-E](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim) | [subcore_03.045_apex_continuity_aim.md](subcore_03.045_apex_continuity_aim.md) |
+| **Flourishing** | Constitutional aim | [3-F](subcore_03.050_apex_flourishing_aim.md#subcore-3-f-flourishing-constitutional-aim) | [subcore_03.050_apex_flourishing_aim.md](subcore_03.050_apex_flourishing_aim.md) |
+| **Oversight** | Tetrad leg | [3-G](subcore_03.055_apex_oversight_leg.md#subcore-3-g-oversight-tetrad-leg) | [subcore_03.055_apex_oversight_leg.md](subcore_03.055_apex_oversight_leg.md) |
+| **Participation** | Tetrad leg | [3-H](subcore_03.060_apex_participation_leg.md#subcore-3-h-participation-tetrad-leg) | [subcore_03.060_apex_participation_leg.md](subcore_03.060_apex_participation_leg.md) |
+| **Timeliness** | Tetrad leg | [3-I](subcore_03.065_apex_timeliness_leg.md#subcore-3-i-timeliness-tetrad-leg) | [subcore_03.065_apex_timeliness_leg.md](subcore_03.065_apex_timeliness_leg.md) |
 
 **Band files.** Each band file holds full definitions: independent terms, semi-independent terms, and dependent clusters.
 
-| Band | File | **Def.** cluster range |
-|---|---|---|
-| **Accountability** | [core_03.035_band_accountability.md](core_03.035_band_accountability.md) | **Def.A1–Def.A4** |
-| **Continuity** | [core_03.040_band_continuity.md](core_03.040_band_continuity.md) | **Def.C1–Def.C4** |
-| **Integrative** (cross-leg) | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) (Subcore 3-D) | **Def.I1** |
-| **Oversight** | [core_03.050_band_oversight.md](core_03.050_band_oversight.md) | **Def.O1–Def.O2** |
-| **Participation** | [core_03.055_band_participation.md](core_03.055_band_participation.md) | **Def.P1–Def.P4** |
-| **Constitutional Performance** | [core_03.060_band_performance.md](core_03.060_band_performance.md) | none; holds only the measurement family, and its terms are in the Continuity band |
+| Band | Subcore | File | **Def.** cluster range |
+|---|---|---|---|
+| **Accountability** | [3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions) | [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md) | **Def.A1–Def.A4** |
+| **Continuity** | [3-K](subcore_03.075_band_continuity.md#subcore-3-k-continuity-definitions) | [subcore_03.075_band_continuity.md](subcore_03.075_band_continuity.md) | **Def.C1–Def.C4** |
+| **Integrative** (cross-leg) | [3-L](subcore_03.080_band_integrative.md#subcore-3-l-integrative-definitions) | [subcore_03.080_band_integrative.md](subcore_03.080_band_integrative.md) | **Def.I1** |
+| **Oversight** | [3-M](subcore_03.085_band_oversight.md#subcore-3-m-oversight-definitions) | [subcore_03.085_band_oversight.md](subcore_03.085_band_oversight.md) | **Def.O1–Def.O2** |
+| **Participation** | [3-N](subcore_03.090_band_participation.md#subcore-3-n-participation-definitions) | [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md) | **Def.P1–Def.P4** |
+| **Constitutional Performance** | [3-O](subcore_03.095_band_performance.md#subcore-3-o-constitutional-performance-definitions) | [subcore_03.095_band_performance.md](subcore_03.095_band_performance.md) | none; holds only the measurement family, and its terms are in the Continuity band |
 
-The two aims and the Timeliness leg have no band file of their own. Their terms sit in the band files above, and each one's apex file maps where.
+All twelve files are subcore files attached to this chapter, with its force. The two aims and the Timeliness leg have no band file of their own. Their terms sit in the band files above, and each one's apex file maps where.
 
 ---
 
@@ -263,346 +263,346 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 #### Definitions A-Z
 
-- [Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness)
-- [Accessibility](core_03.055_band_participation.md#accessibility)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability)
-- [Adjudication and Dispute Resolution](core_03.035_band_accountability.md#adjudication-and-dispute-resolution)
-- [Adoption Charter](core_03.040_band_continuity.md#adoption-charter)
-- [Adoption Transition](core_03.040_band_continuity.md#adoption-transition)
-- [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record)
-- [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions)
-- [Animal Cruelty](core_03.035_band_accountability.md#animal-cruelty)
-- [Animal Life](core_03.055_band_participation.md#animal-life)
-- [Anti-Capture](core_03.040_band_continuity.md#anti-capture)
-- [Anti-Constitutional Misconduct Review](core_03.035_band_accountability.md#anti-constitutional-misconduct-review)
-- [Anti-Displacement Floor](core_03.040_band_continuity.md#anti-displacement-floor)
-- [Assembly](core_03.055_band_participation.md#assembly)
-- [Attributable Action](core_03.035_band_accountability.md#attributable-action)
-- [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity)
-- [Auditability](core_03.050_band_oversight.md#auditability)
-- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)
-- [Autonomous Coercion Tool](core_03.035_band_accountability.md#autonomous-coercion-tool)
-- [Autonomous Lethal System](core_03.035_band_accountability.md#autonomous-lethal-system)
-- [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden)
-- [Best-Interest Standard](core_03.055_band_participation.md#best-interest-standard)
-- [Binding Stakeholder Choice — Decision-Resolution Requirements](core_03.055_band_participation.md#binding-stakeholder-choice--decision-resolution-requirements)
-- [Bodily-Maintenance Access](core_03.040_band_continuity.md#bodily-maintenance-access)
-- [Burden-Reduction Duty](core_03.040_band_continuity.md#burden-reduction-duty)
-- [Business Creation](core_03.055_band_participation.md#business-creation)
-- [Capability Requirement](core_03.050_band_oversight.md#capability-requirement)
-- [Cascading Failure](core_03.040_band_continuity.md#cascading-failure)
-- [Cause Finding](core_03.040_band_continuity.md#cause-finding)
-- [Certification Condition](core_03.040_band_continuity.md#certification-condition)
-- [Certification Denial](core_03.040_band_continuity.md#certification-denial)
-- [Certification Pass](core_03.040_band_continuity.md#certification-pass)
-- [Certification Revocation](core_03.040_band_continuity.md#certification-revocation)
-- [Challenge Path](core_03.040_band_continuity.md#challenge-path)
-- [Charter Pointer](core_03.040_band_continuity.md#charter-pointer)
-- [Charter Role Map](core_03.040_band_continuity.md#charter-role-map)
-- [Chartered Party](core_03.040_band_continuity.md#chartered-party)
-- [Cited System](core_03.040_band_continuity.md#cited-system)
-- [Class Repair Window](core_03.035_band_accountability.md#class-repair-window)
-- [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance)
-- [Clean Recertification](core_03.040_band_continuity.md#clean-recertification)
-- [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation)
-- [Collective Accountability Failure](core_03.035_band_accountability.md#collective-accountability-failure)
-- [Collective Harm Boundary](core_03.035_band_accountability.md#collective-harm-boundary)
-- [Collective Organization](core_03.055_band_participation.md#collective-organization)
-- [Combatant / Non-Combatant Distinction](core_03.035_band_accountability.md#combatant--non-combatant-distinction)
-- [Commercial Compliance](core_03.055_band_participation.md#commercial-compliance)
-- [Competency Bar](core_03.035_band_accountability.md#competency-bar)
-- [Competency Clearance](core_03.035_band_accountability.md#competency-clearance)
-- [Consent](core_03.055_band_participation.md#consent)
-- [Consent, Sexual](core_03.055_band_participation.md#consent-sexual)
-- [Constitutional Archive](core_03.035_band_accountability.md#constitutional-archive)
-- [Constitutional Charter](core_03.040_band_continuity.md#constitutional-charter)
-- [Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision)
-- [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record)
-- [Constitutional Community](core_03.055_band_participation.md#constitutional-community)
-- [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint)
-- [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer)
-- [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency)
-- [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency)
-- [Constitutional Library](core_03.035_band_accountability.md#constitutional-library)
-- [Contest Seat](core_03.035_band_accountability.md#contest-seat)
-- [Contestability](core_03.035_band_accountability.md#contestability)
-- [Contested-Sentient Life](core_03.055_band_participation.md#contested-sentient-life)
-- [Contingent Claim](core_03.035_band_accountability.md#contingent-claim)
-- [Continuity (Constitutional Aim)](core_03.010_apex_continuity_aim.md#chapter-three-definitions-continuity-constitutional-aim)
-- [Contribution Nature](core_03.035_band_accountability.md#contribution-nature)
-- [Corpus](subcore_03.045_band_integrative.md#corpus)
-- [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution)
-- [Cross-System Extraction](core_03.040_band_continuity.md#cross-system-extraction)
-- [Cruelty](core_03.035_band_accountability.md#cruelty)
-- [Decentralization](core_03.035_band_accountability.md#decentralization)
-- [Dependency](core_03.040_band_continuity.md#dependency)
-- [Derived Information](subcore_03.045_band_integrative.md#derived-information)
-- [Derived Sentient](core_03.055_band_participation.md#derived-sentient)
-- [Developing Sentient](core_03.055_band_participation.md#developing-sentient)
-- [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing)
-- [Direct Case](core_03.035_band_accountability.md#direct-case)
-- [Distributed Understanding](core_03.040_band_continuity.md#distributed-understanding)
-- [Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism)
-- [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality)
-- [Due Process](core_03.035_band_accountability.md#due-process)
-- [Duty to Resist](core_03.035_band_accountability.md#duty-to-resist)
-- [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint)
-- [Ecological Integrity](core_03.040_band_continuity.md#ecological-integrity)
-- [Ecological Recovery Capacity](core_03.040_band_continuity.md#ecological-recovery-capacity)
-- [Educational Agency](core_03.055_band_participation.md#educational-agency)
-- [Elevated Communicative Life](core_03.055_band_participation.md#elevated-communicative-life)
-- [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency)
-- [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)
-- [Enforcement Record](core_03.035_band_accountability.md#enforcement-record)
-- [Environmental Preconditions](core_03.040_band_continuity.md#environmental-preconditions)
-- [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity)
-- [Essential Record](core_03.035_band_accountability.md#essential-record)
-- [Essential-Environment Non-Commodification](core_03.040_band_continuity.md#essential-environment-non-commodification)
-- [Evaluation Completeness Constraint](core_03.050_band_oversight.md#evaluation-completeness-constraint)
-- [Event-Contract Market](core_03.035_band_accountability.md#event-contract-market)
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation)
-- [Existential Risk](core_03.040_band_continuity.md#existential-risk)
-- [Expression](core_03.055_band_participation.md#expression)
-- [Fair Compensation](core_03.040_band_continuity.md#fair-compensation)
-- [Family and Care Relationships](core_03.055_band_participation.md#family-and-care-relationships)
-- [Feasibility](core_03.035_band_accountability.md#feasibility)
-- [Flourishing](core_03.015_apex_flourishing_aim.md#flourishing-constitutional)
-- [Force Majeure](core_03.035_band_accountability.md#force-majeure)
-- [Foreseeability](core_03.050_band_oversight.md#foreseeability)
-- [Formation Check](core_03.035_band_accountability.md#formation-check)
-- [Forum Case Record](core_03.035_band_accountability.md#forum-case-record)
-- [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional)
-- [Forum Family, Environment](core_03.035_band_accountability.md#forum-family-environment)
-- [Forum Family, Institutional](core_03.035_band_accountability.md#forum-family-institutional)
-- [Forum Family, Integrity](core_03.035_band_accountability.md#forum-family-integrity)
-- [Forum Family, Sentient](core_03.035_band_accountability.md#forum-family-sentient)
-- [Forum Family, Technical](core_03.035_band_accountability.md#forum-family-technical)
-- [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice)
-- [Freedom (Bounded Agency)](core_03.055_band_participation.md#freedom-bounded-agency)
-- [Fresh Review](core_03.040_band_continuity.md#fresh-review)
-- [Full Certification](core_03.040_band_continuity.md#full-certification)
-- [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect)
-- [Game of Chance](core_03.035_band_accountability.md#game-of-chance)
-- [Gate](core_03.050_band_oversight.md#gate)
-- [Gate Criteria](core_03.050_band_oversight.md#gate-criteria)
-- [Gated Pathway](core_03.035_band_accountability.md#gated-pathway)
-- [Go-Live](core_03.040_band_continuity.md#go-live)
-- [Good Faith](core_03.035_band_accountability.md#good-faith)
-- [Governance](core_03.035_band_accountability.md#governance)
-- [Governance Violation](core_03.040_band_continuity.md#governance-violation)
-- [Graduated Capability](core_03.055_band_participation.md#graduated-capability)
-- [Harassment and Bullying](core_03.035_band_accountability.md#harassment-and-bullying)
-- [Hard Content](core_03.055_band_participation.md#hard-content)
-- [Harm](core_03.035_band_accountability.md#harm)
-- [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection)
-- [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny)
-- [High-Impact and Systemic Harm Publication Constraint](core_03.050_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
-- [Identity Data Protection](core_03.040_band_continuity.md#identity-data-protection)
-- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment)
-- [Incentive Alignment — Baseline Constitutional Alignment](subcore_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
-- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
-- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
-- [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
-- [Independence](core_03.035_band_accountability.md#independence)
-- [Indigenous Continuity](core_03.040_band_continuity.md#indigenous-continuity)
-- [Influence Pathway](core_03.035_band_accountability.md#influence-pathway)
-- [Info-Sphere](core_03.055_band_participation.md#info-sphere)
-- [Initiating Seat](core_03.035_band_accountability.md#initiating-seat)
-- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure)
-- [Insider Advantage](core_03.035_band_accountability.md#insider-advantage)
-- [Instantiation Consent](core_03.055_band_participation.md#instantiation-consent)
-- [Institution](core_03.040_band_continuity.md#institution)
-- [Institution Class](core_03.040_band_continuity.md#institution-class)
-- [Institutional Alignment Certification](core_03.040_band_continuity.md#institutional-alignment-certification)
-- [Institutional Authority Standing Lock](core_03.035_band_accountability.md#institutional-authority-standing-lock)
-- [Institutional Certification Record](core_03.040_band_continuity.md#institutional-certification-record)
-- [Institutional Charter](core_03.040_band_continuity.md#institutional-charter)
-- [Institutional Data Types and Handling](core_03.040_band_continuity.md#institutional-data-types-and-handling)
-- [Institutional Development](core_03.040_band_continuity.md#institutional-development)
-- [Intake Target](core_03.040_band_continuity.md#intake-target)
-- [Interested Party](core_03.035_band_accountability.md#interested-party)
-- [Intergenerational Responsibility](core_03.040_band_continuity.md#intergenerational-responsibility)
-- [Interim Hold](core_03.035_band_accountability.md#interim-hold)
-- [Interim Protection](core_03.040_band_continuity.md#interim-protection)
-- [Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)
-- [Irreversible Harm](core_03.035_band_accountability.md#irreversible-harm)
-- [Jurisdiction](core_03.035_band_accountability.md#jurisdiction)
-- [Language, Culture, and Heritage](core_03.040_band_continuity.md#language-culture-and-heritage)
-- [Lead Forum](core_03.040_band_continuity.md#lead-forum)
-- [Leisure and Rest](core_03.040_band_continuity.md#leisure-and-rest)
-- [Lifespan Equivalent Unit (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ)
-- [Likeness and Documentary Depiction Interface](core_03.040_band_continuity.md#likeness-and-documentary-depiction-interface)
-- [Market Concentration Threshold](core_03.035_band_accountability.md#market-concentration-threshold)
-- [Market Structure](core_03.035_band_accountability.md#market-structure)
-- [Material](core_03.050_band_oversight.md#material)
-- [Material Control Line](core_03.035_band_accountability.md#material-control-line)
-- [Material Degradation](core_03.050_band_oversight.md#material-degradation)
-- [Material Impact](core_03.050_band_oversight.md#material-impact)
-- [Material Risk](core_03.050_band_oversight.md#material-risk)
-- [Materiality](core_03.050_band_oversight.md#materiality)
-- [Materiality Integrity Constraint](core_03.050_band_oversight.md#materiality-integrity-constraint)
-- [Materiality Tier](core_03.040_band_continuity.md#materiality-tier)
-- [Materiality under Uncertainty](core_03.050_band_oversight.md#materiality-under-uncertainty)
-- [Materially Binding Act](core_03.035_band_accountability.md#materially-binding-act)
-- [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record)
-- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency)
-- [Merits Determination](core_03.035_band_accountability.md#merits-determination)
-- [Minority](core_03.055_band_participation.md#minority)
-- [Misaligned Reward Correction](subcore_03.045_band_integrative.md#misaligned-reward-correction)
-- [Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection)
-- [Movement and Relocation](core_03.055_band_participation.md#movement-and-relocation)
-- [Natural Systems Standing](core_03.055_band_participation.md#natural-systems-standing)
-- [Necessity](core_03.035_band_accountability.md#necessity)
-- [Negligence](core_03.035_band_accountability.md#negligence)
-- [New Material Authority](core_03.040_band_continuity.md#new-material-authority)
-- [No-Bypass](subcore_03.045_band_integrative.md#no-bypass)
-- [Non-Compliance](subcore_03.045_band_integrative.md#non-compliance)
-- [Non-Compliance Finding Profile](core_03.035_band_accountability.md#non-compliance-finding-profile)
-- [Non-Imposition (Cooperative Interaction)](core_03.055_band_participation.md#non-imposition-cooperative-interaction)
-- [Non-Separation](core_03.055_band_participation.md#non-separation)
-- [Non-Statelessness](core_03.055_band_participation.md#non-statelessness)
-- [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity)
-- [One-System Evaluation](core_03.040_band_continuity.md#one-system-evaluation)
-- [Open Systems, Data, and Auditing](subcore_03.045_band_integrative.md#open-systems-data-and-auditing)
-- [Openness Aspiration](core_03.040_band_continuity.md#openness-aspiration)
-- [Operating Party](core_03.050_band_oversight.md#operating-party)
-- [Operator](core_03.040_band_continuity.md#operator)
-- [Outcome-Resolution Source](core_03.035_band_accountability.md#outcome-resolution-source)
-- [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional)
-- [Parent-System Relationship](core_03.055_band_participation.md#parent-system-relationship)
-- [Participant Standing](core_03.035_band_accountability.md#participant-standing)
-- [Participation](core_03.025_apex_participation_leg.md#participation-constitutional)
-- [Personhood](core_03.055_band_participation.md#personhood)
-- [Pilot](core_03.040_band_continuity.md#pilot)
-- [Portfolio](core_03.040_band_continuity.md#portfolio)
-- [Press and Journalistic Activity](core_03.050_band_oversight.md#press-and-journalistic-activity)
-- [Primary-Stakes Routing](core_03.035_band_accountability.md#primary-stakes-routing)
-- [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness)
-- [Process](core_03.040_band_continuity.md#process)
-- [Productive Capacity](core_03.040_band_continuity.md#productive-capacity)
-- [Proportionality](core_03.035_band_accountability.md#proportionality)
-- [Proportionate Cross-System Support](core_03.040_band_continuity.md#proportionate-cross-system-support)
-- [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)
-- [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics)
-- [Protected Data and Internal-State Publication Constraint](core_03.050_band_oversight.md#protected-data-and-internal-state-publication-constraint)
-- [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary)
-- [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](core_03.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)
-- [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing)
-- [Protected Reporting Retaliation and Access Interference](core_03.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)
-- [Provisional Certification](core_03.040_band_continuity.md#provisional-certification)
-- [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence)
-- [Psychological Harm](core_03.035_band_accountability.md#psychological-harm)
-- [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure)
-- [Publication Truthfulness and Recklessness Floor](core_03.050_band_oversight.md#publication-truthfulness-and-recklessness-floor)
-- [Reasonably Foreseeable](core_03.050_band_oversight.md#reasonably-foreseeable)
-- [Recertification](core_03.040_band_continuity.md#recertification)
-- [Record Custodian](core_03.035_band_accountability.md#record-custodian)
-- [Record Integrity](core_03.035_band_accountability.md#record-integrity)
-- [Record Seat](core_03.035_band_accountability.md#record-seat)
-- [Record-Opening Authority](core_03.035_band_accountability.md#record-opening-authority)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation)
-- [Refuge from Non-Compliance](core_03.055_band_participation.md#refuge-from-non-compliance)
-- [Reliance Limits](core_03.040_band_continuity.md#reliance-limits)
-- [Remediation Readiness](core_03.035_band_accountability.md#remediation-readiness)
-- [Remedy System](core_03.035_band_accountability.md#remedy-system)
-- [Reopened Review](core_03.040_band_continuity.md#reopened-review)
-- [Reopening Trigger](core_03.040_band_continuity.md#reopening-trigger)
-- [Reproductive Autonomy](core_03.055_band_participation.md#reproductive-autonomy)
-- [Residual Risk / Misalignment](core_03.040_band_continuity.md#residual-risk--misalignment)
-- [Restorative Justice](core_03.035_band_accountability.md#restorative-justice)
-- [Reversibility](core_03.040_band_continuity.md#reversibility)
-- [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty)
-- [Review Case](core_03.035_band_accountability.md#review-case)
-- [Risk](core_03.040_band_continuity.md#risk)
-- [Risk Disclosure](core_03.050_band_oversight.md#risk-disclosure)
-- [Risk Evaluation](core_03.040_band_continuity.md#risk-evaluation)
-- [Safe Conditions](core_03.040_band_continuity.md#safe-conditions)
-- [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint)
-- [Security-Sensitive Disclosure Balance](core_03.050_band_oversight.md#security-sensitive-disclosure-balance)
-- [Self-Determination](core_03.055_band_participation.md#self-determination)
-- [Self-Healing](core_03.040_band_continuity.md#self-healing)
-- [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion)
-- [Sentience Status Adjudication](core_03.055_band_participation.md#sentience-status-adjudication)
-- [Sentience-Status Adjudication Record](core_03.055_band_participation.md#sentience-status-adjudication-record)
-- [Sentient](core_03.055_band_participation.md#sentient)
-- [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity)
-- [Short-Horizon Governance Defect](core_03.040_band_continuity.md#short-horizon-governance-defect)
-- [Single Catastrophic Incident](core_03.035_band_accountability.md#single-catastrophic-incident)
-- [Stakeholder](core_03.055_band_participation.md#stakeholder)
-- [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency)
-- [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)
-- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice)
-- [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight)
-- [Standardization](core_03.035_band_accountability.md#standardization)
-- [Standing Effect](core_03.035_band_accountability.md#standing-effect)
-- [Standing Lock](core_03.035_band_accountability.md#standing-lock)
-- [Standing Record](core_03.035_band_accountability.md#standing-record)
-- [Stay](core_03.035_band_accountability.md#stay)
-- [Stewardship](core_03.040_band_continuity.md#stewardship)
-- [Stewardship Defect](core_03.040_band_continuity.md#stewardship-defect)
-- [Strategic Stewardship Obligation](core_03.040_band_continuity.md#strategic-stewardship-obligation)
-- [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness)
-- [Substrate Class](core_03.055_band_participation.md#substrate-class)
-- [Subversion](core_03.035_band_accountability.md#subversion)
-- [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary)
-- [Sustainability](core_03.040_band_continuity.md#sustainability)
-- [Sustained High-Gravity Pattern](core_03.035_band_accountability.md#sustained-high-gravity-pattern)
-- [System](core_03.040_band_continuity.md#system)
-- [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification)
-- [System Boundaries](core_03.040_band_continuity.md#system-boundaries)
-- [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity)
-- [System Capture](core_03.040_band_continuity.md#system-capture)
-- [System Certification Record](core_03.040_band_continuity.md#system-certification-record)
-- [System Charter](core_03.040_band_continuity.md#system-charter)
-- [System Classification Record](core_03.040_band_continuity.md#system-classification-record)
-- [System Creation](core_03.055_band_participation.md#system-creation)
-- [System Data Types Record](core_03.040_band_continuity.md#system-data-types-record)
-- [Systemic](core_03.040_band_continuity.md#systemic)
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in)
-- [Systemic Materiality](core_03.040_band_continuity.md#systemic-materiality)
-- [Tier Window](core_03.040_band_continuity.md#tier-window)
-- [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional)
-- [Timely Resolution](core_03.035_band_accountability.md#timely-resolution)
-- [Training-Data Use](core_03.040_band_continuity.md#training-data-use)
-- [Transparency](core_03.050_band_oversight.md#transparency)
-- [Trust](core_03.040_band_continuity.md#trust)
-- [Trust Degradation and Misleading Reliance](core_03.040_band_continuity.md#trust-degradation-and-misleading-reliance)
-- [Trustworthiness](core_03.040_band_continuity.md#trustworthiness)
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint)
-- [Under Challenge](core_03.035_band_accountability.md#under-challenge)
-- [Unified Incident](core_03.035_band_accountability.md#unified-incident)
-- [Unified Incident Record](core_03.035_band_accountability.md#unified-incident-record)
-- [Urgent Protection](core_03.040_band_continuity.md#urgent-protection)
-- [Use of Force](core_03.035_band_accountability.md#use-of-force)
-- [Verifiability](core_03.050_band_oversight.md#verifiability)
-- [Verified Inputs for Standing](core_03.035_band_accountability.md#verified-inputs-for-standing)
-- [Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat)
-- [Violation Nature](core_03.035_band_accountability.md#violation-nature)
-- [Volitional Integrity](core_03.055_band_participation.md#volitional-integrity)
-- [Voluntary Discontinuation](core_03.040_band_continuity.md#voluntary-discontinuation)
-- [Weapons of Mass Harm](core_03.035_band_accountability.md#weapons-of-mass-harm)
-- [Wellbeing](core_03.040_band_continuity.md#wellbeing)
+- [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness)
+- [Accessibility](subcore_03.090_band_participation.md#accessibility)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability)
+- [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution)
+- [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter)
+- [Adoption Transition](subcore_03.075_band_continuity.md#adoption-transition)
+- [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record)
+- [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions)
+- [Animal Cruelty](subcore_03.070_band_accountability.md#animal-cruelty)
+- [Animal Life](subcore_03.090_band_participation.md#animal-life)
+- [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture)
+- [Anti-Constitutional Misconduct Review](subcore_03.070_band_accountability.md#anti-constitutional-misconduct-review)
+- [Anti-Displacement Floor](subcore_03.075_band_continuity.md#anti-displacement-floor)
+- [Assembly](subcore_03.090_band_participation.md#assembly)
+- [Attributable Action](subcore_03.070_band_accountability.md#attributable-action)
+- [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity)
+- [Auditability](subcore_03.085_band_oversight.md#auditability)
+- [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)
+- [Autonomous Coercion Tool](subcore_03.070_band_accountability.md#autonomous-coercion-tool)
+- [Autonomous Lethal System](subcore_03.070_band_accountability.md#autonomous-lethal-system)
+- [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden)
+- [Best-Interest Standard](subcore_03.090_band_participation.md#best-interest-standard)
+- [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-stakeholder-choice--decision-resolution-requirements)
+- [Bodily-Maintenance Access](subcore_03.075_band_continuity.md#bodily-maintenance-access)
+- [Burden-Reduction Duty](subcore_03.075_band_continuity.md#burden-reduction-duty)
+- [Business Creation](subcore_03.090_band_participation.md#business-creation)
+- [Capability Requirement](subcore_03.085_band_oversight.md#capability-requirement)
+- [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure)
+- [Cause Finding](subcore_03.075_band_continuity.md#cause-finding)
+- [Certification Condition](subcore_03.075_band_continuity.md#certification-condition)
+- [Certification Denial](subcore_03.075_band_continuity.md#certification-denial)
+- [Certification Pass](subcore_03.075_band_continuity.md#certification-pass)
+- [Certification Revocation](subcore_03.075_band_continuity.md#certification-revocation)
+- [Challenge Path](subcore_03.075_band_continuity.md#challenge-path)
+- [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer)
+- [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map)
+- [Chartered Party](subcore_03.075_band_continuity.md#chartered-party)
+- [Cited System](subcore_03.075_band_continuity.md#cited-system)
+- [Class Repair Window](subcore_03.070_band_accountability.md#class-repair-window)
+- [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance)
+- [Clean Recertification](subcore_03.075_band_continuity.md#clean-recertification)
+- [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation)
+- [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure)
+- [Collective Harm Boundary](subcore_03.070_band_accountability.md#collective-harm-boundary)
+- [Collective Organization](subcore_03.090_band_participation.md#collective-organization)
+- [Combatant / Non-Combatant Distinction](subcore_03.070_band_accountability.md#combatant--non-combatant-distinction)
+- [Commercial Compliance](subcore_03.090_band_participation.md#commercial-compliance)
+- [Competency Bar](subcore_03.070_band_accountability.md#competency-bar)
+- [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance)
+- [Consent](subcore_03.090_band_participation.md#consent)
+- [Consent, Sexual](subcore_03.090_band_participation.md#consent-sexual)
+- [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive)
+- [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter)
+- [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision)
+- [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record)
+- [Constitutional Community](subcore_03.090_band_participation.md#constitutional-community)
+- [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint)
+- [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer)
+- [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency)
+- [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency)
+- [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library)
+- [Contest Seat](subcore_03.070_band_accountability.md#contest-seat)
+- [Contestability](subcore_03.070_band_accountability.md#contestability)
+- [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life)
+- [Contingent Claim](subcore_03.070_band_accountability.md#contingent-claim)
+- [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim)
+- [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature)
+- [Corpus](subcore_03.080_band_integrative.md#corpus)
+- [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution)
+- [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction)
+- [Cruelty](subcore_03.070_band_accountability.md#cruelty)
+- [Decentralization](subcore_03.070_band_accountability.md#decentralization)
+- [Dependency](subcore_03.075_band_continuity.md#dependency)
+- [Derived Information](subcore_03.080_band_integrative.md#derived-information)
+- [Derived Sentient](subcore_03.090_band_participation.md#derived-sentient)
+- [Developing Sentient](subcore_03.090_band_participation.md#developing-sentient)
+- [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing)
+- [Direct Case](subcore_03.070_band_accountability.md#direct-case)
+- [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding)
+- [Documented Legitimacy Mechanism](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism)
+- [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality)
+- [Due Process](subcore_03.070_band_accountability.md#due-process)
+- [Duty to Resist](subcore_03.070_band_accountability.md#duty-to-resist)
+- [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint)
+- [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity)
+- [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity)
+- [Educational Agency](subcore_03.090_band_participation.md#educational-agency)
+- [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life)
+- [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency)
+- [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)
+- [Enforcement Record](subcore_03.070_band_accountability.md#enforcement-record)
+- [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions)
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity)
+- [Essential Record](subcore_03.070_band_accountability.md#essential-record)
+- [Essential-Environment Non-Commodification](subcore_03.075_band_continuity.md#essential-environment-non-commodification)
+- [Evaluation Completeness Constraint](subcore_03.085_band_oversight.md#evaluation-completeness-constraint)
+- [Event-Contract Market](subcore_03.070_band_accountability.md#event-contract-market)
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation)
+- [Existential Risk](subcore_03.075_band_continuity.md#existential-risk)
+- [Expression](subcore_03.090_band_participation.md#expression)
+- [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation)
+- [Family and Care Relationships](subcore_03.090_band_participation.md#family-and-care-relationships)
+- [Feasibility](subcore_03.070_band_accountability.md#feasibility)
+- [Flourishing](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional)
+- [Force Majeure](subcore_03.070_band_accountability.md#force-majeure)
+- [Foreseeability](subcore_03.085_band_oversight.md#foreseeability)
+- [Formation Check](subcore_03.070_band_accountability.md#formation-check)
+- [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record)
+- [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional)
+- [Forum Family, Environment](subcore_03.070_band_accountability.md#forum-family-environment)
+- [Forum Family, Institutional](subcore_03.070_band_accountability.md#forum-family-institutional)
+- [Forum Family, Integrity](subcore_03.070_band_accountability.md#forum-family-integrity)
+- [Forum Family, Sentient](subcore_03.070_band_accountability.md#forum-family-sentient)
+- [Forum Family, Technical](subcore_03.070_band_accountability.md#forum-family-technical)
+- [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice)
+- [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency)
+- [Fresh Review](subcore_03.075_band_continuity.md#fresh-review)
+- [Full Certification](subcore_03.075_band_continuity.md#full-certification)
+- [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect)
+- [Game of Chance](subcore_03.070_band_accountability.md#game-of-chance)
+- [Gate](subcore_03.085_band_oversight.md#gate)
+- [Gate Criteria](subcore_03.085_band_oversight.md#gate-criteria)
+- [Gated Pathway](subcore_03.070_band_accountability.md#gated-pathway)
+- [Go-Live](subcore_03.075_band_continuity.md#go-live)
+- [Good Faith](subcore_03.070_band_accountability.md#good-faith)
+- [Governance](subcore_03.070_band_accountability.md#governance)
+- [Governance Violation](subcore_03.075_band_continuity.md#governance-violation)
+- [Graduated Capability](subcore_03.090_band_participation.md#graduated-capability)
+- [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying)
+- [Hard Content](subcore_03.090_band_participation.md#hard-content)
+- [Harm](subcore_03.070_band_accountability.md#harm)
+- [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection)
+- [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny)
+- [High-Impact and Systemic Harm Publication Constraint](subcore_03.085_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
+- [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection)
+- [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment)
+- [Incentive Alignment — Baseline Constitutional Alignment](subcore_03.080_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
+- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.080_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
+- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.080_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
+- [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
+- [Independence](subcore_03.070_band_accountability.md#independence)
+- [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity)
+- [Influence Pathway](subcore_03.070_band_accountability.md#influence-pathway)
+- [Info-Sphere](subcore_03.090_band_participation.md#info-sphere)
+- [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat)
+- [Innovation Reward and Anti-Enclosure](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure)
+- [Insider Advantage](subcore_03.070_band_accountability.md#insider-advantage)
+- [Instantiation Consent](subcore_03.090_band_participation.md#instantiation-consent)
+- [Institution](subcore_03.075_band_continuity.md#institution)
+- [Institution Class](subcore_03.075_band_continuity.md#institution-class)
+- [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification)
+- [Institutional Authority Standing Lock](subcore_03.070_band_accountability.md#institutional-authority-standing-lock)
+- [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record)
+- [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter)
+- [Institutional Data Types and Handling](subcore_03.075_band_continuity.md#institutional-data-types-and-handling)
+- [Institutional Development](subcore_03.075_band_continuity.md#institutional-development)
+- [Intake Target](subcore_03.075_band_continuity.md#intake-target)
+- [Interested Party](subcore_03.070_band_accountability.md#interested-party)
+- [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility)
+- [Interim Hold](subcore_03.070_band_accountability.md#interim-hold)
+- [Interim Protection](subcore_03.075_band_continuity.md#interim-protection)
+- [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)
+- [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm)
+- [Jurisdiction](subcore_03.070_band_accountability.md#jurisdiction)
+- [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage)
+- [Lead Forum](subcore_03.075_band_continuity.md#lead-forum)
+- [Leisure and Rest](subcore_03.075_band_continuity.md#leisure-and-rest)
+- [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ)
+- [Likeness and Documentary Depiction Interface](subcore_03.075_band_continuity.md#likeness-and-documentary-depiction-interface)
+- [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold)
+- [Market Structure](subcore_03.070_band_accountability.md#market-structure)
+- [Material](subcore_03.085_band_oversight.md#material)
+- [Material Control Line](subcore_03.070_band_accountability.md#material-control-line)
+- [Material Degradation](subcore_03.085_band_oversight.md#material-degradation)
+- [Material Impact](subcore_03.085_band_oversight.md#material-impact)
+- [Material Risk](subcore_03.085_band_oversight.md#material-risk)
+- [Materiality](subcore_03.085_band_oversight.md#materiality)
+- [Materiality Integrity Constraint](subcore_03.085_band_oversight.md#materiality-integrity-constraint)
+- [Materiality Tier](subcore_03.075_band_continuity.md#materiality-tier)
+- [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty)
+- [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act)
+- [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record)
+- [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency)
+- [Merits Determination](subcore_03.070_band_accountability.md#merits-determination)
+- [Minority](subcore_03.090_band_participation.md#minority)
+- [Misaligned Reward Correction](subcore_03.080_band_integrative.md#misaligned-reward-correction)
+- [Misalignment Detection](subcore_03.080_band_integrative.md#misalignment-detection)
+- [Movement and Relocation](subcore_03.090_band_participation.md#movement-and-relocation)
+- [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing)
+- [Necessity](subcore_03.070_band_accountability.md#necessity)
+- [Negligence](subcore_03.070_band_accountability.md#negligence)
+- [New Material Authority](subcore_03.075_band_continuity.md#new-material-authority)
+- [No-Bypass](subcore_03.080_band_integrative.md#no-bypass)
+- [Non-Compliance](subcore_03.080_band_integrative.md#non-compliance)
+- [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile)
+- [Non-Imposition (Cooperative Interaction)](subcore_03.090_band_participation.md#non-imposition-cooperative-interaction)
+- [Non-Separation](subcore_03.090_band_participation.md#non-separation)
+- [Non-Statelessness](subcore_03.090_band_participation.md#non-statelessness)
+- [Occupancy Continuity](subcore_03.075_band_continuity.md#occupancy-continuity)
+- [One-System Evaluation](subcore_03.075_band_continuity.md#one-system-evaluation)
+- [Open Systems, Data, and Auditing](subcore_03.080_band_integrative.md#open-systems-data-and-auditing)
+- [Openness Aspiration](subcore_03.075_band_continuity.md#openness-aspiration)
+- [Operating Party](subcore_03.085_band_oversight.md#operating-party)
+- [Operator](subcore_03.075_band_continuity.md#operator)
+- [Outcome-Resolution Source](subcore_03.070_band_accountability.md#outcome-resolution-source)
+- [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional)
+- [Parent-System Relationship](subcore_03.090_band_participation.md#parent-system-relationship)
+- [Participant Standing](subcore_03.070_band_accountability.md#participant-standing)
+- [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional)
+- [Personhood](subcore_03.090_band_participation.md#personhood)
+- [Pilot](subcore_03.075_band_continuity.md#pilot)
+- [Portfolio](subcore_03.075_band_continuity.md#portfolio)
+- [Press and Journalistic Activity](subcore_03.085_band_oversight.md#press-and-journalistic-activity)
+- [Primary-Stakes Routing](subcore_03.070_band_accountability.md#primary-stakes-routing)
+- [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness)
+- [Process](subcore_03.075_band_continuity.md#process)
+- [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality)
+- [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support)
+- [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact)
+- [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics)
+- [Protected Data and Internal-State Publication Constraint](subcore_03.085_band_oversight.md#protected-data-and-internal-state-publication-constraint)
+- [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary)
+- [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)
+- [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing)
+- [Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference)
+- [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification)
+- [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence)
+- [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm)
+- [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure)
+- [Publication Truthfulness and Recklessness Floor](subcore_03.085_band_oversight.md#publication-truthfulness-and-recklessness-floor)
+- [Reasonably Foreseeable](subcore_03.085_band_oversight.md#reasonably-foreseeable)
+- [Recertification](subcore_03.075_band_continuity.md#recertification)
+- [Record Custodian](subcore_03.070_band_accountability.md#record-custodian)
+- [Record Integrity](subcore_03.070_band_accountability.md#record-integrity)
+- [Record Seat](subcore_03.070_band_accountability.md#record-seat)
+- [Record-Opening Authority](subcore_03.070_band_accountability.md#record-opening-authority)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation)
+- [Refuge from Non-Compliance](subcore_03.090_band_participation.md#refuge-from-non-compliance)
+- [Reliance Limits](subcore_03.075_band_continuity.md#reliance-limits)
+- [Remediation Readiness](subcore_03.070_band_accountability.md#remediation-readiness)
+- [Remedy System](subcore_03.070_band_accountability.md#remedy-system)
+- [Reopened Review](subcore_03.075_band_continuity.md#reopened-review)
+- [Reopening Trigger](subcore_03.075_band_continuity.md#reopening-trigger)
+- [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy)
+- [Residual Risk / Misalignment](subcore_03.075_band_continuity.md#residual-risk--misalignment)
+- [Restorative Justice](subcore_03.070_band_accountability.md#restorative-justice)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility)
+- [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty)
+- [Review Case](subcore_03.070_band_accountability.md#review-case)
+- [Risk](subcore_03.075_band_continuity.md#risk)
+- [Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure)
+- [Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation)
+- [Safe Conditions](subcore_03.075_band_continuity.md#safe-conditions)
+- [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint)
+- [Security-Sensitive Disclosure Balance](subcore_03.085_band_oversight.md#security-sensitive-disclosure-balance)
+- [Self-Determination](subcore_03.090_band_participation.md#self-determination)
+- [Self-Healing](subcore_03.075_band_continuity.md#self-healing)
+- [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion)
+- [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication)
+- [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record)
+- [Sentient](subcore_03.090_band_participation.md#sentient)
+- [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity)
+- [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect)
+- [Single Catastrophic Incident](subcore_03.070_band_accountability.md#single-catastrophic-incident)
+- [Stakeholder](subcore_03.090_band_participation.md#stakeholder)
+- [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency)
+- [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)
+- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice)
+- [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight)
+- [Standardization](subcore_03.070_band_accountability.md#standardization)
+- [Standing Effect](subcore_03.070_band_accountability.md#standing-effect)
+- [Standing Lock](subcore_03.070_band_accountability.md#standing-lock)
+- [Standing Record](subcore_03.070_band_accountability.md#standing-record)
+- [Stay](subcore_03.070_band_accountability.md#stay)
+- [Stewardship](subcore_03.075_band_continuity.md#stewardship)
+- [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect)
+- [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation)
+- [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness)
+- [Substrate Class](subcore_03.090_band_participation.md#substrate-class)
+- [Subversion](subcore_03.070_band_accountability.md#subversion)
+- [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary)
+- [Sustainability](subcore_03.075_band_continuity.md#sustainability)
+- [Sustained High-Gravity Pattern](subcore_03.070_band_accountability.md#sustained-high-gravity-pattern)
+- [System](subcore_03.075_band_continuity.md#system)
+- [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification)
+- [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries)
+- [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture)
+- [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record)
+- [System Charter](subcore_03.075_band_continuity.md#system-charter)
+- [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record)
+- [System Creation](subcore_03.090_band_participation.md#system-creation)
+- [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record)
+- [Systemic](subcore_03.075_band_continuity.md#systemic)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in)
+- [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality)
+- [Tier Window](subcore_03.075_band_continuity.md#tier-window)
+- [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional)
+- [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution)
+- [Training-Data Use](subcore_03.075_band_continuity.md#training-data-use)
+- [Transparency](subcore_03.085_band_oversight.md#transparency)
+- [Trust](subcore_03.075_band_continuity.md#trust)
+- [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance)
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint)
+- [Under Challenge](subcore_03.070_band_accountability.md#under-challenge)
+- [Unified Incident](subcore_03.070_band_accountability.md#unified-incident)
+- [Unified Incident Record](subcore_03.070_band_accountability.md#unified-incident-record)
+- [Urgent Protection](subcore_03.075_band_continuity.md#urgent-protection)
+- [Use of Force](subcore_03.070_band_accountability.md#use-of-force)
+- [Verifiability](subcore_03.085_band_oversight.md#verifiability)
+- [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing)
+- [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat)
+- [Violation Nature](subcore_03.070_band_accountability.md#violation-nature)
+- [Volitional Integrity](subcore_03.090_band_participation.md#volitional-integrity)
+- [Voluntary Discontinuation](subcore_03.075_band_continuity.md#voluntary-discontinuation)
+- [Weapons of Mass Harm](subcore_03.070_band_accountability.md#weapons-of-mass-harm)
+- [Wellbeing](subcore_03.075_band_continuity.md#wellbeing)
 
 <a id="clusters-a-z"></a>
 
 #### Clusters A-Z
 
-- [Def.P1 Animal Life, Sentient Life, and Sentience Status](core_03.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
-- [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice)
-- [Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying](core_03.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)
-- [Def.I1 Corpus and Authority Stack](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack)
-- [Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability](core_03.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability)
-- [Def.A2 Forum Families and Dispute Routing](core_03.035_band_accountability.md#defa2-forum-families-and-dispute-routing)
-- [Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_03.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
-- [Def.C3 Privacy (Informational) — Peer-Level Cluster Head](core_03.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
-- [Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_03.055_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)
-- [Def.A3 Standing State, Contribution, and Violation](core_03.035_band_accountability.md#defa3-standing-state-contribution-and-violation)
-- [Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity)
-- [Def.O1 Transparency, Auditability, and Verification](core_03.050_band_oversight.md#defo1-transparency-auditability-and-verification)
-- [Def.C4 Trust and Trustworthiness](core_03.040_band_continuity.md#defc4-trust-and-trustworthiness)
-- [Def.O2 Truth and Epistemic Integrity](core_03.050_band_oversight.md#defo2-truth-and-epistemic-integrity)
-- [Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_03.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm)
+- [Def.P1 Animal Life, Sentient Life, and Sentience Status](subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
+- [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice)
+- [Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying](subcore_03.070_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)
+- [Def.I1 Corpus and Authority Stack](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack)
+- [Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability](subcore_03.090_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability)
+- [Def.A2 Forum Families and Dispute Routing](subcore_03.070_band_accountability.md#defa2-forum-families-and-dispute-routing)
+- [Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
+- [Def.C3 Privacy (Informational) — Peer-Level Cluster Head](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
+- [Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](subcore_03.090_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)
+- [Def.A3 Standing State, Contribution, and Violation](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation)
+- [Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity)
+- [Def.O1 Transparency, Auditability, and Verification](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification)
+- [Def.C4 Trust and Trustworthiness](subcore_03.075_band_continuity.md#defc4-trust-and-trustworthiness)
+- [Def.O2 Truth and Epistemic Integrity](subcore_03.085_band_oversight.md#defo2-truth-and-epistemic-integrity)
+- [Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm)
 
 </details>
 
@@ -632,9 +632,9 @@ A dependent cluster adds a head before its members. The head says when the clust
 <a id="71-an-independent-definition-no-bypass"></a>
 #### 7.1 An Independent Definition: No-Bypass
 
-[No-Bypass](subcore_03.045_band_integrative.md#no-bypass) is one of the shortest independent definitions. Its canonical home is [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions).
+[No-Bypass](subcore_03.080_band_integrative.md#no-bypass) is one of the shortest independent definitions. Its canonical home is [Subcore 3-L](subcore_03.080_band_integrative.md#subcore-3-l-integrative-definitions).
 
-<!-- ch3-example:start subcore_03.045_band_integrative.md#no-bypass #### No-Bypass -->
+<!-- ch3-example:start subcore_03.080_band_integrative.md#no-bypass #### No-Bypass -->
 
 ---
 
@@ -645,10 +645,10 @@ A dependent cluster adds a head before its members. The head says when the clust
 
 - Downstream: Principles: [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with:
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Auditability](core_03.050_band_oversight.md#auditability), and
-  - [Contestability](core_03.035_band_accountability.md#contestability). Cluster-local **Anti-bypass** rules apply this definition inside their own cluster.
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability), and
+  - [Contestability](subcore_03.070_band_accountability.md#contestability). Cluster-local **Anti-bypass** rules apply this definition inside their own cluster.
 
 </details>
 
@@ -681,13 +681,13 @@ A dependent cluster adds a head before its members. The head says when the clust
     - **What they may never bypass:** No framing may be used to bypass:
       - Rights-Floor minimums;
       - the rules for lawfully changing the Constitution;
-      - [Contestability](core_03.035_band_accountability.md#contestability);
-      - [Auditability](core_03.050_band_oversight.md#auditability);
-      - [Accountability](core_03.005_apex_accountability_leg.md#accountability); or
+      - [Contestability](subcore_03.070_band_accountability.md#contestability);
+      - [Auditability](subcore_03.085_band_oversight.md#auditability);
+      - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability); or
       - functional independence and separation of duties.
   - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
 
     **Primary assessment:** Compare the act as framed with the act as it substantively is. A requirement counts as bypassed if it would have applied under the plain framing and does not apply under the chosen one, with no change in what the act does.
 - **What must hold**
@@ -701,9 +701,9 @@ A dependent cluster adds a head before its members. The head says when the clust
 <a id="72-a-dependent-cluster-binding-stakeholder-choice"></a>
 #### 7.2 A Dependent Cluster: Binding Stakeholder Choice
 
-[Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) is the smallest dependent cluster, with three members. Its canonical home is the [Participation band](core_03.055_band_participation.md).
+[Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) is the smallest dependent cluster, with three members. Its canonical home is the [Participation band](subcore_03.090_band_participation.md).
 
-<!-- ch3-example:start core_03.055_band_participation.md#binding-stakeholder-choice-cluster #### Def.P2 Binding Stakeholder Choice -->
+<!-- ch3-example:start subcore_03.090_band_participation.md#binding-stakeholder-choice-cluster #### Def.P2 Binding Stakeholder Choice -->
 
 ---
 
@@ -715,25 +715,25 @@ A dependent cluster adds a head before its members. The head says when the clust
 - Owner floor: [Chapter Twenty-Six §6.3](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (26.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
 - Read with:
   - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter);
-  - [Stakeholder Status and Weight](core_03.055_band_participation.md#stakeholder-status-and-weight),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
-  - [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight),
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter);
+  - [Stakeholder Status and Weight](subcore_03.090_band_participation.md#stakeholder-status-and-weight),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice),
+  - [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight),
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
   - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
   - [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
 - Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Implementation publication: institutional
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;
-  - [System Charter](core_03.040_band_continuity.md#system-charter) or
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) /
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter) or
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) /
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10 points to those files without absorbing them.
 
 </details>
@@ -760,19 +760,19 @@ Where admission scope is met, this cluster is the place those rules live togethe
 
 It does not replace:
 
-- [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
+- [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice);
 - equal-weight authorization rules under **[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**; or
-- emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
+- emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
 
 When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **System Charter and Institutional Charter relationship:**
 
-- **The System Charter or Institutional Charter points to the rules:** A governing [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry:
+- **The System Charter or Institutional Charter points to the rules:** A governing [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry:
   - the decision sequence;
   - the weighting model; or
   - the rights-collision record.
-- **Where the pointers lead for institutions:** Those [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) ordinarily resolve to:
+- **Where the pointers lead for institutions:** Those [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) ordinarily resolve to:
   - the **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials; and
   - the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file (**CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 9).
 - **Failure:** Either of these fails both the System Charter or Institutional Charter duty and this cluster:
@@ -781,9 +781,9 @@ When any of those stakeholder-choice questions is in play, read the cluster memb
 
 **Cluster members.** This cluster comprises:
 
-- [Binding Stakeholder Choice — Decision-Resolution Requirements](core_03.055_band_participation.md#binding-collective-choice-decision-resolution-process);
-- [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
-- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_03.055_band_participation.md#rights-collision-record-binding-stakeholder-choice);
+- [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process);
+- [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
+- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
 
 **Anti-bypass.** Compartments: deliberation, representation, weighting, record, and rights-collision. Checking one while the others fail is non-compliant; none of these counts as compliance on its own:
@@ -816,7 +816,7 @@ See **Anti-Segmentation Principle**.
     - unilateral operator decrees; or
     - Foundational Constitutional Choice equal-weight voting rules used inside already-authorized Stakeholder System Participation decisions.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the full published sequence is real — deliberation, plural evaluation where stakes rise, and lawful reopening — not a rubber stamp.
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the full published sequence is real — deliberation, plural evaluation where stakes rise, and lawful reopening — not a rubber stamp.
 
     **Primary assessment:**
     - **Structured sequence:** verify the full sequence is:
@@ -829,12 +829,12 @@ See **Anti-Segmentation Principle**.
     - **Plural evaluation where stakes rise:** when any of the following rises:
       - impact;
       - irreversibility;
-      - [Dependency](core_03.040_band_continuity.md#dependency); or
+      - [Dependency](subcore_03.075_band_continuity.md#dependency); or
       - uncertainty,
       verify plural and appropriately independent evaluation rather than:
       - sole-authority lock-in; or
       - unchallengeable interpretation lock-in.
-    - **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening through applicable lawful challenge and review routes consistent with [Contestability](core_03.035_band_accountability.md#contestability) when any of the following arises:
+    - **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening through applicable lawful challenge and review routes consistent with [Contestability](subcore_03.070_band_accountability.md#contestability) when any of the following arises:
       - results turned out meaningfully different from what was expected;
       - important new evidence comes to light; or
       - the process itself is shown to have been defective.
@@ -853,24 +853,24 @@ See **Anti-Segmentation Principle**.
 *In plain terms: within already-authorized governance, weighting by impact, dependency, standing, or similar factors must be published, bounded against single-factor dominance, and open to contest and revalidation — and must not replace foundational equal-weight authorization rules.*
 
 - **What it is**
-  - **In scope:** Limits on how much say affected sentients may have — **weighting** — in binding stakeholder choices *inside* already-authorized [Governance](core_03.035_band_accountability.md#governance). How much say a stakeholder gets may track:
-    - [Material Impact](core_03.050_band_oversight.md#material-impact);
-    - [Dependency](core_03.040_band_continuity.md#dependency);
+  - **In scope:** Limits on how much say affected sentients may have — **weighting** — in binding stakeholder choices *inside* already-authorized [Governance](subcore_03.070_band_accountability.md#governance). How much say a stakeholder gets may track:
+    - [Material Impact](subcore_03.085_band_oversight.md#material-impact);
+    - [Dependency](subcore_03.075_band_continuity.md#dependency);
     - **standing**; or
     - similar factors.
-    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**).
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**).
   - **Out of scope:**
     - foundational constitutional choice equal-weight rules; or
     - informal straw polls that do not set binding stakeholder weights.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether weighting rules are published, bounded against single-factor dominance, and subject to contest and periodic revalidation.
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether weighting rules are published, bounded against single-factor dominance, and subject to contest and periodic revalidation.
 
     **Primary assessment:** Weighting rules must be:
     - published;
     - bounded against single-factor dominance; and
     - subject to contest and periodic revalidation.
     Cross-check against:
-    - [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight); and
+    - [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight); and
     - **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)
     where applicable.
 - **What must hold**
@@ -894,7 +894,7 @@ See **Anti-Segmentation Principle**.
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
     - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
-  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements, and do not narrow them:
+  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements, and do not narrow them:
     - rights in tension → the operative rule and triggering facts;
     - feasible alternatives → alternatives considered;
     - least-restrictive rationale and accepted trade-offs → the basis for selection;
@@ -904,7 +904,7 @@ See **Anti-Segmentation Principle**.
     - ordinary meeting minutes; or
     - the Chapter Two rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether binding rights-affecting stakeholder choices carry a usable rights-collision record — not silent or opaque trade-offs.
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether binding rights-affecting stakeholder choices carry a usable rights-collision record — not silent or opaque trade-offs.
 
     **Primary assessment:** The Stakeholder Rights-Collision Record must identify:
     - rights in tension;
@@ -927,4 +927,4 @@ See **Anti-Segmentation Principle**.
 
 **Previous file:** [core_02.050_governance_incentive_application.md](core_02.050_governance_incentive_application.md)
 
-**Next file:** [core_03.005_apex_accountability_leg.md](core_03.005_apex_accountability_leg.md)
+**Next file:** [subcore_03.010_definition_structure.md](subcore_03.010_definition_structure.md)

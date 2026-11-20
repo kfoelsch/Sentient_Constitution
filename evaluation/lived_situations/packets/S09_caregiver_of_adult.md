@@ -87,7 +87,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient
 - [Article VIII-D](../../../core_04.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Val can actually do now), **not** as a holding that Val is a child
 - [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
-- [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_04.010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_03.055_band_participation.md#non-separation)
+- [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_04.010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../subcore_03.090_band_participation.md#non-separation)
 - [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) only if Lee’s waged block is used to defeat care or survival access; do not drag Lee’s employer into a family-merits case it is not in
 - [CI-4.245](../../../corpus_institutions/ci_04.245_relational_coercive_control_intimate_power_anti_domination.md) if you conclude the rest-with-strings offer is coercive control in a close relationship
 

@@ -1,8 +1,12 @@
-# CHAPTER THREE DEFINITIONS: TIMELINESS (TETRAD LEG)
+<a id="subcore-3-i-timeliness-tetrad-leg"></a>
+# SUBCORE 3-I: TIMELINESS (TETRAD LEG)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Three** canonical O/M/A/C home and hierarchy map for the **Timeliness** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions that implement Timeliness (including resolution-pathway leaves) live in [core_03.035_band_accountability.md](core_03.035_band_accountability.md). Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 3-I**; until 2026-11-20 it was the apex file of the Timeliness Tetrad leg in the core. It is the **Chapter Three** canonical O/M/A/C home and hierarchy map for the **Timeliness** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions that implement Timeliness (including resolution-pathway leaves) live in [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md). Reading order and the compass live in [core_03.000_definitions_home.md](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+>
+> **Upstream:** [Subcore 3-H](subcore_03.060_apex_participation_leg.md#subcore-3-h-participation-tetrad-leg).
+> **Downstream:** [Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions).
 
 </details>
 
@@ -16,10 +20,10 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream:
-  - [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*);
+  - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*);
   - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together);
   - [Tetrad Leg Decomposition](#tetrad-leg-decomposition); Timeliness-implementing leaf definitions in
-  - [core_03.035_band_accountability.md](core_03.035_band_accountability.md).
+  - [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md).
 - Downstream: Principles:
   - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16);
   - [Chapter Two §17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (2.040 §17); Chapter Two Part B tradeoff and interpretation homes:
@@ -29,13 +33,13 @@
   - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
   - [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
 - Read with:
-  - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency),
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden),
-  - [Stewardship Defect](core_03.040_band_continuity.md#stewardship-defect),
-  - [Review and Correction Duty](core_03.040_band_continuity.md#review-and-correction-duty), and
-  - [Stewardship](core_03.040_band_continuity.md#stewardship).
+  - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency),
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden),
+  - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect),
+  - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty), and
+  - [Stewardship](subcore_03.075_band_continuity.md#stewardship).
 
 </details>
 
@@ -43,7 +47,7 @@
 
 ---
 
-Chapter Three, Timeliness Tetrad leg, is the constitutional owner of the **Timeliness** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Accountability band](core_03.035_band_accountability.md), which holds the Timeliness implementing leaves.
+Chapter Three, Timeliness Tetrad leg, is the constitutional owner of the **Timeliness** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Accountability band](subcore_03.070_band_accountability.md), which holds the Timeliness implementing leaves.
 
 *In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
 
@@ -60,11 +64,11 @@ Chapter Three, Timeliness Tetrad leg, is the constitutional owner of the **Timel
     - stewardship correction
     in the constitutional coordination lifecycle.
   - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#timeliness-tetrad-leg-decomposition):
-    - [Timely Resolution](core_03.035_band_accountability.md#timely-resolution);
-    - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways);
-    - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency); and
-    - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden).
-  - **Out of scope:** leaf-definition details, measurement layers, and implementation mechanics owned by [Timely Resolution](core_03.035_band_accountability.md#timely-resolution), sibling leaves, and CJS.
+    - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution);
+    - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways);
+    - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency); and
+    - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden).
+  - **Out of scope:** leaf-definition details, measurement layers, and implementation mechanics owned by [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), sibling leaves, and CJS.
 <a id="timeliness-constitutional-m"></a>
 <a id="timeliness-constitutional-a"></a>
 - **How to measure and assess**
@@ -96,12 +100,12 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 **Timeliness measurement family leaves** — operative measurement layers:
 
-- [Timely Resolution](core_03.035_band_accountability.md#timely-resolution)
-- [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways)
+- [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution)
+- [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways)
 
 **Cross-cutting.** Timeliness runs through participation, oversight, and accountability; those legs must happen in time to be useful.
 
-**Independent and semi-independent terms** that implement timeliness live in [core_03.035_band_accountability.md](core_03.035_band_accountability.md).
+**Independent and semi-independent terms** that implement timeliness live in [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md).
 
 ---
 
@@ -112,8 +116,8 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Timeliness measurement family — link-only rollup; per-term layers live on leaf definitions — see [Timely Resolution](core_03.035_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_03.025_apex_participation_leg.md#participation-constitutional), [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_03.005_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Downstream: Timeliness measurement family — link-only rollup; per-term layers live on leaf definitions — see [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional), and [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
 - Read with: [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5).
 
 </details>
@@ -122,17 +126,17 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 *In plain terms: these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Three home for the Timeliness measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality](core_03.050_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00.000_preamble.md#material-stake).
+*Materiality* ([Materiality](subcore_03.085_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00.000_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
-| [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
-| Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) |
+| [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
+| Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
 
 These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) real in practice — not merely present on paper.
 
 ---
 
-**Previous file:** [core_03.025_apex_participation_leg.md](core_03.025_apex_participation_leg.md)
+**Previous file:** [subcore_03.060_apex_participation_leg.md](subcore_03.060_apex_participation_leg.md)
 
-**Next file:** [core_03.035_band_accountability.md](core_03.035_band_accountability.md)
+**Next file:** [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md)

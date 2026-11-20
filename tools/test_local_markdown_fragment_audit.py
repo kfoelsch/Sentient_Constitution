@@ -128,7 +128,7 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
         """HTML-ANCHOR-LINK-01: the editor preview only follows heading anchors."""
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_03.040_band_continuity.md").write_text(
+            (root / "subcore_03.075_band_continuity.md").write_text(
                 '<a id="safety-constraint"></a>\n\n'
                 "##### Safety (Constitutional Constraint)\n\n"
                 '<a id="safety-constraint-a"></a>\n'
@@ -137,9 +137,9 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             )
             source = root / "START_HERE.md"
             source.write_text(
-                "[flagged](core_03.040_band_continuity.md#safety-constraint)\n"
-                "[heading](core_03.040_band_continuity.md#safety-constitutional-constraint)\n"
-                "[sub-anchor](core_03.040_band_continuity.md#safety-constraint-a)\n",
+                "[flagged](subcore_03.075_band_continuity.md#safety-constraint)\n"
+                "[heading](subcore_03.075_band_continuity.md#safety-constitutional-constraint)\n"
+                "[sub-anchor](subcore_03.075_band_continuity.md#safety-constraint-a)\n",
                 encoding="utf-8",
             )
             findings = audit(root, [source], None)
@@ -151,14 +151,14 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
         """A non-unique slug is a brittle target, so the stable id stays valid."""
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_03.040_band_continuity.md").write_text(
+            (root / "subcore_03.075_band_continuity.md").write_text(
                 '<a id="first"></a>\n## Repeated\n\n<a id="second"></a>\n## Repeated\n',
                 encoding="utf-8",
             )
             source = root / "START_HERE.md"
             source.write_text(
-                "[a](core_03.040_band_continuity.md#first)\n"
-                "[b](core_03.040_band_continuity.md#second)\n",
+                "[a](subcore_03.075_band_continuity.md#first)\n"
+                "[b](subcore_03.075_band_continuity.md#second)\n",
                 encoding="utf-8",
             )
             self.assertEqual(audit(root, [source], None), [])
@@ -167,21 +167,21 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
         """A target must not be rewritten inside a longer sibling on the same line."""
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_03.040_band_continuity.md").write_text(
+            (root / "subcore_03.075_band_continuity.md").write_text(
                 '<a id="x"></a>\n\n## Long Heading\n\n<a id="x-a"></a>\n- item\n',
                 encoding="utf-8",
             )
             source = root / "START_HERE.md"
             source.write_text(
-                "[t](core_03.040_band_continuity.md#x) [a](core_03.040_band_continuity.md#x-a)\n",
+                "[t](subcore_03.075_band_continuity.md#x) [a](subcore_03.075_band_continuity.md#x-a)\n",
                 encoding="utf-8",
             )
             findings = audit(root, [source], None)
             self.assertEqual(fix_html_anchor_links(root, findings), 1)
             self.assertEqual(
                 source.read_text(encoding="utf-8"),
-                "[t](core_03.040_band_continuity.md#long-heading) "
-                "[a](core_03.040_band_continuity.md#x-a)\n",
+                "[t](subcore_03.075_band_continuity.md#long-heading) "
+                "[a](subcore_03.075_band_continuity.md#x-a)\n",
             )
             self.assertEqual(audit(root, [source], None), [])
 

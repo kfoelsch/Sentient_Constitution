@@ -47,7 +47,7 @@ class Ch10DuplicationTests(unittest.TestCase):
 
     def test_links_and_emphasis_do_not_hide_a_copy(self) -> None:
         nine = "A system holding provisional certification stays provisional and its count does not advance.\n"
-        ten = "An **Institution** holding [provisional certification](core_03.040_band_continuity.md#provisional-certification) stays provisional and its count does not advance.\n"
+        ten = "An **Institution** holding [provisional certification](subcore_03.075_band_continuity.md#provisional-certification) stays provisional and its count does not advance.\n"
         self.assertEqual(len(near_copies(sentences(TEN, ten), sentences(NINE, nine))), 1)
 
     def test_section_number_follows_the_last_heading(self) -> None:

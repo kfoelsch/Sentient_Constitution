@@ -49,7 +49,7 @@ class ScanTests(unittest.TestCase):
 
     def test_skips_markdown_link_text(self) -> None:
         hits = self._audit(
-            "See: [Occupancy Continuity](../../../core_03.040_band_continuity.md#occupancy-continuity-constitutional).\n"
+            "See: [Occupancy Continuity](../../../subcore_03.075_band_continuity.md#occupancy-continuity-constitutional).\n"
         )
         self.assertEqual(hits, [])
 
@@ -97,7 +97,7 @@ class ScanTests(unittest.TestCase):
 
     def test_visible_scan_strips_links(self) -> None:
         visible = visible_scan_text(
-            "See: [Reproductive Autonomy](../../../core_03.055_band_participation.md#reproductive-autonomy-constitutional).",
+            "See: [Reproductive Autonomy](../../../subcore_03.090_band_participation.md#reproductive-autonomy-constitutional).",
             self.allow,
         )
         self.assertNotIn("Reproductive Autonomy", visible)

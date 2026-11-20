@@ -44,7 +44,7 @@ class IdResolverTests(unittest.TestCase):
         )
         self.assertEqual(
             ids["Def.P1"]["file"],
-            "core_03.055_band_participation.md",
+            "subcore_03.090_band_participation.md",
         )
         self.assertEqual(ids["Def.P1"]["kind"], "cluster")
 
@@ -67,7 +67,7 @@ class IdResolverTests(unittest.TestCase):
         proportionality = next(
             item for item in self.payload["definitions"] if item["term"] == "Proportionality"
         )
-        self.assertTrue(proportionality["file"].startswith("core_03."))
+        self.assertTrue(proportionality["file"].startswith("subcore_03."))
         self.assertTrue(proportionality["anchor"].startswith("#"))
         self.assertNotIn("must", proportionality)
         self.assertNotIn("components", proportionality)

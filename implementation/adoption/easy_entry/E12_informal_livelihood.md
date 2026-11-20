@@ -45,7 +45,7 @@ See: [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-a
 - **Today:** Being poor is treated as proof you can be priced out of water, shelter, or a clinic. “Unbanked” is used as a lesser level.
 - **With this Constitution:** How poor or rich you are, what you own, or your social standing cannot be used to close the Rights Floor minimums.
 
-See: [Protected Characteristics](../../../core_03.055_band_participation.md#protected-characteristics); [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival).
+See: [Protected Characteristics](../../../subcore_03.090_band_participation.md#protected-characteristics); [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival).
 
 **The new app is not allowed to be the only door.**
 - **Today:** A new ID wallet, mobile lender, or NGO app is now the gate to water, a stall permit, a remittance, or a clinic queue. A fee or a data-share is the price of staying visible. Modernization means one vendor, opaque formats, and a fee to exit.

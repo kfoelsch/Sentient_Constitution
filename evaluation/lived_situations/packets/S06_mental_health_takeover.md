@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article VII-C](../../../core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) — especially Window B
 - [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; a diagnosis is not, by itself, a takeover
 - [Article III-B](../../../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the refill and clinician are the price of housing
-- [Article VI-C](../../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) / [Protected Characteristics](../../../core_03.055_band_participation.md#protected-characteristics) where mental-health status is used as a gate
+- [Article VI-C](../../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) / [Protected Characteristics](../../../subcore_03.090_band_participation.md#protected-characteristics) where mental-health status is used as a gate
 - [CI-4.225](../../../corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival floors cannot be conditioned on surrendering decisions
 - [CI-4.245](../../../corpus_institutions/ci_04.245_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
 - [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability_justice_trauma_informed_participation.md) — usable participation; supported decision-making is not a quiet takeover

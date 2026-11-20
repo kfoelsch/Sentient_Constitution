@@ -59,7 +59,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - Read with: [Article XV-A](../core_04.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*)
 - Read with: [Article VII-B](../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*)
 - Read with: [Article XVII](../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
-- Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
 - Chapter Two basis: §15.2, §18.2, §18, §19.1, §15, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -67,13 +67,13 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](../core_03.005_apex_accountability_leg.md#accountability) · [O](../core_03.005_apex_accountability_leg.md#accountability) · [M](../core_03.005_apex_accountability_leg.md#accountability-m) · [A](../core_03.005_apex_accountability_leg.md#accountability-a) · [C](../core_03.005_apex_accountability_leg.md#accountability-c)
-- [Auditability](../core_03.050_band_oversight.md#auditability) · [O](../core_03.050_band_oversight.md#auditability) · [M](../core_03.050_band_oversight.md#auditability-a) · [A](../core_03.050_band_oversight.md#auditability-a) · [C](../core_03.050_band_oversight.md#auditability-c)
-- [Transparency](../core_03.050_band_oversight.md#transparency) · [O](../core_03.050_band_oversight.md#transparency) · [M](../core_03.050_band_oversight.md#transparency-a) · [A](../core_03.050_band_oversight.md#transparency-a) · [C](../core_03.050_band_oversight.md#transparency-c)
-- [Governance](../core_03.035_band_accountability.md#governance) · [O](../core_03.035_band_accountability.md#governance) · [M](../core_03.035_band_accountability.md#governance-a) · [A](../core_03.035_band_accountability.md#governance-a) · [C](../core_03.035_band_accountability.md#governance-c)
-- [Oversight](../core_03.020_apex_oversight_leg.md#oversight-constitutional) · [O](../core_03.020_apex_oversight_leg.md#oversight-constitutional) · [M](../core_03.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_03.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_03.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_03.050_band_oversight.md#material) · [O](../core_03.050_band_oversight.md#material) · [M](../core_03.050_band_oversight.md#material-a) · [A](../core_03.050_band_oversight.md#material-a) · [C](../core_03.050_band_oversight.md#material-c)
-- [System](../core_03.040_band_continuity.md#system) · [O](../core_03.040_band_continuity.md#system) · [M](../core_03.040_band_continuity.md#system-definition-a) · [A](../core_03.040_band_continuity.md#system-definition-a) · [C](../core_03.040_band_continuity.md#system-definition-c)
+- [Accountability](../subcore_03.040_apex_accountability_leg.md#accountability) · [O](../subcore_03.040_apex_accountability_leg.md#accountability) · [M](../subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](../subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](../subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Auditability](../subcore_03.085_band_oversight.md#auditability) · [O](../subcore_03.085_band_oversight.md#auditability) · [M](../subcore_03.085_band_oversight.md#auditability-a) · [A](../subcore_03.085_band_oversight.md#auditability-a) · [C](../subcore_03.085_band_oversight.md#auditability-c)
+- [Transparency](../subcore_03.085_band_oversight.md#transparency) · [O](../subcore_03.085_band_oversight.md#transparency) · [M](../subcore_03.085_band_oversight.md#transparency-a) · [A](../subcore_03.085_band_oversight.md#transparency-a) · [C](../subcore_03.085_band_oversight.md#transparency-c)
+- [Governance](../subcore_03.070_band_accountability.md#governance) · [O](../subcore_03.070_band_accountability.md#governance) · [M](../subcore_03.070_band_accountability.md#governance-a) · [A](../subcore_03.070_band_accountability.md#governance-a) · [C](../subcore_03.070_band_accountability.md#governance-c)
+- [Oversight](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../subcore_03.085_band_oversight.md#material) · [O](../subcore_03.085_band_oversight.md#material) · [M](../subcore_03.085_band_oversight.md#material-a) · [A](../subcore_03.085_band_oversight.md#material-a) · [C](../subcore_03.085_band_oversight.md#material-c)
+- [System](../subcore_03.075_band_continuity.md#system) · [O](../subcore_03.075_band_continuity.md#system) · [M](../subcore_03.075_band_continuity.md#system-definition-a) · [A](../subcore_03.075_band_continuity.md#system-definition-a) · [C](../subcore_03.075_band_continuity.md#system-definition-c)
 
 </details>
 
@@ -204,7 +204,7 @@ No permanent secrecy and anti-normalization discipline
 - Read with: **[Chapter Two §13.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5)**
 - Read with: [CF-22.450](../corpus_forum/cf_22.450_forum_continuity.md#cf-22450-forum-continuity) (*Forum continuity*) through [CF-22.460](../corpus_forum/cf_22.460_emergency_adjudication.md#cf-22460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
 - Read with: Constitutional hooks in **Articles X, XIV, and XV**
-- Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*) governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.
 - Chapter Two basis: §15.1, §18.1, §18, §19.1, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -213,13 +213,13 @@ No permanent secrecy and anti-normalization discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Cascading Failure](../core_03.040_band_continuity.md#cascading-failure) · [O](../core_03.040_band_continuity.md#cascading-failure) · [M](../core_03.040_band_continuity.md#cascading-failure-a) · [A](../core_03.040_band_continuity.md#cascading-failure-a) · [C](../core_03.040_band_continuity.md#cascading-failure-c)
-- [Accountability](../core_03.005_apex_accountability_leg.md#accountability) · [O](../core_03.005_apex_accountability_leg.md#accountability) · [M](../core_03.005_apex_accountability_leg.md#accountability-m) · [A](../core_03.005_apex_accountability_leg.md#accountability-a) · [C](../core_03.005_apex_accountability_leg.md#accountability-c)
-- [Reversibility](../core_03.040_band_continuity.md#reversibility) · [O](../core_03.040_band_continuity.md#reversibility) · [M](../core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](../core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](../core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Auditability](../core_03.050_band_oversight.md#auditability) · [O](../core_03.050_band_oversight.md#auditability) · [M](../core_03.050_band_oversight.md#auditability-a) · [A](../core_03.050_band_oversight.md#auditability-a) · [C](../core_03.050_band_oversight.md#auditability-c)
-- [Transparency](../core_03.050_band_oversight.md#transparency) · [O](../core_03.050_band_oversight.md#transparency) · [M](../core_03.050_band_oversight.md#transparency-a) · [A](../core_03.050_band_oversight.md#transparency-a) · [C](../core_03.050_band_oversight.md#transparency-c)
-- [Info-Sphere](../core_03.055_band_participation.md#info-sphere) · [O](../core_03.055_band_participation.md#info-sphere) · [M](../core_03.055_band_participation.md#info-sphere-a) · [A](../core_03.055_band_participation.md#info-sphere-a) · [C](../core_03.055_band_participation.md#info-sphere-c)
-- [Dependency](../core_03.040_band_continuity.md#dependency) · [O](../core_03.040_band_continuity.md#dependency) · [M](../core_03.040_band_continuity.md#dependency-a) · [A](../core_03.040_band_continuity.md#dependency-a) · [C](../core_03.040_band_continuity.md#dependency-c)
+- [Cascading Failure](../subcore_03.075_band_continuity.md#cascading-failure) · [O](../subcore_03.075_band_continuity.md#cascading-failure) · [M](../subcore_03.075_band_continuity.md#cascading-failure-a) · [A](../subcore_03.075_band_continuity.md#cascading-failure-a) · [C](../subcore_03.075_band_continuity.md#cascading-failure-c)
+- [Accountability](../subcore_03.040_apex_accountability_leg.md#accountability) · [O](../subcore_03.040_apex_accountability_leg.md#accountability) · [M](../subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](../subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](../subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Reversibility](../subcore_03.075_band_continuity.md#reversibility) · [O](../subcore_03.075_band_continuity.md#reversibility) · [M](../subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](../subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](../subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Auditability](../subcore_03.085_band_oversight.md#auditability) · [O](../subcore_03.085_band_oversight.md#auditability) · [M](../subcore_03.085_band_oversight.md#auditability-a) · [A](../subcore_03.085_band_oversight.md#auditability-a) · [C](../subcore_03.085_band_oversight.md#auditability-c)
+- [Transparency](../subcore_03.085_band_oversight.md#transparency) · [O](../subcore_03.085_band_oversight.md#transparency) · [M](../subcore_03.085_band_oversight.md#transparency-a) · [A](../subcore_03.085_band_oversight.md#transparency-a) · [C](../subcore_03.085_band_oversight.md#transparency-c)
+- [Info-Sphere](../subcore_03.090_band_participation.md#info-sphere) · [O](../subcore_03.090_band_participation.md#info-sphere) · [M](../subcore_03.090_band_participation.md#info-sphere-a) · [A](../subcore_03.090_band_participation.md#info-sphere-a) · [C](../subcore_03.090_band_participation.md#info-sphere-c)
+- [Dependency](../subcore_03.075_band_continuity.md#dependency) · [O](../subcore_03.075_band_continuity.md#dependency) · [M](../subcore_03.075_band_continuity.md#dependency-a) · [A](../subcore_03.075_band_continuity.md#dependency-a) · [C](../subcore_03.075_band_continuity.md#dependency-c)
 
 </details>
 
@@ -401,7 +401,7 @@ Trigger scope and timeliness applicability
 
 ---
 
-*Corpus alignment:* edition and custody follow [Chapter Three *Corpus*](../subcore_03.045_band_integrative.md#corpus).
+*Corpus alignment:* edition and custody follow [Chapter Three *Corpus*](../subcore_03.080_band_integrative.md#corpus).
 
 ---
 
