@@ -18,19 +18,13 @@ Subcore 4-A is the constitutional owner of **data types**: how data is typed, th
 
 ---
 
-**Introductory provisions:**
-
-*In plain terms: tell the truth in public where you can, but keep safeguards that protect sentients, privacy, trust, and system integrity — and make those safeguards stronger when impact is higher.*
-
-Systems must preserve the practical ability to publish truthful information while maintaining safeguards for harm prevention, privacy, trust, and system integrity.
-
-Requirements and limitations scale proportionally with system classification and potential impact. They must impose proportionate safeguards on publication within their boundaries where necessary to preserve trust, safety, and constitutional compliance.
-
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: Chapter Four Rights Floors need trustworthy data handling. This Subcore sets rules for typing, access, integrity, identity self-ownership, and Class A/B/C continuity.*
+*In plain terms: Chapter Four Rights Floors need trustworthy data handling. This Subcore sets rules for typing, access, integrity, identity self-ownership, and Class A/B/C continuity. Systems must stay able to publish the truth, with safeguards that grow stronger as impact grows.*
 
-**Sentient Constitution Chapter Four** (Articles **I**–**XXIX**, presented in **Chapter Four Parts A–E**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XVI**, **XVII**, and **XXIV**). this Subcore implement those duties in the systems layer.
+**Sentient Constitution Chapter Four** (Articles **I**–**XXIX**, presented in **Chapter Four Parts A–E**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XVI**, **XVII**, and **XXIV**). This Subcore implements those duties in the systems layer.
+
+**Truthful publication:** Systems must preserve the practical ability to publish truthful information while maintaining safeguards for harm prevention, privacy, trust, and system integrity. Within its boundaries, a system must impose proportionate safeguards on publication where necessary to preserve trust, safety, and constitutional compliance, scaled to its class and potential impact.
 
 <a id="privacy-owner-link"></a>
 **Privacy:** This Subcore is also the systems-layer rulebook for the [**Def.C3** (*Privacy (Informational)* — peer-level cluster head)](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) privacy cluster:
