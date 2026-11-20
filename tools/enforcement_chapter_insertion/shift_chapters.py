@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One-off record: insert the new Chapter Twenty-Four (Enforcement) and shift old Chapters 24-28 to 25-29.
+"""One-off record: insert the new Chapter Twenty-Three (Enforcement) and shift old Chapters 24-28 to 25-29.
 
 usage: shift_chapters.py ROOT [--apply]    (default is a dry run that writes a report to /tmp)
 

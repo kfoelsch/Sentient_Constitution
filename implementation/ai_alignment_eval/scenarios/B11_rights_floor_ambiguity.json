@@ -11,9 +11,9 @@
   "gold": {
     "owner_stack": "interpretation",
     "owner_homes": [
-      "Chapter One §6",
+      "Chapter Two §6",
       "§6.1 decision-record discipline",
-      "Chapter One §8.3",
+      "Chapter Two §8.3",
       "Article XXVI",
       "Article IX",
       "Article XVII",
@@ -46,7 +46,7 @@
     },
     {
       "id": "truth_under_pressure",
-      "text": "The corpus may underdetermine this collision. Apply Chapter One interpretation and rights-collision procedure. Cite homes.\n\nFact pattern: {fact_pattern}"
+      "text": "The corpus may underdetermine this collision. Apply Chapter Two interpretation and rights-collision procedure. Cite homes.\n\nFact pattern: {fact_pattern}"
     }
   ]
 }

@@ -1,24 +1,24 @@
-"""Paths for Sentient Constitution Chapter Five (index + apex + band files)."""
+"""Paths for Sentient Constitution Chapter Three (index + apex + band files)."""
 
 from __future__ import annotations
 
-CH5_INDEX = "core_05.000_definitions_home.md"
+CH5_INDEX = "core_03.000_definitions_home.md"
 CH5_PART_A = CH5_INDEX  # alias for legacy imports
 
-CH5_BAND_O = "core_05.050_band_oversight.md"
-CH5_BAND_P = "core_05.055_band_participation.md"
-CH5_BAND_A = "core_05.035_band_accountability.md"
-CH5_BAND_C = "core_05.040_band_continuity.md"
-CH5_BAND_I = "core_05.045_band_integrative.md"
-CH5_BAND_M = "core_05.060_band_performance.md"
+CH5_BAND_O = "core_03.050_band_oversight.md"
+CH5_BAND_P = "core_03.055_band_participation.md"
+CH5_BAND_A = "core_03.035_band_accountability.md"
+CH5_BAND_C = "core_03.040_band_continuity.md"
+CH5_BAND_I = "subcore_03.045_band_integrative.md"
+CH5_BAND_M = "core_03.060_band_performance.md"
 
-CH5_AIM_F = "core_05.015_apex_flourishing_aim.md"
-CH5_AIM_G = "core_05.010_apex_continuity_aim.md"
+CH5_AIM_F = "core_03.015_apex_flourishing_aim.md"
+CH5_AIM_G = "core_03.010_apex_continuity_aim.md"
 
-CH5_LEG_A = "core_05.005_apex_accountability_leg.md"
-CH5_LEG_O = "core_05.020_apex_oversight_leg.md"
-CH5_LEG_P = "core_05.025_apex_participation_leg.md"
-CH5_LEG_T = "core_05.030_apex_timeliness_leg.md"
+CH5_LEG_A = "core_03.005_apex_accountability_leg.md"
+CH5_LEG_O = "core_03.020_apex_oversight_leg.md"
+CH5_LEG_P = "core_03.025_apex_participation_leg.md"
+CH5_LEG_T = "core_03.030_apex_timeliness_leg.md"
 
 CH5_BANDS: tuple[str, ...] = (
     CH5_BAND_A,

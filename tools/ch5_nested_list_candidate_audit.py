@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """Advisory ranking of packed list items for nested-bullet rewrites.
 
-Chapter Five: In-scope / assessment / failure bullets (and unlabeled
-assessment continuation lines). Chapter Six: labeled operative run-ins
+Chapter Three: In-scope / assessment / failure bullets (and unlabeled
+assessment continuation lines). Chapter Four: labeled operative run-ins
 (``**Label:**`` / ``**Label** —``) and packed covers/includes lists.
-Chapter Seven: cross-process functional-independence and seat rules.
-Chapter Eight: labeled walkthrough and record bullets (same packing
-signals as Chapter Six). Chapter Nine: labeled record, custody, and
-measurement bullets (same packing signals as Chapters Six and Eight).
-Chapter Eleven: labeled integration, lock, remedy, and routing bullets
-(same packing signals as Chapters Six through Nine). Chapter Thirteen:
+Chapter Five: cross-process functional-independence and seat rules.
+Chapter Six: labeled walkthrough and record bullets (same packing
+signals as Chapter Four). Chapter Eight: labeled record, custody, and
+measurement bullets (same packing signals as Chapters Four and Six).
+Chapter Ten: labeled integration, lock, remedy, and routing bullets
+(same packing signals as Chapters Four through Eight). Chapter Twelve:
 labeled designation, safeguard, and named-pattern bullets (same packing
-signals as Chapters Six through Eleven). Chapter Fourteen: labeled routing,
+signals as Chapters Four through Ten). Chapter Thirteen: labeled routing,
 forum-family, escalation, and support bullets (same packing signals as
-Chapters Six through Thirteen). Chapter Fifteen: labeled legitimacy,
+Chapters Four through Twelve). Chapter Fourteen: labeled legitimacy,
 stewardship, collective-choice, and role bullets (same packing signals as
-Chapters Six through Fourteen). Chapter Sixteen: labeled non-regression,
+Chapters Four through Thirteen). Chapter Fifteen: labeled non-regression,
 amendment-validity, anti-evasion, and layer-scope bullets (same packing
-signals as Chapters Six through Fifteen). The Preamble and Chapters One
+signals as Chapters Four through Fourteen). The Preamble and Chapters One
 through Four, Eighteen, Nineteen, and Twenty use the same conservative
 packing signals over their numbered source files.
 
@@ -55,7 +55,7 @@ Run:
     make ch19-nested-list-candidates
     make ch20-nested-list-candidates
     python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 20
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05.035_band_accountability.md
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_03.035_band_accountability.md
 """
 
 from __future__ import annotations
@@ -76,72 +76,72 @@ from ch5_paths import CH5_APEX, CH5_DEFS  # noqa: E402
 CH0_PARTS: tuple[str, ...] = ("core_00.000_preamble.md",)
 
 CH1_PARTS: tuple[str, ...] = (
-    "core_01.000_values_principles.md",
-    "core_01.010_values_principles_continuity_aim.md",
-    "core_01.020_interaction_interpretation.md",
-    "core_01.030_constitutional_interpretation.md",
-    "core_01.040_stewardship_capacity_principles.md",
-    "core_01.050_governance_incentive_application.md",
+    "core_02.000_values_principles.md",
+    "core_02.010_values_principles_continuity_aim.md",
+    "core_02.020_interaction_interpretation.md",
+    "core_02.030_constitutional_interpretation.md",
+    "core_02.040_stewardship_capacity_principles.md",
+    "core_02.050_governance_incentive_application.md",
 )
 
-CH2_PARTS: tuple[str, ...] = ("core_02.000_definition_structure.md",)
+CH2_PARTS: tuple[str, ...] = ("subcore_03.010_definition_structure.md",)
 
-CH3_PARTS: tuple[str, ...] = ("core_03.000_definition_integrity.md",)
+CH3_PARTS: tuple[str, ...] = ("subcore_03.020_definition_integrity.md",)
 
-CH4_PARTS: tuple[str, ...] = ("core_04.000_burden_traceability_verification.md",)
+CH4_PARTS: tuple[str, ...] = ("subcore_03.030_burden_traceability_verification.md",)
 
 CH6_RIGHTS: tuple[str, ...] = (
-    "core_06.000_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.020_rights_part_c.md",
-    "core_06.030_rights_part_d.md",
-    "core_06.040_rights_part_e.md",
+    "core_04.000_rights_part_a.md",
+    "core_04.010_rights_part_b.md",
+    "core_04.020_rights_part_c.md",
+    "core_04.030_rights_part_d.md",
+    "core_04.040_rights_part_e.md",
 )
 
-CH7_PARTS: tuple[str, ...] = ("core_07.000_charters.md",)
+CH7_PARTS: tuple[str, ...] = ("core_05.000_charters.md",)
 
 CH8_PARTS: tuple[str, ...] = (
-    "core_08.000_functional_independence_separation_of_duties.md",
+    "core_06.000_functional_independence_separation_of_duties.md",
 )
 
 CH9_PARTS: tuple[str, ...] = (
-    "core_09.000_system_alignment_certification_evaluation.md",
-    "core_10.000_system_alignment_certification_forum_process_outcomes.md",
-    "core_11.000_system_alignment_certification_records_recertification.md",
+    "core_08.000_system_alignment_certification_evaluation.md",
+    "core_09.000_system_alignment_certification_forum_process_outcomes.md",
+    "core_10.000_system_alignment_certification_records_recertification.md",
 )
 
-CH10_PARTS: tuple[str, ...] = ("core_12.000_institutional_alignment_certification_evaluation.md",)
+CH10_PARTS: tuple[str, ...] = ("core_11.000_institutional_alignment_certification_evaluation.md",)
 
-CH11_PARTS: tuple[str, ...] = ("core_15.000_standing_assessment.md",)
+CH11_PARTS: tuple[str, ...] = ("core_14.000_standing_assessment.md",)
 
-CH12_PARTS: tuple[str, ...] = ("core_16.000_standing_measurement.md",)
+CH12_PARTS: tuple[str, ...] = ("core_15.000_standing_measurement.md",)
 
 CH13_PARTS: tuple[str, ...] = (
-    "core_17.000_standing_integration.md",
-    "core_18.000_contribution_consequences.md",
-    "core_19.000_violation_consequences.md",
-    "core_20.000_final_effect_restoration_enforcement.md",
+    "core_16.000_standing_integration.md",
+    "core_17.000_contribution_consequences.md",
+    "core_18.000_violation_consequences.md",
+    "core_19.000_final_effect_restoration_enforcement.md",
 )
 
 CH14_PARTS: tuple[str, ...] = (
-    "core_21.000_misconduct_designation.md",
-    "core_22.000_misconduct_pattern_applications.md",
+    "core_20.000_misconduct_designation.md",
+    "core_21.000_misconduct_pattern_applications.md",
 )
 
 CH15_PARTS: tuple[str, ...] = (
-    "core_23.000_forum.md",
-    "core_24.000_forum_families_escalation_timeliness_support.md",
+    "core_22.000_forum.md",
+    "core_23.000_forum_families_escalation_timeliness_support.md",
 )
 
-CH16_PARTS: tuple[str, ...] = ("core_27.000_governance.md",)
+CH16_PARTS: tuple[str, ...] = ("core_26.000_governance.md",)
 
-CH17_PARTS: tuple[str, ...] = ("core_28.000_non_regression.md",)
+CH17_PARTS: tuple[str, ...] = ("core_27.000_non_regression.md",)
 
-CH18_PARTS: tuple[str, ...] = ("core_30.000_expansion_supremacy.md",)
+CH18_PARTS: tuple[str, ...] = ("core_29.000_expansion_supremacy.md",)
 
-CH19_PARTS: tuple[str, ...] = ("core_29.000_amendment_ratification.md",)
+CH19_PARTS: tuple[str, ...] = ("core_28.000_amendment_ratification.md",)
 
-CH20_PARTS: tuple[str, ...] = ("core_31.000_incorporation.md",)
+CH20_PARTS: tuple[str, ...] = ("core_30.000_incorporation.md",)
 
 SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(21))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(
@@ -214,7 +214,7 @@ INCLUDING_LIST_RE = re.compile(
 )
 
 POINTER_RE = re.compile(
-    r"^(?:Chapter Five pointer|canonical (?:owner|concept|mechanics)|"
+    r"^(?:Chapter Three pointer|canonical (?:owner|concept|mechanics)|"
     r"Axis mechanics:|operational requirements:)",
     re.IGNORECASE,
 )
@@ -299,7 +299,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--apex",
         action="store_true",
-        help="Also scan Chapter Five aim and Tetrad-leg apex files (chapter 5 only).",
+        help="Also scan Chapter Three aim and Tetrad-leg apex files (chapter 5 only).",
     )
     parser.add_argument(
         "--min-score",

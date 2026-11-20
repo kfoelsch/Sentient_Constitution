@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""One-off record: Chapter Twenty-Three Part B becomes Chapter Twenty-Four (sections 6-9 become 2-5, new section 1).
+"""One-off record: Chapter Twenty-Two Part B becomes Chapter Twenty-Three (sections 6-9 become 2-5, new section 1).
 
 usage: promote_ch23_part_b.py ROOT [--apply]
-Rewrites file name, link fragments into the file, and "Chapter Twenty-Three §6-9" cites outside the skipped trees.
+Rewrites file name, link fragments into the file, and "Chapter Twenty-Two §6-9" cites outside the skipped trees.
 """
 import os,re,sys
 ROOT=os.path.abspath(sys.argv[1]); APPLY='--apply' in sys.argv; os.chdir(ROOT)
@@ -18,10 +18,10 @@ AMAP={
  '8-timely-resolution-materiality-tiers-and-anti-delay-discipline':'4-timely-resolution-materiality-tiers-and-anti-delay-discipline',
  '81-emergency-measures-and-continuation-burden':'41-emergency-measures-and-continuation-burden',
  '9-forum-support-before-during-and-after-review--oversight-architecture':'5-forum-support-before-during-and-after-review--oversight-architecture',
- 'chapter-twenty-three-part-b-forum-families-escalation-timely-resolution-and-support':'chapter-twenty-four-forum-families-escalation-timely-resolution-and-support',
+ 'chapter-twenty-two-part-b-forum-families-escalation-timely-resolution-and-support':'chapter-twenty-three-forum-families-escalation-timely-resolution-and-support',
 }
-PARTA_OLD='chapter-twenty-three-part-a-standards-routing-and-forum-cases'
-PARTA_NEW='chapter-twenty-three-standards-routing-and-forum-cases'
+PARTA_OLD='chapter-twenty-two-part-a-standards-routing-and-forum-cases'
+PARTA_NEW='chapter-twenty-two-standards-routing-and-forum-cases'
 SKIP_DIRS={'.git','_pages_site','archive','evidence','translations','results','node_modules','__pycache__','_local_backup','_to_delete','translation_drafts','final_chapter_structure_migration','one_off','enforcement_chapter_insertion','special_enforcement_chapter_insertion'}
 SKIP_PATHS=('ai_corpus/indexes','doc_architecture/generated')
 EXTS={'.md','.json','.py','.txt','.yml','.yaml','.sh','.html','.js','.toml','.csv'}

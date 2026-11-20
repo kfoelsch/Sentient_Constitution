@@ -3,23 +3,23 @@
 
 Rule ID: PART-CITE-CHAPTER-01
 
-Chapters One, Six, Nine and Fourteen are split into lettered Parts, and the
+Chapters Two, Four, Eight and Thirteen are split into lettered Parts, and the
 letters repeat from chapter to chapter. ``Part B §7.2`` names no section until
-the reader knows the chapter. Inside Chapter Nine that is fine, because the
-reader is already there. Anywhere else (Chapter Ten, another chapter, an
+the reader knows the chapter. Inside Chapter Eight that is fine, because the
+reader is already there. Anywhere else (Chapter Nine, another chapter, an
 adopted-implementation file, a front door) the citation must carry the chapter:
 
-    [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_…#72-…)
+    [Chapter Eight Part B §7.2 Certification Defects and Correction](core_08.005_…#72-…)
 
-The adopted-implementation families keep their own Parts (``CS-6.305`` is Part A and
-``CS-6.310`` is Part B of CS chapter 6). Their qualifier is the document ID:
-``CS-6.310 Part B §9.3 Type O``.
+The adopted-implementation families keep their own Parts (``CS-4.305`` is Part A and
+``CS-4.310`` is Part B of CS chapter 6). Their qualifier is the document ID:
+``CS-4.310 Part B §9.3 Type O``.
 
 What it checks, for every ``Part A``–``Part F`` followed by ``§N``:
 
 * **Linked citation.** The link target names the owning file, and that file gives
   the chapter and the Part letter (``tools/architecture/chapter_numbers.json`` plus the
-  file's ``# CHAPTER …, PART X`` / ``# CS-6.305, Part A`` heading or ``_part_x`` file
+  file's ``# CHAPTER …, PART X`` / ``# CS-4.305, Part A`` heading or ``_part_x`` file
   name). If the target is in another chapter than the citing file, the text must carry
   the qualifier (``missing-chapter``). A qualifier that names another chapter than the
   target is ``wrong-chapter``. A Part letter that disagrees with the target file is
@@ -30,11 +30,11 @@ What it checks, for every ``Part A``–``Part F`` followed by ``§N``:
   file has no such Part itself and only one chapter has that Part and section. One that no
   Part heading explains, or that two chapters explain equally well, is ``unresolved``.
 
-Accepted qualifiers, directly before ``Part``: ``Chapter Nine`` (or ``Chapter 9``),
-``Ch9``, and a family document ID such as ``CS-6.310``, with an optional comma, ``'s``,
-``**`` or ``[`` between: ``Chapter Nine Part B``, ``Chapter One, Part A``,
-``Chapter Nine's Part B``, ``Chapter Nine [Part B §7](…)``, ``**Chapter Nine** Part B``,
-``CS-6.305 Part A``.
+Accepted qualifiers, directly before ``Part``: ``Chapter Eight`` (or ``Chapter 8``),
+``Ch9``, and a family document ID such as ``CS-4.310``, with an optional comma, ``'s``,
+``**`` or ``[`` between: ``Chapter Eight Part B``, ``Chapter Two, Part A``,
+``Chapter Eight's Part B``, ``Chapter Eight [Part B §7](…)``, ``**Chapter Eight** Part B``,
+``CS-4.305 Part A``.
 
 ``--write`` inserts the qualifier in front of each ``missing-chapter`` citation, inside
 the link text (the corpus house style). It never touches ``wrong-chapter``,
@@ -43,25 +43,25 @@ a read-only inventory of what is not scanned by default (project drafts, transla
 archive, evidence, generated pages); it cannot be combined with ``--write``.
 
 Bare Part mentions (no ``§``) are held to the same rule, because a sentence such as "the Part A
-evaluations that Part B lists" is just as ambiguous in Chapter Ten as ``Part B §7.2`` is. ``Part A``,
+evaluations that Part B lists" is just as ambiguous in Chapter Nine as ``Part B §7.2`` is. ``Part A``,
 ``Parts A–B``, ``Part A and B`` and ``Part A or Part B`` are each one mention:
 
 * **unqualified-part.** No qualifier, no link that names the file, and the citing file's own chapter
-  has no such Part (Chapter Ten, Chapter Five, a front door). Reported with the chapters the same
+  has no such Part (Chapter Nine, Chapter Three, a front door). Reported with the chapters the same
   line names, as a hint; never repaired, because the writer must say which chapter is meant.
-* **ambiguous-part.** A family document that is not itself a lettered Part (``CS-9.320``) uses a bare
+* **ambiguous-part.** A family document that is not itself a lettered Part (``CS-8.320``) uses a bare
   Part letter that both its own family chapter and the core chapter of the same number have.
-* **unknown-part.** A qualifier names a chapter or document that has no such Part (``Chapter Ten
+* **unknown-part.** A qualifier names a chapter or document that has no such Part (``Chapter Nine
   Part B``).
-* A bare mention that is linked (``[Part A](core_05.000_…)``) or sits right next to a link to a
-  lettered Part file (``[core_01.000_…](core_01.000_….md) (Part A)``) is checked against that file:
+* A bare mention that is linked (``[Part A](core_03.000_…)``) or sits right next to a link to a
+  lettered Part file (``[core_02.000_…](core_02.000_….md) (Part A)``) is checked against that file:
   ``part-mismatch`` for a wrong letter, ``wrong-chapter`` for a wrong qualifier, ``missing-chapter``
   for a link into another chapter with no qualifier (fixed by ``--write``).
 * **link-chapter-mismatch.** Link text that names ``Chapter N`` while the link goes to a core file of
-  another chapter (``[Chapter One §15.24](core_05.050_…)``). Never repaired.
+  another chapter (``[Chapter Two §15.24](core_03.050_…)``). Never repaired.
 
 A later citation in a run inherits the chapter of the one before it when only a connector
-separates them (``Chapter Nine Part A §3 and Part B §5``, ``Chapter One Part A §2, Part B §4``).
+separates them (``Chapter Eight Part A §3 and Part B §5``, ``Chapter Two Part A §2, Part B §4``).
 Each *linked* citation stands alone and carries its own qualifier.
 
 Out of scope by design: fenced code, inline code, headings, ``doc_architecture.md`` (its
@@ -157,7 +157,7 @@ DATED_ROW_RE = re.compile(r"^\s*\|\s*\d{4}-\d{2}-\d{2}\s*\|")
 CONNECTOR_RE = re.compile(r"(?:,|\band\b|\bor\b|\bthrough\b|\bto\b|\bplus\b|&|/|·|[–—-])\s*(?:the\s+)?$", re.I)
 MAX_CONNECTOR_GAP = 60
 
-Key = tuple[str, int]  # (layer, chapter): ("CORE", 9) is Chapter Nine; ("CS", 6) is CS chapter 6
+Key = tuple[str, int]  # (layer, chapter): ("CORE", 9) is Chapter Eight; ("CS", 6) is CS chapter 6
 
 
 @dataclass(frozen=True)
@@ -166,7 +166,7 @@ class FileInfo:
     chapter: int
     letter: str | None  # None: this file is not a lettered Part
     rel: str
-    doc_id: str | None  # "CS-6.305" for a family file, None for core
+    doc_id: str | None  # "CS-4.305" for a family file, None for core
 
     @property
     def key(self) -> Key:
@@ -189,7 +189,7 @@ class Context:
     files: dict[str, FileInfo] = field(default_factory=dict)  # basename -> info
     sections: dict[tuple[str, str], list[Section]] = field(default_factory=dict)
     lettered: set[tuple[Key, str]] = field(default_factory=set)  # (chapter key, letter) pairs that exist
-    docs: dict[str, FileInfo] = field(default_factory=dict)  # "CS-6.310" -> that document
+    docs: dict[str, FileInfo] = field(default_factory=dict)  # "CS-4.310" -> that document
 
 
 @dataclass(frozen=True)
@@ -220,7 +220,7 @@ def part_letter(path: Path, rel: str) -> str | None:
     match = FILE_PART_RE.search(rel)
     if match:
         return match.group(1).upper()
-    if path.is_file():  # "It contains **Chapter Five, Part A**": the file's own placement note names its Part
+    if path.is_file():  # "It contains **Chapter Three, Part A**": the file's own placement note names its Part
         stated = CONTAINS_PART_RE.search(path.read_text(encoding="utf-8"))
         if stated:
             return stated.group(1).upper()
@@ -304,7 +304,7 @@ def qualifier_key(before: str) -> Key | None:
 
 
 def qualifier_docs(before: str) -> list[str]:
-    """Family document IDs directly before ``Part`` (``CS-6.310``), including ``CS-6.305 and CS-6.310, Part A``."""
+    """Family document IDs directly before ``Part`` (``CS-4.310``), including ``CS-4.305 and CS-4.310, Part A``."""
     match = DOC_CHAIN_RE.search(before)
     if not match:
         return []
@@ -341,7 +341,7 @@ def known_target(link: re.Match[str] | None, own: FileInfo | None, ctx: Context)
 
 
 def adjacent_part_target(line: str, links: list[re.Match[str]], start: int, end: int, own: FileInfo | None, ctx: Context) -> FileInfo | None:
-    """A lettered Part file linked right beside an unlinked mention: ``[core_01.000_….md](…) (Part A)``."""
+    """A lettered Part file linked right beside an unlinked mention: ``[core_02.000_….md](…) (Part A)``."""
     for link in links:
         if link.end() <= start and re.fullmatch(r"[\s(\[,—–-]{0,4}", line[link.end():start]):
             pass
@@ -535,7 +535,7 @@ def judge_bare(
     named = sorted({describe(k) for k in line_chapters(line, ctx) if all((k, l) in ctx.lettered for l in letters)})
     hint = f" (this line also cites {', '.join(named)})" if named else ""
     where = describe(own_key) if own_key is not None else "this file"
-    example = named[0] if named else "Chapter Nine"
+    example = named[0] if named else "Chapter Eight"
     return report(
         "unqualified-part",
         f"names no chapter, and {where} has no {shown}; write the chapter before it ('{example} {shown}'){hint}",
@@ -607,7 +607,7 @@ def judge(
             return missing(target, f"link target {target.rel}")
         return None, target.key
 
-    if carry is not None and qualifier is None:  # a connector run: "Chapter Nine Part A §3 and Part B §5"
+    if carry is not None and qualifier is None:  # a connector run: "Chapter Eight Part A §3 and Part B §5"
         return None, carry
     candidates = ctx.sections.get((letter, sec), [])
     if own_key is not None and any(c.file.key == own_key for c in candidates):

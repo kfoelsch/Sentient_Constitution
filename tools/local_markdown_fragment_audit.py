@@ -45,7 +45,7 @@ SOURCE_EXTRAS = ("project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md", *READER_ENTRY
 SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
-    # Maintained process-support pages that cite Chapter One by section and anchor.
+    # Maintained process-support pages that cite Chapter Two by section and anchor.
     # A renumbering once left 28 broken links here that no audit saw.
     "evaluation/**/*.md",
     "project/plans/**/*.md",

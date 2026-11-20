@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """TERM-SYSTEM-CLASS-01: say "system class", not a bare "class".
 
-Chapter Nine (and any other file passed with ``--files``) names the tier a
+Chapter Eight (and any other file passed with ``--files``) names the tier a
 system is sorted into its *system class*. A bare "class" is ambiguous for a
 reader who has not met the term, so prose and headings say "system class".
 
@@ -9,7 +9,7 @@ What the tool leaves alone:
 
 * named levels: ``Class A``, ``Class B``, ``Classes A, B, and C``, ``Class P``;
 * terms already qualified: ``system class``, ``system's class``, ``impact class``,
-  ``risk class``, ``institution class`` (Chapter Ten's term), and the generic ``class of ...``;
+  ``risk class``, ``institution class`` (Chapter Nine's term), and the generic ``class of ...``;
 * link targets, anchor ids, inline code, bare URLs, HTML tags, and fenced blocks.
 
 Casing follows the text: ``class`` -> ``system class``; ``Class`` at the start of a
@@ -42,7 +42,7 @@ from local_markdown_fragment_audit import github_slug
 from fossil_anchor_audit import live_text_files, resolve_link_file
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-DEFAULT_GLOB = "core_09*.md"  # Chapter Nine stack (was core_08*.md before the chapter renumbering)
+DEFAULT_GLOB = "core_09*.md"  # Chapter Eight stack (was core_08*.md before the chapter renumbering)
 
 CLASS_RE = re.compile(r"(?<![\w/-])([Cc]lass(?:es)?)(?!\w)")
 HEADING_RE = re.compile(r"^(#{1,6})(\s+)(.*?)\s*$")
@@ -57,7 +57,7 @@ LINK_RE = re.compile(r"\[(?P<text>[^\]]*)\]\((?P<target>[^)\s]+)(?P<rest>[^)]*)\
 ANCHOR_ID_RE = re.compile(r'(<a\s+id=")([^"]+)(")')
 
 # Words that already qualify "class": "system class", "impact class", "risk class",
-# and Chapter Ten's defined term "institution class" (heading "Institution Class Evaluation").
+# and Chapter Nine's defined term "institution class" (heading "Institution Class Evaluation").
 QUALIFIERS = {
     "system", "system's", "system’s", "systems'", "systems’", "impact", "risk",
     "institution", "institution's", "institution’s", "institutions'", "institutions’",
@@ -83,7 +83,7 @@ def chicago_title(title: str) -> str:
     The first and last word, and the first word after a colon or dash, are always
     capitalised. Each part of a hyphenated word is treated as a word of its own
     (``Data-Handling``, ``Non-Exhaustive``). Only the first letter changes, so
-    ``CS-9.310`` and ``Class A`` keep their shape.
+    ``CS-8.310`` and ``Class A`` keep their shape.
     """
     parts = re.split(r"(\s+)", title)
     word_idx = [i for i, p in enumerate(parts) if p.strip()]

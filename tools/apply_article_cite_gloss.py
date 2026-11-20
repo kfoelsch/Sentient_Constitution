@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add REF-ARTICLES-GLOSS parenthetical titles to bare Chapter Six article cites.
+"""Add REF-ARTICLES-GLOSS parenthetical titles to bare Chapter Four article cites.
 
 Default mode rewrites files. ``--check`` is the audit form: it reports bare
 cites without writing and exits 1 on any finding. ``--check --changed-only``
@@ -24,7 +24,7 @@ from corpus_paths import binding_corpus_scope
 from corpus_ref_name_audit import added_line_numbers
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-PART_FILES = sorted(ROOT.glob("core_06.???_rights_part_*.md"))
+PART_FILES = sorted(ROOT.glob("core_04.???_rights_part_*.md"))
 
 HEADING_RE = re.compile(
     r"^#{3,5} Article ([IVXLCDM]+(?:-[A-Z](?:\.\d+)?)?): (.+?)\s*$"
@@ -153,7 +153,7 @@ def gloss_line(line: str, titles: dict[str, str]) -> str:
     """Gloss bare Article cites in ``line``, skipping text inside ``(*...*)``.
 
     An existing gloss can legitimately mention an Article (for example the
-    CI-6.240 name ``... Article VII-E (...) interface``); rewriting inside it
+    CI-4.240 name ``... Article VII-E (...) interface``); rewriting inside it
     would corrupt the gloss, and a name inserted by another tool would be
     re-flagged here forever. Glosses are swapped for ``(*\x00N\x00*)``
     placeholders so a cite followed by a gloss still reads as glossed.

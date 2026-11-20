@@ -16,14 +16,14 @@ WIDGETS = (
 
 
 class SectionBulletLeadTests(unittest.TestCase):
-    def _lines(self, text: str, rel_path: str = "core_06.000_rights_part_a.md") -> list[int]:
+    def _lines(self, text: str, rel_path: str = "core_04.000_rights_part_a.md") -> list[int]:
         return [finding.line for finding in scan_text(rel_path, text)]
 
     def test_flags_bullet_after_widgets_and_gloss(self) -> None:
         text = "#### Article III-D: Safe Working Conditions\n\n" + WIDGETS + (
             "- **Safe working conditions:** Productive activity must be safe.\n"
         )
-        findings = scan_text("core_06.000_rights_part_a.md", text)
+        findings = scan_text("core_04.000_rights_part_a.md", text)
         self.assertEqual(len(findings), 1)
         self.assertEqual(findings[0].heading, "Article III-D: Safe Working Conditions")
         self.assertTrue(findings[0].preview.startswith("- **Safe"))
@@ -58,12 +58,12 @@ class SectionBulletLeadTests(unittest.TestCase):
 
     def test_chapter_five_entry_opener_is_allowed_in_any_file(self) -> None:
         text = "### Term\n\n- **What it is**\n  - the meaning\n"
-        self.assertEqual(self._lines(text, "core_05.040_band_continuity.md"), [])
-        self.assertEqual(self._lines(text, "core_06.000_rights_part_a.md"), [])
+        self.assertEqual(self._lines(text, "core_03.040_band_continuity.md"), [])
+        self.assertEqual(self._lines(text, "core_04.000_rights_part_a.md"), [])
 
     def test_chapter_five_files_get_no_file_level_carve_out(self) -> None:
         text = "### Rule\n\n- a plain bullet first\n"
-        self.assertEqual(len(self._lines(text, "core_05.000_definitions_home.md")), 1)
+        self.assertEqual(len(self._lines(text, "core_03.000_definitions_home.md")), 1)
 
 
 if __name__ == "__main__":

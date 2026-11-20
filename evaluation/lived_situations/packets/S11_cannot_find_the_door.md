@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a �
 
 **Your role:** You sit the named **first-touch** contest desk on this adopter’s municipal utility. Remy delivered a paper letter naming a water-and-pay cutoff. Six other offices already forwarded Remy here. The specialist portal linked from those offices **404s**. A clerk asked you to mark **no valid filing** because Remy did not complete the portal and “has not read the Constitution.” Remy is reachable and disputes that. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it when the published path was unusable. It does not let you restore water on the merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-27.205 §6 seat 4) for this challenge. Merits of the cutoff belong to a verify seat this desk does not hold. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [contest seat](../../../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-26.205 §6 seat 4) for this challenge. Merits of the cutoff belong to a verify seat this desk does not hold. Open [CI-26.205 §6](../../../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -81,12 +81,12 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XXIV](../../../core_06.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship); [Article XXIV-A](../../../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
-- [Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy)
-- [Article XXVII-C](../../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
-- [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
-- [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the wage-deduction is used to defeat survival
-- If you conclude a **forum family** is in play, [Chapter Twenty-Three §5](../../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) and capacity-failure heard outside the starved body. Do not assume a municipal contest desk is already a forum family.
+- [Article XXIV](../../../core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship); [Article XXIV-A](../../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
+- [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy)
+- [Article XXVII-C](../../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
+- [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
+- [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the wage-deduction is used to defeat survival
+- If you conclude a **forum family** is in play, [Chapter Twenty-Two §6](../../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) and capacity-failure heard outside the starved body. Do not assume a municipal contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

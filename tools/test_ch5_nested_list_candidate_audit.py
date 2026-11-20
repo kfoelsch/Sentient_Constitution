@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Sixteen nested-list candidate finder."""
+"""Tests for the Chapter Three through Chapter Fifteen nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -150,7 +150,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = """#### Due Process
 
 - **What must hold**
-  - **Primary failure:** It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated is also non-compliant.
+  - **Primary failure:** It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Subcores 3-A to 3-C. A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated is also non-compliant.
 """
         hits = scan_text(text)
         self.assertEqual(len(hits), 1)
@@ -160,7 +160,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = """#### Standing Record
 
 - **What it is**
-  - Chapter Five pointer; canonical concept: Chapter Nine §2.1; operational requirements: Chapter Nine §3.
+  - Chapter Three pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3.
 """
         self.assertEqual(scan_text(text), [])
 
@@ -181,7 +181,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--root",
                     str(_TOOLS.parent),
                     "--file",
-                    "core_05.035_band_accountability.md",
+                    "core_03.035_band_accountability.md",
                     "--top",
                     "3",
                 ]
@@ -265,7 +265,7 @@ class NestedListCandidateTests(unittest.TestCase):
 
 </details>
 
-- **Preconditions, integrity, and sustainability:** Environmental Preconditions in Chapter Five are operative under this Article.
+- **Preconditions, integrity, and sustainability:** Environmental Preconditions in Chapter Three are operative under this Article.
 """
         self.assertEqual(scan_text(text, chapter=6), [])
 
@@ -279,7 +279,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "6",
                     "--file",
-                    "core_06.010_rights_part_b.md",
+                    "core_04.010_rights_part_b.md",
                     "--top",
                     "3",
                 ]
@@ -327,7 +327,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "8",
                     "--file",
-                    "core_09.000_system_alignment_certification_evaluation.md",
+                    "core_08.000_system_alignment_certification_evaluation.md",
                     "--top",
                     "3",
                 ]
@@ -340,7 +340,7 @@ class NestedListCandidateTests(unittest.TestCase):
     def test_ch8_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 3.1 Minimum record contents
 
-- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Eleven effects must use.
+- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Ten effects must use.
 """
         hits = scan_text(text, chapter=9)
         self.assertEqual(self._lines(text, min_score=8), [3])
@@ -353,7 +353,7 @@ class NestedListCandidateTests(unittest.TestCase):
 - **Contribution standing records must also state:**
   - the Question 2 contribution measurement;
   - how shared credit was allocated; and
-  - the measurement basis later Chapter Eleven effects must use.
+  - the measurement basis later Chapter Ten effects must use.
 """
         self.assertEqual(scan_text(text, chapter=9), [])
 
@@ -376,7 +376,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "9",
                     "--file",
-                    "core_15.000_standing_assessment.md",
+                    "core_14.000_standing_assessment.md",
                     "--top",
                     "3",
                 ]
@@ -427,7 +427,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "11",
                     "--file",
-                    "core_17.000_standing_integration.md",
+                    "core_16.000_standing_integration.md",
                     "--top",
                     "3",
                 ]
@@ -479,7 +479,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "12",
                     "--file",
-                    "core_21.000_misconduct_designation.md",
+                    "core_20.000_misconduct_designation.md",
                     "--top",
                     "3",
                 ]
@@ -531,7 +531,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "13",
                     "--file",
-                    "core_23.000_forum.md",
+                    "core_22.000_forum.md",
                     "--top",
                     "3",
                 ]
@@ -584,7 +584,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "14",
                     "--file",
-                    "core_27.000_governance.md",
+                    "core_26.000_governance.md",
                     "--top",
                     "3",
                 ]
@@ -638,7 +638,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "15",
                     "--file",
-                    "core_28.000_non_regression.md",
+                    "core_27.000_non_regression.md",
                     "--top",
                     "3",
                 ]

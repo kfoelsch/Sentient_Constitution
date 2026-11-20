@@ -42,17 +42,17 @@ class RecordQualifiedTests(unittest.TestCase):
         self.assertEqual(phrases("The System Certification Record and the Institution's own rules apply to the record-keeping."), [])
 
     def test_ignores_link_targets_and_inline_code(self) -> None:
-        line = "See [the Institution](core_10.000_the_record_x.md) and `the record` in a System Certification Record."
+        line = "See [the Institution](core_09.000_the_record_x.md) and `the record` in a System Certification Record."
         self.assertEqual(phrases(line), [])
 
     def test_exempts_the_move_log(self) -> None:
         text = "The System Certification Record, the Institution, and the record."
         self.assertEqual(scan_text("doc_architecture.md", text), [])
-        self.assertEqual(len(scan_text("core_10.000_x.md", text)), 1)
+        self.assertEqual(len(scan_text("core_09.000_x.md", text)), 1)
 
     def test_skips_fences(self) -> None:
         text = "```\nThe System Certification Record, the Institution, and the record.\n```\n"
-        self.assertEqual(scan_text("core_10.000_x.md", text), [])
+        self.assertEqual(scan_text("core_09.000_x.md", text), [])
 
 
 if __name__ == "__main__":

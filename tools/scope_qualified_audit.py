@@ -24,15 +24,15 @@ Not matched, because the scope is named:
   "the scope it is supervised under", "the scope that was actually adopted";
 * compounds in which "scope" modifies the next noun: *scope document*, *scope cap*,
   *scope creep*;
-* the field labels of Chapter Five and the corpus operations files: **In scope:**, **Out of
+* the field labels of Chapter Three and the corpus operations files: **In scope:**, **Out of
   scope:**, **Admission scope:** (the word before "scope" is "in", "out of" or a kind), so
-  Chapter Five needs no exemption and a new bare use there still fails;
+  Chapter Three needs no exemption and a new bare use there still fails;
 * "Class A scope" (the A is a class letter), emphasis markers around the word
   ("the **scope** of restriction"), the verb ("to scope a review"), inline code, link targets, fenced code, and
   `doc_architecture.md` (its dated move log keeps the wording each move used).
 
 Fix: name the scope. Inside a chapter about one kind, say it each time the word stands
-alone, for example *the chartered scope* in Chapter Seven. Where a line really means "what
+alone, for example *the chartered scope* in Chapter Five. Where a line really means "what
 this thing covers", write "scope of <thing>" or name the thing ("the system, institution,
 or business the standing record concerns").
 

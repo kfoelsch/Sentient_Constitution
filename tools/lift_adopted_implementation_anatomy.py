@@ -15,7 +15,7 @@ heading text, not depth.
 
 Where a file has one top-level section, its per-section **Definitions
 (O · M · A · C)** widgets are merged into a single file-level widget
-holding the union of their rows, so no Chapter Five jump link is lost.
+holding the union of their rows, so no Chapter Three jump link is lost.
 """
 
 from __future__ import annotations
@@ -137,7 +137,7 @@ def placement_widget(layer: str, title: str, ident: str | None, phrase: str) -> 
         "",
         f"> This file is **binding incorporated implementation text** where "
         f"[`{meta['wrapper']}`](../{meta['wrapper']}) is incorporated under "
-        f"[Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the "
+        f"[Chapter Thirty](../core_30.000_incorporation.md). It must satisfy the "
         f"Sentient Constitution and does not override or narrow it. {holds}",
         ">",
         f"> Start at the [{meta['wrapper_label']}](../{meta['wrapper']}) for reading "

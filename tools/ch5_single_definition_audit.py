@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Audit Chapter Five single-definition and directory invariants.
+"""Audit Chapter Three single-definition and directory invariants.
 
 The rule enforced here is intentionally simple:
 
-- each visible Chapter Five definition label appears once;
+- each visible Chapter Three definition label appears once;
 - the non-operative directory has separate Definitions A-Z and Clusters A-Z
   lists, with no duplicate display labels;
 - placeholder-only O/E/C shells are forbidden;
@@ -279,10 +279,10 @@ def sorted_violations(rows: list[DirectoryRow]) -> list[str]:
 
 
 def chapter_five_member_target(href: str) -> str | None:
-    """Return the canonical Chapter Five target for a cluster-member href.
+    """Return the canonical Chapter Three target for a cluster-member href.
 
-    Cluster rosters may point to definitions in any Chapter Five part. A local
-    fragment in the dependent-clusters file is still a Chapter Five definition
+    Cluster rosters may point to definitions in any Chapter Three part. A local
+    fragment in the dependent-clusters file is still a Chapter Three definition
     target, so compare it as part C rather than comparing only display labels.
     """
     if href.startswith("#"):
@@ -357,7 +357,7 @@ def audit(root: Path) -> list[str]:
     for label, label_entries in sorted(by_label.items()):
         if len(label_entries) > 1:
             rendered = ", ".join(f"{e.file}:{e.line}" for e in label_entries)
-            violations.append(f"duplicate Chapter Five definition label '{label}': {rendered}")
+            violations.append(f"duplicate Chapter Three definition label '{label}': {rendered}")
 
     if directory_rows:
         directory_by_label: dict[str, list[DirectoryRow]] = defaultdict(list)
@@ -410,7 +410,7 @@ def audit(root: Path) -> list[str]:
         if len(members) > 1:
             rendered = ", ".join(f"line {m.line} ({m.owner})" for m in members)
             violations.append(
-                f"Chapter Five band file: cluster member '{label}' appears in more than one roster: {rendered}"
+                f"Chapter Three band file: cluster member '{label}' appears in more than one roster: {rendered}"
             )
 
     member_by_target: dict[str, list[ClusterMember]] = defaultdict(list)
@@ -423,7 +423,7 @@ def audit(root: Path) -> list[str]:
                 f"line {m.line} [{m.label}]({m.href}) in {m.owner}" for m in members
             )
             violations.append(
-                f"Chapter Five band file: definition target '{target}' appears as a member "
+                f"Chapter Three band file: definition target '{target}' appears as a member "
                 f"of more than one cluster: {rendered}"
             )
 
@@ -435,12 +435,12 @@ def main() -> int:
     root = Path(args.root).resolve()
     violations = audit(root)
     if violations:
-        print("FAIL: Chapter Five single-definition audit detected issues:", file=sys.stderr)
+        print("FAIL: Chapter Three single-definition audit detected issues:", file=sys.stderr)
         for violation in violations:
             print(violation, file=sys.stderr)
         return 1
     print(
-        "PASS: Chapter Five has one definition row per label, one directory row "
+        "PASS: Chapter Three has one definition row per label, one directory row "
         "per label, and one cluster-owner roster per term/definition target."
     )
     return 0

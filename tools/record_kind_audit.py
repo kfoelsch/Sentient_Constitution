@@ -6,7 +6,7 @@ Rule ID: RECORD-KIND-01
 The corpus keeps several kinds of record: the **standing record** (with its
 contribution, violation, operator and stakeholder forms), the **Forum Case Record**,
 the **System Certification Record** and **Institutional Certification Record**, and
-the named records of Chapters Five to Ten (classification, act, collision, incident,
+the named records of Chapters Three to Nine (classification, act, collision, incident,
 and so on). Written bare ("the record", "a record", "that record", "its own record")
 the word leaves the reader to work out which kind is meant, and a page that handles
 two kinds (a standing record that rests on a Forum Case Record, say) reads two ways.
@@ -17,7 +17,7 @@ when the word before it is a determiner or a modifier that does not say what kin
 record it is (a, the, this, that, its, own, same, one, single, new, official, verified,
 reviewable, ...).
 
-A qualified form is accepted: *official record* (Chapter Five's Record Integrity category), *standing record*, *contribution record*, *violation
+A qualified form is accepted: *official record* (Chapter Three's Record Integrity category), *standing record*, *contribution record*, *violation
 record*, *Forum Case Record*, *System Certification Record*, *classification record*,
 *incident record*, and any other word that names the kind.
 
@@ -29,7 +29,7 @@ following noun; the verb ("must record the reasons", "it records the determinati
 and `doc_architecture.md` (its dated move log keeps the wording each move used).
 
 Fix: name the kind. Inside a chapter that is about one kind, say it each time the
-word stands alone, for example *the standing record* throughout Chapter Eleven §5.
+word stands alone, for example *the standing record* throughout Chapter Ten §6.
 Where a line really means the general idea, use "a record of ..." and say what it
 records, or a plural with its kind ("standing records").
 

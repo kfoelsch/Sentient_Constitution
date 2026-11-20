@@ -22,8 +22,8 @@ class SectionCiteNameTests(unittest.TestCase):
 
     def test_flags_chapter_prefixed_number_only_link(self) -> None:
         self.assertEqual(
-            self._cites("[Chapter One §11.5](#115-contingent-claims)"),
-            ["Chapter One §11.5"],
+            self._cites("[Chapter Two §11.5](#115-contingent-claims)"),
+            ["Chapter Two §11.5"],
         )
 
     def test_accepts_title_in_link_text(self) -> None:
@@ -98,15 +98,15 @@ class SectionCiteNameTests(unittest.TestCase):
     def test_accepts_preamble_cite_with_title(self) -> None:
         self.assertEqual(
             self._cites(
-                "[Preamble §3.3 Governance Layers](core_00.000_preamble.md#33-governance-layers)"
+                "[Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers)"
             ),
             [],
         )
 
     def test_flags_bare_preamble_cite(self) -> None:
         self.assertEqual(
-            self._cites("See Preamble §3.3 for the two layers."),
-            ["Preamble §3.3"],
+            self._cites("See Preamble §3.2 for the two layers."),
+            ["Preamble §3.2"],
         )
 
     def test_skips_headings_html_and_blockquotes(self) -> None:
@@ -119,12 +119,12 @@ class SectionCiteNameTests(unittest.TestCase):
 
     def test_skips_adopted_implementation_family_section_tokens(self) -> None:
         self.assertEqual(
-            self._cites("The CS-27.305 §10 log is not itself a finding."),
+            self._cites("The CS-26.305 §10 log is not itself a finding."),
             [],
         )
         self.assertEqual(
             self._cites(
-                "the **CS-27.305 — Critical system stewardship** §10 inspectable-action set"
+                "the **CS-26.305 — Critical system stewardship** §10 inspectable-action set"
             ),
             [],
         )
@@ -132,8 +132,8 @@ class SectionCiteNameTests(unittest.TestCase):
     def test_accepts_italic_title_inside_link(self) -> None:
         self.assertEqual(
             self._cites(
-                "[Chapter Seven §2 *Four-Seat Constitutional Requirement*]"
-                "(core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)"
+                "[Chapter Five §3 *Four-Seat Constitutional Requirement*]"
+                "(core_06.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)"
             ),
             [],
         )
@@ -156,15 +156,15 @@ class SectionCiteNameTests(unittest.TestCase):
         findings = scan_line(
             "core_01_c.md",
             1,
-            "| **Dimension** | [Chapter Eleven §12](#12-scale); **§8.2** | note |",
+            "| **Dimension** | [Chapter Ten §13](#12-scale); **§8.2** | note |",
         )
-        self.assertEqual([f.cite for f in findings], ["Chapter Eleven §12", "§8.2"])
+        self.assertEqual([f.cite for f in findings], ["Chapter Ten §13", "§8.2"])
         self.assertTrue(all(f.table for f in findings))
 
     def test_accepts_named_cites_in_table_rows(self) -> None:
         self.assertEqual(
             self._cites(
-                "| **Dimension** | [Chapter Eleven §12 Unified proportional LEQU scale](#12-scale) | note |"
+                "| **Dimension** | [Chapter Ten §13 Unified proportional LEQU scale](#12-scale) | note |"
             ),
             [],
         )

@@ -31,15 +31,15 @@ labels: ["proposal"]
 
 ## What is NOT changing
 
-<!-- Owner home, Chapter Five definitions, boxed operative steward statements, edition label. -->
+<!-- Owner home, Chapter Three definitions, boxed operative steward statements, edition label. -->
 
 ## Owner routing
 
-<!-- Chapter One principle(s) and Chapter Five definition(s) this text answers to. Downstream files that cite the section. -->
+<!-- Chapter Two principle(s) and Chapter Three definition(s) this text answers to. Downstream files that cite the section. -->
 
 ## Lane D — Substantive Test 1 non-regression self-check
 
-<!-- Delete unless Lane D. Confirm the change does not weaken Chapter One constraints, Chapter Two–Four integrity, the Chapter Six Rights Floor, or Chapter Twenty-Seven legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_28.000_non_regression.md § Substantive Test 1). -->
+<!-- Delete unless Lane D. Confirm the change does not weaken Chapter Two constraints, Subcore 3-A to 3-C integrity, the Chapter Four Rights Floor, or Chapter Twenty-Six legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_27.000_non_regression.md § Substantive Test 1). -->
 
 ## Gates you expect to run
 

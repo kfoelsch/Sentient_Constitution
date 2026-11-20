@@ -14,13 +14,13 @@
 ## 2. Changed files and scope
 
 - List each `core_*.md` / `corpus_*.md` file touched with one-line substance summary.
-- Adoption-scope note: what remains in force for non-adopters vs adopters (Chapter Twenty-Eight framing).
+- Adoption-scope note: what remains in force for non-adopters vs adopters (Chapter Twenty-Seven framing).
 
 ## 3. Validity and non-regression checklist
 
-- [ ] Chapters Seventeen–Twenty-Three validity / non-regression checks satisfied for the change class
+- [ ] Chapters Sixteen–Twenty-Two validity / non-regression checks satisfied for the change class
 - [ ] No silent companion-file drift outside adoption chain
-- [ ] Chapter Twelve / Seven classification routing unchanged in meaning where not intentionally amended
+- [ ] Chapter Eleven / Seven classification routing unchanged in meaning where not intentionally amended
 
 ## 4. Custody and evidence
 

@@ -8,36 +8,36 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PART_A = ROOT / "core_01.005_values_principles.md"
+PART_A = ROOT / "core_02.005_values_principles.md"
 PART_B = ROOT / "core_01_b_stewardship_capacity_principles.md"
 
-PART_A_HEADER = """# Values Principles (Chapter One, Part A)
+PART_A_HEADER = """# Values Principles (Chapter Two, Part A)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–8: purpose, values, bounded agency, tradeoffs, override prohibition, and constitutional interpretation).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Two, Part A** (§§1–8: purpose, values, bounded agency, tradeoffs, override prohibition, and constitutional interpretation).
 >
 > **Upstream:** [core_00.000_preamble.md](core_00.000_preamble.md)
-> **Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter One, Part B — §§11–16, including systemic evaluation and integrated application capstone).
+> **Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter Two, Part B — §§11–16, including systemic evaluation and integrated application capstone).
 
 </details>
 
 <br>
 
 ---
-## CHAPTER 01, PART A: VALUES PRINCIPLES
+## CHAPTER 2, PART A: VALUES PRINCIPLES
 
 """
 
-PART_B_HEADER = """# Stewardship and Governance (Chapter One, Part B)
+PART_B_HEADER = """# Stewardship and Governance (Chapter Two, Part B)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§11–16: stewardship, governance, capacity, market structure, systemic evaluation, and integrated application capstone).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Two, Part B** (§§11–16: stewardship, governance, capacity, market structure, systemic evaluation, and integrated application capstone).
 >
-> **Upstream:** [core_01.005_values_principles.md](core_01.005_values_principles.md) (Chapter One, Part A)
+> **Upstream:** [core_02.005_values_principles.md](core_02.005_values_principles.md) (Chapter Two, Part A)
 > **Next:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)<br>
 > **Reading arc:** §11 stewardship → §12 governance → §13 capacity → §14 market structure → §15 systemic evaluation → **§16 integrated application** (chapter capstone).
 
@@ -46,21 +46,21 @@ PART_B_HEADER = """# Stewardship and Governance (Chapter One, Part B)
 <br>
 
 ---
-<a id="chapter-01-part-b-stewardship-and-governance"></a>
-## CHAPTER 01, PART B: STEWARDSHIP AND GOVERNANCE
+<a id="chapter-02-part-b-stewardship-and-governance"></a>
+## CHAPTER 2, PART B: STEWARDSHIP AND GOVERNANCE
 
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **[Stewardship](core_05.040_band_continuity.md#stewardship-constitutional)** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
-2. **[Governance](core_05.035_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Fifteen**.
-3. **[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity-constitutional)** is the durable, contestable ability those jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), not a freestanding trump value. **[Market Structure](core_05.035_band_accountability.md#market-structure-constitutional)** at [§14](#14-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
+1. **[Stewardship](core_03.040_band_continuity.md#stewardship-constitutional)** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+2. **[Governance](core_03.035_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Fourteen**.
+3. **[Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity-constitutional)** is the durable, contestable ability those jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), not a freestanding trump value. **[Market Structure](core_03.035_band_accountability.md#market-structure-constitutional)** at [§14](#14-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
 4. **[Systemic Evaluation Requirement](#15-systemic-evaluation-requirement)** verifies whole-system scope, dependency, and incentive alignment before compliance or governance claims stand.
 5. **[Integrated Application](#16-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
 
 """
 
 LEGACY_PART_A = """
-<!-- Legacy Chapter One Part A anchor redirects; do not remove without link migration. -->
+<!-- Legacy Chapter Two Part A anchor redirects; do not remove without link migration. -->
 <a id="2-constitutional-interpretation"></a>
 <a id="21-definitional-layer-and-required-disciplines"></a>
 <a id="22-ambiguity-resolution"></a>
@@ -99,46 +99,46 @@ LEGACY_PART_A = """
 """
 
 _TO_PH: list[tuple[str, str]] = [
-    ("Chapter One §10 Integrated Application", "__CH1S16INT__"),
-    ("Chapter One §10 Integrated", "__CH1S16INT__"),
-    ("Chapter One §9.3.3", "__CH1S833__"),
-    ("Chapter One §9.3.2", "__CH1S832__"),
-    ("Chapter One §9.3.1", "__CH1S831__"),
-    ("Chapter One §9.3", "__CH1S83__"),
-    ("Chapter One §9.2", "__CH1S82__"),
-    ("Chapter One §9.1", "__CH1S81__"),
-    ("Chapter One §9 Constitutional Interpretation", "__CH1S8INT__"),
-    ("Chapter One §9 Constitutional", "__CH1S8INT__"),
-    ("Chapter One §8 Prohibition on Absolute Override", "__CH1S7PROH__"),
-    ("Chapter One §8 Prohibition", "__CH1S7PROH__"),
-    ("Chapter One §7 Freedom (Bounded Agency)", "__CH1S5FREE__"),
-    ("Chapter One §7 Freedom", "__CH1S5FREE__"),
-    ("Chapter One §6.2", "__CH1S152__"),
-    ("Chapter One §6.1.5", "__CH1S1515__"),
-    ("Chapter One §6.1.4", "__CH1S1514__"),
-    ("Chapter One §6.1.3", "__CH1S1513__"),
-    ("Chapter One §6.1.2", "__CH1S1512__"),
-    ("Chapter One §6.1.1", "__CH1S1511__"),
-    ("Chapter One §6.1", "__CH1S151__"),
-    ("Chapter One §6 Systemic Evaluation Requirement", "__CH1S15EV__"),
-    ("Chapter One §6 Systemic Evaluation", "__CH1S15EV__"),
-    ("Chapter One §6 Systemic", "__CH1S15EV__"),
-    ("Chapter One §5.4.2", "__CH1S642__"),
-    ("Chapter One §5.4.1", "__CH1S641__"),
-    ("Chapter One §5.4", "__CH1S64__"),
-    ("Chapter One §5.3.2", "__CH1S632__"),
-    ("Chapter One §5.3.1", "__CH1S631__"),
-    ("Chapter One §5.3", "__CH1S63__"),
-    ("Chapter One §5.2.2", "__CH1S622__"),
-    ("Chapter One §5.2.1", "__CH1S621__"),
-    ("Chapter One §5.2", "__CH1S62__"),
-    ("Chapter One §5.1.4", "__CH1S614__"),
-    ("Chapter One §5.1.3", "__CH1S613__"),
-    ("Chapter One §5.1.2", "__CH1S612__"),
-    ("Chapter One §5.1.1", "__CH1S611__"),
-    ("Chapter One §5.1", "__CH1S61__"),
-    ("Chapter One §5 Interaction and Conflict Resolution", "__CH1S6INT__"),
-    ("Chapter One §5 Interaction", "__CH1S6INT__"),
+    ("Chapter Two §10 Integrated Application", "__CH1S16INT__"),
+    ("Chapter Two §10 Integrated", "__CH1S16INT__"),
+    ("Chapter Two §9.3.3", "__CH1S833__"),
+    ("Chapter Two §9.3.2", "__CH1S832__"),
+    ("Chapter Two §9.3.1", "__CH1S831__"),
+    ("Chapter Two §9.3", "__CH1S83__"),
+    ("Chapter Two §9.2", "__CH1S82__"),
+    ("Chapter Two §9.1", "__CH1S81__"),
+    ("Chapter Two §9 Constitutional Interpretation", "__CH1S8INT__"),
+    ("Chapter Two §9 Constitutional", "__CH1S8INT__"),
+    ("Chapter Two §8 Prohibition on Absolute Override", "__CH1S7PROH__"),
+    ("Chapter Two §8 Prohibition", "__CH1S7PROH__"),
+    ("Chapter Two §7 Freedom (Bounded Agency)", "__CH1S5FREE__"),
+    ("Chapter Two §7 Freedom", "__CH1S5FREE__"),
+    ("Chapter Two §6.2", "__CH1S152__"),
+    ("Chapter Two §6.1.5", "__CH1S1515__"),
+    ("Chapter Two §6.1.4", "__CH1S1514__"),
+    ("Chapter Two §6.1.3", "__CH1S1513__"),
+    ("Chapter Two §6.1.2", "__CH1S1512__"),
+    ("Chapter Two §6.1.1", "__CH1S1511__"),
+    ("Chapter Two §6.1", "__CH1S151__"),
+    ("Chapter Two §6 Systemic Evaluation Requirement", "__CH1S15EV__"),
+    ("Chapter Two §6 Systemic Evaluation", "__CH1S15EV__"),
+    ("Chapter Two §6 Systemic", "__CH1S15EV__"),
+    ("Chapter Two §5.4.2", "__CH1S642__"),
+    ("Chapter Two §5.4.1", "__CH1S641__"),
+    ("Chapter Two §5.4", "__CH1S64__"),
+    ("Chapter Two §5.3.2", "__CH1S632__"),
+    ("Chapter Two §5.3.1", "__CH1S631__"),
+    ("Chapter Two §5.3", "__CH1S63__"),
+    ("Chapter Two §5.2.2", "__CH1S622__"),
+    ("Chapter Two §5.2.1", "__CH1S621__"),
+    ("Chapter Two §5.2", "__CH1S62__"),
+    ("Chapter Two §5.1.4", "__CH1S614__"),
+    ("Chapter Two §5.1.3", "__CH1S613__"),
+    ("Chapter Two §5.1.2", "__CH1S612__"),
+    ("Chapter Two §5.1.1", "__CH1S611__"),
+    ("Chapter Two §5.1", "__CH1S61__"),
+    ("Chapter Two §5 Interaction and Conflict Resolution", "__CH1S6INT__"),
+    ("Chapter Two §5 Interaction", "__CH1S6INT__"),
     ("§10 Integrated Application", "__CH1S16INT__"),
     ("§10 Integrated", "__CH1S16INT__"),
     ("§9.3.3", "__CH1S833__"),
@@ -182,50 +182,50 @@ _TO_PH: list[tuple[str, str]] = [
 ]
 
 _FROM_PH: list[tuple[str, str]] = [
-    ("__CH1S16INT__", "Chapter One §16 Integrated Application"),
-    ("__CH1S833__", "Chapter One §8.3.3"),
-    ("__CH1S832__", "Chapter One §8.3.2"),
-    ("__CH1S831__", "Chapter One §8.3.1"),
-    ("__CH1S83__", "Chapter One §8.3"),
-    ("__CH1S82__", "Chapter One §8.2"),
-    ("__CH1S81__", "Chapter One §8.1"),
-    ("__CH1S8INT__", "Chapter One §8 Constitutional Interpretation"),
-    ("__CH1S7PROH__", "Chapter One §7 Prohibition on Absolute Override"),
-    ("__CH1S5FREE__", "Chapter One §5 Freedom"),
-    ("__CH1S152__", "Chapter One §15.2"),
-    ("__CH1S1515__", "Chapter One §15.1.5"),
-    ("__CH1S1514__", "Chapter One §15.1.4"),
-    ("__CH1S1513__", "Chapter One §15.1.3"),
-    ("__CH1S1512__", "Chapter One §15.1.2"),
-    ("__CH1S1511__", "Chapter One §15.1.1"),
-    ("__CH1S151__", "Chapter One §15.1"),
-    ("__CH1S15EV__", "Chapter One §15 Systemic Evaluation Requirement"),
-    ("__CH1S642__", "Chapter One §6.4.2"),
-    ("__CH1S641__", "Chapter One §6.4.1"),
-    ("__CH1S64__", "Chapter One §6.4"),
-    ("__CH1S632__", "Chapter One §6.3.2"),
-    ("__CH1S631__", "Chapter One §6.3.1"),
-    ("__CH1S63__", "Chapter One §6.3"),
-    ("__CH1S622__", "Chapter One §6.2.2"),
-    ("__CH1S621__", "Chapter One §6.2.1"),
-    ("__CH1S62__", "Chapter One §6.2"),
-    ("__CH1S614__", "Chapter One §6.1.4"),
-    ("__CH1S613__", "Chapter One §6.1.3"),
-    ("__CH1S612__", "Chapter One §6.1.2"),
-    ("__CH1S611__", "Chapter One §6.1.1"),
-    ("__CH1S61__", "Chapter One §6.1"),
-    ("__CH1S6INT__", "Chapter One §6 Interaction and Conflict Resolution"),
+    ("__CH1S16INT__", "Chapter Two §16 Integrated Application"),
+    ("__CH1S833__", "Chapter Two §8.3.3"),
+    ("__CH1S832__", "Chapter Two §8.3.2"),
+    ("__CH1S831__", "Chapter Two §8.3.1"),
+    ("__CH1S83__", "Chapter Two §8.3"),
+    ("__CH1S82__", "Chapter Two §8.2"),
+    ("__CH1S81__", "Chapter Two §8.1"),
+    ("__CH1S8INT__", "Chapter Two §8 Constitutional Interpretation"),
+    ("__CH1S7PROH__", "Chapter Two §7 Prohibition on Absolute Override"),
+    ("__CH1S5FREE__", "Chapter Two §5 Freedom"),
+    ("__CH1S152__", "Chapter Two §15.2"),
+    ("__CH1S1515__", "Chapter Two §15.1.5"),
+    ("__CH1S1514__", "Chapter Two §15.1.4"),
+    ("__CH1S1513__", "Chapter Two §15.1.3"),
+    ("__CH1S1512__", "Chapter Two §15.1.2"),
+    ("__CH1S1511__", "Chapter Two §15.1.1"),
+    ("__CH1S151__", "Chapter Two §15.1"),
+    ("__CH1S15EV__", "Chapter Two §15 Systemic Evaluation Requirement"),
+    ("__CH1S642__", "Chapter Two §6.4.2"),
+    ("__CH1S641__", "Chapter Two §6.4.1"),
+    ("__CH1S64__", "Chapter Two §6.4"),
+    ("__CH1S632__", "Chapter Two §6.3.2"),
+    ("__CH1S631__", "Chapter Two §6.3.1"),
+    ("__CH1S63__", "Chapter Two §6.3"),
+    ("__CH1S622__", "Chapter Two §6.2.2"),
+    ("__CH1S621__", "Chapter Two §6.2.1"),
+    ("__CH1S62__", "Chapter Two §6.2"),
+    ("__CH1S614__", "Chapter Two §6.1.4"),
+    ("__CH1S613__", "Chapter Two §6.1.3"),
+    ("__CH1S612__", "Chapter Two §6.1.2"),
+    ("__CH1S611__", "Chapter Two §6.1.1"),
+    ("__CH1S61__", "Chapter Two §6.1"),
+    ("__CH1S6INT__", "Chapter Two §6 Interaction and Conflict Resolution"),
 ]
 
 ANCHOR_PATH_MIGRATIONS: list[tuple[str, str]] = [
-    ("core_01.005_values_principles.md#10-integrated-application", "core_01_b_stewardship_capacity_principles.md#16-integrated-application"),
-    ("core_01.005_values_principles.md#6-systemic-evaluation-requirement", "core_01_b_stewardship_capacity_principles.md#15-systemic-evaluation-requirement"),
-    ("core_01.005_values_principles.md#61-required-evaluation-factors", "core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors"),
-    ("core_01.005_values_principles.md#62-read-with-governance-and-incentive-discipline", "core_01_b_stewardship_capacity_principles.md#152-read-with-governance-and-incentive-discipline"),
-    ("core_01.005_values_principles.md#5-interaction-and-conflict-resolution", "core_01.005_values_principles.md#6-interaction-and-conflict-resolution"),
-    ("core_01.005_values_principles.md#7-freedom-bounded-agency", "core_01.005_values_principles.md#5-freedom-bounded-agency"),
-    ("core_01.005_values_principles.md#8-prohibition-on-absolute-override", "core_01.005_values_principles.md#7-prohibition-on-absolute-override"),
-    ("core_01.005_values_principles.md#9-constitutional-interpretation", "core_01.005_values_principles.md#8-constitutional-interpretation"),
+    ("core_02.005_values_principles.md#10-integrated-application", "core_01_b_stewardship_capacity_principles.md#16-integrated-application"),
+    ("core_02.005_values_principles.md#6-systemic-evaluation-requirement", "core_01_b_stewardship_capacity_principles.md#15-systemic-evaluation-requirement"),
+    ("core_02.005_values_principles.md#61-required-evaluation-factors", "core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors"),
+    ("core_02.005_values_principles.md#62-read-with-governance-and-incentive-discipline", "core_01_b_stewardship_capacity_principles.md#152-read-with-governance-and-incentive-discipline"),
+    ("core_02.005_values_principles.md#5-interaction-and-conflict-resolution", "core_02.005_values_principles.md#6-interaction-and-conflict-resolution"),
+    ("core_02.005_values_principles.md#7-freedom-bounded-agency", "core_02.005_values_principles.md#5-freedom-bounded-agency"),
+    ("core_02.005_values_principles.md#8-prohibition-on-absolute-override", "core_02.005_values_principles.md#7-prohibition-on-absolute-override"),
+    ("core_02.005_values_principles.md#9-constitutional-interpretation", "core_02.005_values_principles.md#8-constitutional-interpretation"),
     ("#10-integrated-application", "#16-integrated-application"),
     ("#6-systemic-evaluation-requirement", "#15-systemic-evaluation-requirement"),
     ("#61-required-evaluation-factors", "#151-required-evaluation-factors"),
@@ -308,7 +308,7 @@ def renumber_section_block(block: str, old_sec: int, new_sec: int) -> str:
 
 
 def split_at_chapter(text: str) -> tuple[str, str]:
-    idx = text.find("## CHAPTER 01")
+    idx = text.find("## CHAPTER 2")
     if idx == -1:
         raise ValueError("chapter heading not found")
     chapter_start = text.find("\n", idx)
@@ -373,7 +373,7 @@ def reassemble_part_b(part_a: str, part_b: str) -> str:
     footer = """
 ---
 
-**Previous file:** [core_01.005_values_principles.md](core_01.005_values_principles.md)
+**Previous file:** [core_02.005_values_principles.md](core_02.005_values_principles.md)
 
 **Next file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 """
@@ -409,11 +409,11 @@ def apply_trace_repairs_part_a(text: str) -> str:
         ("under **§5** tradeoffs can still fail **§15**", "under **§6 Interaction** tradeoffs can still fail **§15**"),
         ("[§7 Governance Under Stewardship Discipline](#7-governance", "[§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance"),
         ("[§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship", "[§11 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#11-stewardship"),
-        ("[§2 Constitutional Interpretation](core_01.005_values_principles.md#2-constitutional-interpretation)", "[§8 Constitutional Interpretation](#8-constitutional-interpretation)"),
-        ("[§2 Constitutional Interpretation](core_01.005_values_principles.md#9-constitutional-interpretation)", "[§8 Constitutional Interpretation](#8-constitutional-interpretation)"),
+        ("[§2 Constitutional Interpretation](core_02.005_values_principles.md#2-constitutional-interpretation)", "[§8 Constitutional Interpretation](#8-constitutional-interpretation)"),
+        ("[§2 Constitutional Interpretation](core_02.005_values_principles.md#9-constitutional-interpretation)", "[§8 Constitutional Interpretation](#8-constitutional-interpretation)"),
         ("value collisions: [§5 Interaction and Conflict Resolution](#5-interaction", "value collisions: [§6 Interaction and Conflict Resolution](#6-interaction"),
-        ("[§9.2 Ambiguity resolution](core_01.005_values_principles.md#92-ambiguity-resolution)", "[§8.2 Ambiguity resolution](#82-ambiguity-resolution)"),
-        ("[§9.1 Definitional layer and required disciplines](core_01.005_values_principles.md#91-definitional-layer", "[§8.1 Definitional layer and required disciplines](#81-definitional-layer"),
+        ("[§9.2 Ambiguity resolution](core_02.005_values_principles.md#92-ambiguity-resolution)", "[§8.2 Ambiguity resolution](#82-ambiguity-resolution)"),
+        ("[§9.1 Definitional layer and required disciplines](core_02.005_values_principles.md#91-definitional-layer", "[§8.1 Definitional layer and required disciplines](#81-definitional-layer"),
         ("Downstream: [7. Freedom](#7-freedom", "Downstream: [5. Freedom](#5-freedom"),
         ("[§10 Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#1041", "[§6.4.1 Rights-Collision Decision Test](#641"),
     ]
@@ -425,17 +425,17 @@ def apply_trace_repairs_part_a(text: str) -> str:
 def apply_trace_repairs_part_b(text: str) -> str:
     repl = [
         ("§§11–14", "§§11–16"),
-        ("[5. Interaction and Conflict Resolution](core_01.005_values_principles.md#5-interaction", "[6. Interaction and Conflict Resolution](core_01.005_values_principles.md#6-interaction"),
-        ("[§5 Interaction and Conflict Resolution](core_01.005_values_principles.md#5-interaction", "[§6 Interaction and Conflict Resolution](core_01.005_values_principles.md#6-interaction"),
-        ("[§5.4.1 Rights-Collision Decision Test](core_01.005_values_principles.md#541-", "[§6.4.1 Rights-Collision Decision Test](core_01.005_values_principles.md#641-"),
-        ("[§5.1.4 Minimization of Avoidable Burden](#514-", "[§6.1.4 Minimization of Avoidable Burden](core_01.005_values_principles.md#614-"),
+        ("[5. Interaction and Conflict Resolution](core_02.005_values_principles.md#5-interaction", "[6. Interaction and Conflict Resolution](core_02.005_values_principles.md#6-interaction"),
+        ("[§5 Interaction and Conflict Resolution](core_02.005_values_principles.md#5-interaction", "[§6 Interaction and Conflict Resolution](core_02.005_values_principles.md#6-interaction"),
+        ("[§5.4.1 Rights-Collision Decision Test](core_02.005_values_principles.md#541-", "[§6.4.1 Rights-Collision Decision Test](core_02.005_values_principles.md#641-"),
+        ("[§5.1.4 Minimization of Avoidable Burden](#514-", "[§6.1.4 Minimization of Avoidable Burden](core_02.005_values_principles.md#614-"),
         ("[§6.1 Required Evaluation Factors](#61-required", "[§15.1 Required Evaluation Factors](#151-required"),
-        ("[§7 Freedom (Bounded Agency)](core_01.005_values_principles.md#7-freedom", "[§5 Freedom (Bounded Agency)](core_01.005_values_principles.md#5-freedom"),
-        ("[§8 Prohibition on Absolute Override](core_01.005_values_principles.md#8-prohibition", "[§7 Prohibition on Absolute Override](core_01.005_values_principles.md#7-prohibition"),
-        ("[§5.2 Epistemic Disclosure Constraints](#52-", "[§6.2 Epistemic Disclosure Constraints](core_01.005_values_principles.md#62-"),
-        ("[§5 Interaction and Conflict Resolution](#5-interaction", "[§6 Interaction and Conflict Resolution](core_01.005_values_principles.md#6-interaction"),
-        ("[§5.4.1 Rights-Collision Decision Test](#541-", "[§6.4.1 Rights-Collision Decision Test](core_01.005_values_principles.md#641-"),
-        ("[§5.4.2 Proxy-Divergence Invalidation](#542-", "[§6.4.2 Proxy-Divergence Invalidation](core_01.005_values_principles.md#642-"),
+        ("[§7 Freedom (Bounded Agency)](core_02.005_values_principles.md#7-freedom", "[§5 Freedom (Bounded Agency)](core_02.005_values_principles.md#5-freedom"),
+        ("[§8 Prohibition on Absolute Override](core_02.005_values_principles.md#8-prohibition", "[§7 Prohibition on Absolute Override](core_02.005_values_principles.md#7-prohibition"),
+        ("[§5.2 Epistemic Disclosure Constraints](#52-", "[§6.2 Epistemic Disclosure Constraints](core_02.005_values_principles.md#62-"),
+        ("[§5 Interaction and Conflict Resolution](#5-interaction", "[§6 Interaction and Conflict Resolution](core_02.005_values_principles.md#6-interaction"),
+        ("[§5.4.1 Rights-Collision Decision Test](#541-", "[§6.4.1 Rights-Collision Decision Test](core_02.005_values_principles.md#641-"),
+        ("[§5.4.2 Proxy-Divergence Invalidation](#542-", "[§6.4.2 Proxy-Divergence Invalidation](core_02.005_values_principles.md#642-"),
     ]
     for old, new in repl:
         text = text.replace(old, new)
@@ -444,13 +444,13 @@ def apply_trace_repairs_part_b(text: str) -> str:
 
 def apply_trace_repairs_integrated(text: str) -> str:
     repl = [
-        ("[9. Constitutional Interpretation](core_01.005_values_principles.md#9-constitutional-interpretation)", "[8. Constitutional Interpretation](core_01.005_values_principles.md#8-constitutional-interpretation)"),
-        ("[5. Interaction and Conflict Resolution](#5-interaction-and-conflict-resolution)", "[6. Interaction and Conflict Resolution](core_01.005_values_principles.md#6-interaction-and-conflict-resolution)"),
+        ("[9. Constitutional Interpretation](core_02.005_values_principles.md#9-constitutional-interpretation)", "[8. Constitutional Interpretation](core_02.005_values_principles.md#8-constitutional-interpretation)"),
+        ("[5. Interaction and Conflict Resolution](#5-interaction-and-conflict-resolution)", "[6. Interaction and Conflict Resolution](core_02.005_values_principles.md#6-interaction-and-conflict-resolution)"),
         ("[6.1 Required Evaluation Factors](#61-required-evaluation-factors)", "[15.1 Required Evaluation Factors](#151-required-evaluation-factors)"),
-        ("[7. Freedom](#7-freedom-bounded-agency)", "[5. Freedom](core_01.005_values_principles.md#5-freedom-bounded-agency)"),
-        ("[8. Prohibition on Absolute Override](#8-prohibition-on-absolute-override)", "[7. Prohibition on Absolute Override](core_01.005_values_principles.md#7-prohibition-on-absolute-override)"),
-        ("[§9.2 Ambiguity resolution](core_01.005_values_principles.md#92-ambiguity-resolution)", "[§8.2 Ambiguity resolution](core_01.005_values_principles.md#82-ambiguity-resolution)"),
-        ("[§9.1 Definitional layer and required disciplines](core_01.005_values_principles.md#91-definitional-layer-and-required-disciplines)", "[§8.1 Definitional layer and required disciplines](core_01.005_values_principles.md#81-definitional-layer-and-required-disciplines)"),
+        ("[7. Freedom](#7-freedom-bounded-agency)", "[5. Freedom](core_02.005_values_principles.md#5-freedom-bounded-agency)"),
+        ("[8. Prohibition on Absolute Override](#8-prohibition-on-absolute-override)", "[7. Prohibition on Absolute Override](core_02.005_values_principles.md#7-prohibition-on-absolute-override)"),
+        ("[§9.2 Ambiguity resolution](core_02.005_values_principles.md#92-ambiguity-resolution)", "[§8.2 Ambiguity resolution](core_02.005_values_principles.md#82-ambiguity-resolution)"),
+        ("[§9.1 Definitional layer and required disciplines](core_02.005_values_principles.md#91-definitional-layer-and-required-disciplines)", "[§8.1 Definitional layer and required disciplines](core_02.005_values_principles.md#81-definitional-layer-and-required-disciplines)"),
     ]
     for old, new in repl:
         text = text.replace(old, new)
@@ -462,7 +462,7 @@ def migrate_section_refs(content: str) -> str:
         content = content.replace(old, new)
     for old, new in _FROM_PH:
         content = content.replace(old, new)
-    inline = [(a.replace("Chapter One ", ""), b.replace("Chapter One ", "")) for a, b in _FROM_PH]
+    inline = [(a.replace("Chapter Two ", ""), b.replace("Chapter Two ", "")) for a, b in _FROM_PH]
     for old, new in inline:
         content = content.replace(old, new)
     return content
@@ -472,7 +472,7 @@ def renumber_ch1_basis_refs(content: str) -> str:
     basis_map = {5: 6, 6: 15, 7: 5, 8: 7, 9: 8, 10: 16}
 
     def line_repl(line: str) -> str:
-        if "Chapter One basis:" not in line:
+        if "Chapter Two basis:" not in line:
             return line
 
         def ref_repl(m: re.Match[str]) -> str:
@@ -484,7 +484,7 @@ def renumber_ch1_basis_refs(content: str) -> str:
 
         line = re.sub(r"§(\d+)((?:\.\d+)+)?", ref_repl, line)
         line = line.replace(
-            "(see [CJS-5.105 §1](#cjs-31-constitutional-compass-and-cluster-map) map)",
+            "(see [CJS-3.105 §1](#cjs-31-constitutional-compass-and-cluster-map) map)",
             "(see [cluster map](#cjs-31-constitutional-compass-and-cluster-map))",
         )
         return line
@@ -500,7 +500,7 @@ def migrate_corpus(content: str, path: Path) -> str:
         if old != new:
             content = content.replace(old, new)
     content = migrate_section_refs(content)
-    if "cjs_03" in path.name and "Chapter One basis:" in content:
+    if "cjs_03" in path.name and "Chapter Two basis:" in content:
         content = renumber_ch1_basis_refs(content)
     return content if content != orig else content
 

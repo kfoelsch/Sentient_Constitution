@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit Chapter One O/M/A/C widget row order for drift-sensitive sections.
+"""Audit Chapter Two O/M/A/C widget row order for drift-sensitive sections.
 
 This checker intentionally validates a small set of high-value widgets instead
 of trying to infer semantic order everywhere. Expected order lives in
@@ -76,21 +76,21 @@ def main() -> int:
     root = Path(args.root)
     failures: list[str] = []
     ch1_files = (
-        root / "core_01.000_values_principles.md",
-        root / "core_01.010_values_principles_continuity_aim.md",
-        root / "core_01.020_interaction_interpretation.md",
-        root / "core_01.030_constitutional_interpretation.md",
-        root / "core_01.040_stewardship_capacity_principles.md",
-        root / "core_01.050_governance_incentive_application.md",
+        root / "core_02.000_values_principles.md",
+        root / "core_02.010_values_principles_continuity_aim.md",
+        root / "core_02.020_interaction_interpretation.md",
+        root / "core_02.030_constitutional_interpretation.md",
+        root / "core_02.040_stewardship_capacity_principles.md",
+        root / "core_02.050_governance_incentive_application.md",
     )
     lines: list[str] = []
     for path in ch1_files:
         if not path.exists():
-            failures.append(f"missing Chapter One file: {path.name}")
+            failures.append(f"missing Chapter Two file: {path.name}")
             continue
         lines.extend(path.read_text(encoding="utf-8").splitlines())
     if not lines:
-        print("FAIL: Chapter One O/M/A/C order audit — no Chapter One content found.")
+        print("FAIL: Chapter Two O/M/A/C order audit — no Chapter Two content found.")
         return 1
     expected_map = ch1_dac_order_expected()
 
@@ -104,7 +104,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"Chapter One:{line_no}: O/M/A/C order drift under {heading}",
+                        f"Chapter Two:{line_no}: O/M/A/C order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]
@@ -112,12 +112,12 @@ def main() -> int:
             )
 
     if failures:
-        print("FAIL: Chapter One O/M/A/C order drift detected.")
+        print("FAIL: Chapter Two O/M/A/C order drift detected.")
         for failure in failures:
             print(failure)
         return 1
 
-    print("PASS: Chapter One O/M/A/C widgets preserve expected functional order.")
+    print("PASS: Chapter Two O/M/A/C widgets preserve expected functional order.")
     return 0
 
 

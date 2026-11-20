@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Audit Chapter Five alphabetical directory and section 1 order.
+"""Audit Chapter Three alphabetical directory and section 1 order.
 
 Checks the non-operative Definitions A-Z / Clusters A-Z directory in
-``core_05.000_definitions_home.md`` and preserves the older section 1
+``core_03.000_definitions_home.md`` and preserves the older section 1
 Independent Definitions heading-order check.
 """
 
@@ -34,12 +34,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--file",
         default=CH5_PART_A,
-        help="Chapter Five Markdown file under --root.",
+        help="Chapter Three Markdown file under --root.",
     )
     parser.add_argument(
         "--only-if-ch5-changed",
         action="store_true",
-        help="Skip the audit unless a Chapter Five file has changed in git.",
+        help="Skip the audit unless a Chapter Three file has changed in git.",
     )
     return parser.parse_args()
 
@@ -184,7 +184,7 @@ def main() -> int:
     if args.only_if_ch5_changed:
         changed = git_changed_files(root)
         if not any(CH5_FILE_PATTERN.match(name) for name in changed):
-            print("SKIP: no Chapter Five file changes detected.")
+            print("SKIP: no Chapter Three file changes detected.")
             return 0
 
     if not path.exists():
@@ -194,12 +194,12 @@ def main() -> int:
     violations = audit_directory(root)
     violations.extend(audit_file(path))
     if violations:
-        print("FAIL: Chapter Five alphabetical directory audit detected issues:")
+        print("FAIL: Chapter Three alphabetical directory audit detected issues:")
         for violation in violations:
             print(violation)
         return 1
 
-    print("PASS: Chapter Five directory rows and section 1 headings are alphabetically ordered.")
+    print("PASS: Chapter Three directory rows and section 1 headings are alphabetically ordered.")
     return 0
 
 

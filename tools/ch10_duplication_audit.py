@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""Catch a sentence copied from Chapter Nine into its parallel Chapter Ten.
+"""Catch a sentence copied from Chapter Eight into its parallel Chapter Nine.
 
 Rule ID: CH10-DUPLICATION-01
 
-Chapter Ten (Institutional Alignment Certification) runs the same process as Chapter Nine
+Chapter Nine (Institutional Alignment Certification) runs the same process as Chapter Eight
 (System Alignment Certification) for an Institution. Its header says "Reuse, not repetition":
-where the meaning is the same, Chapter Ten summarizes and points to Chapter Nine and sets out
+where the meaning is the same, Chapter Nine summarizes and points to Chapter Eight and sets out
 only what differs for an Institution. Hand-kept copies drift (the first comparison found
 copies that had already diverged), so this audit finds them.
 
-It reads every sentence of eight or more words in Chapter Ten and looks for a near-verbatim
-match in Chapter Nine Parts A, B and C. Both sides are normalized first, so that a plain
+It reads every sentence of eight or more words in Chapter Nine and looks for a near-verbatim
+match in Chapter Eight Parts A, B and C. Both sides are normalized first, so that a plain
 noun swap does not hide a copy: "Institution", "Institutional", "System", "operator" and
 "governing authority" all count as the same word, and links, emphasis and list markers are
 dropped. Two sentences are near-verbatim when their word sequences are 85% alike or closer.
@@ -19,7 +19,7 @@ Not read: Trace, reader-guide and other collapsed ``<details>`` widgets, fenced 
 link targets, and sentences under eight words. Plain-terms lines match on purpose, because
 they are the parallel the reader sees; they sit in the baseline like any other accepted copy.
 
-Fix: replace the copied sentence with a short summary and a pointer ("Chapter Nine Part C
+Fix: replace the copied sentence with a short summary and a pointer ("Chapter Eight Part C
 §9.3.2 applies, reading Institution for System") and keep only what differs for an
 Institution. Where a copy is intended, rewrite the baseline with ``--write-baseline``.
 
@@ -27,7 +27,7 @@ Older copies sit in the shrink-only baseline
 ``tools/architecture/baselines/ch10_duplication.json``: a new near-verbatim sentence fails, and
 a baseline entry whose sentence was rewritten or removed also fails until it is deleted with
 ``--write-baseline``. ``--ignore-baseline`` lists every near-copy. ``--report`` prints the share
-of near-verbatim sentences in each Chapter Ten section and always exits 0.
+of near-verbatim sentences in each Chapter Nine section and always exits 0.
 """
 
 from __future__ import annotations
@@ -50,21 +50,21 @@ ROOT = Path(__file__).resolve().parents[1]
 RULE = "CH10-DUPLICATION-01"
 BASELINE_NAME = "ch10_duplication"
 TARGETS = (
-    "core_12.000_institutional_alignment_certification_evaluation.md",
-    "core_13.000_institutional_alignment_certification_forum_process_outcomes.md",
-    "core_14.000_institutional_alignment_certification_records_recertification.md",
+    "core_11.000_institutional_alignment_certification_evaluation.md",
+    "core_12.000_institutional_alignment_certification_forum_process_outcomes.md",
+    "core_13.000_institutional_alignment_certification_records_recertification.md",
 )
 SOURCES = {
-    "A": "core_09.000_system_alignment_certification_evaluation.md",
-    "B": "core_10.000_system_alignment_certification_forum_process_outcomes.md",
-    "C": "core_11.000_system_alignment_certification_records_recertification.md",
+    "A": "core_08.000_system_alignment_certification_evaluation.md",
+    "B": "core_09.000_system_alignment_certification_forum_process_outcomes.md",
+    "C": "core_10.000_system_alignment_certification_records_recertification.md",
 }
 MIN_WORDS = 8
 THRESHOLD = 0.85
 SHINGLE = 3  # word run used to find candidate pairs quickly
 
 ADVICE = (
-    "near-verbatim copy of Chapter Nine; say it once there and point to it, or summarize it and keep only "
+    "near-verbatim copy of Chapter Eight; say it once there and point to it, or summarize it and keep only "
     "what differs for an Institution (CH10-DUPLICATION-01)"
 )
 
@@ -204,7 +204,7 @@ def load_sentences(root: Path) -> tuple[list[Sentence], list[Sentence]]:
         path = root / name
         if path.is_file():
             for s in extract_sentences(name, path.read_text(encoding="utf-8")):
-                sources.append(Sentence(f"Chapters Nine to Eleven ({part})", s.line, s.section, s.text, s.tokens))
+                sources.append(Sentence(f"Chapters Eight to Ten ({part})", s.line, s.section, s.text, s.tokens))
     return targets, sources
 
 
@@ -215,7 +215,7 @@ def _top(section: str) -> str:
 def report(targets: list[Sentence], matches: list[Match]) -> None:
     totals: Counter = Counter(_top(t.section) for t in targets)
     copied: Counter = Counter(_top(m.target.section) for m in matches)
-    print(f"{RULE}: share of Chapter Ten sentences (>= {MIN_WORDS} words) that are near-verbatim to Chapter Nine")
+    print(f"{RULE}: share of Chapter Nine sentences (>= {MIN_WORDS} words) that are near-verbatim to Chapter Eight")
     print("  §   sentences  near-verbatim  share")
     for sec in sorted(totals, key=lambda x: (not x.isdigit(), int(x) if x.isdigit() else 0)):
         n, c = totals[sec], copied[sec]
@@ -226,7 +226,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument("--ignore-baseline", action="store_true", help="List every near-copy, baselined or not.")
-    parser.add_argument("--report", action="store_true", help="Print the share per Chapter Ten section; exit 0.")
+    parser.add_argument("--report", action="store_true", help="Print the share per Chapter Nine section; exit 0.")
     parser.add_argument(
         "--write-baseline",
         action="store_true",
@@ -260,7 +260,7 @@ def main() -> int:
 
     if not findings and not stale:
         extra = f"; {baselined} older near-copy sentence(s) in the shrink-only baseline" if baselined else ""
-        print(f"PASS: {RULE} — no new near-verbatim copy of Chapter Nine in Chapter Ten{extra}.")
+        print(f"PASS: {RULE} — no new near-verbatim copy of Chapter Eight in Chapter Nine{extra}.")
         return 0
     print(f"FAIL: {RULE} — {len(findings)} new near-verbatim copy sentence(s), {len(stale)} stale baseline entr(ies).")
     for m in findings:

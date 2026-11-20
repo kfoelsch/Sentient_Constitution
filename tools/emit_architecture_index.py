@@ -253,7 +253,7 @@ def render_markdown(root: Path) -> str:
     lines.extend(
         [
             "",
-            "## Chapter Six articles",
+            "## Chapter Four articles",
             "",
             "Article titles and Roman numerals: `make reference-audit` / `core_06.0*_rights_part_*.md`.",
             "",

@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,48 +39,48 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The listing has no allergy line, so you assume there is nothing to worry about. Nobody tested it, and nobody says so.
 - **With this Constitution:** Anyone offering the product has to say plainly when something is unknown, untested, or might be present through shared production. A gap that reads as “safe” is not an answer.
 
-See: [Article III-F](../../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information).
+See: [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information).
 
 **The truth has to be usable when you decide.**
 - **Today:** The warning is in tiny print, one language, or a file your screen reader cannot open. The voice assistant says “that should be fine.”
 - **With this Constitution:** The information has to be in a form you can use at the moment you choose, whatever your senses, reading, or language. If a system uses your own allergy or diet list to tailor what it tells you, it has to apply that list correctly and use it only for that.
 
-See: [Article VI-D](../../../core_06.010_rights_part_b.md#article-vi-d-accessibility); [Article III-F](../../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Chapter One §15.1.2](../../../core_01.030_constitutional_interpretation.md#1512-derived-information-principle).
+See: [Article VI-D](../../../core_04.010_rights_part_b.md#article-vi-d-accessibility); [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Chapter Two §15.1.2](../../../core_02.030_constitutional_interpretation.md#1512-derived-information-principle).
 
 **If it turns out wrong, they have to find you.**
 - **Today:** The recall is posted on a page you never visit. You keep using the product for weeks.
 - **With this Constitution:** Reports of harm have to be taken in and acted on, not buried. When information is wrong or a product is unsafe, everyone who relied on it has to be told inside a time limit that matches how urgent the harm is, reached where they are, even if they never reply, and the information fixed everywhere it appears.
 
-See: [Article III-F](../../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter One §3.1.5](../../../core_01.000_values_principles.md#315-present-capability-and-proactive-help).
+See: [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Two §3.1.5](../../../core_02.000_values_principles.md#315-present-capability-and-proactive-help).
 
 **Reviews and rankings cannot be bought to hide a danger.**
 - **Today:** The safest-looking product is at the top because the seller paid. The bad reviews are filtered out.
 - **With this Constitution:** Reviews have to be real, paid placement has to be disclosed, and where health or safety is at stake, a recommendation cannot be tilted by what the system earns.
 
-See: [Article XIV-C](../../../core_06.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance); [Article XIV-D](../../../core_06.020_rights_part_c.md#article-xiv-d-incentive-alignment-constraint).
+See: [Article XIV-C](../../../core_04.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance); [Article XIV-D](../../../core_04.020_rights_part_c.md#article-xiv-d-incentive-alignment-constraint).
 
 **Safe to eat and drink is part of staying alive.**
 - **Today:** A missing test result on the water report is shown as “no problem.” Or a safety doubt is used as the reason to cut you off.
 - **With this Constitution:** Food and water have to be safe to consume, and the duty sits with whoever supplies them, not with you. A doubt about safety cannot be used to cut off what you need to live. Where safe supply cannot be had, the risk is told to you, the choice is yours, and the duty to restore safe supply continues.
 
-See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival).
+See: [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival).
 
 ## What you might reasonably object to
 
 - **“A small shop cannot test everything.”** Correct, and the duty is scaled to how much is actually on the line. A household seller is not held to a national producer’s standard. What is not allowed is hiding the gap: saying plainly “not tested” is an answer; a blank that reads as “safe” is not.
 
-- **“Forcing labels is forcing speech.”** This Constitution draws that line on purpose. No one can be made to state or carry a message of opinion, belief, identity, or affiliation ([Article XI-B](../../../core_06.010_rights_part_b.md#article-xi-b-expression)). Facts about the thing being offered are the price of offering it, and they can never be used to silence a warning, a criticism, or a report of harm. A secret recipe can stay secret. A hazard or an allergen cannot.
+- **“Forcing labels is forcing speech.”** This Constitution draws that line on purpose. No one can be made to state or carry a message of opinion, belief, identity, or affiliation ([Article XI-B](../../../core_04.010_rights_part_b.md#article-xi-b-expression)). Facts about the thing being offered are the price of offering it, and they can never be used to silence a warning, a criticism, or a report of harm. A secret recipe can stay secret. A hazard or an allergen cannot.
 
 - **“There is no inspector here. Words on a foreign site do nothing.”** Honest. This Constitution binds a body that has agreed to follow it, not a shop, a maker, or an app that did not agree. The case is what a seller or platform that agreed would owe you — not a claim that yours has adopted it.
 
-- **“Don’t put me in a type.”** You do not have to take that label to use this page. This brief is for anyone who relies on what a label, listing, or app says. It does not change the Rights Floor that applies to you. When product safety, health information, or food and water are actually at stake, those rules are located in [Article III-F](../../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (the information and the notice), [Article VI-D](../../../core_06.010_rights_part_b.md#article-vi-d-accessibility) (usable by you), and [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival) (safe to consume).
+- **“Don’t put me in a type.”** You do not have to take that label to use this page. This brief is for anyone who relies on what a label, listing, or app says. It does not change the Rights Floor that applies to you. When product safety, health information, or food and water are actually at stake, those rules are located in [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (the information and the notice), [Article VI-D](../../../core_04.010_rights_part_b.md#article-vi-d-accessibility) (usable by you), and [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival) (safe to consume).
 
 ## What this will not pretend to give you
 
 - A promise that any product, meal, or medicine is safe for you. This page is not medical advice.
 - A tested kitchen, a lab, or a recall in your town. It sets what must be told; it does not run the testing.
 - A reason to cut off someone’s food, water, or medicine as a way of enforcing any of this.
-- Enforcement against a seller, maker, or app that has not adopted it ([Chapter Thirty-One §4](../../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a seller, maker, or app that has not adopted it ([Chapter Thirty §5](../../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 

@@ -47,6 +47,20 @@ def run(root: Path, fail: bool) -> int:
         if not re.fullmatch(r"\d{5}", number):
             problems.append(f"{machine_id}: machine number must be five digits")
             continue
+        if layer == "SUBCORE":
+            # Subcore files (2026-11-20): numbered inside their chapter's home, displayed as S<chapter>-<letter>.
+            if machine_id != f"SUB-{number}":
+                problems.append(f"{number}: subcore machine id should be SUB-{number}")
+            if not re.fullmatch(rf"S{int(number[:2])}-[A-Z]", row.get("display_id", "")):
+                problems.append(f"{machine_id}: subcore display id must be S<chapter>-<letter>")
+            if not Path(destination).name.startswith(f"subcore_{number[:2]}.{number[2:]}_"):
+                problems.append(f"{destination}: filename must start with subcore_{number[:2]}.{number[2:]}_")
+            if destination in seen_files:
+                problems.append(f"{destination}: duplicate destination file")
+            seen_files.add(destination)
+            if not (root / destination).is_file():
+                problems.append(f"{machine_id}: destination not present: {destination}")
+            continue
         expected_id = number if layer == "CORE" else f"{layer}-{number}"
         if machine_id != expected_id:
             problems.append(f"{number}: machine id should be {expected_id}")
@@ -121,8 +135,10 @@ def run(root: Path, fail: bool) -> int:
                 tail = body[link.end():]
                 if not tail.lstrip().startswith(expected):
                     problems.append(f"{source_rel}: Trace link to {rel_target} must carry {expected}")
-    if len(rows) != 118:
-        problems.append(f"registry has {len(rows)} rows; expected 118 (42 core + 76 corpus)")
+    counts = {layer: sum(1 for row in rows if row.get("layer") == layer) for layer in ("CORE", "SUBCORE")}
+    corpus = len(rows) - counts["CORE"] - counts["SUBCORE"]
+    if (counts["CORE"], counts["SUBCORE"], corpus) != (51, 4, 77):
+        problems.append(f"registry has {counts['CORE']} core, {counts['SUBCORE']} subcore and {corpus} corpus rows; expected 51, 4 and 77")
     print(f"CHAPTER-NUMBER-01: {len(rows)} registry rows; {len(problems)} findings")
     for problem in problems:
         print(f"  {problem}")

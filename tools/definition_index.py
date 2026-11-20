@@ -1,4 +1,4 @@
-"""Shared index builders for Chapter Five and operational definitions."""
+"""Shared index builders for Chapter Three and operational definitions."""
 
 from __future__ import annotations
 
@@ -23,30 +23,30 @@ from ch5_single_definition_audit import (  # noqa: E402
 from cjs_odef_format import guidepost_complete  # noqa: E402
 
 CJS3_FILES = (
-    "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
-    "corpus_joint_structure/cjs_05.120_participation_operations.md",
-    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
-    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
-    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
+    "corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_03.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_03.120_participation_operations.md",
+    "corpus_joint_structure/cjs_03.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_03.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_03.135_integrative_operations.md",
 )
-CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_05.115_audit_process.md"
+CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_03.115_audit_process.md"
 
 CH01_FILES = (
     "core_00.000_preamble.md",
-    "core_01.000_values_principles.md",
-    "core_01.010_values_principles_continuity_aim.md",
-    "core_01.020_interaction_interpretation.md",
-    "core_01.030_constitutional_interpretation.md",
-    "core_01.040_stewardship_capacity_principles.md",
-    "core_01.050_governance_incentive_application.md",
+    "core_02.000_values_principles.md",
+    "core_02.010_values_principles_continuity_aim.md",
+    "core_02.020_interaction_interpretation.md",
+    "core_02.030_constitutional_interpretation.md",
+    "core_02.040_stewardship_capacity_principles.md",
+    "core_02.050_governance_incentive_application.md",
 )
 
 CLUSTER_HEADING_RE = re.compile(
-    r"^##\s+(CJS-5\.(?:110|115|120|125|130|135)\s+§\d+)\s+(.+)$"
+    r"^##\s+(CJS-3\.(?:110|115|120|125|130|135)\s+§\d+)\s+(.+)$"
 )
 CH5_LINK_RE = re.compile(
-    r"(?:core_05[a-z_\-]+\.md|Chapter Five|chapter five)",
+    r"(?:core_05[a-z_\-]+\.md|Chapter Three|chapter five)",
     re.I,
 )
 CH5_TERM_LINK_RE = re.compile(
@@ -199,7 +199,7 @@ def _guidepost_flags(body: str) -> tuple[bool, bool, bool, bool]:
 
 
 def collect_ch5_entries(root: Path) -> list[Ch5Entry]:
-    """Index Chapter Five definitions with O/M/A/C guidepost bodies."""
+    """Index Chapter Three definitions with O/M/A/C guidepost bodies."""
     from collections import defaultdict
 
     memberships: dict[str, list[dict[str, str | int]]] = defaultdict(list)
@@ -402,7 +402,7 @@ def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
     if process_path.is_file():
         extra = process_path.read_text(encoding="utf-8")
         for cluster in clusters:
-            if cluster.cluster_id != "CJS-5.110 §3":
+            if cluster.cluster_id != "CJS-3.110 §3":
                 continue
             cluster.body = f"{cluster.body}\n\n{extra}"
             cluster.ch5_links = sorted(set(cluster.ch5_links + _extract_ch5_links(extra)))
@@ -410,7 +410,7 @@ def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
             if extra_read:
                 cluster.read_with = list(dict.fromkeys([*cluster.read_with, *extra_read]))
             process_cluster = Cjs3Cluster(
-                cluster_id="CJS-5.110 §3",
+                cluster_id="CJS-3.110 §3",
                 title=cluster.title,
                 file=CJS3_PROCESS_HOME,
                 start_line=1,
@@ -423,7 +423,7 @@ def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
 
 
 def collect_ch1_principles(root: Path) -> list[PrincipleRecord]:
-    """Index Preamble and Chapter One operative headings with O/M/A/C widget terms."""
+    """Index Preamble and Chapter Two operative headings with O/M/A/C widget terms."""
     principles: list[PrincipleRecord] = []
     for rel in CH01_FILES:
         path = root / rel
@@ -481,15 +481,15 @@ def ch5_term_lookup(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
 # Tetrad leg heads live in apex files as letter-form O/M/A/C without #### titles,
 # so collect_ch5_entries does not index them. Surface them for creep / anti-redefinition checks.
 TETRAD_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Participation", "core_05.025_apex_participation_leg.md", "#participation-constitutional"),
-    ("Oversight", "core_05.020_apex_oversight_leg.md", "#oversight-constitutional"),
-    ("Accountability", "core_05.005_apex_accountability_leg.md", "#accountability"),
-    ("Timeliness", "core_05.030_apex_timeliness_leg.md", "#timeliness-constitutional"),
+    ("Participation", "core_03.025_apex_participation_leg.md", "#participation-constitutional"),
+    ("Oversight", "core_03.020_apex_oversight_leg.md", "#oversight-constitutional"),
+    ("Accountability", "core_03.005_apex_accountability_leg.md", "#accountability"),
+    ("Timeliness", "core_03.030_apex_timeliness_leg.md", "#timeliness-constitutional"),
 )
 AIM_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Flourishing", "core_05.015_apex_flourishing_aim.md", "#flourishing-constitutional"),
-    ("Continuity", "core_05.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
-    ("Continuity (Constitutional Aim)", "core_05.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Flourishing", "core_03.015_apex_flourishing_aim.md", "#flourishing-constitutional"),
+    ("Continuity", "core_03.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Continuity (Constitutional Aim)", "core_03.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
 )
 
 
@@ -525,7 +525,7 @@ def apex_term_lookup() -> dict[str, Ch5Entry]:
 
 
 def collect_ch5_entries_with_apex(root: Path) -> list[Ch5Entry]:
-    """Chapter Five leaves plus synthetic apex heads used as O/M/A/C targets."""
+    """Chapter Three leaves plus synthetic apex heads used as O/M/A/C targets."""
     entries = list(collect_ch5_entries(root))
     seen = {entry.term.casefold() for entry in entries}
     for entry in apex_term_lookup().values():
@@ -536,7 +536,7 @@ def collect_ch5_entries_with_apex(root: Path) -> list[Ch5Entry]:
 
 
 def ch5_term_lookup_with_tetrad_apex(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
-    """Chapter Five leaf lookup plus Tetrad apex leg heads (Participation, Oversight, …)."""
+    """Chapter Three leaf lookup plus Tetrad apex leg heads (Participation, Oversight, …)."""
     lookup = ch5_term_lookup(entries)
     for key, entry in tetrad_apex_term_lookup().items():
         lookup.setdefault(key, entry)

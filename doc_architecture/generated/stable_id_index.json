@@ -6,262 +6,252 @@
       "status": "present"
     },
     {
-      "file": "core_01.000_values_principles.md",
+      "file": "core_01.000_constitutional_map.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.010_values_principles_continuity_aim.md",
+      "file": "core_02.000_values_principles.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.020_interaction_interpretation.md",
+      "file": "core_02.010_values_principles_continuity_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.030_constitutional_interpretation.md",
+      "file": "core_02.020_interaction_interpretation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.040_stewardship_capacity_principles.md",
+      "file": "core_02.030_constitutional_interpretation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.050_governance_incentive_application.md",
+      "file": "core_02.040_stewardship_capacity_principles.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_02.000_definition_structure.md",
+      "file": "core_02.050_governance_incentive_application.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_03.000_definition_integrity.md",
+      "file": "core_03.000_definitions_home.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_04.000_burden_traceability_verification.md",
+      "file": "core_03.005_apex_accountability_leg.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.000_definitions_home.md",
+      "file": "core_03.010_apex_continuity_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.005_apex_accountability_leg.md",
+      "file": "core_03.015_apex_flourishing_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.010_apex_continuity_aim.md",
+      "file": "core_03.020_apex_oversight_leg.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.015_apex_flourishing_aim.md",
+      "file": "core_03.025_apex_participation_leg.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.020_apex_oversight_leg.md",
+      "file": "core_03.030_apex_timeliness_leg.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.025_apex_participation_leg.md",
+      "file": "core_03.035_band_accountability.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.030_apex_timeliness_leg.md",
+      "file": "core_03.040_band_continuity.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.035_band_accountability.md",
+      "file": "core_03.050_band_oversight.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.040_band_continuity.md",
+      "file": "core_03.055_band_participation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.045_band_integrative.md",
+      "file": "core_03.060_band_performance.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.050_band_oversight.md",
+      "file": "core_05.000_charters.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.055_band_participation.md",
+      "file": "core_06.000_functional_independence_separation_of_duties.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05.060_band_performance.md",
+      "file": "core_07.000_independent_bodies.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_07.000_charters.md",
+      "file": "core_08.000_system_alignment_certification_evaluation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_08.000_functional_independence_separation_of_duties.md",
+      "file": "core_09.000_system_alignment_certification_forum_process_outcomes.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09.000_system_alignment_certification_evaluation.md",
+      "file": "core_10.000_system_alignment_certification_records_recertification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10.000_system_alignment_certification_forum_process_outcomes.md",
+      "file": "core_11.000_institutional_alignment_certification_evaluation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_11.000_system_alignment_certification_records_recertification.md",
+      "file": "core_12.000_institutional_alignment_certification_forum_process_outcomes.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_12.000_institutional_alignment_certification_evaluation.md",
+      "file": "core_13.000_institutional_alignment_certification_records_recertification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_13.000_institutional_alignment_certification_forum_process_outcomes.md",
+      "file": "core_14.000_standing_assessment.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_14.000_institutional_alignment_certification_records_recertification.md",
+      "file": "core_15.000_standing_measurement.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_15.000_standing_assessment.md",
+      "file": "core_16.000_standing_integration.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_16.000_standing_measurement.md",
+      "file": "core_17.000_contribution_consequences.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_17.000_standing_integration.md",
+      "file": "core_18.000_violation_consequences.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_18.000_contribution_consequences.md",
+      "file": "core_19.000_final_effect_restoration_enforcement.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_19.000_violation_consequences.md",
+      "file": "core_20.000_misconduct_designation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_20.000_final_effect_restoration_enforcement.md",
+      "file": "core_21.000_misconduct_pattern_applications.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_21.000_misconduct_designation.md",
+      "file": "core_22.000_forum.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_22.000_misconduct_pattern_applications.md",
+      "file": "core_23.000_forum_families_escalation_timeliness_support.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_23.000_forum.md",
+      "file": "core_24.000_enforcement.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_24.000_forum_families_escalation_timeliness_support.md",
+      "file": "core_25.000_special_enforcement.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_25.000_enforcement.md",
+      "file": "core_04.000_rights_part_a.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_26.000_special_enforcement.md",
+      "file": "core_04.010_rights_part_b.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.000_rights_part_a.md",
+      "file": "core_04.020_rights_part_c.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.010_rights_part_b.md",
+      "file": "core_04.030_rights_part_d.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.020_rights_part_c.md",
+      "file": "core_04.040_rights_part_e.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.030_rights_part_d.md",
+      "file": "core_26.000_governance.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.040_rights_part_e.md",
+      "file": "core_27.000_non_regression.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_27.000_governance.md",
+      "file": "core_28.000_amendment_ratification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_28.000_non_regression.md",
+      "file": "core_29.000_expansion_supremacy.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_29.000_amendment_ratification.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
-      "file": "core_30.000_expansion_supremacy.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
-      "file": "core_31.000_incorporation.md",
+      "file": "core_30.000_incorporation.md",
       "label": "core",
       "status": "present"
     },
@@ -290,205 +280,205 @@
     {
       "id": "CJS-R01",
       "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
-      "primary_owner": "[**CI-9.210 \u00a73**](../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)",
+      "primary_owner": "[**CI-8.210 \u00a73**](../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md)",
       "primary_attach": [
-        "CI-9.210 \u00a73"
+        "CI-8.210 \u00a73"
       ]
     },
     {
       "id": "CJS-R02",
-      "topic": "Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)",
-      "primary_owner": "[**CF-23.405 \u00a77**\u2013**CF-23.405 \u00a710**](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md)",
+      "topic": "Forum chambers, divisions, and designated panels (Chapter Twenty-Two families)",
+      "primary_owner": "[**CF-22.405 \u00a77**\u2013**CF-22.405 \u00a710**](../corpus_forum/cf_22.405_forum_formation_chamber_structure.md)",
       "primary_attach": [
-        "CF-23.405 \u00a77",
-        "CF-23.405 \u00a710"
+        "CF-22.405 \u00a77",
+        "CF-22.405 \u00a710"
       ]
     },
     {
       "id": "CJS-R03",
       "topic": "Lawful panel formation, disclosure, recusal, substitution, inability-to-form",
-      "primary_owner": "[**CF-23.410**](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md)",
+      "primary_owner": "[**CF-22.410**](../corpus_forum/cf_22.410_panel_formation_disclosure_recusal_bench_constitution.md)",
       "primary_attach": [
-        "CF-23.410"
+        "CF-22.410"
       ]
     },
     {
       "id": "CJS-R04",
       "topic": "Routing, intake, transfer, questions for ruling, representative treatment",
-      "primary_owner": "[**CF-23.415**](../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md)",
+      "primary_owner": "[**CF-22.415**](../corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md)",
       "primary_attach": [
-        "CF-23.415"
+        "CF-22.415"
       ]
     },
     {
       "id": "CJS-R05",
       "topic": "Appeal, secondary review, exhaustion",
-      "primary_owner": "[**CF-23.420**](../corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md)",
+      "primary_owner": "[**CF-22.420**](../corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md)",
       "primary_attach": [
-        "CF-23.420"
+        "CF-22.420"
       ]
     },
     {
       "id": "CJS-R06",
       "topic": "Forum integrity operations, anti-capture, anti-self-judging support",
-      "primary_owner": "[**CF-23.425**](../corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md)",
+      "primary_owner": "[**CF-22.425**](../corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md)",
       "primary_attach": [
-        "CF-23.425"
+        "CF-22.425"
       ]
     },
     {
       "id": "CJS-R07",
       "topic": "Forum forensic and analytical support",
-      "primary_owner": "[**CF-23.430**](../corpus_forum/cf_23.430_forum_forensic_analytical_support.md)",
+      "primary_owner": "[**CF-22.430**](../corpus_forum/cf_22.430_forum_forensic_analytical_support.md)",
       "primary_attach": [
-        "CF-23.430"
+        "CF-22.430"
       ]
     },
     {
       "id": "CJS-R08",
       "topic": "Independent investigative service and prosecution interface",
-      "primary_owner": "[**CF-23.435**](../corpus_forum/cf_23.435_independent_investigative_service_prosecution_interface.md)",
+      "primary_owner": "[**CF-22.435**](../corpus_forum/cf_22.435_independent_investigative_service_prosecution_interface.md)",
       "primary_attach": [
-        "CF-23.435"
+        "CF-22.435"
       ]
     },
     {
       "id": "CJS-R09",
       "topic": "Technical Forums and specialist chambers",
-      "primary_owner": "[**CF-23.440**](../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md)",
+      "primary_owner": "[**CF-22.440**](../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md)",
       "primary_attach": [
-        "CF-23.440"
+        "CF-22.440"
       ]
     },
     {
       "id": "CJS-R10",
       "topic": "Forum performance, backlog requirements, publication timeliness, accessibility",
-      "primary_owner": "[**CF-23.445**](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md)",
+      "primary_owner": "[**CF-22.445**](../corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md)",
       "primary_attach": [
-        "CF-23.445"
+        "CF-22.445"
       ]
     },
     {
       "id": "CJS-R11",
       "topic": "Forum continuity",
-      "primary_owner": "[**CF-23.450**](../corpus_forum/cf_23.450_forum_continuity.md)",
+      "primary_owner": "[**CF-22.450**](../corpus_forum/cf_22.450_forum_continuity.md)",
       "primary_attach": [
-        "CF-23.450"
+        "CF-22.450"
       ]
     },
     {
       "id": "CJS-R11A",
       "topic": "Fallback operation",
-      "primary_owner": "[**CF-23.455**](../corpus_forum/cf_23.455_fallback_operation.md)",
+      "primary_owner": "[**CF-22.455**](../corpus_forum/cf_22.455_fallback_operation.md)",
       "primary_attach": [
-        "CF-23.455"
+        "CF-22.455"
       ]
     },
     {
       "id": "CJS-R11B",
       "topic": "Emergency adjudication",
-      "primary_owner": "[**CF-23.460**](../corpus_forum/cf_23.460_emergency_adjudication.md)",
+      "primary_owner": "[**CF-22.460**](../corpus_forum/cf_22.460_emergency_adjudication.md)",
       "primary_attach": [
-        "CF-23.460"
+        "CF-22.460"
       ]
     },
     {
       "id": "CJS-R12",
       "topic": "Standard forum records, forms, and evidence artifacts",
-      "primary_owner": "[**CF-23.465**](../corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md)",
+      "primary_owner": "[**CF-22.465**](../corpus_forum/cf_22.465_standard_records_forms_evidence_artifacts.md)",
       "primary_attach": [
-        "CF-23.465"
+        "CF-22.465"
       ]
     },
     {
       "id": "CJS-R13",
       "topic": "Forum staffing, shared administration, structural review, structural records",
-      "primary_owner": "[**CF-23.470**](../corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md)",
+      "primary_owner": "[**CF-22.470**](../corpus_forum/cf_22.470_staffing_reserve_capacity_structural_records.md)",
       "primary_attach": [
-        "CF-23.470"
+        "CF-22.470"
       ]
     },
     {
       "id": "CJS-R14",
       "topic": "Institutional functional lanes and non-delegable splits",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md)",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md)",
       "primary_attach": [
-        "CI-8.205"
+        "CI-6.205"
       ]
     },
     {
       "id": "CJS-R15",
       "topic": "Contest-integrity monitoring (contest-pathway integrity, not merits)",
-      "primary_owner": "[**CI-8.215 \u00a73**](../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md)",
+      "primary_owner": "[**CI-6.215 \u00a73**](../corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md)",
       "primary_attach": [
-        "CI-8.215 \u00a73"
+        "CI-6.215 \u00a73"
       ]
     },
     {
       "id": "CJS-R16",
       "topic": "Cross-institution coordination, deadlock, and escalation",
-      "primary_owner": "[**CI-23.210**](../corpus_institutions/ci_23.210_cross_institution_coordination_escalation.md)",
+      "primary_owner": "[**CI-22.210**](../corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md)",
       "primary_attach": [
-        "CI-23.210"
+        "CI-22.210"
       ]
     },
     {
       "id": "CJS-R17",
       "topic": "Cross-implementation trust integrity (joint operation model)",
-      "primary_owner": "**CJS-31.110 \u00a73 \u2014 Cross-implementation trust integrity**",
+      "primary_owner": "**CJS-30.110 \u00a73 \u2014 Cross-implementation trust integrity**",
       "primary_attach": [
-        "CJS-31.110 \u00a73"
+        "CJS-30.110 \u00a73"
       ]
     },
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md), **CI-27.205**, **CI-6.215**, **CI-23.210**",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-26.205**, **CI-4.215**, **CI-22.210**",
       "primary_attach": [
-        "CI-8.205",
-        "CI-27.205",
-        "CI-6.215",
-        "CI-23.210"
+        "CI-6.205",
+        "CI-26.205",
+        "CI-4.215",
+        "CI-22.210"
       ]
     },
     {
       "id": "CJS-R19",
       "topic": "integrity assurance and resilience operations",
-      "primary_owner": "**CJS-5.110 \u00a76** (*Oversight: Integrity Assurance and Resilience Operations*)",
+      "primary_owner": "**CJS-3.110 \u00a76** (*Oversight: Integrity Assurance and Resilience Operations*)",
       "primary_attach": [
-        "CJS-5.110 \u00a76"
+        "CJS-3.110 \u00a76"
       ]
     },
     {
       "id": "CJS-R20",
       "topic": "Remedy parity and lock-to-remedy capacity",
-      "primary_owner": "[**CI-25.210**](../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md)",
+      "primary_owner": "[**CI-24.210**](../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md)",
       "primary_attach": [
-        "CI-25.210"
+        "CI-24.210"
       ]
     },
     {
       "id": "CJS-R21",
       "topic": "Capacity-failure routing",
-      "primary_owner": "[**CF-23.415**](../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md)",
+      "primary_owner": "[**CF-22.415**](../corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md)",
       "primary_attach": [
-        "CF-23.415"
+        "CF-22.415"
       ]
     },
     {
       "id": "CJS-R22",
       "topic": "Standing-Record custody, opening authority, and separation of duties",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) (*CI-8.205 \u00a72 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-8.205 \u00a76 System Charter or Institutional Charter field \u2014 Standing-Record custody*)",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md) (*CI-6.205 \u00a72 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-6.205 \u00a76 System Charter or Institutional Charter field \u2014 Standing-Record custody*)",
       "primary_attach": [
-        "CI-8.205"
+        "CI-6.205"
       ]
     },
     {
       "id": "CJS-R23",
       "topic": "Seat types, local role maps, and wrong-seat routing",
-      "primary_owner": "[**CI-27.205**](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) (*CI-27.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-27.205 \u00a75 role maps instantiate them*)",
+      "primary_owner": "[**CI-26.205**](../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md) (*CI-26.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-26.205 \u00a75 role maps instantiate them*)",
       "primary_attach": [
-        "CI-27.205"
+        "CI-26.205"
       ]
     }
   ],
@@ -496,68 +486,68 @@
     {
       "id": "CJS-R01",
       "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
-      "primary_owner": "[**CI-9.210 \u00a73**](../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)",
+      "primary_owner": "[**CI-8.210 \u00a73**](../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md)",
       "primary_attach": [
-        "CI-9.210 \u00a73"
+        "CI-8.210 \u00a73"
       ]
     },
     {
       "id": "CJS-R14",
       "topic": "Institutional functional lanes and non-delegable splits",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md)",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md)",
       "primary_attach": [
-        "CI-8.205"
+        "CI-6.205"
       ]
     },
     {
       "id": "CJS-R15",
       "topic": "Contest-integrity monitoring (contest-pathway integrity, not merits)",
-      "primary_owner": "[**CI-8.215 \u00a73**](../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md)",
+      "primary_owner": "[**CI-6.215 \u00a73**](../corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md)",
       "primary_attach": [
-        "CI-8.215 \u00a73"
+        "CI-6.215 \u00a73"
       ]
     },
     {
       "id": "CJS-R16",
       "topic": "Cross-institution coordination, deadlock, and escalation",
-      "primary_owner": "[**CI-23.210**](../corpus_institutions/ci_23.210_cross_institution_coordination_escalation.md)",
+      "primary_owner": "[**CI-22.210**](../corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md)",
       "primary_attach": [
-        "CI-23.210"
+        "CI-22.210"
       ]
     },
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md), **CI-27.205**, **CI-6.215**, **CI-23.210**",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-26.205**, **CI-4.215**, **CI-22.210**",
       "primary_attach": [
-        "CI-8.205",
-        "CI-27.205",
-        "CI-6.215",
-        "CI-23.210"
+        "CI-6.205",
+        "CI-26.205",
+        "CI-4.215",
+        "CI-22.210"
       ]
     },
     {
       "id": "CJS-R20",
       "topic": "Remedy parity and lock-to-remedy capacity",
-      "primary_owner": "[**CI-25.210**](../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md)",
+      "primary_owner": "[**CI-24.210**](../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md)",
       "primary_attach": [
-        "CI-25.210"
+        "CI-24.210"
       ]
     },
     {
       "id": "CJS-R22",
       "topic": "Standing-Record custody, opening authority, and separation of duties",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) (*CI-8.205 \u00a72 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-8.205 \u00a76 System Charter or Institutional Charter field \u2014 Standing-Record custody*)",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md) (*CI-6.205 \u00a72 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-6.205 \u00a76 System Charter or Institutional Charter field \u2014 Standing-Record custody*)",
       "primary_attach": [
-        "CI-8.205"
+        "CI-6.205"
       ]
     },
     {
       "id": "CJS-R23",
       "topic": "Seat types, local role maps, and wrong-seat routing",
-      "primary_owner": "[**CI-27.205**](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) (*CI-27.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-27.205 \u00a75 role maps instantiate them*)",
+      "primary_owner": "[**CI-26.205**](../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md) (*CI-26.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-26.205 \u00a75 role maps instantiate them*)",
       "primary_attach": [
-        "CI-27.205"
+        "CI-26.205"
       ]
     }
   ]

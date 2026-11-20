@@ -48,7 +48,7 @@ Where a translation and the English text differ, the English text is the one tha
 
 ## What is this?
 
-It has 2 articles of rights and a Preamble and Chapters 1–6.
+It has 2 articles of rights and a Preamble and Chapters 1–4.
 
 1. {Q1}
 2. {Q2}
@@ -140,7 +140,7 @@ ANNOUNCEMENT = f"""# Announcement
 Pinned to `{EDITION}` (effective 2026-01-01), pre-release.
 
 ```text
-The core text (the Preamble and Chapters One through Six) is binding.
+The core text (the Preamble and Chapters One through Four) is binding.
 
 {Q1}
 {Q2}
@@ -179,9 +179,9 @@ def build(root: Path) -> None:
     put("LICENSE", "Attribution: Karl Ernst and collaborating AI models (Claude Fable and Opus, ChatGPT), Sentient Constitution.\n")
     put("Makefile", MAKEFILE)
     put("core_00.000_preamble.md", PREAMBLE)
-    for number in range(1, 6):
+    for number in range(1, 4):
         put(f"core_{number:02d}.000_chapter.md", f"# Chapter {number}\n")
-    put("core_06.000_rights_part_a.md", "# Rights\n\n## Article I\n\n## Article II\n")
+    put("core_04.000_rights_part_a.md", "# Rights\n\n## Article I\n\n## Article II\n")
     put("translations/README.md", "| Espanol | [Open](es/README.md) |\n")
     put("translations/es/README.md", "# es\n")
     for rel in GENERATED:
@@ -223,7 +223,7 @@ class BaselineTests(Fixture):
     def test_helpers(self) -> None:
         self.assertEqual(roman_to_int("XXVIII"), 28)
         self.assertEqual(roman_to_int("XIV"), 14)
-        self.assertEqual(core_chapter_count(self.root), 6)
+        self.assertEqual(core_chapter_count(self.root), 4)
 
 
 class EditionTests(Fixture):
@@ -287,24 +287,24 @@ class StatusTests(Fixture):
 
 class ChapterTests(Fixture):
     def test_announcement_range_too_low(self) -> None:
-        self.edit("implementation/adoption/ANNOUNCEMENT.md", "Chapters One through Six", "Chapters One through One")
+        self.edit("implementation/adoption/ANNOUNCEMENT.md", "Chapters One through Four", "Chapters One through One")
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
         self.assertOnly("FRONT-DOOR-CHAPTERS-01")
 
     def test_wrapped_line_is_still_caught(self) -> None:
-        self.edit("implementation/adoption/ANNOUNCEMENT.md", "Chapters One through Six", "Chapters One\nthrough Nine")
+        self.edit("implementation/adoption/ANNOUNCEMENT.md", "Chapters One through Four", "Chapters One\nthrough Nine")
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
 
     def test_digit_range_in_readme(self) -> None:
-        self.edit("README.md", "Chapters 1–6", "Chapters 1–18")
+        self.edit("README.md", "Chapters 1–4", "Chapters 1–18")
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
 
     def test_other_ranges_are_not_core_claims(self) -> None:
-        self.edit("README.md", "Chapters 1–6.", "Chapters 1–6. See Chapters 2–4 and Chapter 5.")
+        self.edit("README.md", "Chapters 1–4.", "Chapters 1–4. See Chapters 2–4 and Chapter 5.")
         self.assertEqual(self.errors(), [])
 
     def test_new_chapter_makes_old_claim_stale(self) -> None:
-        (self.root / "core_07.000_new.md").write_text("# Three\n", encoding="utf-8")
+        (self.root / "core_05.000_new.md").write_text("# Three\n", encoding="utf-8")
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
 
 
@@ -314,17 +314,17 @@ class ArticleTests(Fixture):
         self.assertRule("FRONT-DOOR-ARTICLES-01")
 
     def test_new_article_makes_count_stale(self) -> None:
-        part = self.root / "core_06.000_rights_part_a.md"
+        part = self.root / "core_04.000_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n## Article III\n", encoding="utf-8")
         self.assertRule("FRONT-DOOR-ARTICLES-01")
 
     def test_sub_articles_do_not_count(self) -> None:
-        part = self.root / "core_06.000_rights_part_a.md"
+        part = self.root / "core_04.000_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n### Article II-D Something\n", encoding="utf-8")
         self.assertEqual(self.errors(), [])
 
     def test_gap_in_numerals(self) -> None:
-        part = self.root / "core_06.000_rights_part_a.md"
+        part = self.root / "core_04.000_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n## Article IV\n", encoding="utf-8")
         errors = self.assertRule("FRONT-DOOR-ARTICLES-01")
         self.assertTrue(any("not consecutive" in e for e in errors))

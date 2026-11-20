@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://constitution.sentient/schemas/ch06_assessment.schema.json",
   "title": "ch06_assessment",
-  "description": "Logical Chapter Sixteen measurement snapshot, issued as one of two separate, linked snapshot kinds: a contribution snapshot (Contribution Axis only) or a violation snapshot (Violation Axis only). Core keeps the two standing records separate (Chapters Fifteen to Twenty), so this schema does not carry both axes in one object, holds no combined or highest-of value, and holds no subject-level running total. A snapshot of one kind may point to its companion with linked_assessment_id; that pointer is a cross-reference only and carries nothing from the other snapshot. An axis with no verified standing record has no snapshot; absence is not a record and is not read as a zero. Semantic meaning and obligations are in core_15.000_standing_assessment.md and core_17.000_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Fifteen Verified inputs for standing and Chapter Five Violation Nature); allegations and forum-phase material are not standing inputs. Chapter Seventeen recency/currentness is a Question 3 gate/readiness input only and must not alter a snapshot's Contribution Axis slot or LEQU measurement. In Chapter Seventeen a lock controls over a contribution gate. A third, deprecated shape (legacyCombinedAssessment) is accepted so that records written before the split stay readable; new records must use a snapshot kind. Cross-field and precedence rules may require validators beyond this schema or custom assertions.",
+  "description": "Logical Chapter Fifteen measurement snapshot, issued as one of two separate, linked snapshot kinds: a contribution snapshot (Contribution Axis only) or a violation snapshot (Violation Axis only). Core keeps the two standing records separate (Chapters Fourteen to Nineteen), so this schema does not carry both axes in one object, holds no combined or highest-of value, and holds no subject-level running total. A snapshot of one kind may point to its companion with linked_assessment_id; that pointer is a cross-reference only and carries nothing from the other snapshot. An axis with no verified standing record has no snapshot; absence is not a record and is not read as a zero. Semantic meaning and obligations are in core_14.000_standing_assessment.md and core_16.000_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Fourteen Verified inputs for standing and Chapter Three Violation Nature); allegations and forum-phase material are not standing inputs. Chapter Sixteen recency/currentness is a Question 3 gate/readiness input only and must not alter a snapshot's Contribution Axis slot or LEQU measurement. In Chapter Sixteen a lock controls over a contribution gate. A third, deprecated shape (legacyCombinedAssessment) is accepted so that records written before the split stay readable; new records must use a snapshot kind. Cross-field and precedence rules may require validators beyond this schema or custom assertions.",
   "oneOf": [
     { "$ref": "#/$defs/contributionSnapshot" },
     { "$ref": "#/$defs/violationSnapshot" },
@@ -69,7 +69,7 @@
         "nine_slot": {
           "type": "object",
           "additionalProperties": false,
-          "description": "Optional numeric layer for the unified Chapter Sixteen proportional LEQU scale, contribution side only: nine shared 5x impact bands, anchored at s=7 = 1 LEQU. Conduct character, Chapter Seventeen recency/currentness, and Chapter Twenty-One designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
+          "description": "Optional numeric layer for the unified Chapter Fifteen proportional LEQU scale, contribution side only: nine shared 5x impact bands, anchored at s=7 = 1 LEQU. Conduct character, Chapter Sixteen recency/currentness, and Chapter Twenty designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
           "properties": {
             "c_unit": {
               "type": "number",
@@ -78,7 +78,7 @@
             },
             "contribution_slot": {
               "$ref": "#/$defs/nineSlotIndex",
-              "description": "Contribution impact slot under the shared Chapter Sixteen LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Seventeen recency/currentness."
+              "description": "Contribution impact slot under the shared Chapter Fifteen LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Sixteen recency/currentness."
             }
           }
         }
@@ -98,7 +98,7 @@
         "nine_slot": {
           "type": "object",
           "additionalProperties": false,
-          "description": "Optional numeric layer for the unified Chapter Sixteen proportional LEQU scale, violation side only. Conduct character and Chapter Twenty-One designation do not change the slot. No netting is permitted.",
+          "description": "Optional numeric layer for the unified Chapter Fifteen proportional LEQU scale, violation side only. Conduct character and Chapter Twenty designation do not change the slot. No netting is permitted.",
           "properties": {
             "violation_lequ_loss": {
               "type": "number",
@@ -107,7 +107,7 @@
             },
             "violation_slot": {
               "$ref": "#/$defs/nineSlotIndex",
-              "description": "Violation impact slot assigned from violation_lequ_loss under the shared Chapter Fifteen bands."
+              "description": "Violation impact slot assigned from violation_lequ_loss under the shared Chapter Fourteen bands."
             }
           }
         }
@@ -160,15 +160,15 @@
     "designationBlock": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Optional Chapter Twenty-One designation data. Chapter Sixteen supplies the fixed impact slot; Chapter Twenty-One may attach the corresponding anti-constitutional-misconduct designation without changing it.",
+      "description": "Optional Chapter Twenty designation data. Chapter Fifteen supplies the fixed impact slot; Chapter Twenty may attach the corresponding anti-constitutional-misconduct designation without changing it.",
       "properties": {
         "slot": {
           "$ref": "#/$defs/designationSlot",
-          "description": "Existing Chapter Sixteen impact slot to which the Chapter Twenty-One designation attaches; Chapter Twenty-One does not assign this number."
+          "description": "Existing Chapter Fifteen impact slot to which the Chapter Twenty designation attaches; Chapter Twenty does not assign this number."
         },
         "label": {
           "$ref": "#/$defs/designationLabel",
-          "description": "Canonical Chapter Twenty-One anti-constitutional-misconduct designation."
+          "description": "Canonical Chapter Twenty anti-constitutional-misconduct designation."
         },
         "tier": {
           "$ref": "#/$defs/designationTier",
@@ -204,7 +204,7 @@
         "rationale_uri": { "type": "string", "format": "uri" },
         "axis_one": { "$ref": "#/$defs/axisOne" },
         "axis_two": {
-          "description": "Omit or null only when the record asserts no adverse Chapter Fifteen violation typing for the declared scope.",
+          "description": "Omit or null only when the record asserts no adverse Chapter Fourteen violation typing for the declared scope.",
           "oneOf": [{ "type": "null" }, { "$ref": "#/$defs/axisTwoBody" }]
         },
         "joint": {
@@ -230,7 +230,7 @@
               "type": "number",
               "minimum": 0,
               "deprecated": true,
-              "description": "Retired. Historical records may contain a recency-weighted contribution sum. Read-only; must not derive, raise, or lower a Chapter Sixteen slot or LEQU measurement."
+              "description": "Retired. Historical records may contain a recency-weighted contribution sum. Read-only; must not derive, raise, or lower a Chapter Fifteen slot or LEQU measurement."
             },
             "contribution_slot": { "$ref": "#/$defs/nineSlotIndex" },
             "violation_lequ_loss": { "type": "number", "minimum": 0 },

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Split Chapter One §8.3–§8.5 into new §14 Market Structure; renumber §9–§13 → §10–§14."""
+"""Split Chapter Two §8.3–§8.5 into new §14 Market Structure; renumber §9–§13 → §10–§14."""
 
 from __future__ import annotations
 
@@ -45,20 +45,20 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00.000_preamble.md#material-stake) scaling (especially [§14.2 Pro-Competition and Anti-Domination](#142-pro-competition-and-anti-domination)).
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§13 Shared-System Capacity](#13-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [7. Governance Under Stewardship Discipline](#12-governance-under-stewardship-discipline).
-- Downstream: [Chapter Thirteen §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) ([Chapter One §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)).
-- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06.005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XX: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity).
+- Downstream: [Chapter Twelve §7](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) ([Chapter Two §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)).
+- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_04.005_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_04.005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XX: Interoperability, Portability, and Exit Integrity](core_04.015_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Market Structure](core_05.035_band_accountability.md#market-structure-constitutional) · [O](core_05.035_band_accountability.md#market-structure-constitutional) · [E](core_05.035_band_accountability.md#market-structure-constitutional-e) · [C](core_05.035_band_accountability.md#market-structure-constitutional-c)
-- [Concentration Threshold](core_05.035_band_accountability.md#concentration-threshold-constitutional) · [O](core_05.035_band_accountability.md#concentration-threshold-constitutional) · [E](core_05.035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05.035_band_accountability.md#concentration-threshold-constitutional-c)
-- [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [E](core_05.035_band_accountability.md#contestability-e) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) · [O](core_05.050_band_oversight.md#proxy-divergence) · [E](core_05.050_band_oversight.md#proxy-divergence-e) · [C](core_05.050_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05.040_band_continuity.md#dependency) · [O](core_05.040_band_continuity.md#dependency) · [E](core_05.040_band_continuity.md#dependency-e) · [C](core_05.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) · [O](core_05.035_band_accountability.md#meaningful-agency-o) · [E](core_05.055_band_participation.md#meaningful-agency-e) · [C](core_05.055_band_participation.md#meaningful-agency-c)
+- [Market Structure](core_03.035_band_accountability.md#market-structure-constitutional) · [O](core_03.035_band_accountability.md#market-structure-constitutional) · [E](core_03.035_band_accountability.md#market-structure-constitutional-e) · [C](core_03.035_band_accountability.md#market-structure-constitutional-c)
+- [Concentration Threshold](core_03.035_band_accountability.md#concentration-threshold-constitutional) · [O](core_03.035_band_accountability.md#concentration-threshold-constitutional) · [E](core_03.035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_03.035_band_accountability.md#concentration-threshold-constitutional-c)
+- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [E](core_03.035_band_accountability.md#contestability-e) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) · [O](core_03.050_band_oversight.md#proxy-divergence) · [E](core_03.050_band_oversight.md#proxy-divergence-e) · [C](core_03.050_band_oversight.md#proxy-divergence-c)
+- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [E](core_03.040_band_continuity.md#dependency-e) · [C](core_03.040_band_continuity.md#dependency-c)
+- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.035_band_accountability.md#meaningful-agency-o) · [E](core_03.055_band_participation.md#meaningful-agency-e) · [C](core_03.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -119,7 +119,7 @@ def split_part_b(text: str) -> str:
         "",
     )
     before = before.replace(
-        "- [Concentration Threshold](core_05.035_band_accountability.md#concentration-threshold-constitutional) · [O](core_05.035_band_accountability.md#concentration-threshold-constitutional) · [E](core_05.035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05.035_band_accountability.md#concentration-threshold-constitutional-c)\n",
+        "- [Concentration Threshold](core_03.035_band_accountability.md#concentration-threshold-constitutional) · [O](core_03.035_band_accountability.md#concentration-threshold-constitutional) · [E](core_03.035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_03.035_band_accountability.md#concentration-threshold-constitutional-c)\n",
         "",
     )
     before = before.replace(
@@ -143,7 +143,7 @@ def split_part_b(text: str) -> str:
     market_block = market_block.replace("**§14.3**", "**§14.1**")
     market_block = market_block.replace("**§8.4**", "**§14.2**")
     market_block = market_block.replace("**§8.5**", "**§14.3**")
-    market_block = market_block.replace("[§8.4.2 Proxy-Divergence Invalidation](#842-proxy-divergence-invalidation)", "[Chapter One §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)")
+    market_block = market_block.replace("[§8.4.2 Proxy-Divergence Invalidation](#842-proxy-divergence-invalidation)", "[Chapter Two §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)")
     market_block = market_block.replace("above the **§14** floor", "above the **§13** floor")
     market_block = market_block.replace("the **§14** non-concentration discipline", "the **§13** non-concentration discipline")
     market_block = market_block.replace("The non-concentration discipline in **§14**", "The non-concentration discipline in **§13**")
@@ -151,7 +151,7 @@ def split_part_b(text: str) -> str:
     market_block = market_block.replace("nullify the **§14** floor, the **§14.3** threshold mechanism, or **§8.4** anti-domination discipline", "nullify the **§13** floor, the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
     market_block = market_block.replace("under the **§14** non-concentration discipline and **§8.4** anti-domination rules", "under the **§13** non-concentration discipline and **§14.2** anti-domination rules")
     market_block = market_block.replace("the **§14.3** threshold mechanism, or **§8.4** anti-domination discipline", "the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
-    market_block = market_block.replace("does not narrow Article III-C, Article V, Article XX, **§8.5**, or Chapter Thirteen", "does not narrow Article III-C, Article V, Article XX, **§14.3**, or Chapter Thirteen")
+    market_block = market_block.replace("does not narrow Article III-C, Article V, Article XX, **§8.5**, or Chapter Twelve", "does not narrow Article III-C, Article V, Article XX, **§14.3**, or Chapter Twelve")
 
     # Update anchors in market block
     market_block = market_block.replace(
@@ -211,17 +211,17 @@ def split_part_b(text: str) -> str:
 
     # Insert legacy anchors before legacy block end
     legacy_insert = "<a id=\"12-integrated-application\"></a>\n"
-    if legacy_insert in text and "id=\"83-concentration" not in text.split("Legacy Chapter One")[1][:500]:
+    if legacy_insert in text and "id=\"83-concentration" not in text.split("Legacy Chapter Two")[1][:500]:
         text = text.replace(
-            "<!-- Legacy Chapter One anchor redirects",
-            LEGACY_ANCHORS + "<!-- Legacy Chapter One anchor redirects",
+            "<!-- Legacy Chapter Two anchor redirects",
+            LEGACY_ANCHORS + "<!-- Legacy Chapter Two anchor redirects",
             1,
         )
 
     # File metadata
     text = text.replace(
-        "It contains **Chapter One, Part B** (§§6–13).",
-        "It contains **Chapter One, Part B** (§§6–14).",
+        "It contains **Chapter Two, Part B** (§§6–13).",
+        "It contains **Chapter Two, Part B** (§§6–14).",
     )
     text = text.replace(
         "**Reading arc:** §6 stewardship → §7 governance discipline → §8 capacity → §9 tradeoffs → §10 whole-system evaluation → §§11–14 agency, integration, and override limits.",
@@ -271,32 +271,32 @@ def renumber_internal_refs(text: str) -> str:
     # Apply to tradeoff block only after market structure inserted - whole file pass with subsection first
 
     subsection_pairs = [
-        ("§9.4.2", "Chapter One §6.4.2"),
-        ("§9.4.1", "Chapter One §6.4.1"),
-        ("§9.4", "Chapter One §6.4"),
-        ("§14.3.2", "Chapter One §6.3.2"),
-        ("§14.3.1", "Chapter One §6.3.1"),
-        ("§14.3", "Chapter One §6.3"),
-        ("§14.2.2", "Chapter One §6.2.2"),
-        ("§14.2.1", "Chapter One §6.2.1"),
-        ("§14.2", "Chapter One §6.2"),
-        ("§14.1.4", "Chapter One §8.1.4"),
-        ("§14.1.3", "Chapter One §8.1.3"),
-        ("§14.1.2", "Chapter One §8.1.2"),
-        ("§14.1.1", "Chapter One §8.1.1"),
-        ("§14.1", "Chapter One §8.1"),
+        ("§9.4.2", "Chapter Two §6.4.2"),
+        ("§9.4.1", "Chapter Two §6.4.1"),
+        ("§9.4", "Chapter Two §6.4"),
+        ("§14.3.2", "Chapter Two §6.3.2"),
+        ("§14.3.1", "Chapter Two §6.3.1"),
+        ("§14.3", "Chapter Two §6.3"),
+        ("§14.2.2", "Chapter Two §6.2.2"),
+        ("§14.2.1", "Chapter Two §6.2.1"),
+        ("§14.2", "Chapter Two §6.2"),
+        ("§14.1.4", "Chapter Two §8.1.4"),
+        ("§14.1.3", "Chapter Two §8.1.3"),
+        ("§14.1.2", "Chapter Two §8.1.2"),
+        ("§14.1.1", "Chapter Two §8.1.1"),
+        ("§14.1", "Chapter Two §8.1"),
         ("§8.5.2", "§14.3.2"),
         ("§8.5.1", "§14.3.1"),
         ("§8.5", "§14.3"),
-        ("§8.4.2", "Chapter One §6.4.2"),
+        ("§8.4.2", "Chapter Two §6.4.2"),
         ("§8.4", "§14.2"),
         ("§8.3", "§14.1"),
         ("§13.", "§14."),
         ("§12.", "§13."),
         ("§11.", "§12."),
-        ("Chapter One §6.2 ", "§11.2 "),
-        ("Chapter One §8.1.", "§11.1."),
-        ("Chapter One §8.1 ", "§11.1 "),
+        ("Chapter Two §6.2 ", "§11.2 "),
+        ("Chapter Two §8.1.", "§11.1."),
+        ("Chapter Two §8.1 ", "§11.1 "),
         ("§10 ", "§11 "),
     ]
     for old, new in subsection_pairs:
@@ -304,11 +304,11 @@ def renumber_internal_refs(text: str) -> str:
 
     # Fix double-bumps where §9 market structure became §10
     text = text.replace("§10 Market Structure", "§14 Market Structure")
-    text = text.replace("Chapter One §8.1 Concentration", "§14.1 Concentration")
-    text = text.replace("Chapter One §6.2 Pro-Competition", "§14.2 Pro-Competition")
-    text = text.replace("Chapter One §6.3 Consolidation", "§14.3 Consolidation")
-    text = text.replace("Chapter One §6.3.1 ", "§14.3.1 ")
-    text = text.replace("Chapter One §6.3.2 ", "§14.3.2 ")
+    text = text.replace("Chapter Two §8.1 Concentration", "§14.1 Concentration")
+    text = text.replace("Chapter Two §6.2 Pro-Competition", "§14.2 Pro-Competition")
+    text = text.replace("Chapter Two §6.3 Consolidation", "§14.3 Consolidation")
+    text = text.replace("Chapter Two §6.3.1 ", "§14.3.1 ")
+    text = text.replace("Chapter Two §6.3.2 ", "§14.3.2 ")
 
     # Hash link bumps for tradeoffs/evaluation
     hash_pairs = [
@@ -345,11 +345,11 @@ def renumber_internal_refs(text: str) -> str:
     # Section references in prose
     text = text.replace("**§§6–10**", "**§§6–11**")
     text = text.replace("**Section 10**", "**Section 11**")
-    text = text.replace("**Chapter One §8.1 Required Evaluation Factors**", "**§11.1 Required Evaluation Factors**")
-    text = text.replace("[§9 Interaction and Conflict Resolution]", "[Chapter One §6 Interaction and Conflict Resolution]")
+    text = text.replace("**Chapter Two §8.1 Required Evaluation Factors**", "**§11.1 Required Evaluation Factors**")
+    text = text.replace("[§9 Interaction and Conflict Resolution]", "[Chapter Two §6 Interaction and Conflict Resolution]")
     text = text.replace("[9. Interaction and Conflict Resolution](#9-interaction-and-conflict-resolution)", "[5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution)")
-    text = text.replace("[§8.4.2 Proxy-Divergence Invalidation](#842-proxy-divergence-invalidation)", "[Chapter One §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)")
-    text = text.replace("§13.1.1–§13.1.3", "Chapter One §8.1.1–Chapter One §8.1.3")
+    text = text.replace("[§8.4.2 Proxy-Divergence Invalidation](#842-proxy-divergence-invalidation)", "[Chapter Two §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)")
+    text = text.replace("§13.1.1–§13.1.3", "Chapter One §8.1.1–Chapter Two §8.1.3")
     text = text.replace("[§8.3 Concentration Threshold Mechanism](#83-concentration-threshold-mechanism-adopter-tunable)", "[§14.1 Concentration Threshold Mechanism](#141-concentration-threshold-mechanism-adopter-tunable)")
     text = text.replace("[§8.4 Pro-Competition and Anti-Domination](#84-pro-competition-and-anti-domination)", "[§14.2 Pro-Competition and Anti-Domination](#142-pro-competition-and-anti-domination)")
 
@@ -367,31 +367,31 @@ def migrate_corpus_file(path: Path, content: str) -> str:
 
     # Section reference replacements (order matters)
     ref_pairs = [
-        ("Chapter One §8.5", "Chapter One §14.3"),
-        ("Chapter One §8.4", "Chapter One §14.2"),
-        ("Chapter One §8.3", "Chapter One §14.1"),
+        ("Chapter Two §8.5", "Chapter Two §14.3"),
+        ("Chapter Two §8.4", "Chapter Two §14.2"),
+        ("Chapter Two §8.3", "Chapter Two §14.1"),
         ("§8.5", "§14.3"),
         ("§8.4", "§14.2"),
         ("§8.3", "§14.1"),
-        ("§9.4.2", "Chapter One §6.4.2"),
-        ("§9.4.1", "Chapter One §6.4.1"),
-        ("§9.4", "Chapter One §6.4"),
-        ("§14.3.2", "Chapter One §6.3.2"),
-        ("§14.3.1", "Chapter One §6.3.1"),
-        ("§14.3 Freedom", "Chapter One §6.3 Freedom"),
-        ("§14.2 Epistemic", "Chapter One §6.2 Epistemic"),
-        ("§14.1.4", "Chapter One §8.1.4"),
-        ("§14.1.3", "Chapter One §8.1.3"),
-        ("§14.1.2", "Chapter One §8.1.2"),
-        ("§14.1.1", "Chapter One §8.1.1"),
-        ("§14.1 Core", "Chapter One §8.1 Core"),
-        ("§9 Interaction", "Chapter One §6 Interaction and Conflict Resolution"),
-        ("Chapter One §8.1 Required", "§11.1 Required"),
-        ("Chapter One §6.2 Read-with", "§11.2 Read-with"),
-        ("§10 Systemic", "Chapter One §15 Systemic Evaluation Requirement"),
-        ("§11 Freedom", "Chapter One §5 Freedom"),
-        ("§12 Prohibition", "Chapter One §7 Prohibition on Absolute Override"),
-        ("§13 Integrated", "Chapter One §16 Integrated Application"),
+        ("§9.4.2", "Chapter Two §6.4.2"),
+        ("§9.4.1", "Chapter Two §6.4.1"),
+        ("§9.4", "Chapter Two §6.4"),
+        ("§14.3.2", "Chapter Two §6.3.2"),
+        ("§14.3.1", "Chapter Two §6.3.1"),
+        ("§14.3 Freedom", "Chapter Two §6.3 Freedom"),
+        ("§14.2 Epistemic", "Chapter Two §6.2 Epistemic"),
+        ("§14.1.4", "Chapter Two §8.1.4"),
+        ("§14.1.3", "Chapter Two §8.1.3"),
+        ("§14.1.2", "Chapter Two §8.1.2"),
+        ("§14.1.1", "Chapter Two §8.1.1"),
+        ("§14.1 Core", "Chapter Two §8.1 Core"),
+        ("§9 Interaction", "Chapter Two §6 Interaction and Conflict Resolution"),
+        ("Chapter Two §8.1 Required", "§11.1 Required"),
+        ("Chapter Two §6.2 Read-with", "§11.2 Read-with"),
+        ("§10 Systemic", "Chapter Two §15 Systemic Evaluation Requirement"),
+        ("§11 Freedom", "Chapter Two §5 Freedom"),
+        ("§12 Prohibition", "Chapter Two §7 Prohibition on Absolute Override"),
+        ("§13 Integrated", "Chapter Two §16 Integrated Application"),
         ("#914-minimization-of-avoidable-burden", "#614-minimization-of-avoidable-burden"),
         ("#913-minimization-of-harm", "#613-minimization-of-harm"),
         ("#912-necessity", "#612-necessity"),
@@ -416,28 +416,28 @@ def migrate_corpus_file(path: Path, content: str) -> str:
         ("#852-ceiling-discipline-adopter-requirements", "#1432-ceiling-discipline-adopter-requirements"),
         ("#81-core-tradeoff-principles", "#61-core-tradeoff-principles"),
         ("#82-epistemic-disclosure-constraints", "#62-epistemic-disclosure-constraints"),
-        ("Chapter One §9.4.2", "Chapter One §3.4.2"),
-        ("Chapter One §9.4.1", "Chapter One §3.4.1"),
-        ("Chapter One §9.4", "Chapter One §6.4"),
-        ("Chapter One §14.3.2", "Chapter One §6.3.2"),
-        ("Chapter One §14.3.1", "Chapter One §6.3.1"),
-        ("Chapter One §14.3", "Chapter One §6.3"),
-        ("Chapter One §14.2 Constitutional Efficiency", "Chapter One §13.2 Constitutional Efficiency"),
-        ("Chapter One §14.2 Epistemic", "Chapter One §6.2 Epistemic"),
-        ("Chapter One §14.1.4", "Chapter One §14.1.4"),
-        ("Chapter One §14.1.3", "Chapter One §14.1.3"),
-        ("Chapter One §14.1.2", "Chapter One §14.1.2"),
-        ("Chapter One §14.1.1", "Chapter One §14.1.1"),
-        ("Chapter One §14.1 Core", "Chapter One §14.1 Core"),
-        ("Chapter One §9 Interaction", "Chapter One §6 Interaction and Conflict Resolution"),
-        ("Chapter One §14.1 Required", "Chapter One §11.1 Required"),
-        ("Chapter One §15 Systemic Evaluation Requirement", "Chapter One §15 Systemic Evaluation Requirement"),
-        ("Chapter One §5 Freedom", "Chapter One §5 Freedom"),
-        ("Chapter One §7 Prohibition on Absolute Override", "Chapter One §7 Prohibition on Absolute Override"),
-        ("Chapter One §16 Integrated Application", "Chapter One §16 Integrated Application"),
-        ("Chapter One §6 non-concentration", "Chapter One §14 non-concentration"),
-        ("Chapter One §11.4", "Chapter One §14.2"),
-        ("Chapter One §6.5", "Chapter One §14.3"),
+        ("Chapter Two §9.4.2", "Chapter Two §3.4.2"),
+        ("Chapter Two §9.4.1", "Chapter Two §3.4.1"),
+        ("Chapter Two §9.4", "Chapter Two §6.4"),
+        ("Chapter Two §14.3.2", "Chapter Two §6.3.2"),
+        ("Chapter Two §14.3.1", "Chapter Two §6.3.1"),
+        ("Chapter Two §14.3", "Chapter Two §6.3"),
+        ("Chapter Two §14.2 Constitutional Efficiency", "Chapter Two §13.2 Constitutional Efficiency"),
+        ("Chapter Two §14.2 Epistemic", "Chapter Two §6.2 Epistemic"),
+        ("Chapter Two §14.1.4", "Chapter Two §14.1.4"),
+        ("Chapter Two §14.1.3", "Chapter Two §14.1.3"),
+        ("Chapter Two §14.1.2", "Chapter Two §14.1.2"),
+        ("Chapter Two §14.1.1", "Chapter Two §14.1.1"),
+        ("Chapter Two §14.1 Core", "Chapter Two §14.1 Core"),
+        ("Chapter Two §9 Interaction", "Chapter Two §6 Interaction and Conflict Resolution"),
+        ("Chapter Two §14.1 Required", "Chapter Two §11.1 Required"),
+        ("Chapter Two §15 Systemic Evaluation Requirement", "Chapter Two §15 Systemic Evaluation Requirement"),
+        ("Chapter Two §5 Freedom", "Chapter Two §5 Freedom"),
+        ("Chapter Two §7 Prohibition on Absolute Override", "Chapter Two §7 Prohibition on Absolute Override"),
+        ("Chapter Two §16 Integrated Application", "Chapter Two §16 Integrated Application"),
+        ("Chapter Two §6 non-concentration", "Chapter Two §14 non-concentration"),
+        ("Chapter Two §11.4", "Chapter Two §14.2"),
+        ("Chapter Two §6.5", "Chapter Two §14.3"),
         ("**§5** non-concentration", "**§13** non-concentration"),
         ("**§11.4**", "**§14.2**"),
         ("**§6.5**", "**§14.3**"),
@@ -447,9 +447,9 @@ def migrate_corpus_file(path: Path, content: str) -> str:
 
     # Fix over-replacement of §9 market structure references in files that got §10
     if path != PART_B:
-        content = content.replace("Chapter One §14.1 Concentration", "Chapter One §14.1 Concentration")
-        content = content.replace("Chapter One §6.2 Pro-Competition", "Chapter One §14.2 Pro-Competition")
-        content = content.replace("Chapter One §6.3 Consolidation", "Chapter One §14.3 Consolidation")
+        content = content.replace("Chapter Two §14.1 Concentration", "Chapter Two §14.1 Concentration")
+        content = content.replace("Chapter Two §6.2 Pro-Competition", "Chapter Two §14.2 Pro-Competition")
+        content = content.replace("Chapter Two §6.3 Consolidation", "Chapter Two §14.3 Consolidation")
 
     return content if content != original else content
 

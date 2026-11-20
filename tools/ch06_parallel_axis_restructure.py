@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Restructure Chapter Nine: §4 LEQU both axes (4.1/4.2); §5 classification both axes (5.1/5.2); drop §6.
+"""Restructure Chapter Eight: §4 LEQU both axes (4.1/4.2); §5 classification both axes (5.1/5.2); drop §6.
 
 ONE-TIME MIGRATION — do not re-run after cut is applied. Global ``section 5`` / ``section 6``
 replacements corrupt other chapters' internal numbering. Use ``ch06_fix_crossref_corruption.py``
@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_11.000_standing_assessment.md"
+CH06 = ROOT / "core_10.000_standing_assessment.md"
 
 SECTION_4_START = "<a id=\"32-constitutional-outcome-baseline-for-slots\"></a>"
 CONTINUATION = "\n\n---\n\n**Continuation.**"
@@ -40,7 +40,7 @@ For this section, a **full-life-equivalent constitutional benefit** means verifi
 
 **Examples of what counts toward contribution (slot movement up):**
 
-Each row ties verified contribution benefit to the [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01.005_values_principles.md#two-constitutional-aims). **Triad leg(s)** name the dominant governance hook; **Primary aim(s)** name the dominant constitutional objective. Full slot assignment still requires **sections 2** and **5.1**.
+Each row ties verified contribution benefit to the [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_02.005_values_principles.md#two-constitutional-aims). **Triad leg(s)** name the dominant governance hook; **Primary aim(s)** name the dominant constitutional objective. Full slot assignment still requires **sections 2** and **5.1**.
 
 | Type of Benefit | What It Looks Like | Triad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ The claimed benefit counts only to the extent it remains traceable, non-external
 
 **How slots map to LEQU scale on the contribution side:**
 
-Same [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01.005_values_principles.md#two-constitutional-aims) discipline as the examples table above. Higher slots add **Continuity** and broader Triad legs as verified benefit scales across people, time, and institutions.
+Same [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_02.005_values_principles.md#two-constitutional-aims) discipline as the examples table above. Higher slots add **Continuity** and broader Triad legs as verified benefit scales across people, time, and institutions.
 
 | `s` | Contribution Level | Roughly Equivalent To... | Triad leg(s) | Primary aim(s) |
 | ---: | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ Same [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [T
 
 **Examples of what counts toward violation severity (slot movement up):**
 
-Each row ties verified constitutional loss to the [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01.005_values_principles.md#two-constitutional-aims). Full operative severity assignment still requires **sections 2** and **5.2**.
+Each row ties verified constitutional loss to the [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_02.005_values_principles.md#two-constitutional-aims). Full operative severity assignment still requires **sections 2** and **5.2**.
 
 | Type of Loss or Danger | What It Looks Like | Triad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
@@ -91,11 +91,11 @@ Each row ties verified constitutional loss to the [Constitutional Triad](core_00
 | Degraded Safety, Truth, or auditability | Concealment, misinformation, broken records, inaccessible challenge paths, or unreviewable aggregation | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 | System capture or dependency abuse | Structural enablement, dependency-asymmetry abuse, anti-evasion design, or capture of accountability pathways | **Accountability**, **Participation** | **Continuity**, **Flourishing** |
 
-The claimed violation severity counts only to the extent it rests on verified violation findings that remain traceable, bounded, auditable, and contestable under **Chapters Two through Four**. Allegations, provisional tags, forum-phase narratives, and intake-only labels may support routing and triage under [Chapter Fourteen](core_15.000_forum.md#chapter-fourteen-forums-and-jurisdiction). They do not supply **violation nature** for standing unless they produce auditable, contestable findings. Positive contribution does not offset, average down, excuse, cure, or relabel adverse findings.
+The claimed violation severity counts only to the extent it rests on verified violation findings that remain traceable, bounded, auditable, and contestable under **Subcores 3-A to 3-C**. Allegations, provisional tags, forum-phase narratives, and intake-only labels may support routing and triage under [Chapter Thirteen](core_14.000_forum.md#chapter-thirteen-forums-and-jurisdiction). They do not supply **violation nature** for standing unless they produce auditable, contestable findings. Positive contribution does not offset, average down, excuse, cure, or relabel adverse findings.
 
 **How slots map to LEQU scale on the violation side:**
 
-Same Triad and Aims discipline as the examples table above. Higher slots add **Continuity** emphasis and broader accountability hooks as verified loss scales across people, institutions, and time. Operative criteria for each level are in **section 5.2**; final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Thirteen**.
+Same Triad and Aims discipline as the examples table above. Higher slots add **Continuity** emphasis and broader accountability hooks as verified loss scales across people, institutions, and time. Operative criteria for each level are in **section 5.2**; final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Twelve**.
 
 | `s` | Violation Level | Roughly Equivalent To... | Triad leg(s) | Primary aim(s) |
 | ---: | --- | --- | --- | --- |
@@ -109,14 +109,14 @@ Same Triad and Aims discipline as the examples table above. Higher slots add **C
 | 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost** or structural cross-institutional constitutional damage | **Accountability** | **Continuity** |
 | 9 | **Pernicious anti-constitutional misconduct** | Worst-case systemic, intergenerational, or civilizational constitutional harm | **Accountability** | **Continuity** |
 
-Adopted implementation may publish calibrated units, evidentiary methods, and examples for full-life-equivalent benefit or loss. Those materials must remain subordinate to this section, **sections 5.1 and 5.2**, **Table 2**, **Chapter One**, and the **Chapter Six** Rights Floor.
+Adopted implementation may publish calibrated units, evidentiary methods, and examples for full-life-equivalent benefit or loss. Those materials must remain subordinate to this section, **sections 5.1 and 5.2**, **Table 2**, **Chapter Two**, and the **Chapter Four** Rights Floor.
 
 
 <a id="33-primary-category-defaults-and-lequ-slot-baseline"></a>
 
 ### 5. Primary category defaults — Contribution Axis and Violation Axis
 
-*In plain terms: This section translates the abstract nine-slot scale into operative categories on each axis — contribution under **Chapter One §8.1**, violation under **Chapter One §6.2** — using the LEQU calibration in **section 4**. The two subsections are parallel; read them side by side, not as a merged score.*
+*In plain terms: This section translates the abstract nine-slot scale into operative categories on each axis — contribution under **Chapter Two §8.1**, violation under **Chapter Two §6.2** — using the LEQU calibration in **section 4**. The two subsections are parallel; read them side by side, not as a merged score.*
 
 **Primary band keys.** Adopted implementation may use stable **C-** contribution-band interchange keys (**C-BL**, **C-PC**, **C-SP**, **C-CH**) and **V-** violation-label keys for interoperable records. Those keys support storage and exchange; operative meaning remains in this chapter's tables. See [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
@@ -126,7 +126,7 @@ Adopted implementation may publish calibrated units, evidentiary methods, and ex
 
 **Table 2** connects **Table 1** display labels to operative Contribution Axis rules. Standing records under **sections 2.1** and **2.3** state how those categories have been applied in a particular scope and time.
 
-The **Contribution Axis** is **positive-only**. It classifies verified constitutional benefit, baseline satisfaction, and demonstrable uplift; it does not classify adverse violation findings or non-compliance. Those belong to **violation nature** under **section 5.2** and, where applicable, process / response character under **Chapter Eleven section 3**.
+The **Contribution Axis** is **positive-only**. It classifies verified constitutional benefit, baseline satisfaction, and demonstrable uplift; it does not classify adverse violation findings or non-compliance. Those belong to **violation nature** under **section 5.2** and, where applicable, process / response character under **Chapter Ten section 4**.
 
 **Four primary bands** nest into the slot scale:
 
@@ -150,7 +150,7 @@ Column 1 uses the same `s` as **Table 1**. Read each row with **section 3**, **T
 |    8 | **distinguished champion** — Distinguished stewardship with durable cross-institutional reliance, structural repair, or prevention that outlasts you. |
 |    9 | **exemplary champion** — Exemplary stewardship producing rare, durable constitutional-resilience gains at the widest material scope. |
 
-Positive contribution may be recorded in a **contribution standing record** while a subject also holds a linked **violation standing record** under **section 5.2**, subject to the no-offset rules in **section 2.2** and **Chapter Eleven section 4.2**. Contribution credit under this table does not require formal governance status, salaried office, licensed-program participation, designated filings, or other official-channel pedigree. Peer, neighbor, voluntary, mutual-aid, and other non-institutional stewardship may count when its effects are demonstrable under the same **auditability** and **contestability** discipline applied to institutional contribution.
+Positive contribution may be recorded in a **contribution standing record** while a subject also holds a linked **violation standing record** under **section 5.2**, subject to the no-offset rules in **section 2.2** and **Chapter Ten section 5.2**. Contribution credit under this table does not require formal governance status, salaried office, licensed-program participation, designated filings, or other official-channel pedigree. Peer, neighbor, voluntary, mutual-aid, and other non-institutional stewardship may count when its effects are demonstrable under the same **auditability** and **contestability** discipline applied to institutional contribution.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation interop note</span></strong></summary>
@@ -159,22 +159,22 @@ Positive contribution may be recorded in a **contribution standing record** whil
 
 Machine-readable fields for slot display (`sub_tier`, `sub_tier_display`, and related display fields) are defined in [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) and [ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json). Use them with the four-band default map in **Table 2** above.
 
-Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed sub-tier labels. Those helpers must not replace the primary typing in **sections 5.1 and 5.2**, the default maps in **Table 1** and **Table 2**, or the Chapter Thirteen assignment rules for Violation Axis `s` = 7, 8, and 9, except through a **conforming instrument** change.
+Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed sub-tier labels. Those helpers must not replace the primary typing in **sections 5.1 and 5.2**, the default maps in **Table 1** and **Table 2**, or the Chapter Twelve assignment rules for Violation Axis `s` = 7, 8, and 9, except through a **conforming instrument** change.
 
 </details>
 
 <a id="34-violation-axis-rules-violation-nature-adverse-findings-and-severity"></a>
 <a id="52-violation-axis-severity-ladder"></a>
-<a id="chapter-six-part-e-accountability-measure"></a>
+<a id="chapter-four-part-e-accountability-measure"></a>
 
 #### 5.2 Violation Axis — severity ladder and application notes
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Eleven §3.9](core_13.000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
-- Downstream: [Chapter Eleven §3](core_13.000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Eleven §4](core_13.000_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Thirteen](core_10-10_misconduct.md#chapter-thirteen-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
-- Read with: [Supremacy and Enforceability](core_05.045_band_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05.045_band_integrative.md#constitutional-constraint-violation), [Harm](core_05.035_band_accountability.md#harm), and [Materiality Determination](core_05.050_band_oversight.md#materiality-determination).
+- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter Two §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter Two §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Ten §4.9](core_12.000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
+- Downstream: [Chapter Ten §4](core_12.000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Ten §5](core_12.000_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Twelve](core_10-10_misconduct.md#chapter-twelve-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
+- Read with: [Supremacy and Enforceability](subcore_03.045_band_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](subcore_03.045_band_integrative.md#constitutional-constraint-violation), [Harm](core_03.035_band_accountability.md#harm), and [Materiality Determination](core_03.050_band_oversight.md#materiality-determination).
 - Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to severity and verification burden.
 
 </details>
@@ -182,11 +182,11 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [E](core_05.035_band_accountability.md#harm-e) · [C](core_05.035_band_accountability.md#harm-c)
-- [Materiality Determination](core_05.050_band_oversight.md#materiality-determination) · [O](core_05.050_band_oversight.md#materiality-determination) · [E](core_05.050_band_oversight.md#materiality-determination-e) · [C](core_05.050_band_oversight.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05.045_band_integrative.md#constitutional-constraint-violation) · [O](core_05.045_band_integrative.md#constitutional-constraint-violation) · [E](core_05.045_band_integrative.md#constitutional-constraint-violation-e) · [C](core_05.045_band_integrative.md#constitutional-constraint-violation-c)
-- [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [E](core_05.055_band_participation.md#coercion-and-manipulation-constitutional-e) · [C](core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Foreseeability Diligence](core_05.050_band_oversight.md#foreseeability-diligence) · [O](core_05.050_band_oversight.md#foreseeability-diligence) · [E](core_05.050_band_oversight.md#foreseeability-diligence-e) · [C](core_05.050_band_oversight.md#foreseeability-diligence-c)
+- [Harm](core_03.035_band_accountability.md#harm) · [O](core_03.035_band_accountability.md#harm) · [E](core_03.035_band_accountability.md#harm-e) · [C](core_03.035_band_accountability.md#harm-c)
+- [Materiality Determination](core_03.050_band_oversight.md#materiality-determination) · [O](core_03.050_band_oversight.md#materiality-determination) · [E](core_03.050_band_oversight.md#materiality-determination-e) · [C](core_03.050_band_oversight.md#materiality-determination-c)
+- [Constitutional Constraint Violation](subcore_03.045_band_integrative.md#constitutional-constraint-violation) · [O](subcore_03.045_band_integrative.md#constitutional-constraint-violation) · [E](subcore_03.045_band_integrative.md#constitutional-constraint-violation-e) · [C](subcore_03.045_band_integrative.md#constitutional-constraint-violation-c)
+- [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_03.055_band_participation.md#coercion-and-manipulation-constitutional) · [E](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-e) · [C](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Foreseeability Diligence](core_03.050_band_oversight.md#foreseeability-diligence) · [O](core_03.050_band_oversight.md#foreseeability-diligence) · [E](core_03.050_band_oversight.md#foreseeability-diligence-e) · [C](core_03.050_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -194,7 +194,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 
 *In plain terms: **Violation nature** is the adverse side of the model. To decide which slot a verified violation belongs in, apply **section 4.2** LEQU calibration on the loss side — roughly, whether conduct impaired, destroyed, wrongfully consumed, or foreclosed constitutional wellbeing. Accusations and routing labels do not count; only verified findings do.*
 
-The slot scale measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegation, retaliation preference, or moral dislike alone. **Violation nature** includes Violation Axis severity under this subsection, process / response character under **Chapter Eleven section 3**, and hybrid, duty, diffusion, negligence, and descriptor material where facts warrant. Apply the **full-life-equivalent constitutional loss** definition and **Important limits on using LEQU** in **section 4** to all violation-side calibration.
+The slot scale measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegation, retaliation preference, or moral dislike alone. **Violation nature** includes Violation Axis severity under this subsection, process / response character under **Chapter Ten section 4**, and hybrid, duty, diffusion, negligence, and descriptor material where facts warrant. Apply the **full-life-equivalent constitutional loss** definition and **Important limits on using LEQU** in **section 4** to all violation-side calibration.
 
 **Operative Violation Axis severity ladder:**
 
@@ -203,27 +203,27 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
 | ---: | --- | --- |
 | 1 | <a id="41-formal-non-compliance"></a>**Formal Non-Compliance** | Process, records, verification, observability, accessibility, or challenge-path problems without proven substantive harm. Where binding obligations require operational capability, paper claims, unimplemented controls, or unobservable assertions are not enough when verification or challenge is materially impaired. |
 | 2 | <a id="42-remedial-substantive-non-compliance"></a>**Remedial Substantive Non-Compliance** | Real-world duty, harm, rights, Ontological (O), Evaluative (E), or Compliance (C) failure requiring repair, restoration, compensation, injunction, or comparable civil correction. This includes direct, indirect, delayed, aggregated, cross-system, psychological, trauma, coercion-related, agency, wellbeing, dignity, or trust-condition harm where material. |
-| 3 | <a id="43-constitutional-substantive-non-compliance"></a>**Significant Substantive Non-Compliance** | Material violation of constitutional constraints, Rights Floors, supremacy and enforceability, anti-evasion requirements, or challenge-and-remedy access, before aggravated, coercive or safeguard-process, critical, or final Chapter Thirteen Anti-Constitutional Misconduct Review criteria are met. |
+| 3 | <a id="43-constitutional-substantive-non-compliance"></a>**Significant Substantive Non-Compliance** | Material violation of constitutional constraints, Rights Floors, supremacy and enforceability, anti-evasion requirements, or challenge-and-remedy access, before aggravated, coercive or safeguard-process, critical, or final Chapter Twelve Anti-Constitutional Misconduct Review criteria are met. |
 |    4 | <a id="44-duty-based-or-negligent-harm-violation"></a>**Duty-Based or Negligent-Harm Violation** | Duty, foreseeability, and feasible capacity to prevent, mitigate, supervise, or escalate material harm existed, but preventable harm, risk, inadequate operational care, inadequate supervision, delayed escalation, or neglect is verified. This level may co-occur with other severity levels where their criteria also fit. |
 |    5 | <a id="45-aggravated-violation"></a>**Aggravated Violation** | Formal, remedial substantive, significant substantive, or duty-based violation with worsening features such as evasion, concealment, strategic obstruction of audit, dishonest forum disclosure omission, intentional recusal-process failure, repetition after notice, reckless disregard, exploitative incentive design, structural enablement, or material dependency-asymmetry abuse. |
-|    6 | <a id="46-coercive-or-safeguard-process-violation"></a>**Coercive or Safeguard-Process Violation** | Culpability, coercion, manipulation, violence, credible threat, liberty-threatening response, or comparable social danger serious enough to require criminal-process or equivalent constitutional protections where coercive or liberty-restricting response is in play. This severity may carry **Chapter Eleven section 3.2** coercive or liberty-restricting safeguard character, but severity and process / response character remain separately traceable. |
-| 7 | <a id="47-critical-non-compliance"></a>**Serious anti-constitutional misconduct** where Chapter Thirteen so assigns / **Critical Non-Compliance** | **At least one LEQU destroyed** or comparable critical harm: catastrophic, existential, irreversible, Rights-Floor-defeating, constitution-undermining, large-scale systemic, severe persistent trauma with durable agency impairment, or material violation of non-negotiable floors including Safety, Truth, and dignity-equality protections. Immediate containment and heightened oversight apply. |
-| 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost**, structural or cross-institutional constitutional damage, or a final Chapter Thirteen finding establishing **s = 8** grave anti-constitutional misconduct. |
-| 9 | **Pernicious anti-constitutional misconduct** | **Worst-case systemic harm**: rare, intentional, systemic, intergenerational, civilizational, constitution-subverting harm at the widest material scope, or a final Chapter Thirteen finding establishing **s = 9** pernicious anti-constitutional misconduct. |
+|    6 | <a id="46-coercive-or-safeguard-process-violation"></a>**Coercive or Safeguard-Process Violation** | Culpability, coercion, manipulation, violence, credible threat, liberty-threatening response, or comparable social danger serious enough to require criminal-process or equivalent constitutional protections where coercive or liberty-restricting response is in play. This severity may carry **Chapter Ten section 4.2** coercive or liberty-restricting safeguard character, but severity and process / response character remain separately traceable. |
+| 7 | <a id="47-critical-non-compliance"></a>**Serious anti-constitutional misconduct** where Chapter Twelve so assigns / **Critical Non-Compliance** | **At least one LEQU destroyed** or comparable critical harm: catastrophic, existential, irreversible, Rights-Floor-defeating, constitution-undermining, large-scale systemic, severe persistent trauma with durable agency impairment, or material violation of non-negotiable floors including Safety, Truth, and dignity-equality protections. Immediate containment and heightened oversight apply. |
+| 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost**, structural or cross-institutional constitutional damage, or a final Chapter Twelve finding establishing **s = 8** grave anti-constitutional misconduct. |
+| 9 | **Pernicious anti-constitutional misconduct** | **Worst-case systemic harm**: rare, intentional, systemic, intergenerational, civilizational, constitution-subverting harm at the widest material scope, or a final Chapter Twelve finding establishing **s = 9** pernicious anti-constitutional misconduct. |
 
-This table is the operative Violation Axis severity ladder for Chapter Nine. Display labels for each `s` appear in **Table 1** column 3. LEQU calibration for each level appears in **section 4.2**. Final anti-constitutional misconduct assignment for **s = 7**, **s = 8**, and **s = 9** remains in **Chapter Thirteen**. Process / response character attaches under **Chapter Eleven section 3** and does not create a second severity ladder. **Violation standing records** under **§Chapter One §8.1 and 2.3.2** must identify the finding authority or record basis and review status for the Violation Axis classification.
+This table is the operative Violation Axis severity ladder for Chapter Eight. Display labels for each `s` appear in **Table 1** column 3. LEQU calibration for each level appears in **section 4.2**. Final anti-constitutional misconduct assignment for **s = 7**, **s = 8**, and **s = 9** remains in **Chapter Twelve**. Process / response character attaches under **Chapter Ten section 4** and does not create a second severity ladder. **Violation standing records** under **§Chapter Two §8.1 and 2.3.2** must identify the finding authority or record basis and review status for the Violation Axis classification.
 
 <a id="48-adjacent-level-application-notes"></a>
 
 **Adjacent-level application.** Apply the highest **section 5.2** level whose criteria fit the verified findings. Formal defects remain at `s` = 1 unless substantive harm, rights burden, or material operational failure is found. Remedial or civil-correction character does not by itself prevent escalation where constitutional floors, supremacy, anti-evasion discipline, aggravating features, coercion, liberty danger, or critical harm are verified.
 
-**Forum disclosure omission and recusal-process impact.** A verified knowing, reckless, or materially dishonest omission from a mandatory forum disclosure required before merits participation, or a verified intentional failure to follow a required recusal process, is a heightened process-integrity violation because it can distort the legality and independence of the adjudicative forum itself. Compared with otherwise similar deception or process violation outside a forum-constitution setting, evaluators must account for the added impact on panel lawfulness, recusal challenge, evidence integrity, remedy timing, backup routing, practical contestability, and public confidence in adjudication. This clause does not bypass the verified-input gate, does not automatically assign a top slot, and does not reduce Chapter Thirteen safeguards where anti-constitutional misconduct is alleged.
+**Forum disclosure omission and recusal-process impact.** A verified knowing, reckless, or materially dishonest omission from a mandatory forum disclosure required before merits participation, or a verified intentional failure to follow a required recusal process, is a heightened process-integrity violation because it can distort the legality and independence of the adjudicative forum itself. Compared with otherwise similar deception or process violation outside a forum-constitution setting, evaluators must account for the added impact on panel lawfulness, recusal challenge, evidence integrity, remedy timing, backup routing, practical contestability, and public confidence in adjudication. This clause does not bypass the verified-input gate, does not automatically assign a top slot, and does not reduce Chapter Twelve safeguards where anti-constitutional misconduct is alleged.
 
 **Boundary with Contribution Axis.** **Violation nature** may co-occur with **positive-only** **contribution state** under **section 5.1**. Adverse **violation** findings are not "negative contribution," and positive contribution does not offset adverse findings.
 
-**Supplements.** Read **Chapter Eleven section 2.1** (domain cross-walk), **Chapter Eleven section 2.2** (Contribution Axis supplements), **Chapter Eleven section 3.9** (Violation Axis supplements), and **Chapter Eleven §Chapter One §8.1–3.8** (process / response character and duty material) with this severity ladder.
+**Supplements.** Read **Chapter Ten section 3.1** (domain cross-walk), **Chapter Ten section 3.2** (Contribution Axis supplements), **Chapter Ten section 4.9** (Violation Axis supplements), and **Chapter Ten §Chapter Two §8.1–3.8** (process / response character and duty material) with this severity ladder.
 
-**What happens next.** Standing effects are in **Chapter Eleven section 1**. Standing integration and no-netting mechanics are in **Chapter Eleven section 4** (including standing-orientation by Violation Axis slot at section 4.3). Final anti-constitutional-misconduct designation is in **Chapter Thirteen**. Adopted implementation may publish LEQU-equivalent loss calibration only as subordinate support under **section 4.2** and this subsection.
+**What happens next.** Standing effects are in **Chapter Ten section 1**. Standing integration and no-netting mechanics are in **Chapter Ten section 5** (including standing-orientation by Violation Axis slot at section 4.3). Final anti-constitutional-misconduct designation is in **Chapter Twelve**. Adopted implementation may publish LEQU-equivalent loss calibration only as subordinate support under **section 4.2** and this subsection.
 '''
 
 
@@ -248,14 +248,14 @@ CH5SEC_GUARD = "\u0001CH5SEC\u0001"
 
 
 def guard_other_chapters(text: str) -> str:
-    """Temporarily mask Chapter Nine §6 refs that collide with other chapters' §6."""
+    """Temporarily mask Chapter Eight §6 refs that collide with other chapters' §6."""
     text = re.sub(
-        r"(\[Chapter Eleven §6\]\(core_10_standing_integration\.md#[^)]+\))",
+        r"(\[Chapter Ten §7\]\(core_10_standing_integration\.md#[^)]+\))",
         CH7_GUARD + r"\1" + CH7_GUARD,
         text,
     )
     text = re.sub(
-        r"(\[Chapter Eleven §6\]\(core_10_standing_integration\.md#[^)]+\))",
+        r"(\[Chapter Ten §7\]\(core_10_standing_integration\.md#[^)]+\))",
         CH7_GUARD + r"\1" + CH7_GUARD,
         text,
     )
@@ -273,33 +273,33 @@ CORPUS_REPLACEMENTS = [
     ("sections 3–6", "sections 3–5"),
     ("sections 1–6", "sections 1–5"),
     ("§§3–6):", "§§3–5):"),
-    # Chapter six trace / orientation
+    # Chapter four trace / orientation
     (
         "*Reading order (classification layer §§3–5):* **[§11](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§2](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU · **[§4](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**Table 2**) · **[§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)** classifies verified **violation nature**.",
-        "*Reading order (classification layer §§3–5):* **[§11](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§2](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**Chapter One §8.1** contribution · **Chapter One §8.2** violation) · **[§4](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified records (**Chapter One §8.1** contribution / **Table 2** · **Chapter One §6.2** violation severity ladder).",
+        "*Reading order (classification layer §§3–5):* **[§11](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§2](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**Chapter Two §8.1** contribution · **Chapter Two §8.2** violation) · **[§4](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified records (**Chapter Two §8.1** contribution / **Table 2** · **Chapter Two §6.2** violation severity ladder).",
     ),
     (
         "| [§2](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU constitutional-outcome baseline | **Oversight** (verified calibration discipline) | **Flourishing** + **Accountability** |\n"
         "| [§4](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — Contribution Axis bands and Table 2 | **Oversight** | **Flourishing** |\n"
         "| [§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) | **Classification layer** — Violation Axis severity ladder | **Accountability** | **Accountability** (Violation Axis) + **Continuity** (unresolved findings stay live) |",
-        "| [§2](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU baseline (**Chapter One §8.1** contribution · **Chapter One §8.2** violation) | **Oversight** (verified calibration discipline) | **Flourishing** + **Continuity** |\n"
-        "| [§4](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults (**Chapter One §8.1** Contribution Axis · **Chapter One §6.2** Violation Axis) | **Oversight** + **Accountability** | **Flourishing** + **Continuity** |",
+        "| [§2](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU baseline (**Chapter Two §8.1** contribution · **Chapter Two §8.2** violation) | **Oversight** (verified calibration discipline) | **Flourishing** + **Continuity** |\n"
+        "| [§4](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults (**Chapter Two §8.1** Contribution Axis · **Chapter Two §6.2** Violation Axis) | **Oversight** + **Accountability** | **Flourishing** + **Continuity** |",
     ),
     (
         "Flourishing-side contribution under **§§3–5**, Accountability-side violation under **§5**",
-        "Contribution-side classification under **§Chapter One §8.1 and 5.1**, Violation-side classification under **§Chapter One §8.2 and 5.2**",
+        "Contribution-side classification under **§Chapter Two §8.1 and 5.1**, Violation-side classification under **§Chapter Two §8.2 and 5.2**",
     ),
     (
         "Accountability measure at **§5***",
-        "Accountability measure at **Chapter One §6.2***",
+        "Accountability measure at **Chapter Two §6.2***",
     ),
     (
         "Flourishing measure at **§§3–5**, Accountability measure at **§5***",
-        "Flourishing measure at **§Chapter One §8.1 and 5.1**, Accountability measure at **§Chapter One §8.2 and 5.2***",
+        "Flourishing measure at **§Chapter Two §8.1 and 5.1**, Accountability measure at **§Chapter Two §8.2 and 5.2***",
     ),
     # §3 internal pointers
     ("under **sections 4 through 6**", "under **sections 4 and 5**"),
-    ("Operative criteria for Violation Axis `s` = 7, 8, and 9 remain in **section 6** and **Chapter Thirteen**.", "Operative criteria for Violation Axis `s` = 7, 8, and 9 remain in **section 5.2** and **Chapter Thirteen**."),
+    ("Operative criteria for Violation Axis `s` = 7, 8, and 9 remain in **section 6** and **Chapter Twelve**.", "Operative criteria for Violation Axis `s` = 7, 8, and 9 remain in **section 5.2** and **Chapter Twelve**."),
     ("It does not replace the contribution rules in **section 5**.", "It does not replace the contribution rules in **section 5.1**."),
     ("The four Contribution Axis primary bands and their operative rules are stated in **section 5**. Violation Axis display labels pair with the operative severity ladder in **section 6**.", "The four Contribution Axis primary bands and their operative rules are stated in **section 5.1**. Violation Axis display labels pair with the operative severity ladder in **section 5.2**."),
     ("Operative Contribution Axis rules are in **section 5** (**Table 2**); operative Violation Axis severity is in **section 6**.", "Operative Contribution Axis rules are in **section 5.1** (**Table 2**); operative Violation Axis severity is in **section 5.2**."),
@@ -307,25 +307,25 @@ CORPUS_REPLACEMENTS = [
     # §2 standing records
     ("classifies verified **contribution state** under **section 5**.", "classifies verified **contribution state** under **section 5.1**."),
     ("classifies verified **violation nature** under **section 6**", "classifies verified **violation nature** under **section 5.2**"),
-    ("(*Contribution Axis primary category defaults*); [§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)", "(*Contribution Axis primary category defaults*); [Chapter One §6.2](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)"),
+    ("(*Contribution Axis primary category defaults*); [§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)", "(*Contribution Axis primary category defaults*); [Chapter Two §6.2](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)"),
     # Cross-chapter Ch6 refs — order matters (specific before general)
-    ("Chapter Nine section 6 severity", "Chapter Nine section 5.2 severity"),
-    ("Chapter Nine section 6** severity", "Chapter Nine section 5.2** severity"),
-    ("Chapter Nine section 6.", "Chapter Nine section 5.2."),
-    ("Chapter Nine section 6,", "Chapter Nine section 5.2,"),
-    ("Chapter Nine section 6 ", "Chapter Nine section 5.2 "),
-    ("Chapter Nine **§§5–6**", "Chapter Nine **§Chapter One §8.1–5.2**"),
-    ("Chapter Nine **section 5**", "Chapter Nine **section 5.1**"),
-    ("Chapter Nine **section 6**", "Chapter Nine **section 5.2**"),
-    ("Chapter Nine section 5**", "Chapter Nine section 5.1**"),
-    ("Chapter Nine section 5,", "Chapter Nine section 5.1,"),
-    ("Chapter Nine section 5.", "Chapter Nine section 5.1."),
-    ("Chapter Nine section 5 ", "Chapter Nine section 5.1 "),
-    ("Chapter Nine §6", "Chapter Nine Chapter One §6.2"),
-    ("Chapter Nine — section 5", "Chapter Nine — section 5.1"),
-    ("Chapter Nine — section 6", "Chapter Nine — section 5.2"),
-    ("Chapter Nine §5", "Chapter Nine Chapter One §8.1"),
-    ("[§5](core_11.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_11.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("Chapter Eight section 6 severity", "Chapter Eight section 5.2 severity"),
+    ("Chapter Eight section 6** severity", "Chapter Eight section 5.2** severity"),
+    ("Chapter Eight section 6.", "Chapter Eight section 5.2."),
+    ("Chapter Eight section 6,", "Chapter Eight section 5.2,"),
+    ("Chapter Eight section 6 ", "Chapter Eight section 5.2 "),
+    ("Chapter Eight **§§5–6**", "Chapter Eight **§Chapter Two §8.1–5.2**"),
+    ("Chapter Eight **section 5**", "Chapter Eight **section 5.1**"),
+    ("Chapter Eight **section 6**", "Chapter Eight **section 5.2**"),
+    ("Chapter Eight section 5**", "Chapter Eight section 5.1**"),
+    ("Chapter Eight section 5,", "Chapter Eight section 5.1,"),
+    ("Chapter Eight section 5.", "Chapter Eight section 5.1."),
+    ("Chapter Eight section 5 ", "Chapter Eight section 5.1 "),
+    ("Chapter Eight §6", "Chapter Eight Chapter Two §6.2"),
+    ("Chapter Eight — section 5", "Chapter Eight — section 5.1"),
+    ("Chapter Eight — section 6", "Chapter Eight — section 5.2"),
+    ("Chapter Eight §5", "Chapter Eight Chapter Two §8.1"),
+    ("[§5](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Two §6.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("sections 5 and 6", "sections 5.1 and 5.2"),
     ("**sections 5 and 6**", "**sections 5.1 and 5.2**"),
     ("section 6 severity", "section 5.2 severity"),
@@ -347,10 +347,10 @@ CORPUS_REPLACEMENTS = [
     ("in section 5", "in section 5.1"),
     ("in **section 5**", "in **section 5.1**"),
     ("**section 5**", "**section 5.1**"),
-    ("§5](core_11.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "Chapter One §8.1](core_11.000_standing_assessment.md#51-contribution-axis-bands-and-table-2)"),
+    ("§5](core_10.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "Chapter Two §8.1](core_10.000_standing_assessment.md#51-contribution-axis-bands-and-table-2)"),
     ("primary slot defaults", "primary category defaults"),
-    ("the Chapter Nine **section 6** severity ladder", "the Chapter Nine **section 5.2** severity ladder"),
-    ("Chapter Nine **section 6** severity ladder", "Chapter Nine **section 5.2** severity ladder"),
+    ("the Chapter Eight **section 6** severity ladder", "the Chapter Eight **section 5.2** severity ladder"),
+    ("Chapter Eight **section 6** severity ladder", "Chapter Eight **section 5.2** severity ladder"),
 ]
 
 

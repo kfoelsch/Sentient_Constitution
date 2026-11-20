@@ -366,7 +366,7 @@ def build_payload(root: Path) -> dict[str, Any]:
         "status": "process_support_not_binding",
         "cannot_narrow_core": True,
         "description": (
-            "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five "
+            "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Three "
             "terms. Indexes point; source text binds. Pre-release: current heading "
             "anchors only; no fossil or legacy fragment aliases."
         ),

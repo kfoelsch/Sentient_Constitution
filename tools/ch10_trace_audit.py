@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Audit Chapter Six trace placement and minimum linked-content rules.
+"""Audit Chapter Four trace placement and minimum linked-content rules.
 
 Rules: NAV-TRACE-08, NAV-TRACE-09 in tools/architecture/rule_registry.json.
-Each Chapter Six subarticle must:
+Each Chapter Four subarticle must:
 
 1. Carry a local Trace ``<details>`` block immediately under the subarticle
    heading using the standard Trace summary label, AND
@@ -10,7 +10,7 @@ Each Chapter Six subarticle must:
    ``<details>`` widget directly after the Trace close, OR (b) carry a
    single-concept inline ``<strong><span style="color: #2563eb;">Definition:
    </span></strong>`` line directly after the Trace close, OR (c) — for
-   sections with no Chapter Five invocations — neither, with that absence
+   sections with no Chapter Three invocations — neither, with that absence
    recorded as deliberate.
 
 The legacy ``- Definitions:`` line inside Trace is no longer accepted as
@@ -27,10 +27,10 @@ import sys
 
 
 DEFAULT_FILES = [
-    # Glob, not a hand-kept list (AUDIT-SCOPE-01): every Chapter Six rights-part file is audited,
+    # Glob, not a hand-kept list (AUDIT-SCOPE-01): every Chapter Four rights-part file is audited,
     # including parts added later.
     path.name
-    for path in sorted(pathlib.Path(__file__).resolve().parents[1].glob("core_06.???_rights_part_*.md"))
+    for path in sorted(pathlib.Path(__file__).resolve().parents[1].glob("core_04.???_rights_part_*.md"))
 ]
 
 
@@ -41,7 +41,7 @@ def parse_args() -> argparse.Namespace:
         "--files",
         nargs="*",
         default=DEFAULT_FILES,
-        help="Chapter Six files under --root.",
+        help="Chapter Four files under --root.",
     )
     return parser.parse_args()
 
@@ -77,7 +77,7 @@ def main() -> int:
             details_idx = next_nonempty(lines, idx + 1)
             if details_idx is None or lines[details_idx].strip() != "<details>":
                 violations.append(
-                    f"{path}:{lineno}: Chapter Six subarticles must carry a local Trace/details block immediately under the subarticle heading"
+                    f"{path}:{lineno}: Chapter Four subarticles must carry a local Trace/details block immediately under the subarticle heading"
                 )
                 continue
 
@@ -108,7 +108,7 @@ def main() -> int:
 
             if principles_line is None:
                 violations.append(
-                    f"{path}:{lineno}: Chapter Six subarticle Trace blocks must include a '- Principles:' or '- Upstream: Principles:' line"
+                    f"{path}:{lineno}: Chapter Four subarticle Trace blocks must include a '- Principles:' or '- Upstream: Principles:' line"
                 )
 
             # Per doc_architecture.md rule 12 (2026-04-16 O/M/A/C split), the
@@ -158,7 +158,7 @@ def main() -> int:
                 )
 
             # Note: we deliberately do not require a O/M/A/C widget to be present.
-            # Some sections genuinely invoke zero Chapter Five concepts; in those
+            # Some sections genuinely invoke zero Chapter Three concepts; in those
             # cases the absence is correct. We only flag the legacy pattern.
             _ = (has_widget, has_inline)  # reserved for future stricter check
 
@@ -167,7 +167,7 @@ def main() -> int:
         return 1
 
     print(
-        "PASS: Chapter Six subarticle Trace blocks are present, no legacy "
+        "PASS: Chapter Four subarticle Trace blocks are present, no legacy "
         "'- Definitions:' lines remain inside Trace, and Principles upstream "
         "is named where required."
     )

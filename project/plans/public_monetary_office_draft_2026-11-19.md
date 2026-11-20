@@ -20,7 +20,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 7. **Provisional defaults:** emergency borrowers named after two years and the five-year target review. Each is for the custodian to confirm. The minutes, transcript, quiet-period, and method-review defaults now sit in Chapter Eight §11 *Open decisions* and *Market-moving information*.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the target and choose the exchange-rate regime, subject to this chapter.
+> - [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the target and choose the exchange-rate regime, subject to this chapter.
 > - A new chapter would establish the bank supervision body named in §5; it is drafted in [bank_supervision_office_draft_2026-11-20.md](bank_supervision_office_draft_2026-11-20.md).
 > - A new corpus-institutions file would hold the target method, the financial-stability framework, the collateral framework, the reserve-management policy, and ledger fields.
 >
@@ -37,7 +37,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > This chapter would be **part of the Sentient Constitution** and **binding only together** with the other numbered `core_*` files read as one text.
 >
 > - **Constitutional owner:** the office that issues the public currency, manages its value under a published target, and watches over the stability of the financial system; and the bars on printing money to pay for spending and on steering by money or credit.
-> - **Not owned here:** public debt (Public Debt Office chapter); spending and funding floors (Public Finance Office chapter); public statistics, including the price figures the office relies on (Public Information Office chapter); who holds governing authority ([Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship)); supervision of individual banks, deposit protection, and bank resolution (the bank supervision body under §5).
+> - **Not owned here:** public debt (Public Debt Office chapter); spending and funding floors (Public Finance Office chapter); public statistics, including the price figures the office relies on (Public Information Office chapter); who holds governing authority ([Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship)); supervision of individual banks, deposit protection, and bank resolution (the bank supervision body under §5).
 > - **Implementation owner:** a new corpus-institutions file (target method, financial-stability framework, collateral framework, reserve-management policy, ledger fields).
 >
 > Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 currency and the stability target → §5 financial stability → §6 no money for spending, balance-sheet operations, and no steering → §7 governance, transparency, and no override → §8 capital and losses → §9 exchange rate and reserves → §10 public ledger and digital currency → §11 audit and challenge → §12 emergencies → §13 scaling.
@@ -54,14 +54,14 @@ Chapter [M] is the constitutional owner of **public currency**.
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
-  - [Chapter Eight §11 Independent Bodies](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) (8.000 §11);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
+  - [Chapter Eight §11 Independent Bodies](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (8.000 §11);
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** block of [§2](#2-why-the-public-monetary-office-exists).
 - Downstream: [§2](#2-why-the-public-monetary-office-exists) through [§13](#13-proportional-scaling); the Public Finance Office, Public Information Office, and Public Debt Office chapters; a new corpus-institutions file.
 - Read with:
-  - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
+  - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
 
 </details>
 
@@ -76,7 +76,7 @@ Chapter [M] is the constitutional owner of **public currency**.
 - The Public Finance Office chapter governs how public money is spent and protects the funding floors. It may not issue currency, and this office may not decide spending.
 - The Public Debt Office chapter governs public borrowing. This office has no say over how much debt is issued, when, or on what terms, and the Public Debt Office has no say over interest rates.
 - The Public Information Office chapter produces the price and economic figures this office uses, and checks this office's ledger.
-- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the target under §4 and choose the exchange-rate regime under §9.
+- [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the target under §4 and choose the exchange-rate regime under §9.
 - A later corpus-institutions file carries the target method, the financial-stability framework, the collateral framework, the reserve-management policy, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -114,14 +114,14 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 **Grounded in:**
 
 - Chapter One principles:
-  - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
-  - [§19 Incentive Alignment and System Capture](../../core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
-  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
+  - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
+  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
 - Chapter Six Articles:
-  - [Article V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
-  - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*); and
-  - [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
+  - [Article V-A](../../core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
+  - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*); and
+  - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
 
 **The problem it answers.** A governing authority that controls the currency has easy paths around every limit on its spending:
 
@@ -150,7 +150,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 
 *In plain terms: the office answers to its target and its rules, not to whoever is in power this year.*
 
-**Independent Body:** The Public Monetary Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Monetary Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, the Public Debt Office, and every bank or payment provider it deals with;
 - the protected decision-makers are the members of its decision board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in monetary economics, financial stability, or payment systems. They serve long, staggered, non-renewable terms; and
@@ -158,7 +158,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 
 **Seat map:** Every materially binding act of the office, such as setting a policy rate, setting a financial-stability tool, or lending in an emergency, places the four seats under Chapter Eight. The independent check seat is an auditor outside the office.
 
-**No dual roles (added for this office):** In addition to Chapter Eight §11, no one may at the same time hold a decision seat in this office and any seat in the Public Finance Office, the Public Debt Office, the governing authority, the bank supervision body, or a bank or payment provider the office deals with. Former members follow the cooling-off rules of [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) for any role with such a body.
+**No dual roles (added for this office):** In addition to Chapter Eight §11, no one may at the same time hold a decision seat in this office and any seat in the Public Finance Office, the Public Debt Office, the governing authority, the bank supervision body, or a bank or payment provider the office deals with. Former members follow the cooling-off rules of [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) for any role with such a body.
 
 ### 4. Currency and the Stability Target
 
@@ -186,7 +186,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 - by rules that apply alike to every firm in the same class, never to favor or punish a firm; and
 - with a published decision and reasons, on the same calendar and transparency rules as its other decisions.
 
-**Bank supervision body.** Supervision of individual banks and payment providers, deposit protection, and the resolution of a failing bank belong to a separate Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), established by its own chapter (drafted as the [Bank Supervision Office](bank_supervision_office_draft_2026-11-20.md)). That chapter must at least provide that:
+**Bank supervision body.** Supervision of individual banks and payment providers, deposit protection, and the resolution of a failing bank belong to a separate Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), established by its own chapter (drafted as the [Bank Supervision Office](bank_supervision_office_draft_2026-11-20.md)). That chapter must at least provide that:
 
 - the body applies the office's system-wide tools to individual firms, and sets firm-specific requirements under published standards;
 - deposit protection is funded by charges on the protected firms, held in a fund apart from public revenue;
@@ -216,7 +216,7 @@ except the capped bridge in §12.
 
 Purchases of assets other than public debt must be broad and neutral across sectors and firms, through market-wide programs, never aimed at a named firm.
 
-**No steering.** The floors of [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office and its members. In addition, the office may not:
+**No steering.** The floors of [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office and its members. In addition, the office may not:
 
 - direct credit to a person, party, cause, or region because of who they support;
 - time a decision to help or harm anyone in a selection; or
@@ -226,7 +226,7 @@ Purchases of assets other than public debt must be broad and neutral across sect
 
 *In plain terms: the office decides in the open, its members cannot profit from what they know, it answers in public hearings, and no one can order it what to do. The general rules for every independent body live in Chapter Eight; this section adds what is special to this office.*
 
-**General rules.** The office meets *Open decisions*, *Market-moving information*, and *No override* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), with their defaults: minutes within three weeks, transcripts after five years, a quiet period of one week, and an outside review of its forecasting and analysis at least every five years. The office's decisions move asset prices, so the quiet period and the bar on holdings apply to it in full. In addition:
+**General rules.** The office meets *Open decisions*, *Market-moving information*, and *No override* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), with their defaults: minutes within three weeks, transcripts after five years, a quiet period of one week, and an outside review of its forecasting and analysis at least every five years. The office's decisions move asset prices, so the quiet period and the bar on holdings apply to it in full. In addition:
 
 - the vote of each member is published on the day of the decision;
 - at least twice a year, the office appears in an open public session of the governing authority, and its annual report covers its target, its financial-stability work, its balance sheet, and its accounts; and
@@ -273,7 +273,7 @@ Purchases of assets other than public debt must be broad and neutral across sect
 - every emergency loan under §12, with its terms and repayment; and
 - the audit status under §11.
 
-The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*). Where an item cannot be public, a qualified independent audit path must still exist, and the ledger shows that the item exists.
+The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*). Where an item cannot be public, a qualified independent audit path must still exist, and the ledger shows that the item exists.
 
 **Digital currency.** Where the office issues the currency in a digital form:
 
@@ -287,7 +287,7 @@ The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvi
 
 *In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
 **Grounds.** A challenge may claim:
 
@@ -331,6 +331,6 @@ The office may not lend to a firm that is insolvent. Total emergency lending is 
 
 *In plain terms: a small community can share these functions, as long as no one ends up printing money for their own spending.*
 
-**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies. Even when hosting is merged, the §6 bar on direct financing, §8, and the §10 ledger apply in full, and this office stays separate from the Public Debt Office.
+**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. Even when hosting is merged, the §6 bar on direct financing, §8, and the §10 ledger apply in full, and this office stays separate from the Public Debt Office.
 
 **Adopters that use another currency.** An adopter that uses a currency it does not issue needs no Public Monetary Office. Its public debt is governed by the Public Debt Office chapter, and its financial-stability and supervision duties under §5 go to the bank supervision body or are shared with the issuer of the currency it uses by published agreement.

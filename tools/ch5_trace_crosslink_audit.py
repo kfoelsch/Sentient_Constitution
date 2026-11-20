@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Audit Chapter Five cross-link navigation metadata placement.
+"""Audit Chapter Three cross-link navigation metadata placement.
 
-This check enforces the Chapter Five authoring rule that navigation metadata such
+This check enforces the Chapter Three authoring rule that navigation metadata such
 as ``Read with:`` and cluster ``**Read-with definitions.**`` lines belong inside
 a local ``Trace`` / ``<details>`` block rather than as standalone prose in the
 operative definition body.
@@ -82,7 +82,7 @@ def main() -> int:
             )
         return 1
 
-    print("PASS: Chapter Five cross-link metadata stays inside Trace/details blocks.")
+    print("PASS: Chapter Three cross-link metadata stays inside Trace/details blocks.")
     return 0
 
 

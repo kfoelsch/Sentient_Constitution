@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DISC-INV-01: inventory disclaimer / negative-scope clauses in Chapter Five.
+"""DISC-INV-01: inventory disclaimer / negative-scope clauses in Chapter Three.
 
 Classifies recurring disclaimer text by theme, proposes canonical homes and
 thin/fold/keep actions, and emits markdown + JSON reports for editorial waves.
@@ -265,7 +265,7 @@ def render_markdown(
         "",
         f"Generated: {now}",
         "",
-        "Scopes **Chapter Five** band and aim files. Classifies disclaimer / "
+        "Scopes **Chapter Three** band and aim files. Classifies disclaimer / "
         "negative-scope clauses on **O**, **E**, and **C** components using "
         "[tools/architecture/disclaimer_themes.json](../../tools/architecture/disclaimer_themes.json).",
         "",
@@ -361,7 +361,7 @@ def render_markdown(
             "",
             "1. **Wave A — Global integrity + proxy** (`global_integrity_negative`, `proxy_metrics`, "
             "`instrumental_only`, `symbolic_participation`): canonicalize in "
-            "`core_01.040_stewardship_capacity_principles.md` §11; thin aim heads and cluster O lines.",
+            "`core_02.040_stewardship_capacity_principles.md` §11; thin aim heads and cluster O lines.",
             "2. **Wave B — Layer separation** (`layer_separation`, `not_substitute`, `pointer_disclaimer`): "
             "one Ch00/Ch05i exposition + Trace pointers.",
             "3. **Wave C — Review queue** (`scope_exclusion`, `anti_formalism`): per-term triage; "

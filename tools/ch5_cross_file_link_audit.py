@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Cross-file Markdown link resolution for Chapter Five fragment targets.
+"""Cross-file Markdown link resolution for Chapter Three fragment targets.
 
 Validates every ``](core_05-05_definitions_*.md#…)`` link in the corpus scope
 against the same merged anchor model as ``ch5_dac_widget_audit`` (explicit
@@ -58,7 +58,7 @@ def audit_file(path: Path, anchors: set[str]) -> list[str]:
             slug = m.group(2)
             if not anchor_resolves_for_widget(slug, anchors):
                 violations.append(
-                    f"{path}:{lineno}: Chapter Five link #{slug} does not resolve "
+                    f"{path}:{lineno}: Chapter Three link #{slug} does not resolve "
                     f"({m.group(0)})"
                 )
     return violations
@@ -72,7 +72,7 @@ def main() -> int:
     missing_part = [name for name in CH5_ALL if not (root / name).is_file()]
     if missing_part:
         print(
-            f"Missing Chapter Five file(s): {', '.join(missing_part)}",
+            f"Missing Chapter Three file(s): {', '.join(missing_part)}",
             file=sys.stderr,
         )
         return 2
@@ -89,13 +89,13 @@ def main() -> int:
         for v in violations:
             print(v, file=sys.stderr)
         print(
-            f"\nFAIL: {len(violations)} unresolved Chapter Five Markdown link(s).",
+            f"\nFAIL: {len(violations)} unresolved Chapter Three Markdown link(s).",
             file=sys.stderr,
         )
         return 1
     print(
         "PASS: every `](core_05-05_definitions_*.md#…)` link in scope resolves "
-        "to a live Chapter Five anchor (merged model)."
+        "to a live Chapter Three anchor (merged model)."
     )
     return 0
 

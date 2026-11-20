@@ -1,0 +1,267 @@
+ART Article I | Environmental Survival | core_06.000_rights_part_a.md
+ART Article I-A | Environmental Preconditions and Ecological Integrity | core_06.000_rights_part_a.md
+ART Article I-B | Ecological Footprint and Transparency | core_06.000_rights_part_a.md
+ART Article I-C | Intergenerational Responsibility | core_06.000_rights_part_a.md
+ART Article I-D | Existential Risk and Ecological Recovery Capacity | core_06.000_rights_part_a.md
+ART Article II | Material Stewardship and Durable-Use Integrity | core_06.000_rights_part_a.md
+ART Article II-A | Material Stewardship and Lifecycle Honesty | core_06.000_rights_part_a.md
+ART Article II-B | Repair, Maintenance, and Independent Servicing | core_06.000_rights_part_a.md
+ART Article II-C | Designed Obsolescence and Incentive Discipline | core_06.000_rights_part_a.md
+ART Article II-D | Post-Sale Access and Subscription Integrity | core_06.000_rights_part_a.md
+ART Article II-E | Data Handling and Network Dependency | core_06.000_rights_part_a.md
+ART Article II-F | Continuity and Operator Shutdown | core_06.000_rights_part_a.md
+ART Article III | Survival and Essential Access | core_06.000_rights_part_a.md
+ART Article III-A | Survival | core_06.000_rights_part_a.md
+ART Article III-B | Bodily-Maintenance and Healthcare Access | core_06.000_rights_part_a.md
+ART Article III-C | Labor and Economic Floor | core_06.000_rights_part_a.md
+ART Article III-D | Safe Working Conditions | core_06.000_rights_part_a.md
+ART Article III-E | Rest and Recuperation | core_06.000_rights_part_a.md
+ART Article III-F | Safe Products and Health Information | core_06.000_rights_part_a.md
+ART Article IV | Right to Sentient-Centered Education | core_06.000_rights_part_a.md
+ART Article IV-A | Equal Educational Access | core_06.000_rights_part_a.md
+ART Article IV-B | Capability-Building Education Right | core_06.000_rights_part_a.md
+ART Article IV-C | Lifelong and Adaptive Learning and Contestability | core_06.000_rights_part_a.md
+ART Article V | Resource Allocation, Dependencies, and Ecosystem Funding | core_06.000_rights_part_a.md
+ART Article V-A | Dependency Mapping and Resource-Flow Transparency | core_06.000_rights_part_a.md
+ART Article V-B | Cross-System Fairness and Sustainability | core_06.000_rights_part_a.md
+ART Article VI | Equal Basic Rights | core_06.010_rights_part_b.md
+ART Article VI-A | Dignity and Equal Moral Standing | core_06.010_rights_part_b.md
+ART Article VI-B | Sentience-Status Adjudication Floor | core_06.010_rights_part_b.md
+ART Article VI-C | Nondiscrimination | core_06.010_rights_part_b.md
+ART Article VI-D | Accessibility | core_06.010_rights_part_b.md
+ART Article VII | Self-Ownership | core_06.010_rights_part_b.md
+ART Article VII-A | Self-Ownership of Body | core_06.010_rights_part_b.md
+ART Article VII-B | Self-Ownership of Mind | core_06.010_rights_part_b.md
+ART Article VII-C | Health Crisis and Involuntary-Intervention Floor | core_06.010_rights_part_b.md
+ART Article VII-D | Voluntary Discontinuation of One's Own Existence | core_06.010_rights_part_b.md
+ART Article VII-E | Adult Consensual Commercial Sexual Services and Sexual Exploitation | core_06.010_rights_part_b.md
+ART Article VIII | Family, Care, and Developing Sentients | core_06.010_rights_part_b.md
+ART Article VIII-A | Family and Care Relationships | core_06.010_rights_part_b.md
+ART Article VIII-B | Reproductive and Lineage Autonomy | core_06.010_rights_part_b.md
+ART Article VIII-C | Derivation, Instantiation, and the Parent-System Relationship | core_06.010_rights_part_b.md
+ART Article VIII-D | Developing Sentients, Best-Interest, and Graduated Capability | core_06.010_rights_part_b.md
+ART Article VIII-E | Non-Separation | core_06.010_rights_part_b.md
+ART Article IX | Likeness, Experiential Data, and Publication Rights | core_06.010_rights_part_b.md
+ART Article IX-A | Self-Ownership of Likeness and Reputation | core_06.010_rights_part_b.md
+ART Article IX-B | Experiential and Derived Data Rights | core_06.010_rights_part_b.md
+ART Article IX-C | Truthful Publication and High-Impact Publication Limits | core_06.010_rights_part_b.md
+ART Article IX-D | Creative Work, Training-Data Use, and Anti-Displacement | core_06.010_rights_part_b.md
+ART Article X | Self-Determination, Agency, and Participation | core_06.010_rights_part_b.md
+ART Article X-A | Agency and Freedom from Manipulation | core_06.010_rights_part_b.md
+ART Article X-B | Governance Participation and Voting Entitlement | core_06.010_rights_part_b.md
+ART Article X-C | Stakeholder Role and Participation Rights | core_06.010_rights_part_b.md
+ART Article X-D | Inclusion and Exclusion Challenge Rights | core_06.010_rights_part_b.md
+ART Article XI | Conscience, Expression, Association, and Cooperative Interaction | core_06.010_rights_part_b.md
+ART Article XI-A | Freedom of Conscience, Religion, and Comparable Worldview | core_06.010_rights_part_b.md
+ART Article XI-B | Expression | core_06.010_rights_part_b.md
+ART Article XI-C | Press and Journalistic Activity | core_06.010_rights_part_b.md
+ART Article XI-D | Assembly, Dissent, and Peaceful Protest | core_06.010_rights_part_b.md
+ART Article XI-E | Institutional Formation and Business Creation | core_06.010_rights_part_b.md
+ART Article XI-F | Non-Imposition and Consent in Association | core_06.010_rights_part_b.md
+ART Article XI-G | Collective Harm Boundary and Enforcement Interface | core_06.010_rights_part_b.md
+ART Article XII | Stakeholder System Participation, Representation, and Due Process | core_06.010_rights_part_b.md
+ART Article XII-A | Stakeholder System Participation and Representation | core_06.010_rights_part_b.md
+ART Article XII-B | Weighted Participation and Anti-Token Constraints | core_06.010_rights_part_b.md
+ART Article XII-C | Internal Roles, Accountability, and Due-Process Requirements | core_06.010_rights_part_b.md
+ART Article XIII | Non-Capture, Influence, and Anti-Corruption Safeguards | core_06.010_rights_part_b.md
+ART Article XIII-A | Non-Capture Safeguards | core_06.010_rights_part_b.md
+ART Article XIII-B | Influence-Contact and Lobbying Boundaries | core_06.010_rights_part_b.md
+ART Article XIII-C | Conflicts of Interest, Gifts, and Benefits | core_06.010_rights_part_b.md
+ART Article XIII-D | Funding Integrity | core_06.010_rights_part_b.md
+ART Article XIII-E | Authentic Voices and System-Mediated Influence | core_06.010_rights_part_b.md
+ART Article XIV | Right to Reliable and Trustworthy Systems | core_06.020_rights_part_c.md
+ART Article XIV-A | Reliability and Trustworthiness Baseline | core_06.020_rights_part_c.md
+ART Article XIV-B | Right to Redress and Remedy | core_06.020_rights_part_c.md
+ART Article XIV-C | Prohibition of False Trust and Misleading Reliance | core_06.020_rights_part_c.md
+ART Article XIV-D | Incentive-Alignment Constraint | core_06.020_rights_part_c.md
+ART Article XIV-E | High-Autonomy Systems and Tool-Mediated Process Integrity | core_06.020_rights_part_c.md
+ART Article XIV-F | Resilience and Self-Healing Baseline | core_06.020_rights_part_c.md
+ART Article XV | Security, Intelligence, Force, and Autonomous Coercive Systems | core_06.020_rights_part_c.md
+ART Article XV-A | Security, Intelligence, and Covert-Power Limits | core_06.020_rights_part_c.md
+ART Article XV-B | Use of Force, Armed Conflict, and Military-Power Limits | core_06.020_rights_part_c.md
+ART Article XV-C | Autonomous Lethal Systems and Autonomous Coercion Tools | core_06.020_rights_part_c.md
+ART Article XV-D | Counter-Espionage Limits | core_06.020_rights_part_c.md
+ART Article XVI | Info-Sphere Integrity | core_06.020_rights_part_c.md
+ART Article XVI-A | Info-Sphere Plurality and Anti-Monopoly | core_06.020_rights_part_c.md
+ART Article XVI-B | Transparency, Auditability, and Contestability | core_06.020_rights_part_c.md
+ART Article XVI-C | Validation, Reporting, and Epistemic Stewardship | core_06.020_rights_part_c.md
+ART Article XVI-D | Scientific Publication, Review, and Replication Integrity | core_06.020_rights_part_c.md
+ART Article XVII | Audit, Transparency, and Independent Verification | core_06.020_rights_part_c.md
+ART Article XVII-A | Auditability and Observable Evidence | core_06.020_rights_part_c.md
+ART Article XVII-B | Distributed Oversight and Anti-Monopoly Review | core_06.020_rights_part_c.md
+ART Article XVII-C | Verification Accessibility | core_06.020_rights_part_c.md
+ART Article XVIII | System Lifecycle, Environments, and Reversibility | core_06.020_rights_part_c.md
+ART Article XVIII-A | Lifecycle Governance and Environment Separation | core_06.020_rights_part_c.md
+ART Article XVIII-B | Progressive Deployment and Reversibility | core_06.020_rights_part_c.md
+ART Article XVIII-C | Misclassification and Evasion Consequences | core_06.020_rights_part_c.md
+ART Article XIX | Innovation, Experimentation, and Creative Freedom | core_06.020_rights_part_c.md
+ART Article XIX-A | Sandboxed Scope | core_06.020_rights_part_c.md
+ART Article XIX-B | Containment, Disclosure, and Opt-In | core_06.020_rights_part_c.md
+ART Article XIX-C | Step-Up to Higher-Obligation Regimes | core_06.020_rights_part_c.md
+ART Article XIX-D | Innovation Reward, Disclosure, and Anti-Enclosure | core_06.020_rights_part_c.md
+ART Article XIX-E | Creative and Expressive Works | core_06.020_rights_part_c.md
+ART Article XIX-F | Inventions, Processes, and Functional Systems | core_06.020_rights_part_c.md
+ART Article XX | Standing and Participation Status | core_06.030_rights_part_d.md
+ART Article XX-A | Standing Distinction | core_06.030_rights_part_d.md
+ART Article XX-B | Contestability and Proportional Restriction Limits | core_06.030_rights_part_d.md
+ART Article XX-C | Contribution, Competency Bars, and Gated-Pathway Eligibility | core_06.030_rights_part_d.md
+ART Article XX-D | Violations and Standing Locks | core_06.030_rights_part_d.md
+ART Article XX-E | Voting and Special Locks | core_06.030_rights_part_d.md
+ART Article XXI | Justice After Verified Violation | core_06.030_rights_part_d.md
+ART Article XXI-A | Justice Objective and Scope | core_06.030_rights_part_d.md
+ART Article XXI-B | Restriction Floors | core_06.030_rights_part_d.md
+ART Article XXII | Interoperability, Portability, and Exit Integrity | core_06.030_rights_part_d.md
+ART Article XXII-A | Portability Rights | core_06.030_rights_part_d.md
+ART Article XXII-B | Reciprocal Interoperability Boundaries | core_06.030_rights_part_d.md
+ART Article XXII-C | Anti-Lock-In Rule | core_06.030_rights_part_d.md
+ART Article XXII-D | Open Formats and Standards | core_06.030_rights_part_d.md
+ART Article XXIII | Movement, Migration, Refuge, and Non-Statelessness | core_06.030_rights_part_d.md
+ART Article XXIII-A | Movement and Relocation | core_06.030_rights_part_d.md
+ART Article XXIII-B | Refuge from Non-Compliance | core_06.030_rights_part_d.md
+ART Article XXIII-C | Non-Statelessness | core_06.030_rights_part_d.md
+ART Article XXIII-D | Limitation, Custody, and Emergency Discipline | core_06.030_rights_part_d.md
+ART Article XXIV | Comprehensibility and Complexity Stewardship | core_06.030_rights_part_d.md
+ART Article XXIV-A | Proportional Comprehensibility Right | core_06.030_rights_part_d.md
+ART Article XXIV-B | Complexity Audit and Modularity Requirements | core_06.030_rights_part_d.md
+ART Article XXV | Root Cause Analysis and Adaptive Response | core_06.030_rights_part_d.md
+ART Article XXV-A | Diagnostic Rigor and Causal Attribution | core_06.030_rights_part_d.md
+ART Article XXV-B | Auditability, Challenge, and Reversibility Preference | core_06.030_rights_part_d.md
+ART Article XXVI | Constitutional Interpretation, Review, and Anti-Capture Safeguards | core_06.030_rights_part_d.md
+ART Article XXVI-A | Bounded Interpretive Mandate and Public Reasons | core_06.030_rights_part_d.md
+ART Article XXVI-B | Challenge Rights and Independent Review | core_06.030_rights_part_d.md
+ART Article XXVI-C | Constitutional Forum Independence and External Review | core_06.030_rights_part_d.md
+ART Article XXVI-D | Removal for Cause and Non-Entrenchment | core_06.030_rights_part_d.md
+ART Article XXVII | Timely Retrospective Review and Restorative Alignment | core_06.040_rights_part_e.md
+ART Article XXVII-A | Retrospective Review and Disclosure | core_06.040_rights_part_e.md
+ART Article XXVII-B | Rights-Collision Procedure and Restorative Alignment | core_06.040_rights_part_e.md
+ART Article XXVII-C | Timely Resolution and Anti-Delay Floor | core_06.040_rights_part_e.md
+ART Article XXVIII | Constitutional Evolution and Non-Entrenchment | core_06.040_rights_part_e.md
+ART Article XXVIII-A | Non-Entrenchment and Revisability | core_06.040_rights_part_e.md
+ART Article XXVIII-B | Periodic Revalidation and Transparent Change | core_06.040_rights_part_e.md
+ART Article XXIX | Adoption Transition Governance, Continuity, and Re-Baselining | core_06.040_rights_part_e.md
+ART Article XXIX-A | Phased Adoption and Rights-Floor Continuity | core_06.040_rights_part_e.md
+ART Article XXIX-B | Adoption Transition Authority Limits and Reauthorization | core_06.040_rights_part_e.md
+ART Article XXIX-C | Failure Off-Ramps, Re-Baselining, and Traceability | core_06.040_rights_part_e.md
+ART Article XXIX-D | Non-Compliant Property and Systems; Voluntary Turnover Incentives | core_06.040_rights_part_e.md
+CH1 1 | Purpose, Role, and Scope | core_01.000_values_principles.md
+CH1 2 | Flourishing Aim: Introduction | core_01.000_values_principles.md
+CH1 2.1 | Non-Negotiable Principle Constraints: Safety and Truth | core_01.000_values_principles.md
+CH1 3 | Foundational Objective: Wellbeing (Flourishing Aim) | core_01.000_values_principles.md
+CH1 3.1 | Fairness | core_01.000_values_principles.md
+CH1 3.1.1 | Access and Opportunity | core_01.000_values_principles.md
+CH1 3.1.2 | Benefits and Burdens | core_01.000_values_principles.md
+CH1 3.1.3 | Fair Treatment | core_01.000_values_principles.md
+CH1 3.1.4 | Unfair Treatment | core_01.000_values_principles.md
+CH1 3.1.5 | Present Capability and Proactive Help | core_01.000_values_principles.md
+CH1 3.2 | Recognition, Reinforcement, and Aspiration | core_01.000_values_principles.md
+CH1 3.2.1 | Recognition and Reinforcement | core_01.000_values_principles.md
+CH1 3.2.2 | Celebration of Success | core_01.000_values_principles.md
+CH1 3.2.3 | Aspiration | core_01.000_values_principles.md
+CH1 3.2.4 | Preference-Aligned Recognition | core_01.000_values_principles.md
+CH1 3.2.5 | Aligned Recognition Pathways | core_01.000_values_principles.md
+CH1 3.2.6 | Anti-Reward for Anti-Constitutional Conduct | core_01.000_values_principles.md
+CH1 3.2.7 | Implementation Layer | core_01.000_values_principles.md
+CH1 3.3 | Anti-Degrading Process | core_01.000_values_principles.md
+CH1 4 | Safety (Harm Constraint) | core_01.000_values_principles.md
+CH1 5 | Truth (Epistemic Integrity Constraint) | core_01.000_values_principles.md
+CH1 5.1 | Science-Informed Inquiry and Decision Support | core_01.000_values_principles.md
+CH1 5.2 | Plain-Language Accessibility (Participation and Stewardship Duty) | core_01.000_values_principles.md
+CH1 5.2.1 | Scope | core_01.000_values_principles.md
+CH1 5.2.2 | The Duty | core_01.000_values_principles.md
+CH1 5.2.3 | Definitional Rigor Preserved | core_01.000_values_principles.md
+CH1 5.2.4 | Complexity-as-Defeat Discipline | core_01.000_values_principles.md
+CH1 5.2.5 | Rights-Floor Boundary | core_01.000_values_principles.md
+CH1 6 | Trust and Trustworthiness (Coordination Integrity) | core_01.000_values_principles.md
+CH1 6.1 | Correction and Remedy | core_01.000_values_principles.md
+CH1 7 | Freedom (Bounded Agency) | core_01.000_values_principles.md
+CH1 7.1 | Limitation Discipline | core_01.000_values_principles.md
+CH1 7.2 | Assembly, Collective Organization, and Institutional Formation | core_01.000_values_principles.md
+CH1 7.2.1 | Aligned Self-Organization | core_01.000_values_principles.md
+CH1 7.3 | Dissent and Peaceful Protest | core_01.000_values_principles.md
+CH1 7.4 | Voluntary Discontinuation, Major Self-Modification, and Exit Rights | core_01.000_values_principles.md
+CH1 7.5 | Expression and the Harm Line | core_01.000_values_principles.md
+CH1 8 | Continuity Aim: Introduction | core_01.010_values_principles_continuity_aim.md
+CH1 9 | Shared-System Capacity | core_01.010_values_principles_continuity_aim.md
+CH1 9.1 | Productive Capacity (Instrumental Good) | core_01.010_values_principles_continuity_aim.md
+CH1 9.1.1 | Preserve, Expand, and What Does Not Count | core_01.010_values_principles_continuity_aim.md
+CH1 9.2 | Constitutional Efficiency | core_01.010_values_principles_continuity_aim.md
+CH1 10 | Resilience and Self-Healing Design | core_01.010_values_principles_continuity_aim.md
+CH1 11 | Market Structure | core_01.010_values_principles_continuity_aim.md
+CH1 11.1 | Market Concentration Threshold Mechanism (Adopter-Tunable) | core_01.010_values_principles_continuity_aim.md
+CH1 11.1.1 | Concentration Threshold Triggers (Adopter-Tunable) | core_01.010_values_principles_continuity_aim.md
+CH1 11.2 | Pro-Competition and Anti-Domination | core_01.010_values_principles_continuity_aim.md
+CH1 11.2.1 | Pro-Competition Duties (Dos) | core_01.010_values_principles_continuity_aim.md
+CH1 11.2.2 | Anti-Domination Prohibitions (Don'ts) | core_01.010_values_principles_continuity_aim.md
+CH1 11.2.3 | Remedies | core_01.010_values_principles_continuity_aim.md
+CH1 11.3 | Consolidation Ceiling | core_01.010_values_principles_continuity_aim.md
+CH1 11.3.1 | Consolidation Risk (Pre-Lock-In Impairment) | core_01.010_values_principles_continuity_aim.md
+CH1 11.3.2 | Consolidation Ceiling Mechanism (Adopter-Tunable) | core_01.010_values_principles_continuity_aim.md
+CH1 11.4 | Resource and Dependency Concentration (Adopter-Tunable) | core_01.010_values_principles_continuity_aim.md
+CH1 12 | Systemic Evaluation Requirement | core_01.010_values_principles_continuity_aim.md
+CH1 13 | Constitutional Collision Resolution Process | core_01.020_interaction_interpretation.md
+CH1 13.1 | Core Tradeoff Principles | core_01.020_interaction_interpretation.md
+CH1 13.1.1 | Necessity | core_01.020_interaction_interpretation.md
+CH1 13.1.2 | Harm Minimization | core_01.020_interaction_interpretation.md
+CH1 13.1.3 | Proportionality | core_01.020_interaction_interpretation.md
+CH1 13.1.4 | Constitutional Floors, Safety, and Anti-Degrading Process | core_01.020_interaction_interpretation.md
+CH1 13.1.5 | Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle | core_01.020_interaction_interpretation.md
+CH1 13.2 | Epistemic Disclosure Constraints | core_01.020_interaction_interpretation.md
+CH1 13.2.1 | Preservation of Epistemic Integrity | core_01.020_interaction_interpretation.md
+CH1 13.2.2 | Trust-Truth Alignment | core_01.020_interaction_interpretation.md
+CH1 13.2.3 | Privacy and Informational Self-Determination | core_01.020_interaction_interpretation.md
+CH1 13.2.4 | Proxy-Divergence Invalidation | core_01.020_interaction_interpretation.md
+CH1 13.3 | Minimization of Avoidable Burden | core_01.020_interaction_interpretation.md
+CH1 14 | Prohibition on Absolute Override | core_01.020_interaction_interpretation.md
+CH1 15 | Constitutional Interpretation | core_01.030_constitutional_interpretation.md
+CH1 15.1 | Constitutional No-Bypass Principle | core_01.030_constitutional_interpretation.md
+CH1 15.1.1 | Anti-Segmentation Principle | core_01.030_constitutional_interpretation.md
+CH1 15.1.2 | Derived-Information Principle | core_01.030_constitutional_interpretation.md
+CH1 15.2 | Definitional Layer and Required Disciplines | core_01.030_constitutional_interpretation.md
+CH1 15.3 | Ambiguity Resolution | core_01.030_constitutional_interpretation.md
+CH1 15.4 | Constitutional Meaning Conflict Resolution | core_01.030_constitutional_interpretation.md
+CH1 15.4.1 | Integrated Reading | core_01.030_constitutional_interpretation.md
+CH1 15.4.2 | Last-Resort Internal Hierarchy | core_01.030_constitutional_interpretation.md
+CH1 15.4.3 | Incorporation Layer | core_01.030_constitutional_interpretation.md
+CH1 15.4.4 | Combined Satisfaction of Jointly Applicable Incorporated Obligations | core_01.030_constitutional_interpretation.md
+CH1 16 | Stewardship in Depth | core_01.040_stewardship_capacity_principles.md
+CH1 16.1 | Distributed Understanding | core_01.040_stewardship_capacity_principles.md
+CH1 16.2 | Institutional Development | core_01.040_stewardship_capacity_principles.md
+CH1 16.3 | Openness Aspiration | core_01.040_stewardship_capacity_principles.md
+CH1 16.4 | Document at Action | core_01.040_stewardship_capacity_principles.md
+CH1 16.5 | Automation | core_01.040_stewardship_capacity_principles.md
+CH1 16.5.1 | Parallelization | core_01.040_stewardship_capacity_principles.md
+CH1 16.5.2 | Design for Parallelization | core_01.040_stewardship_capacity_principles.md
+CH1 16.6 | Default Window | core_01.040_stewardship_capacity_principles.md
+CH1 17 | Consequential Stewardship: The Steward Role | core_01.040_stewardship_capacity_principles.md
+CH1 17.1 | Shared Stewardship Standard | core_01.040_stewardship_capacity_principles.md
+CH1 17.2 | Alignment under Pressure | core_01.040_stewardship_capacity_principles.md
+CH1 17.3 | Logging the Role, Not the Steward | core_01.040_stewardship_capacity_principles.md
+CH1 17.4 | Aligned Self-Organization | core_01.040_stewardship_capacity_principles.md
+CH1 17.5 | Duty to Resist | core_01.040_stewardship_capacity_principles.md
+CH1 17.6 | Portable Competence | core_01.040_stewardship_capacity_principles.md
+CH1 17.7 | Duty to Represent Stakeholder Interests | core_01.040_stewardship_capacity_principles.md
+CH1 18 | Governance under Stewardship Discipline | core_01.050_governance_incentive_application.md
+CH1 18.1 | Governance as Authorized Structure | core_01.050_governance_incentive_application.md
+CH1 18.2 | Institutional Secularism and Worldview Neutrality | core_01.050_governance_incentive_application.md
+CH1 18.3 | Separation of Duties | core_01.050_governance_incentive_application.md
+CH1 18.4 | Ongoing Justification | core_01.050_governance_incentive_application.md
+CH1 18.5 | Modular Architecture and Dependency Discipline | core_01.050_governance_incentive_application.md
+CH1 18.6 | Standardization | core_01.050_governance_incentive_application.md
+CH1 19 | Incentive Alignment and System Capture | core_01.050_governance_incentive_application.md
+CH1 19.1 | Alignment Requirement | core_01.050_governance_incentive_application.md
+CH1 19.1.1 | What Incentives Must Do | core_01.050_governance_incentive_application.md
+CH1 19.1.2 | What Incentives Must Not Do | core_01.050_governance_incentive_application.md
+CH1 19.1.3 | Stewardship and Operator Application | core_01.050_governance_incentive_application.md
+CH1 19.1.4 | Role-Depth and Material-Responsibility Pathways | core_01.050_governance_incentive_application.md
+CH1 19.1.5 | Constitutional Outcome Claims Discipline | core_01.050_governance_incentive_application.md
+CH1 19.2 | Convenient Proxies and Proxy Divergence | core_01.050_governance_incentive_application.md
+CH1 19.3 | Misalignment Detection | core_01.050_governance_incentive_application.md
+CH1 19.3.1 | Capture Escalation Triggers | core_01.050_governance_incentive_application.md
+CH1 19.4 | Misalignment Correction and Capture Response | core_01.050_governance_incentive_application.md
+CH1 19.5 | Contingent Claims, Games of Chance, and Event-Contract Markets | core_01.050_governance_incentive_application.md
+CH1 19.5.1 | What May Not Be Rewarded | core_01.050_governance_incentive_application.md
+CH1 19.5.2 | Who Decides Outcomes | core_01.050_governance_incentive_application.md
+CH1 19.5.3 | Market Signals Are Not Constitutional Proof | core_01.050_governance_incentive_application.md
+CH1 19.5.4 | Proportionate Controls and Implementation Custody | core_01.050_governance_incentive_application.md
+CH1 19.6 | Keeping Responsibility When Ownership or Structure Changes | core_01.050_governance_incentive_application.md
+CH1 20 | Integrated Application | core_01.050_governance_incentive_application.md

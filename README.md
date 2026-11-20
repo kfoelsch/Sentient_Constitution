@@ -59,8 +59,8 @@ It is a *model* constitution. An organization (for example a cooperative, a rese
 You do not have to read everything. Pick the time you have; each path builds on the one before it.
 
 - **15 minutes:** this page's [What Is This?](#what-is-this) and [Is This in Effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00.000_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
-- **45 minutes:** the 15-minute path, then [the whole Constitution in brief](guides/CONCEPTUAL_OVERVIEW.md#the-whole-constitution-in-brief) (one short entry per chapter), [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-1-child-neglect--care-duty-failure-tier-a).
-- **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter One, Part A](core_01.000_values_principles.md) (core values) and the [Rights Floor](core_06.000_rights_part_a.md) articles named in the guide you opened.
+- **45 minutes:** the 15-minute path, then [the whole Constitution in brief](guides/CONCEPTUAL_OVERVIEW.md#the-whole-constitution-in-brief) (one short entry per chapter), [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-1-child-neglect--care-duty-failure-tier-a).
+- **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter Two, Part A](core_02.000_values_principles.md) (core values) and the [Rights Floor](core_04.000_rights_part_a.md) articles named in the guide you opened.
 
 **Thinking about using or adopting it?** Add [Using or adopting it: start here](START_HERE.md) to whichever path you choose. That page covers fit, the two ways to use the text, and the adoption kits.
 
@@ -90,43 +90,45 @@ You do not have to read everything. Pick the time you have; each path builds on 
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–31</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–30</span></strong></summary>
 
-The Constitution is one document split into a Preamble and thirty-one chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
+The Constitution is one document split into a Preamble and thirty chapters, with a subcore of detailed rules attached to some chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
 | Part | What it covers |
 |---|---|
-| [Preamble](core_00.000_preamble.md) | Why it exists: the four duties, the two goals, and how the pieces connect |
-| **Chapter 1**: [Part A](core_01.000_values_principles.md) · [Part B](core_01.010_values_principles_continuity_aim.md) · [Part C](core_01.020_interaction_interpretation.md) · [Part D](core_01.030_constitutional_interpretation.md) · [Part E](core_01.040_stewardship_capacity_principles.md) · [Part F](core_01.050_governance_incentive_application.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
-| **Chapters 2–4**: [2](core_02.000_definition_structure.md) · [3](core_03.000_definition_integrity.md) · [4](core_04.000_burden_traceability_verification.md) | How key terms are defined, protected against loopholes, and backed with evidence |
-| **Chapter 5**: [Definitions](core_05.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
-| **Chapter 6**: [Part A](core_06.000_rights_part_a.md) · [Part B](core_06.010_rights_part_b.md) · [Part C](core_06.020_rights_part_c.md) · [Part D](core_06.030_rights_part_d.md) · [Part E](core_06.040_rights_part_e.md) | **The Rights Floor**: Articles I–XXIX |
-| **Chapter 7**: [System and Institutional Charters](core_07.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
-| **Chapter 8**: [Separation of Duties](core_08.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
-| **Chapters 9–11**: [9](core_09.000_system_alignment_certification_evaluation.md) · [10](core_10.000_system_alignment_certification_forum_process_outcomes.md) · [11](core_11.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
-| **Chapters 12–14**: [12](core_12.000_institutional_alignment_certification_evaluation.md) · [13](core_13.000_institutional_alignment_certification_forum_process_outcomes.md) · [14](core_14.000_institutional_alignment_certification_records_recertification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
-| **Chapter 15**: [Standing Records](core_15.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
-| **Chapter 16**: [Standing measurement](core_16.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
-| **Chapters 17–20**: [17](core_17.000_standing_integration.md) · [18](core_18.000_contribution_consequences.md) · [19](core_19.000_violation_consequences.md) · [20](core_20.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
-| **Chapters 21–22**: [21](core_21.000_misconduct_designation.md) · [22](core_22.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 23**: [Forum](core_23.000_forum.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
-| **Chapter 24**: [Forum families and timely resolution](core_24.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
-| [Worked examples for Chapters 15–22](corpus_joint_structure/cjs_15.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
-| **Chapter 25**: [Enforcement](core_25.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
-| **Chapter 26**: [Special enforcement](core_26.000_special_enforcement.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
-| **Chapter 27**: [Governance](core_27.000_governance.md) | Who may govern, and how that authority is granted and checked |
-| **Chapter 28**: [Non-regression](core_28.000_non_regression.md) | Protections can be strengthened but not rolled back |
-| **Chapter 29**: [Amendment and adoption](core_29.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
-| **Chapter 30**: [Supremacy and other laws](core_30.000_expansion_supremacy.md) | How it relates to local, national, and international law |
-| **Chapter 31**: [Incorporation](core_31.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
+| [Preamble](core_00.000_preamble.md) | Why it exists: the four duties, the two goals, and the two questions every system must answer |
+| **Chapter 1**: [Constitutional Map](core_01.000_constitutional_map.md) | How the pieces connect: the main processes, which chapter owns which rule, and where the adopted implementation text fits |
+| **Chapter 2**: [Part A](core_02.000_values_principles.md) · [Part B](core_02.010_values_principles_continuity_aim.md) · [Part C](core_02.020_interaction_interpretation.md) · [Part D](core_02.030_constitutional_interpretation.md) · [Part E](core_02.040_stewardship_capacity_principles.md) · [Part F](core_02.050_governance_incentive_application.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
+| **Chapter 3**: [Definitions](core_03.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 3 files ↓](#chapter-three-files)) |
+| **Chapter 3 subcore**: [3-A Definition structure](subcore_03.010_definition_structure.md) · [3-B Definition integrity](subcore_03.020_definition_integrity.md) · [3-C Burden of proof and verification](subcore_03.030_burden_traceability_verification.md) · [3-D Integrative definitions](subcore_03.045_band_integrative.md) | The rules behind the dictionary: how a definition is built, protected against loopholes, and backed with evidence |
+| **Chapter 4**: [Part A](core_04.000_rights_part_a.md) · [Part B](core_04.010_rights_part_b.md) · [Part C](core_04.020_rights_part_c.md) · [Part D](core_04.030_rights_part_d.md) · [Part E](core_04.040_rights_part_e.md) | **The Rights Floor**: Articles I–XXIX |
+| **Chapter 5**: [System and Institutional Charters](core_05.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
+| **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
+| **Chapter 7**: [Independent Bodies](core_07.000_independent_bodies.md) | What makes a body independent, and the list of bodies every adopter must have |
+| **Chapters 8–10**: [8](core_08.000_system_alignment_certification_evaluation.md) · [9](core_09.000_system_alignment_certification_forum_process_outcomes.md) · [10](core_10.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
+| **Chapters 11–13**: [11](core_11.000_institutional_alignment_certification_evaluation.md) · [12](core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · [13](core_13.000_institutional_alignment_certification_records_recertification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
+| **Chapter 14**: [Standing Records](core_14.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
+| **Chapter 15**: [Standing measurement](core_15.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
+| **Chapters 16–19**: [16](core_16.000_standing_integration.md) · [17](core_17.000_contribution_consequences.md) · [18](core_18.000_violation_consequences.md) · [19](core_19.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
+| **Chapters 20–21**: [20](core_20.000_misconduct_designation.md) · [21](core_21.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
+| **Chapter 22**: [Forum](core_22.000_forum.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
+| **Chapter 23**: [Forum families and timely resolution](core_23.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
+| [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
+| **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
+| **Chapter 25**: [Special enforcement](core_25.000_special_enforcement.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
+| **Chapter 26**: [Governance](core_26.000_governance.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 27**: [Non-regression](core_27.000_non_regression.md) | Protections can be strengthened but not rolled back |
+| **Chapter 28**: [Amendment and adoption](core_28.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 29**: [Supremacy and other laws](core_29.000_expansion_supremacy.md) | How it relates to local, national, and international law |
+| **Chapter 30**: [Incorporation](core_30.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
-<a id="chapter-five-files"></a>
-**All Chapter 5 files:**
+<a id="chapter-three-files"></a>
+**All Chapter 3 files:**
 
-- [Definitions home](core_05.000_definitions_home.md): reader guidance and the directory of terms
-- The two goals: [Flourishing](core_05.015_apex_flourishing_aim.md) · [Continuity](core_05.010_apex_continuity_aim.md)
-- The four duties: [Participation](core_05.025_apex_participation_leg.md) · [Oversight](core_05.020_apex_oversight_leg.md) · [Accountability](core_05.005_apex_accountability_leg.md) · [Timeliness](core_05.030_apex_timeliness_leg.md)
-- Supporting terms: [Participation](core_05.055_band_participation.md) · [Oversight](core_05.050_band_oversight.md) · [Accountability](core_05.035_band_accountability.md) · [Continuity](core_05.040_band_continuity.md) · [Integrative](core_05.045_band_integrative.md) · [Constitutional Performance](core_05.060_band_performance.md)
+- [Definitions home](core_03.000_definitions_home.md): reader guidance and the directory of terms
+- The two goals: [Flourishing](core_03.015_apex_flourishing_aim.md) · [Continuity](core_03.010_apex_continuity_aim.md)
+- The four duties: [Participation](core_03.025_apex_participation_leg.md) · [Oversight](core_03.020_apex_oversight_leg.md) · [Accountability](core_03.005_apex_accountability_leg.md) · [Timeliness](core_03.030_apex_timeliness_leg.md)
+- Supporting terms: [Participation](core_03.055_band_participation.md) · [Oversight](core_03.050_band_oversight.md) · [Accountability](core_03.035_band_accountability.md) · [Continuity](core_03.040_band_continuity.md) · [Integrative (Subcore 3-D)](subcore_03.045_band_integrative.md) · [Constitutional Performance](core_03.060_band_performance.md)
 
 </details>
 <br>
@@ -153,8 +155,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
-- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 29](core_29.000_amendment_ratification.md#11-ratification-and-adoption) and [Chapter 31](core_31.000_incorporation.md).
-- **It does not override the law.** It does not replace local, national, or international law ([Chapter 30](core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 28](core_28.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter 30](core_30.000_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter 29](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 <a id="binding-vs-support"></a>
 <details>
@@ -162,7 +164,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 
 | Material | What it is | Status |
 |---|---|---|
-| **The Constitution text**: the Preamble and Chapters 1–31 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **The Constitution text**: the Preamble and Chapters 1–30 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **The subcore**: the `subcore_*` files, each attached to one chapter (today the three Chapter 3 subcore files, [list ↑](#the-full-text)) | The full detail of rules that must be the same everywhere, kept out of the chapters so they stay readable | Part of the Constitution text: binds exactly as its chapter does, and changes only by amendment |
 | **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
 
@@ -187,26 +190,26 @@ If any of these disagree, **the Constitution text wins**.
 <a id="adopted-implementation-corpus"></a>
 ### Implementation Files
 
-The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
+The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Three terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
-- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-31.110 interlocks, CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
-- [corpus_systems.md](corpus_systems.md): systems implementation (CS-6.305 and CS-6.310 information types, CS-9.305 and CS-9.310 system classification, CS-27.305 critical stewardship, named protocols)
+- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-30.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
+- [corpus_systems.md](corpus_systems.md): systems implementation (CS-4.305 and CS-4.310 information types, CS-8.305 and CS-8.310 system classification, CS-26.305 critical stewardship, named protocols)
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Nine (ratification) and Chapter Thirty-One (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty-One §4](core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
+Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Eight (ratification) and Chapter Thirty (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty §5](core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
-**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint).
+**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), and [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](subcore_03.045_band_integrative.md#constitutional-constraint).
 
 ### Common Lookups
 
-- Burden of proof, traceability, verification: Chapter Four
-- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Eight
+- Burden of proof, traceability, verification: [Subcore 3-C](subcore_03.030_burden_traceability_verification.md)
+- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
-- Auditing and independent verification: Article XVII is the floor; Chapter Five [Auditability](core_05.050_band_oversight.md#auditability) is the property; [CJS-5.115 §3](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) is how and when; Chapter Nine is one large process that uses that stack
-- Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)
-- Remedy systems and enforcement realism: Chapter Twenty §4; implementation in CI-25.210
-- Relation to local, national, and international law: [Chapter Thirty §6](core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)
+- Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](core_03.050_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack
+- Duty to resist unlawful or unconstitutional instructions: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)
+- Remedy systems and enforcement realism: Chapter Nineteen §5; implementation in CI-24.210
+- Relation to local, national, and international law: [Chapter Twenty-Nine §7](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
 
 ### Editor and Operator Resources
 
@@ -223,7 +226,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
 - Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
 
-Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) and [Chapter Thirty-One](core_31.000_incorporation.md).
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) and [Chapter Thirty](core_30.000_incorporation.md).
 
 </details>
 
@@ -243,8 +246,8 @@ Two earlier projects by Karl Ernst sit alongside this Constitution. They are bac
 <details>
 <summary>More about these projects</summary>
 
-- **The Steward Network** (stewardnetwork.org) looks at existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05.040_band_continuity.md#existential-risk), [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05.010_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance framework for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
-- ***Rocking Change*** is the first in the Rocking Change series, available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/). It draws on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_05.040_band_continuity.md#wellbeing), [Psychological Harm](core_05.035_band_accountability.md#psychological-harm), and the [Flourishing](core_05.015_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
+- **The Steward Network** (stewardnetwork.org) looks at existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Three [Existential Risk](core_03.040_band_continuity.md#existential-risk), [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_03.010_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance framework for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
+- ***Rocking Change*** is the first in the Rocking Change series, available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/). It draws on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_03.040_band_continuity.md#wellbeing), [Psychological Harm](core_03.035_band_accountability.md#psychological-harm), and the [Flourishing](core_03.015_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
 
 Both are useful background on why the Constitution weights **Flourishing** and **Continuity** as it does. Cite them as the author's related work, not as sources of constitutional meaning.
 

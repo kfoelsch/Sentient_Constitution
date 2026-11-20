@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit Chapter Five entry-title and trace-separator formatting.
+"""Audit Chapter Three entry-title and trace-separator formatting.
 
 Separator rule (``doc_architecture.md`` CH5-FORMAT): one ``---`` between
 reader units, with the next entry's ``<a id>`` anchors *after* that rule.
@@ -7,10 +7,10 @@ Stacked rules and a ``---`` between an entry's own anchors and its title
 are failures. See ``tools/definition_separator_format.py``.
 
 Also enforces the **reference-side no-redundant-`(Constitutional)`-suffix rule**
-(see ``doc_architecture.md`` §"Order and alphabetization (Chapter Five)"
+(see ``doc_architecture.md`` §"Order and alphabetization (Chapter Three)"
 Section 1, *Reference-side rule*) across the binding corpus, architectural
 maps, and active implementation / planning notes. The rule: visible prose
-must not append `` (Constitutional)`` to a Chapter Five defined-term
+must not append `` (Constitutional)`` to a Chapter Three defined-term
 reference. URL anchor fragments (``#…-constitutional``) and HTML anchor tags
 (``<a id="…-constitutional"></a>``) are link-target identifiers and remain
 untouched. ``(Constitutional Constraint)`` is a distinct parenthetical that
@@ -40,8 +40,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--root", default=".", help="Workspace root (default: .).")
     parser.add_argument(
         "--file",
-        default="core_05.000_definitions_home.md",
-        help="Chapter Five Markdown file under --root.",
+        default="core_03.000_definitions_home.md",
+        help="Chapter Three Markdown file under --root.",
     )
     return parser.parse_args()
 
@@ -76,7 +76,7 @@ def audit_redundant_suffix(root: pathlib.Path) -> list[str]:
                 violations.append(
                     f"{path}:{lineno}: redundant ' (Constitutional)' suffix in "
                     f"prose reference (see doc_architecture.md §'Order and "
-                    f"alphabetization (Chapter Five)' Section 1 — "
+                    f"alphabetization (Chapter Three)' Section 1 — "
                     f"Reference-side rule): {raw.rstrip()}"
                 )
     return violations
@@ -215,11 +215,11 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
         lineno = idx + 1
         if "(Constitutional)" in title:
             violations.append(
-                f"{path}:{lineno}: visible Chapter Five entry titles must not use '(Constitutional)': {title}"
+                f"{path}:{lineno}: visible Chapter Three entry titles must not use '(Constitutional)': {title}"
             )
         if not is_heading:
             violations.append(
-                f"{path}:{lineno}: Chapter Five entry titles that own O/E/C content must use an explicit Markdown heading so following bullets render consistently: {title}"
+                f"{path}:{lineno}: Chapter Three entry titles that own O/E/C content must use an explicit Markdown heading so following bullets render consistently: {title}"
             )
 
     for idx in range(len(lines) - 1):
@@ -232,7 +232,7 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
         if current.startswith(("#", "-", "<", ">")) or current == "---":
             continue
         violations.append(
-            f"{path}:{idx + 2}: Chapter Five entry titles that use plain-text labels must keep a blank line before '- O:' so bullets render consistently: {current}"
+            f"{path}:{idx + 2}: Chapter Three entry titles that use plain-text labels must keep a blank line before '- O:' so bullets render consistently: {current}"
         )
 
     for idx in range(len(lines) - 1):
@@ -243,7 +243,7 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
         if following != "<details>":
             continue
         violations.append(
-            f"{path}:{idx + 2}: trace-bearing Chapter Five headings must keep a blank line between the heading and '<details>' so the Trace block renders with consistent spacing"
+            f"{path}:{idx + 2}: trace-bearing Chapter Three headings must keep a blank line between the heading and '<details>' so the Trace block renders with consistent spacing"
         )
 
     nonentry_open, nonentry_close = nonentry_widget_detail_lines(lines)
@@ -269,7 +269,7 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
         if title.startswith("#### ") and before_title.startswith("### "):
             continue
         violations.append(
-            f"{path}:{title_idx + 1}: trace-bearing Chapter Five entry should use a separator line above its title for local consistency: {title}"
+            f"{path}:{title_idx + 1}: trace-bearing Chapter Three entry should use a separator line above its title for local consistency: {title}"
         )
 
     for idx, raw in enumerate(lines):
@@ -304,7 +304,7 @@ def main() -> int:
     root = pathlib.Path(args.root)
     violations: list[str] = []
 
-    if args.file == "core_05.000_definitions_home.md" and all(
+    if args.file == "core_03.000_definitions_home.md" and all(
         (root / n).exists() for n in CH5_ALL
     ):
         for name in CH5_ALL:
@@ -319,7 +319,7 @@ def main() -> int:
         return 1
 
     print(
-        "PASS: Chapter Five entry titles and trace separators follow the local "
+        "PASS: Chapter Three entry titles and trace separators follow the local "
         "format rule; no redundant '(Constitutional)' suffix in corpus "
         "references."
     )

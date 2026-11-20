@@ -103,17 +103,17 @@ def main() -> int:
     # Remove orphaned child bullets left when a prior D14 pass split a
     # generated router annotation before the annotation itself was stripped.
     routed_fixture = (
-        "- Chapter One basis: §3.1.\n"
-        "  - **CJS-0.105 §1** (*Topic router*). Mandatory read-with: **CJS-5.110 §3**,\n"
-        "  - **CI-8.215 §3** (*Contest-integrity monitoring*).\n"
+        "- Chapter Two basis: §3.1.\n"
+        "  - **CJS-0.105 §1** (*Topic router*). Mandatory read-with: **CJS-3.110 §3**,\n"
+        "  - **CI-6.215 §3** (*Contest-integrity monitoring*).\n"
         "  - **CJS-0.105 §1** (*Topic router*); primary owners\n"
-        "  - **CI-23.205** (*Appointment and removal*),\n"
-        "- Ordinary downstream reference: **CJS-5.110 §3**.\n"
+        "  - **CI-22.205** (*Appointment and removal*),\n"
+        "- Ordinary downstream reference: **CJS-3.110 §3**.\n"
     )
     cleaned_routes = router_rewrite.strip_routing_annotations(routed_fixture)
     assert "Topic router" not in cleaned_routes
-    assert "CI-8.215" not in cleaned_routes
-    assert "CI-23.205" not in cleaned_routes
+    assert "CI-6.215" not in cleaned_routes
+    assert "CI-22.205" not in cleaned_routes
     assert "Ordinary downstream reference" in cleaned_routes
 
     sync_report = subprocess.check_output(

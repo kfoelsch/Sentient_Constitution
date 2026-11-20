@@ -67,16 +67,16 @@ class ScopeQualifiedTests(unittest.TestCase):
         self.assertEqual(phrases("Facts within scope are checked."), [])
 
     def test_ignores_inline_code_and_link_targets(self) -> None:
-        self.assertEqual(phrases("It rests on `the scope` and [the rule](core_13.000_the_scope.md)."), [])
+        self.assertEqual(phrases("It rests on `the scope` and [the rule](core_12.000_the_scope.md)."), [])
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe custodian acts for the scope.\n```\nThe custodian acts for the scope.\n"
-        found = scan_text("core_15.000_standing_assessment.md", text)
+        found = scan_text("core_14.000_standing_assessment.md", text)
         self.assertEqual([f.line for f in found], [4])
         self.assertEqual(scan_text("doc_architecture.md", "The custodian acts for the scope.\n"), [])
 
     def test_chapter_five_is_not_exempt(self) -> None:
-        found = scan_text("core_05.040_band_continuity.md", "Outside that scope, entries apply.\n")
+        found = scan_text("core_03.040_band_continuity.md", "Outside that scope, entries apply.\n")
         self.assertEqual([f.line for f in found], [1])
 
 

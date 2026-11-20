@@ -3,68 +3,68 @@
     {
       "id": "CJS-R01",
       "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
-      "primary_owner": "[**CI-9.210 \u00a73**](../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)",
+      "primary_owner": "[**CI-8.210 \u00a73**](../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md)",
       "primary_attach": [
-        "CI-9.210 \u00a73"
+        "CI-8.210 \u00a73"
       ]
     },
     {
       "id": "CJS-R14",
       "topic": "Institutional functional lanes and non-delegable splits",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md)",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md)",
       "primary_attach": [
-        "CI-8.205"
+        "CI-6.205"
       ]
     },
     {
       "id": "CJS-R15",
       "topic": "Contest-integrity monitoring (contest-pathway integrity, not merits)",
-      "primary_owner": "[**CI-8.215 \u00a73**](../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md)",
+      "primary_owner": "[**CI-6.215 \u00a73**](../corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md)",
       "primary_attach": [
-        "CI-8.215 \u00a73"
+        "CI-6.215 \u00a73"
       ]
     },
     {
       "id": "CJS-R16",
       "topic": "Cross-institution coordination, deadlock, and escalation",
-      "primary_owner": "[**CI-23.210**](../corpus_institutions/ci_23.210_cross_institution_coordination_escalation.md)",
+      "primary_owner": "[**CI-22.210**](../corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md)",
       "primary_attach": [
-        "CI-23.210"
+        "CI-22.210"
       ]
     },
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md), **CI-27.205**, **CI-6.215**, **CI-23.210**",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-26.205**, **CI-4.215**, **CI-22.210**",
       "primary_attach": [
-        "CI-8.205",
-        "CI-27.205",
-        "CI-6.215",
-        "CI-23.210"
+        "CI-6.205",
+        "CI-26.205",
+        "CI-4.215",
+        "CI-22.210"
       ]
     },
     {
       "id": "CJS-R20",
       "topic": "Remedy parity and lock-to-remedy capacity",
-      "primary_owner": "[**CI-25.210**](../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md)",
+      "primary_owner": "[**CI-24.210**](../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md)",
       "primary_attach": [
-        "CI-25.210"
+        "CI-24.210"
       ]
     },
     {
       "id": "CJS-R22",
       "topic": "Standing-Record custody, opening authority, and separation of duties",
-      "primary_owner": "[**CI-8.205**](../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) (*CI-8.205 \u00a72 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-8.205 \u00a76 System Charter or Institutional Charter field \u2014 Standing-Record custody*)",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md) (*CI-6.205 \u00a72 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-6.205 \u00a76 System Charter or Institutional Charter field \u2014 Standing-Record custody*)",
       "primary_attach": [
-        "CI-8.205"
+        "CI-6.205"
       ]
     },
     {
       "id": "CJS-R23",
       "topic": "Seat types, local role maps, and wrong-seat routing",
-      "primary_owner": "[**CI-27.205**](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) (*CI-27.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-27.205 \u00a75 role maps instantiate them*)",
+      "primary_owner": "[**CI-26.205**](../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md) (*CI-26.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-26.205 \u00a75 role maps instantiate them*)",
       "primary_attach": [
-        "CI-27.205"
+        "CI-26.205"
       ]
     }
   ]

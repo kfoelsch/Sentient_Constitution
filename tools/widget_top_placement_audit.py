@@ -160,7 +160,7 @@ def is_registry_annex(rel: str) -> bool:
 
 def is_ch5_definition_file(rel: str) -> bool:
     name = Path(rel).name
-    return name.startswith("core_05.") or name == "core_05.000_definitions_home.md"
+    return name.startswith("core_03.") or name == "core_03.000_definitions_home.md"
 
 
 def intervening_between_widgets(
@@ -422,7 +422,7 @@ def audit_section_widgets(
 ) -> list[str]:
     """Trace / O/M/A/C in a unit's direct content must open that unit."""
     if is_ch5_definition_file(rel):
-        # Chapter Five entry anatomy is owned by ch5-entry-format / related audits.
+        # Chapter Three entry anatomy is owned by ch5-entry-format / related audits.
         return []
 
     direct_end = direct_content_end(lines, start, level, end)

@@ -9,7 +9,7 @@ language list, a fit ranking, the wording of the Two Fundamental Questions, a
 and compares it with what the front doors say, so a change in one place fails
 loudly until the other is updated.
 
-Section labels in link text (``Chapter One §17.1``) are checked against their
+Section labels in link text (``Chapter Two §17.1``) are checked against their
 target headings by ``make section-label-anchor-audit``, which scans the same
 front-door pages (see ``FRONT_DOOR_FILES`` there). This audit does not repeat
 that check.
@@ -298,7 +298,7 @@ def check_chapters(root: Path) -> list[str]:
 
 def article_numerals(root: Path) -> list[int]:
     found: set[int] = set()
-    for path in sorted(root.glob("core_06.???_rights_part_*.md")):
+    for path in sorted(root.glob("core_04.???_rights_part_*.md")):
         for match in re.finditer(r"^#{1,6}\s+Article\s+([IVXL]+)\b", path.read_text(encoding="utf-8"), re.M):
             found.add(roman_to_int(match.group(1)))
     return sorted(found)
@@ -307,7 +307,7 @@ def article_numerals(root: Path) -> list[int]:
 def check_articles(root: Path) -> list[str]:
     numerals = article_numerals(root)
     if not numerals:
-        return ["no Article headings found in Chapter Six rights files (FRONT-DOOR-ARTICLES-01)"]
+        return ["no Article headings found in Chapter Four rights files (FRONT-DOOR-ARTICLES-01)"]
     errors: list[str] = []
     count, top = len(numerals), max(numerals)
     if numerals != list(range(1, top + 1)):

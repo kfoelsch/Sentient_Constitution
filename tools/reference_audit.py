@@ -13,11 +13,11 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 DEFAULT_ARTICLE_SOURCES = [
-    "core_06.000_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.020_rights_part_c.md",
-    "core_06.030_rights_part_d.md",
-    "core_06.040_rights_part_e.md",
+    "core_04.000_rights_part_a.md",
+    "core_04.010_rights_part_b.md",
+    "core_04.020_rights_part_c.md",
+    "core_04.030_rights_part_d.md",
+    "core_04.040_rights_part_e.md",
 ]
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")
@@ -44,7 +44,7 @@ SEMANTIC_RULES: list[tuple[re.Pattern[str], str, str]] = [
 
 
 def validate_semantic_rules(canonical: dict[str, str]) -> None:
-    """Fail fast when a SEMANTIC_RULES mapping no longer matches Chapter Six.
+    """Fail fast when a SEMANTIC_RULES mapping no longer matches Chapter Four.
 
     A semantic rule is only meaningful while its keyword still describes the
     Article it points at. Verifying the keyword against the live heading keeps
@@ -65,7 +65,7 @@ def validate_semantic_rules(canonical: dict[str, str]) -> None:
             )
     if errors:
         raise SystemExit(
-            "reference_audit: SEMANTIC_RULES is stale relative to Chapter Six:\n"
+            "reference_audit: SEMANTIC_RULES is stale relative to Chapter Four:\n"
             + "\n".join(f"  - {error}" for error in errors)
         )
 
@@ -88,8 +88,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--source",
-        default="core_06.000_rights_part_a.md",
-        help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Six part files.",
+        default="core_04.000_rights_part_a.md",
+        help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Four part files.",
     )
     parser.add_argument(
         "--scope",
@@ -134,7 +134,7 @@ def canonical_map(source_text: str) -> dict[str, str]:
 
 
 def canonical_map_from_paths(root: pathlib.Path, source: str) -> dict[str, str]:
-    """Merge `### Article …` headings from the primary --source file and all Chapter Six part files.
+    """Merge `### Article …` headings from the primary --source file and all Chapter Four part files.
 
     Part A only contains top-level `### Article` rows for early articles; later Roman articles live in
     other `core_06.0*_rights_part_*.md` files. A partial map from the first file alone is incorrect.
@@ -161,7 +161,7 @@ def canonical_map_from_paths(root: pathlib.Path, source: str) -> dict[str, str]:
                 mapping[match.group(1)] = match.group(2)
 
     if not mapping:
-        raise SystemExit("No canonical Article headings found in source file or Chapter Six part files.")
+        raise SystemExit("No canonical Article headings found in source file or Chapter Four part files.")
     return mapping
 
 
@@ -303,7 +303,7 @@ def report_markdown(
     for file_path in scope:
         lines.append(f"- `{file_path}`")
     lines.append("")
-    lines.append("## Canonical Chapter Five Map Snapshot")
+    lines.append("## Canonical Chapter Three Map Snapshot")
     for numeral, title in sorted(canonical.items(), key=lambda item: roman_to_int(item[0])):
         lines.append(f"- `Article {numeral}` - {title}")
     lines.append("")

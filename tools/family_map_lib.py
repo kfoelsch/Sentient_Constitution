@@ -11,9 +11,9 @@ FAMILY_MAP_REL = Path("tools/architecture/family_map.json")
 SECTION_ID_RE = re.compile(r"^(CJS|CS|CI|CF)-(\d+)(?:\.(\d+))?(?:\.(\d+))?", re.I)
 
 CS_PART_DEFAULTS = {
-    "CS-6.305": "corpus_systems/cs_06.305_information_types_and_handling.md",
-    "CS-9.305": "corpus_systems/cs_09.305_system_classification_machinery.md",
-    "CS-9.310": "corpus_systems/cs_09.310_system_impact_classifications.md",
+    "CS-4.305": "corpus_systems/cs_04.305_information_types_and_handling.md",
+    "CS-8.305": "corpus_systems/cs_08.305_system_classification_machinery.md",
+    "CS-8.310": "corpus_systems/cs_08.310_system_impact_classifications.md",
 }
 
 
@@ -28,7 +28,7 @@ def iter_entries(data: dict[str, Any]) -> Iterator[dict[str, Any]]:
 
 
 def family_files(data: dict[str, Any]) -> dict[str, str]:
-    """Map canonical family IDs (CI-23.210, CS-27.305, CJS-31.110, CF-23.405) to repo-relative files."""
+    """Map canonical family IDs (CI-22.210, CS-26.305, CJS-30.110, CF-22.405) to repo-relative files."""
     mapping: dict[str, str] = dict(CS_PART_DEFAULTS)
     for entry in iter_entries(data):
         if entry.get("status") == "reserved":
@@ -54,7 +54,7 @@ def family_files(data: dict[str, Any]) -> dict[str, str]:
 
 def cjs5_home(data: dict[str, Any], cluster_id: str) -> str | None:
     homes = data.get("cjs5_cluster_homes", {})
-    match = re.match(r"^(CJS-5\.\d{3} §\d+(?:\.\d+)?)$", cluster_id, re.I)
+    match = re.match(r"^(CJS-3\.\d{3} §\d+(?:\.\d+)?)$", cluster_id, re.I)
     if not match:
         return None
     return homes.get(match.group(1))
@@ -77,7 +77,7 @@ def cs_section_home(data: dict[str, Any], section_id: str) -> str | None:
 
 
 def resolve_section_file(data: dict[str, Any], section_id: str) -> str | None:
-    """Resolve CI-9.210 §3 / CJS-5.120 §8 / CS-6.345 §8 / CF-23.450 to a subfile."""
+    """Resolve CI-8.210 §3 / CJS-3.120 §8 / CS-4.345 §8 / CF-22.450 to a subfile."""
     text = section_id.strip().strip("*")
     files = family_files(data)
     # Exact map ids such as CS-5A are not dotted reader-facing chapter numbers.

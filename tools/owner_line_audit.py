@@ -49,10 +49,10 @@ CHAPTER_WORDS = {
 }
 
 # Files that add no rule: they must say so instead of claiming ownership.
-# None at present: the Chapter Eleven application vignettes moved to CJS-15.105.
+# None at present: the Chapter Ten application vignettes moved to CJS-14.105.
 CORE_NON_OWNER: set[str] = set()
-# Chapter Six Part A carries the chapter-level claim and does not name "Part A".
-CORE_PART_OPTIONAL = {"core_06.000_rights_part_a.md"}
+# Chapter Four Part A carries the chapter-level claim and does not name "Part A".
+CORE_PART_OPTIONAL = {"core_04.000_rights_part_a.md"}
 
 LAYERS = {
     "corpus_forum": ("forum", "CF"),
@@ -67,9 +67,9 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_23.475_sentience_status_record.md": (
+    "corpus_forum/cf_22.475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
-        "Chapter Five's definition names it the designated implementation text",
+        "Chapter Three's definition names it the designated implementation text",
     ),
 }
 
@@ -134,13 +134,11 @@ def chapter_and_part(name: str) -> tuple[int | None, str | None]:
                 row = next((r for r in rows if r.get("destination_file") == name), None)
                 original = row.get("original_file", "") if row else ""
                 original_match = re.match(r"core_(\d+)_([a-e])_", original)
-                part = (
-                    original_match.group(2)
-                    if original_match and int(original_match.group(1)) == int(m.group(1))
-                    else None
-                )
+                # The original file's letter names the Part; the chapter number may have moved since
+                # (2026-11-20 renumbering), so only the letter is read.
+                part = original_match.group(2) if original_match else None
                 if part and sum(1 for r in rows if r.get("core_home") == m.group(1) and r.get("layer") == "CORE") <= 1:
-                    part = None  # Parts only where the chapter still has several files (Chapters 1 and 6)
+                    part = None  # Parts only where the chapter still has several files (Chapters 2 and 4)
             except (OSError, KeyError, ValueError):
                 pass
     return int(m.group(1)), part.upper() if part else None
@@ -166,17 +164,17 @@ def check_core(rel: str, text: str) -> list[str]:
         )
     if want_owner:
         # Check the raw line before strip_markup hides markup damage: a leftover
-        # "Chapter Ten**, is the ..." from a removed "**Part X**" label.
+        # "Chapter Nine**, is the ..." from a removed "**Part X**" label.
         if line.count("**") % 2:
             findings.append(
                 f"{rel}:{number}: OWNER-OPENING-01: unbalanced '**' on the owner line "
-                "(a stray bold marker is left over, for example 'Chapter Ten**, is the ...')"
+                "(a stray bold marker is left over, for example 'Chapter Nine**, is the ...')"
             )
         raw_head = line.split("is the constitutional owner of", 1)[0].strip()
         if re.fullmatch(r"(?:Chapter [A-Za-z-]+|The Preamble),", strip_markup(raw_head)):
             findings.append(
                 f"{rel}:{number}: OWNER-OPENING-01: stray comma before 'is the constitutional owner of' "
-                "(write 'Chapter Ten is the ...' when no Part or band is named)"
+                "(write 'Chapter Nine is the ...' when no Part or band is named)"
             )
         plain = strip_markup(line).strip()
         chapter, part = chapter_and_part(name)

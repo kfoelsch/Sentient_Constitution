@@ -19,7 +19,7 @@ _BREACH_FAMILY_EXEMPT = frozenset({"doc_architecture.md"})
 
 # Ban the word **instrument** / **instruments** (custodian decision, 2026-10-19). Name the thing: System Charter, Institutional Charter,
 # rule set, record, act; otherwise **document** or **text**. Enforced only on files in `_INSTRUMENT_SCOPE`; expand as other files are swept.
-_INSTRUMENT_SCOPE = frozenset({"core_07.000_charters.md"})
+_INSTRUMENT_SCOPE = frozenset({"core_05.000_charters.md"})
 # Swept 2026-10-19: numbered core chapters, corpus_* implementation files, implementation/, front doors, guides, docs, evaluation/, project/.
 # Dated records keep the wording they were written with: a file name ending _YYYY-MM-DD, a file name starting YYYY-MM-DD_ (sitting results),
 # and a folder ending _YYYY-MM (the external audit). Translation drafts stay pinned to the older text.
@@ -44,18 +44,18 @@ _INSTRUMENT_WORD = re.compile(r"(?<![A-Za-z0-9-])instruments?(?![A-Za-z0-9-])", 
 # Enforced on the same files as the instrument ban.
 _SEGREGATION_WORD = re.compile(r"(?<![A-Za-z0-9-])segregat(?:e|es|ed|ing|ion|ions)(?![A-Za-z0-9-])", re.IGNORECASE)
 
-# Ban the word **disinterested** (custodian decision, 2026-10-22). The corpus word is **independent**, defined in Chapter Five
+# Ban the word **disinterested** (custodian decision, 2026-10-22). The corpus word is **independent**, defined in Chapter Three
 # (Independence): outside the Material Control Line of the party whose act is at issue and of every Interested Party. Say **independent of** the
 # party or act, or **impartial** when the sense is unbiased. Enforced on the same files as the instrument ban.
 _DISINTERESTED_WORD = re.compile(r"(?<![A-Za-z0-9-])disinterested(?![A-Za-z0-9-])", re.IGNORECASE)
 
 # Ban **merits authority** (and merits-authority, merits authorities) (custodian decision, 2026-10-26). The phrase was undefined jargon for a forum
-# family's power to decide the substance of a dispute. Say **jurisdiction** (a forum family's scope under Chapter Fifteen), or **decision-making
+# family's power to decide the substance of a dispute. Say **jurisdiction** (a forum family's scope under Chapter Fourteen), or **decision-making
 # authority** for what a role may decide. Related words (merits forum, merits decision) are not banned. Enforced on the same files as the instrument ban.
 _MERITS_AUTHORITY_PHRASE = re.compile(r"(?<![A-Za-z0-9-])merits[ -]authorit(?:y|ies)(?![A-Za-z0-9-])", re.IGNORECASE)
 
 # Ban **versions** used as a verb (custodian decision, 2026-10-27). In a list of record duties ("enters, versions, preserves, and publishes") it hides what
-# is done. Say **amends** for the office that makes each new Record Version (Chapter Nine Part B §8), or **tracks versions of** for custody that keeps a version history. The plural noun (prior versions,
+# is done. Say **amends** for the office that makes each new Record Version (Chapter Eight Part B §8), or **tracks versions of** for custody that keeps a version history. The plural noun (prior versions,
 # Record Versions) is fine. The rule catches "versions" sitting in a list of record verbs, which is how the verb shows up. Enforced on the same files as the
 # instrument ban.
 _RECORD_VERBS = r"(?:enters|opens|keeps|holds|files|stores|receives|preserves|publishes|honors)"
@@ -64,8 +64,8 @@ _VERSIONS_VERB = re.compile(
     re.IGNORECASE,
 )
 
-# Ban **four-seat floor** and **four-seat constitutional floor** (custodian decision, 2026-10-22). The Chapter Eight section is the **Four-Seat
-# Constitutional Requirement** (short form **Four-Seat Requirement**); "floor" is reserved for the Chapter Six **Rights Floor** so the two cannot be confused.
+# Ban **four-seat floor** and **four-seat constitutional floor** (custodian decision, 2026-10-22). The Chapter Six section is the **Four-Seat
+# Constitutional Requirement** (short form **Four-Seat Requirement**); "floor" is reserved for the Chapter Four **Rights Floor** so the two cannot be confused.
 # Enforced on the same files as the instrument ban.
 _FOUR_SEAT_FLOOR = re.compile(r"(?<![A-Za-z0-9-])(?:four[- ]seat(?: constitutional)?|chapter eight seat) floors?(?![A-Za-z0-9-])", re.IGNORECASE)
 
@@ -105,7 +105,7 @@ _CURE_FAMILY = re.compile(
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
 # Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
-# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, Adoption Charter, Charter Role Map, and Charter Pointer; the Chapter Sixteen
+# (the Chapter Three terms System Charter, Institutional Charter, Constitutional Charter, Adoption Charter, Charter Role Map, and Charter Pointer; the Chapter Fifteen
 # treaty, compact, or Constitutional Charter family; corporate charter; verb forms). A bare **Charter** is not allowed:
 # name which Charter is meant.
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
@@ -147,7 +147,7 @@ _ACCESSION_JARGON = re.compile(
     re.IGNORECASE,
 )
 
-# Undefined in Chapter Five; prefer **violation**, **non-compliance**, **unmet duties** (see `.cursor/rules/clarity.mdc`).
+# Undefined in Chapter Three; prefer **violation**, **non-compliance**, **unmet duties** (see `.cursor/rules/clarity.mdc`).
 _BREACH_FAMILY = re.compile(
     r"\bduty-breaching\b|\bduty breach\b|\bbreaches\b|\bbreached\b|\bbreaching\b|\bbreach\b",
     re.IGNORECASE,
@@ -187,7 +187,7 @@ _DRIFT_ALLOWLIST_STRIP = [
 
 _PATHWAY_WORD = re.compile(r"(?<![A-Za-z0-9-])(pathways?)(?![A-Za-z0-9])", re.IGNORECASE)
 _PATHWAY_PREFIX_COMPOUND = re.compile(r"(?<![A-Za-z0-9-])pathways?-[A-Za-z]", re.IGNORECASE)
-# Retired term (custodian decision, 2026-11-09): "named pathway" is replaced by "gated pathway" (Chapter Five *Gated Pathway*)
+# Retired term (custodian decision, 2026-11-09): "named pathway" is replaced by "gated pathway" (Chapter Three *Gated Pathway*)
 # or by a type name (governance-voting pathway, authority pathway, and so on). Zero baseline.
 _NAMED_PATHWAY = re.compile(r"(?<![A-Za-z0-9])named[ -]pathways?(?![A-Za-z0-9])", re.IGNORECASE)
 # Words that do not say *which kind* of pathway is meant. A pathway preceded by one of
@@ -214,12 +214,12 @@ _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational
 # **Environment Forums**, **Integrity Forums**, **Constitutional Forums** (and the singular **Forum**) when the family is meant. Generic
 # uses stay lowercase: forum family, lead forum, the forum, forum process. Only a capitalized family name followed by lowercase forum(s) is flagged.
 _FORUM_FAMILY_CASING = re.compile(r"\b(?:Sentient|Technical|Institutional|Environment|Integrity|Constitutional) (?:forum|forums)\b")
-# **Standing Record** is a defined term (Chapter Five; custodian decision, 2026-11-17): both words are capitalized in prose, as in
+# **Standing Record** is a defined term (Chapter Three; custodian decision, 2026-11-17): both words are capitalized in prose, as in
 # **Forum Case Record** and **System Certification Record**, and so is the hyphenated modifier (**Standing-Record custody**). Qualifiers
 # before it (contribution, violation, verified, operator) are adjectives and keep their own casing. Markdown link targets, inline code,
 # and HTML ``id`` attributes stay lowercase. doc_architecture.md keeps the wording each dated move used.
 _STANDING_RECORD_ANY_CASE = re.compile(r"(?<![A-Za-z0-9_-])standing[ -]records?(?![A-Za-z0-9_])", re.IGNORECASE)
-# All-caps chapter titles (CHAPTER FIFTEEN: STANDING RECORDS) are title casing, not prose.
+# All-caps chapter titles (CHAPTER FOURTEEN: STANDING RECORDS) are title casing, not prose.
 _STANDING_RECORD_CASING_OK = frozenset(
     {
         "Standing Record", "Standing Records", "Standing-Record", "Standing-Records",
@@ -232,7 +232,7 @@ _STANDING_RECORD_CASING_EXEMPT = frozenset({"doc_architecture.md"})
 _STANDING_RECORD_FENCE_PROSE = frozenset({"mermaid", "text"})
 _STANDING_RECORD_SPACED = re.compile(r"(?<![A-Za-z0-9_#/-])standing records?(?![A-Za-z0-9_-])", re.IGNORECASE)
 # **Certification Record** (**System Certification Record**, **Institutional Certification Record**, together **System or Institutional Certification
-# Record**) is a defined term (Chapters Eleven and Fourteen; custodian decision, 2026-11-17): both words are capitalized, like **Standing Record**. The same
+# Record**) is a defined term (Chapters Ten and Thirteen; custodian decision, 2026-11-17): both words are capitalized, like **Standing Record**. The same
 # link-target, code, id, fence, and all-caps-title exemptions apply; doc_architecture.md keeps the wording each dated move used.
 _CERT_RECORD_ANY_CASE = re.compile(r"(?<![A-Za-z0-9_-])certification records?(?![A-Za-z0-9_-])", re.IGNORECASE)
 _CERT_RECORD_CASING_OK = frozenset({"Certification Record", "Certification Records", "CERTIFICATION RECORD", "CERTIFICATION RECORDS"})
@@ -434,7 +434,7 @@ def run_internal_regression_checks() -> None:
     standing_calculus_findings = scan_avoid_standing_calculus(
         "internal-regression.md",
         "Forums must not run standing calculus.\n"
-        "Use standing-record classification under Chapter Eleven instead.\n"
+        "Use standing-record classification under Chapter Ten instead.\n"
         "`standing calculus` inside backticks is documentation only.\n",
     )
     if len(standing_calculus_findings) != 1:
@@ -461,173 +461,173 @@ def run_internal_regression_checks() -> None:
         "A named pathway is a retired term.\n"
         "A named-pathway-specific bar is retired too.\n"
         "A credible causal pathway and a contest-pathway failure are qualified.\n"
-        "See [link](core_05.035_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
+        "See [link](core_03.035_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
     )
     if len(pathway_findings) != 5:
         raise RuntimeError(
             "Internal regression failed: bare pathway was not flagged or qualified forms broke.",
         )
     check_findings = scan_avoid_bare_check(
-        "core_07.000_charters.md",
+        "core_05.000_charters.md",
         "The check scales with class.\n"
         "A failed check lands on one office.\n"
         "The formation check scales with class; the standing check does too.\n"
         "The Chartered Party checks and records that the check is done.\n"
         "This checks the structure, and a seat that checks an act is not independent.\n"
-        "See [When a Holder Fails the Formation Check](core_07.000_charters.md#7-when-a-holder-fails-the-formation-check) and the check window.\n"
+        "See [When a Holder Fails the Formation Check](core_05.000_charters.md#8-when-a-holder-fails-the-formation-check) and the check window.\n"
         "`the check` inside backticks is documentation only.\n",
     )
     if len(check_findings) != 3:
         raise RuntimeError(
             "Internal regression failed: bare check was not flagged or qualified forms broke.",
         )
-    if not scan_avoid_bare_check("core_08.000_functional_independence_separation_of_duties.md", "The check scales.\n"):
-        raise RuntimeError("Internal regression failed: bare check was not flagged outside Chapter Seven (AUDIT-SCOPE-01).")
+    if not scan_avoid_bare_check("core_06.000_functional_independence_separation_of_duties.md", "The check scales.\n"):
+        raise RuntimeError("Internal regression failed: bare check was not flagged outside Chapter Five (AUDIT-SCOPE-01).")
     if scan_avoid_bare_check("doc_architecture.md", "The check scales.\n"):
         raise RuntimeError("Internal regression failed: bare check was flagged in the exempt move-log file.")
     if scan_avoid_bare_check(
-        "core_08.000_functional_independence_separation_of_duties.md",
+        "core_06.000_functional_independence_separation_of_duties.md",
         "Watchdogs that check whether pathways work.\nDetainers must first check for a cause.\n"
         "An independent check is not a second signature.\n"
         "No actor may hold the seats that check its own act.\n",
     ):
         raise RuntimeError("Internal regression failed: verb uses or the term of art independent check were flagged.")
     recheck_findings = scan_avoid_bare_recheck(
-        "core_07.000_charters.md",
+        "core_05.000_charters.md",
         "A re-check is due.\n"
         "Timing and re-check.\n"
         "Each recheck is dated.\n"
         "The formation re-check is due; the statement is re-checked and re-checking is not a noun.\n"
-        "See [Timing](core_07.000_charters.md#58-timing-and-re-check) and `a re-check` in code.\n",
+        "See [Timing](core_05.000_charters.md#58-timing-and-re-check) and `a re-check` in code.\n",
     )
     if len(recheck_findings) != 3:
         raise RuntimeError(
             "Internal regression failed: bare re-check was not flagged or the formation re-check form broke.",
         )
-    if not scan_avoid_bare_recheck("core_08.000_functional_independence_separation_of_duties.md", "A re-check is due.\n"):
-        raise RuntimeError("Internal regression failed: bare re-check was not flagged outside Chapter Seven (AUDIT-SCOPE-01).")
+    if not scan_avoid_bare_recheck("core_06.000_functional_independence_separation_of_duties.md", "A re-check is due.\n"):
+        raise RuntimeError("Internal regression failed: bare re-check was not flagged outside Chapter Five (AUDIT-SCOPE-01).")
     if scan_avoid_bare_recheck("doc_architecture.md", "A re-check is due.\n"):
         raise RuntimeError("Internal regression failed: bare re-check was flagged in the exempt move-log file.")
     level_findings = scan_avoid_bare_level(
-        "core_05.055_band_participation.md",
+        "core_03.055_band_participation.md",
         "The level applies to every entity.\n"
         "Higher protection levels include this floor; the protection level is set once.\n"
         "Level 2 includes Animal Life, and Level 4 includes Level 3.\n"
         "A level of detail is not a scale, and a required level is a qualified form.\n"
         "Keep the protections of those levels.\n"
-        "See [Treatment of Life by Status](core_05.055_band_participation.md#treatment-of-life-by-status) and `the level` in code.\n"
+        "See [Treatment of Life by Status](core_03.055_band_participation.md#treatment-of-life-by-status) and `the level` in code.\n"
         "Levels differ by stewardship.\n",
     )
     if len(level_findings) != 3:
         raise RuntimeError(
             "Internal regression failed: bare level was not flagged or qualified forms broke.",
         )
-    if not scan_avoid_bare_level("core_08.000_functional_independence_separation_of_duties.md", "The level applies.\n"):
+    if not scan_avoid_bare_level("core_06.000_functional_independence_separation_of_duties.md", "The level applies.\n"):
         raise RuntimeError("Internal regression failed: bare level was not flagged outside the former scoped files (AUDIT-SCOPE-01).")
     if scan_avoid_bare_level("doc_architecture.md", "The level applies.\n"):
         raise RuntimeError("Internal regression failed: bare level was flagged in the exempt move-log file.")
     if scan_avoid_bare_level(
-        "core_08.000_functional_independence_separation_of_duties.md",
+        "core_06.000_functional_independence_separation_of_duties.md",
         "Governance must meet at least the level required by the class.\nApply it at the level material stake requires.\n"
         "A level that an adopter has set is not a scale.\n",
     ):
         raise RuntimeError("Internal regression failed: ordinary degree senses of level were flagged.")
     placement_findings = scan_avoid_bare_placement(
-        "core_08.000_functional_independence_separation_of_duties.md",
+        "core_06.000_functional_independence_separation_of_duties.md",
         "The placement applies to the act.\n"
         "A seat placement and the Published Placement are qualified forms.\n"
         "See the placement of the record seat, and paid placement of a product.\n"
         "Those placements differ.\n"
         "The map places the seat, and the seat is placed once.\n"
-        "See [Published Placement](core_08.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) and `a placement` in code.\n",
+        "See [Published Placement](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) and `a placement` in code.\n",
     )
     if len(placement_findings) != 2:
         raise RuntimeError(
             "Internal regression failed: bare placement was not flagged or qualified forms broke.",
         )
-    if not scan_avoid_bare_placement("core_07.000_charters.md", "The placement applies.\n"):
+    if not scan_avoid_bare_placement("core_05.000_charters.md", "The placement applies.\n"):
         raise RuntimeError("Internal regression failed: bare placement was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_placement("doc_architecture.md", "The placement applies.\n"):
         raise RuntimeError("Internal regression failed: bare placement was flagged in the exempt move-log file.")
     designation_findings = scan_avoid_bare_designation(
-        "core_16.000_standing_measurement.md",
+        "core_15.000_standing_measurement.md",
         "The designation attaches to the finding.\n"
         "A final designation triggers the lock.\n"
         "Designation-only review stays separate.\n"
         "The ACMD and an ACM designation are qualified abbreviations.\n"
-        "The anti-constitutional-misconduct designation and a Chapter Fourteen designation are qualified.\n"
+        "The anti-constitutional-misconduct designation and a Chapter Thirteen designation are qualified.\n"
         "A final anti-constitutional-misconduct designation, a backup designation, and a designation of accountable incident authority stay.\n"
-        "It does not replace a designation under **Chapter Fourteen**.\n"
-        "See [link](core_21.000_misconduct_designation.md#chapter-fourteen-part-a) and `the designation` in code.\n",
+        "It does not replace a designation under **Chapter Thirteen**.\n"
+        "See [link](core_20.000_misconduct_designation.md#chapter-thirteen-part-a) and `the designation` in code.\n",
     )
     if len(designation_findings) != 3:
         raise RuntimeError(
             "Internal regression failed: bare designation was not flagged or qualified forms broke.",
         )
-    if not scan_avoid_bare_designation("core_07.000_charters.md", "The designation applies.\n"):
+    if not scan_avoid_bare_designation("core_05.000_charters.md", "The designation applies.\n"):
         raise RuntimeError("Internal regression failed: bare designation was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_designation("doc_architecture.md", "The designation applies.\n"):
         raise RuntimeError("Internal regression failed: bare designation was flagged in the exempt move-log file.")
-    if not scan_avoid_bare_designation("core_21.000_misconduct_designation.md", "The designation attaches.\n"):
-        raise RuntimeError("Internal regression failed: bare designation was not flagged in Chapter Fourteen.")
+    if not scan_avoid_bare_designation("core_20.000_misconduct_designation.md", "The designation attaches.\n"):
+        raise RuntimeError("Internal regression failed: bare designation was not flagged in Chapter Thirteen.")
     pass_findings = scan_avoid_bare_pass(
-        "core_12.000_institutional_alignment_certification_evaluation.md",
+        "core_11.000_institutional_alignment_certification_evaluation.md",
         "Every pass evaluates the items.\n"
         "A certification pass and a review pass are qualified forms, as is a first pass.\n"
         "The system passes the tests and must pass them; tests that pass are fine.\n"
         "It is a pass/fail result, or a pass or fail, or a pass of the review.\n"
         "Keep the passes separate.\n"
-        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#the-pass) and `a pass` in code.\n",
+        "See [the review](core_11.000_institutional_alignment_certification_evaluation.md#the-pass) and `a pass` in code.\n",
     )
     if len(pass_findings) != 2:
         raise RuntimeError("Internal regression failed: bare pass was not flagged or qualified forms broke.")
-    if not scan_avoid_bare_pass("core_07.000_charters.md", "The pass routes.\n"):
+    if not scan_avoid_bare_pass("core_05.000_charters.md", "The pass routes.\n"):
         raise RuntimeError("Internal regression failed: bare pass was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_pass("doc_architecture.md", "The pass routes.\n"):
         raise RuntimeError("Internal regression failed: bare pass was flagged in the exempt move-log file.")
     run_findings = scan_avoid_bare_run(
-        "core_12.000_institutional_alignment_certification_evaluation.md",
+        "core_11.000_institutional_alignment_certification_evaluation.md",
         "Every run evaluates the items.\n"
         "A parallel run, a test run, and the long run are qualified; so is the run sheet and a run of results.\n"
         "The system runs the tests; checks run on the tier windows; it is a small business, one run by a few.\n"
         "Keep the runs separate.\n"
-        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#the-run) and `a run` in code.\n",
+        "See [the review](core_11.000_institutional_alignment_certification_evaluation.md#the-run) and `a run` in code.\n",
     )
     if len(run_findings) != 2:
         raise RuntimeError("Internal regression failed: bare run was not flagged or qualified forms broke.")
-    if not scan_avoid_bare_run("core_07.000_charters.md", "The run routes.\n"):
+    if not scan_avoid_bare_run("core_05.000_charters.md", "The run routes.\n"):
         raise RuntimeError("Internal regression failed: bare run was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_run("doc_architecture.md", "The run routes.\n"):
         raise RuntimeError("Internal regression failed: bare run was flagged in the exempt move-log file.")
     component_pass_findings = scan_avoid_component_pass(
-        "core_12.000_institutional_alignment_certification_evaluation.md",
+        "core_11.000_institutional_alignment_certification_evaluation.md",
         "Each component pass checks its evidence.\n"
         "The Component Passes are separate.\n"
         "A component evaluation, a certification pass, and a component finding are the current terms.\n"
-        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#component-pass) and `component pass` in code.\n",
+        "See [the review](core_11.000_institutional_alignment_certification_evaluation.md#component-pass) and `component pass` in code.\n",
     )
     if len(component_pass_findings) != 2:
         raise RuntimeError("Internal regression failed: the retired term component pass was not flagged, or current terms were.")
-    if not scan_avoid_component_pass("core_07.000_charters.md", "The component pass routes.\n"):
+    if not scan_avoid_component_pass("core_05.000_charters.md", "The component pass routes.\n"):
         raise RuntimeError("Internal regression failed: component pass was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_component_pass("doc_architecture.md", "The component pass routes.\n"):
         raise RuntimeError("Internal regression failed: component pass was flagged in the exempt move-log file.")
     design_cause_findings = scan_avoid_design_cause(
-        "core_12.000_institutional_alignment_certification_evaluation.md",
+        "core_11.000_institutional_alignment_certification_evaluation.md",
         "Where the cause is design, the count stays at zero.\n"
         "The hold applies after a design-cause finding.\n"
         "A design cause is recorded.\n"
         "A finding of design-caused misalignment, an operating-caused one, and a design that causes harm are current wording.\n"
-        "See [the review](core_12.000_institutional_alignment_certification_evaluation.md#design-cause) and `design cause` in code.\n",
+        "See [the review](core_11.000_institutional_alignment_certification_evaluation.md#design-cause) and `design cause` in code.\n",
     )
     if len(design_cause_findings) != 3:
         raise RuntimeError("Internal regression failed: the retired term design cause was not flagged, or current wording was.")
-    if not scan_avoid_design_cause("core_07.000_charters.md", "The design cause routes.\n"):
+    if not scan_avoid_design_cause("core_05.000_charters.md", "The design cause routes.\n"):
         raise RuntimeError("Internal regression failed: design cause was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_design_cause("doc_architecture.md", "The design cause routes.\n"):
         raise RuntimeError("Internal regression failed: design cause was flagged in the exempt move-log file.")
     condition_findings = scan_avoid_bare_condition(
-        "core_10.000_system_alignment_certification_forum_process_outcomes.md",
+        "core_09.000_system_alignment_certification_forum_process_outcomes.md",
         "A certification can carry certification conditions, and a certification condition ends by fulfillment or release.\n"
         "A certification with or without conditions may go live.\n"
         "The record names every condition required before go-live.\n"
@@ -637,27 +637,27 @@ def run_internal_regression_checks() -> None:
         "The forum verifies, authorizes, declines, or conditions the act.\n"
         "The lock names the conditions under which it lifts.\n"
         "A missed condition fulfillment is a defect.\n"
-        "See [the gate](core_10.000_system_alignment_certification_forum_process_outcomes.md#conditions) and `release from conditions` in code.\n",
+        "See [the gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#conditions) and `release from conditions` in code.\n",
     )
     if len(condition_findings) != 5:
         raise RuntimeError("Internal regression failed: bare condition was not flagged or qualified forms broke.")
-    if not scan_avoid_bare_condition("core_07.000_charters.md", "A certification with or without conditions.\n"):
+    if not scan_avoid_bare_condition("core_05.000_charters.md", "A certification with or without conditions.\n"):
         raise RuntimeError("Internal regression failed: bare condition was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_condition("doc_architecture.md", "A certification with or without conditions.\n"):
         raise RuntimeError("Internal regression failed: bare condition was flagged in the exempt move-log file.")
     cq_findings = scan_avoid_certify_question(
-        "core_23.000_forum.md",
+        "core_22.000_forum.md",
         "The lead forum must refer, certify, or stay the matter.\n"
         "A certified constitutional question reaches the Constitutional Forum.\n"
         "The forum may certify a question to another family.\n"
-        "See [Chapter Fifteen §5 Escalation and certification](core_23.000_forum.md#5-escalation-and-questions-for-ruling).\n"
+        "See [Chapter Fourteen §6 Escalation and certification](core_22.000_forum.md#5-escalation-and-questions-for-ruling).\n"
         "The lead forum must refer, send for ruling, or stay the matter, and a question for ruling waits for the answer.\n"
         "Conditional certification is an outcome, and a certification challenge may follow a referral.\n"
         "The forum grants provisional certification or full certification.\n",
     )
     if len(cq_findings) != 4:
         raise RuntimeError("Internal regression failed: certify-a-question wording was not flagged or the certification outcomes broke.")
-    if not scan_avoid_certify_question("core_10.000_system_alignment_certification_forum_process_outcomes.md", "A certified question waits.\n"):
+    if not scan_avoid_certify_question("core_09.000_system_alignment_certification_forum_process_outcomes.md", "A certified question waits.\n"):
         raise RuntimeError("Internal regression failed: certify-a-question wording was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_certify_question("doc_architecture.md", "A certified question waits.\n"):
         raise RuntimeError("Internal regression failed: certify-a-question wording was flagged in the exempt move-log file.")
@@ -721,7 +721,7 @@ def run_internal_regression_checks() -> None:
         "A system moves through a class transition under Article XVIII-C.\n"
         "Mode transitions must be trigger-defined.\n"
         "Labor displacement needs transition support.\n"
-        "See [the window](core_06.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window).\n"
+        "See [the window](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window).\n"
         "`transition window` inside backticks is documentation only.\n",
     )
     if len(adoption_transition_findings) != 6:
@@ -746,7 +746,7 @@ def run_internal_regression_checks() -> None:
         "Temporary interim measures must be time-limited.\n"
         "Mode transitions must be trigger-defined.\n"
         "Labor displacement needs transition support.\n"
-        "See [the article](core_06.020_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes).\n"
+        "See [the article](core_04.020_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes).\n"
         "`transitional recognition` inside backticks is documentation only.\n",
     )
     if len(transition_sense_findings) != 9:
@@ -775,7 +775,7 @@ def run_internal_regression_checks() -> None:
         "The funds are segregated and the keys are held apart.\n"
         "Segregating the data takes a new version.\n"
         "Separation of duties binds the record.\n"
-        "See [the chapter](core_08.000_functional_independence_separation_of_duties.md) and `segregation` in code.\n"
+        "See [the chapter](core_06.000_functional_independence_separation_of_duties.md) and `segregation` in code.\n"
         "An anchor id=\"old-segregation\" is not prose.\n",
     )
     if len(segregation_findings) != 3:
@@ -787,7 +787,7 @@ def run_internal_regression_checks() -> None:
         "A disinterested relying body verifies.\n"
         "Disinterested in the repair.\n"
         "An independent relying body verifies.\n"
-        "See [the chapter](core_08.000_disinterested.md) and `disinterested` in code.\n"
+        "See [the chapter](core_06.000_disinterested.md) and `disinterested` in code.\n"
         "An anchor id=\"old-disinterested\" is not prose.\n",
     )
     if len(disinterested_findings) != 2:
@@ -799,7 +799,7 @@ def run_internal_regression_checks() -> None:
         "The forum has merits authority over the point.\n"
         "Technical support must not displace Merits Authorities.\n"
         "The forum has jurisdiction over the point, and the merits forum decides.\n"
-        "See [the chapter](core_15.000_merits-authority.md) and `merits authority` in code.\n"
+        "See [the chapter](core_14.000_merits-authority.md) and `merits authority` in code.\n"
         "An anchor id=\"old-merits-authority\" is not prose.\n",
     )
     if len(merits_authority_findings) != 2:
@@ -812,7 +812,7 @@ def run_internal_regression_checks() -> None:
         "The custodian enters, keeps, and versions a Standing Record.\n"
         "The office opens, enters, amends, preserves, and publishes the record, and prior versions stay.\n"
         "A custodian who keeps entering versions on the view that the conflict is only formal.\n"
-        "See [the record](core_05.035_enters-versions-holds.md) and `enters, versions, holds` in code.\n",
+        "See [the record](core_03.035_enters-versions-holds.md) and `enters, versions, holds` in code.\n",
     )
     if len(versions_verb_findings) != 2:
         raise RuntimeError(
@@ -839,7 +839,7 @@ def run_internal_regression_checks() -> None:
         "The Environment forum family reviews ecology.\n"
         "Sentient Forums, Technical Forum Domains, and Institutional Forums are correct.\n"
         "Each forum family and the lead forum keep lowercase forum.\n"
-        "See [the section](core_23.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
+        "See [the section](core_22.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
         "An anchor id=\"41-sentient-forums\" is not prose.\n",
     )
     if len(forum_casing_findings) != 4:
@@ -852,14 +852,14 @@ def run_internal_regression_checks() -> None:
         "A standing record states its subject.\n"
         "Each Standing record is bounded.\n"
         "The contribution standing records stay separate.\n"
-        "See Standing-record custody in Chapter Seven.\n"
+        "See Standing-record custody in Chapter Five.\n"
         "A Standing Record and a contribution Standing Record are correct.\n"
-        "# CHAPTER FIFTEEN: STANDING RECORDS is title casing.\n"
+        "# CHAPTER FOURTEEN: STANDING RECORDS is title casing.\n"
         "```mermaid\nA[\"a standing record\"]\n```\n"
         "```text\nIt is not a standing record.\n```\n"
         "```python\nstanding record = 1\n```\n"
         "The Standing-Record custody rule and Standing Records are correct.\n"
-        "See [the section](core_15.000_standing_assessment.md#5-standing-record-operational-requirements) and `standing record` in code.\n"
+        "See [the section](core_14.000_standing_assessment.md#5-standing-record-operational-requirements) and `standing record` in code.\n"
         "An anchor id=\"standing-record-chapter-six\" is not prose.\n"
         "A non-standing-record input and a standing-recorder are different words.\n",
     )
@@ -873,7 +873,7 @@ def run_internal_regression_checks() -> None:
         "Two alignment records disagree.\n"
         "The alignment-record path is retired.\n"
         "The System Certification Record and alignment certification are correct.\n"
-        "See [the section](core_11.000_x.md#alignment-record) and `alignment record` in code.\n"
+        "See [the section](core_10.000_x.md#alignment-record) and `alignment record` in code.\n"
         "An anchor id=\"alignment-record\" is not prose.\n",
     )
     if len(alignment_record_findings) != 3:
@@ -888,8 +888,8 @@ def run_internal_regression_checks() -> None:
         "Each Certification record is kept.\n"
         "System certification records stay with the holder.\n"
         "A System Certification Record and Certification Records are correct.\n"
-        "# CHAPTER ELEVEN: CERTIFICATION RECORDS is title casing.\n"
-        "See [the section](core_11.000_x.md#2-certification-record) and `certification record` in code.\n"
+        "# CHAPTER TEN: CERTIFICATION RECORDS is title casing.\n"
+        "See [the section](core_10.000_x.md#2-certification-record) and `certification record` in code.\n"
         "An anchor id=\"certification-record\" is not prose.\n"
         "```text\nIt is not a certification record.\n```\n"
         "```python\ncertification record = 1\n```\n",
@@ -903,7 +903,7 @@ def run_internal_regression_checks() -> None:
 
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
-    """Reject undefined **standing calculus** jargon; prefer Chapter Eleven standing-record classification wording."""
+    """Reject undefined **standing calculus** jargon; prefer Chapter Ten standing-record classification wording."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -939,7 +939,7 @@ def _mask_allowlisted_constitutional_governance_spans(line: str) -> str:
 
 
 def scan_avoid_governance_layer_labels(rel_path: str, text: str) -> list[Finding]:
-    """Reject competing labels for the Preamble §3.3 two-layer split.
+    """Reject competing labels for the Preamble §3.2 two-layer split.
 
     Prefer **Constitutional Contract Layer** and **Stakeholder System Participation**.
     Finding-profile codes **CCL** / **SSP** / **INT** and the Preamble nickname
@@ -1073,11 +1073,11 @@ def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
 
 
 # Bare **check** (custodian decision, 2026-10-20; widened to every scanned file 2026-10-31): a check is always a named check. In
-# Chapter Seven the noun "check" means the **formation check**, and the chapter also has seat checks, standing checks, and authenticity
+# Chapter Five the noun "check" means the **formation check**, and the chapter also has seat checks, standing checks, and authenticity
 # checks, so "the check" alone does not say which one. Say **formation check** (or the named part: standing check, authenticity check,
 # staff safeguards check), or name what is checked. Enforced on every file in the audit's scope (AUDIT-SCOPE-01 in doc_architecture.md);
 # only `doc_architecture.md` is exempt, because its dated move log keeps the wording each move used. Two things are not matched: verb uses
-# ("must first check for a cause", "watchdogs that check whether ...") and the term of art **independent check** (Chapter Five,
+# ("must first check for a cause", "watchdogs that check whether ...") and the term of art **independent check** (Chapter Three,
 # Independence: a check by a party outside the control line of the act).
 _BARE_CHECK_EXEMPT = frozenset({"doc_architecture.md"})
 _CHECK_WORD = re.compile(r"(?<![A-Za-z0-9-])(checks?)(?![A-Za-z0-9-])", re.IGNORECASE)
@@ -1135,7 +1135,7 @@ def scan_avoid_bare_check(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
-# Bare **re-check** (custodian decision, 2026-10-21): in Chapter Seven a re-check is always the **formation re-check**, the repeat of the
+# Bare **re-check** (custodian decision, 2026-10-21): in Chapter Five a re-check is always the **formation re-check**, the repeat of the
 # formation check on a published statement. The noun forms (re-check, re-checks, recheck, rechecks) must follow "formation"; the verb forms
 # (re-checked, re-checking) are not matched. Scoped like `avoid-bare-check` (every scanned file except `doc_architecture.md`). Elsewhere say **recertification**, **certification interval**, or the thing reassessed.
 _RECHECK_WORD = re.compile(r"(?<![A-Za-z0-9-])(re-?checks?)(?![A-Za-z0-9-])", re.IGNORECASE)
@@ -1220,7 +1220,7 @@ def scan_avoid_bare_level(rel_path: str, text: str) -> list[Finding]:
 # Bare **placement** (custodian decision, 2026-10-31): the noun always says what is placed or what kind of placement it is. The word
 # carries several unrelated senses in the corpus (a seat or role placed on the Charter Role Map, Corpus placement of a document, paid or
 # sponsored placement of a product, a residency or respite placement of a sentient), so "a placement", "the placement", or "that
-# placement" alone does not say which. Say **seat placement**, **role placement**, **Published Placement** (Chapter Eight §6), **Corpus
+# placement" alone does not say which. Say **seat placement**, **role placement**, **Published Placement** (Chapter Six §6), **Corpus
 # placement**, **paid placement**, and so on, or name what is placed ("placement of the record seat"). "Placement of ..." is not matched.
 # The verb (places, placed, placing) is not matched. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
 _BARE_PLACEMENT_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
@@ -1260,16 +1260,16 @@ def scan_avoid_bare_placement(rel_path: str, text: str) -> list[Finding]:
 
 
 # Bare **designation** (custodian decision, 2026-11-07): a designation always says which one. The word carries several unrelated senses in
-# the corpus (the Chapter Fourteen anti-constitutional-misconduct designation, a designation of a backup forum or record authority named in
-# a System Charter or Institutional Charter, a designation of accountable incident authority, a designation list under a Chapter Six
+# the corpus (the Chapter Thirteen anti-constitutional-misconduct designation, a designation of a backup forum or record authority named in
+# a System Charter or Institutional Charter, a designation of accountable incident authority, a designation list under a Chapter Four
 # article), so "the designation", "a final designation", "corresponding designation", or "designation-only" alone does not say which.
-# Say **anti-constitutional-misconduct designation** (or **Chapter Fourteen designation**), **backup designation**, and so on, or name
+# Say **anti-constitutional-misconduct designation** (or **Chapter Thirteen designation**), **backup designation**, and so on, or name
 # what is designated ("designation of accountable incident authority"). "Designation of ..." and "designation under ..." are not matched.
 # **Final**, **corresponding**, **matching**, **additional**, **separate**, and **existing** do not say which kind, so "final designation"
 # is bare unless a kind word comes first (**final anti-constitutional-misconduct designation**). A `designation-...` compound counts as the
-# noun, so "and designation-only review" is flagged and "anti-constitutional-misconduct designation-only review" is not. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), including both Chapter Fourteen files
+# noun, so "and designation-only review" is flagged and "anti-constitutional-misconduct designation-only review" is not. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), including both Chapter Thirteen files
 # (custodian decision, 2026-11-07: the chapter title does not excuse the bare word inside the chapter). The abbreviations **ACMD**
-# (anti-constitutional-misconduct designation) and **ACM** (anti-constitutional misconduct) are qualified forms: Chapter Fourteen may use them,
+# (anti-constitutional-misconduct designation) and **ACM** (anti-constitutional misconduct) are qualified forms: Chapter Thirteen may use them,
 # and so may another chapter on repeated use, each file defining them in parentheses at first use.
 _BARE_DESIGNATION_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
 _DESIGNATION_WORD = re.compile(r"(?<![A-Za-z0-9-])(designations?)(?![A-Za-z0-9])", re.IGNORECASE)
@@ -1363,7 +1363,7 @@ def scan_avoid_bare_pass(rel_path: str, text: str) -> list[Finding]:
 
 
 # Retired term **design cause** (custodian decision, 2026-11-02): a misalignment whose cause is the way the System or Institution is built is
-# **design-caused** (Chapter Nine Part C section 9.3.3), and a finding of it is "a finding of design-caused misalignment". "Design cause" /
+# **design-caused** (Chapter Eight Part C section 9.3.3), and a finding of it is "a finding of design-caused misalignment". "Design cause" /
 # "design-cause" and "the cause is design" were the earlier forms and are rejected so that the two names do not drift back in together. The verb
 # ("the design causes harm") and the new form ("design-caused") stay. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
 _AVOID_DESIGN_CAUSE_EXEMPT = frozenset({"doc_architecture.md"})
@@ -1394,7 +1394,7 @@ def scan_avoid_design_cause(rel_path: str, text: str) -> list[Finding]:
 
 
 # Retired term **alignment record** (custodian decision, 2026-11-17): the record of a certification outcome is the **System Certification Record** or
-# the **Institutional Certification Record** (Chapter Eleven §2, Chapter Fourteen §2; together "System or Institutional Certification Record"), and the
+# the **Institutional Certification Record** (Chapter Ten §3, Chapter Thirteen §3; together "System or Institutional Certification Record"), and the
 # record a forum keeps on a dispute is the **Forum Case Record**. "Alignment record" named neither and let a reader think a third kind of record existed.
 # Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
 _AVOID_ALIGNMENT_RECORD_EXEMPT = frozenset({"doc_architecture.md"})
@@ -1422,7 +1422,7 @@ def scan_avoid_alignment_record(rel_path: str, text: str) -> list[Finding]:
 
 
 # Retired term **component pass** (custodian decision, 2026-11-02): one component's part of a certification pass is a **component evaluation**
-# (Chapter Nine Part B section 6.1). "Component pass" was the earlier name (Hundred and seventy-eighth move) and is rejected so that the two names
+# (Chapter Eight Part B section 6.1). "Component pass" was the earlier name (Hundred and seventy-eighth move) and is rejected so that the two names
 # do not drift back in together. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), whose dated move log keeps the old name.
 _AVOID_COMPONENT_PASS_EXEMPT = frozenset({"doc_architecture.md"})
 _COMPONENT_PASS_WORD = re.compile(r"(?<![A-Za-z0-9-])component\s+passe?s?(?![A-Za-z0-9-])", re.IGNORECASE)
@@ -1719,7 +1719,7 @@ def scan_avoid_segregation(rel_path: str, text: str) -> list[Finding]:
 
 
 def scan_avoid_disinterested(rel_path: str, text: str) -> list[Finding]:
-    """Reject **disinterested** (the corpus word is **independent**, defined in Chapter Five; say **independent of** the party or act)."""
+    """Reject **disinterested** (the corpus word is **independent**, defined in Chapter Three; say **independent of** the party or act)."""
     findings: list[Finding] = []
     in_fence = False
 
@@ -1801,7 +1801,7 @@ def scan_avoid_versions_verb(rel_path: str, text: str) -> list[Finding]:
 
 
 def scan_avoid_four_seat_floor(rel_path: str, text: str) -> list[Finding]:
-    """Reject **four-seat floor** (the Chapter Eight name is **Four-Seat Constitutional Requirement**, short form **Four-Seat Requirement**; "floor" belongs to the Rights Floor)."""
+    """Reject **four-seat floor** (the Chapter Six name is **Four-Seat Constitutional Requirement**, short form **Four-Seat Requirement**; "floor" belongs to the Rights Floor)."""
     findings: list[Finding] = []
     in_fence = False
 
@@ -1978,7 +1978,7 @@ def scan_avoid_window_clock_names(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
-# Adoption Transition (Chapter Five, Continuity band): the period in which an adopter moves from legacy to constitutional operation is the defined term **Adoption Transition**, written with both words capitalized.
+# Adoption Transition (Chapter Three, Continuity band): the period in which an adopter moves from legacy to constitutional operation is the defined term **Adoption Transition**, written with both words capitalized.
 # Only the named adoption phrases are matched. Other senses of "transition" stay as ordinary words (class change, labor displacement, mode or state transitions, vendor or format migration, authority transfer).
 _ADOPTION_TRANSITION_BARE = re.compile(
     r"(?<!Adoption )\b[Tt]ransition(?:al)?(?:[ -])"
@@ -2445,46 +2445,46 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
-        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Eleven typing (see `.cursor/rules/clarity.mdc`). *Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).*",
-        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05.050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
+        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Ten typing (see `.cursor/rules/clarity.mdc`). *Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).*",
+        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_03.050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-segregation`:** reject **segregation** / **segregate** / **segregated** / **segregating** → the seat rule is **separation of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**. *Enforced on the same files as `avoid-instrument`.*",
-        "- **`avoid-disinterested`:** reject **disinterested** → say **independent** (defined in Chapter Five, *Independence*: outside the Material Control Line of the party whose act is at issue and of every Interested Party), usually **independent of** the party or act; use **impartial** only when the sense is unbiased. *Enforced on the same files as `avoid-instrument`.*",
-        "- **`avoid-merits-authority`:** reject **merits authority** / **merits authorities** → say **jurisdiction** (a forum family's scope under Chapter Fifteen) or **decision-making authority** (what a role may decide). Related words such as *merits forum* and *merits decision* are not banned. *Enforced on the same files as `avoid-instrument`.*",
-        "- **`avoid-versions-verb`:** reject **versions** used as a verb in a list of record duties (*enters, versions, preserves*) → say **amends** (the office that makes each new Record Version, Chapter Nine Part B §8) or **tracks versions of** (custody that keeps a version history). The plural noun (*prior versions*, *Record Versions*) is not banned. *Enforced on the same files as `avoid-instrument`.*\n"
-        "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Eight §3) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Six **Rights Floor**. *Enforced on the same files as the instrument ban.*",
+        "- **`avoid-disinterested`:** reject **disinterested** → say **independent** (defined in Chapter Three, *Independence*: outside the Material Control Line of the party whose act is at issue and of every Interested Party), usually **independent of** the party or act; use **impartial** only when the sense is unbiased. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-merits-authority`:** reject **merits authority** / **merits authorities** → say **jurisdiction** (a forum family's scope under Chapter Fourteen) or **decision-making authority** (what a role may decide). Related words such as *merits forum* and *merits decision* are not banned. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-versions-verb`:** reject **versions** used as a verb in a list of record duties (*enters, versions, preserves*) → say **amends** (the office that makes each new Record Version, Chapter Eight Part B §8) or **tracks versions of** (custody that keeps a version history). The plural noun (*prior versions*, *Record Versions*) is not banned. *Enforced on the same files as `avoid-instrument`.*\n"
+        "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Six §3) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Four **Rights Floor**. *Enforced on the same files as the instrument ban.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
         "- **`avoid-vehicle`:** reject figurative **vehicle** / **vehicles** (including **institutional vehicle**) → say **entity** for a successor, controlled, or nominee- or shell-held entity, or say that a sentient *used an institution to carry out a violation*; the corpus never defined the word. **Allowed:** the literal sense (*hazardous materials and vehicles*, *motor vehicle*). *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-exculpatory-family`:** reject **exculpatory** / **inculpatory** → say what the material shows: that a sentient is not at fault, is less at fault, or is at fault. *Enforced on the same files as `avoid-cure-family`; write the words in backticks when a record must quote them.*",
         "- **`review-in-tier-window`:** reject review of a measure, order, hold, stay, or interim decision \"inside the (matching) tier window\" → say **prompt-review window** (the tier window is the matter's outer limit, not when review of a measure in force begins). *Enforced on the same files as `avoid-cure-family`, except the dated move log in `doc_architecture.md`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
-        "- **`avoid-tribunal-family`:** reject internal Chapter Fifteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
-        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eleven**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eleven wording.",
+        "- **`avoid-tribunal-family`:** reject internal Chapter Fourteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
+        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Ten**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Ten wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
-        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **gated pathway** (Chapter Five *Gated Pathway*) / a Chapter Thirteen §5.2 type prefix in the standing sense (the retired **named pathway** and **named-pathway** are rejected too), **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
+        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **gated pathway** (Chapter Three *Gated Pathway*) / a Chapter Twelve §6.2 type prefix in the standing sense (the retired **named pathway** and **named-pathway** are rejected too), **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
         "- **`avoid-bare-check`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check), or name what is checked. **Allowed:** verb uses (**the Chartered Party checks and records**, **check whether**, **check for**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), the term of art **independent check**, and **check window**.",
         "- **`avoid-bare-recheck`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**, or in other contexts **recertification**, **certification interval**, or the thing reassessed. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
         "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
-        "- **`avoid-certify-question`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject \"certify a question\" and its family (**certified question(s)**, **uncertified questions**, **certification questions**, a question the lead forum **certifies**, the lists **refer, certify, or stay** and **referral, certification, and stay**, **certify or escalate**, and the heading **Escalation and certification**) → say **question for ruling** and **send for ruling** (Chapter Fifteen §5), with **refer**, **transfer**, and **stay** as the other moves. **Allowed:** every certification outcome and process (provisional, full, conditional, deferred, system, institutional, recertification) and **certification challenge**.",
-        "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component evaluation** (one component's part of it; Chapter Nine Part B §6.1), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
+        "- **`avoid-certify-question`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject \"certify a question\" and its family (**certified question(s)**, **uncertified questions**, **certification questions**, a question the lead forum **certifies**, the lists **refer, certify, or stay** and **referral, certification, and stay**, **certify or escalate**, and the heading **Escalation and certification**) → say **question for ruling** and **send for ruling** (Chapter Fourteen §6), with **refer**, **transfer**, and **stay** as the other moves. **Allowed:** every certification outcome and process (provisional, full, conditional, deferred, system, institutional, recertification) and **certification challenge**.",
+        "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component evaluation** (one component's part of it; Chapter Eight Part B §6.1), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
         "- **`avoid-alignment-record`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **alignment record** / **alignment records** / **alignment-record** (outside Markdown link targets, inline code, and HTML ``id`` attributes) → say **System Certification Record** or **Institutional Certification Record** (**System or Institutional Certification Record** for both) for the record of a certification outcome, or **Forum Case Record** for a forum's file on a dispute. **Allowed:** **alignment certification**, **ongoing alignment validation**, and any full record name.",
-        "- **`avoid-design-cause`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **design cause** / **design-cause** and the phrase **the cause is design** → say **design-caused** (a finding of **design-caused misalignment**; Chapter Nine Part C §9.3.3). **Allowed:** **design-caused**, **operating-caused**, and the verb (**the design causes harm**).",
-        "- **`avoid-component-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **component pass** / **component passes** → say **component evaluation** (one component's part of a certification pass; Chapter Nine Part B §6.1).",
+        "- **`avoid-design-cause`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **design cause** / **design-cause** and the phrase **the cause is design** → say **design-caused** (a finding of **design-caused misalignment**; Chapter Eight Part C §9.3.3). **Allowed:** **design-caused**, **operating-caused**, and the verb (**the design causes harm**).",
+        "- **`avoid-component-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **component pass** / **component passes** → say **component evaluation** (one component's part of a certification pass; Chapter Eight Part B §6.1).",
         "- **`avoid-bare-run`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **run** / **runs** after a determiner (**the run**, **a run**, **each run**, **the runs**) → say **certification pass** or **review pass**, or name the thing. **Allowed:** the verb (**the system runs**, **checks run**), qualified compounds (**parallel run**, **test run**), idioms with a word between (**the long run**), **run sheet**, **run of …**, and **run by …** (the participle).",
         "- **`avoid-bare-condition`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), on a line that speaks of certification (certif-, go-live, reopening trigger, fulfillment, bounded authorization), reject the noun **condition** / **conditions** after a determiner, preposition, conjunction, or possessive, or at the start of a bullet or cell (**the conditions**, **with or without conditions**, **release from a condition**) → say **certification condition(s)**. Also rejects **condition deadline**, **condition fulfillment**, **condition release**, and **condition violation** on any line unless **certification** comes first. **Allowed:** any qualified form (**certification condition**, **continuing certification condition**, **operating conditions**, **Safe Conditions**, **corrective conditions** of a standing lock), the verb (**conditions the act**), and the other senses on lines that do not speak of certification.",
-        "- **`avoid-bare-placement`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **placement** / **placements** after a determiner or generic word (**the placement**, **a placement**, **those placements**) or at the start of a sentence, bullet, or cell → say what is placed or which kind: **seat placement**, **role placement**, **Published Placement** (Chapter Eight §6), **Corpus placement**, **display placement**, **paid placement**, or name the thing (**placement of the record seat**). **Allowed:** **placement of …**, any qualified compound, and the verb (**places**, **placed**, **placing**).",
-        "- **`avoid-bare-designation`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **designation** / **designations** after a determiner, preposition, conjunction, or generic adjective (**the designation**, **a final designation**, **corresponding designation**, **for designation**), or at the start of a sentence, bullet, or cell; a `designation-…` compound counts as the noun → say which designation: **anti-constitutional-misconduct designation** (or **Chapter Fourteen designation**), **backup designation**, or name what is designated. **Allowed:** **designation of …**, **designation under …**, and any qualified form (**final anti-constitutional-misconduct designation**, **backup designation**, **ACMD**, **ACM designation**; each file defines the abbreviation at first use).",
-        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
-        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
+        "- **`avoid-bare-placement`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **placement** / **placements** after a determiner or generic word (**the placement**, **a placement**, **those placements**) or at the start of a sentence, bullet, or cell → say what is placed or which kind: **seat placement**, **role placement**, **Published Placement** (Chapter Six §6), **Corpus placement**, **display placement**, **paid placement**, or name the thing (**placement of the record seat**). **Allowed:** **placement of …**, any qualified compound, and the verb (**places**, **placed**, **placing**).",
+        "- **`avoid-bare-designation`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **designation** / **designations** after a determiner, preposition, conjunction, or generic adjective (**the designation**, **a final designation**, **corresponding designation**, **for designation**), or at the start of a sentence, bullet, or cell; a `designation-…` compound counts as the noun → say which designation: **anti-constitutional-misconduct designation** (or **Chapter Thirteen designation**), **backup designation**, or name what is designated. **Allowed:** **designation of …**, **designation under …**, and any qualified form (**final anti-constitutional-misconduct designation**, **backup designation**, **ACMD**, **ACM designation**; each file defines the abbreviation at first use).",
+        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Four layer.",
+        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Four title or layer.",
         "- **`load-bearing-standing-record-casing`:** reject lowercase or half-capitalized **standing record** / **standing records** / **standing-record** (and **Standing record**, **Standing records**) outside Markdown link targets, inline code, and HTML ``id`` attributes, in every scanned file except `doc_architecture.md` (its dated move log keeps the wording each move used) → write the defined term **Standing Record** / **Standing Records** (hyphenated modifier **Standing-Record**). Qualifiers before it (**contribution**, **violation**, **verified**, **operator**) keep their own casing: **a contribution Standing Record**.",
         "- **`load-bearing-certification-record-casing`:** reject lowercase or half-capitalized **certification record** / **certification records** (and **Certification record**) outside Markdown link targets, inline code, and HTML ``id`` attributes, in every scanned file except `doc_architecture.md` (its dated move log keeps the wording each move used); ``mermaid`` and ``text`` fences are checked too; all-caps titles stay → write the defined term **Certification Record** / **Certification Records**, with its qualifier: **System Certification Record**, **Institutional Certification Record**, or **System or Institutional Certification Record**.",
         "- **`load-bearing-forum-family-casing`:** reject lowercase **forum** / **forums** after a forum family name (**Sentient**, **Technical**, **Institutional**, **Environment**, **Integrity**, **Constitutional**) outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Sentient Forums**, **Technical Forums**, and so on when the family is meant. Generic uses (forum family, lead forum) stay lowercase.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
         "- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.",
-        "- **`avoid-governance-layer-labels`:** reject **stakeholder governance**, **constitutional governance** (except Tetrad-sense **constitutional governance safeguards**), **constitutional governance layer**, **stakeholder governance layer**, **governance layer mechanism** / **governance-layer mechanism**, **stakeholder-layer**, and **two-tier constitutional and stakeholder governance** → name **Constitutional Contract Layer** vs **Stakeholder System Participation** (Preamble §3.3). Finding-profile codes **CCL** / **SSP** / **INT** remain allowed.",
+        "- **`avoid-governance-layer-labels`:** reject **stakeholder governance**, **constitutional governance** (except Tetrad-sense **constitutional governance safeguards**), **constitutional governance layer**, **stakeholder governance layer**, **governance layer mechanism** / **governance-layer mechanism**, **stakeholder-layer**, and **two-tier constitutional and stakeholder governance** → name **Constitutional Contract Layer** vs **Stakeholder System Participation** (Preamble §3.2). Finding-profile codes **CCL** / **SSP** / **INT** remain allowed.",
         "",
         "## Scope",
     ]

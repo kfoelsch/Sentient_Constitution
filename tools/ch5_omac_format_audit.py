@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Report Chapter Five O/M/A/C entry-format remaining work.
+"""Report Chapter Three O/M/A/C entry-format remaining work.
 
 Two accepted shapes (see ``doc_architecture.md`` Measurement-informed O/M/A/C):
 

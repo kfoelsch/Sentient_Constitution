@@ -6,7 +6,7 @@ labels: ["lane-b-evaluation"]
 ---
 
 <!-- CONTRIBUTING.md § Lane B. The results file itself goes in a pull request; this issue tracks the sitting and lets the custodian pair it with others.
-     A results file is not a Chapter Fifteen Standing Record, not certification, and not adoption. -->
+     A results file is not a Chapter Fourteen Standing Record, not certification, and not adoption. -->
 
 ## Sitting
 

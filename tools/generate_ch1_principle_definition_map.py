@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Generate a reader-facing Chapter One to Chapter Five map from the latest trace matrix."""
+"""Generate a reader-facing Chapter One to Chapter Three map from the latest trace matrix."""
 from __future__ import annotations
 import argparse, csv, re, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from definition_index import collect_ch5_entries_with_apex
 
-FILES=("core_01.000_values_principles.md","core_01.010_values_principles_continuity_aim.md","core_01.020_interaction_interpretation.md","core_01.030_constitutional_interpretation.md","core_01.040_stewardship_capacity_principles.md","core_01.050_governance_incentive_application.md")
+FILES=("core_02.000_values_principles.md","core_02.010_values_principles_continuity_aim.md","core_02.020_interaction_interpretation.md","core_02.030_constitutional_interpretation.md","core_02.040_stewardship_capacity_principles.md","core_02.050_governance_incentive_application.md")
 def slug(text: str) -> str:
     text=text.lower().replace('&','and')
     text=re.sub(r'[^a-z0-9]+','-',text).strip('-')
@@ -28,7 +28,7 @@ def anchors(root: Path) -> dict[str,str]:
 def main() -> None:
     ap=argparse.ArgumentParser(); ap.add_argument('--root',default='.'); ap.add_argument('--output',default='project/plain_language/PRINCIPLE_TO_DEFINITIONS_MAP.md'); args=ap.parse_args()
     root=Path(args.root); files=sorted((root/'evidence').glob('*/ch1_ch5_traceability_matrix_*.csv'),reverse=True)
-    if not files: raise SystemExit('No Chapter One–Five traceability matrix found; run make ch1-ch5-alignment-audit first.')
+    if not files: raise SystemExit('No Chapters Two and Three traceability matrix found; run make ch1-ch5-alignment-audit first.')
     source=files[0]; rows=list(csv.DictReader(source.open(encoding='utf-8-sig',newline=''))); defs=[x for x in rows[0].keys() if x not in ('Principle','Title')]
     amap=anchors(root); sections={}
     for name in FILES:
@@ -41,7 +41,7 @@ def main() -> None:
                 sections[m.group(1)]=(name,m.group(2).strip())
                 pending=''
     definitions={e.term.casefold():e for e in collect_ch5_entries_with_apex(root)}
-    out=['# Chapter One principles → Chapter Five definitions','',f'Generated from [`{source.relative_to(root)}`](../../{source.relative_to(root)}). This is a navigation aid generated from the Chapter One–Five traceability matrix; it does not add duties or replace source text.','', '| Principle | Definitions linked by the matrix |','|---|---|']
+    out=['# Chapter Two principles → Chapter Three definitions','',f'Generated from [`{source.relative_to(root)}`](../../{source.relative_to(root)}). This is a navigation aid generated from the Chapters Two and Three traceability matrix; it does not add duties or replace source text.','', '| Principle | Definitions linked by the matrix |','|---|---|']
     for row in rows:
         n=row['Principle'].strip(); title=row['Title'].strip(); linkdata=sections.get(n)
         if linkdata:
@@ -49,7 +49,7 @@ def main() -> None:
         else: p=f'{n} {title}'
         names=[d for d in defs if row.get(d,'').strip() in ('✓','⚠')]
         if names:
-            # Definition targets are resolved from canonical Chapter Five headings/anchors.
+            # Definition targets are resolved from canonical Chapter Three headings/anchors.
             links=[]
             for d in names:
                 term=re.sub(r'^Def\.[A-Z0-9]+\s+','',d).casefold()

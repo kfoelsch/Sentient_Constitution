@@ -19,7 +19,7 @@
     },
     {
       "id": "ch5",
-      "title": "Chapter Five definitions and measurements"
+      "title": "Chapter Three definitions and measurements"
     },
     {
       "id": "vocab",
@@ -367,6 +367,16 @@
       "category": "ch5",
       "run": "auto",
       "writes": false
+    },
+    "ch3-worked-examples-check": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch3-worked-examples": {
+      "category": "ch5",
+      "run": "never",
+      "writes": true
     },
     "ch5-single-definition-audit": {
       "category": "ch5",

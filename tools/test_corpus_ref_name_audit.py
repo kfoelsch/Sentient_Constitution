@@ -9,18 +9,18 @@ from pathlib import Path
 
 from corpus_ref_name_audit import Section, build_index, scan_line
 
-CS_FILE = "corpus_systems/cs_06.350_demo.md"
-CI_FILE = "corpus_institutions/ci_06.275_demo.md"
-CS_LINK = "../corpus_systems/cs_06.350_demo.md"
+CS_FILE = "corpus_systems/cs_04.350_demo.md"
+CI_FILE = "corpus_institutions/ci_04.275_demo.md"
+CS_LINK = "../corpus_systems/cs_04.350_demo.md"
 
 
 def make_index() -> dict[str, Section]:
     return {
-        "CS-6.350": Section({CS_FILE}, "Adoption Transition constitution and migration governance", {"cs-6350"}),
-        "CS-6.350 §3": Section({CS_FILE}, "Gate criteria and advancement rules", {"cs-6350-3-gate"}),
-        "CS-6.355": Section({CS_FILE}, "Escalation and review", {"cs-6355"}),
-        "CS-6.355 §10": Section({CS_FILE}, "Competency", {"cs-6355-10", "10-inspectable-attributable-action"}),
-        "CI-6.275 §1": Section(
+        "CS-4.350": Section({CS_FILE}, "Adoption Transition constitution and migration governance", {"cs-6350"}),
+        "CS-4.350 §3": Section({CS_FILE}, "Gate criteria and advancement rules", {"cs-4350-3-gate"}),
+        "CS-4.355": Section({CS_FILE}, "Escalation and review", {"cs-6355"}),
+        "CS-4.355 §10": Section({CS_FILE}, "Competency", {"cs-4355-10", "10-inspectable-attributable-action"}),
+        "CI-4.275 §1": Section(
             {CI_FILE},
             "Interface — Article XXVIII-D (Non-Compliant Property) (seizure, incentives)",
             {"ci-141"},
@@ -34,21 +34,21 @@ class CorpusRefNameTests(unittest.TestCase):
         for rel in (CS_FILE, CI_FILE, "core_06_demo.md"):
             path = self.root / rel
             path.parent.mkdir(parents=True, exist_ok=True)
-            path.write_text("# Demo\n\n<a id=\"cs-6350-3-gate\"></a>\n<a id=\"cs-6355-10\"></a>\n<a id=\"10-inspectable-attributable-action\"></a>\n", encoding="utf-8")
+            path.write_text("# Demo\n\n<a id=\"cs-4350-3-gate\"></a>\n<a id=\"cs-4355-10\"></a>\n<a id=\"10-inspectable-attributable-action\"></a>\n", encoding="utf-8")
         self.index = make_index()
 
     def details(self, line: str) -> list[str]:
         return [f.detail for f in scan_line(self.root, "core_06_demo.md", 1, line, self.index)]
 
     def test_flags_unnamed_link(self) -> None:
-        out = self.details("See [**CS-6.350 §3**](corpus_systems/cs_06.350_demo.md#cs-6350-3-gate).")
+        out = self.details("See [**CS-4.350 §3**](corpus_systems/cs_04.350_demo.md#cs-4350-3-gate).")
         self.assertEqual(len(out), 1)
         self.assertIn("no name", out[0])
 
     def test_accepts_gloss_after_link(self) -> None:
         self.assertEqual(
             self.details(
-                "See [**CS-6.350 §3**](corpus_systems/cs_06.350_demo.md#cs-6350-3-gate) "
+                "See [**CS-4.350 §3**](corpus_systems/cs_04.350_demo.md#cs-4350-3-gate) "
                 "(*Gate criteria and advancement rules*)."
             ),
             [],
@@ -57,32 +57,32 @@ class CorpusRefNameTests(unittest.TestCase):
     def test_accepts_name_in_link_text(self) -> None:
         self.assertEqual(
             self.details(
-                "See [CS-6.350 §3 Gate criteria and advancement rules]"
-                "(corpus_systems/cs_06.350_demo.md#cs-6350-3-gate)."
+                "See [CS-4.350 §3 Gate criteria and advancement rules]"
+                "(corpus_systems/cs_04.350_demo.md#cs-4350-3-gate)."
             ),
             [],
         )
 
     def test_flags_unnamed_bare_reference(self) -> None:
-        self.assertEqual(len(self.details("Governed by **CS-6.350**.")), 1)
+        self.assertEqual(len(self.details("Governed by **CS-4.350**.")), 1)
 
     def test_accepts_named_bare_reference(self) -> None:
         self.assertEqual(
-            self.details("Governed by **CS-6.350** (*Adoption Transition constitution and migration governance*)."),
+            self.details("Governed by **CS-4.350** (*Adoption Transition constitution and migration governance*)."),
             [],
         )
 
     def test_flags_each_range_endpoint(self) -> None:
-        out = self.details("See **CS-6.350** (*Adoption Transition constitution and migration governance*) through **CS-6.350 §3**.")
+        out = self.details("See **CS-4.350** (*Adoption Transition constitution and migration governance*) through **CS-4.350 §3**.")
         self.assertEqual(len(out), 1)
 
     def test_flags_wrong_name(self) -> None:
-        out = self.details("See **CS-6.350 §3** (*Adoption Transition governance*).")
+        out = self.details("See **CS-4.350 §3** (*Adoption Transition governance*).")
         self.assertIn("does not match", out[0])
 
     def test_accepts_short_name_for_long_heading(self) -> None:
         self.assertEqual(
-            self.details("See **CI-6.275 §1** (*seizure, incentives*)."),
+            self.details("See **CI-4.275 §1** (*seizure, incentives*)."),
             [],
         )
 
@@ -91,76 +91,76 @@ class CorpusRefNameTests(unittest.TestCase):
 
     def test_flags_missing_anchor(self) -> None:
         out = self.details(
-            "See [**CS-6.350 §3**](corpus_systems/cs_06.350_demo.md#nope) (*Gate criteria and advancement rules*)."
+            "See [**CS-4.350 §3**](corpus_systems/cs_04.350_demo.md#nope) (*Gate criteria and advancement rules*)."
         )
         self.assertIn("not an anchor", out[0])
 
     def test_flags_section_link_without_anchor(self) -> None:
         out = self.details(
-            "See [**CS-6.350 §3**](corpus_systems/cs_06.350_demo.md) (*Gate criteria and advancement rules*)."
+            "See [**CS-4.350 §3**](corpus_systems/cs_04.350_demo.md) (*Gate criteria and advancement rules*)."
         )
         self.assertIn("without its section anchor", out[0])
 
     def test_flags_wrong_file(self) -> None:
         out = self.details(
-            "See [**CS-6.350 §3**](corpus_institutions/ci_06.275_demo.md#cs-6350-3-gate) "
+            "See [**CS-4.350 §3**](corpus_institutions/ci_04.275_demo.md#cs-4350-3-gate) "
             "(*Gate criteria and advancement rules*)."
         )
         self.assertTrue(any("is defined in" in d for d in out))
 
     def test_flags_missing_target_file(self) -> None:
-        out = self.details("See [**CS-6.350**](corpus_systems/gone.md) (*Adoption Transition constitution and migration governance*).")
+        out = self.details("See [**CS-4.350**](corpus_systems/gone.md) (*Adoption Transition constitution and migration governance*).")
         self.assertTrue(any("does not exist" in d for d in out))
 
     def test_list_label_entry_is_exempt(self) -> None:
-        self.assertEqual(self.details("- **CS-6.350 §3** — gate criteria for each phase."), [])
+        self.assertEqual(self.details("- **CS-4.350 §3** — gate criteria for each phase."), [])
 
     def test_table_rows_are_out_of_scope(self) -> None:
         # SECTION-CITE-NAME-01 scans tables; this rule does not.
-        row = "| Row | [**CS-6.350 §3**](corpus_systems/cs_06.350_demo.md#cs-6350-3-gate) |"
+        row = "| Row | [**CS-4.350 §3**](corpus_systems/cs_04.350_demo.md#cs-4350-3-gate) |"
         self.assertEqual(self.details(row), [])
 
     def test_ignores_code_spans_and_headings(self) -> None:
-        self.assertEqual(self.details("Use `CS-6.350 §3` here."), [])
-        self.assertEqual(self.details("## CS-6.350 §3 Heading"), [])
+        self.assertEqual(self.details("Use `CS-4.350 §3` here."), [])
+        self.assertEqual(self.details("## CS-4.350 §3 Heading"), [])
 
     def test_index_reads_heading_after_anchor_and_part_headings(self) -> None:
         d = self.root / "corpus_systems"
-        (d / "cs_09.305_a.md").write_text("# CS-9.305: Machinery\n\n## CS-9.305 §1 Purpose\n", encoding="utf-8")
-        (d / "cs_09.310_b.md").write_text(
-            "# CS-9.310: Impact\n\n## CS-9.310 §8 Impact classes\n<a id=\"cs-9310-8-late\"></a>\n",
+        (d / "cs_08.305_a.md").write_text("# CS-8.305: Machinery\n\n## CS-8.305 §1 Purpose\n", encoding="utf-8")
+        (d / "cs_08.310_b.md").write_text(
+            "# CS-8.310: Impact\n\n## CS-8.310 §8 Impact classes\n<a id=\"cs-8310-8-late\"></a>\n",
             encoding="utf-8",
         )
         index = build_index(self.root)
-        self.assertEqual(index["CS-9.305"].files, {"corpus_systems/cs_09.305_a.md"})
-        self.assertEqual(index["CS-9.310"].files, {"corpus_systems/cs_09.310_b.md"})
-        self.assertIn("cs-9310-8-late", index["CS-9.310 §8"].anchors)
+        self.assertEqual(index["CS-8.305"].files, {"corpus_systems/cs_08.305_a.md"})
+        self.assertEqual(index["CS-8.310"].files, {"corpus_systems/cs_08.310_b.md"})
+        self.assertIn("cs-8310-8-late", index["CS-8.310 §8"].anchors)
 
     def test_index_registers_numbered_subsection_headings(self) -> None:
         d = self.root / "corpus_systems"
-        (d / "cs_09.305_a.md").write_text(
-            "# CS-9.305: Machinery\n\n## CS-9.305 §3 Factors\n\n#### 3.5 Reclassification requirement\n",
+        (d / "cs_08.305_a.md").write_text(
+            "# CS-8.305: Machinery\n\n## CS-8.305 §3 Factors\n\n#### 3.5 Reclassification requirement\n",
             encoding="utf-8",
         )
         index = build_index(self.root)
-        self.assertEqual(index["CS-9.305 §3.5"].title, "Reclassification requirement")
-        self.assertIn("35-reclassification-requirement", index["CS-9.305 §3.5"].anchors)
+        self.assertEqual(index["CS-8.305 §3.5"].title, "Reclassification requirement")
+        self.assertIn("35-reclassification-requirement", index["CS-8.305 §3.5"].anchors)
 
     def test_index_registers_bold_run_in_subsections_after_anchor(self) -> None:
         d = self.root / "corpus_systems"
-        (d / "cs_06.305_a.md").write_text(
-            "# CS-6.305: Types\n\n## CS-6.305 §5 Governance\n\n<a id=\"52-reclass\"></a>\n\n**5.2. Reclassification and lifecycle governance.**\n",
+        (d / "cs_04.305_a.md").write_text(
+            "# CS-4.305: Types\n\n## CS-4.305 §5 Governance\n\n<a id=\"52-reclass\"></a>\n\n**5.2. Reclassification and lifecycle governance.**\n",
             encoding="utf-8",
         )
         index = build_index(self.root)
-        self.assertEqual(index["CS-6.305 §5.2"].title, "Reclassification and lifecycle governance")
-        self.assertIn("52-reclass", index["CS-6.305 §5.2"].anchors)
+        self.assertEqual(index["CS-4.305 §5.2"].title, "Reclassification and lifecycle governance")
+        self.assertIn("52-reclass", index["CS-4.305 §5.2"].anchors)
 
     def test_accepts_named_subsection_cite_with_section_sign(self) -> None:
         self.assertEqual(
             self.details(
-                "See [CS-6.355 §10 inspectable attributable action]"
-                "(corpus_systems/cs_06.350_demo.md#10-inspectable-attributable-action)."
+                "See [CS-4.355 §10 inspectable attributable action]"
+                "(corpus_systems/cs_04.350_demo.md#10-inspectable-attributable-action)."
             ),
             [],
         )
@@ -168,33 +168,33 @@ class CorpusRefNameTests(unittest.TestCase):
     def test_accepts_part_letter_before_section_sign(self) -> None:
         self.assertEqual(
             self.details(
-                "See [CS-6.355 Part A §10 inspectable attributable action]"
-                "(corpus_systems/cs_06.350_demo.md#10-inspectable-attributable-action)."
+                "See [CS-4.355 Part A §10 inspectable attributable action]"
+                "(corpus_systems/cs_04.350_demo.md#10-inspectable-attributable-action)."
             ),
             [],
         )
 
     def test_accepts_dash_name_after_bold_id(self) -> None:
         self.assertEqual(
-            self.details("Scale: **CS-6.350 — Adoption Transition constitution and migration governance** applies."),
+            self.details("Scale: **CS-4.350 — Adoption Transition constitution and migration governance** applies."),
             [],
         )
 
     def test_flags_wrong_dash_name(self) -> None:
-        out = self.details("Scale: **CS-6.350 — Something else entirely** applies.")
+        out = self.details("Scale: **CS-4.350 — Something else entirely** applies.")
         self.assertIn("does not match", out[0])
 
     def test_placeholder_pattern_is_not_a_cite(self) -> None:
-        self.assertEqual(self.details("Clusters are **oDef.*n*** = **CS-6.350.*n***."), [])
+        self.assertEqual(self.details("Clusters are **oDef.*n*** = **CS-4.350.*n***."), [])
 
     def test_accepts_registry_or_other_part_name(self) -> None:
-        self.index["CS-6.350"].aliases.add("Transition handling")
-        self.assertEqual(self.details("See **CS-6.350** (*Transition handling*)."), [])
+        self.index["CS-4.350"].aliases.add("Transition handling")
+        self.assertEqual(self.details("See **CS-4.350** (*Transition handling*)."), [])
 
     def test_gloss_after_section_number_link_names_the_subsection(self) -> None:
         self.assertEqual(
             self.details(
-                "See [CS-6.355 §10](corpus_systems/cs_06.350_demo.md#10-inspectable-attributable-action) "
+                "See [CS-4.355 §10](corpus_systems/cs_04.350_demo.md#10-inspectable-attributable-action) "
                 "(*Inspectable attributable action*)."
             ),
             [],
@@ -206,39 +206,39 @@ class CorpusRefNameTests(unittest.TestCase):
     def test_named_subsection_link_by_fragment_is_accepted(self) -> None:
         (self.root / CS_FILE).write_text("# x\n\n### Gate lane map\n", encoding="utf-8")
         self.assertEqual(
-            self.details("See [CS-6.350 §3 Gate lane map](corpus_systems/cs_06.350_demo.md#gate-lane-map)."),
+            self.details("See [CS-4.350 §3 Gate lane map](corpus_systems/cs_04.350_demo.md#gate-lane-map)."),
             [],
         )
 
     def test_flags_subsection_name_that_disagrees_with_fragment(self) -> None:
         (self.root / CS_FILE).write_text("# x\n\n### Gate lane map\n", encoding="utf-8")
-        out = self.details("See [CS-6.350 §3 Something else](corpus_systems/cs_06.350_demo.md#gate-lane-map).")
+        out = self.details("See [CS-4.350 §3 Something else](corpus_systems/cs_04.350_demo.md#gate-lane-map).")
         self.assertTrue(out)
 
     def test_flags_unnamed_subsection_cite(self) -> None:
         out = self.details(
-            "See [CS-6.355 §10](corpus_systems/cs_06.350_demo.md#10-inspectable-attributable-action)."
+            "See [CS-4.355 §10](corpus_systems/cs_04.350_demo.md#10-inspectable-attributable-action)."
         )
         self.assertEqual(len(out), 1)
         self.assertIn("has no name", out[0])
 
     def test_flags_wrong_subsection_name(self) -> None:
         out = self.details(
-            "See [CS-6.355 §10 unrelated thing](corpus_systems/cs_06.350_demo.md#10-inspectable-attributable-action)."
+            "See [CS-4.355 §10 unrelated thing](corpus_systems/cs_04.350_demo.md#10-inspectable-attributable-action)."
         )
         self.assertIn("does not match heading title", out[0])
 
     def test_index_attaches_deep_body_anchors_to_section(self) -> None:
         d = self.root / "corpus_systems"
         (d / "cs_04_demo.md").write_text(
-            "# CS-27.305: Demo\n\n## CS-27.305 §10 Competency\n\nBody.\n\nMore body.\n\n"
+            "# CS-26.305: Demo\n\n## CS-26.305 §10 Competency\n\nBody.\n\nMore body.\n\n"
             "<a id=\"10-inspectable-attributable-action\"></a>\n\n**Inspectable.**\n\n"
-            "## CS-27.305 §11 Next\n",
+            "## CS-26.305 §11 Next\n",
             encoding="utf-8",
         )
         index = build_index(self.root)
-        self.assertIn("10-inspectable-attributable-action", index["CS-27.305 §10"].anchors)
-        self.assertNotIn("10-inspectable-attributable-action", index["CS-27.305 §11"].anchors)
+        self.assertIn("10-inspectable-attributable-action", index["CS-26.305 §10"].anchors)
+        self.assertNotIn("10-inspectable-attributable-action", index["CS-26.305 §11"].anchors)
 
 
 if __name__ == "__main__":

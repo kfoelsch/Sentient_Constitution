@@ -41,7 +41,7 @@ class ListIntroColonTests(unittest.TestCase):
             "**Duty to resist.**",
             "",
             "<a id=\"operative-steward-statement-unlawful-instruction\"></a>",
-            "> **Operative steward statement.** **Owner:** Chapter Eleven §5.4.",
+            "> **Operative steward statement.** **Owner:** Chapter Ten §6.4.",
         ]
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 
@@ -146,7 +146,7 @@ class ListIntroColonTests(unittest.TestCase):
     def test_section_one_label_period_fails(self) -> None:
         lines = [
             "### 1. Purpose, Role, and Scope",
-            "**Purpose.** Chapter Nine says how a system is evaluated.",
+            "**Purpose.** Chapter Eight says how a system is evaluated.",
         ]
         findings = check_list_intro_colon(lines, "core_example.md")
         self.assertEqual(len(findings), 1)
@@ -157,7 +157,7 @@ class ListIntroColonTests(unittest.TestCase):
         lines = [
             "### 1. Purpose, Role, and Scope",
             "*In plain terms: a gloss.*",
-            "**Purpose:** Chapter Nine says how a system is evaluated.",
+            "**Purpose:** Chapter Eight says how a system is evaluated.",
             "**Role.** It is the evaluation chapter.",
             "**Chapter scope.** The chapter covers evaluation.",
         ]
@@ -174,7 +174,7 @@ class ListIntroColonTests(unittest.TestCase):
     def test_section_one_label_colon_passes(self) -> None:
         lines = [
             "### 1. Purpose, Role, and Scope",
-            "**Purpose:** Chapter Nine says how a system is evaluated.",
+            "**Purpose:** Chapter Eight says how a system is evaluated.",
             "**Role:** It is the evaluation chapter.",
             "**Chapter scope:** The chapter covers:",
             "- evaluation",
@@ -185,7 +185,7 @@ class ListIntroColonTests(unittest.TestCase):
     def test_section_one_rule_stops_at_the_next_heading(self) -> None:
         lines = [
             "### 1. Purpose, Role, and Scope",
-            "**Purpose:** Chapter Nine says how a system is evaluated.",
+            "**Purpose:** Chapter Eight says how a system is evaluated.",
             "### 2. Why the Jobs Are Separated",
             "**Admission scope.** This section applies to systems.",
         ]

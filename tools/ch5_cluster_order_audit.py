@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit selected Chapter Five compound heading/member order contracts.
+"""Audit selected Chapter Three compound heading/member order contracts.
 
 The goal is not to infer every possible semantic grouping. This checker is a
 deliberately narrow drift tripwire for headings whose visible term sequence is
@@ -19,7 +19,7 @@ from ch5_paths import CH5_BANDS, CH5_INDEX
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Accountability, Contestability, and Redress Pathways": [
-        # Accountability and Timeliness leg heads live in core_05.005_apex_accountability_leg.md
+        # Accountability and Timeliness leg heads live in core_03.005_apex_accountability_leg.md
         "Attributable Action",
         "Attribution Integrity",
         "Record Integrity",
@@ -130,7 +130,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Twenty-Seven §5.3 Decision-Resolution Requirements for Binding Stakeholder Choice",
+        "Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice",
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
@@ -357,12 +357,12 @@ def main() -> int:
             )
 
     if failures:
-        print("FAIL: Chapter Five compound heading/member order drift detected.")
+        print("FAIL: Chapter Three compound heading/member order drift detected.")
         for failure in failures:
             print(failure)
         return 1
 
-    print("PASS: selected Chapter Five compound headings preserve member order.")
+    print("PASS: selected Chapter Three compound headings preserve member order.")
     return 0
 
 

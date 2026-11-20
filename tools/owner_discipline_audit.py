@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Heuristic single-home discipline audit (advisory by default).
 
-Flags O/E/C-shaped definition gloss blocks outside Chapter Five owner files.
+Flags O/E/C-shaped definition gloss blocks outside Chapter Three owner files.
 Rule: OWNER-SINGLE-HOME in tools/architecture/rule_registry.json.
 """
 
@@ -19,13 +19,13 @@ if str(_TOOLS) not in sys.path:
 from corpus_paths import binding_corpus_scope  # noqa: E402
 
 CH5_OWNERS = {
-    "core_05.000_definitions_home.md",
-    "core_05.000_definitions_home.md",
-    "core_05.050_band_oversight.md",
-    "core_05.055_band_participation.md",
-    "core_05.035_band_accountability.md",
-    "core_05.040_band_continuity.md",
-    "core_05.045_band_integrative.md",
+    "core_03.000_definitions_home.md",
+    "core_03.000_definitions_home.md",
+    "core_03.050_band_oversight.md",
+    "core_03.055_band_participation.md",
+    "core_03.035_band_accountability.md",
+    "core_03.040_band_continuity.md",
+    "subcore_03.045_band_integrative.md",
 }
 
 OEC_BLOCK_RE = re.compile(
@@ -67,7 +67,7 @@ def scan_file(root: Path, path: Path) -> list[str]:
         if e_seen and c_seen:
             snippet = " / ".join(lines[i : min(j, i + 3)])
             findings.append(
-                f"{rel}:{block_start}: possible competing O/E/C gloss outside Chapter Five — {snippet[:120]}"
+                f"{rel}:{block_start}: possible competing O/E/C gloss outside Chapter Three — {snippet[:120]}"
             )
         i = j if j > i else i + 1
     return findings

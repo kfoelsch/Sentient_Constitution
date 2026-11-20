@@ -4,7 +4,7 @@
 Rule: NAV-DAC-12-ORDER in tools/architecture/rule_registry.json.
 
 When a ``####`` or ``#####`` unit (or a ``###`` unit whose Trace block carries
-Chapter Five ``· [O]`` read-with links) opens with a Trace ``<details>`` widget,
+Chapter Three ``· [O]`` read-with links) opens with a Trace ``<details>`` widget,
 the next substantive block after ``</details>`` must be either:
 
 1. a **Definitions (O · M · A · C)** ``<details>`` widget, or
@@ -13,7 +13,7 @@ the next substantive block after ``</details>`` must be either:
 Only blank lines may appear between Trace close and that definition carrier.
 ``<br>``, *In plain terms*, anchor tags, or operative prose must not intervene.
 
-Sections whose Trace blocks carry no Chapter Five ``· [O]`` read-with links are
+Sections whose Trace blocks carry no Chapter Three ``· [O]`` read-with links are
 exempt from the requirement (structural / routing-only traces).
 
 Without Trace, the O/M/A/C widget must be the first substantive block under the
@@ -189,7 +189,7 @@ def audit_dec_without_trace_placement(
 def audit_roadmap_exclusion_parent_dec(
     lines: list[str], rel: str, start: int, end: int, heading_text: str, level: int
 ) -> list[str]:
-    if level != 3 or not rel.startswith("core_01."):
+    if level != 3 or not rel.startswith("core_02."):
         return []
 
     first_child = end

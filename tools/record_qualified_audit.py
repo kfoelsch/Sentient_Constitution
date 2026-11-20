@@ -3,7 +3,7 @@
 
 Rule ID: RECORD-QUALIFIED-01
 
-Chapter Nine's "the record" is the System Certification Record; Chapter Ten reads it
+Chapter Eight's "the record" is the System Certification Record; Chapter Nine reads it
 as the Institutional Certification Record ("reading Institution for System"). On a
 line that names one kind of record and also speaks of the other kind's owner (a
 System Certification Record and an Institution, or an Institutional Certification

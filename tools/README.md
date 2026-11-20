@@ -11,7 +11,7 @@ sources remain visible instead of being guessed:
 
 | Command | Checks |
 |---|---|
-| `make translation-audit` | Freshness/review status, anchor and Markdown structure, local links/fragments, glossary surface-form review, and the Chapter Five definition directory |
+| `make translation-audit` | Freshness/review status, anchor and Markdown structure, local links/fragments, glossary surface-form review, and the Chapter Three definition directory |
 | `make translation-freshness-audit` | Source/translation hashes against `translations/review_status.json`; reports unreviewed files separately from drift |
 | `make translation-structure-audit` | Preserved English IDs, heading levels, lists, tables, details blocks, and code fences |
 | `make translation-link-audit` | Reuses `local_markdown_fragment_audit.py` on translated files and locale README tables |
@@ -33,16 +33,16 @@ queues, not quality certifications.
 
 Put a **blank line before** `---` when you mean a horizontal rule between sections. If `---` sits directly under a paragraph, CommonMark-style parsers may treat that paragraph as a Setext-style heading instead. `make corpus-markdown-audit` enforces this rule on corpus files.
 
-Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 definition files use **one** `---` between reader units, with the next heading's `<a id>` anchors after that rule — not a second rule under the title. `make ch5-entry-format-audit` and `make cjs-operational-cluster-audit` enforce the shape (see `tools/definition_separator_format.py` and **CH5-FORMAT** in `doc_architecture.md`).
+Chapter Three and CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 definition files use **one** `---` between reader units, with the next heading's `<a id>` anchors after that rule — not a second rule under the title. `make ch5-entry-format-audit` and `make cjs-operational-cluster-audit` enforce the shape (see `tools/definition_separator_format.py` and **CH5-FORMAT** in `doc_architecture.md`).
 
 ## Maintenance (safe to use on the live corpus)
 
 | Target | Command |
 |--------|---------|
-| Article reference integrity (Chapter Six part files) | `make reference-audit` |
+| Article reference integrity (Chapter Four part files) | `make reference-audit` |
 | Section-label / heading / fragment integrity (`§` cites and `core_*` sibling numbering) | `make section-label-anchor-audit` |
 | Named `§` cites in body prose (`[§11.5 Title](#…)`, not `[§11.5](#…)`) | `make section-cite-name-audit` |
-| `Part X` cites (with or without `§N`) outside their own chapter name the chapter (`Chapter Ten §3.2 …`, `Chapter Ten`, not `Part B`) | `make part-cite-chapter-audit` (fix: `python3 tools/part_cite_chapter_audit.py --write`) |
+| `Part X` cites (with or without `§N`) outside their own chapter name the chapter (`Chapter Nine §4.2 …`, `Chapter Nine`, not `Part B`) | `make part-cite-chapter-audit` (fix: `python3 tools/part_cite_chapter_audit.py --write`) |
 | Numbered section does not restate its heading as the first topic sentence | `make heading-echo-topic-audit` |
 | Regression scenario matrix checks | `make scenario-audit` |
 | Blocking regression bundle | `make regression` |
@@ -56,80 +56,80 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 | CJS-0.105 §1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Binding corpus must not depend on `doc_architecture` or a README section for meaning/routing | `make support-doc-pointer-audit` |
 | Materially Binding Act Record base schema and fixtures | `make materially-binding-act-record-validate` / `make materially-binding-act-record-validate-test` |
-| Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
-| Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
-| Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
-| Chapter Five nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
-| Chapter Six nested-list readability candidates (advisory) | `make ch6-nested-list-candidates` |
-| Chapter Eight nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
-| Chapter Nine nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
-| Chapter Fifteen nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
-| Chapter Sixteen nested-list readability candidates (advisory) | `make ch12-nested-list-candidates` |
-| Chapter Seventeen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
-| Chapter Twenty-One nested-list readability candidates (advisory) | `make ch14-nested-list-candidates` |
-| Chapter Twenty-Three nested-list readability candidates (advisory) | `make ch15-nested-list-candidates` |
-| Chapter Twenty-Seven nested-list readability candidates (advisory) | `make ch16-nested-list-candidates` |
-| Chapter One O/M/A/C functional ordering | `make ch1-dac-order-audit` |
+| Chapter Three compound heading/member order | `make ch5-cluster-order-audit` |
+| Chapter Three single-definition and owner-roster rule | `make ch5-single-definition-audit` |
+| Chapter Three alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
+| Chapter Three nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
+| Chapter Four nested-list readability candidates (advisory) | `make ch6-nested-list-candidates` |
+| Chapter Six nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
+| Chapter Eight nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
+| Chapter Fourteen nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
+| Chapter Fifteen nested-list readability candidates (advisory) | `make ch12-nested-list-candidates` |
+| Chapter Sixteen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
+| Chapter Twenty nested-list readability candidates (advisory) | `make ch14-nested-list-candidates` |
+| Chapter Twenty-Two nested-list readability candidates (advisory) | `make ch15-nested-list-candidates` |
+| Chapter Twenty-Six nested-list readability candidates (advisory) | `make ch16-nested-list-candidates` |
+| Chapter Two O/M/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |
 | Plain-language jargon scan | `make plain-language-audit` |
-| Chapter Four ↔ Nine pointer discipline | `make ch4-ch9-pointer-audit` |
+| Subcore 3-C ↔ Nine pointer discipline | `make ch4-ch9-pointer-audit` |
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
 | AI alignment eval (advisory; Layer A/B handoff + willingness) | `make ai-alignment-eval` / `make ai-alignment-eval-evidence` |
 | Four-layer alignment audit (principles · Def.* · oDef · Articles; advisory) | `make alignment-audit` |
-| Chapter One ↔ Chapter Five only | `make ch1-ch5-alignment-audit` |
-| Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef (also in `make regression`) | `make ch1-cjs3-alignment-audit` |
-| Preamble / Chapter One ↔ Chapter Six articles | `make ch1-ch6-alignment-audit` |
+| Chapter Two ↔ Chapter Three only | `make ch1-ch5-alignment-audit` |
+| Chapter Two ↔ CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 oDef (also in `make regression`) | `make ch1-cjs3-alignment-audit` |
+| Preamble / Chapter Two ↔ Chapter Four articles | `make ch1-ch6-alignment-audit` |
 
-`alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
+`alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Three **Def.*** entries, CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 **oDef** clusters, and Chapter Four Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
 
-`reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06.0*_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
+`reference_audit.py` builds the **canonical Chapter Four map** from merged `### Article …:` headings in `core_06.0*_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
 `section_label_anchor_audit.py` checks three things: `§N` (and dotted-only `[4.1]`) link text must match the resolved heading number or a dotted parent/child, and the fragment must exist; related cites must use a current-numbering fragment prefix (`54-` or `5-4-`); numbered ATX siblings in `core_*.md` must not duplicate or skip. Named fragments without a numeric id prefix are not compared to the `§` label. `implementation/` and `evaluation/` sources are out of scope for the cite checks.
 
 `section_cite_name_audit.py` requires a human-readable title on body-prose `§` / `§§` cites (title in the link text, immediately after an unlinked token, or a following capitalized `(*Title*)` gloss). A lowercase note such as `(*remedy and correction*)` describes a cite but does not name it, so put the title in the link text and keep the note after it. Table rows are scanned too: a cite in a table cell needs its title. `section_cite_name_table_baseline.json` can grandfather older table cites (a row edit changes its fingerprint, so the row must then be named; `--write-baseline` rewrites the file and refuses while prose cites are unnamed); it is currently empty. It does not replace `section_label_anchor_audit.py`. `make section-cite-name-audit` uses `--changed-only`; omit the flag for a full binding-corpus scan.
 
-`part_cite_chapter_audit.py` (**PART-CITE-CHAPTER-01**, blocking; in `make regression`) catches the `Part B §7.2` cite, and the bare `Part B` mention, that omits its chapter. Chapters One, Six, Nine, and Fourteen are split into lettered Parts and the letters repeat, so outside the chapter that holds the section the cite must read `Chapter Ten §3.2 …`; the adopted-implementation families use the document ID (`CS-6.310 Part B §9.3`). The chapter and Part letter of a link target come from `tools/architecture/chapter_numbers.json` and the file's own heading, so a qualifier or Part letter that disagrees with the target is reported too (`wrong-chapter`, `part-mismatch`), as is an unlinked cite whose chapter cannot be found (`unresolved`). A bare mention with no `§` (`Part A`, `Parts A–C`, `Part A and B`) is held to the same rule: in a file whose chapter has no such Part it is `unqualified-part` (the Chapter Twelve sentence `the Part A evaluations that Part B lists`), in a family document that is not itself a Part it is `ambiguous-part`, and a qualifier naming a Part the chapter lacks is `unknown-part` (`Chapter Nine (Parts A, B, C, and D)`). `link-chapter-mismatch` reports link text that names `Chapter N` while the link goes to a core file of another chapter. Only `missing-chapter` has an automatic repair: `python3 tools/part_cite_chapter_audit.py --write` inserts the chapter inside the link text and is idempotent. `--all` is a read-only inventory of what the gate does not read (project drafts, translations, archive, evidence, generated pages); `--summary` prints counts. Tests: `make part-cite-chapter-audit-test`.
+`part_cite_chapter_audit.py` (**PART-CITE-CHAPTER-01**, blocking; in `make regression`) catches the `Part B §7.2` cite, and the bare `Part B` mention, that omits its chapter. Chapters Two, Four, Eight, and Thirteen are split into lettered Parts and the letters repeat, so outside the chapter that holds the section the cite must read `Chapter Nine §4.2 …`; the adopted-implementation families use the document ID (`CS-4.310 Part B §9.3`). The chapter and Part letter of a link target come from `tools/architecture/chapter_numbers.json` and the file's own heading, so a qualifier or Part letter that disagrees with the target is reported too (`wrong-chapter`, `part-mismatch`), as is an unlinked cite whose chapter cannot be found (`unresolved`). A bare mention with no `§` (`Part A`, `Parts A–C`, `Part A and B`) is held to the same rule: in a file whose chapter has no such Part it is `unqualified-part` (the Chapter Eleven sentence `the Part A evaluations that Part B lists`), in a family document that is not itself a Part it is `ambiguous-part`, and a qualifier naming a Part the chapter lacks is `unknown-part` (`Chapter Eight (Parts A, B, C, and D)`). `link-chapter-mismatch` reports link text that names `Chapter N` while the link goes to a core file of another chapter. Only `missing-chapter` has an automatic repair: `python3 tools/part_cite_chapter_audit.py --write` inserts the chapter inside the link text and is idempotent. `--all` is a read-only inventory of what the gate does not read (project drafts, translations, archive, evidence, generated pages); `--summary` prints counts. Tests: `make part-cite-chapter-audit-test`.
 
-`wrapper_cite_audit.py` (REF-WRAPPER-01) flags citations of any of the four layer wrappers (`corpus_systems.md`, `corpus_institutions.md`, `corpus_joint_structure.md`, `corpus_forum.md`): a link to it or its file name in body prose, Trace, or Read with lines. Cite the subfile that owns the rule instead. Navigation lines and the Preamble and Chapter Thirty-One incorporation lists are exempt. `make wrapper-cite-audit` (blocking, in `make regression`; `--wrapper NAME` to narrow to one wrapper, `--summary` for counts); unit test `make wrapper-cite-audit-test`.
+`wrapper_cite_audit.py` (REF-WRAPPER-01) flags citations of any of the four layer wrappers (`corpus_systems.md`, `corpus_institutions.md`, `corpus_joint_structure.md`, `corpus_forum.md`): a link to it or its file name in body prose, Trace, or Read with lines. Cite the subfile that owns the rule instead. Navigation lines and the Preamble and Chapter Thirty incorporation lists are exempt. `make wrapper-cite-audit` (blocking, in `make regression`; `--wrapper NAME` to narrow to one wrapper, `--summary` for counts); unit test `make wrapper-cite-audit-test`.
 
 `heading_echo_topic_audit.py` flags a numbered section whose first body-prose line (after widgets and `*In plain terms*` gloss) restates that heading as a topic sentence — a self-cite such as `**[§13.2 Title](#…):**`. Unnumbered heading-echo run-ins (`**Symmetric costly constraints:**`) stay under MD-LIST-INTRO-01.
 
-`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / O/M/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05.*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
+`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / O/M/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Three definition files (`core_05.*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
 
 `list_label_echo_audit.py` (**MD-LABEL-ECHO-01**, blocking; in `make regression`; `make list-label-echo-audit`; unit test `make list-label-echo-audit-test`) flags a list item whose bold label is restated by its own body — `- **Is invalid:** The charter is invalid.` — when every content word of the label reappears in the body in order, the body adds at most one other content word, and the body is 12 words or fewer. Bodies that open with `—` or `(`, contain a `§` cite, or end with `:` are skipped, as are fences, comments, and Trace blocks.
 
 `apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). `make article-cite-gloss-audit` (`--check --changed-only`, in `make regression`) fails on bare cites in added lines; run the script without `--check` to fix them. Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 
-`ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
+`ch5_trace_crosslink_audit.py` enforces the Chapter Three navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
 
 `trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, `… also read **§…**`, and operative bullet labels such as `- *Read with.*` in operative prose.
 
-`trace_dac_widget_order_audit.py` enforces Trace → O/M/A/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions (O · M · A · C)** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the O/M/A/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` O/M/A/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
+`trace_dac_widget_order_audit.py` enforces Trace → O/M/A/C placement: when a `###`–`#####` unit's Trace block carries Chapter Three `· [O]` read-with links, the next block after Trace close must be a **Definitions (O · M · A · C)** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the O/M/A/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` O/M/A/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
 
 `widget_top_placement_audit.py` enforces the opening widget stack (**NAV-WIDGET-TOP-01** / **NAV-READER-06**): file-top widgets stay in order placement → reader guidance → Trace → O/M/A/C before ordinary operative prose (owner/home lines included), consecutive stack widgets may be separated by blank lines only (no `<br>` or prose between them), and when a section's direct content carries Trace / O/M/A/C those widgets open the unit. Local mid-section Traces under bold run-in titles (`**8.3. …**`) and child-heading widgets are out of scope for the parent.
 
-`ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
+`ch5_single_definition_audit.py` enforces the Chapter Three directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 
-`ch10_trace_audit.py` enforces the Chapter Six trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
+`ch10_trace_audit.py` enforces the Chapter Four trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
 
-`ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
+`ch5_cluster_order_audit.py` guards selected Chapter Three compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
 Machine-checkable editorial rules: [tools/architecture/rule_registry.json](architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](../implementation/AUTOMATED_REFERENCE_CHECKING.md).
 
-`ch1_dac_order_audit.py` guards Chapter One O/M/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
+`ch1_dac_order_audit.py` guards Chapter Two O/M/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
 `readability_audit.py` scores prose only: before counting, it removes fenced code (including Mermaid charts), HTML comments and tags, `<summary>` widget labels, link and image targets (keeping the link text), reference definitions, inline code, and table rule rows, and it does not count headings. Line numbers in findings still match the source file. It also excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-`ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Twenty-Eight target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 9` / `--chapter 11` / `--chapter 13` / `--chapter 14` / `--chapter 15` / `--chapter 16` / `--chapter 17`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
+`ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Three targets **In scope** / assessment / failure bullets; Chapters Four through Twenty-Seven target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 9` / `--chapter 11` / `--chapter 13` / `--chapter 14` / `--chapter 15` / `--chapter 16` / `--chapter 17`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
-`ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Nine pointer discipline against Chapter Four. It flags places where Chapter Nine restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation`](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation) or [`core_04.000_burden_traceability_verification.md`](../core_04.000_burden_traceability_verification.md) Chapter Four §§2–7; use `--strict` to block on findings.
+`ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Eight pointer discipline against Subcore 3-C. It flags places where Chapter Eight restates Subcore 3-C's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Subcores 3-A to 3-C. It also checks that the corpus-placement widget names Subcore 3-C as the owner of verification. Run after edits to [`core_08.000_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation`](../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) or [`subcore_03.030_burden_traceability_verification.md`](../subcore_03.030_burden_traceability_verification.md) Subcore 3-C §§2–7; use `--strict` to block on findings.
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, O/M/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Three cluster inserts, Chapter Four renumbering, corpus splits, O/M/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
-For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06.0*_rights_part_*.md`.
+For **current** article numbers and titles, use `make reference-audit` or read Chapter Four in `core_06.0*_rights_part_*.md`.

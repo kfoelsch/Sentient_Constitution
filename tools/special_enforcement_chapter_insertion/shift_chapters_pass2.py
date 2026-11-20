@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One-off record, second pass: make Chapter Twenty-Three Part B its own Chapter Twenty-Four and shift Chapters 24-30 to 25-31.
+"""One-off record, second pass: make Chapter Twenty-Two Part B its own Chapter Twenty-Three and shift Chapters 24-30 to 25-31.
 
 Adapted from tools/enforcement_chapter_insertion/shift_chapters.py (575th move).
 

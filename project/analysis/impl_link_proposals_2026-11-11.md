@@ -25,55 +25,55 @@
 
 ### 1. CI-6.225
 
-- **Institutional implementation:** Care-work routing, respite, unpaid-care visibility, and care-economy fairness mechanics are governed by [**CI-6.225**](corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md#ci-6225-care-labor-dependent-support-respite-and-care-economy-fairness) (*Care labor, dependent support, respite, and care-economy fairness*).
+- **Institutional implementation:** Care-work routing, respite, unpaid-care visibility, and care-economy fairness mechanics are governed by [**CI-6.225**](corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md#ci-6225-care-labor-dependent-support-respite-and-care-economy-fairness) (*Care labor, dependent support, respite, and care-economy fairness*).
 
 *Confidence and notes:* High. The file names VIII-A first among its owner Articles. III-C is a second, optional home.
 
 ### 2. CI-6.230
 
-- **Institutional implementation:** Advance-planning custody, memorial and disposition records, and posthumous-data stewardship mechanics are governed by [**CI-6.230**](corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md#ci-6230-end-of-life-continuity-memorial-dignity-and-posthumous-data-stewardship) (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
+- **Institutional implementation:** Advance-planning custody, memorial and disposition records, and posthumous-data stewardship mechanics are governed by [**CI-6.230**](corpus_institutions/ci_04.230_end_of_life_continuity_memorial_dignity_posthumous_data.md#ci-6230-end-of-life-continuity-memorial-dignity-and-posthumous-data-stewardship) (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
 
 *Confidence and notes:* Medium. Two Articles use it. Article VII-D is sensitive text, so word the pointer so that it does not suggest the file governs the decision itself.
 
 ### 3. CI-6.235
 
-- **Institutional implementation:** Support bundles, stigma controls, care-first routing, and emergency sunset review for collective public-health measures are governed by [**CI-6.235**](corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md#ci-6235-collective-public-health-epidemic-response-and-addiction-informed-care) (*Collective public health, epidemic response, and addiction-informed care*).
+- **Institutional implementation:** Support bundles, stigma controls, care-first routing, and emergency sunset review for collective public-health measures are governed by [**CI-6.235**](corpus_institutions/ci_04.235_collective_public_health_epidemic_response_addiction_informed_care.md#ci-6235-collective-public-health-epidemic-response-and-addiction-informed-care) (*Collective public health, epidemic response, and addiction-informed care*).
 
 *Confidence and notes:* High for VII-C. The file also cites Chapter Twenty-Four §2.1, which is already covered below.
 
 ### 4. CI-6.245
 
-- **Institutional implementation:** Intake, routing lanes, and asymmetry review for relational coercive control are governed by [**CI-6.245**](corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md#ci-6245-relational-coercive-control-intimate-power-and-anti-domination-routing) (*Relational coercive control, intimate power, and anti-domination routing*).
+- **Institutional implementation:** Intake, routing lanes, and asymmetry review for relational coercive control are governed by [**CI-6.245**](corpus_institutions/ci_04.245_relational_coercive_control_intimate_power_anti_domination.md#ci-6245-relational-coercive-control-intimate-power-and-anti-domination-routing) (*Relational coercive control, intimate power, and anti-domination routing*).
 
 *Confidence and notes:* Medium. The file cites Articles X-A, XI-A, XI-F, VIII-A and VIII-E once each, plus Chapter Five *Coercion and Manipulation*, so no single Article stands out. X-A is the closest in subject (coercion and manipulation); the custodian should pick the primary Article.
 
 ### 5. CI-6.250
 
-- **Institutional implementation:** Civic infrastructure, non-instrumental time, and voluntary-association guardrails are governed by [**CI-6.250**](corpus_institutions/ci_06.250_community_life_voluntary_association_non_instrumental_time.md#ci-6250-community-life-voluntary-association-and-non-instrumental-time) (*Community life, voluntary association, and non-instrumental time*).
+- **Institutional implementation:** Civic infrastructure, non-instrumental time, and voluntary-association guardrails are governed by [**CI-6.250**](corpus_institutions/ci_04.250_community_life_voluntary_association_non_instrumental_time.md#ci-6250-community-life-voluntary-association-and-non-instrumental-time) (*Community life, voluntary association, and non-instrumental time*).
 
 *Confidence and notes:* High. Its own sections split cleanly between the two Articles.
 
 ### 6. CI-6.260
 
-- **Institutional implementation:** Consultation routes, consultation records, and Indigenous-continuity routing for place-based decisions are governed by [**CI-6.260**](corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md#ci-6260-place-based-stewardship-indigenous-continuity-and-consultation-routes) (*Place-based stewardship, Indigenous continuity, and consultation routes*).
+- **Institutional implementation:** Consultation routes, consultation records, and Indigenous-continuity routing for place-based decisions are governed by [**CI-6.260**](corpus_institutions/ci_04.260_place_based_stewardship_indigenous_continuity_consultation.md#ci-6260-place-based-stewardship-indigenous-continuity-and-consultation-routes) (*Place-based stewardship, Indigenous continuity, and consultation routes*).
 
 *Confidence and notes:* High. The file names exactly these two Articles as its owner floors.
 
 ### 7. CI-6.265
 
-- **Institutional implementation:** The public claims registry, access-preserving uses, and dependency-critical reassessment for innovation rewards are governed by [**CI-6.265**](corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md#ci-6265-innovation-reward-disclosure-and-anti-enclosure) (*Innovation reward, disclosure, and anti-enclosure*).
+- **Institutional implementation:** The public claims registry, access-preserving uses, and dependency-critical reassessment for innovation rewards are governed by [**CI-6.265**](corpus_institutions/ci_04.265_innovation_reward_disclosure_anti_enclosure.md#ci-6265-innovation-reward-disclosure-and-anti-enclosure) (*Innovation reward, disclosure, and anti-enclosure*).
 
 *Confidence and notes:* High. The file and the Article share a title.
 
 ### 8. CS-6.355
 
-- **Institutional implementation:** Compromise declaration, dependency-aware containment, replacement, and reconstitution when constitutional systems are subverted are governed by [**CS-6.355**](corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md#cs-6355-subversion-response-replacement-and-reconstitution) (*Subversion response, replacement, and reconstitution*).
+- **Institutional implementation:** Compromise declaration, dependency-aware containment, replacement, and reconstitution when constitutional systems are subverted are governed by [**CS-6.355**](corpus_systems/cs_04.355_subversion_response_replacement_reconstitution.md#cs-6355-subversion-response-replacement-and-reconstitution) (*Subversion response, replacement, and reconstitution*).
 
 *Confidence and notes:* Medium. The file also implements Articles XXVI, XXVIII-A and XXVIII-C, so XXV is the closest fit to "anti-capture", not the only one.
 
 ### 9. CF-23.450
 
-- **Institutional implementation:** Forum continuity, fallback substitution, and emergency adjudication are governed by [**CF-23.450**](corpus_forum/cf_23.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*), [**CF-23.455**](corpus_forum/cf_23.455_fallback_operation.md#cf-23455-fallback-operation) (*Fallback operation*), and [**CF-23.460**](corpus_forum/cf_23.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*).
+- **Institutional implementation:** Forum continuity, fallback substitution, and emergency adjudication are governed by [**CF-23.450**](corpus_forum/cf_22.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*), [**CF-23.455**](corpus_forum/cf_22.455_fallback_operation.md#cf-23455-fallback-operation) (*Fallback operation*), and [**CF-23.460**](corpus_forum/cf_22.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*).
 
 *Confidence and notes:* High. One sentence can cover all three files; they cross-refer to each other already.
 
@@ -91,7 +91,7 @@ Draft: (same sentence as CF-23.450)
 
 ### 12. CJS-31.105
 
-Draft: - Read with: [CJS-31.105](corpus_joint_structure/cjs_31.105_drafting_contracts.md#cjs-31105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-31.110](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
+Draft: - Read with: [CJS-31.105](corpus_joint_structure/cjs_30.105_drafting_contracts.md#cjs-31105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-31.110](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-31110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
 
 *Confidence and notes:* Low priority. The file says average readers can skip it. Linking it is a consistency choice, not a reader need. CJS-31.110 is cited from five core chapters but not from Chapter 20.
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate definition hierarchy index from Chapter Five registry + overrides."""
+"""Generate definition hierarchy index from Chapter Three registry + overrides."""
 
 from __future__ import annotations
 

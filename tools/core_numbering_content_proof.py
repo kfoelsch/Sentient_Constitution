@@ -72,7 +72,7 @@ def normalized(
         re.sub(r"\*\*|__", "", line) if "<CORPUS-ID>" in line else line
         for line in text.splitlines()
     )
-    # CS-9.305's SAC bridge was moved from the legacy §7 grouping to §6.4.
+    # CS-8.305's SAC bridge was moved from the legacy §7 grouping to §6.4.
     text = text.replace("§7 SAC bridge", "§6.4 SAC bridge")
     # The migration's widget placement repair removed redundant standalone
     # <br> spacers and varied blank-line counts without changing paragraph text.

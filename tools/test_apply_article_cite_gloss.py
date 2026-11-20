@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for REF-ARTICLES-GLOSS (one title per Chapter Six article cite)."""
+"""Tests for REF-ARTICLES-GLOSS (one title per Chapter Four article cite)."""
 
 from __future__ import annotations
 
@@ -60,7 +60,7 @@ class GlossLineTests(unittest.TestCase):
             f"**Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and "
             f"**Article V-B** (*{VB}*).",
             f"**Article V-B** (*{VB}*) and, later, **Article V-B** (*{VB}*) again.",
-            "- *Chapter Five* defines the terms.",
+            "- *Chapter Three* defines the terms.",
         ):
             self.assertEqual(gloss_line(line, TITLES), line, line)
 

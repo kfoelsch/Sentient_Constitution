@@ -18,8 +18,8 @@ def core(body: str, *, widget_claim: str = "") -> str:
     return f"# CHAPTER\n\n<details>\n<summary>x</summary>\n\n{inner}\n</details>\n\n<br>\n\n{body}"
 
 
-def impl(body: str, *, headings: str = "## CS-27.305 §1 Purpose\n") -> str:
-    return f"# CS-27.305: Critical system stewardship\n\n{WIDGET}{body}\n\n{headings}"
+def impl(body: str, *, headings: str = "## CS-26.305 §1 Purpose\n") -> str:
+    return f"# CS-26.305: Critical system stewardship\n\n{WIDGET}{body}\n\n{headings}"
 
 
 class CoreTests(unittest.TestCase):
@@ -27,65 +27,65 @@ class CoreTests(unittest.TestCase):
         return ola.check_core(name, text)
 
     def test_standard_line_passes(self):
-        body = "Chapter Seven is the constitutional owner of **System Charters**.\n\n*In plain terms: x*\n\n### 1. A\n"
-        self.assertEqual(self.check("core_07.000_charters.md", core(body)), [])
+        body = "Chapter Five is the constitutional owner of **System Charters**.\n\n*In plain terms: x*\n\n### 1. A\n"
+        self.assertEqual(self.check("core_05.000_charters.md", core(body)), [])
 
     def test_claim_only_in_widget_fails(self):
         body = "*In plain terms: x*\n\n### 1. A\n"
-        text = core(body, widget_claim="Chapter Seven is the constitutional owner of **X**.")
-        self.assertTrue(any("needs a visible" in f for f in self.check("core_07.000_charters.md", text)))
+        text = core(body, widget_claim="Chapter Five is the constitutional owner of **X**.")
+        self.assertTrue(any("needs a visible" in f for f in self.check("core_05.000_charters.md", text)))
 
     def test_claim_after_gloss_fails(self):
         body = "*In plain terms: x*\n\nChapter Seven is the constitutional owner of **X**.\n"
-        self.assertTrue(any("before the first gloss" in f for f in self.check("core_07.000_charters.md", core(body))))
+        self.assertTrue(any("before the first gloss" in f for f in self.check("core_05.000_charters.md", core(body))))
 
     def test_wrong_chapter_fails(self):
-        body = "Chapter Eight is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        self.assertTrue(any("must start 'Chapter Seven'" in f for f in self.check("core_07.000_charters.md", core(body))))
+        body = "Chapter Six is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
+        self.assertTrue(any("must start 'Chapter Five'" in f for f in self.check("core_05.000_charters.md", core(body))))
 
     def test_part_letter_required(self):
-        body = "Chapter One is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        name = "core_01.000_values_principles.md"
+        body = "Chapter Two is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
+        name = "core_02.000_values_principles.md"
         self.assertTrue(any("name 'Part A'" in f for f in self.check(name, core(body))))
-        ok = "Chapter One, **Part A**, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
+        ok = "Chapter Two, **Part A**, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
 
     def test_chapter_six_part_a_may_omit_part(self):
-        body = "Chapter Six is the constitutional owner of **Rights Floors**.\n\n### 1. A\n"
-        self.assertEqual(self.check("core_06.000_rights_part_a.md", core(body)), [])
-        self.assertTrue(self.check("core_06.010_rights_part_b.md", core(body)))
+        body = "Chapter Four is the constitutional owner of **Rights Floors**.\n\n### 1. A\n"
+        self.assertEqual(self.check("core_04.000_rights_part_a.md", core(body)), [])
+        self.assertTrue(self.check("core_04.010_rights_part_b.md", core(body)))
 
     def test_part_heading_before_claim_is_allowed(self):
-        body = "### Part B: Personhood\n\nChapter Six, Part B, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        self.assertEqual(self.check("core_06.010_rights_part_b.md", core(body)), [])
+        body = "### Part B: Personhood\n\nChapter Four, Part B, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
+        self.assertEqual(self.check("core_04.010_rights_part_b.md", core(body)), [])
 
     def test_where_material_and_unbolded_domain_fail(self):
-        a = "Chapter Seven is the constitutional owner of **X** where material.\n\n*In plain terms: x*\n"
-        self.assertTrue(any("where material" in f for f in self.check("core_07.000_charters.md", core(a))))
-        b = "Chapter Seven is the constitutional owner of X.\n\n*In plain terms: x*\n"
-        self.assertTrue(any("in bold" in f for f in self.check("core_07.000_charters.md", core(b))))
+        a = "Chapter Five is the constitutional owner of **X** where material.\n\n*In plain terms: x*\n"
+        self.assertTrue(any("where material" in f for f in self.check("core_05.000_charters.md", core(a))))
+        b = "Chapter Five is the constitutional owner of X.\n\n*In plain terms: x*\n"
+        self.assertTrue(any("in bold" in f for f in self.check("core_05.000_charters.md", core(b))))
 
     def test_bold_in_list_under_the_line_counts(self):
-        body = "Chapter Ten is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
-        name = "core_10.000_system_alignment_certification_forum_process_outcomes.md"
+        body = "Chapter Nine is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
+        name = "core_09.000_system_alignment_certification_forum_process_outcomes.md"
         self.assertEqual(self.check(name, core(body)), [])
 
     def test_stray_bold_marker_after_chapter_name_fails(self):
-        # Leftover from a removed "**Part X**" label: "Chapter Ten**, is the ..."
-        body = "Chapter Ten**, is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
-        name = "core_10.000_system_alignment_certification_forum_process_outcomes.md"
+        # Leftover from a removed "**Part X**" label: "Chapter Nine**, is the ..."
+        body = "Chapter Nine**, is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
+        name = "core_09.000_system_alignment_certification_forum_process_outcomes.md"
         findings = self.check(name, core(body))
         self.assertTrue(any("unbalanced" in f for f in findings), findings)
         self.assertTrue(any("stray comma" in f for f in findings), findings)
 
     def test_stray_comma_without_bold_fails(self):
-        body = "Chapter Seven, is the constitutional owner of **System Charters**.\n\n*In plain terms: x*\n"
-        findings = self.check("core_07.000_charters.md", core(body))
+        body = "Chapter Five, is the constitutional owner of **System Charters**.\n\n*In plain terms: x*\n"
+        findings = self.check("core_05.000_charters.md", core(body))
         self.assertTrue(any("stray comma" in f for f in findings), findings)
 
     def test_part_qualified_line_with_balanced_bold_passes(self):
-        body = "Chapter Six, **Part B**, is the constitutional owner of **Rights B**.\n\n*In plain terms: x*\n"
-        self.assertEqual(self.check("core_06.010_rights_part_b.md", core(body)), [])
+        body = "Chapter Four, **Part B**, is the constitutional owner of **Rights B**.\n\n*In plain terms: x*\n"
+        self.assertEqual(self.check("core_04.010_rights_part_b.md", core(body)), [])
 
     def test_preamble_form(self):
         ok = "The Preamble is the constitutional owner of **the Model**.\n\n*In plain terms: x*\n"
@@ -101,9 +101,9 @@ class CoreTests(unittest.TestCase):
             self.assertTrue(self.check(name, core("*In plain terms: x*\n")))
 
     def test_two_claims_before_the_first_section_fail(self):
-        body = ("Chapter Seven is the constitutional owner of **X**.\n\n"
-                "Chapter Seven is the constitutional owner of **Y**.\n\n### 1. A\n")
-        self.assertTrue(any("once" in f for f in self.check("core_07.000_charters.md", core(body))))
+        body = ("Chapter Five is the constitutional owner of **X**.\n\n"
+                "Chapter Five is the constitutional owner of **Y**.\n\n### 1. A\n")
+        self.assertTrue(any("once" in f for f in self.check("core_05.000_charters.md", core(body))))
 
 
 class ImplTests(unittest.TestCase):
@@ -111,49 +111,49 @@ class ImplTests(unittest.TestCase):
         return ola.check_impl(rel, text)
 
     def test_standard_sentence_passes(self):
-        text = impl("This file is the systems implementation home for **CS-27.305** (*Critical system stewardship*).")
+        text = impl("This file is the systems implementation home for **CS-26.305** (*Critical system stewardship*).")
         findings, keys = self.check("corpus_systems/cs_04_x.md", text)
         self.assertEqual(findings, [])
-        self.assertEqual(keys, [("CS-27.305", None)])
+        self.assertEqual(keys, [("CS-26.305", None)])
 
     def test_missing_sentence_fails(self):
         findings, _ = self.check("corpus_systems/cs_04_x.md", impl("Some prose."))
         self.assertTrue(any("needs a visible" in f for f in findings))
 
     def test_sentence_only_in_widget_fails(self):
-        text = ("# CS-27.305: X\n\n<details>\n<summary>p</summary>\n\n"
-                "This file is the systems implementation home for **CS-27.305**.\n\n</details>\n\n## CS-27.305 §1 A\n")
+        text = ("# CS-26.305: X\n\n<details>\n<summary>p</summary>\n\n"
+                "This file is the systems implementation home for **CS-26.305**.\n\n</details>\n\n## CS-26.305 §1 A\n")
         findings, _ = self.check("corpus_systems/cs_04_x.md", text)
         self.assertTrue(any("needs a visible" in f for f in findings))
 
     def test_after_first_heading_fails(self):
-        text = "# CS-27.305: X\n\n## CS-27.305 §1 A\n\nThis file is the systems implementation home for **CS-27.305**.\n"
+        text = "# CS-26.305: X\n\n## CS-26.305 §1 A\n\nThis file is the systems implementation home for **CS-26.305**.\n"
         findings, _ = self.check("corpus_systems/cs_04_x.md", text)
         self.assertTrue(any("before the first '##'" in f for f in findings))
 
     def test_wrong_layer_and_prefix_fail(self):
-        text = impl("This file is the forum implementation home for **CF-23.410** (*X*).")
+        text = impl("This file is the forum implementation home for **CF-22.410** (*X*).")
         findings, _ = self.check("corpus_systems/cs_04_x.md", text)
         self.assertTrue(any("layer word" in f for f in findings))
         self.assertTrue(any("not a CS ID" in f for f in findings))
 
     def test_claimed_id_must_be_a_heading(self):
-        text = impl("This file is the systems implementation home for **CS-6.345** (*X*).")
+        text = impl("This file is the systems implementation home for **CS-4.345** (*X*).")
         findings, _ = self.check("corpus_systems/cs_04_x.md", text)
         self.assertTrue(any("not a heading in this file" in f for f in findings))
 
     def test_ids_after_the_first_sentence_are_pointers_not_claims(self):
-        text = impl("This file is the systems implementation home for **CS-27.305** (*X*). The rest is in [f.md](f.md), **CS-6.335** (*Y*).")
+        text = impl("This file is the systems implementation home for **CS-26.305** (*X*). The rest is in [f.md](f.md), **CS-4.335** (*Y*).")
         findings, keys = self.check("corpus_systems/cs_04_x.md", text)
         self.assertEqual(findings, [])
-        self.assertEqual(keys, [("CS-27.305", None)])
+        self.assertEqual(keys, [("CS-26.305", None)])
 
     def test_part_letter_is_part_of_the_claim(self):
-        text = ("# CS-6.305: X\n\n" + WIDGET +
-                "This file is the systems implementation home for **CS-6.305** (*X*), **Part A**. It owns **y**.\n\n## CS-6.305 §1 A\n")
+        text = ("# CS-4.305: X\n\n" + WIDGET +
+                "This file is the systems implementation home for **CS-4.305** (*X*), **Part A**. It owns **y**.\n\n## CS-4.305 §1 A\n")
         findings, keys = self.check("corpus_systems/cs_02_a_x.md", text)
         self.assertEqual(findings, [])
-        self.assertEqual(keys, [("CS-6.305", "A")])
+        self.assertEqual(keys, [("CS-4.305", "A")])
 
     def test_exempt_file_keeps_its_role_sentence(self):
         rel = "corpus_joint_structure/cjs_reader_guide.md"
@@ -168,13 +168,13 @@ class CorpusTests(unittest.TestCase):
         (root / "corpus_systems").mkdir()
         for n in ("a", "b"):
             (root / "corpus_systems" / f"cs_04_{n}.md").write_text(
-                impl("This file is the systems implementation home for **CS-27.305** (*X*)."), encoding="utf-8")
+                impl("This file is the systems implementation home for **CS-26.305** (*X*)."), encoding="utf-8")
         found = ola.audit(root)
-        self.assertTrue(any("CS-27.305 is claimed by 2 files" in f for f in found))
+        self.assertTrue(any("CS-26.305 is claimed by 2 files" in f for f in found))
 
     def test_copy_artifacts_are_ignored(self):
         root = Path(tempfile.mkdtemp())
-        (root / "core_07.000_charters 2.md").write_text("junk\n", encoding="utf-8")
+        (root / "core_05.000_charters 2.md").write_text("junk\n", encoding="utf-8")
         self.assertEqual(ola.core_files(root), [])
 
 

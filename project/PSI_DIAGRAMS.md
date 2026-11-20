@@ -8,7 +8,7 @@
 
 ```mermaid
 flowchart TB
-  subgraph V["VALUES<br/>bind every object<br/>(Chapter One)"]
+  subgraph V["VALUES<br/>bind every object<br/>(Chapter Two)"]
     direction LR
     aims["Two aims<br/><br/>Flourishing + Continuity"]
     tetrad["Tetrad<br/><br/>Participation · Oversight<br/>Accountability · Timeliness"]
@@ -30,9 +30,9 @@ flowchart TB
 
   subgraph R["ROUTING AND FLOORS"]
     direction LR
-    sod["Separation of duties (Chapter Eight)<br/><br/>act · check · record · hear challenge"]
+    sod["Separation of duties (Chapter Six)<br/><br/>act · check · record · hear challenge"]
     rule["Process-ownership dispute rule<br/><br/>draft, not adopted"]
-    forum["Forums (Chapter Twenty-One)<br/><br/>independent review and certification"]
+    forum["Forums (Chapter Twenty)<br/><br/>independent review and certification"]
   end
 
   impl["Implementation corpus: CJS · CS · CI · CF<br/><br/>operational detail;<br/>implements, never narrows"]
@@ -72,13 +72,13 @@ flowchart TB
 - **Bands, top to bottom:** values bind everything; the two governance layers (authority questions) act on the three objects (what the problem is about); disputes and the separation-of-duties floor sit at the bottom. The implementation corpus feeds the objects from the side.
 - **Outline colors** follow the shared palette: blue is authority (the Constitutional Contract Layer and separation of duties), teal is participation, orange is forum review, green is the implementation corpus, slate is neutral context (values and the three objects).
 - **Dashed outline** means proposed or draft: the object index and the process-ownership dispute rule. Solid outline is adopted text.
-- **Overlap numbers** come from [the crosswalk](PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md): how many of the 55 object-tagged items in Chapter One and Chapter Eight also touch a second object.
-- **Process is the hub:** it overlaps both other objects, and Chapter Eight's requirement attaches to it.
+- **Overlap numbers** come from [the crosswalk](PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md): how many of the 55 object-tagged items in Chapter Two and Chapter Six also touch a second object.
+- **Process is the hub:** it overlaps both other objects, and Chapter Six's requirement attaches to it.
 
 **Simplifications to check**
 
 - "Act on all three" is a summary, not a verified rule. I did not check which layer reaches which object in practice, and a later chart could split it.
 - The arrow into the bottom band covers both disputes and the Four-Seat Requirement. In the earlier version, Process pointed straight at the separation-of-duties box and the dispute rule. Band-to-band links keep each band a horizontal row, so those two pointers are now in the label.
-- Chapter Eight is drawn as a requirement on binding process acts. Its text also covers institutional seats (placement, vacancy, independence lines), so it touches Institution too.
-- The Forums box stands for the whole of Chapter Twenty-One, not just dispute routing.
+- Chapter Six is drawn as a requirement on binding process acts. Its text also covers institutional seats (placement, vacancy, independence lines), so it touches Institution too.
+- The Forums box stands for the whole of Chapter Twenty, not just dispute routing.
 - Objects are a proposed index, not adopted structure.

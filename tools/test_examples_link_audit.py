@@ -9,11 +9,11 @@ from pathlib import Path
 
 import examples_link_audit as ela
 
-EXAMPLE = "corpus_systems/cs_09.320_illustrations.md"
-CORE = "core_09.000_demo.md"
+EXAMPLE = "corpus_systems/cs_08.320_illustrations.md"
+CORE = "core_08.000_demo.md"
 REGISTRY = {"files": {EXAMPLE: {"illustrates": [CORE]}}}
-TRACE_LINK = f"- Worked examples (they add no rule): [CS-9.320]({EXAMPLE}#x)."
-CLOSING = f"*Worked examples (they add no rule):* [CS-9.320]({EXAMPLE}#x)."
+TRACE_LINK = f"- Worked examples (they add no rule): [CS-8.320]({EXAMPLE}#x)."
+CLOSING = f"*Worked examples (they add no rule):* [CS-8.320]({EXAMPLE}#x)."
 NAV = "**Previous file:** [a.md](a.md)\n\n**Next file:** [b.md](b.md)\n"
 
 
@@ -82,9 +82,9 @@ class AuditTests(unittest.TestCase):
             (root / "corpus_systems").mkdir()
             (root / EXAMPLE).write_text(f"[back](../{CORE})\n", encoding="utf-8")
             (root / CORE).write_text(core(), encoding="utf-8")
-            (root / "core_20.000_other.md").write_text(core(closing=""), encoding="utf-8")
+            (root / "core_19.000_other.md").write_text(core(closing=""), encoding="utf-8")
             findings = ela.audit(root, REGISTRY)
-        self.assertTrue(any(f.startswith("core_20.000_other.md") and "no closing" in f for f in findings))
+        self.assertTrue(any(f.startswith("core_19.000_other.md") and "no closing" in f for f in findings))
 
     def test_dead_anchor_into_example_file_fails(self):
         text = core().replace(f"{EXAMPLE}#x", f"{EXAMPLE}#no-such-heading")

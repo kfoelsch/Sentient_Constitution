@@ -5,7 +5,7 @@ Rule ID: REF-WRAPPER-01 (a companion to REF-FAMILY in doc_architecture.md).
 
 ``corpus_systems.md`` is a compatibility entrypoint and reader landing page. It
 holds no rules. Text that relies on the systems layer must cite the subfile
-that owns the rule (``CS-6.305``, ``CS-9.305``, ``CS-6.335`` ...) and link that
+that owns the rule (``CS-4.305``, ``CS-8.305``, ``CS-4.335`` ...) and link that
 subfile, not the wrapper. This audit finds every place the wrapper is cited as
 a source: a Markdown link whose target is the wrapper, or the file name written
 in prose or in backticks.
@@ -23,7 +23,7 @@ Out of scope (navigation, not citation):
   note), fenced code, ``**Previous file:**`` / ``**Next file:**`` lines, and
   lines that point at a "landing page"; and list items that label a whole
   layer (``- [**CS**](../corpus_systems.md) — ...``);
-* in ``core_00.000_preamble.md`` and ``core_31.000_incorporation.md`` (which
+* in ``core_00.000_preamble.md``, ``core_01.000_constitutional_map.md`` and ``core_30.000_incorporation.md`` (which
   incorporate the layers), a list entry that opens with the wrapper link.
 
 Exit status is 2 when anything is found. ``--summary`` prints counts only.
@@ -58,7 +58,7 @@ DEFAULT_WRAPPERS = ALL_WRAPPERS
 # Files that incorporate the layers: a list entry opening with the wrapper link
 # is an inventory entry, not a citation.
 INVENTORY_FILES = frozenset(
-    {"core_00.000_preamble.md", "core_31.000_incorporation.md"}
+    {"core_00.000_preamble.md", "core_01.000_constitutional_map.md", "core_30.000_incorporation.md"}
 )
 # Navigation documents that exist to point at the layers.
 NAVIGATION_FILE_RE = re.compile(

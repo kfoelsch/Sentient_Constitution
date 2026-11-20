@@ -18,7 +18,7 @@ against the live text; they will be rewritten when the chapter is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - The Public Monetary Office draft §5 would point here by chapter number.
-> - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the protected amount and the levy formula, subject to this chapter.
+> - [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the protected amount and the levy formula, subject to this chapter.
 > - A new corpus-institutions file would hold the prudential standards, the intervention ladder, the resolution toolkit, the levy formula, and register fields.
 
 </details>
@@ -36,14 +36,14 @@ Chapter [B] is the constitutional owner of **the supervision of banks and paymen
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
-  - [Chapter Eight §11 Independent Bodies](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) (8.000 §11);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
+  - [Chapter Eight §11 Independent Bodies](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (8.000 §11);
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** block of [§2](#2-why-the-bank-supervision-office-exists).
 - Downstream: [§2](#2-why-the-bank-supervision-office-exists) through [§14](#14-proportional-scaling-and-adopters-without-their-own-currency); the Public Monetary Office, Public Debt Office, and Public Finance Office chapters; a new corpus-institutions file.
 - Read with:
-  - [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
-  - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+  - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
+  - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
 </details>
 
@@ -59,7 +59,7 @@ Chapter [B] is the constitutional owner of **the supervision of banks and paymen
 - The Public Debt Office chapter records any public money used in a resolution as public debt.
 - The Public Finance Office chapter pays this office's floor and holds its reserve under Chapter Eight §11.
 - The Public Information Office chapter publishes the financial-system figures this office relies on.
-- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the protected amount under §8 and the levy formula under §3.
+- [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the protected amount under §8 and the levy formula under §3.
 - A later corpus-institutions file carries the prudential standards, the intervention ladder, the resolution toolkit, the levy formula, and register fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -97,14 +97,14 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 **Grounded in:**
 
 - Chapter One principles:
-  - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
-  - [§19 Incentive Alignment and System Capture](../../core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
-  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
+  - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
+  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
 - Chapter Six Articles:
-  - [Article V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
-  - [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
-  - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*); and
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+  - [Article V-A](../../core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
+  - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
+  - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*); and
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
 **The problem it answers.** Banks hold what most sentients have saved, and they fail in four familiar ways:
 
@@ -133,7 +133,7 @@ These reasons do not add duties. They explain why the duties in §3 to §14 take
 
 *In plain terms: the banks pay for their supervisor, but they cannot choose it, lean on it, or hire away its people.*
 
-**Independent Body:** The Bank Supervision Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
+**Independent Body:** The Bank Supervision Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Monetary Office, the Public Debt Office, the Public Finance Office, and every firm it licenses or supervises;
 - the protected decision-makers are the members of its supervision board and of its resolution panel, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in banking supervision, financial risk, accounting, or insolvency and resolution;
@@ -271,7 +271,7 @@ The office may act sooner than the ladder requires. It may not act later, and a 
 
 *In plain terms: no one may use the supervisor to favor or punish a bank or its customers, and supervisors may not cash in by going to work for the banks they watched.*
 
-**No steering.** The floors of [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office, its members, and its staff. In addition, the office may not:
+**No steering.** The floors of [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office, its members, and its staff. In addition, the office may not:
 
 - direct a firm to lend to, or refuse, a person, party, cause, or region because of who they support;
 - use a supervisory power to reward or punish a firm for its owners' political activity; or
@@ -292,13 +292,13 @@ The office keeps a public register that shows:
 - the size of the deposit-protection fund, its target, and every use of it; and
 - every resolution, with the losses borne by owners and each class of creditor, and any public money used.
 
-The register follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*). Supervisory information about a firm that has not reached a final decision is kept confidential where publishing it would cause a run, but a qualified independent audit path must still exist, and the register shows that such information exists once the risk has passed.
+The register follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*). Supervisory information about a firm that has not reached a final decision is kept confidential where publishing it would cause a run, but a qualified independent audit path must still exist, and the register shows that such information exists once the risk has passed.
 
 ### 13. Audit and Challenge
 
 *In plain terms: outsiders check the office's work, and a firm, a depositor, or anyone else harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition, the deposit-protection fund is audited separately each reporting year.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the deposit-protection fund is audited separately each reporting year.
 
 **Grounds.** A challenge may claim:
 
@@ -317,6 +317,6 @@ Under *Scope of review* in Chapter Eight §11, a forum does not set a firm's req
 
 *In plain terms: a small community may share a supervisor with others, but depositors keep the same protection.*
 
-**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies. A small adopter may share this office or its deposit-protection fund with other adopters by published agreement, provided each depositor keeps the protected amount and the payout period of this chapter, and the supervision and resolution panels stay separate. Where an adopter licenses few firms, it may use another adopter's office for supervision while keeping its own register.
+**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. A small adopter may share this office or its deposit-protection fund with other adopters by published agreement, provided each depositor keeps the protected amount and the payout period of this chapter, and the supervision and resolution panels stay separate. Where an adopter licenses few firms, it may use another adopter's office for supervision while keeping its own register.
 
 **Adopters that use another currency.** An adopter that uses a currency it does not issue keeps this chapter in full. It agrees with the issuer of that currency, by a published agreement, how emergency lending and system-wide tools will work for its firms.
