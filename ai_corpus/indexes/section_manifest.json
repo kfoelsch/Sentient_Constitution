@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T06:17:20+00:00",
+  "generated_at": "2026-11-20T06:27:06+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2396,21 +2396,30 @@
       ]
     },
     "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md": {
-      "total_lines": 92,
+      "total_lines": 113,
       "sections": [
-        {"header":"CI-6.255: Commons, Cooperatives, Mutual Aid, and Non-Market Community Governance","level":1,"line_start":1,"line_end":92,"anchor":null}
+        {"header":"CI-6.255: Commons, Cooperatives, Mutual Aid, and Non-Market Community Governance","level":1,"line_start":1,"line_end":113,"anchor":null},
+        {"header":"CI-6.255 §1: Purpose, Role, and Scope","level":2,"line_start":53,"line_end":69,"anchor":null},
+        {"header":"CI-6.255 §2: Why Commons and Mutual-Aid Pathways Matter","level":2,"line_start":70,"line_end":82,"anchor":null},
+        {"header":"CI-6.255 §3: Institutional Interfaces and Local Duties","level":2,"line_start":83,"line_end":113,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md": {
-      "total_lines": 88,
+      "total_lines": 109,
       "sections": [
-        {"header":"CI-6.260: Place-Based Stewardship, Indigenous Continuity, and Consultation Routes","level":1,"line_start":1,"line_end":88,"anchor":null}
+        {"header":"CI-6.260: Place-Based Stewardship, Indigenous Continuity, and Consultation Routes","level":1,"line_start":1,"line_end":109,"anchor":null},
+        {"header":"CI-6.260 §1: Purpose, Role, and Scope","level":2,"line_start":46,"line_end":63,"anchor":null},
+        {"header":"CI-6.260 §2: Why Place-Based Consultation Matters","level":2,"line_start":64,"line_end":76,"anchor":null},
+        {"header":"CI-6.260 §3: Institutional Interfaces and Local Duties","level":2,"line_start":77,"line_end":109,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md": {
-      "total_lines": 113,
+      "total_lines": 134,
       "sections": [
-        {"header":"CI-6.265: Innovation Reward, Disclosure, and Anti-Enclosure","level":1,"line_start":1,"line_end":113,"anchor":null}
+        {"header":"CI-6.265: Innovation Reward, Disclosure, and Anti-Enclosure","level":1,"line_start":1,"line_end":134,"anchor":null},
+        {"header":"CI-6.265 §1: Purpose, Role, and Scope","level":2,"line_start":51,"line_end":65,"anchor":null},
+        {"header":"CI-6.265 §2: Why Innovation Reward Needs Boundaries","level":2,"line_start":66,"line_end":78,"anchor":null},
+        {"header":"CI-6.265 §3: Institutional Interfaces and Local Duties","level":2,"line_start":79,"line_end":134,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md": {
