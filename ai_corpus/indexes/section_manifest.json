@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T05:55:43+00:00",
+  "generated_at": "2026-11-20T06:08:07+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2557,34 +2557,41 @@
       ]
     },
     "corpus_forum/cf_00.405_registry_and_reading_rules.md": {
-      "total_lines": 197,
+      "total_lines": 214,
       "sections": [
-        {"header":"CF-0.405: Forums Registry and Identifier Rules","level":1,"line_start":1,"line_end":197,"anchor":null},
-        {"header":"Forums Identifier and Article-Reference Rules","level":2,"line_start":56,"line_end":78,"anchor":null},
-        {"header":"Forums Registry (Stable Section Families)","level":2,"line_start":79,"line_end":119,"anchor":null},
-        {"header":"Forums Domain Routing (Integrator Annex)","level":2,"line_start":120,"line_end":197,"anchor":null},
-        {"header":"Forums Overlap Discipline","level":3,"line_start":148,"line_end":172,"anchor":null},
-        {"header":"Forums Read-with Pointers","level":3,"line_start":173,"line_end":197,"anchor":null}
+        {"header":"CF-0.405: Forums Registry and Identifier Rules","level":1,"line_start":1,"line_end":214,"anchor":null},
+        {"header":"CF-0.405 §1 Purpose, Role, and Scope","level":2,"line_start":52,"line_end":57,"anchor":null},
+        {"header":"CF-0.405 §2 Why the Forum Registry Exists","level":2,"line_start":58,"line_end":72,"anchor":null},
+        {"header":"Forums Identifier and Article-Reference Rules","level":2,"line_start":73,"line_end":95,"anchor":null},
+        {"header":"Forums Registry (Stable Section Families)","level":2,"line_start":96,"line_end":136,"anchor":null},
+        {"header":"Forums Domain Routing (Integrator Annex)","level":2,"line_start":137,"line_end":214,"anchor":null},
+        {"header":"Forums Overlap Discipline","level":3,"line_start":165,"line_end":189,"anchor":null},
+        {"header":"Forums Read-with Pointers","level":3,"line_start":190,"line_end":214,"anchor":null}
       ]
     },
     "corpus_forum/cf_00.410_scope_authority_boundary_rules.md": {
-      "total_lines": 94,
+      "total_lines": 112,
       "sections": [
-        {"header":"CF-0.410: Scope, Authority, and Boundary Rules","level":1,"line_start":1,"line_end":94,"anchor":null}
+        {"header":"CF-0.410: Scope, Authority, and Boundary Rules","level":1,"line_start":1,"line_end":112,"anchor":null},
+        {"header":"CF-0.410 §1 Purpose, Role, and Scope","level":2,"line_start":62,"line_end":67,"anchor":null},
+        {"header":"CF-0.410 §2 Why the Forum-Layer Boundary Exists","level":2,"line_start":68,"line_end":80,"anchor":null},
+        {"header":"CF-0.410 §3 Scope and Authority Boundaries","level":2,"line_start":81,"line_end":112,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.405_forum_formation_chamber_structure.md": {
-      "total_lines": 300,
+      "total_lines": 318,
       "sections": [
-        {"header":"CF-23.405: Forum Formation, Forum-Structure Mapping, and Chamber Structure","level":1,"line_start":1,"line_end":300,"anchor":null},
-        {"header":"CF-23.405 §1 Core Structural Rule","level":2,"line_start":85,"line_end":114,"anchor":null},
-        {"header":"CF-23.405 §2 Family-to-Forum-Structure Translation Map","level":2,"line_start":115,"line_end":139,"anchor":null},
-        {"header":"CF-23.405 §3 Family Distinction and Non-Collapse Rule","level":2,"line_start":140,"line_end":157,"anchor":null},
-        {"header":"CF-23.405 §4 Minimum Structural Availability by Family","level":2,"line_start":158,"line_end":178,"anchor":null},
-        {"header":"CF-23.405 §5 Chamber Creation, Identification, and Family Boundary","level":2,"line_start":179,"line_end":211,"anchor":null},
-        {"header":"CF-23.405 §6 Chamber Authority Composition and Service Mechanics","level":2,"line_start":212,"line_end":240,"anchor":null},
-        {"header":"CF-23.405 §7 Chamber Appeals, Review, and Routing Limits","level":2,"line_start":241,"line_end":266,"anchor":null},
-        {"header":"CF-23.405 §8 Specialist and Technical Chamber Discipline","level":2,"line_start":267,"line_end":300,"anchor":null}
+        {"header":"CF-23.405: Forum Formation, Forum-Structure Mapping, and Chamber Structure","level":1,"line_start":1,"line_end":318,"anchor":null},
+        {"header":"CF-23.405 §1 Purpose, Role, and Scope","level":2,"line_start":71,"line_end":88,"anchor":null},
+        {"header":"CF-23.405 §2 Why Forum Structure Exists","level":2,"line_start":89,"line_end":102,"anchor":null},
+        {"header":"CF-23.405 §3 Core Structural Rule","level":2,"line_start":103,"line_end":132,"anchor":null},
+        {"header":"CF-23.405 §4 Family-to-Forum-Structure Translation Map","level":2,"line_start":133,"line_end":157,"anchor":null},
+        {"header":"CF-23.405 §5 Family Distinction and Non-Collapse Rule","level":2,"line_start":158,"line_end":175,"anchor":null},
+        {"header":"CF-23.405 §6 Minimum Structural Availability by Family","level":2,"line_start":176,"line_end":196,"anchor":null},
+        {"header":"CF-23.405 §7 Chamber Creation, Identification, and Family Boundary","level":2,"line_start":197,"line_end":229,"anchor":null},
+        {"header":"CF-23.405 §8 Chamber Authority Composition and Service Mechanics","level":2,"line_start":230,"line_end":258,"anchor":null},
+        {"header":"CF-23.405 §9 Chamber Appeals, Review, and Routing Limits","level":2,"line_start":259,"line_end":284,"anchor":null},
+        {"header":"CF-23.405 §10 Specialist and Technical Chamber Discipline","level":2,"line_start":285,"line_end":318,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md": {

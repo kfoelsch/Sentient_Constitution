@@ -4,7 +4,7 @@
 
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../../README.md)). This corpus is **pre-release**.
 
-The folder is named `adoption` so operators can find it. Opening a file here is not adoption. A fitness sitting, an own-conduct declaration, an *n*-party operations-guide file, a Chapter Five Institutional Charter draft, and a CF-23.405 §2 map draft are not a Chapter Twenty-Nine adoption document. A public announcement is not that adoption document. [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) sequences migration **after** a recorded adoption document; its phase names are not a metaphor for party-count growth.
+The folder is named `adoption` so operators can find it. Opening a file here is not adoption. A fitness sitting, an own-conduct declaration, an *n*-party operations-guide file, a Chapter Five Institutional Charter draft, and a CF-23.405 §4 map draft are not a Chapter Twenty-Nine adoption document. A public announcement is not that adoption document. [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) sequences migration **after** a recorded adoption document; its phase names are not a metaphor for party-count growth.
 
 **Core vs operational text.** Numbered `core_*` files are in much better shape. This folder, the companion implementation corpus, and steward doors are operational text outside core and are **not yet mature**. Core meaning controls.
 
@@ -26,7 +26,7 @@ The folder is named `adoption` so operators can find it. Opening a file here is 
 | Day-to-day next steps | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) |
 | Phased migration **after** a recorded Chapter Twenty-Nine adoption document | [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) |
 
-Three uncollapsed substeps — fitness screen, own-conduct declaration, Chapter Twenty-Nine adoption document — live in the first-adopter kit. Adding parties does not merge them. First adopters use §10.1–§10.2. The scaling kit’s §10.3 template is labeled, not live joining rules. A Chapter Five Institutional Charter draft is not that adoption document and not a live institution; the institution kit’s fill-in is labeled, not a published Institutional Charter. A CF-23.405 §2 map draft is not that adoption document and not a live forum family; the forum kit’s fill-in is labeled, not a published map. Naming independent review is not founding a forum family.
+Three uncollapsed substeps — fitness screen, own-conduct declaration, Chapter Twenty-Nine adoption document — live in the first-adopter kit. Adding parties does not merge them. First adopters use §10.1–§10.2. The scaling kit’s §10.3 template is labeled, not live joining rules. A Chapter Five Institutional Charter draft is not that adoption document and not a live institution; the institution kit’s fill-in is labeled, not a published Institutional Charter. A CF-23.405 §4 map draft is not that adoption document and not a live forum family; the forum kit’s fill-in is labeled, not a published map. Naming independent review is not founding a forum family.
 
 ## What stays outside this folder
 
