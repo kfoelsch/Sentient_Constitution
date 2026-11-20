@@ -146,7 +146,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 **Independent Body:** The Public Monetary Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, and every bank or payment provider it deals with;
-- the protected decision-makers are the members of its decision board, who serve long, staggered, non-renewable terms; and
+- the protected decision-makers are the members of its decision board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in monetary economics, public debt, or payment systems. They serve long, staggered, non-renewable terms; and
 - its own costs are paid from its operating income under a published budget, as a self-funded body under *Protected funding* in Chapter Eight §11, building its own reserve from that income, and any surplus goes to the governing authority's general revenue by a published rule, never at the office's choice.
 
 **Seat map:** Every materially binding act of the office, such as setting a policy rate, issuing debt, or lending in an emergency, places the four seats under Chapter Eight. The independent check seat is an auditor outside the office.
@@ -231,11 +231,11 @@ The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvi
 
 ### 9. Audit and Challenge
 
-*In plain terms: outsiders check the books, and anyone harmed can challenge a decision.*
+*In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**Audit.** An independent financial audit covers the office each cycle, and the Public Information Office publishes an independent check of the ledger.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
-**Challenge.** Any sentient affected by an act of the office may challenge it before an Integrity forum. The challenge may claim:
+**Grounds.** A challenge may claim:
 
 - issuing currency or debt outside this chapter;
 - direct financing contrary to §6;
@@ -243,7 +243,7 @@ The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvi
 - debt above the §7 limit or hidden from the §8 ledger; or
 - a missed target with no explanation under §4.
 
-A forum does not set the target or the policy rate; it decides whether the office followed this chapter.
+Under *Scope of review* in Chapter Eight §11, a forum does not set the target or the policy rate; it decides whether the office followed this chapter.
 
 ### 10. Emergencies
 

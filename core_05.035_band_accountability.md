@@ -865,7 +865,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - **Out of scope:**
     - disputes about the merits of a matter, which run on the materiality tier of the matter;
     - a breakdown for which a more specific rule sets its own window; or
-    - the figures themselves, which [CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    - the figures themselves, which [CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Timely Resolution](core_05.035_band_accountability.md#timely-resolution); [Materiality Tier](core_05.040_band_continuity.md#materiality-tier).
   - The rule is stated in [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_24.000_forum_families_escalation_timeliness_support.md#class-repair-window); this entry is the Chapter Five meaning only.
@@ -1140,7 +1140,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter Nineteen §3.6 Interim Holds and Locks](core_19.000_violation_consequences.md#36-interim-holds-and-locks) (19.000 §3.6);
   - [**Article XX-B** (*Contestability and Proportional Restriction Limits*)](core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits);
   - [**Article XIII-A** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards);
-  - **CF-23.410 §15** (*Interim Hold on a Panel Member or Seat Holder*);
+  - **CF-23.410 §17** (*Interim Hold on a Panel Member or Seat Holder*);
   - **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
 - Read with:
   - [Stay](core_05.035_band_accountability.md#stay),
@@ -2212,7 +2212,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody) (7.000 §5);
   - [Chapter Eight §3 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
-  - **CF-23.415 §7** (*Backup Record Authority*).
+  - **CF-23.415 §9** (*Backup Record Authority*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Standing Record](core_05.035_band_accountability.md#standing-record),
@@ -2232,7 +2232,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 *In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that official record. It does not keep the official record, which is the Record Custodian's job, and it does not hear a challenge to the official record, which is the Contest Seat's job. It cannot be the official record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
+  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-23.415 §9** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
   - **Out of scope:** The Record Custodian that enters and holds the official record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the official record.
 <a id="record-opening-authority-a"></a>
 - **How to measure and assess**
@@ -2306,7 +2306,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (15.000 §6);
   - [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#5-the-charter-role-map-and-standing-record-custody) (7.000 §5);
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
-  - **CF-23.415 §9** (*Backup Record Custodian*).
+  - **CF-23.415 §11** (*Backup Record Custodian*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Record Seat](core_05.035_band_accountability.md#record-seat),
@@ -2325,7 +2325,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 *In plain terms: the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the official record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-23.415 §9** (*Backup Record Custodian*)).
+  - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-23.415 §11** (*Backup Record Custodian*)).
   - **Out of scope:** The [Record-Opening Authority](core_05.035_band_accountability.md#record-opening-authority) that verifies and authorizes. The Contest Seat. A registrar that files and receipts. Incidental storage or a copy held without authority over the official record.
 <a id="record-custodian-a"></a>
 - **How to measure and assess**
@@ -2377,7 +2377,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - **Out of scope:** A general help desk, intake channel, or complaint log that cannot review, preserve, mark, correct, limit, or route the challenged act. The seat does not gain authority over issues assigned to another forum or decision-maker.
 <a id="contest-seat-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
 
     **Primary assessment:** Identify the published challenge path, holder, authority, clock, available corrective or limiting action, and required routing. Test whether the holder is independent of the challenged verification and outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of any materially interested party.
   - **Secondary measure:** [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures for access, fairness, evidence integrity, and reconstructability.
@@ -3677,7 +3677,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
+- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-72-constitutional-library-and-constitutional-archive).
 - Read with:
   - [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive),
   - [Essential Record](core_05.035_band_accountability.md#essential-record),
@@ -3691,7 +3691,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Library is the public shelf for forum decisions. Everything a forum may lawfully show is kept here, and anything held back leaves a marker here, so no one can hide that a decision exists.*
 
 - **What it is**
-  - **In scope:** The published collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries, decisions, reasoned records, and shared standards that carry the public-facing access class under **CF-23.465 §3** (*Access Classes*). It also holds a status marker for every item kept in the [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive). A custodian independent of the forum family that made the entries keeps it, and it holds the physical backup of the public non-routine entries.
+  - **In scope:** The published collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries, decisions, reasoned records, and shared standards that carry the public-facing access class under **CF-23.465 §5** (*Access Classes*). It also holds a status marker for every item kept in the [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive). A custodian independent of the forum family that made the entries keeps it, and it holds the physical backup of the public non-routine entries.
   - **Out of scope:** [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive); material a lawful restriction holds back; [Standing Record](core_05.035_band_accountability.md#standing-record) custody under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority); and the forum's own working systems.
 <a id="constitutional-library-a"></a>
 - **How to measure and assess**
@@ -3712,7 +3712,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
+- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-72-constitutional-library-and-constitutional-archive).
 - Read with:
   - [Constitutional Library](core_05.035_band_accountability.md#constitutional-library),
   - [Essential Record](core_05.035_band_accountability.md#essential-record),
@@ -3726,7 +3726,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Archive is the sealed shelf. Restricted material is kept whole and safe, not lost or destroyed, and can be opened later by lawful order or for audit. Sealing never means disappearing.*
 
 - **What it is**
-  - **In scope:** The sealed collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-23.465 §3** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-23.415 §8** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-23.465 §3** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library).
+  - **In scope:** The sealed collection of [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-23.465 §5** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-23.415 §10** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-23.465 §5** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library).
   - **Out of scope:** [Constitutional Library](core_05.035_band_accountability.md#constitutional-library); any hiding of the fact that an item exists; the restricted-information decisions made by the Restricted Information Authority; and [Standing Record](core_05.035_band_accountability.md#standing-record) custody under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
 <a id="constitutional-archive-a"></a>
 - **How to measure and assess**
@@ -3747,7 +3747,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §5.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-51-retention-classes-and-physical-backup).
+- Owner: [Chapter Twenty-Three §4.7 Keeping Forum Case Records](core_23.000_forum.md#47-keeping-forum-case-records) (23.000 §4.7); read with [CF-23.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-71-retention-classes-and-physical-backup).
 - Read with:
   - [Constitutional Library](core_05.035_band_accountability.md#constitutional-library),
   - [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive),
@@ -3761,7 +3761,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: an Essential Record is a non-routine entry the constitutional order could not be rebuilt without. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it.*
 
 - **What it is**
-  - **In scope:** A non-routine [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library) or [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-23.465 §5.1** (*Retention Classes and Physical Backup*) lists. A [Standing Record](core_05.035_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
+  - **In scope:** A non-routine [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](core_05.035_band_accountability.md#constitutional-library) or [Constitutional Archive](core_05.035_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-23.465 §7.1** (*Retention Classes and Physical Backup*) lists. A [Standing Record](core_05.035_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
   - **Out of scope:** routine entries; ordinary non-routine entries, which keep one physical backup; and the working custody of a [Standing Record](core_05.035_band_accountability.md#standing-record), which stays with its record custodian under [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority).
 <a id="essential-record-a"></a>
 - **How to measure and assess**

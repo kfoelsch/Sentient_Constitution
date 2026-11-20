@@ -107,7 +107,7 @@ The chapter leaves:
 - Downstream: [§4](#4-what-system-and-institutional-charters-must-state); [Chapter Nine §3 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (9.000 §3) (*class and certification depth*); [Chapter Twelve §3.1 Institution Class](core_12.000_institutional_alignment_certification_evaluation.md#31-institution-class) (12.000 §3.1) (*the class of an Institution*); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System Impact Classifications*) for the class catalog.
 - Read with:
   - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
-  - **CF-23.415 §5** (*Institutional and Local Registrars*);
+  - **CF-23.415 §7** (*Institutional and Local Registrars*);
   - **CI-9.210** (*Classification-linked institutional obligations*);
   - [Chapter Five System Charter](core_05.040_band_continuity.md#system-charter) (5.040);
   - [Chapter Five Institutional Charter](core_05.040_band_continuity.md#institutional-charter) (5.040);
@@ -205,7 +205,7 @@ A covered System or Institution publishes its [System Charter](core_05.040_band_
 - **One that already operates:** at its next classification review or certification, or within the resolution window after a request under [§2.6 If a System Charter or Institutional Charter Is Missing](#26-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
   - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Twelve §2.2 No Permission and No Gate on Forming or Running](core_12.000_institutional_alignment_certification_evaluation.md#22-no-permission-and-no-gate-on-forming-or-running). Its first-certification window, under [Chapter Twelve §2.3 Window for the First Certification](core_12.000_institutional_alignment_certification_evaluation.md#23-window-for-the-first-certification), is never a requirement for publishing the Institutional Charter or for operating.
 - **The formation check:** It also completes the formation check in [§6 Formation Check: Office-Holder Standing and Authenticity](#6-formation-check-office-holder-standing-and-authenticity) at the same moment.
-- **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-23.415 §5** (*Institutional and Local Registrars*)):
+- **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-23.415 §7** (*Institutional and Local Registrars*)):
   - **What the registrar does:** It checks that nothing required is missing and gives a dated receipt.
   - **What the registrar never does:** It never grants permission and never rules on class or content.
   - **A late or missing receipt:** It never stops the Chartered Party from operating.
@@ -224,12 +224,12 @@ Two windows run from the request: the response window and the resolution window.
 | Class C, Tier C | 4 calendar days | 30 calendar days |
 | Class L, Tier L | 8 calendar days | 60 calendar days |
 
-The figures come from **CF-23.445 §3.1** (*Stage targets and outer bounds*), which governs if they differ. A Chartered Party that disputes its class is counted at the Tier of the more critical of the class it holds on its System Classification Record and any class that the asker or the forum shows on a prima facie basis, until the question is settled. A Chartered Party that holds no class on record, or holds Class P while its class is in question, is counted at Tier C.
+The figures come from **CF-23.445 §5.1** (*Stage targets and outer bounds*), which governs if they differ. A Chartered Party that disputes its class is counted at the Tier of the more critical of the class it holds on its System Classification Record and any class that the asker or the forum shows on a prima facie basis, until the question is settled. A Chartered Party that holds no class on record, or holds Class P while its class is in question, is counted at Tier C.
 
 The windows work like this:
 
-- **Response window:** The Chartered Party responds inside the response window, which is the intake target of the matching tier in **CF-23.445 §3.1** (*Stage targets and outer bounds*), counted from the request. It publishes the System Charter or Institutional Charter, or gives the date by which it will, or points to the one it has already published, or answers that it is below every line of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and gives the written showing that entry requires.
-- **Resolution window:** The System Charter or Institutional Charter is due inside the resolution window, which is the outer bound of the matching tier in **CF-23.445 §3.1** (*Stage targets and outer bounds*), counted from the request, with the formation check statement that goes with it ([§6 Formation Check: Office-Holder Standing and Authenticity](#6-formation-check-office-holder-standing-and-authenticity)). A Chartered Party with no independent seat yet files the statement as a declaration with its evidence, as that section provides.
+- **Response window:** The Chartered Party responds inside the response window, which is the intake target of the matching tier in **CF-23.445 §5.1** (*Stage targets and outer bounds*), counted from the request. It publishes the System Charter or Institutional Charter, or gives the date by which it will, or points to the one it has already published, or answers that it is below every line of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and gives the written showing that entry requires.
+- **Resolution window:** The System Charter or Institutional Charter is due inside the resolution window, which is the outer bound of the matching tier in **CF-23.445 §5.1** (*Stage targets and outer bounds*), counted from the request, with the formation check statement that goes with it ([§6 Formation Check: Office-Holder Standing and Authenticity](#6-formation-check-office-holder-standing-and-authenticity)). A Chartered Party with no independent seat yet files the statement as a declaration with its evidence, as that section provides.
 - **An Operating Party that says it is below the line:** The request is then also a classification challenge on the route in that entry's *Challenge route*:
   - **Running the window:** The resolution window keeps running while the challenge is pending.
   - **Challenge extension:** If the forum with jurisdiction judges the challenge review-worthy, the due date is extended, and a new resolution window starts when the challenge is decided. The forum decides the challenge inside the outer bound of the matching tier.
@@ -616,8 +616,8 @@ Operator Standing Records are records about the Chartered Party, its chartered s
 
 Where the System Charter or Institutional Charter names no route (a gap under [§5.7 Gaps in the Map for Operator Standing Records](#57-gaps-in-the-map-for-operator-standing-records)), these defaults apply:
 
-- **Record-opening authority:** The Backup Record Authority under **CF-23.415 §7** (*Backup Record Authority*) is the default.
-- **Custodian:** The Backup Record Custodian under **CF-23.415 §9** (*Backup Record Custodian*) is the default. It also holds the Standing Record where the named custodian cannot act.
+- **Record-opening authority:** The Backup Record Authority under **CF-23.415 §9** (*Backup Record Authority*) is the default.
+- **Custodian:** The Backup Record Custodian under **CF-23.415 §11** (*Backup Record Custodian*) is the default. It also holds the Standing Record where the named custodian cannot act.
 - **Who may be named, and the tests:** Who may be named to these seats, and the tests each holder must pass, are in **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
 
 <a id="562-stakeholder-standing-records"></a>
@@ -627,7 +627,7 @@ Stakeholder Standing Records are records about the sentients and institutions th
 
 - **The Chartered Party's stake:** It may be the one making a claim or an accusation in these Standing Records.
 - **Its own offices:** They may hold a seat on a Standing Record only if the Chartered Party has no stake in that Standing Record. If it has a stake, the Standing Record goes to an office outside the Chartered Party's control, or to independent verification.
-- **If none is named and the Chartered Party has a stake:** The Standing Record goes to the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)) and the Backup Record Custodian (**CF-23.415 §9** (*Backup Record Custodian*)), or to a forum, as [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (*No Self-Custody*) provides.
+- **If none is named and the Chartered Party has a stake:** The Standing Record goes to the Backup Record Authority (**CF-23.415 §9** (*Backup Record Authority*)) and the Backup Record Custodian (**CF-23.415 §11** (*Backup Record Custodian*)), or to a forum, as [Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority) (*No Self-Custody*) provides.
 - **Naming offices is optional:** The map may name offices for these Standing Records ahead of time, but it doesn't have to, and a map that names none is still valid.
 
 <a id="57-gaps-in-the-map-for-operator-standing-records"></a>
@@ -649,7 +649,7 @@ A map with gaps makes the System Charter or Institutional Charter invalid. The m
 
 Until the gap is resolved, no one may perform the function of the unfilled seat except by the route below. A Standing Record made any other way for the affected scope is not valid.
 
-- **Where the Standing Record goes:** The Standing Record goes to the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-23.415 §9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority), *No self-custody*).
+- **Where the Standing Record goes:** The Standing Record goes to the Backup Record Authority (**CF-23.415 §9** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-23.415 §11** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Fifteen §6 Record Custody and Opening Authority](core_15.000_standing_assessment.md#6-record-custody-and-opening-authority), *No self-custody*).
 - **When custody goes back:** The Backup Record Authority and Backup Record Custodian keep handling the Standing Record until all three of these have happened. Then custody goes back to the named holders.
   - **All seats are filled:** Every seat the map requires has a named holder again.
   - **The holders pass the tests:** The Backup Record Authority or a forum confirms that each holder passes the tests in **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
@@ -661,7 +661,7 @@ Until the gap is resolved, no one may perform the function of the unfilled seat 
 If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§2.6 If a System Charter or Institutional Charter Is Missing](#26-if-a-system-charter-or-institutional-charter-is-missing)).
 
 - **Emergency substitution:** It is allowed only for a seat that is actually empty, and it is temporary.
-- **How a substitute takes the seat:** The Chartered Party may name a substitute, but the substitute takes the seat only after the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)) or a forum confirms that it passes the tests in **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10 and the independence tests in [§5.2 What Makes a Seat Placement Valid](#52-what-makes-a-seat-placement-valid), and the Chartered Party carries the burden of showing that.
+- **How a substitute takes the seat:** The Chartered Party may name a substitute, but the substitute takes the seat only after the Backup Record Authority (**CF-23.415 §9** (*Backup Record Authority*)) or a forum confirms that it passes the tests in **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10 and the independence tests in [§5.2 What Makes a Seat Placement Valid](#52-what-makes-a-seat-placement-valid), and the Chartered Party carries the burden of showing that.
 - **When the substitution lapses:** An emergency substitute is a stopgap. It ends when its check window ends, unless it has by then become a regular holder change under [§5.5 Changing Seat Rules and Seat Holders](#55-changing-seat-rules-and-seat-holders).
   - **Who sets the window:** The System Charter or Institutional Charter sets the length of that window, but it can't be longer than the maximum for your Tier.
   - **The maximums:** 7 days for Tier A, 14 for Tier B, 30 for Tier C, and 60 for Tier L (the resolution windows in the [§2.6 If a System Charter or Institutional Charter Is Missing](#26-if-a-system-charter-or-institutional-charter-is-missing) table).
@@ -831,7 +831,7 @@ A holder may be identified by office and dated Role Map version where naming wou
 
 - **Verification:**
   - The standing facts are verified by the record-opening authority and the record custodian the Charter Role Map names ([§5 The Charter Role Map and Standing-Record Custody](#5-the-charter-role-map-and-standing-record-custody)).
-  - The governing authority does not verify the authenticity of its own members, and a holder does not verify its own check: where the covered office is itself a seat in the map, the formation check is made by the Backup Record Authority (**CF-23.415 §7** (*Backup Record Authority*)) or a forum.
+  - The governing authority does not verify the authenticity of its own members, and a holder does not verify its own check: where the covered office is itself a seat in the map, the formation check is made by the Backup Record Authority (**CF-23.415 §9** (*Backup Record Authority*)) or a forum.
   - Where a Chartered Party is small and no independent seat is yet in place, the statement is a declaration with its evidence, and it is verified at the Chartered Party's first certification.
   - Being unverified for that interval is never a bar to forming or operating.
 - **False statement:**

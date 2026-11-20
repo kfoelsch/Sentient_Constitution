@@ -101,6 +101,7 @@ Recognized mechanism families include:
   - patronage;
   - factional gatekeeping; or
   - pre-selection bribery.
+- **Required use for Independent Bodies:** The decision-makers of every Independent Body are drawn by lot from the candidates who pass its competency gate, under *Appointment by sortition* in [Chapter Eight §11 Independent Bodies](core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies).
 - **Integrity requirement:** A sortition mechanism that exercises or materially shapes **governing authority** must publish:
   - auditable selection rules;
   - eligibility boundaries;

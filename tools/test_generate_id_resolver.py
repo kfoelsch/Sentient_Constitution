@@ -50,7 +50,7 @@ class IdResolverTests(unittest.TestCase):
 
     def test_subsection_does_not_inherit_file_gloss(self) -> None:
         family = self.payload["ids"]["CF-23.440"]
-        subsection = self.payload["ids"]["CF-23.440 §1"]
+        subsection = self.payload["ids"]["CF-23.440 §3"]
         self.assertIn("gloss", family)
         if "gloss" in subsection:
             self.assertNotEqual(subsection["gloss"], family["gloss"])

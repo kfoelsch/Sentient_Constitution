@@ -1046,7 +1046,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 
 **Trigger:** the lock is set by a final order of either of these kinds:
 
-- a final dissolution order under **CI-19.210 §4** (*Dissolution*), including the wind-down order of a forum whose dissolution or disbandment threshold under **CF-23.445 §4** (*Performance Thresholds and Alerts*) is crossed; or
+- a final dissolution order under **CI-19.210 §4** (*Dissolution*), including the wind-down order of a forum whose dissolution or disbandment threshold under **CF-23.445 §6** (*Performance Thresholds and Alerts*) is crossed; or
 - a retirement order for a System under **CI-25.205 §5** (*Systems under Consequence Orders*).
 
 **Who the lock is about:**

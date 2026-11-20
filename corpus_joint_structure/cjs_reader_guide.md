@@ -65,7 +65,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 | **CJS** (this layer) | **CJS-0.110**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-31.110 §3** | Joint-structure files and sections |
 | **CS** | **CS-0.310** through **CS-6.340** | Systems families |
 | **CI** | **CI-0.210**, **CI-8.215 §2**, **CI-9.210** | Institutions sections |
-| **CF** | **CF-0.410**, **CF-23.410**, **CF-23.425 §2** | Forum sections |
+| **CF** | **CF-0.410**, **CF-23.410**, **CF-23.425 §4** | Forum sections |
 | **oDef** (operational definitions) | **oDef.13**, **oDef.16**, **oDef.3** | Shared how-to clusters in the **CJS-5.105** (*operational cluster library*) through **CJS-5.135** (*Integrative cross-leg operations*) files; for example, **oDef.13** is **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*) |
 
 | If you are trying to… | Open |

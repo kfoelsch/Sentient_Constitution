@@ -233,7 +233,7 @@ This Article sets out the anti-delay floor for constitutional problem resolution
   - overrun review; and
   - anti-delay discipline.
   
-  Numeric tier-default windows and stage tables: [CF-23.445 §3.1 Stage Targets and Outer Bounds](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds). Domain walkthroughs: [Chapters Fifteen–Twenty-Three application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes).
+  Numeric tier-default windows and stage tables: [CF-23.445 §5.1 Stage Targets and Outer Bounds](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds). Domain walkthroughs: [Chapters Fifteen–Twenty-Three application vignettes](corpus_joint_structure/cjs_15.105_application_vignettes.md#cjs-15105-application-vignettes).
 - **Restore-challenge after emergency:** The same tier outer bounds are the default windows for restoring notice and challenge after emergency containment under [**Chapter Twenty-Four §4.1 Emergency measures and continuation burden**](core_24.000_forum_families_escalation_timeliness_support.md#41-emergency-measures-and-continuation-burden). Continuation past those windows requires that section’s documented necessity showing. This Article does not create a slower emergency clock.
 
 ### Article XXVIII: Constitutional Evolution and Non-Entrenchment

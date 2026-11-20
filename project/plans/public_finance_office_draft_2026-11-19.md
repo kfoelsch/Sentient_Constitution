@@ -20,9 +20,9 @@ against the live text; they will be rewritten when the chapter is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-6.335. That pointer would name this chapter instead.
-> - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
+> - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
 > - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) "funding source" would accept the office as the named source.
-> - [CF-23.415 §6](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-6-integrity-registrar) (Integrity registrar) would receive this office's audits.
+> - [CF-23.415 §8](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-integrity-registrar) (Integrity registrar) would receive this office's audits.
 > - [Chapter Twenty §4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) keeps forums answerable for their own adequacy; this chapter supplies the money path, not a new answerable party.
 > - A new corpus-institutions file would hold the formula, reserve sizes, and ledger fields.
 >
@@ -65,7 +65,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
   - [CS-6.335](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*);
   - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-6.215** (*Resource stewardship and incentive integrity*);
   - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
-  - **CF-23.415 §6** (*Integrity Registrar*) and **CF-23.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+  - **CF-23.415 §8** (*Integrity Registrar*) and **CF-23.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
 
@@ -163,7 +163,8 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 
 **Independent Body:** The Public Finance Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
-- it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the appointment and budget-setting powers this chapter names, and of the Public Information Office; and
+- it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the budget-setting powers this chapter names and the duty to run the appointment draw, and of the Public Information Office;
+- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill; and
 - its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it.
 
 **Seat map:** Every materially binding funding act places the four seats as follows:
@@ -172,7 +173,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 |------|--------------------------------|
 | Ask or act | the Public Finance Office |
 | Check | an independent financial auditor outside the office's Material Control Line |
-| Keep the official record | the Integrity registrar under **CF-23.415 §6** |
+| Keep the official record | the Integrity registrar under **CF-23.415 §8** |
 | Hear the challenge | an Integrity forum, with backup routing under §10 |
 
 **No dual roles (added for this office):** In addition to Chapter Eight §11, no sentient, office, or AI system may at the same time hold a funding seat in this office and:
@@ -230,7 +231,7 @@ These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.m
 
 *In plain terms: when a forum needs research to decide well, the office pays for it out of a set-aside fund, by rule. The office does not get a vote on whether the research is a good idea.*
 
-**Research reserve.** Each cycle, the office holds a **research reserve** sized by the published formula. The reserve funds research, replication, testing, field study, standards development, and evidence synthesis requested by a forum under [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) or a comparable published finding by another forum family.
+**Research reserve.** Each cycle, the office holds a **research reserve** sized by the published formula. The reserve funds research, replication, testing, field study, standards development, and evidence synthesis requested by a forum under [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) or a comparable published finding by another forum family.
 
 **Funding by rule.** When a forum issues a published scope order, the office must fund it unless:
 
@@ -287,11 +288,11 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 
 ### 10. Audit and Challenge
 
-*In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it.*
+*In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it. The general rule for every independent body lives in Chapter Eight; this section adds what is special to the office that holds the purse.*
 
-**Audit.** An independent financial audit, and a resource audit where shared resources are involved, covers the office on the review cadence in [Chapter Twenty-Four §4](../../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline). Results go to the Integrity registrar under **CF-23.415 §6** and are published on the ledger.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). Its financial audit runs on the review cadence in [Chapter Twenty-Four §4](../../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline), and its results are also published on the ledger.
 
-**Challenge.** A funded body, a party, a researcher, or any sentient affected by a funding act may challenge it before an Integrity forum. The challenge may claim:
+**Grounds.** A funded body, a party, a researcher, or any sentient affected by a funding act may challenge it before an Integrity forum. The challenge may claim:
 
 - a floor set below the formula, or a formula that does not meet §4;
 - steering under §5;
@@ -299,9 +300,7 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 - a breach of the §7 firewall; or
 - a draw, transfer, or failure to replenish contrary to §11.
 
-**Self-judging.** Where the Integrity forum that would hear the challenge is itself funded under the act being challenged, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](../../core_24.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums).
-
-**Interim relief.** While a challenge is pending, the forum may order the disputed floor restored where a reduction foreseeably lets ongoing harm continue or makes redress useless.
+**Self-judging and interim relief.** Every forum is funded by this office, so the *No self-judging* rule in Chapter Eight routes a challenge away from any forum funded under the act at issue. Interim relief under that section includes an order restoring a disputed floor.
 
 ### 11. Reserve Fund
 
@@ -360,7 +359,4 @@ A shortfall does not excuse a forum's tier milestones. It is a fact the forum ma
 
 *In plain terms: a small community does not need a ministry. It still needs the money to be counted by someone other than the person spending it.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §3**. For this office, it means that even when hosting is merged:
-
-- no funding decision-maker may sit on a funded bench; and
-- the Public Finance Office, the Public Information Office, and the Public Monetary Office keep separate decision-makers.
+The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §5**. For this office, it also means that even when hosting is merged, the Public Finance Office, the Public Information Office, and the Public Monetary Office keep separate decision-makers.

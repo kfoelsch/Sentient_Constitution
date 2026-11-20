@@ -89,7 +89,7 @@ Chapter Twenty-Three is the constitutional owner of **forum supervision and stan
   - [Preamble §3.2](core_00.000_preamble.md#32-key-governance-processes) and
   - [§3.3](core_00.000_preamble.md#33-governance-layers) (*process paths and governance-layer discipline*);
   - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process);
-  - **CF-23.420 §2.2** (*Emergency, Exhaustion, and Timing Rules*);
+  - **CF-23.420 §4.2** (*Emergency, Exhaustion, and Timing Rules*);
   - [CI-23.205](corpus_institutions/ci_23.205_procedure_integrity_contestability_secondary_review.md#ci-23205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) and [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) for contest, secondary review, and integrity monitoring, which does not replace assigned forum jurisdiction;
   - [Article XIV-A: Reliability and Trustworthiness Baseline](core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and
   - [Article XIV-B: Right to Redress and Remedy](core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
@@ -145,7 +145,7 @@ The chapter leaves the certification rules to the certification chapters, the st
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - **[CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*);
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*);
   - [Article XXI-A](core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
 
 </details>
@@ -269,7 +269,7 @@ Two limits keep that work in its place:
   - [Chapter Sixteen §7 unified scale](core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (16.000 §7) (*shared five-times LEQU bands and separate axis records*);
   - [Chapter Sixteen §§4.1–4.2](core_16.000_standing_measurement.md#41-contribution-route-descriptor-catalog-and-measurement-roles) (16.000 §4.1) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
   - **[CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
-  - **CF-23.425 §2** (*Constitutional Alignment Certification and Review*);
+  - **CF-23.425 §4** (*Constitutional Alignment Certification and Review*);
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System Impact Classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Twenty-One §5](core_21.000_misconduct_designation.md#5-violation-axis-slot-79-anti-constitutional-designation) (21.000 §5) (*anti-constitutional-misconduct designation for qualifying Chapter Sixteen slots 7–9*);
   - [Chapter Twenty-One §6](core_21.000_misconduct_designation.md#6-due-process-safeguards-remedy-and-prevention) (21.000 §6) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XXI** (*Justice After Verified Violation*)*);
@@ -377,7 +377,7 @@ Two rules keep routing honest:
 
 Operational requirements — including **published intake classes**, attributable intake records, independence and **contest** expectations, and review of **contested** routing inside the **intake target** — are stated in **CF-23.415** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*).
 
-**Initial access** to each forum family must come inside the **intake target** of the matching tier ([CF-23.445 §3.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) and be contestable enough that:
+**Initial access** to each forum family must come inside the **intake target** of the matching tier ([CF-23.445 §5.1](corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) and be contestable enough that:
 - primary-stakes routing under this section remains meaningful;
 - transfer, consolidation, certification, and backup discipline under **section 5** and **Chapter Twenty-Four section 3** are not nullified by delay or by opaque threshold sorting.
 
@@ -515,7 +515,7 @@ A case reaches a forum in one of four ways. The intake triage body records the i
 These rules apply to every intake:
 
 - A claim is routed by what it contests in substance, not by how it is filed. A claim that in substance contests a Certification Record, a Standing Record, or an Adoption Transition Record is a review case.
-- A transfer, consolidation, or referral between forums continues the same case. The case keeps its intake kind and its [Forum Case Record](core_05.035_band_accountability.md#forum-case-record), and only the lead changes (**section 5**). A move that changes the lead is one automated step that updates the docket portal and sends alerts ([CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure)).
+- A transfer, consolidation, or referral between forums continues the same case. The case keeps its intake kind and its [Forum Case Record](core_05.035_band_accountability.md#forum-case-record), and only the lead changes (**section 5**). A move that changes the lead is one automated step that updates the docket portal and sends alerts ([CF-23.415 §12 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-12-transfer-procedure)).
 - A direct case may end in a verified violation finding that opens or corrects a Standing Record. The forum then acts as record-opening authority on the terms in [Chapter Fifteen §3.7 Forum Boundary](core_15.000_standing_assessment.md#37-forum-boundary), and a contest of that Standing Record is a new review case heard by a forum that did not make the finding.
 
 <a id="42-seats-in-a-forum-case"></a>
@@ -640,7 +640,7 @@ While a challenge is pending:
 A Standing-Record contest is a [Review Case](core_05.035_band_accountability.md#review-case). A Standing Record may be contested before or after any filing, as follows:
 
 - A challenge raised on a Standing Record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the Standing Record, set *under challenge*, and routed by the custodian under [Chapter Fifteen §7.3](core_15.000_standing_assessment.md#73-challenge-received-on-the-standing-record) (*Challenge Received on the Standing Record*); the tier windows under **Chapter Twenty-Four §4** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
-- Where the record-opening authority was a Backup Record Authority under **CF-23.415 §7** (*Backup Record Authority*), a contest of that Standing Record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
+- Where the record-opening authority was a Backup Record Authority under **CF-23.415 §9** (*Backup Record Authority*), a contest of that Standing Record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
 - A sentient, institution, system, community, or other affected subject may ask a forum with jurisdiction to review a **contribution Standing Record** or **violation Standing Record** when they claim the Standing Record is:
   - wrong;
   - incomplete;
@@ -713,7 +713,7 @@ Forum Case Records are kept where the sentients who need them can reach them and
 - A custodian independent of the forum that made the entries keeps the Library and the Archive.
 - When a matter closes, each non-routine entry gets a physical backup, held offline and apart from the forum's own systems. Routine entries do not need one, and doubt resolves as non-routine.
 - An [Essential Record](core_05.035_band_accountability.md#essential-record) keeps its physical backup in at least three separate places in different regions. Standing Records at slot 5 and above are Essential Records ([Chapter Fifteen §7.5 Physical Backup and Certified Copies](core_15.000_standing_assessment.md#75-physical-backup-and-certified-copies)).
-- Mechanics are in [CF-23.465 §5.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-51-retention-classes-and-physical-backup) and [CF-23.465 §5.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-52-constitutional-library-and-constitutional-archive).
+- Mechanics are in [CF-23.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-71-retention-classes-and-physical-backup) and [CF-23.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_23.465_standard_records_forms_evidence_artifacts.md#cf-23465-72-constitutional-library-and-constitutional-archive).
 
 <a id="5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture"></a>
 
@@ -766,7 +766,7 @@ When one sentient files a case, the forum **may** widen the proceeding to cover 
 When a lawful order or published rule sends a matter to another forum, the move is one automated step: "go here."
 - The case keeps its Forum Case Record, intake kind, tier, and the time already counted. Only the lead changes. Nothing is re-filed, re-opened, or re-proved.
 - The same step updates the docket portal and alerts the parties, the representatives, and both forums. No one has to carry the matter across by hand.
-- The order or published rule decides where the matter goes. The step does not decide that, and it cannot be used to steer a matter. The mechanics are in [CF-23.415 §10 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-10-transfer-procedure).
+- The order or published rule decides where the matter goes. The step does not decide that, and it cannot be used to steer a matter. The mechanics are in [CF-23.415 §12 Transfer Procedure](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-12-transfer-procedure).
 
 <a id="53-cross-forum-anti-self-judging-rule"></a>
 

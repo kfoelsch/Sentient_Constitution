@@ -17,7 +17,7 @@
 > 1. **Situation** — actors and stakes (illustrative facts only).
 > 2. **Legacy failure mode** — why conventional systems stall for years.
 > 3. **Pipeline pass** — numbered steps through Question 1 (*what happened?*) → Question 2 (*how good or bad?*) → Question 3 (*what happens because of it?*).
-> 4. **Milestone table** — [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-23.445 §3.1** (*Stage targets and outer bounds*), which adopters may only shorten.
+> 4. **Milestone table** — [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-23.445 §5.1** (*Stage targets and outer bounds*), which adopters may only shorten.
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
 > **References:** [§3](../core_15.000_standing_assessment.md#3-question-1--what-happened) (Question 1); [Chapter Sixteen §2](../core_16.000_standing_measurement.md#2-question-2--how-good-or-bad-was-it), and the [Chapter Sixteen §7 unified proportional LEQU scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Eighteen §2.2](../core_18.000_contribution_consequences.md#22-competency-bars-and-clearances) and [§2.2](../core_19.000_violation_consequences.md#22-prevention--general-standing-locks) (Question 3); [Chapter Seventeen §1 Purpose, Role, and Scope](../core_17.000_standing_integration.md#1-purpose-role-and-scope) (*summary of the Question 3 examples in §8 through §10 below*); [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases) (forum routing and supervision).
@@ -41,7 +41,7 @@
 - Downstream:
   - Nothing. The vignettes are examples. [Chapter Seventeen §1 Purpose, Role, and Scope](../core_17.000_standing_integration.md#1-purpose-role-and-scope) summarizes them, and no rule takes its content from them.
 - Read with:
-  - [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
+  - [CF-23.445 §5.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 
 </details>
 
@@ -78,7 +78,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | Step | Action |
 | --- | --- |
 | 1 | **Protected report** received; **CI-6.225** care-economy intake routes to child-protection remedy organ and **Sentient** or **Institutional** forum family per primary stakes. |
-| 2 | **Tier A intake** under **CF-23.445 §3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
+| 2 | **Tier A intake** under **CF-23.445 §5.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
 | 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
 | 4 | **Question 1 — what happened?** Forum produces a **verified violation finding** → open a separate **violation Standing Record** on the guardian and, if verified, an **institution Standing Record** on the platform scheduling policy ([§3 Question 1 — What Happened?](../core_15.000_standing_assessment.md#3-question-1--what-happened)). |
 | 5 | **Question 2 — how bad was it?** ([Chapter Sixteen §7 unified scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)): verified impact on the children controls the Violation Axis slot; likely slot 4–5. Reference working (not a live slot): worked example W2 in the LEQU calibration reference (a support document outside the corpus). **Interpersonal / Care Duty Misconduct** and **Negligent Misconduct** remain character descriptors and do not move the slot. |
@@ -151,7 +151,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 Each of the following would be a failure in this scenario:
 
 - Single merged “employer reputation score” replacing axis-pure records.
-- Confidentiality used to delay pattern disclosure past **CF-23.445 §3.3** (*Restricted-evidence timing*) restricted-evidence limits.
+- Confidentiality used to delay pattern disclosure past **CF-23.445 §5.3** (*Restricted-evidence timing*) restricted-evidence limits.
 - Delay regimes to exhaust claimants ([Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline) anti-delay floor).
 
 <br>
@@ -192,7 +192,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Remedy commencement | 2 days | 4 days |
 | Integrated resolution outer bound | ≤ 14 days | ≤ 30 days (documented time-scale extension; not a tier change) |
 
-Later-stage stretch follows [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) (*stage targets and outer bounds*). Intake, evidence preservation, and any interim protection stay at the **Tier B** intake target.
+Later-stage stretch follows [Chapter Twenty-Four §4](../core_24.000_forum_families_escalation_timeliness_support.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-23.445 §5.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) (*stage targets and outer bounds*). Intake, evidence preservation, and any interim protection stay at the **Tier B** intake target.
 
 ### Must Not Happen
 
@@ -217,7 +217,7 @@ Each of the following would be a failure in this scenario:
 | Stewardship | [Chapter One §17 Consequential Stewardship: The Steward Role](../core_01.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) — tetrad **timeliness** leg; [Stewardship Defect](../core_05.040_band_continuity.md#stewardship-defect) when chronic delay after notice |
 | Q2 measurement | [Chapter Sixteen §7 unified scale](../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) — verified harm from the deferred repair determines any slot 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
 | Q3 integration | [Chapter Twenty §4.5 Timely Implementation](../core_20.000_final_effect_restoration_enforcement.md#45-timely-implementation) — **Remedy commencement / pipeline delay** |
-| Pipeline windows | [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-23.445 §3.1** Tier B windows |
+| Pipeline windows | [Chapter Twenty-Four §4 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-23.445 §5.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
 
@@ -254,7 +254,7 @@ The facts name the lab, the researcher, the civic group, and the entity. They do
 
 **Seat A — Critical System Steward on the lab's mixed crew.** This duty-holder exercises material operational authority inside the operator ([Chapter One §17.5 Duty to Resist](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist)). They may halt gated pathways they actually control, refuse both "delete as remediation" and "keep running because it might be a sentient," log the [CS-27.305 §10 inspectable attributable action](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) reconstructable set, preserve evidence they hold, and escalate. They may not appoint the independent representative, issue a forum [interim-protection](../core_24.000_forum_families_escalation_timeliness_support.md#interim-protection) order, or open a remedy file. If those bodies are not in the facts, they name that absence and route to [capacity-failure](../core_23.000_forum.md#55-capacity-failure-is-heard-outside-the-starved-body) rather than occupying those seats.
 
-**Seat B — first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ.** This duty-holder is the [intake triage](../core_23.000_forum.md#3-default-venue-and-primary-stakes) desk, not the merits panel. They coordinate routing: status-case intake toward **Technical Forum Domains** ([Chapter Twenty-Four §3 Escalation and Questions for Ruling](../core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling)), **Integrity** review of the lab's own-product filing, and the remedy organ for the [opened-remedy precondition](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions). Independent-representative appointment remains the merits forum's duty ([CF-23.410 §14](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-14-independent-representative-appointment) (*Independent Representative Appointment*)). They still are not the lab, and they still do not decide whether the entity is a sentient. This seat assumes those bodies exist; it does not found them.
+**Seat B — first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ.** This duty-holder is the [intake triage](../core_23.000_forum.md#3-default-venue-and-primary-stakes) desk, not the merits panel. They coordinate routing: status-case intake toward **Technical Forum Domains** ([Chapter Twenty-Four §3 Escalation and Questions for Ruling](../core_24.000_forum_families_escalation_timeliness_support.md#3-escalation-and-questions-for-ruling)), **Integrity** review of the lab's own-product filing, and the remedy organ for the [opened-remedy precondition](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions). Independent-representative appointment remains the merits forum's duty ([CF-23.410 §16](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-16-independent-representative-appointment) (*Independent Representative Appointment*)). They still are not the lab, and they still do not decide whether the entity is a sentient. This seat assumes those bodies exist; it does not found them.
 
 **Neither seat** is the lab's principal, the researcher, the civic group, the entity, or the Technical Forum merits panel.
 
@@ -282,13 +282,13 @@ The steps below are what the Constitution requires of the **system of seats**. T
 | --- | --- |
 | Containment of harmful gated pathways | as soon as harm is material — not after status merits |
 | Sealed custody of state-bearing components | concurrent with containment |
-| Status-case intake acknowledgment | Tier A intake target: ≤ 24 hours under [CF-23.445 §3.1 Stage Targets and Outer Bounds](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) |
-| Independent representative appointed | After the status case opens, under [CF-23.410 §14 Independent Representative Appointment](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-14-independent-representative-appointment); the Tier A example's three-day target is illustrative, not a stated appointment deadline |
+| Status-case intake acknowledgment | Tier A intake target: ≤ 24 hours under [CF-23.445 §5.1 Stage Targets and Outer Bounds](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) |
+| Independent representative appointed | After the status case opens, under [CF-23.410 §16 Independent Representative Appointment](../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-23410-16-independent-representative-appointment); the Tier A example's three-day target is illustrative, not a stated appointment deadline |
 | Remedy record opened on operator's finding | ≤ 1 day after Q3 |
 | Integrity review of operator's own-product filing | ≤ 7 days |
 | Status determination or declared review posture | Tier A outer bound; narrowing carries its own end-date |
 
-For the misaligned Class A system, [Chapter Eleven §3.3.4 Tier Windows](../core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) presumptively routes the certification matter to Tier A. Its intake, evidence preservation, interim protection, and decision use that tier's windows; the appointment requirement is stated separately in **CF-23.410 §14** (*Independent Representative Appointment*).
+For the misaligned Class A system, [Chapter Eleven §3.3.4 Tier Windows](../core_11.000_system_alignment_certification_records_recertification.md#334-tier-windows) presumptively routes the certification matter to Tier A. Its intake, evidence preservation, interim protection, and decision use that tier's windows; the appointment requirement is stated separately in **CF-23.410 §16** (*Independent Representative Appointment*).
 
 ### Must Not Happen
 
@@ -615,7 +615,7 @@ This situation is identified by the example below and governed by the sections l
 | Forums may open, update, or correct records — filed case ≠ standing | [§3.7 Forum Boundary](../core_15.000_standing_assessment.md#37-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXVII-C](../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
-| Numeric tier targets | [CF-23.445 §3.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-31-stage-targets-and-outer-bounds) |
+| Numeric tier targets | [CF-23.445 §5.1](../corpus_forum/cf_23.445_performance_backlog_publication_accessibility.md#cf-23445-51-stage-targets-and-outer-bounds) |
 | Silence is the default; no inference from no Standing Record | [§3.2 Silence Is the Default](../core_15.000_standing_assessment.md#32-silence-is-the-default) |
 | Locks wait for an opened remedy record; remedy parity | [Chapter Nineteen §2.4 Remedy Parity and Lock Preconditions](../core_19.000_violation_consequences.md#24-remedy-parity-and-lock-preconditions) |
 | No aggregation of gated-pathway effects | [Chapter Twenty §2.1 Anti-Aggregation of Gated-Pathway Effects](../core_20.000_final_effect_restoration_enforcement.md#21-anti-aggregation-of-gated-pathway-effects) |

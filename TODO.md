@@ -182,7 +182,7 @@ Items the custodian has set aside are in [project/SHELVED.md](project/SHELVED.md
 
 ## Archives
 
-- **2026-11-20 archive run (base commit `ba0175c`):** [archive/DOC_ARCHITECTURE_MOVES_765-786_ARCHIVED_2026-11-20.md](archive/DOC_ARCHITECTURE_MOVES_765-786_ARCHIVED_2026-11-20.md) (moves 765–786); no TODO item was complete.
+- **2026-11-20 archive runs (base commits `ba0175c` and `70b2698`):** [archive/DOC_ARCHITECTURE_MOVES_765-804_ARCHIVED_2026-11-20.md](archive/DOC_ARCHITECTURE_MOVES_765-804_ARCHIVED_2026-11-20.md) (moves 765–804); no TODO item was complete.
 - **2026-11-19 archive runs (base commits `4c22ddff` and `86987dd`):** [archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md](archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md) (moves 664–764); three open items carried into the backlog in the second run.
 - **2026-11-18 archive run (base commit `026b4f96`):** [archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md](archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md) (moves 650–651), [archive/TODO_RESOLVED_2026-11-18.md](archive/TODO_RESOLVED_2026-11-18.md) (four TODO items complete); no MEMLOG entry was complete.
 - **2026-11-18 second archive run (base commit `3a89bdaf`):** [archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md](archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md) (moves 652–663), [archive/TODO_RESOLVED_2026-11-18.md](archive/TODO_RESOLVED_2026-11-18.md) (two more TODO items complete, second-run section); no MEMLOG entry was complete.
