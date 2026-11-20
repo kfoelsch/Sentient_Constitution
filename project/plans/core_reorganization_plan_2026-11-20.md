@@ -176,7 +176,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 2. **New chapters are born with it.** The *Constitutional Map* and *Independent Bodies* chapters get their §2 in step 3. The Preamble is not a chapter and keeps its own shape.
 3. **Insert in the renumbering pass (step 4)**, with the old section anchors kept so links outside the corpus still land.
 4. **Audit after the pass.** Add the CHAPTER-S2-WHY audit (the *why* heading and the bulleted Grounded in list in every core chapter lead file) once every chapter passes, so later moves cannot regress.
-5. **Subcore files** carry no §2 of their own; each points to its chapter's §2. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
+5. **Subcore files** each carry a §2 *why* of their own (custodian, 2026-11-20: "All subcore files."), drafted for review in [subcore_section_2_drafts_2026-11-20.md](subcore_section_2_drafts_2026-11-20.md) and inserted in the same renumbering pass. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
 
 ## Proposed order
 
