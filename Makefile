@@ -685,6 +685,12 @@ section-bullet-lead-audit-summary:
 section-bullet-lead-audit-test:
 	cd tools && $(PYTHON) test_section_bullet_lead_audit.py
 
+chapter-s2-why-audit:
+	$(PYTHON) tools/chapter_s2_why_audit.py --root .
+
+chapter-s2-why-audit-test:
+	cd tools && $(PYTHON) test_chapter_s2_why_audit.py
+
 fossil-anchor-audit:
 	$(PYTHON) tools/fossil_anchor_audit.py --root .
 
@@ -755,6 +761,8 @@ regression:
 		chart-orientation-audit-test \
 		section-bullet-lead-audit \
 		section-bullet-lead-audit-test \
+		chapter-s2-why-audit \
+		chapter-s2-why-audit-test \
 		list-label-echo-audit \
 		list-label-echo-audit-test \
 		fossil-anchor-audit \

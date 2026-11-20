@@ -187,7 +187,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 | 3 | Split the chapters (the Preamble and Constitutional Map, and Independent Bodies) and put the office texts in the subcore | medium | step 2 |
 | 3a | Draft every chapter's new §2 and Grounded in list for review | medium | none (runs beside steps 1–3) |
 | 4 | One renumbering pass, inserting the reviewed §2 sections | large | steps 3 and 3a |
-| 4a | Section 2 audit (CHAPTER-S2-WHY) | small | step 4 |
+| 4a | Section 2 audit (CHAPTER-S2-WHY; done 2026-11-20, 833rd move: chapter lead files and subcore files) | small | step 4 |
 | 5 | Lean office texts | small | step 4 |
 | 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot) | medium | steps 2 and 4 |
 | 7 | Definitions bands to a definitions subcore (done 2026-11-20, 824th and 827th moves: Subcores 3-D to 3-O, files 03.040 to 03.095) | large | step 6 reviewed |

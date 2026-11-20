@@ -474,6 +474,13 @@
       "status": "blocking"
     },
     {
+      "id": "CHAPTER-S2-WHY-01",
+      "legacy_ref": "section 2 explains why the chapter or file exists",
+      "summary": "Every core chapter lead file (core_NN.000) and every subcore file has a ### 2. Why … section that contains a **Grounded in:** label on its own line followed by a bulleted list. The Preamble and Chapter Two (principle text) are exempt.",
+      "make_target": "chapter-s2-why-audit",
+      "status": "blocking"
+    },
+    {
       "id": "VIOLATION-FINDING-01",
       "legacy_ref": "violation finding wording",
       "summary": "On a line about violations, locks, holds, sanctions, or misconduct, a bare \"finding\" says \"violation finding\" when a finding of violation is meant; other findings are qualified.",

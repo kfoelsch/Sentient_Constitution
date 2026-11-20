@@ -895,8 +895,18 @@
       "run": "auto",
       "writes": false
     },
+    "chapter-s2-why-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
     "ch10-duplication-audit": {
       "category": "alignment",
+      "run": "auto",
+      "writes": false
+    },
+    "chapter-s2-why-audit-test": {
+      "category": "tests",
       "run": "auto",
       "writes": false
     },
